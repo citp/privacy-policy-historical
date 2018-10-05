@@ -1,68 +1,195 @@
-> *The following text is extracted and transformed from the freelancer.ph privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306104803id_/https%3A//www.freelancer.ph/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancer.ph privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005150321id_/https%3A//www.freelancer.ph/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Freelancer
 
-Freelancer has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for the Freelancer site. 
+Modified 24 May 2018
 
-By using the Freelancer site and accepting the User Agreement you also agree to this Privacy Policy. If you do not agree to this Privacy Policy, you must not use the Freelancer site. The terms "We," "Us," "Our," or "Freelancer" includes Freelancer International Pty Ltd and our affiliates. 
+### Our privacy obligations
 
-### 1\. What information do we collect?
+Freelancer.com (" **Freelancer** ") is governed by the Australian Privacy Principles (APPs) under the _Privacy Act 1988_ (Cth). The APPs regulate how personal information is handled by Freelancer.com. 
 
-  1. Freelancer collects your information when you register on the Freelancer site and when you visit Freelancer pages. 
-  2. Personal Information: We may collect the following types of personal information in order to provide you with the use and access to the Freelancer site, services and tools, and for any additional purposes set out in this Privacy Policy: 
-    * Name, and contact information, such as email address, phone number, mobile telephone number, physical address, and (depending on the service used) sometimes financial information, such as bank account numbers;
-    * transactional information based on your activities on the sites (such as bidding, buying, selling, item and content you generate or that relates to your account), billing and other information you provide to purchase an item;
-    * personal information you provide to us through correspondence, chats, dispute resolution, or shared by you from other social applications, services or websites;
-    * additional personal information we ask you to submit to authenticate yourself if we believe you are violating site policies (for example, we may ask you to send us an ID to answer additional questions online to help verify your identity);
-    * information from your interaction with our sites, services, content and advertising, including, but not limited to, device ID, device type, location, geo-location information, computer and connection information, statistics on page views, traffic to and from the sites, ad data, IP address and standard web log information.
-  3. Aggregate Information: Freelancer collects non-identifying, general, generic and aggregate information to better design our Web site and services. 
-  4. Non-Personal Information: Freelancer may collect non-personal information as you use Freelancer. When you use the site, Freelancer, third-party service providers (e.g. Google Analytics), and partners may receive and record non-personal information from cookies, server logs, and similar technology from your browser or mobile device, including your IP address. 
-  5. We may combine some Non-Personal Information with the Personal Information we collect. Where we do so, we will treat the combined information as Personal Information if the resulting combination may be used to readily identify or locate you in the same manner as Personal Information alone. 
+'Personal information' means information or an opinion about an identified individual, or an individual who is reasonably identifiable. Freelancer's Privacy Policy applies to personal information collected and/or held by Freelancer. 
 
+This Privacy Policy also explains how we process 'personal data' about people in the European Union (EU), as required under the General Data Protection Regulation (GDPR). 
 
+We will review this policy regularly, and we may update it from time to time. 
 
-### 2\. How do we store your information?
+### The types of personal information we collect and hold
 
-We use hosting provider Amazon Web Services, therefore your information may be transferred to and stored on servers in various locations both in and outside of Australia. Freelancer maintains control of your information. We protect your information using technical and administrative security measures to reduce the risks of loss, misuse, unauthorised access, disclosure and alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centres, and information access authorisation controls. 
+We collect personal information about our users in order provide our products, services, and customer support. Our products, services, and customer support are provided through many platforms including but not limited to: websites, phone apps, email, and telephone. The specific platform and product, service, or support you interact with may affect the personal data we collect. 
 
-### 3\. How do we use your Information?
+Not all information requested, collected, and processed by us is "Personal Information" as it does not identify you as a specific natural person. This will include majority of "User Generated Content" that you provide us with the intention of sharing with other users. Such "Non-Personal Information" is not covered by this privacy policy. However, as non-personal information may be used in aggregate or be linked with existing personal information; when in this form it will be treated as personal information. As such, this privacy policy will list both types of information for the sake of transparency. 
 
-  1. When you use the Freelancer site, we may request certain information. Freelancer does not share any of your personally identifiable or transactional information with any person or entity, other than as set out in this policy. No other third party receives your personally identifiable information or other transactional data except for approximate location / geo-location information when you use the Local jobs service and those with whom you have transactions and share that information. The information we collect is used to improve the content of our web site, used to notify consumers about updates to our web site and for communications, such as customer service. 
-  2. Email Communications: We may send you a welcome email to verify your account and other transactional emails for operational purposes, such as billing, account management, or system maintenance. You may only stop those emails by terminating your account. We may also send you promotions, product announcements, surveys, newsletters, developer updates, product evaluations, and event information or other marketing or commercial e-mails. You can opt out of receiving these email communications from Freelancer at any time by unsubscribing using the unsubscribe link within each email, updating your e-mail preferences on your Freelancer account or emailing us to have your contact information removed from our email list or registration database. 
-  3. SMS communications: We may send you SMS messages to your secure phone number for operational purposes, such as notifying you about the status of your project. You can opt out of receiving these SMS messages from Freelancer at any time by updating your notifications preferences on your Freelancer account or by replying 'STOP' to any message we send. 
-  4. Marketing: You agree that we may use your personal information to tell you about our services and tools, deliver targeted marketing and promotional offers based on your communication preferences, and customise measure and improve our advertising. You can unsubscribe from emails at any time by clicking the unsubscribe link contained in the email. 
-  5. We do not rent, sell, or share Personal Information about you with other people or non- affiliated companies for marketing purposes (including direct marketing purposes) without your permission. We may use and share Non-Personal Information for our marketing purposes, including, without limitation, marketing on other websites. For example, we may use the information to control the number of times you have seen an ad, deliver ads tailored to your interests, and measure the effectiveness of ad campaigns. You can prevent us from tailoring our ads to you on other websites by deleting your cookies (see below). 
+In some situation users may provide us with personal information without us asking for it, or through means not intended for the collection of particular types of information. Whilst we may take reasonable steps to protect this data, the user will have bypassed our systems, processes, and control and thus the information provided will not be governed by this privacy policy. 
 
+In some situations users may provide us personal information over platforms that are outside our control; for example through social media or forums. Whilst any information collected by us is governed by this Privacy Policy, the platform by which it was communicated will be governed by its own Privacy Policy. 
 
+### How we collect personal information
 
-### 4\. Sharing your Information
+#### Information that you specifically give us
 
-  1. We disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. Such information will be disclosed in accordance with applicable laws and regulations. As stated above, we do not disclose your personal information to third parties for their marketing purposes without your explicit consent. 
-  2. We may disclose personal information to our related bodies corporate and third party suppliers and service providers located overseas for some of the purposes listed above. We take reasonable steps to ensure that the overseas recipients of your personal information do not breach the privacy obligations relating to your personal information. 
-  3. We may disclose your personal information upon a business transition; At the sale or transfer of Freelancer and/or all or part of its assets, your personal information may be among the items sold or transferred. 
-  4. We may disclose your personal information to entities located outside of Australia, including our related bodies corporate, located in the Philippines, Singapore, Switzerland, Canada and the UK. 
-  5. We may share aggregate data with advertisers and other third parties. Freelancer uses industry-standard encryption technologies when transferring and receiving consumer and transaction data exchanged with our site. 
+While you use our products and services you may be asked to provide certain types of personal information. This might happen through our website, applications, online chat systems, telephone, paper forms, or in-person meetings. We will give you a Collection Notice at the time, to explain how we will use the personal information we are asking for. The notice may be written or verbal. 
+
+We may request, collect, or process the following information: 
+
+  * **Account Details** \- username, password, profile picture.
+  * **Contact Details** \- email address, phone number.
+  * **Location Details** \- physical address, billing address, timezone.
+  * **Identity Details** \- full name, proof of identity (e.g. drivers licence, passport), proof of address (e.g. utility bill), photograph of the user.
+  * **Financial Information** \- credit card details, wire transfer details, payment processor details (e.g. skrill, paypal), tax numbers.
+  * **User Generated Content** \- project descriptions and attachments, bid description, user profiles, user reviews, contest descriptions and attachment, user messages etc.
 
 
 
-### 5\. Cookies
+#### Information that we collect from others
 
-  1. Cookies are pieces of data assigned by a web server that uniquely identify the browser on your PC. Freelancer uses cookies called "persistent" cookies to enable the site to remember you on subsequent visits, speeding up or enhancing your experience of services or functions offered. Cookies also enable our systems to gather information about your navigational patterns through the site. You have the option to disable cookies at any time through your browsers. We may also store your website activity in cookies which may be used by third party vendors, including Google, to serve ads based on your behaviour on our website. 
-  2. The third party vendors (e.g. Google Analytics) may receive and record non-personal information from cookies, server logs, and similar technology from your browser or mobile device, including your IP address. You may opt out of Google's use of cookies by visiting the Google advertising [opt-out page](http://www.google.com/privacy_ads.html)
-  3. If you access our Services with your login credentials from a social networking site (e.g., Facebook or Twitter) or if you otherwise agree to associate your Freelancer account with a social networking account, we may receive personal information about you from such social networking site, in accordance with the terms of use and privacy policy of the social networking site. For example, Facebook may share with us your friend list, birthday, information about the interests of you or your friends or other personal information, in order to help us establish your account, tailor services to you and find other current or potential site users that you know. We may add this information to the information we have already collected from you via other aspects of the Site. You are also subject to the social networking site's terms of use and privacy policy. We use the OAuth (open authorisation) protocol to enable us to access this information without collecting your password when you agree allow another application to access your account information. 
+Users can give permission for us to connect to their account on other platforms to collect personal information. This includes but is not limited to Facebook, LinkedIn, and Google. Information collected will be governed by this Privacy Policy. Users can stop us from collecting data from other platforms by removing our access on the other platform or by contacting our support team. 
+
+Users have the ability to invite non-users to our platform by providing contact details such as email address. In these situations, the information will be collected and stored by us to contact the non-user and to prevent abuse of the invite systems. 
+
+Your payment provider may transmit information about the payment that we may collect or process. 
+
+In some situations, personal information of users may be collected from public sources. 
+
+We may collect or process the following information: 
+
+  * **Basic Details** \- username, profile picture.
+  * **Contact Details** \- email address, phone number.
+  * **Location Details** \- Physical Address, billing address, timezone.
+  * **Financial Information** \- payment account details (e.g. paypal email address and physical address), and wire transfer details.
+  * **List of contacts** \- email provider address book.
+  * **User Generated Content** \- user profile.
 
 
 
-### 6\. Accessing and updating your Information
+#### Information we collect as you use our service
 
-You can update your information through your account profile settings. If you believe that personal information we hold about you is incorrect, incomplete or inaccurate, then you may request us to amend it. 
+We maintain records of the interactions we have with our users, including the products, services and customer support we have provided. This includes the interactions our users have with our platform such as when a user has viewed a page or clicked a button. 
 
-Additionally, You may request access to any personal information we hold about you at any time by contacting us at [privacy@freelancer.com](mailto:privacy@freelancer.com). Where we hold information that you are entitled to access, we will try to provide you with suitable means of accessing it (for example, by mailing or emailing it to you). We may charge you a fee to cover our administrative and other reasonable costs in providing the information to you. We will not charge for simply making the request and will not charge for making any corrections to your personal information. 
+In order to deliver certain products or services we may passively collect your GPS coordinates, where available from your device. Most modern devices such as smartphones will display a permission request when our platform requests this data. 
 
-There may be instances where we cannot grant you access to the personal information we hold. For example, we may need to refuse access if granting access would interfere with the privacy of others or if it would result in a breach of confidentiality. If that happens, we will give you written reasons for any refusal. 
+When we are contacted we may collect personal information that is intrinsic to the communication. For example, if we are contacted via email, we will collect the email address used. 
 
-### Changes to our privacy policy
+We may collect or process the following information: 
 
-We may change this privacy policy from time to time. Any updated versions of this privacy policy will be posted on our website. Please review it regularly. 
+  * **Metadata** \- IP address, computer and connection information, referring web page, standard web log information, language settings, timezone, etc.
+  * **Device Information** \- device identifier, device type, device plugins, hardware capabilities, etc.
+  * **Location** \- GPS position.
+  * **Actions** \- pages viewed, buttons clicked, time spent viewing, search keywords, etc.
 
-This privacy policy was last updated on 9th February 2016. 
+
+
+#### Links to other sites
+
+On our website, you will encounter links to third party websites. These links may be from us, or they may appear as content generated by other users. These linked sites are not under our control and thus we are not responsible for their actions. Before providing your personal information via any other website, we advise you to examine the terms and conditions of using that website and its privacy policy. 
+
+### How we use personal information
+
+The information we request, collect, and process is primarily used to provide users with the product or service they have requested. More specifically, we may use your personal information for the following purposes: 
+
+  * to provide the service or product you have requested;
+  * to facilitate the creation of a User Contract (see Terms of Service for more information);
+  * to provide technical or other support to you;
+  * to answer enquiries about our services, or to respond to a complaint;
+  * to promote our other programs, products or services which may be of interest to you (unless you have opted out from such communications);
+  * to allow for debugging, testing and otherwise operate our platforms;
+  * to conduct data analysis, research and otherwise build and improve our platforms;
+  * to comply with legal and regulatory obligations;
+  * if otherwise permitted or required by law; or
+  * for other purposes with your consent, unless you withdraw your consent for these purposes.
+
+
+
+The 'lawful processing' grounds on which we will use personal information about our users are (but are not limited to): 
+
+  * when a user has given consent;
+  * when necessary for the performance of a contract to which the user is party;
+  * processing is necessary for compliance with our legal obligations;
+  * processing is necessary in order to protect the vital interests of our users or of another natural person.
+  * processing is done in pursuing our legitimate interests, where these interests do not infringe on the rights of our users.
+
+
+
+We use automated decision when helping matching users to jobs. The primary way this occurs is through how we rank users. These rankings are produced by analysing user generated content, user activity and the outcome of jobs; in this context, user generated content will include reviews that users receive when completing jobs. More information on these ranking guides can be found in our community articles. Automated decision making is also used to recommend potential jobs to our users and as a part of our marketplace security systems. 
+
+### When we disclose personal information
+
+#### Our third party service providers
+
+The personal information of users may be held or processed on our behalf outside Australia, including 'in the cloud', by our third party service providers. Our third party service providers are bound by contract to only use your personal information on our behalf, under our instructions. 
+
+Our third party service providers include: 
+
+  * Cloud hosting, storage, networking and related providers
+  * SMS providers
+  * Payment and banking providers
+  * Marketing and analytics providers
+  * Security providers
+
+
+
+##### Third party applications
+
+Through the Freelancer API it is possible for users to grant third party applications access to their Freelancer account. Depending on the permissions that are granted, these applications may be able to access some personal information or do actions on the users' behalf. These third party applications are not controlled by us and will be governed by their own privacy policy. Users are able to remove third party applications from access their data through their settings. 
+
+#### Other disclosures and transfers
+
+We may also disclose your personal information to third parties for the following purposes: 
+
+  * if necessary to provide the service or product you have requested;
+  * we receive court orders, subpoenas or other requests for information by law enforcement;
+  * if otherwise permitted or required by law; or
+  * for other purposes with your consent.
+
+
+
+As we are a global company, with offices around the world, your personal information may be processed by staff in any of our offices. Freelancer currently has offices in Australia, The Philippines, The United Kingdom, Canada, and Argentina. 
+
+### Accessing, correcting, or downloading your personal information
+
+You have the right to request access to the personal information Freelancer holds about you. Unless an exception applies, we must allow you to see the personal information we hold about you, within a reasonable time period, and without unreasonable expense for no charge. Most personal information can be accessed by logging into your account. If you wish to access information that is not accessible through the platform, or wish to download all personal information we hold on you in a portable data format, please contact our Privacy Officer. 
+
+You also have the right to request the correction of the personal information we hold about you. All your personal information can be updated through the user settings pages. If you require assistance please contact our customer support. 
+
+### Exercising your other rights
+
+You have a number of other rights in relation to the personal data Freelancer holds about you, however, there may be restrictions on how you may exercise the rights. This is largely due to the nature of the products and services we provide. Much of the data we collect is in order to facilitate contracts between users, facilitate payments, and provide protection for the legitimate users of our marketplace - these data uses are protected against the below rights. 
+
+You have the right to: 
+
+  * seek human review of automated decision-making or profiling
+  * opt-out of direct marketing, and profiling for marketing
+  * erasure
+  * temporary restriction of processing.
+
+
+
+**Human review of automated decision making / profiling** \- In the case of our ranking algorithms, it is not possible to exercise this right as this ranking is a fundamental part of the marketplace that users participate in, opting out would mean not being able to participate in the marketplace. Decisions affecting marketplace security are already reviewed by humans. 
+
+**Direct marketing and profiling** \- users can control what emails they receive through their settings page. 
+
+**Erasure** \- Most personal information and user generated content cannot be deleted as they are used to support contracts between users, document financial transactions, and are used in providing protecting other legitimate users of the marketplace. In the case of non-personal data that can be linked with personal data, it will either be erased or otherwise anonymised from the personal data.
+
+**Temporary restriction to processing** \- under certain circumstances you may exercise this right, in particular if you believe that the personal data we have is not accurate, or you believe that we do not have legitimate grounds for processing your information. In either case you may exercise this right by contacting our privacy officer. 
+
+Unless stated above, users may exercise any of the above rights by contacting our Privacy Officer. 
+
+### To contact our Privacy Officer
+
+If you have an enquiry or a complaint about the way we handle your personal information, or to seek to exercise your privacy rights in relation to the personal information we hold about you, you may contact our Privacy Officer as follows: 
+
+**By Email:**   
+[privacy-officer@freelancer.com](mailto:privacy-officer@freelancer.com)
+
+**By Mail:**   
+Attn: Privacy Officer   
+Level 20, 680 George Street   
+World Square, NSW, 2000 Australia 
+
+For the purposes of the GDPR, our Privacy Officer is also our Data Protection Officer (DPO). 
+
+While we endeavour to resolve complaints quickly and informally, if you wish to proceed to a formal privacy complaint, we request that you make your complaint in writing to our Privacy Officer, by mail or email as above. We will acknowledge your formal complaint within 10 working days of receipt. 
+
+If we do not resolve your privacy complaint to your satisfaction, you may lodge a complaint with the Office of the Australian Information Commissioner (OAIC) by calling them on 1300 363 992, making a complaint online at [www.oaic.gov.au](http://www.oaic.gov.au/), or writing to them at OAIC, GPO Box 5218, Sydney NSW 2001. 
+
+If you are in the European Union, you can choose to instead lodge a complaint with your local Data Protection Authority (DPA). The list of DPAs is at <http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm>. 
