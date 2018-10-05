@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemsociety.org privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707000703id_/https%3A//www.gemsociety.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemsociety.org privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005051732id_/https%3A//www.gemsociety.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - International Gem Society
 
