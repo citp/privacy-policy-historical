@@ -1,123 +1,117 @@
-> *The following text is extracted and transformed from the visitflorida.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524013725id_/http%3A//www.visitflorida.com/en-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitflorida.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005161518id_/https%3A//www.visitflorida.com/en-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**This statement was updated February 5, 2016.**
+This Privacy Notice explains how we, VISIT FLORIDA, collect, use, share and store information about individuals (“you”) and your interactions with our website at www.VISITFLORIDA.com and our other websites (“Site”). It also explains your choices and rights, such as opting out of receiving newsletters and targeted advertising, with respect to other activities governed by this policy. This Privacy Notice was updated on August 28, 2018. Click [here](https://web.archive.org/en-us/privacy-policy/privacy-policy-2016-02.html) to view archived versions.  
 
-VISIT FLORIDA is the Official Tourism Marketing Corporation for the State of Florida. [www.VISITFLORIDA.com](http://www.visitflorida.com/) is the official website of VISIT FLORIDA.
 
-This Privacy Statement explains how we, VISIT FLORIDA, collect, use, share and store information about individuals (“you”) and your interactions with our website at [www.VISITFLORIDA.com](http://www.visitflorida.com/) and our other websites (“Site”). It also explains your choices, such as opting out of receiving newsletters and targeted advertising.
+## **I. Who we are**
 
-### **Summary**
+VISIT FLORIDA is the Official Tourism Marketing Corporation for the State of Florida. www.VISITFLORIDA.com is the official website of VISIT FLORIDA.
 
-We collect and use information about you in several ways. We receive information directly from you when you send us email, share a photo, complete a form on our Site (such as a survey or a request for a guide or a sweepstakes entry) or at a kiosk, sign up to receive email from us, or call us with questions. We collect information electronically when you browse our Site.
+VISIT FLORIDA’s contact details are:  
+Postal Address: 2540 W. Executive Center Circle, Suite 200, Tallahassee, FL 32301  
+Email: [privacy@visitflorida.org](mailto:privacy@visitflorida.org)  
+Phone: 850-488-5607
 
-There are two types of information we collect – anonymous and personal. Anonymous information is information that cannot be used to identify you individually. We collect anonymous information automatically. Personal information is information that can be used to identify you individually, such as your name, address, email address, or phone number. We collect personal information only when you give it to us. You may be asked to provide personal information anytime you are in contact with us. We may share your personal information with our Florida tourism partners, as described in detail below. We and our Florida tourism partners may combine your personal information with other information to provide and improve our products, services, and advertising. You are not required to provide any personal information that we request, but if you choose not to do so, in many cases we will not be able to provide you with our services or respond to any questions you might have.
+If you have questions, please contact our Data Protection Officer at:  
+Postal Address: 2540 W. Executive Center Circle, Suite 200, Tallahassee, FL 32301  
+Email: [privacy@visitflorida.org](mailto:privacy@visitflorida.org)  
+Phone: 850-488-5607
 
-##### **I. What information do we collect? How do we collect it? What do we do with it?**
+## II. Data Collection and Usage
+
+We collect, store and use your personal information to allow you to use our Site, to communicate with us, and for the other purposes described in more detail below or as we may specify at the time of collection.
+
+We collect and use information about you in several ways. We may receive information directly from you when you send us email, share a photo, complete a form on our Site (such as a survey or a request for a guide or a sweepstakes entry), sign up to receive email from us, or call us with questions. We may receive your social media profile when you share articles on our Site using your social account. We also collect information electronically when you browse our Site. We do not store it longer than necessary.  
+
+
+There are two types of information we collect – anonymous and personal. Anonymous information is information that cannot be used to identify you individually. We collect anonymous information automatically. Personal information is information that can be used to identify you individually, such as your name, address, email address, or phone number. Except for your IP address, we collect personal information only when you give it to us. You may be asked to provide personal information anytime you are in contact with us. We may share your personal information with our Florida tourism partners, as described in detail below. We and our Florida tourism partners may combine your personal information with other information to provide and improve our products, services, and advertising. You are not required to provide any personal information that we request, but if you choose not to do so, in many cases we will not be able to provide you with our services or respond to any questions you might have.
 
 The type of information we collect from you depends on how you interact with us. You can use our Site without providing us with any information other than anonymous information we collect automatically.
 
-###### **A. Information you provide directly**
+**A. Information you provide directly.   **
 
 We obtain information that identifies you personally directly from you. We ask for your contact information (name, street address, email address, and phone numbers) when you request a guide, sign up for electronic newsletters, answer a survey, enter a sweepstakes or other game or contest, participate in other promotional activities, or share your photos with us. We may also ask for information that helps us understand more about your interest in Florida tourism, such as demographic information like household information and age group, and information about your travel interests. By law we must ask prize winners for their social security numbers so that we can report their winnings to the IRS. When you share a photo with us, we may obtain your credit line (an acknowledgement of who shot the photo), caption and date and place the photo was taken.
 
-We use the information that you voluntarily provide to reply to your requests, to update and improve the content on our Site or in our electronic newsletters, and to assist with marketing research. We use photos you share with us to promote Florida vacations.
+We use the information that you voluntarily provide to reply to your requests, to update and improve the content on our Site or in our electronic newsletters, and to assist with marketing research. We use photos you share with us to promote Florida vacations.  
 
-###### **B. Information we collect electronically automatically  **
 
-**1\. Information about your visit**
+**B. Information we collect electronically automatically.**
 
-Our Site servers automatically record your visits to our Site. Like all other website servers, ours compiles a log that records the date, time, browser (i.e., Firefox), device type (i.e., iPhone), operating system (i.e. Android) and originating IP address of each Site page request. Your IP address is not personally-identifiable information. We use cookies to collect the following information about your visit to our Site: which website or ad you visited right before ours, which pages you visited on our Site, and how much time you spent on each section of our Site. We may also collect other data about your visit, such as search requests and results. We use this information to track usage of our Site, to measure the number of unique visitors to the different sections of our Site and to help us make our Site more useful. The use of this information is called “analytics.” We may build interest profiles based on page visits. “Cookies” are data files, which often include an anonymous unique identifier, sent to your hard drive from a website. Cookies can only be read by the party placing the cookie. They cannot erase or alter any of your data. When you visit the website again using the same browser (Google Chrome or Safari, for example), the cookie allows that website to recognize your computer. Cookies may store user preferences (such as your Florida Favorites) and other information, and allow us to anonymously identify and track users as they move around our Site. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some of our Site features may not function properly without cookies. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies enabled so that we can offer you the best experience on our Site. For more information about cookies, visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+**1. **Inf**** **ormation about your visit.** Our Site servers automatically record your visits to our Site. Like all other website servers, ours compiles a log that records the date, time, browser (i.e., Firefox), device type (i.e., iPhone), operating system (i.e. Android) and originating IP address of each Site page request. 
 
-**2\. Information About Your Location**
+We use cookies that identify your browser or device. They collect and store information when you visit our Site about how you use the Site, and facilitate interest-based advertising. For detailed information about cookies, the types of cookies we use and how we use them please see our [Cookie Notice](https://web.archive.org/en-us/cookie-notice.html).
 
-From your IP address, we can tell generally where you are when you are accessing our Site, i.e., which city.
+We have a legitimate interest in collecting this information to monitor usage of our Site, identify issues with our Site, and improving our services.
 
-###### **C. Information Third Parties Collect Electronically Automatically**
+**2\. Information About Your Location.**    From your IP address, we can tell generally where you are when you are accessing our Site, i.e., which city.
 
-1\. Third-Party Cookies for Site Use Analysis We use third parties such as Google to help us analyze how people are using our Site. We also use the Google Analytics service to provide us with demographic data about our users, such as age and gender, on an anonymous basis. That Google service uses a cookie that can be recognized by Google or its affiliate DoubleClick when you visit other websites.
+**C. With Whom Do We Share Information We Collect?**
 
-2\. Third-Party Cookies Used to Target Ads to You When You are on Other Websites We work with other companies who use their cookies or beacons to target Visit Florida ads to you when you visit other websites. This is called retargeting and is common practice. You may also see third party ads on our Site that are targeted to you based on your prior visits to that third party’s website. Other companies we work with target other Florida vacation ads to you on other websites. This is called behavioral advertising, because you receive ads based on your prior online behavior. For example, when you visit our Site you may receive a cookie on your browser that is read when you visit Facebook using that same browser, so that during your visits to the Facebook website you might receive advertising based on the pages you visited on our Site. “Beacons” are transparent pixel images that are used in collecting information about website usage across websites and over time.
-
-###### **D. Opting Out**
-
-**1\. To Unsubscribe from Email**
-
-Please email [privacy@visitflorida.org](https://web.archive.org/web/20180524013725id_/http%3A//www.visitflorida.com/en-us/privacy@visitflorida.org) be removed from our emailing list.
-
-**2\. Opting Out of Google Analytics**
-
-To prevent your data from being used by Google Analytics, [click here](https://tools.google.com/dlpage/gaoptout/) for instructions.
-
-**3\. Opting Out of Google Advertising**
-
-To opt out of Google behavioral advertising, [click here](https://www.google.com/settings/ads/plugin) to see your Google ad settings.
-
-**4\. Opting Out Generally**
-
-We do not have access to, nor does this Privacy Statement govern, the use of cookies or other tracking technologies that may be placed on your computer, mobile phone, or other device by non-affiliated, third-party ad technology, ad servers, ad networks or any other non-affiliated third parties. If you would like to learn more about behavioral advertising or to opt out of having this information used by companies that are part of the Network Advertising Initiative to deliver targeted ads, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/). Many of the same companies are members of the Self-Regulatory Program for Online Behavioral Advertising. You can learn more and opt out of receiving targeted ads from them at <http://www.aboutads.info/choices>. Choices you make are both browser and device-specific. This means that if you opt out when using Safari on your computer at work, you will not be opted out on Chrome or on your home computer. Please note that when you opt out of an ad network, you may receive an "opt-out" cookie so that the network will know not to assign you new cookies in the future. You will continue to receive ads from that network, but not behaviorally targeted ads. If you erase your browser's cookies, you may need to perform this process again.
-
-**5\. Deleting cookies**
-
-To manage or delete browser cookies, please see your browser's privacy settings.
-
-**6\. Flash Cookies**
-
-We currently do not use flash cookies, but we may in the future. To manage or delete Flash cookies, please use the Adobe Flash Player Settings Manager here: [Website Storage Settings panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
-
-**7\. Do Not Track**
-
-Some browsers have a ‘do not track’ feature that lets you tell websites that you do not want to have your online activities tracked. These features are not yet uniform, so we are not currently set up to respond to those signals.
-
-##### II. With Whom Do We Share Information We Collect?
-
-###### **A. Personal Information**
-
-We share the information that you voluntary provide with our Florida tourism partners and also with business partners that fulfill your requests for information, such as companies that mail our print brochures.
+**1\. Personal Information.** We may share the information that you voluntary provide with our Florida tourism partners and also with business partners that fulfill your requests for information, such as companies that mail our print brochures.
 
 We share your email address with trusted business partners who provide Florida tourism services and have also agreed to use your information only to promote their own products and services.
 
 We may disclose your personal information as required by law, in conjunction with a government inquiry, or in litigation or dispute resolution.
 
-###### **B. Anonymous Information**
+**2\. Anonymous Information.**    We may disclose statistical information to third parties in aggregate form without revealing any personal details about our users (for example, 45% of our Site visitors live in the Northeast).
 
-We may disclose statistical information to third parties in aggregate form without revealing any personal details about our users (for example, 45% of our Site visitors live in the Snowbelt).
+## **III. WHERE YOUR INFORMATION WILL BE HELD**
 
-##### III. Links to Outside Web Sites
+Our Site operates in the U.S. If you are located outside of the U.S., please be aware that all information you provide us will be transferred to and stored and processed in the U.S. Please also be aware that by using our Site and giving us your information, you consent to such U.S. transfer, storage and processing. You also understand that the U.S. privacy laws may be different from the laws of your country.
+
+We store our information on cloud servers located in the United States. Our cloud services provider is part of the Privacy Shield, which requires it to provide similar protection to personal data shared between Europe and the US. For further details see European Commission: EU-US Privacy Shield https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en.
+
+Where we use third party vendors based in the US, we may transfer data to them if they are part of the Privacy Shield or if the transfer is governed by a contract including Standard Contractual Clauses (SCCs) approved by the European Commission in accordance with Article 46(2)(c) of the General Data Protection Regulation or similar clauses.
+
+## IV. YOUR RIGHTS
+
+You have certain rights in relation to your information under U.S. and European law. The availability of these rights and the ways in which you can use them are set out below in more detail.
+
+  * **You have the right to be informed.** This privacy policy informs you of our data collection and privacy practices. You have the right to confirm whether we process your personal data and the purpose of the processing, categories of details concerned, and the recipients of the data.
+  * **You have the right to access.** You are entitled to ask us if we are processing your information and, if we are, you can request access to your personal information. This enables you to receive a copy of the personal information we hold about you and certain other information about it to check that we are lawfully processing it.
+  * **You have the right to rectification.** You are entitled to request that any incomplete or inaccurate personal information we hold about you is corrected.
+  * **You have the right to erasure.** You are entitled to ask us to delete or remove personal information in certain circumstances. There are also certain exceptions where we may refuse a request for erasure, for example, where the personal data is required for compliance with law or in connection with claims.
+  * **You have the right to restrict processing.** You are entitled to ask us to suspend the processing of certain of your personal information about you, for example if you want us to establish its accuracy or the reason for processing it.
+  * **You have the right to object to processing.** Where we are processing your personal information based on a legitimate interests (or those of a third party) you may challenge this. However we may be entitled to continue processing your information based on our legitimate interests or where this is relevant to legal claims. You also have the right to object where we are processing your personal information for direct marketing purposes.
+  * **You have the right to data portability.** You may request the transfer of certain of your personal information to another party.
+  * **You have the right to complain** to a supervisory authority. 
+  * **You have the right to withdraw consent.** Where we are processing your personal information based on your consent, you may withdraw that consent. 
+  * **Automated decisions.** We do not currently make any automated decisions. However, if we did, you may contest any automated decision made about you where this has a legal or similar significant effect and ask for it to be reconsidered.
+
+
+
+Some of these rights will only apply in certain circumstances. If you would like to exercise, or discuss, any of these rights, please contact our Data Protection Officer at [dpo@visitflorida.org](mailto:dpo@visitflorida.org).
+
+## **IV. Links to Outside Web Sites**
 
 This Site may contain links to third party sites not controlled by VISIT FLORIDA, such as those belonging to Florida tourism partners. We recommend that you check the privacy statement of other sites you visit before providing any personal information. Any offers made in advertising on our Site are the sole responsibility of the companies making the offers.
 
-##### IV. Security of Information
+## **IV. Security of Information**
 
 Please note that although we take reasonable steps to protect your information, no website or computer system or wireless connection is completely secure.
 
-##### V. Privacy Inquiries
+## **V. Privacy Inquiries**
 
-If you have concerns or questions regarding our consumer privacy practices, please forward them to [privacy@visitflorida.org](https://web.archive.org/web/20180524013725id_/http%3A//www.visitflorida.com/en-us/privacy@visitflorida.org).
+If you have concerns or questions regarding our consumer privacy practices, please forward them to [privacy@visitflorida.org](mailto:privacy@visitflorida.org).
 
-##### VI. Changes to Privacy Statement
+## **VI. Changes to Privacy Notice**
 
-We retain the right to change this Privacy Statement at any time to reflect changes in the law, our data collection and use practices, the features of our services, or advances in technology. Please check this page periodically for changes. Your continued use of the Site following the posting of changes will mean you accept those changes.
+We retain the right to change this Privacy Notice at any time to reflect changes in the law, our data collection and use practices, the features of our services, or advances in technology. Please check this page periodically for changes. Your continued use of the Site following the posting of changes will mean you accept those changes.
 
-##### VII. International Visitors
-
-Our Site operates in the U.S. If you are located outside of the U.S., please be aware that all information you provide us will be transferred to and stored and processed in the U.S. Please also be aware that by using our Site and giving us your information, you consent to such U.S. transfer, storage and processing. You also understand that the U.S. may not provide the same level of protections as the laws of your country.
-
-##### VIII. California Do-Not-Track Disclosure Requirements
+## **VIII. California Do-Not-Track Disclosure Requirements**
 
 We do not recognize or respond to browser-initiated Do-Not-Track signals, because the Internet industry is still working on uniform Do-Not-Track standards.
 
-##### IX. Your California Privacy Rights
+## **IX. Your California Privacy Rights**
 
-California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties, such as Florida tourism partners, to whom we have disclosed their personal information for direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [privacy@visitflorida.org](https://web.archive.org/web/20180524013725id_/http%3A//www.visitflorida.com/en-us/privacy@visitflorida.org).
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties, such as Florida tourism partners, to whom we have disclosed their personal information for direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [dpo@visitflorida.org](mailto:privacy@visitflorida.org).
 
-##### X. Contact Us
+## **X. Children**
 
-We can be reached via e-mail at [info@VISITFLORIDA.org](https://web.archive.org/web/20180524013725id_/http%3A//www.visitflorida.com/en-us/privacy@visitflorida.org).
+We do not knowingly collect information from children or other persons who are under 13 years old. If you are under 13 years old, you must not submit any personal information to us. If you believe we might have any personal information from or about a person less than 13 years old, please contact [dpo@visitflorida.org](mailto:dpo@visitflorida.org).
 
-Our postal address is:  
-2540 W. Executive Center Circle  
-Suite 200  
-Tallahassee, FL 32301  
- 
+## **XI. Florida “Sunshine” Law**
+
+We adhere to Florida’s open records laws. Records we send and receive may be subject to public disclosure upon request.  
