@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the honest.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728113030id_/https%3A//www.honest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honest.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005162928id_/https%3A//www.honest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Honest Company
 
-Last Updated on February 10, 2017.
+Last Updated on December 15, 2017.
 
 PLEASE CAREFULLY READ THE FOLLOWING PRIVACY POLICY OF THE HONEST COMPANY, INC. AND ALL OF ITS SUBSIDIARIES, SUCCESSORS IN INTEREST AND ASSIGNS(COLLECTIVELY, “THE HONEST COMPANY”, “US”, “WE”) BEFORE USING: [www.honest.com](https://web.archive.org/) , [www.honestbeauty.com](http://www.honestbeauty.com/) , all related websites, products, services and related mobile applications (the “Honest Services”), as well as [www.alt12.com](http://www.alt12.com/) and all related websites, products, services and mobile applications, including BabyBump, Pink Pad, Kidfolio and Baby Names (the “Alt12 Services”, together with the Honest Services, the “Site”). 
 
@@ -32,8 +32,6 @@ As is true of most websites, we automatically gather information about your comp
 
 Your IP address, time and date of visit, browser type, referring/exit pages, operating system, agent version, platform, SDK version, timestamp, API key (identifier for application), application version, device identifier, iOS Identifier for Advertising, iOS Identifier for Vendors, Media Access Control (MAC) address, International Mobile Equipment Identity (IMEI), Model, manufacture and OS version of device, session start/stop time, locale (specific location where a given language is spoken), time zone, and network status (WiFi, etc.). 
 
-For more details on the type of information Flurry may collect, you may view their Privacy Policy. You also have the right to opt-out of Flurry services by going [here.](https://dev.flurry.com/secure/optOut.do)
-
 We may log this information for system administration and improvement, order verification, marketing and system troubleshooting purposes. 
 
 We use this information to:
@@ -57,6 +55,8 @@ We use this information to:
 
 We may use a third party named Flurry Analytics (“Flurry”) to collect this information on the Alt12 Services.
 
+For more details on the type of information Flurry may collect, you may view their Privacy Policy. You also have the right to opt-out of Flurry services by going [here.](https://dev.flurry.com/secure/optOut.do)
+
 To review and update your personal information to ensure it is accurate, contact us at:
 
 The Honest Company   
@@ -76,13 +76,15 @@ The Site allows users to access Facebook to interact with friends and to share o
 
 Community Public Profile on the Alt12 Services: Certain portions of the information you provide to us via the Alt12 Services may also be displayed in your community public profile. As an essential element of the Alt12 Services, most of the personal information you explicitly provide to us when you register or update your profile is not displayed on your community profile. In order for your profile to be made public, you must go to your community profile settings and individually change each visibility preference. By default, your profile is not for public viewing. Your photos, posts, friends, and other content you post to the Alt12 Service are also meant for public consumption. We may display this content on the Site and further distribute it to a wider audience through third party sites and services. Once displayed on publicly viewable web pages, that information can be collected and used by others. We cannot control who reads your postings or what other users may do with the information that you voluntarily post, so it is very important that you do not put personal information in your posts. Once you have posted information publicly, while you will still be able to edit and delete it on the Site, you will not be able to edit or delete such information cached, collected, and stored elsewhere by others (e.g., search engines). 
 
-Posted Content on the Alt12 Services: 
+Community Profile on the Honest Services: Should you choose to create a user profile and participate in the community feature of the Honest Mobile Application, the information you explicitly provide to us when you register or update your profile is displayed on your community profile. Your photos, posts and other content you post to the Honest Services are meant for public consumption and may be archived by us. We may display this content on the Site and further distribute it to a wider audience through third party sites and services. Once displayed on publicly viewable pages of the community, that information can be collected and used by others. We cannot control who reads your postings or what other users may do with the information that you voluntarily post, so it is very important that you do not put personal information in your posts. Once you have posted information publicly, while you will still be able to edit and delete it on the community feature of the Honest Mobile Application, you will not be able to edit or delete such information cached, collected, and stored elsewhere by others (e.g., search engines). 
 
-We reserve the right, but have no obligation, to monitor the user content you post on the Alt12 Services. We have the right to remove any such information or material for any reason or no reason, including without limitation if, in our sole opinion, such information or material violates, or may violate, any applicable law or our Terms of Service or to protect or defend our rights or property or those of any third party. We also reserve the right to remove information upon the request of any third party. 
+Posted Content on the Alt12 and Honest Services: 
+
+We reserve the right, but have no obligation, to monitor the user content you post on the Alt12 and Honest Services. We have the right to remove any such information or material for any reason or no reason, including without limitation if, in our sole opinion, such information or material violates, or may violate, any applicable law or our Terms of Service or to protect or defend our rights or property or those of any third party. We also reserve the right to remove information upon the request of any third party. 
 
 ### Mobile Services
 
-We may also collect information from your mobile device if you have downloaded our mobile application. This information is generally used to help us deliver the most relevant information to you. Examples of information that may be collected and used include your geographic location, how you use the mobile application, and information about the type of device you use. In addition, in the event our mobile application crashes on your mobile device, we will receive information about your mobile device model software version and device carrier, which allows us to identify and fix bugs and otherwise improve the performance of our mobile application. This information is sent to us as aggregated information and is not traceable to any individual and cannot be used to identify an individual. 
+We may also collect information from your mobile device if you have downloaded our mobile application. This information is generally used to help us deliver the most relevant information to you. Examples of information that may be collected and used include your geographic location, how you use the mobile application, photos you post and messaging within the community feature, and information about the type of device you use. In addition, in the event our mobile application crashes on your mobile device, we will receive information about your mobile device model software version and device carrier, which allows us to identify and fix bugs and otherwise improve the performance of our mobile application. This information is sent to us as aggregated information and is not traceable to any individual and cannot be used to identify an individual. 
 
 ### Location Information
 
