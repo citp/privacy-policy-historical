@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renewableenergyworld.com privacy policy that was archived on 2018-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180305123124id_/http%3A//www.pennwell.com/index/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renewableenergyworld.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005232245id_/http%3A//www.pennwell.com/index/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - PennWell Corporate
 
@@ -71,8 +71,6 @@ We commit to cooperate with EU Data Protection Authorities (DPAs) and comply wit
 
 We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act) and children under the age of 13 are not eligible to use the services of this site. Our website, products and services are all directed to people who are at least 13 years of age or older.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.pennwell.com/index/terms-and-conditions.html](http://www.pennwell.com/content/pw/en/index/terms-and-conditions.html)
 
 By using our site, you consent to our online privacy policy.
@@ -90,12 +88,6 @@ Website:  [www.pennwell.com](http://www.pennwell.com/)
 Email:  [Complete Form](http://www.pennwell.com/content/pw/en/contact.html)  
 Phone:  800-331-4463
 
-As part of the Privacy Shield self-certification, the DMA acts as PennWell’s dispute resolution mediator.  We have selected the DMA, as the independent dispute resolution body (the “Arbiter“) designated to address your complaints and provide appropriate recourse to you free of charge.  The DMA is an alternative dispute resolution provider based in the United States.  An individual who decides to invoke this arbitration option must first, prior to initiating an arbitration claim, raise the claimed violation directly with us and afford us an opportunity to resolve the issue within the timeframe set forth in the Principles. If you have exhausted all other means to resolve your concern regarding a potential violation of our obligations under the Principles, you may invoke binding arbitration before the Privacy Shield Panel. For additional information about the arbitration process please visit the Privacy Shield website atwww.privacyshield.gov;
+As part of the Privacy Shield self-certification, the DMA acts as PennWell’s dispute resolution mediator.  We have selected the DMA, as the independent dispute resolution body (the “Arbiter“) designated to address your complaints and provide appropriate recourse to you free of charge.  The DMA is an alternative dispute resolution provider based in the United States.  An individual who decides to invoke this arbitration option must first, prior to initiating an arbitration claim, raise the claimed violation directly with us and afford us an opportunity to resolve the issue within the timeframe set forth in the Principles. If you have exhausted all other means to resolve your concern regarding a potential violation of our obligations under the Principles, you may invoke binding arbitration before the Privacy Shield Panel. For additional information about the arbitration process please visit the Privacy Shield website at [www.privacyshield.gov](http://www.privacyshield.gov/);
 
-If you believe we have not adequately resolved your data questions, feel free to contact DMA
-
-Privacy Shield Line  
-1333 Broadway, Suite 301  
-New York, NY 10018  
-Complaint Form:  <https://thedma.org/shield-complaint-form/>  
-Last Updated:  February 20, 2018
+If you are a European consumer and wish to gain access to the data that PennWell controls about you, or if you wish to have your data corrected or deleted, please click on the following link to our request form.
