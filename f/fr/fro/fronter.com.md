@@ -1,195 +1,217 @@
-> *The following text is extracted and transformed from the fronter.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908143046id_/https%3A//itslearning.com/global/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fronter.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005155246id_/https%3A//itslearning.com/global/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - itslearning - global
+# Privacy Policy - itslearning - Global
 
-## Part 1: Personal information and privacy
+**Posted: 4 May 2018**  
+**Last updated: 4 May 2018**
 
-####  1\. Introduction
+## INTRODUCTION
 
-1.1 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information on itslearning.com.
+itslearning (“we”) is committed to keeping your data safe. Any time we collect or process your data, we’ll do so legally. That means that we will only process data with your explicit permission and/or for necessary marketing and sales communication. This page will explain, in some detail:
 
-1.2 We will ask you to consent to our use of cookies in accordance with the terms of this policy when you first visit our website: itslearning.com. By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
+  * Who collects the data
+  * What data we collect
+  * How we collect data
+  * Why we collect data
+  * How we use the data
+  * Data processors
+  * Your data rights
 
-####  2\. Collecting personal information
 
-2.1 We may collect, store and use the following kinds of personal information:
 
-a) information about your computer and about your visits to and use of this website (including, your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths)
+While you’re on our site, we’ll collect and store information about you in accordance with this policy. If you don’t agree with this, please visit our [Cookie Policy](https://itslearning.com/global/cookie-policy) for information about how to turn tracking off, or, exit the site entirely – we won’t take it personally.
 
-b) information that you provide to us when registering with our website
+We are a global company, so when you provide us personal data, that data may be used, processed, or stored anywhere in the world, including in countries that have data protection laws that are different to the country in which you reside. However, itslearning has policies and procedures in place that are constructed to safeguard and ensure an equal level of protection is applied across the entire organization and in accordance with this Policy.
 
-c) information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters (including, your name and email address)
+This Privacy Policy (which we’ll refer to as “Policy” going forward), describes practices with regards to our marketing websites (“website” going forward), e-mails, affiliates, virtual and in-person events, offline sales, and additional marketing and sales activities.
 
-d) information that you post to our website for publication on the internet (including, your user name and the content of your posts)
+## WHO COLLECTS THE DATA
 
-e) information contained in or relating to any communications that you send to us or send through our website (including, the communication content and meta data associated with the communication)
+All data is collected on behalf of itslearning AS, Solheimsgaten 7D, 5058 Bergen, Norway and its subsidiaries. We can be contacted by email: [post@itslearning.com](mailto:post@itslearning.com) or via phone at +47 55 23 60 70.
 
-f) any other personal information that you choose to send to us
+Our DPO, John Arthur Berg can be contacted via email at [contact-dpo@itslearning.com](mailto:contact-dpo@itslearning.com), or by phone at + 47 55 23 60 70.
 
-2.2 Before you disclose to us the personal information of another person, you must obtain that person’s consent to both the disclosure and the processing of that personal information in accordance with the terms of this policy.
+## WHAT DATA WE COLLECT
 
-#### 3\. Using your personal information
+We will never collect data about you without clearly stating what information we are requesting and what we will use it for. This is the data we collect:
 
-3.1 Personal information submitted to us through our website will be used for the purposes specified in this policy or on the relevant pages of the website.
+  * Your first and last name, e-mail address, phone number
+  * Company information including name, physical address, size
+  * Geographical location, IP address, including country, state or province
+  * Behavioral or demographical information
+  * Data from marketing opt-in lists, campaigns, surveys, or publicly available information
+  * Collaboration information
 
-3.2 We may use your personal information to:
 
-a) administer our website
 
-b) personalise our website for you
+## HOW WE COLLECT DATA
 
-c) enable your use of the services available on our website
+Through your interaction with us or use of this website, we may collect the following personal information that identifies you as an individual:
 
-d) send you non-marketing commercial communications
+  * Information you provide through form submissions on our websites. This includes when you contact us, subscribe to our marketing communications, download collateral, register or attend an itslearning event or partner event, and purchase products or services.
+  * Information you provide when applying for a job.
+  * Information that you submit to us or itslearning employees when you want to engage in business or potential business with us.
+  * Information you provide us through our website, in-personal conversations or events.
+  * Information from surveys, reviews, or inquiries that you voluntarily take part in.
+  * Information you submit to us via social media channels.
 
-e) send you email notifications that you have specifically requested
 
-f) send you our email newsletter, if you have requested it (you can inform us at any time if you no longer require the newsletter)
 
-g) send you marketing communications relating to our business which we think may be of interest to you, by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications)
+We don’t intentionally solicit, collect or process data for anybody under the age of 18. If it happens by accident, we delete it immediately.
 
-h) provide third parties with statistical information about our users (but those third parties will not be able to identify any individual user from that information)
+We collect data via third-party advertisers, such as Google Adwords remarketing service. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network.
 
-i) deal with enquiries and complaints made by or about you relating to our website j) keep our website secure and prevent fraud
+## WHY WE COLLECT DATA
 
-3.3 If you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the licence you grant to us.
+We collect your data to better provide you information and determine whether our LMS would be a good fit for you. In those cases where we use legitimate interest as lawful basis for our data processing, we will always balance our interest with your right to data privacy.
 
-3.4 Your privacy settings can be used to limit the publication of your information on our website, and can be adjusted using privacy controls on the website.
+The legitimate interest basis makes processing lawful only if it is necessary of the controller. It requires transparency and the successful outcome of a balancing test between your right to privacy and our interests. Transparency means it shall be clear to you which data is used and how it’s used. A balancing test requires us to take into consideration factors such as:
 
-3.5 We will not, without your express consent, supply your personal information to any third party for the purpose of their or any other third party’s direct marketing.
+  * That our interest as controller is significant compared to the impact on your data privacy
+  * That we only process what can reasonably be expected by you
+  * That we cannot achieve the same by not processing the data
 
-####  4\. Disclosing personal information
 
-4.1 We may disclose your personal information to, any of our employees, officers, insurers, professional advisers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes set out in this policy.
 
-4.2 We may disclose your personal information to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes set out in this policy.
+As such, our purposes are always legitimate, and the disadvantages to you are few.
 
-4.3 We may disclose your personal information:
+These are our specific purposes for processing your data:
 
-a) to the extent that we are required to do so by law;
+  * Identifying and targeting educational institutions that have an interest and need for a learning management system
+  * Promoting our learning management system to interested potential customers
+  * Nurturing relationships with interested potential customers, whether we initially encountered them via telephone, web or in-person.
+  * Managing customer relationships, to better communicate any updates or changes they might be interested in
 
-b) in connection with any ongoing or prospective legal proceedings;
 
-c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);
 
-d) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
+## HOW WE USE THE DATA
 
-4.4 Except as provided in this policy, we will not provide your personal information to third parties.
+We only collect or process your data we are performing a contract, when we have consent, or when we have a legitimate interest.
 
-#### 5\. International data transfers
+Your **consent** must be clear, unambiguous and freely given. When we request information, we have to tell you what we’d like to know and why. **Legitimate interests** are uses that are necessary to provide a product or service, or those that could be reasonably expected by the person whose information is being collected.
 
-5.1 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this policy.
+If no activity, interest, intent or need can be identified within a 2-year period, we delete your data. Please note that third-party sites may retain it. The only time we will retain your personal information for longer than is outlined in this Policy is when it is required by law.
 
-5.2 Personal information that you publish on our website or submit for publication on our website may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
+The chart below explains how we use the data collected through each of our channels, the purpose and the legal basis we have for doing so.
 
-#### 6\. Retaining personal information
+**How we collect data** | **Why we collect data** | **How we use the data** | **The legal basis for our use**  
+---|---|---|---  
+You fill out a form on our website, including those from Marketo, LiveChat, Google Forms, Typeform, Survey Monkey and Eventbrite. | Identifying and targeting educational institutions that have an interest and need for a learning management system. 
 
-6.1 This Section 6 sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal information.
+Nurturing relationships with interested potential customers.
 
-6.2 Personal information that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.
+Managing customer relationships, to better communicate any updates or changes they might be interested in.
 
-6.3 Notwithstanding the other provisions of this Section 6, we will retain documents (including electronic documents) containing personal data:
+| When you fill out a form, we let you know why and how we’ll use the data. 
 
-a) to the extent that we are required to do so by law;
+This includes requests to contact us, subscribe to our marketing communications or newsletter, download collateral, register or attend an itslearning event or partner event, and purchase products or services, or identify a company’s need for an LMS.
 
-b) if we believe that the documents may be relevant to any ongoing or prospective legal proceedings; and
+| Consent  
+We collect your information from a publicly available source (e.g. you have your contact information listed on your website.) | Identifying and targeting educational institutions that have an interest and need for a learning management system. | We use this information to ensure that the data we are processing of yours is correct and up to date, as well as to correctly profile whether you have potential, intent or a need to purchase an LMS. | Legitimate Interest  
+You contact us via our LiveChat form. | Nurturing relationships with interested potential customers 
 
-c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk).
+Managing customer relationships, to better communicate any updates or changes they might be interested in
 
-####  7\. Security of your personal information
+| We track your on-site behavior to better answer your questions, as well as to notify you that a representative is available should you wish to engage, make product inquiries or further a purchase. | Consent  
+We’ve partnered with a related company to create a cross-promotional opportunity. | Identifying and targeting educational institutions that have an interest and need for a learning management system. | We use this data to better identify customers who might have a potential need or interest in an LMS. | Legitimate Interest  
+We talk to you at an event or tradeshow. | Nurturing relationships with interested potential customers. 
 
-7.1 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
+Managing customer relationships, to better communicate any updates or changes they might be interested in.
 
-7.2 We will store all the personal information you provide on our secure (password- and firewall-protected) servers.
+| We use your information to build relationships, determine whether you may have a need or intent to purchase an LMS, and to obtain explicit consent to be added to our marketing distribution email list for further nurturing. | Legitimate Interest  
+We communicate with you via our social media channels. | Nurturing relationships with interested potential customers. 
 
-7.3 You acknowledge that the transmission of information over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+Managing customer relationships, to better communicate any updates or changes they might be interested in.
 
-#### 8\. Amendments
+| We build brand awareness, and link you to information on our website that we believe may prove useful. | Legitimate Interest  
+You sign up for a particular piece of email marketing. | Promoting our learning management system to interested potential customers. 
 
-8.1 We may update this policy from time to time by publishing a new version on our website.
+Managing customer relationships, to better communicate any updates or changes they might be interested in.
 
-8.2 You should check this page occasionally to ensure you are happy with any changes to this policy.
+| itslearning has a legitimate interest to send singular emails for one intended purpose, or at the request, or knowledge of the recipient. | Legitimate Interest  
+You sign up to be on our marketing distribution list. | Promoting our learning management system to interested potential customers. 
 
-#### 9\. Your rights
+Managing customer relationships, to better.
 
-9.1 You may instruct us to provide you with any personal information we hold about you.
+| itslearning will explicitly ask if a prospect would like to be added to the distribution list to receive marketing communication on products, services, topics that may be of interest to them. | Consent  
+One of our representatives talks to you in person, email, via drop-in or at a networking event. | Nurturing relationships with interested potential customers 
 
-9.2 We may withhold personal information that you request to the extent permitted by law.
+Managing customer relationships, to better communicate any updates or changes they might be interested in
 
-9.3 You may instruct us at any time not to process your personal information for marketing purposes.
+| We follow up on high-level marketing activity and buyer behavior in order to reach out, establish contact, create or foster a relationship, and follow up for the purposes of driving sales and revenue. | Legitimate Interest  
+  
+## DATA PROCESSORS
 
-9.4 In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt out of the use of your personal information for marketing purposes.
+Data processors are third parties with whom we have contracted to assist in our communication to users, customers, partners and prospects. They are not allowed to process your personal information unless we instruct them to do so. They will not share your personal information with any other organization. They will secure and retain your data for the period we specify. In those cases where the data resides in a non-EU country, we indicate the location next to the processor’s name.
 
-#### 10\. Third party websites
+**Salesforce (US)**  
+We use Salesforce as our CRM system and our main tool for communication with our partners, customers and prospects. We have Binding Corporate Rules that ensure that any data transfer has an adequate level of data protection.
 
-10.1 Our website includes hyperlinks to, and details of, third party websites.
+[Salesforce Data Processing Addendum](https://www.salesforce.com/assets/pdf/misc/data-processing-addendum.pdf)
 
-10.2 We have no control over, and are not responsible for, the privacy policies and practices of third parties.
+**Marketo (US)**  
+Marketo is our Marketing automation software and is used to communicate to prospects, users and customers. We have Standard Contractual Clauses with Marketo, which ensure that any data transfer has an adequate level of data protection.
 
-#### 11\. Updating information
+[Marketo GDPR Addendum and Data Processing Addendum](https://nation.marketo.com/docs/DOC-5691?mkt_tok=eyJpIjoiWVRBNVpEQmpaREE1WkdFeCIsInQiOiI4cG9vWDYxcWozaURtbVwvNTh2UDArYVVMZEhmVnFIVlNiZWtsY3FDSnFFUHB6Um9MNDR3VVdoY2FGNGtHdnBlV1wvZlMzT1JjU25RRFNISjBPb3YxcmpyamJsdVp0eXJlUEltcTZsZFM5RnJFZGQ0Y0hvWFZwelwvZFN0dWVcLzJ1bjJmTU44OFhaQTNvaXB0NEdLbHozU3h3PT0ifQ%3D%3D)
 
-11.1 Please let us know if the personal information that we hold about you needs to be corrected or updated.
+**Live Chat (US)**  
+LiveChat powers the chatting service on our websites. Information collected by LiveChat will be retained for 24 months. We have signed Standard Contractual Clauses which ensure that any data transfer has an adequate level of data protection.
 
-## Part 2: Cookies
+[Live Chat Privacy Policy](https://app.hellosign.com/sign/12e8ad772bfa4c589a5c669262f616de34836aaa#/sign/component_1864068553_1?validate=false)
 
-#### 1\. About cookies
+**Survey Monkey (US)**  
+Survey Monkey is used as our survey tool. We use this for general surveys and to plan and evaluate events. We have signed Standard Contractual Clauses which ensure that any data transfer has an adequate level of data protection.
 
-1.1 A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
+[Survey Monkey Privacy Policy](https://www.surveymonkey.com/mp/legal/privacy-policy/)
 
-1.2 Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+**Adobe Sign (US)**  
+Adobe Sign is used to digitally sign documents. Adobe will store some information about the signed documents or signature/the signing and the event in addition to an audit trail. We have signed Standard Contractual Clauses which ensure that any data transfer has an adequate level of data protection.
 
-1.3 Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+[Adobe Sign](https://www.adobe.com/uk/privacy/policies-business/esign.html)
 
-1.4 Cookies can be used by web servers to identity and track users as they navigate different pages on a website and identify users returning to a website.
+**Google Analytics  
+**
 
-####  2\. Our cookies
+Google Analytics is used to analyse the use of our website. Our analytics service provider generates statistical and other information about website use by means of cookies. The information generated relating to our website is aggregated and used to create trending reports about the use of our website. It is used to improve how itslearning.com functions and performs.
 
-2.1 We use both session and persistent cookies on our website.
+**Consultants**  
+We use several consulting companies in our day-to-day operations. They have all signed a confidentiality and non-disclosure agreement and a data processing agreement.
 
-2.2 The names of the cookies that we use on our website, and the purposes for which they are used, are set out below:
+  * [Pedowitz Group](http://www.pedowitzgroup.com/) (US), a marketing technology consultancy
+  * [Jaroop](https://www.jaroop.com/) (US), a web development consultancy
+  * [Amesto](https://www.amesto.com/), a translation service provider
 
-a) we use performance cookies on our website. These cookies enable the collection of information about how visitors use our website, including which pages visitors go to most often and if they receive error messages from certain pages. These cookies do not collect information that individually identifies a visitor. All information these cookies collect is aggregated and anonymous. It is only used to improve how itslearning.com functions and performs.
 
-b) we use functional cookies on our website to allow itslearing.com to remember information you have entered or choices you make and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize.
 
-c) we use third-party service providers to serve advertisements on our behalf across the Internet. These service providers may collect your IP address and non-personally identifiable information about your visits to our site in order to serve itslearning ads while you are visiting other websites. Such non-personally identifiable information is anonymous and does not include your name, address, email address or other personal information, however your IP address may be collected. The anonymous information is collected through the use of a pixel tag (also known as cookies and action tags), which is industry-standard technology used by most major websites.
+## YOUR DATA RIGHTS
 
-#### 3\. Analytics cookies
+When it comes to your personal data, you have rights:
 
-3.1 We use Google Analytics to analyse the use of our website.
+  * You have the right to know whether we have your information.
+  * You have the right to access any information we have about you.
+  * You have the right to correct or update your information.
+  * You have the right to unsubscribe from our marketing materials, whenever you choose.
+  * You have the right to tell us not to process your data for marketing.
+  * You have the right to withdraw consent to use your information. (This withdrawal does not retroactively affect the lawfulness of any processing, nor does it affect processing that does not rely on consent.)
+  * You have the right to talk about your personal data with our Data Protection Officer.
+  * You have the right to lodge a complaint if you think we’ve mishandled your data.
+  * You have the right to make us delete any information you’ve consented to share.
 
-3.2 Our analytics service provider generates statistical and other information about website use by means of cookies.
 
-3.3 The information generated relating to our website is used to create reports about the use of our website.
 
-3.4 Our analytics service provider’s privacy policy is available at: http://www.google.com/policies/privacy.
+In some cases these rights are subject to certain conditions and limitations. If you would like to learn more about these rights please contact our Data Protection Officer.
 
-####  4\. Third party cookies
+If you want to exercise any of these rights, you have a number of different ways to do so. You can:
 
-4.1 Our Site may contain links to other websites, share buttons (e.g. Twitter) or Facebook “Like” buttons. These other websites, services and applications may set their own cookies on users’ computers, collect data or solicit personal information. You should refer to any privacy policies found on such websites, services and applications to understand how your information may be collected and used.
+  * Contact our [DPO](mailto:contact-dpo@itslearning.com) via email
+  * To unsubscribe [click here](http://info.itslearning.net/UnsubscribeForm.html)
+  * Lodge a complaint with a [supervisory authority](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080)
 
-#### 5\. Blocking cookies
 
-5.1 Most browsers allow you to refuse to accept cookies; for example:
 
-(a) in Internet Explorer (version 10) you can block cookies using the cookie handling override settings available by clicking “Tools”, “Internet Options”, “Privacy” and then “Advanced”;
+All requests will be processed within one month.
 
-(b) in Firefox (version 24) you can block all cookies by clicking “Tools”, “Options”, “Privacy”, selecting “Use custom settings for history” from the drop-down menu, and unticking “Accept cookies from sites”; and
+[Click here](https://itslearning.com/global/wp-content/uploads/sites/20/2017/11/privacy_policy_itslearning-app.pdf) to read the privacy policy for the itslearning App
 
-(c) in Chrome (version 29), you can block all cookies by accessing the “Customise and control” menu, and clicking “Settings”, “Show advanced settings” and “Content settings”, and then selecting “Block sites from setting any data” under the “Cookies” heading.
-
-5.2 Blocking all cookies will have a negative impact upon the usability of many websites.
-
-5.3 If you block cookies, you will not be able to use all the features on our website.
-
-####  6\. Deleting cookies
-
-6.1 You can delete cookies already stored on your computer; for example:
-
-(a) in Internet Explorer (version 10), you must manually delete cookie files (you can find instructions for doing so at http://support.microsoft.com/kb/278835);
-
-(b) in Firefox (version 24), you can delete cookies by clicking “Tools”, “Options” and “Privacy”, then selecting “Use custom settings for history”, clicking “Show Cookies”, and then clicking “Remove All Cookies”; and
-
-(c) in Chrome (version 29), you can delete all cookies by accessing the “Customise and control” menu, and clicking “Settings”, “Show advanced settings” and “Clear browsing data”, and then selecting “Delete cookies and other site and plug-in data” before clicking “Clear browsing data”.
-
-6.2 Deleting cookies will have a negative impact on the usability of many websites.
+**Previous version(s):**  
+[Privacy Policy September 2016](https://itslearning.com/global/wp-content/uploads/sites/20/2018/05/privacy-policy-itslearning-global-05-2018.pdf)
