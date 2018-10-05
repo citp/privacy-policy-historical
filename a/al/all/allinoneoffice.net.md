@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allinoneoffice.net privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624044358id_/http%3A//allinoneoffice.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allinoneoffice.net privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005081859id_/http%3A//allinoneoffice.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | All in One Office
 
@@ -50,4 +50,5 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 If, however, we are going to use Individually Identifiable Information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days.
 
-Company address: 39/5 Granton Crescent, Edinburgh, EH51BN, United Kingdom
+Company address: 39/5 Granton Crescent, Edinburgh, EH51BN, United Kingdom  
+[info@axeldivision.com](mailto:info@axeldivision.com)
