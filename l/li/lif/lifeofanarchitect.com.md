@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeofanarchitect.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027005431id_/https%3A//www.lifeofanarchitect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeofanarchitect.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005031407id_/https%3A//www.lifeofanarchitect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Life of an Architect
 
