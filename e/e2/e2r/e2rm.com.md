@@ -1,99 +1,159 @@
-> *The following text is extracted and transformed from the e2rm.com privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410214230id_/https%3A//www.frontstream.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e2rm.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005185931id_/https%3A//www.frontstream.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FrontStream
 
-The privacy of User Data is very important to us. As such, FrontStream Holdings, LLC, or its applicable subsidiary (“FrontStream,” “we,” or “us”), presents this Privacy Policy (“Policy”) that describes how we collect, use, and disclose information, including through the websites, mobile applications, and other online services that link to or post this Policy (collectively, the “Services”). Please read the entire Privacy Policy before using our Services. 
+**FrontStream Privacy Policy**
 
-Accountability for our compliance with this Policy rests with our Privacy Officer, even though other individuals within FrontStream may also have responsibility for some day-to-day collection and processing of User Data. Other individuals within FrontStream may be delegated to act on behalf of the Privacy Officer. 
+**Updated:** **September 11, 2018**
 
-In this Policy “User Data” means any information submitted by you, a Customer or an end-user of the Service(s), whether true or not, and whether recorded in a material form or not, about an individual who is either identified or reasonably identifiable. This policy applies to individuals.
+By accessing or using the Services, or by accepting our **_Terms and Conditions_** , **_Terms of Use_** (where applicable) or **_Services Agreement_** or any other terms that incorporate this Privacy Policy by reference, you agree on behalf of yourself and any organization that you represent (together, “you”) that you have read and understand this Privacy Policy and that you consent to the collection, use, and sharing of information as discussed below. If you do not agree with this Privacy Policy, do not access or use the Services. This Policy is incorporated into and made a part of our **_Terms and Conditions_** , **_Terms of Use_** (where applicable) or **_Services Agreement_**.
 
-**1\. Information We Collect.** When you visit our Services, we will not collect User Data about you unless you provide us that information voluntarily. We may ask you for some or all of the following types of User Data when you register with, access or use our Services, respond to any surveys or polls, or directly contact us with questions or feedback:
-
-  * Contact information, such as first and last name, e-mail address, postal address, and telephone number;
-  * User name and password;
-  * Demographic information, such as age information and gender;
-  * Payment information, such as credit card number and expiration date;
-  * Geolocation information;
-  * Communications preferences;
-  * Correspondence and other information that you send to us; and
-  * Additional information as otherwise described to you at the point of collection or pursuant to your consent, and as required or permitted by applicable law.
+  1. **Overview**
 
 
 
-We also may collect certain information automatically when you visit the Services, including: 
+FrontStream has developed this Privacy Policy to inform you how we collect data and use the data we collect. FrontStream provides a platform, applications, and our website (collectively, “Services”) specifically for fundraising activities by nonprofit and corporate customers.
 
-  * Your browser type and operating system;
-  * Your Internet Protocol (IP) address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area;
-  * Other unique identifiers, including mobile device identification numbers;
-  * Sites you visited before and after visiting the Services;
-  * Pages you view and links you click on within the Services;
-  * Information collected through cookies, web beacons, and other technologies;
-  * Information about your interactions with e-mail messages, such as the links clicked on and whether the messages were opened or forwarded; and
-  * Standard Server Log Information.
+In this Privacy Policy, “you” or “your” refers to a user of our Services who may use the Services directly through us or through one of our corporate customers (e.g., a nonprofit organization or other corporate entity) (“Customer”). For example, a you may be an individual seeking information from a Customer or you may be providing a donation to a Customer, and you use our platform or otherwise access the Services that we provide to the Customer. Please note that this Privacy Policy only covers the data we collect, and it does not apply to websites or services we do not control, including websites or services of our Customers.
+
+Please review this Privacy Policy and our [Cookie Policy](https://www.frontstream.com/cookie-policy/) carefully. If you have questions, please [contact us](mailto:privacy@frontstream.com). Additional contact details are at the bottom of this Privacy Policy.
+
+  2. **Data We Collect**
 
 
 
-We may use cookies, pixel tags, and similar technologies to automatically collect this information. Cookies are small bits of information that are stored by your computer’s web browser. Pixel tags are very small images or small pieces of data embedded in images, also known as “web beacons” or “clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device. By using the Services, you consent to our use of cookies and similar technologies. You can decide if and how your computer will accept a cookie by configuring your preferences or options in your browser. However, if you choose to reject cookies, you may not be able to use certain online products, services, or features on the Services. 
+When you use the Site, we collect and process the following types of information:
 
-Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, FrontStream currently does not take action in response to these signals. If and when a final standard is established and accepted, we will reassess how to respond to these signals.
-
-**2\. Use of Information.** FrontStream may use information that we collect through the Services for a variety of purposes, including: 
-
-  * For the delivery of the Service;
-  * For its own internal purposes, analytics, benchmarking and analysis, or use that enables targeting of communication, engagement tools and fundraising efforts to optimize results of the Service and individual engagement;
-  * Provide you with the products, promotions, services, newsletters, and information you request and respond to correspondence that we receive from you;
-  * Customize and personalize your use of the Services;
-  * Contact you via e-mail and otherwise about promotions, products, services, surveys and events that we think might be of interest to you, including with respect to our Services in which you have participated,
-  * Contact you with surveys, legal notices, and other information that may be relevant to your use of the Services;
-  * Maintain or administer the Services, perform business analyses, or for other internal purposes to improve the quality of our business, the Services, and other products and services we offer; and
-  * As otherwise described to you at the point of collection or pursuant to your consent, and as required or permitted by applicable law.
+  1. Information You Provide
 
 
 
-**3\. Sharing of Information.** We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect.
+You may register to use our Services, set up an account, make a donation, or respond to communications (e.g., surveys, polls, requests for feedback), we will collect the information you provide to us. This may include your IP address, first and last name(s), demographic information, mailing address, e-mail address, phone number, and credit card number. In the use of Services, you may also choose to disclose or provide your communication preferences, your physical location, and your demographic information (e.g., your age, marital status, ethnicity/race, and gender). All of this is “Personal Information,” because it can be used to identify you.
 
-  * _Corporate Parents, Affiliates, and Subsidiaries, or Associated Entities (for Canadian Clients)_. We may share your information with our corporate parents, subsidiaries, and other affiliated entities for the purposes referred to in this Policy.
-  * _Associated Entities (for Australian Clients)_. We may share your information with associated entities for the purposes referred to in this Policy.
-  * _Service Providers_. We may share your information with service providers that perform certain functions or services on our behalf, such as to host or assisting with the Services, manage databases, host a store or other e-commerce platform, perform analyses, or send communications for us.
-  * _Select Business Partners_. We may share your information with certain business partners that assist in the delivery of the Services (i.e. merchant service providers, organizations holding fundraising events, vendors who have provided bidding items.)
-  * _Other Parties When Required By Law or as Necessary to Protect the Services_. We may disclose your information to third parties in order to protect the legal rights, safety, and security of FrontStream, our corporate parents, affiliates, and subsidiaries, and the users of our Services; enforce our Terms of Use; prevent fraud (or for risk management purposes); and comply with or respond to law enforcement or legal process or a request for cooperation by a government or other entity, whether or not legally required.
-  * _In Connection With a Transfer of Assets._ If we sell all or part of our business, or make a sale or transfer of assets, or are otherwise involved in a merger, acquisition or business transfer, or in the event of bankruptcy, we may transfer your information to one or more third parties as part of that transaction.
-  * _Other Parties With Your Consent or as Authorized by Law_. We may share information about you with third parties when you consent to such sharing (including when you post information to a public area of the Services, such as a chat room, discussion board, forum, blog, or other community tool) and otherwise as required or permitted by applicable law.
-  * _Aggregate Information_. We may disclose to third parties information that does not describe or identify individual users, such as aggregate website usage data or demographic reports.
+  1. Information We Collect about You
 
 
 
-We may allow third parties to place and read their own cookies, web beacons, Local Shared Objects, and similar technologies to collect information through the Services. For example, our third-party service providers may use these technologies to collect information that helps us with traffic measurement, research, and analytics. 
+We collect information about your use of our Services, including but not limited to: your Internet connections, computer equipment, web browsers, websites visited before using or accessing the Services, websites visited after leaving the Services, and other similar information about traffic and usage, as you navigate to, through, and away from our website. This is “Non-Personal Information,” because it does not identify you, but provides insights to us regarding the uses of our Services. For example, we use this information to generate statistical information, monitor and analyze traffic and usage patterns in connection with our Services, monitor and prevent fraud, investigate complaints and potential violations of our policies, and to improve the our content and the products, services, materials, and other content that we describe or make available through the Services.
 
-**4\. Data Security.** We maintain security procedures to help protect against loss, misuse, unauthorized access, disclosure, alteration or destruction of the information you submit to us. We protect User Data with organizational, physical, mechanical and electronic safeguards appropriate to the sensitivity of the information, including encryption and secure server technology where appropriate. Please note that no data transmission or storage can be guaranteed to be 100% secure. As a result, while we strive to protect your information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your information. 
+In some jurisdictions, such as the United States, an IP address may be considered Non-Personal Information. In the European Economic Area an IP address is considered Personal Information under applicable data protection laws. If this is the case, we process Non-Personal Information for the same purposes as Personal Information under this Privacy Policy.
 
-You are responsible for maintaining the confidentiality of your account password and for any access to or use of the Services using your password, whether or not authorized by you. Please notify us immediately of any unauthorized use of your password or account or any other breach of security. 
+  1. Geolocation Information
 
-User Data will be retained only as long as necessary for the fulfilment of the purposes referred to in this Policy. 
 
-**5\. Children’s Privacy.** The Services do not knowingly collect, use, or disclose User Data from children under the age of 13 without prior parental consent, except as permitted by the Children’s Online Privacy Protection Act (“COPPA”) or other applicable law. If we learn that we inadvertently have collected identifying User Data from an individual under the age of 13, we will promptly delete that information from our system. 
 
-**6\. Social Networking Services.** FrontStream has worked with certain third-party social media providers to offer you their social networking services through our Services. For example, you can use third-party social networking services, including but not limited to Facebook, Twitter, LinkedIn and others to share information about your experience on our Services with your friends and followers on those social networking services. These social networking services may be able to collect information about you, including your activity on our Services. These third-party social networking services also may notify your friends, both on our Services and on the social networking services themselves, that you are a user of our Services or about your use of our Services, in accordance with applicable law and their own privacy policies. If you choose to access or make use of third-party social networking services, we may receive information about you that you have made available to those social networking services, including information about your contacts on those social networking services. 
+You may choose to allow us to access your location by granting the Services access to your location when prompted or through your device’s location services settings. You may change these settings on your device.
 
-**7\. Privacy Policy Updates.** We may modify this Policy at any time by posting revisions to the Services or other appropriate notice. Your continued use of the Services after any modification to the Policy will constitute your acceptance of the new terms and conditions of the Policy. 
+  3. **How We Use Data.** FrontStream uses Personal information and Non-Personal Information for the following purposes:
 
-**8\. Links to Third Party Sites and Services.** The Services may contain links to other websites or online services that are operated and maintained by third parties and that are not under the control of or maintained by FrontStream. Such links do not constitute an endorsement by FrontStream of those other websites, the content displayed therein, or the persons or entities associated therewith. This Policy does not apply to this third-party content. We encourage you to review the privacy policies of these third-party websites or services. In the case of Auction Services, if you place a bid through the FrontStream bidder community, we will pass your bid and related bidder and payment information on to the seller for the purposes of participation in the seller’s auction. 
 
-**9\. International Users.** For Disaster Recovery purposes, User Data will reside with a service provider outside Canada. By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States. Please note that privacy laws in such jurisdictions may differ from those of your jurisdiction, and that User Data may be accessed by courts, law enforcement and national security authorities in such jurisdictions. You may obtain information and address questions about the privacy policies and practices relating to handling of User Data outside of your jurisdiction by contacting our Privacy Officer using the contact information below. 
+  * As necessary to perform the Services on your behalf or on behalf of our Customers with whom you may have an account and for other legitimate and lawful business purposes. This may include: 
+    * Establishing accounts to use the Services
+    * Communicating with you in connection with Services or as a result of a request
+    * Communicating promotional materials, such as surveys, event notifications, newsletters, and other information
+    * Notifying you of changes made to the Services
+    * Maintaining a record of the donations and related activities in connection with your use of the Services
+  * Sharing with our corporate parents, subsidiaries, other affiliated entities, and associated entities for the purposes described in this Privacy Policy;
+  * Sharing with our service providers that perform certain business functions or services on our behalf and with whom are bound by contractual obligations consistent with this Privacy Policy;
+  * Evaluating and improving the Services;
+  * To comply with a legal obligation, a court order, or in order to exercise our legal claims, or to defend against legal claims;
+  * To prevent or investigate fraud (or for risk management purposes);
+  * To describe our Services to current and prospective business partners and to other third parties for other lawful purposes; and
+  * To conduct aggregate analysis and develop business intelligence that helps us to enhance; operate, protect, make informed decisions, and report on the performance of our Services. FrontStream may share this aggregate data with its affiliates, agents and business partners. This aggregated data will not identify an end user as an individual. FrontStream may also disclose aggregated statistics prepared using Collected Information in order to describe our Services to current and prospective business partners and to other third parties for other lawful purposes.
 
-_For Australian Clients._ In this case, FrontStream will comply with the requirements of the Privacy Act that apply to cross border disclosures of User Data. 
 
-**10\. Your California Privacy Rights.** California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure, if any, of certain categories of User Data to third parties for their direct marketing purposes in the preceding calendar year. To obtain such information, please e-mail your request to [webmaster@FrontStream.com](mailto:webmaster@frontstream.com). 
+  4. **How We Disclose Data.** We do not sell or rent Personal Information to marketers or unaffiliated third parties. We do have trusted third parties and we may share your Personal and Non-Personal Information (“Collected Information”) with the following entities:
 
-**11\. Updating Communications Preferences (Opt out).** You may choose to receive promotional offers, newsletters, and similar communications from us regarding products and services of FrontStream and our affiliated organizations. You may opt out of receiving such communications from us by communicating your preference to us using the contact information provided at the end of this Policy, or in the case of e-mails, by clicking on the opt-out or “unsubscribe” link included at the bottom of the e-mails you receive. 
 
-**12\. Withdrawal of Consent.** You can withdraw consent at any time to collection, use or disclosure of User Data, subject to legal or contractual restrictions and reasonable notice. You may do so by using the contact information provided at the end of this Policy. We will inform you of any implications of such withdrawal. We may be unable to remove information to the extent that it is permitted or required to be retained by applicable law or document retention and data backup or disaster-recovery policies, or if removal is not practicable due to technological reasons. 
+  * Corporate Affiliates, including corporate parents, subsidiaries, other affiliated entities, and associated entities for the purposes described in this Policy;
+  * Service Providers that perform certain functions or services on our behalf, such as to host or assist with the Services, manage databases, process payments or donations, host a store or other e-commerce platform, perform analyses, or send communications for us. We require these service providers to comply with all applicable data privacy laws and regulations;
+  * Business Partners that assist in the delivery of the Services (e.g., merchant service providers, organizations holding fundraising events, vendors who have provided bidding items);
+  * Customers, as necessary to provide the Services;
+  * Authorized third parties, who are parties directly authorized by you to receive the applicable Collected Information, such as when a you authorizes a third-party application provider to access your account. The use of your Collected Information by an authorized third party is subject to the third party’s privacy policy; and
+  * Third parties in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+  * We may use and disclose Collected Information as we believe necessary: (i) under applicable law; (ii) to enforce applicable terms and conditions; (iii) to protect our rights, privacy, safety or property, and/or that of our affiliates, you, or others; and (iv) to respond to requests from courts, law enforcement agencies, regulatory agencies, and other public and government authorities, which may include authorities outside your country of residence.
 
-**13\. Privacy Complaints for Australian Clients.** If you have a complaint about how we collected or handled User Data, please contact us (see details below). We will endeavor in the first instance to deal with your complaint and take action to resolve the matter. If your complaint cannot be resolved at the first instance, we will ask you to lodge a formal complaint in writing, explaining the circumstances of the matter that you are complaining about, how you believe your privacy has been interfered with and how you believe your complaint should be resolved. We will acknowledge receipt of your formal complaint and indicate the timeframe that you can expect a response. We will endeavor to resolve the complaint as quickly as possible, but if the matter is complex and our investigation may take longer, we will let you know when we expect to provide our response. 
 
-If you are unhappy with our response, you may refer your complaint to the Office of the Australian Information Commissioner or, in some instances, other regulatory bodies, such as the Victorian Health Services Commissioner or the Australian Communications and Media Authority. 
+  5. **Other Services and Platforms.** We work with third parties with whom we have a contractual relationship. For example, we use other third parties for in technical, payment, and delivery services, analytics providers, and search information providers. For example, when you submit credit card or debit card information, that Personal Information is provided directly to our third-party payment processor. In some instances, you may have a choice as to which third-party credit card processor you would like to use. Please refer to the privacy policy on any third party website.
 
-**14\. Contact Us.** You may submit a written request to access or update User Data, or if you have questions or concerns about the collection, use, disclosure, amendment, deletion or storage of User Data. All correspondence should be sent to the following address: 
 
-**Privacy Officer** e-mail to [privacy@FrontStream.com](mailto:privacy@frontstream.com)
+
+As part of our fundraising platform, you may choose to link our Services to a third party account or platform. For purposes of this Privacy Policy, if you authorize or otherwise enable an account or platform operated by a third party, then you will control that connection (“Connection”). For example, you may create a Connection to a social media account, in which case, we will receive Personal Information from the social media provider through the Connection. All information we receive through a Connection will be subject to this Privacy Policy.
+
+Please review the Privacy Policy of any and all third parties. We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third party websites or services.
+
+  6. Although we use security measures designed to protect your Personal Information, no data security measures are guaranteed to be completely effective. Transmission of information via the internet is not wholly secure, and we cannot guarantee the security of your Personal Information transmitted to or through the website or any of our Services. For example, please do not include credit card or other sensitive data (e.g., racial or ethnic origin, health, etc.) in your e-mails to us. Any transmission of such Personal Information is at your own risk. By using the Services, you acknowledge and accept these risks.
+
+
+
+Please notify us immediately at [privacy@FrontStream.com](mailto:privacy@FrontStream.com) if you become aware of any unauthorized use of your password or account or any other breach of Service security or of this Policy. If our security system is breached, we will notify you of the breach as required by applicable law.
+
+  7. We use other third-party services to obtain, track, and store user information. For example, we use a customer relations management (CRM) software to manage data and information. We also use a third-party software to collect information from your browser and computer device in order to capture and analyze user behavior on our website. From time to time, we will use additional content or applications in the Services that is served by third-parties, including advertisers, ad networks and servers, social media websites, content providers, and application providers. These third parties may use cookies alone or in conjunction with other Internet tracking technologies to collect information about you when you use our Services. We do not control these third parties’ tracking technologies or how they may be used. Note that if any of these third parties are members of the Network Advertising Initiative, you can visit the website to opt-out of unwanted online advertisements by clicking [here](http://optout.networkadvertising.org/?c=1#!/).
+
+
+  8. **Access and Options.** You have choices regarding our use and disclosure of Your Personal Data:
+
+
+
+If you change your mind after opting to receive electronic communications, you may opt out of receiving such communications from us by communicating your preferences to us by e-mailing [privacy@FrontStream.com](mailto:privacy@FrontStream.com), or by following the unsubscribe link contained in the applicable e-mail. We will comply with your request as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages that are required to provide you with our Services.
+
+In certain circumstances, you may also request that we delete your Personal Information, for example if our retention of your Personal Information is no longer necessary as part of the Services.
+
+If you would like to review, correct, or update Personal Information that you have previously disclosed, you may do so by signing in to your account or by contacting us. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable. Unless otherwise prohibited by law, we may charge you a fee for providing you with a copy of your data.
+
+  9. We will retain Personal Data for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+
+
+  10. **Use of Services and Privacy of Minors.** We do not provide the Services to anyone under the age of 13. In accordance with the Children’s Online Privacy Protection Act (COPPA), we will never knowingly request or solicit Personal Information from anyone under the age of 13. Please notify us if we receive such Personal Information of anyone under the age of 13, and we will delete that information from our database as soon as is reasonably practical.
+
+
+  11. **Access from Outside the United States.** If you are visiting the Services from outside the United States, please be aware that Collected Information may be transferred to, stored in, and processed in the United States, which is our suppliers’ servers and databases are located and operated.
+
+
+  12. **FrontStream as a Data Processor.** We may collect, use, and disclose certain Personal Information about you when acting as service provider to a Customer. Customers are responsible for ensuring that your privacy rights are respected, and should include information to help you understand how third parties collect and use your data. To the extent that we are acting as a Customer’s data processor, we will process your Personal Information according to the terms of our agreement with our Customer and its lawful instructions.
+
+
+  13. **Filing a Complaint.** If you are not satisfied with how we manage your Personal Information, you have the right to make a complaint to a data protection regulator.
+
+
+  14. **Updates to Privacy Policy.** We may change this Privacy Policy from time to time. Any changes are effective when we post the revised Privacy Policy on or through the Services. Disclosures and notices in relation to this Privacy Policy or your Personal Information shall be considered to be received by you within twenty-four (24) hours after the time they are posted to our website or otherwise through the Services.
+
+
+  15. **Your California Privacy Rights.** California Civil Code Section 1798.83 permits users of the Services who are California residents to request and obtain a list of what Personal Information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year and the names and addresses of those third parties. Requests may be made only once a year and are free of charge. Under Section 1798.83, California residents are entitled to request and obtain such information, by e-mailing a request to [webmaster@FrontStream.com](mailto:webmaster@FrontStream.com).
+
+
+  16. **Australian Compliance**
+
+
+  1. Access and Collection. Collected Information may be transferred to, stored in, and processed in the United States, and FrontStream will comply with the requirements of the Privacy Act that apply to cross-border disclosures of Collected Information.
+
+
+  1. Corporate Parents, Affiliates, and Subsidiaries, or Associated Entities. We may share Collected Information with our corporate parents, subsidiaries, other affiliated entities, and associated entities (as that term is defined under Australian law) for the purposes described in this Policy.
+
+
+  1. Privacy Complaints for Australian Users. If you have a complaint about how we collected or handled Collected Information, please contact us. We will endeavor in the first instance to deal with your complaint and take action to resolve the matter.  If your complaint cannot be resolved at the first instance, we will ask you to lodge a formal complaint in writing, explaining the circumstances of the matter that you are complaining about, how you believe your privacy has been interfered with and how you believe your complaint should be resolved.  We will acknowledge receipt of your formal complaint and indicate the timeframe that you can expect a response.  We will endeavor to resolve the complaint as quickly as possible, but if the matter is complex and our investigation may take longer, we will let you know when we expect to provide our response.
+
+
+
+If you are unhappy with our response, you may refer your complaint to the Office of the Australian Information Commissioner or, in some instances, other regulatory bodies, such as the Victorian Health Services Commissioner or the Australian Communications and Media Authority.
+
+  17. **EU.-U.S. Privacy Shield.** In addition to compliance with the General Data Protection Regulation 2016/679, FrontStream, its holding company FrontStream Holdings, LLC and all its subsidiaries, namely: FirstGiving, Inc., Giftworks, BiddingForGood, Inc. d/b/a FrontStream, SalesSynergy, LLC, and Truist, Inc. d/b/a FrontStream comply with the EU-US Privacy Shield Framework and Seiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union (“EU”) and Switzserland to the United States. FrontStream has certified that it adheres to the Privacy Shield Principles. If there is any conflict between the policies in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+
+
+
+FrontStream is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. FrontStream complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to Collected Information received or transferred pursuant to the Privacy Shield Framework, FrontStream is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, FrontStream may be required to disclose Collected Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+In compliance with the Privacy Shield Principles, FrontStream commits to resolve complaints about FrontStream’s collection or use of your Collected Information (personal information).  EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact FrontStream at: [privacy@FrontStream.com](mailto:privacy@FrontStream.com).
+
+FrontStream has further committed to refer unresolved Privacy Shield complaints to Privacy Trust, an alternative dispute resolution provider located in the U.S. If you do not receive timely acknowledgment of your complaint from FrontStream, or if FrontStream has not addressed your complaint to your satisfaction, please contact or visit Privacy Trust at <https://www.privacytrust.com/cert/411716.html> for more information or to file a complaint.  The services of Privacy Trust are provided at no cost to you.
+
+Under certain conditions, more fully described on Annex I of the EU-US Privacy Shield Framework [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint) ( _How to Submit a Complaint_ ) you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+  18. **Contact Us.** Our Data Protection Officer can be reached with the following information: Donovan Carnegie, [privacy@FrontStream.com](mailto:privacy@FrontStream.com)
+
+
+
+If you have any questions or concerns about this Policy, please contact us: [privacy@FrontStream.com](mailto:privacy@FrontStream.com), or  
+11480 Commerce Park Drive, Suite 300, Reston, VA 20191
