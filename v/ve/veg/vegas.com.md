@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegas.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319105941id_/https%3A//www.vegas.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegas.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005030914id_/https%3A//www.vegas.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy & Security | Vegas.com
 
@@ -155,7 +155,7 @@ In some cases, we may choose to buy or sell assets. In these business transfers,
 
 From time to time, Vegas.com may enter into agreements with third party providers for web analytic and other similar services. If Vegas.com enters into such an agreement, Vegas.com may share your information, including personally identifiable information, with the provider or such provider may have access to and collect your information on behalf of Vegas.com. Your information, including personally identifiable information, may be stored with the provider. Before sharing or storing any customer information with a third party provider, Vegas.com shall ensure that any provider agrees to comply with the terms and conditions of this privacy policy. Additionally, Vegas.com generally requires any third party provider of web analytic or other similar services to maintain industry security standards to protect your information.
 
-If you prefer your web browsing patterns on the Vegas.com website to be tracked anonymously or if you prefer for your web browsing patterns to not be tracked in this way, please [**click here**](https://web.archive.org/about/siteusage.html) for opt-out options.
+If you prefer your web browsing patterns not be tracked in this way, please [**click here**](https://tools.google.com/dlpage/gaoptout/) for opt-out options.
 
 back to top
 
@@ -263,7 +263,7 @@ back to top
 
 If you ever have any questions about our privacy policy, please contact us. We respect your rights and privacy, and will be happy to answer any questions or concerns you might have.
 
-  *  **Postal contact:** Vegas.com, Attn: Customer Privacy, 2370 Corporate Circle Dr., 3rd Floor, Henderson, NV 89074.
+  *  **Postal contact:** Vegas.com, Attn: Customer Privacy, 3960 Howard Hughes Pkwy, 9th Floor, Las Vegas, Nevada, 89169.
   *  **E-mail contact:**[privacy@vegas.com](mailto:privacy@vegas.com)
   *  **Telephone contact:** (702) 992-7900
 
