@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the galvanize.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521170712id_/http%3A//www.galvanize.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galvanize.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005055958id_/https%3A//www.galvanize.com/privacy) for the most accurate reproduction.*
 
-# Galvanize | Privacy
+# Privacy | Galvanize
 
-_Last revised: September 23, 2016_
+## Privacy
+
+ _Last revised: September 23, 2016_
 
 This privacy policy (our “ **Policy** ”) describes how Galvanize, Inc., also known as Galvanize (referred to collectively as “ **Us** ” or “ **We** ” in this Policy) may collect information from you, how we use it, and with which parties it may be shared. Please read this policy carefully. If you do not agree with this Policy, please do not provide any information to us. By accessing or using this Website or any App (each as defined below) or by otherwise providing information to use in any of the ways covered by this Policy, you are agreeing to the current terms of this Policy. Please check the policy periodically for updates.
 
