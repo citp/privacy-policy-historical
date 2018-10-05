@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marvin.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926162320id_/http%3A//www.marvin.com/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvin.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005025324id_/https%3A//www.marvin.com/information/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Marvin Family of Brands
 
@@ -58,7 +58,7 @@ We strive to provide you with choices regarding the personal information you pro
 
   * **Future Promotional Offers.** If you do not wish to receive future promotional offers from us via your email or physical address, please [ Contact Us.](https://web.archive.org/contact-us) If we have sent you a promotional e-mail, you may unsubscribe following the procedures described in the email.
   * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of the Site may then be inaccessible or not function properly.
-  * **Targeted Advertising.** You can prevent some targeted behavioral advertising by disabling browser cookies. Additionally, some third party advertisers may provide you with ways to choose not to have your information collected or used in this way; you can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the NAI's [ web site.](http://www.networkadvertising.org/)
+  * **Targeted Advertising.** You can prevent some targeted behavioral advertising by disabling browser cookies. Additionally, some third party advertisers may provide you with ways to choose not to have your information collected or used in this way; you can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the NAI's [ web site.](https://www.networkadvertising.org/)
   * **California Residents.** Pursuant to California Civil Code Section § 1798.83, users of the Site who are California residents may request their personal information not be shared with other companies (for example, Marvin’s distribution channel partners) for marketing purposes. To opt out, please [ Contact Us.](https://web.archive.org/contact-us)
 
 
@@ -75,7 +75,7 @@ The Site is not a secure web site. Marvin cannot and does not ensure or warrant 
 
 ## Children and Privacy
 
-The Site is not intended for use by children. Marvin encourages parents and guardians to be familiar with the web sites their children visit. The Federal Trade Commission ("FTC") regulates the means by which web site operators collect and use personal information from children under 13, pursuant to the Children's Online Privacy Protection Act of 1998 (“COPPA”). For more information about COPPA and children's on-line privacy in general, visit the FTC's web site at [http://www.ftc.gov](http://www.ftc.gov/).
+The Site is not intended for use by children. Marvin encourages parents and guardians to be familiar with the web sites their children visit. The Federal Trade Commission ("FTC") regulates the means by which web site operators collect and use personal information from children under 13, pursuant to the Children's Online Privacy Protection Act of 1998 (“COPPA”). For more information about COPPA and children's on-line privacy in general, visit the FTC's web site at [https://www.ftc.gov](https://www.ftc.gov/).
 
 ## Other Sites
 
