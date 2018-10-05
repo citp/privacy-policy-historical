@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebgames.ca privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904170913id_/https%3A//www.ebgames.ca/Help/Index%3Fsection%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebgames.ca privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005190859id_/https%3A//www.ebgames.ca/Help/Index%3Fsection%3DPrivacy) for the most accurate reproduction.*
 
 # 
 
