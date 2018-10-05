@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the relayrides.com privacy policy that was archived on 2018-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180317010953id_/https%3A//turo.com/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the relayrides.com privacy policy that was archived on 2018-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181005050424id_/https%3A//turo.com/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class=" not-touch-device" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" data-locale="en_US"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# relayrides: http://ogp.me/ns/fb/relayrides#">
     
@@ -61,7 +61,7 @@
     <meta name="theme-color" content="#231F20">
 
     
-    <script type="text/javascript" async="" src="https://cdn.siftscience.com/s.js"></script><script type="text/javascript" async="" src="//px.airpr.com/airpr.js"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script src="//bat.bing.com/bat.js" async=""></script><script src="//d3cxv97fi8q177.cloudfront.net/foundation-A91421-bb72-4a22-b081-cdaaf6aaba0d1.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/KqqqTW18wqBiqT0ytOXA3yXG7asxsuFM/analytics.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">
+    <script type="text/javascript" async="" src="https://cdn.siftscience.com/s.js"></script><script type="text/javascript" async="" src="//px.airpr.com/airpr.js"></script><script type="text/javascript" async="" src="https://d2hrivdxn8ekm8.cloudfront.net/tracker-latest.min.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/Of6mIWkeQY4EuvYk79ahF9Svwv2a282o/analytics.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">
         {
             "@context": "http://schema.org",
             "@type": "Organization",
@@ -93,10 +93,12 @@
     <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://resources.turo.com/resources/img/apple_touch_icons/apple-touch-icon-76x76-precomposed__H160473580370fdd44d9af56077cae629__.png">
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://resources.turo.com/resources/img/apple_touch_icons/apple-touch-icon-57x57-precomposed__H804cea53461bba75bbfcf7058f28925c__.png">
 
-    <link rel="stylesheet" type="text/css" href="https://resources.turo.com/resources/less/main__H1956d79e7221b45ab4925eff5548cfda__.css">
+    <link rel="stylesheet" type="text/css" href="https://resources.turo.com/resources/less/main__Heb4984f5671b75e7703babf8753ef49c__.css">
 
     
         
+        
+    <link rel="alternate" href="https://turo.com/policies/privacy?locale=de_DE" hreflang="de-DE">
         
     <link rel="alternate" href="https://turo.com/policies/privacy" hreflang="en">
         
@@ -109,7 +111,7 @@
 
     
 
-    <script type="text/javascript" src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js" data-apikey="c25f9e6e4b0f916a013601b010e918f2" data-appversion="7bce4b1597967e9000c8e32a8bfad8567185664d">
+    <script type="text/javascript" src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js" data-apikey="c25f9e6e4b0f916a013601b010e918f2" data-appversion="4b83b1105d66eb3d8e53b6cee659f3c46df50404">
     </script>
     <script type="text/javascript">
         Bugsnag.releaseStage = "production";
@@ -162,7 +164,7 @@
     
     <title>Privacy policy</title>
 
-<link rel="stylesheet" type="text/css" href="https://d1kal2uthwls49.cloudfront.net/cms-content/css/index.8b89a72d.css">
+<link rel="stylesheet" type="text/css" href="https://d1kal2uthwls49.cloudfront.net/cms-content/css/index.f6c257a4.css">
 
 
 
@@ -235,6 +237,11 @@
         analytics.factory = function(method){
             return function(){
                 var args = Array.prototype.slice.call(arguments);
+
+                if (args.length > 1 && (method === 'track' || method === 'page')) {
+                    args[1] = sanitizeProperties(args[1]);
+                }
+
                 args.unshift(method);
                 analytics.push(args);
                 return analytics;
@@ -270,7 +277,9 @@
         // Load Analytics.js with your key, which will automatically
         // load the tools you've enabled for your account. Boosh!
         
-        analytics.load('KqqqTW18wqBiqT0ytOXA3yXG7asxsuFM');
+        analytics.load('Of6mIWkeQY4EuvYk79ahF9Svwv2a282o');
+
+        
 
         function generateUUID() {
             var d = new Date().getTime();
@@ -306,6 +315,23 @@
         return decodeURIComponent(results[2].replace(/\+/g, " "));
     }
 
+    function sanitizeProperties(properties) {
+        var props = properties || {};
+
+        return Object.keys(props).reduce(function (sanitized, propertyKey) {
+            var propertyValue = props[propertyKey];
+
+            if (propertyValue === null ||
+                propertyValue === undefined ||
+                (typeof propertyValue === 'string' && propertyValue.trim() === '')) {
+                return sanitized;
+            }
+
+            sanitized[propertyKey] = propertyValue;
+            return sanitized;
+        }, {});
+    }
+
     function segmentWrapper() {
 
         var self = this;
@@ -318,7 +344,7 @@
             }
         }
 
-        var setCookieValue = '[sid=jV2BB1XDRGmpJjNHGzuoyg; Domain=turo.com; Expires=Sat, 17-Mar-2018 02:09:54 GMT; Path=/; Secure; HttpOnly]';
+        var setCookieValue = '[preferredLocale=en_US; Domain=turo.com; Expires=Wed, 23-Oct-2086 08:18:33 GMT; Path=/; Secure, rr_u_cid=b2oD6RptQeONsKdkEbm8Xg; Domain=turo.com; Expires=Wed, 04-Oct-2023 05:04:26 GMT; Path=/; Secure; HttpOnly, sid=U37LjGFKSPuN-3k6mQtqBA; Domain=turo.com; Expires=Fri, 05-Oct-2018 06:04:26 GMT; Path=/; Secure; HttpOnly, JSESSIONID=94906bfe-2c69-4c15-b1a1-3ea3af90198d; Path=/; Secure; HttpOnly]';
         var sessionCookieName = 'sid';
         var pattern = new RegExp(sessionCookieName+"=([A-Za-z0-9_-]{22})");
         var matches = setCookieValue.match(pattern);
@@ -346,7 +372,7 @@
             if (self.searchId && searchEventArray.indexOf(name) > -1) {
                 props.search_id = self.searchId
             }
-            analytics.track(name, props, this.customContext);
+            analytics.track(name, sanitizeProperties(props), this.customContext);
         };
 
         this.page = function(name, properties) {
@@ -355,7 +381,7 @@
             if (self.searchId && searchEventArray.indexOf(name) > -1) {
                 props.search_id = self.searchId
             }
-            analytics.page(name, props, this.customContext);
+            analytics.page(name, sanitizeProperties(props), this.customContext);
         };
 
         this.logout = function() {
@@ -366,7 +392,6 @@
 
     var segmentWrapper = new segmentWrapper();
 </script>
-
 
 <script async="" src="//static.hotjar.com/c/hotjar-385600.js?sv=5"></script></head>
 <body>
@@ -455,8 +480,8 @@
                 <li class="subNavList-item"><a class="subNavList-link" href="/trust-and-safety">Trust &amp; safety</a>
                 </li>
 
-                
-                <li class="subNavList-item"><a class="subNavList-link" href="https://support.turo.com/">Contact support</a>
+                <li class="subNavList-item">
+                    <a class="subNavList-link" href="https://support.turo.com/">Contact support</a>
                 </li>
             </ul>
         </li>
@@ -527,6 +552,7 @@
                 <li class="horizontalMenu-item"><a class="text--white" href="/policies/community-guidelines">Community&nbsp;guidelines</a></li>
                 <li class="horizontalMenu-item"><a class="text--white" href="/policies/nondiscrimination">Nondiscrimination&nbsp;policy</a></li>
                 <li class="horizontalMenu-item"><a class="text--white" href="/policies/additional-policies">Additional&nbsp;policies</a></li>
+                <li class="horizontalMenu-item"><a class="text--white" href="/policies/turo-go">Turo&nbsp;Go</a></li>
             </ul>
         </div>
     </div>
@@ -536,201 +562,287 @@
         <div class="grid-item grid-item--10 grid-item--push1">
             <div class="section">
                 <h3 class="u-alignCenter">Privacy policy</h3>
-                <p class="u-alignCenter">Last revised: December 20, 2017</p>
+                <p class="u-alignCenter">Last revised: April 20, 2018</p>
             </div>
             <div class="section">
-                <p>Turo Inc. (hereinafter, “Turo”, “we”, or “us”) cares about privacy issues and wants you to be familiar with how we collect, use, and disclose information. This Privacy Policy covers your access or use of our websites and applications (“Platform”), when communicating with us or other Turo users on any device (collectively “Services”), or when you otherwise provide us with Personal Information. By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy. Personal Information we collect is managed from our corporate offices at 667 Mission Street, 4th Floor, San Francisco, CA 94105 who acts as the data controller for the purpose of this Privacy Policy.</p>
-            </div>
-            <div class="section">
-                <p class="subheader u-alignCenter">Changes to this privacy policy</p>
-                <p>We may change this Privacy Policy. Please take a look at the “Last revised” legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy. If you don’t agree to these changes, you can contact us to close your account and you will only be bound by the prior version of the Privacy Policy</p>
-            </div>
-            <div class="section">
-                <p class="subheader u-alignCenter">Personal information</p>
-                <p>As used in this Privacy Policy, the term “Personal Information” means information that specifically identifies an individual such as a name, address, telephone number, email address, social media account, or other account identifier. Personal Information may also include demographic information such as date of birth, gender, geographic area, and preferences, when that information is linked to other Personal Information that identifies the individual or that allows that individual to be identified. Personal Information does not include “aggregate” information, which is data we collect about the use of the Turo Services or about a group or category of products, services, or users, if all personally identifiable information has been removed or disassociated from the individual.</p>
-            </div>
-            <div class="section">
-                <p class="subheader u-alignCenter">Collection</p>
-                <p>We, either directly or through third party companies and individuals we engage to provide services to us, collect, process, or retain Personal Information from you and any devices you may use when you use our Services. The Personal Information we collect, and that we will transfer outside of the European Economic Area (EEA) or your country of residence, may include the following:</p>
-                <br>
-                <h6>Personal Information you give us (either manually or automatically) when you access our Services:</h6>
-                <div class="u-marginLarger">
-                    <p>Identifying information such as your name, addresses, telephone numbers, and email addresses when you register for an account with us;</p>
-                    <p>Information you provide during a transaction, or other transaction based content that you generate, or that is connected to your account as a result of a transaction you are involved in, such as listing a car or renting a car from one of our users, adding items to your Favorites, creating reviews, or uploading Trip Photos;</p>
-                    <p>Financial information (such as payment card numbers) in connection with a potential or actual transaction, which may be stored by a third party payment services provider; and</p>
-                    <p>Bank account information provided by vehicle owners to receive payments, which is stored by one or more third-party digital payments companies.</p>
-                    <p>In some instances, when you use our Services, we may ask you to provide us a photograph and/or other demographic information, such as a scanned copy of driver’s license, passport, or credit/debit card, last four digits of your Social Security number, social insurance number, social media account information, driver’s/motor vehicle record, insurance information, and other forms of identification. Where we request that you withhold certain information when providing us with personally identifiable information (such as obscuring or redacting all but the last four digits of your payment card number), please do so.</p>
-                    <p>We may use one or more third-party payment services to process payments made through the Services. These service providers may be located inside or outside your country of residence, including outside the EEA. If you wish to make a payment through the Services, your Personal Information may be collected by such third party and not by us, and will be subject to the third party’s privacy policy in addition to our own. These providers have limited access to your information to perform these tasks on our behalf, and are contractually obligated to use it consistent with this Privacy Policy.</p>
-                    <p>If you submit any Personal Information relating to other people to us or to our service providers in connection with the Services, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy</p>
-                    <p></p>
-                    <p>If you opt in to use our Location Sharing feature (which allows travelers and owners to share information with one another about their location), we will collect geo-location data, including location information from your mobile device, and information about the location and movement of your vehicle or the vehicle you are renting during a rental period based upon the movement of your mobile device. If you opt in to using location-based searching, we will collect geo-location data, including location information from your mobile device, for this purpose. Keep in mind that most mobile devices allow you to control or disable the use of location services by any application on your mobile device in the device’s settings menu.</p>
-                    <p>If you communicate with customer service via telephone, we may record your telephone call for quality assurance, documentation, recordkeeping, and/or training purposes. If you do not wish to have your telephone call recorded, please do not communicate with us via telephone and instead communicate with customer support via support.turo.com.</p>
-                    <p>If your car, or a car you rent through the Services, includes an in-car device operated by a third party service or installed by the owner, that owner or service may record information about your use of the car. The owner and third party service will be solely responsible to you for its use of such information. If you are the owner of a vehicle that includes such an in-car device, you must inform any traveler with whom you share your car about the device.</p>
-                    <p>When you access our Platform, we (including companies we work with) may place small data files on your computer or other device. These data files may be cookies, clear gifs, pixel tags, e-tags, “Flash cookies”, or other local storage provided by your browser or associated applications (collectively “Cookies”). We use these technologies to recognize you as a customer; customize our Services, for content and marketing; to measure promotional effectiveness; to help ensure that your account security is not compromised; to mitigate risk and prevent fraud; and to promote trust and safety across our Services. For more detailed information on our use of these technologies, please see our policy on <a class="printableLink printableLink--printUrl" href="//support.turo.com/hc/articles/213251437">Cookies, Web Beacons, and Similar Technologies</a></p>
-                    <p>We may also collect any other Personal Information you choose to provide us, or that we are permitted or required to collect by applicable law.</p>
-                </div>
-                <h6>Personal Information we collect from other sources:</h6>
-                <div class="u-marginLarger">
-                   <p>We may also obtain information about you from third parties such as credit bureaus and identity verification services where permitted by law. You may choose to log in to our Services through social media sites (e.g., Facebook or Google). When you do so, Personal Information from your social media account may be shared with Turo. The information we may receive varies by site and is controlled by that site. By associating an account managed by a third party with your Turo account and authorizing Turo to have access to this information, you agree that Turo may collect, store, and use this information in accordance with this Privacy Policy. We are not responsible for how those third parties use and share your Personal Information. Please refer to those third parties’ privacy policies to understand how they use and share your Personal Information.</p>
-                </div>
+                <p>Turo Inc. (hereinafter, “Turo”, “we”, or “us”) cares about privacy and wants you to be familiar with how we collect, use, process and disclose your information. This Privacy Policy covers your access or use of our websites and applications (“Platform”), when communicating with us or other Turo users on any device (collectively “Services”), or when you otherwise provide us with information. Turo Inc. acts as the data controller for the purpose of this Privacy Policy.</p>
 
-            </div>
-            <div class="section">
-                <p class="subheader u-alignCenter">Retention, use, &amp; processing</p>
-                <p>Our primary purpose in collecting personal information is to provide our users with a secure, smooth, efficient, and customized experience. For example, we may use your Personal Information to:</p>
-                <ul class="u-marginLarger bulletedList">
-                    <li class="bulletedList-item">
-                        provide Turo Services and customer support;
+                <ul class="bulletedList">
+                    <li class="bulletedList-item" style="list-style:none;">
+                        <a href="#what-we-collect">What we collect</a>
                     </li>
-                    <li class="bulletedList-item">
-                        process transactions and send notices about your transactions;
+                    <li class="bulletedList-item" style="list-style:none;">
+                        <a href="#how-we-use-what-we-collect">How we use what we collect</a>
                     </li>
-                    <li class="bulletedList-item">
-                        verify your identity, including during account creation and password reset processes;
+                    <li class="bulletedList-item" style="list-style:none;">
+                        <a href="#disclosure">Disclosure</a>
                     </li>
-                    <li class="bulletedList-item">
-                        resolve disputes, collect fees, and troubleshoot problems;
+                    <li class="bulletedList-item" style="list-style:none;">
+                        <a href="#your-preferences-and-choices">Your preferences and choices</a>
                     </li>
-                    <li class="bulletedList-item">
-                        manage risk, or to detect, prevent, and/or remediate fraud or other potentially prohibited or illegal activities;
+                    <li class="bulletedList-item" style="list-style:none;">
+                        <a href="#security">Security</a>
                     </li>
-                    <li class="bulletedList-item">
-                        detect, prevent, or remediate violations of policies or our <a class="printableLink printableLink--relativeUrl printableLink--printUrl" href="/policies/terms">Terms of Service</a>;
+                    <li class="bulletedList-item" style="list-style:none;">
+                        <a href="#important-information">Important information</a>
                     </li>
-                    <li class="bulletedList-item">
-                        improve the Services, including by customizing your user experience;
+                    <li class="bulletedList-item" style="list-style:none;">
+                        <a href="#changes-to-this-privacy-policy">Changes to this policy</a>
                     </li>
-                    <li class="bulletedList-item">
-                        measure the performance of the Services and improve our content and layout;
-                    </li>
-                    <li class="bulletedList-item">
-                        manage and protect our information technology infrastructure;
-                    </li>
-                    <li class="bulletedList-item">
-                        foster a trusted and safer environment on our Services, such as detection and prevention of actual and potential fraud and other harmful activity, conducting investigations and risk assessments, enforcing our <a class="printableLink printableLink--relativeUrl printableLink--printUrl" href="/policies/terms">Terms</a> and <a class="printableLink printableLink--relativeUrl printableLink--printUrl" href="//support.turo.com/hc/categories/200236850">Policies</a>, verifying any identification documents provided by you, and conducting checks against databases and information sources (such as but not limited to public government databases) for fraud detection and prevention, risk assessment and harm prevention purposes. In this regard, we may do any or all of the foregoing with or without further notifying you where permitted by applicable law;
-                    </li>
-                    <li class="bulletedList-item">
-                        provide anonymized data about your use of Turo to third party marketing partners, or with your consent, non anonymized data;
-                    </li>
-                    <li class="bulletedList-item">
-                        provide targeted marketing, provide service update notices, and deliver promotional offers based on your communication preferences;
-                    </li>
-                    <li class="bulletedList-item">
-                        contact you at any telephone number, by placing a voice call or through text (SMS) or email messaging, as authorized by our <a class="printableLink printableLink--relativeUrl printableLink--printUrl" href="/policies/terms">Terms of Service</a>;
-                    </li>
-                    <li class="bulletedList-item">
-                        perform creditworthiness and solvency checks, compare information for accuracy, and verify it with third parties;
-                    </li>
-                    <li class="bulletedList-item">
-                        determine your likelihood of getting into an accident or of making an insurance claim, such by checking your auto insurance score;
-                    </li>
-                    <li class="bulletedList-item">
-                        endeavor to verify your identity, through the use of a background check or otherwise;
-                    </li>
-                    <li class="bulletedList-item">
-                        send you service, support and administrative messages, reminders, technical notices, updates, security alerts, and information requested by you;
-                    </li>
-                    <li class="bulletedList-item">
-                        enable you to communicate with other Turo users, including but not limited to by sending them messages or other information during the booking process;
-                    </li>
-                    <li class="bulletedList-item">
-                        administer referral programs, rewards, surveys, contests, or other promotional activities or sponsored events;
-                    </li>
-                    <li class="bulletedList-item">
-                        comply with our legal obligations, resolve any disputes that we may have with any of our users, and enforce our agreements;
-                    </li>
-                    <li class="bulletedList-item">
-                        carry out any other purpose which is disclosed to you and to which you consent; and
-                    </li>
-                    <li class="bulletedList-item">
-                        carry out any other purpose permitted or required by law, which may include laws outside your country of residence.
+                    <li class="bulletedList-item" style="list-style:none;">
+                        <a href="#contact-us">Contact us</a>
                     </li>
                 </ul>
-                <p>We, either directly or through third party companies and individuals we engage to provide services to us, may contact you via electronic means, telephone, or postal mail to notify you regarding your account, to troubleshoot problems with your account, to resolve a dispute, to collect fees or monies owed, to poll your opinions through surveys or questionnaires, or as otherwise necessary to service your account. Additionally, if you agree, we may contact you to offer coupons, discounts, and promotions, and inform you about Turo Services. Finally, we may contact you as necessary to enforce our policies, applicable law, or any agreement we may have with you. When contacting you via phone, to reach you as efficiently as possible we may use, and subject to the applicable law, you consent to receive, autodialed or prerecorded calls and text messages as described in our <a class="printableLink printableLink--relativeUrl printableLink--printUrl" href="/policies/terms">Terms of Service</a>. Where applicable and required by law, you may decline to receive certain communications.</p>
-                
-                <p>We retain your Personal Information as long as it is necessary and relevant for our operations. In addition, we may retain Personal Information from closed accounts to comply with applicable laws, detect or prevent fraud, collect any fees owed, resolve disputes, assist with or process claims, troubleshoot problems, assist with any investigation, comply with audits and investigation, to enforce our <a class="printableLink printableLink--relativeUrl printableLink--printUrl" href="/policies/terms">Terms of Service</a>, and take other actions reasonably necessary, permitted, or required by applicable law.</p>
+            </div>
 
-            </div>
-            <div class="section">
-                <p class="subheader u-alignCenter">Third party advertising</p>
-                <p>We may use third-party advertising companies to serve advertisements regarding our Services when you access and use the Services and other websites, based on information relating to your access to and use of the Services and other websites. To do so, these companies may place or recognize a unique Cookie on your browser (including through use of pixel tags). If you would like more information about this practice and to learn about your choices in connection with these practices, please visit <a class="printableLink" href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp</a> and <a class="printableLink" href="http://www.aboutads.info/" target="_blank">http://www.aboutads.info/</a>.</p>
-            </div>
-            <div class="section">
-                <p class="subheader u-alignCenter">Preference</p>
-                <p>You have a choice about how we use your Personal Information to communicate with you, to send you marketing information, and how we provide you with a customized experience.</p>
+            <div id="what-we-collect" class="section">
+                <p class="subheader u-alignCenter">What We Collect</p>
+                <p>We collect three categories of information - information you give us; information automatically collected from your use of the Services; and information from third party sources.</p>
                 <br>
-                <h6>Communication preferences</h6>
+
+                <h6>Information you give us</h6>
                 <div class="u-marginLarger">
-                    <p>You can control the methods by which we may contact you about your account, your rental activities, promotions, and announcements in the Notifications section within your Turo account.</p>
-                    </div>
-                <h6>Marketing</h6>
-                <div class="u-marginLarger">
-                    <p>At this time, we do not respond to browser ‘Do-Not-Track’ signals.</p>
+                    <p>Account information. When you register for an account with us, we require certain identifying information such as your name and email address.</p>
+                    <p>Profile information. We may also ask you to provide additional profile information to use certain features of the Turo Service which may include street addresses, phone numbers, driver’s license number and issuing country and/or state and date of birth.  Certain parts of your profile (like your profile photos, employer, city, school and biography) are part of your public profile page and will be publicly visible to others.</p>
+                    <p>Trip information. We collect information you provide in relation to a trip such as vehicle listing details, availability dates, reviews and uploaded trip photos.</p>
+                    <p>Payment information. We collect your financial information (like your bank account or payment card numbers) in connection with a potential or actual transaction, which may be stored by one or more third party payment services providers or digital payments companies that may be located inside or outside of your country of residence including outside the European Economic Area (EEA).</p>
+                    <p>Authentication information. In some instances, we may ask you to provide us a photograph and/or other demographic information, such as a scanned copy of a driver’s license, passport, or credit/debit card, last four digits of your Social Security number, social insurance number, social media account information, driver’s/motor vehicle record, insurance information, and other forms of identification. Where we request that you withhold certain information when providing us with personally identifiable information (such as obscuring or redacting all but the last four digits of your payment card number), please do so.</p>
+                    <p>Communications with Turo and Turo users. When you communicate with Turo, whether via phone, email or chat, or use the Services to communicate with other users, we collect information about your communication and any information you choose to provide.</p>
                 </div>
-                <p>You have a choice about how we use your Personal Information to communicate with you, to send you marketing information, and how we provide you with a customized experience.</p>
+
+                <br>
+
+                <h6>Information we automatically collect when you use or access our Services.</h6>
+                <div class="u-marginLarger">
+                    <p>Usage data. We collect information about your interactions with the Platform, such as the pages or other content you view, your searches, bookings you have made and other actions on the Platform.</p>
+                    <p>Location information. When you use certain features of the Platform, including if you opt in to use our Location Sharing feature, we may collect information about your location (e.g., IP address) or more specific location information (e.g., more precise location information from your mobile device).  Keep in mind that most mobile devices allow you to control or disable the use of location services by any application on your mobile device in the device’s settings menu.</p>
+                    <p>Log data. We automatically collect log information when you use the Platform, even if you have not created a Turo account or logged in.  That information includes, among other things: details about how you’ve used the Platform, IP address, length of stay, frequency of visits, hardware and software information, device information, device event information (e.g., crashes, browser type) and the page you’ve viewed or engaged with before [or after] you’ve used the Platform.</p>
+                    <p>Trip information. We collect information related to your transactions on the Platform, including the date and time, amounts charged and other related trip details.</p>
+                    <p>Cookies and similar technology. When you access our Platform, we (including companies we work with) may place small data files on your computer or other device. These data files may be cookies, clear gifs, pixel tags, e-tags, “Flash cookies”, or other local storage provided by your browser or associated applications (collectively “Cookies”).  For more detailed information on our use of these technologies, please see our policy on Cookies, Web Beacons, and Similar Technologies.  At this time, we do not respond to browser ‘Do-Not-Track’ signals.</p>
+                </div>
+
+                <br>
+
+                <h6>Information we collect from third party sources.</h6>
+                <div class="u-marginLarger">
+                    <p>Third party services. If you choose to log in to our Services through social media sites (e.g., Facebook or Google), the third-party service may send us information such as your registration and profile information from that service. The information we may receive varies by site and is controlled by that site. By associating an account managed by a third party with your Turo account and authorizing Turo to have access to this information, you agree that Turo may collect, store, and use this information in accordance with this Privacy Policy. We are not responsible for how those third parties use and share your information. Please refer to those third parties’ privacy policies to understand how they use and share your information.</p>
+                    <p>In-vehicle devices. If your vehicle, or a vehicle you book through the Services, includes an in-car device operated by a third-party service or installed by the host, that host or service may record information about your use of the car. The host and third-party service will be solely responsible to you for its use of such information but may disclose such information to Turo.</p>
+                    <p>Background information. To the extent permitted by applicable laws, Turo may obtain reports from public records of criminal convictions or local versions of background or registered sex offenders checks.  We may use your information, including your full name and date of birth, to obtain such reports.</p>
+                    <p>Other sources. To the extent permitted by applicable law, we may receive additional information about you, such as demographic data, fraud detection information or data from credit bureaus from third party service providers and/or partners and combine it with information we have about you.</p>
+                </div>
             </div>
-            <div class="section">
-                <p class="subheader u-alignCenter">Signed in</p>
-                <p>When you sign in to our Services, including through a social network login such as Facebook or Google, you will stay logged on/signed in until you explicitly sign out of your account. If you are using a public or shared computer you should sign out and/or clear your Cookies when you are done using our Platform in order to protect your account and your Personal Information. If you do not sign out, you or any other user of the computer/browser you signed in on will be able to view and access your account, including your social media accounts.</p>
+
+            <div id="how-we-use-what-we-collect" class="section">
+                <p class="subheader u-alignCenter">How we use what we collect</p>
+                <p>We use, store and process your information to provide and improve our Services and ensure a secure, safe and trusted experience. For example, we may use your information to:</p>
+
+                <br>
+
+                <h6>Provide and improve our Services</h6>
+                <ul class="u-marginLarger bulletedList">
+                    <li class="bulletedList-item">
+                        enable you to access and use the Turo Services
+                    </li>
+                    <li class="bulletedList-item">
+                        provide customer support
+                    </li>
+                    <li class="bulletedList-item">
+                        send you service, support and administrative messages, reminders, technical notices, updates, security alerts, and information requested by you and contact you at any telephone number, by placing a voice call or through text (SMS) or email messaging, as authorized by our Terms of Service
+                    </li>
+                    <li class="bulletedList-item">
+                        enable the processing of transactions and send notices about your transactions
+                    </li>
+                    <li class="bulletedList-item">
+                        improve the Services, including by personalizing or customizing your user experience
+                    </li>
+                    <li class="bulletedList-item">
+                        measure the performance of the Services and improve our content and layout
+                    </li>
+                    <li class="bulletedList-item">
+                        enable you to communicate with other Turo users, including by sending them messages or other information during the booking process
+                    </li>
+                    <li class="bulletedList-item">
+                        if you provide us or our service providers any information relating to other people in connection with the Services, we may use and store this information to facilitate your referral invitations; send your requests for reviews, for fraud detection and prevention and for any purpose you authorize at the time of collection
+                    </li>
+                </ul>
+
+                <h6>Ensure a secure, safe and trusted experience</h6>
+                <ul class="u-marginLarger bulletedList">
+                    <li class="bulletedList-item">
+                        verify your identity or authenticate information provided by you, including during account creation and password reset processes
+                    </li>
+                    <li class="bulletedList-item">
+                        resolve disputes, collect fees, and troubleshoot problems
+                    </li>
+                    <li class="bulletedList-item">
+                        detect, prevent, and/or remediate fraud, abuse, security incidents or other potentially harmful, prohibited or illegal activities
+                    </li>
+                    <li class="bulletedList-item">
+                        determine your likelihood of getting into an accident or of making an insurance claim, such by checking your auto insurance score
+                    </li>
+                    <li class="bulletedList-item">
+                        detect, prevent or remediate violations of and enforce our Terms and Policies
+                    </li>
+                    <li class="bulletedList-item">
+                        manage and protect our information technology infrastructure
+                    </li>
+                    <li class="bulletedList-item">
+                        conducting investigations and risk assessments
+                    </li>
+                    <li class="bulletedList-item">
+                        conduct checks against databases and information sources (such as but not limited to public government databases)
+                    </li>
+                    <li class="bulletedList-item">
+                        comply with our legal obligations, resolve any disputes that we may have with any of our users, and enforce our agreements
+                    </li>
+                </ul>
+
+                <p>In this regard, we may do any or all of the foregoing with or without further notifying you where permitted by applicable law;</p>
+
+                <br>
+
+                <h6>Provide and improve our Services</h6>
+                <ul class="u-marginLarger bulletedList">
+                    <li class="bulletedList-item">
+                        provide targeted marketing, provide service update notices, and deliver promotional offers based on your communication preferences
+                    </li>
+                    <li class="bulletedList-item">
+                        perform creditworthiness and solvency checks, compare information for accuracy, and verify it with third parties
+                    </li>
+                    <li class="bulletedList-item">
+                        administer referral programs, rewards, surveys, contests, or other promotional activities or sponsored events
+                    </li>
+                </ul>
+
+                <p>We retain your information as long as it is reasonably necessary and relevant for our operations.</p>
             </div>
-            <div class="section">
-                <p class="subheader u-alignCenter">Access</p>
-                <p>You can access, review, correct, update, and edit certain Personal Information that has been previously provided to us by you at any time by logging in to your account and reviewing your account settings and profile. You can also access or request a correction of your Personal Information, by contacting us at <a class="printableLink" href="http://support.turo.com">support.turo.com</a>. For your protection, we may need to verify your identity before implementing your request. If you wish to close your account, please contact us at support.turo.com. Please note that we may need to retain certain information for record keeping, trust and safety, dispute resolution, payment, or other business purposes. There may also be residual information that will remain within our databases and other records, which will not be removed.</p>
-            </div>
-            <div class="section">
+
+            <div id="disclosure" class="section">
                 <p class="subheader u-alignCenter">Disclosure</p>
-                <p>Your public listing page will always include some basic information, such as your user ID/name associated with your account, your public profile photo, and for owners, the city where your car is located, your listing description, your calendar availability, transaction related information to allow our community to evaluate your reliability and responsiveness, and reviews/feedback. Your public listing page may also include aggregated demand information (such as number of page views over a period of time) and information about your cancellations. Our Services may also display an owner’s vehicle’s approximate geographic pick-up location on a map.</p>
+                <h6>With consent</h6>
+                <p>You may direct us to share your information or consent to it as described at the time of sharing, such as when you authorize us to send to a third party marketing partner.</p>
+
+                <br>
+
+                <h6>Profiles, listings and other public information</h6>
+                <p>Your public listing page will always include some basic information, such as your user ID/name associated with your account, your public profile photo, and for hosts, the city where your car is located, your listing description, your calendar availability, transaction related information to allow our community to evaluate your reliability and responsiveness, and reviews/feedback. Your public listing page may also include aggregate demand information (such as number of page views over a period of time) and information about your cancellations. Our Services may also display the approximate geographic pick-up location on a map of the owner’s vehicle.</p>
                 <p>Our Services allow your public profile and public listing pages to be included in search engines, in which case your public profile and public Listing pages may be indexed by search engines and may be published as search results.</p>
-                <p>Turo enables car owners to offer and rent their vehicles to other individuals. If you agree to a rental transaction through the Services, we may provide your Personal Information to the other party in that transaction as reasonably necessary to facilitate the transaction. For example, Turo may provide your mobile phone number and/or driver’s license information to facilitate communication or your photograph to facilitate identification. We will provide the address of the vehicle and/or the proposed delivery location. We may also share user-uploaded “Trip Photos” with captions with the other party involved in the rental transaction if that feature is selected. Turo users engaged in a rental transaction with you may send you text message (such as to confirm pickup or delivery location). <a class="printableLink printableLink--printUrl" href="//support.turo.com/hc/articles/210134398">Standard telephone minute and text and data charges may apply</a>.</p>
-                <p>We may share Personal Information with vendors and service providers who are engaged by, or working with, us in connection with the operation of our Services and customer support functions and who need access to such information to carry out their work for us. In some cases, the service provider may be directly collecting the information from you on our behalf. For car owners who choose to use our photography program, your contact information will be shared with the photographer assigned to shoot your vehicle.</p>
+
+                <br>
+
+                <h6>Sharing between hosts and guests</h6>
+                <p>Turo enables car owners to offer and share their vehicles with other individuals. If you agree to a booking through the Services, we may provide your information to the other party in that transaction as reasonably necessary to facilitate the transaction. For example, Turo may provide your mobile phone number and/or driver’s license information to facilitate communication or your photograph to facilitate identification. We will provide the address of the vehicle and/or the proposed delivery location. We may also share user-uploaded “Trip Photos” with captions with the other party involved in the reservation if that feature is selected. Turo users engaged in a booking with you may send you text message (such as to confirm pickup or delivery location). <a class="printableLink printableLink--printUrl" href="//support.turo.com/hc/articles/210134398">Standard telephone minute and text and data charges may apply.</a></p>
+
+                <br>
+
+                <h6>Service providers</h6>
+                <p>We may share Information with vendors and service providers who are engaged by, or working with, us in connection with the processing of payments, operation of our Services and customer support functions and who need access to such information to carry out their work for us. In some cases, the service provider may be directly collecting the information from you on our behalf. These service providers may be located inside or outside your country of residence, including outside the EEA.  For hosts who choose to use our photography program, your contact information will be shared with the photographer assigned to shoot your vehicle.  These providers have limited access to your information to perform these tasks on our behalf and are contractually obligated to use it consistent with this Privacy Policy.</p>
+
+                <br>
+
+                <h6>Aggregated data</h6>
                 <p>Turo may compile aggregate information about the use of the Services. In other words, information about how you use a service may be collected and combined with information about how others use the same service. Aggregate data helps us understand trends and our users’ needs so that we can better consider new features or otherwise tailor our Services. Turo may also share aggregate demographic information with advertisers and partners. This policy in no way restricts or limits our collection and use of aggregate information that does not identify any individual.</p>
-                <p>We may disclose your Personal Information to other members of the Turo corporate family or to third parties, who may or may not be in the EEA, including our insurance and claims providers, as we believe to be necessary or appropriate: under applicable law, including laws outside your country of residence to provide insurance and claims services; to comply with legal process; to respond to requests from public and government authorities including public and government authorities outside your country of residence; to enforce our <a class="printableLink printableLink--relativeUrl printableLink--printUrl" href="/policies/terms">Terms of Service</a> and related Policies; to protect our operations or those of any of our affiliates or users; to protect our rights, privacy, safety, or property, and/or that of our affiliates, you, or others; and to allow us to pursue available remedies or limit the damages that we or our users may sustain.</p>
+
+                <br>
+
+                <h6>Corporate family</h6>
+                <p>We may disclose your information to other members of the Turo corporate family or to third parties, who may or may not be in the EEA, including our insurance and claims providers, as we believe to be necessary or appropriate: under applicable law, including laws outside your country of residence to provide insurance and claims services; to comply with legal process; to respond to requests from public and government authorities including public and government authorities outside your country of residence; to enforce our <a class="printableLink printableLink--relativeUrl printableLink--printUrl" href="/policies/terms">Terms of Service</a> and related Policies; to protect our operations or those of any of our affiliates or users; to protect our rights, privacy, safety, or property, and/or that of our affiliates, you, or others; and to allow us to pursue available remedies or limit the damages that we or our users may sustain.</p>
             </div>
-            <div class="section">
-                <p class="subheader u-alignCenter">Change of ownership</p>
-                <p>If we merge with or are acquired by another company, we may share information with them in accordance with our privacy standards and applicable law.</p>
+
+            <div id="your-preferences-and-choices" class="section">
+                <p class="subheader u-alignCenter">Your preferences and choices</p>
+                <h6>Communication preferences</h6>
+                <p>You can control the methods by which we may contact you about your account, your booking and listing activities, promotions, and announcements in the Notifications section within your Turo account.</p>
+
+                <br>
+
+                <h6>Correct and update</h6>
+                <p>You can review, correct, update, and edit certain information that has been previously provided to us by you at any time by logging in to your account and reviewing your account settings and profile. You can also access or request a correction of your information by contacting us at <a class="printableLink printableLink--printUrl" href="https://support.turo.com/">support.turo.com</a>. For your protection, we may need to verify your identity before implementing your request.</p>
+
+                <br>
+
+                <h6>Account closure</h6>
+                <p>If you wish to close your account and request deletion of your personal information, please send an email to <a class="printableLink printableLink--printUrl" href="mailto:accountclosure@turo.com">accountclosure@turo.com</a>.</p>
+                <p>Please note that we may be unable to delete information to comply with applicable laws, detect or prevent fraud, collect any fees owed, resolve disputes, assist with or process claims, troubleshoot problems, assist with any investigation, comply with audits and investigation, to enforce our <a class="printableLink printableLink--relativeUrl printableLink--printUrl" href="/policies/terms">Terms of Service</a> and Policies and take other actions reasonably necessary, permitted, or required by applicable law.  There may also be residual information that will remain within our databases and other records, which will not be removed.</p>
+
+                <br>
+
+                <h6>Access</h6>
+                <p>You may request a copy of your personal information provided to us by visiting <a class="printableLink printableLink--printUrl" href="https://turo.com/account">your account page</a> on the web.  We will send you with a copy of the personal information to the email address provided in your account as soon reasonably practicable.  We may request proof of identification or re-authentication to verify your access request.</p>
+
+                <br>
+
+                <h6>Lodging a complaint</h6>
+                <p>Subject to applicable law, you also have the right to lodge a complaint with your local data protection authority or the European Data Protection Supervisor.  If you are a resident of the EEA and believe we maintain your information within the scope of the General Data Protection Regulation, you may direct questions or complaints to:</p>
+
+                <br>
+
+                <p>European Data Protection Supervisor</p>
+                <p>Rue Wiertz 60</p>
+                <p>1047 Bruxelles/Brussel</p>
+                <p>Office: Rue Montoyer 63, 6th floor</p>
+                <p>Tel. +32 2 283 19 00</p>
+                <p>Fax +32 2 283 19 50</p>
+                <p>e-mail: <a class="printableLink printableLink--printUrl" href="mailto:edps@edps.europa.eu">edps@edps.europa.eu</a></p>
             </div>
-            <div class="section">
+
+            <div id="security" class="section">
                 <p class="subheader u-alignCenter">Security</p>
-                <p>We have endeavored to put into place reasonable security measures in an effort to protect Personal Information against unauthorized access, destruction, or alteration while it is under our control.  However, no method of transmission over the Internet, and no method of storing information, can be 100% secure. So, we cannot guarantee the absolute security of your transmissions to us and of your Personal Information that we store.</p>
-                <p>Personal Information may be accessed by persons within our organization, or our third party service providers, who require such access to carry out the purposes indicated in this Privacy Policy, or such other purposes as may be permitted or required by applicable law.</p>
-                <p>We are not responsible for any unauthorized disclosure of personal or other information caused by any third party. Your account information is accessible online through the use of a password. To protect the confidentiality of Personal Information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our Services by any person using your password or your account. Please advise us immediately at support.turo.com if you believe your password has been misused.  We are not responsible for your failure to comply with this clause, or for any delay in shutting down your account after you have reported a breach of security to us.</p>
+                <p>We have endeavored to put into place reasonable security measures in an effort to protect information against unauthorized access, destruction, or alteration while it is under our control. However, no method of transmission over the Internet, and no method of storing information, can be 100% secure. So, we cannot guarantee the absolute security of your transmissions to us and of your information that we store.</p>
             </div>
-            <div class="section">
-                <p class="subheader u-alignCenter">Cross-border transfer</p>
-                <p>The Services are controlled and operated by us from the United States, and are not intended to subject us to the laws or jurisdiction of any state, country, or territory other than that of the United States. Your Personal Information may be used, stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than those of your country. As a result, this information may be subject to access requests from governments, courts, regulatory agencies, security authorities or law enforcement in those jurisdictions according to the laws in those jurisdictions. You can learn more about how we protect your data from government requests <a class="printableLink printableLink--printUrl" href="//support.turo.com/hc/articles/236406827">here</a></p>
-            </div>
-            <div class="section">
-                <p class="subheader u-alignCenter">Sensitive information</p>
-                <p>We ask that you not send us, and you not disclose, any sensitive Personal Information unless specifically requested (e.g., Social Security numbers, social insurance numbers, passports, information related to racial or ethnic origin, political opinions, religion, trade union membership or other beliefs, health, biometrics, or genetic characteristics) and subject to applicable law on or through the Services or otherwise to us.</p>
-            </div>
-            <div class="section">
+
+            <div id="important-information" class="section">
                 <p class="subheader u-alignCenter">Important information</p>
                 <p>This section describes some additional important privacy information related to your use of our Services.</p>
+
                 <br>
-                <h6>How you should use the information you receive on Turo</h6>
-                <div class="u-marginLarger">
-                    <p>You may use the Personal Information that you have access to only for Turo transaction-related purposes, or for other services offered through Turo (such as complaints, claims reporting, dispute resolution, and user-to-user communications). Using Personal Information of other users that you have access to for any other purpose constitutes a violation of our <a class="printableLink printableLink--relativeUrl printableLink--printUrl" href="/policies/terms">Terms of Service</a>. You are solely responsible for your use of any Personal Information you find on our Services, including without limitation, for complying with all applicable laws when using such information.</p>
-                </div>
-                <h6>
-                    Unwanted or threatening email
-                </h6>
-                <div class="u-marginLarger">
-                    <p>We do not tolerate abuse of our Services. You do not have permission to add other users to your mailing list (email or postal), call, or send them text messages for commercial purposes, send spam, or invite/engage in off-Turo transactions to avoid paying Turo’s fees in whole or in part.</p>
-                </div>
+
+                <h6>Change of ownership</h6>
+                <p>If we merge with or are acquired by another company, we may share information with them in accordance with our privacy standards and applicable law.</p>
+
+                <br>
+
+                <h6>Cross border transfer</h6>
+                <p>The Services are controlled and operated by us from the United States, and are not intended to subject us to the laws or jurisdiction of any state, country, or territory other than that of the United States. Your information may be used, stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than those of your country. As a result, this information may be subject to access requests from governments, courts, regulatory agencies, security authorities or law enforcement in those jurisdictions according to the laws in those jurisdictions. You can learn more about how we protect your data from government requests <a class="printableLink printableLink--printUrl" href="https://support.turo.com/hc/articles/236406827">here</a>.</p>
+
+                <br>
+
+                <h6>Sensitive information</h6>
+                <p>We ask that you not send us, and you not disclose, any sensitive information unless specifically requested (e.g., Social Security numbers, social insurance numbers, passports, information related to racial or ethnic origin, political opinions, religion, trade union membership or other beliefs, health, biometrics, or genetic characteristics) and subject to applicable law on or through the Services or otherwise to us.</p>
+
+                <br>
+
                 <h6>Children’s privacy</h6>
-                <div class="u-marginLarger">
-                    <p>Our websites are general audience websites, and our Services are not intended for anyone under the age of 18. We do not knowingly collect Personal Information from users under the age of 18. If a child has already provided us with Personal Information, his or her parent or guardian may contact us for the purpose of deleting this information or closing an account.</p>
-                </div>
+                <p>Our websites are general audience websites, and our Services are not intended for anyone under the age of 21. We do not knowingly collect information from users under the age of 21. If a child has already provided us with information, his or her parent or guardian may contact us for the purpose of deleting this information or closing an account.</p>
+
+                <br>
+
                 <h6>Third party privacy practices</h6>
-                <div class="u-marginLarger">
-                    <p>This Privacy Policy addresses only the use and disclosure of Personal Information collected by Turo. This Privacy Policy does not address, and we are not responsible for, the privacy, information, or other practices of any third parties, including any third party operating any site or service to which the Services link. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates. If you disclose your information to others, or if you are directed to a third party website, their privacy notices and practices will apply.</p>
-                    <p>We cannot guarantee the privacy or security of your information once you provide it to a third party and we encourage you to evaluate the privacy and security policies of your trading partner and any third parties you deal with or whose sites you visit before entering into a transaction and choosing to share your information.</p>
-                </div>
-                <p>Turo welcomes your questions and comments about privacy, and what we do. Please feel free to contact us at <a class="printableLink" href="//support.turo.com/hc">support.turo.com</a>. If you need to reach us by mail in regards to privacy questions, please write to <a class="printableLink" href="//support.turo.com/hc/articles/236179988">us</a></p>
-                <p>Thanks for using Turo!</p>
+                <p>This Privacy Policy addresses only the use and disclosure of information collected by Turo. This Privacy Policy does not address, and we are not responsible for, the privacy, information, or other practices of any third parties, including any third party operating any site or service to which the Services link. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates. If you disclose your information to others, or if you are directed to a third party website, their privacy notices and practices will apply.</p>
+                <p>This Privacy Policy addresses only the use and disclosure of information collected by Turo. This Privacy Policy does not address, and we are not responsible for, the privacy, information, or other practices of any third parties, including any third party operating any site or service to which the Services link. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates. If you disclose your information to others, or if you are directed to a third party website, their privacy notices and practices will apply.</p>
+
+                <br>
+
+                <h6>Signed in</h6>
+                <p>If you sign in to our Platform using an email address and password, your session will expire after 30 days unless you log out but if you sign in through a social network login such as Facebook or Google, you will stay logged on/signed in until you explicitly sign out of your account or clear your Cookies.  If you are using a public or shared computer you should sign out and/or clear your Cookies when you are done using our Platform in order to protect your account and your information. If you do not sign out, you or any other user of the computer/browser you signed in on will be able to view and access your account, including your social media accounts.</p>
+
+                <br>
+
+                <h6>Translations</h6>
+                <p>Where Turo has provided you with a translation of the English language version of this Privacy Policy, in case of any wording discrepancies between the English and any other versions of the Privacy Policy, the English wording takes precedence.</p>
             </div>
 
+            <div id="changes-to-this-privacy-policy" class="section">
+                <p class="subheader u-alignCenter">Changes to this privacy policy</p>
+                <p>We may change this Privacy Policy. Please take a look at the “Last revised” legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy. If you don’t agree to these changes, you can contact us to close your account and you will only be bound by the prior version of the Privacy Policy.</p>
+            </div>
+
+            <div id="contact-us" class="section">
+                <p class="subheader u-alignCenter">Contact</p>
+                <p>Turo welcomes your questions and comments about privacy, and what we do. Please feel free to contact us at our address in the <a class="printableLink printableLink--printUrl" href="https://support.turo.com/hc/articles/236179988">United States</a>.</p>
+                <p>You may also <a class="printableLink printableLink--printUrl" href="mailto:privacy@turo.com">email</a> us.</p>
+                <p>Thanks for using Turo!</p>
+            </div>
         </div>
     </div>
 </div>
@@ -780,7 +892,7 @@
                         <li class="footer-listItem grid-item grid-item--12 grid-item--xsmall6 grid-item--medium6"><a href="https://support.turo.com/categories/20029448-policies" target="_blank">Policies</a></li>
                         <li class="footer-listItem grid-item grid-item--12 grid-item--xsmall6 grid-item--medium6"><a href="/trust-and-safety">Trust &amp; safety</a></li>
                         <li class="footer-listItem grid-item grid-item--12 grid-item--xsmall6 grid-item--medium6"><a href="https://turo.com/owner-tools">Owner tools</a></li>
-                        <li class="footer-listItem grid-item grid-item--12 grid-item--xsmall6 grid-item--medium6"><a href="https://support.turo.com/categories/20033006-renter-help" target="_blank">Traveler FAQs</a></li>
+                        <li class="footer-listItem grid-item grid-item--12 grid-item--xsmall6 grid-item--medium6"><a href="https://support.turo.com/hc/categories/200236860" target="_blank">Traveler FAQs</a></li>
                     </ul>
                 </section>
             </div>
@@ -791,7 +903,7 @@
                         <li class="footer-listItem grid-item grid-item--6 grid-item--xsmall6 grid-item--medium3">
                             <a href="/rentals/cars/ga/atlanta">Atlanta</a></li>
                         <li class="footer-listItem grid-item grid-item--6 grid-item--xsmall6 grid-item--medium3">
-                            <a href="/rentals/cars/qc/montreal">Montreal</a></li>
+                            <a href="/ca/rentals/cars/qc/montreal">Montreal</a></li>
                         <li class="footer-listItem grid-item grid-item--6 grid-item--xsmall6 grid-item--medium3">
                             <a href="/rentals/cars/ma/boston">Boston</a></li>
                         <li class="footer-listItem grid-item grid-item--6 grid-item--xsmall6 grid-item--medium3">
@@ -807,7 +919,7 @@
                         <li class="footer-listItem grid-item grid-item--6 grid-item--xsmall6 grid-item--medium3">
                             <a href="/rentals/cars/hi/honolulu">Honolulu</a></li>
                         <li class="footer-listItem grid-item grid-item--6 grid-item--xsmall6 grid-item--medium3">
-                            <a href="/rentals/cars/on/toronto">Toronto</a></li>
+                            <a href="/ca/rentals/cars/on/toronto">Toronto</a></li>
                         <li class="footer-listItem grid-item grid-item--6 grid-item--xsmall6 grid-item--medium3">
                             <a href="/rentals/cars/tx/houston">Houston</a></li>
                         <li class="footer-listItem grid-item grid-item--6 grid-item--xsmall6 grid-item--medium3">
@@ -828,13 +940,14 @@
                                 <li class="footerSocialList-item"><a class="footerSocialList-link footerSocialList-link--facebook" href="http://www.facebook.com/turo" target="_blank"></a></li>
                                 <li class="footerSocialList-item"><a class="footerSocialList-link footerSocialList-link--twitter" href="http://twitter.com/turo" target="_blank"></a></li>
                                 <li class="footerSocialList-item"><a class="footerSocialList-link footerSocialList-link--instagram" href="https://instagram.com/turo/" target="_blank"></a></li>
-                                <li class="footerSocialList-item"><a class="footerSocialList-link footerSocialList-link--google" href="https://plus.google.com/+TuroOfficial" rel="publisher" target="_blank"></a></li>
+                                <li class="footerSocialList-item"><a class="footerSocialList-link footerSocialList-link--youtube" href="https://www.youtube.com/turo" rel="publisher" target="_blank"></a></li>
                                 <li class="footerSocialList-item"><a class="footerSocialList-link footerSocialList-link--pinterest" href="https://www.pinterest.com/turo/" target="_blank"></a></li>
                             </ul>
                         </li>
                         <li class="footer-listItem"><a href="https://blog.turo.com/"> Read our blog</a></li>
-                        
-                        <li class="footer-listItem"><a href="https://support.turo.com/"> Contact customer support</a></li>
+                        <li class="footer-listItem">
+                            <a href="https://support.turo.com/"> Contact customer support</a>
+                        </li>
                     </ul>
                 </section>
             </div>
@@ -924,7 +1037,7 @@
     function onRequireLoaded() {
         require.config({
             baseUrl: 'https://resources.turo.com/resources/js/',
-            paths: {"accept_reimbursement_dialog":"accept_reimbursement_dialog__H5f3327780b0eef74b9db1ec044d71651__","account":"account__H098ebcb3802fd36bb8692f8cc8de0edd__","add_bank_account_dialog":"add_bank_account_dialog__H60fe6ca759e63c05e27f097864d8a607__","add_driver_to_trip":"add_driver_to_trip__H1dcdc31b584ddf98bae4fbca5af6083d__","add_mailing_address":"add_mailing_address__Hde102c574d94aa17e138f5464887653b__","add_payment_method":"add_payment_method__H14b72a16fc79c26c46219bb71a83ea09__","add_paypal_account_dialog":"add_paypal_account_dialog__H4c66f3a2d47ba92154ff7dc3d3a3361f__","add_profile_photo_dialog":"add_profile_photo_dialog__H6c81407240c8daf779ac7e3f095e8eb0__","add_verify_mobile_dialogs":"add_verify_mobile_dialogs__H4e00a735cf03e61961b05ce29b52aa45__","api":"api__H43f43be6e74514556eb879c47d677627__","assert_manual_transmission_expertise":"assert_manual_transmission_expertise__H34a5806a3db5c428b4f283f0872797e8__","auth_dialogs":"auth_dialogs__Hb2c391f66ad0f23ebeadb7cd7a2a1b1e__","base":"base__H7b054a737a6e4c44ea8a24d26f2c30c4__","calendar":"calendar__H277e650b130dc6538641fa5311cf032a__","common/DateTimePicker":"common/DateTimePicker__H0899ca5f70f018564e270aab612b5f0f__","common/FacebookApiUtil":"common/FacebookApiUtil__H22ed7b1f6d9cbec639f0cb5ebc1022ed__","common/GoogleMapsUtil":"common/GoogleMapsUtil__H90bb1c01b3297650d1c7e7e7e22cc252__","common/IntervalPicker":"common/IntervalPicker__He0805bd008090dd7e38bae98c53b4272__","common/Mapper":"common/Mapper__H3a5438be5b20f96b030ed846f90a2f5b__","common/VehicleLocationMap":"common/VehicleLocationMap__He68b7dd32e93497e872077c7e6aa5e36__","common/analytics":"common/analytics__Hc1062cfe256380af1699ae56c64f825a__","common/bugsnag":"common/bugsnag__H01658088a3e6c750b21df97e05aa01d3__","common/color_filter":"common/color_filter__Hfba409b7cdf1ee63298d312814eb3062__","common/currencySymbolPosition":"common/currencySymbolPosition__Hf3fbf39f06a449937104de6047f189c0__","common/currency_util":"common/currency_util__Hf51f17cf7350eab2d08fa3b91b1d66c9__","common/damage_claim_photo_uploader":"common/damage_claim_photo_uploader__H4c4bcd914d36ccbf0006e304dd91d371__","common/datepicker":"common/datepicker__Hf2d5c152bb97ef9d142255ad116e2bd5__","common/delivery":"common/delivery__Hccd52da626eaf2c17a54e5c162fe9075__","common/dialog":"common/dialog__H09c65499fd960149e0e8a2c4b5ab24d9__","common/distance_util":"common/distance_util__H9a3f72abb6ee9368d7d9c6c1ef1fd625__","common/edit_request_dialog":"common/edit_request_dialog__H942d6f134a62cab8a7518c21ecd5412c__","common/edit_reservation_support":"common/edit_reservation_support__H4a5478b2d759120932932006c77122ec__","common/expandable_text":"common/expandable_text__Hc0982407af03bf9c696aa921a2a85ad2__","common/feedback_paging":"common/feedback_paging__Hd674d6e2a37b06646b809453656bfb79__","common/fineuploader_support":"common/fineuploader_support__Hdbf24a3a0b329c534bd1a8af27baf83e__","common/get_credit_card_info":"common/get_credit_card_info__Hf4b677e1035d8353c949567e1fc5965e__","common/info_link":"common/info_link__Ha069038868ca65bce00cf326f63f023e__","common/item_carousel":"common/item_carousel__H45d79932967900fa0cb04b564dde8d9c__","common/lazy_loader":"common/lazy_loader__Hb3f163232db487f20a2ead76d2536189__","common/license_validation":"common/license_validation__H9f3caa60912d0ac51ebfe4402b470d2a__","common/listing_display":"common/listing_display__H8e153b5f46bdd1f2524450de953568ab__","common/listing_vehicle_photo_uploader":"common/listing_vehicle_photo_uploader__H9705c6682584b32665fa07e8f7f1a1d9__","common/localeDate":"common/localeDate__H1e8e916168b4848038f0bb6eb646693a__","common/location_dialog":"common/location_dialog__H37a4217b810579233ad1e303d9452996__","common/location_geocode":"common/location_geocode__H71da07482188c96276b6b585aa53a1ea__","common/messaging":"common/messaging__He036b32fadfa4c8c648cc5aaa8c7ea6d__","common/owner_availability_calendar":"common/owner_availability_calendar__Hf8ce726d939f3e0bfe0712a951fc8ebc__","common/password_confirm":"common/password_confirm__H5fa30af71bf854ee65ccf1310d239f62__","common/polyglot":"common/polyglot__Ha6d04563f44045b31d4e7544df711ef8__","common/profile_photo_uploader":"common/profile_photo_uploader__Hdd04958c8f9c68dca5c6e829afb01db5__","common/promote_your_car":"common/promote_your_car__H541839b2bca33d0ff68c70171a7b2a61__","common/request_vehicle_dialog":"common/request_vehicle_dialog__H882e7666a18a7c04f8b278c1eb7b01db__","common/reservation_detail_support":"common/reservation_detail_support__H3ef03925e45e86ff71af01d1afdc6f30__","common/reservation_tag_support":"common/reservation_tag_support__H440f34ef98925114d3b7bdc9efed34bc__","common/save_confirmation":"common/save_confirmation__H2f153ddeec5b005bc5618ec562cfa082__","common/select":"common/select__Haf909d32b36e699413f54994ef823d4a__","common/throttle":"common/throttle__H50696cb1379c508f68aa18b433f194a4__","common/trip_summary_tag_support":"common/trip_summary_tag_support__H76e4cb03b37e988885789dcca601d225__","common/unavailabilityMaker":"common/unavailabilityMaker__H692387108e0398fcd453f0f8f5da6cd1__","common/update_airport_selector":"common/update_airport_selector__Hbe1d465ac41baa562a0f908f53710a74__","common/update_renter_request_time_picker_output":"common/update_renter_request_time_picker_output__H0c3fe33a004388904bb3f10c621aebbe__","common/update_trip_summary_from_form":"common/update_trip_summary_from_form__H56dd517599fcc3e9812f54371c826a5b__","common/update_unavailability_display":"common/update_unavailability_display__Hd03fc24049fe6466cd516e209abf5a47__","common/validate_delivery_location":"common/validate_delivery_location__H226ae0ec46b273d9775ea73afe56734e__","common/vehicleAvailabilityCalendarUtil":"common/vehicleAvailabilityCalendarUtil__H4e36dd413f890a27572fda62fe9cc01d__","common/verification_questions":"common/verification_questions__Hc09e5fa4c2f8241087bffb210134e840__","confirm_drivers_license_name_dialog":"confirm_drivers_license_name_dialog__Hbcab39979e2d8fed7652d7cb77a4c262__","connect_google":"connect_google__H0aafe5435664f65774602e1ade1faa61__","custom_delivery_distance_map":"custom_delivery_distance_map__H5015db1f0d1c740c60ad727a42c0762b__","damage_claim_documents":"damage_claim_documents__H692a047ad370307fb9809d8ba67619e7__","damage_claim_reservation_selection":"damage_claim_reservation_selection__Ha0a9cbbfe26d9d30675fd1799de7e1de__","damage_claim_submission":"damage_claim_submission__H6594aa8c15334644b34f79a96b168887__","damage_claim_validation":"damage_claim_validation__H0c01a1b8df5f9a7b2ad1e08426f7ac2e__","deactivate_driver_dialog":"deactivate_driver_dialog__H1e8cd7561e3fab71c97225c0495f6677__","decline_request":"decline_request__Hd552d56ba27bd5f04ad9342fe91caec9__","disable_vehicle_listing_dialog":"disable_vehicle_listing_dialog__H9e05a317e184ed1cfc4688e9d19a8632__","dispute_reimbursement_dialog":"dispute_reimbursement_dialog__He8d200429d7db30e13f0c4bc71f6a170__","driver_approval":"driver_approval__H42ffb3ea92b9cb5fd5e9259b3c59e352__","edit_listing_photos":"edit_listing_photos__Hed391047b5509dfe6aadc344680ae5f1__","edit_listing_rate":"edit_listing_rate__H11e5ef1d221a0511c1bef526fcc45a04__","edit_mileage_limit":"edit_mileage_limit__Hccce10883eeddf3d65f89e873b2d0457__","edit_profile":"edit_profile__Hf463c95a50094ff9a39b96818096bf56__","edit_vehicle_protection":"edit_vehicle_protection__H314e54a3b7b97c3868dabc7df67e9070__","edit_vehicle_settings":"edit_vehicle_settings__H31df57ed3fddb56842493c8c501af262__","edit_vehicle_settings_dialog":"edit_vehicle_settings_dialog__H38a5ef0af89ac1497927ecddc455b1a0__","error":"error__H6e4c8152d50939d247882e904f10e86b__","ext/additional-methods":"ext/additional-methods__H789d3b80bd0b4a73b613412b8e062d87__","ext/bloodhound":"ext/bloodhound__H7ecd24c61cec20acb27a6f8d1ea22e42__","ext/braintree":"ext/braintree__H9a3f7588dd133a9c8ea35b3f1561fd6f__","ext/braintree-data":"https://js.braintreegateway.com/v1/braintree-data","ext/cookies":"ext/cookies__Hdb4cbb4604c7ac203b4ddd1e93b3555f__","ext/fineuploader":"ext/fineuploader__H0e8244d39ba9e7e6239d7065646dce76__","ext/infobox":"ext/infobox__H34e4cdb20c088a0da23990a5583c7e62__","ext/jquery.equalheights":"ext/jquery.equalheights__H7dabbaf620484f775482c52d923b58a0__","ext/jquery.history":"ext/jquery.history__H754b5c43506fc12910e13243ff0ba8a7__","ext/jquery.metadata":"ext/jquery.metadata__Hbdd7532ce75cce796a5451bd4322d61f__","ext/jquery.mobile":"ext/jquery.mobile__H4772c60ed3c5d1c24d0275be19485ab7__","ext/jquery.nouislider":"ext/jquery.nouislider__Hedfd21f4b80550931296c4d23ffb84c0__","ext/jquery.pagination":"ext/jquery.pagination__H1e3fcbc7b2bcf619d42f936f763ba2d0__","ext/jquery.placeholder":"ext/jquery.placeholder__H000cf972ee8ebcb22a70b8c2eab10a40__","ext/jquery.qtip":"ext/jquery.qtip__He1122a53c0edcd9f789ab749f74ae7cc__","ext/jquery.ui":"ext/jquery.ui__H08c4745d9180e1b96fbacab9f7586c75__","ext/jquery.validate":"ext/jquery.validate__Hd8c0a3f8d78b6b24f4bfffbe4cd48456__","ext/json":"ext/json__He9df77c584a1b89753ba464c27bbbb55__","ext/less":"ext/less__Hbf4e012ad8c5da7b6a6df78f4077c726__","ext/localization/messages_en":"ext/localization/messages_en__Hba54a81c939d07708e2c42380112132f__","ext/localization/messages_fr":"ext/localization/messages_fr__Hadbecbac575146400328ffe141bf4a2e__","ext/markerclusterer":"ext/markerclusterer__Hb96f50b6183bb8181d8c4ed5a0b3d03e__","ext/modernizr":"ext/modernizr__He1ad74109bf293751621a325c0b254d2__","ext/mustache":"ext/mustache__Hb9f0813d8e1e98c1c2e87cc1991bb97a__","ext/nouislider":"ext/nouislider__H716c19e32e6cd14a199972f7d9347ca8__","ext/polyglot":"ext/polyglot__H292aad67de7599b7719410df8bf3174d__","ext/require":"ext/require__H0966fff938ba2a2e11b6848156fa86e2__","ext/sticky-kit":"ext/sticky-kit__H894bf69a88c8406680629c151343ff1e__","ext/text":"ext/text__H1fd842195c2c5b19090e4308e2b9306a__","ext/unveil":"ext/unveil__H09163333051ea0305d19698e1db00d35__","feedback_form":"feedback_form__H0af153eb18916c00bd845863b5cb1a69__","identity_verification":"identity_verification__Hfe2d9fb1ab6b7ce707d6df9c1a6c0432__","jquery":"jquery__H3576a6e73c9dccdbbc4a2cf8ff544ad7__","license_error_support":"license_error_support__He4d346fee30f6cf41039d6582680da0b__","license_scan_processing":"license_scan_processing__Hfd669504bb08a5aa118780f0b1f21874__","list_vehicle_location":"list_vehicle_location__H1558a65d0c638b78b123c9e7e421e9dc__","listing/availability":"listing/availability__H7ce0194cb0d9a48f012480fa5093f123__","listing/details":"listing/details__Hd50b1f5cf7708b8ecb090cead8cefeab__","listing/eligibility":"listing/eligibility__H36dcc13fd2ecf6913c23b756a85bee79__","listing/helpers":"listing/helpers__H439fa3a0181f548ee9d5d469859d024c__","listing/image":"listing/image__H00d350f372a29444003f5075ac3866d4__","listing/publication":"listing/publication__H723f2e851054a31fdb7be689082a0378__","locales/de":"locales/de__Hc5d275e2263f0f6906470c6ab59bdfc7__","locales/de-DE":"locales/de-DE__H5ef7282d8f4dda659cef2329684e50c3__","locales/en":"locales/en__H97f3343d63dc4954d7defc0f93b2590a__","locales/fr":"locales/fr__Hd6d2f9308affa138e690af0c4a2511ad__","moment-with-locales":"moment-with-locales__Hef556d39cea07e189943fbdda68e501b__","netverify_start":"netverify_start__H6fa7906960caa4a7c09d715da9fbcdf5__","owner_damage_claim_validation":"owner_damage_claim_validation__Ha2148bdf3d111b6ec5e6039c0a762927__","password_reset":"password_reset__H3e1d423b0e74588a724b73218ba45931__","payment_failure_error":"payment_failure_error__H31ec6360457b484ce8347b2141de488f__","preview_prices":"preview_prices__H58a7259acf7dd8bcda18774e7fcb97a0__","pricing_calendar_add_on":"pricing_calendar_add_on__H5bdaf63c8aedb8718e199abcfb2a111f__","referral_email_form":"referral_email_form__H549cd0b80fca2b3945fc8165da5f3652__","referrals":"referrals__He11af31eb7fbc14d9955386a2cad1b5a__","reimbursement_dialog":"reimbursement_dialog__H4ab8bf81ab9fb12f2d89f8efea4bb4c7__","rent":"rent__Hfce4f6d1915619c419551ff842779149__","renter_damage_claim_validation":"renter_damage_claim_validation__H6f03f59433ebc44386338c1d06a814d0__","renter_edit_protection_level_dialog":"renter_edit_protection_level_dialog__H53935f385a667f614d1f3f562ff87b1a__","report_vehicle_listing_dialog":"report_vehicle_listing_dialog__He72f382bae8740e5d075131da6e6e0f7__","reservation/key_exchange_dialog":"reservation/key_exchange_dialog__Hb6181121dac78c60b8ec6cad541704c7__","reservation/reservation_box":"reservation/reservation_box__H03bb760b1204d39a8734fb11d9c48322__","search/city_search_map":"search/city_search_map__H35f8247531d29ea2a73ef52eb4ebec2a__","search/controller":"search/controller__H018c04b26965f302a9a7fba8d4cc48d9__","search/filters":"search/filters__H37adffc5e17b2d144025bcd6297e5687__","search/map":"search/map__H98d011528fc00a35b532cabba46fc93e__","search/rental_type_search_form":"search/rental_type_search_form__H8c4c2e380a550e0744b914402d68e288__","search/result_list":"search/result_list__Hac06f070e9f1b831adc21487b72f97c2__","search/search_history":"search/search_history__Hb3235d147a56fead62b4cf5c7d6a6f10__","select_protection_level_dialog":"select_protection_level_dialog__Hc610de8457ec86fbea66571b9119147e__","seo/feedback":"seo/feedback__H667fcea78c747cd0bbd6c6ec7437b819__","start_identity_verification":"start_identity_verification__H9af8debc91b54d8b4d6d188e4887cb39__","trip_photos":"trip_photos__H10f0c6cc5d2b503f9f0572471e1a28ea__","unavailability":"unavailability__H752e7c71b48f478c4e8550b81f69db5c__","update_password_dialog":"update_password_dialog__H025ef6ce2030c70a9a79856e15af7c05__","vehicle_detail":"vehicle_detail__Hd8860ee550acce154eb6ae6367aef41d__","vehicle_location_autocomplete":"vehicle_location_autocomplete__H88193a7ca293e48ba8ef2bfda715be99__","vehicle_status_dialog":"vehicle_status_dialog__H5f924365f61dca8eb33af0e32a9187dd__","vehicle_type_carousel":"vehicle_type_carousel__H42e4f1889e8322ecc8caa7340cf8ea17__","verify_email_dialog":"verify_email_dialog__H4ba3ac072d5613e116d2586446312088__","withdraw_reimbursement_dialog":"withdraw_reimbursement_dialog__He22acae41116d4eb161d2816be6b992c__","yourcar":"yourcar__Hc0f0dda3b0295c609baf50772331fb71__"},
+            paths: {"accept_reimbursement_dialog":"accept_reimbursement_dialog__H5f3327780b0eef74b9db1ec044d71651__","account":"account__H0dafd1d3836758ed7ed8416de5ff07b4__","add_bank_account_dialog":"add_bank_account_dialog__H60fe6ca759e63c05e27f097864d8a607__","add_driver_to_trip":"add_driver_to_trip__H1dcdc31b584ddf98bae4fbca5af6083d__","add_mailing_address":"add_mailing_address__Hde102c574d94aa17e138f5464887653b__","add_payment_method":"add_payment_method__H14b72a16fc79c26c46219bb71a83ea09__","add_paypal_account_dialog":"add_paypal_account_dialog__H4c66f3a2d47ba92154ff7dc3d3a3361f__","add_profile_photo_dialog":"add_profile_photo_dialog__H6c81407240c8daf779ac7e3f095e8eb0__","add_verify_mobile_dialogs":"add_verify_mobile_dialogs__H4e00a735cf03e61961b05ce29b52aa45__","api":"https://turo.com/_js/api","assert_manual_transmission_expertise":"assert_manual_transmission_expertise__H34a5806a3db5c428b4f283f0872797e8__","auth_dialogs":"auth_dialogs__H2058c1177f0754ac70e345b5dc17facd__","base":"base__H7b054a737a6e4c44ea8a24d26f2c30c4__","calendar":"calendar__H9c324f6229f04d61c12f8be94e62e977__","common/DateTimePicker":"common/DateTimePicker__H0899ca5f70f018564e270aab612b5f0f__","common/FacebookApiUtil":"common/FacebookApiUtil__H79ee5f3afed1a0d77475fa6c6acee122__","common/GoogleMapsUtil":"common/GoogleMapsUtil__H90bb1c01b3297650d1c7e7e7e22cc252__","common/IntervalPicker":"common/IntervalPicker__H799e982207c20a27ddab6278dea2f0b6__","common/Mapper":"common/Mapper__H3a5438be5b20f96b030ed846f90a2f5b__","common/analytics":"common/analytics__Hfb1809254e102c6aa00d68b35f14b1f3__","common/bugsnag":"common/bugsnag__H01658088a3e6c750b21df97e05aa01d3__","common/carousel_util":"common/carousel_util__H820de61960a28a6d9c021570d15af4dc__","common/color_filter":"common/color_filter__Hfba409b7cdf1ee63298d312814eb3062__","common/currencySymbolPosition":"common/currencySymbolPosition__Hf3fbf39f06a449937104de6047f189c0__","common/currency_util":"common/currency_util__Hf51f17cf7350eab2d08fa3b91b1d66c9__","common/damage_claim_photo_uploader":"common/damage_claim_photo_uploader__H4c4bcd914d36ccbf0006e304dd91d371__","common/datepicker":"common/datepicker__Hf2d5c152bb97ef9d142255ad116e2bd5__","common/delivery":"common/delivery__Hccd52da626eaf2c17a54e5c162fe9075__","common/dialog":"common/dialog__H278be120ca1ea33a9714d009a26920b4__","common/distance_util":"common/distance_util__H9a3f72abb6ee9368d7d9c6c1ef1fd625__","common/edit_request_dialog":"common/edit_request_dialog__H942d6f134a62cab8a7518c21ecd5412c__","common/edit_reservation_support":"common/edit_reservation_support__H4a5478b2d759120932932006c77122ec__","common/expandable_text":"common/expandable_text__Hc0982407af03bf9c696aa921a2a85ad2__","common/fineuploader_support":"common/fineuploader_support__Hdbf24a3a0b329c534bd1a8af27baf83e__","common/get_credit_card_info":"common/get_credit_card_info__Hf4b677e1035d8353c949567e1fc5965e__","common/info_link":"common/info_link__Ha069038868ca65bce00cf326f63f023e__","common/item_carousel":"common/item_carousel__H45d79932967900fa0cb04b564dde8d9c__","common/lazy_loader":"common/lazy_loader__Hb3f163232db487f20a2ead76d2536189__","common/license_validation":"common/license_validation__H9f3caa60912d0ac51ebfe4402b470d2a__","common/listing_display":"common/listing_display__H8e153b5f46bdd1f2524450de953568ab__","common/listing_vehicle_photo_uploader":"common/listing_vehicle_photo_uploader__H9705c6682584b32665fa07e8f7f1a1d9__","common/localeDate":"common/localeDate__He25a0baea184941081c0533135d784e1__","common/location_dialog":"common/location_dialog__H37a4217b810579233ad1e303d9452996__","common/location_geocode":"common/location_geocode__H71da07482188c96276b6b585aa53a1ea__","common/messaging":"common/messaging__He036b32fadfa4c8c648cc5aaa8c7ea6d__","common/owner_availability_calendar":"common/owner_availability_calendar__Hf8ce726d939f3e0bfe0712a951fc8ebc__","common/password_confirm":"common/password_confirm__H5fa30af71bf854ee65ccf1310d239f62__","common/polyglot":"common/polyglot__Ha6d04563f44045b31d4e7544df711ef8__","common/profile_photo_uploader":"common/profile_photo_uploader__Hdd04958c8f9c68dca5c6e829afb01db5__","common/promote_your_car":"common/promote_your_car__H541839b2bca33d0ff68c70171a7b2a61__","common/request_vehicle_dialog":"common/request_vehicle_dialog__H882e7666a18a7c04f8b278c1eb7b01db__","common/reservation_detail_support":"common/reservation_detail_support__H3ef03925e45e86ff71af01d1afdc6f30__","common/reservation_tag_support":"common/reservation_tag_support__H440f34ef98925114d3b7bdc9efed34bc__","common/save_confirmation":"common/save_confirmation__H2f153ddeec5b005bc5618ec562cfa082__","common/select":"common/select__Haf909d32b36e699413f54994ef823d4a__","common/throttle":"common/throttle__H50696cb1379c508f68aa18b433f194a4__","common/trip_summary_tag_support":"common/trip_summary_tag_support__H76e4cb03b37e988885789dcca601d225__","common/unavailabilityMaker":"common/unavailabilityMaker__Hf0859524134d010e60879ae30b0f0e04__","common/update_airport_selector":"common/update_airport_selector__Hbe1d465ac41baa562a0f908f53710a74__","common/update_renter_request_time_picker_output":"common/update_renter_request_time_picker_output__H0c3fe33a004388904bb3f10c621aebbe__","common/update_trip_summary_from_form":"common/update_trip_summary_from_form__H56dd517599fcc3e9812f54371c826a5b__","common/update_unavailability_display":"common/update_unavailability_display__Hd03fc24049fe6466cd516e209abf5a47__","common/validate_delivery_location":"common/validate_delivery_location__H226ae0ec46b273d9775ea73afe56734e__","common/vehicleAvailabilityCalendarUtil":"common/vehicleAvailabilityCalendarUtil__H4e36dd413f890a27572fda62fe9cc01d__","common/verification_questions":"common/verification_questions__Hc09e5fa4c2f8241087bffb210134e840__","confirm_drivers_license_name_dialog":"confirm_drivers_license_name_dialog__Hbcab39979e2d8fed7652d7cb77a4c262__","connect_google":"connect_google__H0aafe5435664f65774602e1ade1faa61__","custom_delivery_distance_map":"custom_delivery_distance_map__H5015db1f0d1c740c60ad727a42c0762b__","damage_claim_documents":"damage_claim_documents__H692a047ad370307fb9809d8ba67619e7__","damage_claim_reservation_selection":"damage_claim_reservation_selection__Ha0a9cbbfe26d9d30675fd1799de7e1de__","damage_claim_submission":"damage_claim_submission__H6594aa8c15334644b34f79a96b168887__","damage_claim_validation":"damage_claim_validation__Hd35b20a67b93ceb41498bff258c0bdaf__","deactivate_driver_dialog":"deactivate_driver_dialog__H1e8cd7561e3fab71c97225c0495f6677__","decline_request":"decline_request__Hd552d56ba27bd5f04ad9342fe91caec9__","disable_vehicle_listing_dialog":"disable_vehicle_listing_dialog__H9e05a317e184ed1cfc4688e9d19a8632__","dispute_reimbursement_dialog":"dispute_reimbursement_dialog__He8d200429d7db30e13f0c4bc71f6a170__","driver_approval":"driver_approval__H878c9cf19ca86802eebc8602280c9890__","edit_listing_rate":"edit_listing_rate__Hd7e2c770007e973febc962d74d0a7cc9__","edit_mileage_limit":"edit_mileage_limit__Hccce10883eeddf3d65f89e873b2d0457__","edit_vehicle_protection":"edit_vehicle_protection__Heaeaf586f53155023469ec2b5e2e9863__","edit_vehicle_settings":"edit_vehicle_settings__H31df57ed3fddb56842493c8c501af262__","edit_vehicle_settings_dialog":"edit_vehicle_settings_dialog__H38a5ef0af89ac1497927ecddc455b1a0__","error":"error__H6e4c8152d50939d247882e904f10e86b__","ext/additional-methods":"ext/additional-methods__H789d3b80bd0b4a73b613412b8e062d87__","ext/bloodhound":"ext/bloodhound__H7ecd24c61cec20acb27a6f8d1ea22e42__","ext/braintree":"ext/braintree__H9a3f7588dd133a9c8ea35b3f1561fd6f__","ext/braintree-data":"https://js.braintreegateway.com/v1/braintree-data","ext/cookies":"ext/cookies__Hdb4cbb4604c7ac203b4ddd1e93b3555f__","ext/fineuploader":"ext/fineuploader__H0e8244d39ba9e7e6239d7065646dce76__","ext/infobox":"ext/infobox__H34e4cdb20c088a0da23990a5583c7e62__","ext/jquery.equalheights":"ext/jquery.equalheights__H7dabbaf620484f775482c52d923b58a0__","ext/jquery.history":"ext/jquery.history__H754b5c43506fc12910e13243ff0ba8a7__","ext/jquery.metadata":"ext/jquery.metadata__Hbdd7532ce75cce796a5451bd4322d61f__","ext/jquery.mobile":"ext/jquery.mobile__H4772c60ed3c5d1c24d0275be19485ab7__","ext/jquery.nouislider":"ext/jquery.nouislider__Hedfd21f4b80550931296c4d23ffb84c0__","ext/jquery.pagination":"ext/jquery.pagination__H1e3fcbc7b2bcf619d42f936f763ba2d0__","ext/jquery.placeholder":"ext/jquery.placeholder__H000cf972ee8ebcb22a70b8c2eab10a40__","ext/jquery.qtip":"ext/jquery.qtip__He1122a53c0edcd9f789ab749f74ae7cc__","ext/jquery.ui":"ext/jquery.ui__H08c4745d9180e1b96fbacab9f7586c75__","ext/jquery.validate":"ext/jquery.validate__Hd8c0a3f8d78b6b24f4bfffbe4cd48456__","ext/json":"ext/json__He9df77c584a1b89753ba464c27bbbb55__","ext/less":"ext/less__Hbf4e012ad8c5da7b6a6df78f4077c726__","ext/localization/messages_en":"ext/localization/messages_en__Hba54a81c939d07708e2c42380112132f__","ext/localization/messages_fr":"ext/localization/messages_fr__Hadbecbac575146400328ffe141bf4a2e__","ext/markerclusterer":"ext/markerclusterer__Hb96f50b6183bb8181d8c4ed5a0b3d03e__","ext/modernizr":"ext/modernizr__He1ad74109bf293751621a325c0b254d2__","ext/mustache":"ext/mustache__Hb9f0813d8e1e98c1c2e87cc1991bb97a__","ext/nouislider":"ext/nouislider__H716c19e32e6cd14a199972f7d9347ca8__","ext/polyglot":"ext/polyglot__H292aad67de7599b7719410df8bf3174d__","ext/require":"ext/require__H0966fff938ba2a2e11b6848156fa86e2__","ext/sticky-kit":"ext/sticky-kit__H894bf69a88c8406680629c151343ff1e__","ext/text":"ext/text__H1fd842195c2c5b19090e4308e2b9306a__","ext/unveil":"ext/unveil__H09163333051ea0305d19698e1db00d35__","feedback_form":"feedback_form__H0af153eb18916c00bd845863b5cb1a69__","identity_verification":"identity_verification__Hfe2d9fb1ab6b7ce707d6df9c1a6c0432__","jquery":"jquery__H3576a6e73c9dccdbbc4a2cf8ff544ad7__","license_error_support":"license_error_support__He4d346fee30f6cf41039d6582680da0b__","license_scan_processing":"license_scan_processing__Hfd669504bb08a5aa118780f0b1f21874__","list_vehicle_location":"list_vehicle_location__H88f059442a153b9682420fefa8f2a488__","locales/de":"locales/de__Hd891cf247323e15218058c6b2c9e93ce__","locales/de-DE":"locales/de-DE__H5ef7282d8f4dda659cef2329684e50c3__","locales/en":"locales/en__H4eb91ecc113b20ca26a2d9c4c2cd6c83__","locales/fr":"locales/fr__Hf7dfa3363e7503a782008de70e2bc4c5__","moment-with-locales":"moment-with-locales__H4126f2c3b4ac2cd4af1d34653f7890a8__","netverify_start":"netverify_start__H6fa7906960caa4a7c09d715da9fbcdf5__","owner_damage_claim_validation":"owner_damage_claim_validation__Ha2148bdf3d111b6ec5e6039c0a762927__","password_reset":"password_reset__H3e1d423b0e74588a724b73218ba45931__","payment_failure_error":"payment_failure_error__H31ec6360457b484ce8347b2141de488f__","preview_prices":"preview_prices__H58a7259acf7dd8bcda18774e7fcb97a0__","pricing_calendar_add_on":"pricing_calendar_add_on__H5bdaf63c8aedb8718e199abcfb2a111f__","reimbursement_dialog":"reimbursement_dialog__H874634664372fc0a70663e8421361431__","rent":"rent__Hfce4f6d1915619c419551ff842779149__","renter_damage_claim_validation":"renter_damage_claim_validation__H6f03f59433ebc44386338c1d06a814d0__","renter_edit_protection_level_dialog":"renter_edit_protection_level_dialog__H53935f385a667f614d1f3f562ff87b1a__","report_vehicle_listing_dialog":"report_vehicle_listing_dialog__He72f382bae8740e5d075131da6e6e0f7__","reservation/key_exchange_dialog":"reservation/key_exchange_dialog__Hb6181121dac78c60b8ec6cad541704c7__","search/city_search_map":"search/city_search_map__Hdb18d35b5b8bcc90ef13b907d40d0b05__","search/rental_type_search_form":"search/rental_type_search_form__H8c4c2e380a550e0744b914402d68e288__","search/search_history":"search/search_history__Hb3235d147a56fead62b4cf5c7d6a6f10__","select_protection_level_dialog":"select_protection_level_dialog__Hc610de8457ec86fbea66571b9119147e__","seo/feedback":"seo/feedback__H667fcea78c747cd0bbd6c6ec7437b819__","start_identity_verification":"start_identity_verification__H9af8debc91b54d8b4d6d188e4887cb39__","trip_photos":"trip_photos__H10f0c6cc5d2b503f9f0572471e1a28ea__","unavailability":"unavailability__H752e7c71b48f478c4e8550b81f69db5c__","update_password_dialog":"update_password_dialog__H025ef6ce2030c70a9a79856e15af7c05__","vehicle_location_autocomplete":"vehicle_location_autocomplete__H88193a7ca293e48ba8ef2bfda715be99__","vehicle_status_dialog":"vehicle_status_dialog__H5f924365f61dca8eb33af0e32a9187dd__","vehicle_type_carousel":"vehicle_type_carousel__Hb18ce37aafc33f3774a0c02db3598efa__","verify_email_dialog":"verify_email_dialog__H4ba3ac072d5613e116d2586446312088__","withdraw_reimbursement_dialog":"withdraw_reimbursement_dialog__He22acae41116d4eb161d2816be6b992c__","yourcar":"yourcar__Hc0f0dda3b0295c609baf50772331fb71__"},
             shim: {
                 'common/FacebookApiUtil': { exports: 'FacebookApiUtil' },
                 'ext/bloodhound': {exports: 'Bloodhound', deps: ['jquery']},
@@ -965,8 +1078,33 @@
         require(['base', 'jquery'], function(base) {
             // jQuery is only listed here as a performance hack, so that base.js and jquery.js are downloaded in parallel
             base.init();
+
         });
     </script>
+
+    
+
+<script type="text/javascript">
+    (function(window, document) {
+        var hackSlowJQueryReady = function() {
+
+            document.removeEventListener("DOMContentLoaded", hackSlowJQueryReady, false);
+
+            var interval = setInterval(function() {
+                if (window.$) {
+                    $.ready();
+                    clearInterval(interval);
+                }
+            }, 100);
+        };
+
+        if (document.addEventListener) {
+            document.addEventListener("DOMContentLoaded", hackSlowJQueryReady, false);
+        }
+    })(window, document);
+</script>
+
+
     
     
     
@@ -982,7 +1120,7 @@
 
     <script type="text/javascript">
 
-        var setCookieValue = '[sid=jV2BB1XDRGmpJjNHGzuoyg; Domain=turo.com; Expires=Sat, 17-Mar-2018 02:09:54 GMT; Path=/; Secure; HttpOnly]';
+        var setCookieValue = '[preferredLocale=en_US; Domain=turo.com; Expires=Wed, 23-Oct-2086 08:18:33 GMT; Path=/; Secure, rr_u_cid=b2oD6RptQeONsKdkEbm8Xg; Domain=turo.com; Expires=Wed, 04-Oct-2023 05:04:26 GMT; Path=/; Secure; HttpOnly, sid=U37LjGFKSPuN-3k6mQtqBA; Domain=turo.com; Expires=Fri, 05-Oct-2018 06:04:26 GMT; Path=/; Secure; HttpOnly, JSESSIONID=94906bfe-2c69-4c15-b1a1-3ea3af90198d; Path=/; Secure; HttpOnly]';
         var sessionCookieName = 'sid';
         var pattern = new RegExp(sessionCookieName+"=(.{22})");
         var matches = setCookieValue.match(pattern);
@@ -1027,16 +1165,22 @@
     
 <div class="u-hidden">
     <script type="text/javascript">
-        /* <![CDATA[ */
-        var google_conversion_id = 997387567;
-        var google_conversion_label = "GdUACNHvmwMQr9rL2wM";
-        var google_custom_params = window.google_tag_params;
-        var google_remarketing_only = true;
-        var google_conversion_format = 3;
-        /* ]]> */
+        function handleGoogleConversionScriptLoaded() {
+            if (!window.google_trackConversion) {
+                return;
+            }
+            /* <![CDATA[ */
+            window.google_trackConversion({
+                google_conversion_id: 997387567,
+                google_conversion_label: 'GdUACNHvmwMQr9rL2wM',
+                google_custom_params: window.google_tag_params,
+                google_remarketing_only: true,
+                google_conversion_format: 3,
+            });
+            /* ]]> */
+        }
     </script>
-    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js" async="" onload="handleGoogleConversionScriptLoaded()">
     <noscript>
         <div style="display:inline;">
             <img height="1" width="1" style="border-style:none;" alt=""
@@ -1070,32 +1214,15 @@
     })(window, document, "script", "//bat.bing.com/bat.js", "uetq");
 </script>
 
-    <script type="application/javascript">
-    (function (w, d, t, r, u) {
-        w[u] = w[u] || [];
-        w[u].push({'projectId': '10000', 'properties': {'pixelId': '10000749'}});
-        var s = d.createElement(t);
-        s.src = r;
-        s.async = true;
-        s.onload = s.onreadystatechange = function () {
-            var y, rs = this.readyState, c = w[u];
-            if (rs && rs != "complete" && rs != "loaded") {
-                return
-            }
-            try {
-                y = YAHOO.ywa.I13N.fireBeacon;
-                w[u] = [];
-                w[u].push = function (p) {
-                    y([p])
-                };
-                y(c)
-            } catch (e) {
-            }
-        };
-        var scr = d.getElementsByTagName(t)[0], par = scr.parentNode;
-        par.insertBefore(s, scr)
-    })(window, document, "script", "https://s.yimg.com/wi/ytc.js", "dotq");
+    <script type="text/javascript">
+    // This is the Tatari pixel
+    !function(){try{!function(t,n){if(!n.version){window.tatari=n,n.init=function(t,e){var i=function(t,e){n[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};"track pageview identify".split(" ").forEach(function(t){i(n,t)}),n._i=t,n.pageview()},n.version="latest";var e=t.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://d2hrivdxn8ekm8.cloudfront.net/tracker-latest.min.js"; var i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(e,i)}}(document,window.tatari||[])}catch(t){console.log(t)}}();
+    tatari.init('adfc7bca-ebae-518a-881b-f366db2921fc');
+
+    // Connect previous Tatari tracking events to a driver id if they have logged in
+    
 </script>
+
 
     
     
@@ -1114,39 +1241,18 @@
 
     
     
-    
-
-
-
-<script type="text/template" id="calendarTemplate">
+    <script type="text/template" id="calendarTemplate">
         <section date-ui-role="headers" class="calendar-header">
             <div data-ui-role="prevMonth" class="js-prev-month pointer col-3-20"><div class="calendar-arrow calendar-arrow--left"></div></div>
             <div data-ui-role="month" class="js-month month col-14-20"></div>
             <div data-ui-role="nextMonth" class="js-next-month pointer col-3-20"><div class="calendar-arrow calendar-arrow--right"></div></div>
-            <div data-ui-role="weekdays" class="js-weekdays weekdays">
-                
-                    <span class="weekday col-1-7">Sun</span>
-                
-                    <span class="weekday col-1-7">Mon</span>
-                
-                    <span class="weekday col-1-7">Tue</span>
-                
-                    <span class="weekday col-1-7">Wed</span>
-                
-                    <span class="weekday col-1-7">Thu</span>
-                
-                    <span class="weekday col-1-7">Fri</span>
-                
-                    <span class="weekday col-1-7">Sat</span>
-                
-            </div>
+            <div data-ui-role="weekdays" class="js-weekdays weekdays"></div>
         </section>
 
         <section data-ui-role="days" class="days">
         </section>
 
         <section class="js-calendarCurrencyHint calendar-currencyHint"></section>
-
 </script>
 
 <script type="text/template" id="dayTemplate">
@@ -1176,4 +1282,4 @@
 
 
 
-</body></html>
+</div></body></html>
