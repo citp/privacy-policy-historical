@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the getrevue.co privacy policy that was archived on 2017-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170512235013id_/https%3A//www.getrevue.co/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getrevue.co privacy policy that was archived on 2018-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181005192022id_/https%3A//www.getrevue.co/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="utf-8">
 <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
-<title dir="ltr">Revue - Get your thoughts into people's inboxes</title>
+<title dir="ltr">Revue - An editorial newsletter tool for writers and publishers.</title>
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
-<meta content="We believe everybody should send a newsletter. We are here to make it extremely simple to send yours today and start a conversation with your followers." name="description">
+<meta content="No algorithms or fighting to be seen in a news feed, just your writing in front of your subscribers, without the guesswork." name="description">
 <meta content="newsletter, email, digest, curation" name="keywords">
 <!--[if lt IE 9]>
 <script src="//d3jbm9h03wxzi9.cloudfront.net/assets/html5shiv-d3d35aa8c5c7074d41080b04f1324ad142a05add2f6e1e2ac7028b1eb3bece66.js"></script>
 <![endif]-->
-<link rel="stylesheet" media="all" href="//d3jbm9h03wxzi9.cloudfront.net/assets/application-18ceec3196c8c03725f58da8489756ec091687347c4f194541fb758c7bc6e0d5.css">
-<script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script src="//d3jbm9h03wxzi9.cloudfront.net/assets/application-daa9fc28f16c39fd8dc597fdabdd11b1ab037a9c30f0ae34bda392a882212b7d.js"></script>
+<link rel="stylesheet" media="all" href="//d3jbm9h03wxzi9.cloudfront.net/assets/application-b8f783c2ecb9bd60a91f93e85a2bdf9c9af9deb6085f276e48860bfe1a344109.css">
+<script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script src="//d3jbm9h03wxzi9.cloudfront.net/assets/application-fe08b9947c3a2e5dc1a5bc9722710af2904de4c6f371b123ce1964fd7c2365fd.js"></script>
 <script>
   I18n.defaultLocale = "en";
   I18n.locale = "en";
@@ -21,7 +21,7 @@
 <link href="//d3jbm9h03wxzi9.cloudfront.net/assets/favicon-84fc7f228d52c2410eb7aa839e279caeaa491588c7c75229ed33e1c7f69fe75d.ico" rel="icon" size="32x32">
 <link color="#E15718" href="//d3jbm9h03wxzi9.cloudfront.net/assets/icon-3c1cfdd15627dced20a77f68d16ee564dc20eed0e312dd9c1bf8051c15691617.svg" rel="mask-icon">
 <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="Ee5/UFZxzfbQCQjip6G6NNIJ6yqm1iptR2AV85r4UF29BxWevuCXD+miKfztMo5T3AqQisa21OMXzDas1QW+Zg==">
+<meta name="csrf-token" content="ORq3hMibWEKkxqA2xs0AreHBVNAIWE4LDD9eSMurVfnxvjb/R0Dsuo5eNSlqN6ZQ0+lyy4Q+Gyu0HzjX1ZfIzQ==">
 
 <link rel="stylesheet" media="screen" href="https://fonts.googleapis.com/css?family=Bevan">
 <script type="text/javascript">
@@ -70,10 +70,10 @@
     ref = getQueryParam(document.URL, 'ref');
 
     if(!campaign && !ref) {
-      if(/www\.getrevue\.co\/profile/.test(window.location.href)) {
-        return 'Revue Profile'
-      } else if (/www\.getrevue\.co\/profile\/(.*?)\/issue/.test(window.location.href)) {
+      if (/www\.getrevue\.co\/profile\/(.*?)\/issue/.test(window.location.href)) {
         return 'Revue Profile Issue'
+      } else if(/www\.getrevue\.co\/profile/.test(window.location.href)) {
+        return 'Revue Profile'
       }
     }
 
@@ -132,8 +132,8 @@
       // Set ref
       initial_ref = mixpanel.get_property('$initial_referrer');
       mixpanel.register_once({"Source": extractReferrer(initial_ref)});
-      mixpanel.people.set_once({"Source": extractReferrer(initial_ref)});
-      mixpanel.people.set_once({"$created": new Date().toISOString()});
+      // mixpanel.people.set_once({"Source": extractReferrer(initial_ref)});
+      // mixpanel.people.set_once({"$created": new Date().toISOString()});
 
       // Set distinct id
       $('#member_distinct_id').val(mixpanel.get_distinct_id())
@@ -147,9 +147,11 @@ mixpanel.init("2087bc32dd14049d6de8a339112517d9", {loaded: mixpanelLoaded});</sc
 <script type="text/javascript">
   var utm = geUtmParams();
   mixpanel.register(utm.params);
-  mixpanel.people.set(utm.params);
-  mixpanel.people.set_once(utm.first_params);
+  // mixpanel.people.set(utm.params);
+  // mixpanel.people.set_once(utm.first_params);
 </script>
+
+
 </head>
 <body class="home privacy" data-page="HomePrivacy">
 <script>
@@ -168,14 +170,13 @@ mixpanel.init("2087bc32dd14049d6de8a339112517d9", {loaded: mixpanelLoaded});</sc
 <a href="/"><img alt="Revue" id="revue" src="//d3jbm9h03wxzi9.cloudfront.net/assets/logo-24759fd0eb6c169a3b9f3d4e1163f5dde5bdb529ea68372a34861fa93c2da40e.svg">
 </a></div>
 <nav><ul>
-<li class="active"><a href="/explore">Gallery</a></li>
-<li><a href="/features">How it works</a></li>
+<li><a href="/paid-newsletters">Paid newsletters</a></li>
+<li><a href="/explore">Gallery</a></li>
 <li><a href="/pricing">Pricing</a></li>
-<li><a href="https://blog.getrevue.co">Blog</a></li>
 </ul>
 <ul class="signin">
-<li><a href="/app/issues/current">Log in</a></li>
-<li class="signup"><a href="/app/issues/current">Sign up</a></li>
+<li><a href="/users/sign_in">Log in</a></li>
+<li class="signup"><a href="/users/sign_up">Register</a></li>
 </ul>
 </nav>
 </header>
@@ -191,46 +192,65 @@ mixpanel.init("2087bc32dd14049d6de8a339112517d9", {loaded: mixpanelLoaded});</sc
 <div class="container">
 <section id="terms">
 <div id="terms-content">
-<p>Revue Holding B.V. ("us", "we", or "our") operates the https://www.getrevue.co website and the Revue mobile application (the "Service").</p>
-<p>This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.</p>
-<p>We will not use or share your information with anyone except as described in this Privacy Policy.</p>
-<p>We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our  Terms of Service.</p>
-<h3>Information Collection And Use</h3>
-<p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, other information ("Personal Information").</p>
-<h3>Log Data</h3>
-<p>We may also collect information that your browser sends whenever you visit our Service or when you access the Service by or through a mobile device ("Log Data").</p>
-This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
-<p>When you access the Service by or through a mobile device, this Log Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use and other statistics.</p>
-<p>In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.</p>
-<h3>Cookies</h3>
-<p>Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive.</p>
-<p>We use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p>
-<h3>Service Providers</h3>
-<p>We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.</p>
-<p>These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p>
-<h3>Communications</h3>
-<p>We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us.</p>
-<h3>Compliance With Laws</h3>
-<p>We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.</p>
-<h3>Business Transaction</h3>
-<p>If Revue Holding B.V. is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.</p>
+<p>Revue Holding B.V.  ("Revue"; "we"), situated in The Netherlands, provides services to our website visitors ("you"). Our services include activities relating to providing a tool that allows writers and publishers to create and send out newsletters, as well as other services ("the Services"). We process personal data during the undertaking of these Services.</p>
+<p>Revue deems careful handling of personal data to be paramount. Personal data is carefully processed and secured. When processing, we adhere to the requirements of the General Data Protection Regulation (the “Rules"). This Privacy Statement relates to personal information collected by, or under the control of Revue, in accordance with the Rules.</p>
+<p>In this Privacy Statement, we summarise what personal data we collect and use and for what purpose. We advise you to read our Privacy Statement carefully. This Privacy Statement applies to our website, https://www.getrevue.co/; related sites; and communications.</p>
+<div class="alert alert-info">You can find the privacy statement relating to the Revue platform <a href="/privacy/platform">here</a>.</div>
+<p>
+<em>This Privacy Statement was last altered on the 24th May 2018.</em>
+</p>
+<h3>Use of Personal Data</h3>
+<p>By using our Services, you may share your personal data with us. We exclusively collect and use the personal data that is directly provided by you, or your organisation. Revue will not use your personal data for other purposes than for which you, or your organisation, have given us permission beforehand.</p>
+<h3>Types of Data Collected</h3>
+<p>When using our Services, we may collect the following Information about you:</p>
+<ul>
+<li>Personal identification data: name, surname;</li>
+<li>Contact information data: email;</li>
+<li>Other provided data: IP address, social media accounts, feedback and other communication.</li>
+</ul>
+<h3>Purposes of Processing</h3>
+<p>Personal data is generally processed by Revue for the following purposes:</p>
+<ul>
+<li>Logging in and verifying/authenticating users of the Service;</li>
+<li>Communication between Revue and website visitors;</li>
+<li>Monitoring and auditing the Service;</li>
+<li>Analysing statistics and optimising the Service.</li>
+</ul>
+<p>We collect your personal data based on legitimate business interests, or consent. If the processing is based on consent, it can be withdrawn at any time.</p>
+<h3>Data Storage&nbsp;</h3>
+<p>In principle, we only keep your data for as long as necessary to fulfil the purposes described in this Privacy Statement, for which your data have been collected. As a general rule, we store the data our website visitors for 12 months.</p>
+<h3>Your Rights</h3>
+<p>You have the right to request access to the information we have about you. You can do this by contacting us directly. We will make sure to provide you with a copy of the data we process about you in a machine-readable format. We may need to verify your identity to comply with your request.</p>
+<p>If you believe that the information we have about you is incorrect, you can contact us, so we can update the information to ensure it is accurate. You also have the right to object to certain data processing operations, such as direct marketing. If at any point you wish for us to delete information about you, you can communicate it to us.</p>
+<p>You can contact us at any time with these requests and we will respond in a timely manner applicable with the Rules. If you are unsatisfied with the reply received from us, you may then refer your complaint to the relevant supervisory authority.</p>
+<h3>Provision to Third Parties</h3>
+<p>Your personal data may sometimes be shared with third parties. In principle, we will not provide the data you have provided us to other parties if you have not given us permission to do so, unless this is required by the law.</p>
+<h3>Data Transfers</h3>
+<p>For the fulfilment of the purposes mentioned in this Privacy Statement, your data may be transferred outside the European Economic Area. Whenever this is the case, we make sure that personal data is transferred in a secure manner. For transfers to the US, we ensure that the party is subject to the US-EU Privacy Shield Agreement. For other transfers, your data may be transferred to countries recognized by the European Commission as providing an adequate level of data protection.</p>
+<h3>Cookies and Analytics</h3>
+<p>On our website, we make use of functional cookies. These cookies are saved for the duration of the (browser) session. Additionally, when you use our service, your IP address is automatically saved in the log files of our web server. This is necessary to allow us to properly manage and secure the Services. We do not use your IP address to follow and register your behaviour online. Normally, we are not able to link your IP address to your name, address or other identifying information, except when you actively provide us with such information and continue to make use of the same IP address.&nbsp;You can always refuse the cookies.</p>
+<p>User data that you provide may be kept for making statistical analyses, including via Google Analytics. These statistics are used to optimise our Services. Wherever possible, we make this data pseudonymized.</p>
 <h3>Security</h3>
-<p>The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.</p>
-<h3>International Transfer</h3>
-<p>Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
-<p>If you are located outside Netherlands and choose to provide information to us, please note that we transfer the information, including Personal Information, to Netherlands and process it there.</p>
-<p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
-<h3>Links To Other Sites</h3>
-<p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
-<p>We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
-<h3>Children's Privacy</h3>
-<p>Our Service does not address anyone under the age of 13 ("Children").</p>
-<p>We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.</p>
-<h3>Changes To This Privacy Policy</h3>
-<p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
-<p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
-<h3>Contact Us</h3>
-<p>If you have any questions about this Privacy Policy, please <a href="mailto:support@getrevue.co">contact us</a>.</p>
+<p>We take security measures in order to limit misuse of and unauthorised access to personal data. In particular, we take the following measures:</p>
+<ul>
+<li>Logical access control, use of passwords and possibly a second factor;</li>
+<li>Encryption of data;</li>
+<li>Pseudonymising data;</li>
+<li>Securing data during the exchange of it, making use of the HTTPS protocol;</li>
+<li>Purpose-bound access limitations;</li>
+<li>Control of acknowledged authorisations.</li>
+</ul>
+<h3>Third Party Websites</h3>
+<p>This statement does not apply to third party websites that are visited from our Service through links. We cannot guarantee that these third parties will handle your personal data safely and reliably. We advise you to read the Privacy Statements of these websites before making use of them.</p>
+<address>
+Revue Holding B.V.
+<br>
+Europalaan 500-unit O.2.3,
+<br>
+3526KS Utrecht,
+<br>
+The Netherlands
+</address>
 </div>
 </section>
 </div>
@@ -260,7 +280,6 @@ This Log Data may include information such as your computer's Internet Protocol 
 <nav>
 <ul>
 <li><a href="https://blog.getrevue.co">Blog</a></li>
-<li><a href="/about">About us</a></li>
 <li><a href="/privacy">Privacy policy</a></li>
 <li><a href="/terms">Terms of service</a></li>
 </ul>
