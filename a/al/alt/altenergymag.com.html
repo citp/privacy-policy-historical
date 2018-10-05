@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the altenergymag.com privacy policy that was archived on 2017-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170629052147id_/http%3A//www.altenergymag.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the altenergymag.com privacy policy that was archived on 2018-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181005220312id_/https%3A//www.altenergymag.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 <meta charset="UTF-8">
@@ -12,12 +12,12 @@
 <meta name="msvalidate.01" content="FAFAE9B495318FCA21E6E67E7EA6B91F">
 <meta name="msvalidate.01" content="5245D9C9E882DD34BDB43684DA55839C">
 <meta name="y_key" content="340a0850068ac3f9">
-<link rel="image_src" href="http://www.altenergymag.com/images/facebooknews.jpg"><!--formatted-->
+<link rel="image_src" href="https://www.altenergymag.com/images/facebooknews.jpg"><!--formatted-->
 <meta property="og:type" content="article">
 <meta property="og:title" content="Terms &amp; Conditions - Privacy Policy | AltEnergyMag">
 <meta property="og:description" content="Term and Conditions at AltEnergyMag">
-<meta property="og:image" content="http://www.altenergymag.com/images/facebooknews.jpg">
-<meta property="og:url" content="http://www.altenergymag.com/privacy.php">
+<meta property="og:image" content="https://www.altenergymag.com/images/facebooknews.jpg">
+<meta property="og:url" content="https://www.altenergymag.com/privacy.php">
 
 <meta name="robots" content="noodp,noydir">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -25,7 +25,7 @@
 <link rel="stylesheet" id="css-theme-css" href="/css/style.css" type="text/css" media="all">
 <link rel="stylesheet" id="css-theme-css" href="/css/responsive.css" type="text/css" media="all">
 <link rel="stylesheet" id="css-theme-css" href="/css/forms.css" type="text/css" media="all">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic|PT+Sans+Narrow:700,400|Raleway:400,500,600|Roboto:400,500,700,300,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic|PT+Sans+Narrow:700,400|Raleway:400,500,600|Roboto:400,500,700,300,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/jquery.js"></script>
 <script src="/js/jquery.easing.1.3.js"></script>
 <script type="text/javascript" src="/js/jquery.infieldlabel.min.js"></script>
@@ -54,7 +54,7 @@ else
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
@@ -81,7 +81,7 @@ function OnSubmitForm()
 {
     // Google Custom Search
     if(document.searchform.operation[0].checked == true) {
-        document.searchform.action ="http://www.google.com/cse";
+        document.searchform.action ="https://www.google.com/cse";
     // Search Articles
     }
     else if(document.searchform.operation[1].checked == true) {
@@ -101,7 +101,7 @@ function OnSubmitForm()
 $(document).ready(function(){
     
     $('input:radio[name="operation"]').change(function(){
-        
+                
         // Google Custom Search
         if($(this).val() == 'g'){
             $("#cse-search-box").find("input#nav_searchfield").attr("name", "q");
@@ -112,20 +112,20 @@ $(document).ready(function(){
         
         // Search Articles
         if($(this).val() == 'a'){
-            $("#cse-search-box").find("input#nav_searchfield").attr("name", "keyword");
-            $("#cse-search-box").find("label#nav_searchlabel").attr("for", "keyword");
+            $("#cse-search-box").find("input#nav_searchfield").attr("name", "all");
+            $("#cse-search-box").find("label#nav_searchlabel").attr("for", "all");
             $("#cse-search-box").find("input#nav_search").attr("name", "search");
             $("#cse-search-box").attr("target", "_self");
-            $("#cse-search-box").find("#nav-hidden.postfields input").attr("name", "unk");
+            $("#cse-search-box").find("#nav-hidden.postfields input").attr("value", "a");
         }
         
         // Search News
         if($(this).val() == 'n'){
-            $("#cse-search-box").find("input#nav_searchfield").attr("name", "keyword");
-            $("#cse-search-box").find("label#nav_searchlabel").attr("for", "keyword");
+            $("#cse-search-box").find("input#nav_searchfield").attr("name", "all");
+            $("#cse-search-box").find("label#nav_searchlabel").attr("for", "all");
             $("#cse-search-box").find("input#nav_search").attr("name", "search");
             $("#cse-search-box").attr("target", "_self");
-            $("#cse-search-box").find("#nav-hidden.postfields input").attr("name", "type");
+            $("#cse-search-box").find("#nav-hidden.postfields input").attr("value", "n");
         }
         
         // Search Companies
@@ -147,16 +147,16 @@ $(document).ready(function(){
     <div class="site-container">
         <div class="site-promo" itemscope="itemscope">
             <div class="wrap">
-                <nav class="nav-promo" itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" role="navigation">
+                <nav class="nav-promo" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope" role="navigation">
                     <ul class="menu nav-menu">
                         <!--<li class="menu-item">
                                                             <a href="/site_services.php">Login</a>
                                                     </li>
                         -->
-                        <li class="menu-item"><a href="/products.php">Products</a></li>
-                        <li class="menu-item"><a href="/company_directory_search.php">Companies</a></li>
-                        <li class="menu-item"><a href="/events.php">Events</a></li>
-                        <li class="menu-item"><a href="/stream/news/">Industry News</a></li>
+                        <li class="menu-item"><a href="/whitepapers.php">White Papers</a></li>
+						<li class="menu-item"><a href="/events.php">Events Calendar</a></li>
+						<li class="menu-item"><a href="/products.php">Featured Products</a></li>
+                        <li class="menu-item"><a href="/company_directory_search.php">Company Directory</a></li>
                     </ul>
                 </nav>
                 <div class="promo-banner"><!-- BEGIN ADVERTPRO CODE BLOCK -->
@@ -166,25 +166,25 @@ Zone #77: AEM 728x90 Leaderboard
 Size #19: Jumbo Banner [728x90]
 -->
 <script type="text/javascript">
-document.write('<scr'+'ipt src="http://ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=77&pid=2&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+encodeURIComponent(document.location)+'" type="text/javascript"></scr'+'ipt>');
-</script><script src="http://ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=77&amp;pid=2&amp;random=54944607&amp;millis=1580472260279&amp;referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170629052147id_%2Fhttp%253A%2F%2Fwww.altenergymag.com%2Fprivacy.php" type="text/javascript"></script>
+document.write('<scr'+'ipt src="//ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=77&pid=2&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+encodeURIComponent(document.location)+'" type="text/javascript"></scr'+'ipt>');
+</script><script src="//ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=77&amp;pid=2&amp;random=60878976&amp;millis=1580472263583&amp;referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20181005220312id_%2Fhttps%253A%2F%2Fwww.altenergymag.com%2Fprivacy.php" type="text/javascript"></script>
 <!-- END ADVERTPRO CODE BLOCK --></div>
-                <div class="promo-tile"><!-- BEGIN ADVERTPRO CODE BLOCK -->
+                <div class="promo-tile"><!-- BEGIN ADVERTSERVE CODE BLOCK -->
 <!--
 Publisher #2: AltEnergyMag
-Zone #95: AEM Page Peel
-Size #1: N/A [-1x-1]
+Zone #95: AltEMag Page Peel
+Secure (HTTPS): enabled
 -->
 <script type="text/javascript">
-document.write('<scr'+'ipt src="http://ljb.advertserve.com/servlet/view/pagepeel/javascript/zone?zid=95&pid=2&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+encodeURIComponent(document.location)+'" type="text/javascript"></scr'+'ipt>');
-</script><script src="http://ljb.advertserve.com/servlet/view/pagepeel/javascript/zone?zid=95&amp;pid=2&amp;random=27566117&amp;millis=1580472260284&amp;referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170629052147id_%2Fhttp%253A%2F%2Fwww.altenergymag.com%2Fprivacy.php" type="text/javascript"></script>
-<!-- END ADVERTPRO CODE BLOCK --></div>
+document.write('<scr'+'ipt src="https://ljb.advertserve.com/servlet/view/pagepeel/javascript/zone?zid=95&pid=2&resolution='+(window.innerWidth||screen.width)+'x'+(window.innerHeight||screen.height)+'&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+encodeURIComponent((window!=top&&window.location.ancestorOrigins)?window.location.ancestorOrigins[window.location.ancestorOrigins.length-1]:document.location)+'" type="text/javascript"></scr'+'ipt>');
+</script><script src="https://ljb.advertserve.com/servlet/view/pagepeel/javascript/zone?zid=95&amp;pid=2&amp;resolution=1366x768&amp;random=30444744&amp;millis=1580472263585&amp;referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20181005220312id_%2Fhttps%253A%2F%2Fwww.altenergymag.com%2Fprivacy.php" type="text/javascript"></script>
+<!-- END ADVERTSERVE CODE BLOCK --></div>
             </div>
         </div>
         <header class="site-header" itemscope="itemscope" role="banner">
             <div class="wrap">
                 <div class="title-area">
-                    <div class="site-title" itemprop="headline"><a title="AltEnergyMag" href="http://www.altenergymag.com"><img src="/images/site-logo.png" alt="AltEnergyMag logo"></a></div>
+                    <div class="site-title" itemprop="headline"><a title="AltEnergyMag" href="https://www.altenergymag.com"><img src="/images/site-logo.png" alt="AltEnergyMag logo"></a></div>
                     <div class="site-description" itemprop="description"><p>Online Trade Magazine<br>Alternative Energy from Solar, Wind, Biomass, <br>Fuel Cells and more…</p></div>
                 </div>
                 <aside class="header-tools-area">
@@ -208,10 +208,7 @@ document.write('<scr'+'ipt src="http://ljb.advertserve.com/servlet/view/pagepeel
                                                   <label for="userpassword">Password</label><br>
                                                   <input type="password" name="userpassword" id="userpassword" value="" autocomplete="off">
                                                 </div>
-                                                <div class="fieldgroup one-half first">
-                                                  <input type="checkbox" class="checkbox" name="remembermeoption" id="autologinoption"> <label for="autologinoption">Auto Login</label><br>
-                                                </div>
-                                                <div class="fieldgroup one-half">
+                                                <div class="fieldgroup">
                                                   <input name="LogIn" type="submit" class="button" id="LogIn" value="Login">
                                                 </div>
                                                 <p class="clear"></p>
@@ -240,13 +237,13 @@ document.write('<scr'+'ipt src="http://ljb.advertserve.com/servlet/view/pagepeel
                                             <div class="fieldgroup">
                                                 <label for="q" id="nav_searchlabel" class="nav_searchlabel">Enter  Keywords</label><br>
                                                 <span class="details">(separate each word with a space)</span><br>
-                                                <input id="nav_searchfield" type="text" name="q" value="">
+                                                <input id="nav_searchfield" type="text" name="all" value="">
                                             </div>
                                                                                         
                                             <!-- Search Form Conditional -->
                                             <p class="description"><strong>Limit search to:</strong></p>
-                                            <div class="one-half first"><input type="radio" name="operation" value="g" checked="checked"> <span class="description">Entire Site</span></div>
-                                            <div class="one-half"><input type="radio" name="operation" value="a"> <span class="description">Articles</span></div>
+                                            <div class="one-half first"><input type="radio" name="operation" value="g"> <span class="description">Entire Site</span></div>
+                                            <div class="one-half"><input type="radio" name="operation" value="a" checked="checked"> <span class="description">Articles</span></div>
                                             <div class="one-half first"><input type="radio" name="operation" value="n"> <span class="description">News</span></div>
                                             <div class="one-half"><input type="radio" name="operation" value="c"> <span class="description">Companies</span></div>
                                             <div class="clear"></div>
@@ -260,7 +257,7 @@ document.write('<scr'+'ipt src="http://ljb.advertserve.com/servlet/view/pagepeel
                                             
                                             <!-- News Hidden Fields -->
                                             <div id="nav-hidden" class="postfields">
-                                                <input type="hidden" value="n" name="type">
+                                                <input type="hidden" value="a" name="type">
                                             </div>
                                             <div class="one-half first"><p><input type="submit" value="Search" alt="Search" name="search"></p></div>
                                             <div class="one-half"><p class="entry-meta"><strong><a href="/search.php">Advanced Search</a></strong></p></div>                                            
@@ -277,7 +274,7 @@ document.write('<scr'+'ipt src="http://ljb.advertserve.com/servlet/view/pagepeel
                         <div class="addthis_toolbox addthis_20x20_style addthis_default_style">
                             <a class="addthis_button_facebook_follow" addthis:userid="pages/AltEnergyMagcom/189739407723792"></a>
                             <a class="addthis_button_twitter_follow" addthis:userid="AltEnergyMag"></a>
-                            <a class="addthis_button_linkedin_follow" addthis:usertype="group" addthis:userid="4915864"></a>
+                            <a class="addthis_button_linkedin_follow" addthis:usertype="company" addthis:userid="altenergymag-com"></a>
                             <a class="addthis_button_google_follow" addthis:userid="u/0/b/101475373732115390733/101475373732115390733/posts"></a>
                             <a class="addthis_button_email_follow" addthis:url="/subscribe.php"></a>
                             <a class="addthis_button_rss_follow" addthis:url="/subscribe.php"></a>
@@ -288,15 +285,15 @@ document.write('<scr'+'ipt src="http://ljb.advertserve.com/servlet/view/pagepeel
                 </aside>
             </div>
         </header>
-        <nav class="nav-primary" itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" role="navigation">
+        <nav class="nav-primary" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope" role="navigation">
             <div class="wrap">
                 <ul id="menu-primary-navigation-menu" class="menu nav-menu menu-primary">
 
                     <li class="menu-item"><a href="/">Home</a></li>
                     
                                                                         <li class="menu-item"><a href="/main/solar-wind">Solar &amp; Wind</a></li>
-                                                    <li class="menu-item"><a href="/main/geothermal-bio">Biomass &amp; Geothermal</a></li>
-                                                    <li class="menu-item"><a href="/main/energy-storage">Energy Storage &amp; Distribution</a></li>
+                                                    <li class="menu-item"><a href="/main/evs-fuelcells">EVs and Fuel Cells</a></li>
+                                                    <li class="menu-item"><a href="/main/energy-storage">Energy Storage &amp; Grids</a></li>
                                                     <li class="menu-item"><a href="/main/other-energy-topics">Other Energy Topics</a></li>
                                                                 
                     <li class="menu-item"><a href="/site_services.php">Site Services</a></li>
@@ -308,18 +305,18 @@ document.write('<scr'+'ipt src="http://ljb.advertserve.com/servlet/view/pagepeel
             <div class="content-sidebar-wrap">
                 
                 <main class="content" itemprop="mainContentOfPage" role="main">
-                    <article class="page" itemtype="http://schema.org/CreativeWork" itemscope="itemscope">        
+                    <article class="page" itemtype="//schema.org/CreativeWork" itemscope="itemscope">        
                         
 <!--***************************************************************-->
 <!--BEGIN EDITABLE CONTENT - DO NOT EDIT ABOVE THIS LINE-->
 <!--***************************************************************-->
                         
-                        <header class="page-header"><h1 class="page-title" itemprop="headline">Privacy and Refund Policy - LJB Management Inc.</h1></header>
+                        <header class="page-header"><h1 class="page-title" itemprop="headline">Privacy Policy - BTH Management</h1></header>
                         
                         
                         <div class="page-content" itemprop="text">
 
-                            <p>The following privacy statement and refund policy applies to LJB Management Inc. and all of  its subsidiaries and affiliates, including HomeToys.com, AltEnergyMag.com and AltEnergyMag.com. </p>
+                            <p>The following privacy statement applies to BTH Management and all of its subsidiaries and affiliates. </p>
                             <ul>
                               <li><a href="#personal">Personal Information</a></li>
                               <li><a href="#thirdparty">Third Parties</a></li>
@@ -327,31 +324,28 @@ document.write('<scr'+'ipt src="http://ljb.advertserve.com/servlet/view/pagepeel
                               <li><a href="#cookies">Cookies</a></li>
                               <li><a href="#updatelist">Update List</a></li>
                               <li><a href="#miscforms">Miscellaneous Forms</a></li>
-                              <li><a href="#infoservice">Information Service</a></li>
                               <li><a href="#changingdata">Removing or Changing Data</a></li>
                               <li><a href="#consent"> Consent to this Privacy Policy </a></li>
                               <li><a href="#refunds">Refund Policy - Non Qualifying Paid Listings</a> </li>
                             </ul>
                             <h4><a name="personal" id="personal"></a>Personal Information</h4>
-                            <p>This  policy applies to all information submitted on this website. You may be  asked to provide personal information so that you can register to  receive information, receive catalogs, or order products. Your  participation is voluntary and we will not require you to provide more  information than is necessary to participate in any of our website's  activities. In some instances, we may ask you questions on an aggregate  basis (we don't identify you personally with the information) and such  questions will be identified on the website. In all other instances,  you should assume that we will track any information you provide on a  personally identifiable basis.</p>
+                            <p>This policy applies to all information submitted on this website. You may be asked to provide personal information so that you can register a company, receive newsletters and updates, or submit press releases. Your  participation is voluntary and we will not require you to provide more  information than is necessary to participate in any of our website's  activities. In some instances, we may ask you questions on an aggregate  basis (we don't identify you personally with the information) and such  questions will be identified on the website. In all other instances,  you should assume that we will track any information you provide on a  personally identifiable basis.</p>
                             <h4><a name="thirdparty" id="thirdparty"></a>Third Parties</h4>
-                            <p>LJB Management, Inc. may share aggregate,  non-personally identifiable information about our users with  advertisers, business partners, sponsors, and other third parties. We  do not provide any identifiable personal information to any third party  for any purpose whatsoever. For example, we may tell an advertising  partner the number of catalog requests we receive from their  publication, but we do not disclose anything that could be used to  identify those individuals. Access by our employees and agents to your  Personal Information is only on a need to know basis on the  understanding that this is confidential business information.</p>
+                            <p>BTH Management may share aggregate,  non-personally identifiable information about our users with  advertisers, business partners, sponsors, and other third parties. We  do not provide any identifiable personal information to any third party  for any purpose whatsoever. For example, we may tell an advertising  partner the number of catalog requests we receive from their  publication, but we do not disclose anything that could be used to  identify those individuals. Access by our employees and agents to your  Personal Information is only on a need to know basis on the  understanding that this is confidential business information.</p>
                             <p>Our  intention is never to use or share personally identifiable information  provided to us in ways that are different than the ways described above  without also providing you with an opportunity to "unsubscribe" or  prohibit such unrelated uses.</p>
                             <h4><a name="logfiles" id="logfiles"></a>Log Files</h4>
                             <p>IP  addresses are gathered in the log files as with any standard Unix  server. We use the log files to help diagnose problems with our server  and to administer the Web site. </p>
                             <h4><a name="cookies" id="cookies"></a>Cookies </h4>
-                            <p>Cookies  are files or pieces of information that may be stored in your  computer's hard drive when you visit a website. We use cookies to  better tailor our site and our products to your interests and needs.  Cookies may also be used to help speed up your future activities or to  improve your user experience by remembering the information that you  have already provided to us. We do not use cookies to retrieve  information from your computer that was not voluntarily provided by you  (i.e., during membership registration or a catalog request). The use of  cookies is an industry standard and you will find them at most  websites. Most browsers are initially set to accept cookies. If you  would prefer, you can set your browser to refuse cookies or to alert  you when cookies are being sent so that you can flush them from your  browser if you object to their presence.</p>
+                            <p>Cookies  are files or pieces of information that may be stored in your  computer's hard drive when you visit a website. We use cookies to  better tailor our site and our products to your interests and needs.  Cookies may also be used to help speed up your future activities or to  improve your user experience by remembering the information that you  have already provided to us. We do not use cookies to retrieve  information from your computer that was not voluntarily provided by you  (i.e., during company registration or newsletter signup). The use of  cookies is an industry standard and you will find them at most  websites. Most browsers are initially set to accept cookies. If you  would prefer, you can set your browser to refuse cookies or to alert  you when cookies are being sent so that you can flush them from your  browser if you object to their presence.</p>
                             <p>Please note that you may not Log In to view restricted information unless your browser is set to accept cookies.</p>
                             <h4><a name="updatelist" id="updatelist"></a>Update List </h4>
                             <p>Our  subscription form requests users to give us their Name, Email address  and some general demographic information. This information is not  available to the public or any 3rd party. Monthly updates are sent by  email to each subscriber. There may be additional email updates from  time to time if the news is deemed to be important to the subscribers.</p>
                             <h4><a name="miscforms" id="miscforms"></a>Miscellaneous Forms  (Directory, Links, Software etc.)</h4>
-                            <p>Various  forms request names, addresses etc. The information gathered is used to  provide the services requested by the form. This information is not  available to the public or any 3rd party.</p>
-                            <h4><a name="infoservice" id="infoservice"></a>Information Service</h4>
-                            <p>In  the case of the Information Service ... the gathered data is forwarded  to the companies from whom the reader has requested information. These  companies may use that information as they see fit. LJB Management only  provides the data to the companies that the reader requested the  information from and it is not available to the public or any other 3rd  party. </p>
+                            <p>Various  forms request names, addresses etc. The information gathered is used to  provide the services requested by the form. This information is not  available to the public or any 3rd party.</p>                            
                             <h4><a name="changingdata" id="changingdata"></a>Removing or Changing Data </h4>
-                            <p>Readers may remove or change their information in our databases by        requesting same. Email requests should be sent to <a href="mailto:bobh@ljbmanagement.com">bobh@ljbmanagement.com</a></p>
+                            <p>Readers may remove or change their information in our databases by        requesting same. Email requests should be sent to <a href="mailto:brandon@bthmgmt.com">brandon@bthmgmt.com</a></p>
                             <h4><a name="consent" id="consent"></a>Your Consent to this Privacy Policy </h4>
-                            <p>By  using this website, you signify your assent to the LJB  Management, Inc. Company Privacy Policy. If you do not agree with any  term in this Policy, please do not use this site or submit any  personally identifiable information.</p>
+                            <p>By  using this website, you signify your assent to the BTH Management Company Privacy Policy. If you do not agree with any  term in this Policy, please do not use this site or submit any  personally identifiable information.</p>
                             <h4><a name="refunds" id="refunds"></a>Refunds for Non-Qualifying Paid Listings</h4>
                               <p>Inappropriate  or non site related paid listings will not be activated at the  discretion of the editor. You will be notified by email of a  disqualified listing within 48 hours and have the option of  resubmitting a new listing or receiving a refund.</p>
                             
@@ -366,7 +360,7 @@ document.write('<scr'+'ipt src="http://ljb.advertserve.com/servlet/view/pagepeel
                     </article>
                 </main>
             
-                                <aside class="sidebar sidebar-primary" itemtype="http://schema.org/WPSideBar" itemscope="itemscope" role="complementary">
+                                <aside class="sidebar sidebar-primary" itemtype="//schema.org/WPSideBar" itemscope="itemscope" role="complementary">
                     
                     
                                         
@@ -386,8 +380,8 @@ Zone #99: AE 300x250 Sponsor
 Size #8: Medium Rectangle [300x250]
 -->
 <script type="text/javascript">
-document.write('<scr'+'ipt src="http://ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=99&pid=2&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+encodeURIComponent(document.location)+'" type="text/javascript"></scr'+'ipt>');
-</script><script src="http://ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=99&amp;pid=2&amp;random=92630209&amp;millis=1580472260331&amp;referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170629052147id_%2Fhttp%253A%2F%2Fwww.altenergymag.com%2Fprivacy.php" type="text/javascript"></script>
+document.write('<scr'+'ipt src="//ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=99&pid=2&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+encodeURIComponent(document.location)+'" type="text/javascript"></scr'+'ipt>');
+</script><script src="//ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=99&amp;pid=2&amp;random=84722106&amp;millis=1580472263596&amp;referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20181005220312id_%2Fhttps%253A%2F%2Fwww.altenergymag.com%2Fprivacy.php" type="text/javascript"></script>
 <!-- END ADVERTSERVE CODE BLOCK --></div>
 								
 								<div class="bannerad"><!-- BEGIN ADVERTPRO CODE BLOCK -->
@@ -403,9 +397,9 @@ document.write('<scr'+'ipt src="http://ljb.advertserve.com/servlet/view/banner/j
 
 <script language="JavaScript" type="text/javascript">
 <!--
-document.write('<SCR'+'IPT src="http://ljb.advertserve.com/servlet/view/text/javascript/zone?zid=33&pid=2&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
+document.write('<SCR'+'IPT src="//ljb.advertserve.com/servlet/view/text/javascript/zone?zid=33&pid=2&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
 //-->
-</script><script src="http://ljb.advertserve.com/servlet/view/text/javascript/zone?zid=33&amp;pid=2&amp;random=13263522&amp;millis=1580472260349&amp;referrer=https%3A//web.archive.org/web/20170629052147id_/http%253A//www.altenergymag.com/privacy.php" language="JavaScript" type="text/javascript"></script>
+</script><script src="//ljb.advertserve.com/servlet/view/text/javascript/zone?zid=33&amp;pid=2&amp;random=58462912&amp;millis=1580472263597&amp;referrer=https%3A//web.archive.org/web/20181005220312id_/https%253A//www.altenergymag.com/privacy.php" language="JavaScript" type="text/javascript"></script>
 
 <!-- END ADVERTPRO CODE BLOCK --></div>
 								
@@ -422,12 +416,12 @@ document.write('<SCR'+'IPT src="http://ljb.advertserve.com/servlet/view/text/jav
 
 <script language="JavaScript" type="text/javascript">
 <!--
-document.write('<SCR'+'IPT src="http://ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=28&pid=2&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
+document.write('<SCR'+'IPT src="//ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=28&pid=2&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
 //-->
-</script><script src="http://ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=28&amp;pid=2&amp;random=39561373&amp;millis=1580472260358&amp;referrer=https%3A//web.archive.org/web/20170629052147id_/http%253A//www.altenergymag.com/privacy.php" language="JavaScript" type="text/javascript"></script>
+</script><script src="//ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=28&amp;pid=2&amp;random=45779950&amp;millis=1580472263598&amp;referrer=https%3A//web.archive.org/web/20181005220312id_/https%253A//www.altenergymag.com/privacy.php" language="JavaScript" type="text/javascript"></script>
 <noscript>
 <A href="http://ljb.advertserve.com/servlet/click/zone?zid=28&pid=2&lookup=true&position=1" target="_top">
-<IMG src="http://ljb.advertserve.com/servlet/view/banner/image/zone?zid=28&pid=2&position=1" height="125" width="125" hspace="0" vspace="0" border="0" alt="Click Here!">
+<IMG src="//ljb.advertserve.com/servlet/view/banner/image/zone?zid=28&pid=2&position=1" height="125" width="125" hspace="0" vspace="0" border="0" alt="Click Here!">
 </A>
 </noscript>
 
@@ -446,12 +440,12 @@ document.write('<SCR'+'IPT src="http://ljb.advertserve.com/servlet/view/banner/j
 
 <script language="JavaScript" type="text/javascript">
 <!--
-document.write('<SCR'+'IPT src="http://ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=28&pid=2&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
+document.write('<SCR'+'IPT src="//ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=28&pid=2&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
 //-->
-</script><script src="http://ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=28&amp;pid=2&amp;random=40435346&amp;millis=1580472260364&amp;referrer=https%3A//web.archive.org/web/20170629052147id_/http%253A//www.altenergymag.com/privacy.php" language="JavaScript" type="text/javascript"></script>
+</script><script src="//ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=28&amp;pid=2&amp;random=20056564&amp;millis=1580472263599&amp;referrer=https%3A//web.archive.org/web/20181005220312id_/https%253A//www.altenergymag.com/privacy.php" language="JavaScript" type="text/javascript"></script>
 <noscript>
 <A href="http://ljb.advertserve.com/servlet/click/zone?zid=28&pid=2&lookup=true&position=1" target="_top">
-<IMG src="http://ljb.advertserve.com/servlet/view/banner/image/zone?zid=28&pid=2&position=1" height="125" width="125" hspace="0" vspace="0" border="0" alt="Click Here!">
+<IMG src="//ljb.advertserve.com/servlet/view/banner/image/zone?zid=28&pid=2&position=1" height="125" width="125" hspace="0" vspace="0" border="0" alt="Click Here!">
 </A>
 </noscript>
 
@@ -470,9 +464,9 @@ document.write('<SCR'+'IPT src="http://ljb.advertserve.com/servlet/view/banner/j
 
 <script language="JavaScript" type="text/javascript">
 <!--
-document.write('<SCR'+'IPT src="http://ljb.advertserve.com/servlet/view/text/javascript/zone?zid=33&pid=2&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
+document.write('<SCR'+'IPT src="//ljb.advertserve.com/servlet/view/text/javascript/zone?zid=33&pid=2&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
 //-->
-</script><script src="http://ljb.advertserve.com/servlet/view/text/javascript/zone?zid=33&amp;pid=2&amp;random=51309091&amp;millis=1580472260373&amp;referrer=https%3A//web.archive.org/web/20170629052147id_/http%253A//www.altenergymag.com/privacy.php" language="JavaScript" type="text/javascript"></script>
+</script><script src="//ljb.advertserve.com/servlet/view/text/javascript/zone?zid=33&amp;pid=2&amp;random=77336183&amp;millis=1580472263601&amp;referrer=https%3A//web.archive.org/web/20181005220312id_/https%253A//www.altenergymag.com/privacy.php" language="JavaScript" type="text/javascript"></script>
 
 <!-- END ADVERTPRO CODE BLOCK --></div>
 								
@@ -483,23 +477,17 @@ Zone #99: AE 300x250 Sponsor
 Size #8: Medium Rectangle [300x250]
 -->
 <script type="text/javascript">
-document.write('<scr'+'ipt src="http://ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=99&pid=2&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+encodeURIComponent(document.location)+'" type="text/javascript"></scr'+'ipt>');
-</script><script src="http://ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=99&amp;pid=2&amp;random=31794867&amp;millis=1580472260379&amp;referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170629052147id_%2Fhttp%253A%2F%2Fwww.altenergymag.com%2Fprivacy.php" type="text/javascript"></script>
+document.write('<scr'+'ipt src="//ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=99&pid=2&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+encodeURIComponent(document.location)+'" type="text/javascript"></scr'+'ipt>');
+</script><script src="//ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=99&amp;pid=2&amp;random=19441166&amp;millis=1580472263602&amp;referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20181005220312id_%2Fhttps%253A%2F%2Fwww.altenergymag.com%2Fprivacy.php" type="text/javascript"></script>
 <!-- END ADVERTSERVE CODE BLOCK --></div>
+								
+								<div class="bannerad"><a href="https://visitor.r20.constantcontact.com/d.jsp?llr=s9wzelzab&amp;p=oi&amp;m=1126729309010&amp;sit=br6cuoelb&amp;f=8b32144a-55f0-447e-9976-c46235d44213" target="_blank"><img src="/images/site icons/Newsletter_Button.jpg" alt="Newsletters"></a><a href="/whitepapers.php"><img src="/images/site icons/WhitePapers_Button.jpg" alt="White Papers"></a></div>
+
+								<div class="bannerad"><a href="/events.php"><img src="/images/site icons/EventsCalendar_Button.jpg" alt="Events"></a><a href="/stream/news/"><img src="/images/site icons/News_Button.jpg" alt="News"></a></div>
                                 
                                  
-                            </div>
-                            
-                            <div class="panel-footer"><a href="/site_services.php">Promote Your Company</a></div>
-							<!-- BEGIN: Signup Form Button Code from Benchmark Email Ver 2.0 ------>
-
-<div class="panel-footer">
-<!-- BEGIN: Constant Contact Email List Form Button --><div align="center"><a href="https://visitor.r20.constantcontact.com/d.jsp?llr=s9wzelzab&amp;p=oi&amp;m=1126729309010&amp;sit=br6cuoelb&amp;f=8b32144a-55f0-447e-9976-c46235d44213" target="_blank" class="button" style="background-color: rgb(128, 128, 128); border: 1px solid rgb(91, 91, 91); color: rgb(255, 255, 255); display: inline-block; padding: 8px 10px; text-shadow: none; border-radius: 10px;">Newsletter</a></div>
-Join our bi-weekly newsletter list.</div>
-
-<!-- END: Signup Form Button Code from Benchmark Email Ver 2.0 ---------->
                         </div>
-                    </section>
+                    </div></section>
 
            
                     <!-- Most Popular Articles -->
@@ -508,28 +496,28 @@ Join our bi-weekly newsletter list.</div>
                                                         <h4 class="panel-title" itemprop="headline">Most Popular Articles</h4>
                             <div class="panel-content">
                                                                                                             <section class="entry">
-                                                                                            <p class="entry-title"><a href="/article/2017/06/energy-storage-and-renewables-beyond-wind-hydro-solar-make-up-4-of-us-power-capacity/26430">Energy storage and renewables beyond wind, hydro, solar make up 4% of U.S. power capacity</a></p>
-                                                                                        <div class="entry-meta">06/05/17 | <a href="/category/energy-storage">Energy Storage &amp; Distribution</a></div>
+                                                                                            <p class="entry-title"><a href="/article/2018/09/are-sulfur-flow-batteries-the-answer/29441">Are Sulfur Flow Batteries the Answer?</a></p>
+                                                                                        <div class="entry-meta">09/21/18 | <a href="/category/energy-storage">Energy Storage &amp; Grids</a></div>
                                         </section>
                                                                             <section class="entry">
-                                                                                            <p class="entry-title"><a href="/article/2017/06/clean-technology-incubator-program-expands-focus-beyond-commercial-buildings/26481">Clean-technology Incubator Program Expands Focus Beyond Commercial Buildings</a></p>
-                                                                                        <div class="entry-meta">06/09/17 | <a href="/category/other-energy-topics">Other Energy Topics</a></div>
+                                                                                            <p class="entry-title"><a href="/article/2018/09/the-race-for-battery-manufacturing-capacity-ultra-fast-charging-potential/29414">The Race for Battery Manufacturing Capacity: Ultra-Fast Charging Potential</a></p>
+                                                                                        <div class="entry-meta">09/19/18 | <a href="/category/energy-storage">Energy Storage &amp; Grids</a></div>
                                         </section>
                                                                             <section class="entry">
-                                                                                            <p class="entry-title"><a href="/article/2017/06/why-design-matters-for-solar-om/26531">Why Design Matters for Solar O&amp;M</a></p>
-                                                                                        <div class="entry-meta">06/15/17 | <a href="/category/solar-wind">Solar &amp; Wind</a></div>
+                                                                                            <p class="entry-title"><a href="/article/2018/09/solar--storage-solutions/29460">Solar + Storage Solutions</a></p>
+                                                                                        <div class="entry-meta">09/24/18 | <a href="/category/energy-storage">Energy Storage &amp; Grids</a></div>
                                         </section>
                                                                             <section class="entry">
-                                                                                            <p class="entry-title"><a href="/article/2017/06/3-ways-to-prevent-a-solavalanche/26530">3 Ways to Prevent a Solavalanche</a></p>
-                                                                                        <div class="entry-meta">06/15/17 | <a href="/category/solar-wind">Solar &amp; Wind</a></div>
+                                                                                            <p class="entry-title"><a href="/article/2018/09/case-study-increasing-solar-inspection-efficiency-with-drones/29442">Case Study: Increasing Solar Inspection Efficiency with Drones</a></p>
+                                                                                        <div class="entry-meta">09/21/18 | <a href="/category/solar-wind">Solar &amp; Wind</a></div>
                                         </section>
                                                                             <section class="entry">
-                                                                                            <p class="entry-title"><a href="/article/2017/06/global-wind-and-solar-costs-to-fall-even-faster-while-coal-fades-even-in-china-and-india/26565">Global Wind And Solar Costs To Fall Even Faster, While Coal Fades Even In China And India</a></p>
-                                                                                        <div class="entry-meta">06/20/17 | <a href="/category/solar-wind">Solar &amp; Wind</a></div>
+                                                                                            <p class="entry-title"><a href="/article/2018/09/interview-with-kathy-nelson-director-technical-product-marketing--industry-relations-ondas-networks/29496">Interview with Kathy Nelson, Director, Technical Product Marketing &amp; Industry Relations, Ondas Networks</a></p>
+                                                                                        <div class="entry-meta">09/26/18 | <a href="/category/energy-storage">Energy Storage &amp; Grids</a></div>
                                         </section>
                                                                                                 </div>
                             <div class="panel-footer"><a href="/stream/articles/">Articles &amp; Stories</a> | <a href="/stream/news/">News</a></div>
-                            <!--2017-06-28 22:19:22-->
+                            <!--2018-10-05 15:02:53-->
                             <!-- cached -->
                         </div>
                     </section>
@@ -540,28 +528,28 @@ Join our bi-weekly newsletter list.</div>
                                                         <h4 class="panel-title" itemprop="headline">Events and Conferences</h4>
                             <div class="panel-content">
                                                                                                             <section class="entry">
-                                            <p class="entry-title"><a href="https://www.greentechmedia.com/events/live/grid-edge-world-forum-2017" target="_blank">Grid Edge World Forum</a></p>
-                                            <div class="entry-meta">Jun 27 | 29 2017, San Jose, CA</div>
+                                            <p class="entry-title"><a href="https://infocastinc.com/event/storage-east/?utm_source=altenergymag&amp;utm_medium=event_listing&amp;utm_campaign=media_partner" target="_blank">Storage East</a></p>
+                                            <div class="entry-meta">Oct 16 | 17 2018, Washington, DC</div>
                                         </section>
                                                                             <section class="entry">
-                                            <p class="entry-title"><a href="http://www.intersolar.us" target="_blank">Intersolar North America 2017</a></p>
-                                            <div class="entry-meta">Jul 10 | 13 2017, San Francisco, CA </div>
+                                            <p class="entry-title"><a href="http://www.chinawind.org.cn/ " target="_blank">China Windpower 2018</a></p>
+                                            <div class="entry-meta">Oct 17 | 19 2018, Beijing, China</div>
                                         </section>
                                                                             <section class="entry">
-                                            <p class="entry-title"><a href="http://www.ees-northamerica.com/en/home.html" target="_blank">EES NORTH AMERICA - THE INTERNATIONAL EXHIBITION FOR BATTERIES AND ENERGY STORAGE SYSTEMS</a></p>
-                                            <div class="entry-meta">Jul 10 | 13 2017, San Francisco, CA </div>
+                                            <p class="entry-title"><a href="http://www.njgallivan.com/auction/342241/vertical-hydroponic-growing-equipment-online-auction/?utm_source=AT&amp;utm_medium=ROS&amp;utm_campaign=Green" target="_blank">VERTICAL HYDROPONIC GROWING EQUIPMENT ONLINE AUCTION</a></p>
+                                            <div class="entry-meta">Oct 17 | 23 2018, Online Auction, Assets Located at 6525 Daniel Burham Dr., Ste. B, Portage, IN 46368</div>
                                         </section>
                                                                             <section class="entry">
-                                            <p class="entry-title"><a href="http://www.powergenafrica.com" target="_blank">POWER-GEN &amp; DistribuTECH Africa</a></p>
-                                            <div class="entry-meta">Jul 18 | 20 2017, Johannesburg, South Africa</div>
+                                            <p class="entry-title"><a href="http://windenergyevent.ca/canwea-2018" target="_blank">CanWEA Annual Conference &amp; Exhibition </a></p>
+                                            <div class="entry-meta">Oct 23 | 25 2018, Calgary, Alberta</div>
                                         </section>
                                                                             <section class="entry">
-                                            <p class="entry-title"><a href="http://www.esnaexpo.com/" target="_blank">Energy Storage North America</a></p>
-                                            <div class="entry-meta">Aug 08 | 10 2017, San Diego, CA</div>
+                                            <p class="entry-title"><a href="http://www.windaba.co.za/" target="_blank">WINDaba 2018</a></p>
+                                            <div class="entry-meta">Nov 06 | 07 2018, Cape Town, South Africa</div>
                                         </section>
                                                                                                 </div>
                             <div class="panel-footer"><a href="/events.php">More Events</a></div>
-                            <!--2017-06-28 22:18:28-->
+                            <!--2018-10-05 14:55:57-->
                             <!-- cached -->
                         </div>
                     </section>
@@ -586,7 +574,7 @@ Join our bi-weekly newsletter list.</div>
                                     <div class="addthis_toolbox addthis_32x32_style addthis_default_style">
                                         <a class="addthis_button_facebook_follow" addthis:userid="pages/AltEnergyMagcom/189739407723792"></a>
                                         <a class="addthis_button_twitter_follow" addthis:userid="AltEnergyMag"></a>
-                                        <a class="addthis_button_linkedin_follow" addthis:usertype="group" addthis:userid="4915864"></a>
+                                        <a class="addthis_button_linkedin_follow" addthis:usertype="company" addthis:userid="altenergymag-com"></a>
                                         <a class="addthis_button_google_follow" addthis:userid="u/0/b/101475373732115390733/101475373732115390733/posts"></a>
                                     </div>
                                     <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=bobh"></script>
@@ -607,30 +595,30 @@ Join our bi-weekly newsletter list.</div>
                                 <section class="entry">
                                                                         <p><strong>Home Technology</strong></p>
                                                                             <ul class="links">
-                                                                                                                                                <li><a href="http://www.hometoys.com/stream/stories/#36942" target="_blank">Is Sonos Still The King Of Wireless Home Audio?</a></li>
-                                                                                                                                                                                                <li><a href="http://www.hometoys.com/stream/stories/#36933" target="_blank">Does ‘Smart Home’ Make Best Buy a Smart Pick?</a></li>
-                                                                                                                                                                                                <li><a href="http://www.hometoys.com/stream/stories/#36925" target="_blank">Amazon is trying to strengthen its position against competing smart home products</a></li>
+                                                                                                                                                <li><a href="http://www.hometoys.com/article/2018/10/are-smart-homes-vulnerable-to-malware/38813" target="_blank">Are Smart Homes Vulnerable to Malware?</a></li>
+                                                                                                                                                                                                <li><a href="http://www.hometoys.com/stream/stories/#38808" target="_blank">Country Home Receives ELAN Home Automation Upgrade After Natural Disaster Strikes</a></li>
+                                                                                                                                                                                                <li><a href="http://www.hometoys.com/stream/stories/#38798" target="_blank">CEDIA Expo 2018 Leads Industry Growth for the Future of Intelligently Connected Technology and its Integrators</a></li>
                                                                                                                                     </ul>
-                                                                        <!--2017-06-28 22:11:32-->
+                                                                        <!--2018-10-05 14:55:30-->
                                     <!-- cached -->
                                 </section>
                                 <section class="entry">
                                                                         <p><strong>Robotics &amp; Automation</strong></p>
                                                                             <ul class="links">
-                                                                                                                                                <li><a href="http://www.roboticstomorrow.com/stream/stories/#10265" target="_blank">Deepest Underwater Consumer Drone from Blueye Robotics Reveals Ocean Depths Previously Unseen by Non-Scientists</a></li>
-                                                                                                                                                                                                <li><a href="http://www.roboticstomorrow.com/stream/stories/#10252" target="_blank">Robotics Software Could Be a $140B Opportunity</a></li>
-                                                                                                                                                                                                <li><a href="http://www.roboticstomorrow.com/stream/stories/#10249" target="_blank">UK Robotics Week to demonstrate the nation's world-leading robotics and AI research</a></li>
+                                                                                                                                                <li><a href="http://www.roboticstomorrow.com/stream/stories/#12620" target="_blank">Pioneering creator of collaborative ‘cobots’ Rethink Robotics shuts down</a></li>
+                                                                                                                                                                                                <li><a href="http://www.roboticstomorrow.com/article/2018/10/from-robot-farm-to-table-iron-ox-unveils-the-first-fully-autonomous-indoor-farm/12614" target="_blank">From Robot Farm to Table: Iron Ox Unveils the First Fully Autonomous Indoor Farm</a></li>
+                                                                                                                                                                                                <li><a href="http://www.roboticstomorrow.com/article/2018/10/talking-pack-expo-with-ati/12608" target="_blank">Talking PACK EXPO with ATI</a></li>
                                                                                                                                     </ul>
-                                                                        <!--2017-06-28 22:15:01-->
+                                                                        <!--2018-10-05 15:00:58-->
                                     <!-- cached -->
                                 </section>
                                                                     <p><strong>Manufacturing &amp; Automation</strong></p>
                                                                     <ul class="links">
-                                                                                                                                    <li><a href="http://www.manufacturingtomorrow.com/stream/stories/#9924" target="_blank">Computer scientists design flat sheets that transform themselves into smooth-surfaced, free-form objects</a></li>
-                                                                                                                                                                                <li><a href="http://www.manufacturingtomorrow.com/stream/stories/#9916" target="_blank">Volkswagen Taps Ultimaker for Customized Tool Production</a></li>
-                                                                                                                                                                                <li><a href="http://www.manufacturingtomorrow.com/stream/stories/#9913" target="_blank">Pragmatism Pervades Smart Factory Floor</a></li>
+                                                                                                                                    <li><a href="http://www.manufacturingtomorrow.com/stream/stories/#12302" target="_blank">Pioneering creator of collaborative ‘cobots’ Rethink Robotics shuts down</a></li>
+                                                                                                                                                                                <li><a href="http://www.manufacturingtomorrow.com/article/2018/10/talking-pack-expo-with-dorner/12300" target="_blank">Talking PACK EXPO with Dorner</a></li>
+                                                                                                                                                                                <li><a href="http://www.manufacturingtomorrow.com/article/2018/10/the-role-of-sensors-in-industry-40/12293" target="_blank">The Role of Sensors in Industry 4.0</a></li>
                                                                                                                         </ul>
-                                                                    <!--2017-06-28 22:19:22-->
+                                                                    <!--2018-10-05 14:57:41-->
                                     <!-- cached -->
                             </div>
                             <div class="panel-footer"><a href="http://www.manufacturingtomorrow.com">ManufacturingTomorrow</a> | <a href="http://www.hometoys.com">HomeToys</a><br>
@@ -642,77 +630,9 @@ Join our bi-weekly newsletter list.</div>
             </div>
         </div>
 
-    <div id="box_preview" style="position: fixed; z-index: 9999; top: 125px; left: 0px;">
-        <div id="preview_scroll">
-
-            <!-- close button --> 
-            <div class="box_info aligncenter"> 
-                <h6>To continue without subscribing, click the Close button or hit the ESC key.</h6> 
-                <button class="close" type="button">Close Window</button> 
-            </div> <!--end box_info-->
-
-            <h3 class="aligncenter">Please Take a Moment to Subscribe to our Newsletter</h3>
-
-       <!--Begin CTCT Sign-Up Form-->
-    <!-- EFD 1.0.0 [Thu Jan 19 18:04:15 EST 2017] -->
-    <link rel="stylesheet" type="text/css" href="https://static.ctctcdn.com/h/contacts-embedded-signup-assets/1.0.2/css/signup-form.css">
-    <div class="ctct-embed-signup" style="font: 16px Helvetica Neue, Arial, sans-serif; font: 1rem Helvetica Neue, Arial, sans-serif; line-height: 1.5; -webkit-font-smoothing: antialiased;">
-       <div style="color:#5b5b5b; background-color:#e8e8e8; border-radius:5px;">
-           <span id="success_message" style="display:none;">
-               <div style="text-align:center;">Thanks for signing up!</div>
-           </span>
-           <form data-id="embedded_signup:form" class="ctct-custom-form Form" name="embedded_signup" method="POST" action="https://visitor2.constantcontact.com/api/signup">
-               <h2 style="margin:0;">Subscribe to our Newsletters</h2>
-               <p>Sign up to get interesting news and updates delivered to your inbox.</p>
-               <!-- The following code must be included to ensure your sign-up form works properly. -->
-               <input data-id="ca:input" type="hidden" name="ca" value="db92c37d-4d5e-41cd-839b-561024331f04">
-               <input data-id="list:input" type="hidden" name="list" value="1792451359">
-               <input data-id="source:input" type="hidden" name="source" value="EFD">
-               <input data-id="required:input" type="hidden" name="required" value="list,email">
-               <input data-id="url:input" type="hidden" name="url" value="">
-               <p data-id="Email Address:p"><label data-id="Email Address:label" data-name="email" class="ctct-form-required">Email Address</label> <input data-id="Email Address:input" type="text" name="email" value="" maxlength="80"></p>
-               <p data-id="First Name:p"><label data-id="First Name:label" data-name="first_name">First Name</label> <input data-id="First Name:input" type="text" name="first_name" value="" maxlength="50"></p>
-               <p data-id="Last Name:p"><label data-id="Last Name:label" data-name="last_name">Last Name</label> <input data-id="Last Name:input" type="text" name="last_name" value="" maxlength="50"></p>
-               <p data-id="Company:p"><label data-id="Company:label" data-name="company">Company</label> <input data-id="Company:input" type="text" name="company" value="" maxlength="50"></p>
-               <button type="submit" class="Button ctct-button Button--block Button-secondary" data-enabled="enabled">Sign Up</button>
-            <div><p class="ctct-form-footer">By submitting this form, you are granting: LJB Management, PO Box 90125, San Diego, California, 92169, United States,  permission to email you. You may unsubscribe via the link found at the bottom of every email.  (See our <a href="http://www.constantcontact.com/legal/privacy-statement" target="_blank">Email Privacy Policy</a> for details.) Emails are serviced by Constant Contact.</p></div>
-           </form>
-       </div>
-    </div>
-    
-    <script type="text/javascript">
-       var localizedErrMap = {};
-       localizedErrMap['required'] = 		'This field is required.';
-       localizedErrMap['ca'] = 			'An unexpected error occurred while attempting to send email.';
-       localizedErrMap['email'] = 			'Please enter your email address in name@email.com format.';
-       localizedErrMap['birthday'] = 		'Please enter birthday in MM/DD format.';
-       localizedErrMap['anniversary'] = 	'Please enter anniversary in MM/DD/YYYY format.';
-       localizedErrMap['custom_date'] = 	'Please enter this date in MM/DD/YYYY format.';
-       localizedErrMap['list'] = 			'Please select at least one email list.';
-       localizedErrMap['generic'] = 		'This field is invalid.';
-       localizedErrMap['shared'] = 		'Sorry, we could not complete your sign-up. Please contact us to resolve this.';
-       localizedErrMap['state_mismatch'] = 'Mismatched State/Province and Country.';
-        localizedErrMap['state_province'] = 'Select a state/province';
-       localizedErrMap['selectcountry'] = 	'Select a country';
-       var postURL = 'https://visitor2.constantcontact.com/api/signup';
-    </script>
-    <script type="text/javascript" src="https://static.ctctcdn.com/h/contacts-embedded-signup-assets/1.0.2/js/signup-form.js"></script>
-    <!--End CTCT Sign-Up Form-->
-     
-
-            <div class="clear"><!--Clear All Floats --></div>
-
-            <!-- close button --> 
-            <div class="box_info aligncenter"> 
-                <h6>To continue without subscribing, click the Close button or hit the ESC key.</h6> 
-                <button class="close" type="button">Close Window</button> 
-            </div> <!--end box_info-->
-
-        </div><!--end preview_scroll-->
-    </div><!--end box_preview-->
 
 
-        <div class="site-footer" itemtype="http://schema.org/WPFooter" itemscope="itemscope" role="contentinfo">
+        <div class="site-footer" itemtype="//schema.org/WPFooter" itemscope="itemscope" role="contentinfo">
             <div class="wrap">
                 <header class="footer-header"><h1 class="footer-title" itemprop="headline">More Alternative Energy Resources</h1></header>
                 
@@ -731,32 +651,12 @@ Join our bi-weekly newsletter list.</div>
 
 <script language="JavaScript" type="text/javascript">
 <!--
-document.write('<SCR'+'IPT src="http://ljb.advertserve.com/servlet/view/banner/unique/javascript/strip?zid=37&pid=2&total=5&layout=horizontal&margin=0&padding=30&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
+document.write('<SCR'+'IPT src="//ljb.advertserve.com/servlet/view/banner/unique/javascript/strip?zid=37&pid=2&total=5&layout=horizontal&margin=0&padding=30&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
 //-->
-</script><script src="http://ljb.advertserve.com/servlet/view/banner/unique/javascript/strip?zid=37&amp;pid=2&amp;total=5&amp;layout=horizontal&amp;margin=0&amp;padding=30&amp;random=78102337&amp;millis=1580472260577&amp;referrer=https%3A//web.archive.org/web/20170629052147id_/http%253A//www.altenergymag.com/privacy.php" language="JavaScript" type="text/javascript"></script>
+</script><script src="//ljb.advertserve.com/servlet/view/banner/unique/javascript/strip?zid=37&amp;pid=2&amp;total=5&amp;layout=horizontal&amp;margin=0&amp;padding=30&amp;random=21459504&amp;millis=1580472263622&amp;referrer=https%3A//web.archive.org/web/20181005220312id_/https%253A//www.altenergymag.com/privacy.php" language="JavaScript" type="text/javascript"></script>
 
 <!-- END ADVERTPRO CODE BLOCK --> </p>
                 </section>
-                <section class="aligncenter">
-                    <!-- BEGIN ADVERTPRO CODE BLOCK -->
-
-<!-- Publisher ID: 2 -->
-<!-- Publisher Name: AltEnergyMag -->
-<!-- Zone ID: 35 -->
-<!-- Zone Name: AltEmag Text Footer -->
-<!-- Size ID: 1 -->
-<!-- Size Name: N/A -->
-<!-- Size Width: -1 -->
-<!-- Size Height: -1 -->
-<!-- Display Multiple Ads: 6 ads with a grid_2 layout and 50 pixels of inner spacing between them. -->
-
-<script language="JavaScript" type="text/javascript">
-<!--
-document.write('<SCR'+'IPT src="http://ljb.advertserve.com/servlet/view/text/unique/javascript/grid?zid=35&pid=2&total=6&columns=3&margin=0&padding=20&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
-//-->
-</script><script src="http://ljb.advertserve.com/servlet/view/text/unique/javascript/grid?zid=35&amp;pid=2&amp;total=6&amp;columns=3&amp;margin=0&amp;padding=20&amp;random=67936152&amp;millis=1580472260578&amp;referrer=https%3A//web.archive.org/web/20170629052147id_/http%253A//www.altenergymag.com/privacy.php" language="JavaScript" type="text/javascript"></script>
-
-<!-- END ADVERTPRO CODE BLOCK -->                </section>
                 <section class="aligncenter">
                     <p><!-- BEGIN ADVERTSERVE CODE BLOCK -->
 <!--
@@ -765,30 +665,33 @@ Zone #121: AltE 728x90 Internal
 Size #19: Jumbo Banner [728x90]
 -->
 <script type="text/javascript">
-document.write('<scr'+'ipt src="http://ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=121&pid=2&resolution='+screen.width+'x'+screen.height+'&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+encodeURIComponent((window!=top&&window.location.ancestorOrigins)?window.location.ancestorOrigins[window.location.ancestorOrigins.length-1]:document.location)+'" type="text/javascript"></scr'+'ipt>');
-</script><script src="http://ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=121&amp;pid=2&amp;resolution=800x600&amp;random=33538865&amp;millis=1580472260584&amp;referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170629052147id_%2Fhttp%253A%2F%2Fwww.altenergymag.com%2Fprivacy.php" type="text/javascript"></script>
+document.write('<scr'+'ipt src="//ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=121&pid=2&resolution='+screen.width+'x'+screen.height+'&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+encodeURIComponent((window!=top&&window.location.ancestorOrigins)?window.location.ancestorOrigins[window.location.ancestorOrigins.length-1]:document.location)+'" type="text/javascript"></scr'+'ipt>');
+</script><script src="//ljb.advertserve.com/servlet/view/banner/javascript/zone?zid=121&amp;pid=2&amp;resolution=800x600&amp;random=28796671&amp;millis=1580472263623&amp;referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20181005220312id_%2Fhttps%253A%2F%2Fwww.altenergymag.com%2Fprivacy.php" type="text/javascript"></script>
 <!-- END ADVERTSERVE CODE BLOCK --> </p>
                 </section>
                 
-                <nav class="nav-footer" itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" role="navigation">
+                <nav class="nav-footer" itemtype="//schema.org/SiteNavigationElement" itemscope="itemscope" role="navigation">
                     <ul id="menu-footer-navigation-menu" class="menu nav-menu menu-footer">
                         <li class="menu-item"><a href="/contact.php">Contact Info</a></li>
                         <li class="menu-item"><a href="/associates.php">Bloggers and Associate Authors</a></li>
-                        <li class="menu-item"><a href="/privacy.php">Privacy &amp; Refund Policy</a></li>
+                        <li class="menu-item"><a href="/privacy.php">Privacy Policy</a></li>
                         <li class="menu-item"><a href="/advertise.php">Advertise</a></li>
                     </ul>
                 </nav>
                 
-                <nav class="nav-footer-secondary" itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" role="navigation">
+                <nav class="nav-footer-secondary" itemtype="//schema.org/SiteNavigationElement" itemscope="itemscope" role="navigation">
                     <p><a href="/subscribe.php">Subscribe</a> | <a href="/search.php">Search</a> | <a href="/site_services.php#Partner">Promote Products</a> | <a href="/site_services.php#Directory">Feature Your Company</a> | <a href="/site_services.php#News">Publish News</a> | <a href="/site_services.php#Events">List Event</a></p>
                     <p><a href="/streaming.php?type=a">Articles</a> | <a href="/streaming.php?type=n">News</a> | <a href="/streaming.php?type=s">Stories</a> | <a href="/products.php">Products</a> | <a href="/company_directory_search.php">Companies</a> |<a href="/events.php"> Events</a> </p>
                 </nav>
- <div align="center"><img src="/images/site icons/footer ad with all mags.png" alt="LJB Tech Publications" width="730" height="140" border="0" usemap="#Map">
-<map name="Map" id="Map"><area shape="rect" coords="530,31,726,140" href="http://www.manufacturingtomorrow.com" target="_self" title="ManufacturingTomorrow" alt="ManufacturingTomorrow">
-<area shape="rect" coords="341,29,526,140" href="http://www.roboticstomorrow.com" target="_self" title="RoboticsTomorrow" alt="RoboticsTomorrow">
-<area shape="rect" coords="156,29,334,140" href="http://www.hometoys.com" target="_self" title="HomeToys" alt="HomeToys">
-<area shape="rect" coords="8,30,152,140" href="http://www.altenergymag.com" target="_self" title="AltEnergyMag" alt="AltEnergyMag">
-</map></div>
+ <div align="center"><img src="/images/site icons/bth footer ad with all mags.png" alt="BTH Tech Publications" border="0" usemap="#Map">
+<map name="Map" id="Map">
+  <area shape="rect" coords="261,50,447,140" href="http://www.agritechtomorrow.com" target="_self" title="AgritechTomorrow" alt="AgritechTomorrow">
+  <area shape="rect" coords="518,50,713,140" href="http://www.manufacturingtomorrow.com" target="_self" title="ManufacturingTomorrow" alt="ManufacturingTomorrow">
+<area shape="rect" coords="11,52,196,138" href="http://www.roboticstomorrow.com" target="_self" title="RoboticsTomorrow" alt="RoboticsTomorrow">
+<area shape="rect" coords="127,143,304,217" href="http://www.hometoys.com" target="_self" title="HomeToys" alt="HomeToys">
+<area shape="rect" coords="408,143,555,216" href="http://www.altenergymag.com" target="_self" title="AltEnergyMag" alt="AltEnergyMag">
+</map>
+ </div>
                 
                 
                 
@@ -796,49 +699,13 @@ document.write('<scr'+'ipt src="http://ljb.advertserve.com/servlet/view/banner/j
         </div>
         
         <div class="creds">
-            <p>© 2010 - 2017 AltEnergyMag - All Rights Reserved<br>
-                Powered by LJB Management Inc.</p>
+            <p>© 2010 - 2018 AltEnergyMag - All Rights Reserved<br>
+                Powered by BTH Management</p>
         </div>
         
-    
-    <script> 
-    // What is $(document).ready ? See: http://flowplayer.org/tools/documentation/basics.html#document_ready
-    $(document).ready(function() {
-
-
-    // preview trigger
-    $("#box_preview").overlay({
-
-        // custom top position
-        top: 125,
-        left: "center",
-        
-        // some mask tweaks suitable for facebox-looking dialogs
-        mask: {
-
-            // you might also consider a "transparent" color for the mask
-            color: '#000',
-
-            // load mask a little faster
-            loadSpeed: 10,
-
-            // transparency
-            opacity: .7
-        },
-
-        // disable this for modal dialog-type of overlays
-        closeOnClick: true,
-
-            // load it immediately after the construction
-            load: true
-
-    });
-    });
-    </script>
-    
 
     </div>
     
 
 
-<div id="exposeMask" style="position: absolute; top: 0px; left: 0px; width: 1366px; height: 4971px; display: block; opacity: 0.7; z-index: 9998; background-color: rgb(0, 0, 0);"></div></body></html>
+</body></html>
