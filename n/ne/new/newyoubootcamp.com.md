@@ -1,41 +1,88 @@
-> *The following text is extracted and transformed from the newyoubootcamp.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027013543id_/http%3A//newyoubootcamp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyoubootcamp.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005035839id_/https%3A//newyoubootcamp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - New You Boot Camp
 
-**The Bootcamp Limited (“we”) are committed to protecting and respecting your privacy.**
+The following statement explains our policy regarding any personal information we collect about you. We want you to feel confident about the privacy and security of your personal information. This policy is in force throughout the Club Free Spirit network. Including The Boot Camp Ltd known as New You Boot Camp. If you have any queries about this policy, please do not hesitate to contact our GDPR Officer at Club Free Spirit Floor 3, 42 South Molton Street, London W1K 5RR or email [team@clubfreespirit.com](mailto:team@clubfreespirit.com?Subject=Hello%20New%20You%20Boot%20Camp)  
+ 
 
-This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. For the purposes of the Data Protection Act 1998 (the â€œActâ€), the data controller is Bootcamp Ltd. 264 Sandbanks Road, Poole, Dorset BH14 8HA. BH1 1PJ.
+## The information we might hold about you
 
-**1\. Information we may collect from you**
+Depending on the reason that you have contacted us or we have contacted you we will hold the following information about you:  
+ 
 
-1.1 We may collect and process the following data about you: 1.1.1 information that you provide by filling in forms on our website (our “site”). This includes information provided at the time of registering an account, purchasing services from us or requesting further services. We may also ask you for information when you report a problem with our site or the services you have purchased; 1.1.2 if you contact us letter or email, we may keep a record of that correspondence; 1.1.3 if you contact us by telephone, we may record our telephone conversation for training purposes and, if you are asking us to provide you with the use of a dedicated hosting server, for the purposes of proving your request; 1.1.4 we will keep copies of your medical details in relation to the boot camp your attending 1.1.5 details of transactions you carry out through our site and of the fulfilment and administration of your orders; and 1.1.6 details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access and use.
+### Information you supply to us directly
 
-**2\. IP addresses and cookies**
+This is information about you that you give us when you wish to make use of our services by filling in forms on our website, [www.newyoubootcamp.com](https://www.newyoubootcamp.com/), or by corresponding with us by phone, e-mail or otherwise.
 
-2.1 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual. 2.2 For the same reason, we may obtain information about your general Internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us: 2.2.1 to estimate our audience size and usage pattern; 2.2.2 to store information about your preferences, and so allow us to customise our site according to your individual interests; 2.2.3 to speed up your searches; and 2.2.4 to recognise you when you return to our site. 2.3 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+It includes information you provide when you register to use our site, subscribe to receive information from us, enter a promotion or survey, and when you report a problem with our site.
 
-**3\. Where we store your personal data**
+We retain all member and enquiry information on our databases for a reasonable amount of time to fulfil our service to each client and to then contact for future like events on offer. Each client can specify that you no longer wish New You Boot Camp to hold your personal information. You have the right to request that this is removed by contacting – GDPR Officer at Club Free Spirit Floor 3, 42 South Molton Street, London W1K 5RR or email [team@clubfreespirit.com](mailto:team@clubfreespirit.com?Subject=Data%20Removal%20Request)  
+ 
 
-3.1 The personal data that we collect from you will be stored on our servers inside the European Economic Area (“EEA”). Some of your personal data will be transferred to Datacash Limited (whose registered office is at 8 Gate Street, London WC2A 3HP and company number is 03430157) for the purposes of processing your payment information. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 3.2 Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. 3.3 Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. Specifically, your personal data will be stored in accordance with the Payment Card Industry Data Security Standard.
+## Our Lawful Basis for Data Processing is: –
 
-**4\. Uses made of the information**
+**(a) Consent:** the individual has given clear consent for you to process their personal data for a specific purpose.  
+**(b) Contract:** the processing is necessary for a contract you have with the individual, or because they have asked you to take specific steps before entering into a contract.  
+**(c) Legitimate Interests:** the processing is necessary for your legitimate interests or the legitimate interests of a third party unless there is a good reason to protect the individual’s personal data which overrides those legitimate interests. (This cannot apply if you are a public authority processing data to perform your official tasks.)  
+ 
 
-4.1 We use information held about you in the following ways: 4.1.1 to ensure that content from our site is presented in the most effective manner for you and for your computer; 4.1.2 to provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes; 4.1.3 to carry out our obligations arising from any contracts entered into between you and us; 4.1.4 to allow you to participate in interactive features of our service, when you choose to do so; 4.1.5 to notify you about changes to our service. 4.2 If you have placed an order for our services, we will use the information we hold to send you our regular newsletter. This newsletter is our primary method of communicating with you and will inform you of changes to our site, notify you of planned outages and updates to our services, and keep you informed about our services generally. By placing an order for our services, you consent to us using the information we hold about you in this way. 4.3 If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
+## Sharing of Information
 
-**5\. Disclosure of your information**
+New You Boot Camp will never sell mailing lists of personal information to third parties. Appropriate member information may be shared with other companies in our own group and with suppliers of events on which you may be booked for purposes of event management.  
+ 
 
-5.1 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at The Bootcamp ltd. 264 Sandbanks Road, Poole, Dorset BH14 8HA
+## Communication
 
-5.2 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+If you have submitted personal information to us via this web site, by email, by phone or by post, we may from time to time contact you when we have places on events or promotions. Should you not wish to receive such communications, please call us – [0207 099 4816](tel:+442070994816).  
+ 
 
-**6\. Access to information**
+## Social Media
 
-6.1 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+As an additional service to members, over and above our legal obligations, New You Boot Camp operates some of its social media communication via Facebook. New You Boot Camp reserves the right to monitor any posting and either request members to edit or delete posts or delete it itself. All personal information on facebook for any client conversing with New You Boot Camp on Facebook will be protected by the Facebook Privacy Poilcy.  
+ 
 
-**7\. Changes to our privacy policy**
+## Event Organisers
 
-7.1 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+New You Boot Camp may supply personal information about members and guests who are booked on a particular event, to the supplier of that event. The information usually consists of details of dietary requirements, medical conditions and rooming requests for the members’ comfort and safety whilst on events, and will not be used by other groups or suppliers for other purposes.  
+ 
 
-**8\. Contact**
+## Cookies
 
-8.1 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to The Bootcamp ltd. 264 Sandbanks Road, Poole, Dorset BH14 8HA
+Where you consent [www.newyoubootcamp.com](https://web.archive.org/web/20181005035839id_/https://newyoubootcamp.com/privacy-policy/www.newyoubootcamp.com) site makes use of cookies. Cookies are messages given to a web browser by a web site, which are then stored on your computer. A cookie’s main objective is to identify users and personalise their visit by customising web pages. Web sites can only read cookies that have been deposited by that website. They cannot read cookies left by other websites nor can they read other personal information stored on your computer.
+
+You can choose to disable cookies globally at any time through your browser, but this may prevent you from logging in to the members’ area.  
+ 
+
+## How we will use your personal data
+
+Depending on the reason for holding your data we will use the information we hold for the following purposes: –
+
+## Debit/Credit Cards
+
+All credit card transactions are recorded via a secure server with SagePay and will be secured in accordance with Sage Pay’s privacy Policy. Here is a link for your easy reference <https://www.sagepay.co.uk/policies/privacy-policy>.
+
+New You Boot Camp does not store personal payment details.  
+ 
+
+## Email Addresses and SMS
+
+New You Boot Camp uses email, SMS and WhatsApp to communicate with members booked on certain events and to advise members of forthcoming events. WhatsApp will be covered by the WhatsApp privacy policy. We also use email and SMS to advise members of updates, general news, event information. Our policy is to keep emails and SMS to a minimum and only communicate with members when we have something worthwhile to say. We do not want to send you any spam. We believe that this is a valuable service for members, allowing New You Boot Camp more flexibility in the type and lead-time for events we can offer. Should any client prefer not to receive such communications, please contact us directly GDPR Officer at Club Free Spirit Floor 3, 42 South Molton Street, London W1K 5RR or email [team@clubfreespirit.com](mailto:team@clubfreespirit.com?Subject=Request%20To%20Cease%20Contact)
+
+If you make an enquiry about New You Boot Camp products and provide New You Boot Camp with your email address and / or mobile telephone number, then we may from time to time send you emails or SMS messages to tell you about events that we think may be of interest to you. If you do not wish to receive emails or SMS messages from us please contact GDPR Officer at Club Free Spirit Floor 3, 42 South Molton Street, London W1K 5RR or email [team@clubfreespirit.com](mailto:team@clubfreespirit.com?Subject=Request%20To%20Cease%20Contact)  
+ 
+
+## Links to Other Sites
+
+This site contains links to other sites, which may be of interest to visitors of this site. However, New You Boot Camp cannot be held responsible for the contents or practices of any such site.  
+ 
+
+## Legal
+
+The New You Boot Camp website, [www.newyoubootcamp.com](https://web.archive.org/web/20181005035839id_/https://newyoubootcamp.com/privacy-policy/www.newyoubootcamp.com) operates under English Law.  
+ 
+
+## Contacting us
+
+If you have any queries regarding this policy, please call us GDPR Officer at Club Free Spirit Floor 3, 42 South Molton Street, London W1K 5RR or email [team@clubfreespirit.com](mailto:team@clubfreespirit.com?Subject=Privacy%20Policy%20Query)
+
+(* Experience is a result of individuals and may vary.)
