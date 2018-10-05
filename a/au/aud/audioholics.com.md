@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audioholics.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228114511id_/http%3A//www.audioholics.com/groups/admin/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audioholics.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005212319id_/https%3A//www.audioholics.com/groups/admin/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Audioholics
 
