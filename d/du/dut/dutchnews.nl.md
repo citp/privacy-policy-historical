@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the dutchnews.nl privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121212614id_/http%3A//www.dutchnews.nl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dutchnews.nl privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005144507id_/https%3A//www.dutchnews.nl/privacy) for the most accurate reproduction.*
 
 # Privacy - DutchNews.nl
 
 **Privacy and Cookies on DutchNews.nl**
 
-**Privacy policy**
+ **Privacy policy**
+
+We are currently working to become GDPR compliant.
 
 At DutchNews.nl we collect information about our users for three main reasons:
 
@@ -24,7 +26,7 @@ Please note that we reserve the right to access and disclose personal data to co
 
 DutchNews.nl implements standard security procedures and practices in an effort to protect both personal and non-personal information. However, no online data transmission can be guaranteed to be 100% secure.
 
-**Cookies and third parties**
+ **Cookies and third parties**
 
 A cookie is a simple text file that is stored on your computer or mobile device by a website’s server and only that server will be able to retrieve or read the contents of that cookie. Each cookie is unique to your web browser. It will contain some anonymous information such as a unique identifier and the site name and some digits and numbers. It allows a website to remember things like your preferences or what’s in your shopping basket.
 
