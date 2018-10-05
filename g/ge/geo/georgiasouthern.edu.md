@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the georgiasouthern.edu privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524140655id_/http%3A//www.georgiasouthern.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georgiasouthern.edu privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005045549id_/https%3A//www.georgiasouthern.edu/privacy) for the most accurate reproduction.*
 
 # Online Privacy Statement | Georgia Southern University
 
@@ -37,3 +37,83 @@ Information disclosed by visitors to the Sites in certain forums intended for pu
 ### 4\. Changes to this Policy
 
 The University reserves the right to make changes to this Policy and/or the Online Privacy Statement as needed and in accordance with University and Board of Regents Policy. The current version will be made available on the University website(s). If you have questions about this Policy or you believe your personal information has been released without your consent, please contact the [Office of the Vice President for Information Technology](http://its.georgiasouthern.edu/cio/).
+
+* * *
+
+## European Union General Data Protection Regulation (EU GDPR) Privacy Notice
+
+### Lawful Basis for Collecting and Processing of Personal Data
+
+Georgia Southern University is an institute of higher education involved in education, research, and community development.  In order for Georgia Southern University to educate its students both in class and on-line, engage in world-class research, and provide community services, it is essential, necessary, and Georgia Southern University has lawful bases to collect, process, use, and maintain data of its students, employees, applicants, research subjects, and others involved in its educational, research, and community programs. The lawful bases include, without limitation, admission, registration, delivery of classroom, on-line, and study abroad education, grades, communications, employment, applied research, development, program analysis for improvements, and records retention. Examples of data that Georgia Southern University may need to collect in connection with the lawful bases are: name, email address, IP address, physical address or other location identifier, photos, as well as some sensitive personal data obtained with prior consent.
+
+For more information regarding the EU GDPR, please review Georgia Southern University’s [EU General Data Protection Regulation Compliance Policy.](https://digitalcommons.georgiasouthern.edu/sae_mgmt/13/)
+
+Most of Georgia Southern University’s collection and processing of personal data will fall under the following categories:
+
+  1. Processing is necessary for the purposes of the legitimate interests pursued by Georgia Southern University or third parties in providing education, employment, research and development, community programs.
+  2. Processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract. This lawful basis pertains primarily but not exclusively to research contracts.
+  3. Processing is necessary for compliance with a legal obligation to which Georgia Southern University is subject.
+  4. The data subject has given consent to the processing of his or her personal data for one or more specific purposes.  This lawful basis pertains primarily but not exclusively to the protection of research subjects, providing medical and mental health services.
+
+
+
+There will be some instances where the collection and processing of personal data will be pursuant to other lawful bases.
+
+### Types of Personal Data collected and why
+
+Georgia Southern University collects a variety of personal and sensitive data to meet one of its lawful bases, as referenced above. Most often the data is used for academic admissions, enrollment, educational programs, job hiring, provision of medical services, participation in research, development and community outreach. Data typically includes name, address, transcripts, work history, information for payroll, research subject information, medical and health information (for student health services, or travel), and donations. If you have specific questions regarding the collection and use of your personal data, please contact the Office of Internal Audit, Risk & Compliance at kcrosby@georgiasouthern.edu.
+
+If a data subject refuses to provide personal data that is required by Georgia Southern University in connection with one of Georgia Southern University’s lawful bases to collect such personal data, such refusal may make it impossible for Georgia Southern University to provide education, employment, research or other requested services.
+
+### Where Georgia Southern University gets Personal and Sensitive Personal Data
+
+Georgia Southern University receives personal and sensitive personal data from multiple sources. Most often, Georgia Southern University gets this data directly from the data subject or under the direction of the data subject who has provided it to a third party (for example, application for admission to Georgia Southern University through use of the Common App).
+
+### Individual Rights of the Data Subject under the EU GDPR
+
+Individual data subjects covered by Georgia Southern University’s [EU General Data Protection Regulation Compliance Policy ](https://digitalcommons.georgiasouthern.edu/sae_mgmt/13/)will be afforded the following rights:
+
+  * information about the controller collecting the data
+  * the data protection officer contact information
+  * the purposes and legal basis/legitimate interests of the data collection/processing
+  * recipients of the personal data
+  * if Georgia Southern University intends to transfer personal data to another country or international organization
+  * the period the personal data will be stored
+  * the existence of the right to access, rectify incorrect data or erase personal data, restrict or object to processing, and the right to data portability
+  * the existence of the right to withdraw consent at any time
+  * the right to lodge a complaint with a supervisory authority (established in the EU)
+  * why the personal data are required, and possible consequences of the failure to provide the data
+  * the existence of automated decision-making, including profiling
+  * if the collected data are going to be further processed for a purpose other than that for which it was collected
+
+
+
+**Note: Exercising of these rights is a guarantee to be afforded a process and not the guarantee of an outcome.**
+
+Any data subject who wishes to exercise any of the above-mentioned rights may do so by filing such request with the Office of Internal Audit, Risk, and Compliance at [RiskCompliance@georgiasouthern.edu](mailto:RiskCompliance@georgiasouthern.edu).
+
+### Cookies
+
+Cookies are files that many websites transfer to users’ web browsers to enable the site to deliver personalized services or to provide persistent authentication. The information contained in a cookie typically includes information collected automatically by the web server and/or information provided voluntarily by the user.  Our website uses persistent cookies in conjunction with a third party technology partner to analyze search engine usage and web traffic patterns. This information is used in the aggregate to monitor and enhance our web pages. It is not used to track the usage patterns of individual users.
+
+### Security of Personal Data subject to the EU GDPR
+
+Georgia Southern University will not share your information with third parties except:
+
+  * as necessary to meet one of its lawful purposes, including  but not limited to,
+    * its legitimate interest,
+    * contract compliance,
+    * pursuant to consent provided by you,
+    * as required by law;
+  * as necessary to protect Georgia Southern University’s interests;
+  * with service providers acting on our behalf who have agreed to protect the confidentiality of the data.
+
+
+
+### Data Retention
+
+Georgia Southern University keeps the data it collects for the time periods specified in the University System of Georgia Records Retention Schedules:   [https://www.usg.edu/records_management/schedules/](https://www.usg.edu/records_management/schedules/)
+
+For examples of Student Records Retention Schedules, see: [https://www.usg.edu/records_management/schedules/934](https://www.usg.edu/records_management/schedules/934)
+
+For examples of Human Resources (Employment) Records Retention Schedules, see: [https://www.usg.edu/records_management/schedules/930](https://www.usg.edu/records_management/schedules/930)
