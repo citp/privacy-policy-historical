@@ -1,138 +1,93 @@
-> *The following text is extracted and transformed from the pramac.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128001540id_/http%3A//www.pramac.com/privacy%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pramac.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005083239id_/https%3A//www.pramac.com/privacy) for the most accurate reproduction.*
 
 # Privacy statement
 
-## Privacy Policy
+According to article 12 and 13 of the EU regulation 2016/679 (hereinafter “GDPR”), PR INDUSTRIAL S.r.l. with its registered offices in Casole d’Elsa, Località Il Piano - Siena (Italy) VATn.06264860484, tel. (+39) 0577/9651 Fax. (+39) 0577949076 (”PR Industrial”), in the quality of Data Controller, **informs** individuals, hereinafter “User(s)” acceding to the websites [www.pramac.com](http://www.pramac.com/), [www.lifter.it](http://www.lifter.it/), [www.pramacparts.com](http://www.pramacparts.com/),  [www.powermategenerators.eu](http://www.powermategenerators.eu/) and [www.nomoreblackout.com](http://www.nomoreblackout.com/)  (hereinafter the “Websites”) to  obtain technical and commercial information with regards to the products and the activities of PR Industrial and its subsidiaries, on the scope, manner, nature, communication and disclosure of data collected through the User(s) registrations and website navigation.
 
-PR INDUSTRIAL Srl, headquartered in località il Piano 53031, Casole d’Elsa, Siena –Italy- understands the importance of protecting personal information collected from Users in the operation of the following websites: www.pramac.com, www.lifter.it, www.pramacparts.com (hereinafter referred to as "Sites") and take reasonable steps to maintain the security, integrity and privacy of any information in accordance with this Privacy and Data Protection Policy (under Italian Legislative Decree no.196/2003 regarding privacy and the protection of personal data).
+**1\. Type of Data**
 
-PR INDUSTRIAL, following Article 13 of the Privacy Code (Legislative Decree n°. 196/2003) gives following information about data processing communicated by User or otherwise gathered during the browsing of these Sites.
+Data can be collected through different types, as follows:
 
-### 1\. Treatment Purpose
+  * **Data voluntarily provided by the User**
 
-Personal data are collected and processed for the following purposes:
 
-  * for administrative purposes in anyway connected with the fulfilment of its contractual obligations for the fulfilment of legal obligations;
-  * identify or contact the User for the supply of a service or the execution of required transactions;
-  * make the support service and customer assistance more efficient, so the use of the Sites is improved and simplified, thus excluding the need to input repeatedly the same information or customizing the Sites according to the user interests or preferences;
-  * for allowing the User to benefit of a service, for instance for receiving information about PR Industrial products or services, participating to a competition, subscribing to a newsletter, visiting a website area with a limited access, purchasing products, services, downloading software, documentation or registering PR Industrial products purchased by the User;
-  * fulfill Users requests to manage the relationship with PR Industrial both to be established or already existing;
-  * to analyze the trends, for managing and improving the Sites.
 
+PR Industrial collects data provided voluntarily by the Users on the forms present on the Websites, on paper forms or, in any other manner appropriate to the purpose.
 
+  * **Website navigation data**
 
-Some information related to visited pages can be collected in the Sites, for instance the name of the Internet service provider and the IP address (Internet Protocol) through which you enter the Internet; date and time of the access to the Sites; pages visited by the users inside the Sites and the Internet address of the websites from which the user gained direct access to the Sites. Some areas of the Sites offer the chance to interact with other users and with PR INDUSTRIAL staff and experts, so that the sharing of information and news related to PR Industrial products and associated technologies are promoted.
 
-### 2\. Processing Arrangements
 
-Personal data is processed with automated means for no longer than is necessary to achieve the purposes for which it has been collected.
+The information systems and software procedures for the Websites operation, on an ordinary basis, acquire some personal data, which transmission is implicit in the use of Internet communications protocols. This information is not collected in order to be associated with any identified data subject; however, it could allow identification of Users due to its own nature, by processing and associating with data held by third parties. This data category includes: IP addresses or name dominions ofcomputers used by Users connecting to the Websites; addresses in URI (Uniform Resource Identifier) notation of the requested resource; time of request; method used to submit the request to the server;size of the file obtained in reply; numerical code indicating the state of the reply given by the server (successful, error, etc.) and, other parameters referring to the operating system and IT environment of the User. These data are used only to collect anonymous statistical information about use of the Websites and to check their proper operation, to identify unusual conditions and/or abuse, and will be deleted immediately after processing.
 
-### 3\. Optional Data Provision
+This kind of data could be used to ascertain responsibility on hypothetical cases of internet crime against the Websites; With the exception of this case, data is currently retained for the time required by the relevant legal regulations in order to provide the User with the service requested by him and to guarantee transmission of communication.
 
-Users are free to provide the personal data; nevertheless, failure to provide such data may entail the failure to be provided with the items requested.
+  * **Cookies**
 
-Users are also free to provide the personal data either to be entered in the application forms to request delivery of information materials and other communications.
 
-### 4\. Use of Data
 
-Data related to visited pages will be combined to anonymous demographic data in order to perform a research and for providing contents which satisfy user interests. In some limited access areas of the Sites, upon authorization of the user, data related to visited pages are combined to personal information in order to provide customized contents. If the authorization is not given by the User, the customized service will not be provided to the User and the personal information will not be combined to data related to visited pages.
+The Websites use cookies to ensure integrity of the registration procedure and to customise them. A cookie is a small size text file, saved in the User’s hard disk from a web page. Cookies cannot be used to execute programs or send viruses to the User’s computer. Cookies are assigned to the User in a unique manner and can be read only by the web server of the domain which sent them. 
 
-When you perform the registration for a newsletter or you require receiving promotional e-mail messages, the Sites will be able to use customized links or analogue technologies for keeping track of the e-mail links with which the user interacts. PR INDUSTRIAL will be able to combine these data to the collected personal information, so that it will provide more interesting e-mail communications and purchase suggestions. Each e-mail message includes a link for cancelling the subscription and stopping the sending of this kind of communications.
+One of the main purposes of cookies is to help the User save time. For example, if a web page is customised or if one visits a website, the cookie will allow the visited website to recall information specific to the User at the following visits. Use of cookies makes it possible to provide the User with customised contents and facilitates visits to the website. At the following visit to the website, information previously provided may be recovered to simplify use of customised functions by the User.
 
-Some services of the Sites provide people with the chance to publicly view certain personal information, as happens for PR INDUSTRIAL partners, which like to publish contact information for offering commercial services. The adhesion to this kind of services is always optional and its use is conditional upon the issuance of an explicit consent by the User.
+To send cookies, PR Industrial’s websites may employ web technology based on beaconing, also known as “clear gif” or action tag technology. This technology allows PR Industrial to draw up aggregate statistics on use of the Websites, for example the number of visitors who have interacted with key elements of a page on the Websites, for example links or images. PR Industrial may provide aggregate statistics to its partners. 
 
-The personal information collected on the Sites can be stored and processed in Italy or in any other EU country in which PR INDUSTRIAL or affiliated, auxiliary or representing companies are present.
+Users may accept or reject cookies. Most web browsers automatically accept cookies. The User may however change his browser settings so as to reject cookies. Should he decide to reject cookies, it is possible that he will no longer be able to use interactive functions provided on the website. 
 
-### 5\. Control and transfer of personal data
+**2\. Purpose of the processing**
 
-Data collected, if necessary or with the aim of the implementation of stated purposes, can be handled by a third party appointed for this purpose as external accountable of the treatment, and as appropriate, communicated to them as independent data holders. To this end, appropriate security is taken to prevent loss of data, illicit or incorrect use and unauthorized access. Personal data may also be transferred abroad, at companies that are part of the PR Industrial Group and/or to third Parties, inside the EU.
+User’s personal data is collected and processed for the following purposes:
 
-As described in the following section, the user can log into their personal information and express preferences about the methods in which he wishes to be contacted.
+  1. To reply to requests (information, estimates, help, etc...) which the Users may make using the email addresses or data forms present on the Websites;
+  2. to allow navigation and consultation of the Websites and access to reserved areas;
+  3. to perform direct  marketing  by email, fax or SMS, for services and/or products similar to those requested;
+  4. to draw up studies, research or market statistics, to send advertising information, commercial information or promotional material;
 
-PR INDUSTRIAL is allowed to disclose personal information only if obliged by law or in case there is the firm belief that such action is necessary for (a) complying to law or conforming to the provisions of a legal act with involvement of PR INDUSTRIAL or the Sites; (b) protecting and defending the rights or the ownership of PR INDUSTRIAL, o (c) acting in extreme circumstances for protecting the personal safety of PR INDUSTRIAL employees, of the users of PR Industrial products or services.
 
-The Sites can periodically send e-mail messages containing information about the technical service or products and services requested by the User, requests of confirmation or service notification. Some services offered by the Sites include the contact with the User. Cancellation or refusal will result in the inability of PR Industrial to execute the contractual commitments entered into
 
-### 6\. Access to personal information (Art. 7 Legislative Decree No196, 30 June 2003 -Right to access personal data and other rights)
+**3\. Manner of processing and use of the data**
 
-User is entitled at any time to obtain, from Data Controller (by using the form provided by Italian Data Protection Authority at www.garanteprivacy.it), existence of personal data concerning him/her and be informed of their contents and origin, verify their accuracy, or else request that such data be supplemented, updated or rectified (as per Article 7 report herein ).
+User’s personal data will mainly be processed using electronic means, or in any case automatically, according to articles 25 and 32 of the GDPR and in any case through the implementation of the specific security measures in order to prevent loss of data, illicit or improper use and/or unauthorised access.
 
-_The party concerned has the right to obtain confirmation of whether personal data which concerns him/her exists or not, even if not yet registered, and the communication of this data in an intelligible form;_
+Data is stored on electronic and/or paper form, in compliance with the applicable laws and limited to the necessary term to achieve its purpose.
 
-_The party concerned shall have the right to be informed:_
+**4\. Legitimacy of the processing and optional or obligatory consent**
 
-  1. _of the source of the personal data;_
-  2. _of the purposes and methods of the processing;_
-  3. _of the logic applied to the processing, if the latter is carried out with the help of electronic means;_
-  4. _of the identification data concerning data controller, data processors and the representative designated as per Section 5(2); and_
-  5. _of the entities or categories of entity to whom or which the personal data may be communicated and who or which may get to know said data in their capacity as designated representative(s) in the State’s territory, data processor(s) or person(s) in charge of the processing is entitled to obtain information regarding the origin of the personal data;_
+For the purposes referred to in the above item n. 2 (a and b) submission of data by  User is necessary and, failure to provide data requested, even partially, will result in the impossibility _i)_ to perform the obligations arising from the agreement in which the data subject is involved and/or _ii)_ to provide the offered/requested services; in relation to this purpose, consent is not required and processing is legitimate pursuant to Art. 6 (1) (b) of GDPR.
 
+Processing under item 2(c), carried out for direct marketing purposes on products or services similar to those purchased by the User, finds its applicability pursuant to Art. 6.1.f  of the GDPR, on PR Industrial’s legitimate interest to promote its own products or services in a context where data subject may reasonably expect such processing, to which User may oppose at any time.
 
+Processing carried out for commercial and promotional purposes as described under item 2(d) is based on the User consent pursuant to Art. 6(1)(a) of the GDPR. Submission of Personal data for these purposes is entirely optional and does not compromise make use of the services.
 
-_The party concerned is entitled to obtain:_
+**5\. Communication and transfer of personal data   **
 
-  1. _updates, amendments or, where relevant, supplements to the data;_
-  2. _the deletion, transformation into anonymous form or blockage of data processed unlawfully, including data whose conservation is not necessary in relation to the purposes for which the data was gathered or subsequently processed;_
-  3. _the confirmation that the operations referred to in letters a) and b) have been brought to the attention, also as regards their content, of the persons with whom the data has been shared or to whom it has been disclosed, except in the event that this action is impossible or requires the use of means which are clearly disproportionate in relation to the right protected._
+User data is collected and processed at the offices of PR Industrial or at the offices of the technical staff appointed for the maintenance of the Websites, called the External Processor.
 
+Without prejudice to those communications made to fulfil legal obligations, all data collected for the purposes set forth under item 2 may be communicated to the following:
 
+  * parties appointed by PR Industrial to perform activities directly related or connected to the delivery and distribution of products or services requested by User;
+  * parties that may become aware of data due to their role as Data Processor or as people in charge of the PR Industrial data processing.
 
-_The party concerned is entitled to raise a total or partial objection:_
 
-  1. _for legitimate reasons to the processing of personal data regarding the party, even though such data is relevant to the purpose of its collection;_
-  2. _to the processing of personal data regarding the party for the purposes of sending advertising or direct sales material or for carrying out market research or business communication_
 
+Users’ personal data may be transferred to companies belonging to PR Industrial Group based in or outside the EU in order to allow those companies to carry out their own marketing activities, provide information, offers on the products, services and/or further initiatives.
 
+Some countries outside the EU might not guarantee secure and correct data processing; therefore, even though PR industrial Group polices carefully regulate intercompany transfers protecting personal data, PR Industrial requests Users’ explicitly consent  to data transfer to those PR Industrial Group companies based outside the EU according to article  49 of GDPR. The companies belonging to PR Industrial are Joint Controllers of data processing.
 
-### 7\. Protection of personal information
+Failure to submit data requested and/or data transfer consent  to transfer data to those extra EU countries (that might not guarantee appropriate rules on data privacy) PR Industrial shall not consider the related request.
 
-PR INDUSTRIAL is committed to protect unconditionally the privacy of personal information. The various used technologies and procedures of protection are finalized to protect personal information from unauthorized access, use or disclosing. For instance, personal information is stored on computer systems with limited access, placed in controlled structures. Moreover, when highly reserved personal data are transmitted on the Internet (like credit card number), they are protected through cryptography, e.g. with SSL protocol (Secure Sockets Layer).
+The data will not in any case be subject to dissemination.
 
-### 8\. Cookies
+**7.   User’s Rights ** 
 
-The Sites use cookies for assuring the integrity of the registration procedure and for customizing the Sites. A cookie is a small sized text file saved in the hard disk of the user from a web page. Cookies cannot be used for executing programs or sending viruses to the computer of the user. Cookies are assigned to the user in a univocal way and can be only read by the Web server of the domain, which sent them.
+User has the right to ask PR Industrial, at any time, for access to his Personal data, rectification or erasure of such data (so-called “right to be forgotten”) or to object to their processing in the cases provided for under article 20 of the Regulation; User has the right to restriction of processing in the cases provided for under Art. 18 of the Regulation, and the right to obtain the data concerning him (portability)  in a structured format, of common use and readable from an automatic device, in the cases provided for under Art. 20 of the GDPR.
 
-One of the main purposes of cookies is to make the user save time. For instance, if you customize a Web page or visit a website, a cookie will allow the visited site to recall specific information about the user in the following visits. The use of cookies allows providing the user with customized contents and simplifies the visit of the websites. At the following visit to the website, the previously provided information may be retrieved thus simplifying the use of customized features for the user.
+In any case, User always has the right to lodge complaint with the relevant supervisory authority ( _Garante della Privacy_ ) pursuant to Art. 77 of the GDPR, should User considers that the processing of his data is contrary to applicable legislation.
 
-For the sending of cookies in PR INDUSTRIAL website, a Web technology based on beaconing, also known as "clear gif" or action tag technology may be used. Such technology allows PR INDUSTRIAL to compile aggregated statistics related to the use of the Sites, like for instance the links or the pictures. PR INDUSTRIAL can provide its own partners with aggregated statistical data.
+Furthermore, pursuant to Art. 7 (3) of the GDPR, User has the right to revoke consent at any time; revocation of consent does not affect the lawfulness of the processing based on the consent obtained before the revocation.
 
-User can accept or refuse cookies. Most of Web browsers automatically accept cookies. Anyway, the user can change the browser settings so that cookies are refused. If you decide to refuse cookies, it is possible that interactive features offered by the websites could not be used anymore.
+To exercise his rights, User may at any time contact the Data Controller or related Data Processor(s) contacting PR Industrial S.r.l. località il Piano 53031, Casole d’Elsa, Siena-Italy, sending a fax to the number (+39) 0577965215 or emailing [privacy@pramac.com](mailto:privacy@pramac.com)
 
-### 9\. Use of Web Beacons
+**8\. Changes to this privacy information notice**  
 
-The Sites may contain electronic images known as Web beacons, sometimes named as "pixel gif", which allow PR INDUSTRIAL to count the number of users who visited those pages and to offer services, also in collaboration with other companies. The Sites may include Web beacon in e-mail messages or promotional newsletter for detecting whether the messages have been opened or the users performed any action after receiving them.  
-Some Web beacons can be put by service providers of third parties for allowing detecting the efficacy of our advertising campaigns or of the e-mail communications. Such Web beacon may be used by user providers for putting a persistent cookie in the user's computer. That allows the service provider to recognize the computer every time the user visits certain Web pages or e-mail messages and compile anonymous information related to viewing these pages. PR INDUSTRIAL forbids the use of Web beacon targeted to the access or collection of personal information of the user.
-
-### 10\. Changes to this informative report about privacy
-
-PR INDUSTRIAL will be able to update, occasionally, this informative report about privacy. In these cases, the date at the beginning of the informative report will be changed, at the "latest update" item. In case of substantial changes in the contents of the informative report, PR INDUSTRIAL will inform the customers by publishing notices related to it in the homepage of the Sites, in alternative, by directly sending notices to the users. PR INDUSTRIAL suggests reading periodically this informative report about privacy so that you can always be up-to-dated about the initiatives performed by PR INDUSTRIAL for protecting the privacy of collected personal information.
-
-### 11\. Data Controller
-
-The Data controller is PR Industrial Srl, headquartered in località il Piano 53031, Casole d’Elsa, Siena (Italy). The processing operations are carried out exclusively by technical staff in charge of said processing; an update list with the names of the staff in charge will be available at Data Controller headquarters.
-
-### 12\. For contacting us
-
-All requests, including the exercise of article 7 Legislative Decree No196, should be emailed to: [info@pramac.com](mailto:info@pramac.com), fax (+39) 0577965215 or sent to PR Industrial Srl (località il Piano 53031, Casole d’Elsa, Siena-Italy).
-
-## Tems of Use and Conditions
-
-PR Industrial Srl, with headquarters in Italy, località il Piano –Casole d’Elsa (SI), and its subsidiaries and/or associated there with (hereinafter “PR Industrial”) thank you for visiting this website (hereinafter “Site”). By visiting the Site the User agrees to the terms and conditions of the legal terms of use.
-
-The information, photographic material, data, software, graphics, videos, images, products and in general all the material contained in the Site (hereinafter “Materials”) shall be deemed the sole property of PR Industrial and/or third Parties.
-
-It is expressly forbidden to reproduce, even partially, multiply copies, download, record, publish or distribution of the Material in any form or by any means without previous written permission by PR Industrial.
-
-Trademarks "PRAMAC" and "LIFTER" are tradenames and figurative registered trademarks property of PR Industrial, as well as their respective logos. Any other trademarks and logos displayed in the Site, are the property of their respective owners.
-
-Any use or reproduction of those trademarks and logos, for any reason or purpose, are expressly forbidden.
-
-PR Industrial, to the maximum extent permitted by law, does not represent or warrant that the Materials contained in this Site are technically inaccurate or contain typographical errors and provides no warranty or guarantee in connection with this Site, its content or services, including - by the way of example- that it will always be available, without interruption or errors in functioning, or that it will be safe from malicious programs (such as viruses, bugs, malware or similar).
-
-Materials may be subject to changes or updates without notice. PR industrial also reserves the sole right to make changes and/or improvements to image, products, text, software applications found on the Site, without prior notice at any time.
-
-User is responsible for any losses, costs and damages, direct or indirect of any kind and entities that may result from the use of the Site.
-
-All Materials and any creative expression sent to the Site and/or PR Industrial, with the sole exception of the personal data (name, surname and email-address) as indicated in the privacy policy, will be treated as nonconfidential and attributed irrevocably and freely, with their submission or mailing, to PR Industrial. By making a submission or mailing, User agrees that PR Industrial has the right (but not the obligation) to publish or use such submission for any purpose, without compensation to User or to any other person, unless expressly imposed by law..
-
-For matters not governed by these terms and conditions, relates only to the Italian Law. Any non-entity in these conditions shall not imply non-entity or void of any other, which shall continue therefore to be fully effective. Any disputes related to these terms and conditions and/or use of the Site itself will be settled by the exclusive jurisdiction of the Court of Siena.
+This Privacy Policy has come into effect on July 16, 2018; PR Industrial may decide to amend or update it in whole or in part, and also to introduce any changes following applicable regulations. In case of substantial changes to the contents of the information notice, PR Industrial will notify Users publishing notices on the home page of the Websites or, as an alternative, sending notice directly to Users. PR Industrial suggests the User should read this privacy information notice from time to time, to keep constantly abreast of the initiatives taken by PR Industrial to protect the confidentiality of collected personal information. 
