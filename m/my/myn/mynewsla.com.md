@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynewsla.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313064259id_/https%3A//mynewsla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynewsla.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005173755id_/https%3A//mynewsla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MyNewsLA.com
 
