@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhwconference.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122030501id_/http%3A//www.ungagged.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhwconference.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005100501id_/http%3A//www.ungagged.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UnGagged | Digital Marketing & SEO Conference
 
