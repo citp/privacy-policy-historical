@@ -1,126 +1,184 @@
-> *The following text is extracted and transformed from the styloko.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323191333id_/https%3A//www.styloko.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styloko.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005031044id_/https%3A//www.endource.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Styloko.com
+# Cookies & Privacy | Endource
 
-STYLOKO’s approach to privacy
+## How we use your personal data
 
-The website or app that is linked to this privacy policy is operated by Styloko Limited ("we" or "us"). 
+We use your data in a number of different ways — what we do depends on the data. The tables below set this out in detail, showing what we do, and why we do it.
 
-We appreciate your interest in our website (our "_site_") or our app (our "_app_"). Privacy protection is very important to us and we are committed to protecting you and respecting your privacy. This privacy policy sets out information about how we collect, store, process, transfer, share and use data that identifies or is associated with you (hereinafter "_personal information_"). 
+### Your name and contact details
 
-For the purposes of the Data Protection Act 1998, Styloko Limited is the data controller of personal information we hold about you. 
+**Data we collect** | **Why we collect it**  
+---|---  
+First name & surname | To deliver your purchases to you  
+Email address | To update you about your purchases  
+| To keep you up to date about new products and services  
+| To show you the latest products and deals in Endource adverts as you browse the web  
+| To remind you when you have products left in your box  
+Mobile phone number | To update you about your purchases  
+Address | To deliver your purchases to you  
+| To detect and prevent fraud  
+Username | To allow you to track your orders  
+| on your profile page  
+  
+### Your payment information
 
-You should also be aware that we use cookies to store and access information whilst providing access to our site or our app. You can find out more about our use of cookies in our [cookie policy](https://web.archive.org/web/20160323191333id_/https%3A//www.styloko.com/static-cookie-policy). 
+**Data we collect** | **Why we collect it**  
+---|---  
+Credit card number, CVV & expiry date | To allow you to order items  
+| To allow us to collect payment for items you keep  
+| To allow us to refund you if you return items you’ve paid for  
+| To detect and prevent fraud  
+  
+### Your contact history with us
 
-Personal INFORMATION we COLLECT about you AND HOW WE USE IT
+**Data we collect** | **Why we collect it**  
+---|---  
+Emails | To provide you with customer service and support  
+Notes on phone conversations with you | To provide you with customer service and support  
+  
+### Purchase history and saved items
 
-We collect personal information about you when you voluntarily submit information directly to us, our site or our app. This can include information you provide to us when you open an account, complete a form on our site or app, correspond with us, subscribe to our mailing lists, newsletters or other forms of marketing communications, respond to a survey, enter a promotion or use some other feature of our website or app. 
+**Data we collect** | **Why we collect it**  
+---|---  
+Items you’ve saved | To send you alerts when items go on sale  
+| To find out what you like  
+Your purchase history | To provide you with customer service and support  
+| To deal with returned items and refunds  
+| To find out what you like  
+  
+### Information from Facebook
 
-We also collect personal information from you indirectly such as information about the pages you look at on our site or our app or the device you use to view our site or connect to our app with. 
+**Data we collect** | **Why we collect it**  
+---|---  
+Email address | To log you into our website without you having to create or enter a password  
+  
+### Information about your phone or computer, and how you use our website
 
-The list below sets out the categories of personal information we collect about you and how we use that information. 
+**Data we collect** | **Why we collect it**  
+---|---  
+Your IP address | To analyse use of and improve our website  
+Device type | To analyse use of and improve our website  
+Activity data | To analyse use of and improve our website  
+| To personalise your experience of our website  
+  
+### Your responses to surveys, competitions and promotions
 
-Contact details: We collect contact information such as your name and the email address associated with your account. We will use your contact details so that we can communicate with you directly about the services we provide and about queries, issues or concerns you or other users have. 
+**Data we collect** | **Why we collect it**  
+---|---  
+Your responses | To enter you into competitions  
+| To analyse use of and improve our website  
+| To send you promotional offers  
+  
+We also anonymise and aggregate personal information (so that it can’t identify you) and use it for purposes including testing our IT systems, research, data analysis, improving our site and developing new products and services. We also share this information with third parties.
 
-Comments and opinions: When you contact us directly, e.g. by email, phone, post or bycompleting an online form we will record your comments and opinions. We will alsorecord comments and opinions you express when you respond to surveys, enter competitions or take part in promotions we run. We will use your comments and opinions to address your queries, issues and concerns and improve our service. We will also use comments and opinions you express when responding to surveys, entering competitions or taking part in other promotions to help us determine services that may be of interest to you and to send you marketing communications in accordance with your marketing preferences. 
+  
 
-Website and app login details: Where you create an account with us we will hold your user name and password details so that we can keep your account secure. Where you are provided with the option to log-in using a social network, for example using Facebook, we will not be provided with your password or other account login details for those accounts. We will not post to your social network or to your friends, followers or contacts without your consent 
 
-Your preferences: We hold information about the preferences you set for notifications, marketing communications and how our site is displayed or what content is displayed to you through our app. We will use your preference settings for the purpose of providing notifications, sending marketing communications and displaying our site in accordance with your choices. 
+## Sharing your information
 
-Information about how you use and connect to our site or our app: We collect information about how you use our site or our app such as the pages you view on our site or our app, the time you access our site or our app and how long you use it for, the website from where you came to our site or our app or go to after leaving our site or our app and any selections and choices you make when using our site or our app. 
+We do not, and will not, sell any of your personal data to any third party – including your name, address, email address or credit card information.
 
-We also collect information about the computer, tablet, smartphone or other electronic device you use to connect to our site or our app. This information can include details about the type of device, unique device identifying numbers, operating system, browsers and applications connected to our site or our app through the device, your Internet service provider or mobile network, and your IP address. 
+However, we share your data with the following categories of companies as an essential part of being able to provide our services to you, as set out in this statement:
 
-The information we collect about how you use or connect to our site is associated with your device. It will also be associated with you as a named individual when you log into a registered account you have with us. 
+  * Companies that do things to get your purchases to you, such as payment service providers and delivery companies
+  * Professional service providers, such as marketing agencies, advertising partners and website hosts, who help us run our business
+  * The personal information we have collected from you will be shared with fraud prevention agencies who will use it to prevent fraud and money-laundering and to verify your identity. If fraud is detected, you could be refused certain services, finance, or employment. Further details of how your information will be used by us and these fraud prevention agencies, and your data protection rights, can be found in our Terms and Conditions.
+  * Companies approved by you, such as social media sites (if you choose to link your accounts to us), Marketplace sellers where you place an order, and Klarna where you choose to use their payment service
+  * Members of our group, which means our subsidiaries, holding companies and their subsidiaries (as defined in the Companies Act 2006)
 
-We use information about how you use and connect to our site and our app to present our site or our app to you on your device and to determine services that may be of interest to you for marketing purposes. 
 
-Information about your location: Other than information you choose to provide to us, we do not collect information about your precise location. Your device's IP address may help us determine an approximate location. We may use an approximate location to ensure content on our site is relevant to the area, city, state or country you are using your device in. We will not use your exact location without your consent. Where necessary we will seek your consent before using information about your exact location. 
 
-Information provided by other users: Sometimes, other visitors to our site or users of our app provide information that is associated with you. We will use personal information about you that is contained in private messages sent to us by other users to respond to any query, issue or concern they raise. Where users of our site or our app want to invite you to use our site, our app or to share information with you about our services we will use personal information that they provide about you to assist them in doing this; we will only do this though where they indicate that you have provided your consent for them to communicate with you in this way. 
+We may also disclose your personal data to third parties in the event that we sell or buy the business or assets (in which case we may disclose your personal data to the prospective seller or buyer of such business or assets, subject to ensuring that appropriate confidentiality safeguards are in place).
 
-Information about fraudulent or criminal activity relating to your account: We will use information about fraudulent or criminal activity relating to your use of our site or our app for the purposes of detecting and preventing fraud or crime. 
+We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
-All personal information: We will use all the personal information we collect to monitor and improve our site, our app and our procedures and processes. We also use the personal information we collect to help us develop new services. Our use of your personal information in this way will not result in information that was not previously publicly available being made public on our site or through our app. 
+## Marketing messages
 
-At various places on our site or our app you may be requested to enter certain personal information. Personal information that must be provided in order to use the requested services will be indicated at the time of collection. Other personal information that you are not required to provide in order to receive our services may be voluntarily given and you are free to decide not to give such personal information. 
+As part of the Endource service, we’ll send you marketing messages by email to help you see and find our products.
 
-We may anonymise and aggregate any of the information we collect (so that it does not directly identify you). We may use anonymised information for purposes that include testing our IT systems, research, data analysis, improving our site and developing new services and features. 
+**
 
-Information we share with third parties
+1\. How to stop marketing messages from Endource
 
-We may share your personal information with the following parties: 
+**
 
-Companies in the same group of companies as us: our subsidiaries (i.e. any organisation we own or control) or our holding company or ultimate holding company (i.e. any organisation that owns or controls us) and any subsidiaries they own. These companies will only use your personal information in the same way as we can under this privacy policy. 
+You can stop receiving marketing messages from us at any time.
 
-Service providers and advisors: third parties who provide a service to us. For example, third party service providers help support our IT infrastructure, develop analytical information for us about our services and provide professional services such as legal and accountancy services. These third parties will only be allowed to use your personal information in accordance with our instructions and will be required to keep your information secure. 
+You can do this:
 
-Purchasers of our business: personal information may be disclosed or transferred to buyers or perspective buyers of our business or any of our assets as part of any such sale. 
+  * By clicking on the ‘unsubscribe’ link in any email
+  * By email contact@encource.com 
 
-Law enforcement, regulators and other parties for legal reasons: third parties who we are under a legal obligation to disclose your personal information to or to whom we need to disclose your personal information to protect our rights, property or safety or to protect the rights, property or safety of others. We may also disclose personal information to third parties to help detect and investigate illegal activities and breaches of any agreement we have with you. 
 
-We do not disclose information about identifiable individuals to anyone else except as set out above. We may provide third parties with aggregate statistical information and analytics about users of our site or our app but we will make sure no one can be identified from this information before we disclose it. 
 
-Marketing and Advertising
+Once you do this, we will update your profile to ensure that you don’t receive further marketing messages.
 
-By signing up to our service you recognise that we will contact you with information about our services and the latest fashion trends we think are of interest to you. Most messages we send will be by email. If you are using our app we may also send you push notifications. If you do not want to receive marketing messages from us, you will be able to tell us by selecting certain boxes on the forms when we first collect your contact details. 
+Please note that it might take a few days for all our systems to be updated, so you might get messages from us while we process your request.
 
-We send several emails a week to our subscribers and you can adjust the frequency of or the number of emails you receive by changing your preferences in the settings section of your account on our website. 
+Stopping marketing messages will not stop service communications (such as order updates or where you have saved an item which has gone on sale).
 
-You can also opt out of receiving messages by following the instructions outlined below. 
+## Seeing adverts for Endource online
 
-Email – click on the unsubscribe link at the bottom of our marketing emails. If you have an online account with us you may also be able to opt-out of marketing emails through your account settings. 
+We also engage in online advertising, also to keep you aware of what we’re up to and to help you see and find our products.
 
-App push notifications – you can change your push notification preferences at any time in the account settings for the app. 
+Like many companies, we target Endource banners and ads to you when you are on other websites and apps. We do this using a variety of digital marketing networks and ad exchanges, and we use a range of advertising technologies like web beacons, pixels, ad tags, cookies, and mobile identifiers, as well as specific services offered by some sites and social networks, such as Facebook’s Custom Audience service.
 
-Where you have given us permission to do so, we may share your contact details with selected third parties so that they can provide you with information about services that they believe may be of interest to you. We will only do this if you have given us your express consent to do so. 
+The banners and ads you see will be based on information we hold about you, or your previous use of Endource or on Endource banners or ads you have previously clicked on.
 
-If you decide you no longer want us to share your contact details with selected third parties for marketing purposes, you can let us know by contacting us using our contact details at the end of this privacy policy. If you have an online account with us you may also be able to tell us not to share your contact details with third parties through your account settings. 
+## Keeping your information
 
-ONLINE ADVERTISING
+We’ll hold on to your personal data for as long as you have your account, or as long as is needed to be able to provide the services to you, or (in the case of any contact you may have with our Customer Services team) for as long as is necessary to provide support-related reporting and trend analysis only.
 
-We, or our advertising partners, may show advertisements to you on our site, our app, in messages we send to you or on other websites or apps. To do this we, or our advertising partners, collect information about how you use or connect to our site, our app or the types of other web pages, social media services, content and ads you, or others who are using the device you connect to our site or app with, interact with, visit or view. The information collected might also include the IP address of the device you connect to our site or our app. 
+If reasonably necessary or required to meet legal or regulatory requirements, resolve disputes, prevent fraud and abuse, or enforce our terms and conditions, we may also keep hold of some of your information as required, even after you have closed your account or it is no longer needed to provide the services to you.
 
-We, or our advertising partners, use the information that is collected to make sure the adverts you see either on our site, our app, our messages, other parties’ websites and apps (where our partners have advertising space) are more relevant to you. 
+## Your rights
 
-Typically cookies and similar technologies are used to provide this type of advertising. You can find out more about cookies and how to manage their use by reading our [cookie policy](https://web.archive.org/web/20160323191333id_/https%3A//www.styloko.com/static-cookie-policy). 
+You have a lot of rights relating to your personal information:
 
-Storing and transferring your personal information
+  * The right to be informed about how your personal information is being used
+  * The right to access the personal information we hold about you
+  * The right to request the correction of inaccurate personal information we hold about you
+  * The right to request that we delete your data, or stop processing it or collecting it, in some circumstances.
+  * The right to stop direct marketing messages
+  * The right to request that we transfer or port elements of your data either to you or another service provider.
+  * The right to complain to the Information Commissioner’s Office
 
-Cookies and Local Storage: we may store information (which may include personal information) locally on your device using cookies and other browser and application storage methods. For further information please see our [cookie policy](https://web.archive.org/web/20160323191333id_/https%3A//www.styloko.com/static-cookie-policy). 
 
-Security: we implement appropriate technical and organisational measures to protect your personal information against accidental or unlawful destruction, loss, change, or damage. 
 
-International Transfers of your Personal Information: the personal information we collect may be transferred to and stored in countries outside of the jurisdiction you are in. Some of these jurisdictions offer differing levels of protection in respect of personal information and may, in certain instances, be less protective than the jurisdiction you are typically resident in. We will take all reasonable steps to ensure that your personal information is treated securely and in accordance with applicable law and this privacy policy. 
+## Changes to how we protect your privacy
 
-Accessing and correcting your personal information
+We may change this page from time to time, to reflect how we are processing your data.
 
-You have the following rights in relation to your personal information: (i) the right to be informed about how your personal information is being used; (ii) the right to access the personal information we hold about you; and (iii) the right to request the correction of inaccurate personal data we hold about you and to request the blocking or deletion of your personal information where the processing does not comply with local data protection laws. To exercise any of the above rights, or if you have any questions relating to your rights, please contact us by using the details set out in the "Contacting us" section below. 
+## How do we protect your personal data
 
-If there is personal information which you think we hold, please contact us using the contact details set out in the “Contacting us” section below. Please provide as much information as you can about the personal information you are looking for and we will be happy to try and help you find it. 
+Your personal data is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. We implement a variety of security measures when a User places an order, enters, submits, or accesses their information to maintain the safety of your personal data. All financial transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-Links to third party sites
+## Where do we store your personal data
 
-Our site contains links to third party websites of our partner networks, advertisers, partner merchants, news publications, retailers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies. Please check the individual policies before you submit any information to those websites. 
+The personal data we collect from you may be transferred to or stored outside of the European Economic Area (EEA). It may also be accessed by staff operating on our behalf or on behalf of one of our partners who are located outside of the EEA. You expressly agree to the possible processing, transfer or storage of your data in this way.
 
-Changes to this policy
+## Cookies
 
-We may update this privacy policy from time to time and so you should review this policy periodically. When we change this privacy policy in a material way, we will update the "last modified" date at the top of this privacy policy. Changes to this privacy policy are effective when they are posted on this page. 
+Cookies are small files that a website or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the website's or service provider's systems to recognise your browser and capture and remember certain information.
 
-Notice to you
+We use cookies to:
 
-If we need to provide you with information about something, whether for legal, marketing or other business related purposes, we will select what we believe is the best way to get in contact with you. We will usually do this through email or by placing a notice on our site. The fact that we may send notices to you will not stop you from being able to opt out of certain types of contact as described in this privacy policy. 
+  * Help remember and process the items in your box.
+  * Understand and save users’ preferences for future visits.
+  * Keep track of advertisements.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
 
-Contacting us
 
-Questions, comments and requests regarding this privacy policy are welcome and should be addressed to: 
 
-Styloko Limited,   
-21a Noel Street,   
-London W1F 8GR,   
-England. 
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies. Our cookies do not store sensitive information such as your name, address or financial details.
 
-[hello@styloko.com](mailto:hello@styloko.com)
+If you turn cookies off, some features will be disabled. It will turn off some of the features that make your site experience more efficient and some of our services will not function properly.
 
-This Privacy Policy was last modified on 31.04.15
+## Children
+
+We do not specifically market our website to any children under the age of 13. Children under the age of 13 are not permitted to register with us as users and are not permitted to disclose any personal data to us. Should we become aware that any child under the age of 13 has attempted to register with us and/or has attempted to provide personal data to us, we will take immediate steps to remove any such personal data held by us.
+
+## Contact us
+
+If you have any questions about this Privacy & Cookies Policy or about the information we hold about you, then please email us at contact@endource.com or send a letter to Endource, N001A, Vox Studios, 1-45 Durham Street, London SE11 5JH.
