@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tervis.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126143319id_/https%3A//www.tervis.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tervis.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005022002id_/https%3A//www.tervis.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Tervis Official Store
 
