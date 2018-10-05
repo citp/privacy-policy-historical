@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payetteforward.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520085330id_/https%3A//www.payetteforward.com/payette-forward-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payetteforward.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005161752id_/https%3A//www.payetteforward.com/payette-forward-privacy-policy) for the most accurate reproduction.*
 
 # Payette Forward Privacy Policy - Payette Forward
 
@@ -6,7 +6,7 @@
 
 In short, we’re required to have a privacy policy because we allow you to post comments using your Facebook account instead of having to create yet another account for this site. Facebook requires us to have a privacy policy, but it’s a good idea anyway.
 
-The long and short of it is that we don’t know who you are, but we use Google Analytics to see where you’re coming from by anonymously collecting your zip code – **we don’t get any closer than that.** If you want us to know who you are, you’ll tell us. We don’t give away or sell any of your information to third-parties or advertisers or do any of that sort of thing. We only want to be helpful. Here’s a privacy policy that I made using an excellent “Privacy Policy Generator” for websites at <https://www.privacychoice.org/policymaker/>. Thanks for understanding and [Contact Payette Forward](https://www.payetteforward.com/contact) if you have any questions at all.
+The long and short of it is that we don’t know who you are, but we use Google Analytics to see where you’re coming from by anonymously collecting your zip code – **we don’t get any closer than that.** If you want us to know who you are, you’ll tell us. We don’t give away or sell any of your information to third-parties or advertisers or do any of that sort of thing. We only want to be helpful. Thanks for understanding and [Contact Payette Forward](https://www.payetteforward.com/contact) if you have any questions at all.
 
 ## Privacy Policy
 
