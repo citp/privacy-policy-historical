@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the churchtimes.co.uk privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129115152id_/https%3A//myaccount.hymnsam.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchtimes.co.uk privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006055617id_/https%3A//myaccount.hymnsam.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # 
 
 Hymns Ancient Modern is committed to protecting your privacy and have adopted this privacy policy to set out the basis on which your personal information is collected, processed and used.
 
-For the purposes of the Data Protection Act 1998 (the "Act") the data controller is Hymns Ancient and Modern, 13a Hellesdon Park Road NR6 5DR
+For the purposes of the Data Protection Act 1998 and the General Data Protection Regulation (GDPR), 2018, (the "Acts") the data controller is Hymns Ancient and Modern, 13a Hellesdon Park Road, Norwich NR6 5DR UK
 
 Our privacy policy applies to all information you provide about yourself to us ** ** whether ** ** via any of our websites or by other means. 
 
@@ -65,7 +65,7 @@ We will take all reasonable precautions to ensure that all the personal data tha
 
 You have the right to access the personal data which we hold about you and to have any errors corrected.  It is your responsibility to ensure that we have correct contact information.  This will enable us to provide you with the best service possible. We will not hold personal data longer than deemed necessary.
 
-If at any time you wish your personal data to be completely removed from all our systems, or if you just want to update any personal data we have about you, please send an email to ** [admin@norwichbooksandmusic.co.uk](mailto:admin@norwichbooksandmusic.co.uk) **or write to us at Hymns Ancient and Modern, 13a Hellesdon Park Road, Norwich NR6 5DR, United Kingdom.
+If at any time you wish your personal data to be completely removed from all our systems, or if you just want to update any personal data we have about you, please send an email to  **[personaldata@hymnsam.co.uk](mailto:personaldata@hymnsam.co.uk) **or write to us at Hymns Ancient and Modern, 13a Hellesdon Park Road, Norwich NR6 5DR, United Kingdom.
 
 **Privacy Support**
 
