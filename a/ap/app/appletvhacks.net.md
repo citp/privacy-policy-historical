@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the appletvhacks.net privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605164753id_/http%3A//www.appletvhacks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appletvhacks.net privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006115810id_/https%3A//www.appletvhacks.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Apple TV Hacks
 
 **Privacy Policy** ****
 
-This privacy statement covers all websites of[Dreamattic S.A.](http://www.dreamattic.com/) (“Dreamattic”).
+This privacy statement covers all websites of[Dreamattic S.A.](https://www.dreamattic.com/) (“Dreamattic”).
 
 At Dreamattic, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit websites and services (“Services”) published by Dreamattic and how we safeguard your information. Please read this statement carefully before proceeding to access our **** sites. **By using the Services you agree to the terms of this Privacy Policy.**
 
@@ -78,4 +78,4 @@ Whenever Dreamattic changes its privacy policy, we will post those changes to th
 
 
 
-If you have any questions or suggestions regarding our privacy policy, please [contact us](http://www.dreamattic.com/forms/contactus).
+If you have any questions or suggestions regarding our privacy policy, please [contact us](https://www.dreamattic.com/forms/contactus).
