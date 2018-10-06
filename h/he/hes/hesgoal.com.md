@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hesgoal.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531100531id_/http%3A//www.hesgoal.com/page.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hesgoal.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006153323id_/http%3A//www.hesgoal.com/page.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - HesGoal.COM Sports News
 
@@ -6,7 +6,7 @@
 
 **Privacy Policy for www.hesgoal.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us using this form  **[Contact US](https://web.archive.org/web/20180531100531id_/http%3A//www.hesgoal.com/contact.php)**   .
+If you require any more information or have any questions about our privacy policy, please feel free to contact us using this form  **[Contact US](https://web.archive.org/web/20181006153323id_/http%3A//www.hesgoal.com/contact.php)**   .
 
 At www.hesgoal.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.hesgoal.com and how it is used.
 
