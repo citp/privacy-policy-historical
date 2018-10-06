@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the microchipdirect.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619003944id_/http%3A//www.microchip.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microchipdirect.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006055434id_/https%3A//www.microchip.com/about-us/legal-information/privacy-policy) for the most accurate reproduction.*
 
-# Legal - | Microchip Technology Inc.
+# Privacy Policy | Microchip Technology
 
 Microchip Technology Inc. ( **"Microchip"** ) is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and the procedures that we have to safeguard your privacy. This Privacy Policy sets out the information requested from you when you access www.microchip.com, www.microchipdirect.com, or sample.microchip.com (the **"Sites"** ).
 
