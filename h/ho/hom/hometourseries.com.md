@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometourseries.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520190554id_/http%3A//www.ikea.com/ms/en_US/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometourseries.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006192844id_/http%3A//www.ikea.com/ms/en_US/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
 
 # privacy policy - IKEA
 
