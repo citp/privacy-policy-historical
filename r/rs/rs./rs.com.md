@@ -1,166 +1,151 @@
-> *The following text is extracted and transformed from the rs.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213103612id_/http%3A//www.rocketsoftware.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rs.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006021243id_/https%3A//www.rocketsoftware.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rocket Software
+# Global Data Protection and Privacy Notice | Rocket Software
 
-## Overview
+### 1\. Introduction
 
-Rocket Software, Inc., and its subsidiaries* (“Rocket” or “we”, or “our” or “us”), are committed to protecting your personal information and respecting your privacy. 
+Rocket Software (“Rocket,” “we,” “us” or the “Company”) has issued this Global Data Protection and Privacy Notice (“Notice”) to describe how we handle personal information that you may provide to us.
 
-In general, you can visit Rocket on the Web without telling us who you are or revealing any information about yourself. To the extent that you do provide information to Rocket, Rocket will never sell, rent or disclose your personally identifiable information to outside parties for their own marketing purposes without your consent. Rocket may disclose information to third parties in order to provide products and services to you, or related to products you have purchased from Rocket, as further described in this policy
+We respect the privacy of individuals and are committed to handling personal information responsibly and in accordance with applicable law. This Notice sets out the personal information that we collect and process about you, the purposes of the processing and the rights that you have in connection with it.
 
-With your permission, Rocket may send you e-mail regarding our new products, upgrades, or select third party products. We do not disclose your personally identifiable information to such third parties. Please see below regarding how our privacy policy applies when you purchase third party products on our Web Sites, [www.rocketsoftware.com](http://www.rocketsoftware.com/), and affiliated websites, from time to time.
+If you are in any doubt regarding the applicable standards, or have any comments or questions about this Notice, please contact us at the contact details in Section 10 below.
 
-## Information That We Gather and Track
+### 2\. The Types of Personal Information We Collect
 
-Rocket only collects personal information which is reasonably necessary for its dealings with the individuals to whom the information relates. The types of personal information Rocket collects will depend on the particular dealings we have with you.  However, generally, we collect and hold personal information about existing and prospective customers, our third party service providers and suppliers, and employment applicants.
+We may require basic information which identifies you as an individual (“Personal Information”), such as your name, email address and phone number, in order to transact business with you, on behalf of the company you work for, as our customer.  We will only use such Personal Information for the purposes of providing information which you have requested, fulfilling business transactions, or for other purposes set out in this Notice.
 
-The types of personal information that we collect and hold about these individuals includes, but is not limited to:
+We may also collect Personal Information indirectly from third parties, such as our business partners or third party providers of marketing lists.
 
-  * Personal identifiers, such as names, contact details (e.g. email address), job description and, if applicable, language spoken
-  * A customer’s payment details for the purpose of processing the purchase of our products and services
+We may collect the following information:
 
-
-
-Generally, Rocket collects personal information directly from the individuals concerned.  For instance, there are times when we may need to collect information from you through our Web Sites. This generally involves filling out forms so you can download or order a Rocket or third party product from our Web Sites. When you download the products we require you to fill out a form with your name and email address.
-
-Rocket may also collect personal information about individuals indirectly from third parties, such as from our business partners, from third party providers of marketing lists, and through various other methods, including:
-
-  * Cookies
-  * Referrers
-  * IP addresses
-  * System information
+  * Name and job title
+  * Company or organisation
+  * Contact information including email address and telephone number(s)
+  * Demographic information such as postal code, preferences and interests
+  * Language spoken
+  * Other information relevant to customer surveys and/or offers
+  * IT information required to provide access to systems and networks such as IP addresses, log files and login information
+  * Information pertinent to fulfilling business transactions on a customer’s behalf.
 
 
 
-None of these methods can be used to identify, or reasonably identify, you with the exception of cookies, which can optionally store information that you may enter in forms on our Web Sites, as described below.
+We do not collect sensitive information such as racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic data, biometric data, or data concerning health or sexual orientation.
 
-Rocket may use Globally Unique Identifiers (GUIDs) to notify us of the installation of one of Rocket’s products.
+### 3\. Purposes for Processing Personal Information
 
-A "cookie" is an element of data that a Web Site can send to your browser, which may then store it on your system. It can be used to provide you with a tailored user experience. Some Rocket pages use cookies. Cookies are used to better personalize the content, banners and promotions that you and other users will see. We may use the information to research and understand how our users’ habits in the aggregate are similar or different so that we can enhance your experience on Rocket sites and with our products. With your consent, cookies can optionally store information from forms that you fill out on our site so that next time you visit, you do not have to re-enter this information. For example, this would allow you to enter your zip code (or local equivalent) so that next time you visit, you can automatically see local content from your area. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. Rocket does not require that you accept cookies.
+**3.1 Business Transactions with Customers**
 
-A "referrer" is the information passed along by a web browser that references the Web URL you linked from, and is automatically collected by our Web server. This information is collected and used by Rocket to understand the web sites referring traffic to our download pages and to present appropriate content to our potential customers. Referrer information is tabulated by Rocket on an aggregated basis to identify general trends and traffic patterns.
+We process Personal Information through the Company’s global IT systems, which include tools and systems that help us to administer customer accounts, orders and business transactions and share information across Company systems, and with related corporate entities, as described in Section 4.1 below. This includes transferring Personal Information to our servers in the US (see also Section 6.1 below). Our parent company in the US, Rocket Software, Inc. may host these servers or utilize third party servers and applications, but in either case will be responsible for the security access of Personal Information on the systems.
 
-From time to time, Rocket may enter into agreements with content partners that require Rocket to count the number of product downloads and/or product sales stemming from a referral from a content partner site. This information is collected, used and aggregated by Rocket to fulfil the reporting requirements of those agreements. This information may also be combined with the referrer information described above and tabulated on an aggregated basis to identify general trends and traffic patterns. At the time of product download and/or purchase, information you provide to Rocket, including personal information and referring URL’s, is collected in our web server logs and customer database and is kept strictly confidential and not shared with third parties.
+**3.2 Rocket Websites, Marketing, Subscriptions, Social Media**
 
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer so that data (such as the Web pages you request) can be sent to you. They are automatically gathered by our Web server. Rocket will not use your IP address to attempt to identify your personal information.
-
-System information we gather includes time, type of Web browser being used, the operating system/platform, and CPU speed. This information is sent automatically by your Web browser when you are connected to a Web Site and is used by Rocket only for broad demographic statistics. This information is used by Rocket in identifying broad demographic trends and may be used to provide information appropriate for your computer system. You will not be personally identified from this information.
-
-## What We Do With the Information We Gather and Track
-
-The personally identifiable information gathered from the forms you fill out on our Web Sites is used in one of five ways:
+You may provide Personal Information to the Company through our website “contact” page, to request product information or other resources such as product demos, webinars, downloads or documentation, or participate in the Company’s online forums or customer community. Personal Information gathered from the forms you fill out on our websites is used in any of the following ways:
 
   * To provide you with information about our products and services and select third party products, including product alerts, releases, upgrades and patches
   * To ask you to participate in surveys about products, services, news and events
-  * To allow you to purchase and download products
-  * To aggregate broad demographic information in order to understand general user trends, and
-  * To ensure our compliance with export control and other applicable laws and regulations.
+  * To allow you to download products, access webinars or product demos
+  * To access customer support portals or participate in a Blog
+  * To aggregate broad demographic information to understand general user trends
+  * To enable our compliance with export control and other laws and regulations
 
 
 
-At times Rocket retains contractors to perform services for Rocket internally in the course of our business. Consequently, they may have access to information about our customers in providing those services. Such limited access would be available only to the extent needed to perform the services, under the terms of an executed confidentiality and non-disclosure agreement with Rocket, with the requirement that such contractors keep the information strictly confidential and use the information solely on Rocket’s behalf. Rocket does not collect sensitive personal information regarding customers.
+We may make use of Personal Information that we collect to help us administer the website and/or for marketing purposes. We may send you information about products that might be of particular interest to you. In addition to product updates, promotional and informational e-mails that we send to users from time to time, we may, on occasion, invite you to participate in a focus group, phone survey or send you postal mail .
 
-In addition, Rocket discloses the personal information it collects to the following entities:
+On occasion, we may offer customers and website users the opportunity to participate in third party or co-branded promotions, sweepstakes or special programs. The use or transfer of any Personal Information provided for such purposes may be subject to additional terms.
 
-  * Related entities within the Rocket Group, including to Rocket Software Inc. in the United States.  As the parent company, Rocket Software Inc. provides products, support and operations services to its subsidiaries, including centralised corporate functions, such as information technology support and services, and accounting and finance support
-  * Business partners for the purposes of providing services, support and products to customers
-  * Third parties where disclosure is required or authorised by law
+The Internet is a global environment and using the Internet to collect and process data can involve the transmission of data on an international basis. By browsing our website and communicating electronically with us, you acknowledge our processing of data in this way.
 
+The Company’s websites contain links to other websites. Portions of our website make chat rooms, forums, blogs, message boards, and/or news groups available to you. Any information that you disclose in these areas could be made public. Please exercise caution when deciding to disclose any Personal Information. When you have used these links to leave our website, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this Notice. You should review the data protection and privacy statements applicable to such websites.
 
+Our websites use cookies. Most browsers allow you to turn off cookies or to receive a warning before a cookie is stored on your hard drive. Find out more about our cookies in our [Cookie Notice](https://web.archive.org/cookie-notice).  
+You may always opt-out of receiving marketing communications through our subscription center at [http://www.rocketsoftware.com/unsubscribe](https://web.archive.org/unsubscribe)  or, for e-mail communications, by clicking on the link provided at the bottom of our e-mail to you.
 
-Rocket takes reasonable steps to ensure that the personal information it discloses to third parties, including to its related entities, is protected from misuse and unauthorised disclosure.  Disclosure to any unrelated third party is subject to an executed confidentiality and non-disclosure agreement with Rocket, and the transfer of personal data between Rocket entities is subject to data transfer agreements which comply with European and other countries’ data protection regulations.
+If you do not wish us to make use of your Personal Information in this way, please email [gdpr.compliance@rocketsoftware.com](mailto:gdpr.compliance@rocketsoftware.com).
 
-The Rocket Web Sites contain links to other web sites. However, Rocket is not responsible for the privacy practices or the content of such web sites.
+**3.3 Other legitimate business purposes**
 
-## What We Do with Information Gathered When You Acquire Third Party Products
+We may also collect and use Personal Information when it is necessary for other legitimate purposes, such as to help us conduct our business more effectively and efficiently, for example, for general IT resourcing on a global level and information security/management.
 
-Rocket will never sell, rent or disclose to third parties our users’ personally identifiable information collected from the distribution of Rocket products or gathered on a Rocket Web Site. If you purchase a product or service developed or owned by a third party, Rocket may provide to the product owner or licensor the same information you provide to us for purposes of the third party providing the products or services to you.
+**3.4 Legal purposes**
 
-## Special Third Party Relationships
+We also may use your personal information where we consider it necessary for complying with laws and regulations, or to exercise or defend the legal rights of the Company’s global group of companies.
 
-On occasion, Rocket will offer our product users and Web Site visitors the opportunity to participate in third party or co-branded promotions, sweepstakes or special programs. The use of any information provided by a user in entering such a third party promotion will be specified prior to the user providing such information. We will also specify the manner in which such information is to be used. If your personal information is to be shared with a third party for such promotions, it will only be done so with your advance consent.
+### 4\. Who We Share Your Personal Information With
 
-These relationships will be clearly identified by Rocket. The privacy policy or policies governing such third party promotions and/or co-branded programs will be specified.
+**4.1 Within Rocket**
 
-## Communications to our Users
+Employees, contractors and agents of the Company may be given access to Personal Information which we collect, but their use will be limited to the performance of their duties and the reason for processing. Our employees, contractors and agents who have access to your Personal Information are required to keep that information confidential and are not permitted to use it for any other purposes.
 
-In addition to product updates, promotional and informational e-mails that Rocket sends to its users from time to time, we may, on occasion, invite you to participate in a focus group, phone survey or send you postal mail.
+Personal Information may be shared among related entities within the Rocket group of companies, including Rocket Software Inc. (“RSI”) in the United States.  As the parent company, RSI provides products, support and operations services, and centralized corporate functions to its subsidiaries. The Company’s subsidiaries include: Rocket Software (Beijing) Co., Ltd., Rocket Software Canada, Inc., Rocket Software Pty. Ltd., S.A.S. Rocket Software France, Computer Corporation of America (Intl) Ltd., Rocket Software B.V., Rocket Software Deutschland GmbH, Rocket Software UK Limited, Rocket Software Japan Ltd., Computer Corporation of America, and Rocket Software Development India Pvt. Ltd. (For a list of Rocket global locations, please see: [http://www.rocketsoftware.com/company/locations](https://web.archive.org/company/locations).)
 
-You may always opt-out of receiving marketing communications through our subscription center at <http://info.rocketsoftware.com/GlobalSubscriptionManagementEmailFooter_SubscriptionCenter.html> or, for e-mail communications, by clicking on the link provided at the bottom of our e-mail to you.
+**4.2 Business Partners**
 
-Once you supply us with personal information, such as an e-mail address, Rocket does not change the manner of usage of such information from its original purpose, unless we first obtain your informed consent.
+We will never sell, rent or disclose to unaffiliated third parties your Personal Information unless we have your permission or are required by law to do so. When we permit a third party to access Personal Information, we will implement appropriate measures to ensure the information is used in a manner consistent with this Notice and that the security and confidentiality of the information is maintained.
 
-## Security of Personal and Payment Information
+We disclose the Personal Information we collect to the following third parties:
 
-Rocket maintains controls to provide security over certain financial information you provide us, including credit card details, during the purchase process. This is evidenced through:
-
-  * Use of secure connections using SSL to safeguard information when transmitted from the customer’s web browser to Rocket.
-  * Logical authentication security within the databases that store customer’s credit card numbers.
-
-
-
-Rocket employees are required to acknowledge that they understand and will strictly abide by our corporate policies with respect to the confidentiality of user personal information. Passwords are regularly changed pursuant to security protocols.
-
-Rocket transmits customer credit card information through a third party payment processor to its third party bank to process and complete credit card transactions. These third parties transmit and store the personal and financial information provided by customers for credit card transactions through secure systems with security technology, encryption and firewall protection.
-
-Please note that these vendors have their own privacy policies, and although Rocket’s agreement with them does not allow the other transacting party to use this information for anything other than providing payment services, Rocket is not responsible for their actions, including their information protection practices.
-
-You may prevent having Rocket use, transmit or share your personal and financial information for credit card transactions by not providing the information for this purpose and choosing another payment method. By providing this information for credit card transactions, you are consenting to its use in this manner for this purpose.
-
-When permitted or required by law, we may share information with additional third parties for purposes including response to legal process.
-
-## Google Analytics and Advertising
-
-Rocket uses all features of Google Analytics for Display Advertisers. This includes obtaining specific visitor cookie data, such as the source, medium and keyword used to visit our Web Sites. Google Analytics does not store any visitor-specific data and we will not use visitor-specific data in any way related to Google Analytics, Google AdWords, and Remarketing.
-
-Rocket uses remarketing with Google AdWords and analytics to display content-specific advertisements to visitors that have previously visited our site when those visitors go to other websites that have the Google Display Network implemented.
-
-Rocket and other third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on visitors’ past visits to our Web Sites.
-
-When creating remarketing lists, we cannot and do not use any sensitive information about users, including but not limited to health or medical history or information, financial status or other detailed information pertaining to a person’s finances, racial or ethnic origins, religious beliefs or other beliefs of a similar nature, the commission or alleged commission of any crime, political opinions or beliefs, trade union membership, or sexual behavior or orientation.
-
-As Google AdWords advertisers, we are restricted from and will not perform the following actions:
-
-  * Running ads that collect Personally Identifiable Information (PII) including, but not limited to, email addresses, telephone numbers, and credit card numbers
-  * Creating a remarketing list or creating ad text that specifically targets users in ways that are outlined as prohibited
+  * Business partners for the purposes of providing services, support and products to customers. If you purchase a product or service developed or owned by a third party, we may provide to the product owner or licensor the same information you provide to us for purposes of the third party providing the products or services to you.
+  * Third parties where disclosure is required or authorized by law
+  * Service Providers who provide business services to us.  We do so on a "need to know basis" and in accordance with applicable data privacy law.
 
 
 
-You can opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting the Ads Preferences Manager.
+The Company has entered into Data Protection Addenda with its third party subprocessors as applicable. A list of such subprocessors is available at:  
+[http://www.rocketsoftware.com/third-party-sub-processors](https://web.archive.org/third-party-sub-processors).
 
-## Access and correction of your personal information
+**4.3 Lawful Grounds**
 
-You may access and correct the personal information we hold about you by contacting us on the details set out below. Before we provide personal information to you, we may require you to verify your identity by providing us with identification documentation (e.g. drivers licence).
+We may disclose Personal Information to third parties on other lawful grounds, including:
 
-We may recover from you our reasonable costs of supplying you with access to the information you seek.
+  * To comply with our legal obligations, regulation or contract, or to respond to an administrative or judicial process
+  * In response to lawful requests by public authorities (including for national security or law enforcement purposes)
+  * If necessary to exercise or defend against potential, threatened or actual litigation
+  * If necessary to protect the vital interests of another person
+  * In connection with the sale, assignment or other transfer of all or part of our business, or
+  * With your consent.
 
-Rocket will generally provide individuals with access to the personal information we hold about them.  However, in some circumstances, there may be legal, regulatory or administrative reasons to deny access to the requested information.  If access is denied, Rocket will provide reasons for the denial (unless it would be unreasonable to do so).
 
-## Changes to our Privacy Policies
 
-We revise our Web Site Privacy policy to keep it up to date with Rocket products, services and web pages. We will notify you of any changes we make by posting an updated version of this policy on our Web Sites.  Any changes will take effect when they are so posted.  We also post FAQ’s from time to time on specific products.
+### 5\. Controlling Your Personal Information
 
-## What Sites This Covers
+You can request correction, update and deletion of your Personal Information via e-mail sent to [gdpr.compliance@rocketsoftware.com](mailto:gdpr.compliance@rocketsoftware.com), and we will use reasonable efforts to contact you regarding your request. To update or delete your Personal Information or correct an inaccuracy, we may ask you to verify your identity and cooperate with us in our effort.
 
-Rocket owns and maintains a variety of Web Sites. Each of these sites may have their own mailing lists or other methods of contacting customers. All of the sites follow this privacy statement for gathering information or sharing personally identifiable information with third parties.
+### 6\. EEA Residents Only
 
-Rocket will use reasonable efforts to comply with this privacy statement and will take prompt corrective action when it learns of any failure to comply with its privacy statement. Because of the complex and constantly changing nature of our technology and business, Rocket does not guarantee error-free performance under this privacy statement. Rocket shall not be liable for any incidental, consequential or punitive damages relating to this privacy statement.
+**6.1 Transfer of Personal Information**
 
-## Contacting Us about Privacy
+As we operate at a global level, we may need to transfer Personal Information to countries other than the ones in which the information was originally collected. When we export your personal information to a different country, we will take steps to ensure that such data exports comply with applicable laws. For example, if we transfer personal information from the European Economic Area to a country outside it, such as the United States, we will implement an appropriate data export solution such as entering into EU standard contractual clauses with the data importer, or taking other measures to provide an adequate level of data protection under EU law.
 
-If you have any questions about this privacy statement, the practices of our software or Web Sites, or wish to make a complaint about our handling practices, you may contact:
+**6.2 Privacy Rights**
 
-Privacy Officer
+If you are a resident of the European Union, you can object to processing of your Personal Information, ask us to restrict processing of your Personal Information or request portability of your Personal Information. You can exercise these rights by contacting us using the contact details provided in Section 5 above.
 
-Rocket Software, Inc.  
-77 Fourth Avenue  
-Waltham, MA 02451-1468  
-[privacypolicy@rocketsoftware.com](mailto:privacypolicy@rocketsoftware.com)
+You have the right to complain to a data protection authority about our collection and use of your Personal Information. For more information, please contact your local data protection authority. If we have collected and process your Personal Information with your consent, then you can withdraw your consent at any time.  Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Information conducted in reliance on lawful processing grounds other than consent.
+
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
+
+### 7\. Data Retention
+
+Personal Information will be retained no longer than necessary in relation to the business purposes for which such Personal Information is provided and to fulfill legal requirements.
+
+### 8\. Security
+
+We are committed to ensuring that your information is secure. We have put in place appropriate technical, physical and administrative procedures to safeguard and secure the information we collect in order to prevent unauthorised access or disclosure.
+
+### 9\. Updates to This Notice
+
+We reserve the right, in our discretion, to make changes to any part of the website or this Notice.  We may change Notice from time to time by updating this page. You should check this page from time to time to ensure that you are aware of any changes. This Notice is effective from May 25, 2018. By continuing to use the Company’s website and business services, you consent to this Notice as amended.
+
+### 10\. Contact Information
+
+If you have any questions about this Notice, or wish to make a complaint about our data handling practices, you may contact:
+
+Data Protection Officer  
+Rocket Software UK Limited  
+4 The Square, Stockley Park  
+Uxbridge, UB11 1ET   United Kingdom  
+0800 520 0439 (toll free)  
+Email: [DataProtectionOfficer@rocketsoftware.com](mailto:DataProtectionOfficer@rocketsoftware.com)
 
 We will investigate any complaints received in writing and do our best to resolve them with you as soon as possible.
-
-Rocket’s subsidiaries include: Rocket Software (Bejing) Co., Ltd., Rocket Software Canada, Inc., Rocket Software Pty. Ltd., S.A.S. Rocket Software France, Computer Corporation of America (Intl) Ltd., Rocket Software B.V., Rocket Software Deutschland GmbH, Rocket Software UK Limited, Rocket Software Systems, Inc., Rocket Software Systems, Ltd., Inc., Rocket Software Japan Ltd., and Computer Corporation of America
-
-(For a list of Rocket global locations, please see: [http://www.rocketsoftware.com/company/locations](https://web.archive.org/company/locations) )
-
-_Updated 1 July 2015_
