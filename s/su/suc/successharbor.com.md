@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the successharbor.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623141640id_/https%3A//www.successharbor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successharbor.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006224955id_/https%3A//www.successharbor.com/privacy-policy) for the most accurate reproduction.*
 
 # Disclosure - Small Business Advice Help For Startups and Entrepreneurs
 
