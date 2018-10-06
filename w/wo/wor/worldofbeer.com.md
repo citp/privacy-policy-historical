@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldofbeer.com privacy policy that was archived on 2018-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180215103923id_/http%3A//www.worldofbeer.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofbeer.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006142702id_/https%3A//worldofbeer.com/Privacy) for the most accurate reproduction.*
 
 # World of Beer - Privacy Policy
 
