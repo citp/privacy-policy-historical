@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littledebbie.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915101731id_/https%3A//littledebbie.com/12/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littledebbie.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006213729id_/https%3A//littledebbie.com/12/privacy) for the most accurate reproduction.*
 
 # Privacy | Little Debbie
 
@@ -20,7 +20,7 @@ We run website analytics on the information we collect through cookies and IP ad
 
 You are free to set your Internet browser to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings. Check the “Help” menu of your browser to learn how to change your cookie preferences.
 
-To learn more about the use of cookies or other technologies for website analytics and behavioral advertising for delivery of more relevant advertising, and to know your choices about not having this information used by certain entities, please [click here ](https://web.archive.org/12.289/cookies-and-analytics). To learn how to manage privacy and storage settings for Flash cookies, please [click here ](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). Note that our systems do not recognize Do Not Track (DNT) headers from browsers.
+To learn more about the use of cookies or other technologies for website analytics and behavioral advertising for delivery of more relevant advertising, and to know your choices about not having this information used by certain entities, please [click here ](https://web.archive.org/12.289/cookies-and-analytics). To learn how to manage privacy and storage settings for Flash cookies, please [click here ](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). Note that our systems do not recognize Do Not Track (DNT) headers from browsers.
 
 **Information Collected From Other Sources**
 
