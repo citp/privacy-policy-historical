@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidmate.mobi privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601173312id_/http%3A//www.vidmate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidmate.mobi privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006161502id_/http%3A//www.vidmate.com/privacy) for the most accurate reproduction.*
 
 # 
 
