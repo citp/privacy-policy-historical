@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the magicjacksupport.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214110823id_/http%3A//www.magicjack.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicjacksupport.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006202816id_/http%3A//www.magicjack.com/privacy.html) for the most accurate reproduction.*
 
 # magicJack Privacy Policy
+
+**Questions?** Click here for help from magicJack.
 
 The “Companies” (or “we” or “us” or “our” as defined in our Subscriber Agreement) know that you care about how your personal information is used and shared and we take your privacy seriously. Please read the following to learn more about how we use your personal information. All capitalized terms not defined in this Privacy Policy shall have the meanings ascribed to them in the Subscriber Agreement which may be found at: <http://www.magicjack.com/saps> and as may be modified thereafter (the “Subscriber Agreement”).
 
