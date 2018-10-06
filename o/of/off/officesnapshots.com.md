@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officesnapshots.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120050040id_/https%3A//officesnapshots.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officesnapshots.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006160039id_/https%3A//officesnapshots.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Office Snapshots
 
