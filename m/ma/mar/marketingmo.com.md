@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketingmo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055355id_/http%3A//www.marketingmo.com/privacy-policy-and-security-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingmo.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006131127id_/http%3A//www.marketingmo.com/privacy-policy-and-security-statement) for the most accurate reproduction.*
 
-# Privacy Policy | Marketing MO - A Comprehensive Marketing Planning App
+# Privacy Policy | Marketing MO - A Comprehensive Brand Strategy Toolkit
 
 We understand that you care how information about you is stored and shared. In order to provide a safe, secure experience, we will make every effort to ensure that the information you give us remains private, and is used for the purposes described below.
 
