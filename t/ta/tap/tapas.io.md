@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tapas.io privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621162203id_/https%3A//tapas.io/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapas.io privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006115610id_/https%3A//tapas.io/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Tapas
 
@@ -174,7 +174,7 @@ Our Privacy Policy applies to all of the services offered by Tapas Media, but ex
 
 Additionally, some members or visitors may choose to connect to an external third-party site or service, such as Facebook or Google, to register a Tapas account facilitate specific activities such as sharing. Connecting your Tapas account to third-party applications or services is optional. 
 
-Examples of our third-party service providers include:
+### Examples of our third-party service providers include:
 
   * **Google**. We use the Google Sign-in API to allow you to sign up for a Tapas account and log in. We use Google Analytics to understand how our Services perform, and how you use them. We also use Google AdMob to serve some of the ads on Tapas. [Learn how Google processes your data](https://www.google.com/policies/privacy/). You can also [opt-out of Google Analytics](https://tools.google.com/dlpage/gaoptout).
 
@@ -188,6 +188,12 @@ Examples of our third-party service providers include:
 This Privacy Policy does not apply to, nor are we responsible for, third-party cookies, [pixel tags](https://policies.google.com/privacy/key-terms?hl=en#toc-terms-pixel), web beacons, or other tracking technologies, which are covered by such third parties’ privacy policies. For more information, we encourage you to check the privacy policies of these third parties to learn about their privacy practices.
 
 This Policy also does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in advertisements, sites that may include Tapas Media services, or other sites linked from our services, nor companies or organizations who advertise our services. [Learn more about targeted advertising](http://www.aboutads.info/choices) and your choices. 
+
+### Survey serving technology
+
+This app uses Pollfish SDK. Pollfish is an on-line survey platform, through which, anyone may conduct surveys. Pollfish collaborates with Developers of applications for smartphones in order to have access to users of such applications and address survey questionnaires to them. When a user connects to this app, a specific set of user’s device data (including Advertising ID which will may be processed by Pollfish only in strict compliance with google play policies- and/or other device data) and response meta-data (including information about the apps which the user has installed in his mobile phone) is automatically sent to Pollfish servers, in order for Pollfish to discern whether the user is eligible for a survey. For a full list of data received by Pollfish through this app, please read carefully Pollfish respondent terms located at https://www.pollfish.com/terms/respondent. These data will be associated with your answers to the questionnaires whenever Pollfish sents such questionnaires to eligible users. By downloading the application you accept this privacy policy document and you hereby give your consent for the processing by Pollfish of the aforementioned data. Furthermore, you are informed that you may disable Pollfish operation at any time by using the Pollfish “opt out section” available on Pollfish website . We once more invite you to check the respondent’s terms of use, if you wish to have more detailed view of the way Pollfish works.
+
+_APPLE, GOOGLE AND AMAZON ARE NOT A SPONSOR NOR ARE INVOLVED IN ANY WAY IN THIS CONTEST/DRAW. NO APPLE PRODUCTS ARE BEING USED AS PRIZES._  
 
 ## Your choices
 
@@ -252,4 +258,8 @@ Please contact us at [feedback@tapas.io](mailto:feedback@tapas.io) with any q
 
 We regularly review our compliance with our Privacy Policy. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
 
-_Last updated: May 18, 2018_
+**_Last updated: Nov 14, 2018  _**
+
+  * _Added "Survey serving technology" paragraph to the  Third party service providers section._
+
+
