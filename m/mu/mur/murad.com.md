@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the murad.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005062438id_/https%3A//www.murad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the murad.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006123840id_/https%3A//www.murad.com/privacy-policy) for the most accurate reproduction.*
 
 # Unilever Privacy Policy
 
