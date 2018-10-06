@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the csx.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220202257id_/https%3A//www.csx.com/index.cfm/about-the-site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csx.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006152909id_/https%3A//www.csx.com/index.cfm/about-the-site/privacy) for the most accurate reproduction.*
 
 # Privacy - CSX.com
-
-CONTACT US
-
-PRESS RELEASES
 
   * [About the Site](https://web.archive.org/index.cfm/about-the-site/)
   * /Privacy
