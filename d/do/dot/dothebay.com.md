@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dothebay.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607010427id_/http%3A//dothebay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dothebay.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007111455id_/http%3A//dothebay.com/privacy) for the most accurate reproduction.*
 
 # DoTheBay | What to do in The Bay Area
 
