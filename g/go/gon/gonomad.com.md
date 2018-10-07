@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627232627id_/https%3A//www.gonomad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008003719id_/https%3A//www.gonomad.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - GoNOMAD Travel
 
