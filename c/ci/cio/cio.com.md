@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cio.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528095906id_/https%3A//www.cio.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cio.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007032518id_/http%3A//www.cio.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policies | CIO
 
@@ -145,7 +145,7 @@ To confirm that IDGC is processing your personal data, or to access, update or c
 
 This section shall apply to any personal data collected by IDGC from EU residents.
 
-If you want your personal data erased, please send an email to: [requestforgotten@idg.com.](mailto:requestforgotten@idg.com)
+If you want your personal data erased, please send an email to: [preferences@idg.com.](mailto:preferences@idg.com?Subject=Requesting%20to%20be%20forgotten)
 
 #### To opt-out of marketing communications
 
