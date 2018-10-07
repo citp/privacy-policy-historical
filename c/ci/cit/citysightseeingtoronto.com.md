@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citysightseeingtoronto.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517083715id_/https%3A//www.citysightseeingtoronto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysightseeingtoronto.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007041819id_/https%3A//www.citysightseeingtoronto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | City Sightseeing Toronto
 
