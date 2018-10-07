@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the laptopninja.io privacy policy that was archived on 2017-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170309172945id_/https%3A//laptopninja.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptopninja.io privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008010433id_/https%3A//laptop.ninja/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LaptopNinja
-
-**Last Updated: July 21, 2013** |  Published: July 21, 2013 by 
-
-## What information do we collect?
 
 We collect information from you when you use or register on our site.
 
@@ -40,23 +36,23 @@ Cookies allow the server to recognise you when you revisit a website. Websites a
 
 ## Our Cookies Policy
 
-**Here is a list of all the cookies that are set and  their purpose:**
+ **Here is a list of all the cookies that are set and  their purpose:**
 
-**Session Cookies**  are used only during your visit to the Sites and are erased once you close your browser;
+ **Session Cookies**  are used only during your visit to the Sites and are erased once you close your browser;
 
-**Persistent Cookies**  remain on your browser for a period of time, usually for several years from your last visit to the Sites, and enable us to remember you on subsequent visits to provide more relevant content to you on such Sites.
+ **Persistent Cookies**  remain on your browser for a period of time, usually for several years from your last visit to the Sites, and enable us to remember you on subsequent visits to provide more relevant content to you on such Sites.
 
-**Anonymous** **A** **nalytics** **C** **ookies:  **every time a user visits our website, web analytics software provided by a third party generates an anonymous analytics cookie. This cookie can tell us whether or not the site you are viewing has been visited before. It allows us to track such things as how many individual users we have and which browsers users are utilising.
+ **Anonymous** **A** **nalytics** **C** **ookies:  **every time a user visits our website, web analytics software provided by a third party generates an anonymous analytics cookie. This cookie can tell us whether or not the site you are viewing has been visited before. It allows us to track such things as how many individual users we have and which browsers users are utilising.
 
-**Member** **A** **rea/Registration** **C** **ookies:  **when you register with us, we generate cookies that represent whether you are signed in or not. Our servers use these cookies to note which account you are signed in with, and where applicable, if you are allowed access to a particular service.
+ **Member** **A** **rea/Registration** **C** **ookies:  **when you register with us, we generate cookies that represent whether you are signed in or not. Our servers use these cookies to note which account you are signed in with, and where applicable, if you are allowed access to a particular service.
 
-**Advertising** **C** **ookies** **:** are used to determine whether you have seen an advertisement or type of advertisement and how long it has been since you saw that advertisement. In order to do this, we place a cookie on your machine when advertising is shown. We may use cookies to more accurately target advertising to you. These cookies are anonymous. We also set anonymous cookies to users on certain third party sites. If you receive one of those cookies, we may then use it to identify you as having visited that site if you later visit another site. Based on this information, we may serve targeted advertising.
+ **Advertising** **C** **ookies** **:** are used to determine whether you have seen an advertisement or type of advertisement and how long it has been since you saw that advertisement. In order to do this, we place a cookie on your machine when advertising is shown. We may use cookies to more accurately target advertising to you. These cookies are anonymous. We also set anonymous cookies to users on certain third party sites. If you receive one of those cookies, we may then use it to identify you as having visited that site if you later visit another site. Based on this information, we may serve targeted advertising.
 
 Our cookies do not store sensitive information such as your name and address. If you would rather restrict, block or delete cookies, or any other website, you can use your browser to do this.
 
 ## Managing Your Cookies
 
-**Changing your cookie settings**
+ **Changing your cookie settings**
 
 To enable or disable cookies, follow the instructions provided by your browser (usually located within the ‘Help’, ‘Tools’ or ‘Edit’ facility). Alternatively, see below for specific information about how to enable or disable cookies.
 
@@ -98,7 +94,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 ## Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://laptopninja.io/terms-and-conditions/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://laptop.ninja/terms-and-conditions/>
 
 ## Your Consent
 
