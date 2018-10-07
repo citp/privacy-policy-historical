@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxeyard.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225093248id_/http%3A//www.luxeyard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxeyard.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007030656id_/http%3A//www.luxeyard.com/privacy-policy) for the most accurate reproduction.*
 
 # Home Decor for Every Lifestyle | Privacy | LuxeYard
 
