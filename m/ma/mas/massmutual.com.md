@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the massmutual.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709062418id_/https%3A//www.massmutual.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massmutual.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007194833id_/https%3A//www.massmutual.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MassMutual
 
-**UPDATED AS OF: **May 1, 2017**  
+**UPDATED AS OF: December 15 **, 2017**  
 **
 
-MassMutual Financial Group is a marketing name for Massachusetts Mutual Life Insurance Company (“MassMutual”) and its affiliated companies and sales representatives. This online privacy policy is being provided by the following companies in the MassMutual Financial Group:
+This online privacy policy is being provided by the following MassMutual companies:
 
 \-- Massachusetts Mutual Life Insurance Company   
 \-- C.M. Life Insurance Company   
-\-- MML Investors Services   
+\-- MML Investors Services, LLC   
 \-- MML Bay State Life Insurance Company;
 
 At MassMutual (“we”, “us”, or “our”) we are committed to maintaining your confidence and trust as it relates to the privacy of your information. Please read below and learn how we collect, protect, share and use your information as part of our technology platforms, including, without limitation, our websites, interactive features, applications, and social network pages (“Platforms”).
@@ -18,7 +18,7 @@ At MassMutual (“we”, “us”, or “our”) we are committed to maintaining
 
 Information You Provide To Us
 
-We may collect Personal Information (information that can be used to identify you as an individual) such as your name, email, telephone number, home address, demographic information (such as zip code, age), payment information (such as account or credit card number), social security number, medical and health information, checking history, account balances. The types of Personal Information we collect may vary depending on your use of the features of the Platforms. If you are a customer of MassMutual and use the Platforms to access account, contract or policy information, we will handle your information in accordance with our customer privacy notices, which you may [access here](https://web.archive.org/privacy-notices).
+We may collect Personal Information (information that can be used to identify you as an individual) such as your name, email, telephone number, home address, demographic information (such as zip code, age), payment information (such as account or credit card number), social security number, medical and health information, checking history, account balances. The types of Personal Information we collect may vary depending on your use of the features of the Platforms. If you are a customer of MassMutual and use the Platforms to access account, contract or policy information, we will handle your information in accordance with our customer privacy notices, which you may [access here](https://web.archive.org/privacy-notices).
 
 Information We Collect Automatically
 
@@ -36,7 +36,7 @@ We use the information we collect about and from you for a variety of business p
 
 **3\. SHARING OF INFORMATION**
 
-Except as described here or in our customer [privacy notices](https://web.archive.org/privacy-notices), we will not provide any of your Personal Information to any third parties without your specific consent. We may share non-Personal Information, such as aggregate data and Usage Information with third parties. We may also share your information as disclosed at the time you provide your information, as set forth in this Privacy Policy and in the following circumstances:
+Except as described here or in our customer [privacy notices](https://web.archive.org/privacy-notices), we will not provide any of your Personal Information to any third parties without your specific consent. We may share non-Personal Information, such as aggregate data and Usage Information with third parties. We may also share your information as disclosed at the time you provide your information, as set forth in this Privacy Policy and in the following circumstances:
 
 Third Parties Providing Services. We may share your Personal Information with third parties that perform functions on our behalf (or on behalf of our partners) such as:
 
