@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jimmyjazz.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213123721id_/http%3A//www.jimmyjazz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimmyjazz.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007235330id_/http%3A//www.jimmyjazz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Jimmy Jazz Clothing & Shoes
+# Privacy Policy | Jimmy Jazz
 
 This privacy notice discloses the privacy practices for [www.JimmyJazz.com](http://www.jimmyjazz.com/ "www.JimmyJazz.com").  Jimmy Jazz takes your privacy seriously.  This notice applies solely to information collected by this web site. It will notify you of the following: 
 
