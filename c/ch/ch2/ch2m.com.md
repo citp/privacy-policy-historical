@@ -1,147 +1,154 @@
-> *The following text is extracted and transformed from the ch2m.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607095803id_/https%3A//www.ch2m.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ch2m.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007214916id_/https%3A//www.ch2m.com/policies/privacy-policy) for the most accurate reproduction.*
 
-# CH2M Privacy Policy | CH2M
+# CH2M, now Jacobs Privacy Statement & Terms of Use | CH2M
 
-**Effective Date: September 19, 2016**
+**Effective Date: May 25, 2018**
 
-CH2M is committed to privacy. CH2M HILL Companies, Ltd. and its subsidiary companies ("CH2M") acknowledge and honor the privacy of users of [www.ch2m.com](http://www.ch2m.com/) (the “ **Website Visitors** ”) and other services offered through this domain (the “ **Website** ”) and individual representatives of our customers, suppliers and business partners (the “ **Business Contacts** ”). This Privacy Policy (the “ **Policy** ”) applies to Website Visitors and Business Contacts. This Policy describes how your personal information will be treated as you use our Website and services. By continuing to use the Website and our services you signify that you have read, understood, and agree to this Policy as amended from time to time.
+##  **Our identity and role**
 
- **Privacy Shield Certification**
+Thank you for visiting our Website.  Jacobs Engineering Group Inc. and its global subsidiaries and affiliates, including CH2M, (“Jacobs” or “we”) is strongly committed to protecting the privacy of users (“you” or “your”) visiting Jacobs.com (“website” or “Service”).
 
-As part of CH2M’s commitment to privacy, CH2M complies with the EU-U.S. Privacy Shield Framework administered by the U.S. Department of Commerce and enforced by the U.S. Federal Trade Commission with respect to the collection, use and retention of personal information from European Union (EU) member countries. “Personal information” means information which can be used to identify, directly or indirectly, a particular individual, but does not include data that is de-identified, anonymous, or publicly available. We have certified our adherence to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability. CH2M will continue to adhere to the Privacy Shield Principles for as long as we retain your personal information. To learn more about the Privacy Shield program, and to view CH2M’s certification page, please visit <https://www.privacyshield.gov/welcome>.
+We provide engineering services, architectural design services, planning consulting, and other engineering related services for a wide variety of industries including: petroleum, chemical, refining, mining and minerals, fertilizer, pharmaceutical, and other markets.
 
- **Types of Data Collected**  
- _Through use of the Website_
+We act as Controllers of your Personal Data in the areas and context covered by this Privacy Statement. Our contact details are set out at the end of this Privacy Statement.
 
-You can visit this Website without telling CH2M who you are or revealing any personal information about yourself except as set forth in this section.
+ **Privacy**  
+We created this Privacy Statement to tell you how we use your Personal Data, i.e. any piece of information that relates directly or indirectly to you and warrants protection under local privacy laws, including the European General Data Protection Regulations (EU) 2016/679 (GDPR). It is important to us that you understand how we will treat your Personal Data and that you are aware of your rights.
 
-In viewing the Website, CH2M will capture certain technical information from your device regarding: the domain name of the site providing you with Internet access; your Internet protocol (IP) address used to connect your computer to the Internet; your browser type; your type of operating system; the time you spend surfing the Website; the specific pages that you view at this Website; and other items that assist CH2M in administering this Website.
+“Personal Data” means information which can be used to identify, directly or indirectly, a particular individual, but does not include data that is de-identified, anonymous, or publicly available.
 
- _Cookies and Other Tracking Technologies_
+##  **What Personal Data do we collect? Why? How?**
 
-CH2M uses cookies (or other similar tracking technologies) which store information on your computer or device to permit the adaptation of the CH2M Website to better reflect your particular interests, priorities, and preferences.
+Jacobs may collect:  
+(a) Information about your visits to and use of this website, as explained in section “Website Usage Data & Cookies” below;  
+(b) Your email address and other necessary contact information for alerts and newsletters from Jacobs, as explained in section “Alerts & Newsletters”;  
+(c) Your email address and other necessary contact information in the contact forms you fill out to communicate with Jacobs, as explained in section “Contact forms”;  
+(d) Information included in job applications you submit online, as explained in section “Job Applicants”.
 
-Cookies are text files containing small amounts of information which are downloaded to your computer or device when you visit a website. You can find more information about cookies and how to manage them at <http://www.allaboutcookies.org/>.
+Personal Data is collected when you establish an account with our website, after having declared your consent, when you sign up on our website services to ensure user authentication and enable our website to perform the functions you choose.
 
-Strictly necessary cookies - These cookies are essential in order to enable you to move around the Website and use its features, such as accessing secure areas of the site. Without these cookies, services you have asked for, like linking to relevant content, saved searches, and other functionality cannot be provided.
+Personal Data is also collected when you just communicate with us or when you visit our website.  
+In addition to the purposes stipulated in this Privacy Statement, and only to the extent this is explicitly allowed by law or such an obligation is imposed on Jacobs by law, we may use your Personal Data for further purposes under the conditions laid down in local relevant legislation. In any case, Jacobs shall observe transparency and the rest of the principles for lawful processing of your Personal Data.   
 
-Performance cookies - These cookies collect information about how you use the Website, for instance which pages you go to most often, how long you stay and your path through the site pages. These cookies don’t collect information that identifies you. All information these cookies collect is aggregated and therefore anonymous. These cookies are only used to improve how the Website works and help us gather data to improve functionality or retention on the site.
+###  **Website Usage Data & Cookies **
 
-Functionality cookies - These cookies allow the Website to remember choices you make such as your user name, language or the region you are in and provide enhanced, more personal features. These cookies do not track your browsing activity on other websites.
+Jacobs may collect information how the website is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-You may disable cookies by changing the settings on your browser. Please refer to your browser options or other browser instructional materials to learn more about cookie management, and you may check the help menu in your browser for further information.
+We may use such information to provide and maintain the website, notify you about changes to our Service, allow you to participate in interactive features of our Service of the website when you choose to do so, provide customer care and support of the website, provide analysis or valuable information so that we can improve the Service, monitor the usage of the Service, and detect, prevent and address technical issues of the website.
 
-Remember that if you disable cookies it is likely to affect how the Website works and you may not be able to access or use certain areas of the Website or functionality. Unless you have adjusted your browser setting so that it will refuse all cookies, CH2M’s system will place cookies when you log on to the Website.
+These purposes also represent our legitimate interests to administer this website, improve its usability, and improve your browsing experience by personalizing the website.
 
- _Information you submit to CH2M though the Website and Business Contacts_
+Jacobs also uses cookies on the website. Please [click on this link](https://web.archive.org/policies/cookies-policy-consent-request) to read our **[Jacobs Cookies Policy](https://web.archive.org/policies/cookies-policy-consent-request)** and, where relevant, find out how to withdraw your consent to our use of cookies at any time. 
 
-You may choose to give CH2M personal information about yourself through the Website as noted below. This is entirely optional – if you wish to contact CH2M without revealing such personal information then the CH2M postal address and telephone number is provided on the Website.
+###  **Alerts & Newsletters**
 
-From Website Visitors, CH2M may collect the following types of personal information:
+We gather and process information when you subscribe to our press release option. This information is used to send you the press releases, as per your requests and after having obtained your consent to receiving such press releases.
 
-  * contact information;
-  * company information;
-  * photos, social media profile, areas of expertise and any other information visitors choose to provide;
-  * resume and applicant information for those applying to job openings; and
-  * other personal information provided by the Website Visitor.
+To the extent allowed by law, we further use this information to pursue our legitimate interests, in particular for direct marketing purposes regarding similar products and services.
 
+###  **Contact forms**
 
+We gather and process information when you fill out contact forms to communicate with Jacobs, after having obtained your consent. This information is used to send you replies to your queries and provide you, to the extent possible, with any help or guidance requested.
 
-From Business Contacts, CH2M may collect the following types of personal information:
+Where relevant, in particular if you are a supplier or customer of Jacobs, we may also use this information to perform our obligations and pursue our rights under the contract entered into by you and us, including in the context of any legal proceedings if necessary. Such information is also collected and treated at the stage prior to concluding any contract as a follow-up to you placing an order or making any other relevant inquiry. Failure to provide us with such information may prevent us from smoothly performing our obligations in the context of an existing or future contractual relation.
 
-  * contact information;
-  * company information;
-  * financial and billing information;
-  * security authorization and authentication information; and
-  * other personal information provided by the Business Contact.
+Where relevant, in particular if you are a user of Jacobs products or services, we may also use this information to comply with our relevant legal obligations, such as under the legislation regulating product liability.  
 
+###  **Job applicants**
 
+We collect and use information you provide us with when submitting online applications for job vacancies or otherwise when you express your interest to join our team. In such case your Personal Data will be processed in accordance with the separate [Jacobs Recruitment Privacy Notice and Recruitment Terms of Use](https://www.jacobs.com/recruitment-privacy-and-terms).
 
-If you elect to subscribe to the CH2M newsletter or blog, we will also ask you to provide your name and email address. You will have the option to unsubscribe through the unsubscribe mechanism at the bottom of each email, or through the unsubscribe option on the “Blog” section of the Website.
+If you are selected for an opening, your Personal Data shall be further processed in accordance with the separate employee privacy policy enacted by Jacobs at the point of your onboarding.
 
- **Purposes of Collection and Use**
+##  **Sharing your Personal Data?**
 
-CH2M collects and uses personal information of Website Visitors and Business Contacts for the purposes of:
+Without prejudice to any disclosure of information made compulsory by competent authorities and only to the extent such disclosure is required by law, Personal Data you provide to Jacobs may be shared, consistent with applicable law and in accordance with the purposes each time served, as follows:
 
-  * providing information about our services;
-  * personalizing visitors’ experience on our Website;
-  * providing services and support to our customers;
-  * communicating with corporate business partners about business matters;
-  * conducting related tasks for legitimate business purposes;
-  * aggregating data; and
-  * other purposes disclosed at the time of collection.
-
+  * With Jacobs departments, including representatives and employees, as necessary. For instance, Personal Data of newsletters subscribers shall be shared with Jacobs teams that are responsible for marketing. Usage Data shall be processed by Jacobs department that is responsible for our IT functions.
+  * With affiliates and subsidiaries of Jacobs. Please note that Jacobs has a legitimate interest in transmitting your Personal Data within the group of affiliated companies for internal administrative purposes and to better serve the rest of the purposes stipulated in this Privacy Statement.
+  * With third parties and third-party business providers that provide services to Jacobs, such as companies that provide services for employee recruitment, IT-related services, or marketing-related services.
+  * With a third party in the event of a sale, merger, reorganization, or other transaction involving part or all of Jacobs.
+  * With law enforcement agencies if required by law and under the relevant safeguards for the protection of your fundamental rights, in particular where Jacobs reasonably believes unlawful activities, fraud, or bodily injury or death have occurred or the Personal Data may aid an ongoing investigation.
 
 
- **Jobs at CH2M**
 
-When you choose to post a resume to the careers section of the Website and apply to become part of the CH2M team, please note that you will be taken to a third-party URL ([ch2mhill.taleo.net](https://ch2mhill.taleo.net/careersection/iam/accessmanagement/login.jsf?lang=en&redirectionURI=https%3A%2F%2Fch2mhill.taleo.net%2Fcareersection%2Fch2_1st_application%2Fjobapply.ftl)) and these pages will be branded as CH2M. The information you provide via the URL will be used solely for the purposes for which it is provided (including the processing of your application) and will be retained for such period as is necessary to comply with CH2M’s legal and administrative requirements. The information collected and used while on these hosted pages is subject to the following sections of this Policy to the extent applicable to resumes: _Types of Data Collected_ (specifically _Through use of the Website_ ), _Use and Disclosure_ , _Security_ and _Changes to Privacy Policy_.
+All service providers to Jacobs will use Personal Data only for the purposes identified in this notice and will provide services under a contract which restricts use of information to that which is necessary to perform services on our behalf or to comply with legal requirements. 
 
- **Use and Disclosure**
+Because Jacobs operates globally with locations in many different countries, we may transfer your information from one legal entity to another or from one country to another in order to accomplish purposes listed in this notice. We will transfer your Personal Data in a manner that is consistent with applicable legal requirements.  Where applicable with regard to EU Applicants, Jacobs uses the European Union adequacy method of model contract clauses.
 
-When you provide CH2M with personal information about yourself, CH2M will act in a responsible manner, and will only use the information for the purpose for which it was collected. CH2M may provide your information to subsidiaries, affiliates, third party contractors and vendors, purely for the purposes of processing such data on behalf of CH2M to provide the services requested. CH2M will only provide your information to third parties for other purposes when you, the user, specifically requests information from that third party. If a third party service provider providing services on CH2M’s behalf processes personal information in a manner inconsistent with the Privacy Shield Principles, CH2M is potentially liable.
+##  **Security**
 
-CH2M may store, use, and disclose personal information as authorized or required by applicable law, including making disclosures that are necessary or advisable to: (1) protect the rights, health, safety, or property of CH2M or others; (2) allow for lawful national security related or law enforcement investigations; and (3) comply with applicable laws, regulations, or other lawful requirements.
+The security of your Personal Data is important to us. We shall implement appropriate technical and organizational measures to ensure the protection of your privacy and a level of security appropriate to the risks entailed in any processing operation. However, we note that no method of transmission over the Internet, or method of electronic storage is 100% secure. Whilst we strive to use commercially acceptable means to protect your Personal Data, we underline that we shall have no liability for events for which we are not responsible.
 
-Except as stated above, CH2M will not transfer, exchange, license, sell, lease, or otherwise disclose your personal information without your approval; however, CH2M may collect and/or provide aggregated and anonymized statistics about the Website, Website Visitors and Business Contacts to other parties.
+##  **Privacy Shield Certification**
 
- **Links**
+CH2M, as a member of the Jacobs Group, complies with the EU-U.S. Privacy Shield Framework administered by the U.S. Department of Commerce and enforced by the U.S. Federal Trade Commission with respect to the collection, use and retention of personal information from European Union (EU) member countries. We have certified our adherence to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability. CH2M will continue to adhere to the Privacy Shield Principles for as long as we retain your personal information. To learn more about the Privacy Shield program, and to view CH2M’s certification page, please visit <https://www.privacyshield.gov/welcome>.
 
-Please note that this Website contains hyperlinks to other non-CH2M Internet Web sites and CH2M does not control or monitor the privacy policies of those sites.
+ **Links to Other Websites**  
+The website contains hyperlinks to non-Jacobs sites that may be of interest to users. Jacobs does not control or monitor the privacy, accuracy, quality, or integrity of those sites. You should check the Privacy notice and policies of each website you visit. Links to third-party sites are provided solely for your convenience, and any use or submission of data to such sites shall be at your sole risk.
 
- **Transfer of Information Overseas**
+##  **How long does Jacobs keep Personal Data**
 
-CH2M is a global organization and data collected through the Website may be shared outside your country of residence, including through transfer to personnel or equipment located in the United States. By using this Website you consent to the transfer of your information and the processing of such information in the United States and other countries where CH2M and its third party vendors operate. You acknowledge that laws on the processing and transfer of personal information in these third countries may be less protective than the privacy laws in the country where you are based.
+Jacobs limits the use of Personal Data to ways that are compatible and relevant to the purposes for which the Personal Data was collected or subsequently authorized or for which a specific legal basis was used such as legitimate interests, consent, performance of contract, compliance with a legal obligation or otherwise. Jacobs will take reasonable steps to ensure that Personal Data is reliable for its intended use and that the information is accurate, complete, and current.
 
- **Children’s Privacy**
+Personal Data is retained as needed to fulfil the purposes for which it was collected. In addition, Personal Data is also retained in accordance with legal, regulatory, and contractual requirements and in accordance with Jacobs’ retention schedule. In particular, without prejudice to your rights explained in the following section, we will keep your Personal Data, as follows:
 
-CH2M is committed to comply with the United States' Children Online Privacy Protection Act (COPPA). The Website and services are not targeted at children under the age of 13. CH2M does not knowingly collect information from children under the age of 13.
+  * Information about your visits to and use of this website shall be kept only for as long as your use of this website.
+  * Information from your subscription to our website and newsletter lists shall be kept until you retract the consent you provide to send these to you, under Newsletters above. We may contact you on a regular basis to seek for the renewal of your approval of us keeping such information. 
+  * Where relevant, information pertinent to transactions between you and us shall be stored throughout the lifecycle of the transactions concerned and for as long as is necessary for the pursuit of legal claims or required by local law, including amongst others tax legislation.
 
- **Security**
 
-The Website is not designed to store sensitive personal information such as financial or health information, so please do not provide CH2M with such data through the Website. CH2M takes the security of your information seriously so has implemented appropriate technical and organizational security arrangements to protect your personal information, but cannot assure that these measures will be sufficient to protect against unauthorized efforts to access such data.
 
- **Changes to Privacy Policy**
+ **Intellectual Property**  
+The information on this website, including all design, text, images, white papers, press releases, and other information, is protected under United States and other copyright laws and is owned by Jacobs Engineering Group, Inc. or is used under license from the copyright owner. The information may not be copied, downloaded, reproduced, re-posted, transmitted, displayed, distributed, rented, sublicensed, altered, stored for subsequent use, or otherwise used in whole or in part in any manner without Jacobs' prior written consent, except to the extent that such use is authorized under the United States copyright laws.
 
-This CH2M Policy only applies to information collected and maintained by CH2M. CH2M reserves the right to modify this Policy at any time by updating this Policy Web page. If CH2M decides to make any material changes to this Policy, users will be notified by a notice on the Website. We encourage you to periodically review the Website for the latest information on our privacy practices. This Policy was last updated on September 19, 2016.
+Jacobs' logos, trademarks, service marks, and images used on this site are the property of Jacobs Engineering Group Inc., and **may not be used without permission from Jacobs** and then only with proper acknowledgment. Please [Contact us](http://www.jacobs.com/about#contact-us "Contact us") to ask for permission.
 
- **Choice, and Correcting and Updating Your Information**
+ **Disclaimer**  
+While Jacobs attempts to ensure that only accurate information is presented on this website, we assume no responsibility for, and make no representations with respect to, the accuracy of any information presented here. Therefore, all materials and information are presented "AS IS," and Jacobs expressly disclaims any implied or expressed warranties of merchantability, fitness for a particular purpose, or non-infringement of intellectual property relating to such material. In no event, shall Jacobs be liable for any damages whatsoever arising from or related to your access to, or use of, our Website or the information or material presented herein.
 
-You may make requests with regard to the purposes your information is used, you wish to object to our use of your information, request access to it or update or correct it, or if you wish to delete it altogether. CH2M will make a sincere effort to respond in a timely manner to your requests. We will retain and use your information for as long as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements.
+##  **Your rights**
 
- **Contacts**
+You have a right to inquire about the Personal Data Jacobs holds about you.  You have the right at any time to ask access to your Personal Data. In addition to this, you can object to our processing of your Personal Data, and request correction, amendment, deletion or restriction of the processing of your Personal Data and data portability.
 
-For questions regarding this Policy, and all other requests relating to how your data is processed by CH2M, please [contact us](https://www.ch2m.com/contact/feedback) or by regular mail at CH2M’s address for the United States:
+If you want to exercise one or more of your rights, please contact [privacy@jacobs.com](mailto:privacy@jacobs.com) and a request form will be sent to you for completion and return.
 
-CH2M HILL World Headquarters  
-9191 South Jamaica Street  
-Englewood, CO 80112  
-USA
+If you are unhappy with how we’ve handled your Personal Data, please contact Jacobs at: __[privacy@jacobs.com](mailto:privacy@jacobs.com).
 
- **Independent Dispute Resolution for EU Complaints**
+If you’re not satisfied with our response to your complaint or believe our processing of your Personal Data does not comply with data protection law, you can make a complaint to the data protection authority in the country where you usually reside, your country of work or the country of alleged infringement.
 
-To ensure compliance with the Privacy Shield Principles, CH2M provides multiple recourse options for EU citizens as follows:
+For EU residents, you can find your local authority here: <http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm>    Jacobs does not control and cannot be responsible for the content or privacy practices of this website link. 
 
- _Contact CH2M_
+##  **Changes to this Privacy Statement**
 
+Jacobs may make changes to this Privacy Statement. Notification of changes will be posted on this page. You should review this Privacy Statement periodically to keep up to date on our most current policies and practices. This Privacy Statement was last updated on May 25th 2018.
+
+##  **Contact Us** ****
+
+If you have any comments or questions or if there are other things we can do to maximize the value of this website to you, please   [contact us. ](http://www.jacobs.com/workforus/about/index.aspx#contact-us)If you have questions about Jacobs’ privacy practices generally, or wish to report a violation of the provisions of this statement, please contact our Privacy Team at [privacy@jacobs.com](mailto:privacy@jacobs.com) or write to the following address:
+
+Jacobs Engineering Group Inc.  
+Global Privacy Officer  
+1999 Bryan Street, Suite 1200  
+Dallas, Texas 75201  
+United States
+
+   
+ **Independent Dispute Resolution for EU Complaints**  
+To ensure compliance with the Privacy Shield Principles, CH2M provides multiple recourse options for EU citizens as follows:  
+ _Contact CH2M_  
 Should you have a complaint, CH2M encourages you to contact us. Based upon the nature of the inquiry, CH2M’s Data Privacy Officer may also be engaged to review and assist as appropriate. CH2M will respond within 45 days of receipt of the complaint.
 
- _Independent Recourse Mechanism_
-
-If your complaint is not resolved after contacting CH2M, you may seek independent recourse to investigate and resolve the dispute by submitting the complaint to the appropriate Data Protection Authority (DPA) of the EU Member State where CH2M has operations and you reside. The list of DPAs and contact information may be found at:
-
-<http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>
-
+ _Independent Recourse Mechanism_  
+If your complaint is not resolved after contacting CH2M, you may seek independent recourse to investigate and resolve the dispute by submitting the complaint to the appropriate Data Protection Authority (DPA) of the EU Member State where CH2M has operations and you reside. The list of DPAs and contact information may be found at:  
+<http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>  
 CH2M agrees to cooperate with the DPAs in the investigation and resolution of complaints, and comply with the information and advice given by the DPAs. This independent recourse is provided at no cost to you.
 
- _Binding Arbitration_
-
-If your complaint remains unresolved following the independent recourse process, you may invoke binding arbitration by delivering notice to CH2M. Details of the binding arbitration process may be found at:
-
+ _Binding Arbitration_  
+If your complaint remains unresolved following the independent recourse process, you may invoke binding arbitration by delivering notice to CH2M. Details of the binding arbitration process may be found at:  
 <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>
 
-The scope of the arbitration will be limited to the issue of whether CH2M has violated its obligations under the Privacy Shield Principles in relation to your personal information, and whether any such violation remains fully or partially unremedied. The arbitration panel has the authority to impose individual-specific, non-monetary equitable relief (such as access, correction, deletion, or return of your data in question) necessary to remedy the violation of the Privacy Shield Principles only with respect to your claim. No damages, costs, fees, or other remedies are available. Each party bears its own attorney’s fees.
+The scope of the arbitration will be limited to the issue of whether CH2M has violated its obligations under the Privacy Shield Principles in relation to your Personal Data, and whether any such violation remains fully or partially unremedied. The arbitration panel has the authority to impose individual-specific, non-monetary equitable relief (such as access, correction, deletion, or return of your data in question) necessary to remedy the violation of the Privacy Shield Principles only with respect to your claim. No damages, costs, fees, or other remedies are available. Each party bears its own attorney’s fees.
 
-CH2M is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
-
-This Policy applies to CH2M HILL Companies, Ltd., and its subsidiaries CH2M HILL Constructors, Inc., CH2M HILL Engineers, Inc., CH2M HILL Global, Inc., CH2M HILL International, Ltd., and CH2M HILL, Inc.
+CH2M is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.  
+This Privacy Statement applies to CH2M HILL Companies, Ltd., and its subsidiaries CH2M HILL Constructors, Inc., CH2M HILL Engineers, Inc., CH2M HILL Global, Inc., CH2M HILL International, Ltd., and CH2M HILL, Inc.
