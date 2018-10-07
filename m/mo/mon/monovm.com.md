@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monovm.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024215736id_/https%3A//monovm.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monovm.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007155802id_/https%3A//monovm.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - MonoVM.com
 
@@ -26,5 +26,3 @@ MonoVM.com collects personally identifiable information from Users through onlin
 ### How We Use Information
 
 MonoVM.com may use personally identifiable information collected through our Web site to contact Users regarding products and services offered by MonoVM.com and its trusted affiliates, independent contractors and business partners, and otherwise to enhance Users' experience with MonoVM.com and such affiliates, independent contractors and business partners. At no time will MonoVM.com's database of users ever be sold to any entity for the purpose of marketing or mailing lists. Personal information will not be sold or otherwise transferred to our business partners without your prior consent, except that we will disclose the information we collect to third parties when, in our good faith judgment, we are obligated to do so under applicable laws.
-
-Powered by [WHMCompleteSolution](http://www.whmcs.com/)
