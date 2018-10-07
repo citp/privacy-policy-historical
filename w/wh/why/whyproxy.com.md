@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whyproxy.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627172753id_/http%3A//whyproxy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whyproxy.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007170508id_/http%3A//whyproxy.com/privacy.html) for the most accurate reproduction.*
 
 # Terms Of Service
 
