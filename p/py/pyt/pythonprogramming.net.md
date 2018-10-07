@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pythonprogramming.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626122602id_/https%3A//pythonprogramming.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pythonprogramming.net privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007154006id_/https%3A//pythonprogramming.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Python Programming Tutorials
 
