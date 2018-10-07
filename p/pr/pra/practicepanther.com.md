@@ -1,26 +1,18 @@
-> *The following text is extracted and transformed from the practicepanther.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109050729id_/https%3A//www.practicepanther.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicepanther.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008005751id_/https%3A//www.practicepanther.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • PracticePanther.com
 
 **Privacy Policy**
 
-Last updated on September 16, 2016.
+Last updated on May 09, 2018 to comply with GDPR.
 
-This Privacy Policy governs the manner in which PracticePanther Inc collects, uses, maintains and discloses information collected from users (a “User”) of the http://www.PracticePanther.com website (“Site”) and the (“App”) at https://app.practicepanther.com. This privacy policy applies to the Site, App, and all products and services offered by PracticePanther Inc.
+This Privacy Policy governs the manner in which Panther Software, LLC. collects, uses, maintains and discloses information collected from users (a “User”) of the http://www.PracticePanther.com website (“Site”) and the (“App”) at https://app.practicepanther.com. This privacy policy applies to the Site, App, and all products and services offered by Panther Software, LLC.
 
 By accepting the Privacy Policy when signing up for free, registering, entering into a paid subscription plan, or visiting and using the Site or App, you are consenting to our collection, use and disclosure or your personal information in accordance with our Privacy Policy.  If you have any questions relating to this Privacy Policy, please contact us. More information on how to contact us is described below.
 
-**_The Privacy Shield_**
-
-PracticePanther Inc is committed to adhering to the Privacy Shield Principles and is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). Information on the Privacy Shield can be located [https://www.privacyshield.gov](https://www.privacyshield.gov/)
-
-For any complaints that cannot be resolved with PracticePanther Inc directly, PracticePanther Inc has chosen to cooperate with EU data protection authorities (DPAs) and comply with the information and advice provided to it by an informal panel of DPAs in relation to such unresolved complaints (as further described in the Privacy Shield Principles). Please contact us to be directed to the relevant DPA contacts. As further explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means. PracticePanther Inc is subject to the investigatory and enforcement powers of the appropriate U.S. governmental authorities.
-
-PracticePanther Inc’s accountability for personal data that it receives under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. PracticePanther Inc remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless PracticePanther proves that it is not responsible for the event giving rise to the damage, the type of data collected, and the purposes for which the data is collected. Individuals also must be informed of any third parties to whom their data will be transferred, their right to access their data, and the means for limiting the use and disclosure of their personal data.
-
 **_What information do we collect?_**
 
-PracticePanther Inc. is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information in our website, our software, and our mobile services. This Privacy Policy describes our practices in connection with information that we collect in our site, software, and mobile services owned and controlled by PracticePanther Inc. for which you are accessing this Privacy Policy. By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
+Panther Software, LLC. is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information in our website, our software, and our mobile services. This Privacy Policy describes our practices in connection with information that we collect in our site, software, and mobile services owned and controlled by Panther Software, LLC. for which you are accessing this Privacy Policy. By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
 
 **_Personal Information We Collect_**
 
@@ -44,7 +36,7 @@ PracticePanther Inc. is concerned about privacy issues and wants you to be famil
 
   * To respond to your inquiries and fulfill your requests.
   * To send you information we believe may be of interest to you, such as advising you of updates on the software or to inform you of upcoming events, and educational materials.
-  * To send you important information regarding PracticePanther Inc., changes to terms, conditions, and policies and/or other administrative information.
+  * To send you important information regarding Panther Software, LLC., changes to terms, conditions, and policies and/or other administrative information.
   * To send you calendar reminders, event reminders.
   * To allow you to send information and documents to your clients.
   * To send you marketing communications that we believe may be of interest to you.
@@ -66,17 +58,23 @@ We may use Personal Information as we believe to be necessary or appropriate: (a
 
 As of September 06, 2016, PracticePanther complies with the Privacy Shield Framework for European attorneys.
 
+##### **EU General Data Protection Regulation (GDPR)**
+
+As of May 25, 2018, PracticePanther complies with the EU General Data Protection Regulation (GDPR).
+
+[Click here](https://www.practicepanther.com/gdpr/) for more details.
+
 ##### **Data Processing**
 
-Any personal information collected about EU visitors via our websites is processed in the United States by PracticePanther, Inc or by a third party acting on our behalf. When you provide personal information to PracticePanther, Inc, you consent to the processing of your information in the United States. Our websites are hosted in the United States.
+Any personal information collected about EU visitors via our websites is processed in the United States by Panther Software, LLC or by a third party acting on our behalf. When you provide personal information to Panther Software, LLC, you consent to the processing of your information in the United States. Our websites are hosted in the United States.
 
 ##### **Third-Party Websites**
 
-This website contains links to other sites and integrations with other sites that PracticePanther, Inc does not own or control and whose privacy practices may differ from those of PracticePanther, Inc. Please be aware that PracticePanther, Inc. is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our websites. We recommend that you read the privacy statement of each website that collects personal information, as their privacy statement will govern any personal information you submit to those sites. This Privacy Statement applies only to information collected by PracticePanther, Inc. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates.
+This website contains links to other sites and integrations with other sites that Panther Software, LLC does not own or control and whose privacy practices may differ from those of Panther Software, LLC. Please be aware that Panther Software, LLC. is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our websites. We recommend that you read the privacy statement of each website that collects personal information, as their privacy statement will govern any personal information you submit to those sites. This Privacy Statement applies only to information collected by Panther Software, LLC. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates.
 
 ##### **Security**
 
-PracticePanther Inc employs industry standard security measures to ensure the security of information. However, the security of information transmitted through the Internet can never be guaranteed. PracticePanther Inc is not responsible for any interception or interruption of any communications through the Internet or for changes to or losses of information. Users of our sites are responsible for maintaining the security of any password, user ID, or other form of authentication involved in obtaining access to password protected or secure areas of any PracticePanther websites. In order to protect you and your information, PracticePanther Inc may suspend your use of a website, without notice, pending an investigation, if any breach of security is suspected. Access to and use of password protected and/or secure area of any PracticePanther, Inc site is restricted to authorized users only. Unauthorized access to such areas is prohibited and may lead to criminal prosecution. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “Contacting Us” section herein.
+Panther Software, LLC. employs industry standard security measures to ensure the security of information. However, the security of information transmitted through the Internet can never be guaranteed. Panther Software, LLC. is not responsible for any interception or interruption of any communications through the Internet or for changes to or losses of information. Users of our sites are responsible for maintaining the security of any password, user ID, or other form of authentication involved in obtaining access to password protected or secure areas of any PracticePanther websites. In order to protect you and your information, Panther Software, LLC. may suspend your use of a website, without notice, pending an investigation, if any breach of security is suspected. Access to and use of password protected and/or secure area of any Panther Software, Inc site is restricted to authorized users only. Unauthorized access to such areas is prohibited and may lead to criminal prosecution. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “Contacting Us” section herein.
 
 We may disclose Personal Information as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
