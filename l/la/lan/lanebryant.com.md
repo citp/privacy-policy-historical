@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lanebryant.com privacy policy that was archived on 2018-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180116225655id_/https%3A//www.lanebryant.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lanebryant.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007201602id_/https%3A//www.lanebryant.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lane Bryant
 
@@ -12,12 +12,15 @@
   * What is your security policy?
   * How can I verify the security of your Web sites?
   * What are cookies, and do you use them?
+  * Do you use online advertising and analytics providers?
   * Will your privacy and security policies ever change?
   * How can I contact you with my suggestions or questions?
 
 
 
-This policy was last updated and posted in November 2012.
+This policy was last updated and is effective as of September 2018.
+
+This update explains our practices with regard to the use of third-party advertising and analytics providers, including our advertising service provider Conversant, and provides information how to exercise your choices.
 
 This Web site is operated by Charming Direct, Inc. on behalf of Lane Bryant, both affiliates of Charming Shoppes, Inc.
 
@@ -75,7 +78,7 @@ If at any time you would like us to update your personal information or remove y
 
 ## How do I opt out of sharing of my information?
 
-You may [opt out of future unaffiliated third-party disclosures](https://web.archive.org/content.jsp?pageName=ThirdPartyOptOut) of your information. Such opt-out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates, (ii) disclosures to third-party service providers who provide certain services for our business, such as credit card processing, computer system services, shipping, data management, or promotional services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments or otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third party offers you may choose to accept.
+You may [opt out of future unaffiliated third-party disclosures](http://dtmc.lanebryant.com/adinfo/choice/prod/?type=fpc&cid=61731&cname=Lane%20Bryant&cmagic=66b26c&clogo=61731.png&loc=us&lang=en-us) of your information. Such opt-out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates, (ii) disclosures to third-party service providers who provide certain services for our business, such as credit card processing, computer system services, shipping, data management, or promotional services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments or otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third party offers you may choose to accept.
 
 Notice to California Residents - Your California Privacy Rights: Under California law, a California resident with whom Charming Shoppes has an established relationship has the right to request certain information with respect to the types of personal information Charming Shoppes has shared with third parties for their direct marketing purposes, and the identities of those third parties, within the immediately preceding calendar year, subject to certain exceptions. All requests for such information must be in writing and sent to: Charming Shoppes, Inc., 3750 State Street, Bensalem, PA 19020, Attention: Corporate Customer Relations.
 
@@ -100,6 +103,20 @@ We use industry-standard efforts such as firewalls, data-encryption methods and 
 Our Web sites use cookies. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. Generally, we use cookies to remind us who you are; tailor our products and services to suit your personal interests; estimate the number of visitors to our Web sites; track visits to and sales at the stores referenced on our Web sites; process your order; track your status in our promotions, contests, and sweepstakes; and/or analyze our customers' visiting patterns. You can generally set your browser to refuse to accept cookies, or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. We do not use cookies to store any of your personal or financial information on your computer.
 
 In addition, we use third-party companies to help us gather data to assist us in improving your shopping experience and the quality of our Web site. Some of these companies may use cookies on our behalf to conduct this analysis.
+
+## Do you use online advertising and analytics providers?
+
+We may work with network advertisers, ad agencies, analytics service providers, and other vendors to serve our advertisements on third-party web sites, apps, and elsewhere online and to provide us with information regarding use of and traffic on the Web sites (including without limitation the pages viewed and the actions users take when visiting the Web sites) and the effectiveness of our advertisements. For example, if you click on an advertisement for Lane Bryant, our service provider(s) may be able to tell us the advertisement you clicked on and where you were viewing the advertisement. The advertisements you see may be served by one or more third parties, who may use information about your activities on the Web sites, and other web sites and services you visit across the various devices you use, to provide you targeted advertising based upon your interests. Our service providers may collect certain information about your visits to and activity on the Web sites and other web sites and services and may use this information to target advertising to you.
+
+These service providers may set and access their own tracking technologies on your device (including without limitation cookies and web beacons) and may otherwise collect or have access to information about you (such as IP address, browser type, type of device you use to access our Web site and domain name from which you arrived at our Web site, device identifier, location-data, and specific areas on our Web site through which you click, among other information (collectively, “Usage Information”)). Some of these parties may collect Personal Information over time when you visit the Web sites or other online web sites and services. Cookies and web beacons, including without limitation those set by third-party network advertisers, may be used to (among other things): target advertisements, prevent you from seeing the same advertisements too many times, and conduct research regarding the usefulness of certain advertisements to you. We may share certain information such as device identifiers, Usage Information, records of transactions you conduct on our Web sites or offline, and de-identified information with third-party advertising companies, analytics providers, and other vendors for advertising and analytics purposes.
+
+We use a variety of service providers to perform advertising and analytics services, and some of these companies may be members of the Network Advertising Initiative (“NAI”) or Digital Advertising Alliance (“DAA”). You may wish to visit optout.networkadvertising.org, which provides information regarding targeted advertising and the opt-out procedures of NAI members. You may also want to visit optout.aboutads.info, which provides information regarding targeted advertising and offers an opt-out for DAA-participating companies.
+
+For mobile apps, you may be able to limit certain advertising practices using the settings on your phone, tablet or other mobile device. You may also download the AppChoices app at youradchoices.com/appchoices to opt out of the delivery of interest-based advertisements in participating mobile apps.
+
+In addition, we set our own cookie in coordination with our online advertising vendor Conversant, LLC (and its service providers) to assist us in determining which of our offers and advertisements to serve you on our Web sites or elsewhere online. To opt-out of this cookie, click [here](http://dtmc.lanebryant.com/adinfo/choice/prod/?type=fpc&cid=61731&cname=Lane%20Bryant&cmagic=66b26c&clogo=61731.png&loc=us&lang=en-us). Please note that this is a cookie-based opt-out, so it is specific to the browser through which you opt out. If you clear/delete the cookies on your device and/or browser or use a different device or browser, you will need to opt back out using the link above.
+
+Please note opting out through these mechanisms does not opt you out of being served advertising. You will continue to receive non-targeted advertisements while online.
 
 ## Will your privacy and security policies ever change?
 
