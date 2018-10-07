@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lazymeal.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128210510id_/https%3A//lazymeal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazymeal.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007174903id_/https%3A//lazymeal.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
