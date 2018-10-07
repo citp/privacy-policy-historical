@@ -1,42 +1,245 @@
-> *The following text is extracted and transformed from the zosocial.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409001115id_/http%3A//zosocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zosocial.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007194016id_/https%3A//upviral.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ZoSocial
+# Privacy Policy - UpViral
 
-Welcome to our website (zosocial.com).
+Emarky B.V. ("us", "we", or "our") operates the upviral.com website and platform (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-We understand that privacy online is important to users of our Site, especially when conducting business.
+We use your data to provide and improve the service. By using the service, you agree to the collection and use of information in accordance with this policy.
 
-This statement governs our privacy policies with respect to those users of ZoSocial (“Visitors”) who visit without transacting business and Visitors who register to transact business on ZoSocial and make use of the various services offered by ZoSocial (collectively, “Services”) (“Authorized Customers”).
+###  **What kind of data is processed?**
 
-**“Personally Identifiable Information”**  refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
+We collect several different types of information for various purposes to provide and improve our service to you.
 
-**What Personally Identifiable Information is collected?  **We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
+ **Personal Data**
 
-**What organizations are collecting the information?  **In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+While using our service, we ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
-**How does ZoSocial use Personally Identifiable Information?**  We use Personally Identifiable Information to customize ZoSocial, to make appropriate service offerings, and to fulfill buying and selling requests on ZoSocial. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on ZoSocial or information related to the subject matter of ZoSocial. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
+  * Email address
+  * First name and last name
+  * Address, State, Province, ZIP/Postal code, City
+  * Cookies and Usage Data
 
-**With whom may the information may be shared?**  Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
 
-**How is Personally Identifiable Information stored?**  Personally Identifiable Information collected by ZoSocial is securely stored and is not accessible to third parties or employees of ZoSocial except for use as indicated above.
 
-**What choices are available to Visitors regarding collection, use and distribution of the information?**  
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed.
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
 
-**Are Cookies Used on ZoSocial?**  Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and ZoSocial is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
+ **Usage Data**
 
-**How does ZoSocial use login information?  **ZoSocial uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer ZoSocial, track a user’s movement and use, and gather broad demographic information.
+We collect information how the service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on ZoSocial?**  ZoSocial has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information.
+ **Tracking Cookies Data**
 
-Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
+We use cookies and similar tracking technologies to track the activity on our service and hold certain information. Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyse our service. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our service.
 
-**How does ZoSocial keep Personally Identifiable Information secure?**  All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
+For more information about cookies, see our [cookie policy](https://upviral.com/cookie-policy/).
 
-**How can Visitors correct any inaccuracies in Personally Identifiable Information?**  Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by responding to emails as instructed.
+### For what purpose is the data collected?
 
-**Can a Visitor delete or deactivate Personally Identifiable Information collected by ZoSocial?**  We provide Visitors and Authorized Customers with a mechanism to delete Personally Identifiable Information from ZoSocial’s database by responding to emails as instructed. However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
+Emarky B.V. uses the collected data for various purposes:
 
-**What happens if the Privacy Policy Changes?**  We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on ZoSocial. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
+  * To provide and maintain our service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our service when you choose to do so
+  * To provide customer support
+  * To gather analysis or valuable information so that we can improve our service
+  * To monitor the usage of our Service
+  * To detect, prevent and address technical issues
+  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
 
-**Links:**  This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+
+
+### Duration of Processing
+
+We will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+Emarky B.V. will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+### How do we protect your information?
+
+We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. We are committed to protecting your personal information against unauthorized use or disclosure.
+
+### Disclosure to Third Parties
+
+We use a select number of trusted external service providers for certain technical data analysis, processing and/or storage offerings. These service providers are carefully selected and meet high data protection and security standards. We only share information with them that is required for the services.
+
+If Emarky B.V. is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
+
+Under certain circumstances, Emarky B.V. may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+Emarky B.V. may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Emarky B.V.
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+### Your Rights
+
+You have a right to be informed of Personal Data processed by Emarky B.V., a right to rectification/correction, erasure and restriction of processing. You also have the right to receive a structured, common and machine-readable format of Personal Data you provided to us.
+
+We can only identify you via your email address and we can only adhere to your request and provide information if we have Personal Data about you through you having made contact with us directly and/or you using our site and/or service. We cannot provide, rectify or delete any data that we store on behalf of our users or customers.
+
+To exercise any of the rights mentioned in this Privacy Policy and/or in the event of questions or comments relating to the use of Personal Data you may contact our support team: support@upviral.com.
+
+You have the right to withdraw consent at any time, without affecting the lawfulness of the processing that was carried out prior to withdrawing it. Whenever you withdraw consent, you acknowledge and accept that this may have a negative influence on the quality of the site and/or services. You further agree that Emarky B.V. shall not be held liable with respect to any loss and/or damage to your Personal Data if you choose to withdraw consent.
+
+In addition, you have the right to lodge a complaint with the data protection authority in your jurisdiction.
+
+### Service Providers
+
+We employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analysing how our Service is used. These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+####  **Analytics**
+
+We use third-party Service Providers to monitor and analyze the use of our Service.
+
+ **[Google Analytics](https://policies.google.com/privacy) **  
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services.
+
+ **[Facebook Ads Conversion Tracking](https://www.facebook.com/policies)**  
+Facebook Ads conversion tracking is an analytics service provided by Facebook, Inc. that connects data from the Facebook advertising network with actions performed on this Website.
+
+ **[WickedReports](https://www.wickedreports.com/privacy/)**  
+WickedReports is an analytics service provided by Wicked Reports LLC.
+
+[ **HotJar**](https://www.hotjar.com/privacy)  
+The Hotjar Poll & Survey widgets are services that enable interaction with the Hotjar platform provided by Hotjar Ltd.
+
+ **[Visual Website Optimizer](https://vwo.com/privacy-policy/)** (Wingify)  
+We use Visual Website Optimizer as an A/B testing service.  
+Privacy Policy: 
+
+ **[Pingdom](https://www.solarwinds.com/legal/privacy)**  
+Pingdom is a monitoring service provided by Pingdom AB.
+
+####  **Behavioral Remarketing**
+
+Emarky B.V. uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
+
+ **[Google AdWords Remarketing](https://policies.google.com/privacy)** (Google Inc.)  
+AdWords Remarketing is a remarketing and behavioral targeting service provided by Google Inc. that connects the activity of this Website with the Adwords advertising network and the Doubleclick Cookie.
+
+ **[Twitter Remarketing](https://twitter.com/en/privacy)** (Twitter, Inc.)  
+Twitter Remarketing is a remarketing and behavioral targeting service provided by Twitter, Inc. that connects the activity of this Website with the Twitter advertising network.
+
+ **[Facebook Custom Audience](https://www.facebook.com/about/privacy/)** (Facebook, Inc.)  
+Facebook Custom Audience is a remarketing and behavioral targeting service provided by Facebook, Inc. that connects the activity of this Website with the Facebook advertising network.
+
+####  **Hosting and backend infrastructure**
+
+ **[Linode](https://www.linode.com/privacy)**  
+Linode is a hosting service provided by Linode, LLC.
+
+ **[Amazon Web Services](https://aws.amazon.com/privacy/)**  
+Amazon Web Services is a hosting and backend service provided by Amazon.com Inc.
+
+ **[CloudVPS](https://www.cloudvps.com/privacy-statement)**  
+CloudVPS is a hosting service provided by IT Ernity.
+
+####  **Payments**
+
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information. 
+
+The payment processors we work with are:
+
+[ **Stripe**](https://stripe.com/us/privacy)  
+Stripe is a payment service provided by Stripe Inc.
+
+[ **PayPal**](https://www.paypal.com/webapps/mpp/ua/privacy-full)   
+PayPal is a payment service provided by PayPal Inc., which allows Users to make online payments.
+
+####  **Content Commenting**
+
+ **[Disqus](https://help.disqus.com/terms-and-policies/disqus-privacy-policy)**  
+Disqus is a content commenting service provided by Big Heads Labs Inc.
+
+ **[Facebook Comments](https://www.facebook.com/privacy/explanation)**  
+Facebook Comments is a content commenting service provided by Facebook, Inc. enabling the User to leave comments and share them on the Facebook platform.
+
+####  **Interaction and customer support**
+
+ **[Facebook Messenger](https://www.facebook.com/about/privacy/)**  
+The Facebook Messenger Customer Chat is a service for interacting with the Facebook Messenger live chat platform provided by Facebook, Inc.
+
+ **[Freshdesk](https://www.freshworks.com/privacy/)**  
+Freshdesk is a support and contact request management service provided by Freshworks, Inc.
+
+ **[ManyChat](https://manychat.com/privacy.html)**  
+ManyChat is a platform to send and receive messages on Facebook Messenger.
+
+####  **User database management**
+
+ **[ActiveCampaign](https://help.activecampaign.com/hc/en-us/articles/218789997-Privacy-Policy)**  
+ActiveCampaign is a User database management service provided by ActiveCampaign, Inc.
+
+ **[Intercom](https://docs.intercom.com/pricing-privacy-and-terms/privacy/intercom-inc-privacy-policy)**  
+Intercom is a User database management service provided by Intercom Inc. Intercom can also be used as a medium for communications, either through email, or through messages within this Website.
+
+ **[Amazon Simple Email Services](https://aws.amazon.com/compliance/data-privacy-faq/)**  
+Amazon Simple Email Service  
+Amazon Simple Email Service is an email address management and message sending service provided by Amazon.com Inc.
+
+ **[PostMark](https://postmarkapp.com/eu-privacy)**  
+PostMark is a service to send out email messages.
+
+#### Other
+
+ **[Google reCAPTCHA](https://policies.google.com/privacy) **(Google Inc.)  
+Google reCAPTCHA is a SPAM protection service provided by Google Inc.
+
+ **[ThriveCart](https://legal.thrivecart.com/platform/privacy/)**  
+ThriveCart is a check-out system to handle payments and affiliate tracking.
+
+ **[Gravatar](https://automattic.com/privacy/)**  
+Gravatar is an image visualization service provided by Automattic Inc. that allows this Website to incorporate content of this kind on its pages.
+
+ **[Vimeo](https://vimeo.com/privacy)**  
+Vimeo is a video content visualization service provided by Vimeo, LLC that allows this Website to incorporate content of this kind on its pages.
+
+ **[YouTube](https://policies.google.com/privacy)**  
+YouTube is a video content visualization service provided by Google Inc. that allows this Website to incorporate content of this kind on its pages.
+
+[CloudFlare](https://www.cloudflare.com/security-policy/)  
+CloudFlare is a traffic optimization and distribution service provided by CloudFlare Inc.  
+The way CloudFlare is integrated means that it filters all the traffic through this Website, i.e., communication between this Website and the User's browser, while also allowing analytical data from this Website to be collected.
+
+ **[Facebook Social Widgets](https://www.facebook.com/privacy/explanation)**  
+The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc.
+
+[ **Google+ Social Widgets**](https://policies.google.com/privacy)  
+The Google+ +1 button and social widgets are services allowing interaction with the Google+ social network provided by Google Inc.
+
+[ **Twitter Social Widgets**](https://twitter.com/en/privacy)  
+The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc.
+
+ **[LinkedIn Social Widgets](https://www.linkedin.com/legal/privacy-policy)**  
+The LinkedIn share button and social widgets are services allowing interaction with the LinkedIn social network provided by LinkedIn.
+
+###  **Links To Other Sites**
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit. We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+###  **Children's Privacy**
+
+We do not knowingly collect personally identifiable information from anyone under the age of 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+###  **Changes To This Privacy Policy**
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. We will let you know via email and/or a prominent notice on our service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+###  **End Users**
+
+If you are a participant in an UpViral campaign, this section applies to you.
+
+This section should always be read in conjunction with the specific Privacy Policy of the campaign owner which will contain further details regarding the processing of your personal data by the UpViral enabled site.
+
+You can get more information about UpViral by visiting the ‘[about UpViral](https://upviral.com/about-us/)’ section of our site. UpViral assists its users/customers in creating marketing campaigns. In case you have participated in such a campaign, you have the right to see, modify and/or delete your personal information from UpViral.
+
+You can do this by contacting the data controller (the person or organisation who organised the campaign you participated in). You can also access the **[My Data section](https://app.upviral.com/my-data/)** to see, modify and/or delete your personal information.
+
+### Definitions
