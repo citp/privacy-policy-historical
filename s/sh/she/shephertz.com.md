@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shephertz.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107160814id_/http%3A//www.shephertz.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shephertz.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007105022id_/http%3A//www.shephertz.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | ShepHertz | ShepHertz
+# Privacy Policy | ShepHertz
 
 **What information do we collect?**
 
@@ -20,6 +20,17 @@ Any information we collect from you may be used in one of the following ways:
 **How do we protect your information?**
 
 We implement a variety of security measures to maintain the safety of your personal information when you enter, submit or access your personal information.
+
+**General Data Protection Regulation (GDPR):**
+
+We process Personal Data both as a Processor and as a Controller, each as defined in the EU Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 (the “Directive”) and the General Data Protection Regulation (“GDPR”):
+
+– The Customer which Customer End Users provided Personal Data to, with our assistance, will be the Controller for Customer End User Data. We will be the Processor.  
+– For Customer Data, we will be the Controller. We have a Data Protection Officer (as defined in the Directive and GDPR) who is responsible for matters relating to privacy and data protection. Our Data Protection Officer can be reached at [support@shephertz.com](mailto:support@shephertz.com)  
+– For Customers and Customer End Users located in the European Data Region in the European Economic Area (EEA), all processing of Personal Data is performed in accordance with privacy rights and regulations following the Directive, and the implementations of the Directive in local legislation. From May 25th, 2018, the processing will take place in accordance with the GDPR.   
+– All data collected by us through our ShepHertz Platform will be stored exclusively in secure hosting facilities provided by our IaaS providers. We have a data processing agreement in place with our providers, ensuring compliance with the Directive and the GDPR. All hosting is performed in accordance with the highest security regulations. All transfers of data from the EEA is done in accordance with this data processing agreement.  
+– We have adopted reasonable physical, technical and organizational safeguards which substantially mirror the EU safeguards against accidental, unauthorized or unlawful destruction, loss, alteration, disclosure, access, use or processing of data in our possession.  
+– We enable Data Controller to exercise Data Subject’s right to erasure by providing the APIs to delete the data stored with us. We have also updated our client side SDKs so that ShepHertz Customer’s (Data Controllers) customers (Data Subjects) can easily opt-out of being tracked.
 
 **Do we use cookies?**
 
@@ -42,7 +53,9 @@ Because we value your privacy we have taken the necessary precautions to be in c
 Please visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at  
 <http://www.shephertz.com/terms_conditions.php>
 
-**Your Consent** By using our site, you consent to our websites privacy policy.
+**Your Consent:**
+
+By using our site, you consent to our websites privacy policy.
 
 **Changes to our Privacy Policy**
 
