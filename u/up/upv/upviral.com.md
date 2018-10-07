@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upviral.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610004907id_/https%3A//upviral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upviral.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007194016id_/https%3A//upviral.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UpViral
 
@@ -82,7 +82,7 @@ You have a right to be informed of Personal Data processed by Emarky B.V., a rig
 
 We can only identify you via your email address and we can only adhere to your request and provide information if we have Personal Data about you through you having made contact with us directly and/or you using our site and/or service. We cannot provide, rectify or delete any data that we store on behalf of our users or customers.
 
-To exercise any of the rights mentioned in this Privacy Policy and/or in the event of questions or comments relating to the use of Personal Data you may contact our support team: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+To exercise any of the rights mentioned in this Privacy Policy and/or in the event of questions or comments relating to the use of Personal Data you may contact our support team: support@upviral.com.
 
 You have the right to withdraw consent at any time, without affecting the lawfulness of the processing that was carried out prior to withdrawing it. Whenever you withdraw consent, you acknowledge and accept that this may have a negative influence on the quality of the site and/or services. You further agree that Emarky B.V. shall not be held liable with respect to any loss and/or damage to your Personal Data if you choose to withdraw consent.
 
