@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickcritters.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608023827id_/http%3A//www.clickcritters.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickcritters.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007105753id_/http%3A//www.clickcritters.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - [Click Critters]
 
