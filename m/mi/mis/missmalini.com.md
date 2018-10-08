@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the missmalini.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601113434id_/https%3A//www.missmalini.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missmalini.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008180155id_/https%3A//www.missmalini.com/privacy) for the most accurate reproduction.*
 
 # Privacy | MissMalini
 
@@ -121,4 +121,4 @@ Grievance Redressal
 Attn : Grievance Officer  
 Address : Amardeep, 3rd Floor, 17th North Ave, Santacruz West, Mumbai 400054, India  
 Phone Number : (+91) (22) 2661 2022  
-E-Mail Address : info@missmalini.com
+E-Mail Address : [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
