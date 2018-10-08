@@ -1,202 +1,175 @@
-> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604064038id_/http%3A//www.salford.ac.uk/small-print-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008144322id_/https%3A//www.salford.ac.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | University of Salford, Manchester
+# Data Protection, Privacy and Cookies | Data Protection, Privacy and Cookies | University of Salford, Manchester
 
-## Privacy statement for the University of Salford website
+Here at the University of Salford we work hard to ensure that you get the very best experience, whether you are a visitor, a student, a staff-member, alumni or partner, without having to worry if your information is safe.
 
-## Our commitment to privacy
+Outlined below is how & why we collect, use, & share your personal information, & your rights in relation to that data.
 
-University of Salford is committed to respecting and protecting your privacy as a visitor to our website at <http://www.salford.ac.uk/>. We take the issue of privacy very seriously and value the trust you place in us each time you use our services and access this website. This Privacy Statement describes the practices and policies we have put into place to safeguard your personal information that may be gathered and used as you visit our website.
+We know that there’s lots of information here, but we want you to be fully informed – we hope the following sections will answer any questions you have but if not, please do get in touch with us.
 
- **This notice describes how information about you may be used and disclosed, and how you can get access to this information. Please review it carefully.**
+## A bit about Us
 
-The statement may change from time to time so please check back periodically. If you have any questions about our privacy policies, we encourage you to contact us using any of the methods outlined at the end of our Privacy Statement.
+The University of Salford is the “Data Controller” of your personal data & is subject to the data protection legislation & to the General Data Protection Regulation 2016 (“GDPR”). We are registered with the Information Commissioner’s Office (“ICO”) registration number Z469563X and our Data Protection Officer is Andrew Hartley.
 
-## Who is collecting the information?
+## Privacy
 
-University of Salford is collecting information on this website as outlined in this privacy statement.
+We appreciate an individual’s right to privacy & in all situations we strive to achieve a balance between protecting that right & confirming that we have the correct information to ensure we can provide an exceptional experience for all.
 
-## What information do we collect?
+Under the GDPR a number of new principles mean that individuals have greater rights concerning their information & how it is used (see Data Subject Rights) We have detailed an overview of these principles below & included the Privacy Statements for all groups of people who the University of Salford interact with.
 
-### Automatic collection of information:
+The law on data protection sets out a number of different reasons for which an organisation may collect & process your personal data, including:
 
-If you do nothing during your visit but browse through the website or download information, our system will automatically gather and store certain information about your visit. This information does not identify you personally and is used in an aggregate way to help us improve our website and tell us the number of visitors to our site each day.
+#### Public Task
 
-The University uses features of Google Analytics based on Display Advertising (e.g. Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration or Google Analytics Demographics and Interest Reporting).  Using the [Ads Settings](https://www.google.com/settings/ads), visitors can opt out of Google Analytics for Display Advertising and customise Google Display Network ads. 
+To ensure that we meet carry out our role as an institute of higher education & provide our Students with required level of service we need to collect & process relevant personal data.
 
-Please also refer to Google Analytics' [currently available opt outs](https://tools.google.com/dlpage/gaoptout/) for the web.
+For example, when we record your academic results & validate with your previous Further Education provider.
 
-Our web server automatically collects and records the following information:
+#### Consent
 
-  * The visitor's domain name, but not the e-mail address
-  * The visitor's IP address
-  * The name and release number of web browser software used
-  * The operating system used
-  * Date and time you access our site
-  * The address of the website that linked to us (referrer URL)
-  * Demographic information (age, gender and overview of traffic by age and gender)
-  * Overview of traffic by affinity, in-Market and other categories
+In specific situations, we can collect & process your data with your consent.
 
+For example, if you are a Graduate and you tick a box to receive email enquiring if you wish to become a donor.
 
+#### Contract
 
-### Permission-based collection of information:
+In certain circumstances, we need your personal data to comply with our contractual obligations.
 
-At different places on our site depending upon the feature you use, you may be asked to volunteer personal information such as your name, email, mailing address and telephone number.
+For example, when you accept a place at the University we need to capture certain information in order to provide you with the place & service.
 
-The following information is collected with your permission at this website:
+#### Legal compliance
 
-  * Anonymous user survey information
-  * Survey information including personal identification information
-  * The names and e-mail addresses of those who use a feedback form
+If the law requires us to, we may need to collect & process your data.
 
+For example, certain government departments need us to collect and pass on statistical data.
 
+#### Legitimate interest
 
-### How do we use the information we collect?
+In specific situations, we require your data to pursue our legitimate interests in a way which might reasonably be expected as part of running the University which does not materially impact your rights, freedom or interests.
 
-The information we gather automatically and with your permission during your visit to our website is used in the following ways:
+For example, after you graduate, we will send you email newsletters updating you on what is happening here at the University.
 
-  * To monitor, review, measure, and analyse website utilisation
-  * To improve the content and design of our website
-  * To study general usage habits and demographic information for our own marketing research purposes
+When collecting your personal data, we’ll always make clear which data is necessary in connection with a particular service.
 
+Here are some examples of when we collect your information, for further details please take a look at the relevant Privacy Policy.
 
+  * When you visit our website
+  * When you engage with us on social media
+  * If you join us as a Student or Staff member we need to capture data in order to enter into a contract with you
+  * If your image is captured on the CCTV that we deploy across our sites for safety & security
+  * When a donation or a purchase is made
+  * When an individual attends a clinic run by one of the University Schools
 
-The information we obtain when you volunteer personal information is used in the following ways:
 
-  * To respond to your requests
-  * To monitor and improve our customer service efforts
 
+Under the GDPR we are only permitted to collect the minimum amount of information needed to carry out a specific purpose, therefore depending on your relationship with us we collect different amounts of data.
 
+Example, if you are making a decision about university choices & want some information sending to you we would only take your name & contact details (address & email) but if you are joining us as a member of Staff we would need more information, such as date of birth, gender, financial details.
 
-### With whom will the information be shared?
+If your relationship with us changes, we remove all unnecessary information that we hold on you.
 
-The personally identifiable information gathered during your visit to this website is not shared with any organisation for any purpose.
+Example, after Graduation, when you become an Alumni, we no longer need information on attendance or financial details so we will delete these & only retain details that enable us to perform Alumni activity, such as contact details, information on your degree, when you attended the University & details that help us shape our Alumni programme.
 
-## Access and correction of personal information
+Different information is processed for different purposes, some of it is used to improve experience, such as Cookies on the website & other information helps us track performance, comply with legislation or help keep you informed of what is happening here at the University of Salford.
 
-### Review of personal information
+Detailed information about how we use information for different purposes can be found in the relevant Privacy Policies, but here are some examples:
 
-Upon request we provide site visitors with access to:
+  * Website Cookies tell us which pages you find useful, & therefore how we can improve your experience online
+  * We collect & report upon sensitive personal data, such as gender, ethic origin & disability data in order to undertake equal opportunity monitoring
+  * We require financial data to administer financial activity, such as fees, scholarships & bursaries
+  * We take photographs in order to issue Access Passes
+  * Information captured during Research projects will be processed in order to develop our programmes & insight
 
-  * Financial information (e.g., Credit card account information) that we maintain about them
-  * Unique identifier information (e.g., Customer number or password) that we maintain about them
-  * Communications that the consumer/visitor has directed to our site (e.g., E-mails, customer inquiries)
-  * Contact information (e.g., Name, address, phone number) that we maintain about them
-  * A description of information that we maintain about them
 
 
+Data is retained for as long as it is required to perform its purpose, or for as long as is required by law. At the end of that retention period, your data will either be deleted completely or anonymised, for example by aggregation with other data so that it can be used in a non-identifiable way for statistical analysis & business planning.
 
-### How to access and correct personal information
+[View our Record Retention Schedule](https://www.salford.ac.uk/privacy/Records-retention-Policy-v1.4.pdf)
 
-Consumers can access and request correction to this information by:
+Sometimes we share your personal data with trusted third parties, in order to meet our contractual needs or to improve our services.
 
-  * Sending us e-mail to that effect at: [foi@salford.ac.uk](mailto:foi@salford.ac.uk)
+Here’s the policy we apply to those organisations to keep your data safe & protect your privacy:
 
+  * We provide only the information they need to perform their specific services
+  * They may only use your data for the exact purposes we specify in our contract with them
+  * We work closely with them to ensure that your privacy is respected & protected at all times
+  * If we stop using their services, all of your data held by them will either be deleted or rendered anonymous
 
 
-## Our use of cookies
 
-Many websites now use cookies to provide useful features to their visitors by providing customisable and personalised services.
+Examples of the kind of third parties we work with are:
 
-A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. For example, a website may use cookies to store and sometimes track information about you, your preferences, or the pages you last visited.
+  * IT companies who support our website & other business systems.
+  * Operational companies such as the Students Loan Company
+  * Direct marketing companies who help us manage our electronic communications with you
+  * Google Analytics to understand our website usage, this is subject to acceptance of Cookies on our websites. See our [Cookies Notice](https://www.salford.ac.uk/privacy#section3), below, for details
+  * Clinical practices providing health & well-being services
 
-Your browser software can be set to reject all cookies, or to ask you if you would like to accept or decline a cookie from a particular site before it is set. Most browsers offer instructions on how to reset the browser to reject cookies in the Help section of the toolbar. You should know, however, that if you reject a cookie, certain functions and conveniences of a site may not work properly.
 
-We use cookies on our website for the following purposes:
 
-  * Store and sometimes track visitor preferences
-  * Record session information, such as items that consumers add to their shopping cart
-  * Customise web page content on visitors browser type or other information that the visitor sends
-  * Analysis and evaluation of our advertising campaigns
-  * Remarketing activity, showing interest based advertising across the Internet
-  * We will never link the cookie to your personal information
+Whenever you have given us your consent to use your personal data, you have the right to change your mind at any time & withdraw that consent.
 
+You have the right to stop the use of your personal data for direct marketing activity through all channels, or selected channels. We must always comply with your request.
 
+In cases where we are processing your personal data on the basis of our contract with you, public task or for a legitimate interest, you can ask us to stop for reasons connected to your individual situation. We must then do so unless we believe we have an overriding reason to continue processing your personal data, if this is the case we will advise you of the reason.
 
-For certain advertising campaigns and general web traffic analysis, we will make use of 3rd party (including but not limited to Amazon) tracking solutions . Data collected by these 3rd parties on behalf of the University will not be used, either by us or the 3rd party, for any purposes other than those stated above.
+Here are all our Privacy statements, detailing how we collect & use your personal data depending on your relationship with the University of Salford. If you have any questions regarding the statements please get in touch with the person/department listed in the relevant Notice.
 
-## Registration for access
+To protect the confidentiality of your information, we will ask you to verify your identity before proceeding with any request you make under a Privacy Notice. If you have authorised a third party to submit a request on your behalf, we will ask them to prove they have your permission to act.
 
-Some websites require you to provide some personal information through a registration process in order to take advantage of certain website features and to access content areas. For example, a registration form might request your name, telephone number and e-mail address. You might also be asked to voluntarily provide a list of topics that you are interested in so your website experience can be customised to your specific interests and needs.
+More information on how the University collects & uses personal information can be found in the [Notification](https://ico.org.uk/ESDWebPages/Entry/Z5907252) made to the ICO [**https://ico.org.uk/ESDWebPages/Entry/Z469563X**](https://ico.org.uk/ESDWebPages/Entry/Z469563X) or in the relevant Privacy Notice.
 
-Access to some of the features on this website requires registration,and the disclosure of some personal information, which may include:
+## Data Protection
 
-  * Your name
+The GDPR, building on previous data protection legislation, gives people the right to know what information is held about them & requires the University to ensure that personal information relating to living individuals is handled properly, held in confidence & is protected from inappropriate disclosure to third parties.
 
+It provides a comprehensive & modern framework for data protection in the UK. and will give people more control over use of their data, provide new rights to move or delete personal data & impose stronger sanctions for malpractice.
 
+Everyone who collects & manages personal information at the University of Salford must do so in a way that complies with the University's Policy on Data Protection, **<https://www.salford.ac.uk/__data/assets/pdf_file/0005/316733/DataProtectionPolicyV2.0.pdf> **the 6 principles, and the new Individual Rights under GDPR.
 
-## Interactive services and tools
+## Cookies
 
-Interactive services and tools provide website users with a richer and more valuable experience. The tools can provide you with information that is customised according to your personal background and needs.
+Cookies are tiny text files stored on your computer when you visit certain web pages, websites use them to keep track of what you have in your basket, what you are looking at & to remember you when you return to the site.
 
-Some interactive tools may request identifying personal information in order to function. It is important for you to know how your information will be used when it is requested, for what purposes it may also be used, and if it will be shared with any other party.
+Please note that cookies can't harm your computer. We don't store personally identifiable information in cookies we create, but we do use encrypted information gathered from them to help improve your experience of the site. For example, they help us to identify & resolve errors, or to determine the most visited pages.
 
-This site does not use interactive tools that ask you for identifying personal information.
+We will have a full list of the cookies we deploy on the University of Salford website as soon as possible.
 
-## Security of communications
+When you visit [www.salford.ac.uk](https://www.salford.ac.uk/) you may notice some Cookies that aren't related to the University. If you go on to a web page that contains embedded content, for example from YouTube, you may be sent Cookies from these websites. We don't control the setting of these Cookies, so please check the third-party websites for more information about their cookies & how to manage them.
 
-We recognise that many people are concerned about the privacy and protection of information as it is transmitted over the Internet. You should keep in mind that the possibility exists for unauthorised individuals to intercept any email message you send over the Internet. In some cases, information can be encrypted (scrambled or encoded) to make it very difficult to read if it is intercepted during communication. Certain technology and practices allow websites to provide an increased level of security for your personal information when appropriate.
+You can manage Cookies on the site or at a browser level. 
 
-We use the following practices on our website to enhance the level of security for communication and the transmission of personal information:
+For information about managing cookies in your browser, please refer to [www.aboutcookies.org.uk/managing-cookies](http://www.aboutcookies.org.uk/managing-cookies).
 
-  * We have taken reasonable steps to ensure the integrity and confidentiality of personally identifiable information that you may provide
-  * We use e-mail forms to allow our customers to ask questions about our services and programs. These are not hosted on a secure server. The possibility exists that unauthorised individuals may intercept email messages
-  * We are not responsible for the privacy of e-mail messages except those stored in our system
-  * When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site
-  * We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site
+Some sites offer the opportunity to refuse cookies for that site. However please be aware that websites use Cookies to improve experience whilst browsing & for certain functionality, so if you disable Cookies you might not be able to use all functions on the site.
 
+## Contact/Complaint
 
+### How to get in Touch With Us
 
-## E-Commerce, online donations, and online shopping
+Advice & guidance on aspects of data protection within the University of Salford is available from the Information Governance Team, they can be contacted email at: [foi@salford.ac.uk](mailto:foi@salford.ac.uk).
 
-Purchasing items or making donations over the Internet usually requires you to provide your personal identifying information and credit card information on a website. Many people have become accustomed to on-line commerce as a time-saving and useful convenience. There are a number of practices that can make providing your sensitive credit card information more secure and therefore make you feel more comfortable about doing so.
+Our postal address is:
 
-At this time, we do not process credit card payments for donations, merchandise, or services on our website.
-
-## International Enquiries
-
-The data sent in international enquiries to the University for UG and PG programmes via webform will be held by Hobsons plc, on behalf of the University of Salford. Your data will be used for the purposes of dealing with your enquiry, and sending you relevant information about the University of Salford. Neither Hobsons plc nor the University of Salford will pass your details on to any third party. If you wish to remove yourself from the University of Salford's database please contact Hobsons plc, Challenger House, 42 Adler Street, London E1 1EE, or [international-enquiries@salford.ac.uk](mailto:international-enquiries@salford.ac.uk).
-
-## Advertising servers
-
-On-line advertising, such as banner ads, has become commonplace on many websites. Certain websites have developed relationships with third-party advertising servers to display these advertisements on their sites. By clicking on one of these banner ads, you will be taken to another site with different privacy policies. These third party ad servers may also use cookies to collect non-personal information on your preferences and interests via the advertisement you decide to view.
-
-At this time, we do not partner with or have special relationships with any advertising server companies.
-
-## Links to other sites
-
-Websites often provide a number of links that offer direct access to other useful or interesting websites holding potential value to site visitors. Inclusion of the other sites by links does not imply any endorsement of the material or information on the other sites. Users are encouraged to review the privacy statement of each linked site before sharing personal information.
-
-This site includes links to non-affiliated external websites. We have the following practices:
-
-  * We encourage users to review the privacy statement of each linked site, as we cannot be responsible for the privacy practices of other sites
-
-
-
-## Changes in our privacy statement
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we have the following practices:
-
-  * We will use for these new purposes only data collected from the time of the statement change forward.
-
-
-
-## Preference for future use of information
-
-You may prevent your information from being used for purposes other than those for which it was originally collected by:
-
-  * Sending us e-mail to that effect at: [m.stephenson@salford.ac.uk](mailto:m.stephenson@salford.ac.uk)
-
-
-
-## Website contact information
-
-Please contact us If you have questions about our privacy statement.
-
+Information Governance Officer  
+Legal and Governance Directorate  
+Maxwell 6th floor  
 University of Salford  
-The Crescent  
-Salford, Lancashire, M5 4WT
+M5 4WT
 
-Contact: Matthew Stephenson  
-E-mail: [m.stephenson@salford.ac.uk](mailto:m.stephenson@salford.ac.uk)  
-Telephone: +44 (0) 161 2953152
+### If You Have a Complaint
+
+If you feel that your data has not been handled correctly, or you are unhappy with our response to any requests you have made to us regarding the use of your personal data, please get in touch with the contact listed in the relevant Privacy Notice. If you wish to escalate any issue or complaint further please contact:
+
+Data Protection Officer  
+Legal and Governance Directorate  
+Maxwell 6th floor  
+University of Salford  
+M5 4WT
+
+Additionally, you have the right to lodge a complaint with the Information Commissioner’s Office (“ICO”)
+
+You can contact them by calling [0303 123 1113](tel:03031231113) or go online to [www.ico.org.uk/concerns](http://www.ico.org.uk/concerns) (opens in a new window; please note we can't be responsible for the content of external websites)
+
+If you are based outside the UK, you have the right to lodge your complaint with the relevant data protection regulator in your country of residence.
