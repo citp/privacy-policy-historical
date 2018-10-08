@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitstpeteclearwater.com privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324082630id_/https%3A//www.visitstpeteclearwater.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitstpeteclearwater.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008153706id_/https%3A//www.visitstpeteclearwater.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Visit St Petersburg Clearwater Florida
 
@@ -13,7 +13,7 @@ Our postal address is:
 Suite 200  
 Largo, FL 33777
 
-We can be reached via e-mail at [info@VisitSPC.com](mailto:info@VisitSPC.com).
+We can be reached via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#721b1c141d32241b011b062122315c111d1f).
 
 ### About Privacy
 
@@ -57,7 +57,7 @@ Visit St. Pete/Clearwater recognizes the importance of safeguarding personal inf
 
 ### Privacy Inquiries
 
-If you have concerns or questions regarding Visit St. Pete/Clearwater's consumer privacy practices, please forward them to [Privacy@VisitSPC.com](mailto:Privacy@VisitSPC.com).
+If you have concerns or questions regarding Visit St. Pete/Clearwater's consumer privacy practices, please forward them to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#aefedcc7d8cfcdd7eef8c7ddc7dafdfeed80cdc1c3).
 
 ### Unsubscribe
 
