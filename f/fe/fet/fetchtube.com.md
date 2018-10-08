@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fetchtube.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503171516id_/http%3A//fetchtube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetchtube.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008174514id_/https%3A//www.fetchtube.com/privacy.php) for the most accurate reproduction.*
 
-# FetchTube.com
+# Fetchtube.com | Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact through our [contact form](http://www.fetchtube.com/contact.php)   
 At FetchTube, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by FetchTube and how it is used.   
