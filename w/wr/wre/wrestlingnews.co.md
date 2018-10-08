@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrestlingnews.co privacy policy that was archived on 2018-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180316022014id_/http%3A//wrestlingnews.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlingnews.co privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008171131id_/http%3A//wrestlingnews.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wrestling News
 
