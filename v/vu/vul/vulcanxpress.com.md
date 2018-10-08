@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vulcanxpress.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609153848id_/http%3A//www.vulcanxpress.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vulcanxpress.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008174142id_/http%3A//vulcanxpress.com/privacy.php) for the most accurate reproduction.*
 
 # Vulcan
 
