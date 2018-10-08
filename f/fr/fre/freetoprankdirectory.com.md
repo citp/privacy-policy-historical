@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetoprankdirectory.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100055id_/http%3A//www.freetoprankdirectory.com/websiteprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetoprankdirectory.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008120502id_/http%3A//www.freetoprankdirectory.com/websiteprivacypolicy.html) for the most accurate reproduction.*
 
 # Top Rank Web Marketing Promotion Directory - WebSitePrivacyPolicy
 
