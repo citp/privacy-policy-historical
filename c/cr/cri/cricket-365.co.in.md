@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricket-365.co.in privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601225630id_/http%3A//ww4.cricket-365.co.in/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricket-365.co.in privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008062333id_/http%3A//ww4.cricket-365.co.in/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
