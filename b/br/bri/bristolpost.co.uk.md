@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bristolpost.co.uk privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528120314id_/https%3A//www.bristolpost.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bristolpost.co.uk privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009000855id_/https%3A//www.bristolpost.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Bristol Live
 
