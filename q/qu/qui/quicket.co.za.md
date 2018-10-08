@@ -1,121 +1,124 @@
-> *The following text is extracted and transformed from the quicket.co.za privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913052432id_/https%3A//www.quicket.co.za/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quicket.co.za privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008203920id_/https%3A//www.quicket.co.za/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Quicket
 
-Welcome to the www.Quicket.co.za website (including all webpages, subdomains and subparts therein contained, the "Site") of Munyhub Online Ticketing (Pty) Ltd t/a Quicket ("Quicket", "we", "us" and/or "our"). The Site has been created (i) to provide information about Quicket, (ii) to provide customized online event management, registration and ticketing services (the "Quicket Services"), and (iii) to provide information about events listed on the Site. 
+## Who We Are, And What Services We Offer:
 
-This Privacy Policy sets forth Quicket's policy with respect to information, including personally identifiable information ("Personal Data"), that is collected from Site users and visitors (including through those users' and visitors' agents) ("you" or "your"), including (i) registered users who are event organizers and planners ("Organizers"), (ii) registered users who want to purchase tickets to, register for or donate to events (whether free or paid) listed by Organizers on the Site ("Buyers"), and (iii) other non-Organizer users or visitors to the Site ("other non-Organizers"). 
+Quicket is an online ticketing platform, through which event organisers can promote and sell tickets for events. Quicket is operated by Munyhub Online Ticketing (Pty) Ltd, a private company registered in South Africa with registration number 2011/110621/07.
 
-Quicket takes the privacy of your Personal Data and other information seriously. Because of that, Quicket has created this Privacy Policy. Please read this Privacy Policy as it includes important information regarding your Personal Data and other information. 
+This privacy policy sets out with greater clarity how we handle data that we collect from users of, and visitors to, our website, including:
 
-If you have any questions or concerns, please do not hesitate to contact us by using the following link: https://www.quicket.co.za/contactus.aspx. 
+(i) Quicket account holders who are event organisers and planners ("Organisers");  
+(ii) Quicket account holders who want to buy tickets, or register for events, or donate to events ("Buyers"); and  
+(iii) other users or visitors to our website. 
 
-## Consent:
+If you have any questions or concerns about your data, please contact us at support@quicket.co.za or call us on +27 21 424 9308. 
 
-By using the Site or allowing someone to use the Site on your behalf, you are consenting to our collection, use, disclosure, transfer and storage in accordance with this Privacy Policy of any Personal Data or other information received by Quicket as a result of such use. 
+We may update this policy from time to time by publishing a new version on our website. You should check this page occasionally to ensure you are happy with any changes to this policy. We may notify you of changes to this policy by email or public notice on our website. 
 
-## Information We Collect:
+## What Data do we Process?
 
-When you interact with us through the Site, we may collect Personal Data and other information from you, as further described below: 
+We only collect and process data where we have a legal basis to do so: 
 
-### 1\. Personal Data:
+### 1\. Data Necessary to Perform a Ticket Purchase.
 
-Organizers: We collect Personal Data from you when you voluntarily provide such information on the Site, such as when you register for access to the Quicket Services as an Organizer, contact us with inquiries, respond to one of our surveys or use certain Quicket Services. The Personal Data we collect includes without limitation your name, email address and other personally identifiable information. In addition, if you use our payment processing services, we will collect financial information from you (e.g., your bank account information) as necessary to facilitate payments. 
+In order to facilitate a legally valid online sale of tickets for, or donations to, events, we need to collect certain essential data which is submitted by users of our website. This includes information which identifies the relevant Organiser, and Buyer(s), such as names and email addresses, information regarding the event for which a ticket is purchased, the type of ticket purchased, the ticket price, and financial information pertaining to the Organiser and the Buyer, so that online payments may be facilitated. 
 
-Buyers and other non-Organizers: We collect Personal Data from you when you voluntarily provide such information on the Site (including event registration pages within 
+### 2\. Data in which we have a Legitimate Interest.
 
-the Site), such as when you register for access to the Quicket Services (whether as an Organizer or otherwise), register for an event as a Buyer, contact us with inquiries, respond to one of our surveys or use certain Quicket Services. The Personal Data we collect includes without limitation your name, email address and other personally identifiable information. If you register for a paid event, we will collect financial information from you (e.g., your credit card number and expiration date, billing address, etc) some of which may constitute Personal Data. 
+We have a legitimate interest in collecting and processing data which enables us to operate our ticketing platform and provide the ticketing services we offer. For Organisers and Buyers, this data collected by us may include:  
 
-Privacy Policy Links: We make an effort to provide a link to this Privacy Policy in the footer of every page on the Site, including those pages on which Personal Data is collected. 
 
-### 2\. Non-Personal Data:
-
-Non-Identifiable Data: When you interact with the Site, we collect certain personally non- identifiable information ("Non-Personal Data"). The Non-Personal Data we collect includes without limitation Internet Protocol (IP) addresses, domain names of your Internet Service Provider, your approximate geographic location, a record of the Site pages that you visit, the time of your visits and aggregated Personal Data that cannot be used to specifically identify you. Such information, which is collected passively using various technologies is strictly for statistical purposes and cannot, in and of itself, be used to specifically identify you. 
-
-Cookies: In operating the Site, we use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Site gives to your browser when you access the Site. Our cookies help provide additional functionality to the Site and help us analyse Site usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Site without needing to remember and then enter a password more than once during a visit to the Site. These cookies may be used to tailor content you see on the Site as well as other sites that you may visit in the future. Through your web browser's option settings you may be able (i) to receive notifications when you are receiving new cookies, (ii) to disable cookies or (iii) to delete cookies. Please refer to your web browser's help section for information on how to do this. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Site's features. 
-
-Google Analytics: This cookie allows us to see information on user website activities including, but not limited to page views, source and time spent on website. The information is depersonalised and is displayed as numbers, meaning it cannot be tracked back to individuals. This will help to protect your privacy. Using Google Analytics we can see what content is popular on our website, and strive to give you more of the things you enjoy reading.   
-If you are logged in to the Site, we attach a non personally identifiable cookie to your device which contains no information about you. This is done in to improve our understanding of how users interact across devices with our website. If you would prefer this cookie not be set when you are logged in please contact us so we can disable this for you. 
-
-DoubleClick: We use remarketing codes to log when users view specific pages, allowing us to provide targeted advertising in the future when you visit other websites which display Google Ads. 
-
-Aggregated Personal Data: In an on-going effort to better understand and serve the users of the Site and Quicket Services, Quicket often conducts research on its customer demographics, interests and behaviour based on Personal Data and other information that we have collected. This research may be compiled and analysed on an aggregate basis and this aggregate information is strictly for statistical purposes and does not identify you personally and therefore is considered and treated as Non-Personal Data under this Privacy Policy. 
-
-## Our Use of Information That We Collect:
-
-### 1\. Personal Data:
-
-Quicket uses the Personal Data we collect in a manner that is consistent with this Privacy Policy. Quicket may use the Personal Data as follows: 
-
-  * Specific Reason: If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem and will respond to the email address from which the contact came. 
-  * Access and Use: If you provide Personal Data in order to obtain access to or use of the Site or Quicket Services or any functionality thereof, we will use your Personal Data to provide you with access to or use of such services or functionality and to monitor your use of such services or functionality. For instance, if you supply payment information (e.g., bank account or credit card information) to the Site for the purpose of purchasing tickets as a Buyer or processing payments as an Organizer, Quicket will use that information to facilitate such purchase or process such payments.
-  * Internal Business Purposes: Quicket may use your Personal Data for internal business purposes including without limitation to help us improve the content and functionality of the Site, to better understand our users, to improve the Quicket Services, to protect against, identify or address fraudulent activities, to enforce our Terms of Service, to manage your account and provide you with customer service, and to generally manage the Site, Quicket Services and our business.
-  * Marketing: Quicket may use your Personal Data to contact you in future marketing and advertising purposes, including without limitation to inform you about services or events we believe might be of interest to you, to develop promotional or marketing materials and provide those materials to you, and to display content and advertising on the Site that we believe might be of relevance to you. In particular, Organizers should note that Quicket may use information it receives or collects regarding Buyers (including without limitation via an Organizer's event registration page) in accordance with the terms of this Privacy Policy, including in the manner set forth above.
+  * Name
+  * Email address
+  * Credit Card Information of a Buyer
+  * Bank Details of an Organiser, or a Buyer
+  * Password
+  * User Name
+  * Year of Birth or Age
+  * Contact Information submitted by the user
+  * Information submitted by a user as part of a support request.
 
 
 
-If Quicket intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected. 
+We may collect indirect information from all users of our website in order to maintain our website’s basic functionality, or to anonymously track what users do on our website, in the form of cookies. This includes IP addresses, and web browser information. 
 
-### 2\. Non-Personal Data:
+### 3\. Data for which you have provided Consent.
 
-Because Non-Personal Data cannot be used to personally identify you, Quicket may use such information for any lawful purpose. 
+As an Organiser or Buyer, when creating an account with Quicket, you are asked to consent to us collecting and processing data in accordance with this policy.   
+Buyers who are not account holders are asked to consent to us collecting data submitted by the Buyer during the ticket purchase process.   
+All users of our website consent to the use of cookies when landing on any page of our online platform for the first time.   
+Your consent may be withdrawn at any time, but only in relation to the processing of data which is not necessary for our website to function, for a valid transaction to be concluded via our website, or as part of our legitimate interest in operating our ticketing platform and providing the ticketing services we offer. 
 
-## Our Disclosure of Information That We Collect:
+## How do we Collect Data?
 
-### 1\. Personal Data:
+### 1\. Direct Collection
 
-Quicket is not in the business of selling your Personal Data. We consider this information to be a vital part of our relationship with you. Therefore, Quicket will not sell your Personal Data to third parties, including third party advertisers. There are, however, certain circumstances in which we may disclose, transfer or share your Personal Data with certain third parties without your consent, as set forth below: 
+Data will be submitted by Organisers and Buyers at the time a Quicket account is created, or at the time a ticket purchase, or donation, is made. Data may also be submitted by users submitting information or help requests, completing surveys 
 
-Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. Subsidiaries and Affiliates: We may also share your Personal Data with our subsidiaries and/or affiliates for purposes consistent with this Privacy Policy. Our subsidiaries and affiliates will be bound to maintain that Personal Data in accordance with this Privacy Policy. 
+### 2\. Indirect Collection
 
-Agents, Consultants and Related Third Parties: Quicket, like many businesses, sometimes engages other companies to perform certain business-related functions. Examples of such functions include mailing information, ticket fulfilment, maintaining databases and processing payments. When we engage another company to perform such functions, we may provide them with information, including Personal Data, in connection with their performance of such functions. 
+We use cookies and similar technologies on our website: 
 
-Organizers: When you purchase tickets to, register for or donate to an event on our Site, you consent to our providing your Personal Data to the Organizers of such event. These Organizers are not bound to treat your Personal Data in accordance with this Privacy Policy. You agree that Quicket is not responsible for the actions of these Organizers with respect to your Personal Data. It is important that you review the applicable policies of the Organizers of an event before providing Personal Data or other information in connection with that event. 
+  * cookies that are required for our website to operate normally (these do contain personally identifiable information);
+  * anonymous tracking cookies used to determine what users do on our website e.g. Google Analytics (these do not by themselves contain personally identifiable information);
+  * third party cookies e.g. cookies used for tracking site usage from a third- party platform (such as Facebook) and/or for re-marketing. Users are asked to consent to this type of cookie monitoring and this consent may be withdrawn at any time.
 
-Legal Requirements: Quicket may disclose your Personal Data if required to do so by law (including, without limitation responding to a subpoena or request from law enforcement, court or government agency) or in the good faith belief that such action is necessary (i) to comply with a legal obligation, (ii) to protect and defend the rights or property of Quicket, (iii) to act in urgent circumstances to protect the personal safety of users of the Site or the public, or (iv) to protect against legal liability. 
 
-### 2\. Non-Personal Data:
 
-Because Non-Personal Data cannot be used to personally identify you, Quicket may disclose, transfer or share Non-Personal Data for any lawful purpose. 
+## What Do we do with your Data?
 
-## Your Choices:
+We use data collected by us, directly and indirectly, as may be necessary to operate our ticketing platform and in order to provide ticketing services, or data collected by us with the user’s consent. Data is also used to ensure our website functions properly, and in order to optimise and improve our service offering. 
 
-You have several choices available when it comes to your Personal Data: 
+Event information submitted by Organisers will be publicly available on the website. Organisers are responsible for the information submitted by them and acknowledge that this information will be displayed publicly. 
 
-Limit the Personal Data You Provide: You can use the Site without providing any Personal Data or with limiting the Personal Data you provide. If you choose not to provide any Personal Data or limit the Personal Data you provide, you may not be able to use certain Site functionality and/or Quicket Services. For instance, in order to open a Quicket account or to buy or sell tickets, your name and email address will be required. 
+We will share Buyers’ names, contact and ticket information, with the relevant Organisers pursuant to a ticket purchase only insofar as is necessary so that Organisers can monitor who is attending an event. Organisers are not bound to treat data in accordance with this privacy policy. Users agree that Quicket is not responsible for the actions of these Organisers with respect to your data. It is important that you review the applicable policies of the Organisers of an event before providing personal data or other information in connection with that event. 
 
-Opt Out: You can "opt out" of receiving Quicket newsletter emails by clicking on the "unsubscribe" link in newsletter emails. It may take up to 24 hours for us to process 
+We may contact users directly or through a third-party service provider regarding products or services a user has signed up for or purchased from us, such as may be necessary to deliver transactional or service related communications. Quicket may also contact you with offers for additional services we think you'll find valuable if you give us consent, or where allowed based upon legitimate interests. 
 
-an unsubscribe request. Note that you cannot unsubscribe from Quicket Service communications via the Site. You can stop receiving Quicket Service communications only by contacting us at https://www.Quicket.co.za/contactus.aspx and closing your account. Even after you opt out of all communications, Quicket will retain your Personal Data and Non- Personal Data in accordance with this Privacy Policy, however, we will no longer use it to contact you. Organizers who have received your Personal Data in accordance with this Privacy Policy may continue to use that Personal Data to contact you in accordance with their own privacy policies, but they may not use Quicket's system to do so. 
+We may share personal data with trusted third parties as necessary for them to perform services on our behalf, such as processing credit card payments. We only share personal data as necessary for any third party to provide the services as requested or as needed on our behalf. These third parties (and any subcontractors) are subject to strict data processing terms and conditions and are prohibited from utilising, sharing or retaining your personal data for any other purpose than as they have been specifically contracted for (or without your consent). We will share transaction data with our payment service providers or bank only to the extent necessary for the purposes of processing payments, refunding payments, transferring money to a user, and/or dealing with user queries and complaints relating to such payments, refunds and transfers. 
 
-## Exclusions:
+The hosting, analytics, email sending and other technical provisions for our website and mobile app may be hosted on servers outside of South Africa or outside of the European Union. However, Quicket shall ensure that its host providers are subject to laws, or policies, which uphold principles for the reasonable processing of information substantially similar to the data protection laws applicable to the European Union and/or in South Africa to ensure adequate protection of any such data. 
 
-This Privacy Policy does not apply to any Personal Data collected by Quicket other than Personal Data collected through the Site. This Privacy Policy shall not apply to any unsolicited information you provide to Quicket or another user or visitor through the Site or through any other means. This includes, but is not limited to, information posted to any public areas of the Site, such as bulletin boards, any ideas for new products or modifications to existing products, claim or demand letters, and other unsolicited submissions (collectively, "Unsolicited Information"). All Unsolicited Information shall be deemed to be non-confidential and Quicket shall be free to reproduce, use, disclose, distribute and exploit such Unsolicited Information without limitation or attribution. 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process, to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. 
 
-## Children:
+We use analytics tools provided by service partners such as Google Analytics to collect information about how users interact with our website, including what pages you visit, what site you visited prior to visiting our website, how much time you spend on each page, what operating system and web browser you use and network and IP information. We use the information provided by these tools to improve our service offering. These tools place persistent cookies in a user’s browser to identify the user the next time a user visits our website. Each cookie cannot be used by anyone other than the service provider (e.g. Google for Google Analytics). The information collected from the cookie may be transmitted to and stored by these service partners on servers in a country other than the country in which you reside. You can control the technologies we use by managing your settings through the “cookie banners” that may be presented when you first visit our web pages, or by utilising settings in your browser or third-party tools. Refusing or deleting some cookies may make it impossible for us to provide our services to you. 
 
-Quicket does not knowingly collect Personal Data from children under the age of 18\. If you are under the age of 18, please do not submit any Personal Data through the Site. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Site without their permission. If you have reason to believe that a child under the age of 18 has provided Personal Data to Quicket through the Site, please contact us and we will endeavour to delete that information from our databases. 
+Our website may contain links to third-party websites. We are not responsible for the privacy practices or the content of third-party sites. Please read the privacy policy of any website you visit. 
 
-## Links to Other Web Sites:
+## How can you change or delete Data?
 
-This Privacy Policy applies only to the Site. The Site may contain links to other websites not operated or controlled by Quicket (the "Third Party Sites"). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Site do not imply that Quicket endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies. 
+For account users, the easiest way to change your information is to log into your Quicket account and edit your account settings. Alternatively, please contact us at support@quicket.co.za or call us on +27 21 424 9308 
 
-## Storage and Security:
+If you make a request to delete your personal data, the request will be honoured only to the extent it your information is no longer necessary for any services purchased by you or required for our legitimate business purposes or legal or contractual record keeping requirements. 
 
-Quicket may store Personal Data itself or such information may be included in databases owned and maintained by affiliates, agents or service providers. Quicket takes what it believes to be reasonable steps to protect the Personal Data provided via the Site from loss, misuse, unauthorized access, inadvertent disclosure, alteration, and destruction. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from the Site may not be secure. You should, at all times, take special care in deciding on the information you send to us via e-mail. Please keep this in mind when disclosing any Personal Data via the Internet. 
+Users can "opt out" of receiving Quicket newsletter emails by clicking on the "unsubscribe" link in newsletter emails. It may take up to 24 hours to be processed. 
 
-## Privacy Laws:
+Please note that users cannot unsubscribe from Quicket Service communications via the website but should contact Quicket at https://www.Quicket.co.za/contactus.aspx in order to request the closing of an account. Organisers who have received a Buyer’s data in accordance with this privacy policy may continue to use that data to contact a Buyer in accordance with their own privacy policies, but they may not use Quicket's system to do so. 
 
-Use of the Site and Quicket Services are subject to the laws of the Republic of South Africa and this Privacy Policy. 
+## User Rights
 
-## Other Terms and Conditions:
+If we are in possession of, or processing, your personal data, then you have the following rights: 
 
-Your access to and use of the Site is subject to our Terms and Conditions. 
+  * Right of access – to request a copy of the information that we hold about you. Access to this information will be subject to an administrative fee the request is unfounded, excessive or repetitive.
+  * Right of rectification – to correct data that we hold about you that is inaccurate or incomplete.
+  * Right to be forgotten – to ask for the data we hold about you to be erased from our records, in certain circumstances. Erasure will be subject to an administrative fee if your request is manifestly unfounded, excessive or repetitive.
+  * Right to restriction of processing – to restrict processing of your information in certain circumstances.
+  * Right of portability – to have the data we hold about you transferred to another organisation.
+  * Right to object – to object to certain types of processing such as direct marketing.
+  * Right to object to automated processing, including profiling – to object the automated processing or profiling.
+  * Right to judicial review: you have the right to complain to a relevant authority regarding the use of your personal data by us.
 
-## Changes to Quicket's Privacy Policy:
 
-The Site and our business may change from time to time. As a result, at times it may be necessary for Quicket to make changes to this Privacy Policy. Quicket reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice to you. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy. 
 
-## Access to Information; Contacting Company:
+## How We Protect Your Data
 
-To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Site. Please also feel free to contact us if you have any questions about Quicket's Privacy Policy or the information practices of the Site. You may contact us at the following address: https://www.Quicket.co.za/contactus.aspx. 
+All data provided to us is stored on our secure servers or those of our trusted partner services. We implement appropriate, generally accepted technical and organisational measures to protect personal data against unauthorised or unlawful processing, accidental loss, destruction or damage, including encryption where appropriate. Unfortunately, the transmission of information via the Internet is not completely secure. We will do our best to protect your personal information, but we cannot guarantee 100% security of your data transmitted to our servers; any transmission is at your own risk. 
+
+## How Long Do We Keep Data?
+
+We retain personal data only for as long as necessary to provide services requested by you and thereafter for a variety of legitimate legal or business purposes. This might include retention periods mandated by law, contract or similar obligations applicable to our business operations. 
+
+## Children
+
+Quicket does not knowingly collect data from children under the age of 18. If a user is under the age of 18, the user should not use our services or submit any data to us, without the consent of their legal guardian. If you are a parent of a child under 18 and become aware that your child has provided personal data to us, please contact us. If we learn that we have collected the personal data of a child under the age of 18 years, we will take reasonable steps to delete the personal data. 
