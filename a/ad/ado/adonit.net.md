@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adonit.net privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516035523id_/http%3A//www.adonit.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adonit.net privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008081607id_/http%3A//www.adonit.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 #### **Privacy Policy**
 
-##### **(Revised February 2015)**
+##### **(Revised June 2018)**
 
 Adonit Creative Inc. **(“Adonit,” “our,” “us,” or "we")** respects your privacy. We created this Privacy Policy to let you know what information we collect and how we use it, as well as our information sharing and protection practices.
 
