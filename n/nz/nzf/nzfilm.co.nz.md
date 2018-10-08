@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nzfilm.co.nz privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128105455id_/https%3A//www.nzfilm.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzfilm.co.nz privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009004556id_/https%3A//www.nzfilm.co.nz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | New Zealand Film Commission
+# Privacy Policy
 
 Your privacy is important to the New Zealand Film Commission ("NZ Film", "Us" or "We").
 
