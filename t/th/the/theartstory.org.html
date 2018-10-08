@@ -1,21 +1,7 @@
-<!--The following is the downloaded HTML source of the theartstory.org privacy policy that was archived on 2018-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180520030508id_/http%3A//www.theartstory.org/terms.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theartstory.org privacy policy that was archived on 2018-10-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181008130221id_/https%3A//www.theartstory.org/terms.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
-<title>The Art Story: Privacy Policy, Terms, and Conditions</title> 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="description" content="Terms and Conditions"> 
-<meta property="fb:app_id" content="127759120586830">
-<meta property="og:title" content="Terms and Conditions">
-<meta property="og:site_name" content="The Art Story">
-<meta property="og:url" content="http://www.theartstory.org/terms.htm">
-<meta property="og:description" content="Terms and Conditions">
-<meta property="og:type" content="article">
-<meta property="og:locale" content="en_US">
-<meta property="article:publisher" content="https://www.facebook.com/TheArtStory">
-<link rel="stylesheet" type="text/css" href="/css/common_inline-min.css">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=127759120586830"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script src="/js/jquery.js" type="text/javascript" async=""></script><script src="/js/common_new.js" type="text/javascript" async=""></script><script language="javascript" type="text/javascript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head><title>Privacy Policy, Terms, and Conditions | The Art Story</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="description" content="The Art Story: Website Privacy Policy, Terms, and Conditions."><meta property="fb:app_id" content="127759120586830"><meta property="og:title" content="Privacy Policy, Terms, and Conditions | The Art Story"><meta property="og:site_name" content="The Art Story"><meta property="og:url" content="https://www.theartstory.org/terms.htm"><meta property="og:description" content="The Art Story: Website Privacy Policy, Terms, and Conditions."><meta property="og:type" content="article"><meta property="og:locale" content="en_US"><meta property="article:publisher" content="https://www.facebook.com/TheArtStory"><meta name="twitter:card" content="photo"><meta name="twitter:site" content="@TheArtStory"><meta name="twitter:title" content="Privacy Policy, Terms, and Conditions | The Art Story"><meta name="twitter:url" content="https://www.theartstory.org/terms.htm"><link rel="canonical" href="https://www.theartstory.org/terms.htm"><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script src="/js/jquery.js" type="text/javascript" async=""></script><script src="/js/common_new-min.js?101" type="text/javascript" async=""></script><script>
 var jQLoaded = false;
 (function() {
     var jsc = document.createElement('script');
@@ -30,20 +16,29 @@ var jQLoaded = false;
 			done = true;
 			jQLoaded = true;
 			$.ajaxSetup({cache: true});
-			$('head').append( $('<link rel="stylesheet" type="text/css" />').attr('href', '/css/common_async-min.css') );
+			$('head').append( $('<link rel="stylesheet" type="text/css" />').attr('href', '/css/common_async-min.css?6') );
+			$('head').append( $('<link rel="stylesheet" type="text/css" />').attr('href', '/css/lightbox-min.css') );
 			$.getScript("/js/jquery.validate.js");
 			$.getScript("/js/jquery.qtip.js");
 			$.getScript("/js/jquery.autocomplete.js");
+			$.getScript("/js/lightbox.js");
+			$(window).scroll(function () {
+				loadExternalAds();
+				manageMenu();
+			});
+			if (typeof customOnload != "undefined"){
+				customOnload();
+			}
 		}
 	};	
 	var csc = document.createElement('script');
-    csc.src="/js/common_new.js";
+    csc.src="/js/common_new-min.js?101";
     csc.type = 'text/javascript';
 	csc.async = 'true';
 	s.parentNode.insertBefore(csc, s);
 })();
 WebFontConfig = {
-  google: { families: [ 'Roboto:400,300,300italic,400italic,500:latin' ] }
+  google: { families: [ 'Roboto:400,300,300italic,400italic,500:latin', 'Lato:100:latin' ] }
 };
 (function() {
   var wf = document.createElement('script');
@@ -53,354 +48,1308 @@ WebFontConfig = {
   var s = document.getElementsByTagName('script')[0];
   s.parentNode.insertBefore(wf, s);
 })();
-</script>
-<style>
-.fw-400{
-	font-weight: 400;
+var adsCalled = false;
+function loadExternalAds(){
+	if(typeof needHideAds != "undefined" && needHideAds){
+		return;
+	}
+	if (!adsCalled){
+		$.getScript("//tags-cdn.deployads.com/a/theartstory.org.js");	
+		$.getScript("//nextmillennium.liqwid.net/?key=D85D-A6F1-B041-B88A");
+		adsCalled = true;
+	}
 }
-.team-table{
-	
+function adLoadedCallback (div, unfilledObj) {
+	var adUnit = div.getAttribute("data-ad-name");
+	if(adUnit&&unfilledObj&&unfilledObj.unfilled){
+		try {
+			if(div.parentElement){
+				div.parentElement.style.display='none';
+				console.log(adUnit + "- unfilled");
+			}			
+		} catch(err) {
+			console.log(err.message);
+		}
+	}
 }
-.team-table .img-col{
-	width: 100px;
+var bigMenu = true;
+function manageMenu(){
+	var scrollTop = $(document).scrollTop();	
+	if (scrollTop > 50 && bigMenu){
+		collapseMenu();
+	}
+	if (scrollTop < 50 && !bigMenu){
+		expandMenu();
+	}
+	if ($('.autocomplete-suggestions').length > 0 && $('.autocomplete-suggestions').is(':visible')){
+		$('.autocomplete-suggestions').hide();
+	}
+}
+var animateSpeed = 300;
+function expandMenu(){
+	$('#top-menu .btn-col-active').css('background-image', 'url(../images20/new_design/menu_bg.png)');
+	$('#top-menu .btn-col-active-small').css('background-image', 'url(../images20/new_design/menu_bg_small.gif)');
+	$('#top-menu .logo').css('background-image', 'url(../images20/new_design/top_logo.gif)');
+	$('#top-menu .buttons-table').css('height', '100px');
+	$('#top-menu .search-col').addClass("padding-top5");
+	$('#top-menu .search-col').removeClass("padding-top2");
+	$("#top-menu .top-menu-holder").animate({ 
+		'padding-top' : '20px',
+		'padding-bottom' : '20px',
+	}, animateSpeed, function() {		
+	});
+	$("#top-menu .logo").animate({ 
+		'height' : '60px',	
+	}, animateSpeed);
+	$("#search_box").animate({ 
+		'height' : '45px',	
+	}, animateSpeed);
+	$("#search_input").animate({ 
+		'height' : '37px',	
+	}, animateSpeed);
+	$("#search_box div").animate({ 
+		'height' : '37px',	
+	}, animateSpeed);
+	$("#search_btn").animate({ 
+		'margin-top' : '12px',	
+	}, animateSpeed);	
+	$("#top-menu .buttons-table td").animate({ 
+		'padding-top' : '20px',	
+	}, animateSpeed);
+  bigMenu = true;
+}
+function collapseMenu(){
+	$('#top-menu .btn-col-active').css('background-image', 'url(../images20/new_design/menu_bg-48.png)');
+	$('#top-menu .btn-col-active-small').css('background-image', 'url(../images20/new_design/menu_bg_small-53.gif)');
+	$('#top-menu .logo').css('background-image', 'url(../images20/new_design/top_logo_small.jpg)');
+	$('#top-menu .buttons-table').css('height', '50px');
+	$('#top-menu .search-col').removeClass("padding-top5");
+	$('#top-menu .search-col').addClass("padding-top2");	
+	$("#top-menu .top-menu-holder").animate({ 
+		'padding-top' : 0,
+		'padding-bottom' : 0,
+		}, animateSpeed, function() {
+		
+	});
+	$("#top-menu .logo").animate({ 
+		'height' : '30px',	
+	}, animateSpeed);
+	$("#search_box").animate({ 
+		'height' : '30px',	
+	}, animateSpeed);
+	$("#search_input").animate({ 
+		'height' : '20px',	
+	}, animateSpeed);	
+	$("#search_box div").animate({ 
+		'height' : '20px',	
+	}, animateSpeed);
+	$("#search_btn").animate({ 
+		'margin-top' : '7px',	
+	}, animateSpeed);	
+	$("#top-menu .buttons-table td").animate({ 
+		'padding-top' : '7px',	
+	}, animateSpeed);
+	bigMenu = false;
+}
+</script><style>
+#top-menu .top-menu-holder{
+	margin-top:0px !important;
+}
+#floating-menu{
+	position:fixed;	
+	width: 100%;
+	z-index: 99999;
+    background: white;
+}
+#content{
+	margin-top:110px !important;
+}
+#search_btn {
+	margin-bottom:0px !important;
+}
+.padding-top2{
+	position: relative;
+    top: -3px;
+}
+.padding-top5{
+	position: relative;
+    top: 0px;
+}
+#wrapper .about-us-line{
+	top: 105px;
+}
+.autocomplete-suggestions{
+	z-index: 99999 !important;
+}
+</style>	<style>
+	body{min-width: 1092px;outline:none;border:none;margin:0;font:300 18px Roboto,sans-serif}
+img{border-style:none}
+a{text-decoration:none;color:#0082c9}
+a:hover{text-decoration:none}
+input,textarea,select{vertical-align:middle;color:#000}
+form fieldset{margin:0;padding:0;border-style:none}
+.float-left{float:left}
+.float-right{float:right}
+.hidden{display:none}
+#top-bar {
+    height: 38px;
+    background-color: #f3f3f3;
+    border-bottom: 2px solid #dadada;
+    position: fixed;
+    width: 100%;
+    z-index: 999999;
+}
+.top-bar-holder{width:1052px;margin:auto;line-height:38px}
+.top-bar-holder a{margin-right:20px;position:relative;top:5px}
+.top-bar-holder span{font:12px Roboto,sans-serif;color:#818181}
+#top-bar .social-buttons{
+	margin:0;
+	float:left;
+}
+#top-bar .support-us{float:right;height:38px;line-height:38px}
+.donate-button{border-radius:3px;background-color:#FFC943;font:12px Roboto,sans-serif;padding:5px 15px;color:#303030;line-height:1.667;text-shadow:0 -1px 0 rgba(255,255,255,0.4);box-shadow:0 2px 0 0 rgba(164,125,40,0.6),inset 0 -1px 0 0 rgba(255,255,255,0.35);-moz-box-shadow:0 2px 0 0 rgba(164,125,40,0.6),inset 0 -1px 0 0 rgba(255,255,255,0.35);-webkit-box-shadow:0 2px 0 0 rgba(164,125,40,0.6),inset 0 -1px 0 0 rgba(255,255,255,0.35);-khtml-box-shadow:0 2px 0 0 rgba(164,125,40,0.6),inset 0 -1px 0 0 rgba(255,255,255,0.35)}
+#top-bar .donate-text{font: 12px 'Roboto',sans-serif;color: #818181;margin-right: 0px;top: 0px;}
+#top-bar .donate-button{top:0;margin:0 0 0 15px}
+#top-menu{overflow:hidden;border-bottom:2px solid #dadada}
+#top-menu .top-menu-holder{width:1052px;margin: 38px auto 0 auto;padding:20px 0}
+#top-menu .top-menu-holder td{padding:0}
+#top-menu .logo{background:url(../images20/new_design/top_logo.gif) no-repeat;width:270px;height:60px;margin:0;float:left;text-indent:-9999px;cursor:pointer}
+#top-menu .btn-col{width:115px;text-align:center;vertical-align:top;padding-top:20px}
+#top-menu .btn-col-small{width:68px;text-align:center;vertical-align:top;padding-top:20px}
+#top-menu .menu-btn{font:16px Roboto,sans-serif;color:#131313;text-transform:uppercase}
+#top-menu .btn-col-active{background:url(../images20/new_design/menu_bg.png) no-repeat}
+#top-menu .btn-col-active-small{background:url(../images20/new_design/menu_bg_small.gif) no-repeat}
+#top-menu .btn-col-active a{color:#fff}
+#top-menu .btn-col-active-small a{color:#fff}
+#top-menu .buttons-col{
+	vertical-align:top;
+	width:478px;
+}
+#top-menu .buttons-table{height:100px;position:absolute}
+#top-menu .buttons-table td{padding-top:20px}
+#top-menu .search-col{vertical-align:top;padding-top:5px!important}
+#search_box{width:250px;height:45px;border-style:solid;border-width:1px;border-color:#e6e6e6;border-radius:5px;background-color:#fff;box-shadow:inset 0 3px 0 0 rgba(0,0,0,0.15);-moz-box-shadow:inset 0 3px 0 0 rgba(0,0,0,0.15);-webkit-box-shadow:inset 0 3px 0 0 rgba(0,0,0,0.15);-khtml-box-shadow:inset 0 3px 0 0 rgba(0,0,0,0.15)}
+#search_box div{float:left;border:none;margin:5px;width:200px;height:35px}
+#search_input{outline:none;border:none;border-color: transparent;color:#999;width:200px;font:300 16px Roboto,sans-serif;height:37px;line-height:35px}
+#search_btn{outline:none;border:none;float:right;width:20px;height:20px;background:url(../images20/new_design/search.gif) no-repeat;cursor:pointer;margin:12px 10px 12px 0;}
+#wrapper{width:1052px;margin:auto;position: relative;}
+#wrapper .about-us-line{position:absolute;right:0px;}
+#main{width:1052px;overflow:hidden;padding:0}
+#path-box{font:12px Roboto,sans-serif;color:#212121;text-transform:uppercase;margin:15px 0 0}
+#path-box span{border-radius:5px;background-color:#f3f3f3;padding:8px 10px}
+#path-box img{position:relative;top:2px}
+#chart-box{margin-top:35px}
+#chart-box .chart-img{position:absolute;margin:0 0 0 20px}
+#chart-box .name-box{position:relative;top:10px;min-height:96px;color:#212121;}
+#chart-box .box-artist{left:215px}
+#chart-box .box-movement{left:600px;width: 450px;}
+#chart-box .name{font-size:36px;margin:20px 0 0;font-weight: 300;}
+#chart-box .profession{font-size:24px;margin:0;width: 835px;}
+#chart-box .movements{font-size:16px;font-weight:400;margin:5px 0 0;width: 835px;}
+#chart-box .link{font-size:16px;font-weight:300;color:#0080c8}
+#chart-box .years-box{border-bottom:3px solid #0080c8;min-height:180px;border-radius:7px;background-color:#f3f3f3;margin:25px 0 0}
+#chart-box .years-holder{position:relative;top:10px;padding-bottom: 25px;}
+#chart-box .years-holder p{font-size:14px;font-weight:300;color:#212121;margin:0;padding:5px 0 0}
+#chart-box .years-holder p span{font-weight:400}
+#chart-box .years-img{margin-top:10px}
+#content{width:1052px;float:left;margin:15px 0 0;padding:0;overflow:hidden}
+#content .main-col{width:1052px;float:left}
+#content .left-col{margin-top:30px;float:left;width:248px}
+#content .contents-box{border-bottom:3px solid #0080c8;border-radius:7px;background-color:#f3f3f3;padding:20px 5px 20px 20px}
+#content .left-col p{font:18px Roboto,sans-serif;color:#212121;text-transform:uppercase;margin:0;padding-bottom:10px}
+#content .contents-box a{font:300 14px Roboto,sans-serif;color:#0082c9;line-height:20px}
+#content .right-col{float:left;width:738px;margin-left:66px}
+#content .quotes-box{margin-top:40px;padding-bottom:30px;border-bottom:4px solid #f2f2f2}
+#content .quotes-nav{height:50px}
+#content .q-btn{min-width:42px;min-height:30px;float:left;cursor:pointer;margin-right:5px}
+#content .q-left{background:url(/images20/new_design/quote_left.gif) no-repeat}
+#content .q-left-active{background:url(/images20/new_design/quote_left_active.gif) no-repeat}
+#content .q-right{background:url(/images20/new_design/quote_right.gif) no-repeat}
+#content .q-right-active{background:url(/images20/new_design/quote_right_active.gif) no-repeat}
+#content .q-cntr{font:400 14px Roboto,sans-serif;color:#212121;margin:6px 0 0 10px;float:left}
+#content .q-text{font:italic 300 14px Roboto,sans-serif;line-height:30px}
+#content .q-author{font:italic 400 14px Roboto,sans-serif;line-height:30px;text-align:right}
+#content .keyartists-box{margin-top:30px;}
+#content .keyartists-box table{width:248px}
+#content .small-table-img{width:57px;height:57px;vertical-align:top}
+#content .small-table-img img{width:57px;height:57px}
+#content .big-table-img{width:95px;vertical-align:top}
+#content .big-table-img img{width:95px;height:95px}
+#content .blue-border-shadow{border-style:solid;border-width:1px;border-color:#227fc4;background-color:#fff;box-shadow:2.121px 2.121px 0 0 rgba(49,136,200,0.392);-moz-box-shadow:2.121px 2.121px 0 0 rgba(49,136,200,0.392);-webkit-box-shadow:2.121px 2.121px 0 0 rgba(49,136,200,0.392);-khtml-box-shadow:2.121px 2.121px 0 0 rgba(49,136,200,0.392)}
+#content .keyartists-box .table-desc{width:176px;padding-left:15px;line-height:25px}
+#content .keyartists-box a{font:300 12px Roboto,sans-serif;color:#0082c9;line-height:24px;display: inline-block; margin-bottom: -5px;}
+#content .keyartists-box .small-table-desc{width:150px;vertical-align:top;font:300 18px Roboto,sans-serif}
+#content .movements-artists .selected-movement{background:url(../images20/new_design/mov_artists_bg.png) no-repeat;padding:10px 15px 10px 10px;margin:10px 0;width:248px}
+#content .movements-artists .selected-movement .small-table-desc{width:150px;vertical-align:middle;color:#fff}
+#content .movements-artists .selected-movement-period{background:url(../images20/new_design/movements_period.gif) no-repeat;padding:10px 15px 10px 10px;margin:10px 0;width:295px;height:100px}
+#content .movements-artists .selected-movement-period .small-table-desc{width:150px;vertical-align:middle;color:#fff}
+#content .movements-artists .selected-movement-period .small-table-img{vertical-align:middle}
+#content .movements-artists .small-table-desc{width:176px;vertical-align:middle;color:#212121}
+#content .keyartists-box .big-table-desc{width:165px;vertical-align:middle}
+#content .keyartists-box .big-table-close{width:20px;vertical-align:top}
+#content .keyartists-box .full-desc{font:300 14px Roboto,sans-serif;line-height:20px}
+#content .like-box{margin-top:25px;padding-bottom:20px}
+.quote{font-family:'Allura',cursive;font-size:24px;color:#4b4b4b;margin:30px 0 0}
+.signature{text-align:right;font:600 30px "Monotype Corsiva";margin-right:10px}
+.alt-signature{font-family:'Allura',cursive !important;}
+.article_header{font:300 30px Roboto,sans-serif;color:#212121;margin:30px 0;}
+.article_subheader{font:400 24px Roboto,sans-serif;color:#212121}
+.article_text{font:300 18px Roboto,sans-serif;color:#212121;line-height:30px}
+.article .alignright{float:left}
+.article img.alignright{padding:8px}
+.article_list_element{background:url(../images20/new_design/blue_dot.gif) no-repeat scroll 0 2px transparent;padding:0 0 20px 18px;background-position:0 9px;font:300 18px Roboto,sans-serif;line-height:30px}
+.article_list{margin:5px 0 0;padding:0}
+#important_art_blue, #important_art_blue_bottom{width:100%;background:#00629C;border-radius:4px;box-shadow:0 3px 0 0 rgba(0,0,0,0.1);-webkit-box-shadow:0 3px 0 0 rgba(0,0,0,0.1);-moz-box-shadow:0 3px 0 0 rgba(0,0,0,0.1);-khtml-box-shadow:0 3px 0 0 rgba(0,0,0,0.1);position:relative;}
+#important_art_blue .left_col, #important_art_blue_bottom .left_col{width:135px;padding:20px}
+#important_art_blue #important_art_active_pnt, #important_art_blue_bottom #important_art_bottom_active_pnt{border:2px solid #fff;box-shadow:2.828px 2.828px 0 0 rgba(0,0,0,0.16);-moz-box-shadow:2.828px 2.828px 0 0 rgba(0,0,0,0.16);-webkit-box-shadow:2.828px 2.828px 0 0 rgba(0,0,0,0.16);-khtml-box-shadow:2.828px 2.828px 0 0 rgba(0,0,0,0.16)}
+#important_art_blue .right_col, #important_art_blue_bottom .right_col{width:100%;padding:20px 20px 20px 0;font:14px Times New Roman,Times,serif;color:#fff}
+#important_art_blue .img_name, #important_art_blue_bottom .img_name{font:400 24px Roboto,sans-serif;margin:0;}
+#important_art_blue .more_artworks, #important_art_blue_bottom .more_artworks{font:400 24px Roboto,sans-serif;color:#fff}
+#important_art_blue .img_desc, #important_art_blue_bottom .img_desc{padding:10px 0;font:300 18px Roboto,sans-serif;color:#fff;line-height:30px;height:110px;overflow:hidden;}
+#important_art_blue .img_author, #important_art_blue_bottom .img_author{padding:5px 0 0;font:300 18px Roboto,sans-serif}
+#important_art_blue .img_col, #important_art_blue_bottom .img_col{font:italic 300 18px Roboto,sans-serif;color:#fff;padding-bottom:15px}
+#important_art_blue .bottom_box, #important_art_blue_bottom .bottom_box{position:relative;left:87px;height:105px;padding-bottom:10px;width:650px}
+#important_art_blue .bottom_box .arrow_col, #important_art_blue_bottom .bottom_box .arrow_col{width:30px;cursor:pointer;width:50px}
+#pnt_navigate_left, #pnt_navigate_left_bottom{padding:0 10px}
+#important_art_blue .bottom_box .carousel, #important_art_blue_bottom .bottom_box .carousel{height:85px;overflow:hidden;position:relative}
+#important_art_blue .bottom_box .carousel img, #important_art_blue_bottom .bottom_box .carousel img{box-shadow:4px 4px 4px #005283;-moz-box-shadow:4px 4px 4px #005283;-webkit-box-shadow:4px 4px 4px #005283;-khtml-box-shadow:4px 4px 4px #005283}
+.important_art_pnt{width:80px;height:80px;cursor:pointer;position:absolute}
+.important-art-read-more{
+	font: 300 17px Roboto,sans-serif;
+	color:#add8e6;
+	text-decoration: underline;
+}
+#important_art_special{
+	background: white;
+    padding: 10px;
+    text-align: center;
+    border: 3px solid #00629C;
+    border-radius: 0 0 5px 5px;
+	color: #0080c8;
+}
+#important_art_special .important-art-top{	
+	font-weight:400;
+	text-decoration: underline;
+	cursor:pointer;
+}
+#zoom_pnt_button, #zoom_pnt_button_bottom{position:absolute;margin:75px 0 0 75px;cursor:pointer}
+#share-middle{margin-top:30px;display: inline-block;}
+.share-button-tas{background-color:#D85038;border-radius:4px 4px 0 0;float:left;width:272px;height:50px;cursor:pointer;text-align:center}
+.share-button-tas span{font:400 18px Roboto,sans-serif;color:#fff;line-height:50px}
+.share-button-wrapper{width:223px;height:44px;line-height:44px;border-radius:4px;float:left;margin-left:10px;text-align:center;cursor:pointer}
+.share-button-facebook{background-color:#313B95;box-shadow:inset 0 -1px 0 0 rgba(0,0,0,0.4);-moz-box-shadow:inset 0 -1px 0 0 rgba(0,0,0,0.4);-webkit-box-shadow:inset 0 -1px 0 0 rgba(0,0,0,0.4);-khtml-box-shadow:inset 0 -1px 0 0 rgba(0,0,0,0.4)}
+.share-button-twitter{background-color:#1EA6EE;box-shadow:inset 0 -1px 0 0 rgba(0,0,0,0.15);-moz-box-shadow:inset 0 -1px 0 0 rgba(0,0,0,0.15);-webkit-box-shadow:inset 0 -1px 0 0 rgba(0,0,0,0.15);-khtml-box-shadow:inset 0 -1px 0 0 rgba(0,0,0,0.15)}
+.share-button-wrapper-bottom{width:280px;height:44px;line-height:44px;border-radius:4px;float:left;margin:0 30px 0 0;text-align:center;cursor:pointer}
+.share-button-facebook-bottom{background-color:#313B95;box-shadow:0 3px 0 0 rgba(0,1,1,0.15),inset 0 -1px 0 0 rgba(0,0,0,0.4);-moz-box-shadow:0 3px 0 0 rgba(0,1,1,0.15),inset 0 -1px 0 0 rgba(0,0,0,0.4);-webkit-box-shadow:0 3px 0 0 rgba(0,1,1,0.15),inset 0 -1px 0 0 rgba(0,0,0,0.4);-khtml-box-shadow:0 3px 0 0 rgba(0,1,1,0.15),inset 0 -1px 0 0 rgba(0,0,0,0.4)}
+.share-button-twitter-bottom{background-color:#1EA6EE;box-shadow:0 3px 0 0 rgba(0,1,1,0.15),inset 0 -1px 0 0 rgba(0,0,0,0.15);-moz-box-shadow:0 3px 0 0 rgba(0,1,1,0.15),inset 0 -1px 0 0 rgba(0,0,0,0.15);-webkit-box-shadow:0 3px 0 0 rgba(0,1,1,0.15),inset 0 -1px 0 0 rgba(0,0,0,0.15);-khtml-box-shadow:0 3px 0 0 rgba(0,1,1,0.15),inset 0 -1px 0 0 rgba(0,0,0,0.15)}
+.share-button-text{font:400 18px Roboto,sans-serif;color:#fff}
+.share-button-img{padding-right:10px;position:relative;top:4px}
+#subscribe-box{position:relative;top:-1px;float:left;height:125px;width:712px;z-index:10;border-radius:0 0 4px 4px;border:3px solid #D85038;margin-bottom:20px;padding:20px 0 15px 20px}
+#subscribe-form{float:left}
+.subscribe-message{text-align:center;display:none;margin:15px 0 0 10px;float:left;font:400 22px Roboto,sans-serif;width:444px}
+#subscribe-sucsess{margin-top:25px}
+#subscribe-form input[type="text"]{padding:0 5px;border:1px solid #e1e1e1;border-radius:5px;font:400 18px Roboto,sans-serif;color:#272727;width:435px;height:42px}
+.inp-err{border:2px solid red!important}
+#subscribe-form input[type="submit"]{background:#D85038;cursor:pointer;border-radius:3px;font:400 18px Roboto,sans-serif;border:0 none;color:#fff;margin:10px 0;padding:10px 45px;box-shadow:0 3px 0 0 rgba(0,1,1,0.1);-moz-box-shadow:0 3px 0 0 rgba(0,1,1,0.1);-webkit-box-shadow:0 3px 0 0 rgba(0,1,1,0.1);-khtml-box-shadow:0 3px 0 0 rgba(0,1,1,0.1);width:188px;height:40px}
+#subscribe-form span{font:300 11px Roboto,sans-serif;color:#979797}
+#subscribe-form span a{font:300 11px Roboto,sans-serif;color:#006dbe}
+#subscribe-box .vertical-line{height:100px;width:1px;background-color:#e1e1e1;float:left;margin:0 15px}
+#subscribe-box .fb-box{float:left;font:300 16px Roboto,sans-serif;color:#272727}
+#subscribe-box span a{color:#006dbe}
+#subscribe-box .fb-box .fb-bg{border-radius:4px;padding:10px;margin-top:15px;border:1px solid #cdd7ec;background:#f2f4fa;display:-moz-inline-stack;display:inline-block;vertical-align:top}
+#share-middle-facebook-twitter{display:none}
+.share-facebook-twitter{height:50px;width:508px;margin:0 auto;margin-top:30px}
+#show_biography{padding-bottom:15px}
+#more_biography{display:none}
+#influences_small{border-bottom:3px solid #e5e5e5;border-radius:7px;background-color:#f2f2f2;padding-top:30px;padding-bottom: 10px;}
+.dashed-sep{font:100 28px Lato;line-height:1px;color:#d9d9d9;padding:5px 0 17px}
+.solid-sep{height:1px;width:100%;background-color:#d9d9d9}
+.show-more{background:url(../images20/new_design/blue_arw_down.png) no-repeat;height:12px;width:19px;margin:10px auto;cursor:pointer}
+#influences_big{border-bottom:3px solid #e5e5e5;border-radius:7px;background-color:#f2f2f2;padding:20px 0 0;display:none}
+#feedback_button{position:fixed;top:250px}
+#left_print_button{position:fixed;top:380px;}
+#tooltip_data{display:none}
+.marked_text{font:300 18px Roboto,sans-serif;color:#0080c8;cursor:pointer}
+#share_panel{position:fixed;right:0;top:25%;background:#fff;height:auto;padding-right:10px;font:600 12px Roboto,sans-serif;color:#303030!important;display:none;background-color:rgba(255,255,255,0)}
+#share_panel ul{list-style:none;text-transform:uppercase;margin-left:auto;margin-right:auto;-webkit-padding-start:0!important;text-align:center}
+#share_panel ul li{margin:24px 0}
+.sh_button_right{margin:0 auto;padding:5px}
+#artworks-table{border-spacing:0 25px}
+#artworks-table .artwork-row{margin:20px 0}
+#artworks-table .img-col{width:300px;text-align:right;vertical-align:top;padding-top:45px}
+#artworks-table .img-col img{max-width:300px;box-shadow:4px 4px 4px #e5e5e5;-moz-box-shadow:4px 4px 4px #e5e5e5;-webkit-box-shadow:4px 4px 4px #e5e5e5;-khtml-box-shadow:4px 4px 4px #e5e5e5}
+#artworks-table .img-col a{font:300 14px Roboto,sans-serif}
+#artworks-table .desc-col{width:700px;padding-left:52px;vertical-align:top;line-height: 30px;}
+#artworks-table .artworks-group{font:300 30px Roboto,sans-serif;color:#212121;margin:0}
+#artworks-table .artwork-title{font:300 22px Roboto,sans-serif;color:#212121;margin:0}
+#artworks-table .artwork-desc{font:300 18px Roboto,sans-serif;color:#212121;margin:10px 0;line-height: 30px;}
+#artworks-table .artwork-desc span{font-weight:400}
+#artworks-table .artwork-materials{font:italic 300 18px Roboto,sans-serif;color:#212121;margin:5px 0 0;line-height: 30px;}
+#artworks-table .zoom_artwork{position:relative;top:-30px;left:3px;cursor:pointer}
+.letters-list{border-bottom:3px solid #0080c8;height:40px}
+.letters-list span{text-align:center;float:left;width:33px;height:40px;border-radius:4px 4px 0 0;cursor:pointer;text-transform:capitalize;font:300 16px Roboto,sans-serif}
+.letters-list a{color:#212121;position:relative;top:10px}
+.letters-list .a-active{background-color:#f2f2f2;font:400 16px Roboto,sans-serif}
+.atrists-counter{margin:15px 0;font:300 18px Roboto,sans-serif}
+.atrists-counter span{font:400 18px Roboto,sans-serif}
+.artists-list{width:800px;overflow:hidden;float:left;margin-bottom:30px}
+.artists-list .artists-list-col{width:355px;float:left}
+.artists-list .col-sep{width:28px;height:1px;float:left}
+.artists-list .artist-block{border-bottom:2px solid #d9d9d9;border-radius:5px;margin-bottom:25px;width:355px;margin-right:28px;float:left}
+.artists-list .artist-block .artist-name{text-align:center;font:300 24px Roboto,sans-serif;color:#212121}
+.artists-list .artist-block .artist-info-small{text-align:center;padding-bottom:25px;margin:0}
+.artists-list .artist-block .detail-btn{padding:7px 20px;border-radius:3px;background-color:#f2f2f2;border-bottom:2px solid #d9d9d9;font:400 12px Roboto,sans-serif;color:#000}
+.artists-list .artist-block .quick-btn{padding:7px 20px;font:400 12px Roboto,sans-serif;color:#0080c8}
+.artist-info-large{padding:0 10px 50px;margin:0;display:none}
+.artist-info-large img{width:95px;height:95px;float:left;margin:8px 10px 0 0}
+.artist-info-large p{line-height:30px;margin:10px;font-size:16px}
+#content .movements-artists .period{padding:20px 15px 10px}
+#content .movements-artists .selected-period{background:url(../images20/new_design/mov_artists_bg.png) no-repeat;height:65px;padding-bottom:0!important}
+#content .movements-artists .selected-period p{color:#fff!important}
+#content .movements-artists .years{font:400 20px Roboto,sans-serif;color:#212121;padding:0;text-transform:none}
+#content .movements-artists .period-name{font:300 18px Roboto,sans-serif;color:#212121;padding:0;text-transform:none}
+#more_new_artists{padding:32px 15px 0;background:url(../images20/new_design/mov_artists_bg.png) no-repeat;height:55px;cursor:pointer}
+#more_new_artists p{color:#fff!important}
+.footer_float {
+    position: fixed;
+	bottom: 0px;
+	z-index: 99999;
+	padding:0;
+	width: 100%;
+}
+.footer_float table{
+    width: 100%; border-collapse:collapse;
+}
+.footer_float span{
+	font-family: 'Helvetica Neue', arial, sans-serif;
+	font-size: 11px;
+	color:#fff;
+	line-height: 25px;
+	float: right;
+	margin-right:10px;
+}
+.footer_float table .bg-col{
+	background: url(../images20/sponsor_footer_bg.png) repeat-x;
+	background-position:bottom;
+	vertical-align: bottom;
+}
+.footer_float table .img-col{
+	width:83px;padding: 0;
+}
+@media screen and (max-width: 1130px) {
+    #feedback_button{
+		display:none !important;
+	}
+	#left_print_button{
+		display:none !important;
+	}
+}
+@media screen and (max-width: 1180px) {
+    #share_panel{
+		display:none !important;
+	}
+}
+@media screen and (max-width: 1240px) {
+    .back-to-top{
+		display:none !important;
+	}
+}
+.epph-box{
+	display: inline-block;
+	margin:0 10px;
+}
+.epph-text{
+	width: 570px;
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    margin: 8px 40px;
+	color: #212121;
+}
+.epph-img {
+	width:200px;
+	float:left;
+}
+.google-icon{
+	box-shadow:none !important;
+	-moz-box-shadow:none !important;
+	-webkit-box-shadow:none !important;
+	-khtml-box-shadow:none !important;
+	height:24px;
+	position:relative;
+	top:7px;
+}
+.googleImageLink{
+	font:400 12px Roboto,sans-serif !important;
+	color:#0080c8;
+	cursor:pointer;
+}
+.pnt-anchor{
+    position:relative;
+	top:-40px;
+}
+.back-to-top {
+	position: fixed;
+    right:15px;
+    bottom:25px;
+	background:url(../images20/new_design/to_top.gif) no-repeat;
+	display: none;
+	height:65px;
+	width:60px;
+}
+.back-to-top:hover {
+    background:url(../images20/new_design/to_top_hover.gif) no-repeat;
+}
+#donate_hand{
+    width: 0px;
+    position: absolute;
+	display:none;
+}
+#donate_hand_right{	
+	position:relative;
+	width: 271px;
+	height: 221px;
+	left:967px;
+    top: -6px;
+	background: url(../images20/new_design/donate_2_right.png) no-repeat;
+	z-index:9999;
+}
+#donate_hand_left{
+	position:relative;
+	width: 177px;
+	height: 250px;
+	left: 908px;
+    top: -6px;
+	background: url(../images20/new_design/donate_2_left.png) no-repeat;
+	z-index:9999;
+}
+#donate_hand_right .donate_hand_close{
+	right: 5px;
+    top: 78px;
+}
+#donate_hand_left .donate_hand_close{
+	top: 221px;
+    left: 137px;
+}
+#donate_hand_right #donate_hand_link{
+	top: 115px;
+    left: 120px;
+}
+#donate_hand_left #donate_hand_link{
+	top: 122px;
+    left: 21px;
+}
+#donate_hand_right .donate_search_overlay{
+	top: 76px;
+    left: 47px;
+}
+#donate_hand_left .donate_search_overlay{
+	top: 76px;
+    left: 105px;
+}
+.donate_hand_close{
+	position:absolute;
+	width: 30px;
+	height: 30px;
+	cursor:pointer;
+}
+#donate_hand_link{
+	position: absolute;
+    width: 130px;
+    height: 90px;
+}
+.donate_search_overlay{
+	position: absolute;
+    width: 30px;
+    height: 40px;
+	cursor:pointer;
+}
+@media screen and (max-width: 1415px) {
+    #donate_hand_right{
+		display:none !important;
+	}
+}
+@media screen and (min-width: 1415px) {
+    #donate_hand_left{
+		display:none !important;
+	}
+}
+.do-not-miss-link{
+	color: #212121;
+	padding-left: 20px;
+	line-height: 25px
+}
+.blog-entry-link{
+	color: #212121;
+	padding-left: 20px;
+	font-size: 16px;
+}
+.link-to-overview{
+	padding: 10px 0;
+	display: block;
+}
+.link-to-overview .link-to-overview-img{
+	position: relative;
+	top: 3px;
+	margin-left:10px;
+}
+.video_thumbinal_col {
+    width: 150px;
+    vertical-align: top;
+    padding: 10px 0;
+    position: relative;
+	text-align: right;
+}
+.video_thumbinal_col img{
+	padding-top: 15px;
+}
+.video_text_col{
+	padding: 10px 0 10px 10px;
+    width: 300px;
+    vertical-align: top;
+}
+.video_text_col a{
+	font: 400 18px 'Roboto', sans-serif;	
+}
+.video_text_col p {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 300;
+    margin: 5px 0;
+    color: #212121;
+    float: left;
+}
+.video_len{
+    top: 100px;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 1px 3px;
+    position: absolute;
+    right: 0;
+    text-align: right;
+    text-decoration: none;
+    background-color: rgba(0,0,0,.7);
+    color: #fff;
+}
+.video_views_cnt{
+    font-size: 12px !important;
+    margin: 0 !important;
+	float: none !important;
+	font-weight:600;
+}
+.videos_table_part{
+	font: 400 22px 'Roboto', sans-serif;
+	color: #2159A3;
+	margin:0;
+}
+.picked_video {
+   background:url(../images20/new_design/our_pick.png) no-repeat;
+}
+.video_text_col .video_desc{
+	padding-left:10px;
+	color: #492600;
+}
+.show-more-trippled{background:url(../images20/new_design/blue_arw_down_tripple.png) no-repeat;height:20px;width:171px;margin:10px auto;cursor:pointer;}
+.resources_table_box .arw_down_trippled {
+    background: url(../images20/new_design/blue_arw_down_tripple.png) no-repeat !important;
+	margin-top:10px;
+	background-position: center !important;
+}
+.musart-box{
+    border-radius: 4px;
+    border-top: 1px solid #0080c8;
+    border-bottom: 3px solid #0080c8;
+}
+.musart-link img{
+	width:181px;
+}
+.i-infopic{
+	position: relative;
+    top: -10px;
+	cursor:pointer;
+	width:16px;
+}
+.musart-advetrisment{
+	font: 400 italic 12px OpenSans,sans-serif;
+	text-align: center;
+    margin-top: 5px;
+}
+.show-more-with-arrrow {
+    width: 100%;
+    cursor: pointer;
+    font: 300 18px Roboto,sans-serif;
+    color: #0080c8;
+    text-align: center;
+}
+.keyartists-box .show-more-with-arrrow{	    
+	width: 100%;
+    cursor: pointer;
+    font: 300 15px Roboto,sans-serif !important;
+    color: #0080c8;
+    text-align: center;
+}
+.show-more-with-arrrow img{
+	margin-top: 10px;
+}
+.keyartists-box .show-more-with-arrrow img{
+	margin-top: 5px;
+}
+#collage-container{	
+	text-align: center;
+    -ms-text-justify: distribute-all-lines;
+    text-justify: distribute-all-lines;
+}
+#collage-container .collage-item{
+	height:150px;
+	border: 3px solid #0080c8;
+	margin:15px 30px;
+	border-radius: 4px;
 	vertical-align: top;
-	padding-top:28px;
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+	cursor:pointer;
 }
-.team-table .desc-col{
-	vertical-align: top;
-	padding-left:30px;
+#collage-container .stretch {
+    width: 100%;
+    display: inline-block;
+    font-size: 0;
+    line-height: 0
 }
-.team-table .img-col img{
-	max-width: 100px;
+.image-alignright{
+	float:left;
+	padding:8px;
 }
-.sep-row{
-	height:20px;
+.image-container{
+	position:relative;
+	display: inline-block;
+	cursor:pointer;
 }
-</style>
-
-<link rel="stylesheet" type="text/css" href="/css/common_async-min.css"></head>
-<body>
-	<div id="feedback_button">
-	<a href="" onclick="return send_feedback()"><img src="/images20/new_design/feedback_button.gif"></a>
-</div>
-<div id="share_panel">
-	<ul>
-		<li><span class="sh_button_right">Share</span></li>
-		<li><span class="sh_button_right"><a href="" onclick="return fb_sharer()" target="_blank"><img src="/images20/new_design/sh_right_facebook.gif"></a></span></li>
-		<li><span class="sh_button_right"><a href="" onclick="return tweet_it()" target="_blank"><img src="/images20/new_design/sh_right_twitter.gif"></a></span></li>
-		<li><span class="sh_button_right"><a href="" onclick="return google_plus()" target="_blank"><img src="/images20/new_design/sh_right_google.gif"></a></span></li>			
-		<li><span class="sh_button_right"><a href="" onclick="return pinterest()" target="_blank"><img src="/images20/new_design/sh_right_pinterest.gif"></a></span></li>
-		<li><span class="sh_button_right"><a href="" onclick="return send_mail()" target="_blank"><img src="/images20/new_design/sh_right_mail.gif"></a></span></li>
-		<li id="sh_print"><span class="sh_button_right"><a href="#" onclick="return print_page();"><img src="/images20/new_design/sh_right_print.gif"></a></span></li>
-	</ul>
-</div>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=127759120586830";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-	<div id="top-bar">
-	<div class="top-bar-holder">
-		<p class="social-buttons">	
-			<a href="https://twitter.com/TheArtStory" target="_blank"><img src="/images20/new_design/top_bar_twitter.gif"></a>
-			<a href="https://www.facebook.com/TheArtStory" target="_blank"><img src="/images20/new_design/top_bar_facebook.gif"></a>
-			<a href="https://plus.google.com/116240175951121162347/posts" target="_blank"><img src="/images20/new_design/top_bar_google.gif"></a>
-			<span>Visit our Community Pages</span>
-		</p>
-		<span class="support-us"><a class="donate-text" href="help_us.htm" style="top:0px;color:#818181;">There are many ways to help us blossom</a> <a href="help_us.htm" class="donate-button" style="color:#303030;">WAYS TO SUPPORT US</a></span>							
-	</div>
-</div>
-	<div id="top-menu">
-	<div class="top-menu-holder">
-		<table width="100%">
-			<tbody><tr>
-				<td width="270px;"><a href="http://www.theartstory.org"><h1 class="logo">The Art Story.org - Your Guide to Modern Art</h1></a></td>
-				<td width="80px;"></td>
-				<td class="buttons-col">
-					<table class="buttons-table">
-						<tbody><tr>
-							<td class="btn-col"><a class="menu-btn" href="/section_movements.htm">Movements</a></td>
-							<td class="btn-col"><a class="menu-btn" href="/section_artists.htm">Artists</a></td>
-							<td class="btn-col"><a class="menu-btn" href="/section_timelines.htm">Timelines</a></td>
-							<td class="btn-col-small"><a class="menu-btn" href="/section_critics.htm">Ideas</a></td>
-						</tr>
-					</tbody></table>
-				</td>
-				<td width="20px;"></td>
-				<td width="250px;" class="search-col">
-					<div id="search_box">
-					<form action="/search_results.htm" id="cse-search-box">
-						<div>
-							<input type="hidden" name="cx" value="partner-pub-7652460240953254:6886505724">
-							<input type="hidden" name="cof" value="FORID:10">
-							<input type="hidden" name="ie" value="UTF-8">
-							<input type="text" name="q" id="search_input" value="Search" onclick="this.value='';">
-						</div>
-						<input type="submit" name="sa" value="" id="search_btn">
-					</form>
-				</div>	
-				</td>					
-			</tr>
-		</tbody></table>
-	</div>
-</div>
-	<div id="wrapper">
-	<div id="content">
-		<div id="path-box">
-			<span><a href="index.htm"><img src="/images20/new_design/path_home.gif"></a></span>
-			<span>Terms</span>
-		</div>
-		
-		<div class="left-col">		
-			<div class="like-box">
-				<p>Like The Art Story on <a href="https://www.facebook.com/TheArtStory" target="_blank">Facebook</a></p>
-				<div class="fb-like" data-href="https://www.facebook.com/TheArtStory" data-width="248" data-layout="standard" data-action="like" data-show-faces="true" data-share="false"></div>
-			</div>
-			<div class="like-box">
-				<p>Follow The Art Story on <a href="https://plus.google.com/116240175951121162347/posts" target="_blank">Google+</a></p>
-				<div class="g-follow" data-annotation="bubble" data-height="24" data-href="https://plus.google.com/116240175951121162347" data-rel="publisher"></div>
-			</div>		
-		</div>
-		
-		<div class="right-col">						
-			<h3 class="article_header" id="about_header">Privacy Policy</h3>
-			<p class="article_text">This website was built and is operated by The Art Story Foundation, an educational 501(c)(3) non-profit organization. The material included herein, including without limitation all content, text, site design, logos, icons, code, scripts and software, is the property of The Art Story Foundation and/or its content suppliers and is protected by the trademark, copyright and other intellectual property laws of the United States and other countries.  Copyrights and other proprietary rights in the content on this website may also be owned by individuals and entities other than, and in addition to, The Art Story Foundation.</p><p>
-			</p><p class="article_text">This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.</p><p>
-			</p><h4 class="article_subheader">Use of Materials</h4>
-			<p class="article_text">The Art Story website is for informational purposes only and is provided to you solely for your own personal, non-commercial use.  Written permission must be received from The Art Story Foundation to use the content on this website for any other purpose.</p><p>
-			
-			</p><h4 class="article_subheader">External Links</h4>
-			<p class="article_text">The Art Story website includes links to external websites. These links do not fall under the The Art Story Foundation domain, and The Art Story website is not responsible for the content, materials, or  privacy practices of those external websites. Your use of any external website is solely at your own risk.</p><p>
-			
-			</p><h4 class="article_subheader">Linking to our Site</h4>
-			<p class="article_text">Other sites may link to The Art Story website homepage or any other page on our site, provided you do so in a way that is fair and legal. You must not establish a link in such a way as to suggest any form of association, approval or endorsement on our part where none exists.</p><p>
-			
-			</p><h4 class="article_subheader">Use of Artwork on this Site</h4>
-			<p class="article_text">All use of artwork on The Art Story Foundation website is governed by the terms of the Fair Use doctrine of United States copyright law.  In addition, all artwork is used "de minimus", or in the minimum and insignificant amount, that often translates into small, cropped images.  This is done to prevent indivuduals and organizations from unlawful use of copyrighted materials.</p><p>
-			</p><p class="article_text">The Art Story Foundation website is completely non-profit and educational in nature. Our mission is to promote the understanding and appreciation of modern art.</p>
-			
-			<h4 class="article_subheader">What personal information do we collect from the people that visit our blog, website or app?</h4>
-			<p class="article_text">When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number or other details to help you with your experience.</p>
-
-			<h4 class="article_subheader">When do we collect information?</h4>			
-			<p class="article_text">We collect information from you when you register on our site, subscribe to a newsletter, respond to a survey, fill out a contact form.	</p>			
-			
-			<h4 class="article_subheader">How do we use your information?</h4>
-			<p class="article_text">We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:</p><ul>     <li>To improve our website in order to better serve you.      </li><li>To allow us to better service you in responding to your customer service requests.      </li><li>To send periodic emails regarding your order or other products and services.      </li><li>To follow up with them after correspondence (live chat, email or phone inquiries)</li></ul>			<p></p>			
-			
-			<h4 class="article_subheader">How do we protect your information?</h4>
-			<p class="article_text"></p><ul><li>We do not use vulnerability scanning and/or scanning to PCI standards.</li><li>We only provide articles and information. We never ask for credit card numbers.</li><li>We use regular Malware Scanning.	  </li></ul>			<p></p>			
-			
-			<h4 class="article_subheader">Do we use 'cookies'?</h4>
-			<p class="article_text">Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.			</p>			
-			
-			<h4 class="article_subheader">We use cookies to:</h4>
-			<p class="article_text"></p><ul>      <li>Understand and save user's preferences for future visits.      </li><li>Keep track of advertisements.      </li><li>Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.</li></ul>You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.			<p></p>			
-			
-			<h4 class="article_subheader">If users disable cookies in their browser:</h4>
-			<p class="article_text">If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.Some of the features that make your site experience more efficient and may not function properly.			</p>			
-			
-			<h4 class="article_subheader">Third-party disclosure</h4>
-			<p class="article_text">We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety. <br><br>However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.			</p>			
-			
-			<h4 class="article_subheader">Third-party links</h4>
-			<p class="article_text">Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.			</p>			
-			
-			<h4 class="article_subheader">Google</h4>
-			<p class="article_text">Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en <br><br>We use Google AdSense Advertising on our website.<br><br>Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.<br><br>We have implemented the following: Remarketing with Google AdSense, Google Display Network Impression Reporting, DoubleClick Platform Integration<br><br>We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.			</p>			
-			
-			<h4 class="article_subheader">Opting out:</h4>
-			<p class="article_text">Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.			</p>			
-			
-			<h4 class="article_subheader">California Online Privacy Protection Act</h4>
-			<p class="article_text">CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf			</p>			
-			
-			<h4 class="article_subheader">According to CalOPPA, we agree to the following:</h4>
-			<p class="article_text">Users can visit our site anonymously.<br><br>Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.<br><br>Our Privacy Policy link includes the word 'Privacy' and can easily be found on the page specified above.<br><br>You will be notified of any Privacy Policy changes on our Privacy Policy Page<br><br>Can change your personal information by emailing us			</p>			
-			
-			<h4 class="article_subheader">COPPA (Children Online Privacy Protection Act)</h4>
-			<p class="article_text">When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.			</p>			
-			
-			<h4 class="article_subheader">Fair Information Practices</h4>
-			<p class="article_text">The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.<br><br>In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur we will notify you via email within 7 business days<br><br>We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.			</p>			
-			
-			<h4 class="article_subheader">CAN SPAM Act</h4>
-			<p class="article_text">The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.			</p>			
-			
-			<h4 class="article_subheader">We collect your email address in order to:</h4>
-			<p class="article_text">      • Send information, respond to inquiries, and/or other requests or questions      • Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.			</p>			
-			
-			<h4 class="article_subheader">To be in accordance with CANSPAM, we agree to the following:</h4>
-			<p class="article_text"></p><ul>      <li>Not use false or misleading subjects or email addresses.      </li><li>Identify the message as an advertisement in some reasonable way.      </li><li>Include the physical address of our business or site headquarters.      </li><li>Monitor third-party email marketing services for compliance, if one is used.      </li><li>Honor opt-out/unsubscribe requests quickly.      </li><li>Allow users to unsubscribe by using the link at the bottom of each email.</li></ul><br><br>If at any time you would like to unsubscribe from receiving future emails, you can email us atinfo@theartstory.org and we will promptly remove you from ALL correspondence.			<p></p>			
-			
-			<h4 class="article_subheader">Contacting Us</h4>
-			<p class="article_text">If there are any questions regarding this privacy policy, you may contact us using the information below.<br><br><br>The Art Story <br>253 West 73rd St 13H<br>New York, NEW YORK 10023<br>United States<br>info@theartstory.org	  </p><p>
-			
-			
-			
-			</p><div style="float:left;height:250px;">
-			<div id="share-middle-facebook-twitter" class="share-facebook-twitter">
-	<a class="share-button-wrapper share-button-facebook" onclick="return fb_sharer()" target="_blank">
-		<span class="share-button-img"><img src="/images20/new_design/fb_white.gif"></span><span class="share-button-text">Share on Facebook</span>
-	</a>
-	<a class="share-button-wrapper share-button-twitter" onclick="return tweet_it()" target="_blank">
-		<span class="share-button-img"><img src="/images20/new_design/tw_white.gif"></span><span class="share-button-text">Share on Twitter</span>
-	</a>
-</div>
-<div id="share-middle">
-	<div class="share-button-tas">
-		<span>Subscribe to The Art Story</span>								
-	</div>								
-	<a class="share-button-wrapper share-button-facebook" onclick="return fb_sharer()" target="_blank">
-		<span class="share-button-img"><img src="/images20/new_design/fb_white.gif"></span><span class="share-button-text">Share on Facebook</span>
-	</a>
-	<a class="share-button-wrapper share-button-twitter" onclick="return tweet_it()" target="_blank">
-		<span class="share-button-img"><img src="/images20/new_design/tw_white.gif"></span><span class="share-button-text">Share on Twitter</span>
-	</a>
-	<div id="subscribe-box">
-		<form id="subscribe-form">
-			<input type="text" value="Email adress" id="email_subscribe">
-			<br>
-			<input type="submit" id="email_subscribe_button" name="submit" value="Subscribe">
-			<br>
-			<span>By submitting above you agree to the <a href="">ArtStory</a> privacy policy.</span>
-		</form>
-		<div id="subscribe-sucsess" class="subscribe-message">
-			Welcome to The Art Story!
-		</div>
-		<div id="subscribe-error" class="subscribe-message">
-			Error occured while saving data...
-			<br>
-			Please, try again later.
-		</div>
-		<div class="vertical-line"></div>
-		<div class="fb-box">
-		<span>Like The Art Story on <a href="https://www.facebook.com/TheArtStory" target="_blank">Facebook</a></span>
-			<br>
-			<div class="fb-bg">
-				<div class="fb-like fbtn1 fb_iframe_widget" data-href="https://www.facebook.com/TheArtStory" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false" fb-xfbml-state="rendered" fb-iframe-plugin-query="action=like&amp;app_id=127759120586830&amp;container_width=80&amp;href=https%3A%2F%2Fwww.facebook.com%2FTheArtStory&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;share=false&amp;show_faces=false"><span style="vertical-align: bottom; width: 82px; height: 20px;"><iframe name="f25b8d2b3" width="1000px" height="1000px" frameborder="0" allowtransparency="true" scrolling="no" title="fb:like Facebook Social Plugin" src="http://www.facebook.com/plugins/like.php?action=like&amp;app_id=127759120586830&amp;channel=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter%2FrFG58m7xAig.js%3Fversion%3D41%23cb%3Df2563f104c%26domain%3Dwww.theartstory.org%26origin%3Dhttp%253A%252F%252Fwww.theartstory.org%252Ff32621489%26relation%3Dparent.parent&amp;container_width=80&amp;href=https%3A%2F%2Fwww.facebook.com%2FTheArtStory&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;share=false&amp;show_faces=false" style="border: none; visibility: visible; width: 82px; height: 20px;" class=""></iframe></span></div>
-			</div>	
-		</div>
-	</div>
-</div>
-<br>
-			</div>
-		</div>
-		
-		
-		
-		
-	</div>
-</div>
-<div id="footer">
-	<div class="minimap">
-		<div class="minimap_holder">
-			<table>
-				<tbody><tr valign="top">						
-					<td style="width: 200px;">
-						<div class="minimap_header">
-							Movements
-						</div>
-						<a href="movement-art-nouveau.htm" class="minimap_link">Art Nouveau</a>
-						<br>
-						<a href="movement-bauhaus.htm" class="minimap_link">Bauhaus</a>
-						<br>
-						<a href="movement-dada.htm" class="minimap_link">Dada</a>
-						<br>
-						<a href="movement-pop-art.htm" class="minimap_link">Pop Art</a>
-						<br>						
-						<br>
-						<a href="section_movements.htm" class="minimap_link">All Movements</a>
-					</td>
-					<td style="width: 200px;">
-						<div class="minimap_header">
-							Artists
-						</div>
-						<a href="artist-duchamp-marcel.htm" class="minimap_link">Marcel Duchamp</a>
-						<br>
-						<a href="artist-magritte-rene.htm" class="minimap_link">Rene Magritte</a>
-						<br>
-						<a href="artist-rothko-mark.htm" class="minimap_link">Mark Rothko</a>
-						<br>
-						<a href="artist-pollock-jackson.htm" class="minimap_link">Jackson Pollock</a>
-						<br>
-						<br>
-						<a href="section_artists.htm" class="minimap_link">All Artists</a>
-					</td>
-					<td style="width: 255px;">
-						<div class="minimap_header">
-							Timelines
-						</div>
-						<a href="section_movements_timeline.htm" class="minimap_link">Movements Timeline</a>
-						<br>
-						<a href="top50.htm" class="minimap_link">The Top 50 Timeline</a>
-						<br>
-						<a href="sculpture_timeline.htm" class="minimap_link">The Modern Sculpture Timeline</a>
-						<br>
-						<a href="timeline_abex.htm" class="minimap_link">The Abstract Expressionism Timeline</a>
-						<br>
-						<br>
-						<a href="section_timelines.htm" class="minimap_link">All Timelines</a>
-					</td>
-					<td style="width: 240px;">
-						<div class="minimap_header">
-							Idea and Art Theory
-						</div>
-						<a href="definition-modern-art.htm" class="minimap_link">Modern Art - Defined</a>
-						<br>
-						<a href="definition-postmodernism.htm" class="minimap_link">Postmodernism - Defined</a>
-						<br>
-						<a href="definition-existentialism.htm" class="minimap_link">Existentialism in Art</a>
-						<br>
-						<a href="critics-greenberg-rosenberg.htm" class="minimap_link">Greenberg vs. Rosenberg</a>
-						<br>
-						<br>
-						<a href="section_critics.htm" class="minimap_link">Full Section Overview</a>
-				
-					</td>
-					<td style="width: 125px;">
-						<div class="minimap_header">
-							The Art Story
-						</div>
-						<a href="about_us.htm" class="minimap_link">About Us</a>						
-						<br>
-						<a href="contact_us.htm" class="minimap_link">Contact Us</a>
-						<br><br>
-						<a href="http://www.theartstory.org/blog/" class="minimap_link">Our Blog</a>
-						<br><br>
-						<a href="donate.htm" class="donate-button">DONATE</a>
-					</td>
-				</tr>
-			</tbody></table>
-		</div>
-	</div>
-	<div class="footer_box">
-		<div>
-			<table>
-				<tbody><tr valign="top">
-					<td width="240px">
-						<a href="http://www.theartstory.org"><img src="/images20/new_design/footer_logo.gif"></a>
-					</td>
-					<td width="617px">
-						<div class="footer-text">
-						©2018 The Art Story Foundation.  All Rights Reserved | <a href="terms.htm" class="footer_link">Privacy Policy</a> | <a href="sitemap.htm" class="footer_link">Sitemap</a>
-						<br>
-						Web Services &amp; Hosting by <a href="http://www.WebBusConnect.com" class="footer_link">The Computer Studio</a> | Designed by <a href="http://desartlab.com" class="footer_link">DesArtLab</a>
-						</div>
-					</td><td width="165px">
-						<div class="footer-bar-holder">						
-							<a href="https://twitter.com/TheArtStory" target="_blank"><img src="/images20/new_design/footer_twitter.gif"></a>
-							<a href="https://www.facebook.com/TheArtStory" target="_blank"><img src="/images20/new_design/footer_facebook.gif"></a>
-							<a href="https://plus.google.com/116240175951121162347/posts" target="_blank"><img src="/images20/new_design/footer_google.gif"></a>
-						</div>
-					</td>
-				</tr>
-			</tbody></table>							
-		</div>
-	</div>
-</div>
-
-</body></html>
+.image-info-btn{
+	width:35px;
+	height:35px;
+	background-color: #000;		
+	position:absolute;
+	right:0px;
+	bottom:0px;	
+	z-index:100;
+}
+.image-info-btn-hover{
+	background-color: #FFC943 !important;
+}
+.image-info-i{
+	background:url(../images20/new_design/info-io.png) no-repeat;
+	background-position: 50%;
+}
+.image-info-x{
+	background:url(../images20/new_design/info-x.png) no-repeat;
+	background-position: 50%;
+}
+.image-info-desc{
+	display:none;
+	padding: 12px 35px 11px 10px;
+	color: #fff;
+    background-color: rgba(0,0,0,.75);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    max-height: 100%;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+	z-index:99;
+}
+#typo_error{
+    border-radius: 4px;
+    border-top: 1px solid #0080c8;
+    border-bottom: 3px solid #0080c8;
+    margin-top: 30px;
+    padding: 20px 5px;
+	height: 70px
+}
+.type-text{
+	text-align:center;
+	font-size:24px;
+	color:#0080c8;
+}
+#tell_us_error{
+	color:#DD8D72;
+	font-style:italic;
+	text-transform:uppercase;
+	text-decoration: underline;
+	cursor:pointer;
+	font-size: 22px;
+}
+#cite_page{
+	color:#0080c8;
+	font-style:italic;
+	cursor:pointer;
+	position: absolute;
+    right: 100px;
+}
+.sponsored-box-title{
+	font: 400 14px Roboto,sans-serif;
+    padding: 15px 0;
+    cursor: pointer;
+	background:url(../images20/new_design/blue_arw_down_small.png) no-repeat;
+	background-position: 98% 50%;
+	text-align: right;
+    padding-right: 40px;
+}
+#sponsored-box-title2{
+	padding-right: 30px !important;
+}
+.sponsored-box-overlay{	
+	background: url(/images20/overlay.png);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 90;
+    width: 100%;
+	height: 5000px;
+	display:none;
+}
+#meural_banner_main{
+	margin-top: 20px;padding-bottom: 10px;
+}
+#meural_banner_left{
+	position: absolute;
+    margin-top: -387px;
+    padding-bottom: 10px;
+}
+.jq-dropdown {
+  position: absolute;
+  z-index: 1039;
+  display: none;
+}
+.jq-dropdown .jq-dropdown-menu,
+.jq-dropdown .jq-dropdown-panel {
+  min-width: 160px;
+  max-width: 360px;
+  list-style: none;
+  background: white;
+  border: solid 1px #ddd;
+  border-radius: 4px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  overflow: visible;
+  padding: 4px 0;
+  margin: 0;
+}
+.jq-dropdown .jq-dropdown-panel {
+  padding: 10px;
+}
+.jq-dropdown.jq-dropdown-tip {
+  margin-top: 8px;
+}
+.jq-dropdown.jq-dropdown-tip:before {
+  position: absolute;
+  top: -6px;
+  right: 9px;
+  content: "";
+  border-left: 7px solid transparent;
+  border-right: 7px solid transparent;
+  border-bottom: 7px solid #ddd;
+  display: inline-block;
+}
+.jq-dropdown.jq-dropdown-tip:after {
+  position: absolute;
+  top: -5px;
+  right: 10px;
+  content: "";
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-bottom: 6px solid white;
+  display: inline-block;
+}
+.jq-dropdown .jq-dropdown-menu li {
+  list-style: none;
+  padding: 0 0;
+  text-indent: 0;
+  margin: 0;
+  line-height: 18px;
+}
+.jq-dropdown .jq-dropdown-menu li > a,
+.jq-dropdown .jq-dropdown-menu label {
+    font-size: 16px;
+  display: block;
+  color: inherit;
+  text-decoration: none;
+  line-height: 18px;
+  padding: 3px 15px;
+  margin: 0;
+  white-space: nowrap;
+}
+.jq-dropdown .jq-dropdown-menu li > a:hover,
+.jq-dropdown .jq-dropdown-menu label:hover {
+  background-color: #f2f2f2;
+  color: inherit;
+  cursor: pointer;
+}
+.jq-dropdown .jq-dropdown-menu .jq-dropdown-divider {
+  font-size: 1px;
+  border-top: solid 1px #e5e5e5;
+  padding: 0;
+  margin: 5px 0;
+}
+.sortable-box {
+    border-radius: 4px;
+    border-top: 1px solid #0080c8;
+    border-bottom: 3px solid #0080c8;
+	margin:20px 0;
+	padding-bottom:20px;
+}
+.sortable-advetrisment{
+    font: 400 italic 12px OpenSans,sans-serif;
+    text-align: center;
+    margin: 10px 0;
+}
+.meural-left-buttons-container{
+	height:50px;
+	margin-bottom:10px;
+}
+.meural-left-button{
+    float: left;
+    background: #E88540;
+    height: 50px;
+    line-height: 50px;
+    width: 117px;
+    text-align: center;
+    color: #fff;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.bottom-share-container-close{
+	width:20px;
+	height:20px;	
+	position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+	background: url(../images20/new_design/x-white-16.png) no-repeat;
+}
+.contents-box-helper{
+	position: relative;
+}
+.contents-box-close {
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    cursor: pointer;
+    background: url(../images20/new_design/x-blue-10.png) no-repeat;
+}
+.pdf-link-continer{
+	display: inline-block;
+    width: 447px;
+}
+.pdf-link-continer img{
+	float: left;
+}
+.pdf-link-continer .pdf-link{
+	float: left;
+    height: 30px;
+    line-height: 30px;
+    margin:0 5px;
+    font-size: 14px;    
+}
+.blocked-message-img{
+	display:none;
+}
+#blocked-message{
+	display:none;
+	margin-top: 30px;
+	padding-top: 20px;
+    border-radius: 4px;
+    border-top: 1px solid #0080c8;
+    border-bottom: 3px solid #0080c8;
+}
+#blocked-message-imgages{
+	display: table;
+    margin: 0 auto;    
+}
+.artist-timeline-dot{
+	position: absolute;
+    bottom: 41px;
+	cursor: pointer;
+	-ms-user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+.timeline-ttip{
+	display:none;	
+	height:300px;	
+	position: absolute;	
+	z-index:100;
+	width: 837px;
+}
+.timeline-ttip-vert-line{
+	width: 2px;
+	height:80px;
+	position: absolute;
+	background:#7F7F7F;
+	top:-17px;
+}
+.timeline-ttip-close{
+	width:27px;
+	height:35px;
+	cursor:pointer;
+	position:absolute;
+	right:0px;
+	top:60px;
+	background:url(../images20/new_design/x_timeline.png) no-repeat;
+}
+.timeline-ttip-left{
+	width:27px;
+	height:35px;
+	cursor:pointer;
+	position:absolute;
+	right:0px;
+	top:140px;
+	background:url(../images20/new_design/backward_timeline.png) no-repeat;
+}
+.timeline-ttip-right{
+	width:27px;
+	height:35px;
+	cursor:pointer;
+	position:absolute;
+	right:0px;
+	top:100px;
+	background:url(../images20/new_design/forward_timeline.png) no-repeat;
+}
+.timeline-ttip-box{
+	background:#EFEFEF;
+	padding:20px 20px 10px 20px;
+	border-radius: 7px;	
+	position: absolute;
+    top: 55px;	
+}
+.timeline-ttip-title{
+	font-size: 13px;
+    color: #000;
+    text-align: center;
+    margin-top: 10px;
+	max-width: 290px;
+}
+.timeline-ttip-artist{
+	font-size: 13px;
+    color: #000;
+    text-align: center;
+    margin-top: 5px;
+	max-width: 290px;
+}
+.timeline-start-ttip{	
+	display:none;
+	position: absolute;	
+	z-index:100;
+	background:#0080c8;
+	padding: 20px 20px 20px 20px;
+	border-radius: 7px;	
+	position: absolute;
+	top:173px;
+}
+.timeline-start-ttip-box{
+	background: #fff;
+    display: inline-block;
+    padding: 20px 20px 5px;
+    border-radius: 10px;
+}
+.timeline-start-ttip-box img{
+	width: 200px;
+}
+.timeline-start-ttip-close{
+	width:15px;
+	height:15px;
+	cursor:pointer;
+	position:absolute;
+	right:10px;
+	top:10px;
+	background:url(../images20/new_design/artist-tl-close-white.png) no-repeat;
+}
+.timeline-start-ttip .top-arrow{
+	background:url(../images20/new_design/artist-timeline-start-ttip-arw-50.png) no-repeat;
+	width: 50px;
+    height: 25px;
+    position: absolute;
+    top: -28px;
+    left: 50px;
+}
+.timeline-start-ttip-text{
+	float: right;
+    margin: 35px 10px 0 10px;
+    font: 500 14px Roboto,sans-serif;
+    color: #fff;
+    cursor: pointer;
+	line-height: 25px;
+}
+#dynamic_tooltips{
+	display: none;
+}
+.resource_tab h3{
+	margin: 0;
+    font: 300 20px Roboto,sans-serif;
+}
+#cookie_bar {
+	display:none;
+    height: 60px;
+    background-color: #F3F3F3;    
+    position: fixed;
+	bottom:0px;
+    width: 100%;
+    z-index: 999999;
+	-webkit-box-shadow: 0px -5px 5px -3px rgba(50, 50, 50, 0.5);
+	-moz-box-shadow:    0px -5px 5px -3px rgba(50, 50, 50, 0.5);
+	box-shadow:         0px -5px 5px -3px rgba(50, 50, 50, 0.5);
+}
+.cookie-bar-holder {
+	width:1052px;
+	margin:18px auto;
+	line-height:60px;
+	height: 60px;
+	text-align:center;
+	font: 300 14px 'Roboto', sans-serif;
+	color:#0080c8;
+}
+#cookie_bar a{
+	text-decoration:underline;
+}
+#cookie_bar .gotit{
+	background-color: #0080c8;
+	color: #fff;
+    padding: 5px;
+    border-radius: 10px;
+	font: 400 16px 'Roboto', sans-serif;
+	margin-left: 10px;
+	cursor:pointer;
+}
+.framedart-box{	
+    border-radius: 4px;
+    border-top: 1px solid #0080c8;
+    border-bottom: 3px solid #0080c8;   
+	padding-bottom: 20px;
+	display:none;
+}
+#framedart1{
+	width: 160px;
+    margin: 100px auto 0 auto;
+}
+#search_panel{
+	display:none;
+	width: 100%;
+    position: absolute;    
+    background: white;
+    z-index: 999999;
+    top: 0px;
+	border-bottom: 3px solid #0080c8;
+	padding-bottom: 10px;
+}	
+.search-input-block{
+    width: 1052px;
+    margin: 0 auto;
+	padding:30px 0;
+}
+.search-results-suggestions{
+	width: 1052px;
+    margin: 0 auto;
+}
+#search_input_wide{
+    background-color: #fff;
+    color: #999;
+    border: 0;    
+	border-bottom: 1px solid #0080c8;
+    font-size: 16px;
+    height: 30px;
+    outline: 0;
+    padding: 5px 10px;
+    width: 980px;
+	font-style: italic;
+}
+#search_panel_close{
+	width: 25px;
+    height: 30px;
+    cursor: pointer;
+    background: url(../images20/new_design/x-blue-25.png) no-repeat;
+	float: right;
+    margin-top: 10px;
+}
+.suggestion-block{	
+	width: 340px;
+	overflow:hidden;
+	float: left;
+    padding: 0 5px;
+	margin-bottom: 20px;
+}
+#suggestion_artwork{
+	width: 100%;
+}
+.suggestion-header{
+	font: 16px Roboto,sans-serif;
+    color: #999;
+    text-transform: uppercase;
+}
+.suggestion-item{
+	list-style:none;
+	font-size:15px;
+	margin:5px 0;
+}
+.search-match{
+	font-weight: 500;
+}
+#search_overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.6);
+    z-index: 999998;
+	display:none;
+}
+.suggestion-item-selected{
+	background: #f0f8ff;
+}
+.no-suggestions-item{
+	list-style:none;
+	font-size:15px;
+	margin:5px 0;
+}
+.no-suggestions{
+	color: #c3c3c3;
+}
+#search_all{
+	width: 100%;
+    background: #00629C;
+    border-radius: 4px;    
+    padding: 10px;
+    margin-bottom: 10px;
+    float: left;    
+	text-align: center;	
+}
+#search_all a{
+    color: #fff;
+	font: 400 17px 'Roboto', sans-serif;
+}
+.article sup{
+	vertical-align: baseline;
+    position: relative;
+    top: -0.5em;
+	font-size: 0.7em;
+}
+.artwork-desc sup{
+	vertical-align: baseline;
+    position: relative;
+    top: -0.5em;
+	font-size: 0.7em;
+}
+.artwork-desc sup{
+	vertical-align: baseline;
+    position: relative;
+    top: -0.5em;
+	font-size: 0.7em;
+}
+.image-info-desc sup{
+	vertical-align: baseline;
+    position: relative;
+    top: -0.3em;
+	font-size: 0.7em;
+}
+#search_loading{
+	display:none;
+}
+#search_loading .wheel {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 50%;
+    left: 50%;
+    margin-top: 20px;
+}
+.sortable-imgcol{
+	margin-top:50px;
+	border:none !important; 
+}
+.cinfo-button{
+	background: url(../images20/new_design/info-co.png) no-repeat;
+	background-position: 50%;
+	cursor: pointer;
+}
+.cinfo-button-hover{
+	background-color: #FFC943 !important;
+}
+#chart-box .image-container{
+	cursor: auto !important;
+	position: absolute !important;
+}
+#chart-box .cinfo-button-bio{
+	top: 226px;
+    left: 153px;
+}
+#chart-box .cinfo-button-collage{
+	top: 225px;
+    left: 540px;
+}
+.artwork-row .cinfo-button{
+	left: 0px;
+    bottom: 33px;
+}
+.image-alignright .cinfo-button{	
+	left: 0px;
+}	</style><link rel="stylesheet" type="text/css" href="/css/common_async-min.css?6"><link rel="stylesheet" type="text/css" href="/css/lightbox-min.css"></head><body><script>
+function tweet_it_from(sender) {
+	do_sharing(2);	
+	ga('send', 'social', 'Twitter', 'Tweet', location.href);
+	trackEvent(3, sender);
+	window.open('//twitter.com/intent/tweet?related=theartstory&text='+encodeURIComponent(getShareTextTwitter())+'&url='+encodeURIComponent(location.href), "Twitter", getWindowOpts(625, 300));
+	return false;
+}
+function fb_sharer_from(sender) {
+	ga('send', 'social', 'Facebook', 'Share', location.href);
+	trackEvent(10, sender);
+	FB.ui({method: 'feed', link: location.href}, function(response){});
+	return false;
+}	
+function pinterest() {
+    trackEvent(1, '');
+    ga('send', 'social', 'Pinterest', 'Share', location.href);
+    var e = document.createElement('script');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('charset', 'UTF-8');
+    e.setAttribute('src', '//assets.pinterest.com/js/pinmarklet.js?r=' + Math.random() * 99999999);
+    document.body.appendChild(e);
+    return false;
+}
+</script><div id="feedback_button"> <a href="" onclick="return send_feedback()"><img src="/images20/new_design/tas_feedback.png"></a> </div><div id="left_print_button" style="display:none;"> <a href="" onclick="return print_page()"><img src="/images20/new_design/tas_print.png"></a> </div><div id="share_panel"><ul><li><span class="sh_button_right">Share</span></li><li class="facebook_element"><span class="sh_button_right"><a href="#" onclick="return fb_sharer_from('Right banner')"><img src="/images20/new_design/sh_right_facebook.gif"></a></span></li><li><span class="sh_button_right"><a href="#" onclick="return tweet_it_from('Right banner')"><img src="/images20/new_design/sh_right_twitter.gif"></a></span></li><li><span class="sh_button_right"><a href="#" onclick="return google_plus()"><img src="/images20/new_design/sh_right_google.gif"></a></span></li><li><span class="sh_button_right"><a href="#" onclick="return pinterest()"><img src="/images20/new_design/sh_right_pinterest.gif"></a></span></li> </ul></div> <a href="#" class="back-to-top"></a> <div id="fb-root"></div><div id="search_overlay"></div><div id="search_panel"><div class="search-input-block"><form action="/search_results.htm" id="cse-search-box"><div> <input type="hidden" name="cx" value="011726106571383295395:sijawrmm1zc"> <input type="hidden" name="cof" value="FORID:10"> <input type="hidden" name="ie" value="UTF-8"> <input type="text" name="q" placeholder="What are you searching for?" id="search_input_wide" autocomplete="off"> <div id="search_panel_close"></div></div></form></div><div id="search_loading"><div class="wheel"><img src="/images20/lightbox/loading.gif"></div></div><div class="search-results-suggestions"><div class="suggestion-block" id="suggestion_artist"></div><div class="suggestion-block" id="suggestion_movement"></div><div class="suggestion-block" id="suggestion_critic"></div><div class="suggestion-block" id="suggestion_definition"></div><div class="suggestion-block" id="suggestion_artmov"></div><div class="suggestion-block" id="suggestion_theme"></div><div class="suggestion-block" id="suggestion_artwork"></div></div></div>	<div id="cookie_bar"><div class="cookie-bar-holder"> COOKIE USE:&nbsp;&nbsp;&nbsp;&nbsp;Cookies help us deliver the best possible service to you. By using our site, you agree to our <a href="terms.htm">terms</a>, and usage of cookies. <span class="gotit">GOT IT!</span></div></div>	<script language="javascript" type="text/javascript">/*<![CDATA[*/function clearSearch(a){if(document.getElementById(a).value=='Search'){document.getElementById(a).value=""}}/*]]>*/</script><div id="floating-menu"><div id="top-menu"><div class="top-menu-holder"><table width="100%"><tbody><tr><td width="270px;"><a href="//www.theartstory.org"><div class="logo">The Art Story.org - Your Guide to Modern Art</div></a></td><td width="20px;"></td><td class="buttons-col"><table class="buttons-table"><tbody><tr><td class="btn-col "><a class="menu-btn" href="/section_movements.htm">Movements</a></td><td class="btn-col "><a class="menu-btn" href="/section_artists.htm">Artists</a></td><td class="btn-col "><a class="menu-btn" href="/section_timelines.htm">Timelines</a></td><td class="btn-col-small "><a class="menu-btn" href="/section_critics.htm">Ideas</a></td><td class="btn-col-small"><a class="menu-btn" href="/blog">Blog</a></td></tr></tbody></table></td><td width="20px;"></td><td width="250px;" class="search-col"><div id="search_box"><form action="/search_results.htm" id="cse-search-box"><div> <input type="hidden" name="cx" value="011726106571383295395:sijawrmm1zc"> <input type="hidden" name="cof" value="FORID:10"> <input type="hidden" name="ie" value="UTF-8"> <input type="text" name="q" id="search_input" value="Search" onclick="clearSearch('search_input');"> </div> <input type="submit" name="sa" value="" id="search_btn" disabled=""> </form></div></td></tr></tbody></table></div></div></div><script>
+var searchClicked = false;
+var searchInputStarted = false;
+function showSearchPanelMin(){	
+	searchClicked = true;
+	document.getElementById('search_panel').style.display = 'block';
+	document.getElementById('search_overlay').style.display = 'block';
+	search_input_wide.value= "";
+	search_input_wide.focus();
+	return false;
+}
+function closeSearchPanelMin(){
+	document.getElementById('search_panel').style.display = 'none';
+	document.getElementById('search_overlay').style.display = 'none';
+}
+function onSearchInputMin(){
+	document.getElementById('search_loading').style.display = 'block';
+	searchInputStarted = true;
+}
+(function() {
+	search_input.onclick = function(){
+		showSearchPanelMin();
+	};
+	search_panel_close.onclick = function(){
+		closeSearchPanelMin();
+	};
+	search_overlay.onclick = function(){
+		closeSearchPanelMin();
+	};
+	search_input_wide.oninput = function(){
+		onSearchInputMin();
+	};
+	search_btn.disabled = true;
+})();
+</script>	<div id="wrapper"> <a href="about_us.htm" class="about-us-line"><img src="/images20/new_design/about_us_line.png" alt="About us"></a> <div id="content"><div id="path-box"><span><a href="index.htm"><img src="/images20/new_design/path_home.gif"></a></span> <span>Terms</span></div><div class="left-col"><div class="like-box"><p>Like The Art Story on <a href="https://www.facebook.com/TheArtStory" target="_blank">Facebook</a></p><div class="fb-like" data-href="https://www.facebook.com/TheArtStory" data-width="248" data-layout="standard" data-action="like" data-show-faces="true" data-share="false"></div></div></div><div class="right-col"><h3 class="article_header" id="about_header">Privacy Policy</h3><p class="article_text">This website was built and is operated by The Art Story Foundation, an educational 501(c)(3) non-profit organization. The material included herein, including without limitation all content, text, site design, logos, icons, code, scripts and software, is the property of The Art Story Foundation and/or its content suppliers and is protected by the trademark, copyright and other intellectual property laws of the United States and other countries. Copyrights and other proprietary rights in the content on this website may also be owned by individuals and entities other than, and in addition to, The Art Story Foundation.</p><p></p><p class="article_text">This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.</p><p></p><h4 class="article_subheader">Use of Materials</h4><p class="article_text">The Art Story website is for informational purposes only and is provided to you solely for your own personal, non-commercial use. Written permission must be received from The Art Story Foundation to use the content on this website for any other purpose.</p><p></p><h4 class="article_subheader">External Links</h4><p class="article_text">The Art Story website includes links to external websites. These links do not fall under the The Art Story Foundation domain, and The Art Story website is not responsible for the content, materials, or privacy practices of those external websites. Your use of any external website is solely at your own risk.</p><p></p><h4 class="article_subheader">Linking to our Site</h4><p class="article_text">Other sites may link to The Art Story website homepage or any other page on our site, provided you do so in a way that is fair and legal. You must not establish a link in such a way as to suggest any form of association, approval or endorsement on our part where none exists.</p><p></p><h4 class="article_subheader">Use of Artwork on this Site</h4><p class="article_text">All use of artwork on The Art Story Foundation website is governed by the terms of the Fair Use doctrine of United States copyright law. In addition, all artwork is used "de minimus", or in the minimum and insignificant amount, that often translates into small, cropped images. This is done to prevent indivuduals and organizations from unlawful use of copyrighted materials.</p><p></p><p class="article_text">The Art Story Foundation website is completely non-profit and educational in nature. Our mission is to promote the understanding and appreciation of modern art.</p><h4 class="article_subheader">What personal information do we collect from the people that visit our blog, website or app?</h4><p class="article_text">When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number or other details to help you with your experience.</p><h4 class="article_subheader">When do we collect information?</h4><p class="article_text">We collect information from you when you register on our site, subscribe to a newsletter, respond to a survey, fill out a contact form.	</p><h4 class="article_subheader">How do we use your information?</h4><p class="article_text">We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:</p><ul> <li>To improve our website in order to better serve you. </li><li>To allow us to better service you in responding to your customer service requests. </li><li>To send periodic emails regarding your order or other products and services. </li><li>To follow up with them after correspondence (live chat, email or phone inquiries)</li></ul> <p></p><h4 class="article_subheader">How do we protect your information?</h4><p class="article_text"></p><ul><li>We do not use vulnerability scanning and/or scanning to PCI standards.</li><li>We only provide articles and information. We never ask for credit card numbers.</li><li>We use regular Malware Scanning. </li></ul> <p></p><h4 class="article_subheader">Do we use 'cookies'?</h4><p class="article_text">Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. </p><h4 class="article_subheader">We use cookies to:</h4><p class="article_text"></p><ul> <li>Understand and save user's preferences for future visits. </li><li>Keep track of advertisements. </li><li>Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.</li></ul>You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies. <p></p><h4 class="article_subheader">If users disable cookies in their browser:</h4><p class="article_text">If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.Some of the features that make your site experience more efficient and may not function properly. </p><h4 class="article_subheader">Third-party disclosure</h4><p class="article_text">We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety. <br><br>However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. </p><h4 class="article_subheader">Third-party links</h4><p class="article_text">Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. </p><h4 class="article_subheader">Google</h4><p class="article_text">Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en <br><br>We use Google AdSense Advertising on our website.<br><br>Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.<br><br>We have implemented the following: Remarketing with Google AdSense, Google Display Network Impression Reporting, DoubleClick Platform Integration<br><br>We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website. </p><h4 class="article_subheader">Opting out:</h4><p class="article_text">Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on. </p><h4 class="article_subheader">California Online Privacy Protection Act</h4><p class="article_text">CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf </p><h4 class="article_subheader">According to CalOPPA, we agree to the following:</h4><p class="article_text">Users can visit our site anonymously.<br><br>Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.<br><br>Our Privacy Policy link includes the word 'Privacy' and can easily be found on the page specified above.<br><br>You will be notified of any Privacy Policy changes on our Privacy Policy Page<br><br>Can change your personal information by emailing us </p><h4 class="article_subheader">COPPA (Children Online Privacy Protection Act)</h4><p class="article_text">When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online. </p><h4 class="article_subheader">Fair Information Practices</h4><p class="article_text">The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.<br><br>In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur we will notify you via email within 7 business days<br><br>We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors. </p><h4 class="article_subheader">CAN SPAM Act</h4><p class="article_text">The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations. </p><h4 class="article_subheader">We collect your email address in order to:</h4><p class="article_text"> • Send information, respond to inquiries, and/or other requests or questions • Market to our mailing list or continue to send emails to our clients after the original transaction has occurred. </p><h4 class="article_subheader">To be in accordance with CANSPAM, we agree to the following:</h4><p class="article_text"></p><ul> <li>Not use false or misleading subjects or email addresses. </li><li>Identify the message as an advertisement in some reasonable way. </li><li>Include the physical address of our business or site headquarters. </li><li>Monitor third-party email marketing services for compliance, if one is used. </li><li>Honor opt-out/unsubscribe requests quickly. </li><li>Allow users to unsubscribe by using the link at the bottom of each email.</li></ul><br><br>If at any time you would like to unsubscribe from receiving future emails, you can email us atinfo@theartstory.org and we will promptly remove you from ALL correspondence. <p></p><h4 class="article_subheader">Contacting Us</h4><p class="article_text">If there are any questions regarding this privacy policy, you may contact us using the information below.<br><br><br>The Art Story <br>253 West 73rd St 13H<br>New York, NEW YORK 10023<br>United States<br>info@theartstory.org </p><p></p><div style="float:left;height:250px;"><div id="share-middle-facebook-twitter" class="share-facebook-twitter"> <a class="share-button-wrapper share-button-facebook" onclick="return fb_sharer()" target="_blank"> <span class="share-button-img"><img src="/images20/new_design/fb_white.gif"></span><span class="share-button-text">Share on Facebook</span> </a> <a class="share-button-wrapper share-button-twitter" onclick="return tweet_it()" target="_blank"> <span class="share-button-img"><img src="/images20/new_design/tw_white.gif"></span><span class="share-button-text">Share on Twitter</span> </a> </div><div id="share-middle"><div class="share-button-tas"><span>Subscribe to The Art Story</span></div> <a class="share-button-wrapper share-button-facebook" onclick="return fb_sharer()" target="_blank"> <span class="share-button-img"><img src="/images20/new_design/fb_white.gif"></span><span class="share-button-text">Share on Facebook</span> </a> <a class="share-button-wrapper share-button-twitter" onclick="return tweet_it()" target="_blank"> <span class="share-button-img"><img src="/images20/new_design/tw_white.gif"></span><span class="share-button-text">Share on Twitter</span> </a> <div id="subscribe-box"><form id="subscribe-form"> <input type="text" value="Email adress" id="email_subscribe"> <br> <input type="submit" id="email_subscribe_button" name="submit" value="Subscribe"> <br><span>By submitting above you agree to the <a href="">ArtStory</a> privacy policy.</span></form><div id="subscribe-sucsess" class="subscribe-message"> Welcome to The Art Story! </div><div id="subscribe-error" class="subscribe-message"> Error occured while saving data... <br> Please, try again later. </div><div class="vertical-line"></div><div class="fb-box"><span>Like The Art Story on <a href="https://www.facebook.com/TheArtStory" target="_blank">Facebook</a></span><br><div class="fb-bg"><div class="fb-like" data-href="https://www.facebook.com/TheArtStory" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div></div></div></div></div><br></div></div></div><div id="footer"><div class="minimap"><div class="minimap_holder"><table><tbody><tr valign="top"><td style="width: 200px;"><div class="minimap_header"> Movements </div> <a href="movement-art-nouveau.htm" class="minimap_link">Art Nouveau</a> <br> <a href="movement-bauhaus.htm" class="minimap_link">Bauhaus</a> <br> <a href="movement-dada.htm" class="minimap_link">Dada</a> <br> <a href="movement-pop-art.htm" class="minimap_link">Pop Art</a> <br><br> <a href="section_movements.htm" class="minimap_link">All Movements</a> </td><td style="width: 200px;"><div class="minimap_header"> Artists </div> <a href="artist-duchamp-marcel.htm" class="minimap_link">Marcel Duchamp</a> <br> <a href="artist-magritte-rene.htm" class="minimap_link">Rene Magritte</a> <br> <a href="artist-rothko-mark.htm" class="minimap_link">Mark Rothko</a> <br> <a href="artist-pollock-jackson.htm" class="minimap_link">Jackson Pollock</a> <br><br> <a href="section_artists.htm" class="minimap_link">All Artists</a> </td><td style="width: 255px;"><div class="minimap_header"> Timelines </div> <a href="section_movements_timeline.htm" class="minimap_link">Movements Timeline</a> <br> <a href="top50.htm" class="minimap_link">The Top 50 Timeline</a> <br> <a href="sculpture_timeline.htm" class="minimap_link">The Modern Sculpture Timeline</a> <br> <a href="timeline_abex.htm" class="minimap_link">The Abstract Expressionism Timeline</a> <br><br> <a href="section_timelines.htm" class="minimap_link">All Timelines</a> </td><td style="width: 240px;"><div class="minimap_header"> Idea and Art Theory </div> <a href="definition-modern-art.htm" class="minimap_link">Modern Art - Defined</a> <br> <a href="definition-postmodernism.htm" class="minimap_link">Postmodernism - Defined</a> <br> <a href="definition-existentialism.htm" class="minimap_link">Existentialism in Art</a> <br> <a href="critics-greenberg-rosenberg.htm" class="minimap_link">Greenberg vs. Rosenberg</a> <br><br> <a href="section_critics.htm" class="minimap_link">Full Section Overview</a> </td><td style="width: 125px;"><div class="minimap_header"> The Art Story </div> <a href="about_us.htm" class="minimap_link">About Us</a> <br> <a href="contact_us.htm" class="minimap_link">Contact Us</a> <br><br> <a href="//www.theartstory.org/blog/" class="minimap_link">Our Blog</a> <br><br> <a href="help_us.htm" class="donate-button">SUPPORT US</a> </td></tr></tbody></table></div></div><div class="footer_box"><div><table><tbody><tr valign="top"><td width="240px"> <a href="//www.theartstory.org"><img src="/images20/new_design/footer_logo.gif" alt="Modern Art, Artists, Works"></a> </td><td width="617px"><div class="footer-text"> ©2018 The Art Story Foundation.  All Rights Reserved | <a href="terms.htm" class="footer_link">Privacy Policy</a> | <a href="sitemap.htm" class="footer_link">Sitemap</a> <br> Web Services &amp; Hosting by <a href="http://www.WebBusConnect.com" class="footer_link">The Computer Studio</a> | Designed by <a href="http://desartlab.com" class="footer_link">DesArtLab</a> </div></td><td width="195px"><div class="footer-bar-holder"> <a href="https://twitter.com/TheArtStory" target="_blank" rel="noopener"><img src="/images20/new_design/footer_twitter.gif"></a> <a href="https://www.facebook.com/TheArtStory" target="_blank" rel="noopener"><img src="/images20/new_design/footer_facebook.gif"></a> </div></td></tr></tbody></table></div></div></div></div></body></html>
