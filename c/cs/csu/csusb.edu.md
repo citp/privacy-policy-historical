@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the csusb.edu privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519041912id_/https%3A//www.csusb.edu/about-csusb/privacy-and-security-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csusb.edu privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008114346id_/https%3A//www.csusb.edu/about-csusb/privacy-and-security-notice) for the most accurate reproduction.*
 
-# Privacy and Security Notice | CSUSB Main Campus
+# Privacy and Security Notice | CSUSB
 
 Thank you for visiting California State University, San Bernardino's (CSUSB) website and reviewing our privacy and security notice. We remind you that if you follow a link to a site outside of CSUSB's web site, you are subject to the policies of the new site.
 
