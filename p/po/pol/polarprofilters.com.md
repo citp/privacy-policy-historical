@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polarprofilters.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216052408id_/https%3A//www.polarprofilters.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polarprofilters.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008151917id_/https%3A//www.polarprofilters.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – PolarPro
 
