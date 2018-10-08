@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterbond.com privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404031502id_/http%3A//www.masterbond.com/content/master-bond-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterbond.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008134122id_/http%3A//www.masterbond.com/content/master-bond-privacy-policy) for the most accurate reproduction.*
 
 # Master Bond Privacy Policy | MasterBond.com
 
