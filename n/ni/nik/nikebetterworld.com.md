@@ -1,126 +1,200 @@
-> *The following text is extracted and transformed from the nikebetterworld.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127203819id_/https%3A//www.nike.com/us/en_us/c/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikebetterworld.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008191052id_/https%3A//agreementservice.svs.nike.com/us/en_us/rest/agreement%3FagreementType%3DprivacyPolicy%26uxId%3Dcom.nike.commerce.nikedotcom.web%26country%3DUS%26language%3Den%26requestType%3Dredirect) for the most accurate reproduction.*
 
-# Privacy Policy. Nike.com
+# 
 
-_Effective January 1, 2014_
+## **NIKE PRIVACY POLICY**
 
-This NIKE Digital Privacy Policy (USA) ("Privacy Policy") describes how we collect and use your information through a variety of digital means. By accessing or using this website, mobile application or other NIKE product or service on any computer, mobile phone, tablet, console or other device (collectively, "Device"), you consent to our Privacy Policy. NIKE may modify this Privacy Policy at any time effective upon its posting. Your continued use of our products and services constitutes your acceptance to this Privacy Policy and any updates. This Privacy Policy is incorporated into, and is subject to, the [Terms of Use](https://www.nike.com/us/en_us/c/help/terms-conditions).
+Effective Date: May 18, 2018
 
-While this Privacy Policy is intended to generally describe our privacy practices, our goal is to also provide more detailed information at times when it's most meaningful to you. Please look for these notices within our NIKE services.  
+This privacy policy describes the personal data collected or processed when you use Nike’s websites (“Sites”) and mobile applications (“Apps”). It also explains how your personal data is used, shared and protected, what choices you have relating to your personal data, and how you can contact us.
 
+  * **WHO is Responsible for Processing of Your Personal Data?**
+  * **WHAT Personal Data Do We Collect and WHEN?**
+  * **KIDS**
+  * **TOOLS to Manage What Personal Data We Collect**
+  * **WHY and HOW Do We Use Your Personal Data?**
+  * **SHARING of Your Personal Data**
+  * **PROTECTION and MANAGEMENT of Your Personal Data**
+  * **COOKIES and Pixel Tags**
+  * **USING Nike Sites and Apps with Third-Party Products and Services**
+  * **CHANGES to Our Privacy Policy**
+  * **QUESTIONS and Feedback**
 
-**COLLECTING INFORMATION**
 
-**WHAT YOU GIVE US**
 
-We collect information you give us or permit us to access. Information may include, but is not limited to, your name, image, birth date, email and physical address, telephone number, gender, contact lists, social media information and profile, location (GPS) information, activity and performance information, and when necessary, credit card information.
+**WHO is Responsible for the Processing of Your Personal Data?**
 
-**WHAT WE COLLECT FROM YOU**
+Nike, Inc. (referred to as "Nike", “our”, "we" or “us” in this privacy policy)
 
-We may automatically collect information regarding your interaction with, and use of, our products and services. Information we may collect includes, but is not limited to, your telephone number, Device identifier and hardware information, IP address, browser type and language, cookie information, system type, whether you have enabling software to access certain features, access times, referring website URLs, information about your purchases and other information about your interactions with us.
+**WHAT Personal Data Do We Collect and WHEN?**
 
-**WHAT WE COLLECT FROM OTHER NIKE INTERACTIONS AND THIRD PARTIES**
+We ask you for certain personal data to provide you with the products or services you request. For example, when you make purchases, contact our consumer services, request to receive communications, create an account, participate in our events or contests, or use our Sites or Apps. 
 
-We may combine information you give us with other information from NIKE sources, transactions and communications. This may include, but is not limited to, information from NIKE stores, direct mail, catalogs, events, products and applications, or other NIKE interactions. We may also combine that information with data that is publicly available and data from third parties. We also collect information about gift recipients provided by the giver.
+This personal data includes your:
 
-**CHILDREN'S PRIVACY**
+    * contact details including name, email, telephone number and shipping, billing address;
+    * login and account information, including screen name, password and unique user ID;
+    * personal details including gender, hometown, date of birth and purchase history;
+    * payment or credit card information;
+    * images, photos and videos;
+    * data on physical characteristics, including weight, height, and body measurements (such as estimated stride and shoe/foot measurements or apparel size);
+    * fitness activity data provided by you or generated through our Sites or Apps (time, duration, distance, location, calorie count, pace/stride); or
+    * personal preferences including your wish list as well as marketing preferences.
 
-We do not knowingly collect or solicit personal information from children under 13.
 
-**USING INFORMATION**
 
-We may use your information to do the following:
+We collect additional personal data from you to enable particular features within our Sites and Apps.  For example, we request access to your phone’s location data to log your run route, your contacts to allow you to interact with your friends, your calendar to schedule a training plan or your social network credentials to post content from an App to a social network.  This personal data includes your:
 
-**ENABLE YOUR USE**
+    * movement data from your device’s accelerometer;
+    * photos, contacts and calendar information;
+    * sensor data, including heart rate and (GPS) location data; or
+    * social network information, including credentials and any information from your public posts about Nike or your communications with us.
 
-  * Enhance, customize and personalize your NIKE experiences and communications
-  * Use NIKE features, such as running routes, race registrations, placing an order and other activities
 
 
+When interacting with our Sites and Apps, certain data is automatically collected from your device or web browser.  This data includes:
 
-**OPERATE, IMPROVE AND ANALYZE**
+    * Device IDs, call state, network access, storage information and battery information; and
+    * Cookies, IP addresses, referrer headers, data identifying your web browser and version, and web beacons and tags.
 
-  * Operate, provide, improve and maintain NIKE's products and services, including analyzing user behavior and trends
-  * Send you administrative messages and other information about NIKE. Communicate with you about your purchase, account information or customer service
 
 
+**KIDS**
 
-**PROVIDE AND CONDUCT MARKETING AND PROMOTIONS**
+We do not knowingly collect personal information online from children under the age of 13. 
 
-\- Communicate with you about our products, services and events, and for other promotional purposes
+**TOOLS to Manage What Personal Data We Collect**
 
-\- Administer contests, promotions, events, surveys or other features
+When using our Apps and Sites, we also provide in-time notice or obtain consent for certain practices. For example, we will obtain consent to use your location or send push notifications. We may obtain this consent through the Apps or Sites or using the standard permissions available on your device.
 
-\- Display relevant marketing to you
+In many cases, your web browser or mobile device platform will provide additional tools to allow you to control when your device collects or shares particular categories of personal data.  For example, your mobile device or web browser may offer tools to allow you to manage cookie usage or location sharing.  We encourage you to familiarize yourself with and use the tools available on your devices.   
 
-**SHARING INFORMATION**
+At this time, we do not respond to “do not track” signals sent by web browsers.
 
-NIKE FamilyWe may provide your information to NIKE, Inc. companies and affiliates, including Converse and Hurley ("NIKE Family"), some of which may be outside the U.S.
+**WHY and HOW Do We Use Your Personal Data?**
 
-**SERVICE PROVIDERS**
+We use your personal data in the following ways:
 
-We may transfer your information to NIKE Family service providers to conduct our business. For example, they may handle credit card processing, shipping, data management, email distribution, market research, information analysis, and promotions management. We may also share your information to administer features (e.g. music download, race registration, or workout routine).
+**        To Provide the Features of the Sites, Apps, and Services You Request** 
 
-**BY LAW OR TO PROTECT RIGHTS**
+When you use our Sites and Apps, we will use your personal data to provide the requested product or service.  For example, if you make a purchase on Nike.com, or participate in an event or promotion, we will use the contact information you give us to communicate with you about the purchase, event or promotion. If you contact our consumer services, we will use information about you, such as delivery or payment information, or the product you have purchased to help you resolve a problem or question. 
 
-We may disclose information upon governmental request, in response to a court order, when required by law, to enforce our policies, or to protect our or others' rights, property or safety. We may share information to prevent illegal uses of NIKE's products and services or violations of the Terms of Use, or to defend ourselves against third-party claims. We may also share information with companies assisting in fraud protection or investigation.
+If you use our Apps to track your fitness activity or physical characteristics, we will collect this personal data and store it so that you can review it in the App.  Your fitness activity data may include data you enter about your activity or data collected by your device during your activity such as location data and movement data.  We may use this activity data to calculate further information about your activity, such as distance run, or calories burned, so that the calculated information can be provided to you as part of the functionality of the App. 
 
-**BUSINESS TRANSFERS**
+In many cases, to use particular features within our Sites and Apps you may need to provide Nike with additional data or additional consent to use particular data in a certain way.  For example, to use the heart rate tracking features of our Apps, you may need to connect to a heart rate monitoring device. Similarly, to share content on social media, you may be required to provide your social media account credentials to sign in.
 
-Your information may be transferred to a third party as a part of our business assets in a sale of a part or all of NIKE. If this should happen, notice will be provided by posting to the website or other form of communication.
+**To Communicate Information about our Products, Services, Events and for Other Promotional Purposes**
 
-**PUBLIC SHARING**
+If you are an existing customer of Nike (for example, if you have placed an order with us), we may use the contact details you provided to send you marketing communications about similar Nike products or services, where permitted by applicable law (unless you have opted-out). In other cases, we ask for your consent to send you marketing information.
 
-**DEFAULT SHARING**
+We may use the information that you provide to us as well as information from other Nike products or services - such as your use of Nike’s Sites and Apps, your visits to or purchases made in Nike stores, your participation in Nike events and contests (possibly through other Nike affiliates) - to personalize communications and advertisements regarding our products and services that may be of interest to you.  For registered users, this may include data collected from your interactions with our Sites and our Apps that are associated with your account across devices.
 
-When you join or use certain services, you agree to publicly share a basic amount of information, which may include your username, city location, and profile picture.
+**To Operate, Improve and Maintain our Business, Products and Services**  
 
-**SHARING YOU CHOOSE**
+We use the personal data you provide to us to operate our business.  For example, when you make a purchase, we use that information for accounting, audits and other internal functions.  We may use personal data about how you use our products and services to enhance your user experience and to help us diagnose technical and service problems and administer our Sites and Apps. ** **
 
-You may choose to share certain information. In order to participate in certain features, you may have to adjust your privacy settings and share more information. You may also choose to share your activity on other platforms, such as Facebook and Twitter. Please read the privacy policies of those platforms, because your NIKE activity published on those platforms will no longer be governed by NIKE's Privacy Policy.
+**To Protect Our or Others' Rights, Property or Safety**  
 
-**NIKE SHARING**
+We may also use personal data about how you use our Sites and Apps to prevent, detect, or investigate fraud, abuse, illegal use, violations of our Terms of Use, and to comply with court orders, governmental requests or applicable law. ** **
 
-Information that is publicly shared may be used by Nike for promotional purposes.
+**For General Research and Analysis Purposes**  
 
-**PROTECTING INFORMATION**
+We use data about how our visitors use our Sites, Apps and services to understand customer behavior or preferences.  For example, we may use information about how visitors to Nike.com search for and find products to better understand the best ways to organize and present product offerings in our storefront. 
 
-Security Measures: We use a variety of security measures, including encryption and authentication tools, to help protect your information. We use secure servers when you place orders. All credit card information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted within our databases.
+**Use of Workout Info  ** **                                                                                                     **
 
-**NO GUARANTEE**
+As discussed above, Nike collects data about your fitness activity or your physical characteristics, together, “Workout Info”, to provide our Apps and other services.  Because of the personal nature of this data, we strive to provide you with clear information about how Workout Info will be used.  As this data may be considered sensitive in certain jurisdictions, we take appropriate measures in protecting and using this data and, where required by applicable law or under Nike’s internal policies, will obtain your consent for use of your Workout Info.  Click here [FAQ on Workout Info](http://agreementservice.svs.nike.com/us/en_us/rest/agreement?requestType=redirect&agreementType=dataLearnMore&country=US&language=en&uxId=com.nike.commerce.nikedotcom.web) to learn more.
 
-However, like other companies, NIKE cannot guarantee 100% the security or confidentiality of the information you provide to us.
+**Other Purposes**
 
-**COLLECTION TOOLS**
+We may also use your personal data in other ways and will provide specific notice at the time of collection and obtain your consent where necessary.
 
-**HOW WE COLLECT INFORMATION**
+**SHARING of Your Personal Data**
 
-NIKE automatically collects information within our products and services or stored by your browser or Device. We use a variety of methods to collect this information, including, but not limited to, cookies and pixel tags/web beacons ("Collection Tools").
+**Nike’s Sharing**
 
-**TURNING OFF COLLECTION TOOLS**
+Nike shares your personal data with:
 
-If you turn off certain Collection Tools, you may not have access to many features that make your experience more efficient and some of our services and features may not function properly. However, you can still place product orders over the telephone by contacting our customer service number at 1-800-806-6453. Note that our websites may not recognize or respond to Do Not Track (DNT) headers from web browsers.
+    * Nike entities for the purposes and under the conditions outlined above 
 
-**THIRD PARTY TRACKING**
 
-We also work with other companies who use tracking technologies to serve ads on our behalf across the Internet. These companies may collect information about your interaction with us, including advertising. These companies may not recognize or respond to DNT headers from web browsers. If you would like to opt-out of receiving ads tailored by 3rd party tracking technologies associated with our website, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). Note that if you opt-out from these third party tracking technologies, you may still see our ads at other websites, but the ads will not be tailored using third party tracking technologies associated with our website.
+    * Third party service providers processing personal data on Nike’s behalf, for example to process credit cards and payments, shipping and deliveries, host, manage and service our data, distribute emails, research and analysis, advertising, analytics, manage brand and product promotions as well as administering certain services and features. 
 
-**CHOICES**
 
-**MODIFYING OR DELETING YOUR INFORMATION**
+    * Other third parties to the extent necessary to: (i) comply with a government request, a court order or applicable law; (ii) prevent illegal uses of our Sites and Apps or violations of our Sites’ and the Apps’ Terms of Use and our policies; (iii) defend ourselves against third party claims; and (iv) assist in fraud prevention or investigation (e.g., counterfeiting). 
 
-You can modify or delete your profile within certain NIKE services, through your account. Your information previously posted may still be publicly viewable. NIKE may keep information and content in our backup files and archives.
 
-**COMMUNICATION/UNSUBSCRIBE/OPT-OUT**
+    * To any other third party where you have provided your consent.
 
-Regardless of the settings you select, NIKE may send you service-related communications. To unsubscribe and stop receiving messages, please change your settings or follow the instructions in the email, text message, notification or other message type. If you have unsubscribed from any NIKE communications, due to production schedules, you may receive communications already in production.
 
-**INTERNATIONAL USERS**
 
-Our digital operations are conducted, in whole or in part, in the United States. Regardless of where you live, you consent to have your personal data transferred, processed and stored in the United States, and allow NIKE to use and collect your personal information in accordance with this Privacy Policy.
+We may also transfer personal data we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, spin-off, dissolution or liquidation).
 
-**TERMS OF USE**
+**Your Sharing**
 
-Your use of our products and services, and any disputes arising from them, is subject to this Privacy Policy as well as our [Terms of Use](https://www.nike.com/us/en_us/c/help/terms-conditions). Please visit our [Terms of Use](https://www.nike.com/us/en_us/c/help/terms-conditions), which explains other terms governing the use of our products and services.
+When you use certain social features on our Sites or Apps, you can create a public profile that may include information such as your screen name, profile picture and hometown.  You can also share content with your friends or the public, including information about your Nike activity.  We encourage you to use the tools we provide for managing Nike’s social sharing to control what information you make available through Nike’s social features.
 
-For questions or concerns, please contact Consumer Services/Privacy at: 1-800-806-6453 or NIKE Consumer Services/Privacy, One Bowerman Drive, Beaverton, OR 97005.
+**PROTECTION and MANAGEMENT of your Personal Data**
+
+    * **Encryption & Security:** We use a variety of technical, administrative, and organizational security measures, including encryption and authentication tools in certain circumstances, to maintain the safety of your personal data. 
+
+
+
+Despite our efforts, no website, mobile application, database or system is completely secure or “hacker proof.” You can help keep your data safe by taking reasonable steps to protect your personal information against unauthorized disclosure or misuse. 
+
+    * **Retention of your personal data:**  We retain your personal data for as long as necessary to fulfil the purposes described in this policy, unless otherwise required by law.  For example, we keep your account profile information for as long as you keep your Nike account, but, we may keep your order history longer to comply with legal obligations.  Click [here](https://help-en-us.nike.com/app/answer/article/nike-data-protection/country/us) to learn more. 
+
+
+    * **Managing your personal data:   **You may have the right to request: (i) access to your personal data; (ii) an electronic copy of your personal data (portability); (iii) correction of your personal data if it is incomplete or inaccurate; or (iii) deletion or restriction of your personal data in certain circumstances provided by applicable law. Where we have obtained your consent for the processing of your personal data, you have the right to withdraw your consent at any time. If you have a request regarding your personal data that cannot be fulfilled from your account settings, please contact us.  Contact details can be found in the “Question and Feedback” section below.  ** **
+
+
+    * **Managing your content:**   You can request removal of your posted User Generated Content on the Site or App, but please note that removal may not encompass all possible locations, for example, back-ups or sharing by other users initiated prior to removal. ** **
+
+
+    * **Managing your notifications:  **If you have a Nike account, you can opt-out of receiving Nike’s marketing communications by modifying the preferences in your account settings.  Alternatively, you can opt-out by following the opt-out or unsubscribe instructions in the message or by contacting us. Contact details are in the “Questions and Feedback” section below.
+
+
+
+**COOKIES and Pixel Tags**
+
+Nike collects information, which may include personal data, from your browser when you use our Sites. We use a variety of methods, such as cookies and pixel tags to collect this information, which may include your (i) IP-address; (ii) unique cookie identifier, cookie information and information on whether your device has software to access certain features; (iii) unique device identifier and device type; (iv) domain, browser type and language, (v) operating system and system settings; (vi) country and time zone; (vii) previously visited websites; (viii) information about your interaction with our Sites such as click behavior, purchases and indicated preferences; and (ix) access times and referring URLs.  
+
+Third parties may also collect information via Sites through cookies, third party plug-ins and widgets. These third parties collect data directly from your web browser and the processing of this data is subject to their own privacy policies.
+
+We use cookies and pixel tags to track usage of the Sites and to understand our customers’ preferences (such as country and language choices). This enables us to provide services to our customers and improve their online experience. We also use cookies and pixel tags to obtain aggregate data about site traffic and site interaction, to identify trends and obtain statistics so that we can improve our Sites. There are generally three categories of cookies used on our Sites:
+
+    * **Functional:  **These cookies are required for basic site functionality and are therefore always enabled. These include cookies that allow you to be remembered as you explore our Sites within a single session or, if you request, from session to session. They help make the shopping cart and checkout process possible as well as assist in security issues and conforming to regulations.
+
+
+    * **Performance** : These cookies allow us to improve our Sites’ functionality by tracking usage. In some cases, these cookies improve the speed with which we can process your request and allow us to remember site preferences you have selected. Refusing these cookies may result in poorly-tailored recommendations and slow site performance.
+
+
+    * **Social media and Advertising** : Social media cookies offer the possibility to connect you to your social networks and share content from our Sites through social media.  Advertising cookies (of third parties) collect information to help better tailor advertising to your interests, both within and beyond our Sites. In some cases, these cookies involve the processing of your personal data. Refusing these cookies may result in seeing advertising that is not as relevant to you or you not being able to link effectively with Facebook, Twitter, or other social networks and/or not allowing you to share content on social media.
+
+
+
+Your browser can help you manage cookies.  You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings on each browser and device that you use. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you may not have access to many features that make our Sites and Apps more efficient and some of our services will not function properly.  There are also general resources for opting out of interest based advertising available on the websites of the Network Advertising Initiative and the Digital Advertising Alliance.
+
+Similarly, you can adjust your advertising preferences on your mobile device at the device level.  For example, to adjust your advertising preferences in iOS, visit Settings > Privacy > Advertising > Limit Ad Tracking. To adjust your advertising preferences in Android, visit Settings > Google > Ads > Opt out of interest-based ads.  
+
+**USING Nike Sites and Apps with Third-Party Products and Services**
+
+Our Sites and Apps allow you to interact with a wide variety of other digital products and services.  For example, our Sites and Apps can integrate with third-party devices for activity tracking, social networks, music streaming services and other digital services. 
+
+If you choose to connect your Nike account with a third-party device or account, your privacy rights on third-party platforms will be governed by their respective policies.  For example, if you choose to share your Nike activity on third-party social media platforms, the policies of those platforms govern the data that resides there. 
+
+Our Sites and Apps may provide links to other (third-party) websites and apps for your convenience or information. Linked sites and apps have their own privacy notices or policies, which we strongly encourage you to review. To the extent any linked websites or apps are not owned or controlled by us, we are not responsible for their content, any use of the websites or apps, or the privacy practices of the websites or apps.
+
+**CHANGES to Our Privacy Policy**
+
+Applicable law and our practices change over time. If we decide to update our privacy policy, we will post the changes on our Sites and Apps. If we materially change the way in which we process your personal data, we will provide you with prior notice, or where legally required, request your consent prior to implementing such changes. We strongly encourage you to read our privacy policy and keep yourself informed of our practices.
+
+**QUESTIONS and Feedback**
+
+We welcome questions, comments, and concerns about our privacy policy and privacy practices.
+
+If you wish to provide feedback or if you have questions or concerns, or wish to exercise your rights related to your personal data, please use our [Nike Privacy Webform](https://help-en-us.nike.com/app/privacy). 
+
+You may also contact Consumer Services or our Privacy Office at: Privacy Office, One Bowerman Dr., Beaverton, OR 97005, USA or send us an email at [privacy@nike.com](mailto:privacy@nike.com).
+
+If you contact us with a privacy complaint it will be assessed with the aim of resolving the issue in a timely and effective manner.
