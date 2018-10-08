@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kxly.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215062026id_/http%3A//www.kxly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kxly.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009003850id_/https%3A//www.kxly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KXLY.com - KXLY
 
