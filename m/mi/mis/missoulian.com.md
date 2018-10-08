@@ -1,118 +1,168 @@
-> *The following text is extracted and transformed from the missoulian.com privacy policy that was archived on 2018-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180418232720id_/http%3A//missoulian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missoulian.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008192648id_/https%3A//missoulian.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | missoulian.com
 
 Lee Enterprises, Incorporated and its affiliates, successors and assigns (“Lee Enterprises Inc.”, “us”, “our” or “we”) want you to be familiar with how we collect, use and disclose information from and about you because we understand you are concerned about your privacy, and we want to maintain your trust. This Privacy Notice discloses the privacy practices of our websites, whether accessed through a computer, tablet, smartphone or other device (individually or collectively, “Device” or “Devices”), and our mobile applications. We believe in your right to know what information is collected during your visit to our websites, mobile sites, mobile applications, and other applications (collectively, "Services"), and to any services that display this notice and how that information is used and safeguarded.
 
+**This Site is not intended for use by persons located within the European Economic Area (EEA). We do not request or accept personal information concerning or supplied by persons who are located within the EEA at the time they access this Site. If you have accessed this Site from within the EEA, you should immediately discontinue your use. If you have supplied personal information to us in violation of this provision, whether through the registration of new user accounts or otherwise, please contact us at[privacy@lee.net](mailto:privacy@lee.net).**
+
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. By accessing or using this website, you agree to this privacy policy. This policy may change from time to time (see Changes to Our Privacy Policy). Your continued use of this website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates. 
 
-### Information Automatically Gathered About All Visitors
-
-We collect aggregate and user-specific information on which pages consumers access or visit. This information is used to generate reports that help us assess the value of an interest in the various websites and Services we provide. We use the information we collect to improve the content of our Services. We can build a better site and provide better Services if we know which pages our users are visiting, how often they visit and how long they stay on a page.
-
-Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address (but not the e-mail address), when you utilize our Services. Your IP address does not contain personally identifiable information, nor does it identify you personally. We use this information to deliver our Services to you upon request, to tailor our sites and Services to the interests of our users, and to measure traffic within our sites.
-
-To help make our Services more responsive to the needs of our visitors, we may utilize a standard feature of browser software called a "cookie." A cookie is a small piece of computer code that is deposited on your hard drive by our site. Browsers typically recognize when a cookie has been sent to your computer and give you the option to refuse or allow it. A cookie does not actually identify you, just the computer or device that you are using to access our Services. A cookie cannot read data off your hard drive. Our advertisers, content partners and Services that are reached from links on our Services may also assign their own cookies to your browser, a process that we cannot control.
-
-We use cookies to help us tailor our Services to your needs so we can deliver a better and more personalized service. It is a cookie, for example, that allows us to deliver to you any personalized information each time you visit our Services.
-
-In addition, we can access cookies later in your current session or in a later session on our Services in order to improve your visit to our Services, as in the following examples:
-
-**Account Registration**
-
-If your use of a component of the Services requires you to register, a cookie will be used to automatically identify you as a registered user when you are using our Services. These cookies are known as persistent cookies and continue on your computer after the initial session in which they are created.
-
-This cookie allows us to maintain information containing the products (like photo reprints) or services (such as placing a classified advertisement or signing up for home delivery) you are purchasing while you are online. To limit unauthorized access, this cookie, also called a session cookie, expires whenever you exit a browser session.
-
-Like many other commercial sites, our Services may utilize an electronic file called a web beacon to count users who have visited a page or to recognize users by accessing certain cookies. Our Services and/or our partner websites use web beacons for auditing purposes and to collect information from the websites and Services of certain partners. Information recorded through these web beacons is used to report anonymous individual and/or aggregate information about our users from our partners. Aggregate information may include demographic and usage information. No personally identifiable information about you is shared with partners. To opt-out of a third parties’ use of web beacons please [click here](http://www.omniture.com/en/privacy/2o7).
-
-**Do-Not-Track Signals and Similar Mechanisms**
-
-Some browsers or other tools include “Do Not Track” (DNT) features which, when turned on, send a signal to websites you visit indicating that you do not wish to be tracked across websites over time. The Worldwide Web Consortium (W3C) has been working with industry groups and regulators to develop a DNT browser technology standard to provide a common understanding as to how to interpret the DNT signals, but to date no standard has been adopted. Since there is no standard at this time, we do not currently respond to DNT signals. We will follow the progress of the W3C in developing the standard. If and when a final standard is established and accepted, we will reassess how to respond to these signals.
-
-**Your California Privacy Rights**
-
-California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure, if any, of certain categories of personal information to third parties for their direct marketing purposes in the preceding calendar year. We do not share personal information with third parties for their own direct marketing purposes; however, California residents may direct such requests to privacy@lee.net. California residents who are registered users of the Services and are under the age of 18 are entitled, in accordance with California law, to request and obtain removal of content and information that they themselves post on the Services. You may request such removal by emailing us at privacy@lee.net. In your request, please provide a description of the material that you want removed and information reasonably sufficient to permit us to locate the material, and include your name, email address and/or website user name, year of birth, mailing address (including city, state, and zip code), and the subject line “California Removal Request” so that we can process your request. Please note that your request does not ensure complete or comprehensive removal of the material. For example, materials that you have posted may be republished or reposted by another user or third party. 
-
-**Advertising Policy**
-
-All Classified ads are subject to the applicable rate card, copies of which are available from our Advertising Department. All ads are subject to approval before publication. Lee Enterprises Inc. reserves the right to edit, refuse, reject, classify or cancel any ad at any time. Errors must be reported in the first day of publication. Lee Enterprises Inc. shall not be liable for any loss or expense that result from an error in or omission of an advertisement.
-
-No refunds for early cancellation of order.
-
-**Subscription**
-
-We may offer some of our Services on a subscription basis. By subscribing to any such Services, you authorize us to charge your credit card or debit card an initial payment at the time of signing up, and a regular recurring payment which will take place on the next billing day of your billing cycle. Applicable sales tax included. Prices subject to change during term. After promotional offers conclude, your subscription will continue at the regular rate until we are otherwise notified. By supplying your e-mail address you are authorizing us to send you future promotional offers and discounts. Digital only offer is an EasyPay subscription. Your credit or debit card will be automatically charged every renewal period until you notify us otherwise. You are responsible for any recurring charges that take place prior to cancellation. Smartphone apps are not supported on all devices.
-
-**Classifieds**
-
-  * These rates are available only by placing your ad through the self serve site and may differ from calling into our classified sales center.
-  * All orders are pre-paid by credit card only. Due to the type of advertising sold online, no pro-rated refunds or discounts will be made for any ad cancelled following the first publication.
-  * Ads must run on consecutive days unless unavailable to run.
+  * [Types Of Information We Collect](https://missoulian.com/privacy/#infocollect)
+  * [Use And Processing Of Information](https://missoulian.com/privacy/#processing)
+  * [Sharing Of Information](https://missoulian.com/privacy/#sharing)
+  * [Your Choices](https://missoulian.com/privacy/#choices)
+  * [How We Protect Personal Information](https://missoulian.com/privacy/#protect)
+  * [Miscellaneous](https://missoulian.com/privacy/#misc)
+  * [Cookie Policy](https://missoulian.com/privacy/#cookies)
+  * [Contact Information](https://missoulian.com/privacy/#contact)
 
 
 
-**About Third Party Advertising**
+## Types Of Information We Collect
 
-We may use third-party advertising companies to serve ads when you use our Services. If so, a list of these ad serving companies will be available here. These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to our sites or use of our Services and to other websites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the [Network Advertising Initiative's](http://www.networkadvertising.org/) consumer website.
+**Information Automatically Gathered About All Visitors:** We collect aggregate and user-specific information on which pages consumers access or visit. This information is used to generate reports that help us assess the value of an interest in the various Sites and services we provide. We use the information we collect to improve the content of our services. We can build a better site and provide better services if we know which pages our users are visiting, how often they visit and how long they stay on a page. The following provides examples of the type of information that we collect from you and how we use that information.
 
-Google Doubleclick for Publishers (DFP) is an ad network partner that displays ads on our Services. To improve your ad experience on our sites and Services and elsewhere on the Internet, we may send non-personal information to Google DFP based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Google DFP also may use information regarding its own users to select which ads to display. [Click here](https://www.google.com/policies/technologies/ads/) to learn more about Google DFP's ad practices, including how to opt out of using anonymous information to select which ads to show you.
+Context | Types of Data | Primary Purpose for Collection and Use of Data  
+---|---|---  
+Cookies and first party tracking | We use cookies and clear GIFs. “Cookies” are small pieces of information that a website sends to a computer’s hard drive while a web site is viewed. See our [Cookie Policy](https://missoulian.com/privacy/#cookies) for more information. | We have a legitimate interest in making our website operate efficiently.  
+Cookies and Third Party Tracking | We participate in behavior-based advertising, this means that a third party uses technology (e.g., a cookie) to collect information about your use of our website so that they can provide advertising about products and services tailored to your interests on our website, or on other websites. | See our [Cookie Policy](https://missoulian.com/privacy/#cookies) for more information. We have a legitimate interest in engaging in behavior-based advertising.  
+Distance Information | When you use one of our Mobile Apps we collect your location from the GPS, Wi-Fi, and/or cellular technology in your device to determine your location and your distance from a store that sells our products. | We have a legitimate interest in understanding our users and providing tailored services. In some contexts our use is also based upon your consent to provide us with geo location information.  
+Email Interconnectivity | If you receive email from us, we use certain tools to capture data related to when you open our message, click on any links or banners it. | We have a legitimate interest in understanding how you interact with our communications to you.  
+Website interactions | We use technology, including electronic files called web beacons, to monitor how you interact with our website. This includes which pages you visit, which links you click on, or information that you type into our online forms. | We have a legitimate interest in understanding how you interact with our website to better improve it, and to understand your preferences and interests in order to select offerings that you might find most useful.  
+Web logs | We collect information, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to a computer when the Internet is used), domain name, click-activity, referring website, and/or a date/time stamp for visitors. | We have a legitimate interest in monitoring our networks and the visitors to our websites. Among other things, it helps us understand which of our services is the most popular.  
+  
+**Information Gathered by Voluntary Submission:** To make use of certain features on our services (such as contests, story comments, letters to the editor, personalized web pages and other interactive forums and blogs) visitors need to register and to provide certain information as part of the registration or participation process. The information you supply will help us offer you more personalized features, to tailor our services to your interests and make them more useful to you. Supplying such information is entirely voluntary. But if you do not supply the information we need, we may be unable to provide you with services and content we make available to other visitors to our Sites. The following provides examples of the type of information that we collect from you and how we use that information.
 
-**Opt-Out of Cookies**
+Context | Types Data | Primary Purpose for Collection and Use of Data  
+---|---|---  
+Account Registration | We collect your name and contact information when you create an account. We also collect information relating to the actions that you perform while logged into your account. | We have a legitimate interest in providing account relating functionalities to our users. Accounts can be used to save your preferences and transaction history.  
+Automated Account Services | We collect your name and contact information, including e-mail address, if you sign up for any of our automated account services. | We have a legitimate interest in providing transactional e-mails regarding the status of your account, including confirmations, notices of expiration and renewal and other related electronic correspondence.  
+Demographic Information | We collect personal information, such as your age or location. | We have a legitimate interest in understanding our users and providing tailored services.  
+Employment | If you apply for a job posting, or become an employee, we collect information necessary to process your application or to retain you as an employee. This may include, among other things, your Social Security Number. Providing this information is required for employment. | We use information about current employees to perform our contract of employment, or the anticipation of a contract of employment with you. In some contexts, we are also required by law to collect information about our employees. We also have a legitimate interest in using your information to have efficient staffing and work force operations.  
+Feedback/Support | If you provide us feedback or contact us for support we will collect your name and e-mail address, as well as any other content that you send to us, in order to reply. | We have a legitimate interest in receiving, and acting upon, your feedback or issues.  
+Mailing List | When you sign up for one of our mailing lists we collect your email address or postal address. | We have a legitimate interest in sharing information about our products or services.  
+Partner Promotion | We collect information that you provide as part of a co-branded promotion with another company. | We have a legitimate interest in fulfilling our promotions.  
+Subscription Purchase | We collect your name, billing address, shipping address, e-mail address, phone number, and credit card number when you purchase a subscription. | We use your information to perform our contract to provide you with products or services.  
+Surveys | When you participate in a survey we collect information that you provide through the survey. If the survey is provided by a third party service provider, the third party’s privacy policy applies to the collection, use, and disclosure of your information. | We have a legitimate interest in understanding your opinions, and collecting information relevant to our organization.  
+Sweepstakes or contests | When you participate in a sweepstakes or contest we collect information about you which includes contact information to notify you if you are selected. | We have a legitimate interest in operating the sweepstakes. In some contexts we are also required by law to collect information about those that enter into our sweepstakes, and we have a legitimate interest in complying with those laws.  
+  
+In addition to the information that we collect from you directly, we may also receive information about you from other sources, including third parties, business partners, our affiliates, or publicly available sources. For example, if you submit a job application, or become an employee, we may conduct a background check.
 
-If you wish to manage or opt-out of cookies utilized by our site and third party advertisers, you can take the following steps:
+## Use And Processing Of Information
+
+In addition to the purposes and uses described above, we use information in the following ways:
+
+  * To identify you when you visit our websites.
+  * To provide products and services.
+  * To improve our services and product offerings.
+  * To conduct statistical, marketing and demographic analyses of our delivery subscribers and their subscription patterns.
+  * To respond to inquiries related to support, employment opportunities, or other requests.
+  * To send marketing and promotional materials, including information relating to our products, services, sales, or promotions.
+  * For internal administrative purposes, as well as to manage our relationships.
+
+
+
+Although the sections above describe our primary purpose in collecting your information, in many situations we have more than one purpose. For example, if you purchase a subscription we collect your information to perform our contract with you, but we also collect your information as we have a legitimate interest in maintaining your information after your transaction is complete so that we can quickly and easily respond to any questions about your subscription. As a result, our collection and processing of your information is based in different contexts upon your consent, our need to perform a contract, our obligations under law, and/or our legitimate interest in conducting our business.
+
+## Sharing Of Information
+
+In addition to the specific situations discussed elsewhere in this policy, we disclose information in the following situations:
+
+  1. **Affiliates and Acquisitions.** We may share information with our corporate affiliates (e.g., parent company, sister companies, subsidiaries, joint ventures, or other companies under common control). If another company acquires our company, business, or our assets, we will also share information with that company.
+  2. **Other Disclosures with Your Consent.** We may ask if you would like us to share your information with other unaffiliated third parties who are not described elsewhere in this policy.
+  3. **Other Disclosures without Your Consent.** We may disclose information in response to subpoenas, warrants, or court orders, or in connection with any legal process, or to comply with relevant laws. We may also share your information in order to establish or exercise our rights, to defend against a legal claim, to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, safety of person or property, or a violation of our policies, or to comply with your request for the shipment of products to or the provision of services by a third party intermediary.
+  4. **Public.** Some of our websites may provide the opportunity to post comments, letters to the editor, or reviews, in a public forum or blog. If you decide to submit information on these pages, that information may be publically available.
+  5. **Partner Promotion.** We may offer contests, sweepstakes, or other promotions with third party partners. If you decide to enter a contest, sweepstakes, or promotion that is sponsored by a third party partner the information that you provide will be shared with us and with them. Their use of your information is not governed by this privacy policy.
+  6. **Service Providers.** We share your information with service providers. Among other things service providers help us to process payments, and assist in the fulfillment of orders, e-mail distribution, list processing and analytics or promotions management.
+  7. **Social-Media Platforms.** Account registration can be done by linking your Facebook or Google accounts. If you choose to link your social-media account or account relating to other third-party services, you may be asking third parties to send us certain information from those social media accounts or services accounts, and you are authorizing us to collect, store, and use what they send us in accordance with this Privacy Policy.
+
+
+
+## Your Choices
+
+You can make the following choices regarding your personal information:
+
+  1. **Promotional Emails.** You may choose to provide us with your email address for the purpose of allowing us to send free newsletters, surveys, offers, and other promotional materials to you, as well as targeted offers from third parties. You can stop receiving promotional emails by following the unsubscribe instructions in e-mails that you receive. If you decide not to receive promotional emails, we may still send you service related communications.
+  2. **Promotional Mailings.** If at any time you do not want to receive offers and/or circulars from us you can remove yourself from our mailing lists by emailing us (our contact information is below) with "NO SNAIL MAIL" in the subject line along with your name, address and zip code. Please note that our mailings are prepared in advance of their being sent. Although we will remove your name from our mailing list after receiving your request, you may still receive mailings from us that had been initiated prior to your name being removed.
+  3. **Promotional Text Messages.** If you receive a text message from us that contains promotional information you can opt-out of receiving future text messages by replying “STOP.”
+  4. **Access To Your Personal Information.** If required by law, upon request, we will grant you reasonable access to the personal information that we have about you. You may request access to your personal information by contacting us at the address described below.
+  5. **Changes To Your Personal Information.** We rely on you to update and correct your personal information. Most of our websites allow you to modify or delete your account profile. Note that we may keep historical information in our backup files as permitted by law. If our website does not permit you to update or correct certain information contact us at the address described below.
+  6. **Deletion Of Your Personal Information.** Typically we retain your personal information for the period necessary to fulfill the purposes outlined in this policy, unless a longer retention period is required or permitted by law. You may, however, request information about how long we keep a specific type of information, or request that we delete your personal information by contacting us at the address described below. In addition, we may keep your personal information as needed to comply with our legal obligations, resolve disputes, and/or enforce any of our agreements.
+  7. **Revocation Of Consent.** If you revoke your consent for the processing of personal information then we may no longer be able to provide you services. In some cases, we may limit or deny your request to revoke consent if the law permits or requires us to do so, or if we are unable to adequately verify your identity. You may revoke consent to processing (where such processing is based upon consent) by contacting us at the address described below.
+  8. **Online Tracking.** Some browsers or other tools include “Do Not Track” (DNT) features which, when turned on, send a signal to websites you visit indicating that you do not wish to be tracked across websites over time. The Worldwide Web Consortium (W3C) has been working with industry groups and regulators to develop a DNT browser technology standard to provide a common understanding as to how to interpret the DNT signals, but to date no standard has been adopted. Since there is no standard at this time, we do not currently respond to DNT signals. We will follow the progress of the W3C in developing the standard. If and when a final standard is established and accepted, we will reassess how to respond to these signals.
+  9. **California Residents.** California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure, if any, of certain categories of personal information to third parties for their direct marketing purposes in the preceding calendar year. We do not share personal information with third parties for their own direct marketing purposes; however, California residents may direct such requests to [privacy@lee.net](https://missoulian.com/content/tncms/live/privacy@lee.net). California residents who are registered users of the Services and are under the age of 18 are entitled, in accordance with California law, to request and obtain removal of content and information that they themselves post on the Services. You may request such removal by emailing us at [privacy@lee.net](https://missoulian.com/content/tncms/live/privacy@lee.net). In your request, please provide a description of the material that you want removed and information reasonably sufficient to permit us to locate the material, and include your name, email address and/or website user name, year of birth, mailing address (including city, state, and zip code), and the subject line “California Removal Request” so that we can process your request. Please note that your request does not ensure complete or comprehensive removal of the material. For example, materials that you have posted may be republished or reposted by another user or third party
+
+
+
+## How We Protect Personal Information
+
+No method of transmission over the Internet, or method of electronic storage, is fully secure. While we use reasonable efforts to protect your personal information from unauthorized access, use, or disclosure, we cannot guarantee the security of your personal information.
+
+Some of our websites permit you to create an account. When you do you will be prompted to create a password. You are responsible for maintaining the confidentiality of your password, and you are responsible for any access to or use of your account by someone else that has obtained your password, whether or not such access or use has been authorized by you. You should notify us of any unauthorized use of your password or account.
+
+## Miscellaneous
+
+The following additional information relates to our privacy practices:
+
+  * **Transmission Of Information To Other Countries.** We are established in the United States. By submitting your personal information to us you agree to the transfer, storage and processing of your information in a country other than your country of residence including, but not necessarily limited to, the United States. If you would like more information concerning our attempts to apply the privacy principles applicable in one jurisdiction to data when it goes to another jurisdiction you can contact us using the contact information below.
+  * **Third Party Applications/Websites.** Our Sites contain numerous links to third parties. We have no control over the privacy practices of websites or applications that we do not own. You should refer to each of those third party websites to obtain information on their privacy policies
+  * **Changes To This Privacy Policy.** We may change our privacy policy and practices over time. To the extent that our policy changes in a material way, the policy that was in place at the time that you submitted personal information to us will generally govern that information unless we receive your consent to the new privacy policy.
+
+
+
+## Cookie Policy
+
+This Cookie Policy describes how and when we use different types of cookies when you visit our websites, whether accessed through a computer, tablet, smartphone or other device, and our mobile applications.
+
+#### What Are Cookies?
+
+A cookie is a small text file that is sent to your internet browser from the websites you visit and stored on your computer's hard drive or tablet or mobile device. In a similar way to many other websites, we use cookies to help us tailor our services to your needs so we can deliver a better and more personalized service. It is a cookie, for example, that allows us to deliver to you any personalized information each time you visit our websites.
+
+#### What Types of Cookies Do We Use?
+
+We place and access cookies on your computer; these cookies are known as “first-party cookies.” Cookies may also be placed and accessed by some of our third-party vendors, which are known as “third-party cookies” and are described below. Some cookies are "session cookies," which means that they are temporary cookies that are only stored on your device while you are visiting our website. Other cookies are "persistent cookies," which means that they are stored on your device for a period of time after you leave our website.
+
+The following describes the different types of cookies that we use:
+
+Cookie Type | Description  
+---|---  
+Advertising Cookies | 
+
+We may use third-party advertising companies to serve ads when you visit our websites. A list of these ad serving companies is available here. These companies may employ cookies to measure advertising effectiveness. We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the [Network Advertising Initiative's](http://www.networkadvertising.org/) consumer website.
+
+Google Doubleclick for Publishers (DFP) is an ad network partner that displays ads on our websites. [Click here](https://www.google.com/policies/technologies/ads/) to learn more about Google DFP's ad practices, including how to opt out of using anonymous information to select which ads to show you.  
+  
+Analytics Cookies | Analytics cookies collect information about your use of the website that allow us to study, and then improve, how customers interact with our website. This is known as website analytics. Analytics cookies allow us to understand more about how many visitors we have to our websites, how many times they visit us and how many times a user viewed specific webpages within our website. Although analytics cookies allow us to gather specific information about the pages that you visit and whether you have visited our website multiple times, we cannot use them to find out details such as your name or address. Examples of analytical tools that we use are: Google Analytics and Adobe Analytics.  
+Essential Cookies | These are cookies that our website needs in order to function, and that enable you to move around and use its services and features. Without these necessary cookies, the website will not perform as smoothly for you as we would like it to and we may not be able to provide the website or certain services or features you request. Examples of where these cookies are used include: [to anonymously determine when you are signed in; to determine when a user’s account has been inactive; and for other security purposes].  
+Third-Party Cookies | These are cookies set by third parties (someone other than the owner of the website). Aside from setting cookies ourselves, we also allow third parties to set cookies during your visit to our website. These organizations provide us with information on how you use our website. They may also use cookies to promote our newest products and latest offers to you on other websites based on your activity on our website, or your activity on other websites that use the same cookies. For example, you may see products that you viewed on our website presented on other websites as you move around the internet. Some of our partners will use your location to provide more relevant messaging. We have no control over third-party cookies.  
+Social Media Cookies | Social media cookies are used to enable you to share pages and content you find interesting on our website through third-party social networking and other websites. These cookies may also be used for advertising purposes.  
+  
+#### How Can I Manage My Cookies?
+
+If you wish to manage or opt-out of cookies utilized by our website and third party advertisers, you can take the following steps:
 
   * You may be able to download an opt-out cookie from the third party advertiser’s website allowing you to opt-out of cookies. Please visit the third party advertiser’s websites for more information.
   * Your web browser may allow you to manage what cookies are accepted or declined. These settings can usually be found in the preferences or options menus of your web browser.
   * Your web browser may also allow you to manually view cookies and delete the cookies you don’t want or need. Check your web browser’s settings for more information.
   * Websites that require registration may allow you to opt-out of cookies. Check the account settings or preferences section of the website for more information.
-  * For more information, please visit <http://www.networkadvertising.org/choices/>.
 
 
 
-**Information Gathered by Voluntary Submission**
+For more information about opting out of interest based adverting, you can visit: <http://www.networkadvertising.org/choices/>.
 
-To make use of certain features on our Services (such as contests, story comments, letters to the editor, personalized web pages and other interactive forums and blogs) visitors need to register and to provide certain information as part of the registration or participation process. We may ask, for example, for your name, e-mail address, gender, age, and zip code, and we might request information on your interest in sports, personal finance, the performing arts, and the like.
+If you choose not to accept cookies while on our website, please be aware that our website may no longer function as intended, and you may be unable to access certain pages. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our website.
 
-The information you supply will help us offer you more personalized features, to tailor our Services to your interests and make them more useful to you. The more you tell us about yourself, the more value we can offer you. Supplying such information is entirely voluntary. But if you do not supply the information we need, we may be unable to provide you with services and content we make available to other visitors to our Services. Of course, even if you want to remain completely anonymous, you are still free to take advantage of the wealth of content that is otherwise available, without registration, in using our Services.
+## Contact Information
 
-**Children under the Age of 13**
+If you have any questions, comments, or complaints concerning our privacy practices please contact us at the appropriate address below. We will attempt to respond to your requests and to provide you with additional privacy-related information.
 
-If you are under the age of 13, do not send us any information about yourself such as your name, address or e-mail address. You may only send us personally identifiable information if your parents have verified to us their consent to the collection of the information.
+Email: [privacy@lee.net](https://missoulian.com/content/tncms/live/privacy@lee.net)  
+500 S. Higgins  
+Missoula, MT, 59801
 
-Because we are a media company, some of our online services and content may be attractive to children. Because we strive to protect the privacy of all users of our Services, including children, we endeavor to comply with the Children’s Online Privacy Protection Act. Our site:
+[866-839-6397](tel:+18668396397)
 
-  * Includes our contact information.
-  * Explains the types of personal information we collect, and how we use it.
-  * Explains our practices in terms of sharing personal information with third parties.
-  * Allows parents to consent to the collection and use of their children’s personal information, without consenting to disclosure to third parties.
-  * Does not condition a child’s participation in an activity on the child’s providing more personal information than is reasonably necessary for the activity.
-  * Allows parents to review their child’s information, have it deleted, or refuse to permit any further collection, by contacting us.
+If you are not satisfied with our response, and are in the European Union, you may have a right to lodge a complaint with your local supervisory authority.
 
-
-
-We make a special effort to encourage children under the age of 13 to consult with their parents before furnishing any personal data. However, we also believe that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a child-friendly online environment. These tools can also prevent children from disclosing their name, address, and other personal information online without parental permission. For additional information about parental control tools, please consult <http://www.icra.org/_en/parents>
-
-**E-mails from Us**
-
-Upon registering with our Services, you may begin receiving communications from us. In addition, if you have signed up for any of our automated account services, we will send you transactional e-mails regarding the status of your account, including confirmations, notices of expiration and renewal and other related electronic correspondence. If you have signed up for any of our e-mail newsletters, you may stop receiving them if you follow the "unsubscribe" instructions located near the bottom of each newsletter. We may send you an e-mail inviting you to participate in subscriber or website user surveys. Such surveys greatly help us improve our Services and the value of our websites. Any information you give us in those surveys will not be shared with any third parties except in aggregate form.
-
-**What We Do With the Information We Gather About You**
-
-We or one of our affiliated companies may perform statistical, marketing and demographic analyses of our delivery subscribers and their subscription patterns. In addition, we may generally inform our advertisers about our subscriber base. When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our websites -- it is usually in the form of aggregated statistics on traffic to various pages within our sites. We will not share individual user information with third parties unless the user has specifically approved the release of that information; however, in some cases, we may provide information to legal officials as described in “Compliance with Legal Process” below. Further, please note that if Lee Enterprises, Inc., or any of its subsidiaries or lines of business is merged, acquired, divested, financed, sold, disposed of or dissolved, including through merger of, consolidation, sale or divestiture of assets, the relevant customer database, including personally identifiable information we may possess about you, may, in whole or in part, be sold, disposed of, transferred, divested, or otherwise disclosed as part of that transaction or proceeding.
-
-In addition, in some cases, we contract with third parties to provide services on our behalf, including credit-card and bill processing, shipping, e-mail distribution, list processing and analytics or promotions management. We provide these third parties only with the information necessary for them to perform their specific services. These service providers are restricted from using this information in any way other than to provide services to us, and they may not share this information with anyone else nor may they resell this data.
-
-**Compliance with Legal Process**
-
-We may disclose personal information if we or one of our affiliated companies is required by law to disclose personal information, or if we believe in good faith that such action is necessary to comply with a law or some legal process, to protect or defend our rights and property, to protect against misuse or unauthorized use of our Services or to protect the personal safety or property of our users or the public.
-
-**A Final Note:**
-
-We are affiliated with other online companies, some of which feature our branding; in addition there are numerous links to third parties contained on our site. Our Privacy Policy does not apply to those companies' websites, so you should refer to each of those sites to obtain information on their privacy policies. If you cannot find the privacy policy on any of these sites once you have arrived at their site via a link from our site, you should contact that site directly for more information.
-
-The web is an evolving medium. If we need to change our Privacy Policy at some point in the future, we will post the changes before they take effect if we believe that the change in the way we use your personal information is significant or material. Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later.
-
-This Website uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the site and use of the Services means you accept the privacy policy of the AP News Registry. Please refer to the [AP News Registry privacy policy](http://www.newsregistry.com/privacycenter/servicepolicy.aspx) for further information.
-
-Last updated on 2/19/2018
+**Last Revised: 09/10/2018**
