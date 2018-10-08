@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydir.info privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517184827id_/http%3A//everydir.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydir.info privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008133744id_/http%3A//everydir.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Interior Design Ideas
 
