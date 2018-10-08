@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marriedwiki.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607143607id_/http%3A//marriedwiki.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriedwiki.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009012940id_/http%3A//marriedwiki.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - mariedwiki.com
 
@@ -55,6 +55,20 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
+## General Data Protection Regulation
+
+We comply with GDPR. We usually do not collect personal data from users. However, the names and emails from email will be used only to respond you. We protect your privacy, ensure responsibility, and ensure consent. Our website does not use cookies, and it’s a good thing!
+
+**Complying with this regulation, users and viewers have right to** :
+
+You can correct your data if it is outdated.
+
+You have right to erase data or ask us to erase data of you.
+
+You have right to take all data out of the information.
+
+You are allowed to view how your data are stored here.
+
 ## **Changes to this privacy policy**
 
 Marriedwiki has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
@@ -67,7 +81,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [marriedwiki](http://marriedwiki.com/)  
-[http://marriedwiki.com](http://marriedwiki.com/)  
-info@mariedwiki.com
-
+[https://marriedwiki.com](http://marriedwiki.com/)  
+marriedwiki@gmail.com  
 This document was last updated on December 01, 2016
