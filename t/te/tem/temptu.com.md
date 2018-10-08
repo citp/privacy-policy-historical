@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the temptu.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905101851id_/https%3A//temptu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temptu.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008195522id_/https%3A//temptu.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | TEMPTU
 
 TEMPTU, Inc. (“Company,” or “we,” or “us,” or “our”) has created this privacy policy (the “Policy”) to explain our privacy practices so you will understand when and how personal information is collected, used, disclosed and protected with respect to this website (the “Site”) and our products and services (collectively “Products”).
 
@@ -70,6 +70,10 @@ Please be aware that we provide links to third party websites from the Site as a
 
 You should be aware that Company has no control over the security of other websites on the Internet that you might visit, interact with, or from which you buy products or services. 
 
+**European Union Users**
+
+The Site is hosted in the United States and are governed by United States law. If you are using the Site from outside the United States, please be aware that your personal information and/or aggregate information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. By using the Site, you consent to your personal information and/or aggregate information being transferred to our facilities and to the facilities of those third parties with whom we share it as described in this Privacy Policy. If you receive any marketing email from us, you will always be able to unsubscribe from those materials by following the directions to unsubscribe set forth in that email.
+
 **Updating This Policy**
 
 We may revise and update this Policy if our practices change, as technology changes, or as we add new services or change existing ones. Any changes will be posted to this document so that you will always know what information we gather and how we use it.  You are encouraged to print or download a copy of this document for your records. If we make any material changes to our Policy or how we handle your personal information, we will post an "update" notice to our site and change the date of the Policy. If we are going to use any Personal Information in a manner that is materially different from that stated in our Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. However, if users have opted out of all communication with the Site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. We will use information in accordance with the most current privacy policy. 
@@ -78,4 +82,4 @@ We may revise and update this Policy if our practices change, as technology chan
 
 If you have any questions, comments or concerns about this Policy, you can send us email to: webmaster@temptu.com
 
-Last Updated:  July 23, 2012
+Last Updated:  May 10, 2018
