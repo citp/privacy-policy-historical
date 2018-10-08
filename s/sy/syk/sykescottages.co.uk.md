@@ -1,413 +1,171 @@
-> *The following text is extracted and transformed from the sykescottages.co.uk privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719050257id_/https%3A//www.sykescottages.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sykescottages.co.uk privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008135503id_/https%3A//www.sykescottages.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Sykes Cottages
+# Sykes Cottages
 
-Sykes Cottages is sensitive to privacy issues on the Internet. We believe that it is important you know how we treat the information we receive about you on the Internet and how the information is collected.
+## About this policy
 
-In general, you may visit the site without telling us who you are or revealing any personally identifiable information about you. Our servers collect the domain names, operating system in use (e.g., Macintosh, Windows) and browser (e.g., Netscape, Internet Explorer). This information is aggregated to measure the number of visits, average time spent on the Site, pages viewed, etc. Sykes Cottages uses this information to measure the use of our Site and to improve the content of our Site. E-mail addresses and other personally identifiable information such as first and last name, telephone number, and other similar information are known only when voluntarily provided by a visitor for registration or other participation of visitors in any available online interactive activities.
+The **Data Controller** (the organisations responsible for looking after your data) is the Sykes Group of companies. When we say “we”, “our”, “us”, etc., that’s who we’re talking about. Please read the section “Sykes Group” to find out more.
 
-## Use Of Your Information
+We are grateful for the trust you place in us, to arrange holidays, manage holiday properties and to use personal information responsibly. We are committed to protecting your information and we believe you have a right to know how we will use it. This policy sets out the data protection principles we follow.
 
-We may use the personal information you provide for any of the following purposes: (1) to understand the use of our Site and make improvements; (2) to fulfill prizes; (3) to respond to specific requests from visitors; (4) to protect the security or integrity of our Site when necessary; (5) to send you notices and solicitations regarding Site and our businesses; and (6) in general to promote and market products to you. These solicitations may take the form of mailings or other couriers, telephone calls, e-mail solicitations and other methods of contact. If you do not want to receive these solicitations from us using your personally identifiable information, please notify us.
+This policy covers our dealings with customers and owner – people who have booked or are looking for a holiday, and people who let their holiday properties through us. Please note that our customers and owners must be over the age of 18 and we do not therefore collect personal information from children.
 
-At times, we may conduct online surveys to better understand the needs and profiles of our visitors. When we conduct a survey, we will try to let you know how we will use the information at the time we collect the information from you on the Internet.
+We will update our Privacy and Cookies Policy as data protection law or business practice changes. You can always find the latest version of this policy on our website, [www.sykescottages.co.uk](https://web.archive.org/ "Sykes Cottages"). This version of the policy is effective from 23 April 2018.
 
-## Disclosures Of Your Information
+## Data Protection Officer
 
-Unless otherwise disclosed during the collection, personally identifiable information that may be collected in connection with visitors to this Site is retained by Sykes Cottages. Sykes Cottages do not sell, transfer or otherwise disclose this personally identifiable information outside this company, except where disclosure is required by law.
+Our Data Protection Officer is Rob Pomeroy, who may be contacted via email at [dpo@sykescottages.co.uk](mailto:dpo@sykescottages.co.uk) or via post, to Sykes Holiday Cottages, 1 City Place, Queens Road, Chester, CH1 3BQ, UK.
 
-## Other Websites
+## Your rights
 
-This Site may contain links to other sites of third parties. We are not responsible for the content or privacy practices of those other sites. We may revise this Privacy Policy from time to time. You are responsible for checking this policy when you visit our Site to review the current policy. If you do not agree with the policy, you should cease use of the Site immediately.
+We generally use your data either on the basis of your consent, or based on a contract between us (e.g. when you book a holiday). **You have the right to withdraw your consent.** All our marketing communications include an unsubscribe link, to make it easy to withdraw consent. If you have an online account with us, you may also log into our websites to manage your marketing preferences.
 
-## Cookies
+If you withdraw your consent (e.g. by opting out of marketing communications), we will stop processing your data as requested. Bear in mind if you have a holiday booked and you have not yet travelled, we’ll still need to hold onto your data so we can process the holiday. That’s because the contract between us is the basis for using your data (rather than consent). For more information, see the “Legal basis of processing” section below.
 
-A technology called "cookies" allows websites to provide you with tailored information and an improved browsing experience. A "cookie" is a tiny element of data that a web site can send to your browse, usually containing specific information and for a specific purpose. For more information about cookies please visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/ "View More Cookie Information").
+If you are concerned about the processing of your data, please contact our Data Protection Officer (see above). If you are unhappy with our use of your data, **you also have the right to make a complaint to the** [Information Commissioner’s Office](https://ico.org.uk/ "Information Commissioner’s Office"), which supervises data protection in the UK.
 
-**Additional Information**
+**You have the right to receive a copy of your personal data. You also have the right to request that we correct or remove your data, when there remains no legal basis for keeping it.** Please note that when these rights are exercised, we will conduct identification checks in order to ensure your privacy is safeguarded. You will need to contact us by email or post, to exercise these rights
 
-**Cookie**
+## Personal information we collect
 
-| 
+In order to provide you with the best possible holiday service, we collect the following information:
 
-**Domain**
+**Identification:** name, title, date of birth, age/age range, gender.
 
-| 
+**Contact details:** postal addresses (main and billing), phone numbers, email addresses.
 
-**Name**
+**Account login details:** email address, password (which is stored in encrypted form).
 
-| 
+**Bookings:** property booked, holiday start/end dates, cost of holiday, amounts paid, limited details of other people booked on the same holiday (names, gender, age range), ferry bookings (travel times, cost).
 
-**Purpose**
+**Insurance:** your answers to the initial insurance questions.
 
-| 
+**Marketing preferences:** whether you wish to receive marketing information from us, and if so, by which methods (postal, email, telephone, SMS).
 
-**Further Information**  
-  
----|---|---|---|---  
-  
-Google Analytics
+**Payment:** method, the last four digits of card numbers, payment card expiry date, amounts collected, third party payment service provider references. _Please note that we do not capture or store your full card details: payment is handled by our payment service providers (see below)._
 
-| 
+**Browsing:** historical searches, how you use our website and mobile apps, website experience user survey responses, the devices and IP addresses you use to access our services (operating system, browser, …). _We collect this information so that we can continuously improve our website and our service to you._
 
-Google.com
+**Holiday experience:** any feedback you leave, responses to customer satisfaction surveys, whether you have a pet, interests (e.g. preferred holiday type, such as walking holidays).
 
-| 
+**Specific to property owners:** addresses of your properties, historical and future booking information (see above), photographs/videos of the properties you own.
 
-__utma, __utmb, __utmc, __utmz
+**Communication:** recordings of your phone conversations with our call centre, web chat messages, emails, customer service cases, responses to questionnaires, competition entries, your interaction with our marketing (clicking links in our marketing emails, for example – we track this to help ensure our communications are relevant and interesting).
 
-| 
+**Electronic identifiers:** cookies, IP addresses. _These electronic identifiers are essential to enable you to log into your online account and to assist you if you encounter difficulties using our online services. You can disable cookies if you wish, but this will hamper our ability to provide online services securely._
 
-Google Analytics' cookies are used to collect anonymous information about how people use our website. We actively use this information to help us improve our site for the benefit of our customers.
+Through our partnerships, we may receive some of the above information from other companies you use (e.g. other online holiday companies that feature our properties). In such cases, those companies must also inform you about their use of your data.
 
-| 
+## How we use your personal information
 
-Google Analytics Privacy Policy  
-  
-Google +1
+We use your personal information to:
 
-| 
+  * Manage your holiday booking/letting
+  * Organise ferry bookings
+  * Facilitate purchasing travel insurance
+  * Manage your online accounts
+  * Ensure you can log into your online accounts with us
+  * Understand how to improve our services, to select the best holiday properties and provide the best information and offers, for example
+  * Detect and prevent fraud or abuse of our services
+  * Personalise your online experience – showing you the most suitable holiday properties, for example
+  * Enable the display of the most appropriate adverts on our websites and on other websites and services where we place advertising
+  * Communicate with you, including for example, responding to your emails, messages on social media, web chat requests, handling customer service matters and so on
+  * Process your payments
+  * With your permission, send you relevant marketing information such as details of competitions, special offers and properties we think will be of interest to you
+  * Manage competitions, promotions and special offers in which you participate
+  * Make sure our servers and websites are operating correctly
 
-Google.com
 
-| 
 
-PREF, NID
+## How we collect personal information
 
-| 
+We receive personal information from:
 
-Google uses cookies to track its 'Google +1' system. For further details on this please see Google's privacy policy.
+  * You, as you provide it to us (e.g. when booking a holiday, leaving a review or enquiring about letting a property)
+  * Your use of our websites and mobile apps
+  * Third party holiday providers you may book with, who advertise our properties
+  * Your interaction with our marketing activities (provided you have not unsubscribed)
+  * Third party review services such as Feefo and TripAdvisor
 
-| 
 
-Google Plus One Privacy Policy  
-  
-Sykes Tracking
 
-| 
+## Legal basis of processing
 
-Sykescottages.co.uk
+There are several grounds on which we will store and use your data. As follows:
 
-| 
+**Consent:** for certain types of processing (e.g. marketing activities), we rely on your consent to use your data. You may withdraw your consent at any time (see “Your rights”, above).
 
-rfx_code, rfx_path, rfx_source
+**Contract:** much of the time, our use of your data will be because of the contract between us – that is, in relation to your holiday booking. We will usually retain relevant data for up to six years from the date the contract completes – e.g. the last day of your holiday.
 
-| 
+**Legal obligations:** we are under certain binding legal obligations, such as accounting to the government for tax and making financial records available for audit. In such cases, we are typically obliged to retain data for up to seven years from the date of the transaction.
 
-Sykes Cottages uses these cookies to assess how visitors arrive at the Sykes website. This helps us ensure we're reaching customers where and when they need us.
+**Legitimate interests:** we use data to manage our operations and to make business process improvements. Rest assured, our legitimate interests will never override your right to privacy
 
-|    
-  
-  
-Yahoo Search Marketing
+## How we share your personal information
 
-| 
+We give some of your contact information to **property owners** , so they can get in touch about key collection and so on. (We also give you their contact details, for the same reason.)
 
-Sykescottages.co.uk
+If you need to book a ferry, we give the **ferry company** your name, details of other people in your party, age ranges and travel dates. The ferry companies we use are:
 
-| 
+  * [Wightlink Ltd](http://www.wightlink.co.uk/ "Wightlink Ltd"), PO Box 59, Portsmouth, PO1 2XB
+  * [Irish Ferries Limited](https://www.irishferries.com/uk-en/to-ireland-from-britain "Irish Ferries Limited"), Ferryport, Alexandra Road, Dublin 1, Ireland. Eircode D01 W2F5
+  * [Stena Line Limited](https://www.stenaline.co.uk/ "Stena Line Limited"), Stena House, Station Approach, Holyhead, Anglesey, LL65 1DQ
 
-ysm_{x}
 
-| 
 
-Sykes Cottages uses these cookies to assess how visitors arrive at the Sykes website. For more details on Yahoo Search Marketing, please see Yahoo's privacy policy.
+If you choose to purchase travel insurance, we pass your contact details and your responses to initial insurance questions to the **insurance companies** , ITC Compliance Limited and Towergate Underwriting Group Ltd.
 
-| 
+If you permit us to send you marketing information, we may share your data with **companies that provide specialist marketing platforms**. These companies are under strict obligations to protect your privacy and comply with your marketing preferences. Our marketing partner companies are:
 
-Yahoo Privacy Policy  
-  
-Hosting Load Balancing
+  * [Intilery.com Ltd](http://www.intilery.com/ "Intilery,com Ltd"), Beech House, Park West Business Park, Sealand Road, Chester, CH1 4RJB
+  * [Emailcenter UK Limited](https://www.emailcenteruk.com/ "Emailcenter UK Limited"), West Tithe, Pury Hill Business Park, Alderton Road, Towcester, Northamptonshire, NN12 7LS
+  * [Ant Protect Limited](http://www.antmarketing.com/ "Ant Protect Limited"), Antenna House, St Mary's Gate, Sheffield, S2 4QA
+  * [TripAdvisor LLC](https://www.tripadvisor.co.uk/ "TripAdvisor LLC"), 400 1st Avenue, Needham, MA 02494, USA
+  * [Wightlink Ltd](https://www.feefo.com/ "Feefo Holdings Ltd"), Heath Farm, Heath Road East, Petersfield, GU31 4HT
 
-| 
 
-Sykescottages.co.uk
 
-| 
+_Notes:_
 
-AWSELB
+  * _1\. We store your data in certain cloud services provided by third parties. Those third parties do not however have access to your data._
+  * _2\. We do not transfer your data outside the UK or the European Union._
+  * _3\. We may engage selected specialist third parties to assist in posting items to you, such as brochures and leaflets. Those third parties do not retain access to your data._
 
-| 
 
-This cookie is essential in order for our site to function and is used to help us balance our web traffic. This ensures we provide an optimal browsing experience for every visitor.
 
-| 
+## Security of your data
 
-AWS Privacy Policy  
-  
-PHP SESSION
+We protect your data with various technological measures. We also regularly test and evaluate the security of our systems, updating safeguards as appropriate. Our staff are trained in the importance of security and privacy and we treat breaches of confidentiality and privacy as disciplinary matters.
 
-| 
+## Sykes Group
 
-Sykescottages.co.uk
+The Sykes Group of companies consists of:
 
-| 
+  * Sykes Cottages Ltd, 1 City Place, Queens Road, Chester, CH1 3BQ
+  * Cornish Cottages Holidays
+  * Helpful Holidays
+  * Lakes Cottages Holidays
+  * Cornwall Holiday Cottages
 
-PHPSESSID
 
-| 
 
-Essential to website operation, storing technical information needed in order to make website function correctly during browsing eg. Cottage Search function etc.
+all of which can be contacted via our registered office.
 
-| 
+We share your personal information with all members of the group as if all members were the same company. Your marketing preferences are specific to each individual member of the group, however. All members of the Sykes Group abide by the same high standards of conduct in relation to your personal information.
 
-Sykes Privacy Policy  
-  
-SagePay
+Our ICO registration reference is Z5047880.
 
-| 
+## Payment service providers
 
-Sagepay.com
+In order to ensure your transactions are as secure as possible, we hand over payment card processing to the following suppliers:
 
-| 
+  * PayPal (Europe) S.à r.l. et Cie, S.C.A. Attention: Legal Department, 22-24 Boulevard Royal L-2449, Luxembourg
+  * Sage Pay Europe Limited, North Park, Newcastle upon Tyne, NE13 9AA
+  * Syntec Ltd, 18 The Avenue, London W13 8PH
+  * Apple Inc., One Apple Park Way, Cupertino, CA 95014, USA
 
-JSESSIONID
 
-| 
 
-Essential to operation of website. Used by the SagePay secure payment gateway.
+## Internet advertising
 
-| 
-
-SagePay Privacy Policy  
-  
-Burst Media
-
-| 
-
-Ad.yieldmanager.com
-
-| 
-
-uid
-
-bh
-
-| 
-
-Sykes Cottages works with selected partners to ensure we reach new and existing customers who may be interested in booking a cottage with us.
-
-| 
-
-Burst Media Privacy Policy  
-  
-Doubleclick.net
-
-| 
-
-id  
-  
-addthis.com, s7addthis.com
-
-| 
-
-uid, uit, psc, user_segment, __atuv, uvc  
-  
-SmartAdServer
-
-| 
-
-smartadserver.com, www4.smartadserver.com
-
-| 
-
-Iab, comp
-
-| 
-
-SmartAdServer Privacy Policy  
-  
-AppNexus
-
-| 
-
-Adnxs.com
-
-| 
-
-anj, sess, uuid2
-
-| 
-
-App Nexus Privacy Policy  
-  
-Improved Digital
-
-| 
-
-Ad.360yield.com
-
-| 
-
-tuuid, pxl, um
-
-| 
-
-Improved Digital Privacy Policy  
-  
-AdMeld
-
-| 
-
-Tag.admeld.com
-
-| 
-
-Meld_sess
-
-| 
-
-AdMeld Privacy Policy  
-  
-Struq
-
-| 
-
-Struq.com
-
-| 
-
-Pref, PREF
-
-| 
-
-Struq Privacy Policy  
-  
-Yahoo Search Marketing
-
-| 
-
-Yahoo.com, overture.com
-
-| 
-
-B, BX
-
-| 
-
-Yahoo Privacy Policy  
-  
-Rubicon
-
-| 
-
-rubiconproject.com , pixel.rubiconproject.com
-
-| 
-
-rpb, put_288, rpx
-
-| 
-
-Rubicon Privacy Policy  
-  
-PubMatic
-
-| 
-
-pubmatic.com
-
-| 
-
-KRTBCOOKIE_121, PUBRETARGET
-
-| 
-
-View PubMatic Privacy Policy  
-  
-Zedo
-
-| 
-
-Zedo.com
-
-| 
-
-FFgeo, FFBbh, ZEDOIDA
-
-| 
-
-Zedo Privacy Policy  
-  
-Advertising.com
-
-| 
-
-Advertising.com
-
-| 
-
-C2
-
-| 
-
-Advertising.com Privacy Policy  
-  
-OpenX
-
-| 
-
-openx.net
-
-| 
-
-i
-
-| 
-
-OpenX Privacy Policy  
-  
-Atlas Solutions
-
-| 
-
-atdmt.com
-
-| 
-
-AA002, MUID
-
-|    
-  
-  
-Weborama
-
-| 
-
-aimfar.solution.weborama.fr
-
-| 
-
-_adprofile
-
-| 
-
-Weborama Privacy Policy  
-  
-Facebook
-
-| 
-
-Facebook.com
-
-| 
-
-datr, lsd, reg_fb_gate, reg_fb_ref
-
-| 
-
-Cookies are set by Facebook when visiting our site having previously logged into Facebook elsewhere. For further details please see Facebook's privacy policy.
-
-| 
-
-Facebook Privacy Policy  
-  
-Criteo Email   
-|  Criteo.com |  | The purpose of Criteo Email is to find visitors of Criteo advertising clients' properties (websites, apps and newsletters) and send them personalized emails. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. |  To learn more or opt out of Criteo Email please see <http://privacy.criteoemail.com/gb/privacy-policy.html>  
-Google RLSA |  Google.com |  | Sykes Cottages use first party data (using cookies) to help personalise the google search results, using data taken from customers interactions with our products, services and website. Google can display these ads across the internet and their own properties. | User may opt-out of Google's use of cookies by visiting Google's [Ads Setting](https://www.google.com/settings/u/0/ads/authenticated?hl=en-gb) s or to learn more please see [here](https://support.google.com/adwordspolicy/answer/143465) .  
-  
-
-
-## Access Rights
-
-You have a right to access the personal data that is held about you. Please write to us at the following address to obtain a copy of the personal information Sykes Cottages holds about you: Sykes Cottages, Lime Tree House, Hoole Lane, Chester, CH2 3EG, enclosing your postal details.
+We allow some third party advertisers to place cookies on our websites – and from there, in your browser. Please note that you may use your browser’s controls to disable cookies at any time.
