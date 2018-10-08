@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momsbyheart.net privacy policy that was archived on 2017-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170825025954id_/http%3A//momsbyheart.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momsbyheart.net privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008204346id_/http%3A//momsbyheart.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
