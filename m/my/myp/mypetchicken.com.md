@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mypetchicken.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222848id_/https%3A//www.mypetchicken.com/about-our-company/policy/privacy-policy.aspx%3Ff%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypetchicken.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008131603id_/https%3A//www.mypetchicken.com/about-our-company/policy/privacy-policy.aspx%3Ff%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy - My Pet Chicken
 
-We are committed to protecting your privacy and ensuring that your experience on our website is positive. This notice outlines the types of personal information we collect and some of the steps we take to safeguard information. We hope this helps you make an informed decision about sharing personal information with us. 
+We are committed to protecting your privacy and ensuring that your experience on our website is positive. This notice outlines the types of personal information we collect and some of the steps we take to safeguard information. We hope this helps you make an informed decision about sharing personal information with us.
 
 ### The Information We Collect
 
@@ -12,7 +12,7 @@ Address
 Email address  
 Phone number  
 Payment Information  
-Etc.   
+Etc.  
 
 
 On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:   
@@ -22,7 +22,7 @@ Phone Number
 Etc.  
 
 
-This website uses remarketing service (such as Google AdWords, Criteo and AdRoll) to advertise on third party websites to previous visitors to our site, including those who haven't completed a task on our site. Third-party vendors use cookies to serve ads based on someone's past visits to the MyPetChicken.com website. You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), or use the [NAI opt-out tool](http://www.networkadvertising.org/choices/). 
+This website uses remarketing service (such as Google AdWords, Criteo and AdRoll) to advertise on third party websites to previous visitors to our site, including those who haven't completed a task on our site. Third-party vendors use cookies to serve ads based on someone's past visits to the MyPetChicken.com website. You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), or use the [NAI opt-out tool](http://www.networkadvertising.org/choices/).
 
 This website uses Google Analytics to track general website usage and behavior. No personally identifiable information is collected or linked, but aggregate demographic information, based on users' browsing history, may be collected. You can set preferences for the information Google collects at [Google Preferences page](http://www.google.com/settings/ads/onweb/)
 
@@ -69,7 +69,7 @@ When we transfer sensitive personal data (for example, credit card information) 
 
 ### Cookies
 
-The My Pet Chicken website utilizes cookies, although you can still access the website even if you choose to disable cookies in your browser. Some portions of our website will not allow you to complete certain activities if cookies are disabled. If you diable cookies, the associated shopping basket will not work and you will not be able to place an order. 
+The My Pet Chicken website utilizes cookies, although you can still access the website even if you choose to disable cookies in your browser. Some portions of our website will not allow you to complete certain activities if cookies are disabled.If you diable cookies, the associated shopping basket will not work and you will not be able to place an order. 
 
 ### Linked websites
 
@@ -77,7 +77,7 @@ My Pet Chicken may provide links to other third-party websites which are outside
 
 ### You Can Access or Correct Your Information
 
-You can access all of your personally identifiable information that we collect and maintain by clicking the My Account link at the top of any page on our website, and logging in using your username and password. 
+You can access all of your personally identifiable information that we collect and maintain by clicking the My Account link at the top of any page on our website, and logging in using your username and password.
 
 You can correct factual errors in your personally identifiable information yourself by clicking on the "edit" link in the My Account area. 
 
