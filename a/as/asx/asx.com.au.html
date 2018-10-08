@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the asx.com.au privacy policy that was archived on 2018-01-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180106004219id_/https%3A//www.asx.com.au/about/privacy-statement.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asx.com.au privacy policy that was archived on 2018-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181009001504id_/https%3A//www.asx.com.au/about/privacy-statement.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" style=""><!--<![endif]--><!-- start ISD top --><!-- end ISD top --><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <!-- 837,2018-01-05/15:18 -->
+    <!-- 837,2018-10-09/10:39 -->
     <!-- start meta -->
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <title>Privacy Policy - ASX</title>
       <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->       
         <meta name="description" content="The following Privacy Statement has been published to provide a clear and concise outline of how and when personal information is collected, stored and distributed by ASX through use by you of www.asx.com.au. For more detailed Privacy information on ASX's information handling practices, please refer to the ASX Privacy Policy or you can contact us on: 1300 300 279.">
@@ -15,7 +16,7 @@
         <meta name="search-category" content="About ASX">    
         <meta name="search-subcategory" content="">
         <meta prefix="og: http://ogp.me/ns#" property="og:title" content="The following Privacy Statement has been published to provide a clear and concise outline of how and when personal information is collected, stored and distributed by ASX through use by you of www.asx.com.au. For more detailed Privacy information on ASX's information handling practices, please refer to the ASX Privacy Policy or you can contact us on: 1300 300 279.">
-        <meta prefix="og: http://ogp.me/ns#" property="og:image" content="http://www.asx.com.au/images/about/img-header-logo.png">
+        <meta prefix="og: http://ogp.me/ns#" property="og:image" content="https://www.asx.com.au/images/about/img-header-logo.png">
         <meta prefix="og: http://ogp.me/ns#" property="article:published_time" content="2010-12-05">
 
         <!-- end meta -->
@@ -31,9 +32,9 @@
 
 <script type="text/javascript" src="/js/modernizr.js"></script><script type="text/javascript" src="/js/manage_absolute_urls.js"></script><script type="text/javascript" src="/js/respond.js"></script><script type="text/javascript" src="/js/tabs.js"></script><script type="text/javascript" src="/js/url_prefix.js"></script><script type="text/javascript" src="/js/slider.js"></script><script type="text/javascript" src="/js/scripts.js"></script><script type="text/javascript" src="/js/codelookup.js"></script><script type="text/javascript" src="/js/jquery-ui-1.10.3.custom.min.js"></script><script type="text/javascript" src="/js/jquery.html5-placeholder-shim.js"></script>
 
-<script type="text/javascript" src="http://search.asx.com.au/search/js/jquery/jquery.tmpl.min.js"></script>
-<script type="text/javascript" src="http://search.asx.com.au/s/resources/asx-meta/jquery.asx-completion.js"></script>
-<script type="text/javascript" src="http://search.asx.com.au/s/resources/asx-meta/jquery.asx-webfunctions.js"></script>
+<script type="text/javascript" src="https://search.asx.com.au/search/js/jquery/jquery.tmpl.min.js"></script>
+<script type="text/javascript" src="https://search.asx.com.au/s/resources/asx-meta/jquery.asx-completion.js"></script>
+<script type="text/javascript" src="https://search.asx.com.au/s/resources/asx-meta/jquery.asx-webfunctions.js"></script>
 <script type="text/javascript">
         jQuery(document).ready( function() {
             // Query completion setup.
@@ -41,7 +42,7 @@
                 jQuery("#query_global").fbcompletion({
                     'enabled'    : 'enabled',
                     'collection' : 'asx-meta',
-                    'program'    : 'http://search.asx.com.au/s/suggest.json',
+                    'program'    : 'https://search.asx.com.au/s/suggest.json',
                     'format'     : 'extended',
                     'alpha'      : '.5',
                     'show'       : '15',
@@ -78,6 +79,8 @@
     googletag.defineSlot('/76291182/ASX_MREC', [[300, 250], [300, 600]], 'div-gpt-ad-1450161763430-1').addService(googletag.pubads());
     googletag.defineSlot('/76291182/ASX_skyscraper', [160, 600], 'div-gpt-ad-1450161763430-3').addService(googletag.pubads());
     googletag.defineSlot('/76291182/ASX_MREC_lower', [300, 250], 'div-gpt-ad-1450161763430-2').addService(googletag.pubads());
+    googletag.defineSlot('/76291182/ASX_leaderboard_mob', [320, 50], 'div-gpt-ad-1508976327533-0').addService(googletag.pubads());
+    googletag.defineSlot('/76291182/ASX_MREC_mob', [300, 250], 'div-gpt-ad-1512516996176-1').addService(googletag.pubads());
     googletag.enableServices();
   });
 </script>
@@ -104,6 +107,47 @@
 
         
 
+
+<script>
+$( document ).ready(function() {
+	$('nav').on('click', function(event) {
+		var node = $(event.target).get(0).nodeName;
+		if (node != 'A')
+		{
+		    if ($(this).hasClass('active')) {
+		    	$(this).removeClass('active');
+
+		    	$('nav > div > ul > li').each(function(index, element){
+					$(element).removeClass('active');
+					$('nav > div > ul > li > ul').css("display","none");
+				});
+		    }
+		    else {
+		    	$(this).addClass('active');
+		    }
+		}
+    });
+
+	$('nav > div > ul > li').on('click', function() {
+		var windowWidth = $(window).width();
+		if (windowWidth <= 1000) {
+			if ($(this).hasClass('active')) {
+				$(this).removeClass('active').find('ul').slideUp();
+			}
+			else {
+				$('nav > div > ul > li').removeClass('active').find('ul').slideUp();
+				$(this).addClass('active').find('ul').slideDown();
+			}
+		}
+    });
+    
+});
+
+</script>
+
+	<link rel="stylesheet" type="text/css" href="https://www.asx.com.au/css/flex.css">
+
+	
   
      
 
@@ -130,9 +174,9 @@ var  digitalData = {
 		"pageInfo": {
 		"pageID": "18628",
 		"pageName": "Privacy Policy",
-		"pageURL": "http://www.asx.com.au/about/privacy-statement.htm",
+		"pageURL": "https://www.asx.com.au/about/privacy-statement.htm",
 		"issueDate": "2016-06-30",
-		"updatedDate": "2018-01-05/15:18",
+		"updatedDate": "2018-10-09/10:39",
 		"brand": "ASX",
 		"generator":"OpenText",
 		"domain":"Website",
@@ -192,11 +236,23 @@ twttr.conversion.trackPid('l50yc');</script>
 
 <!--noindex-->
 <!-- parent node -->
-        <header>
-  <div class="top inner"> <a href="http://www.asx.com.au/index.htm" class="logo"><img src="http://www.asx.com.au/images/img-header-logo.png" alt="Australian Securities Exchange"></a>
-<a href="#content" class="skip_to_content">Skip to content</a>
-<div class="advertisement-leaderboard">
-        <!-- start leaderboard_728x90 include -->
+	<section class="wrapper full head">
+
+		<header>
+						<section class="logo" title="Australian Securities Exchange">
+				<a href="#content" class="skip_to_content">Skip to content</a>
+			</section>
+			<section class="info">
+				<div class="container status">
+					<div class="advertising">
+						<div class="adbox">
+                            <!-- /76291182/ASX_leaderboard_mob -->
+                            <div class="advertisement-leaderboard-m" id="div-gpt-ad-1508976327533-0" style="height:50px; width:320px;">
+                            <script>
+                            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1508976327533-0'); });
+                            </script>
+                            </div>						    
+						    <!-- start leaderboard_728x90 include -->
 <!-- /76291182/ASX_leaderboard -->
 <div class="advertisement advertisement-leaderboard" id="div-gpt-ad-1450161763430-0" style="height:90px; width:728px;">
 <script type="text/javascript">
@@ -205,29 +261,46 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-0');
 </div>
 
 
-    </div>
+						</div>
+					</div>
+                    <iframe class="myasx-status" src="https://myasx.asx.com.au/home/myAsxStatus.do" frameborder="0" style="border: none !important;" scrolling="no"></iframe>
+					
+					            <iframe frameborder="0" scrolling="no" id="market-status" name="market-status" src="https://www.asx.com.au/asx/widget/marketStatus.do" title="Market status" allowtransparency="true">
+					              [Your browser or user agent does not support frames or is currently configured not to display frames.
+					              However, you may visit <a href="/asx/widget/marketStatus.do">the related document</a>.]
+					            </iframe>
+							
 
- 
+				</div>
+				<div class="container search">
+					<div class="header-search">
+						<form action="https://search.asx.com.au/s/search.html" method="get" onsubmit="return validQuerySubmit('#query_global','#query_global_error');">
+							<span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+							<input name="query" id="query_global" type="text" placeholder="Price and site search..." class="ui-autocomplete-input" autocomplete="off">
+							<input name="collection" type="hidden" value="asx-meta">
+							<input name="profile" type="hidden" value="web">
+							<button type="submit" class="btn">Search</button>
+							<div id="query_global_error" class="query_error_message"></div>
+						</form>
+						<a href="/asx/markets/priceLookupInitial.do">Search for multiple prices</a>
+					</div>
+				</div>
+			</section>
+		</header>
+	</section>
+	<section class="wrapper full">
+		<nav id="nav" role="navigation">
+			<div class="hamburger hamburger--squeeze js-hamburger">
 
+				<div class="hamburger-box">
+					<div class="hamburger-inner"></div>
+				</div>
+			</div>
 
-      <div class="header-search">
-          <form action="http://search.asx.com.au/s/search.html" method="get" onsubmit="return validQuerySubmit('#query_global','#query_global_error');">
-            <input name="query" id="query_global" type="text" placeholder="Price and site search..."> 
-            <input name="collection" type="hidden" value="asx-meta"> 
-            <input name="profile" type="hidden" value="web">
-            <button type="submit" class="btn">Submit</button>
-            <div id="query_global_error" class="query_error_message"></div>
-          </form>      
-<a href="/asx/markets/priceLookupInitial.do">Search for multiple prices</a>
-      </div>
-<div class="user-access user-access-secondary"><iframe src="https://myasx.asx.com.au/home/myAsxStatus.do" style="border: none !important;" frameborder="0"></iframe></div>
-</div>
- 
-  <nav id="nav" role="navigation">
-    <div class="inner">
-        <ul>
-           <li class="home"><a href="/index.htm">Home</a> </li>
-           <li><div class="arrow-down"></div><a href="#">Prices and research</a>
+		    <div class="inner">
+		        <ul>
+		           <li class="home"><a href="/index.htm">Home</a> </li>
+		           <li><div class="arrow-down"></div><a href="#">Prices and research</a>
 <ul>
 <li><a href="/asx/markets/equityPrices.do">Prices</a></li>
 
@@ -245,15 +318,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-0');
 
  
 
- <li><a href="http://www.asx.com.au/prices/upcoming.htm">Upcoming floats</a></li>
+ <li><a href="https://www.asx.com.au/prices/daily_monthly_reports.htm">ASX 24 reports</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/prices/daily_monthly_reports.htm">ASX 24 reports</a></li>
-
- 
-
- <li><a href="http://www.asx.com.au/prices/asx-codes.htm">Codes and descriptors</a></li>
+ <li><a href="https://www.asx.com.au/prices/asx-codes.htm">Codes and descriptors</a></li>
 
  
 
@@ -261,18 +330,22 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-0');
 
  
 
- <li><a href="http://www.asx.com.au/prices/calculators.htm">Calculators</a></li>
+ <li><a href="https://www.asx.com.au/prices/calculators.htm">Calculators</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/prices/find-broker.htm">Find a broker</a></li>
+ <li><a href="https://www.asx.com.au/prices/upcoming.htm">Upcoming floats</a></li>
+
+ 
+
+ <li><a href="https://www.asx.com.au/prices/find-broker.htm">Find a broker</a></li>
 
  
 
  
  
 
- <li><a href="http://www.asx.com.au/prices/asx-research-scheme.htm">Broker Reports</a></li>
+ <li><a href="https://www.asx.com.au/prices/asx-research-scheme.htm">Broker Reports</a></li>
 
  
 
@@ -283,64 +356,64 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-0');
  
  <li><div class="arrow-down"></div><a href="#">Products</a>
 <ul>
-<li><a href="http://www.asx.com.au/products/shares.htm">Shares</a></li>
+<li><a href="https://www.asx.com.au/products/shares.htm">Shares</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/products/indices.htm">Indices</a></li>
+ <li><a href="https://www.asx.com.au/products/indices.htm">Indices</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/products/bonds.htm">Bonds</a></li>
+ <li><a href="https://www.asx.com.au/products/bonds.htm">Bonds</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/products/hybrid-securities.htm">Hybrid securities</a></li>
+ <li><a href="https://www.asx.com.au/products/hybrid-securities.htm">Hybrid securities</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/products/etf-and-other-etp.htm">ETFs and other ETPs</a></li>
+ <li><a href="https://www.asx.com.au/products/etf-and-other-etp.htm">ETFs and other ETPs</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/products/managed-funds.htm">Managed funds</a></li>
-
- 
-
- 
- 
-
- <li><a href="http://www.asx.com.au/products/warrants.htm">Warrants</a></li>
-
- 
-
- <li><a href="http://www.asx.com.au/products/equity-options.htm">Options</a></li>
-
- 
-
- <li><a href="http://www.asx.com.au/products/index-derivatives.htm">Index derivatives</a></li>
-
- 
-
- <li><a href="http://www.asx.com.au/products/interest-rate-derivatives.htm">Interest rate derivatives</a></li>
-
- 
-
- <li><a href="http://www.asx.com.au/products/grains-derivatives.htm">Grains derivatives</a></li>
-
- 
-
- <li><a href="http://www.asx.com.au/products/energy-derivatives.htm">Energy derivatives</a></li>
+ <li><a href="https://www.asx.com.au/products/managed-funds.htm">Managed funds</a></li>
 
  
 
  
  
 
+ <li><a href="https://www.asx.com.au/products/warrants.htm">Warrants</a></li>
+
+ 
+
+ <li><a href="https://www.asx.com.au/products/equity-options.htm">Options</a></li>
+
+ 
+
+ <li><a href="https://www.asx.com.au/products/index-derivatives.htm">Index derivatives</a></li>
+
+ 
+
+ <li><a href="https://www.asx.com.au/products/interest-rate-derivatives.htm">Interest rate derivatives</a></li>
+
+ 
+
+ <li><a href="https://www.asx.com.au/products/grains-derivatives.htm">Grains derivatives</a></li>
+
+ 
+
+ <li><a href="https://www.asx.com.au/products/energy-derivatives.htm">Energy derivatives</a></li>
+
+ 
+
  
  
 
- <li><a href="http://www.asx.com.au/products/market-maker-arrangements.htm">Market Making Arrangements</a></li>
+ 
+ 
+
+ <li><a href="https://www.asx.com.au/products/market-maker-arrangements.htm">Market Making Arrangements</a></li>
 
  
 
@@ -357,11 +430,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-0');
  
  <li><div class="arrow-down"></div><a href="#">Services</a>
 <ul>
-<li><a href="http://www.asx.com.au/services/become-a-participant.htm">Become a Participant</a></li>
+<li><a href="https://www.asx.com.au/services/become-a-participant.htm">Become a Participant</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/services/issuing-products.htm">Issuing investment products</a></li>
+ <li><a href="https://www.asx.com.au/services/issuing-products.htm">Issuing investment products</a></li>
 
  
 
@@ -369,35 +442,35 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-0');
 
  
 
- <li><a href="http://www.asx.com.au/services/trading-services.htm">Trading services</a></li>
+ <li><a href="https://www.asx.com.au/services/trading-services.htm">Trading services</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/services/technical-services.htm">Technical services</a></li>
+ <li><a href="https://www.asx.com.au/services/technical-services.htm">Technical services</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/services/information-services.htm">Information services</a></li>
+ <li><a href="https://www.asx.com.au/services/information-services.htm">Information services</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/services/clearing.htm">Clearing</a></li>
+ <li><a href="https://www.asx.com.au/services/clearing.htm">Clearing</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/services/clearing-risk-management.htm">Clearing Risk Management</a></li>
+ <li><a href="https://www.asx.com.au/services/clearing-risk-management.htm">Clearing Risk Management</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/services/otc-clearing.htm">OTC Clearing</a></li>
+ <li><a href="https://www.asx.com.au/services/otc-clearing.htm">OTC Clearing</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/services/settlement.htm">Settlement</a></li>
+ <li><a href="https://www.asx.com.au/services/settlement.htm">Settlement</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/services/asx-collateral.htm">ASX Collateral </a></li>
+ <li><a href="https://www.asx.com.au/services/asx-collateral.htm">ASX Collateral </a></li>
 
  
 
@@ -408,18 +481,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-0');
  
  
 
- <li><a href="http://www.asx.com.au/services/chess-replacement.htm">CHESS Replacement</a></li>
+ <li><a href="https://www.asx.com.au/services/chess-replacement.htm">CHESS Replacement</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/services/t2.htm">T+2 Settlement</a></li>
-
- 
-
- 
- 
-
- <li><a href="http://www.asx.com.au/services/benchmark.htm">Benchmark Administration</a></li>
+ <li><a href="https://www.asx.com.au/services/benchmark.htm">Benchmark Administration</a></li>
 
  
 
@@ -439,21 +505,21 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-0');
  
  <li><div class="arrow-down"></div><a href="#">Listings</a>
 <ul>
-<li><a href="http://www.asx.com.au/listings/index.htm">Listing with ASX</a></li>
+<li><a href="https://www.asx.com.au/listings/index.htm">Listing with ASX</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/listings/debt-listing.htm">Debt securities</a></li>
+ <li><a href="https://www.asx.com.au/listings/debt-listing.htm">Debt securities</a></li>
 
- 
-
- 
  
 
  
  
 
- <li><a href="http://www.asx.com.au/listings/issuer-services.htm">Issuer Services</a></li>
+ 
+ 
+
+ <li><a href="https://www.asx.com.au/listings/issuer-services.htm">Issuer Services</a></li>
 
  
 
@@ -467,57 +533,57 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-0');
  
  <li><div class="arrow-down"></div><a href="#">Education</a>
 <ul>
-<li><a href="http://www.asx.com.au/education/shares-education.htm">Education centre</a></li>
+<li><a href="https://www.asx.com.au/education/shares-education.htm">Education centre</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/education/sharemarket-game.htm">Sharemarket Game</a></li>
-
- 
-
- 
- 
-
- <li><a href="http://www.asx.com.au/education/online-courses.htm">Online Courses</a></li>
-
- 
-
- <li><a href="http://www.asx.com.au/education/investment-and-finance-newsletter.htm">Investment and finance newsletter</a></li>
-
- 
-
- <li><a href="http://www.asx.com.au/education/finance-seminars-and-webinars.htm">Finance seminars and webinars</a></li>
-
- 
-
- <li><a href="http://www.asx.com.au/education/research-and-surveys.htm">Research and surveys</a></li>
-
- 
-
- <li><a href="http://www.asx.com.au/education/glossary.htm">Glossary</a></li>
-
- 
-
- <li><a href="http://www.asx.com.au/education/myasx.htm">MyASX</a></li>
+ <li><a href="https://www.asx.com.au/education/sharemarket-game.htm">Sharemarket Game</a></li>
 
  
 
  
  
 
- <li><a href="http://www.asx.com.au/education/download-brochures.htm">Download brochures</a></li>
+ <li><a href="https://www.asx.com.au/education/online-courses.htm">Online Courses</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/education/myasx-watchlists.htm">Watchlists</a></li>
+ <li><a href="https://www.asx.com.au/education/investment-and-finance-newsletter.htm">Investment and finance newsletter</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/education/investment-videos-2018.htm">Investment videos</a></li>
+ <li><a href="https://www.asx.com.au/education/finance-seminars-and-webinars.htm">Finance seminars and webinars</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/education/first-time-investors.htm">First-time investors</a></li>
+ <li><a href="https://www.asx.com.au/education/research-and-surveys.htm">Research and surveys</a></li>
+
+ 
+
+ <li><a href="https://www.asx.com.au/education/glossary.htm">Glossary</a></li>
+
+ 
+
+ <li><a href="https://www.asx.com.au/education/myasx.htm">MyASX</a></li>
+
+ 
+
+ 
+ 
+
+ <li><a href="https://www.asx.com.au/education/download-brochures.htm">Download brochures</a></li>
+
+ 
+
+ <li><a href="https://www.asx.com.au/education/myasx-watchlists.htm">Watchlists</a></li>
+
+ 
+
+ <li><a href="https://www.asx.com.au/education/investment-videos-2018.htm">Investment videos</a></li>
+
+ 
+
+ <li><a href="https://www.asx.com.au/education/first-time-investors.htm">First-time investors</a></li>
 
  
 
@@ -530,35 +596,32 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-0');
              <div class="arrow-down"></div>
               <a href="#">About ASX</a> 
                     <ul> 
-                        <li><a href="http://www.asx.com.au/about/corporate-overview.htm">Corporate overview</a></li>
+                        <li><a href="https://www.asx.com.au/about/corporate-overview.htm">Corporate overview</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/about/asx-news.htm">ASX news</a></li>
+ <li><a href="https://www.asx.com.au/about/asx-news.htm">ASX news</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/about/investor-relations.htm">Investor relations</a></li>
+ <li><a href="https://www.asx.com.au/about/investor-relations.htm">Investor relations</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/about/careers-at-asx.htm">Careers at ASX</a></li>
+ <li><a href="https://www.asx.com.au/about/careers-at-asx.htm">Careers at ASX</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/about/market-information.htm">Market information</a></li>
+ <li><a href="https://www.asx.com.au/about/market-information.htm">Market information</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/about/market-statistics.htm">Market statistics</a></li>
+ <li><a href="https://www.asx.com.au/about/market-statistics.htm">Market statistics</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/about/advertise-with-asx.htm">Advertise with ASX</a></li>
+ <li><a href="https://www.asx.com.au/about/advertise-with-asx.htm">Advertise with ASX</a></li>
 
- 
-
- 
  
 
  
@@ -569,6 +632,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-0');
 
  
  
+
+ 
+ 
  
 
  
@@ -577,7 +643,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-0');
  
  
 
- <li><a href="http://www.asx.com.au/about/system_status.htm">ASX System Status</a></li>
+ 
+ 
+
+ <li><a href="https://www.asx.com.au/about/system-status.htm">ASX System Status</a></li>
 
  
 
@@ -598,35 +667,32 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-0');
                     </ul> 
                     
 <ul>
-<li><a href="http://www.asx.com.au/about/corporate-overview.htm">Corporate overview</a></li>
+<li><a href="https://www.asx.com.au/about/corporate-overview.htm">Corporate overview</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/about/asx-news.htm">ASX news</a></li>
+ <li><a href="https://www.asx.com.au/about/asx-news.htm">ASX news</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/about/investor-relations.htm">Investor relations</a></li>
+ <li><a href="https://www.asx.com.au/about/investor-relations.htm">Investor relations</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/about/careers-at-asx.htm">Careers at ASX</a></li>
+ <li><a href="https://www.asx.com.au/about/careers-at-asx.htm">Careers at ASX</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/about/market-information.htm">Market information</a></li>
+ <li><a href="https://www.asx.com.au/about/market-information.htm">Market information</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/about/market-statistics.htm">Market statistics</a></li>
+ <li><a href="https://www.asx.com.au/about/market-statistics.htm">Market statistics</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/about/advertise-with-asx.htm">Advertise with ASX</a></li>
+ <li><a href="https://www.asx.com.au/about/advertise-with-asx.htm">Advertise with ASX</a></li>
 
- 
-
- 
  
 
  
@@ -637,6 +703,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-0');
 
  
  
+
+ 
+ 
  
 
  
@@ -645,7 +714,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-0');
  
  
 
- <li><a href="http://www.asx.com.au/about/system_status.htm">ASX System Status</a></li>
+ 
+ 
+
+ <li><a href="https://www.asx.com.au/about/system-status.htm">ASX System Status</a></li>
 
  
 
@@ -708,23 +780,23 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-0');
  
  <li><div class="arrow-down"></div><a href="#">Regulation</a>
 <ul>
-<li><a href="http://www.asx.com.au/regulation/rules-guidance-notes-and-waivers.htm">Rules, guidance notes and waivers</a></li>
+<li><a href="https://www.asx.com.au/regulation/rules-guidance-notes-and-waivers.htm">Rules, guidance notes and waivers</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/regulation/asx-compliance.htm">ASX Compliance</a></li>
+ <li><a href="https://www.asx.com.au/regulation/asx-compliance.htm">ASX Compliance</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/regulation/asx-regulatory-compliance.htm">ASX regulatory compliance</a></li>
+ <li><a href="https://www.asx.com.au/regulation/asx-regulatory-compliance.htm">ASX regulatory compliance</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/regulation/public-consultations.htm">Public consultations</a></li>
+ <li><a href="https://www.asx.com.au/regulation/public-consultations.htm">Public consultations</a></li>
 
  
 
- <li><a href="http://www.asx.com.au/regulation/corporate-governance-council.htm">Corporate Governance Council</a></li>
+ <li><a href="https://www.asx.com.au/regulation/corporate-governance-council.htm">Corporate Governance Council</a></li>
 
  
 
@@ -734,14 +806,83 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-0');
 
  
  
-       
-        </ul>
-    </div>
-  </nav>
-<div class="bottom inner">
-<!-- start breadcrumbs -->  
-   <div class="breadcrumbs"> 
-     
+ 
+ 
+		        </ul>
+		    </div>
+
+
+
+
+
+
+
+  		</nav>
+
+    	<div class="module social-share">
+        	<a class="btn_ma"></a>
+        	<div class="btn_li"></div>
+        	<div class="btn_go"></div>
+        	<div class="btn_tw"></div>
+        	<div class="btn_fb"></div>
+<script>
+    $(".btn_fb").click(function() {
+       var s=s_gi(s_account); s.linkTrackVars='eVar28,events'; s.linkTrackEvents='event28'; s.eVar28='facebook'; s.events='event28'; s.tl(this,'o','social link');
+        window.open("http://www.facebook.com/sharer.php?u="+document.URL+"&amp;t=Privacy Policy", "Facebook", "width=660,height=400,scrollbars=no;resizable=no");
+    try { 
+    _gaq.push(['_trackEvent', 'Social', 'Facebook', "Privacy Policy"]); 
+    } catch(err){}
+        return false;
+    });    
+    $(".btn_tw").click(function() {
+       var s=s_gi(s_account); s.linkTrackVars='eVar28,events'; s.linkTrackEvents='event28'; s.eVar28='twitter'; s.events='event28'; s.tl(this,'o','social link');
+        window.open("https://twitter.com/home?status=Privacy Policy "+document.URL+"", "Twitter", "width=660,height=400,scrollbars=no;resizable=no");
+    try { 
+    _gaq.push(['_trackEvent', 'Social', 'Twitter', "Privacy Policy"]); 
+    } catch(err){}        
+    return false;
+    });    
+    $(".btn_li").click(function() {
+        var s=s_gi(s_account); s.linkTrackVars='eVar28,events'; s.linkTrackEvents='event28'; s.eVar28='linkedin'; s.events='event28'; s.tl(this,'o','social link');
+     var articleUrl = encodeURIComponent(document.URL);
+     var articleTitle = encodeURIComponent("Privacy Policy");
+     var articleSummary = encodeURIComponent("Privacy Policy");    
+     var goto = 'https://www.linkedin.com/shareArticle?mini=true'+
+         '&url='+articleUrl+
+         '&title='+articleTitle+
+         '&summary='+articleSummary;
+        window.open(goto, "LinkedIn", "width=660,height=400,scrollbars=no;resizable=no");
+    try { 
+     _gaq.push(['_trackEvent', 'Social', 'LinkedIn', "Privacy Policy"]); 
+     } catch(err){}        
+    return false;
+    }); 
+    $('.btn_go').click(function() {
+       var s=s_gi(s_account); s.linkTrackVars='eVar28,events'; s.linkTrackEvents='event28'; s.eVar28='googleplus'; s.events='event28'; s.tl(this,'o','social link');
+        window.open("https://plus.google.com/share?url="+document.URL, 'GooglePlus', 'width=660,height=500,scrollbars=no,resizable=no');
+    try { 
+    _gaq.push(['_trackEvent', 'Social', 'GooglePlus', "Privacy Policy"]); 
+    } catch(err){}        
+    return false;
+    });     
+$(".btn_ma").click(function() {
+       var s=s_gi(s_account); s.linkTrackVars='eVar28,events'; s.linkTrackEvents='event28'; s.eVar28='email'; s.events='event28'; s.tl(this,'o','social link');
+    window.location = "mailto:?subject=Privacy Policy&body=Hi%0D%0A%0D%0AI thought you may be interested in this: Privacy Policy " + window.location
+    try { 
+    _gaq.push(['_trackEvent', 'Social', 'Email a friend', "Privacy Policy"]); 
+    } catch(err){}
+    return false;
+});    
+</script>
+
+		</div>
+
+	</section>
+
+	<section class="wrapper">
+		<article>
+			<div class="breadcrumbs">
+			     
  
  
  
@@ -797,149 +938,38 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-0');
  
  
  
-   </div> 
-<!-- end breadcrumbs -->    
-    <div class="module social-share">
-        <a class="btn_ma"></a>
-        <div class="btn_li"></div>
-        <div class="btn_go"></div>
-        <div class="btn_tw"></div>
-        <div class="btn_fb"></div>
-    <script>
-    $(".btn_fb").click(function() {
-       var s=s_gi(s_account); s.linkTrackVars='eVar28,events'; s.linkTrackEvents='event28'; s.eVar28='facebook'; s.events='event28'; s.tl(this,'o','social link');
-        window.open("http://www.facebook.com/sharer.php?u="+document.URL+"&amp;t=Privacy Policy", "Facebook", "width=660,height=400,scrollbars=no;resizable=no");
-    try { 
-    _gaq.push(['_trackEvent', 'Social', 'Facebook', "Privacy Policy"]); 
-    } catch(err){}
-        return false;
-    });    
-    $(".btn_tw").click(function() {
-       var s=s_gi(s_account); s.linkTrackVars='eVar28,events'; s.linkTrackEvents='event28'; s.eVar28='twitter'; s.events='event28'; s.tl(this,'o','social link');
-        window.open("http://twitter.com/home?status=Privacy Policy "+document.URL+"", "Twitter", "width=660,height=400,scrollbars=no;resizable=no");
-    try { 
-    _gaq.push(['_trackEvent', 'Social', 'Twitter', "Privacy Policy"]); 
-    } catch(err){}        
-    return false;
-    });    
-    $(".btn_li").click(function() {
-        var s=s_gi(s_account); s.linkTrackVars='eVar28,events'; s.linkTrackEvents='event28'; s.eVar28='linkedin'; s.events='event28'; s.tl(this,'o','social link');
-     var articleUrl = encodeURIComponent(document.URL);
-     var articleTitle = encodeURIComponent("Privacy Policy");
-     var articleSummary = encodeURIComponent("Privacy Policy");    
-     var goto = 'http://www.linkedin.com/shareArticle?mini=true'+
-         '&url='+articleUrl+
-         '&title='+articleTitle+
-         '&summary='+articleSummary;
-        window.open(goto, "LinkedIn", "width=660,height=400,scrollbars=no;resizable=no");
-    try { 
-     _gaq.push(['_trackEvent', 'Social', 'LinkedIn', "Privacy Policy"]); 
-     } catch(err){}        
-    return false;
-    }); 
-    $('.btn_go').click(function() {
-       var s=s_gi(s_account); s.linkTrackVars='eVar28,events'; s.linkTrackEvents='event28'; s.eVar28='googleplus'; s.events='event28'; s.tl(this,'o','social link');
-        window.open("http://plus.google.com/share?url="+document.URL, 'GooglePlus', 'width=660,height=500,scrollbars=no,resizable=no');
-    try { 
-    _gaq.push(['_trackEvent', 'Social', 'GooglePlus', "Privacy Policy"]); 
-    } catch(err){}        
-    return false;
-    });     
-$(".btn_ma").click(function() {
-       var s=s_gi(s_account); s.linkTrackVars='eVar28,events'; s.linkTrackEvents='event28'; s.eVar28='email'; s.events='event28'; s.tl(this,'o','social link');
-    window.location = "mailto:?subject=Privacy Policy&body=Hi%0D%0A%0D%0AI thought you may be interested in this: Privacy Policy " + window.location
-    try { 
-    _gaq.push(['_trackEvent', 'Social', 'Email a friend', "Privacy Policy"]); 
-    } catch(err){}
-    return false;
-});    
-</script>
-    </div>
-</div>
-</header>
+ 
+			</div>
 
-<div id="page" class="internal"> 
-<!-- start LH nav -->
-<nav class="submenu">
-      
- 
- 
- 
- 
- <h2>About ASX</h2> 
-                    <ul> 
-                        <li><a href="http://www.asx.com.au/about/corporate-overview.htm">Corporate overview</a></li>
 
- 
- <li><a href="http://www.asx.com.au/about/asx-news.htm">ASX news</a></li>
 
- 
- <li><a href="http://www.asx.com.au/about/investor-relations.htm">Investor relations</a></li>
 
- 
- <li><a href="http://www.asx.com.au/about/careers-at-asx.htm">Careers at ASX</a></li>
 
- 
- <li><a href="http://www.asx.com.au/about/market-information.htm">Market information</a></li>
+			<div class="page" id="content">
 
- 
- <li><a href="http://www.asx.com.au/about/market-statistics.htm">Market statistics</a></li>
 
- 
- <li><a href="http://www.asx.com.au/about/advertise-with-asx.htm">Advertise with ASX</a></li>
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- <li><a href="http://www.asx.com.au/about/system_status.htm">ASX System Status</a></li>
 
- 
- 
- 
- 
- 
- 
- 
- <li><a href="/contact/">Contact ASX</a></li>
 
- 
-  
-                    </ul> 
-                    
- 
- 
- 
- 
- 
- 
- 
- 
- 
-       
-</nav>
-  
-<!--endnoindex-->  
-  <!-- START PRIMARY -->
-  <div class="primary">
- 
-             <div class="page" id="content">
-                       
-                        
-                
+
+
+
+
+
+
+
+
+
+				<div class="primary">
+
                 <!-- start content -->
-                      
-                        
+
+
+				
+
+
+
+
 
 
 
@@ -1011,7 +1041,7 @@ $(".btn_ma").click(function() {
     
 
 <div class="faq_divider">
-    <a href="#top"><img title="Top of FAQ" src="http://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
+    <a href="#top"><img title="Top of FAQ" src="https://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
 </div>
 <h3><a class="anchorGlyph" name="8460"></a>How does ASX collect Personal Information?</h3>
 <br>
@@ -1037,7 +1067,7 @@ $(".btn_ma").click(function() {
 <p><strong>Please note</strong>:&nbsp;<em>Personal information is collected by ASX to facilitate the effective provision of a service or product. Failure to provide this information to ASX is likely to prevent ASX from being able to effectively process and respond to you.</em></p>
 
 <div class="faq_divider">
-    <a href="#top"><img title="Top of FAQ" src="http://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
+    <a href="#top"><img title="Top of FAQ" src="https://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
 </div>
 <h3><a class="anchorGlyph" name="8473"></a>How does ASX use and disclose Personal Information?</h3>
 <br>
@@ -1063,7 +1093,7 @@ $(".btn_ma").click(function() {
 <p>Contracts we enter into with other parties for the provision of services may require us to disclose your Personal Information to them. In those cases, our contracts require other parties providing services to us to observe the terms of this Privacy Policy.</p>
 
 <div class="faq_divider">
-    <a href="#top"><img title="Top of FAQ" src="http://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
+    <a href="#top"><img title="Top of FAQ" src="https://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
 </div>
 <h3><a class="anchorGlyph" name="13490"></a>Does ASX transfer Personal Information overseas?</h3>
 <br>
@@ -1072,7 +1102,7 @@ $(".btn_ma").click(function() {
 
 
 <div class="faq_divider">
-    <a href="#top"><img title="Top of FAQ" src="http://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
+    <a href="#top"><img title="Top of FAQ" src="https://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
 </div>
 <h3><a class="anchorGlyph" name="8474"></a>Does ASX collect sensitive information and use of Government Identifiers?</h3>
 <br>
@@ -1083,7 +1113,7 @@ $(".btn_ma").click(function() {
     
 
 <div class="faq_divider">
-    <a href="#top"><img title="Top of FAQ" src="http://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
+    <a href="#top"><img title="Top of FAQ" src="https://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
 </div>
 <h3><a class="anchorGlyph" name="8475"></a>How does ASX manage Personal Information?</h3>
 <br>
@@ -1094,7 +1124,7 @@ $(".btn_ma").click(function() {
     
 
 <div class="faq_divider">
-    <a href="#top"><img title="Top of FAQ" src="http://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
+    <a href="#top"><img title="Top of FAQ" src="https://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
 </div>
 <h3><a class="anchorGlyph" name="8476"></a>How to access your Personal Information?</h3>
 <br>
@@ -1104,7 +1134,7 @@ $(".btn_ma").click(function() {
     
 
 <div class="faq_divider">
-    <a href="#top"><img title="Top of FAQ" src="http://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
+    <a href="#top"><img title="Top of FAQ" src="https://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
 </div>
 <h3><a class="anchorGlyph" name="8477"></a>Web site collection and Direct Marketing</h3>
 <br>
@@ -1124,7 +1154,7 @@ $(".btn_ma").click(function() {
 <p>We may also from time to time email you about an event or new feature/service that we think might be of interest. If you do not wish to receive such emails, all you have to do is unsubscribe or opt-out.</p>
 
 <div class="faq_divider">
-    <a href="#top"><img title="Top of FAQ" src="http://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
+    <a href="#top"><img title="Top of FAQ" src="https://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
 </div>
 <h3><a class="anchorGlyph" name="13492"></a>Notification of Collection of Personal Information</h3>
 <br>
@@ -1134,7 +1164,7 @@ $(".btn_ma").click(function() {
 <p>“<em>This information is collected by ASX to facilitate the provision of a product or service. Failure to provide this information to ASX is likely to prevent ASX from being able to offer you the product or service. Should you wish to, you can access the information you provide to ASX by contacting the ASX. ASX may from time to time use external service providers but will not disclose personal information you provide to any other organisations or individuals, unless required or authorised by law to do so or unless you consent to the disclosure. ASX does not generally provide personal information to overseas parties but does use international service providers for technological solutions. If you would like to contact us or lodge a complaint please refer to the ASX's Privacy&nbsp;Policy for further details.</em>”</p>
 
 <div class="faq_divider">
-    <a href="#top"><img title="Top of FAQ" src="http://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
+    <a href="#top"><img title="Top of FAQ" src="https://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
 </div>
 <h3><a class="anchorGlyph" name="20782"></a>Avoiding Phishing and Scams</h3>
 <br>
@@ -1147,7 +1177,7 @@ If you receive a communication from someone who claims to be from ASX and who as
 You can report any non-ASX related scam activity to SCAMwatch (a scam reporting website run by the Australian Competition and Consumer Commission) at <a href="http://www.scamwatch.gov.au/">http://www.scamwatch.gov.au/</a>.</p>
 
 <div class="faq_divider">
-    <a href="#top"><img title="Top of FAQ" src="http://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
+    <a href="#top"><img title="Top of FAQ" src="https://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
 </div>
 <h3><a class="anchorGlyph" name="8478"></a>Links to other Sites</h3>
 <br>
@@ -1157,7 +1187,7 @@ You can report any non-ASX related scam activity to SCAMwatch (a scam reporting 
     
 
 <div class="faq_divider">
-    <a href="#top"><img title="Top of FAQ" src="http://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
+    <a href="#top"><img title="Top of FAQ" src="https://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
 </div>
 <h3><a class="anchorGlyph" name="8479"></a>Contact Us</h3>
 <br>
@@ -1176,7 +1206,7 @@ You can report any non-ASX related scam activity to SCAMwatch (a scam reporting 
     
 
 <div class="faq_divider">
-    <a href="#top"><img title="Top of FAQ" src="http://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
+    <a href="#top"><img title="Top of FAQ" src="https://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
 </div>
 <h3><a class="anchorGlyph" name="8480"></a>Updates to this Privacy Statement</h3>
 <br>
@@ -1187,13 +1217,24 @@ You can report any non-ASX related scam activity to SCAMwatch (a scam reporting 
 
 
 <div class="faq_divider">
-    <a href="#top"><img title="Top of FAQ" src="http://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
+    <a href="#top"><img title="Top of FAQ" src="https://www.asx.com.au/images/toppage_faq.gif" alt="top of faq"></a>
 </div>
 
                 <!-- end content -->
-                        
-                    </div>
-                        <!-- start sponsored links include -->
+
+
+
+
+
+
+
+	            </div>
+            </div>
+
+
+			<div class="advertising">
+				<div class="adbox">
+<!-- start sponsored links include -->
 
 <div class="multilink">
            
@@ -1207,12 +1248,21 @@ You can report any non-ASX related scam activity to SCAMwatch (a scam reporting 
 </div>
 <!-- end sponsored links include -->
  
-                       <!-- start south mrec -->                         
-                       <div class="advertisement-m-rec advertisement advertisement-l-rec"><span> 
- <!-- start lower_medium_rectangle_300x600_300x250_300x125 include ---> 
+
+                       <!-- start south mrec -->
+                       <div class="advertisement-m-rec advertisement advertisement-l-rec">
+                           
+                        <!-- /76291182/ASX_MREC_mob -->
+                        <div class="advertisement-leaderboard-m" id="div-gpt-ad-1512516996176-1" style="height:250px; width:300px;">
+                        <script>
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1512516996176-1'); });
+                        </script>
+                        </div>
+                           <span>
+ <!-- start lower_medium_rectangle_300x600_300x250_300x125 include --->
 
 <!-- /76291182/ASX_MREC_lower_no_cat -->
-<div id="div-gpt-ad-1450161763430-2" style="height:250px; width:300px;">
+<div class="advertisement-leaderboard" id="div-gpt-ad-1450161763430-2" style="height:250px; width:300px;">
 <script type="text/javascript">
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-2'); });
 </script>
@@ -1220,21 +1270,130 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-2');
 
 <!-- end lower_medium_rectangle_300x250 include -->
 
- 
+
+
                         </span></div>
                       <!-- end south mrec -->
-                  
-</div>
-                     <!-- END PRIMARY -->
 
-<!--noindex-->
+				</div>
+
+			</div>
+		</article>
+		<aside class="left">
+				
+ 
+ 
+ 
+ 
+ <h2>About ASX</h2> 
+                    <ul> 
+                        <li><a href="https://www.asx.com.au/about/corporate-overview.htm">Corporate overview</a></li>
+
+ 
+ <li><a href="https://www.asx.com.au/about/asx-news.htm">ASX news</a></li>
+
+ 
+ <li><a href="https://www.asx.com.au/about/investor-relations.htm">Investor relations</a></li>
+
+ 
+ <li><a href="https://www.asx.com.au/about/careers-at-asx.htm">Careers at ASX</a></li>
+
+ 
+ <li><a href="https://www.asx.com.au/about/market-information.htm">Market information</a></li>
+
+ 
+ <li><a href="https://www.asx.com.au/about/market-statistics.htm">Market statistics</a></li>
+
+ 
+ <li><a href="https://www.asx.com.au/about/advertise-with-asx.htm">Advertise with ASX</a></li>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <li><a href="https://www.asx.com.au/about/system-status.htm">ASX System Status</a></li>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <li><a href="/contact/">Contact ASX</a></li>
+
+ 
+  
+                    </ul> 
+                    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		</aside>
 
 
-           <!-- Top Secondary Module -->
-            <div class="secondary">
-                 
-<iframe class="myasx-status" src="https://myasx.asx.com.au/home/myAsxStatus.do" style="border: none !important;" frameborder="0"></iframe>
-    <div class="advertisement-m-rec"><span>Advertisement</span><!-- start medium_rectangle_300x600_300x250_300x125 include --> 
+
+
+
+
+
+
+
+
+
+
+
+		<aside class="right">
+			<section class="primary">
+<iframe class="myasx-status" src="https://myasx.asx.com.au/home/myAsxStatus.do" frameborder="0" style="border: none !important;" scrolling="no"></iframe>
+			</section>
+
+			<section class="secondary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<div class="advertising">
+
+
+
+
+
+
+
+					<div class="adbox">
+
+<div class="advertisement-m-rec"><span>Advertisement</span><!-- start medium_rectangle_300x600_300x250_300x125 include --> 
 
 <!-- /76291182/ASX_MREC -->
 <div class="advertisement advertisement-mrec" id="div-gpt-ad-1450161763430-1">
@@ -1246,44 +1405,52 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-1');
 <!-- end medium_rectangle_300x250 include -->
 
  </div>
- </div>
-  
-  <div class="secondary">
-    <div class="row"> 
-     <!-- START QUICK LINKS --> 
-        
-      <!-- END QUICK LINKS -->
-      
-     <!-- START RELATED INFORMATION --> 
-        
-      <!-- END RELATED INFORMATION -->
-     <!-- START CONTACT --> 
-        
-     <!-- END CONTACT -->  
+					</div>
 
-    </div>
-  </div>
-     
 
-</div>  
-<footer>
-<div class="m-footer">
-  <div class="footer-header"></div>
-  <div class="inner">
-   <div class="col"><h4>Prices and research<span class="arrow-down"></span></h4>
+
+
+				</div>
+
+<!-- START QUICK LINKS -->
+
+<!-- END QUICK LINKS -->
+
+<!-- START RELATED INFORMATION -->
+
+<!-- END RELATED INFORMATION -->
+
+<!-- START CONTACT -->
+
+<!-- END CONTACT -->
+
+			</section>
+
+		</aside>
+
+			
+
+	</section>
+
+	<section class="wrapper full">
+		<footer>
+			<div class="outer">
+			    <div class="footer-header"></div>
+				<div class="inner">
+					<div class="col"><h4>Prices and research<span class="arrow-down"></span></h4>
              <ul> 
                  <li><a href="/asx/markets/equityPrices.do">Prices</a></li>
  <li><a href="/prices/company-information.htm">Company information</a></li>
  <li><a href="/asx/statistics/announcements.do">Announcements</a></li>
  <li><a href="/asx/markets/dividends.do">Dividends</a></li>
- <li><a href="http://www.asx.com.au/prices/upcoming.htm">Upcoming floats</a></li>
- <li><a href="http://www.asx.com.au/prices/daily_monthly_reports.htm">ASX 24 reports</a></li>
- <li><a href="http://www.asx.com.au/prices/asx-codes.htm">Codes and descriptors</a></li>
+ <li><a href="https://www.asx.com.au/prices/daily_monthly_reports.htm">ASX 24 reports</a></li>
+ <li><a href="https://www.asx.com.au/prices/asx-codes.htm">Codes and descriptors</a></li>
  <li><a href="http://www.asx.com.au/prices/charting/">Charting</a></li>
- <li><a href="http://www.asx.com.au/prices/calculators.htm">Calculators</a></li>
- <li><a href="http://www.asx.com.au/prices/find-broker.htm">Find a broker</a></li>
+ <li><a href="https://www.asx.com.au/prices/calculators.htm">Calculators</a></li>
+ <li><a href="https://www.asx.com.au/prices/upcoming.htm">Upcoming floats</a></li>
+ <li><a href="https://www.asx.com.au/prices/find-broker.htm">Find a broker</a></li>
  
- <li><a href="http://www.asx.com.au/prices/asx-research-scheme.htm">Broker Reports</a></li>
+ <li><a href="https://www.asx.com.au/prices/asx-research-scheme.htm">Broker Reports</a></li>
   
              </ul>
             </div> 
@@ -1291,22 +1458,22 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-1');
  
  <div class="col"><h4>Products<span class="arrow-down"></span></h4>
              <ul> 
-                 <li><a href="http://www.asx.com.au/products/shares.htm">Shares</a></li>
- <li><a href="http://www.asx.com.au/products/indices.htm">Indices</a></li>
- <li><a href="http://www.asx.com.au/products/bonds.htm">Bonds</a></li>
- <li><a href="http://www.asx.com.au/products/hybrid-securities.htm">Hybrid securities</a></li>
- <li><a href="http://www.asx.com.au/products/etf-and-other-etp.htm">ETFs and other ETPs</a></li>
- <li><a href="http://www.asx.com.au/products/managed-funds.htm">Managed funds</a></li>
+                 <li><a href="https://www.asx.com.au/products/shares.htm">Shares</a></li>
+ <li><a href="https://www.asx.com.au/products/indices.htm">Indices</a></li>
+ <li><a href="https://www.asx.com.au/products/bonds.htm">Bonds</a></li>
+ <li><a href="https://www.asx.com.au/products/hybrid-securities.htm">Hybrid securities</a></li>
+ <li><a href="https://www.asx.com.au/products/etf-and-other-etp.htm">ETFs and other ETPs</a></li>
+ <li><a href="https://www.asx.com.au/products/managed-funds.htm">Managed funds</a></li>
  
- <li><a href="http://www.asx.com.au/products/warrants.htm">Warrants</a></li>
- <li><a href="http://www.asx.com.au/products/equity-options.htm">Options</a></li>
- <li><a href="http://www.asx.com.au/products/index-derivatives.htm">Index derivatives</a></li>
- <li><a href="http://www.asx.com.au/products/interest-rate-derivatives.htm">Interest rate derivatives</a></li>
- <li><a href="http://www.asx.com.au/products/grains-derivatives.htm">Grains derivatives</a></li>
- <li><a href="http://www.asx.com.au/products/energy-derivatives.htm">Energy derivatives</a></li>
+ <li><a href="https://www.asx.com.au/products/warrants.htm">Warrants</a></li>
+ <li><a href="https://www.asx.com.au/products/equity-options.htm">Options</a></li>
+ <li><a href="https://www.asx.com.au/products/index-derivatives.htm">Index derivatives</a></li>
+ <li><a href="https://www.asx.com.au/products/interest-rate-derivatives.htm">Interest rate derivatives</a></li>
+ <li><a href="https://www.asx.com.au/products/grains-derivatives.htm">Grains derivatives</a></li>
+ <li><a href="https://www.asx.com.au/products/energy-derivatives.htm">Energy derivatives</a></li>
  
  
- <li><a href="http://www.asx.com.au/products/market-maker-arrangements.htm">Market Making Arrangements</a></li>
+ <li><a href="https://www.asx.com.au/products/market-maker-arrangements.htm">Market Making Arrangements</a></li>
  
  
   
@@ -1316,23 +1483,21 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-1');
  
  <div class="col"><h4>Services<span class="arrow-down"></span></h4>
              <ul> 
-                 <li><a href="http://www.asx.com.au/services/become-a-participant.htm">Become a Participant</a></li>
- <li><a href="http://www.asx.com.au/services/issuing-products.htm">Issuing investment products</a></li>
+                 <li><a href="https://www.asx.com.au/services/become-a-participant.htm">Become a Participant</a></li>
+ <li><a href="https://www.asx.com.au/services/issuing-products.htm">Issuing investment products</a></li>
  <li><a href="/mfund/index.htm" target="_blank">mFund Settlement Service</a></li>
- <li><a href="http://www.asx.com.au/services/trading-services.htm">Trading services</a></li>
- <li><a href="http://www.asx.com.au/services/technical-services.htm">Technical services</a></li>
- <li><a href="http://www.asx.com.au/services/information-services.htm">Information services</a></li>
- <li><a href="http://www.asx.com.au/services/clearing.htm">Clearing</a></li>
- <li><a href="http://www.asx.com.au/services/clearing-risk-management.htm">Clearing Risk Management</a></li>
- <li><a href="http://www.asx.com.au/services/otc-clearing.htm">OTC Clearing</a></li>
- <li><a href="http://www.asx.com.au/services/settlement.htm">Settlement</a></li>
- <li><a href="http://www.asx.com.au/services/asx-collateral.htm">ASX Collateral </a></li>
+ <li><a href="https://www.asx.com.au/services/trading-services.htm">Trading services</a></li>
+ <li><a href="https://www.asx.com.au/services/technical-services.htm">Technical services</a></li>
+ <li><a href="https://www.asx.com.au/services/information-services.htm">Information services</a></li>
+ <li><a href="https://www.asx.com.au/services/clearing.htm">Clearing</a></li>
+ <li><a href="https://www.asx.com.au/services/clearing-risk-management.htm">Clearing Risk Management</a></li>
+ <li><a href="https://www.asx.com.au/services/otc-clearing.htm">OTC Clearing</a></li>
+ <li><a href="https://www.asx.com.au/services/settlement.htm">Settlement</a></li>
+ <li><a href="https://www.asx.com.au/services/asx-collateral.htm">ASX Collateral </a></li>
  <li><a href="/cs/" target="_blank">Code of Practice</a></li>
  
- <li><a href="http://www.asx.com.au/services/chess-replacement.htm">CHESS Replacement</a></li>
- <li><a href="http://www.asx.com.au/services/t2.htm">T+2 Settlement</a></li>
- 
- <li><a href="http://www.asx.com.au/services/benchmark.htm">Benchmark Administration</a></li>
+ <li><a href="https://www.asx.com.au/services/chess-replacement.htm">CHESS Replacement</a></li>
+ <li><a href="https://www.asx.com.au/services/benchmark.htm">Benchmark Administration</a></li>
  
  
  
@@ -1343,11 +1508,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-1');
  
  <div class="col"><h4>Listings<span class="arrow-down"></span></h4>
              <ul> 
-                 <li><a href="http://www.asx.com.au/listings/index.htm">Listing with ASX</a></li>
- <li><a href="http://www.asx.com.au/listings/debt-listing.htm">Debt securities</a></li>
+                 <li><a href="https://www.asx.com.au/listings/index.htm">Listing with ASX</a></li>
+ <li><a href="https://www.asx.com.au/listings/debt-listing.htm">Debt securities</a></li>
  
  
- <li><a href="http://www.asx.com.au/listings/issuer-services.htm">Issuer Services</a></li>
+ <li><a href="https://www.asx.com.au/listings/issuer-services.htm">Issuer Services</a></li>
  
   
              </ul>
@@ -1356,20 +1521,20 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-1');
  
  <div class="col"><h4>Education<span class="arrow-down"></span></h4>
              <ul> 
-                 <li><a href="http://www.asx.com.au/education/shares-education.htm">Education centre</a></li>
- <li><a href="http://www.asx.com.au/education/sharemarket-game.htm">Sharemarket Game</a></li>
+                 <li><a href="https://www.asx.com.au/education/shares-education.htm">Education centre</a></li>
+ <li><a href="https://www.asx.com.au/education/sharemarket-game.htm">Sharemarket Game</a></li>
  
- <li><a href="http://www.asx.com.au/education/online-courses.htm">Online Courses</a></li>
- <li><a href="http://www.asx.com.au/education/investment-and-finance-newsletter.htm">Investment and finance newsletter</a></li>
- <li><a href="http://www.asx.com.au/education/finance-seminars-and-webinars.htm">Finance seminars and webinars</a></li>
- <li><a href="http://www.asx.com.au/education/research-and-surveys.htm">Research and surveys</a></li>
- <li><a href="http://www.asx.com.au/education/glossary.htm">Glossary</a></li>
- <li><a href="http://www.asx.com.au/education/myasx.htm">MyASX</a></li>
+ <li><a href="https://www.asx.com.au/education/online-courses.htm">Online Courses</a></li>
+ <li><a href="https://www.asx.com.au/education/investment-and-finance-newsletter.htm">Investment and finance newsletter</a></li>
+ <li><a href="https://www.asx.com.au/education/finance-seminars-and-webinars.htm">Finance seminars and webinars</a></li>
+ <li><a href="https://www.asx.com.au/education/research-and-surveys.htm">Research and surveys</a></li>
+ <li><a href="https://www.asx.com.au/education/glossary.htm">Glossary</a></li>
+ <li><a href="https://www.asx.com.au/education/myasx.htm">MyASX</a></li>
  
- <li><a href="http://www.asx.com.au/education/download-brochures.htm">Download brochures</a></li>
- <li><a href="http://www.asx.com.au/education/myasx-watchlists.htm">Watchlists</a></li>
- <li><a href="http://www.asx.com.au/education/investment-videos-2018.htm">Investment videos</a></li>
- <li><a href="http://www.asx.com.au/education/first-time-investors.htm">First-time investors</a></li>
+ <li><a href="https://www.asx.com.au/education/download-brochures.htm">Download brochures</a></li>
+ <li><a href="https://www.asx.com.au/education/myasx-watchlists.htm">Watchlists</a></li>
+ <li><a href="https://www.asx.com.au/education/investment-videos-2018.htm">Investment videos</a></li>
+ <li><a href="https://www.asx.com.au/education/first-time-investors.htm">First-time investors</a></li>
   
              </ul>
             </div> 
@@ -1377,13 +1542,13 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-1');
  
  <div class="col"><h4>About ASX<span class="arrow-down"></span></h4>
              <ul> 
-                 <li><a href="http://www.asx.com.au/about/corporate-overview.htm">Corporate overview</a></li>
- <li><a href="http://www.asx.com.au/about/asx-news.htm">ASX news</a></li>
- <li><a href="http://www.asx.com.au/about/investor-relations.htm">Investor relations</a></li>
- <li><a href="http://www.asx.com.au/about/careers-at-asx.htm">Careers at ASX</a></li>
- <li><a href="http://www.asx.com.au/about/market-information.htm">Market information</a></li>
- <li><a href="http://www.asx.com.au/about/market-statistics.htm">Market statistics</a></li>
- <li><a href="http://www.asx.com.au/about/advertise-with-asx.htm">Advertise with ASX</a></li>
+                 <li><a href="https://www.asx.com.au/about/corporate-overview.htm">Corporate overview</a></li>
+ <li><a href="https://www.asx.com.au/about/asx-news.htm">ASX news</a></li>
+ <li><a href="https://www.asx.com.au/about/investor-relations.htm">Investor relations</a></li>
+ <li><a href="https://www.asx.com.au/about/careers-at-asx.htm">Careers at ASX</a></li>
+ <li><a href="https://www.asx.com.au/about/market-information.htm">Market information</a></li>
+ <li><a href="https://www.asx.com.au/about/market-statistics.htm">Market statistics</a></li>
+ <li><a href="https://www.asx.com.au/about/advertise-with-asx.htm">Advertise with ASX</a></li>
  
  
  
@@ -1391,7 +1556,8 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-1');
  
  
  
- <li><a href="http://www.asx.com.au/about/system_status.htm">ASX System Status</a></li>
+ 
+ <li><a href="https://www.asx.com.au/about/system-status.htm">ASX System Status</a></li>
  
  
  
@@ -1442,55 +1608,51 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450161763430-1');
  
  <div class="col"><h4>Regulation<span class="arrow-down"></span></h4>
              <ul> 
-                 <li><a href="http://www.asx.com.au/regulation/rules-guidance-notes-and-waivers.htm">Rules, guidance notes and waivers</a></li>
- <li><a href="http://www.asx.com.au/regulation/asx-compliance.htm">ASX Compliance</a></li>
- <li><a href="http://www.asx.com.au/regulation/asx-regulatory-compliance.htm">ASX regulatory compliance</a></li>
- <li><a href="http://www.asx.com.au/regulation/public-consultations.htm">Public consultations</a></li>
- <li><a href="http://www.asx.com.au/regulation/corporate-governance-council.htm">Corporate Governance Council</a></li>
+                 <li><a href="https://www.asx.com.au/regulation/rules-guidance-notes-and-waivers.htm">Rules, guidance notes and waivers</a></li>
+ <li><a href="https://www.asx.com.au/regulation/asx-compliance.htm">ASX Compliance</a></li>
+ <li><a href="https://www.asx.com.au/regulation/asx-regulatory-compliance.htm">ASX regulatory compliance</a></li>
+ <li><a href="https://www.asx.com.au/regulation/public-consultations.htm">Public consultations</a></li>
+ <li><a href="https://www.asx.com.au/regulation/corporate-governance-council.htm">Corporate Governance Council</a></li>
   
              </ul>
             </div> 
              
  
  
-     
-  </div>
- </div>
-
-<div class="global-footer">
-  <div class="inner">
-   
-    <div class="details"> <img src="http://www.asx.com.au/images/img-footer-logo.png" alt="ASX logo">
-      <div class="content">
-        <ul>
-          <li class="first"><a href="http://www.asx.com.au/about/terms-use.htm">Terms of use</a></li>
-          <li><a href="http://www.asx.com.au/about/privacy-statement.htm">Privacy</a></li>
-          <li><a href="http://www.asx.com.au/about/accessibility_statement.htm">Accessibility</a></li>
-          <li><a href="http://www.asx.com.au/about/asx-sitemap-basic-view-detailed-view.htm">Sitemap</a></li>
-          <li><a href="http://www.asx.com.au/contact/">Contact ASX</a></li>
-        </ul>
-  <p class="copyright">2018 ASX Limited ABN 98 008 624 691</p>
-
  
-
-        <a class="cta" href="http://m.asx.com.au/">View mobile site</a> </div>
-        <div class="connect">
-      <ul>
-        
-        <li class="twitter"><a href="http://twitter.com/ASX" target="_blank" title="Follow us on Twitter"><img src="http://www.asx.com.au/images/twitter.png">Follow us on Twitter</a></li>
-        <li class="linkedin"><a href="https://www.linkedin.com/company/asx" target="_blank" title="Visit us on LinkedIn"><img src="http://www.asx.com.au/images/linkedin.png">Visit us on LinkedIn</a></li>
-        <li class="youtube"><a href="http://www.youtube.com/user/ASXLtd" target="_blank" title="Subscribe on YouTube"><img src="http://www.asx.com.au/images/youtube.png">Subscribe on YouTube</a></li>
-      </ul>      
-    </div>
-        
-        
-    </div>
-    <p class="terms">The ASX Group's activities span primary and secondary market services, including capital formation and hedging, trading and price discovery (Australian Securities Exchange) central counter party risk transfer (ASX Clearing Corporation); and securities settlement for both the equities and fixed income markets (ASX Settlement Corporation).</p>
-   
-  </div>
-</div>
-</footer>
  
+				</div>
+			</div>
+
+			<div class="details">
+				<div class="logo">
+
+				</div>
+
+				<div class="content">
+					<ul>
+<li class="first"><a href="https://www.asx.com.au/about/terms-use.htm">Terms of use</a></li>
+<li><a href="https://www.asx.com.au/about/privacy-statement.htm">Privacy</a></li>
+<li><a href="https://www.asx.com.au/about/accessibility_statement.htm">Accessibility</a></li>
+<li><a href="https://www.asx.com.au/about/asx-sitemap-basic-view-detailed-view.htm">Sitemap</a></li>
+<li><a href="http://www.asx.com.au/contact/">Contact ASX</a></li>
+					</ul>
+<p class="copyright">2018 ASX Limited ABN 98 008 624 691</p>
+				</div>
+				<div class="connect">
+					<ul>
+<li class="twitter"><a href="https://twitter.com/ASX" target="_blank" title="Follow us on Twitter"><img src="https://www.asx.com.au/images/twitter.png">Follow us on Twitter</a></li>
+<li class="linkedin"><a href="https://www.linkedin.com/company/asx" target="_blank" title="Visit us on LinkedIn"><img src="https://www.asx.com.au/images/linkedin.png">Visit us on LinkedIn</a></li>
+<li class="youtube"><a href="https://www.youtube.com/user/ASXLtd" target="_blank" title="Subscribe on YouTube"><img src="https://www.asx.com.au/images/youtube.png">Subscribe on YouTube</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="terms">
+The ASX Group's activities span primary and secondary market services, including capital formation and hedging, trading and price discovery (Australian Securities Exchange) central counter party risk transfer (ASX Clearing Corporation); and securities settlement for both the equities and fixed income markets (ASX Settlement Corporation).
+			</div>
+<script type="text/javascript">_satellite.pageBottom();</script>
+		</footer>
+	</section>
 
 
 <!-- Google Code for Remarketing Tag -->
