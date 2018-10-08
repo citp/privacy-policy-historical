@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emagazines.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223183105id_/https%3A//www.emagazines.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emagazines.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008114357id_/https%3A//emagazines.com/home/privacy-policy) for the most accurate reproduction.*
 
-# eMagazines | Privacy Policy
+# Privacy Policy
 
 **eMagazines.com** has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for this Web site: [eMagazines.com](https://web.archive.org/)
 
@@ -35,12 +35,19 @@ This site has security measures in place to protect the loss, misuse, and altera
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us. 
 
-You can opt out by visiting in [here](https://www.emagazines.com/contact/) and submitting the form or clicking unsubscribe on any email you receive from eMagazines.com. 
+You can opt out by visiting in [here](https://web.archive.org/Home/Contact) and submitting the form or clicking unsubscribe on any email you receive from eMagazines.com. 
 
 **Data Quality/Access**  
 This site gives users the following options for changing and modifying information previously provided: 
 
-You can [click here](https://www.emagazines.com/contact/) and provide your updated information. 
+You can [click here](https://web.archive.org/Home/Contact) and provide your updated information. 
+
+**GDPR**  
+This site is compliant with GDPR laws and regulations. User can edit, delete, freeze and view their personal information at this location [GDPR](https://web.archive.org/Account/GDPR) or users can [click here](https://emagazines.zendesk.com/hc/en-use) and provide their updated information via a customer support ticket. Users can withdraw consent by deleting their account. A GDPR ID will be provided as a cancellation number. 
+
+By accepting the Privacy Policy you are verifying that you are at least 16 years or older, or 13 years or older with parents' consent.
+
+Data Retention: Data is kept until the data controllers request the data to be removed according to their policies.
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
@@ -50,6 +57,6 @@ eMagazines
 Ste 500  
 Chicago, IL 60654 
 
-[Click here to contact support](https://www.emagazines.com/contact/). 
+[Click here to contact support](https://web.archive.org/Home/Contact)
 
-Privacy Policy Updated: 05/12/2017.
+Privacy Policy Updated: 2018.
