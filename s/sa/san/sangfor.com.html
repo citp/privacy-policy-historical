@@ -1,0 +1,541 @@
+<!--The following is the downloaded HTML source of the sangfor.com privacy policy that was archived on 2018-10-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181008052601id_/http%3A//www.sangfor.com/service/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Privacy Policy</title>
+<meta name="keywords" content="sangfor technologies,network optimization,network security,network management,network solutions vendor,network solutions provider,internet access management,next generation firewall,ssl vpn,wan optimization,cloud computing,virtual desktop infrastructure,b">
+<meta name="description" content="As the global leading vendor of Cloud Computing, Network Security &amp; Optimization solutions, Sangfor always strive to create value for our Customers.">
+<link href="/Application/Home/View/default/css/body.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="/Application/Home/View/default/js/jquery1.10.2.js"></script>
+<script type="text/javascript" src="/Application/Home/View/default/js/jquery.SuperSlide.2.1.1.js"></script>
+<script type="text/javascript" src="/Application/Home/View/default/js/web_js.js"></script>
+<script type="text/javascript" src="/Application/Home/View/default/js/formCheck.js"></script>
+<script type="text/javascript" src="/Application/Home/View/default/js/quick_links.js"></script>
+<script type="text/javascript" src="/Application/Home/View/default/js/swiper3.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/Application/Home/View/default/css/swiper3.min.css">
+<link rel="stylesheet" type="text/css" href="/Application/Home/View/default/css/base.css">
+<script type="text/javascript" src="/Application/Home/View/default/js/common.js"></script>
+
+<script>
+if(window.location.protocol=='http:'){
+window.location.href='https://'+window.location.href.substr(6)
+}
+</script>
+
+<!--[if IE]>
+    <script type="text/javascript" src="/Application/Home/View/default/js/html5.js"></script>
+    <script src="//api.html5media.info/1.1.8/html5media.min.js"></script>
+<![endif]-->
+
+
+<script>
+    $(document).ready(function(){
+        var olian = $('.ico_lx').find('p');
+        var timer = null;
+        $('.ico_lx').on('click', function(){
+            olian.stop().fadeIn();
+        }).hover(function(){
+            clearTimeout(timer);
+        },function(){
+            timer = setTimeout(function(){
+                if (olian.css('display') != 'none') {
+                    olian.fadeOut();
+                }
+            },500)
+        })
+    })
+function GetQueryString(name) {
+   var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)","i");
+   var r = window.location.search.substr(1).match(reg);
+   if (r!=null) return (r[2]); return null;
+}
+window.onload = function(){
+    if (GetQueryString("from")) {
+        var aA = document.getElementsByTagName('a');
+        for (var i = 0, l = aA.length; i < l; i++) {
+            aA[i].href = aA[i].href + '?from='+GetQueryString("from");
+        };
+
+        var aIframe = document.getElementsByTagName('iframe');
+        for (var i = 0, l = aIframe.length; i < l; i++) {
+            aIframe[i].src = aIframe[i].src + '?from='+GetQueryString("from");
+        };
+    }
+    navFixed();
+}
+	$(function(){
+		var state = getCookie('state');
+		if(state == null){
+				$('.cookie_tishi').css('display','block');
+		}
+		$('.but').on('click',function(){
+			setCookie('state','1');
+			$('.cookie_tishi').css('display','none');
+		})
+	
+		// 设置Cookie
+		function setCookie(name, value) {
+			var Days = 30;
+			var exp = new Date();
+			exp.setTime(exp.getTime() + Days * 24 * 60 * 60 * 1000);
+			document.cookie = name + "=" + escape(value) + ";expires=" + exp.toGMTString()+";path=/";
+		}
+	
+		// 读取Cookie
+		function getCookie(name) {
+		   var arr, reg = new RegExp("(^| )" + name + "=([^;]*)(;|$)");
+		   if (arr = document.cookie.match(reg))
+			   return unescape(arr[2]);
+		   else
+			   return null;
+		}
+		
+	   $(window).scroll(function() {
+			var scrollHeight = $(document).scrollTop();
+			if (scrollHeight > 60) {
+				$('.cookie_tishi').addClass('lighted');
+			} else {
+				$('.cookie_tishi').removeClass('lighted');
+			}
+		});
+	
+	})
+</script>
+<!-- 移动端跳转代码开始 -->
+
+<script type="text/javascript"> 
+function uaredirect(f){try{if(document.getElementById("bdmark")!=null){return}var b=false;if(arguments[1]){var e=window.location.host;var a=window.location.href;if(isSubdomain(arguments[1],e)==1){f=f+"/#m/"+a;b=true}else{if(isSubdomain(arguments[1],e)==2){f=f+"/#m/"+a;b=true}else{f=a;b=false}}}else{b=true}if(b){var c=window.location.hash;if(!c.match("fromapp")){if((navigator.userAgent.match(/(iPhone|iPod|Android|ios)/i))){location.replace(f)}}}}catch(d){}}function isSubdomain(c,d){this.getdomain=function(f){var e=f.indexOf("://");if(e>0){var h=f.substr(e+3)}else{var h=f}var g=/^www\./;if(g.test(h)){h=h.substr(4)}return h};if(c==d){return 1}else{var c=this.getdomain(c);var b=this.getdomain(d);if(c==b){return 1}else{c=c.replace(".","\\.");var a=new RegExp("\\."+c+"$");if(b.match(a)){return 2}else{return 0}}}};
+</script>
+<script>
+pcurl = window.location.href;
+mburl = pcurl.replace('www.sangfor.com','m.sangfor.com');
+uaredirect(mburl);
+</script>
+<!-- 移动端跳转代码结束 -->
+	<style>
+		.cookie_tishi{
+				height:60px;
+				width:100%;
+				background:#f7f7f7;
+				font-size:14px;
+				text-align:center;
+				display:none;
+		}
+		.cookie_tishi a{
+				color:#0997f7;
+				font-size:14px;
+		}
+		.but{
+				display: inline-block;
+				padding: 6px 12px;
+				width:75px;
+				height:30px;
+				font-size: 14px;
+				color:#ffffff;
+				text-align: center;
+				cursor: pointer;
+				border-radius: 4px;
+				border:none;
+				background-color: #0997f7;
+		}
+		.two{
+			padding-top:13px;
+		}
+		
+		.lighted {position:fixed;top:0px;z-index:1000;} 
+		
+	</style>
+
+    <!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '422012601626408'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=422012601626408&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+
+</head>
+
+<body>
+	<div class="cookie_tishi" style="display: block;">
+		<div class="two"> 
+					This site uses cookies to enhance your experience.  &nbsp;&nbsp;&nbsp;<button class="but">OK</button>&nbsp;&nbsp;&nbsp;  <a href="http://www.sangfor.com/service/privacy.html">Learn More</a>
+		</div>
+	</div>
+
+
+<!-- <a href="#" class="back_to_top"></a> -->
+<div class="head back_white head_x">
+	<div class="logo left">
+        <a href="/">
+                            <img src="/Application/Home/View/default/images/logo.png">        </a>
+    </div>
+        <div class="nav right font16">
+        <div class="navtop">
+            <div class="e_md right">
+              <div class="lang right relative">
+                <div class="langbox"><a href="javascript:;">GLOBAL</a><i class="i"></i></div>
+                <dl class="radius_3 display_no">
+                    <dd><a href="http://www.sangfor.com.cn" target="_blank">中文</a></dd>
+                    <!-- <dd><a href="http://www.sangfor.co.uk/" target="_blank">UK</a></dd>
+                    <dd><a href="http://www.sangfor.net/" target="_blank">USA</a></dd> -->
+                    <dd><a href="http://www.sangfor.co.kr/" target="_blank">한국어</a></dd>
+                </dl>
+              </div>
+            </div>
+            <div class="tiplink right">
+                <a href="http://community.sangfor.com" style="border-right:1px solid #CCC;">Community</a>
+                <a href="/about/contact-way.html" style="border-right:1px solid #CCC;">Contact Us</a>
+                <a href="/about/careers.html">Join Us</a>
+            </div>
+        </div>
+    	<ul class="clearfix">
+        	<li>
+        		<a href="javascript:;">Products</a>
+            	<div class="two_nav back_white">
+                	<div class="web_widht clearfix">
+                	<dl class="last">
+                        	<dt><a href="/product/sxf-network-security.html">Network Security</a></dt>
+                            <dd>
+                            <a href="/product/sxf-network-security-iam.html">· Internet Access Management</a><a href="/product/sxf-network-security-ngaf.html">· NGAF Firewall Platform</a><a href="/product/sxf-network-security-ssl.html">· SSL VPN</a>                            </dd>
+                        </dl><dl>
+                        	<dt><a href="/product/sxf-network-optimization.html">Network Optimization</a></dt>
+                            <dd>
+                            <a href="/product/sxf-network-optimization-wano.html">· WAN Optimization</a>                            </dd>
+                        </dl><dl>
+                        	<dt><a href="/product/sxf-virtualization.html">Virtualization</a></dt>
+                            <dd>
+                            <a href="/product/sxf-virtualization-virtual-desktop.html">· Virtual Desktop Infrastructure (VDI)</a><a href="/product/sxf-virtualization-virtual-app.html">· Virtual App (EasyConnect)</a><a href="/product/sxf-virtualization-application-delivery.html">· Application Delivery</a><a href="/product/sxf-virtualization-hci.html">· Hyper-Converged Infrastructure</a><a href="/product/sxf-virtualization-abos.html">· aBOS (Mini HCI)</a>                            </dd>
+                        </dl>                    </div>
+                </div>
+                
+            </li>
+            <li>
+                <a href="javascript:;">Solutions</a>
+                <div class="two_nav_trade two_nav back_white">
+                    <div class="web_widht clearfix">
+                        <a href="/industry/fin.html"></a>
+                        <a class="two_nav_trade02" href="/industry/gov.html"></a>
+                        <a class="two_nav_trade03" href="/industry/car.html"></a>
+                        <a class="two_nav_trade04" href="/industry/edu.html"></a>
+                        <a class="two_nav_trade05" href="/industry/com.html"></a>
+                    </div>
+                </div>
+                
+            </li>
+            <li>
+                <a href="javascript:;">Innovations</a>
+                <div class="two_nav back_white">
+                    <div class="web_widht clearfix">
+                            <dl>
+                                <dt><a href="/innovations/engine-zero.html">Engine-Zero</a></dt>
+                                <!-- <dd>
+                                <a href="/product/sxf-virtualization-virtual-desktop.html">· Virtual Desktop Infrastructure (VDI)</a><a href="/product/sxf-virtualization-virtual-app.html">· Virtual App (EasyConnect)</a><a href="/product/sxf-virtualization-application-delivery.html">· Application Delivery</a><a href="/product/sxf-virtualization-hci.html">· Hyper-Converged Infrastructure</a><a href="/product/sxf-virtualization-abos.html">· aBOS (Mini HCI)</a>                                </dd> -->
+                            </dl>
+                            <dl>
+                                <dt><a href="/innovations/neural-x.html">Neural-X</a></dt>
+                            </dl>
+                            <!-- <dl>
+                                <dt><a href="/innovations/engine-zero.html" >Engine Zero</a></dt>
+                            </dl> -->
+                            <dl>
+                                <dt><a href="/innovations/bi.html">Business Intelligence</a></dt>
+                            </dl>
+                            <dl>
+                                <dt><a href="/innovations/threat-intelligence.html">Threat Intelligence</a></dt>
+                            </dl>
+                            <dl>
+                                <dt><a href="/innovations/zsand.html">ZSand</a></dt>
+                            </dl>
+                            <dl>
+                                <dt><a href="/innovations/botnet-detection.html">Botnet Detection</a></dt>
+                            </dl>
+                            <dl>
+                                <dt><a href="/innovations/srap.html">SRAP</a></dt>
+                            </dl>
+                            <!-- <dl>
+                                <dt><a href="/innovations/engine-zero.html" >Engine-Zero1</a></dt>
+                                <dd>
+                                <a href="/product/sxf-virtualization-virtual-desktop.html">· Virtual Desktop Infrastructure (VDI)</a><a href="/product/sxf-virtualization-virtual-app.html">· Virtual App (EasyConnect)</a><a href="/product/sxf-virtualization-application-delivery.html">· Application Delivery</a><a href="/product/sxf-virtualization-hci.html">· Hyper-Converged Infrastructure</a><a href="/product/sxf-virtualization-abos.html">· aBOS (Mini HCI)</a>                                </dd>
+                            </dl> -->
+                    </div>
+                </div>
+                
+            </li>
+            <li>
+                <a href="javascript:;">Support</a>
+            	<div class="two_nav back_white">
+                    <div class="web_widht clearfix">
+                         <dl class="last" style="width:180px;margin-left:15px;">
+	                        	<dt><a href="/service/intro.html">Case Handling Process</a></dt>
+	                            <dd>
+	                            	                            </dd>
+	                        </dl><dl style="width:180px;margin-left:15px;">
+	                        	<dt><a href="/service/ram.html">RMA Process</a></dt>
+	                            <dd>
+	                            	                            </dd>
+	                        </dl><dl style="width:180px;margin-left:15px;">
+	                        	<dt><a href="/service/warranty-policy.html">Warranty Policy</a></dt>
+	                            <dd>
+	                            	                            </dd>
+	                        </dl><dl style="width:180px;margin-left:15px;">
+	                        	<dt><a href="/service/sangfor-care-service-guideline.html">C.S Quick Overview</a></dt>
+	                            <dd>
+	                            	                            </dd>
+	                        </dl><dl style="width:180px;margin-left:15px;">
+	                        	<dt><a href="/service/care-service-level.html">C.S Standard Services</a></dt>
+	                            <dd>
+	                            	                            </dd>
+	                        </dl><dl style="width:180px;margin-left:15px;">
+	                        	<dt><a href="/service/care-service-guidelines.html">C.S Guidelines</a></dt>
+	                            <dd>
+	                            	                            </dd>
+	                        </dl><dl style="width:180px;margin-left:15px;">
+	                        	<dt><a href="/source/download-hci.html">Documentation</a></dt>
+	                            <dd>
+	                            	                            </dd>
+	                        </dl><dl style="width:180px;margin-left:15px;">
+	                        	<dt><a href="http://community.sangfor.com/plugin.php?id=service:download">Firmware</a></dt>
+	                            <dd>
+	                            	                            </dd>
+	                        </dl><dl style="width:180px;margin-left:15px;">
+	                        	<dt><a href="http://wiki.sangfor.com">Wiki Support</a></dt>
+	                            <dd>
+	                            	                            </dd>
+	                        </dl><dl style="width:180px;margin-left:15px;">
+	                        	<dt><a href="/service/certification.html">Certification Program</a></dt>
+	                            <dd>
+	                            	                            </dd>
+	                        </dl><dl style="width:180px;margin-left:15px;">
+	                        	<dt><a href="/service/faq.html">FAQ</a></dt>
+	                            <dd>
+	                            	                            </dd>
+	                        </dl><dl style="width:180px;margin-left:15px;">
+	                        	<dt><a href="/service/eol.html">End-of-Life </a></dt>
+	                            <dd>
+	                            	                            </dd>
+	                        </dl><dl style="width:180px;margin-left:15px;">
+	                        	<dt><a href="/service/privacy.html">Privacy Policy</a></dt>
+	                            <dd>
+	                            	                            </dd>
+	                        </dl>                   	</div>
+               	</div>
+                
+            </li>
+            <li>
+                <a href="javascript:;">Partners</a>
+            	<div class="two_nav back_white">
+                	<div class="web_widht clearfix">
+                        <dl class="last">
+	                        	<dt><a href="/cooperation/policy.html">Become a Partner</a></dt>
+	                            <dd>
+	                            	                                
+	                            </dd>
+	                        </dl><dl>
+	                        	<dt><a href="/cooperation/apply.html">Application Form</a></dt>
+	                            <dd>
+	                            	                                
+	                            </dd>
+	                        </dl><dl>
+	                        	<dt><a href="http://newcrm.sangfor.com/">Partner Portal</a></dt>
+	                            <dd>
+	                            	                                
+	                            </dd>
+	                        </dl>                    </div>
+                </div>
+                
+            </li>
+            <li>
+                <a href="javascript:;">Resources</a>
+                <div class="two_nav back_white">
+                    <div class="web_widht clearfix">
+                        <dl class="last">
+                                <dt><a href="/source/news.html">News &amp; Events</a></dt>
+                                <dd>
+                                                                    <a href="/source/news-product-news.html">· News</a><a href="/about/source-news-company-news.html">· Market Activities</a><a href="/source/news-press-release.html">· Press Release </a>                                <a href="/source/blog.html">· Blog</a>                                </dd>
+                            </dl><dl>
+                                <dt><a href="/source/case.html">Success Stories</a></dt>
+                                <dd>
+                                <a href="/source/case/industry_location/com.html">Enterprises</a>
+                                    <a href="/source/case/industry_location/fin.html">Finance &amp; Banking</a>
+                                    <a href="/source/case/industry_location/gov.html">Governments</a>
+                                    <a href="/source/case/industry_location/edu.html">Schools &amp; Universities</a>
+                                    <a href="/source/case/industry_location/car.html">ISP</a>
+                                    <a href="/source/case/industry_location/others.html">Others</a>
+                                                                                                </dd>
+                            </dl><dl>
+                                <dt><a href="/source/download.html">Download Center</a></dt>
+                                <dd>
+                                                                    <a href="/source/download-hci.html">· HCI</a><a href="/source/download-ngaf.html">· NGAF</a><a href="/source/download-vdi.html">· Virtual Desktop (VDI)</a><a href="/about/source-download-iam.html">· IAM</a><a href="/about/source-download-wano.html">· WANO</a><a href="/source/download--abos.html">· aBOS</a><a href="/source/download-ad.html">· Application Delivery</a><a href="/source/download-ssl.html">· SSL VPN</a>                                                                </dd>
+                            </dl><dl>
+                                <dt><a href="/source/video.html">Videos</a></dt>
+                                <dd>
+                                                                    <a href="/source/video-videos.html">· Videos</a><a href="/source/video-video-customer-interviews.html">· Customer Interviews</a>                                                                </dd>
+                            </dl>                    </div>
+                </div>
+                
+            </li>
+            <li>
+                <a href="javascript:;">About Us</a>
+            	<div class="two_nav back_white">
+                	<div class="web_widht clearfix">
+                        <dl class="last" style="width:240px;">
+                                <dt><a href="/about/company-profile.html">Company Profile</a></dt>
+                            </dl><dl style="width:240px;">
+                                <dt><a href="/about/characteristics.html">Awards &amp; Achievements</a></dt>
+                            </dl><dl style="width:240px;">
+                                <dt><a href="/about/careers.html">Careers</a></dt>
+                            </dl><dl style="width:240px;">
+                                <dt><a href="/about/contact.html">Contact Us</a></dt>
+                            </dl>                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+
+</div>
+
+
+<div class="ny_banner color_f" style="background:url(/Uploads/Pictures/20180518/5afe43952156a.jpg) no-repeat center top;height:378px;"></div>
+<div style="width:100%;"><div class="web_widht p_t30 p_b20"><h3 class="caseTitle greenColor">Privacy Policy</h3><p>SANGFOR Technologies Inc and its subsidiaries (collectively, “We” and “our”) attach great importance to the security of your personal data seriously. Collecting, using ,sharing or transferring of your personal data may be conducted upon you visit our website ,use our products and/or services based on your consent, contract relationship or any applicable legal ground.<br><br>SANGFOR Privacy Policy (hereinafter referred to as “this Policy”) represents how we collect, use, store, transfer your personal data as well as your legitimate rights to access, update, delete, and protect your personal data.<br><br>You are required to get fully understanding of this Policy before submitting your personal data to SANGFOR. This Policy applies to SANGFOR websites, products, services that display or provide links to this Policy.<br><br>SANGFOR will ensure that any personal data we collect about you will be held and processed strictly in accordance with the European General Data Protection Regulation (GDPR) which become effective on 25th May 2018. <br><br>Considering SANGFOR provides various kinds of products and services, this Policy may not cover all possible scenarios for personal data processing. Any specific data relating to the processing of personal data in the context of SANGFOR’s products or services may be described in the privacy policy of related products or services, or may be released in any notice that is given during the collection of data.<br><br><strong>1. Collection and use your personal data</strong><br><br>“personal data” means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.<br><br>The aforementioned personal data maybe be collected by your behavior of using of our products, services , or when you interact with us, such as visiting our website, registering relevant accounts, participating in our events. Besides, by using cookie and other similar technologies, our websites may indirectly record your personal data.When you use SANGFOR website, we may collect certain data automatically from your computers or devices (including mobile devices). The data we collect automatically may include your IP address, device type, operating system, unique device identifiers, browser-type, browser language, geographic location and other technical information. We may also collect data about how your device has communicated with SANGFOR Website, including the pages viewed, the links clicked, the amount of time spent on particular pages, mouse hovers, the date and time of the interaction, error logs, referring and exit pages and URLs, and similar information. We use this information only for our analytical purposes, and to improve the quality, relevance, and security of SANGFOR website. <br><br>Our website collects and uses personal data through the following methods:<br><br>1) Tracking<br><br>Our website site analytics tool such as Google Analytics (GA) to track user interaction. We use this data to determine the number of people using our site, to better understand how you found us, how you are using our website and to see their journey you took through the website. All of these are used only in the purpose of improving our website to provide you with the best user experience. Disabling cookies on your internet browser will stop Google Analytics from tracking any part of your visit to pages within this website.<br><br>2) Contact Form<br><br>Should you choose to contact us using the contact form on our Contact us page OR Free trial page OR Application Form for new Partners, the data that you supply will be stored by this website and send out into an email over the Simple Mail Transfer Protocol (SMTP). Our SMTP servers are protected with TLS/SSL encryption meaning that the email is sent over an encrypted connection using SHA-2, 256-bit cryptography and received by Gmail’s secure servers.<br><br>3) Email Newsletters<br><br>If you choose to join our email newsletter or if provided with your email during an event or other circumstances, the email address that you submit to us will be forwarded and stored in MailChimp which provide us with email marketing services. The email address that you submit will not be stored within this website’s own database or in any of our internal computer systems, except for the purpose of importing the data into Mailchimp. <br><br>Your email address will remain within MailChimp’s database for as long as we continue to use MailChimp’s services for email marketing or until you specifically request removal from the list. You can do this by unsubscribing using the unsubscribe links contained in any email newsletters that we send you or by requesting removal via email. If you are under 16 years of age you MUST obtain parental consent before joining our email newsletter. While your email address remains within the MailChimp database, you may receive periodic newsletter emails from us.<br><br>We use several third parties to process personal data on our behalf. These third parties have been carefully chosen and all of them comply with the GDPR legislation. All two of these third parties are based in the USA and are EU-US Privacy Shield compliant. <br>1) Mailchimp (Privacy policy)<br>2) SurveyMonkey (Privacy policy)<br><br>We may collect your personal data for the business purposes such as sending solicited information about a specific item or information about products or Company, perform market research &amp; analytics to improve our services &amp; product offerings. Besides,we may supply such above personal data to third parties for the business purposes or marketing based on your consent.<br><br>Should the purposes of using your personal data are not included in this Policy, we will obtain your prior consent before we implementing the relevant purpose. Moreover ,you are entitled to withdraw your consent at any time in compliance with the laws and regulations, but this maybe cause the function limitation of the website, product or service.<br><br>Please be fully noted that we are entitled to collect and use your personal data without your prior consent under any of the corresponding circumstances in compliance with any applicable laws and regulations.<br><br><strong>2. Cookies and Other Similar Technologies</strong><br><br>Like most sites, we use technologies that are essentially small data files placed on your computer, tablet, mobile phone, or other devices (referred to collectively as a "device") that allow us to record certain pieces of data whenever you visit or interact with our sites, services, applications, messaging, and tools, and to recognize you across devices.<br><br>The specific names and types of the cookies, unique identifiers, and similar technologies we use to collect data (e.g. about the pages you view, the links you click, and other actions you take on our Services, within our advertising or e-mail content) may change from time to time. In order to help you better understand this Policy and our use of such technologies we have provided the following limited terminology and definitions:<br><br>Cookies – Small text files (typically made up of letters and numbers) placed in the memory of your browser or device when you visit a website or view a message. Cookies allow a website to recognize a particular device or browser. <br><br>Similar technologies – Technologies that store personal data in your browser or device utilizing local shared objects or local storage, such as flash cookies, HTML 5 cookies, and other web application software methods. These technologies can operate across all of your browsers, and in some instances may not be fully managed by your browser and may require management directly through your installed applications or device. We do not use these technologies for storing personal data to target advertising to you on or off our sites.<br><br>We may use the terms "cookies" or "similar technologies" interchangeably in our policies to refer to all technologies that we may use to store data in your browser or device or that collect data or help us identify you in the manner described above.<br><br><strong>3. Rights to your personal data</strong><br><br>If you submit your personal data to us, please ensure the accuracy of such data. If your personal data has changed (for instance, your address has been changed), you are obliged to update your personal data in a timely manner.<br><br>For requirements by applicable laws, you may: (1) have access to your personal data we have held; (2) update or correct any of your inaccurate personal data; (3) restrict or object to allow us to process your personal data; and (4) require us to erasure your personal data, and (5) require us to comply with your request for data portability (6) withdraw your consent at any time which will not affect the lawfulness of processing based on consent before (7) lodge a complaint with the corresponding supervisory authority.<br><br>When you claim the said rights, we may require you to submit a written request and may verify your identify. Usually, we do not charge anything for such processes unless your request goes beyond the limit of conventional requirements. <br><br><strong>4. Protection and Storage of Personal data</strong><br><br>We recognize the need to ensure that personal information gathered via this website remains secure. Our site has security measures in place to protect against the loss, misuse, and alteration of the personal information under our control. Our security measures include the use of a hardware firewall to prevent unauthorized access. You acknowledge that although we exercise adequate care and security, there remains a risk that information transmitted over the Internet and stored by computer may be intercepted or accessed by an unauthorized third-party.<br><br>Your Personal Data will be stored for a maximum period of 6 (six) years, after which time it will be destroyed if it is no longer required for the lawful purpose(s) for which it was obtained.With your consent ,any data we use for this purpose will be kept with us until you notify us that you no longer wish to receive this data unless we request your consent to store it for a longer period.<br><br><strong>5. Cross-border Transfer of Personal data</strong><br><br>Generally, we will process your personal data in the country/region where you use our products or services. However, we may transfer your personal data to china that may have different laws for the protection of personal data. <br><br><strong>6. Breach Notification</strong><br> <br>In line with the GDPR, where a breach is known to have occurred which is likely to result in a risk to the rights and freedoms of individuals, the relevant Data Protection Authority (DPA) will be informed within 72 hours, unless the personal data breach is unlikely to result in a risk to the rights and freedoms of natural persons. Where the notification to the supervisory authority is not made within 72 hours, Sangfor inform the supervisory authority of the reasons for the delay.This will be managed in accordance with our Information Security Incident Response Procedure which sets out the overall process of handling information security incidents.<br><br><strong>7.&nbsp; Update of this Policy</strong><br><br>This privacy policy may change from time to time inline with legislation or industry developments. We will not explicitly inform our clients or website users of these changes. Instead, we recommend that you check this page occasionally for any policy changes. <br><br><strong>8. Contact Us</strong><br><br>If you have any question about this Policy, or have any request or query for your personal data, please send an email to marketing@sangfor.com to contact us.</p></div></div>
+<style type="text/css"> .foot_nav h3{font-size:16px;color:#666;margin-bottom:20px;font-weight:bold;} </style>
+<div class="foot w_bfb">
+	<div class="foot1 clearfix">
+    	<div class="foot_nav left clearfix">
+        	<ul class="pl0">
+            	<h3>Products</h3>
+            	<li><a href="http://www.sangfor.com/product/sxf-network-security-iam.html">Internet Access Management</a></li>
+				<li><a href="http://www.sangfor.com/product/sxf-network-security-ngaf.html">NGAF Firewall Platform</a></li>
+				<li><a href="http://www.sangfor.com/product/sxf-network-optimization-wano.html">WAN Optimization</a></li>
+				<li><a href="http://www.sangfor.com/product/sxf-virtualization-hci.html">Hyper-Converged Infrastructure</a></li>
+				<li><a href="http://www.sangfor.com/product/sxf-virtualization-virtual-desktop.html">Virtual Desktop (VDI)</a></li>
+				<li><a href="http://www.sangfor.com/product/sxf-virtualization-virtual-app.html">Virtual App (EasyConnect)</a></li>
+				<li><a href="http://www.sangfor.com/product/sxf-virtualization-application-delivery.html">Application Delivery</a></li>
+				<li><a href="http://www.sangfor.com/product/sxf-network-security-ssl.html">SSL VPN</a></li>
+				</ul>
+            <!-- <ul>
+            	<h3>Solutions</h3>
+                <li><a href="/industry/com.html">Enterprises</a></li>
+                <li><a href="/industry/fin.html">Finance & Banking</a></li>
+                <li><a href="/industry/edu.html">Schools & Universities</a></li>
+                <li><a href="/industry/gov.html">Governments</a></li>
+                <li><a href="/industry/car.html">ISP</a></li>
+            </ul> -->
+            <ul>
+                <h3>Innovations</h3>
+                <li><a href="/innovations/neural-x.html">Neural-X</a></li>
+                <li><a href="/innovations/engine-zero.html">Engine Zero</a></li>
+                <li><a href="/innovations/bi.html">Business Intelligence</a></li>
+                <li><a href="/innovations/threat-intelligence.html">Threat Intelligence</a></li>
+                <li><a href="/innovations/zsand.html">ZSand</a></li>
+                <li><a href="/innovations/botnet-detection.html">Botnet Detection</a></li>
+                <li><a href="/innovations/srap.html">SRAP</a></li>
+            </ul>
+            <ul>
+            	<h3>Support</h3>
+                <li><a href="/service/intro.html">Case Handling Process</a></li>
+                <li><a href="/service/ram.html">RMA Process</a></li>
+                <li><a href="/service/warranty-policy.html">Warranty Policy</a></li>
+                <li><a href="/service/sangfor-care-service-guideline.html">C.S Guidelines</a></li>
+                <li><a href="/service/care-service-level.html">C.S Standard Services</a></li>
+                <li><a href="/service/care-service-guidelines.html">C.S Quick Overview</a></li>
+				<!-- <li><a href="/service/firmware.html">Firmware</a></li> -->
+                <li><a href="http://community.sangfor.com/plugin.php?id=service:download" target="_blank">Firmware</a></li>
+				<li><a href="/service/certification.html">Certification Program</a></li>
+				<li><a href="/service/faq.html">FAQ</a></li>
+                <li><a href="http://www.sangfor.com/service/privacy.html">Privacy Policy</a></li>
+            </ul>
+            <ul>
+            	<h3>Partners</h3>
+            	<li><a href="/cooperation/policy.html">Channel Partner Program</a></li>
+                <li><a href="/cooperation/apply.html">Become a Partner</a></li>
+                <li><a href="http://newcrm.sangfor.com/">Partner Portal</a></li>
+            </ul>
+            <ul>
+            	<h3>About Us</h3>
+                <li><a href="/about/company-profile.html">Company Profile</a></li>
+                <li><a href="/about/characteristics.html">Awards &amp; Achievements</a></li>
+            	<li><a href="/about/careers.html">Careers</a></li>
+                <li><a href="/source/news-product-news.html">News</a></li>
+                <li><a href="/source/news-press-release.html">Press Release</a></li>
+                <li><a href="/about/source-news-company-news.html">Market Activities</a></li>
+                <li><a href="/source/download.html">Resources</a></li>
+                <li><a href="/source/blog.html">Blog</a></li>
+                <li><a href="/about/contact-way.html">Contact Us</a></li>
+            </ul>
+        </div>
+        <div class="foot_con right">
+        	<h3>Our Social Networks</h3>
+            <div class="footerIcon">
+                <a href="https://www.facebook.com/Sangfor"><img src="/Application/Home/View/default/images/footer-icon-1.png"></a>
+                <a href="https://www.linkedin.com/company/sangfor-technologies"><img src="/Application/Home/View/default/images/footer-icon-2.png"></a>
+                <a href="https://twitter.com/SANGFOR"><img src="/Application/Home/View/default/images/footer-icon-3.png"></a>
+                <a href="http://www.youtube.com/user/SangforTechnologies"><img src="/Application/Home/View/default/images/footer-icon-4.png"></a>
+                <a href="https://plus.google.com/102261915734031849536"><img src="/Application/Home/View/default/images/footer-icon-5.png"></a>
+            </div>
+            <h3>Global Service Center:</h3>
+            <div class="footerTel">
+                <i>+60 12711 7129 (7511)</i>
+                <p>
+                    <a href="mailto:sales@sangfor.com">
+                        <img src="/Application/Home/View/default/images/footer-mail.png" style="float:left;margin-right:5px;margin-top:3px;">
+                    </a>
+                    <a href="mailto:sales@sangfor.com">sales@sangfor.com</a><br>
+                    <a href="mailto:marketing@sangfor.com">marketing@sangfor.com</a>
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="foot2 text_center color_9">COPYRIGHT © 2000-2018 SANGFOR TECHNOLOGIES INC. ALL RIGHTS RESERVED.</div>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-15510522-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+</div>
+
+
+
+
+
+<!-- Start of LiveChat (www.livechatinc.com) code -->
+<script type="text/javascript">
+window.__lc = window.__lc || {};
+window.__lc.license = 9691255;
+(function() {
+  var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+  lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+})();
+</script>
+<!-- End of LiveChat code -->
+
+
+<div class="quick_links_wrap"><div class="quick_links_panel">
+<div id="quick_links" class="quick_links">
+    <a href="#top" class="return_top"><i class="top"></i><span>Top</span></a>
+    <a href="/about/contact-freetrial.html" class="my_qlinks" id="ce_free_banner"><i class="setting"></i><span>Free Trial</span></a>
+    <a href="/about/contact-way.html" class="ico_lx" id="ce_links_banner"><i class="lx"></i><span>Contact Us</span></a>
+    </div>
+    <div class="quick_toggle">
+        <a href="javascript:;" class="toggle" title="展开/收起">×</a>
+    </div>
+</div></div></body></html>
