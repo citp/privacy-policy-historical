@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freedom.to privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126232245id_/https%3A//freedom.to/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom.to privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009155023id_/https%3A//freedom.to/privacy) for the most accurate reproduction.*
 
 # Freedom | Privacy
 
-This Privacy Policy describes the policies of Eighty Percent Solutions Corporation regarding the information we collect or receive about our customers. It is applicable to the main Eighty Percent Solutions (http://80pct.com), Freedom Software (http://macfreedom.com, http://freedomapp.us, http://freedomforandroid.com, http://freedom.to), and Anti-Social (http://anti-social.cc) websites, as well as other interactive features, applications, services, or downloads that are operated by Eighty Percent Solutions Corporation and which are available through the websites produced and maintained by us ("site/s"). 
+This Privacy Policy describes the policies of Eighty Percent Solutions Corporation DBA Freedom.to regarding the information we collect or receive about our customers. It is applicable to the main Eighty Percent Solutions (http://80pct.com), Freedom Software (http://macfreedom.com, http://freedomapp.us, http://freedomforandroid.com, http://freedom.to), and Anti-Social (http://anti-social.cc) websites, as well as other interactive features, applications, services, or downloads that are operated by Eighty Percent Solutions Corporation and which are available through the websites produced and maintained by us ("site/s"). 
 
-We have established this privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information. For questions or concerns, we can always be contacted via email at support@80pct.com or via phone at +1-415-968-9172 (full contact information, including mailing address, is at the end of this policy). 
+We have established this privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information. For questions or concerns, we can always be contacted via email at support@freedom.to. 
 
 ###### Information Ownership, Collection and Use
 
@@ -68,10 +68,6 @@ Users who no longer wish to receive newsletters or promotional materials or have
 
 If you (a) wish to begin or end receipt of newsletters or promotional information (b) wish to update your user information, or (c) wish to opt in or out of any other service offered through the site, please contact our technical personnel using the following information. Please be sure to include your name and your user name (if applicable), but do not include any information regarding your password(s), if any. 
 
-Eighty Percent Solutions Corporation  
-Fred Stutzman, CIPP/US  
-321 West Rosemary Street  
-Chapel Hill, NC 27516, US  
-Telephone: 1-415-968-9172  
-Email: support@80pct.com  
-Last modified date: January 5, 2015. 
+Eighty Percent Solutions Corporation DBA Freedom.to  
+Email: support@freedom.to  
+Last modified date: April 3, 2018. 
