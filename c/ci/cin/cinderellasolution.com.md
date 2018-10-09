@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinderellasolution.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523025817id_/http%3A//cinderellasolution.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinderellasolution.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009103056id_/http%3A//cinderellasolution.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY — The Cinderella Solution
 
