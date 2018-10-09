@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stepbystep.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606053235id_/http%3A//www.stepbystep.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepbystep.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009205856id_/http%3A//www.stepbystep.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
