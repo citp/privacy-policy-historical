@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onthesnow.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930053748id_/http%3A//www.onthesnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthesnow.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009085048id_/https%3A//www.onthesnow.com/privacy) for the most accurate reproduction.*
 
-# Snow Report | Snow Totals | Cams | OnTheSnow
+# Ski Resort Stats | OnTheSnow
 
 Mountain News Corporation is strongly committed to protecting your privacy and providing a safe online experience for all of our users and subscribers while offering the highest quality publications and services to them. Because we gather certain types of information about and from users so that we can fulfill your requests and better serve your needs, we feel you should fully understand the terms and conditions surrounding the collection and use of this information. This privacy statement discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us online. We urge you to read the complete Online Privacy Policy below, as well as our Terms and Conditions of Use, and contact us if you have any questions, but offer this short summary to highlight key points.
 
@@ -76,9 +76,9 @@ Your Web browser offers so-called "cookies" which, if you allow their use, store
 
 **CrazyEgg**
 
-  * [](https://www.crazyegg.com/cookies/)[](https://www.crazyegg.com/cookies/)<https://www.crazyegg.com/cookies/> \- Cookies **  
+  * <https://www.crazyegg.com/cookies/> \- Cookies **  
 **
-  * [](https://www.crazyegg.com/opt-out/)[](https://www.crazyegg.com/opt-out/)<https://www.crazyegg.com/opt-out/> \- Opt Out
+  * <https://www.crazyegg.com/opt-out/> \- Opt Out
 
 
 
@@ -147,7 +147,7 @@ NREUM
 Some of our Web pages may contain electronic images known as Web beacons, which are also called single-pixel gifs. These images allow us to count users who have visited those pages and to deliver co-branded services. We also may include Web beacons in promotional e-mail messages or newsletters in order to count how many messages have been opened and acted upon. Web beacons are not used to access your personally identifiable information but they are a technique we use to compile aggregated statistics about our website usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. Some of our Web pages may also contain Web beacons placed there by our advertising partners to help us determine the effectiveness of our advertising campaigns.
 
 **WHAT ABOUT THIRD PARTY ADVERTISERS?**  
-Some of the banner ads displayed in our websites are provided by outside companies. These ads contain cookies and may also contain Web beacons. Unlike cookies and Web beacons used by Mountain News Corporation in content it controls at its Web sites, cookies or Web beacons received with banner ads are collected by our advertisers and we do not have access to this information. We use reputable third parties to serve some or all of the advertisements that are placed within our sites and they may use information (not including personally identifiable information) about your visits to our sites and other sites to assist in serving advertisements to you. They may share anonymous information with their clients such as date/time of the banner ad shown, the specific ad shown, the IP address, etc. Google/DoubleClick DFP is our third party ad server. If you would like to know more about their information gathering practices and "opt-out" procedures, please see [](http://www.google.com/policies/technologies/ads/)[](http://www.google.com/policies/technologies/ads/)<http://www.google.com/policies/technologies/ads/>
+Some of the banner ads displayed in our websites are provided by outside companies. These ads contain cookies and may also contain Web beacons. Unlike cookies and Web beacons used by Mountain News Corporation in content it controls at its Web sites, cookies or Web beacons received with banner ads are collected by our advertisers and we do not have access to this information. We use reputable third parties to serve some or all of the advertisements that are placed within our sites and they may use information (not including personally identifiable information) about your visits to our sites and other sites to assist in serving advertisements to you. They may share anonymous information with their clients such as date/time of the banner ad shown, the specific ad shown, the IP address, etc. Google/DoubleClick DFP is our third party ad server. If you would like to know more about their information gathering practices and "opt-out" procedures, please see <http://www.google.com/policies/technologies/ads/>
 
 **HOW CAN YOU CONTROL YOUR PERSONAL INFORMATION?**  
 We believe that choice in how and when you are contacted is key to customer satisfaction, so we offer several ways for you to update your contact information or change your preferences.
@@ -156,7 +156,7 @@ We believe that choice in how and when you are contacted is key to customer sati
 
 **2.**  You may unsubscribe to any of our online e-mail updates by following the unsubscribe instructions in the body of any message.
 
-**3.**  To Opt-out of of Google Interest Based Ads please see [](http://www.google.com/policies/technologies/ads/)[](http://www.google.com/policies/technologies/ads/)<http://www.google.com/policies/technologies/ads/>
+**3.**  To Opt-out of of Google Interest Based Ads please see <http://www.google.com/policies/technologies/ads/>
 
 **4.**  You may write to us and update your contact information or ask that we not share your personal contact information with third parties at:
 
