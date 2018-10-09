@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeef.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607001937id_/https%3A//zeef.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeef.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009160115id_/https%3A//zeef.com/privacy) for the most accurate reproduction.*
 
 # Privacy | ZEEF
 
