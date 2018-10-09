@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the voya.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915054118id_/https%3A//www.voya.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voya.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009154505id_/https%3A//www.voya.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Voya Financial
+
+_Updated 6/1/2018_
 
 ### Facts
 
@@ -54,7 +56,7 @@ However, you can contact us at any time to limit our sharing.
 
 ### Questions?
 
-Call the telephone number listed on your statements and other correspondence or go to [http://voya.com/contact-us](https://web.archive.org/contact-us).
+Call the telephone number listed on your statements and other correspondence or [Contact Us](https://web.archive.org/contact-us).
 
 ### Who we are
 
@@ -121,6 +123,8 @@ If you live in California or Vermont, we will obtain your affirmative consent to
 
 ### Voya affiliates
 
-This notice is provided by: Directed Services LLC; Midwestern United Life Insurance Company; ReliaStar Life Insurance Company; ReliaStar Life Insurance Company of New York; Security Life Assignment Corp.; Security Life of Denver Insurance Company; Voya America Equities, Inc.; Voya Capital Corporation, LLC; Voya Financial, Inc.; Voya Financial Partners, LLC; Voya Funds; Voya Funds Services, LLC; Voya Institutional Plan Services, LLC; Voya Institutional Trust Company; Voya Insurance and Annuity Company; Voya Investments, LLC; Voya Investments Distributor, LLC; Voya Retirement Advisors, LLC; Voya Retirement Insurance and Annuity Company.
+This notice is provided by: Midwestern United Life Insurance Company; ReliaStar Life Insurance Company; ReliaStar Life Insurance Company of New York; Security Life Assignment Corp.; Security Life of Denver Insurance Company; Voya America Equities, Inc.; Voya Capital Corporation, LLC; Voya Financial, Inc.; Voya Financial Partners, LLC; Voya Funds; Voya Funds Services, LLC; Voya Institutional Plan Services, LLC; Voya Institutional Trust Company; Voya Investments, LLC; Voya Investments Distributor, LLC; Voya Retirement Advisors, LLC; Voya Retirement Insurance and Annuity Company.
 
-Note: If you are a client of Voya Financial Advisors, Inc., [click here](https://professionals.voya.com/stellent/public/168057.pdf) to view the Privacy Notice.
+Note: If you are a client of Voya Financial Advisors, Inc., [click here (PDF)](https://professionals.voya.com/stellent/public/168057.pdf) to view the Privacy Notice.
+
+Note: If you are a client of Voya Insurance and Annuity Company, [click here (PDF)](https://professionals.voya.com/stellent/public/VIAC_PRIVACY.pdf) to view the Privacy Notice.
