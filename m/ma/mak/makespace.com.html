@@ -1,62 +1,158 @@
-<!--The following is the downloaded HTML source of the makespace.com privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906033939id_/https%3A//makespace.com/p/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the makespace.com privacy policy that was archived on 2018-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181009023454id_/https%3A//makespace.com/p/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
-  <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQYFVFRQGwsAVFJaAwU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":1,"licenseKey":"4dca934730","agent":"js-agent.newrelic.com/nr-686.min.js","transactionName":"ZlYDN0cAX0FZUEBaXV8cJxZbAkVbV10bXllCQ08CRRFCHFteRx1EWFYWEA8SWF9IX1FDU1ZWEjxFAFZX","applicationID":"8003844","errorBeacon":"bam.nr-data.net","applicationTime":20}</script>
+  <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-spa-1099.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/s8LGj4t84DqAqs6HEQuUZfAsNNLH60j3/analytics.min.js"></script><script async="" src="//www.gstatic.com/wcm/loader.js"></script><script async="" src="https://fullstory.com/s/fs.js"></script><script type="text/javascript" async="" src="https://js.driftt.com/include/1580362200000/aa99ethz2ggu.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQYFVFRQGwsAVFJaAwU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(21),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{l?l-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(22),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",l=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(13),t(12),"addEventListener"in window&&t(6),c.xhrWrappable&&t(14),d=!0)}s.on("fn-start",function(t,e,n){d&&(l+=1)}),s.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&l>0&&(l-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,N=y.hash,this[u]=g.now()}function o(){M--,y.hash!==N&&i(0,!0);var t=g.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=g.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,p="cb"+s,l="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,g=t("loader");if(w[v]&&g.xhrWrappable){var b=t(10),x=t(11),E=t(8),O=t(6),P=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),S=j.get("tracer");t(15),g.features.spa=!0;var N,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(l,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),O.buffer([u]),P.buffer(["setTimeout"+c,"clearTimeout"+s,u]),T.buffer([u,"new-xhr","send-xhr"+s]),R.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),b.buffer([u]),x.buffer(["propagate",p,l,"executor-err","resolve"+s]),S.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+s),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+s),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),s=t(12),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",l="-start",h="-end",m="fn"+l,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(8);var b=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,e){var n=t[0];n instanceof b&&i("bst",[n,e,this.bstStart,g.now()])}),a.on(m,function(t,e,n){this.bstStart=g.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+l,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(24)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(21);e.exports=o;var a=window,s="fetch-",c=s+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,l="prototype";u&&d&&p&&(i(f,function(t,e){r(u[l],e,c),r(d[l],e,c)}),r(a,"fetch",s),o.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(s+"done",[null,e],n)}else o.emit(s+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(24)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){c.emit("jsonp-error",[],p),c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=s(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),c.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t("ee").get("jsonp"),f=t(24)(c);if(e.exports=c,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,l=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,l,"dom-"),f.inPlace(HTMLHeadElement.prototype,l,"dom-"),f.inPlace(HTMLBodyElement.prototype,l,"dom-"),c.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(24)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=s(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(24),a=t("ee").get("promise"),s=i(a),c=t(21),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),s=f.resolve(i);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this),t[1]=s(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),s.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=s(t[0],"cb-",this),t[1]=s(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(24)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(24)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(24)(u),p=NREUM.o,l=p.XHR,h=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var b=window.XMLHttpRequest=function(t){var e=new l(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(l,b),b.prototype=l.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(e.cat=c.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),l=t(19),h=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,l&&(l>34||l<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var s=0;s<d;s++)e.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(21),s=t(22),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],21:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],22:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],23:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],24:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(22),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],s])}u(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],s),d}finally{u(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<e.length;c++)s=e[c],a=t[s],r(a)||(t[s]=n(a,f?s+o:o,i,s))}function u(n,r,o){if(!c||e){var i=c;c=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}c=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),s=m(n),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[n]];return d&&d.push([b,n,r,a]),a}}function l(t,e){y[t]=m(t).concat(e)}function h(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},b={on:l,addEventListener:l,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var s="nr@context",c=t("gos"),f=t(21),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(g,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(21),u=t("ee"),d=t(20),p=window,l=p.document,h="addEventListener",m="attachEvent",v=p.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:v,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1099.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(17),l[h]?(l[h]("DOMContentLoaded",i,!1),p[h]("load",r,!1)):(l[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(23)},{}]},{},["loader",2,15,5,3,4]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":1,"licenseKey":"4dca934730","agent":"","transactionName":"ZlYDN0cAX0FZUEBaXV8cJxZbAkVbV10bXllCQ08CRRFCHFteRx1EWFYWEA8SWF9IX1FDU1ZWEjxFAFZX","applicationID":"8003844","errorBeacon":"bam.nr-data.net","applicationTime":114}</script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MakeSpace - Privacy Principles</title>
-  <link rel="stylesheet" href="https://cdn.makespace.com/s/c/css/c8148bdc1a9c.css" type="text/css">
-  <script type="text/javascript" src="//fast.fonts.net/jsapi/675f2127-1210-46b5-9302-eefa2ce7be40.js"></script>
-
-  <meta property="og:image" content="https://cdn.makespace.com/s/img/common/logo_square_inv.png">
+  <title>MakeSpace - Privacy Policy</title>
+  <link rel="stylesheet" href="https://cdn.makespace.com/s/c/css/785f1bbbb9d2.css" type="text/css">
+  <script async="" type="text/javascript" src="//fast.fonts.net/jsapi/675f2127-1210-46b5-9302-eefa2ce7be40.js"></script>
+  
+  <script type="text/javascript" src="https://cdn.makespace.com/s/js/tod/tod-latest.min.js"></script>
+  
+  <meta property="og:image" content="https://cdn.makespace.com/s/img/common/makespace-was-here-blue.jpg">
   <meta property="twitter:account_id" content="4503599627436986">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@MakeSpace">
   <meta name="twitter:title" content="MakeSpace, Your Closet In The Cloud - Never visit a storage unit again">
-  <meta name="twitter:description" content="MakeSpace is your on-demand storage option. Never visit a storage unit again. You pack. We pickup, store, and redeliver. Starting at $6.25/month.">
-  <meta name="twitter:image:src" content="https://cdn.makespace.com/s/img/promo/flyer-C.png">
-  <meta name="description" content="MakeSpace is your on-demand storage option. Never visit a storage unit again. You pack. We pickup, store, and redeliver. Starting at $6.25/month.">
-  <link rel="publisher" href="https://plus.google.com/+Makespace/"><script type="text/javascript">
-  SENV = {
-    user: {
-      auth: false,
-      ip_addr: '207.241.229.212'
-    },
-    env: 'prod',
-    serverDate: new Date('2015-09-06T03:39:39.635930+00:00'),
-    clientDate: new Date(),
-    rel: 353,
-    siteUrl: 'https://makespace.com/',
-    staticUrl: 'https://cdn.makespace.com/s/',
-    mediaUrl: 'https://cdn.makespace.com/m/',
-    sentryDsn: 'https://84daf3a0b20b4bba9846bbf24b2e4c00@app.getsentry.com/30171'
-  };
-
+  <meta name="twitter:description" content="MakeSpace is your on-demand storage option. Never visit a storage unit again. You pack. We pick up, store, and redeliver.">
+  <meta name="twitter:image:src" content="https://cdn.makespace.com/s/img/common/makespace-was-here-blue.jpg">
+  <meta name="description" content="MakeSpace is your on-demand storage option. Never visit a storage unit again. You pack. We pick up, store, and redeliver.">
   
+  
+    <meta name="apple-itunes-app" content="app-id=956293592">
+  
+  <link rel="publisher" href="https://plus.google.com/+Makespace/">
+  <link rel="canonical" href="https://makespace.com/p/legal/privacy/">
 
-  SENV.user.flags = {"booking":true};
+  <script type="text/javascript">
+  // https://app.drift.com/settings/livechat #
+  // Start of Async Drift Code
+  !function() {
+    var t;
+    if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0,
+    t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on", "ready" ],
+    t.factory = function(e) {
+      return function() {
+        var n;
+        return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
+      };
+    }, t.methods.forEach(function(e) {
+      t[e] = t.factory(e);
+    }), t.load = function(t) {
+      var e, n, o, i;
+      e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"),
+      o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js",
+      n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
+    });
+  }();
+  drift.SNIPPET_VERSION = '0.3.1';
+  drift.load('aa99ethz2ggu');
+
+  // Qualaroo (integrated via Segment)
+  var _kiq = _kiq || [];
+
+// <!-- Fullstory integration -->
+  window['_fs_debug'] = false;
+  window['_fs_host'] = 'fullstory.com';
+  window['_fs_org'] = '5XHKB';
+  window['_fs_namespace'] = 'FS';
+
+  (function(m,n,e,t,l,o,g,y){
+      if (e in m) {if(m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].');} return;}
+      g=m[e]=function(a,b){g.q?g.q.push([a,b]):g._api(a,b);};g.q=[];
+      o=n.createElement(t);o.async=1;o.src='https://'+_fs_host+'/s/fs.js';
+      y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
+      g.identify=function(i,v){g(l,{uid:i});if(v)g(l,v)};g.setUserVars=function(v){g(l,v)};
+      g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v)};
+      g.clearUserCookie=function(c,d,i){if(!c || document.cookie.match('fs_uid=[`;`]*`[`;`]*`[`;`]*`')){
+      d=n.domain;while(1){n.cookie='fs_uid=;domain='+d+
+      ';path=/;expires='+new Date(0).toUTCString();i=d.indexOf('.');if(i<0)break;d=d.slice(i+1)}}};
+  })(window,document,window['_fs_namespace'],'script','user');
+  /* Adwords phone snippet */
+  (function(a,e,c,f,g,b,d){var h={ak:"979710379",cl:"NnrVCOWl6mMQq-OU0wM"};a[c]=a[c]||function(){(a[c].q=a[c].q||[]).push(arguments)};a[f]||(a[f]=h.ak);b=e.createElement(g);b.async=1;b.src="//www.gstatic.com/wcm/loader.js";d=e.getElementsByTagName(g)[0];d.parentNode.insertBefore(b,d);a._googWcmGet=function(b,d,e){a[c](2,b,h,d,null,new Date,e)}})(window,document,"_googWcmImpl","_googWcmAk","script");
+  (function () {
+    SENV = {
+      user: {
+        auth: false,
+        ip_addr: '207.241.229.237'
+      },
+      env: 'prod',
+      serverDate: new Date('2018-10-09T02:34:55.162150+00:00'),
+      clientDate: new Date(),
+      siteUrl: 'https://makespace.com/',
+      staticUrl: 'https://cdn.makespace.com/s/',
+      mediaUrl: 'https://cdn.makespace.com/m/',
+      sentryDsn: 'https://84daf3a0b20b4bba9846bbf24b2e4c00@app.getsentry.com/30171',
+      city: 'nyc',
+      CRM_API_URL: 'https://sales.mksp.io/api/v1',
+      SITE_API_URL: 'https://makespace.com/api',
+      GOOGLE_API_KEY: 'AIzaSyAh7fPEC3hhrFIfcr3LqN4XCuTdEIXboE8',
+      mkspSession: 'ses_zFYK6BXPXKdhBFeUdjfjqQ',
+      hideOverlays: "False" === "True",
+    };
+
+    
+    SENV.experiments = [];
+
+    var analytics = window.analytics = window.analytics || [];
+    if (!analytics.initialize)if (analytics.invoked)window.console && console.error && console.error("Segment snippet included twice."); else {
+      analytics.invoked = !0;
+      analytics.methods = ["trackSubmit", "trackClick", "trackLink", "trackForm", "pageview", "identify", "group", "track", "ready", "alias", "page", "once", "off", "on"];
+      analytics.factory = function (t) {
+        return function () {
+          var e = Array.prototype.slice.call(arguments);
+          e.unshift(t);
+          analytics.push(e);
+          return analytics
+        }
+      };
+      for (var t = 0; t < analytics.methods.length; t++) {
+        var e = analytics.methods[t];
+        analytics[e] = analytics.factory(e)
+      }
+      analytics.load = function (t) {
+        var e = document.createElement("script");
+        e.type = "text/javascript";
+        e.async = !0;
+        e.src = ("https:" === document.location.protocol ? "https://" : "http://") + "cdn.segment.com/analytics.js/v1/" + t + "/analytics.min.js";
+        var n = document.getElementsByTagName("script")[0];
+        n.parentNode.insertBefore(e, n)
+      };
+      analytics.SNIPPET_VERSION = "3.0.1";
+      if ("s8LGj4t84DqAqs6HEQuUZfAsNNLH60j3".length > 0 && (SENV.env != 'prod' || ['108.29.37.223', '208.91.121.202', '69.255.217.147', '158.106.192.34', '72.89.161.237'].indexOf(SENV.user.ip_addr) === -1)) {
+        analytics.load("s8LGj4t84DqAqs6HEQuUZfAsNNLH60j3");
+      }
+      analytics.page();
+    }
+  }());
+
+ // Integration with MKSP Session Service (Tod + Copper)
+  document.onreadystatechange = function() {
+    if (document.readyState === 'complete') {
+      if (window.tInit) {
+        window.tod = window.tInit({
+          city: SENV.city,
+          testing: SENV.env !== 'prod',
+        });
+      } else {
+        window.tod = {};
+      }
+    }
+  };
 </script>
 
-<script type="text/javascript" src="https://cdn.makespace.com/s/c/js/e95848ed2843.js"></script>
-<script src="//cdn.optimizely.com/js/2587331242.js"></script>
-<script type="text/javascript">
-$(function () {
-  window['optimizely'] = window['optimizely'] || [];
-  s = window['optimizely'].data.state;
-  for (var key in SENV.experiments) {
-    if( !s.variationMap[key] || s.variationMap[key] != SENV.experiments[key]) {
-      window['optimizely'].push(["bucketVisitor", key, SENV.experiments[key]]);
-    }
-  }
-});
-</script></head>
-<body>
+
+</head>
+
+
+<body class="">
   <script>
      window.fbAsyncInit = function() {
       FB.init({
         appId      : '1614405852175396',
         xfbml      : true,
-        version    : 'v2.4'
+        version    : 'v2.6'
       });
     };
 
@@ -67,223 +163,353 @@ $(function () {
        js.src = "//connect.facebook.net/en_US/sdk.js";
        fjs.parentNode.insertBefore(js, fjs);
      }(document, 'script', 'facebook-jssdk'));
-  </script><div class="full-overlay mobile-overlay">
-	<span class="mobile-overlay-close js-overlay-hide" data-to-app="False"></span>
-	<h2 class="mobile-overlay-header">Schedule your next appointment and snap photos of your stuff on your iPhone!</h2>
-	<a href="https://itunes.apple.com/hr/app/makespace-your-closet-in-cloud/id956293592?mt=8" class="app-store-button mobile-overlay-app-button js-overlay-hide" data-to-app="True" title="MakeSpace - Your Closet in the Cloud on the App Store"></a>
-	<a href="https://itunes.apple.com/hr/app/makespace-your-closet-in-cloud/id956293592?mt=8" class="mobile-overlay-app-image js-overlay-hide" data-to-app="True" title="MakeSpace - Your Closet in the Cloud on the App Store"></a>
+  </script>
 
-</div><div class="nav-bar-wrapper">
-  <div class="new-content-container">
-   <nav class="top-bar flex" data-topbar="" role="navigation">
-      <a href="/" class="brand">
-        <img src="https://cdn.makespace.com/s/img/common/makespace-logo@2x.png" alt="MakeSpace On-Demand Mini Storage Logo">
-      </a>
-      <section class="top-bar-section flex">
-        <ul class="header-nav flex">
-          <div class="header-general-links show-for-large-up">
-            <li><a href="/services/storage-local/">Services</a></li>
-            <li><a href="/faq/" data-title="FAQ"> FAQ</a></li>
-            <li><a href="/about/team/" data-title="About"> About</a></li>
-            <li><a href="/about/contact/" data-title="Contact"> Contact</a></li>
+
+<div class="base-modal-wrapper" id="acquisition-modal">
+  <div class="base-modal acquisition-modal">
+    <div class="acquisition-modal-wrapper">
+      <span class="base-modal-close js-modal-close common-modal-close"><img src="https://cdn.makespace.com/s/img/dashboard/close@2x.png" alt="Clickable X to close modal."></span>
+      <div class="acquisition-modal-header-container">
+        <h4 class="light-header--blue acquisition-modal-header">Welcome Back!</h4>
+        <p class="light-gray">Here is what you previously selected during your last visit, so you can easily pick up where you left off.</p>
+      </div>
+      <form method="POST" action="/book/" class="js-cart-form">
+        <input type="hidden" name="csrfmiddlewaretoken" value="GZBmhf8HFsTdWCsQrXk3afyBIyjP6XB3h8FlB5WOaSliOfMmPDagcbBoe3XhNGYj">
+        <div class="acquisition-cart-details flex">
+          <div class="cart-plan-details flex">
+            <span class="cart-plan-img"></span>
+            <div class="modal-plan-details-container flex">
+              <p class="dark-blue bold js-my-plan"></p>
+              <div class="header-plan-description flex">
+                <span class="light-gray acquisition-storage-plan flex">
+                  <span>
+                    Storage: <span class="cart-plan-name"></span> (<span class="cart-plan-cuft"></span>ft<sup class="acquisiton-cuft">3</sup>)
+                  </span>
+                  <span class="acquisition-term"><span class="cart-plan-term"></span> Month Term</span>
+                </span>
+                <span class="brandgreen bold">$<span class="cart-plan-price">--</span>/mo</span>
+              </div>
+            </div>
+          </div>
+          <div class="cart-plan-supplies flex">
             
+  <article class="calculator-item flex">
+    <input type="number" name="bins" id="storage-bins" class="js-item request-item-input" min="0" pattern="[0-9]*" value="0">
+    
+      <span class="calculator-icon-bins"></span>
+    
+
+    <label for="storage-bins" class="calculator-label js-item-label">MakeSpace Bin</label>
+  </article>
 
           </div>
-
-          
-            <div class="sign-up-links flex">
-              <li class="large-sign-up-link show-for-medium-up">
-                <a href="/account/signup/" class="brand-link" id="desktop-sign-up">Sign Up</a>
-              </li>
-              <li class="desktop large-log-in-link">
-                <a href="/account/login/" class="brand-link header-log-in show-for-medium-up" id="desktop-log-in">Log In</a>
-           
-
-       
-              <input type="checkbox" id="show-menu" role="button" class="hamburger-menu">
-              <label for="show-menu" class="show-hamburger-menu show-for-small-only" title="My Profile"><span class="header-hamburger-icon"></span></label>
-              
-                <ul class="dropdown">
-              
-                <li class="menu-small-always menu-has-logo">
-                  <span class="hamburger-makespace-logo"></span>
-                </li>
-                <li class="menu-authenticated hamburger-menu-header">
-                  <h6 class="hamburger-menu-username">
-                    
-                      Profile
-                      
-                  </h6>
-                </li>
-               
-                <li class="menu-authenticated"><a href="/schedule/"> Schedule a Pickup</a></li>
-                <li class="menu-authenticated"><a href="/stuff/">My Stuff</a></li>
-                <li class="menu-authenticated"><a href="/account/"> My Account</a></li>
-                <li class="menu-authenticated"><a href="/account/logout/"> Log Out</a></li>
-                <li class="menu-not-authenticated"><a href="/account/login/"> Log In</a></li>
-                <li class="menu-not-authenticated"><a href="/account/signup/"> Sign Up</a></li>
-                <li class="menu-small-always menu-small-divider"><a href="/services/storage-local/">Services</a></li>
-                <li class="menu-small-always"><a href="/faq/">FAQ</a></li>
-                <li class="menu-small-always"><a href="/about/team/">About</a></li>
-                <li class="menu-small-always"><a href="/about/contact/">Contact</a></li>
-                
-
-              </ul>
-            </li>
-          </div>
-        </ul>
-      </section>
-    </nav>
+        </div>
+        <input type="hidden" class="fulfiller" name="fulfiller_xid">
+        <input type="hidden" class="plan-slug" name="plan_slug">
+        <input type="hidden" class="protection-plan" name="protection_plan">
+        <input type="hidden" class="storage-term" name="storage_term">
+        <input type="hidden" class="pickup-fees" name="pickup_fees">
+        <input type="hidden" name="flow_reference" value="acquisition-modal">
+        <div class="acquisition-button-container flex">
+          <button type="button" class="acquisition-button acquisition-restart js-restart">Select a Different Plan</button>
+          <button type="submit" class="acquisition-button">Continue With Selection</button>
+        </div>
+      </form>
+    </div>
   </div>
-  <nav class="medium-header-links new-content-container show-for-medium-only">
-    <ul class="sub-header-nav flex">
-      <li><a href="/services/storage-local/">Services</a></li>
-      <li><a href="/faq/" data-title="FAQ">FAQ</a></li>
-      <li><a href="/about/team/" data-title="About">About</a></li>
-      <li><a href="/about/contact/" data-title="Contact">Contact</a></li>
+  <div class="modal-overlay modal-overlay--dark acquisition-modal-overlay js-modal-close"></div>
+</div>
+
+<div id="important-notice-modal-container"></div>
+
+
+
+
+  
+
+
+<header>
+  <div class="header-wrapper">
+    <a class="logo inline" href="/"></a>
+    <div class="menu-bar inline">
+      <a class="menu-item" href="/pricing">
+        Pricing
+      </a>
+      <a class="menu-item" href="/features">
+        Features
+      </a>
       
-    </ul>
-  </nav>
-</div>
-<div id="mksp-alerts">
+        <a class="menu-item" href="/account/login">
+          Login
+        </a>
+      
+      <a class="menu-item menu-item-mobile green ganumber" href="tel:855-758-3293">
+        855-758-3293
+      </a>
+      
+        <div class="button-book ws-button inline">
+          <a href="/book">
+            <span class="button-text">
+              Book Today
+            </span>
+          </a>
+        </div>
+      
+    </div>
+  </div>
+
+  <div class="header-mobile">
+    <div class="header-mobile-burger header-item inline" id="header-mobile-burger"></div>
+    <a class="logo header-mobile-logo inline" href="/"></a>
+    <a class="header-mobile-account header-item inline" href="/account"></a>
+
+    <div class="header-mobile-open" id="header-mobile-open">
+      <div class="header-dropdown-element-mobile">
+        <a class="header-link-mobile" href="/pricing">Pricing</a>
+        <a class="header-link-mobile" href="/features">Features</a>
+        
+          <a class="header-link-mobile" href="/account/login">Login</a>
+        
+      </div>
+      <div class="header-buttons-mobile">
+        <div class="button-white button-header-mobile">
+          <a class="button-text green" href="tel:855-758-3293">
+            Call <span class="ganumber">855-758-3293</span>
+          </a>
+        </div>
+        
+          <a href="/book" class="ws-button button-header-mobile">
+            Book Today
+          </a>
+        
+      </div>
+    </div>
+  </div>
+</header>
+
+
+
+  <div id="mksp-alerts">
     
   </div>
 
 
-<div class="new-content-container simple-page">
 
-  <div class="row simple-container">
-    <div class="small-12 medium-10 medium-offset-1 columns">
-      <h3 class="text-center"> </h3>
+<div class="content-no-header">
+	<div class="new-content-container simple-page privacy">
+		<div class="row simple-container">
+			<div class="small-12 medium-10 medium-offset-1 columns">
+				<h1>PRIVACY POLICY</h1>
 
-      <h2 class="text-center">Privacy Principles</h2>
+<p>Effective Date: September, 2018</p>
 
-    <h6 class="text-center simple-subheader">
-      Convenient NYC Storage. MakeSpace is taking the "self" out of self storage.</h6>
-    
-    <div>
-      <p>MakeSpace knows you value your privacy.  We think you should know about how we gather and use information about you.  By using MakeSpace (the website, and any apps) you're agreeing to our Privacy Principles.</p>
+<p>At MakeSpace, we know you care how your personal information is used and shared, and we take your privacy seriously.  Please read the following to learn more about our Privacy Policy.</p>
 
-<h2>Principle 1:  Gather What We Reasonably Need</h2>
+<p>By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent to our collection, use, and sharing of your information in the following ways.</p>
 
-<p>MakeSpace will collect information about you in a few ways.  You might submit information to us, like your name, email address, mailing address, or phone number.  When you pay for MakeSpace, you'll probably give us additional information like your credit card number (or eventually, Paypal ID). </p>
+<p>Remember, your use of MakeSpace’s Services is at all times subject to the <a href="https://makespace.com/p/legal/terms/">Terms of Service</a> that incorporates this Privacy Policy.  Any terms we use in this Policy without defining them have the definitions given to them in the <a href="https://makespace.com/p/legal/terms/">Terms of Service</a>.  </p>
 
-<p>For this kind of information, we will only collect what we think we need to make our service the best it can be for you — if we ask for this kind of personally identifiable information, it's because we think it will be useful (or necessary) in delivering MakeSpace to you.  You'll know we have this information because either a) you will give it to us directly, or b) you'll expressly authorize someone else to give it to us. </p>
+<p><strong>What does this Privacy Policy cover?</strong></p>
 
-<p>We also passively gather basic web-browsing data, that is used to provide us with aggregate reporting about where our visitors are coming from, what platforms they're using, and how we can better serve up MakeSpace.  This includes things like your IP address, ISP, internet browser, and certain system settings that are generally made available to any website you visit.  This data is aggregated and anonymized.  For example, if suddenly we see that all of our users have larger screen resolutions, we might consider offering an optimized version of MakeSpace for larger monitors. </p>
+<p>This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you access or use our Services, but not to the practices of companies we don’t own or control, or people who we don’t manage.  We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our services, to allow you to set up a user account and profile, to contact you, to fulfill your requests for certain products and services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below.</p>
 
-<p>In general, if we are collecting data, it is so we can use that data in some way (be it aggregated or individualized, where appropriate) to deliver MakeSpace to you and to build a better MakeSpace.  </p>
+<p>As noted in the <a href="https://makespace.com/p/legal/terms/">Terms of Service</a>, we do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at support@makespace.com.</p>
 
-<h2>Principle 2:  Sharing is (only for) Caring</h2>
+<p><strong>Will MakeSpace ever change this Privacy Policy?</strong></p>
 
-<p>We aren't here to make money from your personal information.  If we share any information about you with third parties, it is solely for purposes of allowing MakeSpace to work, as otherwise required by law, or in the case of exigent circumstances, in our best judgment as to the right call.  Exigent circumstances include potential threats to human life, public health or safety, danger to physical property, or other unforeseen circumstances.  (We can't think of everything.  But we promise the exception is not going to swallow the rule).</p>
+<p>Because we’re continuously trying to improve our Services, we may need to change this Privacy Policy from time to time. We will alert you to changes by placing a notice on MakeSpace.com, by sending you an email, and/or by some other means. Please note that if you either opted to not receive legal notice emails from us or haven’t provided us with your email address, those legal notices will still govern your use of the Services, and you are still responsible for reading and understanding them.  If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes.  The use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected.</p>
 
-<p>We may need to rely on other companies to deliver parts of MakeSpace — from web storage and services (where your information may be stored in or pass through another web service), to warehouse storage (physical storage).  We will not permit other companies to use any information about you in a way that we wouldn't.  Where feasible or required, your data will be encrypted.  Your physical objects will similarly be reasonably secured.</p>
+<p><strong>What Information does MakeSpace Collect?</strong></p>
 
-<p>If we sell MakeSpace (the company) or the assets of MakeSpace, or if we merge with another company, or if we go bankrupt, that transaction generally involves the sale of customer information.  Under those circumstances, the acquirer of MakeSpace (or MakeSpace's assets) will be bound by these Principles.</p>
+<p><em>Information You Provide to Us:</em></p>
 
-<p>If for whatever reason we would share information about you with third parties in a way that we do not think is covered by this Principle, we will notify you in advance and give you a reasonable opportunity to say no.</p>
+<p>We receive and store any information you knowingly provide to us.  For example, through the registration process on our website, through our storage specialists over the phone and/or through your account settings, we may collect Personal Information such as your name, email address, home address, phone number, and third-party account credentials (for example, your log-in credentials for Facebook or Google). If you provide your third-party account credentials to us or otherwise sign in to the Services through a third party site or service, you understand some content and/or information in those accounts (“Third Party Account Information”) may be transmitted into your account with us if you authorize such transmissions, and that Third Party Account Information transmitted to our Services is covered by this Privacy Policy. For example, MakeSpace will collect your name and email address to identify your account when logging in using Facebook or Google. Certain information may be required to register with us or to take advantage of some of our features.  </p>
 
-<h2>Principle 3:  No Unfair Surprise</h2>
+<p>We may communicate with you if you provide us the means to do so. For example, if you provide us your email address, we may send you promotional emails on behalf of other businesses, or email you about your use of the Services. Also, we may receive a confirmation when you open an email from us. This confirmation helps us make our communications with you more interesting and improve our services. If you do not want to receive communications from us, please indicate your preference by updating <a href="https://makespace.com/account/">your account settings on the web</a> or by clicking the unsubscribe link at the bottom of any of our emails.</p>
 
-<p>All of the rules of using MakeSpace are posted on our website.  These Principles and our Terms of Use are meant to be clear — and when in doubt, ask us.  Your use of MakeSpace will be governed by these Principles and our Terms.  (And our lawyers made us note that there are things like "limitations on damages, disclaimers of warranties, and choice of law" that are important legal issues involved if we should ever have a dispute.  We hope we don't, but you need to read this stuff in case we do.)</p>
+<p><em>Information Collected Automatically:</em></p>
 
-<p>You may have the ability to post links to other sites on MakeSpace.  You may not use MakeSpace as part of any attempt to market or grow linkshare or membership for other websites without our express consent, which we can withhold for any reason (or no reason at all).  (We don't want people finding out a clever way to spam using MakeSpace).</p>
+<p>Whenever you interact with our Services, we automatically receive and record information on our server logs from your browser or device, which may include your IP address, geolocation data, device identification, “cookie” information, the type of browser and/or device you’re using to access our Services, and the page or feature you requested. “Cookies” are identifiers we transfer to your browser or device that allow us to recognize your browser or device and tell us how and when pages and features in our Services are visited and by how many people.  You may be able to change the preferences on your browser or device to prevent or limit your device’s acceptance of cookies, but this may prevent you from taking advantage of some of our features.  </p>
 
-<p>In general, you might see links to MakeSpace on other sites, or the occasional link from MakeSpace to another site.  We don't control other sites, and we don't endorse them.  We can't promise you they'll respect your privacy — in fact we can't promise you anything about them.  If you see abusive use of MakeSpace (the site) or our name on other websites, please let us know as soon as possible at info@makespace.com.</p>
+<p>If you click on a link to a third party website or service, a third party may also transmit cookies to you. Again, this Privacy Policy does not cover the use of cookies by any third parties, and we aren’t responsible for their privacy policies and practices.  Please be aware that cookies placed by third parties may continue to track your activities online even after you have left our Services, and those third parties may not honor “Do Not Track” requests you have set using your browser or device.</p>
 
-<p>From time to time (de vez en cuando) we might change up these Privacy Principles.  Especially if we get lots of questions that indicate something is unclear. The copy of the Principles in place at the time we use a given piece of information is what controls.  (In other words, the current Principles is "super effective" but the old version of the Principles is "not very effective").  If we change the Principles, we'll let you know by posting an announcement, or sending you an email or SMS depending on your preferences.  (Western Union's last telegram was sent in 2006, and we're not too handy with smoke signals, so alternative means of communication are unlikely, but we're always open to ideas).  You will also be notified of the changes the first time you log in to MakeSpace after the changes take effect.  (And continuing to use MakeSpace means you are OK with the changes).</p>
+<p>We may use this data to customize content for you that we think you might like, based on your usage patterns.  We may also use it to improve the Services – for example, this data can tell us how often users use a particular feature of the Services, and we can use that knowledge to make the Services interesting to as many users as possible.   </p>
 
-<p>By using MakeSpace, you agree that we can send you important notices by email and by posting them to our site, and that if there is a legal requirement that something be given to you in writing, our electronic communication (be it on our site or via email) meets that requirement.</p>
+<p><em>Information Collected From Other Websites and Do Not Track Policy:</em></p>
 
-<h2>Questions, Comments, Qualms, Concerns, or Suggestions?</h2>
+<p>Through cookies we place on your browser or device, we may collect information about your online activity after you leave our Services.  Just like any other usage information we collect, this information allows us to improve the Services and customize your online experience, and otherwise as described in this Privacy Policy.  Your browser may offer you a “Do Not Track” option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and across different websites. Our Services do not support Do Not Track requests at this time, which means that we collect information about your online activity both while you are using the Services and after you leave our Services.</p>
 
-<p>If you have any questions or concerns regarding privacy, please send us a detailed message at info@makespace.com. We will make every effort to resolve your concerns.</p>
+<p><strong>Will MakeSpace Share Any of the Personal Information it Receives?</strong></p>
 
-<p>Effective Date: 2013. Samuel Rosen, 120 Walker Street #5E, New York, NY 10013</p>
+<p>We may de-identify your Personal Information so that you are not identified as an individual, and provide that information to our partners. We may also provide aggregate usage information to our partners (or allow partners to collect that information from you), who may use such information to understand how often and in what ways people use our Services, so that they, too, can provide you with an optimal online experience. However, we never disclose aggregate usage or de-identified information to a partner (or allow a partner to collect such information) in a manner that would identify you as an individual person, provided certain Personal Information may be transferred in connection with business transfers, as described below. We may share your Personal Information with third parties as described in this section:</p>
 
-    </div>
-   </div>
+<p>We use analytics to help analyze how our users use the Services. As part of this effort, we use Third-Party software development kits (“SDKs”)  to monitor and analyze the use of our Service, such as Google Analytics, Mixpanel and FullStory, on our websites. Third-Party SDKs may allow Third Parties including advertisers to collect your personal information to provide content that is more relevant to you. SDKs may use cookies to collect information such as how often our users visit the Services, what pages they visit, and what other sites they used prior to coming to the Services. We may use the information we get from SDKs to improve our Services or to send you promotional messages about our Services. Some data collected by SDKs is shared with other services; for example, Google may use the collected data to contextualize and personalize the ads of its own advertising network.</p>
+
+<p>For more information on the privacy practices of Google, please visit the <a href="https://policies.google.com/privacy">Google Privacy &amp; Terms web page</a>.</p>
+
+<p>For more information on what type of information Mixpanel collects, please visit the <a href="https://mixpanel.com/terms/">Terms of Use page of Mixpanel</a>. You can prevent Mixpanel from using your information for analytics purposes by opting-out. To opt-out of Mixpanel service, please visit <a href="https://mixpanel.com/optout/">this page</a>.</p>
+
+<p>For more information on what type of information FullStory collects, please visit the <a href="https://www.fullstory.com/legal/terms-and-conditions/">Terms of Use page of FullStory</a>. You can prevent FullStory from using your information for analytics purposes by opting-out. To opt-out of FullStory service, please visit <a href="https://fullstory.com/optout/">this page</a>.</p>
+
+<p>We may deliver a file to you through the Services (known as a “web beacon”) from an ad network.  Web beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers.  Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites.  Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit, or set their own cookies, just as if you had requested a web page from their site.  You may be able to opt-out of web beacon tracking conducted by third parties through our Services by adjusting the Do Not Track settings on your browser; please note that we don’t control whether or how these third parties comply with Do Not Track requests.</p>
+
+<p><em>Affiliated Businesses:</em></p>
+
+<p>In certain situations, businesses or third party websites we’re affiliated with may sell or provide products or services to you through or in connection with the Services (either alone or jointly with us).  You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such business’ or websites’ policies.</p>
+
+<p><em>Agents:</em></p>
+
+<p>We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you; for example, we may use a payment processing company to receive and process your credit card transactions for us. MakeSpace uses Stripe as a payment processing provider allowing us not to store any payment information directly; we do however share account information such as email address and name with Stripe to make their service work properly. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us. Note that an “agent” may also be considered a “partner” in certain circumstances, and would be subject to the terms of the “Information that’s been de-identified” section in that regard.</p>
+
+<p><em>Business Transfers:</em></p>
+
+<p>We may choose to buy or sell assets, and may share and/or transfer customer information in connection with the evaluation of and entry into such transactions. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party.</p>
+
+<p><em>Protection of MakeSpace and Others:</em></p>
+
+<p>We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; enforce or apply our <a href="https://makespace.com/p/legal/terms/">Terms of Service</a> and other agreements; or protect the rights, property, or safety of MakeSpace, our employees, our users, or others.  </p>
+
+<p><strong>Is Personal Information about me secure?</strong></p>
+
+<p>Your account is protected by a password for your privacy and security. If you access your account via a third party site or service, you may have additional or different sign-on protections via that third party site or service. You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password and/or other sign-on mechanism appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.</p>
+
+<p>We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but unfortunately, we cannot guarantee complete security.  Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.</p>
+
+<p><strong>What Personal Information can I access?</strong></p>
+
+<p>Through your <a href="https://makespace.com/account/">account settings</a> you may access, and, in some cases, edit or delete the following information you’ve provided to us:</p>
+
+<ul>
+<li>Name and password</li>
+<li>Email address</li>
+<li>Phone number</li>
+<li>Billing address</li>
+<li>Billing details</li>
+</ul>
+
+<p>The information you can view, update, and delete may change as the Services change.  If you have any questions about viewing or updating information we have on file about you, please contact us at privacy@makespace.com.</p>
+
+<p>Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to contact us to prevent disclosure of Personal Information to third parties for such third parties’ direct marketing purposes; in order to submit such a request, please contact us at privacy@makespace.com.</p>
+
+<p><strong>What choices do I have?</strong></p>
+
+<p>You can always opt not to disclose information to us, but keep in mind some information may be needed to register with us or to take advantage of some of our features.
+You may be able to add, update, or delete information as explained above. When you update information, however, we may maintain a copy of the unrevised information in our records. Some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.</p>
+
+<p><strong>What if I have questions about this policy?</strong></p>
+
+<p>If you have any questions or concerns regarding our privacy policies, please send us a detailed message to privacy@makespace.com, and we will try to resolve your concerns.</p>
+
+			</div>
+		</div>
+	</div>
 </div>
 
-<div class="row location-container text-center">
-    <div class="small-12 medium-10 medium-offset-1 columns ">
-      <a href="/schedule/" class="button radius get-started-button">Schedule your free pickup</a>
-    </div>
-  </div>
-</div>
 
-<footer class="footer new-content-container">
-  <div class="footer-inner">
-    <div class="footer-top flex">
-      <div class="footer-contact flex">
-        <span class="makespace-uploader"></span>
-        <p><strong>We're here to help.</strong><br class="show-for-small-only"> Everyday, 8am-7pm EST</p>
-      </div>
-      <ul class="footer-contact-icons flex">
-        <li class="footer-contact-item"><a href="mailto:support@makespace.com"><span class="footer-contact-item-inner flex"><span class="social-icon email-icon"></span>support@makespace.com</span></a></li>
-        <li class="footer-contact-item"><a href="tel:800-920-9440"><span class="footer-contact-item-inner flex"><span class="social-icon phone-icon"></span>800-920-9440</span></a></li>
-        <li class="footer-contact-item"><span id="js-chat" class="footer-contact-item-inner footer-chat flex"><span class="social-icon chat-icon"></span><p>Live Chat</p></span></li>
-      </ul>
-    </div>
 
-    <div class="footer-mid flex">
-      <div class="footer-links flex">
-        <ul class="footer-link-items">
-          <li class="footer-link-item"><a href="/about/team/">About</a></li>
-          <li class="footer-link-item"><a href="/locations/">Locations</a></li>
-          <li class="footer-link-item"><a href="/about/careers/">Careers</a></li>
-        </ul>
-        <ul class="footer-link-items">
-          <li class="footer-link-item"><a href="/services/storage-local/">Services</a></li>
-          <li class="footer-link-item"><a href="/faq/">FAQ</a></li>
-          <li class="footer-link-item"><a href="/p/about/storage-rules/">Storage Rules</a></li>
-        </ul>
-        <ul class="footer-link-items">
-          <li class="footer-link-item"><a href="/p/tips/">Tips</a></li>
-          <li class="footer-link-item"><a href="https://makespace.com/blog">Blog</a></li>
-          <li class="footer-link-item"><a href="http://store.makespace.com/products/gift-card" target="_blank">Gift Cards</a></li>
-        </ul>
-        <ul class="footer-link-items">
-          <li class="footer-link-item"><a href="/p/legal/terms/">Terms</a></li>
-          <li class="footer-link-item"><a href="/p/legal/privacy/">Privacy</a></li>
-        </ul>
+
+  
+
+
+<footer class="ws-footer">
+  <div class="ws-footer__contact ws-row ws-col--full ws-col--v-center site-wrapper--padding">
+    <div class="ws-footer__contact-sub-section ws-row ws-col ws-col-sm-6 ws-col-md-half ws-col-lg-4">
+      <img src="https://cdn.makespace.com/s/img/ws/call.svg" class="contact-logo ws-col ws-col-sm-1" alt="Phone">
+      <div class="contact-text ws-col ws-col-sm-5">
+        <p class="contact-mobile-title contact-title big-subtitle">
+          Call Us
+        </p>
+        <p class="contact-mobile-subtitle contact-subtitle green big-subtitle">
+          <a class="ws-footer__link -alt ganumber" href="tel:855-758-3293">855-758-3293</a>
+        </p>
       </div>
-      <div class="footer-social flex">
-        <p class="small-upcase social-connect">Connect with us:</p>
-        <div class="footer-social-icons flex">
-          <a href="https://www.facebook.com/MakeSpaceCom" target="_blank">  <span class="footer-circle"><span class="social-icon facebook-icon"></span></span>
+    </div>
+    <div class="ws-footer__contact-sub-section ws-row ws-col ws-col-sm-6 ws-col-md-half ws-col-lg-4">
+      <img src="https://cdn.makespace.com/s/img/ws/email.svg" class="contact-logo ws-col ws-col-sm-1" alt="Email">
+      <div class="contact-text ws-col ws-col-sm-5">
+        <p class="contact-mail-title contact-title big-subtitle">
+          Email Us
+        </p>
+        <p class="contact-mail-subtitle contact-subtitle green big-subtitle">
+          <a class="ws-footer__link -alt" href="mailto:support@makespace.com">support@makespace.com</a>
+        </p>
+      </div>
+    </div>
+    <div class="ws-footer__contact-sub-section ws-row ws-col ws-col-sm-6 ws-col-md-4 ws-col-lg-4">
+      <img src="https://cdn.makespace.com/s/img/ws/connect.svg" class="contact-logo ws-col ws-col-sm-1" alt="Connect">
+      <div class="contact-text ws-col ws-col-sm-5">
+        <p class="contact-connect-title contact-title big-subtitle">
+          Connect with us
+        </p>
+        <div class="contact-connect-subtitle contact-subtitle green big-subtitle">
+          <a class="ws-footer__link -alt" href="https://www.facebook.com/MakeSpaceCom" target="_blank">
+            <span class="contact-social-logo facebook-social inline"></span>
           </a>
-          <a href="https://twitter.com/makespace" target="_blank">
-            <span class="footer-circle"><span class="social-icon twitter-icon"></span></span>
+          <a class="ws-footer__link -alt" href="https://twitter.com/makespace" target="_blank">
+            <span class="contact-social-logo twitter-social inline"></span>
           </a>
-          <a href="https://plus.google.com/+Makespace" target="_blank">
-            <span class="footer-circle"><span class="social-icon google-icon"></span></span>
+          <a class="ws-footer__link -alt" href="https://www.yelp.com/biz/makespace-new-york" target="_blank">
+            <span class="contact-social-logo yelp-social inline"></span>
           </a>
-          <a href="http://www.yelp.com/biz/makespace-new-york" target="_blank">
-            <span class="footer-circle"><span class="social-icon yelp-icon"></span></span>
+          <a class="ws-footer__link -alt" href="https://instagram.com/makespace/" target="_blank">
+            <span class="contact-social-logo instagram-social inline"></span>
           </a>
-          <a href="http://instagram.com/makespace" target="_blank">
-            <span class="footer-circle"><span class="social-icon instagram-icon"></span></span>
+          <a class="ws-footer__link -alt" href="https://plus.google.com/+Makespace" target="_blank">
+            <span class="contact-social-logo google-social inline"></span>
           </a>
-          <a href="https://www.pinterest.com/GetMakeSpace/" target="_blank">
-            <span class="footer-circle"><span class="social-icon pinterest-icon"></span></span>
+          <a class="ws-footer__link -alt" href="https://www.pinterest.com/GetMakeSpace/" target="_blank">
+            <span class="contact-social-logo pinterest-social inline"></span>
           </a>
         </div>
       </div>
     </div>
+  </div>
+  <div class="ws-footer__wrapper ws-row ws-col--full site-wrapper--padding">
+    <div class="ws-footer__section ws-row ws-col--full">
+      <div class="ws-footer__lists ws-row ws-col ws-col-sm-6 ws-col-md-9 ws-col-lg-6">
+        <ul class="ws-col ws-col-sm-3 ws-col-md-2 ws-col-lg-3">
+          <li><a class="ws-footer__link" href="/support">Support</a></li>
+          <li><a class="ws-footer__link" href="/about/team">About</a></li>
+          <li><a class="ws-footer__link" href="/locations">Locations</a></li>
+        </ul>
+        <ul class="ws-col ws-col-sm-3 ws-col-md-2 ws-col-lg-3">
+          <li><a class="ws-footer__link" href="/about/careers">Careers</a></li>
+          <li><a class="ws-footer__link" href="/features">Features</a></li>
+          <li><a class="ws-footer__link" href="/pricing">Pricing</a></li>
+        </ul>
+        <ul class="ws-col ws-col-sm-3 ws-col-md-2 ws-col-lg-3">
+          <li><a class="ws-footer__link" href="/faq">FAQ</a></li>
+          <li><a class="ws-footer__link" href="/p/about/storage-rules">Storage Rules</a></li>
+          <li><a class="ws-footer__link" href="/p/tips">Tips</a></li>
+        </ul>
+        <ul class="ws-col ws-col-sm-3 ws-col-md-2 ws-col-lg-3">
+          <li><a class="ws-footer__link" href="/blog">Blog</a></li>
+          <li><a class="ws-footer__link" href="/p/legal/terms">Terms</a></li>
+          <li><a class="ws-footer__link" href="/p/legal/privacy">Privacy</a></li>
+        </ul>
+      </div>
+      <div class="ws-footer__credit ws-row ws-col ws-col-sm-6 ws-col-md-9 ws-col-lg-6">
+        <img src="https://cdn.makespace.com/s/img/ws/logo-white.svg" class="ws-footer__logo ws-col ws-col-sm-4 ws-col-md-3 ws-col-lg-6" alt="MakeSpace logo">
 
-    <div class="footer-bot flex">
-      <div class="footer-address"><p class="small-upcase">©2015 MakeSpace Labs, Inc. <br class="hide-for-large-up">120 Walker St., New York, NY 10013</p></div>
-      <div class="footer-app-promotion">
-        <a href="https://itunes.apple.com/hr/app/makespace-your-closet-in-cloud/id956293592?mt=8" target="_blank" title="MakeSpace - Your Closet in the Cloud on the App Store" class="footer-app-promotion-badge"></a>
+        <div class="ws-footer__credit-meta ws-col ws-col-sm-6 ws-col-md-6 ws-col-lg-12">
+          <p class="ws-footer__credit-title">
+            ©2018 MAKESPACE LABS, INC. NEW YORK, NY
+          </p>
+          <p class="ws-footer__credit-title">
+            MakeSpace® is a registered trademark of MakeSpace Labs, Inc.
+          </p>
+        </div>
       </div>
-      <div class="footer-bbb">
-        <a target="_blank" title="MakeSpace Labs, Inc. BBB Business Review" href="http://www.bbb.org/new-york-city/business-reviews/storage-units-portable/makespace-labs-inc-in-new-york-ny-150703/#bbbonlineclick"><img alt="MakeSpace Labs, Inc. BBB Business Review" style="border: 0;" src="https://seal-newyork.bbb.org/seals/blue-seal-160-82-makespace-labs-inc-150703.png"></a>
-      </div>
+      <div class="footer-link-ios inline"></div>
+      <div class="footer-link-android inline"></div>
     </div>
   </div>
+</footer><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script type="text/javascript" src="//solutions.invocacdn.com/js/pnapi_integration-latest.min.js"></script>
+<script type="text/javascript" src="https://cdn.makespace.com/s/c/js/ac08a71df544.js"></script><script type="text/javascript" src="https://cdn.makespace.com/s/dist/js/common-c06fd07b9775125bbb2b.js"></script>
+<script type="text/javascript" src="https://cdn.makespace.com/s/dist/js/misc-c06fd07b9775125bbb2b.js"></script>
+<script type="text/javascript" src="https://cdn.makespace.com/s/dist/js/wondersauce-c06fd07b9775125bbb2b.js"></script>
 
-</footer>
 
 </body></html>
