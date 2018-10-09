@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labdoor.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913002810id_/https%3A//labdoor.com/about/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labdoor.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010010321id_/https%3A//labdoor.com/about/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Labdoor
 
