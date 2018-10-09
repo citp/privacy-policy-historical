@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nocode.tech privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610011552id_/http%3A//www.nocode.tech/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nocode.tech privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009113522id_/http%3A//www.nocode.tech/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
