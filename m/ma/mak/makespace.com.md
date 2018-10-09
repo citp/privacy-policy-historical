@@ -1,43 +1,101 @@
-> *The following text is extracted and transformed from the makespace.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906033939id_/https%3A//makespace.com/p/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makespace.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009023454id_/https%3A//makespace.com/p/legal/privacy) for the most accurate reproduction.*
 
-# MakeSpace - Privacy Principles
+# MakeSpace - Privacy Policy
 
-MakeSpace knows you value your privacy. We think you should know about how we gather and use information about you. By using MakeSpace (the website, and any apps) you're agreeing to our Privacy Principles.
+Effective Date: September, 2018
 
-## Principle 1: Gather What We Reasonably Need
+At MakeSpace, we know you care how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy.
 
-MakeSpace will collect information about you in a few ways. You might submit information to us, like your name, email address, mailing address, or phone number. When you pay for MakeSpace, you'll probably give us additional information like your credit card number (or eventually, Paypal ID). 
+By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent to our collection, use, and sharing of your information in the following ways.
 
-For this kind of information, we will only collect what we think we need to make our service the best it can be for you — if we ask for this kind of personally identifiable information, it's because we think it will be useful (or necessary) in delivering MakeSpace to you. You'll know we have this information because either a) you will give it to us directly, or b) you'll expressly authorize someone else to give it to us. 
+Remember, your use of MakeSpace’s Services is at all times subject to the [Terms of Service](https://makespace.com/p/legal/terms/) that incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the [Terms of Service](https://makespace.com/p/legal/terms/). 
 
-We also passively gather basic web-browsing data, that is used to provide us with aggregate reporting about where our visitors are coming from, what platforms they're using, and how we can better serve up MakeSpace. This includes things like your IP address, ISP, internet browser, and certain system settings that are generally made available to any website you visit. This data is aggregated and anonymized. For example, if suddenly we see that all of our users have larger screen resolutions, we might consider offering an optimized version of MakeSpace for larger monitors. 
+**What does this Privacy Policy cover?**
 
-In general, if we are collecting data, it is so we can use that data in some way (be it aggregated or individualized, where appropriate) to deliver MakeSpace to you and to build a better MakeSpace. 
+This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you access or use our Services, but not to the practices of companies we don’t own or control, or people who we don’t manage. We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our services, to allow you to set up a user account and profile, to contact you, to fulfill your requests for certain products and services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below.
 
-## Principle 2: Sharing is (only for) Caring
+As noted in the [Terms of Service](https://makespace.com/p/legal/terms/), we do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at support@makespace.com.
 
-We aren't here to make money from your personal information. If we share any information about you with third parties, it is solely for purposes of allowing MakeSpace to work, as otherwise required by law, or in the case of exigent circumstances, in our best judgment as to the right call. Exigent circumstances include potential threats to human life, public health or safety, danger to physical property, or other unforeseen circumstances. (We can't think of everything. But we promise the exception is not going to swallow the rule).
+**Will MakeSpace ever change this Privacy Policy?**
 
-We may need to rely on other companies to deliver parts of MakeSpace — from web storage and services (where your information may be stored in or pass through another web service), to warehouse storage (physical storage). We will not permit other companies to use any information about you in a way that we wouldn't. Where feasible or required, your data will be encrypted. Your physical objects will similarly be reasonably secured.
+Because we’re continuously trying to improve our Services, we may need to change this Privacy Policy from time to time. We will alert you to changes by placing a notice on MakeSpace.com, by sending you an email, and/or by some other means. Please note that if you either opted to not receive legal notice emails from us or haven’t provided us with your email address, those legal notices will still govern your use of the Services, and you are still responsible for reading and understanding them. If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes. The use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected.
 
-If we sell MakeSpace (the company) or the assets of MakeSpace, or if we merge with another company, or if we go bankrupt, that transaction generally involves the sale of customer information. Under those circumstances, the acquirer of MakeSpace (or MakeSpace's assets) will be bound by these Principles.
+**What Information does MakeSpace Collect?**
 
-If for whatever reason we would share information about you with third parties in a way that we do not think is covered by this Principle, we will notify you in advance and give you a reasonable opportunity to say no.
+_Information You Provide to Us:_
 
-## Principle 3: No Unfair Surprise
+We receive and store any information you knowingly provide to us. For example, through the registration process on our website, through our storage specialists over the phone and/or through your account settings, we may collect Personal Information such as your name, email address, home address, phone number, and third-party account credentials (for example, your log-in credentials for Facebook or Google). If you provide your third-party account credentials to us or otherwise sign in to the Services through a third party site or service, you understand some content and/or information in those accounts (“Third Party Account Information”) may be transmitted into your account with us if you authorize such transmissions, and that Third Party Account Information transmitted to our Services is covered by this Privacy Policy. For example, MakeSpace will collect your name and email address to identify your account when logging in using Facebook or Google. Certain information may be required to register with us or to take advantage of some of our features. 
 
-All of the rules of using MakeSpace are posted on our website. These Principles and our Terms of Use are meant to be clear — and when in doubt, ask us. Your use of MakeSpace will be governed by these Principles and our Terms. (And our lawyers made us note that there are things like "limitations on damages, disclaimers of warranties, and choice of law" that are important legal issues involved if we should ever have a dispute. We hope we don't, but you need to read this stuff in case we do.)
+We may communicate with you if you provide us the means to do so. For example, if you provide us your email address, we may send you promotional emails on behalf of other businesses, or email you about your use of the Services. Also, we may receive a confirmation when you open an email from us. This confirmation helps us make our communications with you more interesting and improve our services. If you do not want to receive communications from us, please indicate your preference by updating [your account settings on the web](https://makespace.com/account/) or by clicking the unsubscribe link at the bottom of any of our emails.
 
-You may have the ability to post links to other sites on MakeSpace. You may not use MakeSpace as part of any attempt to market or grow linkshare or membership for other websites without our express consent, which we can withhold for any reason (or no reason at all). (We don't want people finding out a clever way to spam using MakeSpace).
+_Information Collected Automatically:_
 
-In general, you might see links to MakeSpace on other sites, or the occasional link from MakeSpace to another site. We don't control other sites, and we don't endorse them. We can't promise you they'll respect your privacy — in fact we can't promise you anything about them. If you see abusive use of MakeSpace (the site) or our name on other websites, please let us know as soon as possible at info@makespace.com.
+Whenever you interact with our Services, we automatically receive and record information on our server logs from your browser or device, which may include your IP address, geolocation data, device identification, “cookie” information, the type of browser and/or device you’re using to access our Services, and the page or feature you requested. “Cookies” are identifiers we transfer to your browser or device that allow us to recognize your browser or device and tell us how and when pages and features in our Services are visited and by how many people. You may be able to change the preferences on your browser or device to prevent or limit your device’s acceptance of cookies, but this may prevent you from taking advantage of some of our features. 
 
-From time to time (de vez en cuando) we might change up these Privacy Principles. Especially if we get lots of questions that indicate something is unclear. The copy of the Principles in place at the time we use a given piece of information is what controls. (In other words, the current Principles is "super effective" but the old version of the Principles is "not very effective"). If we change the Principles, we'll let you know by posting an announcement, or sending you an email or SMS depending on your preferences. (Western Union's last telegram was sent in 2006, and we're not too handy with smoke signals, so alternative means of communication are unlikely, but we're always open to ideas). You will also be notified of the changes the first time you log in to MakeSpace after the changes take effect. (And continuing to use MakeSpace means you are OK with the changes).
+If you click on a link to a third party website or service, a third party may also transmit cookies to you. Again, this Privacy Policy does not cover the use of cookies by any third parties, and we aren’t responsible for their privacy policies and practices. Please be aware that cookies placed by third parties may continue to track your activities online even after you have left our Services, and those third parties may not honor “Do Not Track” requests you have set using your browser or device.
 
-By using MakeSpace, you agree that we can send you important notices by email and by posting them to our site, and that if there is a legal requirement that something be given to you in writing, our electronic communication (be it on our site or via email) meets that requirement.
+We may use this data to customize content for you that we think you might like, based on your usage patterns. We may also use it to improve the Services – for example, this data can tell us how often users use a particular feature of the Services, and we can use that knowledge to make the Services interesting to as many users as possible. 
 
-## Questions, Comments, Qualms, Concerns, or Suggestions?
+_Information Collected From Other Websites and Do Not Track Policy:_
 
-If you have any questions or concerns regarding privacy, please send us a detailed message at info@makespace.com. We will make every effort to resolve your concerns.
+Through cookies we place on your browser or device, we may collect information about your online activity after you leave our Services. Just like any other usage information we collect, this information allows us to improve the Services and customize your online experience, and otherwise as described in this Privacy Policy. Your browser may offer you a “Do Not Track” option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and across different websites. Our Services do not support Do Not Track requests at this time, which means that we collect information about your online activity both while you are using the Services and after you leave our Services.
 
-Effective Date: 2013. Samuel Rosen, 120 Walker Street #5E, New York, NY 10013
+**Will MakeSpace Share Any of the Personal Information it Receives?**
+
+We may de-identify your Personal Information so that you are not identified as an individual, and provide that information to our partners. We may also provide aggregate usage information to our partners (or allow partners to collect that information from you), who may use such information to understand how often and in what ways people use our Services, so that they, too, can provide you with an optimal online experience. However, we never disclose aggregate usage or de-identified information to a partner (or allow a partner to collect such information) in a manner that would identify you as an individual person, provided certain Personal Information may be transferred in connection with business transfers, as described below. We may share your Personal Information with third parties as described in this section:
+
+We use analytics to help analyze how our users use the Services. As part of this effort, we use Third-Party software development kits (“SDKs”) to monitor and analyze the use of our Service, such as Google Analytics, Mixpanel and FullStory, on our websites. Third-Party SDKs may allow Third Parties including advertisers to collect your personal information to provide content that is more relevant to you. SDKs may use cookies to collect information such as how often our users visit the Services, what pages they visit, and what other sites they used prior to coming to the Services. We may use the information we get from SDKs to improve our Services or to send you promotional messages about our Services. Some data collected by SDKs is shared with other services; for example, Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+For more information on the privacy practices of Google, please visit the [Google Privacy & Terms web page](https://policies.google.com/privacy).
+
+For more information on what type of information Mixpanel collects, please visit the [Terms of Use page of Mixpanel](https://mixpanel.com/terms/). You can prevent Mixpanel from using your information for analytics purposes by opting-out. To opt-out of Mixpanel service, please visit [this page](https://mixpanel.com/optout/).
+
+For more information on what type of information FullStory collects, please visit the [Terms of Use page of FullStory](https://www.fullstory.com/legal/terms-and-conditions/). You can prevent FullStory from using your information for analytics purposes by opting-out. To opt-out of FullStory service, please visit [this page](https://fullstory.com/optout/).
+
+We may deliver a file to you through the Services (known as a “web beacon”) from an ad network. Web beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit, or set their own cookies, just as if you had requested a web page from their site. You may be able to opt-out of web beacon tracking conducted by third parties through our Services by adjusting the Do Not Track settings on your browser; please note that we don’t control whether or how these third parties comply with Do Not Track requests.
+
+_Affiliated Businesses:_
+
+In certain situations, businesses or third party websites we’re affiliated with may sell or provide products or services to you through or in connection with the Services (either alone or jointly with us). You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such business’ or websites’ policies.
+
+_Agents:_
+
+We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you; for example, we may use a payment processing company to receive and process your credit card transactions for us. MakeSpace uses Stripe as a payment processing provider allowing us not to store any payment information directly; we do however share account information such as email address and name with Stripe to make their service work properly. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us. Note that an “agent” may also be considered a “partner” in certain circumstances, and would be subject to the terms of the “Information that’s been de-identified” section in that regard.
+
+_Business Transfers:_
+
+We may choose to buy or sell assets, and may share and/or transfer customer information in connection with the evaluation of and entry into such transactions. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party.
+
+_Protection of MakeSpace and Others:_
+
+We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; enforce or apply our [Terms of Service](https://makespace.com/p/legal/terms/) and other agreements; or protect the rights, property, or safety of MakeSpace, our employees, our users, or others. 
+
+**Is Personal Information about me secure?**
+
+Your account is protected by a password for your privacy and security. If you access your account via a third party site or service, you may have additional or different sign-on protections via that third party site or service. You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password and/or other sign-on mechanism appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.
+
+We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but unfortunately, we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
+
+**What Personal Information can I access?**
+
+Through your [account settings](https://makespace.com/account/) you may access, and, in some cases, edit or delete the following information you’ve provided to us:
+
+  * Name and password
+  * Email address
+  * Phone number
+  * Billing address
+  * Billing details
+
+
+
+The information you can view, update, and delete may change as the Services change. If you have any questions about viewing or updating information we have on file about you, please contact us at privacy@makespace.com.
+
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to contact us to prevent disclosure of Personal Information to third parties for such third parties’ direct marketing purposes; in order to submit such a request, please contact us at privacy@makespace.com.
+
+**What choices do I have?**
+
+You can always opt not to disclose information to us, but keep in mind some information may be needed to register with us or to take advantage of some of our features. You may be able to add, update, or delete information as explained above. When you update information, however, we may maintain a copy of the unrevised information in our records. Some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.
+
+**What if I have questions about this policy?**
+
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to privacy@makespace.com, and we will try to resolve your concerns.
