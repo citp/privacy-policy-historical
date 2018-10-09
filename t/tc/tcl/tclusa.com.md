@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tclusa.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606091659id_/https%3A//www.tclusa.com/footer/about-us/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tclusa.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009032712id_/https%3A//www.tclusa.com/footer/about-us/terms-privacy) for the most accurate reproduction.*
 
 # Terms/Privacy | TCL
 
@@ -8,7 +8,7 @@
 
 **Effective Date: September 23, 2017**
 
-**What was recently updated:** This Privacy Policy was recently updated to add information about TCL’s affiliation with Third-Party Websites, and links that may be provided on the [www.tclusa.com](http://www.tclusa.com/) website.
+**What was recently updated:** This Privacy Policy was most recently updated to add information about TCL’s affiliation with Third-Party Websites, and links that may be provided on the [www.tclusa.com](http://www.tclusa.com/) website.
 
 * * *
 
@@ -189,7 +189,7 @@ In addition to this Privacy Policy, there may be specific promotions, sweepstake
 If you have any questions or concerns regarding this Privacy Policy, please contact us at:
 
 Attn:  Website Privacy Policy Administrator   
-Address: TTE Technology, Inc., 2455 Anselmo Drive, Suite 101, Corona, California 92879     
+Address: TTE Technology, Inc., 1860 Compton Ave. Corona, CA 92881     
 Re: TCL USA Privacy Policy Inquiry
 
 E-Mail: [privacy@tcl.com](mailto:privacy@tcl.com) or go to [www.tclusa.com](http://www.tclusa.com/) and use the Contact Us link.
