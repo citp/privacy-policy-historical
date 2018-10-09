@@ -1,147 +1,226 @@
-> *The following text is extracted and transformed from the bored.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530093640id_/http%3A//www.bored.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bored.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009115919id_/https%3A//www.bored.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**PRIVACY POLICY**
+## for bored.com
 
-**For bored.com**
+Last Modified: June 4, 2018  
 
--
 
-Effective Date: April 23, 2013
+This website bored.com ('site') is operated by Flora ICT B.V.('we', 'us', 'our'). We process personal and non-personal (anonymous) data about our site's visitors ('you', 'your'). This Privacy Policy is intended to explain to you what personal data we process through your use of the site and what we do with that data. By visiting our site and using our services, you agree to the terms stated in this Privacy Policy. 
 
-Last Modified: March 24, 2015
+### 1\. Who we are
 
-**1\. General**
+Flora ICT B.V. Is a Dutch company, based in Haarlem. Our services mainly consist of providing website traffic to our clients. Our contact information: 
 
-**1.1.** The website bored.com ('Site') is brought to you by Flora ICT B.V. ('We', 'Us', 'Our'). We receive personal information about Our Site's visitors ('You', 'Your'). This Privacy Policy is intended to explain to You what personal information We collect and what We do with that information. This does not include information that did not reach Us through Your use of the Site. We care much about Your privacy, therefore We do Our best to comply with relevant laws and regulations regarding the processing of personal data, such as the Dutch Data Protection Act (Wet Bescherming Persoonsgegevens). By visiting Our Site, You automatically agree to the terms stated in this Privacy Policy.
+Flora ICT B.V.  
+Wagenweg 40  
+2012 NE, Haarlem  
+The Netherlands  
++31 (0)23 5298683  
 
- 
 
-**2.** **What (personal) information do We collect?**
+If you have any questions about our Privacy Policy or about the access, rectification, restriction and/or erasure of your personal data, please contact us at: [support@floraict.com](mailto:support@floraict.com?subject=Privacy%20Policy%20Question%20in%20regards%20to%20bored.com%20site). 
 
- **2.1. Active collection**
+### 2\. General
 
-The Site does not provide memberships, subscriptions or any other means that lead to an agreement between You and Us. Therefore We do not actively collect Your personal data. In the event that You come across a feature of this Site that requests Your personal information (for example a registration request, membership form or discussion board), You should be aware that this is a request originating from a third party, not from Us, and We can not be held responsible for any use of Your personal data by a third party. With that said, We may temporarily collect Your personal data when You decide to provide this to Us when using one of Our report features. For example, You may voluntarily provide Us with Your emailaddress when reporting malware.
+We care about your privacy; therefore we do our best to comply with relevant laws and regulations regarding the processing of personal data, such as the General Data Protection Regulation ('GDPR') and the Dutch GDPR Implementation Act ('Uitvoeringswet AVG'). For the purpose of this Privacy Policy, the definitions used should be read in line with the definitions stated in article 4 of the GDPR. More specifically: 
 
-**2.2. Passive collection**
+  * **Personal data** means any information relating to an identified or identifiable natural person;
+  * An **identifiable natural** person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;
+  * **Processing** means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means.
 
-The Site passively collects personal data through cookies. A cookie is a small file that is being delivered to You through the pages of this Site and that is being stored on Your computer. The information stored on this cookie is being sent back to Us each time You visit Our Site. Cookies help Us to deliver Our visitors a better, _personalized_ experience on Our Site. The information We collect through Our cookies includes Your IP Address, browser user agent details, geographical locations and any other data that is related to Your visit of Our Site. We do Our best to anonymize this personal data as much as possible and We store this information only for as long as necessary regarding the purpose for which these cookies are being placed. Your browser settings allow You to block and/or delete certain cookies. If You do not agree to the use of cookies, We recommend that You change Your preferences and use the right browser settings. Changing these settings and preferences may limit Your ability to take full advantage of Our Site.
 
-For more information about how to adjust Your cookies in Your browser settings:
 
-  * Internet Explorer (<http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies#ie=ie-11>)
-  * Google Chrome (<https://support.google.com/chrome/answer/95647?hl=en>)
-  * Mozilla Firefox (<https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer#w_cookie-settings>)
-  * Safari (<https://support.apple.com/kb/ph17191>)
+_The GDPR does not apply to anonymous information._ Anonymous information is information which does not relate to an identified or identifiable natural person or to personal data rendered anonymous in such a manner that the data subject is not or no longer identifiable. This includes processing anonymous data for statistical or research purposes. 
 
- 
+We process your personal data in a secure manner, which includes protection against unauthorized or unlawful processing and against accidental loss, destruction or damage, using appropriate technical and organizational measures. 
 
-**3\. Which cookies do We use?**
+### 3\. Basis for processing personal data
 
- **3.1.** **Persistent cookies**
+Processing of your personal data shall only take place on one of the following lawful bases: 
 
-By using a persistent cookie We can recognize You when You visit Our Site. The Site can therefore be tailored to Your preferences. Also, when You have given consent for the placing of cookies, We can remember this by means of a cookie. This way You do not have to repeat Your preferences every time You visit Our Site, thus saving time and making Your use of Our Site more pleasant. Persistent cookies can be removed through the settings of Your browser.
+  * You have given consent to the processing of your personal data for one or more specific purposes (see §4);
+  * Processing of your personal data is necessary for the performance of a contract to which you are party or in order to take steps at your request prior to entering into a contract;
+  * Processing is necessary for compliance with a legal obligation to which the we are subject;
+  * Processing is necessary in order to protect your or another person’s vital interests;
+  * Processing is necessary for the purposes of the legitimate interests pursued by us or by a third party (such as preventing fraud or direct marketing), except where such interests are overridden by your interests or fundamental rights and freedoms that require protection of personal data.
 
-**3.2. Session cookies**
 
-By using a session cookie, We can see which parts of the Site You have viewed during Your visit. With that information, We can optimize and adapt the Site as much as possible to the surfing behavior of Our visitors. These cookies are automatically deleted when You close Your web browser.
 
-**3.3. Analytical cookies**
+### 4\. Purpose(s) of processing your personal data
 
-This websites uses analytical cookies to track and get information about Your visit to this Site. First, we place Our own analytical cookie. The information in this cookie has a short retention period and any information, such as IP-address, is anonymized as much as possible. We do not share this information with third parties, unless we are required to do so to satisfy any laws, regulations or other legal purposes. We may disclose aggregated and non-personal information to third parties to operate Our services properly.
+We cannot process your personal data without a purpose. We collect and process personal data for the following purposes: 
 
-Second, an analytical cookie is placed as part of Our Use of the service Google Analytics. Google may transfer this information to third parties only when required by law or in cases where third parties process the information on Google's behalf. We have no influence on this. We have not allowed Google to use the information acquired through the analytical cookies for other Google services. The information Google collects, such as Your IP-address, is anonymized as much as possible. The information is transmitted to Google and stored on its servers in the United States. Google states that it complies to the US-EU Safe Harbor Framework and the Safe Harbor principles, regarding the collection, use and retention of personal information from European Union member countries and Switzerland. This means that there is an adequate level of protection for the processing of any personal data. We have concluded a Data Processing Agreement with Google for their Google Analytics service.
+  * For the realization and performance of a contract between you and us;
+  * To offer you the requested services and information, tailored to your preference;
+  * To enable you to interact with our website features;
+  * To offer you general advertising, or based on your interests;
+  * To process your request, feedback or report;
+  * To analyze and optimize our site and services;
+  * To analyze the incoming and outgoing traffic (clicks) on our site;
+  * To conduct market research and gather information for product and service development;
+  * To comply with applicable laws and regulations;
+  * To prevent fraud or misuse of our services; and
+  * To cooperate with law enforcement and government agencies.
 
-**3.4.** **Tracking cookies**
 
-**3.4.1.** **Advertising cookies**
 
-Third parties may place an advertising cookie to offer You interest based advertisements. These cookies may collect information about Your browsing activity across multiple online services and websites, to offer You advertisements based on Your interests. These cookies do not include Your name, address, email etc., but solely the information needed to build a profile about Your online surfing behaviour to make sure You receive relevant advertisements. We have no control over these cookies and what information they collect.
+We only retain this personal data for as long as necessary for the purposes mentioned above, or to comply with statutory (storage) obligations. 
 
-For example: Google Adsense, an advertising service provided by Google, delivers a"DoubleClick"-cookie to You, which tracks Your use of this Site and Your behavior concerning advertisements, products and the services We offer. This results in the offering of advertising to You based on Your prior website visits and interests. You can manage Your "DoubleClick"-cookie settings here:<http://www.google.com/settings/ads/onweb/optout?hl=en>
+### 5\. Personal data we process
 
-For more information on interest based advertising, cookies and opting-out:
+**Passive personal data obtained through cookies and other technical information provided by you, your browser or your device.**
 
-  * <http://www.youronlinechoices.com/>
-  * <http://www.aboutads.info/choices/>
+#### A. Cookies
 
+This website uses cookies. According to the GDPR parts of this information could be interpreted as (online) identifiers and therefore may qualify as personal data, especially when this data is combined. However, we consider the data we process through cookies anonymous, since this information does not relate to an identified or identifiable natural person. For full transparency we have outlined more information on the cookies that are placed through our site below. 
 
+A cookie is a small file that is being delivered to you through the pages of this site and that is being stored on your computer. The information stored on this cookie is being used by us each time you visit our site. Cookies help us to analyze the traffic to and from our site and deliver our visitors a better experience during their visit. Sometimes we use cookies to offer you a personalized experience, such as favorites and improved item suggestions. You have been put on notice of our use of these cookies immediately upon accessing our site's landing page by the following disclosure: 
 
-Please note: opting-out for interest based advertisements may still result in the appearance of standard, non-interest based advertisements on the Site.
+_We use cookies to improve the site and to enhance your experience. This includes first- and third party tracking cookies for advertising purposes and website personalization features. You agree to the placement of these cookies by continuing to use this site and/or clicking here: I agree - I disagree - Read more_
 
-**3.4.2.** **Social media cookies**
+##### Cookie consent
 
-Third parties, such as Facebook and Twitter, may place social media tracking cookies. These cookies may collect information about Your browsing activity across multiple online services and websites and offer You social media sharing options. We have no control over these cookies and what information they collect. For more information on social media cookies, how third parties use them and which (personal) data they collect, please check the (privacy) policies of the respective social networks regularly:
+Your consent to our use of cookies is automatically given by a clear affirmative act on our site, such as clicking on the 'I agree' button in the disclosure, on an item or category or when you perform a search query on our website. When you have clicked the 'I disagree' button or the 'read more' button, we assume that consent has not been given. Please note that your consent for the placement of analytical and functional cookies is not mandatory by law, so these cookies are placed automatically. Your consent is also registered in a cookie, so you don't see the disclosure every time you visit our site. Please note that your consent is valid for our entire network. You can check out our network on www.floratraffic.com. 
 
-  * <https://www.facebook.com/about/privacy/>
-  * <https://twitter.com/privacy/>
-  * <http://www.google.com/intl/en/policies/privacy>
+##### Withdrawing cookie consent
 
- 
+You can easily whitdraw your consent to our use of cookies by clearing your cookies and closing your browser. Whenever you return to our site, we will prompt you with the disclosure again and you are free to choose to accept it or not. Your browser settings allow you to delete and/or block certain cookies. If you do not agree (anymore) to the use of cookies, we recommend that you change your preferences and use the correct browser settings. Changing these settings and preferences may limit your ability to take full advantage of our site. To clear your cookies in your browser settings please visit the help-page of the browser you use. 
 
-**4.** **Our use of Your personal information**
+##### Types of cookies we use
 
- **4.1.** The passively collected, aggregated and non-personal information collected through cookies is being used for market research, marketing purposes, to optimize Our Services and to optimize Your experience on Our Site.
+  * **Persistent cookies** – By using a persistent cookie we can recognize you when you visit our site. We use this for analytical purposes and tailoring the site to your preferences. Also, when you have given consent for the placement of cookies, we can remember this by means of a cookie. This way you do not have to set your preferences every time you visit our site, thus saving time and making your use of our site more pleasant. These cookies can be removed through the settings of your browser. 
+  * **Session based cookies** – By using a session based cookie, we can see which parts of the site you have viewed during your visit. With that information, we can optimize and adapt the site as much as possible to the surfing behavior of our visitors. These cookies are automatically deleted when you close your browser. 
 
-**4.2.** We do not provide third parties with Your personal information, or information regarding Your use of the Services or Site(s) accesible through Our services, unless this is strictly necessary in Our sole discretion, and We believe that it is reasonable to do so, including:
 
-i) To satisfy any laws, regulations or legal requests for such information;
 
-ii) To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating Our Terms of Use or other policies;
+##### Cookies we use
 
-iii) To operate Our services properly;
+  * **Analytical cookies** \- This website uses first party and third party analytical cookies to collect information about your visit to this site. 
+    * _First Party Analytics_ \- We place our own analytical cookie. The information in this persistent cookie has a retention period of 12 months. We consider the data we process through analytical cookies anonymous, since this information does not relate to an identified or identifiable natural person. We may disclose aggregated, anonymous information to third parties to operate our services properly. 
+    * _Third Party Analytics by Google Analytics_ \- A third party analytical cookie is placed by Google as part of our use of the service Google Analytics. Google may transfer this information to third parties only when required by law or in cases where third parties process the information on Google's behalf. We have no influence on this. We have not allowed Google to use the information acquired through the analytical cookies for other Google services or advertisements. The information Google collects is anonymized as much as possible. We have asked them to anonymize any IP-addresses by changing the last octet of each IP. The information is transmitted to Google and stored on its servers in the United States. Google is part of the Privacy Shield Framework, to comply with the rules of the GDPR for companies that process personal data from residents of European Union member countries and Switzerland. We have also executed a Data Processing Agreement (or Data Processing Amendment) with Google regarding their Google Analytics service. Please note that Google offers a browser Add-on which enables you opt-out of Google Analytics' use of your (personal) data. You can find the add-on here: <https://tools.google.com/dlpage/gaoptout>. 
+  * **Recently played cookie** \- We store your recently played items in a persistent cookie after you click on an item on our site. This cookie only remembers the last items you clicked (max. 10), to show them to you whenever you visit us again. We do not collect this information for any other purpose. This cookie can be removed through the settings of your browser. 
+  * **Favorites cookie** \- We store your favorite items in a persistent cookie after you click on that feature. This cookie only remembers the items you chose as your favorites (max. 10), to show them to you whenever you visit us again. We do not collect this information for any other purpose. This cookie can be removed through the settings of your browser. 
+  * **Forensiq cookie** \- In order to prevent fraud and abuse on our website, we use the services provided by Forensiq, which is part of Impact. Forensiq places a persistent cookie on your device and processes the following data, that might be perceived as personal data: 
 
-iv) To protect Ourselves, Our Site's visitors, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if We are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process;
+(i) IP Address; and  
+(ii) Mobile Device Identifier(s).  
 
-v) To cooperate with law enforcement authorities, government agencies and/or private-party litigants seeking information about Our users, to the extent required by applicable law and/or if We are legally advised to do so. Examples of such cooperation include but are not limited to, lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
 
- 
+They use this personal data for fraud & abuse detection and security. We have concluded a Data Processing Agreement and Data Export Agreement with Forensiq, to ensure appropriate safeguards for processing of your personal data. 
 
-**5\. Security**
 
- **5.1.** We take Your privacy serious and therefore We have taken appropriate technical and organizational measures to prevent and minimize the risk of unauthorized access, inappropriate use and inaccuracy of (personal) data stored on Our network and systems, insofar as this is reasonably possible and expected of Us. However, given the resourcefulness of cyber-criminals, We are unable to guarantee that Our security is one hundred percent (100%) breach-proof. You assume the risk of such breaches to the extent that they occur despite Our reasonable security measures.
 
- 
+For an overview of cookies that are placed through our site see the table below: 
 
-**6\. Third party websites**
+Name | Type | Purpose  
+---|---|---  
+ta (referrer, trackerId, isReturningVisitor, clickCount, longTermTrackerId, longTermFirstVisit, utmSource, hasMultipleSessions) | Persistent cookie | First party analytics  
+variation | Persistent cookie | First part analytics  
+_gid | Persistent cookie | Third party analytics by Google  
+_ga | Session based cookie | Third party analytics by Google  
+_gat | Persistent cookie | Third party analytics by Google  
+_utma | Persistent cookie | Third party analytics by Google  
+fq-track | Persistent cookie | Third party fraud detection  
+cb-enabled | Persistent cookie | First party cookie, stores cookie disclosure acceptance  
+session | Session based cookie | First party cookie, stores user session  
+lp | Persistent cookie | First party cookie, stores recently played items  
+fav | Persistent cookie | First party cookie, stores favorized items  
+  
+#### B. Other technical information provided by you, your browser or your device.
 
- **6.1.** This Privacy Policy does not cover any processing of personal data from websites that are linked to or from this Site. We cannot guarantee that those third parties have the same level of caution and trustworthy in handling personal data. We recommend that You read the privacy policies of those websites before You enter, or when You leave, Our Site.
+When you visit and interact with our site, your browser or device automatically transmits certain technical information to our website. Such information enables us to know e.g. which browser type you use, what your browser settings are, what country you are in, what your referrer is, etc. With this information we can optimize your user experience by showing the site in your language, optimize rankings, customize the user interface etc. But mainly we use this information for analytical, statistical and research purposes, such as tracking referrals and incoming and outgoing traffic. We consider this data anonymous, since this information does not relate to an identified or identifiable natural person. 
 
- 
+#### C. Active personal data obtained from your interactions with us, such as using specific website features or sending (e-mail) messages.
 
-**7\. Public Forums & interactive communication**
+We may temporarily collect your personal data when you decide to provide this to us when using one of our website features. For example, you may voluntarily provide us with your e-mail address when reporting malware through our report tool or other data by sending us a (e-mail) message. 
 
- **7.1.** If at any time during Your visit to the Site, You enter into a public forum or interactive communication feature such as, registration requests, chat sessions, or discussion boards, You have exited Our Site. We do not provide such features on Our Site, therefore, You understand and agree that the Site is not responsible for any content shared or distributed via such interactive features.
+##### E-mails and other messages /mediums
 
- 
+The data processed by sending us an e-mail is limited to your e-mail-address, the contents of the message and the standard technical information included in e-mails. We will process whatever personal data you included in the message. However, we will only process this data to handle your request or feedback. The period for which we store any personal data in your e-mail depends on the extent of your request and our legal obligation to retain such data to comply with laws and regulations, if any. The same goes for any other messages your send to us directly via other mediums, such as Skype or social media. 
 
-**8\. Changes to this Privacy Policy**
+##### Report tool
 
- **8.1.** We reserve the right to make changes to this Privacy Policy. We recommend that You regularly visit this page and check if You have read the latest version of the Privacy Policy, which is indicated by the 'Last Modified' date stated above. Please refresh Your browser when You re-visit this page to make sure that Your browser shows You the latest version of this Privacy Policy.
+If there is an issue with content on our site, you can notify us by using our Report Tool. The information we process with such a report is stored temporarily and limited to information about your browser settings and your IP-address. We will mask this IP-address as soon as possible and the browser information is limited to technical data, which we consider anonymous information since this information does not relate to an identified or identifiable natural person. Any personal (contact) info you voluntarily provide will be temporarily processed by us, depending on the extent of your request and our legal obligation to retain such data, if any. We will solely use this information to process your report and for fraud prevention. 
 
- 
+##### No memberships, subscriptions, accounts, profiles etc.
 
-**9\. Who are We?**
+We do not provide memberships, subscriptions, accounts, profiles or any other means that lead to an agreement between you and us apart from your use of the website. We do not collect your personal data for such purposes. In the event that you come across a feature on this site that requests your personal data for such a purpose, for example a registration request, chat session, membership form or discussion board, you should be aware that this is a request originating from a third party, not from us. We cannot be held responsible for any use of your personal data by a third party that is not part of our services, so please be aware. 
 
- **9.1.** Flora ICT B.V. Is a Dutch company, based in Haarlem. Our services mainly consist of providing webtraffic to Our clients. Our contact information: Flora ICT B.V.
+##### Overview
 
-Wagenweg 40
+Below you will find an overview of the information that you might have chosen to actively provide to us. 
 
-2012 NE, Haarlem
+Name | Purpose | Storage period  
+---|---|---  
+Name | Process your request | Deleted after your request is processed*  
+Contact info | Process your request | Deleted after your request is processed*  
+Other personal data you include in your message | Process your request | Deleted after your request is processed*  
+IP-address | Process your report | Masked as soon as possible  
+Browser info | Process your report | n/a, Anonymous data.  
+Country | Process your report | n/a, Anonymous data.  
+Language | Process your report | n/a, Anonymous data.  
+Date and time of report | Process your report | n/a, Anonymous data.  
+|  | * Statutory storage obligations might require a longer storage period.  
+  
+### 6\. What we do with your personal data
 
-The Netherlands
+##### Cookies
 
-+31 (0)23 5298683
+The passively collected, aggregated information collected through cookies is being used for market research, marketing purposes, to optimize our services and to optimize your experience on our Site. We also track clicks on items to improve our rankings and to analyze the traffic to and from our site. With cookies we can also personalize your experience by recognizing which language setting you chose or to show you the items you favorized or clicked on recently. We consider this data anonymous, since this information does not relate to an identified or identifiable natural person. 
 
-Company Registration#: 57378320
+##### Other personal data
 
-VAT# : NL852554564B01
+Personal data you actively provided to us through your use of the site is handled to process your report, feedback or request. We do not provide third parties with your personal data, or information regarding your use of the services or site(s) accessible through our services, unless this is strictly necessary in our sole discretion, and we believe that it is reasonable to do so, including but not limited to, the following reasons: 
 
-**10\. Any Questions?**
+  * To satisfy any laws, regulations or legal requests for such information;
+  * To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms of Use or other policies;
+  * To operate our services properly;
+  * To process your request;
+  * To protect our site’s visitors, the general public, and ourselves. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if we are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process;
+  * To cooperate with law enforcement authorities, government agencies and/or private-party litigants seeking information about our users, to the extent required by applicable law and/or if we are legally advised to do so. Examples of such cooperation include but are not limited to, lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
 
- **10.1.** If You have any questions about Our Privacy Policy or about the inspection, modification and/or removal of Your personal information, please contact Us on: [support@floraict.com](mailto:support@floraict.com)
 
-\- End -
 
-© Flora ICT B.V.
+### 7\. What are your rights regarding our processing of your personal data?
+
+##### Access, rectification, restriction and erasure
+
+You can always send us a message to ask what personal data is stored of you or ask us to rectify, restrict or remove your personal data. Since our storage of personal data is minimal, and almost all our data is anonymized and aggregated, we cannot guarantee that we have your data on file. As explained before, when data is anonymized, it is not considered personal data. 
+
+If you sent us an e-mail, we can retrieve that e-mail if we still have it on our mailservers. If so, we cannot rectify any data in that e-mail, since e-mails cannot be changed. We can delete any e-mail on request. The same goes for messages you send us through other mediums. 
+
+Please note that we might have legitimate interests to continue processing your personal data, which override your interest, rights and freedoms regarding our processing of such data. For example, we might be obligated to continue processing your personal data for the establishment, exercise or defense of legal claims or we need to retain such data for other legal purposes. We will always inform you of this decision when you contact us with a request to exercise one of your rights stated in this section. 
+
+##### Data portability
+
+The data we process is minimal, and mostly aggregated and anonymized. You have the right to receive the personal data concerning you in an interoperable format, so you can transmit that data to another service provider. We cannot guarantee that we have your personal data on file and/or in an interoparble format, but we will do our best to assist you in enforcing your right regarding data portability. 
+
+##### Withdrawing consent
+
+As explained in our paragraph on cookies, you can withdraw consent by deleting your cookies. You can contact us with your request to withdraw consent for any personal data you provided to us via certain interactions with our site, such as using a specific website feature or sending (e-mail) messages. Please note that we may have a legal obligation to retain your personal data to comply with applicable laws and regulations. 
+
+##### Complaints
+
+You also have the right to lodge a complaint with a supervisory authority. We suggest that you contact the competent supervisory authority in the country of your habitual residence, place of work or place of the alleged infringement. 
+
+### 8\. Parental consent for children
+
+We do not knowingly process personal data from children without prior parental consent. If your age requires prior parental consent for your behavior on our site, according to your national law, we ask you to not engage with our site and do not submit any personal data through our services without parental consent. We encourage parents or guardians to monitor the online behavior of their children and assist us in enforcing our policies by not allowing their children to access this site without their permission. If you learn that your child has provided us with personal data or if you have any questions regarding our data processing policies with respect to children, please contact us on: [support@floraict.com](mailto:support@floraict.com?subject=Privacy%20Policy%20Question%20in%20regards%20to%20bored.com%20site). 
+
+### 9\. Data Security
+
+We take your privacy seriously and therefore we have taken appropriate technical and organizational measures to prevent and minimize the risk of unauthorized or unlawful processing, inappropriate use, inaccuracy, accidental loss, destruction and/or damage of (personal) data stored on our network and systems, insofar as this is reasonably possible and expected of us. 
+
+### 10\. Third party websites
+
+This Privacy Policy does not cover any processing of personal data from websites that are linked to or from this site. We cannot guarantee that those third parties have implemented technical and organizational measures in such a manner that appropriate safeguards are established regarding their processing of your personal data. We recommend that you read the privacy policies of those third party websites upon entering their website. Those third party websites might require your personal data to register for their services, so please make sure you have read and understood any associated terms of use and privacy policies. 
+
+### 11\. Changes to this Privacy Policy
+
+We reserve the right to make changes to this Privacy Policy. We recommend that you regularly visit this page and check if you have read the latest version of the Privacy Policy, which is indicated by the ‘Last Modified’ date stated above. Please refresh your browser when you re-visit this page to make sure that your browser shows you the latest version of this Privacy Policy. 
+
+### 12\. Any Questions
+
+If you have any questions about our Privacy Policy or about the access, rectification, restriction and/or erasure of your personal data, please contact us at: [support@floraict.com](mailto:support@floraict.com?subject=Privacy%20Policy%20Question%20in%20regards%20to%20bored.com%20site). 
