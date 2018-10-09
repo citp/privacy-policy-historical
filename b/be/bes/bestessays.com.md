@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestessays.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831212352id_/https%3A//www.bestessays.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestessays.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009175617id_/https%3A//www.bestessays.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -97,3 +97,7 @@ Let our professionals assist you with research and writing
   * Get research help on **any subject** if you lack time or necessary resources
 
 
+
+We use cookies to make sure you have the best experience on our website.  
+You can control what cookies are set on your device in your "cookies settings".  
+If you continue to use this site, you consent to our use of cookies.Close
