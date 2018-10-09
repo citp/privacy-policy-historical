@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the serverdeals.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223006id_/https%3A//www.serverdeals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serverdeals.org privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009181356id_/https%3A//www.serverdeals.com/privacy-policy) for the most accurate reproduction.*
 
-# ServerDeals
+# Server Deals Company Privacy Policy - ServerDeals.com
 
-This Privacy Policy describes the information we, Nexeon Technologies, Inc. ("ServerDeals"), collect from you, what we do with the information, and our information security practices. If you have any questions about our Privacy Policy, please contact us.
+Looking for our [Terms of Service](https://www.serverdeals.com/terms-of-service/)?
+
+This Privacy Policy describes the information we, Nexeon Technologies, Inc. (“ServerDeals”), collect from you, what we do with the information, and our information security practices. If you have any questions about our Privacy Policy, please contact us.
 
 When you sign up for our service, we will ask you to provide contact information such as your name, address, telephone numbers, e-mail addresses, and payment information such as credit card number and expiration date. We may ask you to complete user surveys, and to provide certain demographic information, such as age, gender, special interests, etc.
 
