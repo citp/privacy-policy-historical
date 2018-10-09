@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fame10.com privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320140126id_/https%3A//www.fame10.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fame10.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010010215id_/https%3A//www.fame10.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Fame10
 
