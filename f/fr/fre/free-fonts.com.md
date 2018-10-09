@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-fonts.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508114712id_/http%3A//free-fonts.com/contact%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-fonts.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009191032id_/https%3A//www.free-fonts.com/contact%23privacy) for the most accurate reproduction.*
 
 # Contact
 
@@ -34,4 +34,4 @@ The European Commission has set up a platform for online dispute settlement. Thi
 
 If you have questions, instigations or criticism, please send an email to . 
 
-        [](https://plus.google.com/101146424742237691651/)
+      [](https://plus.google.com/101146424742237691651/)
