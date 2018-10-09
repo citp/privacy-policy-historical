@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatemela.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925083344id_/http%3A//www.templatemela.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatemela.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009091401id_/http%3A//www.templatemela.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TemplateMela
 
