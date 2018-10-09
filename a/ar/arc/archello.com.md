@@ -1,147 +1,113 @@
-> *The following text is extracted and transformed from the archello.com privacy policy that was archived on 2018-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180301183602id_/https%3A//archello.com/page/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archello.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009174151id_/https%3A//archello.com/page/privacy-statement) for the most accurate reproduction.*
 
-# Archello Privacy Statement | Archello
+# Archello Privacy Policy | Archello
 
-**1\. Introduction**
+The protection of your privacy and personal information is of the utmost importance to Archello. This Archello Privacy Policy gives transparency to the information we collect, how we use it and the steps we take to protect it. The policy governs all the products and services we provide throughout the website. When you use the site, you consent to the way we collect, manage and protect your data as described in this document.
 
-Archello respects and protects the privacy of all users of our Website. Archello makes every reasonable effort to ensure that all personal information provided to Archello will at all times be handled confidentially and will be used solely for the objectives as specified in this Privacy Policy. The processing of personal data therefore occurs in accordance with the applicable laws and regulations in the field of privacy. This Privacy Policy is intended to inform you of the Archello policy with regard to the collection and use of personal data. By visiting the Archello website located at www.archello.com, you are accepting the practices outlined in this Privacy Policy.
+ **1 Information you share with us**
 
-If you are under the age of 16, please do not attempt to register for Archello or provide any personal information about yourself to us. If we learn that we have collected personal information from a person under the age of 16, we will delete that information as quickly as possible. If you believe that we might have any information from a person under the age of 16, please contact us.
+ **1.1 Your user account**
 
-Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account. You should review this Privacy Policy periodically to review any changes.
+When you sign up for a personal account at Archello we save your name, email and password. Passwords are saved encrypted. If you forget your email you can reset your password via a link that can be sent to the email address with which you created the account. In your personal account you are free to add your occupation, location, your interests, brands you want to follow and create a first collection during the sign-up phase. There is an option to skip all this. Archello can use this anonymized information to give clients insight into the demographics of its users and can use this anonymized information to offer you content linked to your interests, followed companies, profession and collections. 
 
- **2\. Information We Receive**
+You are also free to add your gender and birthdate. Archello will never share this with other parties. As an option, you can add a profile picture and cover photo to your personal account and add a short description. When you login via facebook or linkedin, Archello automatically adds your profile image from the respective social media profile. The profile picture is visible if you link your personal account to a brand account as a team member, then your profile images and name will be shown in the team member section of the brand you connected to. The personal profile page is visible to the public, but you can turn this off in your settings by making your profile private.
 
-Information you provide to us:
+ **1.2 Collection**
 
- **Information About Yourself**. When you sign up for Archello you provide us with your name, email, gender, and birth date. You will also be able to add a picture of yourself. In some cases we may ask for additional information for security reasons or to provide specific services to you. Once you register you can provide other information about yourself by connecting with, for example, the company you work for, materials, products, projects, and people. You can also provide personal information about yourself, such as your interests and expertise.
+When you make a collection your profile picture will be shown on the collection page and next to the collection card on the homepage if it is featured. When you save your favourite products or projects in a collection, you can choose to make this private or public. Visitors will only be able to see a public collection.
 
- **Information About your Company**. **** When you sign up for Archello, if not already done so, you can register your companies name, its website, and address. There is the possibility to provide more information about your company for example telephone and fax. If making the company you can make yourself an administrator for your company.
+ **1.3 Newsletters**
 
- **Content**. One of the primary reasons people use Archello is to share stories. This could be a story on a project, material or product. Archello also allows users to follow projects, materials and products. You can add stories as a company or as yourself. When adding a story you can provide photographs, video, text and other media formats. These stories can be commented on by other users and stories added to the project alongside your story.
+Archello offers newsletters. This way you can receive updates on the most interesting posts of the week or get notifications about new products or projects from your favorite companies, about upcoming events, new functions and offers. To make sure you only get newsletters that you wish to receive, you must explicitly opt-in. Our newsletters are sent via Sendgrid, Inc. (US), which receives the required information from us.
 
- **Follower Information**. We offer contact importer tools to help you upload your connections’ addresses so that you can find your connections’ on Archello, and invite your contacts who do not have Archello accounts to join. If you do not want us to store this information, please contact us.
+ **1.4 Request and contact forms**
 
-Information we collect when you interact with Archello:
+On a product page you can send a variety of requests about the product itself or the brand of the product. You can ask a product brand for more information, request prices, documentation, or request available suppliers. On a brand page you can contact a brand via the contact button. In order to respond to your request, the brand requires some of your information. The personal information you provide in the form will be shared with the contacted party. When you are logged into your personal account, automatically your name and email will be placed in the form. You can choose whether to make a request or not.
 
- **Site activity information**. We keep track of some of the actions you take on Archello, such as adding connections (including joining a group or connecting to a project), creating a story or commenting on a product. In some cases you are also taking an action when you provide information or content to us. For example, if you share a video, in addition to storing the actual content you uploaded, we might log the fact that you shared it.
+ **1.5 Follow**
 
- **Access Device and Browser Information**. When you access Archello from a computer, mobile phone, or other device, we may collect information from that device about your browser type, location, and IP address, as well as the pages you visit.
+Every company on Archello has a follow button on their brand page. You can click on the follow button to get updates from a brand you are interested in. When a brand you are following adds a new project, product or article, you will receive an email notification from Archello about this new publication. In your sign-up you need to explicitly opt-in for these emails. In your account settings you can choose to turn this off or on. On the brand page of the company you follow, your name and profile picture are visible on their followers page.
 
- **Cookie Information**. We use "cookies" (small pieces of data we store for an extended period of time on your computer, mobile phone, or other device) to make Archello easier to use, to make our advertising better, and to protect both you and Archello. For example, we use them to store your login ID (but never your password) to make it easier for you to login whenever you come back to Archello. We also use them to confirm that you are logged into Archello, and to know when you are interacting with Archello applications and websites, and our advertisements. You can remove or block cookies using the settings in your browser, but in some cases that may impact your ability to use Archello.
+ **1.6 Personal profile visibility**
 
-Information we receive from third parties:
+An open profile is visible for the public and indexed by search engines. This profile contains your name and added profile information (see 1.1), the collections you created and it shows the brands you are following. On the followers page of the brands you follow, your name and profile picture will also be visible. Brands you are connected to or created will also show your profile photo and name.
 
- **Information from other websites**. We may institute programs with advertising partners and other websites in which they share information with us:
+In the case you do not want your profile to be visible, you can use the setting 'Hide my profile' in your personal profile settings. With this ‘Hide my profile’ setting your personal profile page will change into an anonymous page for the public. 
 
-We may ask advertisers to tell us how our users responded to the ads we showed them (and for comparison purposes, how other users who didn’t see the ads acted on their site). This data sharing, commonly known as “conversion tracking,” helps us measure our advertising effectiveness and improve the quality of the advertisements you see.
+**1.7 Activity**
 
-We may receive information about whether or not you’ve seen or interacted with certain ads on other sites in order to measure the effectiveness of those ads.
+With certain actions on Archello, a company will receive a record of the action if it relates to their profile. When you save a product or project to a collection, download a brochure, click on a website link, download an image, or use any of the contact buttons, the company related to the item on Archello will see your public profile name mentioned in an activity list next to the action you performed. Only your username and profile image are visible, nothing more will be shared (such as your email or other contact information).
 
-If in any of these cases we receive data that we do not already have, we will “anonymize” it within 180 days, meaning we will stop associating the information with any particular user. If we institute these programs, we will only use the information in the ways we explain in the “How We Use Your Information” section below.
+If you don't want your name to be visible, also for this you can ‘Hide your profile’ in the personal profile settings and instead of your name in the activity list, it will say ‘anonymous’.
 
- **Information from other users**. We may collect information about you from other Archello users, such as when a user connects you to a project, product, material or indicates a connection to you.
+ **2 Information we collect**
 
- **3\. Sharing information on Archello**
+ **2.1 Devices**
 
- **Name and Profile Picture**. Archello is designed to make it easy for you to find and connect with others. For this reason, your name, location and profile picture are displayed. If you are uncomfortable with sharing your profile picture, you should delete it (or not add one). This is the same for companies which you are an administrator for.
+To optimize the website on relevant devices, screen sizes, browsers and operating systems, we collect information about the device through which you visit the site, and which screen size, browser and operating system you use. The information about how visitors use our site is anonymized and encrypted by Google Analytics. 
 
- **Contact Information**. Your contact information settings are controlled by ‘My Privacy Settings’ tab under the person tab and ‘Settings’ tab under the company tab. Here you can choose 2 levels of contact privacy:
+**2.2 Server logs**
 
-Show contact information to everybody
+Both on Amazon Server (Amazon Web Services, Inc.) and Google Analytics (Google LLC.) we keep automated server logs on how you use our services. The images are stored on the Image X services (IMAGEX MEDIA Inc.) servers. Information stored includes which route you entered the site, how long you stayed, which pages you visited, etc. This information is processed into general statistics Archello and its clients can look into. 
 
-Don’t show me at all
+**2.3 IP-address**
 
- **Personal Information**. Your personal information like expertise and interests will be viewable by every user on Archello if you choose to add this information. To add this information is your choice.
+For each visitor that makes an account on Archello we register an IP-address in order to be able to identify them onward towards the Dutch Data Protection Authority.
 
- **Connections**. Archello enables you to connect with virtually anything you want, from your company, products, materials and projects. If you wish to disconnect with something you can do this on ‘my connections’ tab and clicking ‘disconnect’.
+ **2.4 Local storage**
 
- **Followers**. Archello enables you to follow virtually anything you want, this allows you to keep track of certain projects, products, materials etc. People can also follow you and your company. If you wish to stop someone following you or your company you may click ‘block’ on the ‘my profile’ tab from your list of ‘followers’. If you wish to stop following people, companies, projects etc. you may click ‘remove following’ on the ‘my profile’tab from your list ‘following’. The same applies to companies which you are an administrator for.
+It is possible we store data, also of a personal nature, on your local device via mechanisms in your web browser storage and your device’s data caches.
 
- **Gender and Birth Date**. In addition to name and email address, we require you to provide your gender and birth date during the registration process. We ask for your date of birth to verify that you are 16 or older, and so that we can better limit your access to content and advertisements that are not age appropriate. If you do not want other users to know your gender or birth date do not add them.
+ **3 Cookies**
 
- **Other**. Here are some other things to remember:
+ **3.1 What are cookies**
 
-Some of the content you share and the actions you take will show up on the home page.
+A cookie is a small text file that is stored in your computer via your web browser. Your device gets a unique number in order to recognize it. There are two types of cookies. Session cookies and temporary or permanent cookies. The session cookies are deleted as soon as you close the browser. The temporary and permanent cookies stay on your device. Archello uses this information to improve its website experience.
 
-If another user connects you to a project, you can remove the tag. Even after you remove information from your profile or delete your account, copies of that information may remain viewable elsewhere to the extent it has been shared with others, it was otherwise distributed pursuant to your ‘My Privacy Settings’, or it was copied or stored by other users.
+ **3.2 Which cookies does Archello use**
 
-You understand that information might be reshared or copied by other users.
+Most of the cookies we use are session cookies, which are immediately deleted after you close the browser. Session cookies are for example used to recognize you are logged in and offer functionalities from the logged in environment. Next to session cookies we also use temporary and permanent cookies. When you come back to the website these cookies make sure to recognize you and remember your website settings. More information on the cookies we use can be found [here](https://archello.com/page/cookies).
 
-Certain types of communications that you send to other users cannot be removed, such as messages.
+ **3.3 Remove or block cookies**
 
-If you use an external source to publish information to Archello (such as a mobile application or a Connect site), you should check the privacy setting for that post, as it is set by that external source.
+You can turn off the use of cookies via the settings in your web browser. If you do this you will no longer receive cookies when you visit our website. An explanation on how to do this can often be found in the help section of the web browser. Be advised that without cookies our website performance is less optimal.
 
- **4\. Information You Share With Third Parties**
+ **4 Data**
 
- **Exporting Information**. You (and those you make your information available to) may use tools like RSS feeds, mobile phone address book applications, or copy and paste functions, to capture, export (and in some cases, import) information from Archello, including your information and information about you. For example, if you share your phone number with your friends, they may use third party applications to sync that information with the address book on their mobile phone.
+ **4.1 Safe storage of your data**
 
- **Advertisements**. Sometimes the advertisers who present ads on Archello use technological methods to measure the effectiveness of their ads and to personalise advertising content.
+The personal information you provide Archello is safely stored on the Amazon AWS cloud servers (in compliance with ISO 27001, 27017, and 27018). Your information is stored for an indeterminate amount of time so that you don't have to provide this information again. Both the website and the services Archello uses are protected and designed in a way such that only employees who absolutely need access in order to perform their tasks can get access. Archello has an assigned privacy officer who oversees that your privacy is protected. 
 
- **Links**. When you click on links on Archello you may leave our site. We are not responsible for the privacy practices of other sites, and we encourage you to read their privacy statements.
+**4.2 Data Retention**
 
- **5\. How We Use Your Information**
+We will keep and use your data as long as your account is in use, is open, or is active; as long as is necessary to comply with any tax, legal, and/or other regulations; and to protect and defend against potential legal claims. If you would like to request your personally identifiable information or request that it be returned to you, please contact us at support@archello.com. 
 
-We use the information we collect to try to provide a safe, efficient, and customised experience. Here are some of the details on how we do that:
+**4.3 For legal reasons**
 
- **To manage the service**. We use the information we collect to provide our services and features to you, to measure and improve those services and features, and to provide you with customer support. We use the information to prevent potentially illegal activities. We also use a variety of technological systems to detect and address anomalous activity and screen content to prevent abuse such as spam. These efforts may on occasion result in a temporary or permanent suspension or termination of some functions for some users.
+Archello shares personal information with companies, organisations or persons, when employees of Archello seem due necessary in order to comply with the law, regulations or enforceable government requests, in cases where we need to investigate possible fraud, security risks, violations of our terms, and in order to protect the rights and safety or Archello and its users.
 
- **To contact you**. We may email you with essential service-related announcements from time to time.
+ **4.4 Trend insights**
 
- **Newsletter**. We give you the option to receive Archello newsletters from time to time. You may subscribe and unsubscribe on your ‘my settings’ tab. You may also unsubscribe by link in each newsletter.
+Information that cannot be traced back to an individual we can use with our clients or users. This way we can show developments in how our services are used.
 
- **To serve personalized advertising to you**. We don’t share your information with advertisers without your consent. We allow advertisers to choose the characteristics of users who will see their advertisements and we may use any of the non-personally identifiable attributes we have collected (including information you may have decided not to show to other users, such as your location or other sensitive personal information or preferences) to select the appropriate audience for those advertisements. For example, we might use your interest in wood buildings to show you ads for wood materials, but we do not tell the wood material company who you are. Even though we do not share your information with advertisers without your consent, when you click on or otherwise interact with an advertisement there is a possibility that the advertiser may place a cookie in your browser and note that it meets the criteria they selected.
+ **4.5 Changes**
 
- **To supplement your profile**. We may use information about you that we collect from other Archello users, projects and stories to supplement your profile (such as when you connect to a project). In such cases we generally give you the ability to remove the content (such as allowing you to remove your connection to a project).
+We retain the right to alter this document at a later time. The latest version of the policy applies. If we make profound changes to the policy, the user will be informed about these changes.
 
- **To make suggestions**. We use your profile information, the addresses you import through our contact importers, and other relevant information, to help you connect with associates, stories, projects, materials and products including making suggestions to you and other users that you connect with on Archello. For example, if another user imports the same project as you do, we may suggest that you connect with each other.
+ **4.6 Finding, changing and deleting your personal data**
 
- **Memorializing Accounts**. We may close an account if we find out a user has become deceased. An account will be closed if we receive a formal request from the users next of kin or other proper legal request to do so.
+Your personal data on Archello can be accessed, changed or deleted. The information you provided can be accessed, changed or deleted by signing in to your account and performing your intended action. By deleting your data from our website, you understand that you can no longer use our services. We will retain your anonymized, aggregated, depersonalized data after you deleted your account from our site.
 
- **6\. How We Share Information**
+ **4.7 Revocation and objection**
 
-Archello is about sharing information with others, friends, associates, companies and people in your communities. Everything you share on Archello will be available for users to view. We share your information with third parties when we believe the sharing is permitted by you, reasonably necessary to offer our services, or when legally required to do so. For example:
+You can object to the use of your data for our products and services. At the bottom of every newsletter of Archello you can find an unsubscribe option with which you can unsubscribe. You can also object to further newsletters or to other email advertisements via support@archello.com. A written notification (for example by e-mail or by letter) is sufficient for this. The possibility of revocation applies to the permission of explicitly provided data.
 
- **When you invite a connection to join**. When you ask us to invite a connection to join Archello, we will send your connection a message on your behalf using your name. The invitation may also contain information about other users your connection might know. We may also send up to two reminders to them in your name.
+If you object to the way in which Archello processes your personal data, we would like to hear that first, so that we can explain our considerations in this respect. If our answer is not sufficient for you, then there is the possibility to file a complaint with the Dutch Data Protection Authority.
 
- **When you choose to share your information with marketers**. You may choose to share information with marketers or electronic commerce providers that are not associated with Archello through on-site offers. This is entirely at your discretion and we will not provide your information to these marketers without your consent.
+ **Contact**
 
- **To help your friends find you**. By default, we make certain information you have posted to your profile available in search results on Archello to help your connections find you. However, you can control who can see some of this information, as well as who can find you in searches, through your ‘my settings’ tab. We also partner with email and instant messaging providers to help their users identify which of their contacts are Archello users, so that we can promote Archello to those users.
+Email: support@archello.com
 
- **To help improve or promote our service**. Sometimes we share aggregated information with third parties to help improve or promote our service. But we only do so in such a way that no individual user can be identified or linked to any specific action or information.
+Phone: 0031(0) 035 699 3055
 
- **To provide you with services**. We may provide information to service providers that help us bring you the services we offer. For example, we may use third parties to help host our website, send out email updates about Archello, remove repetitive information from our user lists, process payments, or provide search results or links (including sponsored links). These service providers may have access to your personal information for use for a limited time, but when this occurs we implement reasonable contractual and technical protections to limit their use of that information to helping us provide the service.
-
- **To advertise our services**. We may ask advertisers outside of Archello to display ads promoting our services. We may ask them to deliver those ads based on the presence of a cookie. We may use Archello’s content which includes persons, companies, stories, products and materials to promote the site.
-
- **To offer joint services**. We may provide services jointly with other companies. If you use these services, we may share your information to facilitate that service. However, we will identify the partner and present the joint service provider’s privacy policy to you before you use that service.
-
- **To respond to legal requests and prevent harm**. We may disclose information pursuant to subpoenas, court orders, or other requests (including criminal and civil matters) if we have a good faith belief that the response is required by law. This may include respecting requests from jurisdictions outside of the Netherlands where we have a good faith belief that the response is required by law under the local laws in that jurisdiction, apply to users from that jurisdiction, and are consistent with generally accepted international standards. We may also share information when we have a good faith belief it is necessary to prevent fraud or other illegal activity, to prevent imminent bodily harm, or to protect ourselves and you from people violating our Terms Of Use. This may include sharing information with other companies, lawyers, courts or other government entities.
-
- **Transfer in the Event of Sale or Change of Control**. If the ownership of all or substantially all of our business changes, we may transfer your information to the new owner so that the service can continue to operate. In such a case, your information would remain subject to the promises made in any pre-existing Privacy Policy.
-
- **7\. How You Can Change or Remove Information**
-
- **Editing your profile**. You may change or remove your personal or company profile information at any time by going to youre ‘my profile’ page and clicking ‘Edit’ Information will be updated immediately.
-
- **Deleting your profile**. If you want to stop using your account you may delete it. When you delete an account, it is permanently deleted from Archello. You should only delete your account if you are certain you never want to reactivate it. You may delete your account on your ‘my settings’ tab.
-
- **Limitations on removal**. Even after you remove information from your profile or delete your account, copies of that information may remain viewable elsewhere to the extent it has been shared with others, it was otherwise distributed pursuant to your ‘my privacy settings’, or it was copied or stored by other users. However, your name will no longer be associated with that information on Archello. We may retain certain information to prevent identity theft and other misconduct even if deletion has been requested. If you have given third party applications or websites access to your information, they may retain your information to the extent permitted under their terms of service or privacy policies. But they will no longer be able to access the information through Archello after you disconnect from them.
-
- **Backup copies**. Removed and deleted information may persist in backup copies for up to 90 days, but will not be available to others.
-
- **8\. How We Protect Information**
-
-We do our best to keep your information secure, but we need your help.
-
- **Steps we take to keep your information secure**. We keep your account information on a secured server behind a firewall. When you enter sensitive information (such as passwords), we encrypt that information using secure socket layer technology (SSL). We also use automated and social measures to enhance security, such as analyzing account behavior for fraudulent or otherwise anomalous behavior, may limit use of site features in response to possible signs of abuse, may remove inappropriate content or links to illegal content, and may suspend or disable accounts for violations of our Terms of Use.
-
- **Risks inherent in sharing information**. Although we allow you to set privacy options that limit access to your information, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you share your information. We cannot guarantee that only authorized persons will view your information. We cannot ensure that information you share on Archello will not become publicly available. We are not responsible for third party circumvention of any privacy settings or security measures on Archello. You can reduce these risks by using common sense security practices such as choosing a strong password, using different passwords for different services, and using up to date antivirus software.
-
- **Report Violations**. You should report any security violations by contacting us.
-
- **9\. Contact Us**
-
-Archello welcomes concerns and feedbacks with regards to this privacy policy or anything to do with the site. If you have any questions, concerns, suggestions or comments about our privacy policy, contact our support team by email ([support@archello.com](mailto:support@archello.com)), by post: Johan van Hasselt 33A, 1021 KN, Amsterdam, The Netherlands.
-
-Date of last revision: 22nd of June 2010
+Postal address: Archello BV, Johan van Hasseltweg 33a, 1021KN, Amsterdam
