@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lakeertv.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610013949id_/http%3A//www.lakeertv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakeertv.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009113204id_/http%3A//www.lakeertv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Lakeer TV
 
