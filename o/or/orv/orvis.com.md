@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orvis.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625215101id_/http%3A//www.orvis.com/s/orvis-privacy-policy/107) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orvis.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009062438id_/https%3A//www.orvis.com/s/orvis-privacy-policy/107) for the most accurate reproduction.*
 
 # ORVIS PRIVACY POLICY
 
