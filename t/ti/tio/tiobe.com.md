@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiobe.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711105941id_/https%3A//tiobe.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiobe.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009180000id_/https%3A//www.tiobe.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | TIOBE - The Software Quality Company
 
@@ -28,6 +28,6 @@ We use cookies to analyse our traffic and to show ads. By using our website, you
 
 We may occasionally update this privacy statement. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
-TIOBE welcomes your comments regarding this privacy statement. If you believe that TIOBE has not adhered to this privacy statement, please contact us by e-mail at [info@tiobe.com](mailto:info@tiobe.com), and we will use commercially reasonable efforts to promptly determine and remedy the problem.
+TIOBE welcomes your comments regarding this privacy statement. If you believe that TIOBE has not adhered to this privacy statement or if for any reason you wish to view or delete data and personal information TIOBE has stored about you to support its service-processes, please contact us by e-mail at info@tiobe.com, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
 
 Send mail to [webmaster@tiobe.com](mailto:webmaster@tiobe.com) with questions or comments about this web site.
