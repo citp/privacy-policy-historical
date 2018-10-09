@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adverts.ie privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630033145id_/https%3A//help.adverts.ie/hc/en-us/articles/201323532-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adverts.ie privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009154941id_/https%3A//help.adverts.ie/hc/en-us/articles/360001288745-Privacy-Cookie-Policies%231) for the most accurate reproduction.*
 
-# Privacy & Cookie Policies – Adverts.ie
+# Privacy & Cookie Policies – Adverts
 
 Last updated on 17th May, 2018
 
@@ -248,25 +248,25 @@ This statement will be updated when necessary to reflect changes that we make to
 
   
 **Contact information**  
-If you have any questions in relation to this Policy, please email our Data Protection Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0367736c43626775667177702d6a66). You can also write to:
+If you have any questions in relation to this Policy, please email our Data Protection Officer at [dpo@adverts.ie](mailto:dpo@adverts.ie). You can also write to:
 
 Data Protection Officer  
 Distilled SCH  
 Latin Hall  
-Golden Lane   
+Golden Lane   
 Dublin 8.
 
-If this does not resolve your complaint/question, you have the right to contact your local Data Protection Commissioner. In Ireland, they can be contacted via their website [here.](https://www.dataprotection.ie/docs/Home/4.htm)
+If this does not resolve your complaint/question, you have the right to contact your local Data Protection Commissioner. In Ireland, they can be contacted via their website [here.](https://www.dataprotection.ie/docs/Home/4.htm)
 
-Back to top ^
+[Back to top ^](https://help.adverts.ie/hc/en-us/articles/201323532-Privacy-Cookie-Policies#top)
 
 ## Cookie Policy
 
 **What are cookies and how are they used?**
 
-A cookie is a small amount of data, which often includes a unique identifier, that is sent to your device’s web browser from a website's computer and is stored on your *device's hard drive. Each website can send its own cookies to your web browser. Your browser will have the option to prevent websites using cookies (your browser's help screen will tell you how to do this), but please note that this may reduce the functionality of our website and other websites. You can also change your targeted advertising cookie settings by visiting [Google's Ad Personalisation](https://adssettings.google.com/) and/or [Your Online Choices](http://www.youronlinechoices.com/ie/).
+A cookie is a small amount of data, which often includes a unique identifier, that is sent to your device’s web browser from a website's computer and is stored on your *device's hard drive. Each website can send its own cookies to your web browser. Your browser will have the option to prevent websites using cookies (your browser's help screen will tell you how to do this), but please note that this may reduce the functionality of our website and other websites. You can also change your targeted advertising cookie settings by visiting [Google's Ad Personalisation](https://adssettings.google.com/) and/or [Your Online Choices](http://www.youronlinechoices.com/ie/).
 
-Adverts.ie (the website) uses cookies to enable us to personalise your visits to our website, simplify the sign-in processes, remember your preferences, track the website’s performance, deliver targeted advertising relevant to your interests and give you a better overall experience.
+Adverts.ie (the website) uses cookies to enable us to personalise your visits to our website, simplify the sign-in processes, remember your preferences, track the website’s performance, deliver targeted advertising relevant to your interests and give you a better overall experience.
 
 *PCs, tablets, mobile phones and any other internet accessible hardware, respectively.
 
@@ -306,7 +306,7 @@ If you do not allow these cookies, you will still see the same number of adverti
 
 **Third Party Cookies**
 
-These cookies are set by entities other than the owner of the website you’re visiting. 
+These cookies are set by entities other than the owner of the website you’re visiting.
 
 Some Adverts web pages may contain content from other sites (e.g. playable files from a video sharing website), which may set their own cookies. Also, if you share a link to an Adverts page, the service you share it on (e.g. social networks) may set a cookie on your browser.
 
@@ -343,6 +343,4 @@ You can find more information about the third party cookies on Adverts.ie in the
  _zendesk_session |  Functional | This session cookie is set by Zendesk. We use Zendesk for our Customer Support services. The cookie allows us remember relevant information when our Customer Support agents or users return to the Customer Support center to understand their preferences and improve their user experience.  
  _help_center_session |  Functional | Adverts uses Zendesk to provide our Customer Support Service interface and ticketing system.  
 This is a Zendesk session cookie which is needed to allow the Zendesk Guide part to function. Zendesk Guide is a knowledge base which enables our Customer Support Team to deal with queries as quickly as possible.  
- _zendesk_shared_session |  Functional | This session cookie is set by Zendesk. We use Zendesk for our Customer Support center. The cookie allows us remember relevant information when our customer care agents or customers return to the support center, to understand their preferences and improve their user experience. It holds session information for sharing across Zendesk applications.  
-  
-Back to top ^
+ _zendesk_shared_session |  Functional | This session cookie is set by Zendesk. We use Zendesk for our Customer Support center. The cookie allows us remember relevant information when our customer care agents or customers return to the support center, to understand their preferences and improve their user experience. It holds session information for sharing across Zendesk applications.
