@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brighton-hove.gov.uk privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611222929id_/http%3A//www.brighton-hove.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighton-hove.gov.uk privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009075452id_/https%3A//www.brighton-hove.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies | Brighton & Hove City Council
 
-Brighton and Hove City Council are committed to protecting your personal information and we take our responsibilities under the [Data Protection Act 1998](https://www.brighton-hove.gov.uk/www.gov.uk/data-protection/the-data-protection-act) and [EU General Data Protection Regulation (GDPR)](https://gdpr-info.eu/) very seriously.
+Brighton and Hove City Council are committed to protecting your personal information and we take our responsibilities under the [Data Protection Act 2018](http://www.gov.uk/data-protection/the-data-protection-act) and [EU General Data Protection Regulation (GDPR)](https://gdpr-info.eu/) very seriously.
 
 As a data controller we have a responsibility to make sure you know why and how your personal information is being collected in accordance with relevant data protection law.
 
@@ -25,7 +25,7 @@ For full details of our policies and guidelines, and to make a request for infor
 
 ## Who are we?
 
-The council is the data controller for purposes of the Data Protection Act (1998) and EU General Data Protection Regulation (GDPR) and is registered as a data controller with the Information Commissioner’s Office (ICO) under registration number Z5840053.
+The council is the data controller for purposes of the Data Protection Act (2018) and EU General Data Protection Regulation (GDPR) and is registered as a data controller with the Information Commissioner’s Office (ICO) under registration number Z5840053.
 
 The council has an overarching Data Protection Policy which provides the high level principles we operate to. This privacy notice describes how we ensure those principles are reflected into practice and explains what we will, and will not, do with personal information.
 
@@ -83,7 +83,7 @@ Most CCTV cameras located around the cities highways and public spaces are opera
 
 ### Electoral Register
 
-The Electoral Register for Brighton & Hove is a separate legal entity from the council and is separately notified with the Information Commissioner as a data controller as Electoral Registration Officer Brighton & Hove City Council , registration Number ZA324581.
+The Electoral Register for Brighton & Hove is a separate legal entity from the council and is separately notified with the Information Commissioner as a data controller as Electoral Registration Officer, Brighton & Hove City Council, registration number ZA324581.
 
 ### Other Public Bodies
 
@@ -99,22 +99,27 @@ Find out more about cookies on our website.
 
 ## Your Rights and Contact Information
 
-As a data controller we have a duty to inform you of not only why your personal information is being processed but what rights you have around your personal information too.
+As a data controller we have a duty to inform you of not only why your personal information is being processed but what rights you have with regard to your personal information too.
 
 You have the right to:
 
   * Be informed of how your personal information is being used
   * Have access to information held about you, this is commonly known as a Subject Access Request (SAR)
-  * Have your personal information deleted in certain circumstances
+  * Have your personal information deleted if it was obtained under the basis of consent and if no other legal basis exists to retain it
   * Have inaccuracies within your personal information corrected
-  * Restrict processing of your personal information until inaccuracies are corrected or if there is a dispute around legal basis for processing the personal information
-  * Object to processing of your personal information in certain circumstances
-  * Have your personal data transferred to another provider
+  * Restrict processing of your personal information until inaccuracies are corrected, processing is unlawful or if you dispute the legal basis for processing
+  * Object to processing of your personal information for direct marketing and in some cases where it is used for archives or statistical purposes
+  * Have your personal data transferred to another organisation if obtained under the legal basis of consent
   * Be informed of where automated decision making (ADM) takes place and be given an option to opt out of ADM.
 
 
 
-If you wish to understand more around the information we hold on you feel free to contact our Data Protection team on [data.protection@brighton-hove.gov.uk](mailto:data.protection@brighton-hove.gov.uk) or give us a call on 01273 295959.
+If you wish to exercise your information rights, please contact:
+
+  * our Data Protection team on [data.protection@brighton-hove.gov.uk](mailto:data.protection@brighton-hove.gov.uk) or give us a call on 01273 295959.
+  * our [Data Protection Officer](https://www.brighton-hove.gov.uk/content/council-and-democracy/about-your-council/data-protection-officer-dpo) (shared role with East Sussex and Surrey County Councils)
+
+
 
 ## Related information
 
