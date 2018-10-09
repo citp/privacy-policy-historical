@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkfromblog.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627064408id_/http%3A//linkfromblog.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkfromblog.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009204255id_/http%3A//linkfromblog.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - LinkFromBlog - buy blog reviews, advertise on blogs
 
