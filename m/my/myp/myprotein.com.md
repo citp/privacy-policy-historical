@@ -1,100 +1,116 @@
-> *The following text is extracted and transformed from the myprotein.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909020402id_/http%3A//www.myprotein.com/customer-services/privacy-security.list) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myprotein.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009143834id_/https%3A//www.myprotein.com/customer-services/privacy-and-security.list) for the most accurate reproduction.*
 
 # Privacy & Security | Myprotein.com
 
-Cend Limited (t/a myprotein) ( **We** ) are committed to protecting and respecting your privacy.
-
-This policy (together with our [terms of use and supply](https://web.archive.org/customer-services/terms-conditions.list) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is Cend Limited (t/a myprotein.co.uk) whose registered address is Meridian House, Gadbrook Park, Rudheath, Cheshire, CW9 7RA. 
-
-##  INFORMATION WE MAY COLLECT FROM YOU
-
-We may collect and process the following data about you:
-
-  * information that you provide by filling in forms on our site www.myprotein.com ( **our site** ). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by Cend Limited (t/a myprotein.co.uk) (or any group company), and when you report a problem with our site;  
-
-  * if you contact us, we may keep a record of that correspondence;  
-
-  * we may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them;  
-
-  * details of transactions you carry out through our site and data necessary for the fulfilment of your orders including your name, email address, delivery address, credit/debit card number, security code and expiry date; and  
-
-  * details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own IP addresses.  
+  * Skip to main navigation
+  * Skip to main content
 
 
 
+**Myprotein Privacy Policy**
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+Myprotein is committed to protecting our customer's privacy. Please take the time to review this notice which explains what information we collect about you, how we use it, and your rights. The Hut.com Limited (“Myprotein”, “we” or “us”) is the data controller of the personal data collected via or in connection with Myprotein and any associated App (the “Site”).
 
-##  COOKIES
+**What personal data do we collect about you?**
 
-We collect information about our customers via server logs, cookies, order forms and competitions. A cookie is a file that your web browser places on your computer's hard disk for record keeping purposes. The information collected in this way can be used to identify you unless you modify your browser settings. The cookie does not store any credit/debit card information nor password details. For further information about the cookies that we use on this website (as well as an explanation as to why we use them and how they can be disabled) please see our [Cookies](https://web.archive.org/customer-services/cookies.list) section. 
+We collect personal data from you when you provide it to us directly and through your use of the Site. This information may include:
 
-##  WHERE WE STORE YOUR PERSONAL DATA
-
-The data that we collect from you may be transferred to, and stored at, Chicago (a destination which is outside of the European Economic Area ( **EEA** )). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-
-Shopping on our site is safe and secure. Our site uses industry-standard Secure Sockets Layer (SSL) technology to provide encryption of personal information such as your name, address and credit card details. In this way, information passed between your computer and us cannot be read in the unlikely event of someone intercepting it. Credit or debit card transactions are secure.
-
-We will only accept orders using Secure Socket Layer (SSL) technology - this means you cannot inadvertently reveal personal information by using an unsecure connection. The latest browsers all support SSL. If for any reason this option has been disabled on your browser, you will not be able to transact until you reset these options.
-
-You can check that you are shopping in a secure environment by looking for either a locked padlock icon or an image of a key in the grey bar at the bottom of your screen. This should appear on any page where you are entering personal information (such as your credit card details) - no other page will transmit information about you.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
-
-##  USES MADE OF THE INFORMATION
-
-We use information held about you in the following ways:
-
-  * to ensure that content from our site is presented in the most effective manner for you and for your computer;   
-
-  * to provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes;  
-
-  * to carry out our obligations arising from any contracts entered into between you and us;  
-
-  * to allow you to participate in interactive features of our service, when you choose to do so; and  
-
-  * to notify you about changes to our service.  
+  * Information you provide to us when you use our Site (e.g. your name, contact details, gender, product reviews, and any information which you add to your account profile);
+  * Transaction and billing information, if you make any purchases from us or using our Site (e.g. credit/debit card details and delivery information);
+  * Records of your interactions with us (e.g. if you contact our customer service team, interact with us on social media);
+  * Information you provide us when you enter a competition or participate in a survey;
+  * Information collected automatically, using cookies and other tracking technologies (e.g. which pages you viewed and whether you clicked on a link in one of our email updates). We may also collect information about the device you use to access our Site; and
+  * Other information necessary to provide the Site, for example we may access your location if you give us your consent.
 
 
 
+If you also shop in one of our stores, we may combine information you give us in-store (e.g. if you make a purchase or join our mailing list in-store) with the information above.
 
-If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you. 
+**What do we use this personal data for?**
 
-We may also use your data, or permit our group companies to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by. If you do not want us to use your data in this way, please change the settings in your account. 
+Depending on how you use our Site, your interactions with us, and the permissions you give us, the purposes for which we use your personal data include:
 
-We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 100 women aged under the age of 25 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
-
-##  DISCLOSURE OF YOUR INFORMATION
-
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
-
-We may disclose your personal information to third parties:
-
-  * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;  
-
-  * if Cend Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets;  
-
-  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [ terms of use and supply](https://web.archive.org/customer-services/terms-conditions.list) and other agreements; or to protect the rights, property, or safety of Cend Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.  
+  * To fulfil your order and maintain your online account.
+  * To manage and respond to any queries or complaints to our customer service team.
+  * To personalise the Site to you and show you content we think you will be most interested in, based on your account information, your purchase history and your browsing activity.
+  * To improve and maintain the Site, and monitor its usage.
+  * For market research, e.g. we may contact you for feedback about our products.
+  * To send you marketing messages and show you targeted advertising, where we have your consent or are otherwise permitted to do so.
+  * For security purposes, to investigate fraud and where necessary to protect ourselves and third parties.
+  * To comply with our legal and regulatory obligations.
 
 
 
+We rely on the following legal basis, under data protection law, to process your personal data:
 
-##  YOUR RIGHTS
+  * Because the processing is necessary to perform a contract with you, or take steps prior to entering into a contract with you (e.g. where you have made a purchase with us, we use your personal data to process the payment and fulfil your order).
+  * Because we have obtained your consent (e.g. where you contact us with a query, where you add optional information to your account profile, or if you consent to receive marketing from us).
+  * Because it is in our legitimate interests as an e-commerce provider to maintain and promote our services. We are always seeking to understand more about our customers in order to offer the best products and customer experience. We use information about you to tailor your view of the Site, to make it more interesting and relevant in respect of the products and offers on view.
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by changing the settings in your account. You can also exercise the right at any time by contacting us at [customer.relations@myprotein.com](mailto:customer.relations@myprotein.com).
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
 
-We take the risk of internet fraud very seriously. With the volume of fraudulent credit card transactions increasing, we make every effort to ensure all orders are thoroughly checked using the information already supplied. There is a possibility we may contact you to make additional security checks and we ask for your co-operation to enable us to complete them. Fraudulent transactions will not be tolerated by us and such transactions will be reported to the relevant authorities.
+Our Site may allow you the option of adding additional information to your account profile, such as information about your body type, skin type, hair type, hair condition, training regime, performance goals, height and weight. We treat this information with particular sensitivity, as we understand it can reveal information about your health or ethnicity, for example. You do not have to provide this information to us, and can delete it or update it at any time.
 
-##  ACCESS TO INFORMATION
+**Marketing**
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+We love to communicate with our customers and so, depending on your marketing preferences, we may use your personal data to send you marketing messages by email, phone or post. Some of these messages may be tailored to you, based on your previous browsing or purchase activity, and other information we hold about you.
 
-##  CHANGES TO OUR PRIVACY POLICY
+If you no longer want to receive marketing communications from us (or would like to opt back in!), you can change your preferences at any time by contacting us (details below), clicking on the ‘unsubscribe’ link in any email, or updating your settings in your account. If you unsubscribe from marketing, please note we may still contact you with service messages from time to time (e.g. order and delivery confirmations, and information about your legal rights).
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+You may also see ads for our Site on third party websites, including on social media. These ads may be tailored to you using cookies (which track your web activity, so enable us to serve ads to customers who have visited our Site). Where you see an ad on social media, this may because we have engaged the social network to show ads to our customers, or users who match the demographic profile of our customers.  In some cases, this may involve sharing your email address with the social network. If you no longer want to see tailored ads you can change your cookie and privacy settings on your browser and these third party websites.
 
-##  CONTACT
+**Who do we share this personal data with?**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [customer.relations@myprotein.com](mailto:customer.relations@myprotein.com).
+We share customers’ personal data with third parties in the following circumstances:
+
+  * With other companies in our group of companies, as necessary to operate the Site.
+  * With our suppliers and service providers working for us, e.g. payment processors and delivery companies.
+  * With our professional and legal advisors.
+  * With third parties engaged in fraud prevention and detection.
+  * With law enforcement or other governmental authorities, e.g. to report a fraud or in response to a lawful request.
+  * In the event that we sell any business assets, the personal data of our customers may be disclosed to a potential buyer. In this event, we will make reasonable attempts to ensure the buyer will be bound by the terms of this Privacy Policy.
+  * Otherwise where we have your consent or are otherwise legally permitted to do so.
+
+
+
+**Storage and Retention**
+
+We use service providers based around the world. Consequently, your personal data may be processed in countries outside of Europe, including in countries where you may have fewer legal rights in respect of your data than you do under local law. If we transfer personal data outside the European Economic Area we will, as required by applicable law, ensure that your privacy rights are adequately protected by appropriate safeguards, in particular the EU’s standard contractual clauses.  Please contact us if you would like more information about these safeguards.
+
+We will keep your personal data for as long as we need it for the purposes set out above, and so this period will vary depending on your interactions with us. For example, where you have made a purchase with us, we will keep a record of your purchase for the period necessary for invoicing, tax and warranty purposes. We may also keep a record of correspondence with you (for example if you have made a complaint about a product) for as long as is necessary to protect us from a legal claim. Where we no longer have a need to keep your information, we will delete it. Please note that where you unsubscribe from our marketing communications, we will keep a record of your email address to ensure we do not send you marketing emails in future.
+
+**Security**
+
+This Site ensures that data is encrypted when leaving the Site. This process involves the converting of information or data into a code to prevent unauthorised access. This Site follows this process and employs secure methods to ensure the protection of all credit and debit card transactions. Encryption methods such as SSL are utilised to protect customer data when in transit to and from this Site over a secure communications channel.
+
+Whilst we do everything within our power to ensure that personal data is protected at all times from our Site, we cannot guarantee the security and integrity of the information that has been transmitted to our Site.
+
+**Children**
+
+Our Site is not intended for, and should not be used by, children under the age of 18. We do not knowingly collect personal data from children under 18.
+
+**Cookies**
+
+Our Sites uses cookies and similar technologies to provide certain functionality to the Site, to understand and measure its performance, and to deliver targeted advertising. Please see our [ **Cookie Policy here  **](https://web.archive.org/customer-services/cookies.list)for further information about the cookies we use and how to amend your cookie settings.
+
+**Your rights**
+
+You have certain rights in respect of your personal data, including the right to access, portability, correct, and request the erasure of your personal data.
+
+You also have the right to object to your personal data being used for certain purposes, including to send you marketing. See ‘ **Marketing** ’ above, for more details of how to opt-out of marketing.
+
+We will comply with any requests to exercise your rights in accordance with applicable law. Please be aware, however, that there are a number of limitations to these rights, and there may be circumstances where we are not able to comply with your request. To make any requests regarding your personal data, or if you have any questions or concerns regarding your personal data, you should contact us using the details below. You are also entitled to contact your local supervisory authority for data protection.
+
+**Contact Us**
+
+If you have any queries on any aspect of our Privacy Policy, please contact us on the details below:
+
+Telephone: 0161 8131481
+
+Email: [feedback@thehutgroup.com](mailto:feedback@thehutgroup.com)
+
+Address: Customer Services, Meridian House, Gadbrook Park, Cheshire, CW9 7RA
+
+**Last updated** 14/5/18
+
+Back to top
