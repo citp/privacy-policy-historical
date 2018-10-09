@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loseit.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520183121id_/http%3A//loseit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loseit.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009160618id_/https%3A//loseit.com/privacy) for the most accurate reproduction.*
 
 # Lose It! -
 
@@ -6,7 +6,7 @@
 
 This Privacy Policy informs users of the Lose It! Website, [AscendApp.com](http://ascendapp.com/), and other Lose It! controlled or operated websites (“Websites”) and embodyDNA and other LoseIt! mobile applications (“Apps”) about how FitNow, Inc., doing business as Lose It! (“Lose It!” or “we”) gathers and uses (i) personal information submitted to Lose It! and (ii) aggregated information collected from the Websites, Apps and Lose It! Services (as defined below). This Privacy Policy applies to the Websites and Apps and other Lose It! owned websites, domains, services, applications and products (“Lose It! Services”).
 
-We may modify or amend this Privacy Policy from time to time. If we make material changes, as determined by us, in the way in which personal information is collected, used or transferred, we will notify you of these changes by email and by posting a modified version of this Privacy Policy on our website. Your continued use of Lose It! Services ten days following any changes means that you accept those changes. Even when we make changes, however, personal information collected by us will be treated in accordance with the version of the Privacy Policy in effect at the time the personal information was collected, unless we obtain your consent otherwise.
+We may modify or amend this Privacy Policy from time to time. If we make material changes, as determined by us, in the way in which personal information is collected, used or transferred, we will notify you of these changes by email and by posting a modified version of this Privacy Policy on our website and by seeking appropriate user consents. Your provision of such consent or, if such consent is not required, your continued use of Lose It! Services ten days following any changes means that you accept those changes. Even when we make changes, however, personal information collected by us will be treated in accordance with the version of the Privacy Policy in effect at the time the personal information was collected, unless we obtain your consent otherwise.
 
   * Scope of this Privacy Statement
   * Collection of Personal Information
@@ -26,14 +26,14 @@ We may modify or amend this Privacy Policy from time to time. If we make materia
 **Collection of Personal Information**   
 Lose It! collects and uses your personal information to manage and enhance your use and experience of the Websites and Apps and Lose It! Services. LOSE IT! DOES NOT SHARE INFORMATION COLLECTED FROM YOU THAT COULD PERSONALLY IDENTIFY YOU (“Personally Identifiable Information”) WITH ANY THIRD PARTY UNLESS YOU SPECIFICALLY CONSENT TO SUCH SHARING. We may share information that we collect with third parties consistent with this Privacy Policy, but such information will be aggregated and/or modified so as not to enable the identification of any user.
 
-We may also use and allow third parties to track your browsing history profile. Such tracking will allow Lose It! to offer you specifically tailored services and products (both of Lose It! and its third party partners). No personally identifiable information will be shared with any third party without your consent.
+We may also use and allow third parties to track your browsing history profile. Such tracking will allow Lose It! to offer you specifically tailored services and products with appropriate user consent, where necessary (both of Lose It! and its third party partners). No personally identifiable information will be shared with any third party without your consent.
 
 **Types of Information Collected**
 
 _User Information._ In addition to the above personal information, we collect standard information about Lose It! users such as:
 
   * Personal Diet Data”, including, birthdate, height and weight, sex, and specific details of the foods and drinks that you consume and your exercise, and genetic results from embodyDNA.
-  * Test results generated from a user’s genetic data, but don’t store the genetic data itself
+  * Test results generated from a user’s genetic data (although we don’t store the genetic data itself).
   * Email address and Lose It! Password.
   * IP addresses, browser type and your operating system.
   * Pages visited on the Websites referring and exit pages, and the dates and times of the visits.
@@ -50,7 +50,7 @@ Additionally, you may choose, as part of using the embodyDNA App, to provide a b
 
 _Coaches._ If you are a Coach participating in the Ascend for Lose It! coaching program you will be asked to provide your email address and to select a password. You may also provide personal information such as your name, the name of your company and your photo.
 
-**Supplemental Information.**   
+**Supplemental Information**   
 Your information may also be supplemented with additional information from other sources, including publically available sources.
 
 **Use of Personal Information**
@@ -88,13 +88,13 @@ Please bear in mind that Lose It! cannot control what your friends or Coaches do
 
 **The Genetic Information Nondiscrimination Act of 2008**
 
-The Genetic Information Nondiscrimination Act of 2008 (GINA) provides that you do not need to share your genetic Information with your employer or your health insurer. Even so, you may be asked to share your Genetic Information with other insurers. These others could include life, long-term care, and disability insurance firms. You should always take care with whom you choose to share your Genetic Information.
+The Genetic Information Nondiscrimination Act of 2008 (GINA) provides, as to users that are residents of the United States, that you do not need to share your genetic Information with your employer or your health insurer. Even so, you may be asked to share your Genetic Information with other insurers. These others could include life, long-term care, and disability insurance firms. You should always take care with whom you choose to share your Genetic Information.
 
 **Control of Personal information and Opt-Out Options**
 
-Lose It! values the accuracy of the information you provide. You can confirm, change, or update personal information you have provided to us by contacting us directly at [info@loseit.com](mailto:info@loseit.com).
+Lose It! values the accuracy of the information you provide. All users can confirm, change, or update personal information you have provided to us by contacting [Lose It! Customer Care](https://loseit.live/help).
 
-If you want to opt-out of communications from Lose It!, you can do so by emailing your request to [privacy@loseit.com](mailto:privacy@loseit.com). If you change your mind, you can opt-in again, by emailing this same address. When you opt-out of promotional communications from us, you may still receive service messages (such as an order confirmation) and legally mandated notices.
+If you want to opt-out of communications from Lose It!, you can do so by contacting [Lose It! Customer Care](https://loseit.live/help). If you change your mind, you can opt-in again by contacting [Lose It! Customer Care](https://loseit.live/help). When you opt-out of promotional communications from us, you may still receive service messages (such as an order confirmation) and legally mandated notices. Users that are residents of the European Union have additional rights with respect to personal information, as explained below.
 
 **Security of the Information We Collect**
 
@@ -102,9 +102,9 @@ We take commercially reasonable precautions in an effort to protect your informa
 
 **Protection of Children's Privacy**
 
-LoseIt.com is a general interest website, and we do not knowingly collect any personal information from children. If you are under 18, you are not permitted to use the Websites or App. Consistent with the Children's Online Privacy Protection Act (“COPPA”), the Websites and App are not intended for use by anyone under the age of 18 (COPPA's minimum protections are for minors 13 years of age or under). Lose It! does not knowingly collect personal information from children through this Web Site.
+LoseIt.com is a general interest website, and we do not knowingly collect any personal information from children. If you are under 18, you are not permitted to use the Websites or App. Consistent with the Children's Online Privacy Protection Act (“COPPA”) and the General Data Protection Regulation, the Websites and App are not intended for use by anyone under the age of 18 (COPPA's minimum protections are for minors 13 years of age or under). Lose It! does not knowingly collect personal information from children through this Web Site.
 
-If you are a parent with concerns about children's privacy issues in conjunction with the use of this Web Site, please contact us at [info@loseit.com] (mail to:info@loseit.com). Lose It! encourages parents to discuss this Privacy Policy and the dangers of providing Personal Information on-line.
+If you are a parent with concerns about children's privacy issues in conjunction with the use of this Web Site, please contact [Lose It! Customer Care](https://loseit.live/help). Lose It! encourages parents to discuss this Privacy Policy and the dangers of providing Personal Information on-line.
 
 **Use of Cookies and Tracking Technology**
 
@@ -115,16 +115,48 @@ If you would like to avoid cookies, your web browser may have an option that ena
 
 _Web Beacons._ We may also use web beacons, clear gif technology, or action tags as mechanisms to collect aggregate site visitation data by tracking how users navigate to and through our Websites. We may also use this technology to track the delivery of HTML email messages. Data collected through this mechanism is not linked to personal information. A web beacon is an electronic image and string of code that is imbedded in a web page or email which allows us to track web page views/hits or the opening of an email containing a beacon. We may use web beacon in conjunction with cookies to track web site activity on www.loseit.com. Web beacon tracking by Lose It! does not identify the name or email address of the web user or mail recipient.
 
-**Mobile Analytics.**   
+**Mobile Analytics**   
 In addition, Lose It! or our partners may use analytics technology to track anonymous traffic data about use of the Apps. Such partners have the right to retain and use the anonymous traffic data collected by through the analytics service from users of the Websites or the Apps.
 
 **Links to Other Websites**
 
 Our Websites may contain links to other websites. Please be aware that we are not responsible for the privacy practices of these other sites, and we encourage you to review the policies of each site you use. We cannot control the actions of such third parties or be held responsible for their use of any information that you provide directly to them.
 
-**Users from Outside the United States**
+**Legal Bases for Processing Your Information**
 
-Lose It! and the Lose It! servers are located in the United States and are subject to the applicable state and federal laws of the United States. If you use Lose It!, you consent to the use and disclosure of information in accordance with this privacy statement and subject to such laws.
+We rely on the following legal grounds to process your personal information:
+
+  * Performance of a contract – If you choose to make a purchase through the Websites or Apps, we need to collect and use your personal information to perform our agreement with you.
+  * Consent – We may use or disclose some of your personal information as described in this Privacy Policy subject to your consent.
+  * Legitimate interests – We may use your personal information for our legitimate interests to improve our products and services. Consistent with our legitimate interests and any choices that we offer or consents that may be required under applicable laws, we may use technical information as described in this Privacy Policy and use personal information for our marketing purposes.
+
+
+
+**Transfer and Processing of Data**
+
+For users within the United States, we process data in data centers located in the United States. We have adopted reasonable physical, technical, and organizational safeguards against accidental, unauthorized, or unlawful destruction, loss, alteration, disclosure, access, use, or processing of user data in our possession. We comply with state and federal laws governing the protection of personal information.
+
+For users within the European Union, we transfer data from the European Union to data centers located in the United States for processing. The European Commission has determined that the law of the United States does not provide a level of protection adequate to satisfy the requirements of Regulation 2016/679 of the European Parliament and of the Council of April 27, 2016 on the protection of natural persons with regard to the processing of personal data and free movement of such data, known as the General Data Protection Regulation (“GDPR”). As to users residing in the EU, however, we extend the rights provided for by the GDPR – as detailed below – including the imposition of required safeguards with respect to accidental, unauthorized or unlawful destruction, loss, alteration, disclosure, access, use or processing of data. Transfers of EU resident data from the EU to the United States from third parties (such as third party payment processors) are conducted in accordance with appropriate transfer mechanisms under the GDPR, principally contractual clauses approved by the European Commission.
+
+If you are a resident of the EU, you have the right to:
+
+  * request an accounting of all personal information that we possess that pertains to you in an electronically portable format (e.g., electronic copies of information attached to an email).
+  * request that we change any personal information that pertains to you.
+  * request that we delete any personal information that pertains to you.
+  * fully or partially withdraw your consent to the collection, processing, and/or transfer of your personal information.
+
+
+
+To request an accounting of your personal information, a change to your personal information, deletion of your personal information, or to withdraw your consent to the collection, processing, and/or transfer of your personal information, contact [Lose It! Customer Care](https://loseit.live/help). Once we have received notification that you withdraw your consent, we will no longer process your information for the purpose(s) to which you originally consented unless there are compelling legitimate grounds for further processing which override your interests, rights and freedoms or for the establishment, exercise or defense of legal claims.
+
+If you believe that we have misused your personal data, you also have a right to lodge a complaint with a national Data Protection Authority. Each European Union member nation has established its own Data Protection Authority; you can find out about the Data Protection Authority in your country here: <http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm>.
+
+**Data Retention and Deletion**
+
+We will only retain your personal information for as long as necessary to fulfill the purposes for which it was collected and processed, including for the purposes of satisfying any legal, regulatory, accounting or reporting requirements.   
+In some circumstances, we may anonymize your personal information so that it can no longer be associated with you, in which case it is no longer personal information.
+
+It is our policy to retain personal information for 6 months once such personal information is no longer necessary to deliver the Website and Apps and to delete such personal information thereafter. This means that, if you close your account with us, we will delete personal information associated with your account after 6 months. Regarding other types of information we collect as described in this policy, it is our policy to retain such personal information for 6 months and to delete such personal information thereafter.
 
 **DO NOT TRACK DISCLOSURE**
 
@@ -134,6 +166,8 @@ Third parties that have content embedded on the Websites or App such as a social
 
 **Contact Information**
 
-We welcome your input on our privacy statement. If you have any questions or suggestions regarding our privacy statement, please contact us at [info@loseit.com](mailto:info@loseit.com).
+We welcome your input on our privacy statement. If you have any questions or suggestions regarding our privacy statement, please contact [Lose It! Customer Care](https://loseit.live/help).
 
-Last Updated: 07/11/2017
+Our representative in the EU for personal data purposes is Foley Hoag AARPI, you can contact our representative at the following address, 153 rue du Faubourg Saint Honoré, 75008 Paris.
+
+Last Updated: 08/06/2018
