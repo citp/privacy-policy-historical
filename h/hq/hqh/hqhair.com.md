@@ -1,37 +1,123 @@
-> *The following text is extracted and transformed from the hqhair.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120110858id_/http%3A//www.hqhair.com/articles/privacy-policy.list) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hqhair.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009041845id_/https%3A//www.hqhair.com/articles/privacy-policy.list) for the most accurate reproduction.*
 
-# Privacy Policy | HQhair | Free Delivery Options
+# Articles | About Us | Privacy Policy | HQhair.com | Free Delivery
 
-## This is a Secure Website
+HQhair is committed to protecting our customer's privacy. Please take the time to review this notice which explains what information we collect about you, how we use it, and your rights. The Hut.com Limited (“HQhair”, “we” or “us”) is the data controller of the personal data collected via or in connection with [HQhair.com] and any associated App (the “Site”). 
 
-[ABOUT SSL CERTIFICATES]()
+ ** **What  **** ** **personal data do we collect about you?****  
 
-This site uses a VeriSign SSL123 Certificate to offer secure communications by encrypting all data to and from the site. VeriSign has checked and verified the site's registered domain name. 
 
-We are committed to protecting our customer’s privacy. We are entirely open about our information gathering practices. Please take the time to review this notice which states our privacy policy. 
+We collect personal data from you when you provide it to us directly and through your use of the Site. This information may include:
 
-For us to process your order, we need to know your name, email address, delivery address, credit/debit card number, security code and expiry date. We will not collect any information about you unless it is specifically and knowingly provided by you. The information we collect will be accurate and up to date. You can check this at any time by contacting our customer care department. We will immediately correct any inaccuracies you report.
+  * Information you provide to us when you use our Site (e.g. your name, contact details, gender, product reviews, and any information which you add to your account profile);
+  * Transaction and billing information, if you make any purchases from us or using our Site (e.g. credit/debit card details and delivery information);
+  * Records of your interactions with us (e.g. if you contact our customer service team, interact with us on social  
+media);
+  * Information you provide us when you enter a competition or participate in a survey;
+  * Information collected automatically, using cookies and other tracking technologies (e.g. which pages you viewed and whether you clicked on a link in one of our email updates).  We may also collect information about the device you use to access our Site; and
+  * Other information necessary to provide the Site, for example we may access your location if you give us your consent.
 
-Additionally, we will look at the products you buy, together with the way you view our site to enable us to send you information about products and services that you may be interested in. We will use this information to tailor your view of the site to make it more interesting and relevant in respect of the products and offers on view.
 
-We collect information about our customers via server logs, cookies, order forms and competitions. A cookie is a file that your web browser places on your computer’s hard disk for record keeping purposes. The information collected in this way can be used to identify you unless you modify your browser settings. The cookie does not store any credit/debit card information nor password details. Please see our [ Cookie Policy ](http://www.hqhair.com/articles/cookie-information.list) for further information.
 
-We have business and technical partners whom we share data with to handle orders, process credit and debit card payments and provide a range of services, including for fraud protection purposes. They are bound by Data Protection covenants and must process the personal information in accordance with this privacy policy. You should be aware that if we are requested by the police or any other regulatory authority investigating suspected illegal activities to provide your personal information, we are entitled to do so.
+If you also shop in one of our stores, 
 
-In the event that we sell or buy any business or assets, we may disclose your personal data to the prospective seller or buyer of such business or assets.
+we may combine information you give us in-store (e.g. if you make a purchase or 
 
-We operate an opt out mail system. This gives you the choice of whether or not you wish to receive marketing information. Replying to the 'unsubscribe' link in promotional mail will also ensure that your name is removed from our mailing list. Your opt-in preference to receive promotional emails from websites owned by The Hut Group of companies will be recorded at the point of registration and as part of the sales process. You can unsubscribe from any of these emails at any time.
+join our mailing list in-store) with the information above. 
 
-We may also use your data, or permit our group companies to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by email. If you do not want us to use your data in this way, please change the settings in your account. Replying to the 'unsubscribe' link in promotional mail will also ensure that your name is removed from our mailing list. 
+ ** **What do we use this personal data for?****
 
-This website employs industry-standard SSL to provide secure communication (including for credit card transactions). SSL is a communications protocol for transmitting private information over the internet. It works by encrypting data that is transmitted over the SSL connection. When you place an order, your personal details (including credit/debit card information) is encrypted and then sent over the internet using an SSL connection. No one can read or access the data that is being transmitted.
+Depending on how you use our Site, your interactions with us, and the permissions you give us, the purposes for which we use your personal data include:
 
-It is important for you to protect against unauthorised access to your password and to your computer. Ensure that you log out when you finish using a shared computer.
+  * To fulfil your order and maintain your online account.
+  * To manage and respond to any queries or complaints to our customer service team.
+  * To personalise the Site to you and show you content we think you will be most interested in, based on your account information, your purchase history and your browsing activity.
+  * To improve and maintain the Site, and monitor its usage.
+  * For market research, e.g. we may contact you for feedback about our products.
+  * To send you marketing messages and show you targeted advertising, where we have your consent or are otherwise permitted  
+to do so.
+  * For security purposes, to investigate fraud and where necessary to protect ourselves and third parties.
+  * To comply with our legal and regulatory obligations.
 
-In addition to the company's safeguards, your personal data is protected in the UK by the Data Protection Act (the 'Act'). The Act requires us, as registered Data Controllers, amongst other things to ensure that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should, where necessary, be kept up to date and not retained for longer than is necessary. It should be kept securely to prevent unauthorised access by other people.
 
-We take the risk of internet fraud very seriously. With the volume of fraudulent credit card transactions increasing, we make every effort to ensure all orders are thoroughly checked using the information already supplied. There is a possibility we may contact you to make additional security checks and we ask for your co-operation to enable us to complete them. Fraudulent transactions will not be tolerated by us and such transactions will be reported to the relevant authorities.
 
-## Contact Us
+We rely on the following legal basis, under data protection law, to process your personal data:
 
-If you have any queries on any aspect of the above policy, please [contact us](https://hqhaircom/hqhair/customerQuery.account?action=postQuery&skeletonAccount=true).
+  * Because the processing is necessary to perform a contract with you, or take steps prior to entering into a contract with you (e.g. where you have made a purchase with us, we use your personal data to process the payment and fulfil your order).
+  * Because we have obtained your consent (e.g. where you contact us with a query, where you add optional information to your account profile, or if you consent to receive marketing from us).
+  * Because it is in our legitimate interests as an e-commerce provider to maintain and promote our services. We are always seeking to understand more about our customers in order to offer the  
+best products and customer experience. We use information about you to tailor your view of the Site, to make it more interesting and relevant in respect of the products and offers on view.
+
+
+
+Our Site may allow you the option of adding additional information to your account profile, such as information about your body type, skin type, hair type, hair condition, training regime, performance goals, height and weight. We treat this information with particular
+
+sensitivity, as we understand it can reveal information about your health or ethnicity, for example. You do not have to provide this information to us, and can delete it or update it at any time.
+
+ ** **Marketing****
+
+We love to communicate with our customers and so, depending on your marketing preferences, we may use your personal data to send you marketing messages by email, phone or post. Some of these messages may be tailored to you, based on your previous browsing or purchase activity, and other information we hold about you. 
+
+If you no longer want to receive marketing communications from us (or would like to opt back in!), you can change your preferences at any time by contacting us (details below), clicking on the ‘unsubscribe’ link in any email, or updating your settings in your account. If you unsubscribe from marketing, please note we may still contact you with service messages from time to time (e.g. order and delivery confirmations, and information about your legal rights).
+
+You may also see ads for our Site on third party websites, including on social media. These ads may be tailored to you using cookies (which track your web activity, so enable us to serve ads to customers who have visited our Site). Where you see an ad on social media, this may because we have engaged the social network to show ads to our customers, or users who match the demographic profile of our customers.  In some cases, this may involve sharing your email address with the social network. If you no longer want to see tailored ads you can change your cookie and privacy settings on your browser and these third party websites.
+
+ ** **Who do we share this personal data with?****
+
+We share customers’ personal data with third parties in the following circumstances:
+
+  * With other companies in our group of companies, as necessary to operate the Site.
+  * With our suppliers and service providers working for us, e.g. payment processors and delivery companies.
+  * With our professional and legal advisors.
+  * With third parties engaged in fraud prevention and detection.
+  * With law enforcement or other governmental authorities, e.g. to report a fraud or in response to a lawful  
+request.
+  * In the event that we sell any business assets, the personal data of our customers may be disclosed to a potential buyer. In this event, we will make reasonable attempts to ensure the buyer will be bound by the terms of this Privacy Policy.
+  * Otherwise where we have your consent or are otherwise legally permitted to do so.
+
+
+
+ ** **Storage and Retention****
+
+We use service providers based around the world. Consequently, your personal data may be processed in countries outside of Europe, including in countries where you may have fewer legal rights in respect of your data than you do under local law. If we transfer personal data outside the European Economic Area we will, as required by applicable law, ensure that your privacy rights are adequately protected by appropriate safeguards, in particular the EU’s standard contractual clauses.  Please contact us if you would like more information about these safeguards.
+
+We will keep your personal data for as long as we need it for the purposes set out above, and so this period will vary depending on your interactions with us. For example, where you have made a purchase with us, we will keep a record of your purchase for the period necessary for invoicing, tax and warranty purposes. We may also keep a record of correspondence with you (for example if you have made a complaint about a product) for as long as is necessary to protect us from a legal claim. Where we no longer have a need to keep your information, we will delete it. Please note that where you unsubscribe from our marketing communications, we will keep a record of your email address to ensure we do not send you marketing emails in future.
+
+ ** **Security  ****
+
+This Site ensures that data is encrypted when leaving the Site. This process involves the converting of information or data into a code to prevent unauthorised access.
+
+This Site follows this process and employs secure methods to ensure the protection of all credit and debit card transactions. Encryption methods such as SSL are utilised to protect customer data when in transit to and from this Site over a secure communications channel.
+
+Whilst we do everything within our power to ensure that personal data is protected at all times from our Site, we cannot guarantee the security and integrity of the information that has been transmitted to our Site.
+
+ ** **Children****
+
+Our Site is not intended for, and should not be used by, children under the age of 18. We do not knowingly collect personal data from children under 18.
+
+ ** **Cookies****
+
+Our Sites uses cookies and similar technologies to provide certain functionality to the Site, to understand and measure its performance, and to deliver targeted advertising. Please see our  ** **** ** **** ** **** ** **[Cookie Policy here](https://www.hqhair.com/articles/cookie-information.list)********  **for further information about the cookies we use and how to amend your cookie settings.
+
+ ** **Your rights****
+
+You have certain rights in respect of your personal data, including the right to access, portability, correct, and request the erasure of your personal data.
+
+You also have the right to object to your personal data being used for certain purposes, including to send you marketing. See ‘ ** **Marketing**** ’ above, for more details of how to opt-out of marketing.
+
+We will comply with any requests to exercise your rights in accordance with applicable law. Please be aware, however, that there are a number of limitations to these rights, and there may be circumstances where we are not able to comply with your request. To make any requests regarding your personal data, or if you have any questions or concerns regarding your personal data, you should contact us using the details below.
+
+You are also entitled to contact your local supervisory authority for data protection.
+
+ ** **Contact Us****
+
+If you have any queries on any aspect of our Privacy Policy, please contact us on the details below:
+
+Telephone: 0161 8131481
+
+Email: [feedback@thehutgroup.com](mailto:feedback@thehutgroup.com)
+
+Address: Customer Services, Meridian  
+House, Gadbrook Park, Cheshire, CW9 7RA
+
+ ** **Last updated  ****15th May 2018
