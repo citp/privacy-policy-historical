@@ -1,21 +1,20 @@
-> *The following text is extracted and transformed from the fortytwo.sg privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126011839id_/https%3A//www.fortytwo.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortytwo.sg privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009175904id_/https%3A//www.fortytwo.sg/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Online Shopping | FortyTwo | Furniture & Appliances | FortyTwo
+# Privacy Policy | Online Shopping | FortyTwo | Furniture & Home Décor | FortyTwo
 
-**FortyTwo's Commitment To Your Privacy**
+#### FortyTwo's Commitment To Your Privacy
 
 Your privacy is very important to us. Hence we're providing this Statement to explain our online information collection and usage practices, as well as to inform you on the choices you can make about the way your information is collected and used on the Website.
 
- **Scope**  
-
+#### Scope
 
 This Privacy Policy Statement covers all aspects of the FortyTwo Website (www.fortytwo.sg). The information ("Information") referred to in this Statement is the personal information any individual furnishes to FortyTwo through the Website.
 
- **Information Types Collected**
+#### Information Types Collected
 
 FortyTwo collects two different types of information off this Website: Website Visitor Information through and Personal Identity Information voluntarily provided to FortyTwo by FortyTwo customers and Website visitors.
 
- **Website Visitor Information**
+#### Website Visitor Information
 
 FortyTwo routinely collects Information on Website activity. This includes website traffic data (eg. the number of people who visit the Website, the individual pages they view, how long they stay on each page, etc).
 
@@ -23,7 +22,7 @@ All Website Visitor Information is collected on an anonymous and aggregated basi
 
 We use this information to monitor the activity on the website and improve on the efficiency and effectiveness of the Website.
 
- **Personally Identifiable Information**
+#### Personally Identifiable Information
 
 Personally Identifiable Information is only collected on certain pages of the FortyTwo Website. This Information is collected when you fill in our online order/contact forms, join our forums, or take part voluntarily in our online surveys.
 
@@ -31,7 +30,7 @@ The Personally Identifiable Information you submit to us can include your name, 
 
 This information is only collected from you when you use portions of the site which require us to register these details. All information is provided to us voluntarily by you. Most of the site is still accessible and usable without any need for the submission of Personally Identifiable Information.
 
- **How FortyTwo Uses Your Information**
+#### How FortyTwo Uses Your Information
 
 This Information, which you voluntarily provide to us, is used purely to perform the service which you have requested.
 
@@ -43,17 +42,17 @@ FortyTwo will release Information when we determine that such release is require
 
 FortyTwo does not sell your Personally Identifiable Information. You may unsubscribe from any of our promotional messaging services whenever you wish.
 
- **FortyTwo's Right To Amend Privacy Policy**
+#### FortyTwo's Right To Amend Privacy Policy
 
 FortyTwo reserves the right to amend this Privacy Policy Statement at its own discretion and all changes in Policy are effective upon publishing. We advise you to check this Privacy Policy frequently for any updates.
 
- **Contact FortyTwo**
+#### Contact FortyTwo
 
 Should you have any queries regarding this Statement, please contact FortyTwo at:  
 Our Office Address:
 
  **5 Toh Guan Road East, #05-01**  
 **Singapore 608831**  
-E-mail: [cs@fortytwo.sg](mailto:cs@fortytwo.sg)  
-Telephone: 6777 7667  
+E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#57342417313825232e232038792430)  
+Telephone: [6777 7667](callto:cs@fortytwo.sg)  
 
