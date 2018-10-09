@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timetoast.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626210917id_/http%3A//www.timetoast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetoast.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010004919id_/https%3A//www.timetoast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Timetoast timelines
 
@@ -137,9 +137,8 @@ EU individuals also have the right to make a complaint to a government superviso
 Timetoast's Controller for processing personal information is: 
 
 **Daniel Todd Ltd.**  
-32 Angelis Apartments  
-69 Graham Street  
-London, N1 8LH  
+59 Bulstrode Way  
+Gerrards Cross, SL9 7QT  
 United Kingdom  
 
 
@@ -163,10 +162,9 @@ Although most changes are likely to be minor, Timetoast may change its Privacy P
 
 ## 13 / Change log
 
-This privacy policy was last updated May 24th, 2018. 
-
-  * _May 24th, 2018:_ Revised and reorganized language throughout to help simplify the policy and clarify our practices.
-  * _July 15th, 2009:_ Adds information about usage of third party advertising networks to serve ads
-  * _April, 2008:_ Initial version of Privacy Policy
+  * _August 12th, 2018:_ Updates Controller address.
+  * _May 24th, 2018:_ Revises and reorganizes language throughout to help simplify the policy and clarify our practices.
+  * _July 15th, 2009:_ Adds information about usage of third party advertising networks to serve ads.
+  * _April, 2008:_ Initial version of Privacy Policy.
 
 
