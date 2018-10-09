@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the aussiebum.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625215734id_/https%3A//www.aussiebum.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussiebum.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009171039id_/https%3A//www.aussiebum.com/privacy) for the most accurate reproduction.*
 
-# PRIVACY
+# Privacy Policy on aussieBum online store
 
 Effective starting: March 26, 2014
+
+Introduction 
 
 This Privacy Policy explains what information aussieBum collects about you and why, what we do with that information, how we share it, and how we handle the content you place in our online and offline systems. By providing your Personal Information, you consent to any transfer and processing in accordance with this Policy. 
 
@@ -137,7 +139,7 @@ Contacting This Website:
 ##  Access to Your Personal Information and Complaints Procedure 
 
 1.1 Under the Privacy Act 1988 (Cth), you have certain rights to access the personal information we collect and hold about you.  
-1.2 Generally, subject to the exceptions of APP 12.3, we will allow an individual access to the personal information we hold about them within a reasonable time after it is requested. When requesting such access please identify the precise type/s of information requested. You may make a request by contacting our Customer Service Team at help@aussiebum.com  
+1.2 Generally, subject to the exceptions of APP 12.3, we will allow an individual access to the personal information we hold about them within a reasonable time after it is requested. When requesting such access please identify the precise type/s of information requested.?You may make a request by contacting our Customer Service Team at help@aussiebum.com  
 1.3 We take those steps reasonable in the circumstances to ensure that the personal information that we collect, use and disclose is accurate, up to date and complete. Where an individual requests to correct information, we will take reasonable steps to correct the information, having regard to the purpose for which it is held. You may lodge a request to correct personal information in the manner outlined in clause 1.2 above.  
 1.4 To make a complaint about a breach of the Australian Privacy Principles, which includes how we handle your personal information, you may contact our Customer Service Team. We will endeavor to respond to your complaint within a reasonable time after it is received. If you are not satisfied by our response, you may acquire further information regarding privacy from the Office of the Australian Information Commissioner. 
 
