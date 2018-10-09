@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the foe.org privacy policy that was archived on 2018-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180409164406id_/https%3A//foe.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foe.org privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009170818id_/https%3A//foe.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Friends of the Earth - Friends of the Earth
 
 We are committed to protecting your privacy.
+
+_Note: This privacy policy was updated in May 2018._
 
 To make your experience on this website and our email lists more convenient, we gather information from you. We maintain the privacy of your information using security technologies and adhere to policies that prevent unauthorized use of your personal information.
 
@@ -24,7 +26,9 @@ We may provide personal information to third parties on a completely confidentia
 
 ### Data Security
 
-The data we gather from our supporters is stored on servers at a third-party site, Salsa Labs. Salsa’s servers utilize industry-standard methods to protect the confidentiality and integrity of personal information. Access to Friends of the Earth’s data is restricted within the company, and all employees are aware that this data is private. If you have any further questions about privacy or security, please contact Salsa by sending an email to: info@salsalabs.com. You can also read its privacy policy [here](https://www.salsalabs.com/privacy-policy).
+The data we gather from Friends of the Earth supporters on [foe.org](https://foe.org/) is stored on servers at a secure third-party site, Engaging Networks, whose server network uses industry-standard methods to protect the confidentiality and integrity of personal information. Engaging Networks stores and processes all data transactions for Friends of the Earth through a central managed hosting provider, to ensure continuous monitoring, data backup and incident management based on escalation procedures and communications protocols, threat monitoring and response (e.g. SQL injection attacks, brute force attacks, etc.), as well as steps to ensure continuing PCI DSS compliance. All connections to Engaging Networks dashboards and pages are made secure using TLS 1.0 or higher and encrypted using cyphers with 256 or 128-bit encryption. Engaging Networks does not store any data in servers open to untrusted networks. In addition to its network firewall, Engaging Networks maintains a firewall between application servers and database servers to further segment and harden internal systems. Application and database servers are physically and logically separated. All data and transmissions are secured and encrypted in transit using current security best practices, and all sensitive user data stored within the databases are hashed and salted.
+
+Access to Friends of the Earth’s data is restricted within the company, and all employees are aware that this data is private. If you have any further questions about Engaging Networks’ privacy or security, please contact Engaging Networks by sending an email to [info@engagingnetworks.net](mailto:info@engagingnetworks.net). You can also read Engaging Networks’ own privacy policy [here](https://mail.networkalliance.net/owa/redir.aspx?C=3dvpmZLrYUZTJoFxLM6idLscGr7lIw7StnnTPp7WfxIJmXeCJLHVCA..&URL=https%3a%2f%2fprotect-us.mimecast.com%2fs%2fHJAvCW6pjghPr3rc6Uz6C%3fdomain%3dengagingnetworks.net).
 
 ### Donor Privacy Policy
 
