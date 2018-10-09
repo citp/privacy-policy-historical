@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachstarter.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119024330id_/https%3A//www.teachstarter.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachstarter.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009200530id_/https%3A//www.teachstarter.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Teach Starter Privacy Policy
 
@@ -8,7 +8,7 @@ Teach Starter Pty Ltd ACN 163 164 869 ( **Teach Starter** ) takes all reasonable
 
 This Privacy Policy applies to all Personal Information collected by Teach Starter in the course of providing services to users ( **Users** ) regardless of the source of that Personal Information.  This Privacy Policy is available on the Site.
 
-This Privacy Policy should be read in conjunction with Teach Starter’s [**Terms and Conditions**](http://www.teachstarter.com/about/terms-and-conditions/ "Terms & Conditions") when using the Site and interacting with Teach Starter.
+This Privacy Policy should be read in conjunction with Teach Starter’s [**Terms and Conditions**](https://www.teachstarter.com/about/terms-and-conditions/ "Terms & Conditions") when using the Site and interacting with Teach Starter.
 
 ### 1.1 Definitions
 
