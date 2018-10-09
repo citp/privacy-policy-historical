@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the businessinsurance.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627100527id_/http%3A//www.businessinsurance.com/article/99999999/PAGES/150109861) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessinsurance.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009172736id_/https%3A//www.businessinsurance.com/article/99999999/PAGES/150109861) for the most accurate reproduction.*
 
 # Privacy Policy | Business Insurance
 
-Businessinsurance.com is a news and information service from Business Insurance Holdings, 4100 Hospital Drive, Suite 209, Plantation, FL 33317. We can be reached by e-mail at info@BusinessInsurance.com or by telephone at 312-280-3141. Your use of our website indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions at [www.businessinsurance.com/section/TermsUse ](http://www.businessinsurance.com/article/99999999/PAGES/150109859).
+Businessinsurance.com is a news and information service from Business Insurance Holdings, 4343 Old Grand Ave, Suite 110, Gurnee, IL 60031. We can be reached by e-mail at info@BusinessInsurance.com or by telephone at 312-280-3141. Your use of our website indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions at [www.businessinsurance.com/section/TermsUse ](http://www.businessinsurance.com/article/99999999/PAGES/150109859).
 
 We have developed this Privacy Policy to advise subscribers and users of our products about our possible uses of information collected by us and to inform you on how to modify your marketing preferences. This Privacy Policy is subject to change. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site and by changing the date on this page noting when the Privacy Policy was last updated.
 
