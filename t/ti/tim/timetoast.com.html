@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the timetoast.com privacy policy that was archived on 2018-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180626210917id_/http%3A//www.timetoast.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the timetoast.com privacy policy that was archived on 2018-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181010004919id_/https%3A//www.timetoast.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" data-beta-enabled="false"><!-- google_ad_section_start(weight=ignore) --><head>
+<!DOCTYPE html><html lang="en" data-beta-enabled="false"><head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"41dc0fd2a6","applicationID":"48020","transactionName":"JQwLTEVbXQlcQhdJUwEGFhdHRlgTWFNB","queueTime":0,"applicationTime":25,"agent":""}</script>
-<script>(window.NREUM||(NREUM={})).loader_config={xpid:"VQADUkVXAAMCVA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,y="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(y,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===y||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
+<script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"41dc0fd2a6","applicationID":"48020","transactionName":"JQwLTEVbXQlcQhdJUwEGFhdHRlgTWFNB","queueTime":0,"applicationTime":17,"agent":""}</script>
+<script>(window.NREUM||(NREUM={})).loader_config={xpid:"VQADUkVXAAMCVA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(13),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(14),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(16)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,y="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(y,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===y||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(13),c=t(14),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,s=c.match(a);s&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(o="Safari",i=s[1])}e.exports={agent:o,version:i,match:r}},{}],13:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],14:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],15:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],16:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(14),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=m(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[g[n]];return d&&d.push([x,n,r,a]),a}}function p(t,e){w[t]=m(t).concat(e)}function h(t,e){var n=w[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return w[t]||[]}function v(t){return d[t]=d[t]||o(n)}function y(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var w={},g={},x={on:p,addEventListener:p,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:y,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(13),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=b.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(g,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+b.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){s("mark",["domContent",a()+b.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-b.offset}var c=(new Date).getTime(),s=t("handle"),f=t(13),u=t("ee"),d=t(12),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,y=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var w=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},x=v&&y&&y[h]&&!/CriOS/.test(navigator.userAgent),b=e.exports={offset:c,now:a,origin:w,features:{},xhrWrappable:x,userAgent:d};t(9),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),s("mark",["firstbyte",c],null,"api");var E=0,O=t(15)},{}]},{},["loader",2,7]);</script>
   <!-- facebook insights -->
   <meta property="fb:page_id" content="163456097039250">
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
@@ -28,8 +28,9 @@
 <meta name="msapplication-square310x310logo" content="/largetile.png">
   <title>Privacy Policy | Timetoast timelines</title>
   <meta name="description" content="Timetoast's free timeline maker lets you create timelines online. Make educational timelines or create a timeline for your company website. How to make a timeline? Well, it's easy as toast!">
+  <meta name="application-name" content="Timetoast" data-page-generated-at-milliseconds-since-epoch="1539132559851" data-page-generated-at-human="2018-10-10 00:49:19 +0000">
   <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="ynitruNVzDkjVjMq3nkdEvZq+5dRBL+Vhn9qxYZYGDBM2rAGd2uj43YWz/5Z8YrdMyzPh+xZJ+/25PWcIIryuA==">
+<meta name="csrf-token" content="WjUz8tmlZHDV+cM8sIcGsQvlLENaywKHi/VU64cRCcft1nH/vEMTmx1DeThZHwH/oaMfWMBoPaOpXaD6NCj0aw==">
   <meta name="keywords" content="timeline, timeline maker, interactive, create, historical, time, visualization, chronology, chronological, reference">
 
 
@@ -44,7 +45,7 @@
   </script>
 
   <meta content="initial-scale=1.0,maximum-scale=1.0" name="viewport">
-  <link rel="stylesheet" media="all" href="//cdn.timetoast.com/assets/application-7e8a51974dcce0067e0e6c8c1a8bff9640f0ad5b1055838e54a3890830d73a51.css" defer="defer">
+  <link rel="stylesheet" media="all" href="//cdn.timetoast.com/assets/application-ffc55825385ea8ae5c7d1ebafa76d45c474dc6d1972d8ecc7a66a13e980e9883.css" defer="defer">
 
   <!-- start analytics -->
 <script type="text/javascript">
@@ -70,7 +71,7 @@
 <meta property="og:site_name" content="Timetoast">
 <meta property="og:title" content="Privacy Policy | Timetoast timelines">
 <meta property="og:description" content="Timetoast's free timeline maker lets you create timelines online. Make educational timelines or create a timeline for your company website. How to make a timeline? Well, it's easy as toast!">
-<meta property="og:url" content="http://www.timetoast.com/privacy">
+<meta property="og:url" content="https://www.timetoast.com/privacy">
 <meta property="og:image" content="http://www.timetoast.com/timetoast_timeline_maker.jpg">
 
         <script>
@@ -82,7 +83,6 @@
 
 
 </head>
-<!-- google_ad_section_end -->
 <body id="pages" class="privacy">
 
 
@@ -91,10 +91,9 @@
 
   <div id="react-site-header-target">
 
-    <!-- google_ad_section_start(weight=ignore) -->
-<header class="site-header container">
+    <header class="site-header container">
   <div class="site-header__logo">
-    <a title="Timetoast home page" href="http://www.timetoast.com/">
+    <a title="Timetoast home page" href="https://www.timetoast.com/">
       <svg><use xlink:href="#icons-timetoast-logo-square"></use></svg>
 </a>  </div>
 
@@ -130,13 +129,10 @@
 
 </header>
 
-<!-- google_ad_section_end -->
-
-
     <div class="container">
       <div class="js-search-dropdown search-dropdown" style="display:none;">
         <div class="search-dropdown__dismiss js-search-dismiss"></div>
-        <form action="http://www.timetoast.com/search/timelines" id="cse-search-box">
+        <form action="https://www.timetoast.com/search/timelines" id="cse-search-box">
   <input type="hidden" name="cx" value="partner-pub-3637961829875093:ehixnl-dg1y">
   <input type="hidden" name="cof" value="FORID:9">
   <input type="hidden" name="ie" value="UTF-8">
@@ -416,9 +412,8 @@
       </p>
       <p>
         <strong>Daniel Todd Ltd.</strong><br>
-        32 Angelis Apartments<br>
-        69 Graham Street<br>
-        London, N1 8LH<br>
+        59 Bulstrode Way<br>
+        Gerrards Cross, SL9 7QT<br>
         United Kingdom<br>
       </p>
 
@@ -445,21 +440,18 @@
       </p>
 
       <h2 class="heading">13 / Change log</h2>
-      <p>
-        This privacy policy was last updated May 24th, 2018.
-        </p><ul>
-          <li><i>May 24th, 2018:</i> Revised and reorganized language throughout to help simplify the policy and clarify our practices.</li>
-          <li><i>July 15th, 2009:</i> Adds information about usage of third party advertising networks to serve ads</li>
-          <li><i>April, 2008:</i> Initial version of Privacy Policy</li>
-        </ul>
-      <p></p>
+      <ul>
+        <li><i>August 12th, 2018:</i> Updates Controller address.</li>
+        <li><i>May 24th, 2018:</i> Revises and reorganizes language throughout to help simplify the policy and clarify our practices.</li>
+        <li><i>July 15th, 2009:</i> Adds information about usage of third party advertising networks to serve ads.</li>
+        <li><i>April, 2008:</i> Initial version of Privacy Policy.</li>
+      </ul>
 
     </div>
   </div>
 </div>
 
   </div>
-  <!-- google_ad_section_start(weight=ignore) -->
 
   <div class="container">
         <div class="reclame reclame--2 border-top">
@@ -513,14 +505,12 @@
 
     <nav class="site-footer__list">
         <div class="site-footer__social">
-          <a rel="nofollow" target="_blank" title="Share Timetoast to Facebook" class="social-link" href="http://www.facebook.com/sharer.php?u=http://www.timetoast.com/">
+          <a rel="nofollow" target="_blank" title="Share Timetoast to Facebook" class="social-link" href="http://www.facebook.com/sharer.php?u=https://www.timetoast.com/">
             <svg class="social-link__icon"><use xlink:href="#icons-facebook-logo"></use></svg>
-</a>          <a rel="nofollow" target="_blank" title="Pin Timetoast to Pinterest" class="social-link" href="http://pinterest.com/pin/create/button?url=http://www.timetoast.com/">
+</a>          <a rel="nofollow" target="_blank" title="Pin Timetoast to Pinterest" class="social-link" href="http://pinterest.com/pin/create/button?url=https://www.timetoast.com/">
             <svg class="social-link__icon"><use xlink:href="#icons-pinterest-logo"></use></svg>
-</a>          <a rel="nofollow" target="_blank" title="Share Timetoast to Twitter" class="social-link" href="http://twitter.com/intent/tweet?url=http://www.timetoast.com/&amp;text=Create%20and%20share%20timelines%20on%20Timetoast">
+</a>          <a rel="nofollow" target="_blank" title="Share Timetoast to Twitter" class="social-link" href="http://twitter.com/intent/tweet?url=https://www.timetoast.com/&amp;text=Create%20and%20share%20timelines%20on%20Timetoast">
             <svg class="social-link__icon"><use xlink:href="#icons-twitter-logo"></use></svg>
-</a>          <a rel="nofollow" target="_blank" title="Share Timetoast to Google+" class="social-link" href="https://plus.google.com/share?url=http://www.timetoast.com/">
-            <svg class="social-link__icon"><use xlink:href="#icons-google-plus-logo"></use></svg>
 </a>        </div>
     </nav>
   </div>
@@ -559,7 +549,7 @@
         isloggedin: false,
         isOnSignInPage: false,
         isOnSignUpPage: false,
-        rootPath: 'http://www.timetoast.com/',
+        rootPath: 'https://www.timetoast.com/',
         categoriesPath: '/categories',
         timelinesPath: '/timelines',
         plansPath: '/plans',
@@ -570,68 +560,12 @@
 
       Timetoast.headers.init("react-site-header-target", reactHeaderInfo);
       Timetoast.shared.navigations.init();
+      Timetoast.shared.toaster.init();
     });
   </script>
     <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
-  <!-- google_ad_section_end -->
-    <svg id="icons" style="display: none;" version="1.1"><symbol id="icons-close" viewBox="0 0 40.525 40.524">
-  <line style="fill:none;stroke:currentColor;stroke-width:3;" x1="39.464" y1="1.061" x2="1.061" y2="39.464"></line>
-  <line style="fill:none;stroke:currentColor;stroke-width:3;" x1="39.462" y1="39.463" x2="1.061" y2="1.061"></line>
-</symbol><symbol id="icons-facebook-logo" viewBox="0 0 32 32">
-  <path d="M30.7,0H1.3C0.6,0,0,0.6,0,1.3v29.3C0,31.4,0.6,32,1.3,32H17V20h-4v-5h4v-4
-	c0-4.1,2.6-6.2,6.3-6.2C25.1,4.8,26.6,5,27,5v4.3l-2.6,0c-2,0-2.5,1-2.5,2.4V15h5l-1,5h-4l0.1,12h8.6c0.7,0,1.3-0.6,1.3-1.3V1.3
-	C32,0.6,31.4,0,30.7,0z" fill="currentColor"></path>
-</symbol><symbol id="icons-full-screen" viewBox="0 0 103.843 60.175">
-<polyline style="fill:none;stroke:currentColor;stroke-width:3;" points="102.343,41.667 102.343,58.467 85.543,58.467 "></polyline>
-<polyline style="fill:none;stroke:currentColor;stroke-width:3;" points="85.542,1.5 102.342,1.5 102.342,18.3 "></polyline>
-<polyline style="fill:none;stroke:currentColor;stroke-width:3;" points="18.3,58.675 1.5,58.675 1.5,41.875 "></polyline>
-<polyline style="fill:none;stroke:currentColor;stroke-width:3;" points="1.5,18.3 1.5,1.5 18.3,1.5 "></polyline>
-</symbol><symbol id="icons-google-plus-logo" viewBox="0 0 32 32">
-  <path d="M14.7,2.5c0.3,0.2,0.5,0.4,0.9,0.7c0.3,0.3,0.6,0.7,0.9,1.1c0.3,0.4,0.5,0.9,0.7,1.5c0.2,0.6,0.3,1.2,0.3,2
-	c0,1.4-0.3,2.5-1,3.4c-0.3,0.4-0.6,0.8-1,1.1c-0.4,0.3-0.8,0.7-1.2,1c-0.2,0.2-0.5,0.5-0.7,0.8c-0.2,0.3-0.4,0.7-0.4,1.1
-	c0,0.4,0.1,0.7,0.4,1c0.2,0.3,0.4,0.5,0.6,0.7l1.4,1.1c0.9,0.7,1.6,1.4,2.2,2.2c0.6,0.8,0.9,1.9,0.9,3.2c0,1.9-0.9,3.6-2.6,5
-	c-1.8,1.5-4.4,2.3-7.8,2.3c-2.8,0-4.9-0.6-6.3-1.7C0.7,28,0,26.8,0,25.3c0-0.7,0.2-1.5,0.7-2.4c0.4-0.9,1.3-1.7,2.4-2.3
-	c1.3-0.7,2.7-1.2,4.1-1.4c1.4-0.2,2.6-0.3,3.6-0.3c-0.3-0.4-0.6-0.8-0.8-1.2c-0.3-0.4-0.4-0.9-0.4-1.5c0-0.3,0.1-0.6,0.2-0.9
-	c0.1-0.2,0.2-0.5,0.2-0.7c-0.5,0.1-0.9,0.1-1.3,0.1c-2.2,0-3.8-0.7-4.9-2C2.6,11.5,2,10.1,2,8.5c0-1.9,0.8-3.7,2.5-5.2
-	c1.1-0.9,2.3-1.5,3.6-1.8c1.2-0.2,2.4-0.4,3.5-0.4h8.1l-2.5,1.4H14.7z M16.2,25c0-1-0.3-1.9-1-2.6c-0.7-0.7-1.8-1.6-3.3-2.6
-	c-0.3,0-0.6,0-0.9,0c-0.2,0-0.7,0-1.6,0.1c-0.8,0.1-1.7,0.3-2.6,0.6c-0.2,0.1-0.5,0.2-0.9,0.3c-0.4,0.2-0.8,0.4-1.1,0.7
-	c-0.4,0.3-0.7,0.7-0.9,1.2c-0.3,0.5-0.4,1.1-0.4,1.8c0,1.4,0.6,2.5,1.9,3.4c1.2,0.9,2.9,1.3,5,1.4c1.9,0,3.4-0.4,4.4-1.2
-	C15.7,27.2,16.2,26.2,16.2,25z M10.6,13.6c1.1,0,2-0.4,2.7-1.1c0.3-0.5,0.6-1,0.7-1.5C14,10.4,14,10,14,9.6c0-1.5-0.4-3.1-1.2-4.7
-	c-0.4-0.8-0.9-1.4-1.5-1.8c-0.6-0.4-1.4-0.7-2.2-0.7c-1.1,0-2,0.5-2.7,1.3C5.7,4.6,5.4,5.5,5.4,6.6C5.4,8,5.9,9.5,6.7,11
-	c0.4,0.7,0.9,1.3,1.6,1.8C9,13.3,9.7,13.6,10.6,13.6z" fill="currentColor"></path>
-  <path d="M32,15h-4v-4h-2v4h-4v2h4v4h2v-4h4V15z" fill="currentColor"></path>
-</symbol><symbol id="icons-image-placeholder" viewBox="0 0 48.141 48.14">
-<rect x="12.599" y="12.474" style="fill:none;stroke:#5A00FF;" width="16.436" height="16.436"></rect>
-<polyline style="fill:none;stroke:#5A00FF;" points="19.105,30.353 19.105,35.665 35.541,35.665 35.541,19.229 30.297,19.229 "></polyline>
-<g>
-	<defs>
-		<rect id="SVGID_1_" width="48.141" height="48.14"></rect>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_1_" style="overflow:visible;"></use>
-	</clipPath>
-	<circle style="clip-path:url(#SVGID_2_);fill:none;stroke:#5A00FF;" cx="24.07" cy="24.07" r="23.57"></circle>
-</g>
-</symbol><symbol id="icons-pinterest-logo" viewBox="0 0 32 32">
-  <path d="M16,0C7.164,0,0,7.164,0,16c0,8.837,7.164,16,16,16s16-7.162,16-16C32,7.164,24.836,0,16,0z
-	 M17.652,19.562c-0.992,0-1.926-0.535-2.245-1.145c0,0-0.534,2.117-0.646,2.525c-0.398,1.445-1.569,2.891-1.659,3.008
-	c-0.063,0.082-0.204,0.057-0.219-0.053c-0.025-0.184-0.324-2.006,0.027-3.492c0.177-0.746,1.183-5.007,1.183-5.007
-	s-0.294-0.586-0.294-1.453c0-1.363,0.79-2.379,1.773-2.379c0.836,0,1.238,0.627,1.238,1.379c0,0.84-0.534,2.098-0.811,3.262
-	c-0.23,0.974,0.488,1.769,1.45,1.769c1.741,0,2.914-2.236,2.914-4.886c0-2.014-1.356-3.521-3.824-3.521
-	c-2.787,0-4.524,2.08-4.524,4.402c0,0.801,0.236,1.365,0.606,1.801c0.17,0.201,0.193,0.283,0.132,0.514
-	c-0.045,0.168-0.145,0.576-0.188,0.736c-0.061,0.234-0.25,0.316-0.46,0.23c-1.284-0.523-1.882-1.929-1.882-3.511
-	c0-2.609,2.201-5.74,6.568-5.74c3.509,0,5.818,2.539,5.818,5.266C22.611,16.869,20.606,19.562,17.652,19.562z" fill="currentColor"></path>
-</symbol><symbol id="icons-share" viewBox="0 0 46.862 51.512">
-  <path d="M44.958,6.594c-6.293,2.085-22.043,5.502-22.043,26.502" style="fill:none;stroke:currentColor;stroke-width:3;"></path>
-  <polyline points="41.331,17.513 45.028,6.325 34.915,1.346 " style="fill:none;stroke:currentColor;stroke-width:3;"></polyline>
-  <polyline points="17.973,6.764 1.5,6.764 1.5,50.012 44.747,50.012
-	44.747,27.764 " style="fill:none;stroke:currentColor;stroke-width:3;"></polyline>
-</symbol><symbol id="icons-small-square" viewBox="0 0 60.029 35.334">
-<rect x="1.5" y="1.5" style="fill:none;stroke:currentColor;stroke-width:3;" width="57.029" height="32.334"></rect>
-</symbol><symbol id="icons-square" viewBox="0 0 103.842 60.175">
-<rect x="1.5" y="1.5" style="fill:none;stroke:currentColor;stroke-width:3;" width="100.842" height="57.175"></rect>
-</symbol><symbol id="icons-timetoast-logo-large-2" viewBox="0 0 122.015 131.118">
+    <svg style="display: none;" id="icons" version="1.1" xmlns="http://www.w3.org/2000/svg"><symbol id="icons-timetoast-logo-large-2" viewBox="0 0 122.015 131.118" xmlns:xlink="http://www.w3.org/1999/xlink">
   <rect fill="currentColor" height="8.166" width="41.116" x="80.898" y="10.68"></rect>
   <rect fill="currentColor" height="8.168" width="41.116" x="80.898" y="21.357"></rect>
   <rect fill="currentColor" height="8.17" width="41.116" x="80.898"></rect>
@@ -767,7 +701,14 @@
       </g>
     </g>
   </g>
-</symbol><symbol id="icons-timetoast-logo-large" viewBox="0 0 119.091 130.779">
+</symbol><symbol id="icons-timetoast-logo-square" viewBox="0 0 53.1 53.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect fill="currentColor" height="38.158" width="4.21" x="21.174" y="8.198"></rect>
+  <rect fill="currentColor" height="3.587" width="12.179" x="6.628" y="14.152"></rect>
+  <rect fill="currentColor" height="38.153" width="4.192" x="27.751" y="8.189"></rect>
+  <rect fill="currentColor" height="3.587" width="12.179" x="6.628" y="8.198"></rect>
+  <rect fill="currentColor" height="3.587" width="12.18" x="34.293" y="14.152"></rect>
+  <rect fill="currentColor" height="3.587" width="12.18" x="34.293" y="8.198"></rect>
+</symbol><symbol id="icons-timetoast-logo-large" viewBox="0 0 119.091 130.779" xmlns:xlink="http://www.w3.org/1999/xlink">
   <rect fill="currentColor" height="12.467" width="40.654"></rect>
   <rect fill="currentColor" height="12.467" width="40.654" y="16.07"></rect>
   <polygon fill="currentColor" points="119.09,3.767 119.09,0.1 80.418,0.1 80.42,18.71 80.42,22.377 80.42,28.58 119.091,28.58
@@ -794,65 +735,19 @@
   <rect fill="currentColor" height="3.668" width="15.131" x="61.874" y="114.412"></rect>
   <rect fill="currentColor" height="3.668" width="15.131" x="61.874" y="95.359"></rect>
   <rect fill="currentColor" height="130.47" width="14.361" x="44.146"></rect>
-</symbol><symbol id="icons-timetoast-logo-round" viewBox="0 0 102.053 102.055">
-  <circle cx="51.026" cy="51.027" r="51.026"></circle>
-  <g>
-    <g>
-      <rect fill="currentColor" height="55.311" width="6.103" x="43.233" y="28.207"></rect>
-      <rect fill="currentColor" height="5.199" width="17.653" x="22.149" y="36.838"></rect>
-      <rect fill="currentColor" height="55.303" width="6.077" x="52.768" y="28.193"></rect>
-      <rect fill="currentColor" height="5.197" width="17.653" x="22.149" y="28.207"></rect>
-      <rect fill="currentColor" height="5.199" width="17.652" x="62.251" y="36.838"></rect>
-      <rect fill="currentColor" height="5.197" width="17.652" x="62.251" y="28.207"></rect>
-    </g>
-  </g>
-</symbol><symbol id="icons-timetoast-logo-square" viewBox="0 0 53.1 53.1">
-  <rect fill="currentColor" height="38.158" width="4.21" x="21.174" y="8.198"></rect>
-  <rect fill="currentColor" height="3.587" width="12.179" x="6.628" y="14.152"></rect>
-  <rect fill="currentColor" height="38.153" width="4.192" x="27.751" y="8.189"></rect>
-  <rect fill="currentColor" height="3.587" width="12.179" x="6.628" y="8.198"></rect>
-  <rect fill="currentColor" height="3.587" width="12.18" x="34.293" y="14.152"></rect>
-  <rect fill="currentColor" height="3.587" width="12.18" x="34.293" y="8.198"></rect>
-</symbol><symbol id="icons-timetoast-logo" viewBox="0 0 91.639 87.783">
-  <g>
-    <g>
-      <rect fill="currentColor" height="87.762" width="9.683" x="33.454" y="0.021"></rect>
-      <rect fill="currentColor" height="8.25" width="28.01" y="13.717"></rect>
-      <rect fill="currentColor" height="87.75" width="9.644" x="48.581"></rect>
-      <rect fill="currentColor" height="8.248" width="28.01" y="0.021"></rect>
-      <rect fill="currentColor" height="8.25" width="28.011" x="63.628" y="13.717"></rect>
-      <rect fill="currentColor" height="8.248" width="28.011" x="63.628" y="0.021"></rect>
-    </g>
-  </g>
-</symbol><symbol id="icons-timetoast-logotype-text-only" viewBox="0 0 152.43 16.028">
-  <g>
-    <path d="M8.152,3.604v12.099H4.727V3.604H0V0.33h12.901v3.274H8.152z" style="fill:currentColor;"></path>
-    <path d="M18.673,15.703V0.33h3.469v15.373H18.673z" style="fill:currentColor;"></path>
-    <path d="M43.2,15.703V5.513l-4.012,10.19h-2.775L32.402,5.643v10.061h-3.252V0.33h4.467l4.228,10.386
-		L41.855,0.33h4.706v15.373H43.2z" style="fill:currentColor;"></path>
-    <path d="M53.593,15.703V0.33h9.736v3.23h-6.31v2.928h5.725v3.014h-5.725v2.949h6.332v3.252H53.593z" style="fill:currentColor;"></path>
-    <path d="M80.878,2.299h-5.14v13.404h-2.125V2.299h-5.141V0.325h12.406V2.299z" style="fill:currentColor;"></path>
-    <path d="M85.216,8.004c0-1.244,0.22-2.379,0.661-3.405c0.44-1.027,1.026-1.869,1.757-2.527
-		c0.73-0.657,1.551-1.167,2.461-1.529C91.007,0.181,91.954,0,92.937,0s1.931,0.181,2.842,0.542c0.91,0.362,1.73,0.872,2.461,1.529
-		c0.73,0.658,1.316,1.5,1.758,2.527c0.44,1.026,0.661,2.161,0.661,3.405c0,1.647-0.38,3.094-1.139,4.337
-		c-0.759,1.244-1.718,2.169-2.874,2.776c-1.157,0.607-2.393,0.911-3.709,0.911s-2.553-0.304-3.709-0.911s-2.114-1.532-2.873-2.776
-		C85.595,11.098,85.216,9.651,85.216,8.004z M89.011,3.546c-1.084,1.063-1.627,2.549-1.627,4.458c0,1.908,0.543,3.397,1.627,4.468
-		s2.393,1.604,3.926,1.604s2.842-0.534,3.926-1.604s1.627-2.56,1.627-4.468c0-1.909-0.543-3.395-1.627-4.458
-		c-1.084-1.062-2.393-1.594-3.926-1.594S90.095,2.483,89.011,3.546z" style="fill:currentColor;"></path>
-    <path d="M117.381,15.703l-1.671-4.295h-6.81l-1.627,4.295h-2.277l6.116-15.378h2.451l6.116,15.378H117.381z
-		 M112.285,2.538l-2.625,6.896h5.293L112.285,2.538z" style="fill:currentColor;"></path>
-    <path d="M135.123,3.817l-1.908,0.673c-0.102-0.665-0.427-1.27-0.977-1.812
-		c-0.549-0.542-1.309-0.813-2.277-0.813c-0.854,0-1.562,0.246-2.125,0.737c-0.564,0.492-0.846,1.1-0.846,1.822
-		c0,0.563,0.17,1.041,0.51,1.432c0.339,0.391,0.827,0.658,1.463,0.803l2.3,0.498c1.272,0.275,2.255,0.792,2.95,1.551
-		c0.693,0.76,1.041,1.682,1.041,2.766c0,1.244-0.492,2.313-1.476,3.21s-2.263,1.345-3.839,1.345c-1.721,0-3.068-0.451-4.045-1.355
-		c-0.977-0.903-1.544-1.978-1.703-3.221l2.039-0.65c0.087,0.925,0.448,1.706,1.084,2.342c0.637,0.637,1.504,0.954,2.604,0.954
-		c1.012,0,1.793-0.23,2.342-0.693c0.55-0.463,0.824-1.049,0.824-1.757c0-0.578-0.195-1.081-0.585-1.508
-		c-0.391-0.426-0.962-0.719-1.714-0.878l-2.19-0.478c-1.143-0.246-2.054-0.729-2.733-1.453c-0.68-0.723-1.019-1.641-1.019-2.755
-		c0-1.214,0.495-2.28,1.485-3.199c0.99-0.918,2.188-1.377,3.59-1.377c1.576,0,2.783,0.384,3.622,1.149
-		C134.378,1.916,134.906,2.806,135.123,3.817z" style="fill:currentColor;"></path>
-    <path d="M152.43,2.299h-5.14v13.404h-2.126V2.299h-5.141V0.325h12.406V2.299z" style="fill:currentColor;"></path>
-  </g>
-</symbol><symbol id="icons-timetoast-logotype" viewBox="0 0 156.746 41.892">
+</symbol><symbol id="icons-pinterest-logo" viewBox="0 0 32 32" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M16,0C7.164,0,0,7.164,0,16c0,8.837,7.164,16,16,16s16-7.162,16-16C32,7.164,24.836,0,16,0z
+	 M17.652,19.562c-0.992,0-1.926-0.535-2.245-1.145c0,0-0.534,2.117-0.646,2.525c-0.398,1.445-1.569,2.891-1.659,3.008
+	c-0.063,0.082-0.204,0.057-0.219-0.053c-0.025-0.184-0.324-2.006,0.027-3.492c0.177-0.746,1.183-5.007,1.183-5.007
+	s-0.294-0.586-0.294-1.453c0-1.363,0.79-2.379,1.773-2.379c0.836,0,1.238,0.627,1.238,1.379c0,0.84-0.534,2.098-0.811,3.262
+	c-0.23,0.974,0.488,1.769,1.45,1.769c1.741,0,2.914-2.236,2.914-4.886c0-2.014-1.356-3.521-3.824-3.521
+	c-2.787,0-4.524,2.08-4.524,4.402c0,0.801,0.236,1.365,0.606,1.801c0.17,0.201,0.193,0.283,0.132,0.514
+	c-0.045,0.168-0.145,0.576-0.188,0.736c-0.061,0.234-0.25,0.316-0.46,0.23c-1.284-0.523-1.882-1.929-1.882-3.511
+	c0-2.609,2.201-5.74,6.568-5.74c3.509,0,5.818,2.539,5.818,5.266C22.611,16.869,20.606,19.562,17.652,19.562z" fill="currentColor"></path>
+</symbol><symbol id="icons-close" viewBox="0 0 40.525 40.524" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <line style="fill:none;stroke:currentColor;stroke-width:3;" x1="39.464" y1="1.061" x2="1.061" y2="39.464"></line>
+  <line style="fill:none;stroke:currentColor;stroke-width:3;" x1="39.462" y1="39.463" x2="1.061" y2="1.061"></line>
+</symbol><symbol id="icons-timetoast-logotype" viewBox="0 0 156.746 41.892" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g>
     <path d="M8.564,22.813v12.099H5.139V22.813H0.412v-3.274h12.901v3.274H8.564z" style="fill:#232020;"></path>
     <path d="M19.085,34.912V19.539h3.469v15.373H19.085z" style="fill:#232020;"></path>
@@ -882,18 +777,94 @@
     <path d="M152.842,21.508h-5.14v13.404h-2.126V21.508h-5.141v-1.974h12.406V21.508z" style="fill:#232020;"></path>
   </g>
   <rect height="7.076" style="fill:currentColor;" width="152.788" x="0"></rect>
-</symbol><symbol id="icons-twitter-logo" viewBox="0 0 32 32">
+</symbol><symbol id="icons-twitter-logo" viewBox="0 0 32 32" xmlns:xlink="http://www.w3.org/1999/xlink">
   <path d="M32,6.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6C25.7,3.8,24,3,22.2,3
 	c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5C10.3,10.8,5.5,8.2,2.2,4.2c-0.6,1-0.9,2.1-0.9,3.3c0,2.3,1.2,4.3,2.9,5.5
 	c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1
 	c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1C2.9,27.9,6.4,29,10.1,29c12.1,0,18.7-10,18.7-18.7
 	c0-0.3,0-0.6,0-0.8C30,8.5,31.1,7.4,32,6.1z" fill="currentColor"></path>
+</symbol><symbol id="icons-image-placeholder" viewBox="0 0 48.141 48.14" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="12.599" y="12.474" style="fill:none;stroke:#5A00FF;" width="16.436" height="16.436"></rect>
+<polyline style="fill:none;stroke:#5A00FF;" points="19.105,30.353 19.105,35.665 35.541,35.665 35.541,19.229 30.297,19.229 "></polyline>
+<g>
+	<defs>
+		<rect id="SVGID_1_-efb8b680-9d92-4cc4-a21c-f5dd7f403dd6" width="48.141" height="48.14"></rect>
+	</defs>
+	<clipPath id="SVGID_2_-45f5636f-2c4d-422a-958d-1e69893e4c90">
+		<use xlink:href="#SVGID_1_-efb8b680-9d92-4cc4-a21c-f5dd7f403dd6" style="overflow:visible;"></use>
+	</clipPath>
+	<circle style="clip-path:url(#SVGID_2_);fill:none;stroke:#5A00FF;" cx="24.07" cy="24.07" r="23.57"></circle>
+</g>
+</symbol><symbol id="icons-square" viewBox="0 0 103.842 60.175" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="1.5" y="1.5" style="fill:none;stroke:currentColor;stroke-width:3;" width="100.842" height="57.175"></rect>
+</symbol><symbol id="icons-small-square" viewBox="0 0 60.029 35.334" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="1.5" y="1.5" style="fill:none;stroke:currentColor;stroke-width:3;" width="57.029" height="32.334"></rect>
+</symbol><symbol id="icons-timetoast-logotype-text-only" viewBox="0 0 152.43 16.028" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <path d="M8.152,3.604v12.099H4.727V3.604H0V0.33h12.901v3.274H8.152z" style="fill:currentColor;"></path>
+    <path d="M18.673,15.703V0.33h3.469v15.373H18.673z" style="fill:currentColor;"></path>
+    <path d="M43.2,15.703V5.513l-4.012,10.19h-2.775L32.402,5.643v10.061h-3.252V0.33h4.467l4.228,10.386
+		L41.855,0.33h4.706v15.373H43.2z" style="fill:currentColor;"></path>
+    <path d="M53.593,15.703V0.33h9.736v3.23h-6.31v2.928h5.725v3.014h-5.725v2.949h6.332v3.252H53.593z" style="fill:currentColor;"></path>
+    <path d="M80.878,2.299h-5.14v13.404h-2.125V2.299h-5.141V0.325h12.406V2.299z" style="fill:currentColor;"></path>
+    <path d="M85.216,8.004c0-1.244,0.22-2.379,0.661-3.405c0.44-1.027,1.026-1.869,1.757-2.527
+		c0.73-0.657,1.551-1.167,2.461-1.529C91.007,0.181,91.954,0,92.937,0s1.931,0.181,2.842,0.542c0.91,0.362,1.73,0.872,2.461,1.529
+		c0.73,0.658,1.316,1.5,1.758,2.527c0.44,1.026,0.661,2.161,0.661,3.405c0,1.647-0.38,3.094-1.139,4.337
+		c-0.759,1.244-1.718,2.169-2.874,2.776c-1.157,0.607-2.393,0.911-3.709,0.911s-2.553-0.304-3.709-0.911s-2.114-1.532-2.873-2.776
+		C85.595,11.098,85.216,9.651,85.216,8.004z M89.011,3.546c-1.084,1.063-1.627,2.549-1.627,4.458c0,1.908,0.543,3.397,1.627,4.468
+		s2.393,1.604,3.926,1.604s2.842-0.534,3.926-1.604s1.627-2.56,1.627-4.468c0-1.909-0.543-3.395-1.627-4.458
+		c-1.084-1.062-2.393-1.594-3.926-1.594S90.095,2.483,89.011,3.546z" style="fill:currentColor;"></path>
+    <path d="M117.381,15.703l-1.671-4.295h-6.81l-1.627,4.295h-2.277l6.116-15.378h2.451l6.116,15.378H117.381z
+		 M112.285,2.538l-2.625,6.896h5.293L112.285,2.538z" style="fill:currentColor;"></path>
+    <path d="M135.123,3.817l-1.908,0.673c-0.102-0.665-0.427-1.27-0.977-1.812
+		c-0.549-0.542-1.309-0.813-2.277-0.813c-0.854,0-1.562,0.246-2.125,0.737c-0.564,0.492-0.846,1.1-0.846,1.822
+		c0,0.563,0.17,1.041,0.51,1.432c0.339,0.391,0.827,0.658,1.463,0.803l2.3,0.498c1.272,0.275,2.255,0.792,2.95,1.551
+		c0.693,0.76,1.041,1.682,1.041,2.766c0,1.244-0.492,2.313-1.476,3.21s-2.263,1.345-3.839,1.345c-1.721,0-3.068-0.451-4.045-1.355
+		c-0.977-0.903-1.544-1.978-1.703-3.221l2.039-0.65c0.087,0.925,0.448,1.706,1.084,2.342c0.637,0.637,1.504,0.954,2.604,0.954
+		c1.012,0,1.793-0.23,2.342-0.693c0.55-0.463,0.824-1.049,0.824-1.757c0-0.578-0.195-1.081-0.585-1.508
+		c-0.391-0.426-0.962-0.719-1.714-0.878l-2.19-0.478c-1.143-0.246-2.054-0.729-2.733-1.453c-0.68-0.723-1.019-1.641-1.019-2.755
+		c0-1.214,0.495-2.28,1.485-3.199c0.99-0.918,2.188-1.377,3.59-1.377c1.576,0,2.783,0.384,3.622,1.149
+		C134.378,1.916,134.906,2.806,135.123,3.817z" style="fill:currentColor;"></path>
+    <path d="M152.43,2.299h-5.14v13.404h-2.126V2.299h-5.141V0.325h12.406V2.299z" style="fill:currentColor;"></path>
+  </g>
+</symbol><symbol id="icons-full-screen" viewBox="0 0 103.843 60.175" xmlns:xlink="http://www.w3.org/1999/xlink">
+<polyline style="fill:none;stroke:currentColor;stroke-width:3;" points="102.343,41.667 102.343,58.467 85.543,58.467 "></polyline>
+<polyline style="fill:none;stroke:currentColor;stroke-width:3;" points="85.542,1.5 102.342,1.5 102.342,18.3 "></polyline>
+<polyline style="fill:none;stroke:currentColor;stroke-width:3;" points="18.3,58.675 1.5,58.675 1.5,41.875 "></polyline>
+<polyline style="fill:none;stroke:currentColor;stroke-width:3;" points="1.5,18.3 1.5,1.5 18.3,1.5 "></polyline>
+</symbol><symbol id="icons-facebook-logo" viewBox="0 0 32 32" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M30.7,0H1.3C0.6,0,0,0.6,0,1.3v29.3C0,31.4,0.6,32,1.3,32H17V20h-4v-5h4v-4
+	c0-4.1,2.6-6.2,6.3-6.2C25.1,4.8,26.6,5,27,5v4.3l-2.6,0c-2,0-2.5,1-2.5,2.4V15h5l-1,5h-4l0.1,12h8.6c0.7,0,1.3-0.6,1.3-1.3V1.3
+	C32,0.6,31.4,0,30.7,0z" fill="currentColor"></path>
+</symbol><symbol id="icons-timetoast-logo-round" viewBox="0 0 102.053 102.055" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <circle cx="51.026" cy="51.027" r="51.026"></circle>
+  <g>
+    <g>
+      <rect fill="currentColor" height="55.311" width="6.103" x="43.233" y="28.207"></rect>
+      <rect fill="currentColor" height="5.199" width="17.653" x="22.149" y="36.838"></rect>
+      <rect fill="currentColor" height="55.303" width="6.077" x="52.768" y="28.193"></rect>
+      <rect fill="currentColor" height="5.197" width="17.653" x="22.149" y="28.207"></rect>
+      <rect fill="currentColor" height="5.199" width="17.652" x="62.251" y="36.838"></rect>
+      <rect fill="currentColor" height="5.197" width="17.652" x="62.251" y="28.207"></rect>
+    </g>
+  </g>
+</symbol><symbol id="icons-timetoast-logo" viewBox="0 0 91.639 87.783" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g>
+      <rect fill="currentColor" height="87.762" width="9.683" x="33.454" y="0.021"></rect>
+      <rect fill="currentColor" height="8.25" width="28.01" y="13.717"></rect>
+      <rect fill="currentColor" height="87.75" width="9.644" x="48.581"></rect>
+      <rect fill="currentColor" height="8.248" width="28.01" y="0.021"></rect>
+      <rect fill="currentColor" height="8.25" width="28.011" x="63.628" y="13.717"></rect>
+      <rect fill="currentColor" height="8.248" width="28.011" x="63.628" y="0.021"></rect>
+    </g>
+  </g>
 </symbol></svg>
 
 
-  <script src="//cdn.timetoast.com/packs/manifest-3dd9c02992c713253190.js" defer="defer"></script>
-  <script src="//cdn.timetoast.com/packs/common-ad4cdc95b53e6edd74c1.js" defer="defer"></script>
-  <script src="//cdn.timetoast.com/packs/application-fa5050acc508fa8fa3ab.js" defer="defer"></script>
+  <script src="//cdn.timetoast.com/packs/manifest-6ba779bac5026446ba70.js" defer="defer"></script>
+  <script src="//cdn.timetoast.com/packs/common-80ff2e5e4ffb23aa2e31.js" defer="defer"></script>
+  <script src="//cdn.timetoast.com/packs/application-2622ab59ef218b5971da.js" defer="defer"></script>
 
 
 </body></html>
