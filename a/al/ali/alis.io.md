@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alis.io privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613052439id_/http%3A//alis.io/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alis.io privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009215030id_/http%3A//alis.io/privacypolicy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -145,6 +145,8 @@ and we will promptly remove you from **ALL** correspondence.
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
 alis.io
+
+admin@alis.io
 
 Last Edited on 2016-10-18
 
