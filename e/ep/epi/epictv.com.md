@@ -1,169 +1,154 @@
-> *The following text is extracted and transformed from the epictv.com privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717054623id_/https%3A//shop.epictv.com/en/our-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epictv.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009070724id_/https%3A//shop.epictv.com/en/our-security-policy) for the most accurate reproduction.*
 
-# Our security policy | EpicTV Shop
+# Our privacy notice | EpicTV Shop
 
-## Abstract
+### Abstract
 
-This summary describes the basic principles of how Elisa, the owners of EpicTV, collects different kinds of data about its customers. The matters described in the abstract are explained in more detail in Elisa's data protection principles.
+Banana Fingers Ltd and EpicTV SAS belong to a publicly listed EU-based group of companies, Elisa Oyj, and have adopted Elisa’s high operating standards in privacy, including Elisa’s privacy policy. The confidentiality of personal data and communications as well as protection of customers’ privacy are important basic values in all our operations. We observe legislation, authorities’ provisions and good data processing practice in processing the data of our customers, employees and partners as well as other stakeholders. At Banana Fingers and at EpicTV, we abide with a high level of data protection. We process your personal data only for appropriate purposes defined in advance and only when it is necessary. We protect our service with technically appropriate measures and train our personnel regularly in principles related to data processing. We have compiled the most significant principles regarding data protection in this privacy notice, which we abide with in order to ensure privacy and the confidentiality of communications. This privacy notice applies to all processing of personal data related to our services. We check regularly that these pages are up-to-date and update them when needed.
 
-### How do we collect data about you?
+## The confidentiality of communication and safe processing of personal data are of primary importance to us
 
-Collecting your personal data (such as name and contact information) is most often based on your customer relationship or some other relevant connection with us. For instance, we collect data when you sign an agreement with us, register as a user of our service, use Elisa's services, or otherwise provide us with information.
+### Confidentiality
 
-When you use Elisa's network and communication services, for instance by making a call or sending an SMS or e-mail, identification data is stored in our systems for the use of the network and services.
+We provide a number of different kinds of services for your use. In order to provide the services, we process information about you and the services you use, and maintain confidentiality and your privacy in such a manner that outsiders will not know the content or existence of our interactions.
 
-When you visit Elisa's websites or load pages from them, you leave us different kinds of anonymous browsing data, such as your IP address and browsing history. Monitoring is based on the use of cookies.
+### Data protection
 
-We can collect data based on your given consent.
+We take a high data protection level into account in all our operations: we process data in a confidential manner. We ensure this by using appropriate technology and data security solutions and ensuring the confidentiality of the data with administrative measures.
 
-We record customer service calls to be able to verify the actual discussion, if necessary.
+## What data do we collect?
 
-We also collect our potential customers' data when they participate in competitions, draws or customer events.
+### Why do we collect your personal data?
 
-We also update our data from public address information sources, such as Itella and the Population Register Centre.
+In order to agree on the delivery of services, we require sufficient information about you. We may also require your social security number or tax payer identification number in order to identify you for e.g. invoicing purposes. We need your contact information in order to communicate with you, to deliver products and services to you, and e.g. to inform you of changes in services. In addition, our services require providing different kinds of data based on which we can identify you individually and improve the service to be suitable for you. In some services, legislation obligates us to collect sufficient data about you to deliver the service. We also provide services that require providing your data in order to use them. Due to the nature of our services, the processing of personal data is an essential and inseparable part of providing certain services, even though in the service itself we will not process your name, social security number or other information that directly identifies you as a person.
 
-We also use the names "customer information" and "account information" for personal data, and "network trace" or "information created during communication" for identification data.
+### Personal data to be processed
 
-### What data do we collect?
+We process appropriate and necessary personal data. Such data include identification data, contact information, information related to your customer relationship and the use of services. Examples of personal data processed in our various services: • Contact information, such as first name and last name, address, telephone number, e-mail address, social media contact information • Identification and personalisation information, such as social security number or tax payer identification number, date of birth, the name and address of the user of the possible service, language of communication or other preference information • Bonus and loyalty benefit information and information about the services for which these are collected • Direct marketing prohibitions and consents • Payment transaction information • Other further information provided by you • Additional information regarding products, services and subscriptions • Subscription, delivery and contract information for products, services and subscriptions and start and end date for customer relationship for services • Customer information and classifications, such as information about the customers of Elisa subsidiaries and information about the customer classification of Elisa or its subsidiaries • Possible contact persons and user information of corporate and community customers and information about their tasks in the company • Customer history, for example communication, service changes or social media communication • Phone call, online chat, and other recordings regarding customer service situations • Information regarding invoicing and collection • Information about cookies and third-party cookies as well as other web analytics data
 
-The personal data collected is defined in more detail in the Description of the File for Elisa's customer register, which can be found at [www.elisa.fi/sopimusasiat](http://www.elisa.fi/sopimusasiat). This data includes your name, address, telephone number, e-mail address and direct marketing blocks and consent, information on company contact person, information provided by you yourself, customer classification information, order, delivery, agreement and invoicing information, and other information we store that can be connected to you.
+### Customer data generated from transactions
 
-Data created and collected during communication includes information on the communicating parties, time of the connection, routing information, data transfer protocol, format of the connection, and location information.
+When you call our customer service or use our other interactive service channels, we may record or otherwise save our conversation in order to verify the transactions. We retain these recordings only for the necessary time period and take into consideration data security factors when storing the recordings. The recordings may also be used for training our personnel and to ensure and develop the quality of our services.
 
-During Internet browsing, so-called "measurement data" is collected with the help of cookies. This data cannot be connected to a person.
+### Data generated from using the services
 
-### How do we handle your information?
-
-Please note that Elisa's entire personnel and its subcontractors are acting under an obligation of secrecy when handling data related to you.
-
-We maintain the confidentiality of the data concerning you and ensure that it is only used for the predefined purposes.
-
-Your data is handled for the purposes of producing and delivering the agreed communication and other services, developing the services, invoicing, providing you the best and most comprehensive service possible, and informing you of our services.
-
-We also use your data for customer communication, such as sending information concerning our services and for direct marketing purposes.
-
-We also use the data for customer profiling with the help of invoicing, usage amounts, duration of the customer relationship and external classifications. We utilise both summarised usage data and person-specific data to create target groups for marketing.
-
-We handle the data of our potential customers for direct marketing purposes.
-
-We strive to ensure that the customer data is up to date and correct.
-
-We delete obsolete and unnecessary data when possible.
-
-We protect all data concerning you through task-based, personal access rights and prevent the access of outsiders to the data.
-
-### Where do we submit your data?
-
-We only submit your data to the extent allowed by the relevant legislation and as specified in the Description of the File to the authorities and other telecommunications companies.
-
-If we use subcontractors, we will sign a security agreement with them that also covers the use of your data. We are also responsible for this kind of handling to you.
-
-### Elisa's data protection principles
-
-The purpose of this data protection policy is to describe the principles and practices that we observe at Elisa to ensure the privacy protection, confidentiality of communication and legal protection of our customers.
-
-Elisa updates this policy regularly as the operations or services change or develop. Because of this, we encourage you to regularly review the latest statement.
-
-Elisa Rahoitus Oy, which operates under the supervision of the Finnish Financial Supervisory Authority as a body with a payment institution permission and the permission to issue electronic money, observes Elisa's data protection procedures described herein as applicable, with special consideration of banking secrecy and regulations concerning payment institutions. The Description of File for Elisa Rahoitus can be found on the website of Elisa Lompakko at [www.elisa.fi/lompakko](http://www.elisa.fi/lompakko).
-
-Basic values important to Elisa include the confidentiality of customer data and communication, as well as protection of the privacy of customers in all of the company's operations. When handling the personal data of our customers, we follow Finnish legislation, orders and instructions of the authorities and good data processing practices.
-
-Elisa implements a high level of data protection. Personal and identification data as well as location-related data is only collected for specific predefined and legal purposes and is not handled in a way incompatible with these purposes.
-
-We constantly train our personnel on the principles of data handling and monitor the use of the data by appropriate means.
-
-### The general principles of handling customer data
-
-The handling of personal data must always be properly justified for Elisa's operations. Elisa has defined the purpose of collecting, handling and submitting personal data in the Description of File for its customer register. The Description of File can be found at [www.elisa.fi/asiakaspalvelu](http://www.elisa.fi/asiakaspalvelu). Elisa only handles customer data necessary for its operations, as defined in the purpose of use stated in the Description of File for the customer register. We strive to ensure that we do not handle incorrect, incomplete or obsolete data.
-
-The handling of customer data is usually based on a pertinent relationship, such as an agreement you have signed with Elisa, information received during the use of or registration for a service, or your given consent. We can handle your data based on other grounds as well, such as at your own request or when compelled by legislation. Your information can be handled within the Elisa Group. We regularly update your contact information by using the public address services of Itella and the Population Register Centre. Elisa checks for any marketing blocks from Suomen Asiakkuusmarkkinointiliitto's blocking service approximately once a month.
-
-We record your conversations with our customer service to verify a business transaction and to monitor and develop the quality of service.
-
-Please note that as an Elisa customer, you are entitled to inspect what data concerning you has been stored in our information systems, or that there are no data concerning you in our file. You can also deny the use of your data as provided by the relevant legislation. The inspection can be made once a year without charge. The request to inspect the data must be made with a document that is signed or verified in a comparable manner, or in person at an Elisa store.
-
-### Submitting the data
-
-Elisa can only submit your data to third parties as provided by the relevant legislation. We mainly submit information to the authorities, for example the Finnish Communications Regulatory Authority, the Data Protection Ombudsman, the police and emergency exchange authorities, and other authorities based on grounds specified by the legislation. In addition, we may submit your data to subcontractors, in which case we will ensure that the confidentiality of the data is maintained, and we will be responsible to you for the data handling in this case as well. If we handle your data outside the EU/ETA region, we will protect your data by signing an agreement with the subcontractor that ensures the proper handling of the data.
-
-### Handling identification and location data related to electronic communication
-
-Elisa treats all data and messages created during communication as confidential. Our personnel is bound by an obligation of secrecy and a prohibition of using any messages or other confidential information. When communication takes place through a network it always leaves a trace. These network traces are called identification data if they can be connected to a person. Network traces are created, for instance, when making telephone calls, sending e-mail and SMS messages, and browsing the Internet, and may contain information on the communicating parties, the connection route or routing, the data transfer protocol used, the time of the event, and the terminal devices used or their location.
-
-Elisa handles the identification and location information of communication according to the Act on the Protection of Privacy in Electronic Communications (516/2004) for the purposes, for instance, of implementing and using services as well as invoicing, technical development and, at the customer's consent, marketing. The data can also be used for the invoicing of other service providers to the extent that this is necessary.
-
-Elisa may also handle identification data in cases of misuse, breach of data security and fault repair.
-
-In all of the above situations, we only handle identification and location data to the extent that it is necessary to accomplish a certain specific task.
-
-### Utilising location data
-
-Location data indicates the geographical location of a mobile phone. It is used for offering location services and as a technical aid in transmitting communication. The more base stations there are in a certain area, the more accurately the location of a subscription can be established. In a densely populated area, location can be established with an accuracy of a few hundred metres, but in sparsely populated areas, the accuracy may be no better than several kilometres.
-
-Location data can be utilised in various services, for instance, when a customer orders the information on the nearest pharmacy or restaurant to their phone.
-
-Actual locating where another person can track where another person is located requires the consent of the person to be located. For a child under 15 years of age, the consent is provided by a parent or guardian. The customer can tell the telecommunications company that the subscription may not be located at all. Please note that such a prohibition of locating the subscription submitted to Elisa covers the locating services of all companies. Actual locating services may be offered by other service providers in addition to Elisa.
-
-If we submit location information to providers of locating services, we ensure through appropriate means that there is a consent from the person to be located.
-
-Our customer is also entitled to obtain the identification data indicating the location of a subscription or terminal device they are using to the extent allowed by the relevant legislation. A parent or guardian can make the request on behalf of a child under 15 years of age. For other persons without legal capacity, the request can be made by their guardian.
-
-### Persons authorised to handle identification and location data
-
-Only specific persons at Elisa whose work requires access to identification and location data may handle such data. In practice, the authorisation is only granted to persons performing tasks related to invoicing, the maintenance or development of communications networks or services, the prevention and investigation of misuse, or customer service and marketing. Persons granted the right to handle the data may only handle it to the extent required for performing individual tasks.
-
-### Duration of the handling of identification and location data and storage of the data
-
-We handle identification and location data for as long as is required for the purposes of invoicing, technical development, fault repair, marketing, the investigation of misuse, or data security. However, handling only takes place to the extent required by the actions and without unduly compromising the confidentiality of a message and the protection of privacy.
-
-We store data required of invoicing for at least three months from the due date of the invoice and for no longer than three years from the due date of the invoice, unless it is necessary to store the data for a longer period of time due to reasons related to collecting the invoice. Otherwise, the data is stored to the extend allowed and required by the relevant legislation.
-
-### Visiting websites
-
-We also collect data concerning visits to websites. Such data includes the IP address and the corresponding DNS name, the organisation that registered the IP address, the name and address of the visited page, the time of loading the page and the type of the browser.
-
-Please note that the IP address is a required identification for the functioning of the Internet, used for directing the messages transmitted over the Internet to the correct places. As a rule, the IP address is not connected to the person using the computer, but it can be connected to the organisation that registered the IP address. The IP address connection can be established at the request of the authorities.
+When you use our services on a browser, app or separate device, different kinds of data regarding your visits and use are saved. Such data include e.g. the IP address you use, browsing data or cookie data. In addition, we collect your information via the online services and mobile applications you use or devices using these services.
 
 ### Cookies
 
-As Elisa's customer, you can browse our websites anonymously. However, like other websites, we are using the cookie technology. When you first contact our service, the cookie sets a random number for the browser that does not indicate your identity. The cookies help Elisa determine which are the most popular sections of its websites, where do the visitors go and how long do they stay there. The data is used for implementing and developing services and targeting advertisements on the websites.
+Modern websites and services are based on a technology known as cookies that we use on our website. Cookies are small, user-specific text files that are saved on your browser. The server may later read the cookie installed on your browser and in this manner your browser may be identified as having visited our site previously. In this manner, you will get the best possible user experience on our website. With the help of cookies, we may also collect data e.g. regarding the devices, browser and objects of interest of the users visiting our websites. The collected information can be used also for analytics, improving user experience and targeting marketing both in our own and our partners’ advertisements. We aim to provide you with targeted content so that your user experience would be as smooth as possible. We use both our own and third-party cookies. The third-party cookies we use include e.g. DoubleClick, Facebook, Google Analytics, HubSpot and Smartly cookies. We monitor the functionality of the e-mails we send and we wish to ensure that you only receive communication from us that interests you. This means that we can follow which e-mails we have sent you and connect this data to your customer data. Therefore, when you call the customer service and ask e.g. about the offer you have received, the customer service person knows which message you have received and which offers have been sent to you. You may disable the use of cookies in your browser settings, in which case you may lose a part of your user experience. If you disable the use of cookies, our website may become slower and the use of some features may be prevented. In this event also our possibilities to develop our services in accordance with your user preferences is hampered, and we cannot provide you with adverts targeted for you on the website.
 
-You can prevent the cookie from being stored by changing your browser settings. In some cases, the prevention may lead to slower browsing of the pages or the website not working at all.
+### Collecting data on potential customers, for example in competitions, webinars and events
+
+When you participate in competitions and sign up to e.g. our events or webinars, we may ask for your contact information or other personal data. We will use this data in order to organise the competition or event in question and possibly in order to contact you to tell you more about our products and services. We can also combine this data in our customer data systems. Competitions or events may also be organised by our partners, in which case we will receive your contact information directly from them.
+
+## How and for what purposes are we using your data?
+
+### Grounds for data processing
+
+When you acquire a service from us, we make a contract with you. In order to implement the service agreed upon, such as delivering the products you have bought, we process necessary personal data, for example your invoicing data. We process your data when we have need for it in order to implement our appropriate interests (legitimate interest). The processing may be done to ensure the functionality of the services and for their improvement and to develop business operations (e.g. based on your purchase history, evaluating the need of future products that will be ordered for the warehouse). In such processing, we process your data typically as a part of a larger mass and we do not aim to examine your data specifically. By evaluating the data of a large group of people we can e.g. develop our services based on accurate and up-to-date information. In addition, with our legitimate interest, we offer you our services that you might be interested in. We will process a part of your personal data based on the consent that you have provided. Such processing includes cookies used online that improve the functionality of our services. When we process your data based on your consent, you can cancel your consent at any time. In exceptional situations we may process your data in order to protect vital interests. Such situations are life-threatening situations where we can reduce the threat by processing necessary information. Protecting vital interests might include, for example, finding out buyers from our register if a device we have sold were to manifest some dangerous manufacturing fault. In addition, we process personal data for compliance with our legal obligations.. Such obligations include retaining invoicing data separately for a legislated period of time.
+
+### Processing your personal data as a part of a large group of people
+
+When providing services, a lot of information is collected e.g. when providing websites. Utilising this data is a part of modern information society.
+
+### Profiling
+
+We wish to customise and develop our services, marketing and other interaction to suit you. For example, in our video services we will recommend interesting films that might interest you based on your viewing history. We can target the marketing of products that may interest you in our direct marketing. In order to form a marketing target group, we can process your age, purchase and payment history, place of residence, contact information, cookie information and other information and external classifications, such as the average size of a household of the postal code area of your invoicing address. When profiling, we therefore utilise both collective information and information directly related to you. We use automatic credit check in our web shop when you purchase products or services with a credit purchase. In some cases, the purchase may be prevented due to credit history issues. In this case, please contact our customer service so that we can look for an alternative solution.
+
+### Checking your own data
+
+You can check the data concerning you and data generated from the use of services from your profile data accessible by you upon logging in on our web site. Please note that the right to inspect your own data only concerns your own personal data. Due to this, inspection rights cannot be used for inspecting the data of other family members.
+
+### Transferring your own data
+
+If you wish you can download the information that you have disclosed to us based on a contract or consent. More information about this is found in the profile page section of our website.
+
+### Updating and specifying personal data
+
+When you use our services we will ask you for your personal data. If your data has changed, we ask you to update the changed information to us. If you detect an error in your own data, you can fix this by notifying us via self-service or our customer service channels. In addition, we update and specify the personal data regarding you from other sources. We may, for example, receive your contact information from our partners for marketing purposes. We aim to keep your personal data accurate and up to date. 
+
+### The retention period for personal data
+
+We retain your personal data only for the necessary time period. The retention period for your personal data varies depending on the service and the nature of the data. When the retention period for the data has terminated, we dispose of the personal data either by removing them or making them anonymous (i.e. anonymisation of the data in question). For example, we process your customer data for the entire duration of the customer relationship and due to certain legal obligations also for a required period afterwards or, based on our legitimate interest, for direct marketing purposes. On the other hand, the retention period of the data collected in connection with producing the services may be quite short. Please note that the public comments or other content you produce on our online discussion forums may remain visible even after your customer relationship with us has ended. We regularly evaluate the need for the retention period of the data and evaluate their purposefulness as technology and use needs develop.
+
+### Marketing
+
+We constantly develop and produce new services and introduce new products that correspond with our customers’ needs in a changing and developing world. To be able to tell you about such products and services, we use your personal data for direct marketing purposes. We may be in contact with you by letter or phone and also via e-mails, text messages, and other methods of communication. We may also be in contact with you as a potential new customer when we have received your contact information e.g. when you participate in our competition or an event we organise or in another way. If you do not wish to receive marketing communication from us, you can let us know i.e. via your profile page or customer service.
+
+### Direct marketing by third parties
+
+If you wish, you have the possibility to receive offers and marketing from our partners. If you have given us your consent to utilise e.g. traffic or location data in targeting marketing, you may receive relevant offers from service providers in your area. When we transmit our partners’ communication to you, we do it ourselves. We do not disclose your contact or other information to third parties for marketing purposes. In this manner, we ensure that direct marketing meets your needs and does not disturb you. If you do not wish to receive marketing communication from our partners, you can let us know for example via your profile page or customer service.
+
+## Personal data processors and data disclosures
+
+### Disclosing personal data
+
+When we provide services, we may disclose your personal data also to our subcontractors or partners when they need to receive your data to e.g. provide a service. Such needs include e.g. sharing your delivery address with a small parcel delivery company so that they can deliver your purchases. On our website, we use different kinds of techniques enabled by our partners for analysis and marketing purposes. When providing these services, we disclose personal data to the service provider. In these cases we do not disclose personal data that identifies you, but technical data enabled by the service, for example with the help of cookies. These services are very common properties of modern websites. You can read more about our cookies in this privacy notice. We produce some of our services in cooperation with our partners. To provide such such services, we disclose your personal data to the service provider. In some cases, using the service requires that you approve the privacy notice or terms of the service provider before using the service. Third parties process your data for their own purposes in accordance with their privacy notice. Before disclosing the data, we ensure that the disclosure is in accordance with the law.
+
+### Assisting authorities
+
+Some authorities, such as data protection authority, police or emergency centre authority are entitled to receive your data in order to implement their legislated duties. We can also disclose your data to other authorities or parties with the decision of a competent authority or a court of law within the limits allowed by the law.
+
+### Subcontractors and processing data outside of the EU
+
+The production of our services is primarily within the UK and EU/EEA. We use subcontractors when producing our services as well as related support services. When using subcontractors, we ensure that they abide with our privacy notice and process the data with care and confidentiality. We ensure this with contracts. Some of the personal data is processed outside of the EU area. This is necessary in order to produce the services, improve quality, provide expertise or enhance operations. Some of the processing work consists of maintaining the data located in the EU and processing them with remote management, but in some cases we transfer the personal data to be processed by our subcontractors for example in South Africa, India, Israel and the United States. In these cases we ensure that the processing party operates in accordance with our privacy notice, appropriately and with care, and that the justification of the processing is ensured e.g. with model contract clauses approved by the EU Commission. We process your personal data when needed between us, our parent company Elisa Oyj and its other subsidiaries. Regardless of the data processor or the location of the data, the protection of your service and personal data works equally through the services we provide.
+
+## Special notices about some of our services
+
+### Service-specific data protection principles
+
+Elisa Oyj produces numerous different services for its customers. Some of the services have separate privacy notices that describe the data processing in connection with the service in question. In some of their services that Elisa Oyj produce themselves or in their other subsidiaries’ services data has to be processed in a manner that has not been mentioned in this privacy notice. Therefore, please remember to check the possible special terms in those other services and their changes in connection with starting to use the service and continuing the use. Separate privacy practices are applied at least in the following services: Elisa Kirja, Sulake games, such as Habbo Hotel and Hideaway, and Elisa Videra service.
+
+### Protecting copyright content
+
+When providing material under copyright, such as video content for your use, we may protect the material with copy protection technology or water stamp in a manner that it can only be used by you or connected with you via your user or customer ID. In this manner, we aim to prevent possible abuse.
+
+## Data security
 
 ### Data security
 
-We ensure the data security of our services by using methods that are in proportion to the severity and sophistication of the threats as well as the cost. Elisa is careful in performing actions that aim at preventing breaches of data security or eliminating disturbances that affect data security. In addition, we use all means to ensure that the confidentiality of messages or the protection of privacy is not unduly compromised when performing the above actions.
+We ensure data security when processing your personal data. Most of your data will be processed in our own server rooms. We control the security of the server rooms by using appropriate measures to protect the data. The servers always use appropriate protective measures, such as access control based on passwords and other protective methods as well as technical encryption of the data. Our operating environment has been secured with fire walls and appropriate anti-virus software. We primarily process your data in a form where an outsider cannot identify you as an individual. Everyone is responsible for looking after data security. In order to ensure the protection of your data, we ask you to pay attention to looking after the data security of your own online devices in a manner as appropriate as possible. You can read more information about this at e.g. www.elisa.fi/dataprotection.
 
-We provide information on actions related to the data security of our services and other matters concerning data security through appropriate channels, such as our website or customer bulletins.
+## The scope of our privacy notice, our contact information, and other information
 
-In order to prevent breaches of data security and eliminate disturbances affecting data security, we may take the required action by, among other things, preventing the reception of e-mail messages, removing viruses and other malware from the messages, and taking other comparable technical measures necessary within the allowed and required limits specified in the relevant legislation. We use physical, administrative and technical protection measures to keep messages and identification data transmitted over the communications network secret. These actions decrease the risk of data concerning you being disclosed to third parties and prevent misuse and other unauthorised access. Some of our services also use standardised encryption methods.
+### The scope of our privacy notice
 
-Please note that as an Elisa customer, you should also use the most appropriate methods to ensure your own data security. We encourage you to store and use our services and your terminal devices carefully and control their use, e.g. by employing PIN codes, and to use sufficient antivirus and firewall services and keep them as well as the operating system updated.
+This privacy notice concerns the processing of personal data in Banana Fingers Ltd and in EpicTV SAS. Our parent company Elisa Oyj may also have privacy policies that complement this privacy notice or that are parallel to this privacy notice.
 
-### Identification of the subscription
+### Our contact information
 
-Identifying the subscription refers to displaying the calling number to the other person when making a call. Blocks against identification are available for subscriptions operating in Elisa's network. You can obtain detailed information on the blocks in the instructions delivered with the agreement, through online channels, our customer service and our shops.
+Banana Fingers Ltd customer service: mailto:support@bananafingers.co.uk of phone +44 (0)117 955 1313 EpicTV & SHOP customer service: mailto:support@epictv.com  
+Elisa Oyj contact information: <http://corporate.elisa.com/on-elisa/contact/>
 
-Blocks of subscription identification only apply to voice transmission services. When using other services, identification of the subscription cannot be prevented and the ID of the subscription may be transmitted to the other party of the connection despite the use of a block.
+### Data Protection Officer
 
-Blocks against identifying the subscription do not apply to emergency calls. The number of the calling subscription is always transmitted to the authorities.
+Data Protection Officer / Elisa Oyj, P.O. Box 1, 00061 Elisa Oyj, FINLAND E-mail tietosuojavastaava@elisa.fi
 
-### Customer communications and direct marketing
+### Your rights regarding the processing of your data
 
-Elisa sends customer messages concerning its products and services to its customers without a separate consent.
+You have the right to influence the processing of your own data. 
 
-Elisa also sends direct marketing messages in electronic format. You have the right to forbid Elisa from sending any direct marketing messages. You can forbid marketing via SMS messages by using the OmaElisa and OmaSaunalahti online service channels or by following the instructions included in the direct marketing message.
+You have a right to check what data we process on you. You can access your own data in the profile section of our online service.
 
-Some subscription types include an automatic consent to direct marketing as specified in the terms of agreement (e.g. the Norppa+ subscription). If you wish to stop receiving the messages for these subscriptions, you will need to change the subscription type. Our goal is to only send current and useful information and to keep the amount of messages reasonable.
+If you notice incorrect or outdated data in the personal data we process, we ask you to correct the data either via self-service forms or our customer service. With your up-to-date information, we can provide you the best possible service.
 
-### Publishing your contact information in directory services
+In the profile page section of our service you can cancel the consents that you have given, such as marketing consents. If the consent is related to using a particular service, you can cancel the consent in the manner described in the service in question.
 
-Telecommunications companies are obligated to also deliver information submitted for publishing in a directory to other providers or directory and number information services. Elisa cooperates with Eniro and Fonecta in fulfilling its legal obligation to publish its customer's basic information, if the customer so wishes, in a telephone directory and a number information service. The basic information to publish include the customer's name, address and telephone number.
+You have the right to request us to remove the data that are no longer necessary for its purpose of use. We do our best to remove such data automatically, but if you, for one reason or another, notice outdated or unnecessary information in our processing, you can contact us through our customer service.
 
-The information you have provided to Elisa for publishing is forwarded to a national database maintained by Suomen Numeropalvelu Oy (SNOY). You have the right to deny the publishing of data concerning you in a directory service. The national database must submit the name, address and telephone subscription number to any company for the purpose of maintaining a telephone directory or number information service. The SNOY database provides information to Finnish number information services, such as the 118, 0100100, 020202, and 020200 numbers, as well as to online directory services. However, the publisher of the directory and the service provider are responsible for the information they publish.
+You have the right to receive the data you have provided yourself if processing them is based on a contact between us or a consent you have provided. Services related to this are available as in-built properties and accessible by you via you profile page online but you can also be in contact with us via our customer service.
 
-You have the right to deny the publishing of data concerning you in the directories fully or in part. You can also forbid the data from being forwarded further by informing our customer service of this. In addition, if the published information contains an error, we will try to fix the error at your request as soon as possible.
+In addition, you can ask us to restrict the data processing in certain situations or object to their processing. We have aimed to describe all our processing in an open and comprehensible manner in this privacy notice.
 
-### Secret telephone numbers
+### Cancellation of consent
 
-You must separately agree on a secret telephone number with Elisa. If you wish to use a secret number, we recommend changing the number or opening a new subscription.
+When we process your data exclusively based on the consent you have given, you have the possibility to cancel it if you change your mind. This can be done easily via your online profile page. Please note, however, that this does not affect the data processing that is done before the cancellation of consent.
+
+### Right to appeal
+
+Please contact us if you wish to make an appeal or present development suggestions about our processing of personal data. You can find the contact information on this page in the Contact Information section.
+
+You can make an appeal concerning data protection or processing of personal data to a supervising authority, such as the Information Commissioner’s Office (ICO) in matters related to communications or to Elisa Oyj’s Data Protection Officer in matters concerning other processing of personal data.
+
+_Updated: May 17, 2018_
