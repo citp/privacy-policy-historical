@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetdeal.my privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521223404id_/http%3A//www.streetdeal.my/home/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetdeal.my privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009021121id_/http%3A//www.streetdeal.my/home/info/privacy) for the most accurate reproduction.*
 
 # Deals, Discounts Malaysia | StreetDeal.my
 
