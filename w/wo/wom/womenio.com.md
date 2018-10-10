@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenio.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705193435id_/http%3A//www.womenio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenio.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010085316id_/http%3A//www.womenio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Women's Magazine By Women
 
