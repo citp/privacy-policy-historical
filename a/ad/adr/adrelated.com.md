@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adrelated.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515224417id_/http%3A//adrelated.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adrelated.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010192500id_/http%3A//www.adrelated.com/privacy) for the most accurate reproduction.*
 
 # AdRelated
 
