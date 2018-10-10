@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the branah.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319020731id_/https%3A//www.branah.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the branah.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010174117id_/https%3A//www.branah.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
