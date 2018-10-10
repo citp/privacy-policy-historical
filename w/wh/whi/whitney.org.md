@@ -1,88 +1,128 @@
-> *The following text is extracted and transformed from the whitney.org privacy policy that was archived on 2018-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180409170550id_/http%3A//www.whitney.org/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitney.org privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010161459id_/https%3A//whitney.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Whitney Museum of American Art
 
-## Introduction
+**Introduction**
 
-The Whitney Museum of American Art (also herein referred to as “WMAA” or the “Museum”) is committed to protecting the privacy of its online guests, customers, members, donors, and friends. We understand that maintaining privacy on the Museum’s websites (whitney.org, artport.whitney.org, library.whitney.org, shopwhitney.org, and exhibition-specific websites, herein referred to as “the Website” or “the Site”) is very important, and that informing our visitors about the types of information we collect and how we use it is crucial to the Museum’s mission.
+The Whitney Museum of American Art (“Museum”) is committed to protecting the privacy of its visitors, online guests, customers, members, donors, and friends. This privacy policy governs the way we collect and use information both online and offline, and explains the types of information we collect and how we use it.
 
-## Acceptance of Terms
+ _By visiting our website, you are accepting the practices described in our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the website._
 
-By using any of the Museum website(s), you signify your acceptance without limitation or qualification of our Privacy Policy. If you do not agree to this policy, please do not use the Website.
+ **Information You Provide**
 
-Please note that the Museum may revise this Privacy Policy at any time, without notice. Any such change is effective immediately upon posting it on the Website. Such revisions may arise in response to changes in the law, policy, or other factors. You agree to be bound by this Privacy Policy and any modifications to this Privacy Policy occurring prior to your continued use of the Website, visiting the Museum or attending events to which you may have purchased tickets. We encourage you to periodically visit this page to review our most current policy. Your continued use of the Website following the posting of changes to these terms will indicate your acceptance of those changes.
+The Museum collects personal information from you when you engage in online or in person transactions such as purchases, registrations, making a donation or becoming a member. Additionally, personal information may be transmitted as part of a form submission or in connection with other programs, activities, services, or resources available on our website.
 
-Certain provisions of this Privacy Policy may be superseded by expressly designated legal notices or terms located on particular pages on the Website. 
+We may gather personal information that you give us, including your name, address, phone number, e-mail address and payment information.
 
-## Types of Information Collected
+For example, we collect personal information **_on our website_** when you:
 
-The Museum does not collect any personal information about individuals, such as names, contact information (including postal or email addresses), or other personally identifying data (the “Personal Information”) except when such information is knowingly provided. Personal information might be obtained from online transactions such as purchases, subscriptions, registrations, or membership pledges. Additionally, personal information may be transmitted as part of a form submission or in connection with other activities, services, or resources available on our website.
+  * Create an account
+  * Purchase tickets
+  * Purchase a membership
+  * Make a donation
+  * Purchase merchandise
+  * Purchase or redeem a gift membership
+  * Fill out a “Contact Us” request
+  * Subscribe to a mailing list
+  * Request information about Exhibitions and Programs
+  * Participate in certain education programs (for example, when you complete an online application)
+  * Communicate with use through the website, including completion of any online forms
 
- **Information Provided by Visitors**
 
- _Online Mailing Lists_  
-When you subscribe to our Online mailing list(s), the Whitney will request information necessary to process your subscription and send you the information you seek: your name, address, telephone number, e-mail address, and areas of interest. Your Personal Information may be used as set forth below.
 
- _Online Store Purchases and Purchases of Memberships_  
-When you purchase a Whitney Museum membership or an item from the Museum store online, the Whitney and its third party merchants and agents will request information necessary to process your purchase or process your membership and acknowledge your contribution: your name, billing and shipping address, telephone number, e-mail address and credit card information. Your credit card information will be used only for the purpose of processing and documenting the transaction. Your Personal Information may be used as set forth below.
+In addition, we may collect personal information **_outside our website_** via:
 
- _Online Admissions and Program and Event Tickets_  
-When you purchase online tickets through the site (including tickets for admission to the Whitney Museum, special exhibitions, special events, performances, lectures, and other educational programs offered by the Whitney), the Whitney and its third party merchants and agents will request information necessary to process your order: your name, billing and shipping address, telephone number, e-mail address, and credit card information. Your credit card information will be used only for the purpose of processing and documenting the transaction. Your Personal Information may be used as set forth below.
+  * In person ticket or membership sales
+  * By phone
+  * On-Site (for example during an event, a visitor may choose to complete a form and hand it to a staff member, for example in connection with membership or subscription)
+  * Returning mail to us, such as membership renewal solicitations
+  * Completing a survey mailed to you
+  * Completing contact information on forms at local events
+
+
+
+ **How We Combine Personal Information**
+
+We may combine information gathered from the website and information that we have received, gathered, acquired, or stored from other sources, both information collected offline by the Museum and information received from third parties into a single customer record. We also use and/or combine information that we collect offline or receive from third-party sources (e.g., contact information from government funders or grantor information) to edit, enhance, and/or check the accuracy of your customer record.
+
+ **How Personal Information is Used**
+
+If you provide us personal information we will use this information to respond to your inquiry or request, or to fulfill your order. We may also use it to contact you to provide information about other Museum activities, programs, membership and fundraising opportunities, products and special events that may interest you. You may opt-out of having your information used by the Museum for these purposes, or you may update your contact information anytime, by contacting us via the following e-mail or postal mail addresses: privacy@whitney.org
+
+ **With Whom Personal Information is Shared**
+
+The Museum may share your personal information, with other organizations, such as other non-profits, art institutions, or with other companies that may be of interest to you, for informational, fundraising, or related purposes. In addition, all information we do share with other institutions is provided subject to confidentiality obligations limiting the nature of the use of your information and restricting the further dissemination of your information. If you do not wish to have your name and address shared with other institutions for these purposes, you may opt out at any time by contacting us via the above email address.
+
+In addition, the Museum also engages third-party vendors in order to help us manage the website, process online and offline transactions, better respond to the needs of our visitors, and enhance our marketing efforts. This includes third-party analytics vendors such as Google Analytics and other marketing partners who serve advertisements across the Internet, offline, and sometimes on the websites on the Museum's behalf. They may use information about your visits to the website and other sites to personalize advertisements for goods and services. We and our third-party vendors or partners use analytics data for a variety of purposes such as to improve the design and content of our website, to help us learn things like what pages are most attractive to all of our visitors and what promotions visitors like to see, and to gauge the success of our advertising campaigns.
+
+The Museum may also use or disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on the Museum; (b) protect and defend the Museum’s rights or property, the website, or the Museum’s users; and (c) act under emergency circumstances to protect the personal safety of Museum affiliates, agents, or the users of the website or the public.
+
+ **Opt-Out**
+
+If you prefer not to have your personal information shared with third parties for marketing purposes, or would like to be removed from our mailing list, please contact us at privacy@whitney.org
+
+If for any reason you do not wish to receive further email from the Museum, please follow the instructions for unsubscribing included within the body of the message that was sent to you, or e-mail a message containing your name and address to privacy@whitney.org.
 
  **Information Collected Automatically**
 
- _Non-Personal Information_  
-The Museum does automatically collect some anonymous “non-personally identifiable” aggregate information about visitors when pages are requested through a browser. This information is used for statistical purposes, to help us monitor how guests navigate our site, allowing us to tailor our services for specific groups of visitors. Non-personally identifiable information may refer to information about our visitors’ browsers (e.g., Google Chrome, Safari or Internet Explorer), operating systems (e.g., Windows or Macintosh), Internet Service Providers (e.g., Time Warner Cable, Verizon, AOL, Earthlink, etc.), and other similar information.
+ _Cookies_  
+The Museum’s website uses cookies to distinguish you from other users, provide a better experience when you browse our website, and improve our site’s performance and usefulness. By continuing to browse the site, you are agreeing to our use of cookies.
 
- _Aggregate Information  _  
-The Museum collects IP addresses as a component of the non-personally identifiable aggregate information. An IP address is a number assigned to your computer by a web server when you’re on the Internet. This information is used only for non-user-specific purposes such as determining how many users visited a specific area of our site. Such information could, if necessary, also be used to identify a user in order to comply with safety and/or security issues or with legal requirements, but only in extraordinary circumstances.
+A cookie is a small data file that websites can place on your hard drive when you visit. A cookie file can contain information such as a user ID that tracks the pages you’ve visited within that site. The cookies on this website are primarily used to recognize that a user has visited the website previously and to track user traffic patterns.
 
- _Cookies  and Web Beacons_  
-A cookie is a small text file that is sent to your browser from a website and stored on your computer’s hard drive. Cookies can’t read data from your hard drive or read cookie files that were created by other sites—the website that creates a cookie is the only one a browser will permit to access it. Examples of ways in which the Museum might use are to control access to certain user features, to customize content areas, and to analyze site activity and user behavior. The Museum also reserves the right to use cookies in the future in conjunction with new content or extended functionality.
+If you prefer not to receive cookies through the site, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You also can refuse all cookies by turning them off in your browser. You do not need to have cookies turned on to use any pages within our website. For more information about cookies, including how to set your browser to reject cookies, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
-If you are concerned about the use of cookies, the Museum suggests that you explore your browser’s options to notify you whenever a cookie is set, or to disallow cookies altogether. Users should be aware, however, that prohibiting the use of cookies may restrict the user’s access to certain types of content or features. Numerous online resources explain cookies and describe how to disable them (for example, the [Federal Reserve of New York](http://www.ny.frb.org/cookies.html)).
+ **Security**
 
-We also allow third-party companies to collect certain non-personally identifiable information (e.g., the type of browser and/or operating system you use, time and date, and information relating to the content you are viewing) on our behalf when you visit our digital properties.  These companies may use such non-personally identifiable information in order to provide advertisements about our exhibits, events, programs, goods and services likely to be of greater interest to you on other digital properties.  These companies typically use a cookie, a web beacon or other technology to collect this information.  To learn more about this targeted advertising practice or to opt-out of this type of advertising via cookies, you can visit <http://www.aboutads.info/choices/> or <http://www.networkadvertising.org/choices/> if located in the United States or Canada or <http://www.youronlinechoices.eu/> if located in Europe.
+The online transactions conducted on the Museum website and on site are protected by security features, including encryption and tokenization, designed to prevent the unauthorized release of your personal financial data. All credit card information complies with current PCI standards and will be tokenized and held on third party sites.
 
-## How Information is Used
+While the Museum has endeavored to create a secure and reliable website, please be advised that the confidentiality of any communication or material transmitted to/from this website over the Internet cannot be guaranteed. Accordingly, the Museum and its employees, agents, officers, directors, legal representatives, predecessors, successors and assigns are only responsible for information after receipt and while in our custody and control. You assume the sole and complete risk for using this website and must make your own determination as to these matters.
 
-Any Personal Information provided to the Museum is maintained and accessible only by the Museum and will not be made available to third parties except as permitted by the Terms and Conditions and this Privacy Policy.
+ **Links to Other Sites**
 
- **Marketing and Promotion  
-** If you provide us with your email address, this will be deemed permission for us to email you information about our exhibition, events, and other programs and activities, as well as for any marketing or promotional purposes. However, you may withdraw this permission using our opt-out procedure. You will not receive such communications unless you have knowingly provided the Personal Information required. In some cases, you will be required to opt-in by joining a newsgroup or mailing list. If you do opt-in, you will always have the option to opt-out at any time by unsubscribing to that particular list or following the opt-out instructions included within the body of the email message.
+Users may find content on the Museum’s site that links to the sites and services of our partners, sponsors, or other third parties. In many cases, these links represent cooperative projects or are established with persons or entities that have a significant connection to or relationship with our site. Although every effort is made to ensure that any referrals are to reputable and relevant sources, the Museum does not control the content or links that appear on these sites. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies, or no policy at all. The Museum encourages visitors to review the privacy policies of any sites they visit to ensure their Personal Information is being protected.
 
- **Membership  **  
-If you sign up for a membership online, your Personal Information will be entered into the Museum’s membership database. We may share your Personal Information with other reputable organizations, such as other nonprofits, art institutions and companies. If you do not want to have your information used in this way, you may send an e-mail message containing your name and postal address to [memberinfo@whitney.org](mailto:memberinfo@whitney.org). We may also share such information with third-party vendors who help us analyze and understand our donor and membership base.
+ **Children**
 
- **Use of Outside Vendors  
-** The Museum may from time to time retain qualified third-party vendors in order to help us manage the Museum Web Site and allow us to better serve our visitors and customers. These may include third-party vendors we engage to analyze the information we collect on the Museum Web Site. The Museum requires its vendors to maintain the security of the Personal Information to which they are provided access and restricts third-party vendors from using Personal Information in any way not expressly authorized by Museum.
+The Museum does not knowingly collect personal information from children under thirteen years of age. Children should always ask parents/ guardians for permission before providing personal information to any website or purchasing any products or services online. The Museum urges all parents/ guardians to participate in their children’s exploration of the Internet and to teach them about protecting their personal information while online.
 
-We may contract with third parties who use Cookies to collect information on our behalf. These parties are required to maintain the confidentiality of this information. We may contract with companies or others to provide certain services, including credit card processing, Information management, promotional services, etc. We provide these service providers with the information they need to perform these services, but we restrict them from using the information in any way not expressly authorized by Museum.
+ **Data Protection Privacy under the General Data Protection Regulation (“GDPR”)**
 
- **Opt-Out  **  
-If for any reason you do not wish to receive further email from the Museum, please follow the instructions for unsubscribing included within the body of the message that was sent to you, or e-mail a message containing your name and address to [memberinfo@whitney.org](mailto:memberinfo@whitney.org).
+The GDPR protects personal data collected from citizens of European Union Member States. The Museum collects and stores certain personal data through our website, in person or over the phone for the reasons set forth above.
 
-## With Whom Information is Shared
+In order for the Museum to collect this information, you must consent to the collection of your personal data. The Museum will only use your personal data for the purposes established in this policy, unless we discover another purpose that is in line with the Museum’s original purpose for collection. In the event that you do not consent to the collection of your personal data, then the Museum may not be able to completely and fully provide you with all of our services.
 
-The Museum may share your Personal Information, as collected under the circumstances outlined above, with other reputable organizations, such as other non-profits, art institutions, or companies.  The Museum has teamed up with reputable third-party vendors in order to provide certain services to its online users as described above.
+The Museum will store your personal data for as long as necessary to fulfill the purpose for which the personal data was collected and processed, including for the purposes of satisfying any legal, regulatory, accounting or reporting requirements. To determine the appropriate retention period for your personal data, we will consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use of disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve these purposes through other means, and the applicable legal requirements. Upon expiration of this time frame, the Museum will securely erase and destroy all of your collected personal data, in accordance with applicable laws and regulations.
 
-## Security
+ _Personal Data_  
+The term “personal data” includes information such as your name, address, email address, telephone number, IP address, credit card information, website cookies, and location. Personal information does not include data from which you can no longer be identified due to encryption or anonymity.
 
-The Museum protects all personal and non-personally identifiable information that it receives via the Internet against unauthorized access. In addition, the Museum’s website uses Secure Sockets Layer (SSL) encryption to process purchases made through its online store and ticketing systems. By using this technology, online customers can be confident that their personal information is protected from interception by any third party. Sensitive credit card information is not permanently stored on any WMAA web server and, though your order information is retained for our records, this information is never shared with other companies or persons.
+ _Rights to your Personal Data under the GDPR_  
+If the GDPR applies to you, then you have particular rights as an individual under this regulation, including the right to:
 
-What is a secure connection? When a secure connection is established between your browser and a website, any data that is transferred over the connection is encrypted to prevent it from being viewed by a third party. Secure Sockets Layer (SSL) encryption, the standard for most browsers and servers, makes it very difficult for anyone to intercept or decode messages exchanged over this type of secure connection.  Browsers such as Google Chrome, Safari, Firefox and Internet Explorer display an image of a locked padlock in their status bar when connected to a secure site. Secure transactions are also indicated when the prefix in the location bar of your browser switches from http:// to https://. If you do not see the padlock at the bottom of your browser’s window, if the padlock is unlocked, or if the protocol in the location bar is not listed as https://, then any data exchanged with the website is potentially visible to others. Depending on your browser, you may be able to view authentication information about a secure page by double-clicking on the locked padlock in the status bar. For more information on how your software establishes a secure connection, see the help files for your particular browser.
+  * Request access to your personal data stored by the Museum and request certain information in relation to its processing;
+  * Request a change and/or update be made to your personal data stored by the Museum; and
+  * Request restriction of processing of your personal data;
+  * Request erasure of your personal data stored by the Museum; and
+  * Object to the processing of your personal data.
 
-## Links to Other Sites
 
-Users may find content on the Museum’s site that links to the sites and services of our partners, sponsors, or other third parties. In many cases, these links represent cooperative projects or are established with persons or entities that have a significant connection to or relationship with our site. Although every effort is made to ensure that any referrals are to reputable and relevant sources, the Museum does not control the content or links that appear on these sites. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies, or no policy at all. The Museum maintains a policy against the nonconsensual collection or sharing of Personal Information and encourages visitors to review the privacy policies of any sites they visit to ensure their Personal Information is being protected.
 
-## Children
+To exercise one of these rights, please contact the Museum at privacy@whitney.org.
 
-The Museum does not knowingly collect personal information from children under thirteen years of age. Children should always ask parents/ guardians for permission before providing personal information to any website or purchasing any products or services online. The WMAA urges all parents/ guardians to participate in their children’s exploration of the Internet and to teach them about protecting their personal information while online.
+ _Withdrawal of Consent_  
+The Museum acknowledges that even though you may initially consent to the processing of your personal data, you may want to withdraw your consent from time to time. You may withdraw your consent from the processing of personal data either entirely or in part. To withdraw your consent, please contact privacy@whitney.org.
 
-## Policy Changes
+ _Questions or Concerns_  
+If you have any questions or concerns regarding the rights established under the GDPR, please feel free to contact the Museum at privacy@whitney.org or
 
-Occasional changes may be made to this document as new services and content are added to our site or to reflect changes in the Museum’s policies. Visitors to the Museum’s website are encouraged to check this document periodically to stay informed of current Museum privacy guidelines.
+Privacy Officer  
+Whitney Museum of American Art  
+99 Gansevoort Street  
+New York, NY 10014
 
-  
-Last updated July 21, 2016
+This website is published in the United States and is subject to laws of the United States. If you are located in a country outside the United States and voluntarily submit personal information to the Museum, you thereby consent to the general use of such information as provided in this Privacy Policy and to the transfer of that information to, and/or storage of that information in, the United States. The Museum shall not be liable under any circumstances for damages resulting from use of information collected from visitors to the website.
+
+Please note that the Museum may revise this Privacy Policy at any time. You agree to be bound by this Privacy Policy and any modifications to this Privacy Policy by your continued use of the website, purchasing tickets, or otherwise providing personal information. We encourage you to periodically visit this page to review our most current policy. Your continued use of the website following the posting of changes to these terms will indicate your acceptance of those changes.
+
+Last updated May 21, 2018
