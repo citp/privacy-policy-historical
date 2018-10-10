@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigsalefinder.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023024630id_/http%3A//bigsalefinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigsalefinder.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010222931id_/http%3A//bigsalefinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Know your Privacy is Important at Big Sale Finder
 
