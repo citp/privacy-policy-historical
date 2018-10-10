@@ -1,175 +1,213 @@
-> *The following text is extracted and transformed from the finalfantasyxv.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finalfantasyxv.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010224607id_/https%3A//square-enix-games.com/en_US/documents/privacy) for the most accurate reproduction.*
 
-# SQUARE ENIX
+# SQUARE ENIX - documents
 
-**PRIVACY POLICY**
+**_SQUARE ENIX, INC.    
+PRIVACY NOTICE_**
 
-We, Square Enix Limited, are committed to protecting and respecting your privacy. 
+Hi. We’re Square Enix, Inc. You probably know us from all the SQUARE ENIX®, EIDOS®, Crystal Dynamics®, and TAITO® branded entertainment content we develop, publish, distribute and license, including: FINAL FANTASY®, DRAGON QUEST®, TOMB RAIDER®, and SPACE INVADERS®.
 
-This Privacy Policy relates to our website at [eu.square-enix.com](http://eu.square-enix.com/), the European parts of the website at [www.playonline.com](http://www.playonline.com/), our mobile applications and any of our other online or mobile products, content and services (collectively, the “ **Service** ”). 
+This Privacy Notice describes how Square Enix, Inc. and our affiliates (collectively “ **Square Enix** ,” “ **Company** ,” or “ **we** ,” “ **our** ,” or “ **us** ”) collect, use, and share information about you when you use our various products and services (collectively, the “ **Services** ”). This Privacy Notice applies if you are a customer or subscriber of Square Enix, Inc. or if you are visiting a website where this Privacy Notice is posted. This Privacy Notice does not apply to information collected by third parties that may interact with our Services ( _e.g._ , a social media plug-in such as a Facebook like button), or to our data collection activities outside of our Services ( _e.g._ , through websites that support specific products, which may have different privacy policies). It also does not apply to information collected through the Services from data subjects located in the European Union. If you are a data subject located in the European Union, please see our [Square Enix Limited Privacy Notice](https://square-enix-games.com/en_GB/documents/privacy).
 
-This Privacy Policy explains how we use any personal information that we collect about you when you use the Service. Further details of how we use your information is set out in our [Cookies Policy](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/cookies) and, for users of our online, membership-based entertainment service(s), in the [Square Enix Online Services Privacy Policy](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/onlineprivacy), each of which forms part of this Privacy Policy. 
+In addition, please review the [Square Enix, Inc. Terms of Service](https://na.square-enix.com/us/documents/tnc) (“ **SEA Terms of Service** ”), which governs your use of the Services.  _By using our Services, you consent to this Privacy Notice and SEA Terms of Service and our collection, storage, sharing and use of your information and data, and other activities, as described.   **If you do not agree to this Privacy Notice, do not access the Services, and in the case of mobile applications, uninstall the mobile applications immediately.**_
 
-Our U.S.-related entities participate in the EU-U.S. Privacy Shield Framework as discussed in the “Privacy Shield” section below. 
+This Privacy Notice and the ESRB certification seals shown on our Services confirm that Square Enix is a valid licensee, and participating member, of the [Entertainment Software Rating Board's Privacy Certified Program](http://www.esrb.org/privacy/faq.aspx#10) (“ **ESRB Privacy Certified** ”). To protect your privacy, we have voluntarily undertaken this privacy initiative, and all of our Services where this Privacy Notice is posted have been reviewed and certified by ESRB Privacy Certified to meet established online information collection, use, and disclosure practices. As a licensee of this privacy program, we are subject to audits of our Services and other enforcement and accountability mechanisms administered independently by ESRB Privacy Certified.
 
-By using the Service, you consent to the collection, storage and use of your personal information as described below. If you do not agree to this Privacy Policy, please do not use the Service and (if relevant) please uninstall the related application. 
+ **Square Enix participates in the E.U.-U.S. and Swiss-U.S. Privacy Shield Framework. To learn more, click  ** **here** **.**
 
-**Topics:**
+ 
+*  **The Types of Information We Collect from You and How We Collect It**
 
-  * [Data protection compliance](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/privacy#a)
-  * [The information we collect from you](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/privacy#b)
-  * [An important note to parents or guardians](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/privacy#c)
-  * [How we use personal information](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/privacy#d)
-  * [Disclosure of your personal information](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/privacy#e)
-  * [Tracking, Ad Technology and Serving, IP addresses and other Data](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/privacy#f)
-  * [Cookie technology](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/privacy#g)
-  * [Where we store your personal information](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/privacy#h)
-  * [Information security](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/privacy#i)
-  * [Other services](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/privacy#j)
-  * [Opting out](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/privacy#k)
-  * [Access to your information](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/privacy#l)
-  * [Privacy Shield](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/privacy#ps)
-  * [How to contact us](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/privacy#m)
-  * [Changes to this Privacy Policy](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/privacy#n)
+From the moment you begin interacting with the Services we are collecting information. This information includes information that identifies or can be used to identify you personally.
 
+Sometimes you choose to provide this information to us and other times we collect it from you automatically. For example, you choose to provide us certain information when you register or update a Square Enix Members account or Square Enix Account, use our paid-for Services, apply for a job with us, subscribe to our mailing lists or agree to receive marketing messages from us, call us, email us, live chat with us online or in-game, make a purchase from us, enter one of our competitions, respond to one of our surveys, post in our forums, conduct a search or post content on our websites, chat or interact with other users on the Services, register to attend our events, or “follow,” “like,” post to, or otherwise interact with our social media accounts. And we collect your information automatically when you browse or use our websites, chat or interact with other users on the Services, receive an email from us, login to your Square Enix Members or Square Enix Account, play one of our games, live chat with us online or in-game, or make a purchase from us.
 
+Here are some examples of the types of information we collect from you when you use the Services.
 
-**Data protection compliance**
+  * **personal details** – _e.g._ , your name, address, telephone number, email address, and birthday.
+  * **transactional information** – _e.g._ , your bank account number, credit/debit card information, and billing address.
+  * **account profile data and credentials**  –  _e.g._ , your username, password, password hints, and other information related to your account registration.
+  * **information relating to the browser or device you use to access the Services  **–  _e.g._ , IP address, login information, browser type and version, time zone setting, browser plug-in type, operating system and version, Google AdID, Apple IDFA, or other device information that uniquely identifies the device or application you are using.
+  * **information on how you use our websites** – _e.g._ , your URL clickstreams (the path you take through our websites), products you view or purchase, webpage response times, download errors, how long you stay on webpages, and what you do on those webpages.
+  * **information about the location of your device**  –  _e.g._ , precise location data with your opt-in consent (such as latitude/longitude) and imprecise location data (such as data derived from an IP address or that indicates a city or postal code level).
+  * **information on how you purchase and use our games and products** – _e.g._ , the gaming platform you are using, mobile and hardware identifiers, device event information, crash reports, language options you choose, subtitles selected, version of the game being played, game scores, game metrics, achievements, rankings, time played, feature usage, player performance and progression, in-game purchases, downloadable content purchases, micro transactions, timezone, timestamp, session duration, challenges or gifts sent to other players, and number of friends on the platform.
+  * **information we receive when you interact with third-party platforms** – _e.g._ , game consoles (nickname, username, ID, friends list, email address, geolocation, language, and date of birth), mobile platform providers and stores (username, device ID, and purchase history), and Facebook (name, email address, and friends playing the same game).
 
-The Service is controlled by us from our offices in the United Kingdom (“ **UK** ”). Personal information collected from the Service is processed in accordance with the Data Protection Act 1998 (the “ **Act** "), which regulates the processing of personal data in the UK. We, Square Enix Limited, are registered as a data controller in accordance with the Act and comply with UK data protection and privacy law. 
 
-If you choose to use the Service from outside the UK, you do so at your own risk, with the understanding that personal information collected from the Service may be collected, stored and used in a country whose privacy laws may be different and less protective than those of your home country. 
 
-**The information we collect from you**
+**Information You Disclose Publicly** : The Services may permit you to submit content on various public channels like blogs and message boards, as well as through gameplay. We or others may store, display, publish, or otherwise use this content in perpetuity, and may or may not attribute it to you. Please note that we do not control who will have access to information you choose to make public, and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure. Please think carefully before sharing any information on the Services.
 
-When you use the Service (such as when registering as a member and/or using our paid-for services), you may be asked to provide personal information that identifies you personally (including “personal data” and “sensitive personal data”, as defined in the Act). This may include your name, postal address, email address, telephone number, gender, date of birth, country, preferred language, user name, password, credit card information, as well as any other information that may be used to identify you. From time to time, you may be asked to submit personal information in order to receive or use parts of the Service or for the purposes further described in this Privacy Policy. By entering your details in the fields requested, you enable us to provide you with the products, content or services you select. If you do not provide us with all or part of the personal information requested, some parts of the Service may not be available to you. 
+**Information Third Parties Provide about You** :We may, from time to time, supplement the information we collect directly from you on our Services with outside records from third parties for various purposes, including to enhance our ability to serve you, to tailor content and ads to you, and to offer you opportunities that may be of interest to you.
 
-Whenever you provide such personal information (whether to us direct or to others collecting it on our behalf) or we receive it with your permission from third parties (such as social network operators), we will treat that information in accordance with this Privacy Policy. 
+**Third-Party Logins** : The Services may include the option to register or log in to an account using Facebook, Google, or another third-party service. By doing so, you provide us with access to certain information from your social media profile, such as your name, email address, photo, gender, birthday, location, friends, people you follow/who follow you, content you post, or likes you make. We use this information to do things like give you exclusive content, personalize your experience on the Services, or advertise to you online, and you consent to the use of this information in accordance with this Privacy Notice. Please be aware that these third parties are not subject to this Privacy Notice, and we are not responsible for their practices. You should review the applicable third parties’ privacy policies before using their tools to interact with the Services.
 
-You may decide to make certain information available for other users of the Service to see (for example, in the course of playing an online or mobile game). In this context, you should only provide information that you are entirely comfortable with providing, and we strongly recommend that you do not provide any details that could be used to make personal contact with you. 
+**Tracking Technologies** : We use various technologies to collect information from you, including as follows:
 
-We may also collect certain usage data, such as pages visited and services used within the Service, as well as information about your location. This information is generally not personally identifiable information, and generally is not aggregated with your other personal information. If it is personally identifiable, or aggregated with personal information in a way that makes you personally identifiable, we will treat the aggregated information as personal information under this Privacy Policy. We generally use usage data to improve our services to you and to customise and enhance your experience of the Service. 
+  * **Log Files**. A log file is a file that records events that occur in connection with your use of the Services.
+  * **Cookies:**  A cookie is a data file placed on your device when you visit the Services. Cookies may be used for many purposes, such as remembering you and your preferences, supporting our security features, and tracking your visits to and activities on and off the Services, including for purposes of bringing you relevant advertising. Some features of the Services may not function properly if you choose to disable cookies, and some types of cookies may not be disabled using browsers. In some instances, especially with respect to mobile, we may require you to uninstall/not use the Services rather than have a poor experience from disabling cookies. Please review our [Square Enix, Inc. Cookie Policy](https://na.square-enix.com/us/documents/cookies) for more information.
+  * **Embedded Scripts:**  An embedded script is programming code that is designed to collect information about your interactions with the Services, such as the links you click on. The code temporarily downloaded onto your device from our web server or a third-party service provider is active only while you are connected to the Services, and is deactivated or deleted thereafter.
+  * **Pixels:**  A pixel (also known as a web beacon) is code embedded in a website, video, email, or advertisement that sends information about your usage to a server. When you access a website, video, email, or advertisement that contains a pixel, the pixel may permit us or a third party to drop or read cookies on your browser. Pixels are used in combination with cookies to track activity by a particular browser on a particular device. We may incorporate pixels from third parties that allow us track our conversions, bring you advertising both on and off the Services, and provide you with additional functionality, such as the ability to connect our Services with your social media account.
+  * **ETag, or entity tag:**  A feature of the cache in browsers, an ETag is an opaque identifier assigned by a web server to a specific version of a resource found at a URL. If the resource content at that URL ever changes, a new and different ETag is assigned. ETag tracking may generate unique tracking values even where the consumer blocks HTTP, Flash, and HTML5 cookies.
+  * **Location-Identifying Technologies:  **GPS, WiFi, Bluetooth, and other location-aware technologies may be used to collect precise location data when you enable location-based services through your device.
+  * **App Technologies:**  There are a variety of technologies that may be included in our apps that are not browser-based like cookies and cannot be controlled by browser settings. For example, our apps may include third party SDKs, which is code that sends information about your usage to a server. These SDKs allow us track our conversions, bring you advertising both on and off the Services, and provide you with additional functionality, such as the ability to connect our Services with your social media account.
 
-**An important note to parents or guardians**
 
-We encourage parents or guardians to take an active interest in their children's use of online or mobile platforms, including the Service. Their involvement is essential to help ensure a safe and rewarding experience for their children. Parents or guardians should be aware that there are software tools available that screen objectionable content and allow you to prevent children from disclosing their personal information without your permission. 
 
-We will not intentionally collect any personal information from children under the age of 13. Children under the age of 13 can participate in all activities on the Service that do not require submission of personal information. They may view, but may not under any circumstances participate in activities that require submission of personal information, such as message boards, contests or sweepstakes. 
+As noted above, third parties may also use these or other tracking technologies with our Services. We do not control those third-party tracking technologies and you should visit those third parties’ websites for information about their privacy practices.
 
-In addition we take particular care when processing the personal information of children aged 13 or older to ensure that such information is processed in accordance with the Act. 
+For more information on advertising and related tracking technologies, click [here](https://na.square-enix.com/us/documents/cookies).
 
-**How we use personal information**
+Back to top
 
-We may use personal information collected from the Service to enable your efficient use of the Service, as well as for marketing, promotions, research, analysis, product service and development. Where permitted, we may occasionally use your personal information to contact you by telephone, email, SMS or otherwise in writing to inform you about our products. 
+ 
+*  **How We Use the Information We Collect from You**
 
-We will not use your personal information for marketing or promotional purposes without having first obtained your consent to do so. In any further marketing or promotional communications we send to you, we will give you the opportunity to withdraw your consent to receiving such communications in the future. To do so, please follow the unsubscribe instructions on the communications you receive. If you have opted in to allow us to share your personal information with third-party providers of products, content or services that we believe may be of interest to you, you can opt out of further direct communications from any such third party by contacting that third party direct. 
+We may use your information for the following purposes:
 
-We may also use your personal information for the purposes of: 
+  * to provide you the Services, including by authenticating your login information, verifying your age, and remembering your settings;
+  * to improve or develop the Services, including by optimizing traffic, conducting in-game data analytics and research, managing landing pages, and heat mapping our websites;
+  * to provide customer support or resolve technical issues;
+  * to provide you information that you have requested or agreed to receive, such as electronic newsletters, special offers, or promotional materials;
+  * to process payments or transactions;
+  * to process your registration of a Square Enix Account, Square Enix Members account, or other account;
+  * to customize your experience on the Services, including by serving you (or people like you) targeted advertising and other relevant content;
+  * to contact you with regard to your use of the Services or changes to the Services;
+  * to process your entry into contests, sweepstakes, surveys, or other promotional events that we run from time to time, should you decide to participate in them;
+  * to deliver relevant advertisements or offers to you, and to measure the effectiveness of these advertisements and offers; 
+  * to enforce our rules and policies and protect the competitive integrity of our games;
+  * to investigate and respond to fraudulent, unauthorized, or illegal activity;
+  * to monitor your participation in our forums and all parts of the Services that allow you to post information or interact with other users;
+  * for internal business purposes;
+  * for purposes disclosed at the time you provide your information or as otherwise set forth in this Privacy Notice.
 
-· processing and administering your registration as a member and/or use of paid-for products, content or services; 
 
-· performing, monitoring and enforcing any contracts concluded between you and us (including our [Terms of Use](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/tnc) and any relevant end-user licence agreement), including providing you with the part(s) of the Service that you have requested, along with any support services and any related information and communications; 
 
-· running competitions and other promotional events; 
+We may use information that does not identify you (including information that has been de-identified) without obligation to you except as prohibited by applicable law.
 
-· conducting surveys as to the quality of the Service or of parts of it; 
+Back to top
 
-· miscellaneous customer service correspondence (such as notifying you of changes to our products, content or services); 
+ 
+*  **Third Parties with Whom We Share Your Information**
 
-· processing details of your personal interests and preferences submitted to us via the Service; 
+We use various third parties to help support and operate the Services or perform certain functions on our behalf. If we share your information with these third parties, we will only provide them with information they reasonably need to perform their specific services for the purposes we specify in our contract with them, although we may permit them to use information that does not identify you for other purposes. If we stop using their services, we will require that any of your information that they hold be securely and permanently deleted or de-identified so that it does not identify you. In all cases, we will apply measures to help keep your data safe and your privacy protected.
 
-· processing details of your use of the Service (including traffic data, location data and other communication data) and your online or wireless activity on the Service (including information on your game usage, such as your scores and rankings); 
+Here are some examples of the types of third parties with which we may share your information:
 
-· serving advertising to you on our website or applications based on your use of the Services and/or on third-party sites and applications; and 
+  * information technology companies who support our websites and other business systems;
+  * direct marketing companies who help us manage our electronic communications with you;
+  * ad partners like Google and Facebook, so that they can show you products that might interest you;
+  * analytics companies who help us analyze how you use the Services;
+  * payment processors who facilitate purchases from us and help protect against fraud;
+  * fraud detection and prevention companies who help us prevent cheating, abuse, fraud, tampering, or other unauthorized use of the Services;
+  * applicant-tracking providers who process your application to a job opening we have posted online;
+  * console or platform providers who allow you to purchase, access, or play our games;
+  * business partners who help us develop the Services or make them available to you;
+  * third parties who administer contests, sweepstakes, surveys, or other content on our behalf.
 
-· any other general or special use that you may permit under any particular request for permission that we may make from to time. 
 
-We reserve the right to monitor your account and records to check any complaint or allegation of abuse, infringement of third-party rights or any other unauthorised use of the Service. 
 
-**Disclosure of your personal information**
+**Third-Party Locations and Services** : When you are on the Services, you may be directed to other sites or services that are operated by third parties outside of our control. For example, if you click on a link displayed on the Services you may be taken off the Services to a different site. We are not responsible for the data collection and privacy practices employed by these third parties. We encourage you to pay attention when you leave our Services and to review the privacy policies of any third-party locations you go to.
 
-We may disclose your personal information to any member of our group of companies, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006 (whether based within or outside the European Economic Area). For disclosure to U.S.-based entities, see the “Privacy Shield” section below. 
+**Administrative and Legal Disclosures** : We disclose your information to third parties: (i) in response to lawful requests by public authorities, including to meet national security or law enforcement requirements; (ii) to satisfy any applicable law, regulation, subpoena, or governmental requestor legal process, or any legal process in connection with a court proceeding or arbitration, if in our good faith opinion we are required or permitted to do so by law; (iii) to investigate potential violations of the [SEA Terms of Service](https://na.square-enix.com/us/documents/tnc) or other policies applicable to the Services; (iv) to protect the safety, rights, property or security of the Services, our staff, users, or any other third party; or (v) to detect, prevent, or otherwise address fraud or threats to security.
 
-We may disclose your personal information to other third parties where: 
+**Business Transfers:**  We may share your information with our parent, subsidiary, and affiliate companies within and outside of the United States. In the event some or all of our company will be acquired by another party (or during such negotiations), we may share your information with the acquiring party.
 
-· they provide products, content or services to us in connection with your use of the Service; 
+**Consent:**  We will share your information for any other purpose if we have disclosed that purpose to you and you have consented to it.
 
-· we sell or buy any business or assets, in which case we may disclose your personal information to the prospective seller or buyer of such business or assets; 
+**De-identified Information** : In our sole discretion, we may share aggregated information that does not identify you or de-identified information about you with third parties or affiliates for any purpose except as prohibited by applicable law.
 
-· our company or substantially all of our assets are to be acquired by a third party, in which case we may disclose your personal information to the prospective acquirer and personal data held by us about users of the Service will be one of the transferred assets; and/or 
+Back to top
 
-· we reasonably believe that we need to disclose your personal information to other person(s) (a) by order of any court or governmental or regulatory body of competent authority, (b) to comply with any legal obligation, (c) to enforce or apply our [Terms of Use](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/tnc) or other contracts and/or (d) to protect our, our customers’ or any other third parties’ rights, property or safety (including exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction). 
+ 
+*  **Third-Party Ads and Analytics**
 
-We may also process your personal information to anonymise and aggregate it with other data and to disclose such anonymous and aggregate data to our affiliates and/or business partners. 
+The Services may use third parties such as network advertisers and ad exchanges to serve targeted advertisements on and off the Services based on your behavior on and off of the Services, and may use third-party analytics, user research, or other similar service providers to evaluate and provide us or other third parties with information about your use of the Services and viewing of ads or content. Network advertisers are third parties that display advertisements, which may be based on your visits to the Services and other locations you have visited.
 
-Certain parts of the Service may allow you to post personal information alongside content generated by you (such as on message boards or through game play). In doing so, you accept that such personal information will be disclosed to other users of the part of the Service concerned, and we are not responsible for information or content that you choose to post in this way. Please think carefully before deciding what information to share in this way, and you are strongly advised not to share any data that would personally identify you (or your address or location). 
+Third-party ad serving enables us and others to target advertisements to you or people like you for products and services in which you or people like you might be interested. For example, if you provide us with your email address we may share it with Facebook so that you can receive targeted ads from us when you use Facebook, and so that other users of Facebook who share similar interests to you can also receive targeted ads from us. The Services’ third-party ad network providers, the advertisers, the sponsors and/or traffic measurement services may themselves set and access their own cookies or other tracking technologies on your device and browser. These third-party tracking technologies may be set to, among other things, help deliver relevant advertisements, prevent you from seeing the same advertisements too many times, or help understand the usefulness of these advertisements to you. Our representations regarding our practices in this Privacy Notice do not extend to the practices of these third-party advertisers and others or the use of the information that such third parties collect. By installing and using our Services, you consent to these practices, including the sharing of data about you with these third parties and their own collection of such data.
 
-Except as required or allowed by law or as set out in this Privacy Policy, we will not disclose or dispose of your personal information to any third party without your permission. 
+Please note that we adhere to the [Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising](http://digitaladvertisingalliance.org/sites/digital.daaoperations.org/files/DAA_files/seven-principles-07-01-09.pdf).
 
-**Tracking, Ad Technology and Serving, IP addresses and other Data**
+Back to top
 
-We may collect and process, and our third-party partners and advertisers may directly collect and process, certain information about your device(s) and your use of the Service for system administration, to provide certain parts of the Service, and/to share with third party ad partners (as described below) including (where available) your IP address, geolocation information, mobile network information, hardware information, device serial number, unique device identifier, device 'Advertiser ID', operating system and browser type, Internet connection information, as well as details of how and when you access and use the Service including the pages visited, services used within the Service, any visits to any in-Service stores, and your interactions with advertisements. 
+ 
+*  **Your Choices**
 
-We may also link IP addresses and other unique identifiers to personal data (such as a user’s country or a user ID) and/or non-personal data (such as a user’s access location or usage record) in order to provide certain parts of the Service, to enforce our [Terms of Use](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/tnc) or other user contracts and/to share with third party ad partners (as described below), and we may block certain IP addresses from accessing all or any part of the Service in the event of a user abuse. In particular, our Japanese affiliate may use automated tracking tools to prevent or stop users from engaging in fraudulent activities or unauthorised uses of the Service (such as unauthorised commercial use of items obtained via game play). 
+There are various ways in which you can exercise choice and control over the information you provide to us on the Services. Here are some examples:
 
-If we collect this information and data we may share it with third party ad partners in order that they can use it to assist them with the management and/or placing of ads and offers that you may see served within the Service, or ads served on other third party services that you may use. For example, we may share your email address with Facebook so that you can receive targeted ads from us when you use Facebook, and so that other users of Facebook who share similar interests to you can also receive targeted ads from us. In some cases other third parties may also collect some or all of the above information and data using their own technology(ies) (including cookies) and use it for the same or similar purposes – where they do so, their collection, use and protection of that data is governed by those third parties' privacy policies and practices, and not this Privacy Policy. We may also share this information and data with third party analytics and tracking companies in order that they can use it to assist them in providing services to us or to our third party ad partners. Your device and/or browser settings may allow you to manage aspects of the placement of ads that you see within the Service. To learn how to do this we recommend that you consult your device manual, or the the "Help" function of your browser, 
+**Limit the Information You Provide to Us** : You can stop all prospective collection of information on our Services by uninstalling and ceasing to use or interact with the Services. You can also decline to provide us with any information we request from you, although please note that this may mean you are not able to use certain parts of the Services ( _e.g._ , you will not be able to create an account with us if you do not provide your email address and other information we need to process your registration). With respect to our mobile applications, you may use the standard uninstall process supported by your device, the app, or the marketplace or software through which you acquired the app to stop all prospective information collection through the app.
 
-In some cases you may also be able to opt-out of third party advertising technologies (including cookies) which remember your browsing habits and try and display relevant advertising when you use the Service by visiting <http://www.youronlinechoices.com/uk/your-ad-choices>. If you choose to turn off these technologies you may see advertising on the Service but it may not be tailored to your interests. It does not mean that you won't be served any advertisements. And while many third parties involved in using advertising technology(ies) and serving online advertising appear at the above link, not all do. Therefore, even if you choose to turn off the technology(ies) used by all of the third parties listed, you may still receive some tailored advertisements from other third parties on the Service. 
+**Change Your Communications Preferences** : You may cancel or modify the email communications you receive from us by following the instructions contained within our promotional emails or, where applicable, by logging into an account you have created for our Services and adjusting your settings. This will not affect subsequent access to the Services. Please note that we reserve the right to send you certain communications relating to your account or use of our Services, such as administrative and service announcements, and you will continue to receive these transactional account messages even if you opt-out from receiving our promotional email communications.
 
-Certain parts of the Service may also give you the option to manage location tracking (such as turning it on or off, except for the essential location purposes noted above). If you wish to terminate our tracking, please uninstall or cease using the relevant parts of the Service. 
+**Analytics and Cookies** : You may exercise choices regarding the use of cookies from Google Analytics by going to <https://tools.google.com/dlpage/gaoptout> and downloading the Google Analytics Opt-out Browser Add-on. You may also be able to manage cookies or other tracking technologies by changing your browser settings or by contacting certain third parties directly.
 
-**Cookie technology**
+**Third-Party Opt Outs** : Some of the advertisers and service providers that perform advertising-related services for us and our partners may participate in the Digital Advertising Alliance (" **DAA** ") Self-Regulatory Program for Online Behavioral Advertising. To learn more about how you can exercise certain choices regarding interest-based advertising, visit <http://www.aboutads.info/choices>, and <http://www.aboutads.info/appchoices> for information on the DAA’s opt-out program for mobile apps. Some of these companies may also be members of the Network Advertising Initiative (“ **NAI** ”). To learn more about the NAI and your opt-out options for their members, see <http://www.networkadvertising.org/choices>. Please be aware that, even if you are able to opt out of certain kinds of interest-based advertising, you may continue to receive other types of ads. Opting out only means that those selected members should no longer deliver certain interest-based advertising to you, but does not mean you will no longer receive any targeted content or ads ( _e.g._ , from other ad networks). We are not responsible for the effectiveness of, or compliance with, any third-parties’ opt-out options or programs or the accuracy of their statements regarding their programs.
 
-A "cookie" is a small text file deposited on your device when you access an online or mobile site. We may use cookies to monitor your use of the Service and to customise your experience of it. 
+**Location Data** : For our mobile apps, you can turn off our collection of precise location data through the settings on your device. You can stop collection of all location data through a particular app by uninstalling that app. 
 
-For further details, please refer to our [Cookies Policy](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/cookies). 
+**App Technologies:  **For our mobile apps, you can reset your mobile Ad Id through your device settings, which is designed to allow you to limit the use of information collected about you. For information on how to do this on Apple devices, visit Apple.com or <https://support.apple.com/en-us/HT202074>. For information on how to do this on Android devices, visit [www.google.com](http://www.google.com/).
 
-**Where we store your personal information**
+**Do Not Track** : Note that your browser settings may allow you to automatically transmit a "Do Not Track" signal to websites and online services you visit. There is no consensus among industry participants as to what "Do Not Track" means in this context. Like many websites and online services, we currently do not alter our practices when we receive a "Do Not Track" signal from a visitor's browser. To find out more about "Do Not Track," you may wish to visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
-All information you provide to us is stored on secure servers hosted by us or third parties providing hosting, payment or other services for us. 
+Back to top
 
-The information we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (" **EEA** "), including any destination where the privacy laws of the country concerned may be different and less protective than those of EEA countries. It may also be processed by personnel operating outside the EEA who work for us or for one of our suppliers. Such personnel may be engaged in, among other things, the processing of your payment details (where applicable) and the provision of support services. 
+ 
+*  **Your Rights over Your Information**
 
-By submitting your personal information, you agree to this transfer, storing and processing. 
+You have the right to access certain account information we have about you. You may review, correct, update, or request the erasure of account information you have provided to us by emailing us at [na.privacypolicy@square-enix.com](mailto:na.privacypolicy@square-enix.com). We will respond to your access request within a reasonable time period. We may require additional information from you to allow us to confirm your identity and properly respond to your request. Nothing in this Privacy Notice is intended to limit any additional rights you may have under local law.
 
-**Information security**
+Please note that it is not always possible to completely remove or delete all of your account information from our databases and residual data may remain on backup media. Also, we will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-We take every reasonable precaution to protect against the loss, misuse or alteration of your personal information and to ensure that it will be processed in accordance with this Privacy Policy. Any payment transactions will be encrypted. Where we have given you (or you have chosen) an account password that enables you to access certain parts of the Service, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. 
+You may remove content you have posted on our forums by logging into your account, directly accessing your post, and using the editing tools in our forums (if available). Should you wish to edit or remove any content you have publicly posted, you may contact us with your specific removal request. Please note that we are not required to remove your posted content or information if it has been de-identified or if we are required by law to retain it.
 
-Unfortunately, the transmission of information via the internet, mobile networks or wireless technology is not completely secure, nor is any method of electronic storage. You acknowledge and accept that others may intercept or otherwise access the personal information you provide to us, and that any such transmission or storage is at your own risk. Once we have received your information, we use strict procedures and security features to try to prevent unauthorised access. 
+**California Privacy Rights** : California Civil Code Section 1798.83 permits California residents who have supplied “personal information,” as defined in the statute, to the Services to (under certain circumstances) request and obtain certain information regarding our disclosure, if any, of certain information to third parties for their direct marketing purposes. We share personal information with our affiliates for those affiliates’ direct marketing purposes. California residents may obtain additional information about our compliance with this law by sending a letter to Square Enix, Inc., Attn: Legal Department, 999 N. Sepulveda Blvd., 3rd Floor, El Segundo, CA 90245. Requests must include “California Privacy Rights Request” in the first line of the description and include your name, street address, city, state, and ZIP code. Please note that we may need to request additional information from you to confirm your identity and properly respond to your request.
 
-One easy and important way to protect your personal information is to keep your account password confidential and to close your browser when you are away from your device. 
+**European Privacy Rights** : If you are a data subject in the European Union or Switzerland whose information was transferred in accordance with the Privacy Shield Framework and you do not consent to this Privacy Notice or our Terms of Service, or would like to ask us not to process your personal data (or not to provide it to third parties to process) for marketing purposes, please email us at na.privacypolicy@square-enix.com, or send a letter addressed to Square Enix, Inc., Attn: SEA Privacy Policy Administrator, 999 N. Sepulveda Blvd., 3rd Floor, El Segundo, CA 90245. We will make the requested changes in our active databases as soon as reasonably practical. Nothing in this Privacy Notice is intended to affect any rights you may have available to you under local law.
 
-You can check and edit the personal information we hold about you at any time via the Service or by contacting us by email or post (details [below](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/privacy#m)). 
+Back to top
 
-**Other services**
+ 
+*  **International Transfers of Information**
 
-The Service may interact with other online or mobile products, content or services (such as websites, social networks or mobile applications), including via (a) links from or to the Service, (b) Service log-ins hosted by third-party sites or applications and (c) Service content hosted on third-party sites or applications (such as social media plug-ins). 
+Please be aware that information we collect may be transferred, processed, stored, and used internationally, including in the United States, Canada, Japan, and the European Union. The data protection laws in these countries may differ from those of the country in which you are located, and your information may be subject to access requests from governments, courts, or law enforcement. By using the Services, or providing us with any information, you consent to the transfer to, and processing, usage, sharing, and storage of your information, including personal data, in other countries as set forth in this Privacy Notice.
 
-We may provide some of your personal information to (or receive it from) the operators of such third-party sites or applications, where required for the effective provision of such interactive features (including in the context of in-game or in-site advertising or co-branded offerings provided by us in association with third parties). We are not responsible and accept no liability for their content or their operators’ privacy practices (including any tracking technologies that they may use). Before providing any personal information to them, please refer to their relevant privacy and cookies policies as any information you share with them will be subject to those policies. 
+Company participates in the E.U.-U.S. and Swiss-U.S Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from the European Union and Switzerland, respectively. For the purpose of this Section 7, “ **Company** ” refers to the following legal entities only: Square Enix of America Holdings, Inc., Square Enix, Inc., Square Enix L.L.C., and Crystal Dynamics Inc. Company has certified that it adheres to the Privacy Shield’s Principles of notice; choice; accountability for onward transfer; security; data integrity and purpose limitation; access; and recourse, enforcement, and liability. In accordance with its obligations under the Privacy Shield, and subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission, Company hereby affirms its commitment to subject to the Privacy Shield Principles all personal data received from the European Union and Switzerland in reliance on the Privacy Shield. This means that, in addition to Company’s other obligations under the Privacy Shield Principles, Company shall be liable to you for any third-party agent to which we transfer your personal data and who processes such personal data in a manner that violates the Privacy Shield Principles, unless Company can demonstrate that it is not responsible for the resulting damages.
 
-**Opting out**
+Company is committed to resolving any complaints regarding your privacy and our collection and use of your information in accordance with the Privacy Shield Framework. For inquiries or complaints regarding the processing of personal data transmitted to Company from the European Union or Switzerland, please contact us by sending a letter to: Square Enix, Inc., Attn: Legal Department, 999 N. Sepulveda Blvd., 3rd Floor, El Segundo, CA 90245, or by emailing us at [na.privacypolicy@square-enix.com](mailto:na.privacypolicy@square-enix.com). For any complaints we are unable to resolve directly, you may submit your complaint at no cost to you to JAMS at <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim>[ ](https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim). In the event there are residual complaints that have not been resolved by JAMS or any other means, you may seek a non-monetary remedy through binding arbitration to be provided to you in accordance with the Privacy Shield Principles.
 
-If, at any time, you wish us to stop using your personal information, to stop receiving direct marketing from us, or to correct any factual inaccuracies, just contact us by email or post (details [below](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/privacy#m)). Be sure to state "opt-out" in the subject line, and to include your full name, registered user ID (if any) and email address in the message. We will try to make the requested changes in our active databases as soon as reasonably practical. Please note that residual data may be retained on back-up media or for other technical or administrative reasons. 
+To learn more about the Privacy Shield Framework, and to view Company’s certification, please visit <https://www.privacyshield.gov/welcome> _._  A list of companies certified under the Privacy Shield Framework is available at the following link: <https://www.privacyshield.gov/list>.
 
-**Access to your information**
+Back to top
 
-We will retain your information for as long as necessary for the uses set out in this Privacy Policy. If you would like a copy of the personal information that we hold about you, just contact us by email or post (details [below](https://web.archive.org/web/20170507032203id_/http%3A//eu.square-enix.com/en/documents/privacy#m)). Be sure to state "Copy personal information" in the subject line, and to include your full name, registered user ID (if any) and email address in the message. If requested, we will use reasonable efforts to supply, correct or (as appropriate) delete information about you on our files. Please note that we may not always be able to delete information we hold about you due to technical, legal, regulatory and/or contractual restraints. For example, we would need to retain your name and contact details for suppression purposes if you do not wish to receive direct marketing form us. 
+ 
+*  **Children’s Data**
 
-**Privacy Shield**
+We do not knowingly collect or store any personal information as defined by the Children’s Online Privacy Protection Act (“ **COPPA** ”) from children without verifiable parental consent, as required by COPPA. There may be instances, such as a sweepstakes, contest, or promotion, in which we collect personal information from a child in order to contact a parent and complete prize fulfillment.
 
-We participate in the U.S.-EU Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from the European Union, European Economic Area and Switzerland. For the purpose of this paragraph, “we” refers to the following U.S. legal entities: Square Enix of America Holdings, Inc., Square Enix, Inc., Square Enix L.L.C., and Crystal Dynamics Inc. We have certified that we adhere to the Privacy Shield’s Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability. In accordance with our obligations under the Privacy Shield, and subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission, we hereby affirm our commitment to subject to the Privacy Shield Principles all personal information transferred from the European Union, European Economic Area or Switzerland in reliance on the Privacy Shield. This means that, in addition to our other obligations under the Privacy Shield Principles, we shall be liable to you for any third-party agent to which we transfer your personal information and who processes such personal information in a manner that violates the Privacy Shield Principles, unless we can demonstrate that we are not responsible for the resulting damages. 
+If you are a parent or guardian of a child under the age of 13 (or different age as may apply in your jurisdiction) and believe he or she has disclosed personal information to us without your consent, please contact us at Square Enix, Inc., Attn: Legal Department, 999 N. Sepulveda Blvd., 3rd Floor, El Segundo, CA 90245. You can also contact us by email at [na.privacypolicy@square-enix.com](mailto:na.privacypolicy@square-enix.com). We will delete the child’s personal information from our records as soon as possible.
 
-We are committed to resolving any complaints regarding your privacy and our collection and use of your information in accordance with the Privacy Shield Framework. For inquiries or complaints regarding the processing of personal information transmitted to the U.S. from the European Union, European Economic Area or Switzerland, please contact us by sending a letter to: Square Enix, Inc., Attn: SEA Privacy Policy Administrator, 999 N. Sepulveda Blvd., 3rd Floor, El Segundo, CA 90245, or by emailing us at na.privacypolicy@square-enix.com. For any complaints we are unable to resolve directly, you may submit your complaint at no cost to you to JAMS at [ https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim ](https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim) . In the event there are residual complaints that have not been resolved by JAMS or any other means, you may seek a non-monetary remedy through binding arbitration to be provided to you in accordance with the Privacy Shield Principles. 
+Back to top
 
-To learn more about the Privacy Shield Framework, and to view our certification, please visit [http://www.privacyshield.gov](http://www.privacyshield.gov/). A list of companies certified under the Privacy Shield Framework is available at the following link: <https://www.privacyshield.gov/list>. 
+ 
+*  **Keeping Your Information Secure**
 
-**How to contact us**
+We understand how important data security is to you, and we have implemented various policies, processes, and technical measures to help protect and secure your information. That said, no data transmission is guaranteed to be 100% secure, and we cannot ensure the security of any information you transmit to us. Please take care when transmitting information online, including through the Services, and make sure to keep your passwords and account information secure at all times. In the event we become aware of a data breach involving unencrypted notice-triggering information in our possession, we will notify you as may be required by applicable law.
 
-If you have any questions on this Privacy Policy or our use of your personal information, you can email us at [eu.privacypolicy@square-enix.com ](mailto:eu.privacypolicy@square-enix.com)or write to us at Square Enix Limited, 240 Blackfriars Road, London SE1 8NW, marking any correspondence for the attention of the Legal and Business Affairs Department. 
+Back to top
 
-**Changes to this Privacy Policy**
+ 
+*  **Questions or Complaints**
 
-We keep our Privacy Policy under regular review, and we may at any time update or otherwise modify this Privacy Policy. We will notify you of any changes to our Privacy Policy by posting the modified Privacy Policy on the Service. By then continuing to use the Service, you will be bound by the modified Privacy Policy. You are encouraged to check the terms of our Privacy Policy whenever you access the Service. 
+If you have any questions or wish to file a complaint, please feel free to email us at [na.privacypolicy@square-enix.com](mailto:na.privacypolicy@square-enix.com), or send a letter addressed to Square Enix, Inc., Attn: Legal Department, 999 N. Sepulveda Blvd., 3rd Floor, El Segundo, CA 90245.
 
-**Last modified: 30 September 2016**
+As previously mentioned, we are a licensee of ESRB’s Privacy Certified Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB Privacy Certified at <http://www.esrb.org/privacy/contact.aspx>, or ESRB, Attn: Vice President, Privacy Certified Program, 420 Lexington Ave., Suite 2240, New York, NY 10170. You may also email them at [privacy@esrb.org](mailto:privacy@esrb.org).
+
+Back to top
+
+ 
+*  **Changes to this Privacy  Notice**
+
+We reserve the right to change this Privacy Notice at any time. Any changes will be effective immediately upon the posting of the revised SEA Privacy Notice. However, if you have registered an account with us we may ask you to opt-in upon sign-in if we make material changes.
+
+To the extent any provision of this Privacy Notice is found by a competent tribunal to be invalid or unenforceable, such provision shall be severed to the extent necessary for the remainder to be valid and enforceable.
+
+Back to top
