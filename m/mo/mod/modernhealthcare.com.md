@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610220217id_/http%3A//www.modernhealthcare.com/article/20100101/INFO/100209995) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010130019id_/http%3A//www.modernhealthcare.com/article/20100101/INFO/100209995) for the most accurate reproduction.*
 
 # Privacy Policy - Modern Healthcare
 
-**_ModernHealthcare.com, Modern Healthcare and the associated newsletters, news alerts, data centers, research reports, and other features are products of Crain Communications Inc. Our postal address is 150 N. Michigan Avenue, 17th Floor, Chicago, IL 60601. We can be reached by e-mail at[customerservice@modernhealthcare.com](mailto:customerservice@modernhealthcare.com) or by telephone at 877-812-1581._** _  
-_
+**_ModernHealthcare.com, Modern Healthcare and the associated newsletters, news alerts, data centers, research reports, and other features are products of Crain Communications Inc. Our postal address is 150 N. Michigan Avenue, 17th Floor, Chicago, IL 60601. We can be reached by e-mail at[customerservice@modernhealthcare.com](mailto:customerservice@modernhealthcare.com) or by telephone at 877-812-1581._**  
 
- _
 
 ##  ** _What this Privacy Policy covers_**
 
@@ -284,5 +282,3 @@ c/o Crain Communications Inc
 Detroit, MI 48207
 
 E-Mail: [privacyhelp@crain.com](mailto:privacyhelp@crain.com)
-
-_
