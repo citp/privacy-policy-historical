@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innovativepassiveincome.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609072216id_/http%3A//www.innovativepassiveincome.com/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innovativepassiveincome.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010051554id_/http%3A//www.innovativepassiveincome.com/about-2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Passive Income Ideas: The Innovative Passive Income Blog
 
