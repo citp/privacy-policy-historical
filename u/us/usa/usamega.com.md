@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usamega.com privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225115549id_/https%3A//www.usamega.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usamega.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010025225id_/https%3A//www.usamega.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | USA Mega
 
@@ -16,4 +16,4 @@ Your browser controls the use of cookies and, if you prefer, can be set to eithe
 
 Guests under 18 years of age should not submit information to BGL without the consent of their parent or guardian. 
 
-If you have any questions or comments regarding this statement, please [contact us](https://web.archive.org/web/20170225115549id_/https%3A//www.usamega.com/contact.asp).
+If you have any questions or comments regarding this statement, please [contact us](https://web.archive.org/web/20181010025225id_/https%3A//www.usamega.com/contact.asp).
