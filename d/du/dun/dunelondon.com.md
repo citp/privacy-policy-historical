@@ -1,335 +1,217 @@
-> *The following text is extracted and transformed from the dunelondon.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122153015id_/https%3A//www.dunelondon.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunelondon.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010033342id_/https%3A//www.dunelondon.com/private-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Dune Shoes Online
+# Privacy Notice | Dune London
 
-Effective Date: 09 April 2015
+_Dated: May 2018. This notice has been updated to reflect your rights under new data protection laws which came into force on 25 May 2018.  _
 
-Dune Group Limited ( **We** ) are committed to protecting and respecting your privacy.
+  We are committed to protecting and respecting your privacy. This Privacy Notice sets out details of the information that we may collect from you and how we may use that information.  
 
-This Privacy Policy sets out details of the information that we may collect from you and how we may use that information. This Privacy Policy should be read alongside, and in addition to, our [Website Term of Use](http://www.dunelondon.com/website-terms-of-use/) and our [Terms and Conditions of Supply](http://www.dunelondon.com/dune-legal/).  
- 
+In this Privacy Notice, "we" or "us" refers to Dune Group Limited, a company incorporated in England and Wales (with registered number 02127866) whose registered office is at 9 Hatton Street, London, NW8 8PL, United Kingdom. We are part of The Dune Group which comprises us, Dune Holding Limited, Dune International Limited, Dune Switzerland AG and Dune Shoes Ireland Limited. Where you do provide information to another member of The Dune Group, this Privacy Notice will apply as if we or us refers to the relevant member of the group. Our website refers to www.dunelondon.com. 
 
-Please read this Privacy Policy carefully to understand our views and practices regarding your personal information and how we will treat it. By visiting this website (the **Website** ) or purchasing any of our products, you agree to its terms (including as amended from time to time). If, for any reason, you do not agree to the terms of this Privacy Policy, please stop using this Website.
+  **What information do we collect?  **
 
-### **1\. Who are we?**
+We may collect the following information about you: 
 
-In this Privacy Policy, references to "we" or "us" are to Dune Group Limited, a company incorporated in England and Wales (with registered number 02127866) whose registered office is at 9 Hatton Street, London, NW8 8PL, United Kingdom. We are registered as a data controller with the Information Commissioner's Office with registered number Z8326108. We will at all times only collect and process your personal information in accordance with the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and any other applicable data protection legislation.
+• your name, age/date of birth and gender 
 
-### **2\. What information do we collect and how do we collect it?**
+• your email address 
 
-**2.1 Information you provide to us**. When you use this Website (by filling out a form, opening an account, posting a comment or placing an order), contact us by post, telephone, email or SMS, participate in a competition or promotion or report a problem with this Website, we may collect, store and use certain personal information that you disclose to us. The information we collect from you may include your title, name, address, e-mail address, birthday, phone number, financial and credit card information.  
- 
+• your billing, delivery or home address and telephone numbers (including mobile numbers) 
 
-**2.2 Information we collect about you.** With regard to each of your visits to this Website we may automatically collect the following information: technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform. We may also automatically collect the full Uniform Resource Locators (URL) clickstream to, through and from this Website (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number. We partner with third parties who may collect anonymous usage or statistical data through your use of our website. These third parties may collect similar information about your online activities over time and across third party websites through your use of our website.  
- 
+• details of your purchases and orders  
 
-**2.3 Information we receive from other sources.** We work, from time to time, closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.  We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalise advertisements for goods and services. To learn more, or to opt of recieving online display advertisements tailored to your interests by our third party partners, visit the European Interactive Digital Advertising Alliance at <http://youronlinechoices.eu/>.
+• your online browsing activity 
 
-### **3\. Cookies**
+• your password(s) 
 
-3.1 This Website uses cookies. Cookies are small files stored on your computer's hard drive which are used to collect information about your visit to the Website. Cookies help to provide users with a good experience when browsing this Website and also allow us to improve this Website.
+• your payment card details when you make a purchase or place an order with us 
 
-We may also use technologies, such as our own cookies, to provide you with personalised online display advertising tailored to your interests.  To opt out of these ads, please click here.
+• your communication and marketing preferences 
 
-3.2 You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
+• your location 
 
-Name of Cookie
+• your correspondence and communications with us including notes of telephone calls and webchat exchanges 
 
-| 
+• details of reviews which you post 
 
-Purpose of Cookie  
-  
+• your attendance at events we run 
+
+• your competition answers or other competition submissions 
+
+• other publicly available personal data, including any which you have shared via a public platform (such as a Twitter feed or public Facebook page). 
+
+This list is not exhaustive and sometimes we may need to collect additional data for the purposes set out in this Notice. Some of your personal data is collected directly, for example, when you make a purchase on our websites or enter a competition. Other personal data is collected indirectly, for example, your browsing or shopping activity. Please see our Recruitment Privacy Notice if you are applying for a role at Dune. 
+
+We work, from time to time, closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) who provide services to us and may receive information about you from them. In particular, all payments are provided through a trusted third party payment service provider.  We may also collect personal data from third parties who have your consent to pass your details to us. 
+
+  **How your information is used  **
+
+Depending on how you are interacting with us, we (and trusted partners acting on our behalf) use your personal data: 
+
+• to fulfil contractual agreements between you and us (for example when you place an order for products through our website) 
+
+• to manage any registered account(s) that you hold with us 
+
+• to verify your identity 
+
+• to respond to a query and manage other customer service interactions with you 
+
+• to send you information about our products by post 
+
+• for market research purposes - to better understand your needs 
+
+• to provide you with a personalised browsing experience when using our website 
+
+• to send you details (by phone, e-mail or SMS) of promotional offers and products and services which we think may interest you, where you have consented to this (and have not withdrawn such consent) 
+
+• to let you know about and invite you to events 
+
+• to administer competitions we run from time to time 
+
+We may also use your personal data: 
+
+• for crime and fraud prevention, detection and related purposes 
+
+• to comply with legal and regulatory requirements 
+
+• to assess, operate and improve our website, the services provided through it and customer services 
+
+• where we have a legal right or duty to use or disclose your information (for example in relation to an investigation by a public authority or in a legal dispute) 
+
+We may also use your information to create anonymous data (whereby you cannot be identified) for market profiling purposes which may be used by us and shared with other companies in The Dune Group or third parties. 
+
+We will not share your information with third parties in order for that third party to provide direct marketing communications to you, unless you have provided your consent for such use. Such third parties will have their own policies relating to the way in which your information may be used. 
+
+In order to make certain services available to you, we may need to share your personal data with some of our service partners. These include IT, delivery, marketing service providers and analytics and search engine providers that assist us in the improvement and optimisation of our website and customer service. 
+
+We only allow our service providers to handle your personal data when we have confirmed that they apply appropriate data protection and security controls. We also impose contractual obligations on service providers relating to data protection and security, which mean they can only use your data to provide services to us and to you, and for no other purposes.  
+
+  **Legal Basis for Using Your Information  **
+
+We are allowed to use personal information only if we have a proper reason to do so. This includes sharing it with third parties in certain circumstances. The law says we must have one or more of these reasons: 
+
+• To fulfil a contract we have with you 
+
+• When it is our legal duty 
+
+• When it is in our legitimate interest 
+
+• When we have your consent 
+
+A legitimate interest is when we have a business or commercial reason to use your information. But even then, it must not unfairly go against what is right and best for you. For example, we will use your information to action an order you have placed on-line on our website on the basis that this is a legitimate interest and is necessary to fulfil the contract.  
+
+In general, we only rely on consent as a legal basis for processing in relation to sending direct marketing communications to customers via email or text message. 
+
+Customers have the right to withdraw consent at any time. Where consent is the only legal basis for processing, we will cease to process data as soon as we can after consent is withdrawn. Please see the Contact section below. 
+
+We may share your personal information with any other companies in The Dune Group and other companies in the Dune Group may share your personal information with us in order to fulfil a contract we have with you or when it is in our legitimate interest. 
+
+  **International Transfers  **
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (EEA) which may have lower standards of data protection. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Notice. If we do transfer information to our agents or advisers outside of the EEA, we will make sure that it is protected in the same way as if it was being used in the EEA. We’ll use one of the safeguards below. 
+
+ Transfer it to a non-EEA country with privacy laws that give the same protection as the EEA. Our standard practice is to use ‘standard data protection clauses’ which have been approved by the European Commission for such transfers. Those clauses can be accessed here. 
+
+Transfer it to organisations that are part of Privacy Shield. This is a framework that sets privacy standards for data sent between the US and EU countries. It makes sure those standards are similar to what is used within the EEA. 
+
+  **How long do we keep your data?  **
+
+We will not retain your data for longer than necessary for the purposes set out in this Privacy Notice. Different retention periods apply for different types of data. 
+
+  **Your Privacy Rights**
+
+You have the right to contact us (see the Contact section below) in order to find out what information we hold about you (please note that a small fee may be payable) or to access or correct any information we hold about you.  You can also request the erasure of the information that we hold about you (see the Contact section below) 
+
+ To unsubscribe from marketing emails at any time, please click on the unsubscribe link at the bottom of any marketing email and update your account preferences. You may also contact us to inform us if you do not wish to receive any marketing materials from us. Please see the Contact section below. 
+
+  Our website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. These websites have their own privacy policies and we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal information to these websites. 
+
+  **Cookies  **
+
+Our website uses cookies. Cookies are small files stored on your computer's hard drive which are used to collect information about your visit to the website. Cookies help to provide users with a good experience when browsing our website and also allow us to improve our website. 
+
+While there are many different uses for first and third party cookies, the cookies used by us all fall into one of two main categories being either ‘functional’ i.e. needed to make sure our website runs optimally or third-party marketing/targeting cookes. 
+
+You can find more information about the individual cookies we use and the purposes for which we use them in the table below: 
+
+**Name of Cookie** | **Purpose of Cookie**  
 ---|---  
-CurrentCustomerDune1 | This is a multi-purpose cookie that allows this Website to remember you next time you return. It will remember your login, and any items added to your basket.  
-Session | This cookie is used to collect information about how visitors came to this Website. We use the information to compile reports and to help us improve the Website. The cookie collects information in an anonymous form, including the website where the visitor has come from.  
-_utma  
-_utmb  
-_utmc  
-_utmz | These cookies are used to collect information about how visitors use this Website. We use the information to compile reports and to help us improve the Website. The cookies collect information in an anonymous form, including the number of visitors to the Website, where visitors have come from and the pages they have visited.  
-Session%5Fsrc | This cookie is used to collect information about how visitors arrive on this Website after interacting with marketing campaigns. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including where the visitor came from before visiting this Website.  
-ASPSESSIONIDXXXXXXX | This cookie creates a non-identifiable id – which we use to track non personal information.  
-recentlyViewed | This cookie is used to generate a history of the products you have browsed while on this Website. The information may be displayed in the recently viewed section of the product detail page but is not used for any other purpose.  
-DoubleClick  
-DoubleClick Floodlight | Google's DoubleClick is used to report on the effectiveness of our advertising campaigns. Any data passed to Doubleclick is anonymous statistical data.  
-lsclick_midXXXXX | This cookie tracks advert views and traffic from our affiliate advertising partner Rakuten Linkshare's network. Any data passed is anonymous statistical data.  
-_#srchist | This cookie stores the history of traffic sources a user has arrived to the site by.  
-_#sess | This cookie stores information about the session.  
-_#vdf | This cookie stores the visit definition - ts type, number of visits, expiry.  
-_#uid | This cookie stores a user identifier (only within a site).  
-_#slid | This cookie stores the unique sale ID.  
-_#clkid | This cookie stores unique identifier for a click generating a landing.  
-_#lps | This cookie flags that the last page was secure and therefore has no referrer.  
-_#tsa | This cookie stores the referrer details to avoid duplicate Landing events.  
-_#env | This cookie flags whether the environment variables (screen size, browser etc) need to be collected again.  
-DotomiUser  
-dtm_token  
-DotomiNet  
-rt_NNNN  
-DotomiSession_NNNN  
-DotomiRRNNNN | These cookies are used by our advertising partner, Conversant, for interest-based advertising. These cookies are used to deliver advertisements that are more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. These cookies do not collect any personal information.  
-DotomiStatus | This Conversant cookie is used to honor a user’s interest-based advertising opt-out preference.  
-MPEL | This MotionPoint cookie is used to allow customers to switch between international sites using the "Welcome" functionality.  
-mp_srchkwd | This MotionPoint cookie is used to populate the correctly translated search keyword on our international sites.  
-MP_COUNTRY | This MotionPoint cookie is used identify a users previously selected country of delivery.  
-MP_LANG | This MotionPoint cookie is used identify a users previously selected preferred language.  
+__zlcmid  | This cookie stores Zopim Live Chat ID to identify the device during visits.  
+_cs_id    | Includes user ID- 13 months (according to the default value, but it can be administered on the account).  
+_cs_s    | Includes number of pages viewed in the current session. Then, it is followed either by ".0" or by ".1" (the latter allowing to include a visitor to their complete session recording service: HTML background and all mouse movements). Duration- 30 minutes.  
+_cs_v  ? | This cookie is used by ContentSquare to send errors to the system.  
+_dc_gtm_UA-6026178-1    | This cookie collects information in an anonymous form.  
+_ga    | This cookie is used to distinguish users.  
+_gali  | This cookie is used to check how many unique visitors Dune has per page.  
+_gid    | Used to distinguish users and stores session IDs.  
+_mibhv    | This cookie is used for general purpose behaviour tracking, outside of the context of any specific campaign.  
+_uetsid    | Universal event tracking, which enables Microsoft to identify end user visits to your site.  
+AKA_A2  | Is an akamai cookie used by feature such as adaptive acceleration. Adaptive Acceleration(A2) is Akamai's intelligent platform that continuously applies performance optimizations with zero development effort.  
+ASPSESSIONIDSWTQSBTB    | This cookie creates a non-identifiable id – which we use to track non personal information.  
+crl8.fpcuid    | Is an anonymized user id for tracking engagement within your domain. We need this to provide more accurate tracking because third party cookies (our `crl8.cuid`) dropped on our domain are not supported by certain browsers, notably Safari, which is a significant portion of web traffic from mobile devices. As an example, Google Analytics uses first party cookies as well to track users and sessions.  
+CurrentCustomerDune1  | This is a multi-purpose cookie that allows this Website to remember you next time you return. It will remember your login, and any items added to your basket.   
+dmSessionID    | Enables to track when email campaign recipients land on the target website. This enables the effectiveness of a campaign.  
+emsignupDune1    | This cookie is to stop the newsletter sign up pop-up from showing once the customer has either subscribed/clicked on the close icon in the newsletter lightbox.  
+hjs_di    | A unique id that Hive assign to the device.  
+hjs_ses  | A unique id representing the last browser session (re-generated after 30 minutes of inactivity).  
+mmapi.store.p.0    | Contains cookies to store anonymous identifiers. Persistent storage set for a duration of one year from the visitors last visit on the site. Examples of data stored; customer profile information, campaign data and external visitor IDs.  
+mmapi.store.s.0  ? | Session storage set for the duration of the browser session. Stores the following data; postponed actions, personalisation criteria and campaign data.  
+msc6223  | This cookie contains all first party cookies detailed here.   
+recordID  | This cookie is a unique user identifier, which enables persistent linking of behaviour on the site to a particular user and email campaign response.  
+session    | This cookie is used to collect information about how visitors came to this Website. We use the information to compile reports and to help us improve the Website. The cookie collects information in an anonymous form, including the website where the visitor has come from.  
+MPEL  | Provides automated translation and records your preferred language.  
+__atuvc  | This cookie enables visitors to share content with a range of networking and sharing platforms. It stores an updated page share count.   
+__atuvs  | Ensures you see the updated count if you share a page and return to it before the share count cache has updated.?  
+_cs_ex    | This cookie is used by ContentSquare to exclude a visitor from data collection. Duration - 30days.  
+BasketDetailsGBPDune1  | This is to store the previous currency.   
+order    | This is to store the listing page order.  
+recentlyViewed    | This cookie is used to generate a history of the products you have browsed while on this Website. The information may be displayed in the recently viewed section of the product detail page but is not used for any other purpose.  
+securesession    | This is to keep a session active while customers are logged in.  
+_gat_UA-6026178-1    | This is a pattern type cookie, where the pattern element on the name contains the unique identity number of the account or website it relates to. It is a variation of the _gat cookie which is used to limit the amount of data recordered by Google on high traffic volume websites.  
+JSESSIONID    | This is a cookie in J2EE web application which is used in session tracking. It manages website resources to improve performance and the user experience.?  
+stc114990    | Third party cookie which is used to store all other cookie data. The cookie name includes the site ID.  
+Session%5Fsrc    | This cookie is used to collect information about how visitors arrive on this Website after interacting with marketing campaigns. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including where the visitor came from before visiting this Website.  
   
-_amp
+**How can you control the use of cookies?**
 
-| 
+You can amend your browser settings to block some or all cookies. To do this, follow the instructions provided by your preferred web browser. For your ease of reference we have provided the links below which provide instructions on how to remove and delete cookies for some of the more common web browsers. Please be aware that if you block cookies from the websites, some or all the website's functions may not perform as intended: 
 
-When the analytics library has loaded it will install a first party cookie (if one is not already installed) and forward any events that occurred before the library had loaded.  
-  
-__atuvc
+• **[Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectlocale=en-US&redirectslug=Cookies)**
 
-| 
+• **[Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)**
 
-This cookie is created by the AddThis social sharing widget to enable visitors to share content with a range of networking and sharing platforms. It stores an updated page share count.  
-  
-mp__utmv
+• **[Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)**
 
-| 
+• **[Safari](https://support.apple.com/kb/PH21411?locale=en_US)**
 
-This cookie is used for user-custom variables in Analytics.  
-  
-mp__utmz
+Mobile phone users may have to refer to their handset manual for details on how to block cookies using their mobile browser. For more information about online behavioural advertising cookies and opt-out controls, please go to **<http://www.youronlinechoices.eu/>**. More information regarding opting out of platform based advertising can be found at **[http://appnexus.com/platform-policy#choices](https://www.appnexus.com/en/company/platform-privacy-policy)**. 
 
-| 
+**Security  **
 
-This keeps track of where the visitor came from, what search engine was used, what link was clicked on, what keywords were used, and where in the world the site was accessed from.   
-  
-mp__utma
+In accordance with applicable data protection law and our own policies, we have adopted appropriate security procedures to help prevent unauthorised access to your information. 
 
-| 
+**Children  **
 
-This keeps track of the number of times a visitor has been to the site, when their first visit was, and when their last visit occurred.   
-  
-CookieLaw
+Our website is not directed at children under the age of 13 and we do not knowingly collect personal information about children. If you believe we have collected personal information about your child, you may contact us as detailed in Contact below and request that we remove information about your child. 
 
-| 
+  **Changes to our Privacy Notice  **
 
-This is for the cookie law banner at the bottom of the Dune site. If you have accepted it this will no longer show.  
-  
-langCountry
+We may update or amend this Privacy Notice from time to time to comply with law or to meet our changing business requirements without notice to you. Any updates or amendments will be posted on this page.  
 
-| 
+  **Contact  **
 
-This is the currently set language, so the Dune site knows which language to render (with MotionPoint).  
-  
-MOBILESITEDune1
+If you have any questions about how we collect, store and use your information, or you wish us to action any of the requests detailed above, please contact us by emailing customerservice@dunelondon.com or contacting us at the address below: 
 
-| 
+  **Customer Service**
 
-This cookie lets Dune know if you are in mobile mode or not.   
-  
-BasketDetailsXXXDune1
+Dune Group Limited   
+6-11 Elms Depot   
+Cambridge Road   
+Leicestershire   
+LE8 6LG   
+United Kingdom   
+0333 240 7306 
 
-| 
+**How to complain  **
 
-This cookie is used for storing basket information for the mini basket data, such as the total amount and quantity of items in it.   
-  
-X-Akamai-FEO-Browser-State
-
-| 
-
-This cookie is used to indicate the current status of Akamai front-end performance optimizations in the browser. There is no personally identifiable information recorded in it.  
-  
-_dc_gtm_UA-6026178-1
-
-| 
-
-This cookie collects information in an anonymous form.  
-  
-_dc_gtm_UA-52336509-1
-
-| 
-
-This cookie collects information in an anonymous form.  
-  
-_gali
-
-| 
-
-This cookie is used to check how many unique visitors Dune has per page.  
-  
-_ga
-
-| 
-
-This cookie is used to distinguish users.  
-  
-blogsRead
-
-| 
-
-This cookie is used to test the value and impact of the blog.  
-  
-mt9_xxxx
-
-| 
-
-This cookie is placed when Dune tests various fucntions to improve the performance and effectiveness of the website.   
-  
-mmt5_signedup
-
-| 
-
-This cookie is being used in the T5_Email_sign-up for checking user login state and campaign generation. Campaign is being served to all traffic.  
-  
-mm-if-site-persist-ua-undefined
-
-| 
-
-This undefined cookie is being used for the 3rd party integration (Google Universal).  
-  
-mmcore.tst
-
-| 
-
-This cookie is used by the platform as a test to see whether or not browser settings allow cookies to be set on the end-user machine. Maxymiser provides multivariate testing on the Dune website. This permits Dune to improve the performance and effectiveness of the website.  
-  
-mmid
-
-| 
-
-Unique user ID. Maxymiser provides multivariate testing on the Dune website. This permits Dune to improve the performance and effectiveness of the website.  
-  
-mmcore.srv
-
-| 
-
-This cookie is used to identify Maxymiser's server. Maxymiser provides multivariate testing on the Dune website. This permits Dune to improve the performance and effectiveness of the website.  
-  
-mmcore.pd
-
-| 
-
-This cookie is used for user experience. Maxymiser provides multivariate testing on the Dune website. This permits Dune to improve the performance and effectiveness of the website.  
-  
-mm_pc
-
-| 
-
-This cookie is used for user attributes. Maxymiser provides multivariate testing on the Dune website. This permits Dune to improve the performance and effectiveness of the website.  
-  
-__zlcprivacy
-
-| 
-
-This cookies is used to store the user’s preference to disable Live Chat, and cease using cookies. The __zprivacy cookie is stored across visits.  
-  
-__zlcmid
-
-| 
-
-This cookie stores Zopim Live Chat ID to identify the device during visits.  
-  
-_mibhv
-
-| 
-
-This cookie is used for general purpose behavior tracking, outside of the context of any specific campaign.  
-  
-msc6223 | This cookie contains all first party cookies detailed [here](http://dc-storm.com/en-uk/cookie-use/list-of-cookies/)  
-_stpostcode | This cookie is being used to capture postcode and consent to marketing emails for the store locator.   
-_stconsent  | This cookie is being used to capture postcode and consent to marketing emails for the store locator.  
-  
-3.3 You may choose to refuse cookies but, if you do so, some of the functionality of this Website may no longer be available to you.
-
-3.4 For more information on how to see what cookies have been set and how to manage and delete them, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
-
-### **4\. How your information is used**
-
-4.1 By using this Website or purchasing any products through this Website, you agree that your personal information may be used by us, and by carefully selected third parties chosen by us, for any of the following purposes:
-
-  * to provide you with a personalised browsing experience when using this Website;
-
-  * to fulfil any contractual agreements between you and us (for example when you place an order for products through this Website);
-
-  * to send you details (including by post, phone, e-mail or SMS) of other products which we think may interest you, where you have consented to this and share your information with third parties for this purpose, unless you inform us that you do not want to receive these details;
-
-  * to comply with legal and regulatory requirements;
-
-  * to manage any account that you hold with us;
-
-  * to assess, operate and improve this Website and the services provided through it;
-
-  * to ensure that content from this Website is presented in the most effective manner for you and for your computer; and
-
-  * to notify you about changes to this Website or our service.
-
-
-
-
-4.2 In addition to the use of your personal information described above, we may also use your information to create anonymous data for market profiling purposes which may be used by us and shared with our group of companies or third parties.  
- 
-
-4.3 We will not share your information with third parties in order for that third party to provide direct marketing communications to you, unless it relates to a specific activity which we are undertaking with a third party (e.g. a competition) and you have provided your consent for such use. Such activity will have its own terms and conditions relating to the way in which your information may be used.
-
-### **5\. Disclosures of your information**
-
-5.1 We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.  
- 
-
-5.2 We may share your information with selected third parties including:
-
-  * business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you; and
-
-  * analytics and search engine providers that assist us in the improvement and optimisation of this Website.
-
-
-
-
-5.3 We may also disclose your personal information to third parties in the following events:
-
-  * if we were to sell or buy any business or assets, in which case we may disclose your personal information to the prospective seller or buyer of such business or assets;
-
-  * if Dune Group Limited or substantially all of its assets are acquired by a third party, in which case personal information held by us about our customers will be one of the transferred assets; and
-
-  * if we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our [Website Terms of Use](https://www.dunelondon.com/website-terms-of-use/) or [Terms and Conditions of Supply](https://www.dunelondon.com/dune-legal/) and other agreements; or to protect the rights, property, or safety of Dune Group Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
-
-
-
-
-### **6\. Where do we store your personal information**
-
-6.1 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (EEA) which may have lower standards of data protection. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.  
- 
-
-6.2 All information you provide to us is stored on our secure servers. All payments are provided through a trusted third party payment service provider. Please see their terms and conditions for further information on the way they treat your payment details.  
- 
-
-6.3 Where we have given you (or where you have chosen) a password which enables you to access certain parts of this Website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.  
- 
-
-6.4 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your data transmitted to this Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-### **7\. Your Privacy Rights**
-
-7.1 You have the right to contact us (see paragraph 10 below) in order to find out what information we hold about you (please note that a small fee may be payable) or to access or correct any information we hold about you.  
- 
-
-7.2 To unsubscribe from marketing emails at any time, please click on the unsubscribe link at the bottom of any marketing email and update your account preferences.  You may also contact us to inform us if you do not wish to receive any marketing materials from us.  
- 
-
-7.3 This Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal information to these websites.
-
-### **8\. Security**
-
-In accordance with applicable data protection law, we will adopt appropriate security procedures to help prevent unauthorised access to your information.
-
-### **9\. Children**
-
-Our website is not directed at children under the age of 13 ("Child" or "Children") and we do not knowingly collect personal information about Children. If you believe we have collected personal information about your Child, you may contact us at [customerservice@dunelondon.com](mailto:customerservice@dunelondon.com) and request that we remove information about your Child.
-
-### **10\. Changes to our Privacy Policy**
-
-We may update or amend this Privacy Policy from time to time to comply with law or to meet our changing business requirements without notice to you. Any updates or amendments will be posted on this page. By continuing to use this Website or buying any products from us, you agree to be bound by the terms of these updates and amendments.
-
-### **11\. Contact**
-
-If you have any questions about how we collect, store and use your information, please contact us by emailing [customerservice@dunelondon.com](mailto:customerservice@dunelondon.com) or contacting us at the address below:
-
-The Dune Group  
-9 Hatton Street  
-London  
-NW8 8PL
+You also have the right to complain to the Information Commissioner’s Office. Find out on their website how to **[report a concern](https://ico.org.uk/concerns/)**. 
