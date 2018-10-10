@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zalora.com.my privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608163025id_/https%3A//www.zalora.com.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalora.com.my privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010023245id_/https%3A//www.zalora.com.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,6 +76,10 @@ This information is collected for analysis and evaluation in order to help us im
 As part of the above, ZALORA may use Google Analytics features based on Display Advertising, including but not restricted to the following: Remarketing, Google Display Network Impression Reporting, DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting. Using the Google Ads Settings (https://www.google.com/settings/ads), you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
 
 ZALORA also uses Remarketing with Google Analytics to advertise online; third-party vendors, including Google, may show ZALORA ads on sites across the Internet. ZALORA and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on visitors’ past visits to ZALORA, as well as report how ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to ZALORA.
+
+**Sociomantic**
+
+Zalora uses Sociomantic's services, and Sociomantic's tags are implemented on Zalora's sites to collect anonymous information about you. You may find out more about the information collected by Sociomantic, how it is used, and how you can opt out at https://www.sociomantic.com/privacy/en/
 
 **Changes to the Privacy Policy**
 
