@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the data-flair.training privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920133044id_/http%3A//data-flair.training/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data-flair.training privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010111759id_/https%3A//data-flair.training/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Overview | DataFlair
+# Privacy Policy Overview |
 
 User privacy is very important for Data-flair.training and takes it seriously and is committed to protect your privacy as a user of our website. We have made all possible efforts to ensure your information is secure. All information collected, what we do with it, and what you can do about it is covered in this privacy policy. You can use this information to decide about your privacy.
 
