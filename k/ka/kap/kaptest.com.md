@@ -1,47 +1,51 @@
-> *The following text is extracted and transformed from the kaptest.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602185001id_/http%3A//www.kaptest.com/privacy_statement.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaptest.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010104024id_/https%3A//www.kaptest.com/privacy-policy) for the most accurate reproduction.*
 
-# KAPLAN - Privacy Statement
+# Privacy Policy | Kaplan Test Prep
 
-**Our Commitment to Your Privacy**
+This privacy policy explains how Kaplan, Inc. (“Kaplan”) uses, shares and protects personal information that we collect , including on kaptest.com, kaplanprepandachieve.com, pmbr.com including their respective subdomains (“Site(s)”).  By visiting one of our Sites or purchasing, enrolling in or using our products, services and events ("Programs"), you agree to this Privacy Policy, as it may be amended from time to time.   This Privacy Policy is incorporated into the [Terms and Conditions](https://web.archive.org/terms-and-conditions).
 
-**Part I: Introduction**  
-KAPTEST.com is firmly committed to protecting your privacy. In the interest of disclosure, this document outlines our practices for the gathering and dissemination of information.
+ **EU Residents** : The Site is primarily intended for U.S. residents.  If you are a resident of the European Union (“EU”) and wish to learn about and/or purchase Programs, please visit the sites of our affiliated company at kaptest.co.uk or kaptestglobal.com.  If, however, you are a resident of the EU and you purchase a Program on the Site, from Kaplan, Inc. or you are otherwise subject to the [US Terms](https://web.archive.org/terms-and-conditions), then you have additional privacy rights, which are explained [here](https://web.archive.org/privacy-policy-addendum).  These rights are additional to those described in this [Privacy Policy](https://web.archive.org/privacy-policy).  
 
-KAPTEST.com uses IP addresses to help diagnose problems with our server, administer the Web site, and gather broad demographic data. The registration forms on this site require contact information (name, e-mail, etc.) and unique identifiers (enrollment I.D., password, etc.). We use this information to verify customer identity and enrollment status, protect customer information, send promotional and informational materials about Kaplan and some of our partners, establish account numbers for record-keeping, and contact customers when necessary. Users always have the opportunity to opt out of receiving future mailings.
+ **Information We Collect** :  Personal Data is any information about an individual from which that individual can be identified.  Your name, address, phone number and bank account number are examples of personal data. It does not include data where the identity has been removed (anonymous data). We collect Personal Data from you in various ways, including when you visit the Site(s), create an account with us, purchase, enroll in and use our Programs, use our Apps, answer surveys, participate in our social media communities, such as on Facebook, and when you send us feedback.  
 
-**Part II: Data Collection**  
-**Section A: Forms**  
-This site uses registration forms, order forms, and other types of forms. They are used to enable customers to register for premium services, order products and services, or request information. The forms collect contact information and, when a purchase is involved, financial information (e.g., credit card numbers). This information is used to process orders, ship products, send promotional materials from Kaplan and possibly other companies, and contact customers when necessary. This information may be shared with other companies. Financial information is used to bill and charge customers for products and services only.
+When you log-on to our websites or to our App(s), we automatically receive information from your device, including your IP address and location. We and our service providers may use “cookies” to keep, and sometimes track, information about you, and to create a personalized web experience. Cookies are small data files that are stored on your device’s web browser. Cookies track where you travel on our Site and what you look at and purchase. You agree to the use of cookies in this way. Most web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie.  We and our service providers may also use so-called "pixel tags", "web beacons", "clear GIFs" or similar means (collectively, "Pixel Tags") in connection with some Site pages and HTML-formatted email messages to, among other things, compile aggregate statistics about Site usage and response rates. A pixel tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with cookies on the visitors’ hard drives. Pixel Tags allow us to count users who have visited certain pages of the Site, to deliver branded services, and to target our promotional or advertising campaigns and determine their effectiveness.
 
-**Section B: Contests, Sweepstakes & Promotions**  
-Any contests, sweepstakes and promotions on KAPTEST.com may require customers to enter contact information. Collected data is used to process entries, send promotional materials, notify entrants, and may be shared with other companies. Please be sure to consult the privacy provisions of the official rules of any contest or sweepstakes you enter on kaptest.com as specific data collection and usage practices may vary by contest or sweepstakes. Unless the official rules or entry instructions provide otherwise, contest or sweepstakes participants may opt-out of receiving future mailings or having their information shared with other companies by calling Customer Service at 1-888-527-4357 at any time.
+If your parent, school, employer or other third party purchases Programs on your behalf, or if an agent refers you to Kaplan, such third parties may provide us with Personal Data about you, including your first name, last name and email address.  We may also collect Personal Data about you from our business partners and other Kaplan owned companies. 
 
-**Section C: Ads & Links**  
-KAPTEST.com uses an outside advertising company to display advertisements on this site. These ads may contain cookies. Although said advertisements may appear to be generated from KAPTEST.com, they are actually being generated by our partners and are served on KAPTEST.com. KAPTEST.com does not use cookies, nor has access to any information garnered from the use of cookies that you may receive while visiting this site. Some customer data is shared with the various advertising companies.
+**Use of Your Personal Data** : We may use your Personal Data in the following ways:
 
-This site also contains links to other Web sites. Kaplan, Inc. is not responsible for the privacy practices or the content of said sites.
+  *  **For the purpose you provided personal data, for example to enroll you in one of our Programs or respond to a specific inquiry;**
+  * To customize and personalize your learning experience to you;
+  * To administer, support, improve and develop our business; 
+  * To send you information about Kaplan and Manhattan Prep products or services;
+  * To send you information about select third party's products or services that may be of interest to you;
+  * To allow you access to the Site to post your content or communicate with others; and
+  * And as otherwise described to you at the point of collection.
 
-**Part III: Security**  
-**Section A: Security Measures**  
-KAPTEST.com has stringent security measures in place to protect the loss, misuse, and alteration of the information under its control.
 
-**Section B: Public Forums**  
-KAPTEST.com makes chat rooms, forums, message boards, and/or newsgroups available to registered users who have purchased certain products and services. Any information disclosed in these areas becomes public information. Users should exercise caution when disclosing personal information.
 
-**Part IV: Status Changes**  
-KAPTEST.com provides users the opportunity to opt-out of receiving communications from our partners. Partners are obligated to provide the user with instructions on how to unsubscribe from mailings the user may receive. Users have the following options for removing their information from the KAPTEST.com database and discontinuing the receipt of future communications or services:
+ **Mobile Devices, Phone Calls and SMS** :  If you provide Kaplan with a telephone number, such as when you purchase, enroll in or use a Kaplan Program, you agree that Kaplan may contact you by telephone and/or text message utilizing automated technology at such telephone number(s).  You understand that this consent is not required to purchase goods or services from Kaplan.
 
-**Section A: Opt-Out from Kaplan List**  
-To remove your name from our mailing list, please send a "Do Not Mail" e-mail to [test_prep@kaplan.com](mailto:test_prep@kaplan.com). Include your full name, address, city, state, zip code and phone number.
+ **Disclosure of Your Personal Data** :  We do not share your Personal Data with third parties for their marketing purposes, though we may share your Personal Data with other Kaplan companies, including Manhattan Prep.  We may disclose your Personal Data in response to legal process, to protect our rights, as otherwise required by law, or for the prevention or detection of a crime. We may share your Personal Data with trusted third parties who are delivering services to Kaplan, including those who help deliver our Programs, help us process transactions, such as charging your credit card when you make purchases, and otherwise help us operate our business. These third parties are not authorized by us to use your Personal Data except in connection with providing services to us.  Kaplan may disclose anonymous data to third parties. We may also share your information with third parties that you have specifically designated as authorized to receive information from us. 
 
-**Section B: Opt-Out from Third-Party Lists**  
-Kaplan occasionally makes the lists of postal addresses volunteered on our web site available to carefully screened companies that offer products and services we believe you may enjoy (we do not exchange e-mail addresses). To remove your name from third-party lists, please call 1-888-527-4357.
+If payment for your Program was made by a third party, Kaplan may provide that third party with access to your Personal Data and other data.  For example, if Kaplan provides You access to a Program in your capacity as a student of a school that has contracted with Kaplan, Kaplan may share your activity, performance and other data with your school, even if you paid for the Program in whole or in part yourself.   If you purchased Kaplan’s Nursing Admissions Test for application to a specific nursing school, your name and scores will be sent to that nursing school..
 
-**Part V: Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site, contact:
+If we sell our company or part of it, or our business enters into a joint venture with another business entity, we may disclose your Personal Data to our new business partners or owners who may then provide you with information about their products and services. 
 
-KAPTEST.com  
-Kaplan, Inc.  
-888 Seventh Avenue  
-New York, NY 10106  
-[webmasters@kaplan.com](mailto:webmasters@kaplan.com)
+**Your Ability to Choose** :  If you do not wish to continue receiving emails from us, you may unsubscribe by clicking on the unsubscribe link in our emails and following directions.  If you do not wish to continue receiving SMS messages from us, text “STOP” to KAPTST (527878).  You may also direct us to stop marketing to you by emailing us at [ktp.dataprivacy@kaplan.com](mailto:ktp.dataprivacy@kaplan.com).
+
+ **Transfer of Data Outside of Your Home Country** : Your Personal Data will be held in the United States. Your Personal Data may also be stored, processed and accessed in other countries where Kaplan has facilities or where you are located. You consent to the transfer of your Personal Data outside your country, including to the United States.
+
+ **Security and Information Retention** : We employ security measures to protect your information both online and offline from access by unauthorized persons and against unlawful processing, accidental loss, destruction and damage. The Personal Data we obtain from students allows Kaplan to deliver smarter, more efficient and more effective instruction.
+
+ **Third Party Websites** :  Some of the products and services advertised on the Site(s) are sold and delivered by third parties (“Third Party Sellers”).  The Site(s) may also provide links to third party websites. This Privacy Policy governs collection and use of Personal Data by Kaplan.  This Privacy Policy does not apply to Third Party Sellers or to third party websites and Kaplan makes no representation about their data practices or policies.  
+
+ **Changes to this Privacy Policy** :  We will update this Privacy Policy from time to time. When we post changes to this Privacy Policy, we will revise the “Effective Date” at the bottom of this Privacy Policy. We recommend that you check our Site(s) from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
+
+ **Contact** : All comments, queries and requests relating to this Privacy Policy are welcomed and should be addressed as follows:
+
+By mail: Kaplan Inc. 750 Third Avenue, 7th Floor, New York, NY 10017
+
+By email: ktplegaldept@kaplan.com
+
+Rev. June 2018
