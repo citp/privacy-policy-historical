@@ -1,98 +1,148 @@
-> *The following text is extracted and transformed from the free-online-calculator-use.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129131521id_/https%3A//www.free-online-calculator-use.com/info-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-online-calculator-use.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010181601id_/https%3A//www.free-online-calculator-use.com/info-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-It is important that you read Free-Online-Calculator-Use.com's Privacy Policy information, before using this web site. 
+At free-online-calculator-use.com we are dedicated to protecting your data and privacy.
 
-We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use www.free-online-calculator-use.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. 
+We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use free-online-calculator-use.com, as well as some of the steps we take to safeguard information. This will help you make an informed decision about sharing personal information with us.
 
-www.free-online-calculator-use.com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website. 
+free-online-calculator-use.com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers' and online visitors' privacy on our website.
 
-#### Personal Information
+### About Our Cookies
 
-www.free-online-calculator-use.com collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number. 
+A cookie is a string of information that free-online-calculator-use.com stores on your computer, which your browser provides to free-online-calculator-use.com each time you return to the site. We use cookies to help us identify and track visitors, their use of our website, and their website access preferences.
 
-This information is collected if you request information from us, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor inquiries. 
+#### Google Analytics Cookies
 
-Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties. 
+free-online-calculator-use.com uses Google Analytics to analyze the use of this website. Google Analytics collects demographic and interest data, and generates statistical and other information about website use, by means of cookies. These cookies are kept on your computer. We share this information with Google, which will store and use this information on its servers. Google's privacy policy is available at: <https://policies.google.com/privacy>
 
-#### Web Searching from this Site
+free-online-calculator-use.com uses information from Google Analytics to track the number of visits to the website, browsers and operating systems. No personally identifiable information is obtained from these cookies. We use the information that Google Analytics generates relating to our website to create reports about the use of the site. These reports allow us to update the site and improve your usage of it.
 
-The search box on this web site ("Search Box") is powered by Google Inc ("Google"). You acknowledge and agree that Google's privacy policy (located at <http://www.google.com/privacy.html>) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy. 
+If you do not wish your data to be collected via Google Analytics, you can install its opt-out browser extension or add-on... <https://tools.google.com/dlpage/gaoptout/>
 
-#### Use of Cookies and Web Beacons
+#### Advertising Cookies
 
-We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables www.free-online-calculator-use.com to recall your specific information on subsequent visits. 
+We use third-party advertising companies Google AdSense, Media.net, and Ezoic.com to serve ads on our website. These companies use cookies and web beacons in their ads to ascertain how many times you've seen an advertisement. We share this information with these companies, but do not provide them with any personally identifiable information for cookie or web beacon use, so they cannot personally identify you with that information from our website.
 
-You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site. 
+You may opt out of personalized ads for over 125 different ad networks. [Click here to do that.](http://www.aboutads.info/choices/)
 
-A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site. 
+##### Google.com Privacy Policy
 
-We may serve third party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site. 
+Some third-party advertisements are served by Google. Google's cookie enables it to serve ads to our visitors based on their visits to other sites on the Web. You may opt out of personalized ads by visiting the [Google advertising privacy policy](https://adssettings.google.com/authenticated).
 
-Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose. 
+[This link from Google provides more information about how Google manages data in its ad products.](https://policies.google.com/technologies/partner-sites)
 
-#### Children's Online Privacy Protection Act
+##### Media.net Privacy Policy
 
-This website is directed to adults; it is not directed to children under the age of 13. We operate our site in compliance with the Children's Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age. 
+Some third-party ads are served by Media.net. Please visit the [Media.net Privacy Policy](https://www.media.net/en/privacy-policy) for an explanation of the kinds of information they collect about consumers on free-online-calculator-use.com and how they use and share that information.
 
-#### Non-Personal Information
+##### Ezoic.com Privacy Policy
 
-In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes. 
+free-online-calculator-use.com ("Website") uses a third party technology, called Ezoic, to display ads on our web pages. To read and/or change your ad-related privacy consent settings, please visit the [Ezoic.com Privacy Policy](https://g.ezoic.net/privacy/free-online-calculator-use.com) that's been generated for free-online-calculator-use.com.
 
-#### Release of Information
+#### Google Search Cookies
 
-If www.free-online-calculator-use.com is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us. 
+The Google Search Box on free-online-calculator-use.com is powered by Google Inc. By using the Google Search Box you acknowledge and agree that Google's Privacy Policy shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its Privacy Policy at: [Google Privacy Policy](https://policies.google.com/privacy).
 
-#### How You Can Correct or Remove Information
+### Affiliate Products and Services
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please click on this link and/or use our Contact Us page. 
+We receive an affiliate commission for some of the [products/services] sold on free-online-calculator-use.com.
 
-#### Updates and Effective Date
+The affiliate services platforms we use are Amazon, ShareASale, ClickBank, Commission Junction, SiteSell, and Mathway.
 
-www.free-online-calculator-use.com reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+By clicking on a product or service link, you consent to that platform's use of cookies, as outlined in the link below.
 
-#### Address
+  * [Amazon privacy policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496)
+  * [ShareASale privacy policy](https://www.shareasale.com/PrivacyPolicy.pdf)
+  * [ClickBank privacy policy](https://support.clickbank.com/hc/en-us/articles/115015510108-Privacy-Policies)
+  * [Commission Junction privacy policy](https://www.conversantmedia.com/legal/privacy)
+  * [Mathway privacy policy](https://www.mathway.com/privacy)
 
-Your Internet Protocol ("IP") address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We may use your IP address to help diagnose problems with our server, gather broad demographic information, and administer our website. 
 
-#### Kids and Parents
 
-Although there is not - nor ever will be - anything intentionally offensive on my website, it is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases or asking questions on this site. 
+### Refusing Cookies
 
-If your children disclose information about themselves in publicly accessible areas of the Website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. If you're worried about your children's activities or their privacy on our site, we encourage you to e-mail our Privacy Policy Coordinator thru our "Contact Me" page.If you have other concerns or questions about any aspect of this policy, you may also e-mail me at my "Contact Me" section of the website. I welcome your questions and feedback. 
+You can set your browser to accept or refuse all cookies automatically, or notify you when a cookie is being requested. Taking this action should not cause a problem with the continued use of our site. Consult the Help section of your browser for guidance on how to refuse all cookies or to notify you when a cookie is requested.
 
-#### Additional Note: Google Adsense
+If you choose to refuse free-online-calculator-use.com's cookies, you may not be able to fully experience the interactive features of the site.
 
-If you elect to click on an ad generated by Google AdSense, make note of their policies as follows: 
+### Personally Identifiable Information
 
-[Google Advertising Cookie and Privacy Policies](https://www.google.com/policies/technologies/ads/)
+free-online-calculator-use.com may collect and use your personal information for the following purposes:
 
-#### What is the DoubleClick cookie?
+  * To run and operate our site.
+  * To display content on the site correctly.
+  * To improve customer service.
+  * To help us respond to your customer service requests and support needs more efficiently.
+  * To personalize your user experience.
+  * To understand how our users as a group use the services and resources provided on our site.
+  * To improve our site.
+  * To improve our products and services.
+  * To run a promotion, contest, survey or other site feature.
+  * To send information to you that you agreed to receive about topics we think will be of interest to you.
+  * To send periodic emails, which may include electronic newsletters and/or autoresponder series of emails.
+  * To respond to your enquiries, questions, and/or other requests.
 
-The DoubleClick cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Google and the DoubleClick cookie: 
 
-* Google, as a third party vendor, uses cookies to serve ads on your site.  
-* Google's use of the DoubleClick cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-* Users may opt out of the use of the DoubleClick cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
-Because publisher sites and laws across countries vary, we're unable to suggest specific privacy policy language. However, you may wish to review resources such as the Network Advertising Initiative, or NAI, which suggests the following language for data collection of non-personally identifying information: 
+free-online-calculator-use.com may collect personally identifiable information from you in a variety of ways, including, but not limited to, when you visit our site, register on the site, or fill out a form, and in connection with other activities, services, features or resources we make available on our site.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
+Specifically, if you subscribe to our newsletter, we will ask for your first name and will require your email address.
 
-You can find additional information in Appendix A of the NAI Self-Regulatory principles for publishers (PDF). Please note that the NAI may change this sample language at any time. 
+If you complete a form, we will require your name and your email address, and will ask for information relevant to the purpose of the form.
 
-#### Agreeing to Terms
+This site lets you share content with your friends and followers on various social media platforms. Below are links to the privacy policies of those platforms:
 
-If you do not agree to free-online-calculator-use.com Privacy Policy as posted here on this website, please do not use this site or any services offered by this site. 
+  * [Facebook Privacy Policy](https://www.facebook.com/policy.php)
+  * [Google Plus Privacy Policy](https://policies.google.com/privacy)
+  * [LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy)
+  * [Pinterest Privacy Policy](https://policy.pinterest.com/en/privacy-policy)
+  * [Twitter Privacy Policy](https://twitter.com/en/privacy)
 
-**Your use of this site indicates acceptance of this privacy policy.**
 
-[ Home](http://www.free-online-calculator-use.com/index.html) > Privacy Policy 
 
-+1 Free-Online-Calculator-Use.com   
----  
-+1  |  Page  |  Site   
-|  |   
-  
-[](http://www.copyscape.com/plagiarism-detection/)
+If you subscribe to our Ad-Free member version, we will collect your name and email address, but your billing address and credit card number will be collected by either PayPal.com or Stripe.com.
+
+You can always refuse to supply personally identifiable information and visit our site anonymously. However, it may prevent you from engaging in certain site-related activities.
+
+If we make material changes in the collection of personally identifiable information, we will inform you by placing a notice on our site. We will use personal information received from you for internal purposes only and will not sell it or provide it to third parties.
+
+We also collect each visitor's IP address, which helps us combat spam and fraud. We do not use IP addresses for any other purpose.
+
+free-online-calculator-use.com contains links to other websites that may be of interest to you. However, once you have used them to leave our site, we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information you provide while visiting such sites. These sites are not governed by this privacy statement. Always exercise caution by reviewing the privacy statement of the website in question before continuing to use it.
+
+### Non-personally Identifiable Information
+
+We may collect non-personally identifiable information about you whenever you interact with our site. Non-personally identifiable information may include the browser name, the type of computer and technical information about your method of connecting to our site, such as the operating system and the Internet service provider you used, and other similar information.
+
+### Children's Privacy Protection
+
+This website is directed to adults. It is not directed to children under the age of 16. We operate our site in compliance with current regulations. Anyone under the age of 16 must provide parental consent to use this site. We do not knowingly collect or use personally identifiable information from anyone under 16 years of age.
+
+### Release of Information
+
+If we sell free-online-calculator-use.com, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale so that the service provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make.
+
+### Data Storage
+
+Personally identifiable information and non-personally identifiable information collected by this site is stored on our host's servers. That host is SiteSell Inc., located at 1000 Saint-Jean Boulevard, Suite 702, Pointe-Claire, QC H9R 5P1 Canada.
+
+Some information is collected by MailChimp. MailChimp is a marketing automation service provided by the Rocket Science Group. For information on how and why Mailchimp processes your personal information, please visit the [Mailchimp Privacy Policy](https://mailchimp.com/legal/privacy/) and review the information within the _Privacy for Contacts_ section.
+
+### How You Can Correct or Remove Information
+
+We provide this privacy policy as a statement to you of our commitment to protect your personally identifiable information. If you have submitted personally identifiable information through our website and would like to download and review that information, [click on this link](https://www.free-online-calculator-use.com/gdpr-review.html).
+
+You can also request to edit or delete any of your information from the servers by [clicking on this link](https://www.free-online-calculator-use.com/gdpr-request.html).
+
+### Updates and Effective Date
+
+free-online-calculator-use.com reserves the right to make changes in this policy. If there is a material change in our cookie and privacy practices, we will indicate on our site that those practices have changed and provide a link to the updated privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
+
+### Agreeing to Terms
+
+If you do not agree to free-online-calculator-use.com's privacy policy as posted here on this website, please do not consent to the setting of cookies and the collection and storage of your personally identifiable information.
+
+Your explicit consent indicates acceptance of this privacy policy in its entirety.
+
+Last updated: June 1, 2018
