@@ -1,126 +1,175 @@
-> *The following text is extracted and transformed from the hgst.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229080223id_/http%3A//hgst.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hgst.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010045905id_/http%3A//www.hgst.com/privacy) for the most accurate reproduction.*
 
-# Privacy | HGST
+# Privacy Statement | HGST
 
-## HGST Online Privacy Policy
+**Last Modified:** May 1, 2018
 
-This Privacy Policy sets out how HGST, Inc. and its affiliates and divisions (collectively “HGST”, "we". "us", "ours") collect and process information about you when you visit our websites, including [hgst.com](http://www.hgst.com/ "HGST.com") ("Websites"), including what type of information we collect and track, how we use it, and with whom we share it. 
+This Privacy Statement explains how Western Digital ("Western Digital," "we," "us," or "our") collects, uses, and discloses your information. The Privacy Statement applies to all services and products, except those products that have a separate Privacy Statement.
 
-Your privacy is important to us. By using our Websites you acknowledge that you have read and understood this Privacy Policy and agree to the processing of your personal information by HGST as set out in this Privacy Policy. We will only process your personal information as set out in this Privacy Policy. 
+Where applicable, you consent to the use of your information as described in this Privacy Statement each time you use our products or services, so we urge you to read this document in full, and [Contact Us](https://support.wdc.com/contact.aspx?lang=en) if you have any questions.
 
-**Information about how we use cookies are related technologies is set out in our Cookie Policy. To find out how we use cookies and related technologies, including your rights to accept or refuse cookies, please[click here](http://www.hgst.com/cookies "HGST Cookie Policy").**
+**Quick Links**  
+Click on the links below to go to a specific section of this Privacy Statement.
 
-###  What Personal Information We Collect and How We Use It
-
-In general, you can visit our Websites without telling us who you are and without giving us any personal information. There are times, however, when we or our partners may need information from you, for instance in order to perform a transaction. In particular, we may collect and process the following information (including Personal Information) about you:
-
-  * **Information you give us.** You may give us information about you by filling in forms on HGST Websites or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our Websites, subscribe to our services, download white papers and case studies, sign up to webinars, contribute to our chat rooms or forums, apply for jobs, purchase or use our products and/or services, sign up for programs, and when you report a problem with our Websites. The information you give us may include your name, address, e-mail address, phone number, financial and credit card information, resume or curriculum vitae.
-
-
-  * **We use the information you give to us:**  
-
-    * to provide you with the products and services you requested, including support services;
-    * to provide you with information about product and services that we feel may interest you:
-    * to contact you as part of our customer satisfaction surveys or for market research purposes;
-    * to notify you about changes to our services; and 
-    * for recruitment purposes, if you have applied for a job with us.
+Collection and Use of Personal Information   
+Cookies and Similar Technologies   
+Disclosure of Personal Information   
+Your Rights   
+Closing Accounts   
+Third-Party Websites and Services   
+Information Security, Integrity, and Retention   
+Children   
+Information Transfers, Storage, and Processing Globally   
+Changes to This Privacy Statement   
+Contact Us   
 
 
-  * **Information we collect automatically.** When you visit our Websites, we may automatically collect the following information: technical information, including your IP address, log-in information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform, information about your visit including the URL clickstream to, through and from our Websites (such as scrolling, clicks and mouse overs), products you viewed or searched for, download errors, length of visits to certain pages and page interaction. We collect information automatically through the use of various technologies, including through "cookies", and this is explained further below.
+* * *
+
+###  Collection and Use of Personal Information 
+
+Personal information is information that can be used to directly or indirectly identify you. Personal information also includes anonymous information that is linked to information that can be used to directly or indirectly identify you. Personal information does not include information that has been irreversibly anonymized or aggregated so that it can no longer enable us, whether in combination with other information or otherwise, to identify you.
+
+Here is a description of the types of personal information we may collect and how we may use it:
+
+_What Personal Information We Collect_
+
+Depending on the products and services you use, we collect different kinds of personal information from or about you.
+
+  * **Information you provide** : We collect the personal information you provide—such as your name, username, or email address—when you use our products and services, create an account, [Contact Us](https://support.wdc.com/contact.aspx?lang=en), participate in an online survey, participate in community discussions or chat rooms, apply for employment, interact with us at in-person events, or otherwise interact with us.
+  
+
+  *  **Information about payments** : If you make a purchase, we collect personal information in connection with the purchase. This information includes payment information, such as your credit or debit card number and other card information; other account and authentication information; and billing, shipping, and contact details.
+  
+
+  *  **Information about use of our services and products** : When you visit our websites or cloud environment, we may collect information about the type of device you use, your device’s unique identifier, the IP address of your device, your operating system, the type of Internet browser that you use, usage information, diagnostic information, browsing information, session summary information, file attributes (including attributes for photos, videos, music, and documents), and location information from or about the computers, phones, or other devices on which you install or access our products or services. We may gather some of this information automatically. Where available, our services may use GPS, your IP address, and other technologies to determine a device’s approximate location to allow us to improve our products and services.
+  
+
+  *  **Information from third parties** : We may collect information from third parties, including business partners and marketing agencies. This includes your contact information from marketing partners when we engage in joint marketing or co-branding activities, your IP address or location information from service providers to offer certain products and services relevant to your location, and data from your social networks to authenticate your product use with us, or that you grant permission to our products or services to access.
+  
 
 
-  * We use the information we collect automatically:  
 
-    * to administer our Websites for internal operations including troubleshooting, data analysis, testing, research, statistical and survey purposes;
-    * to ensure that content from our Websites is presented in the most effective manner for you and your devices;
-    * to allow you to participate in interactive features of our services; as part of our effort to keep our Websites safe and secure;
-    * to make suggestions and recommendations to you and other users of our Websites about goods and services that may interest you or them; and
-    * to measure the effectiveness of advertising we and others serve to you and to deliver relevant advertising to you. 
+ _How We Use Your Personal Information_
+
+Generally speaking, we use personal information to provide, improve, and develop our products and services, to communicate with you, to offer you targeted advertisements and services, and to protect us and our users.
+
+Western Digital Technologies, Inc. collects, processes, and determines how to process your personal information as data controller for the following purposes:
+
+  * **Providing, improving, and developing our products and services** : We use personal information to help us provide, improve, and develop our products, services, and advertising. This includes using personal information for purposes such as data analysis, research, and audits. Such processing is based on our legitimate interest in offering you products and services and for business continuity. If you enter a sweepstakes, contest, or other promotion, we may use the personal information you provide to administer those programs. Some of these activities have additional rules, which may contain further information about how we use personal information, so we encourage you to read those rules carefully before participating.
+  
+
+  *  **Communicating with you** : Subject to your prior express consent, we may use personal information to send you marketing communications in relation to Western Digital’s own products and services; communicate with you about your account, transactions, or employment requests; and inform you about our policies and terms. Also subject to your prior express consent, we may share your personal information with third-party partners who may send you marketing communications in relation to their products and services. If you no longer wish to receive email communications for marketing purposes, please [Contact Us](https://support.wdc.com/contact.aspx?lang=en) to opt out. We may use your information to process and respond to your requests when you contact us.
+  
+
+  *  **Offering and measuring targeted advertisements and services** : Subject to your prior express consent, we may use personal information to personalize your experience with our products and services, on third-party websites and applications, and to determine the effectiveness of our promotional campaigns.
+  
 
 
-  * **Information we receive from other sources.** We may receive information about you from third parties we work with such as business partners, sub-contractors in technical payment and delivery services, advertising networks, analytics providers and search information providers.
+
+For any of the uses of your data described above that require your prior express consent, note that you may withdraw your consent by [Contacting Us](https://support.wdc.com/contact.aspx?lang=en).
+
+  * **Promoting safety and security** : We use personal information to help verify accounts and user activity, as well as to promote safety and security, such as by monitoring fraud and investigating suspicious or potentially illegal activity or violations of our terms or policies. Such processing is based on our legitimate interest in helping ensure the safety of our products and services.
 
 
-  * We use the information that we receive about you from other sources for the same purposes as the information you provide to us and the information that we collect automatically, and in addition in order to help us maintain the accuracy of the information we collect.
+
+As a global company, Western Digital Corporation has a number of corporate affiliates in different jurisdictions. Each of these affiliates collects, processes and determines how to process your personal information as a data controller to help provide you the products and services you request.
+
+###  Cookies and Similar Technologies 
+
+We use cookies and similar technologies to provide, protect, and improve our products and services, such as by personalizing content, offering and measuring advertisements, understanding user behavior, and providing a safer experience.
+
+You can remove or reject cookies using your browser or device settings, but in some cases doing so may affect your ability to use our products and services.
+
+Please read our [Cookie Statement](https://web.archive.org/cookies) to learn more about how we use cookies and the choices you have.
+
+###  Disclosure of Personal Information 
+
+We make certain personal information available to strategic partners that work with us to provide our products and services or help us market to customers. Personal information will only be shared by us with these companies in order to provide or improve our products, services, and advertising; it will not be shared with third parties for their own marketing purposes without your prior express consent. 
+
+_Service Providers_
+
+We share personal information with companies that provide services on our behalf, such as website hosting; email services; marketing; sponsoring of sweepstakes, contests, and other promotions; auditing; payment processing; fulfilling customer orders; data analytics; providing customer support; conducting customer research and satisfaction surveys; and other services that assist in selling our products and services. These companies are obligated to protect your information and may be located wherever we operate.
+
+_Corporate Affiliates and Corporate Business Transactions_
+
+We may share personal information with all Western Digital Corporation-affiliated companies. In the event of a merger, reorganization, acquisition, joint venture, assignment, spin-off, transfer, or sale or disposition of all or any portion of our business, including in connection with any bankruptcy or similar proceedings, we may transfer any and all personal information to the relevant third party.
+
+_Legal Compliance and Security_
+
+It may be necessary—by law or as a result of legal process, litigation, or requests from public or governmental authorities within or outside your country of residence—for us to disclose personal information. We may also disclose personal information if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.
+
+We may also disclose personal information if we determine in good faith that disclosure is reasonably necessary to protect our rights and pursue available remedies, enforce our terms and conditions, investigate fraud, or protect our operations or users.
+
+###  Your Rights 
+
+We take reasonable steps to ensure that your personal information is accurate, complete, and up-to-date. Depending on where you live, you may have the rights described below.
+
+You have the right to access, correct, or delete the personal information that we collect. You are also entitled to object to or restrict, at any time, the further processing of your personal information. You have the right to receive your personal information in a structured and standard format. You may lodge a complaint with the competent data protection authority regarding the processing of your personal information.
+
+To protect the privacy and the security of your personal information, we may request information from you to enable us to confirm your identity and right to access such information, as well as to search for and provide you with the personal information we maintain. There are instances where applicable laws or regulatory requirements allow or require us to refuse to provide or delete some or all of the personal information that we maintain.
+
+You may [Contact Us](https://support.wdc.com/contact.aspx?lang=en) to exercise your rights. We will respond to your request in a reasonable timeframe, and in any event in less than 30 days.
+
+_California Privacy Rights_
+
+If you are a California resident, California law permits you to request information regarding the disclosure of your personal information to third parties for the third parties’ direct marketing purposes. To make such a request, please [Contact Us](https://support.wdc.com/contact.aspx?lang=en) and include "California Privacy Rights Request" in the first line of the request.
+
+###  Closing Accounts 
+
+Please [Contact Us](https://support.wdc.com/contact.aspx?lang=en) to close your account in relation to the following uses of your personal information:
+
+  * providing, improving, and developing our products and services;
+  
+
+  * communicating with you; 
+  
+
+  * sharing your personal information with third-party partners for marketing communications;
+  
+
+  * offering and measuring targeted advertisements and services;
+  
+
+  * promoting safety and security; or
+  
+
+  * providing products and services (for such requests, Western Digital Technologies, Inc. will act on behalf of its local affiliates).
+  
 
 
 
-If you give us personal information about somebody else, such as a spouse or work colleague, we will assume that you have their permission to do so. You are responsible for obtaining this permission from other people whose personal information you provide to us.
+If you close your account, we have no obligation to retain your information, and we may delete any or all of your information without liability. We may retain, however, information related to you if we believe it may be necessary to prevent fraud or future abuse, if required by law, or for legitimate purposes, such as analysis of non-personal information, account recovery, auditing our records, or enforcing our rights and obligations under our agreements.
 
-### How we Share and Disclose Your Personal Information
+###  Third-Party Websites and Services 
 
-We may share your personal information with others, to fulfill your requests and orders, for instance with other parts of HGST, our order fulfillment reseller, business partners, financial institutions, shipping companies, and postal or government authorities (for example, Customs authorities) involved in fulfillment. 
+Our products and services, including our websites and digital media properties, may contain links to or the ability for you to access third-party websites, products, and services. We are not responsible for the privacy practices employed by those third parties, nor are we responsible for the information or content their products and services contain. This Privacy Statement applies solely to information collected by us. We encourage you to read the privacy policies of any third parties before proceeding to use their websites, products, or services.
 
-We may also share your personal information with advertising networks that require this information to select and serve relevant adverts to you, as well as with analytics and search engine providers who assist us in the improvement of our Websites. 
+###  Information Security, Integrity, and Retention 
 
-In some cases we use suppliers to collect, use, analyze and otherwise process information (including personal information) on our behalf. We require suppliers with whom we share personal information to handle it in a manner consistent with our policies, and we take steps to ensure that our suppliers preserve the security and confidentiality of personal information that they collect and process on our behalf.
+It is important that you take precautions to protect against unauthorized access to your Western Digital products, account credentials, and computers or other devices. If you feel that the security of your account or personal information has been compromised, please immediately [Contact Us](https://support.wdc.com/contact.aspx?lang=en). Please be aware that, despite our efforts, no security system is impenetrable. In the event of a security breach, we will promptly notify you and the proper authorities if required by law.
 
-We may use the information that you provide us in connection with a job application or enquiry throughout HGST and its related entities for the purpose of considering your enquiry and application for employment related purposes. Except where you tell us not to, we will keep your personal information for possible future consideration.
+We will retain your personal information for as long as it is necessary to fulfill the purposes outlined in this Privacy Statement, unless a longer retention period is required or permitted by law.
 
-We may generally share your personal information with our affiliates globally, and this is further explained in the section on Our Worldwide Practices, below.
+###  Children 
 
-In addition, we may process your personal information for the purpose of producing and providing to our partners statistical information (meaning aggregate information that does not identify you personally) about how our customers, collectively, use our Websites and services. We share this type of statistical data so that our partners can understand how often people use their areas, services and our Websites, so that they, too, may provide you with an optimal web experience or services experience.
+We do not knowingly collect, use, or disclose information from children under 16. If we learn that we have collected the personal information of a child under 16—or the equivalent minimum age depending on the jurisdiction, such as 13 in the United States—we will take steps to delete the information as soon as possible. Please immediately [Contact Us](https://support.wdc.com/contact.aspx?lang=en) if you become aware that a child under 16 has provided us with personal information.
 
-In certain circumstances, we may disclose your personal information to 3rd parties such as law enforcement authorities and agencies, regulatory organization, courts and governmental or other public authorities if we have to or are authorized to do so by law, for example pursuant to judicial or other government requests, subpoenas, warrants, or orders.
+If you are a California resident under the age of 18, and you are a registered user of our products or services, California law permits you to request and obtain removal of content or information you have publicly posted. To make such a request, please [Contact Us](https://support.wdc.com/contact.aspx?lang=en) with specific information about where the content or information is posted and attesting that you posted it. We will then make reasonable, good faith efforts to remove the post from prospective public view, or anonymize it so you cannot be individually identified, to the extent required by applicable law. Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require or allow removal even if requested.
 
-Finally, circumstances may arise where, whether for strategic or other business reasons, HGST decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or receiving it from sellers. We will seek appropriate protection for personal information disclosed in these types of transactions.
+###  Information Transfers, Storage, and Processing Globally 
 
-###  How to Opt In or Opt Out from Direct Marketing
+When we share your personal information with our partners, Western Digital-affiliated companies, and service providers, your personal information may be transferred to and/or made accessible from countries out of the European Economic Area. In such circumstances, we will enter into model contractual clauses as adopted by the European Commission, or rely on alternative legal bases such as the Privacy Shield, where applicable, or binding corporate rules where our partners or service providers have adopted such internal policies approved by European data protection authorities.
 
-We may use the information you give us on certain HGST Websites for direct marketing purposes to provide product and service requests, offers, updates, newsletters, events, or promotional communications. However, such marketing will be sent in accordance with applicable law, and any marketing preferences you have expressed. We will offer you an opportunity to either opt in to or opt out of such use. There are a few ways to opt in to or opt out of the use of your personal information for direct marketing purposes. For example, at the point of collection of your personal information you may be informed of an opportunity to receive certain communications and be given a choice to opt in or opt out, for instance by providing your personal information and checking or unchecking an opt-in or opt-out box.
+###  Changes to This Privacy Statement 
 
-### Do Not Track
+We may periodically change this Privacy Statement to keep pace with new technologies, industry practices, and regulatory requirements, among other reasons. We expect most such changes to be minor. Any non-material changes will take effect immediately upon posting of an updated Privacy Statement. There may, however, be cases where changes to the Privacy Statement may be more significant. In such cases, we will provide you either a prominent notice of such changes before they take effect or by directly sending you a notification.
 
-Some Internet browsers include the ability to transmit “Do Not Track” signals. Since uniform standards for “Do Not Track” signals have not been adopted, HGST websites do not process or respond to “Do Not Track” signals. To learn more about “Do Not Track”, please visit “[All About Do Not Track](http://www.allaboutdnt.com/)".
+Your continued use of our products and services after the effective date of the Privacy Statement means that you accept the revised Privacy Statement. If you do not agree to the revised Privacy Statement, please refrain from using our products or services and [Contact Us](https://support.wdc.com/contact.aspx?lang=en) to close any account you may have created. 
 
-### Cookies, Web Beacons and Other Technologies
+###  Contact Us 
 
-Our Websites use cookies and similar technologies, like web beacons, for analytics, functionality and targeted advertising purposes. For more information about the cookies we use, including how to exercise choices with regard to our use of cookies, please visit our [Cookie Policy](http://www.hgst.com/cookies "HGST Cookie Policy"). 
+If you have any questions regarding this Privacy Statement or its implementation, you may e-mail our Data Protection Officer at [DPO@wdc.com](mailto:DPO@wdc.com). You also may write to us at:
 
-### Personalized URL Link
-
-On occasion, we may personalize and customize Websites for certain visitors. If you visit one of these Websites, you may find it customized with references to products and/or services that we believe may be of interest to you, based on your previous interactions with HGST and information you have provided to us. While you are visiting these Websites, we may collect information about your visit to better tailor the Website to your interests. An invitation to visit one of these Websites is usually presented as a personalized URL in an e-mail, a notice on a Website registration page, or as a response to you logging on to a certain Website. If you choose to visit one of these Websites, you are agreeing to let us collect information about your visits and also to associate this information with other information about you and your relationship with us. If you do not wish your information to be used in this way, do not accept the invitation to visit these sites.
-
-### Information Security and Quality
-
-We apply appropriate security measures and processes to protect your personal information, and maintain its security and quality. All information you provide to us is stored on our secure servers. We use encryption when transmitting certain sensitive information and any payment transactions will be encrypted [using SSL technology]. Where you have a password which enables you to access certain parts of our Websites, you are responsible for keeping this password secure and confidential. We ask you not to share your password with anyone. 
-
-Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Websites at all times. Once we have received your personal information we will use strict procedures and security features to try to prevent unauthorized access, disclosure, alteration or loss.
-
-###  Notification of Changes
-
-This Privacy Policy was last updated on 10/01/2014. A notice will be posted on our Websites' home pages for 30 days whenever this Privacy Policy is changed in a material way. By continuing to use our Websites you confirm your continuing acceptance of this Privacy Policy. 
-
-### Access, Correction and Deletion
-
-If you wish to obtain a copy of particular personal information that you provided to HGST, or if you become aware that the personal information we hold about you is incorrect and you would like us to correct it, contact us at the address at the end of this Privacy Policy.
-
-Before we are able to provide you with any personal information or correct any inaccuracies, however, we may ask you to verify your identity and to provide other details to help us to respond to your request. We will endeavor to respond within an appropriate timeframe.
-
-You can access the personal information in your online account and correct, amend, or delete information that is inaccurate. You may delete your online account altogether, if you wish. Please note that we may retain some personal information in our records even after you delete your online account.
-
-### How Long We Keep Your Personal Information For
-
-The periods for which we retain your information depend on the purpose for which we collected it and we use it. We will not retain your personal information for longer than is necessary for our business purposes or for legal requirements. We may retain some information for a few years after you have closed your account with us, for instance if this is necessary to meet our legal obligations.
-
-###  Our Worldwide Practices
-
-HGST is a global organization, with affiliated legal entities, business processes, management structures, and technical systems that cross borders.
-
-Our privacy practices are designed to provide protection for your personal information all over the world. We may share your personal information among HGST affiliates globally and transfer it to our business partners based in various countries in the world where we do business. Some countries may provide less legal protection than others for your personal information. When we transfer your personal information internationally we will take reasonable steps to ensure that your personal information is treated securely, lawfully and in the manner we describe here.
-
-### Service Quality Monitoring
-
-Certain web transactions may also involve you calling us or our calling you. Please be aware that it is HGST general practice to monitor and in some cases record such calls for staff training or quality assurance purposes.
-
-### Links to Non-HGST Websites
-
-HGST Websites may contain links to other websites. HGST is not responsible for the privacy practices or the content of those other websites, and we encourage you to carefully read the privacy policies of these websites to find out how they use your personal information.
-
-### Questions about this Privacy Policy
-
-This Website is maintained by HGST. If you have a question about this Privacy Policy or our handling of your information, you can contact HGST in the following manner: please contact us at [privacy@hgst.com](mailto:privacy@hgst.com).
-
-Please use the Back button on your browser or close this window to return to the page where you were. 
-
-Effective date 10/15/2015.
+5601 Great Oaks Parkway  
+San Jose, California, USA 95119
