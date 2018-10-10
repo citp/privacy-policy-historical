@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtoexportimport.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226040026id_/http%3A//howtoexportimport.com/Privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtoexportimport.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010214747id_/http%3A//www.howtoexportimport.com/Privacypolicy.aspx) for the most accurate reproduction.*
 
 # HOW TO EXPORT IMPORT.COM
 
