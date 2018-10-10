@@ -1,149 +1,213 @@
-> *The following text is extracted and transformed from the finalfantasyxiii.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finalfantasyxiii.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010224607id_/https%3A//square-enix-games.com/en_US/documents/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# SQUARE ENIX - documents
 
-#### Find Answers To Your Questions:
+**_SQUARE ENIX, INC.    
+PRIVACY NOTICE_**
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+Hi. We’re Square Enix, Inc. You probably know us from all the SQUARE ENIX®, EIDOS®, Crystal Dynamics®, and TAITO® branded entertainment content we develop, publish, distribute and license, including: FINAL FANTASY®, DRAGON QUEST®, TOMB RAIDER®, and SPACE INVADERS®.
 
-### Privacy Policy
+This Privacy Notice describes how Square Enix, Inc. and our affiliates (collectively “ **Square Enix** ,” “ **Company** ,” or “ **we** ,” “ **our** ,” or “ **us** ”) collect, use, and share information about you when you use our various products and services (collectively, the “ **Services** ”). This Privacy Notice applies if you are a customer or subscriber of Square Enix, Inc. or if you are visiting a website where this Privacy Notice is posted. This Privacy Notice does not apply to information collected by third parties that may interact with our Services ( _e.g._ , a social media plug-in such as a Facebook like button), or to our data collection activities outside of our Services ( _e.g._ , through websites that support specific products, which may have different privacy policies). It also does not apply to information collected through the Services from data subjects located in the European Union. If you are a data subject located in the European Union, please see our [Square Enix Limited Privacy Notice](https://square-enix-games.com/en_GB/documents/privacy).
 
-**Why A Privacy Policy?**  
+In addition, please review the [Square Enix, Inc. Terms of Service](https://na.square-enix.com/us/documents/tnc) (“ **SEA Terms of Service** ”), which governs your use of the Services.  _By using our Services, you consent to this Privacy Notice and SEA Terms of Service and our collection, storage, sharing and use of your information and data, and other activities, as described.   **If you do not agree to this Privacy Notice, do not access the Services, and in the case of mobile applications, uninstall the mobile applications immediately.**_
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+This Privacy Notice and the ESRB certification seals shown on our Services confirm that Square Enix is a valid licensee, and participating member, of the [Entertainment Software Rating Board's Privacy Certified Program](http://www.esrb.org/privacy/faq.aspx#10) (“ **ESRB Privacy Certified** ”). To protect your privacy, we have voluntarily undertaken this privacy initiative, and all of our Services where this Privacy Notice is posted have been reviewed and certified by ESRB Privacy Certified to meet established online information collection, use, and disclosure practices. As a licensee of this privacy program, we are subject to audits of our Services and other enforcement and accountability mechanisms administered independently by ESRB Privacy Certified.
 
- **This Privacy Policy protects your privacy by:**
+ **Square Enix participates in the E.U.-U.S. and Swiss-U.S. Privacy Shield Framework. To learn more, click  ** **here** **.**
 
- **Informing you about:**
+ 
+*  **The Types of Information We Collect from You and How We Collect It**
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+From the moment you begin interacting with the Services we are collecting information. This information includes information that identifies or can be used to identify you personally.
 
+Sometimes you choose to provide this information to us and other times we collect it from you automatically. For example, you choose to provide us certain information when you register or update a Square Enix Members account or Square Enix Account, use our paid-for Services, apply for a job with us, subscribe to our mailing lists or agree to receive marketing messages from us, call us, email us, live chat with us online or in-game, make a purchase from us, enter one of our competitions, respond to one of our surveys, post in our forums, conduct a search or post content on our websites, chat or interact with other users on the Services, register to attend our events, or “follow,” “like,” post to, or otherwise interact with our social media accounts. And we collect your information automatically when you browse or use our websites, chat or interact with other users on the Services, receive an email from us, login to your Square Enix Members or Square Enix Account, play one of our games, live chat with us online or in-game, or make a purchase from us.
 
+Here are some examples of the types of information we collect from you when you use the Services.
 
-**Empowering you to choose:**
+  * **personal details** – _e.g._ , your name, address, telephone number, email address, and birthday.
+  * **transactional information** – _e.g._ , your bank account number, credit/debit card information, and billing address.
+  * **account profile data and credentials**  –  _e.g._ , your username, password, password hints, and other information related to your account registration.
+  * **information relating to the browser or device you use to access the Services  **–  _e.g._ , IP address, login information, browser type and version, time zone setting, browser plug-in type, operating system and version, Google AdID, Apple IDFA, or other device information that uniquely identifies the device or application you are using.
+  * **information on how you use our websites** – _e.g._ , your URL clickstreams (the path you take through our websites), products you view or purchase, webpage response times, download errors, how long you stay on webpages, and what you do on those webpages.
+  * **information about the location of your device**  –  _e.g._ , precise location data with your opt-in consent (such as latitude/longitude) and imprecise location data (such as data derived from an IP address or that indicates a city or postal code level).
+  * **information on how you purchase and use our games and products** – _e.g._ , the gaming platform you are using, mobile and hardware identifiers, device event information, crash reports, language options you choose, subtitles selected, version of the game being played, game scores, game metrics, achievements, rankings, time played, feature usage, player performance and progression, in-game purchases, downloadable content purchases, micro transactions, timezone, timestamp, session duration, challenges or gifts sent to other players, and number of friends on the platform.
+  * **information we receive when you interact with third-party platforms** – _e.g._ , game consoles (nickname, username, ID, friends list, email address, geolocation, language, and date of birth), mobile platform providers and stores (username, device ID, and purchase history), and Facebook (name, email address, and friends playing the same game).
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
 
 
+**Information You Disclose Publicly** : The Services may permit you to submit content on various public channels like blogs and message boards, as well as through gameplay. We or others may store, display, publish, or otherwise use this content in perpetuity, and may or may not attribute it to you. Please note that we do not control who will have access to information you choose to make public, and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure. Please think carefully before sharing any information on the Services.
 
-**Assuring you that Network Solutions:**
+**Information Third Parties Provide about You** :We may, from time to time, supplement the information we collect directly from you on our Services with outside records from third parties for various purposes, including to enhance our ability to serve you, to tailor content and ads to you, and to offer you opportunities that may be of interest to you.
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+**Third-Party Logins** : The Services may include the option to register or log in to an account using Facebook, Google, or another third-party service. By doing so, you provide us with access to certain information from your social media profile, such as your name, email address, photo, gender, birthday, location, friends, people you follow/who follow you, content you post, or likes you make. We use this information to do things like give you exclusive content, personalize your experience on the Services, or advertise to you online, and you consent to the use of this information in accordance with this Privacy Notice. Please be aware that these third parties are not subject to this Privacy Notice, and we are not responsible for their practices. You should review the applicable third parties’ privacy policies before using their tools to interact with the Services.
 
+**Tracking Technologies** : We use various technologies to collect information from you, including as follows:
 
+  * **Log Files**. A log file is a file that records events that occur in connection with your use of the Services.
+  * **Cookies:**  A cookie is a data file placed on your device when you visit the Services. Cookies may be used for many purposes, such as remembering you and your preferences, supporting our security features, and tracking your visits to and activities on and off the Services, including for purposes of bringing you relevant advertising. Some features of the Services may not function properly if you choose to disable cookies, and some types of cookies may not be disabled using browsers. In some instances, especially with respect to mobile, we may require you to uninstall/not use the Services rather than have a poor experience from disabling cookies. Please review our [Square Enix, Inc. Cookie Policy](https://na.square-enix.com/us/documents/cookies) for more information.
+  * **Embedded Scripts:**  An embedded script is programming code that is designed to collect information about your interactions with the Services, such as the links you click on. The code temporarily downloaded onto your device from our web server or a third-party service provider is active only while you are connected to the Services, and is deactivated or deleted thereafter.
+  * **Pixels:**  A pixel (also known as a web beacon) is code embedded in a website, video, email, or advertisement that sends information about your usage to a server. When you access a website, video, email, or advertisement that contains a pixel, the pixel may permit us or a third party to drop or read cookies on your browser. Pixels are used in combination with cookies to track activity by a particular browser on a particular device. We may incorporate pixels from third parties that allow us track our conversions, bring you advertising both on and off the Services, and provide you with additional functionality, such as the ability to connect our Services with your social media account.
+  * **ETag, or entity tag:**  A feature of the cache in browsers, an ETag is an opaque identifier assigned by a web server to a specific version of a resource found at a URL. If the resource content at that URL ever changes, a new and different ETag is assigned. ETag tracking may generate unique tracking values even where the consumer blocks HTTP, Flash, and HTML5 cookies.
+  * **Location-Identifying Technologies:  **GPS, WiFi, Bluetooth, and other location-aware technologies may be used to collect precise location data when you enable location-based services through your device.
+  * **App Technologies:**  There are a variety of technologies that may be included in our apps that are not browser-based like cookies and cannot be controlled by browser settings. For example, our apps may include third party SDKs, which is code that sends information about your usage to a server. These SDKs allow us track our conversions, bring you advertising both on and off the Services, and provide you with additional functionality, such as the ability to connect our Services with your social media account.
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
 
-  
-**Third Party Advertising and Cookies**
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+As noted above, third parties may also use these or other tracking technologies with our Services. We do not control those third-party tracking technologies and you should visit those third parties’ websites for information about their privacy practices.
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+For more information on advertising and related tracking technologies, click [here](https://na.square-enix.com/us/documents/cookies).
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+Back to top
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+ 
+*  **How We Use the Information We Collect from You**
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+We may use your information for the following purposes:
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+  * to provide you the Services, including by authenticating your login information, verifying your age, and remembering your settings;
+  * to improve or develop the Services, including by optimizing traffic, conducting in-game data analytics and research, managing landing pages, and heat mapping our websites;
+  * to provide customer support or resolve technical issues;
+  * to provide you information that you have requested or agreed to receive, such as electronic newsletters, special offers, or promotional materials;
+  * to process payments or transactions;
+  * to process your registration of a Square Enix Account, Square Enix Members account, or other account;
+  * to customize your experience on the Services, including by serving you (or people like you) targeted advertising and other relevant content;
+  * to contact you with regard to your use of the Services or changes to the Services;
+  * to process your entry into contests, sweepstakes, surveys, or other promotional events that we run from time to time, should you decide to participate in them;
+  * to deliver relevant advertisements or offers to you, and to measure the effectiveness of these advertisements and offers; 
+  * to enforce our rules and policies and protect the competitive integrity of our games;
+  * to investigate and respond to fraudulent, unauthorized, or illegal activity;
+  * to monitor your participation in our forums and all parts of the Services that allow you to post information or interact with other users;
+  * for internal business purposes;
+  * for purposes disclosed at the time you provide your information or as otherwise set forth in this Privacy Notice.
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+We may use information that does not identify you (including information that has been de-identified) without obligation to you except as prohibited by applicable law.
 
- **Getting to Know Our Customers**
+Back to top
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+ 
+*  **Third Parties with Whom We Share Your Information**
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+We use various third parties to help support and operate the Services or perform certain functions on our behalf. If we share your information with these third parties, we will only provide them with information they reasonably need to perform their specific services for the purposes we specify in our contract with them, although we may permit them to use information that does not identify you for other purposes. If we stop using their services, we will require that any of your information that they hold be securely and permanently deleted or de-identified so that it does not identify you. In all cases, we will apply measures to help keep your data safe and your privacy protected.
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+Here are some examples of the types of third parties with which we may share your information:
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+  * information technology companies who support our websites and other business systems;
+  * direct marketing companies who help us manage our electronic communications with you;
+  * ad partners like Google and Facebook, so that they can show you products that might interest you;
+  * analytics companies who help us analyze how you use the Services;
+  * payment processors who facilitate purchases from us and help protect against fraud;
+  * fraud detection and prevention companies who help us prevent cheating, abuse, fraud, tampering, or other unauthorized use of the Services;
+  * applicant-tracking providers who process your application to a job opening we have posted online;
+  * console or platform providers who allow you to purchase, access, or play our games;
+  * business partners who help us develop the Services or make them available to you;
+  * third parties who administer contests, sweepstakes, surveys, or other content on our behalf.
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+**Third-Party Locations and Services** : When you are on the Services, you may be directed to other sites or services that are operated by third parties outside of our control. For example, if you click on a link displayed on the Services you may be taken off the Services to a different site. We are not responsible for the data collection and privacy practices employed by these third parties. We encourage you to pay attention when you leave our Services and to review the privacy policies of any third-party locations you go to.
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+**Administrative and Legal Disclosures** : We disclose your information to third parties: (i) in response to lawful requests by public authorities, including to meet national security or law enforcement requirements; (ii) to satisfy any applicable law, regulation, subpoena, or governmental requestor legal process, or any legal process in connection with a court proceeding or arbitration, if in our good faith opinion we are required or permitted to do so by law; (iii) to investigate potential violations of the [SEA Terms of Service](https://na.square-enix.com/us/documents/tnc) or other policies applicable to the Services; (iv) to protect the safety, rights, property or security of the Services, our staff, users, or any other third party; or (v) to detect, prevent, or otherwise address fraud or threats to security.
 
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
+**Business Transfers:**  We may share your information with our parent, subsidiary, and affiliate companies within and outside of the United States. In the event some or all of our company will be acquired by another party (or during such negotiations), we may share your information with the acquiring party.
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+**Consent:**  We will share your information for any other purpose if we have disclosed that purpose to you and you have consented to it.
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
+**De-identified Information** : In our sole discretion, we may share aggregated information that does not identify you or de-identified information about you with third parties or affiliates for any purpose except as prohibited by applicable law.
 
-b. Click “Edit User Info” in the left menu;
+Back to top
 
-c. Scroll to the bottom of the page;
+ 
+*  **Third-Party Ads and Analytics**
 
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
+The Services may use third parties such as network advertisers and ad exchanges to serve targeted advertisements on and off the Services based on your behavior on and off of the Services, and may use third-party analytics, user research, or other similar service providers to evaluate and provide us or other third parties with information about your use of the Services and viewing of ads or content. Network advertisers are third parties that display advertisements, which may be based on your visits to the Services and other locations you have visited.
 
-e. Click “SAVE.”
+Third-party ad serving enables us and others to target advertisements to you or people like you for products and services in which you or people like you might be interested. For example, if you provide us with your email address we may share it with Facebook so that you can receive targeted ads from us when you use Facebook, and so that other users of Facebook who share similar interests to you can also receive targeted ads from us. The Services’ third-party ad network providers, the advertisers, the sponsors and/or traffic measurement services may themselves set and access their own cookies or other tracking technologies on your device and browser. These third-party tracking technologies may be set to, among other things, help deliver relevant advertisements, prevent you from seeing the same advertisements too many times, or help understand the usefulness of these advertisements to you. Our representations regarding our practices in this Privacy Notice do not extend to the practices of these third-party advertisers and others or the use of the information that such third parties collect. By installing and using our Services, you consent to these practices, including the sharing of data about you with these third parties and their own collection of such data.
 
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+Please note that we adhere to the [Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising](http://digitaladvertisingalliance.org/sites/digital.daaoperations.org/files/DAA_files/seven-principles-07-01-09.pdf).
 
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+Back to top
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
+ 
+*  **Your Choices**
 
-b. Click “Edit User Info” in the left menu;
+There are various ways in which you can exercise choice and control over the information you provide to us on the Services. Here are some examples:
 
-c. Scroll to the bottom of the page;
+**Limit the Information You Provide to Us** : You can stop all prospective collection of information on our Services by uninstalling and ceasing to use or interact with the Services. You can also decline to provide us with any information we request from you, although please note that this may mean you are not able to use certain parts of the Services ( _e.g._ , you will not be able to create an account with us if you do not provide your email address and other information we need to process your registration). With respect to our mobile applications, you may use the standard uninstall process supported by your device, the app, or the marketplace or software through which you acquired the app to stop all prospective information collection through the app.
 
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
+**Change Your Communications Preferences** : You may cancel or modify the email communications you receive from us by following the instructions contained within our promotional emails or, where applicable, by logging into an account you have created for our Services and adjusting your settings. This will not affect subsequent access to the Services. Please note that we reserve the right to send you certain communications relating to your account or use of our Services, such as administrative and service announcements, and you will continue to receive these transactional account messages even if you opt-out from receiving our promotional email communications.
 
-e. Click “SAVE.” 
+**Analytics and Cookies** : You may exercise choices regarding the use of cookies from Google Analytics by going to <https://tools.google.com/dlpage/gaoptout> and downloading the Google Analytics Opt-out Browser Add-on. You may also be able to manage cookies or other tracking technologies by changing your browser settings or by contacting certain third parties directly.
 
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+**Third-Party Opt Outs** : Some of the advertisers and service providers that perform advertising-related services for us and our partners may participate in the Digital Advertising Alliance (" **DAA** ") Self-Regulatory Program for Online Behavioral Advertising. To learn more about how you can exercise certain choices regarding interest-based advertising, visit <http://www.aboutads.info/choices>, and <http://www.aboutads.info/appchoices> for information on the DAA’s opt-out program for mobile apps. Some of these companies may also be members of the Network Advertising Initiative (“ **NAI** ”). To learn more about the NAI and your opt-out options for their members, see <http://www.networkadvertising.org/choices>. Please be aware that, even if you are able to opt out of certain kinds of interest-based advertising, you may continue to receive other types of ads. Opting out only means that those selected members should no longer deliver certain interest-based advertising to you, but does not mean you will no longer receive any targeted content or ads ( _e.g._ , from other ad networks). We are not responsible for the effectiveness of, or compliance with, any third-parties’ opt-out options or programs or the accuracy of their statements regarding their programs.
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
+**Location Data** : For our mobile apps, you can turn off our collection of precise location data through the settings on your device. You can stop collection of all location data through a particular app by uninstalling that app. 
 
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+**App Technologies:  **For our mobile apps, you can reset your mobile Ad Id through your device settings, which is designed to allow you to limit the use of information collected about you. For information on how to do this on Apple devices, visit Apple.com or <https://support.apple.com/en-us/HT202074>. For information on how to do this on Android devices, visit [www.google.com](http://www.google.com/).
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
+**Do Not Track** : Note that your browser settings may allow you to automatically transmit a "Do Not Track" signal to websites and online services you visit. There is no consensus among industry participants as to what "Do Not Track" means in this context. Like many websites and online services, we currently do not alter our practices when we receive a "Do Not Track" signal from a visitor's browser. To find out more about "Do Not Track," you may wish to visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+Back to top
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
+ 
+*  **Your Rights over Your Information**
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+You have the right to access certain account information we have about you. You may review, correct, update, or request the erasure of account information you have provided to us by emailing us at [na.privacypolicy@square-enix.com](mailto:na.privacypolicy@square-enix.com). We will respond to your access request within a reasonable time period. We may require additional information from you to allow us to confirm your identity and properly respond to your request. Nothing in this Privacy Notice is intended to limit any additional rights you may have under local law.
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
+Please note that it is not always possible to completely remove or delete all of your account information from our databases and residual data may remain on backup media. Also, we will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
+You may remove content you have posted on our forums by logging into your account, directly accessing your post, and using the editing tools in our forums (if available). Should you wish to edit or remove any content you have publicly posted, you may contact us with your specific removal request. Please note that we are not required to remove your posted content or information if it has been de-identified or if we are required by law to retain it.
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
+**California Privacy Rights** : California Civil Code Section 1798.83 permits California residents who have supplied “personal information,” as defined in the statute, to the Services to (under certain circumstances) request and obtain certain information regarding our disclosure, if any, of certain information to third parties for their direct marketing purposes. We share personal information with our affiliates for those affiliates’ direct marketing purposes. California residents may obtain additional information about our compliance with this law by sending a letter to Square Enix, Inc., Attn: Legal Department, 999 N. Sepulveda Blvd., 3rd Floor, El Segundo, CA 90245. Requests must include “California Privacy Rights Request” in the first line of the description and include your name, street address, city, state, and ZIP code. Please note that we may need to request additional information from you to confirm your identity and properly respond to your request.
 
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+**European Privacy Rights** : If you are a data subject in the European Union or Switzerland whose information was transferred in accordance with the Privacy Shield Framework and you do not consent to this Privacy Notice or our Terms of Service, or would like to ask us not to process your personal data (or not to provide it to third parties to process) for marketing purposes, please email us at na.privacypolicy@square-enix.com, or send a letter addressed to Square Enix, Inc., Attn: SEA Privacy Policy Administrator, 999 N. Sepulveda Blvd., 3rd Floor, El Segundo, CA 90245. We will make the requested changes in our active databases as soon as reasonably practical. Nothing in this Privacy Notice is intended to affect any rights you may have available to you under local law.
+
+Back to top
+
+ 
+*  **International Transfers of Information**
+
+Please be aware that information we collect may be transferred, processed, stored, and used internationally, including in the United States, Canada, Japan, and the European Union. The data protection laws in these countries may differ from those of the country in which you are located, and your information may be subject to access requests from governments, courts, or law enforcement. By using the Services, or providing us with any information, you consent to the transfer to, and processing, usage, sharing, and storage of your information, including personal data, in other countries as set forth in this Privacy Notice.
+
+Company participates in the E.U.-U.S. and Swiss-U.S Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from the European Union and Switzerland, respectively. For the purpose of this Section 7, “ **Company** ” refers to the following legal entities only: Square Enix of America Holdings, Inc., Square Enix, Inc., Square Enix L.L.C., and Crystal Dynamics Inc. Company has certified that it adheres to the Privacy Shield’s Principles of notice; choice; accountability for onward transfer; security; data integrity and purpose limitation; access; and recourse, enforcement, and liability. In accordance with its obligations under the Privacy Shield, and subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission, Company hereby affirms its commitment to subject to the Privacy Shield Principles all personal data received from the European Union and Switzerland in reliance on the Privacy Shield. This means that, in addition to Company’s other obligations under the Privacy Shield Principles, Company shall be liable to you for any third-party agent to which we transfer your personal data and who processes such personal data in a manner that violates the Privacy Shield Principles, unless Company can demonstrate that it is not responsible for the resulting damages.
+
+Company is committed to resolving any complaints regarding your privacy and our collection and use of your information in accordance with the Privacy Shield Framework. For inquiries or complaints regarding the processing of personal data transmitted to Company from the European Union or Switzerland, please contact us by sending a letter to: Square Enix, Inc., Attn: Legal Department, 999 N. Sepulveda Blvd., 3rd Floor, El Segundo, CA 90245, or by emailing us at [na.privacypolicy@square-enix.com](mailto:na.privacypolicy@square-enix.com). For any complaints we are unable to resolve directly, you may submit your complaint at no cost to you to JAMS at <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim>[ ](https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim). In the event there are residual complaints that have not been resolved by JAMS or any other means, you may seek a non-monetary remedy through binding arbitration to be provided to you in accordance with the Privacy Shield Principles.
+
+To learn more about the Privacy Shield Framework, and to view Company’s certification, please visit <https://www.privacyshield.gov/welcome> _._  A list of companies certified under the Privacy Shield Framework is available at the following link: <https://www.privacyshield.gov/list>.
+
+Back to top
+
+ 
+*  **Children’s Data**
+
+We do not knowingly collect or store any personal information as defined by the Children’s Online Privacy Protection Act (“ **COPPA** ”) from children without verifiable parental consent, as required by COPPA. There may be instances, such as a sweepstakes, contest, or promotion, in which we collect personal information from a child in order to contact a parent and complete prize fulfillment.
+
+If you are a parent or guardian of a child under the age of 13 (or different age as may apply in your jurisdiction) and believe he or she has disclosed personal information to us without your consent, please contact us at Square Enix, Inc., Attn: Legal Department, 999 N. Sepulveda Blvd., 3rd Floor, El Segundo, CA 90245. You can also contact us by email at [na.privacypolicy@square-enix.com](mailto:na.privacypolicy@square-enix.com). We will delete the child’s personal information from our records as soon as possible.
+
+Back to top
+
+ 
+*  **Keeping Your Information Secure**
+
+We understand how important data security is to you, and we have implemented various policies, processes, and technical measures to help protect and secure your information. That said, no data transmission is guaranteed to be 100% secure, and we cannot ensure the security of any information you transmit to us. Please take care when transmitting information online, including through the Services, and make sure to keep your passwords and account information secure at all times. In the event we become aware of a data breach involving unencrypted notice-triggering information in our possession, we will notify you as may be required by applicable law.
+
+Back to top
+
+ 
+*  **Questions or Complaints**
+
+If you have any questions or wish to file a complaint, please feel free to email us at [na.privacypolicy@square-enix.com](mailto:na.privacypolicy@square-enix.com), or send a letter addressed to Square Enix, Inc., Attn: Legal Department, 999 N. Sepulveda Blvd., 3rd Floor, El Segundo, CA 90245.
+
+As previously mentioned, we are a licensee of ESRB’s Privacy Certified Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB Privacy Certified at <http://www.esrb.org/privacy/contact.aspx>, or ESRB, Attn: Vice President, Privacy Certified Program, 420 Lexington Ave., Suite 2240, New York, NY 10170. You may also email them at [privacy@esrb.org](mailto:privacy@esrb.org).
+
+Back to top
+
+ 
+*  **Changes to this Privacy  Notice**
+
+We reserve the right to change this Privacy Notice at any time. Any changes will be effective immediately upon the posting of the revised SEA Privacy Notice. However, if you have registered an account with us we may ask you to opt-in upon sign-in if we make material changes.
+
+To the extent any provision of this Privacy Notice is found by a competent tribunal to be invalid or unenforceable, such provision shall be severed to the extent necessary for the remainder to be valid and enforceable.
+
+Back to top
