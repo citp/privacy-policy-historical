@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dynadot.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227232143id_/https%3A//www.dynadot.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynadot.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011000841id_/https%3A//www.dynadot.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : IDN Domain : Cheapest Domain Name Registration : Dynadot.com
-
-Welcome to the Dynadot web design, web hosting, and domain name registration service ("Service"). The Service is made available subject to this Privacy Policy. By using the Service, you agree, without limitation or qualification, to be bound by this Privacy Policy. This policy may be updated from time to time, so please check back here periodically.
 
 What information is collected?
 
@@ -26,9 +24,3 @@ What emails and postal mails will you send me?
 Do you use "cookies"?
 
 The Service uses cookies. A cookie is a piece of data stored on the user's computer tied to information about the user. We use cookies to remember where you are in our web site, and to collect anonymous traffic data in order to help us improve our web site. For example, by setting a cookie when you sign into your account, we know that you are an authorized user. If you reject or disable the cookie, you will not be able to enter the account area of the site, and some pages on our web site may not work properly.
-
-[](https://www.domaining.com/ "Domaining.com recommends this domain name registrar")[](https://www.namepros.com/ "NamePros Community")[](https://www.icann.org/ "Dynadot is an ICANN Accredited Registrar")
-
-Copyright © 2002-2017 Dynadot LLC. All rights reserved. 
-
-Server Ip: 54.67.93.101
