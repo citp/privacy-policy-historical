@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sesamecommunications.com privacy policy that was archived on 2017-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170823170140id_/https%3A//www.sesamecommunications.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sesamecommunications.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010053649id_/https%3A//www.sesamecommunications.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Dental Marketing & Practice Management | Sesame Communications
 
 ### Introduction
 
