@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riteaid.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324105157id_/https%3A//www.riteaid.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riteaid.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010114726id_/https%3A//www.riteaid.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy & Security Policy – Rite Aid
 
@@ -15,6 +15,8 @@ We automatically receive and collect certain types of information whenever you v
 When you visit Riteaid.com, you will be assigned a "cookie", which is a small text file stored on your computer's hard drive. Cookies store your preferences and settings for a particular website and use them the next time you visit.
 
 Most Internet browsers permit you to erase or block cookies. Refer to your browser instructions or help screens to assist you in these processes: preventing your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that cookies permit you to take full advantage of Riteaid.com features and we recommend that you leave them turned on.
+
+We may also use technologies, such as cookies, to provide you with certain online display advertising tailored to your interests. To opt out of cookies used for certain Rite Aid online advertising, [click here](http://dtmc.riteaid.com/adinfo/choice/prod/?type=fpc&cid=61838&cname=Rite%20Aid&cmagic=21ddd6&clogo=61838.png&loc=us&lang=en-us "TextLink-click here").
 
 ## How We Use Your Information
 
@@ -38,8 +40,10 @@ Riteaid.com encrypts your personal and medical information as it is transmitted 
 
 ## Minors
 
-If you are a registered user of the Site under 18, you or your guardian may request that Rite Aid remove any content or information that you may have posted on our Internet Web site, or any online service, online application, or mobile application, including your name, address, mobile or home phone, gender and date of birth. If you choose to request that Rite Aid remove any such content or information, you may do so by visiting [riteaid.com/ContactUs](https://www.riteaid.com/customer-support/contact-us) to email or chat live with a customer care agent, calling customer care at 1-800-RITEAID (748-3243), updating your wellness+ or **wellness+ with Plenti** profile or by writing to Rite Aid Corporation P.O. BOX 3165 Attn: Customer Care, Camp Hill, PA 17011-3165. Please note that our removal may not be complete or comprehensive, such as when the content or information has been reposted by a third party.
+If you are a registered user of the Site under 18, you or your guardian may request that Rite Aid remove any content or information that you may have posted on our Internet Web site, or any online service, online application, or mobile application, including your name, address, mobile or home phone, gender and date of birth. If you choose to request that Rite Aid remove any such content or information, you may do so by visiting [riteaid.com/ContactUs](https://web.archive.org/external-redirect?program=ecommerce&returnTo=info/customer-support/contact-us "TextLink-riteaid.com/ContactUs") to email or chat live with a customer care agent, calling customer care at 1-800-RITEAID (748-3243), updating your wellness+ profile or by writing to Rite Aid Corporation P.O. BOX 3165 Attn: Customer Care, Camp Hill, PA 17011-3165. Please note that our removal may not be complete or comprehensive, such as when the content or information has been reposted by a third party.
 
 ## Changes to Our Policy
 
-This policy was last updated on February, 23 2015. We reserve the right to modify, change or amend this policy at any time. Please check this policy periodically for changes. Use of this Riteaid.com website after modification of this policy is deemed to constitute your consent to this policy as amended.
+This policy was last updated on December 13, 2017. We reserve the right to modify, change or amend this policy at any time. Please check this policy periodically for changes. Use of this Riteaid.com website after modification of this policy is deemed to constitute your consent to this policy as amended.
+
+Updated March 29, 2018
