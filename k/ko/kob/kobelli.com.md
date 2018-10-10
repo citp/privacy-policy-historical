@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kobelli.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708151157id_/http%3A//kobelli.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kobelli.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010170646id_/http%3A//www.kobelli.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Kobelli Privacy Policy
+# Kobelli Privacy and Cookie Policy, described in detail on this page
 
 ### Personal Identification Information
 
@@ -52,5 +52,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [http://www.kobelli.com](http://www.kobelli.com/)  
 (800) 432-3222   
 [info@kobelli.com](mailto:info@kobelli.com)
-
-Sign Up for Our Newsletter to receive latest news and events.
