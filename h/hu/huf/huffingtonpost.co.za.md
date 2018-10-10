@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huffingtonpost.co.za privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313042533id_/https%3A//www.huffingtonpost.co.za/p/huffpost-south-africa-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huffingtonpost.co.za privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010020230id_/https%3A//www.huffingtonpost.co.za/p/huffpost-south-africa-privacy-policy) for the most accurate reproduction.*
 
 # The Huffington Post South Africa Privacy Policy
 
