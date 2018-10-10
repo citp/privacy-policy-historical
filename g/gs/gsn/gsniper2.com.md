@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsniper2.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520052803id_/http%3A//gsniper.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsniper2.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010193303id_/http%3A//gsniper.com/privacy.html) for the most accurate reproduction.*
 
 # George Brown's Google Sniper
 
