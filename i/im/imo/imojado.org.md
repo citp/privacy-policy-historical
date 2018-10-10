@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imojado.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626034600id_/https%3A//www.imojado.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imojado.org privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011015659id_/https%3A//www.imojado.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iMojado
 
@@ -22,6 +22,6 @@ Your personally identifiable information is kept secure. Only authorized employe
 Privacy Contact Information
 
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:  
-By e-mail: [[email protected]](https://web.archive.org/web/20180626034600id_/https%3A//www.imojado.org/king_swpu@yahoo.com)  
+By e-mail: [king_swpu@yahoo.com](https://web.archive.org/web/20181011015659id_/https%3A//www.imojado.org/king_swpu@yahoo.com)  
 We reserve the right to make changes to this policy.  
 Any changes to this policy will be posted.
