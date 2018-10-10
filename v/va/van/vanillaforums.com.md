@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanillaforums.com privacy policy that was archived on 2018-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180305035023id_/https%3A//www.vanillaforums.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanillaforums.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010095322id_/https%3A//vanillaforums.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vanilla Forums
 
