@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wcs.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627084232id_/https%3A//www.wcs.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcs.org privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010082728id_/https%3A//www.wcs.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WCS.org
 
