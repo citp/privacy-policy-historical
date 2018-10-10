@@ -1,189 +1,225 @@
-> *The following text is extracted and transformed from the netlawman.co.uk privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416170139id_/https%3A//www.netlawman.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netlawman.co.uk privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010020901id_/https%3A//www.netlawman.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice For The Net Lawman UK Site
 
-This is the privacy notice of Net Lawman. In this document, “we” or “us” refers to Net Lawman Ltd.
+This is the privacy notice of Net Lawman. In this document, "we", "our", or "us" refer to Net Lawman Ltd.
 
-We are company number 2657400 registered in UK
+We are company number 2657400 registered in UK.
 
-Our registered office is at St Andrews Castle, 33 St Andrews Street South, Bury St Edmunds, IP33 3PH, United Kingdom
+Our registered office is at St Andrews Castle, 33 St Andrews Street South, Bury St Edmunds, IP33 3PH, United Kingdom.
 
-This is a notice to tell you our policy about all information that we record about you. It covers both information that could identify you and information that could not.
+##  Introduction
 
-We are extremely concerned to protect your privacy and confidentiality. We understand that all users of our web site are quite rightly concerned to know that their data will not be used for any purpose unintended by them, and will not accidentally fall into the hands of a third party. Our policy is both specific and strict. It complies with English laws and with the laws of all jurisdictions of which we are aware. If you think our policy falls short of your expectations or that we are failing to abide by our policy, **do please tell us**.
+  1. This is a notice to inform you of our policy about all information that we record about you. It sets out the conditions under which we may process any information that we collect from you, or that you provide to us. It covers information that could identify you (“personal information”) and information that could not. In the context of the law and this notice, “process” means collect, store, transfer, use or otherwise act on information.
+  2. We regret that if there are one or more points below with which you are not happy, your only recourse is to leave our website immediately.
+  3. We take seriously the protection of your privacy and confidentiality. We understand that all visitors to our website are entitled to know that their personal data will not be used for any purpose unintended by them, and will not accidentally fall into the hands of a third party.
+  4. We undertake to preserve the confidentiality of all information you provide to us, and hope that you reciprocate.
+  5. Our policy complies with the Data Protection Act 2018 (Act) accordingly incorporating the EU General Data Protection Regulation (GDPR).
+  6. The law requires us to tell you about your rights and our obligations to you in regards to the processing and control of your personal data. We do this now, by requesting that you read the information provided at www.knowyourprivacyrights.org
+  7. Except as set out below, we do not share, or sell, or disclose to a third party, any information collected through our website.
 
-We regret that if there are one or more points below with which you are not happy, your only recourse is to leave our web site immediately.
 
-Except as set out below, we do not share, or sell, or disclose to a third party, any personally identifiable information collected at this site.
 
-Here is a list of the information we collect from you, either through our web site or because you give it to us in some other way, and why it is necessary to collect it:
+##  The bases on which we process information about you
 
-  1. Basic identification and contact information, such as your name and contact details
+The law requires us to determine under which of six defined bases we process different categories of your personal information, and to notify you of the basis for each category.
 
+If a basis on which we process your personal information is no longer relevant then we shall immediately stop processing your data.
 
+If the basis changes then if required by law we shall notify you of the change and of any new basis under which we have determined that we can continue to process your information.
 
-Basic identification and contact information, such as your name and contact details. This information is used:
+###  1\. Information we process because we have a contractual obligation with you
 
-**1.1.  **   to provide you with the services which you request;
+When you create an account on our website, buy a product or service from us, or otherwise agree to our terms and conditions, a contract is formed between you and us.
 
-**1.2.  **   for verifying your identity for security purposes;
+In order to carry out our obligations under that contract we must process the information you give us. Some of this information may be personal information.
 
-**1.3.  **   for marketing our services and products;
+We may use it in order to:
 
-**1.4.  **   information which does not identify any individual may be used in a general way by us or third parties, to provide class information, for example relating to demographics or usage of a particular page or service.
+**1.1**    verify your identity for security purposes
 
-  2. Market place information
+**1.2**    sell products to you
 
+**1.3**    provide you with our services
 
+**1.4**    provide you with suggestions and advice on products, services and how to obtain the most from using our website
 
-When we obtain information from you specifically to enable you to buy a service offered on our web site by some other person, we assume that in giving us your information, you are also giving us permission to pass it to the relevant person.
+We process this information on the basis there is a contract between us, or that you have requested we use the information before we enter into a legal contract.
 
-  3. Your domain name and e-mail address
+Additionally, we may aggregate this information in a general way and use it to provide class information, for example to monitor our performance with respect to a particular service we provide. If we use it for this purpose, you as an individual will not be personally identifiable.
 
+We shall continue to process this information until the contract between us ends or is terminated by either party under the terms of the contract.
 
+###  2\. Information we process with your consent
 
-Your domain name and e-mail address are recognised by our servers and the pages that you visit are recorded. We shall not under any circumstances divulge your e-mail address to any person who is not an employee or contractor of ours and who does not need to know, either generally or specifically. This information is used:
+Through certain actions when otherwise there is no contractual relationship between us, such as when you browse our website or ask us to provide you more information about our products and services, you provide your consent to us to process information that may be personal information.
 
-**3.1.   **  to correspond with you or deal with you as you expect;
+Wherever possible, we aim to obtain your explicit consent to process this information, for example, by asking you to agree to our use of cookies.
 
-**3.2.**     in a collective way not referable to any particular individual, for the purpose of quality control and improvement of our site;
+Sometimes you might give your consent implicitly, such as when you send us a message by e-mail to which you would reasonably expect us to reply.
 
-**3.3.  **   to send you news about the services to which you have signed up;
+Except where you have consented to our use of your information for a specific purpose, we do not use your information in any way that would identify you personally. We may aggregate it in a general way and use it to provide class information, for example to monitor the performance of a particular page on our website.
 
-**3.4.**     to tell you about other of our services or services of sister web sites.
+If you have given us explicit permission to do so, we may from time to time pass your name and contact information to selected associates whom we consider may provide services or products you would find useful.
 
-  4. Information you post on our website
+We continue to process your information on this basis until you withdraw your consent or it can be reasonably assumed that your consent no longer exists.
 
+You may withdraw your consent at any time by instructing us [support@netlawman.co.uk](mailto:support@netlawman.co.uk). However, if you do so, you may not be able to use our website or our services further.
 
+###  3\. Information we process because we have a legal obligation
 
-Information you send to us by posting to a forum or blog or in your advertisement is stored on our servers. We do not specifically use that information except to allow it to be read, but you will see in our terms and conditions that we reserve a right to use it in any way we decide.
+We are subject to the law like everyone else. Sometimes, we must process your information in order to comply with a statutory obligation.
 
-  5. Website usage information
+For example, we may be required to give information to legal authorities if they so request or if they have the proper authorisation such as a search warrant or court order.
 
+This may include your personal information.
 
+##  Specific uses of information you provide to us
 
-We may use software embedded in our website (such as JavaScript) to collect  information about which pages you view and how you reach them, what you do when you visit a page, the length of time you remain on the page, and how we perform in providing content to you. We do not presently associate such information with an identifiable person.
+###  4\. Reviews you post on our website
 
-  6. Financial information relating only to your credit cards
+Our website allows you to post reviews about the product or service you have purchased with a view to that information being read or used by other people.
 
+We do not specifically use this information except to allow it to be displayed on our website.
 
+We do store it, and we reserve a right to use it in the future in any way we decide.
 
-This information is never taken by us either through our website or otherwise. At the point of payment, you are transferred to a secure page on the website of SagePay and PayPal That page may be dressed in our “livery”, but it is not controlled by us. Our staff and contractors never have access to it.
+Provided your request is reasonable and there is no legal basis for us to retain it, then at our discretion we may agree to your request to delete your review with your personal information that you have posted. You can make a request by contacting us at [support@netlawman.co.uk](mailto:support@netlawman.co.uk)
 
-  7. Note on padlock symbols and other trust marks
+###  5\. Information relating to your method of payment
 
+Payment information is never taken by us or transferred to us either through our website or otherwise. Our employees and contractors never have access to it.
 
+At the point of payment, you are transferred to a secure page on the website of SagePay and PayPal. That page may be branded to look like a page on our website, but it is not controlled by us.
 
-Many companies offer certification and an icon or other small graphic to prove to site visitors that the site is safe. Some certify to a high level of safety. Others are more concerned to take our money than to provide a useful service.
+###  6\. Sending a message to our support team
 
-We use AlphaSSL certificates to verify our identity to your browser and to encrypt any data you give us.
+When you contact us through our website or by e-mail, we collect the data you have given to us in order to reply with the information you need.
 
-  8. Credit reference
+We record your request and our reply in order to increase the efficiency of our business.
 
+We keep personally identifiable information associated with your message, such as your name and email address so as to be able to track our communications with you to provide a high quality service.
 
+###  7\. Complaining
 
-To assist in combating fraud, we share information with credit reference agencies so far as it relates to clients or customers who instruct their credit card issuer to cancel payment to us without having first provided an acceptable reason to us and given us the opportunity to refund their money.
+When we receive a complaint, we record all the information you have given to us.
 
-  9. Business and personal information
+We use that information to resolve your complaint.
 
-
-
-This includes all information given to us in the course of your business and ours, such as information you give us in your capacity as our client. We undertake to preserve the confidentiality of the information and of the terms of our relationship. It is not used for any other purpose. We expect you to reciprocate this policy.
-
-We keep information which forms part of our business record for minimum of six years. That is because we may need it in some way to support a claim or defence in court. That is also the period within which our tax collecting authorities may demand to know it.
-
-  10. Third party advertising
-
-
-
-Third parties may advertise on our web site. In doing so, those parties, their agents or other companies working for them may use technology that automatically collects your IP address when they send an advertisement that appears on our site to your browser. They may also use other technology such as cookies or JavaScript to personalise the content of, and to measure the performance of their adverts. We do not have control over these technologies or the data that these parties obtain. Accordingly, this privacy notice does not cover the information practices of these third parties.
-
-  11. Cookies
-
-
-
-We do not use cookies.
-
-  12. Sending a message to our support system
-
-
-
-When you send a message, we collect the data you have given to us in that message in order to obtain confirmation that you are entitled to receive the information and to provide to you the information you need.  We record your request and our reply in order to increase the efficiency of our business / organisation. We do not keep any personally identifiable information associated with your message, such as your name or email address.
-
-  13. Complaining
-
-
-
-When we receive a complaint, we record all the information you have given to us. We use that information to resolve your complaint. If your complaint reasonably requires us to contact some other person, we may decide to give to that other person some of the information contained in your complaint. We do this as infrequently as possible, but it is a matter for our sole discretion as to whether we do give information, and, if we do, what that information is.
+If your complaint reasonably requires us to contact some other person, we may decide to give to that other person some of the information contained in your complaint. We do this as infrequently as possible, but it is a matter for our sole discretion as to whether we do give information, and if we do, what that information is.
 
 We may also compile statistics showing information obtained from this source to assess the level of service we provide, but not in a way that could identify you or any other person.
 
-  14. Content you provide to us
+###  8\. Affiliate and business partner information
 
+This is information given to us by you in your capacity as an affiliate of us or as a business partner.
 
+It allows us to recognise visitors that you have referred to us, and to credit to you commission due for such referrals. It also includes information that allows us to transfer commission to you.
 
-If you provide information to us with a view to it being read, copied, downloaded or used by other people, we accept no responsibility for what that third party may do with it. It is up to you to satisfy yourself about the privacy level of every person who might see your information. If it is available to the entire World, you have no control whatever as to how it is used.
+The information is not used for any other purpose.
 
-  15. Marketing information
+We undertake to preserve the confidentiality of the information and of the terms of our relationship.
 
+We expect any affiliate or partner to agree to reciprocate this policy.
 
+##  Use of information we collect through automated systems when you visit our website
 
-With your permission we pass your email address and name to selected associates whom we consider may provide services or products you would find useful. You may opt out of this service at any time by instructing us at [support@netlawman.co.uk](mailto:support@netlawman.co.uk).
+###  9\. Cookies
 
-  16. Information we obtain from third parties
+Cookies are small text files that are placed on your computer's hard drive by your web browser when you visit a website. They allow information gathered on one web page to be stored until it is needed for use on another, allowing a website to provide you with a personalised experience, and the website owner with statistics about how you use the website so that it can be improved.
 
+Some cookies may last for a defined period of time, such as one day or until you close your browser. Others last indefinitely.
 
+Our website uses third party cookies. They are placed by software that operates on our servers, and by software operated by third parties whose services we use.
 
-Although we do not disclose your personal information to any third party (except as set out in this notice), we do receive data which is indirectly made up from your personal information, from software services. No such information is identifiable to you.
+An example is that we use Google Analytics to measure the performance of our website.
 
-  17. Affiliate information
+We may use the information we obtain from your use of our cookies for the following purposes:
 
+to improve the website’s usability;
 
+to analyse your use of our website;
 
-This is information given to us by you in your capacity as an affiliate of us or a customer or client of ours. Such information is retained for business use only. We undertake to preserve the confidentiality of the information and of the terms of our relationship.  It is not used for any other purpose.  We expect any affiliate to agree to reciprocate this policy. As an exception to this, we have the right to disclose your first name and URL of your affiliate connection to other affiliates and to any other person or organisation, on and off site. The reason is solely to enable us to mention winners and others whose performance as an affiliate is in some way outstanding.
+to provide certain interactive functionality, such as remembering your answers to previous questions on a multi-page questionnaire.
 
-  18. Use of site by children
+Most of browsers allow you to refuse to accept cookies, and to delete ones that have been placed on your computer.
 
+If you do not want us to use cookies, you may disable their use in your browser. However, if you do so then please note that you may not be able to use all the features on our website.
 
+##  Disclosure and sharing of your information
 
-If you are under 18, you may use our site only with consent from a parent or guardian.
+###  10\. Information we obtain from third parties
 
-  19. Disclosure to Government
+Although we do not disclose your personal information to any third party (except as set out in this notice), we sometimes receive data that is indirectly made up from your personal information from third parties whose services we use.
 
+No such information is personally identifiable to you.
 
+###  11\. Credit reference
 
-Disclosure to Government and their agencies. We are subject to the law like everyone else. We may be required to give information to legal authorities if they so request or if they have the proper authorisation such as a search warrant or court order.
+To assist in combating fraud, we share information with credit reference agencies, so far as it relates to clients or customers who instruct their credit card issuer to cancel payment to us without having first provided an acceptable reason to us and given us the opportunity to refund their money.
 
-  20. At any time you may review or update
+###  12\. Data may be processed outside the European Union
 
+Our websites are hosted in UK
 
+We may also use outsourced services in countries outside the European Union from time to time in other aspects of our business.
 
-At any time you may review or update the personally identifiable information that we hold about you, by contacting us at the email address below. To better safeguard your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information.
+Accordingly data obtained within the UK or any other country could be processed outside the European Union.
 
-  21. Sale of your personal information
+##  Access to your own information
 
+###  13\. Access to your personal information
 
+**13.1**    At any time you may review or update personally identifiable information that we hold about you, by signing in to your account on our website.
 
-Except as specified above, we do not rent, sell or otherwise disclose any of your information to any person outside our business.
+**13.2**    To obtain a copy of any information that is not provided on our website you may send us a request at [support@netlawman.co.uk](mailto:support@netlawman.co.uk)
 
-  22. Data may be "processed" outside the United Kingdom
+**13.3**    After receiving the request, we will tell you when we expect to provide you with the information, and whether we require any fee for providing it to you.
 
+###  14\. Removal of your information
 
+If you wish us to remove personally identifiable information from our website, you may contact us at [support@netlawman.co.uk](mailto:support@netlawman.co.uk).
 
-Our web sites are hosted in UK. We also use outsourced services in countries outside the EU from time to time in other aspects of our business. Accordingly data obtained within the UK may be “processed” outside the UK and data obtained in any other country may be processed within or outside that country.
+This may limit the service we can provide to you.
 
-  23. Compliance with the law
+###  15\. Verification of your information
 
+When we receive any request to access, edit or delete personal identifiable information we shall first take reasonable steps to verify your identity before granting you access or otherwise taking any action. This is important to safeguard your information.
 
+##  Other matters
 
-This confidentiality policy has been compiled so as to comply with the law of every jurisdiction in which we aim to do business. If you think it fails to satisfy the law of your country, we should like to hear from you, but ultimately it is your choice as to whether you wish to use our website.
+###  16\. Use of site by children
 
-  24. Removal of your information
+**16.1**    We do not sell products or provide services for purchase by children, nor do we market to children.
 
+**16.2**    If you are under 18, you may use our website only with consent from a parent or guardian
 
+###  17\. How you can complain
 
-If you wish us to remove personally identifiable information from our web site, you may contact us at [support@netlawman.co.uk](mailto:support@netlawman.co.uk) to better safeguard your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information.
+**17.1**    If you are not happy with our privacy policy or if you have any complaint then you should tell us by email. Our address is [support@netlawman.co.uk](mailto:support@netlawman.co.uk).
 
-If you have any question regarding the privacy policy, please [contact us](https://www.netlawman.co.uk/contact)
+**17.2**    If a dispute is not settled then we hope you will agree to attempt to resolve it by engaging in good faith with us in a process of mediation or arbitration.
 
-Now [take me back](https://www.netlawman.co.uk/ia/limits-ndas) where I was before reading this.
+**17.3**    If you are in any way dissatisfied about how we process your personal information, you have a right to lodge a complaint with the Information Commissioner's Office. This can be done at <https://ico.org.uk/make-a-complaint/>
+
+###  18\. Retention period for personal data
+
+Except as otherwise mentioned in this privacy notice, we keep your personal information only for as long as required by us:
+
+**18.1**    to provide you with the services you have requested;
+
+**18.2**    to comply with other law, including for the period demanded by our tax authorities;
+
+**18.3**    to support a claim or defence in court.    
+
+###  19\. Compliance with the law
+
+Our privacy policy has been compiled so as to comply with the law of every country or legal jurisdiction in which we aim to do business. If you think it fails to satisfy the law of your jurisdiction, we should like to hear from you.
+
+However, ultimately it is your choice as to whether you wish to use our website.
+
+###  20\. Review of this privacy policy
+
+We may update this privacy notice from time to time as necessary. The terms that apply to you are those posted here on our website on the day you use our website. We advise you to print a copy for your records.
+
+If you have any question regarding our privacy policy, please [contact us](https://www.netlawman.co.uk/contact).
