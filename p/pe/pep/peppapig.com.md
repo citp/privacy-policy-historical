@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peppapig.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529125318id_/http%3A//www.peppapig.com/grown-ups/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peppapig.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010195315id_/http%3A//www.peppapig.com/grown-ups/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Peppa Pig
 
@@ -10,7 +10,7 @@
 
 ## PRIVACY POLICY FOR PEPPA PIG® ONLINE SERVICES
 
-Last modified and effective as of 25 November, 2016
+Last modified and effective as of 13 July 2018.
 
 Welcome to the Peppa Pig® website (the “PJ Masks Site”), which is operated by Entertainment One UK Limited (“eOne,” “we” or “us”). We are committed to protecting your privacy.  This privacy policy explains our practices regarding collection, use, and disclosure of personally identifying information of yours and/or personally identifying information of your children (collectively, “your PII”) that you may provide to us through the Peppa Pig Site and/or Peppa Pig mobile applications (collectively, “Peppa Pig Online Service”).  It also provides you with details about your rights to control your PII. 
 
@@ -46,7 +46,7 @@ Through cookies and other online tracking methods, we may also collect anonymise
 
 ## The requirements of Data Protection Laws
 
-We regard the lawful and correct treatment of your/your children’s information by us as very important to our successful operation, and to maintaining confidence between us and our users. We ensure that our organisation treats information lawfully and correctly. To this end we fully endorse and adhere to UK data protection legislation and in particular to the 'Data Protection Principles' set out in the Data Protection Act 1998. In particular, without your consent or first amending this Privacy Policy to reflect any change in our usage of personal information:  
+We regard the lawful and correct treatment of your/your children’s information by us as very important to our successful operation, and to maintaining confidence between us and our users. We ensure that our organisation treats information lawfully and correctly. To this end we fully endorse and adhere to UK data protection legislation and in particular to the principles set out in the General Data Protection Regulation. In particular, without your consent or first amending this Privacy Policy to reflect any change in our usage of personal information:  
 •    we will not use your/your children’s information for any purpose that is incompatible with this Privacy Policy;  
 •    we will only collect sufficient information for the uses set out above;  
 •    we will endeavour to keep your/your children’s information up-to-date;  
@@ -64,7 +64,7 @@ The Peppa Pig Online Service may also use local shared objects, also known as f
 
 You can set your browser to accept all cookies, to reject cookies, or to notify you whenever a cookie is offered so that you can decide each time whether to accept it.  Rejecting a cookie, however, may preclude you from using, or may negatively affect the display or function of, the Peppa Pig  Online Service or certain areas or features of the PJ Masks Online Service.  
 
-To learn more about cookies, including how to enable cookies, change your browser settings and find and delete cookies on your hard drive, please refer to your web browser's help menus or visit http://ico.org.uk/for_the_public/topic_specific_guides/online/cookies. 
+To learn more about cookies, including how to enable cookies, change your browser settings and find and delete cookies on your hard drive, please refer to your web browser's help menus or visit <https://ico.org.uk/your-data-matters/online/cookies/>
 
 We may also use web beacons. A web beacon is an object that is embedded in a web page or email and is usually invisible to the user but allows checking that a user has viewed the page or email.
 
@@ -116,7 +116,7 @@ You have the right to opt out of any marketing communications that we (or any th
 If you are a California resident, you may have the right to ask us for the names of any information brokers or any other third parties with whom we have shared your PII within the previous calendar year under California Privacy law (Cal. Bus. & Prof. Code § 22575 et seq. (“Cal-OPPA”)), and we must provide that information to you within thirty (30) days.  Please note, however, that this right may not apply if we first give you the option to opt-out from any such sharing practices.      
 If you wish to exercise any of the above rights, please email us at:
 
-familyenquiries@entonegroup.com. 
+[eonefamilyprivacy@entonegroup.com](mailto:eonefamilyprivacy@entonegroup.com)
 
 ## How do we protect and maintain the integrity of your PII on the Peppa Pig Site?
 
@@ -126,13 +126,18 @@ We will retain your PII for the period necessary to fulfill the purposes outline
 
 The Peppa Pig ​Online Service may contain links or references to other websites or applications. Please be aware that we do not control such other websites/applications and that, in any case, this privacy policy does not apply to those websites/applications. We encourage you to read the privacy policy of every website or application you visit.
 
-This website is a member in the kidSAFE Seal Program. This means that the website has been independently reviewed, certified, and/or listed by kidSAFE to meet certain standard of online safety and/or privacy, and is authorized to display the kidSAFE Seal shown. For more information visit: http://www.kidsafeseal.com/certifiedproducts/eone_pjmasks.html.
+This website is a member in the kidSAFE Seal Program. This means that the website has been independently reviewed, certified, and/or listed by kidSAFE to meet certain standard of online safety and/or privacy, and is authorized to display the kidSAFE Seal shown. For more information visit: <https://www.kidsafeseal.com/certifiedproducts/eone_peppapig.html>
 
 ## Whom should I contact if I have any questions about this privacy policy? 
 
 If you have any questions regarding this privacy policy, please email us at:
 
-familyenquiries@entonegroup.com.  
+[eonefamilyprivacy@entonegroup.com](mailto:eonefamilyprivacy@entonegroup.com)
+
+ Please note, the email address above is for privacy related queries only. For other queries please use the following email addresses:
+
+ For any technical issues:         [support@peppapig.com](mailto:support@peppapig.com)  
+For any general queries:         [familyenquiries@entonegroup.com](mailto:familyenquiries@entonegroup.com)
 
 Alternatively, you can contact us in writing or by phone via the details below: 
 
