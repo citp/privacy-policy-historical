@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsquench.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108025932id_/http%3A//newsquench.com/site.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsquench.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011042746id_/https%3A//www.newsquench.com/site.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # NewsQuench | Privacy
 
@@ -18,47 +18,52 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-[](https://web.archive.org/article.php?n=u-s-pursues-direct-talks-with-north-korea-despite-trump&id=132810)   
-[U.S. pursues direct talks with North Korea, despite Trump](https://web.archive.org/article.php?n=u-s-pursues-direct-talks-with-north-korea-despite-trump&id=132810)   
+[](https://newsquench.com/article.php?n=trump-nixes-pay-raise-for-federal-workers-citing-budget-deficit&id=164760)   
+[Trump nixes pay raise for federal workers, citing budget deficit](https://newsquench.com/article.php?n=trump-nixes-pay-raise-for-federal-workers-citing-budget-deficit&id=164760)   
   
-The talks aim to rein in North Korea's weapons programs, secure the release of U.S. prisoners held in North Korea, and more generally improve bilateral relations, Time will tell if they make progress on any of these objectives, however. 
+President Trump wrote in a letter to Congressional leaders Thursday that he is cancelling annual pay raises for federal employees in light of surging federal deficits.
 
-[](https://web.archive.org/article.php?n=climate-change-is-harming-human-health&id=132790)   
-[Climate change is harming human health](https://web.archive.org/article.php?n=climate-change-is-harming-human-health&id=132790)   
-Harry Marcolis - Nov 02, 2017   
-A new report shows that climate change is triggering deadly events that are harming millions of people across the globe.
+[](https://newsquench.com/article.php?n=trump-dismisses-need-for-u-s-south-korean-military-exercises&id=164718)   
+[Trump dismisses need for U.S.-South Korean military exercises](https://newsquench.com/article.php?n=trump-dismisses-need-for-u-s-south-korean-military-exercises&id=164718)   
+Rick Docksai - Aug 31, 2018   
+Less than a day after his defense secretary said U.S.-South Korean military exercises might resume, President Trump said there is no need for them as his relationship with North Korea's Kim Jong Un is "good" and "warm."
 
-[](https://web.archive.org/article.php?n=filipino-strongman-duterte-says-trump-needs-to-tone-down-north-korea-talk&id=132798)   
-[Filipino strongman Duterte says Trump needs to "tone down" North Korea talk](https://web.archive.org/article.php?n=filipino-strongman-duterte-says-trump-needs-to-tone-down-north-korea-talk&id=132798)   
-Joyce Clark - Nov 02, 2017   
-Philippine President Rodrigo Duterte is not known for mincing words, but he said that President Trump needs to stop threatening North Korea. Duterte will talk North Korea strategy with Trump and other regional leaders in the coming month.
+[](https://newsquench.com/article.php?n=immigration-officials-extend-freeze-on-fast-tracked-h-1b-visas&id=164716)   
+[Immigration officials extend freeze on fast-tracked H-1B visas](https://newsquench.com/article.php?n=immigration-officials-extend-freeze-on-fast-tracked-h-1b-visas&id=164716)   
+Rick Docksai - Aug 31, 2018   
+Immigration officials said that, due to a massive backlog of H-1B visa applications, they will suspend expedited approval of any new applications until February of next year.
 
-[](https://web.archive.org/article.php?n=chinese-test-death-zone-spy-drones-that-are-nearly-invisible-to-radar&id=132784)   
-[Chinese test "death zone" spy drones that are nearly invisible to radar](https://web.archive.org/article.php?n=chinese-test-death-zone-spy-drones-that-are-nearly-invisible-to-radar&id=132784)   
-Vicky Webb - Nov 02, 2017   
-China is testing new bat-sized spy drones that cost less than $200 per drone, are almost invisible to radar, and fly as high as 12 miles above sea level. This altitude puts them in near space, high enough to evade the anti-aircraft fire that can shoot down other drones.
+[](https://newsquench.com/article.php?n=astronauts-will-launch-into-space-from-u-s-soil-next-year-says-nasa&id=164312)   
+[Astronauts will launch into space from U.S. soil next year, says NASA](https://newsquench.com/article.php?n=astronauts-will-launch-into-space-from-u-s-soil-next-year-says-nasa&id=164312)   
+Rick Docksai - Aug 28, 2018   
+NASA Administrator told reporters that his agency "without question" will be launching crewed missions from Cape Canaveral to the International Space Station by the middle of next year. 
 
-[](https://web.archive.org/article.php?n=mexico-tourism-plummets-in-the-face-of-cartel-violence&id=132786)   
-[Mexico tourism plummets in the face of cartel violence](https://web.archive.org/article.php?n=mexico-tourism-plummets-in-the-face-of-cartel-violence&id=132786)   
-Paul Pate - Nov 02, 2017   
-Mexican tourism has suffered a big drop this year, and the cause appears to be rising cartel violence. Homicides, kidnappings, and other violent incidents at popular tourist destinations are causing many would-be visitors to stay away.
+[](https://newsquench.com/article.php?n=alcohol-consumption-at-any-level-is-hazardous-researchers-warn&id=164288)   
+[Alcohol consumption at any level is hazardous, researchers warn](https://newsquench.com/article.php?n=alcohol-consumption-at-any-level-is-hazardous-researchers-warn&id=164288)   
+Rick Docksai - Aug 28, 2018   
+You may have heard that a little wine is good for the heart, but a new analysis of hundreds of earlier studies finds that alcohol consumption at any level seems to do more harm than good.
 
-[](https://web.archive.org/article.php?n=trump-plan-to-subsidize-coal-and-nuclear-plants-will-cost-10-6-billion-a-year&id=132792)   
-[Trump plan to subsidize coal and nuclear plants will cost $10.6 billion a year](https://web.archive.org/article.php?n=trump-plan-to-subsidize-coal-and-nuclear-plants-will-cost-10-6-billion-a-year&id=132792)   
-Mark Schwartz - Nov 02, 2017   
-The Trump administration has issued a plan to subsidize coal and nuclear plants that store fuel on-site. An independent report found that the plan would cost $10.6 billion a year and would prop up facilities that would go out of business due to falling market demand.
+[](https://newsquench.com/article.php?n=michael-cohens-attorney-says-he-has-proof-trump-committed-a-crime&id=163908)   
+[Michael Cohen's attorney says he has "proof" Trump committed a crime](https://newsquench.com/article.php?n=michael-cohens-attorney-says-he-has-proof-trump-committed-a-crime&id=163908)   
+Rick Docksai - Aug 23, 2018   
+President Trump had a direct hand in the hush-money payments that Michael Cohen arranged to Stormy Daniels and Karen McDougal, and it is provable, said Cohen's attorney, Lanny Davis, which means that Trump himself is directly implicated in committing a crime. 
 
-[](https://web.archive.org/article.php?n=netflix-will-end-house-of-cards-early&id=132772)   
-[Netflix will end House of Cards early](https://web.archive.org/article.php?n=netflix-will-end-house-of-cards-early&id=132772)   
-Linda Mack - Nov 01, 2017   
-Within 24 hours of Kevin Spacey's admission to trying to pressure a 14-year-old boy to have sex with him in 1986, Netflix announced that it will not extend House of Cards past the upcoming sixth season. 
+[](https://newsquench.com/article.php?n=dnc-informs-fbi-of-new-cyber-attack-of-voter-database&id=163936)   
+[DNC informs FBI of new cyber-attack of voter database](https://newsquench.com/article.php?n=dnc-informs-fbi-of-new-cyber-attack-of-voter-database&id=163936)   
+Rick Docksai - Aug 23, 2018   
+The Democratic National Committee told the FBI on Wednesday that hackers have just attempted another attack on its voter database much like the one in 2016.
 
-[](https://web.archive.org/article.php?n=united-states-pledges-60-million-for-new-african-security-force&id=132768)   
-[United States pledges $60 million for new African security force](https://web.archive.org/article.php?n=united-states-pledges-60-million-for-new-african-security-force&id=132768)   
-Mae Owen - Nov 01, 2017   
-A new multi-nation African military force gearing up to combat human trafficking and terrorism in Africa will get $60 million from the United States for its first year, U.S. Secretary of State Rex Tillerson said Monday. 
+[](https://newsquench.com/article.php?n=deported-mauritanians-are-in-danger-of-slavery-torture-and-murder&id=163596)   
+[Deported Mauritanians are in danger of slavery, torture, and murder](https://newsquench.com/article.php?n=deported-mauritanians-are-in-danger-of-slavery-torture-and-murder&id=163596)   
+Rick Docksai - Aug 21, 2018   
+The Trump administration's deportation of dozens of Mauritanian nationals is drawing criticism from Amnesty International, which warned in a statement that the deportees will be at risk of grave human-rights abuses in their home country.
 
-[](https://web.archive.org/article.php?n=auroras-at-jupiters-poles-act-independently&id=132764)   
-[Auroras at Jupiter's poles act independently](https://web.archive.org/article.php?n=auroras-at-jupiters-poles-act-independently&id=132764)   
-Laurel Kornfeld - Nov 01, 2017   
-Researchers take advantage of rare opportunity to observe polar regions through Juno mission and space telescopes.
+[](https://newsquench.com/article.php?n=chinas-giant-panda-population-is-on-the-rebound&id=163478)   
+[China's giant panda population is on the rebound](https://newsquench.com/article.php?n=chinas-giant-panda-population-is-on-the-rebound&id=163478)   
+Rick Docksai - Aug 21, 2018   
+After decades of population decline, China's giant pandas are on the rise again, thanks in large part to Chinese species-conservation efforts, Chinese media reported last week.
+
+[](https://newsquench.com/article.php?n=rising-sea-levels-could-sink-internet-access-for-millions-of-users&id=163414)   
+[Rising sea levels could sink Internet access for millions of users](https://newsquench.com/article.php?n=rising-sea-levels-could-sink-internet-access-for-millions-of-users&id=163414)   
+Rick Docksai - Aug 20, 2018   
+If current forecasts of rising sea levels come true, seawater will submerge thousands of miles of Internet cables and sabotage Internet access for users everywhere, a report warns.
