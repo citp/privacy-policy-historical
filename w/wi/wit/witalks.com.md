@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the witalks.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618202815id_/http%3A//www.witalks.com/apps/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the witalks.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012000553id_/http%3A//witalks.com/apps/privacy-policy) for the most accurate reproduction.*
 
 # facebook fun Apps | Regional facebook celebrity apps
 
