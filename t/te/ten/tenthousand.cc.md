@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tenthousand.cc privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707002949id_/https%3A//www.tenthousand.cc/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenthousand.cc privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012003354id_/https%3A//www.tenthousand.cc/pages/privacy) for the most accurate reproduction.*
 
 # Privacy / Ten Thousand
 
