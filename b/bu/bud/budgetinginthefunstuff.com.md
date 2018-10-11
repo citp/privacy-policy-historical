@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the budgetinginthefunstuff.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610015243id_/http%3A//www.budgetinginthefunstuff.com/quick-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetinginthefunstuff.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012004947id_/http%3A//www.budgetinginthefunstuff.com/quick-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Budgeting In the Fun Stuff
-
-This post may contain affiliate links. 
 
 **Personal Information Collected on this Website**  
 No personally-identifiable information is collected on this website from persons that browse our website. The only personally-identifiable information collected on this website is gathered in our comment area, where fields are provided so that you can provide your name and email address to leave a comment. We collect this information so that we can respond to the comments or questions that you post.
