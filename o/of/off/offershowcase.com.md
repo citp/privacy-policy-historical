@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the offershowcase.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919064058id_/http%3A//www.offershowcase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offershowcase.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012001935id_/http%3A//www.offershowcase.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OfferShowcase.com
+
+**Our Privacy Policy (dated 23.5.2018)**
+
+We are committed to ensuring that your privacy is protected.
+
+This is our privacy policy (dated 23.5.2018). Our services and information provided, and therefore this policy are aimed at people aged over the age of 18.
+
+**The information you need to know about us:**
+
+We are called “Offer Showcase”, doing business as OfferShowcase.com.
 
 We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. By visiting us, you are accepting the privacy policy described below:
 
