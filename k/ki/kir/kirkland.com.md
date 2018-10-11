@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kirkland.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703151552id_/https%3A//www.kirkland.com/sitecontent.cfm%3Fcontentid%3D322) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirkland.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011212317id_/https%3A//www.kirkland.com/sitecontent.cfm%3Fcontentid%3D322) for the most accurate reproduction.*
 
 # Kirkland & Ellis LLP > Privacy Policy
 
@@ -6,28 +6,27 @@
 
 **1                      Introduction**
 
-Kirkland & Ellis LLP, Kirkland & Ellis International LLP, Kirkland & Ellis (Hong Kong), (together " **Kirkland** ", " **we** " or " **us** ") provides this Privacy Policy to inform users about our policies and procedures regarding the collection, use, security, and disclosure of personal data received from users of our website found at [www.kirkland.com](http://www.kirkland.com/) (" **our website** "). We are committed to ensuring that we process your personal data in accordance with applicable data protection legislation. Please keep in mind that your use of our website means that you accept and agree to our Privacy Policy. Please do not use our website if you do not accept our Privacy Policy. This Privacy Policy may be updated from time to time by Kirkland by posting an updated version of the Privacy Policy to our website. In addition, our website makes use of cookies as described in further detail below.
+Kirkland & Ellis LLP, Kirkland & Ellis International LLP, Kirkland & Ellis (Hong Kong), (together "Kirkland", "we" or "us") provides this Privacy Policy to inform users about our policies and procedures regarding the collection, use, security, and disclosure of personal data received from users of our website found at www.kirkland.com ("our website"). We are committed to ensuring that we process your personal data in accordance with applicable data protection legislation. Please keep in mind that your use of our website means that you accept and agree to our Privacy Policy. Please do not use our website if you do not accept our Privacy Policy. Kirkland may from time to time update this Privacy Policy by posting an updated version of the Privacy Policy to our website. In addition, our website makes use of cookies as described in further detail below.
 
 **2                      ****Information collected**
 
 We may collect the following personal data when you visit our website:
 
-> (a) Personal data provided when you complete forms available on our website;
+> (a) Personal data you provide when you complete forms available on our website;
 
-  
-
+ 
 
 > (b) Personal data you provide when you contact us;
 
-  
+ 
 
+> (c) Personal data relating to: (i) your application for employment at Kirkland, (ii) our Diversity Fellowship; (iii) your attendance at a Kirkland event; and/or (iv) the Kirkland & Ellis LLP Alumni Network; and/or
 
-> (c) Personal data relating to: (i) your application for employment at Kirkland, (ii) our Diversity Fellowship; (iii) your attendance at a Kirkland event; and/or (iv) the Kirkland & Ellis LLP Alumni Network;
+ 
 
-  
+> (d) Details of visits to our website, including the volume of traffic received, logs and the resources that you have accessed.
 
-
-> (d) Details of visits to our website, including the volume of traffic received, logs and the resources which have been accessed.
+ 
 
 **3                      How we use your information**
 
@@ -35,33 +34,33 @@ We use information you provide to better understand your needs and provide you w
 
 **4                      Transfer of personal data **
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA").  By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Website Privacy Policy and in accordance with applicable data protection legislation.
 
 **5                      Changing or Deleting Information**
 
-Members of the Kirkland & Ellis LLP Alumni Network may change or delete the information they provide us by logging into the alumni extranet through the [www.kirkland.com](http://www.kirkland.com/) homepage and selecting "Update My Profile." Job applicants may change or delete their personal information by logging into the firm's online application system and choosing "My Profile."
+Members of the Kirkland & Ellis LLP Alumni Network may change or delete the information they previously provided to us by logging into the alumni extranet through the www.kirkland.com homepage and selecting "Update My Profile." Job applicants may change or delete their personal information by logging into the firm's online application system and choosing "My Profile."
 
 **6                      Links to other sites**
 
-We may provide links to other websites for your information or convenience. Such websites are independently operated and not under our control. We are not responsible for the content of these websites or any products or services offered through them. 
+We may provide links to other websites for your information or convenience. Such websites are independently operated and not under our control. We are not responsible for the content of these websites or any products or services offered through them or with respect to any personal data that you provide to such websites.
 
 **7                      Your rights**
 
-European data protection legislation gives individuals the right to access and amend their personal data. If you would like to request a copy of your personal data or would like to amend the information that we hold about you, please contact Head of Compliance, International.
+European data protection legislation gives individuals the right to access and amend their personal data as well as have it erased. If you would like to request a copy of your personal data or would like to amend the information that we have about you, please contact Head of Compliance, International.
 
 **8                      Cookies**
 
-We use cookies to track user preferences. A cookie is a small data file that certain websites write to your hard drive when you visit them. If you prefer not to receive cookies through our website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. Cookies are required to select text size preferences within our website.
+We use cookies to track user preferences. A cookie is a small data file that certain websites write to your hard drive when you visit those websites. If you prefer not to receive cookies through our website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. Cookies are required to select text size preferences within our website.
 
-Further, this site uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies" to help the site analyze how users use the site. The information generated by the cookie about your use of the site (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the site, compiling reports on site activity for site operators and providing other services relating to site activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this site. By using this site, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+Further, this site uses Google Analytics, a web analytics service provided by Google, Inc. ("Google").  Google Analytics uses "cookies" to help the site analyze how users use the site. The information generated by the cookies about your use of the site (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the site, compiling reports on site activity for site operators and providing other services relating to site activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this, you may not be able to use the full functionality of this site. By using this site, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
 **9                      Choice**
 
-We will not use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without first letting you know and offering you a choice. As previously stated, we will also provide you the opportunity to let us know if you do not wish to receive unsolicited direct marketing materials from us. Your permission is always secured first should we ever share your information with third parties that are not acting on our behalf or governed by our Privacy Policy.
+We will not use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without first letting you know. As previously stated, we will also provide you the opportunity to let us know if you do not wish to receive unsolicited direct marketing materials from us. We will also obtain your permission before sharing your information with third parties that are not acting on our behalf or governed by our Privacy Policy.
 
 **10                  Our commitment to data security**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, the Firm uses commercially appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Unfortunately, the transmission of information via the Internet is not completely secure. However, we have put in place various security procedures as set out in this policy. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
+To prevent unauthorized access, maintain data accuracy and ensure the permitted use of information, the Firm uses commercially appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Unfortunately, the transmission of information via the Internet is not completely secure. However, we have put in place various security procedures as set out in this policy. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
 
 **11                  Our commitment to children's privacy**
 
@@ -69,6 +68,6 @@ We do not seek to collect or maintain information on our website from those we k
 
 **12                  Contact**
 
-If you have questions about this Privacy Policy, please contact the Head of Compliance, International at the London office of Kirkland & Ellis International LLP.
+If you have questions about this Website Privacy Policy, please contact the Head of Compliance, International at the London office of Kirkland & Ellis International LLP.
 
-Updated: December 18, 2013
+Updated: May, 2018
