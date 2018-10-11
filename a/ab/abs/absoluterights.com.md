@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absoluterights.com privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009075315id_/https%3A//absoluterights.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absoluterights.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011205942id_/https%3A//absoluterights.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Absolute Rights
 
@@ -105,5 +105,3 @@ From time to time, Absolute Rights will enter into an arrangement with a third p
 
 
 We hope this information satisfies any questions or concerns you may have regarding the email practices of Absolute Rights. If you have additional questions or wish to discuss this matter further, please contact us at: supportATabsoluterightsDOTcom (Please replace “AT” with @ and “DOT” with .)
-
-Likes(0)Dislikes(0)
