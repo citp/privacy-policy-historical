@@ -1,43 +1,62 @@
-> *The following text is extracted and transformed from the sky-tours.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231080816id_/http%3A//www.sky-tours.com/en/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sky-tours.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012014703id_/http%3A//www.sky-tours.com/en/privacy.htm) for the most accurate reproduction.*
 
-# Privacy | Sky-tours | Sky-tours.com United States
+# Privacy Policy | Sky-tours | Sky-tours.com United States
 
-#### We are committed to protecting your privacy while you visit our Site.
+This privacy policy sets out how we use and protects any information that you give Big Sky Grup S.A.  d/b/a/  Sky-tours when you use this website.
 
-#### The Information Collected
+Sky-tours is committed to ensuring that your privacy is well protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-You may visit our Site or call our Travel Professionals to search for travel deals without providing us with any information.
+Sky-tours  may change this policy by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
-#### Sign-Up Information
+This policy is effective from 25.May 2018.
 
-You have the opportunity to receive our special travel offers via e-mail. When you sign up for this service, you will be asked to provide us with your e-mail address. By submitting your email address from the Sky-tours.com website, you agree to give us permission to send you emails regarding travel updates, newsletters or information that we want to inform you about. We reserve the right to deny you this service. Sky-tours may offer mailing lists as part of its Service. You agree that you are legally an adult (according to the laws by which you are governed) before subscribing to any of Sky-tours mailing lists. You agree not to post copyrighted or illegal content on any of Sky-tours\'s lists. You agree that any and all posts made on any Sky-tours list become property of Sky-tours. Sky-tours does not vouch for the accuracy, correctness, legality or any other aspect of any posting made on any Sky-tours mailing lists.
+What we collect?  
 
-To subscribe or unsubscribe to our e-mails, you can visit our web site and change info in the "sign-up" box at any time. Also, you may unsubscribe to our e-mails where indicated on our e-mails.
 
-#### What We Won\'t Do With Personal Information?
+We may collect the following information:
 
-We will not sell or rent your personal information to any third parties.
+We require only information to make your booking/reservation with the airlines and/or service providers and we may contact you by  phone or email.
 
-#### Other, Non-Personal Information Collected
+Security  
 
-Like many other Internet sites, we automatically collect non-personal information regarding our visitors, such as software client information (for example, IP addresses, browser versions and operating systems) and aggregate information (for example, number of pages accessed) in order to analyze Web traffic and usage trends. Information of this nature does not pertain to your specific identity and is not associated with your personal information.
 
-To enhance your experience on our Site, we and our third-party advertiser(s) commonly employ Internet technologies, such as "cookies," to collect and store non-personal information about our visitors. "Cookies" are small pieces of information that are transferred by a website and stored by your Web browser on your computer\'s hard drive. With most browsers, you can set the preferences to show a warning each time a cookie request is received. You can also set the browser not to accept cookies at all; however, we won\'t be able to personalize your experience if we cannot recognize you.
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-Cookies and Web beacons (also called "pixel tags") may be used by us or our third-party advertiser(s) to determine how you reached our Site, to track your usage patterns once you are on our Site, and to target our Internet banner advertisements on our Site and other websites.
+How we use cookies?
 
-#### What Is Not Covered By This Privacy?
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
-Policy Except as covered above, this Privacy Policy does not apply to the practices or policies of any companies or entities that we do not own or control, including links to sites that are not maintained by us, or to people that we do not employ or manage. Because these companies or entities may have privacy policies that differ from this Privacy Policy (or no privacy policy at all), please be sure to review their respective privacy policies before providing them with any personal information.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
 
-#### Questions, Comments or Concerns
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
 
-If you have additional questions or concerns regarding our Privacy Policy, our Customer Support Center is happy to answer.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-#### Privacy Policy Updates
+For  any further information about Cookies please check our Cookies Policy.  
 
-We may, in our sole discretion, revise this Privacy Policy at any time; all such revisions shall be effective when posted. If we change the way your personal information will be used, we will post an announcement on our homepage. We encourage you to periodically review this Privacy Policy in order to keep apprised of our current privacy practices.
 
-#### PRIVACY
+Links to other websites  
 
-You have read our Terms of Use, the terms of which are incorporated herein, and agree to such terms.
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.  
+
+
+Controlling your personal information  
+
+
+You may choose to restrict the collection or use of your personal information in the following ways:  
+
+
+  * Whenever you are asked to fill in a form on the website, we show you what's mandatory and needed to proceed with your booking/reservation other information is voluntary and can be omitted.  
+
+  * We keep your information in a safe and encrypted database and if no longer needed we will delete information unless you have agreed that we may use your personal information for marketing purposes to better serve you.  
+
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at customersupport@sky-tours.com.
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee  (EUR 15.00) will be payable. If you would like a copy of the information held on you please write to customersupport@sky-tours.com.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
