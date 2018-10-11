@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christmaslightsetc.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627024316id_/https%3A//www.christmaslightsetc.com/support.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christmaslightsetc.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011025424id_/https%3A//www.christmaslightsetc.com/support.asp) for the most accurate reproduction.*
 
 # Support
 
