@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowescape.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605021522id_/http%3A//www.wowescape.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowescape.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011213121id_/http%3A//www.wowescape.com/privacy-policy) for the most accurate reproduction.*
 
 # wowescape-our privacy and policy of this website
 
