@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vervante.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612135533id_/http%3A//store.vervante.com/c/affil/privacy.html%3Fnxb%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vervante.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012003706id_/http%3A//store.vervante.com/c/affil/privacy.html%3Fnxb%3D1) for the most accurate reproduction.*
 
 # Privacy Policy
 
