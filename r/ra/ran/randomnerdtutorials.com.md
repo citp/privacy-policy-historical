@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the randomnerdtutorials.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003836id_/http%3A//randomnerdtutorials.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randomnerdtutorials.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012003349id_/https%3A//randomnerdtutorials.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Random Nerd Tutorials
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context.
+
+Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
 **What personal information do we collect from the people that visit our blog, website or app?**
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience. You can [fill this form](https://randomnerdtutorials.com/remove-edit-me-from-database/) to be removed from our database.
 
 **When do we collect information?**
 
@@ -16,19 +18,16 @@ We collect information from you when you register on our site, place an order, f
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-**•** To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To allow us to better service you in responding to your customer service requests.
+  * To quickly process your transactions.
+  * To send periodic emails regarding your order or other products and services.
 
-**•** To allow us to better service you in responding to your customer service requests.
 
-**•** To quickly process your transactions.
-
-**•** To send periodic emails regarding your order or other products and services.
 
 **How do we protect visitor information?**
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
-
-We use regular Malware Scanning.
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible. We use regular Malware Scanning.
 
 Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
@@ -40,15 +39,25 @@ All transactions are processed through a gateway provider and are not stored or 
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-**We use cookies to:**
-
-**•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+**We use cookies to:** compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
-If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.
+If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly. However, you can still place orders.
 
-However, you can still place orders .
+**Your Rights**
+
+If you are located in certain countries, including those that fall under the scope of the European General Data Protection Regulation (AKA the “GDPR”), data protection laws give you rights with respect to your personal data, subject to any exemptions provided by the law, including the rights to:
+
+  * [Request access](https://randomnerdtutorials.com/support/) to your personal data;
+  * Request correction or deletion of your personal data;
+  * Object to our use and processing of your personal data;
+  * Request that we limit our use and processing of your personal data;
+  * Request portability of your personal data.
+
+
+
+You can access and correct your personal data [using this form](https://randomnerdtutorials.com/support/). And you can have all your personal data deleted by [filling this form](https://randomnerdtutorials.com/remove-edit-me-from-database/).
 
 **Third Party Disclosure**
 
@@ -64,18 +73,15 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
-We use Google AdSense Advertising on our website.
+We might use Google AdSense Advertising on our website.
 
 Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-**We have implemented the following:**
-
-**•** Google Display Network Impression Reporting
+**We have implemented the following:** Google Display Network Impression Reporting
 
 We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
 
-_Opting out:  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on._
+_**Opting out:** Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on._
 
 **California Online Privacy Protection Act**
 
@@ -83,19 +89,13 @@ CalOPPA is the first state law in the nation to require commercial websites and 
 
 **According to CalOPPA we agree to the following:**
 
-Users can visit our site anonymously
+  * Users can visit our site anonymously
+  * Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+  * Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
+  * Users will be notified of any privacy policy changes: Via Email
+  * Users are able to change their personal information: By emailing us
 
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
 
-Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
-
-Users will be notified of any privacy policy changes:
-
-**•** Via Email
-
-Users are able to change their personal information:
-
-**•** By emailing us
 
 **How does our site handle do not track signals?**
 
@@ -117,9 +117,7 @@ The Fair Information Practices Principles form the backbone of privacy law in th
 
 **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
 
-We will notify the users via email
-
-**•** Within 1 business day
+We will notify the users via email within 1 business day
 
 We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
 
@@ -127,13 +125,17 @@ We also agree to the individual redress principle, which requires that individua
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
-**We collect your email address in order to:**
+**We collect your email address in order to:  To be in accordance with CANSPAM we agree to the following:**
 
-**To be in accordance with CANSPAM we agree to the following:**
+**If at any time you would like to unsubscribe from receiving future emails, you can email us at** and we will promptly remove you from **ALL** correspondence.
 
-**  
-If at any time you would like to unsubscribe from receiving future emails, you can email us at**
-
-and we will promptly remove you from **ALL** correspondence.
+## Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
+
+RandomNerdTutorials.com  
+Rua De Cabanas No600, Jovim  
+Gondomar, Porto 4510-023  
+Portugal  
+support@randomnerdtutorials.com  
+Last Edited on 2018-05-17
