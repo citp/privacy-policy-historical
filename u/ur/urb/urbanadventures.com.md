@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the urbanadventures.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003062253id_/http%3A//www.urbanadventures.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanadventures.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011065630id_/https%3A//www.urbanadventures.com/privacy-statement) for the most accurate reproduction.*
 
 # Urban Adventures | Privacy Statement
 
 ### Privacy Policy
 
 At Intrepid Group, we understand that how we collect, use, disclose and protect your information is important to you.
+
+That’s why we’re committed to constantly updating our privacy policies and processes to ensure they are best practice and meet the standards of all relevant local legislation, including the General Data Protection Regulations (GDPR) which were recently introduced in the European Union.
+
+The Intrepid Group has a dedicated internal team to oversee the appropriate use of data across our global, multi-brand business.
+
+See below for our full Privacy Policy, and please feel free to contact our Privacy Officer with any questions: [privacy@intrepidgroup.travel](mailto:privacy@intrepidgroup.travel)
+
+\----------------
 
 This Privacy Policy sets out the types of personal information we receive and collect when you use our services, how we collect it, and what we do with it, as well as some of the steps we take to safeguard information. We have appointed a Privacy Officer to ensure that any personal information you provide to us will only be collected, used and disclosed in accordance with this Privacy Policy. We hope this will help you make an informed decision about sharing personal information with us. In all your dealings with us you must ensure that others you represent are aware of the content of our Privacy Policy and consent to your acting on their behalf.
 
