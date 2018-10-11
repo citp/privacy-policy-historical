@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the state.me.us privacy policy that was archived on 2018-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180627233019id_/http%3A//www.maine.gov/portal/policies/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the state.me.us privacy policy that was archived on 2018-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181011093009id_/https%3A//www.maine.gov/portal/policies/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us" dir="ltr" class="no-js"><!-- InstanceBegin template="/Templates/inside2017.dwt" codeOutsideHTMLIsLocked="false" --><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -86,9 +86,43 @@
 			<li><a href="/portal/help/index.html" class="help">Help</a></li>
 			<!-- put this code where you'd like your intranet link to appear -->
 
-                        
-                        
-                        
+                        <!--#set var="intranet" value="false" -->
+                        <!--#if expr="$HTTP_X_FORWARDED_FOR=/24\.39\.63\./" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/24\.39\.63\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED=/192\.168\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/192\.168\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/10\.[0-9]+\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/10\.[0-9]+\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/198\.182\.162\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/198\.182\.162\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/198\.182\.163\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/198\.182\.163\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/72\.12\.82\.97/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/72\.12\.82\.106/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/72\.12\.82\.97/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/72\.12\.82\.106/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/172\.21\.(128|129|130|131|132|133|134|135)\./" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/172\.21\.(128|129|130|131|132|133|134|135)\./" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#endif -->
+                        <!--#if expr="$intranet = true" -->
+                                <li class="intranet-flag"><a href="http://inet.state.me.us">Intranet</a></li>
+                        <!--#endif -->
 
 
 
@@ -123,9 +157,43 @@
 			<li class="nav-about"><a href="/portal/about_me/">About Maine</a></li>
 			 <!-- put this code where you'd like your intranet link to appear -->
                         
-                        
-                        
-                        
+                        <!--#set var="intranet" value="false" -->
+                        <!--#if expr="$HTTP_X_FORWARDED_FOR=/24\.39\.63\./" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/24\.39\.63\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED=/192\.168\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/192\.168\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/10\.[0-9]+\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/10\.[0-9]+\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/198\.182\.162\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/198\.182\.162\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/198\.182\.163\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/198\.182\.163\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/72\.12\.82\.97/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/72\.12\.82\.106/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/72\.12\.82\.97/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/72\.12\.82\.106/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/172\.21\.(128|129|130|131|132|133|134|135)\./" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/172\.21\.(128|129|130|131|132|133|134|135)\./" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#endif -->
+                        <!--#if expr="$intranet = true" -->
+                                <li class="nav-intranet"><a href="http://inet.state.me.us">Intranet</a></li>
+                        <!--#endif -->
 
 
 
@@ -289,12 +357,12 @@ function googleTranslateElementInit() {new google.translate.TranslateElement({pa
 <div id="carousel" class="es-carousel-wrapper">
 <div class="es-carousel">
 <ul>
-<li id="fimage"><a href="https://www.flickr.com/photos/65039623@N05/25603398417/"><img style="zIndex:4999" class="hovahpopovah" id="25603398417" title="Ogunquit Glow" data-who="Bud in Wells, Maine" src="https://farm5.staticflickr.com/4746/25603398417_6e524a0dc2_q.jpg"></a></li>
-<li id="fimage"><a href="https://www.flickr.com/photos/65039623@N05/38547270500/"><img style="zIndex:4999" class="hovahpopovah" id="38547270500" title="Trinity Church" data-who="Bud in Wells, Maine" src="https://farm5.staticflickr.com/4604/38547270500_7190491e0f_q.jpg"></a></li>
-<li id="fimage"><a href="https://www.flickr.com/photos/gwensylvester/27990573959/"><img style="zIndex:4999" class="hovahpopovah" id="27990573959" title="The same tree two days later" data-who="Gwen 's" src="https://farm5.staticflickr.com/4765/27990573959_ff9646a4be_q.jpg"></a></li>
-<li id="fimage"><a href="https://www.flickr.com/photos/89837144@N03/39847968444/"><img style="zIndex:4999" class="hovahpopovah" id="39847968444" title="C C Church in Lubec, Maine,USA==One from the end of the film era for me" data-who="JBPTrains2012" src="https://farm5.staticflickr.com/4618/39847968444_c49c145e19_q.jpg"></a></li>
-<li id="fimage"><a href="https://www.flickr.com/photos/jared-bailey/37413071511/"><img style="zIndex:4999" class="hovahpopovah" id="37413071511" title="Portage Lake Sunset Sept 2017" data-who="Jared_bailey's" src="https://farm5.staticflickr.com/4379/37413071511_2f1a1ed7ae_q.jpg"></a></li>
-<li id="fimage"><a href="https://www.flickr.com/photos/65039623@N05/36889983255/"><img style="zIndex:4999" class="hovahpopovah" id="36889983255" title="Day's End" data-who="Bud in Wells, Maine" src="https://farm5.staticflickr.com/4385/36889983255_c4b49bcaaa_q.jpg"></a></li>
+<li id="fimage"><a href="https://www.flickr.com/photos/65039623@N05/40610357191/"><img style="zIndex:4999" class="hovahpopovah" id="40610357191" title="Surf's Up in Kennebunk" data-who="Bud in Wells, Maine" src="https://farm5.staticflickr.com/4778/40610357191_f42baaec9c_q.jpg"></a></li>
+<li id="fimage"><a href="https://www.flickr.com/photos/127781658@N08/39296967961/"><img style="zIndex:4999" class="hovahpopovah" id="39296967961" title="Late afternoon light in Portland Maine today" data-who="bdnils" src="https://farm5.staticflickr.com/4682/39296967961_3b412a038e_q.jpg"></a></li>
+<li id="fimage"><a href="https://www.flickr.com/photos/65039623@N05/38117744385/"><img style="zIndex:4999" class="hovahpopovah" id="38117744385" title="Coastal Blue Hour" data-who="Bud in Wells, Maine" src="https://farm5.staticflickr.com/4739/38117744385_f68ed1cae3_q.jpg"></a></li>
+<li id="fimage"><a href="https://www.flickr.com/photos/grsmithimages/39972262914/"><img style="zIndex:4999" class="hovahpopovah" id="39972262914" title="Angry Waves" data-who="GR Smith" src="https://farm5.staticflickr.com/4789/39972262914_4550a6cbc3_q.jpg"></a></li>
+<li id="fimage"><a href="https://www.flickr.com/photos/65039623@N05/39524787232/"><img style="zIndex:4999" class="hovahpopovah" id="39524787232" title="Open Water" data-who="Bud in Wells, Maine" src="https://farm5.staticflickr.com/4686/39524787232_3141ddebe8_q.jpg"></a></li>
+<li id="fimage"><a href="https://www.flickr.com/photos/phildumond/24010458588/"><img style="zIndex:4999" class="hovahpopovah" id="24010458588" title="Swan Lake State Park, Maine" data-who="phildumond" src="https://farm5.staticflickr.com/4496/24010458588_4550aec096_q.jpg"></a></li>
 
 </ul>
 </div>
@@ -344,7 +412,7 @@ var usagov_sayt_url = "http://search.usa.gov/sayt?aid=2200&";
 <!--End Footer include-->
 </div>
 
-   <!-- Automatic GA insert -->  
+   <!-- Automatic GA insert w11 -->  
   <script type="text/javascript">
   
   var _gaq = _gaq || [];
