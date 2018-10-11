@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sydneyoperahouse.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002123051id_/https%3A//www.sydneyoperahouse.com/general/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydneyoperahouse.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011070935id_/https%3A//www.sydneyoperahouse.com/general/Privacy.html) for the most accurate reproduction.*
 
 # Privacy - Sydney Opera House
 
@@ -16,7 +16,7 @@ Sydney Opera House offers customers the ability to purchase tickets and make phi
 
 Sydney Opera House also provides an Insiders Membership programme, e-newsletters, conducts competitions and other promotional activities, and communicates with customers through various online and electronic media.
 
-These channels reflect the main methods through which Sydney Opera House may collect personal information about customers and prospective customers. We may also collect information about you at other times you engage with us (e.g. when you attend an event at Sydney Opera House or an event presented by us).
+These channels reflect the main methods through which Sydney Opera House may collect personal information about customers and prospective customers. We may also collect information about you at other times you engage with us (e.g. when you attend an event at Sydney Opera House or an event presented by us, visit our site, or use our services).
 
 Sydney Opera House may also collect information from third parties, for example from Organisations (refer to section 4 below) who take bookings for performances at Sydney Opera House.
 
@@ -47,7 +47,7 @@ When you visit a Sydney Opera House website, our web servers make a record of yo
 
 This provides us with information about how the website is used and navigated, including number of visits, and the frequency and duration of visits. We may combine this information with information you have already provided to us to help us understand more about your preferences and interests.
 
-If you use our WiFi service, we may also log your location and your MAC address. Please read to the WiFi terms and conditions provided before you access Sydney Opera House WiFi.
+If you use our WiFi service, we may collect your person information directly from you or from third parties you authorise to share information with us, including certain media agencies, publishers and partners such as Facebook, Google and Twitter. This information may include your name, email address, age, location and other information you have shared with these parties. We may also log the location and MAC address of the device you use to connect to the service. Please read the WiFi terms and conditions provided before you access Sydney Opera House WiFi.
 
 We may collect information about you from third parties authorised to act on your behalf. For example, if a parent, guardian, friend or associate purchases tickets for you.
 
@@ -110,7 +110,7 @@ Contact Information and other personal performance related information (such as 
 
 This enables the Event Related Parties to know who has attended the event. Event Related Parties may send you marketing or research material. Event Related Parties may be located overseas.
 
-We may also share with certain media agencies, publishers and partners such as Facebook, Google and Twitter, unique identifiers allocated to you. The unique identifier may be associated with information collected when you post information to us, call us, visit our websites or ticketing counters, use our approved agencies, use our apps, or email or fax us. This is so that we can together, provide you with customised content when you visit certain websites and so we can together provide other visitors to those websites with customised advertising.
+We may also share with certain media agencies, publishers and partners such as Facebook, Google and Twitter, unique identifiers allocated to you. The unique identifier may be associated with information collected when you post information to us, call us, visit our websites or ticketing counters, use our approved agencies, use our apps, refer to us on social media, or email or fax us. This is so that we can together, provide you with customised content when you visit certain websites and so we can together provide other visitors to those websites with customised advertising.
 
 If Sydney Opera House provides your personal performance related information to the Event Related Parties, agencies, publishers or partners, these entities are responsible for complying with applicable laws governing how personal information is to be handled.
 
@@ -118,22 +118,11 @@ If Sydney Opera House provides your personal performance related information to 
 **  
 You may request that you stop receiving marketing communications from Sydney Opera House and that Sydney Opera House stops sharing your information with the presenters of the shows you attend for the purpose of them sending you marketing emails. We will comply with your request but you may also need to opt out from marketing from the presenters.
 
-If you wish to exercise the opt out, you can do so by contacting Sydney Opera House on +61 2 9250 7777, at bookings@sydneyoperahouse.com or, if you have received a marketing email from us, by selecting the ‘Unsubscribe’ link at the bottom of the email.
+If you wish to exercise the opt out, you can do so by contacting Sydney Opera House on +61 2 9250 7777, at [bookings@sydneyoperahouse.com](mailto:bookings@sydneyoperahouse.com) or, if you have received a marketing email from us, by selecting the ‘Unsubscribe’ link at the bottom of the email.
 
 **6\. Security of personal information  
 **  
 Sydney Opera House takes reasonable steps to protect all the personal information it receives. Information collected is stored in an appropriately secure format retained in accordance with Sydney Opera House records management policy and CCTV policy. We take reasonable steps to ensure that your personal information is relevant, accurate and up to date, complete and not misleading. We aim to keep your information for no longer than is necessary for the purposes for which it can be lawfully used. Only authorised personnel have access to our customer’s personal information, and work under strict controls and procedures.  
-
-
-**7\. Are there other circumstances where personal information will be given to anyone else?**
-
-There are some circumstances where Sydney Opera House will need to or be required to disclose personal information about you. We may need to provide third party contractors and service providers with access to your personal information in order to assist us to operate our business or to provide a service to you (e.g. service providers that assist us to send out our mail/email to customers, provide IT services including support of our IT systems, undertake data analysis and analytics, undertake research). If Sydney Opera House engages such contractors and service providers to handle personal information, we require these organisations and service providers to agree to keep your information secure, use it only for the purpose for which it has been provided, handle it in accordance with our directions and return it to us or destroy all copies of it when they have finished, unless they are required by law to retain it. 
-
-There may be other cases where we advise you at the time your personal information is collected that a third party will receive that information (e.g. third parties offering goods or services you have purchased through our website so they can process and fulfil your orders (including contacting you)).
-
-We may disclose information to law enforcement bodies or to meet a legal requirement such as a subpoena.
-
-Otherwise, Sydney Opera House will only disclose personal information if this is required by law, for example under the Government Information (Public Access) Act 2009, permitted under this Customer Privacy Statement, or permitted under the NSW Privacy and Personal Information Protection Act 1998 or the Health Records and Information Privacy Act 2002.  
 
 
 **7\. Are there other circumstances where personal information will be given to anyone else?**
