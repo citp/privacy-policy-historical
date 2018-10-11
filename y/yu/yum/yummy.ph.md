@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yummy.ph privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123044107id_/http%3A//www.yummy.ph/privacy-policy%3Fref%3Dfooter_sitemap) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yummy.ph privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012003203id_/https%3A//www.yummy.ph/privacy-policy%3Fref%3Dfooter_sitemap) for the most accurate reproduction.*
 
 # Privacy Policy | Yummy Magazine
 
