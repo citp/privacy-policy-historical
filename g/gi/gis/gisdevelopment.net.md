@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gisdevelopment.net privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129044236id_/https%3A//www.geospatialworld.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gisdevelopment.net privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011185047id_/https%3A//www.geospatialworld.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Geospatial World
 
@@ -89,7 +89,7 @@ Users can set preferences for how Google advertises to you using the Google Ad S
 
 **California Online Privacy Protection Act**
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: https://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
 **According to CalOPPA, we agree to the following:**
 
