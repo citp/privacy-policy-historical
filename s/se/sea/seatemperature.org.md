@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seatemperature.org privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415132305id_/https%3A//www.seatemperature.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatemperature.org privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011023048id_/https%3A//www.seatemperature.org/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | World Sea Temperatures Water Temperatures
+# Privacy Policy | World Sea Temperatures Sea Temperatures
 
 This privacy policy sets out how World Sea Temperatures (www.seatemperature.org) uses and protects any information that you give World Sea Temperatures (www.seatemperature.org) when you use this website.
 
