@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnesl.net privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609153824id_/https%3A//www.learnesl.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnesl.net privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011040021id_/http%3A//www.learnesl.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Learn ESL
 
