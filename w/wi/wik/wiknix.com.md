@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wiknix.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113175840id_/https%3A//www.wiknix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiknix.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012000955id_/https%3A//www.wiknix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Wiknix
 
 Privacy policy clears all the things and confusion about the privacy and security of information you share with us. Many a times, we ask users for providing their personal information like name, e-mail, etc. while they comment, but they need not to worry about the privacy of the information because all such things are covered under our privacy policy.
 
