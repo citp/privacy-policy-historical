@@ -1,77 +1,168 @@
-> *The following text is extracted and transformed from the glasgowlive.co.uk privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124205022id_/http%3A//www.glasgowlive.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glasgowlive.co.uk privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011213556id_/https%3A//www.glasgowlive.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Glasgow Live: Latest Glasgow News, sport, features and comment from the heart of the city
 
-**IN RELATION TO ALL WEB SITE SERVICES OFFERED BY GLASGOW LIVE HERE ON THIS WEB SITE**
+**WHO WE ARE**
 
-We are committed to:
+We are the publishing group Reach plc.  
 
-  * protecting the personal information you give us
-  * telling you how we use the information we gather about you
-  * getting your consent to our disclosure of your personal information.
+In this Privacy Notice, when we refer to any of our Sites we mean any website or app, including e-editions, published by our various subsidiary companies and brands, listed [here](https://web.archive.org/our-brands/) (“Reach Group” or “we”), regardless of how you access it.
+
+**ABOUT THIS PRIVACY NOTICE**
+
+This is the main privacy notice for the Reach Group.  It applies to all our Sites, and brands, but some of them may publish additional or alternative notices, in which case those take precedence.
+
+In summary, depending on your relationship with us, we’ll use your personal information:
+
+  * As needed to provide our products and services, for example to administer subscriptions, take orders and ad placements and handle customer service queries
+  * To provide the interactive features of our Sites, such as commenting, discussion forums and competitions
+  * To display advertising on our websites that is more likely to be relevant to you, and to participate in online advertising networks by sharing information about the kinds of people who visit our Sites, in order to help us to fund those Sites and keep the majority of them free to access.  Information gathered in this way does not identify you by name.
+  * To manage our business and to comply with the law.
 
 
 
-Our privacy policy is set out in detail below. Any changes to this policy will be posted here. Please also refer to the Terms and Conditions of this web site. Glasgow Live is a part of Trinity Mirror Plc and when we refer to "we" in this policy we mean the activities of the Trinity Mirror Group.
+This Privacy Notice, which covers all of your personal information whether collected online or offline, including by telephone or where you write to us, together with our Cookie Notice and any Site-specific notice, provides more detail on those activities and explains your rights and how to exercise them.
 
- **WHY WE COLLECT INFORMATION ABOUT YOU**
+For all of our Sites, and brands, either Reach plc or one of its subsidiary companies is the data controller of the personal information that we gather about you.  Regardless of which Reach Group company is the controller, you can always contact us with questions or concerns about your privacy by emailing us at [dataprotection@reachplc.com](mailto:dataprotection@reachplc.com)
 
-We want to offer you a service which you want to use. We may use information about you to help us customise our site to improve its usefulness to you. It can also help us to choose services we think will interest you.
+**1\. TYPES OF INFORMATION WE PROCESS AND WHERE IT COMES FROM  **
 
-Information about you helps us sell space to advertisers of products and services relevant to you so that we can continue to fund the site through advertising and you can continue to use the site for free.
+Information that we collect and process about you includes:
 
-In addition to the services we provide on this web site we want to offer you goods and services provided by us and others (with your consent) which are of interest to you.
+  * Personal and contact details you have provided to us, such as your name, email address or postal address, for example when you register on a Site or to receive a newsletter, enter a sales promotion or competition, or at an Event, or where you have agreed to receive marketing materials from us or third parties;
+  * Information you have provided when you obtain products or services from us or enquire about those products or services;
+  * Information included in any communications between us or which you provide in any post on any Site or any information collected when you participate in any poll or quiz or obtained via social media or which is publicly available;
+  * Information about your use of third party products or services or from third parties who we may use to operate certain aspects of our business;
+  * Information obtained if we carry out a credit search at a credit search referencing agency;
+  * Information we buy or obtain from third parties, including marketing lists; and
+  * We also collect information from cookies on your devices and this includes information about your IP address, MAC address and other identifying information, information about your devices, including your location, from third party advertising networks and how you use our products and services.
 
-We compile anonymous records of user trends which we may make use of ourselves, or pass to our associated companies or to unconnected parties.
 
- **WHAT INFORMATION DO WE COLLECT FROM YOU?**
 
-We may collect information from you when you fill in an online registration form for any of our web site services, (e.g., chat areas, your Profile page, forums, shopping, advisory services, competitions etc.). We may also collect information you give us over the telephone or in written or other communications. The type of information we will collect includes, for example, your name, mailing address, email address, telephone numbers, gender, preferences and, where relevant, financial, credit card or bank details.
+For more information about cookies, please see our [Cookie Notice](https://web.archive.org/cookie-policy/)
 
-We collect information about your use of our sites' web site services through "cookies". For more information on "cookies" please see our [Cookie Policy](http://cms1a.dailyrecord.co.uk:8080/cookie-policy/) which forms part of this Privacy Policy.
+**2.   USE OF YOUR INFORMATION**
 
-Where it is lawful, we may monitor emails you send and receive.
+We want to offer you products and services which you want to use. We may use and permit others to use your personal data as set out below.
 
- **YOUR CONSENT**
+We may use information about you to provide and manage the products and services you have subscribed to or purchased, to help us customise our products or services for you, to personalise your visits to our Sites, to help us to choose products and services we think will interest you, for market research and to improve the usefulness of our Sites, products and services.
 
-We will not make use of your personal information for direct marketing activities, or supply this information to third parties for their direct marketing activities without your consent. When you give us any personal information we may want to use you will be given an opportunity to refuse consent for various uses of your information.
+We also use your personal data to contact you, including to notify you about changes and updates to products or services, to evaluate the performance of our products and services and to develop new products and services.
 
-If having given your consent you subsequently decide you no longer wish to receive direct marketing or information from us or our associated companies or no longer want us to pass your information to third parties, please notify us by email.
+We may use your information for the management of our business and improving the operation of our business and that of our business partners, to assess our internal processes and carry out financial checks.
 
- **HOW WE ENSURE PRIVACY IS MAINTAINED**
+We may monitor, record and store records of calls, email, text messages, social media messages, in person meetings and other communications where permitted by law and we’ll do this where the law requires it, or to comply with regulatory rules, to prevent or detect crime, for evidential purposes, in the interests of protecting the security of our communications systems and procedures and for quality control and staff training purposes.
 
-We endeavour to ensure that your data is stored securely and to prevent unauthorised access. We have security measures in place to protect your information which we monitor regularly. Unfortunately, despite our measures, because of the nature of the Internet, we cannot guarantee that your information will remain at all times 100% secure. The continuing efforts of hackers to defeat even the newest of security systems means that we can never make this promise.
+We may use your data to comply with legal and regulatory obligations.
 
-Please be aware that if you disclose information on chat areas, your Profile page, forums or other public services it may be possible for other people to use this information. We are not responsible for the disclosure of any information you post in this way.
+We may make use of your personal information for direct marketing activities, or supply this information to third parties for their direct marketing activities, with your consent or as permitted by law. By direct marketing activities, we mean the communication directly to particular individuals (by e-mail, post or telephone) of any advertising or marketing material.
 
-Our policy is to comply with the Data Protection Act 1998 and the Regulation of Investigatory Powers Act 2000 and all other legislation which governs the maintenance of privacy in your information.
+Where we’re relying upon your consent to process personal data, you can withdraw this at any time by contacting us at [dataprotection@reachplc.com](mailto:dataprotection@reachplc.com).
 
-Our web site provides a number of links to web sites not operated by us or by companies associated with us. We take no responsibility for the use of any information about you which is collected as a result of your use of these web sites and this privacy policy does not extend to any web site operated by anybody other than us.
+Information about you helps us sell advertising to businesses of products and services relevant to you so that we can continue to fund these through advertising and you can continue to use the majority of our websites for free.
 
- **DISCLOSING YOUR INFORMATION TO THIRD PARTIES**
+We may analyse your data, including whether or not you open a newsletter or click on links, and analyse data, gathered thorough our websites and advertising partners, including by analysing your data in aggregated form into categories (known as segments), to help target offers to you that we think are of interest or relevance to you. You can find more information on this in our [Cookie Notice](https://web.archive.org/cookie-policy/).
 
-The personal information you give us is only disclosed to other businesses if we have your permission. In particular, even where we have your consent we will only disclose your financial, credit card or bank details to our agents and/or third party suppliers of products or services on a need to know basis including, for example, in relation to the fulfilment of any e-commerce transactions.
+We may disclose details about the use of the Sites to other businesses e.g. to demonstrate patterns of use to advertisers and others. The information we pass on will be anonymised. We compile anonymous records of user trends which we may make use of ourselves or pass to our associated companies, including advertising networks. You can read more about this in our [Cookie Notice](https://web.archive.org/cookie-policy/).
 
-We may disclose details about use of our web sites to other businesses e.g. to demonstrate patterns of use to advertisers and other business partners. The information we pass on will not include any personal information by which you may be identified.
+**3\. WHO WE SHARE YOUR PERSONAL INFORMATION WITH**
 
-We may forward your personal details to the Police or another regulatory body if we are asked to do so or wish to do so in order to comply with the law or in relation to any suspected misuse by you of our web site or any of our web site services.
+We share information as needed with our third party service providers and partners, to other members if the Reach Group, as part of providing and administering our products and services or operating our business or as set out below.  
 
-We endeavour to prevent unauthorised disclosures of your personal information by other people, but we are not responsible for any unauthorised disclosures or other breaches of security or for the actions of others if the information was passed to them with your authority or with the authority of anybody other than us or our associated companies.
+We will disclose your information and co-operate with appropriate bodies and authorities in good faith  where we are required to by law, a court order, a regulatory authority, or otherwise, including with the police, trading standards, regulatory authorities or other relevant authorities.
 
-Our site(s) include applications, content and/or ads from third parties that may perform user activity tracking in addition to that described herein.
+We may share information about you with credit reference agencies.
 
- **REALMEDIA AD SERVING TECHNOLOGY**
+We may also share information to facilitate the sale of one or more parts of our business, including if we are approached by a potential buyer or the restructuring of one or more parts of our business and with auditing organisations such as the Audit Bureau of Circulation
 
-We use ad serving technology to display the ads on our web pages. We use the cookie feature of this technology to anonymously manage and report on the effectiveness of the ads that you see. No personal data such as your name, address or email address are used during this process.
+**4\. COOKIES**
 
-If you do not wish this to happen, you can either Click Here to obtain opt-out details or you can use the cookie preference settings in your browser to manage this process.
+We collect information about you automatically when you visit our Sites by using cookies (small text files) and other tracking technology. For more information about cookies, and other tracking technology including how to turn them off, please see our [Cookie Notice](https://web.archive.org/cookie-policy/).
 
-More information on this can be found in the "Help" section of the browser that you are using.
+**5\. TRANSFERS OUTSIDE OF EUROPE**
 
- **OMNITURE ANALYTICS**
+We’re based in the UK and the Republic of Ireland but sometimes your personal information may be transferred outside the European Economic Area. If we do so we’ll make sure that suitable safeguards are in place, for example by using approved contractual agreements, unless certain exceptions apply.  We can provide more information about this on request.
 
-Glasgow Live engages Omniture, a third-party Web traffic analysis company, to log and aggregate information coming through our Web site on our behalf. Glasgow Live controls how that data may and may not be used. When you visit our Web site, Omniture may use technical tracking methods such as cookies that will be listed under the domain 2o7.net, and web beacons, on our behalf, and may receive anonymous information about your browsing on our Web site. Omniture does not use these technical tracking methods to relate Web site visitors to any personally identifiable information. Information collected by Omniture on behalf of Glasgow Live is unique to individual visitors but is not personally identifiable to Omniture. Such information provided by Omniture to Glasgow Live may be reassociated by Glasgow Live with previously collected information for internal purposes only, including but not limited to providing visitors with relevant content. We may also use these technical tracking methods in HTML e-mails to determine whether the recipients have opened such e-mails, clicked on links contained in those e-mails, and continued to browse our Web site. No personally identifiable information, such as your name, street address, e-mail address, etc. is shared with Omniture.
+**6\. WHAT ARE THE LEGAL GROUNDS FOR OUR PROCESSING OF YOUR PERSONAL INFORMATION (INCLUDING WHEN WE SHARE IT WITH OTHERS)?**
 
-Further information regarding Omniture's privacy statement can be found by clicking [here](http://www.omniture.com/en/privacy/product).
+We rely on the following legal bases to use your personal data:
 
-Advertisements on our site are provided by another organization. Our advertising partner will serve ads that it believes are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number). In order to do this, our advertising partner may need to place a cookie (a small text file) on your computer. For more information about this type of online behavioural advertising, about cookies, and about how to turn this features off, please visit [http://www.youronlinechoices.co.uk](http://www.youronlinechoices.com/uk/).
+_A. Where it is needed to provide you with our products or services, such as:_
+
+  * Managing products and services you hold with us, or an enquiry about one
+  * Updating your records, tracing your whereabouts to contact you about your account and doing this for recovering debt (where appropriate)
+  * Sharing your personal information with third parties and services providers when you apply for a product or service to help manage your product or service
+  * All stages and activities relevant to managing any product or service including enquiry, application, administration and management of accounts
+
+
+
+_B. Where it is in our legitimate interests to do so, such as:_
+
+  * Managing your products and services, updating your records
+  * To perform and/or test the performance of, our products, services and internal processes
+  * For some direct marketing communications, subject to appropriate controls and safeguards
+  * To follow guidance and recommended best practice of government and regulatory bodies
+  * For management and audit of our business operations including accounting
+  * To carry out monitoring and to keep records of our communications with you and us
+  * To administer our good governance requirements and those of other members of our Group, such as internal reporting and compliance obligations or administration required for AGM processes
+  * For market research and analysis and developing statistics
+  * To provide insight and analysis of our customers to business partners either as part of providing products or services, helping us improve products or services, or to assess or to improve the operating of our businesses
+  * Where we need to share your personal information with people or organisations in order to run our business or comply with any legal and/or regulatory obligations
+  * To comply with our legal obligations or where we reasonably believe we are under a legal or regulatory obligation
+
+
+
+_C. With your consent or explicit consent_
+
+  * For some direct marketing communications and digital advertising activities
+  * For some of our processing of special data categories of personal data such as about your health
+
+
+
+**7\. HOW LONG DO WE KEEP YOUR DATA FOR?**
+
+In general, we keep your personal information for as long as we need it for the purpose for which it was collected, plus a short additional period in case of problems. How long we keep it therefore varies according to the type of information it is and why we have it, and will range from a few days or weeks to, in some cases, several years.  We have established a full data retention policy, and can provide further information on request.
+
+**8\. WHAT ARE YOUR RIGHTS UNDER DATA PROTECTION LAW?**
+
+The law gives you certain rights in respect of the information that we hold about you.  Below is a short overview of those rights. The website of the Information Commissioner’s Office ([http://www.ico.org.uk](http://www.ico.org.uk/)) has a wealth of useful information in respect of your rights over your personal data.
+
+If you wish to exercise your rights, you can  write to us by email [dataprotection@reachplc.com](mailto:dataprotection@reachplc.com)  or by post to Reach plc, One Canada Square, London E14 5AP, for the attention of the legal department.
+
+_**Your right to withdraw your consent**_
+
+If we are processing your personal data on the basis of your consent, you have the right to withdraw that consent at any time.
+
+_**Your right to access the information we hold about you**_
+
+With some exceptions designed to protect the rights of others, you have the right to a copy of the personal data that we hold about you, as well as information about what we do with it, who we share it with and how long we will hold it for.  We may make a reasonable charge for additional copies of that data beyond the first copy, based on our administrative costs.
+
+_**Your right to have inaccurate information about you rectified**_
+
+You have the right to have the information we hold about you corrected if it is factually inaccurate.
+
+_**Your right to object to what we do with your data, and to have restrictions placed upon it**_
+
+Where we process your personal data on the basis of our legitimate interest, you have the right to object to that processing and to have restrictions placed upon it while we consider your objection.
+
+_**Your right to have your information erased in some circumstances**_
+
+You have the right to require us to delete the information that we hold about you if it is no longer necessary for the purpose we collected it for, and there is no other legal basis on which we must, or are allowed to, retain it.
+
+_**Your right to stop receiving direct marketing from us**_
+
+You have the right to require us to stop sending you direct marketing material (for example, promotional emails).  It can sometimes take a few days to action these requests.
+
+_**Your right to complain to the Information Commissioner’s Office (ICO)**_
+
+You have the right to lodge a complaint about our handling of your personal data with the supervisory authority, which in the UK is the Information Commissioner’s Office. But before you do so, please do contact us first to give us a chance to put matters right, at [dataprotection@reachplc.com](mailto:dataprotection@reachplc.com)
+
+You can contact the ICO on 0303 123 1113.
+
+**9\. CHANGES TO THIS PRIVACY NOTICE**
+
+It’s likely that we’ll need to update this Privacy Notice from time to time.  Any changes to this Privacy Notice will be posted here and such changes will become effective as soon as they are posted. Your continued use of the relevant Site constitutes notice to you of all these changes.  
+
+**10\. CONTACT US**
+
+If you have any questions about this privacy notice, or if you wish to exercise your rights you can contact us email at [dataprotection@reachplc.com](mailto:dataprotection@reachplc.com). Alternatively, you can write to the Legal Department, Reach plc, One Canada Square, London E14 5AP
