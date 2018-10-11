@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maingear.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315200159id_/https%3A//www.maingear.com/privacystatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maingear.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011030953id_/https%3A//www.maingear.com/privacystatement.php) for the most accurate reproduction.*
 
 # MAINGEAR PC | Privacy Policy
 
