@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentloans.gov privacy policy that was archived on 2018-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180111041224id_/https%3A//studentloans.gov/myDirectLoan/privacy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentloans.gov privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011110002id_/https%3A//studentloans.gov/myDirectLoan/privacy.action) for the most accurate reproduction.*
 
 # StudentLoans.gov
 
@@ -86,13 +86,19 @@ Officials and organizational components involved in the analysis and review of t
   * FSA/COD uses this student-level detail to book loans, account for awarded grants and to enable the Department to reconcile school cash drawdowns from the Treasury to individual student disbursements.
   * This information also is used to ensure the respective schools receive the appropriate amount of dollars during the respective time periods.
 
+
+
  **Will this information be shared with any other agency? If so, with which agency or agencies?**
 
   * Not routinely (This information can be made available for a civil or criminal law enforcement activity that is authorized by law, upon a written request by the agency).
 
+
+
  **Describe the notice or opportunities for consent would be/ or are provided to individuals about what information is collected and how that information is shared with others organizations. (e.g., posted Privacy Notice)**
 
   * Extensive Privacy Act notices are posted at the web site of the Free Application for Federal Student Aid ([http://www.fafsa.ed.gov](http://www.fafsa.ed.gov/)). The basis for the data sent to COD by colleges is the FAFSA®, which is filled out by student applicants first. The FAFSA® is an OMB approved data collection instrument (OMB #1845-0001)
+
+
 
  **How will the information be secured?**
 
@@ -100,6 +106,8 @@ Officials and organizational components involved in the analysis and review of t
   * COD is developed and maintained under a contract with Accenture, and is housed within a secure facility run under a subcontract with TSYS Inc., one of the largest credit card processors in the world. 
   * Interfacing ED systems are operated for the most part within FSA's Virtual Data Center (VDC), located in Plano, TX, which provides the respective security controls. The COD data is encrypted as it moves between COD system interfaces.
   * System administrators outside of the VDC provide comparable security controls to protect the system and the information contained therein.
+
+
 
  **Is a system of records being created or updated with the collection of this information? (A system of record is created when information can be retrieved from the system by the name of the individual or an identifying number, symbol or other identifying particular assigned to an individual. Also, in responding to this question a helpful reference may be to the system's System of Record organization step completed in the Definition phase of the Solution Lifecycle process.)**
 
