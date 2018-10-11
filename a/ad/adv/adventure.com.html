@@ -1,1065 +1,442 @@
-<!--The following is the downloaded HTML source of the adventure.com privacy policy that was archived on 2015-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316065053id_/http%3A//adventure.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adventure.com privacy policy that was archived on 2018-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181011192335id_/https%3A//adventure.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580402700000/457613.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WS8D64"></script><script type="text/javascript" async="" src="https://filamentapp.s3.amazonaws.com/f216f3f32fa8d5b75428e2c398b198d4.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4GUlZTGwcAXFFUAgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js no-svg"><head>
 
-<title>Privacy Policy /// Adventure.com</title>
+  <title>Privacy Policy - Adventure.com</title>
 
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, minimal-ui">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="p:domain_verify" content="31f259f0e85c329ba550b19bb818a444">
-<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-114x114.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-144x144.png">
-<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-60x60.png">
-<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-120x120.png">
-<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/wp-content/themes/adventure/assets/images/favicon/apple-touch-icon-152x152.png">
-<link rel="icon" type="image/png" href="/wp-content/themes/adventure/assets/images/favicon/favicon-196x196.png" sizes="196x196">
-<link rel="icon" type="image/png" href="/wp-content/themes/adventure/assets/images/favicon/favicon-96x96.png" sizes="96x96">
-<link rel="icon" type="image/png" href="/wp-content/themes/adventure/assets/images/favicon/favicon-32x32.png" sizes="32x32">
-<link rel="icon" type="image/png" href="/wp-content/themes/adventure/assets/images/favicon/favicon-16x16.png" sizes="16x16">
-<link rel="icon" type="image/png" href="/wp-content/themes/adventure/assets/images/favicon/favicon-128.png" sizes="128x128">
-<meta name="application-name" content="&nbsp;">
-<meta name="msapplication-TileColor" content="#FFFFFF">
-<meta name="msapplication-TileImage" content="/wp-content/themes/adventure/assets/images/favicon/mstile-144x144.png">
-<meta name="msapplication-square70x70logo" content="/wp-content/themes/adventure/assets/images/favicon/mstile-70x70.png">
-<meta name="msapplication-square150x150logo" content="/wp-content/themes/adventure/assets/images/favicon/mstile-150x150.png">
-<meta name="msapplication-wide310x150logo" content="/wp-content/themes/adventure/assets/images/favicon/mstile-310x150.png">
-<meta name="msapplication-square310x310logo" content="/wp-content/themes/adventure/assets/images/favicon/mstile-310x310.png">
-      
+  <meta charset="UTF-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script src="//tags.tiqcdn.com/utag/intrepid/adventure/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="profile" href="http://gmpg.org/xfn/11">
 
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="http://adventure.com/privacy-policy/">
+  <script type="text/javascript">
+  window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);
+  ;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"ca01295a92",applicationID:"37618737",sa:1}
+  </script>
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+  <meta name="theme-color" content="#ffffff">
+
+  
+<!-- This site is optimized with the Yoast SEO plugin v8.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://adventure.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy /// Adventure.com">
-<meta property="og:description" content="Last Updated: October __ 2014 Intrepid US, Inc., a Delaware corporation d/b/a “Adventure.com” (“Adventure.com,” “Company, “we,” “us,” “our”) respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit our online …">
-<meta property="og:url" content="http://adventure.com/privacy-policy/">
+<meta property="og:title" content="Privacy Policy - Adventure.com">
+<meta property="og:description" content="GENERAL Adventure.com is a digital travel magazine owned by, but editorially independent of, Intrepid Group. Intrepid Group does not endorse the activities on the site. Adventure.com (“Company” or “we” or “us” or “our”) respects the privacy of its users (“user” or “you”) that use our website located at Adventure.com, including other media forms, media channels, …">
+<meta property="og:url" content="https://adventure.com/privacy-policy/">
 <meta property="og:site_name" content="Adventure.com">
-<meta property="article:publisher" content="https://facebook.com/Adventure">
-<meta property="fb:app_id" content="236153083213746">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="Last Updated: October __ 2014 Intrepid US, Inc., a Delaware corporation d/b/a “Adventure.com” (“Adventure.com,” “Company, “we,” “us,” “our”) respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit our online […]">
-<meta name="twitter:title" content="Privacy Policy /// Adventure.com">
-<meta name="twitter:site" content="@Adventurecom">
-<meta name="twitter:domain" content="Adventure.com">
-<meta name="twitter:creator" content="@Adventurecom">
-<!-- / Yoast WordPress SEO plugin. -->
+<meta name="twitter:description" content="GENERAL Adventure.com is a digital travel magazine owned by, but editorially independent of, Intrepid Group. Intrepid Group does not endorse the activities on the site. Adventure.com (“Company” or “we” or “us” or “our”) respects the privacy of its users (“user” or “you”) that use our website located at Adventure.com, including other media forms, media channels, […]">
+<meta name="twitter:title" content="Privacy Policy - Adventure.com">
+<!-- / Yoast SEO plugin. -->
 
-<link rel="alternate" type="application/rss+xml" title="Adventure.com » Feed" href="http://adventure.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Adventure.com » Comments Feed" href="http://adventure.com/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="Adventure.com » Privacy Policy Comments Feed" href="http://adventure.com/privacy-policy/feed/">
-<link rel="stylesheet" id="theme-my-login-css" href="http://adventure.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8" type="text/css" media="all">
-<link rel="stylesheet" id="adventure-marketplace-css" href="http://adventure.com/wp-content/plugins/adventure-marketplace/assets/css/adventure-marketplace.css?ver=4.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="redactor-css" href="http://adventure.com/wp-content/plugins/adventure-marketplace/assets/vendors/redactor/redactor.css?ver=4.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="theme-my-login-ajax-css" href="http://adventure.com/wp-content/plugins/theme-my-login/modules/ajax/css/ajax.css?ver=4.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="http://adventure.com/wp-content/themes/adventure/assets/vendors/font-awesome/css/font-awesome.min.css?ver=4.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="owl-transitions-css" href="http://adventure.com/wp-content/themes/adventure/assets/vendors/owl-carousel/owl.transitions.css?ver=4.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="owl-carousel-css" href="http://adventure.com/wp-content/themes/adventure/assets/vendors/owl-carousel/owl.carousel.css?ver=4.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="adventure-style-css" href="http://adventure.com/wp-content/themes/adventure/style.css?ver=1.0.0.10" type="text/css" media="all">
-<link rel="stylesheet" id="author_recommended_posts-public-css" href="http://adventure.com/wp-content/plugins/author-recommended-posts/css/public.css?ver=1.0.3" type="text/css" media="screen">
-<link rel="stylesheet" id="hubspot-css" href="http://adventure.com/wp-content/plugins/hubspot/css/hubspot.css?ver=4.1.1" type="text/css" media="all">
-<script type="text/javascript" src="http://adventure.com/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
-<script type="text/javascript" src="http://adventure.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="stylesheet" id="fancybox-css-css" href="https://adventure.com/wp-content/themes/adventure_2017/assets/fancybox/jquery.fancybox.min.css?ver=4.9.8" type="text/css" media="all">
+<link rel="stylesheet" id="typography-css" href="https://fonts.googleapis.com/css?family=Playfair+Display%3A700%2C700i%2C900%2C900i%7CRaleway%3A400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i%7CDroid+Serif%3A400%2C400i%2C700%2C700i&amp;ver=4.9.8" type="text/css" media="all">
+<link rel="stylesheet" id="main-css-css" href="https://adventure.com/wp-content/themes/adventure_2017/assets/css/app.css?ver=4.9.8" type="text/css" media="all">
+<script type="text/javascript" src="https://adventure.com/wp-content/themes/adventure_2017/assets/js/modernizr-3.3.1.min.js?ver=4.9.8"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var trips_info = {"url":"http:\/\/adventure.com\/wp-admin\/admin-ajax.php","nonce":"95f2573a39"};
+var intrepid = {"ajax_url":"https:\/\/adventure.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://adventure.com/wp-content/plugins/save-user-trips/js/save-trips-script.js?ver=4.1.1"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/plugins/adventure-marketplace/assets/javascript/adventureMarketplace.dev.js?ver=0.0.1"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/plugins/adventure-marketplace/assets/vendors/redactor/redactor.min.js?ver=10.0.6"></script>
+<script type="text/javascript" src="https://adventure.com/wp-content/themes/adventure_2017/assets/js/all.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wpAjax = {"noPerm":"You do not have permission to do that.","broken":"An unidentified error has occurred."};
+var intrepid_count = {"ajax_url":"https:\/\/adventure.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://adventure.com/wp-includes/js/wp-ajax-response.min.js?ver=4.1.1"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/plugins/theme-my-login/modules/ajax/js/ajax.js?ver=4.1.1"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/javascripts/crazyegg.js?ver=4.1.1"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/javascripts/ga-universal.js?ver=4.1.1"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/javascripts/modernizr.custom.js?ver=4.1.1"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/javascripts/view-details-exclusion-pixels.js?ver=4.1.1"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/js/adventure-login.js?ver=4.1.1"></script>
-<script type="text/javascript" src="http://adventure.com/wp-includes/js/masonry.min.js?ver=3.1.2"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/vendors/jquery/jquery.easing.1.3.js?ver=4.1.1"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/vendors/jwplayer/jwplayer.js?ver=4.1.1"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/vendors/owl-carousel/owl.carousel.min.js?ver=4.1.1"></script>
+<script type="text/javascript" src="https://adventure.com/wp-content/themes/adventure_2017/assets/js/count.js"></script>
+<link rel="https://api.w.org/" href="https://adventure.com/wp-json/">
+<link rel="shortlink" href="https://adventure.com/?p=1920">
+<link rel="alternate" type="application/json+oembed" href="https://adventure.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fadventure.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://adventure.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fadventure.com%2Fprivacy-policy%2F&amp;format=xml">
 <script type="text/javascript">
-/* <![CDATA[ */
-var local_data = {"ajax_url":"http:\/\/adventure.com\/wp-admin\/admin-ajax.php"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://adventure.com/wp-content/themes/adventure/assets/javascripts/scripts.min.js?ver=1.0.0.10"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://adventure.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://adventure.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.1.1">
-<link rel="shortlink" href="http://adventure.com/?p=964">
-<!-- Start Fluid Video Embeds Style Tag -->
-<style type="text/css">
-/* Thanks to Web Designer Wall for writing about this technique: http://webdesignerwall.com/tutorials/css-elastic-videos */
-/* And to A List Apart: http://www.alistapart.com/articles/creating-intrinsic-ratios-for-video/ */
-.fve-video-wrapper {
-    position: relative;
-    overflow: hidden;
-    height: 0;
-    background-color: transparent;
-    padding-bottom: 56.25%; /* This is default, but will be overriden */
-    margin: 0.5em 0; /* A bit of margin at the bottom */
-}
-.fve-video-wrapper iframe,
-.fve-video-wrapper object,
-.fve-video-wrapper embed {
-    position: absolute;
-    display: block;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-.fve-video-wrapper a.hyperlink-image {
-    position: relative;
-    display: none;
-}
-.fve-video-wrapper a.hyperlink-image img {
-    position: relative;
-    z-index: 2;
-    width: 100%;
-}
-.fve-video-wrapper a.hyperlink-image .fve-play-button {
-    position: absolute;
-    left: 35%;
-    top: 35%;
-    right: 35%;
-    bottom: 35%;
-    z-index: 3;
-    background-color: rgba(40, 40, 40, 0.75);
-    background-size: 100% 100%;
-    border-radius: 10px;
-}
-.fve-video-wrapper a.hyperlink-image:hover .fve-play-button {
-    background-color: rgba(0, 0, 0, 0.85);
-}
-/* End of standard styles */
-</style>
-<!-- End Fluid Video Embeds Style Tag -->
-  <meta property="filament:is-404" content="0">
-  <meta property="filament:is-archive" content="0">
-  <meta property="filament:is-attachment" content="0">
-  <meta property="filament:is-author" content="0">
-  <meta property="filament:is-category" content="0">
-  <meta property="filament:is-front-page" content="0">
-  <meta property="filament:is-home" content="0">
-  <meta property="filament:is-page" content="1">
-  <meta property="filament:is-search" content="0">
-  <meta property="filament:is-single" content="0">
-  <meta property="filament:is-singular" content="1">
-  <meta property="filament:is-sticky" content="0">
-  <meta property="filament:is-tag" content="0">
-  <meta property="filament:is-tax" content="0">
-  <meta property="filament:is-preview" content="0">
-  <meta property="filament:post-type" content="page">
-  <meta property="filament:categories" content="">
-  <meta property="filament:tags" content="">
-
-<script type="text/javascript">
-  window.Filament = window.Filament || {};
-  window.Filament.social_stats_urls = window.Filament.social_stats_urls || {};
-
-  window.Filament.social_stats_urls.stumbleupon = "http://adventure.com/wp-admin/admin-ajax.php?action=filament_stumbleupon_jsonp&amp;_wpnonce=7ceef3e75a&url=<%- url %>&callback=<%- callback %>";
-  window.Filament.social_stats_urls.googleplus = "http://adventure.com/wp-admin/admin-ajax.php?action=filament_googleplus_jsonp&amp;_wpnonce=624a05ced1&url=<%- url %>&callback=<%- callback %>";
-</script>
-<script type="text/javascript">(function() {
-  var fl = document.createElement('script'); fl.type = 'text/javascript'; fl.async = true; fl.src = document.location.protocol + '//filamentapp.s3.amazonaws.com/f216f3f32fa8d5b75428e2c398b198d4.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(fl, s);
-})();</script><script type="text/javascript" src="//use.typekit.net/fwp1ztn.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script><script async="" type="text/javascript" src="//adventurecom.disqus.com/count.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body class="page page-id-964 page-template-default page-single page-privacy-policy">
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WS8D64"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WS8D64');</script>
-<!-- End Google Tag Manager -->
-
-		<script type="text/javascript">
-		
-				
-		if( typeof adventure === 'object' ) {
-			
-			if( typeof adventure.methods.mobile._set_mobile == 'function' ) {
-				adventure.methods.mobile._set_mobile();
-			}
-			
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
 		}
-		
-	</script>
-			<span class="sidecar-open fixed hidden"><span></span></span>
-	<div class="body-reveal">	<header>
-	<div class="nav-primary">
-		<div class="logo">
-			<a href="http://adventure.com" class="main-nav-logo"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="254.959px" height="120.747px" viewBox="139.406 122.526 254.959 120.747" enable-background="new 139.406 122.526 254.959 120.747" xml:space="preserve">
-<g>
-	<path d="M214.929,207.107c0.267-0.149,0.394-0.219,0.567-0.315c0.116,0.699,0.018,1.328-0.363,1.847
-		c0.075,0.374,0.138,0.685,0.2,0.997c0.053,0.27-0.446,0.402-0.182,0.729c0.02,0.025,0.021,0.102,0.003,0.115
-		c-0.67,0.48-0.498,1.205-0.522,1.859c-0.029,0.789-0.161,1.578-0.05,2.373c0.033,0.232,0.023,0.49-0.045,0.713
-		c-0.146,0.478-0.152,0.927,0.009,1.408c0.084,0.25,0.088,0.57,0.013,0.824c-0.308,1.043-0.301,2.119-0.42,3.184
-		c-0.106,0.947-0.252,1.904-0.525,2.813c-0.278,0.929-0.272,1.882-0.426,2.818c-0.128,0.782-0.097,1.59-0.222,2.372
-		c-0.15,0.945-0.365,1.882-0.599,2.81c-0.272,1.079-0.682,2.121-0.865,3.228c-0.056,0.34-0.218,0.705-0.443,0.961
-		c-0.572,0.652-0.993,1.424-1.691,1.988c-0.289,0.233-0.583,0.478-0.9,0.517c-0.825,0.103-1.195,0.631-1.456,1.31
-		c-0.201,0.521-0.37,1.055-0.576,1.574c-0.102,0.256-0.21,0.538-0.397,0.725c-0.281,0.28-0.388,0.572-0.369,0.959
-		c0.006,0.113-0.149,0.268-0.268,0.346c-0.115,0.076-0.32-0.192-0.276-0.438c0.074-0.413,0.114-0.792-0.295-1.063
-		c-0.237-0.158-0.188-0.416-0.214-0.65c-0.064-0.582,0.138-1.197-0.232-1.742c-0.058-0.087-0.046-0.238-0.027-0.354
-		c0.139-0.834-0.03-1.678,0.022-2.497c0.105-1.638,0.021-3.271-0.019-4.899c-0.032-1.307,0.176-2.621-0.075-3.926
-		c-0.029-0.15,0.001-0.318,0.035-0.473c0.217-0.982,0.273-1.975,0.266-2.979c-0.004-0.637,0.102-1.274,0.123-1.911
-		c0.045-1.318,0.06-2.637,0.099-3.953c0.066-2.273,0.146-4.547,0.211-6.82c0.036-1.238,0.045-2.477,0.083-3.715
-		c0.063-2.035,0.113-4.072,0.216-6.107c0.139-2.746,0.286-5.493,0.498-8.234c0.173-2.229,0.446-4.451,0.679-6.676
-		c0.041-0.393,0.157-0.785-0.075-1.188c-0.476,0.033-0.882,0.262-1.273,0.514c-0.601,0.389-1.225,0.721-1.902,0.958
-		c-0.143,0.05-0.268,0.161-0.389,0.259c-0.328,0.264-0.577,0.708-1.115,0.463c-0.642,0.59-1.556,0.555-2.274,1.01
-		c-0.561,0.354-1.222,0.574-1.862,0.781c-1.59,0.512-3.194,0.981-4.792,1.469c-0.114,0.035-0.238,0.061-0.337,0.123
-		c-0.766,0.482-1.638,0.576-2.542,0.699c-0.081,0.153-0.171,0.323-0.261,0.493c-0.074,0.013-0.149,0.042-0.221,0.036
-		c-0.196-0.016-0.422-0.122-0.58-0.057c-0.647,0.269-1.361,0.225-2.013,0.597c-0.595,0.339-1.366,0.419-2.072,0.499
-		c-0.64,0.072-1.005,0.396-1.291,0.919c-0.209,0.382-0.401,0.788-0.818,1.009c-0.068,0.036-0.169,0.105-0.169,0.157
-		c0.011,0.719-0.643,0.938-1.076,1.354c0.083,0.213,0.152,0.392,0.249,0.644c-0.233,0.433-0.35,0.987-0.81,1.446
-		c-0.182-0.098-0.36-0.195-0.646-0.351c0.079,0.373,0.14,0.66,0.21,0.985c-0.242,0.084-0.497,0.162-0.745,0.259
-		c-0.629,0.241-0.656,0.329-0.344,1.103c-0.15,0.299-0.331,0.608-0.462,0.938c-0.125,0.312-0.362,0.469-0.607,0.678
-		c-0.366,0.311-0.93,0.598-0.708,1.314c0.064,0.203-0.123,0.539-0.281,0.75c-0.501,0.666-1.052,1.295-1.563,1.953
-		c-0.166,0.213-0.303,0.461-0.397,0.713c-0.255,0.681-0.628,1.277-1.135,1.801c-0.442,0.457-0.762,0.999-1.094,1.546
-		c-0.595,0.981-1.333,1.878-2.021,2.804c-0.328,0.439-0.683,0.857-1.174,1.135c-0.065,0.037-0.11,0.175-0.156,0.17
-		c-0.961-0.084-0.99,0.996-1.635,1.301c0.008,0.425-0.445,0.176-0.593,0.406c-0.118,0.185,0.002,0.513-0.402,0.574
-		c-0.034-0.305-0.068-0.605-0.101-0.898c-0.375-0.337-0.748-0.191-1.178-0.029c-0.283,0.95-0.933,1.706-1.536,2.498
-		c-0.26,0.342-0.457,0.741-0.631,1.137c-0.211,0.482-0.424,0.943-0.878,1.256c-0.473,0.326-0.741,0.82-0.952,1.33
-		c-0.495,1.201-1.344,2.017-2.629,2.5c0.024-0.224-0.023-0.467,0.076-0.588c0.366-0.449,0.488-0.994,0.686-1.51
-		c0.517-1.341,1.306-2.537,2-3.785c0.715-1.285,1.335-2.625,2.069-3.9c1.375-2.389,2.349-4.971,3.617-7.408
-		c0.773-1.486,1.684-2.9,2.528-4.348c0.26-0.446,0.516-0.896,0.757-1.352c0.744-1.408,1.478-2.822,2.221-4.23
-		c0.242-0.459,0.509-0.902,0.742-1.364c0.04-0.079,0.001-0.248-0.064-0.313c-0.067-0.068-0.263-0.119-0.312-0.074
-		c-0.425,0.377-0.973,0.322-1.468,0.44c-0.154,0.037-0.347,0.108-0.468,0.052c-0.804-0.384-1.47,0.043-2.139,0.355
-		c-0.654,0.305-1.326,0.52-2.029,0.682c-0.77,0.178-1.523,0.434-2.282,0.658c-0.573,0.17-1.14,0.363-1.718,0.514
-		c-2.082,0.545-4.168,1.1-6.3,1.394c-1.459,0.2-2.941,0.255-4.415,0.323c-0.764,0.035-1.501,0.156-2.245,0.326
-		c-2.41,0.545-4.816,1.137-7.294,1.279c-0.802,0.047-1.578-0.208-2.33-0.477c-0.516-0.182-1.061-0.338-1.441-0.805
-		c0.362-0.721,0.886-1.195,1.537-1.64c1.148-0.783,2.415-1.179,3.718-1.552c0.914-0.262,1.829-0.54,2.631-1.098
-		c0.255-0.178,0.578-0.273,0.884-0.355c0.73-0.196,1.485-0.301,2.163-0.674c0.129-0.07,0.318-0.086,0.466-0.057
-		c0.301,0.057,0.505-0.017,0.743-0.23c0.478-0.43,1.036-0.692,1.712-0.771c0.486-0.056,0.955-0.32,1.415-0.527
-		c0.332-0.15,0.645-0.318,1.027-0.219c0.072,0.02,0.184,0.027,0.227-0.013c0.715-0.672,1.682-0.642,2.535-0.924
-		c0.871-0.289,1.734-0.608,2.615-0.863c0.88-0.255,1.792-0.403,2.666-0.678c1.408-0.44,2.876-0.647,4.268-1.146
-		c0.405-0.146,0.854-0.168,1.27-0.287c0.725-0.211,1.435-0.478,2.163-0.676c0.651-0.179,1.33-0.26,1.977-0.451
-		c1.105-0.328,2.192-0.717,3.291-1.065c0.415-0.132,0.844-0.224,1.266-0.334c0.114-0.03,0.282-0.028,0.332-0.103
-		c0.284-0.428,0.72-0.225,1.088-0.277c0.494-0.78,1.118-1.496,1.433-2.328c0.414-1.096,1.05-2.058,1.559-3.092
-		c0.404-0.822,0.885-1.607,1.353-2.396c0.095-0.16,0.275-0.286,0.442-0.38c0.083-0.047,0.226,0.013,0.346,0.026
-		c0.147-0.143,0.072-0.279-0.026-0.412c-0.223-0.303-0.158-0.604,0.015-0.896c0.752-1.268,1.51-2.531,2.26-3.8
-		c0.222-0.376,0.411-0.773,0.636-1.147c1.295-2.158,2.586-4.318,3.899-6.465c1.77-2.894,3.491-5.818,5.401-8.626
-		c0.851-1.252,1.584-2.586,2.355-3.892c1.379-2.337,2.733-4.688,4.121-7.018c0.937-1.573,1.953-3.099,2.866-4.684
-		c1.335-2.318,2.608-4.671,3.911-7.007c0.195-0.349,0.373-0.716,0.621-1.024c0.255-0.317,0.41-0.671,0.587-1.026
-		c0.533-1.069,1.093-2.124,1.642-3.185c0.714-1.379,1.439-2.752,2.137-4.139c0.197-0.391,0.436-0.641,0.896-0.68
-		c0.169-0.014,0.328-0.167,0.488-0.263c0.127-0.077,0.254-0.241,0.372-0.233c0.585,0.041,0.952-0.369,1.39-0.625
-		c0.308-0.18,0.588-0.409,0.903-0.575c0.479-0.254,1.047-0.162,1.552-0.39c0.301-0.136,0.574,0.354,0.996,0.184
-		c0.31-0.125,0.695-0.063,0.999-0.081c0.358,0.21,0.198,0.525,0.274,0.772c0.064,0.206,0.281,0.364,0.435,0.549
-		c-0.155,1.293-0.143,2.592-0.094,3.898c0.03,0.789-0.103,1.588-0.204,2.378c-0.544,4.242-1.097,8.483-1.656,12.723
-		c-0.6,4.557-1.215,9.113-1.812,13.67c-0.519,3.963-1.004,7.931-1.543,11.892c-0.169,1.238-0.292,2.458,0.005,3.688
-		c0.036,0.149,0.052,0.343-0.014,0.469c-0.237,0.452-0.158,0.936-0.197,1.409c-0.013,0.158-0.006,0.333-0.072,0.468
-		c-0.524,1.063-0.596,2.197-0.652,3.357c-0.038,0.784-0.295,1.558-0.445,2.338c-0.179,0.933-0.504,1.834-0.498,2.808
-		c0.003,0.546-0.096,1.103-0.167,1.649c-0.11,0.855-0.006,1.748,0.092,2.617c0.05,0.443,0.041,0.846-0.037,1.287
-		c-0.143,0.812-0.258,1.633-0.215,2.471c0.037,0.705,0.123,1.471-0.105,2.105c-0.234,0.649-0.265,1.32-0.466,1.963
-		c-0.069,0.219-0.086,0.48-0.042,0.705c0.154,0.793,0.082,1.577,0.005,2.366c-0.081,0.828-0.287,1.672-0.192,2.479
-		c0.094,0.799,0.176,1.56-0.07,2.332c0.164,1.031-0.085,2.061-0.018,3.092C214.886,206.413,214.902,206.687,214.929,207.107z
-		 M210.364,149.012c-0.157,0.165-0.467,0.356-0.445,0.491c0.099,0.584-0.298,0.902-0.624,1.196c-0.344,0.31-0.595,0.667-0.708,1.073
-		c-0.196,0.709-0.516,1.22-1.283,1.398c-0.312,0.072-0.54,0.315-0.611,0.669c-0.038,0.192-0.141,0.37-0.196,0.56
-		c-0.195,0.674-0.456,1.297-1.156,1.609c-0.03,0.013-0.043,0.065-0.064,0.098c0.055,0.216,0.111,0.432,0.164,0.641
-		c-0.424,0.373-0.766,0.793-1.208,1.031c-0.528,0.284-0.332,0.873-0.664,1.21c-0.008,0.009,0.027,0.06,0.042,0.092
-		c0.135,0.06,0.269,0.12,0.444,0.199c-0.211,0.941-0.827,1.527-1.626,1.904c-0.56,0.264-1.038,0.542-1.215,1.209
-		c0.18,0.049,0.324,0.088,0.469,0.127l-0.025-0.025c0.073,0.364-0.131,0.58-0.38,0.809c-0.678,0.622-1.392,1.268-1.651,2.163
-		c-0.211,0.732-0.608,1.057-1.301,1.157c-0.06,0.009-0.108,0.106-0.2,0.203c0.05,0.223,0.221,0.511-0.041,0.738
-		c-0.554,0.481-0.81,1.172-1.159,1.775c-0.48,0.829-1.155,1.509-1.61,2.349c-0.205,0.378-0.538,0.683-0.767,1.05
-		c-0.398,0.636-0.772,1.276-1.402,1.73c-0.169,0.122-0.325,0.396-0.322,0.597c0.007,0.593-0.248,0.951-0.74,1.258
-		c-0.244,0.152-0.497,0.503-0.507,0.773c-0.021,0.533-0.286,0.896-0.574,1.279c-0.157,0.21-0.169,0.435-0.05,0.673
-		c0.026,0.053,0.009,0.127,0.011,0.171c-0.276,0.023-0.545,0.045-0.783,0.064c-0.288,0.702-0.519,1.368-0.836,1.991
-		c-0.173,0.342-0.551,0.579-0.728,0.919c-0.192,0.369-0.231,0.814-0.388,1.205c-0.175,0.436-0.408,0.848-0.668,1.376
-		c0.316-0.019,0.544,0.003,0.751-0.053c0.26-0.071,0.494-0.251,0.756-0.306c1.013-0.209,2.034-0.385,3.051-0.578
-		c0.464-0.088,0.951-0.117,1.383-0.286c1.15-0.451,2.375-0.618,3.542-1.004c0.592-0.196,1.2-0.335,1.851-0.371
-		c0.604-0.033,1.191-0.384,1.736-0.578c0.411,0.132,0.75,0.242,1.059,0.341c0.314-0.136,0.597-0.352,0.885-0.358
-		c0.332-0.007,0.604-0.122,0.906-0.195c1.141-0.273,2.245-0.732,3.378-0.702c0.351-0.291,0.518-0.577,0.551-0.969
-		c0.133-1.584,0.483-3.144,0.526-4.738c0.005-0.197,0.069-0.393,0.099-0.59c0.215-1.421,0.422-2.842,0.644-4.262
-		c0.11-0.708,0.256-1.41,0.367-2.118c0.291-1.851,0.561-3.706,0.859-5.556c0.216-1.337,0.467-2.668,0.696-4.003
-		c0.195-1.14,0.368-2.285,0.575-3.423c0.412-2.274,0.846-4.544,1.254-6.818c0.052-0.292,0.007-0.601,0.007-1
-		c-0.208,0.113-0.361,0.161-0.466,0.26c-0.545,0.511-1.078,1.035-1.615,1.555L210.364,149.012z M214.847,208.661
-		c-0.03-0.061-0.059-0.119-0.089-0.18c-0.038,0.055-0.101,0.107-0.106,0.166c-0.005,0.053,0.052,0.111,0.082,0.169
-		C214.771,208.764,214.809,208.711,214.847,208.661z"></path>
-	<path d="M336.99,155.734c-0.076,0.084-0.137,0.2-0.23,0.247c-0.25,0.125-0.555,0.203-0.447,0.582
-		c0.059,0.199,0.342,0.152,0.699-0.106c0.096-0.07,0.189-0.143,0.289-0.209c0.027-0.019,0.07-0.015,0.156-0.03
-		c0.084,0.196,0.174,0.402,0.264,0.606c0.568-0.111,0.568-0.111,0.596-0.666c0.01-0.217,0.232-0.38,0.404-0.265
-		c0.189,0.127,0.336,0.314,0.508,0.467c0.188,0.164,0.525,0.163,0.611-0.057c0.117-0.299,0.258-0.428,0.586-0.475
-		c0.496-0.071,0.49-0.11,0.857-0.671c0.215,0.086,0.434,0.174,0.67,0.269c0.281-0.2,0.57-0.404,0.869-0.617
-		c0.24,0.067,0.467,0.129,0.768,0.212c0.715-0.568,1.648-0.612,2.547-0.765c0.084-0.014,0.229,0.075,0.281,0.158
-		c0.127,0.199-0.029,0.284-0.193,0.323c-0.172,0.041-0.33,0.124-0.268,0.305c0.039,0.119,0.197,0.26,0.318,0.278
-		c0.225,0.032,0.572,0.074,0.678-0.05c0.461-0.548,1.365-0.573,1.596-1.37c0.336-0.184,0.617-0.48,1.029-0.513
-		c0.324-0.026,0.617-0.001,0.893,0.234c0.205,0.173,0.482,0.267,0.736,0.373c0.178,0.075,0.373,0.113,0.58,0.173
-		c-0.012,0.212-0.025,0.432-0.043,0.74c0.434-0.038,0.816-0.071,1.168-0.101c0.238-0.318,0.051-0.913,0.684-0.862
-		c0.121,0.211-0.146,0.244-0.166,0.381c-0.018,0.148-0.07,0.335-0.006,0.439c0.066,0.105,0.299,0.214,0.393,0.173
-		c0.525-0.23,1.176-0.055,1.637-0.524c0.105-0.107,0.381-0.073,0.574-0.055c0.088,0.009,0.213,0.127,0.232,0.215
-		c0.021,0.088-0.037,0.244-0.111,0.298c-0.279,0.199-0.711,0.16-0.869,0.554c-0.936,0.307-1.752,0.943-2.814,0.918
-		c-0.367-0.009-0.748,0.219-1.107,0.375c-0.531,0.231-1.176,0.232-1.566,0.774c-0.059,0.082-0.281,0.047-0.428,0.064
-		c-0.152,0.017-0.334-0.018-0.451,0.054c-0.393,0.241-0.814,0.258-1.252,0.327c-0.531,0.084-1.094,0.266-1.527,0.571
-		c-0.445,0.313-0.932,0.437-1.404,0.637c-0.256,0.109-0.51,0.232-0.744,0.382c-0.311,0.2-0.596,0.3-0.998,0.242
-		c-0.41-0.058-0.85,0.054-1.252,0.272c-0.453,0.244-0.939,0.443-1.432,0.588c-1.102,0.324-2.146,0.858-3.322,0.917
-		c-0.113,0.006-0.221,0.119-0.334,0.126c-0.607,0.037-1.035,0.561-1.682,0.566c-0.537,0.004-1.09,0.146-1.604,0.32
-		c-0.479,0.162-0.908,0.463-1.373,0.673c-0.287,0.129-0.596,0.232-0.904,0.295c-0.816,0.164-1.615,0.325-2.211,0.998
-		c-0.143,0.16-0.42,0.199-0.688,0.316c-0.117,1.419-0.219,2.844-0.359,4.265c-0.15,1.508-0.314,3.016-0.516,4.517
-		c-0.176,1.301-0.412,2.593-0.621,3.889c-0.271,1.689-0.535,3.378-0.949,5.043c-0.23,0.924-0.293,1.891-0.418,2.841
-		c-0.107,0.824-0.178,1.654-0.297,2.477c-0.322,2.207-0.654,4.414-1,6.619c-0.1,0.629-0.271,1.245-0.396,1.87
-		c-0.283,1.404-0.463,2.821-0.596,4.247c-0.039,0.434-0.201,0.854-0.283,1.284c-0.373,1.996-0.729,3.996-1.494,5.894
-		c-0.092,1.112-0.672,2.105-0.793,3.211c-0.012,0.119-0.102,0.242-0.078,0.348c0.252,1.17-0.299,2.283-0.234,3.445
-		c0.027,0.502-0.143,1.019-0.246,1.523c-0.143,0.701-0.262,1.411-0.479,2.09c-0.17,0.533-0.227,1.104-0.705,1.555
-		c-0.318,0.299-0.391,0.856-0.586,1.293c-0.107,0.242-0.246,0.473-0.506,0.963c0.023-1.274,0.73-2.147,0.49-3.162
-		c-0.23,0.197-0.672,0.916-0.676,1.191c-0.018,0.932-0.242,1.805-0.666,2.635c-0.105,0.203-0.107,0.457-0.16,0.688
-		c-0.105,0.463-0.211,0.925-0.33,1.437c-0.314,0.016-0.576,0.029-0.906,0.047c0.008,0.172,0.016,0.354,0.025,0.568
-		c-0.207,0.067-0.422,0.137-0.662,0.217c-0.146-0.834-0.004-1.623,0.051-2.412c0.004-0.078,0.008-0.18,0.055-0.228
-		c0.719-0.714,0.529-1.638,0.527-2.487c-0.002-0.715-0.068-1.424,0.08-2.135c0.033-0.16-0.088-0.352-0.152-0.576
-		c-0.197,0.145-0.326,0.237-0.455,0.33l0.031,0.031c-0.508-0.509-0.688-1.091-0.43-1.79c0.123-0.332,0.133-0.681,0.156-1.04
-		c0.129-1.949,0.619-3.838,1.119-5.72c0.268-1.005,0.469-2.009,0.529-3.056c0.051-0.869,0.305-1.725,0.469-2.586
-		c0.037-0.194,0.146-0.406,0.104-0.582c-0.256-1.084,0.137-2.115,0.234-3.166c0.104-1.072,0.291-2.135,0.439-3.203
-		c0.104-0.75,0.191-1.504,0.311-2.252c0.178-1.103,0.363-2.205,0.566-3.301c0.268-1.453,0.576-2.898,0.836-4.354
-		c0.314-1.766,0.609-3.536,0.891-5.308c0.156-0.986,0.254-1.981,0.408-2.967c0.18-1.144,0.381-2.285,0.596-3.424
-		c0.357-1.923,0.721-3.845,1.107-5.762c0.205-1.015,0.469-2.017,0.699-3.027c0.059-0.265,0.092-0.537,0.145-0.856
-		c-0.896-0.2-1.766-0.081-2.482,0.268c-1.422,0.692-2.928,0.991-4.445,1.296c-0.156,0.031-0.34,0.012-0.465,0.09
-		c-0.631,0.394-1.367,0.419-2.055,0.608c-1.844,0.508-3.707,0.949-5.551,1.464c-0.637,0.178-1.234,0.499-1.854,0.747
-		c-0.254,0.102-0.512,0.212-0.777,0.271c-0.542,0.12-1.104,0.166-1.635,0.318c-0.746,0.213-1.484,0.255-2.246,0.144
-		c-0.396-0.058-0.78-0.078-1.106-0.377c-0.165-0.151-0.426-0.199-0.646-0.29c-0.666-0.276-1.281-0.597-1.822-1.111
-		c-0.482-0.46-1.104-0.778-1.678-1.139c-0.365-0.231-0.754-0.425-1.192-0.669c0.185-0.558,0.544-0.928,0.793-1.376
-		c0.726-0.093,1.442-0.159,2.017-0.686c0.147-0.136,0.436-0.146,0.664-0.164c0.834-0.064,1.678-0.052,2.504-0.173
-		c0.944-0.138,1.875-0.378,2.809-0.593c0.775-0.179,1.545-0.389,2.318-0.579c1.701-0.419,3.402-0.84,5.104-1.249
-		c0.814-0.195,1.635-0.362,2.449-0.547c0.805-0.183,1.643-0.284,2.402-0.582c1.092-0.43,2.232-0.525,3.365-0.689
-		c0.324-0.047,0.549-0.077,0.795-0.37c0.26-0.309,0.723-0.446,1.1-0.659c0.252,0.092,0.506,0.252,0.76,0.255
-		c0.211,0.002,0.438-0.161,0.635-0.287c0.277-0.177,0.498-0.201,0.857-0.117c0.455,0.106,0.902-0.231,1.1-0.716
-		c0.119-0.293,0.211-0.604,0.262-0.916c0.254-1.542,0.742-3.021,1.139-4.528c0.324-1.233,0.549-2.493,0.816-3.741
-		c0.049-0.234,0.096-0.47,0.137-0.706c0.227-1.315,0.596-2.568,1.607-3.592c0.254,0,0.566,0,0.891,0
-		c0.068-0.107,0.115-0.219,0.193-0.3c0.098-0.102,0.23-0.257,0.334-0.246c0.113,0.013,0.287,0.176,0.301,0.29
-		c0.039,0.313,0.062,0.646-0.006,0.95c-0.141,0.629-0.164,1.256-0.18,1.898c-0.029,1.194-0.041,2.409-0.271,3.572
-		c-0.232,1.168-0.318,2.366-0.658,3.507c-0.223,0.745-0.141,1.504-0.252,2.25c-0.031,0.215,0.061,0.416,0.283,0.457
-		c0.135,0.025,0.369-0.015,0.426-0.107c0.256-0.418,0.623-0.554,1.088-0.623c0.547-0.081,1.078-0.274,1.621-0.392
-		c0.574-0.124,1.209-0.028,1.691-0.481c0.025-0.025,0.072-0.04,0.109-0.042c0.461-0.029,1.012,0.091,1.363-0.119
-		c0.439-0.262,0.861-0.379,1.34-0.417L336.99,155.734z M348.027,156.101c0.365-0.097,0.652-0.17,0.936-0.249
-		c0.074-0.02,0.152-0.048,0.209-0.096c0.164-0.136,0.248-0.329,0.123-0.506c-0.072-0.101-0.283-0.204-0.383-0.169
-		C348.472,155.236,348.121,155.498,348.027,156.101z M350.574,154.63c-0.068-0.028-0.158-0.086-0.252-0.094
-		c-0.035-0.003-0.125,0.12-0.113,0.165c0.023,0.082,0.104,0.149,0.16,0.222C350.41,154.863,350.451,154.805,350.574,154.63z"></path>
-	<path d="M289.348,141.034c-0.095,0.173-0.152,0.385-0.29,0.508c-0.172,0.154-0.219,0.3-0.195,0.516
-		c0.042,0.4,0.064,0.805-0.338,1.07c-0.25,0.739-0.514,1.474-0.745,2.219c-0.163,0.527-0.196,1.1-0.704,1.474
-		c-0.142,0.105-0.203,0.335-0.275,0.517c-0.324,0.81-0.639,1.624-0.959,2.441c-0.327-0.028-0.598-0.052-0.934-0.081
-		c-0.025,0.18-0.091,0.334-0.059,0.464c0.188,0.767,0.104,1.498-0.241,2.228c-0.122-0.146-0.237-0.283-0.41-0.489
-		c-0.133,0.183-0.288,0.32-0.343,0.489c-0.211,0.642-0.678,1.186-0.729,1.889c-0.006,0.076-0.028,0.178-0.082,0.221
-		c-0.633,0.505-0.568,1.273-0.773,1.947c-0.148,0.487-0.434,0.933-0.658,1.397c0.247,0.211,0.359,0.033,0.477-0.123
-		c0.666-0.875,1.232-1.814,1.813-2.744l-0.026-0.029c0.074,0.141,0.235,0.301,0.209,0.419c-0.117,0.509-0.084,1.018-0.106,1.529
-		c-0.015,0.341-0.192,0.682-0.334,1.008c-0.203,0.471-0.63,0.828-0.702,1.371c-0.009,0.068-0.074,0.148-0.137,0.188
-		c-0.824,0.539-1.094,1.401-1.346,2.278c-0.088,0.305-0.25,0.59-0.328,0.897c-0.066,0.265-0.063,0.548-0.098,0.874
-		c-0.139,0.045-0.281,0.123-0.427,0.133c-0.405,0.028-0.68,0.215-0.804,0.602c-0.105,0.331-0.016,0.51,0.518,1.05
-		c-0.58,0.412-1.023,0.949-1.322,1.585c-0.304,0.642-0.242,1.35-0.242,2.139c-0.373-0.097-0.656-0.17-0.991-0.257
-		c-0.009,0.004-0.106,0.018-0.146,0.074c-0.113,0.162-0.195,0.346-0.304,0.512c-0.392,0.599-0.392,0.607,0.294,1.142
-		c0.029,0.023,0.086,0.032,0.092,0.058c0.071,0.262,0.129,0.527,0.203,0.788c0.084,0.3,0.041,0.551-0.311,0.771
-		c-0.189-0.117-0.411-0.253-0.628-0.386c-0.073,0.037-0.153,0.057-0.203,0.107c-0.083,0.083-0.213,0.19-0.207,0.278
-		c0.042,0.62-0.474,0.763-0.918,1.034c0.106,0.447,0.358,0.86,0.171,1.356c-0.15,0.4-0.143,0.861-0.201,1.277
-		c-0.531,0.395-0.527,0.397-0.795,1.111c-0.182,0.482-0.393,0.952-0.564,1.438c-0.256,0.72-0.26,0.736-1.143,0.896
-		c-0.154,0.607-0.311,1.214-0.46,1.799c-0.858,0.028-0.858,0.028-1.142,0.45c0.091,0.213,0.242,0.083,0.386,0.086
-		c0.358,0.008,0.585,0.32,0.438,0.639c-0.049,0.106-0.319,0.11-0.555,0.18c-0.052,0.287-0.115,0.634-0.189,1.049
-		c-0.41,0.168-0.916,0.326-1.123,0.859c0.094,0.205,0.298,0.438,0.258,0.613c-0.077,0.335-0.256,0.668-0.465,0.947
-		c-0.184,0.246-0.481,0.404-0.703,0.627c-0.194,0.195-0.424,0.4-0.51,0.646c-0.133,0.375-0.182,0.77-0.525,1.041
-		c-0.077,0.061-0.109,0.213-0.117,0.325c-0.059,0.875-0.525,1.56-1.048,2.224c0.018,0.201,0.021,0.4,0.056,0.594
-		c0.105,0.597-0.051,1.102-0.476,1.533c-0.106,0.107-0.273,0.285-0.244,0.377c0.198,0.64-0.238,1.069-0.491,1.543
-		c-0.407,0.761-0.452,1.607-0.659,2.439c-0.113,0.032-0.221,0.092-0.326,0.088c-0.346-0.013-0.566,0.153-0.536,0.483
-		c0.053,0.581-0.086,1.096-0.354,1.604c-0.126,0.24-0.159,0.53-0.226,0.799c-0.048,0.192-0.055,0.399-0.132,0.578
-		c-0.33,0.76-0.727,1.479-0.957,2.299c-0.21,0.75-0.706,1.42-1.062,2.131c-0.124,0.248-0.204,0.516-0.309,0.773
-		c-0.15,0.368-0.267,0.758-0.466,1.098c-0.285,0.49-0.531,0.992-0.609,1.553c-0.087,0.624-0.501,0.977-0.984,1.275
-		c-0.167,0.104-0.364,0.17-0.556,0.219c-0.511,0.127-0.779,0.453-0.998,0.932c-0.479,1.051-1.036,2.064-1.571,3.088
-		c-0.11,0.211-0.25,0.409-0.399,0.594c-0.4,0.498-0.809,0.988-1.223,1.475c-0.121,0.143-0.269,0.26-0.468,0.447
-		c0.001-0.451,0.072-0.822-0.513-0.707c-0.157,0.031-0.371-0.225-0.553-0.346c-0.412,0.201,0.035,0.504-0.102,0.732
-		c-0.591,0.222-0.877,0.145-0.992-0.321c-0.076-0.305-0.08-0.63-0.098-0.946c-0.074-1.276-0.14-2.553-0.213-3.828
-		c-0.011-0.198-0.019-0.404-0.075-0.594c-0.271-0.904-0.175-1.798,0.03-2.695c0.043-0.188,0.092-0.412,0.034-0.584
-		c-0.274-0.817-0.127-1.664-0.146-2.486c-0.041-1.835,0.033-3.676,0.137-5.51c0.126-2.229,0.143-4.461,0.182-6.691
-		c0.031-1.744-0.041-3.494,0.101-5.234c0.174-2.143,0.402-4.283,0.616-6.422c0.115-1.145,0.324-2.278,0.297-3.442
-		c-0.015-0.659,0.172-1.317,0.241-1.982c0.082-0.788,0.299-1.562,0.476-2.437c0.191,0.103,0.376,0.154,0.486,0.274
-		c0.157,0.172,0.313,0.378,0.374,0.597c0.298,1.075,0.419,2.167,0.21,3.314c0.288,0.385,0.548,0.811,0.507,1.376
-		c-0.02,0.269,0.066,0.556,0.151,0.819c0.201,0.62,0.291,1.244,0.163,1.889c-0.066,0.33-0.03,0.637,0.169,0.914
-		c0.304,0.422,0.288,0.882,0.237,1.375c-0.053,0.509-0.078,1.039,0.006,1.54c0.197,1.166,0.187,2.37,0.613,3.495
-		c-0.061,1.041,0.209,2.046,0.327,3.067c0.054,0.467,0.174,0.941,0.132,1.4c-0.044,0.479,0.182,0.842,0.291,1.26
-		c0.055,0.209-0.056,0.459-0.071,0.691c-0.033,0.516-0.089,1.045,0.515,1.398c0.453-0.377,0.549-0.953,0.808-1.422
-		c0.306-0.554,0.547-1.145,0.816-1.72c0.067-0.144,0.177-0.282,0.194-0.433c0.06-0.541,0.387-0.95,0.635-1.404
-		c0.208-0.383,0.457-0.783,0.511-1.201c0.075-0.585,0.342-1.052,0.619-1.535c0.755-1.318,1.312-2.729,1.958-4.099
-		c0.764-1.622,1.487-3.263,2.252-4.884c0.612-1.298,1.262-2.578,1.891-3.868c0.873-1.79,1.728-3.589,2.616-5.37
-		c0.695-1.394,1.386-2.786,1.916-4.255c0.093-0.256,0.267-0.489,0.435-0.708c0.707-0.921,1.293-1.904,1.647-3.017
-		c0.024-0.075,0.031-0.172,0.082-0.221c0.567-0.542,0.733-1.323,1.166-1.938c0.403-0.572,0.685-1.167,0.718-1.846
-		c0.223-0.155,0.418-0.29,0.61-0.425c0.048,0.305,0.096,0.611,0.144,0.907c1.34-0.004,2.273-1.36,1.566-3.079
-		c-0.342,0.341-0.664,0.663-0.988,0.986c0.153-0.368,0.35-0.725,0.448-1.105c0.155-0.597,0.396-1.097,0.894-1.504
-		c0.254-0.209,0.392-0.589,0.524-0.915c0.211-0.517,0.474-0.983,0.901-1.32c0.373,0.137,0.406,0.396,0.172,0.555
-		c-0.529,0.361-0.527,0.925-0.764,1.507c0.752-0.271,1.07-0.754,1.192-1.393c0.112-0.592,0.356-1.086,0.788-1.543
-		c0.363-0.385,0.596-0.917,0.668-1.495c-0.225-0.067-0.4-0.12-0.571-0.171c-0.012-0.091-0.056-0.186-0.026-0.241
-		c0.168-0.309,0.504-0.608,0.504-0.912c0.004-0.916,0.725-1.34,1.14-1.981c0.449-0.693,0.771-1.481,1.06-2.26
-		c0.112-0.299,0.117-0.617,0.438-0.787c0.032-0.017,0.044-0.067,0.073-0.092c0.386-0.334,0.277-0.929,0.605-1.248
-		c0.311-0.301,0.706-0.501,0.834-0.963c0.135-0.493,0.682-0.503,0.973-0.788c0.24-0.466-0.146-1.081,0.254-1.416
-		c0.371-0.31,0.396-1.016,1.16-0.981c-0.17,0.281-0.355,0.503-0.448,0.759c-0.15,0.407-0.214,0.824-0.193,1.28
-		c0.017,0.363-0.25,0.731-0.327,1.11c-0.043,0.211,0.049,0.449,0.077,0.668c0.47,0.012,0.56-0.304,0.707-0.591
-		c0.173-0.334,0.196-0.322,0.771-0.141L289.348,141.034z M287.43,142.58c-0.411,0.139-0.896-0.089-0.912,0.46
-		c-0.013,0.432,0.25,0.539,0.912,0.438C287.43,143.212,287.43,142.948,287.43,142.58z M284.667,148.962
-		c0.68-0.468,0.928-0.898,0.881-1.53C284.873,148.053,284.873,148.053,284.667,148.962z M286.523,144.948
-		c0.073-0.026,0.145-0.053,0.219-0.079c-0.031-0.069-0.046-0.159-0.098-0.198c-0.029-0.022-0.163,0.029-0.176,0.071
-		C286.449,144.799,286.501,144.879,286.523,144.948z"></path>
-	<path d="M237.152,216.883c-0.246-0.139-0.448-0.254-0.656-0.373c-0.605,0.355-1.197,0.678-1.764,1.041
-		c-0.343,0.222-0.593,0.541-0.604,0.98c-0.013,0.494-0.163,0.924-0.544,1.327c-0.269-0.147-0.504-0.274-0.799-0.437
-		c-0.661,0.127-1.316,0.416-1.95,0.744c-0.886,0.457-1.781,0.881-2.764,1.097c-0.229,0.05-0.437,0.187-0.662,0.26
-		c-0.493,0.16-0.986,0.323-1.488,0.449c-0.843,0.212-1.561-0.149-2.244-0.571c-0.19-0.117-0.353-0.34-0.439-0.55
-		c-0.38-0.925-0.74-1.869-0.698-2.888c0.081-1.955,0.173-3.91,0.315-5.86c0.14-1.918,0.645-3.767,1.208-5.599
-		c0.34-1.104,0.79-2.184,1.044-3.307c0.201-0.887,0.595-1.645,1.082-2.373c0.218-0.326,0.501-0.623,0.806-0.871
-		c0.558-0.453,1.151-0.863,1.737-1.281c0.194-0.137,0.399-0.305,0.621-0.348c0.735-0.146,1.21-0.754,1.881-1.002
-		c0.66-0.763,1.633-0.97,2.49-1.371c0.329-0.154,0.603-0.344,0.889-0.554c0.278-0.205,0.461-0.423,0.524-0.756
-		c0.111-0.589,0.262-1.159,0.532-1.707c0.171-0.349,0.239-0.765,0.274-1.158c0.163-1.834,0.645-3.606,1.045-5.392
-		c1.341-6.002,2.706-11.999,4.062-17.997c0.872-3.856,1.743-7.713,2.614-11.569c0.035-0.156,0.061-0.314,0.1-0.469
-		c0.268-1.059,0.529-1.287,1.632-1.397c0.429-0.043,0.861-0.054,1.291-0.094c0.286-0.027,0.466,0.111,0.547,0.356
-		c0.088,0.264,0.141,0.541,0.189,0.816c0.295,1.697,0.453,3.386,0.153,5.115c-0.274,1.572-0.414,3.169-0.577,4.758
-		c-0.111,1.081-0.425,2.106-0.751,3.132c-0.047,0.149-0.168,0.3-0.154,0.44c0.115,1.167-0.25,2.265-0.443,3.389
-		c-0.08,0.467-0.098,0.944-0.146,1.416c-0.02,0.198-0.034,0.396-0.074,0.591c-0.294,1.404-0.598,2.807-0.888,4.212
-		c-0.072,0.351-0.15,0.71-0.148,1.065c0.015,1.983-0.63,3.842-1.046,5.743c-0.043,0.194-0.149,0.383-0.153,0.575
-		c-0.027,1.123-0.41,2.184-0.571,3.283c-0.093,0.633-0.162,1.258-0.166,1.901c-0.004,0.632-0.123,1.267-0.232,1.894
-		c-0.185,1.059-0.402,2.113-0.607,3.168c-0.015,0.078-0.082,0.17-0.058,0.228c0.265,0.658-0.073,1.231-0.236,1.832
-		c-0.155,0.571-0.074,1.199-0.446,1.724c-0.082,0.114-0.067,0.307-0.076,0.463c-0.031,0.563-0.136,1.104-0.372,1.625
-		c-0.279,0.611-0.167,1.34-0.545,1.928c0.088,0.811-0.107,1.59-0.289,2.365c-0.399,1.697-0.469,3.457-0.959,5.139
-		c-0.053,0.184-0.006,0.395-0.017,0.591c-0.011,0.198,0.009,0.413-0.061,0.591c-0.41,1.036-0.582,2.141-0.954,3.186
-		C237.534,216.583,237.302,216.724,237.152,216.883z M227.339,215.78c0.436,0.102,0.781,0.053,1.089-0.166
-		c0.357-0.254,0.75-0.479,1.048-0.791c0.498-0.523,1.014-1.017,1.633-1.391c0.444-0.268,0.707-0.655,0.744-1.161
-		c0.055-0.756,0.278-1.479,0.384-2.228c0.335-2.357,0.816-4.692,1.231-7.039c0.083-0.471,0.143-0.947,0.182-1.424
-		c0.014-0.176-0.061-0.357-0.108-0.604c-0.523,0.157-0.829,0.457-1.158,0.741c-0.358,0.311-0.755,0.576-1.162,0.88
-		c0.013,0.521-0.113,0.933-0.732,1.161c-0.639,0.234-1.127,0.73-1.331,1.42c-0.305,1.029-0.596,2.062-0.88,3.097
-		c-0.105,0.382-0.186,0.772-0.255,1.162c-0.187,1.058-0.332,2.125-0.551,3.177C227.251,213.674,227.322,214.728,227.339,215.78z
-		 M223.209,219.403c0-0.211,0-0.385,0-0.812C222.995,219.026,222.937,219.204,223.209,219.403z M223.427,220.096l-0.066-0.01
-		l0.025,0.094L223.427,220.096z"></path>
-	<path d="M307.847,179.664c0.16,0.116,0.316,0.327,0.479,0.33c0.646,0.012,1.121,0.604,1.795,0.499
-		c0.094-0.015,0.244,0.075,0.307,0.161c0.383,0.505,0.754,1.018,1.111,1.541c0.084,0.125,0.17,0.318,0.135,0.447
-		c-0.158,0.574,0.102,0.985,0.418,1.423c0.377,0.523,0.291,1.128,0.174,1.729c-0.143,0.742-0.311,1.485-0.359,2.235
-		c-0.047,0.704,0.049,1.419,0.082,2.128c-0.152,0.201-0.287,0.396-0.441,0.577c-0.361,0.425-0.5,0.952-0.301,1.427
-		c0.301,0.715-0.061,1.034-0.596,1.359c0,0.253-0.07,0.548,0.01,0.794c0.518,1.595,0.219,3.153-0.158,4.711
-		c-0.281,1.161-0.582,2.317-0.875,3.476c-0.029,0.117-0.047,0.24-0.098,0.347c-0.5,1.057-0.654,2.211-0.941,3.327
-		c-0.07,0.271-0.146,0.541-0.248,0.801c-0.203,0.521-0.332,1.053-0.436,1.605c-0.127,0.668-0.141,1.479-0.988,1.778
-		c-0.119,0.29-0.234,0.581-0.359,0.869c-0.125,0.293-0.24,0.604-0.715,0.522c0.106-0.865-0.018-1.719,0.182-2.603
-		c0.209-0.92,0.242-1.916,0.154-2.86c-0.215-2.293,0.148-4.537,0.418-6.791c0.037-0.315,0.066-0.631,0.1-0.947
-		c0.189-1.785,0.385-3.57,0.568-5.356c0.146-1.43,0.309-2.858,0.404-4.292c0.047-0.712-0.027-1.434-0.062-2.148
-		c-0.061-1.195-0.191-2.383-0.4-3.563c-0.092-0.529-0.066-0.534-0.602-1.016c-0.109,0.163-0.207,0.321-0.316,0.469
-		c-0.355,0.478-0.726,0.944-1.07,1.431c-0.299,0.422-0.672,0.827-0.832,1.301c-0.316,0.936-0.869,1.797-0.926,2.821
-		c-0.012,0.228-0.144,0.455-0.244,0.673c-0.315,0.686-0.662,1.36-0.961,2.057c-0.233,0.547-0.474,1.099-0.438,1.726
-		c0.011,0.19-0.071,0.388-0.125,0.58c-0.137,0.498-0.274,0.997-0.425,1.491c-0.104,0.343-0.227,0.681-0.35,1.018
-		c-0.164,0.448-0.418,0.881-0.492,1.342c-0.211,1.348-0.87,2.543-1.23,3.836c-0.158,0.57-0.318,1.133-0.296,1.756
-		c0.019,0.494-0.166,1.023-0.368,1.492c-0.341,0.793-0.472,1.602-0.392,2.447c0.048,0.508-0.115,0.848-0.613,1.02
-		c-0.563,0.195-1.118,0.418-1.681,0.613c-0.186,0.065-0.406,0.15-0.582,0.107c-0.614-0.15-1.158,0.023-1.762,0.406
-		c0-0.358-0.053-0.6,0.01-0.805c0.473-1.549,0.482-3.146,0.566-4.742c0.102-1.948,0.143-3.904,0.627-5.816
-		c0.186-0.732,0.241-1.496,0.362-2.245c0.237-1.467,0.728-2.86,1.259-4.241c0.143-0.371,0.278-0.746,0.416-1.119
-		c0.656-1.771,1.533-3.408,2.844-4.797c0.269-0.285,0.504-0.635,0.65-0.996c0.217-0.537,0.549-0.979,0.95-1.365
-		c0.806-0.774,1.629-1.528,2.46-2.273c0.607-0.544,1.348-0.828,2.115-1.075c0.795-0.256,1.486-0.176,2.107,0.395
-		C307.869,179.68,307.847,179.664,307.847,179.664z M304.646,180.827c-0.77,0.084-0.77,0.085-0.805,0.62
-		C304.106,181.242,304.337,181.065,304.646,180.827z"></path>
-	<path d="M335.357,203.391c-0.582-0.086-1.104-0.434-1.717-0.398c-0.102,0.006-0.234-0.082-0.307-0.168
-		c-0.361-0.422-0.73-0.839-1.043-1.295c-0.148-0.216-0.252-0.516-0.244-0.773c0.014-0.393-0.074-0.703-0.352-0.973
-		c-0.414-0.4-0.541-0.949-0.408-1.441c0.365-1.344,0.256-2.695,0.186-4.045c-0.023-0.479,0.074-0.862,0.355-1.217
-		c0.322-0.404,0.391-0.893,0.189-1.312c-0.213-0.448-0.131-0.792,0.158-1.085c0.395-0.402,0.379-0.801,0.244-1.309
-		c-0.361-1.342-0.531-2.711-0.244-4.097c0.078-0.381,0.23-0.752,0.264-1.134c0.033-0.395-0.023-0.798-0.062-1.196
-		c-0.041-0.413,0.221-0.648,0.469-0.868c-0.062-0.25-0.146-0.478-0.178-0.714c-0.039-0.298,0.049-0.58,0.352-0.689
-		c0.457-0.164,0.555-0.486,0.578-0.931c0.053-0.958,0.199-1.901,0.643-2.776c0.182-0.358,0.199-0.753,0.205-1.163
-		c0.008-0.728,0.146-1.422,0.865-1.858c0.164-0.099,0.238-0.39,0.299-0.608c0.123-0.444,0.111-0.447,0.576-0.785
-		c0.055,0.05,0.15,0.097,0.152,0.149c0.021,0.517,0.082,1.04,0.029,1.55c-0.184,1.715-0.025,3.426-0.012,5.139
-		c0.014,1.755,0.018,3.511-0.221,5.262c-0.109,0.824-0.043,1.674-0.088,2.51c-0.125,2.313-0.262,4.627-0.404,6.939
-		c-0.051,0.842,0.053,1.669,0.127,2.505c0.113,1.237,0.328,2.449,0.602,3.656c0.08,0.354,0.117,0.716,0.518,0.903
-		c0.092-0.061,0.244-0.106,0.271-0.193c0.215-0.667,0.691-1.162,1.102-1.697c0.471-0.613,0.822-1.277,0.98-2.033
-		c0.152-0.736,0.426-1.436,0.566-2.184c0.15-0.807,0.594-1.559,0.896-2.339c0.232-0.595,0.359-1.205,0.439-1.849
-		c0.125-0.98,0.395-1.949,0.672-2.902c0.244-0.84,0.625-1.639,0.602-2.543c-0.004-0.154,0.035-0.338,0.121-0.459
-		c0.451-0.641,0.459-1.428,0.705-2.133c0.195-0.557,0.32-1.143,0.244-1.765c-0.043-0.339,0.088-0.702,0.158-1.051
-		c0.127-0.622,0.445-1.201,0.41-1.861c-0.016-0.271,0.033-0.552-0.02-0.814c-0.131-0.643,0.119-1.097,0.652-1.408
-		c0.551-0.321,1.119-0.608,1.623-0.877c0.416,0.125,0.762,0.328,1.084,0.297c0.322-0.031,0.625-0.294,0.949-0.462
-		c0.25,0.092,0.205,0.336,0.162,0.495c-0.461,1.683-0.332,3.399-0.373,5.113c-0.041,1.751,0.049,3.512-0.299,5.253
-		c-0.209,1.054-0.268,2.138-0.443,3.199c-0.117,0.707-0.291,1.41-0.498,2.096c-0.357,1.183-0.727,2.365-1.154,3.525
-		c-0.471,1.277-1.156,2.443-2.027,3.5c-0.25,0.303-0.488,0.647-0.615,1.014c-0.164,0.471-0.432,0.85-0.738,1.22
-		c-0.793,0.954-1.625,1.867-2.59,2.655c-0.695,0.57-1.488,0.912-2.354,1.13c-0.467,0.116-0.859,0.041-1.244-0.231
-		c-0.256-0.181-0.537-0.324-0.807-0.484L335.357,203.391z M339.185,202.344c0.352,0.053,0.6-0.014,0.523-0.456
-		c-0.279,0.048-0.52,0.131-0.502,0.483c-0.094,0.02-0.188,0.037-0.281,0.057c0.02,0.031,0.039,0.061,0.061,0.092
-		C339.052,202.461,339.119,202.402,339.185,202.344z"></path>
-	<path d="M393.738,175.059c0.445,0.224,0.588,0.623,0.625,1.082c0.033,0.408-0.223,0.665-0.482,0.919
-		c-0.227,0.223-0.434,0.476-0.689,0.662c-0.451,0.328-0.875,0.64-1.168,1.157c-0.201,0.356-0.645,0.569-0.953,0.873
-		c-0.4,0.394-0.652,0.852-0.814,1.42c-0.342,1.195-0.947,2.271-1.881,3.129c-0.234,0.216-0.471,0.434-0.68,0.673
-		c-1.002,1.144-2.201,2.071-3.473,2.86c-0.996,0.619-2.105,1.066-3.281,1.385c-1.156,0.312-2.25,0.449-3.402,0.16
-		c-0.074-0.02-0.158-0.006-0.238-0.006c-2.811,0.02-4.629-2.594-4.684-4.949c-0.018-0.707,0.17-1.419,0.256-2.129
-		c0.062-0.513,0.184-1.031,0.158-1.54c-0.053-1.014,0.113-1.979,0.377-2.953c0.418-1.549,0.898-3.071,1.754-4.437
-		c1.588-2.538,3.217-5.051,5.434-7.111c0.061-0.054,0.121-0.107,0.17-0.17c0.803-1.016,1.92-1.494,3.117-1.852
-		c0.572-0.172,1.135-0.381,1.691-0.601c0.541-0.215,1.088-0.312,1.627-0.063c0.412,0.191,0.738,0.124,1.121-0.092
-		c0.922-0.518,1.633-0.328,2.268,0.495c0.744,0.963,1.254,2.011,1.428,3.231c0.104,0.731-0.125,1.247-0.752,1.602
-		c-0.613,0.349-1.121,0.911-1.914,0.915c-0.174,0.001-0.363,0.15-0.52,0.269c-0.629,0.478-1.139,1.121-1.932,1.371
-		c-0.068,0.022-0.146,0.091-0.172,0.156c-0.232,0.625-0.812,0.845-1.318,1.151c-0.24,0.144-0.5,0.271-0.701,0.46
-		c-0.996,0.942-2.24,1.517-3.348,2.295c-0.191,0.134-0.418,0.263-0.643,0.295c-0.539,0.076-0.951,0.35-1.383,0.655
-		c-0.49,0.346-1.027,0.615-1.168,1.27c-0.008,0.038-0.029,0.078-0.057,0.105c-1.176,1.17-1.205,2.798-1.639,4.252
-		c-0.146,0.491,0.012,1.115,0.162,1.641c0.123,0.435,0.586,0.649,0.998,0.797c0.562,0.2,1.15,0.33,1.727,0.487
-		c0.076,0.021,0.17,0.055,0.234,0.027c0.727-0.299,1.598-0.234,2.186-0.892c0.184-0.204,0.422-0.377,0.668-0.504
-		c1.01-0.523,1.834-1.283,2.607-2.088c1.256-1.304,2.744-2.321,4.146-3.443c0.84-0.671,1.709-1.303,2.533-1.992
-		C392.328,175.533,392.966,175.174,393.738,175.059z M387.867,166.509c-0.309-0.221-0.574-0.397-0.824-0.592
-		c-0.467-0.366-0.598-0.4-1.021-0.042c-0.885,0.748-1.756,1.512-2.609,2.295c-0.381,0.349-0.756,0.726-1.043,1.151
-		c-0.623,0.923-1.193,1.884-1.775,2.836c-0.049,0.081-0.025,0.207-0.041,0.365c0.162-0.036,0.277-0.037,0.369-0.085
-		c1.24-0.652,2.414-1.403,3.521-2.267c0.723-0.564,1.5-1.039,2.336-1.445C387.796,168.23,388.228,167.972,387.867,166.509z"></path>
-	<path d="M290.457,184.554c0.149,0.589-0.17,1.176,0.229,1.685c0.073,0.094,0.021,0.311-0.015,0.459
-		c-0.338,1.422-0.934,2.707-1.959,3.779c-0.271,0.283-0.498,0.62-0.688,0.965c-0.408,0.747-0.393,0.756-1.311,0.551
-		c-0.17,0.189-0.405,0.367-0.53,0.604c-0.246,0.468-0.826,0.429-1.129,0.801c-0.019,0.021-0.24-0.124-0.433-0.228
-		c-0.07,0.224-0.117,0.408-0.183,0.584c-0.146,0.395-0.423,0.695-0.804,0.84c-1.262,0.48-2.537,0.921-3.801,1.392
-		c-0.604,0.226-1.211,0.399-1.863,0.365c-0.418-0.022-0.778,0.146-1.121,0.362c-0.23,0.146-0.463,0.285-0.773,0.476
-		c-0.457,1.353-0.843,2.81-0.982,4.327c-0.012,0.119,0.004,0.244-0.024,0.357c-0.381,1.558-0.099,3.09,0.152,4.625
-		c0.134,0.824,0.103,1.674,0.407,2.517c0.496,0.304,1.021,0.362,1.578,0.134c0.369-0.152,0.752-0.279,1.099-0.473
-		c1.213-0.682,2.438-1.334,3.552-2.189c0.975-0.748,2.038-1.381,3.131-2.109c-0.389,1.097-1.133,1.9-1.802,2.75
-		c-0.095,0.119-0.304,0.168-0.362,0.295c-0.537,1.119-1.639,1.695-2.443,2.556c-0.18,0.192-0.479,0.284-0.735,0.39
-		c-0.345,0.143-0.631,0.318-0.762,0.702c-0.126,0.367-0.435,0.565-0.792,0.675c-1.559,0.473-3.109,1.016-4.746,1.119
-		c-0.952,0.059-1.812-0.26-2.322-1.173c-0.369-0.662-0.749-1.317-1.097-1.989c-0.126-0.244-0.196-0.525-0.253-0.797
-		c-0.317-1.494-0.381-3.013-0.284-4.527c0.124-1.955,0.337-3.907,0.924-5.787c0.38-1.217,0.806-2.426,1.312-3.596
-		c0.457-1.06,0.992-2.096,1.595-3.078c0.813-1.326,1.778-2.543,2.819-3.711c0.804-0.897,1.715-1.668,2.566-2.508
-		c0.25-0.246,0.584-0.406,0.868-0.619c0.606-0.457,1.208-0.918,1.806-1.386c0.577-0.452,1.209-0.739,1.949-0.839
-		c0.833-0.112,1.641-0.267,2.485-0.003c0.351,0.109,0.772,0.157,1.157-0.094c0.203-0.133,1.643-0.017,1.865,0.1
-		c0.209,0.109,0.471,0.223,0.572,0.409C289.602,183.807,290.096,184.154,290.457,184.554z M276.526,195.301
-		c1.122,0.217,1.124,0.222,1.951-0.102c0.256-0.101,0.502-0.232,0.747-0.359c1.025-0.529,2.047-1.065,3.07-1.596
-		c0.711-0.369,1.427-0.738,1.961-1.347c0.736-0.84,1.394-1.737,1.896-2.747c0.267-0.535,0.28-1.082,0.173-1.629
-		c-0.16-0.805-0.709-1.118-1.506-0.902c-0.306,0.082-0.6,0.213-0.895,0.336c-0.625,0.26-1.229,0.58-1.871,0.785
-		c-1.229,0.393-2.029,1.279-2.604,2.332c-0.815,1.493-1.504,3.057-2.103,4.68c-0.168-0.027-0.342-0.055-0.549-0.09
-		C276.716,194.85,276.642,195.027,276.526,195.301z"></path>
-	<path d="M355.14,197.245c0-0.26-0.018-0.453,0.004-0.643c0.105-0.911,0.314-1.82,0.309-2.73c-0.006-0.713-0.025-1.422,0.062-2.129
-		c0.355-2.812,0.717-5.623,1.072-8.434c0.285-2.257,0.566-4.515,0.852-6.773c0.125-0.99,0.221-1.985,0.395-2.966
-		c0.146-0.82,0.385-1.623,0.592-2.431c0.039-0.153,0.113-0.3,0.188-0.44c0.668-1.268,1.916-1.398,2.902-0.304
-		c0.053,0.058,0.096,0.124,0.189,0.247c0.904-0.731,1.863-1.382,2.855-1.793c0.705,0.096,1.328,0.223,1.953,0.248
-		c0.285,0.012,0.572-0.214,0.869-0.257c0.156-0.023,0.336,0.112,0.604,0.211c-0.254,0.135-0.404,0.215-0.609,0.323
-		c0.363,0.479,0.865,0.164,1.291,0.21c0.178,0.394,0.338,0.749,0.506,1.12c-0.295,0.597-1.033,0.525-1.426,1.007
-		c-0.367,0.45-0.92,0.747-1.383,1.105c-0.094,0.005-0.174,0.021-0.252,0.011c-1.297-0.18-2.172,0.206-2.791,1.31
-		c-0.236,0.424-0.486,0.797-0.863,1.121c-0.623,0.538-0.959,1.283-1.092,2.077c-0.178,1.057-0.164,2.144-0.555,3.167
-		c-0.066,0.172-0.014,0.396,0.008,0.593c0.135,1.204-0.021,2.387-0.289,3.556c-0.115,0.51-0.145,1.014-0.182,1.53
-		c-0.059,0.827-0.26,1.646-0.4,2.466c-0.047,0.273-0.092,0.547-0.137,0.82c-0.096,0.586-0.105,1.205-0.305,1.752
-		c-0.516,1.419-0.92,2.869-1.377,4.304c-0.137,0.431-0.453,0.66-0.787,0.856c-0.547,0.32-1.123,0.592-1.697,0.858
-		C355.525,197.293,355.351,197.245,355.14,197.245z"></path>
-	<path d="M362.533,207.434c0.516-0.418,0.957-0.277,1.312,0.113c0.996,1.097,1.895,2.248,2.078,3.799
-		c0.113,0.949-0.014,1.809-0.729,2.508c-0.51,0.497-1.076,0.947-1.357,1.633c-1.398,1.561-3.156,2.076-5.184,1.74
-		c-0.26-0.043-0.553-0.184-0.73-0.372c-0.68-0.713-1.105-1.522-1.049-2.575c0.066-1.215,0.266-2.371,0.904-3.423
-		c0.02-0.034,0.049-0.065,0.061-0.103c0.334-1.006,0.902-1.838,1.781-2.457c0.184-0.129,0.289-0.375,0.432-0.564
-		c0.24-0.318,0.467-0.648,0.729-0.947c0.289-0.33,0.584-0.35,0.949-0.092c0.129,0.09,0.23,0.217,0.348,0.324
-		C362.193,207.125,362.31,207.231,362.533,207.434z M362.83,213.526c0.152-1.025-0.152-1.898-0.383-2.773
-		c-0.145-0.539-0.451-0.996-1.088-1.144c-0.773,1.048-1.141,2.208-1.312,3.437c-0.082,0.588,0.369,1.19,0.959,1.316
-		c0.227,0.049,0.471,0.008,0.746,0.008c0.146-0.166,0.279-0.369,0.461-0.514C362.386,213.715,362.613,213.638,362.83,213.526z"></path>
-	<path d="M380.568,206.495c-0.18,0.262-0.291,0.414-0.393,0.571c-0.299,0.472-0.602,0.94-0.887,1.419
-		c-0.242,0.407-0.635,0.596-1.047,0.75c-0.41,0.153-0.809,0.078-1.111-0.225c-0.391-0.393-0.646-0.854-0.672-1.447
-		c-0.043-1.029-0.219-2.061-0.199-3.087c0.014-0.677-0.061-1.337-0.088-2.005c-0.006-0.117,0.139-0.24,0.219-0.369
-		c0.926,0.457,1.168,1.334,1.6,2.165c0.172-0.087,0.383-0.127,0.48-0.255c0.291-0.377,0.529-0.793,0.805-1.186
-		c0.66-0.945,1.322-1.891,2.002-2.824c0.135-0.187,0.342-0.318,0.512-0.474c0.945,0.28,1.145,1.2,1.652,1.817
-		c0.381,0.466,0.395,1.115,0.258,1.725c-0.035,0.156-0.059,0.314-0.084,0.471c-0.305,1.836-0.369,3.701-0.611,5.541
-		c-0.141,1.072-0.184,2.135-0.152,3.207c0.014,0.416-0.137,0.769-0.301,1.137c-0.209,0.474-0.58,0.625-1.045,0.654
-		c-0.549,0.037-0.836-0.149-0.928-0.701c-0.07-0.426-0.092-0.871-0.061-1.303c0.107-1.47,0.258-2.936,0.371-4.404
-		C380.917,207.323,380.916,206.956,380.568,206.495z"></path>
-	<path d="M342.41,212.859c-0.029,0.263-0.059,0.524-0.102,0.901c1.176-0.383,1.316-1.568,2.133-2.1
-		c-0.055-0.215-0.078-0.369-0.137-0.51c-0.043-0.105-0.129-0.193-0.166-0.244c0.178-0.223,0.336-0.421,0.494-0.619
-		c0.535-0.672,0.998-0.793,1.773-0.453c0.109,0.047,0.211,0.117,0.305,0.19c0.061,0.047,0.104,0.118,0.184,0.216
-		c-0.023,0.445-0.18,0.797-0.701,0.926c-0.178,0.043-0.365,0.156-0.49,0.291c-0.592,0.64-1.031,1.379-1.354,2.192
-		c-0.32,0.813-0.631,1.632-0.99,2.429c-0.271,0.598,0.012,1.086,0.227,1.59c0.049,0.119,0.242,0.221,0.383,0.248
-		c0.273,0.053,0.57,0.112,0.832,0.053c1.207-0.274,2.385-0.615,3.275-1.579c0.346-0.374,0.701-0.771,1.285-0.962
-		c0.133,0.093,0.297,0.193,0.445,0.314c0.562,0.452,0.639,0.977,0.234,1.543c-0.264,0.37-0.629,0.604-1.027,0.803
-		c-0.391,0.193-0.773,0.4-1.166,0.593c-0.213,0.104-0.428,0.241-0.656,0.274c-0.861,0.125-1.533,0.602-2.213,1.094
-		c-0.799,0.58-1.734,0.539-2.633,0.386c-0.436-0.075-0.748-0.515-0.754-0.981c-0.01-0.875,0.049-1.746-0.219-2.602
-		c-0.041-0.131,0.041-0.307,0.084-0.457s0.189-0.324,0.15-0.438c-0.15-0.431,0.168-0.836,0.033-1.248
-		c-0.098-0.299,0.086-0.27,0.287-0.338c0.266-0.091,0.113-0.291,0.023-0.473c-0.264-0.538-0.182-0.705,0.453-1.037L342.41,212.859z"></path>
-	<path d="M332.876,220.167c-1.076-0.648-1.498-0.574-0.994-2.082c0.086-0.258,0.086-0.547,0.119-0.821
-		c0.033-0.271,0.059-0.541,0.096-0.886c0.248-0.019,0.473-0.057,0.695-0.047c0.672,0.03,1.344,0.068,2.014,0.125
-		c0.623,0.053,1.018,0.416,1.191,1.004c0.197,0.672,0.254,1.33-0.301,1.89c-0.262,0.262-0.557,0.43-0.93,0.485
-		C334.142,219.928,333.521,220.051,332.876,220.167z"></path>
-	<path d="M374.955,204.827c0.225,0.553,0.307,0.971,0.088,1.446c-0.451,0.976-0.436,2.088-0.896,3.071
-		c-0.289,0.617-0.59,1.205-1.039,1.726c-0.469,0.54-0.869,1.138-1.32,1.692c-0.131,0.162-0.338,0.262-0.648,0.492
-		c0.061-0.607,0.156-1.031,0.436-1.363c0.553-0.661,0.758-1.473,1.004-2.256c0.338-1.069,0.758-2.088,1.395-3.018
-		c0.223-0.322,0.342-0.711,0.525-1.062C374.619,205.329,374.771,205.118,374.955,204.827z"></path>
-	<path d="M283.901,154.978c0.263-0.482,0.552-0.952,0.78-1.449c0.213-0.464,0.359-0.957,0.562-1.511
-		c0.17,0.023,0.35,0.048,0.529,0.073c0.275-0.268,0.583-0.51,0.816-0.81c0.262-0.334-0.127-0.683-0.061-1.028
-		c0.061-0.308,0.148-0.613,0.26-0.906c0.142-0.37,0.317-0.727,0.479-1.09c0.048-0.107,0.067-0.269,0.149-0.313
-		c0.543-0.291,0.631-0.882,0.926-1.337c0.084-0.129,0.201-0.242,0.322-0.34c0.051-0.041,0.148-0.024,0.318-0.044
-		c-0.045,0.198-0.031,0.409-0.131,0.522c-0.193,0.22-0.299,0.428-0.309,0.734c-0.01,0.305-0.11,0.618-0.228,0.905
-		c-0.269,0.657-0.581,1.297-0.86,1.951c-0.25,0.581-0.511,1.146-0.883,1.67c-0.261,0.369-0.369,0.846-0.561,1.308
-		c-0.23-0.095-0.479-0.199-0.79-0.328c-0.101,0.669,0.301,1.408-0.419,1.969c-0.247,0.036-0.579,0.187-0.926-0.002
-		C283.875,154.95,283.901,154.978,283.901,154.978z"></path>
-	<path d="M358.271,154.56c0.064-0.216-0.014-0.522,0.281-0.6c1.449-0.381,2.873-0.925,4.564-0.78
-		c-0.199,0.182-0.295,0.345-0.408,0.358c-0.648,0.075-1.232,0.292-1.785,0.637c-0.191,0.12-0.447,0.161-0.68,0.189
-		c-0.656,0.078-1.316,0.131-1.975,0.194L358.271,154.56z"></path>
-	<path d="M314.853,218.327c0.035,0.15,0.119,0.309,0.1,0.452c-0.082,0.565-0.439,1.12-0.041,1.697
-		c-0.332,0.521-0.109,1.231-0.654,1.771c-0.061-0.27-0.158-0.49-0.148-0.709c0.031-0.748,0.113-1.494,0.15-2.242
-		c0.021-0.453,0.279-0.717,0.627-0.936C314.882,218.357,314.853,218.327,314.853,218.327z"></path>
-	<path d="M359.115,153.276c-0.117-0.369-0.184-0.504-0.201-0.644c-0.047-0.368,0.562-0.633,0.172-1.062
-		c0.197-0.187,0.379-0.413,0.691-0.266c-0.021,0.174-0.109,0.376-0.045,0.498c0.104,0.197,0.32,0.157,0.52,0.073
-		c0.164-0.068,0.346-0.094,0.643-0.17C360.476,152.494,359.638,152.5,359.115,153.276z"></path>
-	<path d="M355.787,153.396c0.289-0.201,0.486-0.321,0.662-0.467c0.15-0.124,0.264-0.293,0.416-0.415
-		c0.166-0.135,0.408-0.036,0.477,0.173c0.146,0.454,0.023,0.761-0.385,0.838C356.619,153.588,356.261,153.701,355.787,153.396z"></path>
-	<path d="M353.976,152.477c0.014,0.62-0.418,0.826-0.766,1.009c-0.307,0.163-0.605-0.027-0.779-0.346
-		c-0.006-0.251,0.17-0.358,0.359-0.41C353.132,152.638,353.482,152.58,353.976,152.477z"></path>
-	<path d="M370.488,151.861c-0.117,0.082-0.223,0.209-0.35,0.238c-0.463,0.103-0.93,0.182-1.398,0.244
-		c-0.059,0.008-0.137-0.143-0.223-0.242c0.59-0.442,1.279-0.17,1.842-0.507C370.402,151.684,370.445,151.772,370.488,151.861z"></path>
-	<path d="M289.139,139.523c0.118-0.14,0.241-0.276,0.354-0.42c0.16-0.204,0.314-0.414,0.488-0.644
-		c0.309,0.554,0.303,0.606-0.061,0.998c-0.264,0.283-0.291,0.286-0.782,0.063C289.139,139.521,289.139,139.523,289.139,139.523z"></path>
-	<path d="M358.271,154.558c-0.436,0.041-0.869,0.082-1.27,0.119c-0.182-0.237-0.057-0.345,0.082-0.419
-		c0.482-0.255,0.895-0.203,1.188,0.302V154.558z"></path>
-	<path d="M375.533,205.213c0.037-0.521-0.668-1.039-0.002-1.562C375.892,204.17,375.828,204.691,375.533,205.213z"></path>
-	<path d="M346.617,173.625c-0.076,0.312,0.551,0.769-0.148,1.028c0-0.333-0.008-0.6,0.006-0.865
-		C346.478,173.731,346.568,173.679,346.617,173.625z"></path>
-	<path d="M366.695,152.755c0.393-0.434,0.611-0.647,0.949-0.398c0.023,0.017,0.035,0.078,0.023,0.107
-		C367.462,152.96,367.138,152.502,366.695,152.755z"></path>
-	<path d="M364.621,151.257c0.42,0.06,0.383-0.413,0.646-0.559c0.162,0.331,0.158,0.644-0.027,0.95
-		c-0.381,0.094-0.457-0.2-0.586-0.424L364.621,151.257z"></path>
-	<path d="M364.613,152.869c0.359-0.295,0.604-0.457,0.922-0.236C365.228,152.962,365.228,152.962,364.613,152.869z"></path>
-	<path d="M372.095,151.551c0.18-0.435,0.492-0.381,0.844-0.275C372.673,151.726,372.673,151.726,372.095,151.551z"></path>
-	<path d="M277.522,156.966c0.082,0.793,0.082,0.793-0.5,1.016C277.064,157.582,277.169,157.213,277.522,156.966z"></path>
-	<path d="M281.509,150.206c-0.078,0.202-0.157,0.404-0.252,0.647c-0.319-0.371-0.071-0.54,0.033-0.747
-		C281.365,150.139,281.437,150.173,281.509,150.206z"></path>
-	<path d="M347.589,154.283c-0.162-0.043-0.322-0.087-0.482-0.13c0.043-0.091,0.086-0.181,0.129-0.272
-		c0.139,0.084,0.277,0.167,0.418,0.251C347.632,154.182,347.611,154.232,347.589,154.283z"></path>
-	<path d="M342.406,212.861c0.027-0.228,0.023-0.468,0.098-0.681c0.072-0.209,0.252-0.277,0.465-0.129
-		c-0.031,0.375-0.67,0.334-0.557,0.807C342.41,212.859,342.406,212.861,342.406,212.861z"></path>
-	<path d="M290.481,134.986c-0.079,0.05-0.165,0.104-0.251,0.158c-0.025-0.06-0.088-0.146-0.068-0.174
-		c0.06-0.086,0.151-0.15,0.23-0.223C290.417,134.813,290.442,134.88,290.481,134.986z"></path>
-	<path d="M289.013,137.665c0.027-0.443,0.04-0.646,0.056-0.912C289.371,137.033,289.322,137.235,289.013,137.665z"></path>
-	<path d="M280.953,151.562c-0.115,0.078-0.199,0.137-0.285,0.195c-0.051-0.082-0.158-0.18-0.14-0.244
-		c0.024-0.088,0.142-0.149,0.22-0.222C280.808,151.371,280.869,151.451,280.953,151.562z"></path>
-	<path d="M289.272,145.62c-0.103,0.048-0.2,0.107-0.306,0.133c-0.021,0.005-0.112-0.162-0.104-0.17
-		c0.086-0.073,0.184-0.128,0.28-0.188C289.18,145.461,289.218,145.526,289.272,145.62z"></path>
-	<path d="M335.365,203.381c0.082,0.143,0.164,0.283,0.246,0.426c-0.033,0.016-0.064,0.029-0.098,0.044
-		c-0.053-0.153-0.104-0.306-0.156-0.459C335.357,203.391,335.365,203.381,335.365,203.381z"></path>
-	<path d="M307.869,179.68c0.061-0.035,0.117-0.076,0.18-0.104c0.053-0.024,0.113-0.037,0.172-0.043
-		c0.008-0.001,0.043,0.085,0.033,0.094c-0.051,0.044-0.111,0.102-0.17,0.107c-0.074,0.005-0.15-0.038-0.23-0.065
-		C307.847,179.664,307.869,179.68,307.869,179.68z"></path>
-	<path d="M332.937,178.103c0.066,0.134,0.152,0.263,0.195,0.405c0.051,0.165-0.004,0.29-0.209,0.287
-		c0.002,0.001,0.033,0.028,0.033,0.028c0.002-0.25,0.006-0.5,0.01-0.75L332.937,178.103z"></path>
-	<path d="M332.964,178.073c-0.086-0.025-0.174-0.051-0.262-0.076c0.047-0.05,0.092-0.101,0.137-0.151
-		c0.033,0.086,0.064,0.172,0.096,0.258C332.937,178.103,332.964,178.073,332.964,178.073z"></path>
-	<path d="M289.876,135.72c0.021,0.022,0.064,0.056,0.06,0.064c-0.028,0.053-0.065,0.099-0.101,0.148
-		c-0.021-0.022-0.065-0.057-0.061-0.066C289.803,135.814,289.841,135.768,289.876,135.72z"></path>
-	<path d="M371.216,151.529c0.041,0.044,0.125,0.12,0.119,0.129c-0.055,0.073-0.125,0.133-0.191,0.197
-		c-0.027-0.063-0.082-0.13-0.072-0.186C371.082,151.617,371.162,151.578,371.216,151.529z"></path>
-	<path d="M289.335,140.323c-0.078-0.042-0.221-0.08-0.225-0.126c-0.012-0.223,0.016-0.447,0.028-0.672c0-0.001,0-0.004,0-0.004
-		c0.065,0.274,0.129,0.548,0.19,0.825C289.328,140.349,289.335,140.323,289.335,140.323z"></path>
-	<path d="M361.568,151.14c0.029-0.015,0.061-0.044,0.09-0.042c0.021,0.002,0.039,0.045,0.057,0.07
-		c-0.047,0.025-0.094,0.05-0.141,0.075C361.572,151.209,361.57,151.175,361.568,151.14z"></path>
-	<path d="M376.062,150.606c0.004,0.022,0.004,0.045,0.006,0.069c-0.035,0.002-0.07,0.007-0.105,0.002
-		c-0.006-0.001-0.006-0.046-0.008-0.071C375.992,150.606,376.027,150.606,376.062,150.606z"></path>
-	<path d="M364.654,151.224c-0.256-0.015-0.307-0.131-0.125-0.413c0.039,0.19,0.064,0.318,0.092,0.446L364.654,151.224z"></path>
-	<path d="M159.075,225.57c-0.018-0.03-0.036-0.062-0.054-0.092c0.057-0.019,0.114-0.044,0.172-0.049
-		c0.021-0.003,0.047,0.048,0.071,0.073C159.201,225.526,159.138,225.547,159.075,225.57z"></path>
-	<path d="M165.531,219.065c0.025,0.012,0.051,0.023,0.076,0.034c-0.036,0.022-0.072,0.044-0.108,0.067
-		C165.509,219.131,165.52,219.098,165.531,219.065z"></path>
-	<path d="M166.788,217.629c-0.03,0.01-0.061,0.019-0.091,0.027c-0.005-0.044-0.01-0.088-0.016-0.132
-		c0.033,0.007,0.073,0.002,0.095,0.021C166.793,217.559,166.785,217.601,166.788,217.629z"></path>
-	<path d="M289.339,141.048c-0.002-0.24-0.006-0.479-0.006-0.722c0.002-0.003-0.006,0.023-0.004,0.02
-		c0.008,0.225,0.014,0.453,0.019,0.685C289.348,141.034,289.339,141.048,289.339,141.048z"></path>
-	<path d="M337.015,155.766c0.049-0.047,0.096-0.094,0.143-0.142c0.014,0.05,0.029,0.1,0.043,0.15
-		c-0.07-0.013-0.141-0.025-0.209-0.039C336.99,155.734,337.015,155.766,337.015,155.766z"></path>
-	<path d="M333.015,179.146c-0.082-0.041-0.164-0.081-0.246-0.122c0.062-0.067,0.125-0.133,0.188-0.2
-		c-0.002-0.001-0.033-0.028-0.033-0.029c0.037,0.118,0.076,0.237,0.113,0.356L333.015,179.146z"></path>
-	<path d="M333.039,179.151c-0.014,0.062-0.031,0.124-0.037,0.188c-0.002,0.014,0.027,0.031,0.043,0.047
-		c-0.01-0.079-0.02-0.159-0.031-0.239C333.015,179.146,333.039,179.151,333.039,179.151z"></path>
-	<path d="M210.358,149.023c0.105-0.056,0.204-0.135,0.316-0.165c0.373-0.099,0.533,0.025,0.521,0.393
-		c-0.002,0.078-0.005,0.173-0.048,0.228c-0.065,0.083-0.161,0.148-0.257,0.197c-0.017,0.008-0.126-0.098-0.137-0.162
-		c-0.02-0.112,0.033-0.242,0-0.346c-0.055-0.173-0.199-0.228-0.383-0.161C210.364,149.012,210.358,149.023,210.358,149.023z"></path>
-	<path d="M201.686,162.52c0-0.07-0.024-0.152,0.006-0.205c0.031-0.056,0.113-0.083,0.172-0.123
-		c-0.001,0.095,0.011,0.193-0.011,0.282c-0.006,0.022-0.125,0.015-0.192,0.022C201.66,162.495,201.686,162.52,201.686,162.52z"></path>
-</g>
-</svg></a>
-		</div><!-- .logo -->
-		<div class="ajax-search">
-			<form method="post" action="">
-				<label><i class="fa fa-search"></i> <input type="text" name="ajax-search" placeholder="SEARCH"></label>
-				<input type="submit" value="Search">
-				<i class="fa fa-refresh fa-spin ajax-loading ajax-search-notification"></i>
-				<i class="fa fa-times no-results ajax-search-notification"></i>
-			</form>
-			<div class="ajax-results">
-				<ul class="ajax-results-list">
-					
-				</ul>
-			</div><!-- /.ajax-results -->
-		</div><!-- /.ajax-search -->
-	</div><!-- /.nav-primary -->
-	<div class="nav-secondary">
-		<ul class="main-navigation">
-			<li><a href="http://adventure.com/trips/">Adventures</a></li>
-			<li><a href="http://adventure.com/become-an-adventure-provider">List an Adventure</a></li>
-			<li><a href="http://adventure.com/blog/">Stories</a></li>
-		</ul><!-- /.main-navigation -->
-		<div class="user-utility">
-		<div class="user-login"><a href="http://adventure.com/login?redirect_to=http://adventure.com/privacy-policy/" class="btn small blue">Login</a></div>		</div>
-	</div><!-- /.nav-secondary -->
-</header><div class="block-content">
-	<div class="headlines">
-		<h1>Privacy Policy</h1>
-			</div><!-- /.headlines -->
-<div class="post-content"><p style="text-align: left;"><strong>Last Updated: October __ 2014</strong></p>
-<p style="text-align: left;">Intrepid US, Inc., a Delaware corporation d/b/a “Adventure.com” (“<strong>Adventure.com,</strong>” “<strong>Company</strong>, “<strong>we</strong>,” “<strong>us</strong>,” “<strong>our</strong>”) respect your privacy and are committed to protecting it through our compliance with this policy.</p>
-<p style="text-align: left;">This policy describes the types of information we may collect from you or that you may provide when you visit our online platform that connects locals who have unique knowledge of, and experience with, particular adventure travel destinations, activities, products or services with travelers seeking to receive such adventure travel destinations, activities, products or services, which online platform is accessible at <a href="http://www.adventure.com">www.adventure.com</a> and any other websites through which Adventure.com makes the Services available (collectively, the “<strong>Site</strong>”) and as an application for mobile devices (the “<strong>Application</strong>” and collectively with the “Site”, the “<strong>Services</strong>“)and our practices for collecting, using, maintaining, protecting and disclosing that information.</p>
-<p style="text-align: left;">This policy applies to information we collect:</p>
-<ul style="text-align: left;">
-<li>On the Services.</li>
-<li>In e-mail, text and other electronic messages between you and the Services.</li>
-<li>Through mobile and desktop applications you download from the Services, which provide dedicated non-browser-based interaction between you and the Services.</li>
-<li>When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.</li>
-</ul>
-<p style="text-align: left;">It does not apply to information collected by:</p>
-<ul style="text-align: left;">
-<li>us offline or through any other means, including on any other website operated by Company or any third party[ (including our affiliates and subsidiaries)]; or</li>
-<li>any third party [(including our affiliates and subsidiaries)], including through any application or content (including advertising) that may link to or be accessible from or on the Services.</li>
-</ul>
-<p style="text-align: left;">Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using the Services, you agree to this privacy policy. This policy may change from time to time. Your continued use of the Services after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.</p>
-<p style="text-align: left;">Children Under the Age of 13</p>
-<p style="text-align: left;">Our Services are not intended for children under 18 years of age. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on the Services or on or through any of its features/register on the Services, make any purchases through the Services, use any of the interactive or public comment features of the Services or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at privacy@adventure.com</p>
-<p style="text-align: left;">Information We Collect About You and How We Collect It</p>
-<p style="text-align: left;">We collect several types of information from and about users of our Services, including information:</p>
-<ul style="text-align: left;">
-<li>by which you may be personally identified, such as name, postal address, e-mail address, telephone number, and any other identifier by which you may be contacted online or offline]] (“personal information”);</li>
-<li>that is about you but individually does not identify you, such as usage behavior and research data; and/or</li>
-<li>about your internet connection, the equipment you use to access our Services and usage details.</li>
-</ul>
-<p style="text-align: left;">We collect this information:</p>
-<ul style="text-align: left;">
-<li>Directly from you when you provide it to us.</li>
-<li>Automatically as you navigate through the Site and Application. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons, and other tracking technologies.</li>
-<li>From third parties, for example, our business partners.</li>
-</ul>
-<p style="text-align: left;"><strong>Information You Provide to Us.</strong> The information we collect on or through our Services may include:</p>
-<ul style="text-align: left;">
-<li>Information that you provide by filling in forms on the Site or Application. This includes information provided at the time of registering to use our Services, posting material, or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Services.</li>
-<li>Records and copies of your correspondence (including e-mail addresses), if you contact us.</li>
-<li>Your responses to surveys that we might ask you to complete for research purposes.</li>
-<li>Details of transactions you carry out through our Services. You may be required to provide financial information before listing or booking adventure travel destinations, activities, products or services through our Site or Application.</li>
-<li>Your search queries on the Site or Application.</li>
-</ul>
-<p style="text-align: left;">You also may provide information to be published or displayed (hereinafter, “posted”) on public areas of the Site or Application, or transmitted to other users of the Site or Application or third parties (collectively, “User Contributions”). Your User Contributions are posted on and transmitted to others at your own risk. Although [we limit access to certain pages/you may set certain privacy settings for such information by logging into your account profile], please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Site or Application with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.</p>
-<p style="text-align: left;"><strong>Information We Collect Through Automatic Data Collection Technologies.</strong> As you navigate through and interact with our Services, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:</p>
-<ul style="text-align: left;">
-<li>Details of your visits to our Site or Application, including traffic data, location data, logs and other communication data and the resources that you access and use on the Site or Application.</li>
-<li>Information about your computer and internet connection, including your IP address, operating system and browser type.</li>
-</ul>
-<p style="text-align: left;">We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking).</p>
-<p style="text-align: left;">The information we collect automatically may include personal information. It helps us to improve our Services and to deliver a better and more personalized service, including by enabling us to:</p>
-<ul style="text-align: left;">
-<li>Estimate our audience size and usage patterns.</li>
-<li>Store information about your preferences, allowing us to customize our Website according to your individual interests.</li>
-<li>Speed up your searches.</li>
-<li>Recognize you when you return to our Site or Application</li>
-</ul>
-<p style="text-align: left;">The technologies we use for this automatic data collection may include:</p>
-<ul style="text-align: left;">
-<li><strong>Cookies (or browser cookies).</strong> A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Services. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Services.</li>
-<li><strong>Flash Cookies.</strong> Certain features of our Services may use local stored objects or Flash cookies to collect and store information about your preferences and navigation to, from and on our Services. Flash cookies are not managed by the same browser settings as are used for browser cookies.</li>
-<li><strong>Web Beacons.</strong> Pages of our Site or Application and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).</li>
-</ul>
-<p style="text-align: left;">
-</p><p style="text-align: left;">Third-party Use of Cookies [and Other Tracking Technologies.</p>
-<p style="text-align: left;">Some content or applications, including advertisements, on the Services are served by third-parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies, alone or in conjunction with web beacons or other tracking technologies, to collect information about you when you use our Services. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.</p>
-<p style="text-align: left;">We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.</p>
-<p style="text-align: left;">How We Use Your Information</p>
-<p style="text-align: left;">We use information that we collect about you or that you provide to us, including any personal information:</p>
-<ul style="text-align: left;">
-<li>To present our Services and its contents to you.</li>
-<li>To provide you with information, products or services that you request from us.</li>
-<li>To fulfill any other purpose for which you provide it.</li>
-<li>To provide you with notices about your account.</li>
-<li>To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.</li>
-<li>To notify you about changes to our Site or Application or any products or services we offer or provide though our Site or Application.</li>
-<li>To allow you to participate in interactive features on our Site or Application.</li>
-<li>In any other way we may describe when you provide the information.</li>
-<li>For any other purpose with your consent.</li>
-</ul>
-<p style="text-align: left;">We may also use your information to contact you about our own and third-parties’ goods and services that may be of interest to you. If you do not want us to use your information in this way, please [adjust your user preferences in your account profile.</p>
-<p style="text-align: left;">We may use the information we have collected from you to enable us to display advertisements to our advertisers’ target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.</p>
-<h1 style="text-align: left;"></h1>
-<p style="text-align: left;">Disclosure of Your Information</p>
-<p style="text-align: left;">We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.</p>
-<p style="text-align: left;">We may disclose personal information that we collect or you provide as described in this privacy policy:</p>
-<ul style="text-align: left;">
-<li>To our subsidiaries and affiliates.</li>
-<li>To contractors, service providers and other third parties we use to support our business, and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.</li>
-<li>To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of the Company’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by the Company about the users of our Services is among the assets transferred.</li>
-<li>To third parties to market their products or services to you if you have not opted out of these disclosures.</li>
-<li>To fulfill the purpose for which you provide it.</li>
-<li>For any other purpose disclosed by us when you provide the information.</li>
-<li>With your consent.</li>
-</ul>
-<p style="text-align: left;">We may also disclose your personal information:</p>
-<ul style="text-align: left;">
-<li>To comply with any court order, law or legal process, including to respond to any government or regulatory request.</li>
-<li>To enforce or apply our Terms and Conditions http://adventure.com/terms-of-service/ and other agreements, including for billing and collection purposes.</li>
-<li>If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.</li>
-</ul>
-<p style="text-align: left;">We do not control third parties’ collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the NAI’s <em>website</em>.</p>
-<p style="text-align: left;">Accessing and Correcting Your Information</p>
-<p style="text-align: left;">You can review and change your personal information by logging into the Site or Application and visiting your account profile page.</p>
-<p style="text-align: left;">You may also send us an e-mail at <a href="mailto:privacy@adventure.com">privacy@adventure.com</a> to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.</p>
-<p style="text-align: left;">If you delete your User Contributions from the Site or Application, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Site or Application users. Proper access and use of information provided on the Site or Application, including User Contributions, is governed by our Terms and Conditions http://adventure.com/terms-of-service/</p>
-<h1 style="text-align: left;"></h1>
-<p style="text-align: left;">Your California Privacy Rights</p>
-<p style="text-align: left;">California Civil Code Section § 1798.83 permits users of our Services that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to <a href="mailto:privacy@adventure.com">privacy@adventure.com</a> [ or write us at: 201 1st St., Suite 300, Petaluma, California 94952</p>
-<p style="text-align: left;">Data Security</p>
-<p style="text-align: left;">The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Site or Application like message boards. The information you share in public areas may be viewed by any user of the Site or Application.</p>
-<p style="text-align: left;">Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Site or Application. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Site or Application.</p>
-<p style="text-align: left;">Changes to Our Privacy Policy</p>
-<p style="text-align: left;">It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by e-mail to the e-mail address specified in your account or through a notice on the Site or Application home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Site or Application and this privacy policy to check for any changes.</p>
-<p style="text-align: left;">Contact Information</p>
-<p style="text-align: left;">To ask questions or comment about this privacy policy and our privacy practices, contact us at:</p>
-<p style="text-align: left;">privacy@adventure.com</p>
-<span style="display:block;width:100%;"></span></div></div><!-- /.block-content -->
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//adventure.com/?wordfence_lh=1&hid=1A6347B25512509CAE3E1C0AAE9E8074');
+</script><link rel="icon" href="https://adventure.com/wp-content/uploads/2017/03/cropped-small_black-32x32.png" sizes="32x32">
+<link rel="icon" href="https://adventure.com/wp-content/uploads/2017/03/cropped-small_black-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://adventure.com/wp-content/uploads/2017/03/cropped-small_black-180x180.png">
+<meta name="msapplication-TileImage" content="https://adventure.com/wp-content/uploads/2017/03/cropped-small_black-270x270.png">
+  
+</head>
 
-</div><!-- /.body-reveal --><div class="anchor-reveal">	<footer>
-		<div class="contain-1120">
-			<div class="row">
-				<div class="col-md-3 col-sm-6">
-					<ul class="footer-main-nav">
-						<li><a href="http://adventure.com">Home</a></li>
-						<li><a href="http://adventure.com/trips/">Trips</a></li>
-						<li><a href="http://adventure.com/epics/">Epics</a></li>
-						<li><a href="http://adventure.com/blog/">Stories</a></li>
-						<li><a href="http://adventure.com/epics/mission/">Mission</a></li>
-					</ul>
-				</div><!-- /.col -->
-				<div class="col-md-3 col-sm-6">
-					<ul class="footer-sub-nav">
-						<li><a href="http://adventure.com/become-an-adventure-provider">List Your Adventures</a></li>
-						<li><a href="http://info.adventure.com/concierge" class="build-a-trip-footer">Request Custom Trip</a></li>
-						<li><a href="http://adventure.com/dashboard">My Adventures</a></li>
-						<li><a href="http://adventure.com/submit-a-story">Submit A Story</a></li>
-						<li><a href="http://adventure.com/contact-us">Contact Us</a></li>
-						<li><a href="http://support.adventure.com/">Help &amp; Support</a></li>
-					</ul>
-				</div><!-- /.col -->
-				<div class="col-md-4 col-md-offset-1 col-sm-12 footer-form">
-					
-                <div class="gf_browser_unknown gform_wrapper" id="gform_wrapper_4"><form method="post" enctype="multipart/form-data" id="gform_4" action="/privacy-policy/">
-                        <div class="gform_body"><ul id="gform_fields_4" class="gform_fields top_label form_sublabel_below description_below"><li id="field_4_4" class="gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_below"><strong>Get Updates</strong></li><li id="field_4_1" class="gfield no-label gfield_contains_required field_sublabel_below field_description_below"><label class="gfield_label" for="input_4_1">First Name<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_1" id="input_4_1" type="text" value="" class="medium" tabindex="999"></div></li><li id="field_4_2" class="gfield no-label field_sublabel_below field_description_below"><label class="gfield_label" for="input_4_2">Last Name</label><div class="ginput_container"><input name="input_2" id="input_4_2" type="text" value="" class="medium" tabindex="1000"></div></li><li id="field_4_3" class="gfield no-label gfield_contains_required field_sublabel_below field_description_below"><label class="gfield_label" for="input_4_3">Email<span class="gfield_required">*</span></label><div class="ginput_container">
-                            <input name="input_3" id="input_4_3" type="email" value="" class="medium" tabindex="1001">
-                        </div></li>
-                            </ul></div>
-        <div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_4" class="gform_button button" value="Subscribe" tabindex="1002" onclick="if(window[&quot;gf_submitting_4&quot;]){return false;}  if( !jQuery(&quot;#gform_4&quot;)[0].checkValidity || jQuery(&quot;#gform_4&quot;)[0].checkValidity()){window[&quot;gf_submitting_4&quot;]=true;}  "> 
-            <input type="hidden" class="gform_hidden" name="is_submit_4" value="1">
-            <input type="hidden" class="gform_hidden" name="gform_submit" value="4">
+<body class="page-template-default page page-id-1920 interior privacy-policy">
+
+  
+<script type="text/javascript">
+  var utag_data = {};
+  (function(a,b,c,d){
+  a='//tags.tiqcdn.com/utag/intrepid/adventure/prod/utag.js';
+  b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+  a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+  })();
+</script>
+  <div class="wrapper" style="background-image: url('https://adventure.com/wp-content/themes/adventure_2017/assets/img/img-footer-01@2x.jpg');">
+
+    
+<section class="outer-header">
+    <header class="header row expanded">
+        <div class="columns small-12">
+
+            <div class="menu-secondary-container"><ul id="menu-secondary" class="nav-secondary"><li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="https://adventure.com/contributors/">Contributors</a></li>
+<li id="menu-item-130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130"><a href="https://adventure.com/about/">About</a></li>
+</ul></div>
+            <a href="https://adventure.com" class="logo-alt-panel">
+                <object data="https://adventure.com/wp-content/themes/adventure_2017/assets/img/logo-alt.svg" type="image/svg+xml" class="logo-alt" title="Adventure.com">
+                    <img src="https://adventure.com/wp-content/themes/adventure_2017/assets/img/logo-alt.png" alt="">
+                </object>
+            </a>
+
+            <a href="https://adventure.com" class="logo-panel">
+                <object data="https://adventure.com/wp-content/themes/adventure_2017/assets/img/logo.svg" type="image/svg+xml" class="logo" title="Adventure.com">
+                    <img src="https://adventure.com/wp-content/themes/adventure_2017/assets/img/logo.png" alt="">
+                </object>
+            </a>
+
+            <div class="menu-btn" data-responsive-toggle="mobile-menu" data-hide-for="medium">
+                <div class="menu-icon" data-toggle="">
+                    <span></span>
+                </div>
+            </div>
+
             
-            <input type="hidden" class="gform_hidden" name="gform_unique_id" value="">
-            <input type="hidden" class="gform_hidden" name="state_4" value="WyJbXSIsImVlNjhlYzAzZDJmNTFjYmNmZWQxYzJhOWVjMjA0OTlkIl0=">
-            <input type="hidden" class="gform_hidden" name="gform_target_page_number_4" id="gform_target_page_number_4" value="0">
-            <input type="hidden" class="gform_hidden" name="gform_source_page_number_4" id="gform_source_page_number_4" value="1">
-            <input type="hidden" name="gform_field_values" value="">
-            
+<ul class="utilities">
+            <li class="icon-facebook icon-hide">
+            <a href="https://www.facebook.com/adventure/" target="_blank" title="Facebook"><span>Facebook</span></a>
+        </li>
+                <li class="icon-twitter icon-hide">
+            <a href="https://twitter.com/adventurecom?lang=en" target="_blank" title="Twitter"><span>Twitter</span></a>
+        </li>
+                <li class="icon-instagram icon-hide">
+            <a href="https://www.instagram.com/adventurecom/" target="_blank" title="Instagram"><span>Instagram</span></a>
+        </li>
+    
+    <li class="icon-search-header">
+        <a href="" data-open="search-modal"><span>Search</span></a>
+    </li>
+
+</ul>
+
         </div>
-                        </form>
-                        </div><script type="text/javascript"> jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 4) {} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type="text/javascript"> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [4, 1]) } ); </script>					<br>
-					<span class="white small">Need help planning an adventure? Call 1-855-698-5186</span>
-				</div><!-- /.col -->
-			</div><!-- /.row -->
-		</div><!-- /.footer-inner -->
-		<div class="signoff">
-			<div class="contain-1120">
-				<ul>
-					<li><a href="http://adventure.com/privacy-policy">Privacy Policy</a></li>
-					<li><a href="http://adventure.com/terms-of-service">Terms of Service</a></li>
-					<li id="follow-us-footer-li"><span id="footer-follow-us-text">Follow Us:</span>
-						<a class="social-icon" target="_blank" href="https://twitter.com/adventurecom"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19px" height="16px" viewBox="0 0 10.549 8.569" enable-background="new 0 0 10.549 8.569" xml:space="preserve">
-<path fill="#FFFFFF" d="M10.549,1.02c-0.297,0.432-0.656,0.804-1.08,1.116v0.276c0,0.584-0.084,1.164-0.252,1.74
-	S8.792,5.284,8.448,5.82C8.104,6.356,7.692,6.824,7.213,7.224c-0.48,0.399-1.057,0.728-1.729,0.983
-	c-0.672,0.256-1.396,0.377-2.172,0.36C2.104,8.568,1,8.244,0,7.596C0.152,7.62,0.324,7.631,0.516,7.631
-	c1.008,0,1.904-0.307,2.688-0.924c-0.472-0.016-0.892-0.16-1.26-0.432C1.576,6.004,1.32,5.648,1.176,5.208
-	c0.152,0.017,0.288,0.024,0.408,0.024c0.192,0,0.384-0.024,0.576-0.072C1.656,5.056,1.24,4.808,0.912,4.417
-	C0.584,4.024,0.42,3.564,0.42,3.036V3.012c0.304,0.168,0.632,0.26,0.984,0.276c-0.296-0.2-0.532-0.456-0.708-0.768
-	C0.52,2.208,0.432,1.86,0.432,1.476c0-0.384,0.1-0.744,0.3-1.08C1.276,1.06,1.932,1.592,2.7,1.992c0.768,0.4,1.6,0.62,2.496,0.66
-	c-0.04-0.168-0.06-0.332-0.06-0.492c0-0.6,0.212-1.108,0.635-1.524C6.196,0.22,6.704,0.008,7.297,0c0.631,0,1.159,0.228,1.584,0.684
-	c0.487-0.096,0.943-0.272,1.367-0.528c-0.16,0.512-0.477,0.912-0.947,1.2C9.717,1.308,10.133,1.196,10.549,1.02z"></path>
-</svg></a>
-						<a class="social-icon" target="_blank" href="https://www.facebook.com/adventure"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="9px" height="19px" viewBox="0 0 5.148 11.04" enable-background="new 0 0 5.148 11.04" xml:space="preserve">
-<path fill="#FFFFFF" d="M3.42,3.612h1.729L4.943,5.52H3.42v5.52H1.14V5.52H0V3.612h1.14v-1.14c0-0.816,0.192-1.432,0.576-1.848
-	S2.732,0,3.611,0h1.513v1.896H4.176c-0.176,0-0.316,0.016-0.42,0.048C3.652,1.976,3.576,2.028,3.527,2.1
-	C3.48,2.172,3.451,2.248,3.443,2.328L3.42,2.664V3.612z"></path>
-</svg></a>
-						<a class="social-icon" target="_blank" href="https://plus.google.com/u/0/102934656101229878064/posts"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="18px" height="18px" viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
-<path fill="#FFFFFF" d="M9.476,14.462c0-0.15-0.016-0.297-0.049-0.438c-0.032-0.141-0.067-0.27-0.103-0.39
-	c-0.036-0.119-0.099-0.243-0.189-0.373c-0.09-0.13-0.166-0.239-0.227-0.33c-0.062-0.09-0.157-0.196-0.287-0.319
-	c-0.13-0.122-0.229-0.214-0.298-0.275c-0.068-0.062-0.184-0.153-0.346-0.276c-0.162-0.122-0.274-0.204-0.335-0.248
-	c-0.062-0.044-0.18-0.126-0.357-0.249c-0.177-0.122-0.287-0.198-0.33-0.227c-0.123-0.015-0.303-0.022-0.541-0.022
-	c-0.389,0-0.771,0.025-1.146,0.076S4.504,11.531,4.1,11.661c-0.404,0.13-0.757,0.295-1.061,0.497
-	c-0.303,0.202-0.552,0.473-0.746,0.812c-0.195,0.339-0.292,0.725-0.292,1.157c0,0.49,0.128,0.929,0.384,1.314
-	s0.591,0.688,1.006,0.909c0.415,0.221,0.849,0.384,1.304,0.492c0.454,0.107,0.912,0.162,1.374,0.162
-	c0.426,0,0.832-0.046,1.217-0.135c0.386-0.091,0.748-0.231,1.087-0.423c0.339-0.19,0.607-0.456,0.806-0.794
-	C9.377,15.313,9.476,14.917,9.476,14.462z M8.178,5.139c0-0.433-0.059-0.893-0.178-1.38S7.711,2.802,7.491,2.347
-	c-0.22-0.454-0.523-0.829-0.909-1.125C6.197,0.927,5.766,0.779,5.29,0.779c-0.671,0-1.19,0.249-1.558,0.747
-	C3.364,2.022,3.18,2.618,3.18,3.31c0,0.339,0.042,0.696,0.125,1.071s0.211,0.75,0.384,1.125c0.173,0.375,0.375,0.712,0.606,1.011
-	s0.512,0.542,0.844,0.73S5.82,7.529,6.188,7.529c0.7,0,1.206-0.219,1.52-0.655C8.021,6.438,8.178,5.859,8.178,5.139z M6.761,0h4.728
-	l-1.461,0.854h-1.46c0.512,0.324,0.909,0.779,1.19,1.363c0.281,0.584,0.422,1.193,0.422,1.828c0,0.534-0.084,1.007-0.25,1.422
-	c-0.165,0.415-0.367,0.748-0.605,1C9.086,6.721,8.849,6.954,8.61,7.166C8.373,7.379,8.17,7.6,8.005,7.826
-	C7.839,8.054,7.756,8.297,7.756,8.556c0,0.188,0.059,0.372,0.178,0.552s0.274,0.353,0.465,0.519c0.191,0.166,0.402,0.339,0.633,0.52
-	c0.23,0.181,0.461,0.38,0.692,0.601c0.23,0.22,0.441,0.458,0.633,0.714s0.346,0.562,0.465,0.92c0.119,0.356,0.179,0.741,0.179,1.151
-	c0,1.154-0.505,2.17-1.514,3.051C8.391,17.527,6.876,18,4.943,18c-0.425,0-0.856-0.036-1.292-0.108
-	c-0.436-0.072-0.876-0.193-1.32-0.362c-0.443-0.169-0.835-0.379-1.173-0.628c-0.339-0.248-0.617-0.569-0.833-0.962
-	C0.108,15.546,0,15.108,0,14.625c0-0.44,0.133-0.927,0.4-1.461c0.23-0.462,0.577-0.86,1.038-1.194
-	c0.461-0.336,0.984-0.592,1.569-0.77c0.584-0.176,1.143-0.306,1.677-0.389s1.074-0.131,1.623-0.146
-	C5.845,10.067,5.614,9.53,5.614,9.054c0-0.086,0.007-0.171,0.021-0.254C5.65,8.717,5.668,8.646,5.69,8.589s0.05-0.135,0.086-0.233
-	c0.036-0.097,0.062-0.175,0.076-0.232C5.564,8.16,5.312,8.178,5.095,8.178c-1.074,0-1.995-0.354-2.764-1.061
-	C1.563,6.411,1.179,5.523,1.179,4.456c0-1.009,0.342-1.912,1.027-2.709c0.686-0.798,1.529-1.308,2.531-1.531
-	C5.416,0.072,6.09,0,6.761,0z M18,2.769v1.385h-2.77v2.769h-1.385V4.154h-2.769V2.769h2.769V0h1.385v2.769H18z"></path>
-</svg></a>
-						<a class="social-icon" target="_blank" href="http://www.pinterest.com/adventurecom/"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="14px" height="18px" viewBox="0 0 9.336 12.018" enable-background="new 0 0 9.336 12.018" xml:space="preserve">
-<path fill="#FFFFFF" d="M3.843,7.938c-0.208,1.041-0.44,1.885-0.696,2.532c-0.256,0.647-0.64,1.164-1.152,1.548
-	c-0.048-0.592-0.076-1.072-0.084-1.439C1.903,10.21,1.947,9.77,2.043,9.258C2.139,8.746,2.227,8.33,2.307,8.01
-	s0.184-0.716,0.312-1.188C2.747,6.35,2.843,5.954,2.907,5.634c-0.192-0.416-0.268-0.88-0.228-1.392
-	C2.719,3.73,2.911,3.306,3.255,2.97c0.344-0.336,0.74-0.416,1.188-0.24c0.319,0.128,0.495,0.364,0.528,0.708
-	c0.031,0.344-0.021,0.724-0.156,1.14C4.679,4.994,4.551,5.406,4.431,5.814c-0.12,0.408-0.136,0.768-0.048,1.08
-	c0.088,0.312,0.34,0.509,0.756,0.589c0.543,0.111,1.027-0.041,1.451-0.457s0.721-0.939,0.889-1.572
-	C7.647,4.822,7.69,4.17,7.611,3.498c-0.08-0.672-0.296-1.184-0.647-1.536C6.467,1.45,5.863,1.17,5.151,1.122
-	C4.439,1.074,3.787,1.206,3.195,1.518c-0.592,0.312-1.072,0.78-1.44,1.404c-0.368,0.624-0.497,1.304-0.384,2.04
-	c0.032,0.176,0.12,0.384,0.264,0.624c0.144,0.24,0.228,0.428,0.252,0.564c0.024,0.136-0.044,0.403-0.204,0.803
-	c-1.168-0.271-1.728-1.191-1.68-2.759c0.032-1.104,0.452-2.04,1.26-2.808s1.74-1.216,2.796-1.344
-	c1.312-0.144,2.472,0.084,3.48,0.684c1.009,0.6,1.584,1.476,1.728,2.628c0.209,1.408-0.056,2.675-0.791,3.804
-	C7.739,8.285,6.731,8.802,5.451,8.705C5.274,8.689,5.106,8.654,4.947,8.598c-0.16-0.056-0.28-0.107-0.36-0.156
-	C4.507,8.394,4.383,8.31,4.215,8.189C4.047,8.07,3.923,7.986,3.843,7.938z"></path>
-</svg></a> 
-						<a class="social-icon" target="_blank" href="http://instagram.com/adventurecom"><!--?xml version="1.0" encoding="utf-8"?-->
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 18 18" width="18" height="18" enable-background="new 0 0 18 18" xml:space="preserve">
-<path fill="#FFFFFF" d="M14.2,9c0,2.9-2.4,5.2-5.2,5.2c-2.9,0-5.2-2.3-5.2-5.2c0-0.3,0-0.7,0.1-1H0.3v7c0,1.5,1.2,2.7,2.7,2.7H15
-	c1.5,0,2.7-1.2,2.7-2.7V8h-3.5C14.2,8.3,14.2,8.7,14.2,9z M15,0.3H3C1.5,0.3,0.3,1.5,0.3,3V6h4.4c1-1.3,2.5-2.2,4.3-2.2
-	c1.8,0,3.3,0.9,4.3,2.2h4.4V3C17.7,1.5,16.5,0.3,15,0.3z M16.3,3.7c0,0.3-0.2,0.5-0.5,0.5h-1.5c-0.3,0-0.5-0.2-0.5-0.5V2.2
-	c0-0.3,0.2-0.5,0.5-0.5h1.5c0.3,0,0.5,0.2,0.5,0.5V3.7z M12.2,9c0-1.8-1.4-3.2-3.2-3.2C7.2,5.8,5.8,7.2,5.8,9s1.4,3.2,3.2,3.2
-	C10.8,12.2,12.2,10.8,12.2,9z"></path>
-</svg>
-</a>
-					</li>
-				</ul>
+    </header>
 
-				<p>© 2014 adventure.com all rights reserved.</p>
-			</div><!-- /.footer-inner -->
-		</div>
-	</footer>
-	</div><!-- /.anchor-reveal --><div class="sidecar full-height">
-	<div class="sidecar-inner">
-		<div class="sidecar-header">
-						<span class="sidecar-close"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24.042px" height="24.042px" viewBox="0 0 24.042 24.042" enable-background="new 0 0 24.042 24.042" xml:space="preserve">
-<g>
-	<g>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="24.042,21.213 14.849,12.021 24.042,2.828 21.213,0 
-			12.021,9.192 2.829,0 0,2.828 9.192,12.021 0,21.213 2.829,24.042 12.021,14.85 21.213,24.042 		"></polygon>
-	</g>
-</g>
-</svg>
-</span>
-			<ul class="sidecar-main-nav">
-				<li><a href="http://adventure.com">Home</a></li>
-				<li><a href="http://adventure.com/trips/">Adventures</a></li>
-				<li><a href="http://adventure.com/become-an-adventure-provider">List an Adventure</a></li>
-				<li><a href="http://adventure.com/blog/">Stories</a></li>
-				<li><a href="http://adventure.com/build" class="build-a-trip-sidecar">Custom Trips</a></li>
-				<li><a href="http://adventure.com/epics/mission">Mission</a></li>
-			</ul><!-- /.sidecar-main-nav -->
-			<div class="sidecar-user-utility">
-									<a href="http://adventure.com/login" class="btn small blue">Login</a>
-							</div><!-- /.sidecar-user-utility -->
-					</div><!-- /.sidecar-header -->
-			</div><!-- /.sidecar-inner -->
-	</div><!-- /.sidecar -->
-<span class="sidecar-overlay"></span>        <script type="text/javascript">
-        // <![CDATA[
-        var disqus_shortname = 'adventurecom';
-        (function () {
-            var nodes = document.getElementsByTagName('span');
-            for (var i = 0, url; i < nodes.length; i++) {
-                if (nodes[i].className.indexOf('dsq-postid') != -1) {
-                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
-                    url = nodes[i].parentNode.href.split('#', 1);
-                    if (url.length == 1) { url = url[0]; }
-                    else { url = url[1]; }
-                    nodes[i].parentNode.href = url + '#disqus_thread';
-                }
-            }
-            var s = document.createElement('script'); 
-            s.async = true;
-            s.type = 'text/javascript';
-            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-        }());
-        // ]]>
-        </script>
+    
+    <div class="nav-main" id="mobile-menu" data-animate="slide-in-down slide-out-up">
+
+        <div class="search-panel-mobile">
+            <form role="search" method="get" id="searchform" class="search-form" action="https://adventure.com/">
+                <input type="text" value="" name="s" id="s" placeholder="Search something">
+                <a href="/" title="" class="icon-search"><span>Search</span></a>
+            </form>
+        </div>
+
+        <nav class="menu-categories-container"><ul id="menu-categories" class="menu vertical medium-horizontal"><li id="menu-item-127" class="nav-item-people menu-item menu-item-type-taxonomy menu-item-object-category menu-item-127"><a href="https://adventure.com/category/people/">People</a></li>
+<li id="menu-item-128" class="nav-item-places menu-item menu-item-type-taxonomy menu-item-object-category menu-item-128"><a href="https://adventure.com/category/places/">Places</a></li>
+<li id="menu-item-126" class="nav-item-experiences menu-item menu-item-type-taxonomy menu-item-object-category menu-item-126"><a href="https://adventure.com/category/experiences/">Experiences</a></li>
+</ul></nav>
+        <div class="menu-secondary-container"><ul id="menu-secondary-1" class="nav-secondary"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="https://adventure.com/contributors/">Contributors</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130"><a href="https://adventure.com/about/">About</a></li>
+</ul></div>
         
-<!-- Start of Async HubSpot Analytics Code for WordPress v1.9.4 -->
-<script type="text/javascript">
-var _hsq = _hsq || [];
-_hsq.push(["setContentType", "standard-page"]);
-(function(d,s,i,r) {
-  if (d.getElementById(i)){return;}
-  var n = d.createElement(s),e = document.getElementsByTagName(s)[0];
-  n.id=i;n.src = '//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/457613.js';
-  e.parentNode.insertBefore(n, e);
-})(document, "script", "hs-analytics", 300000);
-</script>
-<!-- End of Async HubSpot Analytics Code -->
-<script type="text/javascript" src="http://adventure.com/wp-includes/js/comment-reply.min.js?ver=4.1.1"></script>
-<script type="text/javascript" src="http://adventure.com/wp-content/plugins/bj-lazy-load/js/combined.min.js?ver=0.7.5"></script>
-<!-- Facebook -->
-<script>(function() {
-  var _fbq = window._fbq || (window._fbq = []);
-  if (!_fbq.loaded) {
-    var fbds = document.createElement('script');
-    fbds.async = true;
-    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(fbds, s);
-    _fbq.loaded = true;
-  }
-  _fbq.push(['addPixelId', '1477312562507292']);
-})();
-window._fbq = window._fbq || [];
-window._fbq.push(['track', 'PixelInitialized', {}]);
-</script>
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1477312562507292&amp;ev=NoScript" /></noscript>
+<ul class="utilities">
+            <li class="icon-facebook">
+            <a href="https://www.facebook.com/adventure/" target="_blank" title="Facebook"><span>Facebook</span></a>
+        </li>
+                <li class="icon-twitter">
+            <a href="https://twitter.com/adventurecom?lang=en" target="_blank" title="Twitter"><span>Twitter</span></a>
+        </li>
+                <li class="icon-instagram">
+            <a href="https://www.instagram.com/adventurecom/" target="_blank" title="Instagram"><span>Instagram</span></a>
+        </li>
+    </ul>
+    </div>
 
-<!-- Twitter -->
-<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
-<script type="text/javascript">
-twttr.conversion.trackPid('l4oub');
-</script>
-<noscript>
-<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4oub&p_id=Twitter" />
-<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4oub&p_id=Twitter" />
-</noscript>
+    <div class="color-band">
+            </div>
 
-<!-- AdRoll Sitewide -->
-<script type="text/javascript">
-adroll_adv_id = "5YXG4ITWNZGOFFLX2BV6YC";
-adroll_pix_id = "D42VQAD4OVFANL5QV2WVGK";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-__adroll_loaded=true;
-var scr = document.createElement("script");
-var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" :
-"http://a.adroll.com");
-scr.setAttribute('async', 'true');
-scr.type = "text/javascript";
-scr.src = host + "/j/roundtrip.js";
-((document.getElementsByTagName('head') || [null])[0] ||
-document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-if(oldonload){oldonload()}};
-}());
-</script>	<script type="text/javascript">
-		(function(){
-		  function initInsights() {
-		    if (!window._contently) {
-		      var _contently = { siteId: "53d1ac3d69702d2" }
-		      _contently.insights = new ContentlyInsights({site_id: _contently.siteId});
-		      window._contently = _contently
-		    }
-		  }
+</section>
 
-		  var s = document.createElement('script');
-		  s.setAttribute('type', 'text/javascript');
-		  s.setAttribute('src', '//s3.amazonaws.com/assets.contently.com/insights/insights.js')
-		  s.onreadystatechange = function() {
-		    if (this.readyState == 'complete' || this.readyState == 'loaded') {
-		      initInsights();
-		    }
-		  };
-		  s.onload = initInsights;
-		  document.body.appendChild(s);
-		})();
-	</script><script type="text/javascript" src="//s3.amazonaws.com/assets.contently.com/insights/insights.js"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4cce7a9422","applicationID":"4080652","transactionName":"bwBUMBQCWRACVkJYWFZKdwcSClgNTEVXVlI=","queueTime":0,"applicationTime":1812,"atts":"Q0dXRlwYSh4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-593.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
+
+  <div class="content">
+
+    <section class="row ">
+        <article class="columns small-12 medium-12 text-center">
+            <h1 class="page-heading">Privacy Policy</h1>
+        </article>
+    </section>
+
+    <section class="row">
+        <article class="columns small-12">
+           
+          <p><b>GENERAL</b></p>
+<p><span style="font-weight: 400;">Adventure.com is a digital travel magazine owned by, but editorially independent of, Intrepid Group. </span><span style="font-weight: 400;">Intrepid Group does not endorse the activities on the site.</span></p>
+<p><span style="font-weight: 400;">Adventure.com (“Company” or “we” or “us” or “our”) respects the privacy of its users (“user” or “you”) that use our website located at Adventure.com, including other media forms, media channels, mobile website or mobile application related or connected thereto (collectively, the “Website”). The following Company privacy policy (“Privacy Policy”) is designed to inform you, as a user of the Website, about the types of information that Company may gather about or collect from you in connection with your use of the Website. It also is intended to explain the conditions under which Company uses and discloses that information, and your rights in relation to that information. Changes to this Privacy Policy are discussed at the end of this document. Each time you use the Website, however, the current version of this Privacy Policy will apply. Accordingly, each time you use the Website you should check the date of this Privacy Policy (which appears at the beginning of this document) and review any changes since the last time you used the Website.</span></p>
+<p><span style="font-weight: 400;">The Website is hosted in the United States of America and is subject to U.S. state and federal law. If you are accessing our Website from other jurisdictions, please be advised that you are transferring your personal information to us in the United States, and by using our Website, you consent to that transfer and use of your personal information in accordance with this Privacy Policy. You also agree to abide by the applicable laws of applicable states and U.S. federal law concerning your use of the Website and your agreements with us. Any persons accessing our Website from any jurisdiction with laws or regulations governing the use of the Internet, including personal data collection, use and disclosure, different from those of the jurisdictions mentioned above may only use the Website in a manner lawful in their jurisdiction. If your use of the Website would be unlawful in your jurisdiction, please do not use the Website. </span></p>
+<p><span style="font-weight: 400;">BY USING OR ACCESSING THE WEBSITE, YOU ARE ACCEPTING THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY.</span></p>
+<p>&nbsp;</p>
+<p><b>GATHERING, USE AND DISCLOSURE OF NON-PERSONALLY-IDENTIFYING INFORMATION</b></p>
+<p><b><i>Users of the Website Generally</i></b></p>
+<p><span style="font-weight: 400;">“Non-Personally-Identifying Information” is information that, without the aid of additional information, cannot be directly associated with a specific person. “Personally-Identifying Information,” by contrast, is information such as a name or email address that, without more, can be directly associated with a specific person. Like most website operators, Company gathers from users of the Website Non-Personally-Identifying Information of the sort that Web browsers, depending on their settings, may make available. That information includes the user’s Internet Protocol (IP) address, operating system, browser type and the locations of the websites the user views right before arriving at, while navigating and immediately after leaving the Website. Although such information is not Personally-Identifying Information, it may be possible for Company to determine from an IP address a user’s Internet service provider and the geographic location of the visitor’s point of connectivity as well as other statistical usage data.</span> <span style="font-weight: 400;">Company analyzes Non-Personally-Identifying Information gathered from users of the Website to help Company better understand how the Website is being used. By identifying patterns and trends in usage, Company is able to better design the Website to improve users’ experiences, both in terms of content and ease of use. From time to time, Company may also release the Non-Personally-Identifying Information gathered from Website users in the aggregate, such as by publishing a report on trends in the usage of the Website.</span></p>
+<p><b><i>Web Cookies</i></b><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">A “Web Cookie” is a string of information which assigns you a unique identification that a website stores on a user’s computer, and that the user’s browser provides to the website each time the user submits a query to the website. We use cookies on the Website to keep track of services you have used, to record registration information regarding your login name and password, to record your user preferences, to keep you logged into the Website and to facilitate purchase procedures. Company also uses Web Cookies to track the pages that users visit during each Website session, both to help Company improve users’ experiences and to help Company understand how the Website is being used. As with other Non-Personally-Identifying Information gathered from users of the Website, Company analyzes and discloses in aggregated form information gathered using Web Cookies, so as to help Company, its partners and others better understand how the Website is being used. COMPANY USERS WHO DO NOT WISH TO HAVE WEB COOKIES PLACED ON THEIR COMPUTERS SHOULD SET THEIR BROWSERS TO REFUSE WEB COOKIES BEFORE ACCESSING THE WEBSITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THE WEBSITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF WEB COOKIES. WEBSITE USERS WHO REFUSE WEB COOKIES ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY. </span></p>
+<p><b><i>Third-Party Advertisers</i></b></p>
+<p><span style="font-weight: 400;">We may use third-party advertising companies to serve ads when you visit the Website. These companies may use information (not including any Personally-Identifying Information) about your visits to the Website and other websites that are contained in Web Cookies in order to provide advertisements about goods and services of interest to you. Using a tool created by the Network Advertising Initiative,&nbsp;you can opt out&nbsp;of several third-party ad servers’ and networks’ Web Cookies simultaneously. If you would like more information about this practice and to know your choices about not having this information used by these companies, please follow the following links:&nbsp;</span><a href="http://networkadvertising.org/managing/opt_out.asp"><span style="font-weight: 400;">http://networkadvertising.org/managing/opt_out.asp</span></a><span style="font-weight: 400;">,&nbsp;</span><a href="http://preferences-mgr.truste.com/"><span style="font-weight: 400;">http://preferences-mgr.truste.com/</span></a><span style="font-weight: 400;">, or&nbsp;</span><a href="http://www.aboutads.info/choices/"><span style="font-weight: 400;">http://www.aboutads.info/choices/</span></a><span style="font-weight: 400;">. Please contact us if you&nbsp;would like to know the identity of the third-party advertising companies we are currently using to serve ads.</span></p>
+<p><span style="font-weight: 400;">We may allow advertisers to choose the characteristics of users who will see their advertisements, and we may use any of the Non-Personally Identifying Information we have collected (including information you may have decided not to show to other users, such as your birth year or other sensitive personal information or preferences) to select the appropriate audience for those advertisements. We do not identify you to the advertiser.</span></p>
+<p><b><i>Web Beacons</i></b></p>
+<p><span style="font-weight: 400;">A “Web Beacon” is an object that is embedded in a web page or email that is usually invisible to the user and allows website operators to check whether a user has viewed a particular web page or an email. Company may use Web Beacons on the Website and in emails to count users who have visited particular pages, viewed emails and to deliver co-branded services. Web Beacons are not used to access users’ Personally-Identifying Information. They are a technique Company may use to compile aggregated statistics about Website usage. Web Beacons collect only a limited set of information, including a Web Cookie number, time and date of a page or email view and a description of the page or email on which the Web Beacon resides. You may not decline Web Beacons. However, they can be rendered ineffective by declining all Web Cookies or modifying your browser setting to notify you each time a Web Cookie is tendered, permitting you to accept or decline Web Cookies on an individual basis. &nbsp;</span></p>
+<p><b><i>Analytics</i></b></p>
+<p><span style="font-weight: 400;">We may use third-party vendors, including Google, who use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize and serve ads based on your past activity on the Website, including Google Analytics for Display Advertising. The information collected may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. If you do not want any information to be collected and used by Google Analytics, you can install an opt-out in your web browser (https://tools.google.com/dlpage/gaoptout/) and/or opt out from Google Analytics for Display Advertising or the Google Display Network by using Google’s Ads Settings (</span><a href="http://www.google.com/settings/ads"><span style="font-weight: 400;">www.google.com/settings/ads</span></a><span style="font-weight: 400;">).</span></p>
+<p><b><i>Aggregated and Non-Personally-Identifying Information</i></b></p>
+<p><span style="font-weight: 400;">We may share aggregated and Non-Personally Identifying Information we collect under any of the above circumstances. We may also share it with third parties and our affiliate companies to develop and deliver targeted advertising on the Website and on websites of third parties. We may combine Non-Personally Identifying Information we collect with additional Non-Personally Identifying Information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to the Website and the most popular features or services accessed. This information does not contain any Personally-Identifying Information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising. </span></p>
+<p><b><i>Mobile Device Additional Terms</i></b></p>
+<ul>
+<li><b> Mobile Device</b><span style="font-weight: 400;">.&nbsp;If you use a mobile device to access the Website or download any of our applications, we may collect device information (such as your mobile device ID, model and manufacturer), operating system, version information and IP address.</span></li>
+</ul>
+<ul>
+<li><b> Geo-Location Information</b><span style="font-weight: 400;">.&nbsp;Unless we have received your prior consent, we do not access or track any location-based information from your mobile device at any time while downloading or using our mobile application or our services, except that it may be possible for Company to determine from an IP address the geographic location of your point of connectivity, in which case we may gather and use such general location data.</span></li>
+</ul>
+<ul>
+<li><b>Push Notifications</b><span style="font-weight: 400;">.&nbsp;We send you push notifications if you choose to receive them, letting you know when someone has sent you a message or for other service-related matters. If you wish to opt-out from receiving these types of communications, you may turn them off in your device’s settings.</span></li>
+</ul>
+<ul>
+<li><b> Mobile Analytics.&nbsp;</b><span style="font-weight: 400;">We use mobile analytics software to allow us to better understand the functionality of our mobile software on your phone. This software may record information, such as how often you use the application, the events that occur within the application, aggregated usage, performance data and where the application was downloaded from. We do not link the information we store within the analytics software to any Personally-Identifying Information you submit within the mobile application.</span></li>
+</ul>
+<p><b>SOCIAL MEDIA&nbsp;</b></p>
+<p><span style="font-weight: 400;">We may use hyperlinks on the Website which will redirect you to a social network if you click on the respective link. However, when you click on a social plug-in, such as Facebook’s “Like” button, Twitter’s “tweet” button or the Google+, that particular social network’s plugin will be activated and your browser will directly connect to that provider’s servers. If you do not use these buttons, none of your data will be sent to the respective social network’s plugin provider. So for example, when you click on the Facebook’s “Like” button on the Website, Facebook will receive your IP address, the browser version and screen resolution, and the operating system of the device you have used to access the Website. Settings regarding privacy protection can be found on the websites of these social networks and are not within our control.</span><span style="font-weight: 400;">&nbsp;</span></p>
+<p><b>COLLECTION, USE AND DISCLOSURE OF PERSONALLY-IDENTIFYING INFORMATION </b></p>
+<p><b><i>Website Registration</i></b></p>
+<p><span style="font-weight: 400;">As defined above, Personally-Identifying Information is information that can be directly associated with a specific person. Company may collect a range of Personally-Identifying Information from and about Website users. Much of the Personally-Identifying Information collected by Company about users is information provided by users themselves when (1) registering for our service, (2) logging in with social network credentials, (3) participating in polls, contests, surveys or other features of our service, or responding to offers or advertisements, (4) communicating with us, (5) creating a public profile or (6) signing up to receive newsletters. That information may include each user’s name, address, email address and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests and activities, your gender, age, date of birth, username, hometown and other demographic or relevant information as determined by Company from time to time. Users of the Website are under no obligation to provide Company with Personally-Identifying Information of any kind, with the caveat that a user’s refusal to do so may prevent the user from using certain Website features.</span><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">BY REGISTERING WITH OR USING THE WEBSITE, YOU CONSENT TO THE USE AND DISCLOSURE OF YOUR PERSONALLY-IDENTIFYING INFORMATION AS DESCRIBED IN THIS “COLLECTION, USE AND DISCLOSURE OF PERSONALLY-IDENTIFYING INFORMATION” SECTION.</span><span style="font-weight: 400;">&nbsp;</span></p>
+<p><b><i>Company Communications</i></b></p>
+<p><span style="font-weight: 400;">We may occasionally use your name and email address to send you notifications regarding new services offered by the Website that we think you may find valuable. We may also send you service-related announcements from time to time through the general operation of the service. Generally, you may opt out of such emails at the time of registration or through your account settings, though we reserve the right to send you notices about your account, such as service announcements and administrative messages, even if you opt out of all voluntary email notifications.</span></p>
+<p><b><i>Company Disclosures</i></b><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Company will disclose Personally-Identifying Information under the following circumstances: </span><span style="font-weight: 400;">&nbsp;</span></p>
+<ul>
+<li><b>By Law or to Protect Rights.</b><span style="font-weight: 400;"> When we believe disclosure is appropriate, we may disclose Personally-Identifying Information in connection with efforts to investigate, prevent or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of Company, our users, our employees or others; to comply with applicable law or cooperate with law enforcement; to enforce our Terms of Use or other agreements or policies, in response to a subpoena or similar investigative demand, a court order or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.</span></li>
+</ul>
+<ul>
+<li><b>Marketing Communications.</b><span style="font-weight: 400;">Unless users opt-out from receiving Company marketing materials upon registration, Company may email users about products and services that Company believes may be of interest to them. If you wish to opt-out of receiving marketing materials from Company, you may do so by following the unsubscribe link in the email communications, by going to your account settings (if applicable) or contacting us using the contact information below.</span></li>
+</ul>
+<ul>
+<li><b>Third-Party Service Providers.</b><span style="font-weight: 400;"> We may share your Personally-Identifying Information, which may include your name and contact information (including email address) with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, providing customer service and marketing assistance, performing business and sales analysis, supporting the Website’s functionality and supporting contests, sweepstakes, surveys and other features offered through the Website. We may also share your name, contact information and credit card information with our authorized service providers who process credit card payments. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purpose.</span></li>
+</ul>
+<ul>
+<li><b>Business Transfers; Bankruptcy.</b><span style="font-weight: 400;"> Company reserves the right to transfer all Personally-Identifying Information in its possession to a successor organization in the event of a merger, acquisition, bankruptcy or other sale of all or a portion of Company’s assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personally-Identifying Information will be subject to this Privacy Policy, or to a new privacy policy if you are given notice of that new privacy policy and are given an opportunity to affirmatively opt-out of it. Personally-Identifying Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by the successor organization.</span></li>
+</ul>
+<p><b><i>Changing Personally-Identifying Information; Account Termination </i></b><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">You may at any time review or change your Personally-Identifying Information by going to your account settings (if applicable) or contacting us using the contact information below. &nbsp;Upon your request, we will deactivate or delete your account and contact information from our active databases. Such information will be deactivated or deleted as soon as practicable based on your account activity and accordance with our deactivation policy and applicable law. To make this request, either go to your account settings (if applicable) or contact us as provided below. We will retain in our files some Personally-Identifying Information to prevent fraud, to troubleshoot problems, to assist with any investigations, to enforce our Terms of Use and to comply with legal requirements as is permitted by law. Therefore, you should not expect that all your Personally-Identifying Information will be completely removed from our databases in response to your requests. Additionally, we keep a history of changed information to investigate suspected fraud with your account.</span></p>
+<p><b><i>General Use</i></b></p>
+<p><span style="font-weight: 400;">Company uses the Personally-Identifying Information in the file we maintain about you, and other information we obtain from your current and past activities on the Website (1) to deliver the products and services that you have requested; (2) to manage your account and provide you with customer support; (3) to communicate with you by email, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, our affiliate companies or other third parties; (4) to develop and display content and advertising tailored to your interests on the Website and other sites; (5) to resolve disputes and troubleshoot problems; (6) to measure consumer interest in our services; (7) to inform you of updates; (8) to customize your experience; (9) to detect and protect us against error, fraud and other criminal activity; (10) to enforce our Terms of Use; and (11) to do as otherwise described to you at the time of collection. At times, we may look across multiple users to identify problems. In particular, we may examine your Personally-Identifying Information to identify users using multiple user IDs or aliases. We may compare and review your Personally-Identifying Information for accuracy and to detect errors and omissions. We may use financial information or payment method to process payment for any purchases made on the Website, enroll you in the discount, rebate, and other programs in which you elect to participate, to protect against or identify possible fraudulent transactions and otherwise as needed to manage our business.</span></p>
+<p><b>COLLECTION AND USE OF INFORMATION BY THIRD PARTIES GENERALLY</b></p>
+<p><span style="font-weight: 400;">Company contractually prohibits its contractors, affiliates, vendors and suppliers from disclosing Personally-Identifying Information received from Company, other than in accordance with this Privacy Policy. However, third parties are under no obligation to comply with this Privacy Policy with respect to Personally-Identifying Information that users provide directly to those third parties, or that those third parties collect for themselves. These third parties include advertisers, providers of games, utilities, widgets and a variety of other third-party applications accessible through the Website. Company neither owns nor controls the third-party websites and applications accessible through the Website. Thus, this Privacy Policy does not apply to information provided to or gathered by the third parties that operate them. Before visiting a third party, or using a third-party application, whether by means of a link on the Website, directly through the Website or otherwise, and before providing any Personally-Identifying Information to any such third party, users should inform themselves of the privacy policies and practices (if any) of the third party responsible for that website or application, and should take those steps necessary to, in those users’ discretion, protect their privacy.</span><span style="font-weight: 400;">&nbsp;</span></p>
+<p><b>SECURITY</b><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">We take the security of your Personally-Identifying Information seriously and use reasonable electronic, personnel and physical measures to protect it from loss, theft, alteration or misuse.&nbsp; However, please be advised that even the best security measures cannot fully eliminate all risks. We cannot guarantee that only authorized persons will view your information. We are not responsible for third-party circumvention of any&nbsp;privacy settings&nbsp;or security measures. </span></p>
+<p><span style="font-weight: 400;">We are dedicated to protect all information on the Website as is necessary. However, you are responsible for maintaining the confidentiality of your Personally-Identifying Information by keeping your password confidential. You should change your password immediately if you believe someone has gained unauthorized access to it or your account. If you lose control of your account, you should notify us immediately.</span><b>&nbsp;</b></p>
+<p><b>PRIVACY POLICY CHANGES</b></p>
+<p><span style="font-weight: 400;">Company may, in its sole discretion, change this Privacy Policy from time to time. Any and all changes to Company’s Privacy Policy will be reflected on this page and the date new versions are posted will be stated at the top of this Privacy Policy. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. Users should regularly check this page for any changes to this Privacy Policy. Company will always post new versions of the Privacy Policy on the Website. However, Company may, as determined in its discretion, decide to notify users of changes made to this Privacy Policy via email or otherwise. Accordingly, it is important that users always maintain and update their contact information.</span><span style="font-weight: 400;">&nbsp;</span></p>
+<h3><b>CHILDREN</b></h3>
+<p><span style="font-weight: 400;">The Children’s Online Privacy Protection Act (“COPPA”) protects the online privacy of children under 13 years of age. We do not knowingly collect or maintain Personally-Identifying Information from anyone under the age of 13, unless or except as permitted by law. Any person who provides Personally-Identifying Information through the Website represents to us that he or she is 13 years of age or older. If we learn that Personally-Identifying Information has been collected from a user under 13 years of age on or through the Website, then we will take the appropriate steps to cause this information to be deleted. If you are the parent or legal guardian of a child under 13 who has become a member of the Website or has otherwise transferred Personally-Identifying Information to the Website, please contact Company using our contact information below&nbsp;to have that child’s account terminated and information deleted.</span><b>&nbsp;</b></p>
+<p><b>CALIFORNIA PRIVACY RIGHTS</b></p>
+<p><span style="font-weight: 400;">California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about the Personally-Identifying Information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of the Personally-Identifying Information that was shared and the names and addresses of all third parties with which we shared Personally-Identifying Information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to our privacy officer as listed below.&nbsp;</span></p>
+<p><b>DO-NOT-TRACK POLICY</b><b>&nbsp;</b></p>
+<p><span style="font-weight: 400;">Most web browsers and some mobile operating systems include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. The Website does currently respond to DNT browser signals or mechanisms.</span></p>
+<p><b>CONTACT</b></p>
+<p><span style="font-weight: 400;">If you have any questions about this Privacy Policy or our data management practices, we would like to hear from you.</span></p>
+<p><span style="font-weight: 400;">You can contact our Privacy Officer by:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">calling us on +1 647-303-2395</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">emailing us at&nbsp;info@adventure.com</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">by post to Privacy Officer, Intrepid Group, 201 1st St, Suite 300 Petaluma, California, USA 94952</span></li>
+</ul>
+<p><span style="font-weight: 400;">Our Privacy Officer will contact you within a reasonable time after receipt of your complaint to discuss your concerns and outline options regarding how they may be resolved. We will aim to ensure that your query or complaint is resolved in a timely and appropriate manner.</span></p>
+<p>—</p>
+<p><em>State of California, Rev. 133C579</em></p>
+<p><em>Version Date: May 08, 2017</em></p>
+
+        </article>
+    </section>
+
+     
+  </div>
+
+
+
+<section class="outer-footer">
+
+  <footer class="footer">
+    <div class="row top">
+
+      <div class="columns small-6 medium-12 logo-column">
+        <a href="https://adventure.com" class="logo-alt-panel">
+          <object data="https://adventure.com/wp-content/themes/adventure_2017/assets/img/logo-alt.svg" type="image/svg+xml" class="logo" title="Adventure.com">
+            <img src="https://adventure.com/wp-content/themes/adventure_2017/assets/img/logo-alt.png" alt="">
+          </object>
+        </a>
+        <span class="back-to-top"></span>
+      </div>
+
+      <div class="columns small-6 medium-12">
+
+        <nav class="nav-footer"><ul id="menu-footer" class="menu vertical medium-horizontal"><li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-68"><a href="https://adventure.com/">Home</a></li>
+<li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="https://adventure.com/contributors/">Contributors</a></li>
+<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="https://adventure.com/about/">About</a></li>
+<li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120"><a href="https://adventure.com/news/">News</a></li>
+<li id="menu-item-116" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-116"><a href="https://adventure.com/category/people/">People</a></li>
+<li id="menu-item-117" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-117"><a href="https://adventure.com/category/places/">Places</a></li>
+<li id="menu-item-115" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="https://adventure.com/category/experiences/">Experiences</a></li>
+</ul></nav>
+      </div>
+
+      <div class="columns small-6 medium-12 utilities-column">
+
+        <ul id="menu-utilities" class="nav-utilities menu vertical medium-horizontal"><li id="menu-item-521" class="newsletter-signup menu-item menu-item-type-custom menu-item-object-custom menu-item-521"><a href="#">Newsletter</a></li>
+<li id="menu-item-121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="https://adventure.com/contact-us/">Contact us</a></li>
+<li id="menu-item-5221" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1920 current_page_item menu-item-5221"><a href="https://adventure.com/privacy-policy/">Privacy Policy</a></li>
+</ul>
+<ul class="utilities">
+            <li class="icon-facebook">
+            <a href="https://www.facebook.com/adventure/" target="_blank" title="Facebook"><span>Facebook</span></a>
+        </li>
+                <li class="icon-twitter">
+            <a href="https://twitter.com/adventurecom?lang=en" target="_blank" title="Twitter"><span>Twitter</span></a>
+        </li>
+                <li class="icon-instagram">
+            <a href="https://www.instagram.com/adventurecom/" target="_blank" title="Instagram"><span>Instagram</span></a>
+        </li>
+    </ul>
+      </div>
+    </div>
+  </footer>
+  <div class="copyright row column">
+    <ul class="nav-copyright menu vertical medium-horizontal">
+      <li>
+        © 2018 Adventure.com
+      </li>
+    </ul>
+  </div>
+</section>
+
+
+</div>
+
+<div class="search-panel" style="display: none;" id="search-modal" data-reveal="" data-animation-in="fade-in" data-animation-out="fade-out" data-close-on-click="false">
+  <div class="middle">
+    <div class="logo-search">
+      <object data="https://adventure.com/wp-content/themes/adventure_2017/assets/img/logo-alt.svg" type="image/svg+xml" class="logo" title="Adventure.com">
+        <img src="https://adventure.com/wp-content/themes/adventure_2017/assets/img/logo-alt.png" alt="">
+      </object>
+    </div>
+    <form role="search" method="get" id="searchform" class="search-form" action="https://adventure.com/">
+      <input type="text" value="" required="required" name="s" id="s" placeholder="Search something">
+    </form>
+
+    
+        <section class="row article-tags">
+          <article class="columns small-12 medium-8 medium-offset-2 menu-centered">
+
+            <p>Can't find what you’re looking for? Try using these tags:</p>
+
+              <ul class="menu simple vertical medium-horizontal">
+
+                  <li><a href="/tag/news" title="All articles tagged with: News" class="btn small">News</a></li><li><a href="/tag/opinion" title="All articles tagged with: Opinion" class="btn small">Opinion</a></li><li><a href="/tag/photography" title="All articles tagged with: Photography" class="btn small">Photography</a></li><li><a href="/tag/responsible-travel" title="All articles tagged with: Responsible travel" class="btn small">Responsible travel</a></li><li><a href="/tag/europe" title="All articles tagged with: Europe" class="btn small">Europe</a></li><li><a href="/tag/asia" title="All articles tagged with: Asia" class="btn small">Asia</a></li><li><a href="/tag/hiking" title="All articles tagged with: Hiking" class="btn small">Hiking</a></li><li><a href="/tag/photo-feature" title="All articles tagged with: Photo feature" class="btn small">Photo feature</a></li><li><a href="/tag/foodanddrink" title="All articles tagged with: Food &amp; drink" class="btn small">Food &amp; drink</a></li><li><a href="/tag/africa" title="All articles tagged with: Africa" class="btn small">Africa</a></li>              </ul>
+          </article>
+      </section>
+
+      
+  </div>
+  <button class="btn-close" data-close=""></button>
+</div>
+
+
+<section class="signup-fixed row expanded collapse">
+    <div class="columns small-12">
+        <div class="row expanded" id="nl-form-wrapper">
+            <div class="columns small-12 medium-5 large-6 signup-fixed-left">
+                <span class="heading">
+                    Want the latest from Adventure.com?
+                </span>
+                <p>
+                    Sign up for our newsletter.
+                </p>
+            </div>
+            <div class="columns small-12 medium-7 large-6 signup-fixed-right">
+                <div class="form_wrapper">
+                    <form action="//adventure.us14.list-manage.com/subscribe/post-json?u=4d39a5e2517d52bf78ce11911&amp;id=2cf029c0c2&amp;c=?" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="signup-form validate" novalidate="">
+                        <div class="form_body">
+                            <input type="email" value="" placeholder="Email Address" name="EMAIL" class="required email" id="mce-EMAIL">
+                        </div>
+                        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4d39a5e2517d52bf78ce11911_2cf029c0c2" tabindex="-1" value=""></div>
+                        <div class="form_footer">
+                            <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="form_button button">
+                        </div>
+                    </form>
+                </div>
+
+                                <a href="/" id="signup-close" title="Close" class="close"></a>
+            </div>
+        </div>
+        <div class="row expanded" id="nl-success-message" style="display: none;">
+            <div class="columns small-12">
+                <div class="success-message">
+                    <p>Thank you for subscribing.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));</script>
+<!--End mc_embed_signup-->
+<script type="text/javascript" src="https://adventure.com/wp-includes/js/wp-embed.min.js?ver=4.9.8"></script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ca01295a92","applicationID":"52287912","transactionName":"NlFQbUFQXkACV0UKXA8bc1pHWF9dTERQBFY=","queueTime":0,"applicationTime":350,"atts":"GhZTGwlKTU4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 86/114 objects using redis
+Page Caching using redis (SSL caching disabled) 
+
+Served from: adventure.com @ 2018-10-12 02:23:36 by W3 Total Cache
+--></body></html>
