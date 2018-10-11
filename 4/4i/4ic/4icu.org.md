@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the 4icu.org privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606072011id_/https%3A//www.4icu.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4icu.org privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011160651id_/http%3A//www.4icu.org/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
 **Information about our Organisation and Web site**
 
 We are based in Australia.  
-Our principal activity is: Directory of World Universities and Colleges; [learn more](http://www.4icu.org/about/).  
+Our principal activity is: Directory of World Universities and Colleges; [learn more](https://www.4icu.org/about/).  
 Our privacy policy covers uniRank.org and its website: 
 
   
-| **Organisation Name:** | uniRankâ„¢  
+| **Organisation Name:** | uniRank™  
 ---|---  
 **Address:** | 2C/5 Tambua Street   
 **City, Zip:** | Sydney, 2009   
@@ -213,4 +213,4 @@ By using this website, you signify your acceptance of this Privacy and Cookie Po
 
 **Changes to this privacy policy**
 
-uniRankâ„¢ has the discretion to update this privacy policy at any time. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect your privacy. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+uniRank™ has the discretion to update this privacy policy at any time. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect your privacy. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
