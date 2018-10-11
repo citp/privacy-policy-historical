@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givealink.info privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610080438id_/http%3A//givealink.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givealink.info privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011071026id_/http%3A//givealink.info/privacy) for the most accurate reproduction.*
 
 # privacy – Give a Link
 
