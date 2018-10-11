@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reversewinesnob.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001040819id_/https%3A//www.reversewinesnob.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reversewinesnob.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011192551id_/https%3A//www.reversewinesnob.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy • Reverse Wine Snob®
 
