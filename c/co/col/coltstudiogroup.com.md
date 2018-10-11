@@ -1,96 +1,70 @@
-> *The following text is extracted and transformed from the coltstudiogroup.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608205946id_/http%3A//www.coltstudiogroup.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coltstudiogroup.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011145802id_/https%3A//www.coltstudiogroup.com/page/TermsOfUse) for the most accurate reproduction.*
 
-# C O L T | welcome
+# ColtStudioGroup.com
 
-|  **I. Introduction**
+1\. I confirm that I am at least 18 years of age.
 
-Your privacy is important to Colt Studio. This privacy policy discloses the information practices for http://www.coltstudio.com, including the types of information we gather and track, how we use that information, and with whom we share it. The purpose of this policy is to let you know how we use your personal information before we collect it. We have tried to include a link to this policy on every page on which personal information is collected. We have also provided a number of links at the bottom of this page for those interested in learning more about privacy issues in cyberspace.
+2\. I acknowledge that sexually explicit depictions of male homosexual conduct appear on this web site. I am familiar with material of this kind. I am not offended by such materials and wish to view them. I am entering this website because it has adult content and I find adult content neither offensive nor objectionable.
 
-II. Information Collection and Management
+3\. I am fully aware of the laws and community standards of the locality and community to which I am transporting via the internet and am solely responsible for my actions. I do not reside in a Nation, State, County or Locality where this material is considered obscene; nor do I live in a Nation, State, County, or Locality where it is illegal to view, possess or distribute such sexually explicit material.
 
-**A. Personal information**
+4\. I am requesting this site for my own non-commercial use in my own private residence.
 
-**i. Information we collect**
+5\. I acknowledge that the material found on this site is not intended for minors or person who object to adult content.
 
-"Personally identifiable information" is information that can be used to identify or contact you, such as your name, e-mail address, home or work address, or telephone number. Colt Studio only has access to the personally identifiable information that you provide to us. For example, we cannot determine your e-mail address unless you provide it. We cannot gain access to other information on your computer. Those who visit only public areas of the Web site (such as the "guest tour") and who do not purchase goods or services do not need to, and generally do not, provide us with any personally identifiable information. Those who wish to join the site, however; or to purchase products or services or sign up for our mailing list, must provide us with enough information to enable us to process the requested transaction. This generally includes, at a minimum, personally identifiable information such as name, address, e-mail address, and telephone number. Members also select, and thereby provide, a username and password combination.
+6\. I agree that all information I disclose to COLT Studio Group, its agents, partners, and affiliates is solely mine, accurate, current, and does not infringe on other’s privacy.
 
-**ii. How we use the information**
+7\. I certify that I am the owner or beneficial holder of the credit card used to make any purchases, or that I have the express permission from the owner of the credit card to use it for purchases. I understand that the membership fees that I incur are not refundable.
 
-Your personally identifiable information is used only to process the requested transaction, and occasionally to provide you with special offers from Colt Studio and others. On occasion, for example, we may send e-mails to introduce a product or service that we think will interest our subscribers. Colt Studio will never intentionally disclose any personally identifying information to any third party, unless we are compelled to do so by law (for example, in response to a subpoena or court order), or our obligation to maintain the privacy of your information has been waived or otherwise excused by you (for example, by your filing suit against us and asserting claims against which such information would be relevant in our defense). Please note that our lawyers, accountants, and/or vendors are not "third parties" for the purpose of this section to the extent that disclosure to them is necessary or desirable for the operation of our business. 
+8\. I agree that COLT Studio Group, its agents, partners, and affiliates have the right to use any information that I disclose to them for any purposes they see fit.
 
-**iii. Opt-out policy**
+9\. I agree that COLT Studio Group may capture details of my identity and internet usage for the purposes of fraud and piracy reduction.
 
-Because your personal information is required for us to provide services to you, you cannot opt-out of providing it and still receive those services. You can also opt-out of receiving promotional e-mailings by clicking on the help link in the footer, then clicking 'report a problem' on the right nav bar. (Note that by setting your e-mail preference to "No" you will not receive advertising and promotional e-mail, but you may from time to time receive e-mails in connection with billing and/or site administration. For more detailed instructions about changing your preferences and personal information, click here.
+10\. I understand that all materials and contents of this site are the sole property and copyright of COLT Studio Group.
 
-**B. Interactive data**
+11\. I will not copy, upload, transmit, transfer, distribute, publish, modify or use any of the material on this website, including the underlying HTML source for any commercial or other purpose without written permission signed by COLT Studio Group. Under the Digital Millennium Copyright Act (DMCA) of 1999 we will contact the service provider (ISP) of any site using unauthorized content, putting them on notice to the allegations of copyright infringement. The ISP is required by law to remove or block access to the alleged materials during the investigation into such claims.
 
-**i. Information we collect**
+12\. I acknowledge that all models in all movies featured on this site are over 18 years of age. Pursuant to Title 18, Part I, Chapter 110, § 2257 of the U.S. Code, all models and actors depicted in products and visuals on this website were over the age of eighteen (18) at the time of creation of said depictions, according to the Custodian of Records at the studio(s) that created said products or visuals.
 
-ColtStudio.com provides a number of features that allow members to communicate with each other, such as a message board and chat room ("interactive features"). Chat transcripts and message board postings are backed up periodically in connection with our routine server maintenance, and thus may be retained for an indeterminate time.
+13\. Bookmarking or directly accessing any page on this website and bypassing this Agreement shall constitute an implicit acceptance of this Agreement
 
-**ii. How we use the information**
+Privacy Policy
 
-Use of these interactive features is not monitored by Colt Studio. We do not use information posted on interactive features except as the author presumably intended, that is, as content on the Web site (and occasionally as food for thought). We do not share user submitted information with third parties, however, any information posted is visible to other members, and is vulnerable to being copied and/or redistributed by others. Members should use reasonable caution when disclosing any personally identifiable information in any online forum. We cannot be responsible for any damages incurred as a result of such disclosure, and use of the interactive services is at the member's own risk.
+This privacy policy discloses the privacy practices for COLTstudiogroup.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
-**iii. Opt-out policy**
+1\. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
 
-Members must opt-in (for example, by participating in a chat) in order for us to collect this information.
+2\. What choices are available to you regarding the use of your data.
 
-**C. Click-stream data**
+3\. The security procedures in place to protect the misuse of your information.
 
-**i. Information we collect**
+4\. How you can correct any inaccuracies in the information.
 
-We also collect non-personally identifying information provided by your browser and/or our servers, such as the name and IP address of the domain from which you visited (if any), the amount of time you spent on each page and on the site as a whole, and the path you followed through the site. This sort of information is sometimes known as click-stream data.
+**Information Collection, Use, and Sharing**  
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
-**ii. How we use the information**
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
 
-We use click-stream data in the aggregate to analyze trends and statistics and to help us understand how subscribers use our site. This allows us to identify areas and technologies that need improvement, and to provide appropriate bandwidth and technical support for areas that are growing. None of this information is reviewed at an individual level. From time to time we may share this aggregate statistical information with partners, suppliers and other third parties, but it will not include any personally identifiable information.
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
-**iii. Opt-out policy**
+**Your Access to and Control Over Information**  
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
-Click-stream data is generated by your browser and our servers, and therefore you cannot opt-out of providing it. However, some of the privacy resources listed below may provide a partial solution by (for example) allowing you to cloak your IP address.
+• See what data we have about you, if any.
 
-**D. Cookies**
+• Change/correct any data we have about you.
 
-**i. Information we collect**
+• Have us delete any data we have about you.
 
-We collect certain non-personally identifying information through the use of "cookies." A cookie is a small file that a Web site can send to your browser to be stored on your system. Some cookies are deleted when you end your online session ("session cookies"), while others may be stored on your computer indefinitely ("persistent cookies"). We use session cookies on this site to store information such as user login status (so that you aren't forced to enter your username and password on every page). These cookies expire automatically when you log out.
+• Express any concern you have about our use of your data.
 
-**ii. How we use the information**
+**Security**  
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
-We use the information stored in cookies to personalize your Web site experience and to manage your online session. The information in cookies is both set and read by our server and is not logged in the process. We do not share data that we collect from cookies with third parties. 
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-**iii. Opt-out policy**
+**Updates**
 
-You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, many areas of the site will not function properly. 
+Our Privacy Policy may change from time to time and all updates will be posted on this page.
 
-**III. Related Issues**
-
-**A. Information security**  
-We are constantly striving to improve the security of your personally identifiable information. We have implemented appropriate technical and organizational measures, such as using encryption for transmission of credit card numbers, to help us keep your information secure. We will continue to implement additional security measures as new technologies emerge.
-
-For all customer service, account access, billing and login issues. 
-
-Colt Studio does not use third-party services to provide banner advertising.
-
-**C. Children's data**
-
-Colt Studio' Web sites are not directed towards children, and do not collect any data governed by the United States' Children's Online Privacy Protection Act (COPPA).
-
-**D. Privacy technology**
-
-There are an increasing number of products and services are available to help protect your privacy while navigating the Web. See http://www.privacyalliance.org/resources/rulesntools.shtml for an overview of some of these tools. Please note that Colt Studio has not formally evaluated these tools and makes no representations or warranties about them.
-
-**E. Business relationships**
-
-This contains links to other Web sites. Colt Studio is not responsible for the privacy practices or the content of such Web sites. For example, credit card billing is provided by iBill. The privacy of information that you provide to those companies is governed by their respective privacy policies and not that of Colt Studio.
-
-**F. Notification of changes**
-
-This privacy statement was last updated on January 31, 2003. A notice will be posted on our web site for 30 days whenever this privacy statement is changed. 
-
-**G. Questions regarding this statement**
-
-Questions regarding this statement should be directed to Colt Studio Privacy coordinator.
-
-| 
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via email at Orders@COLTstudiogroup.com.**
