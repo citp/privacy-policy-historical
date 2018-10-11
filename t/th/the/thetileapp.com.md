@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetileapp.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711235817id_/https%3A//www.thetileapp.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetileapp.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011181624id_/https%3A//www.thetileapp.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tile
 
@@ -176,7 +176,7 @@ Your Personal Information may be transferred to, and maintained on, computers lo
 
 ## 12. We Take Security Seriously
 
-We implement various systems, applications and procedures to secure your Personal Information, in order to reduce the risks of theft, damage, loss of information, or unauthorized access, disclosure, modification or use of information. Please be aware, however, that these measures are cannot absolutely guarantee the security of your Personal Information. Therefore, although we take great efforts to protect your Personal Information, we cannot guarantee and you cannot reasonably expect that our databases will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse.
+We implement various systems, applications and procedures to secure your Personal Information, in order to reduce the risks of theft, damage, loss of information, or unauthorized access, disclosure, modification or use of information. Please be aware, however, that these measures cannot absolutely guarantee the security of your Personal Information. Therefore, although we take great efforts to protect your Personal Information, we cannot guarantee and you cannot reasonably expect that our databases will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse.
 
 ## 13. You Are Responsible for Maintaining the Accuracy and Confidentiality of Your Email Address and Password
 
