@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srisankaramatrimony.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608130702id_/http%3A//www.srisankaramatrimony.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srisankaramatrimony.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012010917id_/http%3A//www.srisankaramatrimony.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Sri Sankara Matrimony
 
