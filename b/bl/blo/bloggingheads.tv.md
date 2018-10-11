@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggingheads.tv privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184224id_/http%3A//bloggingheads.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingheads.tv privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011192410id_/https%3A//bloggingheads.tv/privacy-policy) for the most accurate reproduction.*
 
 # Bloggingheads.tv
 
@@ -10,11 +10,11 @@ We do not collect personal information about visitors to our website unless you 
 
 ### Contact form
 
-We provide a [contact form](https://web.archive.org/web/20170606184224id_/http%3A//bloggingheads.tv/contact) on Bloggingheads.tv so that site visitors can communicate with us. Users of this optional service provide a name as well as an email address where they can receive a response when one is needed. We do not use this information for any purpose other than responding to inquiries and we do not share this information with third parties.
+We provide a [contact form](https://web.archive.org/web/20181011192410id_/https%3A//bloggingheads.tv/contact) on Bloggingheads.tv so that site visitors can communicate with us. Users of this optional service provide a name as well as an email address where they can receive a response when one is needed. We do not use this information for any purpose other than responding to inquiries and we do not share this information with third parties.
 
 ### Email subscriptions
 
-We allow users to [subscribe to our content](https://web.archive.org/web/20170606184224id_/http%3A//bloggingheads.tv/subscribe) through the email delivery features of Google’s FeedBurner application. Users of this optional service provide an email address where they want to receive Bloggingheads.tv subscription emails. We do not use these email addresses for any purpose other than Bloggingheads.tv email subscriptions and we do not share them with third parties.
+We allow users to [subscribe to our content](https://web.archive.org/web/20181011192410id_/https%3A//bloggingheads.tv/subscribe) through the email delivery features of Google’s FeedBurner application. Users of this optional service provide an email address where they want to receive Bloggingheads.tv subscription emails. We do not use these email addresses for any purpose other than Bloggingheads.tv email subscriptions and we do not share them with third parties.
 
 ### Disqus commenting system
 
@@ -66,7 +66,7 @@ We may update this Privacy Policy at any time. When we do, we will revise the da
 
 ## Contact us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please send us a message on our [contact form](https://web.archive.org/web/20170606184224id_/http%3A//bloggingheads.tv/contact).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please send us a message on our [contact form](https://web.archive.org/web/20181011192410id_/https%3A//bloggingheads.tv/contact).
 
 [
 
@@ -74,29 +74,9 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 ](https://web.archive.org/programs/glenn-show)
 
-[](https://web.archive.org/videos/46331?in=03:35&out=10:17)
+[](https://web.archive.org/videos/53830?in=55:22&out=61:56)
 
-## Glenn Loury and filmmaker Rob Montz on whether colleges are giving in to student protests.
-
-[
-
-### Global Dispatches
-
-](https://web.archive.org/programs/global-dispatches)
-
-[](https://web.archive.org/videos/46245?in=02:27&out=07:56)
-
-## Jill Filipovic, author of the new book _The H-Spot_ , explains why foreign NGOs see the executive order as especially threatening. **Plus** : A country by men, [for men](http://bloggingheads.tv/videos/46245?in=40:04&out=46:18).
-
-[
-
-### The Glenn Show
-
-](https://web.archive.org/programs/glenn-show)
-
-[](https://web.archive.org/videos/46202?in=43:54&out=47:45)
-
-## Economist Laurence Kotlikoff on why former Wall Street executives make poor stewards of national tax policy. **Plus** : Can Republicans pass their [“Better Way” tax plan](http://bloggingheads.tv/videos/46202?in=39:39&out=43:08)?
+## Glenn Loury and climate scientist Patrick T. Brown discuss the difficulties in fighting climate change.
 
 [
 
@@ -104,16 +84,30 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 ](https://web.archive.org/programs/wrightshow)
 
-[](https://web.archive.org/videos/46294?in=12:57&out=17:47)
+[](https://web.archive.org/videos/53825?in=21:10&out=26:25)
 
-## Freddie deBoer on how establishment politicians use “identity politics” to hide harmful economic policies.
+## Robert Wright and Peter Beinart discuss the roles of Russia and the US in raising tensions between them.
 
 [
 
-### Science Faction
+### The DMZ
 
-](https://web.archive.org/programs/science-faction)
+](https://web.archive.org/programs/dmz)
 
-[](https://web.archive.org/videos/46284?in=24:50&out=29:58)
+[](https://web.archive.org/videos/53797?in=23:14&out=26:23)
 
-## Science journalists John Horgan and George Johnson debate whether “panpsychism” raises or lowers the status of human consciousness.
+## Bill Scher and Matt Lewis debate whether the level of scrutiny faced by Brett Kavanaugh or Christine Blasey Ford is justified.
+
+[](https://web.archive.org/videos/53777?in=32:32&out=39:43)
+
+## Maha Rafi Atal and Samuel Hammond analyze the new proposal by Matt Bruenig of the People’s Policy Project.
+
+[
+
+### The DMZ
+
+](https://web.archive.org/programs/dmz)
+
+[](https://web.archive.org/videos/53747?in=22:06&out=26:59)
+
+## Bill Scher and Matt Lewis analyze Brett Kavanaugh’s testimony.
