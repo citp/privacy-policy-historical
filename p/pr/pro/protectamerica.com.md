@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917165748id_/https%3A//www.protectamerica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011213856id_/https%3A//www.protectamerica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Protect America
 
-[Protect America](https://web.archive.org/ "Protect America Home Security | www.protectamerica.com"), Inc. ("PAI") is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this Web site. http://www.protectamerica.com
+[Protect America](https://web.archive.org/ "Protect America Home Security | www.protectamerica.com"), Inc. ("PAI") is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this Web site. https://www.protectamerica.com
 
 ### Information Collected
 
@@ -62,11 +62,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we decide to make material changes to our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate prior to the change becoming effective so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-### TRUSTe Program
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request)
-
 ### Contacting Us
 
-If you have any questions about this privacy policy, please [email us](mailto:info@protectamerica.com "Email Protect America Information Inbox"). We welcome your questions and suggestions about our privacy policy. 
+If you have any questions about this privacy policy, please [email us](mailto:info@protectamerica.com "Email Protect America Information Inbox"). We welcome your questions and suggestions about our privacy policy.
   *[PAI]: Protect America, Inc.
