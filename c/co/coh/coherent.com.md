@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coherent.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529092715id_/https%3A//www.coherent.com/company/coherent-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coherent.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012153803id_/https%3A//www.coherent.com/company/coherent-privacy-statement) for the most accurate reproduction.*
 
 # Coherent Privacy Statement | Coherent
 
@@ -89,13 +89,42 @@ To exercise these rights or if you have any questions or comments, please contac
 
 Mark Rakic, Data Protection Officer
 
-privacy@Coherent.com
+[privacy@coherent.com](mailto:privacy@Coherent.com)
 
 Data Protection Officer, c/o Coherent, Inc.
 
 5100 Patrick Henry Drive
 
 Santa Clara, CA 95054, USA
+
+**e) data protection officer** **Germany**
+
+If you are dealing with one of the Coherent entities listed below, the data protection officer is:
+
+Dr. Gregor Scheja
+
+Scheja und Partner Rechtsanwälte mbB
+
+Adenauerallee 136
+
+D-53113 Bonn
+
+<https://www.scheja-partner.de/kontakt/kontakt.html>
+
+  * Coherent GmbH 
+  * Coherent Holding BV & Co. KG 
+  * Coherent (Deutschland) GmbH 
+  * Coherent LaserSystems GmbH & Co. KG 
+  * Coherent Kaiserslautern GmbH 
+  * ROFIN-SINAR Laser GmbH 
+  * DILAS Diodenlaser GmbH 
+  * Coherent Munich GmbH & Co. KG 
+  * PMB Elektronik GmbH 
+  * O.R. Lasertechnologie GmbH 
+
+
+
+—
 
 If you are a citizen of an EEA Member State, you can contact the Data Protection Panel in the event of unresolved complaints:
 
