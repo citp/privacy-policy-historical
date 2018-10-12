@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthyplace.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912102623id_/https%3A//www.healthyplace.com/about-healthyplace/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyplace.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013001711id_/https%3A//www.healthyplace.com/about-healthyplace/about-us/privacy-policy) for the most accurate reproduction.*
 
-# HealthyPlace.com Privacy Statement - About us - About Healthyplace | HealthyPlace
+# HealthyPlace.com Privacy Statement | HealthyPlace
 
 The Internet contains a wealth of information. Unfortunately, it may also contain personal details about you that you don't want everyone to know. For example, your real name (lots of people on the Internet use aliases, alter egos or nicknames), street address, phone number, or e-mail address. Also, when you go online, sites you visit may be gathering information about you --- without your knowledge.
 
@@ -60,4 +60,4 @@ This statement discloses the privacy practices for the HealthyPlace.com Web site
 
 Questions regarding this statement should be directed to the HealthyPlace.com site coordinator at [info@healthyplace.com](mailto:info@healthyplace.com)
 
-[about us](https://www.healthyplace.com/about-healthyplace/about-us/about-healthyplace/) ~ [editorial policy](https://www.healthyplace.com/about-healthyplace/about-us/editorial-policy/) ~ [privacy policy](https://www.healthyplace.com/about-healthyplace/about-us/privacy-policy/) ~ [advertising policy](https://www.healthyplace.com/about-healthyplace/about-us/advertising-and-promotions-policy/) ~ [terms of use](https://www.healthyplace.com/about-healthyplace/about-us/terms-and-conditions-of-use/) ~ [disclaimer](https://www.healthyplace.com/about-healthyplace/about-us/copyright-and-disclaimer-notices/)
+[about us](https://web.archive.org/about-healthyplace/about-us/about-healthyplace) ~ [editorial policy](https://web.archive.org/about-healthyplace/about-us/editorial-policy) ~ [privacy policy](https://web.archive.org/about-healthyplace/about-us/privacy-policy) ~ [advertising policy](https://web.archive.org/about-healthyplace/about-us/advertising-and-promotions-policy) ~ [terms of use](https://web.archive.org/about-healthyplace/about-us/terms-and-conditions-of-use) ~ [disclaimer](https://web.archive.org/about-healthyplace/about-us/copyright-and-disclaimer-notices)
