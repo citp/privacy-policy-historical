@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedforall.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625070855id_/http%3A//www.feedforall.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedforall.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012073540id_/https%3A//www.feedforall.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # RSS Feed Creation and Editing
 
@@ -53,7 +53,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 Checkout the techie humor! 
 
-[](https://web.archive.org/web/20180625070855id_/http%3A//www.feedforall.com/tech-humor.htm)  
+[](https://web.archive.org/web/20181012073540id_/https%3A//www.feedforall.com/tech-humor.htm)  
   
 ---  
   
@@ -62,14 +62,14 @@ Checkout the techie humor!
 
 New FeedForAll build available to help with compatibility issues with newer operating systems. 
 
-[](https://web.archive.org/web/20180625070855id_/http%3A//www.feedforall.com/feedforall.htm)  
+[](https://web.archive.org/web/20181012073540id_/https%3A//www.feedforall.com/feedforall.htm)  
   
 ### **11.04.12** ****  
 **FeedForAll Social**
 
 FeedForAll gets social! Follow us on social channels including: LinkedIn, Facebook, Twitter.
 
-[](https://web.archive.org/web/20180625070855id_/http%3A//www.feedforall.com/feedforall-social.htm)  
+[](https://web.archive.org/web/20181012073540id_/https%3A//www.feedforall.com/feedforall-social.htm)  
   
 ### **02.22.10** ****  
 **RSS Education Center**
@@ -132,7 +132,7 @@ Instantly generate RSS autodiscovery code for HTML web pages.
 
 Advanced RSS script dynamically builds RSS item index and web pages. 
 
-[](https://web.archive.org/web/20180625070855id_/http%3A//www.feedforall.com/rss2html-pro.htm)  
+[](https://web.archive.org/web/20181012073540id_/https%3A//www.feedforall.com/rss2html-pro.htm)  
   
 ### **09.26.06** ****  
 **New SQL2RSS Script**
@@ -153,7 +153,7 @@ Creating webpages from RSS feeds just got easier.
 
 A new RSS Scripts Directory contains helpful scripts for managing, manipulating and converting RSS feeds.
 
-[](https://web.archive.org/web/20180625070855id_/http%3A//www.feedforall.com/scripts-directory.htm)  
+[](https://web.archive.org/web/20181012073540id_/https%3A//www.feedforall.com/scripts-directory.htm)  
   
 ### **03.08.06** ****  
 **RSSmesh**
@@ -167,25 +167,25 @@ RSSmesh script merges multiple RSS feeds into a single RSS feed.
 
 The rss2html Cache module can be used by users of the rss2html.php script and will increase the display time of RSS feeds. 
 
-[](https://web.archive.org/web/20180625070855id_/http%3A//www.feedforall.com/rss-cache.htm)  
+[](https://web.archive.org/web/20181012073540id_/https%3A//www.feedforall.com/rss-cache.htm)  
   
 ### **01.03.06** ****  
 **New Namespace Directory**
 
 NotePage, Inc. is pleased to announce the compilation of an RSS extensions directory. RSS is the standard for online information and news syndication. 
 
-[](https://web.archive.org/web/20180625070855id_/http%3A//www.feedforall.com/directory-namespace.htm)  
+[](https://web.archive.org/web/20181012073540id_/https%3A//www.feedforall.com/directory-namespace.htm)  
   
 ### **01.10.05** ****  
 Podcasting Tutorial
 
 Step by step tutorialfor podcasting. Setup podcasts in minutes!
 
-[](https://web.archive.org/web/20180625070855id_/http%3A//www.feedforall.com/podcasting-tutorial.htm)  
+[](https://web.archive.org/web/20181012073540id_/https%3A//www.feedforall.com/podcasting-tutorial.htm)  
   
 ### **12.10.04** ****  
 FREE RSS Button Tool
 
 Create customized RSS buttons that match your website instantly! 
 
-[](https://web.archive.org/web/20180625070855id_/http%3A//www.feedforall.com/public/rss-graphic-tool.htm)
+[](https://web.archive.org/web/20181012073540id_/https%3A//www.feedforall.com/public/rss-graphic-tool.htm)
