@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the napaprolink.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131131121id_/https%3A//www.napaprolink.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napaprolink.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012033125id_/https%3A//napaprolink.com/privacy.aspx) for the most accurate reproduction.*
 
 # NAPA PROLink
 
