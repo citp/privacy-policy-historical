@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badassdigest.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520114053id_/http%3A//birthmoviesdeath.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badassdigest.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012124847id_/https%3A//birthmoviesdeath.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Birth.Movies.Death.
 
