@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibo.org privacy policy that was archived on 2018-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180425182618id_/http%3A//www.ibo.org/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibo.org privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012074518id_/https%3A//www.ibo.org/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # IB privacy policy - International Baccalaureate®
 
@@ -28,11 +28,11 @@ The IB has special concerns about the privacy of all IB students or children who
 
 With respect to children **under the age of 13:** We do not knowingly collect, maintain or use personal data from anyone under the age of 13 through the Services. If you are under the age of 13, you are not allowed to subscribe to any of the Services or to create an account without the permission of your parent, guardian or teacher. Please do not submit any **pe** **rsonal data or information about yourself to us.  **If a child whom we know to be under age 13 sends personal data or information to us online through the Services, we will only use that information to respond directly to that child, notify his or her parents, or seek parental consent.
 
-With respect to **children age 13 or older but under 18:** For these users of certain Services, the IB may also require 1) additional affirmative, opt-in consent of the users and 2) parental consent if the users of those Services are under the age of 18. Parents/guardians may be asked to provide consent by email, text message or any other method permitted under local applicable law for their children to use the Services. . Any personal data we collect from parents giving parental consent will be treated the same as personal data collected from any other user of the IB’s Services and in accordance with this privacy policy.
+With respect to **children age 13 or older but under 18:** For these users of certain Services, the IB may also require 1) additional affirmative, opt-in consent of the users and 2) parental consent if the users of those Services are under the age of 18. Parents/guardians may be asked to provide consent by email, text message or any other method permitted under local applicable law for their children to use the Services. Any personal data we collect from parents giving parental consent will be treated the same as personal data collected from any other user of the IB’s Services and in accordance with this privacy policy.
 
 ###### **Special Considerations for Personal Data Provided by IB Teachers, Coordinators, School Administrators and Other Third Parties**
 
-For some Services, IB coordinators, teachers and school administrators may submit personal data about IB students to the IB’s Services (e.g. registration for IB diploma programme exams on the IBIS Service). For such Services, the IB does not have a direct relationship with the individuals (e.g. students) whose personal data may be processed in connection with providing the Services. In these circumstances, the IB coordinators, teachers, and/or school administrators are responsible for ensuring that any such sharing or transfer of personal data to the IB is done accordance with applicable local law and without violating any privacy or data protection rights of any individuals, including, without limitation, providing appropriate notice to the individuals and obtaining any required consents.  IB acknowledges that personal data and information provided to it by employees or agents of schools for certain Services may be protected under local applicable laws.
+For some Services, IB coordinators, teachers and school administrators may submit personal data about IB students to the IB’s Services (e.g. registration for IB diploma programme exams on the IBIS Service). For such Services, the IB does not have a direct relationship with the individuals (e.g. students) whose personal data may be processed in connection with providing the Services. In these circumstances, the IB coordinators, teachers, and/or school administrators are responsible for ensuring that any such sharing or transfer of personal data to the IB is done accordance with applicable local law and without violating any privacy or data protection rights of any individuals, including, without limitation, providing appropriate notice to the individuals and obtaining any required consents. IB acknowledges that personal data and information provided to it by employees or agents of schools for certain Services may be protected under local applicable laws.
 
 **As a parent** , you should consult your school's policy for more information about the ability of IB coordinators, teachers and school administrators to provide personal data or consent on behalf of parents and students.
 
@@ -66,7 +66,7 @@ Your personal data may be collected, processed and/or stored by the IB for the f
   * To enforce contractual claims against (including those that might arise out of your breach of the terms and conditions);
   * To conduct statistical analysis of the IB websites’ user structure, IB programmes, assessment results and other Services; and
   * To carry out personality assessments as part of the recruitment and interviewing process, some of which may be automated.  
-  * The IB processes your personal data with your consent, where such consent is required by applicable law and you agreed to the use at the time it was collected (or if we subsequently obtain your consent). You may withdraw your consent at any time (for example, for us to send you marketing communications) by contacting the IB at [data@ibo.org](mailto:data@ibo.org). The IB also processes your personal data where this is necessary for the performance of a contract with you or where it is necessary for the IB’s legitimate interests of operating, protecting and improving the Services.
+  * The IB processes your personal data with your consent, where such consent is required by applicable law and you agreed to the use at the time it was collected (or if we subsequently obtain your consent). You may withdraw your consent at any time (for example, for us to send you marketing communications) by contacting the IB at [privacy@ibo.org](mailto:privacy@ibo.org). The IB also processes your personal data where this is necessary for the performance of a contract with you or where it is necessary for the IB’s legitimate interests of operating, protecting and improving the Services.
 
 
 
@@ -108,7 +108,7 @@ The IB uses a web analytics tool, Google Analytics, to monitor and evaluate site
 When using the IB’s websites, you will be shown a cookie banner, which states that by continuing to use the IB websites you agree and consent to use of cookies for these purposes.
 
   
-For information about the different cookies the IB uses and Google Analytics, including how to opt-out, you can [read more here](https://web.archive.org/terms-and-conditions/cookie-disclaimer/). 
+For information about the different cookies the IB uses and Google Analytics, including how to opt-out, you can [read more here](https://web.archive.org/terms-and-conditions/privacy-policy/cookie-disclaimer/). 
 
 ##### VI: RETENTION OF PERSONAL DATA
 
@@ -118,10 +118,14 @@ The IB keeps your personal data for only as long as is necessary for the purpose
 
 **We  ** **reserve  ** **the** **right** **,  ** **at  ** **our  ** **discretion,  ** **to change, modify, add, or remove portions of our Privacy Policy at any time**. Any changes we may make to our Privacy Policy in the future will be posted on this page with an updated revision date. Therefore, you should review this page for updates whenever you access this or any other IB website, and you may be requested to opt in to this Privacy Policy again even if you have visited the page before.
 
-###### Questions or Comments Regarding the Privacy Policy and how to edit, delete or access your personal data
+###### Your rights, questions or comments regarding the Privacy Policy, and how to edit, delete or access your personal data
 
-If you have any questions or comments about this Privacy Policy please contact the Data Protection Officer on [data@ibo.org](mailto:data@ibo.org). You may have the right to ask for access to any personal data that we hold about you in our records. Please email the same address to find out what personal data the IB holds about you (or your child or your students). In order to respond to a request for a copy of the personal data we keep about you, depending on the laws of your country, we may require details by which the IB can identify you. The IB will assist you with your request, including any request to edit, delete or restrict the use of your personal data and information, in accordance with applicable law. Personal data provided by email may not be secure, and by requesting a copy of your (or your child's) personal data, you assume the risks associated with the email transmission of your request.  We provide copies of personal data in response to your request in a secure manner.
+We reserve the right, at our discrection, to change, modify, add, or remove portions of our Privacy Policy at any time. Any changes we make to our Privacy Policy in the future will be posted on this page with an updated revision date. Therefore, you should review this page for updates whenever you access this or any other IB website, and you may be requested to opt in to this Privacy Policy again even if you have visited the page before.
 
-You may have the right to object to the processing of your personal data. You may also have the right to complain to a European Data Protection Authority if you think we have processed your personal data in a manner which is unlawful or breaches your rights.
+You may have the right to ask for access to any personal data that we hold about you (or your child) in our records. You may also have the right to object to the processing of your personal data. The IB will assist you with your request, including any request to edit, delete or restrict the use of your personal data and information, in accordance with the applicable law. Please [click here](https://app-de.onetrust.com/app/#/webform/4fd8ae40-3a9f-47e0-9b5d-c8200aad0a5f "click here") to submit your request about the personal data the IB holds about you (or your child). In order to respond to your request, we may require details by which the IB can identify you. We use a secure portal for these requests.
 
-###### 4 September 2017 
+You may also have the right to complain to a European Data Protection Authority if you think we have processed your personal data in a manner which is unlawful or breaches your rights.
+
+If you have any questions or comments about this Privacy Policy please contact the Data Protection Officer on [privacy@ibo.org](mailto:privacy@ibo.org).
+
+###### May 2018
