@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ticketleap.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128062044id_/https%3A//www.ticketleap.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketleap.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012065008id_/https%3A//www.ticketleap.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ticketleap
 
-Last Updated: September 10, 2012
+Last Updated: May 30, 2018
 
 Welcome to the Ticketleap.com website, which is owned and operated by Ticketleap, Inc. ("Ticketleap," "We," "Us," or "Our"). We have created this Privacy Policy for the benefit of the users ("You" or "Your") of Our Ticketleap.com website (the "Site"), to demonstrate our serious commitment to protecting Your privacy. Our users include potential patrons of events listed on the Site as well as "Event Affiliates," by which We mean the event venue and the promoter or organizer of an event, as well as their authorized third-party service providers. The following information summarizes how Ticketleap collects, uses and discloses information on and through the Site, as well as any other information You provide to us over the Internet or through our mobile applications. This Privacy Policy also applies to any offline contact that You have with Us or Our office, such as over the telephone, but does NOT apply to information collected from our employees and contractors. Finally, this Privacy Policy applies to information about third-party individuals collected by Us from Our Site users. 
 
@@ -92,6 +92,24 @@ We may provide areas on Our Site where You can post information about Yourself, 
 
 This Site is operated and hosted in the United States. If You are visiting the Site from outside the United States, please be aware that Your information may be transferred to, stored, and processed in the United States where Our servers are located and Our central database is operated. The data protection and privacy laws of the United States may not be as comprehensive as those in Your country. By using the Site and the services available on the Site, which are provided exclusively from the United States, You hereby consent to the transfer of Your information to the United States and its collection, storage, sharing and use as described in this Privacy Policy.You further agree that all transactions relating to the Site and Our Services shall be deemed to have occurred in the United States.
 
+## What Choices Do I Have About My Information?
+
+As a user of Ticketleap, you have some choices related to the use of your information. Any requests related to your information should be directed to [privacy@ticketleap.com](mailto:privacy@ticketleap.com).
+
+  * You have the ability to opt-out of receiving marketing communication. You may do so at any time by submitting a request to [privacy@ticketleap.com](mailto:privacy@ticketleap.com).
+  * You have the ability to see the data you have provided to Ticketleap. You can do so at any time by [logging into your account](https://www.ticketleap.com/login/).
+
+
+
+Individuals within the European Union or European Economic Area are entitled to additional choices as a result of the data privacy law known as the EU General Data Protection Regulation, more commonly referred to as "GDPR". The following are those additional choices.
+
+  * Access and Export: As stated above, you have access to view your data at any time by [logging into your account](https://www.ticketleap.com/login/). You may also request a machine readable format export of your data by contacting [privacy@ticketleap.com](mailto:privacy@ticketleap.com).
+  * Limit Use: You can request that we limit the use of your data by contacting [privacy@ticketleap.com](mailto:privacy@ticketleap.com).
+  * Rectification: If you find inaccuracies in your information, you have the ability to request that those inaccuracies be corrected by submitting a request to [privacy@ticketleap.com](mailto:privacy@ticketleap.com).
+  * Removal: You can request that your data be removed from the Ticketleap system by contacting [privacy@ticketleap.com](mailto:privacy@ticketleap.com). For legal, accounting, and safety reasons, some data may not be able to be immediately removed or anonymized. For example, to comply with anti-money laundering laws, we may be required to maintain personal information tied to financial transactions. Such data may only be able to be removed after a minimum required data retention period.
+
+
+
 ## Our Security Precautions
 
 Ticketleap uses reputable third-party data centers and similar service providers to store much of Your personally identifiable information in order to boost security and protection. We and these service providers attempt to protect Your personally identifiable information by utilizing reasonable security measures to prevent loss, misuse, alteration, unintentional destruction or unauthorized access. We use secure server software (SSL) for Your Site transactions. We encrypt all of Your personally identifiable information as it travels over the Internet. 
@@ -106,7 +124,7 @@ When you use Our Site, we make good faith efforts to provide You with access to 
 
 ## Your California Privacy Rights
 
-A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes ("California Customer") is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties' direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California Customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed. California Customers may request this information from Ticketleap by e-mailing Us at [legal@ticketleap.com](mailto:legal@ticketleap.com) or by mailing a request to the attention of Privacy Officer, Ticketleap, Inc., 2401 Walnut Street, Suite 602, Philadelphia, PA 19103. Please note that We are only required to respond to one request per customer each year, and We are not required to respond to requests made by means other than through this e-mail address or mailing address. Please also be aware that not all information sharing is covered by the California requirements and only information on covered sharing will be included in our response.
+A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes ("California Customer") is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties' direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California Customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed. California Customers may request this information from Ticketleap by e-mailing Us at [legal@ticketleap.com](mailto:legal@ticketleap.com) or by mailing a request to the attention of Privacy Officer, Ticketleap, Inc., 650 Smithfield St STE 1300, Pittsburgh PA 15222. Please note that We are only required to respond to one request per customer each year, and We are not required to respond to requests made by means other than through this e-mail address or mailing address. Please also be aware that not all information sharing is covered by the California requirements and only information on covered sharing will be included in our response.
 
 ## Children's Privacy
 
@@ -118,4 +136,4 @@ The Site may contain links to websites owned and operated by third parties. Tick
 
 ## Contact Information
 
-If You have any questions or concerns about Our Privacy Policy or the privacy practices of the Site, You can contact Us at [legal@ticketleap.com](mailto:legal@ticketleap.com). You can also send mail to Us at: Privacy Officer, Ticketleap, Inc., 2401 Walnut Street, Suite 602, Philadelphia, PA 19103.
+If You have any questions or concerns about Our Privacy Policy or the privacy practices of the Site, You can contact Us at [legal@ticketleap.com](mailto:legal@ticketleap.com). You can also send mail to Us at: Privacy Officer, Ticketleap, Inc., 650 Smithfield St STE 1300, Pittsburgh PA 15222.
