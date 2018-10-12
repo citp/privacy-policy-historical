@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insidify.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607002356id_/http%3A//insidify.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidify.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012062643id_/http%3A//insidify.com/policy) for the most accurate reproduction.*
 
-# Latest and verified 2017 Jobs from everywhere | Today's Job and Career advice | Career and HR Tech |
+# Latest and verified 2018 Jobs from everywhere | Today's Job and Career advice | Career and HR Tech |
 
 ## Privacy Policy
 
