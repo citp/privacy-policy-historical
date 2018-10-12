@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the noodles.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605054645id_/https%3A//www.noodles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noodles.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012230126id_/https%3A//www.noodles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ~ Noodles World Kitchen
 
 ### Noodles & Company Privacy Policy
 
-**Last Updated on October 12, 2016.**
+ **Last Updated on October 12, 2016.**
 
 At Noodles & Company (“Noodles”, “we”, or “us”), we understand your privacy is important to you and we want to let you know the kinds of information we may gather, why we gather your information, what we use your information for, when we might disclose your information, and how you can manage your information. This Privacy Policy is applicable to Noodles’ website located at [www.noodles.com](https://www.noodles.com/), applications and online services that link to this Privacy Policy (collectively, the “Site”).This Privacy Policy does not apply to information that you may submit to us offline, or to third-party websites and mobile applications that may be linked to or from the Site. We are not responsible for the actions and privacy policies of these third-party websites and applications.
 
-**By using our Site, you accept the practices described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site. We may modify the terms of this Privacy Policy from time to time without notice. Your continued use of our Sites following the posting of changes will mean you accept those changes.**
+ **By using our Site, you accept the practices described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site. We may modify the terms of this Privacy Policy from time to time without notice. Your continued use of our Sites following the posting of changes will mean you accept those changes.**
 
 ### Information We Collect
 
