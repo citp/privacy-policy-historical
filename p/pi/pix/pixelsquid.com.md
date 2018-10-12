@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixelsquid.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606213518id_/https%3A//support.pixelsquid.com/hc/en-us/articles/203472275-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelsquid.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012175128id_/https%3A//support.pixelsquid.com/hc/en-us/articles/203472275-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – PixelSquid Support
 
