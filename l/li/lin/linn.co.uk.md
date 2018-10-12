@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linn.co.uk privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622161434id_/https%3A//www.linn.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linn.co.uk privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012113226id_/https%3A//www.linn.co.uk/privacy) for the most accurate reproduction.*
 
 # Linn — Privacy Policy
 
@@ -8,7 +8,7 @@ Last updated 7th June 2018
 
 At Linn we are committed to keeping your data safe, and handling it in accordance with our legal obligations.
 
-This Privacy Policy, together with our [Terms & Conditions of Sale](https://web.archive.org/terms-and-conditions) and [Legal Notice](https://web.archive.org/web/20180622161434id_/https%3A//www.linn.co.uk/legal-notice), sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
+This Privacy Policy, together with our [Terms & Conditions of Sale](https://web.archive.org/terms-and-conditions) and [Legal Notice](https://web.archive.org/web/20181012113226id_/https%3A//www.linn.co.uk/legal-notice), sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
 ### Key terms
 
