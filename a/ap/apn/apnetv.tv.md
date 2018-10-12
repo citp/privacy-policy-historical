@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the apnetv.tv privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617033726id_/http%3A//apnetv.tv/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnetv.tv privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012090559id_/http%3A//apnetv.tv/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy of Apne TV
 
-We are committed to ensure that privacy of a user is never compromised at Apne.tv. We take your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy enlightens you with the personally-identifiable information (referred to as "data" below) that may be collected by this site, please read carefully and also free to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) for any additional questions.. This policy does not apply to other entities that are not owned or controlled by the site's owner, nor does it apply to persons that are not employees or agents of this website.
+We are committed to ensure that privacy of a user is never compromised at Apne.tv. We take your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy enlightens you with the personally-identifiable information (referred to as "data" below) that may be collected by this site, please read carefully and also free to contact us at contact@apne.tv for any additional questions.. This policy does not apply to other entities that are not owned or controlled by the site's owner, nor does it apply to persons that are not employees or agents of this website.
 
 ### Data Collection
 
@@ -26,4 +26,4 @@ The Privacy policy of this website would be regulated on constant basis in-order
 
 ### Contact Info
 
-Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) for any questions and we do not take any responsibilty for any factors that are not in-control of the site's owner that would result in breach of privacy. 
+Please contact us at contact@apne.tv for any questions and we do not take any responsibilty for any factors that are not in-control of the site's owner that would result in breach of privacy. 
