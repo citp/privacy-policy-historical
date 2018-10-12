@@ -1,40 +1,88 @@
-> *The following text is extracted and transformed from the virtusa.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507113857id_/http%3A//www.virtusa.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtusa.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012132525id_/https%3A//www.virtusa.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement – Virtusa
+# Privacy Statement - Virtusa
 
-**Privacy Statement for  **[ **www.virtusa.com**](http://www.virtusa.com/)
+## Website Privacy Policy
 
-We have created this privacy statement in order to demonstrate our firm’s commitment to privacy and to ensure our users that we use all reasonable efforts to help protect their sensitive and private information from unauthorized disclosure, misuse, alteration and destruction. The following discloses our information gathering and dissemination practices for [www.virtusa.com](http://www.virtusa.com/)
+We at Virtusa Corporation, including its subsidiaries and affiliates (collectively referred to as “Virtusa” or “our” or “we”), are strongly committed to respect your privacy. This Privacy Policy describes our privacy practices regarding personal data collected through our website.
 
-We use your IP address to help diagnose problems with our server and/or to administer our Web site. This gives us an idea of which parts of our site users are visiting. We do not link IP addresses to anything personally identifiable. This means that a user’s session will be tracked, but the user will be anonymous.
+Any questions regarding our Privacy Practices should be directed to the Data Privacy Officer (details provided in the Contacts section below).
 
-When requesting more information, our site’s registration form requires you to give us contact information like your name and email address. We use this contact information from the registration form to send you information about our company. This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites.
+### Personal data collection and use
 
-Virtusa Corporation is the sole owner of the information collected on [www.virtusa.com](http://www.virtusa.com/) We collect personally identifiable information from our users at several different points on our Web site.
-
-**Security**
-
-We use reasonable efforts to treat all consumer information, not just the sensitive and private information mentioned above, in a confidential manner. Only employees who need the information as part of their day to day responsibilities are granted access to personally identifiable information. This site has security measures in place designed to protect the loss, misuse, and/or alteration of information under our control. The data resides behind a firewall, with access restricted to authorized Virtusa personnel.
-
-**Notification of Changes**
-
-This Privacy Policy is effective as of March 3, 2016 . Please check our Privacy Policy periodically as we reserve the right to change this policy at any time. Changes to this Privacy Policy will be posted to this Site. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users by e-mail or by posting a prominent notice on our Site 30 days prior to implementing the change.
-
-**Miscellaneous**
-
-Though we make every reasonable commercial effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
-
-This policy and the statements outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
-
-**Trademarks and Service marks**
-
-  * “Virtusa” is a registered trademark of Virtusa Corporation in the United States, European Community and in India.
-  * “Productization” is a registered service mark in the United States.
-  * “BPM Test Drive” is a registered service mark in the United States.
-  * “ACCELERATING BUSINESS OUTCOMES” is a registered service mark in the United States.
+  1. **Personal data collected automatically  
+**Our website collects certain information automatically and stores it as logs. The information collected by us is as follows: 
+    * Internet protocol (IP) addresses, the region or general location where your computer or device is accessing the internet, device type used to access the website, browser type, operating system and other information about the usage of Virtusa’s website, including a history of the pages you view. This is typically done to recognize your device, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics to enable us in providing better user experience to you in your future visits to this website.
+    * Virtusa’s website also uses cookies and web beacons. Virtusa has enabled personalized advertisements based on your interests, using information made available when you interact with our website. Personalized or targeted ads are displayed based on your activities on Virtusa and Third-party websites which includes, but is not limited to visiting the website and interacting with content provided in the website. Cookies are used to enable us to learn what actions you perform in the website. These ads are displayed on external websites unaffiliated to Virtusa. To know more about our use of cookies, please see our [Cookies Privacy Policy](https://web.archive.org/cookie-policy/).
+  2. **Personal data collected from you**  
+We directly collect from you, the personal data in following ways: 
+    * By entering information to Contact Us, we collect your name, email address, country of residence, phone number, job title, company you represent and details of the inquiry to enable us to respond to a general/business inquiry made by you on behalf of your company.
+    * You provide us information during registrations. In order to send you our newsletters, other news alerts that you may have subscribed to and webinars, we ask for your name, phone number, designation, email address and company you represent. Please note that we may also be collecting any information that you may have mentioned in any communication/email that you send to us after registering with us.
+    * You provide us your email address when subscribing to and using the [Email Preference Center](http://ww2.virtusa.com/emailPreference/e/15882/211). The preference center keeps track of your communication preferences (over email) and areas of interest (such as receiving newsletters and/or webinar mailers) that you may have either opted into or opted out of.
+    * By entering information on registration with Virtusa Careers, we obtain your name and email id to contact you as an Employment candidate, and consider you for job opportunities within Virtusa.
 
 
 
-Contacting the Web Site
+We process the received information only to pursue our legitimate business interests, respond to your queries, establish communication with prospective clients (whom you represent) and to enhance user experience.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at the Contact Us page at [www.Virtusa.com](http://www.virtusa.com/)
+You also have the option to subscribe/opt-in to receive newsletters, new alerts and marketing content. You can always opt-out of such options using our blog or click the “unsubscribe” link at the bottom of an email newsletter. Virtusa shall adhere to your preferences.
+
+### Security
+
+Virtusa has implemented adequate technical and organizational safeguards, in line with industry standards to ensure the security of personal data, including the prevention of their alteration, loss, damage, unauthorized processing or access, having regard to the state of the art, the nature of the data, and the risks to which they are exposed by virtue of human action or the physical or natural environment.
+
+The key security measures to keep your personal data secure and confidential, including and not limited to:
+
+  * Limiting access to your personal data to Virtusa employees strictly on a need to know basis, such as to respond to your inquiry or request.
+  * Virtusa employees who misuse personal data are subject to strict disciplinary action.
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when you are done using a shared computer.
+
+
+
+### Transfers of personal data
+
+We are part of an international group of companies and, as such, transfer personal data concerning you to countries outside the EU. Please [click here](https://web.archive.org/our-offices) to see list of our companies within our corporate group.
+
+We transfer personal data between our subsidiaries and affiliated entities and delivery centers for the purposes explained above.
+
+Your personal data is stored in databases, and on the servers of the cloud-based database management services that Virtusa engages, located within and outside EU.
+
+Where we transfer personal data outside of the EU, we either transfer personal data to countries that provide an adequate level of protection (as determined by the European Commission) or we have appropriate safeguards in place. Appropriate safeguards to cover these transfers are in the form of standard contractual/data protection clauses adopted by the European Commission.
+
+Virtusa does not provide any personal information to advertisers that display the personalized ads. Advertisers may provide us information about you (such as the sites where you have been shown ads) that we may use to provide you more relevant and useful advertising. Advertisers use technology to serve the ads that appear on our sites directly to your browser. They may use cookies to measure the effectiveness of their ads and to personalize ad content.
+
+### Personal data Retention
+
+We will only keep your personal data for as long as is reasonably necessary taking into consideration our need to answer queries or resolve problems, any other purpose outlined above or to comply with legal requirements under applicable law(s). This means that we may retain your personal data for a reasonable period after, for example, the end of the contract with the client you represent, or after your query has been addressed. After this period, your personal data will be deleted from all Virtusa systems.
+
+We remind you that you have a right to request to have your personal data deleted at any time. You may always choose to opt-out by writing to us at [dpooffice@virtusa.com](mailto:dpooffice@virtusa.com).
+
+### Your rights
+
+You have a right to:
+
+  * Request access to your personal data and request details of the processing activities conducted by Virtusa.
+  * Request that your personal data is rectified if it is inaccurate or incomplete
+  * Request erasure of your personal data in certain circumstances.
+  * Request restriction of the processing of your personal data by Virtusa in certain circumstances.
+  * Object to the processing of your personal data in certain circumstances.
+  * Receive your personal data in a structured, commonly used and machine-readable format in certain circumstances.
+  * Lodge a complaint with the relevant supervisory authority.
+  * Object to, and not to be subject to a decision based solely on, automated processing (including profiling), which produces legal effects or significantly affects you.
+  * Withdraw any consent you may have provided to us at any time by contacting us.
+
+
+
+To exercise the rights outlined above in respect of your personal data you may also our Data Protection officer [dpooffice@virtusa.com](mailto:dpooffice@virtusa.com)
+
+### External website links
+
+This site contains links that may lead you to other sites. Be careful when accessing these links, as Virtusa is not responsible for the privacy practices or the content of such other Websites.
+
+### Changes to our privacy policy
+
+This privacy policy was last updated 23 May 2018 and we will notify you of changes we may make to this privacy policy, where required however we would recommend that you look back at this policy from time to time to check for any updates.
+
+### Our Contact details
+
+Virtusa is the controller of data for the purposes of GDPR. If you have any concerns as to how your data is processed you can contact our Data Protection officer [dpooffice@virtusa.com](mailto:dpooffice@virtusa.com)
