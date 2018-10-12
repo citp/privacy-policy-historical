@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icdlarabia.org privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611121837id_/http%3A//icdlarabia.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icdlarabia.org privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012090711id_/http%3A//icdlarabia.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ICDL Arabia
 
