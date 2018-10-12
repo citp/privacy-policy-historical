@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bop.gov privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712072329id_/https%3A//www.bop.gov/website/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bop.gov privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013010236id_/https%3A//www.bop.gov/website/privacy_policy.jsp) for the most accurate reproduction.*
 
 # BOP: Privacy Policy
 
