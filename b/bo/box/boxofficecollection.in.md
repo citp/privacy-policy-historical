@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boxofficecollection.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606072404id_/http%3A//boxofficecollection.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxofficecollection.in privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012085039id_/http%3A//boxofficecollection.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy- Box Office Collection India (BOC India) | Box Office Collection India - Movie Business Report, Review, Entertainment News & more
+# Privacy Policy- Box Office Collection India (BOC India) | Box Office Collection - Movie Business Reports & Reviews | Entertainment News
 
 www.boxofficecollection.in has published this privacy policy in order to declare our website commitment to privacy. The following discloses the information gathering and dissemination practices for this website.
 
