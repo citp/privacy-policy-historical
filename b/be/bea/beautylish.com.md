@@ -1,12 +1,24 @@
-> *The following text is extracted and transformed from the beautylish.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119153844id_/https%3A//www.beautylish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautylish.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012065747id_/https%3A//www.beautylish.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Beautylish
 
-We know that you care about your personal information. This Privacy Statement ("Statement") describes the personal information we collect through our websites, mobile applications and services (collectively, the **"Services"** ), and how we collect and use it. The terms **"we"** , **"us"** , and **"Beautylish"** refer to Beautylish Inc.. This Privacy Policy is part of the Terms of Use, which governs your use of the Services and is located [here](https://web.archive.org/tos).
+We know that you care about your personal information. This Privacy Statement ("Statement") describes the personal information we collect through our websites, mobile applications and services (collectively, the **"Services"** ), and how we collect and use it. The terms **"we"** , **"us"** , and **"Beautylish"** refer to Beautylish Inc., which operates the Services. This Privacy Policy is part of the Terms of Use, which governs your use of the Services and is located [here](https://web.archive.org/tos).
 
 * #### Information We Collect and How We Use it
 
-**Account information.** We ask for and store information about you when you create an account on the Services, such as your name and email address. You can also import your account information from a third party to make the Beautylish registration process easier. We use your name to create your account name (first name and last initial). We use your email address to send you updates, provide services to you in connection with the Services, and to contact you on behalf of other users sending you messages, user follows, and the like. We may also use your signup location, birth date, and gender (if you supply them) to display relevant advertising to you. You can change your account information [here](https://web.archive.org/account/settings) or by accessing the User Account section of our Services.
+**Personal Data.** While using our Services, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to: 
+
+  * Email address
+  * First and last name
+  * Phone number
+  * Address, State, Province, ZIP/Postal code, City, Country
+  * Cookies and Usage Data
+
+
+
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided on any email we send or by contacting us. 
+
+**Account information.** We ask for and store information about you when you create an account on the Services, such as your name and email address. You can also import your account information from a third party to make the Beautylish registration process easier. We use your name to create your account name (first name and last initial). We use your email address to send you updates, provide services to you in connection with the Services, and to contact you on behalf of other users sending you messages, user follows, and the like. We may also use your signup location, birth date, and gender (if you supply them) to display relevant advertising to you. You can change your account information [here](https://web.archive.org/account/settings) or by accessing the User Account section of our Services. 
 
 **Public content.** You can contribute to the Services in a number of different ways, including writing reviews, uploading videos and photos, participating in talk threads, tagging products, filling out your public profile, and voting on other users' contributions. We may store these contributions (your **"Public Content"** ), display them to other users, and use them for promotional purposes. Note that if you include personally identifiable information in your Public Content, it can be used and viewed by others. We are not responsible for the information you choose to include in your Public Content.
 
@@ -16,7 +28,9 @@ We know that you care about your personal information. This Privacy Statement ("
 
 **Third party services.** We allow you to access third party services, such as Facebook and Twitter, to share your selected Public Content with those services, and import information about who you are connected with on those other services so you can connect with them on the Services. You can always opt out on your Beautylish account page. Some of those third party services may also provide us with information from your accounts there to enhance and personalize your use of this Services. For example, you can allow Facebook to tell us who your Facebook friends are so you can follow their activity on Beautylish.  You can also further modify your privacy settings with those other services directly. For example, you can adjust your privacy setting on Facebook here to prevent your Facebook friends from sharing information about you from their Facebook accounts with Beautylish.
 
-**Activity and log data.** We automatically store information related to your use of the Services, such as the pages you view on the Services, your browser type, IP address, requested URL, browser language, referring URL, and the date and time of your visits. We use this type of information to administer the Services and provide the better service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the Services or to manage or improve the Services.
+**Usage Data.** We may also collect information how the Services are accessed and used. “Usage Data” is data collected automatically either generated by the user of the Services or from the Service infrastructure itself. This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Services that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data. 
+
+We use this type of information to administer the Services and provide better service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the Services or to manage or improve the Services. 
 
 **Cookies.** We send cookies to your computer in order to uniquely identify your browser and improve the quality of our service. "Cookies" refer to small pieces of information that a websites sends to your computer's hard drive while you are viewing the Services. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). Persistent cookies can be removed by following your browser help file directions. If you choose to disable cookies, some areas of the Services may not work properly or at all. Our cookies are linked to your information, such as your name, email address and password. We enable some of our business partners to use cookies in conjunction with your use of the Services. We have no access to or control over the use of these cookies. These cookies collect information about your use of the Services, such as where you came from, which pages you visited within the Services, and possibly other sites you visit if those sites cooperate with the same third party, but do not collect your name, email address, contact information or other personally identifiable information that by itself would allow the third party to identify or contact you.
 
@@ -25,6 +39,20 @@ We know that you care about your personal information. This Privacy Statement ("
 **Administration.** We may use the information described above for routine administrative purposes, such as investigating abuses on the Services, responding to user inquiries and enforcing and applying our Terms of Service and Statement.
 
 **Data storage.** We store data in the United States.
+
+* #### Use of Data
+
+We use the collected data for various purposes, including: 
+
+  * To provide and maintain our Services
+  * To notify you about changes to our Services
+  * To allow you to participate in interactive features of our Services when you choose to do so
+  * To provide customer support
+  * To gather analysis or valuable information so that we can improve our Services
+  * To monitor the usage of our Services
+  * To detect, prevent and address technical issues
+  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you already purchased or enquired about unless you have opted not to receive such information
+
 
 * #### Transfer of Information
 
@@ -44,17 +72,148 @@ We know that you care about your personal information. This Privacy Statement ("
 
 We provide a number of tools to manage the use of your information on the Services.  You may receive weekly newsletter communications from us. However, despite any requests to close your account or your indicated email preferences, we may still need to contact you as required by law or on legal matters, for example to inform you of any updates to our Terms of Service or this Statement.
 
-* #### Links
+* #### Retention of Data
+
+We will retain your Personal Data only for as long as it is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+We will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Services, or we are legally obligated to retain this data for longer time periods.
+
+* #### Legal Basis for Processing Personal Data under General Data Protection Regulation (GDPR)
+
+If you are from the European Economic Area (EEA), Beautylish legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+
+We may process your Personal Data because: 
+
+  * We need to perform a contract with you
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it’s not overridden by your rights
+  * For payment processing purposes
+  * To comply with the law
+
+
+* #### Disclosure of Data
+
+**Business Transaction**
+
+If Beautylish is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy. 
+
+**Disclosure for Law Enforcement**
+
+Under certain circumstances, we may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency). 
+
+**Legal Requirements**
+
+We may disclose your Personal Data in the good faith belief that such action is necessary to: 
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Beautylish
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+**Service Providers**
+
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used. 
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. 
+
+**Analytics**
+
+We may use third-party Service Providers to monitor and analyze the use of our Service. 
+
+  * _Google Analytics_. Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. 
+
+Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network. 
+
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity. 
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>. 
+
+
+**Behavioral Remarketing**
+
+Beautylish, Inc. uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service. 
+
+  * _Google AdWords_. Google AdWords remarketing service is provided by Google Inc. 
+
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>. 
+
+Google also recommends installing the Google Analytics Opt-out Browser Add-on - <https://tools.google.com/dlpage/gaoptout> \- for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics. 
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>. 
+
+  * _Facebook_. Facebook remarketing service is provided by Facebook Inc. 
+
+You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950>. 
+
+To opt-out from Facebook's interest-based ads follow these instructions from Facebook: <https://www.facebook.com/help/568137493302217>. 
+
+Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings. 
+
+For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: <https://www.facebook.com/privacy/explanation>. 
+
+  * _AdRoll_. AdRoll remarketing service is provided by Semantic Sugar, Inc. 
+
+You can opt-out of AdRoll remarketing by visiting this AdRoll Advertising Preferences web page: [http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false). 
+
+For more information on the privacy practices of AdRoll, please visit the AdRoll Privacy Policy web page: <http://www.adroll.com/about/privacy>. 
+
+
+**Payments**
+
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors). 
+
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information. 
+
+The payment processors we work with are: 
+
+  * _PayPal or Braintree_. Their Privacy Policy can be viewed at <https://www.paypal.com/webapps/mpp/ua/privacy-full>. 
+
+  * _Reach_. Their Privacy Policy can be viewed at <https://withreach.com/privacy-policy.html>. 
+
+
+
+* #### Links to Other Sites
 
 The Services may contain links to third party websites with which we have no affiliation. Except as set forth herein, we do not share your personal information with those third parties, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites.
 
 * #### Our Policy Towards Children
 
-The Services is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at [privacy@beautylish.com](mailto:privacy@beautylish.com). If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
+The Services is intended for general audiences and is not directed to children under 16. We do not knowingly collect personal information from children under 16. If you become aware that your child has provided us with personal information without your consent, please contact us at [privacy@beautylish.com](mailto:privacy@beautylish.com). If we become aware that a child under 16 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account. 
 
 * #### Security
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+* #### "Do Not Track" Signals
+
+We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+* #### Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Beautylish aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+**The right to access, update or to delete the information we have on you.** Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+
+**The right of rectification.** You have the right to have your information rectified if that information is inaccurate or incomplete.
+
+**The right to object.** You have the right to object to our processing of your Personal Data.
+
+**The right of restriction.** You have the right to request that we restrict the processing of your personal information.
+
+**The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+
+**The right to withdraw consent.** You also have the right to withdraw your consent at any time where Beautylish relied on your consent to process your personal information.
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
 
 * #### Dispute Resolution
 
@@ -72,3 +231,16 @@ or contact us via email at [privacy@beautylish.com](mailto:privacy@beautylish.co
 * #### Modifications to This Statement
 
 We may revise this Statement from time to time. The most current version of the Statement will govern our use of your information and will always be located here. If we make a change to this Statement that, in our sole discretion, is material, we will notify you either by prominently posting a notice of such changes prior to implementing the change on the Services and/or via the email associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Statement.
+
+* #### Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+Beautylish Inc.  
+Attn: Privacy Officer  
+548 Market St #21334  
+San Francisco, CA 94104-5401  
+United States of America  
+
+
+or contact us via email at [privacy@beautylish.com](mailto:privacy@beautylish.com)
