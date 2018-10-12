@@ -1,95 +1,214 @@
-> *The following text is extracted and transformed from the theecoexperts.co.uk privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013195908id_/http%3A//www2.mvfglobal.com/privacy-policy/c203b/d15d7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theecoexperts.co.uk privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012150057id_/http%3A//www2.mvfglobal.com/privacy-policy/c203b/d15d7) for the most accurate reproduction.*
 
 # The Eco Experts
 
-The Eco Experts ("We", "our" and/or "us") are committed to protecting and respecting your privacy. We treat with the utmost care the personal information you may supply to us on http://www.mvfglobal.com.
+**You have certain rights in relation to your data, including the right to object to processing based on legitimate interests, profiling (including the use of custom and lookalike/similar audiences), and direct marketing. At any time, you can exercise your rights by emailing us at[dataprotection@mvfglobal.com](mailto:dataprotection@mvfglobal.com). For further details about our processing and your rights, please see below.**
 
-This policy (together with our [terms of use](http://www2.mvfglobal.com/terms_of_use_en_b2c_0814/258de/d15d7) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+## CONTENTS
 
-For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is MVF Global Ltd which is a trading name of ours with our registered address being Ryland House, 24a Ryland Road, London, NW5 3EH, UK. We are a company registered in England and Wales under company number 06951544. Marketing VF Ltd is registered under the Act, ref PZ1995728.
+* About our site
+* How our site works
+* About us
+* What we don’t do with your data
+* What data we collect, and how
+* How we use your data
+* Cookies
+* Transferring your data
+* Storing your data
+* Legal grounds
+* Your rights 
+* Contacting us
+* Changes to this notice
 
-### INFORMATION WE MAY COLLECT FROM YOU
+### ABOUT OUR SITE
 
-We may collect and process the following data about you:
+Our site enables people to find and participate in online surveys and other earning opportunities.
 
-  * Information that you provide by filling in forms on our site http://www.mvfglobal.com ( **our site** ). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site.
-  * If you contact us, we may keep a record of that correspondence.
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. 
+The service that our site provides is to connect people with providers of online surveys (e.g. market research companies) and other earning opportunities( **“Service Providers”** ).
 
+### HOW OUR SITE WORKS
 
+If you’d like to participate in online surveys and other earning opportunities ( **“Offers”** ), please complete and submit our sign-up process (webform). You will be asked to select (by ticking boxes) the specific Offers that you would like to participate in.
 
-#### IP ADDRESSES
+Once you have completed the webform, you will receive a confirmation email for each Offer that you expressly selected. The email will come from us, or from the Service Provider that you expressly selected, and it will ask you to confirm your choice by clicking on a link. If you still wish to participate in the Offer, then simply click on the link, which will take you through to the Service Provider’s website.
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+You will also receive a general welcome email from us.
 
-#### COOKIES
+As our service is all about finding and telling people about Offers, we will also email you about other, similar Offers from time to time, unless you opt out of receiving such emails. At any time, you can unsubscribe from such emails by clicking on the unsubscribe link in an email.
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie Policy](http://www2.mvfglobal.com/privacy__cookies_policy_en_b2c_0814/be37f/d15d7)
+We don’t work with any Service Providers until we have a legal contract in place. This is to ensure that they keep your data secure and confidential.
 
-We use interest-based advertising tools provided by Google - these include but are not limited to 'remarketing', 'interest categories', 'similar audiences' and other types of interest-based advertising. To determine your interests, Google will track your behaviour across the web using cookies. We may remarket your information. Remarketing is a way for us to connect with users, based upon your past interactions with the Marketing VF Limited website. Third-party marketing vendors may be hired by Marketing VF Limited to perform remarketing services. As a result, third-party vendors, including Google, may show Marketing VF Limited ads on sites on the internet. Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to Marketing VF Limited’s website.
+### ABOUT US
 
-To opt out of customized Google Display Network ads click [here](https://www.google.com/settings/u/0/ads?hl=en&hl=en&hl=en&sig=ACi0TCjTHv3OaB4S8hINeTAfjctkUvYN2B5sDrcqQ_TIU8L0MBqxnQAr20ZYP5ZPJ54Wg0fWXoy5GAKagHxjOCGFZw1-wLorykJbqxcUH9tiJxZ_MmI6jmlMaORAJPGAbHwVsXGJsWbA9BZxTrj4WrFycSFajwgmgoKK5c52sOewGhjd6E1kbnrkXuoDT0lT-7DONrlIaipv). To find out more about how Google uses any data it collects please visit [http://www.google.com/privacy_ads.html.](http://www.google.com/privacy_ads.html)
+The Eco Experts is a brand of Marketing VF Limited ( **“MVF”, “we”, “us”, “our”** ) is a company registered in England and Wales (company number: 06951544), whose registered office address is at Imperial Works, Perren Street, London NW5 3ED, United Kingdom.
 
-You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: <http://www.google.com/ads/preferences/>
+For the purposes of the General Data Protection Regulation (the **“GDPR”** ), Marketing VF Limited is the controller in relation to your data. We are registered as a controller with the UK Information Commissioner’s Office (ICO) under registration number Z1995728. You can confirm our registration here: [www.ico.org.uk](https://ico.org.uk/)
 
-Any information collected is used only for remarketing purposes and will not be used by them for any other purpose.
+### WHAT WE DON’T DO WITH YOUR DATA
 
-#### WHERE WE STORE YOUR PERSONAL DATA
+Before confirming what data we collect, and why, here’s what we definitely _don’t do_ with your data, unless clearly set out in this notice: 
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed outside the EEA by us or by one of our suppliers for the purposes of, but not limited to, sorting and collating information before it is passed to our clients. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+* We don’t share it with anyone else.
+* We don’t use it for any purpose (including retargeting, commingling across multiple advertisers’ campaigns or allowing piggybacking or redirecting with tags), except on an aggregate and anonymous basis, and only to assess the performance and effectiveness of our advertising campaigns.
+* We don't use it to build, append to, edit, influence or augment user profiles, including profiles associated with any mobile device identifier or other unique identifiers that identify any particular user, browser, computer or device.
+* We don’t transfer it (including any anonymous, aggregate or derived data) to any advertising network, advert exchange, data broker, or other advertising or monetisation-related service.
 
-All information you provide to us is stored on secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+### WHAT DATA WE COLLECT, AND HOW
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+If you complete our webform (as described above), it will ask you for your contact details and other information, such as your name, email address, telephone number, postal address, postal code, gender and/or date of birth.
 
-#### USES MADE OF THE INFORMATION
+From time to time, we change our webforms, and so they may ask you for other information. It will always be clear from the webform what information we’re requesting, and we only request information that is relevant to your request, and the service that we’re providing.
 
-We use information held about you in the following ways: 
+We also store and share Internet Protocol (IP) addresses, as explained below. Every computer or device has an IP address – a unique number – which enables it to communicate with other computers and devices over the Internet. 
 
-  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
-  * To pass on to both specific companies mentioned and also to others we think may be appropriate based on and in accordance with the information and permission you provide to us.
-  * To facilitate communication between yourself and our clients.
-  * To provide you with information or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
-  * To carry out our obligations arising from any contracts entered into between you and us.
-  * To allow you to participate in interactive features of our service, when you choose to do so.
-  * To notify you about changes to our service.
+We may monitor and/or record these calls for the purposes of quality control and staff training. Also, occasionally, we may need to provide Service Providers with limited access to such recordings in order to resolve disputes.
 
+Additionally, we might collect data about you if you: 
 
+* Contact us, or we contact you, by email, telephone or post.
+* Post comments, material or other content on our site.
 
-We may also provide our clients with aggregated information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help our clients reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our clients’ wishes by displaying their goods or services to that target audience.
+### HOW WE USE YOUR DATA
 
-#### DISCLOSURE OF YOUR INFORMATION
+We use your data (described above) in the following ways.
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+#### To enable you to participate in the Offers that you have expressly selected
 
-We may disclose your personal information to third parties:
+As explained above, if you submit our webform, you will receive a confirmation email for each Offer that you expressly selected. The email will come from us, or from the Service Provider that you expressly selected, and it will ask you to confirm your choice by clicking on a link.
 
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If Marketing VF Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://www2.mvfglobal.com/terms_of_use_en_b2c_0814/258de/d15d7) and other agreements; or to protect the rights, property, or safety of Marketing VF Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+We will also pass your contact details and other information (as described above) to each Service Provider that you expressly selected to enable them to email you regarding the Offer and confirm your choice. 
 
+We store IP addresses in order to stop unwanted traffic (i.e. spam) to our site. For example, if we become aware that spam is coming from a particular IP address (i.e. computer or location), we can block that IP address. From time to time, we also share IP addresses with Service Providers to enable them to verify the country in which people who sign up to our service are based.
 
+#### To email you about Other Offers – _But only if you haven’t opted out of such emails_
 
-#### YOUR RIGHTS
+If you use our service for finding and participating in Offers, then, as an existing user, we would like to email you about similar Offers ( **“Other Offers”** ).
 
-You have the right to ask us not to process your personal data for marketing purposes other than for those purposes listed above. We will usually inform you (before collecting your data) if we intend to use your data for any such additional purposes or if we intend to disclose your information to any additional third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [info@theecoexperts.co.uk](mailto:info@theecoexperts.co.uk).
+You will always be given an opportunity to opt out of such messages before we send them, and we will not send such messages if you have opted out.
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+#### To create custom and lookalike/similar audiences
 
-#### ACCESS TO INFORMATION
+We like to work with Facebook, Google and other platforms ( **“Platforms”** ) to reach out to you with adverts for Other Offers. We also like to use Platforms to reach out to other people who might like to use our quote request service.
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+We do this in two ways. In both cases, your data, along with other data, is used to create a custom audience and/or a lookalike/similar audience. Whenever an audience is shared with a Platform, the data is first hashed and pseudonymised, meaning that any data within the audience that could identify a person is replaced with an artificial identifier. So, the process is secure. Also, we don’t share more data than we need to for the purpose of creating the audience.
 
-#### CHANGES TO OUR PRIVACY POLICY
+* **Custom audience** – A custom audience is a list of existing users of our service ( **“Existing Users”** ). From time to time, we share this with Platforms. As explained above, the data is first hashed and pseudonymised. The Platform uses this audience to show our Existing Users our adverts for Other Offers.
+* **Lookalike/similar audience** – A lookalike/similar audience is an audience created by the Platform. From time to time, we share with Platforms a list of Existing Users. The Platform uses this list to find and create lookalikes – i.e. other Platform users who have similar characteristics to the Existing Users – to which it shows our adverts. Again, as explained above, the data is first hashed and pseudonymised.
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+As we explain below, at any time, you may object to such activity by emailing us at [dataprotection@mvfglobal.com](mailto:dataprotection@mvfglobal.com).
 
-#### CONTACT
+#### Receiving data from Service Providers
 
-Ryland House  
-24a Ryland Road  
-London  
-NW5 3EH
+From time to time, Service Providers may return data to us, together with confirmation on whether or not you and other subscribers have started or completed any surveys. They do this in order to enable us to improve our marketing. We may also use such data to create custom and lookalike/similar audiences, as explained above.
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to privacy@mvfglobal.com.
+#### Working with suppliers
+
+We work with a number of suppliers, who process data on our behalf. These include cloud storage providers and email service providers. We have appropriate contracts in place with such suppliers to ensure the protection and confidentiality of data.
+
+### COOKIES
+
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. At the bottom of this policy, we have included a table, setting out what cookies we use, and the purposes for which we use them.
+
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
+
+### TRANSFERRING YOUR DATA
+
+We may transfer your data outside the European Economic Area (the **“EEA”** ).
+
+Some of those countries (e.g. Canada, New Zealand, USA) have a European Commission adequacy decision, which means they are considered to offer an adequate level of data protection.
+
+Other countries do not have the same level of legal protection as countries in the EEA, or with an adequacy decision. If we do transfer your data in this way, we will take steps to ensure that it is protected to the same levels that apply in the EEA. This may include, for example, ensuring that the organisation receiving the data is registered with the EU-US Privacy Shield (in the case of transfers to the USA), or that we use the EU’s model contract clauses.
+
+### STORING YOUR DATA
+
+We have a data retention policy, which clearly sets out how long we keep data for, and for what reasons.
+
+We will keep your data only for as long as is necessary to fulfil the purpose/s for which it was collected in the first place, i.e. as set out in this notice.
+
+For example: If you haven’t opted out of receiving Other Offers from us, we will keep your details, and send you emails, until such time as you don’t engage with our emails for a period of 6 consecutive months. Following that period, we will not use the data, save that we will hash/anonymise the same, and retain it for a further 3 years for compliance purposes.
+
+### LEGAL GROUNDS
+
+This notice sets out (above) how we use your data. Under the GDPR, controllers must have a valid lawful basis for each processing activity that they undertake. This section sets out our lawful basis for each activity.
+
+**Activity** | **Lawful Basis under the GDPR** | **Your Rights**  
+---|---|---  
+To enable you to participate in the Offers that you have expressly selected | Consent | To withdraw your consent, as explained below  
+Using and sharing IP addresses | Legitimate interests | You have the right to object to processing based on legitimate interests  
+To email you about Other Offers | Legitimate interests* | To object to processing based on legitimate interests. You also have the right to object to direct marketing   
+To create custom and lookalike/similar audiences | Legitimate interests | You have the right to object to processing based on legitimate interests  
+Receiving data from Service Providers | Legitimate interests | You have the right to object to processing based on legitimate interests  
+  
+_*Under the Privacy and Electronic Communications (EC Directive) Regulations 2003 (PECR), we send such emails on the basis of the existing customer (soft opt-in) exemption._
+
+In each case where we have identified legitimate interests as the legal basis for our processing, we have conducted a legitimate interests assessment.
+
+### YOUR RIGHTS
+
+Under the GDPR, you have a number of rights. In relation to our site, and the service that we provide, those rights are set out in the table above. We further explain these rights, and your other rights, below.
+
+**Right of access** – You have the right at any time to ask us for a copy of the personal information that we hold about you, and to check that we are lawfully processing it.
+
+**Right of rectification** – If personal information that we hold about you is not accurate or is out of date and requires amendment or correction you have a right to have the data rectified or completed.
+
+**Right of erasure** – In certain circumstances, you have the right to request that personal information we hold about you is erased (e.g. if the information is no longer necessary for the purposes for which it was collected or processed).
+
+**Right to object to or restrict processing** – In certain circumstances, you have the right to object to our processing of your personal information. For example, if we are processing your information on the basis of our legitimate interests, and there are no compelling legitimate grounds for our processing which override your rights and interests.
+
+**Right of data portability** – In certain instances, you have a right to receive any personal information that we hold about you in a structured, commonly used and machine-readable format.
+
+**Right to withdraw consent** – In the limited circumstances where you may have provided your consent to the collection, processing and transfer of your personal information for a specific purpose, you have the right to withdraw your consent for that specific processing at any time. You can exercise this right by accessing our [Preference Centre](https://preferences.safe-click.net/).
+
+#### Exercising your rights
+
+As explained above, you can exercise your right to withdraw consent by accessing our preference centre <https://preferences.safe-click.net/>.
+
+If you wish to exercise any of your other rights under the GDPR, please email us at [dataprotection@mvfglobal.com](mailto:dataprotection@mvfglobal.com). Alternatively, you can write to us at the address set out above, or inform us if you speak with us on the phone.
+
+Our lead supervisory authority for the processing set out in this notice is the UK Information Commissioner’s Office (ICO). If you are unhappy with how we have processed your data, you have the right to make a complaint to the ICO.
+
+If you are based outside of the UK, or you have a complaint concerning our activities outside of the UK, you may prefer to lodge a complaint with a different Supervisory Authority. A list of relevant authorities can be accessed [here](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080).
+
+### CONTACTING US
+
+If you have any questions regarding this notice, or any questions relating to data protection or privacy, you can contact us at [dataprotection@mvfglobal.com](mailto:dataprotection@mvfglobal.com).
+
+Alternatively, you can write to us at the address set out above.
+
+**Cookie** | **Name** | **Purpose**  
+---|---|---  
+Universal Analytics (Google) | _ga _gali _gat_UA-1036645-1 _gid  | These cookies collect information about how visitors use our website. We use the information to compile reports and to make improvements. The cookies collect information in an anonymous form, including where visitors have come to the website from and the pages they visited. To opt-out: <https://tools.google.com/dlpage/gaoptout>  
+Taboola Retargeting |  | These cookies are used to tailor Taboola adverts to a user’s previous viewing habits. For instance, if you have previously visited our page, you may then see other adverts related to that product or service. Taboola is an ad network that shows sponsored content, usually as links below the article on major news sites.  
+Outbrain Retargeting |  | These cookies are used to tailor Outbrain adverts to a user’s previous viewing habits. For instance, if you have previously visited our page, you may then see other adverts related to that product or service. Outbrain is an ad network that shows sponsored content, usually as links below the article on major news sites.  
+Adwords Retargeting (Google) |  | These cookies are used to adjust the targeting of our paid search and display advertising to show ads to users who have previously been to our sites and/or engaged with our page such as completing a form. They contain no personal information.  
+DoubleClick Retargeting |  | These cookies are used to adjust the targeting of our display advertising to show ads to users who have previously been to our sites and/or engaged with our page such as completing a form. They contain no personal information.  
+Taboola Conversion Tracking |  | These cookies measure ad conversions and optimise spend for advertising campaigns served on Taboola.  
+Outbrain Conversion Tracking |  | These cookies measure ad conversions and optimise spend for advertising campaigns served on Outbrain.  
+Yahoo Conversion Tracking |  | These cookies measure ad conversions and optimise spend for advertising campaigns served on Yahoo Gemini.  
+Zemanta Conversion Tracking |  | These cookies measure ad conversions and optimise spend for advertising campaigns served on Zemanta.  
+Ligatus/LiquidM Conversion Tracking |  | These cookies measure ad conversions and optimise spend for advertising campaigns served on Ligatus and LiquidM.  
+Plista Conversion Tracking |  | These cookies measure ad conversions and optimise spend for advertising campaigns served on Plista.  
+Revcontent Conversion Tracking |  | These cookies measure ad conversions and optimise spend for advertising campaigns served on Revcontent.  
+EngageYa Conversion Tracking |  | These cookies measure ad conversions and optimise spend for advertising campaigns served on EngageYa.  
+Adwords Conversion Tracking |  | These cookies measure when a user has completed an action on site such as completing a form. They contain no personal information.  
+Bing Conversion Tracking | UET Tag | These cookies measure when a user has completed an action on site such as completing a form. They contain no personal information.  
+DoubleClick Conversion Tracking |  | These cookies measure when a user has completed an action on site such as completing a form. They contain no personal information.  
+Facebook Pixel |  | These cookies measure ad conversions, optimise and build audiences for advertising campaigns served on Facebook. To opt-out: <https://www.facebook.com/policies/cookies/>.   
+Nanigans JavaScript Pixel |  | These cookies measure ad conversions and optimise advertising campaigns managed through Nanigans. They contain no personal information. To opt-out: <http://www.nanigans.com/privacy-policy/>  
+Twitter Pixel |  | These cookies measure ad conversions and optimise advertising campaigns served on Twitter. To opt-out: <https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads>  
+LinkedIn Pixel |  | These cookies measure ad conversions, optimise and build audiences for advertising campaigns served on LinkedIn. To opt-out: <https://www.linkedin.com/legal/cookie-policy>  
+Pinterest Tag |  | These cookies are used to track conversions, optimise and build audiences to reach customers on Pinterest. To opt-out: <https://help.pinterest.com/en/articles/personalized-ads-pinterest>  
+Skimlinks |  |  Our website receives paid commission on sales of those products or services we write about. In some instances, we use a 3rd Party to enable these affiliate partnerships. To opt-out: <https://skimlinks.com/privacy-policy#users>  
+Amazon Associates |  | These cookies track referral visits to Amazon for which we may earn commission for any eventual purchases.  
+Adsense |  | AdSense uses cookies to improve advertising e.g. displaying targeted advertisements and avoiding showing advertisements that the user has already seen. These cookies contain no personally identifiable information.   
+VWO | _vwo | These cookies are used to help us optimise our sites by running tests and measuring user conversions. It is also used to track user information when visiting the site (e.g. browser and device information).  
+HotJar |  | Hotjar uses cookies and other technologies to collect data on our users’ behaviour (e.g. how much time they spend on which pages, which links they choose to click etc) and their devices (in particular device’s IP address, captured and stored only in anonymised form, preferred language settings etc). This enables us to better understand our users’ needs and to optimise this service and experience. Hotjar stores this information in a pseudonymised user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user. To opt out: <https://www.hotjar.com/legal/compliance/opt-out>  
+Amazon |  | Amazon uses uses cookies to measure ad conversions, optimise and build audiences for advertising campaigns served via Amazon DSP. Amazon stores this information in a pseudonymised user profile. Neither Amazon nor we will ever use this information to identify individual users or to match it with further data on an individual user.   
+  
+### CHANGES TO THIS NOTICE
+
+From time to time, we may update this notice.
+
+**Last reviewed: 14 May 2018**
