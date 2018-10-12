@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the viraltag.com privacy policy that was archived on 2017-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170815145436id_/https%3A//www.viraltag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viraltag.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012065800id_/https%3A//www.viraltag.com/privacy) for the most accurate reproduction.*
 
 # Viraltag | The Best Pinterest & Instagram Marketing Platform for Brands, Businesses & Bloggers
 
 ## Privacy Policy
 
-###### LAST UPDATED: JAN, 01, 2016
+###### LAST UPDATED: April, 18, 2018
 
 Viraltag cares about your privacy. We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. Our programs and services provided may gather your email IDs, user IDs, Passwords and other personally identifiable information. Our website uses cookies for various purposes. By using our website and agreeing to this policy, you consent to our use of cookies and other software modules installed in accordance with the terms of this policy. 
 
@@ -134,11 +134,7 @@ We may update this privacy policy from time to time by posting a new version on 
 
 #### Your rights
 
-You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to: 
-
-**(a)** the payment of a fee (currently fixed at USD($)15.00); and 
-
-**(b)** the supply of appropriate evidence of your identity for this purpose; 
+You may instruct us to provide you with any personal information we hold about you. To do so, please send across an email to privacy@viraltag.com with appropriate evidence of your identity for this purpose. 
 
 We may withhold such personal information to the extent permitted by law. 
 
