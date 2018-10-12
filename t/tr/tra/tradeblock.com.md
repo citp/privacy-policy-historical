@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradeblock.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612051228id_/https%3A//tradeblock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeblock.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012185918id_/https%3A//tradeblock.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TradeBlock
 
