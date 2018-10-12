@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trackduck.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920161736id_/https%3A//trackduck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackduck.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012082441id_/https%3A//trackduck.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - TrackDuck
 
