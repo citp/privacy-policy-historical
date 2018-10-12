@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genpact.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620205750id_/http%3A//www.genpact.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genpact.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012051146id_/http%3A//www.genpact.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy | Genpact
 
@@ -20,7 +20,7 @@ We, Genpact, may at times collect your personal data in one of the following way
 
 Genpact shall only process the received information pursuant to pursue our legitimate business interests for example screening CV's of prospective candidates, establishing communication with prospective customers (whom you represent) and personnel with general/ business inquiries and to enhance our user experience. Please [click here](http://www.genpact.com/about-us/gdpr) to see our customer privacy notice and [click here](http://www.genpact.com/about-us/gdpr) to see our candidate privacy notice for further details.
 
-You also have the option to subscribe/opt-in to receive newsletters, thought leadership content and/or marketing collateral. You can always opt-out of such options using our [subscription centre](http://www.genpact.com/form/genpact-subscription-center) or write to [Marketing.GDPR@Genpact.com](mailto:Marketing.GDPR@Genpact.com). Genpact shall adhere to your preferences.
+You also have the option to subscribe/opt-in to receive newsletters, thought leadership content and/or marketing collateral. You can always opt-out of such options using our [subscription center](http://www.genpact.com/form/genpact-subscription-center) or write to [Marketing.GDPR@Genpact.com](mailto:Marketing.GDPR@Genpact.com). Genpact shall adhere to your preferences.
 
 **Security**  
 We have implemented industry standard security measures to keep your personal data secure and confidential, including and not limited to:
