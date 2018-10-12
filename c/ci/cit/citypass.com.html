@@ -1,40 +1,47 @@
-<!--The following is the downloaded HTML source of the citypass.com privacy policy that was archived on 2017-09-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170907143952id_/http%3A//www.citypass.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the citypass.com privacy policy that was archived on 2018-10-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181012141119id_/https%3A//www.citypass.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-us" class="  wf-inactive"><head>
+<!DOCTYPE html><html lang="en-us" class=" wf-loading"><head>
 		
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
-	<title>Privacy &amp; Security | CityPASS®</title>
-	<meta name="description" content="CityPASS® Privacy &amp; Security">
+	<title>CityPASS Privacy Policy | CityPASS®</title>
+	<meta name="description" content="CityPASS® CityPASS Privacy Policy">
 	
-	<link rel="canonical" href="http://www.citypass.com/privacy">
+		<link rel="canonical" href="https://www.citypass.com/privacy">
 		
-	<meta name="robots" content="noodp, noydir">
+		<meta name="robots" content="noodp, noydir">
 			
-	<link rel="alternate" hreflang="de" href="http://de.citypass.com/privacy">
-	<link rel="alternate" hreflang="en" href="http://www.citypass.com/privacy">
-	<link rel="alternate" hreflang="es" href="http://es.citypass.com/privacy">
-	<link rel="alternate" hreflang="fr" href="http://fr.citypass.com/privacy">
-	<link rel="alternate" hreflang="it" href="http://it.citypass.com/privacy">
-	<link rel="alternate" hreflang="pt" href="http://pt.citypass.com/privacy">
-	<link rel="alternate" hreflang="zh" href="http://zh.citypass.com/privacy">
+	<link rel="alternate" hreflang="de" href="https://de.citypass.com/privacy">
+	<link rel="alternate" hreflang="en" href="https://www.citypass.com/privacy">
+	<link rel="alternate" hreflang="es" href="https://es.citypass.com/privacy">
+	<link rel="alternate" hreflang="fr" href="https://fr.citypass.com/privacy">
+	<link rel="alternate" hreflang="it" href="https://it.citypass.com/privacy">
+	<link rel="alternate" hreflang="pt" href="https://pt.citypass.com/privacy">
+	<link rel="alternate" hreflang="zh" href="https://zh.citypass.com/privacy">
 	<iframe src="javascript:false" title="" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TS59P2"></script><script src="//use.typekit.net/eln4ron.js" async=""></script><script>
 		var pageLoadStartTime = new Date().getTime();
 		var CP = {};
-		CP.bvReviews = "";
-		CP.bvPixel = "production";
+		CP.env = 'production';
+		CP.bvReviews = '';
+		CP.bvPixel = 'production';
 	</script>
 
-		<script src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js" data-apikey="965a2cde1899e4283acdb04f9948ed22" data-autonotify="true">
+		<script src="//d2wy8f7a9ursnm.cloudfront.net/v4/bugsnag.min.js"></script>
+	<script>
+		window.bugsnagClient = bugsnag({
+			apiKey: '965a2cde1899e4283acdb04f9948ed22',
+			notifyReleaseStages: ['development', 'production'],
+			releaseStage: 'production'
+		});
 	</script>
 
 		<script>
 		var CPBase = window.CPBase || {}; //set up an 'CPBase' object to contain everything
 
 		(function() {
-			"use strict";
+			'use strict';
 
 			CPBase.getValue = function(notFoundFn, objectReference) {
 				var arrayOfNames = objectReference;
@@ -42,7 +49,7 @@
 					if (typeof arrayOfNames === 'string' || arrayOfNames instanceof String) {
 						arrayOfNames = objectReference.split('.');
 					} else {
-						throw new Error("getValue can only accept a string for object reference");
+						throw new Error('getValue can only accept a string for object reference');
 					}
 				}
 
@@ -60,22 +67,22 @@
 
 			CPBase.getExpectedValue = function(arrayOfNames) {
 				return CPBase.getValue(
-						function(arrayOfNames, index) {
-							var notFound = "";
-							for (var i = 0; i <= index; ++i) {
-								if (notFound.length > 0) { notFound += "."}
-								notFound += arrayOfNames[i];
-							}
-							notFound += " was undefined";
-							return notFound;
-
-							// should we log then throw instead?
+					function(arrayOfNames, index) {
+						var notFound = '';
+						for (var i = 0; i <= index; ++i) {
+							if (notFound.length > 0) { notFound += '.';}
+							notFound += arrayOfNames[i];
 						}
-						, arrayOfNames);
+						notFound += ' was undefined';
+						return notFound;
+
+						// should we log then throw instead?
+					}
+					, arrayOfNames);
 			};
 
 			CPBase.getDefaultedValue = function(defaultValue, arrayOfNames) {
-				return CPBase.getValue(function() { return defaultValue}, arrayOfNames);
+				return CPBase.getValue(function() { return defaultValue;}, arrayOfNames);
 			};
 
 			CPBase.errors = {
@@ -90,23 +97,23 @@
 			function defaultLogData() {
 				var logData = {};
 				logData.value = 0;
-				logData.url = window.location.href.replace("%E9", "e");
-				logData.locale = CPBase.getExpectedValue("pageLocale");
-				logData.referer = CPBase.getDefaultedValue("", "document.referrer");
+				logData.url = window.location.href.replace('%E9', 'e');
+				logData.locale = CPBase.getExpectedValue('pageLocale');
+				logData.referer = CPBase.getDefaultedValue('', 'document.referrer');
 
 				// We are only invoking this after optimizely is loaded so this "should never happen"
 				if (typeof optimizely != 'undefined' &&
-						typeof optimizely.data != 'undefined' &&
-						typeof optimizely.data.visitor != 'undefined' && optimizely.data.visitor !== null) {
-					logData.ip = optimizely.data.visitor.ip;
-					logData.browser = optimizely.data.visitor.browser;
-					logData.browserVersion = optimizely.data.visitor.browserVersion;
-					logData.deviceType = optimizely.data.visitor.deviceType;
-					if (typeof optimizely.data.visitor.location != 'undefined' && optimizely.data.visitor.location !== null) {
-						logData.city = optimizely.data.visitor.location.city;
-						logData.continent = optimizely.data.visitor.location.continent;
-						logData.country = optimizely.data.visitor.location.country;
-						logData.region = optimizely.data.visitor.location.region;
+					typeof optimizely.get('data') != 'undefined' &&
+					typeof optimizely.get('visitor') != 'undefined' && optimizely.get('visitor') !== null) {
+					logData.ip = optimizely.get('visitor').ip;
+					logData.browser = optimizely.get('visitor').browser;
+					logData.browserVersion = optimizely.get('visitor').browserVersion;
+					logData.deviceType = optimizely.get('visitor').deviceType;
+					if (typeof optimizely.get('visitor').location != 'undefined' && optimizely.get('visitor').location !== null) {
+						logData.city = optimizely.get('visitor').location.city;
+						logData.continent = optimizely.get('visitor').location.continent;
+						logData.country = optimizely.get('visitor').location.country;
+						logData.region = optimizely.get('visitor').location.region;
 					}
 				}
 
@@ -114,50 +121,55 @@
 			}
 
 			function logEvent(category, action, label, additionalLogData) {
-				if (typeof Bugsnag === 'undefined') return;
-				if (typeof Bugsnag.autoNotify !== 'undefined' && Bugsnag.autoNotify === false) return;
+				if (typeof bugsnagClient === 'undefined') return;
+				if (typeof bugsnagClient.config !== 'undefined' && bugsnagClient.config.autoNotify === false) return;
 
 				var logData = $.extend(defaultLogData()
-						, { category: category}
-						, { action: action}
-						, { label: label}
+					, { category: category }
+					, { action: action }
+					, { label: label }
 				);
 				if (typeof additionalLogData != 'undefined') {
 					logData = $.extend(logData, additionalLogData);
 				}
 
-				Bugsnag.notify(category, action, logData, "info");
+				bugsnagClient.notify(
+					{ name: category, message: action },
+					{ metaData: logData, severity: 'info' }
+				);
 
 				$.ajax({
-					       url: '/loadnocache/log-event',
-					       type: 'POST',
-					       data: logData
-				       })
-				 .fail(function(jqXHR, textStatus, errorThrown) {
-					 $.ajax({
-						        url: '/loadnocache/log-event',
-						        type: 'POST',
-						        data: {category: "Logging",
-							        action: "log-event-failed",
-							        label: textStatus + ", " + errorThrown.message}
-					        })
-				 })
+						url: '/loadnocache/log-event',
+						type: 'POST',
+						data: logData
+					})
+					.fail(function(jqXHR, textStatus, errorThrown) {
+						$.ajax({
+							url: '/loadnocache/log-event',
+							type: 'POST',
+							data: {
+								category: 'Logging',
+								action: 'log-event-failed',
+								label: textStatus + ', ' + errorThrown.message
+							}
+						});
+					});
 			}
 
 			function logJSError(type, errObj) {
 				if (CPBase.errors.cpJSErrorNum < 10) {
-					errObj = CPBase.getDefaultedValue({msg: "", url: "", line: 0, column: 0 }, errObj);
-					var errMessage = CPBase.getDefaultedValue("", errObj.msg);
-					var errUrl = CPBase.getDefaultedValue("", errObj.url);
+					errObj = CPBase.getDefaultedValue({ msg: '', url: '', line: 0, column: 0 }, errObj);
+					var errMessage = CPBase.getDefaultedValue('', errObj.msg);
+					var errUrl = CPBase.getDefaultedValue('', errObj.url);
 					var errLine = CPBase.getDefaultedValue(0, errObj.line);
 					var category = type + 'JSError';
 					var action = (errMessage.indexOf(':') == -1 ? 'UnknownError' : errMessage.substr(0, errMessage.indexOf(':')));
 					var label = errMessage + ' (' + errUrl.substr(errUrl.indexOf('.com') + 4)
-							+ ', ln: ' + errLine + (typeof errObj.column != 'undefined' ? ', col:' + errObj.column : '') + ')';
+						+ ', ln: ' + errLine + (typeof errObj.column != 'undefined' ? ', col:' + errObj.column : '') + ')';
 
 					var stack;
-					if (errObj.exception && errObj.exception.stack ) {
-						stack = {stack: errObj.exception.stack};
+					if (errObj.exception && errObj.exception.stack) {
+						stack = { stack: errObj.exception.stack };
 					}
 
 					CPBase.errors.logEvent(category, action, label, stack);
@@ -169,87 +181,91 @@
 
 		})();
 
+		function performanceAPIMark(label) {
+			if (typeof performance != 'undefined') {
+				if (typeof performance.mark == 'function') {
+					performance.mark(label);
+				}
+			}
+		}
 
-        function performanceAPIMark(label) {
-            if (typeof performance != 'undefined') {
-                if (typeof performance.mark == 'function') {
-                    performance.mark(label);
-                }
-            }
-        }
-        function performanceAPIMeasure(label, mark1, mark2) {
-            if (typeof performance != 'undefined') {
-                if (typeof performance.measure == 'function') {
-                    performance.measure(label, mark1, mark2);
-                }
-            }
-        }
-
+		function performanceAPIMeasure(label, mark1, mark2) {
+			if (typeof performance != 'undefined') {
+				if (typeof performance.measure == 'function') {
+					performance.measure(label, mark1, mark2);
+				}
+			}
+		}
 	</script>
-	
-		<script>
-		(function(){
-		  if(window.BOOMR && window.BOOMR.version){return;}
-		  var dom,doc,where,iframe = document.createElement('iframe');
-		  iframe.src = "javascript:false";
-		  iframe.title = ""; iframe.role="presentation";
-		  (iframe.frameElement || iframe).style.cssText = "width:0;height:0;border:0;display:none;";
-		  where = document.getElementsByTagName('script')[0];
-		  where.parentNode.insertBefore(iframe, where);
 
-		  try {
-		    doc = iframe.contentWindow.document;
-		  } catch(e) {
-		    dom = document.domain;
-		    iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
-		    doc = iframe.contentWindow.document;
-		  }
-		  doc.open()._l = function() {
-		    var js = this.createElement("script");
-		    if(dom) this.domain = dom;
-		    js.id = "boomr-if-as";
-		    js.src = '//c.go-mpulse.net/boomerang/' +
-		    'AYU64-XXQTC-5HVWB-ARW7P-X8ZJ3';
-		    BOOMR_lstart=new Date().getTime();
-		    this.body.appendChild(js);
-		  };
-		  doc.write('<body onload="document._l();">');
-		  doc.close();
+		<script>
+		(function() {
+			if (window.BOOMR && window.BOOMR.version) {return;}
+			var dom, doc, where, iframe = document.createElement('iframe');
+			iframe.src = 'javascript:false';
+			iframe.title = '';
+			iframe.role = 'presentation';
+			(iframe.frameElement || iframe).style.cssText = 'width:0;height:0;border:0;display:none;';
+			where = document.getElementsByTagName('script')[0];
+			where.parentNode.insertBefore(iframe, where);
+
+			try {
+				doc = iframe.contentWindow.document;
+			} catch (e) {
+				dom = document.domain;
+				iframe.src = 'javascript:var d=document.open();d.domain=\'' + dom + '\';void(0);';
+				doc = iframe.contentWindow.document;
+			}
+			doc.open()._l = function() {
+				var js = this.createElement('script');
+				if (dom) this.domain = dom;
+				js.id = 'boomr-if-as';
+				js.src = '//c.go-mpulse.net/boomerang/' +
+					'AYU64-XXQTC-5HVWB-ARW7P-X8ZJ3';
+				BOOMR_lstart = new Date().getTime();
+				this.body.appendChild(js);
+			};
+			doc.write('<body onload="document._l();">');
+			doc.close();
 		})();
 	</script>
 
-		<script>
-	    (function(d) {
-	      var config = {
-	        //kitId: 'cyl7piq',
-			kitId: 'eln4ron',
-	        scriptTimeout: 3000
-	      },
-	      h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
-	    })(document);
-	</script>
-		
-	<link rel="stylesheet" href="http://s2.citypass.net/css-84ecf30/global.min.css">
-	<link rel="stylesheet" href="http://s3.citypass.net/css-84ecf30/pages/cp-general.css">
-    <script>
-        performanceAPIMark('mark_css');
-    </script>
+			<script>
+			(function(d) {
+				var config = {
+						//kitId: 'cyl7piq',
+						kitId: 'eln4ron',
+						scriptTimeout: 3000
+					},
+					h = d.documentElement,
+					t = setTimeout(function() {h.className = h.className.replace(/\bwf-loading\b/g, '') + ' wf-inactive';}, config.scriptTimeout),
+					tk = d.createElement('script'), f = false, s = d.getElementsByTagName('script')[0], a;
+				h.className += ' wf-loading';
+				tk.src = '//use.typekit.net/' + config.kitId + '.js';
+				tk.async = true;
+				tk.onload = tk.onreadystatechange = function() {
+					a = this.readyState;
+					if (f || a && a != 'complete' && a != 'loaded') return;
+					f = true;
+					clearTimeout(t);
+					try {Typekit.load(config);} catch (e) {}
+				};
+				s.parentNode.insertBefore(tk, s);
+			})(document);
+		</script>
+	
+	<link rel="stylesheet" href="https://s1.citypass.net/css-652b7bd/global.min.css">
+	<link rel="stylesheet" href="https://s1.citypass.net/css-652b7bd/pages/cp-general.min.css">
+	<script>performanceAPIMark('mark_css');</script>
 
-		<!--[if gte IE 9]><!-->
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-	<script>window.jQuery || document.write('<script src="https://code.jquery.com/jquery-2.1.4.min.js"><\/script>')</script><script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-	<!--<![endif]-->
-
-	<!--[if lt IE 9]>
-		<script>window.jQuery || document.write('<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.4/jquery.min.js"><\/script>')</script>
-		<script>window.jQuery || document.write('<script src="https://code.jquery.com/jquery-1.11.4.min.js"><\/script>')</script>
-	<![endif]-->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="https://code.jquery.com/jquery-3.3.1.min.js"><\/script>')</script><script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 
 	<script>
-		if (typeof Bugsnag !== 'undefined') {
-						window.jQuery || function jQueryDidNotLoad() {
-				Bugsnag.notify("JQuery failed to load");
-				Bugsnag.autoNotify = false;
+		if (typeof bugsnagClient !== 'undefined') {
+			window.jQuery || function jQueryDidNotLoad() {
+				bugsnagClient.notify("JQuery failed to load");
+				bugsnagClient.config.autoNotify = false;
 				alert("A crucial page resource has failed to load.  Please refresh the page");
 			}();
 		}
@@ -258,24 +274,24 @@
 		<script>
 		smScr = false;
 		medScr = false;
-		var deviceType = "desktop";
+		var deviceType = 'desktop';
 
 		if ($(window).width() < 668) {
 			smScr = true;
-			deviceType = "phone";
+			deviceType = 'phone';
 			$('html').addClass('res');
-		} else if ($(window).width() <= 1024) { 
+		} else if ($(window).width() <= 1024) {
 			medScr = true;
-			deviceType = "tablet";
+			deviceType = 'tablet';
 			$('html').addClass('res');
 		}
 
 		$('html').addClass(deviceType);
 	</script>
-	
+
 	<script>
 		var cookieDomain = '.citypass.com';
-		var pageLocale = "en";
+		var pageLocale = 'en';
 		var pageType = "general";
 		var productKey = false;
 		var attractionKey = false;
@@ -288,156 +304,161 @@
 		dataLayer.push({
 			'deviceType': deviceType,
 			'pageLocale': pageLocale,
-            'siteSection': "General Info",
+			'siteSection': "General Info",
 			'pageType': pageType
 		});
 	</script>
 
 
 	
-		<script src="//cdn.optimizely.com/js/155521286.js"></script>
+			<!-- TEST OPTIMIZELY -->
+		<script>
+			//Default/Control to override affirm availability.
+			//Not needed until launch of A/B test (or to verify default behavior)
+			window.AffirmIsAvailableOverrideFunction = function() {
+				//CONTROL: No Affirm, ever
+				//Availability will be overridden by same function defined in experiment variation.
+				return false;
+			};
+		</script>
+		<!-- END TEST -->
 	
-		
+			<script src="//cdn.optimizely.com/js/155521286.js"></script>
+	
+	
 	<!--[if IE 9]>
-		<link rel="stylesheet" href="/css-84ecf30/ie-old.css">
-	    <script src="/js-84ecf30/polyfills/matchMedia.js"></script>
-		<script src="/js-84ecf30/polyfills/matchMedia.addListener.js"></script> 
+	<link rel="stylesheet" href="https://s1.citypass.net/css-652b7bd/ie-old.min.css">
+	<script src="https://s1.citypass.net/js-652b7bd/polyfills/matchMedia.js"></script>
+	<script src="https://s1.citypass.net/js-652b7bd/polyfills/matchMedia.addListener.js"></script>
 	<![endif]-->
-	<!--[if lt IE 9]>
-		<link rel="stylesheet" href="/css-84ecf30/ie-old.css">
-		<script src="/js-84ecf30/polyfills/matchMedia.js"></script>
-		<script src="/js-84ecf30/polyfills/matchMedia.addListener.js"></script> 
-		<script src="/js-84ecf30/polyfills/respond.min.js"></script>
-		<script src="/js-84ecf30/polyfills/html5shiv.js"></script>
-	<![endif]-->
+
 	<!--blogSplit-->
 	<meta name="google-translate-customization" content="23a182d2b9e662-e0b7f7961eea2929-g1b74b826f2122aef-19">
-<script src="//gateway.answerscloud.com/citypass/production/gateway.min.js" type="text/javascript" async="true" data-vendor="acs" data-role="gateway"></script></head>
+
+</head>
 <body id="privacy" class="prototype-v1 lang-en no-city translations-available general general-privacy general-info navgroup-0">
 
-	<!-- Google Tag Manager -->
-	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TS59P2"
-	                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-		})(window,document,'script','dataLayer','GTM-TS59P2');</script>
-	<!-- End Google Tag Manager -->
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TS59P2"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TS59P2');</script>
+<!-- End Google Tag Manager -->
 
-	<nav id="navigation-primary" class="navigation-primary no-city">
-	<div class="nav-scroll-wrapper">
-		<div class="navigation-city">
-			<div class="nav-header-container">
-				<div class="nav-primary-header nav-city-header accordion-toggle js-accordion-toggle">
-					<h3>City</h3>
-				</div>
-			</div>
-			<ul class="nav-primary-list nav-city-list custom-scroll accordion-content js-accordion-content">				
-				<li class="nav-primary-item ">
-					<a href="http://www.citypass.com/atlanta" class="nav-city-link">
-						<span class="nav-primary-city">
-							<span class="city-icon icon-atl" data-id="atl"></span>
-							<span class="nav-city-title">Atlanta</span>
-						</span>
-					</a>
-				</li>				
-				<li class="nav-primary-item ">
-					<a href="http://www.citypass.com/boston" class="nav-city-link">
-						<span class="nav-primary-city">
-							<span class="city-icon icon-bos" data-id="bos"></span>
-							<span class="nav-city-title">Boston</span>
-						</span>
-					</a>
-				</li>				
-				<li class="nav-primary-item ">
-					<a href="http://www.citypass.com/chicago" class="nav-city-link">
-						<span class="nav-primary-city">
-							<span class="city-icon icon-chi" data-id="chi"></span>
-							<span class="nav-city-title">Chicago</span>
-						</span>
-					</a>
-				</li>				
-				<li class="nav-primary-item ">
-					<a href="http://www.citypass.com/dallas" class="nav-city-link">
-						<span class="nav-primary-city">
-							<span class="city-icon icon-dal" data-id="dal"></span>
-							<span class="nav-city-title">Dallas</span>
-						</span>
-					</a>
-				</li>				
-				<li class="nav-primary-item ">
-					<a href="http://www.citypass.com/houston" class="nav-city-link">
-						<span class="nav-primary-city">
-							<span class="city-icon icon-hou" data-id="hou"></span>
-							<span class="nav-city-title">Houston</span>
-						</span>
-					</a>
-				</li>				
-				<li class="nav-primary-item ">
-					<a href="http://www.citypass.com/new-york-comparison" class="nav-city-link">
-						<span class="nav-primary-city">
-							<span class="city-icon icon-nyc" data-id="nyc"></span>
-							<span class="nav-city-title">New York City</span>
-						</span>
-					</a>
-				</li>				
-				<li class="nav-primary-item ">
-					<a href="http://www.citypass.com/philadelphia" class="nav-city-link">
-						<span class="nav-primary-city">
-							<span class="city-icon icon-phl" data-id="phl"></span>
-							<span class="nav-city-title">Philadelphia</span>
-						</span>
-					</a>
-				</li>				
-				<li class="nav-primary-item ">
-					<a href="http://www.citypass.com/san-francisco" class="nav-city-link">
-						<span class="nav-primary-city">
-							<span class="city-icon icon-sf" data-id="sf"></span>
-							<span class="nav-city-title">San Francisco</span>
-						</span>
-					</a>
-				</li>				
-				<li class="nav-primary-item ">
-					<a href="http://www.citypass.com/seattle" class="nav-city-link">
-						<span class="nav-primary-city">
-							<span class="city-icon icon-sea" data-id="sea"></span>
-							<span class="nav-city-title">Seattle</span>
-						</span>
-					</a>
-				</li>				
-				<li class="nav-primary-item ">
-					<a href="http://www.citypass.com/southern-california" class="nav-city-link">
-						<span class="nav-primary-city">
-							<span class="city-icon icon-socal" data-id="socal"></span>
-							<span class="nav-city-title">Southern California</span>
-						</span>
-					</a>
-				</li>				
-				<li class="nav-primary-item ">
-					<a href="http://www.citypass.com/tampa" class="nav-city-link">
-						<span class="nav-primary-city">
-							<span class="city-icon icon-tb" data-id="tb"></span>
-							<span class="nav-city-title">Tampa Bay</span>
-						</span>
-					</a>
-				</li>				
-				<li class="nav-primary-item ">
-					<a href="http://www.citypass.com/toronto" class="nav-city-link">
-						<span class="nav-primary-city">
-							<span class="city-icon icon-tor" data-id="tor"></span>
-							<span class="nav-city-title">Toronto</span>
-						</span>
-					</a>
-				</li>			
-			</ul>
-		</div>
-			
-	</div>
-	</nav>
+<div class="navigation navigation--main qa-menu">
 	
-	<div id="page" class="page">
-		<!--[if lt IE 10]>
+<div class="navigation__inner">
+	<div class="navigation__header
+				">
+					<div class="navigation__header-title">
+				Destinations			</div>
+			</div>
+
+	<div class="navigation__body ">
+		<ul class="menu-group menu-group--products">
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/atlanta" title="Atlanta">
+				<span class="city-icon icon-atl "></span>
+				Atlanta			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/boston" title="Boston">
+				<span class="city-icon icon-bos "></span>
+				Boston			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/chicago" title="Chicago">
+				<span class="city-icon icon-chi "></span>
+				Chicago			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/dallas" title="Dallas">
+				<span class="city-icon icon-dal "></span>
+				Dallas			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/denver" title="Denver">
+				<span class="city-icon icon-den "></span>
+				Denver			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/houston" title="Houston">
+				<span class="city-icon icon-hou "></span>
+				Houston			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/new-york-comparison" title="New York City">
+				<span class="city-icon icon-nyc "></span>
+				New York City			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/philadelphia" title="Philadelphia">
+				<span class="city-icon icon-phl "></span>
+				Philadelphia			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/san-francisco-comparison" title="San Francisco">
+				<span class="city-icon icon-sf "></span>
+				San Francisco			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/seattle" title="Seattle">
+				<span class="city-icon icon-sea "></span>
+				Seattle			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/southern-california" title="Southern California">
+				<span class="city-icon icon-socal "></span>
+				Southern California			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/tampa" title="Tampa Bay">
+				<span class="city-icon icon-tb "></span>
+				Tampa Bay			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/toronto" title="Toronto">
+				<span class="city-icon icon-tor "></span>
+				Toronto			</a>
+		</li>
+
+	</ul>
+	</div>
+</div>
+</div>
+<div id="mini-cart"></div>
+
+
+<div id="page" class="page">
+	<!--[if lt IE 10]>
 <div class="global-alert warning-alert alert-show">
 	<span class="global-alert-callout">NOTICE - </span>
 	Sorry, this browser is not supported. You’re using an out-of-date version of Internet Explorer. We recommend using the latest version of Internet Explorer, Chrome, Firefox or Safari	<span class="global-alert-close"></span>
@@ -456,7 +477,7 @@
 		</div>
 		<span class="masthead-icon-link-label">Menu</span>
 	</a>
-	<a href="http://www.citypass.com" class="masthead-logo" title="CityPASS"><span class="svg-citypass-logo-color icon-citypass-logo-color"></span></a>
+	<a href="https://www.citypass.com" class="masthead-logo" title="CityPASS"><span class="svg-citypass-logo-color icon-citypass-logo-color"></span></a>
 		
 	<a href="https://www.citypass.com/checkout" class="masthead-icon-link icon-cart">
 		<span class="masthead-icon-link-label cart-icon-label">Cart</span>
@@ -465,7 +486,7 @@
 		</div>
 	</a>
 		
-	<a href="http://support.citypass.com/" class="masthead-icon-link icon-FAQ">
+	<a href="https://support.citypass.com/" class="masthead-icon-link icon-FAQ">
 		<span class="masthead-icon-link-label faq-icon-label">FAQ</span>
 	</a>
 			
@@ -475,13 +496,13 @@
 	</a>
 			
 </header>
-		
-		<div id="main-content" class="info-page" data-role="page">
-			<style>
-	@media (max-width: 767px) { .hero-banner-image { background-image: url('http://s1.citypass.net/img-84ecf30/home/home-hero-sm.jpg'); }}
-	@media (min-width: 768px) and (orientation: portrait) { .hero-banner-image { background-image: url('http://s1.citypass.net/img-84ecf30/home/home-hero-med.jpg'); }}
-	@media (min-width: 768px) and (orientation: landscape) { .hero-banner-image { background-image: url('http://s1.citypass.net/img-84ecf30/home/home-hero-lg.jpg'); }}
-	@media (min-width: 1160px) { .hero-banner-image { background-image: url('http://s1.citypass.net/img-84ecf30/home/home-hero-lg.jpg'); }}
+
+	<div id="main-content" class="info-page" data-role="page">
+		<style>
+	@media (max-width: 767px) { .hero-banner-image { background-image: url('https://s1.citypass.net/img-652b7bd/home/home-hero-sm.jpg'); }}
+	@media (min-width: 768px) and (orientation: portrait) { .hero-banner-image { background-image: url('https://s1.citypass.net/img-652b7bd/home/home-hero-med.jpg'); }}
+	@media (min-width: 768px) and (orientation: landscape) { .hero-banner-image { background-image: url('https://s1.citypass.net/img-652b7bd/home/home-hero-lg.jpg'); }}
+	@media (min-width: 1160px) { .hero-banner-image { background-image: url('https://s1.citypass.net/img-652b7bd/home/home-hero-lg.jpg'); }}
 </style>
 <div class="hero-banner">
   <header class="hero-banner-header">
@@ -498,7 +519,7 @@
 							<div class="info-nav flexible-item">
 					
 	<div class="js-accordion-toggle accordion-toggle info-nav-toggle nav-0">
-		<span class="info-nav-current-selection">Privacy &amp; Security</span>
+		<span class="info-nav-current-selection">CityPASS Privacy Policy</span>
 	</div>
 	<div class="js-accordion-content accordion-content info-nav-content nav-0">
 		
@@ -506,7 +527,9 @@
 		
 		<h4 class="info-nav-item"><a href="/contact">Contact Us</a></h4>
 		
-		<h4 class="info-nav-item active"><a href="/privacy">Privacy &amp; Security</a></h4>
+		<h4 class="info-nav-item active"><a href="/privacy">CityPASS Privacy Policy</a></h4>
+		
+		<h4 class="info-nav-item"><a href="/cookies-disclosures">Cookies Disclosures</a></h4>
 		
 		<h4 class="info-nav-item"><a href="/shipping">Shipping Details</a></h4>
 		
@@ -531,164 +554,305 @@
 			
 						
 							
-				<h1>Privacy &amp; Security</h1>
-							<p class="clear">
-	CityPASS, Inc. ("CityPASS"), is committed to protecting the privacy of our customers and users of our Web site. We have therefore created this policy statement (the "Policy") to explain our privacy practices and procedures.
+				<h1>CityPASS Privacy Policy</h1>
+							<h3>Privacy &amp; Security</h3>
+
+<p>
+    City Pass, Inc. ("CityPASS"), is committed to protecting the privacy of our customers and users of our Website. We have therefore created this policy statement (the "Policy") to explain our privacy practices and procedures.
 </p>
 <p>
-	We believe that you should know what information we collect from you, as well as understand how we use and protect that information.
+    We believe that you should know what information we may collect from you, as well as understand how we use and protect that information. This includes what you tell us about yourself, what we may learn from your use of our website, what we learn by having you
+as a customer, and the choices you give us about what marketing materials you want us to send you. This notice also tells you about your privacy rights and how the law protects you.
 </p>
 <p>
-	CityPASS will revise and update this Policy as we change practices within citypass.com. You should refer back to this page for the latest information.
+    CityPASS will revise and update this Policy as we change practices within citypass.com. You should refer back to this page for the latest information.
 </p>
 <p>
-	This Policy applies to CityPASS's Web site, which is intended for the use of persons residing throughout the world, and for order and delivery of CityPASS booklets and e-Tickets.
+		This Policy applies to the CityPASS Website, which is intended for the use of persons residing in countries that CityPASS markets its products, and for the order and delivery of CityPASS products.
 </p>
-<p>
-	By purchasing, subscribing to, or using CityPASS's Web site, you agree to the terms and conditions set forth in this Policy.
-</p>
+
 <hr>
-<h3>
-	1. Information We Collect
-</h3>
+
+<h4>Our Purposes for Collecting and Processing Personal Information and its Uses</h4>
+
 <p>
-	CityPASS collects a variety of personally identifiable information about customers and visitors to our Web site in order to ensure order delivery and provide unique offers. When we use the term "personally identifiable information," we mean information that is directly associated with, or could be used to identify, a specific person. Such information includes a name, address, telephone number, e mail address, or information about activities directly linked to that person which would permit the physical or online contacting of that person.
+    <strong><em>General Uses and Disclosures.</em></strong>  We use and share the information we collect from users for the purposes described below.  To perform the following tasks, when necessary, we will obtain your consent before using your data for these purposes. If you withhold consent, access to some functions and portions of our web site may be limited.
 </p>
-<h4>
-	Information You Give Us
-</h4>
-<p>
-	<strong>Checkout:</strong> We collect information you give us — such as your name, billing address, telephone number, e-mail address, and/or credit card number — when you purchase from our Web site.
-</p>
-<p>
-	<strong>Blog/ News Letter Subscription:</strong> We only collect your email address.
-</p>
-<p>
-		<strong>CityPASS does not collect personally identifiable information without your consent.</strong>
-</p>
-<p>
-	To see how we use, disclose, and protect the personally identifiable information that we collect, please review the rest of this Policy.
-</p>
-<hr>
-<h3>
-	2. Our Use of Personally Identifiable Information
-</h3>
-<p>
-	<strong>Our Internal Use:</strong> CityPASS collects personally identifiable customer information for the purpose of shipping CityPASS to you and/or to contact you directly regarding your order. We also use email addresses on an opt-in basis to provide users with information they have subscribed to.
-</p>
-<p>
-	<strong>Our Customer Surveys:</strong> Periodically, you may be able to participate in our surveys to help us improve our site and products. Any personally identifiable information that we may collect from you in a survey will ONLY be used internally by CityPASS. And unless otherwise explained in the instructions for a particular customer survey, any personally identifiable information you provide to us for purposes of that survey will be used in accordance with this Policy.
-</p>
-<p>
-	<strong>Third-Party Use:</strong> CityPASS does not disclose, share or sale personally identifiable information to 3rd parties affiliated or non affiliate.
-</p>
-<hr>
-<h3>
-	3. Disclosure of Personally Identifiable Information
-</h3>
-<p>
-	<strong>Business Transfers:</strong> Information about our users and customers, including personally identifiable information, may be disclosed as part of any merger, acquisition, or sale of company assets. It may also be disclosed in the unlikely event of an insolvency, bankruptcy, or receivership in which personally identifiable information would be transferred as one of the business assets of CityPASS.
-</p>
-<hr>
-<h3>
-	4. Security
-</h3>
-<p>
-Security of the information regarding your order is very important to us. We use transport security with certificates signed by <b>Verisign</b>  to protect the security of your online order information from being intercepted by anyone other than CityPASS. You may verify that we are a legitimate Verisign Secure Site by clicking on the Verisign Secured logo in the lower right corner of all checkout pages.
-</p>
-<p>
-Once you enter the checkout page, your computer will begin communicating with our server in secure mode. You can tell that you are in secure mode by the following:
-</p>
-<ul class="bullet">
-	<li>In the web address shown in the address window at the top of your browser window, "http" will be replaced by "https".</li>
-	<li>In most browsers, you will see a closed padlock to the right of the address window. You can click on the lock for more security information.</li>
+
+<ul>
+    <li>
+        <strong><em>Providing Services to our Website Users.</em></strong> If you use our Website and consent to the use of cookies and web beacons, we will collect personal information as described below, we will use your information to process and respond to your requests, comments, inquiries, and other forms you submit through our Website.
+    </li>
+    <li>
+        <strong><em>Providing Services to our Customers.</em></strong> If you are a CityPASS customer, we will use your information to support our delivery of products and services to you.
+    </li>
+    <li>
+        <strong><em>Improving our Services.</em></strong> We use your information to enhance our understanding of our users’ preferences and improve our services.
+    </li>
+    <li>
+        <strong><em>Disclosures we make to Service Providers.</em></strong>
+				We share your information with third-party service providers that assist us with hosting and maintaining the CityPASS Website, processing payment card information, analyzing online activity on our Website, marketing our services, and managing our daily business operations, delivery of products and services, or use of your CityPASS products. We share only the minimum amount of personal information with these service providers that they need to perform their tasks.
+		</li>
+    <li>
+        <strong><em>Compliance with Legal Obligations.</em></strong> We will share your information with law enforcement, government officials, regulatory agencies, or other parties when we are required to do so by applicable law.  We will also disclose your information to comply with a judicial proceeding, court order, subpoena, or legal process.
+    </li>
+    <li>
+        <strong><em>In an Emergency.</em></strong> In emergency situations to protect our customer’s vital interests we will use or share your information when doing so is necessary to protect an interest that is essential for an individual’s life.
+    </li>
+    <li>
+        <strong><em>Our Legitimate Interests.</em></strong> We will use and disclose your information when necessary for CityPASS’s legitimate interests, as long as such interests are not overridden by our users’ interests, rights, and freedoms with respect to their personal information.
+    </li>
 </ul>
-<hr>
-<h3>
-		5. Our Use of "Cookies"
-</h3>
+
+
+<h4>Our Legal Basis for Processing Personal Information</h4>
+
 <p>
-	CityPASS uses "cookies" to enhance your use of our Web site. "Cookies" are small text files placed on your computer's hard drive by a Web site when you visit that Web site. These files identify your computer and record your preferences and other data about your visit to a Web site so that when you return to that site, the site operator knows who you are and can personalize your visit. For example, cookies enable a Web site shopping cart to function so that you only have to check out once. Consequently, cookies are often tied to the use of personally identifiable information while using our Web site. If you choose not to accept the use of cookies, your use of our Web site may be impaired.
+    In addition to the protections provided in the CityPASS Privacy Policy, your privacy is protected by the laws in the country in which you reside. The scope and level of protection offered by those laws varies. CityPASS has adopted privacy and security policies designed to comply with the laws and regulations applicable to the countries in which it markets its products and services, however, CityPASS makes no guarantee to provide protections beyond the duties required by the laws in the country that a visitor to our Website resides.
 </p>
 <p>
-	Cookies allow us to do the following:
+    Data protection laws allow us to collect, use and retain your personal information if we have a proper reason to do so. These reasons include:
 </p>
-<ul class="bullet">
-	<li>Complete transactions you have requested;</li>
-	<li>Personalize our Web site and make recommendations to you based on products you have shown interest in; and</li>
-	<li>Improve the ease of use of our Web site, sometimes in conjunction with Web beacons.</li>
+
+<ul>
+    <li>
+        When you consent to it,
+    </li>
+    <li>
+        To fulfill a contractual relationship with you, such as fulfilling your order,
+    </li>
+    <li>
+        When it is permissible under applicable privacy laws,
+    </li>
+    <li>
+        When we have a legal duty to do so, or
+    </li>
+    <li>
+        When it is in our legitimate interest.
+    </li>
 </ul>
+
 <p>
-	We do not use cookies to store credit card information.
+    Our legitimate interests include, ensuring that fraudulent transactions are not placed through our Website, to protect against security breaches, to process financial information, to further discuss your interest in future events, discounts and programs, to track the use of our Website and services, to protect CityPASS and others from claims by third-parties and for business transfers, as discussed below.
 </p>
 <p>
-	We also use a session-based cookie to maintain continuity of navigation for you when viewing our Web site during a particular on-line session. After closing the browser, the session cookie simply terminates; it is not stored on your computer's hard drive thereafter.
+    CityPASS may collect personal data for the purpose of making automated decisions, including the sharing of information to complete a transaction.  For example, if you elect to purchase a product or service and you provide information necessary to place the transaction, your credit or debit card information will automatically be sent to a third-party for credit/debit card processing and certain information will automatically be sent to a third-party for verification and fraud detection purposes.  Also, if you consent to the use of cookies, web beacons or you subscribe to our newsletter, CityPASS may collect information to create a profile to assist with the delivery of marketing information targeted to persons in certain geographic areas or persons who have previously purchased similar products or services from CityPASS.
 </p>
 <p>
-	In conjunction with Web beacons, CityPASS may also use cookies, but these cookies are not linked to your personally identifiable information.
+    We have given you the option to agree to opt out of the collection of personal data by CityPASS. By agreeing to permit the use of cookies, web beacons, subscribing to our newsletter, or purchasing a product or service from CityPASS, you have agreed to the collection of your personal information and terms and conditions set forth in this Privacy Policy. You may, after agreeing to provide personal information to CityPASS, opt out of these services or ask to have your personal information erased as described in this Policy.
+</p>
+
+<hr>
+
+<h4>Details About Our Collection and Use of Personal Information</h4>
+
+<h5>The Information We Collect</h5>
+
+<p>
+    CityPASS collects a variety of personally identifiable information about customers and visitors to our Website in order to ensure order delivery and provide unique offers. We collect different types of information from users.
 </p>
 <p>
-	You can enable cookies by doing the following:
+    <strong><em>Personal Information</em></strong> means any personally identifiable information relating to an identified or identifiable natural person.  When we use the term "personally identifiable information," we mean information that is directly associated with, or could be used to identify, a specific person or to determine preferences, interests, behavior, location or movement to create or use in a personal profile. Examples of information we may collect includes a name, address, telephone/cell number, email address, internet protocol address (IP address), mobile device identifier, or information about activities directly linked to that person which would permit the physical or online tracking or contacting of that person.
 </p>
-<ul class="bullet">
-	<li><strong>Internet Explorer:</strong> On your task bar menu, select "Tools" and "Internet Options." Then select the "Privacy" tab. Move the slider to any setting other than "High" or "Block All Cookies." Then click "OK."</li>
-	<li><strong>Mozilla Firefox:</strong> On your task bar menu, select "Tools" and "Options." Select the "Privacy" tab and place a tick mark in the box for "Accept Cookies from Sites." Then click "OK."</li>
-	<li><strong>Apple Safari:</strong> On your task bar menu, select "Edit" and "Preferences." Select "Cookies" and then select "Always" in the "Accept Cookies" section.</li>
-	<li><strong>Google Chrome:</strong> Click the "Tools" menu to the right of the address bar and select "Options." Click on the "Under the Hood" tab, and scroll down to the "Cookie settings:" section. In the drop-down menu, select "Allow all cookies." Then click "Close."</li>
+<p>
+    <strong><em>Usage Information</em></strong>.  We also collect additional information regarding users’ activities on our Website.  For instance, when you view a section of our Website that does not require you to log in with unique user credentials or start conversations with us, we may collect anonymous Usage Information that may not reasonably be used to identify you as the source.  Usage Information includes “click stream” activity, such as when you click on a banner advertisement; the type of Internet browser and computer operating system you are using; the location from which you are accessing the Website; the URL of the Website from which you linked to our Website; and the areas of our Website you visited. This Usage Information may be obtained through “cookies” or “web beacons”. For more detailed information please review our <a href="/cookies-disclosures">Cookie Policy</a>.
+</p>
+
+<h5>When We Collect Personal Information</h5>
+
+<p>
+    <strong>Information you give us at checkout:</strong> We will collect personal information you give us when you purchase from our Website. Depending on the product purchased, you may provide some or all of the following personal information, your name, billing address, telephone number, email address, travel dates, names of ticket holders, preferences, and/or credit card number.
+</p>
+<p>
+    <strong>Blog/ Newsletter Subscription:</strong> If you chose to subscribe to our newsletter we only collect your email address. We do not share subscriber’s email addresses with third parties.
+</p>
+<p>
+    <strong>Browsing our Website:</strong> When you access and browse our Website we will collect anonymous Usage Information. This may be done through the use of cookies or web beacons.
+</p>
+<p>
+    CityPASS does not collect personally identifiable information without your consent. To see how we use, disclose and protect the personally identifiable information that we collect, please review our <a href="/cookies-disclosures">Cookie Policy</a> for information regarding your options to accept, limit or avoid the collection of personally identifiable information. In addition, please review the rest of this Privacy Policy.
+</p>
+
+<h5>Our Use of Personally Identifiable Information</h5>
+
+<p>
+    <strong>Our Internal Use:</strong> CityPASS collects personally identifiable customer information for the purpose of shipping CityPASS products to you and/or to contact you directly regarding your order. We also use email addresses on an opt-in basis to provide users with information they have subscribed to.
+</p>
+<p>
+    <strong>Our Customer Surveys:</strong> Periodically, you may be able to participate in our surveys to help us improve our site and products. Any personally identifiable information that we may collect from you in a survey will ONLY be used internally by CityPASS. And unless otherwise explained in the instructions for a particular customer survey, any personally identifiable information you provide to us for purposes of that survey will be used in accordance with this Policy.
+</p>
+<p>
+    <strong>Third-Party Use:</strong> CityPASS does not disclose, share or sell personally identifiable information to third-parties or non-affiliate entities for their use independent of the products we provide. There are two limited exceptions to this policy that apply to users who purchase our products: 1) We use a third-party global identity and fraud verification vendor, <a target="_blank" href="https://pro.whitepages.com/">Whitepages Pro</a>. For the purpose of fraud detection, we use information you give us including, name, address, email address and phone number, in order to match the information with information Whitepages Pro has collected from other sources and stored in its database. To facilitate verification of future transactions through CityPASS or other vendors, Whitepages Pro may update its database to reflect that the information you provided to CityPASS and we shared with Whitepages Pro matched information in its database. Whitepages Pro may also update its database to include new information you provided to CityPASS and we shared with Whitepages Pro, which was not previously found in Whitepages Pro’s database. You can review Whitepages Pro’s privacy policy by following this link, <a target="_blank" href="https://pro.whitepages.com/privacy/">Whitepages Pro Privacy Policy</a>. 2) We also use a third-party fraud verification vendor, <a target="_blank" href="https://www.kount.com/">Kount</a>. We share information you give us including, name, address, email address and phone number, in order to match the information with information Kount has collected from other sources and stored in its database. To facilitate verification of future transactions through CityPASS or other vendors, Kount may update its database to reflect that the information you provided to CityPASS and we shared with Kount matched information in its database. Kount may also update its database to include new information you provided to CityPASS and we shared with Kount, which was not previously found in Kount’s database. You can review Kount’s privacy policy by following this link, <a target="_blank" href="https://www.kount.com/legal/privacy-policy">Kount Privacy Policy</a>. If you exercise your right to ask us to erase your personal information, you can also ask us to instruct Whitepages Pro and Kount to erase your personal information. However, this may impair your ability to transact business over the internet in the future.
+</p>
+
+<h5>Potential Future Disclosure of Personally Identifiable Information</h5>
+
+<p>
+    Business Transfers: Information about our users and customers, including personally identifiable information, may be disclosed as part of any merger, acquisition, or sale of company assets. It may also be disclosed in the unlikely event of an insolvency, bankruptcy, or receivership in which case personally identifiable information would be transferred as one of the business assets of CityPASS.
+</p>
+
+<h5>Retention of Personal Information</h5>
+
+<p>
+    We retain personal information for a reasonable period of time necessary to fulfill our legal or regulatory obligations and for our legitimate business purposes. We retain the following categories of personal information for the following time frames:
+</p>
+<p>
+    <strong>Cookie and web beacon information:</strong> Certain cookie and web beacon information is retained for time periods that vary. Retention periods range from the deletion of data at the end of each web browsing session to a maximum of two years.  Please see our <a href="/cookies-disclosures">Cookie Policy</a> for detailed information regarding the retention period and privacy policy for each cookie.
+</p>
+<p>
+    <strong>Personal profile information you give to us:</strong> When you make a purchase on our web site or subscribe to our newsletter, we may maintain that information. If you unsubscribe from the newsletter, we will take steps to erase personal and other information, but we reserve our right to retain and access the data for so long as is required to complete the delivery of products and services purchased from CityPASS and to comply with applicable laws.  CityPASS will review its records on an annual basis.
+</p>
+<p>
+    <strong>Credit and debit card information:</strong> When you enter credit card or debit card information while purchasing our products and services through the checkout process, that information is provided directly to Braintree, a service of PayPal. CityPASS does not receive access to or store credit card or debit card information. By clicking this link you can review <a target="_blank" href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full">Braintree /PayPal's Privacy Policy</a>.
+</p>
+
+<hr>
+
+<h4>Our Secure Transmission of information</h4>
+
+<p>
+    Security of the information regarding your order is very important to us. We use transport security with certificates signed by Verisign to protect the security of your online order information from being intercepted by anyone other than CityPASS. You may verify that we are a legitimate Verisign Secure Site by clicking on the Verisign Secured logo in the lower right corner of all checkout pages.
+</p>
+<p>
+    Once you enter the checkout page, your computer will begin communicating with our server in secure mode. You can tell that you are in secure mode by the following:
+</p>
+
+<ul>
+    <li>
+        In the web address shown in the address window at the top of your browser window, "http" will be replaced by "https".
+    </li>
+    <li>
+        In most browsers, you will see a closed padlock to the right of the address window. You can click on the lock for more security information.
+    </li>
 </ul>
+
 <hr>
-<h3>
-	6. Our Use of Web Beacons
-</h3>
+
+<h4>Our Use of "Cookies"</h4>
+
 <p>
-	CityPASS uses Web beacons on its Web site. A Web beacon (sometimes called a "Web bug" or "clear GIF") is a tiny graphic image (usually a 1-by-1 pixel) displayed in a Web page, but it is usually invisible, as it is usually the same color as the background of the Web page. When the user's Web browser reads the HTML code for the Web beacon to retrieve the image, it can pass along the IP address of the user's computer, the time the Web beacon was viewed and for how long, and the type of browser used. Web beacons can also be linked to a user's cookies.
+    Our use of cookies is described in detail in our <a href="/cookies-disclosures">Cookie Policy</a>.
+</p>
+
+<h4>Your right to access, copy or erase your personal information</h4>
+
+<p>
+	For qualifying citizens of the European Union (EU), this section provides details about your rights in relation to your ability to access and to transfer personal information.
 </p>
 <p>
-	CityPASS uses Web beacons to gather aggregate information. CityPASS does not use Web beacons that link to personally identifiable information.
+	For qualifying citizens in the EU, you may ask us to:
+</p>
+
+
+<ul>
+    <li>
+        Provide access to all the personal information about you held by us. If you ask us to do so, we will provide you with a copy of this information. For the first request, we will provide an electronic copy of the data at no charge. For subsequent requests, or printed copies, we reserve the right to charge a reasonable fee taking into account the administrative costs of providing the information or taking the action requested. You can exercise your right of access to your personal information:
+        <ul>
+            <li>
+                By emailing us at <a href="mailto:privacyofficer@citypass.com?subject=contact us">privacyofficer@citypass.com</a>; or
+            </li>
+            <li>
+                By writing to us at the address below.
+            </li>
+        </ul>
+        Please note that we may be required to ask you for further information in order to confirm your identity before we provide the information requested.
+    </li>
+    <li>
+        Correct or erase your personal information where appropriate. Please note, you may review and update or correct your user profile information by logging in, as applicable, to the relevant portions of your CityPASS account profile where such information may be updated or corrected;
+    </li>
+    <li>
+        Restrict the processing of your personal information while we investigate your concern;
+    </li>
+    <li>
+        You have a right to receive your information in a commonly used electronic format or ask us to move the data in that format to another provider where your request relates to the data that you gave us directly and where technically possible (data portability); and
+    </li>
+    <li>
+        Withdraw your consent at any time when the processing relies upon consent. Provided, however, if processing of a purchase of products or services has been completed, then cancellation of the purchase shall be subject to the terms and conditions for the purchase at the time it was made.  In other words, you are not permitted to withdraw your consent to process your information in an effort to rescind an otherwise non-refundable purchase.
+    </li>
+</ul>
+
+<p>
+	For qualifying citizens in the EU, this section provides details about your rights in relation to your ability to access and to transfer personal information.
+</p>
+
+<ul>
+    <li>
+			In the event you ask us to erase your personal information, it is in our reasonable interest to maintain some of the information for a reasonable period of time to complete the processing of your order, the delivery of our services to you to verify that the transaction placed for you was not fraudulent, or to enable the use of your purchased products.  We may also keep a log or a record sufficient to demonstrate that we sent your information to you or fulfilled your request to erase your data. The log or record is in our reasonable interest to document compliance with various privacy laws, rules and regulations.
+    </li>
+    <li>
+        Further, in the event you ask us to erase your data, certain third-party software we use is not designed to entirely remove information from software or systems without impairing the software’s functionality. It is in our reasonable interest to maintain the integrity of our software and operating systems. If that is the case, we will take steps to erase your data by making your data unreadable, thereby rendering it anonymous and untraceable. For example, we may change all letters to hash marks (“#”) or other symbols and numbers to zeros (“0”) to effectively erase your information.
+    </li>
+</ul>
+
+
+<h4>If you choose not to give personal information</h4>
+
+<p>
+    You can choose not to give us personal information, but it may prevent us from providing our services to you. In this section we explain the effects this may have.
 </p>
 <p>
-	For its Web beacons, CityPASS uses Omniture to analyze use of CityPASS's Web site. For further information on how Omniture collects and uses information, you should refer to the Omniture Products and Services Privacy Statement at <a href="http://www.omniture.com/privacy/product" target="_blank">http://www.omniture.com/privacy/product</a>.
+    We may need to collect personal information to enter into or fulfill a contract we have with you.
 </p>
+<p>
+	If you choose not to give us your personal information, it may also mean that we cannot complete a purchase or deliver our products or services to you.
+</p>
+<p>
+	We sometimes ask for information that is useful, but not required by law to process your order. We will make this clear when we ask for it. You do not have to give us these extra details and it won't affect the products or services you have with us. For example, we may ask you if you wish to subscribe to our newsletter. You are not required to do so in order to obtain our products and services.
+</p>
+
+<h4>Children under the age of 13</h4>
+
+<p>
+	CityPASS products and services are not targeted to and are not intended to attract children under the age of 13. Other than requesting name(s) for any CityPASS child products purchased, CityPASS does not knowingly solicit personal information from children under the age of 13. Should we learn or be notified that we have collected information from users under the age of 13, we will immediately erase such personal information.
+</p>
+
+<h4>Monitoring of our Privacy Policy</h4>
+<p>
+CityPASS regularly reviews its compliance with this Privacy Policy. Please contact us with any questions or concerns regarding this Privacy Policy or CityPASS's treatment of personal information. When we receive formal written complaints, it is CityPASS's policy to contact the complaining customer or user regarding his or her concerns.
+</p>
+
 <hr>
-<h3>
-	7. Our Use of Banner Ads
-</h3>
+
+<h4>Updating of Our Policy</h4>
 <p>
-	We may use third-party advertising companies to place advertisements about CityPASS products on other Web sites. These advertising companies may use cookies, Web beacons, or other technologies to measure the effectiveness of our ads. The advertising companies may use anonymous information about your visits to our and other Web sites in order to measure advertising effectiveness and offer selective ad content. But they use an anonymous identifier, such as a number, to identify you. They do NOT link to or collect any personally identifying information. The use of such cookies, Web beacons, and other technologies is subject to the advertising companies' privacy policies, not the Policy of CityPASS. If you would like more information about the advertising companies we use and their privacy practices, or would like to prevent them from sending and reading cookies on your computer, <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">click here</a>.
+    CityPASS will revise or update this Policy if our practices change, as we change existing services, add new services, or develop better ways to inform you of services we think will interest you. You should refer back to this page for the latest information and the effective date of any changes.
 </p>
+
 <hr>
-<h3>
-	8. Enforcement
-</h3>
+
+<h4>Contacting Us</h4>
+
 <p>
-	CityPASS regularly reviews its compliance with this Privacy Policy. Please contact us with any questions or concerns regarding this Privacy Policy or CityPASS's treatment of personal information. When we receive formal written complaints, it is CityPASS's policy to contact the complaining customer or user regarding his or her concerns.
+    If you have any questions, comments or concerns about this Policy, please <a href="mailto:privacyofficer@citypass.com?subject=contact us">privacyofficer@citypass.com</a>. Or you can write to us at:
 </p>
+<p>
+    <strong>CityPASS, Inc.</strong><br>
+    Attn: Privacy Officer<br>
+    27 Arrow Root Lane<br>
+    Victor, Idaho 83455
+		<br>
+		<br>
+    <a href="mailto:privacyofficer@citypass.com?subject=contact us">privacyofficer@citypass.com</a></p>
+<p>
+    US &amp; Canada (toll free)<br>
+    (888) 330-5008<br>
+    Direct:  +1 (208) 787-4300<br>
+</p>
+
+<p>
+    If you are not satisfied with our response to your concerns with our handling of your personal information, you may file a complaint regarding this Privacy Policy or our privacy practices by contacting us at the address provided above.  Additionally, you may file a complaint with EU data protection authorities (DPAs).  Please contact us to be directed to the appropriate DPA contact(s).
+</p>
+
 <hr>
-<h3>
-	9. Updating of Our Policy
-</h3>
+
 <p>
-	CityPASS will revise or update this Policy if our practices change, as we change existing services, add new services, or develop better ways to inform you of services we think will interest you. You should refer back to this page for the latest information and the effective date of any changes.
-</p>
-<hr>
-<h3>
-	10. Contacting Us
-</h3>
-<p>
-	If you have any questions, comments or concerns about this Policy, please <a href="http://support.citypass.com" target="_blank">contact us</a>. Or you can write to us at:
+    CityPASS is committed to the policies set forth in this Policy.
 </p>
 <p>
-	<strong>CityPASS, Inc.</strong><br>
-	Attn: Privacy Officer<br>
-	27 Arrow Root Lane<br>
-	Victor, Idaho 83455
-</p>
-<hr>
-<p>
-	CityPASS is committed to the policies set forth in this Policy.
+    Effective Date: May 25, 2018
 </p>
 <p>
-	Effective Date: February 2010
+    Read more at <a href="/privacy">https://www.citypass.com/privacy</a>
 </p>
 				
 				</div>
@@ -698,143 +862,254 @@ Once you enter the checkout page, your computer will begin communicating with ou
 	</div>
 	
 		</div><!-- /.main-content -->
+
+	<footer id="footer-global" class="footer-global">
+
+	<div class="navigation navigation--footer">
+	<div class="container">
 		
-		<footer id="footer-global" class="footer-global">
+<div class="navigation__inner">
+	<div class="navigation__header
+				js-accordion-toggle accordion-toggle">
+					<div class="navigation__header-title">
+				Destinations			</div>
+			</div>
+
+	<div class="navigation__body js-accordion-content accordion-content">
+		<ul class="menu-group menu-group--products">
 	
-	<div id="footer-city-row" class="city-row" load-class="city-row-bg">
-		<a href="/atlanta" id="atl-footer-icon" class="city-icon icon-atl " data-id="atl"></a>
-		<a href="/boston" id="bos-footer-icon" class="city-icon icon-bos " data-id="bos"></a>
-		<a href="/chicago" id="chi-footer-icon" class="city-icon icon-chi " data-id="chi"></a>
-		<a href="/dallas" id="dal-footer-icon" class="city-icon icon-dal " data-id="dal"></a>
-		<a href="/houston" id="hou-footer-icon" class="city-icon icon-hou " data-id="hou"></a>
-		<a href="/new-york-comparison" id="nyc-footer-icon" class="city-icon icon-nyc " data-id="nyc"></a>
-		<a href="/philadelphia" id="phl-footer-icon" class="city-icon icon-phl " data-id="phl"></a>
-		<a href="/san-francisco" id="sf-footer-icon" class="city-icon icon-sf " data-id="sf"></a>
-		<a href="/seattle" id="sea-footer-icon" class="city-icon icon-sea " data-id="sea"></a>
-		<a href="/southern-california" id="socal-footer-icon" class="city-icon icon-socal " data-id="socal"></a>
-		<a href="/tampa" id="tb-footer-icon" class="city-icon icon-tb " data-id="tb"></a>
-		<a href="/toronto" id="tor-footer-icon" class="city-icon icon-tor " data-id="tor"></a>
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/atlanta" title="Atlanta">
+				<span class="city-icon icon-atl "></span>
+				Atlanta			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/boston" title="Boston">
+				<span class="city-icon icon-bos "></span>
+				Boston			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/chicago" title="Chicago">
+				<span class="city-icon icon-chi "></span>
+				Chicago			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/dallas" title="Dallas">
+				<span class="city-icon icon-dal "></span>
+				Dallas			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/denver" title="Denver">
+				<span class="city-icon icon-den "></span>
+				Denver			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/houston" title="Houston">
+				<span class="city-icon icon-hou "></span>
+				Houston			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/new-york-comparison" title="New York City">
+				<span class="city-icon icon-nyc "></span>
+				New York City			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/philadelphia" title="Philadelphia">
+				<span class="city-icon icon-phl "></span>
+				Philadelphia			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/san-francisco-comparison" title="San Francisco">
+				<span class="city-icon icon-sf "></span>
+				San Francisco			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/seattle" title="Seattle">
+				<span class="city-icon icon-sea "></span>
+				Seattle			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/southern-california" title="Southern California">
+				<span class="city-icon icon-socal "></span>
+				Southern California			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/tampa" title="Tampa Bay">
+				<span class="city-icon icon-tb "></span>
+				Tampa Bay			</a>
+		</li>
+
+	
+		<li class="menu-group__item">
+			<a class="" href="https://www.citypass.com/toronto" title="Toronto">
+				<span class="city-icon icon-tor "></span>
+				Toronto			</a>
+		</li>
+
+	</ul>
+	</div>
+</div>
 	</div>
 
+	<a class="navigation__back-to-top js-scroll-to" data-scroll-to="body" href="#" title="Back to Top">
+		Back to Top	</a>
+</div>
+
 	<div class="footer-content-row">
-	  <div class="footer-container">
-	      <div class="footer-content footer-customer-care">
-	        <div class="footer-header">Customer Care</div>
-	        <dl class="indent-block icon-phone customer-care-numbers">
-	          <div class="footer-border-left">
-	            <dt>US &amp; Canada</dt>
-	            <dd id="phone-tollfree">(888) 330-5008</dd>
+		<div class="footer-container">
+			<div class="footer-content footer-customer-care">
+				<div class="footer-header">Customer Care</div>
+				<dl id="customer-care-numbers" class="indent-block icon-phone customer-care-numbers">
+					<div class="footer-border-left">
+						<dt>US &amp; Canada</dt>
+						<dd id="phone-tollfree">(888) 330-5008</dd>
 
-	            <dt>Direct</dt>
-	            <dd id="phone-intl">+1 (208) 787-4300</dd>
+						<dt>Direct</dt>
+						<dd id="phone-intl">+1 (208) 787-4300</dd>
 
-	            <dt>UK</dt>
-	            <dd id="phone-uk">(020) 3287 8369</dd>
+						<dt>UK</dt>
+						<dd id="phone-uk">(020) 3287 8369</dd>
 
-	            <dt>Mexico</dt>
-	            <dd id="phone-mx">55 4169 2589</dd>
+						<dt>Mexico</dt>
+						<dd id="phone-mx">55 4169 2589</dd>
 
-	            <dt>Australia</dt>
-	            <dd id="phone-au">(02) 8005 5729</dd>
-	          </div>
-	        </dl>
-	        <div class="support-details">
-			 <span>7 Days a Week, 9am-7pm Eastern Time</span>
-	          <span><a class="js-modal-link full-url-modal" href="/load-84ecf30/load-holiday-hours">Holiday Hours</a></span>
-	        </div>
-	        <div class="support-button">
-	          <button id="btn-support" onclick="location.href='http://support.citypass.com';" type="button" class="btn btn-md btn-info indent-block icon-bubbles2 btn-support">Support Center</button>
-	        </div>
-	      </div>
-	      <div class="footer-content footer-company">
-	        <div class="footer-header js-accordion-toggle accordion-toggle">Company</div>
-	        <ul class="js-accordion-content accordion-content">
-	          <li><a href="/articles">CityPASS Blog</a></li>
-	          <li><a href="/about">About Us</a></li>
-	          <li><a href="/contact">Contact Us</a></li>
-	          <li><a href="/groups">Group Information</a></li>
-	          <li><a href="/site-map">Site Map</a></li>
-	          <li><a href="/reviews">CityPASS Reviews</a></li>
-	          <li><a href="http://support.citypass.com">FAQ</a></li>
-	          <li><a href="/shipping">Shipping Details</a></li>
-	          <li><a href="/return-policy">365 Day Return Policy</a></li>
-	          <li><a href="/privacy">Privacy &amp; Security</a></li>
-								
-	        </ul>
-	      </div>
-	      <div class="footer-content footer-partners">
-		      <div class="footer-header js-accordion-toggle accordion-toggle" id="media-accordion-header">Media</div>
-		      <ul class="js-accordion-content accordion-content" id="media-accordion-options">
-			      <li class="media-accordion-option"><a href="/media-room">Media Room</a></li>
-			      <li class="media-accordion-option"><a href="/media-room/media-request">Media Comps</a></li>
-			      <li class="media-accordion-option"><a href="/media-room/citypass-in-the-news">CityPASS In The News</a></li>
-		      </ul>
-		      <div class="footer-content">
-                  <div class="footer-header js-accordion-toggle accordion-toggle">Partners</div>
-                  <ul class="js-accordion-content accordion-content">
-                      <li><a href="/partners/affiliates">Affiliate Program</a></li>
-                      <li><a href="/partners/travel-trade">Travel Trade</a></li>
-                      <li><a href="https://partner.citypass.com/login.aspx">Attraction Login</a></li>
-                      <li><a load-class="discover-america" href="https://www.visittheusa.com" target="_blank"></a></li>
-                  </ul>
-              </div>
-	      </div>
-	      <div class="footer-content footer-news">
-	        <div class="footer-news-section">
-	          <div class="footer-header">News &amp; Updates</div>
-	          <form id="news-signup" class="form-inline fn-validate-form" novalidate="" role="form" action="javascript:;">
-	            <div class="form-group">
-	              <input type="email" class="form-control" id="news-email" placeholder="Email address">
-	            </div>
-	            <button type="submit" class="btn btn-info"><span class="icon-arrow-right2"></span></button>
-                <div class="footer-email-note special-email-policy">
-                    <a href="/load-84ecf30/load-email-policy" class="js-modal-link full-url-modal">Learn more about what you'll receive from us</a>
-                </div>
+						<dt>Australia</dt>
+						<dd id="phone-au">(02) 8005 5729</dd>
+					</div>
+				</dl>
+				<div class="support-details">
+					<span>7 Days a Week						, 9am-7pm Eastern Time</span>
+					<span><a class="js-modal-link full-url-modal" href="https://s1.citypass.net/load-652b7bd/load-holiday-hours?lang=en">Holiday Hours</a></span>
+				</div>
+				<div class="support-button">
+
+					<a id="btn-support" href="https://support.citypass.com" class="btn btn-md btn-info indent-block icon-bubbles2 btn-support">Support Center</a>
+
+				</div>
+			</div>
+			<div class="footer-content footer-company">
+				<div class="footer-header js-accordion-toggle accordion-toggle">Company</div>
+				<ul class="js-accordion-content accordion-content">
+					<li><a href="/articles">CityPASS Blog</a>
+					</li>
+					<li><a href="/about">About Us</a></li>
+					<li><a href="/contact">Contact Us</a></li>
+					<li><a href="/groups">Group Information</a></li>
+					<li><a href="/site-map">Site Map</a></li>
+					<li><a href="/reviews">CityPASS Reviews</a></li>
+					<li><a href="https://support.citypass.com">FAQ</a>
+					</li>
+					<li><a href="/shipping">Shipping Details</a></li>
+					<li><a href="/return-policy">365 Day Return Policy</a></li>
+					<li><a href="/privacy">CityPASS Privacy Policy</a></li>
+					
+				</ul>
+			</div>
+			<div class="footer-content footer-partners">
+				<div class="footer-header js-accordion-toggle accordion-toggle" id="media-accordion-header">Media</div>
+				<ul class="js-accordion-content accordion-content" id="media-accordion-options">
+					<li class="media-accordion-option">
+						<a href="//assets.citypass.com">
+							Media Room						</a>
+					</li>
+					<li class="media-accordion-option">
+						<a href="/media-room/media-releases">
+							Media Release Archive						</a>
+					</li>
+					<li class="media-accordion-option">
+						<a href="/media-room/media-signup">
+							Press Release Sign-up						</a>
+					</li>
+				</ul>
+				<div class="footer-content">
+					<div class="footer-header js-accordion-toggle accordion-toggle">Partners</div>
+					<ul class="js-accordion-content accordion-content">
+						<li><a href="/partners/affiliates">Affiliate Program</a></li>
+						<li><a href="/partners/travel-trade">Travel Trade</a></li>
+						<li><a href="https://partner.citypass.com/login.aspx">Attraction Login</a>
+						</li>
+						<li><a load-class="discover-america" href="https://www.visittheusa.com" target="_blank"></a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="footer-content footer-news">
+				<div class="footer-news-section">
+					<div class="footer-header">News &amp; Updates</div>
+					<form id="news-signup" class="form-inline fn-validate-form" novalidate="" role="form" action="javascript:;">
+						<div class="form-group">
+							<input type="email" class="form-control" id="news-email" placeholder="Email address">
+						</div>
+						<button type="submit" class="btn btn-info"><span class="icon-arrow-right2"></span></button>
+						<div class="footer-email-note special-email-policy">
+							<a href="https://s1.citypass.net/load-652b7bd/load-email-policy?lang=en" class="js-modal-link full-url-modal">Learn more about what you'll receive from us</a>
+						</div>
 
 
-	          </form>
-			  <div id="news-confirm" class="news-confirm">Thank you for subscribing</div>
-	        </div>
-	        <div class="footer-social-section">
-	          <div class="footer-header">Stay Connected</div>
-	          <div class="footer-social-icons">
-	            <a href="http://www.facebook.com/citypass" target="_blank" class="footer-social-link"><span class="icon-facebook"></span></a>
-	            <a href="http://www.pinterest.com/citypass" target="_blank" class="footer-social-link"><span class="icon-pinterest"></span></a>
-	            <a href="http://www.twitter.com/citypass" target="_blank" class="footer-social-link"><span class="icon-twitter"></span></a>
-	            <a href="https://plus.google.com/114197467531284798719" target="_blank" class="footer-social-link"><span class="icon-google-plus"></span></a>
-	            <a href="http://instagram.com/citypass" target="_blank" class="footer-social-link"><span class="icon-instagram"></span></a>
-	            <a href="http://www.youtube.com/citypass" target="_blank" class="footer-social-link"><span class="icon-youtube"></span></a>
-	          </div>
-	        </div>
-            <div class="footer-anniversary">
-                <span class="img-onscroll" load-src="http://s1.citypass.net/img-84ecf30/logos/logo-anniversary-footer.png" load-alt="20 Years"></span>
-            </div>
-	      </div>
-	  </div>  
-
-	  <div class="footer-base-row">
-	    <div class="col-sm-4 norton copyrights verisign" title="Click to Verify - This site uses VeriSign SSL for secure e-commerce and confidential communications.">			
-	      <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.citypass.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
-	    </div>
-	    <div class="col-sm-4 copyrights credit-cards">
-			<div class="credit-card-row">
-				<span class="icon-cc-visa"></span>
-				<span class="icon-cc-mastercard"></span>
-		        <span class="icon-cc-amex"></span>
-				<span class="icon-cc-discover"></span>
-				<span class="icon-cc-unionpay"></span>
-				<span class="icon-cc-amazon"></span>
-		        <span class="icon-cc-paypal"></span>
-		    </div>
-			<div>
-			© 2017 City Pass, Inc. All rights reserved.<br>CityPASS® is a registered trademark of City Pass, Inc.	    	</div>
-			<div class="referral"></div>
+					</form>
+					<div id="news-confirm" class="news-confirm">Thank you for subscribing</div>
+				</div>
+				<div class="footer-social-section">
+					<div class="footer-header">Stay Connected</div>
+					<div class="footer-social-icons">
+						<a href="https://www.facebook.com/citypass" target="_blank" class="footer-social-link"><span class="icon-facebook"></span></a>
+						<a href="https://www.pinterest.com/citypass/" target="_blank" class="footer-social-link"><span class="icon-pinterest"></span></a>
+						<a href="https://twitter.com/citypass" target="_blank" class="footer-social-link"><span class="icon-twitter"></span></a>
+						<a href="https://plus.google.com/114197467531284798719" target="_blank" class="footer-social-link"><span class="icon-google-plus"></span></a>
+						<a href="https://www.instagram.com/citypass/" target="_blank" class="footer-social-link"><span class="icon-instagram"></span></a>
+						<a href="https://www.youtube.com/citypass" target="_blank" class="footer-social-link"><span class="icon-youtube"></span></a>
+					</div>
+				</div>
+				<div class="footer-anniversary">
+					<span class="img-onscroll" load-src="https://s1.citypass.net/img-652b7bd/logos/logo-anniversary-footer.png" load-alt="20 Years"></span>
+				</div>
+			</div>
 		</div>
-		  			  <div id="load_google_translate" class="col-sm-4 google-translate copyrights">
-			  	<div load-class="google-translate-logo"></div>
-			  </div>
-		
-	  </div>
+
+		<div class="footer-base-row">
+			<div class="col-sm-4 norton copyrights verisign" title="Click to Verify - This site uses VeriSign SSL for secure e-commerce and confidential communications.">
+				<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.citypass.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
+			</div>
+			<div class="col-sm-4 copyrights credit-cards">
+				<div class="credit-card-row">
+					<span class="icon-cc-visa"></span>
+					<span class="icon-cc-mastercard"></span>
+					<span class="icon-cc-amex"></span>
+					<span class="icon-cc-discover"></span>
+					<span class="icon-cc-unionpay"></span>
+					<span class="icon-cc-amazon"></span>
+					<span class="icon-cc-paypal"></span>
+				</div>
+				<div>
+					© 2018 City Pass, Inc. All rights reserved.<br>CityPASS® is a registered trademark of City Pass, Inc.				</div>
+				<div class="referral"></div>
+			</div>
+							<div id="load_google_translate" class="col-sm-4 google-translate copyrights">
+					<div load-class="google-translate-logo"></div>
+				</div>
+			
+		</div>
 	</div>
 </footer>
 <div id="locale-selector-contents" class="locale-selector-contents">
@@ -848,32 +1123,32 @@ Once you enter the checkout page, your computer will begin communicating with ou
 			<span class="locale-code" data-id="en">English</span>
 		</div>
 	
-			<a class="language-item" href="http://de.citypass.com/privacy" title="Deutsch" onclick="window.optimizely.push(['trackEvent', 'opt_changelanguage']);">
+			<a class="language-item" href="https://de.citypass.com/privacy" title="Deutsch" onclick="window.optimizely.push({ type: 'event', eventName: 'opt_changelanguage' });">
 				<div class="flag flag-de"></div>
 				<div class="locale-code" data-id="de">Deutsch</div>
 			</a>
 	
-			<a class="language-item" href="http://es.citypass.com/privacy" title="Español" onclick="window.optimizely.push(['trackEvent', 'opt_changelanguage']);">
+			<a class="language-item" href="https://es.citypass.com/privacy" title="Español" onclick="window.optimizely.push({ type: 'event', eventName: 'opt_changelanguage' });">
 				<div class="flag flag-es"></div>
 				<div class="locale-code" data-id="es">Español</div>
 			</a>
 	
-			<a class="language-item" href="http://fr.citypass.com/privacy" title="Français" onclick="window.optimizely.push(['trackEvent', 'opt_changelanguage']);">
+			<a class="language-item" href="https://fr.citypass.com/privacy" title="Français" onclick="window.optimizely.push({ type: 'event', eventName: 'opt_changelanguage' });">
 				<div class="flag flag-fr"></div>
 				<div class="locale-code" data-id="fr">Français</div>
 			</a>
 	
-			<a class="language-item" href="http://it.citypass.com/privacy" title="Italiano" onclick="window.optimizely.push(['trackEvent', 'opt_changelanguage']);">
+			<a class="language-item" href="https://it.citypass.com/privacy" title="Italiano" onclick="window.optimizely.push({ type: 'event', eventName: 'opt_changelanguage' });">
 				<div class="flag flag-it"></div>
 				<div class="locale-code" data-id="it">Italiano</div>
 			</a>
 	
-			<a class="language-item" href="http://pt.citypass.com/privacy" title="Português" onclick="window.optimizely.push(['trackEvent', 'opt_changelanguage']);">
+			<a class="language-item" href="https://pt.citypass.com/privacy" title="Português" onclick="window.optimizely.push({ type: 'event', eventName: 'opt_changelanguage' });">
 				<div class="flag flag-pt"></div>
 				<div class="locale-code" data-id="pt">Português</div>
 			</a>
 	
-			<a class="language-item" href="http://zh.citypass.com/privacy" title="中文" onclick="window.optimizely.push(['trackEvent', 'opt_changelanguage']);">
+			<a class="language-item" href="https://zh.citypass.com/privacy" title="中文" onclick="window.optimizely.push({ type: 'event', eventName: 'opt_changelanguage' });">
 				<div class="flag flag-zh"></div>
 				<div class="locale-code" data-id="zh">中文</div>
 			</a>
@@ -882,30 +1157,39 @@ Once you enter the checkout page, your computer will begin communicating with ou
 </div>
 
 	</div><!-- /.page -->
-	
-	<!--[if (lt IE 8) & (!IEMobile)]>
-	<script src="/js-84ecf30/lib/json2.min.js"></script>
-	<![endif]-->
+
+	<div id="overlay-container">
+		<div class="cookie-notice">
+	<div class="cookie-notice__body">
+		<p>
+			We use cookies to give you the best possible experience on our site. For more information, please refer to our <a title="Privacy Policy" href="/privacy">Privacy Policy</a>. By continuing to browse, you consent to our use of cookies. 		</p>
+
+		<a href="#" class="cookie-notice__accept btn btn-xs btn-info">
+			Continue		</a>
+	</div>
+</div>
+	</div>
 
 	<script>
-		
-	 	var cartUrl = "https://www.citypass.com/checkout";
-		
-		var cssDir = "/css-84ecf30";
-		var feedDir = "/feed-84ecf30";
-		var jsDir = "/js-84ecf30";
-		var loadDir = "/load-84ecf30";
-		var loadnocacheDir = "/loadnocache-84ecf30";
-				
+		var cartUrl = "https://www.citypass.com/checkout";
+
+		var cssDir = "https://s1.citypass.net/css-652b7bd";
+		var feedDir = "/feed-652b7bd";
+		var jsDir = "https://s1.citypass.net/js-652b7bd";
+		var loadDir = "https://s1.citypass.net/load-652b7bd";
+		var loadnocacheDir = "/loadnocache-652b7bd";
+
 		var testing = true;
-		
+
 		var cartQtyMsg = "You must \"select\" a quantity.";
 		var cartQtyNumberMsg = "Quantity must be a number.";
 		var cookiesDisabledMsg = "Cookies must be enabled on your browser in order to purchase from citypass.com.  To enable cookies, update the setting on your browser to accept cookies and refresh the page.";
 		var emailRequiredMsg = "Email address is required.";
 		var emailInvalidMsg = "Please enter a valid email address.";
 	</script>
-	<script src="/js-84ecf30/global.min.js"></script>
+
+	<script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+	<script src="https://s1.citypass.net/js-652b7bd/global.js"></script>
 	<script>
 		
 		if (typeof inpageTranslate != 'undefined') {
@@ -919,44 +1203,24 @@ Once you enter the checkout page, your computer will begin communicating with ou
 				}
 			});
 		}
-			
-		//TODO: move to global.js
-		$(document).ready(function initModalsOnDocumentReady() {
-			initModals();
-		});
-	</script>
+		</script>
 
 	
-    <script>
-        performanceAPIMark('mark_js');
-        performanceAPIMeasure('measure_css_to_js', 'mark_css', 'mark_js');
-    </script>
-	
+	<script>
+		performanceAPIMark('mark_js');
+		performanceAPIMeasure('measure_css_to_js', 'mark_css', 'mark_js');
+	</script>
+
 	<!-- TRACKING -->
 	
 	<script type="text/javascript">
 	var axel = Math.random() + "";
 	var a = axel * 10000000000000;
 	document.write('<iframe src="//4351156.fls.doubleclick.net/activityi;src=4351156;type=Gener-;cat=CityP--;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-	</script><iframe src="//4351156.fls.doubleclick.net/activityi;src=4351156;type=Gener-;cat=CityP--;ord=997219693081.7323?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+	</script><iframe src="//4351156.fls.doubleclick.net/activityi;src=4351156;type=Gener-;cat=CityP--;ord=7755883906211.1455?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 	<noscript>
 	<iframe src="//4351156.fls.doubleclick.net/activityi;src=4351156;type=Gener-;cat=CityP--;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 	</noscript>
-<script type="text/javascript">
-	;(function (g) {
-		var d = document, i, am = d.createElement('script'), h = d.head || d.getElementsByTagName("head")[0],
-				aex = {
-					"src": "//gateway.answerscloud.com/citypass/production/gateway.min.js",
-					"type": "text/javascript",
-					"async": "true",
-					"data-vendor": "acs",
-					"data-role": "gateway"
-				};
-		for (var attr in aex) { am.setAttribute(attr,aex[attr]); }
-		h.appendChild(am);
-		g['acsReady'] = function () {var aT = '__acsReady__', args = Array.prototype.slice.call(arguments, 0),k = setInterval(function () {if (typeof g[aT] === 'function') {clearInterval(k);for (i = 0; i < args.length; i++) {g[aT].call(g, function(fn) { return function() { setTimeout(fn, 1) };}(args[i]));}}}, 50);};
-	})(window);
-</script>
 
 
 	
@@ -971,24 +1235,10 @@ Once you enter the checkout page, your computer will begin communicating with ou
 			window.CPBase.errors.logJSError('Onload', window.CPBase.errors.cpJSErrorsArr[i]);
 		}
 
-//		window.onerror = function(errMsg, errUrl, errLine, errColumn, errObj) {
-//			window.CPBase.errors.logJSError('User', { 'msg' : errMsg, 'url' : errUrl, 'line' : errLine, 'column' : errColumn, 'exception' : errObj });
-//			return false;
-//		};
-
 		var pageLoadedElapsedTime = new Date().getTime() - pageLoadStartTime;
-		$(document).ready(function() {
-//			window.CPBase.errors.logEvent('trackEvent'
-//					, 'Page_Timing'
-//					, 'Document Ready.'
-//					, { value: new Date().getTime() - pageLoadStartTime,
-//                        pageLoadedElapsedTime: pageLoadedElapsedTime
-//                      }
-//			);
-		});
 	</script>
 
-	<!-- 2017-09-07 08:39:52 MDT -->
+	<!-- 2018-10-12 08:11:19 MDT -->
 
 
 </body></html>
