@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acton.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627101919id_/https%3A//acton.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acton.org privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012200822id_/https%3A//acton.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use | Acton Institute
 
