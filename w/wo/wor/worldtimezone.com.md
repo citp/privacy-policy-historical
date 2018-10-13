@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldtimezone.com privacy policy that was archived on 2018-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180331214429id_/https%3A//www.worldtimezone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtimezone.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013050511id_/https%3A//www.worldtimezone.com/privacy.html) for the most accurate reproduction.*
 
 # Web Site Disclaimer and Privacy Statement for WorldTimeZone.com
 
@@ -18,10 +18,10 @@ No personal information is collected by WorldTimeZone.com from visitors to our w
 **Advertisers and Cookies**  
 WorldTimeZone.com use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.   
   
-**Compliance with NAI principles** [ ](http://www.networkadvertising.org/managing/opt_out.asp)  
-Some of third-party advertising companies are members of the Network Advertising Initiative (NAI), which offers a single location to opt out of their cookies. Please visit the [NAI](http://www.networkadvertising.org/managing/opt_out.asp) (Network Advertising Initiative) website to review the most up-to-date policies.
+**Compliance with NAI principles** [ ](https://www.networkadvertising.org/managing/opt_out.asp)  
+Some of third-party advertising companies are members of the Network Advertising Initiative (NAI), which offers a single location to opt out of their cookies. Please visit the [NAI](https://www.networkadvertising.org/managing/opt_out.asp) (Network Advertising Initiative) website to review the most up-to-date policies.
 
-If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
+If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.google.com/privacy_ads.html). 
 
 WorldTimeZone.com cannot guarantee the content and/or availability of advertiser's products and services or be held responsible for any sweepstakes, sweepstakes results or banner ad which may award prizes.   
 Users who participate in these activities do so at their own risk and must work directly with the advertiser to claim any award. 
