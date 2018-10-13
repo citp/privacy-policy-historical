@@ -1,0 +1,772 @@
+<!--The following is the downloaded HTML source of the calmclinic.com privacy policy that was archived on 2018-10-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181013231152id_/https%3A//www.calmclinic.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Privacy Policy</title>
+		<link rel="canonical" href="https://www.calmclinic.com/privacy-policy">
+				<!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+					<link href="/pub/src/css/bootstrap.css" rel="stylesheet" type="text/css">
+					<link href="/pub/src/css/fonts.css" rel="stylesheet" type="text/css">
+					<link href="/pub/src/css/main.css?v=1533551694" rel="stylesheet" type="text/css">
+					<link href="/pub/src/css/visual.css" rel="stylesheet" type="text/css">
+					<link href="/pub/src/css/header.css?v=1518499889" rel="stylesheet" type="text/css">
+				<!-- Start Visual Website Optimizer Asynchronous Code -->
+<script id="ANXT" async="" src="/pub/anxt/init.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+var _vwo_code=(function(){
+var account_id=21776,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+/* DO NOT EDIT BELOW THIS LINE */
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=21776&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20181013231152id_%2Fhttps%253A%2F%2Fwww.calmclinic.com%2Fprivacy-policy&amp;r=0.23895387451378025" type="text/javascript"></script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
+	<link id="cdnjs-cloudflare-com-ajax-libs-cookieconsent2-3-0-3-cookieconsent-min-css" rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css"><script id="cdnjs-cloudflare-com-ajax-libs-cookieconsent2-3-0-3-cookieconsent-min-js" async="" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script><script id="twitter-wjs" async="" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/sdk.js"></script><script id="google-apis-platform" async="" src="//apis.google.com/js/platform.js"></script><script id="my-hellobar-com-aa1d79dc1b525474b5fe56f4563102b85fa84e44-js" async="" src="//my.hellobar.com/aa1d79dc1b525474b5fe56f4563102b85fa84e44.js"></script></head>
+    <body>
+		<script>
+	(function () {
+
+		if (!Array.isArray) {
+			Array.isArray = function (arg) {
+				return Object.prototype.toString.call(arg) === '[object Array]';
+			};
+		}
+
+		function callAll() {
+			var args = Array.prototype.slice.call(arguments);
+			var callbacks = args.shift(0);
+			if (callbacks) {
+				if (Array.isArray(callbacks)) {
+					for (i in callbacks) {
+						callbacks[i].apply(this, args);
+					}
+				} else {
+					callbacks.apply(this, args);
+				}
+			}
+		}
+
+		var Deferred = (function (w, d) {
+			var i, fns = [], late = false,
+					raf = w.requestAnimationFrame || w.mozRequestAnimationFrame ||
+					w.webkitRequestAnimationFrame || w.msRequestAnimationFrame;
+			if (raf) {
+				raf(function () {
+					App.debug('Deferred: raf');
+					w.setTimeout(_exec, 0);
+				});
+			} else {
+				w.addEventListener('load', _exec, true);
+			}
+			function _exec() {
+				for (i in fns) {
+					fns[i]();
+				}
+				late = true;
+				delete fns;
+			}
+			return {
+				exec: function (callback) {
+					!late ? fns.push(callback) : console.error('Late, function will not be executed: ' + callback);
+				}
+			};
+		})(window, document);
+		var Loader = (function (w, d) {
+			function _load(o, callback) {
+				var el;
+				if (el = d.getElementById(o.id)) {
+					callAll(o.success, o, el);
+				} else {
+					el = callback(o);
+					if (o.success) {
+						el.onload = function (e) {
+							callAll(o.success, o, el);
+						};
+					}
+					el.onerror = function (e) {
+						if (o.fail) {
+							callAll(o.fail, o, el);
+						} else {
+							throw new Error('Failed to load: ' + o.url);
+						}
+					};
+					if (o.body) {
+						d.body.appendChild(el);
+					} else {
+						d.head.appendChild(el);
+					}
+
+				}
+			}
+			return {
+				fix: function (o) {
+					!o.url && (o = {url: o});
+					!o.id && (o.id = o.url.replace(/[^-_a-z0-9]/ig, '-').replace(/^(?:https?)?-*|-*$/g, ''));
+					return o;
+				},
+				loadStyle: function (o) {
+					o = this.fix(o);
+					_load(o, function (o) {
+						var el = d.createElement('link');
+						el.id = o.id;
+						el.rel = 'stylesheet';
+						el.type = 'text/css';
+						el.href = o.url;
+						return el;
+					});
+				},
+				loadScript: function (o) {
+					o = this.fix(o);
+
+					_load(o, function (o) {
+						var el = d.createElement('script');
+						el.id = o.id;
+						el.async = !!o.async;
+						el.defer = !!o.defer;
+						el.src = o.url;
+						return el;
+					});
+
+				}
+			}
+		})(window, document);
+		var i, callbacks = {};
+
+		App = window.App || {};
+
+		window.addEventListener('load', function () {
+			App.debug('callbacks.load');
+			callAll(callbacks.load);
+			delete callbacks.load;
+		}, true);
+
+		//App.mod = 'debug';
+		App.debug = function () {
+			if (App.mod == 'debug') {
+				//var args = Array.prototype.slice.call(arguments);
+				//console[args.shift(0)].apply(this, args);
+				console.log.apply(this, Array.prototype.slice.call(arguments));
+			}
+		};
+		App.deferred = function (callback) {
+			Deferred.exec(callback);
+		}
+		App.load = function (callback) {
+			!callbacks.load && (callbacks.load = []);
+			callbacks.load.push(callback);
+		};
+		App.loadScript = function (obj) {
+			Loader.loadScript(obj);
+		}
+		App.loadStyle = function (obj) {
+			Loader.loadStyle(obj);
+		}
+
+		//App.deferred(function () {
+		//	App.debug('load deferred-styles');
+		//	var addStylesNode = document.getElementById("deferred-styles");
+		//	var replacement = document.createElement("div");
+		//	replacement.innerHTML = addStylesNode.textContent;
+		//	document.body.appendChild(replacement);
+		//	addStylesNode.parentElement.removeChild(addStylesNode);
+		//});
+
+	})();
+</script>
+		<script>
+	(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r;
+		i[r] = i[r] || function () {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date();
+		a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', 'UA-45824178-1', 'auto');
+	ga('send', 'pageview');
+</script>
+		<div id="page">
+			<header id="page-header">
+	<div class="top-bar">
+		<div class="wrapping">
+			<a href="/" class="logo"></a>
+			<div class="search-block background-img-search">
+				<a href="#" class="opener"></a>
+				<div class="slide">
+					<div class="wrap">
+						<form class="search-form" action="/search" data-pre-search="/pre-search" autocomplete="off">
+							<div class="cover">
+								<input type="text" name="q" placeholder="Search...">
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+			<nav class="navigation">
+				<ul>
+					<li class="hide-1020">
+						<a href="/all-articles" class="has-drop-a">ARTICLES</a>
+						<div class="drop">
+							<ul>
+			<li><a href="/panic/treatment/panic-scale"><span>Rate Your Panic Attacks With This Severity Scale</span></a></li>
+			<li><a href="/anxiety/symptoms/urinary-difficulties"><span>When Anxiety Leads to Urinary Problems</span></a></li>
+			<li><a href="/anxiety/attacks/home-remedies"><span>Best Home Remedies for Anxiety and Panic Attacks</span></a></li>
+			<li><a href="/anxiety/attacks/how-to-tell"><span>How To Tell If You Are Having an Anxiety Attack</span></a></li>
+			<li><a href="/anxiety-symptoms/fatigue"><span>Anxiety Fatigue and How it Affects Modern Living</span></a></li>
+			<li><a href="/anxiety/drugs/yohimbe-niacinamide"><span>The Dangers (and Benefits) of Yohimbe Niacinamide as Treatment for Anxiety</span></a></li>
+			<li><a href="/anxiety/symptoms/affected-blood-pressure"><span>How Anxiety Affects Blood Pressure</span></a></li>
+			<li><a href="/anxiety/anxiety-in-the-bible"><span>Anxiety In The Bible</span></a></li>
+			<li><a href="/anxiety/types/chronic-anxiety"><span>Chronic Anxiety - Causes and Options for Treatment</span></a></li>
+			<li><a href="/anxiety/types/during-perimenopause"><span>How to Handle Anxiety During Perimenopause</span></a></li>
+		<li><a href="/all-articles"><span>» More Latest Articles</span></a></li>
+</ul>						</div>
+					</li>
+					<li class="hide-1020"><a href="/contact">CONTACT US</a></li>
+					<li class="hide-1020"><a href="/about">ABOUT US</a></li>
+					<li class="hide-520"><a href="/anxiety-test/">ANXIETY TEST</a></li>
+					<li class="nav-opener show-1020"><a href="javascript:void(0);"></a>
+						<div class="drop right">
+							<div class="wrap">
+								<div id="d-additional-bar" class="clearfix">
+									<a class="item" href="/anxiety-guide">What is Anxiety</a>
+									<a class="item" href="/anxiety-guide/symptoms">Symptoms</a>
+									<a class="item" href="/anxiety-guide/causes">Causes</a>
+									<a class="item" href="/anxiety-guide/help-options">What to do?</a>
+								</div>
+								<div id="d-top-bar" class="clearfix">
+									<a class="item" href="/all-articles">Articles</a>
+									<a class="item" href="/contact">Contact Us</a>
+									<a class="item" href="/about">About Us</a>
+									<a class="item show-520 green" href="/anxiety-test/">Anxiety test</a>
+								</div>
+								<div class="social-wrap show-800 clearfix">
+									<a target="_blank" href="//plus.google.com/113862485121347320352" class="google clearfix _popup"></a>
+									<a target="_blank" href="//www.facebook.com/calmclinic" class="facebook clearfix _popup"></a>
+									<a target="_blank" href="//twitter.com/CalmClinic" class="twitter clearfix _popup"></a>
+								</div>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+			<div class="holder hide-800">
+			<div class="wrapping">
+				<nav class="menu">
+					<ul>
+						<li><a href="/anxiety-guide">What is Anxiety</a></li>
+						<li><a href="/anxiety-guide/symptoms">Symptoms</a></li>
+						<li><a href="/anxiety-guide/causes">Causes</a></li>
+						<li><a href="/anxiety-guide/help-options">What to do?</a></li>
+						<li class="hide-1020"><a href="/anxiety-guide/treatments">Types of Treatments</a></li>
+
+					</ul>
+				</nav>
+				<div class="follow-block">
+					<strong>Follow us on</strong>
+					<ul class="social-networks">
+						<li><a target="_blank" href="//twitter.com/CalmClinic" class="twitter _popup"></a></li>
+						<li><a target="_blank" href="//www.facebook.com/calmclinic" class="facebook _popup"></a></li>
+						<li><a target="_blank" href="//plus.google.com/113862485121347320352" class="google _popup"></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</header>
+			<div class="main container wrapping">
+				<div id="article" class="row main-holder">
+					<div class="social-sidebar">
+													<div class="cover">
+								<!--? /* new Widget\PageCountViews0($page)  new Widget\PageCountViews($page) */
+?-->
+							</div>
+												<span class="share-title">Share with your friends:</span>
+						<ul class="social-networks">
+														<li><a target="_blank" href="https://twitter.com/intent/tweet?url=https://www.calmclinic.com/privacy-policy&amp;text=Calm Clinic" class="twitter"></a></li>
+							<li><a target="_blank" href="https://www.facebook.com/sharer.php?u=https://www.calmclinic.com/privacy-policy" class="facebook _popup"></a></li>
+						</ul>
+					</div>
+					<div id="article-wrap">
+						<div class="category">
+							<div class="wrap">
+								<strong class="left">Privacy Policy</strong>
+								<strong class="right">SHARE</strong>
+							</div>
+							<div class="arrow"></div>
+						</div>
+						<h1>Privacy Policy</h1>
+						<article id="content">
+																																					<p>This Privacy Policy provides general information regarding how the personal data of users is collected on the website www.calmclinic.com (hereinafter referred to as Calmclinic, we). More detailed information may be provided at the request of the user (data subject).</p>
+
+<p>Calmclinic acknowledges that the protection of personal data is important to you, our clients, and is therefore committed to respect and protect the privacy of each data subject. Data subjects trust us in our personal information and we are responsible for working every day to justify their trust.</p>
+
+<p>Calmclinic ensures:</p>
+
+<ul>
+<li>processing of personal data in accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (hereinafter referred to as - General Data Protection Regulation) and other applicable law the requirements of the Acts;</li>
+<li>implementation of appropriate technical and organizational measures to protect personal data from unauthorized access, disclosure, accidental loss, alteration or destruction or any other unlawful processing;</li>
+<li>implementation of the rights of the data subject;</li>
+<li>that personal data is stored in such a way that the identity of the data subjects can be determined for no longer than it is necessary for the purposes for which the data was collected and processed;</li>
+<li>only personal data that is necessary for each particular purpose of data processing is processed.</li>
+</ul>
+
+<h2 id="why-are-we-collecting-your-personal-data">Why are we collecting your personal data?</h2>
+
+<p>On the website www.calmclinic.com we provide users with informational services - articles, tests and information materials on health and other topics. In order to properly provide these services, to fulfill the legal and tax obligations applicable to us, as well as to carry out direct marketing, we collect your personal data. The information we collect about you depends on the information you provide to us when ordering services, whether you sign up to our website, as well as, what services you order or use.</p>
+
+<h2 id="what-personal-data-are-we-collecting">What personal data are we collecting?</h2>
+
+<p>Depending on your actions taken on our website, we ask you to provide the following personal data that we collect: gender, area for which the user requests information (sleep, distrust, anxiety, frightening thoughts, fear for health, etc.), name, surname, e-mail, country, user’s results and choices that had been made during the test on the user's website.</p>
+
+<p>We also collect anonymized website usage data such as click data, pages visited and so on.</p>
+
+<p>We inform you that to use our web site and to receive certain services provided by us you can choose to remain an anonymous user and not provide any personally identifiable data like name, email, etc. In this case, we do not collect your personal data in any form.</p>
+
+<p>In order to provide you with some services, you must provide us with more information about yourself, such as email, name, surname, country, also you have to create an account. We note that your personal data is being inputted by you, so you are solely responsible for the accuracy of this data.</p>
+
+<h2 id="can-you-disagree-with-the-processing-of-your-personal-data">Can you disagree with the processing of your personal data?</h2>
+
+<p>We inform you that you have a right to disagree with the processing of your personal data by Calmclinic, as well as you can cancel your consent to the processing of personal data at any time.</p>
+
+<p>If you do not agree to provide us with such personal data as your e-mail, you can use the website anonymously, then we will not collect or store any data about you.</p>
+
+<h2 id="how-do-we-protect-your-personal-data">How do we protect your personal data?</h2>
+
+<p>The security of your personal data is very important to us. Calmclinic has implemented appropriate organizational and technical security measures to help protect your personal data, which helps to protect your personal data against accidental or unlawful destruction, modification, disclosure, and any other unlawful handling
+We avoid storing obsolete or unnecessary information.</p>
+
+<h2 id="to-whom-do-we-provide-your-personal-data">To whom do we provide your personal data?</h2>
+
+<p>We may provide your data to our data processors who provide us with services and manage (store) your data on behalf of Calmclinic as a data controller. Data controllers have the right to process personal data only in accordance with our instructions and only to the extent necessary for the proper performance of the obligations set out in the contract. Through our processors, we take all necessary steps to ensure that our data controllers have implemented the appropriate organizational and technical security measures and maintain the confidentiality of personal data.</p>
+
+<p>If your place of residence is within the European Union, the General Data Protection Regulation and the implementation of your rights enshrined therein should be relevant to you and therefore we inform that our data processors may be established outside the European Union or the European Economic Area. If we transfer your personal data to such processors, we will take all the necessary legal measures to ensure that your right to privacy remains properly protected.</p>
+
+<p>Personal data may be transferred and processed outside the EU / EEA where the transfer is indispensable for the provision of the service or the user has given his consent and also if adequate security measures are implemented. Appropriate security measures include:</p>
+
+<ul>
+<li>an agreement has been concluded that includes the standard conditions adopted by the European Commission or other approved items, codes of conduct, certificates, etc., approved in accordance with the General Data Protection Regulation;</li>
+<li>A country outside the EU / EEA containing the recipient of personal data ensures an adequate level of protection of personal data by a decision of the European Commission;</li>
+<li>The recipient is certified in accordance with the requirements of the Data Protection Agreement between the EU and the United States of America (also known as the "Privacy Shield") (applicable to recipients located in the United States).</li>
+</ul>
+
+<p>If your place of residence is in the European Union and the General Data Protection Regulation is relevant to you, you can request more information about the possible transfer of your personal data outside the EU / EEA.</p>
+
+<p>Your personal data is not transferred to other third parties, except when such data is required by the competent public authority.</p>
+
+<h2 id="what-are-your-rights">What are your rights?</h2>
+
+<p>You have the right:</p>
+
+<ul>
+<li>to require to correct your personal data if it is incorrect, incomplete or inaccurate;</li>
+<li>to disagree to process your personal data when your personal data is  processed or intended to be processed for direct marketing purposes or for a legitimate interest pursued by Calmclinic or a third person to whom personal data is provided;</li>
+<li>to require to erase your personal data which is processed only with your consent if you cancel the given consent. This right does not apply if the personal data requested to be erased is also processed on another legal basis, such as processing necessary for the execution of a contract or enforcement of obligations under applicable law;</li>
+<li>to restrict the processing of your personal data in accordance with the applicable law, for example - the period during which we will assess whether you have the right to request your personal data to be erased;</li>
+<li>to receive information on whether we handle your personal data and, if so, to  get acquainted with the data;</li>
+<li>to receive personal data you have submitted that is processed in accordance with your consent or the basis for the execution of the contract, in writing or in a commonly used electronic form, and, where possible, transfer such data to another service provider (data portability);</li>
+<li>to cancel your consent to process personal data;</li>
+<li>to disagree that you will be covered by a fully automated decision making, including profiling, if such decision making has legal effects or any significant similar effect. This right does not apply if such decision making is necessary for the purpose of concluding or executing a contract with you, is permitted by applicable law, or you have given explicit consent;</li>
+<li>to submit a complaint regarding the processing of personal data to the supervisory authority if you believe that your personal data is being processed in violation of your rights and legitimate interests in accordance with applicable law.</li>
+</ul>
+
+<h2 id="how-do-we-use-cookies">How do we use cookies?</h2>
+
+<p>We use cookies. These are small batches of information that websites forward to the browser cookie file on the user's hard drive. The information collected by the cookies allows us to provide the user with the possibility to browse more conveniently, learn more about the behavior of the users of the site, analyze trends and improve both - the website and the services we are providing.</p>
+
+<p>You may choose, whether you want to accept cookies. The user gives his consent to accept cookies during his visit to the website www.calclinic.com by clicking “Got it!” button.</p>
+
+<p>You can cancel the use of cookies by changing the browser's data and settings (deleting cookies, selecting anonymous browsing, etc.).
+In some cases, disabling or deleting cookies can slow down the speed of browsing the web, limit the functionality of certain web pages, or block access to the website.</p>
+
+<h2 id="how-do-i-know-about-any-changes-made-to-this-privacy-policy">How do I know about any changes made to this Privacy Policy?</h2>
+
+<p>As we expand our activities and services, we may need to update this Privacy Policy. For this reason, we recommend that you periodically visit our website, where you will always find the latest version of this Privacy Policy.</p>
+
+<p>If we make any essential changes to this Privacy Policy, we will inform you in advance by posting a notice on our website.</p>
+
+<h2 id="how-can-you-reach-us">How can you reach us?</h2>
+
+<p>You have the right to contact us in order to submit inquiries, cancel your consent, submit requests for your rights as a data subject, and complaint about the processing of personal data.</p>
+
+<p>You can contact us by sending a message on the website.</p>
+							<p>Author: <a href="/about#micah-abraham-bsc-psychology">Micah Abraham, BSc Psychology</a>, last updated May 24, 2018.</p>
+							<div class="pull-left social-block2 show-1020">
+								<div class="row share-title">Share with your friends:</div>
+								<div class="row btns">
+									<div class="col-xs-4 lert"><a target="_blank" href="//twitter.com/CalmClinic" class="twitter color _popup"></a></div>
+									<div class="col-xs-4"><a target="_blank" href="//www.facebook.com/calmclinic" class="facebook color _popup"></a></div>
+									<div class="col-xs-4 right"><a target="_blank" href="//plus.google.com/113862485121347320352" class="google color _popup"></a></div>
+								</div>
+							</div>
+						</article>
+						<aside id="aside">
+			<div class="block odd">
+			<h4>Most Popular</h4>
+			<a href="/anxiety/how-i-calmed-my-anxiety-in-one-evening" class="chevron">How I Calmed Down My Anxiety in One Evening</a>
+			<a href="/anxiety/mistake-that-makes-anxiety-worse" class="chevron">A Little Mistake That Makes Your Anxiety Worse</a>
+			<a href="/anxiety/3-things-to-try" class="chevron">3 Things to Do That Will Stop Anxiety and Panic Attacks Cold</a>
+			<a href="/anxiety/stop-anxiety-quickly" class="chevron">Ten Ways To Stop Anxiety Quickly</a>
+			<a href="javascript:void(0);" class="more chevron show-800">More...</a>
+		</div>
+		<div class="block even last">
+			<h4>Recommended for You</h4>
+				<a href="/anxiety/difference-anxiety-depression" class="chevron">What is the Difference Between Anxiety and Depression?</a>
+	<a href="/anxiety/symptoms/swollen-lymph-nodes" class="chevron">Stop Swollen Lymph Nodes Caused by Anxiety</a>
+	<a href="/anxiety/constraining-voice" class="chevron">How to Keep Anxiety From Constraining Your Voice</a>
+	<a href="/anxiety/symptoms/auditory-hallucinations" class="chevron">Anxiety May Cause Simple Auditory Hallucinations</a>
+	<a href="/anxiety/how-to-overcome" class="chevron">How to Overcome Anxiety Without Medication</a>
+	<a href="/anxiety/symptoms/respiratory-problems" class="chevron">Anxiety and Respiratory Problems</a>
+	<a href="/anxiety/treatment/7-foods-that-fight-anxiety" class="chevron">The Best 7 Anti Anxiety Foods</a>
+			<a href="javascript:void(0);" class="more chevron show-800">More...</a>
+		</div>
+	</aside>					</div>
+				</div>
+				<div class="row faq-section">
+				<!--	<div class="star-test">
+						<div class="wrap">
+							<h2 id="help-with-anxiety" class="text-center">Need help with anxiety?</h2>
+							<p>Then take our scientifically based anxiety test - completely free (takes no more than 7 minutes). After completing it, you will find out whether your anxiety is within "normal range," which parts are out of balance and, most importantly, how to proceed with beating your symptoms. It is made specifically for anxiety sufferers, please make use of it.</p>
+							<a href="/anxiety-test/" class="btn">Click Here To Take the Test</a>
+						</div>
+					</div>-->
+					<div class="columns">
+						<div class="question-block">
+							<h2 class="text-center">Frequently asked questions</h2>
+							<div class="q-wrap two">
+								<div class="question">What do I do next?</div>
+								<p>We really suggest people take our anxiety test - it provides a breakdown of how your particular anxiety manifests itself.</p>
+							</div>
+							<div class="q-wrap one">
+								<div class="question">I have a question about anxiety or mental health - can you answer it?</div>
+								<p>Please don't send us questions about your specific mental health issues. They should really be answered by a professional who knows your history.</p> <p>We are a small team, and it is simply impossible for us to handle the volume of people who need their questions answered. Our anxiety test was created exactly for that purpose - so that people can work on their mental health problems themselves. Please make use of it.</p>
+							</div>
+							<div class="q-wrap three">
+								<div class="question">I have an editorial comment or found a mistake.</div>
+								<p>Great! Please use our contact form and our editor will receive it. We really appreciate such comments because it allows us to improve the quality of information provided on this website. We appreciate any ideas including article suggestions, how to improve user experience and so on.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+					<div class="clearfix most-popuplar">
+		<h2 class="text-center">Most popular</h2>
+		<div class="clearfix">
+							<div class="n-1 section clearfix">
+					<div class="box clearfix">
+						<h3>Anxiety</h3>
+						<a href="/category/anxiety" class="chevron">View More...</a>
+					</div>
+											<a href="/anxiety/zung-self-rating-scale" class="n-1 post clearfix">
+							<div class="image clearfix" style="background-image: url(/pub/popular-images/55788c67b6f3e.jpg);"></div>
+							<p>What is the Zung Self-Rating Anxiety Scale</p>
+						</a>
+											<a href="/anxiety/overcoming-nervousness" class="n-2 post clearfix">
+							<div class="image clearfix" style="background-image: url(/pub/popular-images/55788c6544c58.jpg);"></div>
+							<p>How to Overcome Nervousness</p>
+						</a>
+											<a href="/anxiety/strikes-bone" class="n-3 post clearfix">
+							<div class="image clearfix" style="background-image: url(/pub/popular-images/55788c66b0eab.jpg);"></div>
+							<p>What Does it Mean When Anxiety Strikes Bone?</p>
+						</a>
+											<a href="/anxiety/famous-people-with-anxiety-disorder" class="n-4 post clearfix">
+							<div class="image clearfix" style="background-image: url(/pub/popular-images/55788c6747a4e.jpg);"></div>
+							<p>13 Famous People With Anxiety Disorders</p>
+						</a>
+									</div>
+							<div class="n-2 section clearfix">
+					<div class="box clearfix">
+						<h3>Anxiety Symptoms</h3>
+						<a href="/category/anxiety/symptoms" class="chevron">View More...</a>
+					</div>
+											<a href="/anxiety/symptoms/stomach-pain" class="n-1 post clearfix">
+							<div class="image clearfix" style="background-image: url(/pub/popular-images/55788c68b583f.jpg);"></div>
+							<p>How to Stop Anxiety Stomach Pain &amp; Cramps</p>
+						</a>
+											<a href="/anxiety/symptoms/weird-thoughts" class="n-2 post clearfix">
+							<div class="image clearfix" style="background-image: url(/pub/popular-images/55788c68986f6.jpg);"></div>
+							<p>How to Stop the Weird Thoughts Caused By Anxiety</p>
+						</a>
+											<a href="/anxiety/symptoms/dementia-feelings" class="n-3 post clearfix">
+							<div class="image clearfix" style="background-image: url(/pub/popular-images/55788c65ced27.jpg);"></div>
+							<p>Feelings of Dementia With Anxiety</p>
+						</a>
+											<a href="/anxiety/symptoms/respiratory-problems" class="n-4 post clearfix">
+							<div class="image clearfix" style="background-image: url(/pub/popular-images/55788c66916bb.jpg);"></div>
+							<p>Anxiety and Respiratory Problems</p>
+						</a>
+									</div>
+							<div class="n-3 section clearfix">
+					<div class="box clearfix">
+						<h3>Anxiety Types</h3>
+						<a href="/category/anxiety/types" class="chevron">View More...</a>
+					</div>
+											<a href="/anxiety/types/free-floating" class="n-1 post clearfix">
+							<div class="image clearfix" style="background-image: url(/pub/popular-images/55788c6953874.jpg);"></div>
+							<p>What is Free Floating Anxiety?</p>
+						</a>
+											<a href="/anxiety/types/puberty" class="n-2 post clearfix">
+							<div class="image clearfix" style="background-image: url(/pub/popular-images/55788c678f42a.jpg);"></div>
+							<p>How to Survive Anxiety and Puberty</p>
+						</a>
+											<a href="/anxiety/types/speaking-anxiety" class="n-3 post clearfix">
+							<div class="image clearfix" style="background-image: url(/pub/popular-images/55788c67db74c.jpg);"></div>
+							<p>How to Cure Speaking Anxiety</p>
+						</a>
+											<a href="/anxiety/types/travel" class="n-4 post clearfix">
+							<div class="image clearfix" style="background-image: url(/pub/popular-images/55788c67033a9.jpg);"></div>
+							<p>Introduction to Travel Anxiety: Causes and Cures</p>
+						</a>
+									</div>
+							<div class="n-4 section clearfix">
+					<div class="box clearfix">
+						<h3>Other Articles</h3>
+						<a href="/all-articles" class="chevron">View More...</a>
+					</div>
+											<a href="/the-meaning-of-anxiety" class="n-1 post clearfix">
+							<div class="image clearfix" style="background-image: url(/pub/popular-images/55788c66d28f6.jpg);"></div>
+							<p>What is the Meaning of Anxiety?</p>
+						</a>
+											<a href="/panic-attack-with-friends" class="n-2 post clearfix">
+							<div class="image clearfix" style="background-image: url(/pub/popular-images/55788c6909a48.jpg);"></div>
+							<p>A Silent Struggle: What it’s Like to Have a Panic Attack When Out With Friends</p>
+						</a>
+											<a href="/phobias/causes" class="n-3 post clearfix">
+							<div class="image clearfix" style="background-image: url(/pub/popular-images/55788c6669fe4.jpg);"></div>
+							<p>Causes of Phobias | Understand and Cure Your Phobias and Fears</p>
+						</a>
+											<a href="/types/hangover-anxiety" class="n-4 post clearfix">
+							<div class="image clearfix" style="background-image: url(/pub/popular-images/55788c680f370.jpg);"></div>
+							<p>Quick Help for Hangover Anxiety after Drinking Alcohol</p>
+						</a>
+									</div>
+					</div>
+	</div>
+				<div class="g-section g-group social-block">
+					<h2 class="text-center" style="display: none">Follow Us</h2>
+					<div class="col span_4_of_12">
+						<a target="_blank" href="//twitter.com/CalmClinic" class="twitter _popup"></a>
+						<div class="wrap hide-520">
+							<p>For the latest soundbites about anxiety, depression and mental health.</p>
+							<a href="//twitter.com/CalmClinic" class="twitter-follow-button" data-show-count="false">Follow @CalmClinic</a>
+						</div>
+					</div>
+					<div class="col span_4_of_12">
+						<a target="_blank" href="//www.facebook.com/calmclinic" class="facebook _popup"></a>
+						<div class="wrap hide-520">
+							<p>Follow us on Facebook and be the first to know about interesting articles.</p>
+							<div class="fb-like" data-href="//www.facebook.com/calmclinic" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+						</div>
+					</div>
+					<div class="col span_4_of_12">
+						<a target="_blank" href="//plus.google.com/113862485121347320352" class="google _popup"></a>
+						<div class="wrap hide-520">
+							<p>Discover latest articles on our Google+ page.</p>
+							<div class="g-follow" data-annotation="bubble" data-height="20" data-href="https://plus.google.com/113862485121347320352" data-rel="publisher"></div>						</div>
+					</div>
+				</div>
+																</div>
+			<footer id="page-footer">
+	<div class="wrapping">
+		<div class="footer-holder">
+			<div class="footer-blocks">
+				<div class="block one">
+					<h4>Anxiety</h4>
+					<ul>
+						<li><a href="/category/anxiety/types">Types</a></li>
+						<li><a href="/category/anxiety/causes">Causes</a></li>
+						<li><a href="/category/anxiety/treatment">Treatment</a></li>
+						<li><a href="/category/anxiety/attacks">Attacks</a></li>
+						<li><a href="/category/anxiety/drugs">Medications</a></li>
+						<li><a href="/category/blog-other">Blog &amp; Other</a></li>
+					</ul>
+				</div>
+				<div class="block two">
+					<h4>Symptoms</h4>
+					<ul>
+						<li><a href="/category/anxiety/symptoms/1">Page 1</a></li>
+						<li><a href="/category/anxiety/symptoms/2">Page 2</a></li>
+						<li><a href="/category/anxiety/symptoms/3">Page 3</a></li>
+						<li><a href="/category/anxiety/symptoms/4">Page 4</a></li>
+						<li><a href="/category/anxiety/signs">Signs</a></li>
+					</ul>
+				</div>
+				<div class="block three">
+					<h4>Other</h4>
+					<ul>
+						<li><a href="/category/anxiety/1">Page 1</a></li>
+						<li><a href="/category/anxiety/2">Page 2</a></li>
+						<li><a href="/category/anxiety/3">Page 3</a></li>
+						<li><a href="/category">Miscellenuous</a></li>
+						<li><a href="/category/panic/1">Panic, Page 1</a></li>
+						<li><a href="/category/panic/2">Panic, Page 2</a></li>
+					</ul>
+				</div>
+				<div class="block four">
+					<h4>New Articles</h4>
+					<ul class="footer-list">
+			<li><a href="/anxiety/symptoms/brain-zaps">Brain Zaps and Anxiety</a></li>
+			<li><a href="/anxiety/living-through-trauma">How Living Through Trauma Can Cause Anxiety</a></li>
+			<li><a href="/anxiety/signs/feel-like-crying">Here is Why You Cry for No Reason</a></li>
+		<li class="last"><a href="/all-articles">View more...</a></li>
+</ul>				</div>
+				<!--<div class="block test">
+					<h4 class="text-center">Anxiety Test</h4>
+					<div class="content">
+						<a href="/anxiety-test/" class="description">
+							Anxiety is something that you live with every day. Stop living with anxiety.<br/>
+							Learn to cure it with my free <span class="highlight">7 minute anxiety test</span>.
+							Fill out your symptoms and receive information on effective treatments.
+						</a>
+						<a href="/anxiety-test/" class="btn-green">Start test</a>
+					</div>
+				</div>-->
+			</div>
+			<div class="bottom">
+				<p>Legal conditions and terms of use applicable to all users of this site. Any use of this site constitutes your agreement to these Terms and conditions of use.</p>
+				<p>© 2009−2018, Calm Clinic | Infopress Ltd.,  All Rights Reserved</p>
+				<p>Mailing address: 5042 Wilshire Blvd #45026, Los Angeles, CA 90036</p>
+				<div class="footer-block privacy-sitemap">
+					<a href="/privacy-policy" class="privacy">Privacy policy</a> <a href="/terms-of-service" class="privacy">Terms of service</a>
+				</div>
+				<p class="phone">Phone (USA): <a href="tel:+18775539057">1-(877)-553-9057</a></p>
+			</div>
+		</div>
+	</div>
+</footer>
+		</div>
+					<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+					<script type="text/javascript" src="/pub/src/js/main.js?v=1518499889"></script>
+					<script type="text/javascript" src="/pub/src/js/formcontrols.js"></script>
+					<script type="text/javascript" src="/pub/src/js/header.js?v=1518499889"></script>
+				<!-- Begin Cookie Consent plugin by Silktide - https://cookieconsent.insites.com/ -->
+<style>
+	.cc-animate.cc-revoke.cc-bottom {
+		display: none;
+	}
+</style>
+<script>
+	App.load(function () {
+		App.loadStyle('//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css');
+		App.loadScript({
+			url: '//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js',
+			async: 1,
+			success: function () {
+				//$.get('/ip2c', function (res) {
+					// TEST
+					//res.isoCode = 'ES';
+					//console.log(res.isoCode)
+					//cookieconsentInit(res.isoCode);
+					cookieconsentInit('ES');
+				//});
+			}
+		});
+		function cookieconsentInit(code) {
+			window.cookieconsent.initialise({
+				"palette": {
+					"popup": {
+						"background": "#edeff5",
+						"text": "#838391"
+					},
+					"button": {
+						"background": "#4b81e8"
+					}
+				},
+				"position": "bottom-right",
+				"content": {
+					"href": '/privacy-policy'
+				},
+				law: {
+					countryCode: code
+				}
+			});
+		}
+	});
+</script>
+<!-- End Cookie Consent plugin -->
+		<script>
+	App.load(function () {
+		// twitter >
+		App.loadScript({
+			id: 'twitter-wjs',
+			url: '//platform.twitter.com/widgets.js',
+			async: 1
+		});
+		// < twitter
+		// facebook >
+		window.fbAsyncInit = function () {
+			FB.init({
+				appId: '933705193348840',
+				xfbml: true,
+				version: 'v2.3'
+			});
+		};
+		App.loadScript({
+			id: 'facebook-jssdk',
+			url: '//connect.facebook.net/en_US/sdk.js',
+			async: 1
+		});
+		// < facebook
+		// google >
+		App.loadScript({
+			id: 'google-apis-platform',
+			url: '//apis.google.com/js/platform.js',
+			async: 1
+		});
+		// < google
+	});
+</script>
+		<script>
+	App.load(function () {
+		App.loadScript({
+			url: '//my.hellobar.com/aa1d79dc1b525474b5fe56f4563102b85fa84e44.js',
+			async: 1
+		});
+	});
+</script>		<script>
+	(function (d, s, id) {
+		var js, _js = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) {
+			return;
+		}
+		ANXT = {
+			host: '',
+			post: 'https://www.calmclinic.com/anxiety-test/page2',
+			d1: {
+				open: '.anxt1,[href="#anxt1"]',
+				fade: true
+			},
+			d2: {
+				open: '.anxt2,[href="#anxt2"]',
+				fade: true
+			},
+			goals: [
+				{value: 'constant-overthinking', name: 'Constant Overthinking'},
+				{value: 'anxiety-panic-attacks', name: 'Anxiety & Panic Attacks'},
+				{value: 'self-confidence', name: 'Self-Confidence'},
+				{value: 'waves-of-depression', name: 'Waves of depression'},
+				{value: 'health-worries', name: 'Health Worries'},
+				{value: 'scary-thoughts', name: 'Scary Thoughts'},
+				{value: 'physical-symptoms', name: 'Physical Symptoms'},
+				{value: 'sleep', name: 'Sleep'},
+				{value: 'other', name: 'Other'},
+			],
+			goalsShuffle: true
+		};
+		js = d.createElement(s);
+		js.id = id;
+		js.async = 1;
+		js.src = ANXT.host + "/pub/anxt/init.js";
+		_js.parentNode.insertBefore(js, _js);
+	}(document, 'script', 'ANXT'));
+</script>			
+
+</body></html>
