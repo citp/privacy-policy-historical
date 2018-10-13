@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amerimark.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918101522id_/http%3A//www.amerimark.com/am_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amerimark.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013033045id_/https%3A//www.amerimark.com/am_privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - AmeriMark - Online Catalog Shopping for Womens Apparel | Beauty Products | Jewelry | Womens Shoes | Health | Wellness
 
@@ -42,7 +42,7 @@ We use third party service providers to serve ads on our behalf across the Inter
 
 In addition, we may from time to time contract with third party vendors to serve ads to our customers on our behalf across the Internet or to send our catalogs to customers whom we think may be interested in our products or services. To do this, the vendors will collect anonymous information about your visits to our Web site and your interaction with our products and services. This anonymous information is collected through the use of a cookie or pixel tag - industry standard technology used by most major Web sites. No personally identifiable information is collected in this process. They may also pool the anonymous information that they collect with other sources of information not collected during your visit to our website, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving a catalog.
 
-If you do not wish for cookies or pixel tags to be placed on your computer, most commercially available web browsers permit you to prevent that from taking place. To opt-out of receiving our catalogs, you may send us an email at [custservice@transamericaholdings.com](mailto:custservice@transamericaholdings.com) or call us at 1-877-268-9594. 
+If you do not wish for cookies or pixel tags to be placed on your computer, most commercially available web browsers permit you to prevent that from taking place. To opt-out of receiving our catalogs, you may send us an email at [custserv@amerimark.com](mailto:custserv@amerimark.com) or call us at 1-866-345-1388. 
 
 **Children's Information**
 
