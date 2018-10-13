@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lexingtonlaw.com privacy policy that was archived on 2016-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160702082333id_/https%3A//www.lexingtonlaw.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexingtonlaw.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013024408id_/https%3A//www.lexingtonlaw.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Lexington Law
+# Privacy Policy - Lexington Law
 
 **Lexington Privacy Policy**
 
@@ -62,20 +62,20 @@ Consent - We will share your Personal Information with others outside of Lexingt
 
 Service Providers - We provide Personal Information to related companies and other trusted businesses or persons who use, analyze, or process it on our behalf, based on our instructions and in compliance with appropriate confidentiality and security measures. For example, we may use others to: 
 
-  * deliver, evaluate the effectiveness of, and assist in improving our products and services
-  * conduct consumer research and satisfaction surveys 
-  * assist us in analyzing and understanding consumers and how to reach them more effectively
-  * assist us in fraud prevention, with our security measures, and to provide us technical support
-  * provide customer support 
+  * deliver, evaluate the effectiveness of, and assist in improving our products and services 
+  * conduct consumer research and satisfaction surveys
+  * assist us in analyzing and understanding consumers and how to reach them more effectively 
+  * assist us in fraud prevention, with our security measures, and to provide us technical support 
+  * provide customer support
   * manage customer data, and to ensure data integrity and accuracy
   * process financial transactions and perform accounting functions
-  * advertise, market, or make product or service offerings 
+  * advertise, market, or make product or service offerings
 
 
 
 Legal Reasons - We will share Personal Information with others outside of Lexington if we have a good-faith belief that disclosure is necessary or appropriate to: 
 
-  * comply with applicable law, regulation, legal process or enforceable governmental request
+  * comply with applicable law, regulation, legal process or enforceable governmental request 
   * protect our operations or customers
   * detect, investigate, or address fraud, security, or technical problems
   * investigate potential violations of and enforce applicable terms of service
@@ -165,3 +165,5 @@ Lexington may update its Privacy Policy from time to time. Changes to this Priva
 13\. Request for Information
 
 If you have any questions or concerns about Lexington's Privacy Policy, please contact us: [info@lexington.com](mailto:info@lexington.com). 
+
+Should you no longer wish to receive our emails, you may click on the unsubscribe link located in the footer of each email received or at [email-preferences](https://web.archive.org/email-preferences)
