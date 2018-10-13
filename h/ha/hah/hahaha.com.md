@@ -1,100 +1,70 @@
-> *The following text is extracted and transformed from the hahaha.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207051855id_/http%3A//www.hahaha.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hahaha.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013020142id_/http%3A//www.narita-airport.jp/en/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Just For Laughs
+# Privacy Policy | NARITA INTERNATIONAL AIRPORT OFFICIAL WEBSITE
 
-This Privacy Policy and protection of personal information (hereinafter: «Privacy Policy») sets out Just for laughs. (hereinafter: « the Company») practices for the collection, use or disclosure of personal information through the use of the online services available on its websiteHAHAHA.COM. The website HAHAHA.COM is operated and hosted in Montreal, province of Quebec, Canada. If you are a visitor from abroad and that you provide personal information, you agree that your personal information be transferred and hosted in the province of Quebec and protected by the applicable laws in this province.
+Personal information received by NAA, through this website, is handled as set out below.
 
-*  **Personal information**
+Please refer to the paragraphs,[  _"Protection of Personal Information"_](http://www.naa.jp/en/privacy/index.html#torikumi) and [_"Disclosure in Accordance with the Act on the Protection of Personal Information"_](http://www.naa.jp/en/privacy/index.html#kouhyou) for more information concerning the general handling of personal information by NAA.
 
-The Company only collects personal information from a user of the online services of the website HAHAHA.COM,on a voluntary basis. Personal information may include: your name, date of birth, mail address, phone number, e-mail, sms, credit card number, etc. Such information which identifies you personally is collected only when voluntarily submitted by a user in one of our online information registration forms or within e-mail correspondence.
+## Personal Information Provided Through This Website
 
-For example, to have access to the services of the website HAHAHA.COM, user must complete a user profile to become a Member of the website where certain information is collected such as name, age, email address of the user and other information. Once this profile completed, the Company may ask you other information related to the services provided. Thus, if you buy products on the online store of the website HAHAHA.COM, we will ask you information about your credit card, home address and other information allowing us to transfer you the ownership of the products purchased on the online store of the website HAHAHA.COM and to comply with the laws and regulations governing the sale of products over the Internet.
+Personal information is provided under the following circumstances on this site for the purpose of improving services to customers.
 
-*  **The purpose of the collection**
+Responses to surveys  
+Responses or inquiries concerning tenancy or advertising  
+Entrants for gifts or events, etc.  
+Feedback, requests, inquiries
 
-The purpose of the personal information we collect is to identify you when you navigate on the website HAHAHA.COM, to satisfy your request of services and to provide you with certain services or advertisements offers that meet your personal needs.
+## Types of Personal Information
 
-*  **Disclosure to Third Parties**
+Under any of the circumstances described above, you will be required to provide your name, address, age, date of birth, sex, telephone number, fax number, verification address or other personal information.
 
-It is the Company's policy not to disclose any personal information about users of the website HAHAHA.COM to third parties, the information transmitted being only available to the Company or its affiliates companies, as the case may be.
+## Providing Personal Information to Third Parties
 
-Also the Company will not disclose, sell or rent to any third party or organization, for marketing purposes, any personal information you provide on this website without your prior permission.
+The above-mentioned personal information may be provided to third parties in the following circumstances in the process of achieving the purpose for which that information is obtained.
 
-It is possible that the Company may make available personal information of its Members to well-known companies or connected with the artists appearing on the website HAHAHA.COM whose products and services may interest you. You can indicate your acceptance or rejection of such a communication when you receive notice of a communication to a particular third party. If you refuse, you will not receive and enjoy the offerings of the third party.
+  * (1) When required by law
+  * (2) Where required for the protection of individuals and property and it is not possible to gain consent from the individual concerned
+  * (3) When necessary for reasons of public health or children's welfare and it is not possible to gain consent from the individual concerned
+  * (4) When required for assistance from government organizations, regional entities or their agents in carrying out tasks specified by law and where obtaining the consent of the individual would present an obstacle
+  * (5) When prior consent of the individual has been obtained
+  * (6)Where incoming feedback, request or inquiry requires a response by a third party and the details are relayed to that party by NAA (Information such as name, address, age, date of birth, sex, telephone number, fax number, verification address, and nature of feedback, request or inquiry, may be provided to third parties by telephone, fax, verification or post.)
 
-However, the Company reserves its right to disclose personal information about you if required by law or if court orders are issued, including receipt of a subpoena or a search warrant. The Company reserves its right to disclose any information it deems necessary in good faith i) to comply with any requirement of law or legal process, ii) enforce HAHAHA.COM User Agreement, or iii) to protect the rights of its other Members.
 
-The Company also limits the access to your personal information only to employees of certain departments (ex. delivery, finance) who need to know to facilitate your transactions or respond to the correspondence you may send us in the course of your usage of the website HAHAHA.COM.
 
-*  **Use of cookies**
+## Protection & Management of Personal Information
 
-THE COMPANY uses cookie technology (cookies) to help Members navigate faster on the websiteHAHAHA.COM. When you register on our website, we download a cookie on your computer. A cookie is a string of information that is sent by a website and stored on the hard drive or temporarily in the memory of your computer. This technology allows faster navigation and a generally more positive experience when searching the information you want. You can disable cookies by disabling this feature in your browser.
+NAA takes full responsibility for managing the personal information it receives and makes every effort to prevent disclosure. This website also uses SSL (Secure Sockets Layer) encoding for security when receiving personal information to prevent leaks to third parties. NAA may also entrust the handling of personal information received to an external entity for more efficient processing. Personal information will not be used for any other purpose. In selecting this entity, only companies with approved handling procedures are accepted and these companies are under an obligation to maintain confidentiality, prohibit further distribution and manage information correctly to prevent leaks. 
 
-*  **Information collected**
+## Carrying Out Safety Measures
 
-Our web servers collect monitoring and general information from your visit on our website.We collect such statistics data to determine anonymous patterns of browsing,the number of daily visitors to our website, the daily requests for a particular file, the types of browsers used by users, the users' domain names and countries of origin. This data helps us to personalize our website to better meet your online needs.
+All steps will be taken in terms of organizational safety management, personal safety management, physical safety management and technical safety management to oversee the safety of personal information.  
+(Logging and IP addresses)  
+NAA collects and uses the IP addresses (*¹) and event logs (*²) of website users for system management and analysis of site use.  
+Information on our servers is not used to identify individuals nor is it used for any other purpose. However, in the event that NAA deems it necessary to maintain the integrity of the site if it has been interfered with or subject to unauthorized access, that information will be used to identify users. The site does not use Cookies (*³).
 
-*  **Storage & Security**
+  * (*¹)IP ADDRESS: An identification number automatically assigned to a user's computer when using a website.
+  * (*²)Log: Information collected on a web server when a user accesses a web site. This records the user’s access and activity on the site.
+  * (*³)Cookie: A file used by website providers to write and save temporary data to the user's computer through the browser.
 
-All personal information you provide to the Company are stored on our secure servers with restricted access. In deciding to voluntarily provide us your personal information, you agree to the transfer and storage of your personal data on our servers located in Montreal, Province of Quebec, Canada.
 
-The Company takes reasonable technical means to ensure a safe environment and protect user data.
 
-However, given the public nature of the internet network, user acknowledges and agrees that the security of communications through the internet cannot be guaranteed. therefore, the company cannot guarantee nor shall bear any liability for any breach of confidentiality, hacking, viruses, loss or alteration of information transmitted or hosted on the company’s systems.
+## Adherence to Laws and Regulations, etc.
 
-*  **User’s Responsibilities**
+The company will adhere to the provisions all laws governing the protection of personal information, government directions and industry guidelines.
 
-If you associate your name with your access code, people to whom you have revealed your name will identify you and your activities on our website. The company is not responsible for any loss or damage sustained by user, resulting from disclosure, intentional or not, of its access code or for personal information revealed by the user.
+## Ongoing Improvements to Personal Information Management
 
-You agree to use your user’s information only to obtain online services offered on the website HAHAHA.COM (ex. use of the blog room provided on the website, transactions related to the onlinestore, etc.).
+The company continually strives to improve its personal information management.
 
-You are not authorized to add other users on your account.
+## Handling of Disclosure Requests, Complaints and Inquiries
 
-You cannot use the communication tools provided by the Company to transmit spam or any other content that violates the User Agreement of the website HAHAHA.COM.
+The address shown below may be used for requests by an individual concerning the use, disclosure, amendment or termination of use of their own information or to lodge a complaint or discuss the handling of that information.  
+When doing so, a health insurance card, driver’s license or passport must be presented for verification of identity.  
+·Contact  
+NAA Bldg., Narita International Airport, Narita City, Chiba Prefecture 282-8601  
+Office: Personal Information Protection Inquiries Office, Narita International Airport Corporation
 
-You are not authorized to disclose your password to anyone which must remain confidential. If you decide to share it with others, you will be responsible for any action taken under your account.
+## Handling of Personal Information on Linked Sites
 
-If you believe that your password has been compromised in any manner whatsoever, you must notify the Company immediately and change your password.
-
-You agree to keep updated your personal information if it changes or is no longer relevant.
-
-At all times, user remains fully responsible for any loss or damages caused to the company or a third party resulting from any activity generated under its access code or its user’s account even in case of loss of confidentiality or illegal use.
-
-*  **Storage**
-
-At your request or upon termination of your subscription, we will close your account and delete your personal information.
-
-Despite the closure of your account, we reserve the right to keep, for an indefinite period of time within the time limits specified in the applicable Quebec laws, some personal information to be in compliance with the law, prevent fraud, collect fees owed, resolve a claim or some other related problems, cooperate in an investigation, enforce the User Agreement and any other act permitted by law.
-
-At the end of this period, the data files will be destroyed or deleted from the Company’s system, with the exception of anonymous statistical data that the Company may retain, at its discretion, as long as sought.
-
-Particularly, the Company will retain for a period of six (6) months from the date of receipt of a notice of claimed infringementsent by the holder of copyright, a recordallowing the identity of the person to whom the electronic location belongs to be determined and if the claimant commences proceedings relating to the claimed infringement and so notifies the Company before the end of those six months, for one (1) year from the date of receipt of a notice of the claimed infringement.
-
-*  **Additional Information**
-
-You can view, edit and modify most of your personal information online by connecting to our website:[www.hahaha.com](http://www.hahaha.com/)
-
-For any questions, comments or complaints regarding this Privacy Policy, you may do so by contacting us by email or mail to:
-
- **General Email:** [info@hahaha.com](mailto:info@hahaha.com)  
- **Mailing Address:**  
-Just For Laughs  
-2101 St. Laurent Blvd.  
-Montreal, Quebec H2X 2T5  
- **Phone Number:** (514) 845-3440 
-
-*  **References by hyperlinks**
-
-The navigation on the website HAHAHA.COM offers links to other websites. However, we are not responsible for the content or practices employed by the organizations sponsoring these other websites. The company is not responsible for the practices, acts or policies of such third parties with respect to the protection of your personal information.We recommend that you carefully read the statement on the protection of personal information found on these websites in order to determine in an informed manner to what extent you want or not to use these websites regarding their privacy practice.
-
-*  **Modification**
-
-The Company reserves its right to modify this Privacy Policy at its discretion.However, any change to this statement will be made in accordance with the laws applicable in the province of Quebec for the protection of personal information.
-
-The Company will make available on the website HAHAHA.COM, any amendments to this Privacy Policy at least thirty (30) days before the date of entry into force.
-
-The Company will also notify the Member by email at least thirty (30) days before the entry into force of an amendment to this Use Agreement. The notice sent by the Company will reflect the new provision or amendment to a provision, as well as its earlier version and date of entry into force. The notice given will reflect the Member's right to terminate the contract without cost, penalty or termination fee, by sending e-mail written notice to the Company within thirty (30) days from the date of force of the amendment if the amendment results in the increase in the obligation of the Member or the reduction of the obligation of the Company.
-
-In the event that user would not accept the changes or would be dissatisfied with any decision or policy adopted by the Company in operating the services, your only recourse is to terminate the HAHAHA.COM User agreement by giving a written notice to the Company by email and stop using the services of the site,without any liability of the Company towards you or any third party, resulting from your termination of the services of the website HAHAHA.COM.
-
-This Privacy Policy is subject to all the terms and conditions for the use of the website provided in the online document entitled: [HAHAHA.COM ONLINE USER AGREEMENT](https://web.archive.org/en/terms-and-conditions).
+NAA accepts no responsibility for the handling of personal information on other websites linked to this one.
