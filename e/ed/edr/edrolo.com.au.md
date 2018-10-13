@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edrolo.com.au privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310164459id_/https%3A//edrolo.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edrolo.com.au privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013202414id_/https%3A//edrolo.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -77,7 +77,7 @@ In carrying out our business, we may disclose your personal information to other
   * third parties as required by law, such as to comply with a subpoena or similar legal process, when we believe in good faith that disclosure is necessary to protect our rights, to protect the safety of you, others, or us, to investigate, or to respond to a government or law enforcement request;
   * third parties involved in a business transaction with us, such as in the case of a merger, acquisition, or sale of all or a portion of our assets, as permitted by applicable law;
   * detect and prevent fraud;
-  * protect the rights, property, and safety of Edrolo, you, and others; and
+  * protect the rights, property, and safety of Edrolo, you, and others;
   * enforce our policies and agreements;
   * teachers, school leaders and other students, for example, where you have opted-in to a particular user group, or where you take part in any interactive areas of the Websites or Services; and
   * any third-party plugins. Your interactions with third-party plugins will be governed by the privacy statement of the company providing the third-party plugin.
@@ -111,7 +111,7 @@ We collect limited information about people who use our Services so that we can 
 
 (collectively, “ **Usage Information** ”).
 
-In order to collect Usage Information, we may use software embedded in our Websites (such as JavaScript) and we may place small data files (cookies) on your computer or other. We may also use similar means, including third party services such as Google Analytics, to track Usage Information in relation to our products and services.
+In order to collect Usage Information, we may use software embedded in our Websites (such as JavaScript) and we may place small data files (cookies) on your computer or other device. We may also use similar means, including third party services such as Google Analytics, to track Usage Information in relation to our products and services.
 
 Unless you have registered for an account with us and are logged in to our Services, we will not link Usage Information to your personal information such as your user name. If you register for an account with us, Usage Information while you are logged in to the Services will be associated with your registration data. If you do not register for an account with us, Usage Information will be aggregated with that of other unregistered users and will not be associated with an identifiable person.
 
