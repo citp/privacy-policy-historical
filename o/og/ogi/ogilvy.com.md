@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ogilvy.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630235806id_/https%3A//www.ogilvy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogilvy.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013150651id_/https%3A//www.ogilvy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ogilvy
 
