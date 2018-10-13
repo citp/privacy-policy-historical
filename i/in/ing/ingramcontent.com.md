@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ingramcontent.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517084440id_/https%3A//www.ingramcontent.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingramcontent.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013215315id_/https%3A//www.ingramcontent.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Details | Ingram Content Group
 
 We use cookies so you get the best experience on our website. By using our site, you are agreeing to our [Cookie Policy](https://web.archive.org/web/20151013213951/http://www.dev.ingramcontent.com/pages/privacy-policy.aspx).[Accept & Close]()
 
 **JUMP TO:**   
-_Privacy Policy Summary_  |  _Full Privacy Policy_  |  _Cookie Notice_.
+_Privacy Policy Summary_  |  _Full Privacy Policy_  |  _Cookie Notice_
 
   
 
