@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the postbulletin.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102911id_/http%3A//www.postbulletin.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postbulletin.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013031135id_/https%3A//www.postbulletin.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | postbulletin.com
 
-POSTBULLETIN.COM PRIVACY POLICY EFFECTIVE AUGUST 31, 2012
+POSTBULLETIN.COM PRIVACY POLICY EFFECTIVE MARCH 26, 2018
 
 INFORMATION GATHERED BY POSTBULLETIN.COM
 
@@ -10,9 +10,15 @@ This is the POSTBULLETIN.COM's ("PostBulletin") online privacy policy. This poli
 
 You may also be asked to provide personally identifiable information on the PostBulletin website, which may include your name, address, telephone number, credit card number, and e-mail address. This information can be gathered when feedback or e-mails are sent to PostBulletin or when you register for services. In all such cases you have the option of providing us with personally identifiable information.
 
-COOKIES
+POSTBULLETIN.COM AND THIRD-PARTY COOKIES
 
-Cookies are small bits of data that are deposited on a user's hard drive. The PostBulletin website utilizes Cookies and IP addresses for certain functions. Cookies permit users to store their password and other user information without having to constantly re-enter this data. Cookies also permits PostBulletin and our advertisers to tailor our website and advertising to your needs. Most browsers permit users to decline to accept Cookies, although the default setting is typically to accept them. You may choose to decline the Cookies, but certain functions of the website may not be accessible to you.
+Cookies are small bits of data that are deposited on a user's hard drive. The PostBulletin website utilizes Cookies and IP addresses for certain functions. Cookies permit users to store their password and other user information without having to constantly re-enter this data. Cookies also permits PostBulletin and our third-party advertisers to tailor our website and advertising to your needs. Most browsers permit users to decline to accept Cookies, although the default setting is typically to accept them. You may choose to decline the Cookies, but certain functions of the website may not be accessible to you.
+
+CHOICES REGARDING TARGETED ADVERTISING
+
+We may use third-party advertising companies to serve ads when you visit the Website. These companies may use information (not including any Personally-Identifying Information) about your visits to the website and other websites that are contained in Web Cookies in order to provide advertisements about goods and services of interest to you. For example, these technologies help us determine whether you have seen a particular advertisement before, tailor ads to you if you have visited our site before, and in some cases avoid sending you duplicate advertisements. You can learn more about certain types of targeted advertising by visiting the [Digital Advertising Alliance](http://www.aboutads.info/) website or [Ad Choices](http://youradchoices.com/).
+
+In addition to disabling cookies and other tracking technologies, you may opt-out of receiving targeted advertising from participating ad networks, audience segment providers, ad serving vendors, and other service providers by visiting websites operated by the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) and [Digital Advertising Alliance](http://www.aboutads.info/) .
 
 ANALYTICS AND PERSONALIZATION
 
