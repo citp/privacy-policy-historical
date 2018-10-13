@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the investingdaily.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527142002id_/https%3A//www.investingdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investingdaily.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013120149id_/https%3A//www.investingdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Investing Daily
+# Investing Daily
 
 Your privacy concerns are important to us. We’ve created this statement in order to fully demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices that we use when you’re visiting our Website.
 
