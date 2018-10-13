@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the ietab.net privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606213756id_/https%3A//www.ietab.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ietab.net privacy policy that was archived on 2018-10-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181013234717id_/https%3A//www.ietab.net/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>IE Tab - Run Internet Explorer in Chrome</title>
     <meta charset="utf-8">
+    <meta name="google-site-verification" content="K0WhlRqjfQt9DBB2R-xlZdVZXhCIoiOigMQUjC6DEZM">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="css/foundation.css">
@@ -13,7 +14,24 @@
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" type="text/css">
 
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <!-- FIREBASE -->
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://www.gstatic.com/firebasejs/4.8.1/firebase.js"></script>
+    <script>
+        // Initialize Firebase
+        var config = {
+            apiKey: "AIzaSyAYdB3iIRB7ZVDDiBLX8_g4tc6hzdDCeFM",
+            authDomain: "auth.ietab.net",
+            databaseURL: "https://ie-tab-8bfc4.firebaseio.com",
+            projectId: "ie-tab-8bfc4",
+            storageBucket: "",
+            messagingSenderId: "299065457235"
+        };
+        firebase.initializeApp(config);
+    </script>
+    <script src="https://cdn.firebase.com/libs/firebaseui/2.5.1/firebaseui.js"></script>
+    <link type="text/css" rel="stylesheet" href="https://cdn.firebase.com/libs/firebaseui/2.5.1/firebaseui.css">
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <script src="js/vendor/modernizr.js"></script>
     <script src="js/foundation/foundation.js"></script>
     <script src="js/foundation/foundation.topbar.js"></script>
@@ -34,6 +52,7 @@
 
 
 <body>
+<a name="page-top"></a>
 <div id="header" class="large-12 row inner-header">
     <div id="navbar" class="large-12 row inside-nav">
         <nav class="top-bar" data-topbar="">
@@ -122,10 +141,7 @@ You can choose to disable or selectively turn off our cookies or third-party coo
                         <a href="support">Support</a>
                     </li>
                     <li>
-                        <a href="http://blog.ietab.net">Blog</a>
-                    </li>
-                    <li>
-                        <a href="aboutus">About Us</a>
+                        <a href="http://www.blackfishsoftware.com" target="_blank">About Us</a>
                     </li>
                     <li>
                         <a href="changelog">Changelog</a>
@@ -133,15 +149,20 @@ You can choose to disable or selectively turn off our cookies or third-party coo
                     <li>
                         <a href="privacy-policy">Privacy Policy</a>
                     </li>
+                    <li class="login-menu" style="display:none">
+                        <a href="login">Login</a>
+                    </li>
+                    <li class="logout-menu" style="display:none">
+                        <a class="logout-link" href="#">Logout</a>
+                    </li>
                 </ul>
             </div>
 
             <div class="small-12 columns large-2 foot-spacer">&nbsp;</div>
-            <div class="small-12 large-5 columns copyright">Copyright 2009-2016. Blackfish Software, LLC. All Rights Reserved.</div>
+            <div class="small-12 large-5 columns copyright">Copyright 2009-2018. Blackfish Software, LLC. All Rights Reserved.</div>
         </div>
     </section>
 </div>
-
 
 <script>
 
