@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ltheme.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311102726id_/https%3A//ltheme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ltheme.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013200029id_/https%3A//ltheme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Responsive Joomla and Wordpress themes
 
 Privacy Policy
 
-Rate this item 
+3 (60%) 2 votes 
 
 **Personally identifiable information**  
 Only information you provide _LTheme_ with directly will be collected, such as through subscribing to various products & services, or identifying yourself when requesting information to be sent to you. For example, when you fill out a request form, we collect the details you enter in order to post information to you. When you answer questions about what you would like to see we keep this information so as to better serve you.
