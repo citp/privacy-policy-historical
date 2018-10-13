@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sexintheuk.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610181848id_/http%3A//app.sexintheuk.com/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexintheuk.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013225036id_/http%3A//app.sexintheuk.com/help/privacy.cfm) for the most accurate reproduction.*
 
 # SexInTheUK :: SexInTheUK Member Privacy Policy
 
-_Last updated on 30 May 2018_
+_Last updated on 05 September 2018_
 
 ### Overview
 
@@ -41,6 +41,7 @@ When you access, subscribe or sign up to use the Website, we may collect a varie
 **Information we collect directly from you**
 
   * personal information required to subscribe or create a member profile, such as your name, phone number, postal address, email address, contact details, photographs, age, gender, sexuality, religious beliefs, race, nationality, interests, marital status, location and bank/credit card details; 
+  * some of the information you choose to provide us may be considered "special" or "sensitive" in certain jurisdictions, for example your racial or ethnic origins, sexual orientation and religious beliefs. By choosing to provide this information, you consent to our processing of that information; 
   * personal information provided to us if you contact us, such as your contact details in our records of that correspondence; 
   * personal information provided to us if you choose to complete any surveys or questionnaires for us, enter a competition or promotion of ours or participate in forums, discussion boards or other social media functions on our Website; 
   * personal information if you post or transmit information via the Website to other users; and 
@@ -185,7 +186,7 @@ Under certain circumstances, you have rights under data protection laws in relat
 
 
 
-You can make all such requests via email to [dataprotection@venntro.com](mailto:dataprotection@venntro.com "Send an email to dataprotection@venntro.com"). 
+You can make all such requests via email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ceaaafbaafbebca1baabadbaa7a1a08eb8aba0a0babca1e0ada1a3 "Send an email to dataprotection@venntro.com"). 
 
 Please note that in respect of all these rights we reserve the right to refuse your request based on the exemptions set out in the applicable data protection laws. 
 
@@ -201,6 +202,6 @@ We may review and amend this Privacy Policy to take into account changes in law,
 
 ### Contact Us
 
-If you have any questions or comments about this Privacy Policy, including requests to access or modify the use of your personal data, you can contact our Data Protection Officer by emailing [dataprotection@venntro.com](mailto:dataprotection@venntro.com "Send an email to dataprotection@venntro.com"). 
+If you have any questions or comments about this Privacy Policy, including requests to access or modify the use of your personal data, you can contact our Data Protection Officer by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#711510051001031e05141205181e1f3107141f1f05031e5f121e1c "Send an email to dataprotection@venntro.com"). 
 
 For other general queries, Venntro Media Group can be contacted via the contact section on the Website or by writing to our registered address. 
