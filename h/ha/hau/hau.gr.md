@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hau.gr privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628035733id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hau.gr privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013153342id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms) for the most accurate reproduction.*
 
 # Privacy Policy | Hellenic American Union
 
-You are at:  [Home](https://web.archive.org/web/20180628035733id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms?i=hau.en.home) / Privacy Policy 
+You are at:  [Home](https://web.archive.org/web/20181013153342id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms?i=hau.en.home) / Privacy Policy 
 
   * [Google +](https://plus.google.com/share?url=http%3A%2F%2Fwww.hau.gr%2F%3Fi%3Dhau.en.terms)
   * [LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.hau.gr%2F%3Fi%3Dhau.en.terms&title=Privacy%20Policy%20%7C%20Hellenic%20American%20Union)
@@ -83,7 +83,8 @@ We keep:
 Register for a language class, professional development seminar |  5 years after the end of the last class or seminar you have taken  
 Send your resume or apply a job |  6 months after we receive your application   
 Fill out a contact form on one of our websites |  Until we have replied to your request  
-Book a place for a conference or cultural event  |  6 months after the end of the conference  
+Book a place for a cultural event  |  6 months after the event  
+Register for a conference |  5 years after the end of the conference  
 Sign up for a newsletter |  For as long as you wish to continue receiving the newsletter and have not unsubscribed. If a newsletter is not published for 6 months, we will then delete your personal data.  
 Apply to take part in a language certification examination |  60 years after the examination date  
 Buy a book from Hellenic American Union publications |  5 years after the purchase  
@@ -199,10 +200,10 @@ We will update this Policy as required. If there are important changes to the Po
 
 ##### 19\. Cookies Policy
 
-You can find information about Hellenic American Union’s Cookies Policy [here](https://web.archive.org/web/20180628035733id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms?i=hau.en.accessibility).
+You can find information about Hellenic American Union’s Cookies Policy [here](https://web.archive.org/web/20181013153342id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms?i=hau.en.accessibility).
 
 * * *
 
 For additional information regarding this Policy, and for any other matter concerning how we process your personal information and how you can exercise your data privacy rights, contact us  at +210 3680056, at Massalias 22, 10680 Athens or via email at [privacy@hau.gr](mailto:privacy@hau.gr).
 
-**Last Update At:** 2018/06/15 - 16:56:55 
+**Last Update At:** 2018/07/04 - 15:17:03 
