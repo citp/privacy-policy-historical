@@ -1,79 +1,69 @@
-> *The following text is extracted and transformed from the ctap7.org privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523171416id_/http%3A//www.ctap7.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctap7.org privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013201101id_/http%3A//www.ctap7.org/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy – Ctap7
 
-[Back to Ctap7 Web Directory](http://www.ctap7.org/)
+## Who we are
 
-This Privacy Policy governs the manner in which Ctap7.org collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.ctap7.org](http://www.ctap7.org/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Ctap7.org.
+Our website address is: http://www.ctap7.org.
 
-**Personal identification information**
+## What personal data we collect and why we collect it
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+### Comments
 
-**Non-personal identification information**
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-**Web browser cookies**
+### Media
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-**How we use collected information**
+### Contact forms
 
-Ctap7.org collects and uses Users personal information for the following purposes:
+### Cookies
 
-  * _\- To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
-We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _\- To improve customer service_  
-Your information helps us to more effectively respond to your customer service requests and support needs.
-  * _\- To administer a content, promotion, survey or other Site feature_  
-To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_  
-The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-**How we protect your information**
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-**Sharing your personal information**
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+### Embedded content from other websites
 
-**Third party websites**
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
-**Advertising**
+### Analytics
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+## Who we share your data with
 
-**Google Adsense**
+## How long we retain your data
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-**Compliance with children's online privacy protection act**
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+## What rights you have over your data
 
-**Changes to this privacy policy**
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-Ctap7.org has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+## Where we send your data
 
-**Your acceptance of these terms**
+Visitor comments may be checked through an automated spam detection service.
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+## Your contact information
 
-**Contacting us**
+## Additional information
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Ctap7.org](http://www.ctap7.org/)  
-[http://www.ctap7.org](http://www.ctap7.org/)  
-176 Reading Avenue Oaklyn, NJ 08107  
-856-831-5887  
-rocky@ctap7.org
+### How we protect your data
 
-This document was last updated on August 16, 2011
+### What data breach procedures we have in place
 
-[Back Home](http://www.ctap7.org/)
+### What third parties we receive data from
+
+### What automated decision making and/or profiling we do with user data
+
+### Industry regulatory disclosure requirements
