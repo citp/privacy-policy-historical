@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cryptoassetrating.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609201428id_/http%3A//www.cryptoassetrating.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptoassetrating.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013112236id_/http%3A//cryptoassetrating.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
@@ -86,7 +86,7 @@ If you suspect that there has been a breach of the security of your data you sho
 
 ### Your Choices
 
-We provide you with relevant and appropriate choices regarding the sharing of personal information. CAR will provide you with details about whether we hold any of your personal information. If you wish to request access, or deletion of your personal information please contact us at [Contact](https://web.archive.org/web/20180609201428id_/http%3A//www.cryptoassetrating.com/Home/cryptoassetrating.com/Home/Contact) Note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time. We will respond to your request within a reasonable timeframe, usually within five business days. 
+We provide you with relevant and appropriate choices regarding the sharing of personal information. CAR will provide you with details about whether we hold any of your personal information. If you wish to request access, or deletion of your personal information please contact us at [Contact](https://web.archive.org/web/20181013112236id_/http%3A//cryptoassetrating.com/Home/cryptoassetrating.com/Home/Contact) Note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time. We will respond to your request within a reasonable timeframe, usually within five business days. 
 
 ### Changes to this Statement
 
