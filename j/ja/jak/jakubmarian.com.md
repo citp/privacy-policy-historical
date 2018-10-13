@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jakubmarian.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130182328id_/https%3A//jakubmarian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jakubmarian.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013195156id_/https%3A//jakubmarian.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -6,9 +6,9 @@ Thank you for visiting my website. This page tells you how I use personal inform
 
 ### Use of cookies and tracking
 
-My website itself does not use any cookies and does not track you in any way. However, third party services used by the website, such as Disqus for comments and Amazon for advertising, may use their own tracking cookies necessary for the delivery of their services.
+My website itself does not use any cookies (except those technically necessary for the delivery of its content) and does not track you in any way. I use AdSense (Google) for advertising. However, for the protection of my visitors, I do not allow Google to collect information about you for ad targeting (so, if you are in the EU, you should only see targeted ads from advertisers to whom you gave explicit consent; otherwise they may be breaking the GDPR).
 
-I may occasionally (once in a few months) run an experiment that allows me to better understand how my visitors use this website and, consequently, make improvements to it. Such an experiment requires setting up tracking cookies for a short period of time, which are completely anonymous, and all data related to your visit are deleted after the experiment has finished.
+I may occasionally (once in a few months) run an experiment that allows me to better understand how my visitors use this website and, consequently, make improvements to it. Such an experiment requires setting up tracking cookies for a short period of time, which are completely anonymous, and all data related to your visit will be deleted after the experiment has finished.
 
 ### Amazon Associates Program
 
