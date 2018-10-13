@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bankmobilevibe.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622025644id_/http%3A//bankmobilevibe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankmobilevibe.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014011900id_/https%3A//bankmobilevibe.com/privacy) for the most accurate reproduction.*
 
-# BankMobile VIBE | Privacy
+# Privacy - BankMobile VIBE
 
 #### Your Privacy Is Our Priority
 
-[View BankMobile's Privacy Disclosure/Notice](https://web.archive.org/wp-content/uploads/sites/3/2016/06/BankMobile_Privacy_Disclosure_Notice_061616-FINAL.pdf)
+[View BankMobile's Privacy Disclosure/Notice](https://www.bankmobilevibe.com/privacy_notice.pdf)
 
-At BankMobile, a Division of Customers Bank (further referred to as “BankMobile,” “we,” “us,” or “our), we take our customers’ privacy and online security very seriously. During the refund selection process, or when you sign up for PLUS loan refunds, or when you open a checking account, you provide us with personal information about yourself. BankMobile understands the importance of protecting the safety and confidentiality of the information you provide and we treat this information with the utmost security and respect.
+At BankMobile, a Division of Customers Bank (further referred to as “BankMobile,” “we,” “us,” or “our), we take our customers’ privacy and online security very seriously. During the refund selection process, or when you sign up for PLUS loan refunds, or when you open a checking account, or apply for other products or services, you provide us with personal information about yourself. BankMobile understands the importance of protecting the safety and confidentiality of the information you provide and we treat this information with the utmost security and respect.
 
-This Privacy Policy (this ‘Policy’) applies to the following websites: www.bankmobile.com, www.bankmobiledisbursements.com, www.bankmobilevibe.com, www.startwithchange.com, www.vibeaccount.com, and www.refundselection.com, in addition to the BankMobile Vibe mobile banking application. It details what personal information we collect from our customers as well as how we use it and safeguard it. This Policy also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
+This Privacy Policy (this ‘Policy’) applies to the following websites: www.bankmobile.com, www.bankmobiledisbursements.com, www.bankmobilevibe.com, www.vibeaccount.com, getvibeup.com, bankmobilevibeup.com, and www.refundselection.com, in addition to the BankMobile mobile banking application. It details what personal information we collect from our customers as well as how we use it and safeguard it. This Policy also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
 
 ###### Information Collection and Use
 
@@ -17,6 +17,8 @@ When you visit our website as a user, you can browse anonymously. We collect inf
 We use this and other information you may provide to us through the website or mobile app to perform transactions that you request; service your account needs as they arise; allow customization of our website and products; to store user information for future retrieval; to allow us to better service you in responding to, and processing, your requests; to link or combine the information you provide to us with information we get from others to help understand your needs and provide you with a better experience; and to administer any contests, promotions, surveys, or other site features we may run. In addition, we may collect and use information for analytic purposes, market research, or marketing purposes, as allowed by law. We may also use your email address depending on your selected preferences to send you promotional emails with news, product offerings, financial education, promotions, and similar items.
 
 When you use our mobile application, we will also collect your mobile device’s App Version, Device Type/Model, and Operating System. We also access the device file storage and camera sensor. You can opt out of this at the device level. We do not collect the geolocation data from your device.
+
+We may also obtain information about you from other sources and combine that with information we collect directly. For example, we may collect information about you when you post content to our pages or feeds on third party social media sites.
 
 ###### Information Sharing and Disclosure
 
@@ -70,10 +72,10 @@ Customer Care Mailing Address:
 
 BankMobile
 
-105 Munson Street
+115 Munson Street
 
 New Haven, CT 06511
 
 1-877-327-9515
 
-Effective Date: 6/16/2016
+Effective Date: 10/1/2018
