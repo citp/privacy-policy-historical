@@ -1,58 +1,58 @@
-> *The following text is extracted and transformed from the aorus.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208220913id_/http%3A//www.aorus.com/Index/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aorus.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013141048id_/https%3A//profile.gigabyte.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# AORUS
+# Privacy Policy - GIGABYTE
 
-**Preface**
+##  What personal data we collect 
 
-Welcome to [www.aorus.com](http://www.aorus.com/), the website created by AORUS Pte. Ltd. As a visitor, you are able to browse selected information on the website without providing your personal identity information. AORUS may ask for certain personal information from you to enable us to provide you with particular services or information upon your request. Please read our privacy policy below for your understanding about how we use and protect your personal information.
+GIGA-BYTE Technology Co., Ltd. is the ‘Controller’ of the personal data you provide to us. We only collect basic personal data about you which does not include any special types of information or sensitive information. This does however include your email, and sometimes your name and address. 
 
-**Collection and international transmission of your personal information**
+##  Why we need it 
 
-AORUS may collect certain personal information from you when you browse the web pages, use selected services or participate in selected online activities on our website(s). The purposes of such collection are to have a better understanding regarding online user activities, and for customized promotion activities. You will have the chance to choose whether to provide additional personal information to AORUS. AORUS will never ask you to provide special personal information, such as your medical record, genetic information, sexual life, or health examination, and criminal conviction background information, etc. Your personal information provided to AORUS may be transferred between AORUS’ affiliates and AORUS’ agents or contractors internationally, and may be stored and processed by them. AORUS recommends parents and guardians to accompany their children to browse this website.
+We need to know your basic personal data in order to provide you with services such as:   
+• product trouble shooting   
+• warranty inquiries   
+• repair services   
+• product purchase and shipment   
+• product registration   
+• entry to contests, sweepstakes or giveaways   
+• product rebates   
+• entry to online gaming events   
+We will not collect any personal data from you that we do not need in order to provide and oversee these services to you. 
 
-**Classification of personal information and purpose of collection.**
+##  With your consent 
 
-  * AORUS may ask you to provide your name, address, e-mail address, telephone and facsimile number, and other personally identifiable information.
-  * AORUS’ purposes of collection includes but not limited to: 
-    1. When you purchase AORUS’ product or service, AORUS may collect your information for registration, providing technical support, product upgrade, discount, pursuing outstanding payments, and product shipment or other promotions.
-    2. When you subscribe AORUS’ marketing materials, AORUS may collect your information for sending those marketing materials; however, you may unsubscribe it at any time.
-    3. When you participate any event held by AORUS, AORUS may use your information to confirm your identity, notify you any activities, and communicate with you.
-    4. When you seek any supports from AORUS, AORUS may use your personal information for providing you with support services, remedial services, user experience survey, customer’s satisfaction analysis and customer feedback.
-    5. When you raise questions to AORUS, AORUS may use your information to reply your questions or to do relevant search.
+If you have consented to receive product news/promotional offers from us, we will send such content to the email address you have provided. However you may choose to opt out of receiving such emails anytime via your profile settings or by following the opt-out instructions embedded in the emails. 
 
+##  Social logins 
 
+If you login or register on any of our websites using credentials of a third party social media network such as Facebook or Twitter, you authorize us to collect your authentication information, which is generally limited to your name/username, e-mail address, and encrypted access credentials. We store/use such information as explained in this privacy statement. However, we are not responsible for the terms of use and privacy policies for any of these third party social media networks. Please visit their websites for more information about their privacy policies and terms of use. 
 
-**Disclosure of your personal information**
+##  Sharing with 3rd parties 
 
-AORUS processes your information with due care and consideration and will not sell or lend your information to any third party. AORUS may use any personal information provided by you for identification reasons whilst you access the website. AORUS and all members of our corporate family reserve the right to combine the information collected from you with the information gotten from a third party for marketing use or service purpose.
+We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
 
-**Security of your personal information**
+##  How we store your data 
 
-AORUS commits to protect the security of your personal information. AORUS will not allow any third party to access to your personal information without your prior consent. AORUS uses the appropriate protection mechanisms, technologies and internal procedures to maintain the security of your information and prevent any unauthorized access of your information. In certain circumstances, AORUS may use a standard SSL and SET mechanism to protect the transfer of your personal information. However, AORUS cannot guarantee a perfect security on the internet. AORUS recommends you to keep your anti-virus software up to date.
+All the personal data we process is processed by our staff in Taiwan and the IT hosting and maintenance of this information is located on servers within Taiwan. We have a Data Protection regime in place to oversee the effective and secure processing of your personal data. We will keep your basic personal data (name, address, contact details) for 5 years after the last user activity, after which time it will be destroyed. 
 
-**Maintenance & Management**
+##  Cookies 
 
-AORUS reserves the right at any time and under any circumstance to remove personal information provided by users, customers or otherwise. AORUS further reserves the right to temporarily or permanently discontinue or terminate any users' accesses to all or part of the website content without any prior notification.
+Cookies are small data files sent to your browser when you visit a site. We use cookies to do the following:   
+• Log you in to our services   
+• Remember preferences and settings   
+• Better understand how people are using our services, and improve and promote those services based on that information 
 
-**Search and update your information**
+You may opt to disable cookies by clicking on the cookies notice at the top of our website and adjusting the settings in your browser. However if you choose this, some website functionality may be impaired. 
 
-In order to keep your personal information accurate, you may view, revise and edit your registration information by logging on this website.
+##  Third-party tracking cookies and advertising/analytics services 
 
-**Links to third party web sites and service**
+Additionally, we use tracking cookies from other companies. These tracking cookies allow us to recognize you on third-party websites, and enable us to show you personalized content there. For example, if you visit one of our website pages, you may later see an ad for Aorus or GIGABYTE products when you visit a tech news site.   
+The third party tracking cookies and advertising/analytics services we use are:   
+• Google Analytics: For information about Google Analytics currently available opt-outs, please click [ here ](https://tools.google.com/dlpage/gaoptout/) .  
+• Google Adwords: With [ Ads Settings ](http://www.google.com/settings/ads) , users can opt out of personalized ads, including remarketing.   
+• Facebook Pixels: If you don't want Facebook to use information based on your activity on websites or apps off Facebook for the purpose of showing you ads, you can opt out in your [ ad settings ](https://www.facebook.com/settings/?tab=ads) .   
+• Yandex Metrica: To prohibit all the sites that you visit from sending data to Yandex.Metrica, install the [ Yandex.Metrica blocker ](https://yandex.com/support/metrica/general/opt-out.html#opt-out) . 
 
-This website may contain links to other web sites, or use service provided by a third party (ex. Google Analytics).  
-If a third party’s website collects your personal information (e.g., age, sex, and hobby), AORUS is not responsible for the act of the third party.
+##  What are your rights? 
 
-**Personalization**
-
-AORUS and its contractors may use cookies, web beacons, and the personal information to personalize your online experience and improve our services. For example, we use a cookie to remember the country and language preferences you selected on our web site or to track your browse record on our website. Or we use web beacons to track traffic in eDM delivery. You may turn off cookies in your browser.  
-AORUS uses “Google Analytics” to collect information about use of this website to improve this site. Google Analytics collects information of users’ visit frequency, visited pages, and prior visited website before users’ coming to this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your personal identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser. You may opt out of Google Analytics by visiting the Google Analytics Opt-out Page.  
-AORUS uses Google Analytics’ 3rd-party audience data such as age, gender and interests to better understand the behavior of our online users and work with third parties that collect information about your online activities to provide advertising targeted to suit your interests and preferences. You may see certain ads on this website or other websites because we contract with Google or third parties to target our ads based on information we or they have collected, including information that was collected through automated means (such as cookies and web beacons). These third parties also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts. You may opt out of Google’s use of cookies by visiting the Google Advertising Opt-out Page.
-
-**Contact Us**
-
-Should you have any enquiries in respect of the above privacy policy or the way in which AORUS manages personal information, please contact AORUS directly via [Contact Us](http://support.aorus.com/Question/TechQuery).
-
-**Amendment and announcements of the Privacy Policy**
-
-AORUS reserves the right to update or change this policy at any time. AORUS will notify you about significant changes by placing a prominent notice on our web site.
+If you wish to correct, modify, or deleted your personal data, you may do so through the settings in your profile in the applicable platform. Where profile settings are not accessible/applicable, or if you wish to raise a complaint /question on how we have handled your personal data, you can contact our Data Manager at [mydata@gigabyte.com](mailto:mydata@gigabyte.com) . 
