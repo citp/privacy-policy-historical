@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ietab.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606213756id_/https%3A//www.ietab.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ietab.net privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013234717id_/https%3A//www.ietab.net/privacy-policy) for the most accurate reproduction.*
 
 # IE Tab - Run Internet Explorer in Chrome
 
