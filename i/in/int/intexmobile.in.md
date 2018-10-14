@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intexmobile.in privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521125602id_/http%3A//www.intex.in/Home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intexmobile.in privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014163743id_/http%3A//www.intex.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Intex Technologies
 
@@ -6,7 +6,7 @@ Our privacy policy document is designed for use in relation to this website (www
 
 Intex is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-**What we collect**
+#### What we collect
 
 We may collect the following information:
 
@@ -17,18 +17,18 @@ We may collect the following information:
 
 
 
-**Use of information we gather**
+#### Use of information we gather
 
 We may require this information to understand your needs and provide you with better products and services, and in particular for the following reasons:
 
   * Internal record keeping.
-  * We may use the information to improve our products and services. 
+  * We may use the information to improve our products and services.
   * We may periodically send promotional emails about new products, special offers or other information.
   * From time to time, we may also use your information to contact you for market research purposes. We may use the information to customize the website.
 
 
 
-**Security**
+#### Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
