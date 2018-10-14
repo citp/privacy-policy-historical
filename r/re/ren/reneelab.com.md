@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reneelab.com privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218081416id_/https%3A//www.reneelab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reneelab.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014203725id_/https%3A//www.reneelab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Renee Laboratory
 
@@ -26,4 +26,4 @@ Any donation via PayPal is encouraged and appreciated, for we would obtain more 
 
 ### About Cookie
 
-In order to understand which service is valuable for our customers, we use “cookies” to record your identification information and other information like password, favorites and purchase history. Cookie is a kind of small-sized text document written from website to your hard disk driver. It could enable us to know if you have returned to website server. Cookies could not execute codes or transmit virus. 
+In order to understand which service is valuable for our customers, we use “cookies” to record your identification information and other information like password, favorites and purchase history. Cookie is a kind of small-sized text document written from website to your hard disk driver. It could enable us to know if you have returned to website server. Cookies could not execute codes or transmit virus.
