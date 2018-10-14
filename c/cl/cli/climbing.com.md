@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the climbing.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625193809id_/http%3A//www.aimmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climbing.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014073436id_/http%3A//www.aimmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Active Interest Media
 
@@ -82,7 +82,7 @@ We may work with data providers to target advertising to you personally, through
 
 
 **Third party links**  
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Occasionally, at our discretion, we may include or offer third party products or services on our websites. We may collect a share of sales or other compensation from third-party links (via e-commerce affiliate linking) on our websites or digital entities. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **California Online Privacy Protection Act Compliance**  
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
@@ -98,7 +98,7 @@ We have taken the necessary steps to ensure that we are compliant with the CAN-S
 **Changes to our Privacy Policy**  
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
 
-This policy was last modified on May 24, 2018.
+This policy was last modified on August 27, 2018.
 
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.  
