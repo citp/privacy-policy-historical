@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naij.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624045925id_/https%3A//www.naija.ng/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naij.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014045507id_/https%3A//www.naija.ng/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
