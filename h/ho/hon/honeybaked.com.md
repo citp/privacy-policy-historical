@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honeybaked.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501030639id_/http%3A//www.honeybaked.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honeybaked.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014035859id_/http%3A//www.honeybaked.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | HoneyBaked Ham
 
