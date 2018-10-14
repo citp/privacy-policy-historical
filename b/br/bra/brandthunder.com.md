@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandthunder.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524121822id_/http%3A//brandthunder.com/brandthunder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandthunder.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014235325id_/https%3A//brandthunder.com/brandthunder.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Brand Thunder
 
