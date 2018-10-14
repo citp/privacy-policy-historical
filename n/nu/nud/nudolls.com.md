@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nudolls.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629091622id_/http%3A//nudolls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nudolls.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014152544id_/http%3A//nudolls.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy
-
-#### Privacy Policy
+# Privacy Policy
 
 Nudolls.com fully guarantees that none of your personal information, including credit card information or any other personal information, is stored on the Nudolls.com website.
 
