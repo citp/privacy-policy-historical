@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautifulhomesdesigns.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613100234id_/http%3A//beautifulhomesdesigns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautifulhomesdesigns.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014032951id_/http%3A//beautifulhomesdesigns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Beautiful Homes Design
 
