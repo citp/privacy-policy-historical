@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cfnews13.com privacy policy that was archived on 2018-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180409040822id_/http%3A//www.mynews13.com/content/news/cfnews13/news/article.html/content/news/articles/cfn/2017/4/7/spectrum_bhn_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfnews13.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014153819id_/http%3A//www.mynews13.com/fl/orlando/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Spectrum-BHN Privacy Policy
+# Privacy Policy | Central Florida | Spectrum News 13
 
 The information BHN's parent, Charter Communications, Inc. (“Spectrum”) collects about you at this site and its sub domains (the "Site") is used to administer the Site and to provide information to visitors about the Site's various services and tools, and to provide general news, information and entertainment. Spectrum, together with Road Runner and Spectrum-affiliated cable operators, are collectively referred to in this Privacy Policy as "we," "us," "our" or other similar pronouns, or "Spectrum."
 
 ## What Does This Privacy Policy Cover?
 
-This Privacy Policy (the "Privacy Policy") applies to your use of the site. This Privacy Policy does not govern Spectrum's treatment of information it collects and receives about you other than through the Site, for example in connection with any other services provided to you by Spectrum. A privacy notice relating to some of the other services Spectrum provides is located at [help.twcable.com/html/policies.html](http://help.twcable.com/policies.html)   
+This Privacy Policy (the "Privacy Policy") applies to your use of the site. This Privacy Policy does not govern Spectrum's treatment of information it collects and receives about you other than through the Site, for example in connection with any other services provided to you by Spectrum. A privacy notice relating to some of the other services Spectrum provides is located at [help.twcable.com/html/policies.html](http://help.twcable.com/policies.html)   
 
 This Privacy Policy covers how Spectrum treats information that Spectrum collects and receives about you via the Site, including the personally identifiable information we collect through the various features, services, and software that we use to provide the Site to you. Some of these offerings are provided by third parties who may provide you with additional information and choices about your privacy. If you choose to take advantage of these offerings, you should read the privacy policies of such third parties.
 
@@ -38,7 +38,7 @@ Spectrum sites (other than this Site), as well as any other third party content,
 
 Some of the information described above is collected or maintained through "cookies," which are small data files that are sent to your browser or related software from a web server and stored on your computer's hard drive. Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Additionally, if you have a Flash player installed on your computer, your Flash player can be set to reject or delete Flash cookies (technically known as Flash "local shared objects"). However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, the Site or certain areas or features.
 
-Many of the third party advertisers that place tracking tools on our Websites are members of programs that offer you additional choices regarding the collection and use of your information. You can learn more about the options available to limit these third parties’ collection and use of your information by visiting the websites for the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance](http://www.youradchoices.com/aboutus.aspx), as well as the webpages for [Facebook’s ad preferences tool](https://www.facebook.com/about/ads/) and [privacy policy](https://www.facebook.com/policy.php) .
+Many of the third party advertisers that place tracking tools on our Websites are members of programs that offer you additional choices regarding the collection and use of your information. You can learn more about the options available to limit these third parties’ collection and use of your information by visiting the websites for the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance](http://www.youradchoices.com/aboutus.aspx), as well as the webpages for [Facebook’s ad preferences tool](https://www.facebook.com/about/ads/) and [privacy policy](https://www.facebook.com/policy.php) .
 
 Content on this Site, including advertisements, may be recommended to you or customized to your interests and preferences, based on your personally identifiable information and web site usage information, including (but not limited to) non-personally identifying information, which we may obtain from you or from other sources.
 
@@ -74,4 +74,4 @@ We may change this Policy by amending the on-line version. If you continue to us
 
 ## Contacting Us
 
-If you have any questions regarding this Privacy Policy, or the privacy practices of Spectrum in connection with this Site, you may contact us at [Privacy@Charter.com](mailto:Privacy@Charter.com).
+If you have any questions regarding this Privacy Policy, or the privacy practices of Spectrum in connection with this Site, you may contact us at [Privacy@Charter.com](mailto:Privacy@Charter.com).
