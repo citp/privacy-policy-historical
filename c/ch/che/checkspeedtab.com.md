@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkspeedtab.com privacy policy that was archived on 2018-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180421071737id_/http%3A//www.checkspeedtab.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkspeedtab.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014191342id_/http%3A//www.checkspeedtab.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
