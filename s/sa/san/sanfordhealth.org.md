@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sanfordhealth.org privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320133744id_/http%3A//www.sanfordhealth.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanfordhealth.org privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014062137id_/https%3A//www.sanfordhealth.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
-Sanford Health acknowledges and respects any individual's right to privacy. We take your concerns related to privacy and security seriously. We therefore want you to know how we may collect, use, share, and protect your information. In addition to this Privacy Statement, visitors to the Sanford Health website should consult the Sanford Health website [Terms & Conditions](https://web.archive.org/TermsConditions) as well as any product or service specific terms and conditions that may apply. The Sanford Health [Notice of Privacy Practices](https://web.archive.org/PrivacyOfHealth) is a separate document which references how patient medical information (protected health information) may be used or disclosed.
+Sanford Health acknowledges and respects any individual's right to privacy. We take your concerns related to privacy and security seriously. We therefore want you to know how we may collect, use, share, and protect your information. In addition to this Privacy Statement, visitors to the Sanford Health website should consult the Sanford Health website [Terms & Conditions](https://web.archive.org/terms-and-conditions) as well as any product or service specific terms and conditions that may apply. The Sanford Health [Notice of Privacy Practices](https://web.archive.org/privacy-of-health) is a separate document which references how patient medical information (protected health information) may be used or disclosed.
 
 This Privacy Statement applies to sanfordhealth.org and other websites under Sanford Health control which we will refer to as our "website".
 
@@ -80,7 +80,7 @@ Sanford Health is committed to protecting children's privacy on the Internet. We
 
 ## My Sanford Chart and Protected Health Information
 
-Sanford Health offers patients a secure online health connection knows as My Sanford Chart. Any personal information contained or entered within My Sanford Chart is considered Protected Health Information. How we collect, use and disclose Protected Health Information is referenced in Sanford Health's [Notice of Privacy Practices](https://web.archive.org/PrivacyOfHealth).
+Sanford Health offers patients a secure online health connection knows as My Sanford Chart. Any personal information contained or entered within My Sanford Chart is considered Protected Health Information. How we collect, use and disclose Protected Health Information is referenced in Sanford Health's [Notice of Privacy Practices](https://web.archive.org/privacy-of-health).
 
 ## Changes to the Privacy Statement
 
