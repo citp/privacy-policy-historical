@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radioplayer.co.uk privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604195359id_/http%3A//www.radioplayer.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioplayer.co.uk privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014201329id_/http%3A//www.radioplayer.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Radioplayer
 
