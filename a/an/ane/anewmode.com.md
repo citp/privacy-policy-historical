@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anewmode.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524143443id_/https%3A//www.anewmode.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anewmode.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014125537id_/https%3A//www.anewmode.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
