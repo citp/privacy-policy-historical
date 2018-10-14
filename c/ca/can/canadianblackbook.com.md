@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadianblackbook.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613112347id_/http%3A//www.canadianblackbook.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianblackbook.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014175223id_/http%3A//www.canadianblackbook.com/privacy.html) for the most accurate reproduction.*
 
 # Canadian Black Book Car Values, New & Used Cars, Prices, Reviews & Research
 
