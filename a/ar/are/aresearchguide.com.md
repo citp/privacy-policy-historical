@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aresearchguide.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411090948id_/http%3A//www.aresearchguide.com/privacy-and-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aresearchguide.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014135447id_/https%3A//www.aresearchguide.com/privacy-and-policy.html) for the most accurate reproduction.*
 
 # Privacy and policy - A Research Guide for Students
 
@@ -6,8 +6,8 @@ _This privacy policy was last updated on 6th December 2017._
 
 This Policy determines how we obtain, collect and use information on our website aresearchguide.com (the Website or Our Website) or other products and services provided on the website aresearchguide.com (all of the above together referred to as the Services).
 
-  1. **By visiting this Website or using the Services, you accept rules and conditions described in this Policy, which could be changed over time. Every time, when you visit the Website or use the Services you express your direct consent to us collecting, using and disclosing information provided by you in accordance with the procedure described in this Policy.**
-  2. **We collect, register or process any of the following general categories of information:**
+  1.  **By visiting this Website or using the Services, you accept rules and conditions described in this Policy, which could be changed over time. Every time, when you visit the Website or use the Services you express your direct consent to us collecting, using and disclosing information provided by you in accordance with the procedure described in this Policy.**
+  2.  **We collect, register or process any of the following general categories of information:**
 
 
   * Information about your visits to our website, your use of the website;
@@ -20,7 +20,7 @@ This Policy determines how we obtain, collect and use information on our website
   * Pages requested by your browser from our server (via cookies).
 
 
-  3. **USE OF COOKIES**
+  3.  **USE OF COOKIES**
 
 
 
@@ -34,7 +34,7 @@ You have the ability to accept or decline cookies. Most web browsers automatical
 
 Third party links provided on our website may also use cookies, over which aresearchguide.com has no control. Such cookies (if used) would be downloaded once you click on their advertisement banners on our website or visit their sites.
 
-  4. **Our server processes the following specialized information while you are using the Website:**
+  4.  **Our server processes the following specialized information while you are using the Website:**
 
 
 
@@ -42,7 +42,7 @@ Your IP address is processed for the purpose of demonstration the language versi
 
 Data about your IP address is processed by our server exclusively during the time of your visit of our website. We do not register, do not process for any purpose, other than the above, or do not store any data about your IP-address.
 
-  5. **We register and process the following general information provided by you while communicating with us via the feedback form on our Website with the purpose of responding to your requests:**
+  5.  **We register and process the following general information provided by you while communicating with us via the feedback form on our Website with the purpose of responding to your requests:**
 
 
   * Name;
@@ -50,7 +50,7 @@ Data about your IP address is processed by our server exclusively during the tim
   * The contents of your message addressed to us.
 
 
-  6. **Distribution and disclosure of information**
+  6.  **Distribution and disclosure of information**
 
 
 
@@ -68,7 +68,7 @@ The transmission of information via the internet is not completely secure and th
 
 We reserve the right to disclose personal User information subject to lawful demands or if we are bound by a court decision.
 
-  7. **We protect your information in the following way:**
+  7.  **We protect your information in the following way:**
 
 
 
@@ -76,19 +76,19 @@ We take all possible steps to ensure the safety of your information, which is re
 
 You bear responsibility for observing the privacy of your passwords and safety of your keys stored on your device.
 
-  8. **Third party websites:**
+  8.  **Third party websites:**
 
 
 
 Our website may, from time to time, contain links to and from the websites. If you follow any links to a third party website, keep in mind that these sites have their own privacy policies and that we do not assume any responsibility or obligations under such policies. Please examine these policies prior to transferring any personal data to other websites.
 
-  9. **Access to information:**
+  9.  **Access to information:**
 
 
 
 Our website does not possess the capability to access your personal information on your personal computer.
 
-  10. **Our relations with advertisers:**
+  10.  **Our relations with advertisers:**
 
 
 
@@ -98,7 +98,7 @@ We are also entitled to use summarized information to provide assistance to adve
 
 If you have agreed to receive advertisements by email or via SMS from us or our partners, you can unsubscribe at any time by sending us an email via the Website of the Company or software developed by the Company.
 
-  11. **Changes to our Privacy Policy:**
+  11.  **Changes to our Privacy Policy:**
 
 
 
