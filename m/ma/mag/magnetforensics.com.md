@@ -1,88 +1,59 @@
-> *The following text is extracted and transformed from the magnetforensics.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630160648id_/https%3A//www.magnetforensics.com/privacy-security-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnetforensics.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014203631id_/https%3A//www.magnetforensics.com/privacy-security-statement) for the most accurate reproduction.*
 
 # Privacy and Security Statement - Magnet Forensics Inc.
 
-This policy describes the following practices:
+At Magnet Forensics Inc. (“Magnet Forensics”), your right to privacy is very important to us. From time to time, the nature of our business dictates that we may collect personal information from our customers and partners. Because we are committed to protecting your privacy rights and the information you provide to us, we have developed this Privacy and Security Statement. It explains how we will protect your information and describes how we will use and share it.
 
-  * Collecting information
-  * Sharing your personal information
-  * Maintaining your personal information
+### 1\.  WHAT WE NEED
 
+Our Personal Data Protection Policy governs the use and storage of your data. You can see our Personal Data Protection Policy at [www.magnetforensics.com/legal](https://web.archive.org/legal/).
 
+Magnet Forensics is a Controller of the personal data you (data subject) provide us. We collect the following types of personal data from you:
 
-This privacy policy may change from time to time to reflect Magnet Forensics’s internal needs, customer feedback, or changes in applicable privacy legislation. Magnet Forensics will post all such changes on our website, so please visit this page regularly.
+  * Names
+  * Email
+  * Address
+  * Company Name
+  * Employment information from job applicants or employees
 
-NOTE: Users are able to purchase software from Magnet Forensics through our website. The software is not intended for children under the age of 13. We do not knowingly collect or maintain any personal information or non-personally-identifiable information from anyone under the age of 13 nor is any part of our website or software directed to children under the age of 13. We will remove and/or delete any personal information we believe was submitted by any child under the age of 13.
-
-### COLLECTING INFORMATION
-
-When you purchase software from Magnet Forensics, you will be required to provide specific information about yourself, such as your name, address, telephone number and purchasing information. We will always inform you when we need information that personally identifies you, and we will keep this information in strict confidence. Additionally, you may, on occasion, voluntarily provide Magnet Forensics with information that can be classified as personal information – all such personal information will be stored and maintained in accordance with this privacy policy.
-
-We collect information about you in the following ways:  
-As part of your registration and purchase of Magnet Forensics’s software and services  
-Magnet Forensics requires your name, address, telephone number and credit card or other purchasing information for billing purposes. This information is kept confidential and stored securely by Magnet Forensics.
-
-By tracking visitors to our website:  
-Use of Magnet Forensics’s website may result in the collection of technical information such as your computer’s IP address, operating system, browser name/version, the referring web page, requested page, date/time, and sometimes a “cookie” (which can be disabled using your browser preferences); such information is used to help us understand the overall usage pattern of our website and software. At Magnet Forensics Inc., cookies are only used to identify one unique visitor from another visitor during a particular session. A session is the period of active site-use while that unique visitor is linked to our server. The cookie expires and is deleted from the visitor’s computer as soon as they close their browser. Although information in cookies will not identify you personally, it may nevertheless provide certain information about you, and we therefore generally treat it as personal information.
-
-You contact Magnet Forensics directly:  
-Customers and business partners often contact us directly. When you contact any Magnet Forensics employee by telephone, e-mail, in person, or through our website, you will be asked to provide consent to the collection of personal information if your personal information will help us deliver the information, products, or services you require.
-
-You respond to communications from Magnet Forensics:  
-From time to time, Magnet Forensics may invite you to provide us with information for specific purposes. We may ask for this information through feedback features on our website or software; we may send out e-mail inviting feedback or offering products and services; or we may ask you for information concerning support of our products or services. Your response to these communications may require you to submit personal information and opinions.
-
-Your information is obtained through a third party:  
-Occasionally, Magnet Forensics will obtain information about you from third parties, such as mailing list providers, third party service providers, ISPs, or third party application or account providers. Third-party providers are responsible for obtaining consent for the release of personal information to us from those individuals identified on mailing lists, surveys, or through other collection methods.
-
-### SHARING YOUR PERSONAL INFORMATION
-
-Subject to any exceptions stated above in the collection of information section, should Magnet Forensics collect any of your personal information, we will follow these practices regarding the distribution of that information.
-
-Your personal information is always protected:  
-Magnet Forensics uses reasonable precautions to protect your personal information and store it securely. Access to your personal information is restricted to those personnel who need it, and Magnet Forensics takes reasonable steps to prevent the unauthorized use or disclosure of your personal information.
-
-Magnet Forensics only uses and discloses your personal information if it helps us facilitate your needs, improve our products and services, meet legal and regulatory requirements, or – to the limited extent possible – manage our internal business operations. Additionally, if there are any disclosure or use restrictions in your consent to the collection of your personal information, Magnet Forensics will abide by those restrictions (subject to the consent exceptions listed below).
-
-For example, if you provide your credit card information to order a product from Magnet Forensics, we will only use your credit card information to process that particular order. If you give Magnet Forensics your contact information to obtain information on a particular product, we will only send you information on that product unless you have agreed otherwise.
-
-Magnet Forensics may combine your information with other information into an aggregate form, so your information no longer personally identifies you. We may then disclose the aggregate information to third parties, so they can obtain an overall picture of Magnet Forensics’s products, services and business.
-
-We only share your information with your consent:  
-Magnet Forensics provides your information to third parties only for purposes to which you have consented, and we require such third parties to keep your information confidential.
-
-In a few situations, Magnet Forensics may be required to disclose your information without your prior consent. For example, Magnet Forensics may disclose your information if we are required to do so by law, or if we believe in good faith that such disclosure is necessary to:
-
-  * comply with law or legal process
-  * protect and defend our rights and property, or the rights and property of a third party
-  * protect against misuse or unauthorized use of any of Magnet Forensics’s products, software, services, or other proprietary materials
-  * protect the personal safety of any person
-  * allow for a change of ownership of Magnet Forensics and associated transfer of all personal information to the new owner of Magnet Forensics – this does not affect the protection of your information under this Privacy Policy  
-Magnet Forensics will always try to provide you with prior notice of such disclosure; however, such notice may not always be possible or reasonable given the circumstances.
+  
 
 
+### 2\.  WHY WE NEED IT
 
-### MAINTAINING YOUR PERSONAL INFORMATION
+We need your personal data to provide you with the following services:
 
-Magnet Forensics has established the following practices regarding the maintenance of your personal information.
+  * Names/addresses/emails- for mailing offers, product information; event notification, surveys, quotes/invoices, product demonstration, evaluation and delivery.
+  * Phone numbers – for customer feedback, product inquiries and reporting/resolving support incidents.
+  * Employment information – for evaluating your potential to become a Magnet Forensics employee.
 
-You can request access to your personal information at any time:  
-If, for any reason, you wish to review your personal information that Magnet Forensics has in its possession, you can contact our Privacy Officer, who will be pleased to provide you with all your personal information that Magnet Forensics has on file, except where Magnet Forensics is prohibited by law from providing you with your information. In such cases, Magnet Forensics will inform you of the prohibition.
+  
 
-You can request changes to your personal information at any time:  
-Sometimes, it will be necessary for you to update your personal information Magnet Forensics has on file. For example, if you move or change credit cards, you may need to update your information in order to keep receiving services provided by Magnet Forensics.
 
-If you wish to make any changes or corrections to your personal information, please contact our Privacy Officer who will implement the changes. This will help us ensure our records are always up-to-date.
+### 3\.  WHAT WE DO WITH IT
 
-You can opt out of communications at any time:  
-You always have the choice of whether you wish to receive information – such as e-mail updates or advertising material – from Magnet Forensics. Even if you have consented in the past to receiving information from Magnet Forensics, you can opt out of future communications by notifying Magnet Forensics.
+Your personal data is processed at Magnet Forensics’ Canadian offices located at 156 Columbia Street W., Unit 2, Waterloo, Ontario, Canada. Your data which is hosted or stored on Magnet Forensics’ premise is located at 156 Columbia Street W., Unit 2, Waterloo, Ontario, Canada.
 
-If you do choose to opt out of communications respecting products and services provided by Magnet Forensics, you may not obtain all the benefits we could otherwise provide, such as updates or warnings. Magnet Forensics will not have any liability to you for your loss of those benefits or any negative effects respecting your use of Magnet Forensics’s products or services.
+For certain business practices third-party providers have limited access to your data. These third-party providers are typically vendors of cloud services or other IT hosting services located in either Canada or USA. We also may provide your personal information to our partners as part of the sales cycle. This can include both pre-sales activities such as lead generation and activities related to processing orders. When using third-party providers and partners, Magnet Forensics will enter into a data processing agreement to safeguard your privacy rights. When third-party providers and partners are located outside the EU, Magnet Forensics ensures legal grounds for such international transfers by relying on Privacy Shield (US) or using the EU Model Clauses.
 
-You can request that your personal information be destroyed at any time:  
-A situation may arise where you desire to have all of your personal information that is contained in Magnet Forensics’s records deleted or destroyed. If this is what you wish, please contact our Privacy Officer, who will take care of removing your personal information from all of Magnet Forensics’s records. However, there may be situations where we are obligated to retain one archival copy of your information to allow us to comply with laws or respond to legal processes. We will inform you of all such situations, and will only use your retained personal information to the limited extent necessary to comply with such laws or respond to legal processes.
+### 4\.  HOW LONG WE KEEP IT
 
-### CONTACTING OUR PRIVACY OFFICER
+We retain your documents for seven years as per our Data Retention Policy. After this period, your personal data will be irreversibly destroyed. Any personal data held by us for marketing and service update notifications will be kept by us until such time that you notify us that you no longer wish to receive this information. Please see our Data Retention Policy for more information on our personal data retention schedule.
 
-Magnet Forensics welcomes your comments about this privacy policy, and we would be happy to provide any additional information you require. Please contact our Privacy Officer at: [legal@magnetforensics.com](mailto:legal@magnetforensics.com)
+  
 
-This privacy policy supplements any agreements you already have with Magnet Forensics Inc., such as your User Agreement, website terms and conditions, and any other software license agreement. Our privacy policy does not replace the terms of those agreements. By agreeing to those terms and using Magnet Forensics’s website, products, software and services, you are consenting to the collection and use of your personal information by Magnet Forensics Inc. in accordance with this privacy policy. This policy was written in accordance with the Canadian Personal Information Protection and Electronic Documents Act (PIPEDA).
+
+### 5\.  WHAT ARE YOUR RIGHTS?
+
+Should you believe that any personal data we hold on you is incorrect or incomplete, you can request to see this information, rectify it or have it deleted. Please contact us through a Data Subject Access Request Form located at [www.magnetforensics.com/legal](https://web.archive.org/legal/).
+
+In the event that you wish to complain about how we have handled your personal data, please contact our General Counsel at [dpo@magnetforensics.com](mailto:dpo@magnetforensics.com) or in writing at 156 Columbia Street W., Unit 2, Waterloo, Ontario, Canada. Our General Counsel will then investigate your complaint and work with you to resolve the matter.
+
+If you still feel that your personal data has not been handled appropriately according to the law, you can contact the Government Data Protection Authority offices for your region and file a complaint with them.
+
+  
+
+
+### 6\.  CHANGES IN THIS STATEMENT
+
+If we modify our Privacy and Security Statement, we will post the revised statement here, with an updated revision date. We encourage you to review the Privacy and Security Statement regularly. If we make significant changes to our Privacy and Security Statement that materially alter our privacy practices, we may also notify you by other means, such as sending an email or posting a notice on our corporate website and/or social media pages prior to the changes taking effect.
