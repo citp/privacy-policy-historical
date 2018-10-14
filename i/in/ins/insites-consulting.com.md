@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insites-consulting.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604064415id_/http%3A//www.insites-consulting.com/privacy-statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insites-consulting.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014113842id_/https%3A//www.insites-consulting.com/privacy-statements) for the most accurate reproduction.*
 
 # Privacy Statement | InSites Consulting
 
@@ -119,7 +119,7 @@ In any case, we have taken steps to ensure all Personal Data is processed respec
 Personal Data we hold may be transferred:
 
   * **to our subsidiaries and affiliates**  
-We may share your Personal Data within our global network of corporations when this is necessary for providing or improving our products and services or when this is necessary for the purpose for which your Personal Data was collected. For details of our subsidiaries and affiliates, please [click here](http://www.insites-consulting.com/about-us/offices/).
+We may share your Personal Data within our global network of corporations when this is necessary for providing or improving our products and services or when this is necessary for the purpose for which your Personal Data was collected. For details of our subsidiaries and affiliates, please [click here](https://www.insites-consulting.com/about-us/offices/).
   * **to our Service Providers**  
 We use third parties to support us in providing our services and to help provide, run and manage our internal IT systems or (internal) business processes.  
 For example, providers of information technology, cloud based software as a service provider, Website hosting and management, data analysis, recruiting software, data back-up, security and storage services.
