@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the semmo.net privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613122620id_/http%3A//www.semmo.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semmo.net privacy policy that was archived on 2018-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181015104949id_/http%3A//www.semmo.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of semmo.net - Semmo Network LIVE PORTAL
 
