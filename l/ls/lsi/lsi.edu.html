@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lsi.edu privacy policy that was archived on 2018-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180613190828id_/http%3A//www.lsi.edu/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lsi.edu privacy policy that was archived on 2018-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181015091501id_/https%3A//www.lsi.edu/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xml:lang="en" lang="en"><head>
 	<link rel="shortcut icon" href="/favicon.ico">
@@ -1487,7 +1487,7 @@ header .telephone a{
 
     
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/tag.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
 
@@ -2158,7 +2158,33 @@ $(document).ready(function(){
   })();
 
 </script>		
-	
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter49952776 = new Ya.Metrika2({
+                    id:49952776,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/49952776" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->	
 	<style>
 	
 	#change-language-white-popup {
@@ -2276,6 +2302,7 @@ $(document).ready(function(){
 			}
 	  });
 	}
+		jQuery(function(){setTimeout(checkcustomerIP,3000);});
 		</script>
 <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -2323,14 +2350,50 @@ src="https://www.facebook.com/tr?id=639599886243450&ev=PageView&noscript=1"
 		}
 	}else{
 		if( (schoolId != 'undefined' && schoolId != null && schoolId != '') || (isIntroCourse != 'undefined' && isIntroCourse != null && isIntroCourse != '') ){
-			$('#maps-container-ajax').load('https://www.lsi.edu/v4/views/sections/school-map-virtual-tour.php?gm=&vt=');
+            $.ajax({
+                type: "POST",
+                url: "https://www.lsi.edu/v4/views/sections/school-map-street-view-static.php",
+                data: {
+                    "si": schoolId,
+                    "vt": ""
+                },
+                success: function(data) {
+                    $('#maps-container-ajax').html(data);
+                }
+            });
 		}
 	}
+
+	//Load Google Map and Street View when click or the mouse pointer enters the map section
+	$(document).ready(function(){
+
+        var loadMapAndStreetView = function() {
+
+            if($('#maps-container-ajax').find('#dynamic-map').length === 0){
+                $.ajax({
+                    type: "POST",
+                    url: "https://www.lsi.edu/v4/views/sections/school-map-street-view-dynamic.php",
+                    data: {
+                        "lat": "",
+                        "lng": "",
+                        "vt": "",
+                        "schoolInfo": null                    },
+                    success: function(data) {
+                        $('#maps-container-ajax').html(data);
+                    }
+                });
+            }
+        };
+
+        $(document).on('click mouseover', '#school-map-virtual-tour', function() {
+            loadMapAndStreetView();
+        });
+    });
 </script>
 
 <script type="text/javascript">
     $(document).ready(function () {
-        var outputPhones = "        <a href=\"tel:+1619-564-5450\" title=\"Call phone number\">\r\n\t\t\t<span>+1 619-564-5450<span>\r\n        <\/a>\r\n    ";
+        var outputPhones = "        <a href=\"tel:+44(0)2074439873\" title=\"Call phone number\">\r\n\t\t\t<span>+44 (0)20 7443 9873<span>\r\n        <\/a>\r\n    ";
 
         //Header Navigation bars
         if ($('#main-header').length && typeof outputPhones != 'undefined') {
@@ -2338,13 +2401,14 @@ src="https://www.facebook.com/tr?id=639599886243450&ev=PageView&noscript=1"
         } else if ($('#language-schools-header').length && typeof outputPhones != 'undefined') {
             // $('#language-schools-header #full-nav .telephone').html(outputPhones);
             $('#language-schools-header #collapse-nav .telephone').html(outputPhones);
+            $('#agents-primary-nav #full-nav .telephone').html(outputPhones);
         }
 
         //Sidebars
         if ($('#sidebar-wrapper').length) {
-            var sideBarPhoneLink = '<a href="tel:+1619-564-5450" title="Call to +1 619-564-5450" ><i class="fa fa-phone"></i><span>+1 619-564-5450</span></a>';
+            var sideBarPhoneLink = '<a href="tel:+4402074439873" title="Call to +44 (0)20 7443 9873" ><i class="fa fa-phone"></i><span>+44 (0)20 7443 9873</span></a>';
             var sideBarFreePhoneLink = '';
-            var sideBarBackupPhoneLink = '<a href="tel:+44(0)2074439873" title=" Call to +44 (0)20 7443 9873"><i class="fa fa-phone"></i><span>+44 (0)20 7443 9873</span></a>';
+            var sideBarBackupPhoneLink = '';
 
             if(typeof sideBarBackupPhoneLink != 'undefined' && sideBarBackupPhoneLink){
                 $('#sidebar-wrapper .contact-media').prepend(sideBarBackupPhoneLink);
