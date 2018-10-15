@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegamesky.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614145544id_/http%3A//freegamesky.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegamesky.com privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016014435id_/http%3A//www.freegamesky.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
