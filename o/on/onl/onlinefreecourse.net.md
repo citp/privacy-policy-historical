@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinefreecourse.net privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522162641id_/https%3A//www.onlinefreecourse.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinefreecourse.net privacy policy that was archived on 2018-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181015104447id_/https%3A//www.onlinefreecourse.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Online Free Course
 
