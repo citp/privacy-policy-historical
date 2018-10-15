@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storrito.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526124723id_/http%3A//storrito.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storrito.com privacy policy that was archived on 2018-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181015220448id_/https%3A//storrito.com/privacy) for the most accurate reproduction.*
 
 # Storrito - The Story Tool
 
@@ -10,7 +10,7 @@ Some terms used in the User Agreement are determined in accordance with this par
 
   1. "Agreement" – this User Agreement – the rules of use has been developed by the Administration to determine the procedure and conditions for using the Storrito service, and also the rights and duties of its Users and Administration.
   2. "Administration", "we", "our" and similar terms – "VIRE GmbH";
-  3. "The Storrito service" and "Storrito" is a web application developed and/or owned by the Administration, and located at: [www.storrito.com](https://web.archive.org/web/20180526124723id_/http://storrito.com/privacy/www.storrito.com);
+  3. "The Storrito service" and "Storrito" is a web application developed and/or owned by the Administration, and located at: [www.storrito.com](https://web.archive.org/web/20181015220448id_/https://storrito.com/privacy/www.storrito.com);
   4. "Storrito-account" is an account on the Storrito service, which allows the User to use the functions of the Storrito service. The account is created at registration (by entering an email and password);
   5. "User", "You", "Your" and similar terms – User (physical or legal person) authorized in the Storrito service;
 
@@ -132,7 +132,7 @@ We do not knowingly request to collect personal information from any person unde
 
 While Vire GmbH and Storrito are based in Germany (which is within the EEA), our service providers may store, transfer, and otherwise process your personal information in countries outside of the country of your residence, including the United States, the Philippines, and possibly other countries. We use approved Model Contractual Clauses for the international transfer of personal information collected in the European Economic Area and Switzerland, or require that any third party located in the U.S. receiving your personal information is certified under the E.U.-U.S. and/or the Swiss-U.S. Privacy Shield Frameworks and require that the third party agree to at least the same level of privacy safeguards as required under applicable data protection laws.
 
-If you have a complaint about our privacy practices and our collection, use or disclosure of personal information please contact us at [support@storrito.com](https://web.archive.org/web/20180526124723id_/http://storrito.com/privacy/support@storrito.com).
+If you have a complaint about our privacy practices and our collection, use or disclosure of personal information please contact us at [support@storrito.com](https://web.archive.org/web/20181015220448id_/https://storrito.com/privacy/support@storrito.com).
 
 ## EEA Users & Data
 
@@ -140,11 +140,11 @@ Legal bases for processing personal information Our legal bases for processing u
 
 ### Direct Marketing
 
-If you are a current customer residing in the EEA, we will only contact you by electronic means (eg. email) with information about our Services that are similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer and located in the EEA , we will contact you if you are located in the EU by electronic means for marketing purposes only if you have consented to such communication. If you do not want us to use your personal information in this way, or to pass your personal information on to third parties for marketing purposes, please contact us at [support@storrito.com](https://web.archive.org/web/20180526124723id_/http://storrito.com/privacy/support@storrito.com). You may raise such objection with regard to initial or further processing for purposes of direct marketing, at any time and free of charge. Direct marketing includes any communications to you that are only based on advertising or promoting products and services
+If you are a current customer residing in the EEA, we will only contact you by electronic means (eg. email) with information about our Services that are similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer and located in the EEA , we will contact you if you are located in the EU by electronic means for marketing purposes only if you have consented to such communication. If you do not want us to use your personal information in this way, or to pass your personal information on to third parties for marketing purposes, please contact us at [support@storrito.com](https://web.archive.org/web/20181015220448id_/https://storrito.com/privacy/support@storrito.com). You may raise such objection with regard to initial or further processing for purposes of direct marketing, at any time and free of charge. Direct marketing includes any communications to you that are only based on advertising or promoting products and services
 
 ### Individual Rights
 
-EEA Residents have the following rights, which can be exercised by contacting us at [support@storrito.com](https://web.archive.org/web/20180526124723id_/http://storrito.com/privacy/support@storrito.com) so that we may consider your request under applicable law. When we receive an individual rights request via email we may take steps to verify your identity before complying with the request to protect your privacy and security.
+EEA Residents have the following rights, which can be exercised by contacting us at [support@storrito.com](https://web.archive.org/web/20181015220448id_/https://storrito.com/privacy/support@storrito.com) so that we may consider your request under applicable law. When we receive an individual rights request via email we may take steps to verify your identity before complying with the request to protect your privacy and security.
 
   *  **Right to withdraw consent.** You have the right to withdraw your consent to the processing of your personal information collected on the basis of your consent at any time. Your withdrawal will not affect the lawfulness of Vire GmbH's processing based on consent before your withdrawal.
   *  **Right of access to and rectification of your personal information.** You have a right to request that we provide you a copy of your personal information held by us. This information will be provided without undue delay subject to some fee associated with gathering of the information (as permitted by law), unless such provision adversely affects the rights and freedoms of others. You may also request us to rectify or update any of your personal information held by Vire GmbH that is inaccurate. Your right to access and rectification shall only be limited where the burden or expense of providing access would be disproportionate to the risks to your privacy in the case in question, or where the rights of persons other than you would be violated.
@@ -163,9 +163,9 @@ Restricted personal information shall only be processed with your consent or for
   *  **Notification of erasure, rectification and restriction.** We will communicate any rectification or erasure of your personal information or restriction of processing to each recipient to whom your personal information have been disclosed, unless this proves impossible or involves disproportionate effort. We will inform you about those recipients if you request this information.
   *  **Right to object to processing.** Where the processing of your personal information is based on consent, contract or legitimate interests you may restrict or object, at any time, to the processing of your personal information as permitted by applicable law. We can continue to process your personal information if it is necessary for the defense of legal claims, or for any other exceptions permitted by applicable law.
   *  **Automated individual decision-making, including profiling.** You have the right not to be subject to a decision based solely on automated processing of your personal information, including profiling, which produces legal or similarly significant effects on you, save for the exceptions applicable under relevant data protection laws.
-  *  **Right to lodge a complaint.** If you believe that we have infringed your rights, we encourage you to contact us first at [support@storrito.com](https://web.archive.org/web/20180526124723id_/http://storrito.com/privacy/support@storrito.com) so that we can try to resolve the issue or dispute informally. You can also complain about our processing of your personal information to the relevant data protection authority. You can complain in the EU member state where you live or work, or in the place where the alleged breach of data protection law has taken place. In Germany, the relevant data protection authority is the Federal Commissioner for Data Protection and Freedom of Information (Bundesbeauftragter für den Datenschutz und die Informationsfreiheit).
+  *  **Right to lodge a complaint.** If you believe that we have infringed your rights, we encourage you to contact us first at [support@storrito.com](https://web.archive.org/web/20181015220448id_/https://storrito.com/privacy/support@storrito.com) so that we can try to resolve the issue or dispute informally. You can also complain about our processing of your personal information to the relevant data protection authority. You can complain in the EU member state where you live or work, or in the place where the alleged breach of data protection law has taken place. In Germany, the relevant data protection authority is the Federal Commissioner for Data Protection and Freedom of Information (Bundesbeauftragter für den Datenschutz und die Informationsfreiheit).
   *  **Storage of your personal information.** Vire GmbH will try to limit the storage of your personal information to the extent that storage is necessary to serve the purpose(s) for which the personal information was processed, to resolve disputes, enforce our agreements, and as required or permitted by law.
-  *  **Data Protection Officer:** You may reach the Vire GmbH Data Protection Officer at [support@storrito.com](https://web.archive.org/web/20180526124723id_/http://storrito.com/privacy/support@storrito.com)
+  *  **Data Protection Officer:** You may reach the Vire GmbH Data Protection Officer at [support@storrito.com](https://web.archive.org/web/20181015220448id_/https://storrito.com/privacy/support@storrito.com)
 
 
 
@@ -181,7 +181,7 @@ Your rights to personal information are not absolute. Access may be denied when:
 
 ## How to contact us
 
-If you have questions or concerns regarding this Privacy Policy, or if you have a complaint, you should first contact us at [support@storrito.com](https://web.archive.org/web/20180526124723id_/http://storrito.com/privacy/support@storrito.com), or by writing to us at:
+If you have questions or concerns regarding this Privacy Policy, or if you have a complaint, you should first contact us at [support@storrito.com](https://web.archive.org/web/20181015220448id_/https://storrito.com/privacy/support@storrito.com), or by writing to us at:
 
 VIRE GmbH, Gertrudenstraße 9, 50667 Cologne, Germany Represented by Nils Pospischil
 
