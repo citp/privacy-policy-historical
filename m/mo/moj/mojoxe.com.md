@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mojoxe.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007024549id_/http%3A//www.mojoxe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojoxe.com privacy policy that was archived on 2018-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181015030617id_/http%3A//www.mojoxe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MojoXE
 
@@ -14,7 +14,7 @@ Bonnier adheres to the U.S. Department of Commerce Safe Harbor framework and the
 
 **Note: For questions related to your magazine subscription, please visit our magazine’s customer service website.**
 
-If you have any questions about this Privacy Policy, please write to us via e-mail at privacy@bonniercorp.com, or via postal mail at:
+If you have any questions about this Privacy Policy, please write to us via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or via postal mail at:
 
 Privacy Department
 
@@ -92,7 +92,7 @@ Bonnier employees, agents, and contractors who have access to personally-identif
 
 Bonnier only collects personal information that is relevant to the purposes for which it will be used.  Though we do take appropriate steps to review and update the information that we store to ensure that it is accurate, complete, and current, we also depend on you to update or correct your personal information when necessary.
 
-You may correct or delete any or all of the personal information you have provided to us at any time.  Many of our websites provide means to review and update the personal information that you have provided on that website.  To inquire about personally identifiable information that Bonnier has collected about you, or about other ways to correct factual errors in that information, please send us an e-mail at privacy@bonniercorp.com. (Note: Do not use this email address to send questions about your subscription. Instead, please visit our magazine’s customer service website.) To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.  We will decline to process requests where we cannot verify the identity of the requester.  We may also decline to process requests that are automated, repetitive, systematic, or impractical, or that might jeopardize the privacy of others.
+You may correct or delete any or all of the personal information you have provided to us at any time.  Many of our websites provide means to review and update the personal information that you have provided on that website.  To inquire about personally identifiable information that Bonnier has collected about you, or about other ways to correct factual errors in that information, please send us an e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) (Note: Do not use this email address to send questions about your subscription. Instead, please visit our magazine’s customer service website.) To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.  We will decline to process requests where we cannot verify the identity of the requester.  We may also decline to process requests that are automated, repetitive, systematic, or impractical, or that might jeopardize the privacy of others.
 
 In some limited circumstances, such as to resolve disputes, troubleshoot problems, and enforce our policies, we may retain some of information that you have requested us to remove.  Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests.
 
@@ -100,11 +100,11 @@ We only use the information we collect for purposes consistent with this policy.
 
 **Your privacy options**
 
-**If you prefer not to receive e-mail communications from other companies** , you may choose to remove yourself from any e-mail lists that we provide to third parties for marketing purposes by sending us an e-mail at emailoptout@bonniercorp.com.  You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
+**If you prefer not to receive e-mail communications from other companies** , you may choose to remove yourself from any e-mail lists that we provide to third parties for marketing purposes by sending us an e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
 
-**If you prefer not to receive postal communication from other companies** , you may choose to remove yourself from any postal mailing lists that we provide to third parties for marketing purposes by sending us an e-mail at emailoptout@bonniercorp.com, or writing us at Bonnier Corporation, P.O. Box 6364, Harlan, IA 51593.  You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
+**If you prefer not to receive postal communication from other companies** , you may choose to remove yourself from any postal mailing lists that we provide to third parties for marketing purposes by sending us an e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or writing us at Bonnier Corporation, P.O. Box 6364, Harlan, IA 51593.  You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
 
-We only want to communicate with you if you want to hear from us.   **If you prefer not to be contacted at all** , you may opt out of receiving any communications from us at any time by notifying us at emailoptout@bonniercorp.com.  You may also notify us by sending mail to the following address:
+We only want to communicate with you if you want to hear from us.   **If you prefer not to be contacted at all** , you may opt out of receiving any communications from us at any time by notifying us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  You may also notify us by sending mail to the following address:
 
 Online Marketing Department
 
