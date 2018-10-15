@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 88sears.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162454id_/https%3A//www.88sears.com/MyHRHomePage%2888Sears%29/tabid/379/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 88sears.com privacy policy that was archived on 2018-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181015144032id_/https%3A//88sears.com/MyHRHomePage%2888Sears%29/tabid/379/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # MyHR Home Page (88Sears)
 
