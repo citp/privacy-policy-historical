@@ -1,40 +1,89 @@
-> *The following text is extracted and transformed from the lists-n-profits.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010634id_/http%3A//lists-n-profits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lists-n-profits.com privacy policy that was archived on 2018-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181015113420id_/https%3A//lists-n-profits.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # Build Your Lists & Profits!
 
-[](http://lists-n-profits.com/banclick.php?code=cc1293b4eae66aa4fa2960e6ccb8ae96)  
+lists-n-profits.com Privacy Policy  
 
-
-Lists-N-Profits Privacy Policy
 
   
-Welcome to Lists-N-Profits (the "Site"). 
+General Privacy Policies
 
-We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Lists-N-Profits (collectively, "Services") ("Authorized Customers"). 
+We respect your interest in your privacy and as a result we have created this informational disclosure. 
 
-"Personally Identifiable Information" refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual. 
+We collect and use personal information for many purposes, including but not limited to, billing; product and service fulfillment; to better understand our customer needs; to provide a better website, products and services; to communicate with customers and potential customers regarding our products and services and third party products and services. 
 
-What Personally Identifiable Information is collected? We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell. 
+Generally, your private information will only be disclosed to our owners, employees, independent contractors, subsidiaries, partners, affiliates, attorneys, consultants, business associates, service providers, suppliers and agents, acting on our behalf or request. This general rule, and disclosures in specific situations, is more particularly described below. 
 
-How does the Site use Personally Identifiable Information? We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
+You must be at least 18 years old to access this website. We do not direct this website to persons under 18, nor do we knowingly collect any personal information from children under the age of thirteen.
 
-How is Personally Identifiable Information stored? Personally Identifiable Information collected by Lists-N-Profits is securely stored and is not accessible to third parties. 
+Information Collected by our ISP
 
-What choices are available to Visitors regarding collection, use and distribution of the information? Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at bounce@lists-n-profits.com 
+The hosting provider for this Internet site (as with any Internet site) has the ability to record various information, including domain name, pages accessed, date and time of access, web browser type and computer operating system, and referring information, and to disclose this information. This is most commonly done by providing access to raw server logs. For more information you should perform an Internet search on 'server logs' or 'raw server logs.' We may have access to our raw server logs and access reports prepared by our hosting provider. 
 
-Are Cookies Used on the Site? Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. 
+Financial Information for Billing Purposes
 
-How does Lists-N-Profits use login information? Lists-N-Profits uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
+We sell products and services. When sales are made financial information must be disclosed. This information can include any number of facts you are asked to provide, but most commonly includes your name, financial / credit card information, billing address, and email address. Generally, this purchase information will be provided by you to a third party payment processor and we do not receive your financial / credit card information. 
 
-How can Visitors correct any inaccuracies in Personally Identifiable Information? Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at bounce@lists-n-profits.com 
+In the event we do receive financial / credit card information, we will not disclose it to anyone unless disclosure is required by law or a court order, or unless disclosure is required to address an issue implicated by the financial transaction. If you claim that your financial information was used to make a purchase you did not authorize, details about the financial transaction may be disclosed to law enforcement and anyone else we deem necessary to address the matter. 
 
-Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site? We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting bounce@lists-n-profits.com. However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+Use of eMail Addresses and other Contact Information
 
-What happens if the Privacy Policy Changes? We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
+An important part of our services includes being able to provide information to you. As a result, you expressly consent to receiving communications from us via email, fax, telephone, mail, text, SMS, or any other delivery method, including to your cell phone.
 
-Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
+As a customer you are agreeing to receive information about the product or service you purchased. This may include, but is not limited to, information about product or service updates, new features, or information we believe you may find interesting. 
 
-  
-Copyright (c) 2010-2013 Lists-N-Profits All Rights Reserved - Part of the [Trax Web](http://traxweb.com/)
+We may also send you information about other products and services our company offers. 
 
-[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [ Recommended Site Of The Day](https://web.archive.org/recommends.php)
+We will not sell, provide, or transfer you email address to others. 
+
+We may allow advertising to our customers, or engage in joint ventures, which result in your receiving advertisements from selected third parties. 
+
+Identification of Purchasers
+
+If you purchase one of our products or services, you authorize us to use your name and identification information in advertising or promotions. 
+
+We also use personal information in an aggregate form (i.e., not individually attributable to you) for business analysis, operational, marketing and other promotional purposes. 
+
+Unless we provide access to a membership area, account, or provide an ability to have and change a username, password, email address, or other similar information, we do not have the capability to allow users to review and request changes their personal information.
+
+Cookies and Tracking
+
+Cookies may be used to keep track of referred affiliate commissions and to monitor access to our website. You consent to any future use of cookies for testing purposes and the use of cookies for publicly available data to gather statistics for the purpose of determining which search engines, referring sites, key words, etc., bring visitors to our website, which pages visitors are most interested in, what web browsers are used, etc. Various providers may be used for this purpose. The purpose is to obtain information that will help promote the website, make the website more interesting and useful to visitors, and to identify areas where improvement is needed. 
+
+Our website does not respond to "do not track" requests from a web browser or other device, or other similar requests or procedures.
+
+Additionally, various third party information suppliers and other entities that provide information for this website, or for use by us, may use cookies. Examples include, but are not necessarily limited to billing providers, third party advertisers, and third party resources we promote. 
+
+We may also allow third party advertisers to display ads on our website. We are not in a position to know if they collect identifiable information about an individual consumer's online activities over time and across different websites, so you should assume they do. In most web browsers you can choose not to accept cookies from third party sites or third-party cookies.
+
+Disclosure by Necessity
+
+Private information may be disclosed if required by a court order, statute, law, or regulation. 
+
+Information is subject to disclosure to address a claim that you are violating the terms of any agreement pertaining to your use of your use this website or our products or services, or rights of any third party. 
+
+Information is also subject to disclosure if we believe that disclosure is necessary to identify, contact or bring an action against someone who may be causing injury to or interfering (either intentionally or unintentionally) with our rights or property, your rights or property, other users of our website, products or services, or anyone else. 
+
+As we continue to develop our business, we or our affiliates may sell or buy other businesses or entities, or we may merge with another company, or be bought by another company. In such transactions, personal information may be one of the transferred assets. 
+
+Your information may be stored and processed in any country in which we maintain facilities or conduct operations. By using our website, products and services, you consent to any such transfer of information outside of your country. 
+
+After your account becomes inactive your information may remain in our databases, computers, and archives, and cannot reasonably be expunged.
+
+Policy Changes
+
+These policies may be amended by us at any time and without notice, but will be posted at this page.
+
+You agree that your continued use of our websites, product or service after that date will constitute your consent and acceptance of the amendment.
+
+Effective Date: 11/18/2016
+
+Contact Information:  
+Dave Mosher  
+1220G Airport Fwy #492, Bedford, TX 76022  
+Email davemoshershelpdesk@gmail.com  
+Payza Email   
+Support: http://www.totaladexplosion.com/support/index.php  
+Ph: 469-407-7831  
+lists-n-profits.com  
+http://lists-n-profits.com
