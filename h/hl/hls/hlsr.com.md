@@ -1,61 +1,31 @@
-> *The following text is extracted and transformed from the hlsr.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630150949id_/http%3A//www.rodeohouston.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hlsr.com privacy policy that was archived on 2018-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181015101858id_/https%3A//www.rodeohouston.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy discloses the general privacy practices for the Houston Livestock Show and Rodeo™; Customer, Donor, Exhibitor/Contestant and Member Lists; and websites (collectively, the "Show"), including www.rodeohouston.com and www.hlsr.com. The Houston Livestock Show and Rodeo is committed to respecting your privacy rights when visiting any Show site page, such as this one. To protect your Personal Information, the Show has created the guidelines outlined below. Understanding that Internet technologies are rapidly evolving, any changes to this policy will be promptly posted on this page, with an updated "effective date" posted at the end of this policy. 
+If you are located in the European Union, beginning May 25, 2018, your personal data is protected by the General Data Protection Regulation (GDPR) in your relationship with all data controllers, both within and outside the EU. 
 
-While visiting any of the Show websites (collectively, the "Site"), we may ask you to register and/or provide information that personally identifies you ("Personal Information") for purposes of interacting with the Site. Such Personal Information may include, but is not limited to, your name, phone number, street address and email address. On any page that collects Personal Information, we will specifically describe what information is required in order to provide you with the product or service or enter you in the promotion you have requested, as well as respond to your inquiry or comment. 
+The information presented in this section of the Privacy Policy apply only to EU residents. 
 
-A cookie is an element of data that a website can send to your browser, which may then be stored on your system. This element of data is a piece of text, not a program. The Site can only access the information from a cookie sent by the Site. We cannot access other cookies sent by other websites or the information contained therein. Additionally, we cannot learn your email address or any other information about you through the use of a cookie. The only way we would learn such information is if you specifically and voluntarily submit that information to us, for example, through a registration system, by entering a sweepstakes or promotion, etc. 
+If you are a EU resident, you need to be aware that the personal data that we collect about you may be transferred to and processed by recipients that are located outside the European Economic Area, some of which are certified under the EU-U.S. Privacy Shield, and some not. We will take all necessary measures to ensure that transfers out of the EEA are adequately protected as required by applicable data protection law. 
 
-#### Why does the site use cookies?
+We will retain your personal data that we collect as described in the previous sections of this Privacy Policy as long as necessary to provide you with the requested services and notifications. Once you unsubscribe, we will take steps to remove your personal data from our systems within 30 days from the date of the account deletion. This does not apply to the extent needed to comply with legal or regulatory obligations to which the Houston Livestock Show and Rodeo is subject (e.g. taxation purposes). 
 
-The Show uses cookies to track usage of the Site and further personalize your experience when you are visiting the Site. By tracking usage, we can best determine what features of the Site best serve the users. 
+We may also retain your personal data after the termination of your account to the extent necessary to comply with applicable laws or if we need your personal data to establish, exercise or defend a legal claim. To the extent possible, we will restrict the processing of your personal data for such limited purposes after the termination of your account. 
 
-#### What benefits do I receive from cookies?
+**Your Rights Regarding Your Personal Data as a EU Resident**
 
-Overall, the use of cookies helps to give you a more personalized experience at the Site. The information is used to keep our Site fresh and relevant to you, the user. Cookies also allow you to avoid retyping your email address and password each time you access the Site. 
+The right to withdraw your consent. When you sign up with the Houston Livestock Show and Rodeo, you implicitly agree to our Terms of Service and Privacy Policy, including how we collect, process and use your personal data. If at any moment after that you wish to withdraw your consent, you can do that with future effect. If you wish to withdraw your consent regarding the receipt of direct marketing communication via email, click on the “Manage Preferences” button at the bottom of any Houston Livestock Show and Rodeo newsletter. 
 
-#### May I decline to accept a cookie?
+The right to request access to your personal data. You have the right to ask whether or not we collect or process personal data about you, and, if we do, to request access to your personal data. You have the right to find out what personal data we have collected about you, the purpose of the collection and who else we have shared this data with. Your access may be restricted, though, by other people’s rights and interests. 
 
-You may decline to accept cookies sent by the Site by selecting an option on your browser to reject cookies, however, some portions of the Site may require registration in order to access those areas. In such cases, we ask that you register and provide us with basic information on our registration page, or sign in if previously registered. Cookies enable our server to know that you are a registered user; and will eliminate the need for you to log in each time you access our Site. In addition, our registration system may require that you accept the cookies from the Site in order to access that portion of the Site. 
+The right to request rectification of your personal data. At your request, we will rectify inaccurate personal data concerning you within 30 days of your request. You also have the right to ask us to complete personal data about you that is incomplete. 
 
-Other sites linked to the Site may also send cookies; however, we do not control such activities. 
+The right to be forgotten. At your request, we will erase personal data concerning you within 30 days of receiving your request. 
 
-#### What happens with the information collected in a cookie?
+The right to request restriction of processing. You have the right to request from us restriction of processing your personal data. Please understand, however, that certain personal data processing is inherent to how our Service works and if you request its restriction, we may have to delete your account. 
 
-The information stored in a cookie is used to identify you to our server, to allow us to personalize your experience on the Site, and to serve content and communications that may be of interest to you. 
+The right to request data portability. At your request, you will receive from us the personal data that we’ve collected about you, in a structured, commonly used and machine-readable format, within 30 days of your request. 
 
-The Show does log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes, and to determine site usage. 
+The right to object. You have the right to object at any time to the processing of your personal data by us and we can be required to no longer process your personal data, especially if we collect and process your personal data for profiling purposes in order to better understand your interests in our products and services or for direct marketing. If you have a right to object and you exercise this right, we will no longer process your personal data. 
 
-#### Use of Personal Information
-
-We believe in protecting your privacy and will not share Personal Information with third parties outside of the Show, except as described in this Privacy Policy. We believe that we can enhance your experience on our Site with the information you share with us. We use Personal Information about you to improve our advertising and marketing efforts, to statistically analyze Site usage, to improve our content and product offerings, and to personalize the Site's content, layout, and services. We also may use your Personal Information, such as your email address or mailing address, to contact you regarding products and/or services that may be of interest to you, to respond to an inquiry from you regarding the information that we have collected or respond to your comments and suggestions. 
-
-The Show may match specific and/or aggregated Personal Information with third party data to provide you with product and content offerings that interest you and improve our advertising and marketing efforts. The Show also may disclose aggregated user statistics in order to describe our services to potential advertisers, partners, other third parties, our affiliate companies, and for other lawful purposes. For example, we provide our advertisers/partners with aggregate information about our users, such as "2,000 people viewed your ad today." 
-
-As part of your experience on our Site, you may receive communications from us related to products and services that might interest you. While we believe these services will enhance your experience at our Site, you will at all times be able to opt out from receiving these communications, either by specifically opting out of these services or by deleting your profile from our database. 
-
-We have today, and will in the future, have arrangements with third party service providers, such as credit card processors, shipping companies, and fulfillment services. When you sign up for a service we offer on the Site, we may be required to share Personal Information with that service provider in order to provide the service. These third party providers are not permitted to retain or use Personal Information for any purpose unrelated to providing the service. 
-
-We reserve the right to disclose Personal Information when needed to comply with the law or a legal process, cooperate with investigations of purported unlawful activities, to identify persons violating the law, or in connection with the sale of part or all of the Show. 
-
-#### Party Collecting the Information
-
-This Privacy Policy only addresses the use and dissemination of information that we collect from you. To the extent that you disclose any information to other parties, whether through, for example, online auctions, chat rooms, personal ads, or the like, through third party services or promotions offered on or through the Site or through other websites throughout the Internet, different policies may apply and the Show shall not be responsible for the use or dissemination of such information. 
-
-Third parties may use cookies, web beacons, and similar technologies to collect or receive information from this website and use that information to provide measurement services and target Facebook ads. Users may opt-out of the collection and use of information for ad targeting by visiting [facebook.com/ads/website_custom_audiences](https://www.facebook.com/settings/?tab=ads). 
-
-Third party sites linked to and from the Site are not necessarily under the control of the Show. The Show shall have no responsibilities or liabilities whatsoever for the content or privacy practices of any such linked site or any link or linking program at any time. The Show does not necessarily endorse companies (or related products or services) to or from which the Site is linked. If you decide to access any of the third party sites linked to the Site, you do so entirely at your own risk. The Show hereby disclaims any rights to trademarks, service marks, trade names, logos, copyrights, patents, domain names or other intellectual property interests of third parties. 
-
-The Show cares about the safety of children and their use of the Internet. Therefore, in accordance with the Children's Online Privacy Protection Act of 1998, we will never knowingly request or solicit personally identifiable information from anyone under the age of 13 without verifiable parental consent. In the event that we receive actual knowledge that we have collected such Personal Information without the requisite and verifiable parental consent, we will delete that information from our database as quickly as is practical. 
-
-We respect your privacy and ability to choose whether to share information with us and any third party. You may choose to "opt-out" of sharing Personal Information in several ways. When choosing to use certain features or services on the Site, you can choose whether to share optional Personal Information in connection with the feature or service. If you receive communications from us that you prefer not to receive, you may opt-out from receiving these communications, either by specifically indicating this preference in a communication to us or by deleting your registration profile from our database. You may also opt-out altogether from providing Personal Information to us by not registering on the Site and thereby not providing Personal Information. You may also choose at a later date to have your name removed from our database. To do so, please follow the process described below. Certain portions of the Site and certain services provided on the Site, however, do require registration in order to access or use these areas and services. If you choose not to register or provide certain information, these areas will not be accessible to you. 
-
-Users may opt-out of the collection and use of information for Facebook ad targeting by visiting [facebook.com/ads/website_custom_audiences](https://www.facebook.com/settings/?tab=ads). 
-
-The Show maintains industry standard safeguards to ensure the security, integrity and privacy of the Personal Information that you provide to the Show. 
-
-#### Effective Date and Changes
-
-This Privacy Policy is effective as of July 1, 2006. The Show reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page. Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes. 
+For any request regarding your rights mentioned above, or if you have any questions about how we collect and process your personal data, you can email us at [socials@rodeohouston.com](mailto:socials@rodeohouston.com). Please allow us 30 days to respond and fulfill your request. 
