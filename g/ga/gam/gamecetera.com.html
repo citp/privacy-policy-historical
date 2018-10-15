@@ -1,0 +1,659 @@
+<!--The following is the downloaded HTML source of the gamecetera.com privacy policy that was archived on 2018-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181015093244id_/https%3A//www.gamezhero.com/page/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#"><head>
+<title>Privacy Policy</title>
+<meta name="title" content="Privacy Policy">
+<meta name="keywords" content="Privacy Policy">
+<meta name="description" content="Privacy Policy">
+<meta name="distribution" content="global">
+<meta name="revisit-after" content="1 day">
+<meta name="robots" content="all">
+<meta name="rating" content="General">
+<meta http-equiv="Content-Language" content="en">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMEVlJbGwEEXFNQBwg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,y="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(y,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===y||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
+<meta name="alexaVerifyID" content="_qi7Vj_8awxuUKbN9wMIr0ovbzU">
+<meta name="p:domain_verify" content="a11a5d38a6c59cd6372b3f069be4e156">
+<meta name="verify-v1" content="d22301faff32984044d4cad5ba4f8444">
+<meta name="google-site-verification" content="J8bs0xbJoGKmbuB-W350ALDyS0v9_w03N71r12BZKWY">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/www.gamezhero.com","logo":"http:\/\/assets.gameallianz.com\/api\/images\/logos\/gamezhero.com.png","name":"GameZhero","description":"Play Free Online Games at Gamezhero","sameAs":["https:\/\/plus.google.com\/+gamezhero?rel=publisher","http:\/\/twitter.com\/gamezhero","http:\/\/www.facebook.com\/gamezhero"]}</script>
+<link rel="canonical" href="http://www.gamezhero.com/page/privacy">
+<meta property="fb:app_id" content="100609699984305">
+<meta property="og:image" content="http://www.gamezhero.com/www/assets/templates/gamezhero/images/logo.png">
+<link href="http://www.gamezhero.com/www/assets/templates/gamezhero/css/chat.min.css?v=1.61" media="all" rel="stylesheet" type="text/css">
+<link href="http://www.gamezhero.com/www/assets/templates/gamezhero/icon/favicon.ico?v=1.61" rel="shortcut icon">
+<link href="http://www.gamezhero.com/www/assets/templates/gamezhero/css/main_all.min.css?v=1.61" media="all" rel="stylesheet" type="text/css">
+<link href="http://www.gamezhero.com/www/assets/templates/gamezhero/css/levels.min.css?v=1.61" media="all" rel="stylesheet" type="text/css">
+<link href="http://www.gamezhero.com/www/assets/templates/gamezhero/css/flags.min.css?v=1.61" media="all" rel="stylesheet" type="text/css">
+<!--[if IE 6]><link href="http://www.gamezhero.com/www/assets/templates/gamezhero/css/main_ie6.min.css?v=1.61" media="all" rel="stylesheet" type="text/css" ><![endif]-->
+<!--[if IE 7]><link href="http://www.gamezhero.com/www/assets/templates/gamezhero/css/main_ie7.min.css?v=1.61" media="all" rel="stylesheet" type="text/css" ><![endif]-->
+<link href="http://www.gamezhero.com/www/assets/templates/gamezhero/services/opensearch.xml?v=1.61" rel="search" type="application/opensearchdescription+xml" title="Gamezhero.com"><style type="text/css" media="screen">
+<!--
+@font-face{font-family:"MainFont";src:url("/www/assets/templates/gamezhero/css/fonts/mainfont-webfont.eot");src:url("/www/assets/templates/gamezhero/css/fonts/mainfont-webfont.eot?#iefix") format("embedded-opentype"),url("/www/assets/templates/gamezhero/css/fonts/mainfont-webfont.woff") format("woff"),url("/www/assets/templates/gamezhero/css/fonts/mainfont-webfont.ttf") format("truetype"),url("/www/assets/templates/gamezhero/css/fonts/mainfont-webfont.svgz#mainfont1.4Regular") format("svg"),url("/www/assets/templates/gamezhero/css/fonts/mainfont-webfont.svg#mainfont1.4Regular") format("svg");font-weight:normal;font-style:normal;}#main{background-image:url("http://assets.gamezhero.com/skins/88/main.png");background-repeat:repeat;background-position:center bottom;background-color:#000000;}#main_bg{background-image:url("http://assets.gamezhero.com/skins/88/main_bg.png");background-repeat:no-repeat;background-position:center bottom;}#place_to_scroll{padding-top:0px;}#main_content{padding-top:0px;}
+-->
+</style><script type="text/javascript">
+ (function ()
+ {
+ var useSSL = 'https:' == document.location.protocol;
+ var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+ document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+ })();
+ </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+ <script type="text/javascript">
+ var adTargeting = {
+ 'gender': 'unknown',
+ 'agegroup': 'unknown',
+ 'category': 'general',
+ 'category2': 'general',
+ 'category3': 'general',
+ 'source': 'unknown',
+ 'gameplay': '1'
+ };
+ </script><script type="application/ld+json">
+{
+ "@context": "http://schema.org",
+ "@type": "WebSite",
+ "url": "http://www.gamezhero.com/",
+ "potentialAction":
+ {
+ "@type": "SearchAction",
+ "target": "http://www.gamezhero.com/search/game/{search_term_string}",
+ "query-input": "required name=search_term_string"
+ }
+}
+</script>
+</head>
+<body><div id="top_space" style="height:54px;"></div>
+<div id="profile">
+ <div id="profile_content">
+ <iframe id="global_connector"></iframe>
+ <div id="profile_params" class="left">
+ <div id="profile_avatar"><img src="http://assets.gamezhero.com/avatars/gamezhero/default/boy/40x40.jpg"></div>
+<div id="profile_info">
+ <a href="http://www.gamezhero.com/register">Sign Up</a> | <a onclick="loginActivate(true)">Sign In</a>
+ <div class="hs_3">&nbsp;</div>
+ <a onclick="faceBookLogin();return false" href="http://www.gamezhero.com/auth/login-ajax-facebook"><img alt="Free Games Online - Connect" src="http://static.ak.fbcdn.net/images/fbconnect/login-buttons/connect_light_medium_long.gif" id="fb_login_image"></a>
+</div>
+<a onclick="loginActivate(true)" title="Profile."><div id="profile_home">&nbsp;</div></a>
+<a onclick="loginActivate(true)" title="My Friends."><div id="profile_friends">0</div></a>
+<a onclick="loginActivate(true)" title="My Favorited Games."><div id="profile_favorites">0</div></a>
+<a onclick="loginActivate(true)" title="My Medals."><div id="profile_medals">0</div></a>
+<a onclick="loginActivate(true)" title="My Scores."><div id="profile_topscores">0</div></a> </div>
+ <div class="right search">
+ <form onsubmit="makeQuickSearch(); return false" name="form" id="form">
+ <div id="profile_search_text">Search:</div>
+ <div id="profile_search">
+ <a onclick="changeSearchParams()" title="Select where you like to search.">
+ <div id="search_select"></div>
+ </a>
+ <div class="vs_5">&nbsp;</div>
+ <div id="search_field">
+ <input name="search_input" type="text" id="search_input">
+ </div>
+ <a href="#" onclick="makeQuickSearch(); return false" title="Search">
+ <div id="search_buttom"></div>
+ </a>
+ </div>
+ <input type="submit" style="height: 0px; width: 0px; border: none; padding: 0px;" hidefocus="true">
+</form>
+ </div>
+ </div>
+<div id="login">
+ <div id="login_content">
+ <div id="login-info" class="area-with-bottom-border">
+ <div class="hs_10">&nbsp;</div>
+ <div class="left">Log In using one of these options</div>
+ <div class="right"><a onclick="loginActivate(0);">close X</a></div>
+ </div>
+ <div>
+ <div id="block-left">
+ <div class="hs_10">&nbsp;</div>
+ <div class="logo">&nbsp;</div>
+ <div class="hs_10">&nbsp;</div>
+ <form name="login-form" id="login-form" onsubmit="sendRequest('user_login'); return false;">
+ <div>
+ <div>
+ <div id="login_nickname">
+ <div>Nickname:</div>
+ <div class="hs_3">&nbsp;</div>
+ <div class="sub_top">
+ <div>&nbsp;</div>
+ </div>
+ <div class="sub_middle">
+ <input id="nickname" type="text" tabindex="1">
+ </div>
+ <div class="sub_bottom">
+ <div>&nbsp;</div>
+ </div>
+ <div class="hs_5">&nbsp;</div>
+ <div>
+ <input tabindex="3" class="remember" id="remember" name="remember" type="checkbox" value="1"> Remember Me </div>
+ </div>
+ <div class="vs_10">&nbsp;</div>
+ <div id="login_password">
+ <div>Password:</div>
+ <div class="hs_3">&nbsp;</div>
+ <div class="sub_top">
+ <div>&nbsp;</div>
+ </div>
+ <div class="sub_middle">
+ <input tabindex="2" id="password" type="password">
+ </div>
+ <div class="sub_bottom">
+ <div>&nbsp;</div>
+ </div>
+ <div class="hs_5">&nbsp;</div>
+ <span><a href="http://www.gamezhero.com/forgot-password">Forgot Password?</a></span><br>
+ <span><a href="http://www.gamezhero.com/register">New here? Sign Up</a></span>
+ </div>
+ <div class="vs_10">&nbsp;</div>
+ <div class="left">
+ <div class="hs_20">&nbsp;</div>
+ <div class="main-button">
+ <div></div>
+ <span><strong>Sign In</strong></span>
+ </div>
+ </div>
+ </div>
+ </div>
+ <input type="submit" style="height: 0px; width: 0px; border: none; padding: 0px;" hidefocus="true">
+ </form>
+ </div>
+ <div class="vs_20">&nbsp;</div>
+ <div id="block-right">
+ <div class="hs_10">&nbsp;</div>
+ <div class="logo">&nbsp;</div>
+ <span>Use your Facebook account to login. You'll also be able to add your friends to portal and post your activity in your Facebook feed. Play free flash games online with us.</span>
+ <div class="hs_10">&nbsp;</div>
+ <div>
+ <a onclick="faceBookLogin();return false" href="http://www.gamezhero.com/auth/login-ajax-facebook"><img alt="Free Games Online - Connect" src="http://static.ak.fbcdn.net/images/fbconnect/login-buttons/connect_light_medium_long.gif" id="fb_login_image"></a>
+ </div>
+ </div>
+ <div class="hs_10">&nbsp;</div>
+ </div>
+ </div>
+</div>
+</div>
+<script type="text/javascript">
+var facebookAppId="100609699984305";
+var facebookScope="email,user_birthday,user_photos,user_friends,publish_actions";
+</script>
+<div id="fb-root"></div><script type="text/javascript" src="http://www.gamezhero.com/www/assets/default/js/facebook.js"></script><div id="header">
+ <div id="header-content">
+ <div class="left"><a href="http://www.gamezhero.com" title="Gamezhero.com"><div id="img-header-logo"></div></a></div>
+ <div class="right">
+ <ul id="main-menu">
+ <li id="games">
+ <a href="http://www.gamezhero.com/games" title="Games"><div></div>Games</a>
+ </li>
+ <li id="achivments">
+ <a href="http://www.gamezhero.com/medals" title="Medals"><div></div>Medals</a>
+ </li>
+ <li id="players">
+ <a href="http://www.gamezhero.com/players" title="Players"><div></div>Players</a>
+ </li>
+ <li id="twitter">
+ <a rel="publisher" href="http://twitter.com/gamezhero" title="Twitter - Follow us to get free online games notifications"><div></div></a>
+ </li>
+ <li id="googleplus">
+ <a rel="publisher" href="https://plus.google.com/+gamezhero?rel=publisher" title="Google Plus - get new games 2104 updates"><div></div></a>
+ </li>
+ <li id="facebook">
+ <a rel="publisher" href="http://www.facebook.com/gamezhero" title="Play Flash games online with friends"><div><iframe frameborder="0" scrolling="no" allowtransparency="true" style="overflow: hidden; height: 50px; width: 152px;" src="http://www.gamezhero.com/services/fb-like"></iframe></div></a>
+ </li>
+ </ul>
+ </div>
+ </div>
+</div><div id="main">
+ <div id="main_bg">
+ <div id="main_shadow">
+ <div id="main_content" style="width:960px;">
+ <div class="hs_10">&nbsp;</div>
+<div id="featured" class="border_radius">
+ <div class="hs_10">&nbsp;</div>
+ <div class="padding_10">
+ <div flash="{id:'featured', flashvars:{gateway:'http://www.gamezhero.com/amf-services/get-featured-games'}}">&nbsp;</div>
+ </div>
+</div>
+<div class="vs_14">&nbsp;</div>
+<div id="main_ads" class="border_radius">
+ <div class="hs_10">&nbsp;</div>
+ <div class="padding_10">
+ 
+ <!-- /1031013/Gamezhero_336x280 -->
+ <div id="div-gpt-ad-1480613406948-0" slot="/1031013/Gamezhero_336x280" oop="0" style="width:336px; height:280px; margin: auto;"></div>
+ <div id="div-gpt-ad-1480613406948-1" slot="/1031013/Gamezhero_336x280" oop="1"></div>
+ 
+ </div>
+</div> <div id="place_to_scroll" class="hs_15">&nbsp;</div>
+ </div>
+ </div>
+ </div>
+</div><div id="line" class="blue">&nbsp;</div>
+<!-- CONTENT BEGIN-->
+<div id="sub_indicator" align="center"></div>
+<div id="content">
+<!-- THIS DIV WILL BE UPDATE BY AJAX-->
+<div class="hs_10">&nbsp;</div>
+ <div id="content_bg_3col_160">
+<div id="content_content">
+ <div id="content_col1">
+ <div>
+ <div class="sub_top"><div>&nbsp;</div></div>
+ <div class="sub_middle">
+ 
+ <!-- /1031013/Gamezhero_160x600_left -->
+ <div id="div-gpt-ad-1480613406942-0" slot="/1031013/Gamezhero_160x600_left" oop="0" style="width:160px; height:600px; margin: auto;"></div>
+ <div id="div-gpt-ad-1480613406942-1" slot="/1031013/Gamezhero_160x600_left" oop="1"></div>
+ 
+ </div>
+ <div class="sub_bottom"><div>&nbsp;</div></div>
+</div> <div class="hs_15">&nbsp;</div>
+<h3 class="tags">Game Categories</h3>
+<div class="hs_15">&nbsp;</div>
+<ul id="category_list">
+ <li>
+ <strong>
+ <a title="MMO" href="http://www.gamezhero.com/tag/mmo">MMO</a>&nbsp;(21)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Medals" href="http://www.gamezhero.com/tag/medals">Medals</a>&nbsp;(408)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Action" href="http://www.gamezhero.com/tag/action">Action</a>&nbsp;(2313)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Adventure" href="http://www.gamezhero.com/tag/adventure">Adventure</a>&nbsp;(1086)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Arcade" href="http://www.gamezhero.com/tag/arcade">Arcade</a>&nbsp;(4358)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Cartoon" href="http://www.gamezhero.com/tag/cartoon">Cartoon</a>&nbsp;(1512)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Puzzle" href="http://www.gamezhero.com/tag/puzzle">Puzzle</a>&nbsp;(3947)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Skill" href="http://www.gamezhero.com/tag/skill">Skill</a>&nbsp;(3024)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Difference" href="http://www.gamezhero.com/tag/difference">Difference</a>&nbsp;(44)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Quest" href="http://www.gamezhero.com/tag/quest">Quest</a>&nbsp;(675)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Sport" href="http://www.gamezhero.com/tag/sport">Sport</a>&nbsp;(630)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Shooting" href="http://www.gamezhero.com/tag/shooting">Shooting</a>&nbsp;(1605)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Strategy" href="http://www.gamezhero.com/tag/strategy">Strategy</a>&nbsp;(745)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Girls" href="http://www.gamezhero.com/tag/girl">Girls</a>&nbsp;(1231)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Board" href="http://www.gamezhero.com/tag/board">Board</a>&nbsp;(86)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="RPG" href="http://www.gamezhero.com/tag/rpg">RPG</a>&nbsp;(330)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Fight" href="http://www.gamezhero.com/tag/fight">Fight</a>&nbsp;(486)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Hidden Object" href="http://www.gamezhero.com/tag/hiddenobject">Hidden Object</a>&nbsp;(483)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Match 3" href="http://www.gamezhero.com/tag/match3">Match 3</a>&nbsp;(320)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Time Management" href="http://www.gamezhero.com/tag/timemanagement">Time Management</a>&nbsp;(205)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Horror" href="http://www.gamezhero.com/tag/horror">Horror</a>&nbsp;(258)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Lego" href="http://www.gamezhero.com/tag/lego">Lego</a>&nbsp;(83)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Minecraft" href="http://www.gamezhero.com/tag/minecraft">Minecraft</a>&nbsp;(97)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Car Racing " href="http://www.gamezhero.com/tag/car">Car Racing </a>&nbsp;(664)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="3D " href="http://www.gamezhero.com/tag/3dgames">3D </a>&nbsp;(959)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Physics" href="http://www.gamezhero.com/tag/physics">Physics</a>&nbsp;(468)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Zombie" href="http://www.gamezhero.com/tag/zombie">Zombie</a>&nbsp;(349)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="HTML5" href="http://www.gamezhero.com/tag/html5">HTML5</a>&nbsp;(2755)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Mobile" href="http://www.gamezhero.com/tag/mobile">Mobile</a>&nbsp;(46)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Multiplayer" href="http://www.gamezhero.com/tag/multiplayer">Multiplayer</a>&nbsp;(217)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Runner" href="http://www.gamezhero.com/tag/runner">Runner</a>&nbsp;(286)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Gameboy" href="http://www.gamezhero.com/tag/gameboy">Gameboy</a>&nbsp;(302)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Classic" href="http://www.gamezhero.com/tag/classic">Classic</a>&nbsp;(761)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Nintendo" href="http://www.gamezhero.com/tag/nintendo">Nintendo</a>&nbsp;(397)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="Retro" href="http://www.gamezhero.com/tag/retro">Retro</a>&nbsp;(571)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="MS-DOS" href="http://www.gamezhero.com/tag/msdos">MS-DOS</a>&nbsp;(185)
+ </strong>
+ </li>
+ <li>
+ <strong>
+ <a title="PC" href="http://www.gamezhero.com/tag/pc">PC</a>&nbsp;(225)
+ </strong>
+ </li>
+</ul>
+<div class="hs_15">&nbsp;</div>
+ </div>
+ <div class="vs_40">&nbsp;</div>
+ <div id="content_col2_col3">
+ <h1 style="background:none;">Privacy Policy</h1>
+ <div id="content_col2">
+ <!-- content starts here -->
+ 
+<div>We value the trust you place in us and we are committed to safeguarding your privacy. Gamezhero.com ("Gamezhero" or the "Site") is operated by GameAllianz ("we", "us" or "GameAllianz") and is designed to be a fun and entertaining free computer gaming site.</div>
+<div><br>
+	</div>
+<div>This Privacy Policy is designed to inform you about the information we collect and use and your options with regard to that collection and use at Gamezhero.com (the "Site"). By use of this Site, communications to or with us or use of any of our services, you are agreeing to these terms. If you do not agree with any of these terms or our <a href="/page/terms-of-use">Terms of Service</a>, please exit our site and do not submit information to us in any way.</div>
+<div><span style="font-weight: bold;" class="Apple-style-span"><br>
+		</span></div>
+<div><span style="font-weight: bold;" class="Apple-style-span">What Information Do We Collect About Our Users and How Do We Use It?</span></div>
+<div><br>
+	</div>
+<div>There are two ways information is collected by us: 1. you voluntarily submit it to us during the registration process by completing a form on our site or by communicating with us and providing that information as part of the communication; or 2. we collect it from all our site users electronically to track how the site is used, where our users come from and their preferences.</div>
+<div><br>
+	</div>
+<div>During our registration process we collect your e-mail address, your login and password only. We also may collect and store information you provide to us in inquiries, reporting forms and customer service communications with us. If you submit information to us to register for a special offer, contest or for access to select or premium services, that information is collected and stored as well. You may submit information to us offline, as well, through special offers or offline registration processes. (Only registered users may enter contests, sweepstakes or participate in any other promotion on the website). All of this information is governed by this Privacy Policy, unless it is indicated otherwise at the time the information is collected or submitted. If special terms are indicated, then those terms, not these, would apply.</div>
+<div><br>
+	</div>
+<div>This information is not shared with third parties (except those working with us to maintain or operate the Site, handle your financial transactions, provide certain customer services, maintain or improve our site integrity and security, maintain the users', public's or Site's safety, address risks or comply with applicable law, as more fully described below.) We may use it to send you messages we believe to be of interest or about the Site itself, from time to time if you opt-in for such messages upon registration.</div>
+<div><br>
+	</div>
+<div>Except as set forth herein, we do not collect any personally identifiable information or contact information about our users. We do not knowingly permit users from outside of the US or Canada, or North American users under the age of 13 to register for this Site or participate in any contests nor do we knowingly collect any personally identifiable information or contact information about or communicate with any user we believe to be from outside of North America or under the age of 13 from North America.</div>
+<div><br>
+	</div>
+<div>Purchases: When you purchase goods or services from us or through one of our vendors using our site, we collect information to enable that purchase. This includes shipping, payment, delivery confirmation and any customer service issues. In some cases, you may purchases a subscription to premium accounts at other websites from a screen accessed from our Site. That information is collected by that other website, and not by us, and their privacy policies (not ours) apply to that interaction.</div>
+<div><br>
+	</div>
+<div>Registered Users: We collect, track and maintain information about your account and about all communications with us, including reports of abuse received from you or about you, as well as the resolution of those reports.</div>
+<div><br>
+	</div>
+<div>Information Provided to Us By Third Parties: We may acquire (but will not share) demographic information from third-parties online or offline to better direct services and offers to you or may acquire referral e-mail and other contact information from you other others recommending our site or other services. We will use that contact information only to forward an invitation or provide the information for which the referral was made.</div>
+<div><br>
+	</div>
+<div>In addition to information you voluntarily provide to us through forms, communications and interactions with our staff, we collect certain data automatically when you access the Site. We collect this using cookies and other web-tracking technologies and use this to learn about how our Site is used and how to improve the user experience.</div>
+<div><br>
+	</div>
+<div>We may also collect information about our users for each Site interaction and visit, including your IP address, your browser and available software and hardware information, whether you were referred to our Site by a search engine (including the search terms used to find us) or link from another Site or offline resource (such as a DVD or CD). This is used to improve our Site and messaging efficiency, learn more about where our users come from and understand how our users use and ways to improve our Site.</div>
+<div><br>
+	</div>
+<div>We accept advertisements from third party advertisers. These advertisers are carefully selected to provide information about products and services that we think may be of interest to our users. Note that if you click on any of these advertisements, these advertisers may use cookies and other web-tracking technologies to collect this non-personal information about you. They will not have any personal information identifying you or linking you to your account unless you directly provide it to them. We recommend that you review the terms of use and privacy policy for any advertiser with which you are interacting before doing so. Their privacy policy, not ours, will apply to any of those interactions.</div>
+<div><br>
+	</div>
+<div>We link to outside websites and services, from time to time. While we try to select appropriate sites, note that we are not responsible for the practices, content or the privacy policies employed by third party sites. Please review those before interacting with those sites.</div>
+<div><br>
+	</div>
+<div>We collect additional information from you when you send us an email, submit a form or otherwise request information from us as well as when you repot abuses or problems at the Site. We use this information for the purpose for which it was provided and also may track the user abuse reports, including the accuracy or inaccuracy of any abuse reports and may use this to help us determine the users who can help us identify problems or provide help in moderating and self-policing our Site. This information may also be used in identifying users that violate our terms of service or are disruptive at the Site.</div>
+<div><br>
+	</div>
+<div>If you apply for a contest or to participate in a special promotion or event that is sponsored by a third-party or co-sponsored with us by a third-party, your information may be shared with that third-party to enable your participation in the contest, promotion or event. If so, it will only be used for that purpose, unless expressly noted otherwise at the time you apply for participation. If the contest, promotion or event involves a third-party site, you should refer to the third-party's privacy policy for information about their practices.</div>
+<div><span style="font-weight: bold;" class="Apple-style-span"><br>
+		</span></div>
+<div><span style="font-weight: bold;" class="Apple-style-span">Sharing Your Information:</span></div>
+<div><br>
+	</div>
+<div>We do not sell or license your personally identifiable customer information to third parties without your consent, except as disclosed herein and if we enter into a merger, acquisition or sale of all or a portion of our assets, or transfer the Site or services provided therewith to any third-party, your information will be shared and transferred as part of that transaction.</div>
+<div><br>
+	</div>
+<div>We share personally identifiable information about our users (to the extent we have such information) only with those involved in providing services, functions or professional advice to GameAllianz or as outlined below. We use vendors to provide certain services or functions necessary to operate our Site and offer and deliver products and services to you. We share information with those third-parties and vendors to the extent necessary for them to perform their function on our behalf. All of these third-parties must agree to protect the privacy and security of our users and not to use information they receive during the course of their duties for any purpose other than for which it was provided.</div>
+<div><br>
+	</div>
+<div>We may also disclose your personally identifiable information as required or permitted by law, or as we believe may be necessary (as determined in our sole and absolute discretion) to protect the integrity of our Site, GameAllianz or its affiliates, or the safety, privacy and well-being of our users, ourselves and third-party providers or members of the public including the use of and providing information to third-parties: </div>
+<ul style="list-style: circle outside none;">
+	<li style="margin-left: 20px;">To comply with valid legal process including subpoenas, court orders or search warrants.</li>
+	<li style="margin-left: 20px;">To respond to official inquiries of governmental authorities.</li>
+	<li style="margin-left: 20px;">In cases involving risks to any person or other emergencies, terms of service violations, and to evaluate and defend against legal claims in any forum.</li>
+	<li style="margin-left: 20px;">To outside auditors, legal professionals, security consultants and regulators.</li>
+	<li style="margin-left: 20px;">To prevent or manage what we, in our sole and absolute discretion, believe to be the unlawful or abusive use of our services or the Site or anticipated harm to our users, the public, Gamezhero.com or GameAllianz.</li>
+</ul>
+<div><span style="font-weight: bold;" class="Apple-style-span">The Security of Your Information:</span></div>
+<div><br>
+	</div>
+<div>We have systems in place to enforce the terms of this Privacy Policy and secure your data. But, no matter how careful we are, no system is 100% secure and we cannot guarantee that there will be no unauthorized use or access of your personal information. If we become aware of any information breach that may affect you, we will notify you promptly following our discovery thereof. Should you suspect that there is a security breach or someone is attempting to circumvent our security system, please <a href="/page/contact-us">contact us</a>.</div>
+<div><span style="font-weight: bold;" class="Apple-style-span"><br>
+		</span></div>
+<div><span style="font-weight: bold;" class="Apple-style-span">Preteen Users:</span></div>
+<div><br>
+	</div>
+<div>Keeping children safe online is important to all of us. At this time we believe that it is best to restrict access to our registered member area to users 13 and older. So, our terms of service restricts users under the age of thirteen from registering for the Site, participating in any contests at the Site or from submitting personal information to us.</div>
+<div><br>
+	</div>
+<div>If we believe an email has been sent to us from a child under the age of 13, that information is not stored and is used to reply to the child on a one-time basis only. Once the email has been replied to, their email address will be deleted from our records. If we discover a child under the age of 13 has falsified their age and registered for the site, we will cease collecting any further information on that child. Additionally, all data that has been stored in our system about the child will be removed, and the child's registration will be revoked.</div>
+<div><br>
+	</div>
+<div>Even without registration, though, the Site contains lots of free and entertaining content which may be of interest to preteen viewers and is accessible without registration or having to provide any information.</div>
+<div><span style="font-weight: bold;" class="Apple-style-span"><br>
+		</span></div>
+<div><span style="font-weight: bold;" class="Apple-style-span">Changes To and Questions About This Policy:</span></div>
+<div><br>
+	</div>
+<div>We reserve the right to change this Privacy Policy from time to time. Before using this Site, recheck this page and review the "effective date" posted on the top of the Privacy Policy in effect at that time. If it has recently changed, make sure you review it and still agree with its terms. It will apply to any interactions you have at the Site and information you provide to us or at this Site. Your continued use of the Site or our services, or communications with us will evidence your agreement to the terms thereof.</div>
+<div><br>
+	</div>
+<div>If you have questions or comments about this privacy policy, please <a href="/page/contact-us">contact us</a>. But note that whether or not you have questions or comments, use of our site indicates your agreement to the terms hereof as written.</div> <!-- /content -->
+ </div>
+ <div class="seporator_col2_col3">&nbsp;</div>
+<div id="content_col3">
+ <div>
+ <div class="sub_top"><div>&nbsp;</div></div>
+ <div class="sub_middle">
+ 
+ <!-- /1031013/Gamezhero_160x600 -->
+ <div id="div-gpt-ad-1480613406942-0" slot="/1031013/Gamezhero_160x600" oop="0" style="width:160px; height:600px; margin: auto;"></div>
+ <div id="div-gpt-ad-1480613406942-1" slot="/1031013/Gamezhero_160x600" oop="1"></div>
+ 
+ </div>
+ <div class="sub_bottom"><div>&nbsp;</div></div>
+</div> <div class="hs_15">&nbsp;</div>
+ </div>
+ </div>
+ <!-- /content_col2_col3 -->
+ <div class="clear_float">&nbsp;</div>
+</div>
+<!-- /content_content-->
+</div></div>
+<!-- CONTENT END-->
+<div id="footer">
+ <div id="footer_bg">
+ <div id="footer_content">
+ <div id="footer_left">
+ <div id="footer_social"></div>
+ <div id="footer_left_content">
+ Copyright ©2018 <a title="Play Free Online Games at Gamezhero" href="http://www.gamezhero.com">Gamezhero.com</a> - All rights reserved. <div>
+ <ul>
+ <li>
+ <a title="About Us" href="http://www.gamezhero.com/page/about-us">About Us</a>
+ </li>
+ <li>
+ <a title="Contact Us" href="http://www.gamezhero.com/page/contact-us">Contact Us</a>
+ </li>
+ <li>
+ <a title="Suggest Game" href="http://www.gamezhero.com/page/suggest-game">Suggest Game</a>
+ </li>
+ <li>
+ <a title="Home" href="http://www.gamezhero.com/page/home">Home</a>
+ </li>
+ <li>
+ <a title="Game Sponsorship" href="http://www.gamezhero.com/page/sponsorgame">Game Sponsorship</a>
+ </li>
+ <li>
+ <span title="Privacy Policy">Privacy Policy</span>
+ </li>
+ <li>
+ <a title="Terms of Use" href="http://www.gamezhero.com/page/terms-of-use">Terms of Use</a>
+ </li>
+ <li>
+ <a title="Help" href="http://www.gamezhero.com/page/help">Help</a>
+ </li>
+ <li>
+ <a title="Toolbar" href="http://www.gamezhero.com/page/gettoolbar">Toolbar</a>
+ </li>
+ <li>
+ <a title="Favorite Games" href="http://www.gamezhero.com/page/favoritegames">Favorite Games</a>
+ </li>
+ <li>
+ <a title="Free Website Games" href="http://www.gamezhero.com/page/freewebsitegames">Free Website Games</a>
+ </li>
+ <li>
+ <a title="Partners" href="http://www.gamezhero.com/page/partners">Partners</a>
+ </li>
+ <li>
+ <a title="Developers And Publishers Links" href="http://www.gamezhero.com/page/links">Developers And Publishers Links</a>
+ </li>
+ <li>
+ <a title="Free Game Spy" href="http://www.gamezhero.com/page/gamespy">Free Game Spy</a>
+ </li>
+ <li>
+ <a title="Follow Us" href="http://www.gamezhero.com/page/followus">Follow Us</a>
+ </li>
+ <li>
+ <a title="Top Online Games" href="http://www.gamezhero.com/page/mostplayednow">Top Online Games</a>
+ </li>
+ <li>
+ <a title="Last Search" href="http://www.gamezhero.com/page/lastsearch">Last Search</a>
+ </li>
+ <li>
+ <a title="Strategy" href="http://www.gamezhero.com/page/strategy-games">Strategy</a>
+ </li>
+ <li>
+ <a title="Action" href="http://www.gamezhero.com/page/action-games">Action</a>
+ </li>
+</ul>
+ </div>
+ <div class="clear_float">&nbsp;</div>
+ <div id="footer_text"><br></div>
+ </div>
+ </div>
+ <div id="footer_right"><img src="http://www.gamezhero.com/www/assets/templates/gamezhero/images/eng/footer.png" alt="" width="500" height="280"></div>
+ </div>
+ </div>
+</div>
+
+<script type="text/javascript" src="http://www.gamezhero.com/www/assets/default/js/jquery/jquery-1.4.4.min.js"></script>
+
+<script type="text/javascript" src="http://www.gamezhero.com/www/assets/default/js/script.min.js?v=1.61"></script>
+<script type="text/javascript">Profile.setCookieLastProfileUpdate("lup");Profile.setCookieSip("si_p");Profile.setApiServerUrl("http://api.gameallianz.com");Profile.setApiSessionToken("qshmql1r0v0dp687agpnd7u1k5-ea159e691f382dd881c3422b06861782");Profile.setLastUserName("lln");Profile.setDomainName("www.gamezhero.com");
+var portal="gamezhero";var CDNsmall="http://assets.gamezhero.com";var flashPath="http://www.gamezhero.com/www/assets/templates/gamezhero/flash/";var imgPath="http://www.gamezhero.com/www/assets/templates/gamezhero/images/";var base="http://www.gamezhero.com/page/privacy";var flashPathLocale="http://www.gamezhero.com/www/assets/templates/gamezhero/flash/eng/";var imgPathLocale="http://www.gamezhero.com/www/assets/templates/gamezhero/images/eng/";var domainName="http://www.gamezhero.com";var hash="";var language="eng";var debugIsEnabled="-1";var isTab=0;var gameReviewTime="30000";var facebookPageUrl="http://www.facebook.com/gamezhero";
+var ntf_portal={all_games: 11166,all_medals: 3917};
+var ntf_user={nickname: -1, messages: -1, funs_and_friends: -1};
+var addthis_config={ui_language:"en",data_ga_property:"UA-33654321-1",data_ga_social:true};
+try{initAds()}catch(e){initDef()}safariCookiesFix();iniActionLinks();iniFlash();iniStars();iniHistory();initSearch('');iniDynamicContent();iniGameStat();iniResizerVars();setDiffTimeCookie('.gamezhero.com','__diff_time',30);
+var _qevents = _qevents || [];(function () {var elem = document.createElement("script");elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";elem.async = true;elem.type = "text/javascript";var scpt = document.getElementsByTagName("script")[0];scpt.parentNode.insertBefore(elem, scpt);})();
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ ga('create','UA-33654321-1', 'gamezhero.com');
+ ga('require','displayfeatures');
+ ga('send','pageview');
+_qevents.push({qacct:"p-0d-G3hEoZZwiI"});</script><noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-0d-G3hEoZZwiI.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1ab6a556f0","applicationID":"2482209","transactionName":"ZAYBZRYCC0sFVkYLXV1MIlIQCgpWS2VdEEZSD0xBBQQAS0tcXAZXSw==","queueTime":0,"applicationTime":332,"atts":"SEECE14YGEU=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</body></html>
