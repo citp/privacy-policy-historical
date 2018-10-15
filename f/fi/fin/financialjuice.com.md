@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialjuice.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123092833id_/http%3A//www.financialjuice.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialjuice.com privacy policy that was archived on 2018-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181015100720id_/https%3A//www.financialjuice.com/privacy.aspx) for the most accurate reproduction.*
 
 # FinancialJuice | Your Financial Universe In One Place & In Real-Time
 
