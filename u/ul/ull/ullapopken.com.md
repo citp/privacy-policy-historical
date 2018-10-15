@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ullapopken.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928063705id_/https%3A//www.ullapopken.com/contents/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ullapopken.com privacy policy that was archived on 2018-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181015212141id_/https%3A//www.ullapopken.com/contents/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ULLA POPKEN
 
@@ -43,10 +43,8 @@ We offer choices about the types of information you receive from us. If you pref
 
 If you do not want us to provide your name and street address to other companies for promotional purposes, please contact us at:
 
-    Ulla Popken  
-    12201 Long Green Pike  
-    Glen Arm, MD 21057-9705  
-    800-245-8552  
+    Popken Fashion Group  
+    1-800-245-8552  
     support@ullapopken.com
 
 Because our catalogs and mailings are planned in advance, it may take several weeks or more for your request to become effective. If you continue to receive unwanted communications of any kind, please contact us, and we will make every effort to correct the situation.
@@ -95,8 +93,6 @@ From time to time, we may use customer information for unanticipated uses not pr
 
 Feel free to contact us with any questions or concerns you may have
 
-    Ulla Popken  
-    12201 Long Green Pike  
-    Glen Arm, MD 21057-9705  
-    800-245-8552  
+    Popken Fashion Group  
+    1-800-245-8552  
     support@ullapopken.com
