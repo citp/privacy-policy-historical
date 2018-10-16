@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the geekandsundry.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129191032id_/https%3A//geekandsundry.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekandsundry.com privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016224358id_/https%3A//geekandsundry.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Geek and Sundry
 
-Effective Date: July 18, 2017
+Effective Date: May 25, 2018
 
 This privacy policy (“Privacy Policy”) applies to www.geekandsundry.com, which is owned and operated by Legendary Geek & Sundry, LLC (“Geek & Sundry,” “we,” “our,” or “us”), (the “Website”), however accessed and/or used, whether via personal computers, mobile devices, tablets or other means. This Privacy Policy also applies to interactive features or downloads that are owned or operated by Geek & Sundry, are available through the Website, or that interact with the Website and post this Privacy Policy. This Privacy Policy covers information collected at the Website and does not cover any information collected at any other web site or offline by Geek & Sundry (unless specifically stated).
 
@@ -13,24 +13,33 @@ You can determine when this Privacy Policy was last revised by referring to the 
 **TABLE OF CONTENTS**
 
   1. Your California Privacy Rights
-  2. Information We Collect on the Website
-  3. How We Use Your Personally Identifiable Information and Usage Information
-  4. External Links
-  5. Public Forums/User Content
-  6. Security
-  7. Updating or Deleting Your Personally Identifiable Information
-  8. Ad Serving
-  9. Google Analytics
-  10. Changing Our Privacy Policy
-  11. Jurisdictional Issues – Consent to Transfer
-  12. Children’s Privacy
-  13. Contacting Geek & Sundry
+  2. Your European Privacy Rights
+  3. Information We Collect on the Website
+  4. How We Use Your Personally Identifiable Information and Usage Information
+  5. External Links
+  6. Public Forums/User Content
+  7. Security
+  8. Updating or Deleting Your Personally Identifiable Information
+  9. Ad Serving
+  10. Google Analytics
+  11. Changing Our Privacy Policy
+  12. Jurisdictional Issues – Consent to Transfer
+  13. Children’s Privacy
+  14. Contacting Geek & Sundry
 
 
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
 Under California Law, California residents may have the right to request in writing from businesses with whom they have an established business relationship: (a) a list of the categories of Personally Identifiable Information and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes and (b) the names and addresses of all such third parties. To make such requests, if entitled, please write to California Privacy Rights c/o Geek & Sundry; 2525 Naomi Street, Burbank, CA 91504.
+
+**YOUR EUROPEAN PRIVACY RIGHTS**
+
+We process your personal data to the extent permitted by law. Such processing may include the transfer to and storage of your data at servers outside the European Union including locations within the United States. In this context we rely on a variety of legitimate reasons for data processing including your informed consent (Article 6(1) lit. (a) GDPR), the necessity to process your personal data as part of the performance of a contract to which you are or wish to become a party (Article 6(1) lit. (b) GDPR ) and/or the necessity to process your personal data for the purposes of our legitimate interests (Article 6(1) lit. (f) GDPR ). Those interests include in particular the improvement of our services. Any personal data will only be stored on file for the time necessary to fulfill the legitimate purpose including the observance of applicable statutory requirements to maintain certain documentation of our services.
+
+We do not share your data with any third parties unless permitted by law. However, we may involve data processors acting on our behalf and helping us to perform our contractual services.
+
+We hereby inform you that you as the data subject have the right to request from us access to and rectification or erasure of your personal data or restriction of processing or to object to such processing as well as the right to data portability. You also have the right to lodge a complaint with the competent a supervisory authority. Further, you may at any time withdraw your once given consent. Either of those rights may be exercised by sending us an email to the following address: [info@geekandsundry.com](mailto:info@geekandsundry.com). Please specify your demand so that we can act in accordance with your wishes.
 
 **INFORMATION WE COLLECT ON THE WEBSITE**
 
