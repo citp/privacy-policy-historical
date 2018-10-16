@@ -1,42 +1,46 @@
-<!--The following is the downloaded HTML source of the yireo.com privacy policy that was archived on 2016-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160406015354id_/https%3A//www.yireo.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yireo.com privacy policy that was archived on 2018-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181016095136id_/http%3A//yireo.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-gb" dir="ltr"><!--<![endif]--><head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,700,800,300%7CShadows+Into+Light">
-  <base href="https://www.yireo.com/privacy-policy">
-  <meta name="keywords" content="privacy, policy, yireo, joomla tutorials, magento tutorials, magebridge, simplelists, vm2mage, virtuemart, migration">
-  <meta name="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="copyright" content="Yireo">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="description" content="Privacy Policy for Yireo - Yireo About Us">
-  <meta name="generator" content="Yireo">
-  <title>Privacy Policy - Yireo</title>
-  <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-  <link rel="stylesheet" href="https://www.yireo.com/cache/plg_scriptmerge/ca9e849759e3e7a905eba02d0e8969ee.css" type="text/css">
-  <link rel="stylesheet" href="/templates/yireo2/css/yrbe7aadc5188ebed9e3c0f90c9344e4a2.min.css" type="text/css">
-  <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5CWRRQ"></script><script src="https://www.yireo.com/cache/plg_scriptmerge/e43f89314e9936636d3656cf9fe1da9c.js" type="text/javascript"></script>
-  <script type="text/javascript">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="theme-color" content="#ffffff">
+	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,700,800,300%7CShadows+Into+Light">
+	<base href="https://www.yireo.com/privacy-policy">
+	<meta name="keywords" content="privacy, policy, yireo, joomla tutorials, magento tutorials, magebridge, simplelists, vm2mage, virtuemart, migration">
+	<meta name="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="copyright" content="Yireo">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="description" content="Privacy Policy for Yireo - Yireo About Us">
+	<meta name="generator" content="Yireo">
+	<title>Privacy Policy - Yireo</title>
+	<link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+	<link rel="stylesheet" href="https://www.yireo.com/cache/plg_scriptmerge/be56aed98583166e1b99fefe5d836dae.css" type="text/css">
+	<link href="https://www.yireo.com/templates/yireo2/css/yr29824242177badcd4b0d0d6a1ed4852c.min.css" rel="stylesheet" type="text/css">
+	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5CWRRQ"></script><script src="https://www.yireo.com/cache/plg_scriptmerge/74588e3f3e60f239ce4d603be4249f24.js" type="text/javascript"></script>
+	<script type="text/javascript">
 jQuery(window).on('load',  function() {
 				new JCaption('img.caption');
-			});
-<!--//--><![CDATA[//><!--
-jQuery.noConflict();
-jQuery(document).ready(function() {
-if(jQuery("a.lightbox")) { jQuery("a.lightbox").fancybox({'mouseWheel':false,'openEffect':'none','closeEffect':'none','nextEffect':'none','prevEffect':'none','openSpeed':200,'closeSpeed':200,'nextSpeed':200,'prevSpeed':200,helpers: {overlay: {closeClick:false}}}); }
-});
-//--><!]]>
-jQuery(document).ready(function(){
-	jQuery('.hasTooltip').tooltip({"html": true,"container": "body"});
-});
-		jQuery(document).ready(function (){
-			jQuery('select').chosen({"disable_search_threshold":10,"search_contains":true,"allow_single_deselect":true,"placeholder_text_multiple":"Select some options","placeholder_text_single":"Select an option","no_results_text":"No results match"});
-		});
+
+	jQuery(function ($) {
+		initChosen();
+		$("body").on("subform-row-add", initChosen);
+
+		function initChosen(event, container)
+		{
+			container = container || document;
+			$(container).find(".advancedSelect").chosen({"disable_search_threshold":10,"search_contains":true,"allow_single_deselect":true,"placeholder_text_multiple":"Type or select some options","placeholder_text_single":"Select an option","no_results_text":"No results match"});
+		}
+	});
 	
 jQuery(document).ready(function() {
-	var value, searchword = jQuery('#mod-finder-searchword');
+	var value, searchword = jQuery('#mod-finder-searchword423');
 
 		// Get the current value.
 		value = searchword.val();
@@ -63,10 +67,10 @@ jQuery(document).ready(function() {
 			}
 		});
 
-		jQuery('#mod-finder-searchform').on('submit', function (e)
+		jQuery('#mod-finder-searchform423').on('submit', function (e)
 		{
 			e.stopPropagation();
-			var advanced = jQuery('#mod-finder-advanced');
+			var advanced = jQuery('#mod-finder-advanced423');
 
 			// Disable select boxes with no value selected.
 			if (advanced.length)
@@ -82,151 +86,145 @@ jQuery(document).ready(function() {
 				});
 			}
 		});});
-  </script>
+	</script>
 
-<!-- 50 -->
-</head>
+	<!-- 50 -->
+    </head>
 
 <body class="page option-com-content view-article layout-default item-50 path-privacy-policy home-0 minimal-0 pagelayout-2column-left" itemscope="" itemtype="http://schema.org/WebPage">
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5CWRRQ"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-5CWRRQ');</script>
+	<noscript>
+		<iframe src="//www.googletagmanager.com/ns.html?id=GTM-5CWRRQ"
+		        height="0" width="0" style="display:none;visibility:hidden"></iframe>
+	</noscript>
+	<script>(function (w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(), event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'//www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-5CWRRQ');</script>
 
-<nav class="navbar-teaser hidden-xs hidden-sm">
-    <div class="teaser-inner">
-        <div class="close"><a href="javascript:;" class="close-notice"><i class="fa fa-close"></i></a></div>
-        <div class="content"></div>
-    </div>
-</nav>
+	<nav class="navbar-teaser hidden-xs hidden-sm">
+		<div class="teaser-inner">
+			<div class="close">
+				<a href="javascript:;" class="close-notice">
+					<i class="fa fa-close"></i>
+				</a>
+			</div>
+			<div class="content"></div>
+		</div>
+	</nav>
 
-<header class="navbar navbar-default navbar-top" id="top">
-                    
-        <nav id="toplinks">
-            <ul class="nav">
-                <li class="hidden-sm hidden-md hidden-lg">
-                    <a href="/">
-                        <i title="Home" class="fa fa-home"></i> <span class="hidden-xs">Home</span>
-                    </a>
-                </li>
-                                                <li class="hidden-xs">
-                                        <a href="/forum" class="">
-                        <i title="Forum" class="fa fa-comments"></i> <span class="hidden-xs">Forum</span>
-                    </a>
-                </li>
-                                <li class="hidden-xs">
-                                        <a href="/blog" class="">
-                        <i title="Blog" class="fa fa-rss"></i> <span class="hidden-xs">Blog</span>
-                    </a>
-                </li>
-                                <li class="hidden-xs">
-                                        <a href="/topics" class="">
-                        <i title="Topics" class="fa fa-university"></i> <span class="hidden-xs">Topics</span>
-                    </a>
-                </li>
-                                <li class="hidden-xs">
-                                        <a href="/connect" class="">
-                        <i title="Connect" class="fa fa-sitemap"></i> <span class="hidden-xs">Connect</span>
-                    </a>
-                </li>
-                                <li class="hidden-xs">
-                                        <a id="loginlink" href="https://www.yireo.com/shop/customer/account/login" class="">
-                        <i title="Login" class="fa fa-user"></i><span class="hidden-xs">Login</span>
-                    </a>
-                </li>
-                <li class="hidden-xs">
-                                        <a href="https://www.yireo.com/shop/checkout/cart" class="">
-                        <i title="Cart" class="fa fa-shopping-cart"></i><span class="hidden-xs">Cart</span>
-                    </a>
-                </li>
-                <li class="hidden-xs">
-                    <a href="javascript:;" onclick="jQuery('#searchbox').toggle();">
-                        <i title="Search" class="fa fa-search"></i><span class="hidden-xs">Search</span>
-                    </a>
-                    <div class="searchbox" id="searchbox">
-                        
-<form id="mod-finder-searchform" action="/search" method="get" class="form-search">
+	<header class="navbar navbar-default navbar-top" id="top">
+					<nav id="toplinks">
+	<ul class="nav">
+        <li class="hidden-sm hidden-md hidden-lg">
+            <h5 style="color:white; margin-top:10px;">Yireo.com</h5>
+        </li>
+		<li class="hidden-sm hidden-md hidden-lg">
+			<a href="/">
+				<i title="Home" class="fa fa-home"></i> <span class="hidden-xs">Home</span>
+			</a>
+		</li>
+							<li class="hidden-xs">
+								<a href="/forum" class="">
+					<i title="Forum" class="fa fa-comments"></i> <span class="hidden-xs">Forum</span>
+				</a>
+			</li>
+				<li class="hidden-xs">
+											<a id="loginlink" href="https://www.yireo.com/shop/customer/account/login" class="">
+					<i title="Login" class="fa fa-user"></i><span class="hidden-xs">Login</span>
+				</a>
+					</li>
+		<li class="hidden-xs">
+						<a href="https://www.yireo.com/shop/checkout/cart" class="">
+				<i title="Cart" class="fa fa-shopping-cart"></i><span class="hidden-xs">Cart</span>
+			</a>
+		</li>
+		<li class="hidden-xs">
+			<a href="javascript:;" onclick="jQuery('#searchbox').toggle();">
+				<i title="Search" class="fa fa-search"></i><span class="hidden-xs">Search</span>
+			</a>
+			<div class="searchbox" id="searchbox">
+				
+<form id="mod-finder-searchform423" action="/search" method="get" class="form-search">
 	<div class="finder">
-		<label for="mod-finder-searchword" class="finder">Search</label><br><input type="text" name="q" id="mod-finder-searchword" class="search-query input-medium" size="25" value="" placeholder="Search ...">
+		<label for="mod-finder-searchword423" class="finder">Search</label><br><input type="text" name="q" id="mod-finder-searchword423" class="search-query input-medium" size="25" value="" placeholder="Search ...">
 							</div>
 </form>
 
-                    </div>
-                </li>
-                <li class="hidden-sm hidden-md hidden-lg">
-                    <a href="#" id="navigation-toggle">
-                        <i title="Menu" class="fa fa-bars"></i> <span class="hidden-xs">Menu</span>
-                    </a>
-                </li>
-            </ul>
-        </nav>
-            <div class="container container-top">
-        <div class="navbar-header">
-            <a href="/../" class="navbar-brand"><img class="img-responsive" src="/images/logos/yireo.png" width="89" height="78" alt="Yireo"></a>
-        </div>
+			</div>
+		</li>
+		<li class="hidden-sm hidden-md hidden-lg">
+			<a href="#" id="navigation-toggle">
+				<i title="Menu" class="fa fa-bars"></i> <span class="hidden-xs">Menu</span>
+			</a>
+		</li>
+	</ul>
+</nav>
+				<div class="container container-top">
+			<div class="navbar-header">
+				<a href="/../" class="navbar-brand">
+					<img class="img-responsive" src="/images/logos/yireo.svg" width="89" height="78" alt="Yireo">
+				</a>
+			</div>
 
-                <nav id="navigation">
-            <ul class="nav nav-tabs nav-platforms">
-            <li class="level1 parent">
-                                <a href="/magento" class="level1 type-component" title="Magento"><span class="title"><img class="menu" src="/images/menu/menu-magento.png" width="20" height="20" title="Magento" alt="Magento"><span class="label">Magento platform</span></span></a>
-    </li>
-            <li class="level1 parent">
-                                <a href="/joomla" class="level1 type-component" title="Joomla!"><span class="title"><img class="menu" src="/images/menu/menu-joomla.png" width="20" height="20" title="Joomla" alt="Joomla"><span class="label">Joomla platform</span></span></a>
-    </li>
-            <li class="level1 parent">
-                                <a href="/magebridge" class="level1 type-component" title="MageBridge"><span class="title"><img class="menu" src="/images/menu/menu-magebridge.png" width="20" height="20" title="MageBridge" alt="MageBridge"><span class="label">MageBridge platform</span></span></a>
-    </li>
-        </ul>
+							<nav id="navigation">
+					<ul class="nav nav-tabs nav-platforms">
+		</ul>
+
 <ul class="nav nav-tabs nav-links">
-    
-        <li class="level1 parent">
-        <a href="/software" class="level1 type-component" title="Extensions"><span class="title">Extensions</span></a>
-    </li>
-    <li class="level1 parent">
+						<li class="level1 parent">
+				<a href="/software" class="level1 type-component" title="Extensions"><span class="title">Extensions</span></a>
+			</li>
+			<li class="level1 parent">
+							</li>
+			<li class="level1 parent">
+							</li>
+			    <li class="level1 parent">
         <a href="/services" class="level1 type-component" title="Services"><span class="title">Services</span></a>
     </li>
     <li class="level1 parent">
         <a href="/education" class="level1 type-component" title="Education"><span class="title">Education</span></a>
     </li>
-        </ul>
-<ul class="nav nav-tabs nav-platforms">
-            <li class="level1 parent visible-xs visible-xs-block">
-                                <a href="/forum" class="level1 type-component" title="Forum"><span class="title"><i title="Forum" class="fa fa-comments"></i><span class="label">Forum</span></span></a>
+    <li class="level1 parent">
+        <a href="/blog" class="level1 type-component" title="Blog"><span class="title">Blog</span></a>
     </li>
-        <li class="level1 parent visible-xs visible-xs-block">
-                                <a href="/blog" class="level1 type-component" title="Blog"><span class="title"><i title="Blog" class="fa fa-rss"></i><span class="label">Blog</span></span></a>
-    </li>
-        <li class="level1 parent visible-xs visible-xs-block">
-                                <a href="/training" class="level1 type-component" title="Training"><span class="title"><i title="Topics" class="fa fa-university"></i><span class="label">Topics</span></span></a>
-    </li>
-        <li class="level1 parent visible-xs visible-xs-block">
-                                <a href="/connect" class="level1 type-component" title="Connect"><span class="title"><i title="Connect" class="fa fa-sitemap"></i><span class="label">Connect</span></span></a>
-    </li>
-        <li class="level1 parent visible-xs visible-xs-block">
-                                            </li>
-    <li class="level1 parent visible-xs visible-xs-block">
-                                            </li>
+	<li class="level1 parent">
+			</li>
 </ul>
 
-        </nav>
-            </div>
-</header>
+<ul class="nav nav-tabs nav-platforms">
+			<li class="level1 parent visible-xs visible-xs-block">
+											</li>
+	<li class="level1 parent visible-xs visible-xs-block">
+											</li>
+</ul>
 
-<section class="content-row show-header-1">
-    <div class="container">
-        <div class="hidden-xs page-navigator">
-            <a href="#top"><i class="fa fa-arrow-circle-up fa-2x"></i></a>
-        </div>
-                <div class="breadcrumbs-container">
-            <ol class="breadcrumb">
-	<li><a href="/">Home</a></li><li class="active"><span>Privacy Policy</span></li></ol>
+				</nav>
+					</div>
+	</header>
 
-        </div>
-                <div class="layout-row row">
-            <div class="col-sm-9 col-sm-push-3">
+	<section class="content-row show-header-1" id="content-row">
+        
+		<div class="container">
+			<div class="hidden-xs page-navigator">
+				<a href="#top">
+					<i class="fa fa-arrow-circle-up fa-2x"></i>
+				</a>
+			</div>
+							<div class="breadcrumbs-container">
+					<ol class="breadcrumb">
+	<li class="active"><span>Privacy Policy</span></li></ol>
+
+				</div>
+						<div class="layout-row row">
+				<div class="col-sm-9 col-sm-push-3">
                         
     <div class="content content-content">
         <div id="system-message-container">
@@ -235,12 +233,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         
 <div class="item-page item-type-article">
 					<div class="headline">
-			<h1 class="page">
-                																			Privacy Policy for Yireo												</h1>
+									<h1 class="page">
+																			Privacy Policy for Yireo												</h1>
 		</div>
 	
+			<div class="article-info muted">
+			<div class="article-info">
+				
+												
+				
+														
+												</div>
+		</div>
 	
-		
 	
 		
 											
@@ -340,6 +345,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
+
     </div>
     
     </div>
@@ -358,102 +364,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
     
 </aside>
-        </div>
-    </div>
-</section>
-
-<section class="bottom-row">
-    <div class="container">
-        <div class="row">
-            		<div class="module col-sm-5">
-					<h3>Latest Blog</h3>
-					<ul class="category-module list-unstyled">
-    	                        		<li>
-							<a class="mod-articles-category-title " href="/blog/1809-yireo-is-not-stopping-with-joomla">
-				Yireo is not stopping with Joomla				</a>
-			
-			
-			
-			
-			
-			
-					</li>
-        	                        		<li>
-							<a class="mod-articles-category-title " href="/blog/1808-yireo-stops-with-joomla">
-				Yireo stops with Joomla ...... not				</a>
-			
-			
-			
-			
-			
-			
-					</li>
-        	                        		<li>
-							<a class="mod-articles-category-title " href="/blog/1807-yireo-site-runs-http-2-and-php-7">
-				Yireo site runs HTTP/2 and PHP 7				</a>
-			
-			
-			
-			
-			
-			
-					</li>
-        	                        		<li>
-							<a class="mod-articles-category-title " href="/blog/1806-running-magento-on-php-7">
-				Running Magento on PHP 7				</a>
-			
-			
-			
-			
-			
-			
-					</li>
-        	                        		<li>
-							<a class="mod-articles-category-title " href="/blog/1803-object-calisthenics-for-magento">
-				Object calisthenics for Magento				</a>
-			
-			
-			
-			
-			
-			
-					</li>
-        	                        		<li>
-							<a class="mod-articles-category-title " href="/blog/1805-naming-magento-observer-methods">
-				Naming Magento observer methods				</a>
-			
-			
-			
-			
-			
-			
-					</li>
-        	                        		<li>
-							<a class="mod-articles-category-title " href="/blog/1802-do-more-with-php">
-				Do more with PHP!				</a>
-			
-			
-			
-			
-			
-			
-					</li>
-        	                        		<li>
-							<a class="mod-articles-category-title " href="/blog/1800-some-magento-2-whitepapers">
-				Some Magento 2 whitepapers				</a>
-			
-			
-			
-			
-			
-			
-					</li>
-        	                        </ul>
+			</div>
 		</div>
-			<div class="module col-sm-3">
+	</section>
+
+	<section class="bottom-row" id="bottom-row">
+		<div class="container">
+			<div class="row">
+						<div class="module col-sm-3">
 					<h3>More Stuff</h3>
 					<ul class="">
-<li class="item-69"><a href="/company">Company</a></li><li class="item-567"><a href="/jobs">Jobs</a></li><li class="item-259"><a href="/shop-faq">Shop FAQ</a></li><li class="item-2697"><a href="/magento-2-faq">Magento 2 FAQ</a></li><li class="item-568"><a href="/extension-refund-policy">Extension Refund Policy</a></li><li class="item-2595"><a href="/extension-support-subscriptions">Extension Support Subscriptions</a></li><li class="item-50 current active"><a href="/privacy-policy">Privacy Policy</a></li><li class="item-2398"><a href="/terms-conditions">Terms &amp; Conditions</a></li><li class="item-49"><a href="/disclaimer">Disclaimer</a></li><li class="item-21"><a href="/copyright">Copyright</a></li><li class="item-195"><a href="/help">Help</a></li><li class="item-2579"><a href="/search">Search</a></li></ul>
+<li class="item-69"><a href="/company">Company Data</a></li><li class="item-259"><a href="/shop-faq">Shop FAQ</a></li><li class="item-2697"><a href="/magento-2-faq">Magento 2 FAQ</a></li><li class="item-2833"><a href="/about-php-versions">About PHP versions</a></li><li class="item-568"><a href="/extension-refund-policy">Extension Refund Policy</a></li><li class="item-2595"><a href="/extension-support-subscriptions">Extension Support Subscriptions</a></li><li class="item-50 current active"><a href="/privacy-policy">Privacy Policy</a></li><li class="item-2398"><a href="/terms-conditions">Terms &amp; Conditions</a></li><li class="item-49"><a href="/disclaimer">Disclaimer</a></li><li class="item-21"><a href="/copyright">Copyright</a></li><li class="item-195"><a href="/help">Help</a></li><li class="item-67"><a href="/?Itemid=67">Sitemap</a></li><li class="item-2579"><a href="/search">Search</a></li></ul>
 		</div>
 			<div class="module col-sm-2">
 					<h3>Get Social</h3>
@@ -463,27 +384,33 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<div class="module col-sm-2">
 					<h3>Connect</h3>
 					<ul class="">
-<li class="item-557"><a href="/connect/about-yireo">About Yireo</a></li><li class="item-2028"><a href="/connect/our-team">Our team</a></li><li class="item-555"><a href="/connect/joomla-partners">Joomla! Partners</a></li><li class="item-556"><a href="/connect/magento-partners">Magento Partners</a></li><li class="item-558"><a href="/connect/yireo-manifest">Yireo Manifest</a></li><li class="item-2672"><a href="/how-we-spend-our-profits">How we spend profits</a></li><li class="item-2750"><a href="https://www.yireo.nl/" title="Dutch site for Yireo trainings">Yireo.nl</a></li></ul>
+<li class="item-2807"><a href="/connect">Connect</a></li><li class="item-557"><a href="/connect/about-yireo">About Yireo</a></li><li class="item-2028"><a href="/connect/our-team">Our team</a></li><li class="item-556"><a href="/connect/magento-partners">Magento Partners</a></li><li class="item-2840"><a href="/industry-partners">Industry Partners</a></li><li class="item-558"><a href="/connect/yireo-manifest">Yireo Manifest</a></li><li class="item-2672"><a href="/how-we-spend-our-profits">How we spend profits</a></li><li class="item-567"><a href="/jobs">Possible jobs at Yireo</a></li><li class="item-554"><a href="/?Itemid=330">Yireo Ecosphere</a></li><li class="item-2750"><a href="https://www.yireo.nl/" title="Dutch site for Yireo trainings">Yireo.nl</a></li></ul>
 		</div>
 	
-        </div>
-    </div>
-</section>
+			</div>
+		</div>
+	</section>
 
-<footer class="footer-row">
-    <div class="container">
-        <div class="row">
-            
+	<footer class="footer-row" id="footer-row">
+		<div class="container">
+			<div class="row">
+				
 
 <div class="custom">
 	<p><a href="http://www.yireo.com">Yireo</a>™ and <a href="http://www.yireo.com/software/magebridge">MageBridge</a>™ name and logo are registered trademarks of Yireo.<br> <a href="http://www.joomla.org">Joomla!</a> is a registered trademark of <a href="http://opensourcematters.org/">Open Source Matters, Inc</a>.<br> <a href="http://www.magentocommerce.com">Magento</a> is a registered trademark of <a href="http://www.magentocommerce.com">Magento Inc.</a>.<br> All material on this website is copyrighted by <a href="http://www.yireo.com">Yireo</a></p></div>
 
-        </div>
-    </div>
-</footer>
+			</div>
+		</div>
+	</footer>
 
 <script>
-jQuery.noConflict();
+
+	jQuery.noConflict();
+	    (function($) {
+        $('pre').each(function(i, block) {
+            hljs.highlightBlock(block);
+        });
+    })(jQuery);
 </script>
 
 
