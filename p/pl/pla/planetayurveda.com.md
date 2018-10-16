@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetayurveda.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625025327id_/http%3A//www.planetayurveda.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetayurveda.com privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017013855id_/http%3A//www.planetayurveda.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Planet Ayurveda
 
@@ -64,7 +64,7 @@ Despite our use of commercially reasonable efforts to protect your Personal Info
 
 ## USE OF PERSONAL INFORMATION
 
-We process personal information for the following Services and purposes:
+We process personal information for the following services and purposes:
 
 Account set up, Account management and order processing.
 
@@ -119,12 +119,12 @@ Whenever Planet Ayurveda processes your personal data, by automated means based 
 
 You have the right to erase any personal data processed by Planet Ayurveda at any time except for the following situations:
 
-  1. you have an ongoing matter with Customer Service
-  2. you have an open order which has not yet been shipped or partially shipped
-  3. you have an unsettled debt with Planet Ayurveda, regardless of the payment method
-  4. if you are suspected or have misused our services within the last four years
-  5. if you have made any purchase, we will keep your personal data in connection to your transaction for book-keeping purposes
-  6. Your right to object to processing based on legitimate interest: 
+  1. You have an ongoing matter with Customer Service.
+  2. You have an open order which has not yet been shipped or partially shipped.
+  3. You have an unsettled debt with Planet Ayurveda, regardless of the payment method.
+  4. If you are suspected or have misused our services within the last four years.
+  5. If you have made any purchase, we will keep your personal data in connection to your transaction for book-keeping purposes.
+  6. Your right to object to processing based on legitimate interest.
   7. You have the right to object to processing of your personal data that is based on Planet Ayurveda's legitimate interest. Where we suspend our processing of your personal data we will still be permitted to store your personal data, but any other processing of this information will require your consent, subject to certain exemptions. When you do so your account will cease to exit and you will be considered inactive.
 
 
@@ -165,6 +165,6 @@ You should be aware that the privacy regulations are not harmonized across the w
 
 ## PRIVACY POLICY UPDATES
 
-This Privacy Policy is subject to occasional revision, and changes will be posted on this page. Any changes to this Privacy Policy will be communicated on this page. You are urged to return to check the Privacy Policy for the latest updates prior to submitting any Personal Information through the Site.
+This Privacy Policy is subject to occasional revision and changes will be posted on this page. Any changes to this Privacy Policy will be communicated on this page. You are urged to return to check the Privacy Policy for the latest updates prior to submitting any Personal Information through the Site.
 
 This Privacy Policy was created in June 2018
