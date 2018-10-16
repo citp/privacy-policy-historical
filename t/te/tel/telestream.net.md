@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telestream.net privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609094749id_/http%3A//www.telestream.net/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telestream.net privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016060207id_/http%3A//www.telestream.net/company/privacy.htm) for the most accurate reproduction.*
 
 # Telestream Company - Privacy Policy
 
@@ -18,7 +18,6 @@ The information we collect through the Site and Services is controlled by Telest
   * How We Use Your Information
   * How We Share Your Information
   * Our Use of Cookies and Other Tracking Mechanisms
-  * Clear GIFs, Pixel Tags and Other Technologies
   * Third-Party Analytics
   * Third-Party Ad Networks
   * User Generated Content
@@ -78,24 +77,7 @@ We do not disclose or transfer your personal information to non-affiliated third
 
 ## Our Use of Cookies and Other Tracking Mechanisms
 
-We and our third party service providers use cookies and other tracking mechanisms to track information about your use of our Site or Services. We may combine this information with other personal information we collect from you (and our third party service providers may do so on our behalf).
-
-Currently, our systems do not recognize browser do-not-track requests. You may, however, disable certain tracking as discussed in this section (e.g., by disabling cookies); you also may opt-out of targeted advertising by following the instructions in the Third Party Ad Network section.
-
-**Cookies.** Cookies are alphanumeric identifiers that we transfer to your computers hard drive through your web browser for record-keeping purposes. Some cookies allow us to make it easier for you to navigate our Site and Services, while others are used to enable a faster log-in process or to allow us to track your activities at our Site and Service. There are two types of cookies: session and persistent cookies.
-
-  * **Session Cookies.** Session cookies exist only during an online session. They disappear from your computer when you close your browser or turn off your computer. We use session cookies to allow our systems to uniquely identify you during a session or while you are logged into the Site. This allows us to process your online transactions and requests and verify your identity, after you have logged in, as you move through our Site.
-  * **Persistent Cookies.** Persistent cookies remain on your computer after you have closed your browser or turned off your computer. We use persistent cookies to track aggregate and statistical information about user activity, and to display advertising both on our Site and on third-party sites.
-
-
-
-## Disabling Cookies
-
-Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Visitors to our Site who disable cookies will be able to browse certain areas of the Site, but some features may not function.
-
-## Clear GIFs, Pixel Tags and Other Technologies
-
-Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are stored on your computers hard drive, clear GIFs are embedded invisibly on web pages. We may use clear GIFs (a.k.a. web beacons, web bugs or pixel tags), in connection with our Site to, among other things, track the activities of Site visitors, help us manage content, and compile statistics about Site usage. We and our third party service providers also use clear GIFs in HTML emails to our customers, to help us track email response rates, identify when our emails are viewed, and track whether our emails are forwarded.
+For information on our use of cookies and other tracking mechanisms, please refer to our [Cookie Information web page (click here)](https://web.archive.org/web/20181016060207id_/http%3A//www.telestream.net/company/cookie-information.htm).
 
 ## Third Party Analytics
 
@@ -206,6 +188,6 @@ Email:  [ info@telestream.net](mailto:info@telestream.net)
 
 ## Changes to this Policy
 
-This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our [Site](https://web.archive.org/web/20180609094749id_/http%3A//www.telestream.net/company/privacy.htm). If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site.
+This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our [Site](https://web.archive.org/web/20181016060207id_/http%3A//www.telestream.net/company/privacy.htm). If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site.
 
-If you own a Telestream product, visit our [Support Center](https://web.archive.org/web/20180609094749id_/http%3A//www.telestream.net/telestream-support/overview.htm) for the latest software updates and product information.
+If you own a Telestream product, visit our [Support Center](https://web.archive.org/web/20181016060207id_/http%3A//www.telestream.net/telestream-support/overview.htm) for the latest software updates and product information.
