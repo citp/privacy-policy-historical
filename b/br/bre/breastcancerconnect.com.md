@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breastcancerconnect.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611090613id_/http%3A//www.breastcancerconnect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breastcancerconnect.com privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016160607id_/http%3A//www.breastcancerconnect.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Breast Cancer Connect
 
