@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the security-warehouse.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615180748id_/http%3A//www.security-warehouse.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the security-warehouse.com privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016144657id_/http%3A//www.security-warehouse.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,4 +59,4 @@ You may request details of personal information which we hold about you under th
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-Copyright © 2017 Magento, Inc. All rights reserved.
+Copyright © 2000-2018 RFID & Security Warehouse. All rights reserved.
