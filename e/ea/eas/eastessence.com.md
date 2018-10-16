@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastessence.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613223131id_/http%3A//www.eastessence.com/RWD-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastessence.com privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016162243id_/http%3A//www.eastessence.com/RWD-Policy.html) for the most accurate reproduction.*
 
 # RWD - Privacy Policy
 
