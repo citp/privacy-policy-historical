@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spyoptic.com privacy policy that was archived on 2018-03-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180323150953id_/http%3A//www.spyoptic.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spyoptic.com privacy policy that was archived on 2018-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181016153245id_/https%3A//www.spyoptic.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -28,13 +28,13 @@ s.parentNode.insertBefore(wf, s);
 <link rel="icon" type="image/png" href="/on/demandware.static/Sites-spyoptic-Site/-/default/dwfc22b0ba/images/icon.114.png">
 <meta name="description" content=" ">
 <meta name="keywords" content=" ">
-<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1521804676925/lib/jquery/jquery-1.11.1.min.js"></script>
-<link href="/on/demandware.static/Sites-spyoptic-Site/-/default/v1521804676925/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
-<link href="/on/demandware.static/Sites-spyoptic-Site/-/default/v1521804676925/lib/jquery/slick-1.6.0/slick/slick.css" type="text/css" rel="stylesheet">
-<link href="/on/demandware.static/Sites-spyoptic-Site/-/default/v1521804676925/lib/jquery/slick-1.6.0/slick/slick-theme.css" type="text/css" rel="stylesheet">
+<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1539687671696/lib/jquery/jquery-1.11.1.min.js"></script>
+<link href="/on/demandware.static/Sites-spyoptic-Site/-/default/v1539687671696/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-spyoptic-Site/-/default/v1539687671696/lib/jquery/slick-1.6.0/slick/slick.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-spyoptic-Site/-/default/v1539687671696/lib/jquery/slick-1.6.0/slick/slick-theme.css" type="text/css" rel="stylesheet">
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1521804676925/js/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1539687671696/js/lib/html5.js"></script>
 <![endif]-->
 <script type="text/javascript">
       /**
@@ -153,7 +153,7 @@ turnToSkey = "rlV2DaGPMyY8pLysite";
 if(document.location.href.indexOf('orderconfirmation') < 0 && document.location.href.indexOf('COSummary-Submit') < 0){
 	turnToConfig = {
 		siteKey: "rlV2DaGPMyY8pLysite", // this must match the same siteKey in the imported script below
-		localProxyUrl:"http://www.spyoptic.com/on/demandware.static/Sites-spyoptic-Site/-/default/dwe18b5563/tra/turntoproxy.html",
+		localProxyUrl:"https://www.spyoptic.com/on/demandware.static/Sites-spyoptic-Site/-/default/dwe18b5563/tra/turntoproxy.html",
 		setupType: "staticEmbed",
 		reviewsSetupType: "staticEmbed",
 		relatedReviewsPageSize : 3,
@@ -177,7 +177,7 @@ if(document.location.href.indexOf('orderconfirmation') < 0 && document.location.
 }
 </script>
 <script type="text/javascript" src="//static.www.turnto.com/sitedata/rlV2DaGPMyY8pLysite/v4_3/null/d/itemjs"></script>
-<link href="/on/demandware.static/Sites-spyoptic-Site/-/default/v1521804676925/css/turnto.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-spyoptic-Site/-/default/v1539687671696/css/turnto.css" type="text/css" rel="stylesheet">
 <script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
 var dw = (window.dw || {});
@@ -192,7 +192,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -238,11 +244,38 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
 
-<link rel="stylesheet" href="/on/demandware.static/Sites-spyoptic-Site/-/default/v1521804676925/css/style.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-spyoptic-Site/-/default/v1539687671696/css/style.css">
 <!--[if lte IE 8]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
 <script src="https://cdn.rawgit.com/chuckcarpenter/REM-unit-polyfill/master/js/rem.min.js" type="text/javascript"></script>
@@ -275,7 +308,7 @@ window.location.reload();
 	</script>
 <script type="text/javascript">
 	dataLayer.push({
-		'customer': 'abyzrZxcIpEYxR6fW3c1CxXHKh',
+		'customer': 'adbiq7yfSXCgrLsxz5BxNcrn7a',
 		
 	});
 </script>
@@ -303,10 +336,11 @@ window.location.reload();
 <header>
 <div class="header-banner">
 <div class="grid-container">
-<div class="header-promotion"> <a href="http://www.spyoptic.com/sunglasses/mens/all-sunglasses/">Celebrate Spring with Free 2-Day Shipping On U.S. Orders! </a></div>
+<div class="header-promotion">Free premium sunglass case with purchase of sunglasses <span style="font-size:11px;"> (with orders $85+)</span></div>
 <div class="header-info-top">
 <div class="icon-wrapper float-right">
 <div id="mini-cart">
+
 
 
 <div class="mini-cart-total">
@@ -332,6 +366,14 @@ window.location.reload();
 </div>
 </div>
 </li>
+</div>
+<div class="icon-wrapper float-right">
+<div id="deal-locator">
+<a href="/dealer-locator/dealer-locator.html" title="Dealer Locator">
+<i class="icons icons-locator"></i>
+Stores
+</a>
+</div>
 </div>
 </div>
 </div>
@@ -370,23 +412,28 @@ window.location.reload();
 <i class="menu-item-toggle icons icons-menu-plus"></i>
 <ul class="level-3">
 <li>
-<a href="http://www.spyoptic.com/sunglasses/mens/all-sunglasses/">
+<a href="https://www.spyoptic.com/sunglasses/mens/all-sunglasses/">
 All Sunglasses
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/sunglasses/mens/polarized/">
+<a href="https://www.spyoptic.com/sunglasses/mens/polarized/">
 Polarized
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/sunglasses/mens/safety/">
+<a href="https://www.spyoptic.com/sunglasses/mens/safety/">
 Safety
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/sunglasses/mens/sale/">
+<a href="https://www.spyoptic.com/sunglasses/mens/sale/">
 Sale
+</a>
+</li>
+<li>
+<a href="https://www.spyoptic.com/gear/accessories/sunglass-cases/">
+Sunglass Cases
 </a>
 </li>
 </ul>
@@ -396,17 +443,17 @@ Sale
 <i class="menu-item-toggle icons icons-menu-plus"></i>
 <ul class="level-3">
 <li>
-<a href="http://www.spyoptic.com/sunglasses/womens/all-sunglasses/">
+<a href="https://www.spyoptic.com/sunglasses/womens/all-sunglasses/">
 All Sunglasses
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/sunglasses/womens/polarized/">
+<a href="https://www.spyoptic.com/sunglasses/womens/polarized/">
 Polarized
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/sunglasses/womens/sale/">
+<a href="https://www.spyoptic.com/sunglasses/womens/sale/">
 Sale
 </a>
 </li>
@@ -417,45 +464,55 @@ Sale
 <i class="menu-item-toggle icons icons-menu-plus"></i>
 <ul class="level-3">
 <li>
-<a href="http://www.spyoptic.com/sunglasses/collections/refresh/">
+<a href="https://www.spyoptic.com/sunglasses/collections/slayco-by-axell-hodges/">
+Slayco by Axell Hodges
+</a>
+</li>
+<li>
+<a href="https://www.spyoptic.com/sunglasses/collections/refresh/">
 Refresh
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/sunglasses/collections/happy-glass/">
-Happy Glass
+<a href="https://www.spyoptic.com/sunglasses/collections/happy-rose/">
+Happy Rose
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/sunglasses/collections/handmade/">
+<a href="https://www.spyoptic.com/sunglasses/collections/handmade/">
 Handmade
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/sunglasses/collections/dale-earnhardt-jr-88/">
+<a href="https://www.spyoptic.com/sunglasses/collections/dale-earnhardt-jr-88/">
 Dale Earnhardt Jr 88
+</a>
+</li>
+<li>
+<a href="https://www.spyoptic.com/sunglasses/collections/asia-fit/">
+Asia Fit
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="http://www.spyoptic.com/sunglasses/sunglass-accessories/">
+<a class="has-sub-menu" href="https://www.spyoptic.com/sunglasses/sunglass-accessories/">
 Sunglass Accessories
 </a>
 <i class="menu-item-toggle icons icons-menu-plus"></i>
 <ul class="level-3">
 <li>
-<a href="http://www.spyoptic.com/sunglasses/sunglass-accessories/replacement-lenses/">
+<a href="https://www.spyoptic.com/sunglasses/sunglass-accessories/replacement-lenses/">
 Replacement Lenses
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/sunglasses/sunglass-accessories/sunglass-bags/">
+<a href="https://www.spyoptic.com/sunglasses/sunglass-accessories/sunglass-bags/">
 Sunglass Bags
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/sunglasses/sunglass-accessories/sunglass-cases/">
+<a href="https://www.spyoptic.com/sunglasses/sunglass-accessories/sunglass-cases/">
 Sunglass Cases
 </a>
 </li>
@@ -466,18 +523,23 @@ Sunglass Cases
 <i class="menu-item-toggle icons icons-menu-plus"></i>
 <ul class="level-3">
 <li>
-<a href="http://www.spyoptic.com/happyglass-lp/happyglass-lp.html">
-Happy Glass
+<a href="https://www.spyoptic.com/refresh/refresh.html">
+Refresh Eyewear
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/happy/happy.html">
+<a href="https://www.spyoptic.com/happy/happy.html">
 Happy Lens
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/bluelight/bluelight.html">
+<a href="https://www.spyoptic.com/bluelight/bluelight.html">
 Blue Light Protection
+</a>
+</li>
+<li>
+<a href="https://www.spyoptic.com/replacement-lens-lp/replacement-lens-LP.html">
+Replacement Lenses
 </a>
 </li>
 </ul>
@@ -502,17 +564,17 @@ Buy With Rx Lenses
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/eyeglasses/mens/all-eyeglasses/">
+<a href="https://www.spyoptic.com/eyeglasses/mens/all-eyeglasses/">
 All Eyeglasses
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/eyeglasses/mens/new/">
+<a href="https://www.spyoptic.com/eyeglasses/mens/new/">
 New
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/eyeglasses/mens/most-popular/">
+<a href="https://www.spyoptic.com/eyeglasses/mens/most-popular/">
 Most Popular
 </a>
 </li>
@@ -523,17 +585,22 @@ Most Popular
 <i class="menu-item-toggle icons icons-menu-plus"></i>
 <ul class="level-3">
 <li>
-<a href="http://www.spyoptic.com/eyeglasses/womens/all-eyeglasses/">
+<a href="https://www.spyhappyrx.com/shopby/brand-spy.html " target="_blank">
+Buy With Rx Lenses
+</a>
+</li>
+<li>
+<a href="https://www.spyoptic.com/eyeglasses/womens/all-eyeglasses/">
 All Eyeglasses
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/eyeglasses/womens/new/">
+<a href="https://www.spyoptic.com/eyeglasses/womens/new/">
 New
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/eyeglasses/womens/most-popular/">
+<a href="https://www.spyoptic.com/eyeglasses/womens/most-popular/">
 Most Popular
 </a>
 </li>
@@ -616,23 +683,28 @@ Rx Eyeglasses
 <i class="menu-item-toggle icons icons-menu-plus"></i>
 <ul class="level-3">
 <li>
-<a href="http://www.spyoptic.com/goggles/snow/all-goggles/">
+<a href="https://www.spyoptic.com/goggles/snow/all-goggles/">
 All Goggles
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/goggles/snow/youth/">
+<a href="https://www.spyoptic.com/goggles/snow/youth/">
 Youth
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/goggles/snow/replacement-lenses/">
+<a href="https://www.spyoptic.com/goggles/snow/replacement-lenses/">
 Replacement Lenses
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/goggles/snow/sale/">
+<a href="https://www.spyoptic.com/goggles/snow/sale/">
 Sale
+</a>
+</li>
+<li>
+<a href="https://www.spyoptic.com/gear/accessories/goggle-cases/">
+Snow Goggle Cases
 </a>
 </li>
 </ul>
@@ -642,28 +714,33 @@ Sale
 <i class="menu-item-toggle icons icons-menu-plus"></i>
 <ul class="level-3">
 <li>
-<a href="http://www.spyoptic.com/goggles/mx/all-goggles/">
+<a href="https://www.spyoptic.com/goggles/mx/all-goggles/">
 All Goggles
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/goggles/mx/youth/">
+<a href="https://www.spyoptic.com/goggles/mx/youth/">
 Youth
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/goggles/mx/replacement-lenses/">
+<a href="https://www.spyoptic.com/goggles/mx/replacement-lenses/">
 Replacement Lenses
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/goggles/mx/accessories/">
+<a href="https://www.spyoptic.com/goggles/mx/accessories/">
 Accessories
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/goggles/mx/sale/">
+<a href="https://www.spyoptic.com/goggles/mx/sale/">
 Sale
+</a>
+</li>
+<li>
+<a href="https://www.spyoptic.com/gear/accessories/goggle-cases/">
+Mx Goggle Cases
 </a>
 </li>
 </ul>
@@ -673,17 +750,17 @@ Sale
 <i class="menu-item-toggle icons icons-menu-plus"></i>
 <ul class="level-3">
 <li>
-<a href="http://www.spyoptic.com/one/one.html">
+<a href="https://www.spyoptic.com/one/one.html">
 ACE Electrochromic ONE Lens
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/snow-tech-17/snow-tech-17.html">
+<a href="https://www.spyoptic.com/snow-tech-17/snow-tech-17.html">
 Snow Goggle Technology
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/snow-goggle-happy-lens/snow-goggle-happy-lens.html">
+<a href="https://www.spyoptic.com/snow-goggle-happy-lens/snow-goggle-happy-lens.html">
 Snow Goggle Lens Technology
 </a>
 </li>
@@ -700,75 +777,59 @@ Snow Goggle Lens Technology
 <div class="grid-container">
 <ul class="menu-vertical">
 <li>
-<a class="null" href="http://www.spyoptic.com/gear/apparel/">
+<a class="null" href="https://www.spyoptic.com/gear/apparel/">
 Apparel
 </a>
 <i class="menu-item-toggle icons icons-menu-plus"></i>
 <ul class="level-3">
 <li>
-<a href="http://www.spyoptic.com/gear/apparel/tees/">
+<a href="https://www.spyoptic.com/gear/apparel/tees/">
 Tees
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/gear/apparel/hoodies/">
+<a href="https://www.spyoptic.com/gear/apparel/hoodies/">
 Hoodies
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/gear/apparel/windbreaker/">
+<a href="https://www.spyoptic.com/gear/apparel/windbreaker/">
 Windbreaker
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="http://www.spyoptic.com/gear/accessories/">
+<a class="has-sub-menu" href="https://www.spyoptic.com/gear/accessories/">
 Accessories
 </a>
 <i class="menu-item-toggle icons icons-menu-plus"></i>
 <ul class="level-3">
 <li>
-<a href="http://www.spyoptic.com/gear/accessories/goggle-cases/">
+<a href="https://www.spyoptic.com/gear/accessories/goggle-cases/">
 Goggle Cases
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/gear/accessories/misc-accessories/">
+<a href="https://www.spyoptic.com/gear/accessories/misc-accessories/">
 Misc Accessories
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/gear/accessories/sunglass-cases/">
+<a href="https://www.spyoptic.com/gear/accessories/sunglass-cases/">
 Sunglass Cases
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="http://www.spyoptic.com/gear/mobile-audio/">
+<a class="has-sub-menu" href="https://www.spyoptic.com/gear/mobile-audio/">
 Mobile + Audio
 </a>
 <i class="menu-item-toggle icons icons-menu-plus"></i>
 <ul class="level-3">
 <li>
-<a href="http://www.spyoptic.com/gear/mobile-audio/earbuds/">
-Earbuds
-</a>
-</li>
-<li>
-<a href="http://www.spyoptic.com/gear/mobile-audio/phone-cases/">
-Phone Cases
-</a>
-</li>
-<li>
-<a href="http://www.spyoptic.com/gear/mobile-audio/powerbanks/">
-Powerbanks
-</a>
-</li>
-
-<li>
-<a href="http://www.spyoptic.com/gear/mobile-audio/screen-protectors/">
+<a href="https://www.spyoptic.com/gear/mobile-audio/screen-protectors/">
 Screen Protectors
 </a>
 </li>
@@ -789,22 +850,22 @@ Screen Protectors
 <i class="menu-item-toggle icons icons-menu-plus"></i>
 <ul class="level-3">
 <li>
-<a href="http://www.spyoptic.com/snowhappy/snowhappy.html">
+<a href="https://www.spyoptic.com/snowhappy/snowhappy.html">
 Snow Happy
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/masonho-snapt3/masonho-snapt3.html">
+<a href="https://www.spyoptic.com/masonho-snapt3/masonho-snapt3.html">
 Mason Ho's Snapt3 Segment
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/skihappy/skihappy.html">
+<a href="https://www.spyoptic.com/skihappy/skihappy.html">
 Ski Happy
 </a>
 </li>
 <li>
-<a href="http://www.spyoptic.com/fishhappy/fishhappy.html">
+<a href="https://www.spyoptic.com/fishhappy/fishhappy.html">
 Fish Happy
 </a>
 </li>
@@ -870,7 +931,7 @@ Blog
 </div>
 <div class="header-banner-mobile">
 <div class="grid-container">
-<div class="header-promotion"> <a href="http://www.spyoptic.com/sunglasses/mens/all-sunglasses/">Celebrate Spring with Free 2-Day Shipping On U.S. Orders! </a></div>
+<div class="header-promotion">Free premium sunglass case with purchase of sunglasses <span style="font-size:11px;"> (with orders $85+)</span></div>
 </div>
 </div>
 </div>
@@ -895,7 +956,7 @@ Privacy Policy
 <div class="content-asset">
 <h2>Privacy Policy</h2>
 <p>EFFECTIVE DATE: April, 2017.</p>
-<p>Spy Optic Online Store ("we") operates the web site located at <a href="http://www.spyoptic.com/home">www.spyoptic.com</a> (the”Web Site”). We recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web Site.</p>
+<p>Spy Optic Online Store ("we") operates the web site located at <a href="https://www.spyoptic.com/home">www.spyoptic.com</a> (the”Web Site”). We recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web Site.</p>
 <p><strong>PLEASE READ THIS PRIVACY POLICY CAREFULLY, AND IF YOU HAVE ANY QUESTIONS, PLEASE FEEL FREE TO CONTACT US. BY VISITING THE WEB</strong><strong>SITE, YOU CONSENT TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION AS OUTLINED IN THE PRIVACY POLICY.</strong></p>
 <h3>When do we collect information?</h3>
 <p>We may collect information about you anytime you interact with us such as when you (i) access or browse the Web Site, (ii) order products or services through the Web Site, (iii) communicate with us either by e-mail, over the telephone or in any other manner, (iv) elect to participate in any of our product promotions, and (v) request information about products and services.</p>
@@ -941,6 +1002,21 @@ Privacy Policy
 </div>
 <div id="secondary">
 <div class="static-content-side-bar">
+<h4 class="toggle">Order &amp; Returns</h4>
+<ul class="toggle-content sidebar-element-wrapper">
+<li>
+<a class="sidebar-element" href="/return-policy/return-policy.html">Return Policy</a>
+</li>
+<li>
+<a class="sidebar-element" href="/privacy-policy/privacy-policy.html">Privacy Policy</a>
+</li>
+<li>
+<a class="sidebar-element" href="/terms-of-use/terms-of-use.html">Terms of Use</a>
+</li>
+<li>
+<a class="sidebar-element" href="/happiness-guarantee/happiness-guarantee.html">Happiness Guarantee</a>
+</li>
+</ul>
 <h4 class="toggle">Customer Service</h4>
 <ul class="toggle-content sidebar-element-wrapper">
 <li>
@@ -957,21 +1033,6 @@ Privacy Policy
 </li>
 <li>
 <a class="sidebar-element" href="/replacement-program/replacement-program.html">Replacement Program</a>
-</li>
-</ul>
-<h4 class="toggle">Order &amp; Returns</h4>
-<ul class="toggle-content sidebar-element-wrapper">
-<li>
-<a class="sidebar-element" href="/return-policy/return-policy.html">Return Policy</a>
-</li>
-<li>
-<a class="sidebar-element" href="/privacy-policy/privacy-policy.html">Privacy Policy</a>
-</li>
-<li>
-<a class="sidebar-element" href="/terms-of-use/terms-of-use.html">Terms of Use</a>
-</li>
-<li>
-<a class="sidebar-element" href="/happiness-guarantee/happiness-guarantee.html">Happiness Guarantee</a>
 </li>
 </ul>
 </div>
@@ -1006,34 +1067,35 @@ window.addEventListener('load', function() {
 <h3>Company</h3>
 <div class="footer-menu-section-mobile">
 <ul>
-<li><a href="http://www.spyoptic.com/about-us/about-us.html">About Us</a></li>
-<li><a href="http://www.spyoptic.com/jobs/jobs.html" target="_blank">Careers</a></li>
-<li><a href="http://www.spyoptic.com/teams?filter=all">Team</a></li>
+<li><a href="https://www.spyoptic.com/about-us/about-us.html">About Us</a></li>
+<li><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f8d4b700-684e-4cbf-82e0-eb81ed208309" target="_blank">Careers</a></li>
+<li><a href="https://www.spyoptic.com/teams?filter=all">Team</a></li>
 <li><a href="http://blog-spyoptic.com/" target="_blank">Blog</a></li>
 
-<li><a href="http://www.spyoptic.com/dealer-locator/dealer-locator.html">Store Locator</a></li>
-<li><a href="http://www.spyoptic.com/seehappy">#seehappy</a></li>
+<li><a href="https://www.spyoptic.com/dealer-locator/dealer-locator.html">Store Locator</a></li>
+<li><a href="https://www.spyoptic.com/seehappy">#seehappy</a></li>
 </ul>
 </div>
 <h3>Services</h3>
 <div class="footer-menu-section-mobile">
 <ul>
-<li><a href="http://www.spyoptic.com/contact">Contact Us</a></li>
-<li><a href="http://www.spyoptic.com/faq/faq.html">FAQ</a></li>
-<li><a href="http://www.spyoptic.com/warranty/warranty.html">Warranty</a></li>
-<li><a href="http://www.spyoptic.com/order-history">Order Status</a></li>
-<li><a href="http://www.spyoptic.com/return-policy/return-policy.html">Return Policy</a></li>
+<li><a href="https://www.spyoptic.com/contact">Contact Us</a></li>
+<li><a href="https://www.spyoptic.com/faq/faq.html">FAQ</a></li>
+<li><a href="https://www.spyoptic.com/warranty/warranty.html">Warranty</a></li>
+<li><a href="https://www.spyoptic.com/order-history">Order Status</a></li>
+<li><a href="https://www.spyoptic.com/return-policy/return-policy.html">Return Policy</a></li>
 <li><a href="https://spyoptic.myunidays.com/US/en-US/get-perk" target="_blank">Student Login</a></li>
+<li><a href="https://www.spyoptic.com/b2b-pepperi/b2b-pepperi.html" target="_blank">Dealer Portal</a></li>
 
 </ul>
 </div>
 <h3>Policy</h3>
 <div class="footer-menu-section-mobile">
 <ul>
-<li><a href="http://www.spyoptic.com/privacy-policy/privacy-policy.html">Privacy Policy</a></li>
-<li><a href="http://www.spyoptic.com/terms-of-use/terms-of-use.html">Terms of Use</a></li>
-<li><a href="http://www.spyoptic.com/sales-agreement/sales-agreement.html">Retail Sales Agreement</a></li>
-<li><a href="http://www.spyoptic.com/map/map.html">MAP Policy</a></li>
+<li><a href="https://www.spyoptic.com/privacy-policy/privacy-policy.html">Privacy Policy</a></li>
+<li><a href="https://www.spyoptic.com/terms-of-use/terms-of-use.html">Terms of Use</a></li>
+<li><a href="https://www.spyoptic.com/sales-agreement-2018/sales-agreement-2018.html">Retail Sales Agreement</a></li>
+<li><a href="https://www.spyoptic.com/map/map.html">MAP Policy</a></li>
 
 </ul>
 </div>
@@ -1043,34 +1105,35 @@ window.addEventListener('load', function() {
 <div class="footer-menu-section">
 <h3>Company</h3>
 <ul>
-<li><a href="http://www.spyoptic.com/about-us/about-us.html">About Us</a></li>
-<li><a href="http://www.spyoptic.com/jobs/jobs.html" target="_blank">Careers</a></li>
-<li><a href="http://www.spyoptic.com/teams?filter=all">Team</a></li>
+<li><a href="https://www.spyoptic.com/about-us/about-us.html">About Us</a></li>
+<li><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f8d4b700-684e-4cbf-82e0-eb81ed208309" target="_blank">Careers</a></li>
+<li><a href="https://www.spyoptic.com/teams?filter=all">Team</a></li>
 <li><a href="http://blog-spyoptic.com/" target="_blank">Blog</a></li>
 
-<li><a href="http://www.spyoptic.com/dealer-locator/dealer-locator.html">Store Locator</a></li>
-<li><a href="http://www.spyoptic.com/seehappy">#seehappy</a></li>
+<li><a href="https://www.spyoptic.com/dealer-locator/dealer-locator.html">Store Locator</a></li>
+<li><a href="https://www.spyoptic.com/seehappy">#seehappy</a></li>
 </ul>
 </div>
 <div class="footer-menu-section">
 <h3>Services</h3>
 <ul>
-<li><a href="http://www.spyoptic.com/contact">Contact Us</a></li>
-<li><a href="http://www.spyoptic.com/faq/faq.html">FAQ</a></li>
-<li><a href="http://www.spyoptic.com/warranty/warranty.html">Warranty</a></li>
-<li><a href="http://www.spyoptic.com/order-history">Order Status</a></li>
-<li><a href="http://www.spyoptic.com/return-policy/return-policy.html">Return Policy</a></li>
+<li><a href="https://www.spyoptic.com/contact">Contact Us</a></li>
+<li><a href="https://www.spyoptic.com/faq/faq.html">FAQ</a></li>
+<li><a href="https://www.spyoptic.com/warranty/warranty.html">Warranty</a></li>
+<li><a href="https://www.spyoptic.com/order-history">Order Status</a></li>
+<li><a href="https://www.spyoptic.com/return-policy/return-policy.html">Return Policy</a></li>
 <li><a href="https://spyoptic.myunidays.com/US/en-US/get-perk" target="_blank">Student Login</a></li>
+<li><a href="https://www.spyoptic.com/b2b-pepperi/b2b-pepperi.html" target="_blank">Dealer Portal</a></li>
 
 </ul>
 </div>
 <div class="footer-menu-section">
 <h3>Policy</h3>
 <ul>
-<li><a href="http://www.spyoptic.com/privacy-policy/privacy-policy.html">Privacy Policy</a></li>
-<li><a href="http://www.spyoptic.com/terms-of-use/terms-of-use.html">Terms of Use</a></li>
-<li><a href="http://www.spyoptic.com/sales-agreement/sales-agreement.html">Retail Sales Agreement</a></li>
-<li><a href="http://www.spyoptic.com/map/map.html">MAP Policy</a></li>
+<li><a href="https://www.spyoptic.com/privacy-policy/privacy-policy.html">Privacy Policy</a></li>
+<li><a href="https://www.spyoptic.com/terms-of-use/terms-of-use.html">Terms of Use</a></li>
+<li><a href="https://www.spyoptic.com/sales-agreement-2018/sales-agreement-2018.html">Retail Sales Agreement</a></li>
+<li><a href="https://www.spyoptic.com/map/map.html">MAP Policy</a></li>
 
 </ul>
 </div>
@@ -1098,7 +1161,7 @@ window.addEventListener('load', function() {
 <div class="content-asset">
 <style type="text/css">
 .ico-footer a {
-    background-image: url("http://www.spyoptic.com/on/demandware.static/-/Sites-spyoptic-Library/default/dw3e65aa40/assets/images/social-networking/social-icons-spritesheet.png");
+    background-image: url("https://www.spyoptic.com/on/demandware.static/-/Sites-spyoptic-Library/default/dw3e65aa40/assets/images/social-networking/social-icons-spritesheet.png");
 	background-repeat: no-repeat;
     display: block;
 }
@@ -1147,16 +1210,16 @@ window.addEventListener('load', function() {
 <div class="footer-container grid-container">
 <div class="content-asset">
 <div class="footer-content">
-<p>Copyright © 2018 Spy Optic. All rights Reserved.</p>
+<p>Copyright © 2013-2018 Spy Optic</p>
 </div>
 </div> 
 </div>
 </footer>
 <!--[if gte IE 9 | !IE]><!-->
-<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1521804676925/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1539687671696/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
 <!--<![endif]-->
 <!--[if lte IE 8]>
-<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1521804676925/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1539687671696/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/weblinc/media-match/master/media.match.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/3.4.0/es5-shim.min.js"></script>
 <![endif]-->
@@ -1164,19 +1227,19 @@ window.addEventListener('load', function() {
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.addListener.js" type="text/javascript"></script>
 <![endif]-->
-<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1521804676925/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1521804676925/lib/jquery/jquery.jcarousel.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1521804676925/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1521804676925/lib/jquery/jquery.zoom.min.js"></script>
-<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1521804676925/lib/jquery/slick-1.6.0/slick/slick.min.js"></script>
-<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1521804676925/lib/jquery.creditCardValidator.js"></script>
+<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1539687671696/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1539687671696/lib/jquery/jquery.jcarousel.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1539687671696/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1539687671696/lib/jquery/jquery.zoom.min.js"></script>
+<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1539687671696/lib/jquery/slick-1.6.0/slick/slick.min.js"></script>
+<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1539687671696/lib/jquery.creditCardValidator.js"></script>
 <script type="text/javascript">
 
 (function(){
 window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
-window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","COULD_NOT_SAVE_ADDRESS":"Could not save address. Please check your entries and try again.","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid phone number.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code.","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a promo code.","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid email address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","MAX_FILESIZE":"Maximum filesize exceeded (2.3MB)","LOYALTY_CARD_INVALID":"Invalid Loyalty Card Information.","LOYALTY_CARD_PIN_MISSING":"Please enter a PIN","LOYALTY_CARD_BALANCE":"Your current loyalty card balances are: ","LOYALTY_CARD_NO_BALANCE":"No balance found on this loyalty card.","LOYALTY_CHOICE":"Do you want to use your cash back balance with this order?","LOYALTY_REDEEMED":"is available to be applied and redeemed towards your order purchase.","LOYALTY_PROFILE_PREFERENCE":"dwfrm_profile_customer_loyaltypreference","POSTAL_CODE":"Postal Code","ZIP_CODE":"ZIP Code","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-spyoptic-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-spyoptic-Site/default/Page-Include","continueUrl":"http://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/Page-Show","staticPath":"/on/demandware.static/Sites-spyoptic-Site/-/default/v1521804676925/","addGiftCert":"/on/demandware.store/Sites-spyoptic-Site/default/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-spyoptic-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-spyoptic-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-spyoptic-Site/default/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.spyoptic.com/payments","addressesList":"https://www.spyoptic.com/addresses","wishlistAddress":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-spyoptic-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-spyoptic-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-spyoptic-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-spyoptic-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-spyoptic-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-spyoptic-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-spyoptic-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-spyoptic-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-spyoptic-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-spyoptic-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-spyoptic-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/COShipping-SelectShippingMethod","qasVerifyAddress":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/QAS-VerifyAddress","qasUpdateAddress":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/QAS-UpdateAddress","qasVerifyEmail":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/QAS-VerifyEmail","resetPaymentForms":"/on/demandware.store/Sites-spyoptic-Site/default/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-spyoptic-Site/default/Compare-Show","compareAdd":"/on/demandware.store/Sites-spyoptic-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-spyoptic-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-spyoptic-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-spyoptic-Site/default/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-spyoptic-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-spyoptic-Site/default/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-spyoptic-Site/default/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-spyoptic-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-spyoptic-Site/default/StoreInventory-GetZipCode","billing":"/on/demandware.store/Sites-spyoptic-Site/default/COBilling-Start","setSessionCurrency":"/on/demandware.store/Sites-spyoptic-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-spyoptic-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-spyoptic-Site/default/Page-Show?cid=cookie_hint","rateLimiterReset":"/on/demandware.store/Sites-spyoptic-Site/default/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-spyoptic-Site/default/CSRF-Failed","loyaltycardCheckBalance":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/LoyaltyCard-GetBalance","getOrderReferenceDetails":"/on/demandware.store/Sites-spyoptic-Site/default/AmazonPayments-GetOrderReferenceDetails","getOrderReferenceBillingDetails":"/on/demandware.store/Sites-spyoptic-Site/default/AmazonPayments-GetOrderReferenceBillingDetails","setOrderReferenceID":"/on/demandware.store/Sites-spyoptic-Site/default/AmazonPayments-SetOrderReferenceID","sendWelcome":"/on/demandware.store/Sites-spyoptic-Site/default/Cordial-sendWelcomeEmailViaNewsletter","dynamicProductCarousel":"/on/demandware.store/Sites-spyoptic-Site/default/DynamicContent-ProductCarousel"};
-window.SitePreferences = {"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"STORE_PICKUP":true,"COOKIE_HINT":false,"CHECK_TLS":false,"AMAZON_MERCHANT_ID":"A3LFFDPHNI1K4T","AMAZON_LOGIN_BUTTON_TYPE":"LwA","AMAZON_LOGIN_BUTTON_COLOR":"Gold","AMAZON_LOGIN_BUTTON_SIZE":"small","AMAZON_LOGIN_REDIRECT_URL":"https://www.spyoptic.com/home","AMAZON_PAY_REDIRECT_URL":"https://www.spyoptic.com/amazonpay","AMAZON_SCOPE":"profile postal_code payments:widget payments:shipping_address","AMAZON_PAY_BUTTON_TYPE":"PwA","AMAZON_PAY_BUTTON_COLOR":"Gold","AMAZON_PAY_BUTTON_SIZE":"small"};
+window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","READMORE":"Read More","READLESS":"Close","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","COULD_NOT_SAVE_ADDRESS":"Could not save address. Please check your entries and try again.","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid phone number.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code.","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a promo code.","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"Out of Stock","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid email address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","MAX_FILESIZE":"Maximum filesize exceeded (2.3MB)","LOYALTY_CARD_INVALID":"Invalid Loyalty Card Information.","LOYALTY_CARD_PIN_MISSING":"Please enter a PIN","LOYALTY_CARD_BALANCE":"Your current loyalty card balances are: ","LOYALTY_CARD_NO_BALANCE":"No balance found on this loyalty card.","LOYALTY_CHOICE":"Do you want to use your cash back balance with this order?","LOYALTY_REDEEMED":"is available to be applied and redeemed towards your order purchase.","LOYALTY_PROFILE_PREFERENCE":"dwfrm_profile_customer_loyaltypreference","POSTAL_CODE":"Postal Code","ZIP_CODE":"ZIP Code","PRODUCT_ADDED_TO_REMINDER":"Thanks, you’re on the list","ALREADY_ADDED_ERROR":"Twice is nice, but we already got you","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"Out of Stock","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
+window.Urls = {"appResources":"/on/demandware.store/Sites-spyoptic-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-spyoptic-Site/default/Page-Include","continueUrl":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/Page-Show","staticPath":"/on/demandware.static/Sites-spyoptic-Site/-/default/v1539687671696/","addGiftCert":"/on/demandware.store/Sites-spyoptic-Site/default/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-spyoptic-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-spyoptic-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-spyoptic-Site/default/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.spyoptic.com/payments","addressesList":"https://www.spyoptic.com/addresses","wishlistAddress":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-spyoptic-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-spyoptic-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-spyoptic-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-spyoptic-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-spyoptic-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-spyoptic-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-spyoptic-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-spyoptic-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-spyoptic-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-spyoptic-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-spyoptic-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/COShipping-SelectShippingMethod","qasVerifyAddress":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/QAS-VerifyAddress","qasUpdateAddress":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/QAS-UpdateAddress","qasVerifyEmail":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/QAS-VerifyEmail","resetPaymentForms":"/on/demandware.store/Sites-spyoptic-Site/default/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-spyoptic-Site/default/Compare-Show","compareAdd":"/on/demandware.store/Sites-spyoptic-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-spyoptic-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-spyoptic-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-spyoptic-Site/default/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-spyoptic-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-spyoptic-Site/default/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-spyoptic-Site/default/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-spyoptic-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-spyoptic-Site/default/StoreInventory-GetZipCode","billing":"/on/demandware.store/Sites-spyoptic-Site/default/COBilling-Start","setSessionCurrency":"/on/demandware.store/Sites-spyoptic-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-spyoptic-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-spyoptic-Site/default/Page-Show?cid=cookie_hint","rateLimiterReset":"/on/demandware.store/Sites-spyoptic-Site/default/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-spyoptic-Site/default/CSRF-Failed","loyaltycardCheckBalance":"https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/LoyaltyCard-GetBalance","getOrderReferenceDetails":"/on/demandware.store/Sites-spyoptic-Site/default/AmazonPayments-GetOrderReferenceDetails","getOrderReferenceBillingDetails":"/on/demandware.store/Sites-spyoptic-Site/default/AmazonPayments-GetOrderReferenceBillingDetails","setOrderReferenceID":"/on/demandware.store/Sites-spyoptic-Site/default/AmazonPayments-SetOrderReferenceID","sendWelcome":"/on/demandware.store/Sites-spyoptic-Site/default/Cordial-sendWelcomeEmailViaNewsletter","dynamicProductCarousel":"/on/demandware.store/Sites-spyoptic-Site/default/DynamicContent-ProductCarousel"};
+window.SitePreferences = {"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"STORE_PICKUP":true,"COOKIE_HINT":false,"CHECK_TLS":false,"AMAZON_MERCHANT_ID":"A3LFFDPHNI1K4T","AMAZON_LOGIN_BUTTON_TYPE":"LwA","AMAZON_LOGIN_BUTTON_COLOR":"Gold","AMAZON_LOGIN_BUTTON_SIZE":"small","AMAZON_LOGIN_REDIRECT_URL":"https://www.spyoptic.com/home","AMAZON_PAY_REDIRECT_URL":"https://www.spyoptic.com/amazonpay","AMAZON_SCOPE":"profile postal_code payments:widget payments:shipping_address","AMAZON_PAY_BUTTON_TYPE":"PwA","AMAZON_PAY_BUTTON_COLOR":"Gold","AMAZON_PAY_BUTTON_SIZE":"small","TOKENIZATION_ENABLED":false};
 }());
 </script>
 <script type="text/javascript">
@@ -1187,7 +1250,7 @@ window.User = {"zip":null,"storeId":null,"loyaltyCardApplied":true};
 window.AmazonOrder = {"orderReferenceID":null};
 }());
 </script>
-<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1521804676925/js/app.js"></script>
+<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1539687671696/js/app.js"></script>
 
 <script type="text/javascript">
     window.onAmazonLoginReady = function() {
@@ -1196,7 +1259,7 @@ window.AmazonOrder = {"orderReferenceID":null};
 </script>
 <script type="text/javascript" src="https://static-na.payments-amazon.com/OffAmazonPayments/us/js/Widgets.js?sellerId=A3LFFDPHNI1K4T">
     </script>
-<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1521804676925/js/amazonPayments.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1539687671696/js/amazonPayments.js" type="text/javascript"></script>
 <script>pageContext = {};</script>
 <script>
 var meta = "";
@@ -1213,7 +1276,7 @@ var keywords = "";
 	})();
 	</script>
 
-<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1521804676925/js/cordial.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1539687671696/js/cordial.js" type="text/javascript"></script>
 <script type="text/javascript">
 		cordialApi.init("spyoptic2");
 
@@ -1253,7 +1316,7 @@ var keywords = "";
 /* <![CDATA[ */
 function trackPage() {
     try{
-        var trackingUrl = "http://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/__Analytics-Start";
+        var trackingUrl = "https://www.spyoptic.com/on/demandware.store/Sites-spyoptic-Site/default/__Analytics-Start";
         var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
         if (typeof dw.ac == "undefined") {
             dwAnalytics.trackPageView();
@@ -1265,9 +1328,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1521804676925/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1539687671696/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 
-<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1521804676925/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script>
+<script src="/on/demandware.static/Sites-spyoptic-Site/-/default/v1539687671696/internal/jscript/dwac-18.10.js" type="text/javascript" async="async"></script>
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 
