@@ -1,106 +1,121 @@
-> *The following text is extracted and transformed from the galaxyreporter.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323214707id_/http%3A//www.galaxyreporter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galaxyreporter.com privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016134853id_/http%3A//galaxyreporter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Galaxy Reporter | Latest Breaking News
+# Privacy Policy – Galaxy Reporter
 
-This Privacy Policy governs the exact manner in which our site **Galaxy Reporter** uses, collects, maintains and discloses the information gathered from the readers (each, a “User”) of the http://www.galaxyreporter.com website (“Site”). This privacy policy applies to the entire website and all products and services offered by the Galaxy Reporter.
+Galaxy Report (“us”, “we”, or “our”) operates the galaxyreporter.com website (the “Service”).
 
-**What information do we gather from our readers?**
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. This Privacy Policy for Galaxy Reporter is based on the GDPR Privacy Policy example from TermsFeed.
 
-We may collect personal identification information from readers in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site.
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from galaxyreporter.com
 
-Readers may be specifically asked for, as appropriate, name, email address, phone number. Users may, however, visit our website anonymously. We will solely collect/gather personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+## Information Collection And Use
 
-**What do we use such information for?**
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
-Any of the information we collect from you may be used in one of the following ways:
+### Types of Data Collected
 
-  * In order to personalize your experience
+#### PERSONAL DATA
 
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
 
-
-(Your information helps us to better respond to your individual needs)
-
-  * In order to improve our core website
-
-
-
-(We continually strive to improve our website offerings based on the information and feedback we receive from you)
-
-  * In order to improve customer service
+  * Email address
+  * First name and last name
+  * Cookies and Usage Data
 
 
 
-(Your information helps us to more effectively respond to your customer service requests and support needs)
+#### USAGE DATA
 
-  * In order to administer a contest, promotion, giveaway or other site features
+We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+#### TRACKING & COOKIES DATA
+
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Examples of Cookies we use:
+
+  * **Session Cookies.**  We use Session Cookies to operate our Service.
+  * **Preference Cookies.**  We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.**  We use Security Cookies for security purposes.
 
 
-  * In order to send periodic emails
+
+## Use of Data
+
+Galaxy Reporter uses the collected data for various purposes:
+
+  * To provide and maintain the Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer care and support
+  * To provide analysis or valuable information so that we can improve the Service
+  * To monitor the usage of the Service
+  * To detect, prevent and address technical issues
 
 
 
-(The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.)
+## Transfer Of Data
 
-**Do we use cookies in this website?**
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
-Yes!! (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
 
-We use cookies to help us remember, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still access all the services by contacting us via  **Contact Form.**
+Galaxy Reporter will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
-**How do we ensure protection of your information?**
+## Disclosure Of Data
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information and data stored on our website.
+### Legal Requirements
 
-**Do we disclose any information to outside 3 rd parties?**
+Galaxy Reporter may disclose your Personal Data in the good faith belief that such action is necessary to:
 
-We do not sell, trade, or rent our beloved readers personal identification information to others. We may occasionally share several generic aggregated demographic information which are not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Galaxy Reporter
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
 
-We may also use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-**Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. All of these third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+## Security Of Data
 
-**Advertising**
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+## Service Providers
 
-**Google Adsense**
+We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by simply giving a visit to the dedicated Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-**Google Analytics**
+## Links To Other Sites
 
-This blog uses the Google Analytics Advertising Features which may help us and a few third party vendors to use various important first party cookies such as the Google Analytics cookie or few other first-party identifiers, and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together.
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
-As a visitor you have all the rights to opt out from the Google Analytics Advertising Features which has been in use on this blog through various Ads Settings or Ad Settings for mobile apps, or any other available means whatsoever. You may visit **[this official link](https://tools.google.com/dlpage/gaoptout/)** for that.
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-**California Online Privacy Protection Act Compliance**
+## Children’s Privacy
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Our Service does not address anyone under the age of 13 (“Children”).
 
-**Online Privacy Policy Only**
+We do not knowingly collect personally identifiable information from anyone under the age of 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+## Changes To This Privacy Policy
 
-**Changes to our Privacy Policy**
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-Galaxy Reporter has the discretion to update this privacy policy at any time whatsoever. But whenever we do that, we will surely revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You are acknowledging and also agreeing that it is your responsibility to review this privacy policy periodically and become aware of all the latest modifications.
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
 
-**Your acceptance of these terms**
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-By using this website, you signify your full acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+## Contact Us
 
-**Contacting Us**
+If you have any questions about this Privacy Policy, please contact us:
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+  * By visiting this page on our website: galaxyreporter.com/contact
 
-**Galaxy Reporter**
 
-http://www.galaxyreporter.com
-
-Hyderabad, Telangana, India
-
-This document was last updated on August 06, 2014.
