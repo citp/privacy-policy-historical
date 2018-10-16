@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majidalfuttaim.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605164426id_/http%3A//www.majidalfuttaim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majidalfuttaim.com privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016040553id_/http%3A//www.majidalfuttaim.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Majid Al Futtaim
 
@@ -132,7 +132,7 @@ Majid Al Futtaim is not responsible for any information posted on those sites ot
 
 We keep records for as long as required to a) manage purchases, bookings, memberships and provide the other relevant products or services anticipated by this Privacy Policy, including keeping you up-to-date with our marketing b) personalise the products, services and communications with you c) comply with the applicable record retention legal requirements. When deciding how long to keep your personal information after our relationship with you has ended, we take into account our legal obligations and regulators' expectations.
 
-If you wish to request that we no longer use your information to provide you services, contact us at Analytics Office, Majid Al Futtaim Management Services, P.O. Box 91100, Dubai, United Arab Emirates. You can also email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you wish to request that we no longer use your information to provide you services, contact us at Analytics Office, Majid Al Futtaim Management Services, P.O. Box 91100, Dubai, United Arab Emirates. You can also email us at privacy@maf.ae.
 
 However, we will retain and use your registration information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -202,7 +202,7 @@ Please note that we will likely require additional information from you in order
 
 ## PRIVACY CONCERNS
 
-If you have any concerns about our compliance with applicable privacy laws or this Privacy Policy please write to the Corporate Compliance Office, Majid Al Futtaim Management Services, P.O. Box 91100, Abu Dhabi, United Arab Emirates or email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection). We will endeavour to respond to your concerns as soon as possible.
+If you have any concerns about our compliance with applicable privacy laws or this Privacy Policy please write to the Corporate Compliance Office, Majid Al Futtaim Management Services, P.O. Box 91100, Abu Dhabi, United Arab Emirates or email us at privacy@maf.ae. We will endeavour to respond to your concerns as soon as possible.
 
 ## NOTIFICATION OF CHANGES TO THIS PRIVACY POLICY
 
@@ -212,8 +212,8 @@ We update this Privacy Policy when needed and place updates on our platforms. If
 
 Our Websites or Mobile Apps may contain links to other websites operated by other organisations that have their own privacy policies. Please make sure you read the terms and conditions and privacy policy carefully before providing any personal information on a website as we do not accept any responsibility or liability for websites of other organisations.
 
-## GOVERNING LAW AND DISPUTE RESOLUTION
+## Children
 
-This policy is governed by the United Arab Emirates laws. Any disputes arising thereof, or connected hereto shall be settled by the Dubai courts between Majid Al Futtaim Management Services and you.
+Our platforms are not directed towards children. If you are providing personal information for an individual less than 13 years of age, you are providing us your affirmative parental consent as the legal parent or guardian to collect, use and process the information of the individual less than 13 years of age, consistent with this Privacy Policy.
 
-Last updated: July 18, 2017
+Last updated: June 12, 2018
