@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the spyoptic.com privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323150953id_/http%3A//www.spyoptic.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyoptic.com privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016153245id_/https%3A//www.spyoptic.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 EFFECTIVE DATE: April, 2017.
 
-Spy Optic Online Store ("we") operates the web site located at [www.spyoptic.com](http://www.spyoptic.com/home) (the”Web Site”). We recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web Site.
+Spy Optic Online Store ("we") operates the web site located at [www.spyoptic.com](https://www.spyoptic.com/home) (the”Web Site”). We recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web Site.
 
 **PLEASE READ THIS PRIVACY POLICY CAREFULLY, AND IF YOU HAVE ANY QUESTIONS, PLEASE FEEL FREE TO CONTACT US. BY VISITING THE WEB** **SITE, YOU CONSENT TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION AS OUTLINED IN THE PRIVACY POLICY.**
 
