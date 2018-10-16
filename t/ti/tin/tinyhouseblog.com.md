@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinyhouseblog.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626013700id_/http%3A//tinyhouseblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyhouseblog.com privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016023508id_/http%3A//tinyhouseblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tiny House Blog
 
