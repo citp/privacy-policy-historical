@@ -1,67 +1,68 @@
-> *The following text is extracted and transformed from the uvu.edu privacy policy that was archived on 2018-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180416191541id_/https%3A//www.uvu.edu/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uvu.edu privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016191942id_/https%3A//www.uvu.edu/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Legal | Utah Valley University
 
-## Privacy, Data Protection and Freedom of Information
+## Purpose
 
-In considering privacy, data protection, and freedom of information laws, we need to consider normative and ethical issues as well as legal ones. 
+Utah Valley University (“UVU”) has created this Privacy Statement to explain why UVU collects particular information and how UVU will protect your personal privacy when you visit UVU websites. In order to fully understand your rights UVU encourages you to read this Privacy Statement. By choosing to continue to use UVU websites, you agree to UVU’s collection and use of personal information and non-personal information as described in this Privacy Statement. UVU reserves the right to modify this Privacy Statement at any time, and UVU encourages you to frequently check this page for any changes to this Privacy Statement. 
 
-## Privacy
+## Scope
 
-Privacy is something we all seem to want in some cases and all seem to be willing to give up in others. “Privacy is an important, but illusive concept in law. The right to privacy is acknowledged in several broad-based international agreements. Article 12 of the Universal Declaration of Human Rights and Article 17 of the United Nations International Covenant on Civil and Political Rights both state that, ‘No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honor and reputation. Everyone has the right to the protection of the law against such interference or attacks’” (Stratford & Stratford, 1998). 
+This Privacy Statement applies to all UVU websites, domains, services, applications, and technology products, except that a privacy notice specific to another department or unit of UVU will supplement and may supersede this Privacy Statement. 
 
-Stratford and Stratford note, “The term “privacy” does not appear in the U.S. Constitution or the Bill of Rights. However, the U.S. Supreme Court has ruled in favor of various privacy interests-deriving the right to privacy from the First, Third, Fourth, Fifth, Ninth, and Fourteenth Amendments to the Constitution” (1998). 
+Please be aware of UVU’s GDPR Privacy Notice that supplements this Privacy Statement. The GDPR Privacy Notice applies generally to the provision of personal information by individuals in the European Economic Area. The GDPR Privacy Notice explains how UVU meets its obligations under the [European Union General Data Protection Regulation](http://data.consilium.europa.eu/doc/document/ST-5419-2016-INIT/en/pdf) with respect to such information. For details, please refer to the [GDPR Privacy Notice](https://web.archive.org/legal/docs/gdpr-privacy-notice.pdf). 
 
-As stated by the Global Network Initiative: 
+## Collection of Information
 
-  * Privacy: Privacy is defined using Article 12 of the Universal Declaration of Human Rights (UDHR) and Article 17 of the International Covenant on Civil and Political Rights (ICCPR) 
-  * UDHR: No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honor and reputation. Everyone has the right to the protection of the law against such interference or attacks. 
-  * ICCPR: 1. No one shall be subjected to arbitrary or unlawful interference with his privacy, family, home or correspondence, nor to unlawful attacks on his honor and reputation. 2. Everyone has the right to the protection of the law against such interference or attacks. 
-  * The Global Network Initiative notes, ““Privacy is a human right and guarantor of human dignity. Privacy is important to maintaining personal security, protecting identity and promoting freedom of expression in the digital age. 
-  * Everyone should be free from illegal or arbitrary interference with the right to privacy and should have the right to the protection of the law against such interference or attacks. 
-  * The right to privacy should not be restricted by governments, except in narrowly defined circumstances based on internationally recognized laws and standards. These restrictions should be consistent with international human rights laws and standards, the rule of law and be necessary and proportionate for the relevant purpose” (2009). 
+UVU collects information via UVU websites that falls into one of two categories: personally identifiable information and non-personally identifiable information. Personally identifiable information is any information that personally identifies you or from which you could be identified. UVU collects personally identifiable information whenever you voluntarily submit it to UVU websites, including your name, email, mailing address, telephone number, plus your preferences regarding UVU services. 
 
+Non-personally identifiable information is information that is not directly tied to a specific user, such as the number of people who visit UVU websites from various states. Unless you take steps to browse the Internet anonymously, or [opt-out](https://tools.google.com/dlpage/gaoptout), UVU, like most institutions and organizations on the Internet, tracks web browsing patterns to inform understanding of how UVU websites are being used. Generic information is collected through the use of “cookies,” which are text files placed on your computer, to evaluate usage patterns so that UVU can improve both content and distribution. You may refuse the use of cookies by selecting the appropriate settings on your browser; however, doing so may prevent you from using the full functionality of all UVU websites. The generic information UVU collects is based on IP address, which is the location of a computer or network, and is not linked to your specific email address in any of the reports or other material compiled by UVU. UVU will not associate your IP address and web usage data with any other information held by UVU that can specifically identify you unless required to do so by law. 
 
+## Use of Information
 
-“The Privacy Act (PL 93-579) is a companion to and extension of the Freedom of Information Act (FOIA) of 1966. FOIA was primarily intended to provide access to government information. It did exempt the disclosure of personnel and medical files that would constitute “a clearly unwarranted invasion of personal privacy” [12]. This provision was initially used to deny access to people requesting their own records. So the Privacy Act was also adopted both to protect personal information in federal databases and to provide individuals with certain rights over information contained in those databases. The act has been characterized as “the centerpiece of U.S. privacy law affecting government record-keeping” [13]. The act was developed explicitly to address the problems posed by electronic technologies and personal records systems and covers the vast majority of personal records systems maintained by the federal government. The act set forth some basic principles of “fair information practice,” and provided individuals with the right of access to information about themselves and the right to challenge the contents of records. It requires that personal information may only be disclosed with the individual’s consent or for purposes announced in advance. The act also requires federal agencies to publish an annual list of systems maintained by the agency that contain personal information” (Statford & Stratford, 1998). 
+By providing information to UVU through its websites you acknowledge that, where permitted by federal or state law, UVU may use this information for the express purposes for which the information was provided, which may include to: 
 
-Statford and Stratford continue, “The Computer Security Act of 1987 (PL 100-235) also deals with personal information in federal record systems. It protects the security of sensitive personal information in federal computer systems. The act establishes government wide standards for computer security and assigns responsibility for those standards to the National Institute of Standards. The law also requires federal agencies to identify systems containing sensitive personal information and to develop security plans for those systems” (1998). 
-
-**In regard to Web 2.0 (Social Media) Use**
-
-As JISC Legal notes, “Many web 2.0 technologies place users at a point where submission of personal data is necessary to use the tool. This brings with it risks concerning the privacy and personal data of individuals” (JISC Legal, 2008b). This causes a number of data protection and freedom of information issues. In essence, “Data protection law allows individuals to control the collection, use and transfer of personal information about them. There may be situations where the setting up of student accounts by staff on externally Web 2.0 sites is a transfer of personal data, which must be done in compliance with the relevant legislation” (JISC Legal, 2008a). 
-
-## Data Protection
-
-The Federal Trade Commission is educating consumers and businesses about the importance of personal information privacy, including the security of personal information. Under the FTC Act, the Commission guards against unfairness and deception by enforcing companies' privacy promises about how they collect, use and secure consumers' personal information. Under the Gramm-Leach-Bliley Act, the Commission has implemented rules concerning financial privacy notices and the administrative, technical and physical safeguarding of personal information, and it aggressively enforces against pretexting (Federal Trade Commission). 
-
-Some questions to ask ourselves:
-
-  * What records does the activity generate for which institutions are responsible?
-  * Do they contain data that carry obligations of confidentiality, limitations on use or disclosure, requirements for ready access/availability? 
-  * How and where are they maintained?
-  * Can materials be accessed when needed for course and institutional purposes?
-  * What do hosting sites do with the data created by course participants?
-  * When are you or your students conducting human subjects research? (Cate, 2008).
+  * Respond to your requests for information
+  * Process applications for admission or employment
+  * Process information for administrative purposes
+  * Process orders for goods or services
+  * Notify you of products or services
+  * Improve online content and communications
+  * Improve UVU services
+  * Process information for purposes as may be detailed on UVU websites or mobile applications
 
 
 
-**In regard to Web 2.0 (Social Media) Use**
+## Sharing of Information
 
-U.S. SAFE WEB ACT OF 2006 
+UVU works with many vendors and contractors who assist UVU with its day-to-day affairs. Information that you provide to UVU or which UVU automatically collects is used or shared with these organizations for the express purposes for which the information was collected or as otherwise expressed in this Privacy Statement. UVU vendors and contractors are only permitted to use personal information for the express purposes permitted in their agreements with UVU. Otherwise, personally identifiable information is not released to third parties unless permitted by applicable law, including in instances where the information needs to be disclosed to protect the safety and security of the UVU community or UVU property, or where UVU is legally compelled by law or judicial order. 
 
-Congress approved S. 1608, the “Undertaking Spam, Spyware, And Fraud Enforcement with Enforcers beyond Borders Act of 2006,” (the US SAFE WEB Act of 2006) on December 9, 2006\. The US Safe Web Act amends the Federal Trade Commission Act (FTCA) and improves the Federal Trade Commission (FTC)’s ability to protect consumers from international fraud by: (1) improving the FTC’s ability to gather information and coordinate investigation efforts with foreign counterparts; and (2) enhance the FTC’s ability to obtain monetary consumer redress in cases involving spam, spyware, and Internet fraud and deception (Brownlee, 2006). 
+## Public Forums
 
-“Where departments process the sensitive personal data, for example, collect information or details regarding a persons ethnic origin or religious beliefs, sex life etc in order for them to use a Web 2.0 tool, explicit consent from the users should be obtained prior to processing any sensitive personal data. Processing of data for marketing and advertising purposes is one other risk which departments need to be aware of. Such a risk could arise in situations where the personal data collected for or during Web 2.0 use is used for purposes of advertising or marketing. It should be understood here that users have the right to object to this and therefore they should be given the option to opt out of being exposed to such marketing or advertising material” (JISC, 2008). 
+UVU websites may provide chat rooms, forums, message boards, and news groups for their users. Any information that is disclosed in these areas may become public information and a user should therefore exercise caution when deciding to disclose one’s personal information in such places. Chat sessions and discussion forums may be logged. 
 
-Brownlee, C. (2006, December 13). U.S. Safe Web Act of 2006. Privacy and Security Law Blog. Retrieved November 4, 2009 from [http://www.privsecblog.com/2006/12/articles/spam/us-safe-web-act-of-2006/](https://www.privsecblog.com/2006/12/articles/cyber-national-security/u-s-safe-web-act-of-2006/)
+## Protecting Children’s Privacy
 
-Cate, B. (2009, January 22). The Law and Policy of Web 2.0: Much Old, Some New, Lots Borrowed, So Don't Be Blue. Educuase Learning Initiative. Retrieved from http://hosted.mediasite.com/mediasite/Viewer/?peid=98e83dc76b9749f3a08996bfb0f5904b 
+If a user of UVU websites is under the age of thirteen, such user is not authorized to provide the UVU with personally identifiable information, and UVU will not use any such information in its database or other data collection activities. UVU appreciates cooperation with this federally mandated requirement. Users under the age of thirteen and their parents or guardians are cautioned that the collection of personally identifiable information volunteered by unauthorized children online or by e-mail will be treated the same as information given by an adult until UVU becomes aware that the user is under the age of thirteen and such information may be subject to public access. 
 
-Federal Trade Commission (2010). Federal Trade Commission. Retrieved April 22, 2010 from [http://www.ftc.gov/](https://www.ftc.gov/)
+## Utah Government Records Access and Management Act
 
-Global Network Initiative (2010). Global Network Initiative. Retrieved April 22, 2010 from <http://www.globalnetworkinitiative.org/>
+As a public institution, and instrumentality of the State of Utah, UVU is subject to the Government Records Access and Management Act of the Utah Code, Section 63G-2-101 _et seq_., 1953, as may be amended (“GRAMA”).  This means that records, in all forms including email, provided to UVU are subject to public disclosure, unless the record is designated by law as confidential or not a public record. 
 
-JISC Legal (2008a, Sept 18). Web 2.0 and the law for HE policy makers. Retrieved from [http://www.jisclegal.ac.uk/Portals/12/Documents/PDFs/Web2_HE_Policy_Makers.pdf](https://www.jisc.ac.uk/website/legacy/legal)
+## Security
 
-JISC Legal. (2008, September 18). Social media and the Law for HE Policy Makers. Retrieved from [http://www.jisclegal.ac.uk/Portals/12/Documents/PDFs/Web2_HE_Policy_Makers.pdf](https://www.jisc.ac.uk/website/legacy/legal)
+UVU implements appropriate technical and organizational security measures to protect your information when you transmit it to us that ensure a level of security appropriate to the risks presented by the processing and the nature of the data to be protected. While UVU strives to protect your information, UVU cannot ensure or warrant the security of such information. 
+
+## Related Policies
+
+  * [Policies & Procedures 441 – Appropriate Use of Computing Facilities](https://policy.uvu.edu/getDisplayFile/56392daf65db23201153c236)
+  * [Policies & Procedures 443 – Ethics in Computer Usage](https://policy.uvu.edu/getDisplayFile/56392e2a65db23201153c238)
+  * [Policies & Procedures 445 – Institutional Data Management and Access](https://policy.uvu.edu/getDisplayFile/56392e9e65db23201153c23a)
+  * [Policies & Procedures 446 – Monitoring and Review of Employee Electronic Communications or Files](https://policy.uvu.edu/getDisplayFile/56392ed265db23201153c23b)
+  * [Policies & Procedures 449 – Private Sensitive Information](https://policy.uvu.edu/getDisplayFile/56392f9965db23201153c23e)
+
+
+
+## Questions
+
+If a user has questions about this Privacy Statement or believes that the user’s personal information has been released without consent, please send an e-mail to: [compliance@uvu.edu](mailto:compliance@uvu.edu?subject=). 
