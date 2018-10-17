@@ -1,17 +1,22 @@
-> *The following text is extracted and transformed from the truebloodnet.com privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018141722id_/http%3A//truebloodnet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truebloodnet.com privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017070035id_/https%3A//truebloodnet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : True Blood News- ALL the True Blood Season 7 Spoilers Videos Interviews
 
 Browse >
 
-[Home](http://truebloodnet.com/ "Browse to: Home") / Privacy Policy 
+[Home](https://truebloodnet.com/ "Browse to: Home") / Privacy Policy 
+
+**Updated May 24, 2018**
+
+What is personal data?
+
+We collect information about you in a range of forms, including personal data. As used in this Policy, “personal data” is as defined in the General Data Protection Regulation, this includes any information which, either alone or in combination with other information we process about you, identifies you as an individual, including, for example, your name, postal address, email address and telephone number.
 
 We respect your privacy and are committed to safeguarding your privacy while online at Truebloodnet.com. The following discloses the information gathering and dissemination practices for Truebloodnet.com.
 
 Truebloodnet.com is committed to protecting the privacy of our online visitors. We collect information from online visitors who ask to be on our newsletter mailing list and/or receive periodic email announcements. Anyone who wishes can choose to be removed from our mailing list at any time.
 
-All online visitor data collected by Truebloodnet.com is protected against unauthorized access. We will not sell, trade, or give your personal information to other companies or organizations.  
- 
+All online visitor data collected by Truebloodnet.com is protected against unauthorized access. We will not sell, trade, or give your personal information to other companies or organizations.
 
 **Children’s Privacy**
 
@@ -23,8 +28,7 @@ Know the sites your kids are visiting and which sites are appropriate.
 
 Look for Web site privacy policies. Know how your child’s information is treated.
 
-Check out the [FTC’s site](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html) for more tips on protecting children’s privacy online.  
- 
+Check out the [FTC’s site](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html) for more tips on protecting children’s privacy online.
 
 ### Log Files
 
