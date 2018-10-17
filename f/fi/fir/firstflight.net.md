@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstflight.net privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621042407id_/http%3A//www.firstflight.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstflight.net privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017021152id_/http%3A//www.firstflight.net/privacypolicy.php) for the most accurate reproduction.*
 
 # Welcome to First Flight Couriers Ltd.
 
