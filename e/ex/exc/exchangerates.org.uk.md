@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exchangerates.org.uk privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502193308id_/https%3A//www.exchangerates.org.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exchangerates.org.uk privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017212639id_/https%3A//www.exchangerates.org.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Data Protection & Privacy Policy
 
