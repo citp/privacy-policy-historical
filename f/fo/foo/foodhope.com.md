@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodhope.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518071456id_/http%3A//foodhope.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodhope.com privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017181440id_/http%3A//www.foodhope.com/policy) for the most accurate reproduction.*
 
 # FOODHOPE - Policy
 
