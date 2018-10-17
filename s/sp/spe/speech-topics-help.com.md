@@ -1,120 +1,189 @@
-> *The following text is extracted and transformed from the speech-topics-help.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227155405id_/http%3A//www.speech-topics-help.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speech-topics-help.com privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017155122id_/http%3A//www.myspeechclass.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy Speech Topics Help
+# Privacy • My Speech Class
 
-We respect your privacy with this Privacy Policy Speech Topics Help emphasizes the importance of online protection, and is committed to complying with the Privacy Act 1988, and the European Union Privacy and Electronic Communications Regulations 2011 and 2012. This page explains to you what information is collected, how it is being used, and what options you have to access or change that collected information. In other words, this page tries to show a certain level of trustworthiness. 
+myspeechclass.com is committed to safeguarding your privacy. Contact us at if you have any questions or problems regarding the use of your Personal Data and we will gladly assist you.
 
-_See also our technical notes for[EU-residents](http://www.speech-topics-help.com/eu-cookie-law-handler.html) on: What cookies are on STH, How to disable cookies, How to turn off advertising cookies, and How to prevent or clear cookies on your browser._
+By using this site or/and our services, you consent to the Processing of your Personal Data as described in this Privacy Policy.
 
-**Cookie Policy**  
-This site works best if you accept cookies. We use cookies to ensure that we give you the best experience on our website. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on the Speech Topics Help website. However, if you would like to, you can change your cookie settings at any time. 
+**Personal Data** – any information relating to an identified or identifiable natural person.  
+**Processing** – any operation or set of operations which is performed on Personal Data or on sets of Personal Data.  
+**Data subject** – a natural person whose Personal Data is being Processed.  
+**Child** – a natural person under 16 years of age.  
+**We/us** (either capitalized or not) – myspeechclass.com
 
-We will need to set a cookie so that we can remember your choices when you next visit the website from the same browser. At the present time it is not technically possible for us to allow you to carry your settings with you between your browsers and devices so you will need to change these settings from each browser you use. If you don't want to receive certain categories of cookies on this website, you can remove them. 
+We promise to follow the following data protection principles:
 
-See also our detailed paragraphs below about the use of cookies and web beacons and the Google advertising cookie below. 
-
-**We Respect Your Privacy**  
-We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use our contents, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. 
-
-We strive to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our pages. 
-
-Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of this domain. When you visit this web site to read, browse or download information, our system will only record the date of your visit to this site and the number of pages viewed. We will not record any personal information (personal information has the same meaning under the Privacy Act 1988 on privacy policy). 
-
-**E-Mail Privacy Policy**  
-We will record your e-mail address if you send a message. Your e-mail address will be used only for the purpose for which you have provided it, except where we have your consent. 
-
-**Use and Disclosure of Personal Information**  
-We collect personally identifiable information from the visitors to our website only on a voluntary basis. 
-
-This information is collected if you request information from us, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor inquiries. 
-
-Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties. 
-
-If you provide personal information, we will not use or disclose this information other than for the purpose you provided it, except if we have your consent, if required or authorised to do so by law, if we reasonably believes it is necessary to lessen or prevent a serious and imminent threat to an individual's life, health or safety or a serious threat to public health and safety, or to protect my rights or property. 
-
-**No Credit Card Details**  
-We will never ask for Credit Card details and request that you do not enter it on any of the forms. 
-
-**External Sites Privacy Policy**  
-This web site contains links to other web sites. we are not responsible for the privacy practices and for the content of of linked internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information. 
-
-**Use of Cookies and Web Beacons**  
-A "cookie" is a small data text file that is placed in your browser and allows me to recognize you each time you visit this site. Cookies themselves do not contain any personal information, and Speech Topics Help does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers. 
-
-We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables me to recall your specific information on subsequent visits. 
-
-You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site. See [more on this](http://www.speech-topics-help.com/eu-cookie-law-handler.html). 
-
-A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site. 
-
-We may show third-party advertisements that use cookies and web beacons in the course of ads being showed on our web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site. 
-
-Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose. 
-
-**The Google Advertising Cookie**  
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information ( _not_ your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
-
-Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
-
-To summarize it: Google may use interest based advertising where they recognize the types of webpages users visit across the Adsense network. This helps advertisers reach users on the basis of their interests. 
-
-  * Google, as a third party vendor, uses cookies to serve ads on our site. 
-  * Google's use of the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our users based on your visit to our site and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+  * Processing is lawful, fair, transparent. Our Processing activities have lawful grounds. We always consider your rights before Processing Personal Data. We will provide you information regarding Processing upon request.
+  * Processing is limited to the purpose. Our Processing activities fit the purpose for which Personal Data was gathered.
+  * Processing is done with minimal data. We only gather and Process the minimal amount of Personal Data required for any purpose.
+  * Processing is limited with a time period. We will not store your personal data for longer than needed.
+  * We will do our best to ensure the accuracy of data.
+  * We will do our best to ensure the integrity and confidentiality of data.
 
 
 
-**Some More Info on Google Adsense and DoubleClick**
+The Data Subject has the following rights:
 
-Advertisers may use cookies on our site. Our partners include: Google Adsense.  
-Google Adsense, and as a 3rd party advertising vendor, uses cookies to aid in serving targeted ads on our site. Google's use of the DoubleClick cookie enables it to serve ads to users based on other sites as well as information from our site.
+  1. **Right to information** – meaning you have to right to know whether your Personal Data is being processed; what data is gathered, from where it is obtained and why and by whom it is processed.
+  2. **Right to access** – meaning you have the right to access the data collected from/about you. This includes your right to request and obtain a copy of your Personal Data gathered.
+  3. **Right to rectification** – meaning you have the right to request rectification or erasure of your Personal Data that is inaccurate or incomplete.
+  4. **Right to erasure** – meaning in certain circumstances you can request for your Personal Data to be erased from our records.
+  5. **Right to restrict processing** – meaning where certain conditions apply, you have the right to restrict the Processing of your Personal Data.
+  6. **Right to object to processing** – meaning in certain cases you have the right to object to Processing of your Personal Data, for example in the case of direct marketing.
+  7. **Right to object to automated Processing** – meaning you have the right to object to automated Processing, including profiling; and not to be subject to a decision based solely on automated Processing. This right you can exercise whenever there is an outcome of the profiling that produces legal effects concerning or significantly affecting you.
+  8. **Right to data portability** – you have the right to obtain your Personal Data in a machine-readable format or if it is feasible, as a direct transfer from one Processor to another.
+  9. **Right to lodge a complaint** – in the event that we refuse your request under the Rights of Access, we will provide you with a reason as to why. If you are not satisfied with the way your request has been handled please contact us.
+  10. **Right for the help of supervisory authority** – meaning you have the right for the help of a supervisory authority and the right for other legal remedies such as claiming damages.
+  11. **Right to withdraw consent** – you have the right withdraw any given consent for Processing of your Personal Data.
 
-You are able to opt out of the use of the DoubleClick cookie by visiting the [AddSettings](http://www.google.com/settings/ads) or [aboutads.info](http://www.aboutads.info/).
 
-The advertising servers use a specific technology and algorithms for the advertisements and links that appear on our site send directly to your browsers. STH does not access or control cookies that are used by Google Adsense.
 
-If you would like more information about this practice and to know your choices about not having this information [click here](http://www.google.com/privacy_ads.html). 
+**The information you have provided us with**  
+This might be your e-mail address, name, billing address, home address etc – mainly information that is necessary for delivering you a product/service or to enhance your customer experience with us. We save the information you provide us with in order for you to comment or perform other activities on the website. This information includes, for example, your name and e-mail address.
 
-**How to Opt Out Of Interest-Based Advertising?**  
-We have already switched off google's interest-based advertising. And you can choose for more safety if you like: 
+**The information automatically collected about you**  
+This includes information that is automatically stored by cookies and other session tools. For example, it could be your shopping cart information, your IP address, your shopping history (if there is any) etc. This information is used to improve your customer experience. When you use our services or look at the contents of our website, your activities may be logged.
 
-1\. You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Google Ads Settings](http://www.google.com/ads/preferences/). 
+**The information from our partners**  
+We gather information from our trusted partners with confirmation that they have legal grounds to share that information with us. This is either information you have provided them directly with or that they have gathered about you on other legal grounds.
 
-2\. Alternatively, you can opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/). 
+**Publicly available information**  
+We might gather information about you that is publicly available.
 
-3\. If you want to decline behavioural advertising - and the EU wide good practice principles are specifically designed to give you more information and control over this type of advertising - than take a look at [youradchoices](http://www.youronlinechoices.com/uk/your-ad-choices). 
+**Technical information**  
+In addition, and in order to ensure that each visitor to any of our websites can use and navigate the site effectively, we collect the following:
 
-**Remember The Risks Whenever You Use The Internet**  
-While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition, other internet sites or services that may be accessible through Speech Topics Help have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions. Please contact those vendors and others directly if you have any questions about their privacy policy. 
+  * Technical information, including the Internet Protocol (IP) address used to connect your device to the Internet;
+  * Your login information, browser type and version, time zone setting, browser plug-in types and versions;
+  * Operating system and platform;
+  * Information about your visit, including the Uniform Resource Locators (URL) clickstream to, through, and from our site.
 
-**Children's Online Privacy Protection Act**  
-This website is directed to students and adults; it is not directed to children under the age of 13. We operate our site in compliance with the Children's Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age. 
 
-**Non-Personal Information**  
-In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes. 
 
-**Release of Information**  
-If Speech Topics Help is sold, the information we have obtained from you through your voluntary participation in this site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will see an online notice on our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us. 
+**Comments**  
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-**How You Can Correct or Remove Information**  
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website Speech Topics Help and would like that information deleted from our records or would like to update or correct that information, please use the [Contact Form](http://www.speech-topics-help.com/contact.html). 
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-**Updates and Effective Date**  
-We hereby reserve the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it. 
+**Media**  
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-**Agreeing to Terms**  
-If you do not agree to our Privacy Policy as posted here on this website, please do not use this site or any services offered by this site. Your use of this site indicates acceptance of this privacy policy. 
+**Contact forms**  
+We may use contact form submission information to get in touch with you. We do not use the information submitted through contact form for marketing purposes
 
-**Advertising Disclosures**  
-Whilst we endeavor to check all facts, the views and opinions expressed on all pages are purely our own, or send in by our visitors. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question and is not scietificly based. 
+**Embedded content from other websites**  
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-We run third party advertisements through Google which are clearly identified as such. 
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-If you click on their ad or text link and buy something, we get a small commission. If you prefer not to do this you can also go to for example Amazon and buy direct through them in which case we would not receive a commission. Either way the product will cost you the same amount. 
+**Advertising**  
+We use Google AdSense and Amazon Advertising on our website.
 
-We always give our honest opinions, findings, beliefs, or experiences on the topics or products we write about with the best intentions, but they are not scientificly reviewed. See [our disclaimer](http://www.speech-topics-help.com/speech-topics-help-disclaimer.html). 
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
 
-**Information**  
-For further information and questions about this Privacy Policy you are welcome to use the Contact Form. Now Go Home, top left :-)
+Our website uses Google AdSense for:
 
-Copyright 2005 - 2015 All rights reserved. 
+  * Remarketing
+  * Google Display Network Impression Reporting
+  * Demographics and Interests Reporting
+  * DoubleClick Platform Integration
+
+
+
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
+
+**Third parties**  
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+We use your Personal Data in order to:
+
+  * provide our service to you (for example this could be registering your account, providing you with products and services that you have requested)
+  * enhance your customer experience;
+  * improve our website in order to better serve you;
+  * fulfill an obligation under law or contract;
+  * provide you with information that you have requested or which we think may be relevant to a subject in which you have demonstrated an interest;
+  * ensure the security and safe operation of our websites and underlying business infrastructure;
+  * personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested, and
+  * manage any communication between you and us.
+
+
+
+As long as you have not informed us otherwise, we consider offering you products/services that are similar or same to your purchasing history/browsing behaviour to be our legitimate interest.
+
+With your consent we Process your Personal Data for the following purposes:
+
+  * to send you newsletters and campaign offers (from us and/or our carefully selected partners);
+  * for other purposes we have asked your consent for;
+
+
+
+We Process your Personal Data in order to fulfill obligation rising from law and/or use your Personal Data for options provided by law. We reserve the right to anonymize Personal Data gathered and to use any such data. We will use data outside the scope of this Policy only when it is anonymized.
+
+We might process your Personal Data for additional purposes that are not mentioned here, but are compatible with the original purpose for which the data was gathered. To do this, we will ensure that:
+
+  * the link between purposes, context, and nature of Personal Data is suitable for further Processing;
+  * the further Processing would not harm your interests and
+  * there would be appropriate safeguard for Processing.
+
+
+
+We will inform you of any further Processing and purposes.
+
+We do not share your Personal Data with strangers. Personal Data about you is in some cases provided to our trusted partners in order to either make providing the service to you possible or to enhance your customer experience.
+
+For example, we share your data with:
+
+  * Google Analytics
+  * Googld AdSense
+  * Amazon Associates
+
+
+
+We only work with Processing partners who are able to ensure an adequate level of protection to your Personal Data. We disclose your Personal Data to third parties or public officials when we are legally obliged to do so. We might disclose your Personal Data to third parties if you have consented to it or if there are other legal grounds for it.
+
+We do our best to keep your Personal Data safe. We use anonymizing and pseudonymizing where suitable. We monitor our systems for possible vulnerabilities and attacks. We do not use vulnerability scanning and/or scanning to PCI standards.
+
+We have what we believe are appropriate security controls in place to protect personal data. We do not, however, have any control over what happens between your device and the boundary of our information infrastructure. You should be aware of the many information security risks that exist and take appropriate steps to safeguard your own information. We accept no liability in respect of breaches that occur beyond our sphere of control.
+
+Even though we try our best we can not guarantee the security of information. However, we promise to notify suitable authorities of data breaches. We will also notify you if there is a threat to your rights or interests. We will do everything we reasonably can to prevent security breaches and to assist authorities should any breaches occur.
+
+If you have an account with us, note that you have to keep your username and password secret.
+
+### Children
+
+We do not intend to collect or knowingly collect information from children. We do not target children with our services.
+
+We use cookies and/or similar technologies to analyze customer behaviour, administer the website, track users’ movements, and to collect information about users. This is done in order to personalize and enhance your experience with us.
+
+A cookie is a tiny text file stored on your computer. Cookies store information that is used to help make sites work. Only we can access the cookies created by our website. You can control your cookies at the browser level. Choosing to disable cookies may hinder your use of certain functions.
+
+**We use cookies for the following purposes:**
+
+  * **Necessary cookies** – these cookies are required for you to be able to use some important features on our website, such as logging in. These cookies don’t collect any personal information.
+  * **Functionality cookies** – these cookies provide functionality that makes using our service more convenient and makes providing more personalised features possible. For example, they might remember your name and e-mail in comment forms so you don’t have to re-enter this information next time when commenting.
+  * **Analytics cookies** – these cookies are used to track the use and performance of our website and services
+  * **Advertising cookies** – these cookies are used to deliver advertisements that are relevant to you and to your interests. In addition, they are used to limit the number of times you see an advertisement. They are usually placed to the website by advertising networks with the website operator’s permission. These cookies remember that you have visited a website and this information is shared with other organisations such as advertisers. Often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
+
+
+
+For example, if you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+We may also use trusted third-party services that track this information on our behalf.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. You can also remove cookies stored in your computer via your browser settings.
+
+If you turn cookies off, it won’t affect your website experience.
+
+We use Google Analytics to measure traffic on our website. Google has their own Privacy Policy which you can review [here](https://support.google.com/analytics/answer/6004245). If you’d like to opt out of tracking by Google Analytics, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
+
+## Manage Your Data
+
+###  Please identify yourself via e-mail 
+
+We reserve the right to make changes to this Privacy Policy.  
+Last modification was made May 24, 2018.
