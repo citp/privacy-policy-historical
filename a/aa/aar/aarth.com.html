@@ -1,402 +1,381 @@
-<!--The following is the downloaded HTML source of the aarth.com privacy policy that was archived on 2011-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aarth.com privacy policy that was archived on 2018-10-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181018013758id_/http%3A//aarth.com/privacy_policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
-	Legal Agreement
-</title><link rel="Stylesheet" type="text/css" href="http://img2.wsimg.com/fos/css/1/sales_http_20111109.css">
-  
-  <script type="text/javascript">
-    function pageLoad(sender, args) {
-      if(typeof Content_pageLoad == 'function')
-        Content_pageLoad(sender, args);
-    }
-  </script>
-</head>
-<body id="ctl00_PageBody" style="width: 100%; margin: 0px;">
-  
-<script src="http://img3.wsimg.com/AtlantisScripts/jquery/jquery-1.3.1.min.js" type="text/javascript"></script>
-  
-  
-  
-<script type="text/javascript" language="javascript" src="http://img.godaddy.com/JS_Lib/traffic.js"></script>
+<!DOCTYPE html><html lang="en" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Aarth.com - Integrated Ad serving for Mobile, Video, RTB, Rich Media and Emailer</title>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<meta name="description" content="Aarth.com is fully integrated Ad serving solution for Mobile, Video, RTB, Rich Media and Emailer. 24X7 support guaranteed. ">
+<meta name="author" content="">
+<!-- Favicons
+    ================================================== -->
+<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
+<!-- Bootstrap -->
+<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.css">
+<!-- Slider
+    ================================================== -->
+<link href="css/owl.carousel.css" rel="stylesheet" media="screen">
+<link href="css/owl.theme.css" rel="stylesheet" media="screen">
+<!-- Stylesheet
+    ================================================== -->
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="css/animate.min.css">
+<link href="http://fonts.googleapis.com/css?family=Lato:400,700,900,300" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700,800,600,300" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/modernizr.custom.js"></script>
 
-<img src="http://img.godaddy.com/image.aspx?sitename=www.godaddy.com&amp;server=M1PWCORPWEB162&amp;privatelabelid=1&amp;isc=smtwfos&amp;status=200&amp;rand=0.3347662502596&amp;page=%2fagreements%2fShowDoc.aspx&amp;referrer=http%3a%2f%2fwww.bobparsons.me%2findex.php%3fci%3d13338%26id%3d-1&amp;split=16&amp;querystring=pageid%3dprivacy_parkedpage" alt="" class="traffic">
-
+ <!-- custom css
+ 		================================================== -->
+ 	<link rel="stylesheet" type="text/css" href="css/custom.css"> 
     
+ <!-- popup css
+ 		================================================== -->    
+     <link href="popup/popup.css" rel="stylesheet" type="text/css">
 
-    <div>
-      
 
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<style>
+.error
+{
+  font-weight:bold;
+  color:#FF0000;
+}
+</style>
+<script>
+function validateFormOnSubmit(theForm) {
+  var reason = "";
+  document.getElementById('register-button').style.display = 'block';
+  document.getElementById('res').innerHTML = '';
+  reason += validateFname(theForm.fname);
+  reason += validateLname(theForm.lname);
+  reason += validateCname(theForm.cname);
+  reason += validateEmail(theForm.email);
+  reason += validatePhone(theForm.phone);
+  
+  if (reason != "") {
+    return false;
+  }
+  else
+  {
+  	 document.getElementById('signup_txt').style.display = 'none';
+     document.getElementById('signupform').style.display = 'none';
+	 document.getElementById('res').innerHTML = 'Thank for registering! We will get back to you shortly';
+	 return true;
+  }
+}
 
+function validateCname(fld) {
+    var error = "";
+  document.getElementById('cn_error').innerHTML = '';
+    if (trim(fld.value)=="") {
+        fld.style.background = 'Yellow'; 
+        error = "Please Enter Company Name.\n"
+		 document.getElementById('cn_error').innerHTML = error;
+    } else {
+        fld.style.background = 'White';
+		 document.getElementById('cn_error').innerHTML = '';
+    }
+    return error;   
+}
 
-    <style type="text/css">
-        .closeButton
-        {
-            font-variant: small-caps;
-            color: #003366;
-            text-decoration: none;
-            font-size: 12pt;
-            letter-spacing: 4px;
-            font-family: Arial-Narrow, Helvetica, Veranda, Sans;
-        }
-        .main
-        {
-            font-family: Arial, Verdana;
-        }
-        .bodyText
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 25pt;
-            margin-bottom: 5pt;
-            line-height: 12pt;
-            text-align: justify;
-        }
-        .bodyTextBold
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 5pt;
-            margin-bottom: 5pt;
-            font-weight: bolder;
-        }
-        .footerText
-        {
-            font-family: Arial, Verdana;
-            font-size: 7pt;
-            margin-right: 5pt;
-            margin-bottom: 5pt;
-            color: #FFFFFF;
-        }
-        .bodyTextCaps
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 25pt;
-            margin-bottom: 5pt;
-            text-transform: uppercase;
-            text-align: justify;
-        }
-        .finePrint
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            margin-right: 25pt;
-            margin-bottom: 10pt;
-            line-height: 10pt;
-            text-align: justify;
-        }
-        A:ACTIVE, A:LINK, A:VISITED
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 0pt;
-            margin-bottom: 5pt;
-            text-decoration: none;
-            color: #FF6600;
-        }
-        A:HOVER
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 0pt;
-            margin-bottom: 5pt;
-            text-decoration: underline;
-            color: #CC6600;
-        }
-        .EULATitle
-        {
-            font-family: Arial, Verdana;
-            font-size: 14pt;
-            margin-right: 5pt;
-            text-transform: uppercase;
-            font-style: italic;
-            font-weight: bold;
-            color: #003366;
-        }
-        .heading1
-        {
-            font-family: Arial, Verdana;
-            font-size: 11pt;
-            font-weight: bold;
-            text-transform: uppercase;
-            color: #666666;
-        }
-        .smallTable p, .smallTable ul, .smallTable ol {
-         margin : 1px;
-        }
-
-        .heading2
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 5pt;
-            margin-bottom: 5pt;
-            font-weight: bolder;
-        }
-        LI
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 25pt;
-            margin-top: 5pt;
-            margin-bottom: 5pt;
-            line-height: 12pt;
-            text-align: justify;
-        }
-        OL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: lower-roman;
-            list-style-position: outside;
-        }
-        OL OL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: upper-alpha;
-            list-style-position: outside;
-        }
-        OL OL OL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: disc;
-            list-style-position: outside;
-        }
-        UL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: disc;
-            list-style-position: outside;
-        }
-        UL UL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: circle;
-            list-style-position: outside;
-        }
-        UL UL UL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: square;
-            list-style-position: outside;
-        }
-        P
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-        }
-        .nav
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            line-height: 0pt;
-        }
-        A.nav:ACTIVE, A.nav:LINK, A.nav:VISITED
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            color: #003366;
-        }
-        A.nav:HOVER
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            text-decoration: underline;
-            color: #FF6600;
-        }
-        .top
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            text-decoration: underline;
-        }
-        A.top:ACTIVE, A.top:LINK, A.top:VISITED
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            text-decoration: underline;
-            color: #FF6600;
-        }
-        A.top:HOVER
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            text-decoration: underline;
-            color: #CC6600;
-        }
-        #TableMenu
-        {
-            background-color: #FFFFFF;
-            border: 1px dashed #FFFFFF;
-            padding-bottom: 15pt;
-            padding-left: 10pt;
-            padding-right: 10pt;
-            padding-top: 15pt;
-            width: 125px;
-        }
-        HR
-        {
-            color: Silver;
-            margin-right: 25pt;
-        }
-        body
-        {
-            font-family: Arial,Verdana;
-        }
-         
-         a:active,a:link,a:visited{color:#FF6600;font-family:Arial,Verdana;font-size:10pt;margin-bottom:5pt;margin-right:0;text-decoration:none;}
-        .EULATitle
-        {
-            color: #003366;
-            font-family: Arial,Verdana;
-            font-size: 14pt;
-            font-style: italic;
-            font-weight: bold;
-            margin-right: 5pt;
-            text-transform: uppercase;
-        }
+function validatePhone(fld) {
+    var error = "";
+     var numbers = /^[0-9 ]+$/;   
+   document.getElementById('phone_error').innerHTML = '';
+   if (trim(fld.value) == "") {
+        error = "You didn't enter a phone number.\n";
+        fld.style.background = 'Yellow';
+		document.getElementById('phone_error').innerHTML = error;
+    }  else if (trim(fld.value).length != 10) {
+        error = "The phone number is the wrong length.\n";
+        fld.style.background = 'Yellow';
+		document.getElementById('phone_error').innerHTML = error;
+    }
+	else if(trim(fld.value).match(numbers)) {
+	    error = "";
+        fld.style.background = 'White';
+		document.getElementById('phone_error').innerHTML = error;
         
- </style>
+    } 
+	else
+	{
+	   error = "The phone number contains illegal characters.\n";
+        fld.style.background = 'Yellow';
+		document.getElementById('phone_error').innerHTML = error;
+	}
+    return error;
+}
 
-<div class="main">
-    <table border="0" cellspacing="0" cellpadding="0" width="100%">
-        <tbody><tr>
-            <td>
-                <a href="Javascript:window.close();" class="closeButton">Close Window</a>
-            </td>
-            <td align="right">
-                <a href="Javascript:window.print();" class="closeButton">Print</a>
-            </td>
-        </tr>
-    </tbody></table>
-    <br>
-    <table>
-        <tbody><tr>
-            <td width="100px">
-            </td>
-            <td>
-                &nbsp;
-            </td>
-            </tr>
-            <tr>
-            <td>
-            </td>
-            <td>
-                
-                <table width="100%">
-<tbody>
-<tr><td width="0"></td><td></td></tr>
-<tr><td></td><td>
-<table>
-<tbody>
-<tr><th align="left" class="EULATitle">
-Go Daddy<br>
-Privacy Policy
-</th></tr>
-<tr><td class="bodyText">
-<p><strong>Last Revised: August 31, 2011</strong></p>
-<div style="font-size: 9pt; color: #000000; direction: ltr; font-family: MS Shell Dlg 2;">
-<p><strong>Go Daddy Respects Your Privacy</strong></p>
-<p><strong>This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.</strong></p>
-<p><strong>Please take the time to review the terms of this Policy.&nbsp; By using this Site, you agree to accept the terms provided.</strong></p>
-<p><strong>Other than as described in this Policy, we will not give any information about you to others without your express permission. </strong></p>
-<p><strong>Information Collection and Use </strong></p>
-<p>Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.&nbsp; For example, we may collect this information in the event that you register as a member of&nbsp;this Site, post a comment, sign-up&nbsp;to receive email communications, or submit demographic information as part of a survey.</p>
-<p>We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.</p>
-<p>We may use your information&nbsp;to contact you regarding the information and services available on our Site, functionality changes to our Site,&nbsp;and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.</p>
-<p>We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.</p>
-<p>We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.</p>
-<p>Our Site uses cookies to enhance your experience with our Site.&nbsp; Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.&nbsp; We use cookies to identify you so you don't need to log in each time you visit our Site.&nbsp; You may opt-out of the use of cookies by altering settings on your browser.&nbsp; Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..</p>
-<p>This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.</p>
-<p><strong>Security </strong></p>
-<p>This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.</p>
-<p><strong>Updating Your Information </strong></p>
-<p>You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.</p>
-<p></p>
-<p></p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You may send an email to <a href="mailto:support@godaddy.com">support@godaddy.com </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You may send mail to Go Daddy at the following postal address:&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You may call us at: (480) 505-8800</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You may fax us at: (480) 505-8844</p>
-<p></p>
-<p></p>
-<p><strong>Sending Emails </strong></p>
-<p>We use emails to communicate with you&nbsp;and to send information that you have requested.&nbsp; We also provide email links&nbsp;to allow you to contact us directly. We strive to promptly reply to your messages.</p>
-<p>The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.</p>
-<p><strong>Compliance with Laws and Law Enforcement </strong></p>
-<p>We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.</p>
-<p><strong>Third Party Service Providers </strong></p>
-<p>We may at times provide information about you to third parties to provide various services on our behalf, such as&nbsp;serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.</p>
-<p>In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">here. </a></p>
-<p><strong>Supplementation of Information </strong></p>
-<p>In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources (<em>e.g., </em>information from our strategic partners, service providers, or the United States Postal Service).&nbsp; We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.</p>
-<p><strong>Contests/Surveys </strong></p>
-<p>From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.</p>
-<p>We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.</p>
-<p></p>
-<p><strong>Tell-A-Friend </strong></p>
-<p>If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at <a href="mailto:support@godaddy.com">support@godaddy.com </a>to request the removal of this information from our database.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><strong>What Happens to my Personal Information if I Opt Out? </strong></p>
-<p>If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information&nbsp;in "deactivated" status on our relevant&nbsp;databases. However,&nbsp;you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.</p>
-<p></p>
-<p><strong>Transfer of Data Abroad</strong></p>
-<p>If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information&nbsp;across international boundaries. &nbsp;By visiting this Site and communicating electronically with us, you consent to such transfers.</p>
-<p></p>
-<p><strong>Changes in Our Practices</strong></p>
-<p>We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and&nbsp;any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>
-<p>If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.</p>
-<p><strong>Contacting Our Site </strong></p>
-<p>If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:</p>
-<hr size="2" noshade="">
-<p>Go Daddy <br>ATTN: Web Team <br>14455 North Hayden Rd. <br>Suite 219 <br>Scottsdale, AZ, 85260, U.S.A.</p>
-</div>
 
-</td></tr>
-<tr><td>
-<br>
-<span class="finePrint">
-Revised: 8/31/2011<br>
-Copyright © 2010-2011 GoDaddy.com, LLC All Rights Reserved.
-</span>
-</td></tr>
-</tbody>
-</table>
-</td></tr>
-</tbody>
-</table>
+function trim(s)
+{
+  return s.replace(/^\s+|\s+$/, '');
+} 
 
-            </td>
-        </tr>
-    </tbody></table>
-</div>
+function validateEmail(fld) {
+    var error="";
+    var tfld = trim(fld.value);                        
+    var emailFilter = /^[^@]+@[^@.]+\.[^@]*\w\w$/ ;
+    var illegalChars= /[\(\)\<\>\,\;\:\\\"\[\]]/ ;
+    document.getElementById('email_error').innerHTML = '';
+    if (tfld == "") {
+        fld.style.background = 'Yellow';
+        error = "You didn't enter an email address.\n";
+		document.getElementById('email_error').innerHTML = error;
+    } else if (!emailFilter.test(tfld)) {              
+        fld.style.background = 'Yellow';
+        error = "Please enter a valid email address.\n";
+		document.getElementById('email_error').innerHTML = error;
+    } else if (tfld.match(illegalChars)) {
+        fld.style.background = 'Yellow';
+        error = "The email address contains illegal characters.\n";
+		document.getElementById('email_error').innerHTML = error;
+    } else {
+        fld.style.background = 'White';
+		document.getElementById('email_error').innerHTML = '';
+    }
+    return error;
+}
 
+function validateFname(fld)
+  {
+  var error="";
+   var letters = /^[A-Za-z ]+$/;
+   var tfld = trim(fld.value);
+   document.getElementById('fn_error').innerHTML = '';
+   
+   if(tfld=='')
+   {
+      fld.style.background = 'Yellow';
+        error = "You didn't enter First Name.\n";
+		document.getElementById('fn_error').innerHTML = error;
+   }
+   else if(tfld.match(letters))
+     {
+      fld.style.background = 'White';
+	  document.getElementById('fn_error').innerHTML = '';
+     }
+   else
+     {
+     fld.style.background = 'Yellow';
+        error = "First Name contains illegal characters.\n";
+		document.getElementById('fn_error').innerHTML = error;
+     }
+	 return error;
+  }
+  
+  function validateLname(fld)
+  {
+  var error="";
+   var letters = /^[A-Za-z ]+$/;
+   var tfld = trim(fld.value);
+   document.getElementById('ln_error').innerHTML = '';
+   if(tfld=='')
+   {
+      fld.style.background = 'Yellow';
+        error = "You didn't enter Last Name.\n";
+		document.getElementById('ln_error').innerHTML = error;
+   }
+   else if(tfld.match(letters))
+     {
+      fld.style.background = 'White';
+	  document.getElementById('ln_error').innerHTML = '';
+     }
+   else
+     {
+     fld.style.background = 'Yellow';
+        error = "Last Name contains illegal characters.\n";
+		document.getElementById('ln_error').innerHTML = error;
+     }
+	 return error;
+  }
+</script>   
+</head>
+
+<body class="privacy">
+
+<!-- Navigation
+    ==========================================-->
+<nav id="menu" class="navbar navbar-default navbar-fixed-top">
+  <div class="container"> 
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      <a class="navbar-brand" href="http://aarth.com/"><img src="img/logo.png" alt="Aarth" title="Aarth"></a> </div>
+    
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="login.php" class="page-scroll">Login</a></li>
+        <li><a href="privacy_policy.php" class="page-scroll">Privacy Policy</a></li>
+        <li class="active"><a href="#join_form" id="join_pop" class="signup">Integrate</a></li>
+      </ul>
+    </div>
+    <!-- /.navbar-collapse --> 
+  </div>
+  <!-- /.container-fluid --> 
+</nav>
+
+
+<!-- popup form -->
+        <a href="#x" class="overlay" id="join_form"></a>
+        <div class="popup">
+            <h2 id="signup_txt">Sign Up</h2>
+			<form name="signupform" id="signupform" onsubmit="return validateFormOnSubmit(this)">
+            <p>Please enter your details here</p>
+            <div>
+                <label for="firstname">First Name</label>
+                <input type="text" id="firstname" name="fname" value="">
+				<span id="fn_error" class="error"></span>
+            </div>
+            <div>
+                <label for="lastname">Last Name</label>
+                <input type="text" id="lastname" name="lname" value="">
+				<span id="ln_error" class="error"></span>
+            </div>
+            <div>
+                <label for="lastname">Company Name</label>
+                <input type="text" id="companyname" name="cname" value="">
+				<span id="cn_error" class="error"></span>
+            </div>
+            <div>
+                <label for="email">Email</label>
+                <input type="text" id="email" name="email" value="">
+				<span id="email_error" class="error"></span>
+            </div>
+            <div>
+                <label for="pass">Phone No.</label>
+                <input type="text" id="phone" name="phone" value="">
+				<span id="phone_error" class="error"></span>
+            </div>
+           
+            <input type="submit" value="Create Account" class="register-button" id="register-button">
+			
+			</form>
+             <span id="res"></span>
+            <a class="close" href="#close"></a>
+        </div>
+<div id="privacy_policy" class="text-center">
+  <div class="container">
+    <div class="section-title wow fadeInDown">
+      <h2>privacy <strong>policy</strong>  </h2>
+      
+      <div class="clearfix"></div>
+      <h3>Data protection</h3>
+     <h4>1 Information about the collection of personal data</h4>
+<p><strong>(1)</strong>   In the following we inform about the collection of personal data when using our website. Personal data is any data personally available to you, e. g. name, address, e-mail addresses, user behaviour.</p>
+
+<p><strong>(2)</strong>  The person responsible pursuant to Art. 4 (7) of the EU General Data Protection Regulation (GDPR) is the Aarth Adserver. You can reach our data protection officer via <a href="mailto:privacy@aarth.com" target="_top">privacy@aarth.com</a>.</p>
+
+<p><strong>(3)</strong>   When you contact us by e-mail or through a contact form, the information you provide (your e-mail address, your name and telephone number if applicable) will be stored by us to answer your questions. We delete the data that arises in this context after the storage is no longer required, or limit the processing if there are statutory retention requirements.</p>
+
+<p><strong>(4)</strong>  If we rely on commissioned service providers for individual functions of our offer or would like to use your data for advertising purposes, we will inform you in detail below about the respective transactions. In doing so, we also name the specified criteria for the storage duration.</p>
+
+<h4>2 Your Rights</h4>
+<p><strong>(1)</strong>  You have the following rights with respect to the personal data concerning you:</p>
+<ul>
+ 	<li>Right to information,</li>
+ 	<li>Right to rectification or cancellation,</li>
+ 	<li>Right to restriction of processing,</li>
+ 	<li>Right to object to the processing,</li>
+ 	<li>Right to data portability.</li>
+</ul>
+
+
+<p><strong>(2)</strong>   You also have the right to complain about us regarding the processing of your personal data to a data protection supervisory authority.
+
+</p><h4>3 Collection of personal data when visiting our website</h4>
+
+<p><strong>(1)</strong>   In the case of merely informative use of the website, i.e. if you do not register or provide us with information otherwise, we will only collect the personal data that your browser transmits to our server. If you wish to view our website, we collect the following data, which is technically necessary for us to render our website visible to you and to ensure the stability and security (legal basis is Art. 6 (1) sentence 1 GDPR):</p>
+<ul>
+ 	<li>IP address</li>
+ 	<li>Date and time of the request</li>
+ 	<li>Time Zone Difference to Greenwich Mean Time (GMT)</li>
+ 	<li>Content of the requirement (concrete page)</li>
+ 	<li>Access Status / HTTP status code</li>
+ 	<li>respectively transmitted amount of data</li>
+ 	<li>Website from which the request has been made</li>
+ 	<li>Browser</li>
+ 	<li>Operating system and its interface</li>
+ 	<li>Language and version of the browser software</li>
+</ul>
+<p><strong>(2)</strong>   In addition to the aforementioned data, cookies are stored on your computer when you use our website. Cookies are small text files that are stored on your hard drive assigned to the browser you are using and by which the body that sets the cookie (here by us) receives certain information. Cookies cannot run programs or transmit viruses to your computer. They serve to make the internet offer more user-friendly and effective.</p>
+<p><strong>(3)</strong>   Use of cookies:</p>
+<p class="left-s"><strong>a)</strong>    This website uses the following types of cookies, the scope and operation of which are explained below:<br>
+Transient cookies (see b)<br>
+Persistent cookies (see c).<br>
+</p>
+
+
+<p class="left-s"><strong>b)</strong>   Transient cookies are automatically deleted when you close the browser. These include in particular the session cookies. These store a so-called session ID, with which various requests from your browser can be assigned to the common session. This will allow your computer to be recognised when you return to our website. The session cookies are deleted when you log out or close the browser.</p>
+<p class="left-s"><strong>c)</strong>   Persistent cookies are automatically deleted after a specified period, which may differ depending on the cookie. You can delete the cookies in the security settings of your browser at any time.</p>
+<p class="left-s"><strong>d)</strong>   You can configure your browser setting according to your wishes and, for example, refuse to accept third-party cookies or all cookies. Please be aware that you may not be able to use all features of this site.</p>
+<p class="left-s"><strong>e)</strong>   We use cookies to identify you for follow-up visits if you have an account with us. Otherwise you would have to log in again for each visit.</p>
+
+<h4>4 Other functions and offers of our website</h4>
+<p><strong>(1)</strong>   In addition to the purely informative use of our website, we offer various services that you can use if you are interested. To do this, you will generally need to provide other personal information that we use to provide the service and for which the aforementioned data processing principles apply.</p>
+<p><strong>(2)</strong>   In part, we use external service providers to process your data. These have been carefully selected and commissioned by us, and are bound by our instructions and are regularly inspected.</p>
+<p><strong>(3)</strong>   Furthermore, we can pass on your personal data to third parties, if action participations, competitions, contracts or similar services are offered by us together with these partners. You will receive more information, when you disclose your personal data or below in the description of the offer.</p>
+<p><strong>(4)</strong>  If our service providers or partners are based in a country outside the European Economic Area (EEA), we inform you about the consequences of this circumstance in the description of the offer.
+</p><h4>5 Objection or revocation against the processing of your data</h4>
+<p><strong>(1)</strong>  If you have given your consent to the processing of your data, you can revoke it at any time. Such revocation will affect the admissibility of the processing of your personal data after you have given it to us.</p>
+<p><strong>(2)</strong>  Insofar as we base the processing of your personal data on the balance of interests, you may object to the processing. This is the case if, in particular, the processing is not required to fulfill a contract with you, which we describe in each case in the following description of the functions. In the event of such an objection, we ask you to explain the reasons why we should not process your personal data as we have done. In the case of your justified objection, we will examine the situation and will either discontinue or adapt the data processing or point out to you our compelling legitimate reasons on which we continue the processing.</p>
+<p><strong>(3)</strong>  Of course, you may object to the processing of your personal data for advertising and data analysis purposes at any time. You can inform us regarding your objection to advertising via: <a href="mailto:privacy@aarth.com" target="_top">privacy@aarth.com</a> </p>
+
+<h4>6 Use of Google Analytics</h4>
+<p><strong>(1)</strong>  This website uses Google Analytics, a web analytics service provided by Google Inc. (“Google”). Google Analytics uses so-called “cookies”, text files that are stored on your computer and that allow an analysis of the use of the website by you. The information generated by the cookie about your use of this website is usually transmitted to a Google server in the USA and stored there. However, in the event of the activation of IP anonymisation on this website, your IP address will be shortened beforehand by Google within member states of the European Union or in other contracting states of the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be sent to a Google server in the US and shortened there. On behalf of the operator of this website, Google will use this information to evaluate your use of the website, to compile reports on website activity and to provide other services related to website usage and internet usage to the website operator.</p>
+
+<p><strong>(2)</strong>  The IP address submitted by your browser through Google Analytics will not be merged with other data provided by Google.</p>
+<p><strong>(3)</strong>   You can prevent the storage of cookies by a corresponding setting of your browser software; however, please note that if you do this, you may not be able to use all the features of this website to the fullest extent possible. You may also prevent the collection by Google of the data generated by the cookie and related to your use of the website (including your IP address) as well as the processing of this data by Google by using the browser plug-in available for download and installation under the following link: <a href="http://tools.google.com/dlpage/gaoptout" target="_blank" rel="nofollow">http://tools.google.com/dlpage/gaoptout</a>. </p>
+<p><strong>(4)</strong>  This website uses Google Analytics with the extension “_anonymizeIp()”. As a result, IP addresses are processed shortened, a person-relatedness can thus be excluded. Insofar as the data collected about you is assigned a personal reference, the latter will be immediately excluded and the personal data will be deleted immediately.</p>
+<p><strong>(5)</strong>  We use Google Analytics to analyse and regularly improve the use of our website. With the statistics obtained we can improve our offer and make it more interesting for you as a user. For the exceptional cases in which personal data is transferred to the US, Google has submitted to the EU-US Privacy Shield, <a href="https://www.privacyshield.gov/EU-US-Framework" target="_blank" rel="nofollow"> https://www.privacyshield.gov/EU-US-Framework</a>. The legal basis for the use of Google Analytics is Art. 6 para. 1 sentence 1 lit. f GDPR.</p>
+<p><strong>(6)</strong>  Third-party information: Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland, Fax: +353 (1) 436 1001. User conditions: http://www.google.com/analytics/terms/us.html, Overview on data protection: <a href="http://www.google.com/intl/en/analytics/learn/privacy.html, as well as the privacy statement: https://policies.google.com/privacy" target="_blank" rel="nofollow">http://www.google.com/intl/en/analytics/learn/privacy.html, as well as the privacy statement: https://policies.google.com/privacy</a>.</p>
+<p><strong>(7)</strong>   This site also uses Google Analytics for cross-device analysis of visitor traffic conducted through a user ID. You can disable the cross-device analysis of your usage under “My Data”, “Personal Information” in your customer account.</p>
+<h4>7 Privacy Policy of our Customers and the Aarth AdServer</h4>
+<p><strong>(1) </strong>  We offer our customers a software solution called Aarth AdServer. With this it is possible for our customers to deliver, control, evaluate and optimise online advertising on the internet. In order to carry out these functions, personal data may be collected and/or processed at individual locations or cookies may be set. The type and extent may vary depending on the customer. For this reason, each customer has a separate privacy notice on their domain.</p>    
+    
+    
+    
+    
+    
+    
+    
     </div>
 
-    
-<script src="http://img3.wsimg.com/fastball/js_lib/FastballLibrary0006.js?version=2" type="text/javascript"></script>
+  </div>
+</div>
 
-    
-<script src="http://img3.wsimg.com/fos/script/sales16.min.js" type="text/javascript"></script>
-  
-  
+<div id="footer">
+  <div class="container">
+      <p>© Copyright 2017 Aarth</p>
+  </div>
+</div>
 
-<script type="text/javascript" language="javascript">
-  var internal_clicked=true;
-  if(typeof Content_appLoad == 'function')
-  {
-    Content_appLoad();
-  }
-</script>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.1.11.1.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed --> 
+<script type="text/javascript" src="js/bootstrap.js"></script> 
+<script type="text/javascript" src="js/SmoothScroll.js"></script> 
+<script type="text/javascript" src="js/main.js"></script>
+<style>.cookieinfo-close { color:#fff!important;}</style> <script type="text/javascript" id="cookieinfo" src="//cookieinfoscript.com/js/cookieinfo.min.js" data-bg="#fff" data-fg="#000" data-font-family="'Open Sans', sans-serif" data-font-size="13px" data-cookie="CookieInfoScript" data-text-align="left" data-position="bottom" data-close-text="Got it!" data-link="#032e3a" data-divlink"#ffffff"="" data-divlinkbg="#032e3a" data-moreinfo="http://aarth.com/privacy_policy.php">
+</script> <script type="text/javascript">$(document).ready(function ($) {
+        $('#latestnews_slider').sliderPro({width: 670, height: 350, orientation: 'vertical', loop: false, arrows: true, buttons: false, thumbnailsPosition: 'right', thumbnailPointer: true, thumbnailWidth: 290, breakpoints: {400: {thumbnailsPosition: 'bottom', thumbnailWidth: 270, thumbnailHeight: 50}, 500: {thumbnailsPosition: 'bottom', thumbnailWidth: 120, thumbnailHeight: 50}}});
+    });</script>
+
+
+	
+
 
 </body></html>
