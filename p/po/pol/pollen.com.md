@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pollen.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509183538id_/https%3A//www.pollen.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pollen.com privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017135325id_/https%3A//www.pollen.com/help/privacy) for the most accurate reproduction.*
 
 # Your trust and privacy is of the greatest importance to Pollen.com | Pollen.com
 
