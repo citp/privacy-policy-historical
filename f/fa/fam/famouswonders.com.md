@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famouswonders.com privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801150850id_/http%3A//famouswonders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famouswonders.com privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017090340id_/http%3A//famouswonders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
