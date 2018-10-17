@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the vote.org privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311053948id_/https%3A//www.vote.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vote.org privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017102112id_/https%3A//www.vote.org/privacy) for the most accurate reproduction.*
 
-# Vote.org Privacy Policy - Vote.org
+# Privacy Policy - Vote.org
 
-**Last updated: March 31, 2017**
+Last updated on July 10, 2018
 
-Vote.org has created this privacy policy to explain how Vote.org (or “we”) use information that we collect from you while you visit the Vote.org website, currently located at [www.vote.org](http://www.sumofus.org/) (the “Site”), or while you use a Vote.org tool that is embedded on another website (the “Services”).  Vote.org may modify this policy from time to time so we encourage you to check this page when revisiting the Site.  The date of the most recent revision is listed above.
+**Last updated: July 10, 2018**
+
+Vote.org has created this privacy policy to explain how Vote.org (or “we”) use information that we collect from you while you visit the Vote.org website, currently located at [www.vote.org](https://www.vote.org/) (the “Site”), or while you use a Vote.org tool that is embedded on another website (the “Services”).  Vote.org may modify this policy from time to time, so we encourage you to check this page when revisiting the Site.  The date of the most recent revision is listed above.
 
 ## **How  we use your information**
 
-When you register to vote, check your registration status, order your absentee ballot, donate, join our newsletter, or take any other action on this Site, we may ask you to give us contact information, including your name, address, email address and telephone number. We may also obtain information about you from outside sources and combine it with the information we collect through this Site. We use this information to operate this Site, to sends you news and information about Vote.org, to measure the effectiveness of our programs, and to send you timely election reminders. You may opt-out of receiving messages from Vote.org by sending any email to info@vote.org and asking that you not receive future email messages.  You may also opt-out by following the unsubscribe link at the bottom of each email.
+When you register to vote, check your registration status, order your absentee ballot, donate, join our newsletter, or take any other action on this Site, we may ask you to give us contact information, including your name, address, email address, and telephone number. We may also obtain information about you from outside sources and combine it with the information we collect through this Site. We use this information to operate this Site, to sends you news and information about Vote.org and issues concerning voting, to measure the effectiveness of our programs, and to send you timely election reminders. You may opt-out of receiving messages from Vote.org by sending any email to info@vote.org and asking that you not receive future email messages.  You may also opt-out by following the unsubscribe link at the bottom of each email.
+
+If you register to vote, check your registration status, order your absentee ballot, or sign up for election reminders through an embedded version of Vote.org’s tools on a third party’s website, any information you provide in doing so may be made available to the third party through whose site you accessed Vote.org’s tools. Although we encourage third parties who embed our tools on their websites to limit any use of your information to those permitted by this Privacy Policy, this Privacy Policy does not address, and we are not responsible for, the privacy, information, or other practices of any third parties, including any third party operating any site which embeds Vote.org’s tools.  Any third party’s use of your information is subject to its own Privacy Policy, and we encourage you to consult the third party’s website for those terms. 
 
 After you mail in or electronically submit your voter registration application form to local or state election officials, it generally becomes a matter of public record from your state of residence. This means it will be available for inspection and use by candidates for public office and their campaign organizations as well as by others who satisfy the requirements of the State law governing its use.
 
@@ -30,7 +34,7 @@ We may place online advertising with third-party vendors, including Google, whic
 
 ## **Cookies and data tracking**
 
-In order to better serve our supporters, we use cookies and periodically analyze web logs.  Some cookies are used to pre-populate forms for you so that on repeat visits to the Site you don’t need to re-enter certain information.  You can set your browser to disable cookies, but then you would not have the advantage of having certain sections of forms being pre-populated for you, and you may not be able to access certain parts of the Site.  We may also use third-party services such as Google Analytics. This helps us understand traffic patterns and know if there are problems with our Site. We may also use embedded images in emails to track open rates for our mailings, so that we can tell which mailings appeal most to Vote.org supporters.
+In order to better serve our supporters, we use cookies and periodically analyze web logs.  Some cookies are used to pre-populate forms for you so that on repeat visits to the Site you don’t need to re-enter certain information.  You can set your browser to disable cookies, but then you would not have the advantage of having certain sections of forms being pre-populated for you, and you may not be able to access certain parts of the Site.  We also may use third-party services such as Google Analytics. This helps us understand traffic patterns and know if there are problems with our Site. We also may use embedded images in emails to track open rates for our mailings, so that we can tell which mailings appeal most to Vote.org supporters.
 
 The information generated by a cookie about your use of our Site (including your IP address) is transmitted to and stored by Google on servers in the United States. Google may also transfer this information to third parties where Google is legally required, or where such third parties process the information on Google’s behalf. Google can combine your IP address with any other data held by Google. By using this Site, you consent to the processing of data by Google in the manner and for the purposes set out above.
 
@@ -55,20 +59,3 @@ If you have any questions about this Privacy Policy, you may contact us by sendi
 Vote.org  
 1270 Grove Street #301  
 San Francisco, CA 94117
-
-#### Every person who shares helps us reach three more voters.
-
-### Vote.org mission statement
-
-Vote.org uses technology to simplify political engagement, increase voter turnout, and strengthen American democracy. 
-
-[ Donate to Vote.org](https://secure.actblue.com/contribute/page/votedotorg?refcode=website-footer)
-
-### Shop Vote.org
-
-Just in time for the holidays: Vote.org t-shirts, tote bags, hoodies, and other assorted swag. 
-
-[Shop Vote.org](https://shop.vote.org/)
-
-VOTE.org is a 501(c)(3) registered non-profit organization and does not support or oppose any political candidate or party.  
-[Terms](https://web.archive.org/terms/) // [Privacy](https://web.archive.org/privacy/) // [Contact](https://web.archive.org/contact/)
