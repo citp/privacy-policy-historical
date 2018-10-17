@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishmirror.ie privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626211522id_/https%3A//www.irishmirror.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishmirror.ie privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017161233id_/https%3A//www.irishmirror.ie/privacy-policy) for the most accurate reproduction.*
 
 # Irish Mirror: the latest news, showbiz, football and sport
 
