@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everything.typepad.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627010141id_/http%3A//www.typepad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everything.typepad.com privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017074157id_/http%3A//www.typepad.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Typepad
 
