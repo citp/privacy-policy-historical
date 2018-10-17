@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goenglish.me privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120043939id_/https%3A//learningenglish.voanews.com/p/6021.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goenglish.me privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017151012id_/https%3A//learningenglish.voanews.com/p/6021.html) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Note VOA - Voice of America English News
 
