@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giniko.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609143827id_/http%3A//billing.giniko.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giniko.com privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017213121id_/http%3A//billing.giniko.com/privacy.php) for the most accurate reproduction.*
 
 # Terms of Use - Giniko TV
 
@@ -39,7 +39,7 @@ If you do not want to receive e-mail from us in the future, please let us know b
 
 From time to time, we may use the customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically (we will maintain a last-updated date at the bottom of this web page).
 
-You can request by [contacting us](https://web.archive.org/web/20180609143827id_/http%3A//billing.giniko.com/contact.php) whether we are keeping personal data about you. We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data. 
+You can request by [contacting us](https://web.archive.org/web/20181017213121id_/http%3A//billing.giniko.com/contact.php) whether we are keeping personal data about you. We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data. 
 
   
 
