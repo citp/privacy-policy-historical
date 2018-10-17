@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blabbermouth.net privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605030707id_/http%3A//blabbermouth.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blabbermouth.net privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017235314id_/http%3A//www.blabbermouth.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blabbermouth.net
 
@@ -53,7 +53,7 @@ Privacy Protection Measures and Opt Out Choices:
 
 In many cases, browser settings and third party software may be used by you to limit or eliminate cookies stored on your computer. We do not implement any special safeguards for such purposes nor provide any method for You to opt out or modify any such information, other than the right to delete comments you post to the Site through use of the Facebook® social plugin, as explained above. 
 
-You may consult the privacy practices of your Internet access provider with respect to any options you have concerning information collected or stored by them. You may also be able to opt out of certain third party tracking technologies used by Ad Servers by following opt out procedures offered at www.networkadvertising.org/choices/ and http://www.adtech.com/en/service/cookies.html. Please note that these web pages are offered by third parties and may be moved, changed, modified or discontinued by them, at their sole discretion. We have no responsibility for the continued availability of such web pages or opt-out services offered there. 
+You may consult the privacy practices of your Internet access provider with respect to any options you have concerning information collected or stored by them. You may also be able to opt out of certain third party tracking technologies used by Ad Servers by following opt out procedures offered at [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/) and [www.adtech.com/en/service/cookies.html](http://www.adtech.com/en/service/cookies.html). Please note that these web pages are offered by third parties and may be moved, changed, modified or discontinued by them, at their sole discretion. We have no responsibility for the continued availability of such web pages or opt-out services offered there. 
 
 Your Ability to Edit and Delete Your Personally Identifiable Information
 
