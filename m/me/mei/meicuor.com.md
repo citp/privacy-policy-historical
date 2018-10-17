@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meicuor.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608185742id_/http%3A//meicuor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meicuor.com privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017235457id_/http%3A//meicuor.com/privacy) for the most accurate reproduction.*
 
 # Meicuor
 
