@@ -1,84 +1,115 @@
-> *The following text is extracted and transformed from the truthfinder.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172210id_/https%3A//www.truthfinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthfinder.com privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017160315id_/https%3A//www.truthfinder.com/privacy-policy) for the most accurate reproduction.*
 
-# TruthFinder - Privacy Policy
+# Privacy Policy (Updated 2017-2018)
 
-This Privacy Statement describes the information collection, use, and disclosure practices of TruthFinder, hosted at, hosted at www.truthfinder.com (the “Site”).
+**Date of last revision: May 24th, 2018**
 
-### Information Collection
+### 1\. Introduction
 
-When you interact with the Site by registering or making a purchase, we may collect certain personal information you knowingly choose to disclose to us, such as your name and email address; financial data, such as your payment card information; or other demographic data like zip code and age. You may provide this information when you register with the Site, purchase products, participate in promotions or surveys, fill out web forms, or agree to receive messages from TruthFinder. We will also collect any other information you voluntarily provide, like when you send us an email or publicly post on chat groups or forums.
+This Privacy Policy describes the information practices of TruthFinder, LLC. ("TruthFinder") on the TruthFinder.com website at [https://www.truthfinder.com](https://www.truthfinder.com/) (along with all subdomains, collectively, the "Site"). This Privacy Policy is only applicable to the Site and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
-The Site may also passively collect non-personal information that is automatically sent to us by your web browser or device including but not limited to your IP address, domain servers, or your computer or internet browser type. This data is helpful for improving the Site and for marketing purposes.
+### 2\. Information Collection Practices
 
-We may also collect aggregated information as you visit the Site.
+#### i. Types of Information Collected
 
-### Information Use
+Personal Information Collected. In order for you to access and purchase products offered via the Site, we may require you to provide information that personally identifies you ("Personal Information"). Personal Information may include the following categories of information: (1) Contact Data (such as your name, mailing address, and e-mail address); (2) Financial Data (such as your account or credit card number); and (3) Demographic Data (such as your zip code and age). If you communicate with us by email, post messages to any of our chat groups, bulletin boards, or forums, or otherwise complete online forms, surveys, or contest entries, any information provided may be collected as Personal Information.
 
-We may use the information we collect to:
+Traffic Data Collected. We may automatically track and collect the following categories of information when you visit our Site including: (1) events data including: (i) Internet Protocol ("IP") address, (ii) access times, (iii) browser type and language, (iv) Internet Service Provider ("ISP"), (v) the pages you visit on our Site, (vi) the Content you view on our Site and (vi) the URL of the page that you referred you to our website; (2) domain servers; and (3) types of devices accessing the Site; and (4) (collectively "Traffic Data").
 
-  * Respond to your requests;
-  * Confirm and track your subscription or registration;
-  * Analyze preferences, trends, and statistics;
-  * Inform you of our new products, services, and offers;
-  * Provide our marketing partners with your contact information so they can contact you about goods and services;
-  * Operate the Site and customize your experience;
-  * Identify or remedy potential threats to the Site’s security; and
-  * For any other purpose stated at the time of collection.
+#### ii. Uses of Information Collected
 
+We may use the information collected through through the Site to provide services on the Site and related functionality and services. The collected information may be used for a variety of activities, including to:
 
+#### Use of Information
 
-### Cookies
-
-This Site is cookie-enabled to give you a more customized user experience. We may also use web beacons. Cookies and web beacons are small text files stored on a computer and later used to recognize a user. For example, cookies and web beacons can help store your password so you do not have to re-enter it each time you visit the Site. We use cookies and web beacons for purposes such as the following:
-
-  * Understanding traffic patterns on the Site and how users interact with the Site;
-  * Improving our products and services; 
-  * Optimizing and managing the Site;
-  * Providing anonymized or aggregated data to our advertisers and partners for research, modeling, or auditing purposes; and
-  * Providing you with relevant advertising and content.
+  * Operate, maintain and improve the Site and its services;
+  * Enable you to access and use the Site;
+  * Send you notices, updates, security alerts and support and other messages;
+  * Provide and deliver the services and features you request, process and complete transactions, and send you related information, including purchase confirmations and invoices;
+  * Respond to your comments, questions, and requests and provide customer service and support;
+  * Monitor and analyze trends, usage, and activities in connection with the Site and services it provides and for marketing or advertising purposes;
+  * Investigate and prevent suspicious or fraudulent transactions, unauthorized use of the Site and other illegal activities;
+  * Personalize and improve the Site, and provide content, features, and/or advertisements that match your interests and preferences;
+  * We will send you push notifications in order to update you about the Site’s offerings. If you no longer wish to receive these types of communications, you may turn them off on your browser or device. Instructions on how to control push notifications are located here; <https://www.truthfinder.help/disable-push-notifications/> To ensure you receive proper notifications, we collect certain information about your device such as operating system and user identification information;
+  * Link or combine with other information we receive from third parties to help understand your needs and provide you with better service;
+  * We use your Financial Data only to verify your qualifications for certain products or services and to bill you for products and services. We do not use your Financial Data for any other purpose; and
+  * For other purposes about which we notify you or are essential to the Site’s functionality.
 
 
 
-Cookies may be placed by TruthFinder or a third party service provider. Users can personalize their browser settings to reject cookies, although certain features of the Site may not function as intended.
+#### Processing of Your Information
 
-#### Sharing Information
+By accessing or using the Site and its services or otherwise providing information to the Site, you consent to the processing and transfer of information in and to the U.S. and other countries and territories, which may have different privacy laws from your country of residence. We may use your Personal Information to send you information about our company and our products or services or to contact you when necessary. We may also share your Personal Information with our partners who may contact you about goods and services they offer.
 
-TruthFinder may share your personal information, including your name, address, email address, and data about transactions conducted on our Site with third parties, including third-party advertising partners who may send you information about their products or services. Your email address will be shared with our mailing partner for the purposes of sending third party promotional email communications. TruthFinder uses third party service providers to help us with hosting, billing, fulfillment, and data storage and security. We do not share payment information, except with service providers, and only for order fulfillment
+#### iii. Cookies and Web Beacons
 
-If you enter a co-sponsored contest or sweepstakes, any information collected will be shared with the co-sponsor in accordance with the co-sponsor’s privacy policy. Do not participate in contests or sweepstakes if you do not wish to share your information in this way.
+Cookies and web beacons are small text files that are stored on your computer when you visit certain web pages. TruthFinder collects information through cookies and web beacons about your web browsing activities such as the address of the page you are visiting, the address of the referrer page you previously visited, the time you are viewing the page, your browsing environment, and your display settings. We may use cookies and web beacons on our Site for the following purposes:
 
-If we or some or all of our assets are acquired by another organization, including through a sale in connection with bankruptcy, that organization will possess the information collected by us, and it will assume the rights and obligations regarding your information as described in this Privacy Statement.
+  * Understanding traffic patterns and the number of visitors to the Site and other websites that we partner with;
+  * Understanding how you use and interact with the Site;
+  * Improving TruthFinder products and services;
+  * Optimizing your experience on the Site;
+  * Providing anonymous individual or aggregate auditing, research, modeling, and reporting for our advertisers and other partners;
+  * Storing your password so you do not have to re-enter it each time you visit the Site;
+  * Providing you with relevant advertising and content; and
+  * Managing our Site.
 
-We may disclose personal information or other data to comply with law or legal requirements, enforce or apply our Terms of Use and other agreements, or protect our rights, property, or safety of our users, or others.
 
-#### Third Party Links
 
-For your convenience, this Site may contain certain hyperlinks to other websites. We make no promises or guarantees regarding data collection on the hyperlinked pages that are not operated by TruthFinder. We recommend that you read the privacy policy/statement for each site you visit.
+Please note that cookies may be placed by a third party service provider who performs these functions for us. These third parties may have their own privacy policies.
 
-#### Your Choices
+#### iv. Sharing of Personal Information
 
-We may use the personal information we collect from you to provide you with opportunities to offer you products and services that may be of interest to you. If you would like to opt out of future promotional materials from us, you may indicate this preference by following the unsubscribe instructions at the end of such email communications, by selecting the “opt out” box on our online forms, or by contacting us at [help@truthfinder.com](mailto:help@truthfinder.com).
+We may share Personal Information with advertisers and other third parties. The other parties with whom we share Personal Information may send information to you about products or services. We do not share your Financial Data with these third parties. We may share Financial Data with business partners who assist us by performing core services (such as hosting, billing, fulfillment, or data storage and security) related to our operation of the Site. Those business partners agree to uphold the same standards of security and confidentiality described in this Privacy Policy, and they will only use your Financial Data to carry out their specific business obligations to TruthFinder.
 
-If you would no longer like to receive offers from our marketing partners, you can unsubscribe by following the unsubscribe link located at the bottom of each email communication.
+If you do not want us to share your Personal Information with any third parties, please email us at [privacy@truthfinder.com](mailto:privacy@truthfinder.com) or select the "opt out" box on our online forms. In addition, we maintain a procedure for you to review and request changes to your Personal Information, described below.
 
-#### Interest Based Advertising
+#### v. Internet Based Ads
 
-We may partner with third-party advertising providers to serve ads on our behalf on non-affiliated third party sites. Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information we or the online advertising network serving the ad collect about your online activities here and elsewhere over time. For example, anonymous information collected across multiple sites that you visit over time may enable the ad network to predict your preferences and show you ads that are most likely to be of interest to you. Please note that we do not share any information that identifies you personally with the third party service providers who serve ads on our behalf.
+We may also share Traffic Data with advertisers and other third parties who may use it for advertising purposes, including to serve targeted advertising on non-affiliated third party sites. These companies may utilize cookies, pixels or other technologies to collect user information (e.g., hashed, de-identified data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information about your online activities on the Site or other websites over time. For example, anonymous information collected across multiple sites may enable the ad network to predict your preferences and show you ads that are likely to be of interest to you. Please note that we do not share any information that identifies you personally with the third party service providers who serve ads on our behalf. To opt out of these types of ads, please visit the Network Advertising Initiative for information about how to opt-out of interest-based advertising by their members. See [http://www.networkadvertising.org](http://www.networkadvertising.org/) for general information about the NAI and <http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page. You may also visit <http://www.aboutads.info/choices/> to learn about interest based advertising and how to opt-out from online behavioral ads served by some or all participating companies.
 
-To opt out of these types of ads, please visit the Network Advertising Initiative for information about how to opt-out of interest-based advertising by their members. See [http://www.networkadvertising.org](http://www.networkadvertising.org/) for general information about the NAI and <http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page. You may also visit <http://www.aboutads.info/consumers/> to learn about online behavioral advertising and how to opt-out from online behavioral ads served by some or all participating companies.
+If we or some or all of our assets are acquired by another company, including through a sale in connection with a bankruptcy, that company will possess the information collected by us, and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
 
-#### Your California Privacy Rights
+We may disclose Personal Information or other data to comply with law or legal requirements, enforce or apply our Terms of Use and other agreements, or protect our rights, property, the safety of our users, or others.
 
-As described in this Privacy Statement, from time to time we may make your personal information available to third parties for their marketing purposes. If you do not want us to share your personal information with third parties, you may opt-out of this information sharing by emailing us at [help@truthfinder.com](mailto:help@truthfinder.com).
+#### vi. Email Marketing
 
-#### Updating Your Personal Information
+By submitting your email address via the Site, you are expressly consenting to receive emails from TRUTHFINDER LLCuding from TruthFinder’s affiliates, and from third parties concerning offers and advertisements unrelated to TruthFinder.  To unsubscribe from receiving email messages from us, from our affiliates or from other third parties, click on the “Unsubscribe” link contained in each email.
 
-If your personal information changes, please contact TruthFinder at [help@truthfinder.com](mailto:help@truthfinder.com) with your updated personal information.
+#### vii. Contests, Sweepstakes, Surveys
 
-#### Updates
+TruthFinder may conduct or co-sponsor contests, sweepstakes, or other offerings. In such circumstances, the information we obtain from you may be shared with our co-sponsor. Our co-sponsors will have the right to use your information for their own purposes, in accordance with their own privacy policies. If you do not wish for the information we obtain from you to be shared with our co-sponsor, please do not participate in these offerings.
 
-From time to time, we may update this Privacy Statement. We will notify you of any material changes to our Privacy Statement by updating this page. We encourage you periodically to check this site to learn about the information we collect, use, and share. Your continued use of the Site affirms your agreement to such changes.
+viii. Testimonials
 
-#### Contact Us
+We publish testimonials provided by our satisfied customers on our Site in addition to other endorsements. If you provide a testimonial, we may publish it on our Site using your first name and last initial.
 
-Please contact us if you have questions about our Privacy Statement at [help@truthfinder.com](mailto:help@truthfinder.com) or 
+### 3\. Confidentiality and Security of Personal Information
+
+#### i. User Ability to Access, Update, and Correct Personal Information
+
+At any time you may contact TruthFinder via email at privacy@truthfinder.com to update your Personal Information or request that your Personal Information no longer be shared by TruthFinder. In the case that your credit card, user name, or password is lost, stolen, or used without permission, promptly contact TruthFinder at [privacy@truthfinder.com](mailto:privacy@truthfinder.com) to update the Personal Information we have on file for you. We will respond to access requests within 30 days.
+
+If you wish to deactivate your account, please email us at [support@truthfinder.com](mailto:support@truthfinder.com), but note that we may retain information as required by law or for legitimate business purposes. We may also maintain cached or archived copies of your information. We will retain your information as needed to provide you services and to process your information as requested by you. We will retain and use your information to comply with our legal obligations, resolve disputes and enforce our agreements. We will retain your personal information as necessary to comply with legal obligations, resolve disputes, and enforce agreements.
+
+#### ii. Your California Privacy Rights
+
+TruthFinder may make your Personal Information available to third parties for their marketing purposes as described in this Privacy Policy. If you do not wish to share your Personal Information in this way, send your request to [unsubscribe@truthfinder.com](mailto:unsubscribe@truthfinder.com).
+
+#### iii. Security
+
+TruthFinder uses reasonable security measures to protect against the loss, misuse, and alteration of the information under TruthFinder's control. 
+
+### 4\. Public Information
+
+The Site contains links to websites not operated by TruthFinder. We are not responsible for the privacy practices or the content of such websites. Please review the privacy policies of each site you visit. We may also make chat rooms, forums, message boards, and news groups available to you. Please understand that any information that is disclosed in these areas becomes accessible to the public. You should exercise caution when deciding to disclose your Personal Information in a public forum.
+
+### 4\. Public Information
+
+The Site contains links to websites not operated by TruthFinder. We are not responsible for the privacy practices or the content of such websites. Please review the privacy policies of each site you visit. We may also make chat rooms, forums, message boards, and news groups available to you. Please understand that any information that is disclosed in these areas becomes accessible to the public. You should exercise caution when deciding to disclose your Personal Information in a public forum.
+
+### 5\. Updates and Changes to Privacy Policy
+
+We reserve the right, at any time and without notice, to update or modify this Privacy Policy, simply by posting such update or modification on the Site. Any such change, update, or modification will be effective immediately upon posting on the Site. Your consent to such changes through your continued use of the Site.
+
+If you have questions about this Privacy Policy or want to contact us, please send an email to privacy@truthfinder.com or write to us at:
