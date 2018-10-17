@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornfun.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119013323id_/https%3A//pornfun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornfun.com privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017151557id_/https%3A//pornfun.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -18,4 +18,4 @@ By accepting the Terms and Conditions in registration, a member/subscriber (you)
 
 Please note that your personal information will be stored and processed on our computers in the Netherlands. The laws on holding personal data in the Netherlands may be less stringent than the laws of your country but we will hold and transmit your personal information in a safe, confidential and secure environment. If you object to your personal information being transferred or used as described in this Privacy Policy, please do not subscribe, join or seek membership at our website. If you send us correspondence, including e-mails, we retain such information in the records of your account. We will also retain customer service correspondence and other correspondence from us to you. We retain these records in order to measure and improve our customer service, and to investigate potential fraud and violations of our User Agreement. We may, over time, delete these records if permitted by law.
 
-For questions regarding this privacy statement, please [contact us](http://pornfun.com/support.php).
+For questions regarding this privacy statement, please [contact us](https://pornfun.com/support.php).
