@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sims4studio.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612034737id_/http%3A//sims4studio.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sims4studio.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018003536id_/http%3A//sims4studio.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sims 4 Studio
 
@@ -28,7 +28,7 @@ e. You may opt out of the use of the DoubleClick cookie for interest-based adver
 
 IF YOU DO NOT WISH TO HAVE COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR BROWSERS TO REFUSE COOKIES BEFORE ACCESSING THE WEBSITE, WITH THE UNDERSTANDING THAT CERTAIN OF THE SERVICES AND CERTAIN FEATURES OF THE WEBSITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF COOKIES. IF YOU REFUSE COOKIES, YOU ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY.
 
-You can learn more about how to delete or control cookies at [_www.aboutcookies.org_](https://web.archive.org/web/20180612034737id_/http%3A//sims4studio.com/page/www.aboutcookies.org).
+You can learn more about how to delete or control cookies at [_www.aboutcookies.org_](https://web.archive.org/web/20181018003536id_/http%3A//sims4studio.com/page/www.aboutcookies.org).
 
 f. Personal Information. In order for You to use certain of the Website services, You will be asked to provide Sims 4 Studio certain information that personally identifies You ("Personal Information"). Personal Information includes, without limitation: (1) "Contact Data" (such as Your e-mail address, website URLs, and instant messaging screen names); and (2) "Demographic Data" (such as Your date of birth and gender). In each case, You will be asked to provide Personal Information; _The only required information you need to provide to use this website is a viable email address._ The website will not gather any of this information surreptitiously. 
 
