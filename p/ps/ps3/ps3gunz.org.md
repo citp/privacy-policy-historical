@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ps3gunz.org privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613162023id_/http%3A//ww43.ps3gunz.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ps3gunz.org privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018002821id_/http%3A//ww43.ps3gunz.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
