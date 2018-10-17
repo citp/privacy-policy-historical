@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadzuaf.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627165338id_/https%3A//www.mobusi.com/privacy.en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadzuaf.com privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017175815id_/https%3A//www.mobusi.com/privacy.en.html) for the most accurate reproduction.*
 
 # mobusi - Privacy Policy
 
