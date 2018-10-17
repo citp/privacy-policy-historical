@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkdir.co.uk privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413112428id_/http%3A//www.linkdir.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkdir.co.uk privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017231118id_/http%3A//www.linkdir.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Link Directory
 
