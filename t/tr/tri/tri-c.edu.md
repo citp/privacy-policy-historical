@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tri-c.edu privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524135936id_/http%3A//www.tri-c.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tri-c.edu privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017095009id_/http%3A//www.tri-c.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -84,7 +84,7 @@ The College does not divulge any information about an individual website user to
 
 The College complies with the Family Educational Rights and Privacy Act of 1974 (FERPA), as amended, which provides students the right to access a copy of their student records; permits students with the right to contest incorrect information in their student records; and limits the release of such information without students’ explicit written consent. Student "directory information" may be released without the student's written consent.
 
-Information regarding Student Education Records and FERPA is available by [clicking here [DH1]](https://web.archive.org/web/20180524135936id_/http%3A//www.tri-c.edu/administrative-departments/office-of-legal-services/student-education-records-and-ferpa.html). Questions regarding Student Education Records or FERPA should be directed to the Legal Services department at legal@tri-c.edu or 216-987-4856.
+Information regarding Student Education Records and FERPA is available by [clicking here [DH1]](https://web.archive.org/web/20181017095009id_/http%3A//www.tri-c.edu/administrative-departments/office-of-legal-services/student-education-records-and-ferpa.html). Questions regarding Student Education Records or FERPA should be directed to the Legal Services department at legal@tri-c.edu or 216-987-4856.
 
 **3.3 Health Insurance Portability and Accountability Act of 1996 (HIPAA)**
 
