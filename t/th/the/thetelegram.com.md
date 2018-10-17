@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetelegram.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613133926id_/http%3A//saltwire.com/saltwire_privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetelegram.com privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017125014id_/http%3A//saltwire.com/saltwire_privacy_policy.pdf) for the most accurate reproduction.*
 
 # 
 
