@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bajajelectricals.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610001105id_/http%3A//bajajelectricals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bajajelectricals.com privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017224324id_/http%3A//bajajelectricals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
