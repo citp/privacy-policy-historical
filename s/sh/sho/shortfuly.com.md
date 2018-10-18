@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shortfuly.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516002906id_/http%3A//shortfuly.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shortfuly.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018230825id_/http%3A//shortfuly.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,4 +48,4 @@ We cannot withhold data we collect about you, as per The Data Protection Act 199
 
 **6\. How to contact us**
 
-If you have any queries regarding your personal data or comments on this Privacy Policy, please email us using the following [Contact Us](mailto:admin@shortfuly.com).
+If you have any queries regarding your personal data or comments on this Privacy Policy, please email us using the following [Contact Us](mailto:shortfuly@yandex.com).
