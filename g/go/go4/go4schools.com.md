@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go4schools.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605233554id_/http%3A//www.go4schools.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4schools.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018045351id_/https%3A//www.go4schools.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : GO 4 Schools
 
@@ -201,4 +201,4 @@ When we receive formal written complaints at this address, it is Hyperspheric's 
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
-[24/04/2015 - Privacy policy](https://web.archive.org/web/20180605233554id_/http%3A//www.go4schools.com/PrivacyPolicy24_04_15.aspx)
+[24/04/2015 - Privacy policy](https://web.archive.org/web/20181018045351id_/https%3A//www.go4schools.com/PrivacyPolicy24_04_15.aspx)
