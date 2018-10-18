@@ -1,171 +1,224 @@
-> *The following text is extracted and transformed from the younglife.org privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929222301id_/https%3A//www.younglife.org/Pages/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the younglife.org privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018122809id_/https%3A//www.younglife.org/Pages/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Young Life Privacy Policy and Conditions of Use
+# Young Life Global Privacy Statement
 
-### Privacy Policy for Website Access
+### Your Privacy
 
-**How Information is Collected**
+**LAST UPDATED MAY 2018  **
 
-On some Young Life web pages or websites (including all Young Life local, regional, divisional, international and camp websites and the Young Life Staff Resource Site, which are hereinafter referred to as “the Young Life network”), you may be asked to provide certain personal information for ministry-related purposes or to make ministry contributions. We do not collect personal information without your knowledge; however, we do allow you to provide personal information that will help us serve your request (for instance, you can give feedback or make donations on the Young Life network). We will only ask for the information that will help us facilitate your request. When you provide any such information, you are acknowledging your consent to our use of such information to better serve you and others visiting the Young Life network.
+Young Life exists to introduce adolescents to Jesus Christ and help them grow in their faith. ​Young Life is actively pursuing this mission with middle school, high school and college-aged kids in all 50 of the United States as well as more than 90 countries around the world.  
 
-**How Information is Used**
+To further this global mission, Young Life and its various related ministry organizations (Young Life) may collect, process, use, and share your personal information. The purpose of this Privacy Statement is to explain to you how Young Life might use your personal information and how Young Life takes seriously its obligation to you to protect your rights and your personal information.
 
-Young Life uses information you provide to better serve your requests. We do not sell, lease or rent your confidential information to others. However, we may need to provide personal information as may be required by law, regulation, court order, subpoena, search warrant, in the course of a legal proceeding or in response to a law enforcement agency request, to enforce our terms of use or to protect the safety and security of our visitors and our sites.
+Where we use the terms “Young Life,” “we,” “us,” and “our,” we refer to Young Life, a Texas nonprofit corporation, and its subsidiaries and affiliated organizations. “Personal information” generally refers to all data that directly or indirectly relates to you, but “personal information,” “personal data,” or “personally identifiable information” and other terms may apply based upon applicable law and will carry the meaning of those applicable laws.
+
+From time to time, we may update this Privacy Statement, so we encourage you to review this statement periodically, paying special attention to the “LAST UPDATED” date above. In certain circumstances, Young Life may contact you to specifically notify you of changes to this Privacy Statement.
+
+**Young Life’s Commitment to Data Protection**  
+
+
+It is the global policy of Young Life to exercise a high standard of care in its handling of the personal information it collects, processes, uses, and shares. Young Life will maintain appropriate policies and processes throughout the global mission to enhance the protection of personal data and ensure compliance with applicable laws and regulations. Young Life is also committed to the periodic review and augmentation of these policies and processes as part of its Global Privacy Program.  
+
+
+**Laws That Apply to This Privacy Statement**  
+
+
+Young Life is a global organization which maintains data protection policies and practices consistent with accepted international data privacy principles. These policies supplement national data privacy laws, and any national law takes precedent in the event it conflicts with Young Life’s policies. In Europe, the General Data Protection Regulation (GDPR) is in effect as of May 25, 2018. If GDPR and/or other EU privacy laws apply to you, this Privacy Statement describes how you can exercise your rights.  
+
+
+**What Kinds of Information We Collect**  
+
+
+Young Life collects the following types of personal information:
+
+**_Contact information:_** Includes phone number, physical address, SMS, email address, telephone number, social media profile details. 
+
+**_Demographics:_** Includes information about who you are, where you live, and what programs and activities in Young Life may be of interest to you.
+
+**_Employment information:_** Includes information required to process your employment application and complete your employee onboarding process, such as employment history, references, criminal conviction records, unique qualifications or vocational preferences.
+
+**_Financial History:_** Includes historical information on your donations to Young Life, services or goods purchased from Young Life, other financial transactions you have entered into with Young Life.
+
+**_Identity Data:_** Includes name, date of birth, gender, marital status.
+
+**_Information about Personal Beliefs:_** Includes religious information.
+
+**_Payment Information:_** Includes bank account and routing numbers, credit card/debit card numbers, check number, other pertinent financial details.
+
+**_Requests and Preferences:_** Includes your preferences for how Young Life will communicate with you, customizations you have made to any Young Life account.
+
+**_Required Health Data:_** Includes health information required by Young Life for you to attend a Young Life camp or participate in a Young Life trip or event, including medical history, vaccination records, physician’s reports, and biometrics.
+
+**_Security Credentials:_** Includes login and password information.
+
+**_Travel information:_** Includes requests related to your travel with Young Life, passport information, dietary needs or restrictions.
+
+**_Volunteer Information:_** Includes information required to process your volunteer application and complete your volunteer onboarding process, including references, criminal convictions records, unique qualifications.
+
+**_Young Life information:_** Includes information on your history and engagement with Young Life.
+
+**How We Use Your Personal Information**  
+
+
+Young Life uses the personal information you provide to better serve your requests and to connect you further with the mission and ministry activities of Young Life. Whether you are involved in a Young Life club or camp program or donating your time and/or money to our missional objectives, Young Life will generally use your personal information to achieve its legitimate interests related to our organizational mission. We do not sell, lease or rent your personal information to others. Young Life will only process your personal information in accordance with an appropriate legal basis and only for the purposes described in this Privacy Statement. The table below provides a list of examples of how we may use your information, the types of information involved, and the legal basis for our use of your information.  
+
+
+​How We Use Your Personal Information | ​The Types of Personal Information Involved | ​Legal Basis | ​Examples and Explanations  
+---|---|---|---  
+​To contact you with information about the ministry activities that Young Life offers in your local area. | ​Identity data, Contact information  | ​Legitimate Interests | ​A Young Life staff member or volunteer may use your name and phone number or email to invite you to a Young Life club activity in your local area.  
+​​To facilitate your attendance at a Young Life camp and to follow up with you after your attendance. | ​Identity data, Contact information, Required Health Data, Requests and Preferences, Demographics, Payment Information, Travel Information | ​Contract | ​We think you will have the best week of your life if you attend a Young Life camp. We will need certain information from kids and parents in order to facilitate the camp experience.  
+​To facilitate your participation in a Young Life trip. | ​Identity data, Contact Information, Required Health Data, Requests and Preferences, Demographics, Payment Information, Travel Information | ​Contract | ​Young Life has some amazing short term mission trips, but we need personal information to assist with coordinating travel and communicating important information about the trip.  
+​To assist you in establishing an account on Young Life’s network. | ​Identity Data, Contact Information, Requests and Preferences, Demographics, Security Credentials | ​Contract and Legitimate Interests | ​Whether you are attending one of our events or are a faithful donor to Young Life, we want you to be able to easily interact with us. Therefore, we use different network solutions to enhance your experience with Young Life.  
+​For electronic marketing communication related to Young Life’s ministry activities or related to opportunities to donate to Young Life. | ​Identity Data, Contact Information | ​Consent or Legitimate Interests | ​We love to let you know about Young Life opportunities of which you may not already know, but we don’t want to send you communications you don’t want. If you have engaged with us before, we believe we can legally contact you with electronic marketing communications. However, we want you to be in control, so please let us know if you don’t want to receive this kind of information.    
+​For physical communication (e.g. post, telephone calls, etc.) related to Young Life activities. | ​Identity Data, Contact Information | ​Legitimate Interests | ​We still use the postal service from time to time to communicate with you about your engagement with Young Life and to let you know important updates about our work with kids.  
+​For non-marketing electronic communications to keep you informed on Young Life news and updates. | ​Identity Data, Contact Information | ​Legitimate Interests | ​Our staff members often update interested donors and friends with stories and information on what they are doing in their ministries.  
+​To allow you to apply to serve Young Life as a staff member or a volunteer. | ​Identity Data, Contact Information, Information about your Personal Beliefs, Requests and Preferences, Security Credentials, Demographics, Young Life Information | ​Contract | ​Young Life carefully vets potential staff and volunteers to ensure their fitness to join in our work with kids.  
+​To facilitate your registration for a Young Life fundraising activity and follow up with you after the event. | ​Identity Data, Contact Information, Payment Information | ​Contract | ​A Young Life staff member or volunteer may invite you to join in a local golf tournament or banquet to learn more and support the work of Young Life in your local area.  
+​For contact management. | ​Identity Data, Contact Information, Requests and Preferences, Demographics | ​Legitimate Interests | ​We work hard to manage your information within our system in the most efficient way possible so we can quickly respond to your requests related to Young Life or related to your rights or personal information.  
+​To provide ministry services such as spiritual guidance or Biblical counsel. | ​Identity Data, Contact Information, Information about your Personal Beliefs | ​Legitimate Interests | ​We believe God loves you and God loves kids, and our staff and volunteers want to be present in the lives of kids to hear what they are going through and demonstrate the love of Christ.   
+​To employ you as a Staff Member of Young Life. | ​Identity Data, Contact Information, Information about your Personal Beliefs, Requests and Preferences, Security Credentials, Demographics, Employment Information | ​Contract and Legal Obligations | ​In order to work for Young Life, you must provide certain personal information to facilitate your employment.  
+​To facilitate your volunteer activity for Young Life. | ​Identity Data, Contact Information, Information about your Personal Beliefs, Requests and Preferences, Security Credentials, Demographics, Volunteer Information | ​Contract and Legal Obligations | ​In order to volunteer for Young Life, you must provide certain personal information to facilitate your volunteering.  
+​To process your donations. | ​Identity Data, Contact Information, Payment Information | ​Contract and Legal Obligations | ​When you give to Young Life, we will ask you to provide information necessary to complete your donation and create appropriate records.  
+​For legal reporting obligations. | ​Identity Data, Contact Information, Payment Information, Financial History, Employment Information, Volunteer Information | ​Legal Obligations | ​Young Life is subject to certain government reporting obligations and this reporting may include your personal information but only to the extent that Young Life is legally obligated to supply this information.  
+​To deliver Young Life goods and services. | ​Identity Data, Contact Information, Payment Information, Young Life Information | ​Contract | ​You may want to purchase a t-shirt or mug from our online store, or you may want to sign up for a golf tournament.  
+​To solicit feedback from you on Young Life ministry activities, good and services. | ​Identity Data, Contact Information, Requests and Preferences, Security Credentials, Demographics, Young Life Information | ​Legitimate Interests | ​You may be asked from time to time to provide feedback on an event so that we are constantly getting better.  
+​To respond to your requests. | ​Identity Data, Contact Information, Requests and Preferences, Security Credentials, Demographics | Legal Obligations​ | ​We use your personal information to quickly respond to any request you have for Young Life.  
+​To respond to your complaints. | ​Identity Data, Contact Information, Requests and Preferences, Demographics | ​Legal Obligations | ​We use your personal information to quickly respond to any complaint you have against Young Life and to quickly respond to any concern about your rights and personal information.  
+​To satisfy child safety laws and regulations. | ​Identity Data, Contact Information, Employment Information, Volunteer Information | ​Legal Obligations | ​Young Life performs periodic criminal background checks and driver’s questionnaires as part of our commitment to the highest standards of child safety.  
+​To keep interested friends of Young Life involved in ongoing Young Life ministry. | ​Identity Data, Contact Information, Requests and Preferences, Demographics, Young Life Information | ​Legitimate Interests | ​Young Life has an entire ministry initiative dedicated to staying in touch with alumni of Young Life called Young Life Alumni and Friends. The Alumni and Friends website and program allows you to connect with other people who have been involved in and care about Young Life. The Alumni and Friends site also provides a prominent option for opting out of further contact or communication.  
+ 
+
+**How Information is Collected**  
+
+
+We obtain personal information about you in the following ways:
+
+  1. Personal interactions:  The ministry of Young Life is defined by relationships. Our staff members and volunteers interact regularly with kids, parents, teachers, school administrators, coaches, donors, and many other individuals. These personal interactions are a primary avenue by which Young Life gets information from you.
+  2. Direct Requests:  You may have reached out to Young Life on your own or visited one of our websites. If you have inquired about a Young Life activity, engaged in a Young Life activity, made a donation, registered for an event or camp, or have otherwise chosen to give Young Life Information, we have your personal information. Please read this Privacy Statement carefully to understand your rights and our commitments related to your personal information.
+  3. Cookies and Other Automated Technologies:  If you have visited and/or registered on a Young Life website, some of your personal information may have been gathered by cookies or other automated technologies utilized on the Young Life network.  Read the section below on Young Life’s use of cookies for additional information.
+
+
+
+**How and When We Might Share Your Information**  
+
+
+Young Life does not generally disclose personal information with anyone outside the organization. However, Young Life is a global organization who may, for the purposes described above, share your personal information with:
+
+  1. Other parties within or associated with Young Life.
+  2. Public or regulatory organizations for obligatory purposes described above.
+  3. Third party service providers Young Life has contracted to assist in the types of uses described above, including web-based contact management service providers, cloud service providers, companies assisting in the processing of your donations or other financial transactions, and email marketing service providers. Young Life has entered into contracts with these third party service providers without neglecting the protection of your personal information.  
+
+
+
+
+**International Data Transfers**  
+
+
+Young Life is a global organization operating in different parts of the world through branch organizations, subsidiaries, and affiliates.  Therefore, Young Life may transfer your personal information from one country to another. All individuals in the European Economic Area or the United Kingdom need to be aware that we may transfer your personal information outside of the European Economic Area or the UK for processing.  
+
+Any transfer of personal information from country to country will be done with appropriate safeguards and in compliance with applicable laws. Young Life and its European subsidiaries and affiliates have established standard contract clauses to govern the transfer of data from the European country to other countries, such as the United States.
+
+**Your Rights**
+
+If you are located in the European Economic Area or the United Kingdom, you have certain rights related to your personal information. If you wish to exercise any of those rights, please email Young Life at privacy@younglife.org. We will respond to your request within 30 days. We may need to verify your identity in order to process your request.
+
+These European rights include:
+
+  1. Right of access
+
+You have the right to know that we are processing your personal information, how we are processing this information, and for what purposes. This Privacy Statement is intended to provide the transparency necessary for you to know this information, but you can certainly make additional inquiries to Young Life by emailing privacy@younglife.org. 
+
+  2. Right to Edit and Update Information
+
+You have the right to rectify inaccurate information, update your personal information, and supplement incomplete information in the Young Life networks. Young Life’s network solutions will often allow you to make these changes on your own by managing your online Young Life account. Where this feature is not accessible, you can contact Young Life by emailing privacy@younglife.org, and we will address your request without undue delay.
+
+  3. Right to Delete Personal Information
+
+You have the right to request us to delete your personal information for the following reasons:  
+a) If the data is no longer necessary for the purposes it was collected.  
+b) If you withdraw previously given consent where consent is required to process the information.  
+c) If you object to Young Life processing the data in a certain way or for certain purposes and Young Life does not have legitimate grounds to continue processing the information.  
+d) If your personal information has been unlawfully processed.  
+e) If your personal information must be erased to comply with a legal obligation.  
+f) If the personal information has been collected in relation to the offer of Information Society Services as defined in Article 8(1) of the General Data Protection Regulation.
+
+We may be required to reject your request to delete your information for the following reasons:  
+a) For exercising the right of freedom of expression and information.  
+b) For compliance with a legal obligation.  
+c) For reasons of public interest as described in Article 17 of GDPR.  
+d) For the establishment, exercise or defense of legal claims.
+
+To make a request to delete information, you can email Young Life at privacy@younglife.org. We will notify you within 30 days as to whether your request has been accepted or if and for what reason we cannot fulfill your request. 
+
+  4. Right to Request the Limitation of Processing Personal Information
+
+You have the right to restrict our processing of your personal information for the following reasons:  
+a) If you believe your personal information is inaccurate, you can request that we limit our processing of the data until its accuracy is verified.  
+b) If the processing of your data is unlawful, you may either request erasure as described above or request certain restrictions.  
+c) If the controller does not need the information for the purposes above but must retain the information for the establishment, exercise or defense of legal claims.  
+d) If you have objected to the processing of your personal information and there is a pending determination as to whether our legitimate grounds to process override your rights described here.
+
+As with any request for erasure of your personal information, you also have the right to be notified by us about a restriction in the processing of your personal information.
+
+You can make this request by emailing Young Life at privacy@younglife.org.
+
+  5. Right to Portability
+
+You have the right to request us to send you your personal information in a structured, commonly used, machine-readable format so that it can easily be transferred and used by a third party if:
+
+a) You provided us with the information.  
+b) The processing of your personal information is based on your consent or required for the performance of a contract; or  
+c) The processing is carried out by automated means.
+
+You can make this request by emailing Young Life at privacy@younglife.org.
+
+  6. Right to Object and Automated Individual Decision-making
+
+You have the right to object to our processing of your data when our legal basis for processing is Young Life’s legitimate interests based on your particular situation. Upon receiving an objection from you, Young Life will cease to process your information unless we can demonstrate compelling legitimate grounds for the processing which overrides your rights and freedoms.
+
+Particularly, you have the right to object to the processing of your personal information related to direct electronic marketing.
+
+You also have the right to object to our processing of your information where decisions on processing are made by automated processing which has a legal or other significant impact on you.
+
+You can make this request by emailing Young Life at privacy@younglife.org.
+
+  7. Right to Withdraw Consent
+
+Young Life is primarily processing your information based on our legitimate interests and other obligations. However, where you have given consent to us to process your personal information, you have the right to withdraw that consent and we will promptly respond.
+
+You can make this request by emailing Young Life at privacy@younglife.org.
+
+  8. Right to File a Complaint with the Data Protection Authority
+
+We want to provide the best service to you related to these requests and resolve any issue you have with Young Life related to the processing of your personal information. You, however, always have the right to contact your local data protection authority for assistance or to make a complaint.
+
+While the rights explained above do not apply to those outside of the European Economic Area and the UK, as a matter of rights and freedoms, we still do care about your questions and concerns related to your personal information. If you are not located in the European Economic Area or the United Kingdom, you can contact Young Life at privacy@younglife.org with questons.
+
+
+
 
 **Security**
 
-To safeguard and secure the information we collect online, Young Life has applied appropriate physical, electronic and managerial procedures to prevent unauthorized access and maintain data accuracy. Internet encryption software, Secure Socket Layer (SSL) protocol, is utilized to protect sensitive data transmissions with banking or credit card information. The padlock icon in the bottom of your browser’s window or a blue line around the window signifies that a site is secure. Sometimes password protection is used to protect your privacy and security.
+To safeguard and secure the information we collect, Young Life has applied appropriate physical, electronic and managerial procedures to prevent unauthorized access and maintain data accuracy. The Secure Socket Layer (SSL) protocol is used where available to encrypt and protect all Internet data transmissions. The padlock icon in your browser’s window signifies that a site is secure. Sometimes password protection is used to protect your privacy and security. Young Life will continue to augment current security procedures and adopt new security protocols as necessary to meet the standard of care we have promised in our policies and in this Privacy Statement.
 
-**Third-Party Disclosure**
+Young Life is also committed to a prompt response to any potential data breach and has instituted a Data Breach Protocol Process which includes timely notices as required by applicable law. 
 
-Young Life does not disclose any personal information we collect from our websites to third parties. We do use this aggregate information, which is not personally identifiable, to give us demographic information about the entire Young Life network audience in order to improve our service through our entire series of information and products. 
+**Information Collected by Cookies or Technology**
 
-**Links to Other Sites**
+Young Life websites may use cookies to recognize you and may allow you to automatically log in without re-entering your user name and password every time you visit our site. The cookies are encrypted and may store limited personally identifiable information about you, including your name, user name and email address. If cookies are disabled on your browser, you may be able to still use a Young Life website, but you will be required to enter your password each time you visit.
 
-The Young Life network may, from time to time, provide links to other sites not owned or controlled by Young Life. In some cases, Young Life has contracted other vendors to manage a specific function such as Young Life's online store or donor giving. No assumption should be made and no representation should be inferred that Young Life is connected with, operates or controls these websites. Users who agree to link to these sites are alerted that they are leaving the Young Life network before they are linked to the other site. The privacy and data collection practices on linked websites are entirely separate from the Young Life network and are not covered by this privacy policy. 
+**Information Related to ​Children**
 
-**Site Access  — Commercial Use**
+In general, Young Life websites are informational sites for parents and children about Young Life. It is our intention to provide a safe, fun environment where children and their parents may explore Young Life, their own Young Life club and other Young Life activities. None of Young Life’s websites knowingly solicit personal information from children under the age of 13, except where personal information must be solicited from children and/or parents to facilitate participation in Young Life events or activities.
 
-Your personal use and access of this site does not allow you to download or modify it, or any portion of it, except with the express written consent of Young Life. You may not commercially use, or otherwise exploit for any commercial purpose, the contents of the Young Life network, including images, content or photographs or any derivative use of the Young Life network. You may not download or copy any of the information on this network for the benefit of another; or use any data mining, robots or similar data-gathering and extraction tools. You may not reproduce, duplicate, copy, sell, resell, visit or otherwise exploit any portion of this network for any commercial purpose without the express written consent of Young Life.
+We care about children’s privacy and we take great care to safeguard the personal information of all children. We do not require a child to supply us with any personal information other than is necessary to participate in a specific activity, and we never condition a child's participation in an activity on the child's disclosing more personal information than is reasonably necessary to participate in that activity. All personal information we do collect can only be accessed by authorized Young Life staff and volunteers, and only those people who require access may see this information for the purposes described above. We work diligently to preserve the confidentiality, security and integrity of that information.
 
-You may not frame or utilize framing techniques to enclose any trademarks or logos, photographs, content or other proprietary information (including images, text, page layout or form) of Young Life network without express written consent. You may not use meta tags or any other “hidden text” utilizing any names or trademarks or logos contained in the Young Life network without the express written consent of Young Life. You may not create a hyperlink to the home page or any internal page of the Young Life network without the express written permission of Young Life. [See Permissions](https://web.archive.org/Pages/Legal/PermissionToUseYoungLifeBrandIdentityElements.aspx). 
+As a ministry to children, Young Life is deeply committed to the safety and welfare of kids. We have policies and procedures designed to ensure compliance with applicable privacy laws and employ generally accepted best practices, especially as it relates to parental notice and consent. Parents have the right to request at any time that the information collected about their child be removed from Young Life’s networks and databases. You can contact Young Life at privacy@younglife.org. 
 
-**Site Modification**
+**California Privacy**
 
-Young Life reserves the right to make changes to the Young Life network, policies and Conditions of Use at any time. If any of these policies or conditions shall be deemed invalid, void or for any reason unenforceable, that condition shall be deemed severable and shall not affect the validity and enforceability of any remaining condition.
+California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing use. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year.
 
-**School Non-Affiliation Statement**
+​
 
-The use of a school name within the Young Life network that references a local Young Life or WyldLife group is not intended to imply any affiliation between Young Life and the school or school district (public or private). Young Life and WyldLife groups are often formed according to the school or schools where kids attend. The use of any school name on the Young Life network is only intended to assist kids, parents and adults to easily locate communities where Young Life ministry exists. If you are a school administrator, you can [find out more](https://web.archive.org/GetInvolved/Pages/default.aspx) about Young Life. 
-
-* * *
-
-### Privacy Policy for Medical Information
-
-This portion of Young Life’s privacy policy provides a [link](https://web.archive.org/ResourceLibrary/Pages/Notice-of-Privacy-Practices.aspx) to Young Life’s privacy practices regarding how medical information about you is used and disclosed and how you can gain access to this information for your own personal use. 
-
-* * *
-
-### Conditions of Use
-
-Young Life provides the services described on the Young Life network as information to visitors interested in learning more about the ministry outreach of Young Life. By visiting our sites, you are accepting these conditions.
-
-Solicitations of any kind made to Young Life staff or volunteers whose contact information may be found on this website, area websites or camp websites are strictly prohibited.
-
-**Limitation of Liability**
-
-Young Life makes no representations or warranties of any kind, expressed or implied, as to the operation of any sites in the Young Life network or the information, content, materials or products included therein. You expressly agree that your use of the Young Life network is at your sole risk.
-
-Young Life will not be liable for any damages of any kind, arising from the use of the Young Life network, including, but not limited to, failure of any sites in the Young Life network to perform, error or omission or interruption of availability on the Young Life network, computer viruses or line failure; nor any direct, indirect, incidental, punitive and consequential damages.
-
-**Copyright and Trademarks**
-
-All websites and web pages contained in the Young Life network are the the property of Young Life, and all content contained therein is protected by United States and international copyright laws. Young Life holds all copyright, trademark and other proprietary rights contained within the Young Life network. Young Life also holds all rights in applications, text, graphics, design elements, audio, music and all other materials that it originates or uses within the Young Life network.
-
-You may not reproduce, upload, post, transmit, download or distribute any information contained on the Young Life network. This restriction also applies to information accessed at other sites through links to the Young Life network. However, Young Life does allow users of its network to print out or download parts of the text and images for their own personal, noncommercial purposes.
-
-Young Life’s trade names, trademarks, brands and service marks, including those marks indicated on the Young Life network are the sole and exclusive property of Young Life, including, without limitation, designs, logos, page headers, button icons and scripts (“Marks”). Young Life’s Marks and branding may not be used without express written permission in connection with or in any manner that is likely to cause confusion among the public, or in any manner that disparages or discredits Young Life. All other trademarks not owned by Young Life that appear on the Young Life network are the property of their respective owners.
-
-Domain names and trademarks of other sites, or that are contained in information that users access at other sites, belong solely to their respective owners. The appearance of domain names, trademarks and other information on these sites does not imply that Young Life is affiliated with, endorses or sponsors the owners of these items. [See Permissions](https://web.archive.org/Pages/Legal/PermissionToUseYoungLifeBrandIdentityElements.aspx). 
-
-**For More Information**
-
-If you have any questions or comments related to this Privacy Policy and Conditions of Use or any content found on the Young Life network, please contact us at 877-438-9572.
-
-* * *
-
-### [](https://web.archive.org/Pages/Legal/PrivacyPolicy.aspx)Children's Privacy Policy
-
-The Young Life network of websites is informational sites for parents and children about Young Life. Our pages are designed primarily to provide information to children, ages 11 and up, who participate in or are interested in the various Young Life activities. It is our intention to provide a safe, fun environment where children may explore Young Life, their own Young Life club and other Young Life activities.
-
-We care about your privacy and we take great care to safeguard your personal information. We do not require our users to supply us with any personal information. We never condition a child's participation in an activity on the child's disclosing more personal information than is reasonably necessary to participate in that activity. All personally identifiable information we do collect can only be accessed by authorized Young Life staff, and only those people who require access may see this information. We preserve the confidentiality, security and integrity of that information. Upon your request, we will provide you with information as to all of the personal information we have regarding you and your child and we will not share this information with any third parties. As we continue to offer our visitors new and different types of content and services, we may modify our practices periodically. However, we will treat all personal information we collect in accordance with the privacy notice in effect at the time the information is collected. You will be notified and your consent will be requested should there be any material changes in the collection, use or disclosure practices to which you have previously agreed.
-
-The Young Life network is designed to comply with the requirement of the Children’s Online Privacy Protection Act (COPPA) guidelines for websites gathering identifiable information from children.
-
-**Kids**
-
-**Be sure to ask your parents for permission before you send any information about yourself (your name, address, email address, other information) to us or anyone else over the Internet.**
-
-Personal information may be requested when using the following features:
-
-  * **Email Comments** Some websites within the Young Life network have a page on which children may send an email with comments to Young Life. Information gathered from these email comments are only for the internal use of Young Life. If sample comments are posted on the website, then no identifiable information is ever included.
-  * **Cookies** The Young Life network uses a software technology called "cookies" that helps us track non-personal aggregate data about who visits our site. This helps us keep track of the number of visitors to our site and allows us to gauge the areas that are of the most interest to our members. The cookies do not contain any personally identifiable information and are not linked to any personally identifiable information. 
-
-
-
-**Third-Party Disclosure**
-
-Young Life does not disclose any personal information we collect from our websites to third parties. We do use this aggregate information, which is not personally identifiable, to give us demographic information about the entire Young Life network audience in order to improve our service through our entire series of information and products.
-
-**Links to Other Sites**
-
-The Young Life network may, from time to time, provide links to other sites not owned or controlled by Young Life. In some cases Young Life has contracted other vendors to manage a specific function such as Young Life's online store or donor giving. No assumption should be made and no representation should be inferred that Young Life is connected with, operates or controls these websites. Users who agree to link to these sites are alerted that they are leaving the Young Life network before they are linked to the other site. The privacy and data collection practices on linked websites are entirely separate from the Young Life network and are not covered by this privacy policy.
-
-Kids are encouraged to ask their parents' permission before linking to these sites or giving out any information. Parents are encouraged to become actively involved in the sites their kids visit, and to monitor their time spent there and to check their privacy policies as well.
-
-**Contact Information**
-
-If you have any questions or comments related to this Children’s Privacy Policy or any content found on the Young Life network, please contact the Young Life webmaster at 877-438-9572.
-
-* * *
-
-### Privacy Policy for Alumni and Friends Website
-
-Young Life licenses this online community from Blackbaud Internet Solutions. Alumni and Friends has created this Privacy Policy in order to demonstrate its commitment to privacy and to describe the information-gathering and dissemination-of-information practices for this website.
-
-This website has been created so that you can connect with your Young Life friends. You may not want everybody to have the information you share on this website, which is why we give you control of your information. The default privacy settings on this website limit the information displayed in your profile so that you can control what information others can see.
-
-This website will help you share information with your Young Life friends. You choose what information you put in your profile, including contact and personal information, your picture, interests and your past Young Life involvement.
-
-By using or accessing Young Life’s Alumni and Friends website, you are accepting the practices described in this Privacy Policy. Your use of this site is subject to this Privacy Policy and our [Terms of Use](http://alumniandfriends.younglife.org/site/c.mjJVJ3MNIwE/b.4825581/k.D2D9/Register/apps/ka/ct/contactcustom.asp). 
-
-**Personally Identifiable Information**
-
-This site's registration form requires you to provide your first and last name, address, email address and ZIP code and to set up a username and password. You may also choose to provide optional details, such as your middle initial, birthday, occupation, company, spouse's name, photo, personal web page, the ways in which you have been involved in Young Life in the past and the ways you are currently interested in being involved. You may update any of this information at any time by accessing your profile and clicking on the "Update" links under "My Profile." You may opt out of receiving email updates from us by going to the "Manage Your Subscriptions" section of the "Connect" page, and selecting "Email Preferences/Opt In."
-
-**Personal Profile Information and Profile Page**
-
-Your Personal Profile features information you may wish to share with other Site members on your Profile Page. Only people who are members of this site can view other members' Profile Pages. The only information that is automatically displayed on your Profile Page is your first and last name. Additional information that you choose to share, along with any photos, will appear only if you have opted to provide those items and have also selected to have those fields viewable in "Display Preferences." All member information on the website is securely stored and is not sold or transferred to any third parties outside of Young Life.
-
-You post your personally identifiable information on this Site at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. Since we cannot control the actions of other users of this Site with whom you may choose to share your pages and information, we cannot, and do not, guarantee that the personally identifiable information you post on this Site will not be viewed by unauthorized persons. This Site is not responsible for circumvention of any privacy settings or security measures contained on this Site. By using this Site, you indicate that you understand and acknowledge that, even after removal, copies of your personally identifiable information may remain viewable in cached and archived pages or if other users have copied or stored your personally identifiable information.
-
-Any improper collection or misuse of information provided on this Site is a violation of the Alumni and Friends Terms of Service and should be reported to us at 877-438-9572. The Young Life webmaster can be contacted at 719-381-1941.
-
-By using this Site, you are explicitly giving your consent to having your personally identifiable information transferred to and processed in the United States.
-
-**Cookies**
-
-This site uses cookies to recognize you and allow you to automatically log in without re-entering your user name and password every time you visit our site. The cookies are encrypted and do not save any personally identifiable information about you, such as your user name, password or email address. If cookies are disabled on your browser, you can still use the site, but you will be required to enter your password each time you visit.
-
-**Corrections and/or Updates**
-
-You may correct or update your personal information on this site at any time. To do so, click on the "Update" links on the "My Profile" page. Change the necessary information and click on "Submit."
-
-**Choice for Opt-Out**
-
-This site provides you with the opportunity to choose to receive updates about this site and the groups with whom you have registered. This option will be presented to you when you register as a member. If you have already joined, the following options will explain how you can subscribe or unsubscribe to these updates from the site.
-
-To sign up to receive email updates, click on the "Connect" link and select "Manage Your Subscriptions" at the bottom of the page. Under "Email Preferences" you can select the kind of email correspondence you wish to receive (HTML or plain), and you can "opt in" or "opt out" to subscriptions. Subscribing to the emails allows the site to notify you of news about Young Life.
-
-Please be aware that even if you choose not to receive the update emails, if a situation arises that we feel is pertinent for you to be aware of, we will contact you by email to alert you.
-
-**Links to Other Sites**
-
-This Site contains links to other websites not owned or operated by Young Life. Young Life is not responsible for the privacy practices or the content of such websites. This Privacy Policy applies solely to personally identifiable information collected by Young Life.
-
-**Updates to This Privacy Policy**
-
-This Site has the right to make changes or additions to this policy at any time. If those changes involve using your personally identifiable information in a manner different from that stated at the time you joined this Site, the Site will notify you by email. Changes that do not affect use of personally identifiable information will be posted to this Site. If you have questions regarding this policy statement, the practices of the Alumni and Friends website or your dealings with this site, please contact us at 877-438-9572. The Young Life webmaster can be contacted at   
-719-381-1941.
-
-**Children Under the Age of 13**
-
-Young Life does not knowingly collect or solicit personally identifiable information from anyone under the age of 13 and does not knowingly allow such persons to register on this Site. If you are under 13 years of age, please do not attempt to register on this Site or send any information about yourself to us, including your name, address, telephone number or e-mail address. No one under the age of 13 may provide any type of personally identifiable information to, or on, this Site. If Young Life learns that it has collected personally identifiable information from a child under the age of 13 without verification of parental consent, that information will be deleted as soon as possible. If you believe that this site might have any information from, or about, a child less than 13 years of age, please contact us at 877-438-9572. The Young Life webmaster can be contacted at 719-381-1941.
-
-**Children Between the Ages of 13 and 18**
-
-_The Young Life Alumni and Friends website is intended for the use of adult alumni and friends only._ Young Life strongly recommends that minors who are 13 years of age, or older, ask their parents for permission before sending any information about themselves to anyone over the Internet. 
-
-**Contacting the Website**
-
-If you have any questions about this privacy policy, or this Site, you may contact us at 877-438-9572. The Young Life webmaster can be contacted at 719-381-1941.
+​​​
