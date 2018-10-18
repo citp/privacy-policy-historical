@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the montok.men privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628165301id_/http%3A//montok.men/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montok.men privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019012734id_/http%3A//montok.men/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
