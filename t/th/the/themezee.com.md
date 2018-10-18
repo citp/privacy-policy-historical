@@ -1,185 +1,304 @@
-> *The following text is extracted and transformed from the themezee.com privacy policy that was archived on 2018-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180402120945id_/https%3A//themezee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themezee.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018032653id_/https%3A//themezee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – ThemeZee
 
 [Hier klicken](https://themezee.com/de/datenschutz/) für deutsche Fassung der Datenschutzerklärung (privacy policy in German).
 
-## Data Protection
+## 1\. An overview of data protection
 
-The operators of this website take the protection of your personal data very seriously. We treat your personal data confidentially and according to the legal data protection regulations and this Privacy Policy.
+### General
 
-The use of our website is generally possible without providing personal data. Personal data, such as names, addresses or email addresses, are always provided on a voluntary basis when possible. Those data will not be passed on to third parties without your explicit permission.
+The following gives a simple overview of what happens to your personal information when you visit our website. Personal information is any data with which you could be personally identified. Detailed information on the subject of data protection can be found in our privacy policy found below.
 
-However, we would like to point out that data transmissions via internet (e.g email communication) cannot be entirely secure and may have security vulnerabilities. A complete protection of personal details against unauthorised access by third parties is not possible.
+### Data collection on our website
 
-## Cookies
+**Who is responsible for the data collection on this website?**
 
-This website partially uses so-called cookies. Cookies do not cause damage to your computer and do not contain viruses. Cookies allow us to make our product more user-friendly, more efficient and more secure. Cookies are small text files, stored by your browser on your computer.
+The data collected on this website are processed by the website operator. The operator’s contact details can be found in the website’s required legal notice.
 
-Most cookies that we use are so-called “session cookies”. They will be deleted automatically after the end of your visit. Other cookies remain on your terminal device until you delete them. Those cookies enable us to recognise your browser on your next visit.
+**How do we collect your data?**
 
-You can adjust your browser to inform you when cookies are placed, to individually allow cookies, or to generally exclude cookies in certain cases, as well as to activate the automatic deletion of cookies when closing the browser. The deactivation of cookies may impair the functionality of this website.
+Some data are collected when you provide it to us. This could, for example, be data you enter on a contact form.
 
-## Server-log-files
+Other data are collected automatically by our IT systems when you visit the website. These data are primarily technical data such as the browser and operating system you are using or when you accessed the page. These data are collected automatically as soon as you enter our website.
 
-The provider of these websites automatically collects and stores information in so-called server log files which your browser automatically transmits to us, such as:
+**What do we use your data for?**
 
-  * browser type/version
-  * used operating system
-  * referrer URL
-  * host name of the accessing computer
-  * time of query
+Part of the data is collected to ensure the proper functioning of the website. Other data can be used to analyze how visitors use the site.
 
+**What rights do you have regarding your data?**
 
+You always have the right to request information about your stored data, its origin, its recipients, and the purpose of its collection at no charge. You also have the right to request that it be corrected, blocked, or deleted. You can contact us at any time using the address given in the legal notice if you have further questions about the issue of privacy and data protection. You may also, of course, file a complaint with the competent regulatory authorities.
 
-Those data cannot be associated with individual persons. We do not merge this data with other sources. We reserve the right to retrospectively check the data if there is any indication of illegal use.
+### Analytics and third-party tools
 
-## Contact form
+When visiting our website, statistical analyses may be made of your surfing behavior. This happens primarily using cookies and analytics. The analysis of your surfing behavior is usually anonymous, i.e. we will not be able to identify you from this data. You can object to this analysis or prevent it by not using certain tools. Detailed information can be found in the following privacy policy.
 
-If you send enquiries to us via the contact form, your data entered into the contact form, including the stated contact information, are stored for the purpose of dealing with your enquiry and in case of additional enquiries. Those data will not be passed on without your permission.
+You can object to this analysis. We will inform you below about how to exercise your options in this regard.
 
-## Newsletter
+## 2\. General information and mandatory information
 
-If you would like to receive the newsletter offered on our website, we require your email address as well as information which allows us to check that you are the owner of the provided email address and that you agree to receive the newsletter. Further data will not be collected. We use those data exclusively for sending the requested information and do not transmit them to third parties.
+### Data protection
 
-Permission given for the storage of the data and the email address, as well as their use for the purpose of sending the newsletter, can be withdrawn at any time via the “Unsubscribe”-link within the newsletter.
+The operators of this website take the protection of your personal data very seriously. We treat your personal data as confidential and in accordance with the statutory data protection regulations and this privacy policy.
 
-## Google Analytics
+If you use this website, various pieces of personal data will be collected. Personal information is any data with which you could be personally identified. This privacy policy explains what information we collect and what we use it for. It also explains how and for what purpose this happens.
 
-This website uses Google Analytics, a website analysis service by Google Inc., 1600 Amphitheatre Parkway Mountain View, CA 94043, USA.
+Please note that data transmitted via the internet (e.g. via email communication) may be subject to security breaches. Complete protection of your data from third-party access is not possible.
 
-Google Analytics uses so-called “cookies”, text files that are stored on your computer to analyse your use of the website. The information generated by the cookie about your use of this website is usually sent to and stored at a Google server in the U.S.A.
+### Notice concerning the party responsible for this website
 
-You will find more information concerning the treatment of user data by Google Analytics in Google’s Privacy Policy: <https://support.google.com/analytics/answer/6004245?hl=de>
+The party responsible for processing data on this website is:
 
-**Browser Plugin**
+Thomas Weichselbaumer  
+Oberer Siedlungsweg 1  
+86568 Hollenbach  
+DE – Germany
 
-You may prevent the installation of cookies by adjusting the settings of your browser; however, if you do so, you may be unable to use all features of this website. Further, you may prevent the collection of data generated by cookies (including your IP address) and related to the use of these websites, as well as the processing of such data by Google, by downloading and installing the plug-in under the following link: <http://tools.google.com/dlpage/gaoptout?hl=en>
+Telephone: 0049 8257 9978742  
+Email: contact@themezee.com
 
-**Objection to Data Collection**
+The responsible party is the natural or legal person who alone or jointly with others decides on the purposes and means of processing personal data (names, email addresses, etc.).
 
-You may prevent the collection of data by Google Analytics by clicking the following link. In doing so, an Opt-Out-Cookie will be placed which prevents future data collection when visiting our website: Disable Google Analytics
+### Revocation of your consent to the processing of your data
 
- **Processing of Order Data**
+Many data processing operations are only possible with your express consent. You may revoke your consent at any time with future effect. An informal email making this request is sufficient. The data processed before we receive your request may still be legally processed.
 
-We have entered into a contract with Google concerning the processing of order data and fully comply with the strict provisions of German Data Protection Authorities when using Google Analytics.
+### Right to object to the collection of data in special cases; right to object to direct advertising (Art. 21 GDPR)
 
- **IP-anonymisation**
+In the event that data are processed on the basis of Art. 6 Sect. 1 lit. e or f GDPR, you have the right to at any time object to the processing of your personal data based on grounds arising from your unique situation. This also applies to any profiling based on these provisions. To determine the legal basis, on which any processing of data is based, please consult this Data Protection Declaration. If you log an objection, we will no longer process your affected personal data, unless we are in a position to present compelling protection worthy grounds for the processing of your data, that outweigh your interests, rights and freedoms or if the purpose of the processing is the claiming, exercising or defence of legal entitlements (objection pursuant to Art. 21 Sect. 1 GDPR).
 
-We use the function “Activate IP anonymisation”. Through this, your IP address will be shortened in advance within the member states of the European Union or other contractual states of the Treaty on the European Economic Area. Only in exceptional cases, your complete IP address will be transmitted to a server in the U.S.A. and shortened there. Commissioned by the operators of this website, Google will use this information to evaluate your use of the website, to compile reports on website activities for website operators and to provide other services related to website and internet activities. Google will not merge your IP address with any other data held by Google.
+If your personal data is being processed in order to engage in direct advertising, you have the right to at any time object to the processing of your affected personal data for the purposes of such advertising. This also applies to profiling to the extent that it is affiliated with such direct advertising. If you object, your personal data will subsequently no longer be used for direct advertising purposes (objection pursuant to Art. 21 Sect. 2 GDPR).
 
- **Demographic Data Collection by Google Analytics**
+### Right to file complaints with regulatory authorities
 
-This website uses Google Analytics’ demographic features. This allows reports to be generated containing statements about the age, gender, and interests of site visitors. This data comes from Google’s interest-based advertising as well as visitor data from third-party providers. This collected data cannot be attributed to any specific person. You can disable this feature at any time by adjusting the ads settings in your Google account, or you can forbid the collection of your data by Google Analytics as described in the section “Refusal of data collection.”
+If there has been a breach of data protection legislation, the person affected may file a complaint with the competent regulatory authorities. The competent regulatory authority for matters related to data protection legislation is the data protection officer of the German state in which our company is headquartered. A list of data protection officers and their contact details can be found at the following link: <https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html>.
 
-## Facebook-Plug-ins (Like-Button)
+### Right to data portability
 
-Our websites integrate plug-ins from the social network Facebook, Facebook Inc., 1 Hacker Way, Menlo Park, California 94025, USA. You can recognise these plugins by the Facebook logo or the Like-Button on our site. For an overview of Facebook plugins, please see: <http://developers.facebook.com/docs/plugins/>.
+You have the right to have data which we process based on your consent or in fulfillment of a contract automatically delivered to yourself or to a third party in a standard, machine-readable format. If you require the direct transfer of data to another responsible party, this will only be done to the extent technically feasible.
 
-If you visit our websites, a direct connection between your browser and the Facebook server is established by this plug-in. In this way, Facebook receives information that you have visited our websites with your IP-address. If you click the Facebook “Like” button while you are logged on to your Facebook account, you may link the contents of our websites to your Facebook account. Thereby Facebook can associate your visit to our websites with your Facebook account. We would like to point out that we as providers of these websites do not obtain knowledge about the content of the transmitted data as well as the use of such by Facebook. For further information, please check the Privacy Policy of Facebook under <https://www.facebook.com/policy.php>.
+### SSL or TLS encryption
 
-If you do not wish Facebook to associate your visit of our websites to your Facebook account, please log out of your Facebook account.
+This site uses SSL or TLS encryption for security reasons and for the protection of the transmission of confidential content, such as the inquiries you send to us as the site operator. You can recognize an encrypted connection in your browser’s address line when it changes from “http://” to “https://” and the lock icon is displayed in your browser’s address bar.
 
-## Twitter
+If SSL or TLS encryption is activated, the data you transfer to us cannot be read by third parties.
 
-Functions of the service Twitter are integrated on our websites. These functions are offered by Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. By using Twitter as well as the function “Re-Tweet”, websites you visit are linked to your Twitter account and posted to other users. In doing so, data will be transmitted to Twitter. We would like to point out that we as providers of this websites do not obtain knowledge about the content of those data. For further information, please check the Twitter Privacy Policy: <http://twitter.com/privacy>.
+### Encrypted payments on this website
 
-The privacy settings of your Twitter account can be adjusted under:: <http://twitter.com/account/settings>
+If you enter into a contract which requires you to send us your payment information (e.g. account number for direct debits), we will require this data to process your payment.
 
-## Google+
+Payment transactions using common means of payment (Visa/MasterCard, direct debit) are only made via encrypted SSL or TLS connections. You can recognize an encrypted connection in your browser’s address line when it changes from “http://” to “https://” and the lock icon in your browser line is visible.
 
-Our websites integrate services of Google+. The provider of these services is Google Inc., 1600 Amphitheatre Parkway Mountain View, CA 94043, USA.
+In the case of encrypted communication, any payment details you submit to us cannot be read by third parties.
 
-Collection and forwarding of Information: By using the Google+ button you may publish information worldwide. Via the Google+ button you and other users receive personalised content from Google and our partners. Google stores the information that you have voted +1 for content, as well as information about the website that you were visiting when you clicked the +1 button. Your +1 votes may be published or displayed as notices, together with your profile name and your picture at Google services, such as search results, your Google profile or at other places on websites.
+### Information, blocking, deletion
 
-Google records information about your +1 activities in order to improve Google services for you and others. To be able to use the Google+ button, you need a globally visible, public Google profile which must contain at least the user name chosen for this profile. This name will be used for all Google services. In some cases this name may be replaced by another name which you have used when sharing contents via your Google account. Your Google account ID can be displayed to users who know your email address or possess any other information identifying you.
+As permitted by law, you have the right to be provided at any time with information free of charge about any of your personal data that is stored as well as its origin, the recipient and the purpose for which it has been processed. You also have the right to have this data corrected, blocked or deleted. You can contact us at any time using the address given in our legal notice if you have further questions on the topic of personal data.
 
-Use of collected information: Besides the above mentioned designated purposes, the details provided by you are treated according to current Google data protection regulations. Google may publish summarised statistics about +1 activities of users or pass those statistics on to users and contractual partners like publishers, advertisers or linked websites, respectively.
+### Opposition to promotional emails
 
-## Google Web Fonts
+We hereby expressly prohibit the use of contact data published in the context of website legal notice requirements with regard to sending promotional and informational materials not expressly requested. The website operator reserves the right to take specific legal action if unsolicited advertising material, such as email spam, is received.
 
-For the homogenous display of fonts, this website uses so-called web fonts that are provided by Google. On retrieving a website your browser downloads the necessary web fonts to your browser cache in order to correctly display texts and fonts. If your browser does not support web fonts, your computer uses a standard font.
+## 3\. Data collection on our website
 
-For further information, please see <https://developers.google.com/fonts/faq> as well as Google’s Privacy Policy: <https://www.google.com/policies/privacy/>
+### Cookies
 
-## YouTube
+Some of our web pages use cookies. Cookies do not harm your computer and do not contain any viruses. Cookies help make our website more user-friendly, efficient, and secure. Cookies are small text files that are stored on your computer and saved by your browser.
 
-Our website uses plugins from the Google-operated website YouTube. The provider of the website is YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA. If you visit one of our websites with an embedded YouTube-plugin, a connection to YouTube servers will be established. Information about which of our websites you have visited will then be transmitted to the YouTube server.
+Most of the cookies we use are so-called “session cookies.” They are automatically deleted after your visit. Other cookies remain in your device’s memory until you delete them. These cookies make it possible to recognize your browser when you next visit the site.
 
-If you are logged on to your YouTube account, you allow YouTube to associate your browsing behaviour with your personal profile. You may prevent this by logging out of YouTube.
+You can configure your browser to inform you about the use of cookies so that you can decide on a case-by-case basis whether to accept or reject a cookie. Alternatively, your browser can be configured to automatically accept cookies under certain conditions or to always reject them, or to automatically delete cookies when closing your browser. Disabling cookies may limit the functionality of this website.
 
-You will find further information concerning the treatment of user data in the YouTube Privacy Policy under: <https://www.google.de/intl/de/policies/privacy>
+Cookies which are necessary to allow electronic communications or to provide certain functions you wish to use (such as the shopping cart) are stored pursuant to Art. 6 paragraph 1, letter f of DSGVO. The website operator has a legitimate interest in the storage of cookies to ensure an optimized service provided free of technical errors. If other cookies (such as those used to analyze your surfing behavior) are also stored, they will be treated separately in this privacy policy.
 
-## Google Analytics Remarketing
+### Your Cookie settings
 
-Our websites use the functions of Google Analytics Remarketing in connection with the cross-device functions of Google AdWords and Google DoubleClick. The provider of these technologies is Google Inc. 1600 Amphitheatre Parkway Mountain View, CA 94043, USA.
+Cookie Preference
 
-This function enables a linking of commercial target groups compiled by Google Analytics Remarketing with the cross-device functions of Google AdWords and Google DoubleClick. As such, customized, interest-targeted commercials adapted for display on a terminal device (e.g. cell phone) in accordance with your previous usage and browsing behaviour can be also displayed on another of your terminal devices (e.g. PC, tablet).
+Please select an option. You can find more information about the consequences of your choice at Help. [Privacy Policy](https://themezee.com/privacy-policy/) | [Legal Notice](https://themezee.com/legal-notice/)
 
-If you have given the appropriate permission, Google will link your web and app browser history with your Google account for this purpose. In this way, the same customized commercials will be displayed on any terminal device on which you are logged in to your Google account.
+  * Accept all cookies
+  * Do not allow marketing cookies
 
-In order to support this function, Google Analytics collects Google-authenticated IDs of users, which are temporarily linked to our Google Analytics Data, to identify and to compile target groups for cross-device advertising.
 
-You can permanently object to cross-device remarketing/targeting by deactivating customised commercials in your Google account by using the link below: <https://www.google.com/settings/ads/onweb/>
 
-You will find further information and data protection regulations in Google’s Privacy Policy under: <http://www.google.com/policies/technologies/ads/>
+Your selection was saved!
 
-## Google AdWords and Google conversion tracking
+More information
 
-This site uses Google AdWords. AdWords is an online advertising program from Google Inc., 1600 Amphitheater Parkway, Mountain View, CA 94043, United States (“Google”).
+Help
 
-As part of Google AdWords, we use so-called conversion tracking. When you click an ad delivered by Google, a cookie for conversion tracking is stored on your computer. Cookies are small text files that are stored locally in the cache of the user’s browser. These cookies expire after 30 days and are not used for personal identification of the user. Should the user visit certain pages of the website and the cookie has not yet expired, Google and the website can tell that the user clicked on the ad and proceeded to that page.
+To continue, you must make a cookie selection. Below is an explanation of the different options and their meaning.
 
-Each Google AdWords advertiser has a different cookie. Thus, cookies cannot be tracked using the website of an Adwords advertiser. The information obtained using the conversion cookie is used to create conversion statistics for the Adwords advertisers who have opted for conversion tracking. The Adwords advertisers can find out the total number of users who have clicked on their ad and were directed to the page with a conversion tracking tag. The advertisers do not, however, obtain any information that can be used to identify users personally. If you do not wish to participate in tracking, you can refuse by simply deactivating the Google conversion tracking cookie via your internet browser settings. In doing so, you will not be included in the conversion tracking statistics.
+  * Accept all cookies:  
+We use tracking cookies to analyze our marketing activities. Among other things, we use the visitor action pixel from Facebook to check and evaluate our advertising measures.
+  * Do not allow marketing cookies:  
+We do not use Facebook's visitor action pixel, but use cookies for preferences and website statistics with Google Analytics. You can object to the collection of your data by Google Analytics in the data protection declaration with an opt-out.
 
-For more information about Google AdWords and Google conversion tracking, please see Google’s privacy policy at: <http://www.google.de/policies/privacy/>
 
-You can configure your browser to inform you about the use of cookies so that you can decide on a case-by-case basis whether to accept or reject a cookie. Alternatively, your browser can be configured to automatically accept cookies under certain conditions or to always reject them, or to automatically delete cookies when closing your browser. The disabling of cookies may limit your ability to use some of the functions of this website.
 
-## Registration with this websites
+You can change your cookie setting here anytime: [Privacy Policy](https://themezee.com/privacy-policy/). [Legal Notice](https://themezee.com/legal-notice/)
 
-You can register with this website to be able to use additional functions on this website. The data entered for this purpose will only be used for the respective offer or service for which you have registered.
+Back
 
-We also use the email address provided upon registration to inform you about important changes, such as a change in the extent of an offer, or a technical change.
+### Server log files
 
-## Comment function on this website
+The website provider automatically collects and stores information that your browser automatically transmits to us in “server log files”. These are:
 
-For the comment function on this website, your comment as well as details provided at the time of commenting, your email address and, unless you post anonymously, the chosen username will be stored.
+  * Browser type and browser version
+  * Operating system used
+  * Referrer URL
+  * Host name of the accessing computer
+  * Time of the server request
+  * IP address
 
- **Storage of the IP address**
 
-Our comment function stores IP addresses of users who post comments. Since we do not check the comments before publishing on our website, we require access to these data should the need arise for legal action against the originator in the case of violation of law, i.e. insults or propaganda.
 
- **Subscription to comments**
+These data will not be combined with data from other sources.
 
-As user of this website you may subscribe to comments after user registration. You receive a confirmation email to check whether you are the owner of the provided email address. You can unsubscribe from this function at any time via the link in the info emails.
+The basis for data processing is Art. 6 (1) (f) DSGVO, which allows the processing of data to fulfill a contract or for measures preliminary to a contract.
 
-## SSL Encryption
+### Contact form
 
-For security reasons, and to protect the transmission of confidential data, such as enquiries you send to us as the provider, this website uses an SSL encryption. You can recognise an encrypted connection by the change in the address line of the browser from “http://” to “https://” and by the lock-symbol in your browser address line.
+Should you send us questions via the contact form, we will collect the data entered on the form, including the contact details you provide, to answer your question and any follow-up questions. We do not share this information without your permission.
 
-When the SSL encryption is activated, the data you have transmitted to us cannot be accessed by third parties.
+We will, therefore, process any data you enter onto the contact form only with your consent per Art. 6 (1)(a) DSGVO. You may revoke your consent at any time. An informal email making this request is sufficient. The data processed before we receive your request may still be legally processed.
 
-## Processing of data (customer data and contract data)
+We will retain the data you provide on the contact form until you request its deletion, revoke your consent for its storage, or the purpose for its storage no longer pertains (e.g. after fulfilling your request). Any mandatory statutory provisions, especially those regarding mandatory data retention periods, remain unaffected by this provision.
 
-We collect, process and use personal data only as far as necessary for the establishment of, content-related arrangement of, or change of, the legal relationship (personal data). We only collect, process and use personal data about the use of our websites (usage data) insofar as it is necessary to establish or invoice the use of the service.
+### Registration on this website
 
-## Transmission of data on contract conclusion for services and digital contents
+You can register on our website in order to access additional functions offered here. The input data will only be used for the purpose of using the respective site or service for which you have registered. The mandatory information requested during registration must be provided in full. Otherwise, we will reject your registration.
 
-We transmit personal data to third parties only if it is necessary to fulfill the contract, e.g transmitting data to the commissioned credit institution in charge of the payment.
+To inform you about important changes such as those within the scope of our site or technical changes, we will use the email address specified during registration.
 
-There is no further transmission of data to third parties unless you have given your explicit permission. There is no transmission of data to third parties for commercial purposes.
+We will process the data provided during registration only based on your consent per Art. 6 (1)(a) DSGVO. You may revoke your consent at any time with future effect. An informal email making this request is sufficient. The data processed before we receive your request may still be legally processed.
 
-## Encrypted payment transaction on this website
+We will continue to store the data collected during registration for as long as you remain registered on our website. Statutory retention periods remain unaffected.
 
-Payment transactions via common methods of payment (Visa/Mastercard, direct debit) take place exclusively via an encrypted SSL connection. You can recognize an encrypted connection by the change in the browser line from “http://” to “https://” and the lock-symbol in your browser line.
+### Processing of data (customer and contract data)
 
-In using encrypted communication, any bank details, which you submit to us, cannot be read by third parties.
+We collect, process, and use personal data only insofar as it is necessary to establish, or modify legal relationships with us (master data). This is done based on Art. 6 (1) (b) DSGVO, which allows the processing of data to fulfill a contract or for measures preliminary to a contract. We collect, process and use your personal data when accessing our website (usage data) only to the extent required to enable you to access our service or to bill you for the same.
 
-## Right to Information, Deletion, Blocking
+Collected customer data shall be deleted after completion of the order or termination of the business relationship. Legal retention periods remain unaffected.
 
-You have the right to be informed about your personal data, their origin and recipients, and the purpose of data processing, as well as the right to correct, block or delete those data at any time and free of charge. For further questions, and questions concerning personal data, feel free to contact us under the address published in the impressum/legal notice.
+### Data transmitted when entering into a contract with online shops, retailers, and mail order
 
-## Objection to commercial mails
+We transmit personally identifiable data to third parties only to the extent required to fulfill the terms of your contract, for example, to companies entrusted to deliver goods to your location or banks entrusted to process your payments. Your data will not be transmitted for any other purpose unless you have given your express permission to do so. Your data will not be disclosed to third parties for advertising purposes without your express consent.
 
-Providers are obligated to publish contact information in the Legal Notice/Impressum. The use of such contact information by third parties for the purpose of distributing unsolicited advertisements or other commercial information is prohibited. The operators of this website reserve the right to take legal measures against senders of unsolicited commercial information, e.g. spam emails etc.
+The basis for data processing is Art. 6 (1) (b) DSGVO, which allows the processing of data to fulfill a contract or for measures preliminary to a contract.
+
+### Data transferred when signing up for services and digital content
+
+We transmit personally identifiable data to third parties only to the extent required to fulfill the terms of your contract with us, for example, to banks entrusted to process your payments.
+
+Your data will not be transmitted for any other purpose unless you have given your express permission to do so. Your data will not be disclosed to third parties for advertising purposes without your express consent.
+
+The basis for data processing is Art. 6 (1) (b) DSGVO, which allows the processing of data to fulfill a contract or for measures preliminary to a contract.
+
+## 4\. Analytics and advertising
+
+### Google Analytics
+
+This website uses Google Analytics, a web analytics service. It is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
+
+Google Analytics uses so-called “cookies”. These are text files that are stored on your computer and that allow an analysis of the use of the website by you. The information generated by the cookie about your use of this website is usually transmitted to a Google server in the USA and stored there.
+
+Google Analytics cookies are stored based on Art. 6 (1) (f) DSGVO. The website operator has a legitimate interest in analyzing user behavior to optimize both its website and its advertising.
+
+**IP anonymization**
+
+We have activated the IP anonymization feature on this website. Your IP address will be shortened by Google within the European Union or other parties to the Agreement on the European Economic Area prior to transmission to the United States. Only in exceptional cases is the full IP address sent to a Google server in the US and shortened there. Google will use this information on behalf of the operator of this website to evaluate your use of the website, to compile reports on website activity, and to provide other services regarding website activity and Internet usage for the website operator. The IP address transmitted by your browser as part of Google Analytics will not be merged with any other data held by Google.
+
+**Browser plugin**
+
+You can prevent these cookies being stored by selecting the appropriate settings in your browser. However, we wish to point out that doing so may mean you will not be able to enjoy the full functionality of this website. You can also prevent the data generated by cookies about your use of the website (incl. your IP address) from being passed to Google, and the processing of these data by Google, by downloading and installing the browser plugin available at the following link: <https://tools.google.com/dlpage/gaoptout?hl=en>.
+
+**Objecting to the collection of data**
+
+You can prevent the collection of your data by Google Analytics by clicking on the following link. An opt-out cookie will be set to prevent your data from being collected on future visits to this site: Disable Google Analytics.
+
+For more information about how Google Analytics handles user data, see Google’s privacy policy: <https://support.google.com/analytics/answer/6004245?hl=en>.
+
+**Outsourced data processing**
+
+We have entered into an agreement with Google for the outsourcing of our data processing and fully implement the strict requirements of the German data protection authorities when using Google Analytics.
+
+### Facebook Pixel
+
+To measure our conversion rates, our website uses the visitor activity pixel of Facebook, Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (“Facebook”).
+
+The Facebook Pixel is only integrated with your consent. We ask you for your permission to use Facebook Conversion Tracking the first time you visit the website as part of our cookie information.
+
+This tool allows the tracking of page visitors after they have been linked to the website of the provider after clicking on a Facebook ad. This makes it possible to analyse the effectiveness of Facebook ads for statistical and market research purposes and to optimize future advertising campaigns.
+
+For us as the operators of this website, the collected data is anonymous. We are not in a position to arrive at any conclusions as to the identity of users. However, Facebook archives the information and processes it, so that it is possible to make a connection to the respective user profile and Facebook is in a position to use the data for its own promotional purposes in compliance with the [Facebook Data Usage Policy](https://www.facebook.com/about/privacy/). This enables Facebook to display ads on Facebook pages as well as in locations outside of Facebook. We as the operator of this website have no control over the use of such data.
+
+The use of Facebook Pixel is based on Art. 6 Sect. 1 lit. f GDPR. The operator of the website has a legitimate interest in effective advertising campaigns, which also include social media.
+
+In Facebook’s Data Privacy Policies, you will find additional information about the protection of your privacy at: <https://www.facebook.com/about/privacy/>.
+
+You also have the option to deactivate the remarketing function “Custom Audiences” in the ad settings section under  <https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen>. To do this, you first have to log into Facebook.
+
+If you do not have a Facebook account, you can deactivate any user based advertising by Facebook on the website of the European Interactive Digital Advertising Alliance: <http://www.youronlinechoices.com/de/praferenzmanagement/>.
+
+## 5\. Newsletter
+
+### Newsletter data
+
+If you would like to receive our newsletter, we require a valid email address as well as information that allows us to verify that you are the owner of the specified email address and that you agree to receive this newsletter. No additional data is collected or is only collected on a voluntary basis. We only use this data to send the requested information and do not pass it on to third parties.
+
+We will, therefore, process any data you enter onto the contact form only with your consent per Art. 6 (1) (a) DSGVO. You can revoke consent to the storage of your data and email address as well as their use for sending the newsletter at any time, e.g. through the “unsubscribe” link in the newsletter. The data processed before we receive your request may still be legally processed.
+
+The data provided when registering for the newsletter will be used to distribute the newsletter until you cancel your subscription when said data will be deleted. Data we have stored for other purposes (e.g. email addresses for the members area) remain unaffected.
+
+### MailChimp
+
+This website uses the services of MailChimp to send newsletters. This service is provided by Rocket Science Group LLC, 675 Ponce De Leon Ave NE, Suite 5000, Atlanta, GA 30308, USA.
+
+MailChimp is a service which organizes and analyzes the distribution of newsletters. If you provide data (e.g. your email address) to subscribe to our newsletter, it will be stored on MailChimp servers in the USA.
+
+MailChimp is certified under the EU-US Privacy Shield. The Privacy Shield is an agreement between the European Union (EU) and the US to ensure compliance with European privacy standards in the United States.
+
+We use MailChimp to analyze our newsletter campaigns. When you open an email sent by MailChimp, a file included in the email (called a web beacon) connects to MailChimp’s servers in the United States. This allows us to determine if a newsletter message has been opened and which links you click on. In addition, technical information is collected (e.g. time of retrieval, IP address, browser type, and operating system). This information cannot be assigned to a specific recipient. It is used exclusively for the statistical analysis of our newsletter campaigns. The results of these analyses can be used to better tailor future newsletters to your interests.
+
+If you do not want your usage of the newsletter to be analyzed by MailChimp, you will have to unsubscribe from the newsletter. For this purpose, we provide a link in every newsletter we send. You can also unsubscribe from the newsletter directly on the website.
+
+Data processing is based on Art. 6 (1) (a) DSGVO. You may revoke your consent at any time by unsubscribing to the newsletter. The data processed before we receive your request may still be legally processed.
+
+The data provided when registering for the newsletter will be used to distribute the newsletter until you cancel your subscription when said data will be deleted from our servers and those of MailChimp. Data we have stored for other purposes (e.g. email addresses for the members area) remains unaffected.
+
+For details, see the MailChimp privacy policy at <https://mailchimp.com/legal/terms/>.
+
+**Completion of a data processing agreement**
+
+We have entered into a data processing agreement with MailChimp, in which we require MailChimp to protect the data of our customers and not to disclose said data to third parties. This agreement may be viewed at the following link: <https://mailchimp.com/legal/forms/data-processing-agreement/sample-agreement/>.
+
+## 6\. Plugins and tools
+
+### YouTube
+
+Our website uses plugins from YouTube, which is operated by Google. The operator of the pages is YouTube LLC, 901 Cherry Ave., San Bruno, CA 94066, USA.
+
+If you visit one of our pages featuring a YouTube plugin, a connection to the YouTube servers is established. Here the YouTube server is informed about which of our pages you have visited.
+
+If you’re logged in to your YouTube account, YouTube allows you to associate your browsing behavior directly with your personal profile. You can prevent this by logging out of your YouTube account.
+
+YouTube is used to help make our website appealing. This constitutes a justified interest pursuant to Art. 6 (1) (f) DSGVO.
+
+Further information about handling user data, can be found in the data protection declaration of YouTube under <https://www.google.de/intl/de/policies/privacy>.
+
+## 7\. Payment service providers
+
+### PayPal
+
+Our website accepts payments via PayPal. The provider of this service is PayPal (Europe) S.à.r.l & Cie, S.C.A. (22-24 Boulevard Royal, L-2449 Luxembourg.
+
+If you select payment via PayPal, the payment data you provide will be supplied to PayPal based on Art. 6 (1) (a) (Consent) and Art. 6 (1) (b) DSGVO (Processing for contract purposes). You have the option to revoke your consent at any time with future effect. It does not affect the processing of data previously collected.
+
+### Stripe
+
+Our website accepts payments via Stripe. The provider of this service is Stripe Payments Europe, Ltd., 1 Grand Canal Street Lower, Grand Canal Dock, Dublin.
+
+If you select payment via Stripe, the payment data you provide will be supplied to Stripe based on Art. 6 (1) (a) (Consent) and Art. 6 (1) (b) DSGVO (Processing for contract purposes). You have the option to revoke your consent at any time with future effect. It does not affect the processing of data previously collected.
