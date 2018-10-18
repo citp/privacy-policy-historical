@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parslivetv.eu privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204030320id_/http%3A//www.parslivetv.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parslivetv.eu privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018043703id_/http%3A//parsilove.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Serial Privacy_policy - parslivetv.net
+# Serial Privacy_policy - parsilove.com
 
 ### **Download free TV and Farsi1 HD Toolbar == >**
 
@@ -8,8 +8,6 @@
 ---|---  
 [ ](http://www.facebook.com/group.php?gid=107310625989832&ref=ts "Farsi1 HD in Facebook") |   
   
-[](http://www.iranbucks.com/2016/06/arz-azad-free-market-exchange-rates.html "Iran's Exchange Rates in Realtime")
-
 **Privacy Policy / Contact US**  
 Farsi1HD takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.  
 Routine Information Collection  
@@ -23,4 +21,4 @@ Contact Information
 Concerns or questions about this privacy policy can be directed to info@free0098.com for further clarification.
 
   
-Copyright ©2010 free0098.com | [Privacy Policy / Contact US](https://web.archive.org/web/20171204030320id_/http%3A//www.parslivetv.net/privacy_policy.php)| [**FAQ / Soalha Va Javabha**](https://web.archive.org/web/20171204030320id_/http%3A//www.parslivetv.net/faq.php) [ ](http://www.countomat.de/77390.html "Countomat Webcounter und Webstatistik \(Statistik und Logfileanalyse, Counter\)")
+Copyright ©2010 free0098.com | [Privacy Policy / Contact US](https://web.archive.org/web/20181018043703id_/http%3A//parsilove.com/privacy_policy.php)| [**FAQ / Soalha Va Javabha**](https://web.archive.org/web/20181018043703id_/http%3A//parsilove.com/faq.php) [ ](http://www.countomat.de/77390.html "Countomat Webcounter und Webstatistik \(Statistik und Logfileanalyse, Counter\)")
