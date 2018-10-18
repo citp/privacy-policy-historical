@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbza.blogspot.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605192232id_/http%3A//www.fbza.net/p/fbza-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbza.blogspot.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018061928id_/http%3A//www.fbza.net/p/fbza-privacy-statement.html) for the most accurate reproduction.*
 
 # FBZA Privacy Statement
 
