@@ -1,120 +1,181 @@
-> *The following text is extracted and transformed from the lazygame.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606144706id_/http%3A//www.lazygame.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazygame.net privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018111400id_/http%3A//www.lazygame.net/privacy) for the most accurate reproduction.*
 
 # lazygame.net - Privacy Policy
 
-## Privacy Policy
+### PRIVACY NOTICE
 
-KH Media LLC ("LazyGame") operates a variety of web sites ("Web Site" or "Site") including www.Lazygame.net and is committed to protecting the privacy of our Web Site users ("Users") and KH Media LLC members ("Members"). To that end, we offer this Privacy Policy to inform our Members and Users (referred to individually, or collectively, as "you") of how we collect, use and disclose your personal information. KH Media LLC will take reasonable steps to protect your personal information in accordance with this Privacy Policy and applicable laws. To make this notice easy to find, we provide a link to our policy at the bottom of most pages of our Web Site.
+KH Media LLC (throughout this policy we will refer to KH Media LLC as "We", "Us" or "Our") operates a variety of websites ("Websites" or "Sites") including www.lazygame.net and is committed to protecting the privacy of our Website users ("Users") and Our members ("Members").
 
-KH Media LLC defines personal information as information about an individual that enables someone to identify or contact a person and includes, among other things, a person's full name, address, telephone number and e-mail address, as well as other information we maintain about a person in identifiable form in combination with one of the foregoing identifiers, such as account history, financial information, titles rented or purchased or categories of products rented or purchased. Categories of personal information that we collect include, for example:
+### About This Privacy Notice
 
-  * Basic identifying information such as e-mail address and first and last names
-  * Security information such as password
-  * Contact information such as address
-  * Billing information such as credit card, expiration date, billing address and account history
-  * Site preferences such as game categories you frequently browse
-  * Ratings and reviews of games
-  * Lists of games, such as for online subscription, rental or purchase
-  * E-newsletter selections and preferences
-  * Direct marketing contact preferences
-  * Rental and purchase history
-  * Sweepstakes entries
-  * Complaints, questions and information submitted to customer service agents or similar individuals either in person, by phone, by e-mail or by entry on a Site
-  * Site behavior such as pages visited or searches requested
-  * Browser information such as browser version, connection speed, IP address and the presence of various related plug-ins and tools such as media players
+This privacy notice (the "Notice") tells you how We collect and process information that may identify you (“Personal Information”) when you use our sites, sign in as a user, buy products or Services, or interact with us in other ways. We may show you other privacy notices when we collect or share your personal data and this privacy notice is in addition to those.
+
+This notice explains how we may collect, store, use or otherwise process your Personal Information. We respect your privacy and will take reasonable steps to protect your Personal Information in accordance with this Privacy Policy and applicable laws.
+
+This Policy will explain:
+
+  * the type of information we may collect about you;
+  * how we will use the information we collect;
+  * when we may use your details to contact you;
+  * how and when we may disclose your details to a third party;
+  * the use of cookies on our Site and how you can reject them; and
+  * the rights you may have in relation to your information.
 
 
 
-## When Does KH Media LLC Collect Personal Information?
+Our Websites may contain hyperlinks to third party websites which are not owned or operated by Us. We urge you to review those policies as We are not responsible for any information collected about you from websites which We do not own or operate. Your use of such websites is at your own risk.
 
-KH Media LLC collects personal information from you when you voluntarily submit that information to KH Media LLC, for example: when you register on a Site; sign up for a subscription service; register for our e-newsletter service; participate in one of our sweepstakes, contests, or surveys; respond to an offer; purchase or rent products; or request to be on a mailing list. After you have registered your e-mail address on the Site and if you have clicked "Remember Me" or signed in to the Site, KH Media LLC collects Site behavior and browser information as you navigate through the Site. This information may be used to create a profile that we keep on individual Users that details their preferences, personal information and behavior. Consequently, collected information is tied to the User's personally identifiable information and may be used to provide offers and improve the content of the Site for the User. This profile may also be used to tailor a User's visit to our Web Site, and to direct pertinent marketing promotions to them.
+### Changes to This Privacy Notice
 
-## What Happens When I Register On The Web Site?
+This Notice was last updated on 25th May, 2018. We reserve the right to make changes to this Notice at our discretion. If we do make any changes, this page will be updated. We therefore recommend that you review this page periodically so that you are aware of any changes.
 
-In order to use certain features of this Web Site, a User must first complete a registration process. During registration a User is required to provide basic contact information (such as name and e-mail address) and establish a password. Depending on the feature being used, the User may be required to provide other information associated with the use of that particular feature. For example, a User signing up for our subscription service will be required to provide an address for proof of location and financial information in the form of a credit card and expiration date for billing purposes,licensing porposes and future charges. Users signing up for our e-newsletter service may enter the types of games or games in which they are interested and about which they wish to receive information in the newsletter.
+If you have any questions regarding this Notice, please visit www.lazygame.net select 'Contact Us' and complete the contact form or contact us at [privacy@khmediacorp.com](mailto:privacy@khmediacorp.com)
 
-## What Happens When I Place An Order On The Web Site?
+### PERSONAL INFORMATION
 
-Certain features of the Web Site do not require registration but may still require personal information to be entered, such as placing an order for a product. We request information from the User during the ordering process. For example, a User will be required to provide contact information (such as name, e-mail, and shipping address) and financial information (such as credit card and expiration date). This information is used for billing purposes and to fill Users' orders. If we have trouble processing an order, the information is used to contact the User.
+As you visit Our Sites and use our Services we may collect the following information about you:
 
-## Does KH Media LLC Use Cookie Technology?
+_Direct Identifying Information:_ This may include your name, address, email address, username and password.
 
-KH Media LLC uses cookie technology to make your use of the Sites more convenient and to support our internal business purposes. A cookie is a piece of information that is transferred to a User's hard drive for record-keeping purposes. For example, KH Media LLC uses cookies to remember your e-mail address so that you will not have to re-enter this information each time you visit the Site. KH Media LLC also uses cookies to help track referrals from third party web sites. Most browsers are initially set up to accept cookies, but you can set up your browser to alert you every time a cookie is offered, letting you decide whether or not to accept it. You can use and visit the Site with cookies disabled, but you will not automatically be recognized by the Site upon re-visiting. However, cookies allow you to take full advantage of some of our Sites' best features, so we recommend that you leave them turned on.
+_Indirect Identifying Information:_ We automatically receive and record certain information from your device or web browser when you interact with our Sites, e.g. your internet protocol (IP) address, mobile device ID, time zone setting, location data, language preference, operating system and platform. We may also create a user ID that may similarly indirectly identify you.
 
-## What Other Mechanisms Does KH Media LLC Use to Track User Behavior?
+_Location Data:_ To assist with our analytics and to provide a tailored service for you, We may collect geo-data which tells us where you are. We may also collect the language option or country you choose. We may link location data to other information we have collected about you.
 
-Some Site web pages and HTML-formatted e-mails and e-newsletters use web beacons to compile statistics about Web Site usage. A web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the Web beacon is placed. You may render some web beacons unusable by rejecting their associated cookies. 
+_Profile Data:_ This data may include your name, address, e-mail address, username, password and other information you give us when registering for our Services.
 
-KH Media LLC and its third party vendors use web beacons to track and analyze non-personally identifiable usage information and to compile statistical information about our Users in order to improve the Web Site's quality and to support our business. All data collected on behalf of KH Media LLC is owned and used by KH Media LLC. KH Media LLC reserves the right to publish non-personally identifiable, summary information regarding its Web Site visitors for promotional purposes and as a representative audience for business partners.
+_Marketing and Communications Data:_ This may include information about your subscriptions to newsletters and your marketing preferences.
 
-We also collect information in log files that include data such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We and our business partners use this information to analyze trends, administer the Site, track User's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
+_Financial Data:_ We will need to collect your credit card details when you register for our Services or make purchases on our Site.
 
-## How Does KH Media LLC Handle Information from Children?
+All data collected will be securely and safely stored on servers specific for this purpose.
 
-Please note that KH Media LLC has no intention of collecting personal information from individuals under the age of 13 ("children"). We are committed to protecting children's privacy on the Internet and we comply fully with the Children's Online Privacy Protection Act (COPPA). Where appropriate, we will instruct children not to provide such information to us. If a parent becomes aware that a child has provided us with personal information, we ask that the parent or legal guardian of the child contact us by visiting www.Lazygame.net, selecting 'Contact Us'
+### The Collection of Information
 
-## How Does KH Media LLC Use Personal Information?
+We may collect information from you in the following ways:
 
-Use of Personal Information is for our internal business purposes. KH Media LLC uses the personal information you provide for the purposes for which it was provided, for example, to process an order; to record your rental of a product and its return date; to support an online subscription service; to collect debts and recover overdue rental products; to notify you that you have won a contest or sweepstakes; to respond to your inquiries or complaints or to contact you or send you information about your membership. In addition, KH Media LLC, its subsidiaries and affiliates may share and use information collected through the Site to administer and manage our business, including, for example for account maintenance and collections purposes, and in connection with information technology services. In addition, personal information may be used to create a profile that we keep on individual Users that details their preferences and behavior. This profile may be used by KH Media LLC, its subsidiaries or affiliates to develop and improve the products, benefits and services, KH Media LLC, its subsidiaries, affiliates and business partners offer to our Members or Users, to improve the Site and the associated user experience, and to develop pertinent marketing promotions to Users and Members.
+_Information You Provide Us:_ This information includes information you provide on registration: your name, e-mail address, date of birth, gender, credit card information, billing address, SIP code and/or postcode and other information (“Personal Information”). We may also collect information if you participate in a survey, promotion, competition or sweepstakes, if you contact us through our customer support team or if you adjust the preferences in Your Account.
 
-Where permitted or required by law, KH Media LLC may collect, use or disclose your personal information without your consent, for example in response to a court order or subpoena or to comply with a legally permitted inquiry by a government agency.
+_Information We Collect Automatically:_ Information is collected when you use our Services. This may include, but is not limited to, information about the device you used to access our Services, your IP address, browser and software features, referral URLs, crash reports and your activities and use of our Service e.g. which games you play.
 
-## When Will I Be Contacted by KH Media LLC?
+_Information Collected Through Cookies:_ Please see the below section "The Use of Cookies Technology".
 
-You may receive products and communications associated with your transactions with KH Media LLC, such as rentals, purchases, subscriptions, sweepstakes and contests. You may also receive communications from KH Media LLC related to transactions that appear to be from you or which appear to be fraudulent. You may be contacted in regards to an issue on your account or in response to a customer service contact by you or in response to a specific request from you such as clicking on a "forgot my password" link. Users who sign up for e-newsletter subscriptions will receive e-mails in accordance with their selection and preferences. These administrative communications also may be accompanied by information about products and services, special offers and upcoming promotions or events offered by KH Media LLC, our subsidiaries, our affiliates or our marketing partners that we think may be of interest to you ("direct marketing").
+### THE USE OF COOKIES TECHNOLOGY
 
-You may periodically receive from KH Media LLC, its subsidiaries and affiliates unsolicited direct marketing communications by mail (delivered via the United States Postal Service). KH Media LLC, its affiliates and its subsidiaries will send standalone direct marketing e-mail communications to you only if you have agreed previously. We support the option to not receive these types of communications. Please see the following section: How Can I Opt Out of Receiving Direct Marketing from KH Media LLC?
+A "cookie" is a small data file which is transferred to your computer’s hard drive. We use cookie technology to make your use of our Site and our Services more convenient and to support our internal business purposes.
 
-## How Can I Opt Out of Receiving Direct Marketing from KH Media LLC?
+Most web browsers are initially set up to accept cookies, but you can configure your browser to alert you every time a cookie is offered, letting you decide whether or not to accept it. You can also configure your browser to block all cookies from a specific domain or all domains. If you continue to use our Site and Services without disabling cookies we will assume that you are willing to accept all cookies from our Site.
 
-By providing us with your personal information, you consent to our collection, use and disclosure of that information as described in this Privacy Policy as amended from time to time or as described at or before the time of collection, use or disclosure, as the case may be. KH Media LLC is the owner of the personal information collected on our Web Site. If you do not want your personal information to be collected, used or disclosed in this manner, please do not submit your personal information to us.
+You can, of course, use and visit our Site with cookies disabled, but you will not automatically be recognised by the Site upon re-visiting. We therefore recommend that you visit our Website using "Essential Cookies" as described below.
 
-E-mails that are sent to you as a result of you performing a business transaction with us or requesting specific information from KH Media LLC are not subject to an Opt Out process. If you have any suggestions on how to improve these e-mails, please communicate to our Online Customer Service group using the Contact Us functionality on the Site. We appreciate your feedback but cannot commit to taking action. 
+_Essential Cookies_
 
-## What Personal Information Does KH Media LLC Give to Others?
+We use cookies to identify you when you visit our Sites e.g. we use session cookies to recall your e-mail address so you don’t have to re-enter this information each time you visit. Cookies allow us to tailor your unique user experience.
 
-Transfer of Personal Information to Third Party Goods and Services Providers. KH Media LLC employs third party vendors, service providers, and suppliers to perform various functions on our behalf. Such services include: fulfilling orders; processing credit card or check card payments; collecting debts; removing repetitive information from customer lists; analyzing data; developing, hosting and maintaining our Web Sites and databases; sending and receiving e-mail and other communications; and staffing customer service call centers. These third parties may have access to personally identifiable information as reasonably necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services. Certain information collected in connection with transactions may be provided to third parties for use in transaction authorization, fraud scoring and payment card fraud prevention modeling.
+We may collect the following personal data through essential cookies: a unique ID assigned to your device; IP address; device and browser type; operating system; referring URLs; content viewed or other actions taken on our sites and apps; time and date of those actions; country and language selected.
 
-KH Media LLC, its affiliates and its subsidiaries (if permitted by KH Media LLC) on occasion may disclose to their affiliates and business partners certain data, such as names and addresses and the genre of products rented or purchased by Users or Members, so that the business partner may send their own direct marketing communications to Users and Members. KH Media LLC will not provide User or Member e-mail addresses to affiliates or business partners, unless the User or Member has provided express permission to KH Media LLC. If you would prefer that KH Media LLC not disclose your personal information to its affiliates or business partners for direct marketing purposes, subject to legal, or contractual restrictions and legal notice you may opt out of such uses and/or disclosures by (a) checking the appropriate "Opt Out" box in any applicable e-mail communication or e-newsletter, (b) visiting www.Lazygame.net, selecting 'Contact Us'.
+_Analytics Cookies_
 
-Third Party Features. From time to time KH Media LLC may include additional features and functionality from third parties on our Web Sites. Certain of these features and functions, may require KH Media LLC to send selected information about you, such as information about your game queue, to the third party. If you do not wish for KH Media LLC to share this information, you will have a reasonable opportunity to opt-out of these third-party features and functions. KH Media LLC will never send your password or your financial information to any third party through these features or functions.
+We use analytics cookies when we process your data and so we can manage and improve sites for monitoring, auditing, research and reporting purposes.
 
-Cleaned Data. We periodically remove from personal information data that can be used to identify individuals for example by summarizing, aggregating or removing certain data elements. The resulting cleaned data is no longer considered personal information and is not subject to this Privacy Policy. The cleaned data may be published by KH Media LLC and provided to various third parties.
+### The Use of Other Tracking Mechanisms
 
-Disclosures Attendant to a Merger or Acquisition. If KH Media LLC or its assets are acquired by another company, your personal information may be disclosed to the acquiring company to allow it to fulfill your order or provide the products, services or information that KH Media LLC would otherwise provide to you and generally to carry on the KH Media LLC business. We may also use and disclose your personal information to parties connected with the contemplated or actual financing, insuring, sale, assignment or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed or continue with such transaction or business relationship or fulfilling any records or other reporting requirements to such parties. We will require such parties to treat your personal information in accordance with this privacy policy and to use and disclose it only for the purposes for which it was collected.
+Our Site may use technology such as web beacons, web bugs or clear GIFs to track and analyse non-personally identifiable usage information and to compile statistical information about our Users (e.g. their IP address, browser type, internet service provider etc.) in order to improve the Site's quality and to support our business.
 
-Public postings. If you disclose your personal information in a manner that will be posted publicly such as in a product review your posting will be seen by others. In addition, if you elect to participate in certain community features offered from time to time, selected information about you, including information about your game queue, may be shared with other participants in these community features. Also, KH Media LLC may make it possible for certain third party web sites to be accessed directly from our Web Sites and for selected information about you to be provided to these third party web sites if you are also a user of these third party web sites. If a third party web site allows other users to view information about you (e.g., through posting to a publicly available profile page), the information provided by KH Media LLC will be visible to other users of the third party web site.
+You should note that We also use HTML5 localStorage technology to enhance your user experience. This technology operates in the same fashion as cookies technology and therefore we will use this mechanism to collect and store information as well as configure your experience in the same ways outlined above.
 
-## How does KH Media LLC Protect Personal Information?
+### The Use of Information We Collect
 
-KH Media LLC takes reasonable measures to protect the personal information it collects, uses, stores or discloses. We have implemented physical, technological and organizational procedures designed to protect the integrity and security, and to ensure the appropriate use, of your personal information. These procedures are appropriate to the nature, sensitivity and format of the personal information collected, used, stored or disclosed by KH Media LLC. For example, KH Media LLC uses Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card or check card number, before it travels over the Internet. SSL technology is the industry standard for secure online transactions. 
+We will use your Personal Information to help cater and deliver to you a unique User experience. We may use your information in the following ways:
 
-## What About Links to Other Web Sites?
+  * to provide our Services, activities or online content, to provide you with information about them and to deal with your requests and enquiries;
+  * to improve our Services;
+  * to provide you with the most user-friendly online experience;
+  * to use IP addresses and device identifiers to: identify the location of users, block disruptive use, establish the number of visits from different countries and other statistical purposes;
 
-This Privacy Policy applies solely to information collected by KH Media LLC. However, our Site contains links to other web sites owned and operated by third parties. The third parties who operate these sites may treat the collection, use and disclosure of personal information differently than we do. This could be the case even for those web sites that carry KH Media LLC's or its affiliates' trademarks or logos or which are framed by a Site. Please be aware that KH Media LLC is not responsible for the data collection, use and disclosure practices of companies or organizations to which our Sites may provide links. We encourage our Users to be aware when they leave our Site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
 
-## How Can I Access or Correct My Personal Information?
 
-If a User's personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a User no longer desires our service, we provide a way to correct or, update or delete/deactivate Users' personally identifiable information. You can review or change some of your personal information as follows:
+### THE USE OF YOUR PERSONAL INFORMATION
 
-You can review and change certain account related information by visiting KH Media LLC, submiting suitable identification and giving the KH Media LLC your changes such as providing a new address or phone number, removing names from your account, changing your credit card or check card information, etc. 
+We will use your Personal Information for our internal business purposes e.g. to:
 
-You can review and change certain Site related information by visiting the Site, entering your e-mail address and password and accessing the "My Account" area. 
+  * monitor, develop and improve the Services and/or your experience based on a monitoring of your preferences and behaviours;
+  * administer the provision of your Services;
+  * process payments and/or collections;
+  * process and deal with any complaints or enquiries made by or about you;
+  * investigate any suspected breach of our [Terms and Conditions](https://www.lazygame.net/terms) or the breach of other terms and conditions otherwise relating to you;
+  * investigate any suspected fraud occurring on your account;
+  * contact you if you are the lucky winner of a sweepstakes or competition;
 
-Note that in most cases, KH Media LLC will retain the previously entered data.
 
-## Legal Notices
 
-Video Privacy Protection Act of 1988. KH Media LLC supports the Video Privacy Protection Act of 1988 and will use reasonable commercial efforts to require employee and business partner compliance with the Act.
+### The Collection, Use and Handling of Children’s Information
 
-REQUIRED BY NEW YORK LAW: This videotape service provider from time to time provides to marketers of goods and services, the names and addresses of customers and a description or subject matter of materials rented by video customers. You have the right to elect not to have your name, address or the description or subject matter of any material rented included in such lists. This election may be changed by you, in writing, at any time.
+In accordance with our Terms and Conditions, only individuals 18 years and over may use our Site and Services. If you are aware or become aware of any person under the age of 18 using our Services, please contact us immediately and, unless permission is obtained from their parent and/or guardian and/or the bill payer, we will take steps to delete their account and all Personal Information. We are committed to protecting children's privacy on the Internet and we comply fully with the Children's Online Privacy Protection Act (COPPA).
 
-## Can KH Media LLC Change This Privacy Policy?
+Where appropriate, we will instruct children not to provide such information to us. If a parent becomes aware that a child has provided us with Personal Information, we ask that the parent or legal guardian of the child contact us by visiting www.lazygame.net, selecting 'Contact Us'
 
-KH Media LLC reserves the right to change this Privacy Policy from time to time. If KH Media LLC makes a change, this Privacy Policy will be updated accordingly. We recommend that you review this Privacy Policy periodically so that you are aware of any changes. If we make a material change to this Privacy Policy we will make reasonable efforts to notify you. For example, your continued consent to our collection, use and disclosure of your personal information or your continued use of our Sites following the notification or posting of any changes to this Privacy Policy shall constitute your acceptance of these changes.
+### Marketing Messages
 
-## How Do I Contact KH Media LLC Regarding The Web Site And This Privacy Policy?
+Generally, we will only send you marketing e-mails if you consent to us doing so. If you do subscribe to our marketing e-mail service, we may periodically contact you to tell you about any additional services, special offers and upcoming promotions or events offered by Us, our subsidiaries, our affiliates or our marketing partners that we think may be of interest to you ("Direct Marketing"). You can unsubscribe from this part of our Service at any time.
 
-If Users have any questions or suggestions regarding our privacy policy, please contact us at:
+### Sharing of Personal Information
 
-Web: visit www.Lazygame.net, select 'Contact Us' and complete the contact form
+We will never sell your information. We may, however, share your information in the following ways:
+
+_Your Public Postings:_ If you post a review or make a comment anywhere on our Site or platform and your post contains your Personal Information, those details may be shared with other Users to have access to that particular part of our Service.
+
+_Sharing with Third Party Providers:_ We may need to use third party service providers to provide the best possible Services to you. At times, we may need to employ external vendors, service providers and suppliers to assist us with e.g. processing credit card payments, fraud scoring and prevention, debt collection and telecommunications. These third parties may need access to your Personal Information as is reasonably necessary to perform their obligations; they are not permitted to use your Personal Information for any other reason.
+
+_Sharing with Affiliate Companies:_ Where you permit us to, We, our affiliates and subsidiaries (where We have granted permission) may disclose to their affiliates and business partners certain Personal Information and other details of the use of our Services so our partners can send you their own Direct Marketing communications. If you do not want want us to disclose your Personal Information to our affiliates or business partners for Direct Marketing purposes, you may opt out by (a) checking the appropriate "Opt Out" box in any applicable e-mail communication or e-newsletter, (b) visiting www.lazygame.net, selecting 'Contact Us'.
+
+_Third Party Features:_ We may, at times, include on our Sites additional features and functionality from third parties. Some of these features may require us to send selected information about your use of our Service (e.g. content viewed) to third parties. If you do not wish for Us to share this information, you may opt out. We will never send your password or your financial information to any third party through these features or functions.
+
+_Cleaned Data._ Periodically, we take steps to "clean" Personal Information provided to us, e.g. we may remove information which can be used to identify individuals anonymising, pseudonymising, summarising, aggregating or removing certain data elements. The resulting cleaned data is no longer considered personal information and is not subject to this Privacy Policy. The cleaned data may be provided to various third parties as necessary to provide you with our Services.
+
+_Business Restructuring:_ If We undergo a reorganisation or restructuring we may need to share your Personal Information within our group of companies so we can continue to deliver our Services to you without interruption. We may also share your information to a third party if we participate in a merger, acquisition, reorganisation, restructure or other sale of some or all of our assets.
+
+You should however note that if, due to a reorganisation or restructure, we become subject to a new owner, your information may be subject to the new owner’s policy. In these circumstances, you will be notified by e-mail or through an update of this Policy prior to the change.
+
+_Legal Necessity:_ Where permitted or required by any law or regulation we may collect, use or disclose your Personal Information or other information without your consent, e.g. in response to a court order or subpoena or to comply with a legally permitted inquiry by a government agency.
+
+We may also share your information to detect, prevent, or otherwise address fraud, security, or technical issues.
+
+Be assured that, whilst we may share your information as indicated above, your Personal Information and other information will remain subject to and will be governed by this Policy at all times.
+
+### HOW WE PROTECT YOUR PERSONAL INFORMATION
+
+We take the protection of your Personal Information seriously and we endeavour to take all reasonable measures to protect any information we collect, use, store or disclose. Where possible we have implemented technological and organisational procedures designed to protect the integrity and security, and to ensure the appropriate use, of your Personal Information. These procedures are proportionate to the nature, sensitivity and format of the personal information collected, used, stored or disclosed by us.
+
+Our users in the European Economic Area (“EEA”) and European Union (“EU”) should be aware that some companies we work with to provide our Services operate outside the EEA. We only let that happen if we are satisfied with their levels of security. So, keep in mind that when you give us Personal Information it could be transferred, stored or processed in a location outside the EEA or EU.
+
+### Transfer of Data
+
+We maintain servers in various locations worldwide and therefore your information may be processed in a jurisdiction different from the one in which you live. We comply with data protection laws in all applicable jurisdictions and provide equal protections to all information.
+
+### Retention of Your Information
+
+Any Personal Information given to us will only be held for as long as legally required or permitted and in accordance with the following measures. We will only retain your Personal Information for as long as necessary for us to provide you with our Services or have a legitimate reason to keep it.
+
+### YOUR RIGHTS IN RELATION TO YOUR INFORMATION
+
+Depending on where you live, e.g. if you reside in the European Union and/or the European Economic Area, you may have certain legal rights relative to the collection and use of your Personal Information. You may have the right to:
+
+  1. Change and update your information as necessary;
+  2. Have the entirety or part of your Personal Information to be erased or “forgotten”;
+  3. Delete your Personal Information at any time and for any reason;
+  4. Object to, restrict or limit the use of your Personal Information; and
+  5. Ask us for a copy of your Personal Information.
+
+
+
+You can do all of this by visiting the "My Account" area on our Site or by contacting our Privacy Team / Data Protection Officer at [privacy@khmediacorp.com](mailto:privacy@khmediacorp.com).
+
+Where the law provides, you may also send queries to your local data protection authority.
+
+### Data Protection Officer
+
+If you have any questions pertaining to the collection, use and storage of your Personal Information or any questions relative to this Privacy Policy contact our Privacy Team at [privacy@khmediacorp.com](mailto:privacy@khmediacorp.com).
+
+### Data Controller
+
+The data controller of your Personal Information is KH Media LLC with Registered office at , 3422 Old Capital Trail, Suite 1514, Wilmington, DE 19808-6192, USA. Please be aware that if you contact us to assist you, we may need to authenticate your identity before fulfilling your request.
