@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hebcal.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522015259id_/http%3A//www.hebcal.com/home/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hebcal.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018101627id_/https%3A//www.hebcal.com/home/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hebcal
 
 ### About Us
 
-This is a privacy policy for Hebcal Interactive Jewish Calendar. Our homepage on the Web is located at [ http://www.hebcal.com](https://web.archive.org/web/20180522015259id_/http%3A//www.hebcal.com/).
+This is a privacy policy for Hebcal Interactive Jewish Calendar. Our homepage on the Web is located at [ https://www.hebcal.com](https://web.archive.org/web/20181018101627id_/https%3A//www.hebcal.com/).
 
 We invite you to contact us if you have questions about this policy. You may contact us by e-mail at [webmaster@hebcal.com](mailto:webmaster@hebcal.com) or by phone at 425-2-HEBCAL (425-243-2225).
 
@@ -24,7 +24,7 @@ This site contains links to other sites containing information about holidays an
 
 ### Email
 
-We will only collect your email address if you subscribe to the [Shabbat Candle Lighting Times by Email ](https://web.archive.org/web/20180522015259id_/http%3A//www.hebcal.com/email/) service.
+We will only collect your email address if you subscribe to the [Shabbat Candle Lighting Times by Email ](https://web.archive.org/web/20181018101627id_/https%3A//www.hebcal.com/email/) service.
 
 We will never sell or give your email address to anyone.  
 We will never use your email address to send you unsolicited offers.
@@ -45,7 +45,7 @@ Our site makes use of cookies. Cookies are used for the following purposes:
 
 In particular, the Hebcal Cookie stores information like your zip code and time zone, and also preferences such as whether you want Ashkenazis Hebrew or the weekly Torah portion to be listed in your Hebcal results.
 
-To clear your hebcal.com cookie settings any time, click this link: **[clear my hebcal.com cookie](https://web.archive.org/web/20180522015259id_/http%3A//www.hebcal.com/hebcal/del_cookie.cgi?static)**. We also offer you the option of a persistent “blank” or “opt-out” cookie so you can opt-out of hebcal.com cookies, without erasing or altering other cookies associated with your browser. To opt-out permanently, click this link: **[opt-out from hebcal.com](https://web.archive.org/web/20180522015259id_/http%3A//www.hebcal.com/hebcal/del_cookie.cgi?optout)**.
+To clear your hebcal.com cookie settings any time, click this link: **[clear my hebcal.com cookie](https://web.archive.org/web/20181018101627id_/https%3A//www.hebcal.com/hebcal/del_cookie.cgi?static)**. We also offer you the option of a persistent “blank” or “opt-out” cookie so you can opt-out of hebcal.com cookies, without erasing or altering other cookies associated with your browser. To opt-out permanently, click this link: **[opt-out from hebcal.com](https://web.archive.org/web/20181018101627id_/https%3A//www.hebcal.com/hebcal/del_cookie.cgi?optout)**.
 
 ### Information Collected
 
