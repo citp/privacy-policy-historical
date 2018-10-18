@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mb.com.ph privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119023342id_/http%3A//www.mb.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mb.com.ph privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018145152id_/https%3A//mb.com.ph/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Manila Bulletin
 
