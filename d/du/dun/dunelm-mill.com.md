@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunelm-mill.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610182720id_/http%3A//www.dunelm.com/info/help/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunelm-mill.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018053434id_/https%3A//www.dunelm.com/info/help/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Dunelm
 
@@ -17,13 +17,13 @@ We promise that we will collect, use, process and store your data properly and s
 
 We will not sell your data or transfer it outside of the Dunelm Group to anyone to use for their own marketing purposes.
 
-This privacy policy explains what personal data we collect about you, how and why we use it, who we disclose it to, and how we protect your privacy.
+This Privacy Policy explains what personal data we collect about you, how and why we use it, who we disclose it to, and how we protect your privacy.
 
 ## Who is responsible for your data
 
 Our Privacy Policy applies to the personal data that Dunelm collects and uses. This policy applies to all data that we acquire about you, whether you visit our stores, visit our websites using any device, or contact us by telephone, email or social media.
 
-References in this Privacy Policy to “Dunelm”, “we”, “us” or “our” mean Dunelm (Soft Furnishings) Limited (a company registered in England and Wales with registration no 2129238 and registered office at Store Support Centre, Watermead Business Park, Syston, Leicester, LE7 1AD). We are the “data controller” for the purposes of the UK Data Protection Act 1998, the General Data Protection Regulation 2006, and other applicable data protection legislation.
+References in this Privacy Policy to “Dunelm”, “we”, “us” or “our” mean Dunelm (Soft Furnishings) Limited (a company registered in England and Wales with registration no 2129238 and registered office at Store Support Centre, Watermead Business Park, Syston, Leicester, LE7 1AD). We are the “data controller” for the purposes of the UK Data Protection Act 1998, the General Data Protection Regulation 2016, and other applicable data protection legislation.
 
 We are part of a corporate group of companies (“our Group”), which includes Dunelm Group plc (a company registered in England and Wales with registration no 4708277 and registered office at Store Support Centre, Watermead Business Park, Syston, Leicester, LE7 1AD).
 
@@ -104,7 +104,7 @@ Legal basis for this use: For our legitimate interests, to improve our goods and
 
 #### To inform you about our news and offers that you may like
 
-If you are happy to receive marketing communications, we will provide you with news from us such as new products and services that you may be interested in or offers that you may like. This may include information about products and services from any of our brands ( eg Dunelm, Dorma, Kiddicare). Please note that we do not share your contact details and other personal data with other companies so that they can market their own products and services to you.
+If you are happy to receive marketing communications, we will provide you with news from us such as new products and services that you may be interested in or offers that you may like. This may include information about products and services from any of our brands ( eg Dunelm, Dorma). Please note that we do not share your contact details and other personal data with other companies so that they can market their own products and services to you.
 
 #### Web Banner Advertising
 
@@ -155,15 +155,11 @@ If you would like to request a copy of your personal data, please contact us in 
 
 Dunelm – [ DU.DataRequest@Dunelm.com](mailto:DU.DataRequest@Dunelm.com)
 
-Kiddicare – [KC.DataRequest@Dunelm.com](mailto:KC.DataRequest@Dunelm.com)
-
 #### Rectification
 
 If any of the personal data that we hold about you is incorrect, you have a right to request that we correct this. If you have an online account with us you can easily change your personal details by managing the preferences in your account. Alternatively, to notify us of any corrections please contact us at: 
 
 Dunelm – [ DU.DataRequest@Dunelm.com](mailto:DU.DataRequest@Dunelm.com)
-
-Kiddicare – [KC.DataRequest@Dunelm.com](mailto:KC.DataRequest@Dunelm.com)
 
 #### Erasure / objection
 
@@ -173,21 +169,18 @@ If you would like to exercise this right please contact us at:
 
 Dunelm – [ DU.DataRequest@Dunelm.com](mailto:DU.DataRequest@Dunelm.com)
 
-Kiddicare – [KC.DataRequest@Dunelm.com](mailto:KC.DataRequest@Dunelm.com)
-
 #### Request a portable copy of your personal data
 
 You have the right to request a portable copy of any personal data which you have provided to us. This applies if 
 
   * The lawful basis on which we are processing your data is either that you have given your consent, or that we need to use the data to comply with our contract with you (for example to deliver goods to you); and 
   * We are processing your personal data by automated means.
-  * If you would like to exercise this right please contact us at.
 
 
+
+If you would like to exercise this right please contact us at:
 
 Dunelm – [ DU.DataRequest@Dunelm.com](mailto:DU.DataRequest@Dunelm.com)
-
-Kiddicare – [KC.DataRequest@Dunelm.com](mailto:KC.DataRequest@Dunelm.com)
 
 If you wish to exercise any of the rights above, you may need to provide proof of your identification and further information to help us to process your request.
 
@@ -197,13 +190,9 @@ If you have questions in relation to your personal data, please contact us at:
 
 Dunelm – [ DU.DataRequest@Dunelm.com](mailto:DU.DataRequest@Dunelm.com)
 
-Kiddicare – [KC.DataRequest@Dunelm.com](mailto:KC.DataRequest@Dunelm.com)
-
 If you are not happy with how we have managed your personal data, please give us the chance to put it right, by contacting us at:
 
 Dunelm – [ DU.DataRequest@Dunelm.com](mailto:DU.DataRequest@Dunelm.com)
-
-Kiddicare – [KC.DataRequest@Dunelm.com](mailto:KC.DataRequest@Dunelm.com)
 
 If you feel we have not resolved your complaint, you have the right to lodge a complaint with the Information Commissioner’s Office. Further information, including contact details, is available at [https://ico.org.uk](https://ico.org.uk/). 
 
@@ -216,8 +205,6 @@ If you would prefer not to receive these from us, you can easily opt out by clic
 Alternatively, you can also contact our Customer Service team and express your preference to not receive marketing communications by using the “Contact us” form at :
 
 Dunelm – [ DU.DataRequest@Dunelm.com](mailto:DU.DataRequest@Dunelm.com)
-
-Kiddicare – [KC.DataRequest@Dunelm.com](mailto:KC.DataRequest@Dunelm.com)
 
 Your request may take a few days to process.
 
@@ -357,8 +344,8 @@ Note: Registered customers are prompted to log on before they can view sensitive
 
 You may notice some cookies that aren't related to Dunelm. If you go on to a web page that contains embedded content, for example from YouTube, you may be sent cookies from these websites. We don't control these cookies, so we suggest you check the third-party websites for more information about their cookies and how to manage them.
 
-Partner | Purpose | Dunelm | Kiddicare | Worldstores  
----|---|---|---|---  
+Partner | Purpose | Dunelm | Worldstores  
+---|---|---|---  
 Awin | Awin is a global affiliate network that brings together over 100,000 contributing publishers and 6,000 advertisers. An Awin Cookie will be used by affiliate window when you purchase from us through another site. To opt out see http://www.networkadvertising.org/choices  | ✓ |  |   
 Bazaarvoice | BazaarVoice manages and moderates all product review submissions.  | ✓ |  |   
 Bidswitch |  |  | ✓ | ✓  
@@ -487,7 +474,7 @@ Our site uses the most advanced security software currently available for online
 
 ## Security of your personal data
 
-We are committed to taking appropriate technical and organisational measures to protect your personal data against unauthorised or unlawful processing and against accidental loss, destruction or damage. When you provide your personal data through our website, this information is transmitted across the internet securely using. 
+We are committed to taking appropriate technical and organisational measures to protect your personal data against unauthorised or unlawful processing and against accidental loss, destruction or damage. When you provide your personal data through our website, this information is transmitted across the internet securely. 
 
 Dunelm adheres to high security standards in order to protect your payment card details when you are sending us this information. 
 
@@ -515,7 +502,7 @@ We may also share some of your personal data with, or obtain your personal data 
   * companies who help us improve our business by analysing how customers shop when they visit our websites, or to enable them to contact you to ask you to review your purchase on their website
   * companies who send our marketing communications to you on our behalf 
   * Google/Facebook and other digital media providers to show you advertising that might interest you while you’re browsing the internet, in apps and on websites. 
-  * Some of the data which we hold is stored for us by external parties.
+  * External parties hold some of the data which is stored by us.
 
 
 
@@ -544,3 +531,9 @@ Some examples are set out below:
 We may make changes to this Privacy Policy from time to time - we will update the Privacy Policy and we will publish on our website any new version of this Policy.
 
 This policy was last updated in May 2018.
+
+## Contact information
+
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to:
+
+Dunelm – [ DU.DataRequest@Dunelm.com](mailto:DU.DataRequest@Dunelm.com)
