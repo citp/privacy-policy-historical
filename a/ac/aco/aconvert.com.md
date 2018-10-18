@@ -1,12 +1,18 @@
-> *The following text is extracted and transformed from the aconvert.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602000557id_/https%3A//www.aconvert.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aconvert.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018020622id_/https%3A//www.aconvert.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - Aconvert.com
 
 Aconvert.com is dedicated to making your online experience as interesting and enjoyable as possible. We truly appreciate your presence on our site and at all times understand that you are our guest and should be treated accordingly. To ensure this, we have listed the components of our Privacy Policy below.
 
-##### App
+##### Apps for Android
 
-JPG to PDF Converter app uses permissions that are associated with accessing camera. This permission allows this application to capture images in order to be converted to a PDF file within this application.
+Aconvert.com built apps as an Ad Supported apps. This SERVICE is provided by Aconvert.com at no cost and is intended for use as is. For a better experience, while using our Service, We may require you to provide us with certain personally identifiable information. The information that we request will be retained on your device and is not collected by me in any way.
+
+Our apps use third party services that may collect information used to identify you. Link to privacy policy of third party service providers used by our apps:
+
+[Google Play Services](https://www.google.com/policies/privacy/), [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+
+Our JPG to PDF Converter app uses permissions that are associated with accessing camera. This permission allows this application to capture images in order to be converted to a PDF file within this application. Our online file conversion services may require you to upload files to convert. Your files will be for only you to access and will be automatically removed permanently on our server in 2 hours.
 
 ##### Personal information
 
@@ -22,7 +28,7 @@ Users have the possibility to enter their e-mail address for various functions. 
 
 ##### Storage of files
 
-When users upload files to be converted, Aconvert.com stores those files on its servers. The files remain in place on the servers for users to download. All files will be deleted automatically in 8 hours after conversion. There is no backup made of user files, neither are the contents of the files monitored without permission of the uploader.
+When users upload files to be converted, Aconvert.com stores those files on its servers. The files remain in place on the servers for users to download. All files will be deleted automatically in 2 hours after conversion. There is no backup made of user files, neither are the contents of the files monitored without permission of the uploader.
 
 ##### Security
 
