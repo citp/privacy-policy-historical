@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electricpig.co.uk privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617091927id_/http%3A//www.electricpig.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricpig.co.uk privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018065953id_/http%3A//www.electricpig.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Electricpig
 
