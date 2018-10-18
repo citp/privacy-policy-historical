@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actionnetwork.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617174423id_/https%3A//www.actionnetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionnetwork.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018204153id_/https%3A//www.actionnetwork.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Action Network
 
@@ -81,6 +81,16 @@ We do not endorse specific third parties or their goods or services, regardless 
 
 Except as set forth herein, unless you have provided consent, the Action Network Group will not (a) sell, rent or lease your Personal Information to third parties, and (b) disclose your Personal Information to third parties for their own marketing purposes.
 
+Your Username and URL 
+
+Please note that when you select a username, you are assigned a unique public URL based on your username. This URL is open to the public and locatable by the public. Therefore, any sports picks you post on your page will be available to the public, unless you select the option to make your picks "private". If you select "private", the information you post about your sports picks will not be made publicly available.
+
+* * *
+
+### Third Party Accounts Linked to Your Account at Our Site:
+
+If you choose to link your third party accounts to your Action Network Group account, Action Network Group may collect data associated with that account, including your wager data (i.e. wagers place, wager amount, position, wager type, vigorish and odds). Once linked, this data is integrated into the Site and cannot be removed unless individually and manually deleted by you.
+
 * * *
 
 ### Your Choices:
@@ -88,6 +98,10 @@ Except as set forth herein, unless you have provided consent, the Action Network
 The Action Network Group provides a number of ways for you to ‘opt-out’ of receiving additional information from us or having us provide your Personal Information to our partners. We may offer you these choices at the time you give us your information.
 
 If you do not wish to continue receiving certain marketing materials (e.g., email messages), you can opt-out of receiving these materials by following the unsubscribe instructions provided in the materials. This option does not apply to communications primarily for the purpose of administering orders, contracts, support, product safety warnings, software updates, or other administrative and transactional notices.
+
+We may work with third parties that collect and use information about your website and mobile app usage over time and across our and non-affiliated websites and mobile apps including on different devices and browsers. These partners may use cookies, web beacons, pixels, and other similar technology to colelct this information, and use it to infer your interests and deliver relevant advertising to your browser or device, and browsers or devices associated with it. This activity is called interest-based advertising. To learn more information about interest based advertising, and to opt out of interest-based advertising on your browser from companies that participate in industry self-regulation, US users can visit [www.aboutads.info/choices](https://aboutads.info/choices) and EU users can visit [http://youronlinechoices.eu/](https://youronlinechoices.eu/). To opt out of interest-based advertising from participating companies for mobile apps, you can visit [www.youradchoices.com/appchoices](https://www.youradchoices.com/appchoices) and download the appropriate version of App Choices for your device. Action Network, Inc. adheres to the Digital Advertising Alliance's Self-Regulatory Principles.
+
+When you exercise choice through these tools, you will still receive advertising but that advertising may be less relevant to you. After you make your choices, data will no longer be collected from your browser or device for interest-based advertising on that browser or device, or associated browsers or devices. Additionally, data from those associated browsers and devices will not be used for interest-based advertising on the browser or device for which you made your choices. Data may still be collected for other purposes, such as analytics, reporting, and research. If you delete your cookies, reset your mobile identifier, or use multiple browsers or devices, you will need to register your opt-out choices again.
 
 * * *
 
@@ -129,7 +143,7 @@ Traffic Data is anonymous information that does not personally identify you but 
 
 The Action Network Group uses cookies for a variety of purposes. A cookie is a name for tokens of information that our Site may provide to your browser while you are at the Site. Cookies are stored on your device’s hard drive and, once placed there, the cookie will remain until you remove it. We use cookies to help us keep track of the items that you place in your shopping cart and to better understand our Site usage in the aggregate so that we know what areas of the Site users prefer. We also use cookies when you register for of our online groups to authenticate you and provide you access to those areas of the Site and to simplify your data entry for some of our online forms. We may also use temporary or “session” cookies to help you learn more about and/or order our services. If you simply want to browse, you do not have to accept cookies from the Site. Should you decide, however, that you would like to register and login to special areas of the Site and you have modified your browser settings not to accept cookies, you will need to re-set your browser to accept the cookies that we send it. Otherwise, you may not be able to participate in certain areas of the Site. Most browsers are defaulted to accept and maintain cookies. These cookies are not tied to your Personal Information.
 
-Third party vendors, including Google, may use cookies to serve ads to you while you are using the Site based on your prior visits. We do not have access to or control over these cookies, and we disclaim liability for the actions of all third-party vendors. You may opt out of Google’s use of cookies by visiting the **Google advertising opt-out page**.
+Third party vendors, including Google, may use cookies to serve ads to you while you are using the Site based on your prior visits. We do not have access to or control over these cookies, and we disclaim liability for the actions of all third-party vendors. You may opt out of Google’s use of cookies by visiting the **[Google advertising opt-out page](https://google.com/privacy_ads.html)**.
 
  **(c) Web Beacons:**
     
@@ -185,4 +199,4 @@ To the extent there is a conflict between this Privacy Policy and our [Terms of 
 
 THE SITE IS INTENDED FOR ADULTS. WE DO NOT KNOWINGLY OR INTENTIONALLY COLLECT PERSONAL INFORMATION FROM ANYONE UNDER THE AGE OF 18. IF YOU ARE UNDER THE AGE OF 18, PLEASE DO NOT PROVIDE ANY PERSONAL INFORMATION TO THE ACTION NETWORK GROUP. IF YOU KNOW OF ANYONE UNDER THE AGE OF 18 WHO HAS PROVIDED US WITH INFORMATION, PLEASE CONTACT US IMMEDIATELY AND WE WILL REMOVE THE INFORMATION. BY USING THIS SITE, YOU REPRESENT THAT YOU ARE AT LEAST 18 YEARS OF AGE.
 
-This Privacy Policy was last amended on February 8th, 2018.
+This Privacy Policy was last amended on June 27, 2018.
