@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesxl.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621040101id_/http%3A//www.gamesxl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesxl.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018161205id_/http%3A//www.gamesxl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Games XL .com
 
