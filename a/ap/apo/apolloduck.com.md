@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apolloduck.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621163226id_/http%3A//www.apolloduck.com/legal/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apolloduck.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018164828id_/https%3A//www.apolloduck.com/legal/privacy.phtml) for the most accurate reproduction.*
 
 # Boats for sale, used boats, new boat sales, free photo ads - Apollo Duck
 
@@ -24,4 +24,4 @@ It is possible to access and use Apollo Duck without the use of cookies, but som
 
 Cookies are additionally set by our advertising partner, Google. These are employed in the provision of the translation service on our sites, and in the placement of targeted banner advertising. Further information about Google's use of cookies can be obtained by clicking the 'AdChoices icon' in the top right corner of their skyscraper and banner adverts. 
 
-Copyright © 2017 Berkeley Publishing Ltd.
+Copyright © 2018 Berkeley Publishing Ltd.
