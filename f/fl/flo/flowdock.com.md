@@ -1,113 +1,185 @@
-> *The following text is extracted and transformed from the flowdock.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224104933id_/https%3A//www.flowdock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowdock.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018190915id_/http%3A//www.ca.com/privacy) for the most accurate reproduction.*
 
-# Flowdock Privacy Statement
+# Privacy Statement - CA Technologies
 
-_Last updated by the CA Legal team on December 1, 2015_
+At CA, Inc. and our global subsidiaries (“CA,” “our,” “us,” or “we”), we care about your privacy and we are committed to protecting your information.
 
-### Q: What is CA’s privacy position?
+This Privacy Statement governs personal information CA collects from customers, attendees and online visitors (“you” or “your”) in connection with your use of CA’s websites and CA’s products, applications and services (including support and education), and corporate meetings and other events (collectively, the “Services”) where we post or link to this Privacy Statement, as well as information we automatically collect from your online visits (e.g. data collected via cookies).
 
-CA is committed to respecting and protecting your privacy and wants you to feel secure when visiting our site and providing information to us. In order to provide you with relevant information, respond to your requests and increase the benefits you receive from our website, we sometimes request that you provide us with information about yourself.
+For the purposes of this Privacy Statement, “personal information” means any information that, by itself, can identify you or can be combined with other information to identify you.
 
-CA may modify or update this privacy notice at any time without prior notice. You can check the "Last Updated" date above to see when the notice was last changed. Your continued use of the website constitutes your consent to the contents of this privacy notice.
+Your continued use of the website and/or the Services indicates your acceptance of the terms and conditions of this Privacy Statement.
 
-We have prepared this Privacy Notice to inform you of the information we gather and how it is used. This Notice applies to all CA websites that display or link to this Privacy Notice. In some cases CA may request additional information in which case you will receive separate notice and will be able to review those terms at that time. You should also note that CA maintains the same privacy practices with respect to data that is collected off-line and this notice may be relied upon with respect to those methods of data collection and use. Please see our [Core Values and Code of Conduct](http://investor.ca.com/corporate-governance-document.cfm?DocumentID=4139) for more information about CA’s high standard of ethics and our commitment to the protection of your personal information.
+Please see our Code of Conduct for more information about CA’s high standard of ethics and our commitment to the protection of your personal information.
 
-### Data Transfers
+### **What personal information does CA collect about you?**
 
-Binding Corporate Rules:  
-CA, Inc. has many subsidiaries in the European Economic Area (EEA) (this is an area made up of European Union Member States and other countries in Europe who adhere to similar rules). In order for CA Technologies to do business, CA subsidiaries in the EEA need to send personal data to CA, Inc. and other subsidiaries around the world. For transfer to the US and other subsidiaries around the world we have developed a set of Binding Corporate Rules (BCRs) to ensure uniform, comprehensive data protection and privacy standards for the handling of such personal data.
+**Information You Provide**
 
-Click [here](http://ec.europa.eu/justice/data-protection/international-transfers/binding-corporate-rules/bcr_cooperation/index_en.htm) to see our listing on the European Commission’s BCR website.
+We may ask you to provide personal information when you:
 
-Model Clauses:  
-In light of the European Court of Justice decision regarding the Safe Harbor on the 6th of October, 2015, CA Technologies also uses model clauses for the transfer of personal data where CA Technologies acts as the Data Processor. Click [here](http://www.ca.com/us/legal/privacy/data-transfers.html) for more information.
-
-Safe Harbor:  
-In addition, CA Technologies continues to comply with the principles of the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland.
-
-### Q: What information does CA collect?
-
-In general, you may visit this website without identifying yourself or revealing any personal information. One of the pieces of information CA collects is domain information from your visit to customize and improve your experience on our website. The type of information we may collect includes:
-
-  * the date and time of your access
-  * the pages you have accessed
-  * the name of the Internet Service Provider and the Internet Protocol (IP) address that you use to access the Internet
+  * Purchase products or services;
+  * Register for webcasts, seminars, conferences or other events sponsored by us or a partner;
+  * Request quotes, services, product support, trials, white papers and related downloads or additional information;
+  * Join CA Communities;
+  * Register for courses or education;
+  * Subscribe to newsletters, promotional emails or other CA materials;
+  * Participate in surveys, sweepstakes or contests;
+  * Apply for a job and submit your resume/CV; or
+  * Contact us.
 
 
 
-Some of the ways in which we may collect information from you are from:
+Personal information we request may include your name, email address, home address, phone number and other contact details. If you purchase a product or service or register for courses, we may also ask you for your credit card number or billing information.
 
-  * Event registrations for webcasts, seminars, conferences, etc.
-  * Product support registration
-  * CA Communities registration
-  * Education registration
-  * Subscription to newsletters or other CA content-related notifications
-  * Product purchases or trials
-  * White paper or other downloads
-  * Sweepstakes or contests
-  * Data you provide may be aggregated with data we gain from social media tools, e.g. Twitter. For more information see "How do we use the information?"
+When we ask you to provide your personal information, we will advise you upon collection whether the provision of your personal information is mandatory. If we ask for personal information through one of our registration pages on our website, you will have the option of not providing the information, in which case you may still be able to access other portions of the website, although you may not be able to access certain programs or services.
+
+**Information from Other Sources**
+
+We may also obtain information about you from other sources and combine that with information we collect through our Services. For example, we may aggregate your personal information with information that you make publicly available on social media or third-party websites to better market our Services to you.
+
+**Information Automatically Collected**
+
+When you visit our websites, we may automatically collect information about your visit, including pages you access, links you click and actions you take in connection with CA’s Services. We may also collect certain information from your web browser, such as your device’s operating system, application software, browser type and language, Internet Service Provider, Internet Protocol (IP) address, access times and the websites you visited before and after our website(s). For more information on information that we automatically collect, please see the “How does CA use cookies and other tracking technologies?” section.
+
+### **How does CA use your personal information?**
+
+We may use your personal information for legitimate business purposes, including to:
+
+  * Provide and deliver the Services you request;
+  * Send you transaction information, including confirmations and transaction status, product and services information, updates, security alerts and support and administrative messages;
+  * Administer your account, including verifying your information;
+  * Respond to your comments and questions and provide customer support or other services;
+  * Offer Live Chat assistance to facilitate;
+  * Operate and improve our websites, products and services;
+  * Process and deliver sweepstakes and contest entries and rewards;
+  * Ask you to take part in surveys used to measure our performance and improve our products, services and customer experience;
+  * Communicate with you about new promotions and upcoming events;
+  * Provide you with information about products and services offered by CA and our selected partners;
+  * Plan and host corporate events, online forums, communities and social networks;
+  * Link or combine with other information we get from third parties, to help understand your needs, and customize our offerings and market our Services based on your needs; and
+  * Perform other functions or serve other purposes, as disclosed to you at the point of collection, or as otherwise required or allowed under applicable law.
 
 
 
-### Q: How do we use the information?
+**Legal Basis of Processing**
 
-The information we collect about you or your computer will be used for various reasons, including to:
+In order to collect, use and otherwise process your personal information, CA may rely on any of the following legal bases:
 
-  * operate our website
-  * provide customer support
-  * respond to your requests or process any transactions you have authorized
-  * verify your information
-  * send you information or contact you in relation to a CA product or service that you are using or that we believe may be of interest to you
-  * aggregate your information with data that is separately provided by you on social media and third party websites if visible to third parties
+  * CA’s legitimate interest in providing its websites and making the Services available to you, provided our interest is not outweighed by the risk of harm to your rights and freedoms.
+  * Your consent, where CA has obtained your consent to process your personal information for certain activities. You may withdraw your consent at any time by contacting [privacyhelpline@ca.com](mailto:privacyhelpline@ca.com). However, please note that your withdrawal of consent will not affect the lawfulness of any use of your personal information by CA based on your consent prior to withdrawal.
+  * To fulfill any contractual obligations, such as where you have purchased a product or service from CA. For example, we may require your contact details in order to deliver your order if you have purchased a product from us.
+  * For compliance with CA’s legal obligations where applicable laws require CA to process your personal information.
 
 
 
-When we collect information about you, such as your name or other details, it is our practice to provide you with the reason we will use it at the time you are asked for it. When we ask you to provide us with your information through a registration page or otherwise, you will have the option of not doing so, in which case you may still be able to access other portions of this website, although you may not be able to access certain programs or services.
+If you have any questions or would like more information regarding the legal basis on which we collect your personal information, please contact us at [privacyhelpline@ca.com](mailto:privacyhelpline@ca.com).
 
-In certain areas of our website, we may, where appropriate, enable you to "opt out" of certain uses of your information or elect not to receive future communications or services.
+**Retention of Data**
 
-Some CA products or services use the Google Maps APIs and as to such products or services, CA incorporates by reference the Google privacy policy located at <http://www.google.com/privacy.html>, as amended by Google from time to time.
+CA may retain your personal information data as long as is necessary to fulfill the purposes for which it was collected and in accordance with CA’s record retention policy and applicable law. CA’s Support Policy may include additional terms related to the collection of personal information or confidential data provided as part of the provision of customer support.
 
-### Q: How does CA share the information?
+**Cross-Border Data Transfers**
 
-In certain instances, we may make your information available to third parties with whom we have a relationship where that third party is providing services on our behalf. We will only provide those third parties with information that is necessary for them to perform the services and we take measures to protect your information.
+CA may transfer your personal information to other CA entities located in many different countries around the world if required for the purposes described in this Privacy Statement. This may include the transfer of your personal information to countries outside your home country, including outside the European Economic Area (EEA), which may not have the same level of protection as your home country. For example, since CA is headquartered in the United States (US), CA entities in the EEA may need to send your personal information to our servers located in the US for legitimate business purposes. In order to provide adequate protection for the transfer of your personal information, we rely on various mechanisms, including our Privacy Shield certifications, Binding Corporate Rules, EU Standard Contractual Clauses and/or the need to process your personal information in order to provide the requested products or services, as the bases for transferring your personal information. Please [click here for more information on CA’s data transfer mechanisms](https://web.archive.org/us/legal/privacy/data-transfers.html).
 
-We may also disclose the information to our business partners and/or to social media sites for marketing and other purposes which we believe may be beneficial to you.
+### **How does CA share your personal information?**
 
-CA is a global company and the information we collect may be used, stored and processed in the United States or in any other country in which CA does business. By providing the information via the website, you are consenting to the transfer of the information outside of your country to any country (including countries which may not have adequate levels of protection).
+We may share your personal information with third parties for the purposes described below.
 
-CA may disclose information it has collected about you on the website if required to do so by law or when necessary in order to protect the rights of CA or its employees.
+  * _**CA Subsidiaries.**_ We may share your personal information with our subsidiaries worldwide in order to improve our website and/or the Services and to manage our customer relationships.
+  * **_Third-Party Vendors/Service Providers._** We may rely on third-party vendors, consultants and other service providers to perform functions on our behalf and under our instructions in order to make our websites and the Services available to you. For example, we may engage third parties to provide customer support relating to our products or cloud storage services or assist CA in protecting its systems.
+  * **_Business Partners._** We may share your information with third parties with whom we do business, including in connection with your purchase of a CA product through a business partner or attendance at an event jointly hosted by CA and business partner. Depending on CA’s business model and its regional coverage, CA may not be able to provide the products or services directly to you. In those instances, CA may disclose information to its business partners for reselling, marketing and other business purposes related to your demonstrated interest in our products and services. We will only share your personal information with business partners who agree to abide by applicable laws and to protect your personal information and use it solely for the purposes specified by CA.
+  * **_Legal Obligations and Rights._** We may disclose your personal information: (i) in connection with the establishment, exercise or defense of legal claims; (ii) to comply with laws or to respond to lawful requests or legal process; (iii) for fraud or security monitoring purposes (e.g., to detect and prevent cyberattacks); (iv) to protect the rights of CA or its employees; or (v) as otherwise permitted by applicable law.
+  * **_Business Reorganization._** We may share your personal information in connection with a sale or business transaction (e.g., merger or acquisition).
 
-### Q: What are CA’s security levels for my data?
 
-CA’s intent is to strictly protect the security of your personal information; honor your choice for its intended use; and carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration or destruction. We have taken appropriate steps to safeguard and secure information we collect online, including the use of encryption when collecting or transferring sensitive data such as credit card information. However, you should always take into consideration that the internet is an open forum and that data may flow across networks with little or no security measures, and therefore such information may be accessed by people other than those you intended to access it.
 
-### Q: Can I update the information I provide to CA?
+CA may also use or share aggregate data (data from which personal information has been removed) for any purpose.
 
-You are entitled to know whether we hold information about you and, if we do (subject to certain limitations), to have access to that information, have it corrected if it is inaccurate or out of date, or ask us to delete it, if appropriate. Contact us at [PrivacyHelpLine@ca.com](mailto:PrivacyHelpLine@ca.com) for any questions or updates to your information.
+Except as described above, CA will not disclose your personal information to third parties for their own marketing purposes without your consent.
 
-### Q: What about other 3rd party links?
+**EU-US and Swiss-US Privacy Shield**
 
-This website contains links to other websites. CA is not responsible for the privacy practices or the content of such websites—however, check the links they have available and review their privacy terms to find out more.
+CA participates in and has certified its compliance with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework and is committed to subjecting all personal information received from the European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework’s applicable Principles. To learn more about the Privacy Shield program and to view CA’s certification page, please visit <https://www.privacyshield.gov/>.
 
-### Q: Does CA use any 3rd parties to advertise?
+CA is responsible for the processing of personal information that it receives under each Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. CA remains liable for onward transfers of personal information to third parties who process personal information on its behalf in a manner that is inconsistent with the Privacy Shield Principles, unless CA proves that it is not responsible for the event(s) giving rise to the damage.
 
-CA uses pixels, transparent GIF files and other methods to help manage online advertising. The GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With this technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number or email address. Visit [DoubleClick](https://www.doubleclickbygoogle.com/) for more information, including information about how to opt out of these technologies.
+CA commits to resolve complaints about our collection or use of personal information under the Privacy Shield Frameworks and we are subject to the regulatory and enforcement powers of the Federal Trade Commission with respect to Privacy Shield. CA may be required, in certain circumstances, to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-### Q: What are your practices regarding cookies and/or web beacons?
+If you have a complaint about CA’s use of your personal information under either Privacy Shield Framework, you should first contact CA at [privacyhelpline@ca.com](mailto:privacyhelpline@ca.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our US-based third party dispute resolution provider (free of charge) at [BBB EU Privacy Shield](https://www.bbb.org/EU-privacy-shield/), operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint from us or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.bbb.org/EU-privacy-shield/for-eu-consumers> for more information and to file a complaint.
 
-If You need to update or change registration information You may do so by editing Your user or organization record. To update billing information please visit our [community](https://communities.ca.com/community/ca-agile-central/ca-flowdock) page or update Your information online if available for certain Services. To discontinue the Service, please visit our [community](https://communities.ca.com/community/ca-agile-central/ca-flowdock) page, or, for some Services, You can cancel payments and delete Your account online. Please note that we may need to retain certain information for record keeping purposes and/or to complete any transactions that You began prior to requesting such change or deletion.
+If neither CA nor the Council of Better Business Bureaus resolves your complaint, you may have the possibility to engage in binding arbitration through the Privacy Shield Panel.
 
-CA uses third party advertising companies to serve ads on our behalf across the Internet. These third party companies employ cookie and web beacon (also referred to as 1x1 pixel .gifs or action tags) technology to measure and improve the effectiveness of ads for their clients. Cookies are also used to help us track usage patterns in order to improve or manage our site, to ensure the integrity of the registration process and to help provide personalized service and deliver content specific to your interests. A "cookie" is a small amount of data transferred to your browser and read by the Web server that placed it there. It works as a sort of identification card, recording your preferences and previously entered information. By using cookies, the information you previously provided can be retrieved on your next visit to the website so that your navigation time is reduced and your use of the website is simplified. Cookies are uniquely assigned to you and can only be read by a web server in the domain that issued the cookie. Web beacons may be used to deliver the cookie and to compile statistics about our website, such as how many people visited a particular page or clicked on certain links. While your particular use of the site will not be revealed and no personally identifying information will be collected, this anonymous information may be used for online preference marketing purposes, and CA’s third party advertising companies may use the information about your visit to the website(s) in order to provide ads about goods and services of interest to you. This information can include: date/time of banner ad shown, related cookie and the first three octets of the IP address. CA may share aggregated statistics about the use of the website with third parties. CA Technologies does not currently respond to the browser DNT signals on its own websites or online services, or on third-party websites or online services where CA Technologies provides advertisements, content or is otherwise able to collect information.
+### **How does CA protect your personal information?**
 
-You can set your browser to decline cookies if you prefer. If you do so, you may not be able to get the benefit of some of the features of this website or other websites that you visit.
+CA takes all reasonable steps to protect your information from loss, misuse, unauthorized access or disclosure, alteration or destruction, including through the use of encryption when collecting or transferring sensitive data such as credit card information.
 
-### Q: What if I post on your social media pages?
+[Click here](https://web.archive.org/content/dam/ca/us/files/supportingpieces/ca-information-security-practices.pdf) to learn more about how CA secures information.
 
-Portions of this website make chat rooms, forums, blogs, message boards and/or news groups available to visitors. Please remember that any information that is disclosed in these areas could be made public so exercise caution when deciding to disclose any personal information. Additional information about community and support sites can be found at our User Sites Terms on the Legal Index page.
+### **What rights and choices do you have regarding your personal information?**
 
-### Q: How do I contact you?
+**Email and Marketing**
 
-If you have any questions, concerns or comments about our privacy notice or practices, please contact us via email at [PrivacyHelpLine@ca.com](mailto:PrivacyHelpLine@ca.com) with the words "PRIVACY POLICY" in the subject line. All emails will be read promptly and an initial response will be provided to the sender within 5-7 business days. All issues raised will be investigated until completion, and all matters will be handled in compliance with local data protection requirements.
+In most instances, CA gives you options with regard to the personal information you provide, including choices with respect to marketing materials. You may manage your receipt of marketing and non-transactional communications by: (i) clicking on the “unsubscribe” link located at the bottom of CA marketing emails; or (ii) checking certain boxes on our preference center which can also be found on certain forms we use to collect personal information.
 
-Visit the [Canadian Privacy Policy](http://www.ca.com/us/legal/privacy/canada-privacy.html) page for additional information about CA Canada. Other questions regarding this Statement or the practices of this Site should be directed to CA Technologies Security Administrator by visiting our [community](https://communities.ca.com/community/ca-agile-central/ca-flowdock) page.
+**Exercising your Rights**
+
+Subject to applicable law in your jurisdiction (e.g. laws in the European Economic Area, United Kingdom and Switzerland), you may have certain rights with respect to your personal information that we are processing. These rights may include the right to access your personal data, correct inaccurate personal data, object to the processing of your personal data based on CA’s legitimate interests (e.g., direct marketing purposes), restrict or delete personal data that you have previously provided to us or to receive an electronic copy of your personal data for purposes of transmitting it to another company. Where the processing of your data is based on your consent, you have the right to withdraw your consent to data processing activities at any time, without affecting the lawfulness of processing based on consent before its withdrawal. If you would like to exercise any of these rights, please contact [privacyhelpline@ca.com](mailto:privacyhelpline@ca.com) with the words “Data Subject Rights Request” in the subject line.
+
+### **How does CA use cookies and other tracking technologies?**
+
+**Cookies**
+
+CA uses “cookies” on its websites to enable you to sign in to CA’s services and personalize your online experience. A “cookie” is a small data file stored on your hard drive. By using cookies, the information you previously provided can be retrieved on your next visit to our website(s) so that your use of the website is more efficient.
+
+Cookies are either session-based (which disappear after you close your browser) or persistent (which remain on your computer after you close your browser or turn off your computer). CA may use any of the following types of cookies:
+
+  * Required cookies are essential to core website functionality.
+  * Performance cookies collect information about website visits to improve performance, but do not collect personal information.
+  * Functional cookies track your preferences, such as your preferred language or display settings, and customize the website to you. Some of these cookies may be required cookies.
+  * Analytics cookies allow us to count page visits and traffic sources so we can measure and improve the performance of our websites and our marketing campaigns.
+  * Advertising cookies may be set through our website(s) by our advertising partners. Data may be collected by these companies that enable them to deliver customized advertisements on other websites that are relevant to your interests.
+
+
+
+**Web Beacons**
+
+CA also uses web beacons alone or in conjunction with cookies to compile information about your usage of our websites and interaction with emails from us. A web beacon is an electronic image that can be used to recognize a cookie on your computer when you view a web page or email message. Web beacons may help CA measure the effectiveness of our websites and our advertising in various ways. For example, web beacons may count the number of individual who visit a particular web page after viewing an advertisement or identify the number of individuals who opened or acted upon a marketing email message.
+
+Our third-party ad services providers may also use aggregated information collected through web beacons and cookies about your visit to the website(s) in order to deliver advertising relevant to your interests and to better understand the usage of our websites and the other sites tracked by these third parties. This Privacy Statement does not apply to, and we are not responsible for, third-party cookies, and CA encourages you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other tracking technologies.
+
+**Managing Cookie Preferences**
+
+Many web browsers are set to accept cookies by default, and only you can manage your browser settings. To may see the list of CA and selected partner cookies on our website(s) and make choices about those cookies, please [visit our Cookie Consent Tool here](http://info.evidon.com/pub_info/6457?v=1&nt=1&nw=false). In addition, the Help portion of your web browser, which is most often found on your browser’s toolbar, typically tells you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Please not that if you choose to decline cookies, you may not be able to get the benefit of some of the features of this website or other websites that you visit.
+
+**Do Not Track**
+
+Certain browsers like Internet Explorer, Firefox and Safari offer a “Do Not Track” or “DNT” option that sends a signal to websites visited by the user about the user’s browser DNT preference setting. Because uniform standards for “Do Not Track” have not been established, CA does not process or respond to “Do Not Track” signals.
+
+**Social Media Accounts**
+
+Portions of our websites make chat rooms, forums, blogs, message boards and/or news groups available to you. Please remember that any information that is disclosed in these areas could be made public so exercise caution when deciding to disclose any personal information. Also, please note that use of these portions of our website may be subject to additional terms. Additional information about community and support sites can be found at our [Terms for User Sites](https://web.archive.org/us/legal/terms-for-user-sites.html) on ca.com.
+
+In addition, CA’s website(s) may include social media features, including the Facebook “Like” button. These features may collect your IP address and identify the web page you are visiting on CA’s website and may set a cookie to enable the feature to function properly. You may be given the option by that social media site to post information about your activities on CA’s website(s) to your profile page on that social media site. Your interactions with these features are governed by the privacy policy of the company that is providing them.
+
+**Third-Party Websites**
+
+CA’s websites may contain links to other third-party websites. This Privacy Statement does not apply to, and CA is not responsible for, the privacy practices or the content of such third-party websites, including business partner websites, and their use of personal information will be governed by their own privacy policies.
+
+### **How will you be notified about changes to this Privacy Statement?**
+
+CA may modify or update this Privacy Statement at any time without prior notice. If we make any changes to this Privacy Statement, we will change the “Last Updated” date at the beginning of this Privacy Statement. If we make material changes to this Privacy Statement that may impact individual rights, CA will make prominent note of such change on its website at least one month prior to the change taking place.
+
+### **Who should you contact with inquiries?**
+
+If you have any questions, concerns or comments about this Privacy Statement or our privacy practices, please contact CA via email at [privacyhelpline@ca.com](mailto:privacyhelpline@ca.com) with the words “PRIVACY STATEMENT” in the subject line.
+
+You may also reach out by regular mail to:
+
+CA Technologies  
+520 Madison Ave  
+New York, NY 10022  
+Attention: Chief Privacy Officer
+
+EU residents may also lodge a complaint with the data protection authority in the EU member state where they live, work or where an alleged infringement of applicable data protection law occurred.
