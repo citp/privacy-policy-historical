@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the mypaper.sg privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625003400id_/http%3A//sph.com.sg/legal/sph_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypaper.sg privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018062617id_/http%3A//sph.com.sg/legal/sph_privacy.html) for the most accurate reproduction.*
 
 # SPH Privacy Policy - Singapore Press Holdings
 
-**Your privacy is important to us. The purpose of this Privacy Policy is to inform you of how Singapore Press Holdings Limited manages personal data in accordance with the Personal Data Protection Act 2012 (“the Act”). Please take a moment to read this Privacy Policy so that you know and understand the purposes for which we collect, use and disclose your Personal Data.**
+****Your privacy is important to us. The purpose of this Privacy Policy is to inform you of how Singapore Press Holdings Limited manages personal data in accordance with the Personal Data Protection Act 2012 (“the Act”). Please take a moment to read this Privacy Policy so that you know and understand the purposes for which we collect, use and disclose your Personal Data.    If you are an European Union Data Subject,  you may wish to review SPH’s [Privacy Policy Statement](https://web.archive.org/legal/sph-privacy-gdpr/) that addresses how we manage personal data in accordance with the EU General Data Protection Regulation (“GDPR”) **  
+**
 
  **By interacting with us, submitting information to us or signing up for any promotions or services offered by us, you agree and consent to Singapore Press Holdings Limited, its related corporations and affiliates, (collectively referred to herein as "SPH", "us", "we" or "our"), as well as our respective representatives collecting, using, disclosing and sharing amongst themselves your Personal Data, and disclosing such Personal Data to SPH’s authorised service providers and relevant third parties in the manner set forth in this Privacy Policy.**
 
@@ -792,7 +793,7 @@ Pages on SPH web sites may be coded with software which enables the Third Party 
 
 | 
 
-Should you wish to disable the cookies associated with these technologies, you may do so by changing the setting on your browser. However, you may not be able to enter certain part(s) of our website.  
+For more information about the cookies we use, please see our [**Cookie Policy**](https://web.archive.org/legal/cookie-policy/ "Cookie Policy").  Should you wish to disable the cookies associated with these technologies, you may do so by changing the setting on your browser. However, you may not be able to enter certain part(s) of our website..  
   
 **6**
 
