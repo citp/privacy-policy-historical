@@ -1,28 +1,8 @@
-> *The following text is extracted and transformed from the newlook.co.uk privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629001405id_/http%3A//www.newlook.com/uk/help/privacy-policy/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newlook.co.uk privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018085549id_/https%3A//www.newlook.com/uk/help/privacy-policy/security) for the most accurate reproduction.*
 
 # Security | New Look UK
 
-**Stay Web Safe! Change your New Look password regularly on the account section of our website and avoid using the same password as your online accounts with other companies.**
-
-If you’ve got any questions, comments and requests about your account security, then please use the [Contact Us](http://www.newlook.com/uk/help/contact-us#/Top) form.
-
-If you’ve got any questions, comments and requests about your account security, then please use the [Contact Us](http://www.newlook.com/uk/help/contact-us#/Top) form.
-
-For your security, any new password you create with us has to be at least 7 characters and contain a mix of letters and numbers. However, we recommend that you set a password of at least 10 characters including capital letters, lowercase letters, numbers and symbols. 
-
-To access your stored data on our sites, you’ll need to sign in with your username and password. It’s your responsibility to keep these details secret and to ensure you don’t let anyone else use your account. If you have any concerns about your sign in details or think they’ve been misused, please contact us straight away and we can put your account on hold immediately. 
-
-From time to time, we may make services provided by third parties available through our sites. To use these services, you must register with these third parties and deal with them direct. We have no control over the content of those third party sites or the performance of these services. Please note, that you use these services at your own risk and that we can't accept any responsibility for them or for any loss or damage that may arise from your use of them. Please check third parties privacy policies before you submit any personal data to these websites.
-
-We use the Verified by Visa and MasterCard SecureCode schemes to help stop unauthorised purchases with your debit or credit card.
-
-When you reach our secure checkout you can choose to register for Verified by Visa or MasterCard SecureCode. Just sign up using the on-screen prompts, create a password then continue shopping. You only have to sign up once – then you can use your password when you shop with us or with other participating online stores.
-
-For security, this password will be linked to your debit or credit card, and not your New Look account or your computer.
-
-Alternatively, you can contact your bank directly for more information. Please note, if you decide not to register, we may need to ask you for an alternative payment method to complete your purchase.
-
-In this Policy when we use the words ‘we’, ‘us’, or ‘our(s)’ we are referring to New Look Retailers Limited a company registered in England and Wales, company number 1618428, who are the data controllers. Our address is New Look House, Mercery Road, Weymouth, Dorset, UK, DT3 5HJ, for other ways to contact us see the details [here ](http://www.newlook.com/uk/help/contact-us#/Top)
+In this Policy when we use the words ‘we’, ‘us’, or ‘our(s)’ we are referring to New Look Retailers Limited a company registered in England and Wales, company number 1618428, who are the data controllers. Our address is New Look House, Mercery Road, Weymouth, Dorset, UK, DT3 5HJ, for other ways to contact us see the details [here ](https://web.archive.org/uk/help/contact-us#/Top)
 
  We take your privacy very seriously. The sections below make up our privacy policy. It sets out the rules we follow regarding how we use any personal information we collect about you and the rights you have relating to that use. We have appointed a Data Protection Officer to ensure we adhere to this Policy, they can be contacted by e-mail at [Privacy@NewLook.com](mailto:privacy@newlook.com) or by writing to the address above.
 
@@ -144,37 +124,37 @@ You have the right to ask us not to process your personal information for market
 
 We’ll try our best to process request promptly but it may take a few days for your opt-out or unsubscribe request to be changed.
 
-**Your Rights:**
+As well as the right to withdraw consent you have previously given you have a number of other rights under the data protection legislation which are set out below.
 
-As well as the right to withdraw consent you have previously given and the right to object to us processing your data on the basis of our legitimate interests you have a number of other rights under the data protection legislation which are set out below. If you wish to exercise any of these rights you should e-mail [privacy@newlook.com](mailto:privacy@newlook.com) giving sufficient information to enable us to identify you and the nature of your request.
+If you wish to exercise any of these rights, except the right of erasure, you should e-mail [privacy@newlook.com](mailto:privacy@newlook.com) giving sufficient information to enable us to identify you and the nature of your request. If you wish to exercise the right of erasure please click the link in that section.
 
-Right of access: 
+ _Right of access:  _
 
 You have the right to ask us to confirm if we are processing your data and information about what data we are processing, and why, where we got it from, how long we keep it for, who we pass it to (and if those recipients are outside the EEA the safeguards that are in place), and whether we use automated-decision making, the logic behind and consequences of such decision making. You are also entitled to a copy of the data about you that we are processing, if you are only looking for copies of specific information please let us know what this is so that we can respond quicker.
 
-Right to rectification:
+ _Right to rectification:_
 
 If information we have about you is inaccurate you have the right to have it corrected, if it is incomplete you have the right to have it completed, including by means of providing a supplementary statement.
 
-Right of erasure:
+ _Right of erasure:_
 
-You have the right to have your personal information deleted if it is no longer necessary for us to have it, if we were processing it on the basis of your consent which you have withdrawn, if you have objected to us using our legitimate interests to process it and there are no overriding legitimate grounds not to do so, or we have processed it unlawfully. If you would like to request your personal information is deleted, you can do so [here](http://www.newlook.com/uk/rtbf-form).
+You have the right to have your personal information deleted if it is no longer necessary for us to have it, if we were processing it on the basis of your consent which you have withdrawn, if you have objected to us using our legitimate interests to process it and there are no overriding legitimate grounds not to do so, or we have processed it unlawfully. If you would like to exercise your right of erasure you can do so [here](http://www.newlook.com/uk/rtbf-form).
 
-Right to restrict to processing:
+ _Right to restrict to processing:_
 
 You have the right to restrict our processing of your information If you believe that it is inaccurate or if you have objected to our processing it based on our legitimate interests, or if our processing is unlawful or we no longer need your information but you do.
 
-Right to object to processing:
+ _Right to object to processing:_
 
 You can object to us processing your information based on our legitimate interests unless we are able to demonstrate compelling legitimate grounds for doing so. You can also object to us using your information for profiling or for direct marketing purposes.
 
-Right of data portability:
+ _Right of data portability:_
 
-You have the right to a copy of your data in a commonly used machine-readable format and to ask us to pass such a copy to another orgnaisation.
+You have the right to a copy of your data in a commonly used machine-readable format and to ask us to pass such a copy to another organisation.
 
-Right to lodge a complaint with our supervisory authority:
+ _Right to lodge a complaint with our supervisory authority:_
 
-If you are unhappy about the way we have handled your data and we have been unable t resolve your complaint you have the right to lodge a complaint with the data protection supervisory authority. In the UK this is the Information Commissioner’s Office (ICO) – [www.ico.org.uk](http://www.ico.org.uk/)
+If you are unhappy about the way we have handled your data and we have been unable t resolve your complaint you have the right to lodge a complaint with the data protection supervisory authority. In the UK this is the Information Commissioner’s Office (ICO) – [www.ico.org.uk](http://www.ico.org.uk/)
 
 Our sites use up-to-date industry procedures to protect your personal information. We also protect the security of your data during transmission using Secure Sockets Layer (SSL) encryption software. We may vary this in the future if we feel you will benefit from greater security whilst using our sites.
 
@@ -194,9 +174,25 @@ We will also disclose any of your personal information to any third party where 
 
 Our sites may also contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that they have their own privacy policies and that we don’t accept any responsibility or liability for these policies. Please check these websites’ privacy policies before you submit any personal information to them.
 
-This site is operated by New Look Retailers Limited of New Look House, Mercery Road, Weymouth, Dorset, DT3 5HJ (referred to in this privacy policy as ‘we’, ‘our’ and ‘us’) registered in England and Wales under company number 1618428.  
+**Stay Web Safe! Change your New Look password regularly on the account section of our website and avoid using the same password as your online accounts with other companies.**
 
-For the purposes of data protection legislation we are the data controller for your personal data. We are registered with the Information Commissioner’s Office in the UK with reference number Z5298484.
+If you’ve got any questions, comments and requests about your account security, then please use the [Contact Us](https://web.archive.org/uk/help/contact-us#/Top) form.
+
+If you’ve got any questions, comments and requests about your account security, then please use the [Contact Us](http://www.newlook.com/uk/help/contact-us#/Top) form.
+
+For your security, any new password you create with us has to be at least 7 characters and contain a mix of letters and numbers. However, we recommend that you set a password of at least 10 characters including capital letters, lowercase letters, numbers and symbols. 
+
+To access your stored data on our sites, you’ll need to sign in with your username and password. It’s your responsibility to keep these details secret and to ensure you don’t let anyone else use your account. If you have any concerns about your sign in details or think they’ve been misused, please contact us straight away and we can put your account on hold immediately. 
+
+From time to time, we may make services provided by third parties available through our sites. To use these services, you must register with these third parties and deal with them direct. We have no control over the content of those third party sites or the performance of these services. Please note, that you use these services at your own risk and that we can't accept any responsibility for them or for any loss or damage that may arise from your use of them. Please check third parties privacy policies before you submit any personal data to these websites.
+
+We use the Verified by Visa and MasterCard SecureCode schemes to help stop unauthorised purchases with your debit or credit card.
+
+When you reach our secure checkout you can choose to register for Verified by Visa or MasterCard SecureCode. Just sign up using the on-screen prompts, create a password then continue shopping. You only have to sign up once – then you can use your password when you shop with us or with other participating online stores.
+
+For security, this password will be linked to your debit or credit card, and not your New Look account or your computer.
+
+Alternatively, you can contact your bank directly for more information. Please note, if you decide not to register, we may need to ask you for an alternative payment method to complete your purchase.
 
 The sections below make up our cookies policy. By using our websites, you consent to cookies being used in accordance with this cookies policy. This policy also explains how you can opt out of the use of cookies on our websites.
 
@@ -213,7 +209,11 @@ We don’t use cookies to collect or record information such as your name, addre
 Here’s how we use cookies:
 
   * For essential technical reasons – such as keeping track of your current shopping session and enabling you to pay for your products in checkout
-  * To distinguish you from other website users. This helps us to:                                                                                      • Remember you when you return and to personalise our website to you, such as saving your bag or remembering what you last viewed or searched for.                                                                                           • Target advertising towards you based on what you like and what you view and search for.
+  *  To distinguish you from other website users. This helps us to:   
+\- Remember you when you return and to personalise our website to you, such as saving your bag or remembering what you last viewed or searched for.   
+\- Target advertising towards you based on what you like and what you view and search for.
+
+
   * To collect statistical and analytical information about how visitors use our websites – so we can improve the way our sites work and to measure the success of our competitions and campaigns
   * To enable us to fulfil our contractual obligations to third parties – for example to pay a partner if you’ve made a purchase on one of our websites by following a link from their website.
 
