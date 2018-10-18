@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bedtimez.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618204029id_/http%3A//www.bedtimez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedtimez.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018175258id_/http%3A//www.bedtimez.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BedTimez
 
@@ -106,7 +106,7 @@ Subject to the limitations in law, you may request that we update, correct, or d
 
 Subject the limitations in law, you may be entitled to obtain the Personal Information you directly provided us (excluding data we obtained from other sources) in a structured, commonly used, and machine-readable format and may have the right to transmit such data to another party.
 
-If you wish to exercise any of the rights laid out, contact us at: info@smartadline.com. When handling these requests we may ask for additional information to confirm your identity and your request. Please note, upon request to delete your Personal Information, we may retain such data in whole or in part to comply with any applicable rule or regulation and/or response or defend against legal proceedings versus us or our affiliates.
+If you wish to exercise any of the rights laid out, contact us at: bedtimezmedia@gmail.com. When handling these requests we may ask for additional information to confirm your identity and your request. Please note, upon request to delete your Personal Information, we may retain such data in whole or in part to comply with any applicable rule or regulation and/or response or defend against legal proceedings versus us or our affiliates.
 
 To find out whether these rights apply to you and regarding other privacy related matters, you can contact your local data protection authority if you have concerns regarding your rights under local law.
 
@@ -118,4 +118,4 @@ We reserve the right to change this policy at any time, so visit this page frequ
 
 This Privacy Policy, its interpretation, and any claims and disputes related hereto, shall be governed by the laws of the State of Israel, without respect to its criminal law principles. Any and all such claims and disputes shall be brought in, and you hereby consent to them being litigated in and decided exclusively by a court of competent jurisdiction located in Tel Aviv, Israel.
 
-If you have any questions or comments concerning the Privacy Policy laid out, please feel free to email us at: info@smartadline.com and we will reply within a reasonable timeframe.
+If you have any questions or comments concerning the Privacy Policy laid out, please feel free to email us at: bedtimezmedia@gmail.com and we will reply within a reasonable timeframe.
