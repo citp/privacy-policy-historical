@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motherboards.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629005408id_/http%3A//www.channelpronetwork.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherboards.org privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018191338id_/http%3A//www.channelpronetwork.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The ChannelPro Network
 
