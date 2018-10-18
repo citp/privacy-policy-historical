@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the criver.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117070741id_/http%3A//www.criver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criver.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018142411id_/https%3A//www.criver.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Charles River Website Privacy Policy
+
+**To make an EU General Data Protection Regulation Request, please fill out[this form](https://web.archive.org/resources/eu-gdpr-data-subject-request-form).**
 
 This website (excluding linked websites) is controlled by us. All content and materials that comprise the website, including the website design, text, graphics, photographs, illustrations, images, icons and other materials, data, and information are protected by copyright under United States and international copyright laws and treaties and are our exclusive property.
 
@@ -12,11 +14,11 @@ When you browse our website, you do so anonymously, unless you have previously i
 
 This Website Privacy Policy applies only to personal information collected online from our websites.
 
-##  Information Collected – Information You Give Us
+## Information Collected – Information You Give Us
 
 On our websites, we only collect your personal information (such as your name, address, telephone number, and e-mail address) when you choose to submit it to us, and we only use it for those purposes which you approved. For example, you may register to receive additional product information or other company information, in which case your personal information will be used only for that purpose. In some cases, we remove personal identifiers from data and maintain it in aggregate form. We may combine this data with other information to produce anonymous, aggregated statistical information helpful to us in improving our products and services.
 
-##  Automatically Collected Information
+## Automatically Collected Information
 
 We automatically collect certain types of information whenever you interact with us on our websites and in some e-mails we may send each other.  Automatic technologies we use include, for example, web server logs, IP addresses, cookies, and web beacons.
 
@@ -30,17 +32,17 @@ _Web Beacons:_   On certain web pages or e-mails, we may utilize a common Inter
 
 Web beacons, cookies, and other tracking technologies do not automatically obtain personal information about you. If you voluntarily submit personal information, such as by registering or sending e-mails, then these automatic tracking technologies can be used to provide further information about your use of the websites to improve their usefulness to you.
 
-##  Your Choices
+## Your Choices
 
 You have certain options regarding your use of our websites. We may require you to provide certain personal information in order for you to receive additional product information or other company information. You could decide not to submit any personal information at all by not entering it into any forms or data fields on our websites and not using any available personalized services. Certain websites may ask for your permission for certain uses of your personal information and you can agree to or decline those uses. If you opt-in for particular services or communications, such as an e-newsletter, you will be able to unsubscribe at any time by following the instructions included in each communication. If you decide to unsubscribe from a service or communication, we will work to remove your information promptly, although we may require additional information before we can process your request.
 
 As described above, if you wish to prevent cookies from tracking you anonymously as you navigate our websites, you can reset your browser to refuse all cookies or to indicate when a cookie is being sent.  However, some portions of our websites may not work properly if you refuse cookies.
 
-##  Use of Personal Information
+## Use of Personal Information
 
 We, and/or our service providers, vendors, and other third parties we hire to perform services on our behalf, may use any personal information you choose to give us to comply with your requests, as otherwise disclosed to you in this Website Privacy Policy, or on the web page where you submit your information to us. We may refer to this information to better understand your needs and how we can improve our products and services. We also use depersonalized, aggregated information collected from our websites to help us understand trends and customer needs. For example, we may analyze the gender or age of visitors to our websites in relation to a particular product or service we offer, and we may use that analysis of aggregate data internally or share it with affiliates.
 
-##  Data Sharing and Transfer
+## Data Sharing and Transfer
 
 We may share personal information about you with various outside companies, service providers, or vendors working on our behalf to help further our business including, but not limited to, providing customer service, sending marketing communications about our products, services, and offers, and performing technological maintenance.  We may also share personal information with our affiliates.
 
@@ -58,27 +60,27 @@ _E-mail a Friend or Colleague:_ On some of our websites, you can choose to send 
 
 _Note to Users of Business or Professional Websites:_   If you have a business or professional relationship with us, we may use information you submit on our websites, including those websites intended specifically for our business and professional users, to fulfill your requests and develop our business relationship with you and the entities you represent. We may also share such information with third parties acting on our behalf.
 
-##  Links to Other Sites
+## Links to Other Sites
 
 Our websites may contain links to third party websites that may offer useful information to our visitors.  This Website Privacy Policy does not apply to third party sites, and we recommend communicating with such parties directly for information on their privacy policies.
 
-##  Privacy Statement for Children Under 18
+## Privacy Statement for Children Under 18
 
 Our websites are not intended or designed to attract children under the age of 18.  If you are under the age of 18, you must not provide your personal information. We do not collect personal information from any person we actually know is a person under the age of 18.
 
-##  Additional Information on Websites
+## Additional Information on Websites
 
 If one of our websites has particular provisions relating to privacy that differ from those stated here, those provisions will be disclosed to you on the page on which your personal information is collected.
 
-##  Notification of Policy Change
+## Notification of Policy Change
 
 This policy may be amended from time to time. If we decide to change our Website Privacy Policy, we will post those changes to this policy on our website so visitors to our websites are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information is collected.
 
-##  WEBSITE TERMS AND CONDITIONS
+## WEBSITE TERMS AND CONDITIONS
 
 By using our website, you agree to the terms and conditions set forth herein. Furthermore, you acknowledge and agree that the documents and articles contained on the website are our property and may contain our copyrighted materials, proprietary trademarks and trade names. No material from any website owned, operated, licensed or controlled by us may be copied, reproduced, republished, uploaded, posted, transmitted or distributed in any way. Commercial enterprises seeking to do business with us should not submit unsolicited confidential or proprietary information to our website. We reserve the right to use or disclose unsolicited information for any purpose. We make no representations about the content and suitability of the information in our website for any purpose. The articles, information and works provided in the website are provided "AS IS", WITHOUT ANY WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, WHETHER CONTRACTUAL OR STATUTORY INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OR OTHERWISE. We assume no liability for the use or interpretation of information contained herein. Decisions based on such information are the responsibility of visitors to our website. We are not liable for any direct, indirect, special, incidental or consequential damages arising out of the use, or the inability to use, the material on the website. If you do not agree to these terms and conditions, do not use our website.
 
-##  CONTACT INFORMATION
+## CONTACT INFORMATION
 
 If you have any questions about this Website Privacy Policy, you may contact us at:
 
@@ -97,3 +99,11 @@ Wilmington, MA  01887 
 Telephone:  781-222-6000   
 Fax:  978-988-5665  
 [websiteprivacypolicy@crl.com](mailto:websiteprivacypolicy@crl.com)
+
+Data Protection Officer – GDPR Compliance  
+Considerati DPO Services BV  
+Postbus 76949  
+1070 KE Amsterdam  
+Netherlands  
+Telephone number: +44 1875 618488  
+[DPO@crl.com](mailto:DPO@crl.com)
