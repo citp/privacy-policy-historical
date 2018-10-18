@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spacash.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701143747id_/http%3A//www.spacash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spacash.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019005834id_/http%3A//www.spacash.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SPAcash
 
