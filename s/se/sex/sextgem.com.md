@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sextgem.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104011542id_/http%3A//sextgem.com/privacy%3Fsessid%3D4rorql5gmdbvsan21t9bpg1940) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sextgem.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018160156id_/http%3A//sextgem.com/privacy) for the most accurate reproduction.*
 
-# निजता की नीति - विजुअल मोबइल साइट निर्माण टूल/वैब क्रिएटर
+# Privacy Policy - Visual mobile site building tool
 
 XTGEM Service Provider aims to ensure the protection of XTGEM website visitors’ and service users’ privacy. This privacy policy is applied only to XTGEM website.
 
@@ -21,4 +21,4 @@ XTGEM service user understands and agrees that the risks related to the submissi
 
 Also the log in name of an XTGEM service user may be shown to other XTGEM service users when the user sends or uploads information on XTGEM website and so other service users who receive this information may contact the user by writing messages or using XTGEM services.
 
-© 2017 xtgem.com 
+© 2018 xtgem.com 
