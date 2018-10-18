@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serif.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628094859id_/http%3A//www.serif.com/company/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serif.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018104708id_/http%3A//www.serif.com/company/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy – Serif
 
