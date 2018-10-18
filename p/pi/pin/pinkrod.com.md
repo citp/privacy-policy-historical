@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinkrod.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503084320id_/https%3A//pinkrod.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkrod.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018075346id_/https%3A//pinkrod.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
