@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playagame.ws privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214131600id_/http%3A//www.gamesxl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playagame.ws privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018161205id_/http%3A//www.gamesxl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Games XL .com
 
@@ -20,8 +20,7 @@ Making sure the website functions as it should function. | Recently played-, sav
 Browser techniques (to be able to play games);  
 Profile status, if you have a profile we can see if you are logged in or not;  
 Specific settings you apply, for example a theme on our Website or the position of the mobile menu button. | Website | This privacy statement.  
-Analyze user statistics and behavior to become aware of the popularity the performance and to improve Website (experience) and our services. | IP address to count unique users;  
-Browser information;  
+Analyze user statistics and behavior to become aware of the popularity the performance and to improve Website (experience) and our services. | Browser information;  
 The Operation System (Windows for example);  
 Time and duration of visit;  
 Which pages are visited on our Website; | Google Analytics | [link](https://support.google.com/analytics/answer/6004245?hl=en "Google Analytics Privacy Policy")  
@@ -47,28 +46,30 @@ If you wish to opt-out: [tools.google.com/dlpage/gaoptout/](https://tools.google
 Log in with your Facebook account on Website;  
 To facilitate a Like on Facebook if you push the LIKE button and to monitor your visit to our Website.  
 When logged in on Facebook and visiting Website, Facebook knows you've visited Website. Facebook keeps records of every website that displays the LIKE button. | For this information we refer to the privacy statement of Facebook. | Facebook | [link](https://www.facebook.com/full_data_use_policy "Facebook Privacy Policy")  
-Log in with your Google account on Website;  
-To facilitate a +1 on Google+ if you push the G+1 button. | For this information we refer to the privacy statement of Google. | Google | [link](https://www.google.com/intl/policies/policies/privacy/ "Google Privacy Policy")  
+Log in with your Google account on Website; | For this information we refer to the privacy statement of Google. | Google | [link](https://www.google.com/intl/policies/policies/privacy/ "Google Privacy Policy")  
 Log in with your Twitter account on Website. | For this information we refer to the privacy statement of Twitter. | Twitter | [link](https://twitter.com/privacy "Twitter Privacy Policy")  
 To make sure you can logon and we are able to recognize you for instance for your high scores, recently played games, favorites and Website preferences;  
 Keeping record of game rankings. | Your username and e-mail;  
-Day of birth;  
-IP address;  
 Registration and login date;  
-If you have provided these: your first and last name;  
 The same data as stated under 'Making sure the website functions as it should function'. | Website  
 We are saving this in our database (this information is not stored in a cookie). | This privacy statement.  
 Assuring that the games of our partner function as they should. It seems you're playing a game on our Website, but it is loaded from a partner website. Think of the game as a painting that is hosted elsewhere, while you see it through our Website that functions as the frame for the painting. They are given space on our Website to make it possible for you to play their game. It is up to the third party to inform you about their processing activities. That's the reason you might bump into another cookie bar. | As explained we don't exactly know which personal data third parties are processing. Nevertheless we've displayed our most important partners and their privacy statements at the right, to make sure you are informed about their processing activities. | CoolGames  
+Cloud Games  
 Famobi  
+GamePix  
 OrangeGames  
-Poki | [link](http://www.coolgames.com/en/static/privacy-policy "CoolGames Privacy Policy")  
+Poki  
+Softgames | [link](http://www.coolgames.com/en/static/privacy-policy "CoolGames Privacy Policy")  
+[link](https://cloudgames.com/privacy-policy/ "Cloud Games Privacy Policy")  
 [link](https://famobi.com/privacy-policy.php "Famobi Privacy Policy")  
-[link](http://orangegames.com/cookie-policy/ "OrangeGames Privacy Policy")  
+[link](http://www.gamepix.com/privacy-policy/ "GamePix Privacy Policy")  
+[link](http://orangegames.com/privacy-policy/ "OrangeGames Privacy Policy")  
 [link](http://poki.com/company/privacy-policy/ "Poki Privacy Policy")  
+[link](https://game.softgames.de/privacy "Softgames Privacy Policy")  
   
   2. ## Recording and processing of data
 
-By using the Website you leave behind certain personal information. In this respect a distinction can be made between (personal) data provided actively and (personal) data provided passively. Personal data provided actively are the data that you have filled in yourself on the Website. For instance, your name, email address, that you are asked to fill in when registering on the site for creating a profile. Data provided passively are the data that are stored automatically during your surfing on the Website. For instance, the IP address and the operating system of your computer, and the browser you are using. If you are logged in to the Website as a User, both actively and passively provided personal data will be stored. If you are not logged in, only passively provided personal data will be stored.
+By using the Website you leave behind certain personal information. In this respect a distinction can be made between (personal) data provided actively and (personal) data provided passively. Personal data provided actively are the data that you have filled in yourself on the Website. For instance, your name, email address, that you are asked to fill in when registering on the site for creating a profile. Data provided passively are the data that are stored automatically during your surfing on the Website. For instance, the screen resolution and the operating system of your device, and the browser you are using. If you are logged in to the Website as a User, both actively and passively provided personal data will be stored. If you are not logged in, only passively provided personal data will be stored.
 
 We will not make available the personal data linked to your profile to third parties unless we are legally obliged to do so or you have given your explicit permission to do so.  
 In the case of (suspected) fraud or abuse of our Website, we may hand over personal data to the competent authorities. Also in the event that the Website is taken over by another owner it will be necessary to provide all data to that new owner. We do work with partners which fill parts of our Website. Think of the game as a painting that is hosted elsewhere, while you see it through our Website that functions as the frame for the painting. They are given space on our Website to make it possible for you to play their game. We are not responsible for the processing activities of these third parties.
@@ -83,7 +84,7 @@ Are you the father, mother or legal representative of a child playing games on o
 
     1. ### Registration
 
-To be able to create a profile, registration is required. We store the personal information entered by you, such as your email address and day of birth.
+To be able to create a profile, registration is required. We store the personal information entered by you, such as your email address.
 
     2. ### Profile
 
@@ -103,13 +104,13 @@ We will keep the data provided by you to us actively for as long as your profile
 
 In case of abuse of the Website and a subsequent deletion, we will keep your profile information to prevent abuse in the future.
 
-In case a profile is not accessed for 2 years, we will mark the profile as inactive and remove all the profile information belonging to this profile.
+In case a profile is not accessed for 1 year, we will mark the profile as inactive and remove all the profile information belonging to this profile.
 
   5. ## Data provided passively
 
     1. ### Click behaviour and visitor data
 
-On Website, general visitor information is stored for statistical analysis with respect to the Website. General visitor information is deemed to include your IP address, the time of the visit and data sent along by a visitor's browser.
+On Website, general visitor information is stored for statistical analysis with respect to the Website. General visitor information is deemed to include the time of the visit and data sent along by a visitor's browser.
 
     2. ### Use of cookies
 
@@ -141,7 +142,7 @@ Got objections against cookies? If you want to delete cookies, you should do thi
 
     3. ### Google
 
-Our website contains advertisements that are supplied by the U.S. company Google. Use may be made of cookies and other technologies, such as Google Analytics, to track how Users use the Website. The information thus obtained, including the address of your computer (IP address), will be transmitted to, and stored by, Google on servers in the United States.
+Our website contains advertisements that are supplied by the U.S. company Google. Use may be made of cookies and other technologies, such as Google Analytics, to track how Users use the Website. The information thus obtained will be transmitted to, and stored by, Google on servers in the United States.
 
 Google uses this information to track how our Website is used, to report to us about the Website and to be able to offer its advertisers information about the effectiveness of their campaigns. Google may make available this information to third parties if Google is legally required to do so, or in as far as such third parties process the information on Google's behalf. This is beyond our control.
 
