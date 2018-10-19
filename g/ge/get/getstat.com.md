@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the getstat.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714002934id_/https%3A//getstat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getstat.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019164237id_/https%3A//getstat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - STAT Search Analytics
 
-This policy discloses the information gathering and use practices of STAT Search Analytics Incorporated (referred to as “STAT”, “we”, “us”, or “our”, below), including on our website: www.getSTAT.com (“Website”).
+This policy discloses the information gathering and use practices of Moz Holdings Canada Incorporated (referred to as “STAT”, “we”, “us”, or “our”, below), including on our website: www.getSTAT.com (“Website”).
 
 We’re all about respecting and protecting your privacy. (Kind of like Vegas, what happens on our website, stays on our website.) We also aim to be as transparent as possible about how we collect, use, and disclose your personal information, so please, familiarize yourself with this Policy. By visiting the Website or otherwise using any STAT online service, you consent to the collection, use, and disclosure of your personal information in accordance with this Privacy and Security Policy.
 
 “What?! You want my personal information?” Don’t worry — it’s not too personal. For the purpose of this Policy, “personal information” means information about an identifiable individual, but excludes the name, title or business address or telephone number of an employee or volunteer of an organization (if this exclusion is applicable in your jurisdiction). We won’t collect, use, or disclose your personal information in a way that is incompatible with this Policy. Because that’s just shady.
 
-**Last Modified: September 27, 2016**
+**Last Modified: October 15, 2018**
 
 #### 1\. THE INFORMATION WE COLLECT AND HOW IT’S USED
 
@@ -49,9 +49,11 @@ We collect personal information only when you voluntarily provide it, either exp
 
 As the great philosopher Fleetwood Mac once said, “you can go your own way”. If you ever change your mind and want to revoke consent for us to use your personal information or opt-out of receiving communication from STAT, you can contact us at [contact@getSTAT.com](mailto:contact@getSTAT.com) or click “Unsubscribe” or “Update Email Preferences” at the bottom of the email. Although, we’ll be sad to see you go. Note that there may be legal or contractual restrictions with respect to revoking consent, including that we may not be able to provide you with services in the future. If this is the case, we’ll inform you of the implications of withdrawing consent when the request is made.
 
-#### 3\. UPDATING YOUR PERSONAL INFORMATION
+#### 3\. UPDATING, ACCESSING, OR DELETING YOUR PERSONAL INFORMATION
 
-If you happened to change your name and are now going by your alias, or if any other information changes, you can always update or change your personal information anytime by sending an email to [contact@getSTAT.com](mailto:contact@getSTAT.com).
+You’ve got control over the information we have on you in our database. You may update your name or any other information at any time. Or if you’d like to inquire about what information we have on you or would like to be deleted from our database altogether, we’re happy to comply.
+
+For any of these requests, simply send an email to [contact@getSTAT.com](mailto:contact@getSTAT.com) with the subject line “Personal information” and we’ll get back to you within two business days.
 
 #### 4\. PROTECTING YOUR PERSONAL INFORMATION
 
@@ -73,8 +75,8 @@ Just like pretty much every other website out there, our Website contains links 
 
 If you have any questions about this Policy, your interaction with the Website, or if you have reason to believe that we may have failed to adhere to this Policy, feel free to contact us:
 
-Attn: Privacy at STAT Search Analytics  
+Attn: Privacy at STAT  
 704 Alexander Street  
 Vancouver, BC V6A 1E3  
 Canada  
-[contact@getSTAT.com](mailto:contact@getstat.com).
+[contact@getSTAT.com](mailto:contact@getstat.com)
