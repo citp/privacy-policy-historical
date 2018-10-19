@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the preyproject.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619142929id_/https%3A//www.preyproject.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preyproject.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020010922id_/https%3A//preyproject.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Prey
+# Privacy Policy | Prey
 
 ### PRIVACY POLICY SUMMARY
 
@@ -58,8 +58,6 @@ We use Crashlytics and Bugsnag to obtain an anonymized record of the errors and 
 
 We use Facebook’s Pixel to obtain information about visits to our website and track our ads. Cookies are used to obtain this information, which require your prior consent. Facebook fully complies with the GDPR. 
 
-We use Hubspot as a platform to administer the commercial information of our clients. We send to them the information you fill in the document download forms of our website or those you use to obtain commercial information. This information is intended solely for our exclusive use. In addition, we use Hubspot as a cookie, but it requires your express consent to send to us anonymous demographic data, hardware/software information, localization, interaction with the website and your IP address.
-
 We use Helpscout as a customer service platform. We do not send more information other than that provided in the support tickets, which is intended only for our exclusive use.
 
 We use Braintree to manage payment for our PRO services. Your payment information is sent encrypted and secured under the strictest market standards. Braintree complies with the GDPR.
@@ -110,7 +108,7 @@ The herein Privacy Policy became enforceable on May 25th, 2018. We will keep you
 
 Any change to this policy or to the way we provide our service in a way that alters or limits your current rights will be properly notified to you through the user panel and it will require your express consent. Minor modifications that don’t alter neither your rights or privacy expectations will be uploaded automatically to our website.
 
-A transparent relationship with our clients is of the utmost importance to us; your data and devices are safe with us. You can check our previous privacy policies [here.](http://web.archive.org/web/20180128041032/https:/www.preyproject.com/privacy)
+A transparent relationship with our clients is of the utmost importance to us; your data and devices are safe with us.
 
 ### COOKIES
 
@@ -118,33 +116,29 @@ Our website, including the user panel of PREY ANTI-THEFT, uses third-party cooki
 
 Following the California Online Privacy Protection Act (CalOPPA) and given that there is no existing standard governing the Do Not Track signals, we do not comply with these requests nor can we ensure third-party cookies in our website will. 
 
-Third-party cookies on our website and panel include Hotjar, Google Analytics, Google Adwords, Kissmetrics, Facebook’s Pixel and Hubspot. All of them require your express consent.
+Third-party cookies on our website and panel include Hotjar, Google Analytics, Google Adwords, Kissmetrics and Facebook’s Pixel. All of them require your express consent.
 
-Cookie | Description | Duration  
+Cookie| Description| Duration  
 ---|---|---  
-_uvc, _uvs* | The uvc cookie is one of the cookies used to track usage of the Addthis.com service. It allows a user to share a webpage with many social sites.  | Decided by AddThis  
-_ga* | Google Analytics cookies, used to distinguish user sessions. [Read more](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage) | Decided by Google  
-_utm* | Google Analytics cookies, used to distinguish users and sessions [Read more](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage) | Decided by Google  
-_utmx* | Google Analytics cookies, used for Content Experiments and A/B Testing purposes [Read more](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage) | 18 months  
-_dc_gtm_* | Google Tag Manager Cookie. Set to help identify visitors by age, gender, or interests by DoubleClick [Read more](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage) | Decided by Google  
-_cfduid |  CloudFare Cookie. This cookie is used to identify individual clients behind a shared IP address and apply security settings on a per-client basis [Read more](https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-Cloudflare-cfduid-cookie-do-) | Decided by Hotjar  
-_hjDonePolls   
-_hjMinimizedPolls   
-_hjDoneTestersWidgets   
-_hjMinimizedTestersWidgets   
-_hjIncludedInSample  | Hotjar cookie. This session cookie is set to let Hotjar know that visitor interacts with polls, surveys, feedback polls, forms and to generate funnels. [Read more](https://www.hotjar.com/legal/policies/cookie-information) | Decided by Hotjar  
-__hs*   
-hubspotutk   
-hsPagesViewedThisSession   
-hsfirstvisit  | Cookie set by HubSpot to keep track of visitors on www.preyproject.com, not on panel.preyproject.com [Read more](https://knowledge.hubspot.com/articles/kcs_article/reports/what-cookies-does-hubspot-set-in-a-visitor-s-browser) | Decided by HubSpot  
-km_ai   
-km_vs   
-kvcd   
-km_lv  | Cookies set by Kissmetrics to collect information about how visitors use our site. [Read More](http://www.kissmetrics.com/user-privacy) | Decided by Kissmetrics  
-lang | Prey cookie, used to know the user selected language. |   
-lang_exist | Prey cookie, used to know if the user has a selected language. |   
-layout | Prey cookie, used to set the layout of the Prey control panel. |   
-policy_rule_cookie | Prey cookie, used to check if the user has accepted the policies. |   
-_prey_session   
-rack.session   
-_mkra_ctxt  | Prey cookie, used to keep the user's session alive. | 
+_uvc, _uvs*| The uvc cookie is one of the cookies used to track usage of the Addthis.com service. It allows a user to share a webpage with many social sites.| Decided by AddThis  
+_ga*| Google Analytics cookies, used to distinguish user sessions.[Read more](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage)| Decided by Google  
+_utm*| Google Analytics cookies, used to distinguish users and sessions[Read more](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage)| Decided by Google  
+_utmx*| Google Analytics cookies, used for Content Experiments and A/B Testing purposes[Read more](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage)| 18 months  
+_dc_gtm_*| Google Tag Manager Cookie. Set to help identify visitors by age, gender, or interests by DoubleClick[Read more](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage)| Decided by Google  
+_cfduid|  CloudFare Cookie. This cookie is used to identify individual clients behind a shared IP address and apply security settings on a per-client basis[Read more](https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-Cloudflare-cfduid-cookie-do-)| Decided by Hotjar  
+_hjDonePolls  
+_hjMinimizedPolls  
+_hjDoneTestersWidgets  
+_hjMinimizedTestersWidgets  
+_hjIncludedInSample| Hotjar cookie. This session cookie is set to let Hotjar know that visitor interacts with polls, surveys, feedback polls, forms and to generate funnels.[Read more](https://www.hotjar.com/legal/policies/cookie-information)| Decided by Hotjar  
+km_ai  
+km_vs  
+kvcd  
+km_lv| Cookies set by Kissmetrics to collect information about how visitors use our site.[Read More](https://www.kissmetrics.com/user-privacy)| Decided by Kissmetrics  
+lang| Prey cookie, used to know the user selected language.|   
+lang_exist| Prey cookie, used to know if the user has a selected language.|   
+layout| Prey cookie, used to set the layout of the Prey control panel.|   
+policy_rule_cookie| Prey cookie, used to check if the user has accepted the policies.|   
+_prey_session  
+rack.session  
+_mkra_ctxt| Prey cookie, used to keep the user's session alive.| 
