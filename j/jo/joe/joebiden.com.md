@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joebiden.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906024952id_/https%3A//americanpossibilities.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joebiden.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019143613id_/https%3A//americanpossibilities.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - American Possibilities
 
@@ -79,7 +79,7 @@ For more information about Internet-based ads, or to opt out of having your web 
 
 ### **Cookies**
 
-Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Removing or rejecting browser cookies does not necessarily affect third party flash cookies that may be used in connection with our Site. To delete or disable flash cookies please visit [www.adobe.com/products/flashplayer/security](http://www.adobe.com/products/flashplayer/security) for more information. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Site.
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Removing or rejecting browser cookies does not necessarily affect third party flash cookies that may be used in connection with our Site. To delete or disable flash cookies please visit [www.adobe.com/products/flashplayer/security](https://www.adobe.com/products/flashplayer/security) for more information. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Site.
 
 ### **Promotional Communications**
 
