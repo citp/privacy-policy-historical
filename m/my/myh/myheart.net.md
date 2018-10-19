@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myheart.net privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423210950id_/http%3A//myheart.net/terms-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myheart.net privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019183143id_/https%3A//myheart.net/terms-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy myheart.net
 
@@ -6,7 +6,7 @@
 
 MyHeart is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with MyHeart of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
 
-**_THEREFORE_** , this Privacy Policy Agreement shall apply to MyHeart , and thus it shall govern any and all data collection and usage thereof. Through the use of http://myheart.net you are herein consenting to the following data procedures expressed within this agreement.
+**_THEREFORE_** , this Privacy Policy Agreement shall apply to MyHeart , and thus it shall govern any and all data collection and usage thereof. Through the use of https://myheart.net you are herein consenting to the following data procedures expressed within this agreement.
 
 **Collection of Information**
 
@@ -22,7 +22,7 @@ It is highly recommended and suggested that you review the privacy policies and 
 
 **Use of Information Collected**
 
-MyHeart may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information as a means to keep you informed of other possible products and/or services that may be available to you from http://myheart.net . MyHeart may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or potential future services that may be offered.
+MyHeart may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information as a means to keep you informed of other possible products and/or services that may be available to you from https://myheart.net . MyHeart may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or potential future services that may be offered.
 
 MyHeart does not now, nor will it in the future, sell, rent or lease any of our customer lists and/or names to any third parties.
 
@@ -36,7 +36,7 @@ MyHeart may disclose your personal information, without prior notice to you, onl
   * Maintain, safeguard and/or preserve all the rights and/or property of MyHeart; and
 
 
-  * Perform under demanding conditions in an effort to safeguard the personal safety of users of http://myheart.net and/or the general public.
+  * Perform under demanding conditions in an effort to safeguard the personal safety of users of https://myheart.net and/or the general public.
 
 
 
@@ -60,7 +60,7 @@ The company also uses Secure Socket Layer (SSL) for authentication and private c
 
 **Changes to Privacy Policy Agreement**
 
-MyHeart reserves the right to update and/or change the terms of our privacy policy, and as such we will post those change to our website homepage at http://myheart.net, so that our users and/or visitors are always aware of the type of information we collect, how it will be used, and under what circumstances, if any, we may disclose such information. If at any point in time MyHeart decides to make use of any personally identifiable information on file, in a manner vastly different from that which was stated when this information was initially collected, the user or users shall be promptly notified by email. Users at that time shall have the option as to whether or not to permit the use of their information in this separate manner.
+MyHeart reserves the right to update and/or change the terms of our privacy policy, and as such we will post those change to our website homepage at https://myheart.net, so that our users and/or visitors are always aware of the type of information we collect, how it will be used, and under what circumstances, if any, we may disclose such information. If at any point in time MyHeart decides to make use of any personally identifiable information on file, in a manner vastly different from that which was stated when this information was initially collected, the user or users shall be promptly notified by email. Users at that time shall have the option as to whether or not to permit the use of their information in this separate manner.
 
 **Acceptance of Terms**
 
