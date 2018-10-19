@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the hiusa.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606224758id_/https%3A//www.hiusa.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiusa.org privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019140649id_/https%3A//www.hiusa.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Hostelling International USA Privacy Policy | HI USA
 
 This document outlines Hostelling International USA's (HI-USA) online privacy policy, which governs personal information gathered on the national web site www.hiusa.org and its aliases.
 
 **HI USA Commitment to Online Security**  
-Physical, electronic and managerial procedures have been employed to safeguard the security and integrity of personal information. Billing information is encrypted whenever transmitted or received online. Personal information is accessible only by staff or volunteers designated to handle online enquiries, purchases or complaints. All HI USA agents and contractors with access to personal information obtained on the HI USA web site are also bound to adhere to this policy. 
+Physical, electronic and managerial procedures have been employed to safeguard the security and integrity of personal information. Billing information is encrypted whenever transmitted or received online. Personal information is accessible only by staff or volunteers designated to handle online enquiries, purchases or complaints. All HI USA agents and contractors with access to personal information obtained on the HI USA web site are also bound to adhere to this policy.
 
 **Personal Information that HI USA May Collect Online**  
 When an individual makes a purchase or places a reservation with HI USA online, HI USA may collect the following types of personal information: name, age, postal and e-mail addresses, telephone numbers, facsimile numbers and billing information. HI USA may also collect other demographic or psychographic information through member surveys and program participation with their consent.
@@ -18,7 +18,7 @@ In order to process an enquiry, transaction or complaint, HI USA may send inform
 
 HI USA may also release personal information to appropriate governmental authorities under the following circumstances: 
 
-  * Where release is required by law (for example, a subpoena) or regulation, or is requested by a government agency conducting investigations or proceedings; 
+  * Where release is required by law (for example, a subpoena) or regulation, or is requested by a government agency conducting investigations or proceedings;
   * Where our records indicate a member or participant may be engaged in fraudulent activity or other deceptive practices that a governmental agency should be made aware of.
   * Where your communication suggests possible harm to others.
 
