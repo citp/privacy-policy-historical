@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentboard.ca privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119152001id_/https%3A//www.rentboard.ca/company/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentboard.ca privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019223411id_/https%3A//www.rentboard.ca/company/privacy_policy.aspx) for the most accurate reproduction.*
 
 # The Rent Board of Canada | Privacy Policy
 
