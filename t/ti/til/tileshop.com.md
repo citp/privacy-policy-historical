@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tileshop.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172114id_/https%3A//www.tileshop.com/category/customer%2Bservice/privacy-policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tileshop.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019172418id_/https%3A//www.tileshop.com/category/customer%2Bservice/privacy-policy.do) for the most accurate reproduction.*
 
 # Privacy Policy - The Tile Shop
 
