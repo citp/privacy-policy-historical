@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the narconon.org privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309132819id_/http%3A//www.narconon.org/online-privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narconon.org privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019202543id_/https%3A//www.narconon.org/online-privacy-notice.html) for the most accurate reproduction.*
 
 # Narconon Privacy Policy
 
@@ -14,11 +14,11 @@ We may change this Privacy Notice from time to time. If we make changes, we will
 
 ## Notice of Privacy Practices – Health Information
 
-Certain protected health information that may be provided by you is protected as described in our [Notice of Privacy Practices](https://web.archive.org/web/20180309132819id_/http%3A//www.narconon.org/notice-of-privacy-practices.html). In the event of a conflict between the terms of this Privacy Notice and the terms of the Notice of Privacy Practices, the terms of the Notice of Privacy Practices shall control. 
+Certain protected health information that may be provided by you is protected as described in our [Notice of Privacy Practices](https://web.archive.org/web/20181019202543id_/https%3A//www.narconon.org/notice-of-privacy-practices.html). In the event of a conflict between the terms of this Privacy Notice and the terms of the Notice of Privacy Practices, the terms of the Notice of Privacy Practices shall control. 
 
 ## Use of Website
 
-Your access to and use of this website are subject to certain terms and conditions, which are set forth in our [Terms of Use](https://web.archive.org/web/20180309132819id_/http%3A//www.narconon.org/terms-of-use.html).
+Your access to and use of this website are subject to certain terms and conditions, which are set forth in our [Terms of Use](https://web.archive.org/web/20181019202543id_/https%3A//www.narconon.org/terms-of-use.html).
 
 ## Collection of Information
 
