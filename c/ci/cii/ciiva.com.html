@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ciiva.com privacy policy that was archived on 2016-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161129071900id_/https%3A//ciiva.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ciiva.com privacy policy that was archived on 2018-10-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181019130134id_/https%3A//ciiva.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head prefix="og: http://ogp.me/ns#; dcterms: http://purl.org/dc/terms/#">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,9 +19,9 @@
     <meta name="dcterms:identifier" content="https://ciiva.com/privacy-policy">
     <meta name="dcterms:publisher" content="Ciiva">
     <meta name="dcterms:language" content="en">
-    <meta name="robots" content="noodp,noydir">
+        <meta name="robots" content="noodp,noydir">
         <link rel="canonical" href="https://ciiva.com/privacy-policy">
-        <link href="/Content/css?v=fmOYOwY_emfdbT0A84LrlR6pyxPPEoMZ3o6aPyQqLEY1" rel="stylesheet">
+        <link href="/Content/css?v=ym64z4F8n1YiP9DX55SZ18yUSHtNWdXM96FyJynqjnE1" rel="stylesheet">
         <style>
             .site-header .user-control li {
                 margin-bottom: 5px;
@@ -31,7 +31,7 @@
     
         <!--[if (lt IE 9) & (!IEMobile)]>
         <script type="text/javascript" src="theme/js/lib/html5.js"></script>
-        <![endif]-->        
+        <![endif]-->
     
 <script src="https://script.crazyegg.com/pages/scripts/0021/8237.js?439032" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script type="text/javascript">
@@ -64,11 +64,11 @@
 
         // Track read time
         var readtimeCounter = 0;
-        var readtimeDelay = 20000;
+        var readtimeDelay = 30000;
         function readtimeFunc() {
-            if (readtimeCounter < 15) { readtimeDelay = 20000; }
-            else if (readtimeCounter < 15 + 55) { readtimeDelay = 60000; }
-            else if (readtimeCounter < 15 + 55 + 48) { readtimeDelay = 300000; }
+            if (readtimeCounter < 10) { readtimeDelay = 30000; }
+            else if (readtimeCounter < 10 + 12) { readtimeDelay = 5 * 60000; }
+            else if (readtimeCounter < 10 + 12 + 18) { readtimeDelay = 20 * 60000; }
             else { return; }
             readtimeCounter++;
             var tos = '' + readtimeCounter + '-' + (readtimeDelay / 1000);
@@ -78,13 +78,25 @@
         (function (tos) {
             setTimeout(readtimeFunc, readtimeDelay);
         })();
+
+        function sendEventTracking(eventCategory, label, control) {
+            if (typeof control !== "undefined") {
+                window.pageTracker ? pageTracker._trackEvent(eventCategory, 'event', label, 1, true) : ga('send', { hitType: 'event', eventCategory: eventCategory, eventAction: 'click', eventLabel: label });
+                window.location.href = $(control).attr('href');
+            }
+            else {
+                window.pageTracker ? pageTracker._trackEvent(eventCategory, 'event', label, 1, true) : ga('send', { hitType: 'event', eventCategory: eventCategory, eventAction: 'click', eventLabel: label });
+            }
+            return false;
+        }
     </script>
     <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
     <script src="/bundles/StateAbbreviation?v=VrZr8soniapIF5esuuc2R0nSd-gG5Hz_tLHtS7CDDkg1"></script>
 
+    <script type="text/javascript" src="//cdn.bizible.com/scripts/bizible.js" async=""></script>
 </head>
 <body class="page page-buy not-logged-in">
-        <input type="hidden" id="forgeryToken" value="gFcN-WbeZ2Vj9x_ZiGTmo4SuRjUXeCYOJHJ_z7wpSuZe6tqiI1Ttiwtrh-M-8hqSb8GS2svK-373nfAvlMaMjl7bcwNS5yheUMuF4_C-M1ODqPIWgpsZ81DvAmK-ln1TDrqYBg2,c1YAyx3udEn5s-T5_IpP5ib-UM5Zapg_vYLaJNmgAhCIDyAN5zT4Rjdwh2-dU1kinZHgorY9YW7XQPqVidqFqw4OV8QlSeWvVQXDBvM_UsCLeUcGFcDl3w71ZHVzz6nU9L0Phg2">
+        <input type="hidden" id="forgeryToken" value="ze41tgxnLKt2NeFufMHrWjUzINvjqPfHKZH11zfl4M-rByD6ImJd4pl0T2POs3K8DKUAHxXJFJY6ecF4aHjiX8WPap7g-Wxq01sK4xGhkjamlUdxmBqoInuZSoUHsMep_SOAxQ2,0H2rnTrxID7UA0C7Jvlf2khpSo3W8Z6KMU3_Lu-_ICZiHa3Q1TcsX_J6vp_Im3w8vNAX9TE6Jj1Q5faA9PZZis82querJREXQPPORvUYBu83jhud04NxyTM-qBfStKGyH-sPeQ2">
     
 <script type="text/javascript">
     _atrk_opts = { atrk_acct: "FbrYh1aon800MW", domain: "ciiva.com", dynamic: true };
@@ -241,7 +253,6 @@
                                 <option value="43">Cook Islands</option>
                                 <option value="48">Costa Rica</option>
                                 <option value="95">Croatia</option>
-                                <option value="51">Cuba</option>
                                 <option value="54">Cyprus</option>
                                 <option value="55">Czech Republic</option>
                                 <option value="58">Denmark</option>
@@ -288,7 +299,6 @@
                                 <option value="105">Iceland</option>
                                 <option value="101">India</option>
                                 <option value="98">Indonesia</option>
-                                <option value="104">Iran</option>
                                 <option value="103">Iraq</option>
                                 <option value="99">Ireland</option>
                                 <option value="100">Israel</option>
@@ -346,7 +356,6 @@
                                 <option value="157">Nigeria</option>
                                 <option value="164">Niue</option>
                                 <option value="156">Norfolk Island</option>
-                                <option value="116">North Korea</option>
                                 <option value="142">Northern Mariana Islands</option>
                                 <option value="160">Norway</option>
                                 <option value="166">Oman</option>
@@ -396,7 +405,6 @@
                                 <option value="203">Swaziland</option>
                                 <option value="189">Sweden</option>
                                 <option value="41">Switzerland</option>
-                                <option value="202">Syria</option>
                                 <option value="218">Taiwan</option>
                                 <option value="209">Tajikistan</option>
                                 <option value="219">Tanzania</option>
@@ -610,17 +618,41 @@
         }
     }
 
-    function SetCreateSource(value) {
+    function SetCreateSource(value, createfrom) {
+        //0:Home, 1: Vault Price, 2: Header No SearchBox, 3: Home Menu
+
         $('#create_source').val(value);
         if (value == 1) {
+
+            if (createfrom == 0)
+                sendEventTracking('trail-button', 'home-search');
+
+            if (createfrom == 1)
+                sendEventTracking('trail-button', 'price-search');
+
             rawURL = "/smart-parts/start-search";
         }
 
         if (value == 2) {
+            if (createfrom == 0)
+                sendEventTracking('trail-button', 'home-analysis');
+
+            if (createfrom == 1)
+                sendEventTracking('trail-button', 'price-analysis');
+
+            if (createfrom == 2)
+                sendEventTracking('trail-button', 'top-bar');
+
             rawURL = "/smart-parts/start-analysis";
         }
 
         if (value == 3) {
+            if (createfrom == 0)
+                sendEventTracking('trail-button', 'home-management');
+
+            if (createfrom == 1)
+                sendEventTracking('trail-button', 'price-management ');
+
             rawURL = "/smart-parts/start-management";
         }
         return false;
@@ -740,7 +772,8 @@
                         City: $('#txtCity').val(), PostalCode: $('#txtPostalCode').val(),
                         Company: $('#txtCompany').val(), Phone: $('#txtPhone').val(),
                         Electrical_Engineers__c: $('#txtEngineeringTeam').val(), LeadSource: "Ciiva Form", LeadSourceDetails__c: "Ciiva Smart", product_Interests_dummy_value: "Ciiva - Smart Parts",
-                        JobFunction: $('#txtJobFunction').val()
+                        JobFunction: $('#txtJobFunction').val(),
+                        Opt_In__c: "yes"
                     });
 
                 } else {
@@ -795,7 +828,7 @@
             <ul>               
                     <li><a class="popup-btn" href="#popup-sign-in-account">Sign In</a></li>
                     <li><a class="popup-btn" id="a_popup_create_ciiva_account" href="#popup-create-ciiva-account">Sign Up</a></li>
-                    <li class="link-free-trial"><a class="popup-btn" id="a_popup_create_free_account" onclick="SetCreateSource(2)" href="#popup-create-free-account">Free Trial</a></li>
+                    <li class="link-free-trial"><a class="popup-btn" id="a_popup_create_free_account" onclick="SetCreateSource(2,2)" href="#popup-create-free-account">Free Trial</a></li>
             </ul>
         </div>
     </div>
@@ -803,28 +836,333 @@
             
             
 
+<style>
+    .privacy-policy h3:first-child {
+        margin-top: 0;
+    }
+
+    .privacy-policy h3, .privacy-policy h3 {
+        margin-top: 46px;
+    }
+
+    .privacy-policy h3, .privacy-policy h4, .privacy-policy h5, .privacy-policy h3, .privacy-policy h4, .privacy-policy h5 {
+        color: #1c1a1d;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .rtecenter {
+        text-align: center;
+    }
+
+    h3 {
+        font-size: 18px !important;
+        font-family: 'dinpromedium';
+        text-transform: uppercase;
+    }
+
+    .privacy-policy .contents {
+        margin-top: 40px;
+    }
+
+    .privacy-policy .contents {
+        margin-top: 20px;
+        padding: 25px 30px;
+        background-color: #f5f5f5;
+        border-radius: 4px;
+        border: 1px solid #e8e8e8;
+    }
+
+    .privacy-policy p {
+        font-size: 15px;
+    }
+
+    .privacy-policy p {
+        margin: 0 0 10px;
+    }
+
+    .privacy-policy h3 a, .privacy-policy h4 a, .privacy-policy .contents a, .privacy-policy h3 a, .privacy-policy .contents a {
+        color: #1c1a1d;
+    }
+
+    .privacy-policy ul li, .privacy-policy ul li {
+        margin-bottom: 10px;
+        margin-left: 70px !important;
+    }
+
+    .privacy-policy b, .privacy-policy strong {
+        font-weight:  bold !important;
+    }
+</style>
+
 <div class="content-wrapper site-container">
-    <div class="b-text">
-      <section class="text-section">
-        <p><strong>Ciiva is committed to ensuring that all the identifying details you provide to us remain reasonably secure. The following privacy policy discloses the information practices for Ciiva websites, including the type of information gathered, how the information is used internally and Ciiva’s</strong></p>
-      </section>
-      <section class="text-section">
-        <h2>How We Use The Information</h2>
-        <p>Ciiva services its customers through a number of regional sales centers and Value Added Resellers (VARs) worldwide. Ciiva, via our sales and VAR network, uses the information you give us for the purposes of processing your orders, delivering the goods to you and providing you with any support and information you may require. Such information includes your name, address, date of purchase and financial details provided by you in connection with such purchase. Ciiva may also use your email address to send you emails about your order and with your consent, emails regarding news, special product and service offers.</p>
-        <p>Ciiva may use the information you provide for internal reviews and analysis and may also use it to produce certain consolidated statistics about sales and use of our website, products and services. For example, this information may be used to encourage more engineers to use our products and services. However, we will not disclose your individual information to any third party except in so far as it is necessary to fulfill your order and will not sell, trade or rent that information for marketing purposes. Please note that Ciiva may collect and share aggregate information on end users' use of its products and services but in no event would such aggregated information be tied to the personal information of any particular user. If we need to disclose any information to conform to any laws or legal process we will do so in a manner so as to provide the maximum amount of protection legally possible for such information.</p>
-      </section>
-      <section class="text-section">
-        <h2>Consent and Modification</h2>
-        <p>By giving your personal information when you open an account or at any other time, you are consenting to our use of this information in accordance with the principles outlined in this Privacy Policy. If at any time we change the Privacy Policy we will post those changes on the website so that you are kept fully informed. If at any time it is necessary for you to change the personal information that you have provided to Ciiva, you may do so by contacting Ciiva at
-          <a href="http://ciiva.com">www.ciiva.com</a>.</p>
-      </section>
-      <section class="text-section">
-        <h2>Cookies</h2>
-        <p>"Cookies" are small files that are stored on your computer’s hard drive by your browser. While using the website via our product or other means such as a web browser, we may use a cookie to hold various information. This may include a unique reference number used for various purposes, such as giving you access to a members-only area of the Ciivawebsite. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, some sites may not function properly.</p>
-        <p>The Software Activation process can contain hardware information such as the MAC address of your NIC controller on your computer, which is submitted by our product after receiving your consent. This information may be stored in cookies during the Activation process.</p>
-      </section>
+    <div class="privacy-policy">
+        <h3 class="rtecenter">Altium LLC</h3>
+
+        <p class="rtecenter">Status: 11 May 2018</p>
+
+        <p>&nbsp;</p>
+
+        <p class="rtecenter"><strong>Short Version</strong></p>
+
+        <p>At Altium, we take privacy and the protection of your Personal Data seriously.</p>
+
+        <p>Personal Data means information that can directly or indirectly identify you or other individuals (“Personal Data”). This typically includes information such as your surname, name, name suffix, date of birth, address, email address, telephone number, date of purchase and financial details provided by you in connection with your purchase. Personal Data can also include other information such as your IP address and your shopping habits.</p>
+
+        <p>The categories of Personal Data that we process depends on how you use our services. We use your Personal Data to provide our website services in alignment with your preferences, to deal with your requests, to contact you regarding tailored products and services which may be of interest to you, or to carry out relevant administrative services. All Personal Data is processed in accordance with applicable data protection laws.</p>
+
+        <p>We do not disclose your Personal Data to any third party except to our affiliates and to data processors that assist us with providing our services. With your consent we use cookies for marketing, performance and statistical purposes.</p>
+
+        <p>As our valid customer, we also offer you various choices to control how your Personal Data is used.</p>
+
+        <p>If you would like to receive more information about the processing of your Personal Data by us and on the cookies that we use, please see the extended version of this Privacy Policy below, as well as our <a href="https://ciiva.com/cookie-policy">Cookie Policy</a>.</p>
+
+        <p>&nbsp;</p>
+
+        <p class="rtecenter"><strong>Extended version</strong></p>
+
+        <div class="contents">
+            <h3>Content</h3>
+
+            <p><a href="#_Toc513038028">1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Privacy Principles</a></p>
+
+            <p><a href="#_Toc513038029">2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Privacy Policy</a></p>
+
+            <p><a href="#_Toc513038030">2.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who is Responsible for what happens with your data?</a></p>
+
+            <p><a href="#_Toc513038031">2.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who is Altium’s Data Protection Officer?</a></p>
+
+            <p><a href="#_Toc513038032">2.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When do we ask for your consent?</a></p>
+
+            <p><a href="#_Toc513038033">2.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What happens if our customer is a child?</a></p>
+
+            <p><a href="#_Toc513038034">2.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For which purposes do we process your Personal Data?</a></p>
+
+            <p><a href="#_Toc513038035">2.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who is receiving your Personal Data?</a></p>
+
+            <p><a href="#_Toc513038036">2.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To which countries do we transfer your Personal Data?</a></p>
+
+            <p><a href="#_Toc513038037">2.8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How long do we process your Personal Data?</a></p>
+
+            <p><a href="#_Toc513038038">2.9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What are your rights?</a></p>
+
+            <p><a href="#_Toc513038039">2.10&nbsp;&nbsp; Can you withdraw your consent to the processing of Personal Data?</a></p>
+
+            <p><a href="#_Toc513038040">2.11&nbsp;&nbsp; Can you complain with the data protection authorities?</a></p>
+
+            <p><a href="#_Toc513038041">2.12&nbsp;&nbsp; Do you have to provide your Personal Data to order on the Sites?</a></p>
+
+            <p><a href="#_Toc513038042">2.13&nbsp;&nbsp; How do we protect your Personal Data?</a></p>
+
+            <p><a href="#_Toc513038043">2.14&nbsp;&nbsp; Can we change our Privacy Policy?</a></p>
+        </div>
+
+        <h3><a name="_Toc513038028">1. Our Privacy Principles</a></h3>
+
+        <p>We take privacy seriously. Here are our 6 privacy promises to you:</p>
+
+        <p>(1) We will respond to any questions on processing of your Personal Data without undue delay.</p>
+
+        <p>(2) We will ensure that your Personal Data is used in line with applicable data protection laws.</p>
+
+        <p>(3) We will be transparent with you about how we use your Personal Data. This includes informing you about what information we collect, what we do with it, with whom we share it and whom you should contact if you have any concerns.</p>
+
+        <p>(4) We will provide you simple options to say 'STOP' when you are no longer happy with our marketing communications.</p>
+
+        <p>(5) We will protect online and offline data in a similar manner.</p>
+
+        <p>(6) We will take reasonable steps to make sure no unauthorized person accesses your Personal Data.</p>
+
+        <h3><a name="_Toc513038029">2. Our Privacy Policy</a></h3>
+
+        <p>We are committed to safeguarding your privacy and ensuring that your Personal Data is protected.&nbsp; This Privacy Policy explains the types of Personal Data we collect and how we process and protect that data.</p>
+
+        <p>This Privacy Policy applies to Personal Data processed by us in connection with the services and products we offer to you, including through the website <a href="http://ciiva.com">ciiva.com</a> (“Service(s)”). This includes Personal Data collected offline through our regional sales centers and Value Added Resellers (VARs) worldwide or online through this website, applications and branded pages on third party platforms and applications accessed or used through such websites or third party platforms (“Sites”).</p>
+
+        <p>This Privacy Policy also applies to our targeted content, including online offers and advertisements for products and services, which we (or a service provider acting on our behalf) may send to you on third party websites, platforms and applications (“Third Party Sites”) based on your use of the internet. These Third-Party Sites may have their own privacy policies and terms and conditions. We encourage you to read them before using those Third-Party Sites.</p>
+
+        <h3><a name="_Toc513038030">2.1 Who is Responsible for what happens with your data?</a></h3>
+
+        <p>Altium LLC (“Altium” or “we”; “our”; “us”) is responsible for processing of your Personal Data in relation to the Services. You can contact us via mail at Altium LLC, 4225 Executive Square, Suite 700 La Jolla, CA 92037, by phone at +1-858-864-1501, or by email at <a href="mailto:data.compliance@altium.com">data.compliance@altium.com</a> if you have any questions.</p>
+
+        <h3><a name="_Toc513038031">2.2 Who is Altium’s Data Protection Officer?</a></h3>
+
+        <p>The Data Protection Officer of Altium is currently Mr. Robert Jeffares. You can contact the Data Protection Officer at <a href="mailto:data.compliance@altium.com">data.compliance@altium.com</a>.</p>
+
+        <h3><a name="_Toc513038032">2.3 When do we ask for your consent?</a></h3>
+
+        <p>By using our Services and our Sites, you acknowledge that we are processing your Personal Data in accordance with this Privacy Policy. If you do not wish that we process your Personal Data in this way, please do not use our Service or Sites or otherwise provide our Sites with your Personal Data.</p>
+
+        <p>We process your Personal Data to provide you the Services and the Site. In certain instances, we only process your Personal Data if you have consented, for example in certain cases where we process your Personal Data for marketing purposes, use cookies or process your sensitive Personal Data. Where we process your Personal Data on the basis of your consent, we will ask for your consent explicitly but, in some cases and only where permitted by applicable law, we may infer in a transparent manner consent from your actions. We may also ask you to provide additional consent if we need to use your Personal Data for purposes not covered by this Privacy Policy or before sharing your Personal Data with group companies or relevant subsidiaries of Altium for the purposes of marketing.</p>
+
+        <h3><a name="_Toc513038033">2.4 What happens if our customer is a child?</a></h3>
+
+        <p>Our Services and Sites are intended for adults, but there could be instances where some customers under the age of 18 decide to view or purchase Services on our Sites. Our rule is that if we know a customer is under the age of 18, we will not use such customer’s Personal Data for marketing purposes unless parental consent is provided to us in writing. We will not sell any Services to customers under the age of 18.</p>
+
+        <p>To provide parental consent, please write to the Altium contact details as listed in Section 2.1. Note however that access to certain parts of our Sites and/or Services may be limited to users over a certain age. We may use your Personal Data to carry out age verification checks and enforce any such age restrictions.</p>
+
+        <h3><a name="_Toc513038034">2.5 For which purposes do we process your Personal Data?</a></h3>
+
+        <p>We collect your Personal Data directly when you provide us with Personal Data when you visit our Sites, purchase Services, subscribe to our newsletter, receive information or mailings, use our applications, complete a survey, and/or make a comment or enquiry or contact our customer services. We may also receive Personal Data about you from other sources, including information from commercially available sources, such as public databases and data aggregators, and information from third parties.</p>
+
+        <p>In more detail, we process the following categories of Personal Data for the following purposes:</p>
+
+        <h3>2.5.1 Surfing on our Sites – with or without Cookies</h3>
+
+        <h4><a name="_17dp8vu"></a>2.5.1.1 Which Personal Data do we collect about you?</h4>
+
+        <p>For this purpose (Surfing on our website) we process the following Personal Data: Information about the type of browser you use, details of the web pages you have viewed, your IP and device address, your Cookie ID, hyperlinks that you have clicked, your user name, profile picture, gender, networks, the websites you visited before arriving at our relevant Sites and information collected by cookies or similar tracking devices and any other information you choose to share when using Third Party Sites, e.g. when visiting Altium’s sites on social media networks, such as Facebook, Instagram, Twitter or Altium’s YouTube channel). Our Sites involve simple links to social media networks; depending on the technology used by the social media it may be the case that Altium will transmit Personal Data to the provider of the relevant social media network when you click on such link.</p>
+
+        <p>&nbsp;</p>
+
+        <h4><a name="_3rdcrjn"></a>2.5.1.2 What is the purpose of processing your Personal Data?</h4>
+
+        <p>We (and third-party service providers acting on our behalf or on their own behalf) use cookies and similar technologies to process data about you when you visit our relevant Sites. Cookies are files that store information on your computer hard drive or browser that mean that we can recognise that you have visited us before. We use cookies and similar technologies (like pixels, fingerprints and other tools) to improve our products and your experience on our Sites by evaluating the use of our Sites, products and services and understand your browsing and shopping habits, analysing the effectiveness of our advertisements, personalising your website experience as well as evaluating statistics on website activity, evaluating (anonymously and in the aggregate) statistics on website activity, such as what time you visited it, whether you've visited it before and what site referred you to it, reviewing the Services that you have searched online and ended up purchasing them, making our Sites easier to use and to better tailor our Sites and our Services to your interests and needs, identifying that you have visited our Sites but did not purchase a Service, collecting information about your device and linking this to your Personal Data so as to ensure that our Sites present the best web experience for you and supplementing the Personal Data that you provide to us with other information that we hold or that we may receive from commercially available sources, such as public databases and data aggregators, and third parties.&nbsp; For more information about the use of cookies, please see our <a href="https://ciiva.com/cookie-policy">Cookie Policy</a>.</p>
+
+        <h4><a name="_26in1rg"></a>2.5.1.3 How long do we store your Personal Data?</h4>
+
+        <p>Please check the Cookie Policy to learn about the storage periods for each cookie.</p>
+
+        <h4><a name="_lnxbz9"></a>2.5.1.4 What is the legal basis for processing your Personal Data?</h4>
+
+        <p>Your Consent is the legal basis for processing your Personal Data when surfing on our Sites. You can customize your browser's cookie settings to reflect your comfort level with cookie security. For more information how to configure the settings of your browser, please see our <a href="/cookie-policy">Cookie Policy</a>.</p>
+
+        <h3>2.5.2 Contact</h3>
+
+        <h4><a name="_1ksv4uv"></a>2.5.2.1 Which Personal Data do we collect about you?</h4>
+
+        <p>For this purpose (Contact) we process the following Personal Data: Surname, name, company email address, telephone or mobile number, passwords, company, country, your currently used PCB layout tool, the reason for requesting ciiva access, posts and other content you submit to our Sites, other Personal Data you voluntarily provide to us, information on the handling of your request, queries from us and further information submitted with your request. Please, however, refrain from sending us information on your health or other sensitive data in unencrypted emails.</p>
+
+        <h4><a name="_44sinio"></a>2.5.2.2 What is the Purpose of processing your Personal Data?</h4>
+
+        <p>We process your Personal Data whenever you contact us and respond to your enquiries and comments. We process your Personal Data that you enter when you subscribe for an Ciiva account or when you subsequently update or amend data in your Ciiva account. We process Personal Data to provide you with our Services that you request from us, including responding to your queries or comments. We look at the Services you buy at our Sites and that you have viewed on our Sites.</p>
+
+        <h4><a name="_2jxsxqh"></a>2.5.2.3 How long do we store your Personal Data?</h4>
+
+        <p>We will store your Personal Data only until the aforementioned purposes for which we have collected or received your Personal Data are fulfilled and once our statutory obligations to preserve records have expired.</p>
+
+        <h4><a name="_z337ya"></a>2.5.2.4 What is the legal basis for processing your Personal Data?</h4>
+
+        <p>Applicable data protection legislation allows Ciiva to process your Personal Data for the purpose of performance of a contract with you (i.e. fulfil your contact request).</p>
+
+        <p>If you provide to us Personal Data that is considered sensitive (e.g. information on your health or ethnic origin), your consent will be the legal basis for processing your Personal Data.</p>
+
+        <h3>2.5.3 Suggestion of our products and services which may be of interest for you; marketing communication</h3>
+
+        <h4><a name="_1y810tw"></a>2.5.3.1 Which Personal Data do we collect about you?</h4>
+
+        <p>For this purpose (suggestion of our products and services which may be of interest for you ) we process the following Personal Data: Surname, name, company email address, telephone or mobile number, passwords, company, country, your currently used PCB layout tool, the reason for requesting Ciiva access, order history/wishlist (including purchases you make on our Sites or offline), payment history, Services you view on our Sites, favourite store, actions you take on our website or when viewing our emails and your shopping habits and preferences.</p>
+
+        <h4><a name="_4i7ojhp"></a>2.5.3.2 What is the purpose of processing your Personal Data?</h4>
+
+        <p>We process your Personal Data to suggest tailored products or services that we think may be of interest to you. We may do this by sending you – via post, email, newsletter, SMS, push notifications or phone – details of products, services, special offers, promotions and other information. We also contact you to offer the opportunity to take part in customer re-search surveys. You may also receive in-store promotions (such as special coupons) from us when you have an Ciiva account with us.</p>
+
+        <h4><a name="_2xcytpi"></a>2.5.3.3 How long do we store your Personal Data?</h4>
+
+        <p>We will store your Personal Data only until the aforementioned purposes for which we have collected or received your Personal Data are fulfilled and once our statutory obligations to preserve records have expired.</p>
+
+        <h4><a name="_1ci93xb"></a>2.5.3.4 What is the legal basis for processing your Personal Data?</h4>
+
+        <p>If you are a subscriber of our newsletter, your express consent in receiving marketing communications shall be the legal basis for processing.</p>
+
+        <p>If you are a shopper who has checked out as a guest on our Sites, Altium’s legitimate interests in marketing products you may be interested in shall serve as the legal basis for processing. This shall only apply in relation to Altium’s own products and services, i.e. not to products and services of relevant third parties.</p>
+
+        <p>You can opt out of receiving such marketing communications at any time by clicking the ‘unsubscribe’ link at the bottom of the communications we send you.</p>
+
+        <h3><a name="_Ref513031576"></a><a name="_Ref513031574">2.5.4 Purchase of Services</a></h3>
+
+        <h4><a name="_2bn6wsx"></a>2.5.4.1 Which Personal Data do we collect about you?</h4>
+
+        <p>For this purpose, we process the following Personal Data: Surname, name, postal address, company, country, company email address, telephone or mobile number, passwords, payment history, payment information (i.e. bank or credit card details), order history/wishlist, information on the handling of your request and other Personal Data you voluntarily provide to us.</p>
+
+        <h4><a name="_qsh70q"></a>2.5.4.2 What is the Purpose of processing your Personal Data?</h4>
+
+        <p>We process your Personal Data to process your online and / or offline purchase and deliver the relevant Service(s) to you as ordered. Your payment related Personal Data may be transferred to payment providers to process your payments.</p>
+
+        <h4><a name="_3as4poj"></a>2.5.4.3 How long do we store your Personal Data?</h4>
+
+        <p>We will store your Personal Data only until the aforementioned purposes for which we have collected or received your Personal Data are fulfilled and once our statutory obligations to preserve records have expired.</p>
+
+        <h4><a name="_1pxezwc"></a>2.5.4.4 What is the legal basis for processing your Personal Data?</h4>
+
+        <p>Applicable data protection legislation allows Altium to process your Personal Data for the purpose of performance of a contract with you (i.e. your purchase of Services).</p>
+
+        <p>If you provide to us Personal Data that is considered sensitive (e.g. information on your health or ethnic origin), your consent will be the legal basis for processing your Personal Data.</p>
+
+        <h3><a name="_Toc513038035">2.6 Who is receiving your Personal Data?</a></h3>
+
+        <h3>2.6.1 Our service providers (processors)</h3>
+
+        <p>We may share your Personal Data with the following data processors (i.e. service providers):</p>
+
+        <ul>
+            <li>relevant companies of Altium Group and trusted third parties which directly support our promotional activities, Site administration and your Ciiva account;</li>
+            <li>trusted third parties to help us process and analyse your Personal Data, to give us insights about you that we can use to improve our advertising, products and services, and to track the effectiveness of a particular promotion or campaign;</li>
+            <li>if you purchase Services from us, trusted third parties to allow delivery of the Services you have ordered.</li>
+        </ul>
+
+        <p>Unless you provided consent, each trusted third party is not authorised by us to use your Personal Data in any other way. Each trusted third party will be required by us to implement adequate technical and organizational measures to protect your Personal Data.</p>
+
+        <h3>2.6.2 Other recipients (controllers)</h3>
+
+        <p>We may share your Personal Data with the following controllers (i.e. third parties that process your Personal Data for their own purposes):</p>
+
+        <ul>
+            <li>social media platforms (e.g. Facebook, Instagram) so that they can help us deliver our advertisements directly to your social media page or mailbox;</li>
+            <li>law enforcement or other agencies if we are required to do so by law, or by a warrant, subpoena or court order to disclose your Personal Data.</li>
+        </ul>
+
+        <h3>2.6.3 Sharing your Site usage information</h3>
+
+        <p>We may with your consent share site usage information with trusted third parties (e.g. advertisers, advertising agencies, advertising networks, data exchanges, etc.) in order to offer you tailored content, including more relevant advertising for products and services which may be of interest to you. These trusted third parties may set and access their own cookies, web beacons and similar tracking technologies on your device in order to help us deliver customized content and advertising to you when you visit our relevant Sites or third-party sites.</p>
+
+        <h3><a name="_Toc513038036">2.7 To which countries do we transfer your Personal Data?</a></h3>
+
+        <p><a name="_ihv636"></a>Many of the recipients of your Personal Data are based in the European Union / the European Economic Area. However, we may need to transfer your Personal Data to a location outside of the European Economic Area, including to countries that do not offer the same level of protection with respect to Personal Data as required in the European Economic Area and where there is no adequacy decision by the European Commission. If your Personal Data should be transferred to such country, we have ensured that an adequate level of data protection is achieved by a recognized legal mechanism, e.g. by means of the EU-U.S. Privacy Shield certification, so-called Standard Contractual Clauses, as published by the European Commission or Binding Corporate Rules.</p>
+
+        <h3><a name="_Toc513038037">2.8 How long do we process your Personal Data?</a></h3>
+
+        <p>We will store your Personal Data only until the aforementioned purposes for which we have collected or received your Personal Data have been fulfilled and once our statutory obligations to retain records have expired.</p>
+
+        <h3><a name="_Toc513038038">2.9 What are your rights?</a></h3>
+
+        <p>You have the right to request from us</p>
+
+        <ul>
+            <li>Confirmation as to whether or not we process Personal Data from you and, where that is the case, access to your Personal Data;</li>
+            <li>Rectification of inaccurate Personal Data;</li>
+            <li>Erasure of Personal Data;</li>
+            <li>Restriction of processing of Personal Data; and</li>
+            <li>To receive the Personal Data which you have provided to us and to have transmitted those Personal Data to another data controller without hindrance.</li>
+        </ul>
+
+        <h3><a name="_Toc513038039">2.10 Can you withdraw your consent to the processing of Personal Data?</a></h3>
+
+        <p>If your consent is the legal basis for the processing of your Personal Data, you can withdraw your consent at any time. This will not affect the lawfulness of the processing based on your consent before the withdrawal. You can withdraw your consent by sending us an email, or by calling us under the phone number listed in Section 2.1. For more information about the use of cookies, please see our <a href="https://ciiva.com/cookie-policy">Cookie Policy</a>.</p>
+
+        <h3><a name="_Toc513038040">2.11 Can you complain with the data protection authorities?</a></h3>
+
+        <p>If you think that the processing of Personal Data by us violates applicable data protection laws, you can lodge a complaint with the competent supervisory authority.</p>
+
+        <h3><a name="_Toc513038041">2.12 Do you have to provide your Personal Data to order on the Sites?</a></h3>
+
+        <p>You are not legally required to provide the Personal Data. However, if you do not want to provide your Personal Data, you may not purchase Services or subscribe for an Ciiva account.</p>
+
+        <p>In order to purchase Services on our Sites or register as an Ciiva account holder, you must provide the Personal Data as listed in Section 2.5.4. If you purchase Services that may give an indication about your sensitive Personal Data (e.g. health data), we can only process this order if you consent that we process such data.</p>
+
+        <p>If you do not provide the relevant Personal Data or if you reject cookies or do not provide your consent in context of other services than purchasing Services or opening an Ciiva account, you may not receive such services at all or without interruption.</p>
+
+        <h3><a name="_Toc513038042">2.13 How do we protect your Personal Data?</a></h3>
+
+        <p>We maintain appropriate technical and organizational measures to protect the Personal Data you provide to us against accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to your Personal Data. Our security measures are being improved continuously as new technology develops. The processing and transmission of data through our Sites is encrypted by Secure Sockets Layer protocol (“SSL”), which is an encrypting technology to ensure the highest possible security for the transmission of your data, including Personal Data, between your web browser and our internet system. The URL of a website with SSL connection to your browser starts with “https://”. Most browsers indicate SSL-encrypted websites by displaying an icon that depicts a closed padlock. This icon might be located in the address bar or the bottom status bar. If you have turned off your status bar, this icon may not be visible, even on websites that use SSL.</p>
+
+        <p>Our Sites may contain hyperlinks to other websites provided by third parties. We do not control these third-party websites or any of the content contained on those websites. Once you have left our relevant Sites, we cannot be responsible for the protection and privacy of any information which you provide. You should exercise caution and look at the relevant privacy policy for the website you visit.</p>
+
+        <h3><a name="_Toc513038043">2.14 Can we change our Privacy Policy?</a></h3>
+
+        <p>We may change this Privacy Policy from time to time by posting the updated version of the privacy policy here. To the extent processing of your Personal Data be based on your consent, we will not change the scope of such processing, unless you have given additional consent to the changed scope of such processing. We encourage you to visit this area frequently to stay informed.</p>
     </div>
-  </div>
+</div>
             <footer id="site-footer" class="site-footer">
     <div class="site-container">
         <span class="text-1">Copyright © 2016 Ciiva</span>
@@ -875,7 +1213,7 @@
                 myForm.addHiddenFields(objData);
                 myForm.submit();
             }
-        </script>        
+        </script>
 
 
 <script type="text/javascript">
@@ -916,882 +1254,137 @@
             a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
         }, 1);
     </script>
+        <script>
+            function LoadSignUpSignInPartial() {
+                var retUrl = encodeURIComponent('/privacy-policy');
+                $.ajax
+                ({
+                    url: "/AD/ADLeft?returnUrl=" + retUrl,
+                    contentType: "application/html; charset=utf-8",
+                    type: "GET",
+                    //cache: !0,
+                    datatype: "html",
+                    success: function (data) {
+                        $('body').append(data);
+                        $('.popup-btn').bPopup();
 
-<a class="popup-btn" id="a_popup_create_ciiva_account_finish" href="#popup-create-ciiva-account-finish" style="display: none"></a>
-<a class="popup-btn" id="a_popup_almost_done_create_ciiva_account" href="#popup-almost-done-create-ciiva-account" style="display: none"></a>
+                        $('.form-report-error-cmp input:checkbox').on("change", function () {
+                            var cb = $(this);
+                            cb.val(cb.prop('checked'));
+                            if (cb.attr('name') == "ReportLifecycle") {
+                                if (cb.prop('checked')) {
+                                    $('.report-rsi-container').removeClass('hide');
+                                }
+                                else {
+                                    $('.report-rsi-container').addClass('hide');
+                                }
+                            }
+                        });
 
-<input type="hidden" id="ACCreateFrom" value="0">
-
-<div id="popup-create-ciiva-account" class="b-popup ignore-bootstrap-css">
-    <div class="popup-inner">
-        <a class="btn-close" href="javascript:void(0);"></a>
-        <h3 class="pull-center">Create Your Free Ciiva Account</h3>
-        <p class="pull-center">Enter your email and password below to create your free Ciiva account.</p>
-        <div class="form form-card-information">
-            <form>
-                <div class="form-item form-type-text width-100">
-                    <input type="text" class="form-text" placeholder="Email" value="" id="ACEmail" name="ACEmail" style="box-sizing: border-box;">
-                </div>
-                <div class="form-item form-type-text width-100">
-                    <input type="password" class="form-text" placeholder="Password" id="ACPassword" name="ACPassword" style="box-sizing: border-box;">
-                </div>
-                <div class="form-item form-actions">
-                    <a class="form-submit" href="#" onclick="return CreateAccountStep1Data();">Submit</a>
-                </div>
-                <a class="have-account" href="#" onclick="LoadLoginFormOnNormalSignupPage()">Already have an account?</a>
-            </form>
-        </div>
-
-    </div>
-</div>
-
-
-<div id="popup-almost-done-create-ciiva-account" class="b-popup ignore-bootstrap-css">
-    <div class="popup-inner">
-        <a class="btn-close" href="javascript:void(0);"></a>
-        <h3 class="pull-center">Almost Done</h3>
-        <p class="pull-center">Enter your name below to finish setting up your free Ciiva account.</p>
-
-        <div class="form form-card-information">
-            <form>
-                <div class="form-item form-type-text width-100">
-                    <input type="text" class="form-text" placeholder="First name" maxlength="30" id="ACFirstName" name="ACFirstName" style="box-sizing: border-box;">
-                </div>
-                <div class="form-item form-type-text width-100">
-                    <input type="text" class="form-text" placeholder="Last Name" maxlength="30" id="ACLastName" name="ACLastName" style="box-sizing: border-box;">
-                </div>
-                <div class="form-item form-type-text width-100">
-                    <input type="text" class="form-text" placeholder="Company" maxlength="50" id="ACCompany" name="ACCompany" style="box-sizing: border-box;">
-                </div>
-                <div class="field-group">
-                    <div class="form-item form-type-text width-50">
-                        <input name="ACPhone " id="ACPhone" maxlength="30" type="text" class="form-text" placeholder="Phone" style="box-sizing: border-box;">
-                    </div>
-                    <div class="form-item form-type-text width-50">
-                        <select id="ACEngineeringTeam" name="ACEngineeringTeam" class=" form-select" style="box-sizing: border-box;">
-                            <option value="">Number of Electrical Engineers</option>
-                            <option value="1-2">1-2</option>
-                            <option value="3-5">3-5</option>
-                            <option value="5-10">5-10</option>
-                            <option value="10-15">10-15</option>
-                            <option value="15-25">15-25</option>
-                            <option value="25+">25+</option>
-                        </select>
-                    </div>
-                </div>
-                <div class="form-item form-type-text width-100">
-                    <select id="ACJobFunction" name="ACJobFunction" class=" form-select" style="box-sizing: border-box;">
-                        <option value="">Job Function</option>
-                        <option value="Manager / Team Leader">Manager / Team Leader</option>
-                        <option value="Executive / Senior Management">Executive / Senior Management</option>
-                        <option value="Engineering - Electrical">Engineering - Electrical</option>
-                        <option value="Engineering - Mechanical">Engineering - Mechanical</option>
-                        <option value="Engineering - PCB Design">Engineering - PCB Design</option>
-                        <option value="Engineering - Software">Engineering - Software</option>
-                        <option value="Engineering - Electro-Mechanical">Engineering - Electro-Mechanical</option>
-                        <option value="Owner/ CEO">Owner/ CEO</option>
-                        <option value="Procurement">Procurement</option>
-                        <option value="Student / Teacher">Student / Teacher</option>
-                        <option value="Startup">Startup</option>
-                        <option value="Supply Chain Management">Supply Chain Management</option>
-                        <option value="Manufacturing">Manufacturing</option>
-                        <option value="PLM Operations">PLM Operations</option>
-                    </select>
-                </div>
-                <div class="field-group">
-                    <div class="form-item form-type-select width-50">
-                        <select id="ACCountry" name="ACCountry" onchange="ACCountry_Changed()" class=" form-select" style="box-sizing: border-box;">
-                                <option value="3">Afghanistan, Islamic State of</option>
-                                <option value="6">Albania</option>
-                                <option value="61">Algeria</option>
-                                <option value="12">American Samoa</option>
-                                <option value="1">Andorra, Principality of</option>
-                                <option value="9">Angola</option>
-                                <option value="5">Anguilla</option>
-                                <option value="10">Antarctica</option>
-                                <option value="4">Antigua and Barbuda</option>
-                                <option value="11">Argentina</option>
-                                <option value="7">Armenia</option>
-                                <option value="15">Aruba</option>
-                                <option value="14">Australia</option>
-                                <option value="13">Austria</option>
-                                <option value="16">Azerbaijan</option>
-                                <option value="30">Bahamas</option>
-                                <option value="23">Bahrain</option>
-                                <option value="19">Bangladesh</option>
-                                <option value="18">Barbados</option>
-                                <option value="34">Belarus</option>
-                                <option value="20">Belgium</option>
-                                <option value="35">Belize</option>
-                                <option value="25">Benin</option>
-                                <option value="26">Bermuda</option>
-                                <option value="31">Bhutan</option>
-                                <option value="28">Bolivia</option>
-                                <option value="17">Bosnia-Herzegovina</option>
-                                <option value="33">Botswana</option>
-                                <option value="32">Bouvet Island</option>
-                                <option value="29">Brazil</option>
-                                <option value="102">British Indian Ocean Territory</option>
-                                <option value="27">Brunei Darussalam</option>
-                                <option value="22">Bulgaria</option>
-                                <option value="21">Burkina Faso</option>
-                                <option value="24">Burundi</option>
-                                <option value="112">Cambodia, Kingdom of</option>
-                                <option value="45">Cameroon</option>
-                                <option value="36">Canada</option>
-                                <option value="52">Cape Verde</option>
-                                <option value="119">Cayman Islands</option>
-                                <option value="38">Central African Republic</option>
-                                <option value="205">Chad</option>
-                                <option value="44">Chile</option>
-                                <option value="46">China</option>
-                                <option value="53">Christmas Island</option>
-                                <option value="37">Cocos (Keeling) Islands</option>
-                                <option value="47">Colombia</option>
-                                <option value="114">Comoros</option>
-                                <option value="40">Congo</option>
-                                <option value="39">Congo, The Democratic Republic of the</option>
-                                <option value="43">Cook Islands</option>
-                                <option value="48">Costa Rica</option>
-                                <option value="95">Croatia</option>
-                                <option value="51">Cuba</option>
-                                <option value="54">Cyprus</option>
-                                <option value="55">Czech Republic</option>
-                                <option value="58">Denmark</option>
-                                <option value="57">Djibouti</option>
-                                <option value="59">Dominica</option>
-                                <option value="60">Dominican Republic</option>
-                                <option value="214">East Timor</option>
-                                <option value="62">Ecuador</option>
-                                <option value="64">Egypt</option>
-                                <option value="201">El Salvador</option>
-                                <option value="85">Equatorial Guinea</option>
-                                <option value="66">Eritrea</option>
-                                <option value="63">Estonia</option>
-                                <option value="68">Ethiopia</option>
-                                <option value="71">Falkland Islands</option>
-                                <option value="73">Faroe Islands</option>
-                                <option value="70">Fiji</option>
-                                <option value="69">Finland</option>
-                                <option value="74">France</option>
-                                <option value="78">French Guyana</option>
-                                <option value="169">French Polynesia</option>
-                                <option value="206">French Southern Territories</option>
-                                <option value="75">Gabon</option>
-                                <option value="82">Gambia</option>
-                                <option value="77">Georgia</option>
-                                <option value="56">Germany</option>
-                                <option value="79">Ghana</option>
-                                <option value="80">Gibraltar</option>
-                                <option value="86">Greece</option>
-                                <option value="81">Greenland</option>
-                                <option value="76">Grenada</option>
-                                <option value="84">Guadeloupe (French)</option>
-                                <option value="89">Guam (USA)</option>
-                                <option value="88">Guatemala</option>
-                                <option value="83">Guinea</option>
-                                <option value="90">Guinea Bissau</option>
-                                <option value="91">Guyana</option>
-                                <option value="96">Haiti</option>
-                                <option value="93">Heard and McDonald Islands</option>
-                                <option value="227">Holy See (Vatican City State)</option>
-                                <option value="94">Honduras</option>
-                                <option value="92">Hong Kong</option>
-                                <option value="97">Hungary</option>
-                                <option value="105">Iceland</option>
-                                <option value="101">India</option>
-                                <option value="98">Indonesia</option>
-                                <option value="104">Iran</option>
-                                <option value="103">Iraq</option>
-                                <option value="99">Ireland</option>
-                                <option value="100">Israel</option>
-                                <option value="106">Italy</option>
-                                <option value="42">Ivory Coast (Cote D'Ivoire)</option>
-                                <option value="107">Jamaica</option>
-                                <option value="109">Japan</option>
-                                <option value="108">Jordan</option>
-                                <option value="120">Kazakhstan</option>
-                                <option value="110">Kenya</option>
-                                <option value="113">Kiribati</option>
-                                <option value="255">Kosovo</option>
-                                <option value="118">Kuwait</option>
-                                <option value="111">Kyrgyz Republic (Kyrgyzstan)</option>
-                                <option value="121">Laos</option>
-                                <option value="130">Latvia</option>
-                                <option value="122">Lebanon</option>
-                                <option value="127">Lesotho</option>
-                                <option value="126">Liberia</option>
-                                <option value="131">Libya</option>
-                                <option value="124">Liechtenstein</option>
-                                <option value="128">Lithuania</option>
-                                <option value="129">Luxembourg</option>
-                                <option value="141">Macau</option>
-                                <option value="137">Macedonia</option>
-                                <option value="135">Madagascar</option>
-                                <option value="149">Malawi</option>
-                                <option value="151">Malaysia</option>
-                                <option value="148">Maldives</option>
-                                <option value="138">Mali</option>
-                                <option value="146">Malta</option>
-                                <option value="136">Marshall Islands</option>
-                                <option value="143">Martinique (French)</option>
-                                <option value="144">Mauritania</option>
-                                <option value="147">Mauritius</option>
-                                <option value="237">Mayotte</option>
-                                <option value="150">Mexico</option>
-                                <option value="72">Micronesia</option>
-                                <option value="134">Moldavia</option>
-                                <option value="133">Monaco</option>
-                                <option value="140">Mongolia</option>
-                                <option value="50">Montenegro</option>
-                                <option value="145">Montserrat</option>
-                                <option value="132">Morocco</option>
-                                <option value="152">Mozambique</option>
-                                <option value="139">Myanmar</option>
-                                <option value="153">Namibia</option>
-                                <option value="162">Nauru</option>
-                                <option value="161">Nepal</option>
-                                <option value="8">Netherlands Antilles</option>
-                                <option value="154">New Caledonia (French)</option>
-                                <option value="165">New Zealand</option>
-                                <option value="158">Nicaragua</option>
-                                <option value="155">Niger</option>
-                                <option value="157">Nigeria</option>
-                                <option value="164">Niue</option>
-                                <option value="156">Norfolk Island</option>
-                                <option value="116">North Korea</option>
-                                <option value="142">Northern Mariana Islands</option>
-                                <option value="160">Norway</option>
-                                <option value="166">Oman</option>
-                                <option value="172">Pakistan</option>
-                                <option value="178">Palau</option>
-                                <option value="167">Panama</option>
-                                <option value="170">Papua New Guinea</option>
-                                <option value="179">Paraguay</option>
-                                <option value="168">Peru</option>
-                                <option value="171">Philippines</option>
-                                <option value="175">Pitcairn Island</option>
-                                <option value="173">Poland</option>
-                                <option value="260">Polen</option>
-                                <option value="177">Portugal</option>
-                                <option value="176">Puerto Rico</option>
-                                <option value="180">Qatar</option>
-                                <option value="181">Reunion (French)</option>
-                                <option value="182">Romania</option>
-                                <option value="183">Russian Federation</option>
-                                <option value="184">Rwanda</option>
-                                <option value="87">S. Georgia &amp; S. Sandwich Isls.</option>
-                                <option value="191">Saint Helena</option>
-                                <option value="115">Saint Kitts &amp; Nevis Anguilla</option>
-                                <option value="123">Saint Lucia</option>
-                                <option value="174">Saint Pierre and Miquelon</option>
-                                <option value="200">Saint Tome (Sao Tome) and Principe</option>
-                                <option value="228">Saint Vincent &amp; Grenadines</option>
-                                <option value="235">Samoa</option>
-                                <option value="196">San Marino</option>
-                                <option value="185">Saudi Arabia</option>
-                                <option value="197">Senegal</option>
-                                <option value="49">Serbia</option>
-                                <option value="187">Seychelles</option>
-                                <option value="195">Sierra Leone</option>
-                                <option value="190">Singapore</option>
-                                <option value="194">Slovak Republic</option>
-                                <option value="192">Slovenia</option>
-                                <option value="186">Solomon Islands</option>
-                                <option value="198">Somalia</option>
-                                <option value="239">South Africa</option>
-                                <option value="117">South Korea</option>
-                                <option value="67">Spain</option>
-                                <option value="125">Sri Lanka</option>
-                                <option value="188">Sudan</option>
-                                <option value="199">Suriname</option>
-                                <option value="193">Svalbard and Jan Mayen Islands</option>
-                                <option value="203">Swaziland</option>
-                                <option value="189">Sweden</option>
-                                <option value="41">Switzerland</option>
-                                <option value="202">Syria</option>
-                                <option value="218">Taiwan</option>
-                                <option value="209">Tajikistan</option>
-                                <option value="219">Tanzania</option>
-                                <option value="208">Thailand</option>
-                                <option value="159">The Netherlands</option>
-                                <option value="207">Togo</option>
-                                <option value="210">Tokelau</option>
-                                <option value="213">Tonga</option>
-                                <option value="216">Trinidad and Tobago</option>
-                                <option value="212">Tunisia</option>
-                                <option value="215">Turkey</option>
-                                <option value="211">Turkmenistan</option>
-                                <option value="204">Turks and Caicos Islands</option>
-                                <option value="217">Tuvalu</option>
-                                <option value="221">Uganda</option>
-                                <option value="220">Ukraine</option>
-                                <option value="2">United Arab Emirates</option>
-                                <option value="222">United Kingdom</option>
-                                <option value="224" selected="selected">United States</option>
-                                <option value="225">Uruguay</option>
-                                <option value="223">USA Minor Outlying Islands</option>
-                                <option value="226">Uzbekistan</option>
-                                <option value="233">Vanuatu</option>
-                                <option value="229">Venezuela</option>
-                                <option value="232">Vietnam</option>
-                                <option value="230">Virgin Islands (British)</option>
-                                <option value="231">Virgin Islands (USA)</option>
-                                <option value="234">Wallis and Futuna Islands</option>
-                                <option value="65">Western Sahara</option>
-                                <option value="236">Yemen</option>
-                                <option value="238">Yugoslavia</option>
-                                <option value="241">Zaire</option>
-                                <option value="240">Zambia</option>
-                                <option value="242">Zimbabwe</option>
-                        </select>
-                    </div>
-                    <div class="form-item form-type-select width-50" id="idshowhidestate">
-                        <select id="ACState" name="ACState" class="form-select" style="box-sizing: border-box;">
-                                <option value="29">Alabama</option>
-                                <option value="30">Alaska</option>
-                                <option value="109">American Samoa</option>
-                                <option value="31">Arizona</option>
-                                <option value="32">Arkansas</option>
-                                <option value="110">Armed Forces Africa</option>
-                                <option value="111">Armed Forces Americas</option>
-                                <option value="112">Armed Forces Canada</option>
-                                <option value="113">Armed Forces Europe</option>
-                                <option value="114">Armed Forces Middle East</option>
-                                <option value="115">Armed Forces Pacific</option>
-                                <option value="33">California</option>
-                                <option value="34">Colorado</option>
-                                <option value="35">Connecticut</option>
-                                <option value="36">Delaware</option>
-                                <option value="116">District of Columbia</option>
-                                <option value="117">Federated States Of Micronesia</option>
-                                <option value="37">Florida</option>
-                                <option value="38">Georgia</option>
-                                <option value="118">Guam</option>
-                                <option value="39">Hawaii</option>
-                                <option value="40">Idaho</option>
-                                <option value="41">Illinois</option>
-                                <option value="42">Indiana</option>
-                                <option value="43">Iowa</option>
-                                <option value="44">Kansas</option>
-                                <option value="45">Kentucky</option>
-                                <option value="46">Louisiana</option>
-                                <option value="47">Maine</option>
-                                <option value="120">Marshall Islands</option>
-                                <option value="48">Maryland</option>
-                                <option value="49">Massachusetts</option>
-                                <option value="50">Michigan</option>
-                                <option value="51">Minnesota</option>
-                                <option value="52">Mississippi</option>
-                                <option value="53">Missouri</option>
-                                <option value="54">Montana</option>
-                                <option value="55">Nebraska</option>
-                                <option value="56">Nevada</option>
-                                <option value="57">New Hampshire</option>
-                                <option value="58">New Jersey</option>
-                                <option value="59">New Mexico</option>
-                                <option value="60">New York</option>
-                                <option value="61">North Carolina</option>
-                                <option value="62">North Dakota</option>
-                                <option value="122">Northern Mariana Islands</option>
-                                <option value="63">Ohio</option>
-                                <option value="64">Oklahoma</option>
-                                <option value="65">Oregon</option>
-                                <option value="123">Palau</option>
-                                <option value="66">Pennsylvania</option>
-                                <option value="124">Puerto Rico</option>
-                                <option value="67">Rhode Island</option>
-                                <option value="68">South Carolina</option>
-                                <option value="69">South Dakota</option>
-                                <option value="70">Tennessee</option>
-                                <option value="71">Texas</option>
-                                <option value="72">Utah</option>
-                                <option value="73">Vermont</option>
-                                <option value="125">Virgin Islands</option>
-                                <option value="74">Virginia</option>
-                                <option value="28">Washington</option>
-                                <option value="75">West Virginia</option>
-                                <option value="76">Wisconsin</option>
-                                <option value="77">Wyoming</option>
-                        </select>
-                    </div>
-                </div>
-                <div class="field-group" id="idshowhidecitipostalcode">
-                    <div class="form-item form-type-text width-50" id="divNormalRegCity">
-                        <input name="ACCity" id="ACCity" maxlength="40" type="text" class="form-text" placeholder="City" style="box-sizing: border-box;">
-                    </div>
-                    <div class="form-item form-type-text width-50" id="divNormalRegPostalCode">
-                        <input name="ACPostalCode" id="ACPostalCode" maxlength="20" type="text" class="form-text" placeholder="Zip Code" style="box-sizing: border-box;">
-                    </div>
-                </div>
-                <div id="show-hide-free-icon-ajax-loader-normal-sign-up" style="display: none;"><i class="free-icon-ajax-loader"></i>&nbsp;Processing data, please wait...</div>
-                <div class="form-item form-actions">
-                    <input type="button" onclick="CreateAccountSubmitData()" style="color: #fff;" class="form-submit" value="Submit">
-                </div>
-            </form>
-        </div>
-
-    </div>
-</div>
-
-<div id="popup-create-ciiva-account-finish" class="b-popup ignore-bootstrap-css">
-    <div class="popup-inner">
-        <a class="btn-close" href="javascript:void(0);"></a>
-        <h3 class="pull-center">You're All Set</h3>
-        <p class="pull-center">
-            Thanks for setting up your free Ciiva account!
+                        var tmpReportCmp = $('#report-rsi-data');
+                        if (tmpReportCmp.length) {
+                            $('.report-rsi-mpn').text(tmpReportCmp.data('mpn'));
+                            $('.report-rsi-mfr').text(tmpReportCmp.data('mfrname'));
+                            $('.report-rsi-mfr').attr('href', tmpReportCmp.data('mfrurl'));
+                            $("input[name=ReportMCID]").val(tmpReportCmp.data('mcid'));
+                        }
+                    },
+                    error: function (xhr, status, error) {
+                        if (console)
+                            console.log("Error LoadSignUpSignInPartial: " + xhr.responseText);
+                    }
+                })
+            }
+            (function ($) {
+                $(document).ready(function () {
+                    LoadSignUpSignInPartial();
+                });
+            })(jQuery);
+        </script>
+    
             <br>
-            Please check your email to activate your account.
-        </p>
-    </div>
+            <br>
+            <br>
+<style>
+    .ciiva-privacy-bar {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        text-align: left;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+    }
+
+    .ciiva-privacy-bar {
+        position: fixed;
+        z-index: 101;
+        bottom: 0;
+        background: #000;
+        background-size: auto auto;
+        background-size: cover;
+        color: #fff;
+        font-size: 14px;
+        line-height: 1.6;
+        font-family: Gotham-Medium,Arial;
+        padding: 10px 40px 10px 20px;
+        overflow: hidden;
+        clear: both;
+        -webkit-font-smoothing: antialiased;
+        text-align: left;
+        width: 100%;
+    }
+
+    .ciiva-privacy-bar__btn {
+        display: inline-block;
+        color: #fff !important;
+        background: #a5915f !important;
+        padding: 14px 24px;
+        border-radius: 40px !important;
+        border: 0;
+        -webkit-transition: .3s;
+        transition: .3s;
+        font-family: Gotham-Medium,Arial;
+        font-size: 12px;
+        line-height: 1.2;
+        white-space: nowrap;
+        margin-top: 4px;
+        margin-left: 10px;
+        margin-bottom: 4px;
+    }
+
+    .ciiva-privacy-bar__btn-close {
+        top: 0px;
+        right: 4px;
+        position: absolute;
+        width: 30px;
+        height: 30px;
+        -webkit-transition: opacity .3s;
+        transition: opacity .3s;
+        background: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHZpZXdCb3g9IjAgMCAxMCAxMCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48dGl0bGU+aWNvbi1jbG9zZTwvdGl0bGU+PGRlc2M+Q3JlYXRlZCB1c2luZyBGaWdtYTwvZGVzYz48ZyBpZD0iQ2FudmFzIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTgxNSAtMjE5NSkiPjxnIGlkPSJpY29uLWNsb3NlIj48dXNlIHhsaW5rOmhyZWY9IiNwYXRoMF9maWxsIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxODE1IDIxOTUpIiBmaWxsPSIjYTU5MTVmIi8+PC9nPjwvZz48ZGVmcz48cGF0aCBpZD0icGF0aDBfZmlsbCIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNIDEwIDguODc2MUwgOC44Nzc3IDEwTCA1IDYuMTIzOUwgMS4xMjIzIDEwTCAwIDguODc2MUwgMy44NzYxIDVMIDAgMS4xMjIzTCAxLjEyMjMgMEwgNSAzLjg3NjFMIDguODc3NyAwTCAxMCAxLjEyMjNMIDYuMTIzOSA1TCAxMCA4Ljg3NjFaIi8+PC9kZWZzPjwvc3ZnPg==) no-repeat center;
+    }
+</style>
+
+<div class="ciiva-privacy-bar">
+    <div class="ciiva-privacy-bar__text">This site uses cookies to improve your user experience and to provide you with content we believe will be of interest to you.  Detailed information <br> on the use of cookies on this website is provided in our <a target="_blank" href="/cookie-policy">Cookies Policy</a>.  By using this website, you consent to the use of our cookies.</div>
+    <a class="ciiva-privacy-bar__btn" href="#">Ok, don't show me this again</a>
+    <a class="ciiva-privacy-bar__btn-close" href="#"></a>
 </div>
+<script type="text/javascript" src="/Scripts/js.cookie.js?v=2016"></script>
 
 <script>
-
-    function LoadLoginFormOnNormalSignupPage() {
-        $("#popup-create-ciiva-account").removeClass("popup-active");
-        $('body').removeClass("popup-processed");
-        triggerShowPopupNormal('#a_popup_sign_in_account_global', 'popup-sign-in-account');
-        return false;
-    }
-
-    function triggerShowPopupNormal(linkObj, strPopupId) {
-        var tmpHiddenLink = $(linkObj);
-
-        tmpHiddenLink.bPopup();
-        var objPopup = tmpHiddenLink.data('plugin_bPopup');
-        var popup = objPopup.checkPopup(strPopupId);
-        objPopup.showPopup(popup);
-        return false;
-    }
-
-    function ACCountry_Changed() {
-        var countryID = $("#ACCountry option:selected").val();
-
-        if (countryID == 224 || countryID == 36) {
-            // show container of 2, then show 2
-            $("#idshowhidestate").show();
-            $('#ACState').show();
-            // show 3 + 4
-            $("#idshowhidecitipostalcode").show();
-            // position 2 + 4
-            $('#ACPostalCode').appendTo('#divNormalRegPostalCode');
-            $('#ACState').appendTo('#idshowhidestate');
-        }
-        else if (countryID == 56 || countryID == 41 || countryID == 13) {
-            // hide 3 + 4
-            $("#idshowhidecitipostalcode").hide();
-            // hide 2
-            $('#ACState').hide();
-            // show container of 2 
-            $("#idshowhidestate").show();
-            // pos 4 to 2
-            $('#ACPostalCode').appendTo('#idshowhidestate');
-        }
-        else {
-            $("#idshowhidestate").hide();
-            $("#idshowhidecitipostalcode").hide();
-        }
-
-        if (isNaN(countryID) || parseInt(countryID) >= 0) {
-            var theData = { CountryID: countryID };
-            var json = JSON.stringify(theData);
-            $.ajax({
-                url: '/Home/GetStates',
-                type: 'POST',
-                contentType: 'application/json; charset=utf-8',
-                data: json,
-                dataType: 'json',
-                success: function (data) {
-                    $('#ACState').empty();
-                    $.each(data, function (i, el) {
-                        $('#ACState').append(new Option(el.StateName, el.StateID));
-                    });
-                },
-                error: function (a, b, c) {
-                    $('#ACState').empty();
-                    $("#ACState").append(
-                    $('<option disabled selected hidden></option>').val("").html(
-                        "(No state available)"));
-                }
-            });
-        } else {
-            $('#ACState').empty();
-            $("#ACState").append(
-                    $('<option disabled selected hidden></option>').val("").html(
-                        "(No state available)"));
-        }
-    }
-
-    function CreateAccountStep1Data() {
-        if ($('#ACEmail').val() == "") {
-            alert("Please enter your email address");
-            $('#ACEmail').focus();
-            return false;
-        }
-
-        if ($('#ACPassword').val() == "") {
-            alert("Please enter your password");
-            $('#ACPassword').focus();
-            return false;
-        }
-
-        //submit by Ajax
-        var theData = { UserName: $('#ACEmail').val(), Password: $('#ACPassword').val() };
-        var json = JSON.stringify(theData);
-        $.ajax({
-            url: '/Account/TryLoginCiivaAccount',
-            type: 'POST',
-            contentType: 'application/json; charset=utf-8',
-            data: json,
-            dataType: 'json',
-            success: function (data) {
-                if (data == 'ok') {
-                    $("#popup-create-ciiva-account").removeClass("popup-active");
-                    $('body').removeClass("popup-processed");
-                    window.location.href = rawURL;
-                }
-                else if (data == 'wrongpassword') {
-                    alert('The specified user account has existed. Password is incorrect.');
-                } else {
-                    $("#popup-create-ciiva-account").removeClass("popup-active");
-                    $('body').removeClass("popup-processed");
-                    triggerShowPopupNormal('#a_popup_almost_done_create_ciiva_account', 'popup-almost-done-create-ciiva-account');
-                }
-            },
-            error: function (a, b, c) {
-                alert('Cannot sign-in, please contact support@ciiva.com');
-            }
-        });
-
-
-
-    }
-
-    function CreateAccountSubmitData() {
-
-        var newState = GetStateSabbreviation($('#ACCountry option:selected').text(), $('#ACState option:selected').text())
-
-        if ($('#ACFirstName').val() == "") {
-            alert("Enter first name");
-            $('#ACFirstName').focus();
-            return false;
-        }
-
-        if ($('#ACLastName').val() == "") {
-            alert("Enter last name");
-            $('#ACLastName').focus();
-            return false;
-        }
-
-        if ($('#ACCompany').val() == "") {
-            alert("Enter Company");
-            $('#ACCompany').focus();
-            return false;
-        }
-
-        if ($('#ACPhone').val() == "") {
-            alert("Enter Phone");
-            $('#ACPhone').focus();
-            return false;
-        }
-
-        if ($('#ACEngineeringTeam').val() == "" || parseInt($('#ACEngineeringTeam').val()) == NaN) {
-            alert("Enter Engineering Team");
-            $('#ACEngineeringTeam').focus();
-            return false;
-        }
-
-
-        var headers = {};
-        headers["VerificationToken"] = $('#forgeryToken').val();
-
-        //submit by Ajax
-        var theData = {
-            Email: $('#ACEmail').val(), Password: $('#ACPassword').val(),
-            FirstName: $('#ACFirstName').val(), LastName: $('#ACLastName').val(),
-            Source: $('#ACCreateFrom').val(), Country: $('#ACCountry').val(), State: $('#ACState').val(),
-            City: $('#ACCity').val(), PostalCode: $('#ACPostalCode').val(),
-            Company: $('#ACCompany').val(), Phone: $('#ACPhone').val(), EngineeringTeam: $('#ACEngineeringTeam').val(),
-            JobFunction: $('#ACJobFunction').val()
-        };
-
-        $('#show-hide-free-icon-ajax-loader-normal-sign-up').show();
-
-        var json = JSON.stringify(theData);
-        $.ajax({
-            url: '/Account/CreateCiivaAccount',
-            type: 'POST',
-            headers: headers,
-            contentType: 'application/json; charset=utf-8',
-            data: json,
-            dataType: 'json',
-            success: function (data) {
-                $('#show-hide-free-icon-ajax-loader-normal-sign-up').hide();
-                if (data == 'ok') {
-                    $("#popup-almost-done-create-ciiva-account").removeClass("popup-active");
-                    $('body').removeClass("popup-processed");
-                    triggerShowPopupNormal('#a_popup_create_ciiva_account_finish', 'popup-create-ciiva-account-finish');
-
-                    submitMktoFormBackground({
-                        Action: "SignUp",
-                        Email: $('#ACEmail').val(),
-                        FirstName: $('#ACFirstName').val(), LastName: $('#ACLastName').val(),
-                        Source: "SignUpButton",
-                        Country: $('#ACCountry option:selected').text(), State: newState,
-                        City: $('#ACCity').val(), PostalCode: $('#ACPostalCode').val(),
-                        Company: $('#ACCompany').val(), Phone: $('#ACPhone').val(),
-                        Electrical_Engineers__c: $('#ACEngineeringTeam').val(), LeadSource: "Ciiva Form", LeadSourceDetails__c: "Ciiva Smart", product_Interests_dummy_value: "Ciiva - Smart Parts",
-                        JobFunction: $('#ACJobFunction').val()
-                    });
-
-                } else {
-                    alert(data);
-                    $("#popup-almost-done-create-ciiva-account").removeClass("popup-active");
-                    $('body').removeClass("popup-processed");
-                    triggerShowPopupNormal('#a_popup_create_ciiva_account', 'popup-create-ciiva-account');
-                }
-            },
-            error: function (a, b, c) {
-                $('#show-hide-free-icon-ajax-loader-normal-sign-up').hide();
-                alert('Cannot create account, please contact support@ciiva.com');
-            }
-        });
-
-
-    }
-
+    jQuery(".ciiva-privacy-bar__btn, .ciiva-privacy-bar__btn-close").on("click", function (e) {
+        e.preventDefault(),
+        jQuery(".ciiva-privacy-bar").remove(),
+        $.cookie("ciiva-privacy-bar", "yes", { expires: 365, path: "/" });
+        //$.cookie("ciiva-privacy-bar", "yes", { expires: 7 });
+    })
 </script>
 
-<a class="popup-btn" id="a_popup_sign_in_account_global" href="#popup-sign-in-account" style="display: none"></a>
-<a class="popup-btn" id="a_popup_forgot_password_account" href="#popup-forgot-password-account" style="display: none"></a>
 
-<div id="popup-forgot-password-account" class="b-popup  popup-sign-in ignore-bootstrap-css">
-    <div class="popup-inner">
-        <a class="btn-close" href="javascript:void(0);"></a>
-        <h3 class="pull-center">Forgot Password</h3>
-        <div class="form form-sign-in">
-            <form>
-                <div class="form-item form-type-text width-100">
-                    <input type="text" class="form-text" placeholder="Email" id="FGEmail" name="FGEmail" style="box-sizing: border-box;">
-                </div>
-                <div class="form-item form-actions pull-center">
-                    <input type="button" class="form-submit" style="color: #fff;" onclick="return CheckForgotSubmitData();" value="Submit">
-                </div>
-            </form>
-        </div>
-    </div>
-</div>
-
-<div id="popup-sign-in-account" class="b-popup  popup-sign-in ignore-bootstrap-css">
-    <div class="popup-inner">
-        <a class="btn-close" href="javascript:void(0);"></a>
-        <h3 class="pull-center">Sign in</h3>
-        <div class="form form-sign-in">
-            <form>
-                <div class="form-item form-type-text width-100">
-                    <input type="text" class="form-text" placeholder="Email" id="LoginEmail" name="LoginEmail" value="" style="box-sizing: border-box;">
-                </div>
-                <div class="form-item form-type-text width-100">
-                    <input type="password" class="form-text" placeholder="Password" id="LoginPassword" name="LoginPassword" style="box-sizing: border-box;">
-                </div>
-                <div class="links clearfix">
-                    <a class="forgot" id="linkForgotPassword" href="#" onclick="LoadCheckForgotForm()">Forgot Your Password?</a>
-                    <div class="form-item form-type-checkbox">
-                        <input type="checkbox" class="form-checkbox" name="LoginRememberMe" id="LoginRememberMe">
-                        <label for="LoginRememberMe">Remember me</label>
-                    </div>
-                </div>
-                <div class="form-item form-actions pull-center">
-                    <input type="button" class="form-submit" style="color: #fff;" onclick="return SignInAccountSubmitData();" value="Sign in">
-                </div>
-            </form>
-        </div>
-        <div class="popup-bottom"><a class="popup-btn" href="#" onclick="return LoadSignUpUser()">Create an Account</a></div>
-    </div>
-</div>
-
-<a class="popup-btn" id="a_sing_in_popup_create_ciiva_account" href="#popup-create-ciiva-account" style="display: none"></a>
-
-<script>
-
-
-    var rawURL = "/privacy-policy";
-
-    function LoadSignUpUser() {
-        $("#popup-sign-in-account").removeClass("popup-active");
-        $('body').removeClass("popup-processed");
-        triggerShowPopupSignIn('#a_sing_in_popup_create_ciiva_account', 'popup-create-ciiva-account');
-        return false;
-    }
-
-    function LoadCheckForgotForm() {
-        $("#popup-sign-in-account").removeClass("popup-active");
-        $('body').removeClass("popup-processed");
-        triggerShowPopupSignIn('#a_popup_forgot_password_account', 'popup-forgot-password-account');
-        return false;
-    }
-
-    function CheckForgotSubmitData() {
-
-        if ($('#FGEmail').val() == "") {
-            alert("Enter email");
-            return false;
-        }
-        //submit by Ajax
-        var theData = { FGEmail: $('#FGEmail').val() };
-        var json = JSON.stringify(theData);
-        $.ajax({
-            url: '/Account/CheckForgotSubmitData',
-            type: 'POST',
-            contentType: 'application/json; charset=utf-8',
-            data: json,
-            dataType: 'json',
-            success: function (data) {
-                if (data == 'ok') {
-                    $("#popup-forgot-password-account").removeClass("popup-active");
-                    $('body').removeClass("popup-processed");
-                    alert('Password recovery instructions were successfully sent to your email address');
-                } else {
-                    alert(data);
-                }
-            },
-            error: function (a, b, c) {
-                alert('Cannot sign-in, please contact support@ciiva.com');
-            }
-        });
-    }
-
-    function CheckLoginOfLink(link, from) {
-        if (from > 0) {
-            $('#ACCreateFrom').val(from);
-        }
-        var url = $(link).data("url");
-        $.ajax({
-            url: '/Account/CheckLoggedIn',
-            type: 'POST',
-            contentType: 'application/json; charset=utf-8',
-            dataType: 'json',
-            success: function (data) {
-                if (data == 'ok') {
-                    window.location.href = url;
-                } else {
-                    rawURL = url;
-                    $('body').removeClass("popup-processed");
-                    triggerShowPopupSignIn('#a_popup_create_ciiva_account', 'popup-create-ciiva-account');
-                }
-            },
-            error: function (a, b, c) {
-                alert('Cannot sign-in, please contact support@ciiva.com');
-            }
-        });
-    }
-
-    function CheckLoginOfLinkShowLoginForm(link, from) {
-        if (from > 0) {
-            $('#ACCreateFrom').val(from);
-        }
-        var url = $(link).data("url");
-        $.ajax({
-            url: '/Account/CheckLoggedIn',
-            type: 'POST',
-            contentType: 'application/json; charset=utf-8',
-            dataType: 'json',
-            success: function (data) {
-                if (data == 'ok') {
-                    window.location.href = url;
-                } else {
-                    rawURL = url;
-                    $('body').removeClass("popup-processed");
-                    triggerShowPopupSignIn('#a_popup_sign_in_account_global', 'popup-sign-in-account');
-                }
-            },
-            error: function (a, b, c) {
-                alert('Cannot sign-in, please contact support@ciiva.com');
-            }
-        });
-    }
-
-    function triggerShowPopupSignIn(linkObj, strPopupId) {
-        var tmpHiddenLink = $(linkObj);
-
-        tmpHiddenLink.bPopup();
-        var objPopup = tmpHiddenLink.data('plugin_bPopup');
-        var popup = objPopup.checkPopup(strPopupId);
-        objPopup.showPopup(popup);
-        return false;
-    }
-
-    function SignInAccountSubmitData() {
-        var IsRemeberMe = 1;
-
-        if ($("#LoginRememberMe").is(':checked'))
-            IsRemeberMe = 1;  // checked
-        else
-            IsRemeberMe = 0;  // unchecked
-
-        if ($('#LoginEmail').val() == "") {
-            alert("Please enter your email address");
-            $('#LoginEmail').focus();
-            return false;
-        }
-
-        if ($('#LoginPassword').val() == "") {
-            alert("Please enter your password");
-            $('#LoginPassword').focus();
-            return false;
-        }
-
-        //submit by Ajax
-        var theData = { UserName: $('#LoginEmail').val(), Password: $('#LoginPassword').val(), IsRememberMe: IsRemeberMe };
-        var json = JSON.stringify(theData);
-        $.ajax({
-            url: '/Account/LoginCiivaAccount',
-            type: 'POST',
-            contentType: 'application/json; charset=utf-8',
-            data: json,
-            dataType: 'json',
-            success: function (data) {
-                if (data == 'ok') {
-                    $("#popup-sign-in-account").removeClass("popup-active");
-                    $('body').removeClass("popup-processed");
-                    window.location.href = rawURL;
-                }
-                else if (data.Status == 'ok')
-                {
-                    submitMktoFormBackground({
-                        Action: "SignUp",
-                        Email: data.Email,
-                        FirstName: data.FirstName,
-                        LastName: data.LastName,
-                        Source: "SignInButton",
-                        Country: data.CountryName,
-                        Phone: data.Phone
-                    });
-                    window.location.href = '/dashboard#popup-all-set';
-                }
-                else
-                {
-                    alert(data);
-                }
-            },
-            error: function (a, b, c) {
-                alert('Cannot sign-in, please contact support@ciiva.com');
-            }
-        });
-    }
-
-    $(function () {
-        $('.b-popup div.form form input.form-text').keypress(function (e) {
-            if (e.which == 13) {
-                if (console.log)
-                    console.log('Enter pressed on: ' + $(this));
-                $(this).closest('form').find('.form-submit').click();
-                return false;
-            }
-        });
-    });
-</script>
 
 
 </body></html>
