@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phnompenhpost.com privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314190346id_/https%3A//www.phnompenhpost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phnompenhpost.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019123419id_/https%3A//www.phnompenhpost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy, Phnom Penh Post
 
