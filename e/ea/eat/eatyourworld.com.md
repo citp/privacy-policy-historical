@@ -1,135 +1,126 @@
-> *The following text is extracted and transformed from the eatyourworld.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929094249id_/http%3A//eatyourworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatyourworld.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019161819id_/https%3A//eatyourworld.com/privacy) for the most accurate reproduction.*
 
-# eatyourworld.com | Privacy Policy
+# Privacy Policy | Eat Your World
 
-**What information do we collect?**
-
-We collect information from you when you register on our site or subscribe to our newsletter. 
-
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
-
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
-
- **DoubleClick DART Cookie**
-
-.:: Google, as a third party vendor, uses cookies to serve ads on eatyourworld.com.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to eatyourworld.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
-Google Adsense   
-Commission Junction   
-Widget Bucks   
-Adbrite   
-Clickbank   
-Epic / Azoogle   
-Chitika   
-Linkshare   
-Amazon   
-Kontera   
-Advertising.com   
-CPAStorm   
-Burst   
-Valueclick   
-InfoLinks   
-Vibrant Media   
-24/7 Real Media   
-Tribal Fusion   
-Casale   
-Tremor Media   
-Adify   
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/eatyourworld.com).  
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on eatyourworld.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+Eat Your World, LLC (“Company,” “we,” “our,” “us”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Eat Your World website and domain name, and any other linked pages, features, content, or application services offered from time to time by Company in connection therewith (collectively, the “Website”), or using any of our services, you acknowledge that you accept the practices and policies outlined in this privacy policy.  
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
-eatyourworld.com has no access to or control over these cookies that are used by third-party advertisers. 
+**WHAT DOES THIS PRIVACY POLICY COVER?**
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. eatyourworld.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+This privacy policy covers our treatment of personally identifiable information (“Personal Information”) that we gather when you are accessing our Website and when you use our services. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
+**WHAT PERSONAL INFORMATION DOES COMPANY COLLECT?**
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+The information we gather from customers enables us to personalize and improve our services, and to allow our users to set up a user account and make purchases via the Website and PayPal. We collect the following types of information from our customers.
 
-**What do we use your information for?**
+**Personal Information You Provide to Us:**
 
-Any of the information we collect from you may be used in one of the following ways: 
+We receive and store any information you enter on our Website or voluntarily provide to us in any other way (via, for example, signing up as a member or for our newsletter, leaving comments, or a submitting a Contact form). The types of Personal Information collected may include your name, email address, gender, zip code, country, IP address, browser information, and, if you make a purchase through our Website, your credit card number, credit card security code, expiration date, billing address, and shipping address. On our Website you are able to create a user profile, which allows you to create a user name and password, as well as provide information like your Twitter account. We will store the user name, but your password will not be visible in our records.
 
-\- To personalize your experience  
-(your information helps us to better respond to your individual needs)
+You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features, and you may not be able to complete a purchase through the Website. The Personal Information you provide is used for such purposes as allowing you to purchase items, improving the content of the Website, customizing the advertising and content you see, and communicating with you about specials and new features.
 
-\- To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+We do not direct any of our content specifically to children. Users of our Website are required to be at least 16 years old, and any user under 16 is not an authorized user. Additionally, if we learn that a user is under 16 years of age, we will promptly delete any Personal Information we have collected about that user.
 
-\- To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+**Personal Information We Collect from Others:**
 
-\- To process transactions
+We may receive information about you from other sources, if, for instance, you link your Facebook, Instagram, and/or Google accounts to your user profile. If you choose to link these accounts to your user profile, we will receive your name, email address, and profile picture associated with that account. We use the Disqus commenting system, so if you choose to comment on a Website post, your Disqus profile picture will appear, if you have one.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+**Personal Information Automatically Collected:**
 
-\- To administer a contest, promotion, survey or other site feature
+We receive and store certain types of information whenever you interact with our Website or services. We automatically receive and record information on our server logs from your browser including your IP address, cookie information, the page you requested, and any items you may purchase. This information may be used to customize the content you see on our Website or to communicate with you about specials and new features.
 
-\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
+Usage information, such as the numbers and frequency of visitors to our site and its components, may also be used in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the Website or services so that we can make the Website appealing to as many customers as possible, and improve those services. As part of  this use of information, we may provide aggregate information to our partners about how our customers, collectively, use our site. We share this type of statistical data so that our partners also understand how often people use their services and our Website, so that they, too, may provide you with an optimal online experience. We never disclose aggregate information to a partner in a manner that would identify you personally.
 
-\- To send periodic emails
+Our Website uses Google Analytics Demographics and Interest Reporting to track demographic information. If you would like to opt out of this, please use this [link](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCj4rHTJbPGFv8COh1ncAeJ9lrdAbPtI4Oe5TCk_YOF__i0HbeivjzwK9-2uWLVutPc0c4-8tVBi3HcNvkJ_I64eKyNr7WuUVfDL4wuC2KeFsFa3Pw-E0igLcpoIEXjthsj9_qXgWKe3zk-01Iss245KKy82kxfRdnJ4cHhsG7hrAX5MCJ38y3fcRc7KTm3R-rJqwy7gwZ6qOn21ECSoClD-aSmxKMLxgwVUGy8nRAOc27cdkP2VVR4LFAoTf2O2ZcEkUTeV).
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
+**Email Communications:**
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+We may receive a confirmation when you open an email from us if your computer supports this type of program. Company uses this confirmation to help us make emails more interesting and helpful and improve our service. If you do not want to receive email or other mail from us, please indicate your preference by making a modification on your account page, or by using the “Unsubscribe” feature in any email we send to you.
 
- **How do we protect your information?**
+**What About Cookies?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+  * Cookies are small data files stored on your browser by this Website to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. Company cookies do not collect Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are or what your screen name or email address is.
+  * Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allow you to decide on acceptance of each new cookie in a variety of ways. Additionally, already-set cookies may be deleted at any time via your internet browser or other software program. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
+  * We may use cookies to compile usage or “clickstream” information about you or others who use your computer. This information allows us to, among other things, deliver targeted content that we believe will be of most interest to you. Cookies may also be used by third-party services, such as Google Analytics.
 
-**Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+**WILL COMPANY SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?**
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+Personal Information about our customers is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below.
 
- **Do we disclose any information to outside parties?**
+_Affiliated Businesses We Do Not Control:_ We are affiliated with a variety of third-party businesses and work closely with them. In certain situations, these businesses sell items to you through our Website. In other situations, we provide services, or sell products, jointly with affiliated businesses. You can recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is related to such transactions with that affiliated business.
 
-Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+We currently use the following third-party service providers:
 
-**Third party links**
+  * Google Analytics: Used to track Website usage and share with us information such as referring websites and user actions on this Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
+  * Mail Chimp: The service we use for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications. Please refer to Mail Chimp’s privacy policy for further information.
+  * PayPal Inc.: The service used for making online payments to this Website. We store your name and email address for purposes of delivering the digital products you ordered. Please refer to PayPal’s privacy policy for further information.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
- **California Online Privacy Protection Act Compliance**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+_Employees:_ We restrict access to your Personal Information to those employees who need to know that information to provide products or services to you.
 
- **Childrens Online Privacy Protection Act Compliance**
+_Business Transfers:_ In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Moreover, if our Company, or substantially all of its assets, were acquired, or in the unlikely event that our Company goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of our Company may continue to use your Personal Information as set forth in this policy.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+_Protection of our Company and Others:_ We may release Personal Information when we believe in good faith that release is necessary to comply with that law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of our Company, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.  
+ 
 
- **Online Privacy Policy Only**
+**ADVERTISING**
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+**Display Ads**
 
-**Your Consent**
+We may use third-party advertising companies to serve content and ads when you visit this Website, which may use cookies, as mentioned above.
 
-By using our site, you consent to our web site privacy policy. 
+**Retargeting Ads**
 
-**Changes to our Privacy Policy**
+Occasionally, our Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market this Website or its services. These companies use cookies to serve ads based on someone’s past visits to this Website.
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+**Affiliate Program Participation**
 
-**Contacting Us**
+Our Website engages in affiliate marketing, which is done by embedding tracking links into content on this Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
 
-If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
+For example, Eat Your World is currently a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com. As part of this Amazon Associates program, this Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales. Such links will always be openly disclosed to readers. 
 
-2885 Sanford Ave  
-SW #19781  
-Grandville, MI 49418  
-USA 
+**IS PERSONAL INFORMATION ABOUT ME SECURE?**
 
-eatyourworld.com 
+Your user account Personal Information is protected by a password for your privacy and security. You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
 
-Email:  
-contact@eatyourworld.com  
+When our order form asks users to enter Personal Information such as a credit card number, that information is encrypted with industry-standard Secure Socket Layers (“SSL”) encryption to keep your online order safe and secure. When the letters “http” in the URL address change to “https,” the “s” indicates you are in a secure area employing SSL. Company also maintains physical, electronic, and procedural safeguards that comply with federal regulations to protect your Personal Information.
 
+Company endeavors to protect user information to ensure that user account information is kept private, however, Company cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
+
+The Website may contain links to other sites. Company is not responsible for the privacy policies and/or practices on other sites. When linking to another site you should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Website.
+
+**WHAT PERSONAL INFO** **RMATION CAN I ACCESS?**
+
+We allow you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list may change as our Website changes.
+
+  * Email address
+  * Zip code
+  * Country
+  * Shipping & billing information
+
+
+
+**WHAT CHOICES DO I HAVE?**
+
+  * As stated previously, you can always opt not to disclose information to use, even though it may be needed to take advantage of certain Website features, including the ability to purchase items and set up user profiles through the Website.
+  * You are able to add or update certain information on pages, such as those listed in the “What Personal Information Can I Access” section above. When you update information, however, we may maintain a copy of the unrevised information in our private records.
+  * If you do not wish to receive email or other mail from us, including promotional offers, please indicate this preference by changing your account settings, or by notifying us by using the “Unsubscribe” feature in any email we send to you. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of our Website, and you are responsible for reviewing such legal notices for changes.
+
+
+
+**CHANGES TO THIS PRIVACY POLICY**
+
+Company may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.
+
+**QUESTIONS OR CONCERNS**
+
+If you have any questions or concerns regarding privacy at our Website, please send us a detailed message to [[email protected]](https://eatyourworld.com/cdn-cgi/l/email-protection), and we will make every effort to resolve your concerns. 
+
+_Last updated: May 24, 2018_
