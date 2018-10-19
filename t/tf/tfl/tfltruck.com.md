@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tfltruck.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130160713id_/https%3A//www.tfltruck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfltruck.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019134719id_/https%3A//www.tfltruck.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Fast Lane Truck
 
@@ -43,11 +43,11 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.tfltruck.com](http://www.tfltruck.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://www.tfltruck.com](https://www.tfltruck.com/)
 
 **Your Consent**
 
-By using our site, you consent to our [web site privacy policy](http://www.tfltruck.com/privacy-policy).
+By using our site, you consent to our [web site privacy policy](https://www.tfltruck.com/privacy-policy).
 
 **Changes to our Privacy Policy**
 
@@ -59,7 +59,7 @@ This policy was last modified on dec-08-2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-> [Home](http://www.tfltruck.com/)
+> [Home](https://www.tfltruck.com/)
 
   
 info@tflcar.com
