@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i4u.com.pk privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522025030id_/http%3A//www.i4u.com.pk/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i4u.com.pk privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019024744id_/http%3A//www.i4u.com.pk/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | i4u.com.pk
 
