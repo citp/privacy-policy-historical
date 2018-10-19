@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aliciakeys.com privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801143112id_/http%3A//aliciakeys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aliciakeys.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019133305id_/http%3A//aliciakeys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Alicia Keys
 
