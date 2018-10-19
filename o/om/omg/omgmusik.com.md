@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the omgmusik.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616011015id_/http%3A//omgmusik.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgmusik.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019213633id_/http%3A//omgmusik.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OMGMUSIK
+
+Skip to content
 
 **To visitor:**
 
@@ -17,4 +19,4 @@ We use & quot; Cookie & quot; To gather information. You can instruct your brows
 
 **Contact us**
 
-If you have any questions about privacy policy, please contact us by email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about privacy policy, please contact us by email: omgmusikcom@gmail.com
