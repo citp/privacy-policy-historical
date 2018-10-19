@@ -1,36 +1,43 @@
-> *The following text is extracted and transformed from the brynmawr.edu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114835id_/http%3A//www.brynmawr.edu/computing/policies/WebPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brynmawr.edu privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019021931id_/https%3A//www.brynmawr.edu/lits/about/policies/privacy-policy) for the most accurate reproduction.*
 
-# WebPrivacy
+# Privacy Policy | Bryn Mawr College
 
-## Web Privacy 
+Bryn Mawr College values your privacy. We want you to know how we protect your data.  
 
-### Bryn Mawr College - Web Privacy Policy
+This Privacy Policy describes the privacy practices of Bryn Mawr College for [brynmawr.edu](https://www.brynmawr.edu/) and other Bryn Mawr College sites, applications, or digital services. Some sites may have additional privacy policies. By using and/or participating in these sites, you signify that you have read this policy and agree to be bound by and comply with it. If you do not agree to be bound by these terms, please promptly exit all Bryn Mawr College sites.  If you are providing your information to us, you may be asked to agree to the terms of this policy before submitting your information.
 
-Revised - March 2010, Minor revision - June 2012
+### Information Gathered About You 
 
-Bryn Mawr respects your privacy and has created this policy to ensure any personal information we receive is handled in a secure and responsible manner.
+We collect information about you in the form of data that you or other parties provide to us (for example, your contact information, background, interests or qualifications) and in the form of information that we obtain from your on-line activity when you access one of our sites. We may collect non-personal information about the computer, mobile device or other devices you use to access our sites, such as IP address, geolocation information, unique device identifiers, browser type, browser language or other information of this nature. On one or more of our sites, we use web analytics tools, including primarily Google Analytics (Google privacy policy is at <http://www.google.com/intl/en/analytics/privacyoverview.html>).
 
-### What information is collected
+Other parties may provide your information to us (for example, if you have asked the College Board to send us your test scores or if a third party identifies you as a prospective student who may be interested in our programs).
 
-1\. Our server logs information that is not personally identifiable. Collecting this information enables us to identify which pages are most popular and to maintain our servers. This information includes: IP (Internet Protocol) address, browser and operating system, date/time of requests, pages requested and search terms.  
-2\. Some of our pages may use "cookies" so that we can tailor our web page to the needs of our users. Cookies are small text files sent from our website to your computer. You can set your browser to notify you when a cookie is being sent, giving you the chance to accept or decline it.  
-3\. Personal information is collected through the use of web forms, downloadable documents, and e-mail links.   
-4\. If a log in is required, using a username and password provided by the College, the systems will record that you logged in and your activity.  
-5\. If payment is required, we do not store bank or credit card account numbers after submitting them into the payment networks. 
+Information that we collect for the purposes described herein may include your name and other identifying information, email address, physical address, phone numbers, race and ethnicity.
 
-### Use and distribution of collected information
+### How We Use Information
 
-1\. We use personally identifiable information to support college operations. Specific purposes may also be outlined in the space it is collected.  
-2\. We will not share, sell, rent or distribute personally identifiable information submitted via the web site to other organizations or businesses except where stated or when required by law.  
-3\. We may link to sites outside the Bryn Mawr College domain. We are not responsible for the content or privacy practices of those sites. Personal web spaces hosted by Bryn Mawr, such as those on blogs.brynmawr.edu, are the sole responsibility of those sites' owners, and Bryn Mawr is not responsible for the content or privacy practices of those sites.  
-4\. If a log in is required, any personal information that is gathered may not be anonymous but will be confidential and handled within the terms of the [Bryn Mawr College Acceptable Use Policy](https://web.archive.org/web/20140625114835id_/http%3A//www.brynmawr.edu/computing/policies/AcceptableUse.htm).
+We may use your information in order to process student, financial aid and/or job applications, student or employee registrations, and other services and benefits that we provide to our prospective students, students, employees and other persons.  In addition, we are required to report certain aggregate demographic information to various authorities.  
 
-### Commitment to security
+Information that we have gathered may be shared with third-party partners to the extent necessary for such third parties to provide services to us or to you, or provide and improve web services or other communications. We may also provide your information to third parties in circumstances in which we believe that doing so is necessary or appropriate to: satisfy any applicable law, regulation, legal process or governmental request; detect, prevent or otherwise address fraud, security or technical issues; or protect rights, property or safety.
 
-Bryn Mawr maintains security by applying patches for all known software vulnerabilities. We also use SSL (Secure Socket Layer) encryption technology where possible to protect the transmission of information submitted to us.
+### Web and System Interactions
 
-### Choice
+We use collected information in an aggregate fashion to track access to our sites. We use your IP address to administer our website by identifying (1) which parts of our site are most heavily used, (2) where our users come from (i.e., a referring sign or a search engine, etc.), and (3) which portions of our audience come from within or outside the Bryn Mawr College network. We do not link IP addresses to anything personally identifiable unless we are required to do so under court order or other legal process. We may use cookies or other similar technologies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. Cookies are small files that are stored on your computer (unless you block them). 
 
-Some pages on our site will use web forms or e-mail links to collect personal information from you. On those pages, we intend to state clearly how we will use that information and which items are required. 
+Cookies may be set by an organization other than our sites. These "third-party cookies" may, for example, originate from websites such as YouTube, Twitter, Facebook, Google Plus or other social media services. You are responsible for evaluating their policies by visiting the privacy policy pages of these sites directly. You may disable cookies through your individual browser options.
 
-If you have any questions regarding this policy, please email webmaster@brynmawr.edu. In the future our policy may change. Any changes will be reflected in this document. 
+### Email Interactions
+
+Any email address you provide may be used by the College to send you information.
+
+If you send us email messages, please be aware that information that you provide in an email may not be secure or encrypted and thus may be available to others. Exercise caution when deciding to disclose any personal or confidential information in email.
+
+We will not share with, sell to, or authorize any third party to use your email address for commercial purposes without your permission.
+
+### Changes to This Privacy Policy
+
+Bryn Mawr College reserves the right to change, modify, or otherwise amend this Privacy Policy at its sole discretion and at any time as it deems circumstances warrant. Any such changes will be posted on this page.
+
+_Updated May 2018_
+
+[Acceptable Use Policy](https://www.brynmawr.edu/lits/about/policies/acceptable-use-policy)
