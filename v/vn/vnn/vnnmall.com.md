@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vnnmall.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622051720id_/http%3A//www.vnnmall.com/pages.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vnnmall.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019221356id_/https%3A//www.vnnmall.com/pages.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # VnnMall.com
 
