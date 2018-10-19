@@ -1,97 +1,164 @@
-<!--The following is the downloaded HTML source of the electricchoice.com privacy policy that was archived on 2017-02-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170226231431id_/https%3A//www.electricchoice.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the electricchoice.com privacy policy that was archived on 2018-10-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181019130041id_/https%3A//www.electricchoice.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="js"><!--<![endif]--><head>
+    <script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KT5ZJMS"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-1478802-16', 'auto');
+        ga('require', 'GTM-NZ9H7BL');
+        ga('send', 'pageview');
+    </script>
 
-<script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://use.fontawesome.com/776d311a9d.js"></script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KT5ZJMS');</script>
+    <!-- End Google Tag Manager -->
 
+    <!-- <script src="https://use.fontawesome.com/776d311a9d.js"></script> -->
 
-<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/wp-content/plugins/utility-api/assets/font-awesome-4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script>
+        (function(){
+            // Override the addClass to prevent fixed header class from being added
+            var addclass = jQuery.fn.addClass;
+            jQuery.fn.addClass = function(){
+                var result = addclass.apply(this, arguments);
+                jQuery('#main-header').removeClass('et-fixed-header');
+                return result;
+            }
+        })();
+        jQuery(function($){
+            $('#main-header').removeClass('et-fixed-header');
+        });
+    </script>
 
-<script>
-(function(){
-    // Override the addClass to prevent fixed header class from being added
-    var addclass = jQuery.fn.addClass;
-    jQuery.fn.addClass = function(){
-        var result = addclass.apply(this, arguments);
-            jQuery('#main-header').removeClass('et-fixed-header');
-        return result;
-    }
-})();
-jQuery(function($){
-    $('#main-header').removeClass('et-fixed-header');
-});
-</script>
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-1478802-16', 'auto');
+        ga('send', 'pageview');
 
-  ga('create', 'UA-1478802-16', 'auto');
-  ga('send', 'pageview');
+    </script>
+    <script>
+        jQuery(document).ready(function(){
+            var query_string = '';
+//		var search_paths = ['/residential/view_plan', '/residential_contact_complete_form', '/residential_enroll_complete_form', '/residentialshopping_thank_you', '/residentialshopping_non_api_thank_you', '/select-utility', '/commercial-rates', '/commercial/view_plan', '/commercial_shopping/commercial_complete_form', '/commercialshopping_thank_you'];
+//		if(jQuery.inArray(window.location.pathname, search_paths) == -1) {
+//			query_string =  getUrlVars();
+//		}
+//
+            var api_key = getParameterByName('api_key');
+            var provider_id = getParameterByName('provider_id');
 
-</script>
+            if (api_key !== null && provider_id !== null) {
+                query_string = 'api_key='+ api_key + '&provider_id='+provider_id;
+            }
+            else if(api_key !== null){
+                query_string =  'api_key='+ api_key;
+            }
+            else if(provider_id !== null) {
+                query_string =  'provider_id='+ provider_id;
+            }
+            if (query_string !== '') {
+                jQuery( 'a' ).each( function( index, element ){
+                    if ((jQuery('.sort .sort_link').length ==1 && jQuery(element).hasClass('sort sort_link') == false) || (jQuery('.add-meter').length && jQuery(element).hasClass('add-meter') == false)) {
+                        var url = jQuery(element).prop('href');
+                        if (url.indexOf('?') == -1) {
+                            url += '?' + query_string;
+                        } else {
+                            url += '&' + query_string;
+                        }
 
-<script>
-jQuery(function(){
-        var attachChangeListenerToSelectThatUpdatesFormAction = function(){
-            var $select = jQuery(this);
-            $select.change(function(event){
-                var $form = $select.closest('form');
-                
-                  $form.attr('action', '/utility/validate');
-                
+                        jQuery(element).prop('href', url);
+                    }
+                });
+            }
+        });
+        jQuery(function(){
+            var attachChangeListenerToSelectThatUpdatesFormAction = function(){
+                var $select = jQuery(this);
+                $select.change(function(event){
+                    var $form = $select.closest('form');
+
+                    $form.attr('action', '/utility/validate');
+
+                });
+            };
+            jQuery('.home-btn').click(function() {
+                jQuery(".home-form").slideToggle();
+                jQuery(".home-form").css({"float":"left"});
             });
-        };
-       jQuery('.home-btn').click(function() {
-         jQuery(".home-form").slideToggle();
-         jQuery(".home-form").css({"float":"left"});
-       });
-     	
-        jQuery('select[name=service_type]').map(attachChangeListenerToSelectThatUpdatesFormAction);
 
-        /**
-         * Validate forms
-         */
-        window.validateShoppingZipSubmit = function(form){
-            var $form = jQuery(form);
-            //serviceType
-            if($form.find('select[name=service_type]')[0].value === ''){
-                alert('You must select either residential or commercial service');
+            jQuery('select[name=service_type]').map(attachChangeListenerToSelectThatUpdatesFormAction);
 
-                return false;
+            /**
+             * Validate forms
+             */
+            window.validateShoppingZipSubmit = function(form){
+                var $form = jQuery(form);
+                //serviceType
+//            if($form.find('select[name=service_type]')[0].value === ''){
+//                alert('You must select either residential or commercial service');
+//
+//                return false;
+//            }
+
+                //zip
+                if($form.find('input[name=zip]')[0].value.length !== 5){
+                    alert('Zip code is required, must be 5 digits.');
+
+                    return false;
+                }
+                $form.attr('action', '/utility/validate');
             }
+        });
 
-            //zip
-            if($form.find('input[name=zip]')[0].value.length !== 5){
-                alert('Zip code is required, must be 5 digits.');
-
-                return false;
-            }
+        //	function getUrlVars()
+        //	{
+        //		var val = window.location.href;
+        //		var queryString = '';
+        //		if (val.indexOf("?") != -1) {
+        //			queryString = val.substr(val.indexOf("?") + 1);
+        //		}
+        //		return queryString;
+        //	}
+        function getParameterByName(name, url) {
+            if (!url) url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
         }
-    })
-</script>
+    </script>
 
 
 
-	
-			
-	
-	<link rel="pingback" href="https://www.electricchoice.com/xmlrpc.php">
 
-		<!--[if lt IE 9]>
-	<script src="https://www.electricchoice.com/wp-content/themes/Extra/scripts/ext/html5.js" type="text/javascript"></script>
-	<![endif]-->
+            		    
+    <link rel="pingback" href="https://www.electricchoice.com/xmlrpc.php">
 
-	<script type="text/javascript">
-		document.documentElement.className = 'js';
-	</script>
+        <!--[if lt IE 9]>
+    <script src="https://www.electricchoice.com/wp-content/themes/Extra/scripts/ext/html5.js" type="text/javascript"></script>
+    <![endif]-->
 
-	<title>Privacy Policy – Electric Choice</title>
+    <script type="text/javascript">
+        document.documentElement.className = 'js';
+    </script>
+
+    <title>Privacy Policy – Electric Choice</title>
 
 <!-- This site is optimized with the Yoast SEO plugin v3.5 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="This privacy policy applies to ElectricChoice.com and all products and services offered by ElectricChoice.com, owned by Eisenbach Consulting, LLC.">
@@ -105,14 +172,15 @@ jQuery(function(){
 <meta property="og:site_name" content="Electric Choice">
 <!-- / Yoast SEO plugin. -->
 
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Electric Choice » Feed" href="https://www.electricchoice.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Electric Choice » Comments Feed" href="https://www.electricchoice.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Electric Choice » Privacy Policy Comments Feed" href="https://www.electricchoice.com/privacy/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.electricchoice.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.3"}};
-			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://www.electricchoice.com/wp-includes/js/wp-emoji-release.min.js?ver=4.6.3" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.electricchoice.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.electricchoice.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.8" type="text/javascript" defer=""></script>
 		<meta content="Extra Child v.1.3.11.1472306270" name="generator"><style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -128,8 +196,11 @@ img.emoji {
 }
 </style>
 <link rel="stylesheet" id="contact-form-7-css" href="https://www.electricchoice.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5.1" type="text/css" media="all">
-<link rel="stylesheet" id="chld_thm_cfg_parent-css" href="https://www.electricchoice.com/wp-content/themes/Extra/style.css?ver=4.6.3" type="text/css" media="all">
+<link rel="stylesheet" id="mr-frontend-style-css" href="https://www.electricchoice.com/wp-content/plugins/multi-rating/assets/css/frontend-min.css?ver=4.9.8" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=4.9.8" type="text/css" media="all">
+<link rel="stylesheet" id="chld_thm_cfg_parent-css" href="https://www.electricchoice.com/wp-content/themes/Extra/style.css?ver=4.9.8" type="text/css" media="all">
 <link rel="stylesheet" id="extra-style-css" href="https://www.electricchoice.com/wp-content/themes/Extra-child/style.css?ver=1.3.11" type="text/css" media="all">
+<link rel="stylesheet" id="wordpress-popular-posts-css" href="https://www.electricchoice.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.3.4" type="text/css" media="all">
 <link rel="stylesheet" id="et-shortcodes-css-css" href="https://www.electricchoice.com/wp-content/themes/Extra/epanel/shortcodes/css/shortcodes.css?ver=1.3.11" type="text/css" media="all">
 <link rel="stylesheet" id="magnific-popup-css" href="https://www.electricchoice.com/wp-content/themes/Extra/includes/builder/styles/magnific_popup.css?ver=1.3.11" type="text/css" media="all">
 <script type="text/javascript" src="https://www.electricchoice.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
@@ -140,7 +211,60 @@ img.emoji {
 <link rel="shortlink" href="https://www.electricchoice.com/?p=5993">
 <link rel="alternate" type="application/json+oembed" href="https://www.electricchoice.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.electricchoice.com%2Fprivacy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.electricchoice.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.electricchoice.com%2Fprivacy%2F&amp;format=xml">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1">
+			<style type="text/css">
+								.mr-custom-full-star {
+					background: url() no-repeat;
+					width: 32px;
+					height: 32px;
+					background-size: 32px 32px;
+					image-rendering: -moz-crisp-edges;
+					display: inline-block;
+				}
+				.mr-custom-half-star {
+					background: url() no-repeat;
+					width: 32px;
+					height: 32px;
+					background-size: 32px 32px;
+					image-rendering: -moz-crisp-edges;
+					display: inline-block;
+				}
+				.mr-custom-empty-star {
+					background: url() no-repeat;
+					width: 32px;
+					height: 32px;
+					background-size: 32px 32px;
+					image-rendering: -moz-crisp-edges;
+					display: inline-block;
+				}
+				.mr-custom-hover-star {
+					background: url() no-repeat;
+					width: 32px;
+					height: 32px;
+					background-size: 32px 32px;
+					image-rendering: -moz-crisp-edges;		
+					display: inline-block;		
+				}
+				.mr-star-hover {
+					color: #ffba00 !important;
+				}
+				.mr-star-full, .mr-star-half, .mr-star-empty {
+					color: #ffd700;
+				}
+				.mr-error {
+					color: #EC6464;
+				}
+			</style>
+			<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1">
+<style type="text/css" id="extra-dynamic-styles-content_width-max-width">
+#main-content .container,
+.boxed_layout #page-container,
+.boxed_layout,
+.boxed_layout.et_fixed_nav .et-fixed-header #main-header {
+	max-width: 1900px;
+}
+
+</style>
+
 <style type="text/css" id="extra-dynamic-styles-accent_color-color">
 .widget_et_recent_tweets .widget_list a,
 .widget_et_recent_tweets .et-extra-icon,
@@ -272,7 +396,7 @@ h6 a {
 
 <style type="text/css" id="extra-dynamic-styles-body_font-font-family">
 body {
-	font-family: 'Open Sans', Helvetica, Arial, Lucida, sans-serif; font-weight: 300;
+	font-family: 'Open Sans', Helvetica, Arial, Lucida, sans-serif;
 }
 
 </style>
@@ -288,6 +412,13 @@ a:visited {
 <style type="text/css" id="extra-dynamic-styles-body_text_color-color">
 body {
 	color: rgba(51,51,51,0.91);
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-primary_nav_font_size-font-size">
+#et-menu li a {
+	font-size: 13px;
 }
 
 </style>
@@ -418,7 +549,7 @@ body {
 
 <style type="text/css" id="extra-dynamic-styles-fixed_nav_font_size-font-size">
 .et-fixed-header #et-menu li a {
-	font-size: 22px;
+	font-size: 24px;
 }
 
 </style>
@@ -521,23 +652,64 @@ a.read-more-button:visited:hover,
 
 			@media only screen and (min-width: 768px) {
 				#main-header .logo {
-					height: 10px;
-					margin: 45px 0;
+					height: 16.91px;
+					margin: 36.045px 0;
 				}
 				.header.left-right #et-navigation > ul > li > a {
-					padding-bottom: 42px;
+					padding-bottom: 38px;
 				}
 			}
 			@media only screen and (min-width: 768px) {
 				.et-fixed-header #main-header .logo {
-					height: 25.8px;
-					margin: 17.1px 0;
+					height: 116px;
+					margin: 0px 0;
 				}
 				.et-fixed-header .header.left-right #et-navigation > ul > li > a {
-					padding-bottom: 19px;
+					padding-bottom: 46px;
 				}
 			}</style>
-<link rel="amphtml" href="https://www.electricchoice.com/privacy/amp/"><!-- Start of LiveChat (www.livechatinc.com) code -->
+				<!-- WordPress Popular Posts v3.3.4 -->
+				<script type="text/javascript">
+
+					var sampling_active = 0;
+					var sampling_rate   = 100;
+					var do_request = false;
+
+					if ( !sampling_active ) {
+						do_request = true;
+					} else {
+						var num = Math.floor(Math.random() * sampling_rate) + 1;
+						do_request = ( 1 === num );
+					}
+
+					if ( do_request ) {
+
+						/* Create XMLHttpRequest object and set variables */
+						var xhr = ( window.XMLHttpRequest )
+						  ? new XMLHttpRequest()
+						  : new ActiveXObject( "Microsoft.XMLHTTP" ),
+						url = 'https://www.electricchoice.com/wp-admin/admin-ajax.php',
+						params = 'action=update_views_ajax&token=0bc53a93f4&wpp_id=5993';
+						/* Set request method and target URL */
+						xhr.open( "POST", url, true );
+						/* Set request header */
+						xhr.setRequestHeader( "Content-type", "application/x-www-form-urlencoded" );
+						/* Hook into onreadystatechange */
+						xhr.onreadystatechange = function() {
+							if ( 4 === xhr.readyState && 200 === xhr.status ) {
+								if ( window.console && window.console.log ) {
+									window.console.log( xhr.responseText );
+								}
+							}
+						};
+						/* Send request */
+						xhr.send( params );
+
+					}
+
+				</script>
+				<!-- End WordPress Popular Posts v3.3.4 -->
+				<link rel="amphtml" href="https://www.electricchoice.com/privacy/amp/"><!-- Start of LiveChat (www.livechatinc.com) code -->
 <script type="text/javascript">
 window.__lc = window.__lc || {};
 window.__lc.license = 1510302;
@@ -553,65 +725,70 @@ window.__lc.license = 1510302;
 #main-header-wrapper {
 transition: none !important;
 }
-</style><script type="text/javascript" charset="utf-8" async="" defer="" src="https://front.optimonk.com/public/17324/js/preload.js"></script><script async="" src="//static.hotjar.com/c/hotjar-397905.js?sv=5"></script></head>
-<body class="page page-id-5993 page-template-default et_extra et_fixed_nav et_fixed_nav_hide_logo_image et_pb_gutters3 et_primary_nav_dropdown_animation_Default et_secondary_nav_dropdown_animation_Default with_sidebar with_sidebar_right unknown et_includes_sidebar">
-	<div id="page-container">
-				<!-- Header -->
-		<header class="header centered">
-						<!-- #top-header -->
-			<div id="top-header" style="">
-				<div class="container">
+</style><script type="text/javascript" charset="utf-8" async="" defer="" src="https://front.optimonk.com/public/17324/js/preload.js"></script></head>
+<body class="page-template-default page page-id-5993 et_extra et_fixed_nav et_fixed_nav_hide_logo_image et_pb_gutters3 et_primary_nav_dropdown_animation_Default et_secondary_nav_dropdown_animation_Default with_sidebar with_sidebar_right unknown et_includes_sidebar">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KT5ZJMS"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="page-container">
+            <!-- Header -->
+    <header class="header centered ">
+                    <!-- #top-header -->
+            <div id="top-header" style="">
+                <div class="container">
 
-					<!-- Secondary Nav -->
-											<div id="et-secondary-nav" class="et-trending">
-						
-							<!-- ET Trending -->
-							<div id="et-trending">
+                    <!-- Secondary Nav -->
+                                            <div id="et-secondary-nav" class="et-trending">
+                            
+                                <!-- ET Trending -->
+                                <div id="et-trending">
 
-								
 
-								<!-- ET Trending Post Loop -->
-								<div id="et-trending-container">
 
-										<a href="https://www.electricchoice.com"><img src="https://www.electricchoice.com/wp-content/uploads/2017/01/ec_newlogo2_011117.png" alt="Electric Choice Logo" border="0" style="float:left; display:inline-block;height: 18px;margin-top: 8px;margin-right: 30px;"></a><p style="color:#fff;font-size:16px;display:inline-block;font-weight:900; text-shadow: 1px 1px 1px #336699;">
-&nbsp;
+                                    <!-- ET Trending Post Loop -->
+                                    <div id="et-trending-container">
 
-</p>
-								</div>
-							</div>
-							
-												</div>
-					
-					<!-- #et-info -->
-					<div id="et-info">
+                                        <a href="https://www.electricchoice.com">
+                                                                                            <img src="https://www.electricchoice.com/wp-content/uploads/2018/05/LOGO-1.png" alt="Electric Choice Logo" border="0" style="float:left; height:30px; display:inline-block;margin-top: 2px;margin-right: 40px;">
+                                                                                    </a><p style="color:#fff;font-size:16px;display:inline-block;font-weight:900; text-shadow: 1px 1px 1px #336699;">
+                                            &nbsp;
+                                        </p>
 
-<p style="color: #fff; font-weight: 900; font-size: 18pt; margin-top: -10px;">1-800-974-3020</p>
+                                    </div>
+                                </div>
+                                
+                                                    </div>
+                    
+                    <!-- #et-info -->
+                    <div id="et-info">
 
-						
+                        <p style="#333333 font-weight: 900; font-size: 18pt; margin-top: -10px;">1-800-974-3020</p>
 
-						<!-- .et-top-search -->
-						
-						<!-- cart -->
-											</div>
-				</div><!-- /.container -->
-			</div><!-- /#top-header -->
 
-			
-			<!-- Main Header -->
-			<div id="main-header-wrapper">
-				<div id="main-header" data-fixed-height="60">
-					<div class="container">
-					<!-- ET Ad -->
-						
-						
-						<!-- ET Navigation -->
-						<div id="et-navigation" class="">
-							<ul id="et-menu" class="nav"><li id="menu-item-7377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7377"><a href="https://www.electricchoice.com/how-it-works/">How it Works</a></li>
-<li id="menu-item-7496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7496"><a href="https://www.electricchoice.com/electricity-prices-by-state/">Electricity Rates</a></li>
-<li id="menu-item-7272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7272"><a href="https://www.electricchoice.com/map-deregulated-energy-markets/">Deregulated Markets</a></li>
-<li id="menu-item-7284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7284"><a href="https://www.electricchoice.com/electricity-companies/">Providers</a></li>
-<li id="menu-item-7399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7399"><a href="https://www.electricchoice.com/blog/">Blog</a></li>
-</ul>							<div id="et-mobile-navigation">
+
+                        <!-- .et-top-search -->
+                        
+                        <!-- cart -->
+                                            </div>
+                </div><!-- /.container -->
+            </div><!-- /#top-header -->
+
+        			<!-- Start of Hide header for custom created search pages-->
+			        <!-- Main Header -->
+        <div id="main-header-wrapper">
+            <div id="main-header" data-fixed-height="116">
+                <div class="container">
+                    <!-- ET Ad -->
+                    
+                    
+                    <!-- ET Navigation -->
+                    <div id="et-navigation" class="">
+                        <ul id="et-menu" class="nav"><li id="menu-item-7839" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-7839"><a href="https://www.electricchoice.com/">Home</a></li>
+<li id="menu-item-7842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7842"><a href="https://www.electricchoice.com/map-deregulated-energy-markets/">Deregulated Markets</a></li>
+<li id="menu-item-7840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7840"><a href="https://www.electricchoice.com/about/">About</a></li>
+<li id="menu-item-7841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7841"><a href="https://www.electricchoice.com/blog/">Blog</a></li>
+</ul>                        <div id="et-mobile-navigation">
 			<span class="show-menu">
 				<div class="show-menu-button">
 					<span></span>
@@ -622,66 +799,64 @@ transition: none !important;
 			</span>
 			<nav>
 			</nav>
-		</div> <!-- /#et-mobile-navigation -->						</div><!-- /#et-navigation -->
-					</div><!-- /.container -->
-				</div><!-- /#main-header -->
-			</div><!-- /#main-header-wrapper -->
+		</div> <!-- /#et-mobile-navigation -->                    </div><!-- /#et-navigation -->
+                </div><!-- /.container -->
+            </div><!-- /#main-header -->
+        </div><!-- /#main-header-wrapper -->
 
-		</header>
-<!-- Get data from custom fields -->
-<div class="header-cta-mobile">
+    </header>
+    <!-- Get data from custom fields -->
+            <div class="header-cta-mobile">
 
-<h5>See electricity plans offered in your area</h5>
+        <h5>Find electric rates and plans from providers in your area.</h5>
 
 
-</div>
+    </div>
 
-<!--FORM WIDGET-->
-<div class="header-cta">
-<div class="header-cta-container">
+    <!--FORM WIDGET-->
+    <div class="header-cta">
+        <div class="header-cta-container">
 
-<div id="largecta"><p>See electricity plans offered in your area</p></div>
- 
-          <div class="ce-zip-search2">
+                            <div id="largecta"><p>Find electric rates and plans from providers in your area.</p></div>
+                                    <div class="ce-zip-search2">
+                <form onsubmit="return validateShoppingZipSubmit(this);" id="ec_header_form_new" target="_self" action="#" method="post">
+                    <input id="api_key" name="api_key" type="hidden" value="4cfe504">
 
-<form onsubmit="return validateShoppingZipSubmit(this);" id="ec_header_form_new" target="_self" action="#" method="post">
-    <input id="api_key" name="api_key" type="hidden" value="4cfe504">
 
-           
-              <input id="ftZip" class="zip-search" title="Compare Energy Prices" name="zip" pattern="([0-9]{5}(-[0-9]{4})?)" required="" size="5" type="number" placeholder="Enter Zip Code" autofocus="autofocus">
-<input type="hidden" name="api_key" value="4cfe504">
-              <label class="select-label">
-                <select id="serviceType" class="size-select" name="service_type">
-<option value="" disabled="" selected="">Home or Business?</option>
-                  <option value="commercial">Business</option>
-                  <option value="residential">Home</option>
-                </select>
-                
-              </label>
-              <button class="btn-primary-ppc" name="submit" type="submit"><b>SEE RATES →</b></button>
-            </form>
+                    <input id="ftZip" class="zip-search" title="Compare Energy Prices" name="zip" pattern="([0-9]{5}(-[0-9]{4})?)" required="" size="5" type="number" placeholder="Zip code" autofocus="autofocus" style="font-size:28px;">
+                    <input type="hidden" name="api_key" value="4cfe504">
+                    <!--              <label class="select-label">-->
+                    <!--                <select id="serviceType" class="size-select" name="service_type">-->
+                    <!--<option value="" disabled selected>Show me rates for my...</option>-->
+                    <!--                  <option value="commercial">Business</option>-->
+                    <!--                  <option value="residential">Home</option>-->
+                    <!--                </select>-->
+                    <!---->
+                    <!--              </label>-->
+                    <button class="btn-primary-ppc" name="submit" type="submit" style="font-size:28px;"><b>SEE RATES →</b></button>
+                </form>
 
-</div>
+            </div>
 
-<div id="smallcta"><p>We've shown rates to <strong>99,394</strong> homes and businesses since 2002. </p></div>
-
+                            <div id="smallcta"><p></p></div>
+            
         </div>
 
-</div>
+    </div>
 
-<div class="headerfoot">
-<div id="logos">
-<img src="https://www.electricchoice.com/wp-content/uploads/2017/01/AsSeen_Banner4_010917.png" alt="As Seen On Logos">
-</div>
-
-
-</div>
+    <div class="headerfoot">
+        <div id="logos">
+            <img src="https://www.electricchoice.com/wp-content/uploads/2017/01/AsSeen_Banner4_010917.png" alt="As Seen On Logos">
+        </div>
 
 
+    </div>
 
 
-				<div id="main-content">
-	<div class="container">
+
+<!-- End of Hide header for custom created search pages-->
+        <div id="main-content" class="bgimage">
+		<div class="container">
 		<div id="content-area" class="with_sidebar with_sidebar_right clearfix">
 			<div class="et_pb_extra_column_main">
 													<article id="post-5993" class="post-5993 page type-page status-publish hentry">
@@ -730,32 +905,46 @@ We may use the email address to send User information and updates pertaining to 
 											</div><!-- /.et_pb_extra_column.et_pb_extra_column_main -->
 
 			<div class="et_pb_extra_column_sidebar">
-			<div id="et-recent-posts-2" class="et_pb_widget widget_et_recent_entries">		<h4 class="widgettitle">Recent Posts</h4>		<ul class="widget_list">
+	<div id="text-10" class="et_pb_widget widget_text"><h4 class="widgettitle">Service Areas</h4>			<div class="textwidget">• Connecticut<br>
+• Delaware<br>
+• Illinois<br>
+• Maine<br>
+• Maryland<br>
+• Massachusetts<br>
+• Michigan<br>
+• New Hampshire<br>
+• New Jersey<br>
+• New York<br>
+• Ohio<br>
+• Oregon <br>
+• Pennsylvania<br>
+• Texas<br></div>
+		</div> <!-- end .et_pb_widget -->		<div id="et-recent-posts-2" class="et_pb_widget widget_et_recent_entries">		<h4 class="widgettitle">Popular Posts</h4>		<ul class="widget_list">
 					<li>
-									<a href="https://www.electricchoice.com/blog/massachusetts-energy-deregulation/" title="Massachusetts Energy (Electricity and Gas) Deregulation" class="widget_list_thumbnail">
-				<img src="https://www.electricchoice.com/wp-content/uploads/2017/02/Untitled-2-150x150.jpg" alt="Massachusetts Energy (Electricity and Gas) Deregulation">
+									<a href="https://www.electricchoice.com/blog/vote-yes-choice-nevada/" title="Vote Yes on Question 3 for Energy Choice in Nevada" class="widget_list_thumbnail" style="background-color:#7ac8cc">
+				<img src="https://www.electricchoice.com/wp-content/themes/Extra/images/post-format-icon-text.svg" alt="Vote Yes on Question 3 for Energy Choice in Nevada" style="background-color:#7ac8cc">
 			</a>								<div class="post_info">
-					<a href="https://www.electricchoice.com/blog/massachusetts-energy-deregulation/" class="title">Massachusetts Energy (Electricity and Gas) Deregulation</a>
+					<a href="https://www.electricchoice.com/blog/vote-yes-choice-nevada/" class="title">Vote Yes on Question 3 for Energy Choice in Nevada</a>
 										<div class="post-meta">
-						<span class="updated">Feb 24, 2017</span>					</div>
+											</div>
 				</div>
 			</li>
 					<li>
-									<a href="https://www.electricchoice.com/blog/solar-panels-home/" title="Solar Panels for Your Home:  Pros, Cons, Pricing, and Savings of Installing Panels" class="widget_list_thumbnail">
-				<img src="https://www.electricchoice.com/wp-content/uploads/2017/02/solar-panels-for-home-150x150.jpg" alt="Solar Panels for Your Home:  Pros, Cons, Pricing, and Savings of Installing Panels">
+									<a href="https://www.electricchoice.com/blog/8-key-factors-impact-electricity-prices/" title="8 Key Factors That Impact Electricity Prices" class="widget_list_thumbnail" style="background-color:#7ac8cc">
+				<img src="https://www.electricchoice.com/wp-content/themes/Extra/images/post-format-icon-text.svg" alt="8 Key Factors That Impact Electricity Prices" style="background-color:#7ac8cc">
 			</a>								<div class="post_info">
-					<a href="https://www.electricchoice.com/blog/solar-panels-home/" class="title">Solar Panels for Your Home:  Pros, Cons, Pricing, and Savings of Installing Panels</a>
+					<a href="https://www.electricchoice.com/blog/8-key-factors-impact-electricity-prices/" class="title">8 Key Factors That Impact Electricity Prices</a>
 										<div class="post-meta">
-						<span class="updated">Feb 21, 2017</span>					</div>
+											</div>
 				</div>
 			</li>
 					<li>
-									<a href="https://www.electricchoice.com/blog/sales-tax-exemption/" title="Sales Tax Exemption on Energy and Utility Bills in Texas" class="widget_list_thumbnail">
-				<img src="https://www.electricchoice.com/wp-content/uploads/2017/02/sales-tax-exemptions-150x150.jpg" alt="Sales Tax Exemption on Energy and Utility Bills in Texas">
+									<a href="https://www.electricchoice.com/blog/how-to-switch-breeze-energy-alternatives/" title="How to Switch from Breeze Energy (Replacements and Alternatives)" class="widget_list_thumbnail" style="background-color:#7ac8cc">
+				<img src="https://www.electricchoice.com/wp-content/themes/Extra/images/post-format-icon-text.svg" alt="How to Switch from Breeze Energy (Replacements and Alternatives)" style="background-color:#7ac8cc">
 			</a>								<div class="post_info">
-					<a href="https://www.electricchoice.com/blog/sales-tax-exemption/" class="title">Sales Tax Exemption on Energy and Utility Bills in Texas</a>
+					<a href="https://www.electricchoice.com/blog/how-to-switch-breeze-energy-alternatives/" class="title">How to Switch from Breeze Energy (Replacements and Alternatives)</a>
 										<div class="post-meta">
-						<span class="updated">Feb 20, 2017</span>					</div>
+											</div>
 				</div>
 			</li>
 						</ul>
@@ -801,9 +990,9 @@ jQuery(function(){
         }
     })
 </script>
-
+<!-- Start of Hide header for custom created search pages-->
 <div class="headerfoot2">
-<div id="logos"><img style="margin-bottom: 20px; margin-top: 5px;" src="https://www.electricchoice.com/wp-content/uploads/2015/01/provider-logos.jpg" alt="Featured Media Mentions"></div>
+<div id="logos"><img style="margin-bottom: 20px; margin-top: 5px;" src="https://www.electricchoice.com/wp-content/uploads/2017/06/provider-logos.jpg" alt="Provider Logos"></div>
 </div>
 
 <div class="footercta">
@@ -813,33 +1002,38 @@ jQuery(function(){
 
 </div>
 </div>
-
-
+<!-- End of Hide header for custom created search pages-->
 
 	<footer id="footer" class="footer_columns_3">
 		<div class="container">
 	<div class="et_pb_extra_row container-width-change-notify">
 						<div class="et_pb_extra_column odd column-1">
-					<div id="text-12" class="et_pb_widget widget_text"><h4 class="widgettitle">MARKETS SERVED</h4>			<div class="textwidget"><font size="3" color="#FFF">We serve homes and businesses in all deregulated electric and gas markets in the United States:<br><br>
+					<div id="text-12" class="et_pb_widget widget_text"><h4 class="widgettitle">MARKETS SERVED</h4>			<div class="textwidget"><font size="3" color="#FFF">While we serve in all deregulated markets, Texas has the most deregulated cities out of any state:  <br><br>
+
 
 <div class="footerlinksleft">
 <ul>
-<li><a href="https://www.electricchoice.com/ct/">Connecticut</a></li>
-<li><a href="https://www.electricchoice.com/de/">Delaware</a></li>
-<li><a href="https://www.electricchoice.com/gas/georgia/">Georgia</a></li>
-<li><a href="https://www.electricchoice.com/il">Illinois</a></li>
-<li><a href="https://www.electricchoice.com/ma/">Massachusetts</a></li>
-<li><a href="https://www.electricchoice.com/nh/">New Hampshire</a></li>
+<li><a href="https://www.electricchoice.com/tx/abilene/">Abilene</a></li>
+<li><a href="https://www.electricchoice.com/tx/arlington-electricity-rates/">Arlington</a></li>
+<li><a href="https://www.electricchoice.com/tx/aurora/">Aurora</a></li>
+
+<li><a href="https://www.electricchoice.com/tx/corpus-christi-electricity-rates/">Corpus Christi</a></li>
+<li><a href="https://www.electricchoice.com/tx/fort-worth-electricity-rates/">Fort Worth</a></li>
+<li><a href="https://www.electricchoice.com/tx/houston-electric-rates/">Houston</a></li>
 </ul>
 </div>
 <div class="footerlinksright">
 <ul>
-<li><a href="https://www.electricchoice.com/nj/">New Jersey</a></li>
-<li><a href="https://www.electricchoice.com/ny/">New York</a></li>
-<li><a href="https://www.electricchoice.com/oh/">Ohio</a></li>
-<li><a href="https://www.electricchoice.com/pa/">Pennsylvania</a></li>
-<li><a href="https://www.electricchoice.com/ri/">Rhode Island</a></li>
-<li><a href="https://www.electricchoice.com/tx/">Texas</a></li>
+<li><a href="https://www.electricchoice.com/tx/mcallen-electricity-rates/">McAllen</a></li>
+<li><a href="https://www.electricchoice.com/tx/midland-electricity-rates/">Midland</a></li>
+
+<li><a href="https://www.electricchoice.com/tx/round-rock/">Round Rock</a></li>
+
+<li><a href="https://www.electricchoice.com/tx/spring/">Spring</a></li>
+
+<li><a href="https://www.electricchoice.com/tx/tyler/">Tyler</a></li>
+
+<li><a href="https://www.electricchoice.com/tx/wichita-falls/">Wichita Falls</a></li>
 
 </ul>
 </div></font></div>
@@ -848,8 +1042,13 @@ jQuery(function(){
 					<div id="text-13" class="et_pb_widget widget_text"><h4 class="widgettitle">ABOUT US</h4>			<div class="textwidget"><div class="footermap">
 <img src="https://www.electricchoice.com/wp-content/uploads/2016/12/logo-eisenbach-consulting.png" style="margin-top:5px;" alt="Parent Company Logo"><br><br>
 <font size="3" color="#FFF">We're owned by Eisenbach Consulting, LLC, one of the most well-known energy management and procurement companies in America.
-</font></div>
+</font></div><br>
+<a href="https://www.electricchoice.com/careers/">Careers</a> 
+| 
+<a href="https://www.electricchoice.com/referral-program/&#10;">Referral Program</a>
 
+| 
+<a href="https://www.electricchoice.com/contact/">Contact Us</a>
 </div>
 		</div> <!-- end .et_pb_widget -->				</div>
 								<div class="et_pb_extra_column even column-4">
@@ -858,13 +1057,13 @@ jQuery(function(){
 
 <strong>Hours (Central)</strong><br>
 Monday - Friday:  8:00 AM - 5:00 PM<br>
-Saturday - Sunday:  By Appt. Only<br>
 </p><p>
-<a href="https://www.electricchoice.com/contact"><button style="background-color:#ef4747!important;">E-MAIL US</button></a>
+<a href="https://www.electricchoice.com/contact"><button style="background-color:#ef4747!important;">CONTACT US</button></a>
 </p><p></p><p>
 <font size="3" color="white">
-Eisenbach Consulting, LLC (ElectricChoice.com)<br>
-5759 Eagles Nest Boulevard, Suite 1
+<strong>Our Address</strong><br>
+ElectricChoice.com<br>
+5759 Eagles Nest Boulevard #1
 <br>Tyler, Texas 75703<br></font></p><p></p><p></p><p></p></div>
 
 <img src="https://www.electricchoice.com/wp-content/uploads/2017/01/bbb-logo.png" height="25%" width="25%" alt="BBB Logo">
@@ -879,7 +1078,7 @@ Eisenbach Consulting, LLC (ElectricChoice.com)<br>
 			<div class="container">
 
 				<!-- Footer Info -->
-				<p id="footer-info">© 2002-2016 Eisenbach Consulting, LLC.  All rights reserved.  Read our <a href="https://www.electricchoice.com/privacy/">Privacy Policy</a> or <a href="https://www.electricchoice.com/terms/">Terms of Use</a>.</p>
+				<p id="footer-info">© 2002-2017 Eisenbach Consulting, LLC.  All rights reserved.  Read our <a href="https://www.electricchoice.com/privacy/">Privacy Policy</a> or <a href="https://www.electricchoice.com/terms/">Terms of Use</a>.</p>
 
 				<!-- Footer Navigation -->
 								<div id="footer-nav">
@@ -914,6 +1113,12 @@ var _wpcf7 = {"loaderUrl":"https:\/\/www.electricchoice.com\/wp-content\/plugins
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://www.electricchoice.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mr_frontend_data = {"ajax_url":"https:\/\/www.electricchoice.com\/wp-admin\/admin-ajax.php","ajax_nonce":"514b043322","icon_classes":"{\"star_full\":\"fa fa-star mr-star-full\",\"star_hover\":\"fa fa-star mr-star-hover\",\"star_half\":\"fa fa-star-half-o mr-star-half\",\"star_empty\":\"fa fa-star-o mr-star-empty\",\"minus\":\"fa fa-minus-circle mr-minus\",\"spinner\":\"fa fa-spinner fa-spin mr-spinner\"}","use_custom_star_images":"false"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.electricchoice.com/wp-content/plugins/multi-rating/assets/js/frontend-min.js?ver=4.2.6"></script>
 <script type="text/javascript" src="https://www.electricchoice.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0"></script>
 <script type="text/javascript" src="https://www.electricchoice.com/wp-content/themes/Extra/scripts/ext/jquery.waypoints.min.js?ver=1.3.11"></script>
 <script type="text/javascript" src="https://www.electricchoice.com/wp-content/themes/Extra/scripts/ext/jquery.fitvids.min.js?ver=1.3.11"></script>
@@ -921,7 +1126,7 @@ var _wpcf7 = {"loaderUrl":"https:\/\/www.electricchoice.com\/wp-content\/plugins
 <script type="text/javascript" src="https://www.electricchoice.com/wp-content/themes/Extra/includes/builder/scripts/salvattore.min.js?ver=1.3.11"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var EXTRA = {"images_uri":"https:\/\/www.electricchoice.com\/wp-content\/themes\/Extra\/images\/","ajaxurl":"https:\/\/www.electricchoice.com\/wp-admin\/admin-ajax.php","your_rating":"Your Rating:","rating_nonce":"c197ab6099","timeline_nonce":"c0073d50e1","blog_feed_nonce":"fe7578ddad","error":"There was a problem, please try again.","contact_error_name_required":"Name field cannot be empty.","contact_error_email_required":"Email field cannot be empty.","contact_error_email_invalid":"Please enter a valid email address.","is_ab_testing_active":"","is_cache_plugin_active":"no"};
+var EXTRA = {"images_uri":"https:\/\/www.electricchoice.com\/wp-content\/themes\/Extra\/images\/","ajaxurl":"https:\/\/www.electricchoice.com\/wp-admin\/admin-ajax.php","your_rating":"Your Rating:","rating_nonce":"e0d39173e6","timeline_nonce":"a7e48bd5f2","blog_feed_nonce":"e5591ba55c","error":"There was a problem, please try again.","contact_error_name_required":"Name field cannot be empty.","contact_error_email_required":"Email field cannot be empty.","contact_error_email_invalid":"Please enter a valid email address.","is_ab_testing_active":"","is_cache_plugin_active":"no"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://www.electricchoice.com/wp-content/themes/Extra/scripts/scripts.min.js?ver=1.3.11"></script>
@@ -930,11 +1135,11 @@ var EXTRA = {"images_uri":"https:\/\/www.electricchoice.com\/wp-content\/themes\
 <script type="text/javascript" src="https://www.electricchoice.com/wp-content/themes/Extra/includes/builder/scripts/jquery.mobile.custom.min.js?ver=1.3.11"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var et_pb_custom = {"ajaxurl":"https:\/\/www.electricchoice.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.electricchoice.com\/wp-content\/themes\/Extra\/images","builder_images_uri":"https:\/\/www.electricchoice.com\/wp-content\/themes\/Extra\/includes\/builder\/images","et_frontend_nonce":"bf95a9f53a","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"6716360c6c","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","is_builder_plugin_used":"","is_divi_theme_used":"","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"5993","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":""};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.electricchoice.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.electricchoice.com\/wp-content\/themes\/Extra\/images","builder_images_uri":"https:\/\/www.electricchoice.com\/wp-content\/themes\/Extra\/includes\/builder\/images","et_frontend_nonce":"dd86704b99","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"e3a3a24951","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","is_builder_plugin_used":"","is_divi_theme_used":"","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"5993","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":""};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://www.electricchoice.com/wp-content/themes/Extra/includes/builder/scripts/frontend-builder-scripts.js?ver=1.3.11"></script>
-<script type="text/javascript" src="https://www.electricchoice.com/wp-includes/js/wp-embed.min.js?ver=4.6.3"></script>
+<script type="text/javascript" src="https://www.electricchoice.com/wp-includes/js/wp-embed.min.js?ver=4.9.8"></script>
 
 <script type="text/javascript">
     (function(e,a){
@@ -944,17 +1149,8 @@ var et_pb_custom = {"ajaxurl":"https:\/\/www.electricchoice.com\/wp-admin\/admin
         t.src=c+"//front.optimonk.com/public/"+a+"/js/preload.js";r.appendChild(t);
     })(document,"17324");
 </script>
-<!-- Hotjar Tracking Code for https://www.electricchoice.com -->
-<script>
-    (function(h,o,t,j,a,r){
-        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-        h._hjSettings={hjid:397905,hjsv:5};
-        a=o.getElementsByTagName('head')[0];
-        r=o.createElement('script');r.async=1;
-        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-        a.appendChild(r);
-    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
-</script>
+
+<script src="//my.hellobar.com/0237ef2f821c1302c01b7dbea8ecc922a8d5c028.js" type="text/javascript" charset="utf-8" async="async"></script>
 
 
 </body></html>
