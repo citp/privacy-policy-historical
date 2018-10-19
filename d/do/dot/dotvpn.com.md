@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotvpn.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010222557id_/https%3A//dotvpn.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotvpn.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019084438id_/https%3A//dotvpn.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # DotVPN — Better than VPN.
 
