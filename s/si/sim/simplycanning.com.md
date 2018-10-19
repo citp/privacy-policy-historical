@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplycanning.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628024723id_/https%3A//www.simplycanning.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplycanning.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019235402id_/https%3A//www.simplycanning.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Simply Canning - ie the legal stuff.
 
@@ -155,3 +155,13 @@ If you do not agree to Simply Canning's privacy policy as posted here on this we
 Your explicit consent indicates acceptance of this privacy policy in its entirety.
 
 Last updated: 5-27-2018
+
+## Online Canning Classes  
+
+
+**Learn Home Canning**  
+
+
+Discover how to fill your pantry with garden fresh produce to feed your family healthy nutritious food. So many people want to start canning but are stuck.  They don’t know where to start.  
+
+[Simply Canning School is the tool you need to get moving.  ](https://simplycanning.mykajabi.com/p/simply-canning-school)
