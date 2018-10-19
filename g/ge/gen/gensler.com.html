@@ -1,35 +1,35 @@
-<!--The following is the downloaded HTML source of the gensler.com privacy policy that was archived on 2017-10-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171002051145id_/https%3A//www.gensler.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gensler.com privacy policy that was archived on 2018-10-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181019105614id_/https%3A//www.gensler.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwQGUF5UGwYAVFhUBwM="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="An integrated architecture, design, planning and consulting firm—5,000+ professionals networked across 44 offices—providing global reach with local touch.">
+<meta name="description" content="An integrated architecture, design, planning and consulting firm — 6,000+ professionals networked across 48 offices—providing global reach with local touch.">
 <meta name="keywords" content="Design, Cities, Lifestyle, Work, Architecture, Brand Design, Brand Strategy, Graphic Design, Environmental Graphic Design, User Research, Consulting, Interior Design, Master Planning, Urban Design, Product Design, LEED, Sustainability, Sustainable Design, Aviation, Transportation, Airports, Civic, Culture, Government, Museums, Libraries, Education, Schools, Universities, Entertainment, Media, Creative Media, Technology, Gaming, Theaters, Studios, Casinos, Financial Services, Banking, Insurance, Real Estate, Headquarters,Campuses, Hospitality, Hotels, Spas, Critical Facilities, Mission Critical, Data Centers, Mixed Use, Tall Buildings, Towers, Corporate Campuses, Commercial Office Building Developers, Office Buildings, Commercial Real Estate, Professional Services, Accounting, Advertising, Law, Residential, Retail, Shops, Retail Centers, Malls, Science, Technology, STEM, Labs, Laboratories, Health, Wellness, Fitness, Sports, Arenas, Stadiums, Workplace, Offices, Energy, Consumer Goods, Consumer Products, Manufacturing, Fashion, Beauty, PR, Marketing, Print, Publishing, Broadcasting, Developer, Landlord, Defense, Aerospace">
 <meta name="title" content="Privacy Policy | Gensler">
 <meta name="language" content="en">
 <meta property="og:title" content="Privacy Policy | Gensler">
 <meta property="og:url" content="https://www.gensler.com/privacy-policy">
-<meta property="og:description" content="An integrated architecture, design, planning and consulting firm—5,000+ professionals networked across 44 offices—providing global reach with local touch.">
+<meta property="og:description" content="An integrated architecture, design, planning and consulting firm — 6,000+ professionals networked across 48 offices—providing global reach with local touch.">
 <meta property="og:image" content="https://www.gensler.com/images/global/logo250x250-f90ed115.png">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Gensler">
 <meta property="og:locale" content="en_US">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   <title>Privacy Policy | Gensler</title>
-  <link rel="shortcut icon" href="/favicon.ico">
-  <link rel="apple-touch-icon" href="//static2.gensler.com/images/touch-icon-e94b23e.png">
-  <link rel="stylesheet" type="text/css" media="all" href="//static2.gensler.com/css/global/typography-fdc75e61.css">
-	<link rel="stylesheet" type="text/css" media="all" href="//static1.gensler.com/css/c138695e9533910727375f5eb2d6924c.min-bd518c55.css">
-<link rel="stylesheet" type="text/css" media="all" href="/css/global.css?bust=59c12b5e">
-<!--[if lt IE 9]><link rel="stylesheet" type="text/css" media="all" href="/css/global/ie8-6bdf24c9.css" data-responsive="before" /><![endif]-->
+  <link rel="shortcut icon" href="//static1.gensler.com/favicon.ico">
+  <link rel="apple-touch-icon" href="//static1.gensler.com/apple-touch-icon-e94b23e.png">
+  <link rel="stylesheet" type="text/css" media="all" href="//static2.gensler.com/css/global/typography-f7029cbc.css">
+	<link rel="stylesheet" type="text/css" media="all" href="//static1.gensler.com/css/2ed8f997f1cfd6653e5fe8b9cd663ee7.min-4df7c6.css">
+<link rel="stylesheet" type="text/css" media="all" href="/css/global.css?bust=5bbe52f4">
+<!--[if lt IE 9]><link rel="stylesheet" type="text/css" media="all" href="/css/global/ie8-c3463c2e.css" data-responsive="before" /><![endif]-->
 <link href="https://fonts.googleapis.com/css?family=Cardo:400,700" rel="stylesheet"> 
-<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//fast.fonts.net/jsapi/fb061ada-cc4c-413b-9771-eaa58af4b5a9.js"></script>
+<script src="//fast.fonts.net/jsapi/fb061ada-cc4c-413b-9771-eaa58af4b5a9.js"></script>
   <!--[if lt IE 9]>
-<script src="/js/ie/html5shiv-57bfa556.js"></script>
-<script src="/js/ie/responsive-58bd5464.js"></script>
+<script src="/js/ie/ie-a79b1a46.js"></script>
+<script src="/js/ie/responsive-7e2ae283.js"></script>
 <![endif]-->
-  <script data-main="/js/app.bootstrap" src="//static2.gensler.com/js/app.bootstrap-a627cd3a.js"></script>
+  <script data-main="/js/app.bootstrap" src="//static2.gensler.com/js/app.bootstrap-c3607fb7.js"></script>
 </head>
 <body class="privacy_policy" data-controller="privacy_policy" data-action="index">
   <noscript><div class="nojs-padding"></div></noscript>
@@ -86,7 +86,7 @@
           <a href="/"><img alt="Gensler" src="//static2.gensler.com/images/global/logo-gensler_223x47-86bdd223.gif"></a>
         </li><li>
           <a href="/research-insight">Research &amp; Insight</a>
-          <ul class="submenu-1"><li><a href="/research-insight">Overview</a></li><li><a href="/research-insight/workplace-surveys">Workplace Surveys</a></li><li><a href="/research-insight/sustainability">Sustainability</a></li><li><a href="/research-insight/research">Research</a></li><li><a href="/research-insight/publications">Publications</a></li><li><a href="/research-insight/in-focus">In Focus</a></li><li><a href="/research-insight/blog">Blog</a></li></ul>        </li><li><a href="/expertise">Expertise</a></li><li>
+          <ul class="submenu-1"><li><a href="/research-insight">Overview</a></li><li><a href="/research-insight/workplace-surveys">Workplace Surveys</a></li><li><a href="/research-insight/sustainability">Sustainability</a></li><li><a href="/research-insight/gensler-research-institute">Gensler Research Institute</a></li><li><a href="/research-insight/publications">Publications</a></li><li><a href="/research-insight/in-focus">In Focus</a></li><li><a href="/research-insight/blog">Blog</a></li></ul>        </li><li><a href="/expertise">Expertise</a></li><li>
           <a href="/projects">Projects</a>
           <ul class="submenu-2"><li><a href="/projects">Featured</a></li><li><a href="/projects/all">All</a></li><li class="toggle-keyword"><a href="/projects/by-keyword">Search by Keyword</a></li><li class="mobile-hide toggle-keyword"><form method="get" action="/projects/by-keyword" class="projects_keyword_search"><input type="text" maxlength="60" name="k" placeholder="Enter words here" class="projects_keyword_search_input_text"><a href="#" class="projects_keyword_search_submit_button submit"><i class="icon-search-2"></i></a></form></li></ul>        </li><li>
           <a href="/people">People</a>
@@ -100,7 +100,7 @@
 </div>
         <div class="standar-container search-menu-thin-wrapper">
           <div class="search-menu-thin">
-            <button class="btn-link btn-share thin-share active"><i class="icon-share"></i></button>
+            <button class="btn-link btn-share thin-share"><i class="icon-share"></i></button>
             <button class="btn-link btn-search thin-search"><i class="icon-search-2"></i></button>
           </div>
         </div>
@@ -109,50 +109,164 @@
       <div class="contents-container">
           <div class="submenu-wrapper">
   <div class="container submenu-container">
-    <h1 class="h1">Privacy Policy</h1>
+    <h1 class="h1">Privacy Statement &amp; Cookie Policy</h1>
   </div>
 </div>
 <div class="standar-container site-map-container">
   <div class="content01">
-<p>Gensler Privacy Statement<br> Effective Date: May 1, 2010</p>
-<p><strong>Introduction</strong></p>
-<p>Gensler takes your privacy seriously. This Privacy Statement describes the information that Gensler and our affiliates (collectively "Gensler" or "we") collect through our website located at www.Gensler.com (the "Site") and how we use that information. Please read this Privacy Statement carefully prior to using the Site. Your use of the Site signifies your agreement with the contents of this Privacy Statement.</p>
-<p><strong>Information Collection and Use </strong></p>
-<p>Gensler gathers "Personally Identifiable Information," "Site Usage Data," and "IP Addresses" through this Site. Personally Identifiable Information is information that identifies a person as an individual, such as your name, company, and title, postal address, telephone number, or email address. Site Usage Data is aggregated information, demographic information, and any other information that does not reveal a person’s specific identity. An IP Address is the Internet Protocol address of the computer that you are using. Gensler may use your information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.</p>
-<ol>
-<li><strong>Personally Identifiable Information.</strong>You do not have to provide us with your Personally Identifiable Information to use this Site. However, certain services to which you may subscribe through the Site (e.g., email messages and event announcements) may require you to provide Personally Identifiable Information. We collect Personally Identifiable Information from you only when you voluntarily provide it to us. If and when it is collected, Gensler may use Personally Identifiable Information in the following ways:
+  <p>Effective Date: May 25, 2018</p><p></p>
+<p>Gensler takes your privacy seriously. This privacy statement explains what personal data we collect from you, including information collected on <a href="https://www.gensler.com" style="color: #f48546">www.gensler.com</a> and any other websites this statement is linked to (the “Site”), and how we use that data. Please read this privacy statement carefully prior to using these websites. By providing information to us you expressly agree to this privacy statement.</p>
+
+<p>The Site is owned and operated by Gensler.  M. Arthur Gensler Jr. &amp; Associates, Inc. is the group parent company, with its head office in San Francisco (CA) USA. Wholly owned subsidiaries, affiliates and branches operate throughout the world including the UK branch offices of Gensler Europe Limited (Company Number: 09456712; Address: Building 5 Thomas More Square, London, E1W 1YW). You can find details regarding our offices by visiting <a href="https://www.gensler.com/offices" style="color: #f48546">https://www.gensler.com/offices</a>.</p>
+
+<p><b>Personal Data We Collect</b></p>
+
+<p>Gensler collects data to operate effectively and provide you the best experience. Most of the information we collect is information provided directly by you.  We get some data through <a href="#cookies" style="color:#f48546">cookies</a> (small text files that store website data on your computer). We also obtain data from third party sources, including service providers who supplement the site usage data we collect.</p>
+	
+<p>You have choices about the data we collect.  When asked to provide personal data, you may decline.  If you choose not to provide data that is necessary to certain products/features, you may not be able to use that product/feature. You may withdraw your consent to us using your personal data at any time by reaching out to us.  Please refer to the contact information below.</p>
+
+<p>The data we collect may include the following:</p>
 <ul>
-<li>Fulfillment of Requests and Communication. We process Personally Identifiable Information to comply with your requests, respond to your inquiries, and send you newsletters, publications or other information that you request. If you contact us by email through the Site, we may keep a record of your contact information and correspondence, and use it to respond to you. We will further use Personally Identifiable Information to fulfill any other purposes for which it was provided, and as disclosed at the time the data are collected.</li>
-<li>Internal Business Purposes. We may also use Personally Identifiable Information about you for our internal business purposes, such as data analysis, audits, and other similar purposes.</li>
-<li>Services. In addition to the purposes mentioned above, we may use Personally Identifiable Information for the purposes of providing architectural, design, consulting, and related services or events ("Services").</li>
+<li>Contact information - information such as name, job title, company name, department, email address, physical mailing address and telephone number</li>
+<li>Professional information - such as your employment background, job description and related information</li>
+<li>Responses to surveys - information you provide when responding to a survey on the website, via an app or email, on the telephone or otherwise</li>
+<li>Internet Protocol (IP) addresses – this number is identified and logged automatically whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) that you visited</li>
+<li>Demographic and location data</li>
 </ul>
+
+<p>We do not knowingly collect or process data from anyone under the age of thirteen (13) years old.  If we discover that we have collected or received data from anyone under 13 without verification of parental consent, such information will be deleted.  Please contact us if you believe we may have collected or processed data from or about anyone under 13.</p>
+
+<p><b>How We Use Personal Data</b></p>
+
+<p>We use information collected about you for the following purposes:</p>
+<ul>
+<li><b>Communications.</b> We use data to comply with your requests, respond to your inquiries, and send you newsletters, publications or other information that you request. If you contact us by email through the Site, we may keep a record of your contact information and correspondence, and use it to respond to you. We will further use the data to fulfill any other purposes for which it was provided, and as disclosed at the time the data are collected.</li>
+<li><b>Business Operations.</b> We may also use data to conduct data analysis or audits that enable us to operate and improve the performance of our Firm and tailor our website.
 </li>
-<li><strong>Site Usage Data.</strong> When you visit and interact with the Site, Gensler and third parties with whom Gensler has contracted to provide services to Gensler may collect Site Usage Data (for example, a catalog of the Site pages you visit). Such non-Personally Identifiable Information may include your MAC address, your computer type, screen resolution, OS version, and Internet browser. Site Usage Data may also include demographic data, such as your location. To enhance your experience on the Site, Gensler and our service providers may use ‘cookies’ on the Site. Cookies are data that a web server transfers to an individual’s computer for recordkeeping and other purposes. We use cookies and other technologies to facilitate users’ ongoing access to and use of our Site. We and our service providers may also use various Internet technologies such as "pixel tags," "action tags," "web bugs," ".gif tags," "JavaScript" or similar technologies (together, "Tracking Tools") in connection with Site pages and email messages in certain formats to, among other things, track the actions of Site users and email recipients, to determine the success of marketing campaigns and to compile aggregate statistics about Site usage and response rates. Tracking Tools allow us to count users who have visited certain pages of the Sites, to deliver branded services, and to help determine the effectiveness of promotional or advertising campaigns. When used in email messages in certain formats, Tracking Tools can tell the sender whether and when the email has been opened. Gensler uses these technologies to customize and enhance the Internet experience of individual users. When you revisit the Site, we may recognize you by a Tracking Tool and customize your experience accordingly. For example, once you have completed the registration process, a Tracking Tool or cookie will be used to avoid having you register again. Because Site Usage Data does not personally identify you, we may use such information for any purpose. In addition, we reserve the right to share such Site Usage Data with third parties for any purpose. As an example, we may use aggregated Site Usage Data to help us improve the Site and the services that we provide through the Site. Please note that to the extent any Site Usage Data is linked with Personally Identifiable Information, such linked information will be treated as Personally Identifiable Information as long as it is linked.</li>
-<li><strong>IP Addresses.</strong> When you visit and interact with the Site, Gensler and third parties with whom Gensler has contracted to provide services to Gensler may collect Internet Protocol ("IP") addresses. Your IP address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider. This number is identified and logged automatically whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) that you visited.</li>
-</ol>
-<p><strong>Disclosure of Personally Identifiable Information </strong></p>
-<p>Gensler does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you’ve specifically requested, or under the following circumstances:</p>
-<ol>
-<li>We may provide your information to third parties who work on behalf of or with Gensler under confidentiality agreements. These companies may use your personal information to help Gensler communicate with you about our services. However, these companies do not have any independent right to share this information;</li>
-<li>
-<p>We also may use and/or disclose Personally Identifiable Information to any third party if we believe that we are required to do so for any or all of the following reasons: (i) by law; (ii) to respond to requests from governmental or public authorities; (iii) to prevent, investigate, detect, or prosecute criminal offenses or attacks on the technical integrity of the Site or our network; and/or (iv) to protect the rights, privacy, property, business, or safety of Gensler and its affiliates, their partners and employees, the users of the Site, or the public.</p>
-<p>By using the Site, you acknowledge and consent to the fact that Personally Identifiable Information provided by you or collected by us through your use of the Site may be stored and processed by us in the United States, which may provide a different level of data protection than that provided by your country of residence. You also acknowledge and consent to the fact that we may, at our discretion, store and process such data in other countries and will endeavor to protect the Personally Identifiable Information under our control wherever it is processed or stored.</p>
+<li><b>Marketing.</b> We may contact you about certain matters that may be of interest to you.
 </li>
-</ol>
-<p><strong>Your Options </strong></p>
-<ol>
-<li><strong>Opting Out.</strong> We may from time to time send you updates and mailings relating to Gensler events that we think may be of interest to you. If you would prefer not to receive marketing mailings from us, you may unsubscribe from these marketing mailings by following the unsubscribe instructions in any such message or by contacting us by email at <span><a href="mailto:info@gensler.com">info@gensler.com</a></span>.</li>
-<li><strong>Reviewing, Changing, or Suppressing Personally Identifiable Information. </strong> To the extent permitted by the laws of your country, you may request to review, correct, update, suppress, or otherwise modify any Personally Identifiable Information that you have previously provided through the Site, or object to the use of such Personally Identifiable Information by Gensler. You may exercise these rights by logging on to your subscriptions account on our Site or by contacting us at <span><a href="mailto:info@gensler.com">info@gensler.com</a></span>.</li>
-</ol>
-<p>For your protection, we may need to verify your identity before implementing your request. We will endeavor to comply with your request as soon as reasonably practicable.</p>
-<p>Please note that we may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed therefrom. Finally, we are not responsible for removing information from the databases of third parties (such as service providers) with whom we have shared Personally Identifiable Information about you.</p>
-<p><strong>Confidentiality and Security </strong></p>
-<p>Gensler has physical, electronic, and procedural safeguards to protect personal information about you. Unfortunately, no data storage system, or system of transmitting data over the Internet, can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of our servers, the means by which Personally Identifiable Information is transmitted between your computer and our servers, or any Personally Identifiable Information provided to us or to any third party through or in connection with the Site. If you believe your connection to our Site is no longer secure, please notify us as soon as possible.</p>
-<p><strong>Changes to this Privacy Statement </strong></p>
-<p>We reserve the right to change this Privacy Statement at any time without notice. Please check this page periodically for changes. Your continued use of the Site signifies your agreement with the contents of this Privacy Statement. You can determine if the Privacy Statement has been revised since your last visit by referring to the "Last Updated" legend at the top of this page. Your use of our Site following such revision constitutes your acceptance of the contents of the Privacy Statement as amended or revised by us, and you should therefore review the Privacy Statement regularly to ensure that you are aware of its terms.</p>
-<p><strong>Contacting Us </strong></p>
-  <p>If you have questions about this Privacy Statement or want to contact us regarding how we handle your data, please send an email to <span><a href="mailto:info@gensler.com">info@gensler.com</a></span> or write to us at:</p>
-<p>Gensler<br> 2 Harrison Street<br> Suite 400<br> San Francisco, CA 94105</p>
+<li><b>Services.</b> We may also use your data to contact you from time to time with product or service updates; provide the information, services or support you request and related after-sales services; manage our relationship with you and to carry out any related administration.
+</li>
+</ul>
+
+<p>We will retain your personal data only as long as is reasonably necessary for the purposes set out in this Privacy Statement, or as is required by applicable law, and then we will delete it.
+</p>
+
+<p><b>Reasons we may share personal data</b></p>
+
+<p>We may share your personal data among Gensler-controlled affiliates and subsidiaries. We may share personal data with service providers who work on our behalf for the purposes described in this statement. Examples include companies that host our web servers, analyze data, and provide marketing assistance. These companies will have access to and may use your personal information as necessary to perform their functions (for example to help us communicate with you about our services) but they may not use that data for any other purpose and they do not have any independent right to share this information. 
+</p> 
+
+<p>We may also disclose personal data as a part of a corporate transaction.  Your personal data will remain subject to this Privacy Statement. 
+</p>
+
+<p>We also may use or disclose personal data if we believe that we are required to do so for any of the following reasons:</p>
+
+<ul>
+<li>to comply with applicable law or respond to requests from governmental, regulatory or public authorities</li>
+<li>to protect our clients, for example to prevent spam, attempts to defraud other criminal offenses </li>
+<li>to operate and maintain the security of our systems, including to prevent or stop attacks on our systems or networks </li>
+<li>to protect the rights, interests, privacy, security, property, business, or safety of Gensler, our partners and our people, the users of the Site, or the public</li>
+<li>in connection with actual or proposed litigation
+</li>
+</ul>
+<a name="cookies"></a>
+
+
+<p>Please note that our Site may contain links to third parties’ websites whose privacy practices are different from Gensler’s. Any personal data you provide to any third party website is governed by their privacy statement, and we are not responsible for their privacy practices or the content of those websites. Please carefully read any privacy policies on those links or websites before either agreeing to their terms or using those websites.</p>
+
+
+<p><b>Cookies</b></p>
+
+<p>Cookies are small text files that store website data on your computer.  They are widely used in order to make websites work more efficiently, as well as to help collect data. A cookie makes your next visit to the website easier if you are using the same PC, laptop, tablet or mobile phone and the same internet browser. To find out more about cookies, including how to see what cookies have been set, visit <a href="http://www.aboutcookies.org" style="color: #f48546" target="_blank">www.aboutcookies.org</a> or <a href="www.allaboutcookies.org" target="_blank" style="color: #f48546">www.allaboutcookies.org</a>.</p>
+
+
+<p>The table below explains the cookies we use and why:</p>
+
+
+<table style="width:100%" ccellspacing="10" cellpadding="10">
+	<tbody><tr>
+		<td width="20%" bgcolor="#e6e6e6"><b>Cookie</b></td>
+		<td width="20%" bgcolor="#f2f2f2"><b>Name</b></td>
+		<td width="60%"><b>Purpose</b></td>
+	</tr>
+
+	<tr>
+		<td valign="top" width="20%" bgcolor="#e6e6e6">config.parsley.com</td>
+		<td valign="top" width="20%" bgcolor="#f2f2f2">Parsley</td>
+		<td valign="top" width="60%">This is a cookie used for content and digital media analytics</td>
+	</tr>
+	
+	<tr>
+		<td valign="top" width="20%" bgcolor="#e6e6e6">Universal Analytics<br>(Google)</td>
+		<td valign="top" width="20%" bgcolor="#f2f2f2">_ga<br>
+			_gali<br>
+			_gat_UA-1036645-1<br>
+			_gid<br>
+			_utm*</td>
+		<td valign="top" width="60%"><p>These cookies are used to collect information about how visitors use our website, including some WordPress sites. We use the information to compile reports and to help us improve the website. The cookies collect information in an anonymous form, including the number of visitors to the website and blog, where visitors have come to the website from and the pages they visited.</p><p>Please review Google’s privacy statement for details of their data collection practices. <a href="https://support.google.com/analytics/answer/6004245" target="_blank" style="color: #f48546">Read Google's overview of privacy and safeguarding data.</a></p></td>
+	</tr>
+	
+	<tr>
+		<td valign="top" width="20%" bgcolor="#e6e6e6">SquareSpace</td>
+		<td valign="top" width="20%" bgcolor="#f2f2f2">ss_**</td>
+		<td valign="top" width="60%"><p>SquareSpace hosts some Gensler sites.  This cookie is used for traffic analysis and usage statistics.</p></td>
+	</tr>
+	
+	<tr>
+		<td valign="top" width="20%" bgcolor="#e6e6e6">Authentication</td>
+		<td valign="top" width="20%" bgcolor="#f2f2f2">(SP-dependent)</td>
+		<td valign="top" width="60%"><p>SAML/OAuth2/SSO cookies confirm the user’s identity via federated authentication systems.  The cookie name is determined by the Service Provider, so it changes depending on the federated site visited.</p></td>
+	</tr>
+	
+	<tr>
+		<td valign="top" width="20%" bgcolor="#e6e6e6">User Experience</td>
+		<td valign="top" width="20%" bgcolor="#f2f2f2">cookie_msg<br>
+		dl-doc-<br>
+		layerH<br>
+		</td>
+		<td valign="top" width="60%"><p>These cookies record user interactions that request desired page or component states in order to streamline user experience for current or future visits.</p></td>
+	</tr>
+		
+</tbody></table>	
+
+<p>&nbsp;</p>
+
+<p>Gensler does not use any other third party cookies.  If you share a page through the social media buttons (Facebook, Twitter, LinkedIn, Youtube, etc.), you must then login on the relevant social media channel and approve the terms and conditions of that channel.  
+</p>
+
+<p>You can adjust your cookie settings or delete cookies using your internet browser.  Please consult the help function on your internet browser or visit www.aboutcookies.org where the procedure for controlling cookies in most browsers is explained step by step. If you choose to block cookies, please note that this may mean that the website no longer functions properly.
+</p>
+
+<p><b>Security of Personal Data</b></p>
+
+<p>We take appropriate technical and organisational measures to guard against unauthorised or unlawful processing of your personal data and against accidental loss or destruction of, or damage to, your personal data. While we believe the measures we have implemented reduce our vulnerability to security problems to a level appropriate to the type of data we hold, no system is completely secure and we cannot guarantee its absolute security.  
+</p>
+
+<p><b>Where We Store and Process Personal Data</b></p>
+
+<p>Personal data collected by Gensler may be stored and processed in your region, in the United States, and in any other country where Gensler or its affiliates, or service providers operate facilities.  These parties may be engaged in, among other things, the fulfillment of your information requests, meeting your requests, and the provision of support services.  Typically, the primary storage location is in your region or in the United States.  By submitting your personal data, you agree to this transfer, storing or processing.
+</p>
+
+<p>We transfer personal data from the European Economic Area (“EEA”) to other countries.  When we do, we use a variety of legal mechanisms, including specific intercompany contracts, to protect your data and fulfill your rights. </p>
+
+<p><b>How to Access and Manage Your Personal Data</b></p>
+
+<ul><li>Communications/Marketing Preferences.  You can choose whether you wish to receive direct marketing communications from Gensler. You can opt-out at any time and unsubscribe from these communications by following the unsubscribe instructions in the message.  </li>
+<li>Browser-Based Controls.  There are browser-based controls for cookies, described in the Cookies section of this privacy statement, and for blocking tracking or third-party content.</li>
+</ul>
+
+<p>Further, certain countries may grant you specific rights to access, correct, delete, or object to the processing of, or transfer your personal data.  To make a specific request, please contact <span><a href="mailto:info@gensler.com" style="color: #f48546">info@gensler.com</a></span>.  You must be able to provide your name and email address or other information sufficient information to allow us to identify you. Once identified, we will respond to your request as appropriate. We will follow internal procedures when these requests are made to protect the integrity of the data we hold.</p>
+
+<p><b>Changes to this privacy statement</b></p>
+
+<p>This privacy statement was last updated on the date noted above and applies from that date. We may occasionally amend this privacy statement. You can determine if the privacy statement has been revised since your last visit by referring to the “Last Updated” legend at the top of this page.  Any new statement will automatically be in force when it is published on the website.  Your use of our Site following such revision constitutes your acceptance of the contents of the privacy statement as amended or revised by us.  You should therefore return here regularly to view our most up to date privacy statement. You may also wish to print a copy for your records.</p>
+
+<p><b>How do you contact us?</b></p>
+
+<p>If you have any questions about this privacy statement, the practices of this Site, or your dealings with this Site, or you want to contact us regarding how we handle your personal data please email us at <span><a href="mailto:info@gensler.com" style="color: #f48546">info@gensler.com</a></span>.</p>
+
+
 </div></div>
       </div>
 
@@ -180,8 +294,8 @@
     </ul>
   </nav>
   <p>
-    © 2017 Gensler, All Rights Reserved &nbsp;
-    <a href="/privacy-policy" class="active">Privacy Policy</a>
+    © 2018 Gensler, All Rights Reserved &nbsp;
+    <a href="/privacy-policy" class="active">Privacy Statement &amp; Cookie Policy</a>
           &nbsp; <a target="_blank" href="//www.gensler.com/doc/gensler-transparency-statement">Transparency Statement</a>
       </p>
 </footer>
@@ -192,10 +306,19 @@
   </div>
 
   <noscript><div class="nojs-message"><div>Please enable JavaScript to experience the full functionality of www.gensler.com</div></div></noscript>
-
   
+  <div id="cookie_msg">
+  <div class="standar-container">
+    <a class="close" href="#">CLOSE<i class="icon-cancel"></i></a>
+    <div class="cookie-msg">
+      Our website uses cookies to improve your browsing experience.
+      <a href="/privacy-policy">View our Privacy &amp; Cookies Policy.</a>
+    </div>
+  </div>
+</div>
+
   <script type="application/ld+json">
-{"@context":"http:\/\/schema.org","@type":"WebPage","headline":"Privacy Policy","url":"http:\/\/www.gensler.com\/privacy-policy","thumbnailUrl":"http:\/\/www.gensler.com\/images\/global\/logo250x250-f90ed115.png","dateCreated":"","articleSection":"","creator":[],"keywords":["Design","Cities","Lifestyle","Work","Architecture","Brand Design","Brand Strategy","Graphic Design","Environmental Graphic Design","User Research","Consulting","Interior Design","Master Planning","Urban Design","Product Design","LEED","Sustainability","Sustainable Design","Aviation","Transportation","Airports","Civic","Culture","Government","Museums","Libraries","Education","Schools","Universities","Entertainment","Media","Creative Media","Technology","Gaming","Theaters","Studios","Casinos","Financial Services","Banking","Insurance","Real Estate","Headquarters","Campuses","Hospitality","Hotels","Spas","Critical Facilities","Mission Critical","Data Centers","Mixed Use","Tall Buildings","Towers","Corporate Campuses","Commercial Office Building Developers","Office Buildings","Commercial Real Estate","Professional Services","Accounting","Advertising","Law","Residential","Retail","Shops","Retail Centers","Malls","Science","Technology","STEM","Labs","Laboratories","Health","Wellness","Fitness","Sports","Arenas","Stadiums","Workplace","Offices","Energy","Consumer Goods","Consumer Products","Manufacturing","Fashion","Beauty","PR","Marketing","Print","Publishing","Broadcasting","Developer","Landlord","Defense","Aerospace"]}</script>
+{"@context":"http:\/\/schema.org","@type":"WebPage","headline":"Privacy Policy","url":"https:\/\/www.gensler.com\/privacy-policy","thumbnailUrl":"http:\/\/www.gensler.com\/images\/global\/logo250x250-f90ed115.png","dateCreated":"","articleSection":"","creator":[],"keywords":["Design","Cities","Lifestyle","Work","Architecture","Brand Design","Brand Strategy","Graphic Design","Environmental Graphic Design","User Research","Consulting","Interior Design","Master Planning","Urban Design","Product Design","LEED","Sustainability","Sustainable Design","Aviation","Transportation","Airports","Civic","Culture","Government","Museums","Libraries","Education","Schools","Universities","Entertainment","Media","Creative Media","Technology","Gaming","Theaters","Studios","Casinos","Financial Services","Banking","Insurance","Real Estate","Headquarters","Campuses","Hospitality","Hotels","Spas","Critical Facilities","Mission Critical","Data Centers","Mixed Use","Tall Buildings","Towers","Corporate Campuses","Commercial Office Building Developers","Office Buildings","Commercial Real Estate","Professional Services","Accounting","Advertising","Law","Residential","Retail","Shops","Retail Centers","Malls","Science","Technology","STEM","Labs","Laboratories","Health","Wellness","Fitness","Sports","Arenas","Stadiums","Workplace","Offices","Energy","Consumer Goods","Consumer Products","Manufacturing","Fashion","Beauty","PR","Marketing","Print","Publishing","Broadcasting","Developer","Landlord","Defense","Aerospace"]}</script>
 <div id="parsely-root" style="display:none"><span id="parsely-cfg" data-parsely-site="gensler.com"></span><script id="parsely-script" async="" src="https://d1z2jf7jlzjs58.cloudfront.net/p.js"></script></div>
 <script>(function(s,p,d){var h=d.location.protocol,i=p+"-"+s,e=d.getElementById(i),r=d.getElementById(p+"-root"),u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net":"static."+p+".com";if(e)return;e=d.createElement(s);e.id=i;e.async=true;e.src=h+"//"+u+"/p.js";r.appendChild(e);})("script","parsely",document);</script>
   <script>
@@ -215,9 +338,9 @@ _gaq.push(['_trackPageview', location.pathname + location.search + location.hash
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-105490766-1', 'auto');
-  ga('send', 'pageview');
+  ga('send', 'pageview', location.pathname + location.search + location.hash);
 </script>
-  <!-- release: deploy 68a7e9b7d17b5fe5a1287d40a4524db1e2b48b31 2017-09-29 14:13:44 -->
-
+  <!-- release: deploy b8ccd8e8dec193552e5b2279d16cdc42b63c9172 2018-10-17 13:06:38 -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b90b8f0c98","applicationID":"5009602","transactionName":"NlxQYkcHCEEAU0UIWA8Wc1VBDwlcTkBDCEEAWktpRQkKWwJJHghZBVxK","queueTime":0,"applicationTime":71,"atts":"GhtTFA8dG08=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
