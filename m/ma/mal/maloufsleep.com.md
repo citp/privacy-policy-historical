@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maloufsleep.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316122931id_/https%3A//www.maloufsleep.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maloufsleep.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019131100id_/https%3A//maloufsleep.com/privacy) for the most accurate reproduction.*
 
-# Terms And Conditions | Malouf Sleep
+# Malouf
 
 ## Privacy Policy
 
