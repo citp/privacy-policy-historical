@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabelas.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627074015id_/https%3A//www.cabelas.com/custserv/custserv.jsp%3FpageName%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabelas.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019123758id_/https%3A//www.cabelas.com/custserv/custserv.jsp%3FpageName%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy : Cabela's
 
@@ -24,7 +24,7 @@ How the Information We Collect is Shared
 How We Protect the Information We Collect  
 The Choices Regarding the Information You Collect
 
-Information About the CLUB® Visa® Program
+Information About the CLUB® Program
 
 Changes to This Privacy Policy  
 Children  
@@ -62,7 +62,7 @@ When you visit Cabelas.com, make use of Cabela's Tech Resources or visit us, whe
   * Credit card number or other payment-related information
 
   
-In addition, if you're applying for a CLUB VISA Card, we may collect additional personal information that you provide as part of the credit card application. 
+In addition, if you're applying for a CLUB Card, we may collect additional personal information that you provide as part of the credit card application. 
 
 If you request one of our newsletters or send an inquiry to one of our customer service representatives, we will also store a record of your request along with your email address. When you order a giftcard or eGiftCard you are given the opportunity to include the name and a message for the recipient. We record this information, along with the shipping information. This information is only used for the sole purpose of completing your request or for whatever reason it may have been provided. 
 
@@ -157,7 +157,7 @@ We use software tools and service providers to help us gather and analyze inform
 
 BrassRing is our service provider for tracking and processing job applications. No information is collected unless specifically entered by the user. This information is only used in connection with applying for a job at Cabela's. You may review BrassRing's privacy policy here or to have your information deleted from the career database, please email BrassRing at [swlegal@us.ibm.com](mailto:swlegal@us.ibm.com;).
 
-We may make our postal mailing address lists available to subsidiaries and affiliated companies that are part of the Cabela's family of companies. We may also make our postal mailing address lists available to non-affiliated parties in order to offer you a Cabela's CLUB® Visa® credit card, and to direct mail companies who we believe may have products and services of interest to our customers. We do not share email addresses with any outside organizations that do not have operational relationships with Cabela's for their own marketing purposes.
+We may make our postal mailing address lists available to subsidiaries and affiliated companies that are part of the Cabela's family of companies. We may also make our postal mailing address lists available to non-affiliated parties in order to offer you a Cabela's CLUB® credit card, and to direct mail companies who we believe may have products and services of interest to our customers. We do not share email addresses with any outside organizations that do not have operational relationships with Cabela's for their own marketing purposes.
 
 If Cabela's is involved in a merger, acquisition, reorganization, or sale of all or a portion of its assets, customer information will likely be shared for evaluation purposes and included among the transferred assets. We may share any data within our databases and may transfer title to that data as part of any such transaction. Any successor in interest will remain bound by the terms of this Privacy Policy as it relates to your information.
 
@@ -190,8 +190,8 @@ If you choose to opt-out of our use of your information for direct marketing pur
 
 If you are a registered user of the web site, you can manage many aspects of your registration information. If your information changes, you may correct or update the information by making the changes on our member information page. For security reasons, however, some parts of your information may not be changed online and may require you to call or write to us in order to verify your identity before such changes can be made. We will respond to your request within a reasonable timeframe. To request that we no longer use your information to provide our services, the removal of your testimonial, or the removal of your information from a blog or public forum, please contact us via our [Customer Service email address](mailto:https://cabelas.custhelp.com/app/ask;).
 
-INFORMATION ABOUT THE CLUB® Visa® PROGRAM  
-The Cabela's CLUB Visa is issued by Capital One Bank (USA), N.A. ("Capital One"). When you apply for a Cabela's CLUB Visa card, we submit your information to Capital One. To view Capital One's privacy notice, please [click here](https://www.capitalone.com/media/doc/corporate/english-privacy-notice.pdf). We may also share your information with Capital One or its designated service providers in order to offer you a Cabela's CLUB Visa Credit card. Communications related to these offers are monitored for quality and compliance purposes such that the individuals and vendors monitoring these communications may also receive access to the information shared as part of such offers.
+INFORMATION ABOUT THE CLUB® PROGRAM  
+The Cabela's CLUB card is issued by Capital One Bank (USA), N.A. ("Capital One"). When you apply for a Cabela's CLUB card, we submit your information to Capital One. To view Capital One's privacy notice, please [click here](https://www.capitalone.com/media/doc/corporate/english-privacy-notice.pdf). We may also share your information with Capital One or its designated service providers in order to offer you a Cabela's CLUB Credit card. Communications related to these offers are monitored for quality and compliance purposes such that the individuals and vendors monitoring these communications may also receive access to the information shared as part of such offers.
 
 CHANGES TO THIS PRIVACY POLICY  
 We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
