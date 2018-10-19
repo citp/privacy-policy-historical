@@ -1,33 +1,35 @@
-> *The following text is extracted and transformed from the surfeasy.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606122030id_/https%3A//www.surfeasy.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfeasy.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019083514id_/https%3A//www.surfeasy.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | SurfEasy Ultra fast, no-log VPN for Android, iOS, Mac & Windows
 
 ## Privacy Policy
 
-Last Updated April 18, 2016.
+This Privacy Notice is to be read and applies in conjunction with, and in addition to the [Symantec - Norton Global Privacy Statement](https://www.symantec.com/privacy). It describes the categories of data collected by SurfEasy and the purposes for which those data categories are processed. It is designed to provide mandatory transparency information both to individual Norton users as data subjects and to Small and Medium Business Norton users as data controllers. Please note that data categories marked with an asterisk (*) are personal data transmitted to Symantec for the purpose of delivering the corresponding product features and service functionalities. All other data categories are collected by the Norton software for processing in a non-identifiable form.
 
-SurfEasy believes in privacy and online freedom and that it should be very clear how we manage and protect your personal information. If you have any questions or concerns, please contact us.
+All of Norton’s Products and Services are held to the high standards as set forth in the Symantec – Norton Global Privacy Statement. Furthermore, to inform you transparently about the unique characteristics and specific purposes of the SurfEasy product and service, in addition to a description of SurfEasy, this Notice describes the Personal Data we collect and the purposes for which the Personal Data is processed.
 
-We might need to change this Privacy Policy from time to time to reflect changes in our business or operations.
+If any part or aspect of this Notice is unacceptable to you, then please do not download, install, or otherwise use SurfEasy.
 
-## The SurfEasy Private Network
+## SurfEasy
 
-The core of our service is the SurfEasy Private Network which provides private and secure data transmission. If you are using the SurfEasy Private Browser, we route your browser Internet traffic through our network. If you are using the SurfEasy Virtual Private Network (VPN) Service, we route all of your Internet traffic through our network. In each case, our software browser or client establishes and maintains an encrypted tunnel between your browser or device and our network.
+## Product/Service Description
 
-The SurfEasy network is a No Log network. SurfEasy does not store users originating IP address when connected to our service and therefore cannot identify users when provided IP addresses of our servers. Additionally, SurfEasy cannot disclose information about the applications, services or websites our users consume while connected to our services; as SurfEasy does not store this information.
+SurfEasy provides private and security data transmission by routing browser Internet traffic through the SurfEasy network, which may mean your Internet traffic is routed through one or more countries. The software browser or client establishes and maintains an encrypted tunnel between the browser or device and the SurfEasy network. SurfEasy is a No Log network, which means that SurfEasy does not store originating IP address when connected to the SurfEasy service, and therefore SurfEasy cannot identify users when provided IP addresses of the servers. Because this information is not stored, this also means SurfEasy cannot disclose information about the applications, services or websites visited or used while connected to SurfEasy.
 
-SurfEasy may need to collect the following operational data in order to operate our Services.
+## Data Access and Collection
 
-Aggregate bandwidth usage for billing, network operations and support. Temporary usage data to assist with debugging a problem with the service. This information is not retained once trouble shooting is resolved. We perform automated rules-based traffic management for the purposes of maintaining and improving our service. Applying these rules may require real-time analysis of Internet and data traffic including destination websites or IP addresses, originating IP addresses. However, no log is maintained regarding this information as it is a real-time process. The SurfEasy website uses cookies, tracking pixels and related technologies. Cookies are small data files that are served by our platform and stored on your device. Our site uses cookies dropped by us or third parties for a variety of purposes including to operate and personalize the website. Also, cookies may also be used to track how you use the site to target ads to you on other websites. The SurfEasy clients may use in-app analytics technologies, like Google Analytics, to help improve and simplify the overall app, design and service. For the VPN in Opera Browser for Desktop, we create a subscriber ID (generated in sequential order across all subscribers) that allows us to manage that user on our system. If that user clears their browser cache/history, they’re assigned a new generated subscriber ID. SurfEasy is required to comply with law enforcement where subpoenas, warrants or other legal documents have been provided. We may collect and disclose personal information, including your usage data, to governmental authorities or agencies, including law enforcement agencies, at their request or pursuant to a court order, subpoena or other legal process, if there is a good faith belief that such collection or disclosure is required by law.
+  1. Aggregate bandwidth usage
+  2. Temporary usage data
+  3. Internet and data traffic, such as destination website or IP address and originating IP address
+  4. In-app telemetry data
 
-Since we manage a global network, your Internet traffic may be routed through one or more different countries.
 
-## Account Information
 
-In order to enroll you in our service and maintain your account we need to collect your email address. We may also use your email address for billing and customer support. From time to time we may use your email address to request your feedback on our service, advise you of promotional offers regarding our current and new services and provide you with updates on our new products and product features.
+## Data Processing
 
-We may also collect information such as your name, address, phone number and payment information in connection with your purchase of our products and services. This information is used to fulfill your purchase and to bill you as necessary based on your service plan.
+  1. Bandwidth usage is required for billing, network operations and support.
+  2. Usage data provides assistance with debugging service problems and is not retained once resolved.
+  3. Destination website and IP address data is processed to perform automated rules-based traffic management to maintain and improve the service. This is a real-time process, and no log data is maintained.
+  4. Analytics technology, such as Google Analytics, is used to improve the service, design, and app experience.
 
-## Customer Support
 
-We collect your email address and other contact information when you request customer support. We also collect information regarding your support request. This information is used to address your inquiry or service problem and to improve our service.
