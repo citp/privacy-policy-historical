@@ -1,18 +1,10 @@
-> *The following text is extracted and transformed from the ngccoin.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214948id_/https%3A//www.ngccoin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngccoin.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019175152id_/https%3A//www.ngccoin.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NGC
 
-This website is operated by the Certified Collectibles Group (“CCG”)
+This website is operated by Certified Collectibles Group, LLC or one of its affiliated companies (“CCG”).
 
-This Privacy Policy covers how CCG (also “we” or “us”) collects, uses, retains, processes, discloses and transfers Personal Information on the websites of the CCG Companies and on our mobile applications NGC and NGC Coin Details (together the “Site” or the “Website”). The websites of the CCG companies include:
-
-  * Numismatic Guaranty Corporation (NGC): [www.ngccoin.com](https://www.ngccoin.com/), [www.ngccoin.co.za](http://www.ngccoin.co.za/), [www.ngccoin.cn](https://www.ngccoin.cn/), [www.ngccoin.hk](https://www.ngccoin.hk/), [www.ngccoin.jp](http://www.ngccoin.jp/), [www.ngccoin.sg](http://www.ngccoin.sg/), [www.ngccoin.kr](http://www.ngccoin.kr/), [www.ngccoin.tw](http://www.ngccoin.tw/), [www.ngccoin.de](https://www.ngccoin.de/), [www.ngccoin.es](http://www.ngccoin.es/), [www.ngccoin.fr](http://www.ngccoin.fr/), [www.ngccoin.it](http://www.ngccoin.it/), [www.ngccoin.pl](http://www.ngccoin.pl/), [www.ngccoin.ru](http://www.ngccoin.ru/), [www.ngccoin.ch](http://www.ngccoin.ch/) and [www.ngccoin.co.uk](http://www.ngccoin.co.uk/)
-  * Paper Money Guaranty (PMG): [www.pmgnotes.com](https://www.pmgnotes.com/), [www.pmgnotes.cn](https://www.pmgnotes.cn/), [www.pmgnotes.hk](https://www.pmgnotes.hk/), [www.pmgnotes.kr](https://www.pmgnotes.kr/) and [www.pmgnotes.tw](https://www.pmgnotes.tw/)
-  * Certified Guaranty Company (CGC): [www.cgccomics.com](http://www.cgccomics.com/), [www.cgcmagazines.com](http://www.cgcmagazines.com/), [www.certifiedguaranty.com](http://www.certifiedguaranty.com/)
-  * Classic Collectible Services (CCS): [www.ccspaper.com](http://www.ccspaper.com/)
-  * Certified Collectibles Group (CCG): [www.collectiblesgroup.com](https://www.collectiblesgroup.com/) and [www.collectors-society.com](http://www.collectors-society.com/)
-
-
+This Privacy Policy covers how CCG (also “we” or “us”) collects, uses, retains, processes, discloses and transfers Personal Information on this website or on our mobile applications NGC and NGC Coin Details (together the “Site” or the “Website”).
 
 Personal Information includes information about you that is personally identifying such as your name, email address, postal address and phone number and which is not otherwise publicly available. Personal Information may include other types of information depending on the legal definition that applies in your physical location. Only the legal definition of Personal Information that applies in your location will apply to you under this Privacy Policy.
 
@@ -20,7 +12,7 @@ Personal Information includes information about you that is personally identifyi
 
 **By using the Site and by providing information to the Site, you accept and hereby expressly consent to our collection, use, retention, processing, disclosure and transfer, including cross-border transfer, of your Personal Information in accordance with the terms of this Privacy Policy.**
 
-This Privacy Policy may change from time to time, so please check back periodically to check the most recent modification date to ensure that you are aware of any changes in our processing of your Personal Information. Your continued use of the Site, our products or services after any changes signifies your express consent to any such changes. If you do not agree to such changes, you must immediately stop using the Site. This Privacy Policy was last modified on May 27, 2016.
+This Privacy Policy may change from time to time, so please check back periodically to check the most recent modification date to ensure that you are aware of any changes in our processing of your Personal Information. Your continued use of the Site, our products or services after any changes signifies your express consent to any such changes. If you do not agree to such changes, you must immediately stop using the Site.
 
 ### Information Collection and Use; Choice and Consent
 
@@ -52,6 +44,8 @@ When you visit the Site, we use session “cookies,” a piece of information st
 
 Users who disable their web browsers’ ability to accept cookies will be able to browse the Site, but will not be able to access or take advantage of all of the features and services on the Site. We therefore recommend you do not block or disable these cookies. To find out more about cookies, including how to see what cookies have been sent and how to manage, as well as delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
+To learn more about our cookies, see our [Cookie Policy](https://web.archive.org/legal/cookie-policy/).
+
 ### Google Analytics
 
 The Web Site uses Google Analytics. For more information about Google analytic cookies, please see Google's help pages and privacy policy:
@@ -63,8 +57,6 @@ The Web Site uses Google Analytics. For more information about Google analytic c
 
 Google has developed the Google Analytics opt-out browser add-on for the Google Analytics JavaScript (ga.js, analytics.js, dc.js). If you want to opt out of Google Analytics, you can download and install the add-on for your web browser [here](https://tools.google.com/dlpage/gaoptout/).
 
-To learn more about our cookies, see our Cookie Statement at [ngccoin.com/cookies](https://web.archive.org/cookies).
-
 ### Protection of Your Information
 
 We will take appropriate technical and organizational safeguards to protect Personal Information from theft, other loss, misuse, and any unauthorized access, copying, collection, use, disclosure, alteration or destruction. We follow generally accepted standards to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
@@ -73,9 +65,23 @@ We will retain Personal Information for as long as necessary to provide our serv
 
 ### Information Sharing and Disclosure
 
-Information that is collected by any of the websites named above is shared with affiliates in the CCG group of companies for their internal and direct marketing purposes, consistent with any necessary consents. We share your Personal Information with third parties necessary to enable us to provide the Services and with third parties that perform telemarketing and direct marketing on our behalf (our “Subcontractors”). For example, we disclose Personal Information to Authorize.net, our payment provider, to enable them to process your membership payments. The Authorize.net privacy policy is available at [www.authorize.net/company/privacy/](http://www.authorize.net/company/privacy/). Our Subcontractors are contractually obligated to maintain the confidentiality of your Personal Information consistent with the terms of this Policy and to comply with the applicable data protection laws.
+Information that is collected by the Website may be disclosed in the following ways:  
 
-We may disclose non-personal information and de-identified aggregate information to Google Analytics or other third parties.
+
+  * Information may be disclosed to affiliates in the Certified Collectibles Group of companies for internal purposes; 
+  * Non-personal information and de-identified aggregate information may be disclosed to Google Analytics or other third parties; and
+  * Personal Information may be disclosed to third parties as necessary to enable us to provide the Services and to perform telemarketing and direct marketing on our behalf (our “Subcontractors”). For example, we disclose Personal Information to Authorize.net, our payment provider, to enable them to process your membership payments. The Authorize.net privacy policy is available at [www.authorize.net/company/privacy/](https://www.authorize.net/about-us/privacy/). Our Subcontractors are contractually obligated to maintain the confidentiality of your Personal Information consistent with the terms of this Policy and to comply with the applicable data protection laws.
+
+
+
+In addition, information that is collected by the Website may be disclosed or used in the following ways, unless you opt-out of such disclosures or uses:  
+
+
+  * Information may be disclosed to affiliates in the Certified Collectibles Group of companies and used to market goods or services of the Certified Collectibles Group of companies; 
+  * Information may be disclosed to affiliates in the Certified Collectibles Group of companies and used to market goods or services of third parties; and
+  * Information may be disclosed to third parties and used to market goods or services of such third parties.
+
+
 
 We will disclose your information in response to valid legal process, for example, in response to a court order, a subpoena or other legal request for information, and/or to comply with applicable legal and regulatory reporting requirements. We also may disclose your information in response to a law enforcement agency's request or other request for information from the U.S. or other government entities, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or to verify or enforce compliance with our policies and with applicable laws, or as otherwise required or permitted by law or consistent with legal requirements.
 
@@ -89,7 +95,7 @@ Given that the Internet operates in a global environment and that transfer of yo
 
 The Site may contain links to other sites that are not owned or controlled by CCG. Please be aware that we are not responsible for the privacy practices of these other sites. We encourage you to review the privacy policies and statements of other sites to understand their information practices. Our Privacy Policy applies only to information collected by our Site and Services.
 
-CCG is not responsible for and will not be a party to any transactions between you and a third party provider of products, information or services. CCG does not monitor such transactions or ensure the confidentiality of your Personal Information, including credit card information, for any third party transaction. Any separate charges or obligations you incur in your dealings with these third parties linked to the Site are solely your responsibility.
+CCG is not responsible for and will not be a party to any transactions between you and a third-party provider of products, information or services. CCG does not monitor such transactions or ensure the confidentiality of your Personal Information, including credit card information, for any third-party transaction. Any separate charges or obligations you incur in your dealings with these third parties linked to the Site are solely your responsibility.
 
 ### Children
 
@@ -124,3 +130,5 @@ By Fax: +1 941 360 2553
 ### Terms of Service
 
 Please also visit our [Terms of Service](https://web.archive.org/legal/) section establishing the use, disclaimers, and limitations of liability governing the use of the website that is available in your location.
+
+Revised: 07/11/2018
