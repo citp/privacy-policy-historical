@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamechanger.io privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930175422id_/https%3A//gc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamechanger.io privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020011838id_/https%3A//gc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | About | GameChanger | GameChanger
 
@@ -8,7 +8,7 @@ Updated February 22, 2017
 
 DICK'S Sporting Goods, Inc. and its [**_Family of Businesses_**](http://www.dickssportinggoods.com/shop/index.jsp?categoryId=18379836&ab=PrivacyPolicy_FamilyOfBusinesses) , including GameChanger Media, Inc. (collectively, " _DICK'S_ ", " _us_ ", " _our_ " or " _we_ ") provide this privacy policy (this " _Policy_ ") to inform you of: (1) the types of information we collect; (2) your choices surrounding such information; and (3) how we collect, use, share, update and secure such information. This Policy applies to information obtained in connection with DICK'S operations at or through our websites, our mobile/tablet sites, our social media presence, our applications, our registration and event services, our messaging platforms, our stores, our kiosks, and other DICK'S owned or controlled digital and omni-channel properties that link to this Policy (collectively, our " _Website_ "). Emails, social media, marketing campaigns and digital and online advertising are referred to collectively as, our " _Internet Marketing Channels._ " 
 
-This Policy does not create a contractual obligation between you and DICK'S, and it is subject to our [**_Terms of Use_**](http://www.dickssportinggoods.com/helpdesk/index.jsp?display=safety&subdisplay=terms&ab=HelpDesk_Security_Terms). If you have questions about this Policy, please contact us by using the "Contact Customer Service" link below.
+This Policy does not create a contractual obligation between you and DICK'S, and it is subject to our [**_Terms of Use_**](https://gc.com/terms). If you have questions about this Policy, please contact us by using the "Contact Customer Service" link below.
 
 **_I.   Information Collected_**
 
