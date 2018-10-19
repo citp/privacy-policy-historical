@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the db-engines.com privacy policy that was archived on 2018-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180410051139id_/https%3A//db-engines.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the db-engines.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019132953id_/https%3A//db-engines.com/en/privacy) for the most accurate reproduction.*
 
 # DB-Engines - Privacy Policy
 
@@ -8,7 +8,7 @@ solid-IT, the company that runs this site, respects each individual's right to p
 
 ## Information Collection
 
-solid-IT only collects data that is not personally identifiable by us, unless explicitly provided by you. We use web server logfiles and logging tools to improve the performance of the site and to monitor its use. 
+solid-IT only collects data that is not personally identifiable by us. We use web server logfiles and logging tools to improve the performance of the site and to monitor its use. 
 
 We do employ cookies to identify users after sign-up and login. A cookie is a small text file that our web server places on a user's computer hard drive to store some information. The site can be used without accepting cookies, but some functionalities cannot be accessed in that case.
 
