@@ -1,168 +1,138 @@
-> *The following text is extracted and transformed from the netquote.com privacy policy that was archived on 2017-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170817125658id_/https%3A//www.netquote.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netquote.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019112040id_/https%3A//www.netquote.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NetQuote
 
-**Last updated: October 27, 2015**
+_Last revised 9/7/2017_
 
-This Privacy Policy describes how we collect, use and share information when you use our Services. The terms "we," "us," or "our" mean iQ Holdings, LLC, a Delaware limited liability company and its legal subsidiaries and affiliates. The term "Services," means, collectively, various websites, applications, widgets, email notifications and other mediums, or portions of such mediums, through which you have accessed this Privacy Policy. By accessing or using our Services, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of Your Information (collectively, "Use of Your Information") as described in this Privacy Policy.
+**Our Commitment To Your Privacy**
 
-For purposes of this Privacy Policy, "Your Information" means information about you, which may be of a confidential nature and may include personally identifying information, medical and health history information, and/or financial information.
+**Introduction.**  We want to make your experience online satisfying and safe. This site is owned and operated by All Web Leads, Inc., a Delaware corporation (collectively " _Company_ ," " _we_ " or " _us_ ") headquartered in Austin, Texas. We understand that you value your privacy. This privacy policy (" _Privacy Policy_ ") governs information that you provide to us and information that we gather from your use of this website (www.netquote.com) and it tells you how we may collect, use, and share this information.
 
-This Privacy Policy applies to our Use of Your Information as a result of you using our Services, and does not apply to the following:
+Except as described in this Privacy Policy, or unless we are given permission by you, we will not sell or disclose your personally identifiable information to third parties.
 
-  * Information collected through mediums other than our Services;
-  * Information collected through our Services where a separate privacy policy applies, such as a sweepstakes entry (you should refer to the official rules and privacy policy for each individual sweepstakes for our specific policies regarding information sharing and disclosure pursuant to sweepstakes entry); or
-  * Information collected by any person or entity other than us, even if related to our Services (such as a third-party website, application, widget or lead form).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
+**Why do we collect your information?**  We help consumers shop for insurance, discounted health plans and other related products by connecting consumers with insurance companies, insurance agents, discount program representatives and other vendors, including vendors who also help match consumers with insurance providers or other vendors (we refer to all of these as " _Providers_ ", and we sometimes refer to both consumers and Providers as our " _users_ "). Since we deal with many Providers, the more detailed information you provide to us, the more accurate a quote our Providers may help you locate.
 
+**Newsletters.  **If you elect to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. If you no longer wish to receive our newsletter, you may opt-out at any time by following the instructions included in each newsletter.
 
-In addition to this Privacy Policy, our Services are also governed by our [Terms of Use](https://web.archive.org/terms-of-use) and any other documents referred to in this Privacy Policy and our [Terms of Use](https://web.archive.org/terms-of-use). These documents describe information that we collect from you or that you provide on or to the Services and how Your Information may be used and disclosed by us. They also describe the choices available to you regarding our Use of Your Information and how you can access and update Your Information. Please read this Privacy Policy and the [Terms of Use](https://web.archive.org/terms-of-use) carefully.
+**Information We Collect And How We Use It**
 
-**Information We Collect and Receive About You**  
-We might receive or collect several types of information about you, such as the information described below.
+**What do we collect and how do we use it?**   By clicking "Get My Quotes" you expressly authorize up to eight insurance companies or their agents or partner companies to contact you at the number and address provided with insurance quotes or to obtain additional information for such purpose, via live, prerecorded or autodialed calls, text messages or email. You understand that your signature is not a condition of purchasing any property, goods or services and that you may revoke your consent at any time.  You understand that the insurance companies or their agents or partner companies may confirm your information through the use of a consumer report, which may include your credit score and driving record.
 
-Information You Provide  
-The following are situations in which you may provide Your Information to us:
+By clicking "Get My Quotes" you also agree to this Privacy Policy and consent to your receipt of insurance quote reminders and special promotions via email from: member@myinsurancequotefinder.com. If you no longer wish to receive promotional emails from us you may opt-out at any time by using the unsubscribe link located at the bottom of each email communication or click the following link: [UNSUBSCRIBE](https://dnc.allwebleads.com/Unsubscribe). You acknowledge that you have read and understand this website's Terms and Conditions, and you agree to be bound by them.  We are not responsible, and shall not be held liable, if a Provider or other third party to whom we have forwarded any of the information you submitted to us violates our Privacy Policy or such third party's own privacy policy (if any), or otherwise violates the law.
 
-  * When you fill out forms or fields through our Services;
-  * When you sign up for any newsletters or other materials through our Services;
-  * When you provide information to us through a third-party application, service or website;
-  * When you communicate with us or request information about us or our Services, whether via email or other means;
-  * When you participate in online surveys;
-  * When you participate in any of our marketing initiatives, including, contests, events, or promotions; and
-  * When you participate in forums or provide user generated content or submissions.
+Our users may from time-to-time provide us with personally identifiable information. Personally identifiable information generally means any information that may be used to identify an individual, including, but not limited to, your name, home address, telephone number, and email address.
 
+Examples of personally identifiable information may include:
 
-
-Information Third Parties Provide  
-We may collect information about you from sources other than you, such as from social media websites (i.e., Facebook, LinkedIn, Twitter or others), blogs, other users and our business partners.
-
-General Use and Preference Information  
-We may collect, receive and store information regarding your general use of our Services (such as details of how and when you used our Services, interactions with our Services, log in information, resources that you access, your Internet protocol address, your browser type, and your device type), as well as your preferences.
-
-Device Information  
-When you use our Services through your computer, mobile phone or other device, we may collect information regarding and related to your device, such as hardware models and IDs, device type, operating system version, the request type, the content of your request and basic usage information about your use of our Services, such as date and time. In addition, we may collect information regarding application-level events and associate that with your account to provide customer service. We may also collect and store information locally on your device using mechanisms such as browser web storage and application data caches.
-
-Location Information  
-If you enable the collection of location information on your device, then we may collect information about your actual location, such as your mobile device's GPS coordinates. We may also use other technologies to determine your location (such as through the location of nearby Wi-Fi access points or cell towers), or obtain your location information from third parties.
-
-Phone Numbers  
-We may collect your phone number in several ways. For example, we may collect your phone number: (i) if you submit your phone number to us through our Services; (ii) by capturing your phone number if you call us; or (iii) if a third party provides your phone number to us.
-
-Non-Personally Identifiable Information   
-We may collect demographic information about you such as gender, zip code, and birth date, and information regarding your preferences and usage. This type of information is not, by itself, personally identifiable information. However, if we link such information with personally identifiable information in a manner that identifies a particular individual, then we will treat all such information as personally identifiable information for purposes of this Privacy Policy.
-
-Log Files, Cookies and Anonymous Identifiers  
-As is true of most web sites, we gather certain information automatically and store it in log files.Â  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality, and to document your consent to receiving products, services or communications from us or our partners. If we link such information with personally identifiable information in a manner that identifies a particular individual, then we will treat all such information as personally identifiable information for purposes of this Privacy Policy.
-
-Technologies such as cookies, beacons, tags and scripts are used by us and our partners, affiliates, advertisers, analytics teams, or service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.  
-We use cookies to help us know that you are logged on, provide you with features based on your preferences, understand when you are interacting with our Services, and compile other information regarding use of our Services. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use cookies to collect and store information. You can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
-
-We use Local Storage Objects (LSOs) such as HTML5 to store [content information and preferences.] Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML5 to collect and store information.
-
-Network Advertising  
-From time to time, we may participate in, partner with, or use advertising networks, such as third-party advertising servers, advertising agencies, technology vendors and research firms. For example, we use Google AdSense to publish ads on our Services. When you view or click on an ad, a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. In addition, we may use third-party advertising networks to serve advertisements to you on our Web site, or to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. This practice is often referred to as "online behavioral advertising." Please see the "Online Behavioral Advertising" subsection of Choices About How We Use and Collect Your Information below to read about how you can prevent certain third-party advertising networks from collecting information about you.
-
-**How We Use Information**  
-We may make Use of Your Information for various lawful business purposes. Among others, these purposes may include using Your Information to:
-
-  * Engage in customer support. For example, we might confirm and complete transactions requested by you, verify information you provide to us and provide you with administrative notices.
-  * Contact you and provide you with information. For example, we might provide or contact you through telephone, email, postal or other communications with Service updates, promotional materials, surveys, offers, quotes, personalized information and other information from us or our business partners.
-  * Analyze, improve and manage our Services and operations. For example, we might obtain feedback regarding our Services, understand and anticipate your needs and preferences, better understand your use of our Services, customize and tailor Service content and advertising, improve our marketing and promotional efforts, engage in statistical analysis and provide feedback to our vendors, advertisers and other third parties.
-  * Resolve problems and disputes, and engage in other legal and security matters. For example, we may use Your Information to comply with, monitor compliance with and enforce this Privacy Policy, our [Terms of Use](https://web.archive.org/terms-of-use) and any other applicable agreements and policies, meet other legal and regulatory requirements, and to protect the security and integrity of our Services.
+  * First and Last Name
+  * Postal Address
+  * Email Address
+  * Phone Number
+  * Date of Birth
+  * Gender
+  * Driver’s license information
 
 
 
-**How We Disclose Information**  
-_General Disclosure of Your Information_  
-We will share your personally identifiable information with third parties only in the ways that are described in this privacy policy. 
+Some of our users requesting quotations for health insurance may also be asked to provide certain personal health information, such as:
 
-We may disclose Your Information:
-
-  * To any person who, in our reasonable judgment, is authorized to receive Your Information as your agent, including as a result of your business dealings with that person (for example, your attorney);
-  * To our third-party vendors so that they may provide support for our internal and business operations, including for the handling of data processing, data verification, data storage, surveys, research, internal marketing, delivery of promotional, marketing and transaction materials, and our Services' maintenance and security. These companies are authorized to Use Your Information only as necessary to provide these services to us and are contractually obligated to keep Your Information confidential;
-  * To third parties such as insurance providers when you use our Services to request a quote, services, or information from one or more of those third parties ("Requested Service Providers"), such as by clicking "get your quotes" or other similar buttons at the end of a form, and we may be compensated for such disclosure;
-  * To third parties when you engage in certain activities through our Services that are sponsored by them, such as purchasing products or services offered by a third party, electing to receive information or communications from a third party, or electing to participate in contests, sweepstakes, games or other programs sponsored, in whole or in part, by a third party. When we disclose Your Information to these third parties, we may be compensated, and Your Information will become subject to the information use and sharing practices of the third party, and the third party will not be restricted by this Privacy Policy with respect to its use and further sharing of Your Information;
-  * To third parties that are interested in contacting you or providing offers to you that may be related to our Services or about products or services you may find of interest, and we may be compensated for such disclosure;
-  * As required by law or ordered by a court, regulatory, or administrative agency;
-  * As we deem necessary, in our sole discretion, if we believe that you are violating any applicable law, rule or regulation, or are otherwise interfering with another's rights or property, including, without limitation, our rights or property;
-  * If requested by authorities in the event of any act of terrorism or instance of local, regional or national emergency;
-  * To enforce our [Terms of Use](https://web.archive.org/terms-of-use), this Privacy Policy, and any other applicable agreements and policies;
-  * To enforce or protect our rights;
-  * In connection with a Business Transfer, as defined below (see Business Transfers below); and
-  * To our affiliated companies (i.e., companies under common control or management with us).
+  * Major Health Conditions
+  * Prescription Medications you or a family member may be taking
+  * Whether or not you have been hospitalized in the past 5 years
+  * Whether or not you have been treated by a doctor for a major health condition in the past year
 
 
 
-**If you do not want Your Information shared as described above, then you should not provide us with Your Information.**
+We process personally identifiable information as described herein and also for such purposes as:
 
-Requests for Quotes and Services from Requested Service Providers   
-As noted above, we may share Your Information with Requested Service Providers when you use our Services to request a quote, services or information from one or more third parties (a "Request"). **IF YOU SUBMIT A REQUEST, REQUESTED SERVICE PROVIDERS MAY CONTACT YOU DIRECTLY WITH QUOTES VIA MAIL, TELEPHONE, TEXT MESSAGE, FAX, EMAIL AND OTHER MEANS OF COMMUNICATION. YOU MAY RECEIVE TELEMARKETING CALLS AS A CONSEQUENCE OF SUBMITTING A REQUEST THROUGH OUR SERVICES, EVEN IF YOU ARE ON THE NATIONAL DO NOT CALL REGISTRY OR ANY OTHER DO NOT CALL REGISTRY.**
-
-If you are matched with Requested Service Providers, you expressly consent to the Requested Service Providers conducting any research necessary to provide you with quotes for your Request. Requested Service Providers may need to share Your Information to conduct such research. As an example, if you request insurance quotes, consumer reports may be ordered in connection with your insurance application. Such reports may provide information that may assist in determining eligibility for insurance and the price you may be charged for insurance. Consumer reports may also be used for updates, renewal or extensions of this insurance. In addition, insurance companies may use third parties in connection with the development of an "insurance score" for you. **If you do not want Requested Service Providers to conduct necessary research to provide you with a quote for your Request, then you should not submit a Request.**
-
-**Please note that if you submit a Request through our Services and we share Your Information as described above in connection with your Request, you will not have the opportunity to opt out of the disclosure of Your Information in connection with that Request.**
-
-Aggregation and De-Personalization  
-We may take Your Information and de-identify it either by combining it with information about other individuals (aggregating Your Information with information about other individuals), or by removing characteristics (such as your name) that make the information personally identifiable to you (de-identifying Your Information). We reserve the right to share, loan, rent, sell, or otherwise disclose such information to third parties at any time, for any lawful purpose, without notice or compensation to you.
-
-Sharing with Friends   
-If the Services contains any functionality allowing you to send content to a friend, then please be aware that: (a) we may display your email address to your friend; and (b) we may use information you provide about your friend to facilitate the communication and as otherwise set forth in this Privacy Policy. We do not store your friends email address in our database. Your friend will receive a one-time message notifying them of the shared content.
-
-Sweepstakes   
-If you are submitting information to us pursuant to a sweepstakes entry, we reserve the right to share, loan, rent, sell or otherwise disclose the information that you submit with third parties at any time, for any lawful purpose without notice or compensation to you. Participation in these sweepstakes is completely voluntary and you therefore have a choice whether or not to disclose Your Information. Please refer to the official rules and privacy policy for each individual sweepstakes for our specific policies regarding information sharing and disclosure pursuant to that sweepstakes entry.
-
-Circumvention of Security Measures   
-No method of transmission or method of electronic storage, is 100% secure, and we cannot guarantee absolute security. Additionally, by way of example (without limiting the foregoing), we may be forced to disclose Your Information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Therefore, notwithstanding anything to the contrary within this Privacy Policy, our [Terms of Use](https://web.archive.org/terms-of-use) or any other applicable agreement or policy, you use our Services at your own risk and we do not promise or guarantee, and you should not expect, that Your Information will always remain private. In the event that an unauthorized third party compromises our security measures, we will not be responsible for any damages directly or indirectly caused by an unauthorized third party's ability to view, use or disseminate Your information.
-
-Business Transfers   
-We specifically and expressly reserve the right to disclose, lease, sell, assign or transfer Your Information collected through our Services, and any of our databases, together with any personally identifiable information contained in such databases, to third parties in connection with a Business Transfer. A "Business Transfer" means a share or asset sale, acquisition, merger, consolidation, reorganization, spin-off, bankruptcy or other corporate change involving us and/or our affiliates, even if the Business Transfer is only being contemplated and regardless of whether the Business Transfer relates to a part or a whole of our business. Nothing in this Privacy Policy is intended to interfere with our ability to transfer all or part of our business, equity, and/or assets (including our Services) to an affiliate or independent third party at any time, for any lawful purpose, without compensation to you.
-
-**Children's Information**  
-You must be at least 13 years of age to register with or use certain portions of the Services. The Services are not intended for children under 13 years of age. No one under 13 years of age may provide any personally identifiable information to or on the Services. We do not knowingly collect personally identifiable information from children under 13. If you believe that we may have any information from or about a child, please contact us at [info@insurancequotes.com](mailto:info@insurancequotes.com).
-
-**User Generated Content**   
-We offer publicly accessible blogs and other interactive media through our Services. To request removal of Your Information from our blog or community forum, contact us at info@insurancequotes.com. In some cases, we may not be able to remove Your Information, in which case we will let you know if we are unable to do so and why.
-
-Some comment areas are managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personally identifiable information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
-
-You are responsible for any content, including personally identifiable information, that you contribute to be published or displayed ("posted") on our Services, or that you transmit to other users of our Services (collectively, "User Generated Content"). Your User Generated Content is posted on and transmitted to other users of our Services at your own risk. We cannot control the actions of other users of our Services with whom you may choose to share your User Generated Content. We are not responsible for circumvention of any privacy settings or security measures of our Services. As a result, we cannot and do not guarantee that your User Generated Content will not be viewed by unauthorized persons. You understand and acknowledge that, even after removal, copies of your User Generated Content may remain viewable in cached and archived pages, or might have been copied or stored by other Service users. Proper access and use of information provided through our Services, including User Generated Content, is governed by our [Terms of Use](https://web.archive.org/terms-of-use).
-
-**Choices About How We Use and Disclose Your Information**   
-We strive to provide you with choices regarding the personally identifiable information you provide to us. Below are some mechanisms that provide you with control over certain information:
-
-  * Cookies. If you do not wish us to collect cookies, you may set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of our Services may then be inaccessible or may not function properly.
-  * Email Offers from Us. If you do not wish to receive email offers or newsletters from us, you can opt out of receiving email information from us (other than emails related to the completion of your registration, correction of user data, change of password and other similar communications essential to your transactions through our Services) by using the unsubscribe process at the bottom of the email.
-  * Accessing and Correcting Personally Identifiable Information. If a portion of our Services allows you to create an account with us, then you can review and update Your Information by logging into that portion of our Services, visiting your account profile page and making changes. We will retain Your Information for as long as your account is active or as needed to provide you services and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-  * Log Files. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
-  * Online Behavioral Advertising. If you wish to not have third party advertisers collect your information for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). In addition, certain third-party advertising networks that deliver behavioral advertising are members of the Network Advertising Initiative ("NAI"). You can prevent NAI member companies from collecting preference data about you by clicking [here](http://www.networkadvertising.org/choices/) and following the NAI's directions. You may also opt-out of Google Adsense's use of its cookie by visiting [Google's Advertising and Privacy page](http://www.google.com/privacy_ads.html). Please note that these opt-outs do not opt you out of being served ads. You will continue to receive generic ads.
+  * To deliver our products and services to users, including the display of customized content and advertising;
+  * To conduct research and analysis in order to maintain and improve our products and services;
+  * Ensuring the technical functioning of our system and network;
+  * To aid us in developing new services;
+  * To alert you to product updates, special offers, updated information and other new services. (You may opt-out of these communications if you so choose.)
+  * To contact you in response to your requests for information; and
+  * To provide you quotes from up to 8 Providers who may contact you using the information you provide or to obtain additional information needed to provide quotes.
 
 
 
-**Information You Disclose to Third Parties**  
-You may be presented with an opportunity to receive information and/or marketing offers from third parties in connection with our Services. All information you disclose to such third parties will be subject to the privacy policy and practices of such third parties. We are not responsible for the privacy policies and practices of such third parties and, therefore, you should review the privacy policies and practices of such third parties prior to disclosing information to them. If you later decide that you no longer want to receive communications from a third party, you will need to contact that third party directly.
+Further, we may aggregate information we receive from you and from our other users and may use or disclose such aggregate information to third parties in a manner that does not disclose any individual user's personally identifiable information.
 
-**Links to Third-Party Websites**  
-Our Services, as well as the email messages sent with respect to our Services, may contain links or access to websites operated by third parties that are beyond our control. For example, if you click to apply for a product such as a credit card through our Services, you may be linked to a third-party website to complete an application. Links or access to third parties from our Services are not an endorsement by us of such third parties, or their websites, applications, products, services, or practices. We are not responsible for the privacy policy, terms and conditions, practices or the content of such third parties. These third-parties may send their own cookies to you and independently collect data. If you visit or access a third-party website, application or other property that is linked or accessed from our Services, we encourage you to read any privacy policies and terms and conditions of that third party before providing any personally identifiable information. If you have a question about the terms and conditions, privacy policy, practices or contents of a third party, please contact the third party directly.
+**Affiliate Information.**  If you wish to contact us as an affiliate or register as an affiliate we collect your name, company name, email address and phone number. We use this information to respond to your message/comment and for contacting potential affiliates to determine the potential for a business relationship. We do not disclose this information to third parties.
 
-**Third Party Widgets and Plug-ins**  
-Our Services include social media features, such as the Facebook Like button, links to our various social media pages and widgets, such as the Share this button or interactive mini-programs that run on our Services. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly through our Services. Your interactions with these features are governed by the privacy policy of the company providing it.
+If you add another driver’s information when filling out the insurance quote form on our site, we will ask you for the other driver’s name and email address. We store this information for the sole purpose of providing you quotes.
 
-**Operation of our Services in the United States**  
-Our Services are operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Services or providing us with Your Information, you consent to this transfer.
+The other driver/s may contact us at [information@allwebleads.com](mailto:information@allwebleads.com) to request that we remove this information from our database.
 
-**Changes to this Privacy Policy**  
-We reserve the right to update, amend and/or change this Privacy Policy at any time in our sole discretion. Amendments will take effect immediately upon us posting the updated Privacy Policy on our Services. If we make any material changes we will notify you by means of a notice on this Site prior to the change becoming effective. You are encouraged to revisit this Privacy Policy from time to time in order to review any changes that have been made. The date on which this Privacy Policy was last updated will be noted immediately above this Privacy Policy. Your continued access and use of our Services following the posting of any such changes shall automatically be deemed your acceptance of all changes.
+**IMPORTANT NOTICE REGARDING CONSUMER REPORT PRACTICES**  AS STATED ABOVE, BY CLICKING "GET MY QUOTES" AND SEEKING A QUOTE REQUEST, YOU AUTHORIZE AND AGREE THAT A PROVIDER MAY OBTAIN ADDITIONAL BACKGROUND INFORMATION ABOUT YOU TO PROVIDE YOU WITH YOUR REQUESTED INSURANCE QUOTE OR POLICY INFORMATION. FOR EXAMPLE, CONSUMER AND/OR CREDIT REPORTS, OR DRIVING RECORDS, MAY BE ORDERED IN CONNECTION WITH YOUR QUOTE REQUEST. THESE REPORTS MAY PROVIDE ADDITIONAL INFORMATION THAT MAY ASSIST PROVIDERS IN DETERMINING YOUR ELIGIBILITY FOR INSURANCE, DISCOUNT HEALTH PLANS OR OTHER PRODUCTS OR SERVICES, AND RATES THAT YOU MAY BE CHARGED. CONSUMER REPORTS MAY ALSO BE USED FOR UPDATES, RENEWALS, OR EXTENSIONS OF ANY INSURANCE YOU MAY OBTAIN. A PROVIDER MAY ALSO OBTAIN AND USE A CREDIT-BASED INSURANCE SCORE CONTAINED IN YOUR CREDIT REPORT. THIS INFORMATION MAY BE COMBINED BY A PROVIDER WITH INFORMATION YOU SUBMIT TO US, AND BY CLICKING SUBMIT AND SEEKING A QUOTE REQUEST, YOU ACKNOWLEDGE THAT YOU ARE PROVIDING YOUR WRITTEN PERMISSION TO OUR PROVIDERS TO OBTAIN YOUR CREDIT REPORT.
 
-**Contacting Us**  
-If you have questions or concerns about our privacy practices or wish to make a request regarding Your Information, please contact us at [info@insurancequotes.com](mailto:info@insurancequotes.com).
+**Usage Tracking**
 
-**Special Notification for California Residents -- Your California Privacy Rights**  
-Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes. Such requests must be submitted to us at [info@insurancequotes.com](mailto:info@insurancequotes.com) or in writing at:
+**Log Files.**  As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
 
-iQ Holdings, LLC  
-7300 RM 2222  
-Building 2, Suite 100  
-Austin, TX 78730
+**Cookies/Tracking Technologies.**  Technologies such as: cookies, beacons, tags and scripts are used by All Web Leads, Inc. and our marketing partners, affiliates, or analytics or service. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-California privacy rights requests must include the reference "Request for California Privacy Information" on the subject line and in the body of the message and must include the email address or mailing address, as applicable, for us to send our response. This request may be made no more than once per calendar year. We reserve the right not to respond to requests submitted other than to the address specified above.
+We use cookies to authenticate the user on each page after the user logs onto any portion of our website requiring a login. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+
+**LSOs.**  We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Various browsers may offer their own management tools for removing HTML5 LSOs. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click here:<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+
+**User Access.**  Upon request, we will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information.  To request this information please contact us at information@allwebleads.com. We make a good-faith effort to enable you to update personally identifiable information you have provided to us and to enable you to request deletion of any of your information. If you wish to delete or update any of your personal information please email us at information@allwebleads.com. We will respond to your request within a reasonable timeframe. Please understand that while we are able to delete or update the information that we have received from you, this does not necessarily mean that information about you that has already been shared by us with other Providers may, at the same time, be updated or deleted by such other Providers. So, in some cases it may be necessary for you to contact other third parties who may have received your information and separately request updates to or deletions of your information. We may decline to process user requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, would be extremely impractical, or where information is required to be retained by us, either by law or for legitimate business purposes. Further, if you are a marketing affiliate, you may login to your account at any time to correct, update or delete inaccuracies in your personal information.
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [information@allwebleads.com](mailto:information@allwebleads.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+To request removal of your personal information from our blog, community forum, or testimonials contact us at the email address listed above.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+**Social Media (Features) And Widgets**
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+**Information Transfer And Sharing Policy**
+
+**Generally.  **When you begin to provide personally identifiable information to us, you do so for the purpose of our sharing this information with Providers to provide you with the quotes you requested, and this information then becomes subject to each Provider's own privacy policy (if any). If you do not want us to share your personal information with these companies, please do not fill out any forms on the site. Federal and state laws provide limitations on the information practices of financial institutions such as insurance companies. Providers and others to whom we may forward your personally identifiable information may contact you with a quote by email, telephone, postal mail, or other forms of communication as permitted by law and you agree to receive such contacts when you submit your information, regardless of the presence of your phone number(s) on any local or national no-call or similar no solicitation list. Except as disclosed in this Privacy Policy, we do not share personally identifiable information collected from you on this website with third parties for their direct marketing purposes. Please understand that because we are in the business of helping consumers and Providers identify one another, if you are a consumer and you do not permit us to share your personally identifiable information with a Provider, we will be unable to assist you and some of our services and offerings will be unavailable to you. We expect our Providers to whom we forward your information to follow applicable laws and abide by the restrictions we impose on their use of your personally identifiable information.
+
+**Other Usage and Offerings.**  As our business grows, from time to time we may seek to make available additional offerings and services including those that may not be insurance-related. In doing so, we will strive to give our users choices about whether or not you would like to continue to receive future promotional or marketing communications from us either directly or on behalf of others whose offerings we think may be of interest to you. In identifying which offerings we think may be of interest to you, we may use and analyze information you have provided to us. If you choose not to receive such marketing communications, you may still receive certain relationship or transactional communications from us as described herein. We do not plan to sell, rent or transfer your personally identifiable information for non-insurance related purposes to any third parties unless or except in connection with the merger, sale or reorganization of our business as set forth elsewhere in this policy.
+
+**Vendors and Suppliers.**  We may provide personally identifiable information to or permit access to personally identifiable information by our subsidiaries, affiliated companies, vendors and service providers for the purpose of verifying data or where such access is incidental to their assisting us such as phone number verification services and email service providers. We expect that these parties will only process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+
+**Protecting Our Legal Rights and Other's Rights.**  In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We do not otherwise share personally identifiable information about website users with third parties unless we believe using or sharing such information is appropriate to carry out a user's request or if we have a good-faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce our [Terms and Conditions of Use](https://www.netquote.com/terms-of-use), including investigation of potential violations thereof, (c) detect, prevent or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of the Company, its users or the public as required or permitted by law.
+
+We reserve the right to disclose your personally identifiable information as required by law or when we believe that disclosure is necessary to protect our rights and/or comply with a legal or judicial proceeding or court order.
+
+**Merger or Sale of Company.**  If we should ever file for bankruptcy or have our assets sold to or merged with another entity, information that we receive from you through this website may be treated as an asset of the Company and may be transferred to the fullest extent permitted by law.
+
+**Promotions and Programs.**  From time to time, you may be given the opportunity to participate in sweepstakes, contests, giveaways, or other promotions and programs offered by us, either alone or with promotional partners. Participation in these promotions or programs may require you to submit additional information about yourself, including personally identifiable information. Our use and sharing of your information, including personally identifiable information, collected through a promotion or program will be governed by the official rules or agreement governing that promotion or program, as well as by this Privacy Policy. The terms of those rules or that agreement will supersede any conflicting provisions of this Privacy Policy.
+
+**Marketing And Other Communications**
+
+When you submit information to us, you agree to receive email, fax, and other forms of communications from us and those to whom you have authorized us to forward your personally identifiable information. If you would like to opt-out of receiving promotional or marketing material from us in the future, please click the following link: [UNSUBSCRIBE](https://dnc.allwebleads.com/Unsubscribe?as=vz0wxg0qfgjt5towuuhg0uht) or by following the unsubscribe link located at the bottom of each promotional or marketing email communication. Your decision to opt-out shall not preclude us from communicating with you regarding your existing or past relationship with us and shall not preclude us, including our employees, contractors and other representatives, from accessing and using the information you have provided in a manner that is not personally identifying (such as in aggregate or anonymous form). If you do not wish to receive further communications from any person or entity (such as a Provider) to whom we have forwarded your information with your permission, you must contact them directly.
+
+**Affiliated Websites, Other Websites, And Advertisements**
+
+This Privacy Policy applies to websites and services that are owned and operated by All Web Leads, Inc. We do not exercise control over the websites of third parties that you may link to or view as part of a frame on a page on this website. These other sites may place their own cookies or other files on your computer, collect data, or solicit personally identifiable information from you. We are not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. You should always be careful in how you use and share any sensitive personal information with any third party.
+
+**Customer Testimonials/Reviews**
+
+We post customer testimonials/reviews on our sites, which may contain personally identifiable information. We do obtain the providing customer's consent prior to posting any such testimonial/review.
+
+**Authorized Users**
+
+This website is hosted in the United States and is intended exclusively for U.S. residents. In using this website you represent and warrant that you have any and all necessary authorization to submit the information contained in your requests, and that you expressly consent to the transfer, use, and forwarding by us of the information you provide to us through the website and to the United States.
+
+**Security**
+
+No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use secure server software and firewalls as part of our efforts to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of such firewalls and secure server software. By using our site, you acknowledge that you understand and agree to assume these risks.
+
+The security of your personal information is important to us. When you enter sensitive information (such as social security number, Driver's license number, national ID, personal health information) on our registration forms, we encrypt that information using secure socket layer technology (SSL).
+
+If we learn of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using this website or providing personally identifiable information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this website. We may post a notice on our website if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us by clicking the following link: [Privacy Support](mailto:information@allwebleads.com).
+
+**Changes And Updates**
+
+We may occasionally update this Privacy Policy, and we expect that most such changes will be minor. When we make changes, we will also revise the "revised date" on the Privacy Policy. If we should decide to change this Privacy Policy in a manner that we believe would cause us to use or share your previously provided personally identifiable information in a way that we think is materially broader or less privacy-friendly from what we have told you here, we will make reasonable efforts to obtain your consent. To do this we may notify you on our homepage or this policy, by email or using other means and technology we think are appropriate prior to the changes being effective. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personally identifiable information we collect. Your submission of a quote request and/or other use of this website constitutes your agreement to this Privacy Policy and any updates.
+
+**Contacting Us**
+
+If you have any questions, comments, or concerns about us or this Privacy Policy, please contact us via e-mail at [information@allwebleads.com](mailto:information@allwebleads.com), by phone at (512) 279-3113, or by U.S. mail at 7300 FM 2222, Bldg. 2, Suite 100, Austin, TX 78730, Attention: Customer Service.
