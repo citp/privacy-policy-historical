@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastfoodnutrition.org privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607171501id_/http%3A//fastfoodnutrition.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastfoodnutrition.org privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019210115id_/https%3A//fastfoodnutrition.org/privacy) for the most accurate reproduction.*
 
 # 
 
