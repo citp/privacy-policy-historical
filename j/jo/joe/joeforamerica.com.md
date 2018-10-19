@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joeforamerica.com privacy policy that was archived on 2018-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180318085428id_/https%3A//joeforamerica.com/privacy-policy-terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joeforamerica.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019172231id_/https%3A//joeforamerica.com/privacy-policy-terms-conditions) for the most accurate reproduction.*
 
 # Privacy Policy / Terms & Conditions ⋆ Joe For America
 
