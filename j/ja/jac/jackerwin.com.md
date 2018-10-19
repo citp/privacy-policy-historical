@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackerwin.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201023809id_/https%3A//www.jackerwin.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackerwin.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019141048id_/https%3A//www.jackerwin.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Jack Erwin
 
@@ -23,8 +23,8 @@ How do I withdraw my consent?
 If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at help@jackerwin.com or mailing us at:
 
 Jack Erwin, Inc.  
-226 Lafayette St #3E  
-New York, NY 10012
+17 Vestry Street, Floor 2  
+New York, NY 10013
 
 #### Section 3: Disclosure
 
@@ -105,5 +105,5 @@ If our store is acquired or merged with another company, your information may be
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at help@jackerwin.com or by mail at:
 
 Jack Erwin, Inc.  
-226 Lafayette St #3E  
-New York, NY 10012
+17 Vestry Street  
+New York, NY 10013
