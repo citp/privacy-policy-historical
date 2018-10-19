@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mega.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503225145id_/http%3A//www.mega.com/en/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mega.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019153030id_/https%3A//www.mega.com/en/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Enterprise Architecture Software for Digital Transformation | MEGA
 
