@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnyvinevideos.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618232756id_/http%3A//www.funnyvinevideos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnyvinevideos.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019115837id_/http%3A//funnyvinevideos.com/privacy) for the most accurate reproduction.*
 
 # FunnyVineVideos Privacy Policy
 
