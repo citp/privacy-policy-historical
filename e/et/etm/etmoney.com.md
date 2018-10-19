@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etmoney.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623105235id_/http%3A//etmoney.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etmoney.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019111804id_/http%3A//etmoney.com/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy: ETMONEY
 
