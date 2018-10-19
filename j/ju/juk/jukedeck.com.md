@@ -1,149 +1,218 @@
-> *The following text is extracted and transformed from the jukedeck.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514212439id_/https%3A//www.jukedeck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jukedeck.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019153927id_/https%3A//www.jukedeck.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Jukedeck Limited ( **Jukedeck** or **we** ) are committed to protecting and respecting your privacy.
+This webpage sets out when and how we use your personal information that you or others provide to us.
 
-This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.jukedeck.com you are accepting and consenting to the practices described in this policy.
+### Who we are
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Jukedeck Limited of c/o TechHub, 20 Ropemaker Street, London, EC2Y 9AR.
+We are Jukedeck Limited, a company registered in England and Wales (registered number 07953149).
+
+Our registered address is TechHub, 20 Ropemaker Street, London, England, EC2Y 9AR.
+
+### How do you use my data?
+
+#### When you sign up to our services
+
+When you become a registered user of Jukedeck, we will use your personal information to process your registered user application and provide you with your registered user information and benefits. The details we collect from you when you become a registered user include your name and email address.
+
+We need to process your personal information in this way to register you as a member and provide the ongoing registered user services and benefits to you.
+
+#### When you purchase products from our website
+
+When you purchase goods from our website, we will use your personal information to complete your purchase. The details we collect from you will include your name, address, email address, phone number and payment details.
+
+To complete your purchase, we share your personal information with our subcontractors who are involved in the purchase process, such as payment providers, as well as credit reference agencies who we use to assess fraud, credit and/or security risks.
+
+We need to process your personal information in this way to enter into and perform the contract for the item you have purchased from us.
+
+#### When you phone us or email us
+
+When you phone us or contact us by email with general queries, we may also handle your personal information (your name, contact details and the other details you provide to us) in order to provide the customer services you have asked us to. This could be when you ask us to provide more information about payments or explain how our products works.
+
+We rely on your consent to handle your personal information in this way. If you do not provide us with the personal information we request from you for customer services purposes, we may not be able to fully answer your queries.
+
+#### When you have expressed an interest in receiving Product and Company Updates
+
+This section applies if you have opted-in to receive marketing communications from us.
+
+We will handle your personal information (such as your name, email address, and sector preferences) to provide you with marketing communications in line with any preferences you have told us about.
+
+When we send you marketing emails because you have opted-in to receive them, we rely on your consent to contact you for marketing purposes.
+
+If you have not opted-in and we send you marketing emails, we do this because of our legitimate interest to promote the success of Jukedeck Limited.
+
+Every email we send to you for marketing purposes will also contain instructions on how to unsubscribe from receiving them.
+
+You are not under any obligation to provide us with your personal data for marketing purposes.
+
+You can tell us that you do not want your personal information to be processed in this way at any time by contacting us at legal@jukedeck.com or, where relevant, by following the unsubscribe link shown in every marketing communication you receive from us.
+
+#### To make our site better and make our music more relevant
+
+We will also use your personal information to provide you with a more effective user experience (such as by displaying customised, localised or recommended content we think you will be interested in). We collect and analyse information about the music you access to train our systems and provide more relevant content. By analysing the music you like, listen to and /or download, and your other actions on our site, we look to ensure technical functionality, improve the quality of our music and to develop new products.
+
+Our use of your information in this way means that your experience of our site may be more tailored to you, and that the content you see on our site may differ from someone accessing the same site with a different history or browsing habits.
+
+We will also use your personal information for the purposes of making our site more secure, and to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes.
+
+We process your data for this reason because we have a legitimate interest to provide you with the best experience we can, and to ensure that our site is kept secure.
+
+You can prevent us from using your personal information in this way by using the 'do not track' functionality in your internet browser. If you enable do not track functionality, our site may be less tailored to your needs and preferences.
+
+#### If our business is sold
+
+We will transfer your personal information to a third party:
+
+  * if we sell or buy any business or assets, we will provide your personal information to the seller or buyer (but only to the extent we need to, and always in accordance with data protection legislation); or
+  * if Jukedeck Limited or the majority of its assets are acquired by somebody else, in which case the personal information held by Jukedeck Limited will be transferred to the buyer.
 
 
 
+We process your personal information for this purpose because we have a legitimate interest to ensure our business can be continued by the buyer. If you object to our use of your personal information in this way, the relevant seller or buyer of our business may not be able to provide services to you.
 
-##### Information We May Collect About You
+In some circumstances we may also need to share your personal information if we are under a duty to disclose or share it to comply with a legal obligation.
 
-We may collect and process the following data about you:
+### What about technical information and analytics?
 
+#### Information we collect about you
+
+When you visit our site we will automatically collect the following information:
+
+  * technical information, including the Internet protocol (IP) address used to connect your computer to the internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, screen resolution, operating system and platform; and
+  * information about your visit, including the full Uniform Resource Locators, clickstream to, through and from our site (including date and time), page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs) and methods used to browse away from the page.
+
+
+
+#### Information we receive from other sources
+
+We are also working closely with third party advertising networks, analytics providers, hosting providers and search information providers from whom we may also receive general aggregated anonymous information about you.
+
+We will combine the information you provide to us with information we collect about you.
+
+### Cookies
+
+Our site uses cookies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our site and also allows us to improve our site. By continuing to browse the site, you are agreeing to our use of cookies.
+
+A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer. We only use (and store) non-essential cookies on your computer's browser or hard drive if you provide your consent.
+
+Cookie| Purpose  
+---|---  
+Mixpanel| This cookie enables us to track your activity on our website, your location, and information such as the website you have come from before you clicked on our page.  
+AWSALB| This cookie enables us to distribute incoming application traffic across multiple servers to increase the availability of our services.  
   
+Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, which we do not have any control over. These cookies are likely to be analytical/performance cookies or targeting cookies.
 
-    * ##### Information you give us.
+You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
 
-You may give us information about you by filling in forms on our site www.jukedeck.com ( **our site** ) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, subscribe to our service, search or request music, place an order on our site, and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph.
+Except for essential cookies, all cookies will expire after 2 years.
 
-  
+### Where is my data stored?
 
-    * ##### Information we collect about you.
+We (and many of our external third parties) are based inside the European Economic Area ( **EEA** ) so their processing of your personal information will not involve a transfer of data outside of the EEA.
 
-With regard to each of your visits to our site we may automatically collect the following information:
+If that changes at any point, whenever we transfer your personal information outside of the EEA, we ensure it is protected by making sure at least one of the following safeguards is in place:
 
-  
+  * by transferring your personal information to a country that has been deemed to provide an adequate level of protection by the European Commission;
+  * by using specific contracts approved by the European Commission which give your personal information the same protection it has
+  * where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between Europe and the US.
 
-      * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
 
-      * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); music that was generated, previewed, requested or presented during your session; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page and any phone number used to call our customer service number.
 
-    * ##### Information we receive from other sources.
+To keep this privacy policy as short and easy to understand as possible, we have not set out the specific circumstances when each of these protection measures are used. You can contact us at legal@jukedeck.com for the details as to how we protect specific transfer of your data.
 
-We may receive information about you if you use any other websites we operate from time to time or the other services we provide. We may also work closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
+All information you provide to us is stored on our secure servers or those of our third-party data storage providers.
 
-  
+### How long do we retain your data for?
 
+Where you are a registered user of Jukedeck Limited, we will retain your data for a period of 6 years or until you delete your profile (whichever is the shorter), to ensure that we are able to assist you should you have any questions, feedback or issues in connection with your membership or if any legal issues arise.
 
-##### Cookies
+Where we have used your personal information to contact you for marketing communications, if you have opted-in:
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy.
+  * we will contact you at least every 3 years to ensure you are happy to continue receiving electronic communications; or
 
-  
 
 
-##### Uses Made Of The Information
+If you tell us that you no longer wish to receive marketing communications from us, we promise to stop sending them to you.
 
-We use information held about you in the following ways:
+Where we have processed your data for any other reason (such as where you have contacted us with a question in connection with a customer service related query) we will retain your data for 3 years.
 
-    * ##### Information you give to us.
+### Your right to object under data protection laws
 
-We will use this information:
+You have the right to object to us handling your personal information when:
 
-      * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products (including music) and services that you request from us;
+  * we are handling your personal information based on our legitimate interests (as described in the "How do you use my data" section above). If you ask us to stop handling your personal information in this way, we will stop unless we can show you that we have compelling grounds as to why our use of your personal information should continue; or
+  * for marketing purposes. If you ask us to stop handling your personal information on this basis, we will stop.
 
-      * to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
 
-      * to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the registration form);
 
-      * to notify you about changes to our service;
+### What are my rights under data protection laws?
 
-      * to ensure that content from our site is presented in the most effective manner for you and for your computer.
+You have various rights under the data protection laws, which you can exercise by contacting us. The easiest way to do this is by email at legal@jukedeck.com.
 
-    * ##### Information we collect about you.
+If you exercise your right of access before 25 May 2018, your request will be subject to a £10 fee.
 
-We will use this information:
+#### Right of access
 
-      * to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+You are entitled receive confirmation as to whether your personal information is being processed by us, as well as various other information relating to our use of your personal information.
 
-      * to improve our site to ensure that content is presented in the most effective manner for you and for your computer;
+You also have the right to access your personal information which we are handling.
 
-      * to allow you to participate in interactive features of our service, when you choose to do so;
+#### Right to rectification
 
-      * as part of our efforts to keep our site safe and secure;
+You have the right to require us to rectify any inaccurate personal information we hold about you. You also have the right to have incomplete personal information we hold about you completed, by providing a supplementary statement to us.
 
-      * to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
+#### Right to restriction
 
-    * ##### Information we receive from other sources
+You can restrict our processing of your personal information where:
 
-We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
+  * you think we hold inaccurate personal information about you;
+  * our handling of your personal information breaks the law, but you do not want us to delete it;
+  * we no longer need to process your personal information, but you want us to keep it for legal reasons; or
+  * where we are handling your personal information because we have a legitimate interest (as described in the “How We Use Your Data” section above), and are in the process of objecting to this use of your personal information.
 
-  
 
 
-##### Disclosure Of The Information
+Where you exercise your right to restrict us from using your personal information, we will then only process your personal information when you agree, except for storage purposes and to handle legal claims.
 
-We may share your personal information with any member of our group from time to time, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+#### Right to data portability
 
-We may share your information with selected third parties including:
+You have the right to receive your personal information in a structured, standard machine-readable format and to send this to another organisation controlling your personal information.
 
-    * Business partners, suppliers and subcontractors for the performance of any contract we enter into with them in relation to services provided to you.
+This right only applies to your personal information we are handling because you consented to us using it or because there is a contract in place between us.
 
-    * Analytics and search engine providers that assist us in the improvement and optimisation of our site.
+#### Right to erasure
 
-We may disclose your personal information to third parties:
+You have the right to require us to erase your personal information which we are handling in the following circumstances:
 
-    * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * where we no longer need to use your personal information for the reasons we told you we collected it for;
+  * where we needed your consent to use your personal information, you have withdrawn your consent and there is no other lawful way we can continue to use your personal information;
+  * when you object to our use of your personal information and we have no compelling reason to carry on handling it;
+  * if our handling of your personal information has broken the law; and
+  * when we must erase your personal information to comply with a law we are subject to.
 
-    * If Jukedeck Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-    * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of Jukedeck Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-  
+#### Right to complain
 
+You have the right to lodge a complaint with the Information Commissioner's Office, the supervisory authority for data protection issues in England and Wales.
 
-##### Where We Store Your Personal Data
+### What about websites we link to?
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ( **EEA** ). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+Our site may, from time to time, contain links to and from the websites of our partner networks and affiliates.
 
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted [using SSL technology]. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+Our site connects you to different websites. If you follow a link to any of these websites or use our services, please note that you have left our site and these websites have their own privacy policies.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+We do not accept any responsibility or liability for these policies or websites. Please check their policies before you submit any personal information to these websites.
 
-  
+### When will you change your privacy policy?
 
+Any changes we make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail or post.
 
-##### Your Rights
+Please check back frequently to see any updates or changes to our privacy policy.
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at support@jukedeck.com.
+### How do I contact you with feedback?
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to legal@jukedeck.com.
 
-  
-
-
-##### Access To Information
-
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
-
-  
-
-
-##### Changes To Our Privacy Policy
-
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy.
-
-  
-
-
-##### Contact
-
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to support@jukedeck.com.
-
-
-
+This privacy policy was last updated on 24 May 2018.
