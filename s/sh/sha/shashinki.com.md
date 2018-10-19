@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shashinki.com privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730100515id_/https%3A//shashinki.com/shop/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shashinki.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019215324id_/https%3A//shashinki.com/shop/privacy.php) for the most accurate reproduction.*
 
-# ShaShinKi - Malaysia First & Largest Online Camera Shop
+# Security & Privacy
 
 _**ShaShinKi Security**_
 
@@ -14,8 +14,8 @@ GeoTrust is the world second largest digital certificate provider! (click the ic
 
 _**Customers Privacy Policy** _
 
-ShaShinKi® is committed to protecting your right to privacy base on the trust you place in us. The information we collect is gathered to ensure secure ordering and to provide a more personalized shopping experience. You can help us ensure your privacy by not sharing your account or password with anyone. All the information you stored at ShaShinKi® will not be sold, shared nor rent to others outside the domain without your explicit permission. If you have any concerns, comments or complaints, please do not hesitate to [contact us](http://shashinki.com/shop/contact_us.php). 
+ShaShinKi® is committed to protecting your right to privacy base on the trust you place in us. The information we collect is gathered to ensure secure ordering and to provide a more personalized shopping experience. You can help us ensure your privacy by not sharing your account or password with anyone. All the information you stored at ShaShinKi® will not be sold, shared nor rent to others outside the domain without your explicit permission. If you have any concerns, comments or complaints, please do not hesitate to [_**contact us**_](https://shashinki.com/shop/contact_us.php). 
 
 _**Newsletter**_
 
-If you choose to receive newsletter from ShaShinKi®, from time to time you may receive e-mailed information regarding our products, promotions, and services. We are committed to protecting your privacy. To remove your name from our newsletter list, email us at **[shop@shashinki.com](http://shashinki.com/shop/contact_us.php)** or login to your account at ShaShinKi® to change the newsletter subscription option. 
+If you choose to receive newsletter from ShaShinKi®, from time to time you may receive e-mailed information regarding our products, promotions, and services. We are committed to protecting your privacy. To remove your name from our newsletter list, email us at **[shop@shashinki.com](https://shashinki.com/shop/contact_us.php)** or login to your account at ShaShinKi® to change the newsletter subscription option. 
