@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ravinia.org privacy policy that was archived on 2017-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170727061828id_/https%3A//www.ravinia.org/Page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ravinia.org privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020030916id_/https%3A//www.ravinia.org/Page/privacy) for the most accurate reproduction.*
 
 # Ravinia Festival Official Site | Privacy Policy
 
