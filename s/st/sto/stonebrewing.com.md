@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stonebrewing.com privacy policy that was archived on 2018-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180419062051id_/http%3A//www.stonebrewing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stonebrewing.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020121731id_/https%3A//www.stonebrewing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stone Brewing
 
