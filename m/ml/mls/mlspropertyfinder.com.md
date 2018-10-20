@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlspropertyfinder.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610223644id_/http%3A//www.tryelevate.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlspropertyfinder.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020194913id_/http%3A//www.tryelevate.com/privacy.asp) for the most accurate reproduction.*
 
 # Elevate | Elm Street Technology - Real Estate Web Design - Social Media Marketing for Real Estate Agents - Responsive Real Estate Websites - IDX Integration
 
