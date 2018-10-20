@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thredup.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630141908id_/https%3A//www.thredup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thredup.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020073046id_/https%3A//www.thredup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | thredUP
 
@@ -14,13 +14,11 @@ If you have any questions, please reach out to us at [privacy@thredup.com](mailt
 
 ThredUp Inc.Attention: Privacy Policy
 
-114 Sansome Street, 5th FloorSan Francisco
+114 Sansome Street5th FloorSan Francisco
 
-, 
+,
 
 CA
-
- 
 
 94104
 
