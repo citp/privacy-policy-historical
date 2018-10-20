@@ -1,67 +1,236 @@
-> *The following text is extracted and transformed from the pluck.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122172939id_/http%3A//www.pluck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluck.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020140835id_/https%3A//www.sprinklr.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Pluck.com
+# Privacy
 
-Demand Media is committed to protecting your privacy and respects the privacy of individuals who use Demand Media’s software and services. This Privacy Statement covers how Demand Media treats personal information that is either collected or received. This includes, but is not limited to email addresses, phone numbers, names, addresses, age, gender, and interests.
+## Last Updated: May 15, 2018
 
-Demand Media’s Pluck product provides a white-label solution used by Demand Media’s customers (“Customers”) to implement social networking communities. Each of Demand Media’s Customers determine how to provide the Pluck functionality to end-users. In this arrangement Demand Media’s Customers have final control on what information is collected and the end-user’s ability to opt-out/opt-in of the information gathering process. When registering with one of Demand Media’s Customers’ websites, some or all of the information gathered from end-users may be stored by Demand Media. All information collected by Demand Media Customers is governed by such Customer’s privacy policy. Any information provided to Demand Media by the Customer, or collected by Demand Media as a result of Customer’s configuration of the Pluck Services, will be governed by this Privacy Policy.
+_Effective as of May 25, 2018_
 
-Because protecting your privacy is important to Demand Media, we adhere to the Safe Harbor Agreement concerning the transfer of personal data from the European Union (“EU”) to the United States of America. Accordingly, we follow the Safe Harbor Principles published by the U.S. Department of Commerce (“Principles”) with respect to all data that we receive, whether directly from the end user or from one of our Customers. If there is any conflict between the policies in this statement and the Principles, the Principles will govern. This statement outlines our general policy and practices for implementing the Principles, including the types of information we receive, how we use it, and the choices affected individuals have regarding our use of, and their ability to correct, that information.
+Your privacy is extremely important to us and we are committed to fair practices that protect your personal data. We have developed this Website Privacy Policy to clearly and transparently communicate what information we collect, how we collect it and what we do with it when you access and use our websites.
 
-This privacy statement applies to all personal information we receive (except as noted below). For purposes of this privacy statement, “personal information” means information that: 
+**Table of Contents**
 
-> is transferred from the EU to the United States; is recorded in any form; is about, or pertains to, a specific individual; and can be linked to that individual.
-
-It does not include information that pertains to a specific individual, but from which that individual could not reasonably be identified.
-
-## Principles Protecting Individuals’ Privacy
-
-**Notice and Choice**
-
-Because the Customer determines what personal information is collected, end users should review the Customer privacy policy to determine the types of personal information collected from them, the purposes for which such information is collected and used, and the types of non-agent third parties to whom the personal information is disclosed. The Customer should also be consulted regarding the choices and means, if any, offered to individuals for limiting the use or disclosure of their information. Customers’ privacy policies will govern their collection and disclosure of any such information. Demand Media stores all personal information solely for use by Customers and end users related to their use of Pluck services.
-
-**Disclosures and Transfers**
-
-Demand Media will not disclose an individual’s personal information to third parties, except when one or more of the following conditions is true: 
-
-  1. Our Customer that provided the information to us asks for us to transfer it back to them for whatever purpose the Customer chooses;
-  2. We have the individual’s permission to make the disclosure, whether such permission is made directly to Demand Media or to our Customer;
-  3. The disclosure is required by law or professional standards;
-  4. The disclosure is reasonably related to the sale or disposition of all or part of our business;
-  5. The information in question is publicly available;
-  6. The disclosure is reasonably necessary for the establishment or defense of legal claims; or
-  7. The disclosure is to another Demand Media entity or to persons or entities providing services on our or the individual’s behalf (each a “transferee”), consistent with the purpose for which the information was obtained, if the transferee, with respect to the information in question:
+  1. Coverage
+  2. Controller, EU Representative and Data Protection Officer
+  3. Information We Automatically Collect
+  4. Information You Provide to Us
+    1. Newsletter
+    2. Contact Forms
+    3. Job Applications
+  5. Cookies and other tracking technologies
+  6. Website Analytics
+  7. Purposes of and Legal Basis for Processing
+  8. Data Sharing
+  9. Information Security
+  10. International Data Transfers
+  11. Retention and Deletion
+  12. Rights of the Data Subject
+  13. Notice Concerning Children’s Information
+  14. Updates to this Website Privacy Policy
+  15. Contact
 
 
 
->   * is subject to law providing an adequate level of privacy protection;
->   * has agreed in writing to provide an adequate level of privacy protection; or
->   * subscribes to the Principles.
-> 
+**1\. Coverage**
 
+This Website Privacy Policy covers Sprinklr’s privacy practices for our corporate websites that directly link to this policy when you click on “Privacy” in the website footer.
 
-Permitted transfers of information, either to third parties or within Demand Media, include the transfer of data from one jurisdiction to another, including transfers to and from the United States of America. Because privacy laws vary from one jurisdiction to another, personal information may be transferred to a jurisdiction where the laws provide less or different protection than the jurisdiction in which the information originated. Notwithstanding, Demand Media may share aggregate data with 3rd parties per our agreement with the Demand Media Customer. This information will not identify the related end-user.
+This Website Privacy Policy does not cover the usage of the Sprinklr Customer Experience Platform and other Sprinklr products. To read policies relating to our customer’s use of the Sprinklr platform or other Sprinklr products, please refer to Sprinklr’s Social Media Management Privacy Policy. In addition, our commitment as a data processor to our customers is governed by a separate Data Processing Amendment.
 
-**Data Security**
+This Website Privacy Policy also doesn’t cover third-party websites accessed via our websites. Such third-party websites are governed by the terms applicable to your relationship with that third party, and Sprinklr accepts no responsibility or liability in respect of third party websites.
 
-Demand Media takes your security seriously and takes reasonable steps to protect your information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use and confidentiality of information, either for its own purposes or on behalf of our clients, Demand Media has put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we process. However, we cannot guarantee the security of information on or transmitted via the Internet or stored by our Customers.
+**2\. Controller, EU Representative and Data Protection Officer**
 
-**Data Integrity**
+This website is provided by Sprinklr, Inc. 29 West 35th Street, New York, Ny 10001, USA (“Sprinklr”). Sprinklr is the controller for the purposes of all applicable data protection legislation.
 
-We process personal information only in ways compatible with the purpose for which it was collected or subsequently authorized by the individual. To the extent necessary for such purposes, we take reasonable steps to make sure that personal information is accurate, complete, current, and otherwise reliable with regard to its intended use.
+Sprinklr’s EU representative is Sprinklr Germany, GmbH, Alter Wall 67 – 69, 20457 Hamburg, Germany. Sprinklr Germany GmbH can be contacted by email at [privacy@sprinklr.com](mailto:privacy@sprinklr.com).
 
-**Access and Correction**
+Sprinklr’s data protection officer can be contacted at Sprinklr Germany GmbH, Data Protection Officer, Alter Wall 67/69, 20457 Hamburg, Germany or at [privacy@sprinklr.com](mailto:privacy@sprinklr.com).
 
-An end-users’ ability to manage the data stored by Demand Media is controlled by Demand Media’s Customers. However, if an individual becomes aware that information we maintain about that individual is inaccurate, or if an individual would like to update or review his or her information, the individual may contact us using the contact information below and we will take reasonable steps to work with our Customer to correct the problem. The individual will need to provide sufficient identifying information, and we may request additional identifying information as a security precaution. In addition, we may limit or deny access to personal information where providing such access would be unreasonably burdensome or expensive in the circumstances, or as otherwise permitted by the Safe Harbor Agreement. In some circumstances, we may charge a reasonable fee, where warranted, for access to personal information.
+**3\. Information We Automatically Collect**
 
-**Enforcement and Dispute Resolution**
+When you visit our website, we collect certain information related to your device, such as your device’s IP address, browser types and versions used, operating system used by the accessing system, referring website, what pages your device visited, and the time that your device visited our website.
 
-Demand Media utilizes the self-assessment approach to assure its compliance with our privacy statement. Demand Media periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented, and in conformity with the Principles. We encourage interested persons to raise any concerns with us using the contact information below. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this policy.
+**4\. Information You Provide to Us**
 
-If you would like to speak to someone at Demand Media about your information, or if you have a concern about information we have collected or stored, please contact [legal@demandmedia.com](mailto:legal@demandmedia.com). We will do our best to respond to you in a timely and professional manner to answer your questions and resolve your concerns.
+We may collect any Personal Information that you choose to send to us or provide to us:
 
-In the unfortunate and unlikely event that we cannot resolve your concerns, we have contracted with BBBOnline as a dispute resolution provider. You can contact the BBBOnline at <http://www.bbbonline.org/consumer/complaint.asp> and follow their guidelines for initiating their dispute resolution procedures.
+**4.1 Newsletter**
 
-## Privacy Statement Changes | Subject to Change
+On our website, you can subscribe to our email newsletter. When an email address is registered for our newsletter, a confirmation email will be sent to the e-mail address registered and the email newsletter will only be sent if the email address is confirmed by clicking a link provided in that confirmation email (so-called double opt-in procedure). We store the IP address and a timestamp, both for the registration and the subsequent confirmation. This data is collected for legal protection purposes, it enables Sprinklr to document and provide evidence for the addressees’ consent to be sent the email newsletter.
 
-This privacy statement may be changed from time to time, consistent with the requirements of the Safe Harbor. We will post any revised policy on this Web site, or a similar Web site that replaces this Web site. Demand Media reserves the right to modify all or some of this privacy statement at any time without notice.
+You may unsubscribe from our email newsletter and withdraw your consent to be sent the email newsletter at any time. Every email newsletter contains an unsubscribe link. In addition, you can sent your request to unsubscribe to [privacy@sprinklr.com](mailto:privacy@sprinklr.com).
+
+We also may use tracking pixels in our email newsletter enabling Sprinklr to see if and when an email was opened and if certain links in that email were clicked by the addressee. This allows analysis, reporting and optimization of email marketing campaigns. Legal basis of the usage of such tracking pixels is our legitimate interest in performing, analyzing, reporting and optimizing our email marketing campaigns. You may opt-out from email newsletter tracking by unsubscribing from our newsletter or by contacting privacy@sprinklr.com.
+
+**4.2 Contact Forms**
+
+If you contact us via the website or request a demo or register for a webinar etc., we will use the data provided for the purpose of processing your request. We will keep a record of the correspondence.
+
+**4.3 Job Applications**
+
+Sprinklr processes the personal data provided in the context of a job application for the purpose of processing the application.
+
+**5\. Cookies and other tracking technologies**
+
+Our websites use cookies (small text files containing a string of alphanumeric characters that we put on your computer) and other similar tracking technologies (like web beacons, tags and scripts) to uniquely identify your browser and to gather information about how you interact with the websites.
+
+Some cookies collect information about browsing behavior when you access this website via the same computer or device. This includes information about pages viewed, products purchased and your journey around a website. We do not use cookies to collect or record information on your name, address or other contact details. 
+
+**We use this information for the following purposes:**
+
+assisting you in navigation;
+
+assisting in registration, login, and your ability to provide feedback;
+
+analyzing your use of our website; and
+
+assisting with our promotional and marketing efforts (including behavioral advertising).
+
+**How do I disable cookies?**
+
+If you want to disable cookies you need to change your website browser settings to reject cookies. How you can do this will depend on the browser you use. Further details on how to disable cookies for the most popular browsers are set out below:
+
+**For Microsoft Internet Explorer:**
+
+Choose the menu “tools” then “Internet Options”
+
+Click on the “privacy” tab
+
+Select the setting the appropriate setting
+
+**For Google Chrome:**
+
+Choose Settings> Advanced
+
+Under “Privacy and security,” click “Content settings”.
+
+Click “Cookies”
+
+**For Safari:**
+
+Choose Preferences > Privacy
+
+Click on “Remove all Website Data”
+
+**For Mozilla firefox:**
+
+Choose the menu “tools” then “Options”
+
+Click on the icon “privacy”
+
+Find the menu “cookie” and select the relevant options
+
+**For Opera 6.0 and further:**
+
+Choose the menu Files”> “Preferences”
+
+Privacy
+
+**6\. Website Analytics**
+
+On some websites we also utilize Google Analytics, a web analysis service provided by Google, to better understand your use of our Websites and Services. Google Analytics collects information such as how often users visit the Websites, what pages they visit and what other sites they used prior to visiting. Google uses the data collected to track and examine the use of the Websites, to prepare reports on its activities and share them with other Google services. Google may use the data collected on the Websites to contextualize and personalize the ads of its own advertising network. Google’s ability to use and share information collected by Google Analytics about your visits to the Websites is restricted by the [Google Analytics Terms of Use](https://www.google.com/analytics/terms/us.html) and the [Google Privacy Policy](http://www.google.com/policies/privacy/). Google offers an opt-out mechanism for the web available [here](https://tools.google.com/dlpage/gaoptout/).
+
+**7\. Purposes of and Legal Basis for Processing**
+
+Sprinklr only processes your personal data for the purposes described in this Website Privacy Policy or as otherwise permitted under applicable law. The processing of your personal data by Sprinklr for the purposes described hereunder is based on your explicit consent or on the necessity to process your personal data for the purposes of our legitimate interests.
+
+We process your personal data for the following purposes, subject to your consent where required by law:
+
+administer our relationship with you, including to respond to your inquiries or complaints;
+
+to provide any services or information you have requested and information about our products and services;
+
+to administer, operate, maintain, and improve the websites and our services;
+
+for efficient customer management relationship;
+
+to simplify access to some interactive features on our websites;
+
+to keep improving the way our websites work;
+
+to count how many persons visit our websites, where they come from, when they visit, how long they stay and what pages they look at;
+
+to associate your activity on our website in order to give us insights into products and services you might like and measure how our advertising performs;
+
+to note browser, OS and device details used to make sure you get a good online experience when you access our websites;
+
+to audit usage of the websites;
+
+to market and improve the services that we offer;
+
+Carry out research and statistical analysis including to monitor how all customers use our websites;
+
+to comply with applicable laws and regulations.
+
+Sprinklr does not use automatic decision-making or profiling.
+
+**8\. Data Sharing**
+
+Our policy is to not give, sell or otherwise distribute personal data we collect to third parties outside of Sprinklr (including Sprinklr affiliates), except where required with your express consent or where this is necessary and in accordance with applicable law. In line with this, we share personal data with the recipients listed below:
+
+**Sprinklr Group Companies**
+
+We may share your personal data with affiliates entities of Sprinklr for the purposes specified above and as described under the section “International Data Transfers” below.
+
+**Third-Party Service Providers**
+
+Your personal data may be disclosed to third party service providers, acting on our behalf, in connection with managing services, data analytics, marketing, finance, accounting or other administrative services and information technology support. These third-party service providers will have access to and process personal data only on our behalf and under our instructions and will be held to appropriate security obligations.
+
+**Other data recipients**
+
+For the above purposes or where otherwise required by law, we may also need to make personal data available to third parties such as advisors, banks and financial institutions, professionals, independent consultants, potential or existing investors and/or acquirers (in connection with a merger, acquisition, or sale involving Sprinklr and/or affiliates entities of Sprinklr or as part of a corporate reorganization, stock or asset sale, or other change in corporate control), regulatory and/or administrative authorities, courts, police authorities.
+
+Sprinklr may provide information, in response to properly made requests, for the purposes of the prevention and detection of crime, and the apprehension or prosecution of offenders, when required to do so by law, for example under a court order, or in response to properly made court or administrative demands. Sprinklr may also provide information for the purpose of safeguarding national security. In either case, Sprinklr will act in accordance with applicable data protection law.
+
+**9\. Information Security**
+
+We use appropriate technical, organizational and administrative security measures to protect any information we hold in our records from loss, misuse, and unauthorized access, disclosure, alteration and destruction. We will also take all reasonable precautions to ensure that our staff and employees who have access to personal data about you have received adequate training.
+
+**10\. International Data Transfers**
+
+In providing our services or websites to EU citizens, we may need to transfer your personal data outside the European Economic Area (“EEA”), including in countries that do not provide the same level of protection for personal data as in the EEA. In any case, we will only transfer personal data to recipients that provide an adequate level of data protection or as permitted by applicable data protection laws by implementing appropriate safeguards, including, but not limited to, relevant data transfer agreements based on the EU Standard Contractual Clauses, when needed.
+
+In addition, Sprinklr complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union and Switzerland to the United States, respectively. Sprinklr has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
+
+In compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Principles, Sprinklr commits to resolve complaints about your privacy and our collection or use of your personal information. For any inquiries or complaints regarding this privacy policy and/or Sprinklr’s processing of your personal data, please contact privacy@sprinklr.com. 
+
+If a complaint or dispute cannot be resolved through our internal process, we agree to dispute resolution using the European data protection authorities (EU DPAs) as an independent recourse mechanism. Sprinklr will cooperate with the DPAs in the investigation and resolution of complaints brought by you under the Privacy Shield. Sprinklr agrees to comply with any advice given by the DPAs where the DPAs take the view that the organization needs to take specific action to comply with the Privacy Shield Principles. Under certain conditions, it is possible for individuals to invoke binding arbitration before the Privacy Shield Panel.
+
+**11\. Retention and Deletion**
+
+We process and store your personal data only for the period necessary to achieve the purpose of storage. If the storage purpose is not applicable, or if a storage period prescribed by the European legislator or another competent legislator expires, the personal data are routinely blocked or erased in accordance with legal requirements.
+
+**12\. Rights of the Data Subject**
+
+In accordance with applicable data protection law, you have a right to:
+
+obtain confirmation of the existence of, and to request a written copy of the personal information Sprinklr holds about you;
+
+have any inaccurate information about you corrected;
+
+have personal data we hold about you deleted, blocked or removed;
+
+withdraw your consent where relevant, without affecting the lawfulness of processing based on your consent before its withdrawal;
+
+restrict the processing we make in relation with your personal data;
+
+receive your personal data, which you have provided to us, in a structured, commonly used and machine-readable format in order to transmit them to another data controller;
+
+object to the use of your details for marketing activities and other promotional activities;
+
+lodge a complaint with a supervisory authority, in particular in the EU member state of your habitual residence, place of work or place of the alleged infringement if you consider that the processing of your personal data relating infringes applicable data protection law.
+
+In case you wish to exercise any such rights, please send a request to [privacy@sprinklr.com](mailto:privacy@sprinklr.com).
+
+**13\. Notice Concerning Children’s Information**
+
+Sprinklr does not direct any of its practices or system towards children. We are committed to respecting the privacy of children online. If Sprinklr learns that the information of a child under the age of 16 is stored, Sprinklr will promptly delete any such personal information.
+
+**14\. Updates to this Website Privacy Policy**
+
+We reserve the right to review this Privacy Policy at any time. Where appropriate or required by law, we will notify you about the new privacy Policy by posting appropriate notice on our websites. We encourage you to periodically review this Website Privacy Policy to stay informed about our information practices. We will indicate the date on which this Website Privacy Policy was last modified.
+
+**15\. Contact**
+
+If you have any questions about this Privacy Policy, or if you wish to exercise your rights under applicable data protection laws, please feel free to contact us through our websites, at privacy@sprinklr.com or write to us at Sprinklr, Inc., Data Protection Officer, 29 West 35th Street, New York, NY 10001, USA or at Sprinklr Germany GmbH, Alter Wall 67/79, 20457 Hamburg, Germany.
