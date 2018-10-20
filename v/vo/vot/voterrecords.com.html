@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the voterrecords.com privacy policy that was archived on 2018-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180627072301id_/https%3A//voterrecords.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the voterrecords.com privacy policy that was archived on 2018-10-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181020233828id_/https%3A//voterrecords.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -12,14 +12,13 @@
 <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon.png">
 
-<script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v3.0"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
         (function (i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
                 (i[r].q = i[r].q || []).push(arguments)
             }, i[r].l = 1 * new Date(); a = s.createElement(o),
                 m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
         })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
         ga('create', 'UA-77555815-1', 'auto');
         ga('send', 'pageview');
     </script>
@@ -28,17 +27,7 @@
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js" integrity="sha256-ImQvICV38LovIsvla2zykaCTdEh1Z801Y+DSop91wMU=" crossorigin="anonymous"></script></head>
 <body class="tosbox">
-
 <div id="fb-root"></div>
-<script>
-        (function (d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s); js.id = id;
-            js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
-            fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));</script>
-
 <div class="navbar navbar-inverse navbar-static-top">
 <div class="container">
 <div class="navbar-header">
@@ -56,9 +45,10 @@
 <div class="navbar-collapse collapse">
 <ul class="nav navbar-nav">
 <li><a href="/voters/">Search</a></li>
+<li><a href="/address-search">Address Search</a></li>
 <li><a href="/phone-search/">Reverse Phone</a></li>
 <li><a href="/charts">Charts</a></li>
-<li><a href="/faq">FAQ</a></li>
+<li class="visible-xs"><a href="/faq">FAQ</a></li>
 <li><a class="text-primary" href="/register-to-vote">Register To Vote</a></li>
 <li>
 </li>
@@ -70,7 +60,7 @@
 <div class="input-group-btn btn-group">
 <button class="btn btn-primary" type="submit" aria-label="Search"><span class="glyphicon glyphicon-search"></span><span class="hidden-xs">&nbsp;&nbsp;Search</span></button>
 </div>
- </div>
+</div>
 </form>
 </div>
 <div class="nav navbar-nav navbar-right hidden-xs">
@@ -126,7 +116,7 @@ Last Modified: 11/10/2016
 </li>
 <li><h4>6. How We Use Your Information</h4><p>The primary use for Your information is to provide You with services You have requested. We also use Your information to deliver customized services to You. Non-personal and aggregate information, such as that collected passively is used in order to customize Our marketing efforts or to customize the use of Our Site for an aggregate group of Users. We also use Your information for market research purposes in order to increase Your experience according to tracked interests, analyze and target potential new markets, and for other marketing purposes.<br><br>The information that We collect from You may include but not be limited to the following uses:</p></li>
 <li>
-<ul class="terms-table-list">
+<ul class="terms-table-list"> 
 <li><h5>i.</h5><p>To personalize User's experience and to allow Us to deliver the type of content and product offerings in which You are most interested;</p></li>
 <li><h5>ii.</h5><p>To improve Our Site in order to better serve You;</p></li>
 <li><h5>iii.</h5><p>To allow Us to better service You in responding to Your customer service requests;</p></li>
@@ -190,7 +180,7 @@ Last Modified: 11/10/2016
 <footer>
 <div class="row SectionTopBorder">
 <div class="col-xs-12 col-md-12 text-center">
-<ul class="list-inline">
+ <ul class="list-inline">
 <li><a href="/terms">Terms &amp; Conditions</a></li>
 <li><a href="/privacy-policy">Privacy Policy</a></li>
 <li><a href="/about">About Us</a></li>
@@ -212,28 +202,27 @@ to eligibility to determine employment, housing, credit, loans, insurance or any
 <a href="#" class="scrollToTop text-primary text-center" aria-label="Back To Top"><span class="glyphicon glyphicon-chevron-up center-block"></span><span class="hidden-xs center-block">Back To Top</span></a>
 </div>
 <script type="text/javascript">
-        //load jquery async
         function loadScript(url, integrity, crossorigin, callback) {
             var script = document.createElement("script")
             script.type = "text/javascript";
             if (script.readyState) { //IE
                 script.onreadystatechange = function () {
-                    if (script.readyState == "loaded" || script.readyState == "complete") {
+                    if (script.readyState === "loaded" || script.readyState === "complete") {
                         script.onreadystatechange = null;
-                        if (typeof callback == 'function') {
+                        if (typeof callback === 'function') {
                             callback();
                         }
                     }
                 };
-            } else { //Others
+            } else {
                 script.onload = function () {
-                    if (typeof callback == 'function') {
+                    if (typeof callback === 'function') {
                         callback();
                     }
                 };
             }
             script.src = url;
-            if (integrity != "") {
+            if (integrity !== "") {
                 script.integrity = integrity;
                 script.crossOrigin = crossorigin;
             }
@@ -242,29 +231,39 @@ to eligibility to determine employment, housing, credit, loans, insurance or any
         (function () {
             loadScript("https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js", "sha256-ImQvICV38LovIsvla2zykaCTdEh1Z801Y+DSop91wMU=", "anonymous", function () {
                 loadScript("https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js", "sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc=", "anonymous", function () {
-                    //load scroll to top
                     LoadScrollToTop();
-                    //jQuery loaded
-                    //check to see if page contains LoadPage() function before calling it
-                    if (typeof LoadPage == 'function') {
+                    if (typeof LoadPage === 'function') {
                         LoadPage();
                     }
-                    //load terms popup
-                    loadScript("/js/site.min.js","","", function () {
+                    loadScript("/js/site.min.js", "", "", function () {
                     });
+                    if (typeof LoadAds === 'function') {
+                        LoadAds();
+                    }
+                    //load fb  plugin
+                    (function (d, s, id) {
+                        var js, fjs = d.getElementsByTagName(s)[0];
+                        if (d.getElementById(id)) return;
+                        js = d.createElement(s); js.id = id;
+                        js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.1";
+                        js.async = true;
+                        fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));
                 });
-                if (typeof LoadPhonePage == 'function') {
+                if (typeof LoadPhonePage === 'function') {
                     loadScript("https://cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.min.js", "sha256-+4KHeBj6I8jAKAU8xXRMXXlH+sqCvVCoK5GAFkmb+2I=", "anonymous", function () {
                         LoadPhonePage();
                     });
                 }
+                if (typeof LoadFormValidation === 'function') {
+                    loadScript("https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js", "sha256-F6h55Qw6sweK+t7SiOJX+2bpSAa3b/fnlrVCJvmEj1A=", "anonymous", function () {
+                    });
+                }
             });
-            //end loading juqery
         })();
     </script>
 <script type="text/javascript">
         function LoadScrollToTop() {
-            /*Scroll To Top Start*/
             $(window).scroll(function () {
                 if ($(this).scrollTop() > 600) {
                     $('.scrollToTop').fadeIn();
@@ -272,7 +271,6 @@ to eligibility to determine employment, housing, credit, loans, insurance or any
                     $('.scrollToTop').fadeOut();
                 }
             });
-            //Click event to scroll to top
             $('.scrollToTop').click(function () {
                 $('html, body').animate({ scrollTop: 0 }, 800);
                 return false;
@@ -280,7 +278,6 @@ to eligibility to determine employment, housing, credit, loans, insurance or any
             $('#bottomToTop').click(function (e) {
                 e.preventDefault();
             });
-            /*Scroll To Top End*/
         }
         function GoToTop() {
             $('html, body').animate({ scrollTop: 0 }, 800);
