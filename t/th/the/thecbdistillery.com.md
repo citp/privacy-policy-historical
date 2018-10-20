@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thecbdistillery.com privacy policy that was archived on 2018-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180426104610id_/https%3A//www.thecbdistillery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecbdistillery.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020234159id_/https%3A//www.thecbdistillery.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The CBDistillery | We Protect Your Privacy
+
+**FREE SHIPPING** ON DOMESTIC ORDERS OVER $75!
 
 PRIVACY STATEMENT
 
