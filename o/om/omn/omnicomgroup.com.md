@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omnicomgroup.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630211930id_/http%3A//www.omnicomgroup.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnicomgroup.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020043459id_/http%3A//www.omnicomgroup.com/privacy-notice) for the most accurate reproduction.*
 
 # Online Privacy Notice | Omnicom Group
 
@@ -90,8 +90,6 @@ To the extent provided by the law of your jurisdiction, you may (i) have the rig
 Some of the personal information we collect about you through the Site will be transferred to countries other than the country in which the information originally was collected.  Those countries may not have the same data protection laws as the country in which you initially provided the information.  When we transfer your personal information to other countries, we will protect that information as described in this Online Privacy Notice and will comply with applicable legal requirements.  
 
 If you are located in the EEA, with respect to transfers of personal information to the U.S., Omnicom is certified under the EU-U.S. Privacy Shield framework developed by the U.S. Department of Commerce and the European commission regarding the transfer of personal information from the EEA to the U.S. [Click here](https://web.archive.org/media/7167/omnicom_privacy_shield_privacy_policy_consumer_data.pdf) to view our EU-U.S. Privacy Shield Privacy Policy.
-
-If you are located in Switzerland, Omnicom Group Inc., Omnicom Management Inc. and Omnicom Capital Inc. are certified under the Swiss Safe Harbor privacy framework developed by the U.S. Department of Commerce and Switzerland regarding the transfer of personal information from the Switzerland to the United States. [Click here](https://web.archive.org/media/6886/omnicom-group-safe-harbor-privacy-policy.pdf) to view our Safe Harbor Privacy Policy.
 
 ### Links To Other Websites
 
