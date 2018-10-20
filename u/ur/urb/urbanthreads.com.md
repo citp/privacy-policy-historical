@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanthreads.com privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324062208id_/http%3A//www.urbanthreads.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanthreads.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020032627id_/https%3A//www.urbanthreads.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Urban Threads: Unique and Awesome Embroidery Designs
 
@@ -24,7 +24,7 @@ After registration, shoppers will receive a confirmation email with their email 
 
 **Tracking Technologies**
 
-Urban Threads and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To manage Flash cookies, please click here:[Flash Player.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
+Urban Threads and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. 
 
   
 We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
@@ -111,4 +111,4 @@ If Urban Threads is involved in a merger, acquisition, or sale of all or a porti
 
 **Effective and Revision Date**
 
-This privacy policy was last updated on April 17, 2017. 
+This privacy policy was last updated on April 6, 2018. 
