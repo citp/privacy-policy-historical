@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supercircuits.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113053550id_/http%3A//www.supercircuits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercircuits.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020081658id_/https%3A//www.supercircuits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
