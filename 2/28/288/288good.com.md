@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 288good.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527141358id_/http%3A//288good.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 288good.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020055938id_/http%3A//288good.com/privacy.html) for the most accurate reproduction.*
 
 # 288 Good
 
