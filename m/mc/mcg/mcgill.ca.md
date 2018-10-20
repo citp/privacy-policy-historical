@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcgill.ca privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510171458id_/http%3A//www.mcgill.ca/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcgill.ca privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020061429id_/https%3A//www.mcgill.ca/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | McGill University - McGill University
 
