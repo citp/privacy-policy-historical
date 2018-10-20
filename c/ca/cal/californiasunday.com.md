@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the californiasunday.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706151819id_/https%3A//www.californiasunday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the californiasunday.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020232935id_/https%3A//www.californiasunday.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy –
 
