@@ -1,142 +1,141 @@
-> *The following text is extracted and transformed from the homesandproperty.co.uk privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223203017id_/https%3A//www.homesandproperty.co.uk/Service/privacy-policy-a93341.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesandproperty.co.uk privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020030453id_/https%3A//www.homesandproperty.co.uk/Service/privacy-policy-a93341.html) for the most accurate reproduction.*
 
 # Privacy Policy | Homes and Property
 
-**Please read this carefully**
+**What personal data will you process about visitors?**
 
-_Thursday 31 July 2014_
+If you register for an account on our website in order to comment on an article, enter a competition or receive selected newsletters), you will need to provide us with your full name, email address, year of birth and postcode.
 
-Before using the Website – www.homesandproperty.co.uk - it is your responsibility to read the privacy policy. 
+If you are subscribing to one of our paid-for subscription products, in addition to your name, email address and year of birth, you will also need to provide your billing address and payment card information. 
 
-Please note that Evening Standard Limited – referred to as homesandproperty.co.uk in this policy - may revise this privacy policy at any time by posting an update on its Website.  Please ensure that you check this Website from time to time to review the current privacy policy against any preferences you may have indicated.  This privacy policy was last updated on the date shown above.
+If you contact our Customer Services team, we will need your name and contact information as well as full details of your query.
 
-**What is this privacy policy for?**
+We collect data about our website’s visitors using technology such as cookies, device IDs, IP addresses and location data. This can include information about your location, the type of device you are using and your online browsing history.  If you would like to know more about our use of cookies and how to manage them, do read our _[Cookie policy](https://www.homesandproperty.co.uk/Service/cookie-policy-a93351.html)._
 
-Homesandproperty.co.uk is determined to protect your privacy.  It is very important to us that you should be able to use and enjoy the Website without having to compromise your privacy unacceptably.  This policy outlines how we may use the personal and behavioural information we hold about you and how you can access, change or delete your personal information.
+Sometimes we obtain additional information about you from other reputable data sources. The data these companies might hold about you has been collected from publicly available records, such as the electoral roll, or from other sources where you have agreed for your information to be shared with third parties
 
-Knowing something about our users is necessary to ensure that our service is continually improved.  We need to build an accurate picture of the needs and wishes of our users, and to be able to communicate with you.  That enables us to offer a service that is relevant and truly interactive, which is what our users expect. It also helps us to maintain the greatest possible free-to-user access to the Website.
+We may check our database of registered users against the information they hold on their systems to see if there are any matched individuals. If there is a match, we can collect and store some of this additional information (which may include statements about your lifestyle and interests) in our database and use it to further enhance our understanding of the types of products and services you might be interested in.
 
-**Should I read any other information and terms?**
+We can also match your cookie data with this third party data, and aggregate this data into interest-based segments or profiles which we use to develop our products, or serve you more relevant advertising.  Sometimes we share these segments with other publishers so they can show you advertising on their websites.  We can also pool these segments with those from other publishers so that advertisements can be shown across multiple websites to readers whilst limiting the number of times you see the ads.
 
-Whenever you use the Website, information may be collected through the use of cookies so you should also read our cookie policy for more information about this.
+ We can also access information from social media activity such as when you ‘like’ the Website, share content or follow us on Twitter.  When you sign in to the Website using social media you grant permission to the social network to share some of your details with us. Depending on the network this will include basic account information such as name, email address, date of birth and any other details you choose to share according to your particular social media account settings.
 
-You should also read the terms of use before using the Website.  By accessing and using it you are agreeing to be legally bound by the terms of use and this privacy policy.
+**For what purposes do we use this data?**
 
-**What information will you collect about me?**
+* Verifying your identity (for example when you return to the website and have already logged in)
 
-We may ask you to provide personal information on a voluntary basis in order to get a clearer picture of our users. 
+* Personalising the advertising you see on the website so that it is more relevant to you.
 
-It is then entirely up to you whether you are happy to give us this information. For example, in the course of certain activities such as registration, commenting on the Website, entering competitions, promotions and other offers or submitting content to the Website you will be asked to give some details about yourself (for example, email address, name, postcode or year of birth). 
+* Personalising the advertising you see on other publisher websites whilst limiting the number of times you see the advertisements.
 
-You may also choose to email us or make contact with us in other ways. Such contact gives us information about you.  We endeavour to explain to you why we would like this information and what we do with it at each stage.
+* Improving the design and style of the website.
 
-If you have any financial dealings, for instance if you make purchases with our trading partners on co-branded Websites, the information you submit will be disclosed to us and to relevant third parties, for example suppliers of goods and services and our web service providers.
+* Informing you about products, services or promotional offers that you might find interesting if you have chosen to receive these type of communications
 
-Please do not submit your personal information to us if you do not want us to collect it.
+* Sending you service messages about your subscription or account registration, for example if you have clicked a password reset link.  This could be via email, overlay on the website or push notification.
 
-We automatically collect some data about our users' browsing actions and patterns. This is aggregate data and does not identify any individual.  We do this using web beacons or cookies through a number of carefully selected, trusted third parties. If you would like to know more about homesandproperty.co.uk’s use of cookies and how to manage them, do read our cookie policy.
+* Dealing with, and responding to you about, a comment you have submitted for or on our message boards, blogs and other such user generated content facilities
 
-Sometimes we obtain additional information about you from other reputable data sources. The data these companies might hold about you has been collected from publicly available records, such as the electoral roll, or via a range of sources with your permission (such as surveys or where you have agreed, via opt-in, for your information to be shared with third parties). 
+* Enabling you to share our content with others using social media or email
 
-We may check our registered viewer database against the information they hold on their systems to see if there are any matched individuals. If there is a match, we can collect and store some of this additional information (which may include statements about your lifestyle and interests) in our database and use it to further enhance our understanding of the types of products and services you might be interested in.
+* Communicating (and personalising such communication) with you through our newsletters, but only those you have consented to receive.
 
-We also collect information from social media activity such as when you ‘like’ the Website, share content or follow us on Twitter. When you sign in to the Website using social media you grant permission to the social network to share your user details. Depending on the network this will include basic account information such as name, email address, date of birth and any other details you choose to share according to your particular social media account settings. 
+* Administering competitions and informing you if you have been successful in any competitions or promotions
 
-**How will this information be used?**
+* Compiling customer reviews
 
-We use the aggregate audience details (where no individual is identifiable) to help us improve our understanding of our users and what they want. We may use it to assist us in arranging more personalised advertising, commercial opportunities and competitions which help us keep the Website free for you to enjoy.  
+* Conducting market research
 
-If advertisers want to reach people like you they might want to use the information we hold on you from other data sources.  We never disclose your personal details but group you into anonymous audience segments with other users who have the same interests.
+* Sending a product to your home address
 
-We also use this information to ensure we provide the best possible content, tailoring where we can to our users interests. It also helps us develop the Website and audit its use.
+* Granting you access to a subscription
 
-The information about you as an identifiable individual, including contact details, may be used in a number of ways, including: 
+* Dealing with any query or complaint you submit to our customer services team. Only provide sensitive data (such as information about your health, race or religion) if you are happy to consent to our using it to manage your enquiry
 
-  * Verifying your identity (for example when you return to the Website) 
-  * Personalising your visits to the Website and developing the design and style of the Website to improve the services provided to you 
-  * Informing you about the latest changes to the Website, or products, services or promotional offers that you might find interesting 
-  * Dealing with, and responding to you about, a comment you have submitted for or on our message boards, blogs and other such user generated content facilities 
-  * Enabling you to share our content with others using social media or email
-  * Communicating (and personalising such communication) with you 
-  * Informing you if you have been successful in any Website competitions or promotions 
-  * Compiling customer reviews 
-  * Conducting market research
-  * Sending a product to your home address 
+* Sending you push notifications from our apps
 
+We also log and use information about any service errors or interruptions that you have experienced in order to help us create fixes and to make technical improvements to our Website
 
+**What is your legal basis for processing my personal data?**
 
-**Will I receive spam?**
+Consent. 
 
-We will not send you any unsolicited marketing. We will only send you emails or other marketing messages where you have signed up to receive these. Marketing emails you have signed up to will also tell you how you can unsubscribe should you decide that you no longer wish to receive them. 
+We will only use your personal data for advertising and marketing, personalisation of content and services, analytical purposes and to track eCommerce purchases if we have your specific consent to do so.  This includes the use of data provided by you and our partners for profiling purposes in order to generate revenue from you so we can improve our products and services.
 
-Please note that registered users may receive important information about www.Homesandproperty.co.uk (such as changes to the www.Homesandproperty.co.uk service or other administration matters). As a registered user, this is not spam.
+Legitimate interests.
+
+The legitimate interest pursued by us to analyse our Website traffic in order to maintain the service, for example monitoring successful page loads or error messages.
 
 **How can I access and update my personal information?**
 
-You can update some of your personal information by signing in to your account page or through your social network provider.
+If you are a registered user, you can update your personal information by signing in to your account page or through your social network provider. In all other cases, please contact [_customer services_](https://eveningstandard.zendesk.com/hc/en-us/requests/new).
+
+You can ask for a copy of the personal information we may hold about you, or for your data to be deleted via [_customer services_](https://eveningstandard.zendesk.com/hc/en-us/requests/new).
+
+If wish to contact us by telephone our number is 0203 615 2990.
 
 **How long do you keep my personal information for?**
 
-We will keep your information only for as long as it is relevant and useful for the purpose for which it was originally collected. 
+We will keep your information only for as long as it is relevant and useful for the purpose for which it was originally collected.
 
-Please note that if your account appears to have not been used for 2 years, we may try and contact you to check whether it is still in use and/or we may delete it.
+Please note that if your account appears to have not been used for 12 months, we will try and contact you to check whether it is still in use and/or we will delete it.  Please note that any comments associated with your account will also be deleted.
 
-**What security measures do you use?**
+If you do not read the newsletters that you have subscribed to, we will delete your name from the relevant list after 6 months.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
+If you do not complete a social registration the data you entered as part of that registration will be deleted within 24 hours.  Data from any other incomplete registration or subscription attempt will not be stored.
 
-**Who will you share my personal information with?**
+**Who will we share your personal information with?**
 
-By using the Website, you agree that we may disclose your personal information to any company within the Homesandproperty.co.uk group of companies, which includes the companies which publish The Independent, Independent on Sunday, i and the London Evening Standard newspapers and Websites, and broadcasts London Live and its Website.
+We may disclose your personal information to our sister companies Independent Digital News and Media Limited and ESTV Limited as we operate a single group known as ESI Media.
 
-Advertisers and advertising networks sometimes require data to select and serve relevant advertisements to you and others. However, we do not disclose information about identifiable individuals to advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). 
+Advertisers and advertising networks sometimes require data to select and serve relevant advertisements to you and others. They can collect cookie data but this cannot be used to identify you personally.  We may provide them with aggregate cookie information about our users with certain attributes (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in the UK who are interested in travel).
 
-Subject to obtaining your consent, we may also supply personal information about you to third parties.
+We share cookie data with other publishers via a secure data management platform when advertising campaigns are served across multiple news websites.  These publisher partners are not able to access this data themselves, only serve the advertisements across their own websites to readers whose cookie data form part of the selected advertising segments.
 
-We reserve the right to disclose your personal information to comply with applicable laws (such as the Data Protection Act 1998) and government or regulatory bodies' lawful requests for information.
+We reserve the right to disclose your personal information to comply with applicable laws and government or regulatory bodies' lawful requests for information.
 
-Your personal details may be shared with third party organisations we have contracted to provide services to us which include processing data. 
+Your personal details may be shared with third party organisations we have contracted to provide services to us which include processing data.  For example, to send you the emails you have signed up for. We will only use companies who can provide adequate safeguards to ensure your data is stored and handled securely. 
 
-We may also have to release information (which could include the contents of email communications between any persons) because of a legal requirement on us or pursuant to a court order.
+We may also have to release information  because of a legal requirement on us or pursuant to a court order.
 
-We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
+We may transfer, sell or assign any of the information described in this Privacy Notice to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
 
-**Will my data be sent overseas?  **
+**Will your data be sent overseas?**
 
-As you will know, the internet does not recognise national boundaries. Services on the net are accessible globally so collection and transmission of personal data is not always confined to one country. 
+As you will know, the internet does not recognise national boundaries. Services on the net are accessible globally so collection and transmission of personal data is not always confined to one country.
 
-You should be aware that by using the Website and those of our partners or any Website we link through to, your personal data may be processed in or transferred to other countries, the USA for example, and you agree to your personal data being transferred or processed in this way.
+You should be aware that by using the website and those of our partners or any Website we link through to, your personal data may be processed in or transferred to other countries, the USA for example, and you agree to your personal data being transferred or processed in this way.
 
-**What do I do if I am not happy for you to share information about me with others?**
+Your personal data will only be stored or transferred within the UK, EU or US under the EU-US Privacy Shield, or using other safeguards that have been approved by the relevant regulatory body.
 
-You may not wish us to share personal details about you with third parties outside www.Homesandproperty.co.uk, or to use your information in the other ways we have described in this privacy policy. 
+**Your rights:**
 
-You can email [homesandproperty@standard.co.uk](http://homesandproperty@standard.co.uk/) at any time to let us know of any objections you may have as to how we use or disclose your data in the ways set out in this privacy policy. 
+**Right of access** – you have the right to request a copy of the data that we hold about you.
 
-**Message boards, blogs and other public forums**
+**Right of rectification** – you have a right to correct data that we hold about you that is inaccurate or incomplete.
 
-The Website makes videos, blogs and other such user generated content facilities, such as comments, available to users of the Website and registered users can provide content for and participate in these facilities. Any information that is disclosed in these areas of our Website becomes public information and you should always be careful when deciding to disclose your personal information. For more information, please click on the Website’s terms of use and [community guidelines](https://web.archive.org/Service/community-guidelines-a103066.html). 
+**Right to be forgotten** – you can ask for the data we hold about you to be erased from our records.
 
-**Email a friend and share this article facilities**
+**Right to restriction of processing** – you can ask for us to restrict the way we process your data.
 
-When you use these facilities and provide us with personal data (for example, name and email address) of a third party, please ensure that you have their consent before giving us their details.
+**Right of portability** – you have the right to have the data we hold about you transferred to another organisation.
 
-**Other Websites**
+**Right to object** – you have the right to object to our processing your data where we are relying on a legitimate interest in order to process it.
 
-The Website may, from time to time, contain links to and from the Websites of advertisers and other third parties. If you follow a link to any of these Websites, please note that these Websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these Websites.
+**Right to withdraw your consent** – you have the right to withdraw your consent at any time.
 
-**Further information**
+Please note that these rights are not absolute and certain exemptions apply.
 
-If you want further information, or wish to communicate with us about this privacy policy and your wishes about your personal information, please email us at [homesandproperty@standard.co.uk](http://homesandproperty@standard.co.uk/).
+**Exercising your rights, asking questions and raising concerns:**
 
-**More HomesandProperty.co.uk policies:**
+In the first instance, please submit your request using our online form available here: [Customer Services](https://eveningstandard.zendesk.com/hc/en-us/requests/new)
 
-  * **[Community guidelines](https://web.archive.org/Service/community-guidelines-a103066.html)**
-  * **[Terms of use](http://www.homesandproperty.co.uk/content/terms-use)**
-  * **[Cookie policy](http://www.homesandproperty.co.uk/content/cookie-policy)**
-  * **[Privacy policy](http://www.homesandproperty.co.uk/content/privacy-policy)**
-  * **[Promotions rules](https://web.archive.org/Service/promotion-rules-a103071.html)**
-  * **[User commitment](http://www.homesandproperty.co.uk/content/homesandpropertycouk-user-commitment)**
-  * **[Contact us](http://www.homesandproperty.co.uk/contact-us)**
+Or contact us using the details on this page: [www.standard.co.uk/contactus](https://www.standard.co.uk/contactus)
 
+You may also lodge a complaint directly with the supervisory authority or our Data Protection Officer using the contact information below
 
+  | **Supervisory authority contact details** | **Data Protection Officer (DPO)**  
+---|---|---  
+**Contact Name** | Information Commissioner's Office | Nicola Mckilligan-Regan  
+**Address** | Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, United Kingdom | Privacy Crowd Ltd, 92 New Cavendish Street, London, W1W 6XJ, United Kingdom  
+**Contact info** | 0303 123 1113; <https://ico.org.uk/concerns/> | [dpo@standard.co.uk](mailto:dpo@standard.co.uk)
