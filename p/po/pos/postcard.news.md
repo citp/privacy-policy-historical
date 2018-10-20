@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the postcard.news privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109141109id_/http%3A//postcard.news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcard.news privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020094410id_/https%3A//postcard.news/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-_All visitors toÂ  _ _[www.postcard.news](http://www.postcard.news/)_ _Â  (Website) are advised to read and understand our Privacy Policy carefully, as by accessing the Website you agree to be bound by the terms and conditions of the Privacy Policy and consent to the collection, storage and use of information relating to you as provided herein._
+All visitors to [postcard.news ](https://postcard.news/)(Website) are advised to read and understand our Privacy Policy carefully, as by accessing the Website you agree to be bound by the terms and conditions of the Privacy Policy and consent to the collection, storage and use of information relating to you as provided herein.
 
 The following outlines our privacy policy.
 
