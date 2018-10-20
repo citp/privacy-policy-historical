@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegreengrid.org privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221011432id_/https%3A//www.thegreengrid.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreengrid.org privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020195318id_/https%3A//www.thegreengrid.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Green Grid
 
@@ -105,6 +105,7 @@ We do not control third parties’ collection or use of your information to serv
 
 
 
+  
 9\. ACCESSING AND CORRECTING YOUR INFORMATION
 
 If you are a registered user of the Website, you can review and change your Personal Information by logging into the Website and visiting your account profile page.  You may also send us an e-mail at [admin@lists.thegreengrid.org](mailto:admin@lists.thegreengrid.org) to request access to, correct or delete any Personal Information that you have provided to us. In some cases, we cannot delete your Personal Information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
