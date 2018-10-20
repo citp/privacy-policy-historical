@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakeys.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525194108id_/http%3A//www.bakeys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakeys.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020203521id_/http%3A//www.bakeys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BAKEYS
 
