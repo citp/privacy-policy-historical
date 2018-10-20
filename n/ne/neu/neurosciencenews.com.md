@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neurosciencenews.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831170909id_/http%3A//neurosciencenews.com/neuroscience-news-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neurosciencenews.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020044130id_/https%3A//neurosciencenews.com/neuroscience-news-privacy-policy) for the most accurate reproduction.*
 
 # Neuroscience News Privacy Policy - Neuroscience News
 
@@ -61,13 +61,13 @@ Only Google and their ad network partners serve ads on our website currently. We
 
 Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to this website.
 
-Google’s use of the DART cookie enables it and its partners to serve ads to our users based on their visit to our sites and/or other sites on the Internet. Read about [DART here](http://www.google.com/doubleclick/).
+Google’s use of the DART cookie enables it and its partners to serve ads to our users based on their visit to our sites and/or other sites on the Internet. Read about [DART here](https://www.google.com/doubleclick/).
 
-Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page here](http://www.google.com/policies/privacy/ads/).
+Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page here](https://www.google.com/policies/privacy/ads/).
 
-Alternatively, you can opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+Alternatively, you can opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](https://www.networkadvertising.org/managing/opt_out.asp).
 
-A full list of possible vendors on this website is available below and links for more information and to opt-out from certain vendors are available [here](http://www.networkadvertising.org/managing/opt_out.asp) and [here](http://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=94149).
+A full list of possible vendors on this website is available below and links for more information and to opt-out from certain vendors are available [here](https://www.networkadvertising.org/managing/opt_out.asp) and [here](https://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=94149).
 
 Adacado / Healthpricer Interactive  
 Adform  
@@ -196,6 +196,6 @@ Adometry*
 DoubleVerify* DoubleVerify*  
 Evidon (formerly Better Advertising)* TRUSTe*
 
-*All of the vendors listed have links to their sites [here](http://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=94149) and can be used to opt-out of information sharing, or to learn more about the networks. Any additional vendors that are allowed to serve ads should be listed at that page.
+*All of the vendors listed have links to their sites [here](https://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=94149) and can be used to opt-out of information sharing, or to learn more about the networks. Any additional vendors that are allowed to serve ads should be listed at that page.
 
 If you have any questions about opting out of ads, or your information and privacy, please contact us at contact @ neurosciencenews.com.
