@@ -1,31 +1,317 @@
-> *The following text is extracted and transformed from the capitalonebowl.com privacy policy that was archived on 2006-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060208130355id_/http%3A//r.espn.go.com/espn/contests/capitalone/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalonebowl.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020052204id_/https%3A//www.harvardpilgrim.org/public/privacy-disclaimer-statements) for the most accurate reproduction.*
 
-# Capital One Bowl
+# Privacy Disclaimer Statements | Harvard Pilgrim Health Care
 
-**Our Privacy Commitment To You**
+Harvard Pilgrim Health Care Inc., along with our partners, supplies all information posted on this website. While we try to maintain only current and accurate information, we disclaim any implied warranty or representation about its accuracy or completeness, or appropriateness for a particular purpose. As the recipient of this information, you assume full responsibility for using the information on this website, and you understand and agree that Harvard Pilgrim is neither responsible nor liable for any claim, loss or damage resulting from its use.
 
-At Capital One®, we are committed protecting personal information we obtain about you (referred to as "information" in this notice). Please note: this policy applies only to information collected on [http://www.capitalonebowl.com](http://www.capitalonebowl.com/) as specified below, and does not govern or apply to information collected or used by Capital One Services, Inc., or its affiliates through other means. For More Information about Capital One's Privacy Practices:  
-Write to us at  
-P.O. Box 85665,  
-Richmond, VA 23285-5665  
-Visit our Web site at [http://www.capitalone.com](http://www.capitalone.com/)  
-For information about products or services offered by Capital One Services, Inc. and its affiliates, please visit our Web site at [http://www.capitalone.com](http://www.capitalone.com/)
+The mention of specific products or services at this site does not constitute or imply a recommendation or endorsement by Harvard Pilgrim, unless it is explicitly stated. The views and opinions of authors do not necessarily state or reflect those of Harvard Pilgrim. This website may provide specific health information, none of which is intended to be specific to your health or medical condition. Nothing contained, expressly or implied, on this site is intended or shall be construed as medical or other professional advice by Harvard Pilgrim.
 
-**Our Information Collection Practices**
+For specific medical advice, diagnosis and treatment, contact your health care provider.
 
-We do not collect personal information on this site. However, in order to protect the integrity of the voting process, we may utilize cookies to identify that a machine has been used to vote in the Capital One All America Mascot Team poll. Cookies are a small electronic file that tracks your activities when you visit our site. Cookies allow us to recognize you when you return to our site and can enable us to identify the path from which you returned to our site. If you choose, you can set up your Web browser to inform you when cookies are sent or you may choose not to accept cookies. Your decision not to accept cookies could limit some functions and access to some of the services that are available on our Web site. 
+If you are a Harvard Pilgrim member and have questions about your coverage, call Member Services at (888) 333-4742, for TTY service, call 711.
 
-**Co-Sponsors, Advertisers and Links**
+**Links to other sites**  
+This website may contain links to other websites for your convenience. However, Harvard Pilgrim disclaims any responsibility for the content, information or the privacy and security protections or policies contained on those other websites, and does not exert any editorial or other control over those sites.
 
-Advertisers or co-sponsors that have links on this site may collect personally identifiable information directly from you. The information practices of companies collecting data on our site or Web sites linked to [http://www.capitalonebowl.com](http://www.capitalonebowl.com/) are not covered by this privacy statement. 
+When we link to the sites of Harvard Pilgrim vendors where personal health information (PHI) is collected on our behalf, those sites are required to safeguard information in accordance with HIPAA.
 
-**Our Security Practices**
+Harvard Pilgrim does not expressly or implicitly recommend or endorse the specific services or products referenced at other websites linked to Harvard Pilgrim's site, unless explicitly stated. The services, products, or providers on this site, linked websites, or in listings of network doctors and hospitals may not be covered in your specific benefit package or included in your provider network. We offer this information to be comprehensive, but it is not linked to your benefits plan. You must consult your specific benefits plan materials, provider network or contact Member Services if you have any questions.
 
-We have taken the following steps to ensure secure Internet services:   
-• We protect our systems and networks with firewall systems.   
-• We employ Intrusion Detection software and monitor for unauthorized access.   
-• We maintain and selectively review activity logs to prevent unauthorized activities from occurring within our computing environment.   
-• We use encryption technology to protect certain sensitive information that is transmitted over the Internet. 
+#### Privacy
 
-©2005 Capital One Services, Inc.  
-Capital One is a federally registered service mark. All rights reserved. 
+**Browsing our website**  
+In the normal course of visiting the harvardpilgrim.org website, viewing pages or downloading information, we will gather and store certain information about your visit automatically. We use this information to help us make the site more useful to visitors — to learn about the number of visitors to our site and the types of technology our visitors use. Unless it is specifically stated otherwise, no additional information will be collected about you.
+
+We collect and store the following types of information about your visit:    
+
+  * Your computer's Internet Protocol (IP) address. (An IP address is a number that is automatically assigned to your computer whenever you go on the web.)
+  * The domain from which you access the internet (for example, gmail.com, if you are connecting from a Google account).
+  * The Internet address of the website, if any, from which you came to our site.
+  * The date and time you arrived at our site and how long you spent visiting the site.
+  * The name and version of your computer's operating system and browser (this information is supplied automatically by your computer).
+  * The pages you visit.
+
+
+
+**Cookies**  
+Some pages on this website employ browser session "cookies." A cookie is a small piece of data that a website transfers to your computer's hard drive to allow the server to distinguish your session from that of others while you are connected. Requests to send cookies are not designed to collect information about you, but only about your "browser session." The cookies make it easier for you to use the dynamic features of our website. The cookies and the information about your session are automatically destroyed shortly after you close your browser. The information is not permanently stored on your computer. We do not collect personal information about you except as described above.
+
+**Use of personal health information (PHI)**  
+Harvard Pilgrim is committed to ensuring the privacy and confidentiality of our members' Protected Health Information (PHI). We collect and disclose such information only according to our strict confidentiality policies and federal and state laws designed to maintain privacy, including the Health Insurance Portability and Accountability Act of 1996 (HIPAA) Privacy Rule. The HIPAA Privacy Rule took effect on April 14, 2003, and requires Harvard Pilgrim to provide its members with a Notice of Privacy Practices. The notice explains how we use information about our members and under what conditions we are permitted to share that information with others.
+
+Unless otherwise permitted by HIPAA we will not disclose to third parties that are not our vendors any identifying data, including name, mailing address, email address and phone number, unless you authorize such disclosure or such disclosure is required by law. To ensure privacy of your data, never share your username and password with anyone. Be sure to consider the content of any questions, the location of your email account and who, besides yourself, may have access to it.
+
+We collect personally identifiable data through our web services in the following ways:
+
+  * Through members' secure accounts
+  * Within "Contact Us" - Lets users tell us what they think about our website, via email and is emailed directly to the Web Manager
+  * Email sent directly to Member Services
+  * HealthTrio, our partner that collects personally identifiable data and is covered under a Business Associate agreement
+
+
+
+**Website security**  
+Security is a priority at Harvard Pilgrim. Appropriate measures are taken to protect the confidentiality, integrity and availability of information about our members, providers, employers, brokers and anyone else who may want to use our website.
+
+Only authorized users are allowed to access Protected Health Information (PHI). Harvard Pilgrim enforces a high level of protection for securing transmissions between a user's browser and this website. Content on this site is protected against unauthorized access.
+
+**Email security**  
+Email sent over the internet is not secure and should not be used to communicate confidential and/or health information directly to Harvard Pilgrim. Please be aware that Harvard Pilgrim cannot guarantee the confidentiality or security of any information you send to us over the internet when using email. Harvard Pilgrim shall not be liable for any breach of confidentiality resulting from such use of email via the Internet. Harvard Pilgrim uses secure, encrypted email to communicate confidential and/or health information in accordance with Harvard Pilgrim's corporate email policy.
+
+**Communicating with us**  
+Medical questions or concerns about your care or treatment should be directed to appropriate health care professionals. Harvard Pilgrim will not respond to requests for personal medical advice made through this website. If you require an immediate response to non-medical questions or problems, please call Member Services at (888) 333-4742, for TTY service, call 711.
+
+Email forms used on our site should not be for confidential personal medical issues, but for general topics or product questions. If you wish to discuss personal information related to Harvard Pilgrim services, you should call Member Services, and not use email. We will share your comments and questions with our member services coordinators and those employees most capable of addressing your questions and concerns, as covered under Personal Health Information, above. Your email may not be encrypted and may be accessed and viewed by other internet users without your knowledge while in transit to us. See email security above.
+
+**Copyright/use limitations**  
+© 2018 Harvard Pilgrim Health Care, Inc. All rights reserved.
+
+The information posted on this website is protected by copyright and other intellectual property rights. It may be displayed, reformatted and printed for personal, non-commercial use only. Any copy of information obtained through the website must include the copyright notice. Removing or altering the copyright notice on any material on this website is prohibited. Use or misuse of Harvard Pilgrim's trademarks, service marks or logos is expressly prohibited and may violate state and federal law.
+
+#### Notice of Privacy Practices
+
+1This notice describes how medical information about you may be used and disclosed and how you can access this information. Please review it carefully. 
+
+[Download the Notice of Privacy Practices (pdf)](https://www.harvardpilgrim.org/public/docs/notice-of-privacy-practices)
+
+The privacy of your information is important and Harvard Pilgrim takes the protection of your information seriously.  We may collect, use, and disclose financial and medical information about you when doing business with you or with others.  We do this in accordance with Harvard Pilgrim’s privacy policies and applicable state and federal laws.  Harvard Pilgrim also requires its business partners who administer health care coverage to you on our behalf to protect your information in accordance with applicable state and federal laws. 
+
+Harvard Pilgrim must follow the duties and privacy practices described in this notice and give you a copy of it. We may make changes to this notice and our privacy practices at any time, as long as the changes are consistent with our current privacy policies and state and federal law. If we make an important change to our policies, we will notify you by mail or electronically as permitted by applicable law. We will also post the revised notice on our web site, www.harvardpilgrim.org. For members enrolled in a student health plan offered by HPHC Insurance Company and administered by UnitedHealthcare Student Resources, you may also access the revised notice at [www.uhcsr.com](http://www.uhcsr.com/). ** **
+
+**WHAT** **IS PERSONAL AND HEALTH INFORMATION?**  
+Personal and health information (referred to as “information” elsewhere in this notice) includes protected health information (PHI) and individually identifiable information like your name and Social Security number. PHI is health information related to your physical or behavioral health condition used in providing health care to you or for payment for health care services. 
+
+**HOW WE PROTECT YOUR INFORMATION   **  
+We are required by law to maintain the privacy and security of all forms of information including electronic, written and verbal information.  We have procedures in place to ensure this, using physical and electronic safeguards, including storing information in restricted access electronic files and access-controlled workspaces. Harvard Pilgrim computers are protected through passwords and ongoing monitoring of security threats. All staff must complete annual privacy and security training, and access to information is limited to employees who require it to do their job. 
+
+**TO** **WHOM** **WILL HARVARD PILGRIM DISCLOSE MY INFORMATION?**  
+Harvard Pilgrim may disclose information to: 
+
+**You, your** **family** **and others:**
+
+  * When you are unavailable to communicate, such as during an emergency.
+  * When you are present prior to the disclosure and you agree to it.
+  * When you have previously indicated an individual is your designated representative.
+  * When the information is clearly relevant to their authorized involvement with your health care or payment for health care. For example, we may confirm a claim has been received or paid if an individual has prior knowledge of the claim.
+  * When sharing copayment, coinsurance, and deductible information with subscribers for dependents in order to facilitate management of health costs and Internal Revenue Service verification.
+  * When sharing a minor’s information with parents or guardians who have custodial rights, so long as that information is not further restricted by applicable state or federal laws. Information related to any care a minor may receive without parental consent remains confidential unless the minor authorizes disclosure. 
+
+
+
+**Your** **providers and others involved in your care:**
+
+  * For quality initiatives, safety concerns and coordination of care. Examples include state-mandated quality improvement initiatives, results of laboratory tests not otherwise restricted by law, and clinical reminders sent to your primary care provider.
+  * Your employer-sponsored health benefit plan administrator.
+  * Your plan sponsor, when sharing data used for enrollment and plan renewal. This is your employer or their representatives, if you are enrolled through an employer.
+  * When providing detailed claims and other health plan information to your plan sponsor, after receiving appropriate certifications that the plan sponsor agrees to protect your privacy and the information will not be used for employment decisions. For example, supporting an employer’s efforts to design and develop a wellness program for employees by sharing results of screening tests offered for evaluating common medical conditions and responses to health status questionnaires employees may elect to complete and submit. 
+
+
+
+**Our business associates and business partners:**  
+Harvard Pilgrim may contract with other organizations to provide services on our behalf. In these cases, Harvard Pilgrim will enter into an agreement with the organization explicitly outlining the requirements associated with the protection, use and disclosure of your information. 
+
+**HOW WILL** **HARVARD PILGRIM USE AND DISCLOSE MY INFORMATION?**  
+In order to provide coverage for treatment and to pay for those services, we need to use and disclose your information in several different ways. Harvard Pilgrim maintains and enforces company policies governing the use and disclosure of information. Our staff is trained to handle your information appropriately and to only use information required for their roles. The following are examples of the types of uses and disclosures we are permitted to make without your authorization: 
+
+**For payment**  
+Harvard Pilgrim will use and disclose your information to administer your health benefits. This may involve the determination of eligibility, claims payment, utilization review activities, medical necessity review, coordination of benefits, appeals, and external review requests. Examples include:
+
+  * Paying claims that were submitted to us by physicians and hospitals.
+  * Transmitting information to a third party to facilitate administration of a Flexible Spending Account, a Health Savings Account, a Health Reimbursement Account, or a dental benefits plan. 
+
+
+
+**For health care operations**  
+Harvard Pilgrim may use and disclose your information for operational purposes, such as care management, customer service, coordination of care or quality improvement. Examples include:
+
+  * Assessing the quality of “service, care and outcomes” for our members
+  * Learning how to improve our services through the use of internal and external surveys
+  * Reviewing and credentialing our affiliated physicians and institutions
+  * Evaluating the performance of our staff, such as reviewing our customer service representatives’ phone conversations with you
+  * Seeking accreditation by independent organizations, such as the National Committee for Quality Assurance
+  * Engaging in wellness programs, preventive health, early detection, disease management, health risk assessment participation initiatives, case management, and coordination of care programs, including sending preventive health service reminders
+  * Using information for underwriting, establishing premium rates and determining cost sharing amounts, as well as administration of reinsurance (Harvard Pilgrim will not use or disclose any genetic information it might otherwise receive for underwriting purposes.)
+  * Facilitating transition of care from and to other insurers, health plans or third party administrators
+  * Other general administrative activities, including data and information systems management, risk management, auditing, and detection of fraud and other unlawful conduct
+
+
+
+**For treatment**  
+Harvard Pilgrim may disclose your information to health care providers (doctors, dentists, pharmacies, hospitals and other caregivers) in connection with your treatment. Examples include:
+
+  * Quality improvement and cost containment wellness programs, preventive health initiatives, early detection programs, safety initiatives, and disease management programs. This may include disclosing a list of medications you’ve received using your Harvard Pilgrim coverage to alert your treating physicians about any medications prescribed to you by other providers and help minimize potential adverse drug interactions.
+  * To administer quality-based cost-effective care models. For example, if you receive your treatment through an “Accountable Care Organization” or a “Medical Home”, a setting in which team-based care is led by your physician, Harvard Pilgrim may share information with the Accountable Care Organization or Medical Home providers about the services you receive elsewhere to assure coordination of effective and high quality care.
+  * Harvard Pilgrim may receive your test results from labs you use, from your providers, or directly from you. These results may be used to develop tools to improve your overall health, and may be shared with providers involved in your care. 
+
+
+
+**For other permitted or required purposes**  
+The following are examples of the additional types of uses and disclosures Harvard Pilgrim is permitted or required by law to make without your authorization:
+
+  * To provide information for **health services research** to improve the health of our members and the Harvard Pilgrim may use your information for research purposes when our Human Subjects Committee has reviewed the research proposal and approved the research based on established protocols to ensure your privacy.
+  * To **comply with laws** and regulations, such as those related to **Workers’ Compensation**.
+  * For **public health and safety activities,** such as assisting public health authorities with disease prevention or disease control or for notification purposes during **disaster relief** efforts. This can include data collection by state government-mandated or -sponsored consortiums or public health authorities.
+  * For **health oversight activities** , such as submitting information to a government agency authorized to oversee the health care system or government programs, or to its contractors. Examples include the U.S. Department of Health and Human Services, a state insurance department or the U.S. Department of Labor for activities authorized by law, such as audits, examinations, investigations, inspections, and licensure activity.
+  * For **judicial or administrative proceedings** , including responses to **court orders, subpoenas** , discovery requests or other lawful process.
+  * To **funeral directors or coroners** so they can carry out their lawful duties. Harvard Pilgrim may also disclose information **about a decedent** to the executor, administrator, or other person with authority to act on behalf of the decedent’s estate.
+  * To **organ procurement** organizations to facilitate cadaveric organ, eye, or tissue donation/transplantation, only after your prior authorization.
+  * For **law enforcement** purposes, such as reporting certain types of physical injuries or to help identify or locate a suspect or missing person.
+  * To **report** information related to victims of **abuse or neglect**.
+  * To prevent a serious **threat** **to your health or safety,** or that of another person
+  * For **specialized government functions** , such as for national security and intelligence activities. In addition, under certain conditions, we may disclose your information if you are or were a member of the Armed Forces, for those activities deemed necessary by appropriate military.
+  * For **inmates,** to a correctional institution or a law enforcement official having lawful custody, if the provision of such information is necessary to provide you with health care, protect your health and safety, and that of others, or maintain the safety and security of the correctional institution.
+
+
+
+**USES AND DISCLOSURES REQUIRING YOUR AUTHORIZATION**  
+Other than the permitted or required uses described above, your information will only be used or disclosed with your written authorization. For example, we require your written authorization before selling your information, using your information for marketing or fundraising purposes, or, in most cases, sharing your psychotherapy notes. You may revoke such an authorization at any time in writing, except to the extent we have already taken an action based on a previously executed authorization.
+
+To authorize us to use or disclose any of your information to a person or organization for reasons other than those described in this notice, please complete an  [Authorization to Release Information Form (pdf)](https://www.harvardpilgrim.org/public/docs/authorization-to-release-information-form) . You should send the completed form to:
+
+Harvard Pilgrim Health Care  
+Customer Service Department  
+1600 Crown Colony Drive  
+Quincy MA 02169
+
+ For members enrolled in a student health plan offered by HPHC Insurance Company and administered by UnitedHealthcare Student Resources, the form is located at [www.uhcsr.com,](http://www.uhcsr.com/) and the completed form should be sent to:
+
+UnitedHealthcare  
+Student Resources  
+PO Box 809025  
+Dallas, TX 75380-9025
+
+**WHAT** **RIGHTS DO I HAVE REGARDING MY INFORMATION?**  
+
+**Access and receive copies of your information**  
+You have the right to receive a copy of your information, once you provide us with specific information to fulfill your request. We reserve the right to charge a reasonable fee for the cost of producing and mailing copies of such information. 
+
+**Amend your information**  
+If you believe your information is incorrect or incomplete, you have the right to ask us to amend it. In certain cases, we may deny your request and provide you with a written explanation. For example, we may deny a request if we did not create the information, as is often the case for medical information that was generated by a provider, or if we believe the current information is correct.
+
+**Confinential Communications**  
+You have the right to receive communications regarding your information in a manner and at a location that you feel is safe from unauthorized use or disclosure. To support this commitment, Harvard Pilgrim will permit you to request your information by alternative means or at alternative locations. We will accommodate reasonable requests.
+
+**  Accounting of disclosures**  
+You have the right to request an accounting of those instances in the prior six years in which we or our business associates have disclosed your information for purposes other than treatment, payment, health care operations, or other permitted or required purposes. Harvard Pilgrim will require specific information needed to fulfill your request. If you request an accounting more than once in a 12-month period, we may charge you a reasonable fee.
+
+**Request restrictions**  
+You have the right to ask us to place restrictions on the way we are permitted to use or disclose your information. We are not, however, required by law to agree to these requested restrictions. If we do agree to a restriction, we will abide by the restriction unless it is related to an emergency. 
+
+**Get a copy of this Notice of Privacy Practices**  
+You have the right to receive a paper copy of this Notice of Privacy Practices upon request at any time.
+
+**  Be notified of a breach**  
+You have the right to be notified of a breach of your unsecured information. ** **
+
+**RIGHTS** **UNDER STATE LAW**  
+You may be entitled to additional rights under state law. Harvard Pilgrim pays careful attention to protecting your information as required by these state laws. ** **
+
+**HOW** **DO** **I EXERCISE MY RIGHTS?**  
+You can exercise all of your privacy rights by contacting our Customer Service Department. We may require a written request be completed and submitted to:
+
+Harvard Pilgrim Health Care Customer Service Department  
+1600 Crown Colony Drive, Quincy, MA 02169
+
+To request a form, call (888) 333-4742 or go to [www.HarvardPilgrim.org/Members ](http://www.harvardpilgrim.org/Members)for more information. 
+
+For members enrolled in a student health plan offered by HPHC Insurance Company and administered by UnitedHealthcare Student Resources, the form is located at [www.uhcsr.com,](http://www.uhcsr.com/) and the completed form should be sent to:
+
+UnitedHealthcare  
+Student Resources  
+PO Box 809025  
+Dallas, TX 75380-9025 ** **
+
+**WHOM DO I CONTACT IF I HAVE QUESTIONS OR COMPLAINTS?**  
+If you believe your privacy rights have been violated or you would like more information, you may send a question or written complaint to:
+
+Privacy Officer, Harvard Pilgrim Health Care  
+93 Worcester Street, Wellesley, MA 02481
+
+Or, you may call us at (877) 548-6712. 
+
+You may also notify the Secretary of the Department of Health and Human Services. Send your complaint to:
+
+Medical Privacy, Complaint Division, Office for Civil Rights (OCR)  
+U.S. Department of Health and Human Services  
+200 Independence Avenue SW Room 509F, HHH Building Washington, DC 20201
+
+You may also call OCR’s Hotline at (800) 368-1019 or you can find more information at [www.hhs.gov/ocr](http://www.hhs.gov/ocr). 
+
+Harvard Pilgrim will not take retaliatory action against you if you file a complaint about our privacy practices with either OCR or Harvard Pilgrim.
+
+Harvard Pilgrim will never require you to waive any of your rights as a condition of enrolling you in a health plan, determining your eligibility for benefits, or providing payment for your benefits. 
+
+Non-English speaking members may also call Harvard Pilgrim’s Customer Service Department at (888) 333-4742 to have their questions answered. Harvard Pilgrim offers free language interpretation services in more than 200 languages. 
+
+Deaf and hard-of-hearing members may call 711 for teletypewriter (TTY) service.
+
+**This notice is effective August 15, 2017 and supersedes the revision dated July 1, 2017.**
+
+1Harvard Pilgrim Health Care includes Harvard Pilgrim Health Care, Harvard Pilgrim Health Care of Connecticut, Harvard Pilgrim Health Care of New England, and HPHC Insurance Company. 
+
+####  Fraud, waste and abuse
+
+You can help us to detect and prevent health care fraud and abuse.  It is important that you review activity statements, explanation of benefits and claim summaries to ensure that you actually received the services that are billed to Harvard Pilgrim.  Here are some examples of potential fraud and abuse:
+
+  * Bills for health care services that were never provided 
+  * Bills for a higher level of service than you actually received 
+  * Bills for services or laboratory testing that you feel were not medically necessary 
+  * Providers who agree to routinely waive large cost-sharing obligations without requesting financial documentation
+  * Providers who bill you for cost-sharing amounts that are greater than the obligations listed on your explanation of benefits forms
+  * A request to loan your member ID card to others for the purpose of getting health care services or prescription drugs 
+  * Receiving medications, cream, or durable medical equipment through the mail as a result of a phone solicitation
+
+
+
+For more information about fraud and abuse, review Harvard Pilgrim’s  [Fraud, waste and abuse policy (pdf)](https://www.harvardpilgrim.org/public/docs/fraud-waste-and-abuse-policy) .
+
+To report potential health care fraud and abuse, or if you have questions, please call our confidential hotline number at (877) 548-6712.  You are not required to provide your name or member information; anonymous reporting is accepted.  You can also send an anonymous letter to us at:
+
+Harvard Pilgrim Health Care  
+Special Investigations Unit  
+1600 Crown Colony Drive  
+Quincy, MA  02169
+
+#### Appeals
+
+A member, or authorized representative (s) acting on behalf of a member, may request an appeal for any decision made by Harvard Pilgrim to deny coverage for health services. This applies to (a) health services already received (i.e., denied claim); and, (b) requests to authorize coverage for services in advance (i.e., denied pre-authorization or prior approval).   
+
+A request for an appeal must be submitted within 180 days of the date of service, or within 180 days from the date payment for a service is denied by Harvard Pilgrim. Appeals submitted beyond the 180-day time frame will not be accepted for review.
+
+To process your appeal request, we will need some specific information from you. Here’s what is important to include:
+
+  * The circumstances related to your request, and why you feel the decision should be changed
+  * Any information that supports your request (such as letters from your doctor or specialist)
+  * Copies of any bills related to your appeal
+  * Any relevant medical records so that we may assess clinical necessity
+
+
+
+All appeals are reviewed and responded to in accordance with all state, federal and NCQA guidelines. 
+
+**Requests for appeals may be submitted to Harvard Pilgrim in person, by mail or by fax to:**
+
+Harvard Pilgrim Health Care  
+Appeals & Grievances Department  
+1600 Crown Colony Drive  
+Quincy, MA  02169
+
+Open weekdays 8:30 a.m. – 5 p.m.  
+Fax: (617) 509-3085
+
+**To request an appeal by phone** , call Harvard Pilgrim’s Member Services department at (888) 333-4742. For TTY service, call 711.
+
+Representatives are available Monday, Tuesday and Thursday 8 a.m. - 6 p.m;  
+Wednesday 10 a.m. - 6 p.m and Friday 8 a.m. - 5:30 p.m.
+
+**Appeals concerning behavioral health services must be submitted to:**
+
+Harvard Pilgrim Behavioral Health Access Center  
+c/o United Behavioral Health  
+Appeals Department  
+P.O Box 30512  
+Salt Lake City, UT 84130-0512
+
+Tel: (888) 777-4742    Fax: (855) 312-1470 ****
+
+If you have additional questions about the appeal process, please refer to the Appeals and Complaints section of your Benefit Handbook or contact Member Services. 
