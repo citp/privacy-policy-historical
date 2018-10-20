@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isport.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623075812id_/http%3A//www.isport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isport.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020173955id_/http%3A//www.isport.com/privacy) for the most accurate reproduction.*
 
 # Privacy | iSport.com
 
