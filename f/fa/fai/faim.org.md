@@ -1,29 +1,163 @@
-> *The following text is extracted and transformed from the faim.org privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621111859id_/http%3A//www.faim.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faim.org privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020213931id_/http%3A//www.faim.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Foundation for Alternative and Integrative Medicine
 
-Revised November 9, 2009
+Revised June 21, 2018
 
-At the Foundation for Alternative and Integrative Medicine web site it is quite important to us that we protect your privacy. When you send us an e-mail we may collect your e-mail address, land address, and sometimes telephone number. This information will be used by the Foundation for Alternative and Integrative Medicine for service, editorial, and communicating purposes. We will sometimes share your information with third party vendors who assist us with the preparation and mailing of communications. We will never rent or sell your telephone or fax number to any third party.
+This privacy policy describes the information Foundation for Alternative and Integrative Medicine (FAIM) ([www.faim.org](https://www.faim.org/) and [www.nfam.org](http://www.nfam.org/)) may collect from you, how we collect it, how we protect it, how we may share it, how you can access and change it, and how you can limit our sharing of it.
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. The Foundation web site does not knowingly collect or use any personal information from children under the age of 13 without obtaining verifiable parental consent.
+Personal information, also referred to as personal data and/or as Personally Identifiable Information (PII), is information that can be used to identify you as an individual, such as your name, email address, contact information, financial information, and other information you provide that is necessary for processing your requests.
 
-The web sites maintained by the Foundation for Alternative and Integrative Medicine, including this one, may place a "cookie" in your computer's browser file. The cookie helps us recognize your browser and allows us to provide you with a more personal experience and better service when you visit our site. The cookie itself does not contain any of your personal information, so it does not jeopardize the privacy of your activities, or the security of the transactions you place at our site.
+You consent to our collection and use of your personal information as described in this privacy policy by your continued use of our website, your submission of any personal data to us, and/or participation in our events.
 
-We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities and may, in our sole discretion, disclose personal information or other information to satisfy any law, regulation, subpoena, or government request. We reserve the right to release personal information or other information about users who we believe are engaged in illegal activities or are otherwise in violation of our Terms of Service, even without a subpoena, warrant or court order, if we believe, in our sole discretion, that such disclosure is necessary or appropriate to operate our web site or to protect the rights or property of the Foundation for Alternative and Integrative Medicine, our affiliates, or our officers, directors, employees, agents, third-party content providers, suppliers, sponsors, or licensors. We also reserve the right to report to law enforcement agencies any activities we reasonably believe in our sole discretion to be unlawful. If we are legally compelled to disclose information about you to a third party, we will attempt to notify you by sending an e-mail to the email address in our records unless doing so would violate the law or unless you have not provided your e-mail address to us.
+## What information do we collect?
 
-To use some features on the Foundation for Alternative and Integrative Medicine web site, a user may need to first complete a registration form on the web site. During registration, a user is required to give contact information, such as name and e-mail address. This information is used to contact users about the services on our web site for which they have indicated interest.
+The information we gather falls into three categories:
 
-Like most standard web sites, we use log files on our servers. These log files store information regarding IP (internet protocol) addresses, browser type, ISP (internet service provider), referring/exit pages, platform type, date/time stamp, and number of clicks. These log files are used to analyze trends, administer the web sites, track user's movements in the aggregate, and gather broad demographic information for our use. IP addresses, etc. are not linked to personal information.
+  * Personal information you provide to us voluntarily
+  * Non-personal information routinely gathered as you navigate through our website
+  * Personal information gathered by automatic data collection technologies
 
-The web site contains links to other web sites. We want you to be aware that when you click on such links, including banner advertising, which take you to a third-party or Licensee web site, you will be subject to such third-party's or Licensee privacy policies. Please be aware that we are not responsible for the privacy practices of such other web sites and we expressly disclaim any and all liability for the actions of third parties or Licensees, including, without limitation, actions relating to the use and/or disclosure of personal information by such third parties or Licensees. We encourage our users to be aware of when they leave our web site and enter a third-party web site and to read the privacy statements of each and every web site that collects their personal information. This privacy policy applies solely to information collected by our web site.
 
-You should be aware that when you voluntarily disclose personal information (e.g., user name, e-mail address) on the message boards or in the chat areas of this site, that information can be collected and used by others and may result in unsolicited messages from other message board posters or parties.
 
-If we change or update this Privacy Policy, we will notify you by posting a notice on our web site. These notices will allow you to easily link to and view the updated policy if you wish.
+Browsing our website does not require registration, allowing you to visit our site without telling us who you are.
 
-The Foundation for Alternative and Integrative Medicine  
-PO Box 2860  
-Loveland, CO 80539
+Some services on the site may require you to provide us with personal information. In these situations, if you choose to withhold any personal information requested by us, it may not be possible for us to respond to your request or for you to gain access to certain parts of the website.
 
-Still have questions? [Contact us](http://www.nfam.org/contact).
+### Information you provide voluntarily
+
+We collect information from you when you:
+
+  * Contact us
+  * Create an account on our website
+  * Submit content for publication
+  * Subscribe to our newsletter
+  * Make a donation to us
+  * Respond to a survey
+  * Fill out a form
+  * Engage with our social media sites
+  * Otherwise give us personal information
+
+
+
+In those cases, we may collect some or all of the following information: your name, email address, mailing address, phone number(s), username, password, credit card or other payment information, and other information specific to the form you are submitting. We may also collect your image when photos and videos are taken at our events.
+
+Our legal bases for collecting and processing your personal data include:
+
+  * **Consent** — You consent when you create an account on our website, subscribe to our newsletter, submit an article for publication, or fill out a form on our website.
+
+  * **Contract** — We have a contract with you to process your data when you make a donation to us.
+
+  * **Legitimate interests** — Our legitimate interests include responding to your questions and requests for information, managing user accounts, providing services you request, evaluating the effectiveness of our website and email newsletters, internal recordkeeping and administrative purposes, and operating, maintaining, and improving the website and our services.
+
+
+
+
+### Information routinely gathered as you navigate through our website
+
+We collect data from your web browser or mobile device as you visit our website in order to analyze, understand, and improve traffic to our website and to make our site more useful to our visitors.
+
+All analytics data collected on this website is anonymized. It may include, but is not limited to, information about the visitor's type of computer or device and operating system, browser and version, pages visited, date and time of visit, sources of traffic to the website, approximate geographic location, and search queries. This data does not include any Personally Identifiable Information (PII) and cannot be traced back to a specific individual.
+
+See our [Cookie and Tracking Policy](https://www.faim.org/cookie-and-tracking-policy) for more information.
+
+### Personal information gathered by automatic data collection technologies
+
+Tracking technologies, such as web beacons in email newsletters, are not anonymized and do contain PII.
+
+See our [Cookie and Tracking Policy](https://www.faim.org/cookie-and-tracking-policy) for more information.
+
+## How do we use your information?
+
+The information we collect from you may be used to:
+
+  * Communicate with you and respond to your questions or messages.
+  * Personalize your experience.
+  * Publish or otherwise use information you submit to us for publication.
+  * Send you email newsletters and marketing, fundraising and other communications and to understand whether and when you read our email messages and click on links in those messages.
+  * Process transactions including your donations and other requests for services.
+  * Manage, administer, promote, analyze and improve our services.
+  * Generate aggregate anonymized reports and use and share that information for our purposes.
+
+
+
+We may also use the information we collect from you in other ways, and for other purposes, that are described to you at the point of collection or for which we otherwise have obtained your consent.
+
+## How do we protect your information?
+
+### Disclosure and sharing
+
+**Our responsibilities**
+
+We do not rent, sell, trade, or share your personal information with third parties for their marketing purposes without your consent.
+
+We may share your personal information with the following trusted persons or companies:
+
+  * Authorized persons within the organization to facilitate our work including communication, planning, and donation processing.
+  * Authorized service providers we partner with for the purpose of providing services on our behalf. These third-party service providers may include, but are not limited to, information technology consultants, website developers and administrators; payment processors; email service providers; and mailing house companies.
+  * Designated authorities when required by law, a legal process, law enforcement measures, or to comply with legal or regulatory obligations.
+  * Successors of this organization if we merge in whole or in part with another organization or in the unlikely event of bankruptcy.
+
+
+
+**Your responsibilities**
+
+We may invite you to submit an article for publication. If you choose to do so, you are responsible for exercising care when sharing any personal data.
+
+Information you share in published articles is public and thus is not protected by our privacy policy nor are we liable if you choose to disclose your personal information in your article. Anything published on our website may be available worldwide. We cannot prevent the use or misuse of such information by others.
+
+### Storage and retention
+
+All electronic information is stored on computers and servers located in the United States and/or Canada.
+
+We retain information we collect from you for as long as needed for business or legal purposes or until you ask us to delete it. Your information may be retained in electronic form, paper form, or a combination of both.
+
+When your information is no longer needed, or you ask us to remove it, we will destroy, delete, or erase it within ten business days. The data may remain in backups on our servers for up to 30 days, after which it will be completely removed. We reserve the right to to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting removal.
+
+### Security
+
+We use physical, technical, and organizational safeguards in an effort to secure the information we collect. These safeguards vary based on the sensitivity of the information.
+
+Passwords are stored using secure password hashes, not in plain text. Therefore, we cannot look up your password if you forget it; you must request a new password or a password reset.
+
+We do not collect, process, or save credit card information on our website or website server. We use third-party payment processing services that use industry-standard encryption technology to protect your credit card information from unauthorized use. Please see their privacy policy ([GiveDirect](https://www.givedirect.org/?p=transact&action=privacy)) for more information. We do not store or retain financial information you provide to us by other means (such as in print or by phone) after processing is complete unless needed for recurring processing.
+
+Unfortunately, no security system, method of transmission, or electronic storage is impenetrable. While we use reasonable security measures to protect your information, we cannot guarantee against the loss or misuse of your personal information in the event it is intercepted, accessed, or disclosed in a manner beyond our control. We are not responsible for the circumvention of any privacy settings or security measures used on our website or in our offices.
+
+Most email and mobile transmissions are not encrypted, so you should take special care in deciding what information you send to us via email, text messages, or other mobile transmissions.
+
+We strongly urge you to protect your your password and to not share it with anyone. If you log in to our website, always log out when you finish using it, especially if you are sharing a computer or using a computer in a public place.
+
+## Links to other websites
+
+Our website may include links to other websites, embedded media controlled by third parties, and social media buttons, content, or widgets.
+
+These third-party sites have separate and independent privacy policies. We have no control, responsibility, or liability for the content and activities of these linked sites.
+
+See our [Cookie and Tracking Policy](https://www.faim.org/cookie-and-tracking-policy) for more information.
+
+## Children's Online Privacy Protection Act (COPPA)
+
+Our website, products, and services are directed to people who are at least 16 years of age or older. We do not knowingly collect any personal information from anyone under 16 years of age.
+
+If you are a parent or guardian and believe that your child has submitted personal information on our website, please [contact us](https://www.faim.org/contact). Before we remove any information, we may ask for proof of identification to prevent malicious removal of information.
+
+## How to change your consent or review, update, or delete your information
+
+**Website account** — Log into your website account to view, update, or delete your information.
+
+**Articles or content submitted for publication without a website account** — [Contact us](https://www.faim.org/contact).
+
+**Newsletter subscriptions** — Click on the “update preferences” or “unsubscribe” links in the email to change your email newsletter preferences or unsubscribe from the newsletter.
+
+**Donations** — Log into your account to view, update, or delete your information.
+
+If you have questions or need assistance with making changes, please [contact us](https://www.faim.org/contact).
+
+## Changes to our privacy policy
+
+We reserve the right to change our privacy policy at any time. All changes will be published on this page, so please check back periodically. Your use of our website and services constitutes your consent to the privacy policy in effect at that time.
+
+## Contacting us
+
+If you have questions about this privacy policy please [contact us](https://www.faim.org/contact).
