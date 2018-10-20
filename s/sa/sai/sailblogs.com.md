@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sailblogs.com privacy policy that was archived on 2018-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180211192500id_/http%3A//www.sailblogs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailblogs.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020075615id_/http%3A//www.sailblogs.com/privacy.php) for the most accurate reproduction.*
 
-# None
+# SailBlogs | Sailing Blog Hosting, Map Tracking & Social Network
+
+SailBlogs Privacy Policy
 
 SailBlogs.com is firmly committed to protecting your privacy. 
 
