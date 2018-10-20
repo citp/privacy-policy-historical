@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the kob.com privacy policy that was archived on 2018-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180410022732id_/http%3A//www.kob.com/pages/inside-kob/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kob.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020202649id_/https%3A//www.kob.com/pages/inside-kob/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | KOB.com
 
 ###  Privacy Policy
 
-This is the Privacy Policy for the Hubbard Broadcasting ("Station") website. Your privacy is important to us, and we provide this Privacy Policy regarding our online collection, use and disclosure practices to help you to make informed decisions regarding use of this website, and exercising choices regarding our collection, use and disclosure of the personal information about you from this website.
+This is the Privacy Policy for the KOB-TV, LLC ("Station") website. Your privacy is important to us, and we provide this Privacy Policy regarding our online collection, use and disclosure practices to help you to make informed decisions regarding use of this website, and exercising choices regarding our collection, use and disclosure of the personal information about you from this website.
 
-This Privacy Policy is incorporated by reference into and is subject to the terms of the Hubbard Broadcasting Terms of Use.
+**Any users located within the European Economic Area ("EEA") are prohibited from using our websites. For avoidance of doubt, the KOB-TV, LLC websites are not intended for users located within the EEA.**
+
+This Privacy Policy is incorporated by reference into and is subject to the terms of the [_KOB-TV Terms of Use._](https://web.archive.org/pages/inside-kob/terms-of-use.shtml)
 
 **The Information We Collect**
 
-At the Station website, you may review content, enter our various sweepstakes and contests, link to our Facebook, Twitter or Instagram pages by liking or following us, along with a variety of other functions. In providing these offerings on our website, we may collect: your age, gender, email address, zip code, and any other information you submit to us (example: your name), such as by emailing us, filling out a user profile, or entering a sweepstakes or contest. We also collect certain non-personally identifiable information when you visit our website, such as such as the type of browser you are using (e.g., Chrome, Safari, etc.), the type of operating system you are using (e.g., Windows or Mac OS), the domain name from which you receive internet access, and aggregate information regarding what pages you access or visit.
+At the Station website, you may review content, enter our various sweepstakes and contests, link to our Facebook, Twitter or Instagram pages by liking or following us, along with a variety of other functions. In providing these offerings on our website, we _may_ collect: your age, gender, email address, zip code, and any other information you submit to us (example: your name), such as by emailing us, filling out a user profile, or entering a sweepstakes or contest. We also collect certain non-personally identifiable information when you visit our website, such as such as the type of browser you are using (e.g., Chrome, Safari, etc.), the type of operating system you are using (e.g., Windows or Mac OS), the domain name from which you receive internet access, and aggregate information regarding what pages you access or visit.
 
-**Collection Of Information By  ** **Third Party** **  Sites, Sale Partners and Sponsors**
+**Collection Of Information By Third Party Sites, Sale Partners and Sponsors**
 
 Some of our website contains links to other sites whose information practices may be different than ours. We encourage you to consult the other sites’ privacy policies, as we have no control over information that is submitted to, or collected by, these third parties. To try to bring you advertising that is of interest to you, we have relationships with reputable third parties that we allow to present or serve advertisements on our site. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. Our Privacy Policy does not cover any use of information that a third party ad server may collect from you. We sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the website activity. We have no control over such third parties’ use of this information. The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
 **Our Use of Information Collected At Our Site and Your Choices Regarding that Use**
 
-We may use the personally identifiable information that we collect to provide you with an interactive online experience, to fulfill your requests for our products and services, to respond to your inquiries about our offerings, to notify you when we make changes to our subscriber agreements, to personalize or localize your experience on our site, to allow us to make personalized recommendations of content you may be interested in, or to contact you about your account with us. We may, on occasion, combine information we receive online from you with records from other sources. As provided in the Terms of Use, if you choose to post content on our site, we may use that information in any manner. In addition, we may use the personally identifiable information we collect through this site to offer you other programs, services or products that we believe may be of interest to you. If you do not want to receive e-mail offers from us in the future, please let us know by unsubscribing to any email at the bottom of each of our email messages. Please allow time for your request to be implemented. We use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your online experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
+We may use the personally identifiable information that we collect to provide you with an interactive online experience, to fulfill your requests for our products and services, to respond to your inquiries about our offerings, to notify you when we make changes to our subscriber agreements, to personalize or localize your experience on our site, to allow us to make personalized recommendations of content you may be interested in, or to contact you about your account with us. We may, on occasion, combine information we receive online from you with records from other sources. As provided in the [_Terms of Use_](https://web.archive.org/pages/inside-kob/terms-of-use.shtml), if you choose to post content on our site, we may use that information in any manner. In addition, we may use the personally identifiable information we collect through this site to offer you other programs, services or products that we believe may be of interest to you. If you do not want to receive e-mail offers from us in the future, please let us know by unsubscribing to any email at the bottom of each of our email messages. Please allow time for your request to be implemented. We use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your online experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
 
 **Cookies And Other Technical Information**
 
@@ -50,12 +52,13 @@ We encourage you to check back to this Privacy Policy periodically and review th
 
 **Notice Regarding Nielson Market Research and Measurements**
 
-Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, see the Nielsen Digital Measurement Privacy Policy at <http://www.nielsen.com/digitalprivacy>. To opt-out or opt back into Nielson Measurement, [click here](http://www.nielsen.com/digitalprivacy).
+Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, see the Nielsen Digital Measurement Privacy Policy at [_http://www.nielsen.com/digitalprivacy_](http://www.nielsen.com/digitalprivacy). To opt-out or opt back into Nielson Measurement, [_click here_](http://www.nielsen.com/digitalprivacy).
 
 **How to Contact Us**
 
-If you have any questions or concerns about this Privacy Policy or its implementation you may write us at our postal address:  
-Hubbard Broadcasting, Inc.  
-3415 University Avenue  
-St. Paul, MN 55114  
+If you have any questions or concerns about this Privacy Policy or its implementation you may write us at our postal address:
+
+KOB-TV, LLC  
+4 Broadcast Plaza SW  
+Albuquerque, NM 87104  
 Attn: Privacy Officer
