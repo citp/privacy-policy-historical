@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techrabbit.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912181345id_/https%3A//www.techrabbit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techrabbit.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020041921id_/https%3A//www.techrabbit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tech Rabbit
 
-This Privacy Policy governs the manner in which TechRabbit collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.techrabbit.com website ("Site"). This privacy policy applies to the Site and all products and services offered by TechRabbit.
+This Privacy Policy governs the manner in which TechRabbit collects, uses, maintains and discloses information collected from users (each, a "User") of the //www.techrabbit.com website ("Site"). This privacy policy applies to the Site and all products and services offered by TechRabbit.
 
 #### Personal identification information
 
@@ -64,7 +64,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 TechRabbit
 
-http://www.techrabbit.com
+//www.techrabbit.com
 
 help@techrabbit.com
 
