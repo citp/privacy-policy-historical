@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the inventables.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162621id_/https%3A//www.inventables.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inventables.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020040257id_/https%3A//www.inventables.com/privacy_policy) for the most accurate reproduction.*
 
 # Inventables
 
 ### Inventables Privacy Policy
 
-**DATE LAST MODIFIED: March 11, 2016**
+**DATE LAST MODIFIED: May 25, 2018**
 
  **Importance of Your Privacy.** At Inventables ("Company"), your privacy is of great importance to us. We understand that you entrust us with certain information to help us provide various products and services. In exchange for your trust, you expect and deserve our commitment to treat your information with respect and in accordance with this Privacy Policy. Under no circumstances will Company sell or share any personal information about you to or with any person or organization except (i) as authorized by you, (ii) as described in the relevant portion of Company’s Website and/or Terms of Use, (iii) in connection with providing various products and/or services to you, (iv) to third parties on an aggregated, non-identifiable basis, (v) as may be required by law or court order, or (vi) as otherwise set forth herein (collectively, the "Permitted Uses"). The Website, any Inventables mobile applications and/or above-described services are referred to herein, collectively, as the "Services". The Privacy Policy below describes the standards we adhere to in handling information about you and any personal information you submit through the Services.
 
@@ -18,7 +18,8 @@
   2. Information we may collect through the Website
   3. How your information is used
   4. Cookies and tracking technology
-  5. Altering the information you submit through the Website
+  5. Reviewing, Correcting and Removing Your Personal Information
+  6. Altering the information you submit through the Website
 
 
 
@@ -30,7 +31,7 @@ Company makes the Website available for general information and opportunities to
 
 ##### 2\. Information We Collect.
 
-There are various areas within the Website or Services where you may be asked to enter information. In addition, when you use access the Website Company may receive and record information on our server logs from your computer or mobile platform, which may include your location. We do not sell or share any personal information about you to or with any person or organization except for the Permitted Uses. In addition, and not in limitation of the foregoing and subject to restrictions imposed under applicable law, information you enter through the Services may be shared with third party service providers with which Company has entered into a business relationship in order to make the Services available. In addition, Company may sell or disclose information gathered within the Services to third parties on an aggregated, non-identifiable basis.
+You are free to explore the Websites without providing any Personal Information. There are various areas within the Website or Services where you may be asked to enter information. In addition, when you use access the Website Company may receive and record information on our server logs from your computer or mobile platform, which may include your location. We do not sell or share any personal information about you to or with any person or organization except for the Permitted Uses. In addition, and not in limitation of the foregoing and subject to restrictions imposed under applicable law, information you enter through the Services may be shared with third party service providers with which Company has entered into a business relationship in order to make the Services available. In addition, Company may sell or disclose information gathered within the Services to third parties on an aggregated, non-identifiable basis.
 
 **(a) Information we receive from you.** To use certain portions of the Website and/or to make certain purchases, you may need to provide certain information which may include, without limitation, your name, address, date of birth, phone number, e-mail address, credit card information and possibly other information.
 
@@ -42,13 +43,25 @@ There are various areas within the Website or Services where you may be asked to
 
 **(e) Information collected other sections of the Website.** Company may, from time to time, make various resources available to you within the Website. At times we may collect personal information in connection with providing such services.
 
-##### 3\. How your information is used.
+##### 3\. How your information is used and shared.
 
 We use the information you provide to make the Website and Services available to you. Company may, subject to any restrictions imposed by applicable law, also share certain aggregated data with other third parties for general marketing and demographic purposes; however, this data does not include any of your personal identifying information.
 
 Some portions of the Services may be offered in conjunction with partner companies, affiliates or other companies or websites with which we work. In order for us make these features available within the Services, it may be necessary for us to share your personal information with one of such entities. These parties are not allowed to use personally identifiable information except for the purpose of making such features available through the Services. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular feature.
 
 In addition, Company may disclose account or other personal information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with Company’s rights or property, the Services, other users or anyone else that could be harmed by such activities.
+
+Company may use your personal information to make automated decisions.
+
+**(a) International Transfer of Information**
+
+To facilitate our global operations, we may transfer and access Personal Information from around the world, including the United States. If you are in the European Union, or other regions with laws governing data collection and use, by providing your personal data to us, you consent to the transfer to, processing, and storage of your personal information in the United States and other countries, the privacy laws of which may be considered less strict than those of your region. This consent applies in addition to other legal grounds for transfer, processing and storage of your Personal Information, such as for contract fulfillment purposes.
+
+To the extent that Inventables is deemed to transfer Personal Information outside of the European Union we rely separately, alternatively, and independently on the following legal bases to transfer your information:
+
+**(b) Model Clauses**
+
+The European Commission has adopted standard contractual clauses (also known as Model Clauses), which provide safeguards for personal information that is transferred outside of Europe. We often use these Model Clauses when transferring personal information outside of Europe. You can request a copy of our Model Clauses by emailing support@inventables.com.
 
 ##### 4\. Cookies and Tracking Technology
 
@@ -60,13 +73,30 @@ When you upload photographs to the Website, those files may contain location inf
 
 We may permit third party ad networks, social media companies, and other third party services to collect information about browsing behavior from visitors to our Service through cookies, social plug-ins or other tracking technology. We may permit third party online advertising networks to collect information about your use of our Website over time so that they may play or display ads that may be relevant to your interests on our Service as well as on other websites or services. Typically, the information is collected through cookies or similar tracking technologies. The only way to completely “opt out” of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device. Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. (To learn more about cookies, clear gifs/web beacons and related technologies and how you may opt-out of some of this tracking, you may wish to visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or the Network Advertising Initiative’s online resources, at [http://www.networkadvertising.org](http://www.networkadvertising.org/)). Depending on your mobile device, you may not be able to control tracking technologies through settings.
 
-##### 5\. Altering Information You Submit.
+##### 5\. Reviewing, Correcting and Removing Your Personal Information
+
+If you provide us with your Personal Information, you have the following rights with respect to that information:
+
+  * To review the user information that you have supplied to us
+  * To request that we correct any errors, outdated information, or omissions in user information that you have supplied to us
+  * To request that your user information not be used to contact you
+  * To request that your user information be removed from any solicitation list that we use
+  * To request that your user information be deleted from our records
+  * To opt out of being solicited by the Websites or third parties
+
+
+
+To exercise any of these rights, please contact us at privacy@inventables.com or by mail to Inventables, Inc., 328 S. Jefferson St., Suite 260, Chicago, IL 60661, Attention: Privacy. We will promptly change, correct, or delete your information.
+
+Without prejudice to any other administrative or judicial remedy, you shall have the right to complain to a supervisory authority, in particular in the Member State of your place of residence, employment or the place of the alleged infringement, if you believe that the processing of the personal data is violating the GDPR.
+
+##### 6\. Altering Information You Submit.
 
 **(a) Deleting your information.** Federal and state regulations may require that we store questions or submissions for various periods of time. In order to comply with these regulations, we may be unable to delete information from our databases.
 
 **(b) Altering Information.** Company may alter, modify or delete any information you submit through the Website if it believes, in its sole discretion, it is necessary or desirable to do so.
 
-**(c) Request to stop receiving emails from us.** Periodically, Company may send you emails to alert you to various new features within the Services. If you do not wish to receive any of these offers, please send an e-mail to help@inventables.com to remove yourself from our mailing list.
+**(c) Request to stop receiving emails from us.** Periodically, Company may send you emails to alert you to various new features within the Services. If you do not wish to receive any of these offers, please send an e-mail to support@inventables.com to remove yourself from our mailing list.
 
 * * *
 
@@ -97,6 +127,69 @@ The Company does not respond to Do Not Track signals and/or other mechanisms tha
 ##### Links
 
 The Website may contain links to other websites or applications that are owned and operated by third parties that are not affiliated with us. When you use those links, you leave the Website and we are unable to control how the owners of the websites or applications you link to handle any information they gather about you, including their privacy practices. This Privacy Policy applies only to the Website and does not govern activities on linked websites or applications.
+
+* * *
+
+##### PRIVACY STATEMENT FOR DATA SUBJECTS WHOSE PERSONAL INFORMATION MAY BE COLLECTED IN THE EUROPEAN UNION
+
+**EU General Data Protection Regulation (“GDPR”).** Inventables, as global brand, may interact and, either directly or indirectly, process personal information from individuals within the European Economic Area (“EEA”) and transfer personal information from individuals (“Data Subjects”) located within the EEA. Personal information that may be collected by us from a Data Subject in the EEA may include:
+
+  * NAME
+  * ADDRESS
+  * PHONE NUMBER
+  * EMAIL ADDRESS
+  * BUSINESS NAME
+  * BUSINESS ADDRESS
+  * PAYMENT INFORMATION
+  * OTHER DATA ELEMENTS
+
+
+
+Information that we collect may be transferred outside of the EEA, including to countries, such as the United States, which have not been deemed as having “adequate” security measures by the European Commission.
+
+**Lawful Grounds to Process and Obtain Consent.** Data subjects whose personal information is collected in the EEA may withdraw consent at any time where consent is the lawful basis for processing his/her information. Should a Data Subject withdraw consent for processing or otherwise object to processing that impedes Inventables’ ability to comply with applicable regulations, the Data Subject may be unable to avail him/herself of the services that Inventables provides.
+
+**Data Subjects’ Rights.** All individuals whose personal information is held by Inventables have the right to:
+
+  * ask what information Inventables holds about them and why;
+  * ask for a copy of such information or access to such information;
+  * be informed how to correct or keep that information up to date; and
+  * be informed on how Inventables is meeting its data protection obligations.
+
+
+
+Furthermore, for data collected in the EEA, data subjects have the right to:
+
+  * ask for a copy of such information to be sent to a third party;
+  * ask for data to be erased if possible and required under the GDPR;
+  * ask for processing of personal information to be restricted if possible and required under GDPR;
+  * object to processing of personal information if possible and required under GDPR;
+  * object to automated decision-making where applicable; and
+  * contact a supervisory authority in the EEA to lodge a complaint regarding Inventables’ processing of your personal information.
+
+
+
+**AUTOMATED DECISION-MAKING.** Inventables will not engage in automated decision-making activities.
+
+**NON-DISCLOSURE OF INFORMATION.** Inventables does not share any personal information with any nonaffiliated third parties, except in the following circumstances:
+
+  * as necessary to provide the service that the customer has requested or authorized, or to maintain and service the customer’s account;
+  * as required by regulatory authorities or law enforcement officials who have jurisdiction over Inventables and its affiliates or as otherwise required by any applicable law; and
+  * to the extent reasonably necessary to prevent fraud and unauthorized transactions.
+
+
+
+Inventables personnel are prohibited, either during or after termination of their employment, from disclosing personal information to any person or entity outside Inventables, including family members, except under the circumstances described above. An Inventables employee is permitted to disclose personal information only to such other employees who need to have access to such information to deliver our services to the customer.
+
+**Inventables Contact Information for Persons Located Within the EEA.** If you are located in the European Economic Area (“EEA”) or Switzerland and have questions or concerns regarding the processing of your personal information, you may contact our EU Representative at: privacy@inventables.com; or write to us at:
+
+Attn: Privacy  
+328 S. Jefferson St., Ste 206  
+Chicago, IL  
+USA  
+
+
+If, as an EEA Citizen, you believe that Inventables has not adequately resolved any such issues, you have the right contact the applicable EU Data Protection Supervisory Authority.
 
 * * *
 
