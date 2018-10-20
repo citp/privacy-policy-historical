@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the mature-gloryhole.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609171704id_/http%3A//www.mature.nl/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mature-gloryhole.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020042233id_/http%3A//www.mature.nl/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy Problem Master BV
 
-Fast Online Marketing LLC  
-1 Progress Plz, Suite 18  
-St. Petersburg FL 33701  
-USA
+Problem Master B.V.
 
 This privacy policy discloses the privacy practices for mature.nl. This privacy policy applies solely to information collected by this web site. This page was last updated on July 7th 2016.
 
