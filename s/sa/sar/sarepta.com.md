@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the sarepta.com privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713153055id_/https%3A//www.sarepta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarepta.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020233426id_/https%3A//www.sarepta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sarepta Therapeutics
 
-## Sarepta Website Privacy Policy
-
-#### Last modified: December 5, 2016
-
 ### INTRODUCTION
 
-Sarepta Therapeutics, Inc. (" **Sarepta** ", " **Company** " or " **We"** ) respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit [**www.sarepta.com**](https://web.archive.org/web/20170713153055id_/https%3A//www.sarepta.com/), [**http://www.duchenne.com/**](http://www.duchenne.com/) or any social media site, mobile sites, or online application owned and/or operated by the Company, including any content, functionality and services offered on or through these sites or channels (our "Websites") and our practices for collecting, using, maintaining, protecting and disclosing that information.
+Sarepta Therapeutics, Inc. (" **Sarepta** ", " **Company** " or " **We"** ) respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit [ **www.sarepta.com**](https://www.sarepta.com/), [ **http://www.duchenne.com/**](http://www.duchenne.com/) or any social media site, mobile sites, or online application owned and/or operated by the Company, including any content, functionality and services offered on or through these sites or channels (our "Websites") and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This policy applies to personal (i.e., individually identifiable) and other information we may collect:
 
@@ -36,7 +32,7 @@ It is our policy to post any changes we make to our privacy policy on this page.
 
 ### CHILDREN UNDER THE AGE OF 13
 
-No one under age 13 may provide information on our Websites. Our Websites are not directed at children under 13. If you are under 13, and would like to access our Websites and the information and services we provide, please consult your parent or guardian and ask him or her to register or use our Website features on your behalf. If you believe we have any information from or about a child under 13 without parental or guardian consent, please contact us at [**websiteadmin@sarepta.com**](mailto:websiteadmin@sarepta.com) so that we may identify and delete that information.
+No one under age 13 may provide information on our Websites. Our Websites are not directed at children under 13. If you are under 13, and would like to access our Websites and the information and services we provide, please consult your parent or guardian and ask him or her to register or use our Website features on your behalf. If you believe we have any information from or about a child under 13 without parental or guardian consent, please contact us at [ **websiteadmin@sarepta.com**](mailto:websiteadmin@sarepta.com) so that we may identify and delete that information.
 
 ### INFORMATION WE COLLECT ABOUT YOU AND HOW WE COLLECT IT
 
@@ -53,26 +49,26 @@ We collect several types of information from and about users of our Websites, in
 
 We collect information about you:
 
-  * Directly from you when you post it on any of our Websites or otherwise provide it to us via our Websites, ( _e.g.,_ by completing online forms on our Websites (e.g., registration forms on our Websites for our services)), or by mail, email, fax, or phone.
+  * Directly from you when you post it on any of our Websites or otherwise provide it to us via our Websites, ( _e.g.,_  by completing online forms on our Websites (e.g., registration forms on our Websites for our services)), or by mail, email, fax, or phone.
   * Automatically as you navigate through our Websites through cookies and other tracking technologies described below.
   * From third parties such as our business partners and agents.
 
 
 
-_Information Collected Automatically_
+Information Collected Automatically
 
 The information about you that we collect automatically does not identify you personally, but rather only by reference to the device you use to access our Websites. This information tells us about your usage of our Websites, which helps us to improve our Websites and to deliver a better and more personalized service to you. By enabling us to take into account your Website usage patterns and preferences, this information helps us to customize our Websites according to your individual interests, to speed up your searches, and to recognize you when you return to our Websites.
 
 The technologies we use for this automatic data collection may include:
 
-  * **Cookies (browser or flash cookies).** A browser cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. Certain features of our Websites may also use local stored objects (or flash cookies) to collect and store information about your preferences and navigation to, from and on our Websites. You are able to limit access of flash cookies to your computer with add-ons and other tools available online. If you limit access of cookies, you may be unable to access certain parts of our Websites. Unless you have adjusted your settings so that it will refuse cookies, our system will issue cookies when you direct your browser to our Websites.
-  * **Web Beacons.** Pages of our Websites and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+  * **Cookies (browser or flash cookies).**  A browser cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. Certain features of our Websites may also use local stored objects (or flash cookies) to collect and store information about your preferences and navigation to, from and on our Websites. You are able to limit access of flash cookies to your computer with add-ons and other tools available online. If you limit access of cookies, you may be unable to access certain parts of our Websites. Unless you have adjusted your settings so that it will refuse cookies, our system will issue cookies when you direct your browser to our Websites.
+  * **Web Beacons.**  Pages of our Websites and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
 
 
 
 Although the information we collect automatically does not personally identify you, we may link that information to information that does personally identify you that we otherwise collect as described in this policy.
 
-_Third-party Use of Cookies and Other Tracking Technologies_
+Third-party Use of Cookies and Other Tracking Technologies
 
 Some content or applications, including advertisements on Websites such as social medial websites, are served by third-parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our Websites. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
@@ -115,20 +111,20 @@ We may disclose personal information that we collect as described in this privac
 We may also disclose your personal information:
 
   * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
-  * To enforce or apply our [Terms of Use](https://web.archive.org/terms-use) and other agreements.
+  * To enforce or apply our [Terms of Use](https://web.archive.org/terms-use) and other agreements.
   * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Sarepta, users of our Websites or others.
 
 
 
 ### CHOICES ABOUT HOW WE USE AND DISCLOSE YOUR INFORMATION
 
-We strive to provide you with reasonable choices regarding the our collection and use of information about you. For example, you may: (1) choose not to provide personal information on our Websites, (2) set your browser preferences and use web tools available to block the cookies sent in connection with your use of our Websites, (3) follow the instructions to unsubscribe from our services included on our Websites and the communications sent to you, and/or (4) email a request to unsubscribe from our services to [websiteadmin@sarepta.com](mailto:websiteadmin@sarepta.com).
+We strive to provide you with reasonable choices regarding the our collection and use of information about you. For example, you may: (1) choose not to provide personal information on our Websites, (2) set your browser preferences and use web tools available to block the cookies sent in connection with your use of our Websites, (3) follow the instructions to unsubscribe from our services included on our Websites and the communications sent to you, and/or (4) email a request to unsubscribe from our services to [websiteadmin@sarepta.com](mailto:websiteadmin@sarepta.com).
 
 ### ACCESSING AND CORRECTING YOUR INFORMATION
 
-You may send us an e-mail at [websiteadmin@sarepta.com](mailto:websiteadmin@sarepta.com) to request access to or the correction or deletion of any personal information that you have provided to us. We may not accommodate a request to change information for several reasons, including if we believe the change would violate any law or legal requirement or cause the information to be incorrect. Proper access to and use of information provided on our Websites is governed by our [Terms of Use](https://web.archive.org/terms-use).
+You may send us an e-mail at [websiteadmin@sarepta.com](mailto:websiteadmin@sarepta.com) to request access to or the correction or deletion of any personal information that you have provided to us. We may not accommodate a request to change information for several reasons, including if we believe the change would violate any law or legal requirement or cause the information to be incorrect. Proper access to and use of information provided on our Websites is governed by our [Terms of Use](https://web.archive.org/terms-use).
 
-Kindly note that, if you delete your User-Generated Information from any of our Website, copies of your User-Generated Information may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on our Website, including User-Generated Information, is governed by our [Terms of Use](https://web.archive.org/terms-use).
+Kindly note that, if you delete your User-Generated Information from any of our Website, copies of your User-Generated Information may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on our Website, including User-Generated Information, is governed by our [Terms of Use](https://web.archive.org/terms-use).
 
 ### DATA SECURITY
 
