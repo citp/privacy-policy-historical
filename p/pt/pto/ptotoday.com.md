@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptotoday.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530132546id_/http%3A//www.ptotoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptotoday.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020225615id_/https%3A//www.ptotoday.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
