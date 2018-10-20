@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latinospost.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506001934id_/http%3A//www.latinospost.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinospost.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020210348id_/https%3A//www.latinospost.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Latinos Post
 
