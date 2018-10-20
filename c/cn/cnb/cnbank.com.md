@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the cnbank.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203000943id_/https%3A//www.cnbank.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnbank.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020090416id_/https%3A//www.cnbank.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Canandaigua National Bank & Trust
 
 ### Canandaigua National Corporation   
 Privacy Policy 
 
-Canandaigua National Corporation recognizes its customers' expectations of financial privacy, and preserving our customers' trust is one of the core values of our bank and our family of financial service companies. For over 120 years, respecting and protecting customer privacy has been vital to our business. 
+Canandaigua National Corporation recognizes its customers' expectations of financial privacy, and preserving our customers' trust is one of the core values of our bank and our family of financial service companies. For over 120 years, respecting and protecting customer privacy has been vital to our business.   
+
 
 ##### Our Security Procedures
 
-We are committed to the privacy of customer information and will use strict security standards to safeguard it. We restrict access to your personal and account information to those employees who need to know that information to provide products or services to you. All of Canandaigua National Corporation and our family of financial service companies are governed by a code of conduct that includes the commitment to protect the confidentiality of customer information. We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your nonpublic personal information. We are equally committed to protecting the privacy of customer information on the Internet. For information on the Internet security measures we apply, refer to the Internet Security at Canandaigua National Bank and Trust: What You Should Know section below. 
+We are committed to the privacy of customer information and will use strict security standards to safeguard it. We restrict access to your personal and account information to those employees who need to know that information to provide products or services to you. All of Canandaigua National Corporation and our family of financial service companies are governed by a code of conduct that includes the commitment to protect the confidentiality of customer information. We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your nonpublic personal information. We are equally committed to protecting the privacy of customer information on the Internet. For information on the Internet security measures we apply, refer to the Internet Security at Canandaigua National Bank and Trust: What You Should Know section below.   
+
 
 ##### What Information We Collect 
 
@@ -22,9 +24,7 @@ We collect only information that is needed to serve you and administer our busin
 
 
 
-##### What Information We Disclose
-
- 
+##### What Information We Disclose 
 
 We are permitted under law to share information about our experiences or transactions with you or your account (such as your account balance and your payment history with us) with companies related to us by common control or ownership (affiliates). We also may share additional information about you or your account (such as information we receive from you in applications and information from credit reporting agencies) with our affiliates. 
 
@@ -42,11 +42,9 @@ Canandaigua National Corporation's Privacy Policy and the Fair Credit Reporting 
   * CNB Mortgage Company 
   * CNB Insurance Agency
   * Canandaigua National Trust Company of Florida
-  * Genesee Valley Trust Company
 
 
 
-   
 Canandaigua National Corporation   
 72 South Main Street   
 Canandaigua, New York 14424   
@@ -54,8 +52,9 @@ Canandaigua, New York 14424
 www.cnbank.com   
 
 
-##### Internet Security at Canandaigua National Bank and Trust:   
-What You Should Know 
+##### Internet Security at Canandaigua National Bank and Trust: 
+
+What You Should Know
 
 We are equally committed to protecting the privacy of customer information on the Internet. 
 
@@ -73,7 +72,25 @@ Customers must treat their Canandaigua National Bank Internet user ID and passwo
 
 Canandaigua National Bank will continually look for new advances in security technology and will modify its architecture to ensure that we provide the highest level of privacy and safety for our customers. 
 
-##### AdWords Remarketing / Cookies 
+##### 
+
+Canandaigua National Bank & Trust Online Accessibility Statement  
+
+If you have difficulty accessing features or functions on this website, fill out a [contact us form](https://web.archive.org/Your_Bank/Contact_Us/ "contact us form") or call us at 585-394-4260 ext. 0 during regular business hours and we will work with you to provide the information you seek. 
+
+Our goal is to permit customers to successfully gather information and conduct business through our website and other technology platforms. Canandaigua National Bank & Trust has taken steps and is devoting resources to promote accessibility.  
+We have engaged outside vendors and consultants for this purpose. Specific items our vendors and consultants have addressed or are addressing include –  
+
+
+  * Use of headings, lists, paragraphs, and other formatting features on www.cnbank.com so guests can more easily use the site 
+  * Use of functionality that operates through a keyboard interface without requiring specific timings for individual keystrokes
+  * Pages, sites, and apps with a consistent structure to ease navigation 
+  * When choosing colors and site design we consider the issue of contrast to promote the accessibility of images and text
+  * Designating responsibility for ensuring and promoting the accessibility of our website and other technologies.   
+
+
+
+##### AdWords Remarketing / Cookies
 
 Adwords Remarketing is a Remarketing and Behavioral Targeting service provided by Google. We, or our service providers, and other companies we work with may deploy and use cookies, web beacons, local shared objects and other tracking technologies for various purposes, such as fraud prevention and monitoring our advertising and marketing campaign performance. Some of these tracking tools may detect characteristics or settings of the specific device you use to access our online services. 
 
@@ -118,7 +135,7 @@ We also honor “Do Not Call” requests on behalf of consumers listed on the Na
 
 Many states “Do Not Call” regulations permit companies to contact their own customers even though they are on these “Do Not Call” lists. Therefore, if you are a customer, you may be contacted by us even though you are on a state or the national “do not call” list. If you do not want to be contacted by CNB even though you are a customer, simply follow the steps above to be placed on the CNB “Do Not Call” Registry and your request will be honored. 
 
-The Bank intends to comply with all federal and state do-not-call laws and regulations. If you have any questions or comments regarding the Bank's “Do-Not-Call” policy, you may also contact : 
+The Bank intends to comply with all federal and state do-not-call laws and regulations. If you have any questions or comments regarding the Bank's “Do-Not-Call” policy, you may also contact: 
 
 For more information:   
 Canandaigua National Bank and Trust   
