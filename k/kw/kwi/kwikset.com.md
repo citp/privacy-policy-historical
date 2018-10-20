@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kwikset.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708231742id_/https%3A//www.kwikset.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwikset.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020192900id_/https%3A//www.kwikset.com/privacy.aspx) for the most accurate reproduction.*
 
 # Kwikset : Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **SPECTRUM BRANDS HOLDINGS, INC. PRIVACY POLICY**
 
-This Privacy Policy (the “Policy”) is effective as of October 1, 2015.
+This Privacy Policy (the “Policy”) is effective as of May 25, 2018.
 
 This Policy describes Spectrum Brands Holdings, Inc.’s and its affiliated companies and subsidiaries (collectively “Spectrum”) practices with respect to information it collects and receives from users of this Website (the “Site”), including the types of information collected, how it is used, and with whom it is shared.
 
@@ -42,7 +42,13 @@ In addition to Cookies, for each visitor to the Site, our webserver automaticall
 
 We may use such information for purposes of system administration, to improve the design and content of the Site, and/or to enable us to personalize your Internet experience. We may also use such information in the aggregate to analyze Site usage and/or to assess the traffic to the Site.
 
-This site may have Google Analytics enabled. To find out how Google Analytics collects and processes data, read “How Google uses data when you use our partners' sites or apps” (located at www.google.com/policies/privacy/partners/).
+**THIRD PARTY COLLECTION**
+
+In addition, third parties that are not affiliated with us, including Facebook, may use Cookies, web beacons, and other storage technologies to collect or receive Automatic Information, including tracking your browsing history, from the Site and elsewhere on the internet and use that information to provide measurement services and target advertisements. We do not have control over these third party collection practices. This Site may also have Google Analytics enabled. To find out how Google Analytics collects and processes data, read “How Google uses data when you use our partners' sites or apps” (located at www.google.com/policies/privacy/partners/).
+
+If you wish to minimize information collected by Cookie or beacon, you can adjust the settings of your browsers to notify you when you receive a Cookie, which lets you choose whether or not to accept it. You can also set your browser to automatically reject any Cookies. You may also be able to install plug-ins and add-ins that serve similar functions. However, please be aware that some features and services on our Site may not work properly if Cookies and similar technologies are rejected.
+
+Alternatively, if you wish to minimize the amount of targeted advertising you receive, please visit http://www.aboutads.info. Please note that even if you choose to remove your information (opt out) you will still see advertisements while you're browsing online. However the advertisements you see may be less relevant to you.
 
 **HOW DO WE SHARE THE INFORMATION WE COLLECT?**
 
