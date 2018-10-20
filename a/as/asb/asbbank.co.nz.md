@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the asbbank.co.nz privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312180117id_/https%3A//www.asb.co.nz/legal/privacy.html%3Ffm%3Dfooter%3Alink%3Aprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asbbank.co.nz privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020073626id_/https%3A//www.asb.co.nz/legal/privacy.html%3Ffm%3Dfooter%3Alink%3Aprivacy) for the most accurate reproduction.*
 
 # Privacy | ASB
 
 ## Collection and use of information
 
-ASB recognises the importance of safeguarding your personal and financial information. As an institution offering financial services, we need to collect, hold and use personal information about you in the course of providing our products and services. We are bound by, and comply with, the Privacy Act 1993.
+ASB recognises the importance of safeguarding your personal and financial information. As an institution offering financial services, we need to collect, hold and use personal information about you in the course of providing our products and services. We are bound by, and comply with, the Privacy Act 1993. If you are located in the EU, you may have rights under the EU General Data Protection Regulation.
 
 ### Confidentiality of your information
 
 If you are a customer of ours, the section on confidentiality of your information in the relevant ASB terms and conditions will apply.
 
-If you are not a customer of ours, we collect, hold and use information about you for the purposes for which you provided it. Your personal information (as defined in the Privacy Act 1993) is collected and held by ASB at ASB North Wharf, 12 Jellicoe Street, Auckland. You have rights of access to, and correction of, your personal information held by us. You do not have to provide us with information we request, though it may affect which products or services we can provide you with.  
+If you are not a customer of ours, ASB Bank Limited (ASB North Wharf, 12 Jellicoe Street, Auckland) collects, holds and uses information (as more fully addressed below) about you for the purposes for which you provided it. Where you choose to participate in a survey and volunteer to provide your personal information, your information will be collected, held, used and disclosed so that we can administer or design our products and services, conduct market research or statistical analysis. We collect your personal information either directly or from others, such as our service providers. Generally, we hold your personal information in New Zealand. It may be held on our behalf by service providers (including cloud based storage providers) in New Zealand or overseas. You have rights of access to, and correction of, your personal information held by us. You do not have to provide us with information we request, though it may affect which products or services we can provide you with.  
 
 
 We use technology in order to offer you the most convenient, secure and relevant services. An example of the technology that we use is a "cookie".
@@ -22,19 +22,15 @@ We use cookies for a number of purposes, including to maintain the secure connec
 You may be able to configure your browser to notify you when you are offered a cookie and decide whether or not to accept it. You may choose not to accept cookies when browsing our websites. However, you may be unable to log on to our secure services without accepting the cookies outlined above.  
 
 
-## Third party partners and analytics
-
 We promote our products and services on our websites and mobile apps. Third party vendors, including Google, show our advertisements on sites throughout the internet. Both us and these vendors may use cookies, separate to those required to maintain secure connections, to assist in serving the most relevant available ASB advertisements to you based on your prior visits to our websites and mobile apps. You do not need to accept these cookies to transact with us and you can opt out of Google's use of cookies by visiting the [Google Analytics Opt-out page](https://tools.google.com/dlpage/gaoptout/).  
 
 
-Throughout our public websites, the [Google Universal Analytics system](https://support.google.com/analytics/?hl=en) is used to measure anonymised site activity, associating multiple sessions across multiple devices. We also use other tools in order to understand and optimise user experiences, including but not limited to Google's Remarketing feature, [Facebook's Remarketing feature](https://developers.facebook.com/docs/ads-for-websites), [Adobe Analytics](http://www.adobe.com/nz/solutions/digital-analytics.html), [Adobe Target](http://www.adobe.com/nz/marketing-cloud/testing-targeting.html), [Survey Monkey](https://www.surveymonkey.com/), [Weirdly](https://www.weirdlyhub.com/), [NZME](http://advertising.nzme.co.nz/) and [SAS Intelligent Advertising](http://www.sas.com/en_nz/software/customer-intelligence/ad-server.html).
+Throughout our public websites, the [Google Universal Analytics system](https://support.google.com/analytics/?hl=en) is used to measure anonymised site activity, associating multiple sessions across multiple devices. We also use other tools in order to understand and optimise user experiences, including but not limited to Google's Remarketing feature, [Facebook's Remarketing feature](https://developers.facebook.com/docs/ads-for-websites), [Adobe Analytics](http://www.adobe.com/nz/solutions/digital-analytics.html), [Adobe Target](http://www.adobe.com/nz/marketing-cloud/testing-targeting.html), [Medallia Digital](https://www.medallia.com/solutions/digital/), [Survey Monkey](https://www.surveymonkey.com/), [Weirdly](https://www.weirdlyhub.com/), [NZME](http://advertising.nzme.co.nz/), [SAS Intelligent Advertising](http://www.sas.com/en_nz/software/customer-intelligence/ad-server.html) and [Google reCAPTCHA](https://www.google.com/recaptcha/intro/v3beta.html#the-recaptcha-advantage).
 
 ### External websites
 
 While our websites may hyperlink to various third party websites, we are not responsible for the privacy practices of those websites and/or the reliability of the information published on those websites.  
 
-
-## ASB Virtual Branch Facebook Application
 
 When you allow the ASB Virtual Branch Application permission to access your profile, we are accessing information that's set by you to be viewed 'by everyone' in your security settings.
 
@@ -44,21 +40,3 @@ We have no access to information that you have set on your profile to be seen on
 
 When you authorise the ASB Virtual Branch Application, you give the application permission to post one message to your Facebook Wall when the application is initially installed. Any subsequent posts are controlled by you (you can click ‘share’ or ‘like’ to post a message about the ASB Virtual Branch to your Wall).  
 
-
-#### Enquire online
-
-Tell us how we can help and one of our team will get back to you.
-
-[Ask a question](https://www.asb.co.nz/GeneralEnquiry/?email=customerService)
-
-#### Call us
-
-We're here to take your call 24 hours a day.
-
-[0800 803 804](tel:0800 803 804)
-
-#### Visit a branch
-
-Visit us at one of our many branches across New Zealand.
-
-[Find a branch](https://www.asb.co.nz/location)
