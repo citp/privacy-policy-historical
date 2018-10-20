@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the designtrends.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220221026id_/https%3A//www.designtrends.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designtrends.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020110908id_/https%3A//www.designtrends.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DesignTrends
+
+[](https://www.designtrends.com/)
+
+Privacy Policy | DesignTrends
 
 This privacy policy describes how Designtrends.com uses and protects any information provided by the user while using the website.
 
