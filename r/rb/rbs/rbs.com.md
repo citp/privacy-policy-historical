@@ -1,92 +1,113 @@
-> *The following text is extracted and transformed from the rbs.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512024434id_/http%3A//www.rbs.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbs.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020182734id_/https%3A//www.rbs.com/rbs/sustainability/customer-focused/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy | RBS
 
-Generally, we only collect personal information when you apply for products or carry out transactions with us (for example on our website). We generally let you know at the time of collection how we will use that personal information. For details of how we process your personal information, please refer to your product terms and conditions. Please also refer to the section below headed "Information relating to customers and persons applying for products".
+We understand our customers not only trust us with their finances, but also with their information.
 
-## Information relating to customers and persons applying for products 
+So we take privacy and the protection of customer, client and staff data very seriously and our colleagues across the bank continue to work closely together to ensure the bank protects its customers' information. We endeavour to ensure we balance protecting customers' information while also giving them options as to how they want to share and access their information (for example, the ability to use third-party aggregation apps).
 
-If you are an existing customer or apply for a product, details of how we process your personal information will be contained in the relevant application form and product terms and conditions. However, please note the following:
+The bank has been working to deliver compliance with the new General Data Protection Regulation (GDPR), in preparation for the deadline on 25 May 2018. In addition, we are closely monitoring the impact of the Brexit negotiations on our privacy obligations, as well as cross- border data flows and are liaising with industry bodies as appropriate.
 
-Your information comprises all the details we hold about you and your transactions, and includes information obtained from third parties.
+We continue to maintain a close and open working relationship with our privacy regulators, including the Information Commissioner's Office (ICO) in the UK. The bank engages with the ICO proactively, liaising with the regulator on key projects and developments.
 
-## Who we share your information with 
+We care about being transparent and ensuring our customers can access the information we hold about them. We have seen an increase in volume of Subject Access Requests __ compared to 2016, with the bank receiving more than 3.5 million from 1 January to 31 October 2017.  The vast majority of these were PPI  related information requests, an average of more than 372,000 per month (or 520 per month excluding PPI requests).
 
-We may use and share your information with other members of the Group to help us and them:
+The statistics below show the number of Requests for Assessments (RFAs) that the bank has received from the ICO. We are pleased that the numbers, considering the overall size of our customer base remain very low, including in particular the number of complaints that are ultimately upheld by the ICO.
 
-  * assess financial and insurance risks
-  * recover debt
-  * prevent and detect crime
-  * understand our customers' requirements, or
-  * develop and test products and services.
+  | 
+
+**2016**
+
+(full year)
+
+| 
+
+**2017**
+
+(full year)  
+  
+---|---|---  
+  
+Total no of RFAs recieved
+
+| 
+
+59
+
+| 
+
+50  
+  
+Number upheld
+
+| 
+
+32
+
+| 
+
+18  
+  
+Uphold Rate %
+
+| 
+
+54%
+
+| 
+
+36%  
+  
+#### Glossary 
+
+#### 
+
+General Data Protection Regulation (or “GDPR”)
+
+| 
+
+The regulation contains the new regulatory framework which regulates the processing of personal data within the European Union, setting out the ways in which information about living individuals may legally be collected, used and handled.  
+  
+---|---  
+  
+Information Commissioner’s Office (or “ICO”)
+
+| 
+
+The ICO is the UK’s independent authority, set up to uphold information rights in the public interest, promoting openness by public bodies and data privacy for individuals.
+
+There are equivalent regulators in other EU Member States.  
+  
+PPI
+
+| 
+
+Payment Protection Insurance is a type of insurance product that enables a customer to insure repayment of credit should the customer become unable to make payments (e.g. through illness or loss of employment).  
+  
+Requests for Assessment (or “RFA”)
+
+| 
+
+The ICO may issue a Request for Assessment to organisations if it has concerns about that organisation’s compliance with applicable data protection legislation (e.g. if a customer makes a complaint).  
+  
+Subject Access Request ( or “SAR”)
+
+| 
+
+A SAR is a written request from an individual to see information an organisation holds about them. Organisations must provide the information subject to very limited exemptions.  In the UK, organisations must currently provide the information within 40 days of receipt of the request and can charge a maximum of £10 to respond to such requests.  
+  
+#### We welcome the changes to European data protection rules
+
+We’ve setup a bank-wide plan to make all the changes we need by May 2018.
+
+We’ll be changing the privacy notices we send to our customers:
+
+  * They’ll be clearer.
+  * They’ll give customers more choices for how we use their information.
+  * They’ll be better suited to the different ways our customers engage with us – both in person and through our apps.
 
 
 
-We do not disclose your information to anyone outside the Group except:
+##### * A Subject Access Request is a written request from an individual to see information an organisation holds about them. Organisations must provide the information subject to very limited exemptions.  In the UK, organisations must provide the information within 40 days of receipt of the request and can charge a maximum of £10 to respond to such requests.
 
-  * where we have your permission, or
-  * where we are required or permitted to do so by law, or
-  * to credit reference and fraud prevention agencies and other companies that provide a service to us or you, or
-  * where we may transfer rights and obligations under our agreement(s) with you, or
-  * to government entities or regulatory bodies in order that those entities may discharge their responsibilities and obligations or exercise their powers or functions.
-
-
-
-We may transfer your information to other countries on the basis that anyone to whom we pass it provides an adequate level of protection. However, such information may be accessed by law enforcement agencies and other authorities to prevent and detect crime and comply with legal obligations.
-
-## Using our website 
-
-You can visit our website without telling us who you are or revealing any information about yourself. We measure and analyse non-identifying, aggregate usage data in order to administer the site, and to constantly improve the quality of our service and site performance.
-
-We may use the personal information you provide, or which we collect via this website, for the purpose of providing more relevant content to you.
-
-We also work with third parties to evaluate the effectiveness of our advertising and promotions on other websites.
-
-## Cookies
-
-Cookies are small text files placed on your computer and are commonly used on the internet.
-
-We use them to:
-
-  * collect anonymous information that will help us understand visitors' browsing habits on our website
-  * compile statistical reports on website activity, e.g. number of visitors and the pages they visit
-  * temporarily store any information which you may enter in tools, such as calculators or demonstrations on our website
-  * in some cases, remember information about you when you visit our site. We may need to do this to provide some of our services.
-
-
-
-We do not use cookies to track your use of the internet after you leave our sites, nor do we store any personal information in them that others could read and understand.
-
-## Our use of cookies
-
-We use two types of cookie:
-
-**Session cookies**
-
-These are temporary and are deleted as soon as you close your browser.
-
-**Persistent cookies**
-
-These are stored on your computer until they expire or you remove them.
-
-Persistent cookies store your personal preferences such as your language preferences on multi-lingual sites to make subsequent visits easier. They also remember questions we have asked you previously, such as a request to complete an online survey. A persistent cookie will prevent you from being asked to complete the same survey every time you visit the website.
-
-**Third party cookies**
-
-We work with third parties who, on our behalf, research the use of our website and activities on it. In doing so they may place a cookie on your computer. However it would not contain any personal information that others could read and understand.
-
-We also work with third parties to evaluate the effectiveness of our advertising and promotions on third party websites. Again, the cookie would not contain any personal information that others could read and understand.
-
-## Accepting or rejecting cookies
-
-You can configure your internet browser to warn you each time a new cookie is about to be stored on your computer so that you may make a decision whether to accept or reject it.
-
-Please refer to your internet browser's help section for specific instructions.
-
-Please note that some parts of our website may not function properly if you reject cookies.
-
-## Further information about cookies
-
-The [Interactive Advertising Bureau](http://www.allaboutcookies.org/) is an industry body that has produced a series of web pages which explain how cookies work and how they can be managed.
-
-For details of how we process your personal information, please refer to your product terms and conditions.
+##### ** The ICO may issue a Request for Assessment to organisations if it has concerns about that organisation’s compliance with applicable data protection legislation (e.g. if a customer makes a complaint).
