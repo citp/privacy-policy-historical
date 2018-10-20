@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ragingbull.com privacy policy that was archived on 2017-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170718133142id_/https%3A//ragingbull.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragingbull.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020084803id_/https%3A//ragingbull.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RagingBull
 
