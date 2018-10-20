@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redlobster.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331114827id_/https%3A//www.redlobster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redlobster.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020225107id_/https%3A//www.redlobster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice | Red Lobster Seafood Restaurants
 
@@ -40,35 +40,33 @@ This Privacy Notice describes the types of information we collect on the Service
 
 13\. Glossary Of Tracking Technology Terminology
 
-##  _ **1\. Information We Collect**_
+  1. ##  _ **Information We Collect**_
 
- **(a) Information About You That You Provide.**
+    1. ###  **Information About You That You Provide.**
 
  **** **Personal Information and Demographic Information**.  On the Service, we may ask you to provide us with certain categories of information such as: (1) personally identifiable information, which is information that identifies you personally, such as your first and last name, e-mail address, phone number and home address (“ **Personal Information** ”); and (2) demographic information, such as information about your gender, age, household income, employment status, nutritional preferences, and media preferences (“ **Demographic Information** ”).  We may collect this information through various forms and in various places on the Service, including registration forms, contact us forms, or when you otherwise interact with the Service.  Except to the extent required by applicable law, Demographic Information is “ **Non-Personal Information** ” (i.e., data that is not Personal Information under this Privacy Notice). In addition, Personal Information, including, without limitation, Personal Information Red Lobster collects directly from you on the Service (“ **Red Lobster-Collected PI** ”), once “de-identified” (i.e., the removal of personal identifiers from data to make it no longer personally identifiable) is also non-Personal Information and may be used and shared without obligation to you, except as prohibited by applicable law. 
 
- **(b) Information Collected or Stored As You Access and Use the Service.**
+    2. ###  **Information Collected or Stored As You Access and Use the Service.**
+
+  
+
 
 Red Lobster, its Service Providers (defined below), and/or Third-Party Services may also automatically collect certain information about you when you access or use the Service (“ **Usage Information** ”). Usage Information may include IP address, device identifier, browser type, operating system, information about your use of the Service, and data regarding network connected hardware (e.g., computer or mobile device, each a “ **Device** ”).  Except to the extent required by applicable law, or to the extent Usage Information is combined by or on behalf of Red Lobster with Red Lobster-Collected PI, Red Lobster does not consider Usage Information (including, without limitation, unique identifiers (“ **UIDs** ”)) to be Personal Information or Red Lobster-Collected PI. For more information on Third-Party Services and Service Providers’ data collection and practices, see Section 3 below.  For information on choices some of these third parties may offer you regarding automated data collection, see Section 10 below. 
 
 The methods that may be used on the Service to collect Usage Information include:
 
-  *  **Log Information** : Log information is data about your use of the Service, such as IP address, browser type, Internet service provider, referring/exit pages, operating system, date/time stamps, and related data, and may be stored in log files. 
-  *  **Information Collected by Cookies and Other Tracking Technologies** :  Cookies, web beacons (also known as “tracking pixels”), embedded scripts, location-identifying technologies, fingerprinting, device recognition technologies, in-app tracking methods and other tracking technologies now and hereafter developed (“Tracking Technologies”) may be used to collect information about interactions with the Service or e-mails, including information about your browsing and purchasing behavior.  See Section 13 for a glossary of tracking technology terminology.
+      *  **Log Information** : Log information is data about your use of the Service, such as IP address, browser type, Internet service provider, referring/exit pages, operating system, date/time stamps, and related data, and may be stored in log files. 
+      *  **Information Collected by Cookies and Other Tracking Technologies** :  Cookies, web beacons (also known as “tracking pixels”), embedded scripts, location-identifying technologies, fingerprinting, device recognition technologies, in-app tracking methods and other tracking technologies now and hereafter developed (“Tracking Technologies”) may be used to collect information about interactions with the Service or e-mails, including information about your browsing and purchasing behavior.  See Section 13 for a glossary of tracking technology terminology.
 
+Some information about your use of the Service and certain Third-Party Services may be collected using Tracking Technologies across time and services, and used by Red Lobster and third parties for purposes such as to associate different devices you use, and deliver relevant ads and/or other content to you on the Service and certain Third-Party Services.  See Section 10 regarding certain choices regarding these activities.
 
+Your browser settings may allow you to automatically transmit a “Do Not Track” signal to online services you visit. Note, however, there is no consensus among industry participants as to what “Do Not Track” means in this context. Like many online services, Red Lobster currently does not alter Red Lobster’s practices when Red Lobster receives a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” you can visit [http://www.allaboutdnt.com Opens in a new Window](http://www.allaboutdnt.com/), but Red Lobster is not responsible for the completeness or accuracy of this third party information.  Some third parties, however, may offer you choices regarding their Tracking Technologies, as more fully explained in Section 10.  For Canadian Services see Section 7(b).
 
-Some information about your use of the Service and certain Third-Party Services may be collected using Tracking Technologies across time and services, and used by Red Lobster and third parties for purposes such as to associate different devices you use, and deliver relevant ads and/or other content to you on the Service and certain Third-Party Services.  See Section 10 regarding certain choices regarding these activities.  
-
-Your browser settings may allow you to automatically transmit a “Do Not Track” signal to online services you visit. Note, however, there is no consensus among industry participants as to what “Do Not Track” means in this context. Like many online services, Red Lobster currently does not alter Red Lobster’s practices when Red Lobster receives a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” you can visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/), but Red Lobster is not responsible for the completeness or accuracy of this third party information.  Some third parties, however, may offer you choices regarding their Tracking Technologies, as more fully explained in Section 10.  For Canadian Services see Section 7(b).
-
-
-
-
- **(c) Information Third Parties Provide About You.**
+    3. ###  **Information Third Parties Provide About You.**
 
 We may receive information about you from your friends and others that use the Service, such as when they submit content to us or post on the Service.  Additionally, Red Lobster may, from time to time, also obtain information about you from other sources, including Service Providers and Third-Party Services, and combine that with Red Lobster-Collected PI for various purposes, including to enhance our ability to serve you, to tailor our content to you and to offer you opportunities that may be of interest to you.  Notwithstanding anything to the contrary, except to the extent such data combined by or on behalf of Red Lobster with Red Lobster-Collected PI, this Privacy Notice is not intended to limit Red Lobster’s activities regarding such third-party-sourced, or non-Service-sourced, information (including Personal Information) and limitations on Red Lobster’s activities regarding Red Lobster Collected PI (e.g., on sharing) described in this Privacy Notice do not apply to such data.  For Canadian Services, see Section 7(b).
 
- **(d) Third-Party Content and Services.**
+    4. ###  **Third-Party Content and Services.**
 
 The Service may include functionality that allows certain kinds of interactions between the Service and a third-party web site, platform, tool, application or other service, and accessing or display of third-party content via the Service (“ **Third-Party Service(s)** ”).  The use of Third-Party Services may involve the third-party operator thereof (“ **Third-Party Operator** ”) providing certain information, including Personal Information, to us.  For example, when you register with the Service, you may have an option to use your Facebook, Google or other account provided by a third-party site or application to facilitate the registration and log-in or transaction process on the Service, or otherwise link accounts.  In addition, you may be able to access our Service, your account and/or Service content via a third party platform, site, app or other service, and those Third-Party Operators may collect Personal Information and other data about you in connection therewith, and may provide some or all of it to us.
 
@@ -78,32 +76,29 @@ In addition, we may provide Third-Party Services’ interfaces or links on the S
 
 When you use Third-Party Services, you are using the services of Third-Party Operators and not our Service and you should review the applicable third party privacy policies before using such Third-Party Services in connection with our Service.  For more information on Third-Party Services and the policies and activities of Third-Party Operators see Section 3.  See Section 10 for more on certain choices offered by some third parties regarding their data collection and use.
 
- **  (e) Information You Provide About a Third Party.**
+    5. ###  **Information You Provide About a Third Party.**
 
 You may send someone else a communication from the Service, such as sending an invitation to a friend.  If so, the information you provide (names, e-mail addresses, etc.) is used to facilitate the communication and is not used by us for any other marketing purpose unless we obtain consent from that person or we explicitly say otherwise.  Please be aware that when you use any send-to-a-friend functionality on our Service, your contact information, name or user name and message may be included in the communication sent to your addressee(s).  For such functionality through our Canadian Services, see also Section 7(b).  Some of these tools may be third-party tools subject to third-party privacy policies as further detailed in this Section 1 and Section 3.
 
-##  _ **2\. How We Use The Information We Obtain**_  
+  2. ##  _ **How We Use The Information We Obtain**_  
 
 
 We may use your Personal Information, Demographic Information, Red Lobster-Collected PI or Usage Information that we collect about you:  (1) to operate the Service,  provide you with information, including sending you promotional materials (see Section 10 regarding communications options), or services or process transactions with you; (2) to improve the Services or create new service offerings, to customize your experience on any of the Services, or to serve you specific content that is most relevant to you; (3) to contact you with regard to your use of any of the Services and, in our discretion, changes to the any of the Services  and/or any of the Services’ terms or policies; (4) for internal business purposes; and (5) for purposes disclosed at the time you provide your information or as otherwise set forth in this Privacy Notice or as otherwise required or permitted by applicable law.  Without limiting the generality of the forgoing, we may use the information we obtain through the Service to: 
 
-  * Create and manage your account;
-  * Customize your visits to the Service, including (i) specifically targeting relevant advertisements, offers or content to you; (ii) understanding the usefulness of the advertisements or content that have been delivered to you; (iii) allowing you to comment or add content to the Service; and (iv) using your location information to display offers or verify certain actions;
-  * Process and collect payments for gift cards;
-  * Analyze your purchase data and use it to credit your rewards account and to provide you with other offers or promotions;
-  * Communicate about, and administer your participation in, special events, programs, surveys, contests, sweepstakes, and other offers or promotions;
-  * Respond to and communicate with you about your requests, questions and comments;
-  * Manage your application for employment with Red Lobster and contact you in connection with potential employment opportunities; 
-  * Process claims we receive in connection with our products and services;
-  * Operate, evaluate and improve our business (including developing new products and services; managing our communications; identifying users of our Service; determining the effectiveness of our sales, marketing and advertising; analyzing and enhancing our products, services and Service; and performing accounting, auditing, billing, reconciliation and collection activities); 
-  * Administer the Service, and diagnose technical and service problems;
-  * Perform data analyses and other processing (including market and consumer research, trend analysis, financial analysis, de-identification, encryption and tokenization of Personal Information); 
-  * Protect against, identify and prevent fraud and other criminal activity, claims and other liabilities and harms; and
-  * Comply with and enforce applicable legal requirements, relevant industry standards and our policies.
-
-
-
-##  _ **3\. Third-Party Services, Social Features, Advertising and Analytics**_
+    * Create and manage your account;
+    * Customize your visits to the Service, including (i) specifically targeting relevant advertisements, offers or content to you; (ii) understanding the usefulness of the advertisements or content that have been delivered to you; (iii) allowing you to comment or add content to the Service; and (iv) using your location information to display offers or verify certain actions;
+    * Process and collect payments for gift cards;
+    * Analyze your purchase data and use it to credit your rewards account and to provide you with other offers or promotions;
+    * Communicate about, and administer your participation in, special events, programs, surveys, contests, sweepstakes, and other offers or promotions;
+    * Respond to and communicate with you about your requests, questions and comments;
+    * Manage your application for employment with Red Lobster and contact you in connection with potential employment opportunities; 
+    * Process claims we receive in connection with our products and services;
+    * Operate, evaluate and improve our business (including developing new products and services; managing our communications; identifying users of our Service; determining the effectiveness of our sales, marketing and advertising; analyzing and enhancing our products, services and Service; and performing accounting, auditing, billing, reconciliation and collection activities); 
+    * Administer the Service, and diagnose technical and service problems;
+    * Perform data analyses and other processing (including market and consumer research, trend analysis, financial analysis, de-identification, encryption and tokenization of Personal Information); 
+    * Protect against, identify and prevent fraud and other criminal activity, claims and other liabilities and harms; and
+    * Comply with and enforce applicable legal requirements, relevant industry standards and our policies.
+  3. ##  _ **Third-Party Services, Social Features, Advertising and Analytics**_
 
 The Service may include hyperlinks to, or include on or in connection with, the Service (e.g., apps and plug-ins), Third-Party Service(s) as more fully described in Section 1(d). For example, if you “click” on a link, the “click” may take you off the Service onto a different site.  We encourage you to note when you leave our Service.  The Third-Party Operators of these Third-Party Services may use their own cookies, web beacons, and other Tracking Technology to independently collect information about you and may solicit Personal Information from you.  When you use Third-Party Services, you are using their services and not our Service and they, not we, are responsible for their practices.  You should review the applicable third party privacy policies before using such Third-Party Services in connection with our Service, including before submitting any Personal Information to such Third-Party Services. 
 
@@ -117,47 +112,48 @@ Except to the extent Red Lobster combines information from Service Providers, Th
 
 Red Lobster is not responsible for and makes no representations regarding the policies or business practices of any third parties, including, without limitation, analytics Service Providers and Third-Party Services associated with the Service, and encourages you to familiarize yourself with and consult their privacy policies and terms of use.  See Section 10 for more on certain choices offered by some third parties regarding their data collection and use, including regarding Interest-based Advertising and analytics.
 
-We may share non-Personal Information (including UIDs), such as aggregated user statistics, as well as Personal Information, including Red-Lobster Collected PI hereunder, with third parties for any purpose not prohibited by applicable law or inconsistent with this Privacy Notice or any other commitment made by us at the time of collection (e.g., an opt-in or opt-out choice).  See Section 7(a) for opt-out information.  California and Canadian residents have additional rights set forth in Section 7.
+  4. We may share non-Personal Information (including UIDs), such as aggregated user statistics, as well as Personal Information, including Red-Lobster Collected PI hereunder, with third parties for any purpose not prohibited by applicable law or inconsistent with this Privacy Notice or any other commitment made by us at the time of collection (e.g., an opt-in or opt-out choice).  See Section 7(a) for opt-out information.  California and Canadian residents have additional rights set forth in Section 7.
 
 If we de-identify data about you, it is not treated as Personal Information by us, and we may share it with others freely.  We also may disclose information about you, including Personal Information and Red Lobster-Collected PI, except as prohibited by applicable law: (i) if we are required to do so by law, regulation or legal process (such as a court order or subpoena), (ii) in response to requests by government agencies, such as law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.  In addition, we may share the information we have collected about you, including Personal Information, as disclosed at the time you provide your information.  Without limiting the generality of the forgoing, we may disclose your information as follows:
 
- **(a) When You Request Information From or Provide Information to Third Parties.**
+    1. ###  **When You Request Information From or Provide Information to Third Parties.**
 
 You may be presented with an option on our Service to receive certain information and/or marketing offers directly from third parties or to have us send certain information to third parties or give them access to it or to otherwise consent to the sharing of Red Lobster-Collected PI with a third party.  If you choose to do so, your Personal Information and other information may be disclosed to such third parties and all information you disclose will be subject to the third-party privacy policies and practices of such third parties.  In addition, third parties may store, collect or otherwise have access to your information when you interact with their Tracking Technologies, content, tools apps or ads on our Service or link to them from our Service.  This may include using third-party tools such as Facebook, Twitter, Pinterest or other third-party posting or content sharing tools and by so interacting you consent to such third party practices.  We are not responsible for the privacy policies and practices of such third parties and, therefore, you should review such third-party privacy policies and practices of such third parties prior to requesting information from or otherwise interacting with them. 
 
- **(b) Third Parties Providing Services on Our Behalf.**
+    2. ###  **Third Parties Providing Services on Our Behalf.**
 
  ****We may use third-party vendors to perform certain services on behalf of us or the Service, such as hosting the Service, designing and/or operating the Service’s features, tracking the Service’s activities and analytics, and enabling us to send you special offers or perform other administrative services.  We may provide these agents, vendors, consultants, and other service providers (“ **Service Providers** ”) with access to your information, including, without limitation, Personal Information (including Red Lobster-Collected PI), Demographic Information, and Usage Information, to carry out the services they are performing for you or for us.  Red Lobster does not authorize its Service Providers to use Red Lobster-Collected PI provided by Red Lobster to the Service Providers to send you direct marketing messages other than related to our Affiliates (defined below) absent your consent.  Third-party analytics and other Service Providers may set and access their own Tracking Technologies on your Device and they may otherwise collect or have access to information about you, potentially including Personal Information, about you.
 
- **(c) To Protect the Rights of Red Lobster and Others.**
+    3. ###  **To Protect the Rights of Red Lobster and Others.**
 
 To the fullest extent not prohibited by applicable law, we may also disclose your information if we believe in good faith that doing so is necessary or appropriate to: (i) protect or defend the rights, safety or property of Red Lobster or third parties (including through the enforcement of this Privacy Notice, our Terms of Use available at [www.RedLobster.com](https://web.archive.org/terms-conditions) and at [www.RedLobster.ca](http://www.redlobster.ca/terms-conditions) and other applicable agreements and policies); or (ii) comply with legal and regulatory obligations (e.g., pursuant to law enforcement inquiries, subpoenas or court orders).  To the fullest extent not prohibited by applicable law, we have complete discretion in electing to make or not make such disclosures, and to contest or not contest requests for such disclosures, all without notice to you.  
 
- **(d) Affiliates and Business Transfer.**
+    4. ###  **Affiliates and Business Transfer.**
 
 As permitted by applicable law, we may share your information, including your UIDs, Red Lobster-Collected PI and Personal Information, Demographic Information and Usage Information with our parent, subsidiaries and affiliates (“ **Affiliates** ”).  We also reserve the right to disclose and transfer all such information: (i) to a subsequent owner, co-owner or operator of the Service or applicable database; or (ii) in connection with a merger, consolidation, restructuring, liquidation, the sale of substantially all of our interests and/or assets or other corporate change, including, during the course of any related due diligence process (“ **Corporate Transactions** ”).
 
- **(e) Sweepstakes, Contests and Promotions.**
+    5. ###  **Sweepstakes, Contests and Promotions.**
 
 We may offer sweepstakes, contests, and other promotions (any, a “Promotion”) through the Service that may require registration.  By participating in a Promotion, you are agreeing to official rules that govern that Promotion, which may contain specific requirements of you, including, allowing the sponsor of the Promotion to use your name, voice and/or likeness in advertising or marketing associated with the Promotion.  If you choose to enter a Promotion, Personal Information (including Red Lobster-Collected PI) may be disclosed to third parties or the public in connection with the administration of such Promotion, including, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion’s official rules, such as on a winners list.  
 
- **  (f) EEOC / Affirmative Action Reporting.**
+    6. ###  **EEOC / Affirmative Action Reporting.**
 
 In conjunction with laws and regulations enforced by the Equal Employment Opportunity Commission (“ **EEOC** ”), the U.S. Office of Federal Contract Compliance Programs (“ **OFCCP** ”) and similar state and local regulatory agencies, we may ask you to provide us with self-identifying information (such as veteran status, gender and ethnicity).  Providing such self-identifying information is voluntary, but if you do provide us with such information, we may submit that information, to the EEOC, the OFCCP and similar state and local regulatory agencies or otherwise use or disclose it for business-related purposes, including, without limitation, responding to information requests, fulfilling regulatory reporting requirements and defending against employment related complaints.
 
-##  _ **5\. Information You Disclose Publicly Or To Others**_
+  5. ##  _ **Information You Disclose Publicly Or To Others**_
 
 The Service may permit you to submit ideas, photographs, user profiles, writings, music, video, audio recordings, computer graphics, pictures, data, questions, comments, suggestions or other content, including Personal Information, for public availability or otherwise to third parties (collectively, “ **User Content** ”), such as on message boards and comment sections.  We or others may store, display, reproduce, publish, distribute or otherwise use User Content online or offline in any media or format (currently existing or hereafter developed) and may or may not attribute it to you.  Others may have access to this User Content and may have the ability to share it with third parties.  If you choose to submit User Content to any public area of the Service, your User Content will be considered “public” and will be accessible by anyone, including Red Lobster, and we may also publish your name, voice, likeness and other Personal Information that is part of such User Content, and as permitted by applicable law we may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities.   
 
 Please think carefully before deciding what information you share, including Personal Information, in connection with your User Content.  Please note that Red Lobster does not control who will have access to the information that you choose to make public, and cannot ensure that parties who have access to such publicly available information, or to whom you send User Content, will respect your privacy or keep it secure.  We are not responsible for the privacy or security of any information that you choose to make publicly available on the Service or what others do with information you choose to share with them on the Service.  We are not responsible for the accuracy, use or misuse of any User Content that you disclose or receive from third parties through the Service.  California minors should see Section 9 of this Privacy Notice regarding removal of certain content they have posted.
 
-##  _ **6\. International Transfer**_
+  6. ##  _ **International Transfer**_
 
 Our Service, other than our Canadian Services, is operated in the United States and intended for users located in the United States only.  Our Canadian Services are operated in the United States and Canada and intended for users located in Canada only.  If you are located outside of the United States, please be aware that the information we collect, including Personal Information, will be transferred to, and processed, stored and used in the United States.  The data protection laws in the United States may differ from those of the country in which you are located, and your Personal Information may be subject to access requests from governments, courts, or law enforcement in the United States according to laws of the United States.  By using the Service or providing us with any information, you consent to the transfer to, and processing, usage, sharing and storage of your information, including Personal Information, in the United States as set forth in this Privacy Notice.   **If you are a resident of Canada, you may have additional rights in connection with our Canadian Services as explained in Section 7(b).**
 
-##  _ **7\. Notice To Residents Of California And Canada**_
+  7. ##  _ **Notice To Residents Of California And Canada**_
 
- **(a) Your California Privacy Rights.**
+ 
+    1. ### **Your California Privacy Rights.**
 
 California’s “Shine the Light” law permits customers in California to request certain details about how certain types of their information are shared with third parties and, in some cases, affiliates, for those third parties’ and affiliates’ own direct marketing purposes. Under the law, a business should either provide California customers certain information upon request or permit California customers to opt in to, or opt out of, this type of sharing.
 
@@ -165,7 +161,10 @@ Red Lobster provides California residents with the option to opt-in or opt-out t
 
 Red Lobster discloses its tracking practices (including across time and third-party sites) and its practices regarding “Do not track” signals in in Section 1(b) above, and California minors’ rights to certain removal of their posts in Section 9 below.
 
- **(b) Notice to Canadian Residents.  **
+    2. ###  **Notice to Canadian Residents.  **
+
+  
+
 
  **For purposes of our Canadian Services, the following provisions of this Section 7(b) shall apply, and shall govern in the event of a conflict with the rest of this Privacy Notice:**
 
@@ -179,17 +178,17 @@ Your Personal Information may be maintained, processed and/or accessed on our be
 
 We will not disclose, trade, rent, sell or otherwise transfer your Personal Information, except for the specific purposes set out in this Privacy Notice, additional privacy notices on our Canadian Services, as you may otherwise consent, or as otherwise required or permitted by applicable law.  We have Personal Information retention processes designed to retain Personal Information for no longer than necessary for the purposes for which such information was collected or to otherwise meet legal requirements.
 
-We may, and we may use third parties to, serve advertisements on our Canadian Services. We and these companies may use Tracking Technologies such as cookies, tracer tags, web beacons to report certain information about your visits to our Canadian Services and third-party online services (such as web pages you visit and your response to ads) in order to measure the effectiveness of our marketing campaigns and to deliver ads that are more relevant to you, both on and off our Canadian Services. To learn more Interest-based Advertising in Canada, or to opt-out of Interest-based Advertising by companies participating in the Digital Advertising Alliance of Canada, visit <http://youradchoices.ca/choices>
+We may, and we may use third parties to, serve advertisements on our Canadian Services. We and these companies may use Tracking Technologies such as cookies, tracer tags, web beacons to report certain information about your visits to our Canadian Services and third-party online services (such as web pages you visit and your response to ads) in order to measure the effectiveness of our marketing campaigns and to deliver ads that are more relevant to you, both on and off our Canadian Services. To learn more Interest-based Advertising in Canada, or to opt-out of Interest-based Advertising by companies participating in the Digital Advertising Alliance of Canada, visit <http://youradchoices.ca/choices>[ Opens in a new Window](http://youradchoices.ca/choices)
 
 If you use the “Email a Friend” or other similar features on our Canadian Services to send email to others, please ensure that you only submit email addresses of individuals with whom you have a personal or family relationship and who would want to receive the message. You have the right to access, update, and correct inaccuracies in your Personal Information (as defined under Canadian privacy legislation) in our custody and control, subject to certain exceptions prescribed by law. You may request access, updating and corrections of inaccuracies by sending a letter to Red Lobster Management LLC, Attn: Compliance and Ethics Office, 450 S. Orange Ave., Suite 800, Orlando, FL 32801-3383, or email at [ComplianceEthics@RedLobster.com](mailto:ComplianceEthics@RedLobster.com), or call by calling our Canadian Privacy Compliance Coordinator at 844-755-3425, ext. 2.  Any such written request must include “Canadian Privacy Rights Request” in the first line of the description, include your name, street address, city, province, and postal code and explain your request in detail.  We may request certain Personal Information for the purposes of verifying the identity of the individual seeking access to their Personal Information records.  You may also contact us as set out above if you have any questions or comments about the privacy practices related to our Canadian Services or otherwise have a question or compliant about the manner in which we or our Service Providers treat Personal Information collected in connection with our Canadian Services or our policies and practices with respect to our Service Providers related to our Canadian Services located outside of Canada. 
 
-##  _ **8\. Data Security And Monitoring**_
+  8. ##  _ **Data Security And Monitoring**_
 
 We maintain reasonable administrative, technical and physical safeguards designed to help protect Personal Information against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.  However, no data transmission over the Internet, mobile networks, wireless transmission or electronic storage of information can be guaranteed to be 100% secure.  
 
 To help protect you and others, Red Lobster and its Service Providers may (but make no commitment to) monitor use of the Service, and may collect and use related information, including Red Lobster-Collected PI and other Personal Information, as permitted or required by applicable law and not inconsistent with this Privacy Notice (or a differing privacy notice we have provided at the point of data collection), including, without limitation, to identify fraudulent activities and transactions; prevent abuse of and investigate and/or seek prosecution for any potential threats to or misuse of the Service; ensure compliance with our Terms of Use available at [www.RedLobster.com](https://web.archive.org/terms-conditions) and at [www.RedLobster.ca](http://www.redlobster.ca/terms-conditions) and this Privacy Notice; investigate violations of or enforce these agreements; and otherwise to protect the rights and property of Red Lobster, its Affiliates, and customers.  Monitoring may result in the collection, recording, and analysis of online activity or communications through our Service.  If you do not consent to these conditions, discontinue your use of the Service.
 
-##  _ **9\. Children’s Privacy**_
+  9. ##  _ **Children’s Privacy**_
 
 We understand the importance of protecting children’s privacy in the interactive world.  We are a general audience service and do not use the Service to knowingly collect personal information from children under the age of thirteen (13) that requires parental notice and consent under the Children’s Online Privacy Protection Act (“ **COPPA** ”) without such parental consent.  If you are a child under thirteen (13) years of age, you are not permitted to use the Service and should not send any information about yourself to us through the Service.  
 
@@ -197,39 +196,42 @@ In the event that we become aware that we have collected personal information fr
 
 Any California residents under the age of eighteen (18) who have registered to use the Service, and who have posted content or information on the Service, can request that such information be removed from the Service by contacting us at making such a request by sending a letter to Red Lobster Management LLC, Attn: Compliance and Ethics Office, 450 S. Orange Ave., Suite 800, Orlando, FL 32801-3383.  Any such request should include “California Minor Privacy Rights Request” in the first line of the description, include your name, street address, city, state and ZIP code, and state that you are under 18 years of age, personally posted content on the Service you would like removed pursuant to your rights under CA law, and where the content or information is posted. We will make reasonable good faith efforts to remove the post from prospective public view or anonymize it so the minor cannot be individually identified. This removal process cannot ensure complete or comprehensive removal. For instance, third-parties may have republished the post and archived copies of it may be stored by search engines and others that we do not control.
 
-##  _ **10\. Choices: Tracking And Communications Options**_
+  10. ##  _ **Choices: Tracking And Communications Options**_
 
- **(a) Tracking Technologies Generally.**
+    1. ###  **Tracking Technologies Generally.**
 
-Regular cookies may generally be disabled or removed by tools available as part of most commercial browsers, and in some instances blocked in the future by selecting certain settings.  Browsers offer different functionalities and options so you may need to set them separately.  Also, tools from commercial browsers may not be effective with regard to Flash cookies (also known as locally shared objects), HTML5 cookies, or other Tracking Technologies.  For information on disabling Flash cookies, go to Adobe’s website <http://helpx.adobe.com/flash-player/kb/disable-third-party-local-shared.html>.  Please be aware that if you disable or remove these technologies, some parts of the Service may not work and that when you revisit the Service your ability to limit browser-based Tracking Technologies is subject to your browser settings and limitations.  
+  
+
+
+Regular cookies may generally be disabled or removed by tools available as part of most commercial browsers, and in some instances blocked in the future by selecting certain settings.  Browsers offer different functionalities and options so you may need to set them separately.  Also, tools from commercial browsers may not be effective with regard to Flash cookies (also known as locally shared objects), HTML5 cookies, or other Tracking Technologies.  For information on disabling Flash cookies, go to Adobe’s website [http://helpx.adobe.com/flash-player/kb/disable-third-party-local-shared.html  Opens in a new Window](http://helpx.adobe.com/flash-player/kb/disable-third-party-local-shared.html).  Please be aware that if you disable or remove these technologies, some parts of the Service may not work and that when you revisit the Service your ability to limit browser-based Tracking Technologies is subject to your browser settings and limitations.  
 
 App-related Tracking Technologies in connection with non-browser usage (e.g., most functionality of a mobile app) can only be disabled by uninstalling the app.  To uninstall an app, follow the instructions from your operating system or handset manufacturer.
 
-One way to potentially identify cookies on our web site is to add the free Ghostery plug-in to your browser ([www.ghostery.com](https://www.ghostery.com/)), which according to Ghostery will display for you traditional, browser-based cookies associated with the web sites (but not mobile apps) you visit and privacy and opt-out policies and options of the parties operating those cookies.  Red Lobster is not responsible for the completeness or accuracy of this tool or third party choice notices or mechanisms.   For Red Lobster-specific information on some of the choice options offered by third party analytics and advertising providers, see the next section.
+One way to potentially identify cookies on our web site is to add the free Ghostery plug-in to your browser ([www.ghostery.com Opens in a new Window](https://www.ghostery.com/)), which according to Ghostery will display for you traditional, browser-based cookies associated with the web sites (but not mobile apps) you visit and privacy and opt-out policies and options of the parties operating those cookies.  Red Lobster is not responsible for the completeness or accuracy of this tool or third party choice notices or mechanisms.   For Red Lobster-specific information on some of the choice options offered by third party analytics and advertising providers, see the next section.
 
- **(b) Analytics and Advertising Tracking Technologies.**
+    2. ###  **Analytics and Advertising Tracking Technologies.**
 
-You may exercise choices regarding the use of cookies from Google Analytics by going to https://tools.google.com/dlpage/gaoptout or downloading the Google Analytics Opt-out Browser Add-on.  You may exercise choices regarding the use of cookies from Adobe Analytics by going to <http://www.adobe.com/privacy/opt-out.html> under the section labeled “Tell our customers not to measure your use of their websites or tailor their online ads for you.”
+You may exercise choices regarding the use of cookies from Google Analytics by going to https://tools.google.com/dlpage/gaoptout or downloading the Google Analytics Opt-out Browser Add-on.  You may exercise choices regarding the use of cookies from Adobe Analytics by going to <http://www.adobe.com/privacy/opt-out.html>[ Opens in a new Window](http://www.adobe.com/privacy/opt-out.html) under the section labeled “Tell our customers not to measure your use of their websites or tailor their online ads for you.”
 
-You may choose whether to receive some Interest-based Advertising by submitting opt-outs.  Advertisers and Service Providers that perform advertising-related services for us and our partners in connection with our U.S. Services may participate in the Digital Advertising Alliance’s (“DAA”) Self-Regulatory Program for Online Behavioral Advertising.  To learn more about how you can exercise certain choices regarding Interest-based Advertising, visit <http://www.aboutads.info/choices/>, and <http://www.aboutads.info/appchoices> for information on the DAA’s opt-out program for mobile apps.  Some of these companies may also be members of the Network Advertising Initiative (“NAI”). To learn more about the NAI and your opt-out options for their members, see <http://www.networkadvertising.org/choices/>.  Please be aware that, even if you are able to opt out of certain kinds of Interest-based Advertising, you may continue to receive other types of ads.  Opting out only means that those selected members should no longer deliver certain Interest-based Advertising to you, but does not mean you will no longer receive any targeted content and/or ads (e.g., from other ad networks).  Also, if your browsers are configured to reject cookies when you visit these opt-out webpages, or you subsequently erase your cookies, use of a different device or web browsers or use a non-browser-based method of access (e.g., mobile app), your NAI / DAA browser-based opt-out may not, or may no longer, be effective.  Red Lobster supports the U.S. ad industry’s **2009 Self-regulatory Principles for Online Behavioral Advertising** [http://www.iab.net/media/file/ven-principles-07-01-09.pdf (PDF)](http://www.iab.net/media/file/ven-principles-07-01-09.pdf) and expects that ad networks Red Lobster directly engages to serve you Interest-based Advertising in connection with our U.S. Services will do so as well, though Red Lobster cannot guaranty their compliance. Red Lobster is not responsible for effectiveness of, or compliance with, any third-parties’ opt-out options or programs or the accuracy of their statements regarding their programs.   **For additional information regarding Interest-based Advertising in connection with our Canadian Services, and the Canadian opt-out options available, see Section 7(b) above.**
+You may choose whether to receive some Interest-based Advertising by submitting opt-outs.  Advertisers and Service Providers that perform advertising-related services for us and our partners in connection with our U.S. Services may participate in the Digital Advertising Alliance’s (“DAA”) Self-Regulatory Program for Online Behavioral Advertising.  To learn more about how you can exercise certain choices regarding Interest-based Advertising, visit <http://www.aboutads.info/choices/>[ Opens in a new Window](http://www.aboutads.info/choices/), and <http://www.aboutads.info/appchoices>[ Opens in a new Window](http://www.aboutads.info/appchoices) for information on the DAA’s opt-out program for mobile apps.  Some of these companies may also be members of the Network Advertising Initiative (“NAI”). To learn more about the NAI and your opt-out options for their members, see <http://www.networkadvertising.org/choices/>[ Opens in a new Window](http://www.networkadvertising.org/choices/).  Please be aware that, even if you are able to opt out of certain kinds of Interest-based Advertising, you may continue to receive other types of ads.  Opting out only means that those selected members should no longer deliver certain Interest-based Advertising to you, but does not mean you will no longer receive any targeted content and/or ads (e.g., from other ad networks).  Also, if your browsers are configured to reject cookies when you visit these opt-out webpages, or you subsequently erase your cookies, use of a different device or web browsers or use a non-browser-based method of access (e.g., mobile app), your NAI / DAA browser-based opt-out may not, or may no longer, be effective.  Red Lobster supports the U.S. ad industry’s **2009 Self-regulatory Principles for Online Behavioral Advertising** [http://www.iab.net/media/file/ven-principles-07-01-09.pdf  Opens in a new Window(PDF)](http://www.iab.net/media/file/ven-principles-07-01-09.pdf) and expects that ad networks Red Lobster directly engages to serve you Interest-based Advertising in connection with our U.S. Services will do so as well, though Red Lobster cannot guaranty their compliance. Red Lobster is not responsible for effectiveness of, or compliance with, any third-parties’ opt-out options or programs or the accuracy of their statements regarding their programs.   **For additional information regarding Interest-based Advertising in connection with our Canadian Services, and the Canadian opt-out options available, see Section 7(b) above.**
 
- **(c) Mobile Apps.**
+    3. ###  **Mobile Apps.**
 
 Our Apps are only intended for U.S. residents and will only function as intended in connection with certain participating restaurants located in the U.S.  With respect to Red Lobster’s Apps, you can stop all collection of data generated by use of the App by uninstalling the App.  Also, you may be able to exercise Red Lobster app privacy choices, such as enabling or disabling certain location-based services, by adjusting the permissions in your mobile device and/or in the App itself.  See also the prior section regarding the DAA’s mobile Interest-based Advertising choices.
 
- **(d) Communications.**
+    4. ###  **Communications.**
 
  ****You can opt out of receiving certain promotional communications (emails or text messaging) from Red Lobster at any time by (i) for promotional e-mails, following the instructions provided in emails to click on the unsubscribe link, or if available by changing your communication preferences by logging onto your account; and (ii) for promotional text messages, following the instructions provided in text messages from Red Lobster to reply text the word, “STOP”.  Please note that your opt-out is limited to the e-mail address or phone number used and will not affect subsequent subscriptions.  If you opt-out of only certain communications, other subscription communications may continue.  Even if you opt out of receiving promotional communications, Red Lobster may, subject to applicable law, continue to send you non-promotional communications, such as those about your account, transactions, servicing, or Red Lobster’s ongoing business relations.   **Our e-mail and text messaging activities in connection with our Canadian Services are subject to applicable Canadian law that provides differing rights and responsibilities than apply under U.S. law.  See Section 7(b) for additional information on our Canadian Services privacy practices.**
 
- **(e) Account / Profile Information and Information Retention.**
+    5. ###  **Account / Profile Information and Information Retention.**
 
 We may provide you with account or profile tools that allow you to update or change Personal Information you have provided to us.  When so available, we will make good faith efforts to make the changes. You can also contact us as set forth in Section 12.  However, such changes will not immediate and may not apply to all databases.  Also, notwithstanding anything to the contrary, we reserve the right to maintain records of your Personal Information and other data for so long as we deem so to be appropriate, except to the extent prohibited by applicable law.
 
-##  _ **11\. Updates To Our Privacy Notice**_
+  11. ##  _ **Updates To Our Privacy Notice**_
 
 We reserve the right to change this Privacy Notice at any time to reflect changes in our practices.  As permitted by applicable law, any changes will be effective immediately upon the posting of the revised Privacy Notice and your use of our Service indicates your consent to the Privacy Notice posted at the time of use.  To the extent any provision of this Privacy Notice is found by a competent tribunal to be invalid or unenforceable, such provision shall be severed to the extent necessary for the remainder to be valid and enforceable.
 
-If you have any questions about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us at [ComplianceEthics@RedLobster.com](mailto:ComplianceEthics@RedLobster.com) or by phone at 844-755-3425, ext. 2.  You also may write to us at:
+  12. If you have any questions about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us at [ComplianceEthics@RedLobster.com](mailto:ComplianceEthics@RedLobster.com) or by phone at 844-755-3425, ext. 2.  You also may write to us at:
 
 Red Lobster Management LLC  
 Attn: Compliance and Ethics Office  
@@ -240,32 +242,35 @@ If you are contacting us about our Canadian Services, or are otherwise a Canadia
 
 Please note that information submitted to any of the Services via a “Contact Us” or other similar customer inquiry function may not receive a response.  We will not use the information provided by you in a customer inquiry communication to contact you for marketing purposes unrelated to your request unless you agree otherwise. 
 
-##  _ **13\. Glossary Of Tracking Technology Terminology**_
+  13. ##  _ **Glossary Of Tracking Technology Terminology**_
 
- **(a) Cookies.**
+    1. ###  **Cookies.**
 
-A cookie is a small text file that is stored on a user’s device, which may be session ID cookies or tracking cookies. Session cookies make it easier for you to navigate the Service and expire when you close your browser. Tracking cookies remain longer and help in understanding how you use the Service, and enhance your user experience. Cookies may remain on your hard drive for an extended period of time. If you use your browser’s method of blocking or removing cookies, some but not all types of cookies may be deleted and/or blocked and as a result some features and functionalities of the Service may not work.  A Flash cookie (or locally shared object) is a data file which may be placed on a device via the Adobe Flash plug-in that may be built-in to or downloaded by you to your device.  HTML5 cookies can be programmed through HTML5 local storage. Flash cookies and HTML 5 cookies are locally stored on your device other than in the browser and browser settings won’t control them.  To identify certain types of local shared objects on your computer and adjust your settings, please visit: [www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).  The Service may associate some or all of these types of cookies with your devices.
+A cookie is a small text file that is stored on a user’s device, which may be session ID cookies or tracking cookies. Session cookies make it easier for you to navigate the Service and expire when you close your browser. Tracking cookies remain longer and help in understanding how you use the Service, and enhance your user experience. Cookies may remain on your hard drive for an extended period of time. If you use your browser’s method of blocking or removing cookies, some but not all types of cookies may be deleted and/or blocked and as a result some features and functionalities of the Service may not work.  A Flash cookie (or locally shared object) is a data file which may be placed on a device via the Adobe Flash plug-in that may be built-in to or downloaded by you to your device.  HTML5 cookies can be programmed through HTML5 local storage. Flash cookies and HTML 5 cookies are locally stored on your device other than in the browser and browser settings won’t control them.  To identify certain types of local shared objects on your computer and adjust your settings, please visit: [www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html Opens in a new Window](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).  The Service may associate some or all of these types of cookies with your devices.
 
- **(b) Device Recognition Technologies.**
+    2. ###  **Device Recognition Technologies.**
 
 Technologies, including application of statistical probability to data sets, as well as linking a common unique identifier to different device use (e.g., Facebook ID), which attempt to recognize or make assumptions about users and devices (e.g., that a user of multiple devices is the same user or household).
 
- **(c) Embedded Scripts.**
+    3. ###  **Embedded Scripts.**
 
 An embedded script is programming code designed to collect information about your interactions with the Service. It is temporarily downloaded onto your computer from Red Lobster’s web server, or from a third party with which Red Lobster works, and is active only while you are connected to the Service, and deleted or deactivated thereafter.
 
- **(d) Fingerprinting.**
+    4. ###  **Fingerprinting.**
 
 Collection and analysis of information from your device, such as, without limitation, your operating system, plug-ins, system fonts, and other data, for purposes of identification and/or tracking.
 
- **(e) In-App Tracking Methods.**
+    5. ###  **In-App Tracking Methods.**
 
 There are a variety of Tracking Technologies that may be included in mobile applications, and these are not browser-based like cookies and cannot be controlled by browser settings.  Some use device identifier, or other identifiers such as “Ad IDs” to associate app user activity to a particular app and to track user activity across apps.
 
- **(f) Location-identifying Technologies.**
+    6. ###  **Location-identifying Technologies.**
 
 PS (global positioning systems) software, geo-filtering and other location-aware technologies locate (sometimes precisely) your device for purposes such as verifying your location and delivering or restricting content based on your location.
 
- **(g) Web Beacons (“Tracking Pixels”).**
+    7. ###  **Web Beacons (“Tracking Pixels”).**
 
 Web beacons are small graphic images, also known as “Internet tags” or “clear gifs,” embedded in web pages and e-mail messages. Web beacons may be used, without limitation, to count the number of visitors to the Service, to monitor how users navigate the Service, and to count content views.
+
+
+
