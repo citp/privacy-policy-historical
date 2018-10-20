@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henrico.us privacy policy that was archived on 2018-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180105083812id_/https%3A//henrico.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henrico.us privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020093810id_/https%3A//henrico.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - County of Henrico, Virginia
 
@@ -64,14 +64,18 @@ We monitor our incoming Internet traffic to protect our network against incoming
 
 ## SSL
 
-All information to and from the web site is unencrypted, unless you choose to use SSL, which is available.
+All information to and from the web site is encrypted.
 
 ## Photo Usage
 
 Photographs on this website have been taken by various county employees and photographers and are not used for solicitation or advertising purposes. We use photographs taken at Henrico County locations and events which may or may not include the written permission of persons shown in the photos.
 
+## Social Media Policy
+
+[Henrico County’s Social Media Policy](https://web.archive.org/social-media-policy/)
+
 ## Updates
 
 Henrico County reserves the right to change these policies and the corresponding information on this page at any time without prior notice.
 
-_Last updated:  September 12, 2017_
+_Last updated:  September 12, 2018_
