@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonds.com.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319180907id_/https%3A//www.bonds.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonds.com.au privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020022731id_/https%3A//www.bonds.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BONDS Australia
 
@@ -14,7 +14,7 @@ The type of personal information we collect is dependent on the type of service 
 
 ### HOW WE COLLECT IT
 
-The personal information we collect is generally supplied directly by you through our Website. For example, the details you provide us when you place an order, open an account, subscribe to our emails, join a mailing list, enter a competition, submit an enquiry, or provide feedback to us. This information may also be provided directly by you to us through one of our other Bonds & Co websites (berlei.com.au, bondsoutlet.com.au, championusa.com.au, jockey.com.au and playtex.com.au) when you purchase goods from this Website and one or more of those sites using the Bonds & Co multi-cart linked to this Website. There are also certain situations in which we may collect personal information about you from someone else. For example we may collect information from third parties including public sources, our related companies, your organisation, your representatives and information service providers.
+The personal information we collect is generally supplied directly by you through our Website. For example, the details you provide us when you place an order, open an account, subscribe to our emails, join a mailing list, enter a competition, submit an enquiry, or provide feedback to us. This information may also be provided directly by you to us through one of our other Bonds & Co websites (berlei.com.au, championusa.com.au, jockey.com.au, playtex.com.au and totallytights.com.au) when you purchase goods from this Website and one or more of those sites using the Bonds & Co multi-cart linked to this Website. There are also certain situations in which we may collect personal information about you from someone else. For example we may collect information from third parties including public sources, our related companies, your organisation, your representatives and information service providers.
 
 We also receive and store certain types of information through the use of 'Cookies', when you interact with Hanes via the Internet. Cookies are alphanumeric identifiers that are placed on your computer's hard drive through your web browser. Most Internet browsers are pre-set to accept cookies. If you prefer not to receive cookies, you can adjust your Internet browser to disable or to warn you when cookies are used. We recommend that you leave your cookies enabled as they allow our systems to recognise your browser and provide quicker and easier use of our Website.
 
@@ -44,10 +44,12 @@ We will not knowingly collect information from any unsupervised person under the
 
 ### FURTHER INFORMATION
 
-The Hanes Australasia Privacy Policy contains further details about our handling of personal information, including information about how you may access or update your personal information that we hold and how we deal with your concerns. The Hanes Australasia Privacy Policy is available on request or via [www.pacificbrands.com.au](http://www.pacificbrands.com.au/).
+As permitted by applicable law, you may have a right of access, rectification and deletion of information collected about you, and the right to oppose, for legitimate reasons, the processing of this information. To exercise these rights, please contact us using the contact details below. We request that you provide us with as much detail as you can about the particular information you seek, in order to help us retrieve it. An access fee may be charged to cover our costs of providing that information to you. In certain circumstances, we may not be required by law to provide you with access or to correct your personal information. If that is the case, we will give you our reasons for that decision. Where we decide not to update your personal information, you can request us to attach to the personal information a statement of the update sought.
 
-If you have any questions or feedback about privacy, please contact our Privacy Officer at [privacyofficer@hanes.com](mailto:privacyofficer@hanes.com) or call (+61 3) 9947 4900. For information about privacy generally, or if your concerns are not resolved to your satisfaction, you may contact the Office of the Australian Information Commissioner at [www.oaic.gov.au](http://www.oaic.gov.au/) and on 1300 363 992.
+We take reasonable steps to make sure that the personal information we collect, use and disclose is accurate, complete and up-to-date.
+
+If you have any questions or feedback about privacy, please contact our Privacy Officer at [privacyofficer@hanes.com](mailto:privacyofficer@hanes.com) or call (+61 3) 8862 1400. For information about privacy generally, or if your concerns are not resolved to your satisfaction, you may contact the Office of the Australian Information Commissioner at [www.oaic.gov.au](http://www.oaic.gov.au/) and on 1300 363 992.
 
 Hanes Innerwear Australia Pty Ltd ABN 40 098 742 655
 
-Latest Revision: July 2017
+Latest Revision: March 2018
