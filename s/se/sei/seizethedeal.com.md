@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seizethedeal.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129011244id_/https%3A//www.seizethedeal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seizethedeal.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020115402id_/https%3A//www.seizethedeal.com/privacy) for the most accurate reproduction.*
 
 # Seize the Deal | Boise, ID | Savings, Coupons on Local Restaurants, Entertainment, Retail, Spas and More!
 
