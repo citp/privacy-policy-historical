@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centraldispatch.com privacy policy that was archived on 2016-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160922232146id_/https%3A//us.dealertrack.com/content/dealertrack/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centraldispatch.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020144229id_/https%3A//us.dealertrack.com/content/dealertrack/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Dealertrack: Privacy Policy
 
