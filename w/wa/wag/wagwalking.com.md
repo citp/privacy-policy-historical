@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wagwalking.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415013041id_/https%3A//wagwalking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wagwalking.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020102006id_/https%3A//wagwalking.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Wag!
 
@@ -6,13 +6,13 @@ Effective date: May 13, 2016
 
 We at Wag know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. **By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**
 
-Remember that your use of Wag's Services is at all times subject to Wag's Terms which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the Terms <https://wagwalking.com/terms>. 
+Remember that your use of Wag's Services is at all times subject to Wag's Terms which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the [Terms](https://web.archive.org/terms). 
 
 ### What does this Privacy Policy cover?
 
 This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Services, but not to the practices of companies we don't own or control, or people that we don't manage. We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below. 
 
-As noted in the Terms <https://wagwalking.com/terms>, we do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at [woofsupport@wagwalking.com](mailto:woofsupport@wagwalking.com). 
+As noted in the [Terms](https://web.archive.org/terms), we do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at [woofsupport@wagwalking.com](mailto:woofsupport@wagwalking.com). 
 
 ### Will Wag ever change this Privacy Policy?
 
@@ -60,7 +60,7 @@ We may deliver a file to you through the Services (known as a "web beacon") from
 
 **Business Transfers:** We may choose to buy or sell assets, and may share and/or transfer customer information in connection with the evaluation of and entry into such transactions. ****Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party.
 
-**Protection of Wag and Others:** We reserve the right to access, read, preserve, and disclose any information that we [reasonably] believe is necessary to comply with law or court order; enforce or apply our Terms <https://wagwalking.com/terms> and other agreements; or protect the rights, property, or safety of Wag, our employees, our users, or others. 
+**Protection of Wag and Others:** We reserve the right to access, read, preserve, and disclose any information that we [reasonably] believe is necessary to comply with law or court order; enforce or apply our [Terms](https://web.archive.org/terms) and other agreements; or protect the rights, property, or safety of Wag, our employees, our users, or others. 
 
 ### Is Personal Information about me secure?
 
