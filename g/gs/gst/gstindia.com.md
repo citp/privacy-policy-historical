@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gstindia.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602104609id_/https%3A//www.gstindia.com/disclaimer-privacy-policy-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gstindia.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020024813id_/https%3A//www.gstindia.com/disclaimer-privacy-policy-terms-of-use) for the most accurate reproduction.*
 
 # Disclaimer – Privacy Policy – Terms of use. – GST India-Goods and Services Tax in India
 
@@ -28,7 +28,7 @@ For your convenience, this website may contain hyperlinks to websites and server
 
 #### Privacy Policy
 
-This **Privacy Policy** governs the manner in which _**GSTINDIA.com**_  collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.gstindia.com website (“Site”). This privacy policy applies to the Site and all products and services offered by GST India.
+This **Privacy Policy** governs the manner in which _**GSTINDIA.com**_  collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.gstindia.com website (“Site”). This privacy policy applies to the Site and all products and services offered by GST India.
 
 1\. PERSONAL IDENTIFICATION INFORMATION
 
