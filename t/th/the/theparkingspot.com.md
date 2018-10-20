@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theparkingspot.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313051534id_/https%3A//www.theparkingspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theparkingspot.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020232308id_/https%3A//theparkingspot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,15 +6,11 @@ This Privacy Policy applies to the Websites and Apps (defined below) provided by
 
 The Websites are operated from and hosted on servers located in the United States in accordance with laws of the United States and the Apps are provided for use in the United States. Users of the Websites and Apps should be aware that the laws of the United States may differ from those of your country of residence. By using the Websites and Apps, participating in any Website or App activities, and/or providing us with your personal information, you: (i) consent to the transfers and processing of any information you provide; (ii) acknowledge that U.S. law provides a lower standard of protection for personal data than the laws of various jurisdictions including, but not limited to, the European Union; and (iii) understand that we will treat your information in accordance with our Privacy Policy and U.S. law. Consequently, you hereby waive any claims that may arise under the laws and regulations that apply to you in any other jurisdiction.
 
-Please read the following carefully to understand our policies and practices regarding your information and how we will treat it. BY USING THE WEBSITES AND BY DOWNLOADING AND/OR USING THE APPS, YOU SIGNIFY YOUR CONSENT TO THIS PRIVACY POLICY, AND ALSO SIGNIFY YOUR ACCEPTANCE OF OUR TERMS AND CONDITIONS (available at [http://www.theparkingspot.com/terms-and-conditions ) . IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS PRIVACY POLICY, YOU SHOULD NOT ACCESS, DOWNLOAD AND/OR USE THE WEBSITES AND APPS. We encourage you to review this Privacy Policy frequently, as it may change from time to time. Click here to read about how changes to this Privacy Policy will be communicated to you and made effective.](https://web.archive.org/terms-and-conditions)
-
-[
+Please read the following carefully to understand our policies and practices regarding your information and how we will treat it. BY USING THE WEBSITES AND BY DOWNLOADING AND/OR USING THE APPS, YOU SIGNIFY YOUR CONSENT TO THIS PRIVACY POLICY, AND ALSO SIGNIFY YOUR ACCEPTANCE OF OUR TERMS AND CONDITIONS (available at [http://www.theparkingspot.com/terms-and-conditions](https://web.archive.org/terms-and-conditions) ) . IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS PRIVACY POLICY, YOU SHOULD NOT ACCESS, DOWNLOAD AND/OR USE THE WEBSITES AND APPS. We encourage you to review this Privacy Policy frequently, as it may change from time to time. Click here to read about how changes to this Privacy Policy will be communicated to you and made effective.
 
 Click on one of the links below to jump to a specific section:
 
-](https://web.archive.org/terms-and-conditions)
-
-[ 1\. ](https://web.archive.org/terms-and-conditions)[Types of Information Collected](https://web.archive.org/#Types)
+1\. [Types of Information Collected](https://web.archive.org/#Types)
 
 2\. [How Information is Collected](https://web.archive.org/#HowInfo)
 
@@ -26,25 +22,23 @@ Click on one of the links below to jump to a specific section:
 
 6\. [ Online Tracking / “Do Not Track” Signals](https://web.archive.org/#Online)
 
-9\. [ Children Under 13](https://web.archive.org/#Children)
+7\. [ Children Under 13](https://web.archive.org/#Children)
 
-10\. [ External Links and Third-Party Ads ](https://web.archive.org/#External)
+8\. [ External Links and Third-Party Ads ](https://web.archive.org/#External)
 
-911\. [ Widgets and Social Media Features](https://web.archive.org/#Widgets)
+9\. [ Widgets and Social Media Features](https://web.archive.org/#Widgets)
 
-12\. [ Location Data](https://web.archive.org/#Location)
+10\. [ Location Data](https://web.archive.org/#Location)
 
-13\. [ Protection of Personal Information ](https://web.archive.org/#Protection)
+11\. [ Protection of Personal Information ](https://web.archive.org/#Protection)
 
-14\. [ Notice to California Customers - Your California Privacy Rights ](https://web.archive.org/#Notice)
+12\. [ Notice to California Customers - Your California Privacy Rights ](https://web.archive.org/#Notice)
 
-14\. [Your Choices ](https://web.archive.org/#Choices)
+13\. [Your Choices ](https://web.archive.org/#Choices)
 
-15.[ Changes to this Privacy Policy ](https://web.archive.org/#Changes)
+14\. [ Changes to this Privacy Policy ](https://web.archive.org/#changes-to-policy)
 
-16\. [ Changes to this Privacy Policy ](https://web.archive.org/#changes-to-policy)
-
-17\. [ Contact Us ](https://web.archive.org/#Contact)
+15\. [ Contact Us ](https://web.archive.org/#Contact)
 
 **1\. Types of Information Collected**
 
