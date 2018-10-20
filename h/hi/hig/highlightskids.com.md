@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the highlightskids.com privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306111623id_/https%3A//www.highlights.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highlightskids.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020155116id_/https%3A//www.highlights.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Highlights for Children
 
-Effective March 3, 2016
+Effective June 26th, 2018 
 
 ###### How Highlights Thinks About Privacy and our Privacy Policies
 
 Thank you for your interest in our privacy policies. We value your privacy and your children's safety. At Highlights for Children, we care about:
 
-  * **Protecting the privacy of children**  
+  *  **Protecting the privacy of children**  
  
-  * **Being open and honest with our customers, and**  
+  *  **Being open and honest with our customers, and**  
  
-  * **Treating personal information with care and respect**
+  *  **Treating personal information with care and respect**
 
 
 
@@ -38,7 +38,9 @@ We welcome the chance to share Highlights' wholesome Fun with a Purpose™ conte
 
 ###### Regarding customer privacy, preferences and shopping on our websites and our general website privacy policy:
 
-  * For all of our other websites that are not focused on children's use, we collect information from our website in order to improve the customer experience and to serve you better. All of our sites collect aggregate information that is non-personally identifiable. We also use "cookies" and other tracking technologies during your visit to help us understand how people use our websites. Your browser allows you to disable cookies.  
+  * For all of our other websites that are not focused on children's use, we collect information from our website in order to improve the customer experience and to serve you better. All of our sites collect aggregate information that is non-personally identifiable. We also use "cookies" and other tracking technologies during your visit to help us understand how people use our websites. Your browser allows you to disable cookies.
+
+  * For a description of your California Privacy Rights, click [here.](https://www.highlights.com/california-privacy-rights)  
  
 
   * When you make a purchase or sign up for a newsletter, you provide us information that we use to deliver the services you request, to inform you of new products, services or offers, and to provide you with updates about Highlights for Children. We take our role in holding and using this information seriously. When we select credit card processors, fulfillment and delivery companies, web services and others to help us, we select those whom we believe take security seriously. We are committed to using this information within the bounds of the law and using our best judgment. Our Terms of Use policy is incorporated by reference.  
@@ -60,11 +62,11 @@ We welcome the chance to share Highlights' wholesome Fun with a Purpose™ conte
 
 
 
-**If you have additional questions about our approach to privacy, please feel free to contact:**
+ **If you have additional questions about our approach to privacy, please feel free to contact:**
 
-**Garry Brown**
+ **Garry Brown**
 
-VP, INFORMATION SECURITY & PRIVACY
+VP, Information Security & Privacy
 
 Highlights for Children, Inc.
 
