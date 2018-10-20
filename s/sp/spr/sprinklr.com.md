@@ -1,113 +1,236 @@
-> *The following text is extracted and transformed from the sprinklr.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630003346id_/https%3A//www.sprinklr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprinklr.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020140835id_/https%3A//www.sprinklr.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-_Last Updated: February 2, 2016_.
+## Last Updated: May 15, 2018
 
-This policy covers Sprinklr’s privacy practices for our public website, accessible at [https://www.sprinklr.com](https://www.sprinklr.com/).
+_Effective as of May 25, 2018_
 
-To read policies relating to our customer’s use of the Sprinklr platform or other Sprinklr products, [please click here](https://blog.sprinklr.com/media-content/sprinklr-smms-privacy-policy "Social Media Management System Privacy Policy").
+Your privacy is extremely important to us and we are committed to fair practices that protect your personal data. We have developed this Website Privacy Policy to clearly and transparently communicate what information we collect, how we collect it and what we do with it when you access and use our websites.
 
-**We Respect the Privacy of Visitors to Our Website.**
+**Table of Contents**
 
-We have developed this website Privacy Policy to clearly and transparently communicate what information we collect, how we collect it and what we do with it.
+  1. Coverage
+  2. Controller, EU Representative and Data Protection Officer
+  3. Information We Automatically Collect
+  4. Information You Provide to Us
+    1. Newsletter
+    2. Contact Forms
+    3. Job Applications
+  5. Cookies and other tracking technologies
+  6. Website Analytics
+  7. Purposes of and Legal Basis for Processing
+  8. Data Sharing
+  9. Information Security
+  10. International Data Transfers
+  11. Retention and Deletion
+  12. Rights of the Data Subject
+  13. Notice Concerning Children’s Information
+  14. Updates to this Website Privacy Policy
+  15. Contact
 
-This website Privacy Policy applies only to the operation of websites that directly link to this policy when you click on “Privacy Policy” in the website footer.
 
-_BY REGISTERING ON OR SUBMITTING INFORMATION TO THE WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY._
 
-**TYPE OF INFORMATION WE COLLECT**
+**1\. Coverage**
 
-**Your Identifiable Information.**
+This Website Privacy Policy covers Sprinklr’s privacy practices for our corporate websites that directly link to this policy when you click on “Privacy” in the website footer.
 
-Through this website we may collect information that can identify you (“Identifiable Information”) when it is voluntarily submitted to us. Your Identifiable Information includes:
+This Website Privacy Policy does not cover the usage of the Sprinklr Customer Experience Platform and other Sprinklr products. To read policies relating to our customer’s use of the Sprinklr platform or other Sprinklr products, please refer to Sprinklr’s Social Media Management Privacy Policy. In addition, our commitment as a data processor to our customers is governed by a separate Data Processing Amendment.
 
-•    Your name;  
-•    Your address;  
-•    Your telephone number;  
-•    Your email address;  
-•    Your IP address; and,  
-•    Other similar information.
+This Website Privacy Policy also doesn’t cover third-party websites accessed via our websites. Such third-party websites are governed by the terms applicable to your relationship with that third party, and Sprinklr accepts no responsibility or liability in respect of third party websites.
 
-**Non-Identifiable Information.**
+**2\. Controller, EU Representative and Data Protection Officer**
 
-We may also automatically collect other non-identifiable information in connection with your visit to this website (“Non-Identifiable Information”). We usually collect Non-Identifiable Information through the use of cookies, web beacons or other anonymous tracking technologies (see below).
+This website is provided by Sprinklr, Inc. 29 West 35th Street, New York, Ny 10001, USA (“Sprinklr”). Sprinklr is the controller for the purposes of all applicable data protection legislation.
 
-**HOW WE COLLECT INFORMATION**
+Sprinklr’s EU representative is Sprinklr Germany, GmbH, Alter Wall 67 – 69, 20457 Hamburg, Germany. Sprinklr Germany GmbH can be contacted by email at [privacy@sprinklr.com](mailto:privacy@sprinklr.com).
 
-**Information Voluntarily Provided to Us.**
+Sprinklr’s data protection officer can be contacted at Sprinklr Germany GmbH, Data Protection Officer, Alter Wall 67/69, 20457 Hamburg, Germany or at [privacy@sprinklr.com](mailto:privacy@sprinklr.com).
 
-_We collect any information voluntarily provided to us._ This includes any Identifiable Information or Non-Identifiable Information that you provide to us (for example, by submitting such information into forms on our website or by emailing the information to us).
+**3\. Information We Automatically Collect**
 
-_A Note About Your IP Address:_
+When you visit our website, we collect certain information related to your device, such as your device’s IP address, browser types and versions used, operating system used by the accessing system, referring website, what pages your device visited, and the time that your device visited our website.
 
-_We automatically collect your IP Address._
+**4\. Information You Provide to Us**
 
-Our website uses Internet Protocol (IP) Addresses to track your visit to our site. An IP Address is a number assigned to your computer by your Internet Service Provider (ISP) so you can access the Internet. Generally, an IP address changes each time you connect to the Internet (it is a “dynamic” address).
+We may collect any Personal Information that you choose to send to us or provide to us:
 
-Note, however, that if you have a broadband connection, depending on your individual circumstance, it is possible that the IP Address that we collect, or even perhaps a cookie we use (see “Cookies” below), may contain information that could be deemed identifiable. This is because with some broadband connections your IP Address doesn’t change (it is “static”) and could be associated with your personal computer. We use your IP address to report aggregate information on use and to help improve the website.
+**4.1 Newsletter**
 
-**Information We Automatically Collect With Web Beacons.**
+On our website, you can subscribe to our email newsletter. When an email address is registered for our newsletter, a confirmation email will be sent to the e-mail address registered and the email newsletter will only be sent if the email address is confirmed by clicking a link provided in that confirmation email (so-called double opt-in procedure). We store the IP address and a timestamp, both for the registration and the subsequent confirmation. This data is collected for legal protection purposes, it enables Sprinklr to document and provide evidence for the addressees’ consent to be sent the email newsletter.
 
-This site may use a technology known as web beacons – sometimes called single pixel gifs – that allow this site to collect web log information. A web beacon is a graphic on a web page or in an email message designed to track pages viewed or messages opened. Web log information is gathered when you visit one of our websites by the computer that hosts our website (called a “web server”). The web server automatically recognizes some non-personal information, such as the date and time you visited our site, the pages you visited, the website you came from, the type of browser you are using (e.g., Internet Explorer, Firefox, Chrome), the type of operating system you are using (e.g., Windows 2008), and the domain name and address of your ISP (e.g., Comcast). We may also include web beacons in promotional email messages in order to determine whether messages have been opened.
+You may unsubscribe from our email newsletter and withdraw your consent to be sent the email newsletter at any time. Every email newsletter contains an unsubscribe link. In addition, you can sent your request to unsubscribe to [privacy@sprinklr.com](mailto:privacy@sprinklr.com).
 
-**Information We Automatically Collect With Cookies.**
+We also may use tracking pixels in our email newsletter enabling Sprinklr to see if and when an email was opened and if certain links in that email were clicked by the addressee. This allows analysis, reporting and optimization of email marketing campaigns. Legal basis of the usage of such tracking pixels is our legitimate interest in performing, analyzing, reporting and optimizing our email marketing campaigns. You may opt-out from email newsletter tracking by unsubscribing from our newsletter or by contacting privacy@sprinklr.com.
 
-This website may use a technology called a “cookie”. A cookie is a piece of information that our webserver sends to your computer (specifically, to your browser file) when you access a website. Then when you come back to our site, our web server will detect whether you have one of our cookies on your computer. Our cookies help provide additional functionality to the site and help us analyze site usage more accurately. For instance, our site may set a cookie on your browser that keeps you from needing to remember and then enter a password more than once during a visit to the site.
+**4.2 Contact Forms**
 
-**WHAT WE DO WITH INFORMATION WE COLLECT**
+If you contact us via the website or request a demo or register for a webinar etc., we will use the data provided for the purpose of processing your request. We will keep a record of the correspondence.
 
-**Interacting With You.**
+**4.3 Job Applications**
 
-We will use your Identifiable Information to respond to requests you may make of us. We may also use your Identifiable Information to contact you and/or provide you with general information about our products and services. We may also enhance or merge your Identifiable Information with data obtained from third parties for the same purposes.
+Sprinklr processes the personal data provided in the context of a job application for the purpose of processing the application.
 
-**Making Our Platform Better.**
+**5\. Cookies and other tracking technologies**
 
-From time to time, we may refer to your Identifiable Information to better understand your needs and how we can improve our websites, products and services. We may also refer to Non-Identifiable Information, such as tracking information collected with cookies and web beacons, to analyze the performance of, and make improvements to, our products. We do not sell your identifiable information to any third party mailing lists.
+Our websites use cookies (small text files containing a string of alphanumeric characters that we put on your computer) and other similar tracking technologies (like web beacons, tags and scripts) to uniquely identify your browser and to gather information about how you interact with the websites.
 
-**WHEN WE DISCLOSE YOUR INFORMATION TO OTHERS**
+Some cookies collect information about browsing behavior when you access this website via the same computer or device. This includes information about pages viewed, products purchased and your journey around a website. We do not use cookies to collect or record information on your name, address or other contact details. 
 
-**To Our Agents, Partners or Contractors.**
+**We use this information for the following purposes:**
 
-We may share your Identifiable Information with our agents, contractors or partners in connection with services that these individuals or entities perform for, or with us.
+assisting you in navigation;
 
-These agents, contractors or partners are restricted from using this data in any way other than to provide services for Sprinklr, or services for the collaboration in which they and Sprinklr are engaged.
+assisting in registration, login, and your ability to provide feedback;
 
-We may, for example, provide your information to agents, contractors or partners for hosting our databases, for data processing services or so that they can mail you information that you requested.
+analyzing your use of our website; and
 
-**To the Government or Law Enforcement.**
+assisting with our promotional and marketing efforts (including behavioral advertising).
 
-We may share your Identifiable Information to comply with requests by law enforcement or governmental authorities or where we have any other legal obligation to disclose the information sought.
+**How do I disable cookies?**
 
-**To a Purchaser, Assignee or Transferee of Our Website Business.**
+If you want to disable cookies you need to change your website browser settings to reject cookies. How you can do this will depend on the browser you use. Further details on how to disable cookies for the most popular browsers are set out below:
 
-We may also provide your Identifiable Information to a third party in connection with the sale, assignment, or other transfer of the business of this website to which the information relates, in which case we will require any such buyer to agree to treat your Identifiable Information in accordance with this Privacy Policy.
+**For Microsoft Internet Explorer:**
 
-**HOW WE STORE INFORMATION WE COLLECT**
+Choose the menu “tools” then “Internet Options”
 
-Areas of this website that collect your Identifiable Information use industry standard secure socket layer encryption (SSL); however, to take advantage of this your browser must support encryption protection. Sprinklr will take physical, technical and organizational measures in accordance with industry standards to protect your Personal Information from loss, misuse, unauthorized access, disclosure, alteration or destruction. However, Sprinklr cannot guarantee the security of information on or transmitted via the Internet. Users are solely responsible for protecting their passwords, limiting access to their computers, and signing out of the Website after their sessions.
+Click on the “privacy” tab
 
-**HOW TO ACCESS, UPDATE & DELETE YOUR INFORMATION**
+Select the setting the appropriate setting
 
-You may request a copy of the information we have collected about you by contacting us with your full name, email address or IP address. You may also request that your information be updated or completely deleted from our system. Send all requests to the following address and be as detailed as possible about what you want us to do with your information:
+**For Google Chrome:**
 
-Sprinklr Privacy Compliance  
-29 W. 35th St. 8th Floor  
-New York, NY 10001  
-(917) 933-7800
+Choose Settings> Advanced
 
-[privacy@sprinklr.com](mailto:privacy@sprinklr.com)
+Under “Privacy and security,” click “Content settings”.
 
-While we strive to honor all reasonable requests, please be aware that we backup our data to prevent accidental or malicious destruction of your information. Information on backup servers may take some time to be completely deleted from our system. If you request that we remove you from our contact lists, please note that you may still receive materials from us while your request is being processed.
+Click “Cookies”
 
-**NOTICE CONCERNING CHILDREN’S INFORMATION**
+**For Safari:**
 
-Sprinklr does not direct any of its practices or system towards children. We are committed to respecting the privacy of children online. If Sprinklr learns that the information of a child under the age of 13 is stored within its platform, Sprinklr will promptly delete any personal information in that user’s account.
+Choose Preferences > Privacy
 
-**LINKS ON OUR SITE**
+Click on “Remove all Website Data”
 
-As a convenience to our visitors, our website includes links to a number of sites that we believe may offer useful information. The policies and procedures described here do not apply to those sites. We suggest contacting those sites directly for information about their privacy, security, data collection and disclosure policies.
+**For Mozilla firefox:**
 
-**UPDATES TO THIS POLICY**
+Choose the menu “tools” then “Options”
 
-We may update this website Privacy Policy from time to time. When we do update it, for your convenience, we will make the updated policy available on this page. Sprinklr encourages all users to check this Website Privacy Policy frequently to stay up to date on any changes. Continued use of the Website after the effective date of any change in this Website Privacy Policy will constitute acceptance of such change.
+Click on the icon “privacy”
+
+Find the menu “cookie” and select the relevant options
+
+**For Opera 6.0 and further:**
+
+Choose the menu Files”> “Preferences”
+
+Privacy
+
+**6\. Website Analytics**
+
+On some websites we also utilize Google Analytics, a web analysis service provided by Google, to better understand your use of our Websites and Services. Google Analytics collects information such as how often users visit the Websites, what pages they visit and what other sites they used prior to visiting. Google uses the data collected to track and examine the use of the Websites, to prepare reports on its activities and share them with other Google services. Google may use the data collected on the Websites to contextualize and personalize the ads of its own advertising network. Google’s ability to use and share information collected by Google Analytics about your visits to the Websites is restricted by the [Google Analytics Terms of Use](https://www.google.com/analytics/terms/us.html) and the [Google Privacy Policy](http://www.google.com/policies/privacy/). Google offers an opt-out mechanism for the web available [here](https://tools.google.com/dlpage/gaoptout/).
+
+**7\. Purposes of and Legal Basis for Processing**
+
+Sprinklr only processes your personal data for the purposes described in this Website Privacy Policy or as otherwise permitted under applicable law. The processing of your personal data by Sprinklr for the purposes described hereunder is based on your explicit consent or on the necessity to process your personal data for the purposes of our legitimate interests.
+
+We process your personal data for the following purposes, subject to your consent where required by law:
+
+administer our relationship with you, including to respond to your inquiries or complaints;
+
+to provide any services or information you have requested and information about our products and services;
+
+to administer, operate, maintain, and improve the websites and our services;
+
+for efficient customer management relationship;
+
+to simplify access to some interactive features on our websites;
+
+to keep improving the way our websites work;
+
+to count how many persons visit our websites, where they come from, when they visit, how long they stay and what pages they look at;
+
+to associate your activity on our website in order to give us insights into products and services you might like and measure how our advertising performs;
+
+to note browser, OS and device details used to make sure you get a good online experience when you access our websites;
+
+to audit usage of the websites;
+
+to market and improve the services that we offer;
+
+Carry out research and statistical analysis including to monitor how all customers use our websites;
+
+to comply with applicable laws and regulations.
+
+Sprinklr does not use automatic decision-making or profiling.
+
+**8\. Data Sharing**
+
+Our policy is to not give, sell or otherwise distribute personal data we collect to third parties outside of Sprinklr (including Sprinklr affiliates), except where required with your express consent or where this is necessary and in accordance with applicable law. In line with this, we share personal data with the recipients listed below:
+
+**Sprinklr Group Companies**
+
+We may share your personal data with affiliates entities of Sprinklr for the purposes specified above and as described under the section “International Data Transfers” below.
+
+**Third-Party Service Providers**
+
+Your personal data may be disclosed to third party service providers, acting on our behalf, in connection with managing services, data analytics, marketing, finance, accounting or other administrative services and information technology support. These third-party service providers will have access to and process personal data only on our behalf and under our instructions and will be held to appropriate security obligations.
+
+**Other data recipients**
+
+For the above purposes or where otherwise required by law, we may also need to make personal data available to third parties such as advisors, banks and financial institutions, professionals, independent consultants, potential or existing investors and/or acquirers (in connection with a merger, acquisition, or sale involving Sprinklr and/or affiliates entities of Sprinklr or as part of a corporate reorganization, stock or asset sale, or other change in corporate control), regulatory and/or administrative authorities, courts, police authorities.
+
+Sprinklr may provide information, in response to properly made requests, for the purposes of the prevention and detection of crime, and the apprehension or prosecution of offenders, when required to do so by law, for example under a court order, or in response to properly made court or administrative demands. Sprinklr may also provide information for the purpose of safeguarding national security. In either case, Sprinklr will act in accordance with applicable data protection law.
+
+**9\. Information Security**
+
+We use appropriate technical, organizational and administrative security measures to protect any information we hold in our records from loss, misuse, and unauthorized access, disclosure, alteration and destruction. We will also take all reasonable precautions to ensure that our staff and employees who have access to personal data about you have received adequate training.
+
+**10\. International Data Transfers**
+
+In providing our services or websites to EU citizens, we may need to transfer your personal data outside the European Economic Area (“EEA”), including in countries that do not provide the same level of protection for personal data as in the EEA. In any case, we will only transfer personal data to recipients that provide an adequate level of data protection or as permitted by applicable data protection laws by implementing appropriate safeguards, including, but not limited to, relevant data transfer agreements based on the EU Standard Contractual Clauses, when needed.
+
+In addition, Sprinklr complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union and Switzerland to the United States, respectively. Sprinklr has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
+
+In compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Principles, Sprinklr commits to resolve complaints about your privacy and our collection or use of your personal information. For any inquiries or complaints regarding this privacy policy and/or Sprinklr’s processing of your personal data, please contact privacy@sprinklr.com. 
+
+If a complaint or dispute cannot be resolved through our internal process, we agree to dispute resolution using the European data protection authorities (EU DPAs) as an independent recourse mechanism. Sprinklr will cooperate with the DPAs in the investigation and resolution of complaints brought by you under the Privacy Shield. Sprinklr agrees to comply with any advice given by the DPAs where the DPAs take the view that the organization needs to take specific action to comply with the Privacy Shield Principles. Under certain conditions, it is possible for individuals to invoke binding arbitration before the Privacy Shield Panel.
+
+**11\. Retention and Deletion**
+
+We process and store your personal data only for the period necessary to achieve the purpose of storage. If the storage purpose is not applicable, or if a storage period prescribed by the European legislator or another competent legislator expires, the personal data are routinely blocked or erased in accordance with legal requirements.
+
+**12\. Rights of the Data Subject**
+
+In accordance with applicable data protection law, you have a right to:
+
+obtain confirmation of the existence of, and to request a written copy of the personal information Sprinklr holds about you;
+
+have any inaccurate information about you corrected;
+
+have personal data we hold about you deleted, blocked or removed;
+
+withdraw your consent where relevant, without affecting the lawfulness of processing based on your consent before its withdrawal;
+
+restrict the processing we make in relation with your personal data;
+
+receive your personal data, which you have provided to us, in a structured, commonly used and machine-readable format in order to transmit them to another data controller;
+
+object to the use of your details for marketing activities and other promotional activities;
+
+lodge a complaint with a supervisory authority, in particular in the EU member state of your habitual residence, place of work or place of the alleged infringement if you consider that the processing of your personal data relating infringes applicable data protection law.
+
+In case you wish to exercise any such rights, please send a request to [privacy@sprinklr.com](mailto:privacy@sprinklr.com).
+
+**13\. Notice Concerning Children’s Information**
+
+Sprinklr does not direct any of its practices or system towards children. We are committed to respecting the privacy of children online. If Sprinklr learns that the information of a child under the age of 16 is stored, Sprinklr will promptly delete any such personal information.
+
+**14\. Updates to this Website Privacy Policy**
+
+We reserve the right to review this Privacy Policy at any time. Where appropriate or required by law, we will notify you about the new privacy Policy by posting appropriate notice on our websites. We encourage you to periodically review this Website Privacy Policy to stay informed about our information practices. We will indicate the date on which this Website Privacy Policy was last modified.
+
+**15\. Contact**
+
+If you have any questions about this Privacy Policy, or if you wish to exercise your rights under applicable data protection laws, please feel free to contact us through our websites, at privacy@sprinklr.com or write to us at Sprinklr, Inc., Data Protection Officer, 29 West 35th Street, New York, NY 10001, USA or at Sprinklr Germany GmbH, Alter Wall 67/79, 20457 Hamburg, Germany.
