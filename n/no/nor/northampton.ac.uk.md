@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the northampton.ac.uk privacy policy that was archived on 2018-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180221010703id_/https%3A//www.northampton.ac.uk/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northampton.ac.uk privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020061900id_/https%3A//www.northampton.ac.uk/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | The University of Northampton
+# Privacy policy | University of Northampton
 
 ## About this policy
 
@@ -32,7 +32,7 @@ We may disclose your personal information to third parties if we are under a dut
 
 Most of our web pages use “cookies”. A cookie is a small file of letters and numbers that we place on your computer or mobile device if you agree. These cookies allow us to distinguish you from other users of our website, which helps us to provide you with a good experience when you browse our website and also allow us to improve our website.
 
-For more detailed information on the cookies we use on the University’s main web pages (i.e. those in www.northampton.ac.uk) and the purposes for which we use them, please see our [Cookie Statement](http://www.northampton.ac.uk/about-us/privacy-policy/use-of-cookies/). Please refer to individual web pages for further information about the use of cookies on other web pages on the northampton.ac.uk domain.
+For more detailed information on the cookies we use on the University’s main web pages (i.e. those in northampton.ac.uk) and the purposes for which we use them, please see our [Cookie Statement](https://web.archive.org/about-us/privacy-policy/use-of-cookies/). Please refer to individual web pages for further information about the use of cookies on other web pages on the northampton.ac.uk domain.
 
 ## Access to information
 
@@ -48,4 +48,4 @@ This website contains links to other sites. Please be aware that the University 
 
 ## Contact
 
-Any queries or concerns about privacy on this website should be sent by email to [recordsmanager@northampton.ac.uk](mailto:recordsmanager@northampton.ac.uk) or addressed to the Records Management Office, University of Northampton, Park Campus, Boughton Green Road, Northampton NN2 7AL.
+Any queries or concerns about privacy on this website should be sent by email to [recordsmanager@northampton.ac.uk](mailto:recordsmanager@northampton.ac.uk) or addressed to the Records Management Office, University of Northampton, University Drive, Northampton NN1 5PH.
