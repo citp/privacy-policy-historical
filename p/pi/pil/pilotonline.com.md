@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the pilotonline.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119112405id_/https%3A//pilotonline.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pilotonline.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020081317id_/https%3A//pilotonline.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy | The Virginian-Pilot | pilotonline.com
 
-Updated March 20, 2015
+**[Please see our updated privacy policy, in effect Oct. 25, 2018.](https://pilotonline.com/site/privacy-update-notice.html)**
+
+Updated Dec. 15, 2017
 
 This privacy policy discloses the privacy practices for PilotOnline.com and HamptonRoads.com. For the purposes of this privacy policy, unless otherwise noted, all references to “PilotOnline.com” include PilotOnline.com, HamptonRoads.com, and all of the channels found on these sites. 
 
@@ -16,11 +18,10 @@ We reevaluate both our Privacy Policy and our Posting Policy on an ongoing basis
 
 If you have questions or concerns regarding these policies, we ask that you contact us:
 
-  * Online: Privacy Policy feedback
-  * By phone: (757) 446-2727
-  * By fax: (757) 627-2175, Attention: Online Privacy Manager
-  * By mail:  
-The Virginian-Pilot  
+  * Online: [Privacy Policy feedback](http://contact.hamptonroads.com/process.php?subject=Privacy%20policy&r=81&l=https://pilotonline.com/ "Privacy Policy feedback")
+  * By phone: (757) 446-9000
+  * By mail:
+  * The Virginian-Pilot  
 Attention: Online Privacy Manager  
 150 W. Brambleton Ave.  
 Norfolk, VA 23510
@@ -29,7 +30,7 @@ Norfolk, VA 23510
 
  **WHICH SITES ARE COVERED BY THIS POLICY?**
 
-This privacy policy applies to the following PilotOnline.com websites: 
+This privacy policy applies to the following PilotOnline.com websites, as well as any other sites where it is posted: 
 
   * PilotOnline.com
   * HamptonRoads.com
@@ -54,7 +55,7 @@ We collect limited amounts and types of personal information from users of our s
 
  **Personal information:** How we collect and store user personal information depends on the page you are visiting, the activities in which you elect to participate and the services provided. You can visit many pages on our sites without providing any information. Other pages may prompt you to provide information, such as when you register for services or access to portions of our sites, sign up for membership, request certain features (e.g., newsletters, news updates and other products), sign up for a newspaper subscription, complete a survey  or make a purchase. You may also provide information when you participate in a promotion, sweepstake or contest, voting and polling activities, post comments to blogs, message boards and chat rooms and other interactive areas of our sites. We and/or our third party partners may use this information to process and maintain your account and compile demographic statistics about our users.
 
- **Email newsletters:** If you choose to receive them, PilotOnline.com will periodically send you email newsletters or promotional email about services offered by PilotOnline.com and our advertisers. For details about our email newsletters, please click here.
+ **Email newsletters:** If you choose to receive them, PilotOnline.com will periodically send you email newsletters or promotional email about services offered by PilotOnline.com and our advertisers. For details about our email newsletters, [please click here](https://pilotonline.com/newsletters/).
 
  **Mobile messaging service:** PilotOnline.com uses the information collected from your interaction with our sites by Text Messaging Service (SMS) (“SMS Service”) solely for the purposes of improving the SMS Service. The information will not be provided, sold, licensed, rented, assigned or disclosed to Third Parties, except as required by law, nor will we use your phone number to initiate a call or SMS text message to you without your express prior consent. Your wireless carrier and other service providers also collect data about your SMS Service usage, and their practices are governed by their own privacy policies.
 
@@ -64,11 +65,11 @@ Please be careful and responsible whenever you are online. Should you choose to 
 
  **Aggregate Information Collected Through Technology:  **Like most websites, we also collect and aggregate information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use “cookie” technology. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our sites. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but doing so may limit your ability to access certain portions of the sites and to take advantage of most personalized services offered. Additionally we may not be able to customize the sites’ features according to your preferences.
 
-Third-party advertising companies: We use a proprietary advertising server to display ads on PilotOnline.com. In addition, advertisers may elect to use third-party advertising companies to serve ads onto our websites. In the course of serving these advertisements, the third-party advertisers may place or recognize a unique "cookie" on your browser. We do not have access to these cookies or any information that they may contain. We do not control the placement or the acceptance of cookies from domains other than PilotOnline.com. To learn more about advertising targeting technology and opt-out from being tracked by participating advertising companies, visit [http://www.aboutads.info](http://www.aboutads.info/).
+  * Third-party advertising companies: We use a proprietary advertising server to display ads on PilotOnline.com. In addition, advertisers may elect to use third-party advertising companies to serve ads onto our websites. In the course of serving these advertisements, the third-party advertisers may place or recognize a unique "cookie" on your browser. We do not have access to these cookies or any information that they may contain. We do not control the placement or the acceptance of cookies from domains other than PilotOnline.com. To learn more about advertising targeting technology and opt-out from being tracked by participating advertising companies, visit [http://www.aboutads.info](http://www.aboutads.info/).
+  * Third-party analytic systems: PilotOnline.com is currently using and has contracted with Google Analytics, a third party, to track and analyze aggregated usage and volume statistical information from our visitors and customers to help us administer our websites and constantly improve their quality. All data collected by Google Analytics on behalf of PilotOnline.com is owned and used by PilotOnline.com. Google Accelerated Mobile Pages are integrated with Google Analytics, and uses the AMP Client ID in connection with Google Analytics. PilotOnline.com reserves the right to publish non-personally identifiable, summary information regarding its website visitors for promotional purposes and as a representative audience for advertisers. For more information about Google's privacy policy, including how to opt out, go to <http://www.google.com/policies/privacy/partners/>. We reserve the right to change the vendors who provide us with usage data.
+  * Credit card information will be provided to third parties only to provide products and services that you order. We may use the contact information you provide to contact you about your account and/or to send you necessary information directly related to the product(s) or service(s) for which you have registered. With your permission, we may use your contact information to inform you of new features and special offers from us. We will not provide your contact information to unaffiliated third parties without your express permission. As part of the registration process, you have the option to inform us that you do not wish to receive information about other special offers and promotions.
 
-Third-party analytic systems: PilotOnline.com is currently using and has contracted with Google Analytics, a third party, to track and analyze aggregated usage and volume statistical information from our visitors and customers to help us administer our websites and constantly improve their quality. All data collected by Google Analytics on behalf of PilotOnline.com is owned and used by PilotOnline.com. HamptonRoads.com reserves the right to publish non-personally identifiable, summary information regarding its website visitors for promotional purposes and as a representative audience for advertisers. For more information about Google's privacy policy, including how to opt out, go to <http://www.google.com/policies/privacy/partners/>. We reserve the right to change the vendors who provide us with usage data.
 
-Credit card information will be provided to third parties only to provide products and services that you order. We may use the contact information you provide to contact you about your account and/or to send you necessary information directly related to the product(s) or service(s) for which you have registered. With your permission, we may use your contact information to inform you of new features and special offers from us. We will not provide your contact information to unaffiliated third parties without your express permission. As part of the registration process, you have the option to inform us that you do not wish to receive information about other special offers and promotions.
 
  **Affiliated sites, linked sites and advertisements:  **We expect our partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our sites may have their own privacy and data collection policies and practices with terms that differ from the terms in our Privacy Policy, and that we do not control. For example, during your visit to our sites you may link to, or view as part of a frame on a page, certain content that is actually created or hosted by a third party. Also, through PilotOnline.com you may be introduced to, or be able to access, information, websites, advertisements, features, contests or sweepstakes offered by other parties. PilotOnline.com is not responsible for such third party content or for the actions or policies of the third parties providing such content. You should check the applicable terms of use and privacy policies of those third parties before providing information on a feature or page operated by a third party.
 
@@ -152,4 +153,4 @@ We may disclose personal information if we are required to do so by law or we in
 
 We re-evaluate both our Privacy Policy and our [Posting Policy](https://pilotonline.com/site/posting-guidelines.html) on an ongoing basis. We will post the new policies on this page in a timely manner, and, if the changes allow us to use personally identifying information in ways that are different from the ways specified at the time the information was originally collected, PilotOnline.com will contain a special notice about the changes. Each version of this privacy policy will be identified by its effective date, which you can find at the top and the bottom of the page.
 
-Updated March 20, 2015
+Updated Dec. 15, 2017
