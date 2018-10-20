@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmentfinder.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128230021id_/http%3A//www.apartmentfinder.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentfinder.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020021347id_/http%3A//www.apartmentfinder.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Statement | ApartmentFinder.com
 
@@ -65,9 +65,9 @@ Other information about your device. We collect non-personally identifiable info
 
 **Access to Personally Identifiable Information**
 
-If your personal information changes, or if you no longer desire our service, you may correct, delete inaccuracies, or update it by going to http://www.apartmentfinder.com/ContactUs 
+If your personal information changes, or if you no longer desire our service, you may correct, delete inaccuracies, or update it by going to https://www.apartmentfinder.com/ContactUs 
 
-We will retain your information as needed to provide you services. If you wish to request that we no longer use your information to provide you services contact us at by going to http://www.apartmentfinder.com/ContactUs. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information as needed to provide you services. If you wish to request that we no longer use your information to provide you services contact us at by going to https://www.apartmentfinder.com/ContactUs. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **User Generated Content**
 
