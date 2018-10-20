@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cucas.edu.cn privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524215435id_/http%3A//www.cucas.edu.cn/server/details%3Fid%3D677) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cucas.edu.cn privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020225831id_/http%3A//www.cucas.edu.cn/server/details%3Fid%3D677) for the most accurate reproduction.*
 
 # CUCAS Privacy Policy | Best Agent for Study in China | Study in China | CUCAS in China | Study in China | CUCAS
 
@@ -70,7 +70,7 @@ If your personally identifiable information changes, or if you no longer desire 
 
 ## Unsubscribe
 
-To stop receiving newsletters from us, please [Unsubscribe Instantly](http://letter.cucas.cn/nUnsubscribe.php).
+To stop receiving newsletters from us, please [Unsubscribe Instantly](https://letter.cucas.cn/nUnsubscribe.php).
 
 ## Changes in Privacy Policy
 
