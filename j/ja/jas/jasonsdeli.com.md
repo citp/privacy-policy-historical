@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jasonsdeli.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715174840id_/https%3A//www.jasonsdeli.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jasonsdeli.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020034950id_/https%3A//www.jasonsdeli.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jason's Deli
 
