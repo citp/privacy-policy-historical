@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fih.ch privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626122258id_/http%3A//www.fih.ch/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fih.ch privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020085924id_/http%3A//www.fih.ch/privacy) for the most accurate reproduction.*
 
 # Privacy | FIH
 
