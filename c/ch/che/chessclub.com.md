@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chessclub.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508073544id_/https%3A//www.chessclub.com/sitehelp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chessclub.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020181659id_/https%3A//www.chessclub.com/sitehelp/privacy) for the most accurate reproduction.*
 
-# Privacy - Play Chess with Friends
+# PRIVACY - Play Chess with Friends
 
 Introduction
 
