@@ -1,56 +1,236 @@
-> *The following text is extracted and transformed from the postano.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118082153id_/http%3A//www.tigerlogic.com/tigerlogic/company/background/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postano.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020140835id_/https%3A//www.sprinklr.com/privacy) for the most accurate reproduction.*
 
-# TigerLogic Corporation - Privacy Policy
+# Privacy
 
-This Privacy Policy describes our practices regarding how we at TigerLogic Corporation (“ **we** ” or “ **us** ”) collect, use, and share information we obtain through your use of our websites located at www.tigerlogic.com, www.yolink.com and www.postengine.com, as well as any of our other websites, email messages, or software containing a link to this Privacy Policy (each, a “ **Site** ”), and any products or services offered through any of our Sites (collectively, our “ **Sites and Services** ”). Some of the information governed by this Privacy Policy is anonymous, whereas other information is personally identifiable, such as your first and last name, email address, telephone number, or credit card number (“ **Personally Identifiable Information** ” or “ **PII** ”). **By using any of our Sites and Services, you are accepting the terms described in this Privacy Policy and explicitly consent to the use of your information as described in this Privacy Policy.**
+## Last Updated: May 15, 2018
 
-Please note that this Privacy Policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through our Sites and Services. 
+_Effective as of May 25, 2018_
 
-This Privacy Policy is effective as of June 15, 2011.
+Your privacy is extremely important to us and we are committed to fair practices that protect your personal data. We have developed this Website Privacy Policy to clearly and transparently communicate what information we collect, how we collect it and what we do with it when you access and use our websites.
 
-  1. **European Union Users**. 
+**Table of Contents**
 
-    1. _**Personally Identifiable Information (PII)**_. YOU EXPRESSLY CONSENT TO OUR PROCESSING OF YOUR PII ACCORDING TO THIS PRIVACY POLICY. YOUR PII MAY BE PROCESSED BY US IN THE COUNTRY WHERE IT WAS COLLECTED AND IN THE UNITED STATES; UNITED STATES LAWS REGARDING PROCESSING OF YOUR PII MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY.
-
-    2. _**Organizations**_. If you represent an organization, you will ensure that each member of your organization (including employees and contractors) about whom PII may be provided to us has given express consent to our processing of such PII ACCORDING TO THE TERMS OF THIS PRIVACY POLICY.
-
-  2. **Data Collection and Use**. 
-
-    1. _**Your Data Submissions.**_ We collect any PII or other information you may choose to submit through our Sites and Services. Any PII that is provided by you through our Sites and Services will be used for the purposes of: (i) providing you with the products or services you have requested; (ii) updating and enhancing our records; (iii) contacting you (via email, telephone, or fax) regarding us, our Sites and Services, or other products or services that may be of interest to you; (iv) enforcing our rights and the rights of third parties; and, (v) investigating and ensuring compliance with our Terms of Use and other agreements relating to our Sites and Services.
-
-    2. _**Data Collection by Us**_. We may also collect information (using your IP address or “cookies”) relating to the way you use our Sites and Services, such as what pages you visit, what information you search for, or what type of browser you are using. However, this type of information is not associated with your PII. Instead, we use this anonymous data to operate and improve our Sites and Services. For example, we may use anonymous data to identify which Sites and Services especially interest our users as a group or analyze other trends that can help us improve the quality of our services. A “cookie” is a small piece of information stored on your hard drive, not on our Sites, that enables our systems to recognize your browser. Cookies allow us to better understand how our users, including you, use our Sites and Services, which in turn helps us focus our resources on features that are most popular with our users. You are always free to decline our cookies if your browser permits, but in that case, some portions of our Sites and Services may not operate properly. An IP address is a number that is automatically assigned to your computer when you use the Internet. In some cases, your IP address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP address probably varies from session to session. IP addresses allow us, for example, to better understand the demographics of our users. 
-
-    3. _**Data Collection by Third Parties**_. Some of the advertisers and other businesses that advertise or display other content on or through our Sites and Services may use cookies and may place a cookie on your computer. In addition, we may use third-party advertising companies to serve ads. These companies may: (i) use information obtained from your use of our Sites and other sites to serve ads to you, and (ii) place unique, third-party cookies on your browser. We also may use “web beacons” provided by third-party advertising companies, which enable us to recognize your browser when a cookie has been placed on your computer to help optimize the advertising you receive. Some, but not all, third-party advertising companies provide a mechanism to opt-out of their technology. The information collected by third-party cookies is subject to the privacy policy of that third party, not this Privacy Policy. 
-
-  3. **Promotions.** From time to time, you may be given the opportunity to participate in sweepstakes, contests, giveaways, or other promotions offered by us, either alone or with promotional partners. Participation in these promotions may require you to submit information about you, including PII. Our use and sharing of your information collected through a promotion will be governed by the official rules or agreement governing that promotion, as well as by this Privacy Policy. The terms of those rules or that agreement will control over any conflicting provisions of this Privacy Policy.
-
-  4. **Sharing User Information**.
-
-    1. _**Third Party Service Providers.**_ We use third parties (including contractors and service providers) to help with certain aspects of our operations, which may require disclosure of your PII to them. For example, we may use a third party to: (i) communicate with you (via telephone, email or mail) about our Sites and Services; (ii) send information to you; (iii) process and collect payment from your credit card (if applicable); (iv) help us collect data relating to your use of our Sites and Services; or, (v) perform other work that we may need to outsource. We require these third parties to use your PII only as necessary to perform the services we ask them to perform. However, when third parties help us to collect data relating to your use of our Sites and Services, they may set their own cookies to collect that data. In those circumstances, those third party cookies and the use of such data by those third parties are governed by the privacy policies of those third parties, not this Privacy Policy.
-
-    2. _**Affiliates**_. We may share some or all of your information with our existing or future parents, subsidiaries, joint venturers, or companies under common control with us (and with the advisors for each), in which case each will be required to honor this Privacy Policy. If another company acquires our company (or a business unit of ours that uses your personal information), that company will possess the personal information collected by us and it will assume the rights and obligations regarding your personal information as described in this Privacy Policy. 
-
-    3. _**Aggregated Data.**_ We may share aggregated anonymous data concerning our users with business partners and others interested in how our Sites and Services are used. We do not disclose that aggregated data in a way that is linked to your PII. 
-
-    4. _**Advertisers and Promotional Partners**_. We share anonymous information with advertisers and other persons with whom we conduct business, and those persons may also share with us other aggregated, non-identifying information that they have developed or acquired independently. From time to time, we may also share your PII or anonymous information with promotional partners or other third parties so they may contact you regarding goods or services in which you may be interested, but we provide you with the means to opt-out of that type of sharing as described below in this privacy policy.
-
-    5. _**Public Information**_ **.** If you identify any information, including PII, as public, you are authorizing us to share such information publicly. Also, there may be areas of our Sites (e.g., reviews, comments, and online forums) in which you are able to post information that will be available to all other users of our Sites. By choosing to use these areas, you understand and agree that anyone may access, use, and disclose any information that you post to those areas. 
-
-    6. _**Other Disclosure Scenarios.**_ Notwithstanding anything in this Privacy Policy to the contrary, we reserve the right, and you hereby expressly authorize us, to share any PII or anonymous data about your usage: (i) to comply with applicable law, including in response to subpoenas, court orders, or legal process, to address written complaints of copyright infringement; (ii) to establish, protect, or exercise our legal rights or defend against legal claims, including to enforce our Terms of Use or any other agreement relating to our Sites and Services; (iii) if we believe it is necessary in order to investigate, prevent, or take action regarding suspected illegal activities, fraud, or situations involving potential threats to the safety of any person or property, including our own; (iv) if we believe it is necessary to investigate, prevent, or take action regarding significant abuse of any of our Sites and Services or the Internet in general (such as voluminous spamming, denial of service attacks, or attempts to compromise the security of information); (v) if we become the subject of bankruptcy proceedings, in which case we may share information about you and your usage with a bankruptcy trustee, debtor in possession, or subsequent purchaser of assets.
-
-  5. **Choice / Opt-Out.** We offer you the opportunity to control whether we may use your PII to send you promotional and marketing messages and whether we may share your information with our promotional partners. You may opt out of such messages or sharing at any time by following the instructions provided in each such message you receive from us or by emailing us at [privacy@tigerlogic.com](mailto:privacy@tigerlogic.com). Please note that these requests may take up to ten (10) business days to process. Even if you request not to be contacted by us, we reserve the right to use your contact information if we consider it necessary to send you crucial information about those of our products and services which you have purchased or used, or information about changes to this Privacy Policy.
-
-  6. **Revising Your Personally Identifiable Information.** We retain your PII at our discretion and in accordance with applicable laws. However, we do not undertake any retention obligations, and may dispose of information in our discretion without notice, subject to applicable law that specifically requires the handling or retention of PII. You must keep your own, separate back-up records. If you would like to modify or delete from our database any PII you previously submitted to us, you may email us at [privacy@tigerlogic.com](mailto:privacy@tigerlogic.com). We will use our commercially reasonable efforts to fulfill your request in a timely manner. However, even if we delete such PII from our ‘live’ database, it may still be stored on other databases (including those kept for archival purposes). We may keep a record of all information that is changed or deleted, and we may determine what may be changed or deleted. For example, if we are required to keep track of certain kinds of transactions, you may be prevented from changing or deleting information relevant for those transactions. Please note that if you delete certain information, you may not be able to use certain features of our Sites and Services in the future without re-submitting such information. We are not responsible for removing information about you from the databases of any third parties to whom we were authorized to disclose your information prior to processing a request from you. 
-
-  7. **Security.** We use industry-standard methods of securing our electronic databases of your Personally Identifiable Information. We limit access to PII stored by us to those persons in our organization who have a business need for such access. However, you should know that no company, including ours, can fully eliminate security risks associated with the disclosure of PII. Neither people nor security systems are foolproof, including encryption systems. In addition, people can commit crimes, make mistakes, or fail to follow policies. As a result, while your privacy is very important to us, we cannot fully ensure that your PII will not be disclosed to third parties. If applicable law imposes any non-disclaimable duty with respect to your information, you agree that the standard used to measure our compliance with that duty will be one of intentional misconduct. 
-
-  8. **Links.** Our Sites and Services may contain links to other websites. We are not responsible for the privacy practices of any such other websites and urge you to review such practices prior to submitting any information to such websites.
-
-  9. **Children’s Privacy.** We are committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children’s online activities and interests. Our Sites and Services are not intended for and may not be used by children under the age of thirteen (13). We do not knowingly collect information from children and we do not target our Sites and Services to children.
-
-  10. **Modifications.** We may amend this Privacy Policy at any time by sending you a notice of the amended policy to the email address you have submitted to us (if applicable), in which case you agree to the amended version if you do not contact us to inform us otherwise, or by posting the amended version on relevant areas of our Sites. Any modified version of this Privacy Policy will be effective as of the date set forth in the modified version. If you continue to use any of our Sites and Services after the effective date of a modification, you will be deemed to have read, understood and agreed to the Privacy Policy as modified.
-
-  11. **Contact Information.** If you have any questions about this Privacy Policy, please feel free to contact us by e mail at [privacy@tigerlogic.com](mailto:privacy@tigerlogic.com). To send us a legal notice, mail it by certified mail (return receipt requested) to: TigerLogic Corporation. (Attn: Legal Department), 25A Technology Drive, Irvine, California 92618. When we need to contact you, we may do so to an email address that we have on file for you, or we may post a notice on our Sites and Services. This includes any notices that we may be required to send you by law, such as those regarding the breach of any security systems.
+  1. Coverage
+  2. Controller, EU Representative and Data Protection Officer
+  3. Information We Automatically Collect
+  4. Information You Provide to Us
+    1. Newsletter
+    2. Contact Forms
+    3. Job Applications
+  5. Cookies and other tracking technologies
+  6. Website Analytics
+  7. Purposes of and Legal Basis for Processing
+  8. Data Sharing
+  9. Information Security
+  10. International Data Transfers
+  11. Retention and Deletion
+  12. Rights of the Data Subject
+  13. Notice Concerning Children’s Information
+  14. Updates to this Website Privacy Policy
+  15. Contact
 
 
 
+**1\. Coverage**
+
+This Website Privacy Policy covers Sprinklr’s privacy practices for our corporate websites that directly link to this policy when you click on “Privacy” in the website footer.
+
+This Website Privacy Policy does not cover the usage of the Sprinklr Customer Experience Platform and other Sprinklr products. To read policies relating to our customer’s use of the Sprinklr platform or other Sprinklr products, please refer to Sprinklr’s Social Media Management Privacy Policy. In addition, our commitment as a data processor to our customers is governed by a separate Data Processing Amendment.
+
+This Website Privacy Policy also doesn’t cover third-party websites accessed via our websites. Such third-party websites are governed by the terms applicable to your relationship with that third party, and Sprinklr accepts no responsibility or liability in respect of third party websites.
+
+**2\. Controller, EU Representative and Data Protection Officer**
+
+This website is provided by Sprinklr, Inc. 29 West 35th Street, New York, Ny 10001, USA (“Sprinklr”). Sprinklr is the controller for the purposes of all applicable data protection legislation.
+
+Sprinklr’s EU representative is Sprinklr Germany, GmbH, Alter Wall 67 – 69, 20457 Hamburg, Germany. Sprinklr Germany GmbH can be contacted by email at [privacy@sprinklr.com](mailto:privacy@sprinklr.com).
+
+Sprinklr’s data protection officer can be contacted at Sprinklr Germany GmbH, Data Protection Officer, Alter Wall 67/69, 20457 Hamburg, Germany or at [privacy@sprinklr.com](mailto:privacy@sprinklr.com).
+
+**3\. Information We Automatically Collect**
+
+When you visit our website, we collect certain information related to your device, such as your device’s IP address, browser types and versions used, operating system used by the accessing system, referring website, what pages your device visited, and the time that your device visited our website.
+
+**4\. Information You Provide to Us**
+
+We may collect any Personal Information that you choose to send to us or provide to us:
+
+**4.1 Newsletter**
+
+On our website, you can subscribe to our email newsletter. When an email address is registered for our newsletter, a confirmation email will be sent to the e-mail address registered and the email newsletter will only be sent if the email address is confirmed by clicking a link provided in that confirmation email (so-called double opt-in procedure). We store the IP address and a timestamp, both for the registration and the subsequent confirmation. This data is collected for legal protection purposes, it enables Sprinklr to document and provide evidence for the addressees’ consent to be sent the email newsletter.
+
+You may unsubscribe from our email newsletter and withdraw your consent to be sent the email newsletter at any time. Every email newsletter contains an unsubscribe link. In addition, you can sent your request to unsubscribe to [privacy@sprinklr.com](mailto:privacy@sprinklr.com).
+
+We also may use tracking pixels in our email newsletter enabling Sprinklr to see if and when an email was opened and if certain links in that email were clicked by the addressee. This allows analysis, reporting and optimization of email marketing campaigns. Legal basis of the usage of such tracking pixels is our legitimate interest in performing, analyzing, reporting and optimizing our email marketing campaigns. You may opt-out from email newsletter tracking by unsubscribing from our newsletter or by contacting privacy@sprinklr.com.
+
+**4.2 Contact Forms**
+
+If you contact us via the website or request a demo or register for a webinar etc., we will use the data provided for the purpose of processing your request. We will keep a record of the correspondence.
+
+**4.3 Job Applications**
+
+Sprinklr processes the personal data provided in the context of a job application for the purpose of processing the application.
+
+**5\. Cookies and other tracking technologies**
+
+Our websites use cookies (small text files containing a string of alphanumeric characters that we put on your computer) and other similar tracking technologies (like web beacons, tags and scripts) to uniquely identify your browser and to gather information about how you interact with the websites.
+
+Some cookies collect information about browsing behavior when you access this website via the same computer or device. This includes information about pages viewed, products purchased and your journey around a website. We do not use cookies to collect or record information on your name, address or other contact details. 
+
+**We use this information for the following purposes:**
+
+assisting you in navigation;
+
+assisting in registration, login, and your ability to provide feedback;
+
+analyzing your use of our website; and
+
+assisting with our promotional and marketing efforts (including behavioral advertising).
+
+**How do I disable cookies?**
+
+If you want to disable cookies you need to change your website browser settings to reject cookies. How you can do this will depend on the browser you use. Further details on how to disable cookies for the most popular browsers are set out below:
+
+**For Microsoft Internet Explorer:**
+
+Choose the menu “tools” then “Internet Options”
+
+Click on the “privacy” tab
+
+Select the setting the appropriate setting
+
+**For Google Chrome:**
+
+Choose Settings> Advanced
+
+Under “Privacy and security,” click “Content settings”.
+
+Click “Cookies”
+
+**For Safari:**
+
+Choose Preferences > Privacy
+
+Click on “Remove all Website Data”
+
+**For Mozilla firefox:**
+
+Choose the menu “tools” then “Options”
+
+Click on the icon “privacy”
+
+Find the menu “cookie” and select the relevant options
+
+**For Opera 6.0 and further:**
+
+Choose the menu Files”> “Preferences”
+
+Privacy
+
+**6\. Website Analytics**
+
+On some websites we also utilize Google Analytics, a web analysis service provided by Google, to better understand your use of our Websites and Services. Google Analytics collects information such as how often users visit the Websites, what pages they visit and what other sites they used prior to visiting. Google uses the data collected to track and examine the use of the Websites, to prepare reports on its activities and share them with other Google services. Google may use the data collected on the Websites to contextualize and personalize the ads of its own advertising network. Google’s ability to use and share information collected by Google Analytics about your visits to the Websites is restricted by the [Google Analytics Terms of Use](https://www.google.com/analytics/terms/us.html) and the [Google Privacy Policy](http://www.google.com/policies/privacy/). Google offers an opt-out mechanism for the web available [here](https://tools.google.com/dlpage/gaoptout/).
+
+**7\. Purposes of and Legal Basis for Processing**
+
+Sprinklr only processes your personal data for the purposes described in this Website Privacy Policy or as otherwise permitted under applicable law. The processing of your personal data by Sprinklr for the purposes described hereunder is based on your explicit consent or on the necessity to process your personal data for the purposes of our legitimate interests.
+
+We process your personal data for the following purposes, subject to your consent where required by law:
+
+administer our relationship with you, including to respond to your inquiries or complaints;
+
+to provide any services or information you have requested and information about our products and services;
+
+to administer, operate, maintain, and improve the websites and our services;
+
+for efficient customer management relationship;
+
+to simplify access to some interactive features on our websites;
+
+to keep improving the way our websites work;
+
+to count how many persons visit our websites, where they come from, when they visit, how long they stay and what pages they look at;
+
+to associate your activity on our website in order to give us insights into products and services you might like and measure how our advertising performs;
+
+to note browser, OS and device details used to make sure you get a good online experience when you access our websites;
+
+to audit usage of the websites;
+
+to market and improve the services that we offer;
+
+Carry out research and statistical analysis including to monitor how all customers use our websites;
+
+to comply with applicable laws and regulations.
+
+Sprinklr does not use automatic decision-making or profiling.
+
+**8\. Data Sharing**
+
+Our policy is to not give, sell or otherwise distribute personal data we collect to third parties outside of Sprinklr (including Sprinklr affiliates), except where required with your express consent or where this is necessary and in accordance with applicable law. In line with this, we share personal data with the recipients listed below:
+
+**Sprinklr Group Companies**
+
+We may share your personal data with affiliates entities of Sprinklr for the purposes specified above and as described under the section “International Data Transfers” below.
+
+**Third-Party Service Providers**
+
+Your personal data may be disclosed to third party service providers, acting on our behalf, in connection with managing services, data analytics, marketing, finance, accounting or other administrative services and information technology support. These third-party service providers will have access to and process personal data only on our behalf and under our instructions and will be held to appropriate security obligations.
+
+**Other data recipients**
+
+For the above purposes or where otherwise required by law, we may also need to make personal data available to third parties such as advisors, banks and financial institutions, professionals, independent consultants, potential or existing investors and/or acquirers (in connection with a merger, acquisition, or sale involving Sprinklr and/or affiliates entities of Sprinklr or as part of a corporate reorganization, stock or asset sale, or other change in corporate control), regulatory and/or administrative authorities, courts, police authorities.
+
+Sprinklr may provide information, in response to properly made requests, for the purposes of the prevention and detection of crime, and the apprehension or prosecution of offenders, when required to do so by law, for example under a court order, or in response to properly made court or administrative demands. Sprinklr may also provide information for the purpose of safeguarding national security. In either case, Sprinklr will act in accordance with applicable data protection law.
+
+**9\. Information Security**
+
+We use appropriate technical, organizational and administrative security measures to protect any information we hold in our records from loss, misuse, and unauthorized access, disclosure, alteration and destruction. We will also take all reasonable precautions to ensure that our staff and employees who have access to personal data about you have received adequate training.
+
+**10\. International Data Transfers**
+
+In providing our services or websites to EU citizens, we may need to transfer your personal data outside the European Economic Area (“EEA”), including in countries that do not provide the same level of protection for personal data as in the EEA. In any case, we will only transfer personal data to recipients that provide an adequate level of data protection or as permitted by applicable data protection laws by implementing appropriate safeguards, including, but not limited to, relevant data transfer agreements based on the EU Standard Contractual Clauses, when needed.
+
+In addition, Sprinklr complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union and Switzerland to the United States, respectively. Sprinklr has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
+
+In compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Principles, Sprinklr commits to resolve complaints about your privacy and our collection or use of your personal information. For any inquiries or complaints regarding this privacy policy and/or Sprinklr’s processing of your personal data, please contact privacy@sprinklr.com. 
+
+If a complaint or dispute cannot be resolved through our internal process, we agree to dispute resolution using the European data protection authorities (EU DPAs) as an independent recourse mechanism. Sprinklr will cooperate with the DPAs in the investigation and resolution of complaints brought by you under the Privacy Shield. Sprinklr agrees to comply with any advice given by the DPAs where the DPAs take the view that the organization needs to take specific action to comply with the Privacy Shield Principles. Under certain conditions, it is possible for individuals to invoke binding arbitration before the Privacy Shield Panel.
+
+**11\. Retention and Deletion**
+
+We process and store your personal data only for the period necessary to achieve the purpose of storage. If the storage purpose is not applicable, or if a storage period prescribed by the European legislator or another competent legislator expires, the personal data are routinely blocked or erased in accordance with legal requirements.
+
+**12\. Rights of the Data Subject**
+
+In accordance with applicable data protection law, you have a right to:
+
+obtain confirmation of the existence of, and to request a written copy of the personal information Sprinklr holds about you;
+
+have any inaccurate information about you corrected;
+
+have personal data we hold about you deleted, blocked or removed;
+
+withdraw your consent where relevant, without affecting the lawfulness of processing based on your consent before its withdrawal;
+
+restrict the processing we make in relation with your personal data;
+
+receive your personal data, which you have provided to us, in a structured, commonly used and machine-readable format in order to transmit them to another data controller;
+
+object to the use of your details for marketing activities and other promotional activities;
+
+lodge a complaint with a supervisory authority, in particular in the EU member state of your habitual residence, place of work or place of the alleged infringement if you consider that the processing of your personal data relating infringes applicable data protection law.
+
+In case you wish to exercise any such rights, please send a request to [privacy@sprinklr.com](mailto:privacy@sprinklr.com).
+
+**13\. Notice Concerning Children’s Information**
+
+Sprinklr does not direct any of its practices or system towards children. We are committed to respecting the privacy of children online. If Sprinklr learns that the information of a child under the age of 16 is stored, Sprinklr will promptly delete any such personal information.
+
+**14\. Updates to this Website Privacy Policy**
+
+We reserve the right to review this Privacy Policy at any time. Where appropriate or required by law, we will notify you about the new privacy Policy by posting appropriate notice on our websites. We encourage you to periodically review this Website Privacy Policy to stay informed about our information practices. We will indicate the date on which this Website Privacy Policy was last modified.
+
+**15\. Contact**
+
+If you have any questions about this Privacy Policy, or if you wish to exercise your rights under applicable data protection laws, please feel free to contact us through our websites, at privacy@sprinklr.com or write to us at Sprinklr, Inc., Data Protection Officer, 29 West 35th Street, New York, NY 10001, USA or at Sprinklr Germany GmbH, Alter Wall 67/79, 20457 Hamburg, Germany.
