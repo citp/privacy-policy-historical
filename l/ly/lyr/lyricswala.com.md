@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricswala.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709125329id_/https%3A//www.lyricswala.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricswala.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021015926id_/http%3A//www.lyricswala.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,6 +48,6 @@ www.LyricsWaLa.Com
 Kot Ise Khan  
 Moga, Punjab 142043  
 India  
-princemoga17@gmail.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This policy is powered by Trust Guard [PCI compliance](https://web.archive.org/web/20160323162638/http://www.trust-guard.com/PCI-Compliance-s/65.htm).
