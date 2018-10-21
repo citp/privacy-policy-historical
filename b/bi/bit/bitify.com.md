@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitify.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930131758id_/https%3A//bitify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitify.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021034840id_/https%3A//bitify.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Your Rights and Our Privacy and Commitment on Bitify
 
@@ -63,7 +63,7 @@ If there is a change of control of our business or a sale or transfer of busines
 
 **Complaints:** If you believe that we have breached the Australian Privacy Principles and wish to make a complaint about that breach, please contact us by email setting out details of the breach. We will promptly investigate your complaint and respond to you in writing setting out the outcome of our investigation, what steps we propose to take to remedy the breach and any other action we will take to deal with your complaint.
 
-**Unsubscribe:** To unsubscribe from our e-mail database, or opt out of communications, please contact us at support@bitify.com.
+**Unsubscribe:** To unsubscribe from our e-mail database, or opt out of communications, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ## 5\. Storage and Security
 
@@ -91,4 +91,4 @@ This Privacy Policy may be amended, including with changes, additions and deleti
 BITIFY PTY. LTD. (ABN 33 613 066 676)  
 Level 2/341 Barrenjoey Road  
 Newport Beach NSW 2106  
-Email: info@bitify.com
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
