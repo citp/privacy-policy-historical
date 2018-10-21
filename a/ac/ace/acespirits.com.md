@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acespirits.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010015743id_/http%3A//www.acespirits.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acespirits.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021070943id_/https%3A//www.acespirits.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Ace Spirits- Craft Beer & Whiskey Boutique
 
