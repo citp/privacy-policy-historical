@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cryptothrift.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930131758id_/https%3A//bitify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptothrift.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021034840id_/https%3A//bitify.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Your Rights and Our Privacy and Commitment on Bitify
 
