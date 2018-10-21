@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipesthatcrock.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201152616id_/http%3A//www.recipesthatcrock.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipesthatcrock.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021101403id_/https%3A//www.recipesthatcrock.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure, Disclaimer & Privacy Policies - Recipes That Crock!
 
@@ -21,7 +21,7 @@ Additional ongoing relationships include:
 
 
 
-To get your own policy(sans the common sense commentary), go to[http://www.disclosurepolicy.org](http://www.disclosurepolicy.org/)
+To get your own policy(sans the common sense commentary), go to [https://www.disclosurepolicy.org](https://www.disclosurepolicy.org/)
 
 ## Disclaimer
 
@@ -49,17 +49,30 @@ We recognize that your privacy is important. This document outlines the types of
 
 All Goode Media, LLC (including RecipesThatCrock.com and GOODEnessGracious.com) strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers’, consumers’ and online visitors’ privacy on our website.
 
-**Personal Information**
+ **Personal Information**
 
 All Goode Media, LLC (including RecipesThatCrock.com and GOODEnessGracious.com) collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number.
 
 This information is collected if you request information from us, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor inquiries.
 
-Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties.
+Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold to third parties.
 
-The search box on this web site (“Search Box”) is powered by Google Inc (“Google”). You acknowledge and agree that Google’s privacy policy (located at <http://www.google.com/privacy.html>) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy.
+Additionally, the Website may use third-party service providers to service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies.
 
-**Use of Cookies and Web Beacons**
+The Website currently uses the following third-party service providers who to our knowledge may collect personal information as follows:
+
+  * Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
+  * Google Search – the search box on this web site (“Search Box”) is powered by Google Inc (“Google”). You acknowledge and agree that Google’s privacy policy (located at <https://www.google.com/privacy.html>) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy.
+  * MailChimp/Mailer Lite – these services are used for delivery of email updates and newsletters. They store your provided name and email address for purposes of delivering such communications upon your request when you signed up for the service.  Please refer to the MailChimp and/or Mailer Lite privacy policies for further information.
+  * MiloTree – this service connects users to our social media profiles and tracks clicks and subscriptions. Please refer to the MiloTree privacy policies for further information.
+
+
+
+This list may be amended from time to time in the Website’s sole discretion.
+
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
+
+ **Use of Cookies and Web Beacons**
 
 We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer’s hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site’s services, a cookie enables All Goode Media, LLC (including RecipesThatCrock.com and GOODEnessGracious.com) to recall your specific information on subsequent visits.
 
@@ -69,34 +82,34 @@ A web beacon is a transparent image file used to monitor your journey around a s
 
 We may serve third-party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you’ve seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site.
 
-Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DoubleClick cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DoubleClick cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DoubleClick cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DoubleClick cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html).
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn’t cause a problem with our site, should you so choose.
 
-**Children’s Online Privacy Protection Act**
+ **Children’s Online Privacy Protection Act**
 
 This website is directed to adults; it is not directed to children under the age of 13. We operate our site in compliance with the Children’s Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age.
 
-**Non-Personal Information**
+ **Non-Personal Information**
 
 In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes.
 
-**Release of Information**
+ **Release of Information**
 
 If All Goode Media, LLC (including RecipesThatCrock.com or GOODEnessGracious.com) is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.
 
-**How You Can Correct or Remove Information**
+ **How You Can Correct or Remove Information**
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please contact us at [recipesthatcrock@gmail.com](mailto:recipesthatcrock@gmail.com).
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please contact us at cris@recipesthatcrock.com.
 
-**Updates and Effective Date**
+ **Updates and Effective Date**
 
 All Goode Media, LLC (including RecipesThatCrock.com and GOODEnessGracious.com) reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
 
-**Agreeing to Terms**
+ **Agreeing to Terms**
 
 If you do not agree to All Goode Media, LLC’s (including RecipesThatCrock.com and GOODEnessGracious.com) Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
 
 Your use of this site indicates acceptance of this privacy policy.
 
-_This page was updated March 2015 and overrides any previous policies._
+ _This page was updated May 2018 and overrides any previous policies._
