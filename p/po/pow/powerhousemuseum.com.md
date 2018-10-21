@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the powerhousemuseum.com privacy policy that was archived on 2018-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180402221931id_/https%3A//maas.museum/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerhousemuseum.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021044836id_/https%3A//maas.museum/privacy) for the most accurate reproduction.*
 
 # Privacy – Museum of Applied Arts and Sciences
 
 Museum of Applied Arts and Sciences is committed to protecting your privacy, including throughout and as a result of your interaction/s with our websites. These include:
 
   * maas.museum
-  * powerhousemuseum.com
-  * sydneyoberservatory.com
-  * castlehill.powerhousemuseum.com
-  * sydneydesign.com.au
-  * makerfairesydney.com
-  * dhub.org
-  * ultimosciencefestival.com
-  * migrationheritage.nsw.gov.au
+  * collection.maas.museum
+  * sydneyscience.com.au
+  * sydneydesign.com.au 
+  * api.maas.museum
+  * new.maas.museum
+  * archive.maas.museum
+  * museumex.maas.museum
+  * labs.maas.museum
+  * ma.as
+  * www.themarslab.org
+  * www.australiandressregister.org
+  * www.dhub.org
 
 
 
@@ -47,6 +51,10 @@ Cookies are small files that a website can store on a user’s computer and are 
 We also use cookies to measure certain visitor patterns, including areas of the website you have visited. This research is used to help us understand user habits, so the website can be improved.
 
 If you prefer not to receive cookies, you can adjust your internet browser to refuse cookies or to warn you when cookies are being used. Refusal may make some parts of our websites inaccessible, unusable, or not function correctly.
+
+### **Use of pixels**
+
+Pixels are 1 x 1 pixel images that allow services to tell companies how many people have visited their site. When you take a certain action on our website, a request is sent to the server to download the tracking pixel attached to the content you’re interacting with. It’s an invisible process to you but the data collected will help us build better digital ad and content experiences for you. All information collected is de-identified and we will never collect or disclose any personal information.
 
 ### **Collection search data**
 
