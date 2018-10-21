@@ -1,46 +1,60 @@
-> *The following text is extracted and transformed from the myworldofwork.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175318id_/https%3A//www.myworldofwork.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myworldofwork.co.uk privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021045154id_/https%3A//www.myworldofwork.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | My World of Work
 
-The website [[www.myworldofwork.co.uk]](http://www.myworldofwork.co.uk\]) (the “Site”) is operated by The Skills Development Scotland Co. Limited, a company registered in Scotland with company number SC202659 and having its registered office at Monteith House, 11 George Square, Glasgow G2 1DY (“we” or “us”).
+__Who manages this website?
 
-We are committed to preserving your privacy. Please read the following privacy policy to understand how we use and protect the information that you provide to us.
+This website [myworldofwork.co.uk] is operated by The Skills Development Scotland Co. Limited, a company registered in Scotland with company number SC202659 and having its registered office at Monteith House, 11 George Square, Glasgow G2 1DY ("we" or "us")
 
-By using the Site you consent to the collection, storage, use and transfer of your information under the terms of this policy.
+__What information do we collect about you?
 
-### What information do we collect?
+### You provide some data yourself:
 
-We may collect, store and use the following kinds of personal information:
-
-  * Information that you provide to us for the purpose of registering on the Site
-  * Information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters 
-  * Information about your computer and about your visits to and use of the Site (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, and website navigation)
+  * Personal information that you provide to us for the purpose of registering on the website.  Such as your name, email address, date of birth, or other information relating to your current situation.
+  * information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters
 
 
 
-### Cookies
+### We collect some data automatically:
 
-A cookie is information sent by a web server to a web browser and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
+  * information about your computer and about your visits to and use of the website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, and website navigation).  We use this data to help us improve the website and the services we provide to you.
+  * If you are signed in, we’ll also know how you use the website.  This helps us give you a better, more personalised service.
 
-For more information on cookies which are used on My World of Work, read our [cookies policy](https://web.archive.org/cookies).
 
-### Using your personal information
 
-Personal information submitted to us via the Site will be used for the purposes specified in this privacy policy or in relevant parts of the Site.
+We will never ask unnecessary questions beyond what is required to provide you with the best service. Information may be provided by you, by a teacher, guardian or parent if you are a young person or may be passed to us by another agency working with you. 
 
-We may use your personal information to:
+We process your personal information through our duties as a public organisation. We are justified under the General Data Protection Regulation in processing your personal information as it is necessary for us to do so in order to provide a careers service and relevant support to Scotland.
 
-  * Administer the Site
-  * Improve your browsing experience by personalising the Site
-  * Enable your use of the services available on the Site
-  * Send you general (non-marketing) commercial communications
-  * Send you email notifications which you have specifically requested
-  * Send you our newsletter and other marketing communications which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications)
-  * Address enquiries and complaints made by or about you relating to the Site
-  * Analyse the information we collect so that we can administer, support and improve and develop our business and the services we offer;
-  * Provide you with access to certain parts of our Site; 
-  * All other purposes consistent with the proper performance of our operations and business; and
-  * to contact you for your views on our services
+This justification can be found in Article 6(1)(e) of the General Data Protection Regulation.
+
+Skills Development Scotland’s public duty to provide a careers service and its associated support comes from the Employment and Training Act 1973.
+
+__How do we use your data?
+
+We use your data to undertake a number of activities:
+
+  * to administer the website
+  * to improve your browsing experience by personalising the website
+  * to enable your use of the services available on the website
+  * to send you general (non-marketing) commercial communications
+  * to send you email notifications which you have specifically requested
+  * to send you newsletters and other marketing communications which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications)
+  * to address enquiries and complaints made by or about you relating to the website
+  * to analyse the information we collect so that we can administer, support and improve and develop our business and the services we offer
+  * to provide you with access to certain parts of our website 
+  * for all other purposes consistent with the proper performance of our operations and business
+  * to contact you for your views on our services.
+  * provide you with effective careers advice
+
+
+
+### Applications to programmes
+
+The Site also contains information about some of our programmes, and provides links to enable you to apply for these programmes.
+
+  * Where you can apply for any of our programmes through the Site, the information you provide to us will be subject to separate privacy terms, as the information you provide to us in relation to these matters may be used by us in a different way, and for different purposes.
+  * Details of the applicable privacy terms for each programme application are available either on, or through the links available on, the relevant pages of the Site.
 
 
 
@@ -48,53 +62,84 @@ We may contact you by post, telephone or SMS, as well as by e-mail. If you chang
 
 We will not provide your personal information to any third parties for the purpose of direct marketing.
 
-### Disclosures
+__How do we protect your information?
 
-The information you provide to us will be treated as confidential. However, we may disclose your information to other third parties who act for us such as our employees, officers, agents, or partners as necessary for the purposes set out in this policy or for purposes approved by you.
+Skills Development Scotland maintains a high standard of both physical and network security designed to protect paper or electronic forms of storage to hold and process your personal information.
 
-Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent.
+Information that we hold about you will be subject to rigorous safeguards to ensure that it isn't accessed or disclosed inappropriately. We also take steps so that your information is not damaged or rendered unavailable to those who have a right to see it.
 
-### Security of your personal information
+To meet confidentiality requirements for our customers, stakeholders and staff, Skills Development Scotland has Confidentiality, Data Protection, Information Technology and Systems Policies in place and we ensure that staff are fully aware of these and the associated guidance in relation to your personal information. These also apply when we dispose of paper records and delete electronic information in ways that ensure that your information cannot be recreated.
 
-We will take reasonable technical and organisational security precautions to prevent the loss, misuse or alteration of your personal information.
+__When might we share your information?
 
-We will store all the personal information you provide on our secure (password- and firewall- protected) servers.
+We may need to share some of your personal information with partners that work with us to deliver our services to you. Our partners are obliged to keep your information secure and to use the information only to fulfil specific and agreed purposes. We will check where possible that appropriate steps have been taken by the recipient to protect your information.  
 
-Data transmission over the internet is inherently insecure, and although we will take the reasonable security measures outlined above we cannot guarantee the security of data sent over the internet.
+Because we want your experience of our website to be as informative and useful as possible, we may provide links to websites operated by third parties ("Third-Party Websites").
 
-You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the Site).
+The website may also include functionality that allows you to publish your information onto third-party websites.
 
-Please help us keep our records secure and updated by informing us of any changes to your e-mail address and other contact details.
+Please be aware that we do not control such Third-Party Websites and that such Third-Party Websites may send their own cookies to users, or otherwise collect data or solicit personal information.
 
-### Policy amendments
+We assume no responsibility for the information gathering practices of Third Party websites that you are able to access through our website, and we encourage you to review each Third-Party website's privacy policy before disclosing any personally identifiable information.
 
-We may update this privacy policy by posting a new version on the Site. You should check this page occasionally to ensure you are happy with any changes and any substantial changes will be highlighted on the Site.
+__Cookies
 
-We may also notify you of changes to our privacy policy by email.
+Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. This information is used to track visitor use of the website and to compile statistical reports on website activity. For further information visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-### Your rights
+You can set your browser not to accept cookies and the above websites tell you how to remove cookies from your browser. However, in a few cases some of our website features may not function as a result.
 
-You may instruct us to provide you with any personal information we hold about you. Provision of such information:
+For more information on cookies which are used on My World of Work, read our [ **cookies policy**](https://www.myworldofwork.co.uk/cookies).
 
-  * May be subject to payment of a nominal fee
-  * Will be subject to your provision of evidence of your identity (for this purpose, we will accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address)
+__How long do we store your personal information?
+
+When you give us any personal information we’ll let you know how long we’ll hold it for. If we don’t state a specific length of time, then we will follow these principles:
+
+  * We only hold your information for as long as we are running the activities we told you about
+  * We think about what type of information it is, the amount we have collected, how sensitive it might be and any legal requirements for us to store the data
+  * We design our services so that we don’t hold your information any longer than we have to, after which we delete it
+  * We always think about the potential risk from anyone using or sharing this information without permission, and have a number of procedures and checks to ensure only authorised people can view your data.
 
 
 
-We may withhold such personal information to the extent permitted by law.
+### What if I have an account?
 
-### Third party websites
+We’ll hold the personal information you give us as part of your account for as long as you are using an account with us.
 
-Because we want your experience of our Site to be as informative and useful as possible, we may provide links to websites operated by third parties (“Third Party Websites”). My World of Work may also include functionality that allows you to publish your information from My World of Work onto third party websites. Please be aware that we do not control such Third Party Websites and that such Third Party Websites may send their own cookies to users, or otherwise collect data or solicit personal information. We assume no responsibility for the information gathering practices of Third Party Websites that you are able to access through our Site, and we encourage you to review each Third Party Website's privacy policy before disclosing any personally identifiable information.
+  * We may close your account if you haven’t used it in the last 5 years. We’ll send you an email to tell you that we plan to do this before we delete anything, so please check to see if we’ve sent you any emails about this
+  * If you delete your account, then your personal information will be deleted, and the remaining information made anonymous. We might then use it to help us improve our services.
 
-### Updating information
+
+
+__Policy amendments
+
+We may update this privacy policy by posting a new version on this website. You should check this page occasionally to ensure you are happy with any changes and any substantial changes will be highlighted on this website.
+
+__Your rights
+
+As of 25th May 2018, you have a number of new rights available to you in terms of making a request to access the personal information we hold on you, to understand what we do with it and request that something be changed. It is completely free to make these requests.
+
+If you wish to find out what these rights are, please [find them here](https://www.skillsdevelopmentscotland.co.uk/about/policies/privacy) and get in touch with one of the contacts listed at the bottom of this notice if you wish to find more information or enact one of these rights.
+
+__Updating information
 
 Please let us know if the personal information which we hold about you needs to be corrected or updated.
 
-### Contact
+__Data Controller
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email at [myworldofwork@sds.co.uk](mailto:myworldofwork@sds.co.uk) or by post to My World of Work, Monteith House, 11 George Square, Glasgow G2 1DY.
+The data controller responsible in respect of the information collected on this website is The Skills Development Scotland Co. Limited, which is notified to the Information Commissioner as a data controller with registration number Z1445093.
 
-### Data controller
+If you remain dissatisfied with our response following any review related to a request you have made regarding your personal data, you are entitled to appeal to the Information Commissioner. Such an application should be sent to the following address:
 
-The data controller responsible in respect of the information collected on this Site is The Skills Development Scotland Co. Limited, which is notified to the Information Commissioner as a data controller with registration number Z1445093.
+Information Commissioners Office
+
+Wycliffe House Water Lane Wilmslow SK9 5AF
+
+**Phone:** 01625 545745
+
+**Website:**[https://www.ico.gov.uk](https://www.ico.gov.uk/)
+
+__Contact
+
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email at [**myworldofwork@sds.co.uk**](mailto:myworldofwork@sds.co.uk) by post to Skills Development Scotland, Monteith House, 11 George Square, Glasgow G2 1DY.
+
+Alternatively, you can get in touch with our Data Protection Officer at [**dpo@sds.co.uk**](mailto:dpo@sds.co.uk), or alternatively our GDPR team at [**gdpr@sds.co.uk**](mailto:gdpr@sds.co.uk)
