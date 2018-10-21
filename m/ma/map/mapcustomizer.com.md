@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapcustomizer.com privacy policy that was archived on 2018-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180421045702id_/https%3A//www.mapcustomizer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapcustomizer.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022012243id_/https%3A//www.mapcustomizer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mapcustomizer.com
 
@@ -103,7 +103,7 @@ Users will be notified of any privacy policy changes:
 
 Users are able to change their personal information: 
 
-  * By emailing us at [accounts@mapcustomizer.com](mailto:accounts@mapcustomizer.com). 
+  * By emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ec8d8f8f839982989fac818d9c8f999f9883818596899ec28f8381). 
 
 
 How does our site handle do not track signals?
@@ -148,9 +148,9 @@ We collect your email address in order to identify you as a unique user on the s
 
 To be in accordance with CANSPAM we agree to the following: 
 
-> If at any time you would like to unsubscribe from receiving future emails, you can email your request to [accounts@mapcustomizer.com](mailto:accounts@mapcustomizer.com), and we will promptly remove you from _ALL_ correspondence. 
+> If at any time you would like to unsubscribe from receiving future emails, you can email your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#315052525e445f4542715c5041524442455e5c584b54431f525e5c), and we will promptly remove you from _ALL_ correspondence. 
 
 Contacting Us
     
 
-If you have questions or comments, you can contact me via email: [patrick@kaeding.name](mailto:patrick@kaeding.name), or by using the [form on my blog](http://kaeding.name/contact/). 
+If you have questions or comments, you can contact me via email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#502031242239333b103b313534393e377e3e313d35), or by using the [form on my blog](http://kaeding.name/contact/). 
