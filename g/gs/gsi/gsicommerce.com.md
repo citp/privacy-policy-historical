@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gsicommerce.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204153531id_/https%3A//www.radial.com/legal/website-user-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsicommerce.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021023803id_/https%3A//www.radial.com/legal/website-user-privacy-notice) for the most accurate reproduction.*
 
 # Web Site User Privacy Notice | Privacy | Radial
 
 **Effective Date**
 
-This Notice was updated on September 23, 2016. 
+This Notice was updated on January 5, 2018. 
 
 ### Contents & Summary
 
@@ -118,7 +118,7 @@ Radial may use these types of EU Personal Data for business purposes, including 
 **Why We Collect Information**  
 We (including all members of our corporate family) may collect and use the information collected at our Sites for any internal purpose, and we may provide that information to our business partners and vendors to be used by them in connection with such purposes. For example, we may use this data to monitor our Sites and to collect aggregate data for marketing purposes and for other future uses, or to determine the most appropriate information to send to those who request it.
 
-You may choose voluntarily to give us personally identifiable information, such as your name, address, phone number, email address, or other information about yourself.  In addition, we may collect non-personal information automatically as you navigate our sites. This information may include (but may not be limited to): location data, IP address, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our sites (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, clickstream data, device data such as mobile identifiers, carrier network information, the mobile website or mobile app used, and cookie or pixel tag data.
+You may choose voluntarily to give us personally identifiable information, such as your name, address, phone number, email address, or other information about yourself.  In addition, we may collect information automatically as you navigate our sites. This information may include (but may not be limited to): location data, IP address, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our sites (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, clickstream data, device data such as mobile identifiers, carrier network information, the mobile website or mobile app used, and cookie or pixel tag data.
 
 Certain forms on our sites may also request contact and profile information, such as user name, email address, website, phone number, or company information. Completion of these forms is entirely voluntary but may be required in order to request certain services from Radial. Resume submissions on our Sites are used to screen candidates and contact them for interviews.
 
