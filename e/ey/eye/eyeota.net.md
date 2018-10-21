@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eyeota.net privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528033322id_/http%3A//eyeota.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeota.net privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022013334id_/http%3A//eyeota.net/privacy-policy) for the most accurate reproduction.*
 
 # Eyeota Privacy Policy
 
-Issued: May 2018
+Issued: July 2018
 
 Eyeota is the global leader in audience data, allowing brands to target their advertising campaigns with precision. With more than 3.5 billion unique global profiles, we offer data with scale and depth that enables advertisers to paint a fuller picture of audiences.
 
@@ -101,6 +101,20 @@ We use online technologies such as Cookies, Pixel Tags, Server-to-Server Connect
 
 Eyeota’s Platform utilizes cookies for identifying individual browsers and storing data against cookie IDs for the purposes of interest-based advertising and analytics. The Platform also uses cookies to store users’ opt-out preferences. Eyeota’s cookies are considered to be “third-party” cookies; please note that some browsers or other software might be configured to block third-party cookies by default.
 
+**Does Eyeota process data collected from consent signals?**
+
+Yes. Eyeota is a registered Global Vendor within the IAB Transparency and Consent Framework (IAB Vendor ID: 120) which in turn pushes vendor list and consent rights through various market-facing Consent Management Platforms (CMPs). We use this framework to collect and manage consent signals from our data partners for Matching Data to Offline Sources as well as for the purposes of Storage and Access of Information, Personalisation, Ad Selection, Reporting and Delivery, Content Delivery, Selection and Reporting, and Measurement.
+
+Our platform also accepts consent-based data sets from CMPs that operate outside of the IAB Transparency and Consent Framework.
+
+**Does Eyeota also accept data collected under Legitimate Interest?**
+
+Yes. Some of our data partners have chosen to handle data collection for pseudonymous targeting under legitimate interest. Following the legitimate interest provisions of GDPR, we accept this data. However, we also require additional information that supports a data provider’s case for legitimate interest.
+
+Eyeota is able to filter and separate data collected under consent and legitimate interest and provide specific siloed consent data based on client demand.
+
+We believe it is likely that consent will ultimately be required under the ePrivacy Regulation and strongly encourage our data partners to obtain a consent as (may be) required under the ePrivacy Regulation.
+
 **What is Eyeota’s legal basis for collecting and processing Platform Data in the EEA?**
 
 For data from EU data subjects processed via the Platform, Eyeota operates under the legitimate interest provisions of the GDPR.
@@ -125,7 +139,7 @@ If you have any further questions relating to Eyeota’s legal basis for collect
 
 **What Platform Data information is shared with third parties?**
 
-Eyeota shares Platform Data with technology platform partners who provide online advertising services to marketers, advertisers and online publishers. For a full list of the organizations that receive Platform Data from Eyeota directly, please refer to Eyeota’s demand side integration list [here](http://eyeota.com/privacy-policy/integrations/). We will endeavor to keep this list updated on a regular basis as our partners may change from time to time.
+Eyeota shares Platform Data with partners who provide online advertising services to marketers, advertisers and online publishers. For a full list of the organizations that receive Platform Data from Eyeota directly, please refer to Eyeota’s Integration list [here](http://eyeota.com/privacy-policy/integrations/). We will endeavor to keep this list updated on a regular basis as our partners may change from time to time.
 
 Reporting is also an integral part of Eyeota’s business. Under contract, our clients and data providers receive periodic operational reports for performance tracking and billing and auditing. We also generate reports that provide insights on the popularity and usage of the aggregated data, such as the number of data subjects that appear in a segment, in aggregate. The reports are prepared using aggregated Platform Data and contain only pseudonymized data.
 
@@ -227,7 +241,7 @@ Please complete a Subject Access Request form to receive a copy of any platform 
 
 
 
-The information you supply in this form will only be used to identify the platform and/or business data you are requesting and responding to your request. Once you submit a Subject Access Request form we will endeavor to respond to you within 72 hours of receipt of your request. Please allow 40 days for Eyeota to process your request. You can also email Eyeota at [privacy@eyeota.com](mailto:privacy@eyeota.com?subject=Subject%20Access%20Request) with any questions or queries you have regarding your data.
+The information you supply in this form will only be used to identify the platform and/or business data you are requesting and responding to your request. Once you submit a Subject Access Request form we will endeavor to respond to you within 72 hours of receipt of your request. Please allow 30 days for Eyeota to process your request. You can also email Eyeota at [privacy@eyeota.com](mailto:privacy@eyeota.com?subject=Subject%20Access%20Request) with any questions or queries you have regarding your data.
 
 [Submit Subject Access Request](https://get.eyeota.com/subject-access-request-form)
 
