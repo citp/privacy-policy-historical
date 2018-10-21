@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seatmaestro.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406055906id_/https%3A//www.seatmaestro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatmaestro.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021232047id_/https%3A//www.seatmaestro.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | SeatMaestro.com
+# Privacy policy | SeatMaestro
 
 SeatMaestro® is your best source for airline seat information and detailed seat maps for both regular and low-cost flights. We cover 178 airlines worldwide and we update the information on a daily basis. SeatMaestro offers up-to-date airline seat maps, seat reviews and a color-coded system to find the best airplane seats during your next flight. For each aircraft, we provide detailed information on seat pitch (amount of legroom), seat recline, seat width and in-flight amenities. In addition, we offer airline specific information regarding Check-in, Baggage Allowance, Minors and Traveling with Babies and Pets. Seatmaestro.com was exclusively designed for assisting airplane travelers in obtaining as well as sharing information on airplane seat maps and air travel. It is operated by SEATMAESTRO LLC., a privately held company in Miami, FL, USA. More details about SeatMaestro may be found below under “Contacting Us”.
 
