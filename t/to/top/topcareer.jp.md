@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topcareer.jp privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619032935id_/http%3A//en.4th-valley.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcareer.jp privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022010222id_/http%3A//en.4th-valley.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy policy | Fourth Valley Concierge Corporation
 
