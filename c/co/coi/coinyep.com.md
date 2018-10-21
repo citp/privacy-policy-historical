@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the coinyep.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617034114id_/http%3A//coinyep.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinyep.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021155417id_/http%3A//coinyep.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-__Privacy policy
-
-Last modified: 2017
+Last modified: 2018
 
 ### Personal identification information
 
@@ -41,11 +39,11 @@ The cookie-related information is not used to identify you personally and the pa
 
 ### Third party cookies
 
-  * **Google Analytics** \- [Privacy policy](http://www.google.com/intl/en/policies/technologies/types/) \- [Opt-out](https://tools.google.com/dlpage/gaoptout?hl=en)
+  * **Google Analytics** \- [Privacy policy](https://www.google.com/intl/en/policies/technologies/types/) \- [Opt-out](https://tools.google.com/dlpage/gaoptout?hl=en)
 
   *  **Quantcast** \- [Privacy policy](https://www.quantcast.com/privacy/) \- [Opt-out](https://www.quantcast.com/opt-out)
 
-  *  **AddThis** \- [Privacy policy](http://www.addthis.com/privacy) \- [Opt-out](http://www.addthis.com/privacy/opt-out)
+  *  **AddThis** \- [Privacy policy](https://www.addthis.com/privacy) \- [Opt-out](https://www.addthis.com/privacy/opt-out)
 
 
 
