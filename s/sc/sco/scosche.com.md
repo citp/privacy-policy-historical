@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the scosche.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313113858id_/https%3A//www.scosche.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scosche.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021213844id_/https%3A//www.scosche.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy by Scosche
+# Privacy Policy
 
 We at Scosche are committed to protecting your privacy. Our goal is to provide you with a positive experience on our websites and when using our apps, products and services, while at the same time keeping your Personal Information, as defined below, secure. Our privacy practices are described below. This Privacy Policy covers all Scosche Products and Scosche Websites. By visiting Scosche Websites, using Scosche Products or providing us with your Personal Information (as defined below), you are accepting and consenting to the practices, terms and conditions described in this Privacy Policy.
+
+**California Privacy:** Orders placed from California comply with California collection and use of personally identifiable information laws. 
+
+**EU Customers:** Scosche follows all personal privacy and data collection regulations spelled out in the EU GDPR (General Data Protection Regulations). 
 
 Scosche wants to make Scosche Websites easy for you to navigate and Scosche Products easy for you to use. We are constantly improving Scosche websites and Scosche Products to make them more user-friendly.
 
@@ -14,7 +18,7 @@ Scosche may collect both Personal Information and Non-Personal Information. "Per
 
 Information may be aggregated and/or anonymized. When information is aggregated, it is combined with information about other customers and users. When information is anonymized, Personal Information is removed from collected data and the remaining portion of the data, containing only Non-Personal Information, is repurposed for internal or external use, such as, for example, to determine how many users of a particular router include an Internet-enabled television in a home network environment, or how many users viewed a particular website video or advertisement. Aggregated information that includes Personal Information is considered Personal Information until it has been anonymized. Anonymized information is considered Non-Personal Information. In general, usage data collected when you visit Scosche Websites or use Scosche Products is both aggregated and anonymized so it does not identify you personally and is therefore Non-Personal Information.
 
-The Scosche Websites and Scosche Products are not directed to, nor does Scosche knowingly collect Personal Information from children under the age of 13. If we are informed that we have collected the Personal Information of a child under the age of 13, we will delete that Personal Information from our systems. If you believe we might have inadvertently collected Personal Information from or about a child under the age of 13, please contact us at customerservice@scosche.com.
+The Scosche Websites and Scosche Products are not directed to, nor does Scosche knowingly collect Personal Information from children under the age of 13. If we are informed that we have collected the Personal Information of a child under the age of 13, we will delete that Personal Information from our systems. If you believe we might have inadvertently collected Personal Information from or about a child under the age of 13, please contact us at [customerservice@scosche.com](mailto:customerservice@scosche.com "Email Scosche Customer Service").
 
 **How We Collect Information**
 
@@ -36,42 +40,24 @@ Any phone number or email address used to contact customer support/service.
 
 We may use the information we collect for a number of purposes. These purposes will be consistent with the reason you provided the information to us or for a directly related purpose. The uses we make of such information include the following:
 
-  * • To set up an account for you on Scosche Websites or Scosche Products.
-
-  * • To facilitate your purchase of Scosche Products.
-
-  * • To authenticate use of your account or purchases and/or use of a Scosche Product.
-
-  * • To register your Scosche Product in our product database.
-
-  * • To carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us.
-
-  * • To assist you with customer support.
-
-  * • To communicate about and administer participation in customer promotions and surveys.
-
-  * • To provide the Scosche Products you request.
-
-  * • To provide you with information about the Scosche Products you use, such as new features, bug fixes or upgrades.
-
-  * • To help us develop new Scosche Products and improve current Scosche Products.
-
-  * • To notify you about changes to Scosche Websites and Scosche Products and changes to our terms, conditions and policies.
-
-  * • To administer Scosche Websites and Scosche Products for internal operational purposes, including troubleshooting, data and statistical analysis, testing, research and survey purposes.
-
-  * • To improve Scosche Websites and Scosche Products and to ensure that content is presented in the most effective manner for you and for your computer or device.
-
-  * • To ensure the security of Scosche Websites and Scosche Products.
-
-  * • To monitor and regulate interactive features of Scosche Websites and Scosche Products that you may choose to participate in, including live chat relating to Scosche Products.
-
-  * • To help you navigate Scosche Websites.
-
-  * • To measure or understand the effectiveness of advertising we serve to you and others who visit Scosche Websites and to deliver relevant personalized advertising to you and others.
-
-  * • To determine which aspects of Scosche Websites and Scosche Products are most useful to you and other users of Scosche websites and Scosche Products.
-
+  * To set up an account for you on Scosche Websites or Scosche Products.
+  * To facilitate your purchase of Scosche Products.
+  * To authenticate use of your account or purchases and/or use of a Scosche Product.
+  * To register your Scosche Product in our product database.
+  * To carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us.
+  * To assist you with customer support.
+  * To communicate about and administer participation in customer promotions and surveys.
+  * To provide the Scosche Products you request.
+  * To provide you with information about the Scosche Products you use, such as new features, bug fixes or upgrades.
+  * To help us develop new Scosche Products and improve current Scosche Products.
+  * To notify you about changes to Scosche Websites and Scosche Products and changes to our terms, conditions and policies.
+  * To administer Scosche Websites and Scosche Products for internal operational purposes, including troubleshooting, data and statistical analysis, testing, research and survey purposes.
+  * To improve Scosche Websites and Scosche Products and to ensure that content is presented in the most effective manner for you and for your computer or device.
+  * To ensure the security of Scosche Websites and Scosche Products.
+  * To monitor and regulate interactive features of Scosche Websites and Scosche Products that you may choose to participate in, including live chat relating to Scosche Products.
+  * To help you navigate Scosche Websites.
+  * To measure or understand the effectiveness of advertising we serve to you and others who visit Scosche Websites and to deliver relevant personalized advertising to you and others.
+  * To determine which aspects of Scosche Websites and Scosche Products are most useful to you and other users of Scosche websites and Scosche Products.
 
 
 
@@ -81,20 +67,15 @@ Under no circumstances do we rent or sell your Personal Information to third par
 
 We may share Personal Information in the following ways:
 
-  * • Within Scosche for purposes of data processing or storage.
-
-  * • With business partners, service vendors, authorized third-party agents or contractors to provide a requested service or transaction, including processing orders, hosting websites, storing your information, providing email communications on our behalf and providing customer support. We only provide these third parties with the minimum amount of Personal Information necessary to complete or provide the requested service or transaction, and we do not allow third parties to use your Personal Information for a different purpose than what was disclosed to you.
-
+  * Within Scosche for purposes of data processing or storage.
+  * With business partners, service vendors, authorized third-party agents or contractors to provide a requested service or transaction, including processing orders, hosting websites, storing your information, providing email communications on our behalf and providing customer support. We only provide these third parties with the minimum amount of Personal Information necessary to complete or provide the requested service or transaction, and we do not allow third parties to use your Personal Information for a different purpose than what was disclosed to you.
 
 
-  * • With service providers, advisors or other third parties to the extent reasonably necessary to proceed with the negotiation or completion of a merger, acquisition or sale of all or a portion of our assets. If Scosche merges with or acquires or is acquired by another entity, Personal Information would be transferred as a whole to the successor entity.
+  * With service providers, advisors or other third parties to the extent reasonably necessary to proceed with the negotiation or completion of a merger, acquisition or sale of all or a portion of our assets. If Scosche merges with or acquires or is acquired by another entity, Personal Information would be transferred as a whole to the successor entity.
 
 
-
-  * • To comply with the law or legal process (such as responding to subpoenas or court orders), to comply with government reporting obligations and to exercise our legal rights or defend against legal claims.
-
-  * • To protect our legal rights or those of others, such as protecting the Scosche brand or investigating violations of Scosche terms of use, violations of law, intellectual property infringement, misuse of Scosche websites, fraud or potential threats to personal safety.
-
+  * To comply with the law or legal process (such as responding to subpoenas or court orders), to comply with government reporting obligations and to exercise our legal rights or defend against legal claims.
+  * To protect our legal rights or those of others, such as protecting the Scosche brand or investigating violations of Scosche terms of use, violations of law, intellectual property infringement, misuse of Scosche websites, fraud or potential threats to personal safety.
 
 
 
@@ -118,7 +99,7 @@ When you purchase new Scosche Products, we will only use your Personal Informati
 
 **Where We Store Your Information**
 
-The data that we collect from you will be stored at locations in the United States.  We also use cloud-based applications and services to store and process your Personal Information, which could result in your Personal Information being stored outside your country of residence, unless it is the U.S.
+The data that we collect from you will be stored at locations in the United States. We also use cloud-based applications and services to store and process your Personal Information, which could result in your Personal Information being stored outside your country of residence, unless it is the U.S.
 
 We will take such steps as are reasonable to make sure we and our service providers do not breach the privacy principles that govern our collection of your personal information. By providing your Personal Information to us, you fully understand and consent to the transfer, processing and storage of Personal Information outside of your country of residence where data protection standards may be different, and you consent to disclosure and use of your Personal Information to overseas service providers who may not fully comply with the particular laws of your country. Our Privacy Policy and our practices are designed to provide a globally consistent level of protection for Personal Information all over the world. This means that even in countries whose laws provide for less protection for your information, Scosche will still handle your information in the manner described in this Privacy Policy and in conformity with all applicable laws.
 
@@ -126,25 +107,18 @@ We will take such steps as are reasonable to make sure we and our service provid
 
 We need your help in keeping your Personal Information accurate and up to date, so please notify us of any changes to your Personal Information. You can access and update your Personal Information and communication preferences at any time in the following ways:
 
-  * • By clicking the "Unsubscribe" link in any email you receive from us.
-
-  * • By sending an email to customerservice@scosche.com. Please be sure to include your name, email address and specific relevant information about the information you would like to change or the material that you no longer wish to receive.
-
-  * • For many Scosche Websites and Scosche Products, by signing in to your online account located at the URL provided when you signed up for the Scosche website.
+  * By clicking the "Unsubscribe" link in any email you receive from us.
+  * By sending an email to [customerservice@scosche.com](mailto:customerservice@scosche.com "Email Scosche Customer Service"). Please be sure to include your name, email address and specific relevant information about the information you would like to change or the material that you no longer wish to receive.
+  * For many Scosche Websites and Scosche Products, by signing in to your online account located at the URL provided when you signed up for the Scosche website.
 
 
 
+We will honor your reasonable request to:
 
-• We will honor your reasonable request to:
-
-  * • Correct your data if it is inaccurate.
-
-  * • Transfer your Personal Information to a third party.
-
-  * • Delete your Personal Information, unless we are required to retain it by law.
-
-  * • Provide you with a copy of Personal Information held on our current records at no charge, or for a reasonable charge if records must be accessed from backed up or archived records.
-
+  * Correct your data if it is inaccurate.
+  * Transfer your Personal Information to a third party.
+  * Delete your Personal Information, unless we are required to retain it by law.
+  * Provide you with a copy of Personal Information held on our current records at no charge, or for a reasonable charge if records must be accessed from backed up or archived records.
 
 
 
@@ -162,24 +136,16 @@ We use automatic data collection tools like cookies, embedded web links and widg
 
 Scosche may use web tools for the following purposes:
 
-  * • To identify the user's country and language and distinguish you from other users of Scosche websites.
-
-  * • To save your registration information for future use on Scosche websites and services.
-
-  * • To allow customer surveys to appear or not appear to customers.
-
-  * • To optimize your browsing experience by preloading certain features of Scosche websites and services on future visits to make loading times faster and more efficient.
-
-  * • To understand how you use and interact with Scosche websites and services.
-
-  * • To customize and provide you with a more personal experience when visiting Scosche websites or our advertising partners' websites or when using Scosche Products.
+  * To identify the user's country and language and distinguish you from other users of Scosche websites.
+  * To save your registration information for future use on Scosche websites and services.
+  * To allow customer surveys to appear or not appear to customers.
+  * To optimize your browsing experience by preloading certain features of Scosche websites and services on future visits to make loading times faster and more efficient.
+  * To understand how you use and interact with Scosche websites and services.
+  * To customize and provide you with a more personal experience when visiting Scosche websites or our advertising partners' websites or when using Scosche Products.
 
 
-
-  * • To improve Scosche Websites and services.
-
-  * • To count visitors to Scosche Websites and Scosche Products and analyze website traffic, such as how many visitors have come to the Scosche websites from advertisements on advertising partner websites.
-
+  * To improve Scosche Websites and services.
+  * To count visitors to Scosche Websites and Scosche Products and analyze website traffic, such as how many visitors have come to the Scosche websites from advertisements on advertising partner websites.
 
 
 
@@ -213,7 +179,7 @@ Scosche websites and Scosche Products may contain social media features, such as
 
 If you participate in or post information to our live chat functionality on any Scosche website, you should be aware that the information you provide there may be made available to others, and can be read, collected, forwarded or used by Scosche personnel engaged in the chat function such as customer service department personnel and management. This information could also be used to send you unsolicited messages.
 
-**Your Privacy Rights/ California’s Shine the Light Law**
+**Your Privacy Rights/ California's Shine the Light Law**
 
 Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year.
 
@@ -223,8 +189,8 @@ We may update this Privacy Policy from time to time, so please review it frequen
 
 **How to Contact Us**
 
-Should you have any privacy-related questions or comments related to this Privacy Policy, please contact us at customerservice@scosche.com. 
+Should you have any privacy-related questions or comments related to this Privacy Policy, please contact us at [customerservice@scosche.com](mailto:customerservice@scosche.com "Email Scosche Customer Service"). 
 
 If you have complaints or concerns about this Privacy Policy, please contact us at the above email. We treat all complaints about a breach of the privacy laws seriously. Someone from Scosche will investigate your complaint and respond to you within a reasonable time.
 
-Revised 11/16/2016
+Revised 5/25/2018
