@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the ribblecycles.co.uk privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201033335id_/https%3A//www.ribblecycles.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ribblecycles.co.uk privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021081531id_/https%3A//www.ribblecycles.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ribble Cycles
 
-**Privacy Policy**
-
-**Ribble Cycles (Cyclesport North Ltd)**  are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). We collect information about you for 2 reasons: firstly, to process your order and secondly to provide you with the best service possible. We will not email you in the future unless you have given us your consent. We will give you the chance to refuse any marketing email from us in the future.
+**Ribble Cycles (Cyclesport North Ltd)**  are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998 and General Data Protection Regulations 2018). We collect information about you for 2 reasons: firstly, to process your order and secondly to provide you with the best service possible. We will not email you in the future unless you have given us your consent. We will give you the chance to refuse any marketing email from us in the future.
 
 The type of information we will collect about you when you place an order or register on our web site includes:
 
+  * Name
   * Address
   * Phone Number
   * Email Address
   * Tokenised Credit/Debit card details
   * Date of birth
-  * Gender
+  * IP Address
 
 
 
@@ -30,6 +29,14 @@ We use the information you provide for the following purposes:
   * To perform other general marketing and promotional activities focused on our products and services
 
 
+
+**How we marketing to you?**
+
+When you place an order you will be added to all communications from Ribble, this includes the marketing newsletter. You can opt out of these communications either by the unsubscribe link in the email or the preference centre available your account section. Failing this if you don’t open any emails or visit the Ribble Cycles website in the last 180 days you we will automatically stop sending you emails. Any questions email us at MyData@ribblecycles.co.uk.
+
+We gather data as you browse the site and buy from Ribble Cycles to build knowledge about what our customers are interested in, which is associated with the email address. We use this data in an anonymised way to target you and people like you on the social site such as Facebook and Google. Again once you opt out your data is no longer used for this type of profiling.
+
+We take data security very seriously and will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. We will store all the personal information you provide on our secure servers. All electronic financial transactions entered into through our website will be protected by encryption technology.
 
 When you place an order, we need to know your name, email address, delivery address, credit or debit card number and the card's expiry date. This allows us to process and fulfil your order and to notify you of the status of your request. We may also ask for your telephone number which enables us to contact you urgently if there is a problem with your order.
 
@@ -56,13 +63,13 @@ For more information on cookies on Ribble Cycles please read <https://www.ribble
 
 **Analytic Tools**
 
-Google Analytics is a system used by many websites to record information about visits to their website. Google set six different cookies with expiry dates ranging from 30 minutes to 2 years. These cookies are used mainly to differentiate between first time visitors to a website and repeat visitors. They also allow us to ensure our website performs as well as possible for our users. The cookies are able to collect an anonymous customer number when a user is logged into the website, allowing our backend systems to ensure accuracy of Google Analytics data and help us ensure your website experience remains relevant across devices. They do not contain any personally identifiable information. You can find out more about how Google use cookies at http://www.google.co.uk/policies/privacy/ (English only)
+Google Analytics is a system used by many websites to record information about visits to their website. Google set six different cookies with expiry dates ranging from 30 minutes to 2 years. These cookies are used mainly to differentiate between first time visitors to a website and repeat visitors. They also allow us to ensure our website performs as well as possible for our users. The cookies are able to collect an anonymous customer number when a user is logged into the website, allowing our backend systems to ensure accuracy of Google Analytics data and help us ensure your website experience remains relevant across devices. They do not contain any personally identifiable information. You can find out more about how Google use cookies at http://www.google.co.uk/policies/privacy/ (English only). These cookies may be used to help us target advertising on platform providers such as Google and Facebook.
 
 Ribble Cycles may from time to time share your details with third party analytical resources for the purposes of better understanding customer behaviour and performance, website performance, improved ad relevance and any other analytical process to give Ribble Cycles a better understanding of how to develop its offering to its customers. These third parties will be employed solely for the purpose of the aforementioned analytical purposes, and as such Ribble Cycles will ensure that the third party is contractually obliged to use the data only for the analytical purposes set out in the agreement between Ribble Cycles and the third party, and Ribble Cycles will also ensure that the third party is contractually required to maintain a level of security around the shared data, at least as safe as Ribble Cycles itself employs. Failure on the part of the third party to meet its contractual obligations will result in Ribble Cycles recovering the data, and taking all reasonable actions to ensure the third party no longer has access to the shared data. Any third party cookies used on Ribble Cycles will adhere to the same standards as first party cookies and not collect any personally identifiable information.
 
 **Social Media Plug-ins**
 
-Social Media Plug-ins for Facebook and Twitter obtain data for tracking purposes.
+Social Media Plug-ins for Facebook and Twitter obtain data for tracking purposes. This included the ability to track an audience across device for advertising purposes in line with the Terms of each social media platform.
 
 **International Privacy**  
 The above privacy statement may not be applicable in all countries of Ribble Cycles visitors or registered community users, as security policies may vary according to the individual Internet laws in each host country.
@@ -70,5 +77,3 @@ The above privacy statement may not be applicable in all countries of Ribble Cy
 **Disclosures**
 
 We will not pass your information to any third parties without your consent. You can also email us to stop receiving any information about us and our services by e-mailing MyData@ribblecycles.co.uk. If you have any queries about our Privacy Statement you should contact us by e-mailing MyData@ribblecycles.co.uk.
-
-Sign up to our newsletter for exclusive offers and discounts!
