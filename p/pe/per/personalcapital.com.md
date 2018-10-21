@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the personalcapital.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516231827id_/https%3A//www.personalcapital.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalcapital.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021032436id_/https%3A//www.personalcapital.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Personal Capital
+# Privacy Policy and Security Statement | Personal Capital
 
 Personal Capital is committed to the protection of your privacy. We understand keeping your information secure and confidential is critical to earning and keeping your trust.
 
 We **__NEVER__** rent, sell or trade your Personal Information (as defined below) to anyone. Ever.
 
-This Privacy & Security Statement describes the specific policies and procedures we use to collect, utilize, disclose, share and protect your Personal Information. We refer to Personal Capital Technology Corporation and Personal Capital Advisors Corporation collectively as **“Personal Capital”, “we”, “us”** or **“us”**. We refer to those who establish an account with us (“Account”) or otherwise use our service offerings as **“users”**. We refer to those who visit our website without logging into an Account or using our service offerings as **“Visitors”**. We refer to those who enroll in our Wealth Management Service as **“Clients”**. Together with our [Terms of Use Agreement](https://web.archive.org/content/terms-of-use/), this Privacy & Security Statement governs your use of our services.
+This Privacy & Security Statement describes the specific policies and procedures we use to collect, utilize, disclose, share and protect your Personal Information. We refer to Personal Capital Technology Corporation and Personal Capital Advisors Corporation collectively as **“Personal Capital”, “we”, “us”** or **“us”**. We refer to those who establish an account with us (“Account”) or otherwise use our service offerings as **“users”**. We refer to those who visit our website without logging into an Account or using our service offerings as **“Visitors”**. We refer to those who enroll in our Wealth Management Service as **“Clients”**. Together with our [Terms of Use Agreement](https://web.archive.org/terms-of-use/), this Privacy & Security Statement governs your use of our services.
 
 ## How to Use this Privacy & Security Statement
 
@@ -102,7 +102,7 @@ We may use certain third party service providers to help us provide you with som
 
 #### For Personal Capital Consultation Service Users
 
-This section of the Privacy & Security Statement is relevant to you only if you have elected to receive our Consultation Services from a licensed financial advisor employed by Personal Capital Advisors Corporation.
+This section of the Privacy & Security Statement is relevant to you only if you have elected to receive our Consultation Services from a registered financial advisor employed by Personal Capital Advisors Corporation.
 
 **Personal Information We Collect**
 
@@ -277,7 +277,7 @@ Personal Capital is not directed to individuals under the age of thirteen (13), 
 
 #### Modifications to our Privacy & Security Statement
 
-We change our privacy practices from time to time as the need arises. When we do, we will revise this Privacy & Security Statement and we will post the revised document on our website at <https://www.personalcapital.com/content/privacy-policy/>.
+We change our privacy practices from time to time as the need arises. When we do, we will revise this Privacy & Security Statement and we will post the revised document on our website at <https://www.personalcapital.com/privacy-policy/>.
 
 ## Privacy & Security Questions, Comments or Feedback?
 
@@ -294,4 +294,4 @@ Call toll-free 855-855-8005
 
 Visit [www.personalcapital.com](https://www.personalcapital.com/)
 
-Email us at [support@personalcapital.com](mailto:support@personalcapital.com)
+Email us at [privacy@personalcapital.com](mailto:privacy@personalcapital.com)
