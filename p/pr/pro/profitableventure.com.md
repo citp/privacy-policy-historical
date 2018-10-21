@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the profitableventure.com privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030134814id_/http%3A//www.profitableventure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitableventure.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021072722id_/https%3A//www.profitableventure.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for ProfitableVenture.com | ProfitableVenture.com
+# Privacy Policy for ProfitableVenture.com | ProfitableVenture
 
 Privacy Policy for **ProfitableVenture.com**
 
