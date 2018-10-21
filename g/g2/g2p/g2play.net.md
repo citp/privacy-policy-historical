@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the g2play.net privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003100416id_/https%3A//www.g2play.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g2play.net privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021101012id_/https%3A//www.g2play.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,6 +21,8 @@ We also provide personally-identifiable online information in response to subpoe
 G2PLAY.net collects information online by asking you for it, for example, when you order a service, apply for a job, or respond to a survey, offer or other promotion. A customer's name, address (postal and e-mail) and telephone number are the most important pieces of information, but we might request other information, based on, for example, the service(s) being ordered or promoted. 
 
 G2PLAY.net may also use "cookies" and similar technology to obtain information about your visits to our sites or your responses to e-mail from us - both individually and in aggregated data that does not identify you. These reporting tools tell us the parts of our web sites or e-mails in which you showed an interest or took some action, and help us improve the quality and usefulness of our sites.   
-Security 
+Security
+
+We may provide your personal data including personally-identifiable information to our service providers to support the operation of the Site and our services, in particular such personal data may be transferred to our service providers who will use it to detect whether you have ever committed fraud, been an accessory to such a crime or have attempted any of the same. If so, we shall be entitled to refuse to provide you with our services. By accepting this Privacy Policy you agree that our service providers will compile such personal data and any results of such detection into a database by automated means and that your personal data will be accessible by other customers of our service providers, who may require it for the prevention and detection of fraud in the event of your use of such other customer’s services. At any time, you may request details of the personal data that our service providers hold about you.
 
 **We use encryption, firewalls and other technology and security procedures to help protect the accuracy and security of your personal information and prevent unauthorized access or improper use. For example, you will note that while using some features of the G2PLAY.net's web site you will need to submit a password or some other type of authenticating information.  **
