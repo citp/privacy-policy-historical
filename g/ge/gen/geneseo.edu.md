@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geneseo.edu privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320083503id_/https%3A//www.geneseo.edu/cit/web-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geneseo.edu privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021071544id_/https%3A//www.geneseo.edu/cit/web-privacy-policy) for the most accurate reproduction.*
 
 # Web Privacy Policy | SUNY Geneseo
 
@@ -16,4 +16,4 @@ Links from this web site to web sites outside SUNY Geneseo are for the convenien
 
 Every effort is made to provide accurate and complete information. However, we cannot guarantee that there will be no errors. With respect to documents and information on this website neither the State University of New York at Geneseo, nor their employees and contractors make any warranty, expressed or implied, including the warranties of mercantability and fitness for a particular purpose with respect to documents available from this web site. Additionally, the State University of New York assumes no legal liability for the accuracy, completeness, or usefulness of any information or process disclosed herein and do not represent that use of such information or process would not infringe on privately owned rights.
 
-This page is administered by Computing and Information Technology in conjunction with the Office of Communications & Marketing at the State University of New York at Geneseo. Please report any errors to [web@geneseo.edu](mailto:web@geneseo.edu) .
+This page is administered by Computing and Information Technology in conjunction with the Office of Communications & Marketing at the State University of New York at Geneseo. Please report any errors to [web@geneseo.edu.](mailto:web@geneseo.edu)
