@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novanym.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024124712id_/https%3A//novanym.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novanym.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021125201id_/https%3A//novanym.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – Novanym
 
