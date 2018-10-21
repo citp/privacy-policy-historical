@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timetoplaymag.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903232137id_/https%3A//ttpm.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetoplaymag.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021041345id_/https%3A//ttpm.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Time to Play | Toys, Tots, Pets & More
+# Privacy Policy | TTPM.com
 
 #### PLEASE READ OUR PRIVACY POLICY CAREFULLY BEFORE USING THIS WEB SITE. YOUR USE OF THIS WEB SITE CONFIRMS YOUR UNCONDITIONAL ACCEPTANCE OF THE FOLLOWING TERMS AND CONDITIONS. IF YOU DO NOT ACCEPT THESE TERMS AND CONDITIONS, DO NOT USE THIS WEB SITE.
 
