@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filespace.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045047id_/http%3A//www.filespace.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filespace.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021092817id_/http%3A//filespace.com/privacy.html) for the most accurate reproduction.*
 
 # FileSpace - Share your files easily
 
@@ -52,7 +52,7 @@ We will not intentionally collect or maintain, and do not want you to provide, a
 
 **_Children’s Online Privacy Protection_**
 
-Our services are not designed for or directed to minors or children under the age of 13, and we will not intentionally collect or maintain information about anyone under the age of 13.  We do not knowingly collect personally identifiable information from children under 13.  If a parent or guardian becomes aware that his or her child as provided us with Personal Information without their consent, he or she should contact us at helpdsk@filespace.com,  If we become aware that a child under 13 has provided us with Personal Information, we will take such steps to delete such information from our files.
+Our services are not designed for or directed to minors or children under the age of 13, and we will not intentionally collect or maintain information about anyone under the age of 13.  We do not knowingly collect personally identifiable information from children under 13.  If a parent or guardian becomes aware that his or her child as provided us with Personal Information without their consent, he or she should contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection),  If we become aware that a child under 13 has provided us with Personal Information, we will take such steps to delete such information from our files.
 
 **Changes/Access/Disputes/ CancellationShould** You request changes to Your information, send written notice to: Bayside Ltd, 112 Bonadie Street, Kingstown, St. Vincent & the Grenadines 
 
