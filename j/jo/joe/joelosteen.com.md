@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the joelosteen.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119100503id_/https%3A//www.joelosteen.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joelosteen.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022010631id_/https%3A//www.joelosteen.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Website Privacy Policy**
 
-Last modified: May 13, 2016
+Last modified: July 13, 2017
 
 **Introduction**
 
-At Lakewood Church, Joel Osteen Ministries, Canada ( the "Church" or "Ministry"), we respect your privacy and are committed to protecting it through our compliance with this policy. In this privacy policy, the words "we", "our" and "us" mean and refer to Lakewood Church, Joel Osteen Ministries, Joel Osteen Ministries, Canada, Joel Osteen Ministries, Australia, and Joel Osteen Ministries, UK.  
+At Lakewood Church, Joel Osteen Ministries, Canada ( the "Church" or "Ministry"), we respect your privacy and are committed to protecting it through our compliance with this policy. In this privacy policy, the words "we", "our" and "us" mean and refer to Lakewood Church, Joel Osteen Ministries, Joel Osteen Ministries, Canada, and Joel Osteen Ministries, Australia.
 
-
-This policy describes the types of information we may collect from you or that you may provide when you visit any of our family of websites, including, [www.lakewoodchurch.com](https://www.lakewoodchurch.com/?sessionGUID=75477886-bd2c-773d-76a6-32ab5492a70b&sessionGUID=2278a92d-e36c-7888-3dd3-652472de7391&sessionGUID=4cde6385-88b9-5104-14d2-9ea41999bc54&sessionGUID=918ba669-caad-28e5-cc21-073188728eb7&sessionGUID=42576b4b-607b-a034-e736-1c84de9d1b46&sessionGUID=a67c4b30-8da2-913a-6c5a-78a431e4b6c3&sessionGUID=7803bbb5-bd71-e978-9110-b48d8615e256&sessionGUID=9a2547a1-e9c0-3c5e-2445-2938a1eca4d2&sessionGUID=3261d85b-a7c0-4bb3-8b5d-1c3c5ca52a6b&sessionGUID=42da9102-2cb6-abe9-dc7d-0426b543bba2&sessionGUID=686e0b78-2171-4933-54eb-11cc52eb8eeb&sessionGUID=30c64862-9b69-2b66-43d7-105dd238871e&webSyncID=8570454a-a146-d5c6-6299-e0d51a447546&sessionGUID=aead3caa-2aad-5b7e-0449-17a7be25990d); [www.joelosteen.com](http://www.joelosteen.com/?sessionGUID=75477886-bd2c-773d-76a6-32ab5492a70b&sessionGUID=2278a92d-e36c-7888-3dd3-652472de7391&sessionGUID=4cde6385-88b9-5104-14d2-9ea41999bc54&sessionGUID=918ba669-caad-28e5-cc21-073188728eb7&sessionGUID=42576b4b-607b-a034-e736-1c84de9d1b46&sessionGUID=a67c4b30-8da2-913a-6c5a-78a431e4b6c3&sessionGUID=7803bbb5-bd71-e978-9110-b48d8615e256&sessionGUID=9a2547a1-e9c0-3c5e-2445-2938a1eca4d2&sessionGUID=3261d85b-a7c0-4bb3-8b5d-1c3c5ca52a6b&sessionGUID=42da9102-2cb6-abe9-dc7d-0426b543bba2&sessionGUID=686e0b78-2171-4933-54eb-11cc52eb8eeb&sessionGUID=30c64862-9b69-2b66-43d7-105dd238871e&webSyncID=8570454a-a146-d5c6-6299-e0d51a447546&sessionGUID=aead3caa-2aad-5b7e-0449-17a7be25990d);[ www.joelosteen.ca](https://%20www.joelosteen.ca/); [www.victoriaosteen.com](https://www.victoriaosteen.com/); [www.lisacomes.com](https://www.lisacomes.com/); [www.paulosteen.com](https://www.paulosteen.com/);   
-[www.iglesialakewood.com](https://www.iglesialakewood.com/?sessionGUID=75477886-bd2c-773d-76a6-32ab5492a70b&sessionGUID=2278a92d-e36c-7888-3dd3-652472de7391&sessionGUID=4cde6385-88b9-5104-14d2-9ea41999bc54&sessionGUID=918ba669-caad-28e5-cc21-073188728eb7&sessionGUID=42576b4b-607b-a034-e736-1c84de9d1b46&sessionGUID=a67c4b30-8da2-913a-6c5a-78a431e4b6c3&sessionGUID=7803bbb5-bd71-e978-9110-b48d8615e256&sessionGUID=9a2547a1-e9c0-3c5e-2445-2938a1eca4d2&sessionGUID=3261d85b-a7c0-4bb3-8b5d-1c3c5ca52a6b&sessionGUID=42da9102-2cb6-abe9-dc7d-0426b543bba2&sessionGUID=686e0b78-2171-4933-54eb-11cc52eb8eeb&sessionGUID=30c64862-9b69-2b66-43d7-105dd238871e&webSyncID=8570454a-a146-d5c6-6299-e0d51a447546&sessionGUID=aead3caa-2aad-5b7e-0449-17a7be25990d); [www.generationhopeproject.com](https://www.generationhopeproject.com/); [www.joelosteen.co.uk](https://www.joelosteen.co.uk/);[ www.joelosteen.com.au](https://%20www.joelosteen.com.au/) and any other website owned and operated by us (collectively our "Website") and our practices for collecting, using, maintaining, protecting and disclosing that information.
+This policy describes the types of information we may collect from you or that you may provide when you visit any of our family of websites, including, [www.lakewoodchurch.com](https://www.lakewoodchurch.com/?sessionGUID=75477886-bd2c-773d-76a6-32ab5492a70b&sessionGUID=2278a92d-e36c-7888-3dd3-652472de7391&sessionGUID=4cde6385-88b9-5104-14d2-9ea41999bc54&sessionGUID=918ba669-caad-28e5-cc21-073188728eb7&sessionGUID=42576b4b-607b-a034-e736-1c84de9d1b46&sessionGUID=a67c4b30-8da2-913a-6c5a-78a431e4b6c3&sessionGUID=7803bbb5-bd71-e978-9110-b48d8615e256&sessionGUID=9a2547a1-e9c0-3c5e-2445-2938a1eca4d2&sessionGUID=3261d85b-a7c0-4bb3-8b5d-1c3c5ca52a6b&sessionGUID=42da9102-2cb6-abe9-dc7d-0426b543bba2&sessionGUID=686e0b78-2171-4933-54eb-11cc52eb8eeb&sessionGUID=30c64862-9b69-2b66-43d7-105dd238871e&webSyncID=8570454a-a146-d5c6-6299-e0d51a447546&sessionGUID=aead3caa-2aad-5b7e-0449-17a7be25990d); [www.joelosteen.com](https://www.joelosteen.com/?sessionGUID=75477886-bd2c-773d-76a6-32ab5492a70b&sessionGUID=2278a92d-e36c-7888-3dd3-652472de7391&sessionGUID=4cde6385-88b9-5104-14d2-9ea41999bc54&sessionGUID=918ba669-caad-28e5-cc21-073188728eb7&sessionGUID=42576b4b-607b-a034-e736-1c84de9d1b46&sessionGUID=a67c4b30-8da2-913a-6c5a-78a431e4b6c3&sessionGUID=7803bbb5-bd71-e978-9110-b48d8615e256&sessionGUID=9a2547a1-e9c0-3c5e-2445-2938a1eca4d2&sessionGUID=3261d85b-a7c0-4bb3-8b5d-1c3c5ca52a6b&sessionGUID=42da9102-2cb6-abe9-dc7d-0426b543bba2&sessionGUID=686e0b78-2171-4933-54eb-11cc52eb8eeb&sessionGUID=30c64862-9b69-2b66-43d7-105dd238871e&webSyncID=8570454a-a146-d5c6-6299-e0d51a447546&sessionGUID=aead3caa-2aad-5b7e-0449-17a7be25990d);[ www.joelosteen.ca](https://%20www.joelosteen.ca/); [www.victoriaosteen.com](https://www.victoriaosteen.com/); [www.lisacomes.com](https://www.lisacomes.com/); [www.paulosteen.com](https://www.paulosteen.com/);   
+[www.iglesialakewood.com](https://www.iglesialakewood.com/?sessionGUID=75477886-bd2c-773d-76a6-32ab5492a70b&sessionGUID=2278a92d-e36c-7888-3dd3-652472de7391&sessionGUID=4cde6385-88b9-5104-14d2-9ea41999bc54&sessionGUID=918ba669-caad-28e5-cc21-073188728eb7&sessionGUID=42576b4b-607b-a034-e736-1c84de9d1b46&sessionGUID=a67c4b30-8da2-913a-6c5a-78a431e4b6c3&sessionGUID=7803bbb5-bd71-e978-9110-b48d8615e256&sessionGUID=9a2547a1-e9c0-3c5e-2445-2938a1eca4d2&sessionGUID=3261d85b-a7c0-4bb3-8b5d-1c3c5ca52a6b&sessionGUID=42da9102-2cb6-abe9-dc7d-0426b543bba2&sessionGUID=686e0b78-2171-4933-54eb-11cc52eb8eeb&sessionGUID=30c64862-9b69-2b66-43d7-105dd238871e&webSyncID=8570454a-a146-d5c6-6299-e0d51a447546&sessionGUID=aead3caa-2aad-5b7e-0449-17a7be25990d); [www.generationhopeproject.com](https://www.generationhopeproject.com/); [ www.joelosteen.com.au](https://%20www.joelosteen.com.au/) and any other website owned and operated by us (collectively our "Website") and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This policy also applies to information we collect:
 
@@ -55,7 +54,7 @@ This policy addresses the following:
 
 If you are under 18, you may use the Website and Application only with the involvement of a parent or guardian.
 
-Our Website and Application are not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website or Application. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or register, make any purchases, or use any of the interactive or public comment features on this Website, or provide any information about yourself to us, including your name, address, telephone number, e-mail address or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at&160;[privacy@lakewoodchurch.com](mailto:privacy@lakewoodchurch.com) or in Canada at [privacycanada@joelosteen.com](mailto:privacycanada@joelosteen.com).  
+Our Website and Application are not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website or Application. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or register, make any purchases, or use any of the interactive or public comment features on this Website, or provide any information about yourself to us, including your name, address, telephone number, e-mail address or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [privacy@lakewoodchurch.com](mailto:privacy@lakewoodchurch.com) or in Canada at [privacycanada@joelosteen.com](mailto:privacycanada@joelosteen.com).  
 
 **What Information Do We Collect About You and How Do We Collect It?**
 
@@ -164,7 +163,7 @@ We may disclose aggregated information about our users, and information that doe
 
 As a general rule, all information about our supporter and other who access our programs, products and services is held by us in strict confidence and, except in limited circumstances, is not revelaed to anyone else unless expressly or implicitly authorized by such individuals.
 
-Each of the Joel Osteen Ministry Affiliates (including Joel Osteen Ministries, Canada, Joel Osteen Ministries, Canada, Joel Osteen Ministries, UK, and Joel Osteen Ministries, Australia) offers its programs, products and services in affiliation with Joel Osteen Ministries and Lakewood Church. Many of the affiliates' administrative functions and certain other services are performed on their behalf by Joel Osteen Ministries and Lakewood Church in the United States for these purposes.
+Each of the Joel Osteen Ministry Affiliates (including Joel Osteen Ministries, Canada, Joel Osteen Ministries, Canada, and Joel Osteen Ministries, Australia) offers its programs, products and services in affiliation with Joel Osteen Ministries and Lakewood Church. Many of the affiliates' administrative functions and certain other services are performed on their behalf by Joel Osteen Ministries and Lakewood Church in the United States for these purposes.
 
 ​ **Notice Regarding Location of Records and Service Providers:**
 
@@ -184,7 +183,7 @@ We may disclose personal information that we collect or you provide as described
 
 
 
-We offer our programs and services in a common mission with our international affiliates within the Joel Osteen Minsitries group, including Joel Osteen Ministries, UK and Joel Osteen Ministries, Australia. Personal information of user outside Website outside of Canada and the United States may be shared with our international affiliates, if their activities are more closely matched to your needs and requirements.
+We offer our programs and services in a common mission with our international affiliates within the Joel Osteen Ministries group, including Joel Osteen Ministries, Canada and Joel Osteen Ministries, Australia. Personal information of users of our Website outside of Canada and the United States may, unless you request otherwise, be shared with our international affiliates if their activities are more closely matched to your needs and requirements.
 
 **What Choices Do You Have About How We Use and Disclose Your Information?**
 
@@ -192,11 +191,11 @@ You do have choices about how we use and disclose your information. If you do no
 
   * You can choose not to provide your information, even though it might be needed to make a donation, purchase or transaction, or to take advantage of some of our Website’s features.
   * You may opt-out of all information collecting by the Application by easily uninstalling the Application.
-  * If you do not want to receive e-mail from us you can:
+  * If you do not want to receive e-mail from us you can: 
     * Click the “unsubscribe” or “take me off your mailing list” link at the bottom of any of our emails.
     * Sign in to your account and update your email subscriptions by navigating to the “My Account” page and selecting the “Email Subscriptions“ section on the Website; or
     * Call Customer Service at 1-800-278-0520 and request to be removed from our email lists.
-  * If you do not want to receive mail and telephone contact from us, you can:
+  * If you do not want to receive mail and telephone contact from us, you can: 
     * Sign in to your account and update your mail preferences by navigating to the “My Account” page and selecting the “Account Information“ section on the Website; or
     * Call Customer Service at 1-800-278-0520 and request to be removed from our mailing list.
     * Email our Privacy Officer at [privacy@lakewoodchurch.com](mailto:privacy@lakewoodchurch.com) or in Canada at [privacycanada@joelosteen.com.](mailto:privacycanada@lakewoodchurch.com)
@@ -257,8 +256,11 @@ Our Privacy Officer is accountable for the privacy practices of Lakewood Church,
 >
 >> > > > > > > > > Joel Osteen Ministries
 >
->> > > > > > > > > 3700 Southwest Freeway
->
->> > > > > > > > > Houston, Texas
->
->> > > > > > > > > 77027 USA​
+>> > > > > > > > > > > > > > > > > > 3700 Southwest Freeway   
+> 
+>>>>>>>>>> 
+>>>>>>>>>> HOUSTON, TX   
+> 
+>>>>>>>>>> 
+>>>>>>>>>> 77027 USA   
+> 
