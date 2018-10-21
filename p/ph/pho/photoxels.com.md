@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoxels.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905044237id_/https%3A//www.photoxels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoxels.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021114705id_/https%3A//www.photoxels.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Photoxels
 
@@ -32,7 +32,7 @@ You may be able to direct your internet browser not to allow cookies and you can
 
 Preference Based Advertising:
 
-We also work with and permit certain third parties, including, but not limited to advertising networks and website analysis firms, to place cookies on your computer or browser when you view, click or otherwise interact with advertisements that are featured on our website. These third party cookies and analogous technology are used to gather non-personally identifiable information about your activities on our website and third party sites you may visit to serve you with advertisements that are relevant to your interests and preferences while you are on third party sites. Some of these third parties participate in the Digital Advertising Alliance (“DAA”), an industry self-regulatory program to give consumers a better understanding of and greater control over ads that are customized based on their online behavior across different web sites. To learn more and make choices about preference-based ads from participating third parties, please visit the DAA website at [www.aboutads.info](https://web.archive.org/web/20170905044237id_/https://www.photoxels.com/privacy/www.aboutads.info).
+We also work with and permit certain third parties, including, but not limited to advertising networks and website analysis firms, to place cookies on your computer or browser when you view, click or otherwise interact with advertisements that are featured on our website. These third party cookies and analogous technology are used to gather non-personally identifiable information about your activities on our website and third party sites you may visit to serve you with advertisements that are relevant to your interests and preferences while you are on third party sites. Some of these third parties participate in the Digital Advertising Alliance (“DAA”), an industry self-regulatory program to give consumers a better understanding of and greater control over ads that are customized based on their online behavior across different web sites. To learn more and make choices about preference-based ads from participating third parties, please visit the DAA website at [www.aboutads.info](https://web.archive.org/web/20181021114705id_/https://www.photoxels.com/privacy/www.aboutads.info).
 
 Google Ads (Privacy Policy):
 
@@ -42,10 +42,4 @@ Google Ads (Privacy Policy):
 
 This Privacy Notice will be updated periodically to reflect changes in our information practices. Whenever we revise this Privacy Notice, we will change the date on the notice to indicate when the revisions were made. We reserve the right to change our information practices and the terms of this Privacy Notice. By using this web site, you agree to accept the terms of this Privacy Notice as stated at the time you use it. Any future access to this web site subsequent to the posting of a revised Privacy Notice will be deemed to be your acceptance of this Privacy Notice as then revised. We reserve the right to change this Privacy Notice at any time.
 
-[](http://www.viglink.com/legal/disclosures/users)
-
-Links monetized by VigLink
-
-[Optout of VigLink](https://www.viglink.com/support/optout)
-
-UPDATED: August 2, 2017
+UPDATED: July 31, 2018
