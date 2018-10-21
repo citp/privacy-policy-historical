@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stv.tv privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530162506id_/https%3A//my.stv.tv/terms-of-use/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stv.tv privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021030335id_/https%3A//my.stv.tv/terms-of-use/%23privacy) for the most accurate reproduction.*
 
 # Terms and Conditions | Terms of Use | MySTV
 
@@ -724,7 +724,7 @@ We may use that data to (i) send you newsletters that might be of interest to yo
 
 We are currently participating in a research project carried out by the Broadcasters’ Audience Research Board (BARB) to gather anonymised statistics about the usage of media players. The aim is to understand the number of users and the extent of use of these players and the content within them. Several other major broadcasters are also participating in the project. BARB has chosen Kantar Media to collect this data through the use of cookies that are placed on your device when you use STV Player. All data is collected anonymously and will not be used by us for any other purpose but for this project.
 
-  * **[(iv) Advertising](https://web.archive.org/web/20180530162506id_/https://my.stv.tv/terms-of-use/advertising-cookies)** cookies are set by our advertising partners. Some have functional purposes such as capping the number of times you see an ad, but most enable Online Behavioural Advertising “OBA” (also known as ‘behavioural targeting' or ‘interest based advertising') which delivers ads to you that are more relevant to your interests.
+  * **[(iv) Advertising](https://web.archive.org/web/20181021030335id_/https://my.stv.tv/terms-of-use/advertising-cookies)** cookies are set by our advertising partners. Some have functional purposes such as capping the number of times you see an ad, but most enable Online Behavioural Advertising “OBA” (also known as ‘behavioural targeting' or ‘interest based advertising') which delivers ads to you that are more relevant to your interests.
 
     * **(a) OBA cookies remember a user’s web browsing activity.** Shared interests, based upon, and inferred from, the websites you have visited, are grouped together. Ads you view will be determined by these interests. For example, if you visit a sports’ section of a website and searched other websites for sport, that interest – together with the shared interests of other web users - might be grouped together as ‘sport loving” and you may be served ads for sport and sports’ related goods or services.
 
@@ -859,7 +859,7 @@ For more information on how to opt out please go to their Privacy Policy at: <ht
   
 **FINDING OUT MORE**
 
-To find out more about cookies, including how to disable/enable them visit [www.aboutcookies.org.uk](https://web.archive.org/web/20180530162506id_/https://my.stv.tv/terms-of-use/www.aboutcookies.org.uk). If you still want to opt out of these other organisations’ advertising cookies, you can do this by visiting the Interactive Advertising Bureau's website [www.youronlinechoices.com](https://web.archive.org/web/20180530162506id_/https://my.stv.tv/terms-of-use/www.youronlinechoices.com) which lists all ad serving cookies that are currently set on your device and tells you how to opt-out from each of them. If you would like more information on our use of cookies, you can always contact [enquiries@stv.tv](mailto:enquiries@stv.tv).
+To find out more about cookies, including how to disable/enable them visit [www.aboutcookies.org.uk](https://web.archive.org/web/20181021030335id_/https://my.stv.tv/terms-of-use/www.aboutcookies.org.uk). If you still want to opt out of these other organisations’ advertising cookies, you can do this by visiting the Interactive Advertising Bureau's website [www.youronlinechoices.com](https://web.archive.org/web/20181021030335id_/https://my.stv.tv/terms-of-use/www.youronlinechoices.com) which lists all ad serving cookies that are currently set on your device and tells you how to opt-out from each of them. If you would like more information on our use of cookies, you can always contact [enquiries@stv.tv](mailto:enquiries@stv.tv).
 
 Updated: 22 May 2018
 
@@ -1180,7 +1180,7 @@ Facebook
 
   2. For all other Competitions, unless stated otherwise, the promoter is STV Central Limited (Company Number 172149) of Pacific Quay, Glasgow, G51 1PQ.
 
-  3. You can contact us in relation to any Competition by e-mailing [enquiries@stv.tv](https://web.archive.org/web/20180530162506id_/https://my.stv.tv/terms-of-use/enquiries@stv.tv) or by writing to us at Competitions, STV, Pacific Quay, Glasgow G51 1PQ
+  3. You can contact us in relation to any Competition by e-mailing [enquiries@stv.tv](https://web.archive.org/web/20181021030335id_/https://my.stv.tv/terms-of-use/enquiries@stv.tv) or by writing to us at Competitions, STV, Pacific Quay, Glasgow G51 1PQ
 
 
 
@@ -1210,4 +1210,4 @@ We want your views but we also want to make this a place where people feel they 
 
 
 
-If you see anything on our Services that you feel should not be there, please click on the word "Flag" on the Comment to alert us to it. You can also contact [enquiries@stv.tv](https://web.archive.org/web/20180530162506id_/https://my.stv.tv/terms-of-use/enquiries@stv.tv) or phone us on 0141 300 3704. We will deal with it as quickly as we possibly can.
+If you see anything on our Services that you feel should not be there, please click on the word "Flag" on the Comment to alert us to it. You can also contact [enquiries@stv.tv](https://web.archive.org/web/20181021030335id_/https://my.stv.tv/terms-of-use/enquiries@stv.tv) or phone us on 0141 300 3704. We will deal with it as quickly as we possibly can.
