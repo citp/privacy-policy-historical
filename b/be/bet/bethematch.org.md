@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bethematch.org privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129132337id_/https%3A//bethematch.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethematch.org privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022011048id_/https%3A//bethematch.org/privacy) for the most accurate reproduction.*
 
-# NMDP Online Privacy Statement
+# Privacy
 
 The National Marrow Donor Program® (NMDP) (which operates Be The Match® and the Be The Match Registry®) and the Be The Match Foundation® (collectively referred to for the purposes of this Online Privacy Statement as "NMDP" or "we") are committed to respecting your privacy. The NMDP Web sites (BeTheMatch.org, Marrow.org and BeTheMatchClinical.org, or any subdomain thereof, collectively referred to here as the "Website") have been structured so you can visit them without revealing any personal information. If you choose to provide the NMDP with personally identifiable information (any information by which you can be identified), you can be assured it will be used only to support your relationship with the NMDP.
 
