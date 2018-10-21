@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cintas.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114203557id_/http%3A//www.cintas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cintas.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022004309id_/https%3A//www.cintas.com/privacy) for the most accurate reproduction.*
 
 # Commitment to Your Privacy | Cintas
 
