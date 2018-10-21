@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supergiantgames.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627234726id_/http%3A//store.supergiantgames.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supergiantgames.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021052049id_/http%3A//store.supergiantgames.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Supergiant Games
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 SUPERGIANT GAMES PRIVACY POLICY
 
-_Effective Date: April 3rd, 2017_
+_Effective Date: May 18th, 2018_
 
 **Introduction**
 
@@ -125,7 +125,7 @@ For further information on Tracking Technologies and your choices regarding them
 
 _Accessing Your Information_
 
-You have the right to access the personal information that you have voluntarily provided to us through the Service, and to review, correct, or delete it by e-mailing us at info@supergiantgames.com or sending us a letter to Supergiant Games, LLC, 505 Florida Street, San Francisco, California 94110 (Attention: Legal). Please note that we may retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+You have the right to access the personal information that you have voluntarily provided to us through the Service, and to review, correct, or delete it by e-mailing us at info@supergiantgames.com or sending us a letter to Supergiant Games, LLC, 521 Gough Street, San Francisco, California 94102 (Attention: Legal). Please note that we may retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 _Tracking Technology Choices_
 
@@ -145,7 +145,7 @@ You may choose whether to receive Interest-based Advertising by submitting opt o
 
 When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only. We will not use or share your personal information to send you marketing e-mails unless you provide opt-in consent.
 
-You may opt-out of receiving marketing e-mails from us and our Service Providers at any time: (i) as provided in any e-mail to click on the unsubscribe link, (ii) by contacting us at info@supergiantgames.com, or (iii) by mailing us at: Supergiant Games, LLC, 505 Florida Street, San Francisco, California 94110 (Attention: Legal). We will try to make the requested changes in our active databases as soon as reasonably practical. Please note that you cannot unsubscribe from non-promotional e-mails from us, including messages relating to your account transactions, servicing, or Company’s ongoing business relations.
+You may opt-out of receiving marketing e-mails from us and our Service Providers at any time: (i) as provided in any e-mail to click on the unsubscribe link, (ii) by contacting us at info@supergiantgames.com, or (iii) by mailing us at: Supergiant Games, LLC, 521 Gough Street, San Francisco, California 94102 (Attention: Legal). We will try to make the requested changes in our active databases as soon as reasonably practical. Please note that you cannot unsubscribe from non-promotional e-mails from us, including messages relating to your account transactions, servicing, or Company’s ongoing business relations.
 
 If you opt-in to push notifications, we may send you transactional notifications until you remove our mobile application or opt out by adjusting the permissions on your mobile device.
 
@@ -153,11 +153,11 @@ If you opt-in to push notifications, we may send you transactional notifications
 
 California’s “Shine the Light” law permits customers in California to request certain details about how certain types of their information are shared with third parties and, in some cases, affiliates, for those third parties’ and affiliates’ own direct marketing purposes. Under the law, a business should either provide California customers certain information upon request or permit California customers to opt in to, or opt out of, this type of sharing.
 
-We do not share personal information as defined by California’s “Shine the Light” law with third parties and/or affiliates for such third parties’ and affiliates’ own direct marketing purposes. If you are a California resident and wish to obtain information about our compliance with this law, please e-mail us at info@supergiantgames.com or send us a letter to Supergiant Games, LLC, 505 Florida Street, San Francisco, California 94110 (Attention: Legal). Requests must include “California Privacy Rights Request” in the first line of the description and include your name, street address, city, state, and ZIP code. Please note that Company is not required to respond to requests made by means other than through the provided e-mail address or mail address.
+We do not share personal information as defined by California’s “Shine the Light” law with third parties and/or affiliates for such third parties’ and affiliates’ own direct marketing purposes. If you are a California resident and wish to obtain information about our compliance with this law, please e-mail us at info@supergiantgames.com or send us a letter to Supergiant Games, LLC, 521 Gough Street, San Francisco, California 94102 (Attention: Legal). Requests must include “California Privacy Rights Request” in the first line of the description and include your name, street address, city, state, and ZIP code. Please note that Company is not required to respond to requests made by means other than through the provided e-mail address or mail address.
 
 **Your European Privacy Rights**
 
-If you are a resident of the EEA, you may opt-out of us processing your personal information (or providing it to third parties to process) for direct marketing purposes (including promotional e-mails and other forms of direct marketing) or purposes materially different than for which it was originally collected or subsequently authorized by you. If you wish to exercise this choice, please e-mail us at info@supergiantgames.com or send us a letter to Supergiant Games, LLC, 505 Florida Street, San Francisco, California 94110 (Attention: Legal). We will try to make the requested changes in our active databases as soon as reasonably practical.
+If you are a resident of the EEA, you may opt-out of us processing your personal information (or providing it to third parties to process) for direct marketing purposes (including promotional e-mails and other forms of direct marketing) or purposes materially different than for which it was originally collected or subsequently authorized by you. If you wish to exercise this choice, please e-mail us at info@supergiantgames.com or send us a letter to Supergiant Games, LLC, 521 Gough Street, San Francisco, California 94102 (Attention: Legal). We will try to make the requested changes in our active databases as soon as reasonably practical.
 
 **What Security Measures Do We Take to Safeguard Your Personal Information?**
 
@@ -171,13 +171,13 @@ The Company has applied to participate in the EU-U.S. Privacy Shield Framework a
 
 In accordance with our obligations under the Privacy Shield, and subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission, we hereby affirm our commitment to subject to the Privacy Shield Principles all personal information transferred from the EU in reliance on the Privacy Shield. This means that, in addition to our other obligations under the Privacy Shield Principles, we shall be liable to you for any third party agent to which we transfer your personal information and that processes such personal information in a manner that violates the Privacy Shield Principles, unless we can demonstrate that we are not responsible for the resulting damages.
 
-In the event that you have any inquiry, dispute, or claim arising out of our compliance with Privacy Shield, please e-mail us at info@supergiantgames.com or send us a letter to Supergiant Games, LLC, 505 Florida Street, San Francisco, California 94110 (Attention: Legal). If we are unable to resolve your complaint directly, you may submit your complaint at no cost to you to JAMS at <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim>. In the event there are residual complaints that have not been resolved by JAMS, or any other means, you may seek a non-monetary remedy through binding arbitration to be provided to you in accordance with the Privacy Shield Principles.
+In the event that you have any inquiry, dispute, or claim arising out of our compliance with Privacy Shield, please e-mail us at info@supergiantgames.com or send us a letter to Supergiant Games, LLC, 505 Gough Street, San Francisco, California 94102 (Attention: Legal). If we are unable to resolve your complaint directly, you may submit your complaint at no cost to you to JAMS at <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim>. In the event there are residual complaints that have not been resolved by JAMS, or any other means, you may seek a non-monetary remedy through binding arbitration to be provided to you in accordance with the Privacy Shield Principles.
 
 To learn more about the Privacy Shield Framework, please visit [http://www.privacyshield.gov](http://www.privacyshield.gov/). A list of companies certified under the Privacy Shield Framework is available at the following link: <https://www.privacyshield.gov/list>.
 
 **Children’s Privacy**
 
-The Service is intended for a general audience and not directed to children under thirteen (13) years of age. We do not knowingly collect personal information as defined by the U.S. Children’s Privacy Protection Act (“COPPA”) in a manner that is not permitted by COPPA. We take children’s privacy seriously, and encourage parents to play an active role in their children’s online experience at all times. If you are a parent or guardian and believe Company has collected such information in a manner not permitted by COPPA, please e-mail us at support@supergiantgames.com or send us a letter to Supergiant Games, LLC, 505 Florida Street, San Francisco, California 94110 (Attention: Legal), and we will remove such data to the extent required by COPPA.
+The Service is intended for a general audience and not directed to children under thirteen (13) years of age. We do not knowingly collect personal information as defined by the U.S. Children’s Privacy Protection Act (“COPPA”) in a manner that is not permitted by COPPA. We take children’s privacy seriously, and encourage parents to play an active role in their children’s online experience at all times. If you are a parent or guardian and believe Company has collected such information in a manner not permitted by COPPA, please e-mail us at support@supergiantgames.com or send us a letter to Supergiant Games, LLC, 521 Gough Street, San Francisco, California 94102 (Attention: Legal), and we will remove such data to the extent required by COPPA.
 
 **Notification of Changes to Privacy Policy**
 
@@ -188,5 +188,5 @@ We reserve the right to change this Privacy Policy from time to time by posting 
 If you have any questions about our privacy practices or this Privacy Policy, including our compliance with Privacy Shield, please contact us by e-mail at info@supergiantgames.com or by mailing us at:
 
 Supergiant Games  
-505 Florida Street  
-San Francisco, California 94110
+521 Gough Street  
+San Francisco, California 94102
