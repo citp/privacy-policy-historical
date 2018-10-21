@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factoidz.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622153339id_/https%3A//knoji.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factoidz.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021233212id_/https%3A//knoji.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -12,7 +12,7 @@ ZipfWorks reserves the right, at our discretion, to change, modify, add or remov
 
 **Your Agreement**
 
-Your use of any of our websites or Services evidences your agreement to the terms of this Privacy Policy. PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND THE WEBSITE’S [TERMS OF USE](https://web.archive.org/web/20170622153339id_/https://knoji.com/privacy/terms.html). IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE. 
+Your use of any of our websites or Services evidences your agreement to the terms of this Privacy Policy. PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND THE WEBSITE’S [TERMS OF USE](https://web.archive.org/web/20181021233212id_/https://knoji.com/privacy/terms.html). IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE. 
 
 **Information We Collect and How We Use It**
 
