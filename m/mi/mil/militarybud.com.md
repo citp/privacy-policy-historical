@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the militarybud.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617203005id_/http%3A//militarybud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the militarybud.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021221938id_/http%3A//militarybud.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Military Bud
 
@@ -132,7 +132,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#670e09010827080a00141312030e08144904080a)
+  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#11787f777e517e7c7662656475787e623f727e7c)
 
 
 
