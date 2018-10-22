@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mrdonn.org privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622005014id_/http%3A//www.mrdonn.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrdonn.org privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022022935id_/https%3A//www.mrdonn.org/privacypolicy.html) for the most accurate reproduction.*
 
 # MrDonn.org - Privacy Policy
 
 ## Privacy Policy / Cookie Policy / Affiliate Disclosure
 
-[mrdonn.org](http://www.mrdonn.org/index.html) does not collect information on visitors to its Website.
+[mrdonn.org](https://www.mrdonn.org/index.html) does not collect information on visitors to its Website.
 
 Google, as a third party vendor, uses cookies to serve ads on our site.
 
