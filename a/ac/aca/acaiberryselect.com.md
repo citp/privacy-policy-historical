@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acaiberryselect.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618204305id_/http%3A//www.healthbuy.com/tos.php%23pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acaiberryselect.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022022247id_/http%3A//www.healthbuy.com/tos.php%23pp) for the most accurate reproduction.*
 
 # Health & Beauty
 
@@ -281,7 +281,7 @@ You may opt out from receiving such marketing communications and notifications f
 
   * Click "unsubscribe" or update preferences in any email communication we send;
   * Contact us in writing; or
-  * Email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * Email us at domainadmincontact@gmail.com.
 
 
 
@@ -307,7 +307,7 @@ You may opt out from receiving such marketing communications and notifications f
 
   * Click "unsubscribe" or update preferences in any email communication we send;
   * Contact us in writing; or
-  * Email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * Email us at domainadmincontact@gmail.com.
 
 
 
@@ -349,7 +349,7 @@ You have the right:
 
 #### 8\. Contact us
 
-If you have any questions about our Privacy Policy, including any requests to exercise your rights, please contact the Data Protection Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about our Privacy Policy, including any requests to exercise your rights, please contact the Data Protection Officer at domainadmincontact@gmail.com.
 
 In order to request a copy of the personal data that we hold about you, please send your request in writing to the Data Protection Officer at the above address. To enable us to verify your identity and process your request, you must include all of the following information and documentation with your request:
 
