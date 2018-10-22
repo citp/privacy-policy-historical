@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilgun.tips privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623155520id_/http%3A//tamilgun.tips/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilgun.tips privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022163556id_/http%3A//tamilgun.tips/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TamilGun
 
@@ -23,7 +23,7 @@ You should consult the respective privacy policies of these third-party ad serve
 More Information  
 Disclaimer : Please note, We did not upload any of these videos to our/any sites. All the videos presented here are just the embedded videos available online in the 3rd party video hosting websites such as YouTube, DailyMotion etc. If you want to remove the video, please follow the link and request the video sharing websites to remove the videos .  
 For questions concerning the product or your account, please. For more information about our privacy practices, write to us at:  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Tamilan@asia.com
 
 Talk To Us :- +91 9704763888
 
