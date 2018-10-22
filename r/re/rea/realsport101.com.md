@@ -1,115 +1,237 @@
-> *The following text is extracted and transformed from the realsport101.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912193253id_/https%3A//realsport101.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realsport101.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023012619id_/https%3A//realsport101.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - RealSport
+# Website Privacy Policy - RealSport
 
-## REALSPORT DATA PROTECTION CODE OF PRACTICE FOR USERS
+This website is operated by Realsm Limited, 173 West End Lane, West Hampstead, London NW6 2LY. Any reference in this policy to “we”, “us” or “our” is to Realsm Limited.
 
- **KEEPING YOUR RECORDS**
+We are part of a group of companies known as Gfinity Group (which includes [Gfinity PLC](https://www.gfinityplc.com/) and [CEVO](http://cevo.com/)). We may share your personal information with other members of our group in accordance with the terms of this privacy policy.
 
-RealSport complies with the Data Protection Act 1998 and this policy describes our procedures for ensuring that personal information about users is processed fairly and lawfully.
+We are the data controller (the company that’s responsible for deciding how your personal data is used) and take your privacy very seriously. Therefore, we urge you to read this privacy policy carefully because it contains important information about us and:
 
- **What personal data do we hold?**
-
-If you subscribe to RealSport, We need to hold personal information about you, in our CRM System operated and controlled by Mooloop Ltd.. This personal data includes:
-
-  * Personal details such as your name, your age, your address, telephone number, and other information you provide to us
-  * Information that we have provided or proposed to provide to you
-  * Details of promotional information and target advertising based upon your likes, hobbies, and interests
+  * The personal data we collect about you, our users;
+  * What we do with your information; and
+  * Who your information may be shared with.
 
 
 
- **Why do we hold information about you?**
+If you don’t understand any part of this privacy policy, you can always contact us with questions by email using [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) _._
 
-Our CRM system keeps comprehensive and accurate personal data about you in order to provide you with offers and promotions of our own, which best suit your tastes, and to provide to other like-minded associates of ours who can offer you similar or other such goods and services which best suit your tastes, so long as you consent to the same.
+##  **What personal data do we collect**
 
- **How do we process the data?**
+The table below sets out what personal data we collect about you and how we collect it. We may combine any of this personal data together (for example, combining your visits to our website with your activity history) for the purposes explained in this privacy policy.
 
-We will process personal data that we hold about you in the following way:
+ **Data we collect**|  **How we collect it**  
+---|---  
+Identity data (first name, last name, username or similar identifier, gender, birth date, nationality)| Provided by you on registration or otherwise through a direct interaction with us  
+Contact data (email address)| Provided by you on registration or otherwise through a direct interaction with us  
+Profile data (profile picture, social network account details, game account id’s/details, account preferences)| Optional information provided on registration or otherwise through a direct interaction with us  
+Technical data (IP address, browser type, hardware type, network and software identifiers, system configuration information, location data, device information)| Using automated technologies or interactions (such as cookies and other similar technologies)  
+Usage data (visits to and use of our website, activity history, engagement data including “clicks and opens”)| Using automated technologies or interactions (such as cookies and other similar technologies)  
+Marketing and communications data (marketing preferences in respect of us and third parties)| Provided by you on registration or otherwise through a direct interaction with us  
+  
+We also collect, use and share aggregated data such as statistical or demographic data for any purpose. Aggregated data is not considered personal data in law as it does not directly or indirectly reveal your identity. However, if we combine aggregated data with your personal data so that it can directly or indirectly identify you, we will treat the combined data as personal data and use it in accordance with this privacy policy.
 
- **Retaining information:**
+##  **How will your personal data be used?**
 
-Our CRM system will retain your personal data and information about you after you cease to be a user of our services, for at least 6 years.
+The table below sets out how we use your personal data and what our lawful basis for processing your personal data is. We may process your personal data for more than one lawful basis depending on the specific purpose for which we are using your personal data. We will only use your personal data when the law allows us to.
 
- **Security of information:**
+Generally, we do not rely on consent as a legal basis for processing your personal data other than in relation to sending direct marketing communications to you via email. You have the right to withdraw consent to marketing at any time in accordance with the “What about marketing communications?” section below.
 
-Personal data about you is held in the Zoho CRM system, in a virtual cloud space, and/or in a manual filing system. The information is not accessible to the public. Only authorised members of staff, maintenance and audit technicians with appropriate confidentiality agreements, have access to it under the supervision of the Controller. Our computer system and virtual cloud space has secure audit trails and we back up information routinely.
+ **Purpose/Activity**|  **Data type**|  **Lawful basis for processing**  
+---|---|---  
+To register you as a user| Identity data
 
- **Disclosure of information:**
+Contact data
 
-Disclosure will take place on a ‘need to know’ basis, so that only those individuals/organisations who need to know in order to provide you with target-based goods and services to your taste, will be given such information, should you consent to the same. Only that information that the recipient needs to know will be disclosed.
+Profile data
 
-In very limited circumstances or when required by Law or a Court Order, personal data may have to be disclosed to a 3rd party. In all these situations, disclosure that is not covered by this Code of Practice will only occur when we have your specific consent.
+| Performance of a contract with you  
+To provide you with products and services you have registered to use| Identity data
 
-Where possible you will be informed of these requests for disclosure.
+Contact data
 
- **Access**
+Profile data
 
-You have the right of access to the data that we hold about you and to receive a copy. Access may be obtained by making a request in writing and the payment of a fee for access of up to £10 (for records held on computer) or £50 (for those held manually or for computer- held records with non-computer radiographs). We will provide a copy of the record within 40 days of receipt of the request and fee (where payable) and an explanation of your record should you require it.
+| Performance of a contract with you  
+To administer and protect our website and provide customer services (including sending you service messages via email)| Identity data
 
- **If you do not agree**
+Contact data
 
-If you do not wish personal data that we hold about you to be disclosed or used in the way that is described in this Code of Practice, please notify the Controller. You have the right to object.
+Profile data
 
- **Security Policy & Privacy**
+Technical data
 
-We view your customer security as paramount, below is an outline of our security policy but if you have any further queries, please contact our Customer Service team. Any personal information you provide to us and from which you can be identified is stored securely and confidentially and is processed fairly and lawfully in accordance with this privacy policy
+| Performance of a contract with you
 
-We take appropriate technical and organisational measures to protect against unauthorised or unlawful processing of your personal information, including encrypting your information to applicable industry standards.
+Necessary for our legitimate interests (ensuring the proper operation of our website and our business)  
+  
+To verify your identity and to monitor and analyse the use of your account| Identity data
 
-During your visit to our site we may gather certain personal information that is necessary to set up your account, for the purposes of billing, delivery of your goods and queries. We only keep your information for as long as is necessary to process your order, process any applicable refunds, respond to any complaints/feedback or to provide you with promotional information you have subscribed to.
+Contact data
 
-Ordinarily we do not have access to your financial information which is securely transferred directly to our card processing agents and who process it on our instructions.
+Profile data
 
-We supply your information electronically to our couriers who need your details to deliver your orders
+Technical data
 
-When you register your details with us, you have the option to subscribe to future promotions and special offers. You may unsubscribe from this by pressing the unsubscribe button.
+Usage data
 
-We do not transfer your information outside the European Economic Area (“EEA”) unless you are a user located outside the EEA in which case we may need to transfer your information to deliver your goods, process payment/refunds, or to send you promotional information you have subscribed to.
+| Necessary for our legitimate interests (to prevent and detect fraudulent activity, security incidents and criminal activities)
 
-Our website can recognise past users by using cookies. Cookies personalise your visits to our website to meet your individual preferences. You can disable cookies by adjusting your internet settings.
+Necessary to comply with a legal obligation  
+  
+To use data to perform statistical and trend analysis| Technical data
 
-This Website contains links to other websites with their own privacy policies, we are not responsible for the privacy policies of these websites.
+Usage data
 
-When you supply your information to us you accept the risks associated with the Internet and will not hold us responsible for any loss of your information unless we have breached our duty of care to you.
+| Necessary for our legitimate interests (to develop our business, website and products and to inform our marketing strategy)  
+To personalise your experience on our website by delivering relevant content and advertisements| Identity data
 
-If you have any queries regarding our use of your personal information or this privacy policy, you should contact our Data Protection Compliance Officer by writing to [support@zohocorp.com](mailto:support@zohocorp.com)
+Contact data
 
- **RealSport INFORMATION SECURITY POLICY:**
+Profile data
 
-  *  **Confidentiality**
+Technical data
+
+Usage data
+
+Marketing and communications data
+
+| Necessary for our legitimate interests (to develop our business, website and products and to inform our marketing strategy)  
+ 
+
+To send you Gfinity group esports news as part of our email marketing & system message activity.
+
+| Identity data
+
+Contact Data
+
+Profile data
+
+Technical data
+
+Usage data
+
+Marketing and communications data
+
+| Necessary for our legitimate interests (to develop our business, website and products and to inform our marketing strategy)
+
+Consent  
+  
+To process your “write for us” application| Identity data
+
+Contact data
+
+Profile data
+
+| Performance of a contract with you  
+  
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please [_contact us_](https://realsport101.com/contact-us/).
+
+If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+
+Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+##  **How will your personal data be shared?**
+
+We may share your personal data for the purposes/activities set out in the table above with the following:
+
+  * any member of our group of companies (Gfinity Group, which includes [Gfinity PLC](https://www.gfinityplc.com/) and [CEVO](http://cevo.com/)), for the purpose of the business operation and administration of our group companies and for marketing purposes; and
+  * selected third parties including:
+  * business partners, suppliers and sub-contractors for the performance of any contract we enter into with you (for example third party service providers to help us in areas such as website hosting, maintenance, digital marketing, email marketing and customer support operations);
+  * with your express opt-in consent, select companies outside our group for marketing purposes;
+  * advertisers and advertising networks that require the personal data to select and serve relevant adverts to you and others. We do not disclose information about identifiable individuals to our advertisers, but we will provide them with aggregate information about our users. We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers’ wishes by displaying their advertisement to that target audience; and
+  * analytics and search engine providers that assist us in the improvement and optimisation of our website.
 
 
 
-All Staff employment contracts contain a confidentiality clause
+We will disclose your personal data to third parties:
 
-Access to personal data is on a ‘need to know’ basis only. Access to information is monitored and breaches of security will be dealt with swiftly by JumpLead who is a Controller for the purposes of the Data Protection Act 1998
-
-We have procedures in place to ensure that personal data is regularly reviewed, updated and deleted in a confidential manner when no longer required.
-
-  *  **Physical security measures**
-
-
-
-Personal data is only taken away from our registered offices and trading address (‘the premises’), in exceptional circumstances and when authorised by the Controller. If personal data is taken from the premises it must never be left unattended in a car or in a public place.
-
-Records are kept in a lockable fireproof cabinet, which is not accessible to anyone other than the Controller
-
-Records are also kept in a secure passworded virtual space, only accessible by the Controller, Administrators, and Maintenance parties under Support Agreements with suitable confidentiality agreements
-
-Efforts have been made to secure the premises against theft with the use of intruder alarms, CCTV, lockable windows, and doors.
-
-There is in place a continuity plan in case of a disaster. This includes procedures set out for protecting and restoring personal data
-
-  *  **Information held on computer**
+  * if we are required to do so by law or pursuant to a binding regulatory request (in such circumstances, such disclosure will at all times be solely to the extent required by law or the applicable regulatory request);
+  * in the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer of such business or assets;
+  * in order to enforce or apply our terms of use and other agreements; or
+  * to protect the rights, property, or safety of our users, or others which may include exchanging information with third party companies for the purpose of fraud prevention or credit risk reduction.
 
 
 
-Appropriate software controls are used to protect computerised records, for example the use of passwords and encryption. Passwords are only known to those who require access to the information, are changed on a regular basis and are not written down or kept near or on the computer for others to see
+##  **What about marketing communications?**
 
-Daily and weekly back-ups of computerised data are taken and stored in a fireproof container, off-site. Back-ups are also tested at prescribed intervals to ensure that the information being stored is usable should it be needed.
+Where you have given us your express consent to do so, we may from time to time contact you by email about our products and services that may be of interest to you. We may use a third party email service provider (such as MailChimp) to deliver the relevant emails to you.
 
-Staff using computers either in or off of the premises will undertake computer training to avoid unintentional deletion or corruption of information
+We will also get your express opt-in consent before we share your personal data with any company outside our group of companies for marketing purposes.
 
-Precautions are taken to avoid loss of data through the introduction of computer viruses.
+If at any point, you would like to opt-out of receiving such marketing communications, or would like to change the channels that are used to contact you, please click on the unsubscribe link at the bottom of any emails you receive, or email us, stating your preferences, at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-This statement has been issued to existing staff with access to personal data at or off-site the premises, and will be given to new staff during induction. Should any staff have concerns about the security of personal data within the practice they should contact the Controller.
+Email marketing messages may contain tracked clickable links or similar server technologies in order to track subscriber activity within email marketing messages. Where used, such marketing messages may record a range of subscriber personal data relating to engagement, geographic, demographics and already stored subscriber personal data.
+
+##  **Downloads & media files**
+
+Any downloadable documents, files or media made available on this website are provided to users at their own risk. While all precautions have been undertaken to ensure only genuine downloads are available users are advised to verify their authenticity using third party anti-virus software or similar applications.
+
+We accept no responsibility for third party downloads and downloads provided by external third party websites and advise users to verify their authenticity using third party anti-virus software or similar applications.
+
+##  **S** **ecurity and storage of your personal data**
+
+We have adopted strict security processes, in accordance with good industry practice, to prevent the unauthorised access to, or disclosure of, your personal data. We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so. In addition, we also limit access to personal data to those employees, agents, consultants and other third parties on a need-to-know basis and subject in each case to suitable obligations relating to security and confidentiality of your information.
+
+Despite our implementation of these policies, please note that we cannot guarantee the security of any personal data that you send to us via the internet (including via email or forms on our website) or which is collected using online devices/tracking technology.
+
+We will retain your personal data only for as long as is strictly necessary for the purposes for which such personal data was originally collected (or for such longer period as may be required by law).
+
+##  **External website links & third parties**
+
+Although we only look to include quality, safe and relevant external links, users are advised to adopt a policy of caution before clicking any external web links mentioned throughout this website (External links are clickable text / banner / image links to other websites).
+
+URL shortening is a technique used on the web to shorten URL’s (Uniform Resource Locators) to something substantially shorter. Users should exercise caution before clicking on shortened URL links and verify their authenticity before proceeding.
+
+We cannot guarantee or verify the contents of any externally linked website. Users should therefore note they click on external links at their own risk and we cannot be held liable for any loss or damage caused to you by visiting any external links mentioned.
+
+##  **Comments**
+
+Our website uses Disqus to manage comments you leave on the website. All comments you leave on the website are processed by Disqus and you should login to your Disqus profile to delete, edit and manage any comments you have left on the website. Please review the [Disqus Terms of Service](https://help.disqus.com/terms-and-policies/terms-of-service) and [Disqus Privacy Policy](https://help.disqus.com/terms-and-policies/disqus-privacy-policy) before leaving any comments on the website, as those documents will apply to your interactions with Disqus.
+
+##  **Write For Us**
+
+In order to operate the “write for us” process we require you to add our employees on Facebook. This allows us to promptly process your application. Please review the [Facebook Privacy Policy](https://en-gb.facebook.com/full_data_use_policy) and [Facebook Terms of Service](https://www.facebook.com/terms.php) in relation to any use you may make of the Facebook platform, as those documents will apply to your activities on Facebook.
+
+##  **Social media policy & usage**
+
+We adopt a Social Media Policy to ensure our business and our staff conduct themselves appropriately online. While we may have official profiles on social media platforms, users are advised to verify authenticity of such profiles before engaging or sharing information with such profiles. We will never ask for user passwords or personal details on social media platforms. Users are advised to conduct themselves appropriately when engaging with us on social media.
+
+There may be instances where our website features social sharing buttons, which help share web content directly from web pages to the respective social media platforms. You use social sharing buttons at your own discretion and accept that doing so may publish content to your social media profile feed or page, and the operators of those social media platforms will have access to the personal data that you disclose.
+
+##  **Transfer of your personal data outside the EEA**
+
+We may transfer some of your personal data to third parties who are located in countries outside of the European Economic Area (“EEA”). This may include third parties in the United States of America and other locations where group companies of ours are based. These countries may not have equivalent data protection legislation to the UK. In each case, we will not transfer your data outside of the EEA unless we have your explicit consent to do so (or have another legal justification for doing so) and where we have ensured that all adequate protections are in place in respect of the processing of such data outside of the EEA. If you require more information about these international transfer of data, please [_contact us_](https://realsport101.com/contact-us/). Where relevant, you are entitled to see a copy of any safeguards which we have put in place.
+
+##  **Your rights**
+
+You have the right to make a complaint at any time to the Information Commissioner’s Office. We would, however, appreciate the chance to deal with your concerns first so please contact us in the first instance.
+
+##  **Changes to this privacy policy**
+
+We may update this privacy policy from time to time in our discretion and will notify you of any material changes to the way in which we treat personal data, by posting a notice on relevant areas of our website. We may also provide notice to you in other ways in our discretion, such as through contact information you have provided.
+
+Any updated version of this privacy policy will be effective immediately upon the posting of the revised privacy policy unless otherwise specified.
+
+Your continued use of our website after the effective date of the revised privacy policy (or such other act specified at that time) will constitute your consent to those changes. However, we will not, without your consent, use your personal data in a manner materially different than what was stated at the time your personal data was collected.
+
+##  **Contact us**
+
+If you have any questions about this privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+v.0.2 May 2018: Realsm Limited
+
+##  **Resources & further information**
+
+  * [Overview of the GDPR – General Data Protection Regulation](https://ico.org.uk/for-organisations/data-protection-reform/overview-of-the-gdpr/)
+  * [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents)
+  * [Privacy and Electronic Communications Regulations 2003](http://www.legislation.gov.uk/uksi/2003/2426/contents/made)
+  * [The Guide to the PECR 2003](https://ico.org.uk/for-organisations/guide-to-pecr/)
+  * [Twitter Privacy Policy](http://twitter.com/privacy)
+  * [Facebook Privacy Policy](http://www.facebook.com/about/privacy/)
+  * [Google Privacy Policy](http://www.google.com/privacy.html)
+  * [Linkedin Privacy Policy](http://www.linkedin.com/static?key=privacy_policy)
+  * [Mailchimp Privacy Policy](http://mailchimp.com/legal/privacy/)
+  * [Disqus Privacy Policy](https://help.disqus.com/terms-and-policies/disqus-privacy-policy)
+
+
