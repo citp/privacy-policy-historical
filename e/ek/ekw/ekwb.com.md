@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ekwb.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190157id_/https%3A//www.ekwb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekwb.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022154342id_/https%3A//www.ekwb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EKWB
 
@@ -126,13 +126,13 @@ You agree to indemnify, defend and hold harmless EKWB, our officers, directors, 
 
 EKWB reserves the right, at its own cost, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, in which event you will fully cooperate with us in asserting any available defenses.
 
-EKWB is committed to protecting the online privacy of children and making the internet safe. We do not provide products and services to children, or knowingly collect or solicit personal information from children under 13 years of age. Any communication we get that is identified as being from a child under 13 will not be kept by EKWB. We encourage parents or guardians of children under 13 to regularly check and monitor their children’s use of email and other activities online.
+EKWB is committed to protecting the online privacy of children and making the internet safe. We do not provide products and services to children or knowingly collect or solicit personal information from children under 13 years of age. Any communication we get that is identified as being from a child under 13 will not be kept by EKWB. We encourage parents or guardians of children under 13 to regularly check and monitor their children’s use of email and other activities online.
 
-If your name, e-mail or postal address, telephone number or other personal information changes, you may update, correct or omit the relevant information by contacting EKWB customer service at support@ekwb.com.
+If your name, e-mail or postal address, telephone number or other personal information changes, you may update, correct or omit the relevant information by contacting EKWB customer service at [dataprotection@ekwb.com](mailto:dataprotection@ekwb.com).
 
 If you prefer not to receive newsletters or other marketing e-mails from EKWB please let us know by clicking on the unsubscribe link within any newsletter or marketing e-mail you receive.
 
-If you wish  for your personal data to be completely removed from EKWB’s systems, please send deletion request to the email address **support@ekwb.com**.  
+If you wish  for your personal data to be completely removed from EKWB’s systems, please send deletion request to the email address **[dataprotection@ekwb.com](mailto:dataprotection@ekwb.com)**.  
 Please be sure to include in any e-mail your full name, e-mail address, and any message. Please note that such requests may take up to ten (10) days to become effective.
 
-If you are a California resident, California Civil Code Section 1798.83 permits you to request a notice regarding the disclosure of your personal information by EKWB to partners for the partners’ direct marketing purpose. If you are a California resident and would like a copy of this notice, please constact us at support@ekwb.com.  We do not track our users and visitors over time and across third party websites to provide targeted advertising. Consequently, we do not respond to Do Not Track (DNT) signals. Other third party websites may keep track of your browsing activities when they provide you with content, which enables them to customize what they present to you on their websites.
+If you are a California resident, California Civil Code Section 1798.83 permits you to request a notice regarding the disclosure of your personal information by EKWB to partners for the partners’ direct marketing purpose. If you are a California resident and would like a copy of this notice, please contact us at [dataprotection@ekwb.com](mailto:dataprotection@ekwb.com).  We do not track our users and visitors over time and across third party websites to provide targeted advertising. Consequently, we do not respond to Do Not Track (DNT) signals. Other third party websites may keep track of your browsing activities when they provide you with content, which enables them to customize what they present to you on their websites.
