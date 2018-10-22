@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daily.social privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517203234id_/https%3A//daily.social/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daily.social privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023014749id_/https%3A//daily.social/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily.Social
 
