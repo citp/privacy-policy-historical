@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grimsbytelegraph.co.uk privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527182829id_/https%3A//www.grimsbytelegraph.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grimsbytelegraph.co.uk privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022133426id_/https%3A//www.grimsbytelegraph.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Grimsby Live privacy policy
 
