@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenefits.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120071949id_/https%3A//www.zenefits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenefits.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022074232id_/https%3A//www.zenefits.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Zenefits
 
@@ -99,8 +99,8 @@ As you know, however, the Internet is not a 100% secure environment, and as a re
 You may contact us by mail at:
 
 Privacy Policy Issues  
-C/O Zenefits’ Chief Privacy Officer  
-303 2nd Street, North Tower Suite 401  
+C/O Zenefits’ Privacy Officer  
+250 Brannan Street, Floor 3  
 San Francisco, CA 94107 
 
 You may also reach us by email [here](mailto:privacy@zenefits.com).
