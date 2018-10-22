@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cspinet.org privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901205658id_/https%3A//cspinet.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cspinet.org privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022145150id_/https%3A//cspinet.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Center for Science in the Public Interest
-
-## Privacy Policy
 
 View CSPI's privacy policy statement here.
 
