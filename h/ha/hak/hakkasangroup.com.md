@@ -1,276 +1,271 @@
-> *The following text is extracted and transformed from the hakkasangroup.com privacy policy that was archived on 2017-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170818195251id_/https%3A//hakkasangroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hakkasangroup.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023015224id_/https%3A//hakkasangroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hakkasan Group
 
-**Privacy Notice**
+**PRIVACY NOTICE**
 
-Effective date: 06/01/2017
+Effective Date: May 25th, 2018
 
-(“Company”, “we”, “our”, or “us”) operates the site and subsites located at  and mobile applications (collectively “Site”) and provides the content (including email and electronic communications) and services (collectively “Services”) offered on or through the Site. “Platform” means the “Site” and/ or “Service”.
+**_KEY POINTS_**
 
-This Privacy Notice explains how we collect, use, share and protect information about visitors or registered users on, from or through the Platform and the choices that visitors and registered users have about the collection and use of certain information about them.
+  *     * _How to opt-out of marketing communications_
+    * _How to opt-out of interest-based advertising_
+    * _How to request access to your data_
 
-Scope
 
-This Privacy Notice applies solely to information that we collect from visitors and registered users through the Platform or through electronic communications that we receive at the address indicated in section “How to Contact Us”.
 
-A “visitor” is an individual who visits the Platform, without having registered. We do not know the identity of the individual.  A “registered user” is an individual who has registered with the Platform, and whose identity can be determined directly or indirectly from the information provided. For the purpose of this Privacy Notice “you” means a visitor or a registered user; and a “visitor” includes a “registered user”.
+**_WHO WE ARE_**
 
-This Privacy Notice does not apply to the websites of third parties to which the Platform may link. We do not endorse, and are not responsible for the content of such websites, their policies or practices, or any product or service that they may offer. Any activity you perform on such third-party websites will be subject to the privacy policies and other terms and conditions expressed therein. We recommend that you review third-party terms before providing any personal information to them.
+Hakkasan Group (“Company”, “we”, “our”, or “us”) operates the site and subsites located at  and mobile applications (collectively “Site”) and provides the content (including email and electronic communications) and services (collectively “Services”) offered on or through the Site. “Platform” means the “Site” and/or “Services”.
 
-Consent
+**_ABOUT THIS DOCUMENT_**
 
-By using the Platform, you agree to the terms of this Privacy Notice. Please ensure that you read this Privacy Notice carefully.
+This Privacy Notice explains how we collect, use, share, and protect information about users of the Platform, and the choices users have about how we collect and use certain information about them.
 
-We may modify this Privacy Notice from time to time. We will notify you of material changes to this Privacy Notice by posting the amended terms in accordance with applicable laws. If you do not agree with the proposed changes, you should discontinue your use of the Platform before the new Privacy Notice takes effect. If you continue using our Platform after the new terms take effect, you will be bound by the modified Privacy Notice.
+_Third-party Websites_ : This Privacy Notice **does not apply** to the websites of third parties to which the Platform links. We do not endorse, and are not responsible for the content of such websites, their policies or practices, or any product or service that they offer. Any activity you perform on such third-party websites will be subject to the privacy policies and other terms and conditions expressed therein. We recommend that you review third-party terms before providing any personal information to them.
 
-Children
+MODIFICATIONS
 
-The Service is a general audience service. Our content is neither directed towards minors nor children who are under the age of 13. We do not knowingly collect personal information from children under the age of 13. If we become aware that a minor or a child under the age of 13 has provided us with personal information without parental consent, that information will be deleted. Parents who have questions about personal information that may have been submitted by a child under the age of 13 should email us at the address provided in the “How to Contact Us” section.
+We modify this Privacy Notice from time to time in accordance with the _“Modifications” section below_.
 
-By using the Platform, you represent that you are at least 13 years old.
+**_CHILDREN_**
 
-How we Collect Information
+**By using the Platform, you represent that you are at least 16 years old**. The Service is a general audience service. Our content is not directed towards children who are under the age of 16, nor do we knowingly collect personal information from children under the age of 16. If we become aware that a child under the age of 16 has provided us with personal information without parental consent, that information will be deleted. Parents who have questions about personal information that has been submitted by a child under the age of 16 should email us at the address provided in the “How to Contact Us” section.
 
-We (and our service providers) collect information in a variety of ways, such as through the methods identified below:
+**_WHAT WE COLLECT_**
 
-  * From the visitor’s browser, such as the screen resolution, operating system name and version, device manufacturer and model, language, or browser type and version.
-  * Through a visitor’s activities offline, for example when a visitor responds to a newsletter or interacts with us by telephone.
-  * Through the visitor’s activities online, such as when a visitor responds to an email, fills out an online form or responds to a survey.
-  * Through social media.
-  * Through cookies and other technologies that help us track and analyze how visitors interact with our Platform.
-  * By receiving additional information from third parties.
+We collect information about you through your interactions with our Platform, including personal information you provide us directly as well as information we, or one of our service providers, observe about how you use our Platform. This information is collected by cookies, which are small text files that are placed on your computer by websites that you visit, and are widely used in order to make websites work, work more efficiently, and provide information to the owners of the website. You may refuse the use of cookies by selecting the appropriate settings on your browser. For further information on how to disable cookies in different browsers, click [here](https://cookiepedia.co.uk/how-to-manage-cookies). If you are located in the European Economic Area (EEA), you may also decline to consent to the use of cookies.  However, please note that if you do this, you may not be able to use the full functionality of our websites.  You can obtain more information about our use of cookies _here_
 
+**Categories of data we collect** :
 
+  * _Contact/Identification_ : Name, email, phone, mailing address, birthday, gender (gender is collected for nightlife/daylife customers only);
+  * _Purchases_ : Number of tickets purchased, ticket purchase time, transaction amount, venue name, event date, artist, billing address;
+  * _Payment_ : Credit card information is requested to complete online purchases through our Platform (this information goes straight to our credit card processor www.plugnpay.com, we do not process or store it). Additionally, unique transaction IDs are recorded for customer support and to process refund requests;
+  * _Reservation Notes_ : Information relating to your reservation (for example, seating preferences, food and beverage preferences, and allergy information), whether you showed up for your reservation, venue, reservation date and time, party size, amount spent. Please note that allergy information will not be collected without your consent;
+  * _Referrals_ : If you were referred to us by someone, we may keep a record of the referral source;
+  * _Age verification_ : We keep records of your age verification on our websites, verifying that you are old enough to consent to the processing of your personal data;
+  * _Correspondence_ : Contents of emails you send us, when you send/receive/view one of our emails, when you opt in or out of receiving emails from us;
+  * _Advocate Link_ : This is a URL that points to our website and includes a parameter that identifies the affiliate who sent the traffic to us.
+  * _Venue Admissions_ : We keep records regarding when a ticket, wristband, or reservation is fulfilled at a particular venue;
+  * _Music Preferences_ :  Musical artists and genres that you have expressed an interest in;
+  * _Social Media_ : Contents of posts you make on our social media pages, likes and other interactions with our social media content, social media user name. You can control the information we receive from social media platforms such as Facebook, Instagram, Snapchat, and Twitter by using the privacy and data settings in your social media accounts;
+  * _Preferences/Settings_ : Time zone, language, and character size, among others;
+  * _Online Identifiers_ : IP address; mobile device advertising identifier, Marketo “Munchkin” tracking ID, Salesforce Predictive Intelligence tracking ID;
+  * _Technical Information_ : Type of device, operating system name/version, device manufacturer, model, browser name/version, screen resolution, installed and uninstalled applications running in the background;
+  * _Connection_ : Internet service provider or mobile carrier’s name, country, connection speed and connection type, Bluetooth settings, among others;
+  * _Platform Usage_ : Date stamp, URL of the last webpage visited before visiting our Platform, and URL of the first page visited after leaving our Platform, pages viewed, time spent on a page, click through, clickstream data, queries made, search results selected, comments made, search history, type of service requested, purchases made, among others;
+  * _Do Not Call_ : Whether you have asked to be placed on a do not call list, and do not call reasons;
+  * _Third-party Cookies_ : Information collected through cookies, pixel tags, and other tracking technologies; and
+  * General geographic location
 
-Information We Collect
 
-We collect information from visitors when they interact with the Platform. This includes, for example, the following:
 
-Information we Collect Automatically
+**SOURCES OF DATA**
 
-When a visitor uses, or interacts with our Platform the visitor’s browser automatically provides, and we automatically collect and store, certain information about the visitor’s device (computer, tablet, smart phone) and the visitor’s activities. This includes, for example:
+  * WEB FORMS
 
-  * Preferences and settings: time zone, language, and character size, among others;
-  * Identifiers: IP address; mobile device advertising identifier, Media Access Control (MAC) address, among others;
-  * Technical information: type of device, operating system name and version, device manufacturer, model, browser information (type, version), screen resolution, installed and uninstalled applications running in the background, among others;
-  * Connection: Internet service provider or mobile carrier’s name, country, connection speed and connection type, Bluetooth settings, among others;
-  * Information about use of the Platform: date stamp, URL of the last webpage visited before visiting our Platform, and URL of the first page visited after leaving our Platform, pages viewed, time spent on a page, click through, clickstream data, queries made, search results selected, comments made, search history, type of service requested, purchases made, among others;
 
 
-  * Information collected through cookies, pixel tags, and other technologies; and
+Most of the personal data we collect comes through various forms across our Platform. Certain fields on these forms are mandatory in order for us to complete the associated transactions. Mandatory fields are indicated with an asterisks.
 
+  * BROWSER
 
-  * General geographic location.
 
 
+We also collect data from your browser. This data collection occurs automatically as a consequence of your browser interacting with our servers. This data is captured in logs
 
-Communications and Interaction
+  * COOKIES
 
-When a visitor registers to have access to the Platform (thereby becoming a “registered user”), when we send a communication to a visitor, or when the visitor accesses, responds to, or declines to open a communication from us, completes a form to communicate with us, or contacts us, we collect and store certain information about the visitor, the visitor’s device (computer, tablet, smart phone) and the visitor’s activities, such as:
 
-  * The visitor’s name, login ID or pseudonym and contact information (if provided);
-  * Information that the visitor provides or comments that the visitor makes;
-  * The nature of the communication;
-  * The purpose of the interaction, and the action we took in response to the visitor’s inquiry or request;
-  * Whether the visitor opened our communication or ignored it;
-  * Any action the visitor takes upon receipt of such communication.
 
+See the section titled “Online Tracking and Your Choices” below for information about our cookie policy.
 
+  * THIRD-PARTIES
 
-Social Media
 
-Our Platform includes social media features that may be managed by us or by third parties. These features may collect a visitor’s IP address and which pages the visitor is visiting, and may set a cookie to enable the feature to function properly. Your use of these third-party websites and social media services may result in the collection or sharing of information about you by these third-party websites and social media services. 
 
-We encourage you to review the privacy policies and settings on the third-party websites and social media services with which you interact to make sure you understand the information that may be collected, used, and shared by those third-party websites and social media services.
+We collect personal information from third-party service providers including OpenTable (restaurant reservations), Seven Rooms (restaurant reservations), Hotpoint (photo booths), Zenreach (Wi-Fi access), Ticketmaster (ticket sales to events), Bookmyshow (ticket sales to events), American Express (global dining program), Facebook (Facebook lead forms), Full Contact (provides additional contact information by matching e-mail address with full contact database, and verifies e-mail addresses are valid), Hotspot International (photo booths), Woobox (sweepstakes administration), and New Epoch (sweepstakes administration). We only receive your information from these services if you give them consent to share it with us.
 
-Information we Obtain from Third Parties
+**_WHY WE COLLECT_**
 
-We may obtain information from third parties, such as third parties with whom we do business, such as strategic business partners, service providers, public databases, or social media services to which our Platform might be linked.
+We collect this information for the following purposes:
 
-We may work with third party analytics services to help us understand how the Platform is being used, such as tracking the frequency and duration of use of the Platform. We use analytics services from providers who use cookies and similar technologies to collect information about the content you view, what websites you visit immediately prior to and after visiting the Platform, and your system information and geographic information. The information generated by these cookies and other technologies is transmitted to and stored by the applicable analytics services.
+  * _Commercial Transactions_ : We use your contact/identification information, in conjunction with your payment information through our payment processor, to complete online purchases and communicate any relevant information after the purchase is complete. We also pay some of our affiliates commissions when an affiliate refers someone to us who then makes a purchase. The advocate link allows us to track which referrals came to us through which affiliate, so that we can calculate commissions.
+  * _Improve Platform/Services_ : We use several categories of information listed above to help us understand how users interact with our Platform, so we can improve user experience and improve our product offerings. The analytics tools we use to analyze this data have the capability of identifying individual users under some circumstances; however, we only use these capabilities to generate sample data reports. We do not use these capabilities to identify individuals.
+  * _Marketing/Promotions_ : We send promotional emails from time to time to users who opt-in to receive such emails (you can unsubscribe any time by clicking the “unsubscribe” link at the bottom of the email). We send promotional emails in relation to your birthday; however, these are based on the month and day of your birthday only (not your birth year). We use social media usernames to assist us in de-duplicating contacts in our marketing database. This de-duplication helps us avoid sending duplicate advertising to the same person through multiple e-mail addresses. We also create custom audiences for social media advertising.
+  * _Legal Compliance_ : We collect birthdates and addresses to help us comply with certain regulations such as age restrictions on attending some of our venues and consent for processing personal data, and online communications.
 
-Use of Information
 
-In addition to some of the specific uses of information that are described in this Privacy Notice, we may use the information that we have collected or received to:
 
-  * Send administrative information to the visitor;
-  * Remember the visitor’s preference, such as language, font size, when using our Platform;
-  * Remember the visitor’s interests;
-  * Administer our Platform, diagnose technical problems, and otherwise manage our business;
-  * Facilitate the visitor’s use of the Platform;
-  * Allow the visitor to navigate or browse through our Platform quickly and efficiently;
-  * Personalize the visitor’s experience by presenting content that is tailored to that specific visitor based on what we know about that visitor;
-  * Keep records of contact information and correspondence;
-  * Send marketing information;
-  * Communicate with the visitor about our activities;
-  * Send invitations to events that may be of interest to the visitor;
-  * Facilitate social sharing functionality, such as sharing content, through social media networks;
-  * Allow the visitor to share content with a friend through the Platform; **_by using this feature, you guarantee that you have the right  to use and provide us the names and email addresses you submit._**
-  * Improve, test, and monitor the effectiveness of the Platform;
-  * Develop features for the Platform that may be of interest to our visitors;
-  * Optimize our marketing efforts, for example by compiling statistics regarding the use of the Platform, identifying usage trends, or measuring the effectiveness of our promotional campaigns;
-  * Perform data analysis, audits, security and fraud monitoring and prevention;
-  * Enhance, improve, or modify our Platform; identify usage trends;
-  * Help diagnose technical problems, and detect spam behavior, denial of service attacks or  other cyber-threats.
+**_GDPR LAWFUL BASES_**
 
+In accordance with the EU General Data Protection Regulation (GDPR), we have determined that we have the following legal bases to collect and process personal information of users who are in the EEA:
 
+  * _Contract_ : We process personal information of EU users in order to complete contractual obligations such as selling/honoring tickets to events, making/honoring reservations (for VIP tables) at events and restaurants, and honoring employment contracts.
+  * _Legal Obligation_ : We process personal information of EU users in order to meet legal obligations with various regulatory authorities which impose certain restrictions on us, such as age restrictions on some of our venues.
+  * _Legitimate Interests_ : We process personal information of EU users in order to advance legitimate interests such as communicating information about our products and services. When we rely on our legitimate interests as a reason for processing your personal information, we have already considered whether or not those interests are overridden by your rights, and have concluded that they are not. Our legitimate interests do not automatically override your interests – we will not use your personal data for activities where our interests are overridden by the impact on you (unless we have your explicit consent or are otherwise required or permitted by law). In determining whether our legitimate interests override your rights, we consider the nature of both your interests and ours, the impact the processing will have on you, and any safeguards which are or could be put in place. Our legitimate interests for processing your personal information include: 
+    * Reservations: We may use your personal data to complete and administer your online reservations;
+    * Customer service: We use your personal data to provide customer service to you;
+    * Direct marketing activities: We use your personal data for marketing activities, such as marketing communications and running sweepstakes or contests. When we send you marketing communications, we include an unsubscribe link that you can use if you do not want us to send you future marketing communications;
+    * Analytics, improvement, and research: We use personal data to conduct research and analysis so that we can improve our products and services, enhance the user experience, and improve our website. The analytics tools we use to analyze this data have the capability of identifying individual users under some circumstances; however, we only use these capabilities to generate sample data reports. We do not use these capabilities to identify individuals;
+    * Cybersecurity, fraud detection, and prevention: We use personal data to help prevent fraud and other illegal activities, to investigate and detect fraud, and for the authentication of users;
+    * Payments: We use personal data to collect payments for purchases made from us;
+    * Recordkeeping: We use personal data to keep internal records and maintain records of reservations, contracts, user preferences, and complaints, to help us run our business efficiently and provide a higher level of service to our guests;
+    * Operating our websites: We use your personal data to operate our website.
+  * _Consent_ : We send promotional emails to users who consent to receive promotional emails.
 
-Sharing of Information with Third Parties
 
-Some of the technologies used on our Platform are managed by third parties. The practices of some of these third parties are subject to the third parties’ privacy policies over which we may have no control. We encourage visitors to read their privacy policies. Third parties who may have access to information may include:
 
-Employees; Service Providers
+**_ONLINE TRACKING & YOUR CHOICES:_**
 
-We share information with our employees, suppliers, subcontractors, and other third parties who provide services to us (collectively “service providers”) in connection with advertising, hosting, data analytics, information technology and infrastructure, email delivery, auditing, and other related activities.
+We use cookies, web beacons, and other tracking technologies to collect information about your behavior across our Platform, including, for example: your browser name/version, page views, IP address, and referring/exit pages.  We use the following tracking tools:
 
-Affiliates
+  * _Session cookies_ : We use session cookies to keep you logged in while you use features of our Site. These disappear after you close your browser.
+  * _Persistent cookies_ : We also use persistent cookies, which stay in your browser and allow us to recognize you when you return to our Site. These allow us to remember your information, so you will not have to re-enter it multiple times, to better understand how you use our Platform, and otherwise enhance our Platform, products, and services.
+  * _Email tracking_ : In some of our email messages, we use a “click-through URL” linked to content on the Site. We track this click-through data to help us measure the effectiveness of our customer communications.
+  * _Analytics tools_ : We also use third-party analytics tools (listed below) to assist us with analyzing and improving our service. These tools use cookies or similar technologies to track online behavior. 
+    * Google Analytics. To opt out of Google Analytics, please go to <https://tools.google.com/dlpage/gaoptout>.
+    * Google AdWords. To opt out of  Google AdWords, please go to <https://support.google.com/ads/answer/2662922>
+    * To opt out of Adroll, please go to <https://help.adroll.com/hc/en-us/articles/216599538-Opting-Out-of-Personalized-Advertising>
+    * Salesforce Marketing Cloud analytics. To opt out of Salesforce Marketing Cloud analytics, please click the unsubscribe link in one of our emails.
 
-We may share some or all of our visitors’ or registered users’ information with our corporate affiliates, joint venture partners, or other companies under common control with us. If you would like us to stop providing your information to our affiliates for their own marketing purposes, you may opt-out of this sharing by emailing us at the address provided in the “how to contact us” section.
 
-Partners and Sponsors
 
-Some of our content is offered or promoted in conjunction with a partner or sponsor. We may share visitor information with such parties in order to serve such content to the most appropriate audience.
+**_THIRD_** ** _-PARTY TRACKING & INTEREST-BASED ADVERTISING_**:
 
-Third Party Marketing Partners.
+We also permit third-party advertising partners to use cookies and similar tracking technology to collect information about your browsing activities over time and across different websites when you use our Site. We use advertising services provided by third-party ad partners – Facebook, Snapchat, Google and AdRoll – to market our services to you on other websites and online services (sometimes referred to as “retargeting”). These service providers place a cookie on your browser when you visit our Site so that they can identify you and serve you ads on other sites around the web based on your browsing activity.
 
-If you opt-in to receive marketing communications from third parties, we may, from time to time, share the information you provide to us with selected third party marketing partners that we believe offer products or services that may be of interest to you.  If you would like us to stop providing your information to our third-party marketing partners, you may opt-out by contacting us at the address provided in the “how to contact us” section.
+**_YOUR CHOICES_** :
 
-Social Media
+  * _Browser settings_ : Most Internet browsers allow you to change the settings to stop accepting cookies or to prompt you before accepting a cookie. If you set your browser to reject cookies, parts of our Site may not work for you. Please note, depending on your type of device or browser, it may not be possible to delete or disable all tracking mechanisms on your device.
+  * _“Do Not Track”_ : If you select a “Do Not Track” option in your browser, it may not have any effect on our collection of cookie information for analytic and internal purposes. We have no control over and cannot confirm whether our third-party ad partners honor “Do Not Track” browser settings.
+  * **_Opt-out of Interest-based advertising_** : Many advertising companies are members of the NAI or DAA which offer opt-out guidance and tools at [org/choices](https://networkadvertising.org/choices)or [aboutads.info/choices](http://aboutads.info/choices).
+  * Instructions for opting out of Google ads can be found [here](https://support.google.com/ads/answer/2662922?hl=en).
+  * _Instructions for opting out of Facebook ads can be found_[here](https://www.facebook.com/help/568137493302217) _._
+  * To opt-out of interest-based advertising in mobile applications, visit <http://youradchoices.com/appchoices>.
+  * To learn more about cookies, web beacons, and similar tracking technologies, visit [org](http://allaboutcookies.org/)).
 
-The Platform may include links to third party websites and social media services where a visitor is able to post comments, reviews or other information. Please note that any information that is posted or disclosed through these social media services may be available to us, or to other visitors of that service or the public. We recommend caution when using these features.
 
-Legal Requests and Preventing Harm
 
-To the extent permitted by law, we will disclose a visitor or registered user’s information to government authorities or third parties if: (i) required to do so by law, or in response to a subpoena, search warrant, court order or similar request from a judicial entity having jurisdiction; (ii) we believe in our sole discretion that disclosure is reasonably necessary to protect against fraud, to protect the property or other rights of us or other users, third parties or the public at large; or (iii) we believe that you have abused the Service by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws. You should be aware that, following disclosure to any third party, your information may be accessible by others to the extent permitted or required by applicable law.
+**_THIRD-PARTY SITES & SOCIAL MEDIA_**:
 
-Change of Control
+Our Site contains links to third-party websites and includes social media features to interact with Facebook, Instagram, Snapchat, and Twitter. These third-party sites collect information about you and record information about your browsing behavior. Your interactions with these features are governed by the privacy policy of the company providing the feature, not by our privacy policy. We do not control what information these third parties collect. Please review your privacy settings on your social media sites and think carefully before clicking on links which take you to a third-party website.
 
-In the event of a merger, acquisition, bankruptcy or other sale of all or a portion of our assets, any user information owned or controlled by us may be one of the assets transferred to third parties. We reserve the right, as part of this type of transaction, to transfer or assign your information and other information we have collected from users of the Service to third parties.  Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred user information will be subject to this Privacy Policy. However, any information you submit or that is collected after this type of transfer may be subject to a new privacy policy adopted by the successor entity.
+We use your information to deliver ads to you on social media platforms including Facebook, Instagram, Snapchat, and Twitter.
 
-Aggregated, Anonymized, or Statistical Information
+**_DATA SHARING_**
 
-We generate and use aggregated, anonymized, or statistical information about the use of our Platform. We may provide this information to third parties such as advisers or consultants for research, analytical or strategic purposes. While this information will not identify you personally, in some instances these third parties may be able to combine this aggregate information with other data they have about you, or that they receive from third parties, in a manner that allows them to identify you personally.
+We do not share your personal information outside of our corporate group for any commercial or marketing purpose unrelated to our products and services without asking you first. We do not rent or sell our customer lists. However, there are still a few limited situations where we share personal information:
 
-**AD CHOICES**
+  * _External processing_ : We have vendors, service providers, and technicians who help with some of our processing and storage. They also assist with monitoring our servers for technical problems. These external processors potentially access your information while doing their work, but they are not allowed to use any of your data for purposes unrelated to our products and services.
+  * _Data validation/enrichment_ : We share personal data with a third-party service provider called [FullContact](https://www.fullcontact.com/) for the purpose of verifying if the data is current, as well as enriching it with relevant information from public databases, such as location and demographics.
+  * _Business transitions_ : Upon the sale or transfer of the company and/or all or part of its assets, your personal information will likely be among the items sold or transferred. We will request a purchaser to treat our data under the privacy statement in place at the time of its collection.
+  * _Legal reasons_ : We will provide information to a third party if we believe in good faith that we are required to do so for legal reasons. For example, to respond to legal process, or comply with state and federal laws (or the applicable laws of foreign countries other than the United States).
+  * _Aggregate/Anonymized data_ : We share non-personal information (for example, aggregated or anonymized customer data) publicly and with our partners. For example, we publish trends about our events and venues. We take steps to keep this non-personal information from being associated with you and we require our partners to do the same.
+  * _Cross-border transfers_ – Your personal information will be collected, processed and stored by us or our service providers in the United States and other countries outside the European Union where our servers reside. As a result, your personal information may be subject to legal requirements, including lawful requirements to disclose personal information to government authorities, in those jurisdictions.
 
-Cookies and other Tracking Technologies
 
-We use cookies, beacons, pixels, tags, statistical IDs, flash cookies, and similar tracking technologies to collect information about the activities of our visitors and registered user over time and across different Sites, such as the pages a visitor views, the links on which a visitor clicks, how frequently a visitor accesses the Platform, and other visitor attributes and behaviors.  We also collect log file information from a visitor’s browser such as web request, IP address, browser type, referring / exit pages and URLs, and landing pages.  We may use statistical modeling tools to attempt to recognize visitors across multiple devices.
 
-We may retain the services of third party service providers who may link personal information about a visitor – such as name or email address – to other information they may have – for example, past purchases. This information may allow us to identify assumed interests or preferences of that visitor, so that we can provide a visitor with more useful and relevant offers or services.
+**_OPTING-OUT_**
 
-We use cookies and tracking technologies to, among other things:
+If you wish to opt-out of our marketing communications and data sharing practices, please email [privacy@hakkasan.com](mailto:privacy@hakkasan.com). Please note that even though you may opt-out of receiving marketing-related communications from us, we may still send you important administrative messages.
 
-  * Display information more effectively;
-  * Gather statistical information about the use of the Platform, to understand how our Platform is used, and improve design and functionality;
-  * Store, on a visitor’s device, information about that visitor’s preferences and settings;
-  * Recognize a visitor when the visitor moves from page to page, or returns to use the Platform;
-  * Collect information such as browser type, time spent on the Platform, pages visited, and traffic data;
-  * Track responses to our marketing and advertising campaigns; and
-  * For security purposes.
+**_DATA RETENTION_**
 
+We do not retain your personal data indefinitely. We employ a data retention policy which ensures we can complete our contractual and legal obligations, as well as meet our internal business intelligence needs. You may request more information about how we retain your personal information through a data request described in the following section.
 
+**_YOUR RIGHTS TO YOUR DATA_**
 
-We also use these technologies to understand the activities and interests of our visitors, including to:
+  *     * _Access_
 
-  * Measure traffic and usage of our Platform;
-  * Monitor the effectiveness of our Platform;
-  * Better understand the interests of visitors;
-  * Recognize new or past visitors to our Sites;
-  * Present more personalized content and advertisements;
-  * Optimize a visitor’s shopping experience;
-  * Identify visitors across devices, and third party websites; and
-  * Identify improvements or enhancements to our Platform that might be of interest to our visitors
 
 
+You have the right to request a copy of the data we have on you and know how we use that information. If you wish to request this information, send an email to [privacy@hakkasan.com](mailto:privacy@hakkasan.com.) with the word “Access” in the subject line. The email account from which you send the email request must match the email account for the personal data record requested. Depending on the amount and categories of data in the requested record, we will respond to your initial email with additional questions to verify that your identity matches the requested record. While we fully respect your right to request your data, **we must verify your identity first**.
 
-**HOW TO BLOCK COOKIES**
+  *     * _Correction_
 
-You can control some of our use of cookies. How you do so depends on the type of cookie. You may be able to configure certain browsers to delete or disable browser cookies. Most browsers contain information on how to control or delete cookies. These settings will typically be found in the “options” or “preferences” menu of a browser. You may also wish to refer to http://www.allaboutcookies.org/manage-cookies and http://www.allaboutcookies.org/browsers/index.html for information on commonly used browsers.
 
-To control flash cookies, you can visit:  http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html
 
-Please note that blocking or disabling certain cookies may interfere with certain functionalities of some parts of our Platform. Choices you make about cookies are also browser and device specific. Further, while disabling a cookie may prevent the collection of information in the future, it does not prevent the use of information collected before the cookie was disabled. If you block or delete cookies, not all of the tracking described in this notice will stop.
+If you find any mistakes in your data record, you may request that we correct the record by emailing your corrections to [privacy@hakkasan.com](mailto:privacy@hakkasan.com). Please use the word “Correction” in the subject line. If we decide not to correct your data record, we will explain our reason(s) in writing within 30 days.
 
-Analytics
+  *     * _Erasure_
 
-Information collected by Google Analytics is transmitted to, and stored by, Google in accordance with its privacy practices.  To see an overview of privacy at Google and how this applies to Google Analytics, please click here: https://support.google.com/analytics/answer/6004245.
 
-To opt out of Google Analytics, please go to https://tools.google.com/dlpage/gaoptout.
 
-Interest-Based Advertising
+You have the right to request that we erase the data we possess regarding you. If you wish to exercise this right, send an email to [privacy@hakkasan.com](mailto:privacy@hakkasan.com.) with the word “Erase” in the subject line. If we decide not to erase your data record, we will explain our reason(s) in writing within 30 days.
 
-We may – or may have third parties, on our behalf – display to a visitor interest-based advertising and other custom content regarding our capabilities, products or services that may be of interest to visitors. These advertisements may be served to a visitor on or through our Platform, or on third-party websites. They may be based on interactions that a visitor has had with us or our Platform, on other activities and behaviors that the visitor demonstrates online, assumed interests attributed to that visitor, browsing history, and other information gathered about that visitor over time across multiple sites.
+  *     * _Restriction of processing_
 
-To collect this information, our service providers may place or recognize a unique cookie on the user’s browser and use other techniques, such as pixel tags. If you are using one of our mobile applications, our ad network partners may use and store your mobile device ID or Advertising ID to show ads that they consider relevant to you.
 
-Do Not Track
 
-Some browsers give individuals the ability to choose not to be tracked while browsing on the Internet. The Internet industry has not yet agreed on a definition of what “Do Not Track” means, how compliance with “Do Not Track” would be measured or evaluated, or a common approach to responding to a “Do Not Track” signal. Consequently, due to the lack of guidance, we have not yet developed features that would recognize or respond to browser-initiated Do Not Track signals in response to California law. However, please note the capabilities below.
+In certain circumstances, you have the right to request that we restrict the processing of the personal data that we have collected about you; for example, where you believe that the personal data that hold about you is not accurate or lawfully held.
 
-How to Opt-out of Interest-Based Advertising
+  *     * _Right to data portability_
 
-You may opt-out of receiving interest-based advertising as explained below. The opt-out may be provided through specific tracking opt-out cookies. Please note that if you get a new computer, install a new browser, or erase or alter your browser’s cookie file (including upgrading certain browsers), this may also clear any opt-out cookie.
 
-To opt out of receiving interest-based advertising from advertising networks that may be delivered on a website, visit the following websites, and follow the instructions:
 
-http://optout.aboutads.info/#/ and http://www.aboutads.info/choices
+In certain circumstances, you have the right to receive the personal data concerning you that you have provided us in a structured, commonly used, machine readable format, and the right to obtain that we transmit the data to another entity where technically feasible.
 
-In addition, some third-party businesses may provide a mechanism to opt-out of their technology.  For more information about the opt-out process, you may visit the Network Advertising Initiative, you may want to visit:
+  *     * _Right to object to the processing of data_
 
-http://optout.networkadvertising.org/#/  and  http://www.networkadvertising.org/managing/opt_out.asp.
 
-Mobile device visitors may also download the AppChoices app at:
 
-www.aboutads.info/appchoices to opt out from interested based advertising served in mobile apps.
+In certain circumstances, you have the right to request that we stop processing your personal data.
 
-The features above will allow a visitor to opt out of many –but not all – of the interest-based advertising activities in which we or third parties engage.
+  *     * _Right to object to the processing of data for marketing purposes_
 
-Data Retention
 
-You can request that we stop using your information to provide you services by contacting us at the address provided in the “How to Contact Us” section.
 
-Information Security
+You have the right to request that we stop sending you marketing communications.
 
-We take reasonable measures to protect any personal information we may hold in order to prevent loss, misuse, unauthorized access, disclosure, alteration and destruction. In some areas of our Platforms, we may use Secure Socket Layer (“SSL”) or Transport Layer Security (“TLS”) encryption technology to enhance data privacy and help prevent loss, misuse, or alteration of the information under our control.
+  *     * _Right not to be subject to decisions based solely on automated processing including profiling_
 
-We cannot guarantee, however, that all information will remain secure. The Internet by its nature is a public forum. We encourage you to use caution when disclosing information online. Often, you are in the best situation to protect yourself online. You are responsible for protecting your login ID and password from third party access, and for selecting passwords that are secure.
 
-Consent to Transfer of Information
 
-If you are located outside the United States, please be aware that information we collect about you will be transferred for processing to the United States or other countries or jurisdictions that may not have the same data protection laws as your jurisdiction.
+In certain circumstances, you have the right no to be subject to a decision based solely on automated processing – including profiling – that produces legal effects or similarly affects you.
 
-By registering for, and using the Platform, you consent to the transfer and storage of your personal information to the U.S. or to any other country in which we or our service providers maintain facilities.
+  *     * _Right to withdraw consent_
 
-Marketing Choices
 
-Company material is provided at no cost to all visitors.  In order to finance some of the operations of the Platform, we have opted to make it available to advertisements by third parties. We may use aggregated and non-identifying information to deliver tailored advertisements targeted to a specific audience. Based upon the aggregated information we have collected about visitors, we display the advertisement to the intended audience based on these general criteria. Some advertisement methodology may be directed to a specific individual, and may be based on the specific apparent interest of the visitor of a specific device.
 
-Electronic Communications
+We may seek to rely on your consent in order to process certain personal data. Where we do so, you have the right not to provide your consent, and the right to withdraw your consent at any time. If you withdraw your consent, this will not affect the lawfulness of the processing conducted based on consent before its withdraw.
 
-If you receive commercial electronic communications from us, you can unsubscribe from the receipt of future commercial electronic communications from us by clicking on the “unsubscribe link” provided in such communications. Please also note that if you do opt out of receiving emails from us, we may still send you important administrative messages (such as updates about your account or service changes), and you cannot opt out from receiving these messages. **Please note that even though you may opt-out of receiving marketing-related Communications from us, we may still send you important administrative messages.**
+  *     * _Complaints_
 
-We may need to retain certain information for record keeping purposes and/or to complete any transaction that you began before requesting a change or deletion. In addition, it is likely that residual information might remain within our databases, back-ups or other records and might not be removed.
 
-Shine the Light
 
-Under California Civil Code sections 1798.83-1798.84, also known as the “Shine the Light Law,” any users of the Platform who are California residents are entitled to request and receive once a year, free of charge, a notice from us describing what categories of customer information (if any) we shared with third parties, including our corporate affiliates, for their direct marketing purposes during the preceding calendar year.  If applicable, the notice will identify the categories of information that we shared, and the names and addresses of the third parties and affiliates with which we shared your information.
+You have the right to file a complaint with a relevant data protection supervisory authority and the right to file a complaint in court if you feel we have violated this policy. If so, we will cooperate with the authority to resolve the issue.
 
-If you are a California resident and would like to request a copy of this notice, please submit a written request by email to the address provided in the “how to contact us” section. In your request, please specify that you want a “California Privacy Rights Notice.”  Please allow at least thirty (30) days for a response.
+**_SECURITY_**
 
-Right of Erasure
+We take security seriously and care about the integrity of your personal information. We use commercially reasonable methods to transmit your data securely including HTTPS, TLS/SSL protocol, and public key encryption. Data is stored using Amazon’s S3 cloud service. However, we cannot guarantee that unauthorized third parties will never be able to defeat our security measures or use your personal information for improper purposes. In the event that any information under our control is compromised as a result of a security breach, we will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
 
-In addition, if you are a California resident under the age of 18 and are a registered user, you may request that we remove content or information that you posted on our Platform or stored on our servers by submitting a request by email to the address provided in the “how to contact us” section. In your request, you must clearly identify the content or information you wish to have removed and provide sufficient information to allow us to locate the content or information to be removed.  However, please note that we are not required to erase or otherwise eliminate content or information if: (a) other state or federal laws require us or a third party to maintain the content or information; (b) the content or information was posted, stored, or republished by another user; (c) the content or information is anonymized so that the minor cannot be individually identified; (d) the minor does not follow the instructions posted in this Privacy Notice on how to request removal of such content or information; and (e) the minor has received compensation or other consideration for providing the content.  Further, nothing in this provision shall be construed to limit the authority of a law enforcement agency to obtain such content or information.
+**_INTERNATIONAL DATA TRANSFERS_**
 
-How to Contact Us
+We are a global organization and provide services throughout the world. Sharing data cross-border is essential to our services so that you can receive the same high-quality services from us wherever you are. As a result, we will, in accordance with the law, transfer your personal data to other countries which may have different data protection standards than those in your country of residence.
+
+Our Site is hosted in the United States. If you are accessing the site from the EEA or other regions with laws governing data collection and use that differ from U.S. law, you should be aware that your data will be transferred outside the EEA. When we transfer personal data from the EEA and Switzerland to other countries, including to the United States, we rely on third-party service providers who use a variety of legal mechanisms to help ensure your data is appropriately protected such as Binding Corporate Rules, Privacy Shield certification, or Standard Contractual Clauses. Unless we have your explicit consent, we will not transfer your personal data from the EEA and Switzerland to other countries without appropriate safeguards (specifically, Binding Corporate Rules, Privacy Shield certification, or Standard Contractual Clauses) in place. ​
+
+**_POLICY CHANGES_**
+
+We will modify this Privacy Notice from time to time. We will notify you of material changes to this Privacy Notice by posting the amended terms in accordance with applicable laws. If you do not agree with the proposed changes, you should discontinue your use of the Platform before the new Privacy Notice takes effect. If you continue using our Platform after the new terms take effect, you will be bound by the modified Privacy Notice.
+
+**_HOW TO CONTACT US_**
 
 If you have any questions about this Privacy Notice, please contact us:
 
-By email at: [legal@hakkasangroup.com](mailto:legal@hakkasangroup.com)
+By email at:  [privacy@hakkasan.com](mailto:privacy@hakkasan.com).
 
 By postal mail at:  
 ​Hakkasan Holdings, LLC  
 Legal Department  
 ​​6385 S. Rainbow Blvd., Suite 800  
 Las Vegas, NV 89118
+
+Local Representative in the EEA:
+
+Company Name: Hakkasan Limited
+
+Email address: [privacy@hakkasan.com](mailto:privacy@hakkasan.com)
+
+Postal address: 3rd Floor, Elsley House, 24-30 Great Titchfield Street, London, W1W 8BF, United Kingdom
