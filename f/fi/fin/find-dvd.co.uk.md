@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the find-dvd.co.uk privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623064345id_/http%3A//www.find-dvd.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the find-dvd.co.uk privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022163636id_/http%3A//www.find-dvd.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # www.find-dvd.co.uk - Privacy Policy and Cookies
 
@@ -85,4 +85,4 @@ Current GDPR regulations stipulate that users have the right to be forgotten. If
 
 This privacy policy may change from time to time inline with legislation or industry developments. We will not explicitly inform our clients or website users of these changes. Instead, we recommend that you check this page occasionally for any policy changes. Specific policy changes and updates are mentioned in the change log below.
 
-For more information see our [Terms and Conditions](https://web.archive.org/web/20180623064345id_/http%3A//www.find-dvd.co.uk/termsconditions.htm)
+For more information see our [Terms and Conditions](https://web.archive.org/web/20181022163636id_/http%3A//www.find-dvd.co.uk/termsconditions.htm)
