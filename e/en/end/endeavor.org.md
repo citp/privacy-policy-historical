@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endeavor.org privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930184656id_/http%3A//endeavor.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endeavor.org privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023012629id_/https%3A//endeavor.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Endeavor
 
@@ -12,7 +12,7 @@ Through the Site, we may automatically gather certain information about the use 
 
 You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your browser (such as Internet Explorer or Mozilla Firefox) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookie settings. If you turn cookies off, you may not have access to many features that make your site experience more efficient and some of our services may not function properly.
 
-[For more information about cookies, please see www.allaboutcookies.org.](https://web.archive.org/web/20170930184656id_/http://endeavor.org/privacy-policy/www.allaboutcookies.org "All About Cookies")
+[For more information about cookies, please see www.allaboutcookies.org.](https://web.archive.org/web/20181023012629id_/https://endeavor.org/privacy-policy/www.allaboutcookies.org "All About Cookies")
 
 #### Protecting Personal Information
 
