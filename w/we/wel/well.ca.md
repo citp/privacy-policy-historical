@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the well.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223923id_/http%3A//well.ca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the well.ca privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022042829id_/https%3A//well.ca/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice | Well.ca - Canada's online health, beauty, and skin care store Free Shipping
 
