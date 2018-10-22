@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superoffice.com privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322190211id_/https%3A//www.superoffice.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superoffice.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022193947id_/https%3A//www.superoffice.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Statement at SuperOffice
 
@@ -10,7 +10,7 @@ In SuperOffice we are committed to protect and respect your privacy in complianc
 
 SuperOffice AS develops and delivers the Customer Relationship Management (CRM) software that supports our customers marketing, sales and customer service processes. Our company’s headquarters is located in Oslo, Norway, and our subsidiary companies are based in Norway, Sweden, Denmark, Germany, the Netherlands, the United Kingdom, Switzerland, and Lithuania. The headquarters’ registered office address is Wergelandsveien 27, 0167 Oslo, Norway.
 
-SuperOffice AS is the data controller and our Data Protection Officer can be contacted by email email: [privacy@superoffice.com](mailto:privacy@superoffice.com).
+SuperOffice AS is the data controller and our Data Protection Officer can be contacted by email: [privacy@superoffice.com](mailto:privacy@superoffice.com).
 
 ## When do we collect personal data about you?
 
@@ -28,17 +28,18 @@ We collect and use personal data mainly to perform direct sales, direct marketin
 We may use your information for the following purposes:
 
   * Send you marketing communications which you have requested. These may include information about our products and services, events, activities, and promotions of our associated partners’ products and services. This communication is subscription based and requires your consent.
+  * Customers will by default receive SuperOffice subscriptions, but can choose to opt-out at any time.
   * Send you information about the products and services that you have purchased from us.
   * Perform direct sales activities in cases where legitimate and mutual interest is established.
   * Provide you content and venue details on a webinar or event you signed up for.
-  * Reply to a ‘Contact me’ or other web forms you have completed on SuperOffice.com (e.g. to download a whitepaper).
+  * Reply to a ‘Contact me’ or other web forms you have completed on one of our SuperOffice websites (e.g. to download a whitepaper).
   * Follow up on incoming requests (customer support, emails, chats, or phone calls).
   * Provide you with access and services related to a Free Trial of SuperOffice CRM.
   * Provide access to our Customer Support portal or the SuperOffice Community website.
-  * Perform contractual obligations such as order confirmation, license details, invoice, reminders, and similar. The contract may be with SuperOffice directly or with a SuperOffice partner.
+  * Perform contractual obligations such as order confirmation, license details, invoice, reminders, and similar. The contract may be with SuperOffice directly or with a SuperOffice partner. If the contract is entered into with SuperOffice, the contract will be entered into digitally for more efficient contract and customer handling, including to meet with legal requirements.
   * Notify you about any disruptions to our services (system messages).
   * Contact you to conduct surveys about your opinion on our products and services.
-  * Process a job application.
+  * Recruitment and processing job applications.
 
 
 
@@ -47,7 +48,7 @@ We may use your information for the following purposes:
 ###   
 Collecting personal data based on consents
 
-The collection of personal data based on consent from the data subject will be done by using “Consent Forms” that will store documentation related to the consent given by the individual. Individual consents will always be stored and documented in our systems.
+The collection of personal data based on consent from the data subject will be done by using “Consent Forms” that will store documentation related to the consent given by the individual. Individual consents will always be stored and documented in our systems. We may send digital marketing to persons which have consented, such as marketing per email. 
 
 ### Collecting personal data based on contracts
 
@@ -55,11 +56,11 @@ We use personal information for fulfilling our obligations related to contracts 
 
 ### Collecting personal data based on legitimate interest
 
-We may use personal data if it is considered to be of legitimate interest, and if the privacy interests of the data subjects do not override this interest. Normally, to establish the legal basis for data collection, an assessment has been made during which a mutual interest between SuperOffice and the individual person has been identified. This legal basis is primarily related to our sales and marketing purposes. We will always inform individuals about their privacy rights and the purpose for collecting personal data.
+We may use personal data if it is considered to be of legitimate interest, and if the privacy interests of the data subjects do not override this interest. Normally, to establish the legal basis for data collection, an assessment has been made during which a mutual interest between SuperOffice and the individual person has been identified. This legal basis is primarily related to our sales and marketing purposes, and we may send information on products and services to our customers based on legitimate interest. We will always inform individuals about their privacy rights and the purpose for collecting personal data.
 
 ## What type of personal data is collected?
 
-We collect name, phone number, title and email address, in addition to your company’s name and contact information. We may also collect feedback, comments and questions received from you in service-related communication and activities, such as meetings, phone calls, documents, and emails. From our websites we may collect IP-address and actions taken on the site.
+We collect name, phone number, title and email address, in addition to your company’s name and contact information. If you are a representative for your company, we process your personal contact information with regard to the company. When entering into a contract with us, the signature may be made electronically comprising the processing of your personal data. We may also collect feedback, comments and questions received from you in service-related communication and activities, such as meetings, phone calls, documents, and emails. From our websites we may collect IP-address and actions taken on the site.
 
 If you upload photos or videos, add posts or comments, etc. on our Community website, the information can be read by anyone with access to the Community site and used for purposes over which SuperOffice or you have no control. Therefore, SuperOffice is not responsible for any information you submit to the Community website.
 
@@ -92,11 +93,13 @@ You have the following rights with respect to your personal data:
 
 Any query about your Privacy Rights should be sent to [privacy@superoffice.com](mailto:privacy@superoffice.com)
 
-## The use of cookies and beacons
+## The use of cookies
 
-We use cookies and web beacons (‘Website Navigational Information’) to collect information as you navigate the company’s websites. Website Navigational Information includes standard information from your web browser, such as browser type and browser language; your Internet Protocol (“IP”) address; and the actions you take on the company’s websites, such as the web pages viewed and the links clicked.
+We use cookies to collect information as you navigate the company’s websites. Website Navigational Information includes standard information from your web browser, such as browser type and browser language; your Internet Protocol (“IP”) address; and the actions you take on the company’s websites, such as the web pages viewed and the links clicked.
 
-This information is used to make websites work more efficiently, as well as to provide business and marketing information to the owners of the site, and to gather such personal data as browser type and operating system, referring page, path through site, domain of ISP, etc. for the purposes of understanding how visitors use a website. Cookies and similar technologies help us tailor our website to your personal needs, as well as to detect and prevent security threats and abuse. If used alone, cookies and web beacons do not personally identify you.
+This information is used to make websites work more efficiently, as well as to provide business and marketing information to the owners of the site, and to gather such personal data as browser type and operating system, referring page, path through site, domain of ISP, etc. for the purposes of understanding how visitors use a website. Cookies and similar technologies help us tailor our website to your personal needs, as well as to detect and prevent security threats and abuse. If used alone, cookies do not personally identify you.
+
+If you want to withdraw your acceptance of cookies on our websites, you can go to your web browser and deactivate it.  
 
 ## Do we share your data with anyone?
 
