@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affluence.org privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622042716id_/http%3A//www.affluence.org/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affluence.org privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022191929id_/http%3A//www.affluence.org/policy) for the most accurate reproduction.*
 
 # Affluence · Make Life Better
 
