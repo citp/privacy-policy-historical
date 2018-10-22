@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infinixauthority.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026083505id_/http%3A//www.infinixauthority.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinixauthority.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022051112id_/https%3A//www.infinixauthority.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Infinix Authority
 
