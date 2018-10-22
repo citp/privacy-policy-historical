@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pickles.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313184558id_/https%3A//www.pickles.com.au/about/Terms-And-Conditions/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickles.com.au privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022162004id_/https%3A//www.pickles.com.au/about/Terms-And-Conditions/Privacy-Policy) for the most accurate reproduction.*
 
-# Pickles - Terms and Conditions - Pickles Auctions Australia
-
-[](https://web.archive.org/learn-how-to-buy)
+# Privacy Policy - Pickles Australia
 
 **1\. Summarised extent of our commitment**
 
@@ -84,11 +82,14 @@ or otherwise throughout your interactions with any of Pickles Auctions’ physic
 
 **11\. It is our policy only to send emails to customers who give us permission to do so. In every such email, we will also have instructions on how you may unsubscribe from the e-mail list so that you will not receive any future e-mails if you do not wish to.**
 
-**12\. You consent to the following:**  
-(a) That in using our sites, Pickles Auctions may collect and use the information you provide to us;  
-(b) Pickles Auctions may provide your information to third parties where that information was provided by you to enable us to administer or facilitate the purchase of a good or service by you; and  
-(c) Pickles Auctions may change, alter or modify our privacy policy from time to time without prior notice to you.
+**12\. You consent to the following:**
 
+(a) That in using our sites, Pickles Auctions may collect and use the information you provide to us;  
+(b) Pickles Auctions will check the information provided with the relevant document issuer or official record holder for the purpose of confirming your identity; and   
+(c) Pickles Auctions may provide your information to third parties where that information was provided by you to enable us to administer or facilitate the purchase of a good or service by you; and  
+(d) Pickles Auctions may change, alter or modify our privacy policy from time to time without prior notice to you.
+
+  
 **13\. Disclosure to Credit Reporting Body**
 
 13.1. Although Pickles will not seek to disclose your personal credit information to a credit reporting body, we may be required to do so in certain circumstances as prescribed under the Act.
@@ -113,5 +114,5 @@ or otherwise throughout your interactions with any of Pickles Auctions’ physic
 
 If you require any further information on the Pickles Auctions’ Privacy Policy, or would like to read, correct or delete any of your personal information, or otherwise have a complaint concerning the privacy of your personal information held by us (including a breach of the ‘National Privacy Principles’ and (from 12 March 2014) the ‘Australian Privacy Principles’) please contact out Privacy Officer by email addressed to chris.avramis@pickles.com.au.
 
-This Privacy Policy is dated 7 February 2014.  
+This Privacy Policy is dated 28 June 2018.  
  
