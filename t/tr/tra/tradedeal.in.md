@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradedeal.in privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524031220id_/http%3A//tradedeal.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradedeal.in privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022060824id_/http%3A//tradedeal.in/privacy) for the most accurate reproduction.*
 
 # Tradedeal Privacy
 
