@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screendaily.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625094525id_/http%3A//www.mb-insight.com/mbi-privacy-and-cookies-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screendaily.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023003815id_/http%3A//www.mb-insight.com/mbi-privacy-and-cookies-policy.html) for the most accurate reproduction.*
 
 # MBI Privacy and Cookies Policy
 
@@ -12,7 +12,7 @@ Introduction
 
 4\. MBI may revise this Privacy Policy at any time by posting an update on its website(s). Please ensure that you check this website and any other MBI website(s) you use from time to time to review the then current Privacy Policy and to update your preferences. This Privacy and Cookies Policy was last updated in March 2018.
 
-Please read in conjunction with our [Terms and Conditions](https://web.archive.org/web/20180625094525id_/http%3A//www.mb-insight.com/mbi-website-tems-of-use.html)
+Please read in conjunction with our [Terms and Conditions](https://web.archive.org/web/20181023003815id_/http%3A//www.mb-insight.com/mbi-website-tems-of-use.html)
 
 Collection of Personal Information
 
