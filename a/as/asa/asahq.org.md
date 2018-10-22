@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asahq.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626104418id_/https%3A//www.asahq.org/about-asa/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asahq.org privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022032711id_/http%3A//asahq.org/about-asa/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - American Society of Anesthesiologists (ASA)
 
@@ -97,7 +97,11 @@ This information is collected with and without the use of cookies, which are pie
 
 #### Sharing of Personal Information:
 
-We may pass your information to our third-party service providers, agents subcontractors and other associated organizations for the purposes of completing tasks and providing services to you on your behalf (for example to process applications, to process donations and send you mailings). However, when we use third party service providers, we disclose only the personal information that is necessary to deliver the applicable service and we have a contract in place that requires them to keep your information secure and not to use it for their own direct marketing purposes. Please be reassured that we will not release your information to third parties unless you have requested us to do so, or we are required to do so by law (for example, by a court order or for the purposes of prevention of fraud or other crime). ASA rents email and primary mailing address information of ASA members, that have not opted out of of third-party CME communications, to non-profit organizations who wish to promote CME activities to our members. Members are provided the opportunity to opt out through the unsubscribe options included at the bottom of any email sent through this program. Members can also opt out of this program at any time by contacting Member Services at [info@asahq.org](mailto:info@asahq.org).
+We may pass your information to our third-party service providers, agents, subcontractors and other associated organizations for the purposes of completing tasks and providing services to you on your behalf (for example to process applications, to process donations and send you mailings). However, when we use third party service providers, we disclose only the personal information that is necessary to deliver the applicable service and we have a contract in place that requires them to keep your information secure and not to use it for their own direct marketing purposes. Please be reassured that we will not release your information to third parties unless you have requested us to do so, or we are required to do so by law (for example, by a court order or for the purposes of prevention of fraud or other crime). 
+
+ASA leases email and primary mailing address information of ASA members to non-profit organizations who wish to promote CME activities to our members. Members are provided the opportunity to opt out through the unsubscribe options included at the bottom of any email sent through this program. Members can also opt out of this program at any time by contacting Member Services at [info@asahq.org](mailto:info@asahq.org).
+
+ASA shares contact information of attendees of the ANESTHESIOLOGY® Annual Meeting with ASA Industry Supporters as well as with ASA Component societies. Members can opt out of this program during the registration process or at any time by contacting Member Services at [info@asahq.org](mailto:info@asahq.org).
 
 #### Security and Retention of Personal Information:
 
