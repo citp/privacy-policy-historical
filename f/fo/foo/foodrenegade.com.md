@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodrenegade.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203111856id_/http%3A//www.foodrenegade.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodrenegade.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023002021id_/https%3A//www.foodrenegade.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Food Renegade
 
@@ -69,7 +69,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.foodrenegade.com/about/disclosure/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://www.foodrenegade.com/about/disclosure/>
 
 **Your Consent**
 
@@ -83,7 +83,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.foodrenegade.com  
+https://www.foodrenegade.com  
 1312 E Third St  
 Georgetown, TX 78626  
 United States  
