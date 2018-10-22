@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ext.net privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616014809id_/http%3A//ext.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ext.net privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022123145id_/http%3A//ext.net/privacy) for the most accurate reproduction.*
 
 # Privacy » Ext.NET
 
