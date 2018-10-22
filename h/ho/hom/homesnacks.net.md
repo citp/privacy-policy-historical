@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesnacks.net privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005011150id_/https%3A//www.homesnacks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesnacks.net privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022090103id_/https%3A//www.homesnacks.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HomeSnacks
 
@@ -78,6 +78,6 @@ The Site may contain content or links to other websites that are not owned or co
 **Changes to this Privacy Policy.**  
 This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here https://www.homesnacks.net/privacy-policy/ and we will change the “Last Updated” date above. You should consult this Privacy Policy regularly for any changes.
 
-Questions: Please email us at legal@homeanacks.com
+Questions: Please email us at [[email protected]](https://www.homesnacks.net/cdn-cgi/l/email-protection)
 
 This Policy was last revised: April 19, 2015.
