@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncregister.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626113815id_/http%3A//www.ncregister.com/info/ncr-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncregister.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022035206id_/http%3A//www.ncregister.com/info/ncr-privacy-policy) for the most accurate reproduction.*
 
 # National Catholic Register Privacy Policy
 
@@ -104,6 +104,16 @@ Irondale, AL 35210-2164
 
 or e-mail us at [viewer@ewtn.com](mailto:viewer@ewtn.com)
 
+**Shared Marketing Models – Transactions and Postal Mail**
+
+We will sometimes share information gathered from our audience with select third party vendors who assist us with promoting and marketing our news content. This might include customer database modeling, or use of information to identify other individuals similar to our audience for external promotional mailings or other online marketing. This information may include your name, address, e-mail address and transaction history.
+
+  The National Catholic Register occasionally shares subscriber data including name, address and purchase method, amount, channel, and date with marketing partners.  We do not share email addresses or credit card information.  If you do not want your information shared, you can opt out of that at any time.  One request for opting out will ensure that your data is not shared with any marketing partner.
+
+  **To Opt Out of Shared Marketing Model Use**
+
+You may request, at any time, that we do not share your information with these third parties. Please contact RegisterMarketing@ewtn.com or call 800-356-9916 if you do not wish for your information to be shared in this manner.
+
 In an effort to provide the best service, EWTN News reserves the right to edit, modify, and improve this policy at any time.
 
-Rev. May 24, 2018
+Rev. October 8, 2018
