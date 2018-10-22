@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unigo.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609195823id_/https%3A//www.unigo.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unigo.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022232649id_/https%3A//www.unigo.com/aboutus/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Unigo
 
