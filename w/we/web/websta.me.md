@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websta.me privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620065341id_/https%3A//websta.me/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websta.me privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022181047id_/http%3A//www.websta.me/policy) for the most accurate reproduction.*
 
 # None
 
@@ -18,7 +18,7 @@ This Privacy Policy describes how A-FIS PTE. LTD., a Singapore corporation (“W
 
 ## 2\. Our policy towards children
 
-Our Site is not directed to children under 13. If you become aware that your child has provided Us with personal information without your consent, please contact Us at info@websta.me. We do not knowingly collect personal information from children under 13. If We become aware that a child under 13 has provided Us with personal information, We take steps to remove such information. 
+Our Site is not directed to children under 13. If you become aware that your child has provided Us with personal information without your consent, please contact Us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We do not knowingly collect personal information from children under 13. If We become aware that a child under 13 has provided Us with personal information, We take steps to remove such information. 
 
 ## 3\. Information Sharing and Disclosure
 
@@ -47,7 +47,7 @@ Our Site is not directed to children under 13. If you become aware that your chi
 
 ## 6\. Questions and Suggestions
 
-If you have any questions or concerns about this Privacy Policy or its implementation you may contact Us at info@websta.me.
+If you have any questions or concerns about this Privacy Policy or its implementation you may contact Us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ## 7\. Modifications to This Privacy Policy
 
