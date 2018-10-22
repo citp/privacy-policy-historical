@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the athome.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912112129id_/https%3A//www.athome.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the athome.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023001749id_/https%3A//www.athome.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | At Home
 
@@ -111,7 +111,7 @@ At Home Stores LLC
 1600 E Plano Pkwy  
 Plano, TX 75074
 
-Please allow sufficient time for your preferences to be processed. Even if you opt out of receiving marketing messages, we may still contact you for transactional purposes like confirming or following up on an order or service request, responding to customer service inquiries, asking you to review a product or service you have ordered, or notifying you of product recalls or rebates.  If you later opt back into getting marketing communications from us, we will remove your information from our opt-out databases.
+Please allow sufficient time for your preferences to be processed. Even if you opt out of receiving marketing messages, we may still contact you for transactional purposes like confirming or following up on an order or service request, responding to customer service inquiries, asking you to review a product or service you have ordered, or notifying you of product recalls or rebates.  If you later opt back into getting marketing communications from us, we will remove your information from our opt-out databases. Our emails are intended for customers residing in the United States.
 
 _Controlling Our Tracking Tools:   _You may be able to control the sharing of your device’s location information in the settings menu of your device.  Your browser may give you the ability to control cookies.  How you do so depends on the type of cookie. Certain browsers can be set to reject browser cookies, though flash cookies cannot be controlled through your browser settings.  Your mobile device may not give you the ability to control cookies.  If you wish to block cookies on our mobile applications, you will need to delete the application from your mobile device. If you configure your computer to block cookies, you will limit the functionality we can provide when you visit the Site.  If you configure to block or delete cookies, not all of the tracking that we have described in this policy will stop.
 
@@ -139,3 +139,7 @@ At Home Stores LLC
 Plano, TX 75074
 
 Effective Date:  August 28, 2017
+
+**First Party Cookie Opt-Out**
+
+If you would like to opt-out of At Home's First Party Cookies, please click on the following link: [**FPC Opt-Out**](http://dtmc.athome.com/adinfo/choice/prod/?type=fpc&cid=62665&cname=At%20Home&cmagic=1dc437&clogo=62665.png&loc=us&lang=en-us)
