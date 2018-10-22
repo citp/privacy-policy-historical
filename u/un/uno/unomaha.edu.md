@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unomaha.edu privacy policy that was archived on 2017-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170823014609id_/https%3A//www.unomaha.edu/campus-policies/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unomaha.edu privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022062323id_/https%3A//www.unomaha.edu/campus-policies/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Campus Policies | University of Nebraska Omaha
 
@@ -6,7 +6,7 @@ Back to Top
 
 ### Policy Statement
 
-This policy describes the privacy laws the University of Nebraska Omaha (UNO) follows, and the way that UNO collects and shares your personal information. For additional information regarding security procedures of regulated data, please refer to the [UNO Regulated Data Policy](https://web.archive.org/web/20170823014609id_/https%3A//www.unomaha.edu/campus-policies/regulated-data-security.php).
+This policy describes the privacy laws the University of Nebraska Omaha (UNO) follows, and the way that UNO collects and shares your personal information. For additional information regarding security procedures of regulated data, please refer to the [UNO Regulated Data Policy](https://web.archive.org/web/20181022062323id_/https%3A//www.unomaha.edu/campus-policies/regulated-data-security.php).
 
 **University, State, and Federal Privacy Laws  
 ** The following are privacy laws which UNO is required to follow for each category of data:
