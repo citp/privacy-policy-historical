@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 1parkplace.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617141246id_/http%3A//www.1parkplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1parkplace.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022183101id_/http%3A//www.1parkplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Our  pledge to you is simple-we will _**not**_ release any personally identifiable information such as your name, address, e-mail address, phone number, or any other sensitive information without your consent. Please read the following for more in depth information about our privacy policy:
 
-**NOTICE:[Click here](http://www.ftc.gov/) for important information from the Federal Trade Commission about safe surfing.**
+**NOTICE:[Click here](https://www.ftc.gov/) for important information from the Federal Trade Commission about safe surfing.**
 
 **1parkplace, Inc. _Privacy Principles_ :**
 
@@ -28,4 +28,4 @@ We may disclose personal information, if required, to do so by law or in the goo
 
 **Principle 5:**
 
-If at any time you believe that we have violated these policies, please notify us by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will use all commercially reasonable efforts to promptly investigate and remedy the problem.
+If at any time you believe that we have violated these policies, please notify us by e-mail at info@1parkplace.com and we will use all commercially reasonable efforts to promptly investigate and remedy the problem.
