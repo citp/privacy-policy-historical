@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2018-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180410221958id_/https%3A//acma.gov.au/theACMA/About/Corporate/Accountability/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023010142id_/https%3A//www.acma.gov.au/theACMA/About/Corporate/Accountability/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | ACMA
 
@@ -140,7 +140,7 @@ Some positions within the ACMA require a security clearance. The ACMA’s cleara
 
 All information provided by you for a security process is only used for assessing your suitability to hold the relevant security clearance.  
 
-More information on the ACMA’s online recruitment process is available [here](https://web.archive.org/theACMA/About/Careers/Life-at-the-ACMA/online-application-process-acma). Details of the ACMA’s security clearance processes are available [here](https://web.archive.org/theACMA/About/Careers/Life-at-the-ACMA/acma-security-clearance-faqs-acma). Information on the _Protective Security Policy Framework_ is available [here](http://www.protectivesecurity.gov.au/) and information on the _Personnel Security Protocol_ is available [here](http://www.protectivesecurity.gov.au/).
+More information on the ACMA’s online recruitment process is available [here](https://web.archive.org/theACMA/About/Careers/Working-for-the-ACMA/online-application-process-acma). Details of the ACMA’s security clearance processes are available [here](https://web.archive.org/theACMA/About/Careers/Working-for-the-ACMA/acma-security-clearance-faqs-acma). Information on the _Protective Security Policy Framework_ is available [here](http://www.protectivesecurity.gov.au/) and information on the _Personnel Security Protocol_ is available [here](http://www.protectivesecurity.gov.au/).
 
 ### Procurement
 
@@ -170,7 +170,7 @@ If you register for access to an online or subscription service we will collect 
 
 The ACMA’s ePort security statement is available [here](https://web.archive.org/Industry/Broadcast/Television/Licence-fees-and-charges/broadcasting-licence-fees-licence-fees-acma). 
 
-The ACMA also has an online payment system to assist people with making a payment to the ACMA, for example, payment of licence fees. The ACMA uses the secure online credit card processing facility ANZ eGate®, which is operated by the ANZ Bank. The ACMA does not collect or hold any of your credit card details. More information about ANZ eGate® is available [here](http://www.anz.com/corporate/products-services/transaction-services/electronic-banking/anz-egate/).  
+The ACMA also has an online payment system to assist people with making a payment to the ACMA, for example, payment of licence fees. The ACMA uses the secure online credit card processing facility ANZ eGate®, which is operated by the ANZ Bank. The ACMA does not collect or hold any of your credit card details.   
 
 You will receive information about the terms and conditions of gaining access to an online or subscription service before any personal information is collected.
 
