@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the keymailer.co privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027150628id_/https%3A//www.keymailer.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keymailer.co privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023063234id_/https%3A//www.keymailer.co/privacy) for the most accurate reproduction.*
 
 # Keymailer
 
 BACKGROUND:
 
-This Policy applies as between you, the User of this Website and Keymailer, the owner and provider of this Website.  This Policy applies to our use of any and all Data collected by us in relation to your use of the Website.
+Keymailer Ltd understands that your privacy is important to you and that you care about how your personal data is used and shared online. We respect and value the privacy of everyone who visits this website, keymailer.co (“Our Site”) and will only collect and use personal data in ways that are described here, and in a manner that is consistent with Our obligations and your rights under the law.
 
-  1. Definitions and Interpretation 
+Please read this Privacy Policy carefully and ensure that you understand it. Your acceptance of Our Privacy Policy is deemed to occur upon your first use of Our Site. If you do not accept and agree with this Privacy Policy, you must stop using Our Site immediately.
 
+1.        Definitions and Interpretation 
 
+In this Policy, the following terms shall have the following meanings:  
 
-In this Policy the following terms shall have the following meanings:  
-
-“Data”
+“Account”
 
 | 
 
-means collectively all information that you submit to Keymailer via the Website.  This definition shall, where applicable, incorporate the definitions provided in the Data Protection Act 1998;  
+means an account required to access and/or use certain areas and features of Our Site;  
   
 ---|---  
   
@@ -24,218 +24,182 @@ means collectively all information that you submit to Keymailer via the Website
 
 | 
 
-means a small text file placed on your computer by this Website when you visit certain parts of the Website and/or when you use certain features of the Website.  Details of the cookies used by this Website are set out in Clause 12;  
+means a small text file placed on your computer or device by Our Site when you visit certain parts of Our Site and/or when you use certain features of Our Site. Details of the Cookies used by Our Site are set out in section 13, below;  
   
-“Keymailer”
+2.        Information About Us
 
-| 
+2.1        Our Site is owned and operated by Keymailer Ltd , a limited company registered in England under company number 09569579, whose registered address is 10 Broad Street, Bath, BA1 5LJ, United Kingdom.
 
-means Keymailer Ltd. of The Guild, High Street, Bath, BA1 5EB, United Kingdom;  
-  
-“UK and EU Cookie Law”
+2.2        Our VAT number is GB212198823.
 
-| 
+2.3        Our Data Protection Officer is James Beaven, and can be contacted by email at compliance@keymailer.co, or by post at 10 Broad Street, Bath, BA1 5LJ, United Kingdom
 
-means the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended by the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011;  
-  
-“User”
+3.        Scope
 
-| 
+3.1 What Does This Policy Cover? This Privacy Policy applies only to your use of Our Site. Our Site may contain links to other websites. Please note that We have no control over how your data is collected, stored, or used by other websites and We advise you to check the privacy policies of any such websites before providing any data to them.
 
-means any third party that accesses the Website and is not employed by Keymailer and acting in the course of their employment; and  
-  
-“Website”
+3.2 What is Personal Data? Personal data is defined by the General Data Protection Regulation (EU Regulation 2016/679) (the “GDPR”) as ‘any information relating to an identifiable person who can be directly or indirectly identified in particular by reference to an identifier’.
 
-| 
+Personal data is, in simpler terms, any information about you that enables you to be identified. Personal data covers obvious information such as your name and contact details, but it also covers less obvious information such as identification numbers, electronic location data, and other online identifiers.
 
-means the website that you are currently using (keymailer.co) and any sub-domains of this site (e.g. sub-domain www.keymailer.co) unless expressly excluded by their own terms and conditions.  
-  
-  2. Scope of this Policy
+4.        Your Rights
 
+4.1        As a data subject, you have the following rights under the GDPR, which this Policy and Our use of personal data have been designed to uphold:
 
+4.1.1        The right to be informed about Our collection and use of personal data;
 
-This Policy applies only to the actions of Keymailer and Users with respect to this Website.  It does not extend to any websites that can be accessed from this Website including, but not limited to, any links we may provide to social media websites.
+4.1.2        The right of access to the personal data We hold about you (see section 12);
 
-  3. Data Collected
+4.1.3        The right to rectification if any personal data We hold about you is inaccurate or incomplete (please use the controls in the Settings of the Website, or contact Us using the details in section 14);
 
+4.1.4        The right to be forgotten – i.e. the right to ask Us to delete any personal data We hold about you (If you would like Us to delete your data, please use the Delete Account controls in Edit Settings section of the Website);
 
+4.1.5        The right to restrict (i.e. prevent) the processing of your personal data;
 
-Without limitation, any of the following Data may be collected by this Website from time to time:
+4.1.6        The right to data portability (obtaining a copy of your personal data to re-use with another service or organisation);
 
-  1. name;
-  2. date of birth;
-  3. gender;
-  4. job title;
-  5. profession;
-  6. contact information such as email addresses and telephone numbers;
-  7. demographic information such as post code, preferences and interests;
-  8. IP address (automatically collected);
-  9. web browser type and version (automatically collected);
-  10. operating system (automatically collected);
-  11. a list of URLs starting with a referring site, your activity on this Website, and the site you exit to (automatically collected); and
-  12. third party online accounts linked and authorised by the User to the Website
+4.1.7        The right to object to Us using your personal data for particular purposes; and
 
+4.1.8        Rights with respect to automated decision making and profiling.
 
-  4. Our Use of Data
+4.2        If you have any cause for complaint about Our use of your personal data, please contact Us using the details provided in section 14 and We will do Our best to solve the problem for you. 
 
+5.        What Data Do We Collect?
 
-  1. Any personal Data you submit will be retained by Keymailer for twelve months.
-  2. Unless we are obliged or permitted by law to do so, or unless you have otherwise agreed, and subject to Clause 5, your Data will not be disclosed to third parties.  This does not include our affiliates and / or other companies within our group.
-  3. All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998.  Fore more details on security see Clause 11 below.
-  4. Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Website.  Specifically, Data may be used by us for the following reasons:
+Depending upon your use of Our Site, We may collect some or all of the following personal and non-personal data (please also see section 13 on Our use of Cookies and similar technologies and Our Cookie Policy[ ](https://www.google.com/url?q=https://www.keymailer.co/cookies&sa=D&ust=1527182529255000)[https://www.keymailer.co/cookies](https://www.google.com/url?q=https://www.keymailer.co/cookies&sa=D&ust=1527182529255000)):
 
+5.1        name, date of birth, business/company name, contact information such as email addresses and telephone numbers, post code, and other information in your Account Settings page; 
 
-  1. internal record keeping;
-  2. improvement of our products / services;
-  3. transmission by email of promotional materials that may be of interest to you;
-  4. contact for market research purposes which may be done using email, telephone, fax or mail.  Such information may be used to customise or update the Website.
+5.2        preferences, and interests, and other information in your Profile Settings page;
 
+5.3        financial information such as PayPal address, preferred currency, quoted work rate, and other information in your Sponsorship Settings page;
 
-  5. We may deriver, transform, aggregate, or anonymise any or all Data at any time. Such transformed data is no longer considered your Data and becomes the property of Keymailer Ltd.   
+5.4        broadcasting, streaming and blogging information such as delegated authorisation (typically by linking Your account with oAuth) and the information retrieved from those services You grant Us access to in your Video Channel Settings page;
 
+5.5        social network information such as delegated authorisation (typically by linking Your account with oAuth) and the information retrieved from those services You grant Us access to in your Social Networks Settings page;
 
+5.6        gaming information such as delegated authorisation (typically by linking Your account with oAuth) and the information retrieved from those services You grant Us access to in your Gaming Platforms Settings and Mobile Gaming Settings pages;
 
-  5. Third Party Websites and Services
+5.7        site analytics information such as delegated logins and the information retrieved from those services You grant Us access to in your Blogging Settings page;
 
+5.8        IP address;
 
-  1. Keymailer may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment processing, delivery of purchased items, search engine facilities, advertising and marketing.  The providers of such services do not have access to certain personal Data provided by Users of this Website.
-  2. Any Data used by such parties is used only to the extent required by them to perform the services that Keymailer requests.  Any use for other purposes is strictly prohibited.  Furthermore, any Data that is processed by third parties shall be processed within the terms of this Policy and in accordance with the Data Protection Act 1998.
+5.9        web browser type and version;
 
+5.10        operating system;
 
-  6. Links to Other Websites
+5.11        a list of URLs starting with a referring site, your activity on Our Site, and the site you exit to;
 
+5.12        third party online accounts linked and authorised by the User to the Website
 
+6.        How Do We Use Your Data?
 
-This Website may, from time to time, provide links to other websites.  Keymailer has no control over such websites and is in no way responsible for the content thereof.  This Policy does not extend to your use of such websites.  Users are advised to read the privacy policy or statement of other websites prior to using them.  
+6.1        All personal data is processed and stored securely, for no longer than is necessary in light of the reasons for which it was first collected. We will comply with Our obligations and safeguard your rights under GDPR at all times. For more details on security see section 7, below.
 
+6.2        Our use of your personal data will always have a lawful basis, either because it is necessary for Our performance of a contract with you, because you have consented to Our use of your personal data (e.g. by subscribing to emails), or because it is in Our legitimate interests. Specifically, We may use your data for the following purposes:
 
-  7. Changes of Business Ownership and Control
+6.2.1        Providing and managing your Account;
 
+6.2.2        Providing and managing your access to Our Site;
 
-  1. Keymailer may, from time to time, expand or reduce our business and this may involve the sale and/or the transfer of control of all or part of Keymailer.  Data provided by Users will, where it is relevant to any part of our business so transferred, be transferred along with that part and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was originally supplied to us.
-  2. In the event that any Data submitted by Users is to be transferred in such a manner, you will not be contacted in advance and informed of the changes.  
+6.2.3        Personalising and tailoring your experience on Our Site;
 
+6.2.4        Supplying Our services to you (please note that We require your personal data in order to enter into a contract with you);
 
-  8. Controlling Use of Your Data
+6.2.5        Personalising and tailoring Our services for you;
 
+6.2.6        Relaying your requests to Our clients, the “Brands”, typically game publishers, developers, and agencies;
 
-  1. Wherever you are required to submit Data, you will be given options to restrict our use of that Data.  This may include the following:
+6.2.7        Creating analytics, rankings, scores, etc, by deriving, transforming, aggregating and/or anonymising your Data (Such irreversibly  transformed data is not Your Data and is the property of Keymailer Ltd) in order to:
 
+a)        represent your interests to Our clients (and prospective clients), but without relaying Your private data to them, in order to provide Our services to You;
 
-  1. use of Data for direct marketing purposes; and
-  2. sharing Data with third parties.  
+b)        protect Our clients (and prospective clients) interests, but without relaying Your private data to them, in order to provide Our services to You;
 
+c)        provide You with insight into how those analytics, rankings, scores, etc, relate to You, so you may improve your performance in those rankings;
 
+d)        share those analytics, rankings, scores, etc, with mass media outlets, researchers, and special interest groups, in order to further the understanding of the dynamics of the market and the community;  
 
-  9. Your Right to Withhold Information
+6.2.8        Replying to emails from you;
 
+6.2.9        Supplying you with emails and other communications that you have agreed to receive when you accepted the Website Terms and Conditions (and which form the fundamental processes of the Website, and which you may only unsubscribe or opt-out form by deleting your Account in your  Account settings page);
 
-  1. You may access certain areas of the Website without providing any Data at all.  However, to use all features and functions available on the Website you may be required to submit certain Data.
-  2. You may restrict your internet browser’s use of Cookies.  For more information see Clause 12.
+6.2.10        Market research;
 
+6.2.11        Analysing your use of Our Site and gathering feedback to enable Us to continually improve Our Site and your user experience;
 
-  10. Accessing your own Data
+6.3        With your permission and/or where permitted by law, We may also use your data for marketing purposes which may include contacting you by email and other means with information, news and offers on Our services, to the extent these are not already covered by Our Terms and Conditions of Service, which includes our contacting you with offers from our Clients, and which forms the fundamental purpose of the Website. We will take all reasonable steps to ensure that We fully protect your rights and comply with Our obligations under GDPR and the Privacy and Electronic Communications (EC Directive) Regulations 2003.
 
+6.4        Third parties (including Google, etc) whose content appears on Our Site or who provide services to the Site may use third party Cookies, as detailed below in section 13. Please refer to section 13 for more information on controlling Cookies. Please note that We do not control the activities of such third parties, nor the data they collect and use and advise you to check the privacy policies of any such third parties.
 
+6.5        You have the right to withdraw your consent to Us using your personal data at any time, and to request that We delete it.
 
-You have the right to ask for a copy of any of your personal Data held by Keymailer (where such data is held) on payment of a small fee which will not exceed £25.
+6.6        We do not keep your personal data for any longer than is necessary in light of the reason(s) for which it was first collected. Data will therefore be retained for the following periods (or its retention will be determined on the following basis):
 
-  11. Security
+6.6.1        all Your data will be retained as long as you have an Account on the Site;
 
+7.        How and Where Do We Store Your Data?
 
-  1. Data security is of great importance to Keymailer and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected via this Website.
+7.1        We only keep your personal data for as long as We need to in order to use it as described above in section 6, and/or for as long as We have your permission to keep it.
 
+7.2        Some or all of your data may be stored outside of the European Economic Area (“the EEA”) (The EEA consists of all EU member states, plus Norway, Iceland, and Liechtenstein). You are deemed to accept and agree to this by using Our Site and submitting information to Us. If We do store data outside the EEA, We will take all reasonable steps to ensure that your data is treated as safely and securely as it would be within the UK and under the GDPR.
 
-  12. Cookies
+7.3        Data security is of great importance to Us and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected via this Website compliant and in-keeping with current GDPR guidelines. Steps We take to secure and protect your data include: 
 
+7.3.1        Data Security Plans
 
-  1. This Website may place and access certain first party Cookies on your computer.  First party cookies are those placed directly by Keymailer via this Website and are used only by Keymailer.  Keymailer uses Cookies to improve your experience of using the Website and to improve our range of products and services.  Keymailer has carefully chosen these Cookies and has taken steps to ensure that your privacy is protected and respected at all times.
-  2. By using this Website you may receive certain third party Cookies on your computer.  Third party cookies are those placed by websites and/or parties other than Keymailer.  Third party cookies are used on this Website for performance and usage analytics and are detailed in full below.  These cookies are not integral to the services provided by the Website.
-  3. All Cookies used by this Website are used in accordance with current UK and EU Cookie Law.
-  4. Before Cookies are placed on your computer, subject to sub-Clause 12.5 and sub-Clause 12.8, you will be presented with a message bar requesting your consent to set those Cookies.  By giving your consent to the placing of Cookies you are enabling Keymailer to provide the best possible experience and service to you.  You may, if you wish, deny consent to the placing of Cookies; however certain features of the Website may not function fully or as intended.
-  5. Certain features of the Website depend upon Cookies to function.  UK and EU Cookie Law deems these Cookies to be “strictly necessary”.  These Cookies are shown below.  Your consent will not be sought to place these Cookies.  You may still block these cookies by changing your internet browser’s settings as detailed below.
-  6. The following first party Cookies may be placed on your computer:
+7.3.2        Data Breach Plans
 
+7.3.3        Data Backup Plans 
 
+7.3.4        Data Deletion and Anonymisations Plans
 
-Name of Cookie
+7.3.5        Data Audit Schedules
 
-| 
+7.3.6        Director Responsible for Data Security
 
-Purpose
+8.        Do We Share Your Data?
 
-| 
+8.1        We may share your data with other companies in Our group . This includes Our holding company and its subsidiaries, if any.
 
-Strictly Necessary  
-  
----|---|---  
-  
-None
+8.2        We regularly contract with third parties to supply products and services to you on Our and Your behalf. These normally include provision of games, sponsorship, accessories, ‘Real Stuff’, event access, and may also include payment processing, delivery of goods, search engine facilities, advertising, and marketing. In all cases, the third parties may require access to some of your data. Where any of your data is required for such a purpose, We will take all reasonable steps to ensure that your data will be handled safely, securely, and in accordance with your rights, Our obligations, and the obligations of the third party under the law. In no cases will any third party gain direct access to your private broadcasting data, as set out in the Terms and Conditions.
 
-| |   
-  
-and the following third party Cookies may be placed on your computer:
+8.3        We may compile statistics about the use of Our Site including data on traffic, usage patterns, user numbers, sales, and other information. Most data will be anonymised and will not include any personally identifying data, or any anonymised data that can be combined with other data and used to identify you. We may from time to time share such data with third parties such as prospective investors, affiliates, partners, and advertisers. Data will only be shared and used within the bounds of the law.
 
-Name of Cookie
+8.4        We may sometimes use third party data processors that are located outside of the European Economic Area (“the EEA”) (The EEA consists of all EU member states, plus Norway, Iceland, and Liechtenstein). Where We transfer any personal data outside the EEA, We will take all reasonable steps to ensure that your data is treated as safely and securely as it would be within the UK and under theGDPR
 
-| 
+8.5        In certain circumstances, We may be legally required to share certain data held by Us, which may include your personal data, for example, where We are involved in legal proceedings, where We are complying with legal requirements, a court order, or a governmental authority.
 
-Provider
+9.        What Happens If Our Business Changes Hands?
 
-| 
+9.1        We may, from time to time, expand or reduce Our business and this may involve the sale and/or the transfer of control of all or part of Our business. Any personal data that you have provided will, where it is relevant to any part of Our business that is being transferred, be transferred along with that part and the new owner or newly controlling party will, under the terms of this Privacy Policy, be permitted to use that data only for the same purposes for which it was originally collected by Us.
 
-Purpose  
-  
----|---|---  
-  
-None
+9.2        In the event that any of your data is to be transferred in such a manner, you will not be contacted in advance and informed of the changes.
 
-| |   
-  
-but Keymailer reserves the right to add in any such cookies if the privacy policy is updated in response. 
+10.        Your Right to Withhold Information
 
-  7. This Website uses analytics services provided by Google Analytics.  Website analytics refers to a set of tools used to collect and analyse usage statistics, enabling us to better understand how Users use the Website.  This, in turn, enables us to improve the Website and the products and services offered through it.  You do not have to allow us to use these Cookies, as detailed below, however whilst our use of them does not pose any risk to your privacy or your safe use of the Website, it does enable us to continually improve our business.
-  8. The analytics services used by this Website use Cookies to gather the required information. The analytics services used by this Website use the following Cookies:
+10.1        To use Our Site you are required to submit or allow for the collection of certain data.
 
+10.2        You may restrict Our use of Cookies. For more information, see section 13 and Our Cookie Policy[ ](https://www.google.com/url?q=https://www.keymailer.co/cookies&sa=D&ust=1527182529263000)[https://www.keymailer.co/cookies](https://www.google.com/url?q=https://www.keymailer.co/cookies&sa=D&ust=1527182529264000).
 
+11.        How Can You Access Your Data?
 
-Name of Cookie
+If you want to know what personal data we have about you, you can ask for details of that personal data and for a copy of it (where any such personal data is held). This is known as a “subject access request”.
 
-| 
+All subject access requests should be made in writing and sent to the postal addresses shown in Part 13. 
 
-First / Third Party
+There is not normally any charge for a subject access request. If your request is ‘manifestly unfounded or excessive’ (for example, if you make repetitive requests) a fee may be charged to cover administrative costs in responding.
 
-| 
+We will respond to your subject access request within under one month of receiving it. Normally, we aim to provide a complete response, including a copy of your personal data within that time. In some cases, however, particularly if your request is more complex, more time may be required up to a maximum of three months from the date we receive your request. You will be kept fully informed of our progress.
 
-Provider
+12.        Our Use of Cookies
 
-| 
+Our Site may place and access certain first party Cookies on your computer or device. First party Cookies are those placed directly by Us and are used only by Us. We use Cookies to facilitate and improve your experience of Our Site and to provide and improve Our products and services. By using Our Site you may also receive certain third party Cookies on your computer or device. Third party Cookies are those placed by websites, services, and/or parties other than Us. Third party Cookies are used on Our Site for advertising services. In addition, Our Site uses analytics services provided by Google Analytics, which also use Cookies. Website analytics refers to a set of tools used to collect and analyse usage statistics, enabling Us to better understand how people use Our Site. For more details, please refer to Our Cookie Policy[ ](https://www.google.com/url?q=https://www.keymailer.co/cookies&sa=D&ust=1527182529265000)[https://www.keymailer.co/cookies](https://www.google.com/url?q=https://www.keymailer.co/cookies&sa=D&ust=1527182529266000).
 
-Purpose  
-  
----|---|---|---  
-  
-ga.js
+13.        Contacting Us
 
-| 
+If you have any questions about Our Site or this Privacy Policy, please contact Us by email at Compliance@keymailer.co, or by post at 10 Broad Street, Bath, BA1 5LJ, United Kingdom. Please ensure that your query is clear, particularly if it is a request for information about the data We hold about you (as under section 12, above).
 
-Third Party
+14.        Changes to Our Privacy Policy
 
-| 
-
-Google
-
-| 
-
-Performance and usage analytics  
-  
-  9. You can choose to enable or disable Cookies in your internet browser.  Most internet browsers also enable you to choose whether you wish to disable all cookies or only third party cookies.  By default, most internet browsers accept Cookies but this can be changed.  For further details, please consult the help menu in your internet browser.
-  10. You can choose to delete Cookies at any time however you may lose any information that enables you to access the Website more quickly and efficiently including, but not limited to, personalisation settings.
-  11. It is recommended that you ensure that your internet browser is up-to-date and that you consult the help and guidance provided by the developer of your internet browser if you are unsure about adjusting your privacy settings.
-
-
-  13. Changes to this Policy
-
-
-
-Keymailer reserves the right to change this Policy as we may deem necessary from time to time or as may be required by law.  Any changes will be immediately posted on the Website and you are deemed to have accepted the terms of the Policy on your first use of the Website following the alterations.
+We may change this Privacy Policy from time to time (for example, if the law changes). Any changes will be immediately posted on Our Site and you will be deemed to have accepted the terms of the Privacy Policy on your first use of Our Site following the alterations. We recommend that you check this page regularly to keep up-to-date.
