@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfhsnetwork.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525015653id_/http%3A//nfhsnetwork.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfhsnetwork.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023050149id_/https%3A//www.nfhsnetwork.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Live high school sports video on the NFHS Network | NFHSNetwork.com
 
@@ -101,6 +101,12 @@ The Help portion of the toolbar on most browsers will tell you how to prevent yo
 
 ​This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, such as registering to become a member. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to our website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.  You can set your preferences for how Google advertises to you using the [Google Ad Preferences page](https://www.google.com/settings/u/0/ads/authenticated), and if you want to you can [opt out of interest-based advertising entirely by cookie settings](https://www.google.com/settings/u/0/ads/authenticated) or opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/).
 
+## Third Party Advertisers
+
+We permit CBS Interactive Inc. and its affiliates, partners, and advertisers (“third-party advertisers”) to place tags, scripts, and beacons (“third-party tags”) on our site as part of the advertisements displayed on our sites. These third-party tags may set cookies on your device and may also gather information about your device and the pages you visit on our site and on other sites that display third-party tags. Our third-party advertisers use the information gathered through third-party tags in accordance with their respective privacy policies. CBS Interactive Inc.’s privacy policy is available at<https://www.cbsinteractive.com/legal/cbsi/privacy-policy>. By visiting our sites, you consent to the automatic collection and use of information by our third party advertisers in accordance with this policy and with the third party advertisers’ privacy policies as posted from time to time.
+
+If streaming videos displayed on our sites include third-party tags, the third parties that have provided the third-party tags may also receive information about videos you watch on our sites, and you consent to the sharing of this information.
+
 ## Security of Information
 
 The NFHS Network takes information security very seriously and uses reasonable administrative, technical, physical and managerial measures to protect your personal information from unauthorized access. Unfortunately, no security system can be guaranteed to be 100% secure. Accordingly, we cannot guarantee the security of your information and cannot assume liability for improper access to it. By using our service, including our website and user interfaces, or providing information to us through any means, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the NFHS Network service. You are responsible for maintaining the confidentiality of your account access information and for restricting access to your computer or device through which you access your NFHS Network account. If you disclose your password to anyone or share your account and/or devices with other people, you take full responsibility for their actions. Where possible, users of public or shared devices should log out at the completion of each visit. If you sell or return a computer or device, you should log-out and deactivate the device before doing so. If you fail to log out and deactivate your device, subsequent users may be able to access your account information.
@@ -114,4 +120,4 @@ If you have questions concerning your account or this Privacy Policy, including 
 Atlanta, Georgia 30341  
 Attn: Legal Department
 
-Updated: July 28, 2015
+Updated: September 18, 2018
