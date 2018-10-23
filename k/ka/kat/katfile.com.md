@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the katfile.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624203429id_/http%3A//katfile.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katfile.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023113923id_/http%3A//katfile.com/privacy_policy.html) for the most accurate reproduction.*
 
-# KatFile - ファイルを共有する簡単な方法
+# KatFile - Free Cloud Storage
 
 Privacy Policy for KatFile.com 
 
@@ -22,6 +22,6 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 Deleting cookies does not mean you are permanently opted out of any advertising program.  Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 **Copyright**  
-If you are a copyright owner, or are authorized to act on behalf of an owner of the copyright or of any exclusive right under the copyright, and believe that your work has been copied in a way that constitutes copyright infringement, please report your notice of infringement to KatFile.com by providing all the necessary information to  **[dmca@katfile.com](https://web.archive.org/web/20180624203429id_/http%3A//katfile.com/dmca@katfile.com)**
+If you are a copyright owner, or are authorized to act on behalf of an owner of the copyright or of any exclusive right under the copyright, and believe that your work has been copied in a way that constitutes copyright infringement, please report your notice of infringement to KatFile.com by providing all the necessary information to  **[dmca@katfile.com](https://web.archive.org/web/20181023113923id_/http%3A//katfile.com/dmca@katfile.com)**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at  **[dmca@katfile.com](https://web.archive.org/web/20180624203429id_/http%3A//katfile.com/dmca@katfile.com)**
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at  **[dmca@katfile.com](https://web.archive.org/web/20181023113923id_/http%3A//katfile.com/dmca@katfile.com)**
