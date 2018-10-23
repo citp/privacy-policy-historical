@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jadootv.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504053002id_/http%3A//jadootv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jadootv.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023113620id_/https%3A//jadootv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JadooTV
 
@@ -7,8 +7,6 @@ In various places on the Sites and through the JadooTV products, we collect “P
 We also collect “Anonymous Information” such as your IP address, the type of browser you use, the pages on our Sites that you visit, the search terms that you enter or the advertisements that you click. Anonymous information can and will NOT be associated with Personally Identifiable Information.
 
 Like many Internet sites, we also use “cookies” to collect information. A cookie is a small data file that we transfer to your computer and is stored on your hard drive. When you visit our Sites the cookie identifies your computer to us so that you do not have to re-register each time you visit. We also use cookies to measure the traffic to and usage of our site and its different services and features, and other miscellaneous uses.
-
-We also collect the personal information of third parties that is provided by visitors who submit that personal data through our Sites, in connection with, for example, referrals or gift purchases.
 
 JadooTV products upload usage information to JadooTV as part of their normal functioning. The collected information includes the specific identifiers of streams played, duration played, various quality measures, error logs, software version numbers, and other usage statistics. Usage information uploaded from JadooTV products is personally identifiable by product serial number. In some cases, serial numbers are associated with personally identifiable information for customer service and support.
 
