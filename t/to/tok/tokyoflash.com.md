@@ -1,42 +1,91 @@
-> *The following text is extracted and transformed from the tokyoflash.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216134257id_/https%3A//www.tokyoflash.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyoflash.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023084836id_/https%3A//www.tokyoflash.com/en/privacy) for the most accurate reproduction.*
 
-# Tokyoflash Japan : Privacy & Security
+# Tokyoflash Japan Privacy Policy
 
-## Privacy & Security
+## Privacy Policy
 
-At Tokyoflash Japan we are committed to providing an honest privacy policy and the highest level of security.  
+Tokyoflash Japan Privacy Policy
+
+  
+Effective date: May 24, 2018
+
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from www.tokyoflash.com (the “Site”).
+
+SECURITY
+
+Our dedicated server uses High-Grade 256 bit SSL Encryption to protect your information. The highest level possible. To view our security certificate please click on the Padlock icon in your browser.
+
+Once you enter the Checkout page to make payment, enter the Registration page to create an account or view this Security policy page your connection to our website will become encrypted. You can verify this by checking that the URL in your browser starts with HTTPS and that you can see the Padlock icon in the corner of your browsers window.  
 
 
-### Security
+PERSONAL INFORMATION WE COLLECT
 
-Our dedicated server uses High-Grade 256 bit SSL Encryption to protect your information. The highest level possible. To view our security certificate please click on the Padlock Icon in your browser.
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”  
 
-Once you enter the Checkout page to make payment, enter the Registration page to create an account or view this Security policy page your connection to our website will become encrypted. You can verify this by checking that the URL in your browser starts with HTTPS and that you can see the Padlock icon in the corner of your browsers window.
 
-### Privacy
+We collect Device Information using the following technologies:
 
-#### Cookies
+    \- “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
 
-Cookies are files which store information about your visit to a website. Our website uses two types of cookie. 
+    \- “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
 
-Non-persistent cookies are provide a better browsing experience & do not store any personal information. We use them only to remember your language, currency preference and login details. Once you leave our website, these non-persistent cookies are deleted.
+    \- “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
-Persistent cookies are also used on our website if you choose to create an account with us AND wish your browser to remember your login details. In this case, your browser will save an encrypted cookie on your computer which is used to automatically log you in to our website when you visit. This type of cookie is optional & you are asked if you would like to use it when logging in.
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers, email address, and phone number. Optional information you can provide includes your fax number and company name. We refer to this information as “Order Information.”  
 
-Should you wish to delete any cookies from your computer then you can find this option in your browsers preferences. Our cookies are identified by the name www.tokyoflash.com
 
-#### Your personal information
+Payment information collected is stored and protected by our payment processor 2Checkout (www.2checkout.com).  
 
-We collect personal information from you when you place an order or register with us. This information is used only to speed up your shopping experience & provide warranty on your purchase.
 
-When you sign up for our email newsletter we keep your email address and name so we can inform you about special offers, competitions and new products. We will ABSOLUTELY NEVER give out your email address or name to anyone else, unless required by law.
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.  
 
-We hate SPAM as much as anyone else, so we try to keep our emails to a minimum. You can expect to receive 1 email per month from us. (Holiday season Nov/Dec we may send up to 3 a month)
 
-If at anytime, you wish to UNSUBSCRIBE from our email list, you will find an 'unsubscribe' link at the foot of our email newsletter.
+HOW DO WE USE YOUR PERSONAL INFORMATION?
 
-When you place a order with us we collect your personal information such as name, address and credit card details so we can charge your account & deliver your purchase. Your Credit Card information is stored in an encrypted form & we do not keep the whole number, only part of it to help with fraud prevention. Not even our staff can access your credit card information. 
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:
 
-We keep a record of your purchase to provide warranty support. If you have a warranty issue, we know exactly when & what you purchased so we can provide a fast and efficient replacement, repair or refund. Our customers satisfaction is top priority.
+Communicate with you;  
 
-If you have any questions or comments about your security or privacy, please contact watches@tokyoflash.com
+
+Screen our orders for potential risk or fraud; and  
+
+
+When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.  
+
+
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).  
+
+
+SHARING YOUR PERSONAL INFORMATION
+
+We share your Personal Information with third parties to help us use your Personal Information, as described above. We use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
+
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
+
+DO NOT TRACK
+
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
+
+YOUR RIGHTS
+
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+DATA RETENTION
+
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+
+MINORS
+
+The Site is not intended for individuals under the age of 16.
+
+CHANGES
+
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+CONTACT US
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at watches@tokyoflash.com or by mail using the details provided below:
+
+201 Isola Hatanodai A, 6-16-23 Hatanodai, Shinagawa, Tokyo, 142-0064, Japan.
