@@ -1,38 +1,63 @@
-> *The following text is extracted and transformed from the rockandice.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620104538id_/http%3A//www.rockandice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockandice.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023080759id_/https%3A//rockandice.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Rock and Ice
 
-This privacy policy sets out how Rock and Ice and Big Stone Publishing uses and protects any information that you give Rock and Ice and/or Big Stone Publishing when you use this website. Rock and Ice and Big Stone Publishing are committed to ensuring that your privacy is protected to the best of our ability. Should we ask you to provide certain information by which you can be identified when using this website you can be assured that it will only be used in accordance with this privacy statement. Rock and Ice/Big Stone Publishing may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 9th of February 2011.     This privacy policy sets out how Rock and Ice and Big Stone Publishing uses and protects any information that you give Rock and Ice and/or Big Stone Publishing when you use this website. Rock and Ice and Big Stone Publishing are committed to ensuring that your privacy is protected to the best of our ability. Should we ask you to provide certain information by which you can be identified when using this website you can be assured that it will only be used in accordance with this privacy statement. Rock and Ice/Big Stone Publishing may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 9th of February 2011. 
+The following Privacy Policy summarizes the various ways that Big Stone Publishing (Trail Runner and Rock and Ice) treats the information you provide while using www.rockandice.com and www.trailrunnermag.com (Website).
 
-###  Information we collect 
+Please read this Privacy Policy carefully. You can access the Privacy Policy any time. Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy. If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
 
-You may choose to restrict the collection or use of your personal information in the following ways: 
+This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us. 
-  * We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you. A small fee will be payable. If you would like a copy of the information held on you please contact us. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. 
-  * We will promptly correct any information found to be incorrect. 
-  * We may collect the following information: name contact information including email address demographic information such as postcode, preferences and interests other information relevant to customer surveys and/or offers What we do with the information we gather
-  * We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
+1\. Contact Information. We may collect your name and email address for e-newsletters or address and phone number for print subscribers.
 
+2\. Payment information for any print or online subscriber
 
+3\. Through Google Analytics we may track demographic information that best assists us to deliver relevant content and information. Google Analytics may also pick up device and location information. Including information on if you’re reading our website on a desktop or a mobile phone.
 
-Internal record keeping. We may use the information to improve our products and services. We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests. Security We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+At no point will we sell your personal information or distribute it unless we have direct consent from you. Our magazine and website is built off you and we do not want to betray that trust.
 
-###  How we use cookies 
+To keep your information safe and keep our site endemic we don’t work with any programmatic ad serving platforms at this moment. We do, however, work with approved direct partners to serve third party ads that could have their own tracking activities.
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+To serve you relevant articles on Facebook we have a Facebook tracking pixel that allows us to “boost” articles to people who have visited our website and that we know are interested in our writing. We also use this pixel to create lookalike audiences to help grow and market ourselves.
 
-###  Links to other websites
+You may have read about “cookies,” nuggets of information that are placed by a Website in a storage place on your own computer. We may use cookies to control the display of ads and to record registration and personalization information to better serve you on other platforms.
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers.
 
-###  Controlling your personal information 
+We participate in affiliate marketing and allow affiliate links to be encoded on some of our pages. This means that we may earn a commission when you click on or make purchases via affiliate links and affiliate partners may use cookies to understand your use of the services. These affiliate links are used for products that our editorial team deems worthy of coverage.
 
-You may choose to restrict the collection or use of your personal information in the following ways: 
+If you do not want the benefits of these advertising cookies, you may be able to opt-out by visitinghttp://www.networkadvertising.org/optout_nonppii.asp.
 
-  *  Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us. 
-  *  We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+If you don’t want any cookies, you can find extensions such as Ghostery or the browser itself to stop and refuse cookies. By doing so though some websites might not work properly.
 
+For residents of the European Economic Area (EEA), we advise that your personal information will be transferred to and processed in the United States, which has data protection laws that are different than those in your country and may not be as protective.
 
+Residents of the EEA have the right to:
 
-You may request details of personal information which we hold about you. A small fee will be payable. If you would like a copy of the information held on you please contact us. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. retweet
+ Access your personal information;
+
+ Delete, or request deletion of, your personal information;
+
+ Object to or restrict processing of your Personal information;
+
+ Request portability of your Personal information;
+
+ Complain to your local data protection authority at any time;
+
+ Object to automated decision making; and
+
+ Update your personal Information.
+
+Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal information conducted in reliance on lawful processing grounds other than consent.
+
+If we ask you to provide Personal information to us to comply with a legal requirement or enter into a contract, we will inform you of this and let you know whether providing us with your Personal information is required and if not, the consequences of not sharing your personal data with us.
+
+We endeavor to apply suitable safeguards to protect the privacy and security of your Personal information and to use it only consistent with your relationship with us and the practices described in this Privacy Policy. We also take steps to minimize the risk to your rights and freedoms by not collecting or storing sensitive or special categories of Personal information about you.
+
+This Website is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site.
+
+If your children disclose information about themselves in publicly accessible areas of the Website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
+
+If you’re worried about your children’s activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described below.
+
+To withdraw consent or exercise these rights, please contact us via email at byardley@bigstonepub.com
