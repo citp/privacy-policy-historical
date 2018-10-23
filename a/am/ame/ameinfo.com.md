@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ameinfo.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520112151id_/https%3A//ameinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ameinfo.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024000252id_/https%3A//ameinfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – AMEInfo – Online Business News Magazine
 
@@ -205,7 +205,7 @@ In the future, we may sell, buy, merge, or partner with other companies or busin
 
 #### External Services
 
-External services beyond _AME Info_ ‘s control are integrated with _AME Info_ where necessary, such as [Google Analytics](http://www.google.com/analytics/) for traffic measurement and tracking. _AME Info_ makes reasonable efforts to ensure that all integrated external services are trustworthy and reputable, but we cannot be held responsible for data collection and usage by such services.
+External services beyond _AME Info_ ‘s control are integrated with _AME Info_ where necessary, such as [Google Analytics](https://www.google.com/analytics/) for traffic measurement and tracking. _AME Info_ makes reasonable efforts to ensure that all integrated external services are trustworthy and reputable, but we cannot be held responsible for data collection and usage by such services.
 
 **Will Mediaquest sell or give my personal information to third parties?**
 
