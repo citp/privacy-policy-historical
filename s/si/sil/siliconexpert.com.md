@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siliconexpert.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607003144id_/https%3A//www.siliconexpert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconexpert.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023053412id_/http%3A//www.siliconexpert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SiliconExpert
 
@@ -10,7 +10,7 @@ _Effective Date: September 30, 2016._
 
 **INTRODUCTION**
 
-This Privacy Policy describes how SiliconExpert Technologies, Inc., our parent, our subsidiaries, and/or our affiliates (collectively, **“we,” “us,”** or **“our”** ) collect, use, and share information about you and applies to your use of any website that posts a link to this Privacy Policy ( **“Service”** ). This Privacy Policy does not apply to our data collection activities offline or otherwise outside of our Service (unless otherwise stated below or at the time of collection). This Privacy Policy is posted on <http://www.siliconexpert.com/privacy-policy>. 
+This Privacy Policy describes how SiliconExpert Technologies, Inc., our parent, our subsidiaries, and/or our affiliates (collectively, **“we,” “us,”** or **“our”** ) collect, use, and share information about you and applies to your use of any website that posts a link to this Privacy Policy ( **“Service”** ). This Privacy Policy does not apply to our data collection activities offline or otherwise outside of our Service (unless otherwise stated below or at the time of collection). 
 
 By using our Service, you agree to our [Terms of Use](http://www.siliconexpert.com/terms-of-use). By consenting to this Privacy Policy, you consent to our collection, use and disclosure practices, and other activities as described in this Privacy Policy. If you do not agree and consent, please discontinue use of the Service. 
 
@@ -70,8 +70,6 @@ Our Service Providers may receive, or be given access to your information, inclu
   * In connection with, or during negotiations of, any proposed or actual merger, purchase, sale or any other type of acquisition or business combination of all or any portion of our assets, or transfer of all or a portion of our business to another company.
 
 
-
-When we engage third-party service providers and when disclosure of Personal Information to such providers is necessary for the provision of such service, we ensure that such providers protect Personal Information in a manner consistent with this Privacy Policy and, where applicable, we are responsible for ensuring that such third parties process EU Personal Information in a manner consistent with the Privacy Shield Principles discussed below. 
 
 Without limiting the foregoing, in our sole discretion, we may share aggregated information which does not identify you or de-identified information about you with third parties or affiliates for any purpose. 
 
@@ -138,23 +136,19 @@ Your Personal Information is stored on servers maintained with the assistance of
 
 We are based in the U.S. and the information we collect from the U.S. is governed by U.S. law. If you are accessing the Service from outside of the U.S., please be aware that information collected through the Service may be transferred to, processed, stored and used in the U.S. Your Personal Information may also be transferred to, processed, stored and used in other jurisdictions in which we have affiliates or Service Providers. Data protection laws in these jurisdictions may be different from those of your country of residence. Your use of the Service or provision of any information therefore constitutes your consent to the transfer to and from, processing, usage, sharing and storage of your information, including Personal Information, in these jurisdictions, as set forth in this Privacy Policy. 
 
-We comply with the Privacy Shield Framework, as set forth by the U.S. Department of Commerce in consultation with the European Commission, regarding the collection, use and retention of Personal Information received from the European Union. As we are a U.S. company, we have voluntarily decided to comply with the EU – U.S. Privacy Shield Framework and is subject to the investigatory and enforcement powers of the Federal Trade Commission. We annually certify our adherence to the Privacy Shield Principles of notice; choice; accountability for onward transfer; security; data integrity and purpose limitation; access; and recourse, enforcement and liability. To learn more about the EU – U.S. Privacy Shield Framework, please visit <https://www.privacyshield.gov/EU-US-Framework>. To view our certification, please visit <https://www.privacyshield.gov/list>. 
-
 **10\. CHILDREN’S PRIVACY**
 
 Our Service is not intended for children and is not targeted to children under the age of thirteen (13). If you are a child under the age of thirteen (13), you are not permitted to use the Service and should not send any information about yourself to us through the Service. We do not knowingly collect any personal information from children under the age of 13 and, if we learn that we have received information from a user under the age of 13, we will delete this information in accordance with the Children’s Online Privacy Protection Act ( **“COPPA”** ). If you are a parent or guardian and you believe that your child under the age of thirteen (13) has provided us with personal information without COPPA-required consent, please contact us at [info@siliconexpert.com](mailto:info@siliconexpert.com). 
 
-If you are a user in South Korea and you are aged under fourteen (14), you are not permitted to use the Service without the consent of your parent or legal guardian. You should not send any information about yourself to us through the Service unless your parent or legal guardian has given his or her consent. We do not knowingly collect any Personal Information from children in South Korea under the age of 14 without consent from a parent or legal guardian and, if we learn that we have received information from a user in South Korea under the age of 14 without requisite consent, we will delete this information. If you are a parent or legal guardian in South Korea and you believe that your child under the age of fourteen (14) has provided us with Personal Information without your consent, please contact us at info@siliconexpert.com. 
+If you are a user in South Korea and you are aged under fourteen (14), you are not permitted to use the Service without the consent of your parent or legal guardian. You should not send any information about yourself to us through the Service unless your parent or legal guardian has given his or her consent. We do not knowingly collect any Personal Information from children in South Korea under the age of 14 without consent from a parent or legal guardian and, if we learn that we have received information from a user in South Korea under the age of 14 without requisite consent, we will delete this information. If you are a parent or legal guardian in South Korea and you believe that your child under the age of fourteen (14) has provided us with Personal Information without your consent, please contact us at [info@siliconexpert.com](mailto:info@siliconexpert.com). 
 
-Any California residents under the age of eighteen (18) who have registered to use the Service, and who have posted content or information on the Service, can request removal by contacting us at info@siliconexpert.com or by sending a letter to SiliconExpert, Inc., 2975 Scott Blvd., Suite 100, Santa Clara, CA 95054, with information detailing where the content or information is posted. We will make reasonable good faith efforts to remove the post from prospective public view or anonymize it so the minor cannot be individually identified. This removal process cannot ensure complete or comprehensive removal. For instance, third-parties may have republished or archived content by search engines and others that we do not control. 
+Any California residents under the age of eighteen (18) who have registered to use the Service, and who have posted content or information on the Service, can request removal by contacting us at [info@siliconexpert.com](mailto:info@siliconexpert.com) or by sending a letter to SiliconExpert, Inc., 2975 Scott Blvd., Suite 100, Santa Clara, CA 95054, with information detailing where the content or information is posted. We will make reasonable good faith efforts to remove the post from prospective public view or anonymize it so the minor cannot be individually identified. This removal process cannot ensure complete or comprehensive removal. For instance, third-parties may have republished or archived content by search engines and others that we do not control. 
 
 **11\. ACCESSING AND CHANGING INFORMATION**
 
 We will provide web pages or other mechanisms allowing you to correct or update some of the Personal Information you have provided us. 
 
 Users from the EU, Singapore, Hong Kong, Japan, New Zealand, Mexico, and Australia have a right to access their Personal Information, request corrections and/or deletions, and oppose the use of their Personal Information for specific purposes, subject to exceptions allowed by law. Such users are also entitled to request information on the origin of their Personal Information, the recipients or types of recipients to whom their Personal Information is provided, the reason for which their Personal Information is being stored, and the ways in which their Personal Information has been or may have been used or disclosed by us within a year before the date of the request. If you would like to do so, please send your request in writing by sending an email to [info@siliconexpert.com](mailto:info@siliconexpert.com) or by sending a letter to SiliconExpert, Inc., 2975 Scott Blvd., Suite 100, Santa Clara, CA 95054. To protect your privacy and the privacy of others, we will need evidence of your identity before we can grant you access to information about you or change it, including your username and password, if applicable. You will not be charged for compliance with such a request. 
-
-EU persons may request access to their Personal Information under this policy to the full extent required by applicable law in the home country of the person making the request. Such persons may request the correction, amendment, or deletion of their Personal Information that is inaccurate or has been processed in violation of the Privacy Shield Principles. We will reasonably fulfill such requests to the extent required by applicable law. 
 
 We will make good faith efforts to make requested changes in our then-active databases as soon as practicable (but may retain prior information for records to the extent not prohibited by applicable law). Please note that it is not always possible to completely remove or delete all of your information or public postings from our databases (California minors see 
 
@@ -192,10 +186,6 @@ Users from outside the U.S. have the right to ask us not to process their Person
 
 Users from outside the U.S. also have the right to revoke their given consent regarding the use and sharing of their Personal Information. However, it is important to note that in some cases such request may not be immediately or fully executed because it is possible that we have a legal obligation to keep using your Personal Information. Also, you must consider that for certain purposes, the revocation of consent means that we cannot continue providing the services you requested. You can revoke your consent at any time by contacting us at [info@siliconexpert.com](mailto:info@siliconexpert.com) or by sending a letter to SiliconExpert, Inc., 2975 Scott Blvd., Suite 100, Santa Clara, CA 95054. 
 
-Any EU person who is not satisfied with our compliance with the EU – U.S. Privacy Shield may contact the us to resolve such complaints at [compliance@arrow.com](mailto:compliance@arrow.com) or by sending a letter to the addresses set forth in Section 16 below. If any EU person believes that such a complaint has not been resolved, he or she agrees first to try and settle the dispute by mediation, administered by the International Centre for Dispute Resolution under its Mediation Rules, before resorting to arbitration, litigation, or some other dispute resolution procedure. The rules governing these procedures and information regarding how to file a claim free of charge can be found here: <http://info.adr.org/safeharbor/>. 
-
-Any EU person who remains dissatisfied may contact his or her national Data Protection Authority in the country where the person resides. We have agreed to cooperate and comply with appropriate EU Data Protection Authorities and the Department of Commerce in resolving such disputes. If an EU person remains dissatisfied and meets the pre-arbitration requirements of Annex I Part C of the EU – U.S. Privacy Shield Framework, the person may invoke binding arbitration pursuant to procedures in Annex I of the EU – U.S. Privacy Shield Framework Principles found here: <https://www.privacyshield.gov/EU-US-Framework>. 
-
 **15\. CHANGES TO THIS PRIVACY POLICY**
 
 We reserve the right to revise and reissue this Privacy Policy at any time. Any changes will be effective immediately upon posting of the revised Privacy Policy. Subject to applicable law, your continued use of our Service indicates your consent to the privacy policy posted. If the changes are material, we may provide you additional notice, to your e-mail address. 
@@ -204,18 +194,8 @@ We reserve the right to revise and reissue this Privacy Policy at any time. Any 
 
 For any requests relating to your Personal Information, or if you have any questions about this Privacy Policy, please contact us at:  
 SiliconExpert, Inc.  
-433 NW 4th Suite 300  
-Portland, OR 97209  
+2975 Scott Blvd., Suite 100  
+Santa Clara, CA 95054  
 [info@siliconexpert.com](mailto:info@siliconexpert.com)
-
-9201 East Dry Creek Road  
-Centennial, CO 80112  
-(Attention: Legal Counsel)
-
-European users can contact us at:   
-Frankfurter Straße 211  
-63263 Neu-Isenburg  
-Germany   
-(Attention: Legal Counsel)
 
 © 2020 All Rights Reserved. SiliconExpert Technologies, Inc.
