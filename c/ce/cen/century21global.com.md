@@ -1,95 +1,157 @@
-> *The following text is extracted and transformed from the century21global.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920190001id_/https%3A//www.century21global.com/resource/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the century21global.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023195631id_/https%3A//www.century21global.com/resource/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Century 21 Real Estate LLC**
+Century 21 Real Estate LLC Online Privacy Statement
 
-**PRIVACY STATEMENT**
+**Last modified May 2018**
 
-**Last modified August** **7, 2013**
+Thank you for visiting Century 21 Real Estate LLC (" **Century 21** "). Century 21 is committed to protecting the information that you share with us, and explaining how we collect, process, store and share that information. We provide you with the notice below in English only to avoid any misinterpretations caused by a language translation. If necessary, please seek the proper advice, or please avoid use of this website.
 
-The policy set forth below is provided in English only to avoid any misinterpretations caused by a language translation. If necessary, please seek the proper advice, or please do not use this web site.
+**Scope and information that this Privacy Statement covers**
 
-**Introduction**
+This Privacy Statement applies to Personal Information (defined below) collected on our websites, mobile applications, cloud-based services, or controlled widgets embedded in communication platforms with a link to this Privacy Statement (collectively, the “Site”). It covers how we collect, use, share, and otherwise process such Personal Information as of the date that this Privacy Statement is posted. It does not apply to any other information collected by Century 21 through any other means. By " **Personal Information** ", we mean information that identifies or can identify you personally.
 
-**Century 21 Real Estate LLC** operates the web site at **www.century21global.com** ("Site"). We respect the privacy of each user of the Site (referred to as "you" or "a user"), whether you are just beginning your real estate search or have previously visited our Site. This Privacy Statement gives you specific information about how we protect your privacy, how we treat information we collect on the Site that identifies an individual user ("Personal Information"), and how we use aggregated information.
-
-**BY REGISTERING FOR OR USING THE SITE, YOU SIGNIFY YOUR UNDERSTANDING AND ACCEPTANCE OF THIS PRIVACY STATEMENT. IF YOU DO NOT AGREE TO THIS PRIVACY STATEMENT, YOU CANNOT USE THE SITE.** We reserve the right to modify this Statement at any time by posting a notice on the Site's home page. (If we consider it appropriate, we may also provide additional notice of significant changes.) Your use of the Site after the date of the last modification listed at the beginning of this Privacy Statement indicates that you agree to the changes.
-
-**Location of Servers and Transfer of Information to the United States**
-
-The Site is hosted by servers in the United States. If you are located outside of the United States, your Personal Information will be transferred to the United States. By submitting your Personal Information, you consent to its transfer to the United States and to its storage, processing, and use there in accordance with this Privacy Statement.
-
-**Scope of this Privacy Statement**
-
-This Privacy Statement applies to your use of this Site only. We do not own, operate or control the web sites of CENTURY 21 Franchisees or sales associates. Accordingly, this Statement does not apply to a Franchisee's or sales associate's web site or to a Franchisee's or sales associate's collection, use, storage and disclosure of your Personal Information.
+The Site contains links to third-party websites, including websites of our independent franchisees. We do not own, operate or control the websites of such third-parties, or of Century 21 franchisees or sales associates, which are independent third parties. Accordingly, this Privacy Statement does not apply to any websites maintained or operated by third-parties, or to a franchisee’s or sales associate’s website, collection, use, storage, disclosure, or other processing of your Personal Information. When you click on those links, you will go to a third-party website where you will be subject to that website’s privacy statement and we encourage you to read that policy statement. Please be aware that we are not responsible for the privacy practices of those other websites, including those of our independent franchisees, and we expressly disclaim any liability for their actions, including actions relating to the use and disclosure of Personal Information by those third-parties.
 
 **1\. Collection and Use of Your Personal Information**
 
-We collect your Personal Information on the Site in order to enhance the services we offer you. We collect Personal Information from you only when you voluntarily submit it in order to obtain certain services or information, including (A) registrations for special communications, such as saving a search for you and, but only if you request it, sending you new listings that fit the profile of your saved search; (B) requests to find a property, to list your property, and to find a sales associate; (C) requests to contact us; (D) requests to receive periodic industry updates; (E) requests to email a listing to a friend;
+We collect your Personal Information on the Site in order to enhance the services we offer you, improve the Site, and inform you about other services and products that may be available through us, our affiliated companies, our franchisees and/or our marketing partners. We collect Personal Information about you when you interact with or utilize services offered on this Site, such as:
 
-**Requests to Find or List a Property and to Find a Sales Associate**
+  1. Registrations for special communications, such as saving a search for you and, but only if you request it, sending you new listings that fit the profile of your saved search;
+  2. Requests to find a property, to list your property, and to find a sales associate;
+  3. Requests to contact us;
+  4. Requests to receive periodic industry updates;
+  5. Requests to email a listing to a friend; and
+  6. Requests to Find or List a Property and to Find a Sales Associate
+
+
+
+Personal Information includes:
+
+  1. Name;
+  2. Postal or billing address;
+  3. E-mail address;
+  4. Telephone or mobile number;
+  5. Location via IP address;
+  6. Device being used (for our mobile site);
+  7. Cookies and similar technologies;
+  8. Other relevant data.
+
+
+
+Even if you do not send us any Personal Information, we collect certain non-personal information about how you use our Site. This information cannot identify you, and is used for statistical purposes.
 
 If you submit a request through this Site to find or list a property or to find a sales associate, you will be asked to provide Personal Information and we refer this information to CENTURY 21 Master Franchisees and their sales associates in the country in which the property or sales associate is located, to respond to your request. For example, if you ask that we list your property or if you ask to see more listings in a given area, you will be directed to our CENTURY 21 Master Franchisee in that area.
 
-**Contacting Us**
+**2\. Use and sharing of Personal Information**
 
-If you contact us, we collect Personal Information, which is retained or referred to an independent Master Franchisee or Franchisee depending on the nature of your inquiry. If you are looking for a property or a sales associate, it is referred to a Franchisee or sales associate; if your inquiry or complaint requires a response from us, it is referred to the appropriate department for research and a response. The information we collect is not used in any other way and is not retained after one year.
+Whatever the purpose may be – whether we share with service providers or other external entities – we only process and share your Personal Information to the extent reasonably necessary to fulfill your requests and meet our legitimate business and legal objectives. When we disclose Personal Information to external entities to perform support services for us, we establish by contract that they may access your Personal Information only for the purposes of performing those support services. We may also use what we know about you to offer you other products and services. We may combine your online information with information collected from offline or online sources, or information we already have. We may also use and disclose certain Personal Information to our affiliated companies and others for any purpose allowed by law.
 
-**Refer a Listing to a Friend**
+**Century 21 Business Activities.** We generally process and may disclose your Personal Information to others to:
 
-If you choose to send a listing to a friend, you will be asked to provide the friend's name and email address in order to personalize the email and to send the email. We do not store this information, and the information is used only to send the one-time referral email.
+  * Provide you with products and services, including authenticating authorized users, and marketing our products and services;
+  * Perform certain services or other transactions initiated by you;
+  * Respond to your questions, complaints, or reviews of our product or services;
+  * Send you communications about online transactions, product information, ads and promotions, electronic newsletters, or other notices you requested or offers tailored to you;
+  * Enable our advertisers to provide you with more personalized content, and track the effectiveness of certain advertising campaigns;
+  * Comply with applicable law, obey judicial orders, cooperate with law enforcement authorities, or prevent any suspected illegal activities;
+  * Help us run our business; or
+  * For any other everyday business purposes, such as product development and Site administration.
 
-**2\. Collection of Non-Personal Information**
 
-Even if you do not send us any Personal Information, we collect information about how you use our site ("Non-Personal Information"). This information cannot be used to identify you personally and is explained in more detail below under "Non-Personal Information".
 
-**Cookies**
+**Location of Servers and Transfer of Information to the United States.** The Site is hosted by servers in the United States and we operate our business globally, some countries may not provide the same level of data protection as your home country. If you are located, for example, in European Economic Area or Switzerland (collectively, “Europe”), your Personal Information will be transferred to the United States and possibly to other jurisdictions (e.g., to the location of a property for which you have requested information), which are not considered to provide an adequate level of protection under your local data protection laws.
 
-A cookie is a small data file, often including an anonymous unique identifier, that is sent from a web site's computer and stored on your computer's hard drive. Use of cookies is common on the Internet. A web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser permits a web site to access only the cookies it has already sent to you, not the cookies sent to you by other sites. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) You can reset your browser to refuse all cookies or indicate when a cookie is being sent. But if you refuse cookies, some parts of the Site will not function properly and may not provide services or information you have requested. For example, without cookies, we will not be able to provide you with searches that you have asked us to save.
+**3\. Legal grounds for the collection, use, sharing, and other processing of Personal Information**
 
-**Non-Personal Information**
+Certain jurisdictions, including those in Europe, require the identification of the legal grounds for the collection, use, sharing, and other processing of Personal Information. Century 21 relies on the following legal grounds for its collection, use, sharing, and other processing of Personal Information as described in this Privacy Statement:
 
-Like many sites, we obtain Non-Personal Information such as IP (internet protocol) addresses, browser types, the name of your ISP (internet service provider), information about where a user comes from before arriving at our Site, what pages a user visits, the order of those pages, and the amount of time spent on each. A vendor performs this service for us by sending a cookie to gather this information, compile it, and report to us. We use Non-Personal Information to customize the advertising and content you see, improve our services, conduct research, and provide anonymous aggregated reporting for internal audits and third-parties.
+  * Necessary to provide information or otherwise carry out the performance of a contract with you as an individual;
+  * Our legitimate interests, including: 
+    * Performance of the contract with our franchisees;
+    * Implementation and operation of a group-wide matrix structure and group-wide information sharing;
+    * Customer relationship management and other forms of marketing and analytics;
+    * Fraud prevention, misuse of company IT systems, or money laundering;
+    * Whistleblower scheme operations;
+    * Physical, IT, and network perimeter security;
+    * Internal investigations; and
+    * Intended mergers and acquisitions;
+  * Compliance with legal obligations and/or defense against legal claims, including those in the area of labor law, social security, and data protection, tax, and corporate compliance laws.
+  * Protection of the vital interests of any individual;
+  * Performance of a task carried out in the public interest or in the exercise of official authority vested in Century 21; and
+  * Consent, as permitted by applicable law
 
-**3\. Use of Information**
 
-We use the Personal Information and the Non-Personal Information we collect on the Site (A) to provide you with the services that you ask to receive through the Site, including saving searches and, if you request it, sending you updates about those searches; (B) to receive, if you choose, to receive periodic industry updates; (C) to answer your questions or complaints; (D) to refer you to Franchisees and sales associates about finding or listing a property or to locate a sale associate; (E) to refer a listing to a friend; and (F) for analytical purposes to help us improve the Site and for our business generally.
 
-**4\. Sharing Your Information**
+**4\. Your rights concerning your Personal Information**
 
-We do not rent, sell, or share with third parties the Personal Information we collect from you on this Site except (i) to provide information or services that you have requested, (ii) with your permission, or (iii) under the following circumstances:
+You have the following choices regarding our use and disclosure of your Personal Information:
 
-**A.** Third party vendors we engage to provide services on our behalf, such as hosting, web-site development, and support, have access to Personal Information, but they have agreed not to disclose the Personal Information or to use it for any purpose other than providing the requested services.
+  * **Marketing Communications.** If you no longer wish to receive any marketing communications, remain on a mailing list to which you previously subscribed or receive any other communication from Century 21, please follow the unsubscribe link in the relevant communications or contact us using the link at the bottom of the message. Even after you opt-out or update your marketing preferences, we may still contact you for transactional or informational purposes. These include, for example, customer service issues, returns or product-related inquiries, surveys or recalls, or any questions regarding a specific order.
+  * **Cookies and Similar Technologies.** Please review your browser or computer settings for certain cookies and see below to exercise certain choices regarding cookies.
 
-**B.** There may arise special circumstances where it is necessary for us to disclose and use Personal Information and Non-Personal Information, such as: to enforce this Privacy Statement or any other part of our [Terms & Conditions](http://www.realogy1.immobel.com/resources/cms/top/terms-and-conditions/) to protect our property or rights; to protect the safety of anyone; to investigate, prevent, or take action regarding illegal or improper activities; to carry out a merger or consolidation with another entity, a sale or transfer of some or all of our assets, or any similar transaction; or for other reasons we determine in good faith are necessary, appropriate, or required by law, such as when we respond to subpoenas, court orders, or other legal or administrative process.
 
-The Site contains links to third-party web sites, including our Franchisees. If you hold your mouse over a link, it will indicate whether clicking the link will send you off our Site. When you click on those links, you will go to a third-party site where you will be subject to that site's privacy statement and we encourage you to read that policy statement. Please be aware that we are not responsible for the privacy practices of those other web sites and we expressly disclaim any liability for their actions, including actions relating to the use and disclosure of Personal Information by those third parties. We remind you to be aware of when you leave our Site and enter a third-party web site, including one of our independent Franchisees, and again encourage you to read the privacy statement on any web site that collects your Personal Information.
+
+You are not required to provide all Personal Information identified in this Privacy Statement to use our Site, but certain aspects of our Site will not be available to you. However, you can use our services without consenting to non-essential cookies or direct marketing emails; the only consequence is that our products and services will be less communicated, we may not be able to provide the support you seek, and you may miss out on attractive promotions and news about our products and services.
+
+Europe and certain other non-US jurisdictions maintain local data protection regulations that confer certain data protection rights on individuals. Century 21 will address those rights where required by applicable laws. Note that if you are a franchisee or an employee of a franchisee, and we obtain access or otherwise process your Personal Information in that context, you should contact your employer/franchisee which will be in the best position to respond to your inquiry. If applicable, and you wish to exercise any of these rights, please contact us as set out below.
+
+  1. **Right of access:** You have the right to obtain from us confirmation as to whether or not Personal Information concerning you is processed, and, to request access to the Personal Information. The access information includes, among other things, the purposes of the processing, the categories of Personal Information concerned, and the recipients or categories of recipient to whom the Personal Information have been or will be disclosed. This is not, however, an absolute right, and the interests of other individuals may restrict your right of access. You may have the right to obtain a copy of their Personal Information undergoing processing.
+  2. **Right to rectification:** You have the right to obtain from us the rectification of inaccurate Personal Information about you. Depending on the purposes of the processing, you may have the right to have incomplete Personal Information completed, including by means of providing a supplementary statement.
+  3. **Right to erasure (right to be forgotten):** Under certain circumstances, you have the right to obtain from us the erasure of Personal Information concerning you, and we may be obligated to erase that Personal Information. Personal data may reside in backup archives that must be retained for a longer period of time, either because it is impractical to isolate individual data within the archive, or because it is required to be retained for contractual, legal, or compliance reasons. Personal Information will not be restored to production systems (except in certain rare circumstances, e.g., the need to recover from a natural disaster, etc.). In such cases, Personal Information may be restored from the backup, however, all necessary steps will be taken to honor the initial request and erase the primary instance of the data. Backup archives containing Personal Information is protected with strong encryption.
+  4. **Right to restriction of processing:** Under certain circumstances, you have the right to obtain from us restriction of processing your Personal Information. In that case, your data will be marked and may only be processed by us for certain limited purposes. As Century 21 processes and uses your Personal Information primarily for purposes of carrying out a contract for a services relationship, Century 21 may have a legitimate interest for the processing which will override your restriction request, unless the restriction request relates to marketing activities.
+  5. **Right to data portability:** Under certain circumstances, you have the right to receive the Personal Information about you, which you have provided to us, in a structured, commonly used and machine-readable format, and you have the right to transmit that data to another entity without hindrance from us.
+  6. **Right to object:** Under certain circumstances, you have the right to object, on grounds relating to your particular situation, at any time to the processing of your Personal Information by us, and we can be required to no longer process your Personal Information. Where permitted by applicable law, you also have the right to lodge a complaint with a competent data protection supervisory authority.
+
+
 
 **5\. Security**
 
-Our hosting services maintains its systems in accordance with reasonable industry standards to reasonably secure the information of its customers. However, no data transmission over the Internet can be guaranteed to be 100% secure. "Perfect security" does not exist on the Internet, and you use the Site at your own risk.
+The security and confidentiality of your Personal Information matters to us. That’s why we have adequate technical, administrative, and physical controls in place to protect your Personal Information from unauthorized access, use, and disclosure. For example, we provide the option to encrypt all information you submit to us using Secure Sockets Layer (“ **SSL** ”) technology that helps protect information during transport to our Site. We periodically review our security measures to evaluate industry best practices and update accordingly. Even so, despite our reasonable efforts, no security measure is ever perfect or impenetrable.
 
-**6\. Correction/Updating Personal Information**
+**6\. Data Retention**
 
-If your Personal Information changes or if you no longer wish to use the Site, you may correct or update your Personal Information or unsubscribe from any industry updates you have requested by modifying or deleting your profile on the Site, writing to customer service at:
-
-Century 21 Real Estate LLC  
-International Headquarters  
-175 Park Avenue  
-Madison, New Jersey 07940
-
-or sending an email from the following link: http://www.century21global.com/contactus/.
+Depending on the service you require, we will retain your Personal Information only for the period necessary to fulfill the purposes outlined in this Privacy Statement or as set out in our contracts with our franchisees, unless a longer retention period is required or permitted by a law that applies to us.
 
 **7\. Children**
 
-This Site is not directed to children under the age of 13 ("Children"), and we do not knowingly collect any information, including Personal Information, from Children.
+This Site is not intended or directed to children under the age of 16, and we do not knowingly collect any Personal Information, or knowingly track the use of our Site, from children. If Century 21 has actual knowledge that Personal Information about a child under 16 years old has been collected, then Century 21 will take the appropriate steps to delete such Personal Information. However, personal data may reside in backup archives that must be retained for a longer period of time, either because it is impractical to isolate individual data within the archive, or because it is required to be retained for contractual, legal, or compliance reasons. Personal Information will not be restored to production systems (except in certain rare circumstances, e.g., the need to recover from a natural disaster, etc.). In such cases, Personal Information may be restored from the backup, however, all necessary steps will be taken to honor the initial request and erase the primary instance of the data. Backup archives containing Personal Information is protected with strong encryption.
 
-**8\. Comments and Questions**
+**8\. Cookies And Similar Tracking Technologies**
 
-If you have any questions or concerns about this Privacy Statement, please contact us by using the Contact Us feature or by postal mail at:
+**Information Collected Through Technology.** Information is also obtained in other ways through technology. Some of this information may be linked to you personally. In accordance with applicable law, Century 21 uses and allows third parties to use essential and non-essential cookies, online tracking tools, web beacons, and similar technologies (collectively, “cookies”) on our Site. We process this information to help our Site function correctly, and better understand the needs of our customers.
+
+Cookies on our Site generally fall into the following categories:
+
+  * **Strictly Necessary Cookies:** These are required for the operation of our Site. They include, for example, cookies that enable you to log into secure areas. These cookies are session cookies which are erased when you close your browser.
+  * **Analytical/Performance Cookies:** These allow us to recognize and count the number of users of our Site and see how such users navigate through our Site. This helps to improve how our Site works, for example, by ensuring that users can find what they are looking for easily. These cookies are session cookies which are erased when you close your browser.
+  * **Functional Cookies:** These improve the functional performance of our Site and make it easier for you to use. For example, cookies are used to remember that you have previously visited the Site and asked to remain logged into it. These cookies are session cookies which are erased when you close your browser.
+  * **Targeting Cookies:** These record your visit to our Site, the pages you have visited and the links you have followed to recognize you as a previous visitor and to track your activity on the Site and other websites you visit. These cookies qualify as persistent cookies, because they remain on your device for us to use during a next visit to our Site. You can delete these cookies via your browser settings. We will not collect these cookies from individuals in Europe without proper consent.
+
+
+
+**Use of cookies.** We advertise in a number of ways, including online through managed social media presences, and on other unaffiliated sites and mobile applications. To understand how our advertising campaigns are performing, we may collect certain information via cookies on our Site through our advertising service providers. The information we collect includes IP addresses, the number of page visits, pages viewed via our Site, search engine referrals, browsing activities over time and across other websites following your visit to our Site or applications, and responses to advertisements and promotions on the websites and applications where we advertise.
+
+We also use certain information to identify new visitors to our Site, recognize returning visitors, advertise on other websites and mobile applications not affiliated with us, analyze the effectiveness of our advertisements, better understand our audience, customers, or other Site visitors, and determine whether you might be interested in new products or services.
+
+**Controlling Our Tracking Tools.** Your browser may give you the ability to control cookies. How you do so, however, depends on your browser and the type of cookie. Certain browsers can be set to reject all browser cookies. If you configure your computer to block all cookies, you may disrupt certain web page features, and limit the functionality we can provide when you visit or use our Site. (e.g., we will not be able to provide you with searches that you have asked us to save). You can change your cookie settings at any time. Some browsers have a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked. These browser features are still not uniform, so we are not currently set up to respond to those signals.
+
+**Controlling Online Interest-Based Ads.** We sometimes work with online advertising vendors to provide you with relevant and useful ads. This may include ads served on or through our Site . This may also include ads served on other companies’ websites. These ads may be based on information collected by us or third parties. For example, your postal code may be used to target an ad for people in your area. These ads may also be based on your activities on our Site or on third-party websites.
+
+For more information about our ad service provider and its cookies, including information about how to opt out of these technologies, you may visit [http://optout.aboutads.info](http://optout.aboutads.info/) In addition, users may prevent Google’s collection of data generated by your use of the Site (including your IP address) by downloading and installing a Browser Plugin available at <https://tools.google.com/dlpage/gaoptout?hl=en>.
+
+**9\. Changes or other updates to this Privacy Statement**
+
+We may amend this Privacy Statement at any time. If we make any material change in how we collect, use, disclose, or otherwise process Personal Information, we will prominently post an updated Privacy Statement on our Site. Any material changes to this Privacy Statement will be effective 10 days after our posting of the updated Privacy Statement or as otherwise required by applicable law. Where required to do so by law, we may seek your prior consent to any material changes we make to this Privacy Statement.
+
+**10\. Comments and Questions**
+
+If you have any questions or concerns about this Privacy Statement or wish to correct or update your Personal Information, or unsubscribe from any industry updates you have requested by modifying or deleting your profile on the Site, write to customer service at: 
 
 Century 21 Real Estate LLC  
 International Headquarters  
 175 Park Avenue  
-Madison, New Jersey 07940
+Madison, NJ 07940
+
+You may also send us an email from the following link: <http://www.century21global.com/contactus>
