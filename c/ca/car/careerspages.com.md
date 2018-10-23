@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the careerspages.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520222618id_/https%3A//www.careerspages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerspages.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024012532id_/http%3A//www.careerspages.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **admin@abetechsolutions.com**.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **admin@careerspages.com**.
 
 At **www.careerspages.com** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by **[www.careerspages.com](http://www.careerspages.com/)**  and how it is used.
 
