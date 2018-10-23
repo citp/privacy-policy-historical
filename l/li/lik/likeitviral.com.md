@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the likeitviral.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612022442id_/http%3A//likeitviral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likeitviral.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023094308id_/http%3A//likeitviral.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Like It Viral
 
@@ -132,7 +132,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d4bdbab2bb94bbb9b3a7a0a1b0bdbba7fab7bbb9)
+  * If you have any questions about this Privacy Policy, please contact us: [info@LocksmithOfHearts.com](mailto:info@omgstudios.com)
 
 
 
