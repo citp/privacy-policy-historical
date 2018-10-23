@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agora-inc.com privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401083139id_/http%3A//theagora.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agora-inc.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023223454id_/http%3A//theagora.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
