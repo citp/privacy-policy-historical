@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveasianangels.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621031516id_/http%3A//www.liveasianangels.com/en/policy%23personaldata) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveasianangels.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023085832id_/http%3A//www.liveasianangels.com/en/policy%23personaldata) for the most accurate reproduction.*
 
 # Policy | Liveasianangels
 
