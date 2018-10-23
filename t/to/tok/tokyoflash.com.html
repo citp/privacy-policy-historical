@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the tokyoflash.com privacy policy that was archived on 2017-02-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170216134257id_/https%3A//www.tokyoflash.com/en/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tokyoflash.com privacy policy that was archived on 2018-10-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181023084836id_/https%3A//www.tokyoflash.com/en/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en"><!--<![endif]--><head prefix="og:http://ogp.me/ns# fb:http://ogp.me/ns/fb# product:http://ogp.me/ns/product#">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Tokyoflash Japan : Privacy &amp; Security</title>
+<title>Tokyoflash Japan Privacy Policy</title>
 <base href="https://www.tokyoflash.com/">
 <meta name="description" content="At Tokyoflash Japan we are commited to providing an honest privacy policy and the highest level of security.">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,12 +18,11 @@
 <script src="catalog/view/javascript/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 <link href="catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 <link href="catalog/view/theme/tokyoflash/stylesheet/stylesheet.css?v=1.02" rel="stylesheet">
-<link href="media/newsletter/css/stylesheet.css?v=1.01" type="text/css" rel="stylesheet" media="screen">
-<link href="media/newsletter/css/subscribe-better.css" type="text/css" rel="stylesheet" media="screen">
+<link href="catalog/view/javascript/isenselabs_gdpr/cookieconsent.min.css" type="text/css" rel="stylesheet" media="screen">
 <script src="catalog/view/javascript/common.js" type="text/javascript"></script>
 <script src="catalog/view/javascript/ee_tracking.min.js" type="text/javascript"></script>
-<script src="media/newsletter/js/jquery.subscribe-better.js" type="text/javascript"></script>
-<script src="media/newsletter/js/main.js" type="text/javascript"></script>
+<script src="catalog/view/javascript/isenselabs_gdpr/cookiemanager.js" type="text/javascript"></script>
+<script src="catalog/view/javascript/isenselabs_gdpr/cookieconsent.min.js" type="text/javascript"></script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -39,6 +38,100 @@
 <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.5.0/slick-theme.css">
 <script src="catalog/view/javascript/jquery/fitvids/jquery.fitvids.js" type="text/javascript"></script>
 
+
+
+        	<!--Cookie Consent Bar by iSenseLabs GDPR Extension-->
+	<script>
+		var analytics_cookies_disable = '_ga,_gid,_gat,__atuvc,__atuvs,__utma,__cfduid';
+		var marketing_cookies_disable = '_gads,IDE,test_cookie,fr,tr,collect,GPS,PREF,BizoID';
+		var disabled_cookie_sets = '';
+		var url_variations = JSON.parse('[".www.tokyoflash.com",".tokyoflash.com"]');
+		var disable_marketing = false;
+		var disable_analytics = false;
+		var disable_functional = false;
+		
+		$(document).ready(function() {
+			function maintainCookies() {
+				if (disabled_cookie_sets.indexOf('marketing') >= 0) disable_marketing = true;
+				if (disabled_cookie_sets.indexOf('analytics') >= 0) disable_analytics = true;
+				$.each(Cookies.get(), function(i, item) {
+					if (disable_analytics && (analytics_cookies_disable.indexOf(i) >= 0)) {
+						$.each(url_variations, function(ai, asite) {
+							clearCookie(i,asite,'/');
+						});
+					}
+					if (disable_marketing && (marketing_cookies_disable.indexOf(i) >= 0)) {
+						$.each(url_variations, function(mi, msite) {
+							clearCookie(i,msite,'/');
+						});
+					}
+				});
+				return true;
+			}
+			maintainCookies();
+		});
+	</script>
+	
+	<script>
+		window.addEventListener("load", function(){
+			window.cookieconsent.initialise({
+			  			  			  "palette": {
+				"popup": {
+				  "background": "#000000",
+				  "text": "#ffffff"
+				},
+				"button": {
+				  "background": "#ffcc00",
+				  "text": "#000000"
+				}
+			  },
+			  "type": "opt-in",
+			  			  "content": {
+				"message": "This website uses cookies to ensure you get the best experience on our website.",
+				"cookie_preferences" : '',
+				"allow": "Accept",
+				"dismiss": "Close",
+				"settings": "Preferences",
+								"link": "Privacy Policy",
+				"href": "https://www.tokyoflash.com/en/privacy"
+							  }
+			})
+			
+			var html_cookie_settings = '<br /><div id="cookieconsent:settings" class="cc-settings-view"><div class="cc-settings-dialog"><span class="cookie_settings_header">Choose Type of Cookies You Accept Using</span><br /><br /><label><input type="checkbox" checked="checked" disabled="disabled" value="functional" /> Strictly Required Cookies</label><br />These cookies are required for the website to run and cannot be switched off. Such cookie are only set in response to actions made by you such as language, currency, login session, privacy preferences. You can set your browser to block these cookies but our site may not work then.<br /><br /><label><input type="checkbox" checked="checked" name="cookie_isl_analytics" value="analytics" /> Analytics and Statistics</label><br />These cookies allow us to measure visitors traffic and see traffic sources by collecting information in data sets. They also help us understand which products and actions are more popular than others.<br /><br /><label><input type="checkbox" checked="checked" name="cookie_isl_marketing" value="marketing" /> Marketing and Retargeting</label><br />These cookies are usually set by our marketing and advertising partners. They may be used by them to build a profile of your interest and later show you relevant ads. If you do not allow these cookies you will not experience targeted ads for your interests.<br /><br /><div class="cc-compliance cc-highlight"><a class="cc-btn cc-btn-close-settings">Close</a>&nbsp;&nbsp;<a class="cc-btn cc-btn-save-settings">Save Changes</a></div></div></div>';
+			$('body').append(html_cookie_settings);
+		});
+
+	</script>
+	
+	<script>
+		$(document).ready(function() {
+						$('body').delegate('a.cc-btn.cc-allow', 'click', function(e) {
+				$.get('https://www.tokyoflash.com/index.php?route=module/isenselabs_gdpr/accept_pp_from_ccb');
+			});
+			 
+			$('body').delegate('a.cc-btn.cc-dismiss', 'click', function(e) {
+									var cookie_text = 'analytics,marketing';
+					Cookies.set('cookieconsent_preferences_disabled', cookie_text, { expires: 365 });			
+							});
+			
+			$('body').delegate('a.cc-btn-close-settings', 'click', function(e) {
+				$('.cc-settings-view').fadeOut(100);
+			});
+			$('body').delegate('a.cc-btn-save-settings', 'click', function(e) {
+				var cookie_text = '';
+				if ($('input[name="cookie_isl_analytics"]:checked').length == 0) {
+					cookie_text += 'analytics,';
+				}
+				if ($('input[name="cookie_isl_marketing"]:checked').length == 0) {
+					cookie_text += 'marketing,';
+				}
+				Cookies.set('cookieconsent_preferences_disabled', cookie_text, { expires: 365 });
+				$('.cc-settings-view').fadeToggle(100);
+			});
+		});
+	</script>
+	
+        
 <script>ga('require', 'ec');</script>
 </head>
 <body class="information-information">
@@ -144,7 +237,6 @@
     <div class="collapse navbar-collapse navbar-ex1-collapse">
       <ul class="nav navbar-nav">
                         <li><a href="https://www.tokyoflash.com/en/watches/">Watches</a></li>
-                                <li><a href="https://www.tokyoflash.com/en/bluetooth-bracelets/">Bluetooth Bracelets</a></li>
                                 <li><a href="https://www.tokyoflash.com/en/watch-museum/">Watch Museum</a></li>
                                 <li><a href="https://www.tokyoflash.com/en/help">Help &amp; Info</a></li>
                         <li><a href="https://www.tokyoflash.com/en/about">About</a></li>
@@ -157,11 +249,58 @@
 <div class="container">
   <ul class="breadcrumb">
         <li><a href="https://www.tokyoflash.com/en"><i class="fa fa-home"></i></a></li>
-        <li><a href="https://www.tokyoflash.com/en/privacy">Privacy &amp; Security</a></li>
+        <li><a href="https://www.tokyoflash.com/en/privacy">Privacy Policy</a></li>
       </ul>
-  <div class="row">                <div id="content" class="col-sm-12">      <h2>Privacy &amp; Security</h2>
-      <p>At Tokyoflash Japan we are committed to providing an honest privacy policy and the highest level of security.<br></p><p><br></p><h3>Security</h3><p>Our dedicated server uses High-Grade 256 bit SSL Encryption to protect your information. The highest level possible. To view our security certificate please click on the Padlock Icon in your browser.</p><p>Once you enter the Checkout page to make payment, enter the Registration page to create an account or view this Security policy page your connection to our website will become encrypted. You can verify this by checking that the URL in your browser starts with HTTPS and that you can see the Padlock icon in the corner of your browsers window.</p><p><br></p><h3>Privacy</h3><h4>Cookies</h4><p>Cookies are files which store information about your visit to a website. Our website uses two types of cookie.&nbsp;</p><p>Non-persistent cookies are provide a better browsing experience &amp; do not store any personal information. We use them only to remember your language, currency preference and login details. Once you leave our website, these non-persistent cookies are deleted.</p><p>Persistent cookies are also used on our website if you choose to create an account with us AND wish your browser to remember your login details. In this case, your browser will save an encrypted cookie on your computer which is used to automatically log you in to our website when you visit. This type of cookie is optional &amp; you are asked if you would like to use it when logging in.</p><p>Should you wish to delete any cookies from your computer then you can find this option in your browsers preferences. Our cookies are identified by the name www.tokyoflash.com</p><p><br></p><h4>Your personal information</h4><p>We collect personal information from you when you place an order or register with us. This information is used only to speed up your shopping experience &amp; provide warranty on your purchase.</p><p>When you sign up for our email newsletter we keep your email address and name so we can inform you about special offers, competitions and new products. We will ABSOLUTELY NEVER give out your email address or name to anyone else, unless required by law.</p><p>We hate SPAM as much as anyone else, so we try to keep our emails to a minimum. You can expect to receive 1 email per month from us. (Holiday season Nov/Dec we may send up to 3 a month)</p><p>If at anytime, you wish to UNSUBSCRIBE from our email list, you will find an 'unsubscribe' link at the foot of our email newsletter.</p><p>When you place a order with us we collect your personal information such as name, address and credit card details so we can charge your account &amp; deliver your purchase. Your Credit Card information is stored in an encrypted form &amp; we do not keep the whole number, only part of it to help with fraud prevention. Not even our staff can access your credit card information.&nbsp;</p><p>We keep a record of your purchase to provide warranty support. If you have a warranty issue, we know exactly when &amp; what you purchased so we can provide a fast and efficient replacement, repair or refund. Our customers satisfaction is top priority.</p><p>If you have any questions or comments about your security or privacy, please contact watches@tokyoflash.com</p>
-</div>
+  <div class="row">                <div id="content" class="col-sm-12">      <h2>Privacy Policy</h2>
+      <p><span style="font-size: 14px; font-weight: bold;"><br></span></p>
+<p><span style="font-size: 14px; font-weight: bold;">Tokyoflash Japan Privacy Policy</span></p>
+<p><br>Effective date: May 24, 2018</p>
+<p>This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from www.tokyoflash.com (the “Site”).</p>
+<p><br></p>
+<p><span style="font-size: 14px; font-weight: bold;">SECURITY</span></p>
+<p>Our dedicated server uses High-Grade 256 bit SSL Encryption to protect your information. The highest level possible. To view our security certificate please click on the Padlock icon in your browser.</p>
+<p>Once you enter the Checkout page to make payment, enter the Registration page to create an account or view this Security policy page your connection to our website will become encrypted. You can verify this by checking that the URL in your browser starts with HTTPS and that you can see the Padlock icon in the corner of your browsers window.<br></p>
+<p><br></p>
+<p><span style="font-weight: bold; font-size: 14px;">PERSONAL INFORMATION WE COLLECT</span></p>
+<p>When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”<br></p>
+<p>We collect Device Information using the following technologies:</p>
+<p>&nbsp; &nbsp; - “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.</p>
+<p>&nbsp; &nbsp; - “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.</p>
+<p>&nbsp; &nbsp; - “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.</p>
+<p>Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers, email address, and phone number. Optional information you can provide includes your fax number and company name. We refer to this information as “Order Information.”<br></p>
+<p>Payment information collected is stored and protected by our payment processor 2Checkout (www.2checkout.com).<br></p>
+<p>When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.<br></p>
+<p><br></p>
+<p><span style="font-weight: bold; font-size: 14px;">HOW DO WE USE YOUR PERSONAL INFORMATION?</span></p>
+<p>We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:</p>
+<p>Communicate with you;<br></p>
+<p>Screen our orders for potential risk or fraud; and<br></p>
+<p>When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.<br></p>
+<p>We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).<br></p>
+<p><br></p>
+<p><span style="font-weight: bold; font-size: 14px;">SHARING YOUR PERSONAL INFORMATION</span></p>
+<p>We share your Personal Information with third parties to help us use your Personal Information, as described above. We use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.</p>
+<p>Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.</p>
+<p><br></p>
+<p><span style="font-weight: bold; font-size: 14px;">DO NOT TRACK</span></p>
+<p>Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.</p>
+<p><br></p>
+<p><span style="font-size: 14px; font-weight: bold;">YOUR RIGHTS</span></p>
+<p>If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.</p>
+<p>Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.</p>
+<p><br></p>
+<p><span style="font-weight: bold; font-size: 14px;">DATA RETENTION</span></p>
+<p>When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.</p>
+<p><br></p>
+<p><span style="font-size: 14px; font-weight: bold;">MINORS</span></p>
+<p>The Site is not intended for individuals under the age of 16.</p>
+<p><br></p>
+<p><span style="font-size: 14px; font-weight: bold;">CHANGES</span></p>
+<p>We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.</p>
+<p><br></p>
+<p><span style="font-size: 14px; font-weight: bold;">CONTACT US</span></p>
+<p>For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at <span style="font-weight: bold;">watches@tokyoflash.com</span> or by mail using the details provided below:</p>
+<p>201 Isola Hatanodai A, 6-16-23 Hatanodai, Shinagawa, Tokyo, 142-0064, Japan.</p></div>
     </div>
 </div>
 <script type="text/javascript">
@@ -177,6 +316,9 @@ jQuery(document).ready(function() {
 });
 */
 </script>
+
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/awesomenewsletter.css">
+			
 <footer>
   <div class="container footerdivs">
     <div class="row">
@@ -185,7 +327,7 @@ jQuery(document).ready(function() {
        <div class="col-sm-4">
          <span class="footer-heading">Follow </span><br><br>
          <p class="contactbase">Follow Tokyoflash Japan on these social <br>media channels:</p>
-        <ul class="list-unstyled footer">
+        <ul class="list-unstyled social">
         <p>
           <a target="_blank" href="http://www.facebook.com/tokyoflashjapan/"><i class="fa fa-facebook" aria-hidden="true"></i></a>
           <a target="_blank" href="http://www.twitter.com/tokyoflashjapan/"><i aria-hidden="true" class="fa fa-twitter"></i></a> 
@@ -205,17 +347,71 @@ jQuery(document).ready(function() {
       We respond ASAP.</p>
       </div>
  <div class="col-sm-4">
-          <span class="footer-heading">Sign Up</span><br><br>
-       <p class="contactbase">Want exclusive offers and first access to new products? Sign up for the newsletter!</p>
-       <div id="advanced-newsletter-box">
-  <div id="mail-box" class="input-group box-newsletter-subscribe">
-        <input type="text" placeholder="Your Email Address" name="email">
-        <span class="input-group-btn">
-        <button type="button" class="btn btn-default enter-subscribe">+</button>
-        </span>
-    </div>
-</div>
-      </div>
+	 
+	<div id="newsletterFooterModule0" class="newsletterFooterModule">
+		<div id="subsribe">	
+			<div id="successmsg"></div>
+			 <span class="footer-heading">Sign Up</span><br><br>
+			 <p class="contactbase">Want exclusive offers and first access to new products? Sign up for the newsletter!</p>		
+						<div class="input-group newsletter">
+				<input type="text" name="email" id="input-newsletter-email" class="fem form-control" value="" placeholder="Enter your email address">
+				<div class="input-group-btn">
+					<button id="button-subsribe" type="button" class="btn"><i class="fa fa-angle-right"></i> </button>
+				</div>
+			</div>
+						
+		</div>
+	</div>
+<script type="text/javascript">
+$('#newsletterFooterModule0 #button-subsribe').on('click', function() {
+	$.ajax({
+		url: 'index.php?route=module/awesomenewsletter/addsubscribe',
+		type: 'post',
+		data: $('#newsletterFooterModule0 #subsribe input[type=\'text\']'),
+		dataType: 'json',
+		beforeSend: function(){
+// 			$('#newsletterFooterModule0 #button-subsribe').button('loading');
+		},
+		complete: function(){
+// 			$('#newsletterFooterModule0 #button-subsribe').button('reset');
+		},
+		success: function(json){
+			$('.text-danger').parent().removeClass('has-error');
+			$('.alert, .text-danger').remove();
+			$('#newsletterFooterModule0 #successmsg').html('');
+			
+			if(json['error']) {
+				if(json['error']['email']) {
+					$('#newsletterFooterModule0 #input-newsletter-email').parent().after('<div class="text-left text-danger">' + json['error']['email'] + '</div>');
+					
+					$('.text-danger').parent().addClass('has-error');
+				}
+				
+				if(json['error']['name']) {
+					$('#newsletterFooterModule0 #input-newsletter-name').parent().after('<div class="text-left text-danger">' + json['error']['name'] + '</div>');
+					$('.text-danger').parent().addClass('has-error');
+				}
+			}
+			
+			if(json['success']){
+				$('#newsletterFooterModule0 #input-newsletter-email').parent().after('<div class="text-left text-success">' +  json['success'] + '</div>');	
+				setTimeout(function(){
+					$('.text-success').remove();
+				}, 2000);
+				
+				$('#newsletterFooterModule0 #subsribe input[type=\'text\']').val('');
+			}
+			
+			if(json['warring']) {
+				$('#newsletterFooterModule0 #successmsg').html('<div class="alert alert-danger">' + json['warring'] + '<button type="button" class="close" data-dismiss="alert">&times;</button></div>');
+			}
+			
+		}
+	});
+});
+</script>
+
+  </div>
       
 
      <!---- <div class="col-sm-3">
@@ -259,13 +455,16 @@ jQuery(document).ready(function() {
         <span class="footer-heading">Information</span><br><br>
         <ul class="list-unstyled fontstyle">
                                             <li><a href="https://www.tokyoflash.com/en/about">About</a></li>
-                                  <li><a href="https://www.tokyoflash.com/en/privacy">Privacy &amp; Security</a></li>
+                                  <li><a href="https://www.tokyoflash.com/en/privacy">Privacy Policy</a></li>
                                   <li><a href="https://www.tokyoflash.com/en/terms">Terms &amp; Conditions</a></li>
                     </ul>
       </div>
           </div>
+    <div class="payment-methods">
+	    <img src="image/catalog/payment_method.png" alt="Payment Methods" class="img-responsive">
+    </div>
     <hr>
-    <p align="center" class="copyright">Copyright 2017 Tokyoflash Japan</p> 
+    <p align="center" class="copyright">Copyright 2018 Tokyoflash Japan</p> 
   </div>
 </footer>
 
@@ -286,21 +485,18 @@ $(document).ready(function(){
 */
 
 
-//Disable non-english characted in Payment/Shipping addresses during checkout.
-$('#payment_address, #shipping_address, .account-register').on('change','input[type="text"]', function(){
+//Disable non-english characters in Payment/Shipping addresses during checkout.
+$('#payment_address, #shipping_address, .account-register').on('change keyup paste','input[type="text"]', function(){
 	var str = $(this).val();
 	str = str.replace(/[^\x00-\x7F]/g, "");
+/*
 	if (str !=  $(this).val()){
 		alert('Sorry, only english characters are allowed.');
 	}
-	$(this).val(str);
+*/
+// 	$(this).val(str);
 });
 
 });
- new AdvancedNewsletter({
-        container_id: '#advanced-newsletter-box',
-        input_id: 'input[name=email]',
-        submit_id: '.enter-subscribe'
-    });
   </script> 
  </body></html>
