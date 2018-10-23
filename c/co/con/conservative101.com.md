@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conservative101.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623165051id_/http%3A//conservative101.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservative101.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023143449id_/http%3A//conservative101.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Conservative 101
 
