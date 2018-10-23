@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiobookstore.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617172004id_/https%3A//audiobookstore.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiobookstore.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023064745id_/https%3A//audiobookstore.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # AudiobookStore.com Privacy Policy | Download Audiobooks from your favorite Authors today!
 
