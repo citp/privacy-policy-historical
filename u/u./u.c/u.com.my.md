@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the u.com.my privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204110136id_/http%3A//u.com.my/tnc/227) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u.com.my privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023042127id_/https%3A//www.u.com.my/tnc/227) for the most accurate reproduction.*
 
 # Policies, Terms & Conditions | U Mobile
 
