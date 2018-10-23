@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the runningwarehouse.com privacy policy that was archived on 2018-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180407134852id_/http%3A//www.runningwarehouse.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runningwarehouse.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023074506id_/https%3A//www.runningwarehouse.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Running Warehouse
 
-## Last Updated: 3-15-17
+Last Updated: 3-15-17
 
-### Privacy Policy Overview
-
-Running Warehouse, LLC ("RW," "us" or "we") respects your privacy and is committed to protecting it through our compliance with this Privacy Policy ("Policy"). This Policy describes the types of information we may collect from you or that you may provide when you access or use the website www.runningwarehouse.com (the "Website"), or the related products, content, activities, features and services available on or through the Website (the "Service(s)"), and our practices for collecting, using, maintaining, protecting, and disclosing that information. 
+Running Warehouse, LLC ("RW," "us" or "we") respects your privacy and is committed to protecting it through our compliance with this Privacy Policy ("Policy"). This Policy describes the types of information we may collect from you or that you may provide when you access or use the website www.runningwarehouse.com (the "Website"), or the related products, content, activities, features and services available on or through the Website (the "Service(s)"), and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
 In this Policy, "personal information" means any information by which you can be identified or contacted, such as your name (first and last), mailing, billing or other physical address, email address, telephone number, billing information, third party payment information (i.e., PayPal), as well as any similar identifying information or information associated with the foregoing.
 
@@ -14,17 +12,11 @@ This Policy applies to information we collect on this Website; in email, text an
 
 Please read this Policy carefully to understand our policies and practices regarding your information and how we will use and treat it. If you do not agree with the terms of this Policy or our Terms of Use posted on the Website, which are expressly incorporated herein by reference and made a part of this Policy, your sole remedy is to discontinue your use of the Website and Services. By accessing or using the Website or Services, you agree to this Policy, which may change from time to time. Your continued use of the Website and Services after we make any changes to this Policy is deemed to be acceptance of those changes, so please check the Policy periodically for updates. We will also endeavor to alert you to any changes to the Policy, but we do this as a courtesy and not as a condition to your being bound by any new terms.
 
-### U.S. Governing Law
-
 The Website is designed for and targets U.S. audiences, and is governed by and operated in accordance with the laws of the United States. We make no representation that the Website and Services are operated in accordance with the laws or regulations of, or governed by, other nations, and we do not warrant or imply that the Website and Services are appropriate for use outside of the United States. By using the Website or Services, you certify that you meet the age and other eligibility requirements set forth in our Terms of Use. If you do not meet such age and other eligibility requirements, please discontinue using the Website and Services immediately, as your continued use indicates that you are agreeing to the collection, use, disclosure, management and storage of your information as described in this Policy. 
 
 If you are located outside of the United States, you use the Website and Services at your own risk and initiative, and you are solely responsible for compliance with any applicable local, national and international laws. By using the Website and/or Services and/or providing us with any information, you: (a) consent to the transfer and processing of any information to and within the U.S., (b) acknowledge that U.S. law may provide a lower standard of protection for personal data than the laws of your location and/or residence, and (c) understand that we will collect, transfer, store, process, manage and/or handle your information in accordance with this Policy and U.S. law. Consequently, to the fullest extent permitted by law, you hereby waive any claims relating to the processing of your information in accordance with this Policy that may arise under the laws and regulations of any other country or jurisdiction.
 
-### Children Under the Age of 13
-
 The Website and Services are not intended for children under 13 years of age. We do not knowingly collect personal information from children under the age of 13. If you are under the age of 13, do not use or provide any information on the Website or Services, make any purchases through the Website, use any of the interactive or public comment features of the Website or Services, or provide any information about yourself to us, including your name, address, telephone number, email address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under the age of 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under the age of 13, please contact us at 805-540-7999.
-
-### Information We Collect About You and How We Collect It
 
 User-Provided Information: You may be required to provide personal information to access or use certain parts of the Website or Services including, without limitation, when you place an order or make a purchase, chat with a specialist, subscribe to a newsletter or email list, fill out a form or survey, participate in any of our programs, special events or promotions such as contests, sweepstakes or surveys, submit an employment application, contact us with a comment, testimonial, question or complaint, or report a problem with the Website or Services. If you do not provide the requested personal information, you may not be able to access or use certain features of the Website or Services. 
 
@@ -42,8 +34,6 @@ Log File Information: Log file information is automatically reported by your bro
 
 Clear Gifs Information: When you use the Website or Services, we may employ clear gifs (a.k.a. Web Beacons) which are used to track the online usage patterns of our users anonymously. No personal information from your account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make the Website better for our users. 
 
-### How We Use Your Information
-
 We use information that we collect about you or that you provide to us, including any personal information:
 
   * To provide the products, services, features, programs, content and information you request.
@@ -57,7 +47,7 @@ We use information that we collect about you or that you provide to us, includin
   * To compare and review your personal information for errors, omissions and accuracy.
   * To prevent, detect or investigate any fraudulent, abusive or illegal act.
   * In any other way we may describe at or around the time you provide the information.
-  * For any other purpose with your consent. 
+  * For any other purpose with your consent.
 
 
 
@@ -69,9 +59,7 @@ User Content: Any personal information or content you voluntarily disclose for p
 
 RW reserves the right, but has no obligation, to monitor the User Content you post on the Website. RW has the right to remove any such information or material for any reason or no reason including, without limitation, if RW determines in its sole opinion that such information or material violates or may violate any applicable law or our Terms of Use, or to protect or defend RW's rights or property or those of any third party. RW also reserves the right to remove information upon the request of any third party.
 
-RW may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes that include but are not limited to analyzing how the Website and Services are used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions. 
-
-### How We Share Your Information
+RW may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes that include but are not limited to analyzing how the Website and Services are used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions.
 
 Personally Identifiable Information: In certain circumstances, we may share your personal information with our trusted partners. 
 
@@ -91,25 +79,15 @@ RW may allow other companies, called third party ad servers or ad networks, to s
 
 RW does not provide any personally identifiable information to these third party ad servers or ad networks without your consent. However, please note that if an advertiser asks RW to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. You should consult the respective privacy policies of these third party ad servers or ad networks. This Policy does not apply to, and we cannot control the activities of, such advertisers. 
 
-### How We Protect Your Information
-
 RW uses commercially reasonable ethical, physical, managerial, and technical safeguards to preserve the integrity and security of your personal information consistent with industry standards. For example, we use encryption, passwords, and physical security measures to help protect your personal information against unauthorized access and disclosure. The security of your personal information is important to us, but please remember that no method of transmission over the Internet or method of electronic storage is ever 100% secure. While we strive to use commercially reasonable means to protect your personal information, we cannot ensure or warrant the absolute security of any information you transmit to RW or the Website or Services, and you do so at your own risk. When RW receives a transmission of personally identifying information from you, RW makes commercially reasonable efforts to ensure the security of such information on our systems. However, please note that this is not a guarantee that such information will not be accessed, disclosed, altered, or destroyed by breach of any of our ethical, physical, technical, or managerial safeguards. While we strive to protect your personal information and privacy, we cannot guarantee the security of any information you disclose online. 
 
-### Compromise of Personal Information
-
 In the event that personal information is compromised as a result of a breach of security, RW will notify those persons whose personal information has been compromised as soon as practicable, in accordance with the notification procedures set forth in this Policy, or as otherwise required by applicable law.
-
-### Links to Other Websites and Social Media
 
 We are not responsible for the practices employed by websites linked to or from the Website nor the information or content contained therein, and we make no warranty, either express or implied, concerning the content of any such site, including the accuracy, completeness, reliability, or suitability thereof for any particular purpose, nor do we warrant that any such site or its content is free from any claims of copyright, trademark, or other infringement of the rights of third parties, or that any such site or its content is devoid of viruses or other contamination. RW may provide links to other websites to you solely as a convenience, and the inclusion of linked sites does not imply endorsement by RW of any of the linked sites. Please remember that when you use a link to go from the Website to another website, our Policy is no longer in effect. Your browsing and interaction on any other website, including those that are linked to the Website, is subject to that other website's own rules and policies. Please read over the other website's rules and policies before proceeding. We do not ensure the security of your personal information if you visit websites not belonging to RW. We further reserve the right to terminate a link to a third party site at any time.
 
 We sometimes use content on the Website or Services that we obtain from third party sites or social media platforms such as Facebook, Instagram, YouTube, Twitter, LinkedIn and Pinterest. The privacy protections provided on these third party sites and social media platforms are not part of our Policy and may differ from the privacy protections described in this Policy. If you upload content related to RW or our Services on third party sites or social media platforms or sites that share information with the general public, user community, and/or other third party sites, it may be used or shared by us on the Website or our social media pages and accounts to promote our products and services. Consequently, you should review the privacy policies of these third party sites before using them and ensure that you understand how your content may be used. 
 
-### Notification Procedures
-
 It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business-related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on the Website, as determined by RW in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Policy.
-
-### Your Choices, Opting Out and Reviewing or Making Changes to Your Information
 
 By providing your email address to RW, you consent to our use of such email address to send you Website and service related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages including, but not limited to, newsletters, payment information, credit card update notifications, account status, legal updates, changes to features of the Website or Services, product updates, special offers or promotions, or other account information. 
 
@@ -119,23 +97,13 @@ To the extent you are receiving SMS Messaging from RW, you may opt out by replyi
 
 You can ask to review, update or make changes to the personal information we maintain about you at any time by sending a written request to the postal or email address set out below. We may take a reasonable period of time to respond. If you request the deactivation or change of information on our system, such information may be retained in our backup systems for a period of time subject to technology restrictions, or as a precaution against systems failures. Some information may be retained for longer periods as required by law, contract or auditing requirements, or as otherwise described in this Policy. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
-### Changes to Our Privacy Policy
-
 It is our policy to post any changes we make to this Policy on this page. The date the Policy was last revised is identified at the top of this page. You are responsible for ensuring we have an up-to-date, active and deliverable email address for you, and for periodically visiting the Website and this Policy to check for any changes.
-
-## IMPORTANT INFORMATION FOR CALIFORNIA RESIDENTS 
-
-### Your California Privacy Rights
 
 California Civil Code Section 1798.83 permits users of the Website that are California residents to request and obtain from us a list of what personal information (if any) we have shared with third parties or corporate affiliates for those entities' direct marketing purposes in the preceding calendar year, and the names and addresses of those third parties. Requests may be made only once a year and are free of charge. 
 
 If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 181 Suburban Road, San Luis Obispo, CA 93401. For all requests, you must put the statement "California Privacy Rights Notice" in the body of your request, as well as your name, street address, city, state, and zip code. You also need to attest to the fact that you are a California resident and provide a current California address for our response. Please note that we will not accept requests via telephone, email or facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not contain complete information.
 
-### California Do Not Track Disclosures
-
-California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how a website operator responds to "Do Not Track" (DNT) browser settings. DNT is a feature offered by some browsers which, when enabled, sends a signal to websites to request that your browsing is not tracked, such as by third party ad networks, social networks and analytic companies. We do not currently take actions to respond to DNT signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a DNT standard once one is created. For information about DNT, please visit: [www.allaboutdnt.org](https://web.archive.org/web/20180407134852id_/http%3A//www.runningwarehouse.com/www.allaboutdnt.org).
-
-## Contact Us
+California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how a website operator responds to "Do Not Track" (DNT) browser settings. DNT is a feature offered by some browsers which, when enabled, sends a signal to websites to request that your browsing is not tracked, such as by third party ad networks, social networks and analytic companies. We do not currently take actions to respond to DNT signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a DNT standard once one is created. For information about DNT, please visit: [www.allaboutdnt.org](https://web.archive.org/web/20181023074506id_/https%3A//www.runningwarehouse.com/www.allaboutdnt.org).
 
 If you have any questions about this Policy, the practices of the Website or your dealings with the Website, or if you wish to update your preferences, you may contact us using one of the following methods:
 
