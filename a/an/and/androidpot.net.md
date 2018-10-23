@@ -1,33 +1,42 @@
-> *The following text is extracted and transformed from the androidpot.net privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104104051id_/http%3A//www.androidpot.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidpot.net privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023150341id_/https%3A//apkbucket.net/privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy - AndroidPot - Free Apps and Games (APK Download) for Android
+# Privacy Policy | APKBucket
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support@androidpot.net.
+Here at APKBucket, your privacy is our top priority. On this page, you will find detailed information about how APKBucket (“we”, “our”, or “us”) collects, stores, and/or uses the information provided to us. If your privacy concerns are not addressed below, please use the Contact Us form or send an email to contact@APKBucket.com. 
 
-At www.androidpot.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.androidpot.net and how it is used.
+  
 
-**Log Files**
 
-Like many other Web sites, www.androidpot.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+### INFORMATION WE COLLECT AND USE
 
-**Cookies and Web Beacons**
+**Email:** Developers are required to provide a valid email address to create an account on APKBucket. Though we collect your email, it is safe with us. We do not sell or share your email with third parties. Occasionally, we may send emails regarding your account activities, website promotions and website news. You may opt-out of these emails at any time from your account portal.
 
-www.androidpot.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+APK Files: We collect APK files in two ways. First, Developers may submit APK files directly to us for inclusion on the APKBucket site. These APK files are stored on a secured server, and are tested for malicious code before they are made available for general download. Second, our ‘APK Downloader’ pulls APK files directly from the Google Play marketplace. These APK files are also stored on our secured server. As they are downloaded from Google Play in their original, unmodified format, we consider these files secure.
 
-**DoubleClick DART Cookie**
+  
 
-.:: Google, as a third party vendor, uses cookies to serve ads on www.androidpot.net.
 
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.androidpot.net and other sites on the Internet.
+### COOKIE POLICY
 
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+“Cookies” are small text files stored on your computer or mobile device, designed to uniquely identify your browser when you view a website. We use two types of cookies on APKBucket:
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense.
+**Google AdSense** We serve Google AdSense ads on our website. These ads store information on your computer in the form of a DoubleClick cookie. By viewing the ads as you browse the APKBucket website, you agree to allow Google to track information about your general activities and interests, and show you advertisements based on this information.  
+Personally identifiable information is never collected by DoubleClick cookies. Only non-private information is collected and used. It is important to note that APKBucket does not have any access to the information collected by DoubleClick cookies.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.androidpot.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+**Our Own:** We store cookies on your computer to improve and personalize your site experience. The use of cookies enables us to recommend apps based on your preferences. We also use cookies to personalize Developer account options.
 
-www.androidpot.net has no access to or control over these cookies that are used by third-party advertisers.
+**Comment Policy:** As your privacy is important to us, we do not allow the inclusion of personally identifiable information in comments. This includes email addresses, full names, physical addresses, and credit card information. By leaving comments on our site, you agree to this policy. We reserve the right to deactivate user accounts that repeatedly violate this policy.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.androidpot.net’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+  
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+### PRIVACY POLICY CHANGES
+
+From time to time, APKBucket may need to make changes or otherwise adjust this privacy policy in accordance with website practices. A “last modified” date, located at the bottom of this page, will accompany all updates. Please check this page periodically for any changes.
+
+  
+
+
+* * *
+
+_Last modified on: Dec 09, 2016_
