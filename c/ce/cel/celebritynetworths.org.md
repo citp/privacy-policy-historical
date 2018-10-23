@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the celebritynetworths.org privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015133844id_/http%3A//celebritynetworth.wiki/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritynetworths.org privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023071219id_/https%3A//networthpost.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Celebrity Net Worth
+# Privacy Policy - Net Worth Post
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site. The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -18,7 +18,7 @@ This Website contains links to other sites. Please be aware that we are not resp
 
 ## Advertisers
 
-We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, we do not have access to this information. We work with the ad companies: Google Adsense. Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/).
+We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, we do not have access to this information. We work with the ad companies: Google Adsense. Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/policies/privacy/ads/).
 
 ## Legal Disclaimer
 
@@ -30,4 +30,4 @@ Whenever we change our privacy policy, we will post those changes to this Privac
 
 ## Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please [contact us](http://celebritynetworth.wiki/contacts/).
+If users have any questions or suggestions regarding our privacy policy, please [contact us](https://networthpost.org/contacts/).
