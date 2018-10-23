@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lloydspharmacy.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609001839id_/http%3A//www.lloydspharmacy.com/en/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lloydspharmacy.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023080503id_/https%3A//www.lloydspharmacy.com/en/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LloydsPharmacy
 
@@ -16,7 +16,7 @@ As a provider of services to the National Health Service, LloydsPharmacy Limited
 
 The publication scheme is a complete guide to the information routinely made available to the public by LloydsPharmacy Limited. It is a description of the classes of information about our pharmacists and pharmacies which we make publicly available. 
 
-[_Please click here for our Publication Scheme Guide to Information which is made under the Freedom of Information Act 2000._](https://web.archive.org/wcsstore7.00.00.648/LloydsPharmacy/Attachment/Customer%20Service%20Info/Lloyds%20Pharmacy%20Publication%20Scheme%20Guide%20to%20Information%20\(England\).pdf)[ _Please click here for our Publication Scheme which is made under the Freedom of Information (Scotland) Act 2002._](http://www.itspublicknowledge.info/YourRights/YourRights.aspx)
+[_Please click here for our Publication Scheme Guide to Information which is made under the Freedom of Information Act 2000._](https://web.archive.org/wcsstore7.00.00.727/LloydsPharmacy/Attachment/Customer%20Service%20Info/Lloyds%20Pharmacy%20Publication%20Scheme%20Guide%20to%20Information%20\(England\).pdf)[ _Please click here for our Publication Scheme which is made under the Freedom of Information (Scotland) Act 2002._](http://www.itspublicknowledge.info/YourRights/YourRights.aspx)
 
 ###### The personal data we collect 
 
@@ -47,7 +47,7 @@ For further information on cookies and how to switch them off see
 
 [_www.allaboutcookies.org._](http://www.allaboutcookies.org/)
 
-###### How We Will Use Your Information
+###### How we will use your Information
 
 All personal information, including where carts are abandoned and where personal information is obtained about you and/or any other person whose details you provide will be recorded, used, and protected by us in accordance with current data protection legislation, our Terms and Conditions and this Privacy Policy.
 
@@ -73,9 +73,47 @@ We would like to contact you and/or any person whose information you provide to 
 
 Details of how to opt-in to receiving details of offers are on relevant pages of this website. You can change your/their mind at any time (see the section "How to contact us" below). 
 
+###### Disclosure of your Personal Data
+
+There are circumstances where we wish to disclose or are compelled by law to disclose your personal data to third parties. This will only take place in accordance with the applicable law and for the purposes listed above. These scenarios include disclosure to: 
+
+  * our subsidiaries, branches or associated offices;
+  * our Group companies who may contact you by email, phone or post about other products and services (including those from other organisations) in which you may be interested (where you have consented to such communication);
+  * manufacturers, including those identified on our Website, who have a relationship or contract with you for the purposes of providing rebates on the Goods you buy from our managed stocks;
+
+
+
+our outsourced service providers or suppliers to facilitate the provision of our products and/or services to you, for example: 
+
+  * our panel of medical experts, printing companies and mailing houses;
+  * manufacturers of the Goods in the efforts to understand customer preferences, ensure satisfactory stock levels, to improve products and services and to calculate any volume discounts or rebates which may be applicable to your account;
+  * our data centre provider for the safe keeping of your personal data, webhosting provider through which your personal data may be collected; and
+  * identity verification partners in order to verify your identity against public databases;
+  * in these circumstances, we will ensure that your personal data is properly protected and that it is only used in accordance with this Privacy Policy;
+  * our nominated third party credit agencies to derive a credit score which will be applied to managing your account. We may also carry out credit checks with licensed credit agencies on your guarantors (if applicable). A record of the search may be kept by us and the agencies;
+  * buying groups of which you are a member, in order to communicate with them on the orders you have placed;
+  * our advertising partners who enable us to deliver personalised ads to your devices or similar advertising;
+  * subject to your consent, to our marketing partners, who may contact you by post, email, telephone, SMS or by other means. If you do not wish to be contacted, you may unsubscribe by clicking “unsubscribe” in the message concerned;
+  * analytics and search engine providers that assist us in the improvement and optimisation of our Website. Your personal data is generally shared in a form that does not directly identify you;
+  * third party service providers and consultants in order to protect the security or integrity of our business, including our databases and systems and for business continuity reasons;
+  * another legal entity, on a temporary or permanent basis, for the purposes of a joint venture, collaboration, financing, sale, merger, reorganisation, change of legal form, dissolution or similar event. In the case of a merger or sale, your personal data will be permanently transferred to a successor company;
+  * public authorities where we are required by law to do so;
+  * if required, in order to receive legal advice; and
+  * any other third party where you have provided your consent.
+
+
+
 ###### Security
 
 We take the security of personal information seriously. We employ security technology, including firewalls, and Secure Socket Layers to safeguard information and have procedures in place to ensure that our paper and computer systems and databases are protected against unauthorised disclosure, use, loss and damage. 
+
+###### Retention of Personal Data
+
+Your personal data will be retained until your last use of our services and normally for a period of three years thereafter, unless longer retention is required by applicable local law or where we have a continued legitimate and lawful purpose to do so. However, we will not retain beyond this period any of your personal data that is no longer required for the purposes set out in this Privacy Policy. The retention of your personal data will be subject to periodic review. We may keep an anonymised form of your personal data, which will no longer refer to you, for statistical purposes without time limits, to the extent that we have a legitimate and lawful interest in doing so. 
+
+###### International Transfer of Personal Data
+
+We may transfer your personal data to a third party in countries outside the country in which it was originally collected for further processing in accordance with the purposes set out above. In particular, your personal data may be transferred throughout our Group and to our outsourced service providers located abroad. In these circumstances we will, as required by applicable law, ensure that your privacy rights are adequately protected by appropriate technical, organisation, contractual or other lawful means. For a copy of the safeguards which we have put in place to protect your personal data and privacy rights in these circumstances, see the contact details below. 
 
 ###### Updating and Correcting Information
 
