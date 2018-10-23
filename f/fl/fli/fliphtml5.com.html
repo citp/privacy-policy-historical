@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fliphtml5.com privacy policy that was archived on 2018-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180612130219id_/http%3A//fliphtml5.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fliphtml5.com privacy policy that was archived on 2018-10-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181023065506id_/http%3A//fliphtml5.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,7 +8,7 @@
 <meta name="description" content="The information about our privacy policy, the activities at our site are safe!">
 <meta name="keywords" content="Privacy Policy, FlipHTML5">
 
-<link rel="icon" href="http://fliphtml5.com/favicon.ico" type="image/x-icon">
+<link rel="icon" href="//fliphtml5.com/favicon.ico" type="image/x-icon">
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20170921015408/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="js/jquery-1.10.2.min.js"></script>
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="Content-Language" content="en"><meta name="viewport" content="width=device-width, initial-scale=1"><link type="text/css" rel="stylesheet" href="/css/build/build.min.css">
@@ -41,7 +41,7 @@
         protocol: document.domain.match(/fliphtml5/) ? "https://" : "http://",
         templateId : 0,
         themeId: 0,
-        header: "http://stat.fliphtml5.com",
+        header: "//newstat.fliphtml5.com",
         hashKey: "fliphtml5",
         session_output: "",
         config_output_limit: "0",
@@ -54,7 +54,9 @@
         session_paypal: "",
         session_registrationDate: "",
         primaryAccountId:"",
-        accountlogoUrl: "http://online.fliphtml5.com//"
+        accountlogoUrl: "http://online.fliphtml5.com//",
+        quickUploadLink: "/login.php?register",
+        isUnActivate: "1" == '0' && "1" == '0'
 
     };
 
@@ -84,7 +86,7 @@
     window._pt_lt = new Date().getTime();
     window._pt_sp_2 = [];
     _pt_sp_2.push('setAccount,51ea57ca');
-    var _protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    var _protocol = (("https:" == document.location.protocol) ? " https://" : " //");
     (function() {
         var atag = document.createElement('script'); atag.type = 'text/javascript'; atag.async = true;
         atag.src = _protocol + 'js.ptengine.cn/51ea57ca.js';
@@ -238,7 +240,7 @@
         </li>
 
         <li class="cc-top-item hidden-xs">
-            <a class="cc-parent-link" href="/explore">Explore </a>
+            <a class="cc-parent-link" href="/exploring">Explore </a>
         </li>
 
        <!--  <li class="cc-top-bar-explore cc-top-item cc-has-sub-menu hidden-sm hidden-xs">
@@ -248,13 +250,13 @@
 
             <ul class="cc-sub-menu">
             <li>
-                    <a href="/explore">
+                    <a href="/exploring">
                         <div class="cc-sub-menu-item">
                             <i class="fa fa-rocket"></i>&nbsp;&nbsp;Explore Hot                        </div>
                     </a>
                 </li>
                 <li>
-                    <a href="/explore?#latest">
+                    <a href="/exploring?#latest">
                         <div class="cc-sub-menu-item">
                             <i class="fa fa-cloud"></i>&nbsp;&nbsp;Latest Flips                        </div>
                     </a>
@@ -348,12 +350,12 @@
                 </div>
                 <ul class="dropdown-menu">
                     <li>
-                        <a href="/explore">
+                        <a href="/exploring">
                             <div class="cc-container second-item">Explore Hot</div>
                         </a>
                     </li>
                     <li>
-                        <a href="/explore#latest">
+                        <a href="/exploring#latest">
                             <div class="cc-container second-item">Latest Flips</div>
                         </a>
                     </li>
@@ -365,7 +367,7 @@
                 </ul>
             </li> -->
             <li class="cc-hide-top-bar-item hidden-lg hidden-md hidden-sm">
-                <a href="/explore">
+                <a href="/exploring">
                     <div class="cc-container first-item">Explore</div>
                 </a>
             </li>
@@ -516,7 +518,7 @@
         if ($searchInputVal != "") {
             queryStr = "?q=" + $searchInputVal;
         }
-        location.href = "/explore" + queryStr + "#latest";
+        location.href = "/exploring" + queryStr + "#latest";
     }
 
     $searchInput.onkeypress = function(e) {
@@ -531,6 +533,7 @@
 
     $login.onclick = function() {
         location.href = "/login.php"
+        // location.href = "/login.php?register"
     }
 
     $signUp.onclick = function() {
@@ -614,10 +617,10 @@
                             <a href="/blog.php">Blog</a>
                         </li>
                         <li>
-                            <a href="/explore?#latest">Explore Lastest</a>
+                            <a href="/exploring?#latest">Explore Lastest</a>
                         </li>
                         <li>
-                            <a href="http://focusky.com/" target="_blank">Presentation Software</a>
+                            <a href="//focusky.com/" target="_blank">Presentation Software</a>
                         </li>
                     </ul>
                 </div>
@@ -679,12 +682,12 @@
                     <p>Download</p>
                     <div class="ff-bottom-download-content">
                         <p>Try FlipHTML5 free and experience increased efficiency and productivity</p>
-                        <a href="http://fliphtml5.com/download/flip-html5.zip" onclick="ga('send', 'event', 'Download', this.href, document.location.pathname);" rel="nofollow">
+                        <a href="//fliphtml5.com/download/flip-html5.zip" onclick="ga('send', 'event', 'Download', this.href, document.location.pathname);" rel="nofollow">
                             <div class="ff-bottom-download-btn">
                                 <i class="fa fa-download"></i><span>&nbsp;&nbsp;Download For Windows</span>
                             </div>
                         </a>
-                        <a href="http://fliphtml5.com/download/fliphtml5.zip" onclick="ga('send', 'event', 'Download', this.href, document.location.pathname);" rel="nofollow">
+                        <a href="//fliphtml5.com/download/fliphtml5.zip" onclick="ga('send', 'event', 'Download', this.href, document.location.pathname);" rel="nofollow">
                             <div class="ff-bottom-download-btn">
                                 <i class="fa fa-download"></i><span>&nbsp;&nbsp;Download For Mac</span>
                             </div>
@@ -752,10 +755,10 @@
                         <a href="/blog.php">Blog</a>
                     </li>
                     <li>
-                        <a href="/explore?#latest">Explore Lastest</a>
+                        <a href="/exploring?#latest">Explore Lastest</a>
                     </li>
                     <li>
-                        <a href="http://focusky.com/" target="_blank">Presentation Software</a>
+                        <a href="//focusky.com/" target="_blank">Presentation Software</a>
                     </li>
                 </ul>
             </div>
@@ -795,13 +798,16 @@
                     <li>
                         <a href="/community/">Community</a>
                     </li>
+                    <li>
+                        <a href="/dmca-policy.php">DMCA Policy</a>
+                    </li>
                 </ul>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-10 col-xs-offset-2 col-sm-offset-0">
                 <h4>Download</h4>
                 <p class="download-desc">Try FlipHTML5 free and experience increased efficiency and productivity</p>
-                <a class="window-download" href="http://fliphtml5.com/download/flip-html5.zip" onclick=" if (typeof ga == 'function') { ga('send', 'event', 'Download', this.href, document.location.pathname); }" rel="nofollow"><span class="download-icon"></span>Download For Windows</a>
-                <a class="mac-download" href="http://fliphtml5.com/download/fliphtml5.zip" onclick=" if (typeof ga == 'function') { ga('send', 'event', 'Download', this.href, document.location.pathname); }" rel="nofollow"><span class="download-icon"></span>Download For Mac</a>
+                <a class="window-download" href="//fliphtml5.com/download/flip-html5.zip" onclick=" if (typeof ga == 'function') { ga('send', 'event', 'Download', this.href, document.location.pathname); }" rel="nofollow"><span class="download-icon"></span>Download For Windows</a>
+                <a class="mac-download" href="//fliphtml5.com/download/fliphtml5.zip" onclick=" if (typeof ga == 'function') { ga('send', 'event', 'Download', this.href, document.location.pathname); }" rel="nofollow"><span class="download-icon"></span>Download For Mac</a>
             </div>
         </div>
     </div>
@@ -848,13 +854,13 @@
 
 //         var $qrcode = $(".cc-bottom-bar-qrcode");
 //         $qrcode.qrcode({
-//             text: "http://fliphtml5.com",
+//             text: "//fliphtml5.com",
 //             width: 36,
 //             height: 36
 //         });
 
 //         $qrcode.on("click", function() {
-//             new QrcodePanel("http://fliphtml5.com", "FlipHTML5 for Mobile", "visit fliphtml5.com on mobile devices.");
+//             new QrcodePanel("//fliphtml5.com", "FlipHTML5 for Mobile", "visit fliphtml5.com on mobile devices.");
 //         });
 
 //     });
