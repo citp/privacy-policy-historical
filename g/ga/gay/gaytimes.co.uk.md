@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaytimes.co.uk privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624061336id_/http%3A//www.gaytimes.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaytimes.co.uk privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023145134id_/https%3A//www.gaytimes.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gay Times
 
@@ -116,7 +116,7 @@ enter a competition, promotion or survey; or
 
 give us some feedback.
 
-**Automated technologies or interactions.** As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. Please see our [cookie policy](http://www.gaytimes.co.uk/cookie-policy/) for further details.
+**Automated technologies or interactions.** As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. Please see our [cookie policy](https://www.gaytimes.co.uk/cookie-policy/) for further details.
 
 **Third parties or publicly available sources.** We may receive personal data about you from various third parties.
 
@@ -298,7 +298,7 @@ Where you opt out of receiving these marketing messages, this will not apply to 
 
 **COOKIES**
 
-You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our[ Cookies Policy](http://www.gaytimes.co.uk/cookie-policy/).
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our[ Cookies Policy](https://www.gaytimes.co.uk/cookie-policy/).
 
 **CHANGE OF PURPOSE**
 
