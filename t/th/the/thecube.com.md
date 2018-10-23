@@ -1,97 +1,123 @@
-> *The following text is extracted and transformed from the thecube.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227061010id_/https%3A//www.highschoolcube.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecube.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023050149id_/https%3A//www.nfhsnetwork.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | High School Cube
+# Privacy Policy | Live high school sports video on the NFHS Network | NFHSNetwork.com
 
-## Platform Privacy Notice
+The NFHS Network is committed to protecting your privacy. This Privacy Policy explains our policy regarding the collection, use, disclosure and transfer of your information. This policy may change from time to time, so please refer back to it periodically. By accessing our website or otherwise using our service, you consent to our information practices.
 
-Last modified on November 4, 2010
+We receive and store information, including personal information, about you and your use of our service. This information is gathered in a number of ways, including when you enter it on our website and from interactions with our service. Personal information is information that can be used to uniquely identify or contact you. Non-personal information is information that does not permit direct association with you. We may collect, use, transfer and disclose non-personal information for any purpose. You can choose not to provide personal information we may request of you, but, in general, most of the personal information we request is required in order to provide our service and the lack of such personal information will prevent us from doing so.
 
-Welcome to the High School Cube, LLC. (“High School Cube”) applications, platform, web site ([www.HighSchoolCube.com](http://www.highschoolcube.com/)), and any other web sites, applications, or services operated or produced by High School Cube (collectively, the “High School Cube Platform”). High School Cube values the privacy of the users, subscribers, publishers, editors, members, and others who visit and use the High School Cube Platform (collectively or individually, “You” or “Users”).
+## Collection and Use of Information
 
-By using the High School Cube Platform, you consent to the information handling practices described in this Platform Privacy Notice. This Statement does not pertain to the collection, use and disclosure of information through means other than this site (e.g., offline) or the collection, use and disclosure practices of any third party, including Affiliates. For information on a third party’s information collection, use and disclosure practices, please review the privacy policy on the applicable third party’s Web site. Also, please note that this Site contains links to other Web sites. We are not responsible for the Web sites, content or privacy practices of any third party.
+When you interact with us, we may ask you to supply us with personal information so that we can provide, enhance and personalize our services and marketing efforts. For similar reasons, we may supplement the personal information you provide with publicly available information about you as well as information from other sources, as permitted by law.
 
-This Privacy Notice is incorporated into and is subject to the High School Cube Platform Terms of Service. Your use of the High School Cube Platform and any personal information you provide through the High School Cube Platform are subject at all time to this Privacy Notice and the Terms of Service.
+The information we may collect from you directly includes:
 
-  * The Information High School Cube Collects
-  * How High School Cube Uses Information
-  * When High School Cube Discloses Information
-  * Your Choices
-  * In the Event of Merger or Sale
-  * Advertisers
-  * Data Security
-  * Children’s Privacy
-  * International Visitors
-  * Changes and Updates to this Privacy Notice
-  * High School Cube Contact Information
-
+  * Contact information, such as name, email address, postal address, phone number, and mobile number.
+  * User name, which is your email address, and password.
+  * Age and date of birth.
+  * Other demographic information, such as gender, job information, and zip code.
+  * Your preferences, such as favorite schools or preferred channels on our site and other user interfaces.
+  * Communications preferences, such as which newsletters you would like to receive.
+  * Search queries.
+  * In limited circumstances, payment and identity verification information, such as credit card number.
+  * Contact information about others when you provide information about others or refer a friend to a particular site or service (note: such information is used solely to facilitate the communications requested).
+  * Correspondence you send to us.
 
 
-### The Information High School Cube Collects
 
-User-provided Information: You may provide to High School Cube what is generally called “personally identifiable” information (such as your name, e-mail address, postal mailing address, home/mobile telephone number, credit card number and billing information) if you upload, purchase, or view or download certain content or products from the High School Cube Platform, enter contests or sweepstakes, or otherwise use the features and functionality of the High School Cube Platform.
+Information we may collect automatically on our site and other user interfaces:
 
-“Cookies” Information: When you access the High School Cube Platform, we may send one or more cookies to your computer. High School Cube may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the High School Cube Platform. Persistent cookies can be removed. Please review your web browser “Help” file to learn the proper way to modify your cookie settings.
+  * Your browser type and operating system.
+  * Your Internet Protocol (IP) address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area.
+  * Sites you visited before and after visiting our site.
+  * Web pages and advertisements you view and links you click on.
+  * Unique identifiers, including mobile device identification numbers that can identify the physical location of such devices in accordance with applicable law.
+  * Information collected through cookies, web beacons, and other technologies.
+  * Information about your interactions with audio and video content, such as the type of content listened to and viewed, and information about your interactions with email messages, such as the links clicked on and whether the messages were opened or forwarded.
+  * Upon request, your bandwidth speed and information about the software programs installed on your computer.
+  * Standard server log information.
 
-Flash LSOs: We may use local shared objects, also known as Flash cookies, to store your preferences such as volume control or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
 
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies visit http://www.macromedia.com and visit support.
 
-“System Information”: When you access the High School Cube Platform or open one of our e-mails, our platform may record certain information from your system by using different types of tracking technology. This “System Information” may include a unique user ID, version of software installed, Internet Protocol address (“IP Address”), system type, the content and pages that you access on the High School Cube Platform, location, and the times and dates that you visit the High School Cube Platform.
+## Newsletters and Promotional Emails
 
-### How High School Cube Uses Information
+We may use your e-mail address or other methods to send you newsletters, as well as messages about new website features, special offers, promotional announcements, consumer surveys and other correspondence concerning our service. If you no longer want to receive marketing promotions from us, simply use your account name and password to access your account information on our website and uncheck those items to unsubscribe or click on the unsubscribe link in our email communications. Please note that you cannot unsubscribe from certain correspondence from us, including messages relating to your account transactions.
 
-High School Cube uses the information that you provide or that we collect to maintain, enhance and provide the features and services on the High School Cube Platform as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act.
+## NFHS Network Rewards
 
-We will use your e-mail address, without further consent, to address copyright infringement or defamation issues, or to contact you regarding any content that you have posted to or downloaded from the High School Cube Platform, for administrative communications such as notifying you of major High School Cube Platform updates, for customer service purposes.
+The NFHS Rewards program connects NFHS subscribers with third party providers offering certain products or services. The NFHS Network is not responsible for products or services purchased or obtained through the NFHS Network Rewards program and does not make any guarantee, warranty, or representation of any kind regarding products or services purchased through the NFHS Network Rewards program, including but not limited to, warranties of merchantability or fitness for a particular purpose.  The NFHS Network does not endorse any provider of goods or services through the NFHS Network Rewards program.  You may be subject to additional terms and conditions, warranties, or other requirements of the merchant, manufacturer, or other provider of Rewards. You release and hold NFHS Network, and all parties associated with the NFHS Network Rewards Program harmless from any claim, liability, or damage relating to the Program or your use of NFHS Network Rewards program products or services.
 
-High School Cube uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way the High School Cube Platform works and looks, and to create new features and functionality.
+## Disclosure of Information
 
-High School Cube may use “System Information” and “Cookies” information to: remember your information so that you will not have to re-enter it during your visit or the next time you access the High School Cube Platform; automatically update the High School Cube application on your system; provide customized third-party advertisements, content and information; monitor the effectiveness of third-party marketing campaigns; monitor aggregate site usage metrics such as total number of visitors and pages accessed; and track your entries, submissions, and status in any promotions or other activities.
+The NFHS Network is committed to maintaining your trust and we want you to understand when and with whom we may share information collected about you.
 
-### When High School Cube Discloses Information
+### With your consent
 
-High School Cube may share your personally identifiable information with your High School. High School Cube does not share your personally identifiable information with other organizations for their marketing or promotional uses without your prior express consent.
+With your consent, we may share your contact information with third-party business partners.
 
-Please be aware, however, that any personally identifiable information that you voluntarily choose to display on any publicly available portion of the High School Cube Platform becomes publicly available and may be collected and used by others without restriction.
+### Authorized third-party service providers
 
-High School Cube may disclose “System Information” and other aggregate non-personally identifiable information with interested third parties to assist such parties in understanding the usage and demographic patterns for certain programs, content, services, advertisements, promotions, or other functionality of High School Cube.
+We share your information with third-party vendors who help us with specialized services, including customer support, email and text message deployment, business analytics, marketing, and data processing. These third parties are allowed to use your information to help us provide our services and not for any other purpose.
 
-We may disclose some User information to affiliated companies or other businesses or persons to: fulfill orders; conduct data analysis; provide web site hosting, maintenance, and security services; offer certain functionality; and assist High School Cube in improving the High School Cube Platform. We require that these parties process such information in compliance with this Privacy Notice, we authorize only a use of such information and we require these parties to use reasonable confidentiality measures.
+### Co-Branded Partners
 
-High School Cube may disclose User information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as US Copyright law) or respond to a judicial or other government subpoena, court order, or warrant in the manner required by the requesting entity.
+Co-Branded Partners are third parties with whom we may jointly offer a service or feature. You can tell when you are accessing a service offered by a Co-Branded Partner because the Co-Branded Partner's name will be featured prominently. You may be asked to provide information about yourself to register for a service offered by a Co-Branded Partner. In doing so, you may be providing your information to both us and the Co-Branded Partner, or we may share your information with the Co-Branded Partner. Please note that the Co-Branded Partner's privacy policy may apply to its use of your information.
 
-High School Cube also reserves the right to disclose User information that we believe, in good faith, is appropriate or necessary to take precautions against liability; protect High School Cube from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the High School Cube Platform; or to protect the rights, property, or personal safety of any person.
+### Business transfers
 
-### Your Choices
+We may share your information in connection with a substantial corporate transaction, such as the sale of an NFHS Network website or application, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
 
-You may decline to share your personally identifiable information with High School Cube, in which case High School Cube will not be able to provide to you some of the features and functionality found on the High School Cube Platform. You may update, correct, or delete your user information and preferences at any time once you have logged in to the High School Cube Platform.
+### Legal requirements
 
-To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. You are responsible for maintaining the secrecy of your unique password and account information at all times.
+We may disclose information about our users, including contact information, to respond to subpoenas, court orders, legal process, and other law enforcement measures, and to comply with other legal obligations, such as FCC requirements.
 
-### In the Event of Merger or Sale
+### Protect our websites and users
 
-In the event that High School Cube is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of that merger, acquisition, sale, or other change of control.
+We may disclose information to protect and defend the legal rights, interests, and safety of NFHS Network, our employees, agents, and contractors (including enforcing our agreements); to protect the safety and security of users our website and members of the public; and as otherwise disclosed in our terms of use.
 
-### Advertisers
+Please note that we may share information with advertisers. We also may share aggregated or anonymized information with third parties, including to help us develop content and services we hope you will find of interest or to help these third parties develop their own products and service offerings. This sharing of anonymized or aggregated information will not include information that could be used to individually identify you.
 
-High School Cube may allow advertisers, third party advertising networks and advertising serving companies to serve advertisements directly to you. By serving these advertisements directly to you, these companies can set their own cookies on your computer and trigger their own Web beacons to measure the effectiveness of their advertisements and to personalize the advertising content. High School Cube does not provide your personally identifiable information to these third-party ad servers or ad networks without your consent.
+## Social Sharing
 
-High School Cube uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to High School Cube, and you do so at your own risk. Once we receive your transmission of information, High School Cube makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our managerial, physical or technical safeguards.
+You may elect to share information about your use of the theNFHS Network service, including what you watch, within the NFHS Network as well as on other social networks.
 
-If High School Cube learns of a security breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. High School Cube may post a notice on the High School Cube Platform if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at [service@highschoolcube.com](mailto:service@highschoolcube.com).
+## Access
 
-### Our Commitment to Children’s Privacy
+If you choose to share contact information with us, you may have the opportunity to update that information on our website. You also may update or amend your information by contacting us. If you ask us to deactivate your account, we will disable your account within a reasonable period of time. Please note that we may need to retain some information about you in order to satisfy our legal and security obligations. For example, some of your information may remain in back-up storage even if you ask us to delete it. In some cases, you may be entitled under local laws to access or object to the processing of information that we hold relating to you.
 
-If you are under 13 years of age, then please do not use or access the High School Cube Platform at any time or in any manner.
+## Children
 
-Protecting the privacy of young children is especially important. For that reason, High School Cube does not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age. If High School Cube learns that personally-identifiable information of persons less than 13-years-of-age has been collected on or through the High School Cube Platform, then High School Cube will take the appropriate steps to delete this information.
+You must be 13 years of age or older to subscribe to the NFHS Network service. In certain jurisdictions, the age of majority may be older than 18, in which case, you must satisfy that age in order to become a member. While individuals under the age of 18 may utilize the service, they may do so only with the involvement, supervision, and approval of a parent or legal guardian, and subject to our Terms of Use.
 
-If you are the parent or legal guardian of a child under 13 who has become High School Cube Platform member, then please contact High School Cube at [service@highschoolcube.com](mailto:service@highschoolcube.com) to have that child’s account terminated and information deleted.
+## Cookies and Other Technologies
 
-### International Visitors
+As you interact with our service, we and our service providers may place cookies on your system. Cookies are small pieces of data that are sent to your browser from a web server and stored on your system for record keeping purposes. In general, cookies can make the Internet more useful by storing information about your preferences on a particular system.
 
-For Users visiting the High School Cube Platform from outside of the United States, please note that any data you enter into the High School Cube Platform will be transferred outside your country for use by High School Cube and its affiliates for any of the purposes described herein. In addition, because High School Cube operates internationally, we may make information we gather available to worldwide business units and affiliates. By providing any data on the High School Cube Platform, you hereby consent to such transfers of your data to the United States or other countries.
+In addition to cookies, we and our service providers use a variety of other technologies, including pixel tags (web beacons), clear gifs, or other technologies built into our application software, to gather information on how you interact with our service. These cookies and other technologies can help personalize the service for you and help associate your interactions with our service to other information within your account. They can show us, for example, popular pages, conversion rates, viewing patterns, click-through and other information that can be used to improve, operate and monitor our website and other aspects of our service.
 
-### Changes and Updates to this Privacy Notice
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. If your browser is set to not accept any cookies, you will not be able to use the NFHS Network service or website.
 
-This Privacy Notice may be revised periodically without further notice to you and this will be reflected by a “last modified” date. Please revisit this page to stay aware of any changes. Your continued use of the High School Cube Platform constitutes your agreement to this Privacy Notice and any future revisions.
+## Remarketing
+
+​This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, such as registering to become a member. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to our website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.  You can set your preferences for how Google advertises to you using the [Google Ad Preferences page](https://www.google.com/settings/u/0/ads/authenticated), and if you want to you can [opt out of interest-based advertising entirely by cookie settings](https://www.google.com/settings/u/0/ads/authenticated) or opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/).
+
+## Third Party Advertisers
+
+We permit CBS Interactive Inc. and its affiliates, partners, and advertisers (“third-party advertisers”) to place tags, scripts, and beacons (“third-party tags”) on our site as part of the advertisements displayed on our sites. These third-party tags may set cookies on your device and may also gather information about your device and the pages you visit on our site and on other sites that display third-party tags. Our third-party advertisers use the information gathered through third-party tags in accordance with their respective privacy policies. CBS Interactive Inc.’s privacy policy is available at<https://www.cbsinteractive.com/legal/cbsi/privacy-policy>. By visiting our sites, you consent to the automatic collection and use of information by our third party advertisers in accordance with this policy and with the third party advertisers’ privacy policies as posted from time to time.
+
+If streaming videos displayed on our sites include third-party tags, the third parties that have provided the third-party tags may also receive information about videos you watch on our sites, and you consent to the sharing of this information.
+
+## Security of Information
+
+The NFHS Network takes information security very seriously and uses reasonable administrative, technical, physical and managerial measures to protect your personal information from unauthorized access. Unfortunately, no security system can be guaranteed to be 100% secure. Accordingly, we cannot guarantee the security of your information and cannot assume liability for improper access to it. By using our service, including our website and user interfaces, or providing information to us through any means, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the NFHS Network service. You are responsible for maintaining the confidentiality of your account access information and for restricting access to your computer or device through which you access your NFHS Network account. If you disclose your password to anyone or share your account and/or devices with other people, you take full responsibility for their actions. Where possible, users of public or shared devices should log out at the completion of each visit. If you sell or return a computer or device, you should log-out and deactivate the device before doing so. If you fail to log out and deactivate your device, subsequent users may be able to access your account information.
+
+## Contacting Us
+
+If you have questions concerning your account or this Privacy Policy, including the treatment of your personal information and/or our use of cookies and other technologies, please contact us via email at [memberadmin@nfhsnetwork.com](mailto:memberadmin@nfhsnetwork.com?subject=Privacy%20Policy%20Question), or at the following:
+
+**The NFHS Network, LLC**  
+2835 Brandywine Road #102  
+Atlanta, Georgia 30341  
+Attn: Legal Department
+
+Updated: September 18, 2018
