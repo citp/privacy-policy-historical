@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localsin.com privacy policy that was archived on 2017-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170214184611id_/https%3A//www.localsin.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localsin.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023230340id_/https%3A//www.localsin.com/pages/privacy) for the most accurate reproduction.*
 
 # 
 
