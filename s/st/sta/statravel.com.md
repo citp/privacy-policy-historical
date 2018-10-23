@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statravel.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620061005id_/http%3A//www.statravel.com/policies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statravel.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023204904id_/http%3A//www.statravel.com/policies.htm) for the most accurate reproduction.*
 
 # STA Travel User and Privacy Policies | STA Travel | User Agreement and Privacy Policy
 
