@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airfoiltools.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609060016id_/http%3A//www.airfoiltools.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airfoiltools.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023182849id_/http%3A//airfoiltools.com/site/privacy) for the most accurate reproduction.*
 
 # Airfoil Tools
 
@@ -46,7 +46,7 @@ Google Analytics
 | These cookies are used to collect information about how visitors use the site. The information is used to compile reports and to help improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where vistors have come to the site from and the pages they visited.   
   
   
-This site also uses 3rd part advertising delivered by Google Adsense. The cookies used by Google, the options to disable them and privacy policy for Google advertising can be found [here](https://web.archive.org/site/external?url=http%3A%2F%2Fwww.google.com%2Fpolicies%2Fprivacy%2Fads%2F). 
+This site also uses 3rd part advertising delivered by Google Adsense. The cookies used by Google, the options to disable them and privacy policy for Google advertising can be found [here](http://www.google.com/policies/privacy/ads/). 
 
 ## External links
 
