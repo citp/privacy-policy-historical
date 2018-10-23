@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nothingbundtcakes.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930212146id_/http%3A//www.nothingbundtcakes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nothingbundtcakes.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023162221id_/https%3A//www.nothingbundtcakes.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
