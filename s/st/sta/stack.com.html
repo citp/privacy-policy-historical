@@ -1,12 +1,30 @@
-<!--The following is the downloaded HTML source of the stack.com privacy policy that was archived on 2018-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180616235219id_/http%3A//www.stack.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stack.com privacy policy that was archived on 2018-10-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181024070500id_/http%3A//www.stack.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 
 <!-- Impact Domain Verification -->
 <meta name="ir-site-verification-token" value="-1329430643">
 
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-58NL9Q"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script><script type="text/javascript">
+
+<!-- BrightEdge Link Equity Manager -->
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-58NL9Q"></script><script src="//d2na2p72vtqyok.cloudfront.net/client-embed/27ad77cd-e815-49ec-a84f-45e30871dfab.js" async=""></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="//cdn.bc0a.com/be_ixf_js_sdk.js"></script>
+<script>
+//Access to and use of BrightEdge Link Equity Manager is governed by the 
+//Infrastructure Product Terms located at: www.brightedge.com/infrastructure-product-terms. 
+//Customer acknowledges and agrees it has read, understands and agrees to be bound by the 
+//Infrastructure Product Terms.
+var be_sdk_options = {
+	'api.endpoint': 'https://ixf2-api.bc0a.com',
+	'sdk.account': 'f00000000008219',
+	'requestparameters.caseinsensitive': true,
+	'whitelist.parameter.list': 'ixf'
+};
+BEJSSDK.construct(be_sdk_options);
+</script>
+
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script><script type="text/javascript">
 var loadStart = new Date().getTime();
 </script>
 
@@ -81,7 +99,6 @@ function split_iris(destination)
 
 
 
-
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -92,12 +109,12 @@ function split_iris(destination)
 <meta name="keywords" content="stack,athlete,sports,training,workout,drills">
 
 <!-- Open Graph Meta -->
-<meta property="og:site_name" name="og:site_name" content="STACK">
-<meta property="og:type" name="og:type" content="website">
-<meta property="og:title" name="og:title" content="Get Bigger, Stronger, Better, Faster">
-<meta property="og:url" name="og:url" content="http://www.stack.com/privacy-policy">
-<meta property="og:description" name="og:description" content="Get better at the sports you play and the life you lead at STACK. Improve your training, nutrition and lifestyle with daily">
-<meta property="og:image" name="og:image" content="http://www.stack.com/assets/img/branding/logos/stack-black.png">
+<meta property="og:site_name" content="STACK">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Get Bigger, Stronger, Better, Faster">
+<meta property="og:url" content="https://www.stack.com/privacy-policy">
+<meta property="og:description" content="Get better at the sports you play and the life you lead at STACK. Improve your training, nutrition and lifestyle with daily">
+<meta property="og:image" content="http://www.stack.com/assets/img/branding/logos/stack-black.png">
 
 <!-- Twitter Card Meta -->
 <meta name="twitter:card" content="summary_large_image">
@@ -170,7 +187,7 @@ function split_iris(destination)
 		var pageinfo = {
 			id: 	"1",
 			inapp: 	isFacebookApp(),
-			url: "http://www.stack.com/privacy-policy",
+			url: "https://www.stack.com/privacy-policy",
 			oasurl: "www.stack.com/privacy-policy",
 			dfp: "www.stack.com",
 			type: "custom",
@@ -196,7 +213,7 @@ function split_iris(destination)
 			'theme': 		"v4",
 			'vertical': 	"",
 			'slug': 		"custom.privacy-policy",
-			'url': 			"http://www.stack.com/privacy-policy",
+			'url': 			"https://www.stack.com/privacy-policy",
 			'editor': 		"",
 			'sport': 		"",
 			'category': 	"",
@@ -229,7 +246,7 @@ function split_iris(destination)
 			};
 
 			// set page url
-			var daurl 	= "http://www.stack.com/privacy-policy";
+			var daurl 	= "https://www.stack.com/privacy-policy";
 
 			// interstitial criteria
 			if (device == 'phone' && Date.parse(interstitial.start) < Date.now() && Date.now() < Date.parse(interstitial.end) && "custom" !== 'marketing' && ! daurl.includes('jg-video-page') && Math.floor((Math.random() * 5) + 1) == 1){
@@ -296,10 +313,68 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 		
 	</script>
 
-<script src="https://cdn.optimizely.com/js/2931360035.js"></script>
 
+			<script>googletag = window.googletag || {cmd: []};</script>
+<script src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+// DFP vars needed
+var DFP 	= { 
+	'banners': 		[],
+	'device': 		function(){
+		return (typeof device !== 'undefined')? device: 'desktop';
+	},
+	'load': 		function(position){
 
+		// make sure we're only loading the proper device's banners
+		if (DFP.banners[position]['device'] == DFP.device()){
 
+			// mark position as loaded
+			DFP.banners[position]['loaded']	= true;
+
+			// load ad
+			googletag.cmd.push(function() {
+				googletag.pubads().refresh([DFP.banners[position]['slot']]);
+			});
+
+			console.log('>> dfp loaded:',position);
+
+			// mark in GA
+			if (typeof _event == 'function'){
+				_event('dfp-adunit','viewport',position);
+			}	
+
+		}
+
+	},
+	'viewport': 	function(){
+		
+		// iterate adds almost in viewport
+		$('.dfp-adunit:in-viewport').each(function(){
+
+			// grab the ad unit's position
+			var position 	= $(this).attr('id');
+
+			// make sure this ad unit hasn't already been loaded
+			// also confirm we're loading the proper device's banners
+			if (DFP.banners[position]['loaded'] == false && DFP.banners[position]['device'] == DFP.device())
+			{
+				DFP.load(position);
+			}
+
+		});
+	}
+};
+</script>	
+
+<!-- Header Tag Code --> <script data-cfasync="false" type="text/javascript">/*<![CDATA[*/(function (a, c, s, u){'Insticator'in a || (a.Insticator={ad:{loadAd: function (b){Insticator.ad.q.push(b)}, q: []}, helper:{}, embed:{}, version: "3.0", q: [], load: function (t, o){Insticator.q.push({t: t, o: o})}}); var b=c.createElement(s); b.src=u; b.async=!0; var d=c.getElementsByTagName(s)[0]; d.parentNode.insertBefore(b, d)})(window, document, 'script', '//d2na2p72vtqyok.cloudfront.net/client-embed/27ad77cd-e815-49ec-a84f-45e30871dfab.js');/*]]>*/</script> <!-- End Header Tag Code -->
+
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-58NL9Q');</script>
+<!-- End Google Tag Manager -->
 
 	<!-- header javascript files -->
 
@@ -307,17 +382,11 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
  
 
 	
-		
-			
-			<script src="//cdn-gl.imrworldwide.com/novms/js/2/ggcmb510.js"></script>
-
-		
-	
 	<!-- stylesheets -->
 
 	<link href="/min/?f=/assets/third-party/initializr/css/bootstrap.min.css,/assets/third-party/initializr/css/bootstrap-theme.min.css,/assets/css/global.css&amp;t=css" rel="stylesheet">
-<link href="/min/?f=/assets/css/oasbanner.css&amp;t=css" rel="stylesheet">
 <link href="/min/?f=/assets/css/widgets/trending-block-new.css&amp;t=css" rel="stylesheet">
+<link href="/min/?f=/assets/css/dfpbanner-lazyload.css&amp;t=css" rel="stylesheet">
  
 
 	
@@ -327,9 +396,6 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 
 		
 	
-
-    		<link href="/eastbay_widget.css" rel="stylesheet">
-    
 	
 </head>
 <body class="pagetypecustom">
@@ -339,20 +405,28 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 </noscript>
 
 
-	<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-58NL9Q"
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-58NL9Q"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-58NL9Q');</script>
-<!-- End Google Tag Manager -->
-
 
 	
 	<div id="bannerbg">
-		<div id="oas_x20" class="oas oas_dw1818 oas_dh1507" data-oas-d="x20" data-oas-w="1818" data-oas-h="1507"></div>
+		<center>
+		<div id="x20" class="dfp-adunit">
+			<script>
+			// add this ad unit as a desktop option
+			DFP.banners['x20'] 	= {
+				'height': 	1507,
+				'width': 	1818,
+				'slot': 	false,
+				'loaded': 	false,
+				'device': 	'desktop'
+			};
+			</script>
+		</div>
+		</center>
+	
+
+
 
 
 	</div>
@@ -379,7 +453,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<span class="icon-bar"></span>
 					</button>
 
-					<a class="navbar-brand logo-" href="http://www.stack.com">
+					<a class="navbar-brand logo-" href="https://www.stack.com">
 						<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
 		<img src="/assets/img/branding/logos/stack-white-resized.png" data-src="/assets/img/branding/logos/stack-white-resized.png" class="img-responsive" alt="STACK" height="50" width="250" style="">
 		<meta itemprop="height" content="50">
@@ -417,7 +491,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 														
 								
 								<li class="menu-item-training menu-type-taxonomy">					
-									<a href="http://www.stack.com/c/training">Training</a>
+									<a href="https://www.stack.com/c/training">Training</a>
 
 									
 										
@@ -433,7 +507,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-vertical">
 
-																	<a href="http://www.stack.com/t/build-muscle">Build Muscle</a>
+																	<a href="https://www.stack.com/t/build-muscle">Build Muscle</a>
 
 																</li>
 
@@ -459,7 +533,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-taxonomy">
 
-																	<a href="http://www.stack.com/c/flexibility-training">Flexibility</a>
+																	<a href="https://www.stack.com/c/flexibility-training">Flexibility</a>
 
 																</li>
 
@@ -467,33 +541,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-taxonomy">
 
-																	<a href="http://www.stack.com/c/get-faster">Get Faster</a>
-
-																</li>
-
-															
-														</ul>
-
-													</div>
-
-												
-													<div class="submenu col-sm-3" data-cols="3">
-
-														<ul>
-
-															
-																
-																<li class="menu-type-taxonomy">
-
-																	<a href="http://www.stack.com/c/sports-skills">Skills</a>
-
-																</li>
-
-															
-																
-																<li class="menu-type-taxonomy">
-
-																	<a href="http://www.stack.com/c/sports-injuries">Sports Injuries</a>
+																	<a href="https://www.stack.com/c/get-faster">Get Faster</a>
 
 																</li>
 
@@ -511,7 +559,33 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-taxonomy">
 
-																	<a href="http://www.stack.com/c/strength-training">Strength Training</a>
+																	<a href="https://www.stack.com/c/sports-skills">Skills</a>
+
+																</li>
+
+															
+																
+																<li class="menu-type-taxonomy">
+
+																	<a href="https://www.stack.com/c/sports-injuries">Sports Injuries</a>
+
+																</li>
+
+															
+														</ul>
+
+													</div>
+
+												
+													<div class="submenu col-sm-3" data-cols="3">
+
+														<ul>
+
+															
+																
+																<li class="menu-type-taxonomy">
+
+																	<a href="https://www.stack.com/c/strength-training">Strength Training</a>
 
 																</li>
 
@@ -519,7 +593,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-vertical">
 
-																	<a href="http://www.stack.com/fitness">STACK Fitness</a>
+																	<a href="https://www.stack.com/fitness">STACK Fitness</a>
 
 																</li>
 
@@ -538,7 +612,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 														
 								
 								<li class="menu-item-nutrition menu-type-taxonomy">					
-									<a href="http://www.stack.com/c/nutrition-2">Nutrition</a>
+									<a href="https://www.stack.com/c/nutrition-2">Nutrition</a>
 
 									
 										
@@ -554,7 +628,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-taxonomy">
 
-																	<a href="http://www.stack.com/c/eat-healthy-nutrition">Eat Healthy</a>
+																	<a href="https://www.stack.com/c/eat-healthy-nutrition">Eat Healthy</a>
 
 																</li>
 
@@ -572,7 +646,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-taxonomy">
 
-																	<a href="http://www.stack.com/c/hydration-nutrition">Hydration</a>
+																	<a href="https://www.stack.com/c/hydration-nutrition">Hydration</a>
 
 																</li>
 
@@ -590,7 +664,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-taxonomy">
 
-																	<a href="http://www.stack.com/c/healthy-recipes">Meals &amp; Recipes</a>
+																	<a href="https://www.stack.com/c/healthy-recipes">Meals &amp; Recipes</a>
 
 																</li>
 
@@ -608,7 +682,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-taxonomy">
 
-																	<a href="http://www.stack.com/c/sports-supplements">Supplements</a>
+																	<a href="https://www.stack.com/c/sports-supplements">Supplements</a>
 
 																</li>
 
@@ -627,7 +701,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 														
 								
 								<li class="menu-item-gear menu-type-taxonomy">					
-									<a href="http://www.stack.com/c/performance-gear">Gear</a>
+									<a href="https://www.stack.com/c/performance-gear">Gear</a>
 
 									
 										
@@ -703,7 +777,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-taxonomy">
 
-																	<a href="http://www.stack.com/c/lifestyle">Lifestyle</a>
+																	<a href="https://www.stack.com/c/lifestyle">Lifestyle</a>
 
 																</li>
 
@@ -729,7 +803,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-taxonomy">
 
-																	<a href="http://www.stack.com/c/training-tools-gear">Workout Tools</a>
+																	<a href="https://www.stack.com/c/training-tools-gear">Workout Tools</a>
 
 																</li>
 
@@ -748,7 +822,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 														
 								
 								<li class="menu-item-sports menu-type-sport">					
-									<a href="http://www.stack.com/sports">Sports</a>
+									<a href="https://www.stack.com/sports">Sports</a>
 
 									
 										
@@ -764,7 +838,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-sport">
 
-																	<a href="http://www.stack.com/sport/football">Football</a>
+																	<a href="https://www.stack.com/sport/football">Football</a>
 
 																</li>
 
@@ -772,7 +846,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-sport">
 
-																	<a href="http://www.stack.com/t/basketball">Basketball Training</a>
+																	<a href="https://www.stack.com/t/basketball">Basketball Training</a>
 
 																</li>
 
@@ -780,41 +854,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-sport">
 
-																	<a href="http://www.stack.com/t/yoga">Yoga</a>
-
-																</li>
-
-															
-														</ul>
-
-													</div>
-
-												
-													<div class="submenu col-sm-3" data-cols="3">
-
-														<ul>
-
-															
-																
-																<li class="menu-type-sport">
-
-																	<a href="http://www.stack.com/t/baseball">Baseball</a>
-
-																</li>
-
-															
-																
-																<li class="menu-type-sport">
-
-																	<a href="http://www.stack.com/t/hockey">Hockey</a>
-
-																</li>
-
-															
-																
-																<li class="menu-type-sport">
-
-																	<a href="http://www.stack.com/sports">More</a>
+																	<a href="https://www.stack.com/t/yoga">Yoga</a>
 
 																</li>
 
@@ -832,7 +872,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-sport">
 
-																	<a href="http://www.stack.com/t/swimming">Swimming</a>
+																	<a href="https://www.stack.com/t/baseball">Baseball</a>
 
 																</li>
 
@@ -840,7 +880,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-sport">
 
-																	<a href="http://www.stack.com/t/soccer">Soccer</a>
+																	<a href="https://www.stack.com/t/hockey">Hockey</a>
+
+																</li>
+
+															
+																
+																<li class="menu-type-sport">
+
+																	<a href="https://www.stack.com/sports">More</a>
 
 																</li>
 
@@ -858,7 +906,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-sport">
 
-																	<a href="http://www.stack.com/t/track-and-field">Track &amp; Field</a>
+																	<a href="https://www.stack.com/t/swimming">Swimming</a>
 
 																</li>
 
@@ -866,7 +914,33 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-sport">
 
-																	<a href="http://www.stack.com/t/cross-country">Cross Country</a>
+																	<a href="https://www.stack.com/t/soccer">Soccer</a>
+
+																</li>
+
+															
+														</ul>
+
+													</div>
+
+												
+													<div class="submenu col-sm-3" data-cols="3">
+
+														<ul>
+
+															
+																
+																<li class="menu-type-sport">
+
+																	<a href="https://www.stack.com/t/track-and-field">Track &amp; Field</a>
+
+																</li>
+
+															
+																
+																<li class="menu-type-sport">
+
+																	<a href="https://www.stack.com/t/cross-country">Cross Country</a>
 
 																</li>
 
@@ -885,7 +959,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 														
 								
 								<li class="menu-item-videos menu-type-video">					
-									<a href="http://www.stack.com/videos">Videos</a>
+									<a href="https://www.stack.com/videos">Videos</a>
 
 									
 										
@@ -901,7 +975,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-video">
 
-																	<a href="http://www.stack.com/t/michael-johnson-performance">Michael Johnson Performance</a>
+																	<a href="https://www.stack.com/t/michael-johnson-performance">Michael Johnson Performance</a>
 
 																</li>
 
@@ -909,25 +983,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-video">
 
-																	<a href="http://www.stack.com/t/todd-durkin-workouts">Todd Durkin's World-Class Workouts</a>
-
-																</li>
-
-															
-														</ul>
-
-													</div>
-
-												
-													<div class="submenu col-sm-3" data-cols="3">
-
-														<ul>
-
-															
-																
-																<li class="menu-type-video">
-
-																	<a href="http://www.stack.com/t/path-to-the-pros-2018">Path to the Pros: 2018</a>
+																	<a href="https://www.stack.com/t/todd-durkin-workouts">Todd Durkin's World-Class Workouts</a>
 
 																</li>
 
@@ -945,7 +1001,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-video">
 
-																	<a href="http://www.stack.com/t/elite-performance-mike-boyle">STACK Elite Performance</a>
+																	<a href="https://www.stack.com/t/path-to-the-pros-2018">Path to the Pros: 2018</a>
 
 																</li>
 
@@ -963,7 +1019,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-video">
 
-																	<a href="http://www.stack.com/t/stack-fitness-weekly">STACK Fitness Weekly</a>
+																	<a href="https://www.stack.com/t/elite-performance-mike-boyle">STACK Elite Performance</a>
+
+																</li>
+
+															
+														</ul>
+
+													</div>
+
+												
+													<div class="submenu col-sm-3" data-cols="3">
+
+														<ul>
+
+															
+																
+																<li class="menu-type-video">
+
+																	<a href="https://www.stack.com/t/stack-fitness-weekly">STACK Fitness Weekly</a>
 
 																</li>
 
@@ -982,7 +1056,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 														
 								
 								<li class="menu-item-resources menu-type-page">					
-									<a href="http://www.stack.com/resources">Resources</a>
+									<a href="https://www.stack.com/resources">Resources</a>
 
 									
 										
@@ -1006,15 +1080,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-taxonomy">
 
-																	<a href="http://www.stack.com/coaches-and-trainers">Coaches and Trainers</a>
+																	<a href="https://www.stack.com/coaches-and-trainers">Coaches and Trainers</a>
 
 																</li>
 
 															
 																
-																<li class="menu-type-taxonomy">
+																<li class="menu-type-static">
 
-																	<a href="http://www.stack.com/fitness">STACK Fitness</a>
+																	<a href="http://conditioning.stack.com/">STACK Conditioning</a>
 
 																</li>
 
@@ -1032,7 +1106,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-taxonomy">
 
-																	<a href="http://www.stack.com/t/news">News</a>
+																	<a href="https://www.stack.com/t/news">News</a>
 
 																</li>
 
@@ -1041,6 +1115,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																<li class="menu-type-static">
 
 																	<a href="http://www.stack.com/offer/v1/stack/?utm_source=stack&amp;utm_campaign=navigation-resources-tab">Partner Offers</a>
+
+																</li>
+
+															
+																
+																<li class="menu-type-taxonomy">
+
+																	<a href="https://www.stack.com/fitness">STACK Fitness</a>
 
 																</li>
 
@@ -1084,7 +1166,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-taxonomy">
 
-																	<a href="http://www.stack.com/4w">STACK 4W</a>
+																	<a href="https://www.stack.com/4w">STACK 4W</a>
 
 																</li>
 
@@ -1092,7 +1174,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																
 																<li class="menu-type-static">
 
-																	<a href="http://conditioning.stack.com/">STACK Conditioning</a>
+																	<a href="https://stack.globaltravel.net/">Sports Hotel Discounts</a>
 
 																</li>
 
@@ -1110,13 +1192,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 							
 							<li class="menu-item-mobilesearch menu-type-search">					
-								<a href="http://www.stack.com/search">Search STACK</a>
+								<a href="https://www.stack.com/search">Search STACK</a>
 							</li>
 
 							<li class="menu-item-guidedsearch menu-type-search" id="searchnav">					
-								<a href="http://www.stack.com/search">Search</a>
+								<a href="https://www.stack.com/search">Search</a>
 
-								<form id="searchform" method="get" action="http://www.stack.com/search">
+								<form id="searchform" method="get" action="https://www.stack.com/search">
 									<input type="text" placeholder="Can we help you find something?" name="stext" class="placeholder">
 									<button type="submit">Search</button>
 									<div class="clearfix"></div>
@@ -1139,11 +1221,38 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="row" id="oas_Top_div">
 		<div class="col-xs-12 col-sm-10 col-sm-offset-1">
 			<center>
-				<div id="oas_Top" class="oas oas_dw728 oas_dh90" data-oas-d="Top" data-oas-w="728" data-oas-h="90"></div>
+				<center>
+		<div id="Top" class="dfp-adunit">
+			<script>
+			// add this ad unit as a desktop option
+			DFP.banners['Top'] 	= {
+				'height': 	90,
+				'width': 	728,
+				'slot': 	false,
+				'loaded': 	false,
+				'device': 	'desktop'
+			};
+			</script>
+		</div>
+		</center>
+	
+			<center>
+		<div id="x66" class="dfp-adunit">
+			<script>
+			// add this ad unit as a mobile option
+			DFP.banners['x66'] 	= {
+				'height': 	250,
+				'width': 	300,
+				'slot': 	false,
+				'loaded': 	false,
+				'device': 	'phone'
+			};
+			</script>
+		</div>
+		</center>
+	
 
 
-
-	<div id="oas_x66" class="oas oas_mw300 oas_mh250" data-oas-m="x66" data-oas-w="300" data-oas-h="250"></div>
 
 			</center>
 		</div>
@@ -1288,11 +1397,38 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<aside class="col-xs-12 col-md-4 col-lg-4" id="sidebar">
 
 				
-	<div id="oas_Right2" class="oas oas_dw300 oas_dh250" data-oas-d="Right2" data-oas-w="300" data-oas-h="250"></div>
+	<center>
+		<div id="Right2" class="dfp-adunit">
+			<script>
+			// add this ad unit as a desktop option
+			DFP.banners['Right2'] 	= {
+				'height': 	250,
+				'width': 	300,
+				'slot': 	false,
+				'loaded': 	false,
+				'device': 	'desktop'
+			};
+			</script>
+		</div>
+		</center>
+	
+			<center>
+		<div id="x62" class="dfp-adunit">
+			<script>
+			// add this ad unit as a mobile option
+			DFP.banners['x62'] 	= {
+				'height': 	250,
+				'width': 	300,
+				'slot': 	false,
+				'loaded': 	false,
+				'device': 	'phone'
+			};
+			</script>
+		</div>
+		</center>
+	
 
 
-
-	<div id="oas_x62" class="oas oas_mw300 oas_mh250" data-oas-m="x62" data-oas-w="300" data-oas-h="250"></div>
 
 
 		
@@ -1324,19 +1460,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div class="trending-block  " data-name="0" data-template="trending-block">
 
 					<div>
-						<a href="http://www.stack.com/a/are-bai-drinks-actually-healthy">
+						<a href="https://www.stack.com/a/is-early-specialization-beneficial-for-young-soccer-players">
 
 							<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
-		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://upl.stack.com/wp-content/uploads/2017/07/20115142/Bai-Antioxidant-Infusion-STACK-300x169.png" class="img-responsive" alt="Are Bai Drinks Actually Healthy?" height="" width="" style="">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2018/11/19150000/Youth-Soccer-Player-STACK-300x169.jpg" class="img-responsive" alt="Is Early Specialization Beneficial for Young Soccer Players?" height="" width="" style="">
 		<meta itemprop="height" content="300">
 		<meta itemprop="width" content="250">
-		<meta itemprop="url" content="http://upl.stack.com/wp-content/uploads/2017/07/20115142/Bai-Antioxidant-Infusion-STACK-300x169.png">
+		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2018/11/19150000/Youth-Soccer-Player-STACK-300x169.jpg">
 	</span>
 
 						</a>
 					</div>
 
-					<strong> <a href="http://www.stack.com/a/are-bai-drinks-actually-healthy"> Are Bai Drinks Actually Healthy? </a> </strong>
+					<strong> <a href="https://www.stack.com/a/is-early-specialization-beneficial-for-young-soccer-players"> Is Early Specialization Beneficial for Young Soccer Players? </a> </strong>
 					
 					
 				</div>
@@ -1346,19 +1482,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div class="trending-block  " data-name="1" data-template="trending-block">
 
 					<div>
-						<a href="http://www.stack.com/a/why-every-human-being-should-run-sprints">
+						<a href="https://www.stack.com/a/the-childhood-drill-that-helped-pat-mahomes-build-superhuman-arm-strength">
 
 							<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
-		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://upl.stack.com/wp-content/uploads/2018/05/24164850/Sprinting-Benefits-STACK-300x169.jpg" class="img-responsive" alt="Why Every Human Being Should Run Sprints" height="" width="" style="">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2018/10/10123231/Patrick-Mahomes-Arm-Strength-STACK-300x169.jpg" class="img-responsive" alt="The Childhood Drill That Helped Pat Mahomes Build Superhuman Arm Strength" height="" width="" style="">
 		<meta itemprop="height" content="300">
 		<meta itemprop="width" content="250">
-		<meta itemprop="url" content="http://upl.stack.com/wp-content/uploads/2018/05/24164850/Sprinting-Benefits-STACK-300x169.jpg">
+		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2018/10/10123231/Patrick-Mahomes-Arm-Strength-STACK-300x169.jpg">
 	</span>
 
 						</a>
 					</div>
 
-					<strong> <a href="http://www.stack.com/a/why-every-human-being-should-run-sprints"> Why Every Human Being Should Run Sprints </a> </strong>
+					<strong> <a href="https://www.stack.com/a/the-childhood-drill-that-helped-pat-mahomes-build-superhuman-arm-strength"> The Childhood Drill That Helped Pat Mahomes Build Superhuman Arm Strength </a> </strong>
 					
 					
 				</div>
@@ -1368,19 +1504,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div class="trending-block  " data-name="2" data-template="trending-block">
 
 					<div>
-						<a href="http://www.stack.com/a/is-halo-top-ice-cream-actually-healthy">
+						<a href="https://www.stack.com/a/how-to-change-your-basketball-body-language-for-the-better">
 
 							<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
-		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://upl.stack.com/wp-content/uploads/2017/05/11105540/Halo-Top-2-STACK-300x168.jpg" class="img-responsive" alt="Is Halo Top Ice Cream Actually Healthy?" height="" width="" style="">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2018/10/08060411/Basketball-Body-Language-STACK-300x169.jpg" class="img-responsive" alt="How to Change Your Basketball Body Language for the Better" height="" width="" style="">
 		<meta itemprop="height" content="300">
 		<meta itemprop="width" content="250">
-		<meta itemprop="url" content="http://upl.stack.com/wp-content/uploads/2017/05/11105540/Halo-Top-2-STACK-300x168.jpg">
+		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2018/10/08060411/Basketball-Body-Language-STACK-300x169.jpg">
 	</span>
 
 						</a>
 					</div>
 
-					<strong> <a href="http://www.stack.com/a/is-halo-top-ice-cream-actually-healthy"> Is Halo Top Ice Cream Actually Healthy? </a> </strong>
+					<strong> <a href="https://www.stack.com/a/how-to-change-your-basketball-body-language-for-the-better"> How to Change Your Basketball Body Language for the Better </a> </strong>
 					
 					
 				</div>
@@ -1390,19 +1526,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div class="trending-block  " data-name="3" data-template="trending-block">
 
 					<div>
-						<a href="http://www.stack.com/a/an-8-week-training-program-for-a-higher-vertical-jump">
+						<a href="https://www.stack.com/a/why-usa-basketball-wants-youth-coaches-to-stop-using-zone-defenses">
 
 							<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
-		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://upl.stack.com/wp-content/uploads/2017/03/29094241/Vertical-Jump-STACK-300x168.jpg" class="img-responsive" alt="An 8-Week Training Program for a Higher Vertical Jump" height="" width="" style="">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2018/10/04145408/Man-Defense-STACK-300x169.jpg" class="img-responsive" alt="Why USA Basketball Wants Youth Coaches to Stop Using Zone Defenses" height="" width="" style="">
 		<meta itemprop="height" content="300">
 		<meta itemprop="width" content="250">
-		<meta itemprop="url" content="http://upl.stack.com/wp-content/uploads/2017/03/29094241/Vertical-Jump-STACK-300x168.jpg">
+		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2018/10/04145408/Man-Defense-STACK-300x169.jpg">
 	</span>
 
 						</a>
 					</div>
 
-					<strong> <a href="http://www.stack.com/a/an-8-week-training-program-for-a-higher-vertical-jump"> An 8-Week Training Program for a Higher Vertical Jump </a> </strong>
+					<strong> <a href="https://www.stack.com/a/why-usa-basketball-wants-youth-coaches-to-stop-using-zone-defenses"> Why USA Basketball Wants Youth Coaches to Stop Using Zone Defenses </a> </strong>
 					
 					
 				</div>
@@ -1412,19 +1548,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div class="trending-block  " data-name="4" data-template="trending-block">
 
 					<div>
-						<a href="http://www.stack.com/a/build-an-effective-3-day-athlete-workout-routine-with-this-template">
+						<a href="https://www.stack.com/a/how-to-teach-youth-soccer-players-basic-shooting-skills">
 
 							<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
-		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://upl.stack.com/wp-content/uploads/2018/07/30163000/Workout-Routine-STACK-300x169.jpg" class="img-responsive" alt="Create an Effective 3-Day Workout Routine With This Template" height="" width="" style="">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2018/09/21100053/Scissors-and-Shoot-Drill-STACK-300x169.png" class="img-responsive" alt="How to Teach Youth Soccer Players Basic Shooting Skills" height="" width="" style="">
 		<meta itemprop="height" content="300">
 		<meta itemprop="width" content="250">
-		<meta itemprop="url" content="http://upl.stack.com/wp-content/uploads/2018/07/30163000/Workout-Routine-STACK-300x169.jpg">
+		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2018/09/21100053/Scissors-and-Shoot-Drill-STACK-300x169.png">
 	</span>
 
 						</a>
 					</div>
 
-					<strong> <a href="http://www.stack.com/a/build-an-effective-3-day-athlete-workout-routine-with-this-template"> Create an Effective 3-Day Workout Routine With This Template </a> </strong>
+					<strong> <a href="https://www.stack.com/a/how-to-teach-youth-soccer-players-basic-shooting-skills"> How to Teach Youth Soccer Players Basic Shooting Skills </a> </strong>
 					
 					
 				</div>
@@ -1434,19 +1570,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div class="trending-block hidden " data-name="5" data-template="trending-block">
 
 					<div>
-						<a href="http://www.stack.com/a/lebrons-secret-to-being-better-than-ever-in-season-15-superhuman-core-strength">
+						<a href="https://www.stack.com/a/rxbars">
 
 							<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
-		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://upl.stack.com/wp-content/uploads/2018/05/09103816/LeBron-James-Core-Strength-STACK-300x169.jpg" class="img-responsive" alt="LeBron's Secret to Being Better Than Ever in Season 15? Superhuman Core Strength" height="" width="" style="">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2017/12/12113115/RXBars-STACK-300x169.png" class="img-responsive" alt="Are RXBARs Actually Healthy?" height="" width="" style="">
 		<meta itemprop="height" content="300">
 		<meta itemprop="width" content="250">
-		<meta itemprop="url" content="http://upl.stack.com/wp-content/uploads/2018/05/09103816/LeBron-James-Core-Strength-STACK-300x169.jpg">
+		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2017/12/12113115/RXBars-STACK-300x169.png">
 	</span>
 
 						</a>
 					</div>
 
-					<strong> <a href="http://www.stack.com/a/lebrons-secret-to-being-better-than-ever-in-season-15-superhuman-core-strength"> LeBron's Secret to Being Better Than Ever in Season 15? Superhuman Core Strength </a> </strong>
+					<strong> <a href="https://www.stack.com/a/rxbars"> Are RXBARs Actually Healthy? </a> </strong>
 					
 					
 				</div>
@@ -1456,19 +1592,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div class="trending-block hidden " data-name="6" data-template="trending-block">
 
 					<div>
-						<a href="http://www.stack.com/a/is-lacroix-actually-healthy">
+						<a href="https://www.stack.com/a/is-fruit-juice-actually-healthy">
 
 							<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
-		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://upl.stack.com/wp-content/uploads/2017/01/24104337/LaCroix-STACK-300x168.jpg" class="img-responsive" alt="Is LaCroix Actually Healthy?" height="" width="" style="">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2018/09/11140845/Apple-Juice-STACK-300x169.jpg" class="img-responsive" alt="Is Fruit Juice Actually Healthy?" height="" width="" style="">
 		<meta itemprop="height" content="300">
 		<meta itemprop="width" content="250">
-		<meta itemprop="url" content="http://upl.stack.com/wp-content/uploads/2017/01/24104337/LaCroix-STACK-300x168.jpg">
+		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2018/09/11140845/Apple-Juice-STACK-300x169.jpg">
 	</span>
 
 						</a>
 					</div>
 
-					<strong> <a href="http://www.stack.com/a/is-lacroix-actually-healthy"> Is LaCroix Actually Healthy? </a> </strong>
+					<strong> <a href="https://www.stack.com/a/is-fruit-juice-actually-healthy"> Is Fruit Juice Actually Healthy? </a> </strong>
 					
 					
 				</div>
@@ -1478,19 +1614,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div class="trending-block hidden " data-name="7" data-template="trending-block">
 
 					<div>
-						<a href="http://www.stack.com/a/8-drills-for-building-nfl-style-speed-and-explosiveness">
+						<a href="https://www.stack.com/a/is-peanut-butter-actually-healthy">
 
 							<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
-		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://upl.stack.com/wp-content/uploads/2017/05/11093950/Speed-Drills-Featured-STACK-300x168.png" class="img-responsive" alt="8 Drills For Building NFL-Style Speed and Explosiveness" height="" width="" style="">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2017/09/07145012/Peanut-Butter-1-STACK-300x169.jpg" class="img-responsive" alt="Is Peanut Butter Actually Healthy?" height="" width="" style="">
 		<meta itemprop="height" content="300">
 		<meta itemprop="width" content="250">
-		<meta itemprop="url" content="http://upl.stack.com/wp-content/uploads/2017/05/11093950/Speed-Drills-Featured-STACK-300x168.png">
+		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2017/09/07145012/Peanut-Butter-1-STACK-300x169.jpg">
 	</span>
 
 						</a>
 					</div>
 
-					<strong> <a href="http://www.stack.com/a/8-drills-for-building-nfl-style-speed-and-explosiveness"> 8 Drills For Building NFL-Style Speed and Explosiveness </a> </strong>
+					<strong> <a href="https://www.stack.com/a/is-peanut-butter-actually-healthy"> Is Peanut Butter Actually Healthy? </a> </strong>
 					
 					
 				</div>
@@ -1500,19 +1636,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div class="trending-block hidden " data-name="8" data-template="trending-block">
 
 					<div>
-						<a href="http://www.stack.com/a/the-dimensions-of-a-football-field">
+						<a href="https://www.stack.com/a/why-parents-need-to-encourage-youth-athletes-to-play-multiple-sports">
 
 							<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
-		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://upl.stack.com/wp-content/uploads/2015/06/Football-Field-Dimensions-654x4131-300x168.png" class="img-responsive" alt="Football Field Dimensions and Goal Post Sizes: A Quick Guide" height="" width="" style="">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2017/04/21184112/Football-Kid-STACK-300x168.jpg" class="img-responsive" alt="Why Parents Need to Encourage Youth Athletes to Play Multiple Sports" height="" width="" style="">
 		<meta itemprop="height" content="300">
 		<meta itemprop="width" content="250">
-		<meta itemprop="url" content="http://upl.stack.com/wp-content/uploads/2015/06/Football-Field-Dimensions-654x4131-300x168.png">
+		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2017/04/21184112/Football-Kid-STACK-300x168.jpg">
 	</span>
 
 						</a>
 					</div>
 
-					<strong> <a href="http://www.stack.com/a/the-dimensions-of-a-football-field"> Football Field Dimensions and Goal Post Sizes: A Quick Guide </a> </strong>
+					<strong> <a href="https://www.stack.com/a/why-parents-need-to-encourage-youth-athletes-to-play-multiple-sports"> Why Parents Need to Encourage Youth Athletes to Play Multiple Sports </a> </strong>
 					
 					
 				</div>
@@ -1522,19 +1658,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div class="trending-block hidden " data-name="9" data-template="trending-block">
 
 					<div>
-						<a href="http://www.stack.com/a/are-kind-bars-actually-healthy">
+						<a href="https://www.stack.com/a/study-nearly-90-of-this-years-nfl-draft-picks-played-multiple-sports-in-high-school">
 
 							<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
-		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://upl.stack.com/wp-content/uploads/2018/05/16174300/KIND-Bars-Healthy-STACK-300x169.jpg" class="img-responsive" alt="Are KIND Bars Actually Healthy?" height="" width="" style="">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2016/05/02132424/2016-NFL-Draft-STACK-300x168.jpg" class="img-responsive" alt="STUDY: Nearly 90% Of This Year's NFL Draft Picks Played Multiple Sports in High School" height="" width="" style="">
 		<meta itemprop="height" content="300">
 		<meta itemprop="width" content="250">
-		<meta itemprop="url" content="http://upl.stack.com/wp-content/uploads/2018/05/16174300/KIND-Bars-Healthy-STACK-300x169.jpg">
+		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2016/05/02132424/2016-NFL-Draft-STACK-300x168.jpg">
 	</span>
 
 						</a>
 					</div>
 
-					<strong> <a href="http://www.stack.com/a/are-kind-bars-actually-healthy"> Are KIND Bars Actually Healthy? </a> </strong>
+					<strong> <a href="https://www.stack.com/a/study-nearly-90-of-this-years-nfl-draft-picks-played-multiple-sports-in-high-school"> STUDY: Nearly 90% Of This Year's NFL Draft Picks Played Multiple Sports in High School </a> </strong>
 					
 					
 				</div>
@@ -1571,11 +1707,38 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 	
 
-	<div id="oas_TopLeft" class="oas oas_dw300 oas_dh250" data-oas-d="TopLeft" data-oas-w="300" data-oas-h="250"></div>
+	<center>
+		<div id="TopLeft" class="dfp-adunit">
+			<script>
+			// add this ad unit as a desktop option
+			DFP.banners['TopLeft'] 	= {
+				'height': 	250,
+				'width': 	300,
+				'slot': 	false,
+				'loaded': 	false,
+				'device': 	'desktop'
+			};
+			</script>
+		</div>
+		</center>
+	
+			<center>
+		<div id="x65" class="dfp-adunit">
+			<script>
+			// add this ad unit as a mobile option
+			DFP.banners['x65'] 	= {
+				'height': 	250,
+				'width': 	300,
+				'slot': 	false,
+				'loaded': 	false,
+				'device': 	'phone'
+			};
+			</script>
+		</div>
+		</center>
+	
 
 
-
-	<div id="oas_x65" class="oas oas_mw300 oas_mh250" data-oas-m="x65" data-oas-w="300" data-oas-h="250"></div>
 
 
 
@@ -1602,11 +1765,38 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 		<div class="col-xs-12">
 
-			<div id="oas_Top2" class="oas oas_dw728 oas_dh90" data-oas-d="Top2" data-oas-w="728" data-oas-h="90"></div>
+			<center>
+		<div id="Top2" class="dfp-adunit">
+			<script>
+			// add this ad unit as a desktop option
+			DFP.banners['Top2'] 	= {
+				'height': 	90,
+				'width': 	728,
+				'slot': 	false,
+				'loaded': 	false,
+				'device': 	'desktop'
+			};
+			</script>
+		</div>
+		</center>
+	
+			<center>
+		<div id="x68" class="dfp-adunit">
+			<script>
+			// add this ad unit as a mobile option
+			DFP.banners['x68'] 	= {
+				'height': 	250,
+				'width': 	300,
+				'slot': 	false,
+				'loaded': 	false,
+				'device': 	'phone'
+			};
+			</script>
+		</div>
+		</center>
+	
 
 
-
-	<div id="oas_x68" class="oas oas_mw300 oas_mh250" data-oas-m="x68" data-oas-w="300" data-oas-h="250"></div>
 
 
 		</div>
@@ -1630,6 +1820,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 
 <div class="row">
+	<div class="col-xs-12">
+		<div class="be-ix-link-block"><!--Link Equity Target Div--></div>
+	</div>
+</div>
+
+<div class="row">
 
 	<div class="col-xs-12 col-sm-12">
 
@@ -1641,11 +1837,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 		<p class="footer-title">STACK Resources</p>
 		<ul class="footer-links">
-			<li><a href="http://www.stack.com/fitness">STACK Fitness</a></li>
+			<li><a href="https://www.stack.com/fitness">STACK Fitness</a></li>
 			<li><a href="http://conditioning.stack.com">STACK Conditioning</a></li>
-			<li><a href="http://www.stack.com/coaches-and-trainers">Coaches &amp; Trainers</a></li>
-			<li><a href="http://www.stack.com/4w">STACK 4W</a></li>
-			<li><a href="http://www.stack.com/t/news">News</a></li>
+			<li><a href="https://www.stack.com/coaches-and-trainers">Coaches &amp; Trainers</a></li>
+			<li><a href="https://www.stack.com/4w">STACK 4W</a></li>
+			<li><a href="https://www.stack.com/t/news">News</a></li>
 		</ul>
 
 	</div>			
@@ -1684,12 +1880,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 		<p class="footer-title">STACK</p>
 		<ul class="footer-links">
-			<li><a href="http://www.stack.com/about-us">About STACK</a></li>
-			<li><a href="http://www.stack.com/contact-us">Contact Us</a></li>
-			<li><a href="http://www.stack.com/terms-of-use">Terms of Use</a></li>
-			<li><a href="http://www.stack.com/privacy-policy">Privacy Policy</a></li>
-			<li><a href="http://www.stack.com/expert-list">STACK Experts</a></li>
-			<li><a href="http://www.stack.com/contact-us">Advertising</a></li>
+			<li><a href="https://www.stack.com/about-us">About STACK</a></li>
+			<li><a href="https://www.stack.com/contact-us">Contact Us</a></li>
+			<li><a href="https://www.stack.com/terms-of-use">Terms of Use</a></li>
+			<li><a href="https://www.stack.com/privacy-policy">Privacy Policy</a></li>
+			<li><a href="https://www.stack.com/expert-list">STACK Experts</a></li>
+			<li><a href="https://www.stack.com/contact-us">Advertising</a></li>
 			<li><a href="//www.stack.com/p/write-for-stack">Contribute</a></li>
 		</ul>
 
@@ -1704,7 +1900,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<li><a href="http://www.youtube.com/user/STACKVids" target="_blank">YouTube</a></li>
 			<li><a href="http://www.instagram.com/stackmedia" target="_blank">Instagram</a></li>
 			<li><a href="http://www.pinterest.com/stackmedia" target="_blank">Pinterest</a></li>
-			<li><a href="http://www.stack.com/mrss/stack" target="_blank">RSS</a></li>
+			<li><a href="https://www.stack.com/mrss/stack" target="_blank">RSS</a></li>
 		</ul>
 
 	</div>	
@@ -1749,52 +1945,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 
 
-<script type="text/JavaScript">
-var _nolggGlobalParams = {
-	sfcode : "dcr",
-	apid : "P265759F9-8E9A-45D4-8451-31520F4A8561",
-	apn : "stackCOM"
-}; //Populates your required global parameters
- 
-var gg1 = NOLCMB.getInstance("static");  //Creates SDK instance call
-gg1.ggInitialize(_nolggGlobalParams); //Passes global parameters
-  
-var ass 		= Math.round(1000000 * Math.random());
-var vert 		= dataLayer.theme;
-var cat 		= dataLayer.category;
-
-if (vert === undefined){
-	vert 	= 'STACK'; 
-}
-  
-if (cat === undefined){
-	cat 	= 'none'; 
-}
-  
-var staticmeta 	= {
-	type:		"static",
-	assetid:	ass,
-  	section: 	vert,
-    segA: 		cat
-};
- 
-gg1.ggPM("staticstart",staticmeta); //Call static start even and Passes  metadata
-</script>
-
 <!-- footer javascript files -->
 <script type="text/javascript" src="/min/?f=/assets/js/jquery-1.11.3.min.js&amp;t=js"></script>
 
 
 
-	
-		
-		<script src="//network.yardbarker.com/network/ybn_pixel/11909"></script>
-
-	
-
 <script type="text/javascript" src="/min/?f=/assets/third-party/initializr/js/vendor/bootstrap.min.js,/assets/third-party/jquery-cookie-master/src/jquery.cookie.js,/assets/js/api.js,/assets/js/analytics.js,/assets/js/navbar.js,/assets/js/viewport.js,/assets/js/events.js,/assets/js/lazyload.js,/assets/js/promocode.js,/assets/js/mailcheck-master/src/mailcheck.min.js,/assets/js/mailcheck-init.js,/assets/js/marketing/refresh.js&amp;t=js"></script>
-<script type="text/javascript" src="/min/?f=/assets/js/oasbanner.js&amp;t=js"></script>
 <script type="text/javascript" src="/min/?f=/assets/js/loadmore.js&amp;t=js"></script>
+<script type="text/javascript" src="/min/?f=/assets/js/dfpbanner-lazyload.js&amp;t=js"></script>
 
 
 <script type="text/javascript">
@@ -1833,7 +1991,6 @@ gg1.ggPM("staticstart",staticmeta); //Call static start even and Passes  metadat
 	is_facebook = detect_facebook();
 
 </script>
-
 
 <script type="text/javascript">
 
@@ -1884,7 +2041,29 @@ gg1.ggPM("staticstart",staticmeta); //Call static start even and Passes  metadat
       })();
 
     }
-</script>
+</script><script>
+var infolinks_page_type 	= pageinfo.type || 'article';
+if (infolinks_page_type !== 'home' && infolinks_page_type !== 'page' && infolinks_page_type !== 'dtc' && infolinks_page_type !== 'fb'){
+	if (typeof device !== 'undefined' && device == 'phone'){
+		// mobile version
+		var infolinks_pid 	= 3119747;
+		var infolinks_wsid 	= 1;
+		var script 			= document.createElement('script');
+		script.setAttribute("type", "text/javascript");
+		script.setAttribute("src", 	"//resources.infolinks.com/js/infolinks_main.js");
+		document.body.appendChild(script);
+	} else {
+		// desktop version
+		var infolinks_pid 	= 3119747;
+		var infolinks_wsid 	= 0;	
+		var script 			= document.createElement('script');
+		script.setAttribute("type", "text/javascript");
+		script.setAttribute("src", 	"//resources.infolinks.com/js/infolinks_main.js");
+		document.body.appendChild(script);
+	}
+}
+</script><script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script><script type="text/javascript">ggv2id='vb90dub9';</script>
+<script type="text/javascript" src="https://js.gumgum.com/services.js"></script>
 
 
 </body></html>
