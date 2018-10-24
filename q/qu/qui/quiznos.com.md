@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quiznos.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603091242id_/http%3A//www.quiznos.com/About/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quiznos.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024140023id_/http%3A//www.quiznos.com/About/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
