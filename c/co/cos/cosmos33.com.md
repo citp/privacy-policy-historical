@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmos33.com privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806090509id_/http%3A//www.cosmos33.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmos33.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024071303id_/http%3A//www.cosmos33.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,7 +53,7 @@ Service Providers: We also may disclose information to outside companies that he
 
 Other Companies: We may provide information to carefully selected outside companies when we believe their products or services may be of interest to you.
 
-Business Transitions: We may transfer or share a copy of personal information about you in the event that Cosmos33 goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets. You will be notified via email or prominent notice on our website prior to a change of ownership or control of your personal information, if your personal information will be used contrary to this policy. However, nothing in this Privacy Policy is intended to interfere with the ability of Madison Island to transfer all or part of its business and/or assets to an affiliate or independent third party at any time, for any purpose, without any limitation whatsoever. Madison Island specifically reserves the right to transfer or share a copy of personally identifiable information collected from its websites to the buyer of that portion of its business relating to that information.
+Business Transitions: We may transfer or share a copy of personal information about you in the event that Cosmos33 goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets. You will be notified via email or prominent notice on our website prior to a change of ownership or control of your personal information, if your personal information will be used contrary to this policy. However, nothing in this Privacy Policy is intended to interfere with the ability of Cosmos33 to transfer all or part of its business and/or assets to an affiliate or independent third party at any time, for any purpose, without any limitation whatsoever. Cosmos33 specifically reserves the right to transfer or share a copy of personally identifiable information collected from its websites to the buyer of that portion of its business relating to that information.
 
 Compliance with Law: We may provide access to information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our website, to limit our legal liability, and to protect our rights or to protect the rights, property, or safety of visitors of this website or the public.
 
@@ -75,7 +75,7 @@ If you are using a public computer, we strongly encourage you to LOG OUT at the 
 
 EMAILS
 
-You will receive promotional emails from us only if you have asked to receive them. If you do not want to receive email from Madison Island or its affiliates you can click on the "Unsubscribe" link at the bottom of any email communication sent by us. Please allow us 3 business days from when the request was received to complete the removal, as some of our promotions may already have been in process before you submitted your request.
+You will receive promotional emails from us only if you have asked to receive them. If you do not want to receive email from Cosmos33 or its affiliates you can click on the "Unsubscribe" link at the bottom of any email communication sent by us. Please allow us 3 business days from when the request was received to complete the removal, as some of our promotions may already have been in process before you submitted your request.
 
 ACCEPTANCE
 
