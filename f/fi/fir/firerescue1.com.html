@@ -1,10 +1,16 @@
-<!--The following is the downloaded HTML source of the firerescue1.com privacy policy that was archived on 2018-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180628013518id_/https%3A//www.firerescue1.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the firerescue1.com privacy policy that was archived on 2018-10-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181025014424id_/https%3A//www.firerescue1.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head prefix="og: http://ogp.me/ns#">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
     <title>Privacy Policy</title>
+
+
+
+<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=1&amp;cb=1708562033"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TXD2S2"></script><script type="text/javascript" async="" src="//c.lytics.io/api/tag/225ba9b1b30ff516eb8e6998dcb0deb4/lio.js"></script><script src="//cub-praetorian.netdna-ssl.com/cub-widget.0.18.x.js" id="cub-widget-script" async=""></script>
+
     
         <meta name="description" content="FireRescue1&amp;#39;s privacy policy is dedicated to safeguarding your privacy online and respecting the information we collect from you.">
 
@@ -15,7 +21,6 @@
     <meta name="verify-v1" content="5bjQsqJUCDkgUm6ShSrD2O0DEe0wK3LKKbZ/Ol3YiNM=">
     
     
-
 <meta name="msvalidate.01" content="7317D973E3CE78DD08DE035783C51409">
 
 
@@ -24,24 +29,21 @@
     <meta property="fb:app_id" content="452451901462436">
     
         <meta property="og:image" content="https://media-praetorian.netdna-ssl.com/images/fr1-facebook/fr1-default-og-image.jpg">
-    
-        <meta name="thumbnail" content="https://media-praetorian.netdna-ssl.com/images/fr1-facebook/fr1-default-og-image.jpg">
+    <meta name="thumbnail" content="https://media-praetorian.netdna-ssl.com/images/fr1-facebook/fr1-default-og-image.jpg">
 
     <link rel="icon" href="//www.firerescue1.com/favicon.ico" type="image/x-icon">
-    <link href="//fonts.googleapis.com/css?family=Rokkitt:600%7COpen+Sans:400,400italic,700" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700|Rokkitt:600" rel="stylesheet">
     <link href="//customer.cludo.com/css/overlay/cludo-search-default.min.css" type="text/css" rel="stylesheet">
     
-    <link rel="stylesheet" type="text/css" href="//firerescue1-resources-praetorian.netdna-ssl.com/_res/v333125/css/base.css">
-    <link rel="stylesheet" type="text/css" href="//firerescue1-resources-praetorian.netdna-ssl.com/_res/v333125/css/inner-page.css">
+        <link rel="stylesheet" href="//firerescue1-resources-praetorian.netdna-ssl.com/_res/v351910/css/base.css">
 
     
 
     
-    <script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=1&amp;cb=1049345679"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TXD2S2"></script><script type="text/javascript" async="" src="//c.lytics.io/api/tag/225ba9b1b30ff516eb8e6998dcb0deb4/lio.js"></script><script>
+    <script>
         var siteSettings = {
             isStagingOrLocal: false,
             cubPublicKey: 'pk_sckHYQBDG676JstOw',
-            googleCseId: '007821250620234666838:grt4-sohcay',
             sentryUrlFrontEnd: 'https://ca0147b59f9f46d9bac27e7727ef0ca6@sentry.io/29602',
             cludoEngineId: '8781',
             cubCustomMenuItems: true
@@ -103,7 +105,7 @@
 <script src="//www.googletagservices.com/tag/js/gpt.js" type="text/javascript" async=""></script>
 <script type="text/javascript">
     var dfpSettings = {
-        targets: '{"Sitename":"FireRescue1","Url":"/privacy/","Topic":null,"Category":"Privacy_Policy","SubCategory":null,"ArticleId":0,"Campaign":null,"PCSponsored":null,"TopicSponsored":null,"Source":null,"Author":null,"IsStaging":false,"IsResponsive":true,"IsSponsored":false}',
+        targets: {"Sitename":"FireRescue1","Url":"/privacy/","Topic":null,"Category":"Privacy_Policy","SubCategory":null,"ArticleId":0,"Campaign":null,"PCSponsored":null,"TopicSponsored":null,"Source":null,"Author":null,"IsStaging":false,"IsResponsive":true,"IsSponsored":false},
         isInitialLoad: !true
     };
     // duplicate defining lazyLoad from lazy-load.js to have this object
@@ -118,7 +120,7 @@
 </script>
 
     
-    <script src="https://cdn.ravenjs.com/3.26.2/raven.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.ravenjs.com/3.26.4/raven.min.js" crossorigin="anonymous"></script>
     <script>
         Raven.config(window.siteSettings.sentryUrlFrontEnd, {
             whitelistUrls: [
@@ -133,70 +135,83 @@
                 /educationgrantshelp\.com/,
                 /praetorian\.netdna-ssl\.com/
             ],
+            // The 3rd party scripts, that
+            // pass throught "whitelistUrls" filter.
+            // Example: https://www.ems1.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=268281608
+            ignoreUrls: [
+                // McAfee Web Gateway error.
+                /mwg-internal/,
+                // Incapsula
+                /_Incapsula_Resource/
+            ],
             // Don't send next errors to Sentry
             ignoreErrors: [
-                // McAfee Web Gateway error
-                '/mwg-internal/de5fs23hu73ds/progress',
                 // To ignore this https://sentry.io/policeone/policeone-browser/issues/526564233/?query=is:ignored%20engn
-                'Object doesn\'t support property or method \'engn\'',
-                // Brightcove (VideoJS) informative error
-                'The play() request was interrupted by a call to pause().',
-                'The operation was aborted.',
-                'An attempt was made to use an object that is not, or is no longer, usable.',
+                /Object doesn\'t support property or method \'engn\'/,
+                // Brightcove \(VideoJS\) informative error
+                /The play\(\) request was interrupted by a call to pause\(\)/,
+                /The operation was aborted/,
+                /An attempt was made to use an object that is not, or is no longer, usable/,
                 // Internal Google Chrome error
-                '__gCrWeb.autofill.extractForms',
+                /__gCrWeb\.autofill\.extractForms/,
+                // Internal Google Chrome error: https://github.com/WICG/ResizeObserver/issues/38
+                /ResizeObserver loop limit exceeded/,
                 // Internal Firefox-iOS error
-                '__firefox__.',
+                /__firefox__\./,
                 // Amazon Ads
-                'amazon-adsystem.com',
+                /amazon-adsystem\.com/,
                 // Lytics Bot
-                'FDIC2010SS.js',
+                /FDIC2010SS\.js/,
                 // Third party scripts errors, mostly from Ad scripts
-                's3.amazonaws.com',
-                'platform.twitter.com',
-                'youtube.com',
-                'facebook.com',
-                'tpc.googlesyndication.com',
-                'acdn.adnxs.com',
-                'scribd.com',
-                'Can\'t find variable: mobiGetClick',
-                'document.getElementById(\'rsstable\').src',
-                'Can\'t find variable: loadHomepageTiles',
-                'PAPADDINGXXPADDINGPADDINGXX',
-                'anv_pl_def',
-                '__show__deepen is not defined',
-                'DomNode has not been set for this SimpleScriptable',
-                'Can\'t find variable: __scanAndKill',
-                'document.getElementById(\'sdppromo\').getElementsByTagName',
-                'document.getElementById(\'og_head\').style',
-                'window.ViewLostFocus is not a function',
-                'window.DWEventToLiveView is not a function',
-                'Unable to get property \'cmpGlobal\'',
-                'fire_omniture_event is not defined',
-                '/cygnus',
-                'Ruby_ExtractLoginFormData',
-                'jwplayer is not defined',
-                '$(\'textarea[name\x3d"message"]\')',
-                'Formstack.GoogleAnalytics',
-                'Can\'t find variable: Formstack',
-                'Can\'t find variable: pktAnnotationHighlighter',
-                'Object doesn\'t support property or method \'SetMaximized\'',
-                'Can\'t find variable: google',
-                'mobicip_add_event_listeners',
-                'Can\'t find variable: MyAppGetHTMLElementsAtPoint',
-                'Can\'t find variable: MyAppGetLinkHREFAtPoint',
-                'vid_mate_check is not defined',
-                'Cannot read property \'closingEls\' of undefined',
-                'document.getElementById(\'wid_banner\').style',
-                'document.getElementById(\'wid_topAd\').style',
-                'document.getElementById(\'wid_adTop\').style',
-                'document.getElementById(\'ads_top\').style',
-                'document.getElementById(\'top-ad\').style',
-                'document.getElementById(\'mojivaiframediv\').style',
-                'document.getElementById(\'adSpace\').style',
-                'document.getElementById(\'aframe0\').style',
-                'document.getElementById(\'ctl00_AdTopBanner_adDiv\').style',
-                'document.getElementById(\'q-footer\').style'
+                /s3\.amazonaws\.com/,
+                /platform\.twitter\.com/,
+                /youtube\.com/,
+                /facebook\.com/,
+                /tpc\.googlesyndication\.com/,
+                /acdn\.adnxs\.com/,
+                /scribd\.com/,
+                /Can\'t find variable: mobiGetClick/,
+                /document\.getElementById\(\'rsstable\'\)\.src/,
+                /Can\'t find variable: loadHomepageTiles/,
+                /PAPADDINGXXPADDINGPADDINGXX/,
+                /anv_pl_def/,
+                /__show__deepen is not defined/,
+                /DomNode has not been set for this SimpleScriptable/,
+                /Can\'t find variable: __scanAndKill/,
+                /document\.getElementById\(\'sdppromo\'\)\.getElementsByTagName/,
+                /document\.getElementById\(\'og_head\'\)\.style/,
+                /window\.ViewLostFocus is not a function/,
+                /window\.DWEventToLiveView is not a function/,
+                /Unable to get property \'cmpGlobal\'/,
+                /fire_omniture_event is not defined/,
+                /cygnus/,
+                /Ruby_ExtractLoginFormData/,
+                /jwplayer/,
+                /\'textarea\[name\\x3d"message"\]/,
+                /Formstack\.GoogleAnalytics/,
+                /Can\'t find variable: Formstack/,
+                /Can\'t find variable: pktAnnotationHighlighter/,
+                /Object doesn\'t support property or method \'SetMaximized\'/,
+                /Can\'t find variable: google/,
+                /mobicip_add_event_listeners/,
+                /Can\'t find variable: MyAppGetHTMLElementsAtPoint/,
+                /Can\'t find variable: MyAppGetLinkHREFAtPoint/,
+                /vid_mate_check is not defined/,
+                /Cannot read property \'closingEls\' of undefined/,
+                /document\.getElementById\(\'wid_banner\'\)\.style/,
+                /document\.getElementById\(\'wid_topAd\'\)\.style/,
+                /document\.getElementById\(\'wid_adTop\'\)\.style/,
+                /document\.getElementById\(\'ads_top\'\)\.style/,
+                /document\.getElementById\(\'top-ad\'\)\.style/,
+                /document\.getElementById\(\'mojivaiframediv\'\)\.style/,
+                /document\.getElementById\(\'adSpace\'\)\.style/,
+                /document\.getElementById\(\'aframe0\'\)\.style/,
+                /document\.getElementById\(\'ctl00_AdTopBanner_adDiv\'\)\.style/,
+                /document\.getElementById\(\'q-footer\'\)\.style/,
+                /document\.getElementById\(\'mapid\'\)\.style/,
+                /cloak39527/,
+                /_isMatchingDomain/,
+                /window\.top1\.realvu_boost/
             ],
             dataCallback: function (data) {
                 if (data && data.exception) {
@@ -211,10 +226,12 @@
                                 "Message: Out of memory"
                             ];
 
-                            var msg = 'It seems like you\'re using Internet Exp' +
-                            'lorer 11 or similar browser. It has memory leaks, ' +
-                            'and it\'s almost out of memory now. Please, confirm ' +
-                            'page reloading to fix this.';
+                            var msg = 'We have detected that you\'re using ' +
+                            'Internet Explorer 11 or a similar browser, ' +
+                            'which is known to have issues with memory leaks.' +
+                            ' Your browser is almost out of memory, which ' +
+                            'can make the site unresponsive. Please reload ' +
+                            'this page to free memory and fix this.';
                             if (window.confirm(msg)) {
                                 document.location.reload();
                             }
@@ -289,6 +306,22 @@
                                 "Message: Cannot read property 'renderItemUsingLytcs' of undefined"
                             ];
                         }
+
+                        if (/^Cannot find function push in object \[object Proxy\]/.test(errorMsg)) {
+                            data.fingerprint = [
+                                "Type: TypeError",
+                                "Message: Cannot find function push in object [object Proxy]"
+                            ];
+                        }
+
+                        // To group DataCloneError errors generated by Pubwise script
+                        if (/DataCloneError/.test(errorMsg) ||
+                            /Failed to execute \'postMessage\' on \'Window\': function/.test(errorMsg)) {
+                            data.fingerprint = [
+                                "Type: DataCloneError",
+                                "Message: " + errorMsg
+                            ];
+                        }
                     }
                 }
 
@@ -297,10 +330,9 @@
         }).install();
     </script>
 
-
-    <script src="//firerescue1-resources-praetorian.netdna-ssl.com/_res/v333125/js/build/jquery.js" type="text/javascript"></script>
-    <script src="//firerescue1-resources-praetorian.netdna-ssl.com/_res/v333125/js/build/common.js" type="text/javascript"></script>
-    <script src="//firerescue1-resources-praetorian.netdna-ssl.com/_res/v333125/js/build/head.js" type="text/javascript"></script>
+    <script src="//firerescue1-resources-praetorian.netdna-ssl.com/_res/v351910/js/build/dfp.js" async=""></script>
+    <script src="//firerescue1-resources-praetorian.netdna-ssl.com/_res/v351910/js/build/head-sync.js"></script>
+    <script src="//firerescue1-resources-praetorian.netdna-ssl.com/_res/v351910/js/build/head.js" defer=""></script>
     
 
     <script>  dataLayer = [
@@ -321,10 +353,6 @@ j=d.createElement(s),dl=l!=='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body class="responsive">
     
 
-
-<script src="//cub-praetorian.netdna-ssl.com/cub-widget.0.18.x.js" id="cub-widget-script" async=""></script>
-
-    
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TXD2S2"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
@@ -372,10 +400,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
     
-    <header id="header" class="Header">
-        
-        <div class="Header-topAdvBlockWrap u-hiddenTabletS">
-            <div class="Header-topAdvBlock Container">
+        <header id="header" class="Header">
+            
+            <div class="Header-topAdvBlockWrap u-hiddenTabletS">
+                <div class="Header-topAdvBlock Container">
 
     <div id="div-gpt-ad-546180090590731748-1" class="Banner Banner--masthead">
         <script type="text/javascript">
@@ -385,49 +413,49 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 
 
+                </div>
             </div>
-        </div>
 
-        <div class="Header-topBlockWrap">
-            <div class="Header-topBlock Container">
-                <p class="NewsLine u-hiddenMobileXL">
-<a href="/ad/?id=385301030&amp;sid=18518&amp;from=841422" class="NewsLine-link" target="_blank" rel="noopener noreferrer">
+            <div class="Header-topBlockWrap">
+                <div class="Header-topBlock Container">
+                    <p class="NewsLine u-hiddenMobileXL">
+<a href="/ad/?id=393539030&amp;sid=478290&amp;from=841422" class="NewsLine-link" target="_blank" rel="noopener noreferrer">
     <span class="NewsLine-icon">
         <i class="Icon Icon--play"></i>
     </span>
     
-    <span class="NewsLine-text">8 ways GearGrid solves PPE and equipment storage issues</span>
+    <span class="NewsLine-text">Are Your Considering a Particulate Hood Wear Trial?</span>
 </a>
 
-                </p>
+                    </p>
 
 <p class="NewsLine u-visibleMobileXL">
-<a href="/ad/?id=385301030&amp;sid=18518&amp;from=841422" class="NewsLine-link" target="_blank" rel="noopener noreferrer">
+<a href="/ad/?id=393539030&amp;sid=478290&amp;from=841422" class="NewsLine-link" target="_blank" rel="noopener noreferrer">
     <span class="NewsLine-icon">
         <i class="Icon Icon--play"></i>
     </span>
     
-    <span class="NewsLine-text">8 ways GearGrid solves PPE and equipment storage issues</span>
+    <span class="NewsLine-text">Are Your Considering a Particulate Hood Wear Trial?</span>
 </a>
 
 </p>
 
 
 
-                
-                <div class="Header-topSearch">
-                        <div id="header-search" class="Form Form--small" data-cludo-enabled="">
+                    
+                    <div class="Header-topSearch">
+                            <div id="header-search" class="Form Form--small" data-cludo-enabled="">
         <input type="text" class="Form-control Form-control--input " data-control="input" onfocus="if (this.value ==='' ) { this.value=''; }" onblur="if (this.value==='') { this.value=''; }" maxlength="255" value="" name="q" placeholder="Search products, news, training, deals and more..." autocomplete="off">
         <button class="Form-icon" type="button">
             <i class="Icon Icon--search"></i>
         </button>
     </div>
 
-                </div>
+                    </div>
 
-                
-                <div class="Header-topSocials">
-                    <ul class="SocialLinks">
+                    
+                    <div class="Header-topSocials">
+                        <ul class="SocialLinks SocialLinks--tiles">
     <li class="SocialLinks-item">
         <a class="SocialLinks-link SocialLinks-link--facebook" href="http://www.facebook.com/firerescue1/" title="FireRescue1 on Facebook" target="_blank" rel="noopener noreferrer"></a>
     </li>
@@ -438,26 +466,47 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <a class="SocialLinks-link SocialLinks-link--linkedin" href="http://www.linkedin.com/groups?gid=149652" title="FireRescue1 on LinkedIn" target="_blank" rel="noopener noreferrer"></a>
     </li>
 
-                    </ul>
-                </div>
-                
-                    <div id="cub-widget-menu" class="Header-topLogin"></div>
+                        </ul>
+                    </div>
+                    
+                        <div id="cub-widget-menu" class="Header-topLogin"></div>
 
+                </div>
             </div>
+
+            <div id="header-bottom" class="Header-bottomBlock">
+                <div class="Container Header-bottomBlockContainer">
+                    
+                    <a href="/" class="Header-logo Header-logo--front" title="Go to the FireRescue1 homepage">
+
+
+
+        <img class="Logo u-inlineBlock u-alignMiddle" src="//firerescue1-resources-praetorian.netdna-ssl.com/_res/v351910/images/logo/logo.svg" alt="Go to the FireRescue1 homepage">
+
+                    </a>
+                    <a href="/" class="Header-logo Header-logo--back" title="Go to the FireRescue1 homepage">
+
+
+
+        <img class="Logo u-inlineBlock u-alignMiddle" src="//firerescue1-resources-praetorian.netdna-ssl.com/_res/v351910/images/logo/logo-white.svg" alt="Go to the FireRescue1 homepage">
+
+                    </a>
+                            <div class="Header-adv u-hiddenTabletL">
+            
+
+    <div id="div-gpt-ad-546180090590731748-9">
+        <script type="text/javascript">
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-546180090590731748-9'); });
+            window.lazyLoad.renderItemUsingLytcs(9);
+        </script>
+    </div>
+
+
         </div>
 
-        <div id="header-bottom" class="Header-bottomBlock">
-            <div class="Container Header-bottomBlockContainer">
-                
-                <a href="https://www.firerescue1.com/" class="Logo Logo--header" title="Go to the FireRescue1 homepage">
-                    
-                    <img src="//firerescue1-resources-praetorian.netdna-ssl.com/_res/v333125/images/header-and-footer/logo-header.png" class="Logo-image Logo-image--front" alt="Go to the FireRescue1 homepage">
-                    <img src="//firerescue1-resources-praetorian.netdna-ssl.com/_res/v333125/images/header-and-footer/logo.png" class="Logo-image Logo-image--back" alt="Go to the FireRescue1 homepage">
-                </a>
-                
 
-                
-                    <div id="mobile-search" class="Form Form--searchMobile u-visibleTabletL" data-cludo-enabled="">
+                    
+                        <div id="mobile-search" class="Form Form--searchMobile u-visibleTabletL" data-cludo-enabled="">
         <input type="text" class="Form-control Form-control--input Form-control--searchMobile" data-control="input" onfocus="if (this.value ==='' ) { this.value=''; }" onblur="if (this.value==='') { this.value=''; }" maxlength="255" value="" name="q" placeholder="Search" autocomplete="off">
         <button class="Form-icon" type="button">
             <i class="Icon Icon--search"></i>
@@ -465,24 +514,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 
 
-                
-                <div id="main-menu" class="MainMenu">
                     
-                    <div class="MainMenu-mobileToggle u-visibleTabletL">
-                        <a class="MainMenu-mobileToggleBtn" id="menu-mobile-toggle-btn" href="#"><i class="Icon Icon--menu"></i></a>
-                    </div>
-
-                    
-                    <div class="MainMenu-content">
+                    <div id="main-menu" class="MainMenu">
                         
+                        <div class="MainMenu-mobileToggle u-visibleTabletL">
+                            <a class="MainMenu-mobileToggleBtn" id="menu-mobile-toggle-btn" href="#"><i class="Icon Icon--menu"></i></a>
+                        </div>
+
+                        
+                        <div class="MainMenu-content">
+                            
 
 
 <ul class="Menu Menu--header sf-menu">
-        <li class="Menu-item ">
-            <a href="/" class="Menu-link" title="Home">
-                Home
-            </a>
-        </li>
         <li class="Menu-item ">
             <a href="/fire-news/" class="Menu-link" title="News">
                 News
@@ -633,7 +677,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
             </li>
             <li class="Menu-submenuItem Menu-submenuItem--1Level">
-                <a class="Menu-submenuLink Menu-submenuLink--1Level" href="https://flashovertv.firerescue1.com/topics/1475418-products/" target="_blank">
+                <a class="Menu-submenuLink Menu-submenuLink--1Level" href="/videos/all/products/" target="_blank">
                     Product Videos
                 </a>
 
@@ -1088,6 +1132,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="Menu-submenuGroup sf-mega">
                                 <ul class="Menu-submenuItems Menu-submenuItems--2Level" role="menu">
             <li class="Menu-submenuItem Menu-submenuItem--2Level">
+                <a class="Menu-submenuLink Menu-submenuLink--2Level" href="/fire-products/Fentanyl-Protection/">
+                    Fentanyl Protection
+                </a>
+
+            </li>
+            <li class="Menu-submenuItem Menu-submenuItem--2Level">
                 <a class="Menu-submenuLink Menu-submenuLink--2Level" href="/fire-products/Firefighter-Body-Armor/">
                     Firefighter Body Armor
                 </a>
@@ -1442,24 +1492,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
             </li>
             <li class="Menu-submenuItem Menu-submenuItem--1Level">
-                <a class="Menu-submenuLink Menu-submenuLink--1Level" href="https://flashovertv.firerescue1.com/" target="_blank">
-                    FlashoverTV.com
-                </a>
-
-            </li>
-            <li class="Menu-submenuItem Menu-submenuItem--1Level">
-                <a class="Menu-submenuLink Menu-submenuLink--1Level" href="https://flashovertv.firerescue1.com/topics/1475418-products/" target="_blank">
+                <a class="Menu-submenuLink Menu-submenuLink--1Level" href="/videos/all/products/" target="_blank">
                     Fire Product Videos
                 </a>
 
             </li>
-                </ul><ul class="Menu-submenuItems Menu-submenuItems--1Level" role="menu">
             <li class="Menu-submenuItem Menu-submenuItem--1Level">
                 <a class="Menu-submenuLink Menu-submenuLink--1Level" href="/videos/originals/">
                     FireRescue1 Originals
                 </a>
 
             </li>
+                </ul><ul class="Menu-submenuItems Menu-submenuItems--1Level" role="menu">
             <li class="Menu-submenuItem Menu-submenuItem--1Level">
                 <a class="Menu-submenuLink Menu-submenuLink--1Level" href="/training-videos/">
                     Firefighter Training Videos
@@ -1880,9 +1924,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul>
 
 
-                        
-                        <div class="Header-socialBar Header-socialBar--sm u-visibleTabletS">
-                            <ul class="SocialLinks SocialLinks--tabletLg">
+                            
+                            <div class="Header-socialBar Header-socialBar--sm u-visibleTabletS">
+                                <ul class="SocialLinks SocialLinks--tiles SocialLinks--tilesLTablet">
     <li class="SocialLinks-item">
         <a class="SocialLinks-link SocialLinks-link--facebook" href="http://www.facebook.com/firerescue1/" title="FireRescue1 on Facebook" target="_blank" rel="noopener noreferrer"></a>
     </li>
@@ -1893,18 +1937,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <a class="SocialLinks-link SocialLinks-link--linkedin" href="http://www.linkedin.com/groups?gid=149652" title="FireRescue1 on LinkedIn" target="_blank" rel="noopener noreferrer"></a>
     </li>
 
-                            </ul>
+                                </ul>
+                            </div>
                         </div>
+                        
                     </div>
-                    
                 </div>
             </div>
-        </div>
-    </header>
+        </header>
+
     
-    <div class="Container u-visiblePrint">
-        
-        <img class="u-alignMiddle" src="//firerescue1-resources-praetorian.netdna-ssl.com/_res/v333125/images/logo/logo-header-print.gif" alt="logo for print">
+    <div class="Container Container--vertSpaced u-visiblePrint">
+
+
+
+        <img class="Logo Logo--SM" src="//firerescue1-resources-praetorian.netdna-ssl.com/_res/v351910/images/logo/logo.svg" alt="FireRescue1.com">
+
     </div>
 
     <div class="Page Page--bg" data-page-bg="" data-affix="page-content">
@@ -2339,10 +2387,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </article>
             </div>
                 <div class="Page-sidebar">
-<div class="adv-block adv-300x90">
-    
 
-    <div id="div-gpt-ad-546180090590731748-3">
+
+    <div id="div-gpt-ad-546180090590731748-3" class="Banner Banner--SM">
         <script type="text/javascript">
             googletag.cmd.push(function () { googletag.display('div-gpt-ad-546180090590731748-3'); });
             window.lazyLoad.renderItemUsingLytcs(3);
@@ -2351,12 +2398,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-</div>
 
-<div class="adv-block adv-300x90">
-    
 
-</div>
 
 
 
@@ -2369,32 +2412,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </a>
 <ul class="List List--top">
         <li class="List-item">
-            <a href="/line-of-duty-death/articles/385293018-Firefighter-killed-another-critical-after-shooting-at-Calif-explosion/" class="List-link">
-              <span class="List-linkText">Firefighter killed, another critical after shooting at Calif. explosion</span>
+            <a href="/fallen-firefighters/articles/392770018-Kids-of-fallen-9-11-firefighter-take-his-invention-to-Shark-Tank/" class="List-link">
+              <span class="List-linkText">Kids of fallen 9/11 firefighter take his invention to ‘Shark Tank’</span>
               <span class="List-meta"></span>
             </a>
         </li>
         <li class="List-item">
-            <a href="/fallen-firefighters/articles/379994018-Study-More-firefighters-died-by-suicide-than-in-the-line-of-duty-in-2017/" class="List-link">
-              <span class="List-linkText">Study: More firefighters died by suicide than in the line of duty in 2017</span>
+            <a href="/national-volunteer-fire-council/articles/392763018-Wis-emergency-services-struggling-to-hire-new-firefighter-EMT-recruits/" class="List-link">
+              <span class="List-linkText">Wis. emergency services struggling to hire new firefighter, EMT recruits</span>
               <span class="List-meta"></span>
             </a>
         </li>
         <li class="List-item">
-            <a href="/fire-ems/articles/385294018-LODD-Ohio-firefighter-EMT-dies-in-station-accident/" class="List-link">
-              <span class="List-linkText">LODD: Ohio firefighter-EMT dies in station accident</span>
+            <a href="/shooting/articles/392746018-Ore-firefighters-shot-at-while-responding-to-house-fire/" class="List-link">
+              <span class="List-linkText">Ore. firefighters shot at while responding to house fire</span>
               <span class="List-meta"></span>
             </a>
         </li>
         <li class="List-item">
-            <a href="/fatal-incident/articles/385383018-Police-Gunman-lured-firefighters-to-retirement-home-in-fatal-shooting/" class="List-link">
-              <span class="List-linkText">Police: Gunman lured firefighters to retirement home in fatal shooting</span>
+            <a href="/line-of-duty-death/articles/392778018-LODD-Iowa-fire-chief-dies-while-responding-to-blaze/" class="List-link">
+              <span class="List-linkText">LODD: Iowa fire chief dies while responding to blaze</span>
               <span class="List-meta"></span>
             </a>
         </li>
         <li class="List-item">
-            <a href="/firefighter-safety/articles/385295018-Uniformed-black-firefighter-conducting-inspections-reported-to-police/" class="List-link">
-              <span class="List-linkText">Uniformed black firefighter conducting inspections reported to police</span>
+            <a href="/salary/articles/392757018-Mo-city-approves-pay-increase-for-firefighters-cops/" class="List-link">
+              <span class="List-linkText">Mo. city approves pay increase for firefighters, cops</span>
               <span class="List-meta"></span>
             </a>
         </li>
@@ -2408,10 +2451,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     </div>
 
-<div class="adv-block adv-160x600">
-    
-
-    <div id="div-gpt-ad-546180090590731748-7">
+    <div id="div-gpt-ad-546180090590731748-7" class="Banner Banner--SM">
         <script type="text/javascript">
             googletag.cmd.push(function () { googletag.display('div-gpt-ad-546180090590731748-7'); });
             window.lazyLoad.renderItemUsingLytcs(7);
@@ -2419,7 +2459,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 
 
-</div>
 
                 </div>
         </div>
@@ -2443,8 +2482,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <footer class="Footer" id="footer">
     <div class="Footer-topBlock">
         <div class="Container Footer-topBlockInner">
-            <a class="Logo Logo--footer" href="/" title="Go to the FireRescue1.com homepage">
-                <img src="//firerescue1-resources-praetorian.netdna-ssl.com/_res/v333125/images/header-and-footer/logo.png" class="Logo-image" alt="FireRescue1.com">
+            <a class="Footer-logo" href="/" title="Go to the FireRescue1.com homepage">
+
+
+
+        <img class="Logo" src="//firerescue1-resources-praetorian.netdna-ssl.com/_res/v351910/images/logo/logo-white.svg" alt="FireRescue1.com">
+
             </a>
 
             <ul class="Footer-menu" role="menu">
@@ -2482,7 +2525,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     It's the most comprehensive and trusted online destination for fire service professionals worldwide.
 </p>
 
-                <ul class="SocialLinks SocialLinks--tabletLg">
+                <ul class="SocialLinks SocialLinks--tiles SocialLinks--tilesLTablet">
     <li class="SocialLinks-item">
         <a class="SocialLinks-link SocialLinks-link--facebook" href="http://www.facebook.com/firerescue1/" title="FireRescue1 on Facebook" target="_blank" rel="noopener noreferrer"></a>
     </li>
@@ -2516,9 +2559,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         </li>
                                         <li class="Footer-listItem">
                                           <a class="Footer-listLink" href="/firefighter-tips/">Firefighter Tips</a>
-                                        </li>
-                                        <li class="Footer-listItem">
-                                          <a class="Footer-listLink" href="https://flashovertv.firerescue1.com/" target="_blank">FlashoverTV</a>
                                         </li>
                                         <li class="Footer-listItem">
                                           <a class="Footer-listLink" href="/lodd-line-of-duty-deaths/">Line-of-Duty Deaths</a>
@@ -2607,9 +2647,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                           <a class="Footer-listLink" href="https://www.firegrantshelp.com/" target="_blank">Fire Grants</a>
                                         </li>
                                         <li class="Footer-listItem">
-                                          <a class="Footer-listLink" href="https://paramedictv.ems1.com/" target="_blank">Paramedic Videos</a>
-                                        </li>
-                                        <li class="Footer-listItem">
                                           <a class="Footer-listLink" href="https://www.policeone.com/tactical-ems/" target="_blank">Tactical EMS</a>
                                         </li>
                                         <li class="Footer-listItem">
@@ -2650,7 +2687,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="Footer-relatedLogos">
     <p class="Footer-relatedLogoText">Official Partner of</p>
     <a class="Footer-relatedLogoImage" href="https://www.iafc.org/" target="_blank" rel="noopener noreferrer">
-        <img src="//firerescue1-resources-praetorian.netdna-ssl.com/_res/v333125/images/header-and-footer/IAFC_logo.png" alt="International Association of Fire Chiefs">
+
+
+
+            <img class="" src="//firerescue1-resources-praetorian.netdna-ssl.com/_res/v351910/images/header-and-footer/IAFC_logo.png?w=80&amp;h=80&amp;mode=max&amp;format=png" alt="International Association of Fire Chiefs">
+
     </a>
 </div>
 
@@ -2676,7 +2717,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
 
     <script type="text/javascript" src="//customer.cludo.com/scripts/bundles/search-script.min.js"></script>
-    <script src="//firerescue1-resources-praetorian.netdna-ssl.com/_res/v333125/js/build/footer.js"></script>
 
     <script>
                 var Timezone = {
@@ -2696,11 +2736,13 @@ Timezone.detectTimezone();
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1049345679';
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1708562033';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>
 </script>
+
+
 
 
 
