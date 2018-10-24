@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodcharcha.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223213141id_/http%3A//www.bollywoodcharcha.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodcharcha.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024052200id_/http%3A//www.bollywoodcharcha.com/privacy) for the most accurate reproduction.*
 
 # Bollywood Charcha
 
@@ -19,6 +19,8 @@ We want you to:
 We can receive your information automatically through our web server, which includes computer-identification, information obtained from “cookies”, alternate email ID, the domain server through which you access our service, and Ip address.
 
 We may also collect following personal information about you: Name, Mobile phone and other contact details, ZIP/Postal code, financial information, the links you click on our site and the number of times you accessed our page. In case you connect with Bollywoodcharcha via social networking sites like Facebook, Twitter, Google+ etc we can store your personal information you have chosen to display in that networks. Further, in case you can send or receive personal messages to another user of Bollywoodcharcha, we can record all messages that you send or receive.
+
+**Note:**  We respect our visitors/users rights and support “Right to be forgotten”. If you think you’ve ever shared your contact details with us & want us to remove that info, please contact us at [info@bollywoodcharcha.com](mailto:info@bollywoodcharcha.com)
 
 **What About IP addresses?**
 
@@ -54,6 +56,10 @@ When you use your browser in order to visit or surf any website usually small te
 
 In any case, if we make any changes or update our privacy policies or its provisions we will inform you by posting on our page/website so that you are aware of the change and that updated policies will be implemented with immediate effect or as soon as it is posted on the site.
 
+**Google Analytics**
+
+We use Google Analytics to track visitors on this site. Google Analytics uses cookies to collect this data.In order to be compliant with the new regulation Google included a data processing amendment.The data we collect will be processed anonymously and “Data sharing” is disabled.We don’t use other Google services in combination with Google Analytics cookies.
+
 **Contact Us:**
 
-**Have any questions, queries, suggestions or any kind of feedback about Bollywoodcharcha, you can visit our “Contact us” section.**
+Have any questions, queries, suggestions or any kind of feedback about Bollywoodcharcha, please email us at- [info@bollywoodcharcha.com](mailto:info@bollywoodcharcha.com). 
