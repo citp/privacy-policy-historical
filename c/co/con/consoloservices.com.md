@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consoloservices.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623002744id_/http%3A//www.consoloservices.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consoloservices.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024045338id_/http%3A//www.consoloservices.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Consolo Services Group
 
@@ -83,7 +83,7 @@ Other services provided by Consolo Services on this Website may require you to a
 
 **BY USING THIS WEBSITE, YOU ACCEPT THESE TERMS.**
 
-If you have any questions about our privacy policy or our use of information gathered through our Web site, please contact our Webmaster at [c…@consoloservices.com](http://www.google.com/recaptcha/mailhide/d?k=01Tzhrnt-HX8V5Y09CFDHyEw==&c=O-JCWRH6GuN36qwlJiAduJeM6TClvuT_yXjv0BuQirk= "Reveal this e-mail address").
+If you have any questions about our privacy policy or our use of information gathered through our Web site, please contact our [Webmaster](mailto:webmaster@consoloservices.com).
 
 Last updated: 10/1/2014
 
