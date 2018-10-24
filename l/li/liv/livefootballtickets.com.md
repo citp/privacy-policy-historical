@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the livefootballtickets.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034350id_/http%3A//www.livefootballtickets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livefootballtickets.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024183245id_/https%3A//www.livefootballtickets.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy by Livefootballtickets.com | Privacy
 
-This Privacy Policy was last updated on 29/09/2009 and is effective as of that date.
+This Privacy Policy was last updated on 07/05/2018 and is effective as of that date.
 
 LiveFootballTickets.com ("LiveFootballTickets", "we", "us" or "our") respects the privacy of everyone who visits our www.livefootballtickets.com web site (the "Site"). This Privacy Policy describes the way in which we use and disclose any personal information (the "Personal Information" that you provide to us whilst visiting the Site). Should we ask you to provide ¨Personal Information ¨ by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Personal Information includes any information that identifies you or another individual personally, such as your name, address or email address.
 
@@ -19,6 +19,12 @@ In addition, we use the Personal Information we collect from you and other visit
   * to send you newsletters and promotional communications.
 
 
+
+**Fraud Prevention**
+
+In order to avoid fraudulent transactions, we use a Fraud Prevention Agency called Experian. Experian may check the information you provide, against any particulars on any database (public or otherwise) to which Experian has access in order to carry out the relevant verification service.
+
+If you wish to find out more about Experian's operations in the identity and fraud space, please visit [this link](http://www.experian.co.uk/crain/idf-information-notice.html?SP_MID=15700-g&SP_RID=2912776-g&elqTrackId=c5834303ec214f33ab879cd1fe2d7cab&elq=f19d879405b04c688dfaa129c28f0e06&elqaid=15700&elqat=1&elqCampaignId=7265).
 
 **Security**
 
