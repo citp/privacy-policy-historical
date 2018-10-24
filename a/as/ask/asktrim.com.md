@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asktrim.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612061555id_/http%3A//www.asktrim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asktrim.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024055017id_/https%3A//www.asktrim.com/privacy) for the most accurate reproduction.*
 
-# Trim: An Assistant That Saves You Money
+# Trim | Privacy Policy
 
 Effective Date: 5/8/2018
 
@@ -17,6 +17,10 @@ As noted in the [Terms of Use,](https://web.archive.org/tos) we do not knowingly
 ### Will Trim ever change this Privacy Policy?
 
 We’re constantly trying to improve our Services, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a notice on the Services, by sending you an email, and/or by some other means. Please note that if you’ve opted not to receive legal notice emails from us (or you haven’t provided us with your email address), those legal notices will still govern your use of the Services, and you are still responsible for reading and understanding them. If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes.
+
+### Use of Plaid
+
+Trim uses Plaid Technologies, Inc. (“Plaid”) to gather End User’s data from financial institutions. By using our service, you grant Trim and Plaid the right, power, and authority to act on your behalf to access and transmit your personal and financial information from the relevant financial institution. You agree to your personal and financial information being transferred, stored, and processed by Plaid in accordance with the [Plaid Privacy Policy.](https://plaid.com/legal)
 
 ### What Information does Trim Collect?
 
