@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proactiveinvestors.com.au privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615092929id_/http%3A//www.proactiveinvestors.com.au/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proactiveinvestors.com.au privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024041913id_/http%3A//www.proactiveinvestors.com.au/pages/privacy) for the most accurate reproduction.*
 
 # Proactive Investors Limited - Leading source of Financial News, Investor Forums, CEO Interviews, Financial Columnists, Stock Information - Privacy Policy
 
@@ -123,7 +123,7 @@ John Phillips
 55 Mountain Street, Ultimo, Sydney, NSW 2007
 
   
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+action@proactiveinvestors.com
 
   
 We will deal with any complaint by investigating the complaint and providing a response to the complainant within 15 business days, provided that we have all necessary information and have completed any investigation required. In cases where further information, assessment or investigation is required, we will seek to agree alternative time frames with you.
