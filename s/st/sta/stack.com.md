@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stack.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616235219id_/http%3A//www.stack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stack.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024070500id_/http%3A//www.stack.com/privacy-policy) for the most accurate reproduction.*
 
 # Get Bigger, Stronger, Better, Faster | STACK
 
