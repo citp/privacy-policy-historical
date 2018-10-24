@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirpy.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630165903id_/http%3A//www.dirpy.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirpy.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024152801id_/https%3A//www.dirpy.com/site/privacy) for the most accurate reproduction.*
 
 # Dirpy | Privacy Policy
 
