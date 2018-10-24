@@ -1,78 +1,178 @@
-> *The following text is extracted and transformed from the joelcomm.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026005536id_/http%3A//www.worldvillage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joelcomm.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024082709id_/https%3A//joelcomm.com/privacy) for the most accurate reproduction.*
 
-# WorldVillage > Privacy Policy
+# Privacy - Joel Comm
 
-This is the web site of InfoMedia, Inc.
+## Privacy Policy
 
-Our postal address is: 1151 Eagle Drive, Suite 325, Loveland, CO 80537-8020. We can be reached via e-mail at [worldvillage.com](http://www.thehelpdesk.us/). Or you can reach us by telephone at (970) 278-0011.
+Your privacy is important to us. It is Joel Comm, Inc.’s policy to respect your privacy regarding any information we may collect from you across our website, [https://joelcomm.com](https://joelcomm.com/), and other sites we own and operate.
 
-The policies below are applicable to worldvillage.com, toylab.com, dealofday.com, freebietracker.com, familyfirst.com and other sites on the World Wide Web portion of the Internet owned and operated by InfoMedia, Inc. 
+### Information we collect
 
-InfoMedia, Inc. collects personally identifying information only during (i) contest or sweepstakes Registration, (ii) subscription Registration for sites that require subscription, (iii) opt-in email lists where content is specifically presented, and (iv) online shopping. In addition, Registration is required and information is collected in certain portions of sites in which guests provide content submissions and suggestions or participate in interactive online activities (i.e., community postings, voting, chat, games, or bulletin boards). InfoMedia, Inc. may use such information to fulfill prizes, track compliance with our House Rules, or for editorial and feedback purposes (to the extent that is explained when guests provide the information). In the event that InfoMedia, Inc. plans to post any such information on a site, guests are provided prior notification of such posting and given the option of preventing such posting. 
+#### Log data
 
-**   
-Policies for Individuals Under 13**
+When you visit our website, our servers may automatically log the standard data provided by your web browser. This data is considered “non-identifying information”, as it does not personally identify you on its own. It may include your computer’s Internet Protocol (IP) address, your browser type and version, the pages you visit, the time and date of your visit, the time spent on each page, and other details.
 
-InfoMedia, Inc. encourages parents and guardians to spend time online with their children and to participate in the interactive activities offered on the sites.
+We may also collect data about the device you are using to access our website. This data may include the device type, operating system, unique device identifiers, device settings, and geo-location data. What we collect can depend on the individual settings of your device and software. We recommend checking the policies of your device manufacturer or software provider to learn what information they make available to us.
 
-No information should be submitted to or posted at InfoMedia, Inc.’s Web sites by guests under 13 years of age without the consent of their parent or guardian. 
+#### Personal information
 
-Unless otherwise disclosed during collection, InfoMedia, Inc. does not provide any personally identifying information, regardless of its source, to any third party for any purpose whatsoever.
+We may ask for personal information, such as your:
 
-No information collected from guests under 13 years of age is used for any marketing or promotional purposes whatsoever, either inside or outside InfoMedia, Inc. 
+  * Name
+  * Email
 
-Guests’ e-mail addresses are never posted on InfoMedia, Inc. Web sites, except where a guest uses our message boards. The Guest has an option to have his or her email address appear. 
 
-   
-**Policies for Individuals 13 Years of Age or Older**
 
-With the permission of a guest who is 13 years of age or over, information submitted at the time of Registration or submission may be used for marketing and promotional purposes by InfoMedia, Inc. and may be shared with our affiliates or companies that have been prescreened by InfoMedia, Inc.. If a guest objects to such use for any reason, he/she may stop that use by e-mail request. Once you have registered with InfoMedia, Inc., every effort will be made to maintain your information in a secure environment by InfoMedia, Inc. and our affiliates. 
+This data is considered “identifying information”, as it can personally identify you. We only request personal information relevant to providing you with a service, and only use it to help provide or improve this service.
 
-If you wish to modify your Registration information or stop receiving e-mail updates from InfoMedia, Inc., just send an email request to [the helpdesk](http://www.thehelpdesk.us/).
+### How we collect information
 
-  
-**About IP Addresses**
+We collect information by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used. You are free to refuse our request for this information, with the understanding that we may be unable to provide you with some of your desired services without it.
 
-InfoMedia, Inc. collects IP addresses for the purposes of system administration and to report aggregate information to our advertisers.
+### Use of information
 
-An IP address is a number that’s automatically assigned to your computer whenever you’re surfing the Web. Web servers -- the big computers that "serve" up Web pages -- automatically identify your computer by its IP address.
+We may use a combination of identifying and non-identifying information to understand who our visitors are, how they use our services, and how we may improve their experience of our website in future. We do not disclose the specifics of this information publicly, but may share aggregated and anonymised versions of this information, for example, in website and customer usage trend reports.
 
-When guests request pages from InfoMedia, Inc. sites, our servers log the guests’ IP addresses. We do not link IP addresses to anything personally identifiable. This means that a user’s session will be logged, but the user remains anonymous to us.
+We may use your personal details to contact you with updates about our website and services, along with promotional content that we believe may be of interest to you. If you wish to opt out of receiving promotional content, you can follow the “unsubscribe” instructions provided alongside any promotional correspondence from us.
 
-   
-**Us** **e of Cookies**
+### Data processing and storage
 
-What are cookies? Cookies are pieces of information that a Web site transfers to an individual’s hard drive for record-keeping purposes. Cookies make Web-surfing easier for you by saving your passwords, purchases, and preferences while you’re at our site. The use of cookies is an Industry standard -- you’ll find them at most major Web sites.
+The personal information we collect is stored and processed in United States, or where we or our partners, affiliates and third-party providers maintain facilities. We only transfer data within jurisdictions subject to data protection laws that reflect our commitment to protecting the privacy of our users.
 
-By showing how and when guests use the site, cookies help us see which areas are popular and which are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. If you accept the first tracking cookie from any InfoMedia, Inc. web site, you won’t be offered as many afterwards.
+We only retain personal information for as long as necessary to provide a service, or to improve our services in future. While we retain this data, we will protect it within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification. That said, we advise that no method of electronic transmission or storage is 100% secure, and cannot guarantee absolute data security.
 
-   
-**Examples of How InfoMedia, Inc. Sites Use Cookies**
+If you request your personal information be deleted, or where your personal information becomes no longer relevant to our operations, we will erase it from our system within a reasonable timeframe.
 
-A cookie lets the computers remember that you’ve registered, which allows us to speed up your future activities at our sites. Similarly, The WorldVillage Store Online uses a temporary cookie to track which products you’ve chosen while shopping. The cookie expires once you’re done shopping. Letting it do the record keeping saves you the trouble of entering information over and over again during a single visit. If you decline this cookie, you may have difficulty ordering your selections. 
+### Cookies
 
-   
-**How InfoMedia, Inc. Sites Do Not Use Cookies**
+We use “cookies” to collect information about you and your activity across our site. A cookie is a small piece of data that our website stores on your computer, and accesses each time you visit, so we can understand how you use our site. This helps us serve you content based on preferences you have specified. Please refer to our Cookie Policy for more information.
 
-InfoMedia, Inc. sites never use cookies to retrieve information from your computer that was not originally sent in a cookie. Except as described below, InfoMedia, Inc. sites do not use information transferred through cookies for any promotional or marketing purposes, nor is that information shared with any third parties whatsoever. 
+### Third-party access to information
 
-InfoMedia, Inc. sites do not use cookies to identify specific individuals, except in such cases as online shopping (see above) and contest registration (where a cookie allows you to enter a contest every day without registering again each time).
+We use third-party services for:
 
-You may occasionally get cookies from our advertisers. InfoMedia, Inc. does not control these cookies, and these cookies are not subject to the InfoMedia, Inc. cookie policy. The use of advertising cookies sent by third-party servers is standard in the Internet industry.
+  * Analytics tracking
+  * User authentication
+  * Advertising and promotion
+  * Content marketing
+  * Email marketing
 
-Most browsers are initially set to accept cookies. If you’d prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the shopping, contest, and game areas, will not function properly if you do so.
 
-   
-**Links to Other Sites**
 
-Users should be aware that when you are on InfoMedia, Inc. sites you could be directed to other sites that are beyond our control. There are links to other sites from InfoMedia, Inc. sites that take you outside our service. For example, if you click on a banner advertisement or a InfoMedia, Inc. search result, the click takes you off the InfoMedia, Inc. site. This includes links from advertisers, sponsors, and partners that may use InfoMedia, Inc.’s logo as part of a cobranding agreement. These other sites may send their own cookies to users, collect data, or solicit personal information. Always be aware of where you end up.
+These services may access our data solely for the purpose of performing specific tasks on our behalf. We do not share any personally identifying information with them without your explicit consent. We do not give them permission to disclose or use any of our data for any other purpose.
 
-Please keep in mind that whenever you give out personal information online – for example, via message boards or chat – that information can be collected and used by people you don’t know. While InfoMedia, Inc. strives to protect its users’ personal information and privacy, we cannot guarantee the security of any information you disclose online, and you do so at your own risk.
+We may, from time to time, allow limited access to our data by external consultants and agencies for the purpose of analysis and service improvement. This access is only permitted for as long as necessary to perform a specific function. We only work with external agencies whose privacy policies align with ours.
 
-This site uses the services of Tribal Fusion for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Tribal Fusion collects anonymous data typically through the use of cookies. To learn more about Tribal Fusion, including your ability to opt out of the Tribal Fusion system, go to [Tribal Fusion](http://www.tribalfusion.com/).
+We will refuse government and law enforcement requests for data if we believe a request is too broad or unrelated to its stated purpose. However, we may cooperate if we believe the requested information is necessary and appropriate to comply with legal process, to protect our own rights and property, to protect the safety of the public and any person, to prevent a crime, or to prevent what we reasonably believe to be illegal, legally actionable, or unethical activity.
 
-Your Acceptance of These Terms By using this site, you signify your assent to the InfoMedia, Inc. Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the InfoMedia, Inc. sites following the posting of changes to these terms will mean you accept those changes. You can send e-mail to us with any further questions.   
-  
-Copyright © 2004 InfoMedia, Inc. All rights reserved worldwide.  
-Read our [Privacy Policy](https://web.archive.org/web/20071026005536id_/http%3A//www.worldvillage.com/privacy.html).  
- 
+We do not otherwise share or supply personal information to third parties. We do not sell or rent your personal information to marketers or third parties.
+
+### Children’s Privacy
+
+We are committed to protecting the privacy of children who use our services. We encourage parents to engage with us in protecting their children’s privacy, ensuring a safe and enjoyable online experience. Please refer to our Children’s Privacy Policy for more information.
+
+### Limits of our policy
+
+This privacy policy only covers Joel Comm, Inc.’s own collecting and handling of data. We only work with partners, affiliates and third-party providers whose privacy policies align with ours, however we cannot accept responsibility or liability for their respective privacy practices.
+
+Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy practices.
+
+### Changes to this policy
+
+At our discretion, we may change our privacy policy to reflect current acceptable practices. We will take reasonable steps to let users know about changes via our website. If you are a registered user on [https://joelcomm.com](https://joelcomm.com/), we will notify you using the contact details saved in your account. Your continued use of this site after any changes to this policy will be regarded as acceptance of our practices around privacy and personal information.
+
+### Your rights and responsibilities
+
+As our user, you have the right to be informed about how your data is collected and used. You are entitled to know what data we collect about you, and how it is processed. You are entitled to correct and update any personal information about you, and to request this information be deleted. You may amend or remove your account information at any time, using the tools provided in your account control panel.
+
+You are entitled to restrict or object to our use of your data, while retaining the right to use your personal information for your own purposes. You have the right to opt out of data about you being used in decisions based solely on automated processing.
+
+Feel free to [contact us](https://joelcomm.com/contact) if you have any concerns or questions about how we handle your data and personal information.
+
+## Cookie Policy
+
+We use cookies to help improve your experience of [https://joelcomm.com](https://joelcomm.com/). This cookie policy is part of Joel Comm, Inc.’s privacy policy, and covers the use of cookies between your device and our site. We also provide basic information on third-party services we may use, who may also use cookies as part of their service, though they are not covered by our policy.
+
+If you don’t wish to accept cookies from us, you should instruct your browser to refuse cookies from [https://joelcomm.com](https://joelcomm.com/), with the understanding that we may be unable to provide you with some of your desired content and services.
+
+### What is a cookie?
+
+A cookie is a small piece of data that a website stores on your device when you visit, typically containing information about the website itself, a unique identifier that allows the site to recognise your web browser when you return, additional data that serves the purpose of the cookie, and the lifespan of the cookie itself.
+
+Cookies are used to enable certain features (eg. logging in), to track site usage (eg. analytics), to store your user settings (eg. timezone, notification preferences), and to personalise your content (eg. advertising, language).
+
+Cookies set by the website you are visiting are normally referred to as “first-party cookies”, and typically only track your activity on that particular site. Cookies set by other sites and companies (ie. third parties) are called “third-party cookies”, and can be used to track you on other websites that use the same third-party service.
+
+### Types of cookies and how we use them
+
+#### Essential cookies
+
+Essential cookies are crucial to your experience of a website, enabling core features like user logins, account management, shopping carts and payment processing. We use essential cookies to enable certain functions on our website.
+
+#### Performance cookies
+
+Performance cookies are used in the tracking of how you use a website during your visit, without collecting personal information about you. Typically, this information is anonymous and aggregated with information tracked across all site users, to help companies understand visitor usage patterns, identify and diagnose problems or errors their users may encounter, and make better strategic decisions in improving their audience’s overall website experience. These cookies may be set by the website you’re visiting (first-party) or by third-party services. We use performance cookies on our site.
+
+#### Functionality cookies
+
+Functionality cookies are used in collecting information about your device and any settings you may configure on the website you’re visiting (like language and timezone settings). With this information, websites can provide you with customised, enhanced or optimised content and services. These cookies may be set by the website you’re visiting (first-party) or by third-party service. We use functionality cookies for selected features on our site.
+
+#### Targeting/advertising cookies
+
+Targeting/advertising cookies are used in determining what promotional content is more relevant and appropriate to you and your interests. Websites may use them to deliver targeted advertising or to limit the number of times you see an advertisement. This helps companies improve the effectiveness of their campaigns and the quality of content presented to you. These cookies may be set by the website you’re visiting (first-party) or by third-party services. Targeting/advertising cookies set by third-parties may be used to track you on other websites that use the same third-party service. We use targeting/advertising cookies on our site.
+
+### Third-party cookies on our site
+
+We may employ third-party companies and individuals on our websites—for example, analytics providers and content partners. We grant these third parties access to selected information to perform specific tasks on our behalf. They may also set third-party cookies in order to deliver the services they are providing. Third-party cookies can be used to track you on other websites that use the same third-party service. As we have no control over third-party cookies, they are not covered by Joel Comm, Inc.’s cookie policy.
+
+#### Our third-party privacy promise
+
+We review the privacy policies of all our third-party providers before enlisting their services to ensure their practices align with ours. We will never knowingly include third-party services that compromise or violate the privacy of our users.
+
+### How you can control or opt out of cookies
+
+If you do not wish to accept cookies from us, you can instruct your browser to refuse cookies from our website. Most browsers are configured to accept cookies by default, but you can update these settings to either refuse cookies altogether, or to notify you when a website is trying to set or update a cookie.
+
+If you browse websites from multiple devices, you may need to update your settings on each individual device.
+
+Although some cookies can be blocked with little impact on your experience of a website, blocking all cookies may mean you are unable to access certain features and content across the sites you visit.
+
+## Children’s Privacy Policy
+
+We are committed to protecting the privacy of children who use [https://joelcomm.com](https://joelcomm.com/) and its services. This children’s privacy policy is part of our approach to privacy, and covers the way we collect, store and manage information provided by children under the age of 13, in accordance with the US Children’s Online Privacy Protection Act (COPPA).
+
+We encourage parents to engage with us in protecting their children’s privacy, ensuring a safe and enjoyable online experience.
+
+### Collecting information from children
+
+At times, we may require information from children to enable participation in certain activities, for example, registering an account, customising a profile, or receiving notifications. When collecting non-personal information, we encourage children never to provide any details that may personally identify them or reveal their location. We do not require children to provide more information than is necessary to participate in an activity.
+
+We do not use children’s contact details for marketing purposes, though we may use them for our internal marketing and research in order to improve the quality of products and services offered across our site.
+
+### Parental consent
+
+In accordance with COPPA, if an activity does require any personal information (such as first name, last name, or email address), we will provide notice to and seek consent from a parent or guardian prior to collecting the information. We only retain collected information for as long as necessary to enable participation in the requested activity.
+
+In the event we discover we have collected personal information in a manner non-compliant with COPPA, we will either delete the information or seek parental consent.
+
+As a parent/guardian, if you believe your child is participating in an activity that collects personal information, and you have not received a notification or request for consent, please feel free to get in touch via our contact page [https://joelcomm.com](https://joelcomm.com/). We do not use parent contact details for marketing purposes unless marketing materials are explicitly requested.
+
+### Safeguarding children’s privacy
+
+We take security seriously, and do what we can within commercially acceptable means to protect your child’s personal information from loss or theft, as well as unauthorised access, disclosure, copying, use or modification. That said, we advise that no method of electronic transmission or storage is 100% secure, and cannot guarantee absolute data security.
+
+### Information abuse and community misconduct
+
+We do not tolerate doxing (publishing of private or personal information about an individual without their consent), cyberbullying, or other forms of information abuse on [https://joelcomm.com](https://joelcomm.com/).
+
+If we discover that a child’s personal information has been disclosed on our site without the express consent of their parent/guardian, we will remove the content in question as quickly as possible and effect disciplinary measures (a warning, suspension or ban) on the offending account.
+
+### Third-party access to information
+
+We do not knowingly disclose any personally identifying information or personal information provided by children to third parties. We may, however, disclose anonymised and aggregated versions of this information (analytics and statistics) for business, marketing or public relations purposes.
+
+### Parental controls and intervention
+
+As a parent/guardian, you may at any time refuse to let us collect further information from your children for a particular activity or account. If you have given us consent previously, you may log in to your child’s account to review, edit or delete the information, or contact us via to request the removal of the information from our records.
+
+Please be aware that the removal of certain information may result in the termination of the associated account, or withdrawal from the associated activity.
