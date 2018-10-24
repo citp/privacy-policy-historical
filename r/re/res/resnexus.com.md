@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resnexus.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206191343id_/http%3A//resnexus.com/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resnexus.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024053729id_/http%3A//resnexus.com/company/privacypolicy) for the most accurate reproduction.*
 
 # ResNexus Privacy Policy
 
@@ -29,3 +29,11 @@ ResNexus is [PCI Compliant](https://web.archive.org/company/pcicompliance/) via 
 ResNexus offers its visitors and customers a means to choose how we may use information provided. If, at any time after registering for information or ordering the Service, you change your mind about receiving information from us or about sharing your information with third parties, send us a request specifying your new choice. Simply send your request to info at resnexus.com.
 
 Questions regarding this Statement or the practices of this Site should be directed to ResNexus's Security Administrator by emailing such questions to info at resnexus.com.
+
+© Copyright 2003 - 2018 ResNexus
+
+Business Address:185 East 200 North,Salem,UT,84653,US |Tel: 385.218.2637 |Email: [info@resnexus.com](mailto:info@resnexus.com).
+
+Business hours are 09.00 a.m. to 17.00 p.m. Monday to Friday
+
+ResNexus Rated 4.9 / 5 based on 7 reviews. | [Review Us](https://www.google.com/search?q=resnexus&oq=resnexus+&aqs=chrome..69i57j69i60l5.1591j0j7&sourceid=chrome&ie=UTF-8#lrd=0x874da4b37c050c4b:0x468793de9c1219b,3,,,)
