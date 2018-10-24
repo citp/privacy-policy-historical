@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashcardmachine.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183041id_/http%3A//flashcardmachine.com/about/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashcardmachine.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024153043id_/https%3A//www.flashcardmachine.com/about/privacy.cgi) for the most accurate reproduction.*
 
 # Flashcard Machine Privacy Policy
 
