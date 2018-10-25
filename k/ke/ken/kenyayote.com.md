@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kenyayote.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523115924id_/http%3A//kenyayote.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenyayote.com privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025135301id_/https%3A//kenyayote.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kenyayote
 
 When you submit your personal/ **private  ** information to Kenyayote,  you trust us. It is important to understand that we value your privacy and we will not wish to violate it.
 
-Before you read our privacy policies below make sure that you go through our [terms and conditions](http://kenyayote.com/terms/) as they should be read together with our privacy polices.
+Before you read our privacy policies below make sure that you go through our [terms and conditions](https://kenyayote.com/terms/) as they should be read together with our privacy polices.
 
 ## **Summary of Our Privacy Policy**
 
@@ -13,7 +13,7 @@ Before you read our privacy policies below make sure that you go through our [te
   3. We will take reasonable measures to protect and store your private/personal Information from misuse.
   4. Third parties like Google will place ads on kenyayote depending a users prior visit.
   5. You can opt  out of the use of the DoubleClick cookie by visiting the Google ads setting. **Learn more on how Google manages data in its ads products in its** [Privacy & Terms web page](https://www.google.com/policies/technologies/partner-sites/).
-  6.  a) Private information submitted in/on post/page/archive comments and public forums, by you or the public without our knowledge does/do not fall under our Privacy Policy. In this case,  contact +254720680341 or[ fill form here ](http://kenyayote.com/contact/)for action to be taken.
+  6.  a) Private information submitted in/on post/page/archive comments and public forums, by you or the public without our knowledge does/do not fall under our Privacy Policy. In this case,  contact +254720680341 or[ fill form here ](https://kenyayote.com/contact/)for action to be taken.
 
 
 
@@ -23,7 +23,7 @@ b) Private/personal information (1) submitted under scam/con men or women relate
 
 ## **Who we are**
 
-Our website address is: [http://kenyayote.com](http://kenyayote.com/)  a brand of Kyote Internet Group Limited.
+Our website address is: [https://kenyayote.com](https://kenyayote.com/)  a brand of Kyote Internet Group Limited.
 
 ## **What personal data we collect and why we collect it**
 
@@ -86,3 +86,5 @@ Contact Elvis Maoro through elvismaoro7@gmail.com for any privacy concerns.
 We have Jetpack WordPress plugin and recently upgraded to premium version to help to protecting our website from any data breach.  Jetpack premium helps in sending a notification instantly incase of any security issues.
 
 **PRIVACY POLICY UPDATED** on 23rd May 2018 to comply with GDPR, [EU user consent policy](https://www.google.com/about/company/consentstaging.html)
+
+ ** ** ************** ******************
