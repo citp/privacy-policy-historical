@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexu.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529213419id_/http%3A//sexu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexu.com privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025211934id_/https%3A//sexu.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY : title : EDIT ME
 
