@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organizeit.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513003800id_/http%3A//www.organizeit.com/privacy-and-security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organizeit.com privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025073243id_/https%3A//www.organizeit.com/privacy-and-security.asp) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -102,7 +102,7 @@ United States
 info@organizeit.com   
 248-299-3350 
 
-[](http://secure.trust-guard.com/certificates/6888)
+[](https://secure.trust-guard.com/certificates/6888)
 
 Our site maintains full SSL encryption security and is tested daily for vulnerabilities by TrustGuard. This service preforms an in depth analysis of our site and our server to make sure it is secure from hackers.  
   
