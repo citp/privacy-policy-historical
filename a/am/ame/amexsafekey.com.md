@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amexsafekey.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217223851id_/http%3A//www1.amexnetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amexsafekey.com privacy policy that was archived on 2018-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181026004713id_/http%3A//www1.amexnetwork.com/privacy) for the most accurate reproduction.*
 
 # The American Express Network > Privacy
 
@@ -174,6 +174,8 @@ You have choices about how American Express Network uses your information, such 
 If you do not want to receive marketing e-mails from the American Express Network about our services, or the services of our Business Partners, you may follow the unsubscribe instructions that are located at the bottom of those messages. Please note that your choice is applicable only to the marketing communications you receive from the American Express Network. It does not apply to marketing communications that may be sent to you by the issuer of your card product.
 
 **Do you have questions about the online privacy statement?**
+
+If you have questions about this online privacy statement, please contact your issuer. 
 
 **Glossary**   
 
