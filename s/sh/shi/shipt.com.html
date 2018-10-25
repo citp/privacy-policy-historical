@@ -1,120 +1,323 @@
-<!--The following is the downloaded HTML source of the shipt.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606173829id_/https%3A//www.shipt.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shipt.com privacy policy that was archived on 2018-10-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181025162848id_/https%3A//www.shipt.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en-us"><head>
+<!DOCTYPE html><html class="no-js" lang="en"><head>
+  <script async="" src="//d.impactradius-event.com/A464737-9439-453f-b213-07a43509c5ae1.js"></script><script async="" src="https://cdn.fuelx.com/js/tr.js?v1"></script><script type="text/javascript" defer="" async="" src="https://collector-1368.tvsquared.com/tv2track.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/HqXm7axhN0e9KhXczvSScSjUOwRn87o7/analytics.min.js"></script><script type="text/javascript" async="" data-id="bec" org-id="f00000000099121" domain=".shipt.com" session-timeout="86400000" src="https://cdn.b0e8.com/conv_v3.js"></script><script type="text/javascript">
+if (window.BEJSSDKObserver === undefined) {
+(function(BEJSSDKObserver, $, undefined) {
+  var observer = void 0;
+  var listeners = [];
+  var doc = window.document;
+  var MutationObserver = window.MutationObserver || window.WebKitMutationObserver;
+
+  function checkSelector(selector, fn, indexList) {
+    var elements = doc.querySelectorAll(selector);
+    // issues on IE @see https://www.codesd.com/item/javascript-es6-not-a-function-error.html
+//    elements = Array.from(elements);
+    for (var i = 0, len = elements.length; i < len; i++) {
+      // -1 means all instances
+      if (indexList != -1 && !(i in indexList)) {
+        continue;
+      }
+      var element = elements[i];
+      if (!element.ready || MutationObserver==null) {
+        element.ready = true;
+         fn.call(element, element);
+      }
+    }
+  }
+
+  function checkListeners() {
+    listeners.forEach(function (listener) {
+        return checkSelector(listener.selector, listener.fn, listener.indexList);
+    });
+  }
+
+  function removeListener(selector, fn) {
+    var i = listeners.length;
+    while (i--) {
+      var listener = listeners[i];
+      if (listener.selector === selector && listener.fn === fn) {
+        listeners.splice(i, 1);
+        if (!listeners.length && observer) {
+          observer.disconnect();
+          observer = null;
+        }
+      }
+    }
+  }
+
+  /**
+   * Fire event on first js selector
+   * @param selector string to watch on
+   * @param fn       callback function
+   * @param index_list can be undefined which means only first one
+   *                   or -1 which means all
+   *                   or a list of allowable indexes
+   */
+  BEJSSDKObserver.jsElementReady = function(selector, fn, index_list) {
+    if (index_list === undefined) {
+        index_list = [];
+        index_list.push(0);
+    }
+
+    if (MutationObserver != null) {
+      if (!observer) {
+        observer = new MutationObserver(checkListeners);
+        observer.observe(doc.documentElement, {
+            childList: true,
+            subtree: true
+        });
+      }
+      listeners.push({ selector: selector, fn: fn, indexList: index_list });
+    } else {
+      // <= IE8
+      if (!document.addEventListener) {
+        // log("<=IE8 attachEvent assignment");
+        document.addEventListener = document.attachEvent;
+      }
+      document.addEventListener("DOMContentLoaded", function(event) {
+        var elements = doc.querySelectorAll(selector);
+//        elements = Array.from(elements);
+        for (var i = 0, len = elements.length; i < len; i++) {
+          // -1 means all instances
+          if (index_list != -1 && !(i in index_list)) {
+            continue;
+          }
+          var element = elements[i];
+          element.ready = true;
+          fn.call(element, element);
+        }
+      });
+    }
+
+    checkSelector(selector, fn, index_list);
+    return function () {
+      return removeListener(selector, fn);
+    };
+  }
+}(window.BEJSSDKObserver = window.BEJSSDKObserver || {}));
+}
+var jsElementReady = window.BEJSSDKObserver.jsElementReady;
+
+if (window.BELinkBlockGenerator === undefined) {
+(function(BELinkBlockGenerator, $, undefined) {
+  BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH = 100;
+  BELinkBlockGenerator.MAXIMUM_DESC_LENGTH = 200;
+
+  BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_URL_TYPE = 0;
+  BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_HEADLINE_TYPE = 1;
+  BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_DESCRIPTION_TYPE = 2;
+  BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_IMAGE_TYPE = 3;
+
+  BELinkBlockGenerator.REPLACEMENT_STRATEGY_OVERWRITE = 0;
+  BELinkBlockGenerator.REPLACEMENT_STRATEGY_POST_APPEND_ELEMENT = 1;
+  BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_ELEMENT = 2;
+  BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_PARENT = 3;
+					  
+  BELinkBlockGenerator.setMaximumHeadlineLength = function(length) {
+    BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH = length;
+  }
+
+  BELinkBlockGenerator.setMaximumDescriptionLength = function(length) {
+    BELinkBlockGenerator.MAXIMUM_DESC_LENGTH = length;
+  }
+  
+  BELinkBlockGenerator.generateIndividualLinks = function(parentElement, linkStructure, link) {
+  var link_level_element_tag = linkStructure[0];
+  var link_level_element = document.createElement(link_level_element_tag);
+  var link_attribute_dictionary = linkStructure[1];
+  var allowable_elements = linkStructure[2];
+  var children_link_structures = linkStructure[3];
+  for (var link_attribute_key in link_attribute_dictionary) {
+    link_level_element.setAttribute(link_attribute_key, link_attribute_dictionary[link_attribute_key]);
+  }
+  
+  var added_something = false;
+  if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_URL_TYPE)>=0) {
+    link_level_element.setAttribute('href', link.url);
+	added_something = true;
+  }
+  if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_HEADLINE_TYPE)>=0 && link.h1) {
+    var headline_text = link.h1;
+	if (headline_text.length > BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH) {
+      headline_text = headline_text.substring(0, BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH) + '...';
+    }						
+    var text_node = document.createTextNode(headline_text);
+	link_level_element.appendChild(text_node);
+	added_something = true;
+  }
+  if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_DESCRIPTION_TYPE)>=0 && link.desc) {
+    var desc_text = link.desc;
+	if (desc_text.length > BELinkBlockGenerator.MAXIMUM_DESC_LENGTH) {
+      desc_text = desc_text.substring(0, BELinkBlockGenerator.MAXIMUM_DESC_LENGTH) + '...';
+    }
+//    console.log("Got text " + desc_text + ", max=" + BELinkBlockGenerator.MAXIMUM_DESC_LENGTH);
+    var text_node = document.createTextNode(desc_text);
+	link_level_element.appendChild(text_node);
+	added_something = true;
+  }
+  if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_IMAGE_TYPE)>=0 && link.image) {
+//    console.log("added image " + JSON.stringify(allowable_elements) + " for " + link_level_element_tag);
+    link_level_element.setAttribute('src', link.image);
+	added_something = true;
+  }
+  // don't emit for empty links, desc, headline, image
+  // except for parent structures where allowable_length=0
+  if (!added_something && allowable_elements.length != 0) {
+//    console.log("did not added anything for " + link_level_element_tag);
+
+    return;
+  }
+  // go depth first
+  for (var childrenIndex=0; childrenIndex<children_link_structures.length; childrenIndex++) {
+    var childLinkStructure = children_link_structures[childrenIndex];
+    BELinkBlockGenerator.generateIndividualLinks(link_level_element, childLinkStructure, link);
+  }
+  parentElement.appendChild(link_level_element);	
+}
+
+ BELinkBlockGenerator.insertLinkBlocks = function(targetElement, replacementStrategy, overallStructure, linkStructure, links,
+                                                  titleStructure) {
+  if (targetElement == null) {
+    return;
+  }
+
+  if (replacementStrategy == BELinkBlockGenerator.REPLACEMENT_STRATEGY_OVERWRITE) {
+    while (targetElement.firstChild) {
+      targetElement.removeChild(targetElement.firstChild);
+    }
+  }
+
+  var previousElement = targetElement;
+  for (var i=0;i<overallStructure.length;i++) {
+    var level_definition = overallStructure[i];
+    var level_element_tag = level_definition[0]
+	var level_element = document.createElement(level_element_tag);
+	var attribute_dictionary = level_definition[1]
+    for (var attribute_key in attribute_dictionary) {
+	  level_element.setAttribute(attribute_key, attribute_dictionary[attribute_key]);
+    }
+
+    // need to place title structure	
+	if (titleStructure && titleStructure[0] == i) {
+	  var title_element_tag = titleStructure[1];
+	  var title_element = document.createElement(title_element_tag);
+  	  var title_attribute_dictionary = titleStructure[2];
+	  var title_text_content = titleStructure[3];
+      for (var title_attribute_key in title_attribute_dictionary) {
+	    title_element.setAttribute(title_attribute_key, title_attribute_dictionary[title_attribute_key]);
+      }
+
+	  var title_text_node = document.createTextNode(title_text_content);
+   	  title_element.appendChild(title_text_node);
+
 	
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	  level_element.appendChild(title_element);
+    }
+	
+	// last level place links
+	if (i == overallStructure.length-1) {
+      for (var link_i=0; link_i<links.length; link_i++) {
+  	    var link = links[link_i];
+		for (var linkStructureIndex=0;linkStructureIndex<linkStructure.length; linkStructureIndex++) {
+		  BELinkBlockGenerator.generateIndividualLinks(level_element, linkStructure[linkStructureIndex], link)
+		}
+	  }
+	}
+
+	// first level child we need to check placement
+    if (previousElement == targetElement) {
+      if (replacementStrategy == BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_ELEMENT) {
+	    // 2 means insert right before
+  	    previousElement.insertBefore(level_element, targetElement.firstChild);
+      } else if (replacementStrategy == BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_PARENT) {
+	    // 3 means insert right before at parent level
+		var parentElement = previousElement.parentElement;
+  	    parentElement.insertBefore(level_element, previousElement);
+  	  } else {
+    	previousElement.appendChild(level_element);
+	  }
+    } else {
+  	  previousElement.appendChild(level_element);
+	}
+	previousElement = level_element;
+  }
+}
+}(window.BELinkBlockGenerator = window.BELinkBlockGenerator || {}));
+};
+
+</script>
+
+
+    <script>
+      (function() {
+      var bec = document.createElement('script');
+      bec.type = 'text/javascript';
+      bec.async = true;
+      bec.setAttribute("data-id", "bec");
+      bec.setAttribute("org-id", "f00000000099121");
+      bec.setAttribute("domain", ".shipt.com");
+      bec.setAttribute("session-timeout", 86400000);
+      bec.src = document.location.protocol + '//cdn.b0e8.com/conv_v3.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(bec, s);
+})();
+</script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+	
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="">
 	<meta name="format-detection" content="telephone=no">
-	<script type="text/javascript" defer="" async="" src="https://collector-1368.tvsquared.com/tv2track.js"></script><script async="" charset="utf-8" src="//v2.zopim.com/?2oJKqKYn5zEG0RhzXr0xD7vt8zNs7i96" type="text/javascript"></script><script async="" src="https://s.pinimg.com/ct/core.js"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/HqXm7axhN0e9KhXczvSScSjUOwRn87o7/analytics.min.js"></script><script src="//cdn.optimizely.com/js/2427151003.js"></script>
-	<link rel="shortcut icon" href="https://www.shipt.com/wp-content/themes/delicious/favicon.png" type="image/x-icon">
-	<link rel="icon" href="https://www.shipt.com/wp-content/themes/delicious/favicon.png" type="image/x-icon">
-	<!--[if IE]>
-		<link rel="stylesheet" type="text/css" href="https://www.shipt.com/wp-content/themes/delicious/css/ie.css" />
-	<![endif]-->
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-	<link href="https://www.shipt.com/wp-content/themes/delicious/css/webfonts/ss-pika.css" rel="stylesheet">
-	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css">
-	<script src="https://use.typekit.net/rpe3oxk.js"></script>
-	<script>try{Typekit.load({ async: false });}catch(e){}</script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
-	<style type="text/css">
-		.form {
-  background: #72b03a;
-  color: #fff;
-  margin: 0 5px;
-  padding: 32px 32px;
-  -webkit-border-radius: 45px;
-  -moz-border-radius: 45px;
-  border-radius: 45px;
-  font-size: 14px;
-  cursor: pointer;
-  transition: color 0.3s, background 0.3s, border-color 0.3s;
-  -webkit-transition: color 0.3s, background 0.3s, border-color 0.3s;
-  outline: 0 transparent;
-}
+  <meta name="google-site-verification" content="-uT3EyH_XO74edf6qtNyUKNittSYs5J1yW38p3PacGY">
 
-.ykfmc-submit {
-  text-transform: uppercase;
-  background: #72b03a;
-  border: 2px solid #cccccc;
-  color: #fff;
-  font-weight: 500;
-  text-shadow: 1px 1px #72b03a;
-  margin: 0 5px;
-  padding: 8px 20px;
-  -webkit-border-radius: 45px;
-  -moz-border-radius: 45px;
-  border-radius: 45px;
-  font-size: 14px;
-  cursor: pointer;
-  transition: color 0.3s, background 0.3s, border-color 0.3s;
-  -webkit-transition: color 0.3s, background 0.3s, border-color 0.3s;
-  outline: 0 transparent;
-}
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
-    #homepage_content{
-        text-align:center;
-    }
-    #homepage_content h1{
-        font-size: 4.5rem;
-        letter-spacing: -1px;
-        padding-bottom: 1rem;
-        font-weight: 900;
-        color: #72B03A;
-        opacity: 0.5;
-    }
-    #homepage_content h2{
-        font-size: 1.3rem;
-        line-height: 1.5rem;
-        text-shadow: 0px 1px 4px rgba(0, 0, 0, 0.5);
-        color:#FFF;
-        font-weight: normal;
-    }
-    #homepage_content #video_thumb{
-        margin: 2rem auto 0px;
-        cursor: pointer;
-    }
-#homepage_content .heading{
-max-width:90%;
-}
-#sign_up .container {
-    background-color: #72B03A;
-    transition: #6363CE 0.25s ease 0s;
-    height: 340px;
-float: none;
-}
-#sign_up:hover .container {
-    background-color: #FFF;
-}	</style>
-	
-<!-- This site is optimized with the Yoast SEO plugin v4.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
-<title>Privacy Policy - Shipt</title>
+  <script async="" src="//cdn.optimizely.com/js/2427151003.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css">
+
+      <link rel="stylesheet" type="text/css" href="https://www.shipt.com/wp-content/themes/delicious/darwin/css/darwin.min.css?v=22.8">
+  
+  
+<!-- This site is optimized with the Yoast SEO plugin v8.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Privacy Policy - Shipt Grocery Delivery</title>
+<meta name="description" content="Please read our policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle any information that we may collect from you or that you may provide when you use our Platform.">
 <link rel="canonical" href="https://www.shipt.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy - Shipt">
+<meta property="og:title" content="Privacy Policy - Shipt Grocery Delivery">
+<meta property="og:description" content="Please read our policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle any information that we may collect from you or that you may provide when you use our Platform.">
 <meta property="og:url" content="https://www.shipt.com/privacy-policy/">
-<meta property="og:site_name" content="Shipt">
-<meta property="article:publisher" content="https://www.facebook.com/Shipttoday/">
+<meta property="og:site_name" content="Shipt Grocery Delivery">
+<meta property="article:publisher" content="https://www.facebook.com/Shipt">
 <meta property="og:image" content="https://www.shipt.com/wp-content/uploads/2015/12/shipt-cart.jpg">
+<meta property="og:image:secure_url" content="https://www.shipt.com/wp-content/uploads/2015/12/shipt-cart.jpg">
+<meta property="og:image:width" content="696">
+<meta property="og:image:height" content="600">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Privacy Policy - Shipt">
+<meta name="twitter:description" content="Please read our policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle any information that we may collect from you or that you may provide when you use our Platform.">
+<meta name="twitter:title" content="Privacy Policy - Shipt Grocery Delivery">
 <meta name="twitter:site" content="@Shipt">
 <meta name="twitter:image" content="https://www.shipt.com/wp-content/uploads/2015/12/shipt-cart.jpg">
 <meta name="twitter:creator" content="@Shipt">
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/www.shipt.com\/","sameAs":["https:\/\/www.facebook.com\/Shipt","https:\/\/www.instagram.com\/shiptgroceries\/","https:\/\/www.linkedin.com\/company\/shipt","https:\/\/www.youtube.com\/channel\/UCHEMMzUYWWaALsl6KDNCckA","https:\/\/www.pinterest.com\/shiptgroceries\/","https:\/\/twitter.com\/Shipt"],"@id":"https:\/\/www.shipt.com\/#organization","name":"Shipt Same-day Delivery","logo":"https:\/\/www.shipt.com\/wp-content\/uploads\/2015\/04\/Small-logo-11.png"}</script>
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="alternate" type="application/rss+xml" title="Shipt » Feed" href="https://www.shipt.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Shipt » Comments Feed" href="https://www.shipt.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Shipt Grocery Delivery » Feed" href="https://www.shipt.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Shipt Grocery Delivery » Comments Feed" href="https://www.shipt.com/comments/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.shipt.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
-			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://www.shipt.com/wp-includes/js/wp-emoji-release.min.js?ver=4.7.5" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.shipt.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.shipt.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.8" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -129,21 +332,11 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="contact-form-7-css" href="https://www.shipt.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7" type="text/css" media="all">
-<link rel="stylesheet" id="sb_instagram_styles-css" href="https://www.shipt.com/wp-content/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.4.8" type="text/css" media="all">
-<link rel="stylesheet" id="sb_instagram_icons-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css?ver=4.6.3" type="text/css" media="all">
-<link rel="stylesheet" id="delicious_theme-css" href="https://www.shipt.com/wp-content/themes/delicious/css/mint.css?ver=1477534146" type="text/css" media="all">
-<link rel="stylesheet" id="delicious-css" href="https://www.shipt.com/wp-content/themes/delicious/style.css?ver=1495741358" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css?ver=4.7.5" type="text/css" media="all">
-<link rel="stylesheet" id="roboto-font-css" href="//fonts.googleapis.com/css?family=Roboto%3A400%2C300%2C100%2C500%2C700&amp;ver=4.7.5" type="text/css" media="all">
-<link rel="stylesheet" id="screen-css" href="https://www.shipt.com/wp-content/themes/delicious/style.css?ver=1496767118" type="text/css" media="all">
-<link rel="stylesheet" id="overlay_settings_style-css" href="https://www.shipt.com/wp-content/plugins/wp-overlays-pro//assets/css/overlaypro.css?ver=4.7.5" type="text/css" media="all">
-      <script>
-      if (document.location.protocol != "https:") {
-          document.location = document.URL.replace(/^http:/i, "https:");
-      }
-      </script>
-      <script type="text/javascript" src="https://www.shipt.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<link rel="stylesheet" id="contact-form-7-css" href="https://www.shipt.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.4" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css?ver=4.9.8" type="text/css" media="all">
+<link rel="stylesheet" id="roboto-font-css" href="//fonts.googleapis.com/css?family=Roboto%3A400%2C300%2C100%2C500%2C700&amp;ver=4.9.8" type="text/css" media="all">
+<link rel="stylesheet" id="overlay_settings_style-css" href="https://www.shipt.com/wp-content/plugins/wp-overlays-pro//assets/css/overlaypro.css?ver=4.9.8" type="text/css" media="all">
+<script type="text/javascript" src="https://www.shipt.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="https://www.shipt.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <link rel="https://api.w.org/" href="https://www.shipt.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.shipt.com/xmlrpc.php?rsd">
@@ -151,25 +344,7 @@ img.emoji {
 <link rel="shortlink" href="https://www.shipt.com/?p=647">
 <link rel="alternate" type="application/json+oembed" href="https://www.shipt.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.shipt.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.shipt.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.shipt.com%2Fprivacy-policy%2F&amp;format=xml">
-<link rel="apple-touch-icon" sizes="57x57" href="/wp-content/uploads/fbrfg/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="/wp-content/uploads/fbrfg/apple-touch-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="/wp-content/uploads/fbrfg/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="/wp-content/uploads/fbrfg/apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="/wp-content/uploads/fbrfg/apple-touch-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="/wp-content/uploads/fbrfg/apple-touch-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="/wp-content/uploads/fbrfg/apple-touch-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="/wp-content/uploads/fbrfg/apple-touch-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/wp-content/uploads/fbrfg/apple-touch-icon-180x180.png">
-<link rel="icon" type="image/png" href="/wp-content/uploads/fbrfg/favicon-32x32.png" sizes="32x32">
-<link rel="icon" type="image/png" href="/wp-content/uploads/fbrfg/android-chrome-192x192.png" sizes="192x192">
-<link rel="icon" type="image/png" href="/wp-content/uploads/fbrfg/favicon-96x96.png" sizes="96x96">
-<link rel="icon" type="image/png" href="/wp-content/uploads/fbrfg/favicon-16x16.png" sizes="16x16">
-<link rel="manifest" href="/wp-content/uploads/fbrfg/manifest.json">
-<link rel="shortcut icon" href="/wp-content/uploads/fbrfg/favicon.ico">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="msapplication-TileImage" content="/wp-content/uploads/fbrfg/mstile-144x144.png">
-<meta name="msapplication-config" content="/wp-content/uploads/fbrfg/browserconfig.xml">
-<meta name="theme-color" content="#ffffff"><!-- Segment -->
+<!-- Segment -->
 <script type="text/javascript">
   !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
   analytics.load("HqXm7axhN0e9KhXczvSScSjUOwRn87o7");
@@ -206,39 +381,6 @@ fbq('track', 'PageView');
 src="https://www.facebook.com/tr?id=409828092528244&ev=PageView&noscript=1"
 /></noscript>
 
-<!-- Twitter universal website tag code -->
-<script>
-!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
-},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
-a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
-twq('init','nvm4x');
-twq('track','PageView');
-</script>
-
-<!-- Pinterest Tracking Code -->
-<script type="text/javascript"> !function(e){if(!window.pintrk){window.pintrk=function(){window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var n=window.pintrk;n.queue=[],n.version="3.0";var t=document.createElement("script");t.async=!0,t.src=e;var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");  pintrk('load','2614112324319'); pintrk('page', { page_name: 'My Page', page_category: 'My Page Category' }); </script> 
-<noscript> <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2614112324319&noscript=1" /> </noscript>
-
-<!-- Zopim Live Chat -->
-<script type="text/javascript">
-window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
-d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
-_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
-$.src="//v2.zopim.com/?2oJKqKYn5zEG0RhzXr0xD7vt8zNs7i96";z.t=+new Date;$.
-type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
-</script>
-<!--End of Zopim Live Chat Script-->
-
-<script>
-  $zopim(function() {
-    $zopim.livechat.button.setPosition('br');
-    $zopim.livechat.window.setPosition('br');
-  });
-</script>
-
-<meta name="p:domain_verify" content="75a810426ee19eef285459f56ccd2a03">
-<meta property="fb:pages" content="328539803995612">
-
 <!-- Google Code for Remarketing Tag -->
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -268,147 +410,123 @@ var google_remarketing_only = true;
         s.parentNode.insertBefore(g, s);
     })();
 </script>
-	<link href="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.0/css/select2.min.css" rel="stylesheet">
-	<style>
-		.header .mobile { border-bottom: 1px solid #dbdbdb; color: #71b045; display: none; font-size: 14px; position: absolute; top: 22px; right: 50px; line-height: 15px; padding: 0; z-index: 11; }
-		@media only screen and (max-width: 750px) { .header .mobile { display: block; transition: top .3s ease-in-out .3s; } .header .mobile.up {  top: -50px; transition: top .4s ease-in-out; } }
-		.header nav ul li { margin: 32px 0 0; }
-		@media only screen and (max-width: 1000px) { .header nav ul li { margin: 22px 0 0; } }
-		.header nav .left a, .header nav .right a { border-bottom: 1px solid #dbdbdb; padding: 0; line-height: 16px; }
-		.header nav .left a:hover, .header nav .left a:focus, .header nav .right a:hover, .header nav .right a:focus { border-bottom: 1px solid #5a595e; }
-		.header nav a:hover:after, .header nav a:focus:after { display: none; }
-		.header nav .right a { color: #71b045; }
-		#main .hero .start-box { padding: 30px 30px 35px; }
-		@media only screen and (max-width: 750px) { #main .hero .start-box { padding: 15px; } }
-		#main .hero .button { margin-bottom: 20px; }
-		#main .hero .offer { color: #6bb0ff; }
-	</style>
-</head>
-<body data-rsssl="1" class="page-template page-template-page-fullwidth page-template-page-fullwidth-php page page-id-647 inside cyber" id="privacy-policy">
-<div class="wrapper">
 
-	<div class="top-content">
+<!-- Global site tag (gtag.js) - Google AdWords: 847-802-2430 -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-961144548"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-961144548');
+</script>
 
-		<article class="how-it-works">
-			<a href="#close" class="close" aria-label="Close How It Works section">×</a>
-			<a href="#close" class="close bottom" aria-label="Close How It Works section"></a>
-			<a href="#order" class="number active" aria-label="Jump to section 1 of How It Works">1</a>
-			<a href="#shop" class="number" aria-label="Jump to section 2 of How It Works">2</a>
-			<a href="#deliver" class="number" aria-label="Jump to section 3 of How It Works">3</a>
-			<div class="row">
-				<div id="order" class="medium-4 columns">
-					<div class="how-pic one"><span></span></div>
-					<h3>You Order.</h3>
-					<p>Once you sign up for a membership and download the Shipt app (iOS, Android, and web), just select your groceries, choose delivery options, and checkout. We make grocery shopping fast, simple, and convenient.</p>
-				</div>
-				<div id="shop" class="medium-4 columns">
-					<div class="how-pic two"><span></span></div>
-					<h3>We Shop.</h3>
-					<p>We partner with a local community of reliable shoppers. They can pick a perfect mango with their eyes closed and navigate 40,000 grocery items faster than you can say “Organic Gluten-free Pastry Flour.” Our prices will vary slightly from in store prices.</p>
-				</div>
-				<div id="deliver" class="medium-4 columns">
-					<div class="how-pic three"><span></span></div>
-					<h3>We Deliver.</h3>
-					<p>We did a lot of research. 0% of people like to wait. We offer same day grocery delivery, as soon as one hour after your order, when it’s most convenient for you, and delivery is free for members on orders over $35. What will you do with that extra time?</p>
-				</div>
-			</div>
-		</article>
+<!-- FuelX -->
+<script type="text/javascript">
+(function(e,t,u,n,f){
+    "use strict";
+    e.fx||(e.fuelxEQ=e.fuelxEQ?e.fuelxEQ:[],e.fuelx=function(){e.fuelxP&&e.fuelxP.fuelx?e.fuelxP.handleEvent(arguments):e.fuelxEQ.push(arguments)},
+    f=e.document.createElement(t),f.async=!0,f.src=u,n=e.document.getElementsByTagName(t)[0],n.parentNode.insertBefore(f,n))
+})(window,"script","https://cdn.fuelx.com/js/tr.js?v1");
+</script>
+<script type="text/javascript">
+    fuelx("init", "1334162e59c41a539ac9cd07b0b80c2d", "QwxV275UK6v5YQgGE2henQ%3D%3D");
+    fuelx("pageview");
+</script>
 
-		<!-- <div class="cyber-banner text-center">
-			<div class="row">
-				<div class="medium-12 columns">
-					<div class="valign">
-						<p>Exclusive <strong>Cyber Week</strong> offer <a href="/gift" class="button">Reveal Now</a></p>
-					</div>
-				</div>
-			</div>
-		</div> -->
+  <!-- Impact Radius -->
+  <script type="text/javascript">
+    (function(a,b,c,d,e,f,g){
+    e['ire_o']=c;e[c]=e[c]||function(){(e[c].a=e[c].a||[]).push(arguments)};
+    f=d.createElement(b);
+    g=d.getElementsByTagName(b)[0];
+    f.async=1;f.src=a;g.parentNode.insertBefore(f,g);
+    })('//d.impactradius-event.com/A464737-9439-453f-b213-07a43509c5ae1.js','script','ire',document,window);
+  </script>
 
-		<a href="https://app.shipt.com/signup#/enterEmail?trial=true&amp;year_c=c" class="cyber-banner holiday signup nye text-center">
-			<div class="row">
-				<div class="medium-12 columns">
-					<div class="valign">
-						<p>Try 2 weeks free + $15 off your first order!</p>
-					</div>
-				</div>
-			</div>
-		</a>
+<script>(function (u, n, i, v, e, r, s, a, l) {u[r] = {}; u[r].uid = '310c1568-aad6-4ed2-a40a-4d741a07fc8f'; a = n.createElement(v); a.src = e + '/us-' + u[r].uid + '.js'; a.async = s; n.getElementsByTagName(i)[0].appendChild(a);})(window, document, 'head', 'script', 'https://cdn.getambassador.com', 'mbsy', true);</script><script src="https://cdn.getambassador.com/us-310c1568-aad6-4ed2-a40a-4d741a07fc8f.js" async=""></script><style>
+h4 { font-size: 18px; }
+</style></head>
 
-		<header class="header">
-			<div class="row">
-				<div class="small-12 columns">
-					<nav>
-						<a href="/?noredirect" class="logo" aria-label="Navigate to homepage">
-							<svg id="logos" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 393.09 149.22"><defs><style>.cls-1{fill:#71b044;}.cls-2{fill:#5e5f5f;}.cls-3{fill:#fff;}</style></defs><circle class="cls-1" cx="76.34" cy="74.61" r="69.6"></circle><path class="cls-2" d="M332.59,53.17H307.22V93.62h8.69V78.7h9.48l9.22-.31a7.3,7.3,0,0,0,5.27-7v-11A7.29,7.29,0,0,0,332.59,53.17ZM331.15,70H315.91V61.89h15.24Z"></path><path class="cls-2" d="M202.89,53.17H184.8a7.26,7.26,0,0,0-7.25,7.29v9.93a7.26,7.26,0,0,0,7.25,7.26h16.65v7.11h-23.9v1.42a7.48,7.48,0,0,0,7.25,7.42h18.09a7.51,7.51,0,0,0,7.29-7.42v-10a7.31,7.31,0,0,0-7.29-7.28H186.24V61.89h23.94V60.46A7.3,7.3,0,0,0,202.89,53.17Z"></path><path class="cls-2" d="M288.51,60.46a7.3,7.3,0,0,0-7.3-7.29h-1.4V93.62h8.71l0-31.73Z"></path><path class="cls-2" d="M379.06,53.17H353.6v8.72h11.13V93.62h8.72V61.89h12.9V60.46A7.29,7.29,0,0,0,379.06,53.17Z"></path><path class="cls-2" d="M261,60.46a7.27,7.27,0,0,0-7.27-7.29h-1.42V70H237V53.17H228.3V93.62H237V78.7h15.25V93.62H261l0-31.73Z"></path><path class="cls-3" d="M21,66.53a188.23,188.23,0,0,0,34.21,7H97.53a188.28,188.28,0,0,0,34.17-7v-2H21Z"></path><path class="cls-3" d="M76.34,42.47a24.11,24.11,0,0,0-19.1,9H95.44A24.1,24.1,0,0,0,76.34,42.47Z"></path><polygon class="cls-3" points="66.39 77.89 85.95 77.89 90.34 75.66 62.34 75.66 66.39 77.89"></polygon><polygon class="cls-3" points="76.34 116.12 79.27 85.04 73.41 85.04 76.34 116.12"></polygon><polygon class="cls-3" points="42 108.64 58.73 82.28 53.51 79.62 42 108.64"></polygon><polygon class="cls-3" points="93.95 82.28 110.67 108.64 99.17 79.62 93.95 82.28"></polygon><path class="cls-3" d="M120.66,58a1.63,1.63,0,1,1-3.13.64,1.61,1.61,0,0,1,.58-1.23A189,189,0,0,0,97.53,54H55.19a189,189,0,0,0-20.61,3.43,1.61,1.61,0,0,1,.57,1.22A1.63,1.63,0,1,1,32,58q-5.59,1.33-11,3V62.3H131.69V61Q126.26,59.35,120.66,58ZM42.08,60.28a1.62,1.62,0,1,1,1.63-1.61A1.62,1.62,0,0,1,42.08,60.28Zm8.57,0a1.62,1.62,0,1,1,1.63-1.61A1.62,1.62,0,0,1,50.64,60.28Zm8.56,0a1.62,1.62,0,1,1,1.64-1.61A1.62,1.62,0,0,1,59.2,60.28Zm8.57,0a1.62,1.62,0,1,1,1.63-1.61A1.62,1.62,0,0,1,67.77,60.28Zm8.57,0A1.62,1.62,0,1,1,78,58.66,1.63,1.63,0,0,1,76.34,60.28Zm8.57,0a1.62,1.62,0,1,1,1.62-1.61A1.63,1.63,0,0,1,84.91,60.28Zm8.56,0a1.62,1.62,0,1,1,1.63-1.61A1.63,1.63,0,0,1,93.47,60.28Zm8.57,0a1.62,1.62,0,1,1,1.63-1.61A1.63,1.63,0,0,1,102,60.28Zm8.56,0a1.62,1.62,0,1,1,1.62-1.61A1.63,1.63,0,0,1,110.6,60.28Z"></path></svg>
-						</a>
-						<ul class="left">
-							<li><a href="#how-it-works" class="slide-up" aria-label="Jump to How It Works section">How It Works</a>
-							</li><li><a href="http://help.shipt.com">Help</a></li>
-							<!-- <li id="menu-item-568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-568"><a href="https://www.shipt.com/">Home</a></li>
-<li id="menu-item-543" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-543"><a href="http://shipt.wpengine.com/#demo">How It Works</a></li>
-<li id="menu-item-544" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-544"><a href="http://shipt.wpengine.com/#features">Features</a></li>
-<li id="menu-item-545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-545"><a href="http://shipt.wpengine.com/#cities">Cities</a></li>
-<li id="menu-item-546" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-546"><a href="http://shipt.wpengine.com/support">Support</a></li>
-<li id="menu-item-547" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-547"><a href="https://www.shipt.com/meals">Meals</a></li>
-<li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-569"><a href="https://www.shipt.com/blog/">Blog</a></li>
- -->
-						</ul>
-						<ul class="right">
-							<li><a href="/be-a-shopper/">Get Paid to Shop</a></li>
-							<li class="flag"><a href="https://app.shipt.com/signup#/enterEmail?trial=true&amp;year_c=c" class="signup">Sign Up</a></li>
-							<li><a href="https://shop.shipt.com/#/app/home">Log In</a></li>
-						</ul>
-						<ul class="mobile-nav">
-							<li><a href="#how-it-works" class="slide-up" aria-label="Jump to How It Works section">How It Works</a>
-							</li><li><a href="http://help.shipt.com">Help</a>
-							</li><li><a href="/gift/">Gift <i class="ss-icon ss-gift"></i></a>
-							</li><li><a href="/be-a-shopper/" class="button-light">Get Paid to Shop</a>
-							</li><li><a href="https://app.shipt.com/signup#/enterEmail?trial=true&amp;year_c=c" class="button signup">Sign Up</a>
-							</li><li><a href="https://shop.shipt.com/#/app/home">Log In</a>
-							</li><li><a href="#flip" class="ship" aria-label="Shipt logo easter egg"></a></li>
-						</ul>
-						<a class="navicon-wrap x3" aria-label="Open Navigation">
-							<div class="navicon"></div>
-						</a>
-						<a href="https://app.shipt.com/signup#/enterEmail?trial=true&amp;year_c=c" class="mobile signup">Sign Up</a>
-					</nav>
-				</div>
-			</div>
-		</header>
+  <body class="page-template page-template-page-company page-template-page-company-php page page-id-647" id="privacy-policy">
+    
+<ul id="be_sdkms_capsule" style="display:none!important">
+    <li id="be_sdkms_sdk_version">be_ixf; php_sdk; php_sdk_1.4.9</li>
+    <li id="be_sdkms_capsule_connect_timer">51 ms</li>
+    <li id="be_sdkms_capsule_index_time">iy_2018; im_10; id_25; ih_07; imh_08; i_epoch:1.54047650384E+12</li>
+    <li id="be_sdkms_capsule_pub">ixf-compiler; ixf-compiler_1.0.0.0</li>
+    <li id="be_sdkms_capsule_date_modified">py_2018; pm_08; pd_02; ph_05; pmh_51; p_epoch:1.53321431992E+12</li>
+</ul>
+<ul id="be_sdkms_node" style="display:none!important">
+   <li id="be_sdkms_pub">link-block-publisher; link-block-publisher_link-block-publisher; bodystr</li>
+   <li id="be_sdkms_date_modified">pn_tstr:Thu Aug 02 05:51:59 PST 2018; pn_epoch:1.53321431992E+12</li>
+   <li id="be_sdkms_timer">0 ms</li>
+</ul>
 
-	</div>
+<ul id="be_sdkms_capsule" style="display:none!important">
+</ul>
 
-	<div class="page-content">
+          <div class="page-container">
+        <header>
+            <!-- Promo Bar -->
+            
+<nav aria-label="mainmenu">
+    
+<div class="navicon" id="navicon">
+  <span class="line"></span>
+  <span class="line"></span>
+  <span class="line"></span>
+</div>
 
-		<div id="top"></div>
-	<section id="postWrap" class="section-100-130 whiteBgSection">
-	<!-- <img class="triangleTop" src="https://www.shipt.com/wp-content/themes/delicious/img/tri-white-top.png" alt="" /> -->
-		<div class="row">
+<div class="mobile-menu">
+  <div class="menu-container">
+    <ul>
+      <li><a href="https://shop.shipt.com/#/app/home">Log in</a></li>
+      <li><a href="https://signup.shipt.com/">Sign Up</a></li>
+      <li><a href="/gift/">Gift</a></li>
+      <li><div id="menu-divide"></div></li>
+      <li><a href="/be-a-shopper/">Become A Shopper</a></li>
+      <li><a href="https://help.shipt.com/">Help</a></li>
+      <!-- <li><a href="#chat" class="faq chatPop">Live Chat</a></li> -->
+    </ul>
+  </div>
+</div>
+    <a href="/?noredirect" class="logo" aria-label="Navigate to homepage"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 393.09 149.22"><defs><style>.circle{fill:#71b044;}.cls-2{fill:#5e5f5f;}.cls-3{fill:#fff;}</style></defs><circle class="circle" cx="76.34" cy="74.61" r="69.6"></circle><path class="cls-2" d="M332.59,53.17H307.22V93.62h8.69V78.7h9.48l9.22-.31a7.3,7.3,0,0,0,5.27-7v-11A7.29,7.29,0,0,0,332.59,53.17ZM331.15,70H315.91V61.89h15.24Z"></path><path class="cls-2" d="M202.89,53.17H184.8a7.26,7.26,0,0,0-7.25,7.29v9.93a7.26,7.26,0,0,0,7.25,7.26h16.65v7.11h-23.9v1.42a7.48,7.48,0,0,0,7.25,7.42h18.09a7.51,7.51,0,0,0,7.29-7.42v-10a7.31,7.31,0,0,0-7.29-7.28H186.24V61.89h23.94V60.46A7.3,7.3,0,0,0,202.89,53.17Z"></path><path class="cls-2" d="M288.51,60.46a7.3,7.3,0,0,0-7.3-7.29h-1.4V93.62h8.71l0-31.73Z"></path><path class="cls-2" d="M379.06,53.17H353.6v8.72h11.13V93.62h8.72V61.89h12.9V60.46A7.29,7.29,0,0,0,379.06,53.17Z"></path><path class="cls-2" d="M261,60.46a7.27,7.27,0,0,0-7.27-7.29h-1.42V70H237V53.17H228.3V93.62H237V78.7h15.25V93.62H261l0-31.73Z"></path><path class="cls-3" d="M21,66.53a188.23,188.23,0,0,0,34.21,7H97.53a188.28,188.28,0,0,0,34.17-7v-2H21Z"></path><path class="cls-3" d="M76.34,42.47a24.11,24.11,0,0,0-19.1,9H95.44A24.1,24.1,0,0,0,76.34,42.47Z"></path><polygon class="cls-3" points="66.39 77.89 85.95 77.89 90.34 75.66 62.34 75.66 66.39 77.89"></polygon><polygon class="cls-3" points="76.34 116.12 79.27 85.04 73.41 85.04 76.34 116.12"></polygon><polygon class="cls-3" points="42 108.64 58.73 82.28 53.51 79.62 42 108.64"></polygon><polygon class="cls-3" points="93.95 82.28 110.67 108.64 99.17 79.62 93.95 82.28"></polygon><path class="cls-3" d="M120.66,58a1.63,1.63,0,1,1-3.13.64,1.61,1.61,0,0,1,.58-1.23A189,189,0,0,0,97.53,54H55.19a189,189,0,0,0-20.61,3.43,1.61,1.61,0,0,1,.57,1.22A1.63,1.63,0,1,1,32,58q-5.59,1.33-11,3V62.3H131.69V61Q126.26,59.35,120.66,58ZM42.08,60.28a1.62,1.62,0,1,1,1.63-1.61A1.62,1.62,0,0,1,42.08,60.28Zm8.57,0a1.62,1.62,0,1,1,1.63-1.61A1.62,1.62,0,0,1,50.64,60.28Zm8.56,0a1.62,1.62,0,1,1,1.64-1.61A1.62,1.62,0,0,1,59.2,60.28Zm8.57,0a1.62,1.62,0,1,1,1.63-1.61A1.62,1.62,0,0,1,67.77,60.28Zm8.57,0A1.62,1.62,0,1,1,78,58.66,1.63,1.63,0,0,1,76.34,60.28Zm8.57,0a1.62,1.62,0,1,1,1.62-1.61A1.63,1.63,0,0,1,84.91,60.28Zm8.56,0a1.62,1.62,0,1,1,1.63-1.61A1.63,1.63,0,0,1,93.47,60.28Zm8.57,0a1.62,1.62,0,1,1,1.63-1.61A1.63,1.63,0,0,1,102,60.28Zm8.56,0a1.62,1.62,0,1,1,1.62-1.61A1.63,1.63,0,0,1,110.6,60.28Z"></path></svg>
+</a>
+    <ul class="left">
+        <li><a href="/be-a-shopper/">Get Paid to Shop</a>
+        </li><li><a href="http://help.shipt.com">Help</a>
+        </li><li><a href="/gift/">Gift</a></li>
+    </ul>
+    <ul class="right">
+        <li><a href="https://shop.shipt.com/#/app/home" class="button-secondary">Log In</a>
+        </li><li><a href="https://signup.shipt.com/" class="button-primary signup-cta">Sign up</a></li>
+    </ul>
+</nav>
+        </header>
 
-			<div class="medium-12 columns del-post-body">
-				
-				<!--POST CONTENT-->
-											<h2 class="postTitle">
-							Privacy Policy						</h2>
-										<div></div></div><div class="clear"></div><section id="" class="whiteBgSection" style="padding:0px 0 0px;"><h1 class="sectionTitle">Privacy Policy</h1><div class="titleSeparator"></div><h3 class="sectionDescription">Last Updated: June 6, 2016</h3><div class="separator80"></div><div class="row"></div>
-<div class="innerText" style="text-align: left; max-width: 800px; margin: 0 auto;">
-<p>Thank you for using Shipt! This privacy policy has been compiled to better serve those who are concerned with how their information is being used online. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle any information that we may collect from you or that you may provide when you use our Platform.</p>
-<h4>WHAT INFORMATION DO WE COLLECT?</h4>
-<p><strong>Information That You Give Us</strong></p>
+  
+<!-- Half - Oatmeal -->
+
+  <section class="company-content">
+  	<h1>Privacy Policy</h1>
+  	<article class="entry-content">
+      <p>Thank you for using Shipt! This privacy policy has been compiled to better serve those who are concerned with how their information is being used online. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle any information that we may collect from you or that you may provide when you use our Platform.</p>
+<h2>What information do we collect?</h2>
+<h4>Information That You Give Us</h4>
 <p>We receive, store and process information, including personally identifiable information, that you make available to us when accessing or using the Shipt Platform and Services. Examples include information you provide when you:</p>
-<ul style="list-style-type: disc;">
+<ul>
 <li>fill in any form on the Platform, such as when you register or update the details of your user account, or when you supply ID and other verification information;</li>
 <li>access or use the Platform, such as to place grocery orders, search for products, pay for your order, place special orders; and</li>
 <li>communicate with Shipt.</li>
 </ul>
-<p><strong>Information we get from your Use of our Platform</strong></p>
+<h4>Information we get from your Use of our Platform</h4>
 <p>Cookies, Pixels, and Other Tracking Technologies: We and our partners use various technologies to collect information, including cookies, pixels, and device identifiers. Cookies are small text files that are sent by your computer when you access our services through a browser. We may use session cookies (which expire when you close your browser), persistent cookies (which expire when you choose to clear them from your browser), pixels, and other identifiers to collect information from your browser or device that helps us do things such as understand how you use our services, personalize your experience, measure advertising performance, and remember that you are logged in to Shipt.</p>
 <p>Mobile Data: When you use certain features of the Platform, in particular our mobile applications we may receive, store and process different types of information about your location, including general information (e.g. IP address, zip code) and more specific information (e.g. GPS-based functionality on mobile devices used to access the Platform or specific features of the platform). If you access the Platform through a mobile device and you do not want your device to provide us with location-tracking information, you can disable the GPS or other location-tracking functions on your device, provided your device allows you to do this. See your device manufacturer’s instructions for further details.</p>
 <p>We employ some third-party services to help us understand the usage of Shipt, and these third-parties may also deploy cookies or pixels on our site or collect information through our mobile applications. For example, we use Google Analytics to understand how users interact with various portions of our site.</p>
 <p>Log information: When you use Shipt, our servers will record information about your usage of the service and information that is sent by your browser or device. Logs information can include things like the IP address of your device, information about the browser, operating system and/or app you are using, unique device identifiers, pages that you navigate to and links that you click, searches that you run on Shipt, and other ways you interact with the service. When you are logged into the Shipt service, this information is stored with your account information.</p>
-<h4>WHAT DO WE DO WITH YOUR INFORMATION</h4>
+<h2>What do we do with your information?</h2>
 <p>We use, store and process information about you for the following general purposes:</p>
-<ul style="list-style-type: disc;">
+<ul>
 <li>To support the buying and selling process, we collect the personal information you give us such as your name, address and email address. This information will be stored and used to process and fulfill your orders.</li>
 <li>We may provide personal information to the merchants who fulfill the orders you place on our sites.</li>
 <li>We may share personal information with our subsidiaries, affiliates and marketing partners.</li>
@@ -418,180 +536,374 @@ var google_remarketing_only = true;
 <li>To send you marketing, advertising, and promotional messages and other information that may be of interest to you, including information about Shipt, our services, or general promotions for partner campaigns and services;</li>
 <li>To administer referral programs, rewards, surveys, sweepstakes, contests, or other promotional activities or events sponsored or managed by Shipt or our Third Party business partners.</li>
 </ul>
-<p>&nbsp;</p>
-<h4>THIRD-PARTY SERVICES</h4>
+<h2>Third-party services</h2>
 <p>In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.</p>
 <p>However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions. For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.</p>
 <p>In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.</p>
 <p>As an example, if you are a Canadian citizen and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.</p>
 <p>This privacy policy does not apply to information collected by any third party, including through any application or content (including advertising) that may link to or be accessible from our site.</p>
-<h4>DISCLOSURE</h4>
+<h2>Disclosure</h2>
 <p>We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.</p>
-<h4>LINKS</h4>
+<h2>Links</h2>
 <p>When you click on links on our website or blog, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.</p>
-<h4>SECURITY</h4>
+<h2>Security</h2>
 <p>To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.</p>
 <p>If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with AES-256 encryption. &nbsp;Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.</p>
-<h4>YOUR CALIFORNIA PRIVACY RIGHTS</h4>
+<h2>Your California privacy rights</h2>
 <p>Residents of the State of California, under the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which Shipt has disclosed personal information during the preceding year for direct marketing purposes and a disclosure of the shared information. Alternatively, the law provides that if a company has a privacy policy that provides you with an “opt-out” choice for use of your personal information by third parties for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options.</p>
 <p>This site qualifies for the alternative option. Its privacy policy provides you with information on how you may opt-out from the use of your personal information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your personal information during the preceding year for marketing purposes.</p>
-<p>If you are a California resident and request information about how to exercise your third party disclosure choices, send a request to the following email address: <em>info@shipt.com.</em></p>
-<h4>CHILDREN ONLINE PRIVACY PROTECTION ACT</h4>
+<p>If you are a California resident and request information about how to exercise your third party disclosure choices, send a request to the following email address: <em><a href="mailto:info@shipt.com">info@shipt.com</a></em>.</p>
+<h2>Children online privacy protection act</h2>
 <p>The site is not intended for children under 13 years of age. No one under age 13 may provide any information through the site. If you are under 13, do not use or provide any information through the site or on or through any of its features. We do not knowingly collect personal information from children under 13; however, if we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. Please contact us if you believe we might have personal information about a child under age 13.</p>
-<h4>CHANGES TO THIS PRIVACY POLICY</h4>
+<h2>Changes to this privacy policy</h2>
 <p>We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.</p>
 <p>If Shipt is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.</p>
-<h4>QUESTIONS AND CONTACT INFORMATION</h4>
+<h2>Questions and contact information</h2>
 <p>If you would like to access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information about our privacy practices, please contact our Privacy Compliance Officer at info@shipt.com or by mail at:</p>
-<p>Shipt<br>
+<p><span class="text-bold">Shipt</span><br>
 Attn: Compliance<br>
 17 20th St. N Unit 100<br>
 Birmingham, AL, 35203, United States</p>
+  	</article>
+  </section>
+
+  
+  <div class="metro-illustration" style="background-image:url('https://www.shipt.com/wp-content/themes/delicious/img/metro-illustration-generic.svg');">
+	<img src="https://www.shipt.com/wp-content/themes/delicious/img/metro-illustration-generic.svg" alt="metro illustration">
 </div>
-<div class="innerText"></div></section><div class="clear"></div><div class="row"><div class="twelve-col"></div>
 
-				
-
-				
-			</div>
-			<!--END POST CONTENT-->
-
-
-
+  
+	<footer class="footer">
+		<div class="footer-container">
+      <div class="clearfix">
+        <div class="footer-logo">
+          <a href="/?noredirect" class="logo" aria-label="Navigate to homepage"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 393.09 149.22"><defs><style>.circle{fill:#71b044;}.cls-2{fill:#5e5f5f;}.cls-3{fill:#fff;}</style></defs><circle class="circle" cx="76.34" cy="74.61" r="69.6"></circle><path class="cls-2" d="M332.59,53.17H307.22V93.62h8.69V78.7h9.48l9.22-.31a7.3,7.3,0,0,0,5.27-7v-11A7.29,7.29,0,0,0,332.59,53.17ZM331.15,70H315.91V61.89h15.24Z"></path><path class="cls-2" d="M202.89,53.17H184.8a7.26,7.26,0,0,0-7.25,7.29v9.93a7.26,7.26,0,0,0,7.25,7.26h16.65v7.11h-23.9v1.42a7.48,7.48,0,0,0,7.25,7.42h18.09a7.51,7.51,0,0,0,7.29-7.42v-10a7.31,7.31,0,0,0-7.29-7.28H186.24V61.89h23.94V60.46A7.3,7.3,0,0,0,202.89,53.17Z"></path><path class="cls-2" d="M288.51,60.46a7.3,7.3,0,0,0-7.3-7.29h-1.4V93.62h8.71l0-31.73Z"></path><path class="cls-2" d="M379.06,53.17H353.6v8.72h11.13V93.62h8.72V61.89h12.9V60.46A7.29,7.29,0,0,0,379.06,53.17Z"></path><path class="cls-2" d="M261,60.46a7.27,7.27,0,0,0-7.27-7.29h-1.42V70H237V53.17H228.3V93.62H237V78.7h15.25V93.62H261l0-31.73Z"></path><path class="cls-3" d="M21,66.53a188.23,188.23,0,0,0,34.21,7H97.53a188.28,188.28,0,0,0,34.17-7v-2H21Z"></path><path class="cls-3" d="M76.34,42.47a24.11,24.11,0,0,0-19.1,9H95.44A24.1,24.1,0,0,0,76.34,42.47Z"></path><polygon class="cls-3" points="66.39 77.89 85.95 77.89 90.34 75.66 62.34 75.66 66.39 77.89"></polygon><polygon class="cls-3" points="76.34 116.12 79.27 85.04 73.41 85.04 76.34 116.12"></polygon><polygon class="cls-3" points="42 108.64 58.73 82.28 53.51 79.62 42 108.64"></polygon><polygon class="cls-3" points="93.95 82.28 110.67 108.64 99.17 79.62 93.95 82.28"></polygon><path class="cls-3" d="M120.66,58a1.63,1.63,0,1,1-3.13.64,1.61,1.61,0,0,1,.58-1.23A189,189,0,0,0,97.53,54H55.19a189,189,0,0,0-20.61,3.43,1.61,1.61,0,0,1,.57,1.22A1.63,1.63,0,1,1,32,58q-5.59,1.33-11,3V62.3H131.69V61Q126.26,59.35,120.66,58ZM42.08,60.28a1.62,1.62,0,1,1,1.63-1.61A1.62,1.62,0,0,1,42.08,60.28Zm8.57,0a1.62,1.62,0,1,1,1.63-1.61A1.62,1.62,0,0,1,50.64,60.28Zm8.56,0a1.62,1.62,0,1,1,1.64-1.61A1.62,1.62,0,0,1,59.2,60.28Zm8.57,0a1.62,1.62,0,1,1,1.63-1.61A1.62,1.62,0,0,1,67.77,60.28Zm8.57,0A1.62,1.62,0,1,1,78,58.66,1.63,1.63,0,0,1,76.34,60.28Zm8.57,0a1.62,1.62,0,1,1,1.62-1.61A1.63,1.63,0,0,1,84.91,60.28Zm8.56,0a1.62,1.62,0,1,1,1.63-1.61A1.63,1.63,0,0,1,93.47,60.28Zm8.57,0a1.62,1.62,0,1,1,1.63-1.61A1.63,1.63,0,0,1,102,60.28Zm8.56,0a1.62,1.62,0,1,1,1.62-1.61A1.63,1.63,0,0,1,110.6,60.28Z"></path></svg>
+</a>
+          <div class="footer-social-list hide-for-small">
+            <ul>
+	<li><a href="https://www.facebook.com/shipt/" aria-label="Shipt Facebook page"><svg width="25" height="25" xmlns="http://www.w3.org/2000/svg"><path d="M12.35 24.86C5.53 24.86 0 19.334 0 12.518 0 5.702 5.53.176 12.35.176c6.82 0 12.35 5.526 12.35 12.342 0 6.816-5.53 12.342-12.35 12.342zm1.372-5.684V12.79h2.145l.322-2.488h-2.467v-1.59c0-.72.2-1.212 1.234-1.212h1.32V5.274a17.576 17.576 0 0 0-1.922-.098c-1.901 0-3.203 1.16-3.203 3.29v1.836H9v2.488h2.15v6.386h2.572z" fill="#414042" fill-rule="evenodd"></path></svg></a></li>
+	<li><a href="https://twitter.com/Shipt" aria-label="Shipt Twitter page"><svg width="25" height="25" xmlns="http://www.w3.org/2000/svg"><path d="M12.35.176C5.53.176 0 5.702 0 12.518c0 6.817 5.53 12.341 12.35 12.341 6.82 0 12.35-5.524 12.35-12.34C24.7 5.702 19.17.176 12.35.176zm4.911 9.826c.006.109.008.217.008.327 0 3.345-2.549 7.204-7.21 7.204a7.17 7.17 0 0 1-3.884-1.138 5.08 5.08 0 0 0 3.75-1.048 2.538 2.538 0 0 1-2.365-1.758 2.533 2.533 0 0 0 1.143-.044 2.535 2.535 0 0 1-2.032-2.482v-.032c.342.19.733.303 1.148.317a2.53 2.53 0 0 1-.784-3.381 7.193 7.193 0 0 0 5.223 2.645 2.533 2.533 0 0 1 2.468-3.109c.728 0 1.387.308 1.85.8a5.062 5.062 0 0 0 1.609-.615 2.54 2.54 0 0 1-1.115 1.4 5.06 5.06 0 0 0 1.455-.397 5.141 5.141 0 0 1-1.264 1.311z" fill="#414042" fill-rule="evenodd"></path></svg></a></li>
+	<li><a href="https://www.instagram.com/shiptgroceries/" aria-label="Shipt Instagram page"><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25"><g fill="#424143"><path d="M18.35 8.08a2.48 2.48 0 0 0-1.42-1.42 4.15 4.15 0 0 0-1.39-.26h-6a4.15 4.15 0 0 0-1.39.26 2.48 2.48 0 0 0-1.5 1.42 4.15 4.15 0 0 0-.26 1.39v6c.007.475.094.945.26 1.39a2.48 2.48 0 0 0 1.42 1.42 4.15 4.15 0 0 0 1.39.26h6a4.15 4.15 0 0 0 1.39-.26 2.48 2.48 0 0 0 1.42-1.42 4.15 4.15 0 0 0 .26-1.39v-6a4.15 4.15 0 0 0-.18-1.39zm-5.85 8.27a3.85 3.85 0 1 1 0-7.7 3.85 3.85 0 0 1 0 7.7zm4-7a.9.9 0 1 1 .9-.9.9.9 0 0 1-.9.95v-.05z"></path><circle cx="12.5" cy="12.5" r="2.5"></circle><path d="M12.5 0C5.596 0 0 5.596 0 12.5S5.596 25 12.5 25 25 19.404 25 12.5A12.5 12.5 0 0 0 12.5 0zM20 15.59a5.51 5.51 0 0 1-.35 1.82 3.84 3.84 0 0 1-2.19 2.19 5.51 5.51 0 0 1-1.82.35H9.46a5.51 5.51 0 0 1-1.82-.35 3.83 3.83 0 0 1-2.19-2.19A5.5 5.5 0 0 1 5 15.59V9.41a5.5 5.5 0 0 1 .35-1.82 3.83 3.83 0 0 1 2.24-2.2A5.51 5.51 0 0 1 9.41 5h6.18a5.51 5.51 0 0 1 1.82.35 3.84 3.84 0 0 1 2.19 2.19 5.51 5.51 0 0 1 .4 1.87v6.18z"></path></g></svg></a></li>
+	<li><a href="https://www.pinterest.com/shiptgroceries/" aria-label="Shipt Pinterest page"><svg width="25" height="25" xmlns="http://www.w3.org/2000/svg"><path d="M0 12.518c0 5.229 3.255 9.694 7.85 11.493-.109-.977-.206-2.475.042-3.541.224-.963 1.448-6.134 1.448-6.134s-.37-.74-.37-1.833c0-1.716.996-2.997 2.236-2.997 1.053 0 1.562.79 1.562 1.738 0 1.06-.675 2.642-1.023 4.11-.29 1.228.617 2.23 1.83 2.23 2.194 0 3.881-2.313 3.881-5.652 0-2.955-2.124-5.021-5.159-5.021-3.513 0-5.576 2.634-5.576 5.356 0 1.061.409 2.198.92 2.816.1.123.115.23.085.354-.094.39-.302 1.229-.343 1.4-.054.226-.18.274-.413.165-1.543-.717-2.507-2.97-2.507-4.78 0-3.894 2.83-7.47 8.16-7.47 4.284 0 7.613 3.051 7.613 7.129 0 4.253-2.683 7.676-6.408 7.676-1.251 0-2.428-.65-2.83-1.417 0 0-.62 2.356-.77 2.934-.279 1.072-1.031 2.415-1.535 3.235 1.156.358 2.383.55 3.657.55 6.82 0 12.35-5.525 12.35-12.341C24.7 5.702 19.17.176 12.35.176 5.53.176 0 5.702 0 12.518z" fill="#414042" fill-rule="evenodd"></path></svg></a></li>
+</ul>
+          </div>
+          <div class="built-in-bham hide-for-small">
+            <svg viewBox="0 0 294.16 103.47" fill="#414042" xmlns="http://www.w3.org/2000/svg"><path d="m0 0h13.57c5.33 0 6.65 2.32 6.65 4.4v.27a3.82 3.82 0 0 1 -3.42 3.68c2.1.3 4.34 1.62 4.34 4.6v.27c0 2.53-1.52 5.38-7.49 5.38h-13.65zm5.15 3.87v3.33h7.67c1.55 0 2-.75 2-1.63v-.05c0-.9-.5-1.65-2-1.65zm0 7v3.67h8.07c1.83 0 2.33-.92 2.33-1.87v-.1c0-.93-.5-1.7-2.33-1.7z"></path><path d="m25.51 9.45v-9.45h5.15v9.32c0 2.13.6 5.18 5.32 5.18h.13c4.75 0 5.27-3.05 5.27-5.18v-9.32h5.12v9.45c0 3.72-1.32 9.42-10.09 9.42h-.73c-9.12 0-10.17-5.72-10.17-9.42z"></path><path d="m57 18.6h-5.19v-18.6h5.19z"></path><path d="m67.41 0v14.22h11.37v4.38h-16.52v-18.6z"></path><path d="m86 4.25h-7.2v-4.25h19.47v4.25h-7.19v14.35h-5.08z"></path><path d="m124.7 18.6h-5.15v-18.6h5.15z"></path><path d="m135 6.55v12.05h-5v-18.6h5.3l10.88 12v-12h5v18.6h-5z"></path><path d="m30.29 34.07h9.15v68.85h-9.15z"></path><path d="m117.56 34.07h9.15v68.85h-9.15z"></path><path d="m132.6 34.07h8.47l9 39.15v-39.15h8.36v68.85h-8.43l-9-39.14v39.14h-8.4z"></path><path d="m234.34 34.07h9.15l10 68.85h-9.15l-1.44-10.81h-8.07l-1.38 10.81h-9.14zm7.67 49-3.15-24-3.05 24z"></path><path d="m101.04 34.07-7.57 44.74-7.58-44.74h-10.62v68.85h8.36v-41.99l6.89 41.99h5.9l6.88-41.99v41.99h8.36v-68.85z"></path><path d="m0 34.07h12.36c7.92 0 12.46 4.73 12.46 17.87 0 10.52-3 14.58-6.76 15.74v.38c4.73 1.55 7 6.09 7 15.26 0 14.87-5.21 19.61-11.88 19.61h-13.18zm10.91 29.65c3.19 0 4.94-2.9 4.94-10.82 0-7.53-1.65-10.23-4-10.23h-2.64v21zm.78 30.8c2.89 0 4.16-3.86 4.16-11 0-8-1.65-10.71-4.84-10.71h-1.8v21.71z"></path><path d="m195.17 34.07h9.15v29.65h6.59v-29.65h9.15v68.85h-9.15v-30.15h-6.59v30.15h-9.15z"></path><path d="m177.3 33.53h-.86c-10.82 0-12.07 6.79-12.07 11.18v47.58c0 4.39 1.25 11.18 12.07 11.18h.86c10.4 0 12-6.76 12-11.18v-26.29h-12.47v9h3.3v16.23c0 1.31-.33 3.19-3.25 3.19h-.07c-2.9 0-3.27-1.88-3.27-3.19v-45.47c0-1.3.37-3.18 3.27-3.18h.07c2.92 0 3.25 1.88 3.25 3.18v12.07h9.14v-13.12c0-4.42-1.57-11.18-11.97-11.18z"></path><path d="m283.54 34.07-7.57 44.74-7.58-44.74h-10.62v68.85h8.36v-41.99l6.89 41.99h5.9l6.88-41.99v41.99h8.37v-68.85z"></path><path d="m45.33 34.06h10.6c7.91 0 13.9 4.63 13.9 19.31 0 10.43-2.61 14.33-4.45 16.36l5.26 33.18h-9.14l-4.35-28.81h-2.67v28.8h-9.15zm11.88 31c2.41 0 3.86-2.8 3.86-11 0-7.15-1.06-11.11-4.34-11.11h-2.25v22.11z"></path></svg>
+          </div>
+        </div>
+        <div class="footer-menus">
+          <nav class="accordion" aria-label="Using Shipt Menu">
+            <h3 class="accordion-header chevron">Using Shipt</h3>
+            <ul class="menu" id="ft-using-shipt">
+              <li><a href="https://signup.shipt.com">Sign up</a></li>
+              <li><a href="/gift/">Give a gift</a></li>
+              <li><a href="https://help.shipt.com/">Help</a></li>
+            </ul>
+          </nav>
+          <nav class="accordion" aria-label="Resources Menu">
+            <h3 class="accordion-header chevron">Resources</h3>
+            <ul class="menu">
+              <li><a href="/about/">About us</a></li>
+              <li><a href="/partner/">Partner with us</a></li>
+              <li><a href="/careers/">Careers</a></li>
+              <li><a href="/press/">Press/Media</a></li>
+              <li><a href="/students/">Students</a></li>
+            </ul>
+          </nav>
+          <nav class="accordion" aria-label="Community Menu">
+            <h3 class="accordion-header chevron">Community</h3>
+            <ul class="menu">
+              <li><a href="/be-a-shopper/">Get paid to shop</a></li>
+              <li><a href="/blog/">Blog</a></li>
+              <li><a href="/contact/">Contact us</a></li>
+            </ul>
+          </nav>
+          <div id="be-ix-link-block">
+            <nav class="accordion" aria-label="Policies Menu">
+              <h3 class="accordion-header chevron">Policies</h3>
+              <ul class="menu">
+                <li><a href="/privacy-policy/">Privacy</a></li>
+                <li><a href="/terms-of-service/">Terms of service</a></li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+        <div class="hide-for-medium">
+          <div class="footer-social-list">
+            <ul>
+	<li><a href="https://www.facebook.com/shipt/" aria-label="Shipt Facebook page"><svg width="25" height="25" xmlns="http://www.w3.org/2000/svg"><path d="M12.35 24.86C5.53 24.86 0 19.334 0 12.518 0 5.702 5.53.176 12.35.176c6.82 0 12.35 5.526 12.35 12.342 0 6.816-5.53 12.342-12.35 12.342zm1.372-5.684V12.79h2.145l.322-2.488h-2.467v-1.59c0-.72.2-1.212 1.234-1.212h1.32V5.274a17.576 17.576 0 0 0-1.922-.098c-1.901 0-3.203 1.16-3.203 3.29v1.836H9v2.488h2.15v6.386h2.572z" fill="#414042" fill-rule="evenodd"></path></svg></a></li>
+	<li><a href="https://twitter.com/Shipt" aria-label="Shipt Twitter page"><svg width="25" height="25" xmlns="http://www.w3.org/2000/svg"><path d="M12.35.176C5.53.176 0 5.702 0 12.518c0 6.817 5.53 12.341 12.35 12.341 6.82 0 12.35-5.524 12.35-12.34C24.7 5.702 19.17.176 12.35.176zm4.911 9.826c.006.109.008.217.008.327 0 3.345-2.549 7.204-7.21 7.204a7.17 7.17 0 0 1-3.884-1.138 5.08 5.08 0 0 0 3.75-1.048 2.538 2.538 0 0 1-2.365-1.758 2.533 2.533 0 0 0 1.143-.044 2.535 2.535 0 0 1-2.032-2.482v-.032c.342.19.733.303 1.148.317a2.53 2.53 0 0 1-.784-3.381 7.193 7.193 0 0 0 5.223 2.645 2.533 2.533 0 0 1 2.468-3.109c.728 0 1.387.308 1.85.8a5.062 5.062 0 0 0 1.609-.615 2.54 2.54 0 0 1-1.115 1.4 5.06 5.06 0 0 0 1.455-.397 5.141 5.141 0 0 1-1.264 1.311z" fill="#414042" fill-rule="evenodd"></path></svg></a></li>
+	<li><a href="https://www.instagram.com/shiptgroceries/" aria-label="Shipt Instagram page"><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25"><g fill="#424143"><path d="M18.35 8.08a2.48 2.48 0 0 0-1.42-1.42 4.15 4.15 0 0 0-1.39-.26h-6a4.15 4.15 0 0 0-1.39.26 2.48 2.48 0 0 0-1.5 1.42 4.15 4.15 0 0 0-.26 1.39v6c.007.475.094.945.26 1.39a2.48 2.48 0 0 0 1.42 1.42 4.15 4.15 0 0 0 1.39.26h6a4.15 4.15 0 0 0 1.39-.26 2.48 2.48 0 0 0 1.42-1.42 4.15 4.15 0 0 0 .26-1.39v-6a4.15 4.15 0 0 0-.18-1.39zm-5.85 8.27a3.85 3.85 0 1 1 0-7.7 3.85 3.85 0 0 1 0 7.7zm4-7a.9.9 0 1 1 .9-.9.9.9 0 0 1-.9.95v-.05z"></path><circle cx="12.5" cy="12.5" r="2.5"></circle><path d="M12.5 0C5.596 0 0 5.596 0 12.5S5.596 25 12.5 25 25 19.404 25 12.5A12.5 12.5 0 0 0 12.5 0zM20 15.59a5.51 5.51 0 0 1-.35 1.82 3.84 3.84 0 0 1-2.19 2.19 5.51 5.51 0 0 1-1.82.35H9.46a5.51 5.51 0 0 1-1.82-.35 3.83 3.83 0 0 1-2.19-2.19A5.5 5.5 0 0 1 5 15.59V9.41a5.5 5.5 0 0 1 .35-1.82 3.83 3.83 0 0 1 2.24-2.2A5.51 5.51 0 0 1 9.41 5h6.18a5.51 5.51 0 0 1 1.82.35 3.84 3.84 0 0 1 2.19 2.19 5.51 5.51 0 0 1 .4 1.87v6.18z"></path></g></svg></a></li>
+	<li><a href="https://www.pinterest.com/shiptgroceries/" aria-label="Shipt Pinterest page"><svg width="25" height="25" xmlns="http://www.w3.org/2000/svg"><path d="M0 12.518c0 5.229 3.255 9.694 7.85 11.493-.109-.977-.206-2.475.042-3.541.224-.963 1.448-6.134 1.448-6.134s-.37-.74-.37-1.833c0-1.716.996-2.997 2.236-2.997 1.053 0 1.562.79 1.562 1.738 0 1.06-.675 2.642-1.023 4.11-.29 1.228.617 2.23 1.83 2.23 2.194 0 3.881-2.313 3.881-5.652 0-2.955-2.124-5.021-5.159-5.021-3.513 0-5.576 2.634-5.576 5.356 0 1.061.409 2.198.92 2.816.1.123.115.23.085.354-.094.39-.302 1.229-.343 1.4-.054.226-.18.274-.413.165-1.543-.717-2.507-2.97-2.507-4.78 0-3.894 2.83-7.47 8.16-7.47 4.284 0 7.613 3.051 7.613 7.129 0 4.253-2.683 7.676-6.408 7.676-1.251 0-2.428-.65-2.83-1.417 0 0-.62 2.356-.77 2.934-.279 1.072-1.031 2.415-1.535 3.235 1.156.358 2.383.55 3.657.55 6.82 0 12.35-5.525 12.35-12.341C24.7 5.702 19.17.176 12.35.176 5.53.176 0 5.702 0 12.518z" fill="#414042" fill-rule="evenodd"></path></svg></a></li>
+</ul>
+          </div>
+          <div class="built-in-bham">
+            <svg viewBox="0 0 294.16 103.47" fill="#414042" xmlns="http://www.w3.org/2000/svg"><path d="m0 0h13.57c5.33 0 6.65 2.32 6.65 4.4v.27a3.82 3.82 0 0 1 -3.42 3.68c2.1.3 4.34 1.62 4.34 4.6v.27c0 2.53-1.52 5.38-7.49 5.38h-13.65zm5.15 3.87v3.33h7.67c1.55 0 2-.75 2-1.63v-.05c0-.9-.5-1.65-2-1.65zm0 7v3.67h8.07c1.83 0 2.33-.92 2.33-1.87v-.1c0-.93-.5-1.7-2.33-1.7z"></path><path d="m25.51 9.45v-9.45h5.15v9.32c0 2.13.6 5.18 5.32 5.18h.13c4.75 0 5.27-3.05 5.27-5.18v-9.32h5.12v9.45c0 3.72-1.32 9.42-10.09 9.42h-.73c-9.12 0-10.17-5.72-10.17-9.42z"></path><path d="m57 18.6h-5.19v-18.6h5.19z"></path><path d="m67.41 0v14.22h11.37v4.38h-16.52v-18.6z"></path><path d="m86 4.25h-7.2v-4.25h19.47v4.25h-7.19v14.35h-5.08z"></path><path d="m124.7 18.6h-5.15v-18.6h5.15z"></path><path d="m135 6.55v12.05h-5v-18.6h5.3l10.88 12v-12h5v18.6h-5z"></path><path d="m30.29 34.07h9.15v68.85h-9.15z"></path><path d="m117.56 34.07h9.15v68.85h-9.15z"></path><path d="m132.6 34.07h8.47l9 39.15v-39.15h8.36v68.85h-8.43l-9-39.14v39.14h-8.4z"></path><path d="m234.34 34.07h9.15l10 68.85h-9.15l-1.44-10.81h-8.07l-1.38 10.81h-9.14zm7.67 49-3.15-24-3.05 24z"></path><path d="m101.04 34.07-7.57 44.74-7.58-44.74h-10.62v68.85h8.36v-41.99l6.89 41.99h5.9l6.88-41.99v41.99h8.36v-68.85z"></path><path d="m0 34.07h12.36c7.92 0 12.46 4.73 12.46 17.87 0 10.52-3 14.58-6.76 15.74v.38c4.73 1.55 7 6.09 7 15.26 0 14.87-5.21 19.61-11.88 19.61h-13.18zm10.91 29.65c3.19 0 4.94-2.9 4.94-10.82 0-7.53-1.65-10.23-4-10.23h-2.64v21zm.78 30.8c2.89 0 4.16-3.86 4.16-11 0-8-1.65-10.71-4.84-10.71h-1.8v21.71z"></path><path d="m195.17 34.07h9.15v29.65h6.59v-29.65h9.15v68.85h-9.15v-30.15h-6.59v30.15h-9.15z"></path><path d="m177.3 33.53h-.86c-10.82 0-12.07 6.79-12.07 11.18v47.58c0 4.39 1.25 11.18 12.07 11.18h.86c10.4 0 12-6.76 12-11.18v-26.29h-12.47v9h3.3v16.23c0 1.31-.33 3.19-3.25 3.19h-.07c-2.9 0-3.27-1.88-3.27-3.19v-45.47c0-1.3.37-3.18 3.27-3.18h.07c2.92 0 3.25 1.88 3.25 3.18v12.07h9.14v-13.12c0-4.42-1.57-11.18-11.97-11.18z"></path><path d="m283.54 34.07-7.57 44.74-7.58-44.74h-10.62v68.85h8.36v-41.99l6.89 41.99h5.9l6.88-41.99v41.99h8.37v-68.85z"></path><path d="m45.33 34.06h10.6c7.91 0 13.9 4.63 13.9 19.31 0 10.43-2.61 14.33-4.45 16.36l5.26 33.18h-9.14l-4.35-28.81h-2.67v28.8h-9.15zm11.88 31c2.41 0 3.86-2.8 3.86-11 0-7.15-1.06-11.11-4.34-11.11h-2.25v22.11z"></path></svg>
+          </div>
+        </div>
+      </div>
+      		</div>
+		<div class="footer-copy" role="contentinfo">
+			<p><span aria-label="Copyright">©</span> 2018 Shipt, Inc. and its services are not necessarily affiliated or endorsed by the retailers on this site.</p>
 		</div>
-		<div class="clear"></div>
-		<!-- <img class="triangleBottom" src="https://www.shipt.com/wp-content/themes/delicious/img/tri-white-bot.png" alt="" /> -->
-	</section>
-	<div class="clear"></div>
-		<footer id="footer">
-			<nav class="row">
-				<section>
-					<h3>Using Shipt</h3>
-					<ul>
-						<li><a href="#how-it-works" class="slide-up" aria-label="Jump to How It Works section">How It Works</a>
-						</li><li><a href="/gift">Gift</a>
-						</li><li><a href="http://help.shipt.com">Help</a></li>
-					</ul>
-				</section>
-				<section>
-					<h3>Our Company</h3>
-					<ul>
-						<li><a href="/about/">About</a>
-						</li><li><a href="/partner/">Partners</a>
-						</li><li><a href="/careers/">Careers</a>
-						</li><li><a href="/blog">Blog</a></li>
-					</ul>
-				</section>
-				<section>
-					<h3>Legal Stuff</h3>
-					<ul>
-						<li><a href="/privacy-policy/">Privacy Policy</a>
-						</li><li><a href="/terms-of-service/">Terms of Service</a></li>
-					</ul>
-				</section>
-				<section>
-					<h3>Nice Links</h3>
-					<ul>
-						<li><a href="https://shop.shipt.com/#/app/home">Log in</a>
-						</li><li><a href="/contact">Contact Us</a>
-						</li><li><a href="/press">Press/Media</a>
-						</li><li><a href="/be-a-shopper">Shoppers</a></li>
-					</ul>
-				</section>
-			</nav>
-			<div class="row text-center">
-				<section class="social">
-					<ul>
-						<li><a href="https://www.facebook.com/Shipttoday" class="facebook" aria-label="Shipt Facebook page">
-							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="10px" height="20px" viewBox="25.9 0 48.3 99.9" enable-background="new 25.9 0 48.3 99.9" xml:space="preserve">
-								<path fill="#999" d="M25.9,33.1h10.3v-4.7v-4.6V23c0-4.4,0.1-11.3,3.3-15.5c3.4-4.5,8-7.5,16-7.5c13,0,18.5,1.8,18.5,1.8l-2.6,15.3c0,0-4.3-1.3-8.3-1.3s-7.6,1.5-7.6,5.4V23v5.4V33H72L70.9,48H55.6v52H36.2V48H25.9V33.1L25.9,33.1z"></path>
-							</svg>
-						</a>
-						</li><li><a href="https://www.instagram.com/shiptgroceries" class="instagram" aria-label="Shipt Instagram page">
-							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="20px" height="20px" viewBox="0 0 169.063 169.063" enable-background="new 0 0 169.063 169.063" xml:space="preserve">
-								<path fill="#999" d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752   c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407   c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752   c17.455,0,31.656,14.201,31.656,31.655V122.407z"></path>
-								<path fill="#999" d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561   C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561   c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"></path>
-								<path fill="#999" d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78   c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78   C135.661,29.421,132.821,28.251,129.921,28.251z"></path>
-							</svg>
-						</a>
-						</li><li><a href="https://www.pinterest.com/shipt0084" class="pinterest" aria-label="Shipt Pinterest page">
-							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" height="20px" width="20px" viewBox="0 0 36 36" enable-background="new 0 0 36 36" xml:space="preserve">
-								<path fill="#999" d="M18,1.7C9,1.7,1.7,9,1.7,18C1.7,24.9,6,30.8,12,33.2c-0.1-1.3-0.3-3.3,0.1-4.7c0.3-1.3,1.9-8.1,1.9-8.1s-0.5-1-0.5-2.4c0-2.3,1.3-4,3-4c1.4,0,2.1,1,2.1,2.3c0,1.4-0.9,3.5-1.4,5.4c-0.4,1.6,0.8,2.9,2.4,2.9c2.9,0,5.1-3.1,5.1-7.5c0-3.9-2.8-6.6-6.8-6.6c-4.6,0-7.4,3.5-7.4,7.1c0,1.4,0.5,2.9,1.2,3.7c0.1,0.2,0.2,0.3,0.1,0.5c-0.1,0.5-0.4,1.6-0.5,1.8c-0.1,0.3-0.2,0.4-0.5,0.2c-2-0.9-3.3-3.9-3.3-6.3c0-5.1,3.7-9.9,10.8-9.9c5.7,0,10.1,4,10.1,9.4c0,5.6-3.5,10.1-8.5,10.1c-1.7,0-3.2-0.9-3.7-1.9c0,0-0.8,3.1-1,3.9c-0.4,1.4-1.4,3.2-2,4.3c1.5,0.5,3.1,0.7,4.8,0.7c9,0,16.3-7.3,16.3-16.3C34.3,9,27,1.7,18,1.7z"></path>
-							</svg>
-						</a>
-						</li><li><a href="https://www.twitter.com/Shipt" class="twitter" aria-label="Shipt Twitter page">
-							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="24px" height="20px" viewBox="-0.2 9.3 100.2 81.3" enable-background="new -0.2 9.3 100.2 81.3" xml:space="preserve">
-								<path fill="#999" d="M100,19c-3.6,1.7-7.7,2.8-11.8,3.2c4.3-2.6,7.5-6.7,9-11.4c-3.9,2.4-8.4,4.1-13.1,4.9c-3.6-4.1-9-6.4-15-6.4c-11.4,0-20.6,9.2-20.6,20.6c0,1.7,0.2,3.2,0.4,4.7c-16.7-1.1-31.8-9.2-42.1-21.5c-1.7,3-2.6,6.4-2.6,10.3c0,7.1,3.6,13.3,9.2,17.2c-3.4,0-6.4-1.1-9.2-2.6v0.2c0,9.9,7.1,18.2,16.5,20.2c-2.1,0.2-3.9,0.6-5.8,0.6c-1.3,0-2.6-0.2-3.9-0.4c2.6,8.2,10.1,14.2,19.1,14.2c-7.1,5.6-15.9,8.8-25.5,8.8c-1.7,0-3.2,0-4.9-0.2c9,5.8,20,9.2,31.5,9.2c37.8,0,58.4-31.3,58.4-58.4c0-0.9,0-1.7,0-2.6C93.8,26.7,97.2,23.1,100,19z"></path>
-							</svg>
-						</a></li>
-					</ul>
-				</section>
+	</footer>
 
-				<!-- <section class="downloads right">
-					<h3>App</h3>
-					<ul>
-						<li><a href="https://itunes.apple.com/us/app/shipt/id971888874?mt=8" class="ios"><span></span>Download IOS</a></li>
-						<li><a href="https://play.google.com/store/apps/details?id=com.shipt.groceries&hl=en" class="android"><span></span>Download Android</a></li>
-					</ul>
-				</section> -->
-			</div>
-			<div class="row text-center">
-				<p>© 2017 Shipt, Inc. and its services are not necessarily affiliated or endorsed by the retailers on this site.</p>
-			</div>
-		</footer>
-
-		<div id="bottom"></div>
-
-	</div>
-
+  <div id="chat" class="page-content" style="display:none;">
+  <section>
+    <div class="row">
+      <div class="small-12 columns">
+        <form id="chatForm" onsubmit="startEmbeddedChat(event)">
+          <label for="firstName">Your Name</label>
+          <input type="text" id="firstName" required="">
+          <label for="customerEmail">Your Email</label>
+          <input type="email" id="customerEmail" required="">
+          <label for="queueSelect">Choose a Team</label>
+          <select id="queueSelect">
+            <option value="Members" selected="">Member Support</option>
+            <option value="Shoppers">Shopper Support</option>
+          </select>
+          <input type="submit" class="button" value="Start Chatting">
+        </form>
+      </div>
+    </div>
+    <a href="#chat" class="pop-close btn--end-chat pc-moon pc-logout fa-override" title="End Chat" aria-label="Close Chat popup" data-w-onclick="handleEndChat|wc0-w0">—</a>
+    <div id="chatContain"></div>
+  </section>
 </div>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src="//cdn.jsdelivr.net/jquery.slick/1.5.7/slick.min.js"></script>
+<a href="#chat" class="faq chatPop" style="color: #fff;">Live Chat</a>
 
-<!-- Angular Stuff -->
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular-route.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular-cookies.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.14.2/ui-bootstrap-tpls.min.js"></script>
+  </div>
 
-<script src="https://www.shipt.com/wp-content/themes/delicious/js/foundation.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/helpers/jquery.fancybox-media.js"></script>
-<script src="https://www.shipt.com/wp-content/themes/delicious/js/typed.js"></script>
-<script src="https://www.shipt.com/wp-content/themes/delicious/js/app.js?ver=1496770709"></script>
-<!-- <script src="https://www.shipt.com/wp-content/themes/delicious/js/delicioustheme.min.js"></script> -->
-<script src="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.0/js/select2.min.js"></script>
-<script src="https://boards.greenhouse.io/embed/job_board/js?for=shipt"></script>
-<script type="text/javascript" src="https://www.shipt.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/helpers/jquery.fancybox-media.js"></script>
+
+  
+  <script src="https://www.shipt.com/wp-content/themes/delicious/js/foundation.min.js"></script>
+  <script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js"></script>
+  <script src="https://www.shipt.com/wp-content/themes/delicious/darwin/js/dist/darwin.min.js?v=22.8"></script>
+
+  <!-- Pure Cloud Chat Widget -->
+  <script src="https://apps.mypurecloud.com/webchat/jsapi-v1.js"></script>
+
+  <!-- JS Render -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jsrender/0.9.90/jsrender.js"></script>
+
+<!-- JS Templates -->
+<script id="form-error-template" type="text/x-jsrender">
+    <div class="error form-error-message" style="display: block;">{{:error}}</div>
+  </script>
+<script id="zip-not-found-template" type="text/x-jsrender">
+    <article class="zip-modal zip-not-found" id="zip-not-found-modal">
+        <button aria-label="Close" class="zip-close" style="background: none !important; background-color: transparent !important; border-color: transparent !important;">&times;</button>
+        <h5>Stay tuned!</h5>
+        <h6>Be the first to know.</h6>
+        <p>{{:message}}</p>
+        <form>
+            <input name='email' type="email" placeholder="enter email" required aria-label="Enter your email" title="Enter your email">
+            <input class="button" type="submit" value="Submit">
+        </form>
+    </article>
+</script>
+<script id="available-stores-template" type="text/x-jsrender">
+    <article class="zip-modal zip-found" id="available-stores-modal">
+        <button aria-label="Close" class="zip-close" style="background: none !important; background-color: transparent !important; border-color: transparent !important;">&times;</button>
+        <h5>Good News!</h5>
+        {{if headline}}
+            <h2 class="headline" style="display: block;">{{:headline}}</h2>
+        {{/if}}
+        {{if description}}
+            <p class="description" style="display: block;">{{:description}}</p>
+        {{/if}}
+        {{if stores}}
+            <div class="logos" style="display: block;">
+                {{for stores}}
+                    <img class="logo" alt="{{:name}}" src="{{:circular_image}}" aria-live="polite" />
+                {{/for}}
+            </div>
+        {{/if}}
+        <button id="get-started-button" class="button-primary" type="button">Get Started</button>
+    </article>
+</script>
+<script id="pre-launch-template" type="text/x-jsrender">
+    <article class="zip-modal pre-launch" id="pre-launch-modal">
+        <button aria-label="Close" class="zip-close" style="background: none !important; background-color: transparent !important; border-color: transparent !important;">&times;</button>
+        <h5>Good News!</h5>
+        {{if offer}}
+            <h2 class="headline" style="display: block;">{{:offer}}</h2>
+        {{/if}}
+
+        {{if date && stores}}
+            <p style="display: block;">Delivery in your area is available {{:date}} from:</p>
+        {{else}}
+            <p style="display: block;">Service is not available yet, but will be soon! Sign up now to get updated when we launch.</p>
+        {{/if}}
+
+        {{if stores}}
+            <div class="logos" style="display: block;">
+                {{for stores}}
+                    <img class="logo" alt="{{:name}}" src="{{:circular_image}}" />
+                {{/for}}
+            </div>
+        {{/if}}
+        <button id="get-started-button" class="button-primary" type="button">Get Started</button>
+    </article>
+</script>
+<script id="post-launch-promo-template" type="text/x-jsrender">
+    <article class="zip-modal post-launch-promo" id="post-launch-promo-modal">
+        <button aria-label="Close" class="zip-close" style="background: none !important; background-color: transparent !important; border-color: transparent !important;">&times;</button>
+        <h5>Good News!</h5>
+        {{if offer}}
+            <h2 class="headline" style="display: block;">{{:offer}}</h2>
+        {{/if}}
+
+        <p style="display: block;">Delivery in your area is available from:</p>
+
+        {{if stores}}
+            <div class="logos" style="display: block;">
+                {{for stores}}
+                    <img class="logo" alt="{{:name}}" src="{{:circular_image}}" />
+                {{/for}}
+            </div>
+        {{/if}}
+        <button id="get-started-button" class="button-primary" type="button">Get Started</button>
+    </article>
+</script>
+
+<!-- Zip Code JS -->
+<script src="https://www.shipt.com/wp-content/themes/delicious/js/zip-check_new.js"></script>
+  <script>
+      $(document).ready(function() {
+          'use strict';
+          if ($(window).width() < 750) {
+            $('footer nav h3').click(function(e) {
+                $(this).toggleClass('open');
+                e.preventDefault();
+            });
+          }
+          $('.pop-close').click(function(e) {
+              $('.fancybox-chat').css('display', 'none');
+              e.preventDefault();
+          });
+          $('.chatPop').fancybox({
+              openEffect  : 'elastic',
+              closeEffect : 'elastic',
+              openSpeed : 400,
+              closeBtn : false,
+              width: 320,
+              height: 460,
+              aspectRatio: false,
+              autoSize: false,
+              // minHeight: 350,
+              margin: 0,
+              padding: 0,
+              wrapCSS: 'fancybox-chat',
+              helpers: {
+                  overlay: null
+              }
+          });
+      });
+      var chatConfig = {};
+      function createChatConfig(){
+          'use strict'
+          var firstName = document.getElementById('firstName').value;
+          var customerEmail = document.getElementById('customerEmail').value;
+          var queueSelect = document.getElementById('queueSelect').value;
+          chatConfig = {
+              "webchatAppUrl": "https://apps.mypurecloud.com/webchat",
+              "webchatServiceUrl": "https://realtime.mypurecloud.com:443",
+              "orgId": 15979,
+              "orgName": "Shipt",
+              "priority": 5,
+              "queueName" : queueSelect,
+              "logLevel": "WARN",
+              "locale": "en",
+              "skills": ["Chats"],
+              // "reconnectEnabled": true,
+              // "reconnectOrigins": ['https://shipt.com', 'http://help.shipt.com', 'https://www.shipt.com', 'https://shipt.staging.wpengine.com/'],
+              // Data that will be included with interaction
+              "data": {
+                  "firstName": firstName,
+                  "customerId": customerEmail
+              },
+              // Logo used at the top of the chat window
+              "companyLogo": {
+                  "width": 197,
+                  "height": 75,
+                  "url": "https://www.shipt.com/wp-content/uploads/2017/06/shipt-logo.png"
+              },
+              "companyLogoSmall": {
+                  "width": 75,
+                  "height": 75,
+                  "url": "https://www.shipt.com/wp-content/uploads/2015/04/Shipt-Logomark-Screen-Color-RGB-11-e1433303918490.png"
+              },
+              "agentAvatar": {
+                 "width": 75,
+                 "height": 75,
+                 "url": "https://www.shipt.com/wp-content/uploads/2015/04/Shipt-Logomark-Screen-Color-RGB-11-e1433303918490.png"
+              },
+              "welcomeMessage": "Please hold for the next available Experience Team member. We look forward to chatting with you!",
+              "cssClass": "webchat-frame",
+              "css": {
+                  "width": "100%",
+                  "position": "absolute",
+                  "top": "0",
+                  "left": "0",
+                  "height": "460px"
+              }
+          };
+      }
+      function startEmbeddedChat(event) {
+        'use strict';
+      	event.preventDefault();
+          createChatConfig();
+          ININ.webchat.create(chatConfig, function(err, webchat) {
+              if (err) {
+                  throw err;
+              }
+              // Render to frame
+              webchat.renderFrame({
+                  containerEl: 'chatContain'
+              });
+              webchat.chatStarted = function () {
+                analytics.track('Live Chat Conversation Started', {
+                    url: wp_data.url
+                });
+              };
+              webchat.chatConnectedToAgent = function () {
+                //Code to run when the chat is connected to an agent
+              };
+              webchat.chatEnded = function () {
+                $('#chatContain').empty();
+                $('.fancybox-chat').css('display', 'none');
+
+                analytics.track('Live Chat Conversation Ended', {
+                    url: wp_data.url
+                });
+              };
+          });
+      }
+  </script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.shipt.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.shipt.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.7"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var sb_instagram_js_options = {"sb_instagram_at":"1522079037.3a81a9f.a4536ed882634ed6abda285ab84cafb2"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://www.shipt.com/wp-content/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.4.8"></script>
+<script type="text/javascript" src="https://www.shipt.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.4"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var wp_data = {"title":"Privacy Policy","path":"privacy-policy","url":"https:\/\/www.shipt.com\/privacy-policy\/","category":[],"author_name":"Ross","commenter_name":"Anonymous","commenter_email":null};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.shipt.com/wp-content/themes/delicious/js/segment.js?ver=4.7.5"></script>
-<script type="text/javascript" src="https://www.shipt.com/wp-content/themes/delicious/js/modernizr.js?ver=1.0.0"></script>
-<script type="text/javascript" src="https://www.shipt.com/wp-content/themes/delicious/js/delicioustheme.js?ver=1.0.0"></script>
-<script type="text/javascript" src="https://www.shipt.com/wp-content/themes/delicious/js/jquery.shuffle.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://www.shipt.com/wp-content/themes/delicious/js/segment.js?ver=4.9.8"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var settings_obj = {"ajax_url":"https:\/\/www.shipt.com\/wp-admin\/admin-ajax.php","nonce":"46fa8c2c02","confirm":"Are you sure to delete item?","opacity_value":"0.5","overlay_fontsize_value":null,"overlay_width_value":"100","overlay_height_value":"100","slide_effect":"fadeIn","slide_effect_exit":"fadeOut","animation_speed":"1"};
+var settings_obj = {"ajax_url":"https:\/\/www.shipt.com\/wp-admin\/admin-ajax.php","nonce":"e0d76dfd3c","confirm":"Are you sure to delete item?","opacity_value":"0.5","overlay_fontsize_value":null,"overlay_width_value":"100","overlay_height_value":"100","slide_effect":"fadeIn","slide_effect_exit":"fadeOut","animation_speed":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.shipt.com/wp-content/plugins/wp-overlays-pro//assets/js/frontend.js?ver=4.7.5"></script>
-<script type="text/javascript" src="https://www.shipt.com/wp-includes/js/wp-embed.min.js?ver=4.7.5"></script>
+<script type="text/javascript" src="https://www.shipt.com/wp-content/plugins/wp-overlays-pro//assets/js/frontend.js?ver=4.9.8"></script>
+<script type="text/javascript" src="https://www.shipt.com/wp-includes/js/wp-embed.min.js?ver=4.9.8"></script>
 
 
 </body></html>
