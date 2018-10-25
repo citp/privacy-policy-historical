@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloomsmag.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629161613id_/http%3A//bloomsmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomsmag.com privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025041000id_/http%3A//bloomsmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Blooms Mag
 
