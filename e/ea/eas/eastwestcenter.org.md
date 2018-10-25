@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastwestcenter.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629034032id_/https%3A//www.eastwestcenter.org/about-ewc/help/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastwestcenter.org privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025222458id_/https%3A//www.eastwestcenter.org/about-ewc/help/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | East-West Center | www.eastwestcenter.org
 
