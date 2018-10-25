@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countrydelight.in privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620142321id_/http%3A//countrydelight.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrydelight.in privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025233928id_/http%3A//countrydelight.in/privacy-policy.html) for the most accurate reproduction.*
 
 # privacy-policy
 
