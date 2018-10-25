@@ -1,47 +1,102 @@
-> *The following text is extracted and transformed from the uncubed.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511143132id_/https%3A//uncubed.com/learn/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uncubed.com privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025045207id_/https%3A//uncubed.com/learn/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Uncubed
 
-This Privacy Policy governs the manner in which the website collects, uses, maintains and discloses information collected from users ('User', 'you') of the website ('Uncubed.com', 'Site'). This privacy policy applies to the Site and all products and services offered by Uncubed ('Uncubed', 'we', 'us', 'our'). 
+Uncubed (Parrut, Inc. and our affiliates) is committed to protecting your privacy and giving you a clear understanding of how we use information, including your personal information, and what rights and controls you have. This Privacy Policy governs the use of information on Uncubed.com and any other website we own and operate (together, the “Websites”). If you do not agree with this policy, we recommend not using our website or our services. 
 
-## Personal identification information
+We will periodically make updates to this policy. When we do so, we will endeavor to make you aware of those changes through email notifications, blog posts, and other communications. Still, we encourage you to periodically review this policy. 
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit the Site, register on the Site, fill out their profile on the Site, enroll in a class on the Site, subscribe to one of our newsletters, and in connection with other activities, services, features or resources we make available on our Site. We may collect information about what content you view on the Site. Users may be asked for their email address, first and last name, and other information. Users may, however, visit our Site anonymously. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
+## Information We Collect From You
 
-## Non-personal identification information
+You can use our Websites without providing any personal information. When you register for a user account, we ask you for Personal Information (defined below), in order to deliver an effective, efficient experience and service. 
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
+## Personal Information
 
-## Web browser cookies
+This is any information that you voluntarily submit to us that personally identifies you. This can include name, email address, company name, address, phone number, payment information, or other information about you. 
 
-Our Site may use 'cookies' to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
+Personal information can include information that you submit directly to our website, or information that is available on the internet, such as from LinkedIn, Facebook, Google, or other service providers (collectively, “Personal Information”). 
 
-## How we use collected information
+## Information We Collect From Third Parties
 
-We use the information we collect in the following ways: 
+Occasionally, we may receive information about you from third party sources including partners with whom we offer co-branded services or marketing promotions, and other publicly available sources such as social media services. In such cases, we will confirm our understanding that you have opted into those services or promotions. 
 
-We use the information we collect about you to provide our services, to build and improve our services, and to protect against abuse. 
+## Log Files
 
-We use information you provide us to respond to your customer service requests and support needs and to improve the way we handle support requests in general. 
+When you use our services or view our content, our system automatically collects information about your computer or device hardware and software. This can include information about your browser, ISP, operating system, access time, and content or files viewed on our site. We may link this data to Personal Information. This information is used by Uncubed to improve and better understand usage of the Websites, including the gathering of general statistics by users, and to deliver a better experience to you. 
 
-We use information about the content you view to personalize the user experience of the Site for you and to evaluate and improve the quality of content we provide. We may share information about the Users who consume content that features our partner organizations with the organizations who are featured in that content. 
+## Cookies & Other Similar Technology
 
-If you apply to a job through our products or services we will share information about you with the company to which you are applying as part of the application process. 
+Uncubed uses cookies, beacons, or similar technology on the Websites to facilitate the most effective user experience, analyze trends, and generally collect information about how our users are are interacting with the Websites and services. 
 
-If you subscribe to one of our mailing lists, you will receive emails that may include news, updates, related product or service information, etc. If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or you may contact us via our Site. 
+You can set your web browser to refuse cookies. You will still be permitted to use the Websites if you do so, although some portions of the Websites, and some functionality, may be restricted or reduced. 
 
-## How we protect your information
+## How We Use Information We Collect 
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of User information stored on our Site. However, we cannot guarantee the security of User information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of User information. 
+Use of Personal Information 
 
-## Third party websites
+As noted elsewhere in the Privacy Policy, we may use your Personal Information for one or more of the following applications: 
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies. 
+  * To improve your browsing experience by personalizing the Websites and other parts of the service, including job recommendations and content delivery. 
+  * To promote relevant Uncubed services or features to you, in conjunction with the communication preferences that you have selected for your account. 
+  * To provide select summary information to partners and other third parties, none of which will identify. 
+  * To distribute other information to you, including changes in our terms of service, this Privacy Policy, or other legal agreements. 
+  * To meet any legal requirements that Uncubed is subject to. 
 
-## Protecting Children's Privacy
 
-We strongly believe in protecting the privacy of children. In line with this belief, we do not knowingly collect or maintain Personally Identifiable Information on our Site from persons under 13 years of age, and no part of our Site is directed to persons under 13 years of age. If you are under 13 years of age, then please do not use or access this Site at any time or in any manner. 
 
-## Changes to this privacy policy
+We also collect navigational information about your computer or other devices including IP address, geographical information, browser used, and activity during visits. This information is collected in order to better understand our general community of users, to enable third party analytics providers including Google Analytics, and to deliver an efficient, customized, and valuable user experience. 
 
-We may, at our discretion, update this privacy policy from time to time. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+Privacy Policy Compliance 
+
+The information we collect is only used in the manner described in this Privacy Policy. All customers and users are obligated to comply with this Privacy Policy. 
+
+We Will Not Sell Personal Information 
+
+Uncubed will not sell your Personal Information to another party. 
+
+Customer Testimonials 
+
+We may post customer or user testimonials on our Websites. We obtain consent prior to posting. 
+
+Use of Credit Card Information 
+
+We use third-party, PCI-compliant services to process all credit card payments. These providers are not permitted to store information you provide, except where you direct them to do so, should they provide that option. 
+
+Security and Storage of Personal Information 
+
+We utilize a number of internal and third-party storage and security procedures for Personal Information. This data is secured on third-party servers in a controlled, secure environment, and protected from unauthorized access or use. We also work to regularly review the policies of our third party service providers for their storage and security protocols. 
+
+Retention of Personal Information 
+
+We retain Personal Information for as long as we have an ongoing legitimate business purpose to keep it. This includes as long as is required to contact you about your account or Uncubed’s services, to comply and audit opt-out requests, and as needed to satisfy legal obligations, to resolve our disputes, and otherwise enforce our agreements. 
+
+After this period, we will delete Personal Information, anonymize it, or otherwise securely store it securely until deletion is possible. We will delete this information from our servers at an earlier date if specifically requested by you. 
+
+If you provide Personal Information to an Uncubed customer or partner through our Websites or other service, that information will be subject to their policies and procedures. 
+
+After termination of an account, we may delete all customer information and Personal Information, unless retention is legally required. 
+
+If you are registered to receive our marketing communications, we retain your information for a reasonable time period after the last indication of interest in our content and services, including opening an email from us, logging into your Uncubed account, or otherwise interacting with the Websites. 
+
+External Websites 
+
+Uncubed Websites may provide links to other websites. We do not control, and are not responsible for, the content or practices of these websites. 
+
+## How to Access, Control, and Delete Your Personal Information
+
+You can unsubscribe from our non-transactional email and marketing communications through the “Unsubscribe” link on the bottom of our emails, by updating the preferences associated with your account on the Websites, or by requesting changes. Transactional emails are those delivered to confirm changes in preferences or those used to announce changes to our policies and terms. 
+
+We are not responsible for, nor can we manage, any Personal Information you have provided to our customers or partners. To access, control, or otherwise manage your information with 3rd parties other than Uncubed and the Websites, you should contact those parties directly. 
+
+In addition to the opportunity to unsubscribe and otherwise manage your account directly on the Websites, you have the following data protection rights: (i) you can request access, updates to, or deletion of your Personal Information, (ii) you can withdraw your consent for us to collect and process your Personal Information at any time (noting that this will not affect the legality of any information processed prior to the withdrawal of your consent), and (iii) you can complain to the relevant data protection authority about our use of your Personal Information. 
+
+## How to Contact Uncubed 
+
+Mailing Address 
+
+50 Eldridge Street, 5th Floor  
+New York, NY 10002 
+
+Email Address 
+
+[privacy@uncubed.com](mailto:privacy@uncubed.com)
