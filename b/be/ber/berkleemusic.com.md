@@ -1,77 +1,90 @@
-> *The following text is extracted and transformed from the berkleemusic.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910061249id_/https%3A//online.berklee.edu/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berkleemusic.com privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025020205id_/https%3A//online.berklee.edu/about/privacy) for the most accurate reproduction.*
 
-# Berklee Online - Music Degree, Certificates, Courses
+# Privacy Policy - Berklee Online
 
-Please read this Privacy Policy carefully before using online.berklee.edu ("Web site"), an Internet site maintained by Berklee College of Music, Inc. ("Berklee"). Your use of the Web site serves as your acceptance of this Privacy Policy and consent to Berklee's collection and use of the information you provide as set forth in the Privacy Policy. Please note that this Privacy Policy applies only to the Web site, and not to other Web sites operated by other companies or organizations to which we may link. When you link to any other Web sites from the Web site, this policy no longer applies and Berklee has no control of the activities of those Web sites. Also this Privacy Policy does not apply to any information that Berklee may collect from you in any manner other than online. 
+Berklee College of Music (Berklee) cares about the confidentiality and security of your information. This Privacy Policy applies to information that Berklee collects through its websites and/or as part of the application process, the management of the education programs and classes, management of former students, and management of events. Berklee is committed to meeting its data protection obligations and being transparent about how it collects and uses your data. 
 
-Berklee may revise this Privacy Policy at any time. You should, therefore, review it periodically. If you do not want to submit personal information when requested, you will not be able to access certain areas on our site. However, you do not need to provide personal information to Berklee in order to use the Web site.
+Please note that you will only be able to access or browse Berklee’s sites or register and enroll in Berklee courses if you agree with the terms of this Privacy Policy. If you choose not to provide certain information required to provide you with various products and services offered on the Berklee websites, then you may not be able to establish a user account or obtain certain products or services. 
 
-### Collection of Information
+  
+  
 
-Berklee generally only collects personally identifiable information from you when you voluntarily submit it to us when you: register with us; enroll in online classes; purchase products from any online stores we offer; participate in contests, events or promotions; send us questions or comments via e-mail; and/or, fill out online surveys, or any other requests we make for suggestions or comments about the Web site. This information may include personal information such as your name, e-mail address, telephone number, and home address. Also, we may request certain demographic information such as your age, and gender. We never collect more information than what is reasonably necessary to fulfill your requests and our legitimate business objectives. We will take appropriate steps to ensure the security and integrity of any information you provide to us.
 
-**If you are under the age of 13, your parent or guardian's consent is required before you can provide any personal information to us for purposes of registration and/or other online activities.**
+## Information Berklee Collects from You  
+(Including Personal Information)
 
-If we ask you to register with the Web site, we may ask for personal information such as your full name and e-mail address, and mailing address. Berklee may use such information to periodically contact you with news, and relevant announcements. Shoppers purchasing goods and services through our online store must provide a valid credit card number and expiration date, in addition to name, mailing address, phone number and e-mail address. Berklee may sponsor sweepstakes, contests or other events ("Promotions") which require the collection, processing, and storage of individual contact information plus demographic information. If you want to join in on our Promotions, we may ask you to provide an e-mail address, so that we can let you know if you won a prize. For other Berklee promotions, we may request your name and home address in order to send you products or information by regular mail. By allowing you to send email to us, we are not attempting to collect any personal information about you. We will only use personal information (such as name, mailing address and e-mail address) contained in your e-mail to respond to your specific inquiry or comments in the e-mail. Although we may retain your e-mail for a period of time, we will not use any personal information contained in your e-mail for any purpose other than responding to your specific inquiry or comments. 
+Berklee is an institute of higher education involved in education and community development. In order for Berklee to educate its students both in class and online and provide community services, it is essential, necessary, and Berklee has lawful bases to collect; process; use; and maintain data of its students, employees, applicants, and others involved in its educational and community programs. The lawful bases include, without limitation; admission; registration; delivery of classroom, online, and study abroad education, grades, communications, employment, development, program analysis for improvements, and records retention. Examples of data that Berklee may need to collect in connection with the lawful bases are: name; email address; IP address; physical address or other location identifier, and photos, as well as some sensitive personal data obtained with prior consent. 
 
-### How Information is Used
+Most of Berklee's collection and processing of personal data will fall under the following categories: 
 
-Berklee collects the personal information you provide on the Web site. We may use the information you submit to the Web site to send you advertising or promotional materials, including information about new contests, features and enhancements, special offers and other events of interest. We also use your personal information for our internal marketing and demographic studies, so we can constantly improve the products and services we provide you and can better meet your needs.
-
-The demographic information (such as age and gender) you provide us is collected by Berklee and may be disclosed in aggregate to third parties. This aggregate demographic information cannot be used to personally identify you or your computer.
-
-### How Berklee Shares Personal Information
-
-From time to time, Berklee may use and share Web site user's personal information with entities who use it solely to provide support for the internal operations of the Web site (for example, online product fulfillment, e-mail services, or technical support). These entities will not use your personal information for any other purpose, and have agreed to maintain the confidentiality, security, and integrity of the personal information they obtain from us.
-
-We may disclose personal information in the good faith belief that we are required to do so by law, including but not limited to disclosure to law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability.
-
-Generally, Berklee only uses personal information collected from and about its users for the purpose for which it is submitted, unless we disclose other uses at the time we collect the information. If we do, you will have the opportunity to instruct us not to use your data in other ways (you can "opt-out" – see below). We may sometimes share personally identifiable information with our affiliates or business partners who might like to send you information about their products or services. If you do not want your information used in this manner, you may "opt-out." We sometimes offer Promotions in conjunction with a sponsor, and may share your information with these sponsors. We will identify the sponsor for you, and provide you with the opportunity to "opt-out." In the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, Berklee's customer information may be transferred to Berklee's successor or assign, if permitted by and done in accordance with applicable law.
-
-### Information Sharing with Non-Affiliated Third Parties
-
-Because Berklee Online values all customer relationships, it will not disclose customers' nonpublic personal information to nonaffiliated third parties, except as described in this policy or as otherwise permitted by law. We DO NOT allow any email harvesting. If you feel you have been contacted in error by a party other than Berklee Online, please contact Student Support at [ support@online.berklee.edu. ](mailto:support@online.berklee.edu)
-
-### Cookies and IP Addresses
-
-Like most Web sites, Berklee uses "cookies" on the Web site. Cookies are pieces of information that we place on your computer to help us accurately understand how many consumers are visiting a particular site, how often they visit that site, and what content they are most interested in. For example, a cookie will allow us to remember certain things based on your Internet Protocol or "IP" address (an IP address is the string of numbers that identifies each sender or receiver of information that is sent across the Internet), such as the time and duration of your visits, how you navigated through our content and where you exited a particular site. This lets us know how many people are coming to individual sites, how frequently, and how they are using the sites, allowing us to make updates to content and improve navigation as appropriate. We cannot tell who you are or where you are. Berklee will never use cookies to retrieve information from your computer that Berklee did not originally send in a cookie.
-
-### Linking/Co-Branding
-
-To provide relevant information not found on the Web site and to provide a greater variety of online opportunities, Berklee may provide links from the Web site to third party web sites. We encourage our Web site visitors to read third party sites' privacy policies before submitting personal information. Berklee is not responsible for any information these web sites may obtain from you and we do not review or oversee their privacy policies or procedures.
-
-### Opt-Out
-
-If you do not want Berklee to send you e-mail or regular mail about our products and/or services, you can opt-out at the time we collect the information. If you are receiving e-mails or regular mail and at a later date you choose to opt-out and have your name removed from Berklee's e-mailing list, you can do so by using the link included with a Berklee e-mail or by sending an e-mail to [ support@online.berklee.edu. ](mailto:support@online.berklee.edu) Berklee Online will occasionally send email announcing changes or enhancements to our site or services. If you do not wish to receive these announcements, please notify [ support@online.berklee.edu ](mailto:support@online.berklee.edu) that you wish to opt-out of all announcements. 
-
-Students enrolled in a course or program with Berklee Online must be opted in to receive all email communications. Most communication between Berklee Online and it's student body is conducted in this manner.
-
-The various emails keep students up to date on: 
-
-  * *Changes to existing courses and programs
-  * *New courses and programs
-  * *Special deals and offers from our industry partners only offered to our students!
-  * *Other important announcements
+  1. Processing is necessary for the purposes of the legitimate interests pursued by Berklee or third parties in providing education, employment, development, and community programs. 
+  2. Processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract. 
+  3. Processing is necessary for compliance with a legal obligation to which Berklee is subject. 
+  4. The data subject has given consent to the processing of his or her personal data for one or more specific purposes. 
 
 
 
-In order to ensure all students are kept up to date on the happenings of the online school, we need to be able to communicate through email.
+### Types of Personal Data Collected, and Why
 
-### Reviewing and Changing Personal Information
+Berklee collects a variety of personal and sensitive data to meet one of its lawful bases, as referenced above. Most often the data is used for academic admissions, enrollment, educational programs, job hiring, provision of medical services participation in research, development, and community outreach. Data typically includes name, address, transcripts, work history, information for payroll, research subject information, medical and health information (for student health services, or travel), and donations. If you have specific questions regarding the collection and use of your personal data, please contact our data privacy officers at [dpo@berklee.edu](mailto:dpo@berklee.edu). 
 
-You may at any time review and/or update the contact information we have for you or inform us that you want us to remove such information from our database by contacting us at [support@online.berklee.edu.](mailto:support@online.berklee.edu)
+If a data subject refuses to provide personal data that is required by Berklee in connection with one of Berklee’s lawful bases to collect such personal data, such refusal may make it impossible for Berklee to provide education, employment, research or other requested services. 
 
-You must provide us with information on the activities you participated in which requested personal information. Before we can change or delete any information, we require that you provide us with proof of your name and address. Once we receive such proof, we will immediately delete or modify your information and refrain from collecting any other personally identifiable information from you, if you request. Please note, however, that there may be some residual information that may remain in our databases that may or may not contain personally identifiable information. We will not provide this information to any third party, or use it for any commercial purpose.
+###  Where Berklee Gets Personal and Sensitive Personal Data 
 
-### Children Under 13
+Berklee receives personal and sensitive personal data from multiple sources. Most often, Berklee gets this data directly from the data subject or under the direction of the data subject who has provided it to a third party (for example, application for admission to Berklee through use of the Application Portal). 
 
-Consistent with the Children's Online Privacy Protection Act ("COPPA"), Berklee does not solicit personal information from children. Visitors 13 years of age and under should remember that they are required to obtain an adult's permission before submitting any personal information to this, or any other, Web site.
+Tools may be used to monitor the effectiveness of our communications with you, including email tracking, which records when an email sent from Berklee is opened and/or how many links are clicked within the message. The data from such tracking is used in an anonymized and aggregated form. In addition, we may collect other non-personal data such as IP addresses and web pages accessed on our websites. 
 
-### Contacting the Web Site
+## Cookies and Tracking Technologies
 
-If you have any questions about this Privacy Policy, the practices of this Web site, or your dealings with this Web site, please contact [support@online.berklee.edu](mailto:support@online.berklee.edu) or by mail:   
-Berklee Media   
-Berklee College of Music   
-1140 Boylston Street   
-MS 855   
-Boston, MA 02215-3693 
+### Cookies
+
+Berklee may use "cookies," small files that are stored on your computer (unless you block them), to maintain a user's identity between web sessions. Cookies are stored on your hard drive and may be later accessed by the website to track prior usage. We may contract with third-party service providers to assist us in collecting and assessing cookies. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. You may disable cookies through your individual browser options. 
+
+### Google Analytics
+
+Berklee uses Google Analytics, a web analytics service provided by Google, Inc. to gather statistics on website usage, such as how often each page has been visited. Many websites use these statistics to monitor and improve their services. Information collected and processed by Google Analytics includes the user's IP address, network location, and geographic location. Google Analytics acquires this information by installing a cookie on your computer. Berklee does not share any information it collects with Google, and Google Analytics does not collect any personal information such as names, contact information, social security numbers, or financial information. If you choose, you can opt out by turning off cookies through your individual browser options. 
+
+For more information on Google Analytics, please visit Google's “How Google uses information from sites or apps that use our services” page, located at [google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/). 
+
+### Links to Other Websites
+
+Berklee may include links to other internet sites as a convenience to users of its website. Users' access and use of such websites, including information, material, products, and services therein, are solely at the users' own risk. Berklee is not responsible for the privacy practices or the content of such other internet sites. 
+
+## How to Manage Your Personal Information
+
+As a data subject, you have a number of rights. You can: 
+
+  * access and obtain a copy of your data. 
+  * require Berklee to change incorrect or incomplete data. 
+  * require Berklee to delete or stop processing your data, for example, where the data is no longer necessary for the purposes of processing. 
+  * object to the processing of your data in certain circumstances, for example, where the school is relying on its legitimate interests as the legal ground for processing, or for direct marketing purposes. 
+  * ask Berklee to stop processing data for a period if data is inaccurate or there is a dispute about whether or not your interests override the school's legitimate grounds for processing data. 
+  * withdraw your consent at any time, where we have requested and obtained your consent. 
+
+
+
+Where our lawful basis is consent or performance of a contract, we will allow portability of your data. If you have privacy concerns, have disclosed data you would prefer to keep private, or would like to access the personal information that Berklee maintains about you, please contact us at [privacy@berklee.edu](mailto:privacy@berklee.edu). 
+
+## Storage and Security
+
+Your personal data is held within our systems or the third-party service providers that provide Berklee and its community with various applications and services. The systems are accessed by the employees who have a relevant interest in the service or data to perform the services described above. 
+
+Berklee maintains and uses reasonable administrative, organizational, technical, and physical safeguards to protect your information from loss, destruction, misuse, unauthorized access, or disclosure as required by applicable law. This includes relationships with third-party providers. These technologies help ensure that your data is safe, secure, and only available to you and the authorized personnel at Berklee. 
+
+Your information will be retained by Berklee in accordance with applicable federal laws. Your information will be destroyed upon your request unless applicable law requires destruction after the expiration of an applicable retention period. The manner of destruction shall be appropriate to preserve and ensure the confidentiality of your information given the level of sensitivity, value, and criticality to Berklee. 
+
+##  Privacy Policy Updates 
+
+This Privacy Policy will be reviewed and updated from time to time. When changes are made, the Privacy Policy link will be labeled as "Revised (date)," indicating that you should review the new terms, which will be effective immediately upon posting on this page, with an updated effective date. By accessing the site after any changes have been made, you accept the modified Privacy Policy and any changes contained therein. In case you miss the notification referenced above, be sure to return to this page periodically to ensure familiarity with the most current version of this Privacy Policy. 
+
+## Contact Information
+
+### Data controller
+
+The data controller is the Berklee College of Music, Inc. (Berklee). 
+
+### Data protection officers
+
+Our data protection officers team is responsible for advising Berklee on compliance with data protection legislation and monitoring its performance against it. If you have any questions or concerns regarding the way in which Berklee is processing your personal data, please contact our data protection officers team at [dpo@berklee.edu](mailto:dpo@berklee.edu). 
