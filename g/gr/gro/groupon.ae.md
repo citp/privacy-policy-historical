@@ -1,105 +1,159 @@
-> *The following text is extracted and transformed from the groupon.ae privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421172208id_/http%3A//www.groupon.ae/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupon.ae privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025082348id_/https%3A//www.groupon.ae/legal/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# GROUPON INTERNATIONAL LIMITED PRIVACY STATEMENT
 
-This Privacy Policy discloses the privacy practices for the Groupon website (collectively, the “Website” located at [www.groupon.ae](http://www.groupon.ae/)). Groupon FZ LLC., the provider of the Website (referred to as “us” or “we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please email us. 
+Effective Date: 24 January 2017
 
-Please read this privacy policy carefully. By accessing or using our website, you acknowledge that you have read, understand, and agree to be bound to all the terms of this privacy policy and our website terms of use. If you do not agree to these terms, exit this page and do not access or use the website. 
+This Privacy Statement (“Privacy Statement”) explains how Groupon International Limited, Lower Ground Floor, Connaught House, 1 Burlington Road, Dublin 4, 216410 Ireland (“Groupon International”, “us”, “our”, and “we”), collects, controls, processes and uses information about you. We are the operator of this website, and a provider of a range of services thereto. We provide a platform (including this Website, mobile applications, etc.) where we, our local affiliates and other sellers (collectively: “ Sellers”) can list offers for vouchers, deals, goods and getaways. To the extent local affiliates, such as Groupon FZ LLC. with its registered office at Dubai Media Center, Building 7 3rd Floor, Office 341, Dubai, United Arab Emirates, United Arab Emirates, collect, process, and use your information to facilitate the sale of vouchers, deals, goods and getaways, they will do so consistent with this Privacy Statement. This Privacy Statement applies to information we collect through our websites, mobile applications, electronic communications or services, social networking sites, or any individual, business partner-specific, merchant-specific, city-specific, or other area-specific websites we offer that link to or reference this Privacy Statement (collectively, the “ Site”). Throughout this document, we will refer to us and our affiliates as the “Groupon Group.”
 
-**1\. Changes to Privacy Policy**
+We will routinely update this Privacy Statement to clarify our practices and to reflect new or different privacy practices, such as when we add new services, functionality or features to the Site. If we make any material changes we will notify you, either by email (sent to the email address specified in your account), by means of notice on the Site or otherwise. You can determine when this version of the Privacy Statement was adopted by referring to the “Effective Date” above.
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+1\. Situations in which We Collect Information
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of notice on our home page. 
+We will collect the following information about you when you interact with us through the Site:
 
-**2\. Types of Information Collected and Uses of Collected Information**
+  * your email address, physical address and password for our website if you register;
 
-We collect two types of information about our Website Users: Personally Identifiable Information and Non-Personally Identifiable Information. 
+  * your payment details if you purchase on the Site;
 
-**Personally Identifiable Information** . Personally Identifiable Information is information that identifies a specific End User. When you engage in certain activities on the Website, such as creating an account, ordering a product or service from us or our partners, submitting content and/or posting content in discussion forums, entering a contest or sweepstakes sponsored by us or our partners, filling out a survey, posting a review, sending us or our partners feedback, requesting information about our services, submitting an affiliate agreement, applying for a job, posting a video or signing up for special offers from third parties through the Website (collectively, “Identification Activities”), we may ask you to provide certain information about yourself. It is optional for you to engage in an Identification Activity. If you elect to engage in an Identification Activity, however, we may ask you to provide us with certain personal information about yourself, such as your first and last name, mailing address (including zip code), email address, telephone number and date of birth. When you order products or services, we may also ask you to provide us with your credit card number, expiration date and authentication codes or related information. Depending on the activity, some of the information we ask you to provide is identified as mandatory and some is identified as voluntary. If you do not provide the mandatory information for a particular activity that requires it, you will not be permitted to engage in that activity. 
+  * your phone number and date of birth (optional);
 
-**Tell-A-Friend/Buy it for a Friend** . If you choose to use our referral service or buy a deal for a friend, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email with the gift you bought for them or inviting him or her to visit the site. Groupon stores this information for the sole purpose of sending this one-time email, sending their gift, and tracking the success of our referral program. 
+  * your location, website browsing preferences (e.g., through cookies) and purchase history to provide you with customized information on the Site and (optional) newsletters;
 
-Your friend may contact us at groupon.ae/contact to request that we remove this information from our database. 
+  * other information you actively send to us (e.g., via email).
 
-We use Personally Identifiable Information to provide products and services to you, administer sweepstakes and contests, enhance the operation of the Website, improve our marketing and promotional efforts, analyse Website use, improve our product and service offerings, and to tailor your experience with third parties as provided in Item 3 of this Privacy Policy. For example, if you send our customer service an email we may use your comments and feedback to tell others about our services, and may post your comment in our marketing materials or on our Website. Your comments may contain personal information such as your name, we will obtain consent from you to post your name along with your comment prior to posting your comment for public view. In addition, if you use our Website to send information or a product to another person, we may store your personal information. We may also use Personally Identifiable Information to troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, including our Website Terms of Use and this Privacy Policy, comply with applicable law, and cooperate with law enforcement activities. 
 
-**Non-Personally Identifiable Information** . Non-Personally Identifiable Information is information that does not identify a specific End User. This type of information may include things like the Uniform Resource Locator (“URL”) of the website you visited before coming to our Website, the URL of the website you visit after leaving our Website, the type of browser you are using and your Internet Protocol (“IP”) address. We, and/or our authorized Third Party Service Providers and Advertisers, may automatically collect this information when you visit our Website through the use of electronic tools like Cookies and Web beacons or Pixel tags, as described in Items 4 and 8 of this Privacy Policy. 
 
-We use Non-Personally Identifiable Information to troubleshoot, administer the Website, analyse trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized Third Party Service Providers and Advertisers to measure the overall effectiveness of our online advertising, content, and programming. 
 
-**3\. Release of Personally Identifiable Information**
+You may interact with us, for example, when you:
 
-We will not share, sell, rent, or trade your Personally Identifiable Information with other parties except as provided below: 
+  * register, subscribe, authorize the transfer of, or create an account with us;
 
-**We may share your information with Groupon Merchants** . From time to time, we provide offers from particular merchants (referred to as “Groupon Merchants”) who, as part of the offer, request information on Groupon customers who purchased the offer in order to aid redemption. In those cases, we share some of your Personally Identifiable Information with Groupon Merchants. Sharing this Information may allow a Groupon Merchant to market directly to you should they choose to do so. However, we will only share Personally Identifiable Information with a Groupon Merchant if you engage in an Identification Activity, and then only to the Groupon Merchant involved in that Identification Activity. We specifically disclaim any responsibility or liability for the actions of such Groupon Merchant. While we inform them that they are only permitted to communicate with you for the purposes of the specific promotion with Groupon, we do not have any responsibility for the actions of the Groupon Merchant, and the actions of the Groupon Merchant are not in our control. 
+  * open or respond to emails;
 
-**We may share your information with Authorized Third Party Service Providers** . We provide services and products through third parties. These “Third Party Service Providers” perform functions on our behalf, like sending out and distributing our administrative and promotional emails. We may share your Personally Identifiable Information with such Service Providers to fulfil orders, deliver packages, send postal or email, administer contests or sweepstakes, remove repetitive information on customer lists, analyse data, provide marketing assistance, provide search results and links, process credit card payments, operate the Website, troubleshoot, and provide customer service. We may also collect personal information from individuals and companies (“Affiliates”) with whom we have business relationships and may share your information with Service Providers to accomplish our administrative tasks. For example, when you order a service, we release your credit card information to the card-issuing bank to confirm payment for the service and, if applicable, release your address to the delivery service to deliver the service. Likewise, we may release an Affiliate’s information to our bank to send out a payment. We encourage Groupon Merchants and Third Party Service Providers to adopt and post privacy policies. However, the use of your Personally Identifiable Information by such parties is governed by the privacy policies of such parties and is not subject to our control. 
+  * provide information to enroll or participate in programs provided on behalf of, or together with, Sellers, merchants, co-marketers, distributors, resellers and other business partners, with your consent or as necessary to provide services you have requested;
 
-**We may remarket your information** . Remarketing is a way for us to connect with users, based upon your past interactions with the Groupon website. Third-party marketing vendors may be hired by Groupon to perform remarketing services. As a result, third-party vendors, including Google, may show Groupon ads on sites on the internet. Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to Groupon's website. Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page at http://www.google.com/privacy_ads.html. This information is used only for remarketing purposes and will not be used by them for any other purpose. 
+  * visit any page online that displays our ads or content;
 
-**We may share your information in a Business Transfer** . As with any other business, we could merge with, or be acquired by another company. If this occurs, the successor company would acquire the information we maintain, including Personally Identifiable Information. However, Personally Identifiable Information would remain subject to this Privacy Policy. 
+  * purchase products or services on or through the Site from the Sellers;
 
-**We may share your information for our Protection and the Protection of Others** . We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website; enforce or apply this Privacy Policy, our Website Terms of Use or other agreements; or protect the rights, property or safety of the Website, its Users or others. 
+  * connect or link to any Site via social networking tools; and
 
-**4\. Release of Non-Personally Identifiable Information**
+  * post comments to the online communities sections of the Site.
 
-We may disclose or share Non-Personally Identifiable Information with Partners, Affiliates and Advertisers. For example, we may share aggregated demographic information (which does not include any Personally Identifiable Information) with “Third Party Advertisers” or “Third Party Advertising Companies” and other parties as provided below: 
 
-We use Third Party Advertising Companies to serve ads when you visit our Website. These companies may use Non-Personally Identifiable Information about your visits to this and other websites in order to provide, through the use of network tags, advertisements about goods and services that may be of interest to you. Some of these Third Party Advertising Companies may be advertising networks that are members of the Network Advertising Initiative (“NAI”). If you would like more information about any NAI member company, or you would like to opt-out of targeted advertising from any NAI member company, click here: http://www.networkadvertising.org/consumer/opt_out.asp 
 
-We also use Third Party Service Providers to track and analyse Non-Personally Identifiable usage and volume statistical information from our Users to administer our Website and constantly improve its quality. We may also publish this information for promotional purposes or as a representative audience for Advertisers. Please note that this is not Personally Identifiable Information, only general summaries of the activities of our Users. Such data is collected on our behalf, and is owned and used by us. 
 
-**5\. Updating and Correcting Information**
+2\. Your Choices
 
-We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by logging into your account and accessing the "my account" section of the site, or by contacting us through, groupon.ae/contact. We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Website. In addition, in may be impossible for us to completely delete all of your information because we periodically backup information. 
+You can manage the types of personal data you provide to us and can limit how we communicate with you. At the same time, we think that the more you tell us about yourself and what you like, the more relevant and personal your experience with our Site and services will be.
 
-If you choose to store credit card information on the site, this is stored on a secure page and you may delete your credit card information at any time by going to the "my account" section of your profile. 
+You can manage your email and notice preferences by logging into your account through the Site or by adjusting the settings in our mobile application. You can also manage your subscriptions by following subscription management instructions contained in any commercial emails that we send you. You may choose to subscribe to some types of messages, and may choose not to subscribe to, or to unsubscribe from, others. You may update your subscription preferences at any time. Please note that even if you decide not to subscribe to, or to unsubscribe, from promotional email messages, we may still need to contact you with important transactional information related to your account and your purchases from the Sellers. For example, even if you have unsubscribed from our promotional email messages, we will still send you confirmations when you make purchases on the Site.
 
-**6\. User Choices on Collection and Use of Information**
+You may manage how your browser handles cookies. You may also manage how your mobile device and mobile browser share information on and about your devices with us, as well as how your mobile browser handles cookies.
 
-As discussed above, you can always choose not to provide information, although it may be required to engage in a certain activity on the Website. 
+You may also manage the sharing of certain personal data with us when you connect with us through social networking platforms or applications. Please refer to Section 9 below and also the privacy policy and settings of the social networking website or application to determine how you may adjust our permissions and manage the interactivity between us and your social networking account or your mobile device.
 
-As a condition of purchase of our products and services, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. “Administrative Emails” relate to a User’s activity on the Website, and include emails regarding a particular User’s account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our products and services, including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by submitting a request at groupon.ae/contact, or by hitting the “unsubscribe” button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive. 
+If you register for customized email newsletters containing information on all the latest offers for local deals, travel and goods, we will work to make information more relevant for you and customize newsletters based on information you share with us, your location, website browsing preferences (for example, through cookies), purchase history or based on other attributes of your relationship with us. You can reject and delete cookies and unsubscribe from newsletters at any time by clicking links in each newsletter you wish to unsubscribe from.
 
-**7\. Security of Information**
+3\. How We Use Information
 
-We take security seriously and take numerous precautions to protect the security of Personally Identifiable Information. You can access your Personally Identifiable Information on our Website through a password and your email address. This password is encrypted. We recommend that you do not share your password with anyone. In addition, your Personally Identifiable Information resides on a secure server that only selected personnel and contractors have access to. We encrypt certain sensitive information (such as credit card information) using Secure Socket Layer (SSL) technology to ensure that your Personally Identifiable Information is safe as it is transmitted to us. 
+We control and process personal data for the following purposes:
 
-Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we employ commercially reasonable security measures to protect data and seek to partner with companies which do the same, we cannot guarantee the security of any information transmitted to or from the Website, and are not responsible for the actions of any third parties that may receive any such information. 
+  * Operate, maintain and improve the Site;
 
-**8\. Data Tracking**
+  * Provide you with personalized direct marketing initiatives via email and direct marketing offers;
 
-**Cookies** . To facilitate and customize your experience with the Website, we store cookies on your computer. A cookie is a small text file that is stored on a User’s computer for record-keeping purposes which contains information about that User. We use cookies to save you time while using the Website, remind us who you are, and track and target User interests in order to provide a customized experience. Cookies also allow us to collect Non-Personally Identifiable Information from you, like which pages you visited and what links you clicked on. Use of this information helps us to create a more user-friendly experience for all visitors. In addition, we may use Third Party Advertising Companies to display advertisements on our Website. As part of their service, they may place separate cookies on your computer. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by our Website only and does not cover the use of cookies by any Advertiser. Most browsers automatically accept cookies, but you may be able to modify your browser settings to decline cookies. Please note that if you decline or delete these cookies, some parts of the Website may not work properly. 
+  * Facilitate and process orders – for example, for vouchers and other goods and services;
 
-**Other Tracking Devices** . We may use other industry standard technologies like pixel tags and web beacons to track your use of our Website pages and promotions, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Website, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a Non-Personally Identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behaviour on our Website, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our Affiliates and/or Marketing Partners for the same purposes. 
+  * Determine your eligibility for certain types of offers, products or services that may be of interest to you, and analyze advertising effectiveness;
 
-**9\. Privacy Policies of Third Party Websites**
+  * Answer your questions and respond to your requests;
 
-This Privacy Policy only addresses the use and disclosure of information we collect from you on www.groupon.com. Other websites that may be accessible through this Website have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we urge you review the website’s privacy policy. We are not responsible for the policies or practices of third parties. 
+  * To establish and analyze individual and group profiles and customer behavior
 
-**10\. Miscellaneous Privacy Issues**
+  * Communicate and provide additional information that may be of interest to you about us, the Sellers and our business partners;
 
-Groupon, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us through groupon.ae/contact. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
+  * Send you reminders, technical notices, updates, security alerts, support and administrative messages, service bulletins, marketing messages, and requested information, including on behalf of business partners;
 
-**Children** . We do not knowingly collect personal information from anyone under the age of 18, and no part of the Website is designed to attract anyone under the age of 18. Groupon does not sell products for purchase by children. In certain instances, we sell children's products for purchase by adults. 
+  * Administer rewards, surveys, sweepstakes, contests, or other promotional activities or events;
 
-**Public Areas** . We may provide areas on our Website where you can publicly post information about yourself, can communicate with others such as discussion boards or blogs, or can review products, restaurants, and submit media content. This information may be accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information. We do obtain consent from our users to post their name along with their reviews. 
+  * Manage our everyday business needs, such as administration of the Site, forum management, fulfillment, analytics, fraud prevention, and enforcement of our corporate reporting obligations and [Terms of Use ](http://www.groupon.co.uk/terms_and_conditions/tou112015)or to comply with the law;
 
-**Facebook Connect** . The Groupon Site allows users to access Facebook Connect to interact with friends and to share on Facebook through Wall and friends' News Feeds. If you are logged into Groupon and Facebook, when you click on "Connect with Facebook" your profiles will merge if the email addresses match. If the email addresses don't match, we ask you if you want to merge them and you must enter your Groupon password to validate that they control that account. If you are already logged into Groupon but not logged into Facebook, when you click on "Connect with Facebook" you will be prompted to enter your Facebook credentials or to "Sign up for Facebook." By proceeding you are allowing the Groupon Site to access your information and you are agreeing to the Facebook Terms of Use in your use of Groupon Sites. 
+  * Comply with our legal obligations, resolve disputes, and enforce our agreements:
 
-Conversely, if you are not currently registered as a Groupon user and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join Groupon. Once you register on the Groupon site and Connect with Facebook, you will be able to automatically post recent activity back to Facebook. You have the option to disable Facebook Connect at any time by logging into "My Profile" and clicking on "My Facebook Profile." Further, you can edit privacy settings for the reviews that appear on Facebook or disconnect this service by visiting the Facebook Application Settings page. 
+  * Allow you to apply for a job, post a video or sign up for special offers from merchants and other business partners through the Site, and to
 
-**11\. Contacting Us**
+  * Enhance other information we have about you to help us better understand you, determine your interests and provide you with more relevant and compelling services
 
-Whether you’re a new or loyal customer, restaurant owner, marketer, publisher, media member or job seeker we’d like to stay connected and want to hear from you! 
 
-**Corporate Address**
 
-Groupon, FZ LLC.   
-Attn: Copyright Agent   
-Office 139 Building 9 
 
-Dubai Media City, Dubai UAE 
+4\. When and Why We Disclose Information
 
-http://www.groupon.ae/contact 
+We are not in the business of selling or renting personal data. We will not share your personal data, except with your consent or as otherwise required or permitted by law, as follows:
+
+  * with affiliated and unaffiliated service providers within and outside of the European Economic Area , including, without limitation, Groupon, Inc. which has its registered offices at 600 West Chicago Avenue, Chicago, Illinois - 60654, USA to provide services for us, subject to strict contractual obligations to protect your personal data and process it on our behalf and under our control only;
+
+  * with the Sellers, so they can sell and deliver to you;
+
+  * to report or collect on debts owed to Sellers, merchants or other business partners;
+
+  * as necessary to perform contractual obligations towards you with business partners to the extent you have purchased or redeemed a Groupon voucher, goods or services offered by a business partner or participated in an offer, rewards, contest or other activity or program sponsored or offered through us or the Sellers on behalf of that business partner;
+
+  * in case of a merger, acquisition or reorganization with a purchaser of our company or all or substantially all of our assets;
+
+  * to comply with legal orders and government requests, or as needed to support auditing, compliance, and corporate governance functions;
+
+  * to combat fraud or criminal activity, and to protect our rights or those of our affiliates, business partners and users, or as part of legal proceedings affecting the Groupon Group; or
+
+  * in response to a subpoena, or similar legal process, including to law enforcement agencies, regulators, and courts.
+
+
+
+
+We encourage business partners to adopt and post privacy policies. However, while we share personal data with business partners only for the above-mentioned purposes, their subsequent processing and use of personal data obtained through the Groupon Group is governed by their own privacy policies and practices and not subject to our control (save only in respect of such use and processing by our service providers, as indicated above).
+
+5\. How We Collect Information
+
+You provide us with personal data when you register, subscribe, create an account, make a purchase or redeem vouchers or otherwise contact us or communicate with us actively. For example, you provide personal data to us when you contact us online for customer service and other support using self-help tools, such as email, text, or by posting to online communities.
+
+You also provide personal data to us when you interact with the Site via cookies and other technologies.
+
+We also receive personal data and other online and offline information from our business partners who may report to us redemption, collection, or refund-return events. We will use such information in accordance with applicable laws and this Privacy Statement.
+
+6\. Security of Personal Data
+
+We have implemented an information security program that contains administrative, technical and physical controls that are designed to reasonably safeguard [personal](http://policies.orderup.com/privacy.html#personal_information) data. For example, we use industry-standard encryption technology to secure [financial account information](http://policies.orderup.com/privacy.html#financial_information) . No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+
+7\. Your Rights in relation to Personal Data; Contact Us
+
+You can access, update, rectify, and delete your information you provided to us in your profile by logging into your account or sending us an email at http://www.groupon.ae/contact. Keeping your personal data current helps ensure that we can respect your preferences and offer you the goods and services that are most relevant to you.
+
+In accordance with applicable law, you may (i) request access to any other personal data we hold about you and request that it be updated, rectified, deleted or blocked, (ii) request that we refrain from further use of any personal data we hold about you, and (iii) object to our creation of user profiles about you. If you have any questions or comments about our privacy practices or this Privacy Statement, if you want to make use of any of the above rights, or other rights that you may have in relation to your personal data if you wish to close your Groupon account or if you have other questions or requests, please email us at http://www.groupon.ae/contact. You can also reach us via postal mail at the following address:
+
+Groupon International Limited, Lower Ground Floor, Connaught House, 1 Burlington Road, Dublin 4, 216410 Ireland.
+
+While we are ready to assist you in managing your subscriptions, closing your account, and removing your active profile, we cannot always delete records of past interactions and transactions. For example, we are required to retain records relating to previous purchases on the Site for financial reporting and compliance reasons.
+
+8\. Retention of Personal Data
+
+We will retain your personal data for as long as your account is active or as needed to provide you services and to maintain a record of your transactions for financial reporting purposes. We will also retain your personal data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+9\. Social Networks
+
+Social Community Areas
+
+You may access the Site through or contain connections to areas where you may be able to publicly post information, communicate with others such as discussion boards or blogs, review products and merchants, and submit media content. Prior to posting in these areas, please read our [Terms of Use ](http://www.groupon.co.uk/terms_and_conditions/tou112015)carefully. All the information you post may be accessible to anyone with Internet access, and any information you include in your posting may be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages from other parties. You should avoid publicly posting personal data on you or third parties.
+
+Connecting through Social Networks
+
+We offer social networking users the opportunity to interact with friends and to share on social networks. If you are logged into both the Site and a social network, when you use the Site’s social networking connection functions, you will connect your social network account with your Groupon account (this happens automatically, if the email addresses match). If the email addresses do not match, we ask you if you want to link them and you must validate that you control the accounts. If you are already logged into the Site but not logged into your social network site, when you use the Site’s social network connection functions, you will be prompted to enter your social network website credentials or to sign up for the social network.
+
+If you are not currently registered as a Groupon user and you use the Site’s social network connection functions, you will first be asked to enter your social network credentials and then be given the option to register and join Groupon. Once you register with us and connect with the social network, you will be able to automatically post recent Groupon activity back to your social network. Please refer to the privacy settings in your social network account to manage the data that is shared through your account.
+
+By using the Site’s social network connection function, you will grant us permission to access all of the elements of your social network profile information that you have made available to be shared (as per the settings chosen by you in your social network profile) and to use it in accordance with the social network’s terms of use and this Privacy Statement.
+
+10\. Privacy Practices of Third Parties
+
+This Privacy Statement only addresses the collection, processing and use (including disclosure) of information by us through your interaction with the Site. Other websites that may be accessible through links from the Site may have their own privacy statements and personal information collection, processing, use, and disclosure practices. Our business partners may also have their own privacy statements. We encourage you to familiarize yourself with the privacy statements provided by these other parties prior to providing them with information or taking advantage of a sponsored offer or promotion.
