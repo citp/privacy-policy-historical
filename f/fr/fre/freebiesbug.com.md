@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the freebiesbug.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516140844id_/https%3A//freebiesbug.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebiesbug.com privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025095556id_/https%3A//freebiesbug.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of freebiesbug.com - Freebiesbug
 
-This Application collects some Personal Data from its Users.
+Freebiesbug.com collects some Personal Data from its Users.
+
+Users may be subject to different protection standards and broader standards may therefore apply to some. In order to learn more about the protection criteria, Users can refer to the applicability section.
 
 * * *
 
 ## Data Controller and Owner
 
-Vitiello Pasquale – Via Cilea I traversa 19 – 80051 Agerola (NA) Italy,  
+Vitiello Pasquale – Via Radicosa 74 – 80051 Agerola (NA) Italy,  
 VAT IT07857131218  
 pasquale.vitiello@pec.it
 
@@ -16,14 +18,15 @@ pasquale.vitiello@pec.it
 
 ## Types of Data collected
 
-Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookie, Usage data and Email address.
+Among the types of Personal Data that freebiesbug.com collects, by itself or through third parties, there are: Cookies, Usage Data, email address, first name and last name.
 
-Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.  
-The Personal Data may be freely provided by the User, or collected automatically when using this Application.  
-Any use of Cookies – or of other tracking tools – by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.  
-Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
+Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.  
+Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using freebiesbug.com.  
+Unless specified otherwise, all Data requested by freebiesbug.com is mandatory and failure to provide this Data may make it impossible for freebiesbug.com to provide its services. In cases where freebiesbug.com specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.  
+Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.  
+Any use of Cookies – or of other tracking tools – by freebiesbug.com or by the owners of third-party services used by freebiesbug.com serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available.
 
-Users are responsible for any Personal Data of third parties obtained, published or shared through this Application and confirm that they have the third party’s consent to provide the Data to the Owner.
+Users are responsible for any third-party Personal Data obtained, published or shared through freebiesbug.com and confirm that they have the third party’s consent to provide the Data to the Owner.
 
 * * *
 
@@ -31,24 +34,55 @@ Users are responsible for any Personal Data of third parties obtained, published
 
 ### Methods of processing
 
-The Data Controller processes the Data of Users in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.  
-The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Data Controller, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Data Controller at any time.
+The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.  
+The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of freebiesbug.com (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.
+
+### Legal basis of processing
+
+The Owner may process Personal Data relating to Users if one of the following applies:
+
+  * Users have given their consent for one or more specific purposes. Note: Under some legislations the Owner may be allowed to process Personal Data until the User objects to such processing (“opt-out”), without having to rely on consent or any other of the following legal bases. This, however, does not apply, whenever the processing of Personal Data is subject to European data protection law;
+  * provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligations thereof;
+  * processing is necessary for compliance with a legal obligation to which the Owner is subject;
+  * processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Owner;
+  * processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.
+
+
+
+In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
 
 ### Place
 
-The Data is processed at the Data Controller’s operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller.
+The Data is processed at the Owner’s operating offices and in any other places where the parties involved in the processing are located.
+
+Depending on the User’s location, data transfers may involve transferring the User’s Data to a country other than their own. To find out more about the place of processing of such transferred Data, Users can check the section containing details about the processing of Personal Data.
+
+If broader protection standards are applicable, Users are also entitled to learn about the legal basis of Data transfers to a country outside the European Union or to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data.
+
+If any such transfer takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner using the information provided in the contact section.
 
 ### Retention time
 
-The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request that the Data Controller suspend or remove the data.
+Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.
+
+Therefore:
+
+  * Personal Data collected for purposes related to the performance of a contract between the Owner and the User shall be retained until such contract has been fully performed.
+  * Personal Data collected for the purposes of the Owner’s legitimate interests shall be retained as long as needed to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the Owner within the relevant sections of this document or by contacting the Owner.
+
+
+
+The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to such processing, as long as such consent is not withdrawn. Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority.
+
+Once the retention period expires, Personal Data shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
 
 * * *
 
-## The use of the collected Data
+## The purposes of processing
 
-The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Analytics, Advertising, Contacting the User, RSS feed management, Interaction with external social networks and platforms, Displaying content from external platforms and Backup saving and management.
+The Data concerning the User is collected to allow the Owner to provide its Services, as well as for the following purposes: Analytics, Advertising, Contacting the User, RSS feed management, Interaction with external social networks and platforms, Backup saving and management and Displaying content from external platforms.
 
-The Personal Data used for each purpose is outlined in the specific sections of this document.
+Users can find further detailed information about such purposes of processing and about the specific Personal Data used for each purpose in the respective sections of this document.
 
 * * *
 
@@ -58,11 +92,9 @@ Personal Data is collected for the following purposes and using the following se
 
   * ### Advertising
 
-These services allow User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Application, possibly based on User interests.
-
-This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.
-
-Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside this Application. For more information, please check the privacy policies of the relevant services.
+This type of services allows User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on freebiesbug.com, possibly based on User interests.  
+This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.  
+Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside freebiesbug.com. For more information, please check the privacy policies of the relevant services.
 
 #### Carbon Ads (BuySellAds.com Inc.)
 
@@ -71,6 +103,14 @@ Carbon Ads is an advertising service provided BuySellAds.com Inc.
 Personal Data collected: Cookie and Usage data.
 
 Place of processing: USA – [Privacy Policy](http://carbonads.net/privacy.php)
+
+#### BuySellAds (BuySellAds.com Inc.)
+
+BuySellAds is an advertising service provided by BuySellAds.com Inc.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: United States – [Privacy Policy](https://buysellads.com/about/privacy).
 
   * ### Analytics
 
@@ -86,9 +126,9 @@ Place of processing: USA – [Privacy Policy](http://automattic.com/privacy/)
 
 #### Google Analytics with anonymized IP (Google)
 
-Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.
-
-Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of freebiesbug.com, to prepare reports on its activities and share them with other Google services.  
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network.  
+This integration of Google Analytics anonymizes your IP address. It works by shortening Users’ IP addresses within member states of the European Union or in other contracting states to the Agreement on the European Economic Area. Only in exceptional cases will the complete IP address be sent to a Google server and shortened within the US.
 
 Personal Data collected: Cookie and Usage data.
 
@@ -96,7 +136,7 @@ Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/poli
 
   * ### Backup saving and management
 
-These services allow the Owner to save and manage backups of this Application on external servers managed by the service provider itself. The backups may include the source code and content as well as the data that the User provides to this Application.
+This type of services allows the Owner to save and manage backups of freebiesbug.com on external servers managed by the service provider itself. The backups may include the source code and content as well as the data that the User provides to freebiesbug.com.
 
 #### Vaultpress (Automattic Inc.)
 
@@ -108,13 +148,13 @@ Place of processing: USA – [Privacy Policy](http://automattic.com/privacy/)
 
   * ### Contacting the User
 
-#### Mailing List or Newsletter (This Application)
+#### Mailing List or Newsletter (Freebiesbug.com)
 
 By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Application. Your email address might also be added to this list as a result of signing up to this Application or after making a purchase.
 
 Personal Data collected: Email address.
 
-#### Contact form (This Application)
+#### Contact form (Freebiesbug.com)
 
 By filling in the contact form with their Data, the User authorizes this Application to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header.
 
@@ -122,9 +162,8 @@ Personal Data collected: Email address, First Name and Last Name.
 
   * ### Displaying content from external platforms
 
-These services allow you to view content hosted on external platforms directly from the pages of this Application and interact with them.
-
-If a service of this kind is installed, it may still collect web traffic data for the pages where the service is installed, even when users do not use it.
+This type of services allows you to view content hosted on external platforms directly from the pages of freebiesbug.com and interact with them.  
+This type of service might still collect web traffic data for the pages where the service is installed, even when Users do not use it.
 
 #### Google Fonts (Google Inc.)
 
@@ -136,11 +175,9 @@ Place of processing: USA – [Privacy Policy](http://www.google.it/intl/en/polic
 
   * ### Interaction with external social networks and platforms
 
-These services allow interaction with social networks or other external platforms directly from the pages of this Application.
-
-The interaction and information obtained by this Application are always subject to the User’s privacy settings for each social network.
-
-If a service enabling interaction with social networks is installed it may still collect traffic data for the pages where the service is installed, even when Users do not use it.
+This type of services allow interaction with social networks or other external platforms directly from the pages of freebiesbug.com.  
+The interaction and information obtained through freebiesbug.com are always subject to the User’s privacy settings for each social network.  
+This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.
 
 #### Pinterest “Pin it” button and social widgets (Pinterest)
 
@@ -176,7 +213,7 @@ Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/poli
 
   * ### RSS feed management
 
-These services allow this Application to manage RSS feeds and the distribution of their content. Depending on the characteristics of the service used, these services may be used to insert ads within the content and to gather statistics data from them.
+This type of services allows freebiesbug.com to manage RSS feeds and the distribution of their content. Depending on the characteristics of the service used, these services may be used to insert ads within the content and to gather statistics data from them.
 
 #### Feedburner (Google)
 
@@ -191,19 +228,66 @@ Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/poli
 
 * * *
 
+## The rights of Users
+
+Users may exercise certain rights regarding their Data processed by the Owner.
+
+Users entitled to broader protection standards may exercise any of the rights described below. In all other cases, Users may inquire with the Owner to find out which rights apply to them.
+
+In particular, Users have the right to do the following:
+
+  *  **Withdraw their consent at any time.**  Users have the right to withdraw consent where they have previously given their consent to the processing of their Personal Data.
+  *  **Object to processing of their Data.**  Users have the right to object to the processing of their Data if the processing is carried out on a legal basis other than consent. Further details are provided in the dedicated section below.
+  *  **Access their Data.**  Users have the right to learn if Data is being processed by the Owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing processing.
+  *  **Verify and seek rectification.**  Users have the right to verify the accuracy of their Data and ask for it to be updated or corrected.
+  *  **Restrict the processing of their Data.**  Users have the right, under certain circumstances, to restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other than storing it.
+  *  **Have their Personal Data deleted or otherwise removed.**  Users have the right, under certain circumstances, to obtain the erasure of their Data from the Owner.
+  *  **Receive their Data and have it transferred to another controller.**  Users have the right to receive their Data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that the Data is processed by automated means and that the processing is based on the User’s consent, on a contract which the User is part of or on pre-contractual obligations thereof.
+  *  **Lodge a complaint.**  Users have the right to bring a claim before their competent data protection authority.
+
+
+
+### Details about the right to object to processing
+
+Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.
+
+Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification. To learn, whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document.
+
+### How to exercise these rights
+
+Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month.
+
+* * *
+
+## Applicability of broader protection standards
+
+While most provisions of this document concern all Users, some provisions expressly only apply if the processing of Personal Data is subject to broader protection standards.
+
+Such broader protection standards apply when the processing:
+
+  * is performed by an Owner based within the EU;
+  * concerns the Personal Data of Users who are in the EU and is related to the offering of paid or unpaid goods or services, to such Users;
+  * concerns the Personal Data of Users who are in the EU and allows the Owner to monitor such Users’ behavior taking place in the EU.
+
+
+
+* * *
+
 ## Cookie Policy
 
-Cookies consist of portions of code installed in the browser that assist the Owner in providing the service according to the purposes described. Some of the purposes for which the Cookies are installed may also require the User’s consent.
+Cookies consist of portions of code installed in the browser that assist the Owner in providing the Service according to the purposes described. Some of the purposes for which Cookies are installed may also require the User’s consent.
+
+Where the installation of Cookies is based on consent, such consent can be freely withdrawn at any time following the instructions provided in this document.
 
 ### Technical Cookies and Cookies serving aggregated statistical purposes
 
   * ### Activity strictly necessary for the functioning of the service
 
-This Application uses Cookies to save the User’s session and to carry out other activities that are strictly necessary for the operation of the same, for example in relation to the distribution of traffic.
+Freebiesbug.com uses Cookies to save the User’s session and to carry out other activities that are strictly necessary for the operation of freebiesbug.com, for example in relation to the distribution of traffic.
 
   * ### Activity regarding the saving of preferences, optimization, and statistics
 
-This Application uses Cookies to save browsing preferences and to optimize the User’s browsing experience. Among these Cookies are, for example, those to set the language and the currency or for the management of first party statistics employed directly by the Owner of the site.
+Freebiesbug.com uses Cookies to save browsing preferences and to optimize the User’s browsing experience. Among these Cookies are, for example, those used for the setting of language and currency preferences or for the management of first party statistics employed directly by the Owner of the site.
 
 
 
@@ -216,9 +300,9 @@ If any third party operated services are listed among the tools below, these may
 
   * ### Advertising
 
-These services allow User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Application, possibly based on User interests.  
+This type of services allows User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on freebiesbug.com, possibly based on User interests.  
 This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.  
-Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside this Application. For more information, please check the privacy policies of the relevant services.
+Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside freebiesbug.com. For more information, please check the privacy policies of the relevant services.
 
 #### Carbon Ads (BuySellAds.com Inc.)
 
@@ -227,6 +311,14 @@ Carbon Ads is an advertising service provided BuySellAds.com Inc.
 Personal Data collected: Cookie and Usage data.
 
 Place of processing: USA – [Privacy Policy](http://carbonads.net/privacy.php)
+
+#### BuySellAds (BuySellAds.com Inc.)
+
+BuySellAds is an advertising service provided by BuySellAds.com Inc.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: United States – [Privacy Policy](https://buysellads.com/about/privacy).
 
   * ### Analytics
 
@@ -242,31 +334,19 @@ Place of processing: USA – [Privacy Policy](http://automattic.com/privacy/)
 
 #### Google Analytics (Google Inc.)
 
-Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
-Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of freebiesbug.com, to prepare reports on its activities and share them with other Google services.  
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network.  
+This integration of Google Analytics anonymizes your IP address. It works by shortening Users’ IP addresses within member states of the European Union or in other contracting states to the Agreement on the European Economic Area. Only in exceptional cases will the complete IP address be sent to a Google server and shortened within the US.
 
 Personal Data collected: Cookie and Usage data.
 
 Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](http://tools.google.com/dlpage/gaoptout?hl=en)
 
-  * ### Displaying content from external platforms
-
-These services allow you to view content hosted on external platforms directly from the pages of this Application and interact with them.  
-If a service of this kind is installed, it may still collect web traffic data for the pages where the service is installed, even when users do not use it.
-
-#### Google Fonts (Google Inc.)
-
-Google Fonts is a typeface visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.
-
-Personal Data collected: Cookie and Usage data.
-
-Place of processing: USA – [Privacy Policy](http://www.google.it/intl/en/policies/privacy/)
-
   * ### Interaction with external social networks and platforms
 
-These services allow interaction with social networks or other external platforms directly from the pages of this Application.  
-The interaction and information obtained by this Application are always subject to the User’s privacy settings for each social network.  
-If a service enabling interaction with social networks is installed it may still collect traffic data for the pages where the service is installed, even when Users do not use it.
+This type of services allow interaction with social networks or other external platforms directly from the pages of freebiesbug.com.  
+The interaction and information obtained through freebiesbug.com are always subject to the User’s privacy settings for each social network.  
+This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.
 
 #### Pinterest “Pin it” button and social widgets (Pinterest)
 
@@ -302,7 +382,7 @@ Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/poli
 
   * ### RSS feed management
 
-These services allow this Application to manage RSS feeds and the distribution of their content. Depending on the characteristics of the service used, these services may be used to insert ads within the content and to gather statistics data from them.
+This type of services allows freebiesbug.com to manage RSS feeds and the distribution of their content. Depending on the characteristics of the service used, these services may be used to insert ads within the content and to gather statistics data from them.
 
 #### Feedburner (Google Inc.)
 
@@ -315,102 +395,76 @@ Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/poli
 
 
 
-### How can I manage the installation of Cookies?
+### How to provide or withdraw consent to the installation of Cookies
 
-In addition to what is specified in this document, the User can manage preferences for Cookies directly from within their own browser and prevent – for example – third parties from installing them. Through the browser preferences, it is also possible to delete Cookies installed in the past, including the Cookies that might possibly have saved the consent for the installation of Cookies by this website. It is important to note that by disabling all Cookies, the functioning of this site may be compromised. Users can find information about how to manage Cookies in their browser at the following addresses: [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en&p=cpn_cookies), [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences), [Apple Safari](https://support.apple.com/kb/PH19214?viewlocale=en_US&locale=en_US) and [Microsoft Windows Explorer](http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies).
+In addition to what is specified in this document, the User can manage preferences for Cookies directly from within their own browser and prevent – for example – third parties from installing Cookies.  
+Through browser preferences, it is also possible to delete Cookies installed in the past, including the Cookies that may have saved the initial consent for the installation of Cookies by this website.  
+Users can, for example, find information about how to manage Cookies in the most commonly used browsers at the following addresses: [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en&p=cpn_cookies), [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences), [Apple Safari](https://support.apple.com/kb/PH21411) and [Microsoft Internet Explorer](http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies).
 
-In the case of services provided by third parties, Users can exercise their right to withdraw from the tracking activity by utilizing the information provided in the third party’s privacy policy, by clicking the opt-out link – if provided – or by contacting the third party.
+With regard to Cookies installed by third parties, Users can manage their preferences and withdrawal of their consent by clicking the related opt-out link (if provided), by using the means provided in the third party’s privacy policy, or by contacting the third party.
 
-Notwithstanding the above, the Owner informs that Users may take advantage of: [Your Online Choices](http://www.youronlinechoices.com/). This service allows Users to select their tracking preferences for most of the advertising tools. The Owner thus recommends that Users make use of this resource in addition to the information provided in this document.
+Notwithstanding the above, the Owner informs that Users may follow the instructions provided on the subsequently linked initiatives by the [EDAA](http://www.youronlinechoices.eu/) (EU), the [Network Advertising Initiative](https://www.networkadvertising.org/understanding-digital-advertising) (US) and the [Digital Advertising Alliance](https://www.aboutads.info/consumers/) (US), [DAAC](https://youradchoices.ca/understanding-online-advertising/) (Canada), [DDAI](http://www.ddai.info/optout) (Japan) or other similar services. Such initiatives allow Users to select their tracking preferences for most of the advertising tools. The Owner thus recommends that Users make use of these resources in addition to the information provided in this document.
 
 ### Data Controller and Owner
 
-Pasquale Vitiello – Via Cilea I traversa 19 – 80051 Agerola (NA) Italy,  
+Pasquale Vitiello – Via Radicosa 74 – 80051 Agerola (NA) Italy,  
 VAT IT07857131218  
 pasquale.vitiello@pec.it
 
-Since the installation of third party Cookies and other tracking systems through the services used within this Application can not be technically controlled by the Owner, any specific references to Cookies and tracking systems installed by third parties are to be considered indicative. In order to obtain complete information, consult the privacy policy for the respective third party services listed in this document.
+Since the installation of third-party Cookies and other tracking systems through the services used within freebiesbug.com cannot be technically controlled by the Owner, any specific references to Cookies and tracking systems installed by third parties are to be considered indicative. In order to obtain complete information, the User is kindly requested to consult the privacy policy for the respective third-party services listed in this document.
 
-Given the objective complexity linked to the identification of technologies based on Cookies and their very close integration with the operation of the web, Users are encouraged to contact the Owner should they wish to receive any further information on the use of Cookies themselves and any possible use of them – for example, by a third party – carried out through this site.
+Given the objective complexity surrounding the identification of technologies based on Cookies, Users are encouraged to contact the Owner should they wish to receive any further information on the use of Cookies by freebiesbug.com.
 
-## Additional information about Data collection and processing
+## Definitions and legal references
 
-### Legal action
+### Personal Data (or Data)
 
-The User’s Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.  
-The User declares to be aware that the Data Controller may be required to reveal personal data upon request of public authorities.
+Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person.
 
-### Additional information about User’s Personal Data
+### Usage Data
 
-In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular services or the collection and processing of Personal Data upon request.
+Information collected automatically through freebiesbug.com (or third-party services employed in freebiesbug.com), which can include: the IP addresses or domain names of the computers utilized by the Users who use freebiesbug.com, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server’s answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User’s IT environment.
 
-### System Logs and Maintenance
+### User
 
-For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System Logs) or use for this purpose other Personal Data (such as IP Address).
+The individual using freebiesbug.com who, unless otherwise specified, coincides with the Data Subject.
 
-### Information not contained in this policy
+### Data Subject
 
-More details concerning the collection or processing of Personal Data may be requested from the Data Controller at any time. Please see the contact information at the beginning of this document.
+The natural person to whom the Personal Data refers
 
-### The rights of Users
+### Data Processor (or Data Supervisor)
 
-Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above.
+The natural or legal person, public authority, agency or other body which processes Personal Data on behalf of the Controller, as described in this privacy policy.
 
-This Application does not support “Do Not Track” requests.  
-To determine whether any of the third party services it uses honor the “Do Not Track” requests, please read their privacy policies.
+### Data Controller (or Owner)
 
-### Changes to this privacy policy
+The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of freebiesbug.com. The Data Controller, unless otherwise specified, is the Owner of freebiesbug.com.
 
-The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request that the Data Controller removes the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users.
+### Freebiesbug.com (or this Application)
 
-### Information about this privacy policy
+The means by which the Personal Data of the User is collected and processed.
 
-The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Iubenda and hosted on Iubenda’s servers.
+### Service
 
-* * *
+The service provided by freebiesbug.com as described in the relative terms (if available) and on this site/application.
 
-### Definitions and legal references
+### European Union (or EU)
 
-#### Personal Data (or Data)
+Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area.
 
-Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number.
-
-#### Usage Data
-
-Information collected automatically from this Application (or third party services employed in this Application ), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server’s answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User’s IT environment.
-
-#### User
-
-The individual using this Application, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refer.
-
-#### Data Subject
-
-The legal or natural person to whom the Personal Data refers.
-
-#### Data Processor (or Data Supervisor)
-
-The natural person, legal person, public administration or any other body, association or organization authorized by the Data Controller to process the Personal Data in compliance with this privacy policy.
-
-#### Data Controller (or Owner)
-
-The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Application. The Data Controller, unless otherwise specified, is the Owner of this Application.
-
-#### This Application
-
-The hardware or software tool by which the Personal Data of the User is collected.
-
-#### Cookie
+### Cookies
 
 Small piece of data stored in the User’s device.
 
 * * *
 
-#### Legal information
+### Legal information
 
-Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies.
+This privacy statement has been prepared based on provisions of multiple legislations, including Art. 13/14 of Regulation (EU) 2016/679 (General Data Protection Regulation).
 
-This privacy policy relates solely to this Application.
+This privacy policy relates solely to freebiesbug.com, if not stated otherwise within this document.
 
 * * *
 
- _Latest update: Jun 01, 2015_
+ _Latest update: May 25, 2018_
