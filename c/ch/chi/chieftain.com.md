@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2018-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180316041608id_/https%3A//www.chieftain.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025151302id_/https%3A//www.chieftain.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Pueblo Chieftain
 
 **Contact information**  
 To contact The Pueblo Chieftain Online regarding this privacy policy, please use one of the following methods:
 
->   * Email: [webmaster@chieftain.com](mailto:webmaster@chieftain.com)
+>   * Email: [newsroom@chieftain.com](mailto:newsroom@chieftain.com)
 >   * Telephone: 719-544-3520
 >   * U.S. mail: Attn: Internet Privacy Policy, PO Box 4040, Pueblo, CO 81003
 > 
