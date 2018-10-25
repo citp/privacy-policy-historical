@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonbensonfitness.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623230624id_/http%3A//www.jonbensonfitness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonbensonfitness.com privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025132640id_/http%3A//www.jonbensonfitness.com/privacy) for the most accurate reproduction.*
 
 # Jon Benson Fitness - Privacy Policy
 
