@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the slideserve.com privacy policy that was archived on 2018-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180602183247id_/https%3A//www.slideserve.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the slideserve.com privacy policy that was archived on 2018-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181026015745id_/https%3A//www.slideserve.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <title>Privacy Policy - SlideServe</title>
@@ -40,7 +40,7 @@
 
   function formatSearch()
   {
-	var strSearch = document.getElementById('field').value;
+	var strSearch = document.getElementById('field').value.toLowerCase();
 	strSearch = strSearch.replace("/", "-");
 	strSearch = strSearch.replace(/ /g, "-");
 	window.location = '//www.slideserve.com/search/presentations/' + encodeURIComponent(strSearch);
@@ -114,6 +114,9 @@
               <!--<li class="pcreator">
           <button class="btn btn-default topspbtn" type="button"onclick="window.parent.location ='https://www.slideserve.com/create?utm_source=slideserve&utm_medium=website&utm_campaign=presentation+creator';ga('send', 'event', 'presentation creator', 'click', 'presentation creator after logined');" title="Create Presentation Online" ><span class="browseText">Presentation Creator</span>
           </button><span class="topspbtn-tooltip">new</span></li>-->
+          <li class="pcreator">
+            <button class="btn btn-default topspbtn" type="button" onclick="window.location ='https://www.slideserve.com/lead-generation?utm_source=slideserve&amp;utm_medium=website&amp;utm_campaign=collect+lead+button';" title="Collect Leads by adding lead-forms to your presentations"><span class="browseText">Collect Leads</span>
+            </button><span class="topspbtn-tooltip">new</span></li>
         <li>
           <a href="/upload" rel="nofollow" data-toggle="modal" class="uploadcolor">Upload</a>
         </li>
@@ -126,7 +129,6 @@
   <!-- /.navbar-collapse  -->
 </div>
 <!-- /.container-fluid -->
-
 <div class="subsmmenu" id="hsubmenu">
   <div class="container">
     <ul class="nav navbar-nav quicklink quicklinksize">
@@ -141,7 +143,7 @@
   </div>
 </div>
 </nav>
-<link href="http://www.slideserve.com/new/styles/innerpage.css" rel="stylesheet">
+<link href="https://www.slideserve.com/new/styles/innerpage.css" rel="stylesheet">
     <!-- Sub Header -->
     <header id="subheader">
     	<div class="container">
@@ -301,11 +303,11 @@
 											</ul>
 				</div>
                 <div class="col-lg-12">
-                	<a href="/about" rel="nofollow">About Us</a> | 
-                	<a href="/advertise" rel="nofollow">Advertise</a> | 
-                	<a href="/terms" rel="nofollow"> Terms of Use</a> | 
-                	<a href="/privacy" rel="nofollow">Privacy Policy</a> | 
-                	<a href="/contact.php" rel="nofollow">Contact Us</a>  | 
+                	<a href="/about" rel="nofollow">About Us</a> |
+                	<a href="/advertise" rel="nofollow">Advertise</a> |
+                	<a href="/terms" rel="nofollow"> Terms of Use</a> |
+                	<a href="/privacy" rel="nofollow">Privacy Policy</a> |
+                	<a href="/contact.php" rel="nofollow">Contact Us</a>  |
                 	<a href="https://blog.slideserve.com/">Blog</a>
                 </div>
             </div>
@@ -315,8 +317,7 @@
     	<div class="container">
     		<div class="row">
     			<div class="col-lg-8 text-left">
-			    © 2018 SlideServe. All rights reserved | Powered By DigitalOfficePro			    	
-			    </div>
+			    © 2018 SlideServe. All rights reserved | Powered By DigitalOfficePro			    </div>
 			    <div class="col-lg-4 text-right">
 			    	<ul class="list-inline">
 			    		<li><a href="http://www.facebook.com/SlideServe" rel="nofollow"><i class="fa fa-facebook"></i></a></li>
