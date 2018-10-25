@@ -1,14 +1,24 @@
-> *The following text is extracted and transformed from the shipt.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173829id_/https%3A//www.shipt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipt.com privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025162848id_/https%3A//www.shipt.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Shipt
+# Privacy Policy - Shipt Grocery Delivery
 
-### Last Updated: June 6, 2016
+[ ](https://web.archive.org/?noredirect)
+
+  * [Get Paid to Shop](https://web.archive.org/be-a-shopper/)
+  * [Help](http://help.shipt.com/)
+  * [Gift](https://web.archive.org/gift/)
+
+
+  * [Log In](https://shop.shipt.com/#/app/home)
+  * [Sign up](https://signup.shipt.com/)
+
+
 
 Thank you for using Shipt! This privacy policy has been compiled to better serve those who are concerned with how their information is being used online. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle any information that we may collect from you or that you may provide when you use our Platform.
 
-#### WHAT INFORMATION DO WE COLLECT?
+## What information do we collect?
 
-**Information That You Give Us**
+#### Information That You Give Us
 
 We receive, store and process information, including personally identifiable information, that you make available to us when accessing or using the Shipt Platform and Services. Examples include information you provide when you:
 
@@ -18,7 +28,7 @@ We receive, store and process information, including personally identifiable inf
 
 
 
-**Information we get from your Use of our Platform**
+#### Information we get from your Use of our Platform
 
 Cookies, Pixels, and Other Tracking Technologies: We and our partners use various technologies to collect information, including cookies, pixels, and device identifiers. Cookies are small text files that are sent by your computer when you access our services through a browser. We may use session cookies (which expire when you close your browser), persistent cookies (which expire when you choose to clear them from your browser), pixels, and other identifiers to collect information from your browser or device that helps us do things such as understand how you use our services, personalize your experience, measure advertising performance, and remember that you are logged in to Shipt.
 
@@ -28,7 +38,7 @@ We employ some third-party services to help us understand the usage of Shipt, an
 
 Log information: When you use Shipt, our servers will record information about your usage of the service and information that is sent by your browser or device. Logs information can include things like the IP address of your device, information about the browser, operating system and/or app you are using, unique device identifiers, pages that you navigate to and links that you click, searches that you run on Shipt, and other ways you interact with the service. When you are logged into the Shipt service, this information is stored with your account information.
 
-#### WHAT DO WE DO WITH YOUR INFORMATION
+## What do we do with your information?
 
 We use, store and process information about you for the following general purposes:
 
@@ -43,7 +53,7 @@ We use, store and process information about you for the following general purpos
 
 
 
-#### THIRD-PARTY SERVICES
+## Third-party services
 
 In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
@@ -55,39 +65,39 @@ As an example, if you are a Canadian citizen and your transaction is processed b
 
 This privacy policy does not apply to information collected by any third party, including through any application or content (including advertising) that may link to or be accessible from our site.
 
-#### DISCLOSURE
+## Disclosure
 
 We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-#### LINKS
+## Links
 
 When you click on links on our website or blog, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-#### SECURITY
+## Security
 
 To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
 If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with AES-256 encryption.  Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-#### YOUR CALIFORNIA PRIVACY RIGHTS
+## Your California privacy rights
 
 Residents of the State of California, under the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which Shipt has disclosed personal information during the preceding year for direct marketing purposes and a disclosure of the shared information. Alternatively, the law provides that if a company has a privacy policy that provides you with an “opt-out” choice for use of your personal information by third parties for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options.
 
 This site qualifies for the alternative option. Its privacy policy provides you with information on how you may opt-out from the use of your personal information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your personal information during the preceding year for marketing purposes.
 
-If you are a California resident and request information about how to exercise your third party disclosure choices, send a request to the following email address: _info@shipt.com._
+If you are a California resident and request information about how to exercise your third party disclosure choices, send a request to the following email address: _[info@shipt.com](mailto:info@shipt.com)_.
 
-#### CHILDREN ONLINE PRIVACY PROTECTION ACT
+## Children online privacy protection act
 
 The site is not intended for children under 13 years of age. No one under age 13 may provide any information through the site. If you are under 13, do not use or provide any information through the site or on or through any of its features. We do not knowingly collect personal information from children under 13; however, if we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. Please contact us if you believe we might have personal information about a child under age 13.
 
-#### CHANGES TO THIS PRIVACY POLICY
+## Changes to this privacy policy
 
 We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
 
 If Shipt is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
-#### QUESTIONS AND CONTACT INFORMATION
+## Questions and contact information
 
 If you would like to access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information about our privacy practices, please contact our Privacy Compliance Officer at info@shipt.com or by mail at:
 
@@ -95,3 +105,5 @@ Shipt
 Attn: Compliance  
 17 20th St. N Unit 100  
 Birmingham, AL, 35203, United States
+
+Live Chat
