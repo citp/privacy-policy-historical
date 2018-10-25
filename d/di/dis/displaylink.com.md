@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the displaylink.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622183349id_/http%3A//displaylink.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the displaylink.com privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025130811id_/http%3A//www.displaylink.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy
 
