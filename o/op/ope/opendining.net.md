@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opendining.net privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608225640id_/http%3A//www1.opendining.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendining.net privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025214058id_/https%3A//www1.opendining.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Online Ordering System for Restaurants | Web, Mobile, and Social Orders | Open Dining
+# Open Dining | Privacy Policy
 
 This Privacy Policy ("Policy") is intended to help you understand how Open Networks, LLC ("Open Dining") collects, uses, and stores your personal information for the online ordering system ("Open Dining system") and to provide you with online ordering services ("Services").  By using the site or any related services, you are accepting the practices described in this privacy policy.
 
