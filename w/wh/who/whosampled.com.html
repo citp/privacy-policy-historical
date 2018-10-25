@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the whosampled.com privacy policy that was archived on 2018-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624224819id_/https%3A//www.whosampled.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whosampled.com privacy policy that was archived on 2018-10-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181025105858id_/https%3A//www.whosampled.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Privacy Policy | WhoSampled</title>
     <meta name="description" content="Privacy Policy for WhoSampled">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="keywords" content="music, listen, sample, cover, remix, song, download">
     <meta property="fb:app_id" content="136259916449994">
     
@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,800">
 
     
-      <link rel="stylesheet" href="/static/css/main.min.css?485515220618">
+      <link rel="stylesheet" href="/static/css/main.min.css?424215221018">
     
 
     <link rel="shortcut icon" href="/static/images/favicon.ico">
@@ -25,7 +25,7 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/images/redesign/icons/apple-touch-icon-72x72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="/static/images/redesign/icons/apple-touch-icon-precomposed.png">
 
-    <script type="text/javascript" async="" src="//toolbar.complex.com/dist/ctoolbar.min.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="https://quantcast.mgr.consensu.org/cmp.js" async="" type="text/javascript"></script><script>
+    <script type="text/javascript" async="" src="//toolbar.complex.com/dist/ctoolbar.min.js"></script><script src="https://quantcast.mgr.consensu.org/cmp.js" async="" type="text/javascript"></script><script>
     window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
     ga('create','UA-3956890-3','auto');
     ga('send','pageview');
@@ -160,7 +160,7 @@
             }());
 
             window.__cmp('init', {
-                'Language': 'en',
+            'Language': 'en',
             'Initial Screen Reject Button Text': 'I do not accept',
             'Initial Screen Accept Button Text': 'I accept',
             'Purpose Screen Header Title Text': 'Privacy settings',
@@ -176,7 +176,8 @@
             'Publisher Purpose IDs': [1,2,3,4,5],
             'Consent Scope': 'service',
             'No Option': false,
-            'Default Value for Toggles': 'on',
+            'Default Value for Toggles': 'off',
+            'Display Persistent Consent Link': false,
             });
         }());
     </script>
@@ -184,7 +185,7 @@
 
 
 
-    <script src="/static/js/redesign/jquery-1.9.1.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
     <script>
       // WhoSampled namespace
@@ -242,88 +243,21 @@
 
     
 
-    <div id="fb-root"></div>
-
-<script>
-    var ws_fbAccessToken = '';
-
-    (function (d) {
-         var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-         if (d.getElementById(id)) {return;}
-         js = d.createElement('script'); js.id = id; js.async = true;
-         js.src = "//connect.facebook.net/en_US/all.js";
-         ref.parentNode.insertBefore(js, ref);
-    }(document));
-
-    window.fbAsyncInit = function () {
-        FB.init({
-                appId      : '136259916449994',
-                channelUrl : '/static/fb_channel_file.html',
-                status     : true,
-                cookie     : true,
-                xfbml      : true
-            });
-
-        FB.getLoginStatus(function(response) {
-            if (response.status === 'connected') {
-                ws_fbAccessToken = response.authResponse.accessToken;
-            }
-        });
-    };
-
-    function process_login(access_token) {
-        $.getJSON('/facebook/connect-user-ssl/?access_token=' + access_token, {},
-            function process_json(json_response) {
-                var url, next, url_redirect;
-
-                if (json_response.status === true) {
-                    url = new URL(window.location);
-                    next = url.searchParams.get('next');
-
-                    if (next === null) {
-                        next = '/dashboard/';
-                    }
-
-                    if (json_response.show_gdpr_consent === true) {
-                        url_redirect = '/user/gdpr/?next=' + encodeURIComponent(next);
-                    } else {
-                        url_redirect = next;
-                    }
-
-                    window.location = url_redirect;
-                }
-                else {
-                    alert('Facebook login failed');
-                }
-            }
-        );
-    }
-
-    
-
-    function facebook_connect() {
-        if (ws_fbAccessToken != '') {
-            process_login(ws_fbAccessToken)
-        } else {
-            FB.login(function(response) {
-                if (response.authResponse) {
-                    process_login(response.authResponse.accessToken)
-                }
-            }, {scope: 'email,publish_actions'});
-        }
-    }
-</script>
-
-
     <div id="cmn_wrap">
       <header id="header">
         <div class="nav" id="js-nav">
           <div class="nav-wrap">
             <div class="logo-wrapper">
-              <a href="/" class="logo"></a>
+              <a href="/" class="logo" aria-label="WhoSampled logo"></a>
             </div>
             <div class="nav-top">
-              <div class="socialMedia nav-top-social"></div>
+              
+                <div class="socialMedia nav-top-social">
+                  <a href="https://www.facebook.com/whosampled" target="_blank" rel="noopener nofollow" title="WhoSampled on Facebook"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32"><path d="M32 16c0-8.837-7.163-16-16-16C7.164 0 0 7.163 0 16s7.164 16 16 16c8.837 0 16-7.163 16-16" fill="#fff"></path><path d="M17.347 25.346v-9.09h2.55l.33-3.21h-2.88v-1.888c0-.71.47-.874.802-.874h2.03V7.167l-2.798-.01c-3.106 0-3.812 2.324-3.812 3.81v2.08h-1.796v3.21h1.796v9.09h3.777" fill="#292827"></path></svg></a>
+                  <a href="https://www.twitter.com/whosampled" target="_blank" rel="noopener nofollow" title="WhoSampled on Twitter"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32.000001" height="32" width="32"><path d="M32 16c0-8.837-7.163-16-16-16C7.164 0 0 7.163 0 16s7.164 16 16 16c8.837 0 16-7.163 16-16" fill="#fff"></path><path d="M26.25 10.486c-.682.303-1.418.508-2.19.6.788-.472 1.392-1.22 1.678-2.11-.738.437-1.555.754-2.423.925-.695-.74-1.687-1.203-2.783-1.203-2.107 0-3.815 1.707-3.815 3.813 0 .3.034.59.1.87-3.17-.16-5.982-1.677-7.86-3.985-.33.563-.518 1.218-.518 1.918 0 1.322.672 2.49 1.695 3.174-.625-.02-1.213-.19-1.727-.478v.048c0 1.847 1.316 3.39 3.058 3.74-.318.086-.656.134-1.004.134-.246 0-.484-.025-.716-.07.484 1.516 1.893 2.618 3.56 2.65-1.305 1.022-2.947 1.632-4.735 1.632-.307 0-.61-.018-.91-.053 1.69 1.083 3.693 1.715 5.847 1.715 7.016 0 10.852-5.812 10.852-10.852 0-.165-.004-.33-.012-.493.745-.538 1.392-1.21 1.902-1.974" fill="#292827"></path></svg></a>
+                  <a href="https://www.instagram.com/whosampled/" target="_blank" rel="noopener nofollow" title="WhoSampled on Instagram"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32.000001" height="32" width="32"><path d="M32 16c0-8.837-7.163-16-16-16C7.164 0 0 7.163 0 16s7.164 16 16 16c8.837 0 16-7.163 16-16" fill="#fff"></path><path d="M16 7.156c-2.4 0-2.703.01-3.646.053-.94.042-1.584.192-2.147.41-.582.226-1.075.53-1.566 1.02-.49.492-.793.985-1.02 1.567-.218.562-.368 1.205-.41 2.147-.044.943-.053 1.244-.053 3.646s.01 2.703.052 3.646c.042.942.192 1.585.41 2.147.227.582.53 1.075 1.02 1.567.492.49.985.794 1.567 1.02.563.218 1.206.368 2.147.41.943.044 1.245.054 3.646.054 2.403 0 2.704-.01 3.647-.053.94-.042 1.584-.192 2.146-.41.582-.226 1.076-.53 1.567-1.02.492-.492.795-.985 1.02-1.567.22-.562.368-1.205.41-2.147.044-.943.054-1.244.054-3.646s-.01-2.703-.053-3.646c-.042-.942-.19-1.585-.41-2.147-.225-.582-.528-1.075-1.02-1.567-.49-.49-.985-.794-1.567-1.02-.562-.218-1.205-.368-2.146-.41-.943-.044-1.244-.054-3.647-.054zm0 1.593c2.362 0 2.642.008 3.575.05.862.04 1.33.185 1.64.306.414.16.71.352 1.02.66.308.31.5.605.66 1.018.12.31.266.78.305 1.642.042.933.05 1.212.05 3.574s-.008 2.64-.05 3.574c-.04.862-.184 1.33-.305 1.642-.16.413-.352.708-.66 1.017-.31.31-.606.5-1.02.66-.31.123-.778.267-1.64.306-.933.04-1.213.05-3.575.05-2.36 0-2.64-.01-3.573-.05-.862-.04-1.33-.184-1.642-.306-.413-.16-.707-.352-1.017-.66-.31-.31-.502-.605-.662-1.018-.12-.312-.265-.78-.305-1.642-.04-.933-.05-1.212-.05-3.574s.01-2.64.05-3.574c.04-.862.185-1.33.306-1.642.16-.413.352-.708.662-1.017.31-.31.604-.5 1.017-.66.31-.122.78-.266 1.642-.306.933-.042 1.212-.05 3.573-.05" fill="#292827"></path><path d="M16 18.948c-1.627 0-2.948-1.32-2.948-2.948s1.32-2.948 2.948-2.948 2.95 1.32 2.95 2.948-1.322 2.948-2.95 2.948zm0-7.49c-2.507 0-4.54 2.034-4.54 4.542s2.033 4.542 4.54 4.542c2.51 0 4.542-2.034 4.542-4.542S18.51 11.458 16 11.458M21.783 11.28c0 .585-.475 1.06-1.062 1.06-.585 0-1.06-.475-1.06-1.06 0-.587.475-1.063 1.06-1.063.588 0 1.063.476 1.063 1.062" fill="#292827"></path></svg></a>
+                </div>
+              
               <nav class="userLinks nav-top-user">
                 
                 <div class="nav-inner">
@@ -353,9 +287,9 @@
               </nav>
 
               <form action="/search/" method="get" id="search-bar" class="searchForm nav-search">
-                <input type="text" id="searchInput" class="searchInput text" name="q" autocomplete="off" spellcheck="false" autocorrect="off" autocapitalize="off" placeholder="Track, Artist, Movie, TV show" value="" maxlength="80">
+                <input type="text" id="searchInput" class="searchInput text" name="q" autocomplete="off" spellcheck="false" autocorrect="off" autocapitalize="off" placeholder="Track, Artist, Movie, TV show" value="" maxlength="80" aria-label="Type any track, artist, movie or TV show">
                 <span class="loading" style="display:none"></span>
-                <span class="submit-wrapper"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path d="M31.008 27.231l-7.58-6.447c-.784-.705-1.622-1.029-2.299-.998a11.954 11.954 0 0 0 2.87-7.787c0-6.627-5.373-12-12-12s-12 5.373-12 12 5.373 12 12 12c2.972 0 5.691-1.081 7.787-2.87-.031.677.293 1.515.998 2.299l6.447 7.58c1.104 1.226 2.907 1.33 4.007.23s.997-2.903-.23-4.007zM12 20a8 8 0 1 1 0-16 8 8 0 0 1 0 16z"></path></svg><input type="submit" class="submit" value=""></span>
+                <span class="submit-wrapper"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path d="M31.008 27.231l-7.58-6.447c-.784-.705-1.622-1.029-2.299-.998a11.954 11.954 0 0 0 2.87-7.787c0-6.627-5.373-12-12-12s-12 5.373-12 12 5.373 12 12 12c2.972 0 5.691-1.081 7.787-2.87-.031.677.293 1.515.998 2.299l6.447 7.58c1.104 1.226 2.907 1.33 4.007.23s.997-2.903-.23-4.007zM12 20a8 8 0 1 1 0-16 8 8 0 0 1 0 16z"></path></svg><input type="submit" class="submit" value="" aria-label="Search"></span>
               </form>
             </div>
           </div>
@@ -479,19 +413,19 @@ Last updated: June 4, 2018
               </ul>
 
               <ul class="social">
-                <li><a href="https://www.facebook.com/whosampled" target="_blank" rel="nofollow" title="WhoSampled on Facebook"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32"><path d="M32 16c0-8.837-7.163-16-16-16C7.164 0 0 7.163 0 16s7.164 16 16 16c8.837 0 16-7.163 16-16" fill="#fff"></path><path d="M17.347 25.346v-9.09h2.55l.33-3.21h-2.88v-1.888c0-.71.47-.874.802-.874h2.03V7.167l-2.798-.01c-3.106 0-3.812 2.324-3.812 3.81v2.08h-1.796v3.21h1.796v9.09h3.777" fill="#292827"></path></svg></a></li>
-                <li><a href="https://www.twitter.com/whosampled" target="_blank" rel="nofollow" title="WhoSampled on Twitter"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32.000001" height="32" width="32"><path d="M32 16c0-8.837-7.163-16-16-16C7.164 0 0 7.163 0 16s7.164 16 16 16c8.837 0 16-7.163 16-16" fill="#fff"></path><path d="M26.25 10.486c-.682.303-1.418.508-2.19.6.788-.472 1.392-1.22 1.678-2.11-.738.437-1.555.754-2.423.925-.695-.74-1.687-1.203-2.783-1.203-2.107 0-3.815 1.707-3.815 3.813 0 .3.034.59.1.87-3.17-.16-5.982-1.677-7.86-3.985-.33.563-.518 1.218-.518 1.918 0 1.322.672 2.49 1.695 3.174-.625-.02-1.213-.19-1.727-.478v.048c0 1.847 1.316 3.39 3.058 3.74-.318.086-.656.134-1.004.134-.246 0-.484-.025-.716-.07.484 1.516 1.893 2.618 3.56 2.65-1.305 1.022-2.947 1.632-4.735 1.632-.307 0-.61-.018-.91-.053 1.69 1.083 3.693 1.715 5.847 1.715 7.016 0 10.852-5.812 10.852-10.852 0-.165-.004-.33-.012-.493.745-.538 1.392-1.21 1.902-1.974" fill="#292827"></path></svg></a></li>
-                <li><a href="https://www.youtube.com/whosampled" target="_blank" rel="nofollow" title="WhoSampled on YouTube"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32.000001"><path d="M32 16c0-8.837-7.163-16-16-16C7.164 0 0 7.163 0 16s7.164 16 16 16c8.837 0 16-7.163 16-16" fill="#fff"></path><path d="M15.26 8.412c0-.152.05-.276.152-.372.103-.093.236-.14.397-.14.176 0 .318.047.427.14.11.096.163.22.163.372v3.81c0 .188-.054.337-.16.443-.106.107-.25.16-.43.16-.176 0-.312-.048-.407-.157-.093-.106-.144-.253-.144-.445v-3.81zm.554 5.626c.606 0 1.08-.17 1.43-.51.343-.342.515-.81.515-1.41V8.506c0-.533-.177-.97-.527-1.308-.355-.34-.807-.508-1.358-.508-.607 0-1.09.158-1.45.48-.356.32-.537.75-.537 1.295v3.626c0 .595.176 1.068.524 1.42.35.352.82.528 1.402.528M22.094 19.586c-.183 0-.316.053-.395.16-.083.102-.12.276-.12.518v.583h1.02v-.583c0-.242-.042-.416-.122-.518-.078-.107-.21-.16-.384-.16M10.53 13.862h1.5V9.928l1.75-5.55h-1.527l-.93 3.792h-.094l-.976-3.793H8.74l1.79 5.727v3.758M19.773 13.964c.25 0 .508-.077.773-.225.268-.15.524-.368.768-.653v.775h1.336V6.865h-1.336v5.312c-.124.15-.26.276-.41.376-.15.097-.276.147-.373.147-.124 0-.216-.037-.27-.112-.054-.074-.087-.193-.087-.358V6.865H18.84v5.848c0 .417.08.73.236.935.157.21.388.316.697.316M18.117 19.567c-.082 0-.166.018-.245.055-.082.038-.16.097-.24.177v3.595c.093.092.187.166.275.206.088.04.182.063.28.063.14 0 .244-.042.31-.124.066-.083.1-.214.1-.398v-2.98c0-.197-.04-.344-.122-.445-.084-.1-.205-.15-.358-.15" fill="#292827"></path><path d="M23.786 21.746H21.58v1.086c0 .304.036.515.112.633.077.117.206.176.39.176.193 0 .326-.05.403-.15.074-.1.114-.318.114-.658v-.262h1.186v.296c0 .59-.143 1.037-.437 1.34-.287.295-.72.444-1.294.444-.516 0-.923-.157-1.22-.477-.296-.313-.446-.75-.446-1.307v-2.593c0-.498.163-.91.49-1.224.327-.315.746-.473 1.262-.473.53 0 .936.147 1.218.438.285.292.426.71.426 1.258v1.473zm-4 1.556c0 .406-.09.72-.274.938-.18.22-.44.325-.782.325-.227 0-.427-.04-.602-.124-.178-.082-.346-.212-.496-.39v.443h-1.166V16.67h1.166v2.518c.157-.173.322-.308.496-.4.175-.093.353-.136.532-.136.367 0 .644.12.837.367.193.244.288.606.288 1.078v3.204zm-4.186 1.19h-1.154v-.632c-.213.233-.434.412-.665.533-.23.125-.454.184-.67.184-.268 0-.466-.084-.602-.26-.136-.17-.202-.426-.202-.772V18.72h1.154v4.428c0 .136.023.235.07.295.05.064.13.092.237.092.082 0 .192-.04.322-.12.13-.08.247-.185.356-.31V18.72H15.6v5.773zm-3.8-6.685h-1.347v6.686h-1.3v-6.686H7.808V16.67h3.99v1.137zM23.23 15.2H8.758c-2.3 0-4.165 1.866-4.165 4.166v3.35c0 2.3 1.865 4.165 4.165 4.165H23.23c2.3 0 4.166-1.865 4.166-4.164v-3.35c0-2.3-1.866-4.166-4.165-4.166" fill="#292827"></path></svg></a></li>
-                <li><a href="https://www.instagram.com/whosampled/" target="_blank" rel="nofollow" title="WhoSampled on Instagram"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32.000001" height="32" width="32"><path d="M32 16c0-8.837-7.163-16-16-16C7.164 0 0 7.163 0 16s7.164 16 16 16c8.837 0 16-7.163 16-16" fill="#fff"></path><path d="M16 7.156c-2.4 0-2.703.01-3.646.053-.94.042-1.584.192-2.147.41-.582.226-1.075.53-1.566 1.02-.49.492-.793.985-1.02 1.567-.218.562-.368 1.205-.41 2.147-.044.943-.053 1.244-.053 3.646s.01 2.703.052 3.646c.042.942.192 1.585.41 2.147.227.582.53 1.075 1.02 1.567.492.49.985.794 1.567 1.02.563.218 1.206.368 2.147.41.943.044 1.245.054 3.646.054 2.403 0 2.704-.01 3.647-.053.94-.042 1.584-.192 2.146-.41.582-.226 1.076-.53 1.567-1.02.492-.492.795-.985 1.02-1.567.22-.562.368-1.205.41-2.147.044-.943.054-1.244.054-3.646s-.01-2.703-.053-3.646c-.042-.942-.19-1.585-.41-2.147-.225-.582-.528-1.075-1.02-1.567-.49-.49-.985-.794-1.567-1.02-.562-.218-1.205-.368-2.146-.41-.943-.044-1.244-.054-3.647-.054zm0 1.593c2.362 0 2.642.008 3.575.05.862.04 1.33.185 1.64.306.414.16.71.352 1.02.66.308.31.5.605.66 1.018.12.31.266.78.305 1.642.042.933.05 1.212.05 3.574s-.008 2.64-.05 3.574c-.04.862-.184 1.33-.305 1.642-.16.413-.352.708-.66 1.017-.31.31-.606.5-1.02.66-.31.123-.778.267-1.64.306-.933.04-1.213.05-3.575.05-2.36 0-2.64-.01-3.573-.05-.862-.04-1.33-.184-1.642-.306-.413-.16-.707-.352-1.017-.66-.31-.31-.502-.605-.662-1.018-.12-.312-.265-.78-.305-1.642-.04-.933-.05-1.212-.05-3.574s.01-2.64.05-3.574c.04-.862.185-1.33.306-1.642.16-.413.352-.708.662-1.017.31-.31.604-.5 1.017-.66.31-.122.78-.266 1.642-.306.933-.042 1.212-.05 3.573-.05" fill="#292827"></path><path d="M16 18.948c-1.627 0-2.948-1.32-2.948-2.948s1.32-2.948 2.948-2.948 2.95 1.32 2.95 2.948-1.322 2.948-2.95 2.948zm0-7.49c-2.507 0-4.54 2.034-4.54 4.542s2.033 4.542 4.54 4.542c2.51 0 4.542-2.034 4.542-4.542S18.51 11.458 16 11.458M21.783 11.28c0 .585-.475 1.06-1.062 1.06-.585 0-1.06-.475-1.06-1.06 0-.587.475-1.063 1.06-1.063.588 0 1.063.476 1.063 1.062" fill="#292827"></path></svg></a></li>
-                <li><a href="https://www.mixcloud.com/whosampled/" target="_blank" rel="nofollow" title="WhoSampled on Mixcloud"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32.000001" height="32" width="32"><path d="M32 16c0-8.837-7.163-16-16-16C7.164 0 0 7.163 0 16s7.164 16 16 16c8.837 0 16-7.163 16-16" fill="#fff"></path><path d="M26.043 22.013c-.138 0-.278-.04-.403-.122-.333-.222-.422-.674-.198-1.007.67-1 1.024-2.17 1.024-3.386 0-1.216-.354-2.387-1.024-3.387-.224-.332-.135-.784.198-1.007.333-.223.784-.134 1.007.198.83 1.242 1.27 2.692 1.27 4.197 0 1.504-.44 2.955-1.27 4.195-.14.21-.37.32-.604.32" fill="#292827"></path><path d="M23.967 20.835c-.14 0-.28-.04-.406-.125-.33-.225-.417-.677-.192-1.01.442-.65.675-1.413.675-2.203 0-.79-.234-1.552-.675-2.206-.225-.33-.138-.782.194-1.007.332-.225.783-.137 1.008.195.605.894.925 1.938.925 3.02 0 1.08-.32 2.124-.926 3.018-.14.207-.37.32-.603.32M19.875 19.284H9.957c-1.335 0-2.42-1.083-2.42-2.415 0-1.333 1.085-2.417 2.42-2.417.648 0 1.256.25 1.712.708.284.285.743.285 1.027 0 .283-.282.283-.742 0-1.026-.5-.5-1.115-.84-1.783-1.01.69-1.514 2.218-2.524 3.925-2.524 2.376 0 4.31 1.93 4.31 4.303 0 .462-.073.915-.216 1.347-.127.38.08.792.46.918.075.025.152.037.23.037.303 0 .586-.193.687-.498.096-.285.167-.577.215-.874.668.26 1.142.907 1.142 1.664 0 .985-.803 1.787-1.792 1.787zm.698-4.95c-.286-2.907-2.748-5.186-5.734-5.186-2.474 0-4.664 1.588-5.452 3.9-1.866.276-3.305 1.882-3.305 3.82 0 2.133 1.74 3.868 3.874 3.868h9.918c1.79 0 3.245-1.453 3.245-3.24 0-1.546-1.093-2.84-2.547-3.16" fill="#292827"></path></svg></a></li>
+                <li><a href="https://www.facebook.com/whosampled" target="_blank" rel="noopener nofollow" title="WhoSampled on Facebook"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32"><path d="M32 16c0-8.837-7.163-16-16-16C7.164 0 0 7.163 0 16s7.164 16 16 16c8.837 0 16-7.163 16-16" fill="#fff"></path><path d="M17.347 25.346v-9.09h2.55l.33-3.21h-2.88v-1.888c0-.71.47-.874.802-.874h2.03V7.167l-2.798-.01c-3.106 0-3.812 2.324-3.812 3.81v2.08h-1.796v3.21h1.796v9.09h3.777" fill="#292827"></path></svg></a></li>
+                <li><a href="https://www.twitter.com/whosampled" target="_blank" rel="noopener nofollow" title="WhoSampled on Twitter"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32.000001" height="32" width="32"><path d="M32 16c0-8.837-7.163-16-16-16C7.164 0 0 7.163 0 16s7.164 16 16 16c8.837 0 16-7.163 16-16" fill="#fff"></path><path d="M26.25 10.486c-.682.303-1.418.508-2.19.6.788-.472 1.392-1.22 1.678-2.11-.738.437-1.555.754-2.423.925-.695-.74-1.687-1.203-2.783-1.203-2.107 0-3.815 1.707-3.815 3.813 0 .3.034.59.1.87-3.17-.16-5.982-1.677-7.86-3.985-.33.563-.518 1.218-.518 1.918 0 1.322.672 2.49 1.695 3.174-.625-.02-1.213-.19-1.727-.478v.048c0 1.847 1.316 3.39 3.058 3.74-.318.086-.656.134-1.004.134-.246 0-.484-.025-.716-.07.484 1.516 1.893 2.618 3.56 2.65-1.305 1.022-2.947 1.632-4.735 1.632-.307 0-.61-.018-.91-.053 1.69 1.083 3.693 1.715 5.847 1.715 7.016 0 10.852-5.812 10.852-10.852 0-.165-.004-.33-.012-.493.745-.538 1.392-1.21 1.902-1.974" fill="#292827"></path></svg></a></li>
+                <li><a href="https://www.youtube.com/whosampled" target="_blank" rel="noopener nofollow" title="WhoSampled on YouTube"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32.000001"><path d="M32 16c0-8.837-7.163-16-16-16C7.164 0 0 7.163 0 16s7.164 16 16 16c8.837 0 16-7.163 16-16" fill="#fff"></path><path d="M15.26 8.412c0-.152.05-.276.152-.372.103-.093.236-.14.397-.14.176 0 .318.047.427.14.11.096.163.22.163.372v3.81c0 .188-.054.337-.16.443-.106.107-.25.16-.43.16-.176 0-.312-.048-.407-.157-.093-.106-.144-.253-.144-.445v-3.81zm.554 5.626c.606 0 1.08-.17 1.43-.51.343-.342.515-.81.515-1.41V8.506c0-.533-.177-.97-.527-1.308-.355-.34-.807-.508-1.358-.508-.607 0-1.09.158-1.45.48-.356.32-.537.75-.537 1.295v3.626c0 .595.176 1.068.524 1.42.35.352.82.528 1.402.528M22.094 19.586c-.183 0-.316.053-.395.16-.083.102-.12.276-.12.518v.583h1.02v-.583c0-.242-.042-.416-.122-.518-.078-.107-.21-.16-.384-.16M10.53 13.862h1.5V9.928l1.75-5.55h-1.527l-.93 3.792h-.094l-.976-3.793H8.74l1.79 5.727v3.758M19.773 13.964c.25 0 .508-.077.773-.225.268-.15.524-.368.768-.653v.775h1.336V6.865h-1.336v5.312c-.124.15-.26.276-.41.376-.15.097-.276.147-.373.147-.124 0-.216-.037-.27-.112-.054-.074-.087-.193-.087-.358V6.865H18.84v5.848c0 .417.08.73.236.935.157.21.388.316.697.316M18.117 19.567c-.082 0-.166.018-.245.055-.082.038-.16.097-.24.177v3.595c.093.092.187.166.275.206.088.04.182.063.28.063.14 0 .244-.042.31-.124.066-.083.1-.214.1-.398v-2.98c0-.197-.04-.344-.122-.445-.084-.1-.205-.15-.358-.15" fill="#292827"></path><path d="M23.786 21.746H21.58v1.086c0 .304.036.515.112.633.077.117.206.176.39.176.193 0 .326-.05.403-.15.074-.1.114-.318.114-.658v-.262h1.186v.296c0 .59-.143 1.037-.437 1.34-.287.295-.72.444-1.294.444-.516 0-.923-.157-1.22-.477-.296-.313-.446-.75-.446-1.307v-2.593c0-.498.163-.91.49-1.224.327-.315.746-.473 1.262-.473.53 0 .936.147 1.218.438.285.292.426.71.426 1.258v1.473zm-4 1.556c0 .406-.09.72-.274.938-.18.22-.44.325-.782.325-.227 0-.427-.04-.602-.124-.178-.082-.346-.212-.496-.39v.443h-1.166V16.67h1.166v2.518c.157-.173.322-.308.496-.4.175-.093.353-.136.532-.136.367 0 .644.12.837.367.193.244.288.606.288 1.078v3.204zm-4.186 1.19h-1.154v-.632c-.213.233-.434.412-.665.533-.23.125-.454.184-.67.184-.268 0-.466-.084-.602-.26-.136-.17-.202-.426-.202-.772V18.72h1.154v4.428c0 .136.023.235.07.295.05.064.13.092.237.092.082 0 .192-.04.322-.12.13-.08.247-.185.356-.31V18.72H15.6v5.773zm-3.8-6.685h-1.347v6.686h-1.3v-6.686H7.808V16.67h3.99v1.137zM23.23 15.2H8.758c-2.3 0-4.165 1.866-4.165 4.166v3.35c0 2.3 1.865 4.165 4.165 4.165H23.23c2.3 0 4.166-1.865 4.166-4.164v-3.35c0-2.3-1.866-4.166-4.165-4.166" fill="#292827"></path></svg></a></li>
+                <li><a href="https://www.instagram.com/whosampled/" target="_blank" rel="noopener nofollow" title="WhoSampled on Instagram"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32.000001" height="32" width="32"><path d="M32 16c0-8.837-7.163-16-16-16C7.164 0 0 7.163 0 16s7.164 16 16 16c8.837 0 16-7.163 16-16" fill="#fff"></path><path d="M16 7.156c-2.4 0-2.703.01-3.646.053-.94.042-1.584.192-2.147.41-.582.226-1.075.53-1.566 1.02-.49.492-.793.985-1.02 1.567-.218.562-.368 1.205-.41 2.147-.044.943-.053 1.244-.053 3.646s.01 2.703.052 3.646c.042.942.192 1.585.41 2.147.227.582.53 1.075 1.02 1.567.492.49.985.794 1.567 1.02.563.218 1.206.368 2.147.41.943.044 1.245.054 3.646.054 2.403 0 2.704-.01 3.647-.053.94-.042 1.584-.192 2.146-.41.582-.226 1.076-.53 1.567-1.02.492-.492.795-.985 1.02-1.567.22-.562.368-1.205.41-2.147.044-.943.054-1.244.054-3.646s-.01-2.703-.053-3.646c-.042-.942-.19-1.585-.41-2.147-.225-.582-.528-1.075-1.02-1.567-.49-.49-.985-.794-1.567-1.02-.562-.218-1.205-.368-2.146-.41-.943-.044-1.244-.054-3.647-.054zm0 1.593c2.362 0 2.642.008 3.575.05.862.04 1.33.185 1.64.306.414.16.71.352 1.02.66.308.31.5.605.66 1.018.12.31.266.78.305 1.642.042.933.05 1.212.05 3.574s-.008 2.64-.05 3.574c-.04.862-.184 1.33-.305 1.642-.16.413-.352.708-.66 1.017-.31.31-.606.5-1.02.66-.31.123-.778.267-1.64.306-.933.04-1.213.05-3.575.05-2.36 0-2.64-.01-3.573-.05-.862-.04-1.33-.184-1.642-.306-.413-.16-.707-.352-1.017-.66-.31-.31-.502-.605-.662-1.018-.12-.312-.265-.78-.305-1.642-.04-.933-.05-1.212-.05-3.574s.01-2.64.05-3.574c.04-.862.185-1.33.306-1.642.16-.413.352-.708.662-1.017.31-.31.604-.5 1.017-.66.31-.122.78-.266 1.642-.306.933-.042 1.212-.05 3.573-.05" fill="#292827"></path><path d="M16 18.948c-1.627 0-2.948-1.32-2.948-2.948s1.32-2.948 2.948-2.948 2.95 1.32 2.95 2.948-1.322 2.948-2.95 2.948zm0-7.49c-2.507 0-4.54 2.034-4.54 4.542s2.033 4.542 4.54 4.542c2.51 0 4.542-2.034 4.542-4.542S18.51 11.458 16 11.458M21.783 11.28c0 .585-.475 1.06-1.062 1.06-.585 0-1.06-.475-1.06-1.06 0-.587.475-1.063 1.06-1.063.588 0 1.063.476 1.063 1.062" fill="#292827"></path></svg></a></li>
+                <li><a href="https://www.mixcloud.com/whosampled/" target="_blank" rel="noopener nofollow" title="WhoSampled on Mixcloud"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32.000001" height="32" width="32"><path d="M32 16c0-8.837-7.163-16-16-16C7.164 0 0 7.163 0 16s7.164 16 16 16c8.837 0 16-7.163 16-16" fill="#fff"></path><path d="M26.043 22.013c-.138 0-.278-.04-.403-.122-.333-.222-.422-.674-.198-1.007.67-1 1.024-2.17 1.024-3.386 0-1.216-.354-2.387-1.024-3.387-.224-.332-.135-.784.198-1.007.333-.223.784-.134 1.007.198.83 1.242 1.27 2.692 1.27 4.197 0 1.504-.44 2.955-1.27 4.195-.14.21-.37.32-.604.32" fill="#292827"></path><path d="M23.967 20.835c-.14 0-.28-.04-.406-.125-.33-.225-.417-.677-.192-1.01.442-.65.675-1.413.675-2.203 0-.79-.234-1.552-.675-2.206-.225-.33-.138-.782.194-1.007.332-.225.783-.137 1.008.195.605.894.925 1.938.925 3.02 0 1.08-.32 2.124-.926 3.018-.14.207-.37.32-.603.32M19.875 19.284H9.957c-1.335 0-2.42-1.083-2.42-2.415 0-1.333 1.085-2.417 2.42-2.417.648 0 1.256.25 1.712.708.284.285.743.285 1.027 0 .283-.282.283-.742 0-1.026-.5-.5-1.115-.84-1.783-1.01.69-1.514 2.218-2.524 3.925-2.524 2.376 0 4.31 1.93 4.31 4.303 0 .462-.073.915-.216 1.347-.127.38.08.792.46.918.075.025.152.037.23.037.303 0 .586-.193.687-.498.096-.285.167-.577.215-.874.668.26 1.142.907 1.142 1.664 0 .985-.803 1.787-1.792 1.787zm.698-4.95c-.286-2.907-2.748-5.186-5.734-5.186-2.474 0-4.664 1.588-5.452 3.9-1.866.276-3.305 1.882-3.305 3.82 0 2.133 1.74 3.868 3.874 3.868h9.918c1.79 0 3.245-1.453 3.245-3.24 0-1.546-1.093-2.84-2.547-3.16" fill="#292827"></path></svg></a></li>
               </ul>
             </section>
 
             <section class="footerPartners footer-section">
               <span class="footer-title">Partners</span>
               <ul>
-                <li><a href="/metadata/" target="_blank">Metadata / API</a></li>
-                <li><a href="/metadata/#customers" target="_blank">Customers</a></li>
+                <li><a href="/metadata/" target="_blank" rel="noopener">Metadata / API</a></li>
+                <li><a href="/metadata/#customers" target="_blank" rel="noopener">Customers</a></li>
                 <li><a href="/apps/">App Gallery</a></li>
               </ul>
             </section>
@@ -513,7 +447,7 @@ Last updated: June 4, 2018
 
     </div>
 
-    <script src="/static/js/main.js?211315280318"></script>
+    <script src="/static/js/main.js?381116100818"></script>
 
     
 
@@ -566,108 +500,6 @@ Last updated: June 4, 2018
     <iframe name="__cmpLocator" style="display: none;"></iframe><script>
       
         
-          (function () {
-            // Ad blocking message is only shown if GDPR overlay is not shown.
-
-            // Consent Management Provider JavaScript API documentation:
-            // https://github.com/InteractiveAdvertisingBureau/GDPR-Transparency-and-Consent-Framework/blob/master/CMP%20JS%20API%20v1.1%20Final.md
-            window.__cmp('getPublisherConsents', null, GDPRConsentHandler);
-
-            function GDPRConsentHandler(publisherConsents, success) {
-              // If the overlay was previously shown, this callback (GDPRConsentHandler)
-              // will run inmediately, before the browser triggers the 'load'
-              // event, so we can still attach a handler to that event.
-              //
-              // If the overlay was not previously shown, the 'load' event will
-              // trigger before this handler is run, which only happens after
-              // the user closes the overlay, so the 'load' handler will no run.
-              window.addEventListener('load', detectAdBlocker);
-            }
-
-            function detectAdBlocker() {
-              window.setTimeout(_detectAdBlocker, 10000);
-            }
-
-            function _detectAdBlocker() {
-              var isTopAdBlocked,
-                  isSideAdBlocked,
-                  isAdsBlocked,
-                  isDetected,
-                  isMobile,
-                  eventCategory,
-                  topAd,
-                  sideAd;
-
-              isMobile = /Mobile|iP(hone|od|ad)|Android|BlackBerry|IEMobile|Kindle|NetFront|Silk-Accelerated|(hpw|web)OS|Fennec|Minimo|Opera M(obi|ini)|Blazer|Dolfin|Dolphin|Skyfire|Zune/i.test(navigator.userAgent);
-
-              if (isMobile) {
-                eventCategory = 'Adblock-Mobile';
-              } else {
-                eventCategory = 'Adblock';
-              }
-
-              isAdsBlocked = false;
-
-              topAd = document.querySelector('#cmn_ad_tag_head');
-              sideAd = document.querySelector('#side-ad-tag');
-
-              if (topAd === null) {
-                isTopAdBlocked = false;
-              } else {
-                isTopAdBlocked = isAdLayoutEmpty(topAd);
-              }
-
-              if (sideAd === null) {
-                isSideAdBlocked = true;  // side ads are not in all pages
-              } else {
-                isSideAdBlocked = isAdLayoutEmpty(sideAd);
-              }
-
-              isAdsBlocked = isTopAdBlocked && isSideAdBlocked;
-              isDetected = isAdsBlocked;
-
-              if (isDetected) {
-                showAdBlockerOverlay();
-                
-                  ga('send', 'event', eventCategory, 'Blocked', 'false', {'nonInteraction': true});
-                
-              } else {
-                
-                  ga('send', 'event', eventCategory, 'Unblocked', 'false', {'nonInteraction' : true});
-                
-              }
-            }
-
-            function isAdLayoutEmpty(el) {
-              var ads, adsStyles, isDetected;
-
-              isDetected = false;
-
-              
-                ads = el;
-              
-
-              if (ads !== null) {
-                if (ads.offsetParent === null ||
-                    ads.offsetHeight === 0 ||
-                    ads.offsetWidth === 0 ||
-                    ads.clientHeight === 0 ||
-                    ads.clientWidth === 0) {
-                  isDetected = true;
-                } else {
-                  adsStyles = window.getComputedStyle(ads, null);
-
-                  if (adsStyles && (adsStyles.getPropertyValue('display') === 'none' ||
-                                    adsStyles.getPropertyValue('visibility') === 'hidden')) {
-                    isDetected = true;
-                  }
-                }
-              }
-
-              return isDetected;
-            }
-          }());
-        
       
 
       // Dropdown menus
@@ -687,8 +519,6 @@ Last updated: June 4, 2018
         $('#top-menu-dropdown').removeClass('open');
       });
     </script>
-
-    
 
     
     <!-- cmnUNT | Begin footer script -->
