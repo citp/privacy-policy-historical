@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the befonts.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630124111id_/https%3A//befonts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the befonts.com privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025102014id_/https%3A//befonts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Befonts - Download free fonts
 
@@ -9,7 +9,3 @@ When we place links or advertising banners to other sites from our website, plea
 We use the highest security standard available to protect your personally identifiable information while it is in transit to us. All data stored on our servers is protected by a secure ‘firewall’ so that no unauthorized use or activity can take place. Although we will make every effort to safeguard your personal information from loss, misuse or alteration by third parties, you should be aware that there is always some risk that thieves may find a way to thwart our security system or that transmissions over the Internet will be intercepted.
 
 We may, from time to time, amend our Privacy Policy. We reserve the right, at our discretion, to change, modify, add or remove portions of our Privacy Policy at any time and from time to time. These changes will be posted for general public view. When you visit our website, you agree to all terms of our privacy policy and our disclaimer. Your continued use of this website constitutes your continued agreement to these terms. If you do not agree with the terms of our Privacy Policy, you should cease using our website.
-
-Privacy Policy
-
-3 (3) votes 
