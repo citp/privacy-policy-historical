@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the edcite.com privacy policy that was archived on 2018-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180117164240id_/https%3A//www.edcite.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edcite.com privacy policy that was archived on 2018-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181026031009id_/https%3A//www.edcite.com/help/privacy.html) for the most accurate reproduction.*
 
-# Privacy - Edcite
+# Privacy Policy | Edcite
 
-At Edcite Inc., we respect your need for online privacy and protect any Personal Information that you may share with us, in an appropriate manner. Our practice as regards use of your Personal Information is as set forth below in this Privacy Policy Statement. As a condition to use of Edcite Services, you consent to the terms of the Privacy Policy Statement as it may be updated from time to time. In the event of a material change, we shall notify you via email or by means of a prominent notice on the website. This Privacy Policy Statement applies exclusively to www.edcite.com.
+At Edcite Inc., we respect your need for online privacy and protect any Personal Information that you may share with us, in an appropriate manner. Our practice as regards use of your Personal Information is as set forth below in this Privacy Policy Statement. As a condition to use of Edcite Services, you consent to the terms of the Privacy Policy Statement as it may be updated from time to time. In the event of a material change, we shall notify you via email or by means of a prominent notice on the website. This Privacy Policy Statement applies exclusively to www.edcite.com. 
 
 Edcite Inc. complies with the provisions of the U.S-E.U Safe Harbor framework as set forth by the United States Department of Commerce, with regards to the collection, use and storage of Personal Information received from the European Union. For more information about the U.S-E.U Safe Harbor framework click [here. ](http://export.gov/safeharbor/)
 
