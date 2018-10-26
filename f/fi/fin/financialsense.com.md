@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the financialsense.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001103739id_/https%3A//www.financialsense.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialsense.com privacy policy that was archived on 2018-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181026061508id_/https%3A//www.financialsense.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FINANCIAL SENSE
 
 ## Financial Sense® Website Privacy Statement
 
-This document was last updated on 5 June 2012.
+This document was last updated on 25 May 2018.
 
 ### 1\. Acknowledgment and acceptance of terms
 
-Financial Sense® and its parent company, Puplava Financial Services, Inc. (See [Privacy Policy](https://www.puplava.com/sites/default/files/PDF/privacypolicy/PSI_PrivacyPolicy_AML_20170407.pdf)), are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing [www.financialsense.com](https://web.archive.org/home "Financial Sense") ("Website"), you acknowledge and fully understand FS's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+Financial Sense® and its parent company, Financial Sense® Advisors, Inc. (See [Privacy Policy](https://www.puplava.com/sites/default/files/PDF/privacypolicy/PSI_PrivacyPolicy_AML_20171101.pdf)), are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing [www.financialsense.com](https://web.archive.org/home "Financial Sense") ("Website"), you acknowledge and fully understand FS's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
 ### 2\. Participating Merchant Policies/Outside or Third-Party Links
 
@@ -18,7 +18,7 @@ Related services and offerings linked to from these website, including vendor si
 
 FS collects certain information from and about its users four ways: directly from our Web Server logs, the user, with Cookies, and from third-party payment or download processing services. We may use cookies and other tracking technologies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-#### a.      Web Server Logs
+#### a. Web Server Logs
 
 When you visit our website, we may track information to administer the site and analyze its usage. FS may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
@@ -28,16 +28,16 @@ Examples of non-personally identifiable information we may track include, but ar
   * Your Internet connection type or speed.
   * The kind of browser or computer you use.
   * The size of monitor you use.
-  * Number of links you click within the site.
+  * The number of links you click within the site.
   * State or country from which you accessed the site.
   * Date and time of your visit.
   * Name of your Internet service provider.
-  * Web page you linked to our site from.
-  * Web page you went to upon leaving our site.
+  * The web page you linked to our site from.
+  * The web page you went to upon leaving our site.
   * Pages you viewed on the site.
   * Time spent on the site.
   * Language in which you viewed the site.
-  * Number of times you have visited the site.
+  * The number of times you have visited the site.
 
 
 
@@ -63,9 +63,9 @@ FS's advertiser, aggregator, or affiliate relationships may involve the use of c
 
 #### c. Personal Information Users
 
-You may be asked to disclose personal information to us so that we can provide services, assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting, or to respond to comments on the website' content or features.
+You may be asked to disclose personal information to us so that we can provide services, assistance, and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting or to respond to comments on the website' content or features.
 
-Visitors to our website can also register to contribute Content ("Contributors"). When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, credentials, and other relevant information. At the time of registration, Contributors will determine how much of their contact information they would like to be visible to the website' visitors. FS assumes no liability for any Contributor's decision to make certain personal information public. Although we encourage Contributors to use their real names, this public information may include an "alias" rather than a contributor's real name. Regardless of what contact or personal information a Contributor chooses to make public, or whether or not a Contributor chooses to use an alias, FS must be provided with accurate and up-to-date contact information, which may include, but is not limited to, the Contributor's real name, legal address, phone number, and email address.
+Visitors to our website can also register to contribute Content ("Contributors"). When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, credentials, and other relevant information. At the time of registration, Contributors will determine how much of their contact information they would like to be visible to the website' visitors. FS assumes no liability for any Contributor's decision to make the certain personal information public. Although we encourage Contributors to use their real names, this public information may include an "alias" rather than a contributor's real name. Regardless of what contact or personal information a Contributor chooses to make public, or whether or not a Contributor chooses to use an alias, FS must be provided with accurate and up-to-date contact information, which may include, but is not limited to, the Contributor's real name, legal address, phone number, and email address.
 
 Visitors and Contributors should be aware that communications received by FS that are directed to a specific Contributor will be forwarded to that contributor by FS.
 
@@ -73,12 +73,12 @@ After your initial contact with us, your personal information (name, address, ph
 
 ##### c.1. Protection of Personal Information Collected
 
-We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including: 
+We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
 
   * To fulfill your service requests for services,
   * To protect ourselves from liability,
-  * To respond to legal process or comply with law,
-  * To enforce and investigate possible violations of our website' policies, including [Contribution Guidelines](https://web.archive.org/web/20171001103739id_/https%3A//www.financialsense.com/about-us/about-us/contributors/guidelines "FSO Contribution Guidelines") and [Terms of Use](https://web.archive.org/about-us/terms-of-use "FSO Terms of Use"),
+  * To respond to legal process or comply with the law,
+  * To enforce and investigate possible violations of our website' policies
   * To investigate, protect against, and prevent technical issues, security issues, and/or fraud, or
   * In connection with a merger, acquisition, or liquidation of the company.
 
@@ -88,11 +88,11 @@ However, trusted third parties who assist us in operating our website, conductin
 
 We also implement a variety of security measures to maintain the safety of your personal information when you access your personal information.
 
-Non-public and public information collected on Contributors is inputted into our Database, and is only accessed by those authorized to view this information; we are required to keep the information confidential. Non-public information collected on Contributors is only shared with FS staff as needed, and is not released to the public.
+Non-public and public information collected on Contributors is inputted into our Database, and is only accessed by those authorized to view this information; we are required to keep the information confidential. Non-public information collected on Contributors is only shared with FS staff as needed and is not released to the public.
 
 #### d. Third Party Payment or Download Processing Services
 
-#### FS Content may be offered for purchase. We do not have direct control over the policies or practices of third party payment or download processing services, and we have no responsibility or liability for the content, privacy practices, or activities of these linked sites and/or vendors. We recommend and encourage that you always review the privacy policies of third parties before you provide any personal information or complete any transaction with such parties.
+FS Content may be offered for purchase. We do not have direct control over the policies or practices of third party payment or download processing services, and we have no responsibility or liability for the content, privacy practices, or activities of these linked sites and/or vendors. We recommend and encourage that you always review the privacy policies of third parties before you provide any personal information or complete any transaction with such parties.
 
 Third Party Payment or Download Processing Services may provide personal information about purchasers to FS. Use of and handling of this information is outlined in Section 3.c.
 
@@ -104,15 +104,15 @@ Some of these Web beacons may be placed by third party service providers to help
 
 ### 5\. Accessing/Updating Web Account Information (for Contributors)
 
-Contributors who wish to update their contact information with FS may do so by contacting the website' [webmaster](mailto:fswebmaster@financialsense.com "Cristofer Sheridan, Webmaster") directly. FS reserves the right to review and approve any updates to Contributor information before posting it to the website, and to refuse and/or deny to update information that does not comply with the terms of its [Privacy Statement](https://web.archive.org/about-us/privacy-policy "FSO Privacy Statement") or [Terms of Use ](https://web.archive.org/about-us/terms-of-use "FSO Terms of Use")Statement.
+Contributors who wish to update their contact information with FS may do so by contacting the website' [webmaster](mailto:fswebmaster@financialsense.com "Cristofer Sheridan, Webmaster") directly. FS reserves the right to review and approve any updates to Contributor information before posting it to the website, and to refuse and/or deny to update information that does not comply with the terms of its [Privacy Statement](https://web.archive.org/about-us/privacy-policy "FSO Privacy Statement") or [Terms of Use](https://web.archive.org/about-us/terms-of-use "FSO Terms of Use") Statement.
 
 ### 6.California Online Privacy Protection Act Compliance
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the [California Online Privacy Protection Act](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=bpc&group=22001-23000&file=22575-22579). We therefore will not distribute your personal information to outside parties without your consent or unless required by law.
+Because we value your privacy we have taken the necessary precautions to be in compliance with the [California Online Privacy Protection Act](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule). We therefore will not distribute your personal information to outside parties without your consent or unless required by law.
 
 ### 7\. Children's Online Privacy Protection Act Compliance
 
-We are in compliance with the requirements of COPPA ([Childrens Online Privacy Protection Act](http://www.coppa.org/)); we do not collect any personally identifiable information from anyone under 13 years of age. Our website, products and services are all directed toward people who are at least 18 years old or older.
+We are in compliance with the requirements of COPPA ([Children's Online Privacy Protection Act](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule)); we do not collect any personally identifiable information from anyone under 13 years of age. Our website, products and services are all directed toward people who are at least 18 years old or older.
 
 ### 8\. Terms of Use
 
@@ -127,8 +127,8 @@ FS has the discretion to occasionally update this privacy statement at any time 
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please [contact us](https://web.archive.org/contact-page "FS Contact Us") or send your comments to:
 
 Financial Sense   
-**Attention:   Privacy Statement Personnel  
-**PO Box 503147  
+**Attention: Privacy Statement Personnel  
+** PO Box 503147  
 San Diego, CA 92150-3147
 
 FS will use commercially reasonable efforts to promptly respond and resolve any problem or question.
