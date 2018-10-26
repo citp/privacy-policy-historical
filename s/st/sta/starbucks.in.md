@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starbucks.in privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628175734id_/http%3A//www.starbucks.in/card/learn-more/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.in privacy policy that was archived on 2018-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181026094839id_/http%3A//www.starbucks.in/card/learn-more/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Starbucks Coffee Company
 
