@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chumsearch.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920071142id_/http%3A//chumsearch.com/search/PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chumsearch.com privacy policy that was archived on 2018-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181026213722id_/http%3A//chumsearch.com/search/PRIVACY) for the most accurate reproduction.*
 
-# ChumSearch
+# Search
 
 
     
