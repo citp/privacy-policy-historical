@@ -1,79 +1,24 @@
-> *The following text is extracted and transformed from the paragon-software.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905201615id_/http%3A//www.paragon-software.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paragon-software.com privacy policy that was archived on 2018-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181026040215id_/https%3A//www.paragon-software.com/privacy) for the most accurate reproduction.*
 
-# PARAGON Software Group - Privacy Statement
+# Data Protection Policy |Paragon Software Group
 
-### Privacy Statement
+**a) When visiting our website**
 
-  
+When you visit our website www.paragon-software.com we automatically collect the information transmitted from your browser to our website and we temporarily store that information in a so-called logfile. In the course of this procedure, the following data is collected and stored, without any action on your part, until the time of automatic deletion: the IP address of the accessing computer, the date and time of access, the name and URL of the retrieved file, the website from which access is made (Referrer-URL), the browser used by you and, if necessary, the operating system of your computer as well as the name of your Internet Access Provider
 
+The purposes of processing any of the data mentioned above are as follows:
 
-When ordering online within Paragon Technologie GmbH, we guarantee that the information you submit will be 100% protected. All information including your name, address, phone and credit card number is kept safe by using government licensed SSL encryption technology. This state of the art software encrypts your transactions through a secure server for absolute safety. Your personal information cannot be read as it travels through the secure ordering system. To make this process even safer, we do not store your credit card information in our computer. Safeguards are also applied to every fax or mail order.
+• establishing a successful connection to our website,  
+• guaranteeing a convenient usability of our website,  
+• for reasons of system security and statistical evaluation  
+• and for other administrative purposes.
 
-  
+The legal bases of the processing of data is Article 6 (1)(1)(f) of the GDPR, legitimate interests resulting from the listed purposes of processing above. Under no circumstances, we will use the collected data to identify an individual. We use cookies and analytical services to automatically collect information about you when you visit our website. Further information on this can be found in sec. 4 and 5 of this privacy policy.
 
+**b) When subscribing to our newsletter**
 
-Paragon Technologie GmbH guarantees to keep confidential all the information you provide and items we discussed. We are committed to protecting your privacy and we will only use the information that we collect about you lawfully in accordance with German and European Data Protection Laws. We collect information about you for two reasons: first to process your order and second to provide you with the best possible service. We will not email you in the future unless you have given your consent. The type of information we will collect about you after submitting the order form includes: your name, address, phone number and email address. You can check the information hold by us about you by entering Paragon's Customer Service System at <https://www.paragon-software.com/login> using your password and login we sent to you. If you find any inaccuracies you will able to correct it promptly. We never pass on customer details to other companies or organisations for any purpose.
+After your expressly consent persuant to Article 6 (1)(1)(a) GDPR we will use your email address to provide you with our regular newsletter. An email address is sufficient to receive our newsletter. You may unsubscribe from the newsletter at any time by using the link at the end of each newsletter, or by telephone, by mail, or by email to dsba2018@paragon-software.com.
 
-  
+**c) When using our contact form**
 
-
-To insure that you are never charged for software that does not meet your requirements Paragon Technologie GmbH offers a 30 day money-back guarantee on all Paragon software applications. Guarantee period starts from the day you receive the software, not when we dispatch it. Similarly, you can cancel your order at any time prior to shipment, free of charge by contacting us at sales@paragon-software.com or by phone @ +49-761-59018-201 quoting the order reference number and we will provide a confirmation by email that your order has been cancelled. If you are dissatisfied in any way with your purchase and wish to refund it, please contact us at sales@paragon-software.com and we will immediately suspend the transaction and confirm the refund. All we ask you to do is to return the boxes in the original condition back to us and/or to remove the Paragon software from your system and confirm this by signing Paragon's "Letter of Intellectual Property Acknowledgment and Destruction". If you wish to return or cancel your order, we would welcome your comments so that we can try to improve our products and services to all our customers.
-
-  
-
-
-Your browser may save cookies while you are using our websites. Your use of our websites means that you agree to this procedure.
-
-**This is how we use cookies:**
-
-A cookie is a short text snippet which is sent to your browser by a website you have visited. It saves things information such as your last visit, your preferred language, or other settings. This will help you find your way around our website quicker and use it more effectively the next time you access it. Cookies play an important role. Surfing the net would be frustrating without them. Cookies can also be used to analyse website use on our pages. This helps us optimize our website and deliver the relevant content in a target-oriented manner.
-
-**This is how we don’t use cookies:**
-
-We do not use cookies on our websites to collect personal or personalizable data.
-
-**Cookie management**
-
-You can specify how cookies are to be processed by defining your cookie presets.
-
-The following steps might be different depending on the web browser version. Please check the instructions for your web browser.
-
-Chrome
-
-Click on the “Chrome” menu in the toolbar of your browser.  
-Choose your settings.  
-Click on “Show extended settings.”  
-Click “Content settings” in the “Data protection” section.  
-Select one of the cookie settings in the “Cookies” section:  
-Delete local data after closing the browser  
-Block local data saving for all websites  
-Allow local data saving  
-Keep local data and website data until browser is closed as standard  
-Exceptions for cookies and website data
-
-Mozilla Firefox
-
-Open Firefox and click on the Firefox menu in the toolbar of your browser.   
-Choose the privacy settings and activate “Use custom settings for history” in the history drop down menu.  
-Now you can control the cookie behavior of your browser with the following settings:  
-Check/uncheck “Accept cookies from sites” and then refine these settings in the “Accept third-party cookies” and the “Keep until:” drop down menu.
-
-Internet Explorer
-
-Click on “Extras” and select “Internet options.”  
-Click on the “Data protection” tab  
-Under “Settings,” move the slider upwards in order to block all cookies, or downward in order to accept all cookies.  
-Click “OK.”
-
-Safari 
-
-Choose Safari and Settings.  
-Click on data protection.  
-Go to the “Block cookies” and specify whether and when Safari should accept cookies from websites.   
-You can find explanations of the options by clicking “Help” (question mark).
-
-Note: Click “Details” to see which websites save cookies on your computer.  
-If you set Safari to block cookies, you may have to temporarily accept cookies in order to open certain webpages. Repeat the above-mentioned steps and click on “Never.” Once you’re finished, block the cookies from the page again and remove them. 
-
-  
-
+If you have any questions or concerns please contact us via our contact form on our website. Since we need to know from whom a request is coming and where to send an answer to, a valid email address is required. Further information is voluntary. When you contact us, we process your information, but only after your consent persuant to Article 6 (1)(1)(a) GDPR.
