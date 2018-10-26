@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statravel.co.uk privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510022215id_/http%3A//www.statravel.co.uk/general-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statravel.co.uk privacy policy that was archived on 2018-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181026082548id_/http%3A//www.statravel.co.uk/general-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | STA Travel
 
@@ -70,7 +70,7 @@ If it becomes apparent to us that a minor has requested marketing from us, we wi
 
 **Opting-in to marketing communications**
 
-When you opt-in to marketing communications we will ask you for the following personal details: name, email address, mobile phone number (not compulsory) and date of birth (not compulsory). This information is then used to, where you have opted-in to such communications, (i) email you newsletters and special offers and (ii) text you marketing messages (messages sent by STA Travel will be free unless a roaming charge is made by your network operator).
+When you opt-in to marketing communications we will ask you for the following personal details: email address, web tracking consent and your contact preferences. You will also be offered the opportunity to customise your email marketing communications (not compulsory). This information is then used to, where you have opted-in to such communications, (i) email you newsletters and special offers and (ii) text you marketing messages (messages sent by STA Travel will be free unless a roaming charge is made by your network operator). By opting-in to marketing communications you are agreeing to the personalised tracking of your interactions with our email marketing communications. Information collected includes but is not limited to: which emails you open and which links within the emails you click. The primary purpose of this tracking is for reporting on the performance of STA Travel’s email marketing communications. On occasion, and in the absence of a completed preference centre, we may use this data to personalise your email marketing communications. You have the ability to unsubscribe from the mailing list at any point through the unsubscribe link found in all email newsletters.
 
 **Booking with us**
 
@@ -123,6 +123,8 @@ We use third-party advertising companies to serve ads when you visit our Website
 If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, visit: <http://www.youronlinechoices.com/uk/your-ad-choices>.
 
 In exceptional circumstance, if we are sold or merged with another company we may disclose your information to a potential buyer, including your Personal Information and other information concerning your relationship with us, so that they can continue to provide the services you have requested.
+
+Data Protection Notice: Your personal data will be processed in accordance with the applicable carrier’s privacy policy and, if your booking is made via a reservation system provider (“GDS”), with its privacy policy. These are available at [http://www.iatatravelcenter.com/privacy](https://protect-eu.mimecast.com/s/uYF9C0R1nsJpoY1tW9yQJ?domain=iatatravelcenter.com) or from the carrier or GDS directly. You should read this documentation, which applies to your booking and specifies, for example, how your personal data is collected, stored, used, disclosed and transferred. (applicable for interline carriage).
 
 ## 10\. Cookies
 
