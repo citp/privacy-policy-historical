@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kpit.com privacy policy that was archived on 2016-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160831015844id_/http%3A//www.kpit.com/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpit.com privacy policy that was archived on 2018-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181026203140id_/https%3A//www.kpit.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # KPIT - Privacy Policy
 
@@ -24,7 +24,7 @@ We will make a sincere effort to respond in a timely manner to your requests to 
 
 **Cookies and other technologies**
 
-We sometimes collect anonymous information from visits to our sites to help us provide better customer service. For example, we keep track of the domains from which people visit and we also measure visitor activity on KPIT web sites, but we do so in ways that keep the information anonymous. KPIT or its affiliates or vendors may use this data to analyze trends and statistics and to help us provide better customer service. We maintain the highest levels of confidentiality for this information, our affiliates and vendors follow the same high levels of confidentiality. This anonymous information is used and analyzed only at an aggregate level to help us understand trends and patterns. None of this information is reviewed at an individual level. If you do not want your transaction details used in this manner, you can either disable your cookies or opt-out at the download or request page.
+We sometimes collect anonymous information from visits to our sites to help us provide better customer service. For example, we keep track of the domains from which people visit and we also measure visitor activity on KPIT web sites, but we do so in ways that keep the information anonymous. KPIT or its affiliates or vendors may use this data to analyze trends and statistics and to help us provide better customer service. We follow reasonable security practices to protect the information of the user and maintain the highest levels of confidentiality for this information, our affiliates and vendors follow the same high levels of confidentiality. This anonymous information is used and analyzed only at an aggregate level to help us understand trends and patterns. None of this information is reviewed at an individual level. If you do not want your transaction details used in this manner, you can either disable your cookies or opt-out at the download or request page.
 
 **Mailers**
 
