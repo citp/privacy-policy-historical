@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopster.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623180618id_/http%3A//www.loopster.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopster.com privacy policy that was archived on 2018-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181026084718id_/http%3A//www.loopster.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
