@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esoguru.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529195306id_/http%3A//en.esoguru.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esoguru.com privacy policy that was archived on 2018-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181026170757id_/http%3A//en.esoguru.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | ESOGURU
 
