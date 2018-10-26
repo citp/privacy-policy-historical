@@ -1,29 +1,55 @@
-> *The following text is extracted and transformed from the altaro.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725050615id_/https%3A//www.altaro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altaro.com privacy policy that was archived on 2018-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181026123433id_/https%3A//www.altaro.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Altaro
 
-ALTARO LTD, a limited liability company organized and existing under the laws of Malta with registration number C46477and having registered office address at ‘Altaro’, Kalkara Tal-Gir Street, Mriehel, Birkirkara, BKR 3000, Malta (“Altaro”) are committed to protecting and respecting your privacy. 
+ALTARO LTD (the controller), is a limited liability company organised and existing under the Laws of Malta with registration number C46477 and having a registered office address at: 
 
-### What information do we collect from you?
+'Altaro',  
+Block LS3 – Level 1,   
+Life Sciences Park,   
+San Gwann Industrial Estate,   
+San Gwann,   
+SGN 3000,   
+Malta. 
 
-  * Personal information you give us
+Altaro are committed to protecting and respecting your privacy.
 
-When ordering or registering on our site or in order to use certain site features, you may be asked to enter your personal details including your name, e-mail address, residence, phone number and your financial details in order for us to provide you with the services offered by this site and to enable you to report a problem with the site. Save for such circumstances described, you may still visit our site anonymously. 
+### What is personal data and what are special categories of data?
+
+Under the EU’s General Data Protection Regulation (GDPR) personal data is defined as: 
+
+_“any information relating to an identified or identifiable natural person ('data subject'); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person”._
+
+The GDPR provides that special categories of data relate to the _“processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation”_. 
+
+### What personal data do we collect?
+
+Altaro do **_not_** collect any special categories of personal data. 
+
+Our websites and informational and marketing materials are intended for use by business users. Business contact information and online usage data is collected through the following channels:
+
+  * Information given directly by you
+
+When ordering or registering on our site or in order to use certain site features, you may be asked to enter your business contact details including your company name and/or website, full name, business e-mail address, corporate postal address and business phone number, in order for us to provide you with the services offered by this site and to enable you to report a problem with the site. Save for such circumstances described, you may visit our site anonymously.
+
+  * Information we obtain from third parties
+
+When ordering our products or services from our business partners, distributors, resellers and/or agents your company name and/or website, full name, business email address, corporate postal address and business phone number will also be provided to us, for us to be able to provide you with the products and services required. 
 
   * Information we obtain
 
-We obtain your IP address and login information such as the date and time when you accessed our website as well as your navigation history in the site. We may also obtain the domain name and operating system of the computer with which you access our site as well as the type of browser you use. This information is automatically processed and only as necessary in order to enable us to carry out your requests and to be able to provide you with the services you require. 
-
-  * Information from other sources
-
-We may receive information about you if you use any of the other websites we operate or any other services we provide. In such cases you would be informed that data collected may be shared internally and combined with data collected on this, or other, sites operated by us. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them. 
+We also keep track of your corporate IP address and login information such as the date and time when you accessed our website as well as your navigation history in our site. We may also obtain the domain name and operating system of the computer with which you access our site as well as the type of browser you use. This information is automatically processed and obtained through the use of Cookies, and only as necessary in order to enable us to carry out your requests and to be able to provide you with the services you require. For more information on what Cookies are, and what they do, please refer to our [Cookies Policy](https://web.archive.org/cookies.php). 
 
 
 
 
-### What do we use your information for?
+### Why do we process the data?
 
-Any of the information that you provide to us, we collect from you or that we collect from other sources may be used in one of the following ways: 
+Altaro will process (collect, store and use) the information you provide in a manner compatible with the EU’s General Data Protection Regulation (GDPR). This privacy notice tells you how we, Altaro Limited, will collect and use your business contact information and related data. 
+
+The information that you provide to us, we collect from you, or that we collect from other sources is primarily used to provide you with the products and services you are requesting and hence for us to fulfil our obligations and process the sale transaction to which you are party to. 
+
+Moreover, we may collect information from you through the use of Cookies to enable us:
 
   * To personalize your experience.  
 (your information helps us to better respond to your individual needs). 
@@ -31,109 +57,146 @@ Any of the information that you provide to us, we collect from you or that we co
 (we continually strive to improve our website offerings based on the information and feedback we receive from you). 
   * To improve customer service.  
 (Your information helps us to more effectively respond to your customer service requests and support needs). 
-  * To process transactions
-  * To provide you with the services you are requesting.
 
 
 
-You can contact us at: [info@altaro.com](mailto:info@altaro.com) if you wish to be informed as to how the data we collect from you is processed, why we require this data as well as to whom the data is disclosed. We will send you the requested details as soon as possible free of charge. Please note that your data is only retained by us for as long as it is necessary for the purpose for which it was collected. 
+For more information on what Cookies are, and what they do, please refer to our [Cookies Policy](https://web.archive.org/cookies.php). 
 
-By using our website and agreeing to our privacy policy you hereby consent that your personal information may be used to improve our website as well as to improve our customer service by enabling us to respond to your customer service requests and support needs. 
+We also process the data:
 
-### How do we protect your information?
+  * To keep you informed of any updates or new products and services we are offering as well as license renewal and related notices; and/or 
+  * To inform you of educational and informative resources such as ebooks, webinars and blogs which you may be interested in and/or to send you follow-ups to requested resources such as webinar registration information and recordings. 
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers’ database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers. 
+In terms of being contacted for marketing and promotional proposes (such as special offers), Altaro requests you to opt-in for such marketing material when you provide your business contact information on the website, unless you are a business partner (agent, reseller, MSP or distributor), in which case it is in our legitimate interest to keep you informed of our products, services, resources and promotions.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our utmost to protect your personal data, we cannot guarantee the security of your data transmitted to the Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
+In addition, any email sent informing you of products or services we offer; resources like ebooks, webinars and blogs; or providing other marketing information includes opt-out options enabling you to unsubscribe from such emails. Alternatively, you may unsubscribe by sending an email to [opt-out@altaro.com](mailto:opt-out@altaro.com?subject=Opt-out%20request:%20Please%20unsubscribe%20me). 
 
-### Where we store your personal data
+We also perform remarketing and retargeting to position targeted ads to appear to you as you browse elsewhere around the Internet after visiting our website.
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by members of staff operating outside the EEA who work for us or for one of our suppliers. Such members of staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy and the Data Protection Act (Chapter 440 of the Laws of Malta). 
+In any event, we are committed to ensuring that the information we collect and use is appropriate for this purpose, and does not constitute an invasion of your privacy. 
 
-### Access to Information, Rectification and Deletion
+### Where do we store the data?
 
-The Act gives you the right to access information held about you, the right to request rectification, and, where applicable, the right to erase the data concerning you. Your right of access can be exercised in accordance with Article 21and 22 of the Data Protection Act (Chapter 440 of the Laws of Malta). We take all reasonable measures to ensure that your data is accurate and up-to-date. In case of any changes to your details you can email us at: [info@altaro.com](mailto:info@altaro.com)
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by members of staff operating outside the EEA who work for us. Such members of staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting this data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and the General Data Protection Regulation.
+
+### Will Altaro Limited share the data with anyone else?
+
+We may transfer your data to third-party service providers contracted to Altaro, such as our worldwide partners and affiliates (for example, channel partners, payment processors, data hosts and service providers) in the course of dealing with you. Any third parties that we may share your data with are obliged to keep your details securely, and to use them only to fulfil the service they provide you on our behalf. When they no longer need your data to fulfil this service, they will dispose of the details in line with Altaro’s procedures. 
+
+The table below summarizes the type of processing activities performed by third-party service providers with whom we may share your data:
+
+Looking up corporate website URLs and business contact information such as phone number based on information submitted in the download form on our website or landing pages; and/or verifying status of a potential partner as a VAR or MSP. 
+
+The data is only shared when you sign up for a free software trial or resource and/or have applied to be a partner or MSP and did not purchase the product or service. The extent of data shared is limited to your full name and business email address together with the country of origin. 
+
+We use a service to host the data we store in our customer relationship management (CRM) system. 
+
+The data stored on the CRM system is limited to your full name, business email address, business telephone number and corporate address. 
+
+We use marketing automation/email marketing platforms to reach out to our clients via email. 
+
+All data stored within our marketing software solutions are hosted by the solution providers. 
+
+The data stored on the marketing automation/email marketing platforms is limited to your full name, business email address, business telephone number and corporate IP address. 
+
+We use tools to enable our technical support team to chat with potential or existing clients to help with any problems they may face. 
+
+The system enables us to manage cases or queries submitted by potential or existing customers and also hosts our training platform. 
+
+All data inputted in the system is hosted by the system providers. 
+
+The data stored on these systems is limited to your full name, business email address and business telephone number. 
+
+We use a system that allows you to participate in webinars. 
+
+All data submitted is hosted by the software providers. 
+
+The data stored on the system is your full name and business email address. 
+
+Data hosting services 
+
+The data stored is limited to your full name, business email address, corporate address, corporate IP address and business telephone number. 
+
+We provide leads (business contact information including Company name and/or website, your full name, your business email address and business telephone number) to Altaro authorized partners.
+
+Any information you choose to post on our blogs or forums or on our social media sites becomes public, which means it could be read, collected and used by others in any manner. We have no responsibility or liability for any information you choose on submit on these sites. 
 
 ### Do we use cookies?
 
-Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. 
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser that enables the sites’ or service providers’ systems to recognize your browser and capture and remember certain information.
 
-We use cookies to help us in delivering the service requested. 
+For further, more detailed information on how we use cookies, please refer to our [Cookie Policy](https://web.archive.org/cookies.php). 
 
-By agreeing to our Cookie Policy and using our website you agree that we also use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. In addition, we may also use social-media cookies in order to be able to assess your needs on our site, subject to your privacy settings on the social platform. 
+### Third-party links
 
-We may authorize third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business as provided for in our service contract with them. Such third parties are also bound to provide an adequate level of security to protect your data against any accidental loss or unlawful forms of processing. 
+Occasionally, at our discretion, we may include or offer third party products or services on our websites. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
 
-Our website provides information about our use of cookies and explains how they are used in order to improve your experience on our website. It also provides information as to how users can provide active consent to our use of cookies. Our Cookie Policy provides further information as well as allows you to withdraw consent to all or some of the cookies. It is also possible to disable cookies altogether via your browser settings. However, like most websites, if you turn your cookies off, we may not be able to provide some of our services properly. However, you can still place orders by contacting customer service. 
+Any information posted on third-party blogs or forums or on social media sites becomes public, which means it could be read, collected and used by others in any manner. We have no responsibility or liability for any information you choose on submit on such sites. 
 
-This website also uses Google Analytics to analyze how and when you visit our website in order to be able to understand your needs and improve your experience on our website. By using our website you agree that your information is used for these purposes however your information is kept anonymous unless you specifically agree otherwise. 
+### What steps have Altaro Limited taken to safeguard the data? (Information security)
 
-You can opt out of these features by downloading the following opt-out browser add-on: 
+We work hard to protect Altaro and our users from unauthorised access to or unauthorised alteration, disclosure or destruction of information that we hold. We implement a variety of security measures to maintain the safety of your information when you place an order. In particular: 
 
-<https://tools.google.com/dlpage/gaoptout>
-
-Please check that your browser supports such an add-on. 
-
-Your email address can also be used in order to send you promotional and marketing information including but not limited to occasional company news, updates and information regarding product or services related to your previous requests. This includes your email account being used for marketing purposes, subject to your privacy settings. It may also be used for survey purposes as well as to administer contests or other site features. 
-
-To opt out of all our non-transactional and service related email communications simply email us at [opt-out@altaro.com](mailto:opt-out@altaro.com)
-
-### Do we disclose any information to outside parties?
-
-We may transfer your personal information to selected third parties in order to fulfill an express purpose such as the delivery of the purchased product or service. Your information will not be exchanged, transferred or given to any other person or company unless for the express purpose for which it was collected and only insofar as this is necessary to achieve this purpose. Such parties are subject to confidentiality measures that ensure that any information shared with them is treated in accordance with the requirements of the Data Protection Act (Chapter 440 of the Laws of Malta). In addition, adequate safety measures are always taken to protect your data from loss, damage or unlawful access or processing, wherever the third party may be located. 
-
-You hereby consent to us providing information to such selected third parties to assist us in operating our website and conducting our business in order to be able to provide you with a better service. We may also provide such information to advertising networks, however, such information is kept strictly anonymous and is submitted entirely as aggregate data. 
-
-We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety subject to the Data Protection Act (Chapter 440 of the Laws of Malta.) Non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses subject to your consent. We may need to disclose your personal information to third parties: 
-
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
-  * If Altaro’s or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions and other applicable agreements; or to protect the rights, property, or safety of Altaro, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+  * We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers’ database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorised access to systems.
+  * We restrict access to information to Altaro employees, contractors and agents who need to know that information in order to process it for us and who are subject to strict contractual confidentiality obligations. They may be disciplined or their contract terminated if they fail to meet these obligations.
 
 
 
-### Third party links
+We have also taken the necessary steps to ensure that our third-party processors who provide data hosting services or otherwise process data on our behalf, have sufficient safeguards in place to protect your data. In carrying out this assessment, we consider the extent of data transmitted. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+### Under what circumstances will Altaro Limited contact me?
 
-### Your Consent
+Our aim is not to be intrusive, and we undertake not to ask irrelevant or unnecessary questions. Moreover, the information you provide will be subject to rigorous measures and procedures to minimise the risk of unauthorized access or disclosure. 
 
-By using our site, you consent to our online privacy policy. 
+### For how long will the data be retained by Altaro Limited?
 
-### How can you opt-out?
+We will endeavour to keep your information accurate and up to date, and not keep it for longer than is necessary. The data will only be retained for as long as necessary to carry out the processing activity for which the data was collected. In setting the retention period, Altaro also take into consideration their legal obligation to retain information in accordance with the law, such as information needed for audit and taxation purposes. 
 
-To opt out of all our non-transactional and service related email communications simply email us at [opt-out@altaro.com](https://web.archive.org/web/20170725050615id_/https%3A//www.altaro.com/opt-out@altaro.com)
+### What are your rights as a data subject?
+
+At any point while we are in possession of, or processing thedata, you have the following rights:
+
+  * Right of access – you have the right to request a copy of the information that we hold about you.
+  * Right of rectification – you have a right to correct data that we hold about you that is inaccurate or incomplete.
+  * Right to be forgotten – in certain circumstances, you can ask for the data we hold about you to be erased from our records.
+  * Right to restriction of processing – where certain conditions apply, you have a right to restrict the processing.
+  * Right of portability – you have the right to have the data we hold about you transferred to another organisation.
+  * Right to object – you have the right to object to certain types of processing such as direct marketing.
+  * Right to object to automated processing, including profiling – you also have the right to be subject to the legal effects of automated processing or profiling.
+  * Right to judicial review: in the event that Altaro Limited refuses your request under rights of access, we will provide you with a reason as to why. You have the right to lodge a complaint to the Supervisory Authority. 
+
+
+
+All the above requests may be forwarded, if applicable, to third party processors involved in the processing of the data, as previously listed. 
+
+### Complaints
+
+In the event that you wish to make a complaint about how the data is being processed by Altaro Limited, or how your complaint has been handled, you have the right to lodge a complaint directly with Altaro Limited by sending an email to [dataprivacy@altaro.com](mailto:dataprivacy@altaro.com). You also have the right to lodge a complaint directly with your local Supervisory Authority. 
+
+### How can you contact us to exercise your rights?
+
+Any questions pertaining to this Privacy Policy or requests to exercise any of your rights, previously mentioned, may be submitted using our contact details listed below: 
+
+Email address: [dataprivacy@altaro.com](mailto:dataprivacy@altaro.com)  
+Telephone: 44 (0) 203 397 6280 
+
+Postal Address: 
+
+Altaro Ltd,  
+Block LS3 – Level 1, Life Sciences Park,  
+San Gwann Industrial Estate,  
+San Gwann SGN 3000  
+Malta 
+
+We are committed to process your requests within thirty (30) days from receipt, and free of charge. 
 
 ### Changes to our Privacy Policy
 
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
+If we decide to change our Privacy Policy, we will update the Privacy Policy modification date below and prompt you to read the updated policy when you next visit our website. 
 
-This policy was last modified on 22 April 2016
+This policy was last modified on **3 May 2018**.
 
-### Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-[http://www.altaro.com](http://www.altaro.com/)  
-[info@altaro.com](mailto:info@altaro.com)  
-Tel: [+44 (0) 203 397 6280](tel:+44 \(0\) 203 397 6280)
-
-Address: 
-
-Altaro Ltd,  
-Kalkara Tal-Gir Str.,  
-Mriehel Industrial Estate,  
-Birkirkara, BKR3000  
-Malta 
-
-OR
-
-Altaro Software,  
-Dalton House,  
-60 Windsor Avenue,  
-London SW19 2RR,  
-United Kingdom 
+**By using our website, you confirm you have read and accept our privacy policy.**
