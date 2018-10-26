@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the khmotion.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201200049id_/http%3A//www.khmotion.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khmotion.com privacy policy that was archived on 2018-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181026035310id_/http%3A//www.khmotion.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | 7Khmer-សេវិខ្មែរ || We Long To Be ! Khmer Thai Movie Free Online......
+# Privacy Policy | Khmotion.com | 7Khmer Streaming Site - Khmer Movie | Thai Movie
 
 **Privacy Policy**  
 This Privacy Policy governs the manner in which 7khmer collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.7khmerth.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by 7khmer
