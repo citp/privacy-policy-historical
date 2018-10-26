@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgcareers.org privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625152232id_/http%3A//commongoodcareers.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgcareers.org privacy policy that was archived on 2018-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181026163251id_/http%3A//commongoodcareers.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy › About Us › Commongood Careers
 
