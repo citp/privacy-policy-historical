@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fmlawkers.club privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628172543id_/http%3A//fmlawkers.club/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmlawkers.club privacy policy that was archived on 2018-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181026221434id_/http%3A//fmlawkers.club/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Garner
 
