@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the seop.com privacy policy that was archived on 2016-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160813175703id_/https%3A//www.seop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seop.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027213102id_/https%3A//www.seop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SEOP
 
-**Introduction**
+### Introduction
 
 This Privacy Policy demonstrates SEOP’s commitment to protecting visitor privacy and sets forth the SEO Website information collection and management practices. By using this Website, the User consents to and acknowledges all of the practices described below.
 
-**Information That SEOP Collects**
+### Information That SEOP Collects
 
-The User may navigate the SEO Website without disclosing any personally identifiable information to SEO. SEOP only collects personally identifiable information from the User if the User chooses to provide it, either by contacting SEOP by e-mail or by submitting an [Information Request Form](https://www.seop.com/contact-seop/). SEOP only uses personally identifiable information to respond to a User’s questions or comments, or to provide services related to the purpose for which the User submitted information.
+The User may navigate the SEO Website without disclosing any personally identifiable information to SEO. SEOP only collects personally identifiable information from the User if the User chooses to provide it, either by contacting SEOP by e-mail or by submitting an [Information Request Form](https://www.seop.com/contact-us-today/). SEOP only uses personally identifiable information to respond to a User’s questions or comments, or to provide services related to the purpose for which the User submitted information.
 
 SEOP also receives non-personally identifiable information through log files and Cookies when the User accesses the SEOP Website. The User, dependent on their internet browser’s capabilities, will usually have the option of rejecting Cookies; however, certain areas of the SEOP Website may not display properly without Cookies enabled. Cookies allow SEOP to statistically monitor how many Users are navigating the SEOP Website and for what purposes. Certain technical information, such as IP address, page views, operating systems, Web browser software, and referring and destination Website, is automatically collected from the User’s computer. SEOP uses information gathered from Cookies and log files solely to generate broad demographic and user statistics in order to improve the content of the SEOP Website. SEOP does not link any information obtained from Cookies or log files to personally identifiable information.
 
-**SEOP’s Information Disclosure Practices**
+### SEOP’s Information Disclosure Practices
 
 SEOP does not share User information with any third parties without the User’s consent, except in the following special circumstances: (1) where such disclosure is necessary to comply with the law or to protect the safety of our Users or others, or (2) with service providers performing services on our behalf, which may include communications, database, event management, hosting, mailing and marketing services. Any service providers employed by our company will have access to your information solely to the extent necessary to enable them to perform the service on our behalf. SEOP has no obligation to monitor the SEOP Website or the use of the SEOP Website, or to retain the content of any user session. However, SEOP reserves the right-at all times-to monitor, review and/or retain any information in order to comply with the law or protect the safety of our Users or others.
 
-**Linked Sites**
+### Linked Sites
 
 SEOP may occasionally include links to external sites on its Website. The inclusion of any link does not imply SEOP’s endorsement of such external Website or the products and services offered at such site. If the User links to a third party site from the SEOP Website, any information the User reveals on that third party site is not subject to this Privacy Statement.
 
-**Security**
+### Security
 
 We take precautions to protect your information. When you submit information via the website, your information is protected both online and offline.
 
@@ -28,14 +28,75 @@ We do not collect sensitive information (such as credit card data) via the websi
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only those employees or persons who need the information to perform a specific job (e.g, billing or customer service) are granted access to personally identifiable information. The computers/servers on which we store personally identifiable information are kept in a completely secure, private environment.
 
-**Notification of Changes**
+### Notification of Changes
 
 SEOP is not obligated to notify you if changes are made to this Privacy Policy, so please check the terms regularly.
 
-**Changes and Questions**
+### Changes and Questions
 
 SEOP reserves the right to revise this Privacy Policy at any time by posting an updated Privacy Policy at this location. The User’s navigation of the SEOP Website constitutes acceptance of the terms of the Privacy Policy as amended or revised by SEOP. The User is responsible for reviewing this Privacy Policy regularly to remain aware of all terms and conditions.
 
-**Contact SEOPerformance**
+### Contact SEOPerformance
 
-If the User has any questions or concerns regarding this SEOP Privacy Policy or any questions about the SEOP Website, the User may send a detailed email to info@SEOP.com.
+If the User has any questions or concerns regarding this SEOP Privacy Policy or any questions about the SEOP Website, the User may send a detailed email to [info@SEOP.com](mailto:info@SEOP.com).
+
+## What Clients Say
+
+  * > "We started with a seven state campaign, and are now on a national level spending less than 25% of what we initially anticipated when we first opted to go national.
+> 
+> If you are fortunate enough to have SEOP as your representative, you will find someone who cares about your business and its success as much as you do. A lot of people claim to be the best, but if you are talking to these guys, you are indeed with the very best."
+
+\- Janet Glasscock 
+
+  * > "SEOP has provided us with useful suggestions and had given us a comprehensive PPC activity reports based on conversions, clicks, regions and campaigns that we have on our multi-lingual language websites.
+> 
+> Overall, it has been a pleasure working with SEOP and we're confident that with their help, we will get the results we are looking for!"
+
+\- Alberta Tai 
+
+  * > "I need to be on page one on search engines because competition is so fierce.
+> 
+> This year we received 85 vehicle donations as a result of the internet, which translated to nearly $12,000 net revenue that was given to charities nationwide."
+
+\- Jacquie Elliott Center for Car Donations 
+
+  * > "Listen to what they say because they are the pros and are definitely good at it!! They know what's best for your business and the outcome will definitely show!"
+> 
+> "SEOP has done an outstanding job with our SEOP for our website. Their staff is very prompt and professional in all aspects-giving us suggestions that will work and letting us know what does not work. About 40% of our patients come from Internet searching and this is all thanks to the great work at SEOP!! Thanks!!"
+
+\- Dr. Thomas T. Nguyen Founder, ICRS 
+
+  * > "The right direction for the company... this was the key to “righting the ship."....Good results we have experienced while working with you... results we would like to see... years of good service. "
+
+\- Andreas Krebs of All Covered 
+
+  * > "Diligent, good communication, partner...
+> 
+> SEOP listens to me and are working hard to keep my business at the top of the searches."
+
+\- Angela Harrell Hike Bike Kayak Sports, Inc. 
+
+  * > "SEO experts, proactive, technically advanced, results driven, attentive to customer needs...
+> 
+> Considering we worked with a former SEO company and researched countless additional companies before choosing SEOP, I can say that I found SEOP to be the best out there in terms of expertise, customer service, customer satisfaction, and experience."
+
+\- Brooke Wewers STORIS Management Systems 
+
+  * > "I highly recommend SEOP!
+> 
+> We have enjoyed our working relationship with SEOP and plan to continue for years to come. We appreciate the prompt and professional customer service as well as the expertise."
+
+\- Liliya Zherebnenko Marketing Director, Free Conferencing Corporation of America 
+
+  * > "...I personally enjoyed the relationship between the two companies, especially you as an account manager, and thank you for helping guide TVG to the point where it is today."
+
+\- Zack Gideon TVG.com 
+
+
+
+
+## CONTACT US
+
+##### California, US Corporate Headquarters
+
+Top 
