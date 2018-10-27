@@ -1,128 +1,206 @@
-> *The following text is extracted and transformed from the kualo.com privacy policy that was archived on 2017-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170112180543id_/https%3A//www.iubenda.com/privacy-policy/698140/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kualo.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027133124id_/https%3A//www.iubenda.com/privacy-policy/698140/legal) for the most accurate reproduction.*
 
-# Privacy Policy of www.kualo.com
+# Privacy Policy of Kualo Limited
 
-## Data Controller and Owner
+## Owner and Data Controller
 
-Kualo Ltd., Second Floor, 145-157 St John Street, London EC1V 4PY, United Kingdom,  
-info@kualo.com  
+Kualo Limited, Second Floor, 20-22 Wenlock Road, London N1 7GU, United Kingdom
 
+**Owner contact email:** legal@kualo.com
 
 ## Types of Data collected
 
-Among the types of Personal Data that this Application collects, by itself or through third parties, there are: email address, Cookies, Usage data, first name, last name, phone number, VAT Number, company name, address, country, state, province, ZIP/Postal code and Various types of Data. 
+Among the types of Personal Data that Kualo Limited collects, by itself or through third parties, there are: email address, Cookies, Usage Data, first name, last name, phone number, VAT Number, company name, address, country, state, province, ZIP/Postal code, Various types of Data, username, password, Tax ID, fax number, city, number of employees, User ID, website, billing address, house number, prefix and data relating to the point of sale. 
 
-Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.  
-The Personal Data may be freely provided by the User, or collected automatically when using this Application.  
-Any use of Cookies - or of other tracking tools - by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.  
-Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
+Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.  
+Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using Kualo Limited.  
+Unless specified otherwise, all Data requested by Kualo Limited is mandatory and failure to provide this Data may make it impossible for Kualo Limited to provide its services. In cases where Kualo Limited specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.  
+Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.  
+Any use of Cookies – or of other tracking tools – by Kualo Limited or by the owners of third-party services used by Kualo Limited serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available.
 
-Users are responsible for any Personal Data of third parties obtained, published or shared through this Application and confirm that they have the third party's consent to provide the Data to the Owner.
+Users are responsible for any third-party Personal Data obtained, published or shared through Kualo Limited and confirm that they have the third party's consent to provide the Data to the Owner.
 
 ## Mode and place of processing the Data
 
 ### Methods of processing
 
-The Data Controller processes the Data of Users in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.  
-The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Data Controller, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Data Controller at any time.
+The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.  
+The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of Kualo Limited (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.
+
+### Legal basis of processing
+
+The Owner may process Personal Data relating to Users if one of the following applies:
+
+  * Users have given their consent for one or more specific purposes. Note: Under some legislations the Owner may be allowed to process Personal Data until the User objects to such processing (“opt-out”), without having to rely on consent or any other of the following legal bases. This, however, does not apply, whenever the processing of Personal Data is subject to European data protection law;
+  * provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligations thereof;
+  * processing is necessary for compliance with a legal obligation to which the Owner is subject;
+  * processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Owner;
+  * processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.
+
+
+
+In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract. 
 
 ### Place
 
-The Data is processed at the Data Controller's operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller.
+The Data is processed at the Owner's operating offices and in any other places where the parties involved in the processing are located.
+
+Depending on the User's location, data transfers may involve transferring the User's Data to a country other than their own. To find out more about the place of processing of such transferred Data, Users can check the section containing details about the processing of Personal Data.
+
+Users are also entitled to learn about the legal basis of Data transfers to a country outside the European Union or to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data.
+
+If any such transfer takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner using the information provided in the contact section.
 
 ### Retention time
 
-The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request that the Data Controller suspend or remove the data.
+Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.
 
-## The use of the collected Data
+Therefore:
 
-The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: User database management, Remarketing and Behavioral Targeting, Analytics, Contacting the User, Displaying content from external platforms, Handling payments, Infrastructure monitoring, Interaction with external social networks and platforms and Traffic optimization and distribution. 
+  * Personal Data collected for purposes related to the performance of a contract between the Owner and the User shall be retained until such contract has been fully performed.
+  * Personal Data collected for the purposes of the Owner’s legitimate interests shall be retained as long as needed to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the Owner within the relevant sections of this document or by contacting the Owner.
 
-The Personal Data used for each purpose is outlined in the specific sections of this document.
+
+
+The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to such processing, as long as such consent is not withdrawn. Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority.
+
+Once the retention period expires, Personal Data shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
+
+## The purposes of processing
+
+The Data concerning the User is collected to allow the Owner to provide its Services, as well as for the following purposes: User database management, Remarketing and behavioral targeting, Analytics, Contacting the User, Displaying content from external platforms, Handling payments, Infrastructure monitoring, Interaction with external social networks and platforms, Traffic optimization and distribution, Heat mapping and session recording, Interaction with live chat platforms, Managing contacts and sending messages, Registration and authentication, SPAM protection, Advertising and Content commenting. 
+
+Users can find further detailed information about such purposes of processing and about the specific Personal Data used for each purpose in the respective sections of this document.
 
 ## Detailed information on the processing of Personal Data
 
 Personal Data is collected for the following purposes and using the following services:
 
+  * ### Advertising
+
+This type of service allows User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on Kualo Limited, possibly based on User interests.  
+This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.  
+Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside Kualo Limited. For more information, please check the privacy policies of the relevant services.  
+In addition to any opt out offered by any of the services below, the User may opt out of a third-party service's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/).
+
+#### Google AdSense (Google Inc.)
+
+Google AdSense is an advertising service provided by Google Inc. This service uses the “Doubleclick” Cookie, which tracks use of Kualo Limited and User behavior concerning ads, products and services offered.  
+Users may decide to disable all the Doubleclick Cookies by clicking on: [google.com/settings/ads/onweb/optout](https://www.google.com/settings/ads/onweb/optout).
+
+Personal Data collected: Cookies and Usage Data. 
+
+Place of processing: United States – [Privacy Policy](https://www.google.com/policies/technologies/ads/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout). 
+
   * ### Analytics
 
 The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
 
-#### Google AdWords conversion tracking (Google Inc.)
+#### Google Ads conversion tracking (Google Inc.)
 
-Google AdWords conversion tracking is an analytics service provided by Google Inc. that connects data from the Google AdWords advertising network with actions performed on this Application.
+Google Ads conversion tracking is an analytics service provided by Google Inc. that connects data from the Google Ads advertising network with actions performed on Kualo Limited.
 
-Personal Data collected: Cookies and Usage data. 
+Personal Data collected: Cookies and Usage Data. 
 
-Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/). Privacy Shield participant. 
 
 #### Google Analytics (Google Inc.)
 
-Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of Kualo Limited, to prepare reports on its activities and share them with other Google services.  
 Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 
-Personal Data collected: Cookies and Usage data. 
+Personal Data collected: Cookies and Usage Data. 
 
-Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en)
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en). 
 
-#### Analytics collected directly (This Application)
+#### Analytics collected directly (Kualo Limited)
 
-This Application uses an internal analytics system that does not involve third parties.
+Kualo Limited uses an internal analytics system that does not involve third parties.
 
-Personal Data collected: Cookies and Usage data. 
+Personal Data collected: Cookies and Usage Data. 
+
+#### Facebook Ads conversion tracking (Facebook, Inc.)
+
+Facebook Ads conversion tracking is an analytics service provided by Facebook, Inc. that connects data from the Facebook advertising network with actions performed on Kualo Limited.
+
+Personal Data collected: Cookies and Usage Data. 
+
+Place of processing: United States – [Privacy Policy](https://www.facebook.com/about/privacy/). 
 
   * ### Contacting the User
 
-#### Mailing List or Newsletter (This Application)
+#### Mailing List or Newsletter (Kualo Limited)
 
-By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Application. Your email address might also be added to this list as a result of signing up to this Application or after making a purchase.
+By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning Kualo Limited. Your email address might also be added to this list as a result of signing up to Kualo Limited or after making a purchase.
 
 Personal Data collected: email address, first name and last name. 
 
-#### Phone contact (This Application)
+#### Phone contact (Kualo Limited)
 
-Users that provided their phone number might be contacted for commercial or promotional purposes related to this Application, as well as for fulfilling support requests.
+Users that provided their phone number might be contacted for commercial or promotional purposes related to Kualo Limited, as well as for fulfilling support requests.
 
 Personal Data collected: phone number. 
 
-#### Contact form (This Application)
+#### Contact form (Kualo Limited)
 
-By filling in the contact form with their Data, the User authorizes this Application to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header.
+By filling in the contact form with their Data, the User authorizes Kualo Limited to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header.
 
 Personal Data collected: address, company name, country, email address, first name, last name, phone number, province, state, Various types of Data, VAT Number and ZIP/Postal code. 
 
+  * ### Content commenting
+
+Content commenting services allow Users to make and publish their comments on the contents of Kualo Limited.  
+Depending on the settings chosen by the Owner, Users may also leave anonymous comments. If there is an email address among the Personal Data provided by the User, it may be used to send notifications of comments on the same content. Users are responsible for the content of their own comments.  
+If a content commenting service provided by third parties is installed, it may still collect web traffic data for the pages where the comment service is installed, even when Users do not use the content commenting service.
+
+#### Disqus (Disqus)
+
+Disqus is a content commenting service provided by Big Heads Labs Inc.
+
+Personal Data collected: Cookies, Usage Data and various types of Data as specified in the privacy policy of the service. 
+
+Place of processing: United States – [Privacy Policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy) – [Opt out](https://help.disqus.com/customer/portal/articles/1657951). 
+
   * ### Displaying content from external platforms
 
-This type of services allows you to view content hosted on external platforms directly from the pages of this Application and interact with them.  
+This type of services allows you to view content hosted on external platforms directly from the pages of Kualo Limited and interact with them.  
 This type of service might still collect web traffic data for the pages where the service is installed, even when Users do not use it.
 
 #### YouTube video widget (Google Inc.)
 
-YouTube is a video content visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.
+YouTube is a video content visualization service provided by Google Inc. that allows Kualo Limited to incorporate content of this kind on its pages.
 
-Personal Data collected: Cookies and Usage data. 
+Personal Data collected: Cookies and Usage Data. 
 
-Place of processing: US – [Privacy Policy](http://www.google.it/intl/en/policies/privacy/)
+Place of processing: US – [Privacy Policy](http://www.google.it/intl/en/policies/privacy/). 
 
 #### Google Fonts (Google Inc.)
 
-Google Fonts is a typeface visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.
+Google Fonts is a typeface visualization service provided by Google Inc. that allows Kualo Limited to incorporate content of this kind on its pages.
 
-Personal Data collected: Usage data and various types of Data as specified in the privacy policy of the service. 
+Personal Data collected: Usage Data and various types of Data as specified in the privacy policy of the service. 
 
-Place of processing: US – [Privacy Policy](https://www.google.it/intl/policies/privacy/)
+Place of processing: US – [Privacy Policy](https://www.google.it/intl/policies/privacy/). Privacy Shield participant. 
 
 #### Google Maps widget (Google Inc.)
 
-Google Maps is a maps visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.
+Google Maps is a maps visualization service provided by Google Inc. that allows Kualo Limited to incorporate content of this kind on its pages.
 
-Personal Data collected: Cookies and Usage data. 
+Personal Data collected: Cookies and Usage Data. 
 
-Place of processing: US – [Privacy Policy](https://www.google.it/intl/en/policies/privacy/)
+Place of processing: US – [Privacy Policy](https://www.google.it/intl/en/policies/privacy/). 
+
+#### MyFonts (MyFonts Inc.)
+
+MyFonts is a typeface visualization service provided by MyFonts Inc. that allows Kualo Limited to incorporate content of this kind on its pages.
+
+Personal Data collected: Usage Data and various types of Data as specified in the privacy policy of the service. 
+
+Place of processing: United States – [Privacy Policy](http://www.myfonts.com/info/legal/#Privacy). 
 
   * ### Handling payments
 
-Payment processing services enable this Application to process payments by credit card, bank transfer or other means. To ensure greater security, this Application shares only the information necessary to execute the transaction with the financial intermediaries handling the transaction.  
+Payment processing services enable Kualo Limited to process payments by credit card, bank transfer or other means. To ensure greater security, Kualo Limited shares only the information necessary to execute the transaction with the financial intermediaries handling the transaction.  
 Some of these services may also enable the sending of timed messages to the User, such as emails containing invoices or notifications concerning the payment.
 
 #### PayPal (PayPal Inc.)
@@ -131,91 +209,218 @@ PayPal is a payment service provided by PayPal Inc., which allows Users to make 
 
 Personal Data collected: various types of Data as specified in the privacy policy of the service. 
 
-[Privacy Policy](https://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside)
-
 #### Sage Pay (Sage Pay Europe Limited)
 
 Sage Pay is a payment service provided by Sage Pay Europe Limited.
 
 Personal Data collected: various types of Data as specified in the privacy policy of the service. 
 
-Place of processing: UK – [Privacy Policy](https://www.sagepay.co.uk/policies/privacy-policy)
+Place of processing: UK – [Privacy Policy](https://www.sagepay.co.uk/policies/privacy-policy). 
+
+#### WorldPay (WorldPay Limited)
+
+WorldPay is a payment service provided by WorldPay Limited.
+
+Personal Data collected: various types of Data as specified in the privacy policy of the service. 
+
+Place of processing: United Kingdom – [Privacy Policy](https://www.worldpay.com/uk/privacy-policy). 
+
+  * ### Heat mapping and session recording
+
+Heat mapping services are used to display the areas of a page where Users most frequently move the mouse or click. This shows where the points of interest are. These services make it possible to monitor and analyze web traffic and keep track of User behavior.  
+Some of these services may record sessions and make them available for later visual playback.
+
+#### Hotjar Heat Maps & Recordings (Hotjar Ltd.)
+
+Hotjar is a session recording and heat mapping service provided by Hotjar Ltd.  
+Hotjar honors generic „Do Not Track” headers. This means the browser can tell its script not to collect any of the User's data. This is a setting that is available in all major browsers. Find Hotjar’s [opt-out information here](https://www.hotjar.com/opt-out).
+
+Personal Data collected: Cookies, Usage Data and various types of Data as specified in the privacy policy of the service. 
+
+Place of processing: Malta – [Privacy Policy](https://www.hotjar.com/privacy) – [Opt Out](https://www.hotjar.com/opt-out). 
 
   * ### Infrastructure monitoring
 
-This type of services allows this Application to monitor the use and behavior of its components so its performance, operation, maintenance and troubleshooting can be improved.  
-Which Personal Data are processed depends on the characteristics and mode of implementation of these services, whose function is to filter the activities of this Application.
+This type of services allows Kualo Limited to monitor the use and behavior of its components so its performance, operation, maintenance and troubleshooting can be improved.  
+Which Personal Data are processed depends on the characteristics and mode of implementation of these services, whose function is to filter the activities of Kualo Limited.
 
 #### Pingdom (Pingdom AB)
 
 Pingdom is a monitoring service provided by Pingdom AB.
 
-Personal Data collected: Cookies and Usage data. 
+Personal Data collected: Cookies and Usage Data. 
 
-Place of processing: Sweden – [Privacy Policy](https://www.pingdom.com/legal/privacy-policy/)
+Place of processing: Sweden – [Privacy Policy](https://www.pingdom.com/legal/privacy-policy/). 
+
+#### Rollbar (Rollbar, Inc.)
+
+Rollbar is a monitoring service provided by Rollbar, Inc.
+
+Personal Data collected: various types of Data as specified in the privacy policy of the service. 
+
+Place of processing: United States – [Privacy Policy](https://rollbar.com/privacy/). 
 
   * ### Interaction with external social networks and platforms
 
-This type of services allow interaction with social networks or other external platforms directly from the pages of this Application.  
-The interaction and information obtained through this Application are always subject to the User’s privacy settings for each social network.  
+This type of services allow interaction with social networks or other external platforms directly from the pages of Kualo Limited.  
+The interaction and information obtained through Kualo Limited are always subject to the User’s privacy settings for each social network.  
 This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.
 
 #### Facebook Like button and social widgets (Facebook, Inc.)
 
 The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc.
 
-Personal Data collected: Cookies and Usage data. 
+Personal Data collected: Cookies and Usage Data. 
 
-Place of processing: US – [Privacy Policy](https://www.facebook.com/privacy/explanation)
+Place of processing: US – [Privacy Policy](https://www.facebook.com/privacy/explanation). 
 
 #### Twitter Tweet button and social widgets (Twitter, Inc.)
 
 The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc.
 
-Personal Data collected: Cookies and Usage data. 
+Personal Data collected: Cookies and Usage Data. 
 
-Place of processing: US – [Privacy Policy](https://twitter.com/privacy)
+Place of processing: US – [Privacy Policy](https://twitter.com/privacy). 
 
-  * ### Remarketing and Behavioral Targeting
+  * ### Interaction with live chat platforms
 
-This type of services allows this Application and its partners to inform, optimize and serve advertising based on past use of this Application by the User.  
-This activity is performed by tracking Usage Data and by using Cookies, information that is transferred to the partners that manage the remarketing and behavioral targeting activity.
+This type of service allows Users to interact with third-party live chat platforms directly from the pages of Kualo Limited, for contacting and being contacted by Kualo Limited support service.  
+If one of these services is installed, it may collect browsing and Usage Data in the pages where it is installed, even if the Users do not actively use the service. Moreover, live chat conversations may be logged.
+
+#### Crisp Widget (Crisp IM SARL)
+
+The Crisp Widget is a service for interacting with the Crisp live chat platform provided by Crisp IM SARL.
+
+Personal Data collected: Cookies, Usage Data and various types of Data as specified in the privacy policy of the service. 
+
+Place of processing: France – [Privacy Policy](https://crisp.chat/en/privacy/). 
+
+  * ### Managing contacts and sending messages
+
+This type of service makes it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User.  
+These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.
+
+#### Mailgun (Mailgun, Inc.)
+
+Mailgun is an email address management and message sending service provided by Mailgun, Inc.
+
+Personal Data collected: email address. 
+
+Place of processing: United States – [Privacy Policy](https://www.mailgun.com/privacy). 
+
+  * ### Registration and authentication
+
+By registering or authenticating, Users allow Kualo Limited to identify them and give them access to dedicated services.  
+Depending on what is described below, third parties may provide registration and authentication services. In this case, Kualo Limited will be able to access some Data, stored by these third-party services, for registration or identification purposes.
+
+#### Direct registration (Kualo Limited)
+
+The User registers by filling out the registration form and providing the Personal Data directly to Kualo Limited.
+
+Personal Data collected: address, billing address, city, company name, country, data relating to the point of sale, email address, fax number, first name, house number, last name, number of employees, password, phone number, prefix , Tax ID, User ID, username, various types of Data, VAT Number, website and ZIP/Postal code. 
+
+  * ### Remarketing and behavioral targeting
+
+This type of service allows Kualo Limited and its partners to inform, optimize and serve advertising based on past use of Kualo Limited by the User.  
+This activity is performed by tracking Usage Data and by using Cookies, information that is transferred to the partners that manage the remarketing and behavioral targeting activity.  
+In addition to any opt out offered by any of the services below, the User may opt out of a third-party service's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/).
 
 #### AdWords Remarketing (Google Inc.)
 
-AdWords Remarketing is a Remarketing and Behavioral Targeting service provided by Google Inc. that connects the activity of this Application with the Adwords advertising network and the Doubleclick Cookie.
+AdWords Remarketing is a remarketing and behavioral targeting service provided by Google Inc. that connects the activity of Kualo Limited with the Adwords advertising network and the Doubleclick Cookie.
 
-Personal Data collected: Cookies and Usage data. 
+Personal Data collected: Cookies and Usage Data. 
 
-Place of processing: US – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](http://www.google.com/settings/ads/onweb/optout)
+Place of processing: US – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout). 
 
-#### AdRoll (Semantic Sugar, Inc.)
+#### AdRoll (AdRoll, Inc.)
 
-AdRoll is an advertising service provided by Semantic Sugar, Inc.
+AdRoll is an advertising service provided by AdRoll, Inc.
 
-Personal Data collected: Cookies and Usage data. 
+Personal Data collected: Cookies and Usage Data. 
 
-Place of processing: US – [Privacy Policy](https://www.adroll.com/about/privacy) – [Opt Out](https://info.evidon.com/pub_info/573?v=1&nt=1&nw=false)
+Place of processing: US – [Privacy Policy](https://www.adroll.com/about/privacy) – [Opt Out](https://info.evidon.com/pub_info/573?v=1&nt=1&nw=false). 
+
+#### Twitter Remarketing (Twitter, Inc.)
+
+Twitter Remarketing is a remarketing and behavioral targeting service provided by Twitter, Inc. that connects the activity of Kualo Limited with the Twitter advertising network.
+
+Personal Data collected: Cookies and Usage Data. 
+
+Place of processing: United States – [Privacy Policy](https://twitter.com/privacy) – [Opt Out](https://support.twitter.com/articles/20170405). 
+
+#### Twitter Tailored Audiences (Twitter, Inc.)
+
+Twitter Tailored Audiences is a remarketing and behavioral targeting service provided by Twitter, Inc. that connects the activity of Kualo Limited with the Twitter advertising network.
+
+Personal Data collected: Cookies and email address. 
+
+Place of processing: United States – [Privacy Policy](https://twitter.com/privacy) – [Opt Out](https://support.twitter.com/articles/20170405). 
+
+#### Remarketing through Google Analytics for Display Advertising (Google Inc.)
+
+Google Analytics for Display Advertising is a remarketing and behavioral targeting service provided by Google Inc. that connects the tracking activity performed by Google Analytics and its Cookies with the Adwords advertising network and the Doubleclick Cookie.
+
+Personal Data collected: Cookies and Usage Data. 
+
+Place of processing: United States – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout). 
+
+#### LinkedIn Website Retargeting (LinkedIn Corporation)
+
+LinkedIn Website Retargeting is a remarketing and behavioral targeting service provided by LinkedIn Corporation that connects the activity of Kualo Limited with the LinkedIn advertising network.
+
+Personal Data collected: Cookies and Usage Data. 
+
+Place of processing: United States – [Privacy Policy](https://www.linkedin.com/legal/privacy-policy) – [Opt Out](https://www.linkedin.com/legal/cookie_policy). 
+
+#### Facebook Remarketing (Facebook, Inc.)
+
+Facebook Remarketing is a remarketing and behavioral targeting service provided by Facebook, Inc. that connects the activity of Kualo Limited with the Facebook advertising network.
+
+Personal Data collected: Cookies and Usage Data. 
+
+Place of processing: United States – [Privacy Policy](https://www.facebook.com/about/privacy/) – [Opt Out](https://www.aboutads.info/choices/). 
+
+#### Facebook Custom Audience (Facebook, Inc.)
+
+Facebook Custom Audience is a remarketing and behavioral targeting service provided by Facebook, Inc. that connects the activity of Kualo Limited with the Facebook advertising network.
+
+Personal Data collected: Cookies and email address. 
+
+Place of processing: United States – [Privacy Policy](https://www.facebook.com/about/privacy/) – [Opt Out](https://www.aboutads.info/choices/). 
+
+  * ### SPAM protection
+
+This type of service analyzes the traffic of Kualo Limited, potentially containing Users' Personal Data, with the purpose of filtering it from parts of traffic, messages and content that are recognized as SPAM.
+
+#### Google reCAPTCHA (Google Inc.)
+
+Google reCAPTCHA is a SPAM protection service provided by Google Inc.  
+The use of reCAPTCHA is subject to the Google [privacy policy](https://www.google.com/policies/privacy/) and [terms of use](https://www.google.com/intl/en/policies/terms/).
+
+Personal Data collected: Cookies and Usage Data. 
+
+Place of processing: United States – [Privacy Policy](https://www.google.com/intl/policies/privacy/). 
 
   * ### Traffic optimization and distribution
 
-This type of services allows this Application to distribute their content using servers located across different countries and to optimize their performance.  
-Which Personal Data are processed depends on the characteristics and the way these services are implemented. Their function is to filter communications between this Application and the User's browser.  
+This type of services allows Kualo Limited to distribute their content using servers located across different countries and to optimize their performance.  
+Which Personal Data are processed depends on the characteristics and the way these services are implemented. Their function is to filter communications between Kualo Limited and the User's browser.  
 Considering the widespread distribution of this system, it is difficult to determine the locations to which the contents that may contain Personal Information User are transferred.
 
-#### CloudFlare (Cloudflare)
+#### Cloudflare (Cloudflare)
 
-CloudFlare is a traffic optimization and distribution service provided by CloudFlare Inc.  
-The way CloudFlare is integrated means that it filters all the traffic through this Application, i.e., communication between this Application and the User's browser, while also allowing analytical data from this Application to be collected.
+Cloudflare is a traffic optimization and distribution service provided by Cloudflare Inc.  
+The way Cloudflare is integrated means that it filters all the traffic through Kualo Limited, i.e., communication between Kualo Limited and the User's browser, while also allowing analytical data from Kualo Limited to be collected.
 
 Personal Data collected: Cookies and various types of Data as specified in the privacy policy of the service. 
 
-Place of processing: US – [Privacy Policy](https://www.cloudflare.com/security-policy/)
+Place of processing: US – [Privacy Policy](https://www.cloudflare.com/security-policy/). 
 
   * ### User database management
 
-This type of services allows the Owner to build user profiles by starting from an email address, a personal name, or other information that the User provides to this Application, as well as to track User activities through analytics features. This Personal Data may also be matched with publicly available information about the User (such as social networks' profiles) and used to build private profiles that the Owner can display and use for improving this Application.  
-Some of these services may also enable the sending of timed messages to the User, such as emails based on specific actions performed on this Application.
+This type of services allows the Owner to build user profiles by starting from an email address, a personal name, or other information that the User provides to Kualo Limited, as well as to track User activities through analytics features. This Personal Data may also be matched with publicly available information about the User (such as social networks' profiles) and used to build private profiles that the Owner can display and use for improving Kualo Limited.  
+Some of these services may also enable the sending of timed messages to the User, such as emails based on specific actions performed on Kualo Limited.
 
 #### Intercom (Intercom Inc.)
 
@@ -223,7 +428,15 @@ Intercom is a User database management service provided by Intercom Inc. Interco
 
 Personal Data collected: email address and various types of Data as specified in the privacy policy of the service. 
 
-Place of processing: US – [Privacy Policy](https://docs.intercom.io/pricing-and-terms/privacy)
+Place of processing: US – [Privacy Policy](https://docs.intercom.io/pricing-and-terms/privacy). 
+
+#### ActiveCampaign (ActiveCampaign, Inc.)
+
+ActiveCampaign is a User database management service provided by ActiveCampaign, Inc.
+
+Personal Data collected: Cookies, email address and various types of Data as specified in the privacy policy of the service. 
+
+Place of processing: United States – [Privacy Policy](https://www.activecampaign.com/help/privacy-policy/). 
 
 
 
@@ -233,74 +446,109 @@ Place of processing: US – [Privacy Policy](https://docs.intercom.io/pricing-an
   * ### Selling goods and services online
 
 The Personal Data collected are used to provide the User with services or to sell goods, including payment and possible delivery.  
-The Personal Data collected to complete the payment may include the credit card, the bank account used for the transfer, or any other means of payment envisaged. The kind of Data collected by this Application depends on the payment system used.
+The Personal Data collected to complete the payment may include the credit card, the bank account used for the transfer, or any other means of payment envisaged. The kind of Data collected by Kualo Limited depends on the payment system used.
 
 
 
+
+## The rights of Users
+
+Users may exercise certain rights regarding their Data processed by the Owner.
+
+In particular, Users have the right to do the following:
+
+  * **Withdraw their consent at any time.** Users have the right to withdraw consent where they have previously given their consent to the processing of their Personal Data.
+  * **Object to processing of their Data.** Users have the right to object to the processing of their Data if the processing is carried out on a legal basis other than consent. Further details are provided in the dedicated section below.
+  * **Access their Data.** Users have the right to learn if Data is being processed by the Owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing processing.
+  * **Verify and seek rectification.** Users have the right to verify the accuracy of their Data and ask for it to be updated or corrected.
+  * **Restrict the processing of their Data.** Users have the right, under certain circumstances, to restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other than storing it. 
+  * **Have their Personal Data deleted or otherwise removed.** Users have the right, under certain circumstances, to obtain the erasure of their Data from the Owner.
+  * **Receive their Data and have it transferred to another controller.** Users have the right to receive their Data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that the Data is processed by automated means and that the processing is based on the User's consent, on a contract which the User is part of or on pre-contractual obligations thereof.
+  * **Lodge a complaint.** Users have the right to bring a claim before their competent data protection authority.
+
+
+
+### Details about the right to object to processing
+
+Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.
+
+Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification. To learn, whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document. 
+
+### How to exercise these rights
+
+Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month.
+
+## Cookie Policy
+
+Kualo Limited uses Cookies. To learn more and for a detailed cookie notice, the User may consult the [Cookie Policy](https://www.iubenda.com/privacy-policy/698140/cookie-policy "Cookie Policy").
 
 ## Additional information about Data collection and processing
 
 ### Legal action
 
-The User's Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.  
-The User declares to be aware that the Data Controller may be required to reveal personal data upon request of public authorities. 
+The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of Kualo Limited or the related Services.  
+The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities. 
 
 ### Additional information about User's Personal Data
 
-In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular services or the collection and processing of Personal Data upon request. 
+In addition to the information contained in this privacy policy, Kualo Limited may provide the User with additional and contextual information concerning particular Services or the collection and processing of Personal Data upon request. 
 
 ### System logs and maintenance
 
-For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System logs) or use for this purpose other Personal Data (such as IP Address). 
+For operation and maintenance purposes, Kualo Limited and any third-party services may collect files that record interaction with Kualo Limited (System logs) use other Personal Data (such as the IP Address) for this purpose. 
 
 ### Information not contained in this policy
 
-More details concerning the collection or processing of Personal Data may be requested from the Data Controller at any time. Please see the contact information at the beginning of this document. 
+More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document. 
 
-### The rights of Users
+### How “Do Not Track” requests are handled
 
-Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above. 
-
-This Application does not support “Do Not Track” requests.  
-To determine whether any of the third party services it uses honor the “Do Not Track” requests, please read their privacy policies. 
+Kualo Limited does not support “Do Not Track” requests.  
+To determine whether any of the third-party services it uses honor the “Do Not Track” requests, please read their privacy policies. 
 
 ### Changes to this privacy policy
 
-The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request that the Data Controller remove the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users. 
+The Owner reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page and possibly within Kualo Limited and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. 
 
-### Information about this privacy policy
-
-The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Iubenda and hosted on Iubenda's servers. 
+Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required. 
 
 ###  Definitions and legal references 
 
 #### Personal Data (or Data)
 
-Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number.
+Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person.
 
 #### Usage Data
 
-Information collected automatically from this Application (or third party services employed in this Application), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
+Information collected automatically through Kualo Limited (or third-party services employed in Kualo Limited), which can include: the IP addresses or domain names of the computers utilized by the Users who use Kualo Limited, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
 
 #### User
 
-The individual using this Application, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refers.
+The individual using Kualo Limited who, unless otherwise specified, coincides with the Data Subject.
 
 #### Data Subject
 
-The legal or natural person to whom the Personal Data refers.
+The natural person to whom the Personal Data refers.
 
 #### Data Processor (or Data Supervisor)
 
-The natural person, legal person, public administration or any other body, association or organization authorized by the Data Controller to process the Personal Data in compliance with this privacy policy.
+The natural or legal person, public authority, agency or other body which processes Personal Data on behalf of the Controller, as described in this privacy policy.
 
 #### Data Controller (or Owner)
 
-The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Application. The Data Controller, unless otherwise specified, is the Owner of this Application.
+The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of Kualo Limited. The Data Controller, unless otherwise specified, is the Owner of Kualo Limited.
 
-#### This Application
+####  Kualo Limited (or this Application) 
 
-The hardware or software tool by which the Personal Data of the User is collected.
+The means by which the Personal Data of the User is collected and processed.
+
+#### Service
+
+The service provided by Kualo Limited as described in the relative terms (if available) and on this site/application.
+
+#### European Union (or EU) 
+
+Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area. 
 
 #### Cookies
 
@@ -310,6 +558,6 @@ Small piece of data stored in the User's device.
 
 #### Legal information
 
-Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies.
+This privacy statement has been prepared based on provisions of multiple legislations, including Art. 13/14 of Regulation (EU) 2016/679 (General Data Protection Regulation).
 
-This privacy policy relates solely to this Application.
+This privacy policy relates solely to Kualo Limited, if not stated otherwise within this document.
