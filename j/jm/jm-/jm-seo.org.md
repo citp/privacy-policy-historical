@@ -1,23 +1,378 @@
-> *The following text is extracted and transformed from the jm-seo.org privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316020316id_/https%3A//www.jm-seo.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jm-seo.org privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028013632id_/https%3A//www.jm-seo.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | JM Internet
+# Privacy Policy - JM Internet
 
-    **Privacy Commitment** : Privacy is a critical issue to every Internet user and JM Internet Group is committed to assuring that the privacy and confidentiality of visitors to this site are respected and preserved. Unless you give us explicit permission, we will not share your personally identifiable information such as name, address or e-mail address with third parties for any purpose. Information gathered from your activity is used for compiling anonymous statistics only and is not identifiable back to any individual. Registration information is used for verification purposes, for sending administrative e-mails to clients regarding our service, and for sending informational e-mails to prospective clients, investors, and the general public, if requested. **Collection, Use, Disclosure of Information** : JM Internet Group does not collect personally identifiable information about you unless you choose to provide us personally identifiable information through an online form or e-mail communication or you are accessing client-specific, secure content. We use cookies to ensure authorized access to client-specific secure content. Our use of cookies is explained in greater detail below. When accessing client-specific secure content, you are acting as a representative of your company and your interactions with our site in this capacity are governed by our relationship agreement with your company. 
+Last Updated: September 20, 2018
 
-Our site also automatically creates logs regarding your and other user sessions on jm-seo.org, such as features that you use, the actions that you take, and the information that you access. We generally use this information in statistical and aggregate formats to assess the effectiveness of our site and to better understand your priorities and interests.
+JM Internet Group (“us”, “we”, or “our”) operates the https://www.jm-seo.org website (the “Service”).
 
-JM Internet Group does not sell, distribute or disclose your personally identifiable information collected from jm-seo.org to third parties without your consent. However, we may release information to a third party if required by a legal process such as a subpoena or a search warrant. Please note that visitors to jm-seo.org are not required to provide us personally identifiable information to use the public areas of our site. You can provide us information such as address, e-mail address, or telephone number if you would like to learn more about JM Internet Group’s products and services.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-**Use of Cookies** : Cookies are pieces of data stored on a user’s hard drive that contain information about a user. In the case of secure content access, if your company is a client of JM Internet Group, we use a cookie that contains your login information, so we can ensure that client-specific information is secure from unauthorized access. We utilize an encrypted cookie to track client access to client-specific secure content. These cookies are used only for this purpose and are intended to be used only by our Web site. Please note that you can view and delete these cookies using the features of your browser.
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://www.jm-seo.org/terms-conditions
 
-**Google AdWords Cookies** : Third party vendors, including Google, will show you ads on sites on the Internet including jm-seo.org and other sites as well. Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to this website. Users may opt out of Google’s use of cookies by visitng the Google advertising opt-out page at [http://www.google.com/privacy/ads/](http://www.google.com/privacy/ads). For complete information on Google privacy, go to <http://www.google.com/privacy/privacy-policy.html>.
+## Definitions
+
+  * **Service**
+
+Service is the https://www.jm-seo.org website operated by JM Internet Group
+
+  * **Personal Data**
+
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
+
+  * **Usage Data**
+
+Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+
+  * **Cookies**
+
+Cookies are small pieces of data stored on your device (computer or mobile device).
+
+  * **Data Controller**
+
+Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.
+
+For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
+
+  * **Data Processors (or Service Providers)**
+
+Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller.
+
+We may use the services of various Service Providers in order to process your data more effectively.
+
+  * **Data Subject (or User)**
+
+Data Subject is any living individual who is using our Service and is the subject of Personal Data.
+
+
+
+
+## Information Collection And Use
+
+We collect several different types of information for various purposes to provide and improve our Service to you.
+
+### Types of Data Collected
+
+#### Personal Data
+
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
+
+  * Email address
+  * First name and last name
+  * Phone number
+  * Address, State, Province, ZIP/Postal code, City
+  * Cookies and Usage Data
+
+
+
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us.
+
+#### Popup Maker
+
+We use the Popup Maker plugin to serve content to you in an efficient and handy format.
+
+#### reCAPTCHA Data
+
+The reCAPTCHA SPAM protection feature analyzes traffic, potentially containing Users’ Personal Data, with the purpose of filtering it from parts of traffic, messages and content that are recognized as SPAM.  
+Google reCAPTCHA is a SPAM protection service provided by Google Inc.  
+The use of reCAPTCHA is subject to the Google [privacy policy](https://www.google.com/policies/privacy/ "Privacy Policy") and [terms of use](https://www.google.com/intl/en/policies/terms/ "Terms of Use"). You acknowledge and understand that the reCAPTCHA API works by collecting hardware and software information, such as device and application data, and sending these data to Google for analysis. The information collected in connection with your use of the Service (such as cookies and usage data) will be used for improving reCAPTCHA and for general security purposes. It will not be used for personalized advertising by Google.
+
+#### YouTube
+
+We have embedded YouTube videos on our site, which allows you to view content hosted on external platforms directly from the pages of this Service and interact with them. The embedded videos might still collect web traffic data for the pages where they are installed, even when users do not use it. YouTube is a video content visualization service provided by Google Inc. that allows this Service to incorporate content of this kind on its pages. 
+
+The personal Data collected includes cookies and usage data and the place of processing is in the United States. Please see Google’s [Privacy Policy](https://www.google.com/intl/en/policies/privacy/ "Privacy Policy") for more information. 
+
+#### JotForm
+
+We use JotForm to collect and save information you’ve submitted via online form. Please see their [Privacy Policy](https://www.jotform.com/privacy/ "Privacy Policy") for more information.
+
+#### Yoast SEO Data
+
+The Yoast SEO plugin we use only collects information regarding our site’s environment, PHP version, and installed plugins.
+
+#### Redirection
+
+We use the Redirection plugin to help make your browsing experience seamless and more enjoyable. Please see this [link](https://redirection.me/support/privacy-gdpr/ "Redirection Privacy Policy") for the developer’s Privacy Policy.
+
+#### Site Backups – UpdraftPlus
+
+We use the UpdraftPlus plugin as one of the ways we perform site backups. We will not delete information out of our website backups, because this becomes technically difficult to accomplish. However, our backups are stored in a safe place, including Google Drive. Please see [this page](https://updraftplus.com/faqs/privacy-policy-use-google-drive-app/ "Google Drive and UpdraftPlus") for more information specifically on this. These links also offer additional information on the Google [Privacy Policy](https://www.google.com/policies/privacy/ "Privacy Policy") and on [UpdraftPlus](https://updraftplus.com/faqs/what-data-is-gathered-when-updraftplus-is-used-and-how-is-that-data-processed/ "UpdraftPlus").
+
+#### Site Backups – Hosting Provider
+
+Our hosting provider also provides us with backup functionalities for our Service. 
+
+#### Bootstrap
+
+Our Service links to the third-party Bootstrap CSS in order to improve the layout of our site for visitors.
+
+#### Wordfence Data
+
+We use the Wordfence plugin to help with site security. To help you understand which cookies the Wordfence plugin sets, when in use on this Service, please see below. Wordfence currently sets three cookies and the below explains what each cookie does, who will have the cookie set, and why the cookie helps secure our Service. You can read Wordfence’s privacy policy [here](https://www.wordfence.com/privacy-policy/ "Privacy Policy").
+
+**wfwaf-authcookie-(hash)**
+
+_What it does:_ This cookie is used by the Wordfence firewall to perform a capability check of the current user before our Service has been loaded.  
+_Who gets this cookie:_ This is only set for users that are able to log into our Service.  
+_How this cookie helps:_ This cookie allows the Wordfence firewall to detect logged in users and allow them increased access. It also allows Wordfence to detect non-logged in users and restrict their access to secure areas. The cookie also lets the firewall know what level of access a visitor has to help the firewall make smart decisions about who to allow and who to block.
+
+**wf_loginalerted_(hash)**
+
+_What it does:_ This cookie is used to notify the Wordfence admin when an administrator logs in from a new device or location.  
+_Who gets this cookie:_ This is only set for administrators.  
+_How this cookie helps:_ This cookie helps site owners know whether there has been an admin login from a new device or location.
+
+**wfCBLBypass**
+
+_What it does:_ Wordfence offers a feature for a site visitor to bypass country blocking by accessing a hidden URL. This cookie helps track who should be allowed to bypass country blocking.  
+_Who gets this cookie:_ When a hidden URL defined by the site admin is visited, this cookie is set to verify the user can access the site from a country restricted through country blocking. This will be set for anyone who knows the URL that allows bypass of standard country blocking. This cookie is not set for anyone who does not know the hidden URL to bypass country blocking.  
+_How this cookie helps:_ This cookie gives site owners a way to allow certain users from blocked countries, even though their country has been blocked.
+
+#### Google Fonts
+
+The Google Fonts API is designed to limit the collection, storage, and use of end-user data to what is needed to serve fonts efficiently.
+
+Use of Google Fonts is unauthenticated. No cookies are sent by website visitors to the Google Fonts API. Requests to the Google Fonts API are made to resource-specific domains, such as fonts.googleapis.com or fonts.gstatic.com, so that your requests for fonts are separate from and do not contain any credentials you send to google.com while using other Google services that are authenticated, such as Gmail.
+
+In order to serve fonts quickly and efficiently with the fewest requests, responses are cached by the browser to minimize round-trips to the Google servers.
+
+Requests for CSS assets are cached for 1 day. This allows Google to update a stylesheet to point to a new version of a font file when it’s updated, and ensures that all websites using fonts hosted by the Google Fonts API will be using the most updated version of each font within 24 hours of each release.
+
+The font files themselves are cached for one year, which cumulatively has the effect of making the entire web faster: When millions of websites all link to the same fonts, they are cached after visiting the first website and appear instantly on all other subsequently visited sites. Google does sometimes update font files to reduce their file size, increase coverage of languages, and improve the quality of their design. The result is that website visitors send very few requests to Google: Google only sees 1 CSS request per font family, per day, per browser.
+
+Google Fonts logs records of the CSS and the font file requests, and access to this data is [kept secure](https://www.google.com/policies/privacy/#infosecurity). Aggregate usage numbers track how popular font families are, and are published on the Google Fonts [analytics page](https://www.google.com/fonts/#Analytics:total). Google Fonts uses data from Google’s web crawler to detect which websites use Google fonts. This data is published and accessible in the [Google Fonts BigQuery database](https://goo.gl/5HeqYf). To learn more about the information Google collects and how it is used and secured, see Google’s [Privacy Policy](https://www.google.com/policies/privacy/).
+
+#### Comments
+
+If visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+
+#### Media
+
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+
+#### Site Cookies
+
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+#### Usage Data
+
+We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+#### Location Data
+
+We may use and store information about your location if you give us permission to do so (“Location Data”). We use this data to provide features of our Service, to improve and customize our Service.
+
+You can enable or disable location services when you use our Service at any time, through your device settings.
+
+#### Tracking & Cookies Data
+
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+In the case of secure content access, if your company is a client of JM Internet Group, we use a cookie that contains your login information, so we can ensure that client-specific information is secure from unauthorized access. We utilize an encrypted cookie to track client access to client-specific secure content. These cookies are used only for this purpose and are intended to be used only by our Web site. Please note that you can view and delete these cookies using the features of your browser.
+
+Examples of Cookies we use:
+
+  * **Session Cookies.** We use Session Cookies to operate our Service.
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.** We use Security Cookies for security purposes.
+
+
+
+## Use of Data
+
+JM Internet Group uses the collected data for various purposes:
+
+  * To provide and maintain our Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer support
+  * To gather analysis or valuable information so that we can improve our Service
+  * To monitor the usage of our Service
+  * To detect, prevent and address technical issues
+  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+
+
 
 **Choice and Data Access** : As a representative of your company, you can view and modify your company profile information in the secure client area of our site.
 
-**Data Security/Integrity** : JM Internet Group has physical, electronic, and managerial security functions in place to protect personally identifiable information from loss, misuse, alteration or destruction. Only authorized employees have access to the data you provided and that access is limited by need. Our employees who have access to the data you provided have agreed to maintain the confidentiality of such information.
+## Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)
 
-**Children** : JM Internet Group understands the importance of protecting children’s privacy in the online interactive world. This Web site does not intentionally target or solicit to children 13 and younger.
+If you are from the European Economic Area (EEA), JM Internet Group legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
 
-**Notification of Changes** : If we materially change our practices in handling personally identifiable information, as described in this statement, we will notify you by posting the changes on this Privacy Statement at least 30 days prior to their implementation.
+JM Internet Group may process your Personal Data because:
 
-**Contacting Us** : If you have questions regarding our Privacy Statement as it relates to your use of this site or JM Internet Group’s products and services, please submit a privacy inquiry.
+  * We need to perform a contract with you
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it’s not overridden by your rights
+  * For payment processing purposes
+  * To comply with the law
+
+
+
+## Retention of Data
+
+JM Internet Group will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+JM Internet Group will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+## Transfer Of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+JM Internet Group will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure Of Data
+
+### Disclosure for Law Enforcement
+
+Under certain circumstances, JM Internet Group may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+### Legal Requirements
+
+JM Internet Group may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of JM Internet Group
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+## Security Of Data
+
+JM Internet Group has physical, electronic, and managerial security functions in place to protect personally identifiable information from loss, misuse, alteration or destruction. Only authorized employees have access to the data you provided and that access is limited by need. Our employees who have access to the data you provided have agreed to maintain the confidentiality of such information.
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## “Do Not Track” Signals
+
+We do not support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+## Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. JM Internet Group aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+  * **The right to access, update or to delete the information we have on you.** Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+
+  * **The right of rectification.** You have the right to have your information rectified if that information is inaccurate or incomplete.
+
+  * **The right to object.** You have the right to object to our processing of your Personal Data.
+
+  * **The right of restriction.** You have the right to request that we restrict the processing of your personal information.
+
+  * **The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+
+  * **The right to withdraw consent.** You also have the right to withdraw your consent at any time where JM Internet Group relied on your consent to process your personal information.
+
+
+
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+  * **Google Analytics**
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+
+
+
+### Behavioral Remarketing
+
+JM Internet Group may use remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
+
+  * **Google AdWords**
+
+Google AdWords remarketing service is provided by Google Inc.
+
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>
+
+Google also recommends installing the Google Analytics Opt-out Browser Add-on – <https://tools.google.com/dlpage/gaoptout> – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+
+
+
+### Payments
+
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+## Children’s Privacy
+
+JM Internet Group understands the importance of protecting children’s privacy in the online interactive world. Our Service does not address anyone under the age of 13 (“Children”).
+
+This Service does not intentionally target or solicit to children 13 and younger. If you are a parent or guardian and you are aware that your Children have provided us with Personal Data, please contact us.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via a prominent notice on our Service and update the “Last Updated” at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  * By visiting this page on our website: https://www.jm-seo.org/contact/
+  * By phone number: 800-298-4065
+  * By mail: 1060 Willow Street, Suite 3-151, San Jose, CA 95125
+
+
+
+Privacy Policy
+
+5 (100%) 1 vote 
