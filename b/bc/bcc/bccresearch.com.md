@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bccresearch.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615174952id_/http%3A//www.bccresearch.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bccresearch.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027144458id_/https%3A//www.bccresearch.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
