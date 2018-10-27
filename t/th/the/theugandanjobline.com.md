@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the theugandanjobline.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613034336id_/http%3A//www.theugandanjobline.com/p/this-privacy-policy-sets-out-how-uses.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theugandanjobline.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027204523id_/http%3A//www.theugandanjobline.com/p/this-privacy-policy-sets-out-how-uses.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY ~ Ugandan Jobline Jobs - The Best Uganda Jobs
 
-### [50 No Experience Sales & Marketing Officer Job Opportunities - Human Resource Service Centre (HRSC) ](http://www.theugandanjobline.com/2017/06/50-fresher-sales-marketing-officer-job-opportunities-human-resource-service-centre-hrsc.html)
-
-Job Title:      Sales & Marketing Officer (50 Fresher Jobs) Organisation: Human Resource Service Centre (HRSC) Duty Station: Kamp... 
+Job Title:     Sales Representatives (Several Entry Level Job Opportunities) Organization:  Platinum Credit (U) Ltd Duty Station:  Kam... 
 
 [ ](https://www.blogger.com/rearrange?blogID=5878136938400860152&widgetType=FeaturedPost&widgetId=FeaturedPost1&action=editWidget&sectionId=main "Edit")
 
@@ -16,8 +14,7 @@ We may collect the following information:
 
 ·         Contact information especially email addresses
 
-**_What we do with the Collected  information:_**
-
+**_What we do with the Collected  information:_**  
 We require this information to understand your needs and provide you with a better service in meeting the job requirements that match your criteria and also more significantly for the following reasons:
 
 ·         Internal Record Keeping
@@ -36,8 +33,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-**_Controlling Your Personal information_**
-
+**_Controlling Your Personal information:_**  
 You may choose to restrict the collection or use of your personal information in the following ways:
 
 ·         Please send us an E-mail @ [ugandanjobline@gmail.com](mailto:ugandanjobline@gmail.com) to opt out of the E-mail marketing and promotional messages we seldomly send.
