@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreammails.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626211418id_/http%3A//dreammails.net/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreammails.net privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027125208id_/http%3A//dreammails.net/pages/privacy.php) for the most accurate reproduction.*
 
 # DreamMails
 
@@ -9,7 +9,7 @@
 
 | 
 
-[](http://dreammails.net/scripts/runner.php?BA=22613&hash=38e166f79230aa514a1a1666f74dc8a7&url=http%3A%2F%2Ftraffup.net%2Ffree%2F%3Frf%3D415894229)  
+[](http://dreammails.net/scripts/runner.php?BA=23218&hash=f275e6eaa84f005dd3fd0790e6592857&url=http%3A%2F%2Fscubacash.com%2Fpages%2Findex.php%3Frefid%3Datpromoter)  
 
 
 |   
@@ -19,19 +19,19 @@
 ---  
   
   
- **::** **Total Members: 563**
+ **::** **Total Members: 486**
 
-**::** ** Active Members: 488 **
+**::** ** Active Members: 463 **
 
 **
 
-**::** Total Payout: 11,179.91 
+**::** Total Payout: 11,234.48 
 
-**::** Mails In Queue: 7 
+**::** Mails In Queue: 0 
 
-**::** Paid To Click Links: 369 
+**::** Paid To Click Links: 327 
 
-**::** Banners In Queue: 306 
+**::** Banners In Queue: 282 
 
 **
 
