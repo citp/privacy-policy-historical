@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koeitecmoamerica.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527080011id_/http%3A//www.koeitecmoamerica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koeitecmoamerica.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027233234id_/http%3A//www.koeitecmoamerica.com/privacy) for the most accurate reproduction.*
 
 # KOEI TECMO AMERICA CORP
 
