@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecompanystore.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513040241id_/http%3A//www.thecompanystore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecompanystore.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027212208id_/http%3A//www.thecompanystore.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security | The Company Store
 
@@ -16,8 +16,8 @@ We are here to answer your questions on our privacy policy:
 Or if you prefer, write to us at:   
 Customer Service Manager  
 The Company Store  
-1200 Harbor Boulevard  
-Weehawken, NJ 07086 
+3074 Chastain Meadows Pkwy  
+Marietta, GA 30066
 
 
 
