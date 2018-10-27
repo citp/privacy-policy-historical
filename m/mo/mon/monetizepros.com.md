@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monetizepros.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207062755id_/https%3A//monetizepros.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monetizepros.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027142646id_/https%3A//monetizepros.com/privacy) for the most accurate reproduction.*
 
 # Privacy - MonetizePros
 
@@ -53,4 +53,4 @@ By using our site, you consent to our online privacy policy.
 
 ### Changes to our Privacy Policy
 
-This privacy policy is subject to change without notice and was last updated on December 4, 2013. If you have any questions, contact us at info@monetizepros.com.
+This privacy policy is subject to change without notice and was last updated on December 4, 2013. If you have any questions, contact us at monetizeproscom@gmail.com
