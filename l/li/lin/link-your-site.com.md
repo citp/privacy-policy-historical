@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the link-your-site.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625214810id_/http%3A//www.link-your-site.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the link-your-site.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027092001id_/http%3A//www.link-your-site.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy : SEO Friendly Directory : local business directory : online business directory : local business listings
 
