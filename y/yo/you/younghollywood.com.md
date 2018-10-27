@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the younghollywood.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625014043id_/http%3A//www.younghollywood.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the younghollywood.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027231546id_/https%3A//www.younghollywood.com/info/privacy-policy.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY - Young Hollywood
+# Young Hollywood | PRIVACY POLICY
 
-  * [YH STUDIO](http://www.younghollywood.com/yhstudio.html "YH STUDIO")
-  * [TV/FILM](http://www.younghollywood.com/tvfilm.html "TV/FILM")
-  * [MUSIC](http://www.younghollywood.com/music.html "Music")
-  * [SPORTS](http://www.younghollywood.com/sports.html "Sports")
-  * [LIFESTYLE](http://www.younghollywood.com/lifestyle.html)
-  * [FASHION](http://www.younghollywood.com/fashion.html)
-  * [THE SCENE](http://www.younghollywood.com/scene.html "THE SCENE")
+  * [YH STUDIO](https://younghollywood.com/yhstudio.html "YH STUDIO")
+  * [TV/FILM](https://younghollywood.com/tvfilm.html "TV/FILM")
+  * [MUSIC](https://younghollywood.com/music.html "Music")
+  * [SPORTS](https://younghollywood.com/sports.html "Sports")
+  * [LIFESTYLE](https://younghollywood.com/lifestyle.html)
+  * [FASHION](https://younghollywood.com/fashion.html)
+  * [THE SCENE](https://younghollywood.com/scene.html "THE SCENE")
 
 
 
