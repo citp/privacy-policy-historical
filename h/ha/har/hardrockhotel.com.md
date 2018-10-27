@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardrockhotel.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910040147id_/https%3A//hardrockhotel.com/las-vegas-about/terms-of-use.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardrockhotel.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027152713id_/https%3A//www.hardrockhotel.com/las-vegas-about/terms-of-use.php%23privacy) for the most accurate reproduction.*
 
 # Privacy Policy • Terms of Use • Mobile Program • About • Hard Rock Hotel & Casino Las Vegas
 
