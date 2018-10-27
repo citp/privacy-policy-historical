@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepfatsolution.com privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312104219id_/http%3A//lcrhealth.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepfatsolution.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027071149id_/https%3A//lcrhealth.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | LCR Health
 
