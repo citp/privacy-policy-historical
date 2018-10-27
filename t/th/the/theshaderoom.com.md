@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theshaderoom.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614021457id_/http%3A//theshaderoom.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshaderoom.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028004608id_/http%3A//theshaderoom.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - The Shade Room
 
@@ -6,15 +6,15 @@ This Privacy Policy describes the privacy practices of The Shade Room, LLC inclu
 
 This Privacy Policy explains how we collect, use, disclose, and transfer information about users who interact with us including (but not limited to) via our websites, social media accounts, and downloadable applications, such as mobile apps. This policy also tells you how we use tracking technologies, cookies and browsing data we collect from your use of our online services, the measures we take to protect the security of the information you provide to us through our online services, and how you can contact us if you have any questions regarding our online services (including if you want to unsubscribe from our services or update your contact details). Information about how The Shade Room processes your information outside our online services (e.g. working for The Shade Room or visiting The Shade Room premises) is available by contacting [info@theshaderoom.com](mailto:info@theshaderoom.com).
 
- **LAST UPDATED: December 8, 2016**
+**LAST UPDATED: December 8, 2016**
 
-  1.  **SCOPE AND CONSENT**
+  1. **SCOPE AND CONSENT**
 
 
 
 When you use our online services, you are contracting with The Shade Room.  If you reside outside of the United States, The Shade Room is your data controller.  By using our online services, you expressly consent to our collection, use, disclosure, and retention of your information relating to you including personal information as described in this Privacy Policy.
 
-  2.  **TYPES OF INFORMATION WE COLLECT**
+  2. **TYPES OF INFORMATION WE COLLECT**
 
 
 
@@ -22,34 +22,34 @@ Our goal is to collect and use information to deliver effective and personalized
 
 There are two main types of information we collect about users of our online services that include (but are not limited to) the following:
 
-  *  ** _Information that identifies you_** **:** this is commonly referred to as “personal information” and includes, for example, information that you provide to us such as your name, home address, age, gender, telephone number, email address, payment information (including your credit card number), and/or photos or video footage of you; and
-  *  ** _Information that relates to you, but on its own does not identify you:_** such as information about your Internet connection, the equipment you use to access our online services, and information relating to your usage of those services.
+  * **_Information that identifies you_** **:** this is commonly referred to as “personal information” and includes, for example, information that you provide to us such as your name, home address, age, gender, telephone number, email address, payment information (including your credit card number), and/or photos or video footage of you; and
+  * **_Information that relates to you, but on its own does not identify you:_** such as information about your Internet connection, the equipment you use to access our online services, and information relating to your usage of those services.
 
 
 
 The main categories of information we collect about our online services users include (but are not limited to) the following:
 
-  *  ** _Contact/Registration information:_** for example, your telephone number or email address, if you have subscribed to a service such as program updates; name, age, gender, or interests if you register for an account on one of our online services; delivery address if you buy a product or service through an online service; or your age, location, or delivery address if you choose to enter a competition or sweepstakes offered through our online services.
-  *  ** _Transaction information:_** when you order products or services through our online services, you may provide information such as your credit/debit card details and other personal information related to that transaction.
-  *  ** _Information that you provide on message boards and other user forums:  _**including your username, images, or videos.  Please use caution when posting to messages boards or other forums, as information posted to these portions of our online services is public information.
-  *  ** _Information about your equipment and about your interactions with The Shade Room and other online services:_** for example, your Internet protocol or IP address; pages, content, or advertising that you visit within online services (including online services not provided by The Shade Room); or the type and version of your device’s operating system or web browser, your device ID, and in some instances, your device’s location.
-  *  ** _Information that is collected from social networks and publicly available data:  _**if you visit our online services on a device through which you also interact with social networks or if you interact with us through a social media function such as a plug-in (for example, a Facebook “like” button) then you may be permitting us to have on-going access to some information from your social network profile (such as your name, email address, your friend list, photo, age, gender, location, birthday, social networking ID, current city, and the people/sites you follow ). If you don’t want a social network to collect the information about you as described above, or you don’t want a social network to share it with us and other third parties, please review the privacy settings and instructions of the applicable social network before you visit and use our online services.
-  *  ** _Information that is collected from Consumer Data Resellers:_** we may collect information about you from consumer data resellers, including but not limited to, demographic and other generally available information, or advertiser information, including purchasing data and membership in loyalty programs.
-  *  ** _Information About Your Video Viewing Behavior:  _**information about your video viewing behavior on our online services (e.g., content viewed and information about the advertisements within the content you have been shown or may have clicked on, etc.).
+  * **_Contact/Registration information:_** for example, your telephone number or email address, if you have subscribed to a service such as program updates; name, age, gender, or interests if you register for an account on one of our online services; delivery address if you buy a product or service through an online service; or your age, location, or delivery address if you choose to enter a competition or sweepstakes offered through our online services.
+  * **_Transaction information:_** when you order products or services through our online services, you may provide information such as your credit/debit card details and other personal information related to that transaction.
+  * **_Information that you provide on message boards and other user forums:  _**including your username, images, or videos.  Please use caution when posting to messages boards or other forums, as information posted to these portions of our online services is public information.
+  * **_Information about your equipment and about your interactions with The Shade Room and other online services:_** for example, your Internet protocol or IP address; pages, content, or advertising that you visit within online services (including online services not provided by The Shade Room); or the type and version of your device’s operating system or web browser, your device ID, and in some instances, your device’s location.
+  * **_Information that is collected from social networks and publicly available data:  _**if you visit our online services on a device through which you also interact with social networks or if you interact with us through a social media function such as a plug-in (for example, a Facebook “like” button) then you may be permitting us to have on-going access to some information from your social network profile (such as your name, email address, your friend list, photo, age, gender, location, birthday, social networking ID, current city, and the people/sites you follow ). If you don’t want a social network to collect the information about you as described above, or you don’t want a social network to share it with us and other third parties, please review the privacy settings and instructions of the applicable social network before you visit and use our online services.
+  * **_Information that is collected from Consumer Data Resellers:_** we may collect information about you from consumer data resellers, including but not limited to, demographic and other generally available information, or advertiser information, including purchasing data and membership in loyalty programs.
+  * **_Information About Your Video Viewing Behavior:  _**information about your video viewing behavior on our online services (e.g., content viewed and information about the advertisements within the content you have been shown or may have clicked on, etc.).
 
 
-  3.  **HOW WE COLLECT YOUR INFORMATION**
+  3. **HOW WE COLLECT YOUR INFORMATION**
 
 
 
 The methods we use to collect information about you are as follows:
 
-  *  ** _Directly from you, when you provide it to us:_** for example, when you request products or services from us, when you register with us, respond to surveys, apply for a job, contact us or otherwise interact with us. Please remember that if others use devices into which you remain logged in, they may share information with us as if they were you, and they may have access to information that you have previously provided us.  To protect your privacy, please log out from our online services that you access from public or shared devices.
-  *  ** _Automatically, when you use our online services:_** information collected through the use of cookies and other technologies, and when you download our mobile apps.
-  *  ** _From third parties:  _**including social networks, other online services, publicly available records, our service providers, and from consumer data resellers.
+  * **_Directly from you, when you provide it to us:_** for example, when you request products or services from us, when you register with us, respond to surveys, apply for a job, contact us or otherwise interact with us. Please remember that if others use devices into which you remain logged in, they may share information with us as if they were you, and they may have access to information that you have previously provided us.  To protect your privacy, please log out from our online services that you access from public or shared devices.
+  * **_Automatically, when you use our online services:_** information collected through the use of cookies and other technologies, and when you download our mobile apps.
+  * **_From third parties:  _**including social networks, other online services, publicly available records, our service providers, and from consumer data resellers.
 
 
-  4.  **HOW WE USE YOUR INFORMATION**
+  4. **HOW WE USE YOUR INFORMATION**
 
 
 
@@ -75,27 +75,27 @@ We (and our service providers) use information to:
 
 Note that we may combine all the information we collect or receive about you for any of the foregoing purposes.
 
-  5.  **HOW WE SHARE YOUR INFORMATION**
+  5. **HOW WE SHARE YOUR INFORMATION**
 
 
 
- _Information sharing within The Shade Room and among The Shade Room affiliates._
+_Information sharing within The Shade Room and among The Shade Room affiliates._
 
   * Your information may be shared with The Shade Room affiliates, and used to help us better tailor our services, products and advertising to you.
 
 
 
- _Information sharing with third parties – e.g. service providers, advertisers, consumer data resellers, social networks:_
+_Information sharing with third parties – e.g. service providers, advertisers, consumer data resellers, social networks:_
 
-  *  ** _Service providers that we have retained to perform certain business-related functions on our behalf:_** for example, service providers who offer services including research and analytics; hosting websites, fulfilling transactions, maintaining databases, administering contests, providing technology services and platforms, and processing payments.  These parties are provided only with the personal information or other information they need to perform their functions and can only use and disclose that information as is necessary to perform the services on our behalf, or to comply with legal requirements. We take steps to ensure that third party service providers will take appropriate steps to protect your personal information.
-  *  ** _Social Networks:_** You may interact with certain features of our online services that cause information to be published to your social networks.  For example, you may click on a Facebook “like” button, which publishes to your Facebook account that you “like” one of our stories or social media posts on other platforms.  On pages of our online services that contain social network functionality, the social network providing the functionality may be able to collect information about you, even if you don’t use that functionality. For example, if a page within our online services contains a Facebook “like” button, Facebook may be able to collect data about your visit to that page, even if you don’t click on the “like” button. To control this sharing of information, please review the privacy policy of the relevant social network and/or log out of it before you use our online services.
-  *  ** _For Mobile Apps:_** In mobile apps, your personal information and information about how you use our mobile apps may be shared with technology providers, carriers, analytics providers, and/or other mobile apps either operated by us or third parties.
-  *  ** _Advertisers, Advertising Networks and Consumer Data Resellers:  _**Some online services, including mobile apps, may be supported with advertising, and collect data to help our online services serve ads.  This helps keep the cost of online services low or free. We work with advertisers and third-party advertising networks and consumer data resellers that buy and/or sell information to other companies for multiple purposes including offering products and services that may interest you. These third parties may receive information about how you interact with content and advertising provided in our online services. These third parties may view, edit or set their own tracking technologies/cookies, which will allow them to collect information about you.
-  *  ** _Sharing of Video Viewing Behavior:  _**we may share information (and you agree to this sharing) about the video content you view on our online services with video measurement services, analytics providers and advertising companies, and third party social media sites. This sharing shall continue for two years or until you withdraw your consent. Information that may be passed to video measurement services, analytics providers and advertising companies may be via cookies and tracking technologies.
+  * **_Service providers that we have retained to perform certain business-related functions on our behalf:_** for example, service providers who offer services including research and analytics; hosting websites, fulfilling transactions, maintaining databases, administering contests, providing technology services and platforms, and processing payments.  These parties are provided only with the personal information or other information they need to perform their functions and can only use and disclose that information as is necessary to perform the services on our behalf, or to comply with legal requirements. We take steps to ensure that third party service providers will take appropriate steps to protect your personal information.
+  * **_Social Networks:_** You may interact with certain features of our online services that cause information to be published to your social networks.  For example, you may click on a Facebook “like” button, which publishes to your Facebook account that you “like” one of our stories or social media posts on other platforms.  On pages of our online services that contain social network functionality, the social network providing the functionality may be able to collect information about you, even if you don’t use that functionality. For example, if a page within our online services contains a Facebook “like” button, Facebook may be able to collect data about your visit to that page, even if you don’t click on the “like” button. To control this sharing of information, please review the privacy policy of the relevant social network and/or log out of it before you use our online services.
+  * **_For Mobile Apps:_** In mobile apps, your personal information and information about how you use our mobile apps may be shared with technology providers, carriers, analytics providers, and/or other mobile apps either operated by us or third parties.
+  * **_Advertisers, Advertising Networks and Consumer Data Resellers:  _**Some online services, including mobile apps, may be supported with advertising, and collect data to help our online services serve ads.  This helps keep the cost of online services low or free. We work with advertisers and third-party advertising networks and consumer data resellers that buy and/or sell information to other companies for multiple purposes including offering products and services that may interest you. These third parties may receive information about how you interact with content and advertising provided in our online services. These third parties may view, edit or set their own tracking technologies/cookies, which will allow them to collect information about you.
+  * **_Sharing of Video Viewing Behavior:  _**we may share information (and you agree to this sharing) about the video content you view on our online services with video measurement services, analytics providers and advertising companies, and third party social media sites. This sharing shall continue for two years or until you withdraw your consent. Information that may be passed to video measurement services, analytics providers and advertising companies may be via cookies and tracking technologies.
 
 
 
- _Information sharing with other parties:_
+_Information sharing with other parties:_
 
 In addition, we may disclose your personal information to law enforcement agencies, government/regulatory bodies, and content protection organizations to:
 
@@ -109,11 +109,11 @@ In addition, we may disclose your personal information to law enforcement agenci
 
 
 
- _Sale or transfer of all or part of our business or assets_
+_Sale or transfer of all or part of our business or assets_
 
 We reserve the right to transfer the information described in this Privacy Policy in the event we sell or transfer all or a part of our business or assets so that the buyer can continue to offer you the online services. We will make commercially reasonable efforts to provide you with reasonable notice of such transfer, or as otherwise required by law. If you do not want your personal information to be processed following such a transfer, you should contact the subsequent owner of the business.
 
-  6.  **CHILDREN**
+  6. **CHILDREN**
 
 
   * Except where otherwise indicated. we do not knowingly collect or store any personal information from children under the age of 13. Some of our online services may attract an audience that is under the age of 13. For those services, we use an age-gate to make certain features unavailable for use by children under 13, and we do not knowingly collect personal information from children under 13 in connection with those features. Where required, we will provide notice to and obtain verifiable consent from parents or guardians for the collection of personal information from children under 13, and provide parents or guardians the ability to request access to personal information we have collected from their children. We encourage parents and guardians to spend time with their children online and to be fully familiar with the online services used by their children. If a parent or guardian becomes aware that his or her child under 13 has provided us with information without his or her consent, he or she should contact us at [info@theshaderoom.com](mailto:info@theshaderoom.com). As required by law, we will delete such information from our files within a reasonable time.
@@ -123,35 +123,35 @@ We reserve the right to transfer the information described in this Privacy Polic
 
 California minors under 18 years old may request the removal of any information that they posted to The Shade Room sites by contacting [info@theshaderoom.com](mailto:info@theshaderoom.com). Upon such request, The Shade Room will anonymize, or remove from public view, any content posted by a minor to one of its websites, unless required by law to retain such content or information.
 
-  7.  **HOW WE PROTECT YOUR INFORMATION**
+  7. **HOW WE PROTECT YOUR INFORMATION**
 
 
 
 We maintain procedural, technical, and physical safeguards for our online services to help protect against loss, misuse or unauthorized access, disclosure, alteration, or destruction of the personal information you provide via our online services. We also ask the service providers that help us deliver our online services to do the same. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop, or improve our online services. Unfortunately, no transmission of data is guaranteed to be completely secure. It may be possible for third parties not under our control to intercept or access transmissions or private communications unlawfully. Therefore, any transmission of personal information to us is made at your own risk. If you believe that your interaction with us is no longer secure, please notify us using the contact details below.
 
- _Usernames & Passwords_
+_Usernames & Passwords_
 
 It is important that you protect and maintain the security of any account you create and that you notify us immediately of any unauthorized use of any The Shade Room account.  Do not disclose your password to anyone else.
 
-  8.  **YOUR RIGHTS AND CHOICES**
+  8. **YOUR RIGHTS AND CHOICES**
 
 
 
- _Communication Preferences and Opt-outs_
+_Communication Preferences and Opt-outs_
 
 If you have subscribed to one or more of our email newsletters or are receiving them from us and you don’t want them anymore, you can unsubscribe. Select the “unsubscribe” link at the bottom of any message, by other means provided to unsubscribe, or using the contact details below, to unsubscribe from marketing and promotional emails and associated marketing delivered to you on third party services based on your subscription data. However, you cannot unsubscribe from some service related messages.
 
- _Access and Correction_
+_Access and Correction_
 
 In addition to the functionality provided to you via our online services (such as using “account settings” for registered users), where legally required we provide online visitors with access to their personal information and the ability to review, update and correct it.
 
 Some access requests may be subject to a small fee. To help preserve your privacy and security, we will take reasonable steps to verify your identity, such as requiring a password and user ID, and possibly photo ID before granting access to your personal information.  Please contact [info@theshaderoom.com](mailto:info@theshaderoom.com) for more information about exercising these rights.
 
- _Data Retention and Deletion_
+_Data Retention and Deletion_
 
 We will retain your data for as long as you use our online services and for a reasonable time thereafter. If you’d like to delete, modify or update the data that you provided via our online services please use the settings on our online services or contact us at [info@theshaderoom.com](mailto:info@theshaderoom.com) and we will respond within a reasonable time. Please note that some or all of this data may be required in order for our online services to function properly, and we may be required, by law, to retain certain information.
 
-  9.  **WHERE YOUR INFORMATION WILL BE USED**
+  9. **WHERE YOUR INFORMATION WILL BE USED**
 
 
 
@@ -161,17 +161,17 @@ If you are located outside of the United States, please be aware that informatio
 
 By using our online services and providing your personal information to us, you understand and agree that your personal information may be sent to other countries including those which do not provide an equivalent level of information protection as the European Economic Area (EEA).
 
-  10.  **10**.  **IMPORTANT INFORMATION FOR CALIFORNIA RESIDENTS  **
+  10. **10**.  **IMPORTANT INFORMATION FOR CALIFORNIA RESIDENTS  **
 
 
 
 Residents of the State of California may request a list of all third parties to which our online service has disclosed certain personal information (as defined by California law) during the preceding year for those third parties’ direct marketing purposes.  If you are a California resident and want such a list, please contact us at The Shade Room, PO Box 88160, Los Angeles, CA, 90009. For all requests, you must put the statement “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code.  In the body of your request, please provide enough information for us to determine if this applies to you.  You need to attest to the fact that you are a California resident and provide a current California address for our response.  Please note that we will not accept requests via the telephone, email, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
 
- ** _Do Not Track_**
+**_Do Not Track_**
 
 California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how The Shade Room responds to “Do Not Track” browser settings. The Shade Room does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
 
-  11.  **LINKS TO OTHER ONLINE SERVICES**
+  11. **LINKS TO OTHER ONLINE SERVICES**
 
 
 
@@ -179,7 +179,7 @@ Our online services may contain links to third party websites/services for your 
 
 You should always carefully read the privacy policy of any website you access in order to understand their specific privacy and information usage practices.
 
-  12.  **UPDATES TO OUR PRIVACY POLICY  **
+  12. **UPDATES TO OUR PRIVACY POLICY  **
 
 
 
@@ -187,7 +187,7 @@ From time to time, we may revise this Privacy Policy to reflect industry initiat
 
 You can determine when this Privacy Policy was last revised by referring to the “Last Updated” or similar legend at the top of this page. Any changes to this Privacy Policy will become effective upon posting of the revised Privacy Policy on the Internet, accessible through this site. By continuing to use this online service following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Privacy Policy, as it may be amended from time to time, in whole or in part, please do not continue to use our online services.
 
-  13.  **CONTACT US**
+  13. **CONTACT US**
 
 
 
