@@ -1,172 +1,210 @@
-> *The following text is extracted and transformed from the vonage.co.uk privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619065637id_/http%3A//www.vonage.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vonage.co.uk privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027103347id_/https%3A//www.vonage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Vonage UK
+# Privacy Policy
 
-**Please read this Privacy Policy carefully - this is a legal document. Once you register with Vonage or sign up for any of Vonage's services in the UK you will be deemed to have read and consented to the uses of your Personal Information as set out in this Privacy Policy. You will also be deemed to have read and accepted this Privacy Policy.**
+### Vonage Privacy Policy
 
-#### 1\. Introduction
+* * *
 
-Vonage Limited, company number 05199171, and its group companies including Vonage Holdings Corp ( **"Vonage"** ) is strongly committed to respecting and protecting your privacy. Please carefully read the following Privacy Policy. In order to ensure your privacy, Personal Information (as defined below) Vonage collects from you as a customer or potential customer or, visitor to its website ( **"Customer(s)"** and/or **"you"** ) located at www.vonage.co.uk ( **"Site"** ), is used only in the manner and for the purposes described in this Privacy Policy.
+Last updated May 23, 2018
 
-**"Personal Information"** includes any information which can identify an individual, presented in any form, such as: age, name, address (incl. email address), ID numbers, income, credit references and records, ethnic origin, and evaluations.
+We know your privacy is important to you, and we want you to know it’s important to us too. This Privacy Policy is meant to explain our practices when it comes to your use of our products, services, and websites. We encourage you to take the time to review it carefully, to understand what information we collect, why we collect it, and what we do with it. Below, we cover the following topics:
 
-This Privacy Policy expresses our approach to complying with the Data Protection laws that apply in the UK, and applies to the collection of your Personal Information via the Site.
+  
 
-You must not register with Vonage or sign up to any Vonage service available via this Site if you do not accept this Privacy Policy and the Vonage Terms of Service.
 
-↑ Back to top
+#### Who we are
 
-#### 2\. Your Personal Information and the purposes for which information is used
+Vonage Holdings Corp., including its corporate affiliates, is a global provider of cloud communications. For our business and residential customers, we offer a complete and fully-configured unified communications solution for the delivery of end-to-end communications via voice, video, text, mobile applications, and collaboration tools. Through our subsidiary Nexmo Inc., the Vonage API Platform, we provide our communications services in programmable modules delivered via APIs and SDKs, enabling our customers to incorporate these services into their own applications to serve their own customers.
 
-As a general principle, Vonage will identify the purposes for which personal information is collected at or before the time the information is collected.
+If you are a customer located in the [European Economic Area](http://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:European_Economic_Area_\(EEA\)) (“EEA”), the following corporate affiliates of Vonage Holdings Corp., may also process your personal data as joint controllers with Vonage Holdings Corp., including for the provision of their products and services, marketing and support:
 
-What information will Vonage collect: When registering with Vonage you must provide Vonage with the following personal information:
+  * Vonage Limited (company number 05199171) with a registered address of 5 New Street Square, London, England EC4A 3TW
+  * Nexmo Limited (company number 07935346) with a registered address of 5 New Street Square, London, England, EC4A 3TW
 
-  1. your full name;
-  2. your address;
-  3. your email address;
-  4. current phone number;
-  5. credit card details;
 
 
+This Privacy Policy applies to our customers, prospective customers, our customers’ customers (both direct and indirect), and visitors to our company websites, including but not limited to [www.vonage.com](http://www.vonage.com/), [www.vonage.co.uk](http://www.vonage.co.uk/), [www.nexmo.com](http://www.nexmo.com/), and [www.phonerequests.com](http://www.phonerequests.com/). **If you do not agree with this Privacy Policy, do not access or use our services or interact with any other aspect of our business.** Note: if you’re a user of an application that is integrated or built using Vonage’s products and services, that application’s privacy policy will describe how it collects, uses, stores, and shares your data. We are not responsible for the privacy policies or actions of our customers.
 
-Vonage may also collect Personal Information from such third parties as credit bureaus, employers or personal references or other third parties that represent that they have the right to disclose the information.
+#### What information we collect
 
-Purposes: This information and any other information you provide to Vonage via the Site, email or telephone is required in order to provide you with Vonage's services and the relevant equipment required to use Vonage's services. Also to verify your credit status with third party credit agencies and to inform you of any new offers and services which may be of interest to you.
+We collect your information in the following ways:
 
-Vonage collects Personal Information only for the purposes set out in this Privacy Policy, including to provide service(s) and/or products to its Customers:
+  * **Information you provide directly to us.** When you subscribe to our newsletters, register for one of our webinars, sign up for our services, request us to contact you, or through other interactions with us, we may ask you for certain personal information, such as your name, birthdate, address, e-mail address, telephone number, company name, job title, or payment information. When you request support from us, we may also collect information from you such as contact information, documentation, screenshots, or other information you or we may believe is helpful to solving the issue. When you speak with our customer service or sales representative on the phone, your calls may be recorded and/or monitored for quality assurance and training purposes. In certain circumstances, we may collect your Social Security number from you for a limited purpose, such as for tax reporting relating to a payment for a customer referral or to facilitate an international money transfer.
+  * **Information we collect automatically when you visit our websites.** We and our third-party partners, such as our advertising and analytics partners, collect information about your visits to our websites and your interactions with our ads or content, together with information such as your IP address, cookies, and other tracking technologies (e.g., web beacons, device identifiers, and pixels). For more information, please see our Cookies and Tracking Notice, which includes information on how to control or opt out of these cookies and tracking technologies.
+  * **Information we get from third parties.** Third party sources of information include: 
+    * **Third party services and social media.** If you create an account or access our services through your account with a third-party service, such as Facebook, Google, LinkedIn, GitHub or Twitter, or use a social media feature through our services, certain personal data from those third-party social media services may be shared with us, such as your interests, “likes,” and friends list. We may use this information, for example, to personalize your Vonage experiences and marketing communications, to enhance our services, and to better serve you. You can control this data sharing via options in your social media accounts. We may also collect information from third party services that are integrated with our services, such as third-party CRMs or other applications that you authorize our services to connect with.
+    * **Credit agencies.** We may obtain your credit information from third party reporting agencies in order to control our own credit risk in onboarding new customers.
+    * **Demographic, lead, and interest data.** We may obtain information from outside companies such as those that collect customer information including demographic and interest data. Examples of this information include your employment status, your job title with your current employer, and your business contact information. We use this data and combine it with other information we have about you to help us predict your preferences and to direct marketing offers that might be more relevant to you. We also obtain where permitted by law contact information and other marketing lead information from third parties, website “refer-a-friend” options or social media platforms and may combine it with information we have to contact you or direct Vonage marketing offers to you.
+    * **Information about our customers’ users.** Our customers and other third parties may also provide us with personal information about our customers’ users and others. For example, we may receive personal information and other information from our customers, message senders, mobile network operators, databases with information relevant to mobile telephone numbers submitted to our services, and other third parties. This information may include, without limitation, telephone numbers, telephone numbers’ validity, type (e.g., mobile, landline, etc.), corresponding device status (e.g., whether or not it is currently available for messaging), roaming status, carrier, country of location, and whether or not the number has been ported and is used to help us provide our services.
+  * **Information collected in connection with your use of services delivered via our platform.** We and our service providers may collect information in connection with your use of communications services delivered via our platform. 
+    * **Communications usage information.** This includes information about your communications delivered via our platform such as the time and duration of usage, source and destination identifiers, completion status, location, IP address, and amount of usage.
+    * **Communications content.** To enable you to send and receive communications via our platform, we need to be able to handle the content of the messages, calls, and other communications channels used by you. This also includes, for example, voicemails and call recordings recorded via our services.
+  * **Device information.** Where we have provided end user equipment to you, such as an analog telephone adapter or a VoIP phone, or you have installed our software on your device, we collect device-specific information from you. This includes, for example, your hardware model, operating system version, firmware, browser information, device and network configuration, device identifier, IP address, device performance, signal strength, call quality, telemetry, and mobile or wireless network information. We use the device information we collect in order to deliver and improve our services. 
+    * **Your contact lists and address book.** If you use our mobile apps, we may request your permission to access and store the contact list or address book maintained on your mobile phone, tablet, or other broadband-connected device. Your contact list is considered your personal data. We may use your contact list information to facilitate certain services where selected by you such as to enable you to make calls easily and to facilitate calls, texts, and other services. We may also facilitate the delivery of messages to individuals in your contact list that you wish to invite to download our mobile apps so that you can utilize our services with these selected individuals, although it is always your choice to send invites to such individuals. We will not use your contact list information for other purposes without first notifying you of the proposed use. You do not have to allow us to access your contact list information, but if you do not, certain features of our mobile apps may not be available to you. You may at any time opt out from allowing this access via the privacy settings on your device.
+    * **Mobile device camera, microphone and photos.** If you use our mobile apps, we may request your permission to access the camera, microphone, and photos on your mobile device, to make and receive voice and video calls and messages and to send photos to others. You do not have to allow us to access these functions of your device, but if you do not, certain features of our mobile apps may not be available to you. You may at any time opt out from allowing this access via the privacy settings on your device.
+    * **Your location information.** If your mobile device is equipped with GPS or can connect with wireless access points or hot spots, or if your mobile device is also a phone that communicates with cell towers or satellites, then your mobile device is able to use these features to determine its precise geographic location. You may use the mobile app to do a one-time share of your precise geographic location through a message in a chat session by pressing the location attachment button within the mobile app (a “Location Share Event”). We will retain the Location Share Event within your chat session on the mobile app until you delete the message. Your precise geographic location, including a Location Share Event, is considered your personal data. To the extent our mobile apps collect precise geographic location, you may at any time opt out from further allowing us to have access to your mobile device’s precise location information via the mobile app’s location settings on your mobile device.
 
-  1. to maintain commercial relations and to communicate with its Customers (which will include, but not be limited to: billing, collection, support, advertising, promotion, account and credit card verification);
-  2. to evaluate Customers' financial status and eligibility for credit;
-  3. to identify Customer needs and/or preferences;
-  4. to meet legal and regulatory requirements;
-  5. to administer and manage its business operations; and
-  6. as otherwise required or permitted by law.
 
 
+#### Why we collect your information and how we use it
 
-↑ Back to top
+How we use the information we collect depends on which of our services you use, how you use them, and specific preferences you may have communicated to us. We list below the specific purposes for which we collect your information.
 
-#### 3\. Limiting use, disclosure and retention
+  * **To deliver our services.** We use your information because it is necessary to perform our obligations in delivering our services to our customers. This includes delivering your communications to the intended end user, processing transactions with you (such as billing), authenticating you when you log into our platform, providing customer support, and operating and maintaining our services. We also need your information to communicate with you about the services, including registration confirmations, purchase confirmations, expiration or renewal reminders, responding to your requests, and sending you notices, updates, security alerts, administrative messages, and other communications necessary to usage of the services.
+  * **To carry out core activities relating to our services.** To effectively deliver our services to you, we use your information to engage in important supporting activities such as: 
+    * billing and collections, including maintenance of records in the event of a subsequent billing dispute;
+    * preventing fraud, violations of our acceptable use policies, and unlawful activities;
+    * troubleshooting, quality control, and analytics; and
+    * monitoring the performance of our systems and platform.
+  * **For research and development.** We are constantly looking for ways to improve our services, to make them more reliable, secure, and useful to you and our users generally. We use data regarding our users’ communications on our platform to understand how our services are performing and how they are being used in order to identify areas where we can do better. For instance, we may use message delivery and call connection information to gauge the effectiveness of our routing to ensure that your messages are delivered and your calls are connected. We and our service providers may use your information to assess the level of interest in, and use of, our services, our communications to our customers, and our other messaging campaigns, both on an individual basis and in the aggregate. We also use information about your use of our websites to understand how our website visitors are using our websites. Among other things, this usage information, along with tracking technologies, enables third-party analytics companies, such as Google Analytics, to generate analytics reports on the usage of our services. To opt out of your usage information being included in our Google Analytics reports, you may follow these [instructions](https://tools.google.com/dlpage/gaoptout?hl=en).
+  * **To market, promote, and drive engagement of our products and services.** We use data about you to send promotional communications that may be of specific interest to you. Based on information we collect about you, we may decide whether and how to promote certain of our products or services to you over others. These communications are to drive your engagement and maximize the value of our services to you. To perform the above functions and others described in this Privacy Policy, we may match information collected from you through different means or at different times, including personal data and usage information, and use such information along with information obtained from other sources (including third parties) such as contact information, demographic information, and personal interest information. Subject to your ability to opt out, by providing your contact information to us, you consent to receive e-mail messages, text messages, phone calls, faxes and postal mail, including that of a promotional nature, from Vonage. Where local law permits, you consent to receive phone calls from Vonage and its affiliates even if your phone number is listed on “do not call” registries. Where local law permits, an auto-dialer and/or artificial or prerecorded message may be used to make calls to you. You may not consent on behalf of someone else or provide someone else’s contact information. You are not required to agree to promotional communications in order to purchase goods or services from us. You can control whether you receive these kinds of communications as described below in Opt out of communications.
+  * **To comply with legal requirements.** Applicable laws or regulations may require our processing of your data, such as laws mandating retention of communications data.
+  * **To protect our legitimate business interests and legal rights.** Where we believe it is necessary to protect our legal rights, interests and the interests of others, we use information about you in connection with legal claims, compliance, regulatory, and audit functions, and disclosures in connection with the acquisition, merger or sale of a business.
+  * **According to your explicit consent.** If we wish to use your information for certain purposes which require consent under applicable law, we will first seek out and obtain your consent. This may include, for example, testimonials or case studies that identify you in your individual capacity.
 
-Sharing and use of Personal Information: The over-riding principles Vonage apply are these:
 
-  1. Vonage, and (where relevant) our credit card processing agents or other third parties we share your information with, will not supply your personal data to a third party for commercial exploitation - thus, you can rest assured that we will not sell the lists of our Customers' email addresses to a third party; and
-  2. The only circumstances in which we will provide any of your personal data to a third party for non-commercial purposes are those contained in this Privacy Policy.
 
+#### European Economic Area users and our “lawful bases” for using their data
 
+European data protection law requires organizations like us to provide a lawful basis to collect and use your information. Our lawful basis to collect and use information from our EEA users include when:
 
-Credit card information: There has been a lot of publicity about credit card security on the internet so Vonage has decided to operate a secure server, to process credit card payments. Vonage encrypts Customers' credit or debit card information and authorise payment directly. Vonage may transfer to, process and hold your credit card information in countries either within or outside the European Economic Area in connection with performing Vonage's duties.
+  * We need it in order to provide you with the services and to carry out the core activities related to our provision of the services.
+  * We need to comply with a legal obligation.
+  * We have a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote the services and to protect our legal rights and interests.
+  * You give us your consent to do so for a specific purpose.
 
-Changes in Vonage's business. Personal Information may also be disclosed in connection with a sale, transfer or reorganisation of one or more of Vonage's businesses, in which case Vonage will require that any Personal Information will continue to be treated in accordance with this Privacy Policy or as otherwise permitted by law.
 
-Personal Information will not be used or disclosed for purposes other than those for which it was collected, except with the consent of you, the individual or as otherwise required or permitted by law. Personal Information will be retained only as long as necessary for the fulfilment of those identified purposes or as otherwise required or permitted by law.
 
-Vonage may disclose a Customer's Personal Information to:
+#### Who we share your information with and why
 
-  1. another company for the provision of its services to that Customer;
-  2. a person involved in the development, promotion, marketing or enhancement of Vonage services;
-  3. a credit checking or collections agency;
-  4. emergency services in an emergency situation;
-  5. third party affiliates for administrative purposes (for example, Customer billing, support, marketing, etc.); and
-  6. any other third party, upon receiving the consent of the Customer or as required by law.
+We may share your information as detailed below:
 
+  * **Third-party service providers that help us to deliver the services and allow us to operate our businesses.**
+    * Communications providers. As the provider of a communications platform, we share the data we collect from you with communications providers (including traditional PSTN telecommunications companies and over-the-top communications service providers) as necessary in order to provide you with the services. These are the telecommunications companies, for instance, who we need to ensure your calls, messages and other communications reach the people you want to contact.
+    * Business operations vendors. We work with third-party service providers to provide website and application development, hosting, maintenance, backup, storage, virtual infrastructure, payment processing, analysis and other services for us, which may require them to access or use information about you. We only work with carefully selected vendors, and we require any vendors with whom we share personal data to protect the confidentiality of such information and use it solely for the purposes for which it was shared.
+    * Partners. In the event that you purchase services offered by Vonage or a partner through a special marketing arrangement (for example, through a co-branded advertisement or offer, or an arrangement where we and a partner market or offer the other’s products or services), we may share your information with these third parties in connection with their services, such as to assist with billing and collections, to provide localized support, and to provide customizations. We may also share information with these third parties where you have agreed to that sharing.
+  * **Third party websites.** Our services and websites may include links that direct you to other websites or services whose privacy practices may differ from ours. If you submit information to any of those third party sites, your information is governed by their privacy policies, not this one. We encourage you to carefully read the privacy policy of any website you visit.
+  * **Compliance with law enforcement requests and applicable laws; enforcement of our rights.** We may disclose personal data as required by applicable law, regulation, legal process or government request; to protect Vonage, our services, our customers or the public from harm or illegal activities; and to enforce our agreements, policies and service terms.
+  * **With your explicit consent.** We share information about you with third parties when you give us consent to do so. For example, we often display use cases or testimonials of satisfied customers on our public websites and require your consent to identify you in your individual capacity. If you are a business customer, and have requested this, your business name and phone number may be included in public directories.
+  * **Sharing with senders and recipients of communications.** The name on your account, or a portion thereof, and/or your phone number may be displayed to people that you make calls to and to other users of the services so that they may contact you. Depending on the service you’re using, you may be able to control what’s displayed by adjusting your settings within the mobile app or your customer account, or by contacting customer care at the address provided when you signed up for the services.
+  * **Vonage affiliates; business transactions.** We share your information with and among our corporate affiliates in order to operate and improve the services we provide to you; and we may share your information in connection with a sale, merger, liquidation, or reorganization of our business or assets.
+  * **Credit control.** We conduct credit checks on new customers in order to control the risk of non-payment. In the event of non- or late payment, we may disclose your name, address and other details to credit bureaus and agencies. They may use that information to assess your credit rating and provide that rating to other companies.
 
 
-Such disclosures may in some cases be to recipients outside of UK and European Economic Area.
 
-Vonage will retain Personal Information that has been used to make a decision about an individual long enough to allow the individual access to the information after the decision has been made, and, in the event of an access request or a challenge, long enough to exhaust any recourse an individual may have under the law.
+#### How we protect your information
 
-When Personal Information that previously has been collected is to be used for a purpose not previously identified, the new purpose will be identified prior to use. Unless otherwise permitted by applicable law, Vonage will obtain the consent of the individual before information is used for that new purpose.
+Vonage has implemented administrative, physical, and technical safeguards to help protect the personal data that we transmit and maintain. However, no system or service can provide a 100% guarantee of security, especially a service that relies upon the public internet. Therefore, you acknowledge the risk that third parties may gain unauthorized access to your information. Keep your account password secret and please let us know immediately if you think your password was compromised. Remember, you are responsible for any activity under your account using your account password or other credentials.
 
-Occasionally, Vonage will communicate to you special bonus and new product offers that we think may be of value to you. Vonage may retain third parties to assist it in marketing such new or additional Vonage products and services to our Customers (and for such purpose may share Personal Information with such third parties) but will not otherwise disclose or make available any Personal Information to any third parties seeking to market their products to Vonage's Customers.
+#### Where we store your information and international transfers
 
-All Vonage Customers have the right to choose not to participate in direct marketing of new products and services from Vonage. If you wish to opt-out of receiving targeted communications from Vonage in electronic, printed or verbal format (other than information included with your monthly bills), simply inform us in writing at Vonage: c/o Privacy Officer, [privacyofficer@vonage.co.uk](mailto:privacyofficer@vonage.co.uk)
+Personal information held by Vonage is stored on and processed on computers situated in the United Kingdom, the EEA, the United States, and in other jurisdictions. We and/or our service providers also process data in some other countries for customer care, account management and service provisioning.
 
-The Site may provide hyperlinks, which are highlighted words or pictures within a hypertext document that may, when clicked, take you to a third party website not controlled by Vonage. Such hyperlinked third party websites may collect and disclose information in a different way to this Site. Vonage is not responsible for the collection, use, or disclosure of information collected through these third party web sites, and Vonage expressly disclaims any and all liability related to such collection, use, or disclosure.
+If you are an EEA resident, your personal data held by Vonage may be transferred to, and stored at, destinations outside the EEA that may not be subject to equivalent data protection laws, including the United States. When you sign up for service with Vonage or inquire about our services, we transfer your information to the United States and other countries as necessary to perform our agreement with you or to respond to an inquiry you make. It may also be processed by staff situated outside the EEA who work for us or for one of our suppliers.
 
-↑ Back to top
+Accordingly, by using our services, you authorize the transfer of your information to the United States, where we are based, and to other locations where we and/or our service providers operate, and to its (and their) storage and use as specified in this Privacy Policy and any applicable terms of service or other agreement between you and Vonage. In some cases, Vonage may seek specific consent for the use or transfer of your information overseas at the time of collection. If you do not consent, we may be unable to provide you with the services you requested. The United States and other countries where we operate may not have protections for personal information equivalent to those in your home country.
 
-#### 4\. Consent to transfer of Personal Information Overseas
+Where your information is transferred outside the EEA, we will take all steps reasonably necessary to ensure that your data is subject to appropriate safeguards, such as relying on a recognized legal adequacy mechanism, and that it is treated securely and in accordance with this Privacy Policy.
 
-Place of processing: The Personal Information held by Vonage is stored on and processed on computers situated in the United States and (for telephone support) the Philippines.
+  * **International transfers within Vonage and its corporate affiliates.** To facilitate our global operations, we transfer information among our corporate affiliates in countries whose privacy and data protection laws may not be as robust as the laws of the countries where our customers and users are based. We utilize standard contractual clauses approved by the European Commission and rely on the European Commission’s adequacy decisions about certain countries, as applicable, for data transfers from the EEA to the United States and other countries.
+  * **International transfers to third parties.** Some of the third parties described in this Privacy Policy, which provide services to us under contract, are based in other countries that may not have equivalent privacy and data protection laws to the country in which you reside. When we share information of users in the EEA or Switzerland with such third parties, we shall make use of legally-recognized data transfer mechanisms, which may include the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, the European Commission’s standard contractual clauses, binding corporate rules for transfers to data processors, or other appropriate legal mechanisms to safeguard the transfer.
 
-The knowledge and consent of you, the individual is normally required for the transfer of Personal Information to a destination outside the EEA, subject to certain exceptions. In certain circumstances, Personal Information can be transferred to a destination outside the EEA without the knowledge and consent of the individual.
 
-Personal Information is transferred abroad for the purpose of performing contractual obligations owed by Vonage to you.
 
-Consent: Where required, Vonage will generally seek consent for the use or transfer the information overseas at the time of collection. In certain circumstances, consent with respect to use or disclosure may be sought after the information has been collected but before use (for example, when Vonage wants to use information for a purpose not previously identified).
+#### How long we store your information
 
-You may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. Vonage will inform you of the implications of such withdrawal. In order to withdraw consent, you must provide notice to Vonage in writing.
+We store your information until it is no longer necessary to provide the services or otherwise relevant for the purposes for which it was collected. This time period may vary depending on the type of information and the services used, as detailed below. After such time, we will either delete or anonymize your information or, if this is not possible (for example, because the information has been stored in backup archives), then we will securely store your information and isolate it from any further use until deletion is possible. We may also retain aggregate information beyond this time for research purposes and to help us develop and improve our services. You cannot be identified from anonymized information retained or used for these purposes.
 
-↑ Back to top
+  * **Customer account information.** We store your account information for as long as your account is active and a reasonable period thereafter in case you decide to re-activate the services. We also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, and to continue to develop and improve our services.
+  * **Communications usage information.** While you’re an active customer, we retain the communications usage information generated by your use of the services until the information is no longer necessary to provide our services, and for a reasonable time thereafter as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, and to continue to develop and improve our services.
+  * **Marketing information, cookies and web beacons.** If you have elected to receive marketing e-mails from us, we retain information about your marketing preferences for a reasonable period of time from the date you last expressed interest in our services, such as when you last opened an e-mail from us or visited our websites. We retain information derived from cookies and other tracking technologies for a reasonable period of time from the date such information was created.
+  * **Device information.** We collect device-specific information from you when we have provided end user equipment to you, such as an analog telephone adapter or a VoIP phone, or you have installed our software on your device. If you do not revoke our access to this information via the privacy settings on your device, we will retain this information for as long as your account is active.
 
-#### 5\. Cookies Policy
 
-The Site uses a feature of Internet web browsers called a cookie, which is a file that is sent to your browser from the Site's computers and stored on your computer's hard drive. A cookie assigns a unique identification code to your computer.
 
-Cookies are used to track and maintain continuity of web sessions such as the subscription process or your viewing of your call details. They also help us track visitors, conduct research, allow you to back click to earlier registration pages viewed by you and improve our content and services.
+#### How to access and control your information
 
-Vonage's cookies do not collect Personal Information other than the IP address from which you are accessing the Site which may be considered Personal Information. Vonage only collects Personal Information if you knowingly and willingly provide such information.
+  * **Your choices.** To request deletion of your Vonage account, please contact us. You should know that deletion of your Vonage account will result in you permanently losing access to your account and all customer data to which you previously had access through your account. Please note that certain data associated with that account may nonetheless remain on Vonage’s servers in an aggregated or anonymized form that does not specifically identify you. Similarly, data associated with your account that we are required by law to maintain will also not be deleted. If you are an end user of an application that uses Vonage’s services, you should direct requests for access and/or deletion of your data associated with that application to the relevant application provider in accordance with that application provider’s own privacy policy.
+  * **Access to your account information.** Consistent with applicable laws and data security requirements, we will reasonably honor written requests from you to access or amend your account information, such as name, address, and billing information. You are responsible for ensuring that the information on file with Vonage is current and accurate. You may access and update your information by logging into your account or contacting us as described in this Privacy Policy. Where permitted by law, we may charge a reasonable fee to process requests for access to data and may limit the number of requests per year. Your right to amend your information is subject to our records retention policies.
+  * **Opt out of communications.** You may opt out of receiving promotional communications from us by using some or all of the following methods: the unsubscribe link within each e-mail, updating your e-mail preferences within your service account settings menu, or by contacting us as provided below to have your contact information removed from our promotional e-mail list or registration database. Even after you opt out from receiving promotional messages from us, you will continue to receive transactional messages from us regarding our services. Depending on your type of account with Vonage, you may be able to opt out of some notification messages in your account settings.
+  * **Your rights as an EEA resident.** If you are from the EEA, you may have broader or additional rights, including: 
+    * to be provided with a copy of your personal data held by us;
+    * to request the rectification or erasure of your personal data held by us;
+    * to request that we restrict the processing of your personal data (while we verify or investigate your concerns with this information, for example);
+    * to object to the further processing of your personal data, including the right to object to marketing and profiling; and
+    * to request that your provided personal data be moved to a third party.
 
-On this Site, the following types of cookie are used:
 
-Session cookies: these cookies are temporary and will be removed from your computer when you leave the Site.
 
-Persistent cookies: these cookies remain on your computer until you either delete them or they expire.
+Where the processing of your personal data by us is based on consent, you have the right to withdraw that consent without detriment at any time by contacting us. If you do not want your personal data used by Vonage for any direct marketing purposes, or shared with third parties for their own marketing use, then you may opt out of such use or sharing by contacting us, even if you have previously consented to such use.
 
-Third Party cookies: these cookies are set by companies and websites that help us make Vonage offers and promotions that we feel will be of more interest to you. These third party companies and websites are trusted and their cookies only collect anonymous data. These cookies cannot be used to find out your identity.
+You can exercise the rights listed above at any time by contacting us and if you feel that your request or concern has not been satisfactorily resolved, you may approach [your local data protection authority](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm). The [Information Commissioner](https://ico.org.uk/) is the supervisory authority in the United Kingdom and can provide further information about your rights and our obligations in relation to your personal data, as well as deal with any complaints that you have about our processing of your personal data.
 
-When you visit third party websites, we strongly recommend that you read their applicable terms and cookie policies before using any third party website.
+#### Other important information
 
-For a list of the main cookies used on the Site [click here](https://web.archive.org/privacy/cookies-list/).
+  * **Information from children.** Vonage does not sell products or services for purchase by children and we do not knowingly solicit or collect personal data from children or teenagers under the age of eighteen. If you believe that a minor has disclosed personal data to Vonage, please contact us.
+  * **Your California privacy rights.** California's “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California consumers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy, as we do, only to disclose personal information of consumers to third parties for the third parties' direct marketing purposes if the consumer has opted into such information-sharing.
+  * **Changes to this policy.** In the event we make changes to this Privacy Policy, we’ll let you know by posting a notice on our website at [www.vonage.com/privacy-policy](http://www.vonage.com/privacy-policy) and, in relation to substantive changes that broaden the types of personal data collected or their usage, we will notify you via e-mail to the e-mail address associated with your account, via our platform or websites, or by some other means.
 
-You may set your Internet web browser to notify you when you receive a cookie or to prevent cookies from being sent or to search for and delete cookies stored on your hard drive. If you prevent a cookie from being sent or if you delete a cookie from your hard drive, you may limit the functionality of the Site. For more information on disabling cookies please visit [www.allaboutcookies.org/manage-cookies](http://www.allaboutcookies.org/manage-cookies) or visit your Internet web browser's help menus.
 
-↑ Back to top
 
-#### 6\. Accuracy and removing your details
+#### How to contact us
 
-Personal Information will be updated as necessary for the purposes for which it is to be collected and used.
+If you are a resident of the EEA, the data controller responsible for your information is Vonage Limited, which you can contact as follows:
 
-Vonage will not routinely update Personal Information unless such a process is necessary to fulfil the purposes for which the information was collected. Personal Information that is used on an ongoing basis, including information that is disclosed to third parties, will generally be accurate and up-to-date to the best of Vonage's knowledge.
+> Vonage Limited  
+>  Attn: Data Protection Officer  
+>  15 Bonhill Street, 3rd Floor  
+>  London, England  
+>  EC2A 4DN  
+>  E-mail: [privacy@vonage.com](mailto:privacy@vonage.com)
 
-↑ Back to top
+If you live anywhere else, please direct questions about this Privacy Policy to:
 
-#### 7\. Safeguards and security
+> Vonage Holdings Corp.  
+>  23 Main Street  
+>  Holmdel, NJ 07733 USA  
+>  E-mail: [privacy@vonage.com](mailto:privacy@vonage.com)
 
-Vonage has invested and deployed a wide variety of technology and security features to ensure the privacy of personal and anonymous information collected by it. In addition, Vonage has implemented strict operations guidelines to safeguard Customer privacy at every level of its organisation. Unfortunately, no system is perfect; therefore, Vonage makes no representations or warranties with regard to the sufficiency of these security measures.
+#### Cookies and Tracking Notice
 
-Vonage shall not be responsible for any actual, indirect or consequential damages (or any other damages or liability of any kind whatsoever, whether as a result of negligence or otherwise) that result from a lapse in compliance with this Privacy Policy because of a security breach or technical malfunction. Nothing in this Privacy Policy shall however limit or exclude Vonage's liability in respect of death or personal injury caused by its negligence or for fraud.
+A cookie is a small text file that a website saves on your computer or mobile device in order to facilitate and enhance your interaction with that service. We or our service providers may use cookies and equivalent technologies such as clear gifs, web beacons, pixel tags, Javascript, device fingerprinting, and third-party cookies on our website and, where relevant, in our promotional e-mails.
 
-Vonage protects all Personal Information regardless of the format in which it is held. The methods of protection include:
+They also help us track users, conduct research, allow you to back click to earlier registration pages viewed by you and improve our content and services. For instance, we may use web beacons on our websites to access and set cookies and otherwise help us to better understand how users are moving through our websites. Information provided by the web beacon includes the computer’s IP address, the type of browser being used and the time that the web beacon was viewed. We may also use web beacons in e-mails and newsletters so that we know when such communications have been opened and to otherwise help us tailor our communications to individual users.
 
-  1. physical measures, such as restricted access to offices;
-  2. organisational measures, such as security clearances and limiting access on a "need to know" basis;
-  3. technological measures, such as the use of passwords and encryption.
+Learn more about when and how we use cookies and tracking technologies and some of our service providers:
 
+  * **When it’s strictly necessary**
 
+These cookies and other technologies enable us to recognize you when you return to our service and to maintain your web session so you can more easily navigate the subscription process or your viewing of your call details. They are also essential for you to access secure areas of our sites, for example, to use shopping baskets or make payments.
 
-↑ Back to top
+**Google Tag Manager** is a third-party service provider that allows us to manage website tags via an interface. Tags are small elements of code that are used, for example, to measure traffic and visitor behavior, to understand the effect of online advertising and social channels, to set up remarketing and orientation towards target groups, and to test and optimize websites. Google Tag Manager only implements tags. This means that no cookies are used and, as a result, no personal data is recorded. We list it here for completeness and to be transparent about the tools we use. If deactivation has been performed at a domain, page, event or 3rd party script level, this remains in place for all tracking tags if these are implemented with Google Tag Manager.
 
-#### 8\. Accountability
+  * **For performance and analytics**
 
-Vonage is responsible for Personal Information under its control and has designated an individual or individuals who are accountable for the organisation's compliance with this Privacy Policy.
+These cookies and similar technologies collect statistical information about how you use our websites so that we can improve your user experience. We use cookies to identify the number of unique visitors we receive to different parts of the website and identify where leads originate. This helps us for our legitimate interests of improving the way our website works, for example, by ensuring that users are finding what they are looking for easily.
 
-If you have any questions or concerns in relation to this Privacy Policy Vonage's Privacy Officer may be contacted at:
+**Google Analytics** is one of the third-party analytics providers that we use to help us improve our website. Google Analytics uses cookies to help the website analyze how visitors use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by a Google server in the United States. Google uses this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing website operators with other services relating to website activity and internet usage. You can prevent the storage of data relating to your use of the website and created via the cookie (including your IP address) by Google as well as the processing of this data by Google by downloading and installing the browser plug-in available [here](https://tools.google.com/dlpage/gaoptout?hl=en).
 
-Attention: Vonage Limited c/o Privacy Officer: **e-mail:** [privacyofficer@vonage.co.uk](mailto:privacyofficer@vonage.co.uk)
+  * **To enable functionality**
 
-↑ Back to top
+These cookies and similar technologies can tell us which language you prefer and what your communications preferences are. They can help you fill out forms on our sites more easily. They also enable customization of the layout and/or content of the pages on our sites.
 
-#### 9\. Individual access
+  * **For targeted advertising**
 
-Access requests: Upon written request, Vonage will inform you whether or not it holds Personal Information about you, and will provide you with the opportunity to review the Personal Information it holds and request the update or modification of the same or request its deletion in accordance with this Privacy Policy. Vonage may charge a £10.00 fee to cover its costs in providing such data to you.
+These cookies and other technologies record your visits to our website, the pages you have visited and the links you have followed. We will use this information subject to your choices and preferences to make our website more relevant to your interests. **We may also share this information with third parties for this purpose**. These companies may use information about your online activities over time and across our services and other online properties, the region of the country or world where your IP address indicates you are located, as well as other information about you, in order to provide advertisements about goods and services of interest to you. The information practices of these ads networks are governed by their own privacy policies and are not covered by this Privacy Policy. For more information about third-party advertisers and how to prevent them from using your information, visit [Aboutads.info](http://www.aboutads.info/choices) and for our EEA users [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/). You have to opt out using each of your web browsing applications, computers and mobile devices separately.
 
-Disclosure for legal reasons: Vonage reserves the right to communicate such of your Personal Information as it holds to third parties which seek the disclosure of it, and which make a legally compliant request for its disclosure. Vonage also reserves the right to communicate your Personal Information to the relevant authorities if we believe that you are involved in illegal activities or commit any breach of this Privacy Policy, which would justify such disclosure.
+  * **Social media cookies and widgets** We use social media platforms to advertise to you online and to monitor the success of our advertising (for instance by receiving reports when you click on our ads on Facebook, LinkedIn and others). We summarize the main advertising and social media partners who drop cookies below: 
+    * **LinkedIn Ads:** the analysis and conversion tracking technology provided by the social network LinkedIn is integrated into our website. When you visit our website, a connection is established between your browser and the LinkedIn server via the remarketing tags. This informs LinkedIn that you visited our website with your IP address, meaning that LinkedIn can connect your visit to our website with your user account. We can use this information to display LinkedIn ads. Please be aware that we as the website provider do not receive any information about the content of the transferred data or how it is used by LinkedIn. Further information can be found in LinkedIn’s [privacy policy](https://www.linkedin.com/legal/privacy-policy).
+    * **Marketo:** We use third party marketing software from a company called Marketo to send some of our e-mails. We use cookies as part of tracking so we have information on e-mail open rates and click through rates. We also track activity on the website. For example, visitors can download marketing white papers from the site and we use Marketo cookies to see who does this and if they then visit other parts of our website. For more information on Marketo’s privacy and cookie policy, please visit Marketo’s [privacy policy](http://www.marketo.com/trust/legal/privacy).
+    * **DoubleClick:** Google's Doubleclick re-targeting cookie lets us serve personalized advertising to you when you're browsing other websites and social media platforms. You can control advertising personalization on Google and partner websites [here](https://policies.google.com/technologies/ads?hl=en-GB&gl=uk).
+    * **Facebook Custom Audience:** This service from Facebook enables us to display personalized ads to people on our e-mail lists when they visit Facebook. We provide personal information such as your e-mail address and phone number in encrypted form to Facebook (so they cannot be seen by anyone at Facebook) to enable Facebook to determine if you are a registered account holder with Facebook.
+    * **Twitter advertising and remarketing:** We advertise on Twitter and our advertising content will be tailored to your interests on the basis of your browsing behavior and the pages you have consulted on this and other websites. In order to improve the relevance of our marketing content, the cookie may therefore transmit such data to Twitter, who will use it to understand your interests better including to benefit their other advertising customers. If you decide that you do not wish your browsing data to be collected, you can find comprehensive information on Twitter’s advertising policy and the steps you can take to protect your privacy [here](https://support.twitter.com/articles/20170514).
+    * We also use **Facebook Connect** to allow you to sign up and log in to our websites by using your Facebook account. If you sign up using Facebook Connect, Facebook will ask your permission to share certain information from your Facebook account with us. This may include your first name, last name, and e-mail address in order for us to verify your identity and gender, general location, a link to your Facebook profile, your time zone, birthday, profile picture, your "likes" and your list of friends. This information is collected by Facebook and is provided to us under the terms of Facebook’s [data privacy policy](https://www.facebook.com/privacy/explanation). You can control the information that we receive from Facebook using the privacy settings in your Facebook account.
 
-Data protection information: You can obtain further information about data protection laws in the UK by visiting the Information Commissioner's website at [www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/). You can search for our publicly available Data Protection Notification there, should you so wish.
 
-This Privacy Policy may be modified from time to time without notice. This policy was last updated on August 3rd, 2011.
 
-↑ Back to top
+**How to control cookies**
+
+You can control and/or delete cookies as you wish – for details, see [www.aboutcookies.org](https://www.aboutcookies.org/). You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work. You will not be able to opt-out of any cookies or other technologies that are “strictly necessary” for the services. Where you have not set your permissions, we may also separately prompt you regarding our use of cookies on the site.
