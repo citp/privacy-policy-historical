@@ -1,70 +1,160 @@
-> *The following text is extracted and transformed from the prageruniversity.com privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303230629id_/https%3A//www.prageru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prageruniversity.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027144253id_/https%3A//www.prageru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PragerU
 
-We at Prager University Foundation respect your concerns about privacy and value the relationship we have with you. This Privacy Notice describes the types of personal information we collect, how we may use that information, and with whom we may share it. Our Privacy Notice also describes the measures we take to protect the security of the information. In addition, we describe the choices you can make about how we use the information you provide to us. We also tell you how you can reach us to update your contact information, remove your name from our mailing lists, or answer any questions you may have about our privacy practices. We maintain full confidentiality of all sponsors and contributors on our mailing and email lists, which will not be sold with any other organization or commercial enterprise. We do share some information as described below.
+_Updated May 25, 2018_
 
-##  Information We Collect and How We Use It
+Prager University is a not-for-profit foundation based in the United States of America.  Prager University and its affiliated programs have created this Privacy Policy to explain why we collect particular information, what information we collect, how we process the information we collect, and how we will protect your personal privacy. The following policy also discloses our information gathering and dissemination practices for websites and/or mobile applications we operate at PragerU.com, PragerU.org, PragerUniversity.com, PragerPedia.com, PragerPedia Mobile App, Freetothink.com, PragerUMyShopify.com and elsewhere. The term “Websites” will be used to refer to these and other websites owned and maintained by Prager University.
 
-As you use our site, we may ask you for certain information, including but not limited to your name, email address, postal address and telephone number.  Such information is provided voluntarily by you.  In general, you can visit the site without telling us who you are or revealing any personal information about yourself; however, you must provide personal information in order to subscribe to PragerU email alerts or register with the site.  
+In order to fully understand your rights we encourage you to read this Privacy Policy as well as our Terms of Use. Prager University and its affiliated programs reserve the right at any time and without notice to change this Privacy Policy simply by posting such changes on our Websites. Any such change will be effective immediately upon posting.
 
-##  E-mail Communications
+At Prager University, we are committed to protecting your privacy. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide services that you request.
 
-When you ask us to send you e-mail such as our free e-mail newsletter, you may provide us with certain information like your e-mail address so we can fulfill your request. You may choose to provide additional information as well, such as your postal address and phone number. 
+This Website Privacy Policy (“Policy”) provides you with information concerning our practices and procedures as they relate specifically to information we collect at this website. Because we want to demonstrate our commitment to your privacy, this Privacy Policy notifies you of:
 
-##  Donations
+  1. What personally identifiable information of yours is collected through the Site;
+  2. Who collects such information;
+  3. How such information is used;
+  4. With whom your information may be shared;
+  5. What choices you have regarding collection, use and distribution of your information;
+  6. What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control;
+  7. How you can correct any inaccuracies in your information.
 
-When you make a donation through our Web site (for example, by sponsoring a course or giving a general donation), we may ask you to submit certain personal information (such as credit card information) so we can process your donation. We use the credit card information you provide only to fulfill the transaction you requested. We maintain that information in our customer service records in the event you ask for a tax write off letter. We also maintain your contact information in our records so we can contact you to provide information about new courses and information on additional giving opportunities. You may opt-out from our mailing list at any time. 
 
-##  Questionnaires and Surveys
 
-We occasionally may ask our students to complete online surveys and opinion polls through our newsletter. These surveys help us understand the needs of our visitors. We do not keep any personal information about you in connection with your participation in a Web site survey unless you specifically agree to provide this information. You may opt-out of the newsletter at any time. 
+Questions regarding this statement should be directed to Prager University and its affiliated programs by sending an email to info@prageru.com. Please reference this Privacy Policy in your subject line.
 
-##  Petitions/Letters
+**What Information We Collect and How We Use That Information:**
 
-By signing one of our petitions and entering your email address you consent to receive information from PragerU for new video releases and other organizational updates.
+Our registration, donation, and product ordering forms require users to give us contact information that may include name, email address, format preference (HTML vs. Text), address, interests, donation and payment amounts, and similar information.  We do not request or store sensitive information from our visitors, such as credit card or social security numbers.
 
-##  Contact Prager University Foundation
+We use the information you provide in a manner that is consistent with this Privacy Policy. If you provide information for a certain reason, we may use the information in connection with the reason for which it was provided and we may also email you about other content, advertisements, promotions and products. For instance, if you sign up for PragerU updates, we will use the information to send you updates on new content, events and products. Additionally, if you sign a petition, enter a contest or respond to a survey you will be added to our email list where you will receive other updates from PragerU.    
+ 
 
-You may choose to contact us through our Web site. We provide online forms so you may, for example, (1) ask a question, (2) update your email address or (3) request more information. We use the information you provide on these forms to fulfill your request. We use the information you provide to respond to your inquiries.  We use the information you provide to provide you updates on our organization as well as email newsletters with new video releases.   
+We generally retain personal data for so long as it may be relevant to the purposes identified herein. To dispose of personal data, we may anonymize it, delete it or take other appropriate steps. Data may persist in copies made for backup and mission continuity purposes for additional time.
 
-Prager University Foundation does not sell, rent, or otherwise disclose personal information about our Web site visitors, except as described here. We share information provided by our Web site visitors with service providers that we have retained to perform services on our behalf - for example, to process donations. These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or to comply with legal requirements. In addition, we may disclose information about you (i) if we are required to do so by law, (ii) in response to a request from law enforcement authorities or other government officials, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. 
+Prager University and Prager University Agents use email addresses and mailing addresses to send updates about various content offerings and program activities. To exclude yourself from any of these mailings, electronic or postal, please contact us at info@prageru.com. You may also opt out of electronic mailings by clicking the unsubscribe link included in each mailing, and you may modify what types of electronic mailings you receive by clicking on the “update profile” link in each mailing.
 
-##  Links to Other Sites
+**Agent**
 
-Occasionally we provide links to other Web sites for your convenience and information. These sites operate independently from our site and are not under our control. These sites may have their own privacy notices in place, which we strongly suggest you review if you visit any linked Web sites. We are not responsible for the content of these sites, any products or services that may be offered through these sites, or any other use of these sites. 
+An “Agent” is any third party that collects or uses personal information under the instructions of, and solely for, Prager University, or a third party to which Prager University discloses personal information for use on Prager University behalf.  Agents shall comply with the privacy obligations stated in this Policy.
 
-##  Do we use cookies?
+**Transfer of Information to the United States**
 
-Yes. Cookies are small files that a website or its service provider transfers to your hard drive through the Web browser. This enables the site to recognize your browser, then capture and remember certain information, like items left in your shopping cart and certain other preferences for future visits. 
+The Site is operated in the United States and is intended for users located in the United States. If you are located outside the United States, please be aware that information we collect, including personal information, may be transferred to, processed, and stored in the United States. By using the Site or providing us with any information, you consent to the transfer, processing, and storage of your information in the United States. You are also consenting to the application of United States federal law in all matters concerning the Site and this Privacy Policy.
 
-You can set your computer preferences to warn you when a cookie is sent, or you can turn them off completely. Like most website, if you turn off cookies, our website may not function properly. However, you can still place orders over the phone by calling customer service.
+**Information About Children**
 
-##  Pragerpedia Mobile App
+We do not knowingly collect personally identifiable information from children under the age of 13.
 
-By downloading our mobile app and entering your email address you consent to receive information from PragerU for new video releases and other organizational updates. By providing PragerU a mobile telephone number, you agree to receive autodialed and prerecorded message calls at that number and text messages that will be sent using an automated dialing system. We may place such calls or texts to (i) notify you regarding your account; (ii) troubleshoot problems with your account (iii) resolve a dispute; (iv) collect a debt; (v) poll your opinions through surveys or questionnaires, (vii) contact you with offers and promotions; or (viii) as otherwise necessary to service your account or enforce this User Agreement, our policies, applicable law, or any other agreement we may have with you. The ways in which you provide us a mobile telephone number include, but are not limited to, providing a mobile telephone number at account opening, adding a mobile telephone number to your account at a later time, providing it to one of our employees, opting in via keyword, or by contacting us from that mobile phone number. If a mobile telephone number is provided, you consent to receive SMS or text messages at that number. We won’t share your phone number with non-affiliated third parties for their purposes without your consent, but may share your phone numbers with our Family of Companies or with our service providers, who may contact you using autodialed or prerecorded message calls or text messages. Standard telephone minute, text message and data rate charges may apply. You can opt-out of receiving SMS messages by texting STOP to 64600. If you have any questions, reply HELP to any of our messages, text HELP to 64600 or contact us: <https://www.prageru.com/contact-us>. You will receive up to 12 SMS text alerts from PragerU a month. 
+**Sharing Information with Third Parties:**
 
-##  Security
+We do not sell or share the mailing or email addresses of our site-users or constituents with any other organization, unless that information is gathered for a co-sponsored event for which we are handling registration. In that case, your contact information may be shared with co-sponsoring organizations for purposes related to the event for which you registered. However, such co-sponsoring organizations will not be authorized to add you to their regular communications lists unless you specifically opt-in to be added to those lists during the registration or survey process. If the user does opt-in during the registration or survey process, their information will be shared and can only be deleted by calling the co-sponsoring organization directly.
 
-We maintain administrative, technical and physical safeguards to protect against unauthorized disclosure, use, alteration or destruction of the personal information in our possession. When you provide credit card information to make a donation, we use the industry standard for Internet security to help protect the information you provide. This Internet encryption standard scrambles data as it travels from your computer to our server. Please note, however, that perfect security does not exist on the Internet.
+On occasion we will send out an email to our constituents on behalf of another organization. We do not share or sell any constituent information to that organization.  Users who respond to any links contained in those emails may have their information collected by that organization.  
+ 
 
-##  Your Choices
+We contract with companies and individuals to perform functions on our behalf, typically sending postal mail or shipping products. These third parties use constituent information only to fulfill the task we have hired them to perform and do not store the information.  
+ 
 
-If you would like to update your contact information or prefer not to receive certain communications from us (such as e-mail), please call or write us using one of the options provided below or email us at Info@Prageruniversity.com
+Also, from time to time we acquire details about people who are in our database from third parties to enhance the data we already have. This information is not sold to or shared with any other organization.
 
-##  Updates to this Privacy Notice
+  
+We may share personal information about you as follows:
 
-We may change or update portions of this Privacy Notice at any time and without prior notice to you. Please check back from time to time so you are aware of any changes or updates to the Notice. We will indicate below the effective date of the Notice. 
+With third parties: to provide, maintain, and improve our Services and Site, including service providers who access information about you to perform services on our behalf; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and/or to provide other services.
 
-Contributions are fully tax-deductible under the rules established by the Internal Revenue Service. 
+With our Affiliates, partners or other third parties to allow them to contact you regarding marketing, products, programs, services, and promotions that we and/or they believe may be of interest to you IF these programs are being used by us at all and IF you have opted-in (see the “Opt-In Policy” below).
 
-Prager University Foundation is a charitable and educational organization dedicated to preserving and propagating the fundamental American principles on which our country was founded - embracing the notion that we are all, "created equal, endowed by our Creator with certain unalienable rights, and among these are life, liberty, and the pursuit of happiness." As of January 25, 2010 Prager University Foundation is exempt from federal income tax under 501(c)(3) of the Internal Revenue Code. 
+In connection with, or during the negotiation of, any merger, sale of company stock or assets, financing, acquisition, divestiture or dissolution of all or a portion of our business (but only under non-disclosure and confidentiality agreements and protections).
 
-##  How to Contact Us
+If we believe that disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request; to enforce applicable user agreements or policies; to protect the security or integrity of our Site or Services; and to protect us, our users or the public from harm or illegal activities.
 
-If you would like us to update your contact information or remove your name from our e-mail or postal mailing lists, or if you have any questions about our information practices, please contact us by:  
-**Email:** Info@Prageruniversity.com  
-**Phone:**  888-577-9939  
-**Mail:** 10045 Red Run Blvd., Suite 250 Owings Mills, MD 21117
+With your consent.
 
-_* Prager University is not an accredited academic institution  and does not offer certifications or diplomas. But it is a place where you are free to learn. _
+We may also share aggregated, non-personally identifiable information with third parties.
+
+**Internet Protocol Address:**
+
+We collect an IP address from all visitors to our Websites. An IP address is a number that is automatically assigned to your computer by your Internet Service Provider when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our Site, analyze trends, track users’ movement, gather broad demographic information for aggregate use in order for us to improve the site, and deliver customized, personalized content. IP addresses are not linked to personally identifiable information.
+
+**Use of “Cookies”:**
+
+Our Websites may use cookies to enhance your experience while using our Websites. Cookies are pieces of information that some websites transfer to the computer that is browsing those websites and are used for record-keeping purposes at many websites. Use of cookies often makes your experience on the website easier by remembering your general preferences. Cookies also make sure you don’t see the same ad repeatedly. Many consider the use of cookies to be an industry standard.  
+Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our Websites will not function properly when you view them.
+
+For more information on cookies, visit http://www.allaboutcookies.org.
+
+**Web Beacons:** “Web Beacons” (a.k.a. clear GIFs or pixel tags) are tiny graphic image files embedded in a web page or email that may be used to collect anonymous information about your use of our Site, the websites of selected advertisers, and the emails, special promotions or newsletters that we send you. The information collected by Web Beacons allows us to analyze how many people are using the Site, using the selected advertisers’ websites or opening our emails, and for what purpose, and also allows us to enhance our interest-based advertising.
+
+**Mobile Device Identifiers** : Mobile device identifiers are data stored on your mobile device that may track mobile device and data and activities occurring on and through it, as well as the applications installed on it. Mobile device identifiers enable collection of personal information (such as media access control, address and location) and traffic data. Mobile device identifiers help us learn more about our users’ demographics and internet behaviors.
+
+**Website Analytics:**
+
+Our Websites use Google Analytics, a service which transmits website traffic data to Google servers in the United States. Google Analytics does not identify individual users or associate your IP address with any other data held by Google. We use reports provided by Google Analytics to help us understand website traffic and webpage usage. By using our Websites, you consent to the processing of data about you by Google in the manner described in Google’s Privacy Policy and for the purposes set out above. You can opt out of Google Analytics if you disable or refuse the cookie, disable JavaScript, or use the opt-out service provided by Google.
+
+Our Websites use the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. You can opt-out of these kinds of ads from Google and other providers by visiting the Ad Choices website.
+
+Our Websites also use interfaces with social media sites such as Facebook, Twitter, and others. If you choose to “like” or “share” information from our Websites through these services, you should review the privacy policy of those services. If you are a member of a social media site, the interfaces may allow the social media site to connect your visits to our sites with other personal information.
+
+**Security:**
+
+All information provided to Prager University and its affiliated programs is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. We also protect account information by placing it on secure portions of our Websites that are only accessible by certain qualified employees of Prager University and its affiliated programs. Unfortunately, however, no data transmission over the Internet is 100% secure. While we strive to protect your information, we cannot ensure or warrant the security of such information.
+
+All online donations and other financial transactions are completed through Paypal and Classy.org.  We encourage you to click on the links to learn more about their privacy policies.
+
+Classy Inc. and PayPal powered pages are PCI DSS compliant. PCI DSS is the payment card industry security requirement for entities that store, process or transmit cardholder data, and has been endorsed by all the major card brands — Visa Inc., MasterCard Worldwide, Discover Network, American Express and JCB. PCI DSS compliance gives consumers the confidence they need to know that organizations accepting electronic payments or donations are doing so in a verified, secure, and consistent fashion.
+
+We use a Constituent Relationship Manager (CRM) called Razer’s Edge, a product of Blackbaud to manage our constituent base. We never store any financial information on our CRM. If you make a donation to Prager University we might store your contact information in our CRM for the purpose of providing you with a tax deduction letter or inviting you to future events.
+
+**We are Committed to Donor Confidentiality:**
+
+At Prager University, we respect and protect the privacy of our donors and adhere to the following guidelines.
+
+·  Information about donors and donations is handled with respect and confidentiality.
+
+·  We do not exchange, lend, rent or sell our donor lists to third party organizations.
+
+·  The personal information you provide when making an online donation or registering for an event will not be disclosed to any unauthorized third parties.
+
+· When you make a donation online, a secure connection is established and your information is encrypted. The secure connection is maintained until the transaction is completed or terminated.
+
+· Employees of Prager University are not permitted to use this information for any purpose other than to carry out the services they are performing for the benefit of Prager University.
+
+· If you provide us with your postal address or email address, you may receive periodic mailings about Prager University, its programs or about upcoming events. If you prefer to not receive these mailings, please let us know by sending an email to info@pragerUniversity.com, or by calling (833)772-4378 and asking for the Development Specialist.
+
+·  If you have supplied your telephone number online, you may receive telephone contact from us regarding your donation or responding to requests you may have made.
+
+**Your Rights:**
+
+Subject to applicable law, you may have the following rights, in certain circumstances, in relation to your personal information:
+
+(a) Right to access your personal information. If you wish to obtain a copy of the personal information that we hold about you, please contact us at the email address stated below. Before responding to your request, we may ask you to verify your identity and to provide further details about your request. We will endeavor to respond within an appropriate timeframe and, in any event, within any timescales required by law.
+
+(b) Right to rectify, erase or restrict the processing of your personal information. If you wish to rectify, erase or restrict the processing of your personal information please contact us at the email address stated below. It is your responsibility to ensure that you submit true, accurate and complete information to us and keep this information up to date.
+
+(c) Right to withdraw consent. Where you have provided your consent to processing, you may withdraw your consent at any time by contacting us at the email address stated below in section 17.
+
+(d) Right to data portability. You can ask us to help you move some of your information to other companies. To help with that you have a right to ask that we provide your information in an easily readable format to another company. You can email your request to the email address stated below.
+
+(e) Right to object. You can object to the way we process your personal information or object to direct marketing based on profiling where this is based on legitimate interests, by emailing your request to the email address stated below.
+
+  
+(g) Right to lodge a complaint with a supervisory authority. You can get in touch with your local regulator if you have a complaint in relation to how we handle your personal information.
+
+  
+**Other Websites:**
+
+Our site contains links to other websites. Please note that when you click on one of these links, you are entering another website for which Prager University and its affiliated programs have no responsibility. We encourage you to read the privacy statements on all such sites as their policies may be different than ours.
+
+**No Rights of Third Parties:**
+
+This Privacy Policy does not create rights enforceable by third parties.
+
+**Contacting the Web Site:**
+
+If you have any questions about this Privacy Policy, the practices of our Websites, or your dealings with this our Websites, you can contact: Info@PragerUniversity.com or write to us at 15021 Ventura Boulevard, Suite 552, Sherman Oaks, CA 91403.
+
+**Changes to this Policy:**
+
+This policy was last updated on May 25, 2018. By continuing to use our website or app, you confirm your acceptance of our relevant changes.
