@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wdwinfo.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624172707id_/http%3A//www.wdwinfo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdwinfo.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027133905id_/http%3A//www.wdwinfo.com/privacy.htm) for the most accurate reproduction.*
 
 # DIS - Privacy Policy
 
@@ -47,7 +47,7 @@ When you register to post on our discussion forums, you are given the option to 
 
 Also, when you sign up for a particular advertisers services (via the site), that advertiser may use your email address to provide you with information on their services. 
 
-Participants should be aware that when you are on any web site, you could be directed to other sites when you click on an advertising banner. Clicking on an ad banner may take you off our site. The DIS wants you to be aware that other sites may send their own [cookies](https://web.archive.org/web/20180624172707id_/http%3A//www.wdwinfo.com/cookies.htm) to participants, collect data or solicit personal information over which we have no control. **
+Participants should be aware that when you are on any web site, you could be directed to other sites when you click on an advertising banner. Clicking on an ad banner may take you off our site. The DIS wants you to be aware that other sites may send their own [cookies](https://web.archive.org/web/20181027133905id_/http%3A//www.wdwinfo.com/cookies.htm) to participants, collect data or solicit personal information over which we have no control. **
 
 7\. COPA Compliance:
 
