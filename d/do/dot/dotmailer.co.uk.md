@@ -1,138 +1,137 @@
-> *The following text is extracted and transformed from the dotmailer.co.uk privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508071939id_/https%3A//www.dotmailer.com/us/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotmailer.co.uk privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027152243id_/https%3A//www.dotmailer.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | dotmailer
 
-[Print this page](https://web.archive.org/us/terms/privacy-policy-print-friendly/ "Print friendly")
+[Print this page](https://web.archive.org/terms/privacy-policy-print-friendly/ "Print friendly")
 
 ## dotmailer privacy policy
 
-### Effective Date: 1 August 2016
+We ask that you read this privacy notice carefully as it contains important information on who we are, how and why we collect, store, use and share personal information, your rights in relation to your personal information and on how to contact us and supervisory authorities in the event you have a complaint.
 
-dotmailer whose registered office is at No 1 Croydon, 12-16 Addiscombe Road, Croydon, CR0 0XT England Registered No. 03762341 has created this privacy statement because we take your privacy seriously.  The statement sets out, who we are, what information we collect from you, and how we use it.
+Importantly, (i) where we use the term “client” we are referring to the entity in contract with us to use the dotmailer services; (ii) where we use the term “you” we are referring to visitors to our website [www.dotmailer.com](https://www.dotmailer.com/) or [www.dotdigitalgroup.com](https://www.dotdigitalgroup.com/) or clients using the dotmailer services; (iii) where we use the term “end-user” we are referring to a person contacted through your use of the dotmailer services, someone that you may contact in the future using the dotmailer services, or any individual whose information you provide to us in your use of the dotmailer service. 
 
 ### Contents
 
-### General
+### Who we are
 
-dotmailer is a company that provides digital marketing and ancillary services for its clients.  dotmailer collects personal information about you during your use of our website and services and through our cookie technology as you use and navigate our websites. 
+dotmailer (including dotmailer Limited (based in the UK), dotmailer, Inc. (based in the US) and dotmailer Pty Ltd (based in Australia)) collects, uses and is responsible for certain personal information about you. 
 
-If you provide us with personal information (your name, postal address, telephone, fax, or email address), or have done so in the past, via our websites, our publications or surveys, we may use that information to send you updates on our latest services and promotions or to contact you so that we may learn more about our customers. 
+When we do so we are regulated under the General Data Protection Regulation which applies across the European Union (including in the United Kingdom) and we are responsible as ‘controller’ of that personal information for the purposes of those laws. 
 
-You can choose to “opt out” of these communications. To state your contact preferences please contact us at [info@dotmailer.com](mailto:info@dotmailer.com) . To opt out of any email communications from us, please click the ‘unsubscribe’ link at the foot of the email in question. 
+In connection with personal data provided through your use of the dotmailer platform and other services that we provide, we are a ‘processor’ for the purposes of the General Data Protection Regulation. 
 
-We may use your data to collate and create an information database of visitors to our website in order to improve our website and our service and to provide relevant services and information to you.  We may also share any aggregated information, but not individual data, with third parties which offer their goods or services on our websites to help them better understand our services and monitor their advertising reach on the sites. 
+As some dotmailer affiliates are based outside of the European Economic Area, and these affiliates have appointed dotmailer Limited to be our representative within the EEA as necessary. Contact details are available 
 
-### Information you supply in transactions
+### The personal information we collect and use
 
-If you have supplied us with personal and financial information, (such as your credit card or bank details) in a transaction with us, we may use this information in the normal conduct of our business relationship with you. 
+**Information you provide voluntarily**  
+In the course of signing up for and using the dotmailer services, consulting with our support teams, sending us an email, connecting another account with the dotmailer services (e.g. using one of our connectors), or communicating with us in any way, you are voluntarily giving us information that we collect. That information may include either your or your end-users’ name, email address, IP address, phone number, postal address, in addition to other details that may include gender, location, occupation or other information of a demographic nature. In supplying this information, you consent to this information being collected, used, disclosed, transferred to dotmailer affiliates and stored by us, as described in our Terms and this Privacy Policy.
 
-This information will be used to support your account and also to inform you about new products and services that we provide or to provide details of third parties that we believe may be of interest to you. 
+**Information we automatically collect**  
+When you browse one of our websites, use the dotmailer platform or interact with an email that we send to you, we may collect information about your web browsing and use of the site or platform. This may include details of your operating system, location, IP address, browser ID, browsing activity, and other information about how you interacted with dotmailer’s services. We may collect this information as a part of log files as well as through the use of cookies or other tracking technologies. We use this information to help improve the website or monitor the performance of our campaigns.
 
-### Retention of personal information
+Both dotmailer and our third party partners may use assorted technologies to collect and store information when you use the dotmailer platform or visit our website or interact with an email from us. This may include using cookies and similar tracking technologies (e.g. pixels and web beacons) to analyse behaviour, track movements around the website, provide targeted advertisements, and gather demographic information. We partner with third parties to display advertising on our website or to manage and supply our advertising on other sites. These partners may use cookies or other tracking methods in order to provide you content or advertisements based upon your browsing activities and interests. You are able to control the use of cookies at an individual browser level. Please refer to our [Cookie Policy](https://www.dotmailer.com/terms/cookie-policy/) for more information.
 
-We will retain your information for such period as we are legally obliged to keep it or for the period necessary for the purposes for which the data was collected or for which it is to be processed further, whichever is the longer. 
+**Information through the dotmailer platform**  
+We also obtain personal information from your use of the dotmailer platform. When you upload end-user data in the dotmailer platform, we may have access to the data and content of your messages. We receive information about how you use the dotmailer platform and store it in log files or other types of files associated to your account and link it to other information we hold about you. This information might include the date and date of any activity, your browser and IP address as well as actions you have taken within the dotmailer platform. This information helps us to improve the dotmailer platform for you for all users of the platform. 
 
-### Cookies
+**Information from elsewhere**  
+dotmailer may obtain information about you or end-users from third parties, such as public databases, social media platforms, third party data providers and our marketing partners. Examples of the information we may receive from other sources include device information (e.g. IP address and browser), location, behavioural data and demographic information. We may use this information, alone or in combination with other information described above, to develop or provide more relevant platform features or services (e.g. social media data of end-users allowing you to send more relevant content) or provide more relevant marketing and content to you. 
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual.  The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+**Public information & third-party sites**  
+dotmailer websites include social media features (either hosted by a third party or hosted directly on our website), which may collect information about your IP address and which page you are visiting. The feature may set a cookie to make sure the feature functions properly. We also maintain presences on social media platforms including Facebook, Twitter, and Instagram. Your interactions with these platforms are governed by the privacy policies of the companies that provide them. Anything you submit to dotmailer via a social media platform is done so at your own risk without any expectation of privacy. 
 
-We use traffic log cookies to identify which pages are being used.  This helps us analyse data about web page traffic and improve our website and services in order to tailor it to customer needs.  We only use this information for statistical analysis purposes and then the data is removed from the system. 
+Further, any comments or information you supply on any blog that dotmailer operates can be read, used or collected by anyone. If your information appears in our blog pages and you want it removed, contact our Marketing team: [marketing@dotmailer.com.](mailto:marketing@dotmailer.com)
 
-Overall, cookies help us provide you with a better website and service, by enabling us to monitor which pages you find useful and which you do not.  A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
+Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy policy. We accept no responsibility or liability for such other websites. You should exercise caution when entering personal information online and look at the privacy statement applicable to the website in question. 
 
-You can choose to accept or decline cookies.  Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
+### How we use your personal information
 
-### Links to other websites
+We use and disclose personal information to: 
 
-Our website may contain links to enable you to visit other websites of interest easily.  However, once you have used these links to leave our site, you should note that we do not have any control over that other website.  Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy policy.  We accept no responsibility or liability for such other websites.  You should exercise caution when entering personal information online and look at the privacy statement applicable to the website in question. 
-
-### Controlling your personal information & Opt Out
-
-You may choose to restrict the collection or use of your personal information in the following ways: 
-
-To opt out of any email communications from us, please click the ‘unsubscribe’ link at the foot of the email in question for an immediate removal from further communications.
-
-If you have previously agreed to us holding or using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [info@dotmailer.com](mailto:info@dotmailer.com). We will process the restriction of use in our marketing communications or removal of your personal information within 10 days, sometimes sooner.
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998.  A small administration fee will be payable.  If you would like a copy of the information held on you please write to dotmailer at No 1 Croydon, 12-16 Addiscombe Road, Croydon, CR0 0XT] England. 
-
-### Protection of your personal information
-
-We are concerned about guarding the security of your personal information and the details of any transactions.  We take appropriate organisational and technical security measures to protect your data against unauthorised disclosure or processing. We use a secure server to store the information you give us when you register or make an order (including your credit card details and any password) and any personal data you send us on-line is securely encrypted.
-
-### Use of third party services
-
-We may partner with and use various third party software and services, including analytics services, to help understand your usage of our products and services. In particular, we provide a limited amount of your information (such as your email address and sign-up date) to select third party services to collect data for analytics purposes when you visit our website or use our products and services. This allows dotmailer to monitor your use of our website, products and services and tracks our relationship so that we can improve our service to you. We may also use these third party services for communications, either through email, or through messages within our products and services. As part of our service agreements, these third party services may collect publicly available contact and social information related to you, such as your name, email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, to enhance your user experience.
-
-### How we use personal data
-
-Personal data is used for the following purposes: (i) to provide, administer and improve our products and services, (ii) to better understand your needs and interests, (iii) to fulfill requests you may make, (iv) to personalize your experience, (v) to provide service announcements and (vi) protect, investigate and deter against fraudulent, harmful, unauthorized or illegal activity.
-
-### Cross-border data transfers
-
-Your personal information may be stored and processed in any country where we have facilities or service providers, and by using our service or by providing consent to us (where required by law), you agree to the transfer of information to countries outside of your country of residence, including to the United States, which may provide for different data protection rules than in your country.  Please note that all dotmailer entities operate under Standard Contractual Clauses providing protections and safeguards for cross-border transfers.  We take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.           
+  * Supply, improve and support the services we provide (this includes using the data you provide to use the dotmailer platform to contact end-users, aggregating information from your use of the platform or our website and sharing this with third parties to improve the services that we provide);
+  * Confirm your identity in using the dotmailer platform;
+  * Send you information and promotional content (you can amend your marketing preferences in our preference centre or stop receiving messages by unsubscribing);
+  * Promote our services to you (e.g. when we collect your personal information on our website, we may contact you further to invite you to use our platform);
+  * Perform the obligations of our contract with you or applicable law (e.g. to enforce our terms, communicate with you and provide support);
+  * Protect, investigate and deter against fraudulent, harmful, unauthorized or illegal activity;
+  * Fulfil requests that you may make;
+  * Bill you (e.g. to send you invoices, process payment, notices). Note that we use third parties for secure credit card transaction processing, and we send billing information to those third parties to process your orders and credit card payments.
+  * Send notifications about the platform;
+  * Bring or defend legal proceedings, meet legal requirements (e.g. complying with court orders, enforcement actions, or other legally valid mechanisms) or respond to lawful requests by public authorities or law enforcement requests; and
+  * Provide information to our professional advisors.
 
 
-### EU-U.S. Privacy Shield Framework 
 
-dotmailer complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. dotmailer has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [http://www.privacyshield.gov/](http://www.privacyshield.gov/).
+When using the dotmailer platform, you may import end-user or other personal information you have collected into our system. We have no direct relationship with your end-users or any person other than you, and for that reason, you are responsible for making sure you have the appropriate permission for dotmailer to collect and process information about those individuals.
 
-In compliance with the Privacy Shield Principles, dotmailer commits to resolve complaints about our collection or use of your personal information. Individuals in the European Union with inquiries or complaints regarding our Privacy Policy should first contact dotmailer at: 
+Further to the uses described above, we may transfer personal information of you or your end-users to companies that help us promote, provide, or support our platform or other services that we provide. We may partner with and use various third party software and services, including analytics services, to help understand your usage of our products and services. In particular, we provide a limited amount of your information (such as your email address and sign-up date) to select third party services to collect data for analytics purposes when you visit our website or use our products and services. This allows dotmailer to monitor your use of our website, products and services and tracks our relationship so that we can improve our service to you. We may also use these third party services for communications, either through email, or through messages within our products and services. As part of our service agreements, these third party services may collect publicly available contact and social information related to you, such as your name, email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, to enhance your user experience. 
 
-James Koons   
-Chief Privacy Officer   
-No. 1 London Bridge   
-SE1 9BG London   
-United Kingdom
+**Third parties**  
+We may disclose personal information to advertising partners, networks and exchanges to display advertising on our website or to manage and serve our advertising on other sites and may share personal information with them for this purpose. All third parties with which we share this information are required to use your Personal Information in a manner that is consistent with this policy. This may include using cookies and similar tracking technologies (e.g. pixels and web beacons) to analyse behaviour, track movements around the website, provide targeted advertisements, and gather demographic information. We partner with third parties to display advertising on our website or to manage and supply our advertising on other sites. These partners may use cookies or other tracking methods in order to provide you content or advertisements based upon your browsing activities and interests. Please refer to our [Cookie Policy](https://www.dotmailer.com/terms/cookie-policy/) for more information.
 
-Via email: [privacy@dotmailer.com](mailto:privacy@dotmailer.com)
+For details about how we engage third parties when we process your or end-user data when you use our platform and services, please see our terms & conditions, the standard form of which can be found at <https://www.dotmailer.com/terms/>. 
 
-dotmailer has further committed to refer unresolved Privacy Shield complaints to [JAMS](https://www.jamsadr.com/), an alternative dispute resolution provider located in the United States with offices in London (70 Fleet Street, London, EC4Y 1EU). If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please use the JAMS complaint form found [here](https://www.jamsadr.com/files/Uploads/Documents/JAMS_Arbitration_Demand.pdf). The services of JAMS are provided at no cost to you. As the exclusive means of resolving through adversarial dispute resolution any disputes arising out of this Privacy Statement, a party may demand that any such dispute be resolved by arbitration administered by JAMS. Judgment on the award rendered in any such arbitration may be entered in any court having jurisdiction. As a last resort, privacy complaints that remain unresolved after pursuing these and other channels may be subject to binding arbitration before the Privacy Shield Panel as described in the Privacy Shield Agreement, Annex I, to be created jointly by the US Department of Commerce and the European Commission.
-
-Individuals have the right to access their personal data as well as have the choice to limit the use and disclosure of their personal data. Such requests for access and/or limitations should be made to [privacy@dotmailer.com](mailto:privacy@dotmailer.com). For information third party data disclosures, please see the dotmailer Trust Center at [http://www.dotmailer.com/trust](http://www.dotmailer.com/trust). dotmailer acknowledges potential liability in cases of onward transfer of Personal Data to third parties that do not meet the criteria as set forth in the Privacy Policy.
-
-Please be aware that dotmailer is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). In addition, dotmailer is required to disclose personal information in response to lawful requests by public authorities, including to meet national security and/or law enforcement requirements.
-
-Please [click here](https://www.commerce.gov/page/eu-us-privacy-shield) for information regarding the EU-US Privacy Shield.
-
-### SMS
-
-Users based in the United States agree to the following with relation to SMS messages for the purposes of activation and validation codes. SMS messages are sent by [BulkSMS.com](http://bulksms.com/). Message and data rates may apply. One message per request.
-
-Text HELP to 67082 for further information and help.
-
-Text STOP to 67082 to cancel.
-
-[BulkSMS.com](http://bulksms.com/) customer care: (US) 0877 260 3952
-
-Terms and Conditions: [http://usa.bulksms.com/w/terms_and_conditions.htm](http://usa.bulksms.com/w/terms_and_conditions.htm) (see section 5.7)
-
-### Changes to this statement
-
-dotmailer’s privacy statement is subject to change at any time.  dotmailer will post changes to this statement on our websites prior to implementing any major changes. 
-
-Last modified: Jan, 2015.
-
-### Contact
-
-If you have any questions about this statement please contact us: 
-
-dotmailer Limited   
-No 1 Croydon   
-12-16 Addiscombe Road   
-Croydon   
-CR0 0XT   
-United Kingdom 
-
-T: +44 (0)20 8662 2762   
-F: +44 (0)20 8239 1147   
-E: [privacy@dotmailer.com](mailto:privacy@dotmailer.com)
-
-##### Web sites
-
-dotmailer currently operates the following websites:
-
-  * www.dotmailer.com
-  * www.dotdigitalgroup.com
+**How long your personal information will be kept**  
+In providing services to you, we will hold personal information for as long as are providing you the services for or in order to comply with our legal obligations, enforce the terms of our contracts, resolve disputes or prevent abuse. Otherwise, we only hold personal information for as long as is necessary.  
 
 
+**Reasons we can collect and use your personal information**  
+In relation to clients, the lawful basis for which we rely on to collect and process your data is typically performance of our contractual obligations.
+
+If you are not a dotmailer client, we rely on legitimate interest as the lawful basis on which we collect and use your personal data in relation to contacting you further in certain situations. Our legitimate interests are usually to provide individuals representing a business with details of our products or services through B2B direct marketing . If you are an individual, the basis on which we collect and use your personal data to contact you is often consent. 
+
+If you have any questions about the lawful basis on which we are processing your personal data, please contact [privacy@dotmailer.com](mailto:privacy@dotmailer.com). 
+
+### Transfer of your information out of the EEA
+
+Your personal information may be stored and processed in any country where we have facilities or service providers, and by using our service or by providing consent to us (where required by law), you agree to the transfer of information to countries outside of your country of residence, including to the United States, which may provide for different data protection rules than in your country. Please note that all dotmailer entities operate under Standard Contractual Clauses and applicable measures of the GDPR providing protections and safeguards for cross-border transfers. We take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+### Your rights
+
+Under the General Data Protection Regulation, you have a number of important rights free of charge. In summary, those include rights to: 
+
+  * fair processing of information and transparency over how we use your use personal information
+  * access to your personal information and to certain other supplementary information that this Privacy Notice is already designed to address
+  * require us to correct any mistakes in your information which we hold
+  * require the erasure of personal information concerning you in certain situations
+  * receive the personal information concerning you which you have provided to us, in a structured, commonly used and machine-readable format and have the right to transmit those data to a third party in certain situations
+  * object at any time to processing of personal information concerning you for direct marketing
+  * object to decisions being taken by automated means which produce legal effects concerning you or similarly significantly affect you
+  * object in certain other situations to our continued processing of your personal information
+  * otherwise restrict our processing of your personal information in certain circumstances
+
+
+
+For further information on each of those rights, including the circumstances in which they apply, see the [Guidance from the UK Information Commissioner’s Office (ICO) on individuals rights under the General Data Protection Regulation](http://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/).If you would like to exercise any of those rights, please:
+
+  * email, call or write to our Data Protection Officer
+  * let us have enough information to identify you, 
+  * let us have proof of your identity and address (a copy of your driving licence or passport and a recent utility or credit card bill), and
+  * let us know the information to which your request relates, including any account or reference numbers, if you have them
+
+
+
+If you would like to unsubscribe from any email newsletter you can also click on the ‘unsubscribe’ button at the bottom of the email. It may take up to 24 hours for this to take place.
+
+### Keeping your personal information secure
+
+We have appropriate security measures in place to prevent personal information from being accidentally lost, used or accessed in an unauthorised way. We limit access to your personal information to those who have a genuine business need to know it. Those processing your information will do so only in an authorised manner and are subject to a duty of confidentiality. We also have procedures in place to deal with any suspected data security breach. We will notify you and any applicable regulator of a suspected data security breach where we are legally required to do so 
+
+### How to complain
+
+We hope that we can resolve any query or concern you raise about our use of your information.
+
+The General Data Protection Regulation also gives you right to lodge a complaint with a supervisory authority, in particular in the European Union (or European Economic Area) state where you work, normally live or where any alleged infringement of data protection laws occurred. The supervisory authority in the UK is the Information Commissioner who may be contacted at [https://ico.org.uk/concerns/](http://ico.org.uk/concerns/) or telephone at 0303 123 1113 or other channels as updated at [](https://ico.org.uk/global/contact-us/)https://ico.org.uk/global/contact-us/.
+
+### Changes to this privacy notice
+
+This privacy notice was published on 26 April 2018.
+
+We may change this privacy notice from time to time, when we do we will inform you via email.
+
+### How to contact us
+
+Please contact our Data Protection Officer, Joseph Stoker, if you have any questions about this privacy notice or the information we hold about you.
+
+If you wish to contact our Data Protection Officer please send an email to [privacy@dotmailer.com](mailto:privacy@dotmailer.com), write to Data Protection Officer, dotmailer Limited, No.1 London Bridge, London, SE1 9BG, United Kingdom or call +44(0)20 3953 4518.
