@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottbrand.com privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713114724id_/https%3A//www.scottbrand.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottbrand.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027163607id_/https%3A//www.scottbrand.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Scott® Brand Privacy Policy
 
@@ -80,8 +80,4 @@ Neenah, WI 54957-2020
 
 ## CHILDREN
 
-Kimberly-Clark is committed to protecting the online privacy of children and making the internet safe. We do not provide products and services to children, or knowingly collect or solicit personal information from children under 13 years of age. Any communication we get that is identified as being from a child under 13 will not be kept by Kimberly-Clark. We encourage parents or guardians of children under 13 to regularly check and monitor their children’s use of email and other activities online. 
-
-## CHANGES TO THE PRIVACY POLICY
-
-**We reserve the right to modify or amend this policy at any time by posting the revised privacy policy on our website. Material changes will only affect the information we collect after the effective date of the change to our privacy policy unless we clearly express otherwise.**
+Kimberly-Clark is committed to protecting the online privacy of children and making the internet safe. We do not provide products and services to children, or knowingly collect or solicit personal information from children under 13 years of age. Any communication we get that is identified as being from a child under 13 will not be kept by Kimberly-Clark. We encourage parents or guardians 
