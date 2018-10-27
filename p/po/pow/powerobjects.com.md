@@ -1,37 +1,131 @@
-> *The following text is extracted and transformed from the powerobjects.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929234237id_/http%3A//www.powerobjects.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerobjects.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027231830id_/https%3A//www.powerobjects.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PowerObjects
+# Privacy Policy - PowerObjects, an HCL Technologies Company
 
-## Privacy Policy
+We are PowerTeam LLC. (“PowerObjects”, “we” or “us”). Our registered address is 718 Washington Ave N, Suite #101, Minneapolis, Minnesota 55401, USA.
 
-* * *
+We at PowerObjects are committed to safeguarding your privacy. This Privacy Policy describes how we may collect, use, share, and keep personal information about you. Please make sure you read this Privacy Policy carefully.
 
-We recognize the importance of protecting the privacy of the personal information we collect, especially with respect to children’s privacy. We are committed to safeguarding the online privacy of our users and do not intend to rent or sell your information to any third party. We may modify these policies from time to time to better address your concerns or to make other additions or changes that we deem appropriate. PowerObjects will provide notice to you in the event that we change our policy by placing that change on the website. This policy does not apply to the practices of companies or organizations that PowerObjects does not own or control or to people that PowerObjects does not manage or employ. This policy also does not apply to sites with which PowerObjects may be linked.
+##### What does this Privacy Policy cover?
 
-###### Privacy and Data Collection
+This Privacy Policy applies to our public-facing PowerObjects branded websites and other online services and will be available by a link on all sites and services which it covers.
 
-PowerObjects does not collect personal information about you (name, address, email, hobbies) unless you provide it to us voluntarily and knowingly. Whenever we do collect personal information from you, we will explicitly notify you that we are doing so.
+Other PowerObjects websites, apps, or online services may collect and use personal information about you in a different way and so publish a different PowerObjects Privacy Policy. We encourage you to take a moment to look at the applicable Privacy Policy, available by a link at the bottom of the homepage or as you download an app.
 
-###### Offline Security
+##### What is in this Privacy Policy?
 
-All users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees, such as billing clerks, who need the information to perform a specific job, are granted access to personally identifiable information.
+  * What personal information do we collect?
+  * Do we use cookies?
+  * How do we use your personal information?
+  * How long do we keep your personal information?
+  * How do we share your personal information?
+  * Where do we keep your personal information?
+  * What rights do you have in relation to your personal information?
+  * How do we safeguard your personal information?
+  * How will we update this Policy?
+  * Other important information.
+  * How can you contact us about this Policy?
 
-###### Links
 
-This website may contain links to other sites. Please be aware that PowerObjects is not responsible for the privacy practices of other sites.
 
-###### Cookies
+##### What personal information do we collect?
 
-A cookie is data placed by a website on the user’s hard drive when the user visits the site. It can contain information about the user’s visit to the site. Any personal information a cookie contains is information the user supplies. Once the user closes their browser, a cookie may simply terminate.
+For the purposes of this Privacy Policy, references to ‘personal information’ mean any information relating to an identified or identifiable individual. Examples of personal information may include, for example, your name, your contact details or your location.
 
-###### Corrections/Updating Personal Information
+We collect information that you supply to us when you choose to contact us for more information or when you register for one of our websites or online services. You may supply the information directly to us or indirectly by using your credentials from third parties such as LinkedIn or Facebook. This information typically includes your name, professional credentials, email address and other contact data. We may append information from other sources, such as Google Analytics, to supplement what you give us. We do, on occasion, obtain or license contact information from third parties for limited marketing purposes, such as maintaining an accurate marketing database.
 
-You can contact PowerObjects if your personally identifiable information changes. We will be pleased to update your file.
+We gather date, time and certain additional information about a user’s browser and system or device configuration and capabilities, navigation history and IP address for all visitors to our web sites. We may use this information for our internal security audit log, for trend analysis and system administration and to gather broad information about our audiences. When you submit information through a form on one of our websites, we capture and store your IP address and email address. We use this information for website personalization purposes.
 
-###### Changes to this Privacy Policy
+We use cookies and other commonly used data collection technologies on our websites and in our newsletters and emails to collect information on both an aggregate and individual basis. Please see our Cookies Policy for more details on how we use cookies and how to control cookies or their use for targeted advertising or marketing.
 
-PowerObjects may amend this policy from time to time. If we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent announcement on our web page.
+##### How do we use your personal information?
 
-###### Questions or Concerns
+We may use personal information we collect to:
 
-Please contact PowerObjects with any questions, comments or concerns regarding our privacy policy and practices. You can contact us at **info@powerobjects.com** , call us at 612.339.3355, or write us at 718 Washington Ave. N. #202, Minneapolis, MN 55401.
+  * provide and administer our services;
+  * understand our audience and improve how our websites work;
+  * contact you and answer your questions;
+  * market and advertise our products and services to you;
+  * allow you to publish comments and participate in professional web-based forums;
+  * keep our systems, users, employees and services safe
+  * provide you with the information or support you requested.
+
+
+
+##### How long do we keep your personal information?
+
+We keep your personal information for so long as is necessary in light of the purpose for which it was originally collected or lawfully further processed. The criteria we use to determine the period of time for which your personal information may be kept include:
+
+  * the nature and type of personal information that you provide to us;
+  * the purpose for which you provide your personal information to us; and
+  * necessary business and operational requirements to continue to supply you with the services or functionality you have requested.
+
+
+
+We may retain your information for a longer time period if we are required to do so by law.
+
+##### How do we share your personal information?
+
+We may disclose personal information about you to third parties, including:
+
+  * to other members of the HCL group of companies;
+  * to vendors that work on our behalf;
+  * to law enforcement when we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on us;
+  * to exercise our legal rights or defend against legal claims; and
+  * to protect human safety or our networks or property, or as part of a sale or merger of our company or business assets.
+
+
+
+##### Where do we keep your personal information?
+
+We collect, store, and process information on servers around the world and may access that information globally. If you are located in the European Union, please note that your personal information may be transferred out of, or stored outside, the European Economic Area. The privacy protections in these jurisdictions may not be equivalent to those in Europe. We will take steps to ensure that your personal information continues to be protected through adequate safeguards, copies of which are available from us on request at the email address below.
+
+##### What rights do you have in relation to your personal information?
+
+European law gives individuals a number of rights in relation to their personal information. These include the right to access, and in some circumstances to amend, delete, or restrict the continued processing of, personal information. Please note that deleting your information or restricting the continued processing of your information may limit our ability to continue to provide our websites, applications, and online services to you.
+
+You also have a choice about:
+
+  * Whether to receive email marketing messages from us. You may opt out of our email marketing lists by following the opt-out directions at the bottom of our promotional emails. Please note that we have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all PowerObjects email marketing, send a request to support@hcl-powerobjects.com.
+  * Whether to share information about yourself and your use of our sites with third parties including social media sites. 
+    * If you join one of our online communities, such as <https://www.powerobjects.com/blog/>, your comments as well as certain information about you may be visible to other members of the community. Please take a moment to understand how each forum works and what choices you have.
+    * If you use credentials from a third party, like Facebook, to register, then that third party will also record the fact that you have registered for our sites and may use that information consistent with its own privacy statements and practices. If you use Share, Like or similar social media buttons, those actions may be posted elsewhere (such as on the relevant social media sites).
+  * Whether to allow certain uses of cookies and other data collection technologies. Please see our [Cookies Policy](https://www.powerobjects.com/cookies-policy).
+
+
+
+If you have any questions about your rights, please email us at [support@hcl-powerobjects.com](mailto:support@hcl-powerobjects.com)
+
+You can also contact your local Data Protection Authority.
+
+##### How do we safeguard your personal information?
+
+We use a range of security measures to protect your personal information. Please be aware, however, that PowerObjects cannot guarantee that third parties will safeguard your personal information in a similar manner. Unencrypted information – including information sent via E-mail – may also be able to be read by third parties. As a user of our services, you are responsible for protecting the information you provide, including user name and passwords, from misuse, by encryption or other means.
+
+##### How will we update this Policy?
+
+We are constantly working to develop new services. We may also change our practices over time as our business and technology evolve, and this may involve changes to the ways in which we collect, process and use your information. As a result, we may amend this Privacy Policy from time to time.
+
+If we materially change our Privacy Policy, we will take steps to inform you of the change. We may do this through email, SMS, notices on our websites or other means (or a combination of these means). If you continue to use our websites, applications, and online services after the date any revised Privacy Policy comes into effect, you will be deemed to have read and agreed to the revised Privacy Policy.
+
+The “Effective Date” at the top of this Privacy Policy shows when it was last updated.
+
+##### Other important information
+
+Our sites contain links to other websites not owned by PowerObjects. We do not control the content or privacy practices of those sites.
+
+Our websites and offerings are directed to people in their business or professional capacities.
+
+They are not intended for children under 13 years of age. We do not knowingly solicit information online from, or market online to, children under 13 years of age.
+
+We process personal information on the basis of your consent, except when you enter into a contract for the provision of services, or when we have other legitimate interest based on your interaction with us. You have the right to withdraw consent at any time, but this will not affect any prior processing of your personal information.
+
+##### How can you contact us about this Policy?
+
+For questions regarding this Privacy Policy, practices of the website, or any other privacy issue, please send an email to [support@hcl-powerobjects.com](mailto:support@hcl-powerobjects.com) or contact us at the address below:
+
+###### **PowerObjects**
+
+Attn: Chief Information Officer  
+718 Washington Ave N, Suite #101  
+Minneapolis, Minnesota 55401 USA
