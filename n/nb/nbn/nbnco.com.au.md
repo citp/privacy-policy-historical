@@ -1,142 +1,231 @@
-> *The following text is extracted and transformed from the nbnco.com.au privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923132933id_/http%3A//www.nbnco.com.au/utility/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbnco.com.au privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027162856id_/https%3A//www.nbnco.com.au/utility/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy | nbn - Australia's new broadband access network
+# Privacy policy | nbn - Australia's broadband access network
 
-This privacy policy applies to all the activities of nbn co limited ABN 86 136 533 741 ( **nbn** ) and its wholly owned subsidiaries. It does not apply to entities and activities outside of **nbn** ’s control, such as websites operated by others.   
+### 1\. About us
 
+#### **nbn**  is building Australia’s new broadband access network.
 
-### What is personal information?
+#### This policy describes how we handle your personal information.
 
-As defined in the Privacy Act, personal information is information or an opinion about an identified individual, or an individual who is reasonably identifiable: 
+**NBN**  Co ( **nbn** or the Company) was established in 2009 to design, build and operate Australia’s new fast, wholesale local access broadband network.
 
-a. whether the information or opinion is true or not; and   
-b. whether the information or opinion is recorded in a material form or not. 
+Our key objective is to ensure all Australians have access to fast broadband as soon as possible, at affordable prices, and at least cost. **nbn**  is a wholesaler, which means we give Australia’s telephone and internet providers access to the **nbn** ™ broadband access network. These providers then sell telephone and internet plans to Australian organisations and the public.
 
-Sensitive information is any personal information about your racial or ethnic origin, political opinions, religious beliefs or affiliations, philosophical beliefs, membership of political, professional or trade associations or trade unions, sexual preferences or practices, biometric templates or information used for automated biometric verification or identification, criminal record or health. **nbn** does not generally collect, use or disclose sensitive information about an individual but if **nbn** does, it will be done so in accordance with law for example, where **nbn** has received your consent to do so or the collection is required by law. 
+You can read more about us and our objectives [on our website](http://www.nbnco.com.au/corporate-information/about-nbn-co.html).
 
-### What personal information does nbn collect and why?
+### 2\. Your privacy is important to us
 
-**nbn** may collect, hold, use and disclose personal information about you for the following purposes: 
+#### We keep your information safe, and we aim to be clear and open about what we do with it.
 
-  * for your current or future connection to the **nbn** ™ network (including for purposes arising from quality assurance), and for ongoing management and support for your connection; 
-  * to deal with specific inquiries or issues that you have raised with **nbn** ; 
-  * in connection with services provided to you by your telecommunications services provider that use services that **nbn** provides to that provider; 
-  * where you are a representative of an organisation with whom **nbn** deals (e.g. a service provider of **nbn** ), in relation to **nbn** ’s dealings with that organisation; 
-  * to provide information to you about the **nbn** ™ network and its rollout; 
-  * to analyse statistics and trends on the use of all **nbn** ™ network services including the **nbn** ™ website and call centres; 
-  * in relation to any employment application you may make to **nbn** in order to assess your suitability for employment; 
-  * other purposes which **nbn** identifies to you at the time **nbn** collects the information (or as soon as practicable after collection). 
+We understand that your privacy is important to you, and we value your trust. That’s why we protect your information and aim to be clear and open about what we do with it.
 
+This Policy describes how we handle your personal information – that is, information about you and that identifies you, or can be reasonably linked to your identity. When we collect this information, we comply with the rules set out in the _Privacy Act 1988_ (Cth).
 
+Sometimes we update our Privacy Policy. You can always find the most up-to-date version on our website.
 
-Depending on the circumstances, the kind of personal information **nbn** collects may include your name, date of birth, address, postcode, telephone numbers, email address, the status of your connection to the **nbn** ™ network, information on how you use the **nbn** ™ network, and your preferences regarding certain telecommunications and similar products and services that utilise **nbn** ’s™ services. 
+### 3\. What information do we collect?
 
-If you do not provide the information **nbn** requests, **nbn** may not be able to provide services effectively or at all.   
+#### We collect information about you when you interact with us. We may also collect information about you from other people and organisations.
 
+We only collect your personal information when we need it to provide our services or to comply with the law. The kinds of information that we collect depends on how you interact with us. Here are some examples.
 
-### How **nbn**  collects and holds your personal information
+#### Information we collect from you
 
-**nbn** may collect your personal information in a number of ways, including: 
+  * **When you engage with us directly (including at public events, via telephone, email, our website or on social media):** The information you provide, such as your name and your contact details (telephone number and/or email address). When you attend one of our locations, we may also collect security camera footage of you.
+  * **When you sign up for updates on the delivery of the nbn™ access network:** Your name, street address and email address.
+  * **When you sign up for the Medical Alarm Register or Fire and Lift Register:** Your name, street address where the device is being used, and details about your alarm.
+  * **When you sign up for the Building Register:** Your name, building street address, email address, and telephone number.
+  * **If you apply for a job with us:** Information that you provide about your employment history, qualifications and ability.
+  * **If you fill out one of our surveys, or enter one of our competitions:** The information that you provide.
 
-  * directly from you, when you provide it to **nbn** or its agents or contractors, including through **nbn** ’s™ website or call centre data or through website technologies such as cookies, internet tags or web beacons and navigational data collection; 
-  * directly from you (in the form of your data, which may contain personal information, over **nbn** ’s™ network, for the purposes of resolving faults or issues with your service); 
-  * from third parties, such as your telecommunications services provider or other service providers of **nbn** ’s; 
-  * from publicly available sources.   
 
 
+#### Information we collect from others
 
+  * **When you request a connection to the nbn™ access network or report a connection problem to your internet or telephone service provider:** We collect your address, contact details, and information about your request from your internet or telephone service provider(s).
+  * **To tell you about the rollout of the nbn™ access network:** We may collect your name and address from our service providers or from Australian Government agencies. Sometimes, we also collect addresses (but not names) from local councils. We do this so we can comply with our legal requirements to inform people in specific areas about the availability of the nbn™ access network and connecting to it.
+  * **To help migrate Medical, Fire and Lift alarms to the nbn™ access network:** We may collect addresses of homes and businesses with alarms, and information about those alarms, from alarm service providers.
+  * **When you participate in market research about us or the nbn™ access network:** We may collect information about you and your responses from the service provider that conducted the research.
+  * I **f you apply for a job with us:** Background, references and criminal history information about you. We may also collect medical information (where relevant to the role) and conduct drug and alcohol testing.
+  * **If you work for one of our service providers or service delivery partners:** We may collect employment information about you including name, job title, contact details and background and criminal history information.
 
-**nbn** may also collect personal information (including sensitive information) from or about you when legally required or authorised to do so. **nbn** holds personal information from or about you electronically and in paper form.   
 
 
-### How **nbn**  uses your personal information
+### 4\. How do we use your information?
 
-The personal information you provide to **nbn** may be used for a number of purposes connected with **nbn** ’s business operations, depending on the circumstances in which it was collected, including: 
+#### We use your information to deliver our products and services, manage our business and comply with the law. 
 
-  * for any of the purposes set out in relation to the collection purposes above; 
-  * to verify your identity; 
-  * to better understand your communications needs; 
-  * to improve the quality and scope of the services and infrastructure **nbn** ™ network provides; 
-  * for fault investigation and resolution purposes; 
-  * in connection with investigations and dealing with suspected fraud and unlawful activity; 
-  * to protect **nbn** ’s lawful interests; 
-  * in connection with any acquisition of an interest in or by **nbn** ’s business and any part of it; and 
-  * any other purpose that you would reasonably expect.   
+#### We also use your information for other reasons, such as to better understand you and your needs, and to tell you about the delivery of the nbn™ access network.
 
+We collect and use your information so we can:
 
+  * confirm your identity,
+  * respond to applications, questions, requests or complaints that you have made to us or that have been passed to us by your internet or telephone service provider(s) or other parties ,
+  * manage requests for connection to the nbn™ access network, carry out installations, manage the network, check and fix service or connection problems, and improve your experience on the nbn™ access network
+  * conduct and commission customer experience and market research,
+  * if you have applied to work with us, assess your application,
+  * if you work with one of our service delivery partners, manage our relationship with that partner,
+  * investigate possible fraud and illegal activity,
+  * comply with laws, including assisting government agencies and law enforcement investigations, and
+  * manage our business.
 
 
-### Marketing 
 
-Your personal information may be used so that **nbn** , **nbn** ’s wholly owned subsidiaries, agents and contractors can provide you with information about **nbn** ™ products and services (including by way of direct mail, telemarketing, email, SMS and MMS). You always have the right to opt-out of receiving such information. You may exercise that right at any time by contacting **nbn** as set out below. 
+#### Telling you about the  **nbn** ™ access network
 
-If you are seeking to work with **nbn** , your personal information may also be used for the purposes of employee recruitment and assessment.  
+We are required by law to tell the public about the rollout of the **nbn** ™ access network, including when the network will be available in different areas and when connections to the old network will no longer work. To do this, we send letters to the homes and businesses in an area that are able to connect to the **nbn** ™ access network.
 
-### Sharing your personal information
+If you have signed up for email updates on the delivery of the **nbn** ™ access network, we will also send you emails about the network. You can opt out of receiving updates at any time by using the ‘unsubscribe’ link in the updates.
 
-**nbn** may disclose your personal information in certain circumstances, such as where **nbn** is required or authorised by law, where you have consented to **nbn** doing so, or for any of the purposes or related purposes set out above. 
+#### Using data to build a better network and give you better service
 
-The persons to whom **nbn** typically discloses your personal information to include: 
+We’re always working to develop and improve the **nbn** ™ access network and our products and services.
 
-  * specified persons in accordance with a request made by you; 
-  * related companies of **nbn** ; 
-  * other telecommunications and related service providers who provide services to you that use **nbn** ™ services or infrastructure, including where reasonably required for billing and service purposes; 
-  * persons to whom **nbn** has contracted out services including persons engaged in providing **nbn** with professional, business, information technology, corporate and administrative services, when reasonably required. This may include mailing houses, call centre providers and/or installation and construction service providers; 
-  * the officer responsible for the Integrated Public Number Database 
-  * your authorised representatives or legal advisors 
-  * **nbn** ’s professional advisors including lawyers, accountants, tax advisors and auditors; 
-  * governmental agencies, including law enforcement agencies, and regulators, as required or authorised by law; and 
-  * any other person or for any other purposes that would be reasonably expected. 
+One way we do this is by using new technologies that let us combine information we have with data from other sources, such as third party websites or the Australian Bureau of Statistics.
 
+We also collect information about people that does not identify them, such as website and advertising analytics, and data from service providers.
 
+This helps us learn more about how the **nbn** ™ access network is being or may be used, so we can better design, build and operate the network.
 
-When making such disclosures **nbn** will take reasonable steps to ensure that the recipient is bound by confidentiality and privacy obligations.   
+Where we work with partners or service providers to do this, we take steps to ensure that they are required to protect your information.
 
+### 5\. Who do we share your information with?
 
-### Is personal information disclosed to recipients outside of Australia?
+#### We share your information with people and organisations for the purposes set out in section 4.
 
-**nbn** is likely to disclose personal information to overseas recipients, including service providers in the United States of America, the United Kingdom, New Zealand, India, Sweden, Finland, Philippines, Malaysia, Japan, Brazil, Chile, Ireland, Netherlands , China, and Thailand. 
+#### We also share information with our service providers and to comply with the law.
 
-Where **nbn** does disclose personal information to an overseas recipient, it will take steps to ensure that the recipient complies with the applicable Australian Privacy Principles.   
+#### When we do this, we take steps to keep your information safe.
 
+We share your personal information with other people and companies where we need to for the purposes set out in section 4. This includes sharing:
 
-### Access and correction
+  * with telephone and internet providers that use the nbn™ access network to provide their services, so they can give you the services you have requested, fix service or connection problems, and improve your experience on the nbn™ access network with our technicians and service delivery partners, so they can make installations and fix service or connection problems,
+  * with people that you have asked us to give your information to, such as your authorised representatives or legal advisors,
+  * if you have applied to work with us, with your previous employers to confirm your work history,
+  * to comply with laws, and assist government agencies and law enforcement.
 
-You may access personal information about you and seek to correct or update that information by contacting us via the contact details [below](https://web.archive.org/utility/privacy-policy.html/#contactus). Please identify, as clearly as possible, the type/s of information you’d like to access, correct or update as this will help us deal with your request within a reasonable time.  
 
-You may also request access to any of the personal information **nbn**  holds about you in documents we hold by making an application under the Freedom of Information Act (FOI Act).  For more information about this, please visit the [FOI Act page](https://web.archive.org/corporate-information/about-nbn-co/freedom-of-information.html) on **nbn** 's website or contact **nbn**  by one of the means set out under How to Contact NBN Co.
 
-### Complaints
+We also share personal information with people and organisations that help us with our business, such as professional advisors, IT support, and corporate and administrative services. We only do this where it is necessary for the services to be able to be provided to us. When we do this, we take steps to ensure that our service providers are required to protect your information.
 
-Should you wish to make a complaint about the way **nbn** handles your personal information, you may do so by contacting the Privacy Officer through one of the means set out under How to Contact **nbn**. Your complaint will be treated in accordance with the [**nbn** ™ Complaint Management Policy ](https://web.archive.org/content/dam/nbnco/documents/complaint-management-policy.pdf)(PDF), a copy of which is available on request or from the website. 
+#### Sending personal information overseas
 
-If you feel that **nbn**  is not handling your complaint satisfactorily, you can take the complaint to the Privacy Commissioner.  There is information about how to do this on the ‘[Making a privacy complaint](http://www.oaic.gov.au/privacy/making-a-privacy-complaint)’ page on the website of the Office of the Australian Information Commissioner.
+Some of our service providers are located or operate outside of Australia. Where we need to, we send them information so that they can provide us services. You can find a list of countries where our overseas suppliers are [here](https://web.archive.org/utility/privacy-policy/country-list.html).
 
-### Security
+### 6\. Keeping your information safe
 
-**nbn** will take reasonable precautions to safeguard your information from misuse and loss and from unauthorised access, modification or disclosure. You should keep in mind that no internet, transmission or technology is ever completely secure or error-free. In particular, e-mails sent to or from this website may not be secure.   
+#### We train our staff in how to keep your information safe and secure.
 
+#### We use secure systems and buildings to hold your information.
 
-### How to Contact  **nbn**
+#### We only keep your information for as long as we need it.
 
-If you have any questions or concerns about this Privacy policy please contact the **nbn**  Privacy Officer at [privacyofficer@nbnco.com.au](mailto:privacyofficer@nbnco.com.au)  or by mail to Privacy Officer, Level 11, Arthur Street, North Sydney, NSW 2060.
+We store the information we collect in secure buildings and systems, or using trusted service providers. Here are some examples of the things we do to protect your information.
 
-Alternatively there are several other ways you can contact **nbn**  
+**Staff training**
 
+We train our staff in how to keep your information safe and secure.
 
-  * By using the [online form](https://web.archive.org/corporate-information/contact-us-form.html) on the website
-  * By emailing **nbn** at [info@nbnco.com.au](mailto:info@nbnco.com.au)
-  * By calling **nbn** on 1800 OUR NBN (1800 687 626) 
+**System security**
 
+We have firewalls, intrusion detection and virus scanning tools to help prevent viruses, malware and unauthorised people accessing our systems. When we send electronic data to other organisations, we take steps to keep your information safe such as using secure networks or encryption.
 
-  *  
+**Services providers and overseas transfers**
 
+When we send information overseas or use service providers that handle or store data, we require them to take steps to keep your information safe and use it appropriately.
 
+**Building security**
 
-### Changes to this Privacy policy
+We use a mix of ID cards, alarms, cameras, guards and other controls to protect our offices.
 
-**nbn** ’s Privacy Policy may change from time to time. Before providing **nbn** with personal information, please check this Privacy Policy on the website. 
+**Destroying or de-identifying data when no longer required**
 
-This Privacy Policy was last updated 21 January 2017.   
-  
+We aim to keep personal information only for as long as we need for our business or to comply with the law. When we no longer need information, we take reasonable steps to destroy or de-identify it.
 
+### 7\. Accessing, updating and correcting your information
+
+#### You can ask to see a copy of the personal information that we hold about you, or ask us to update or correct it.
+
+#### Before we give or change your information, we may need to confirm your identity.
+
+You can ask us for a copy of the personal information that we hold about you.
+
+#### How can you contact us?
+
+See **section 9** for details on how you can contact us.
+
+#### Is there a fee?
+
+There is no fee to ask for your information. We may charge an access fee to cover the time we spend finding and putting together the information you want. If there’s a fee, we’ll let you know how much it’s likely to be, so you can choose if you want to go ahead.
+
+#### How long will it take?
+
+We try to make your personal information available within 30 days after you ask us for it. Before we give you your information, we may need to confirm your identity.
+
+#### Can we refuse to give you access?
+
+In some cases, we can refuse access or only give you access to certain information. For example, we’re not able to let you see information that is commercially sensitive. If we refuse access, we’ll write to you explaining our decision.
+
+#### Can you correct or update your information?
+
+You can ask us to correct or update any of your personal information that we have. If we’ve given the information to another party, you can ask us to let them know it’s incorrect. We don’t charge a fee for this.
+
+If we don’t think the information needs to be corrected, we’ll write to let you know why. You can ask us to include a statement that says you believe our record about you is inaccurate, incomplete, misleading or out of date.
+
+### 8\. Making a privacy complaint
+
+#### If you’re concerned about how we’ve handled your information, let us know and we’ll try to fix it.
+
+#### If you’re not satisfied with how we handled your complaint, you can contact the Australian Information Commissioner.
+
+#### How can you make a privacy complaint?
+
+If you are concerned about your privacy or how we’ve handled your personal information, you can make a complaint and we’ll try to fix it.
+
+#### How do we manage privacy complaints?
+
+We will:
+
+  * keep a record of your complaint
+  * respond to you within 30 days - if we can’t give you a final response in this time, we’ll get in touch to tell you why and work out a new timeframe with you.
+
+
+
+#### What else can you do?
+
+If you’re not satisfied with how we have managed your complaint, you can ask us to review your complaint. Or you can complain to the Office of the Australian Information Commissioner.
+
+**Office of the Australian Information Commissioner**
+
+GPO Box 5218  
+Sydney NSW 2001
+
+**Phone:  **1300 363 992
+
+**Email** : [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)
+
+**Website:**  [www.oaic.gov.au](https://www.oaic.gov.au/individuals/how-do-i-make-a-privacy-complaint)
+
+### 9\. Contact us
+
+#### To ask us a question about your privacy, ask to access or correct your personal information, make a privacy complaint, or get a printed copy of this Policy, please contact our Privacy Officer.
+
+**The Privacy Officer  **
+
+**nbn**
+
+Level 11, Arthur Street  
+NORTH SYDNEY NSW 2060
+
+**Email** : [privacyofficer@ **nbn** co.com.au](mailto:privacyofficer@nbnco.com.au)
+
+If you would like to make a Freedom of Information application, please see the [FOI page on our website](https://web.archive.org/corporate-information/about-nbn-co/freedom-of-information.html).
+
+If you need to contact us about something else, including about your **nbn** ™ access network connection, there are several other ways you can get in touch:
+
+**Phone:  **1800 OUR NBN (1800 687 626)
+
+**Email** : [info@ **nbn** co.com.au](mailto:info@nbnco.com.au)
+
+If you’re deaf or hard of hearing, or have difficulty speaking, you can use the National Relay Service. Please see the [hearing and translation services page on our website](https://web.archive.org/corporate-information/contact-us-form/hearing-speech-and-translation-services.html).
