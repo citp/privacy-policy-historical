@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directtextbook.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113192113id_/https%3A//www.directtextbook.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directtextbook.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027131309id_/https%3A//www.directtextbook.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Direct Textbook
 
