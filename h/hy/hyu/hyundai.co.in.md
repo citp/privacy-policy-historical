@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyundai.co.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130630id_/http%3A//www.hyundai.com/in/en/Privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundai.co.in privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027234115id_/http%3A//www.hyundai.com/in/en/Privacy/index.html) for the most accurate reproduction.*
 
 # Privacy | HYUNDAI MOTOR INDIA - NEW THINKING. NEW POSSIBILITIES.
 
