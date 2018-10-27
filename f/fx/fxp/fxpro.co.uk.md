@@ -1,71 +1,197 @@
-> *The following text is extracted and transformed from the fxpro.co.uk privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026215305id_/http%3A//www.fxpro.co.uk/documents/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxpro.co.uk privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027191839id_/https%3A//www.fxpro.co.uk/documents/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Documents | FxPro
 
-This Privacy Policy describes how FxPro (‘the Firm’) collects and uses information through its site [www.fxpro.com](http://www.fxpro.com/) and any other related sites and applications, including amongst others, FxPro Direct ([direct.fxpro.com](https://direct.fxpro.com/)). This Privacy Policy does not apply to websites operated by other organisations and other third parties. 
+###### Introduction
 
-###### Commitment
+Your privacy is very important to us. We are committed to protecting and respecting your personal data. This Privacy Policy describes what types of personal data we collect about you when you choose to use our services, how we will use your personal data, when and with whom we share it and how we will keep it safe. It also details your rights in respect of our processing of your personal information and how you may exercise them. Please take the time to read and understand this policy.
 
-FxPro respects the privacy of any user that accesses its website(s); therefore, we are committed in taking all reasonable steps in safeguarding any existing or prospective clients, applicants and visitors.
+We may make changes to this Notice from time to time and it is important that you check this Notice for any updates. Any personal information we hold will be governed by our most current privacy notice. If we make changes we consider to be important, we will communicate them to you.
 
-###### Application
+Please note that this notice is addressed to customers and potential customers. If you are an FxPro employee, a contractor to FxPro or a third-party service provider, your personal information will be used in connection with your employment contract, your contractual relationship or in accordance with our separate policies which are available by contacting us.
 
-In order to open an account with FxPro, you must first complete and send an application form by completing the required information. By completing the application form you are requested to disclose private information in order to enable FxPro to evaluate your application and comply with relevant rules and regulations. This information may also be used by FxPro to inform you regarding its services. Moreover, information about you may also be collected by any correspondence made with us by phone, e-mail or otherwise; including information which you enter when you register to use our website, subscribe to our service or any other activities carried out on our website or any connected applications. 
+Any reference to ‘us’, ‘our’, ‘we’ or ‘FxPro’ in this privacy notice is a reference to each group company within the FxPro Group as the context requires unless otherwise stated.
 
-###### Confidentiality and Client's Personal Data Protection
+Similarly, any reference to ‘you’, ‘your’, ‘yours’ or ‘yourself’ in this privacy notice is a reference to any of our customers and potential customers as the context requires unless otherwise stated.
 
-FxPro Financial Services Ltd is registered with the Office of the [Commissioner for Personal Data Protection](http://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/index_gr/index_gr?OpenDocument) of the Republic of Cyprus; therefore, any clients’ personal data is kept by FxPro Financial Services Ltd. according to the Processing of Personal Data (Protection of the Individual) Law of 2001, its amendment (Law No. 37(I)/2003) and the Processing of Personal Data (Protection of Individual) (Amending) Law of 2012 (Law No. 105(I)/2012) and the Regulation of Electronic Communications.
+By accessing our websites including using any of the communication channels to contact us, we consider that you have read and understood the terms of this notice and how we process any information you disclose to us including personal data prior to becoming a client. Once you open an account with us, you agree that this notice, including any amendments will govern how we collect, store, use, share and in any other form process your personal data and your rights during our business relationship and after its termination.
 
-FxPro UK Limited is registered with the UK’s [Information Commissioner’s Office](https://ico.org.uk/ESDWebPages/Entry/Z1996160) and any clients’ personal data is kept by FxPro UK Limited in accordance with the Data Protection Act of 1998 and any other relevant laws and regulations.
+###### Who are we?
 
-FxPro Global Markets MENA Limited acts in accordance with the applicable legislative provisions and clients’ personal data is therefore held accordingly; the main legislative provisions governing the use of confidential information are set out in Dubai Law No. 9 of 2004, DIFC Regulatory Law No. 1 of 2004, the DIFC Data Protection Law No. 1 of 2007 and the UAE Penal Code, Federal Law No. 3 of 1987.
+This privacy notice applies to the processing activities of the following data controller entities within the FxPro group of companies, which are:
 
-###### Disclosure of your information
+  * FxPro Financial Services Limited, a company registered in Cyprus and whose registered office is Karyatidon 1, Ypsonas 4180, Limassol and who is registered and regulated by the Cyprus Data Protection Commissioner,
+  * FxPro UK Limited,a company registered in England and Wales 902 and whose registered office is 13/14 Basinghall Street, London, EC42V 5BQ and who is registered and regulated by the Information Commissioner (Registration number Z1996160),
+  * FxPro Global Markets MENA Limited, a company registered in Dubai whose registered office is Index Tower, Floor 10, Unit 1010, Dubai International Financial Centre, Dubai, United Arab Emirates and who is registered and regulated by the Dubai Data Protection Commissioner
+  * FxPro Global Markets Ltd, a company in Bahamas whose registered address is Lyford Financial Center, Po Box 7776, Nassau, Bahamas) and who is registered and regulated by the Bahamas Data Protection Commissioner
 
-FxPro may disclose to a third party any of its clients’ confidential information if required to do so by a regulatory authority of a competent jurisdiction, by court and/or to enable us to provide you with our services as well as to improve our services. FxPro will endeavour, to make such disclosures on a ‘need-to-know’ basis, unless otherwise instructed by a regulatory authority. Under such circumstances, FxPro shall expressly inform the third party regarding the confidential nature of the information.
 
-We may share your personal information with any member of our group, which means any subsidiaries, ultimate holding companies and its respective subsidiaries may receive such information. We may also share your information with certain third parties including business partners, suppliers and sub-contractors and advertisers, any of which can be located outside of the European Economic Area (‘EEA’). In the event that FxPro discloses information to business parties, for instance, card processing companies or banks, in order to effect the services requested by the clients; such third parties may store your information in order to comply with their legal and other obligations.
 
-Clients accept and consent that FxPro may, from time to time, contractually engage companies for statistical and/or other purposes in order to improve FxPro’s business activities; as a result, some or all of the clients’ personal data may be disclosed.
+FxPro Financial Services Limited performs significant processing on behalf of the other entities of the FxPro group and therefore if you are a customer of the non- European entities of the group, we process your personal data in accordance with this notice and you are also entitled to the same protection and rights mentioned in this notice.
 
-###### Information we may collect about you
+###### What kind of personal information do we collect and store?
 
-Tracking systems used on FxPro’s website(s) may collect data detailing the pages you have accessed, how you discovered this website, the frequency of visits etc.; this information is obtained in order to improve the content of FxPro’s website(s) and may also be used by FxPro to contact you, through an appropriate mean, and provide you with any information FxPro believes to be useful. With regards to each of your visits to our website, we may, automatically collect information including internet protocol (IP) address, login information, browser type and version, time zone, phone numbers used to call our customer service number. We may receive information about you from third parties, for instance business partners, sub-contractors, advertising networks, analytics providers, search information providers, credit reference agencies.
+As part of our business we collect personal data from customers and potential customers that include the following:
 
-With regards to each of your visits to our site, we may, automatically collect information including internet protocol (IP) address, login information, browser type and version, time zone, phone numbers used to call our customer service number. We may receive information about you from third parties, for instance business partners, sub-contractors, advertising networks, analytics providers, search information providers, credit reference agencies. 
+  * name, surname and contact details
+  * date of birth and gender
+  * information about your income and wealth including details about your assets and liabilities, account balances, trading statements, tax and financial statements
+  * profession and employment details
+  * location data
+  * knowledge and experience in trading, risk tolerance and risk profile
+  * IP address, device specifications and other information relating to your trading experience
+  * Bank account, e-wallets and credit card details
+  * details of your visits to our Website or our Apps including, but not limited to, traffic data, location data, weblogs and other communication data.
 
-###### Choice/Opt-out
 
-If you no longer wish to receive any communication from FxPro, you may opt-out of by following the relevant instructions included in each communication sent by FxPro. FxPro reserves the right to contact you, albeit the fact that you have opted out, in cases where FxPro deems such contact as necessary.
 
-###### Cookies
+We use cookies to store and collect information about your use of our Website. Cookies are small text files stored by the browser on your equipment’s hard drive. They send information stored on them back to our web server when you access our Website. These cookies enable us to put in place personal settings and load your personal preferences to improve your experience. You can find out more about our cookies on our “Cookies Policy” available on our Website.
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. FxPro uses cookies on its website(s). FxPro uses both session ID cookies and persistent cookies. A session ID cookie does not expire when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's ‘Help’ file. FxPro sets a persistent cookie for statistical purposes. Persistent cookies also enable FxPro to track and target the location and the interests of users that access the FxPro website(s) and to enhance the experience of services offered. If you reject cookies, you may still use the FxPro website(s), but you will not be able to use FxPro Direct to submit your application form. 
+We also keep records of your trading behaviour, including a record of:
 
-Some of the FxPro business partners use cookies on the Firm’s site(s); FxPro has no access or control over these cookies.
+  * products you trade with us
+  * historical data about the trades and investments you have made including the amount invested
+  * your preference for certain types of products and services
 
-###### Security and Protection of your personal information
 
-The personal information that you provide in connection with registering yourself as a user of the website(s) or of the services is classified as ‘Registered Information. ‘Registered Information’ is protected in many ways. You can access your ‘Registered Information’ through a username and password selected by you. It is your responsibility to ensure that your password is encrypted and known only to you. Your password must not be revealed to anyone. ‘Registered Information’ is safely stored on secure servers that only authorised personnel have access to via a username and password. FxPro encrypts all personal information as it is transferred to FxPro and thus makes all necessary effort to prevent unauthorised parties from viewing any such information. Personal information provided to FxPro that is not ‘Registered Information’ also resides on secure servers and is again accessible only by authorised personnel via a username and password this information cannot be accessible by you, therefore no password shall be provided in order for you to modify this.
 
-Transmission of information via the internet is not always completely secure; we will exercise all endeavours to protect your personal data yet we cannot guarantee the security of your data transmitted; any transmission is at your own risk. Once we have received your information we will use procedures and security features to try to prevent unauthorised access. Furthermore, the data we collect from you may be transferred to, and stored at, a destination outside the EEA. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing and processing. FxPro will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+We are required by law to identify you if you are opening a new account or adding a new signatory to an existing account. Anti-money laundering laws require us to sight and record details of certain documents (i.e. photographic and non-photographic documents) to meet the standards, set under those laws. Identification documentation, as required under anti-money laundering legislation or other legislation relevant to the services we provide to you, includes:
 
-###### Access to Personally Identifiable Information
+  * (a) passport;
+  * (b) driver’s licence;
+  * (c) national identity card (if applicable);
+  * (d) utility bills;
+  * (e) trust deed (if applicable);
+  * (f) a credit check on the individual; or
+  * (g) other information we consider necessary to our functions and activities.
 
-If your personally identifiable information changes, you must inform us accordingly; please e-mail us ([support@fxpro.com](mailto:support@fxpro.com)) or call us +44 (0) 203 151 5550.
 
-###### Legal Disclaimer
 
-FxPro reserves the right to disclose your personally identifiable information as required by rules and regulations and when FxPro believes that disclosure is necessary to protect our rights and/or to comply with any judicial and/or other proceedings, court order, legal process served or pursuant to governmental, intergovernmental and/or other regulatory bodies. FxPro shall not be liable for misuse or loss of personal information and/or otherwise on FxPro’s website(s) that FxPro does not have access to or control over. FxPro will not be liable for unlawful or unauthorised use of your personal information due to misuse or misplacement of your passwords, negligent or malicious intervention and/or otherwise.
+If you are a corporate client we are required to collect additional information such as corporate documents of address, shareholders, directors, officers including additional personal information on the Shareholders and Directors. We have the right to ask any additional information we deem necessary to be compliant with our legal and regulatory requirements.
 
-###### Changes in this Privacy Statement
+We obtain this information in a number of ways through your use of our services and websites, the account opening applications, our demo sign up forms, webinar sign up forms, website cookies, and similar tracking technology built into our Websites and Apps, subscribing to news updates and from information provided in the course of our ongoing relationship.
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+We may also collect this information about you from third parties either through bought-in third party marketing lists, publicly available sources, social media platforms, introducing brokers and affiliates, bankers and credit card processors, subscription-based intelligence databases and other third-party associates.
 
-We reserve the right to modify this privacy statement at any time, so please review this section frequently.
+We may ask for other personal information voluntarily from time to time (for example, through market research, surveys or special offers). If you choose not to provide the information we need to fulfil your request for a specific product or service, we may not be able to provide you with the requested product or service.
 
-###### Enquiries
+We may record any communications, electronic, by telephone, in person or otherwise, that we have with you in relation to the services we provide to you and our relationship with you. These recordings will be our sole property and will constitute evidence of the communications between us. Such telephone conversations may be recorded without the use of a warning tone or any other further notice.
 
-If you have any enquiries regarding the ‘Privacy Policy’ please e-mail us ([support@fxpro.com](mailto:support@fxpro.com)) or call us +44 (0) 203 151 5550.
+Further, if you visit any of our offices or premises, we may have CCTV which will record your image.
 
-**Date: 21.04.2016**
+###### Who may we disclose personal information to?
+
+As part of using your personal information for the purposes set out above, we may disclose your information to:
+
+  * other companies within the FxPro group who provide financial and other services;
+  * third party apps providers when you use our apps, communication systems and trading platforms which are provided to us by third parties;
+  * service providers and specialist advisers who have been contracted to provide us with services such as administrative, IT, analytics and online marketing optimization, financial, regulatory, compliance, insurance, research or other services;
+  * introducing brokers and affiliates with whom we have a mutual relationship;
+  * Payment service providers and banks processing your transactions;
+  * auditors or contractors or other advisers auditing, assisting with or advising on any of our business purposes;
+  * courts, tribunals and applicable regulatory authorities as agreed or authorised by law or our agreement with you
+  * government bodies and law enforcement agencies where required by law and in response to other legal and regulatory requests;
+  * any third-party where such disclosure is required in order to enforce or apply our Terms and Conditions of Service or other relevant agreements;
+  * anyone authorised by you.
+
+
+
+We endeavour to disclose to these third parties only the minimum personal data that is required to perform their contractual obligations to us. Our third-party service providers are not permitted to share or use personal data we make available to them for any other purpose than to provide services to us.
+
+Our websites or our apps may have links to external third-party websites. Please note, however, that third party websites are not covered by this privacy notice and those sites are not subject to our privacy standards and procedures. Please check with each third party as to their privacy practices and procedures.
+
+###### When and how do we obtain your consent?
+
+We may process your personal data for one or more lawful bases of processing (“Lawful Basis”) depending on the specific purpose for which we are using your data.
+
+The Lawful basis are the following:
+
+  * to perform our contractual obligations towards you
+  * to be compliant with the legal and regulatory requirements
+  * to pursue our legitimate interests
+
+
+
+Where our use of your personal information does not fall under one of these three Lawful basis we require your consent. Such consent shall be freely given by you and you have the right to withdraw your consent at any time by contacting us using the contact details set out in this privacy notice or by unsubscribing from email lists.
+
+###### Management of personal information.
+
+We are committed to safeguarding and protecting personal data and will implement and maintain appropriate technical and organisational measures to ensure a level of security appropriate to protect any personal data provided to us from accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to personal data transmitted, stored or otherwise processed.
+
+We have appointed a Data Protection Officer to ensure that our management of personal information is in accordance with this privacy notice and the applicable legislation.
+
+We require organizations outside the FxPro Group who handle or obtain personal information acknowledge the confidentiality of this information, undertake to respect any individual’s right to privacy and comply with all relevant data protection laws and this privacy notice.
+
+In brief, the data protection measures we have in place are the following:
+
+  * we train our employees who handle personal information to respect the confidentiality of customer information and the privacy of individuals
+  * requiring our employees to use passwords and two-factor authentication when accessing our systems;
+  * we apply Chinese walls and employees only have access to the personal data required for the purposes of the tasks they handle.
+  * We apply data encrypting technologies during data transmission during internet transactions and client access codes transmitted across networks
+  * employing firewalls, intrusion detection systems and virus scanning tools to protect against unauthorised persons and viruses entering our systems;
+  * using dedicated secure networks or encryption when we transmit electronic data for purposes of outsourcing;
+  * practising a clean desk policy in all premises occupied by us and our related bodies corporate and providing secure storage for physical records; and
+  * employing physical and electronic means such as access cards, cameras and guards to protect against unauthorized access.
+
+
+
+###### How do we store personal information and for how long?
+
+We hold personal information in a combination of secure computer storage facilities and paper-based files and other records and take steps to protect the personal information we hold from misuse, loss, unauthorised access, modification or disclosure.
+
+When we consider that personal information is no longer needed, we will remove any details that will identify you or we will securely destroy the records.
+
+However, we may need to maintain records for a significant period of time. For example, we are subject to investment services and anti-money laundering laws which require us to retain copies and evidence of the actions taken by us in regard to your identity verification, sources of incomes and wealth, monitoring of your transactions, telephone, chat and email communications, orders and trades history, handling of your complaints and records that can demonstrate that we have acted in line with regulatory code of conduct throughout the business relationship. These records must be maintained for a period of five years after our business relationship with you has ended or even longer if we are asked by our Regulators.
+
+Where you have opted out of receiving marketing communications we will hold your details on our suppression list so that we know you do not want to receive these communications.
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers or Affiliate companies. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+
+When we transfer your data to other third parties outside the EEA, we may in some cases rely on applicable standard contractual clauses, binding corporate rules, the EU-US Privacy Shield or any other equivalent applicable arrangements
+
+If you would like a copy of such arrangements, please contact us using the contact details below
+
+###### Your rights
+
+Please note that these rights do not apply in all circumstances. You are entitled to:
+
+(a) request access to your personal data (commonly known as a “data subject access request”);
+
+(b) request correction of the personal data that we hold about you;
+
+(c) request erasure of your personal data. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request;
+
+(d) object to processing of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms;
+
+(e) request restriction of processing of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios:
+
+  * if you want us to establish the data’s accuracy;
+  * where our use of the data is unlawful, but you do not want us to erase it;
+  * where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or
+  * you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it;
+
+
+
+(f) request the transfer of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information (i.e. not to hard copies) which you initially provided consent for us to use or where we used the information to perform a contract with you; and
+
+(g) withdraw consent at any time where we are relying on consent to process your personal data.
+
+Please complete the personal data request by email using the registered email address you disclosed to us, to the following email address: [dpo@fxpro.com](mailto:dpo@fxpro.com).
+
+We try to respond to all requests within 1 (one) month. Occasionally, it may take us longer than 1 (one) month if your request is particularly complex or you have made a number of requests. In this case, we will notify you within 1 (one) month of the receipt of your request and keep you updated.
+
+We may charge you a reasonable fee when a request is manifestly unfounded, excessive or repetitive, or we receive a request to provide further copies of the same data. In this case we will send you a fee request which you will have to accept prior to us processing your request. Alternatively, we may refuse to comply with your request in these circumstances.
+
+###### What if you have a querry or a complaint?
+
+If you want to exercise your rights, please contact us by email at [dpo@fxpro.com](mailto:dpo@fxpro.com) using the registered email address you disclosed to us.
+
+We try to respond to all requests within 1 (one) month. Occasionally, it may take us longer than 1 (one) month if your request is particularly complex or you have made a number of requests. In this case, we will notify you within 1 (one) month of the receipt of your request and keep you updated.
+
+If you are not satisfied with our response to your complaint, you have the right to lodge a complaint with our supervisory authorities, the Information Commissioner’s Office (ICO) if you are a client of FxPro UK Limited or the Cyprus Data Protection Commissioner if you are a client of any of the remaining FxPro Group entities. Alternatively, you also have the right to lodge a complaint with the data protection authority of your country of residence.
+
+You can find details about how to do this on the following websites:
+
+<https://ico.org.uk/concerns/>
+
+[http://www.dataprotection.gov.cy](http://www.dataprotection.gov.cy/)
