@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zambiawatchdog.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706183907id_/https%3A//www.zambiawatchdog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zambiawatchdog.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027132317id_/https%3A//www.zambiawatchdog.com/privacy) for the most accurate reproduction.*
 
-# Privacy – Zambian Watchdog
+# Privacy - Zambian Watchdog
 
 Zambian Watchdog is fully committed to protecting your privacy using technology that gives you a safe online experience.
 
