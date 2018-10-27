@@ -1,91 +1,118 @@
-> *The following text is extracted and transformed from the lumen5.com privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724062202id_/https%3A//lumen5.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumen5.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027145741id_/https%3A//lumen5.com/privacy) for the most accurate reproduction.*
 
-# Lumen5 | Video Content Marketing
+# Lumen5 - Video Creation Platform for Business
 
-## **1\. Acknowledgement and acceptance of terms**
+Lumen5 provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use, protection, and disclosure of Personal Information received from your use of this website, located at [https://lumen5.com](https://lumen5.com/) (“ **Site** ”), as well as all related websites including our subdomains, applications, browser extensions, and other services provided by us (collectively, together with the Site, our “Service”), and in connection with our customer, vendor, and partner relationships. This Privacy Policy also tells you about your rights and choices with respect to your Personal Information, and how you can reach us to update your contact information or get answers to questions you may have about our privacy practices. 
 
-Sniply Projects Inc. doing business as Lumen5 (henceforward “Lumen5”) values the protection of your privacy. This Privacy Policy sets forth our current privacy practices with regard to the personally identifiable information we collect and use when you or your computer interact with our website. This Privacy Policy applies to www.Lumen5.com as well as Lumen5's application, widget or gadget for mobile devices (such as iPhone) and social networks (including but not limited to Facebook Platform or Google OpenSocial) (each, a "Site"). The Site is not directed to children.
+Registration with, use of, and access to the Service is subject to this Privacy Policy and our Terms of Use located at [https://lumen5.com/terms/](https://web.archive.org/terms/). All terms not defined in this Privacy Policy will have the meanings set forth in the Lumen5 Terms of Service. 
 
-If you do not agree to these terms, please do not access or use this site.
+For the purpose of this Privacy Policy, “Personal Information” means any information relating to an identified or identifiable individual. We obtain Personal Information relating to you from various sources described below. 
 
-## **2\. Participating Third Party Policies**
+Where applicable, we indicate whether and why you must provide us with your Personal Information, as well as the consequences of failing to do so. If you do not provide Personal Information when requested, you may not be able to benefit from our Service if that information is necessary to provide you with the service or if we are legally required to collect it. 
 
-The Site may contain links to related services and offerings, including vendor sites. These third parties may have their own privacy policies that can be viewed on their websites or by contacting these third parties directly. Since we do not have direct control over the policies or practices of third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of these third parties before you provide any personal information or complete any transaction with such parties.
+**Registration.** If you desire to have access to certain restricted sections of the Site or request to receive marketing materials, you may be required to become a registered user, and to submit the following types of Personal Information to Lumen5: your name, email address, phone number, full user name, password, city, and time zone. 
 
-## **3\. Information We Collect and How We Use It**
+**Customer Support.** We may collect information through your communications with our customer support team or other communications that you may send us and their contents. 
 
-We do not collect information about the specifics of who you are ("Personally Identifiable Information") unless you specifically provide it to us.
+**Making a Purchase.** When you make payments through the Service, you will need to provide Personal Information such as your credit card number and billing address. 
 
-### **Personal Information Entered by Users**
+**Social Media.** In order to allow you to post to your external platforms, we may ask you to provide your username, account ids, social handle, timezones, and email address. 
 
-You provide certain Personally Identifiable Information to us when you register with us, send us email messages, submit forms to us, or provide information to us by any means. When you register, we will request some personal information which may include your name, address, email, telephone number or facsimile number, account number, and may include other relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
+**Other.** We may also collect your contact details when you provide them in the context of our customer, vendor, and partner relationships. 
 
-You may also provide certain Personally Identifiable Information to us regarding third parties. For instance, when you share your Lumen5 video with others, you provide and we collect the email addresses of the people with whom you want to share your video.
+###  2a. Personal Information Collected from Connected Social Media Accounts 
 
-You can log in to our site using Facebook Connect. This service will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+If you connect your third party social media account to your Lumen5 account, we may collect certain information stored in your social media account such as: 
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at team@lumen5.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+**Facebook** Lumen5 may allow you to connect a Facebook page or profile to your Lumen5 account, in which case we will access certain information from Facebook regarding your account. In particular, we may collect profile image, display name, username / page ID or profile ID, access tokens, and sent posts. This includes the content of your post and engagement data (such as click rates, likes, re-shares, impressions, as well as general engagement counts), to the extent permitted by applicable law. This data will only be used by Lumen5 to provide you with the Service you expect and will not be shared with any third parties. 
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Lumen5 stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+###  2b. Personal Information Automatically Obtained from Your Interactions with the Service 
 
-Your friend may contact us to request that we remove this information from our database.
+**Log Data.** Log Data. When you use our Service, our servers automatically record information that your browser sends whenever you visit a website (“Log Data”). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, and any advertisements on which you click. 
 
-We will not sell, trade, or rent Personally Identifiable Information to others. Furthermore, we will not disclose Personally Identifiable Information we collect from you to third parties without your permission, except to the extent necessary:
+**Cookies and Similar Technologies.** Like many websites, we also use “cookie” technology to collect additional website usage data and to improve the Site and our Service. A cookie is a small data file that we transfer to your computer’s hard disk. A session cookie enables certain features of the Site and our service and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. Lumen5 may use both session cookies and persistent cookies to better understand how you interact with the Site and our Service, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and our Service. 
 
-    * To fulfill your service request,
-    * To protect ourselves from liability,
-    * To respond to a court order or subpoena, bankruptcy proceedings or similar legal process to comply with an investigation, or to comply with applicable laws or rules, or
-    * In connection with a merger, acquisition, or liquidation of the company.
+We may also automatically record certain information from your device by using various types of technology, including “clear gifs” or “web beacons.” This automatically collected information may include your IP address or other device address or ID, web browser and/or device type, the web pages or sites that you visit just before or just after you use the Service, the pages or other content you view or otherwise interact with on the Service, and the dates and times that you visit, access, or use the Service. We also may use these technologies to collect information regarding your interaction with email messages, such as whether you opened, clicked on, or forwarded a message, to the extent permitted under applicable law. 
+
+You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. Please note that if you delete, or choose not to accept, cookies from the Service, you may not be able to utilize the features of the Service to their fullest potential. 
+
+**Do Not Track.** Lumen5 does not process or respond to web browsers’ “do not track” signals or other similar transmissions that indicate a request to disable online tracking of users who use our Service. 
+
+**Third Party Web Beacons and Third Party Buttons** We may display third-party content on the Service, including third-party advertising. Third-party content may use cookies, web beacons, or other mechanisms for obtaining data in connection with your viewing of the third party content on the Service. Additionally, we may implement third party buttons, such as Facebook “share” buttons, that may function as web beacons even when you do not interact with the button. Information collected through third-party web beacons and buttons is collected directly by these third parties, not by Lumen5. Please consult such third party’s data collection, use, and disclosure policies for more information. 
+
+**Links to Other Websites.** Our Site contains links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit Personal Information from you. Other sites follow different rules regarding the use or disclosure of the Personal Information you submit to them. We are not responsible for the content, privacy and security practices, and policies of third-party sites or services to which links or access are provided through the Service. We encourage you to read the privacy policies or statements of the other websites you visit. 
+
+We may use the Personal Information we obtain about you to: 
+
+  * create and manage your account, provide our Service, process payments, and respond to your inquiries; 
+  * manage account authentication such as two-factor authentication; 
+  * communicate with you to verify your account and for informational and operational purposes, such as account management, customer service, or system maintenance, including by periodically emailing you service-related announcements; 
+  * tailor our Service (e.g., we may use cookies and similar technologies to remember your preferences); 
+  * publish your content, comments or messages on social media platforms; 
+  * provide tailored advertising, for Lumen5 services; 
+  * aggregate your Personal Information for analytical purposes; 
+  * provide customer support; 
+  * operate, evaluate and improve our business (including by developing new products and services; managing our communications; determining the effectiveness of our advertising; analyzing how the Service is being accessed and used; tracking performance of the Service; debugging the Service; facilitating the use of our Service); 
+  * send you marketing communications about products, services, offers, programs and promotions of Lumen5, and affiliated companies; 
+  * ensure the security of our Service; 
+  * manage our customer, service provider and partner relationships; 
+  * enforce our agreements related to our Service and our other legal rights; and 
+  * comply with applicable legal requirements, industry standards and our policies. 
 
 
 
-We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
+If you are located in the European Economic Area, we may process your Personal Information for the above purposes when: 
 
-If Sniply Projects Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personally identifiable information.
+  * you have consented to the use of your Personal Information, For example, we may seek to obtain your consent for our uses of cookies or similar technologies, or to send you marketing communications. 
+  * we need your Personal Information to provide you with services and products requested by you, or to respond to your inquiries, 
+  * we have a legal obligation to use your Personal Information, or 
+  * we have a legitimate interest in using your Personal Information. In particular, we have a legitimate interest in using your Personal Information to ensure and improve the safety, security, and performance of our Service, to anonymize Personal Information and carry out data analyses. 
 
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-For terms relating to areas of this Site that allow you to communicate and/or submit information on or through the Site, such as bulletin board postings, email, messages, suggestions, ideas, photographs, video music, text, drawings, or concepts, please refer to our [terms of service.](https://web.archive.org/terms/)
 
-## **4\. Tracking Technologies**
+We may disclose the Personal Information we collect about you as described below or otherwise disclosed to you at the time the data is collected, including with: 
 
-Technologies such as COOKIES, beacons, tags and scripts are used by Lumen5 and our marketing partners, affiliates, analytics, or online customer support providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+**Social Media Platforms**   
+Our primary purpose for using information collected from connected third party social media platforms is to publish your videos on those platforms and allow you to track metrics for analytical purposes. We may allow you to link your account on Lumen5 with an account on a third party social network platform, such as YouTube or Facebook, and to transfer your information to and from the applicable third party platform. Once you share your content to a social media platform, its use will be governed by that platform’s privacy policy. 
 
-We use COOKIES for [our shopping cart, to remember users’ settings (e.g. language preference), for authentication]. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+**Service Providers**   
+We engage certain trusted third parties to perform functions and provide services to us, including hosting and maintenance, error monitoring, debugging, performance monitoring, billing, customer relationship, database storage and management, and direct marketing campaigns. We may share your Personal Information with these third parties, but only to the extent necessary to perform these functions and provide such services. We also require these third parties to maintain the privacy and security of the Personal Information they process on our behalf. 
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
+**Compliance with Laws and Law Enforcement**   
+Lumen5 cooperates with government and law enforcement officials or private parties to enforce and comply with the law. To the extent permitted under applicable law, we may disclose any information about you to government or law enforcement officials or private parties as we believe is necessary or appropriate to investigate, respond to, and defend against claims, for legal process (including subpoenas), to protect the property and rights of Lumen5 or a third party, to protect Lumen5 against liability, for the safety of the public or any person, to prevent or stop any illegal, unethical, fraudulent, abusive, or legally actionable activity, to protect the security or integrity of the Service and any equipment used to make the Service available, or to comply with the law. 
 
-We use Local Storage such as HTML5 to store content information and preferences. Various browsers may offer their own management tools for removing HTML5. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.
+**Business Transfers**   
+Lumen5 may sell, transfer or otherwise share some or all of its assets, including Personal Information, in connection with a merger, acquisition, reorganization, sale of assets, or similar transaction, or in the event of insolvency or bankruptcy. You will have the opportunity to opt out of any such transfer if the new entity’s planned processing of your information differs materially from that set forth in this Privacy Policy. 
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.
+**Other Third Parties**   
+We may share Personal Information with our headquarters and affiliates, and business partners to whom it is reasonably necessary or desirable for us to disclose your data for the purposes described in this Privacy Policy. We may also make certain non-Personal Information available to third parties for various purposes, including for business or marketing purposes or to assist third parties in understanding our users’ interest, habits, and usage patterns for certain programs, content, services, advertisements, promotions, and functionality available through the Service. 
 
-Our website includes Social Media Features, such as the Facebook Like button, and Widgets, such as the Share This button or interactive mini-programs that run on our website. These Features may collect your Internet protocol address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy statement of the company providing it.
+Lumen5 is very concerned about safeguarding the confidentiality of your Personal Information. We employ administrative and electronic measures designed to appropriately protect your Personal Information against accidental or unlawful destruction, accidental loss, unauthorized alteration, unauthorized disclosure or access, misuse, and any other unlawful form of processing of the Personal Information in our possession. Please be aware that no security measures are perfect or impenetrable. We cannot guarantee that information about you will not be accessed, viewed, disclosed, altered, or destroyed by breach of any of our administrative, physical, and electronic safeguards, subject to requirements under applicable law to ensure or warrant information security. 
 
-## **5\. Accessing Web Account Information**
+We will make any legally-required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored Personal Information to you via email or conspicuous posting on our Site in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system , and any other disclosures that may be required under applicable law. 
 
-We will provide you with the means to ensure that Personally Identifiable Information that we have on file for you is correct and current. You must update your Personally Identifiable Information promptly after it changes. You may ask to have the information on your account deleted or removed at any time. We will respond to your request to access within 30 days. We will use reasonable efforts to delete your information; however, because we and our web hosting company have backup systems and keep track of past transactions and/or activities, it may be impossible to completely delete your information.
+We also take measures to delete your Personal Information or keep it in a form that does not permit identifying you when this information is no longer necessary for the purposes for which we process it, unless we are required by law to keep this information for a longer period. When determining the retention period, we take into account various criteria, such as the type of products and services requested by or provided to you, the nature and length of our relationship with you, possible re-enrollment with our products or services, the impact on the services we provide to you if we delete some information from or about you, mandatory retention periods provided by law and the statute of limitations. 
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+If you decide at any time that you no longer wish to receive such marketing communications from us, please follow the unsubscribe instructions provided in any of the communications. You may also opt out from receiving commercial email from us by sending your request to us by email at [team@lumen5.com](mailto:team@lumen5.com). Please be aware that, even after you opt out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding the Service. 
 
-## **6\. User Communication**
+In certain jurisdictions you have the right to request access and receive information about the Personal Information we maintain about you, to update and correct inaccuracies in your Personal Information, to restrict or object to the processing of your Personal Information, to have the information blocked, anonymized or deleted, as appropriate, or to exercise your right to data portability to transfer your Personal Information to another company. Those rights may be limited in some circumstances by local law requirements. In addition to the above-mentioned rights, you also have the right to lodge a complaint with a competent supervisory authority subject to applicable law. 
 
-We may, from time to time, send you email regarding our services. In addition, if you indicate upon registration that you are interested in receiving offers or information from us, we may occasionally send you direct mail about products and services that may be of interest to you. Only Lumen5 will send you these direct mailings, and only if you indicated that you are interested in receiving these offers.
+Where required by law, we obtain your consent for the processing of certain Personal Information collected by cookies or similar technologies, or used to send you direct marketing communications, or when we carry out other processing activities for which consent may be required. If we rely on consent for the processing of your Personal Information, you have the right to withdraw it at any time and free of charge. When you do so, this will not affect the lawfulness of the processing before your consent withdrawal. 
 
-## **7\. Security of Information**
+To update your preferences, ask us to remove your information from our mailing lists, delete your account or submit a request to exercise your rights under applicable law, please contact us as specified in the “How to Contact Us” section below. 
 
-We will keep your Personally Identifiable Information secure consistent with current industry standards. Security of your Personally Identifiable Information is of utmost concern to us. Personally Identifiable Information, once transmitted to us, will be stored on computers that only selected personnel and contractors have access to via password, and/or on web hosting servers.
+Lumen5 is based in Canada. Personal Information that we collect may be transferred to, and stored at, any of our affiliates, partners or service providers which may be inside or outside the European Economic Area (“EEA”) and Switzerland, including the United States. By submitting your personal data, you agree to such transfers. Your Personal Information may be transferred to countries that do not have the same data protection laws as the country in which you initially provided the information. When we transfer or disclose your Personal Information to other countries, we will protect that information as described in this Privacy Policy. 
 
-Your Lumen5 videos and user content are limited-access, where access is gained through an obscured URL system. This obscured URL makes it difficult if not impossible for a third party to guess the URL address of your video or content without an invitation from you including the relevant URL. However, because the videos and content are not password-protected, a possibility exists that an unauthorized third party could discover your videos and/or content. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security.
+The Site is not directed to persons under 16. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [team@lumen5.com](mailto:team@lumen5.com). We do not knowingly collect Personal Information from children under 16. If we become aware that a child under 16 has provided us with Personal Information, we will delete such information from our files. 
 
-## **8\. Changes to this Statement**
+This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any modifications to our Privacy Policy by posting the new Privacy Policy on our Site and indicating the date of the latest revision. You are advised to consult this Privacy Policy regularly for any changes. 
 
-Lumen5 has the discretion to update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+In the event that the modifications materially alter your rights or obligations hereunder, we will make reasonable efforts to notify you of the change. For example, we may send a message to your email address or generate a pop-up or similar notification when you access the Service for the first time after such material changes are made. Your continued use of the Service after the revised Privacy Policy has become effective indicates that you have read, understood and agreed to the current version of this Privacy Policy. 
 
-## **10\. Contacting Us**
+Sniply Projects Inc. is the entity responsible for the processing of your Personal Information. If you have any questions or comments regarding this Privacy Policy, or if you would like to exercise your rights to your Personal Information, you may contact us by emailing us at team@lumen5.com or by writing to us at: 
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at:
+Sniply Projects Inc   
+1050 West Pender Street #2220   
+Vancouver, BC, Canada V6E 3S7 
 
-Sniply Projects Inc. (team@lumen5.com)  
-422 Richards St #300  
-Vancouver, BC V6B 2Z4  
-Canada
+**This document was last updated on May 22, 2018.**
