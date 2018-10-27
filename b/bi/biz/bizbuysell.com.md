@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizbuysell.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124045405id_/http%3A//www.bizbuysell.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizbuysell.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028015525id_/https%3A//www.bizbuysell.com/privacy.htm) for the most accurate reproduction.*
 
 # BizBuySell - The Internet's Largest Business for Sale Marketplace
 
@@ -68,25 +68,21 @@ The security of your personal information is important to BizBuySell. When you e
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-If you have any questions about security on our website, please [contact us](https://web.archive.org/ContactUs.aspx?tc=t5). 
-
-##  Blog / Forum 
-
-The Site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, [contact us here](https://web.archive.org/ContactUs.aspx?tc=t5). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. Alternatively, if you used a third party application to post such information, you can remove it, by either logging into the said application and removing the information or by contacting the appropriate third party application. 
+If you have any questions about security on our website, please [contact us](https://web.archive.org/ContactUs.aspx). 
 
 ##  Public Member Directory 
 
-We will list you in our publicly accessible member directory. If you wish to request removal of your information from our directory, you can [contact us here](https://web.archive.org/ContactUs.aspx?tc=t5). 
+We will list you in our publicly accessible member directory. If you wish to request removal of your information from our directory, you can [contact us here](https://web.archive.org/ContactUs.aspx). 
 
 ##  Opting-out, editing, updating or deleting personal information 
 
 BizBuySell utilizes email as a vital and primary communication channel with registered users and customers. As a registered user/customer, you hereby acknowledge and grant BizBuySell the permission to communicate with you via email (as well as other communication channels such as phone and fax) for any purposes BizBuySell determines to be relevant including, but not limited to, system messages, product updates, service announcements and other marketing messages. BizBuySell will use best efforts to honor customers request to opt out of marketing messages, but under no circumstances will BizBuySell have any liability for sending any email to its registered users/customers. 
 
-Users who do not wish to receive marketing emails including the BizBuySell Bulletins, BizBuySell promotional Emails, or Sponsor Emails are requested to contact [BizBuySell Client Services](https://web.archive.org/ContactUs.aspx?tc=t5), or select the opt-out option that is available on all email correspondence. Additionally, users may also opt out of BizAlerts by returning to the BizAlerts section and clicking on the "Cancel Notification" link. We also send our users site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about service notices and responsibilities. BizBuySell occasionally communicates with its users via email and phone to provide information about requested services and regarding issues related to their account. It is important to note that this communication is not used for marketing or promotional purposes. Requesting the deletion of certain types of user information may prevent users from accessing some website features. 
+Users who do not wish to receive marketing emails including the BizBuySell Bulletins, BizBuySell promotional Emails, or Sponsor Emails are requested to contact [BizBuySell Client Services](https://web.archive.org/ContactUs.aspx), or select the opt-out option that is available on all email correspondence. Additionally, users may also opt out of BizAlerts by returning to the BizAlerts section and clicking on the "Cancel Notification" link. We also send our users site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about service notices and responsibilities. BizBuySell occasionally communicates with its users via email and phone to provide information about requested services and regarding issues related to their account. It is important to note that this communication is not used for marketing or promotional purposes. Requesting the deletion of certain types of user information may prevent users from accessing some website features. 
 
 You may correct or update your personal information by going to the area of the site where you submitted the information, and following the instructions to view, change or delete the information. 
 
-If your personal information changes, or if you no longer desire our service, you may correct, delete or update your personal information by making the change on your member profile page or by contacting [BizBuySell Client Services](https://web.archive.org/ContactUs.aspx?tc=t5). 
+If your personal information changes, or if you no longer desire our service, you may correct, delete or update your personal information by making the change on your member profile page or by contacting [BizBuySell Client Services](https://web.archive.org/ContactUs.aspx). 
 
 ##  Notification Procedures 
 
@@ -102,6 +98,6 @@ BizBuySell reserves the right to modify this Privacy Statement at any time, so p
 
 The Site believes that it is especially important to protect children's privacy online. The Site does not knowingly collect or use any personally identifiable information from children under the age of 13 and Site does not knowingly provide any personally identifiable information, regardless of its source, to any third party for any purpose whatsoever from visitors younger than 13 years old. No information should be submitted to or posted at the Site by visitors younger than 13 years old. 
 
-If you have any questions about this Privacy Statement, please contact us at <https://www.bizbuysell.com/ContactUs.aspx>. 
+If you have any questions about this Privacy Statement, please contact us at [www.bizbuysell.com/ContactUs.aspx](https://www.bizbuysell.com/ContactUs.aspx). 
 
 ©2017 CoStar Realty Information, Inc., 1331 L Street, NW, Washington, DC 20005.
