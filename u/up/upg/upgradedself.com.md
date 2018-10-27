@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the upgradedself.com privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324220515id_/https%3A//www.bulletproof.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upgradedself.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027202930id_/https%3A//www.bulletproof.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
 ### Privacy Policy
 
-Last updated: October 17, 2016
+Last updated: June 13, 2018
 
-Bulletproof 360, Inc. (“Bulletproof” “we”, “us” or “our”), values your privacy. In this Privacy Policy (“Policy”), we describe the information that we collect from and about you on our websites, including Bulletproof.com, Bulletprooflabs.com, blog.bulletproof.com, betterbabybook.com, and our other sites on which we post this Policy (collectively, the “Website”). By visiting the Website, you agree that your personal information will be handled as described in this Policy. Your use of our Website, and any dispute over privacy, is subject to this Policy and our [Terms of Service](https://web.archive.org/terms-conditions), including its applicable limitations on damages and the resolution of disputes. Our [Terms of Service](https://web.archive.org/terms-conditions), are incorporated by reference into this Policy.
+Bulletproof 360, Inc. (“Bulletproof” “we”, “us” or “our”), values your privacy. In this Privacy Policy (“Policy”), we describe the information that we collect from and about you on our websites, including Bulletproof.com, blog.bulletproof.com, bulletprooftraininginstitute.com, and our other sites on which we post this Policy (collectively, the “Website”). By visiting the Website, you agree that your personal information will be handled as described in this Policy. Your use of our Website, and any dispute over privacy, is subject to this Policy and our [Terms of Service](https://web.archive.org/terms-conditions), including its applicable limitations on damages and the resolution of disputes. Our [Terms of Service](https://web.archive.org/terms-conditions), are incorporated by reference into this Policy.
+
+GDPR Privacy Notice
+
+We have issued our new GDPR Privacy Notice relating to personal data that is subject to the European Union’s General Data Protection Regulation. You can read it [here](https://web.archive.org/privacy-policy-gdpr)
 
 Collection of Information
 
@@ -24,7 +28,7 @@ We use the information that we collect from and about you, including your person
 
   * **Providing Our Services.** To provide our services to you; for order fulfillment purposes; to communicate with you, including via email, about your use of our services; to respond to your inquires; and for other customer service purposes.
   * **Marketing/Advertising.** To provide you with news and newsletters, special offers, and promotions, including via email; to contact you about products or information we think may interest you; and for other marketing, advertising, and promotional purposes.
-  * **Analyzing Use of Our Services.** To better understand how users access and use our Website and services, both on an aggregated and individualized basis; to respond to user desires and preferences; and for other research and analytical purposes. 
+  * **Analyzing Use of Our Services.** To better understand how users access and use our Website and services, both on an aggregated and individualized basis; to respond to user desires and preferences; and for other research and analytical purposes.
   * **Posting to your Wall.** If you log in through Facebook Connect or “like” us, we may post to your wall.
   * **Complying with the Law.** To comply with applicable legal obligations.
   * **Protecting Our Rights and Interests.** We may use your information to protect our rights and interests and the rights and interests of other users of our Website, as well as to enforce this Policy and our [Terms of Service](https://web.archive.org/terms-conditions).
@@ -33,27 +37,27 @@ We use the information that we collect from and about you, including your person
 
 Information Sharing
 
-We may share your information, including your personal information, with the following entities and in the following situations: 
+We may share your information, including your personal information, with the following entities and in the following situations:
 
   * **Affiliates.** To our parent company, affiliates, or subsidiaries for research and marketing, including marketing our product as well as their own products and services, and other purposes consistent with this Policy.
   * **Partners.** From time to time, we may offer promotions with other entities, and we may share your contact information with the other entity for the purpose of the joint promotion.
-  * **Service Providers.** To companies that provide services to help us with our business activities such as shipping your order or offering customer service, performing website analytics, assisting us with marketing and advertising, evaluating the success of our marketing/advertising campaigns. For example, we may share information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with advertising partners and other third parties to assist us in determining relevant advertising. 
+  * **Service Providers.** To companies that provide services to help us with our business activities such as shipping your order or offering customer service, performing website analytics, assisting us with marketing and advertising, evaluating the success of our marketing/advertising campaigns. For example, we may share information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with advertising partners and other third parties to assist us in determining relevant advertising.
   * **Unaffiliated Third Parties.** We also may share your information with non-affiliated third parties, including for their own marketing purposes (please see our Special Information for California Consumers section below with regard to such disclosures).
 
 
 
 We also may share your information, including your personal information, for the following reasons:
 
-  * **Business Transfers.** If we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected from you to the acquiring company. 
-  * **In Response to Legal Process.** We also may disclose the information we collect from you in order to comply with the law, a judicial proceeding, court order or other legal process, such as in response to a subpoena. 
-  * **To Protect Us and Others.** We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person or violations of our [Terms of Service](https://web.archive.org/terms-conditions) or this Policy. 
-  * **Aggregate and Anonymized Information.** We may share aggregate or anonymized information about users with third parties for marketing, advertising, research or similar purposes. For example, if we display advertisements on behalf of a third party, we may share aggregate, demographic information with that third party about the users to whom we displayed the advertisements. 
+  * **Business Transfers.** If we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected from you to the acquiring company.
+  * **In Response to Legal Process.** We also may disclose the information we collect from you in order to comply with the law, a judicial proceeding, court order or other legal process, such as in response to a subpoena.
+  * **To Protect Us and Others.** We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person or violations of our [Terms of Service](https://web.archive.org/terms-conditions) or this Policy.
+  * **Aggregate and Anonymized Information.** We may share aggregate or anonymized information about users with third parties for marketing, advertising, research or similar purposes. For example, if we display advertisements on behalf of a third party, we may share aggregate, demographic information with that third party about the users to whom we displayed the advertisements.
 
 
 
 User Generated Content
 
-We invite you to participate in our Forums. If you choose to post a comment, your user name, city, and any other information that you choose to post will be visible to all visitors to the Website. We are not responsible for the privacy of any information that you choose to post to our Website, including in our blogs and forums, or for the accuracy of any information contained in those postings. Any information that you disclose becomes public information. We cannot prevent such information from being used in a manner that may violate this Policy, the law or your personal privacy. 
+We invite you to participate in our Forums. If you choose to post a comment, your user name, city, and any other information that you choose to post will be visible to all visitors to the Website. We are not responsible for the privacy of any information that you choose to post to our Website, including in our blogs and forums, or for the accuracy of any information contained in those postings. Any information that you disclose becomes public information. We cannot prevent such information from being used in a manner that may violate this Policy, the law or your personal privacy.
 
 Choice/Opt-Out
 
@@ -87,7 +91,7 @@ We use third parties such as network advertisers to serve advertisements on our 
 
 Third-Party Links
 
-Our Website may contain links to third-party websites. Any access to and use of such linked third-party websites is not governed by this Policy but instead is governed by the privacy policies of those third-party websites. 
+Our Website may contain links to third-party websites. Any access to and use of such linked third-party websites is not governed by this Policy but instead is governed by the privacy policies of those third-party websites.
 
 We encourage you to review the privacy statements of websites you choose to link to from this Website so that you can understand how those other websites collect, use and share your information. We are not responsible for the privacy statements or other content on websites other than this Website.
 
