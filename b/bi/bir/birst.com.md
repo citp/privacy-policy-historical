@@ -1,120 +1,83 @@
-> *The following text is extracted and transformed from the birst.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907212546id_/https%3A//www.birst.com/website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birst.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027193426id_/https%3A//www.birst.com/website/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Birst
+# Birst Business Intelligence & Analytics - Privacy Policy
 
-#### Last Updated: August 31, 2015.
+## Personal Data Infor Collects
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=4eafe397-98b7-40fc-9b16-78b19caae571 "TRUSTe Privacy Certification")
+Infor collects data from you through our interactions with you and through our products. The data we collect depends on the context of your interactions with Infor and the choices you make, including your privacy settings and the products and features you use. You provide some data to us directly, we collect data about your interactions with and use of our products, and we obtain data about you from third parties. 
 
-Birst Inc. is committed to customer privacy. This Privacy Policy communicates our customer information gathering and dissemination practices. This Privacy Policy also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. We reserve the right to change our Privacy Policy at any time and will provide notification of changes by posting the revised Privacy Policy on our website [www.birst.com](https://web.archive.org/ "Home").
+When you interact with us, we collect information sent to us by your device. The information we collect may include data about the pages you access, your computer IP address, device ID or unique identifier, device type, geolocation information, computer and connection information, and mobile network information.
 
-This privacy policy covers the site [www.birst.com](https://web.archive.org/ "Home") as well as the Birst services.
+You have choices about the technology you use and the data you share with us. When we ask you to provide personal data, you may decline. However, many of our products require some personal data to provide you with a service. If you choose not to provide that necessary data, you will not be able to use that product or feature. Similarly, where we need personal data by law or to enter into or carry out a contract with you, we will not be able to proceed if you do not provide the data. We will let you know if not providing the personal information will result in our inability to provide you with a product or service. In cases where providing personal data is optional, certain features like personalization will not work if you choose not to provide the personal data.
 
-Birst Inc. has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.birst.com](https://web.archive.org/ "Home") and the Birst service platform and does not cover information that may be collected from mobile devices. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Birst Inc.
+## Applicants’ Personal Data
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request "Contact TRUSTe").
+If you are applying for a job with either Infor or one of its customers, we collect additional information related to your employment application.
 
-Birst complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Birst has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Birst’s certification, please visit <http://www.export.gov/safeharbor/>.
+For job applicants using Infor’s Talent Science software to apply to an Infor customer, we share your personal information and our assessment with Infor’s customer to whom you are applying (or for whom you already work). Our assessment uses the information you provide to help our customers develop their workforce.
 
-[](http://www.skyhighnetworks.com/enterprise-ready/ "Skyhigh Enterprise-Ready Seal")
+At our customer’s or your request, we may disclose your personal data to third parties for employment screening, background checks, credential verification services, or other similar services related to verifying the accuracy of the information you have provided. If you do not want your personal data, (including test results or background checks) used as described here, you should not provide us with your personal data. Not providing the personal data will preclude you from proceeding with your Talent Science application.
 
-Skyhigh Enterprise-Ready cloud services fully satisfy the most stringent requirements for data protection, identity verification, service security, business practices, and legal protection.
+For job applicants applying directly to Infor, we use the personal data you have provided to make employment decisions, as well as for our other legitimate business purposes, such as workforce analysis, gaining a greater understanding of our applicants, attracting talented individuals, and providing you with information about job vacancies at Infor. We also use your data to comply with our legal obligations, such as applicable immigration or employment laws. privacy or security practices of our customers, partners, or vendors, which may differ from Infor’s privacy policy
 
-Skyhigh Networks performs objective and thorough evaluations of the enterprise-readiness of cloud service based on a detailed set of criteria developed in conjunction with the Cloud Security Alliance (CSA). Services designated as Skyhigh Enterprise-Ready are the services receiving the highest CloudTrust™ Ratings, which fully satisfy the most stringent requirements for data protection, identity verification, service security, business practices, and legal protection.
+## How Infor Uses Personal Data  
 
-#### When Information Is Collected
 
-When registering to receive more information or registering for demos, we require users to give us your personal information, such as their name, company name, title, address, phone number, and e-mail address.
+Infor uses the data we collect about you to provide you with rewarding, interactive experiences. In particular, we use data to:
 
-When registering for a free or paid account (the “Online Service”), we require users to give us personal information, such as their name, company name, title, address, phone number, and e-mail address. Registered users can update this information at any time by logging into our website and editing their profile.
-
-You can also log in to our site using sign-in services such as an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like this may give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
-
-Customers of the Online Service will be using our website to host data and information (“Hosted Data”). As part of our Online Service, Birst collects information under the direction of its Customers. In this capacity, our Customer is the controller of the data and Birst acts as a data processor. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Customers.
-
-#### How the Collected Information Is Used
-
-Birst uses the information that we collect to set up the Online Service for individuals and their organizations. We may also use the information to contact customers to further discuss customer interest in our company, the Online Service that we provide, and updates and enhancements made to it, as well as to send information regarding our company’s or our partners’ offerings, such as promotions and events. We also use this information to administer our website, improve our Online Service and to communicate with our customers regarding account administration issues. Customer email addresses and any personal customer information will not be distributed or shared with third parties except for the purposes described above. Customers can opt out of receiving any marketing communication by changing their account settings, clicking on the unsubscribe link in the email, emailing us, or at the time the customer registers for the Online Service. We may also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers.
-
-We use anonymous information about your interaction with our service platform for analytical purposes only. This is done by viewing only aggregated data to help us understand how our services are used.
-
-#### Correcting and Updating Your Personal Information
-
-To review and update your personal information to ensure it is accurate, you can log into your account and update your information under “Account”. Additionally, if you would like to request to have your personal information deleted and discontinued from use, please contact us as described below. We will respond to your request within a reasonable time frame.
-
-We have testimonials on our site. For which the individuals have given permission for us to post their personal information. If you wish to update or delete your testimonial, you can contact us at [webmaster@birst.com](mailto:webmaster@birst.com "Email webmaster@birst.com").
-
-We also have blog which is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
-
-For access to the data controlled by our Customers, that Customer will need to be contacted directly with any access requests. If the Customer subsequently requests us to remove the data, we will respond within a reasonable time frame.
-
-Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or by contacting us as described in this privacy policy.
-
-#### Data Retention
-
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at [operations@birst.com](mailto:operations@birst.com "Email operations@birst.com"). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-We will retain personal data we process on behalf of our Customer for as long as needed to provide services to our Customer. Birst will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-#### Community
-
-Our site has a community section where customers can contact and share ideas with other customers. We may share your personal information with other customers in response to your requests and according to your Account privacy settings. You can edit your privacy settings anytime as to who can view your information by editing your profile and changing your preferences. If you think that an unauthorized profile is created without your permission, please contact us to remove/delete such profile at [community@birs](mailto:community@birst.com)t. If you want to delete or deactivate your Community profile, please contact us at [community@birst.com](mailto:community@birst.com).
-
-#### Links to Other Sites
-
-This Web site contains links to other sites that are not owned or controlled by Birst. Please be aware that we, Birst, are not responsible for the privacy practices of such other sites.
-
-We encourage you to be aware that when you leave our site you are subject to the privacy practices of those destination sites; we encourage you to read the privacy statements of each and every Web site that collects personally identifiable information.
-
-This privacy statement applies only to information collected by this Web site and service platform.
-
-#### Security
-
-The security of your personal information is important to us. Our login page and service platform use TLS encryption. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet or method of electronic storage is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-Customers are responsible for maintaining the confidentiality and security of their user registration and password.
-
-For information about Birst Security practices for our Online Service, please see the [Birst Security and Reliability Whitepaper](http://info.birst.com/Birst-Security-and-Reliability.html).
-
-#### Cookies and Other Tracking Technologies
-
-Technologies such as: cookies, beacons, tags and scripts are used by Birst and our marketing and analytics partners. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. Our cookies are not linked to personal information.
-
-We use cookies for improving user experience, displaying relevant content to users, tracking marketing campaigns, and providing functionality (e.g. Integrating with other software)] Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
-
-As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you.
-
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, and the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
-
-We use Local Storage (LS) such as HTML5 to provide certain features on our site. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity also use LS such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.
-
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here ](http://preferences-mgr.truste.com/ "Targeted Advertising Opt-out USA")(or if located in the European Union click [here](http://www.youronlinechoices.eu/ "Targeted Advertising Opt-out EU")) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
-
-#### Disclosure of Information
-
-The Company does not share, sell, rent, or trade PII with third parties for their promotional purposes.
-
-We may disclose the information we receive:
-
-  * as required by law, such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect
-  * if Birst is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+  * Provide our products and services, which includes updating, securing, and troubleshooting, as well as providing support. It also includes sharing data, when necessary to provide the service or other transaction you have requested.
+  * Improve and develop our products.
+  * Personalize our products.
+  * Advertise and market to you, which includes sending promotional communications and targeting advertising.
 
 
 
-We may also provide your personal information to companies that provide services to help us with our business activities such as sending you emails or offering you the blog section. These companies are authorized to use your personal information only as necessary to provide these services to us.
+We also use the data for our business purposes, including analyzing our performance, meeting our legal obligations, and developing our workforce. To achieve these purposes, we sometimes combine data we collect from different contexts to give you a better experience, to make informed business decisions, and for other legitimate reasons.
 
-#### Changes in this Privacy Statement
+## Reasons We Share Personal Data  
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the changes taking effect.
+We share your personal data (when you have approved such sharing) to complete transactions, or to provide a product you have requested. We also share data with Infor affiliates and subsidiaries, with vendors working for us, when required by law or legal process, to protect lives, to maintain the security of our products, and to protect the rights and property of Infor and its customers.
 
-#### Questions
+## How to Access and Control Your Personal Data  
 
-Questions regarding Birst Privacy Policy or the practices of our website should be directed to [privacy@birst.com](mailto:privacy@birst.com "Email privacy@birst.com") or by regular mail addressed to:
 
-Birst, Inc.  
-Attn: Privacy  
-45 Fremont Street, 18th Floor  
-San Francisco, CA 94105
+You have choices about how Infor collects and uses your data. You can exercise your data protection rights by contacting Infor or using some of the tools we provide. You have certain rights, including to access, correct, erase, object to, or restrict our use of your personal data. You may also withdraw your consent for our use of your personal information, if applicable. In some circumstances, you may request a copy of your personal information in a usable electronic format. In some cases, your access or control of your personal data may be limited, where required or permitted by applicable law. Where applicable, you may also lodge a complaint with your local data protection authority.
+
+You may control the use of your data for advertising from Infor by visiting our [Preference Center](https://pages.infor.com/preference-center.html). Not all personal data processed by Infor may be accessed or controlled using the preferences page. If you want to access or control personal data processed by Infor that is not available using the tools located on the preferences page, you can contact Infor at the address listed below.
+
+## International Transfers of Data  
+
+
+Infor is a global organization with its headquarters in the United States. We may share your personal information among Infor, our affiliates, our service providers, and other third parties that may be outside the country in which you reside. We have put in place appropriate safeguards to handle the transfers of data to ensure that your personal information is handled as described in this policy.   
+Infor (US) is Privacy Shield certified and adheres to the Privacy Shield Principles. To learn more about the EU-U.S. Privacy Shield and the Swiss-US Privacy Shield, please visit the Privacy Shield website at [https://www.privacyshield.gov](https://www.privacyshield.gov/).  
+If you have an unresolved privacy or data security concern that we have not addressed satisfactorily, please contact our third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+## Cookies  
+
+
+Cookies are small text files placed on your device to store data. We use cookies and similar technologies for storing your preferences and settings, enabling you to sign in, providing advertising, combating fraud, and fulfilling other legitimate business purposes. Sometimes, we also use web beacons to gather usage and performance data. Our websites may include web beacons, cookies, or similar technologies from third party providers.
+
+You have options to control the data collected by cookies, web beacons, and similar technologies. For example, you may use settings in your internet browser to limit how the websites you visit are able to use cookies and to withdraw your consent by clearing or blocking cookies. At this time, Infor does not respond to Do Not Track (DNT) signals.
+
+## Products Provided by Your Organization  
+
+
+If you use an email address provided by your employer or another organization to access Infor products, that organization has the ability to control and administer your Infor product account, as well as the ability to access and process your data.
+
+Many Infor products are intended for use by organizations, such as businesses. If your organization provides you with access to Infor products, your use of the Infor products is subject to your organization’s policies, if any. You should direct your privacy inquiries, including any requests to exercise your data protection rights, to your organization’s administrator. Infor is not responsible for the privacy or security practices of our customers, partners, or vendors, which may differ from Infor’s privacy policy.
+
+## How Long We Retain Your Personal Information  
+
+
+Generally, we will keep your personal data for the duration of our relationship with you. After our relationship ends, we will retain your personal information for a period of time that permits us to satisfy the following purposes: record retention as may be required by applicable law, for use in a legal claim or proceeding, to address any complaints we receive regarding our products or services, or other legitimate business reasons.
+
+## How We Protect Your Personal Information  
+
+
+The security of your personal data is important to us. We use appropriate technical and organizational measures to protect the security of your data.
+
+## Updates to Our Privacy Policy  
+
+
+From time to time, we may modify or update this policy. You can see at the top of the policy when it was last updated. If we substantially modify this policy, we will notify you of the changes by posting them on our website. Any changes to our policy are effective as of the date we post such changes, unless we inform you otherwise. If we modify our policy in a way that would have a substantial impact on the nature of processing or your privacy rights, we would provide sufficient advance notice to provide you with an opportunity to exercise your rights.
