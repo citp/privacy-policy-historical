@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the biologycorner.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415144244id_/http%3A//www.biologycorner.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biologycorner.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027234533id_/https%3A//www.biologycorner.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Biology Corner
-
-[Home](http://www.biologycorner.com/)  »  Privacy Policy
+# Privacy Policy
 
 **Privacy Policy for www.biologycorner.com**
 
