@@ -1,6 +1,38 @@
-> *The following text is extracted and transformed from the barkshop.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918024734id_/https%3A//barkshop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barkshop.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027142528id_/https%3A//barkshop.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | BarkShop
+# Privacy Policy
+
+Due to limited stock, we had to modify your order. 
+
+######  {{message}} 
+
+Looks like we ran out of something 
+
+######  {{message}} 
+
+{{ item.name }} {{ item.attributes_string }}
+
+{{(lineItem.sale_price == 0) ? 'FREE' : (lineItem.sale_price | currency:"$")}} 
+
+{{(lineItem.sale_price | currency:"$")}} {{(lineItem.list_price | currency:"$")}}
+
+__Delivery every {{lineItem.auto_shipment_frequency}} weeks
+
+__ My order is a gift
+
+Gift message (optional) {{185 - gift.messageLength}} characters
+
+ Generate a message for me! 
+
+* * *
+
+Add {{35-cart.quote.subtotal | currency}} more for free shipping You might also like
+
+{{ item.name }} {{item.attributes_string}} {{ item.price | currency:"$" }} {{ item.promotional_price | currency:" $" }} {{ item.price | currency:"$" }}
+
+ADD
+
+Your cart is empty.
 
 ### Bark&Co   
 Privacy Policy
