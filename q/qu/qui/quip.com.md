@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quip.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513132850id_/https%3A//quip.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quip.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027164855id_/https%3A//quip.com/about/privacy) for the most accurate reproduction.*
 
 # Quip
 
-Quip LLC and it's parent, salesforce.com, inc. (together, “we,” “us,” “our”, “Company” or “Quip”) are committed to protecting the privacy of individuals who visit the Company’s Web sites (“Visitors”), individuals who register to use the Services as defined below (“Customers”), and individuals who register to attend the Company’s corporate events (“Attendees”). This Privacy Statement describes Quip’s privacy practices in relation to the use of the Company’s Web sites and the related applications and services offered by Quip (collectively, the “Services”).
+Quip LLC and its parent, salesforce.com, inc. (together, “we,” “us,” “our”, “Company” or “Quip”) are committed to protecting the privacy of individuals who visit the Company’s Web sites (“Visitors”), individuals who register to use the Services as defined below (“Customers”), and individuals who register to attend the Company’s corporate events (“Attendees”). This Privacy Statement describes Quip’s privacy practices in relation to the use of the Company’s Web sites and the related applications and services offered by Quip (collectively, the “Services”).
 
 This Privacy Statement explains our practices regarding the collection, use and disclosure of information that we receive when you use Quip, as well as your choices regarding use, access and correction of your personal information.
 
@@ -14,7 +14,7 @@ Quip’s Web sites may contain links to other Web sites. The information practic
 
 #### 2\. Information collected
 
-When expressing an interest in obtaining additional information about the Services, or registering to use the Web sites or other services, or registering for an event, Quip requires you to provide the Company with personal contact information, such as name, company name, address, phone number, zip code and email address (“Required Contact Information”). When purchasing the Services or registering for an event, Quip may also require you to provide the Company with financial qualification and billing information, such as billing name and address, credit card number, and the number of employees within the organization that will be using the Services (“Billing Information”). Quip may also ask you to provide additional information, such as company annual revenues, number of employees, industry or to enhance information on a user profile, gender (“Optional Information”). When Visitors apply for a job with the Company, Quip may also require you to submit additional personal information as well as a resume or curriculum vitae (“Applicant Information”). If you choose to create a Quip account via a third-party service, you may have to provide us with information such as your username or email for your account with the third party so that your identity can be authenticated and when the authentication is complete, we’ll be able to access certain information based on your permissions from the third-party service (“Authentication Information”). Through our “import contacts” feature option, we may also collect information such as the name, company name, address, phone number or email address of contacts that you choose to share with us (“Import Information”). Our servers automatically record information about how a person uses Quip, including Internet Protocol (“IP”) addresses, browser types, operating systems, pages or features of Quip that were used and time spent on them, date/time stamp, search terms, in some cases we collect and store information about where you are located, such as by converting your IP address into a rough geolocation, and other statistics (“Information about Use of Quip”). Required Contact Information, Billing Information,Applicant Information, Optional Information, Authentication Information, Import Information, Information about Use of Quip, and any other information you submit to Quip or through the Services are referred to collectively as “Data.”
+When expressing an interest in obtaining additional information about the Services, or registering to use the Web sites or other services, or registering for an event, Quip requires you to provide the Company with personal contact information, such as name, company name, address, phone number, zip code and email address (“Required Contact Information”). When purchasing the Services or registering for an event, Quip may also require you to provide the Company with financial qualification and billing information, such as billing name and address, credit card number, and the number of employees within the organization that will be using the Services (“Billing Information”). Quip may also ask you to provide additional information, such as company annual revenues, number of employees, industry or to enhance information on a user profile, gender (“Optional Information”). When Visitors apply for a job with the Company, Quip may also require you to submit additional personal information as well as a resume or curriculum vitae (“Applicant Information”). If you choose to create a Quip account via a third-party service, you may have to provide us with information such as your username or email for your account with the third party so that your identity can be authenticated and when the authentication is complete, we’ll be able to access certain information based on your permissions from the third-party service (“Authentication Information”). Through our “import contacts” feature option, we may also collect information such as the name, company name, address, phone number or email address of contacts that you choose to share with us (“Import Information”). Our servers automatically record information about how a person uses Quip, including Internet Protocol (“IP”) addresses, browser types, operating systems, pages or features of Quip that were used and time spent on them, date/time stamp, search terms, in some cases we collect and store information about where you are located, such as by converting your IP address into a rough geolocation, and other statistics (“Information about Use of Quip”). Required Contact Information, Billing Information, Applicant Information, Optional Information, Authentication Information, Import Information, Information about Use of Quip, and any other information you submit to Quip or through the Services are referred to collectively as “Data.”
 
 As you navigate the Company’s Web sites, Quip may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons (“Web Site Navigational Information”). Web Site Navigational Information includes standard information from your Web browser (such as browser type and browser language), your IP address, and the actions you take on the Company’s Web sites (such as the Web pages viewed and the links clicked). For additional information about the collection of Web Site Navigational Information by Quip and others, please see Section entitled “Web Site Navigational Information” below.
 
@@ -30,9 +30,9 @@ Quip uses Billing Information to check the financial qualifications and collect 
 
 Quip uses Web Site Navigational Information to operate and improve the Company’s Web sites or Services. The Company may also use Web Site Navigational Information alone or in combination with Data about Quip Customers and Data about Quip Attendees to provide personalized information about the Company. For additional information about the use of Web Site Navigational Information, please see Section entitled “Web Site Navigational Information” below.
 
-Quip uses Applicant Information, Import Information, and Authentication Information for the limited reason for which it is provided to Us, such as to find someone you know using Quip or to add someone to your site.
+Quip uses Applicant Information, Import Information, and Authentication Information for the limited reason for which it is provided to Us, such as to find someone you know using Quip or to add someone to your site. If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us [here](https://pages.mail.salesforce.com/contact-privacy/).
 
-Quip uses Information about Use of Quip (and may engage third parties to analyze)to customize and improve Quip. We also use IP addresses to generate aggregate, non-identifying information about how Quip is used, and if such IP address is converted into a rough geolocation, we may use such location information to improve and personalize Quip.
+Quip uses information about use of Quip (and may engage third parties to analyze)to customize and improve Quip. We also use IP addresses to generate aggregate, non-identifying information about how Quip is used, and if such IP address is converted into a rough geolocation, we may use such location information to improve and personalize Quip.
 
 #### 4\. Web Site Navigational Information, Cookies, Web Beacons and IP Addresses
 
@@ -40,11 +40,11 @@ Quip uses commonly-used information-gathering tools, such as cookies, Web beacon
 
 ##### Cookies
 
-Quip.com uses cookies to make interactions with the Company’s Web sites easy and meaningful. When you visit one of the Company’s Web sites, our servers send a cookie to your computer. Standing alone, cookies do not personally identify you; they merely recognize your Web browser. Unless you choose to identify yourself to us, either by responding to a promotional offer, opening an account, or filling out a Web form (such as a “Contact Me” or a “30 Day Free Trial” Web form), you remain anonymous to the Company.
+Quip.com uses cookies to make interactions with the Company’s Web sites easy and meaningful. When you visit one of the Company’s Web sites, our servers send a cookie to your computer. Standing alone, cookies do not personally identify you; they merely recognize your Web browser. Unless you choose to identify yourself to us, either by responding to a promotional offer, opening an account, or filling out a Web form (such as a “Contact Me” or a “30 Day Free Trial” Web form), you will not be personally identified by the Company.
 
 Quip.com uses cookies that are session—based and persistent—based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer. Please note that if you disable your Web browser’s ability to accept cookies, you will be able to navigate the Company’s Web sites, but you will not be able to successfully use the Services.
 
-The following sets out how salesforce.com uses different categories of cookies and your options for managing cookies’ settings:
+The following sets out how we use different categories of cookies and your options for managing cookies’ settings:
 
 Type of Cookies| Description| Managing Settings  
 ---|---|---  
@@ -117,7 +117,7 @@ Currently, various browsers — including Internet Explorer, Firefox, and Safari
 
 We also partner with a third party to display advertising on our website or to manage our advertising on other sites. Our third party partners may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/), or if located in the European Union click [here](http://www.youronlinechoices.eu/). Please note you will continue to receive generic ads.
 
-##### 5\. Public forums, refer a friend, and customer testimonials
+##### 5\. Public Forums, Refer a Friend, and Customer Testimonials
 
 Quip may provide bulletin boards, blogs, or chat rooms on the Company’s Web sites. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Quip is not responsible for the personal information you choose to submit in these forums.
 
@@ -127,7 +127,8 @@ Quip posts a list of Customers and testimonials on the Company’s Web sites tha
 
 #### 6\. Sharing of information collected
 
- **Service Providers**  
+##### Service Providers
+
 Quip may share Data about Quip Visitors, Customers and Attendees with the Company’s contracted service providers so that these service providers can provide services on our behalf. Without limiting the foregoing, Quip may also share Data about Quip Visitors, Customers and Attendees with the Company’s service providers to ensure the quality of information provided, and with third–party social networking and media Web sites, such as Facebook, for marketing and advertising on those Web sites. Unless described in this Privacy Statement, Quip does not share, sell, rent, or trade any information with third parties for their promotional purposes. A service provider providing services on our behalf is authorized to use your personal information only as necessary to provide these services to us.
 
 ##### Quip.com Affiliates
@@ -142,7 +143,7 @@ Quip does not share Data about Quip Attendees with business partners unless: (1)
 
 ##### Third Parties
 
-Section 4 of this Privacy Statement, Web Site Navigational Information, specifically addresses the information we or third parties collect through cookies and web beacons, and how you can control cookies through your Web browsers.
+Section 4 of this Privacy Statement, Web Site Navigational Information, specifically addresses the information we or third parties collect through cookies, web beacons, and similar tracking technologies, and how you can control cookies through your Web browsers.
 
 ##### Billing
 
@@ -154,9 +155,9 @@ Quip reserves the right to use or disclose information provided if required by l
 
 ##### Your Request
 
-If you expressly ask us to do so, or give us your prior consent to do so, we may disclose disclose information provided to a third party.
+If you expressly ask us to do so, or give us your prior consent to do so, we may disclose information provided to a third party.
 
-##### Aggregat and Anonymous Information
+##### Aggregate and Anonymous Information
 
 We may share aggregated,non-identifying information with third parties for industry analysis, demographic profiling and other similar purposes.
 
@@ -206,4 +207,8 @@ Quip reserves the right to change this Privacy Statement. Quip will provide noti
 
 #### 15\. Contacting us
 
-Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to Quip Privacy by contacting us [here](https://www.salesforce.com/form/contact/contact-privacy.jsp?display_type=lb&contentWidth=420&contentPadding=30).
+Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to Quip Privacy by contacting us [here](https://www.salesforce.com/form/contact/contact-privacy.jsp?display_type=lb&contentWidth=420&contentPadding=30) or mail us at:
+
+Salesforce Data Protection Officer  
+The Landmark @ One Market Street, Suite 300  
+San Francisco, CA 94105
