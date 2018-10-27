@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngisthan.in privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127035927id_/https%3A//www.youngisthan.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngisthan.in privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027220404id_/https%3A//www.youngisthan.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Youngisthan.in
 
@@ -77,3 +77,6 @@ As the standards governing Internet privacy continue to evolve, Youngisthan.in m
 ### Your Representation:
 
 YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND APPLICABLE SITE TERMS AND CONDITIONS. You also agree that you have provided notice to, and obtained consent from, any third party individuals whose Information you supply to us with regard to: (a) the purposes for which such third party’s Information has been collected; (b) the intended recipients or categories of recipients of the third party’s Information; (c) which of the third party’s data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about him/her.
+
+  
+
