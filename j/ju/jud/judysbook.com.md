@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the judysbook.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124060711id_/http%3A//www.judysbook.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the judysbook.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027160525id_/https%3A//www.judysbook.com/terms) for the most accurate reproduction.*
 
 # Terms of Use & Privacy - Judy's Book
 
@@ -151,7 +151,7 @@ We welcome your feedback. If you have any comments or concerns about this privac
 Help: [Send feedback](https://web.archive.org/HelpPages/Custom/Cannot-find-what-I-am-looking-for.aspx)
 
 Postal Mail:  
-ADG Holdings Inc.  
+AL Directories  
 733 7th Ave, STE 204  
 Kirkland, WA 98037
 
