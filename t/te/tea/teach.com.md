@@ -1,100 +1,82 @@
-> *The following text is extracted and transformed from the teach.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teach.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028015959id_/https%3A//teach.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+**Last Modified: September 8, 2017**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This privacy policy (the “Privacy Policy”) describes how 2U, Inc. (“2U,” “we,” or “us”) collects, uses, and discloses information from and about you when you visit and use the Website (as defined in the Teach.com [Terms of Use](https://web.archive.org/terms-of-use/)), as well as your ability to control certain uses of that information. 2U respects your privacy and is committed to protecting it through our compliance with this Privacy Policy. By accessing or otherwise using the Website, you agree to the terms and conditions of this Privacy Policy, which is incorporated into the [2U Terms of Use](https://web.archive.org/terms-of-use/), and to our collection, use, and disclosure of your information in accordance with this Privacy Policy.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+## 1\. Collection of Information
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+_Information You Provide_
 
-**Information Collection and Use**
+2U collects information that you voluntarily submit to us, including, without limitation, when you submit a form requesting information about online programs, provide information to us through the Website, or otherwise contact us. The information we collect may include your name, address, e-mail address, telephone number, prior educational background information (e.g., GPA range, name(s) of prior institution(s) attended, or prior degree(s) earned), and the content of any communications that we exchange.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+_Information Collected Via Technology_
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+When you visit the Website or interact with e-mails that we send to you, we may passively collect information from you and store that information on our server logs, including your internet protocol address (“IP address”), browser type, operating system, device identifier, device model, software version, or mobile or ISP carrier information. We also use Cookies and other technologies to collect information about your visit to the Website, such as the date and time of your visit, the information you searched to find the Website, or your activity on the Website. “Cookies” are small files which may be stored on your computer during your use of the Website and contain data about your use of the Website. We may use session Cookies (which expire when you close your browser) or persistent Cookies (which stay on your computer until you delete them) to understand more about your activity on the Website.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We also may collect information about your use of the Website, including the times and dates you access the Website; the areas or pages of the Website that you visit; the amount of time you spend using the Website; the number of times you return to the Website; and whether you open, forward, or click-through emails.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+_Tracking Options and California Do Not Track Disclosures._ You may adjust your browser or operating system settings to limit this tracking or to decline Cookies. If you choose to limit tracking through or decline Cookies, however, you may be unable to access certain areas of the Website. Check the “Help” menu of your browser or operating system to learn how to change your tracking settings or Cookie preferences. You can learn more about the use of Cookies or other tracking or retargeting technologies and your choices regarding the use of information collected this way by certain Service Providers (as defined below), at the [National Advertising Initiative](http://www.networkadvertising.org/choices/). On your mobile device, you can adjust your privacy and advertising settings to limit your tracking for advertising or control whether you receive more relevant advertising. Note that our systems may not recognize Do Not Track headers or requests from some or all browsers.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+_Information Collected from Other Sources_
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We may collect or receive information about you from other sources with which you interact (e.g., Facebook), companies that are our partners, or other third parties.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+_Our Combination of Your Information_
 
-**Security**
+We may combine the information we receive from and about you to help us tailor our communications to you and to improve the Website.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+## 2\. How We Use Your Information
 
-**Updating Your Information**
+2U may use the information that we collect from and about you in order to:
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+  * Provide information about the online programs to you.
+  * Personalize your experience on the Website and help us better respond to your individual needs.
+  * Improve the Website. (We continually strive to improve the Website based on the information and feedback we receive from you).
+  * Process specific inquiries that you make of us.
+  * Send you promotional emails and other updates.
+  * Protect the security of the Website.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-      iii.      You may call us at: (480) 505-8800
+We may also use the information that we collect from and about you as described to you at the point of collection or otherwise for purposes which you expressly permit us to use the information. In addition, 2U may use the information we collect from and about you to provide you with information about online programs we think may be of interest to you. Finally, we may use de-identified information about you in an aggregated or anonymized manner to help us analyze the use of the Website. This Privacy Policy does not limit our use or disclosure of de-identified information, and we reserve the right to use and disclose such information to our partners, advertisers, and other third parties in our discretion.
 
-       iv.      You may fax us at: (480) 505-8844
+## 3\. How We Disclose Your Information
 
-**Sending Emails**
+2U may share Your Information with other entities or individuals outside of 2U in the following limited circumstances: (1) with your consent; (2) to our Service Providers (as defined in Section 4 of this Privacy Policy), if the disclosure will enable them to perform a business, professional, or technical support function for us; (3) to satisfy any applicable law, regulation, legal process, or enforceable governmental request; (4) as necessary, to enforce the Terms of Use, including investigation of potential violations thereof; (5) to detect, prevent, or otherwise address fraud, security, or technical issues; (6) to protect against imminent harm to the rights, property, or safety of 2U, Website users, or other third party or parties, as required or permitted by law; (7) to our select partners and affiliates that we believe may have offers of interest to you; and (8) as described to you at the point of collection.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+2U may also share de-identified information in an aggregated or anonymized manner with third parties for their marketing or analytics uses. For example, we provide Google Analytics with de-identified data so that they may provide us with a better understanding of visitors’ interactions with the Website, including how a visitor found the Website, actions a visitor takes while accessing the Website, or sites to which a visitor navigates after leaving the Website. If you would like to learn more about [Google Analytics’ use of de-identified data](https://tools.google.com/dlpage/gaoptout/), please click the link.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+2U may sell or purchase assets, such as your information, during the normal course of our business. For example, if another entity acquires us or any of our assets, information we collected about you up to that point may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. Should any such sale or transfer occur and result in a transfer of your information, we will use reasonable efforts to try to require that the transferee use your information in a manner that is consistent with this Privacy Policy.
 
-**Compliance with Laws and Law Enforcement**
+For California Residents: If you do not want 2U to disclose your information to third parties (including affiliated third parties which may not share the 2U name) for their direct marketing purposes, you may opt out of such disclosure by [contacting us](mailto:privacy@2tor.com) at privacy@2U.com.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+## 4\. Service Providers
 
-**Third Party Service Providers**
+2U contracts with third parties to perform functions related to the Website (“Service Providers”). We only provide these Service Providers access to your information to the extent necessary to process your information and/or provide services to 2U. We do not permit Service Providers to use or share your information for other purposes.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+## 5\. Data Security
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+We are committed to protecting the security of your information. We maintain what we believe to be appropriate physical, electronic, and managerial procedures to safeguard and secure your information and to prevent unauthorized access, maintain accuracy, and ensure appropriate use of your information. The accuracy, safety, and security of your information also depend on you. Where we have given you (or where you have chosen) a password for access to certain parts of the Website, you are responsible for keeping this password confidential. We ask that you not share your password with anyone. Even though we do our best to protect your information, the transmission of information via the internet is not completely secure, and we cannot guarantee our security measures. We are not responsible for any circumvention of any privacy settings or security measures or unauthorized access to your information.
 
-**Supplementation of Information**
+## 6\. Other Websites
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+We may link to or offer some of our services in connection with third party websites or applications, which may have different privacy practices. We are not responsible for the practices of such websites or applications, and we encourage you to read and fully understand their privacy policies.
 
-**Contests/Surveys**
+## 7\. Children’s Privacy
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+We do not direct the Website to, nor do we knowingly collect any personal information from, children under 13.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+## 8\. Accessing and Updating Your Information
 
-**Tell-A-Friend**
+We make every effort to provide you with the ability to request that we correct or delete any information we store about you. You may make such a request by [emailing us](mailto:privacy@2tor.com) at privacy@2U.com.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+## 9\. Changes to this Privacy Policy
 
-**What Happens to my Personal Information if I Opt Out?**
+2U may revise this Privacy Policy at any time and without prior notice. When we do, we will post the change(s) on the Website. In the event that we make any material change(s) to this Privacy Policy, we will make commercially reasonable attempts to notify you. We recommend that you periodically review this Privacy Policy for any updates and/or changes. Your continued use of the Website after we make changes to this Privacy Policy shall be considered your acceptance of those changes.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+## 10\. Contact Us
 
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+You may direct any questions or concerns regarding this Privacy Policy, or the practices described herein, to us at Compliance Department/Privacy, 7900 Harkins Drive, Lanham, MD 20706 or privacy@2U.com.
