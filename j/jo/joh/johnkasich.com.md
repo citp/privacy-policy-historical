@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnkasich.com privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427075039id_/https%3A//www.johnkasich.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnkasich.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027215436id_/https%3A//www.johnkasich.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kasich for America
 
@@ -67,6 +67,6 @@ If you have any questions about this Privacy Policy, the practices of this Site,
 
 Kasich for America  
 620 E Broad Street, Ste 2016  
-Columbus, OH 43215 | info@johnkasich.com
+Columbus, OH 43215 | [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Effective Date: July 21, 2015
