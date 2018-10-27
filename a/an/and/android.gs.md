@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the android.gs privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608221547id_/http%3A//www.android.gs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the android.gs privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027215557id_/https%3A//www.android.gs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
