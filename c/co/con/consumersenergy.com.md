@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the consumersenergy.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107224851id_/https%3A//www.consumersenergy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersenergy.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027164713id_/https%3A//www.consumersenergy.com/privacy) for the most accurate reproduction.*
 
 # Customer Data Privacy Policy FAQ’s | Consumers Energy
 
 Note: The responses to the following Frequently Asked Questions (FAQ’s) are meant to provide a summary of Consumers Energy’s Customer Data Privacy Policy in a quick and easy to understand format.  See the links below for the specific rules and requirements of Consumers Energy’s actual Customer Data Privacy Policy.
 
-[Electric Data Privacy Tariff](https://web.archive.org/~/media/CE/Documents/rates/electric-rate-book.ashx#page=122?la=en)
+[Electric Data Privacy Tariff](https://web.archive.org/-/media/CE/Documents/rates/electric-rate-book.ashx#page=122?la=en&hash=DEC50EF245DE12DBEB0DAA07F8B6AE0DC500550B)
 
-[Natural Gas Data Privacy Tariff](https://web.archive.org/~/media/CE/Documents/rates/gas-rate-book.ashx#page=96?la=en)
+[Natural Gas Data Privacy Tariff](https://web.archive.org/-/media/CE/Documents/rates/gas-rate-book.ashx#page=96?la=en&hash=8938EC2FB021253FC5586B0D71BBF195081D59B9)
 
 What is the Customer Data Privacy Policy? 
 
@@ -22,6 +22,8 @@ We collect customer information based on our business relationship with you and 
   * Information gathered when you choose to participate in company programs or services, such as bill payment assistance, shut-off protection, renewable energy, demand-side management, load management or energy efficiency.
 
 
+
+This site uses the Clicktale customer experience analytics service. The Clicktale service helps us analyze how visitors use our Website. We do not collect through the Clicktale service or transfer to Clicktale any personal identifiable information. We only use the Clicktale service to record, on a completely anonymous basis, information such as mouse clicks, mouse movements, scrolling activity as well as non-Personally Identifiable Information text you type in this website. Clicktale does not create a user profile for the purpose of tracking a user across unrelated web sites and will only use such information pursuant to its Privacy Policy (located at <http://www.clicktale.com/company/privacy-service>). You can choose to disable the Clicktale service at <http://www.clicktale.net/disable.html>.
 
 Can Consumers Energy disclose my information without my consent? 
 
