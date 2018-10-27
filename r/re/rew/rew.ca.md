@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the rew.ca privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606112324id_/http%3A//www.rew.ca/news/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rew.ca privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027162605id_/https%3A//www.rew.ca/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | REW.ca
+# Privacy Policy | REW
 
-Create a FREE account to save searches and track your favourite homes. Already have an account? Click the Log In tab.
-
-  * Sign Up
-  * Log In
-
-
-
-_Last updated June 2014_
+_Last updated July 2017_
 
 REW.CA™ has established this Privacy Policy to explain how it protects and manages the personal information that it collects from you (the customer) online.
 
@@ -19,15 +12,15 @@ REW.CA may change this policy from time to time by updating this page. It is rec
 
 Your use of the REW.CA site and/or your registration for REW.CA products and services constitute your consent to the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the REW.CA site.
 
-REW.CA may occasionally update this Privacy Policy. When it does, REW.CA will also revise the “last update” date at the top of this Privacy Policy. In addition, REW.CA will seek a customer’s prior consent, by email, for any new uses or proposed disclosures of information collected from the customer prior to the change. REW.CA will notify customers by email of changes to this policy that will affect information collected from them in the future. In certain circumstances, however, REW.CA will not inform and obtain the consent of the customer, such as in connection with an investigation of a breach of an agreement, contravention of laws, an emergency where the life, health or security of an individual is threatened, the collection of a debt or in compliance with the request of a law enforcement agency or a court order.
+REW.CA may occasionally update this Privacy Policy. When it does, REW.CA will also revise the "last update" date at the top of this Privacy Policy. In addition, REW.CA will seek a customer's prior consent, by email, for any new uses or proposed disclosures of information collected from the customer prior to the change. REW.CA will notify customers by email of changes to this policy that will affect information collected from them in the future. In certain circumstances, however, REW.CA will not inform and obtain the consent of the customer, such as in connection with an investigation of a breach of an agreement, contravention of laws, an emergency where the life, health or security of an individual is threatened, the collection of a debt or in compliance with the request of a law enforcement agency or a court order.
 
-A customer may withdraw his or her consent for collection, use and disclosure at any time by sending an email to unsubscribe@rew.ca. Please note that, if you do, REW.CA may suspend its provision of products and services to you.
+A customer may withdraw his or her consent for collection, use and disclosure at any time by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Please note that, if you do, REW.CA may suspend its provision of products and services to you.
 
   * 2\. Accountability
 
-REW.CA collects, at the time of your registration and your sign-on to its web site, certain “personal information”(information that personally identifies you) including but not limited to your name, email address, address, telephone number, and information about your computer hardware and software (e.g., IP address, operating system, browser type, domain name, URL, access times, and referring web site addresses).
+REW.CA collects, at the time of your registration and your sign-on to its web site, certain "personal information"(information that personally identifies you) including but not limited to your name, email address, address, telephone number, and information about your computer hardware and software (e.g., IP address, operating system, browser type, domain name, URL, access times, and referring web site addresses).
 
-REW.CA has implemented this Privacy Policy to protect personal information received from its customers, and to respond to any inquiries. The Privacy Policy also provides that REW.CA will use appropriate contractual means to establish a comparable level of protection for personal information which is sent for processing by third parties on REW.CA’s behalf.
+REW.CA has implemented this Privacy Policy to protect personal information received from its customers, and to respond to any inquiries. The Privacy Policy also provides that REW.CA will use appropriate contractual means to establish a comparable level of protection for personal information which is sent for processing by third parties on REW.CA's behalf.
 
 REW.CA has designated responsibility for your personal information to its Privacy Officer, who ensures compliance with the principles in this Privacy Policy. Other REW.CA individuals may be delegated to act on behalf of the Privacy Officer.
 
@@ -35,17 +28,17 @@ REW.CA has designated responsibility for your personal information to its Privac
 
 REW.CA collects and uses personal information for the following Identified Purposes:
 
-    1. to understand customer needs regarding REW.CA’s services;
+    1. to understand customer needs regarding REW.CA's services;
     2. to develop and provide our web site and our products and services for our customers;
     3. to fulfill your requests for products, services or information;
     4. to communicate with customers and site visitors, when necessary, and to inform customers of upgrades, as well as of other products and services available from REW.CA, its affiliates and third parties;
-    5. to allow customers to access limited-entry areas of REW.CA’s site;
+    5. to allow customers to access limited-entry areas of REW.CA's site;
     6. to personalize some of our services and products for you and to deliver targeted advertisements and offers from REW.CA and third parties;
     7. to bill accounts and maintain payment records;
     8. to comply with any applicable law, regulation, legal process or government request;
     9. to respond to a legitimate claim, or to address our reasonable belief, that you are violating the rights of any third party or any of the agreements or policies that govern your use of the REW.CA site or any REW.CA product or service;
     10. to protect the services, products or rights of REW.CA, including but not limited to the security or integrity of the REW.CA site; and
-    11. to identify and resolve technical problems concerning REW.CA’s site, products and services.
+    11. to identify and resolve technical problems concerning REW.CA's site, products and services.
 
 REW.CA also uses personal information in an aggregate form (i.e., not individually attributable to you) for its business analysis, operational, marketing and other promotional purposes.
 
@@ -62,15 +55,15 @@ When you visit the REW.CA web site, a cookie may be placed on your computer or t
 REW.CA does not sell, rent or disclose your personal information to anyone else, except:
 
     1. to someone you have designated to act as your agent, for one or more of the Identified Purposes (listed in Section 2, above);
-    2. to REW.CA’s employees, independent contractors, subsidiaries, affiliates, consultants, business associates, service providers, suppliers and agents, acting on REW.CA’s behalf for any of the Identified Purposes;
-    3. as necessary if REW.CA has reason to believe that disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with REW.CA’s rights or property, other users of REW.CA’s web site, products or services, or anyone else that could be harmed by such activities; and
+    2. to REW.CA's employees, independent contractors, subsidiaries, affiliates, consultants, business associates, service providers, suppliers and agents, acting on REW.CA's behalf for any of the Identified Purposes;
+    3. as necessary if REW.CA has reason to believe that disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with REW.CA's rights or property, other users of REW.CA's web site, products or services, or anyone else that could be harmed by such activities; and
     4. to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law.
 
 In addition, as we continue to develop our business, we or our affiliates may sell or buy other businesses or entities, or we may merge with another company. In such transactions, personal information may be one of the transferred business assets. Also, in the event that REW.CA or substantially all of its assets are acquired, your personal information may be one of the transferred assets.
 
 Your information may be stored and processed in the United States, or in any other country in which REW.CA or its affiliates, subsidiaries or agents maintain facilities. By using this web site, you consent to any such transfer of information outside of your country.
 
-After your account becomes inactive (that is, if you request to be removed from our database), REW.CA will keep your personal information in its archives. Your information will then be used only as necessary for tax reasons or to prove REW.CA’s compliance with any applicable law.
+After your account becomes inactive (that is, if you request to be removed from our database), REW.CA will keep your personal information in its archives. Your information will then be used only as necessary for tax reasons or to prove REW.CA's compliance with any applicable law.
 
   * 6\. Links to other websites
 
@@ -78,27 +71,27 @@ Our website may contain links to other websites of interest. However, once you h
 
   * 7\. Accuracy of Personal Information
 
-REW.CA will use reasonable efforts to keep customer personal information accurate for the Identified Purposes, and for minimizing the possibility of making inappropriate customer decisions based on such information. Customers are responsible for informing REW.CA about changes to their personal information. You can do this by calling 604-630-2504 or sending an email to our privacy department. REW.CA will use new or updated personal information it receives from customers to update its own records.
+REW.CA will use reasonable efforts to keep customer personal information accurate for the Identified Purposes, and for minimizing the possibility of making inappropriate customer decisions based on such information. Customers are responsible for informing REW.CA about changes to their personal information. You can do this by calling 888-712-3607 or sending an email to our privacy department. REW.CA will use new or updated personal information it receives from customers to update its own records.
 
   * 8\. Security Safeguards
 
-REW.CA will use reasonable efforts to protect customers’ personal information.
+REW.CA will use reasonable efforts to protect customers' personal information.
 
   * 9\. Access to Personal Information
 
-REW.CA will afford you a reasonable opportunity to review the personal information in your file, if you so request by calling [604-630-2504](tel:6046302504) or writing to: 
+REW.CA will afford you a reasonable opportunity to review the personal information in your file, if you so request by calling [888.712.3607](tel:888-712-3607) or writing to: 
 
 REW.ca   
-3355 Grandview Hwy   
+303 West 5th Ave   
 Vancouver, BC   
-V5M 1Z5   
+V5Y 1J6   
 Canada 
 
-If REW.CA is not able to provide access to some aspect of a customer’s personal information, it will provide reasons for denying access such as; that by doing so would likely reveal personal information about a third party, or that it is confidential commercial information or attorney-client privileged communications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably be expected to threaten the life or security of another individual.
+If REW.CA is not able to provide access to some aspect of a customer's personal information, it will provide reasons for denying access such as; that by doing so would likely reveal personal information about a third party, or that it is confidential commercial information or attorney-client privileged communications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably be expected to threaten the life or security of another individual.
 
 Customers have the right to request that inaccurate or incomplete information be amended as appropriate, by contacting REW.CA or the Privacy Officer as described above. REW.CA will promptly correct such personal information.
 
-For any further information, please don’t hesitate to contact us at [service@rew.ca](mailto:support@rew.ca)
+For any further information, please don't hesitate to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7f0c0a0f0f100d0b3f0d1a08511c1e)
 
 
 
