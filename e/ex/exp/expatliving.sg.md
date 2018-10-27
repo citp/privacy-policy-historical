@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatliving.sg privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608145938id_/http%3A//www.expatliving.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatliving.sg privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027180453id_/https%3A//expatliving.sg/privacy-policy) for the most accurate reproduction.*
 
 # Expat Living Privacy Policy
 
@@ -8,14 +8,14 @@ This Privacy Policy provides an explanation as to what happens to any personal d
 
 This policy is effective from May 2014.
 
- **Information We Collect**
+**Information We Collect**
 
   1. Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs and other communication data.
   2. Information that you provide us by filling in our forms or surveys; such as when you signup to our newsletter, make a purchase or enter a competition on our website, social media sites and at events.
 
 
 
- **Use of Your Information**
+**Use of Your Information**
 
 The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes:
 
@@ -26,14 +26,12 @@ The information that we collect and store relating to you is primarily used to e
 
 
 
- **How to unsubscribe**
+**How to unsubscribe**
 
 To unsubscribe from receiving promotional electronic or non-electronic direct mails, simply click on the ‘unsubscribe’ button found at the bottom of any EDM or email [info@expatliving.sg](mailto:info@expatliving.sg).
 
- **Alternatively you can contact us:**
+**Alternatively you can contact us:**
 
 Expat Living Publications Pte  
-18 Howard Road #08-10 Novelty Bizcentre, Singapore 369 585  
+37 Jalan Pemimpin, #07-06 Mapex Building, Singapore‎ 577177  
 Telephone: 6259 0058 | Email: [info@expatliving.sg](mailto:info@expatliving.sg)
-
-[](https://www.pinterest.com/pin/create/button/)
