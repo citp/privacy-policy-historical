@@ -1,140 +1,163 @@
-> *The following text is extracted and transformed from the eversign.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520190629id_/https%3A//eversign.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eversign.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027103346id_/https%3A//eversign.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - eversign
 
-We are committed to protecting your privacy.
+At eversign we are committed to protecting your privacy. Please review this Privacy Policy carefully before using this service. 
 
-Last Modified: Nov 2016
+_Last modified: 25-05-2018_
 
-The proprietor and operator of the eversign Website at www.eversign.com (hereinafter the “Website”) is apilayer GmbH (hereinafter “eversign”, “We” or “Us”). This Privacy Policy explains the practices and policies of eversign with regard to the collection, protection, usage and disclosure of information within our eversign Service (“Service”). 
+## 1\. General
 
-eversign takes your privacy very seriously. We ask that you read this Privacy Policy carefully as it contains important information about what to expect when eversign collects personal information about you and how eversign manages your personal information. 
+1.1. We, apilayer GmbH, FN 443956b (the “Company“), e-mail address: [support@eversign.com] (the „E-Mail Address“), process your personal data as part of your use of our products (“Products”) or platform (“Platform” and, together with the Products, “Services”). We deal with your personal data in a confidential and responsible way. The processing of your personal data takes place in compliance with the General Data Protection Regulation („GDPR“) and the Austrian data protection act in its current form.
 
-We are committed to safeguarding the privacy of the users of our website (hereinafter the “User(s)” or “You”), who can use the eversign service (hereinafter the “Service”) through the Website on any device (hereinafter the “Device”), such as, but with no limitation to, desktop computers, laptop computers and tablets as well as mobile phones. 
+1.2. In this Privacy Policy we want to provide you with information about the company, the nature, scope and purposes of the data collection and use, trying to offer you an insight into the processing of your personal data.
 
-This Privacy Policy applies to the information We collect about visitors to the Website and Users who use the Service by contracting the Service. 
+1.3. For some of our Products we will only process data pursuant to purposes and means you determine. In these cases, we will provide you with separate data processing agreements.
 
-We want to assure You that your information and data is safe with Us. We do not sell your information to anyone whatsoever. We ensure complete secrecy and privacy of your data entrusted to Us. 
+1.4. The controller for the processing of your personal data within the meaning of the GDPR is the Company. You can contact us via mail under the address shown below or via e-mail using the E-Mail Address.
 
-The Service is not intended for use by persons under 18 years of age. In any case of such person providing their personal information We reserve the right to remove it from the Website and the Service. 
-
-## The information We collect about You
-
-Personal information means any information that may be used to identify an individual, including, without limitation, name and surname, address, telephone number and email address (hereinafter the “Information”). You can browse the Website without revealing any personal Information about Yourself. 
-
-When You create an account on the Website (hereinafter the “User Account”) You provide Us with some of your personal Information such as your email address. 
-
-The Customer shall carry out payment of the total amount set out in the Subscription Plan using one of the following payment methods: Credit Card (Visa, MasterCard, Diner's Club, Disover, American Express) or PayPal. All Credit Card payments are being processed by PayLane Sp. z o.o., located at Arkońska Business Park, ul. Arkońska 6/A3, 80-387 Gdańsk, Poland. PayLane collects all the information with regard to your payment: 
-
-A. full name  
-B. address  
-C. email  
-D. credit card number  
-E. card expiration date  
-F. card security code  
-E. card holder name  
+**Company address:**   
+apilayer GmbH   
+Hoerlgasse 12/4   
+1090 Vienna, Austria   
 
 
-After the payment is complete, eversign would be able to view your personal information, such as, but not limited to, your full name, address and last four digits of the credit or debit card the payment was made with. 
+## 2\. Data We Process
 
-While using the Service We automatically record information from your Device and its software as well as your activity using the Service, including, but with no limitation to, your Device Internet Protocol address (hereinafter the “IP address”), Device type, language, the Web page visited before and after you were redirected or came to the Website, timezone, identification numbers associated with your Device(s), browser type and version, your locale preferences and other interactions with the Service. We log this information and use it in order to improve the functionality of the Service. 
+2.1. General: We process such personal data that you as a user of the Services make available to us, for example upon registration or when using the Services (the „Data“).
 
-We use MailChimp (www.mailchimp.com), an email service provider, for delivering email messages. MailChimp has a strict policy about how they store and protect email addresses and content of email messages. For information about MailChimp’s privacy policy, please click [here](https://mailchimp.com/legal/privacy). 
+2.2. Website Use: If you visit our website, we process only personal data that your browser communicates to our server. We collect the following data, which is necessary for us in order to display the website correctly and guarantee the necessary stability and security:
 
-## Why and how We collect and use the information about You
-
-We gather the Information about you through the Website. We might use this Information to allow Us to: 
-
-A. provide You with the Service  
-B. create your User Account  
-C. communicate with you on any matter related to your User Account and the provision of the Service  
-D. administer the Website and business  
-E. personalize the Website and the Service for You  
-F. send statements and payment reminders to You, and collect payments from You  
-G. send You communications related to your User Account and payments  
-H. send You non-marketing commercial communications  
-I. send You notifications such as software updates or notifications related to your purchases, changes to our policies, or changes to the Service  
-J. send You marketing communications relating to Our business further specified in this Privacy Policy  
-K. provide third parties with statistical information about the Users of the Website (those third parties will not be able to identify any individual User from that information)  
-L. deal with enquiries and complaints made by or about You relating to the Website and the Service  
-M. keep the Website secure and prevent fraud  
-N. verify compliance with the Terms of Service governing the use of the Website  
+  * IP-address;
+  * date and time stamp, time difference to GMT;
+  * requested site, site from which the request was sent, transmitted data volume;
+  * access status/HTTP status code;
+  * browser, operating system, interface, language and version of the browser software.
 
 
-We also save the signatures You create by signing the documents in a digitalized form in order to facilitate the use of the Service so You do not have to recreate your signature every time You sign a documents as well as to prove that a particular signature has been created by a particular person in an event of a potential conflict. 
 
-We may retain your Information for any future orders and in order to contact You about other products and services We think may be of interest to You. You can opt out from receiving these communications by unsubscribing from our newsletter emails or contacting Us at support@apilayer.com. 
+2.3. Registration Data: Upon registration we collect and process the following information:
 
-When you invite another person to sign a document via the Service, you may provide us with that person e-mail address, which would be stored by Us. Likewise, other people may provide Us with your e-mail address in a similar manner. 
+  * registration details: date of registration, password;
+  * personal information: full name; email address; address, zip code, city, region, country;
+  * company information (optional): company name, website, tax ID;
+  * payment information: 
+    * credit card type, last four digits, expiration date;
+    * PayPal email address;
+    * date of payment, invoice ID, currency, amount;
+    * monthly or annual payment.
 
-From time to time We may provide your Information to our customer service agencies for research and analysis purposes so that We can monitor and improve the Service. This Information will not include any information You might be identified by. We, Our agents and sub-contractors may also contact You by post, email or telephone to ask You for your feedback and comments on Our services. 
 
-We will disclose Information about You only when the disclosure is required or authorized by law or by this Privacy Policy or when We determine that it is reasonably necessary to protect other Users. At times your personal information may be disclosed to strategic partners and service providers that work with Us to provide or market the Service; for instance We use third parties to process credit card details for payment purposes. 
 
-We will use contractual or other means to provide a comparable level of protection while the information is being processed by a third party. 
+2.4. Product Use Data: Data processed when using the Services is processed by us only as a processor, not as a controller. Please see the separate data processing agreement for details.
 
-If your personal information is at any time merged with your non-personal information, such merged information will be treated as personal information under this Privacy Policy for as long as it remains merged. 
+## 3\. Why We Process Your Data
 
-“Non-Personal Information” is information that does not permit identification of any specific person. We may collect, use, transfer, and disclose Non-Personal Information, (not including your Private Files). 
+3.1. Purpose: The processing of Data pursues the following purposes (“Purposes”):
 
-## Collection and Storage and Use of Private Files
+  * provide and improve the Services;
+  * customer relations management, including newsletters;
+  * security and stability of the Services.
 
-The Service allows you to store your private files (hereinafter the “Private File(s)”), which are not made public and not intended to be made public via the Service. You agree that You are a sole owner of your Private Files and no other User or third party has a legitimate copyright or property claim against such Private Files. 
 
-We collect and store the Private Files You use within the Service, including files uploaded, downloaded, accessed, sent and shared by You. We may associate all or part of any Private File You use within the Service with any part or all of other files used within the Service by You or other Users for the purpose of eliminating unnecessary duplicate storage. 
 
-We access your uploaded file information, such as but not limited to file extensions, sizes, thumbnails, modified dates, for the purpose of providing system maintenance, management, and technical support. 
+3.2. Lawfulness of Processing: The lawfulness of processing (Art. 6 GDPR) stems from:
 
-## Promotional
+  * 3.2.1. your consent, where we have asked your explicit consent (para.1 subpara. a GDPR); and
+  * 3.2.2. the necessity for the performance of contract fulfillment, as your data is needed for a satisfactory use of the Services (para 1 subpara. b GDPR); and
+  * 3.2.3. the necessity for the purposes of the legitimate interests pursued by the Company or by a third party (para 1 subpara. f GDPR).
 
-We may also provide You with information about special features of the Website or any other service or products We think may be of interest to You. If You would rather not receive this information, please send an email to support@apilayer.com. If You agree to Us providing You with promotional information, You can always opt out at a later date. 
 
-We may also want to provide You with related information from third parties We think may be of interest to You. If You would rather not receive this information, please send an email to support@apilayer.com. If You agree to Us providing You with third party marketing information, You can always opt out at a later date by sending an email to support@apilayer.com. 
 
-## How We protect your Information
+3.3. Legitimate Interests: The legitimate interests pursuant 4.2.3 are to monitor, analyze and improve the Services, to support you with any to protect the security, integrity, performance and functionality of the Services, and to provide you with advertisements.
 
-We will take reasonable technical and organizational precautions to prevent the loss, misuse, theft, unauthorized access, destruction or alteration of Your personal information, non-personal information as well as Files. We will store all the personal information you provide on our secure (password-protected) servers. We also have put in place security procedures as well as technical and organizational measures to safeguard your personal information. When you enter personal information, We encrypt the transmission of that Information using socket layer technology (SSL). It is your responsibility to use a browser that is SSL-enabled, such as Chrome, Firefox, Safari or Internet Explorer when your personal information is transmitted over the Internet. 
+## 4\. How We Use And Transfer Your Personal Data
 
-We will use all reasonable efforts to safeguard your personal information. However, you should be aware that the use of the Internet is not entirely secure and for this reason We cannot guarantee the security or integrity of any personal information which is transferred from You or to You via the Internet. Should We become aware of an external attack or illegal action, We will notify You. 
+4.1. Use: We use Data that you, as user of the product, have provided us with, only for the Purposes.
 
-Some features of the Service allow You to send files, personal information, non-personal information as well as Private Files. By using such features You may share the aforementioned information with other Users, which can read, use and collect that information. You are solely responsible for the information You choose to disclose in such way. 
+4.2. Transfer: We transmit Data to third parties only, if this is (i) necessary for the Purposes, e.g. when we use service providers, (ii) due to a request from a national authority, (iii) due to a court ruling, or (iv) if you have consented beforehand.
 
-You are solely responsible for keeping your password and other login details confidential. We will not ask you for your password (except when You log in to the Website). 
+4.3. Service Providers:
 
-## Overseas transfers
+  * 4.3.1. For some parts of our Services, we use third party providers to process data for us, such as 
+    * PayLane Sp. z o.o.;
+    * PayPal (Europe) S.à r.l. et Cie, S.C.A.;
+    * International Business Machines Corporation (IBM BlueMix);
+    * Zendesk, Inc.; or
+    * The Rocket Science Group LLC d/b/a MailChimp.
+  * 4.3.2. When using some of the service providers, Data is transferred to recipients in third countries namely the USA. All service providers are part of the EU-US Privacy Shield or otherwise adhere to sufficient data protection standards.
 
-Due to the global nature of the Internet the Information you provide may be transferred to countries outside the European Economic Area (‘EEA’) that do not have similar protections in place regarding your data and restrictions on its use as set out in this Privacy Policy. However, We take steps to make sure adequate protections are in place to ensure the security of your Information. By submitting your Information you consent to these transfers for the purposes specified above. The Website is hosted by eApps that adheres to Safe Harbor Privacy Principles. 
 
-## Access to your Information and updating and correcting your Information
 
-You warrant that the Information which You are required to provide when you register with Us is true, accurate, current and complete in all respects. You agree not to impersonate any other person, whether legal or natural or to use a fictitious name or a name that You have no authorization to use. We want to ensure that your personal information is accurate and up to date. If any of the Information that You have provided to eversign changes or if You wish to cancel your User Account, please let Us know the correct details by sending an email to support@apilayer.com. You may ask Us, or We may ask You, to correct Information You or We believe might be inaccurate, and You may also ask Us to remove Information which is inaccurate. 
+## 5\. Storage And Data Safety
 
-Your personal information may be retained for as long as it is necessary to comply with this Privacy Policy unless a longer retention period is required or permitted by law. 
+5.1. Storage Period: We store your Data as long as you are a registered user of the Product. Beyond that, we only store Data, if it is legally necessary (because of warranty, limitation or retention periods) or otherwise required.
 
-You may exercise your rights of access, request of correction, erasure and objection or revoke your consent for receipt of commercial communications by sending an email to support@apilayer.com. 
+5.2. Deletion: Data will be deleted if you (a) revoke your consent to the storage (b) Data is not needed to fulfill the user contract concerning the Product anymore, or (c) the storage is or becomes legally impermissible. A deletion request does not affect Data, if the storage is legally necessary, for example for accounting purposes.
 
-You have the right to request a copy of the Information that We hold about You. If You would like a copy of some or all of your personal information, please send an email to support@apilayer.com. 
+5.3. Safety Measures: To avoid unauthorized access to Data and generally secure the Data, we apply the following safety measures: encrypted transmission, encrypted storage, an authorization concept, a data backup concept, and physical safety measures for servers. Those safety measures are constantly revised to comply with the latest technological developments.
 
-## Cookies
+## 6\. Information About Rights
 
-The Website use cookies to improve the User experience. 
+6.1. Exercise of Rights: To exercise the rights defined in Section 7.2 to 7.8, please send a request via e-mail to the E-Mail Address or via mail to the postal address depicted in Section 1.4.
 
-## Third party links
+6.2. Revocation of Consent: You can revoke the consent for future data processing at any time. However, this does not affect the lawfulness of Data processing based on the consent before the revocation.
 
-Occasionally, at our discretion, We may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies and are out of Our control. We therefore have no responsibility or liability for the content and activities of these linked sites and therefore recommend to read terms and policies thereon. Nonetheless, We seek to protect the integrity of our site and welcome any feedback about these sites. 
+6.3. Right of Access: You have the right to obtain (i) confirmation as to whether or not your Data is being processed by us and, if so, (ii) more specific information on the Data. The more specific information concerns, among others, processing purposes, categories of Data, potential recipients or the duration of storage.
 
-## Sale of business
+6.4. Right to Rectification: You have the right to obtain from us the rectification of inaccurate Data concerning you. In case the Data processed by us is not correct, we will rectify these without undue delay and inform you of this rectification.
 
-If eversign business is sold or integrated with another business your Information may be disclosed to our advisers and any prospective purchasers and their advisers and will be passed on to the new owners of the business. 
+6.5. Right to Erasure: Should you decide that you do not want us to process your data any further, please send a request via e-mail to the E-Mail Address or via mail to the postal address depicted in Section 1.4. We will erase your Data immediately and inform you of this process. Should mandatory provisions of law prevent such erasure, we will inform you without undue delay thereof.
 
-## Your consent
+6.6. Right to Restriction of Processing: You have the right to obtain from us a restriction of processing of your Data in the following cases: 
 
-By using the Service, visiting the Website, contacting Us through the Website, submitting your personal information, creating an account and placing orders You consent to the use of that Information as set out in this Privacy Policy and the Terms and Conditions. By submitting your Information You can censor the use of that Information as set out in this Privacy Policy. 
+  * 6.6.1. You make an inquiry pursuant para. 7.4, if you so request;
+  * 6.6.2. you are of the opinion, that the processing of your Data is unlawful, but are opposed to an erasure of Data;
+  * 6.6.3. you still require the Data for the establishment, exercise or defense of legal claims; or
+  * 6.6.4. you have objected to the processing pursuant para. 7.8.
 
-## Modifications to Privacy Policy
 
-We keep the Privacy Policy under regular review. If We amend our Privacy Policy the relevant modified version will be posted on this page. We may also place notices on other pages of the Website so that you may become aware of the Privacy Policy modification. 
 
-## How to contact eversign
+6.7. Right to Data Portability: You have the right to (i) receive your Data in a structured, commonly used and machine-readable format and (ii) transmit those Data to another controller without hindrance from us.
 
-We welcome your views and suggestions about our Website, Service, Products and this Privacy Policy. If You would like to contact us with any queries or comments please send an email to support@apilayer.com. 
+6.8. Right to Object: You have the right to object at any time to the processing of Data.
+
+6.9. Right to Lodge a Complaint: You have the right to lodge a complaint with a supervisory authority (in Austria: Datenschutzbehörde), if you think that the processing of Data infringes applicable law, especially the GDPR.
+
+## 7\. Cookies
+
+7.1. What are Cookies? The Website uses 'cookies' ─ small text files that are placed on the user's computer, smartphone and/or stored by the browser. If the respective server of our Website is again accessed by the user of the Website/Product, the user’s browser sends the afore received cookie back to the server. The server can evaluate the information received in this manner in various ways. Cookies can, for example, be used in order to manage advertisements on the Website or to facilitate navigation on a webpage.
+
+7.2. Disabling of Cookies: The user can disable the installation of cookies by entering the corresponding settings in his/her browser software (e.g. in Internet Explorer, Mozilla Firefox, Opera, or Safari). However, in this case the user may jeopardize his/her use of the complete range of functions on the Website.
+
+7.3. Cookie Policy:  Please see our [Cookie Policy](https://web.archive.org/legal/cookies "Cookie Policy") for more information.
+
+## 8\. Analytics Services
+
+8.1. Google Analytics: 
+
+  * 8.1.1. General:  This Website uses Google Analytics, a web analysis service of Google Inc. (“Google”). Google Analytics uses cookies. The information on your use of the Website created by a cookie, will usually be transmitted to a Google server in the USA and stored there. The Website uses Google Analytics in conjunction with the option „_anonymizeIP()“. This means, that your IP-address will be shortened by Google beforehand within member states of the EU or other members of the Agreement on the European Economic Area. Only in exceptional cases the whole IP-address will be transmitted to a Google server in the USA and shortened there. Any connection with a specific person is therefore precluded and personal data immediately deleted. The IP-address transmitted by your browser within the use of Google Analytics will not be combined with other data held by Google.
+  * 8.1.2. Plug-in:  You can prevent the collection of data through the cookie concerning your use of the website (incl. your IP-address) as well as its processing of this data by Google, by downloading and installing the following browser plug-in: <https://tools.google.com/dlpage/gaoptout?hl=en>.
+  * 8.1.3. Purpose:  On behalf of the Website operator, Google will use this information in order to evaluate your use of the Website, compose reports on the website activities, and provide further services to the operator related to the website and internet usage. We use Google Analytics to analyze and be able to constantly improve the use of our Website. Through the statistics we are able to improve our services and make them more interesting for users. In those special cases in which personal data is transmitted to the USA, Google is certified via EU-US privacy shield. The basis for the processing is Art 6 para 1 subpara f GDPA.
+  * 8.1.4. Information on Third-Party Provider:    
+Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland,   
+Fax: +353 (1) 436 1001;   
+Terms: <https://www.google.com/analytics/terms/gb.html>;   
+overview on data protection: <https://support.google.com/analytics/answer/6004245?hl=en>;   
+and Privacy Policy: <https://www.google.de/intl/en/policies/privacy/>.
+
+
+
+8.2. LogsHero LTD: LogsHero is a software logging service that helps us to manage and analyze log data. Any data transmitted to and processed by LogsHero will be in anonymized form only. Unfortunately, no opt-out is possible at the time. Please see LogsHero’s Privacy Policy [here](https://app.logz.io/privacy.html).
+
+8.3. Papertrail Inc: We use software of Papertrail Inc. for server error logging. Any data transmitted to and processed by Papertrail will be in anonymized form only. Unfortunately, no opt-out is possible at the time. Please see Papertrail’s Privacy Policy [here](https://www.solarwinds.com/legal/privacy).
+
+8.4. Functional Software Inc. (Sentry): We use Sentry for server error logging. Any data transmitted to and processed by Papertrail will be in anonymized form only. Unfortunately, no opt-out is possible at the time. Please see Sentry’s Privacy Policy [here](https://sentry.io/privacy/).
+
+8.5. Runscope Inc:  We use software of Runscope Inc. for API performance monitoring. Any data transmitted to and processed by Runscope will be in anonymized form only. Unfortunately, no opt-out is possible at the time. Please see Runscope’s Privacy Policy [here](https://www.ca.com/us/legal/privacy.html).
+
+8.6. Pingdom AB: We use software of Pingdom AB for website and API performance monitoring as well as uptime monitoring. Any data transmitted to and processed by Pingdom will be in anonymized form only. Unfortunately, no opt-out is possible at the time. Please see Pingdom’s Privacy Policy [here](https://www.solarwinds.com/legal/privacy).
+
+## 9\. Changes To This Privacy Policy
+
+9.1. If the Company decides to change this Privacy Policy, it will post those changes directly in the Services. Should the changes be material to you, especially concerning your right to data protection, you need to confirm them.
