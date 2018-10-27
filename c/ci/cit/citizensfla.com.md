@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensfla.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216142914id_/https%3A//www.citizensfla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensfla.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027224320id_/https%3A//www.citizensfla.com/privacy) for the most accurate reproduction.*
 
 # Notice of Privacy Policy - Citizens
 
@@ -55,7 +55,7 @@ No
 
 We don't share
 
-Call 888.685.1555; Deaf/Hard of Hearing: 800.955.8771 (TTY) or 800.955.8779 (Voice); or go to [www.citizensfla.com](http://www.citizensfla.com/)
+Call 866.411.2742; Deaf/Hard of Hearing: 800.955.8771 (TTY) or 800.955.8770 (Voice); or go to [www.citizensfla.com](http://www.citizensfla.com/)
 
 How does Citizens protect my personal information?
 
@@ -120,3 +120,11 @@ A formal agreement between nonaffiliated financial companies that together marke
 
 
 State law - The Florida public records law requires that all information received by a state entity be made available to anyone upon request, including e-mail addresses, unless the information is subject to a specific statutory exemption.
+
+The Public Records Custodian can be contacted at:
+
+> **Public Records Custodian**  
+>  Citizens Property Insurance Corporation  
+>  2101 Maryland Circle  
+>  Tallahassee, FL 32303  
+>  [RecordsRequest@citizensfla.com](mailto:recordsrequest@citizensfla.com?subject=Public%20Records%20Request)
