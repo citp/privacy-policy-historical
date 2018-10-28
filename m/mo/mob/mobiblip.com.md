@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiblip.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629033722id_/http%3A//www.mobiblip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiblip.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028175246id_/http%3A//www.mobiblip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | mobiblip.com | Mobiblip
 
@@ -10,7 +10,7 @@ For activities like posting comments, enrolling for a contest in that case if yo
 
 In case you connect with Mobiblip via social networking sites like Facebook, Twitter, Google+ etc we can store your personal information you have chosen to display in that networks. Further, in case you can send or receive personal messages to another user of Mobiblip, we can record all messages that you send or receive.
 
-**Note:**  We respect our visitors/users rights and support “Right to be forgotten”. If you think you’ve ever shared your contact details with us & want us to remove that info, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a3cacdc5cce3ceccc1cac1cfcad38dc0ccce).
+**Note:**  We respect our visitors/users rights and support “Right to be forgotten”. If you think you’ve ever shared your contact details with us & want us to remove that info, please contact us at [info@mobiblip.com](mailto:info@mobiblip.com).
 
 ### **What About IP addresses?**
 
@@ -53,4 +53,4 @@ We use Google Analytics to track visitors on this site. Google Analytics uses co
 
 ### **Contact Us:**
 
-Have any questions, queries, suggestions or any kind of feedback about mobiblip, so please feel free to email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Have any questions, queries, suggestions or any kind of feedback about mobiblip, so please feel free to email us at info@mobiblip.com.
