@@ -1,121 +1,123 @@
-> *The following text is extracted and transformed from the clk.im privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171816id_/https%3A//clkim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clk.im privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028021129id_/https%3A//clkim.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-## **_Clkim Website Privacy Policy_**
+## **Clkim Website Privacy Policy**
 
-Last Revised: September 19, 2016
+Last Revised: May 25, 2018
 
-Clkim, Ltd. (“ **Clkim** ", " **Company** ", “ **we** ” or " **us** ") respects the privacy of the users of its website at: <http://clkim.com/> (including its sub-domains) (the " **Site** ") and Services ( **“User** ” or **“you** ”) and is committed to protect the personal information that its Users share with it. We believe that you have a right to know our practices regarding the information we may collect and use when you visit and/or use our Site and Services **.**
+Clkim, Ltd. (“Clkim”, “we” or “us”) is committed to protecting the privacy of its clients and the users of its website and services (the “Services”). We believe that you have a right to know our practices regarding the information we may collect and use when you visit and/or use our Site and Services.
 
-Capitalized terms which are not defined herein, shall have the meaning ascribed to them in our Terms of Use at <http://clkim.com/terms> ( **"TOU"** ), into which this Privacy Policy is incorporated by reference.
+### **How We Collect Data  **
 
-### **1.** ** _Your Consent (PLEASE READ CAREFULLY!)_**
+Clkim offers services to individuals and businesses (our “Clients”) which enable them utilize shortened, branded links to drive traffic to their websites and/or market products.  When an individual (the “End-User”) clicks on a link that has been created using Clkim’s self-service platform, certain information is collected by Clkim, including the End-User’s operating system and browser type.  Clkim does not collect IP address or any information that could be used to identify the End-User personally. Clkim shares this End-User information with its Clients, or with third-party platforms that may be accessible to its Clients.  Clients may also use the Clkim-supplied links to collect additional information or perform additional functions (such as firing a tracking pixel or displaying interstitial advertising); those functions are controlled by the Client, and Clkim does not receive any additional End-User information as a result of those choices. 
 
-BY(A) ENTERING, CONNECTING TO, ACCESSING OR USING THE SITE, (B) OPENING AN ACCOUNT, (C) ACTIVELY USING THE SERVICES FOR THE PURPOSE OF SHORTENING URLS, MANAGING AND MONETIZING SUCH URLS BY USING ADS, AND/OR (D) EXPOSING YOURSELF TO URLS AND/OR TO ADS MADE AVAILABLE VIA THE SERVICES, YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY (THE " **PRIVACY POLICY** "), INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW). IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, PLEASE DO NOT ENTER INTO, CONNECT TO, ACCESS OR USE THE SITE OR SERVICES.
+Clkim also offers domain proxy services to Clients, whereby Clkim purchases a website domain on their behalf and enables the Client to serve as operator of that domain. Clkim is not responsible for the content that Clients choose to display on their websites and has no knowledge as to their data collection practices. Clkim does not collect any data regarding visitors to websites that it owns pursuant to its domain proxy services. 
 
-### **2.** ** _Which information we may collect on our Users?_**
+While Clkim does not collect any data that could be considered personal regarding End Users, Clkim does collect information regarding its Clients, as well as information regarding visitors to its website, [http://clkim.com](http://clkim.com/), as described below. This Policy applies to our Services, websites, emails we send, as well as the information we collect when you interact with us through social media or other websites and online services. It does not apply to non-Clkim websites and mobile applications that may utilize links created through the Services; please review the privacy policies on those websites and applications to understand their privacy practices. 
 
-We may collect two types of data and information from our Users:
+### **Our Consent (PLEASE READ CAREFULLY!)**
 
-a. The first type of information is non-identifiable and anonymous information (“ **Non-personal Information** ”). **We are not aware of the identity of the User from whom we have collected the Non-personal Information.** Non-Personal Information is any unconcealed information which does not enable identification of an individual User, and which is available to us while such User is entering and/or using the Site or Services. Non-personal Information which is being gathered consists of technical information, behavioral information and aggregated information, and may contain, among other things, the activity of the User on the Site or Services, type of operating system, User's 'click-stream' or searches on the Site or Services, type and version of browser or device, keyboard language, screen resolution, internet connectivity, details regarding User traffic and advertising delivery, etc. With respect to URLs, we may collect the following metrics: time and date of creation, the applicable User Account, referring websites or services, history of sharing the URLs via third party sites or services (including Social Networks), etc.
+BY(A) ENTERING, CONNECTING TO, ACCESSING OR USING THE SITE, (B) OPENING AN ACCOUNT, AND/OR (C) ACTIVELY USING THE SERVICES FOR THE PURPOSE OF SHORTENING URLS, MANAGING AND MONETIZING SUCH URLS BY USING ADS, YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY (THE “PRIVACY POLICY”), INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR INFORMATION AND THE TRANSFER, STORAGE, AND USE OF YOUR INFORMATION IN THE UNITED STATES. IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, PLEASE DO NOT ENTER INTO, CONNECT TO, ACCESS OR USE THE SITE OR SERVICES.
 
-b. The second type of information is individually identifiable information ( **“Personal Information** ”). **This information may identify an individual or may be of a private and/or sensitive nature**.
+### ****Information We Collect****
 
-·Users of the Site or Services automatically provide their IP address (or Mac Address, as applicable) mainly for enhancing the User's experience and for geolocation and security purposes as further detailed below.
+ We may collect two types of information when you interact with our Services:
 
-·Personal Information which is being gathered consists of any personal details provided consciously and voluntarily by the User. Users who are interested in opening an Account may be requested to provide the following details via the registration form: full name, e-mail and to choose a password.
-
-·Alternatively, the User can open an Account and signup to the Services via existing third party accounts (e.g., Facebook) used by him/her (" **Social Network Account** "). In the event that a User registers to the Services through his/her existing Social Network Account, then such Social Network Account provides us with access to certain information about such User as is stored in the User’s Social Network Account, namely, certain public information (e.g. full name, email, user ID and any other information which the User made public) and/or any other information which is detailed and displayed to the User in the notice which appears during the "Log in" with such Social Network Account process. Please read carefully such notice in order to understand what information is available to Clkim via the Social Network Account. We may collect your login information and other relevant information necessary to enable us to access your Social Network Account (such as, Facebook UserID, User access token) in order to collect and/or store, to the extent legally permissible, your full name and e-mail. Other than the abovementioned information, we do not collect or store any other information made available to us through your Social Network Account. You hereby agree that such information will be stored even after the linkage to your Social Network Account expires, for any reason. 
-
-·The following information may be gathered from the User directly by Online Payment Services in order to facilitate the transactions made available by the Services: e-mail, ID/SSN, payment information (i.e. bank account number, credit card or debit card numbers). THE FINANCIAL INFORMATION DESCRIBED ABOVE IS NOT COLLECTED BY THE COMPANY.
-
-·Personal Information may also be collected from the details the User may provide in the Contact Form on the Site, which includes the User's e-mail address and free text. Furthermore, the User may optionally provide his/her full name. Additional information may be requested in the future.
-
-For avoidance of doubt, any Non-Personal Information connected or linked to any Personal Information shall be deemed as Personal Information as long as such connection or linkage exists.
-
-**We do not collect any Personal Information from you or related to you without your approval, which is obtained, inter alia, through your active acceptance to the Terms of Use and the Privacy Policy.**
-
-### **3.** ** _How Do We Collect Information on Our Users?   _**
-
-There are two main methods we use:
-
-a. **We collect information through your entry and use of the Site or Services**. In other words, when you are using the Site or Services we are aware of it and may gather, collect and store the information relating to such usage, either independently or through the help of third-party service providers as detailed below.
-
-b. **We collect information which you provide us voluntarily**. We collect Personal Information when you, at your discretion, decide to provide us when opening an Account. We may also collect Personal Information when you register and open an Account through your Social Network Account. When registering through your Social Network Account, you agree to grant us access to Personal Information stored in your Social Network Account, as detailed above. We may also collect Personal information which you voluntarily provide when you fill in the Contact Form on the Site. We may gather, collect and store the Personal Information either independently or through the help of our authorized third-party service providers as detailed below. 
-
-### **4.** ** _What are the Purposes of the Collection of Information?_**
-
-   We collect Non-personal Information and Personal Information in order to provide the Services.
-
-Non-personal Information is collected in order to, inter alia:  
-
-  * Use it for statistical and research purposes and for customization and improvement of our Services.
-  * Improve our metrics and the quality of the Services and gather statistics for commercial purposes.
+  1. Information You Give Us: We collect and store any information you enter on our Services.  When you choose to open an account on the Services, you may be asked to provide certain information about you or your business, such as name, email address, and the country where you are located. If you start a free trial or purchase our Services, we may collect payment information, additional contact information, and other details to authenticate the actions you are requesting to take.  We also collect and store any information you provide if you contact us, either through email, Skype, or our website inquiry form. 
 
 
 
-Personal Information is collected in order to:  
+When you supply your email address, we offer you the option of signing up to receive communications from us regarding products and services that may be of interest to you. We will also use your email address to communicate with you as necessary to provide the Services, as described below.
 
-  * Improve the quality of the Site or Services by formulating, customizing and enhancing the User's experience.
-  * Verify the User's identity when he/she signs in to the Services, as well as verifying User's identity for the purpose of dealing with fraudulent use of our Services.
-  * Be able to inform you regarding our products and services which may interest you, and to send to you other marketing material, transmitted to you through the contact information you provided us.
-  * Enable the User to use the Social Features.
-  * Be able to contact Users for the purpose of providing them with technical assistance and support.
-  * Determine general geolocation information (i.e., country) from which the User's computer or device is connected to the Internet in order to serve the Ads and Services to Users by location, as well as in order to safeguard our Site and Services. 
+  1. Information Collected Automatically: When you interact with the Services, certain information about your use of our Services is automatically collected. This includes computer and connection information, such as type and version of browser or device, type of operating system, keyboard language, screen resolution, internet connectivity, statistics on your page views, traffic to and from our Services, referral URL, ad data, your IP address, and device identifiers. 
 
 
 
-### **5.** ** _Sharing Information with Third Parties_**
+Much of this information is collected through cookies, web beacons, and other tracking technologies, as well as through your web browser or device (e.g., IP address, MAC address, browser version, etc.).  The tracking technologies employed when you use our Services may be first-party or third-party. We use cookies for the following purposes:
 
-We may employ individuals and companies to perform functions on our behalf (e.g. processing credit card payments, analyzing data, providing Ads, etc.). We may share certain Personal Information with such third parties so they could perform their functions for the Company with respect to the Services.
+  * Essential operation: These cookies are necessary to allow us to operate the Clkim website as you have requested. 
+  * Performance/Analytics: We use these cookies to analyze how the Clkim website is accessed, used, or is performing. We use this information to maintain, operate and continually improve the Clkim website. We may also obtain information from our e-mail newsletters, to learn whether you opened or forwarded the newsletter or clicked on any of the content. This information tells us about our newsletters’ effectiveness and helps us ensure that we’re delivering information that you find interesting.
+  * Functional: These cookies let us operate certain functions of the Clkim website in line with the choices you make
+  * Advertising: Interest-based advertising is the collection of data across different websites and/or difference devices for the purpose of tailoring advertising based on preferences or interests know or inferred from the data collected.  Third parties, including Google, Facebook, and other social media platforms, may use tracking technologies on our website to collect or receive information from the Clkim websites and elsewhere on the internet and use that information to provide measurement services and target ads. 
 
- The Company may also share Personal Information in the following cases: (a) to satisfy any applicable law, regulation, legal process, subpoena or governmental request; (b) to enforce this Privacy Policy and/or the TOU, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; (d) to respond to User's support requests; (e) respond to claims that any content available on the Site or Services violates the rights of third-parties; (f) to respond to claims that contact information (e.g. name, e-mail address, etc.) of a third-party has been posted or transmitted without their consent or as a form of harassment; (g) to protect the rights, property, or personal safety of the Company, its Users, or the general public; (h) when the Company is undergoing any change in control, including by means of merger, acquisition or purchase of all or substantially all of its assets; (i) to collect, hold, store and/or manage your Personal Information through the Company's authorized third parties service providers (including, as applicable, their affiliates as necessary to provide us with the requested services), as reasonable for business purposes, which may be located in a country that does not have the same data protection laws as your jurisdiction; (j) cooperate with third parties for the purpose of enhancing the User's experience; and/or (k) pursuant to your explicit approval prior to the disclosure.
 
-For avoidance of doubt, the Company may transfer and disclose _Non-personal Information_ to third parties at its own discretion.
 
-### **6.** ** _Deletion or Modification of Personal Information_**
+The third-party cookies that operate on our website include Google Analytics. Google Analytics help us analyze how users interact with and use the Services, compile reports on the Services’ activity, and provide other services related to our Services’ activity and usage. To learn more about Google’s partner services and to learn how to opt out of tracking of analytics by Google, click [here](https://www.google.com/policies/privacy/partners/).
 
-If for any reason you wish to delete or modify your Personal Information please send us an e-mail with adequate detail of your request to [support@clkim.com](mailto:support@clkim.com) ** _,_** and we will make reasonable efforts to modify or delete any such Personal Information pursuant to any applicable privacy laws. Note that unless you instruct us otherwise we may retain your Personal Information for as long as reasonably required for the purposes of which such Personal Information was collected, including without limitation, for future analytics and analysis, in order to comply with our legal or business requirements or obligations and to resolve disputes or to enforce our Terms, all as permitted under any applicable privacy laws. Aggregated and/or anonymous information derived from your use of your Account, the Site and/or Services may remain on our servers indefinitely.
+Most web browsers automatically accept cookies but, if you prefer, you can usually modify your browser setting to disable or reject cookies. If you delete your cookies or if you set your browser to decline cookies, some features of the Services may not be available, work, or work as designed.
 
-We cannot ensure that third parties who gained access to the Personal Information deleted your Personal Information and cannot monitor their use of such information.
+Your browser or device may include “Do Not Track” functionality. At this time, Clkim does not respond to browser “Do Not Track” signals.
 
-### **7.** ** _Minors_**
+### ****How we Use Your Information****
 
-The Site or Services are intended for Users over the age of thirteen (13). Therefore, the Company does not intend and does not knowingly collect Personal Information from children under the age of thirteen (13) and does not wish to do so. We reserve the right to request proof of age at any stage so that we can verify that minors under the age of thirteen (13) are not using the Site or Services. If we learn that we collected Personal Information from children under the age of thirteen (13) we will delete that information as quickly as possible. Please contact Clkim at: [info@clkim.com](mailto:info@clkim.com) if you have reasons to suspect that we collected Personal Information from children under the age of thirteen (13) and will delete that information as quickly as possible.
+ We may use information you give us to:
 
-### **8.** ** _Security_**
+  * Communicate with you, including to respond to your inquiries, fulfill your requests, and provide technical support
+  * Provide, maintain, personalize, optimize, and improve the Services, including  research and analytics regarding use of the Services, or to remember you when you leave and return to the Services;
+  * Provide and improve the quality of the Site or Services by formulating, customizing and enhancing the User's experience.
+  * Inform you about products and services which may interest you, and to send to you other marketing material, transmitted to you through the contact information you provided us
 
-We take reasonable measures to maintain the security and integrity of our Site, Services and User information and prevent unauthorized access to it or use thereof through generally accepted industry standard technologies and internal procedures. Please note, however, that there are inherent risks in transmission of information over the Internet or other methods of electronic storage and we cannot guarantee that unauthorized access or use of your Personal Information will never occur.
 
-### **9.** ** _Payment_**
+  * Detect, investigate, and prevent activities that may violate our policies or be fraudulent or illegal.
 
-Payments to or from the Company are processed via Online Payment Services. The use of the Online Payment Services is at your sole discretion and liability. IT IS YOUR RESPONSIBILITY TO ABIDE BY ALL THE TERMS SPECIFIED BY THE ONLINE PAYMENT SERVICES' PROVIDERS IN THEIR TERMS OF USE AND PRIVACY POLICIES, INCLUDING BUT NOT LIMITED TO ANY AGE RESTRICTIONS SPECIFIED THEREIN. You acknowledge that you are fully assuming the risks of conducting any transactions via the Online Payment Services in connection with the Services.
 
-### **10.** ** _Third Party Service Providers_**
 
-We may be using third party software or service, in order to collect, store and/or process the information detailed herein. Clkim uses commercially reasonable efforts to engage with third parties that post a privacy policy governing their collection, processing and use of non-personal and personal information. Such software and service include without limitation: Google Analytics, which privacy policy is located at www.google.com/policies/privacy/partners/ and <http://www.google.com/intl/en/analytics/privacyoverview.html>, Clickbank which privacy policy is located at <https://accounts.clickbank.com/privacy.html> and Paypal which privacy policy is located at   <https://www.paypal.com/il/webapps/mpp/ua/legalhub-full> . However, Clkim does not control such third party service providers. Please read their terms of use and privacy policies to understand their privacy practices.
+### ****Sharing Information with Third Parties****
 
-### **11.** ** _Tracking Technologies_**
+We may employ individuals and companies to perform functions on our behalf (e.g. processing credit card payments, hosting data, providing marketing automation tools, and analyzing the data we collect). We may share certain information with such third parties so they could perform their functions for Clkim with respect to the Services.  Please note that payments to or from Clkim are processed via third-party online payment services, and you may become subject to Terms of Services and privacy policies set forth by the services when you choose to purchase a product on the Services. 
 
-When you access or use the Site or Services, the Company may and may allow authorized third party service providers (e.g. third party advertisers) to place or recognize industry-wide technologies such as cookies and/or other tracking technologies (" **Tracking Technologies** "). Such Tracking Technologies are stored on your computer. Tracking Technologies may enable, inter alia, automatic activation of certain features, and make your experience and usage simpler, convenient and effortless. We and/or our authorized third party service providers may use both session cookies (which expire once you close the Site or leave the Services) and persistent cookies (which stay on User's device until he/she deletes them). It is easy to prohibit and/or delete the Tracking Technologies. For example, most browsers will allow you to erase cookies from your computer's hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. However, if you block or erase Tracking Technologies, your online experience may be limited. Such Tracking Technologies may store non-personal information (such as the different pages viewed by a User within the Site) as well as User persistent identifier and geo-location data, which will be collected in accordance with the terms specified herein.
+As described above, by allowing tracking technologies to be deployed on our website, we permit the collection and sharing of information with third-parties who assist us in serving advertising regarding the Services when you leave the Services as well as third parties who assist us in personalizing, optimizing, and improving the Services. While Clkim will not share information that personally identifies you with unaffiliated third parties for their own uses, such third parties may, with sufficient data from other sources, be able to personally identify you.
 
-### **12.** ** _Social Features_**
+You can learn more about ad serving companies and the options available to limit their collection and use of your information by visiting the websites for the [Network Advertising Initiative](http://www.networkadvertising.org/choices/), the [Digital Advertising Alliance](http://www.aboutads.info/choices), and the [European Interactive Digital Advertising Initiative](http://www.youronlinechoices.eu/). Similarly, you can learn about your options to opt-out of mobile app tracking by certain advertising networks through your device settings and by resetting the advertiser ID on your Apple or Android device. 
 
-Our Site may include social media features (" **Social Features** "), for example the Facebook Like and Share buttons. The Social Features are operated or allow for social integration with certain third party social networks or third party platforms (“ **Social Network** ” or “ **Platform** ”). These Social Networks and Platforms are created and maintained by third parties who are not affiliated with and/or controlled by the Company. If you enable this integration with such Social Networks and Platforms, your use of the Social Features is subject to the applicable third party Social Network’s or Platform’s terms of use and privacy policies. You should ensure that you read their terms of use and privacy policies to understand how they treat your information and in order to understand the methods for changing the privacy or sharing settings on such services. If you do not agree to the practices described in such terms you should not allow our Site or Services to interact with such Social Networks or Platforms, however you may find that you are not able to enjoy all the features that may be made available via our Site or Services. You understand that where you allow interaction with any third party Social Network or Platform, we may share data about you with your contacts (and vice versa) in order that you may enjoy social elements. This data may include, without limitation, your name and your social media profile picture. By using the Social Features you hereby agree and understand that the applicable Social Networks or Platforms may collect certain Personal Information, such as your IP address, Non-personal Information and may set cookies and/or other web tracking technologies to enable the functionality of the Social Features. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the third party that provides the Social Features. You hereby understand and agree that when you share content via Social Networks or Platforms that your content may become public and others may re-post-it.
+Please note that opting-out of advertising networks services does not mean that you will not receive advertising while using our Services or on other websites, nor will it prevent the receipt of interest-based advertising from third parties that do not participate in these programs. It will, however, exclude you from interest-based advertising conducted through participating networks, as provided by their policies and choice mechanisms.  If you delete your cookies, you may also delete your opt-out preferences.
 
-### **13.** ** _International Data Transfer_**
+We may use or disclose information about you if required to do so by law or on the good-faith believe that such sharing is necessary to (a) conform to applicable law or comply with legal process served on us or our Services; (b) protect and defend our rights or property, the Services, or our users; or (c) act to protect the personal safety of our employees and agents, other users of the Services, or members of the public.
 
-We may transfer information collected about you, including Personal Information, to affiliated entities, or to other third party service provides (as provided herein) across borders and from your country or jurisdiction to other countries or jurisdictions around the world. Please note that we may transfer such information to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to such transfer of information.
+Finally, if we change our ownership or corporate organization, we may transfer to another entity or its affiliates or service providers some or all information about you in connection with, or during negotiations of, any merger, acquisition, sale of assets or any line of business, change in ownership control, or financing transaction. We cannot promise that an acquiring party or the merged entity will have the same privacy practices or treat your information the same as described in this Policy.
 
-### **14.** ** _Direct Marketing_**
+### ****Deletion or Modification of Your Information****
 
-You hereby agree that we may use your contact details you provided us with for the purpose of informing you regarding our products and services which may interest and to send to you advertisements and other marketing material, transmitted to the e-mail address you have provided. You may withdraw your consent via sending a written notice to Clkim by e-mail to the following e-mail address: [support@clkim.com](mailto:support@clkim.com) or alternatively following the instructions for removing yourself from the mailing list which are available in the e-mail transmitted to you.
+ If for any reason you wish to delete or modify any information you have provided to us, please send us an e-mail with adequate detail of your request to support@clkim.com, and we will make reasonable efforts to modify or delete any such information, subject to any applicable laws.
 
-### **15.** ** _Changes to the Privacy Policy_**
+You may withdraw your consent to receiving marketing emails by emailing us at support@clkim.com or following the instructions for removing yourself from the mailing list which are available in the e-mail transmitted to you.
 
-The terms of this Privacy Policy will govern the use of the Site and Services and any information collected therein. The Company reserves the right to change this policy at any time, so please re-visit this page frequently. We will provide notice of substantial changes of this policy on the homepage of the Site and/or we will send you an e-mail regarding such changes to the e-mail address that you may have provided us with. Such substantial changes will take effect seven (7) days after such notice was provided on our Site or sent by e-mail, whichever is the earlier. Otherwise, all other changes to this Privacy Policy are effective as of the stated “Last Revised” date and your continued use of the Site or Services after the Last Revised date will constitute acceptance of, and agreement to be bound by, those changes. In the event that the Terms should be amended to comply with any legal requirements, the amendments may take effect immediately, or as required by the law and without any prior notice.
+### ****Security****
 
-### **16.** ** _Got any Questions?_**
+We take reasonable measures to maintain the security and integrity of our Site, Services and User information and prevent unauthorized access to it or use thereof through generally accepted industry standard technologies and internal procedures. Please note, however, that there are inherent risks in transmission of information over the Internet or other methods of electronic storage and we cannot guarantee that unauthorized access or use of your information will never occur.
 
-If you have any questions (or comments) concerning this Privacy Policy, you are most welcome to send us an email to the following address: [info@clkim.com](mailto:info@clkim.com) and we will make an effort to reply within a reasonable timeframe.
+### ****Social Features****  
+
+Our website may include social media features (“Social Features”), for example the Facebook Like and Share buttons. The Social Features are operated or allow for social integration with certain third party platforms. When you interact with us through a social media platform or via a Social Feature, we may collect the personal information that you make available to us on that page, including your account ID or username and other information included in your posts. We may also share certain information about you and your activities with the platform. Please keep in mind that social media platforms are created and maintained by third parties, and your use of the Social Features is subject to the applicable third party Social Network’s or Platform’s terms of use and privacy policies. You should ensure that you read their terms of use and privacy policies to understand how they treat your information and in order to understand the methods for changing the privacy or sharing settings on such services. 
+
+### ****International Data Transfer****
+
+We may collect, process, and store your personal information in the United States, Israel and other countries.  The laws in the U.S. and Israel regarding personal information may be different from the laws of your state or country.  Any such transfers will comply with safeguards as required by relevant law. If applicable, you may have a right to claim compensation for damages caused by a breach of relevant data protection laws.
+
+### ****Information for Individuals in the European Union (EEA) and Switzerland****  
+
+If you are a resident of the EEA or Switzerland, the following information applies pursuant to the General Data Protection Regulation (“GDPR”). 
+
+Purposes of processing and legal basis for processing: As explained above, we process personal data in various ways depending upon your use of our Services.  We process personal data on the following legal bases: (1) with your consent; (2) as necessary to perform our agreement to provide Services; and (3) as necessary for our legitimate interests in providing the Services where those interests do not override your fundamental rights and freedom related to data privacy. 
+
+Right to lodge a complaint: Users that reside in the EEA or Switzerland have the right to lodge a complaint about our data collection and processing actions with the supervisory authority concerned. Contact details for data protection authorities are available [here.](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm)
+
+Transfers: Personal information we collect may be transferred to, and stored and processed in, the United States or any other country in which we or our affiliates or subcontractors maintain facilities. We ensure that transfers of personal information to a third country or an international organization are subject to appropriate safeguards as described in Article 46 of the GDPR.
+
+Individual Rights: If you are a resident of the EEA or Switzerland, you are entitled to the following rights. **Please note** : In order to verify your identity, we may require you to provide us with personal information prior to accessing any records containing information about you.
+
+  * **The right to request data erasure. You have the right to have your data erased from our Services if the data is no longer necessary for the purpose for which it was collected, you withdraw consent and no other legal basis for processing exists, or you believe your fundamental rights to data privacy and protection outweigh our legitimate interest in continuing the processing.**
+
+
+  * The right to restrict or object to our processing. You have the right to restrict or object to our processing if we are processing your data based on legitimate interests or the performance of a task in the public interest as an exercise of official authority (including profiling); using your data for direct marketing (including profiling); or processing your data for purposes of scientific or historical research and statistics.
+
+
+
+### ****Changes to the Privacy Policy****  
+
+Clkim reserves the right to change this policy at any time. We will post any changes, and such changes will become effective when they are posted. Your continued use of our Services following the posting of any changes will mean you accept those changes.
+
+### ****Questions?****
+
+If you have any questions (or comments) concerning this Privacy Policy, you are most welcome to send us an email to the following address: info@clkim.com and we will make an effort to reply within a reasonable timeframe.
