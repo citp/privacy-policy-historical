@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickcompany.in privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708061053id_/https%3A//www.quickcompany.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickcompany.in privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028063241id_/https%3A//www.quickcompany.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
