@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entangledpublishing.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905071314id_/https%3A//entangledpublishing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entangledpublishing.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028031907id_/https%3A//entangledpublishing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,7 +46,7 @@ To opt-out of any future promotions from us, you can unsubscribe using the link 
 
 **Contact us**
 
-If you have any questions about this Privacy Policy, you may contact us by email at [support@entangledpublishing.com](mailto:support@entangledpublishing.com).
+If you have any questions about this Privacy Policy, you may contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a4d7d1d4d4cbd6d0e4c1cad0c5cac3c8c1c0d4d1c6c8cdd7cccdcac38ac7cbc9).
 
 Other ways to contact us:
 
