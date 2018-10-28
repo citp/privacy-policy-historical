@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the d1baseball.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930195735id_/https%3A//d1baseball.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d1baseball.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029003529id_/https%3A//d1baseball.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - D1Baseball.com
 
 ## Privacy Policy 
 
-**D1 baseball HoldingS, LLC dba d1baseball.com**
+* * *
 
-**Privacy Policy**
-
-**Last Updated: January 15, 2015**
+### **Privacy Policy**
 
 The [http://d1baseball.com](http://d1baseball.com/) website (the “Site”) is provided by D1 Baseball Holdings, LLC. Collectively, this website and D1 Baseball Holdings, LLC shall be referred to as “D1” throughout this and all other agreements pertaining to the use of the Site.
 
@@ -54,12 +52,10 @@ We reserve the right to update or modify this Privacy Policy at any time.  If w
 
 **How to Contact Us**
 
-If you have any questions regarding this Privacy Policy, you may contact us by sending us an email at info@D1Baseball.com or by writing to us at:
+If you have any questions regarding this Privacy Policy, you may contact us by sending us an email at  **[info@D1baseball.com](mailto:info@d1baseball.com)** or by writing to us at:
 
 D1Baseball.com  
 13253 Hamilton St  
 Omaha, NE 68154  
 Phone: 402-201-7623  
-Email: info@D1baseball.com
-
-The effective date of this Privacy Policy is: January 15, 2015
+Email: **[info@D1baseball.com](mailto:info@d1baseball.com)**
