@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eatlime.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016062246id_/http%3A//eatlime.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatlime.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028144052id_/http%3A//www.eatlime.com/privacy.php) for the most accurate reproduction.*
 
 # EatLime Privacy Policy
 
-[Home](http://eatlime.com/) : EatLime Privacy Policy
+[Home](http://www.eatlime.com/) : EatLime Privacy Policy
 
 This privacy policy sets out how EatLime uses and protects any information that you provide when you use this website. 
 
