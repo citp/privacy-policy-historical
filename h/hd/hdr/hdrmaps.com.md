@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdrmaps.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613143016id_/http%3A//hdrmaps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdrmaps.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028185346id_/http%3A//hdrmaps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,7 +41,7 @@ We are committed to ensuring that your information is secure. In order to preven
 ## About this website's server
 
 This website is hosted by OVH within a France data centre located in Roubaix.  
-Activity both within and outside of the datacentres is monitored and recorded on secure servers, with surveillance teams working on site, 24/7. Learn more [about security in OVH](https://web.archive.org/web/20180613143016id_/http%3A//hdrmaps.com/%20https://www.ovh.com/world/about-us/security.xml "About security in ovh")
+Activity both within and outside of the datacentres is monitored and recorded on secure servers, with surveillance teams working on site, 24/7. Learn more [about security in OVH](https://web.archive.org/web/20181028185346id_/http%3A//hdrmaps.com/%20https://www.ovh.com/world/about-us/security.xml "About security in ovh")
 
 All personal data  between this website and your browser is encrypted and delivered over [HTTPS](https://en.wikipedia.org/wiki/HTTPS "Learn more on Wiki").
 
@@ -68,18 +68,15 @@ We will report any unlawful data breach of this website’s database or the data
 
 ## Data controller
 
-The data controller of this website is: HDRMAPS, a UK company operating as a proprietorship.
+The data controller of this website is: HDRMAPS,  company operating as a proprietorship.
 
 Whose registered office is:  
-105a Birkbeck Avenue  
-London UB6 8LY  
-United Kingdom
+Ul. Jabłońska 17  
+57-430 Jugów  
+Poland
 
 ## Data protection officer
 
-Mr. Grzegorz Wronkowski  
-CEO, HDRMAPS  
-Telephone: 07522124374  
 Email: contact@hdrmaps.com
 
 ## Email newsletter
