@@ -1,40 +1,41 @@
-> *The following text is extracted and transformed from the newharbinger.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710082702id_/https%3A//www.newharbinger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newharbinger.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028031940id_/https%3A//www.newharbinger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NewHarbinger.com
 
 ###  New Harbinger is committed to observing your right to privacy and the security of your personal information.
 
-We always welcome your questions and feedback. For privacy-related issues, please contact our [web manager](mailto:webmaster@newharbinger.com).
+As part of this commitment, we are working diligently to ensure that our privacy practices meet the standards outlined in the European Union’s new General Data Protection Regulation (GDPR). Until this transition is complete, we ask that you refer to our existing privacy policy below. **By visiting and using newharbinger.com, you are consenting to be bound by the following terms and conditions.**
 
-By entering and using newharbinger.com, you are consenting to and agreeing to be bound by the following terms and conditions. If you disagree with any of these terms and conditions, please exit the site.
-
-###  **Your Information**
+###  Your Information
 
 We may collect information including name, address, telephone number, email address and/or credit card information when you:
 
-  * Place an order from our catalog on the phone, via fax, or on our website
-  * Request a catalog
+  * Place an order on newharbinger.com, by phone, or fax (please, never fax your credit card information)
+
   * Create an account at newharbinger.com
-  * Subscribe to our email newsletters, book alerts or other email notifications
-  * Are referred to us by related web sites, conferences, or New Harbinger authors
-  * Participate in a marketing survey, promotion or event
-  * Sign up for book alerts
+
+  * Subscribe to our email marketing communications
+
+  * Request a printed catalog
+
+  * Participate in a marketing survey, promotion or other event
 
 
 
-We use our best efforts to maintain your data in a secure database. We gather information about how visitors navigate through our Web site by using data gathered with "cookies" and/or other online tools.
 
-###  **Cookies**
+We use our best efforts to maintain your data in a secure database. We gather information about how visitors navigate through our website by using data gathered with "cookies" and/or other online tools.
 
-A cookie is a small data file that is stored by your Web browser on your computer. Cookies enable you to place an order on our Web site. For example, cookies are used to:
+###  Cookies
 
-  * Store items in your Shopping Bag
+A cookie is a small data file that is stored by your Web browser on your computer. Cookies enable you to place an order on our website. For example, cookies are used to:
+
+  * Store items in your shopping cart
   * Recognize you when you return to newharbinger.com
-  * Study how our customers navigate through our Web site and which products they request in site searches
+  * Study how our customers anonymously navigate through our website and which products they request in site searches in order to improve the website and user experience
 
 
 
-###  **Using Information We Collect**
+###  Using Information We Collect
 
 New Harbinger Publications aims to provide you with the best possible shopping experience. To fulfill your orders, we collect information that allows us to:
 
@@ -47,25 +48,25 @@ New Harbinger Publications aims to provide you with the best possible shopping e
 
 
 
-###  **Information and Your Privacy Rights**
+###  Information and Your Privacy Rights
 
-We do not share our database of user email addresses. We do rent our list of physical mailing addresses from time to time to companies with products and service similar to those of New Harbinger Publications, Inc. If you would prefer us to not rent your address, you may opt out of this program by emailing our [customer service](mailto:customerservice@newharbinger.com) department or calling them at 800-748-6273.
+We do not share our database of user email addresses. We do share our list of physical mailing addresses from time to time to companies with products and service similar to those of New Harbinger Publications, Inc. If you would prefer us to not share your physical mailing address, you may opt out of this program by filling out our [Unsubscribe Form](https://web.archive.org/unsubscribe) or by contacting us at  [customerservice@newharbinger.com](mailto:customerservice@newharbinger.com) or 800-748-6273.
 
-###  **Your Choices**
+###  Your Choices
 
 We offer choices about the types of information you receive from us. If you state at the time of your order that you prefer not to receive emails from us about topics that may relate to former purchases, we will not do so.
 
-###  **How We Use Email**
+###  How We Use Email
 
 When you provide us your email address, we may send you emails necessary to process your order, respond to a request, provide customer service, or promote products or services.
 
-We wish to send promotional emails only to those persons who wish to receive them. If you receive emails that you do not wish to continue receiving, there will always be an unsubscribe option.
+We wish to send promotional emails only to those persons who wish to receive them. If you receive emails that you do not wish to continue receiving, there will always be an [unsubscribe](https://web.archive.org/unsubscribe) option.
 
-###  **Updating or Reviewing Your Information**
+###  Updating or Reviewing Your Information
 
-To update your customer information (name, address, telephone number and email address), please email [customerservice@newharbinger.com](mailto:customerservice@newharbinger.com).
+To update your customer information (name, address, telephone number and email address), please contact [customerservice@newharbinger.com](mailto:customerservice@newharbinger.com).
 
-###  **Security**
+###  Security
 
 We do not provide your information to outside companies except as provided above.
 
@@ -73,6 +74,6 @@ When you make a purchase, request a catalog or create an account on our Web site
 
 All orders placed at the New Harbinger website are executed via our secure credit card processing. The Entrust Secured Site-Seal on newharbinger.com enables Secure Sockets Layer (SSL) protocol to secure communications between Web browsers and the Web site.
 
-###  **Questions or Comments?**
+###  Questions or Comments?
 
 Please contact our web manager: [webmaster@newharbinger.com](mailto:webmaster@newharbinger.com?subject=New%20Harbinger%27s%20Privacy%20Policy).
