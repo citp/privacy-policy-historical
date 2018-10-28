@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techeblog.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617090628id_/http%3A//www.techeblog.com/index.php/static/privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techeblog.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028102712id_/http%3A//www.techeblog.com/index.php/static/privacy%2Bpolicy) for the most accurate reproduction.*
 
 # Privacy Policy - TechEBlog
 
@@ -8,4 +8,4 @@ Our Privacy Policy was developed as an extension of our commitment to combine th
 
 ## Other
 
-This site contains links to other sites. TechEBlog.com is not responsible for the privacy practices or the content of such Web sites. We do not collect any other personal or identifiable information through any means on our website.
+This site contains links to other sites. TechEBlog.com is not responsible for the privacy practices or the content of such Web sites. We do not collect any other personal or identifiable information through any means on our website. As an Amazon Associate I earn from qualifying purchases.
