@@ -1,25 +1,119 @@
-> *The following text is extracted and transformed from the calm.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616170512id_/https%3A//www.calm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calm.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028041419id_/https%3A//www.calm.com/privacy) for the most accurate reproduction.*
 
 # Calm - Privacy Policy
 
-Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services (including your Account, if you are an Account holder), and to enable you to enjoy and easily navigate our Services.
+We acquire, hold, use, and process Personal Information about Individuals for a variety of business purposes, including:
 
-### Account Information
+### To Provide Products, Services, or Information Requested
 
-If you create an Account, we’ll collect certain information that can be used to identify you, such as your email address (“PII”). If you create an Account using your login credentials from one of your SNS Accounts, we’ll be able to access and collect your name and other PII that your privacy settings on the SNS Account permit us to access. If you create an Account through the Services or one of your SNS Accounts, we may also collect your gender, date of birth and other information that is not considered PII because it cannot be used by itself to identify you.
+We may use information about you to fulfill requests for products, Services, or information, including information about potential or future Services, including to:
 
-### Information Collected Using Cookies and other Web Technologies
+• 
 
-Like many website owners and operators, we use automated data collection tools such as Cookies and Web Beacons to collect certain information. “Cookies” are small text files that are placed on your device by a web server when you access our Services. We may use both session cookies and persistent cookies to identify that you’ve logged in to the Services and to tell us how and when you interact with our Services. We may also use cookies to monitor aggregate usage and web traffic routing on our Services and to customize and improve our Services. Unlike persistent cookies, session cookies are deleted when you log off from the Services and close your browser. Although most browsers automatically accept cookies, you can change your browser options to stop automatically accepting cookies or to prompt you before accepting cookies. Please note, however, that if you don’t accept cookies, you may not be able to access all portions or features of the Services. Some third-party services providers that we engage (including third-party advertisers) may also place their own cookies on your device. Note that this Privacy Policy covers only our use of cookies and does not include use of cookies by such third parties. “Web Beacons” (also known as Web bugs, pixel tags or clear GIFs) are tiny graphics with a unique identifier that may be included on our Services for several purposes, including to deliver or communicate with Cookies, to track and measure the performance of our Services, to monitor how many visitors view our Services, and to monitor the effectiveness of our advertising. Unlike Cookies, which are stored on the user’s hard drive, Web Beacons are typically embedded invisibly on web pages (or in an e-mail).
+Generally manage Individual information and Accounts
 
-### Information Related to Use of the Services
+• 
 
-Our servers automatically record certain information about how a person uses our Services (we refer to this information as “Log Data”), including both Account holders and non-Account holders (either, a “User”). Log Data may include information such as a User’s Internet Protocol (IP) address, browser type, operating system, the web page that a User was visiting before accessing our Services, the pages or features of our Services to which a User browsed and the time spent on those pages or features, search terms, the links on our Services that a User clicked on and other statistics. We use Log Data to administer the Services and we analyze (and may engage third parties to analyze) Log Data to improve, customize and enhance the Services by expanding their features and functionality and tailoring them to our Users’ needs and preferences. We may use a person’s IP address to fight spam, malware and identity theft. We also use the IP Address to generate aggregate, non-identifying information about how our Services are used.
+Respond to questions, comments, and other requests
 
-### Information Sent by Your Mobile Device
+• 
 
-We collect certain information that your mobile device sends when you use our Services, like a device identifier, user settings and the operating system of your device, as well as information about your use of our Services.
+Provide access to certain areas, functionalities, and features of Calm’s Services
 
-### Location Information
+• 
 
-In some cases we may collect and store information about where you are located, such as by converting your IP address into a rough geolocation or by accessing your mobile device’s GPS coordinates or coarse location if you enable location services on your device. We may use location information to improve and personalize our Services for you. If you do not want us to collect location information, you may disable that feature on your mobile device.
+Contact you to answer requests for customer support or technical support
+
+• 
+
+Allow you to register for events
+
+### Administrative Purposes
+
+We may use Personal Information about you for administrative purposes, including to:
+
+• 
+
+Measure interest in Calm’s Services
+
+• 
+
+Develop new products and Services
+
+• 
+
+Ensure internal quality control
+
+• 
+
+Verify Individual identity
+
+• 
+
+Communicate about Individual Accounts and activities on our Services and systems, and, in Calm’s discretion, changes to any Calm policy
+
+• 
+
+Send email to the email address you provide to us to verify your Account and for informational and operational purposes, such as Account management, customer service, or system maintenance
+
+• 
+
+Process payment for products or services purchased
+
+• 
+
+Process applications and transactions
+
+• 
+
+Prevent potentially prohibited or illegal activities
+
+### Marketing Calm Products and Services
+
+We may use Personal Information to provide you with materials about offers, products, and Services that may be of interest, including new content or Services. We may provide you with these materials by phone, postal mail, facsimile, or email, as permitted by applicable law. Such uses include:
+
+• 
+
+To tailor content, advertisements, and offers
+
+• 
+
+To notify you about offers, products, and services that may be of interest to you
+
+• 
+
+To provide Services to you and our sponsors
+
+• 
+
+For other purposes disclosed at the time that Individuals provide Personal Information, or
+
+• 
+
+Otherwise with your consent
+
+You may contact us at any time to opt-out of the use of your Personal Information for marketing purposes, as further described in this Privacy Policy.
+
+### Research and Development
+
+We may use Personal Information to create nonidentifiable information that we may use alone or in the aggregate with information obtained from other sources, in order to help us to optimally deliver our existing products and Services or develop new products and Services. From time to time, Calm may perform research (online and offline) via surveys. We may engage third party service providers to conduct such surveys on our behalf. All survey responses are voluntary, and the information collected will be used for research and reporting purposes to help us better serve Individuals by learning more about their needs and the quality of the products and services we provide. The survey responses may be utilized to determine the effectiveness of our Services, various types of communications, advertising campaigns, and/or promotional activities. If an Individual participates in a survey, the information given will be used along with that of other study participants. We may share anonymous Individual and aggregate data for research and analysis purposes.
+
+### Direct Mail, Email and Outbound Telemarketing
+
+Individuals who provide us with Personal Information, or whose Personal Information we obtain from third parties, may receive periodic emails, newsletters, mailings, or phone calls from us with information on our or our business partners’ products and services or upcoming special offers/events we believe may be of interest. We offer the option to decline these communications at no cost to the Individual by following the instructions in this Privacy Policy.
+
+### Services via Mobile Devices
+
+From time to time, Calm may provide Services that are specifically designed to be compatible and used on mobile devices. We will collect certain information that your mobile device sends when you use such Services, like a device identifier, user settings, location information, mobile carrier, and the operating system of your device. Mobile versions of our Services may require that users log in with an Account. In such cases, information about use of mobile versions of the Services may be associated with Accounts. In addition, Calm may enable Individuals to download an application, widget, or other tool that can be used on mobile or other computing devices. Some of these tools may store information on mobile or other devices. These tools may transmit Personal Information to Calm to enable Individuals to access Accounts and to enable us to track use of these tools. Some of these tools may enable users to email reports and other information from the tool. We may use personal or non-identifiable information transmitted to Calm to enhance these tools, to develop new tools, for quality improvement and as otherwise described in this Privacy Policy or in other notices Calm provides.
+
+### Anonymous and Aggregated Information Use
+
+We may use Personal Information and other information about you to create anonymized and aggregated information, such as de-identified demographic information, de-identified location information, information about the computer or device from which you access Calm’s Services, or other analyses we create. Anonymized and aggregated information is used for a variety of functions, including the measurement of visitors’ interest in and use of various portions or features of the Services. Anonymized or aggregated information is not Personal Information, and we may use such information in a number of ways, including research, internal analysis, analytics, and any other legally permissible purposes. We may share this information within Calm and with third parties for our or their purposes in an anonymized or aggregated form that is designed to prevent anyone from identifying you.
+
+### Sharing Content with Friends or Colleagues
+
+Calm’s Services may offer various tools and functionalities. For example, Calm allows you to provide information about your friends through our referral services, such as “Tell a Friend.” Our referral services may allow you to forward or share certain content with a friend or colleague, such as an email inviting your friend to use our Services. Email addresses that you may provide for a friend or colleague will be used to send your friend or colleague the content or link you request, but will not be collected or otherwise used by us or any other third parties for any other purpose.
+
+### Other Uses
+
+We may use Personal Information for which we have a legitimate interest, such as direct marketing, individual or market research, anti-fraud protection, or any other purpose disclosed to you at the time you provide Personal Information or with your consent.
