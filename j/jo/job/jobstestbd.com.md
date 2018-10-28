@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jobstestbd.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628155622id_/http%3A//jobstestbd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobstestbd.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028055606id_/http%3A//jobstestbd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jobs Test bd
 
-সকল চাকরির পরীক্ষার সময়সূচী ও ফলাফল মোবাইলে Notification পেতে নিচের  **Android apps**  মোবাইলে রাখেন: [Jobs  EXam Alert ](http://studyonlinebd.com/jobsalert.apk)
+সকল চাকরির পরীক্ষার সময়সূচী ও ফলাফল মোবাইলে Notification পেতে নিচের  **Android apps**  মোবাইলে রাখেন: [Jobs  EXam Alert ](https://play.google.com/store/apps/details?id=com.studyonlinebd.news&hl=en)
 
 Thank you and be grateful to you for visiting our website [jobstestbd.com](http://jobstestbd.com/). The protection of your privacy when you use is very important to us. The publisher takes the protection of your personal data very seriously. Your data will be protected under the law. At [jobstestbd.com](http://jobstestbd.com/) we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by [jobstestbd.com](http://jobstestbd.com/) and how we use it.
 
@@ -26,7 +26,7 @@ We take reasonable steps to secure your personally identifiable information agai
 
 **Cookies:**
 
-সকল চাকরির পরীক্ষার সময়সূচী ও ফলাফল মোবাইলে Notification পেতে নিচের  **Android apps**  মোবাইলে রাখেন: [Jobs  EXam Alert ](http://studyonlinebd.com/jobsalert.apk)
+সকল চাকরির পরীক্ষার সময়সূচী ও ফলাফল মোবাইলে Notification পেতে নিচের  **Android apps**  মোবাইলে রাখেন: [Jobs  EXam Alert ](https://play.google.com/store/apps/details?id=com.studyonlinebd.news&hl=en)
 
 We use cookies to optimize the delivery of advertising on the websites they visit. Please note that it is not possible in any case to include your name, address or other personal information, either from your community account, the cookies used on your interests or out. You can of course still use our site, if you have prevented the use of cookies in your browser settings. To post comments and participate in voting, you must also accept the use of cookies.
 
