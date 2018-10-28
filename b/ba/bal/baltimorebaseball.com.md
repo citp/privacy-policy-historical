@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baltimorebaseball.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628110536id_/http%3A//www.baltimorebaseball.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimorebaseball.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028042640id_/https%3A//www.baltimorebaseball.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BaltimoreBaseball.com
 
@@ -46,8 +46,6 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **Third party websites**
 
-[](https://baltimorebaseball.app.link/iFXfmcR3VA)
-
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensor and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
 **Advertising**
@@ -68,4 +66,6 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: contact@baltimorebaseball.com
+
+#### [ SUBSCRIBE TO OUR PODCASTS HERE: [iTunes](http://apple.co/1UjJarP) / [Google Play ]](https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ik7po5cqy6cz7uhkx5ff5pblfgy?t%3DBaltimore_Orioles_Baseball_Podcasts_from_BaltimoreBaseball.com%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
