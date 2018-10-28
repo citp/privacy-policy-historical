@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the centova.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529192126id_/http%3A//www.centova.com/en/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centova.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028095137id_/https%3A//centova.com/en/company/privacy) for the most accurate reproduction.*
 
-# Centova Technologies Inc. - Privacy Policy
+# - Privacy Policy
 
-Centova Technologies Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for centova.com and centova.net.
+Centova Technologies Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for centova.com.
 
 ## Use of Personal Information
 
