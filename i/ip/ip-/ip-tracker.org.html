@@ -1,12 +1,15 @@
-<!--The following is the downloaded HTML source of the ip-tracker.org privacy policy that was archived on 2018-03-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180326015024id_/http%3A//www.ip-tracker.org/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ip-tracker.org privacy policy that was archived on 2018-10-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181028130339id_/https%3A//www.ip-tracker.org/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <title>Privacy Policy | IP-Tracker.org</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="description" content="Privacy Policy - IP-Tracker.org do not use cookies to store information and never sell your personal information to third parties. ">
 <meta name="keywords" content="Privacy Policy">
-<base href="http://www.ip-tracker.org">
+<base href="https://www.ip-tracker.org">
+<link href="bsnormalize.css" rel="stylesheet" type="text/css">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="shortcut icon" href="favicon.ico">
 <link href="style-main.css" rel="stylesheet" type="text/css">
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
@@ -33,50 +36,271 @@ if (window != top) top.location.href = location.href;
   ga('send', 'pageview');
 
 </script>
-<script async="" src="lks.js" type="text/javascript"></script>
+<link href="responsive.css" rel="stylesheet" type="text/css">
+<script src="bs/jquery.js"></script>
+<script>
+$(document).ready(function() {
+
+    // main function for backbtn positioning on scroll/resize
+    function setBackButton() {
+
+        // get window width, so we don't setup btn on below 1024px
+        // because there is room sideways
+        var vw = $(window).width();
+        // 1024, desktop kicks in
+        var bp = 1024;
+
+        // timeout needed for chrome url bar showing slowly
+        setTimeout(function() {
+
+            var viewportH = $(window).height();
+            // last bottom el height
+            var bottomElH = $('.backbtn-btm').height();
+            // bottom el's top vs. window top distance
+            var peek = $('.backbtn-btm').position().top - $(window).scrollTop();
+            var offset = 6;
+
+
+            if ($(window).scrollTop() > 50) {
+
+                // show btn
+                $('#back-to-top').fadeIn();
+
+                // take the viewport height, compare it to el's top/peek
+                // if v-height is greater than peek, it means
+                // el's top is peeking into viewport
+                // so we need to add bigger bottom btn to keep it above it
+                // so we set back btn bottom to that difference + some margins
+                if (viewportH >= peek) {
+                    //console.log('peeks', viewportH, peek, bottomElH, viewportH - peek, viewportH - peek >= Math.round(bottomElH), (viewportH - peek) - bottomElH)
+                    // raise button on small screens only
+                    if (vw < bp) {
+                        $('#back-to-top').css('bottom', Math.round(viewportH - peek + offset));
+                    } else {
+                        $('#back-to-top').css('bottom', '16px')
+                    }
+                } else {
+                    // set regular distance from bottom
+                    $('#back-to-top').css('bottom', '16px')
+                }
+
+
+            } else {
+                // hide btn
+                $('#back-to-top').fadeOut();
+            }
+        }, 100);
+    }
+
+
+    // listeners
+    $(window).resize(function() {
+        // call backbtn setup on window resize
+        setBackButton();
+    });
+
+    // call backbtn setup on window scroll
+    // jq scrollend extension
+    $.fn.scrollEnd = function(callback, timeout) {
+
+        $(this).scroll(function() {
+            var $this = $(this);
+            if ($this.data('scrollTimeout')) {
+                clearTimeout($this.data('scrollTimeout'));
+            }
+            $this.data('scrollTimeout', setTimeout(callback, timeout));
+        });
+    };
+    // call backbtn setup on window scroll-end
+    $(window).scrollEnd(setBackButton);
+
+    // scroll body to top on backbtn click
+    $('#back-to-top').click(function() {
+
+        $('body,html').animate({
+            scrollTop: 0
+        }, 600);
+        return false;
+    });
+
+    //ip-tools dropdown
+    var open = false;
+    var touched = false;
+    var focus = false;
+    var hover = false;
+    var iptoolslk = $('#iptoolslk');
+    var tools = $('#tools');
+
+
+    // first touch opens dropdown, second goes to location
+    iptoolslk.on('touchstart', function(e) {
+        if (touched) {
+            return;
+        } else {
+            e.preventDefault();
+            tools.show();
+            // scroll window to ip-tools menu
+            var vw = window.innerWidth; //screen.width;//$(window).width();
+            // 1024, desktop kicks in
+            var bp = 1024;
+            var toolsw = $('#tools').width()
+            //console.log('>>>>>>', vw, toolsw, bp + toolsw, vw >= bp, vw < bp + toolsw)
+            if (vw >= bp && vw < (bp + toolsw)) {
+               if( $('#stickyunit').css('position')== 'fixed')  $('#stickyunit').css('left', '-60px');
+                // extend cookie bar
+                if ($('#cookie-bar').length) {
+                    $('#cookie-bar').css('width', $('#cookie-bar').width() + toolsw);
+                }
+                //$(window).scrollLeft($(window).width());
+                $('html, body').animate({
+                    scrollLeft: $(window).width()
+                }, 800);
+            }
+            touched = true;
+        }
+    });
+
+
+    iptoolslk.on('click mouseenter', function() {
+
+        open = true;
+        hover = true;
+        tools.show();
+        // scroll window to ip-tools menu
+        var vw = window.innerWidth; //$(window).width();
+        // 1024, desktop kicks in
+        var bp = 1024;
+        var toolsw = $('#tools').width();
+        if (vw >= bp && vw < (bp + toolsw)) {
+if( $('#stickyunit').css('position')== 'fixed')            $('#stickyunit').css('left', '-60px');
+            //$(window).scrollLeft($(window).width());
+            // extend cookie bar
+            if ($('#cookie-bar').length) {
+                $('#cookie-bar').css('width', $('#cookie-bar').width() + toolsw);
+            }
+            $('html, body').animate({
+                scrollLeft: $(window).width()
+            }, 800);
+        }
+
+    });
+    iptoolslk.mouseleave(function() {
+
+        var toolsw = $('#tools').width();
+
+        setTimeout(function() {
+            if (open && focus) {
+                hover = false;
+                return;
+            } else {
+                open = false;
+                // restore cookie bar
+                if ($('#cookie-bar').length) {
+                    $('#cookie-bar').css('width', '100%');
+                }
+              $('#stickyunit').css('left', 'initial');
+                tools.hide();
+
+            }
+        }, 700)
+
+    });
+
+
+    tools.mouseenter(function() {
+        focus = true;
+        open = true;
+    });
+    tools.mouseleave(function() {
+        open = focus = false;
+        setTimeout(function() {
+            var toolsw = $('#tools').width();
+            // restore cookie bar
+            if ($('#cookie-bar').length) {
+                $('#cookie-bar').css('width', '100%');
+            }
+            $('#stickyunit').css('left', 'initial');
+            if (!hover) tools.hide();
+        }, 500);
+    });
+
+
+
+    $('.close').click(function() {
+        var toolsw = $('#tools').width();
+        // restore cookie bar
+        if ($('#cookie-bar').length) {
+            $('#cookie-bar').css('width', '100%');
+        }
+        $('#stickyunit').css('left', 'initial');
+        tools.hide();
+        open = touched = false;
+    });
+
+
+});</script>
 </head>
 <body>
+
+<div class="wrapper">
 <div id="content">
+<script>
+(function($){
+  // close nav on any click except
+  $(document).ready(function() {
+    $(document).on('click', function(e) {
+      if($('.navbar-collapse').css('display') == 'block') {
+          $('.navbar-collapse').collapse('hide');
+      }
+    });
+  });
+})(jQuery);
+
+</script>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <div id="header">
-<ul id="nav">
-<li><a href="http://www.ip-tracker.org/ip-tools.php" id="iptoolslk">IP Tools</a></li>
-<li><a href="http://www.ip-tracker.org/find/email-finder.php">Email Finder</a></li>
-<li><a href="http://www.ip-tracker.org/checker/email-lookup.php">Email Lookup</a></li>
-<li><a href="http://www.ip-tracker.org/lookup/whois-lookup.php">Whois Lookup</a></li>
-<li><a href="http://www.ip-tracker.org/locator/ip-lookup.php">IP Lookup</a></li>
-<li><a href="http://www.ip-tracker.org">IP Tracker</a></li>
-</ul>
-<ul id="tools">
-<li><a href="http://www.ip-tracker.org/lookup/reverse-ip.php">Reverse IP Lookup</a></li>
-<li><a href="http://www.ip-tracker.org/ip-to-location.php">IP To Location</a></li>
-<li><a href="http://www.ip-tracker.org/ip-to-country.php">IP To Country</a></li>
-<li><a href="http://www.ip-tracker.org/lookup/domain-country.php">Domain Country</a></li>
-<li><a href="http://www.ip-tracker.org/domain-to-location.php">Domain To Location</a></li>
-<li><a href="http://www.ip-tracker.org/resolve/ip-to-host.php">IP To Host</a></li>
-<li><a href="http://www.ip-tracker.org/resolve/domain-to-ip.php">Domain To IP</a></li>
-<li><a href="http://www.ip-tracker.org/blacklist-check.php">Blacklist Check</a></li>
-<li><a href="http://www.ip-tracker.org/check/internet-speed.php">Internet Speed</a></li>
-<li><a href="http://www.ip-tracker.org/geolocation/ip-address.php">IP Geolocation</a></li>
-</ul>
+<button type="button" class="navv navbar-toggle collapsed" data-toggle="collapse" data-target="#bar" aria-expanded="false" aria-controls="navbar">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
 <div id="title">IP Tracker</div>
+<div id="bar" class="navbar-collapse collapse" aria-expanded="false" style="height: 1px;">
+<ul id="nav" class="nav navbar-nav">
+<ul id="tools">
+<button class="close">×</button>
+<li><a class="first" href="https://www.ip-tracker.org/lookup/reverse-ip.php">Reverse IP Lookup</a></li>
+<li><a href="https://www.ip-tracker.org/ip-to-location.php">IP To Location</a></li>
+<li><a href="https://www.ip-tracker.org/ip-to-country.php">IP To Country</a></li>
+<li><a href="https://www.ip-tracker.org/lookup/domain-country.php">Domain To Country</a></li>
+<li><a href="https://www.ip-tracker.org/domain-to-location.php">Domain To Location</a></li>
+<li><a href="https://www.ip-tracker.org/resolve/ip-to-host.php">IP To Host</a></li>
+<li><a href="https://www.ip-tracker.org/resolve/domain-to-ip.php">Domain To IP</a></li>
+<li><a href="https://www.ip-tracker.org/blacklist-check.php">Blacklist Check</a></li>
+<li><a href="https://www.ip-tracker.org/check/internet-speed.php">Internet Speed</a></li>
+<li><a href="https://www.ip-tracker.org/geolocation/ip-address.php">IP Geolocation</a></li>
+</ul>
+<li><a class="" href="https://www.ip-tracker.org/ip-tools.php" id="iptoolslk">IP Tools <span class="nav-chevron"></span></a></li>
+<li><a class="" href="https://www.ip-tracker.org/find/email-finder.php">Email Finder</a></li>
+<li><a class="" href="https://www.ip-tracker.org/checker/email-lookup.php">Email Lookup</a></li>
+<li><a class="" href="https://www.ip-tracker.org/lookup/whois-lookup.php">Whois Lookup</a></li>
+<li><a class="" href="https://www.ip-tracker.org/locator/ip-lookup.php">IP Lookup</a></li>
+<li><a class="" href="https://www.ip-tracker.org">IP Tracker</a></li>
+</ul>
+</div>
 <div id="slogan">Lookup, Find, Track &amp; Trace IP Address with powerful IP tracking technology
 and IP tracer from IP-Tracker.org</div>
-</div>
-
+</div> 
 <div id="path">
 </div>
 <div id="rekl">
 <div class="adlink">&nbsp;</div>
 <div id="rekloin">
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-7304917892182792";
-/* IP-Trc-Links-TOP */
-google_ad_slot = "3335930592";
-google_ad_width = 728;
-google_ad_height = 15;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7304917892182792" data-ad-slot="3250790621" data-ad-format="link"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </div>
 </div>
@@ -98,14 +322,10 @@ the time you visited our site and which pages you visited throughout our site.
 </div>
 </div>
 <div id="stickyunit">
-<script type="text/javascript">
-    google_ad_client = "ca-pub-7304917892182792";
-    google_ad_slot = "1958318593";
-    google_ad_width = 160;
-    google_ad_height = 600;
-</script>
 
-<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7304917892182792" data-ad-slot="8319888081" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </div>
 <div id="content">
@@ -142,7 +362,7 @@ We use third party advertisement (only from Google Adsense) on IP-Tracker.org to
 <li>Google's use of DART cookies for ad serving through Google’s DoubleClick enables it and its partners to serve ads to your users based on
 their visit to IP-Tracker.org and/or other sites on the Internet.</li>
 <li>Users may opt out of the use of the DoubleClick DART cookie for interest-based advertising by
-visiting - <a href="http://www.google.com/privacy_ads.html" rel="nofollow">http://www.google.com/privacy_ads.html</a></li>
+visiting - <a href="https://www.google.com/privacy_ads.html" rel="nofollow">https://www.google.com/privacy_ads.html</a></li>
 </ul>
 <p>
 Deleting cookies does not mean you are permanently opted out of any advertising program.
@@ -161,23 +381,19 @@ to edit the preferences</p>
 IP-Tracker.org reserve the right to make changes to its Privacy Policy at any time.
 So please review this page frequently for any changes in our Privacy Policy.
 If you have any questions about our website or our privacy policy,
-please feel free to <a href="http://www.ip-tracker.org/contact.php">contact us</a>.
+please feel free to <a href="https://www.ip-tracker.org/contact.php">contact us</a>.
 </p>
 <div class="adunit">Advertisements</div>
-<div align="center" style="margin-top:5px; margin-bottom:10px">
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-7304917892182792";
-/* IP-Trc-Privacy-Policy-BC */
-google_ad_slot = "3364453399";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+<div class="ad-728x90">
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7304917892182792" data-ad-slot="7091826071" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </div>
 <hr>
 <br>
+<script src="bs/nav/js/bootstrap.js"></script>
 
 <div class="addthis_toolbox addthis_default_style">
 <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
@@ -188,24 +404,34 @@ google_ad_height = 90;
 <a class="addthis_counter addthis_pill_style"></a>
 </div>
 <script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
-<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50114ca06d4b924a#async=1"></script>
+<script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50114ca06d4b924a#async=1" defer="true"></script>
 <script type="text/javascript">
 function loadAddThis() {
     addthis.init()
 }
 </script>
 </div>
+<a id="back-to-top" href="#" class="back-to-top" role="button" title="Click to return on the top page"><i class="chevron chevron—left"></i>
+
+</a>
+<div class="backbtn-btm">
 <div id="footer">
 <div id="copyrightdesign" align="center">
-<a href="http://www.ip-tracker.org">IP Tracker</a>
-- <a href="http://www.ip-tracker.org/tracer/trace-ip.php">Trace IP</a>
-- <a href="http://www.ip-tracker.org/privacy-policy.php">Privacy Policy</a>
-- <a href="http://www.ip-tracker.org/contact.php">Contact</a>
+<a href="/">IP Tracker</a>
+- <a href="tracer/trace-ip.php">Trace IP</a>
+- <a href="privacy-policy.php">Privacy Policy</a>
+- <a href="contact.php">Contact</a>
 <hr>
 </div>
 <div id="footercontact">
-Copyright © 2012 - 2015 IP Tracker. All rights reserved.
+Copyright © 2012 - 2018 IP Tracker. All rights reserved.
 </div>
 </div>
 
-</div></body></html>
+</div>
+
+</div>
+
+</div>
+
+</body></html>
