@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrarail.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320061325id_/https%3A//www.metrarail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrarail.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028034345id_/https%3A//www.metrarail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Metra
 
