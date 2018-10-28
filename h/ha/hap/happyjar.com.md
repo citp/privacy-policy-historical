@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happyjar.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319125420id_/http%3A//www.happyjar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyjar.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028184725id_/http%3A//www.happyjar.com/privacy) for the most accurate reproduction.*
 
 # Happy Jar | Privacy Policy
 
