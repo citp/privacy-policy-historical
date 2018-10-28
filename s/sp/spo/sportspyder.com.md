@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportspyder.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624031858id_/http%3A//sportspyder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportspyder.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028031544id_/http%3A//sportspyder.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | SportSpyder
 
