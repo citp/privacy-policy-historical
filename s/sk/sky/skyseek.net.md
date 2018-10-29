@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyseek.net privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029011649id_/http%3A//skyseek.net/blog.php%3Fpost%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyseek.net privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030000141id_/http%3A//skyseek.net/blog.php%3Fpost%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Skyseek.net. Compare prices, make a wise choice.
 
