@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsonitcertification.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615060504id_/http%3A//www.pearsonitcertification.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonitcertification.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029124200id_/http%3A//www.pearsonitcertification.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Notice | Pearson IT Certification
 
