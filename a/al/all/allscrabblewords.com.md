@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allscrabblewords.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624005606id_/http%3A//www.allscrabblewords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allscrabblewords.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029133156id_/http%3A//allscrabblewords.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Unscramble Scrabble Words | Word Decoder, Unscrambler, and Finder for Scrabble and Text Twist
 
