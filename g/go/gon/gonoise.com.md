@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gonoise.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607005418id_/http%3A//www.gonoise.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonoise.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029042829id_/https%3A//www.gonoise.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Gonoise
+# Gonoise Privacy Policy & Terms and Conditions
 
 [Gonoise.com](http://www.gonoise.com/) and its affiliates respect your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by Gonoise.com. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Gonoise.com you agree to the collection and use of your data by Gonoise.com in the manner provided in this Privacy Policy.
 
