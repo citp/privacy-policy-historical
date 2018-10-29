@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fjallraven.us privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128171442id_/https%3A//www.fjallraven.us/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fjallraven.us privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029074322id_/https%3A//www.fjallraven.us/pages/privacy) for the most accurate reproduction.*
 
-# Privacy – Fjallraven
+# Privacy – Fjällräven
 
 PRIVACY STATEMENT
 
@@ -19,10 +19,9 @@ When you provide us with personal information to complete a transaction, verify 
 If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no. 
 
 How do I withdraw my consent?  
-If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@fjallraven.us or mailing us at:  
-Fjällräven  
-262 Mott St  
-262 Mott St New York, NY 10012
+If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at weborders@fjallraven.us or mailing us at:  
+Fjällräven USA  
+1900 Taylor Ave.
 
 SECTION 3 - DISCLOSURE
 
@@ -78,10 +77,9 @@ If our store is acquired or merged with another company, your information may be
 QUESTIONS AND CONTACT INFORMATION
 
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@fjallraven.us or by mail at   
-Fjällräven  
+Fjällräven USA  
 [Re: Privacy Compliance Officer]   
-[262 Mott St  
-262 Mott St New York, NY 10012  
+1900 Taylor Ave. Louisville, CO 80027  
 \----
 
 ADDENDUM
