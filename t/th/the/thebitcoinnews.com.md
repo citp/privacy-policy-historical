@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thebitcoinnews.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911101351id_/https%3A//thebitcoinnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebitcoinnews.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029073645id_/https%3A//thebitcoinnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Bitcoin News - Leading Bitcoin and Crypto News since 2012
+# Privacy Policy - The Bitcoin News
 
 **PRIVACY POLICY**
 
@@ -42,11 +42,11 @@ In order to provide you with customized service, we make use of “cookies.” 
 
 **7.        Your Right to See and Correct Information**
 
-If you wish to see the information we collect about you, please contact us at privacy@TheBitcoinNews.com.  If you feel the information is incorrect, please send any corrections to us at privacy@TheBitcoinNews.com.  We will either update your information or include your correction with any information we store or use.
+If you wish to see the information we collect about you, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  If you feel the information is incorrect, please send any corrections to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  We will either update your information or include your correction with any information we store or use.
 
 **8.        No Email Requests for Personal Information **
 
-As you know, consumers are increasingly targeted by unscrupulous persons attempting to acquire sensitive personal or financial information, by impersonating legitimate businesses. We will never send you an unsolicited email or other communication requesting your private information. If you receive a communication directing you to enter your personal information, please disregard the instruction and contact us immediately at privacy@TheBitcoinNews.com.
+As you know, consumers are increasingly targeted by unscrupulous persons attempting to acquire sensitive personal or financial information, by impersonating legitimate businesses. We will never send you an unsolicited email or other communication requesting your private information. If you receive a communication directing you to enter your personal information, please disregard the instruction and contact us immediately at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **9.       Encryption and Authentication **
 
@@ -68,14 +68,11 @@ We may change this Privacy Policy at any time by posting the revised Privacy Pol
 
 If you have questions about our privacy policy, please contact us:
 
-By email:  privacy@TheBitcoinNews.com
+By email:  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 By mail:
 
 TheBitcoinNews.com is operated by:  
-BridgeWard AG  
-Feffetstrasse 14  
-CH-9464 Rüthi  
-Switzerland
+Blockchain Media Group SL. Spain
 
-**22.8.2017**
+**26.5.2018**
