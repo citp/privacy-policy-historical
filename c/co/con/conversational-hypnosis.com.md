@@ -1,80 +1,21 @@
-> *The following text is extracted and transformed from the conversational-hypnosis.com privacy policy that was archived on 2010-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100726111245id_/http%3A//conversational-hypnosis.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversational-hypnosis.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029094730id_/http%3A//www.hypnosistrainingacademy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Conversational-Hypnosis.com
+# Privacy Policy - Hypnosis Training Academy
 
-**What information do you collect automatically?**
+We are committed to protecting your privacy and security and have explained in detail the steps we take to do so. We control this site from offices in the Seychelles. We do not represent that materials on the site are appropriate or available for use in other locations. Persons who choose to access this site from other locations do so on their own initiative, and are responsible for compliance with local laws, if and to the extent local laws are applicable.
 
-For each visitor to our web page, our web server automatically  
-recognizes the consumer's domain name but not the e-mail address.  
-It also logs aggregate information on what pages consumers  
-access or visit, but does not record. which pages  
-individual consumers access or visit.
+ **Outside Sites (Their Privacy Policies May Be Different)**
 
-**What other information do you collect?**
+The Site contains links to other websites, like our sponsor’s websites or links to booksellers, that may offer products or services that our customers might find useful. These sites may request information from you. In such instances, the collection and use of your personal information will be governed by the privacy policy applicable to that site. We do not control the privacy policies, contents or links that appear on these sites. We encourage you to review the privacy policies of any third party sites or services before providing any of them with your personal information.
 
-You can voluntarily chose to become a registered customer.  
-In doing so, we collect your name and e-mail address. We  
-also collect the email addresses of those who communicate  
-with us via e-mail, and profile information volunteered  
-by the consumer.
+ **How and why we collect information**
 
-**What do you do with this information?**
+We collect your information in order to record and support your participation in the activities you select. If you register for a seminar, for example, the information is used to reserve your seat, to track your preferences, and to keep you informed about the seminar and related events. As a visitor to our Sites, you can engage in many activities without providing any personal information. In connection with other activities, such as utilizing registering for a seminar or participating in a sweepstakes, we may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, we may ask that you provide us personal information, such as your first and last name, mailing address (including ZIP code), e-mail address, telephone, credit card, and other personal information. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity. In all cases, we will collect personal identification information from you only if you voluntarily submit such information to us. We will also tell you how we use your information or if we share it with another party. Except as otherwise provided in this policy, we will never intentionally disclose any personal identification information about you as an individual user to any third party without having received your permission. If you supply us with your contact information you may receive periodic e-mails, mailings or calls from us with information on new products and services, important issues, or upcoming events. If you wish to be removed from any postal, email, phone, or other lists, please let us know by emailing us at hypnosis@getquicksupport.com. You can also write us or call us at the contact information above. Please provide us with your exact name, email address, mailing address, and phone. We will be sure your name is removed from the appropriate lists immediately. When you use our Sites, we or our authorized technology services provider may also collect certain technical and routing information from you to facilitate your use of the Site and its services. We use this information to administer the Site and to understand and measure traffic patterns on the Site so that we know which areas of our sites are favorites of our users, which areas need improvement, and what technologies are being used so that we may continually improve our sites. This information is collected in aggregate form, without identifying you or any user individually. We may use this aggregate, non-identifying statistical data for statistical analysis, marketing, or similar promotional purposes. This data is often tracked by us our our technology services provider by using “cookies” during your visit. A cookie is small amount of data that is transferred to your browser by a web server and can only be read by the server that gave it to you. It functions as your identification card and enables us to record your passwords, purchases, and preferences. It cannot be executed as code or deliver viruses. Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (For some web pages that require an authorization, cookies are not optional. Users choosing not to accept cookies will probably not be able to access those pages.
 
-The information we collect is used for internal review  
-and to improve the content of our web page. The information  
-we collect is NEVER shared with other persons, companies,  
-or organizations.
+ **Exceptions to Privacy Policy**
 
-**Do you use cookies?**
+While we are committed to keeping your information secure and private, we have the following exceptions to our privacy policy: We will release specific information about you or your account to comply with any valid legal inquiry or process such as a search warrant, subpoena, statute or court order. We will also release specific information in special cases, such as if there is an attempted breach of the security of the Sites, or a physical or property threat to you or others. We may also transfer user information, including personally identifiable information, in connection with a corporate merger, consolidation, the sale of related assets or corporate division or other fundamental corporate change. Further, the information you enter when making a purchase or an online donation will be shared with payment processors, financial gateways, and your credit card company to authorize credit card payments. Such information may also be shared with necessary third parties solely for the purpose or carrying out the transactions. Please note that if you give out personal information online through a discussion board or posting site, that information can be collected and used by third parties. Although we strive to protect our users’ privacy, we cannot guarantee the security of information you post in these forums. You disclose such information at your own risk.
 
-We use cookies to store certain information about registered  
-members, visitors preferences, and to customize web page  
-content based on the visitors' browser type or other  
-information that the visitor sends. All cookies are  
-encrypted so they can't be used by another website.
+ **Miscellaneous**
 
-  
-**Do you store any private or financial customer information?**
-
-No - all financial transactions are operated through  
-ClickBank or Paypal on 256bit encrypted servers - We  
-never see or keep any of your financial details
-
-**What do you do with my personal information?**
-
-All of the information collected remains confidential  
-and is not shared with anyone other than the web site owner.  
-We do not sell your personal information, but we do use  
-it for marketing purposes. We send newsletters and other  
-important system messages via email, but you have the  
-option of not receiving these messages. This information  
-is used for internal marketing purposes and to provide  
-services to our customers.
-
-**Do you partner with ad services which may collect  
-information about me?**
-
-Never.
-
-**Can I find out what information you have about me?**
-
-Upon request we provide site visitors with access to  
-all information [including proprietary information]  
-that we maintain about them, including unique  
-identifier information (e.g., customer number or  
-password) that we maintain about them, transaction  
-information (e.g., dates on which customers made purchases,  
-amounts and types of purchases) that we maintain about them,  
-contact information (e.g., name, email address) that we  
-maintain about them, and a complete description of all  
-of the information that we maintain about them.
-
-Consumers can access this information by sending a message  
-to our support centre at [http://www.getquicksupport.com](http://www.getquicksupport.com/) We  
-will attempt to verify the identity of the person requesting  
-your information before we provide said information.  
-Consumers can have this information corrected by  
-sending us e-mail at the above address.  
-
-
-© conversational-hypnosis.com.com
+These terms will be governed by and construed in accordance with the laws of the Seychelles, without regard to any principles of conflicts of law. You agree that any action at law or in equity that arises out of or relates to these terms will be subject to mediation in the Seychelles. If any of these terms of use are found unlawful, void, or for any reason unenforceable, then that provision will be considered severable from the remaining terms of use, and will not affect the validity and enforceability of the remaining provisions. These terms may be modified only by our posting of changes to these terms of use on our Sites.
