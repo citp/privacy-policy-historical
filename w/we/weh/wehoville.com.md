@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wehoville.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614022720id_/https%3A//www.wehoville.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wehoville.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029232716id_/https%3A//www.wehoville.com/privacy-policy) for the most accurate reproduction.*
 
 # WEHOville | Privacy Policy
 
@@ -85,4 +85,4 @@ Some of the material on this Site is for mature audiences, and parents and guard
 
 ### Questions?
 
-If you have any questions or concerns about this privacy policy, you may contact us at: [henry@wehoville.com](https://web.archive.org/web/20180614022720id_/https://www.wehoville.com/privacy-policy/mailto@henry@wehoville.com).
+If you have any questions or concerns about this privacy policy, you may contact us at: [henry@wehoville.com](https://web.archive.org/web/20181029232716id_/https://www.wehoville.com/privacy-policy/mailto@henry@wehoville.com).
