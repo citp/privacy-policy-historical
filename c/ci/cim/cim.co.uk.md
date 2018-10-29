@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cim.co.uk privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519033429id_/https%3A//www.cim.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cim.co.uk privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029084042id_/https%3A//www.cim.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy | CIM
+# Privacy Policy | CIM
 
 We will only share your data with third parties for the purposes of delivering our services, fulfilling any contracts we enter with you, where required by law or to enforce our legal rights.
 
@@ -27,13 +27,14 @@ CIM will only disclose your information to print and fulfilment companies who ar
 
 ### Payment information
 
-CIM does not store credit/debit card details nor does it share financial details with any third parties. However, it may (in appropriate circumstances) use certain other companies to provide services to you, such as a credit card processing company or a Direct Debit service. These companies do not retain, share, store or use personal information for any purposes other than to provide this service to CIM.
+CIM does not store credit/debit card details, except for the purposes of processing bookings for Moor Hall Conference Centre guests, when these details are stored securely and destroyed following payment. CIM does not share financial details with any third parties. However, it may (in appropriate circumstances) use certain other companies to provide services to you, such as a credit card processing company or a Direct Debit service. These companies do not retain, share, store or use personal information for any purposes other than to provide this service to CIM.
 
 ### Research
 
 CIM may share your details with third parties for the purposes of conducting research on our behalf, including membership surveys, only when you have consented to your data being processed in this way. You may change your preferences at any time via our website.
 
-Qualification assessment details  
+### Qualification assessment details
+
 Studying members’ examination grades will be shared with their CIM Accredited Study Centre (the educational institution which delivered the CIM qualification) and with the Department for Education. This data may also be shared with our Regulators: OfQual, CEA, Qualification Wales in the event of any investigations.
 
 ### Verification requests
