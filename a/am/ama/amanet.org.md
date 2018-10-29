@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amanet.org privacy policy that was archived on 2018-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180418023314id_/http%3A//www.amanet.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amanet.org privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029053933id_/https%3A//www.amanet.org/privacy.aspx) for the most accurate reproduction.*
 
 # AMA - Privacy Policy
 
