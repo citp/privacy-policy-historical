@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strongholdkingdoms.com privacy policy that was archived on 2018-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180228193007id_/https%3A//www.strongholdkingdoms.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongholdkingdoms.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029112543id_/https%3A//www.strongholdkingdoms.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Stronghold Kingdoms - Privacy Policy
 
@@ -99,15 +99,15 @@ We strive to maintain the reliability, accuracy, completeness and currency of Pe
 
 12\.                         Data Access
 
-Upon receipt of your written request and enough information to permit us to identify your Personal Data, we will (subject to the exceptions to the requirement to disclose under the DPA) disclose to you the Personal Data we hold about you, for which we may make a small charge.
+Upon receipt of your written request and enough information to permit us to identify your Personal Data, we will (subject to the exceptions to the requirement to disclose under the DPA) disclose to you the Personal Data we hold about you.
 
 Requests to delete Personal Data are subject to any applicable legal and regulatory requirements or document retention obligations and any of our current contracts which are still in force.
 
-If you wish to make a subject access request relating to Personal Data held about you by FireFly, please email [dataprotectionofficer@fireflyworlds.com](mailto:dataprotectionofficer@fireflyworlds.com).
+If you wish to make a subject access request relating to Personal Data held about you by FireFly, please email [dataprotection@fireflyworlds.com](mailto:dataprotection@fireflyworlds.com).
 
 13\.                         Inaccurate Data
 
-We encourage you to ensure that your Personal Data is accurate and kept up to date so please regularly update any information you have given to us by sending an email to [dataprotectionofficer@fireflyworlds.com](mailto:dataprotectionofficer@fireflyworlds.com), or by writing to us. We will correct, amend or delete any Personal Data that you notify us is inaccurate and notify any third party recipients of necessary changes.
+We encourage you to ensure that your Personal Data is accurate and kept up to date so please regularly update any information you have given to us by sending an email to [dataprotection@fireflyworlds.com](mailto:dataprotection@fireflyworlds.com), or by writing to us. We will correct, amend or delete any Personal Data that you notify us is inaccurate and notify any third party recipients of necessary changes.
 
 14\.                         Links to other websites
 
@@ -131,8 +131,8 @@ This Privacy Policy forms part of our websites terms and conditions for the supp
 
 18\.                         Feedback
 
-We welcome comments about this Privacy Policy.  If you have any questions about this Privacy Policy, or any part of our service, you may contact us by emailing [dataprotectionofficer@fireflyworlds.com](mailto:dataprotectionofficer@fireflyworlds.com).
+We welcome comments about this Privacy Policy.  If you have any questions about this Privacy Policy, or any part of our service, you may contact us by emailing [dataprotection@fireflyworlds.com](mailto:dataprotection@fireflyworlds.com).
 
 Visiting Firefly Internet websites and using our on-line services indicates your acceptance of our Privacy Policy.  If you do not accept this Privacy Policy, please do not visit our Internet websites or use our on-line services.
 
-**This Privacy Policy was last updated on November 15th, 2013.**
+**This Privacy Policy was last updated on June 7th, 2018.**
