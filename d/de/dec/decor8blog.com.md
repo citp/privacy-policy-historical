@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decor8blog.com privacy policy that was archived on 2018-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180301121811id_/https%3A//www.decor8blog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decor8blog.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029232854id_/https%3A//www.decor8blog.com/privacy) for the most accurate reproduction.*
 
 # Privacy — decor8
 
