@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelistauction.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228080123id_/http%3A//thelistauction.com/content/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelistauction.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029134532id_/http%3A//thelistauction.com/content/privacy_policy.php) for the most accurate reproduction.*
 
 # The List Auction - Privacy Policy
 
@@ -98,4 +98,4 @@ Revisions to This Policy: Our company reserves the right to revise, amend, or mo
 
 Last updated: **May 16, 2008**
 
-Copyright © 2003-2017 internetmarketinglawproducts.com for Michael Purvis
+Copyright © 2003-2018 internetmarketinglawproducts.com for Add2it.com Marketing Pty Ltd
