@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkbucksmedia.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209041124id_/http%3A//linkbucksmedia.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkbucksmedia.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029185234id_/https%3A//linkbucksmedia.com/policy) for the most accurate reproduction.*
 
 # Linkbucks.com - Make money when people leave your website!
 
@@ -72,6 +72,6 @@ Linkbucks.com, LLC
 Culver City, CA 90232  
 (951) 262-3013 
 
-<http://www.linkbucks.com/contact/>
+[https://www.linkbucks.com/contact/](https://web.archive.org/contact/)
 
 This document was last updated on August 16, 2012 
