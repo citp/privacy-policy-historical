@@ -1,72 +1,137 @@
-> *The following text is extracted and transformed from the best-amateur-videos.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625135756id_/http%3A//www.ccbill.com/cs/policies/PP-consumer-english.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-amateur-videos.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029150827id_/http%3A//www.ccbill.com/cs/policies/PP-consumer-english.html) for the most accurate reproduction.*
 
 # CCBill Consumer Privacy Policy
 
-In order to provide Internet billing services, CCBill must collect, use, and share certain information about you. This policy explains what we collect, who we share it with, and how you can contact CCBill in order to ensure the accuracy of the data we collect, use, and share. The information CCBill collects from you helps CCBill better serve you and the online community by continually updating the electronic payment services CCBill provides. The data that CCBill collects and maintains is as follows:
+## Instructions
 
-## Information That You Provide to Us
+CCBill, LLC ("CCBill") needs to gather and use certain information about individuals. This information can include customers, suppliers, business contact, employees and other people the organization has a relationship with or may need to contact. This policy describes how this personal data must be collected, handled and stored to meet the company’s data protection standards – and to comply with the law.
 
-CCBill receives and stores all information that you enter on our sign-up (join) pages except for security items such as Visa's CVV2. This includes:
+## Why this Policy Exists
 
-  1. **Credit Card Sign-Up Page for Digital Products.** The Web site you are purchasing an e-ticket for, your e-mail address, language preference, credit card number, expiration date, first name, last name, address, city, state, zip, country, your username and password, and your agreement to be bound by CCBill 's Terms and Conditions.
-  2. **Check Sign-Up Page.** The Web site you are purchasing an e-ticket for, your e-mail address, language preference, first name, last name, address, city, state, zip, country, your bank's ABA routing number, your account number, the type of account, your username and password, and your agreement to be bound by CCBill 's Terms and Conditions. 
+This data protection policy ensures CCBill:
 
-
-
-## Information You Provide to Us That We Share With Our Clients
-
-CCBill receives, stores, and forwards to our client all information necessary for our client to ship your product to you, and to contact you if necessary. We do not forward credit card number information including items such as Visa's CVV2.
-
-  1. **Credit Card sign up page Tangible products.** The Web site you are purchasing a tangible, and shipable product from, your primary phone number, your e-mail address, language preference, first name, last name, shipping address, city, state, zip, country, your username and password, and your agreement to be bound by CCBill's Terms and Conditions. 
+  * Complies with data protection law and follows good practice
+  * Protects the rights of staff, customers and partners
+  * Is transparent about how it stores and processes individuals personal data
+  * Protects itself from the risk of a data breach
 
 
 
-## Information That We Automatically Receive
+## The General Data Protection Regulation
 
-CCBill receives and stores certain information whenever you download Web pages, purchase products or send us e-mail or forms. For example:
+The EU General Data Protection Regulation (GDPR) replaces the Data Protection Directive 95/46/EC and was designed to harmonize data privacy laws across Europe, to protect and empower all EU citizens’ data privacy and to reshape the way organizations across the region approach data privacy. The GDPR aims primarily to give control back to citizens and residents over their personal data and to simplify the regulatory environment for international business by unifying the regulation within the EU.
 
-  1. We identify the numerical IP address assigned to your computer by your Internet Service Provider. 
-  2. **E-mail Correspondence.** CCBill often requests a confirmation when you receive and open an e-mail communication delivered by CCBill. We archive all e-mail sent in and out of our network, and we identify the origination IP address of all mail sent into our network. We require that you refrain from "forging headers" or sending "SPAM". 
+## What is "Personal Data"?
+
+"Personal data" is defined in both the Directive and the GDPR as any information relating to a person who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that person. So in many cases online identifiers including IP address, cookies and so forth will now be regarded as personal data if they can be (or are capable of being) without undue effort linked back to the data subject.
+
+1\. Information collection and tracking
+
+1.1. When you visit our website.
+
+You can visit our website (www.ccbill.com) without giving away your personal information. CCBill uses Google Analytics and Cookies in order to improve our service, user experience and analyze how our website is used. Aside from the approximate location (IP address), the information collected by Google Analytics is mostly anonymous traffic data including browser information, device information, language. We do not collect additional information, such as your age, gender, interests, bank details or clickstream.
+
+The collected information is used to provide an overview of how people are accessing and using the CCBill website. It is not used for any additional purpose, such as to profile those who access our website.
+
+2\. When you contact us
+
+While you can use our website without giving out your personal information, once you contact us via the CCBill website, CCBill collects information about you.
+
+The information you fill in (personal information such as your name, email address, organization) will be processed and stored so that it is possible for us to contact and respond to your request, and/or allow you access to our services.
+
+2.1. Recruitment
+
+If you apply for a job with CCBill, we will collect, process and store the information you have sent us for recruitment-related purposes, such as contacting you. Additionally, CCBill may keep your data for a period of time for the purpose of considering you for a different opportunity.
+
+3\. Social media plug-ins
+
+Our website features two plug-ins for easy sharing and following our social media pages: Facebook, operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA; and LinkedIn, operated by LinkedIn, 2029 Sterling Court Mountain View, CA 94043 United States.
+
+Being on our website does not automatically result in sharing data on these social media networks. These plugins remain inactive (idle) until clicked upon. Once clicked upon, you will be taken to the said social media networks with their own specific privacy policies you are recommended to consult.
+
+4\. Information Security
+
+CCBill cares to ensure the security of personal data.  When CCBill collects information about you, we also make sure that your information is protected from unauthorized access, loss, manipulation, falsification, destruction or unauthorized disclosure. This is done through appropriate technical measures.
+
+5\. Access to Information
+
+You have the right to request access to the information we have on you. You can do this by contacting us at [dpo@ccbill.com](mailto:dpo@ccbill.com). We will make sure to provide you with a copy of the data we process about you. In order to comply with your request, we may ask you to verify your identity. We will fulfil your request by sending your copy electronically, unless the request expressly specifies a different method. For any subsequent access request, we may charge you with an administrative fee.
+
+6\. Information Correction & Deletion
+
+If you believe that the information we have about you is incorrect, you are welcome to contact us so we can update it and keep your data accurate. Any data that is no longer needed for the purposes specified in Information Collection and Use will be deleted.
+
+If at any point you wish for CCBill to delete information about you, you can simply contact us.
+
+7\. When this Privacy Policy applies
+
+This Privacy Policy is applicable to the services offered by CCBill directly via our website. Our website may contain links to other websites. Once redirected to another website, this Policy is no longer applicable.
+
+This version of the Privacy Policy is effective from February 2018.
+
+8\. Do We Share Personal Data?
+
+CCBill may share your Personal Data (name, address and email) with unaffiliated third parties as provided in this section of the Privacy Policy. The reason we share this information with your information varies based on the relationship CCBill maintains with the respective party, which include the following reasons:
+
+**Financial Institutions** : CCBill may share Personal Data with Financial Institutions that we have partnered with to jointly create and offer a product or service. These financial institutions are not allowed to market and/or offer other products or services other than those offered by CCBill.
+
+**Parties to Transactions** : CCBill may share information with parties to your transaction, including the operators of websites delivering your purchased product. This information includes:
+
+  * Personal Data necessary to facilitate the transaction;
+  * Information to help other participants resolve disputes and detect and prevent fraud;
+  * Aggregated data and performance analytics to help merchants better understand Users and to help Merchants enhance Users’ experience.
 
 
 
-## Information From Third Parties
+**As Permitted or Required by Law** : CCBill may share information about you with third parties for CCBill’s business purpose or required by law, including:
 
-From time to time, CCBill may request and receive information from third parties and compare it to the information that you have provided. The main purpose for this is loss prevention.
-
-## Protection of Your Privacy
-
-CCBill will release data when we believe the release is appropriate to comply with the law, enforce our Agreement, and protect the contract rights of our Clients.CBill passes the following data to the owner/operator of the Web site from which you are purchasing services, or products utilizing CCBill's services:
-
-  1. Credit card sign-up page information including the Web site you are purchasing an e-ticket or tangible Product for, your primary phone number, your e-mail address, language preference, first name, last name, address, city, state, zip, country, your username and password, and your agreement to be bound by CCBill 's terms and conditions. 
-  2. Check sign-up page information including the Web site you are purchasing an e-ticket for, your phone number, your e-mail address, language preference, first name, last name, address, city, state, zip, country, your username and password, and your agreement to be bound by CCBill's terms and conditions. CCBill does not currently accept online checks for the purchase of tangible goods. 
-
+  * Comply with the law, legal process or regulations; 
+  * Law enforcement authorities or other government officials, or other third parties, subject to a subpoena, court order or other legal process or requirement applicable to CCBill.
+  * Investigate violations of our Consumer Agreement or other legal terms applicable to any service;
+  * To help assess and manage risk and prevent fraud against us, our Users and fraud involving our service provided, including fraud that occurs at or involves consumers and merchants. 
+  * Protect our property, Services and legal rights; 
+  * In connection with shipping and related services for purchases made using a service.
+  * To support our audit, compliance and corporate governance functions.
 
 
-It is your obligation to provide CCBill with accurate and up-to-date information, and failure to provide us with such information could void any Agreement between you and CCBill. We use the information that you provide for such purposes as processing your e-ticket request or tangible products purchase, responding to customer service inquiries, loss prevention, improving our service, communicating with you, and allowing our clients to provide customer service and fulfill their obligations to you. CCBill's employees have access to your information on a need-to-know basis. CCBill will not sell your information to an independent third party for any reason. CCBill's clients utilize your information to make and track order fulfillment and provide customer service.
 
-In addition, CCBill, as part of the credit card processing system must provide limited information to the services that connect it to the companies that perform the banking functions. The credit card associations have strict privacy rules that these companies must adhere to in order to be authorized to receive and process credit card transactions. CCBill will never knowingly provide your credit card or bank account information outside of this system.
+9\. Changes
 
-CCBill employs the latest and best techniques available for protecting its systems from intrusion by unauthorized individuals, and is constantly upgrading its security as better methods become available. All information is stored behind firewalls and other sophisticated security systems. In addition, our data center utilizes state-of-the-art physical security measures to prevent unauthorized access to the facility.
+We reserve the right to change this Privacy Policy. We constantly review our Privacy Policy and strive towards making it better. CCBill will not reduce your rights stated in this Policy without asking for explicit prior consent to the changes. All changes to our Privacy Policy will be available on this website. You can access the previous versions of this Policy here.
 
-CCBill does not request, or knowingly collect identifiable information from children under the age of 18. CCBill does not knowingly use or share personal information from users under the age of 18 with third parties. CCBill does not offer children any promotions involving games, prizes, or any other activity that would induce a child to divulge personal information.
+10\. To Sum Up
 
-CCBill reserves the right to change, modify or amend this policy at any time. CCBill takes privacy matters very seriously, and intends to stay at the forefront of privacy policy and protection matters. We will occasionally update our privacy policy and we will post those updates on this page. You are responsible for revisiting this page to review our privacy policy updates.
+In accordance with applicable law, we only collect a limited amount of information about you that is necessary for improving our service. We do not use profiling, we do not sell or in any other way spread your data to third parties, and we do not use your data for purposes other than what we specified. We also make sure that your data is stored securely. We delete all information deemed no longer necessary. We constantly review our Privacy Policy in order to make it better and protect you more.
 
-Questions regarding the information CCBill has stored about you should be in writing, and addressed to:
+11\. You can contact us at any time to:
 
-| 
+  * Request access to information that CCBill has about you
+  * Correct any information that CCBill has about you
+  * Delete information that CCBill has about you
 
-**CCBill, LLC.**  
+
+
+If you have any additional questions about CCBill’s collection and storage of data, please contact us at:
+
+CCBill  
 2353 West University Drive  
-Tempe, AZ, USA 85281-7223  
-Telephone: 1.480.449.7751  
-Fax: 1.480.449.8801
+Tempe, Arizona USA  
+85281  
+[dpo@ccbill.com](mailto:dpo@ccbill.com)  
 
-| **CCBill EU, LTD.**  
-First Floor,  
-CC Buildings  
-Palm Street,  
-Paola PLA 1411, Malta  
-Telephone: 1.888.596.9279  
----|---
+
+## Glossary of terms
+
+Cookies
+
+Cookies are small files or other pieces of data which are downloaded or stored on your computer or other device that can be tied to information about your use of our website (including certain third party services and features offered as part of our website).
+
+Device
+
+A device is what you use to reach our website, such as a smartphone, tablet or computer.
+
+IP address
+
+Internet Protocol (IP) address is a number that is connected to your device. An IP address can be used to determine the location of your device typically within a 40km radius, thus not being an exact determination of your location. IP addresses are basically how the Internet functions.
+
+Personal information Personal information is information that can identify you. This can be your name, email, contact information or other type of information that can be traced back to you.
