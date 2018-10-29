@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiseidogroup.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623103849id_/http%3A//www.shiseidogroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiseidogroup.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030000155id_/https%3A//www.shiseidogroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice | Shiseido group website
 
@@ -10,7 +10,7 @@ Based on the belief that Shiseido Co., Ltd., Shiseido Japan Co., Ltd. and FT Shi
 
 We may ask for certain personal information from our customers, shareholders and business partners, as appropriate, which will be kept, managed and used by us. Furthermore, we acquire, keep, manage and use personal information of our employees to the extent necessary for the execution of our business activities.
 
-In general, when acquiring personal information, we will make the “purpose of use”and the “scope of use” of such information clear in advance and make them known to the individual concerned together with our Contact Information. Then we will acquire relevant personal information to the extent necessary for the accomplishment of the purpose of use, and take measures not to use the information for any purposes other than the original intent.
+In general, when acquiring personal information, we will make the “purpose of use” and the “scope of use” of such information clear in advance and make them known to the individual concerned together with our Contact Information. Then we will acquire relevant personal information to the extent necessary for the accomplishment of the purpose of use, and take measures not to use the information for any purposes other than the original intent.
 
 The “purpose of use” and the “scope of use” of personal information at Shiseido and our contact information are as set forth in “9. Purpose of Use of Personal Information” and “13. Contact for Personal Information” below in this Privacy Policy.
 
@@ -18,7 +18,7 @@ The “purpose of use” and the “scope of use” of personal information at S
 
 Shiseido will manage all personal information in a proper manner. In principle, unless otherwise stipulated by laws, we will never disclose or provide personal information to any third party without consent of the individual concerned.
 
-Shiseido may provide personal information to third parties and share certain personal information with parties concerned in the manner as detailed in “10. Disclosure of Personal Information to Third Parties”and “11. Sharing of Personal Information” below in this Privacy Policy.
+Shiseido may provide personal information to third parties and share certain personal information with parties concerned in the manner as detailed in “10. Disclosure of Personal Information to Third Parties” and “11. Sharing of Personal Information” below in this Privacy Policy.
 
 ## 3\. Outsourcing of Personal Information Handling Operations to Business Partners
 
@@ -36,7 +36,7 @@ Please contact us for your complaint or consultation about our handling of perso
 
 ## 6\. Personal Information of Children
 
-Shiseido also protects personal information of children similarly to that of adults. To enjoy our services, children under the age of sixteen may be subject to parental consent as needed, in addition to confirmation of intentions and agreements of themselves.
+Shiseido also protects personal information of children similarly to that of adults. To enjoy our services, children under the age of sixteen may be subject to parental consent as needed, in addition to confirmation of intentions and agreements themselves.
 
 ## 7\. Compliance with Laws
 
@@ -44,9 +44,9 @@ Shiseido complies with applicable laws, national guidelines and other standards 
 
 ## 8\. Internal Systems
 
-Shiseido Co., Ltd. and Shiseido Japan Co., Ltd. will appoint the Chief Privacy Officer and establish and maintain systems for protecting personal information under the instruction of the Chief Privacy Officer. 
+Shiseido Co., Ltd. and Shiseido Japan Co., Ltd. will appoint a Chief Privacy Officer and establish and maintain systems for protecting personal information under the instruction of the Chief Privacy Officer. 
 
-The Director of the Compliance Department of Shiseido Co., Ltd. shall act as the Chief Privacy Officer in both Shiseido Co., Ltd. and Shiseido Japan Co., Ltd.
+The Director of the Risk Management Department of Shiseido Co., Ltd. shall act as the Chief Privacy Officer for both Shiseido Co., Ltd. and Shiseido Japan Co., Ltd.
 
 Shiseido will also appoint one or more Information Managers responsible for handling personal information in order to properly protect, manage and use personal information under the instruction of those Information Managers. Additionally, all the personnel engaged in our operations will receive education and training. 
 
@@ -82,15 +82,14 @@ Shiseido is committed to properly manage all personal information received from 
 
 Shiseido Co., Ltd. and Shiseido Japan Co., Ltd. are sharing certain personal information regarding “Hanatsubaki Club Members” and “watashi+ Members” as described in “9. Purpose of Use of Personal Information” above in this Privacy Policy, as follows: 
 
-## 12\. Matters concerning Procedures to Meet Requests for Disclosure or the like
+## 12\. Matters Concerning Procedures to Meet Requests for Disclosure or the Like
 
-  1. 1.As to the “personal information to be disclosed” described in “9. Purpose of Use of Personal Information”in this Privacy Policy, Shiseido will meet the request for the notice of the purpose of use, disclosure, modification, addition or deletion of personal information, suspension of use, deletion and stoppage of provision to third parties (collectively, the “disclosure or the like”) made by the individual concerned.   
-Your request for disclosure or the like of the information regarding “Hanatsubaki Club Members” will be directly handled at the store with which you are registered as a Hanatsubaki Club Member. Please note that Shiseido is not in a position to handle such request. 
-  2. 2.“Requests for disclosure or the like” are handled as follows. “Request for disclosure or the like” regarding any other personal information to be disclosed will be dealt with as instructed individually. 
-    1. (1)Procedures for any “disclosure” or “change” of information regarding, or “withdrawal” from “Shiseido Group Members” shall be taken by yourself at the following page on the Shiseido Website, using your ID and password managed by you on your own responsibility.   
-[ ＜Click here for confirmation and change of registration of Shiseido Group Members (Japanese Only) ＞ ](https://www.shiseido.com/netclub/index.asp)
-    2. (2)Procedures for any “disclosure” or “change” of information regarding, or “withdrawal” from “watashi+ Members” shall be taken by yourself at the following page on the Shiseido Website, using your Member ID (e-mail address) and password managed by you on your own responsibility.[＜Click here for confirmation and change of registration of watashi+ Members (Japanese Only) ＞](https://www.shiseido.com/sw/mypage/auth/SWFG017010.seam)
-    3. (3)Request for any “disclosure” or “change” of information on “Shiseido’s shareholders” will be handled by Sumitomo Mitsui Trust Bank, Limited, the Shareholder Registry Administrator of Shiseido Co., Ltd. For more details about specific procedures, please contact Sumitomo Mitsui Trust Bank, Limited directly.   
+  1. 1.As to “personal information to be disclosed” described in “9. Purpose of Use of Personal Information” in this Privacy Policy, Shiseido will meet requests for the notice of the purpose of use, disclosure, modification, addition or deletion of personal information, suspension of use, deletion and stoppage of provision to third parties (collectively, the “disclosure or the like”) made by the individual concerned.   
+Your request for disclosure or the like of the information regarding “Hanatsubaki Club Members” will be directly handled at the store with which you are registered as a Hanatsubaki Club Member. Please note that Shiseido is not in a position to handle such requests. 
+  2. 2.“Requests for disclosure or the like” are handled as follows. “Requests for disclosure or the like” regarding any other personal information to be disclosed will be dealt with as instructed individually. 
+    1. (1) Procedures for any “disclosure” or “change” of information regarding, or “withdrawal” from “watashi+ Members” shall be taken by yourself at the following page on the Shiseido Website, using your Member ID (e-mail address) and password managed by you on your own responsibility.   
+[ ＜Click here for confirmation and change of registration of watashi+ Members (Japanese Only) ＞ ](https://www.shiseido.co.jp/sw/mypage/auth/SWFG017010.seam)
+    2. (2) Requests for any “disclosure” or “change” of information on “Shiseido’s shareholders” will be handled by Sumitomo Mitsui Trust Bank, Limited, the Shareholder Registry Administrator of Shiseido Co., Ltd. For more details about specific procedures, please contact Sumitomo Mitsui Trust Bank, Limited directly.   
 
 
 < Contact Information >
@@ -101,7 +100,7 @@ Sumitomo Mitsui Trust Bank, Limited
 Phone: 0120-782-031 (toll-free number) 
 
 As to shares held in your account with a securities company, please contact your securities company.
-    4. (4)A “request for disclosure or the like” regarding any other personal information to be disclosed as described in “9. Purpose of Use of Personal Information” in this Privacy Policy shall be sent in a designated form accompanied by necessary documents by mail to the following address. In doing so, please indicate “Enclosing a request form for disclosure or the like of personal information” on the envelope.   
+    3. (3)“Requests for disclosure or the like” regarding any other personal information to be disclosed as described in “9. Purpose of Use of Personal Information” in this Privacy Policy shall be sent in a designated form accompanied by necessary documents by mail to the following address. In doing so, please indicate “Enclosing a request form for disclosure or the like of personal information” on the envelope.   
 
 
 < Contact Information >
@@ -109,15 +108,14 @@ As to shares held in your account with a securities company, please contact your
 Shiseido Customer Service   
 1-6-2 Higashi-Shimbashi, Minato-ku, Tokyo 105-8310 
 
-  3. 3.Documents (including a form) necessary to be submitted for “request for disclosure or the like”   
-For making a “request for disclosure or the like,” please fill out the following “Disclosure Request Form” and send it to the above address with the following identity verification documents enclosed. 
+  3. 3.Documents (including a form) necessary to be submitted for “requests for disclosure or the like” For making “requests for disclosure or the like,” please fill out the following “Disclosure Request Form” and send it to the above address with the following identity verification documents enclosed. 
 
 ＜ Identity verification documents (either of them) ＞
 
     * Certificate of Residence (original copy); or
-    * A copy of the official document such as passport or driver’s license
+    * A copy of an official document such as passport or driver’s license
 
-Note:Please note that your legal domicile or individual number contained, if any, in the document to be submitted shall be blacked out or otherwise rendered illegible before submission.
+Note: Please be certain that any legal domicile or individual number containedin the document to be submitted is blacked out or otherwise rendered illegible before submission. 
 
   4. 4.“Requests for disclosure or the like” by representatives   
 If a person who makes a “request for disclosure or the like” is a statutory representative of the applicant, a child or an adult ward, or an agent authorized by the applicant to make a request for disclosure or the like, please also send the following documents with the Request Form. 
@@ -127,13 +125,13 @@ If a person who makes a “request for disclosure or the like” is a statutory 
     * A document certifying his/her authority of statutory representation (a copy of the family register or, if he/she has a parental authority, a copy of the insurance card with his/her dependent family members’ names included is also acceptable): 1
     * A document certifying that he/she is a statutory representative of a child or an adult ward (a copy of the official document such as passport or driver’s license of the statutory representative): 1
 
-＜ In the case of a privately appointed agent＞
+＜ In the case of a statutory representative ＞
 
     * A power of attorney: 1
     * A certificate of a seal impression of the applicant: 1
   5. 5.Method of response to “requests for disclosure or the like” 
-    1. (1)Shiseido Group Members and watashi+ Members are requested to confirm the response directly on the respective websites.
-    2. (2) In principle, a response to a person who requests for disclosures or the like in writing will be given in writing after identity verification (in the case of a request by a representative, a written response will be given to such representative after verifying that such representative is duly authorized to make such request)
+    1. (1) watashi+ Members are requested to confirm responses directly on the website.
+    2. (2) In principle, a response will be given in writing to persons who submit in writing requests for disclosures or the like after identity verification (in the case of a request by a representative, a written response will be given to such representative after verifying that such representative is duly authorized to make such request).
   6. 6.“Purpose of use” of personal information acquired in connection with “requests for disclosure or the like”   
 The personal information acquired in connection with the request for disclosure or the like is handled only to the extent necessary for such request for disclosure or the like. All documents received from you will be kept for two years after completion of the response to the request for disclosure or the like, and thereafter will be destroyed. 
   7. 7.Reason for non-disclosure of “personal information to be disclosed”   
@@ -149,30 +147,29 @@ Personal information will not be disclosed in each of the following cases. Decis
 
 ## 13\. Contact for Personal Information
 
-For your complaint, consultation or other inquiry about our handling of personal information, please contact us by any of the following methods.  
-As to the matters concerning watashi+, please use the dedicated links below. 
+For complaint, consultation or other inquiry about our handling of personal information, please contact us by any of the following methods.  
+As to matters concerning watashi+, please use the dedicated link below. 
 
 ##  < Contact Information >
 
 Shiseido Customer Service   
 1-6-2 Higashi-Shimbashi, Minato-ku, Tokyo 105-8310   
-Phone: 0120-81-4710 (9:00-17:00;excluding Saturdays, Sundays and national holidays) 
+Phone: 0120-81-4710 (9:00-17:00; excluding Saturdays, Sundays and national holidays) 
 
-watashi+   
 watashi+ Support Center   
 Phone: 0120-31-4710 (9:00-21:00; not available during the year-end and New Year holidays and on statutory inspection days)   
 [Click here for inquiry form (Japanese Only)](https://www.shiseido.co.jp/sw/customer/auth/SWFG080010.seam)
 
 **< Notice >**
 
-Please note that we do not accept any requests via personal visits of our company.   
+Please note that we do not accept any requests via personal visits to our company.   
 Also note that your inquiries to our toll-free number will be recorded for improvement of our customer service.   
 We appreciate your understanding and cooperation in this matter. 
 
-## 14.Others
+## 14\. Others
 
 This Privacy Policy shall be governed by and construed in accordance with the laws of Japan.
 
 In the event of any dispute, the Japanese version of this Privacy Policy will prevail over any other language versions.
 
-Last updated : Jan 11, 2017
+Last updated : Oct 3, 2018
