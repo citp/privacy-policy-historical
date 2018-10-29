@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kami.com.ph privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201201752id_/https%3A//kami.com.ph/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kami.com.ph privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029234429id_/https%3A//kami.com.ph/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
-KAMI.com.ph (“we,” and “us”) respects the privacy of its users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our Service or transacting business with us. By using our Service, you are accepting the practices described in this Privacy Policy.
+Genesis Media Limited, Suite 41/42 Victoria House, 26 Main Street, GX11 1AA, Gibraltar (“we,” and “us”) respects the privacy of its users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our Service or transacting business with us. By using our Service, you are accepting the practices described in this Privacy Policy.
 
 If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
@@ -107,7 +107,7 @@ Although our Service is a general audience service, we restrict the use of our S
 
 ## International Data Transfers
 
-KAMI.com.ph is a global business. We may transfer personal information to countries other than the country in which the data was originally collected. These countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your personal information to other countries, we will protect that information as described in this Privacy Policy.
+Genesis Media Limited, Suite 41/42 Victoria House, 26 Main Street, GX11 1AA, Gibraltar is a global business. We may transfer personal information to countries other than the country in which the data was originally collected. These countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your personal information to other countries, we will protect that information as described in this Privacy Policy.
 
 In particular, to offer our Service, we need to transfer your personal information to the United States. The United States is not considered to provide an adequate level of protection under EU data protection law. By agreeing to the Privacy Policy, you consent to the transfer of your personal information for the purposes described in the Privacy Policy. You have the right to withdraw your consent at any time, but please note that if you do not consent to the transfer of if you withdraw your consent to transfer, you may not be able to benefit from all or some of our services.
 
