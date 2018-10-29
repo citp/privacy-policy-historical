@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ottsworld.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905213701id_/https%3A//www.ottsworld.com/privacy-and-disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ottsworld.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029013523id_/https%3A//www.ottsworld.com/privacy-and-disclosure-policy) for the most accurate reproduction.*
 
 # Ottsworld Privacy and Disclosure Policy • Ottsworld Unique Travel Experiences
 
@@ -6,9 +6,9 @@
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read my privacy policy carefully to get a clear understanding of how I collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with my website.
 
-### What personal information do I collect from the people that visit my blog, website or app?
+### What personal information do I collect from the people that visit my blog?
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
+When registering for a newsletter or contest on the site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
 
 ### When do I collect information?
 
@@ -18,7 +18,7 @@ I collect information from you when you subscribe to a newsletter or enter infor
 
 I may use the information I collect from you when you register, make a purchase, sign up for my newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-    * To send periodic emails regarding products and services.
+  *     * To send periodic emails regarding updates, products, and services.
     * To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
     * To improve the website in order to better serve you.
     * To administer a contest, promotion, survey or other site feature.
@@ -133,9 +133,9 @@ Among other programs, A Ottsworld is a participant in the Amazon Services LLC As
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
 www.ottsworld.com  
-47349 US Highway 12  
-Twin Brooks, SD 57269  
+456 Logan St. Apt 301  
+Denver, CO 80203  
 USA  
 info@Ottsworld.com
 
-Last Edited on 2017-03-24
+Last Edited on 2018-05-28
