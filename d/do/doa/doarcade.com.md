@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doarcade.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627000039id_/http%3A//www.doarcade.com/pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doarcade.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029172508id_/http%3A//www.doarcade.com/pages/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - DoArcade
 
