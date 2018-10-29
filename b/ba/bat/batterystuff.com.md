@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batterystuff.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314122421id_/https%3A//www.batterystuff.com/kb/policies-and-procedures/privacy-and-security-guarantee.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batterystuff.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029211352id_/https%3A//www.batterystuff.com/kb/policies-and-procedures/privacy-and-security-guarantee.html) for the most accurate reproduction.*
 
 # BatteryStuff Articles | Privacy and Security Policy
 
@@ -19,9 +19,9 @@ Customer personal, billing, email addresses and phone number will be used in the
 BatteryStuff.com does not buy, sell, beg, borrow, or steal email information. Upon completion of the check-out process, and by providing an email address, we send email confirming your order, providing tracking information, and customer service. Additionally, we send out a tech bulletin once per quarter with useful information, including service upgrades, battery maintenance tips, new charger technology, installation ideas, and more. We always respect your right to privacy, and the right to have relevant and insightful messages in your inbox instead of a full junk mail folder. If you wish not to receive any further email message from us, feel free to use the unsubscribe link at the end of every email. We will honor all unsubscribe requests immediately.
 
 **Government, Corporate, and Bulk Orders**  
-We gladly accept Government, Corporate and Bulk/Blanket Orders. We accept major Credit Cards and can open a Terms Account with credit approval. Please email [robin@batterystuff.com](mailto:robin@batterystuff.com) or call during business hours.
+We gladly accept Government, Corporate and Bulk/Blanket Orders. We accept major Credit Cards and can open a Terms Account with credit approval. Please email [sarah@batterystuff.com](mailto:sarah@batterystuff.com) or call during business hours.
 
-**Correcting Mistkaes**
+**Correcting Mistakes**
 
 Errors, Omissions, etc.: Typographical, photographic, pricing, and editing errors on the website are unintentional and we reserve the right to correct them.
 
@@ -38,9 +38,6 @@ Here are the basic principles behind how Batterystuff.com manages the resolution
 
 
 
-#### Was this information helpful?
+#### Was this information helpful? Sign up to Get Updates and Offers.
 
-  
-
-
-Written on February 11, 2015 a 8:25 pm 
+Written on June 14, 2018 a 3:22 pm 
