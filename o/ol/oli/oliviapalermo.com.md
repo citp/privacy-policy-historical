@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oliviapalermo.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630101414id_/http%3A//oliviapalermo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oliviapalermo.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029204659id_/http%3A//oliviapalermo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Olivia Palermo
 
@@ -32,7 +32,7 @@ We use information that we collect about you or that you provide to us, includin
 
 
 
-We may also use your information to contact you about our own and select third parties’ goods and services that may be of interest to you.  If you do not want us to use your information in this way, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0f7b6a6e624f60636679666e7f6e636a7d6260216c6062).
+We may also use your information to contact you about our own and select third parties’ goods and services that may be of interest to you.  If you do not want us to use your information in this way, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9aeefffbf7daf5f6f3ecf3fbeafbf6ffe8f7f5b4f9f5f7).
 
 We may use the information we have collected from you to enable us to display advertisements to an advertiser’s target audiences.  Even though we will not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
 
@@ -62,11 +62,11 @@ Though we make every effort to preserve the privacy of the visitors to the Websi
 
 **Your California Privacy Rights**
 
-California Civil Code Section § 1798.83 permits users of the Website who are California residents to request and obtain from Company, once a year, free of charge, information about the personally identifiable information (if any) we disclosed to third parties for direct marketing purposes in the immediately preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared such information. If you are a California resident and would like to make such a request, please submit your request via email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8efaebefe3cee1e2e7f8e7effeefe2ebfce3e1a0ede1e3).
+California Civil Code Section § 1798.83 permits users of the Website who are California residents to request and obtain from Company, once a year, free of charge, information about the personally identifiable information (if any) we disclosed to third parties for direct marketing purposes in the immediately preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared such information. If you are a California resident and would like to make such a request, please submit your request via email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d4a0b1b5b994bbb8bda2bdb5a4b5b8b1a6b9bbfab7bbb9).
 
 **CHILDREN UNDER THE AGE OF 13**
 
-The Website is not intended for children under 13 years of age and we do not knowingly collect personal information from children under 13, nor do we knowingly distribute such information to third parties.  If you are under 13, do not provide any information to this Website or through any of its features or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use.  If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information.  If you believe we might have any information from or about a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#087c6d6965486764617e61697869646d7a6567266b6765).
+The Website is not intended for children under 13 years of age and we do not knowingly collect personal information from children under 13, nor do we knowingly distribute such information to third parties.  If you are under 13, do not provide any information to this Website or through any of its features or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use.  If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information.  If you believe we might have any information from or about a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d2a6b7b3bf92bdbebba4bbb3a2b3beb7a0bfbdfcb1bdbf).
 
 **Usage Details, IP Addresses, Cookies and Other Technologies.** ** **
 
@@ -102,6 +102,6 @@ All versions of the Privacy Policy are dated with the effective date of that ver
 
 **Questions**
 
-If you have any questions about this Privacy Policy, please contact: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3d49585c507d5251544b545c4d5c51584f5052135e5250).
+If you have any questions about this Privacy Policy, please contact: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5d29383c301d3231342b343c2d3c31382f3032733e3230).
 
 **© 2015 Butterfield Global LLC. All rights reserved.**
