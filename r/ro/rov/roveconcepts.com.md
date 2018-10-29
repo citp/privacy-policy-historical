@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roveconcepts.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616215854id_/https%3A//www.roveconcepts.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roveconcepts.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030000144id_/https%3A//www.roveconcepts.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rove Concepts
 
@@ -13,7 +13,7 @@ When you place an order with us, we might ask for some personal information, lik
   * Verify your identity for payment authorization
   * Contact you regarding your order status
   * Ship your order to you
-  * Allow you to apply for financing ( _coming soon)_
+  * Allow you to apply for financing
   * Send you news from Rove Concepts (if you have requested it)
   * Provide you with an excellent shopping experience
 
