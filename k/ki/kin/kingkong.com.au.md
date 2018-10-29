@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingkong.com.au privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311081643id_/https%3A//kingkong.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingkong.com.au privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029122526id_/https%3A//kingkong.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - King Kong
 
@@ -47,4 +47,8 @@ www.kingkong.com.au
 3 Bond Street, South Yarra VIC 3141  
 1300 858 250
 
-Last Edited on 2017-04-03
+### Earnings Disclaimer
+
+Results may vary from individual to individual in calculating profits, and depend on the industry, capacity, advertising budget and other factors. The sales figures stated above are our own personal sales figures. Please understand our results are not typical, we’re not implying you’ll duplicate them (or do anything for that matter). The average person who follows any ‘how to’ information gets little to no results. We’re using these references for example purposes only. Your results may vary and depend on many factors including but not limited to your background, experience, and work ethic – we make no guarantees whatsoever. All business entails risk as well as massive and consistent effort and action. If you’re not willing to accept that, then we’re not a great fit for you.
+
+Last Edited on 11-04-2018
