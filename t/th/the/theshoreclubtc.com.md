@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theshoreclubtc.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629220341id_/http%3A//www.theshoreclubtc.com/privacy-of-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshoreclubtc.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029094215id_/http%3A//www.theshoreclubtc.com/privacy-of-statement) for the most accurate reproduction.*
 
 # Privacy Statement | The Shore Club on Long Bay
 
