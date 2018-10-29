@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the goodyfeed.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524211442id_/http%3A//goodyfeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodyfeed.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029064938id_/http%3A//goodyfeed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Goody Feed
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@goodyfeed.com.
 
 At goodyfeed.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that are received and collected by goodyfeed.com and how it is used.
 
