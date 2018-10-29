@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the backupify.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607031246id_/http%3A//www.backupify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backupify.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029140311id_/https%3A//www.datto.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Datto, Inc.
+# Privacy Policy
 
 Datto, Inc., along with its subsidiaries and affiliates worldwide (collectively “Datto”, “we” or “us”), respects your privacy. This Privacy Policy covers Datto’s practices for the Datto websites that link to this Policy (“Websites”) as well as to the products, services and web-based applications provided by Datto (our “Products”). This Policy explains how we may use certain information we collect when you contact us, visit our Websites or purchase or use our Products. By using a Website or by purchasing, installing or using any of our Products, you are consenting to our practices as described in this Privacy Policy.
 
