@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyforlife.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223031734id_/http%3A//abbottnutrition.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyforlife.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029110040id_/http%3A//abbottnutrition.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Abbott Nutrition
 
@@ -16,7 +16,10 @@ Please read this Privacy Policy before using Abbott Nutrition websites or submit
 
 Abbott collects information in a few different ways:
 
-  * **_Personal Information You Submit or Give Us Permission to Obtain_** . Abbott collects personal information that you enter into data fields on Abbott Nutrition websites. For example, you may submit your name, postal address, e-mail address, and/or other information in order to receive information about various subjects, register for Abbott programs, contact Abbott customer service, or respond to Abbott surveys. If you’re accessing Abbott Nutrition websites on your mobile device, you may also choose to provide us with location data. To protect your privacy, you should not provide Abbott with any information that is not specifically requested. 
+  * **_Personal Information You Submit or Give Us Permission to Obtain._** Abbott collects personal information that you enter into data fields on Abbott Web sites. For example, you may submit your name, postal address, e-mail address, and/or other information in order to receive information about various subjects, register for Abbott programs, contact Abbott customer service, or respond to Abbott surveys. If you’re accessing Abbott Web sites on your mobile device, you may also choose to provide us with location data. To protect your privacy, you should not provide Abbott with any information that is not specifically requested. 
+
+You may also give us permission to access certain personal information maintained by other service providers. For example, you may link your Facebook or Google account to Abbott, which allows us to obtain information from those accounts (such as your friends or contacts). The information we obtain from these services often depends on your settings or the applicable provider's privacy policies, so please check these policies before granting us access. You agree that we are not responsible for any acts or omissions by these social media service providers. If you give us permission to access this information, we will use it for the purposes described in this Privacy Policy. 
+
   *   
 
   * **_Passive Collection of Information_** . Abbott may collect information about your visits to Abbott Nutrition websites without you actively submitting such information. This information can make your use of Abbott Nutrition websites easier and more meaningful by allowing Abbott to provide better service, customize sites based on consumer preferences, compile statistics, provide you with more relevant advertisements, analyze trends, and otherwise administer and improve Abbott Nutrition websites. As discussed in the “How do Abbott and its partners use cookies for advertising?” section below, such information may also be collected by Abbott’s advertising vendors and other partners. Here are some of the types of information collected when visiting Abbott Nutrition websites: 
@@ -114,7 +117,7 @@ In all communications to Abbott, please include the email address used for regis
 
 ## How will I know whether Abbott has updated this policy?
 
-Abbott reserves the right to amend this Privacy Policy without prior notice to reflect technological advancements, legal and regulatory changes and good business practices. If Abbott changes its privacy practices, a new Privacy Policy will reflect those changes and the effective date of the revised Privacy Policy will be set forth in this paragraph. This Privacy Policy was last updated on TBD and is effective as of that date.
+Abbott reserves the right to amend this Privacy Policy without prior notice to reflect technological advancements, legal and regulatory changes and good business practices. If Abbott changes its privacy practices, a new Privacy Policy will reflect those changes and the effective date of the revised Privacy Policy will be set forth in this paragraph. This Privacy Policy was last updated on 9/1/2016 and is effective as of that date.
 
 For customer assistance and general information, call our toll-free number: (800) 227-5767.   
 Hours: Monday through Friday, 8:30 a.m. to 5 p.m. EST
