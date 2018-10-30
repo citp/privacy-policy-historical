@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goruck.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627115205id_/https%3A//www.goruck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goruck.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030065619id_/https%3A//www.goruck.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | GORUCK
 
 We guard your privacy and will never sell your private information.
 
