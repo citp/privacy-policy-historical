@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatemotorcycling.com privacy policy that was archived on 2017-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170304080526id_/https%3A//ultimatemotorcycling.com/legal_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatemotorcycling.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030090428id_/https%3A//ultimatemotorcycling.com/legal_notice) for the most accurate reproduction.*
 
 # Legal Notice and Privacy Policy - Ultimate Motorcycling
 
