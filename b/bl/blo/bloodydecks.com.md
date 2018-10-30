@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bloodydecks.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131160626id_/https%3A//www.bdoutdoors.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloodydecks.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030020149id_/https%3A//www.bdoutdoors.com/privacy) for the most accurate reproduction.*
 
-# Privacy - BD Outdoors
+# Privacy - Online Privacy Policy - BDoutdoors Bloodydecks
 
-### Short Version
+### Privacy Policy – Short Version
 
 BDoutdoors.com, Bloodydecks.com and all of the associated BD sites, as well as its owners and employees **HATE** Spam, Spammers, Junkmail and Phishing scams as much as we hate slow fishing and rough seas. We love our members and we will never sell or share your information with a third party.
 
