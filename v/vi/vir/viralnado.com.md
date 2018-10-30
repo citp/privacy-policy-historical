@@ -1,43 +1,103 @@
-> *The following text is extracted and transformed from the viralnado.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629133257id_/http%3A//www.viralnado.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralnado.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030140411id_/http%3A//viralnado.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ViralNado
+# GDPR Privacy policy – VIRALNADO
 
-This Privacy Policy governs the manner in which ViralNado.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the ViralNado.com website (“Site”). This privacy policy applies to the Site and all products and services offered by ViralNado.com.
+**Name/Title** : BringThePixel  
+**Email** : privacy@bringthepixel.com
 
-### Personal identification information
+## INFORMATION YOUR ORGANIZATION COLLECTS:
 
-We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+The following table shows the information you selected when filling out the privacy tool.
 
-### Non-personal identification information
+Type of Information | What you collect | Who collects it | For what reason | Who uses it | Stored by | Shared with  
+---|---|---|---|---|---|---  
+**Contact Information** | 
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+  * Name
 
-### Web browser cookies
+| 
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+  * Website or IT support
 
-### Sharing your personal information
+| 
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+  * Application forms
 
-### Third party websites
+| 
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+  * Website or IT support
 
-### Google Adsense
+| 
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)
+  * Electronic File
 
-### Changes to this privacy policy
+|   
+  
+## CONSENT PRACTICES
 
-ViralNado.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Consent is voluntary agreement with what is being done or proposed. Consent can be either express or implied. Express consent is given explicitly, either orally or in writing. Express consent is unequivocal and does not require any inference on the part of the organization seeking consent. Implied consent arises where the consent may reasonably be inferred from the action or inaction of the individual.
 
-### Your acceptance of these terms
+## EXPRESS CONSENT
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+You indicated that your organization does not collect any sensitive or potentially sensitive information. In the future, if your organization decides to collect sensitive or potentially sensitive information you should always make sure you get express consent from your customer. In other words, you must ask the customer directly if they consent to you collecting the information and/or disclosing the information to another organization. For example, if you collect financial information for a credit check, have the customer sign an application form that states that you will disclose the information to a credit reporting agency and that the customer consents to this.Express consent should be used whenever possible and in all cases when the personal information is considered sensitive.
 
-### Contact Info
+## IMPLIED CONSENT
 
-You may contact us at viralnadomarketing@gmail.com
+You indicated your organization does not collect any information to complete a sale or other transaction, verify a customer’s credit, place a special order for a customer, arrange for a delivery, or process a return. If in the future your organization decides to collect this information, remember that so long as the information collected is necessary to complete one of the actions listed above, you can assume the customer has consented when he or she provides you with the information. (This is called “implied consent”).
 
-This document was last updated on May 18, 2015
+Remember:
+
+You can’t refuse to complete a transaction if the customer refuses to consent to the collection of information that isn’t necessary to complete the transaction.  
+If you decide later to use this information for another purpose, you have to go back and get the customer’s consent.
+
+## OPT-OUT CONSENT
+
+You collect the following information for secondary purposes, such as marketing, administering a customer loyalty program, or customer relationship management:
+
+In these circumstances, you have to give the customer an opportunity to tell you they don’t want you to use their information for that purpose. This is called an “opt-out”.
+
+Opt-outs must be clear, easy to understand and easy for the customer to do. You can have an opt-out box on a paper-based or web application form, for example, that tells customers that if they don’t want to receive promotional material in the mail, just check here. You may want to let the customer know what they’ll be missing – special deals and new product information, for example – but don’t minimize, hide or obscure the opt-out. And don’t make it complicated, like requiring the customer to call a special phone number between certain hours. The point is to let the customer decide.
+
+## EMPLOYEE ACCESS TO CUSTOMER INFORMATION
+
+You indicated that there are no employees in your organization who see or process information unnecessarily. This is a good practice. By limiting the number of people who view or process information you reduce the risk of inappropriate use or disclosure.
+
+## STORAGE OF PERSONAL INFORMATION: PAPER FILES
+
+You indicated your organization does not keep any information in paper files.  
+In the future, if you do plan to store personal information in paper files, it is extremely important to take all measure possible in order to safely store your customer’s personal information. You should protect those files by moving them to:
+
+A locked cabinet  
+A restricted area  
+An area with an alarm system  
+STORAGE OF PERSONAL INFORMATION: ELECTRONIC FILES  
+The following includes the types of information you may store in electronic files:
+
+Name  
+It is extremely important to take all measures possible in order to safely store your customer’s personal information. Try the following methods to protect those files by using:
+
+Computer passwords  
+Firewalls  
+Encrypted data files  
+Encrypted personal information that is sent or received over the Internet (by email or through web forms, for eg.)  
+Electronic audit trails that identify who has access information  
+Keeping backup files in a locked cabinet  
+Be especially careful with laptops, USB keys and electronic wireless devices. These types of devices can potentially store a large quantity of your customer’s personal information. All of these devices should be password protected and have the strongest form of protection possible.
+
+## COLLECTION OF SENSITIVE INFORMATION
+
+You indicated that your organization does not collect any information that is sensitive or potentially sensitive. In the future if your organization decides to collect sensitive or potentially sensitive information consider using more than one method to ensure that it is kept confidential.
+
+Finally, go through your old files and destroy any personal information that you no longer need in order to fulfill the purpose that you collected it for.
+
+## THIRD PARTIES LIST
+
+You share personal information with the following third party suppliers or agents:
+
+With No Other Parties  
+You’ll have to review the privacy practices of these firms to make sure they meet the same standards that you apply to your business. You should also talk to your lawyer about adding special clauses to any contracts that involve you sharing information with a third party to:
+
+require the third party to protect your customer information  
+give you the power to audit the third party to make sure they’re complying with fair information practices  
+make sure the third party only uses the information for the purposes set out in the contract  
+require the third party to pass on to you any requests from customers to see their customer records
