@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invisionapp.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626184332id_/https%3A//www.invisionapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invisionapp.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030194449id_/https%3A//www.invisionapp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | InVision
 
@@ -19,7 +19,8 @@ We have kept this simple for your understanding, but if you’re not familiar wi
 
   * Introduction
   * Transfers of Personal Data
-    * EU Residents
+    * EU and Swiss Residents
+    * EU-U.S. and Swiss-U.S. Privacy Shield Participation
   * Notice of What Information We Collect and How We Use It
     * Types Of Personal Data We Collect
     * Mechanisms for Collection of Personal Data
@@ -39,6 +40,7 @@ We have kept this simple for your understanding, but if you’re not familiar wi
     * Closing Your Account
     * California Privacy Rights
     * Enforcement and Recourse
+      * Privacy Shield Inquiries
   * Changes to the Privacy Policy
   * Children 
   * What If You Have Questions Regarding Your Personal Data?
@@ -57,11 +59,15 @@ Please contact us if you have any questions or comments about our privacy practi
 
 **TRANSFERS OF PERSONAL DATA**
 
-The Service is hosted and operated in the United States (“U.S.”), with development, support and maintenance operations in other countries (and hosting soon to come in the European Union (“EU”), through InVision and its service providers. If you do not reside in the U.S., laws in the U.S. (and other countries) may differ from the laws where you reside. By using the Service, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to InVision in the U.S. and will be hosted on U.S. servers, and you authorize InVision to transfer, store, host and process your information to and in the U.S., and possibly other countries. You hereby consent to transfer of your data to the U.S. pursuant to the standard data protection clauses promulgated by the EC, a copy of which can be obtained at [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087).
+The Service is hosted and operated in the United States (“U.S.”), with development, support and maintenance operations in other countries (and hosting soon to come in the European Union (“EU”), through InVision and its service providers. If you do not reside in the U.S., laws in the U.S. (and other countries) may differ from the laws where you reside. By using the Service, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to InVision in the U.S. and will be hosted on U.S. servers, and you authorize InVision to transfer, store, host and process your information to and in the U.S., and possibly other countries. You hereby consent to transfer of your data to the U.S. pursuant to either, at InVision’s discretion, the EU-U.S. or Swiss-U.S. Privacy Shield Framework, the details of which are further set forth below, or the standard data protection clauses promulgated by the European Commission, a copy of which can be obtained at [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087).
 
 **EU PERSONAL DATA**
 
-If you are located in the EU, United Kingdom, Lichtenstein, Norway, or Iceland, you may have additional rights under the EU General Data Protection Regulation (the “GDPR”) related to your Personal Data, as further described below. InVision will be the controller of your Personal Data processed in connection with the Service, unless you access the Service through an enterprise account, or other InVision account that is controlled by a third party (e.g. your employer).
+If you are located in the EU, you may have additional rights under the EU General Data Protection Regulation (the “GDPR”) related to your Personal Data, as further described below. InVision will be the controller of your Personal Data processed in connection with the Service, unless you access the Service through an enterprise account, or other InVision account that is controlled by a third party (e.g. your employer).
+
+**EU-U.S. and Swiss-U.S. Privacy Shield Participation**
+
+InVision complies with the EU-U.S and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Data transferred from the EU or Switzerland to the United States, respectively. InVision has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of (1) Notice; (2) Choice; (3) Accountability for Onward Transfer; (4) Security; (5) Data Integrity and Purpose Limitation; (6) Access and (7) Recourse, Enforcement and Liability (collectively, the “Privacy Shield Principles”). If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern with respect to all Personal Data transferred from the EU or Switzerland to the U.S. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/). As further set forth in the Privacy Shield Principles, we remain potentially liable if a third party processing Personal Data received from the EU or Switzerland on our behalf processes that Personal Data in a manner that is inconsistent with the Privacy Shield Principles (unless we can prove that we are not responsible for the event giving rise to the damage). InVision is subject to the investigatory and enforcement powers of the Federal Trade Commission with respect to any failure to comply with the Privacy Shield Principles. EU and Swiss individuals with inquiries or complaints regarding U.S. privacy practices should contact us at [privacy@invisionapp.com](mailto:privacy@invisionapp.com) or follow the process set forth in the section titled “Privacy Shield Inquiries” below.
 
 **NOTICE OF WHAT INFORMATION WE COLLECT AND HOW WE USE IT**
 
@@ -238,7 +244,7 @@ Please note the following with respect to opting out of Behavioral Advertising:
 
 **Emails:** We will give you the ability to opt-out of marketing-related emails by going to our [rights management page](https://support.invisionapp.com/hc/en-us/articles/360003804732), or clicking on a link at the bottom of each such email. You cannot opt-out of receiving certain non-marketing emails regarding the Service.
 
-**Information Shared with Third Parties:** Except as set forth in this Privacy Policy, you will be notified when your Personal Data may be shared with third parties, and will be able to prevent the sharing of this information. To the extent permitted or required by applicable law, you can opt-out of having your information shared with a third party that is not our agent, by contacting us at [privacy@invisionapp.com](mailto:privacy@invisionapp.com). However, please note that opting-out of information sharing or collection may affect your ability to use some features of the Service.
+**Information Shared with Third Parties:** When we share Personal Data with third parties in ways not set forth in this privacy policy, you will be notified and will be able to prevent the sharing of this information. For example, this could occur if you register to use or purchase a third party application through our Service. However, please note that opting-out of information sharing or collection may affect your ability to use applicable third-party features as well as some features of the Service.
 
 **SECURITY**
 
@@ -293,13 +299,17 @@ Pursuant to Section 1798.83 of the California Civil Code, residents of Californi
 
 We take our privacy commitments very seriously. We will conduct internal audits of our compliance with this Privacy Policy, and work to ensure that our employees and service providers also adhere to the Privacy Policy. If you have any questions or concerns regarding privacy related to the Service, please send us a detailed message to [privacy@invisionapp.com](mailto:privacy@invisionapp.com), and we will try to resolve your concerns. 
 
+**Privacy Shield Inquiries**
+
+We also commit to resolve complaints about your privacy and our collection or use of Personal Data transferred from the EU or Switzerland to the U.S. in compliance with the Privacy Shield Principles where applicable and have further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the U.S. If you do not receive timely acknowledgment of your Privacy Shield-related complaint from us, or if we have not resolved your complaint, you may contact or visit JAMS by visiting [www.jamsadr.com/eu-us-privacy-shield](https://www.jamsadr.com/eu-us-privacy-shield) for more information or to file a complaint, at no cost to you. Under certain conditions, you may also be entitled to invoke binding arbitration for residual claims about whether we have violated our obligations to you under the Privacy Shield, and if that violation remains fully or partially un-remedied.
+
 **CHANGES TO THE PRIVACY POLICY**
 
 We reserve the right to modify this Privacy Policy at any time. We encourage you to periodically review this page for the latest information on our privacy practices. If we make material changes to this Privacy Policy, you will be notified via email (if you have an account where we have your contact information) or otherwise in some manner through the Service that we deem reasonably likely to reach you (which may include posting a new privacy policy on our Website—or a specific announcement on this page or on our blog). Any modifications to this Privacy Policy will be effective upon our posting of the new terms and/or upon implementation of the new changes on the Service (or as otherwise indicated at the time of posting) or on the Effective Date set forth in the modified Privacy Policy. In all cases, your continued use of the Service or Website after the posting of any modified Privacy Policy indicates your acceptance of the terms of the modified Privacy Policy.
 
 **CHILDREN**
 
-Our Service is not intended for children under the age of 13 (16 in the EU), and therefore, InVision does not knowingly acquire or receive Personal Data from children under the age of 13 (16 in the EU). If we later learn that any user of our Service is under the age of 13 (16 in the EU), we will take appropriate steps to remove that user’s information from our account database and will restrict that individual from future access to the Service.
+Our Service is not intended for children under the age of 13 (16 in the EU, United Kingdom, Lichtenstein, Norway, or Iceland) and therefore, InVision does not knowingly acquire or receive Personal Data from children under the age of 13 (16 in the EU, United Kingdom, Lichtenstein, Norway, or Iceland). If we later learn that any user of our Service is under the age of 13 (16 in the EU, United Kingdom, Lichtenstein, Norway, or Iceland), we will take appropriate steps to remove that user’s information from our account database and will restrict that individual from future access to the Service.
 
 **WHAT IF YOU HAVE QUESTIONS REGARDING YOUR PERSONAL DATA?**
 
