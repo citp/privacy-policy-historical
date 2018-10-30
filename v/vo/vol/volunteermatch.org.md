@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the volunteermatch.org privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129120307id_/https%3A//www.volunteermatch.org/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volunteermatch.org privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030151310id_/https%3A//www.volunteermatch.org/legal/privacy.jsp) for the most accurate reproduction.*
 
 # VolunteerMatch - VolunteerMatch Privacy Policy
 
-**Last Updated** : April 11, 2014 
+**Last Updated** : May 15, 2018 
 
 **Our Commitment To Privacy**  
 Your privacy is important to us. Our ongoing commitment to the protection of your privacy is essential to maintaining the relationship of trust that exists between Impact Online DBA VolunteerMatch, Inc. (" **VolunteerMatch** " " **we** " or " **us** "), the nonprofits or other volunteer organizations seeking volunteers (each, an " **Agency** "), and our users. This privacy policy (the " **Privacy Policy** ") is intended to help you understand how we collect, use, and disclose your information. 
@@ -129,6 +129,6 @@ This Privacy Policy is subject to occasional revision. If we make any changes to
 **How To Contact Us**   
 
 
-We appreciate your questions or comments about this privacy statement, the practices of the Services, or your dealings with VolunteerMatch. We also want to work carefully with you to resolve any disputes or issues you might have. Please send email to [support@volunteermatch.org](mailto:support@volunteermatch.org) or you can send snail mail to VolunteerMatch, 550 Montgomery Street, 8th Floor, San Francisco, CA 94111 USA.
+We appreciate your questions or comments about this privacy statement, the practices of the Services, or your dealings with VolunteerMatch. We also want to work carefully with you to resolve any disputes or issues you might have. Please send email to [support@volunteermatch.org](mailto:support@volunteermatch.org) or you can send snail mail to VolunteerMatch, 409 13th Street, Suite 800, Oakland, CA 94612 USA.
 
-Effective Date: May 31, 2008 
+Effective Date: May 15, 2018 
