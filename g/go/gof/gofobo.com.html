@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the gofobo.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606190231id_/https%3A//www.gofobo.com/main/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gofobo.com privacy policy that was archived on 2018-10-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181030050350id_/https%3A//www.gofobo.com/main/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-		<title style="text-transform:capitalize;">Privacy Policy</title>
-	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0">
+		<title style="text-transform:capitalize;">Privacy</title>
+	 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0">
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
 
 <meta name="google-site-verification" content="lDH3yDaVhL29FoLO3iMM_G_DGM3QzcMXZ-viahmaaeQ">
@@ -21,165 +21,51 @@
 -->
 
 
+	<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/global.css">
+	<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/mobile.css">
+	<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/desktop.css">
+
+	<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/fonts.css?v=3">
+
+	<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/vendor.css??v=3" "="">
+	<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/jquery-ui.css??v=3" "="">
+	<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/datepicker.css??v=3" "="">
+	<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/menu.css">
+	<link rel="stylesheet" type="text/css" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/dd.css">
+	<link rel="stylesheet" type="text/css" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/flags.css">
 
 
-<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/fonts.css?v=3">
-<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/global.css??v=3" "="">
-<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/mobile.css??v=3" "="">
-<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/social_review.css?v=3">
-<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/desktop.css?v=3">
-<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/vendor.css??v=3" "="">
-<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/jquery-ui.css??v=3" "="">
-<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/datepicker.css??v=3" "="">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://global.proper.io/gofobo.min.js"></script><script>
 
-
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
-		/*! loadCSS: load a CSS file asynchronously. [c]2016 @scottjehl, Filament Group, Inc. Licensed MIT */
-		(function(w){
-			"use strict";
-			/* exported loadCSS */
-			var loadCSS = function( href, before, media ){
-				// Arguments explained:
-				// `href` [REQUIRED] is the URL for your CSS file.
-				// `before` [OPTIONAL] is the element the script should use as a reference for injecting our stylesheet <link> before
-					// By default, loadCSS attempts to inject the link after the last stylesheet or script in the DOM. However, you might desire a more specific location in your document.
-				// `media` [OPTIONAL] is the media type or query of the stylesheet. By default it will be 'all'
-				var doc = w.document;
-				var ss = doc.createElement( "link" );
-				var ref;
-				if( before ){
-					ref = before;
-				}
-				else {
-					var refs = ( doc.body || doc.getElementsByTagName( "head" )[ 0 ] ).childNodes;
-					ref = refs[ refs.length - 1];
-				}
-				var sheets = doc.styleSheets;
-				ss.rel = "stylesheet";
-				ss.href = href;
-				// temporarily set media to something inapplicable to ensure it'll fetch without blocking render
-				ss.media = "only x";
-				// wait until body is defined before injecting link. This ensures a non-blocking load in IE11.
-				function ready( cb ){
-					if( doc.body ){
-						return cb();
-					}
-					setTimeout(function(){
-						ready( cb );
-					});
-				}
-				// Inject link
-					// Note: the ternary preserves the existing behavior of "before" argument, but we could choose to change the argument to "after" in a later release and standardize on ref.nextSibling for all refs
-					// Note: `insertBefore` is used instead of `appendChild`, for safety re: http://www.paulirish.com/2011/surefire-dom-element-insertion/
-				ready( function(){
-					ref.parentNode.insertBefore( ss, ( before ? ref : ref.nextSibling ) );
-				});
-				// A method (exposed on return object for external use) that mimics onload by polling until document.styleSheets until it includes the new sheet.
-				var onloadcssdefined = function( cb ){
-					var resolvedHref = ss.href;
-					var i = sheets.length;
-					while( i-- ){
-						if( sheets[ i ].href === resolvedHref ){
-							return cb();
-						}
-					}
-					setTimeout(function() {
-						onloadcssdefined( cb );
-					});
-				};
-				function loadCB(){
-					if( ss.addEventListener ){
-						ss.removeEventListener( "load", loadCB );
-					}
-					ss.media = media || "all";
-				}
-				// once loaded, set link's media back to `all` so that the stylesheet applies once it loads
-				if( ss.addEventListener ){
-					ss.addEventListener( "load", loadCB);
-				}
-				ss.onloadcssdefined = onloadcssdefined;
-				onloadcssdefined( loadCB );
-				return ss;
-			};
-			// commonjs
-			if( typeof exports !== "undefined" ){
-				exports.loadCSS = loadCSS;
-			}
-			else {
-				w.loadCSS = loadCSS;
-			}
-		}( typeof global !== "undefined" ? global : this ));
-		/* CSS rel=preload polyfill (from src/cssrelpreload.js) */
-		/* CSS rel=preload polyfill. Depends on loadCSS function */
-		(function( w ){
-		  // rel=preload support test
-		  if( !w.loadCSS ){
-		    return;
-		  }
-		  var rp = loadCSS.relpreload = {};
-		  rp.support = function(){
-		    try {
-		      return w.document.createElement("link").relList.supports( "preload" );
-		    } catch (e) {}
-		  };
-		  // loop preload links and fetch using loadCSS
-		  rp.poly = function(){
-		    var links = w.document.getElementsByTagName( "link" );
-		    for( var i = 0; i < links.length; i++ ){
-		      var link = links[ i ];
-		      if( link.rel === "preload" && link.getAttribute( "as" ) === "style" ){
-		        w.loadCSS( link.href, link );
-		        link.rel = null;
-		      }
-		    }
-		  };
-		  // if link[rel=preload] is not supported, we must fetch the CSS manually using loadCSS
-		  if( !rp.support() ){
-		    rp.poly();
-		    var run = w.setInterval( rp.poly, 300 );
-		    if( w.addEventListener ){
-		      w.addEventListener( "load", function(){
-		        w.clearInterval( run );
-		      } )
-		    }
-		  }
-		}( this ));
-	</script>
+</script>
 
 <!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="css/ie8-lte.css" /><![endif]-->
 
-<!--<script type="text/javascript" src="/assets/js/jquery-1.10.2.min.js"></script>-->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script type="text/javascript" src="https://dk2d6nav3mn9d.cloudfront.net/assets/js/jquery.cookie.js"></script>
-<script async="" type="text/javascript" src="https://dk2d6nav3mn9d.cloudfront.net/assets/js/jquery.form.js"></script>
-<script async="" type="text/javascript" src="https://dk2d6nav3mn9d.cloudfront.net/assets/js/jquery.validate.min.js"></script>
-<!--<script type="text/javascript"  src="https://dk2d6nav3mn9d.cloudfront.net/assets/js/jquery-additional.js"></script>-->
-<!--[if lte IE 8]><script type="text/javascript" src="js/selectivizr-min.js"></script><![endif]-->
-<script async="" type="text/javascript" src="https://dk2d6nav3mn9d.cloudfront.net/assets/js/ui.js"></script>
-<script async="" type="text/javascript" src="https://dk2d6nav3mn9d.cloudfront.net/assets/js/modernizr.custom.js"></script>
-<script type="text/javascript" src="https://dk2d6nav3mn9d.cloudfront.net/assets/js/instagram.js"></script>
-<script type="text/javascript" src="https://dk2d6nav3mn9d.cloudfront.net/assets/js/jquery-ui.js"></script>
-<script async="" type="text/javascript" src="https://dk2d6nav3mn9d.cloudfront.net/assets/js/jquery-ui-timepicker-addon.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js?v=2"></script>
+	<script type="text/javascript" src="https://dk2d6nav3mn9d.cloudfront.net/assets/js/jquery.cookie.js?v=3"></script>
+	<script type="text/javascript" src="https://dk2d6nav3mn9d.cloudfront.net/assets/js/jquery.form.js"></script>
+	<script type="text/javascript" src="https://dk2d6nav3mn9d.cloudfront.net/assets/js/jquery.validate.min.js"></script>
+	<!--<script type="text/javascript"  src="https://dk2d6nav3mn9d.cloudfront.net/assets/js/jquery-additional.js"></script>-->
+	<!--[if lte IE 8]><script type="text/javascript" src="js/selectivizr-min.js"></script><![endif]-->
+	<script type="text/javascript" src="https://dk2d6nav3mn9d.cloudfront.net/assets/js/ui.js"></script>
+	<script type="text/javascript" src="https://dk2d6nav3mn9d.cloudfront.net/assets/js/modernizr.custom.js"></script>
+	<script type="text/javascript" src="https://dk2d6nav3mn9d.cloudfront.net/assets/js/instagram.js"></script>
+	<script type="text/javascript" src="https://dk2d6nav3mn9d.cloudfront.net/assets/js/jquery-ui.js?v=3"></script>
+	<script type="text/javascript" src="https://dk2d6nav3mn9d.cloudfront.net/assets/js/jquery-ui-timepicker-addon.js?v=3"></script>
+
+	<!-- drop down -->
+	<script src="https://dk2d6nav3mn9d.cloudfront.net/assets/js/jquery.dd.js"></script>
 
 
-<!-- drop down -->
-<link rel="stylesheet" type="text/css" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/dd.css">
-<script src="https://dk2d6nav3mn9d.cloudfront.net/assets/js/jquery.dd.js"></script>
-<link rel="stylesheet" type="text/css" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/flags.css">
+
+
+
 
 <!-- DROP DOWN -->
 <script>
 		$(function() {
 		
 					$.getScript( "https://dk2d6nav3mn9d.cloudfront.net/assets/js/owl.carousel.js" )
-			  .done(function( script, textStatus ) {
-				console.log( textStatus );
-			  });
-							$.getScript( "/assets/js/classie.js" )
-			  .done(function( script, textStatus ) {
-				console.log( textStatus );
-			  });
-				$.getScript( "/assets/js/demo1.js" )
 			  .done(function( script, textStatus ) {
 				console.log( textStatus );
 			  });
@@ -196,13 +82,20 @@
 
 <!-- LiveConnect tag for publishers -->
   <script type="text/javascript" src="//b-code.liadm.com/a-00jp.min.js" async="true" charset="utf-8"></script>
-<!-- LiveConnect tag for publishers -->	<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<script>
-		(adsbygoogle = window.adsbygoogle || []).push({
-		google_ad_client: "ca-pub-4785899285823896",
-		enable_page_level_ads: true
-		});
-	</script>
+<!-- LiveConnect tag for publishers --><script>
+var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+
+(function() {
+ var pm = document.createElement('script');
+ pm.async = true; pm.type = 'text/javascript';
+ var is_ssl = 'https:' == document.location.protocol;
+ pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/gofobo.min.js';
+ var node = document.getElementsByTagName('script')[0];
+ node.parentNode.insertBefore(pm, node);
+})();
+</script>
+
 
 <script type="text/javascript">
  (function() {
@@ -216,9 +109,9 @@
  jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
  })();
 </script> 
-<script async="" src="//static.hotjar.com/c/hotjar-6292.js?sv=3"></script></head>
+<script async="" src="//static.hotjar.com/c/hotjar-6292.js?sv=3"></script><link rel="stylesheet" type="text/css" href="/assets/css/cookie.css"></head>
 
-<body style="visibility: visible;">
+<body style="visibility: visible;"><div class="cc_banner-wrapper "><div class="cc_banner cc_container cc_container--open"><a href="#null" data-cc-event="click:dismiss" target="_blank" class="cc_btn cc_btn_accept_all">I Accept Cookies</a><p class="cc_message" style="max-width:3000px;font-family:SourceSansPro-Bold;"><span style="font-weight:bold;color:#000;">How we use cookies:</span>&nbsp;This website uses cookies so that we can provide you with the best user experience and to deliver advertising messages and offers on the website that are relevant to you. To read more about the cookies we use and to change your settings <a data-cc-if="options.link" target="_self" class="cc_more_info" href="/main/cookie_policy">see our&nbsp;cookies policy.</a></p><a class="cc_logo" href="/main/cookie_policy">Cookie Consent plugin for the EU cookie law</a></div></div>
 	
 
 	
@@ -249,130 +142,206 @@
 
 	
 	<!-- MENU -->
-	<div class="content-anchor"></div>
-<!-- Desktop Menu -->
-<div class="menu" style="text-transform:uppercase;">
-	<div class="top-border-left"></div>		
-
-	
-	<div class="top-border-right">
-		
-								<div class="top-links">
-				<ul>
-					<li><a href="/main/login">Login</a></li>
-					<li><a href="/main/account_create">Sign Up</a></li>
-					<li><a href="/main/contact">Contact</a></li>
-							</ul>
+	<!-- Desktop Menu -->
+<div class="flex-col">
+	<div class="flex-row jc-center ai-center top-bar">
+		<div class="desktop width-40">
+			<a href="/main/advertise" class="text-no-dec">
+				<p class="wwu-text">Work With Us</p>
+			</a>
 		</div>
-	</div>	
-	<div class="inner">
+		<div class="desktop width-40 flex-row jc-center ai-center">
+							<a href="/main/login" class="text-no-dec">
+					<p class="top-text">Login</p>
+				</a>
+			 
+
+
+								<a href="/main/account_create" class="text-no-dec">
+						<p class="top-text">Sign Up</p>
+					</a>
+			 
+			<select class="langSel desktop" id="languageToggle" autocomplete="off">
+	<option value="US" selected="">United States</option>
+	<option value="CA">Canada-English</option>
+	<option value="CF">Canada-French</option>
+	<option value="ES">Spain</option>
+	<option value="MX">Mexico</option>
+	<option value="EE">England</option>
+	<option value="WW">Wales</option>
+	<option value="SS">Scotland</option>
+	<option value="NN">Northern Ireland</option>
+	<option value="IE">Ireland</option>
+	<option value="AR">Argentina</option>
+	<option value="BZ">Belize</option>
+	<option value="BO">Bolivia</option>
+	<option value="BR">Brazil</option>
+	<option value="CL">Chile</option>
+	<option value="CO">Colombia</option>
+	<option value="CR">Costa Rica</option>
+	<option value="EC">Ecuador</option>
+	<option value="SV">El Salvador</option>
+	<option value="GT">Guatemala</option>
+	<option value="GY">Guyana</option>
+	<option value="HN">Honduras</option>
+	<option value="NI">Nicaragua</option>
+	<option value="PA">Panama</option>
+	<option value="PY">Paraguay</option>
+	<option value="PE">Peru</option>
+	<option value="SR">Suriname</option>
+	<option value="UY">Uruguay</option>
+	<option value="VE">Venezuela</option>
+</select>
+
+<select class="langSel mobile" id="languageToggle2" autocomplete="off">
+	<option value="US" selected="">United States</option>
+	<option value="CA">Canada-English</option>
+	<option value="CF">Canada-French</option>
+	<option value="ES">Spain</option>
+	<option value="MX">Mexico</option>
+	<option value="EE">England</option>
+	<option value="WW">Wales</option>
+	<option value="SS">Scotland</option>
+	<option value="NN">Northern Ireland</option>
+	<option value="IE">Ireland</option>
+	<option value="AR">Argentina</option>
+	<option value="BZ">Belize</option>
+	<option value="BO">Bolivia</option>
+	<option value="BR">Brazil</option>
+	<option value="CL">Chile</option>
+	<option value="CO">Colombia</option>
+	<option value="CR">Costa Rica</option>
+	<option value="EC">Ecuador</option>
+	<option value="SV">El Salvador</option>
+	<option value="GT">Guatemala</option>
+	<option value="GY">Guyana</option>
+	<option value="HN">Honduras</option>
+	<option value="NI">Nicaragua</option>
+	<option value="PA">Panama</option>
+	<option value="PY">Paraguay</option>
+	<option value="PE">Peru</option>
+	<option value="SR">Suriname</option>
+	<option value="UY">Uruguay</option>
+	<option value="VE">Venezuela</option>
+</select>		</div>
+	</div>
+	<div class=" flex-row ai-center jc-center bottom-bar">
+		<a href="/" class="text-no-dec desktop">
+			<img style="width: 165px;padding-right: 15px;" src="https://dk2d6nav3mn9d.cloudfront.net/assets/img/sr_image/menu/GofoboLogo.png">
+		</a>
+		<a class="text-no-dec desktop" href="/main/code_redeem">
+			<p class="bottom-text">Redeem</p>
+		</a>
+		<a class="text-no-dec desktop" href="/main/local_screenings">
+			<p class="bottom-text">Screenings</p>
+		</a>
+		<a class="text-no-dec desktop" href="/main/sweepstakes_browse">
+			<p class="bottom-text">Sweepstakes</p>
+		</a>
+				<a class="text-no-dec desktop" href="/main/gofobo_local_landing">
+			<p class="bottom-text">Local</p>
+		</a>
+				<a class="text-no-dec desktop" href="/main/movies">
+			<p class="bottom-text">Movies/Events</p>
+		</a>
+		<a class="text-no-dec desktop" href="/main/verified_movie_ratings">
+			<p class="bottom-text">VERIFIED MOVIE RATINGS</p>
+		</a>
 		<div id="trigger-overlay" class="trigger"></div>
-		<a style="margin-left:0px;" class="logo" href="/"></a>
-		<ul style="margin-left:190px;" class="">
-			<li><a href="/main/code_redeem">REDEEM</a>	</li>		
-			<li><a href="/main/local_screenings">Find Screenings</a></li>
-			<li><a href="/main/sweepstakes_browse">Sweepstakes</a></li>
-			<li><a href="/main/how_it_works">How It Works</a></li>
-						<li><a href="/main/gofobo_local_landing">Local</a></li>
-						<li><a href="/main/movies">Movies</a></li>
-						<li><a href="/main/events">Events</a></li>
-						<li>
-				<select class="langSel" id="languageToggle" autocomplete="off">
-					<option value="US" data-image="/assets/img/dd/blank.gif" data-imagecss="flag us" data-title="United States" selected="">United States</option>
-					<option value="CA" data-image="/assets/img/dd/blank.gif" data-imagecss="flag ca" data-title="Canada">Canada-English</option>
-					<option value="CF" data-image="/assets/img/dd/blank.gif" data-imagecss="flag ca" data-title="Canada">Canada-French</option>
-					<option value="ES" data-image="/assets/img/dd/blank.gif" data-imagecss="flag es" data-title="Spain">Spain</option>
-					<option value="MX" data-image="/assets/img/dd/blank.gif" data-imagecss="flag mx" data-title="Mexico">Mexico</option>
-					<option value="EE" data-image="/assets/img/dd/blank.gif" data-imagecss="flag england" data-title="England">England</option>
-					<option value="WW" data-image="/assets/img/dd/blank.gif" data-imagecss="flag wales" data-title="Wales">Wales</option>
-					<option value="SS" data-image="/assets/img/dd/blank.gif" data-imagecss="flag scotland" data-title="Scotland">Scotland</option>
-					<option value="NN" data-image="/assets/img/dd/blank.gif" data-imagecss="flag gb" data-title="Northern Ireland">Northern Ireland</option>
-					<option value="IE" data-image="/assets/img/dd/blank.gif" data-imagecss="flag ie" data-title="Ireland">Ireland</option>
-					<option value="AR" data-image="/assets/img/dd/blank.gif" data-imagecss="flag ar" data-title="Argentina">Argentina</option>
-					<option value="BZ" data-image="/assets/img/dd/blank.gif" data-imagecss="flag bz" data-title="Belize">Belize</option>
-					<option value="BO" data-image="/assets/img/dd/blank.gif" data-imagecss="flag bo" data-title="Bolivia">Bolivia</option>
-					<option value="BR" data-image="/assets/img/dd/blank.gif" data-imagecss="flag br" data-title="Brazil">Brazil</option>
-					<option value="CL" data-image="/assets/img/dd/blank.gif" data-imagecss="flag cl" data-title="Chile">Chile</option>
-					<option value="CO" data-image="/assets/img/dd/blank.gif" data-imagecss="flag co" data-title="Colombia">Colombia</option>
-					<option value="CR" data-image="/assets/img/dd/blank.gif" data-imagecss="flag cr" data-title="Costa Rica">Costa Rica</option>
-					<option value="EC" data-image="/assets/img/dd/blank.gif" data-imagecss="flag ec" data-title="Ecuador">Ecuador</option>
-					<option value="SV" data-image="/assets/img/dd/blank.gif" data-imagecss="flag sv" data-title="El Salvador">El Salvador</option>
-					<option value="GT" data-image="/assets/img/dd/blank.gif" data-imagecss="flag gt" data-title="Guatemala">Guatemala</option>
-					<option value="GY" data-image="/assets/img/dd/blank.gif" data-imagecss="flag gy" data-title="Guyana">Guyana</option>
-					<option value="HN" data-image="/assets/img/dd/blank.gif" data-imagecss="flag hn" data-title="Honduras">Honduras</option>
-					<option value="NI" data-image="/assets/img/dd/blank.gif" data-imagecss="flag ni" data-title="Nicaragua">Nicaragua</option>
-					<option value="PA" data-image="/assets/img/dd/blank.gif" data-imagecss="flag pa" data-title="Panama">Panama</option>
-					<option value="PY" data-image="/assets/img/dd/blank.gif" data-imagecss="flag py" data-title="Paraguay">Paraguay</option>
-					<option value="PE" data-image="/assets/img/dd/blank.gif" data-imagecss="flag pe" data-title="Peru">Peru</option>
-					<option value="SR" data-image="/assets/img/dd/blank.gif" data-imagecss="flag sr" data-title="Suriname">Suriname</option>
-					<option value="UY" data-image="/assets/img/dd/blank.gif" data-imagecss="flag uy" data-title="Uruguay">Uruguay</option>
-					<option value="VE" data-image="/assets/img/dd/blank.gif" data-imagecss="flag ve" data-title="Venezuela">Venezuela</option>
-
-				</select>
-			</li><li>
-		</li></ul>
-
-		
 	</div>
 </div>
+
+<a href="/" class="text-no-dec mobile"><img class="logo-bar mobile" src="https://dk2d6nav3mn9d.cloudfront.net/assets/img/sr_image/menu/GofoboLogo.png"></a>
 <!-- Mobile Menu -->
-<div class="overlay overlay-hugeinc">
-	<img class="mobile-logo" src="https://s3-us-west-2.amazonaws.com/gofobo/assets/emailImages/logo.png">
-	<button type="button" class="overlay-close">Close</button>
+<div class="overlay overlay-hugeinc mobile">
+	<a href="/" class="text-no-dec mobile">
+	<img class="mobile-logo" src="https://dk2d6nav3mn9d.cloudfront.net/assets/img/sr_image/menu/GofoboLogo.png">
+	</a>
+	<button type="button" class="overlay-close"></button>
 	<ul>
 			
-		<li><a href="/main/code_redeem">REDEEM</a></li>		
-		<li><a href="/main/local_screenings">Find Screenings</a></li>
+		<li><a href="/main/code_redeem">Redeem</a></li>		
+		<li><a href="/main/local_screenings">Screenings</a></li>
 		<li><a href="/main/sweepstakes_browse">Sweepstakes</a></li>
-		<li><a href="/main/how_it_works">How It Works</a></li>
-				<li><a href="/main/gofobo_local_landing">Local</a></li>
-				<li><a href="/main/movies">Movies</a></li>
-				<li><a href="/main/events">Events</a></li>
-				<li style="padding-top:10px;">
-			<select class="langSel mobile" id="languageToggle2" autocomplete="off">
-					<option value="US" data-image="/assets/img/dd/blank.gif" data-imagecss="flag us" data-title="United States" selected="">United States</option>
-					<option value="CA" data-image="/assets/img/dd/blank.gif" data-imagecss="flag ca" data-title="Canada">Canada-English</option>
-					<option value="CF" data-image="/assets/img/dd/blank.gif" data-imagecss="flag ca" data-title="Canada">Canada-French</option>
-					<option value="ES" data-image="/assets/img/dd/blank.gif" data-imagecss="flag es" data-title="Spain">Spain</option>
-					<option value="MX" data-image="/assets/img/dd/blank.gif" data-imagecss="flag mx" data-title="Mexico">Mexico</option>
-					<option value="EE" data-image="/assets/img/dd/blank.gif" data-imagecss="flag england" data-title="England">England</option>
-					<option value="WW" data-image="/assets/img/dd/blank.gif" data-imagecss="flag wales" data-title="Wales">Wales</option>
-					<option value="SS" data-image="/assets/img/dd/blank.gif" data-imagecss="flag scotland" data-title="Scotland">Scotland</option>
-					<option value="NN" data-image="/assets/img/dd/blank.gif" data-imagecss="flag gb" data-title="Northern Ireland">Northern Ireland</option>
-					<option value="IE" data-image="/assets/img/dd/blank.gif" data-imagecss="flag ie" data-title="Ireland">Ireland</option>
-					<option value="AR" data-image="/assets/img/dd/blank.gif" data-imagecss="flag ar" data-title="Argentina">Argentina</option>
-					<option value="BZ" data-image="/assets/img/dd/blank.gif" data-imagecss="flag bz" data-title="Belize">Belize</option>
-					<option value="BO" data-image="/assets/img/dd/blank.gif" data-imagecss="flag bo" data-title="Bolivia">Bolivia</option>
-					<option value="BR" data-image="/assets/img/dd/blank.gif" data-imagecss="flag br" data-title="Brazil">Brazil</option>
-					<option value="CL" data-image="/assets/img/dd/blank.gif" data-imagecss="flag cl" data-title="Chile">Chile</option>
-					<option value="CO" data-image="/assets/img/dd/blank.gif" data-imagecss="flag co" data-title="Colombia">Colombia</option>
-					<option value="CR" data-image="/assets/img/dd/blank.gif" data-imagecss="flag cr" data-title="Costa Rica">Costa Rica</option>
-					<option value="EC" data-image="/assets/img/dd/blank.gif" data-imagecss="flag ec" data-title="Ecuador">Ecuador</option>
-					<option value="SV" data-image="/assets/img/dd/blank.gif" data-imagecss="flag sv" data-title="El Salvador">El Salvador</option>
-					<option value="GT" data-image="/assets/img/dd/blank.gif" data-imagecss="flag gt" data-title="Guatemala">Guatemala</option>
-					<option value="GY" data-image="/assets/img/dd/blank.gif" data-imagecss="flag gy" data-title="Guyana">Guyana</option>
-					<option value="HN" data-image="/assets/img/dd/blank.gif" data-imagecss="flag hn" data-title="Honduras">Honduras</option>
-					<option value="NI" data-image="/assets/img/dd/blank.gif" data-imagecss="flag ni" data-title="Nicaragua">Nicaragua</option>
-					<option value="PA" data-image="/assets/img/dd/blank.gif" data-imagecss="flag pa" data-title="Panama">Panama</option>
-					<option value="PY" data-image="/assets/img/dd/blank.gif" data-imagecss="flag py" data-title="Paraguay">Paraguay</option>
-					<option value="PE" data-image="/assets/img/dd/blank.gif" data-imagecss="flag pe" data-title="Peru">Peru</option>
-					<option value="SR" data-image="/assets/img/dd/blank.gif" data-imagecss="flag sr" data-title="Suriname">Suriname</option>
-					<option value="UY" data-image="/assets/img/dd/blank.gif" data-imagecss="flag uy" data-title="Uruguay">Uruguay</option>
-					<option value="VE" data-image="/assets/img/dd/blank.gif" data-imagecss="flag ve" data-title="Venezuela">Venezuela</option>
-				</select>
-			</li><li>
+		          <li><a href="/main/gofobo_local_landing">Local</a></li>	
+				<li><a href="/main/movies">Movies/Events</a></li>
+		<li><a href="/main/verified_movie_ratings">VERIFIED MOVIE RATINGS</a></li>
+		<li style="padding-top:10px;">
+			<select class="langSel desktop" id="languageToggle" autocomplete="off">
+	<option value="US" selected="">United States</option>
+	<option value="CA">Canada-English</option>
+	<option value="CF">Canada-French</option>
+	<option value="ES">Spain</option>
+	<option value="MX">Mexico</option>
+	<option value="EE">England</option>
+	<option value="WW">Wales</option>
+	<option value="SS">Scotland</option>
+	<option value="NN">Northern Ireland</option>
+	<option value="IE">Ireland</option>
+	<option value="AR">Argentina</option>
+	<option value="BZ">Belize</option>
+	<option value="BO">Bolivia</option>
+	<option value="BR">Brazil</option>
+	<option value="CL">Chile</option>
+	<option value="CO">Colombia</option>
+	<option value="CR">Costa Rica</option>
+	<option value="EC">Ecuador</option>
+	<option value="SV">El Salvador</option>
+	<option value="GT">Guatemala</option>
+	<option value="GY">Guyana</option>
+	<option value="HN">Honduras</option>
+	<option value="NI">Nicaragua</option>
+	<option value="PA">Panama</option>
+	<option value="PY">Paraguay</option>
+	<option value="PE">Peru</option>
+	<option value="SR">Suriname</option>
+	<option value="UY">Uruguay</option>
+	<option value="VE">Venezuela</option>
+</select>
+
+<select class="langSel mobile" id="languageToggle2" autocomplete="off">
+	<option value="US" selected="">United States</option>
+	<option value="CA">Canada-English</option>
+	<option value="CF">Canada-French</option>
+	<option value="ES">Spain</option>
+	<option value="MX">Mexico</option>
+	<option value="EE">England</option>
+	<option value="WW">Wales</option>
+	<option value="SS">Scotland</option>
+	<option value="NN">Northern Ireland</option>
+	<option value="IE">Ireland</option>
+	<option value="AR">Argentina</option>
+	<option value="BZ">Belize</option>
+	<option value="BO">Bolivia</option>
+	<option value="BR">Brazil</option>
+	<option value="CL">Chile</option>
+	<option value="CO">Colombia</option>
+	<option value="CR">Costa Rica</option>
+	<option value="EC">Ecuador</option>
+	<option value="SV">El Salvador</option>
+	<option value="GT">Guatemala</option>
+	<option value="GY">Guyana</option>
+	<option value="HN">Honduras</option>
+	<option value="NI">Nicaragua</option>
+	<option value="PA">Panama</option>
+	<option value="PY">Paraguay</option>
+	<option value="PE">Peru</option>
+	<option value="SR">Suriname</option>
+	<option value="UY">Uruguay</option>
+	<option value="VE">Venezuela</option>
+</select>		</li><li>
 				</li><li><a class="red-buttons" href="/main/login">Login</a></li>
 		<li><a class="red-buttons" href="/main/account_create">Sign Up</a></li>
-		<li><a class="red-buttons" href="/main/contact">Contact</a></li>
+		<li><a class="red-buttons" href="/main/advertise">Work With Us</a></li>
 			</ul>
 </div>
 
 	
 	<!-- HEADER -->
-	<div class="top-banner-blue with-bottom-footer"></div>
+	<div class="top-banner-blue "></div>
 
 	<!-- CONTENT -->
-	<div class="content with-bottom-footer">
+	<div class="content ">
 		<div class="inner">
 			<h1 class="mt0_5">PRIVACY POLICY</h1>
 			<div class="chunk left eightyfive expandable">
@@ -443,7 +412,7 @@
 	</div>
 	
 	<!-- FOOTER -->
-	<div class="footer bottom">
+	<div class="">
 <script>
 $( document ).ready(function() {
 
@@ -711,7 +680,7 @@ $( document ).ready(function() {
 
 $(document).ready(function(e) {     
   //convert
-  $(".langSel").msDropdown({roundedBorder:false});
+  //$(".langSel").msDropdown({roundedBorder:false});
   $("#tech").data("dd");
 });
 
@@ -729,49 +698,73 @@ $(document).ready(function(e) {
 	
 	<div class="top-border"></div>
 	<div class="inner footer-logo">
-		<ul>
-			<li style="text-transform:uppercase" class="footer-bold">Company</li>
-			<li><a href="/main/how_it_works">How It Works</a></li>
-			<li><a href="/main/login">Login</a></li>
-			<li><a href="/main/account_create">Sign Up</a></li>
-			<li><a href="/main/about">About</a></li>
-			<li><a href="/main/contact">Contact</a></li>
-			<li><a href="/main/advertise">Advertise With Us</a></li>
-			<li><a href="/main/faq">FAQ</a></li>
-			<li><a href="/main/terms_of_service">Terms And Conditions</a></li>
-			<li><a href="/main/privacy_policy">Privacy Policy</a></li>
-      <li><a href="/main/cookie_policy">Cookie Policy</a></li>
-			<li><a href="/main/sitemap">Sitemap</a></li>
-		</ul>
-		<ul>
-			<li class="footer-bold">GETTING PASSES</li>
-			<li><a href="/main/code_redeem">Redeem a Code</a></li>
-			<li><a href="/main/local_screenings">Upcoming Screenings</a></li>
-			<li><a href="/main/sweepstakes_browse">Sweepstakes</a></li>
-      			<li><a href="/main/newsletter">Newsletter</a></li>
-      <li><a href="http://blog.gofobo.com/">Blog</a></li>
-      <li><a href="/mobileapp">Get the App</a></li>
-      <li><a href="/main/gofobo_local_landing">Local</a></li>
-      		</ul>
-		<div class="eighty block-center mt1">
-			<hr class="blue">
+		<div class="col">
+			<div style="text-transform:uppercase" class="footer-bold">Account</div>
+			<div class="mt1"><a href="/main/account_create">Sign Up</a></div>
+      <div class="mt1"><a href="/main/login">Login</a></div>
+			<div class="mt1"><a href="/main/about">About Us</a></div>
+      <div class="mt1"><a href="/main/how_it_works">How It Works</a></div>
+    </div>
+    <div class="col">
+      <div class="footer-bold">GET PASSES</div>
+      <div class="mt1"><a href="/main/code_redeem">Redeem a Code</a></div>
+      <div class="mt1"><a href="/main/local_screenings">Upcoming Screenings</a></div>
+      <div class="mt1"><a href="/main/sweepstakes_browse">Sweepstakes</a></div>
+    </div>
+    <div class="col">
+      <div style="text-transform:uppercase" class="footer-bold">Entertainment</div>
+      <div class="mt1"><a href="/main/movies">Movies</a></div>
+      <!-- div class="mt1"><a href="/main/movies">Events</a></div -->
+      <div class="mt1"><a href="/main/verified_movie_ratings">Verified Movie Ratings</a></div>
+            <div class="mt1"><a href="/main/gofobo_local_landing">Local</a></div>
+<!--       <div class="mt1"><a href="http://blog.gofobo.com/">Blog</a></div> --> 
+     <div class="mt1"><a href="/main/newsletter">Newsletter</a></div>
+      <div class="mt1"><a href="/mobileapp">Get the App</a></div>
+          </div>
+    <div class="col">
+      <div style="text-transform:uppercase" class="footer-bold">Support</div>
+			<div class="mt1"><a href="/main/contact">Contact Us</a></div>
+			<div class="mt1"><a href="/main/faq">FAQ</a></div>
 		</div>
-		<ul class="social">
-			<li style="text-transform:uppercase" class="footer-bold">Connect</li>
-			<li><a class="icon fb-white fl" href="https://www.facebook.com/gofobo" target="_blank"></a></li>
-			<li><a class="icon tw-white fl" href="https://twitter.com/gofobo"></a></li>
-			<li><a class="icon gp-white fl" href="https://google.com/+gofobo" target="_blank"></a></li>
-			<li><a class="icon in-white fl" href="https://www.youtube.com/user/gofobo" target="_blank"></a></li>
-			<li><a class="icon ig-white fl" href="http://instagram.com/gofobo_official?ref=badge" target="_blank"></a></li>
-		</ul>
-		<ul>
-			<li class="copyright">© 2017 gofobo All Rights Reserved.</li>
-		</ul> 
+    <div class="col">
+      <div style="text-transform:uppercase" class="footer-bold">Advertise With Us</div>
+      <div class="mt1"><a href="/main/ticket_with_us">Movie and Event Screenings</a></div>
+      <div class="mt1"><a href="/main/costs_advertise">Fill a Screening</a></div>
+      <div class="mt1"><a href="/main/advertise">More</a></div>
+      <br>
+      <div style="text-transform:uppercase" class="footer-bold mt1">Connect</div>
+      <div class="social">
+        <div><a class="icon fb-white fl mt1" href="https://www.facebook.com/gofobo" target="_blank"></a></div>
+        <div><a class="icon tw-white fl mt1" href="https://twitter.com/gofobo"></a></div>
+        <div><a class="icon gp-white fl mt1" href="https://google.com/+gofobo" target="_blank"></a></div>
+        <div><a class="icon in-white fl mt1" href="https://www.youtube.com/user/gofobo" target="_blank"></a></div>
+        <div><a class="icon ig-white fl mt1" href="http://instagram.com/gofobo_official?ref=badge" target="_blank"></a></div>
+      </div>
+    </div>
+    <div class="block-center mt1">
+      <hr style="width: 100%" class="blue">
+    </div>
+
+    <div class="foot">
+  		<div class="copyright">© 2018 gofobo All Rights Reserved.</div>
+      <div class="policies">
+        <a href="/main/terms_of_service">Terms</a> | 
+        <a href="/main/privacy_policy">Privacy</a> | 
+        <a href="/main/cookie_policy">Cookies</a> | 
+        <a href="/main/sitemap">Site Map</a>
+  		</div> 
+    </div>
 	</div>
 </div>
-<!--
-<script type="text/javascript" src="/assets/js/classie.js"></script>
-<script type="text/javascript" src="/assets/js/demo1.js"></script>--></div>
+
+<script async="" type="text/javascript" src="/assets/js/classie.js"></script>
+<script async="" type="text/javascript" src="/assets/js/demo1.js"></script>
+
+<!-- STICKY AD -->
+<div class="proper-ad-unit ad-sticky">
+  <div id="proper-ad-gofobo_sticky_1"> <script> propertag.cmd.push(function() { proper_display('gofobo_sticky_1'); }); </script> </div>
+</div>
+</div>
 	<script type="text/javascript" charset="utf-8">
 	// Place this code snippet near the footer of your page before the close of the /body tag
 	// LEGAL NOTICE: The content of this website and all associated program code are protected under the Digital Millennium Copyright Act. Intentionally circumventing this code may constitute a violation of the DMCA.           
