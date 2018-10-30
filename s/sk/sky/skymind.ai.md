@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skymind.ai privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416150644id_/https%3A//skymind.ai/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skymind.ai privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030085423id_/https%3A//skymind.ai/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Skymind
 
 **  
 A. Scope**
