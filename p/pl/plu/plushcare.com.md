@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plushcare.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513172359id_/https%3A//www.plushcare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plushcare.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030061838id_/https%3A//www.plushcare.com/privacy) for the most accurate reproduction.*
 
 # PlushCare | Privacy Policy
 
@@ -73,7 +73,9 @@ Unless you object, we may disclose to a member of your family, a relative, a clo
 
 California law provides that we may disclose such information to a family member, other relative, domestic partner, a close personal friend, or any other person identified by you. 
 
-D. Uses and Disclosures of Protected Health Information Based upon Your Written Authorization 
+D. Wellness Plan Participation. If you participate in a voluntary employer or group health plan wellness program that engages PlushCare to administer the laboratory and biometric collection, we may without your consent, share your PHI with third-party entities involved in the provision of wellness, health promotion or similar services on behalf of the employer or group health plan. The services provided by these entities may include, but are not limited to, health clinic administration, disease management programs, health coaching, diabetes management , consulting and prevention. You may be contacted directly from these service providers. Please note this section D, only applies to employees of employers or participants of group health plan sponsoring wellness programs and where PlushCare has been engaged to organize and administer onsite and/or at-lab laboratory testing as part of that program. 
+
+E. Uses and Disclosures of Protected Health Information Based upon Your Written Authorization 
 
 Marketing: We must obtain your written authorization to use and disclose your PHI for most marketing purposes. 
 
@@ -117,4 +119,4 @@ info@plushcare.com
 
 You have the right to file a complaint with the US Department of Health & Human Services (HHS). We will not retaliate against you in any way for filing a complaint. You may also submit your complaint to the Secretary. 
 
-This notice is effective on April 10, 2014. 
+This notice is effective on January 11th, 2018. 
