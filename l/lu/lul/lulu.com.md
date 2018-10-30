@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lulu.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615103606id_/http%3A//www.lulu.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lulu.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030222125id_/http%3A//www.lulu.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Self Publishing, Book Printing and Publishing Online - Lulu
 
