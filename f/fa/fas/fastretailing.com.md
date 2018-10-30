@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastretailing.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620124835id_/http%3A//www.fastretailing.com/eng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastretailing.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030042300id_/https%3A//www.fastretailing.com/eng/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FAST RETAILING CO., LTD.
 
