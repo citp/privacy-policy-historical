@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pubg.me privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125163317id_/https%3A//pubg.me/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubg.me privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030010647id_/https%3A//pubg.me/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PUBG.ME
 
