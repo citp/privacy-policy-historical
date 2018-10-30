@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustflowchecker.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023064729id_/http%3A//www.trustflowchecker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustflowchecker.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030041035id_/http%3A//www.trustflowchecker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TrustFlowChecker.com
 
