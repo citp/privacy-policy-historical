@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the httpwatch.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627101835id_/http%3A//www.httpwatch.com/company/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the httpwatch.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030102348id_/https%3A//www.httpwatch.com/company/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | HttpWatch
 
