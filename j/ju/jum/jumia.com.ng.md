@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumia.com.ng privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303125059id_/http%3A//www.jumia.com.ng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumia.com.ng privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030060626id_/https%3A//www.jumia.com.ng/privacy) for the most accurate reproduction.*
 
 # Online Privacy Statement | Jumia Nigeria Online Shopping Site
 
@@ -20,6 +20,8 @@ User data collected help us to personalize our website according to each userís
   * Prevent and detect fraud and abuse on our website
 
 
+
+By completing an order or signing up, you agree to receive a) emails associated with finalizing your order, which may contain relevant offers from third parties, and b) emails asking you to review Jumia and your purchase and c) promotional emails, SMS and push notifications from Jumia. You may unsubscribe from promotional emails via a link provided in each email. If you would like us to remove your personal information from our database, unsubscribe from emails and/or SMS, please email Customer Service email address by country
 
 2\. What about Cookies?
 
