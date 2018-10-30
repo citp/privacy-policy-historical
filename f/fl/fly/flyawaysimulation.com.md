@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyawaysimulation.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002152914id_/https%3A//flyawaysimulation.com/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyawaysimulation.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030024742id_/https%3A//flyawaysimulation.com/terms-privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use - Fly Away Simulation
 
@@ -61,40 +61,47 @@ This specific Online Privacy Policy governs the manner that Fly Away Simulation 
 
 We might acquire particular personal identity data from Users via many different approaches, which includes, however is not restricted to, when Users visit this website, sign in on the site, sign up for the e-newsletter, along with connection to other features, items, solutions, activities, information or resources we offer on our Site. Users could possibly be requested, as relevant, email address contact information or bank card data. Users might, nevertheless, visit our Site anonymously. We're going to gather individual personal identity data from Users only on condition that they willingly give this kind of data to us. Users can still refuse to provide individual identification data; with the exception that it may possibly stop these individuals from taking part in particular Site related functions.
 
-### Non-personal personal identity data
+### Non-personal identity data
 
 We might gather non-personal identification details about a User if he or she connects with our Site. Non-personal ID details might include the internet browser brand name, the sort of personal computer and technological details about the User’s method of linking with our Site, for instance the operating system and also the Internet service providers employed as well as other corresponding material.
 
-### **Internet browser cookies**
+### Internet Browser Cookies
 
-Our Site may make use of "cookies" to further improve User experience. User's internet browser applies cookies on the hard disk for record-keeping objectives and in some cases to trace information regarding him or her. User might choose to direct his or her internet browser to reject cookies, or to tell you any time cookies are going to be dispatched. Should they do this, realize that certain parts of the Site could possibly not perform effectively or as intended.
+#### What Are Cookies?
 
-### The way we utilize accumulated material
+Cookies are small files that are saved on your local device (computer, tablet, laptop etc.) by websites that you visit.  Cookies can be used for many different purposes which we describe in further detail below.
 
-Fly Away Simulation accumulates and employs Users personal data for these uses:
+#### How We Use Cookies
 
-  * **To individualize consumer experience**  
-We might possibly utilize details within the aggregate to learn the way in which our Users as a group make use of products and services made available on our Site.
-  * **To make improvements to our Site**  
-We regularly endeavor to make improvements to our online site services and products depending on the specifics and suggestions we get from you.
-  * **To enhance client service**  
-Your details allow us to more efficiently react to your customer care requirements and support specifications.
-  * **To process transactions**  
-We might utilize details Users offer about themselves in the event they place an order simply to furnish service to the item or service ordered. We don't reveal these details to external participants other than to the degree needed to give the services.
-  * **To manage a website content, promo, customer survey or any other Site feature**  
-To deliver Users material they opted to receive pertaining to subject areas we believe are going to be appealing to them.
-  * **To send out occasional e-mail messages**  
-The e-mail address Users give for order finalizing, are only utilized to transmit him or her information and facts related to their order. This may also be utilized to reply to his or her questions, and/or various other needs or concerns. If User chooses to opt-in to the subscriber list, they may obtain email messages that could involve organization reports, up-dates, relevant products or services data, etc. If at any time the User would wish to remove themselves from accepting upcoming email messages, we normally include in-depth unsubscribe details at the end of every electronic mail or User can get in touch with us by way of our Site.
+We may use cookies to gather information from your visit to our site.  None of the data gathered will contain personal details or identifying data.  The data sought by the cookie helps us improve our website and any service offered to you.  Your web browser also has the option of blocking cookies entirely by changing your browser settings.  However, if you do block cookies, some areas of the website may not work as expected.
 
+#### Types of Cookies We Use
 
+##### Session Cookies
 
-### Advertising Displayed To You
+Session cookies allow us to ensure we display the correct pages and information from what you may select on the site giving you the best user experience.  For example, this could include redirecting you back to the correct page in order to create your account when signing up after payment.  Another example is when you log in to your account, it will ensure that the correct pages are displayed to reflect your logged-in status.
 
-We may display advertisements to you alongside content available on this Site.  
+##### Persistent Cookies
 
-In order to display targeted advertisements, third party vendors including Google will use browser cookies to generate relevant advertisements.  By using these cookies, the advertisements can be targeted more specifically to your browsing history.  Fly Away Simulation use the Google AdSense platform to deliver ads to our users and may also include third-party vendors and ad networks from within the Google AdSense platform.  
+Persistent cookies allow us to keep track of your preferred privacy settings.  They allow us to know whether you have accepted the website terms and conditions (specifically related to cookie options).  They can last up to 2 years or until you clear your web browser cookies or cache. 
 
-You, the User may opt-out of personalized advertising from Google AdSense by visiting the following URL: <https://www.google.com/settings/ads>  You may also visit <http://www.aboutads.info/choices/> to opt-out of third-party vendors' use of cookies for advertising purposes.
+##### Analytical Cookies
+
+We use Google Analytics to monitor how many people visit the Site, what pages are popular and where visitors have arrived from.  We do not collect IP address information and all of the data gathered is anonymous.  Google Analytics has a special feature that we have enabled that anonymizes the IP address data before any storage or processing takes place.  We do not track pages with identifiable variables such as name, username or IP address contained in the URL.  Collecting this analytical data enables us to provide a better experience to our users.  No personally identifiable information is recorded in these cookies (applies globally) and when used they are always transmitted over SSL.
+
+##### Advertising Cookies
+
+We may display advertisements to you alongside content available on this Site.  We use the Google Adsense platform to display advertising on the Site.  
+
+_Visitors inside the EEA:_
+
+Any visitors to this Site from the EEA will not be displayed personalized advertisements and the Adsense platform will show only non-personalized ads to users in the EEA.
+
+_For visitors outside the EEA:_
+
+In order to display targeted advertisements, third-party vendors including Google will use browser cookies to generate relevant advertisements.  By using these cookies, the advertisements can be targeted more specifically to your browsing history.  Fly Away Simulation use the Google AdSense platform to deliver ads to our users and may also include third-party vendors and ad networks from within the Google AdSense platform.
+
+You, the User may opt-out of personalized advertising from Google AdSense by visiting the following URL: <https://adssettings.google.com/>  You may also visit <http://www.aboutads.info/choices/> to opt-out of third-party vendors' use of cookies for advertising purposes
 
 ### How we guard your data
 
@@ -143,4 +150,4 @@ United Kingdom
 
 Top
 
-**This document was last updated on March 31, 2017.**
+**This document was last updated on April 19, 2018.**
