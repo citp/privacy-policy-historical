@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabreakingnews.co.za privacy policy that was archived on 2018-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180305191649id_/http%3A//www.sabreakingnews.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabreakingnews.co.za privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030072741id_/https%3A//www.sabreakingnews.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SA Breaking News
 
