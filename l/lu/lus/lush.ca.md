@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lush.ca privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924150139id_/http%3A//www.lush.ca/en/CustomerService-Page%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lush.ca privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030073555id_/https%3A//www.lush.ca/en/customer-care%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Lush Fresh Handmade Cosmetics CA
 
-[Policies](http://www.lush.ca/en/CustomerService-Page?cid=policies)
+[Policies](https://www.lush.ca/en/customer-care?cid=policies)
 
 This privacy policy was last updated September 10, 2014.
 
@@ -164,4 +164,4 @@ Attention: Privacy Officer
 [customercare@lush.com](mailto:customercare@lush.com)  
 1-888-733-5874
 
-For additional information regarding the use of our Website please see our [Terms of Use](http://www.lush.ca/en/CustomerService-Page?cid=terms) posted on the Website.
+For additional information regarding the use of our Website please see our [Terms of Use](https://www.lush.ca/en/customer-care?cid=terms) posted on the Website.
