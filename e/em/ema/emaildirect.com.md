@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emaildirect.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525144917id_/http%3A//www.emaildirect.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emaildirect.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030235819id_/http%3A//www.emaildirect.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Campaigner
 
