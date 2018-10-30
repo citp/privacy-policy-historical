@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the curalate.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906094850id_/http%3A//www.curalate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curalate.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030074317id_/https%3A//www.curalate.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy - Curalate Social Commerce Platform
+
+**InternetRetailing.net** | See how Monsoon is using Curalate to increase time on site by 29% [ Read the Article ](http://bit.ly/2Pqd6Zd)
+
+_Last Updated: May 24, 2018_
 
 **1\. About this Privacy Policy**
 
-Thank you for using Curalate and visiting our website. Your privacy is important to us, and we have adopted this Privacy Policy to memorialize our data collection and disclosure practices for our website and its related tools and service, including any mobile applications we provide, our online platform software, and any web pages we control on any third party websites (collectively, the “Service”). The Service is owned and operated by Storably Inc. (“Curalate,” “we,” “us” or “our”). This Privacy Policy applies to anyone using or browsing our Service, and to information provided to us via the Service by visitors, customers or users of our Service (“users,” “you” or “your”). However, it does not apply to information collected from our employees, contractors or vendors, or via any hard copy communications.
+This privacy policy will help you understand what information we collect and use at Curalate, and the choices you have associated with that information. Your privacy is important to us, and we have adopted this Privacy Policy to memorialize our data collection and disclosure practices for our website and its related tools and service, including any mobile applications we provide, our online platform software, and any web pages we control on any third party websites (collectively, the “Service”). The Service is owned and operated by Curalate Inc. (“Curalate,” “we,” “us” or “our”). This Privacy Policy applies to anyone using or browsing our Service, and to information provided to us via the Service by visitors, customers or users of our Service (“users,” “you” or “your”). However, it does not apply to information collected from our employees, contractors or vendors, or via any hard copy communications.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 **2\. Consent**
 
@@ -34,13 +40,13 @@ Curalate reserves the right to transfer information (including your Personal Inf
 
 When you use our Service, we make good faith efforts to provide you with access to your Personal Information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backups), or for which access is not otherwise required. In any case, where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort.
 
-Please e-mail us at [privacy@Curalate.com](mailto:privacy@curalate.com) or contact us at the address stated below with any questions if you need assistance accessing or changing your Personal Information or if you would like to have your Personal Information deleted from our servers. Please be aware that if you delete your Personal Information, you may not be able to continue to use our Service. Please note that if you request that we delete your Personal Information, we may in our sole discretion retain certain information, including your Personal Information, to satisfy our legal, audit and/or dispute resolution requirements. We may also retain your Non-Personal Information indefinitely.
+Please e-mail us at [privacy@Curalate.com](mailto:privacy@Curalate.com) or contact us at the address stated below with any questions if you need assistance accessing or changing your Personal Information or if you would like to have your Personal Information deleted from our servers. Please be aware that if you delete your Personal Information, you may not be able to continue to use our Service. Please note that if you request that we delete your Personal Information, we may in our sole discretion retain certain information, including your Personal Information, to satisfy our legal, audit and/or dispute resolution requirements. We may also retain your Non-Personal Information indefinitely.
 
 **7\. Cookies and Automatic Information Gathering Technologies**
 
 Non-Personal Information (including aggregate, technical or demographic information) can also be collected through the standard operation of our internet servers and logs as well as other automatic data collection tools such as “cookies” and other similar technologies. A “cookie” is a small text file that is recorded either temporarily or persistently on your hard drive and that a website can use in order to recognize visitors who revisit a website so as to facilitate their ongoing access to and use of the website. Information we may collect through cookies and other similar technologies includes your browser type, language preference, operating system, referring website (if applicable), the name and type of device, the operating system of your device, your geographic location, the date and time of each user visit or request, the Social Sites or other discussion forums you visit, and the Curalate service endpoints that you accessed or visited during your use of the Service. We may gather the information we collect from each user and perform statistical analysis of the aggregated information, including analysis about the behavior of visitors to our website on an aggregated, anonymous basis. Any information we collect from you through the use of cookies, web beacons and other technologies may be shared with third parties for direct behavioral advertising or targeted advertising purposes.
 
-You may prevent our use of cookies to collect Non-Personal information about you by adjusting the option that is available in most web browsers to deny or accept cookies. Recognize, however, that cookies may be necessary in order to provide certain features such as the customized delivery of certain information.
+You may prevent our use of cookies to collect Non-Personal information about you by adjusting the option that is available in most web browsers to deny or accept cookies. To learn more about online data collection practices and how you can exercise your rights to opt out, please visit[ http://www.aboutads.info/choices](http://www.aboutads.info/choices) — or[ http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/) if you live within the EU. Recognize, however, that cookies may be necessary in order to provide certain features such as the customized delivery of certain information.
 
 **8.International Users**
 
@@ -64,7 +70,7 @@ Currently, we do not intend to share your Personal Information with third partie
 
 Please note that whenever you choose to share your Personal Information with a third party or to allow your Personal Information to be shared with a third party to communicate with you, your information will be subject to the third party’s privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use your Personal Information and other information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.
 
-California Customers may request further information about our compliance with California’s privacy law by e-mailing [privacy@Curalate.com](mailto:privacy@curalate.com) or contacting us as stated below. Please note that we are only required to respond to one request per customer per year, and we are not required to respond to requests made by means other than through this e-mail address.
+California Customers may request further information about our compliance with California’s privacy law by e-mailing [privacy@curalate.com](mailto:privacy@curalate.com) or contacting us as stated below. Please note that we are only required to respond to one request per customer per year, and we are not required to respond to requests made by means other than through this e-mail address.
 
 **12\. Social Sites and Other Online Forums**
 
@@ -74,11 +80,11 @@ When you choose to post comments, messages and/or profile content on our Service
 
 When you choose to access or connect to the Service or a Social Site through Facebook, Twitter or another social networking website, certain information (“Social Network Information”) may be collected by us. Social Network Information includes, but is not limited to, the login credentials for your Facebook Connect, Twitter or other social networking or information-sharing website account, and information you authorize that third party site to share with us. Social Network Information may also include Personal Information about other individuals that our users authorize and provide to us. Curalate does not evade or circumvent personal privacy settings on Facebook or any other third party site. Also, Curalate does not have any control over any third party websites’ or service’ privacy practices; such websites or service are governed by their respective privacy policies, which you should review carefully.
 
-**13.  Changes to this Policy**
+**13\. Changes to this Policy**
 
 Curalate may modify or update this Privacy Policy periodically with or without prior notice by posting an updated policy on the Service. You can always check the “last updated” date at the top of this document to see when the Privacy Policy was last changed. We may also post a notice of changes to this Privacy Policy on our website. We encourage you to check this Privacy Policy from time to time. Your continued use of our website and/or Service following the posting of an updated Privacy Policy constitutes your consent to the contents of such policy. IF YOU DO NOT AGREE TO FUTURE CHANGES TO THIS PRIVACY POLICY, YOU MUST STOP USING OUR WEBSITE AND SERVICE AFTER THE EFFECTIVE DATE OF SUCH CHANGES. Please note that upon leaving the Service, any Privacy Policy in effect immediately prior to your leaving shall continue to be binding on you.
 
-**14\. Contact Us**
+**14\. Con** **tact Us**
 
 To ask questions about our Privacy Policy, obtain more information, or to lodge a complaint, contact us at:
 
