@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivintsolar.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184417id_/https%3A//www.vivintsolar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivintsolar.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030094123id_/http%3A//vivintsolar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vivint Solar
 
@@ -16,7 +16,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 ## What do we use your information for?
 
-Any of the information we collect from you may be used in one of the following ways: i. To personalize your experience. Your information helps us to better respond to your individual needs. ii. To improve our Site. We continually strive to improve our Site offerings based on the information and feedback we receive from you. iii. To improve customer service. Your information helps us to more effectively respond to your customer service requests and support needs. iv. To process transactions. Your information will not be sold, exchanged, transferred, or given to any company other than an affiliate of Vivint Solar, Inc., such as Vivint, Inc., for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. v. To administer a contest, promotion, survey or other Site feature. vi. To send periodic emails. The email address you provide for order processing will only be used to send you information and updates pertaining to your order. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Any of the information we collect from you may be used in one of the following ways: i. To personalize your experience. Your information helps us to better respond to your individual needs. ii. To improve our Site. We continually strive to improve our Site offerings based on the information and feedback we receive from you. iii. To improve customer service. Your information helps us to more effectively respond to your customer service requests and support needs. iv. To process transactions. Your information will not be sold, exchanged, transferred, or given to any company other than an affiliate of Vivint Solar, Inc., such as Vivint, Inc., for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. v. To administer a contest, promotion, survey or other Site feature. vi. To send periodic emails. The email address you provide for order processing will only be used to send you information and updates pertaining to your order. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. vii. To serve you more relevant advertisements via Google AdWords and Bing Ads on other websites you visit, including Google and other sites (remarketing). This could be an advertisement on the Google or Bing search results pages or on a site in the Google Display Network. viii. To better understand the behavior of our customers and website visitors, we use Google Analytics’ 3rd-party audience data such as gender, interests and age. You can opt out of interest and behavior-based advertising from Google [here](https://adssettings.google.com/), Google Analytics [here](https://tools.google.com/dlpage/gaoptout/) and other third-party ad networks [here](http://www.aboutads.info/choices/).
 
 ## E-mail communications
 
@@ -24,11 +24,11 @@ E-mail is not necessarily secure against all forms of interception. If your comm
 
 ## Other personal information
 
-We may use a mailing address or phone number that a visitor provides for a variety of Vivint Solar related reasons. We may send periodic mailings to visitors or make telephone calls to inform those visitors who have provided a mailing address or telephone number of new products, services or events. We may also share such information with our affiliates, such as Vivint, Inc. If you do not wish to receive such calls or mailings, you may request to be removed from the contact list by contacting Vivint Solar at support@vivintsolar.com or by telephone 877.404.4129. Additionally, you may make your request by writing to Vivint Solar at 1800 W. Ashton Boulevard, Lehi, Utah 84043.
+We may use a mailing address or phone number that a visitor provides for a variety of Vivint Solar related reasons. We may send periodic mailings to visitors or make telephone calls to inform those visitors who have provided a mailing address or telephone number of new products, services or events. We may also share such information with our affiliates, such as Vivint, Inc. If you do not wish to receive such calls or mailings, you may request to be removed from the contact list by contacting Vivint Solar at [support@vivintsolar.com](mailto:support@vivintsolar.com) or by telephone 877.404.4129. Additionally, you may make your request by writing to Vivint Solar at 1800 W. Ashton Boulevard, Lehi, Utah 84043.
 
 ## Do we use cookies?
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. Third-party vendors, including Google, use cookies to serve ads based on your past visits to our website.
 
 ## Do we disclose any information to outside parties?
 
@@ -56,7 +56,7 @@ This online privacy policy applies only to information collected through our Sit
 
 ## Terms and Conditions of Use
 
-Please also visit our Terms and Conditions of Use establishing the use, disclaimers, and limitations of liability governing the use of our Site at<http://www.vivintsolar.com/terms-of-use>
+Please also visit our Terms and Conditions of Use establishing the use, disclaimers, and limitations of liability governing the use of our Site at <https://www.vivintsolar.com/terms-of-use>
 
 ## Your consent
 
@@ -66,4 +66,4 @@ By using our Site, you consent to our online privacy policy.
 
 By using this Site, you consent to the collection and use of your information as we have outlined in this Privacy Policy and to our Terms of Use Policy. Vivint Solar may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
 
-If there are any questions regarding this privacy policy, you may contact us using the information below: Vivint Solar, Inc. 1800 W. Ashton Blvd. Lehi, UT 84043 support@vivintsolar.com 877.404.4129
+If there are any questions regarding this privacy policy, you may contact us using the information below: Vivint Solar, Inc. 1800 W. Ashton Blvd. Lehi, UT 84043 [support@vivintsolar.com](mailto:support@vivintsolar.com) 877.404.4129
