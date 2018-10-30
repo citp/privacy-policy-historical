@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bi-lo.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602105911id_/https%3A//www.bi-lo.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bi-lo.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030065952id_/https%3A//www.bi-lo.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Policies | BI-LO
 
@@ -28,11 +28,11 @@ The Digital Marketing Program may include social media features and widgets, inc
 
 ### Mobile Applications
 
-Our mobile applications may collect certain information from you automatically, including, without limitation, the type of mobile device, the Internet Protocol (IP) address of your mobile device, your mobile operating system, and the location of your mobile device (provided that you give permission for the application of location services). You can stop the collection of information via your mobile device by uninstalling the mobile applications (or, to discontinue the location information only, you can adjust your permission settings in your mobile device.
+Our mobile applications may collect certain information from you automatically, including, without limitation, the type of mobile device, the Internet Protocol (IP) address of your mobile device, your mobile operating system, and the location of your mobile device (provided that you give permission for the application of location services). You can stop the collection of information via your mobile device by uninstalling the mobile applications (or, to discontinue the location information only, you can adjust your permission settings in your mobile device).
 
 ### Pharmacy Records
 
-BI-LO takes special precautions with your pharmacy records. See our [Pharmacy Notice of Privacy Practices](https://web.archive.org/-/media/media/pharmacy/pharmacy-policy.ashx?la=en)for additional information. 
+BI-LO takes special precautions with your pharmacy records. See our [Pharmacy Notice of Privacy Practices](https://web.archive.org/-/media/media/pharmacy/seg%20pharmacy%20notice%20of%20privacy%20%20final%20%20872017doc.pdf?la=en) for additional information. 
 
 ### Privacy of Children
 
