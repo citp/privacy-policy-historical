@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycarhelpline.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523155427id_/http%3A//www.mycarhelpline.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6%26Itemid%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycarhelpline.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030080943id_/https%3A//www.mycarhelpline.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6%26Itemid%3D36) for the most accurate reproduction.*
 
 # Privacy Policy at Modi Online Ventures Mycarhelpline.com
 
