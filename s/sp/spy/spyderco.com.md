@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spyderco.com privacy policy that was archived on 2017-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170214070845id_/http%3A//www.spyderco.com/privacy-security-and-returns) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyderco.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030042018id_/https%3A//www.spyderco.com/privacy-security-and-returns) for the most accurate reproduction.*
 
 # Privacy, Security and Returns – Spyderco, Inc.
 
-[Home](http://www.spyderco.com/ "Go to Spyderco, Inc..")  »  Privacy, Security and Returns
+[Home](https://www.spyderco.com/ "Go to Spyderco, Inc..")  »  Privacy, Security and Returns
 
 **PRIVACY POLICY:**  
 We respect and are committed to protecting your privacy. We may collect personally identifiable information when you visit our site. We also automatically receive and record information on our server logs from your browser including your IP address, cookie information and the page(s) you visited. We will not sell or share your information to anyone.
