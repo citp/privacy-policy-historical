@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namemesh.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606211538id_/http%3A//www.namemesh.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namemesh.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030073018id_/https%3A//www.namemesh.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NameMesh
 
