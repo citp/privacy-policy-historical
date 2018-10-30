@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peopleverified.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628233956id_/http%3A//peopleverified.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleverified.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030035749id_/http%3A//www.peopleverified.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | PeopleVerified.com
 
