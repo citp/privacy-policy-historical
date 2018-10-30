@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultmatchmaker.com.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319200813id_/https%3A//www.adultmatchmaker.com.au/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultmatchmaker.com.au privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030051527id_/http%3A//www.adultmatchmaker.com.au/help/privacy) for the most accurate reproduction.*
 
 # Privacy | Adult Match Maker
 
@@ -193,11 +193,37 @@ If you wish to complain about a breach of the Australian Privacy Principles, ple
   * Third-party vendors, including Google, may show ads on sites across the Internet.
   * We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website.
   * We use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics.
+  * For furhter information on how we use cookies, please refere to our [Cookie Policy](https://web.archive.org/help/cookiepolicy "Cookie Policy").
 
 
+
+### Your rights and your preferences (GDPR Update): 
+
+A new European Union law, called the General Data Protection Regulation or "GDPR" affords certain rights to individuals in relation to their personal data. We have implemented additional transparency and access controls in our Privacy Statement, Account settings and Contact methods to help users take advantage of those rights. As available and except as limited under applicable law, the rights afforded to individuals are:
+
+**Right of access** \- the right to be informed of and request access to the personal data we process about you;
+
+**Right to rectification** \- the right to request that we amend or update your personal data where it is inaccurate or incomplete;
+
+**Right to erasure** \- the right to request that we delete your personal data;
+
+**Right to restrict** \- the right to request that we temporarily or permanently stop processing all or some of your personal data;
+
+**Right to object** \- the right, at any time, to object to us processing your personal data on grounds relating to your particular situation; the right to object to your personal data being processed for direct marketing purposes;
+
+**Right to data** \- the right to request a copy of your personal data in electronic format; and
+
+**Right not to be subject to automated decision-making** \- the right to not be subject to a decision based solely on automated decision making, including profiling, where the decision would have a legal effect on you or produce a similarly significant effect.
+
+In order to enable you to exercise these rights in relation to how Adult Match Maker uses your personal data, we encourage you to read our [Privacy Statement](https://web.archive.org/help/privacy "Privacy Statement") & [Cookie Policy](https://web.archive.org/help/cookiepolicy "Cookie Policy").
+
+To record, make known, or change your preferences we offer the following options:
+
+Account settings - General Account Settings, Privacy & Blocking Settings, Notifications & Communication settings - allow you to choose which communications you receive from us and from other users, Take a break or Terminate account settings;
 
 ### Contacting us
 
-Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by “ContactUs” page on the website or email to support@giga.com.au, or by post  
-The Privacy Officer  
+Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by “ContactUs” page on the website or email to support@giga.com.au, or by post.
 
+**The Privacy Officer**  
+PO BOX 1026, North Sydney, NSW 2059 
