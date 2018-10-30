@@ -1,217 +1,171 @@
-> *The following text is extracted and transformed from the cnusd.k12.ca.us privacy policy that was archived on 2018-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180219223311id_/http%3A//www.schoolwires.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnusd.k12.ca.us privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030014300id_/https%3A//www.schoolmessenger.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy policy / Privacy policy
+# Privacy Statement - SchoolMessenger
 
-## Blackboard Privacy Policy
+**West’s Education Group  
+SchoolMessenger Solutions  
+Privacy Statement**
 
-#### Effective on August 4, 2017  
+West’s Education group, part of West Interactive Services Corporation (in the U.S.) and West Unified Communication Services Canada (in Canada) and the provider of SchoolMessenger solutions, is committed to safeguarding the privacy and security of customer information. We believe the personal information of our service customers and users, and especially of students, is private, and we treat it confidentially. We have developed this privacy statement for our SchoolMessenger products and services, because we believe it is important for you to understand how we treat information you provide to us, or that we collect or maintain on your behalf.
 
+**In General, for our SchoolMessenger solutions:**
 
-Blackboard Inc. (“Blackboard”) is committed to protecting your privacy. This Privacy Policy was developed to give you a full understanding of terms and conditions relating to the handling of certain personal information which may be collected by Blackboard.
+  * • We will not ask for or collect personal information unless necessary to deliver our service or respond to a request;
+  * • We will not use or share personal information with anyone except to deliver our services, comply with the law, protect our rights or the safety of our users, or as otherwise directed by our customers and users;
+  * • We do not sell, trade, lease or loan student personal information to any third party for any reason, including for marketing or advertising; and
+  * • We use industry standard measures to help protect personal information against unauthorized access and use.
 
-This Privacy Policy applies to personal information collected on its Web Community Manager (formerly known as "Schoolwires") websites, applications or associated web-based environments (including mobile applications) provided and hosted by Blackboard (the “Solution”) for your school, school district or other organization (“School”).
 
-Blackboard is currently undergoing an assessment by iKeepSafe regarding the collection, use and disclosure of personally identifiable information in order to obtain the iKeepSafe COPPA Safe Harbor Program Seal.  This program will only cover data that is collected through the Solution. The use of data collected through the Solution shall be limited to the purpose of providing the Solution for which the Client has engaged Blackboard.
 
-This Privacy Policy pertains only to the personal information that Blackboard collects from you or that is provided to us by the School where we serve as the data processor on the School’s behalf. Personal information is information that identifies a particular individual, such as a person’s first and last name, postal address, e-mail address and phone number. 
+This Privacy Statement is divided into two separate and distinct privacy statements for our SchoolMessenger solutions:
 
-In connection with the School’s Solution, this Privacy Policy applies only to the Blackboard practices regarding personal information which is collected on the Solution that is processed and hosted by Blackboard and NOT to sites hosted by the school or another third-party. Blackboard has been retained by the School to provide and host the Solution on which the School has added customized content. The School administers and oversees the Solution and, accordingly, has control over who can register for use of various features of the Solution and who can access the personal information posted or maintained on the Solution. The School can also add content and information directly onto the Solution. The School may have its own policies addressing collection, use and sharing of personal information. For information about whether this Privacy Policy applies to you and about the School's own policy, please contact the School.
+  * • Our **Website Visitor Privacy Statement** covers only those individuals visiting our marketing website [www.SchoolMessenger.com](http://www.schoolmessenger.com/); and
+  * • Our **School Platform & Services Privacy Statement** applies to our educational agency and institution customers who have contracted with or otherwise agreed to license our products and services, and indirectly to users of those services about whom we collect or maintain personal information on our customer’s behalf.
 
-## Information we collect when hosting a School’s Solution
 
-You may visit certain Solutions as a guest without registering. Registration, however, will give you access to certain features as well as the ability to personalize certain features. An individual who seeks access to a Solution, or who seeks to correct, amend, or delete inaccurate data, should direct any query to the School. If the School requests Blackboard to remove the data, we will respond to the request within 30 days. Before a child under 13 may access features that require registration, the School must first obtain any necessary parental consent. After all necessary consent is received by the School, the School is responsible for providing parent access to the child's profile so the parent may, at any time, review, request modifications to, or request deletion of the child's personal information. A parent also has the right to refuse to further collection of the child's information, subject to the School’s policies and procedures in this regard. If you have questions regarding registration, please contact the School.
 
-Blackboard collects and subsequently processes personal information in two ways:
+This statement applies only to the SchoolMessenger branded family of products and services, and does not apply to other products or services of West Corporation. These policies do not supersede any additional or different terms of any agreements between West and its subsidiaries and any customer agency/institution. This statement applies in the case of any conflict with the privacy statement of West Corporation or any other of its subsidiaries.
 
-  1. Self-Registration. If you choose to become a registered user, on behalf of the School, we will ask for personal information from you through the Solution. After we collect this information from you, it may be verified by the School. So that the registration process is compliant with federal law under the Children's Online Privacy Protection Act (COPPA), you are first asked for your birth date. Birth date information is collected only to validate your age and is not stored. Children under 13 years of age are not allowed to register themselves with the Solution. Since we are collecting personal information from students for the use and benefit of the School, all information collected by Blackboard is verified for compliance with applicable laws (such as COPPA) by the School directly and not by Blackboard. If you feel your child under 13 years of age has registered on this Solution without your permission, please contact the School directly.
-  2. Pre-Registration. You may be pre-registered by the School in one of two ways. Either way, the School may not share personal information for children under 13 years of age with Blackboard without first receiving the necessary parental consent as described above. The two means of pre-registration are:
-    * Your School may share registration information with Blackboard, either manually or via an authorized third-party system feed. Blackboard would conduct an import of this registration information.
-    * A school-designated individual may input registration information for you.
+We collect, maintain and use personal information in compliance with applicable laws, including in the United States the federal Family Educational Rights and Privacy Act (FERPA) and in Canada the federal Personal Information Protection and Electronic Documents Act (PIPEDA) as required.
 
+West’s Education group’s SchoolMessenger solutions also are a signatory to the Student Privacy Pledge (www.studentprivacypledge.org), and its commitments and protections are reflected in our relevant School Platform & Services Privacy Policy.
 
+If you have any questions about this privacy statement or our practices for handling personal information, please contact us as follows:
 
-Regardless of the way you are registered, various types of information are collected during registration. Some information is required, such as First and Last Name, Email Address, User Name and Password. These fields are labeled to indicate that they are required. Other information is optional such as Title, Address, City, State, ZIP Code, and Phone. Your School may elect to provide certain optional information on your behalf in order to use certain features and functions of the Solution. By way of example, the School may provide Blackboard with your mobile phone number in order to be able to send certain text and/or voice messages to you.
+**West’s Education Group  
+SchoolMessenger Solutions**  
+100 Enterprise Way, Suite A-300  
+Scotts Valley, CA 95066  
+Phone: 800-920-3897  
+<http://www.schoolmessenger.com/support>
 
-After registration, the Site Administrator for the school may decide to assign to you a role(s) or group(s). Based upon your designated role(s) or group(s), you may have access to additional information or services. If you have questions concerning your role(s) or group(s), please contact the School.
+**Website Visitor Privacy Statement**
 
-Information collected for self-registration or pre-registration may also be used to (1) provide School-related notifications and other information, (2) provide you with important information about the Solution, such as updates or notices, (3) improve our product and services, (4) improve customer service, (5) create a profile for you, and/or (6) in aggregate, guide our marketing efforts. No personal information will be shared with third parties except to the extent expressly described in this Privacy Policy and otherwise in accordance with applicable law.
+This Website Visitor Privacy Statement covers only individuals in their use of our marketing website [www.SchoolMessenger.com](http://www.schoolmessenger.com/). If you are using a SchoolMessenger product or service, please see below our **School Platform & Services Privacy Policy**.
 
-### Additional information which you provide to us on behalf of Schools
+In general, you can visit our SchoolMessenger website and learn about SchoolMessenger solutions without identifying or revealing any information about yourself. If you would like us to contact you to provide additional company or product information, you may choose to provide us with your personal information, including your name, telephone number and email address. We use this information only to correspond with you regarding your inquiry and our company/products, unless you further authorize us to use the information for additional purposes.
 
-Additional information may be provided to us in other situations, for example, in connection with a customer support request or a content submission request. The goal of collecting this additional information is to serve you more effectively and efficiently.
+We may also use cookies to anonymously identify and track website visitors and to collect non-personal information such as website activity, referral website, and types of browsers and devices used to access our site. This data allows us to understand website usage patterns and make our website easier to use. If you submit your personal information via a web form, we may also utilize a persistent cookie to recognize when your computer visits our website. This allows us to provide personalized content. If you choose not to accept cookies, we may not be able to provide this same functionality and personalization.
 
-In addition, students, members of the School, and other users of the Solution may choose to post, download or upload various pieces of content and/or information on or through the use of the Solution, and may use certain“social media”, collaboration, interaction and other capabilities of the Solution to exchange various categories of data, materials and information. While we cannot know in advance all types of such information, one example is that teachers or administrators may post blogs, announcements and other information and content directly onto the Solution. Another example is that students may chat with each other, or send instant messages or e-mail, via technology which may now or in the future be made available over the Solution and may share information, photographs, images or recordings with each other or with the community. Information such as an individual’s name and e-mail address can also be exchanged or made available in messages, chats and other social media and collaborative communications facilitated over the Solution. Blackboard has no practical ability to restrict the information, conduct, communications, or content which might be posted on or exchanged through the use of its technology, nor can Blackboard ensure prompt removal of any such communications, information or content after transmission or posting. If you or your child provide personal information when using any social interaction, collaboration or messaging capabilities or features of the Solution (such as chat rooms, blogs, message boards, profile pages, etc.), that personal information may be copied, publicly posted and otherwise disclosed without limitation as to its use by third parties. There may be monitoring or filtering tools utilized by the Solution which track or log content or information downloaded or posted to the Solution. If you are concerned about any information or content that may be posted, transmitted or accessed on the Solution, please contact the School. In connection with the use of PassKey Manager™ or similar solution, you or the School may provide us with your or your child’s login credentials for certain software applications and web services in order to facilitate single sign-on access to these applications and services. These login credentials may include the username, password and any other required information which you selected or were supplied in order to access certain applications and web services.
+We do not sell, trade, lease or loan the personal information we collect from our marketing website visitors to any third parties. Some of the information is maintained by data tools hosted by third party service providers, who do not have access to the information due to legal agreements and technology controls. We do not disclose any personal information about you, except as required or permitted by law. We do not send any unsolicited communications based on personal information we collect.
 
-On behalf of the School, we may also (now or in the future) maintain and/or present academic and other similar information regarding students via technology or software provided by Blackboard or by third parties who have authorized Blackboard to distribute and/or present this information. We do not at any time collect any personal information through these technologies or software.
+We maintain strict physical, electronic, and administrative safeguards to help protect your personal information from unauthorized or inappropriate access.
 
-As noted below, we may also ask you to provide us with voluntary survey information to help us improve our products and services.
+We reserve the right at our discretion to modify this Website Visitor Privacy Statement from time to time, and so you should review this Statement periodically. We will note any changes by updating the publication date of this Website Visitor Privacy Statement. In some cases, when required by law, we may ask you to agree to changes before they go into effect. Unless otherwise noted, any changes to this Website Visitor Privacy Statement will be effective when posted. Your continued use of this Site following the posting of any changes to the Website Visitor Privacy Statement constitutes your acceptance to those changes.
 
-### Information from the School
+**School Platform & Services Privacy Statement**
 
-The School administers and oversees the Solution which presents and archives information supplied by content contributors designated by the School. Blackboard does not supply the school-specific content appearing on the Solution. Once content is posted to the Solution by content contributors at the school, it is public information available on the Internet. If content is posted by content contributors to groups or pages with restricted viewing permissions, that content is only displayed to users authorized to see that content.
+Our SchoolMessenger School Platform & Services Privacy Statement applies to our SchoolMessenger products and services (“products”, “platform” or “services”) licensed by our educational agency and institution customers (“customers” or “schools”). These services include but are not limited to Communicate and InfoCenter/App (notification/SafeArrival), Presence (school website), CustomApp (school mobile app), Passport (single sign-on and account/data provisioning), SafeMail (email filtering), and SecureFile (document delivery). This Statement applies to information we collect from, or collect or maintain on behalf of, our school customers using these services, including the personal information of school employees, parents/guardians, students, etc. as well as school website and custom mobile app users.
 
-In addition to supplying the content for its Solution, the School can control which individuals can be registered to use certain Solution features and which individuals or groups are granted privileges to access, view or use personal information collected, exchanged or maintained on the Solution. The Site Administrator can also access your personal information, and grant rights of access to others, as it deems appropriate. The School may also provide Blackboard with the registration information and login credentials described above, as well as with other information about you which it deems appropriate. Please contact the School regarding its policies and/or practices in this regard.
+While we do not provide information to third parties other than as described in this statement, our school customers may choose to do so. This Statement does not apply to information that schools provide to, or that is collected by, third parties through any of our services when that information sharing is determined by and controlled by our school customer. Schools should carefully read the privacy policies of such third party services before agreeing to share personal information with those parties through our services.
 
-### Information collected through technology
+We do not determine what, if any, personal information that our school customers choose to make publicly available, such as on their school websites or apps. This Statement does not apply to such personal information that schools choose to make publicly available such as on their school websites (Presence) or school apps (CustomApp). We will not sell, trade, lease or loan such publicly available student personal information we host or access through our services to any third party for any reason, including for marketing or advertising.
 
-As noted below, we may also collect cookies, device information and web beacons in the course of your use of our technology.
+In General
 
-## Privacy of children; Privacy of students
+We operate as a school service provider, meaning that our customer agreement is with an educational agency or institution (“customer”) and not with an individual educator, parent, student or other individual (“user”) including not with visitors to our school websites or users of our school mobile applications. As such, we collect and maintain both customer and user personal information, including student personally identifiable information from education records, only acting as authorized by our customer agency/institution to deliver services to and on behalf of the agency/institution (e.g., in the United States, with regard to student personal information, as a “school official” as allowed under the federal Family Educational Rights and Privacy Act (FERPA)). In this role, we are deemed by the school to perform a service or function for which the school would otherwise use its employees.
 
-Blackboard is dedicated to the privacy of children under 13 years of age. We do not process, collect, or entice (by use of contests, games, prizes, or other enticements) from children more personal information than is needed to access services. The School is responsible for obtaining all parental consent necessary for Blackboard’ collection of personal information from children under 13. Blackboard presumes that such consent has been obtained by the School by virtue of the School having retained Blackboard to provide the Solution and related services. Blackboard will not share any personal information about children with any third parties other than as specified in this Privacy Policy.
+Student personally identifiable information we obtain from our customer educational agency/institution continues to be the property of, and maintained under the direct control of, the agency/institution. We enable our customer agency/institution to exercise direct control over this student personal information through our Terms of Use, Terms of Service, and other agreements as well as through our product functionality to support school compliance with FERPA and other applicable laws. We shall not be responsible for any agency/institution violations of FERPA (in the United States) or laws in other jurisdictions where they apply specifically to our customer public or other education entity and not directly to West.
 
-As a parent or legal guardian for children under 13, you may review your child's personal information. After your child's parental consent is submitted, an individual at the School will supply you with your child's Sign-In and Password so that you may access and review the types of personal information collected from your child. If you would like to refuse to allow any further collection or use of your child's information (or only wish to consent to the collection and use of your child’s personal information without consenting to the disclosure of that information to third parties), please contact the School or Blackboard. If the request is made to Blackboard, we will look to the School to validate the request and respond accordingly.
+By using our product(s) or service(s), you agree to the terms of this Privacy Statement.
 
-Blackboard is dedicated to maintaining the privacy of all students, whether under 13 or older, in accordance with applicable laws. In this regard, we will maintain any and all personal information in education records which come into the possession of Blackboard in accordance with the requirements of the Family Educational Rights and Privacy Act (“FERPA”), and will not disclose such information to third parties except with the consent of a parent, the School or an eligible student (as applicable), unless otherwise permitted under FERPA and its associated regulations. One instance in which personal information in education records may be disclosed to third parties under FERPA is if the information is classified as “directory information” by your educational institution. Please check with the School if you have any questions as to which information they have classified in this manner.
+Information Collection & Use
 
-## How we use information collected when hosting the School’s Solution
+We collect and maintain only the information that is necessary to provide the Services to and on behalf of our customer agency/institution, or as otherwise shared with us by the agency/institution or their users.
 
-### User account
+We use this personal information to verify and provide access to your account, to correspond with you, to deliver our products and services, to resolve problems in service delivery, and as otherwise requested or directed by the agency/institution. We may as necessary also use this personal information to ensure legal or regulatory compliance, to protect the safety of individuals or the security of the service, to take precautions against liability, and as otherwise required or permitted by law. We neither claim nor assert any other rights or licenses to use student personally identifiable information.
 
-Blackboard does not associate information that we collect through log files or third parties with your user account. The information is provided voluntarily by you or the School during registration. A user account is stored information that gives you access to certain features as well as the ability to personalize certain features. Your user account can only be accessed and used by you (including, where applicable, your parent or guardian), the Site Administrator and restricted personnel of Blackboard and its contractors.
+We do not use or share student personal information to target advertising to students or other users. Please note that our customer agency/institution may independently choose to display advertising such as on their school website (Presence) or school mobile app (CustomApp), but we make no claims or warranties about that school-controlled practice.
 
-### Cookies and Web beacons; “do not track” signals
+In general, we do not knowingly collect personal information directly from students, including children under 13, but only as shared with us by our customer agency/institution. Exceptions are a student username, password and related account login credential information that we collect directly from the student if necessary when they login to our services as authorized by their school. By default, students cannot create an account – to enable our direct collection of their personal information – without the school’s consent. When we do collect student personal information directly from students, including children under the age of 13, we do so only on behalf of and under the direct control of our customer agency/institution, and the agency/institution is responsible for obtaining any necessary prior parental consents. Should we learn that we collected personal information from a child under 13 and the school does not provide proof of consent within a reasonable time, we will delete all such personal information. We do not enable or encourage students to make their personal information publicly available.
 
-A cookie is a piece of data stored on your computer tied to information about you. The only personal information a cookie can contain is information you supply. Blackboard uses session or dynamic cookies, e-tags, and scripts to let us know when a user is signed in. Once you close your browser, the cookie simply terminates. We may use web beacons (single-pixel gifs) to count visitors.
+More specifically, our services may collect, maintain and/or access the following types of personal information:
 
-When you are signed in and depending on your assigned role(s), additional services become available through our menu system. Again, depending on your assigned role(s), cookies may offer the following benefits after Sign-In:
+  * • Parent and school staff contact information such as names, language preferences and contact data (e.g., phone number, email address, and device ID);
+  * • Student information such as name, unique identifier, email address, attendance, lunch account status, bus route, and class schedule;
+  * • Account login credentials and session information such as usernames, passwords, email address, IP addresses, device IDs, and/or session cookies to automate customized settings;
+  * • Notifications our school customers send to their constituents (e.g., staff, parents/guardians); and
+  * • Student or other personal information within files or web pages hosted on our platform or distributed through our services.
 
-  * A personalized salutation greeting
-  * Content tailored to your role(s)
-  * Use of services that require Sign-In
-  * Session time-out, a security feature
 
 
+In addition, a few of our services may, as needed to deliver the service, also collect or maintain the following personal information:
 
-You can disable cookies in your browser's preferences. If you disable cookies in your browser, you may still use the Solution but certain services and/or features may not function properly. For example, services that require Sign-In will not work if cookies are disabled.
+  * • Through SafeMail (email and document filtering): Email sent to/from/within the agency/institution-provided student and staff email accounts, including name, email address, message text, and message attachments; as well as other files shared with us by the agency/institution; and
+  * • Through Presence (school website hosting): student and school staff photos.
 
-If you enable or send a “do not track” signal or similar mechanism relating to the tracking of browsing activities, we do not have practices or protocols to honor or respond to such request. However, we only collect the types of information otherwise described in the Privacy Policy.
 
-Note that Blackboard and/or your School may engage with third parties to enable certain functionality or usage analytics, and such third-parties may use cookies, e-tags, beacons and scripts. For example, Google Analytics may be used to track visitor activity on the Solution. The use of third-party cookies is not covered by this Privacy Policy because Blackboard does not have access to or control of these cookies.
 
-As true of most Web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you.
+When you use our school and other mobile applications, you may also be prompted to grant the app access to certain information and functions on your device, including your device ID, geolocation information, and calendar. We do not access this information, which remains on your device. This information is necessary for your device to enable the app to remain updated with the latest school information such as receiving push notifications, importing calendar events, and identifying nearby schools.
 
-Third parties may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt-out of interest-based advertising click [here](http://preferences-mgr.truste.com/). Please note you will continue to receive generic ads.
+Some of our services may as needed also use cookies and other technologies to collect non-identifiable information about service usage such as language preference, Internet Protocol (IP) address, session time and length, and types of platforms used to access our services. This data allows us to simplify login, personalize service delivery, understand usage, and improve service delivery. Visitors can set their browsers to refuse cookies, but certain features may not function properly as a result.
 
-### Device information
+We use aggregate or anonymous information for other purposes such as to evaluate, develop, improve and market our services.
 
-We may collect and store device-specific information (such as unique device identifiers) in order to facilitate the delivery of push notifications to mobile devices. In this regard, we may associate your device identifier with your Blackboard account. This device information may also be collected and stored by certain of our trusted contractors or service providers, subject to the applicable terms of this Privacy Policy related to the sharing of information with such trusted third parties.
+Information Sharing
 
-### Interactive communications
+We do not sell, trade, lease or loan the personal information we collect or maintain to any third party for any reason, including that we do not sell or otherwise share student personal information with direct marketers, advertisers, or data brokers.
 
-Registered users may collaborate and communicate through interactive means facilitated on the Solution. As an example, if you are a student who is a registered user, you may utilize instant message chat features, e-mail features, posting on message boards and other features. In using these digital and social media features, you may disclose personal information of your choosing to other registered users. If you post content to the Solution, we may maintain such content and publish your screen name and other similar information provided to us by you or your school in order to facilitate the intended operation and interaction of the digital and social media features.
+We do not knowingly share or disclose student personal information with any other third parties other than as needed to deliver and improve the service, as permitted or required by law or government authorities such as for law enforcement or judicial purposes, as necessary to protect the rights or safety of individuals or the service, to ensure legal or regulatory compliance or take precautions against liability, or as otherwise expressly directed by our customers. Through our services, our customers may choose to disclose such information in their sole discretion, such as by displaying it on their school website operating on our platform, but we are not responsible for such disclosures.
 
-## Communications from the site
+Access to personal information is limited to our employees and our service providers as needed to deliver the service, to the school customer, and to other third party organizations if enabled by, and as determined by, the school.
 
-### Service announcements
+We do not share student personal information with third parties, though a few of our service providers may have limited access to such information within our data systems in the course of their providing us with data analytics, software programming and related services to support our service delivery, evaluation or improvement. In some instances, we store student personal information with a third party data hosting provider, though student personal information is secured through access controls and electronic protection methods to prevent provider access. We have agreements in place with all third parties with access to student personal information to ensure they only use the information for purposes necessary to deliver the authorized service to us and to ensure they maintain the confidentiality and security of the information.
 
-From time to time, it may be necessary for Blackboard to send out a service-related announcement. For instance, if our service is temporarily suspended for maintenance, we might send you a notification email. Users cannot opt-out of these communications though they can delete their account. (For more information, see the Modifications to Personal Information section.) These communications are not promotional in nature.
+Data Security and Data Breach
 
-### Data retention
+We maintain a comprehensive set of security practices that are reasonably designed in accordance with commercial best practices to protect the security, privacy, confidentiality, and integrity of student personal information against risks – such as unauthorized access or use, or unintended or inappropriate disclosure – through the use of administrative, technological, and physical safeguards appropriate to the sensitivity of the information.
 
-When you or the Site Administrator deletes your account, the information contained in your user account is no longer available except to the extent it is backed-up as described below. We do not retain your data on behalf the School except as necessary to provide the service requested, comply with our legal obligations, resolve disputes and enforce our agreements, all in compliance with applicable laws. We also back-up information in accordance with industry standard practices and as directed by the School.
+All student personal information is protected according to industry standard security protocols. Data is located in datacenter facilities using industry standard access control protections.
 
-### E-Alerts
+Our services include role-based authorization control functionality to enable our customer school’s account administrator to configure and limit access to student personal information.
 
-The E-Alert feature is a Solution feature available on certain platforms. There are two types of E-Alerts:
+We limit internal access to student personal information to only those SchoolMessenger employees and contractors with a need to access the information to deliver the service.
 
-  1. Broadcast E-Alerts are used by Site Administrators to send messages to a specific group or multiple groups of users (i.e., users assigned the same groups). As an example, the School may send voice and/or text messages to groups of users as determined by Site Administrators.
-  2. Content E-Alerts are messages to users when certain changes are made to one or more homepages or sections to which they subscribe. Content editors decide whether to send an E-Alert to subscribers and the content within the message. Users can opt out of E-Alerts through options in their Account Settings.
+We maintain a comprehensive hiring, training, and retraining process which includes rigorous pre-employment screening. All company employees with access to student personal information receive annual training on privacy laws and best practices for maintaining confidentiality of student personal information. SafeMail staff with access to student email and related confidential information must also pass a police record check for working with vulnerable persons.
 
+If we know of a systems security breach by an unauthorized party or that any student personal information was used for an unauthorized purpose, we will comply with relevant state and other data breach laws. We will notify our customer agency/institution of any breach resulting in unauthorized release of data in the most expedient way possible and without unreasonable delay so that you can take appropriate steps.
 
+We use reasonable efforts to assist our customers in identifying any known security breach in their systems or processes, but we make no claims or warranties to our customer or to any user for any inability, failure or mistake in connection with such assistance.
 
-### System notifications
+Information Access, Correction, Retention and Deletion
 
-The Solution will notify Site Administrators by email or by electronic means when new users request access to the Solution through self-registration. In addition, the Solution will notify users by email or by electronic means when other users comment on their blog, when account changes are made to their account, and when other such activities occur on the Solution.
+We attempt to keep your information complete, current and accurate. The agency/institution on behalf of whom we are collecting or maintaining student personal information has the right to review, correct, have deleted, and/or refuse to permit further collection or use of the information. In cases where such actions are not otherwise provided for by directly available product functionality, we will provide direct assistance within a reasonable time in response to a written request from the agency/institution.
 
-## Customer service
+We will also assist the agency/institution in its response to requests from parents/guardians/students to review and/or correct a student’s personally identifiable information, including as required of agencies/institutions under applicable laws (including FERPA in the United States). As needed, we will provide direct assistance to the agency/institution in its response to the parent/guardian within a reasonable time following the agency/institution written request to us for such assistance. If we receive such requests directly from parents/guardians/students, we will refer those requests to our customer agency/institution and will not otherwise directly respond to those requests.
 
-As necessary, Blackboard may communicate with you through email, phone or online to provide requested services and in regards to account-related issues on behalf of the School.
+In general, we will retain personal information only as necessary to support the authorized purpose, comply with our legal obligations and agreements, resolve disputes, or as otherwise directed by our school customers. Any student personal information will remain subject to the restrictions and requirements described in this privacy policy for as long as we retain it. If and when personal information has been de-identified, that information is no longer personal information and no longer treated as such according to the terms of this privacy policy. We will use reasonable de-identification methods to ensure the privacy and security of personal information entrusted to us.
 
-## Sharing of information collected when hosting a School’s Solution
+To support our school customers in their compliance with, and any audits related to, certain applicable practices and laws (including the federal Telephone Consumer Protection Act (TCPA) in the United States), we often archive and retain Communicate call log and recipient number call preference data for up to four (4) years or longer if specified. This includes only limited personal information – the telephone number contacted – and does not include student names or other student personally identifiable information.
 
-### When required by law
+To support school compliance with certain applicable practices and laws (including the Children’s Internet Protection Act (CIPA) in the United States), all emails, email attachments and other files shared by the school to be put through our SafeMail technology filtering and human monitoring process are archived for seven (7) years before being permanently deleted.
 
-Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on the Solution.
+We will permanently delete student personally identifiable information at any time within fourteen (14) business days of a request from the customer agency/institution and within 24 months after the agency/institution account is expired, terminated or otherwise inactive, unless otherwise requested except for the regulatory compliance noted above for Communicate and SafeMail, and to comply with other legal obligations. Our school customers are provided regular opportunities to update their data, including marking personal information for deletion.
 
-### Administrative privileges
+Bankruptcy, Sale or Merger
 
-Users who have been assigned administrative privileges by the School have access to all registered user information strictly and solely on their Solution. Contact the School for more information regarding who has been assigned these privileges and how this assigning process works.
+If we are involved in a merger, acquisition, or sale of all or a portion of our assets, including in the case of our bankruptcy, you will be notified via email of any change in ownership. In such a case, a successor entity will adhere to the terms of this privacy statement with regard to the previously collected student personal information.
 
-### Business transitions
+Links and Other Parties 
 
-In the event that Blackboard goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, your personal information will, in most instances, be part of the assets transferred. You will be notified by a prominent notice on our corporate Solution prior to a change of ownership or control of your personal information. For more information, see the Blackboard Privacy Policy Statement Changes section.
+Please note that our products and services may contain links to third party websites or services. In many cases, those links are instituted, enabled or directed by our customer agency/institution without our knowledge or control. In other cases, we direct the link such as to our partners in technology or education. In either case, while we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other such parties and their websites and services. Unless otherwise noted, those third party resources are not covered by this Privacy Statement or any other of our policies or terms. You are encouraged to carefully review the separate and distinct privacy policy and terms of use of any such third party service before using it.
 
-### Service providers
+Changes to Privacy Statement
 
-From time to time, Blackboard may retain trusted businesses and contractors to provide certain services which support our provision and hosting of the Solution or otherwise support the operation of the associated online services. We may also contract with trusted third parties to provide complimentary products or services which may be integrated with, linked to (either via a website link or otherwise) or accessible from (such as through single sign on functionality), the Solution.
+We reserve the right at our discretion to change, modify, add or remove portions of this Privacy Statement from time to time. We will note any such changes by updating the publication date of this Privacy Statement. If we make significant changes, we will also provide notice to our customer agency/institution by sending an email to the account administrator. If we make any material changes to this privacy statement impacting student personal information that lessen protections previously noted herein, we will provide our customer agency/institution with thirty (30) days notice prior to implementing those changes and provide choice for termination of services and deletion or return of such information. In some cases, when required by law, we may ask you to agree to changes before they go into effect. By continuing to use our product(s) or service(s) after we provide notice of any changes to our privacy statement, you agree to the terms of this privacy statement.
 
-Businesses and contractors who have access to personal information are required to protect this information in a manner that is consistent with this Privacy Policy, for example, by not using the information for any purpose other than to carry out the services they are performing for us or to facilitate access to an integrated service offering. We will not disclose your personal information to any third party to the extent prohibited by law.
+Questions and Concerns
 
-### Compliance with laws
+If you are the administrator of an educational agency/institution customer account and have any questions about this statement or if you believe we are not handling your information in accordance with our privacy statement, please contact us per the information below.
 
-Blackboard will, of course, comply with the requirements of COPPA and FERPA to the extent that these laws apply to the information collected and maintained by Blackboard. Accordingly, notwithstanding anything to the contrary in this Privacy Policy, we will not collect, use or disclose personal information covered by COPPA and FERPA except in compliance with the respective requirements of each of these statutes and their associated regulations. We will also comply with all other applicable laws which govern the information which it maintains.
+If you are otherwise a user of one of our school services, we encourage you to first contact your educational agency/institution with any questions or concerns regarding this privacy statement or our handling of personal information.
 
-If you have any inquiries regarding our partner’s privacy practices or how they use your child’s personal information, please contact us directly at [PRIVACY@SCHOOLWIRES.COM](mailto:privacy@schoolwires.com) (see contact section below).
+**West’s Education Group  
+SchoolMessenger Solutions**  
+Privacy Manager  
+100 Enterprise Way, Suite A-300  
+Scotts Valley, CA 95066  
+Phone: 800-920-3897  
+<http://www.schoolmessenger.com/support>
 
-## Terms which apply to all personal information collected and processed by Blackboard
-
-### Modifications to personal information
-
-There are three ways personal information can be modified:
-
-  1. If your personal information changes, or if you no longer want a user account on the Solution, you or (depending on the platform you are using) your Site Administrator may update or delete your personal information in your account.
-  2. Site Administrators can modify personal information. These Administrators only have access to their Solution’s user information. For children under 13 years of age, the School is responsible for first validating receipt of verifiable parental consent.
-  3. If you have any other requests related to the modifications or deletion of your personal information, please contact the Site Administrator or Blackboard. If the request is made to Blackboard, we will look to the School to validate the request and respond accordingly.
-
-
-
-### Links
-
-The Solution may contain links to other sites. Blackboard is not responsible for the privacy practices of other such sites. This Privacy Policy applies solely to information that we collect.
-
-### Surveys and feedback forms
-
-From time to time, Blackboard may request information from you through surveys or feedback forms. Participation is voluntary. Information collected is used for the purposes of improving our product and services and understanding our audience. No personal information collected in this manner will be used or disclosed except in compliance with this Privacy Policy.
-
-### Security
-
-Blackboard takes security seriously and employs reasonable security measures and procedures designed to protect your information from unauthorized access and improper use. Only employees, trusted contractors supporting the operation of the Solution, and other third party partners and contractors as generally described in this Privacy Policy have access to personal information. These individuals and entities shall be bound to protect the information appropriately.
-
-Blackboard servers that store personal information are maintained in a physical environment that utilizes industry-standard security measures. Personal information is stored in password-controlled servers with limited access. When you enter sensitive information (such as login credentials) we encrypt the transmission of that information using secure socket layer technology (SSL).
-
-Be aware though that, despite our diligent efforts and implementation of reasonable security measures, no security measures are perfect or impenetrable and no data transmissions over the Internet can be guaranteed to be 100% secure. If you have any questions about the security of the Solution, please email us at [SECURITY@SCHOOLWIRES.COM](mailto:security@schoolwires.com)
-
-If the School hosts your Solution or hosts with a third-party, the School or the third-party is responsible for ensuring security. In addition, as noted above, the School has the ability to control the collection, use and dissemination of personal information maintained or processed through the Solution. Contact the School for information regarding security provisions.
-
-### Blackboard Privacy Policy Statement changes
-
-If we change this Privacy Policy, we will post the revised Privacy Policy, with an updated effective date, to the Solution by way of a link to [WWW.SCHOOLWIRES.COM/PRIVACY](https://www.schoolwires.com/privacy). In addition, we will notify the School so that supplemental notice can be provided by the School to Solution visitors. When we believe material changes affecting users, including users under 13, years of age are made to this Privacy Policy, Blackboard will notify your School and request that the School obtain verifiable parental consent to the extent required, and in accordance, with applicable law. We will also email you or post a prominent notice where required so that you are aware of the changes to our Privacy Policy. We encourage you to periodically review this Privacy Policy by visiting the Solution and clicking on the Privacy Policy link to stay informed about how we are collecting, using and sharing personal information. Except as otherwise required by law, all changes to this Privacy Policy will be effective when the updated Privacy Policy is posted to the and each user is bound by such changes when he or she uses the Solution after such changes have been posted.
-
-### Usage implies consent
-
-By using the Solution, you consent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use Blackboard services. Similarly, with respect to personal information which you provide voluntarily and we collect on behalf of the School (such as name, address and phone number in order to create an account), please do not submit such information if you do not want Blackboard to collect and maintain it.
-
-### Non-personal information
-
-In the event that any information Blackboard collects is, or later becomes, public information that is not required at the time to be maintained as confidential under applicable laws, or to the extent that any information we collect is neither personal in nature nor otherwise required to be maintained as confidential under applicable laws, then Blackboard shall have no responsibility hereunder in connection therewith. As an example, Blackboard may aggregate certain information we maintain with information about other individuals in a manner that does not disclose personal information specific to any individual. As an additional example, Blackboard may remove characteristics that make the individual personally identifiable, thereby de-personalizing the information. In either of these examples, Blackboard shall be free to utilize the information in any way and, unless otherwise required by law, shall not be bound by the terms of this Privacy Policy. As always, Blackboard will comply with all applicable laws and governing regulations in the collection, use and disclosure of information.
-
-### Additional limitations
-
-Despite our best efforts, no security measures are perfect or impenetrable. In this regard, we are not responsible for events or conditions beyond our reasonable control to the extent that they relate to or impact the obligations assumed, or commitments made, hereunder. However, in the event of any data breach or other violation of this Privacy Policy caused by factors outside of our reasonable control, we will comply with all applicable laws in this regard, including those requiring notification in the event of certain defined data breaches.
-
-### International users
-
-As Blackboard is a U.S.-based company, your personal information will likely be collected and maintained in the United States. If you are visiting from the European Union or other regions with laws governing data collection and use that may be different from U.S. law, then by using this Solution, you consent to your personal information being collected, used and transferred as set forth in this Privacy Policy.
-
-### Contact Information
-
-Blackboard takes privacy issues very seriously. If you have any questions, suggestions or concerns regarding this Privacy Policy, please contact us at [PRIVACY@SCHOOLWIRES.COM](mailto:privacy@schoolwires.com)
-
-Blackboard Inc.  
-ATTN: Privacy Officer  
-330 Innovation Blvd. Suite 301  
-State College, PA 16803  
-Phone: 814.689.1046  
-Email: [PRIVACY@SCHOOLWIRES.COM](mailto:privacy@schoolwires.com)  
-URL: [WWW.SCHOOLWIRES.COM/PRIVACY](https://www.schoolwires.com/privacy)
+This policy was last updated on July 14, 2017.
