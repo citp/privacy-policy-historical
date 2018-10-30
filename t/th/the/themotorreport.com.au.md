@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themotorreport.com.au privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330040428id_/https%3A//www.themotorreport.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themotorreport.com.au privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030035958id_/https%3A//www.themotorreport.com.au/privacy-policy) for the most accurate reproduction.*
 
 # TMR Help
 
@@ -65,3 +65,9 @@ If you have any complaints relating to online privacy issues on The Motor Report
 ## 9\. Changes to The Motor Report's privacy policy 
 
 If we decide to change the The Motor Report's Privacy Policy, we will post those changes here.
+
+d 
+
+We may change this privacy policy from time to time. Any updated versions of this privacy policy will be posted on this page. This privacy policy was last updated in April 2018 
+
+Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, like Digital Content Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at <http://www.nielsen.com/digitalprivacy>
