@@ -1,159 +1,133 @@
-> *The following text is extracted and transformed from the cbronline.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121122916id_/https%3A//www.cbronline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbronline.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030020329id_/http%3A//www.compelo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Computer Business Review
+# Privacy Policy - Compelo - latest news, features and insight on influencers and innovators within business
 
-At Computer Business Review we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us.
+This Privacy Policy sets out how Compelo Limited collects and uses information from users (“User” or “you”) of our website and/or any website which is operated by Compelo Limited (“Compelo Limited”, “our”, “we” or “us”). This Privacy Policy applies to the Website and all products and services offered by Compelo Limited.
+
+### What Information Do We Collect?
 
-This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you.
+We may collect the following information:
 
-This Policy is updated from time to time so please review this Policy regularly.  
-For the purpose of the Data Protection Act 1998 our data controller is Progressive Trade Media Limited.
+(a) personal information from Users in a variety of ways, including, but not limited to, when Users visit our Website, register on the Website, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Website. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Website anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Website related activities.
 
-Progressive Trade Media Limited is subject to the UK Data Protection Act 1998 and is registered in the UK with the Information Commissioner to process your personal information.
+(b) non-personal information about Users whenever they interact with our Website. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Website, such as the operating system and the Internet Service Provider’s utilised and other similar information.
 
-### Information We Collect
+(c) cookies and log files may be used on our Website to enhance User experience. A cookie is a small text file written to an individual’s hard drive that contains the user ID. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies at being sent. If they do so, note that some parts of the Website may not function properly. You can find out more about the use of cookies and how you can remove them by going to [http://allaboutcookies.org](http://allaboutcookies.org/) or [http://www.cookiecentral.com](http://www.cookiecentral.com/).
 
-In operating our website we may collect and process the following data about you:
+### How we use collected information
 
-  * Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs, IP address, operating system, access times, what browser you are using and other communication data.
-  * A number of websites within our group of companies, subsidiaries, related companies and affiliates are tracked using Google Analytics and WebTrends. To view their respective privacy polices including the information collected and details on opting out, please use the following links:
-  * <http://www.google.com/intl/en_uk/analytics/tos.html>
-  * <http://ondemand.webtrends.com/privacypolicy.asp#psfv>
-  * Information that you provide by filling in forms on our website, such as when you register for information, complete a survey, or make a purchase.
-  * Information provided to us when you communicate with us for any reason.
+**Any personal data that you give us will be treated with the utmost care and security. The personal data we collect is used to provide you with the service that you have requested or to respond to an enquiry that you have made.**
 
+**Compelo Limited uses User personal information we have collected for the following purposes:**
 
+***to personalise User experience: we may use information individually or aggregated to understand how our Users use the services and resources provided on our Website.**
 
-### Use of Cookies
+***to improve our Website: we continually strive to improve our Website offerings based on the information and feedback we receive from you.**
 
-On occasion, we may gather information about your computer for our services and to provide statistical information regarding the use of our website to our advertisers.
+***to improve customer service: your information helps us to more effectively respond to your customer service requests and support needs.**
 
-Such information will not identify you personally it is statistical data about our visitors and their use of our site. This statistical data does not identify any personal details whatsoever.
+***to  process transactions: we may use the information Users provide when placing an order to service that order, as well as provide relevant information about our other products. We do not automatically share this information with third parties except to the extent necessary to provide the service or when explicitly given permission by the User. The User can at any time change its preferences by contacting us via our Website.**
 
-Similarly to the above, we may gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer’s hard drive. They help us to improve our website and the service that we provide to you.
+***to administer Website features: such as content, promotions and surveys  and to send Users information they agreed to receive about topics we think will be of interest to them.**
 
-All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website.
+***to send periodic emails: the email address Users provide will be used to send them information and updates pertaining to their orders as well as (a) respond to their inquiries and requests or (b) provide relevant information about our other products.**
 
-Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
+**If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Website.**
 
-### Cookies we set on our own sites
+### User’s right to Opt-out
 
-These cookies include:
+If you do not want to continue to receive e-mail communications from us please let us know by sending an e-mail to [unsubscribe@compelo.com](https://www.globaldata.com/privacy-policy/unsubscribe@globaldata.com). Should you request that we amend or suppress records containing your personal data we will endeavour to do so as promptly as practical; however you may receive communications for a transitional period whilst we process your records.
 
-  * **ASP.NET_SessionId** and **__RequestVerificationToken_Lw__** cookies. These cookies are used to remember things during your session, so we can do things within the session like logins and personalisation of settings. When you close your browser, these cookies are deleted.
-  * **WT_FPC** This is a WebTrends tracking cookie. We use this to track users anonymously through the site.
+### How we protect your information
 
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorised access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Website.
 
+Sensitive and private data exchange between the Website and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Website is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
 
-**Cookies set on our sites by our commercial service providers**
+### Sharing your personal information
 
-We use a range of third party services on our sites, from statistics packages to advertising, video delivery, content delivery and even low level, techie functions like load balancing our servers so they are always available when you want to use them. Some of these services require the use of cookies to work properly. These services include:
+Unless we are given explicit permission to do so; we do not sell, trade, or rent Users personal information. We may without consent share generic aggregated information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Website or administer activities on our behalf, such as sending out newsletters or surveys.
 
-**Statistics**
+### Our websites
 
-**Google Analytics** provide anonymised statistical information for us. They process IP addresses and information from other cookies used on our sites so we know how many page views we have, how many users we have, what browsers they are using (so we can target our resources in the right way to maximise compatibility for the majority of our users) and, in some cases, in which country, city or region they are located. These cookies include: __gads, __utma, __utmb, __utmc and __utmz
+[compelo.com  
+](http://www.compelo.com/)[br-diningclub.com](https://www.br-diningclub.com/)  
+[business-review-webinars.com](http://www.business-review-webinars.com/)  
+[cbrgovernment.com](https://www.cbrgovernment.com/)  
+[www.compelo.com/packaging/](https://www.compelo.com/packaging/)  
+[www.compelo.com/medical-devices/](https://www.compelo.com/medical-devices/)  
+[www.compelo.com/banking](https://www.compelo.com/banking/)  
+[www.compelo.com/insurance](https://www.compelo.com/insurance/)  
+[cleantechnology-business-review.com](http://www.cleantechnology-business-review.com/)  
+[](http://www.banking-business-review.com/)[drinks-business-review.com](http://www.drinks-business-review.com/)  
+[](http://www.banking-business-review.com/)[](http://www.banking-business-review.com/)[compelo.com/energ](http://www.compelo.com/energy)[y  
+](http://www.banking-business-review.com/)[](http://www.banking-business-review.com/)[](http://www.banking-business-review.com/)[](http://www.banking-business-review.com/)[cbronline.com](https://cbronline.com/)[](http://www.banking-business-review.com/)[  
+](http://www.banking-business-review.com/)[](http://www.banking-business-review.com/)[ingredients-insight.com](http://www.ingredients-insight.com/)[  
+](http://www.banking-business-review.com/)[medicaldevice-developments.com](http://www.medicaldevice-developments.com/)[  
+](http://www.banking-business-review.com/)[pci-mag.com](http://www.pci-mag.com/)[](http://www.banking-business-review.com/)  
+[practical-patient-care.com](http://www.practical-patient-care.com/)[  
+](http://www.banking-business-review.com/)[worldcruiseindustryreview.com](http://www.worldcruiseindustryreview.com/)[  
+](http://www.banking-business-review.com/)[worldpharmaceuticals.net](http://www.worldpharmaceuticals.net/)[](http://www.banking-business-review.com/)  
+[windpower-international.com](http://www.windpower-international.com/)[  
+](http://www.banking-business-review.com/)[the-chiefexecutive.com](http://www.the-chiefexecutive.com/)[](http://www.banking-business-review.com/)  
+[convertingtoday.co.uk](http://www.convertingtoday.co.uk/)[  
+](http://www.banking-business-review.com/)[defence-and-security.com](http://www.defence-and-security.com/)[](http://www.banking-business-review.com/)  
+[the-financedirector.com](http://www.the-financedirector.com/)[  
+](http://www.banking-business-review.com/)[futureairport.com](http://www.futureairport.com/)[](http://www.banking-business-review.com/)  
+[banking-gateway.com](http://www.banking-business-review.com/)[  
+](http://www.banking-business-review.com/)[hmi-online.com](http://www.hmi-online.com/)[](http://www.banking-business-review.com/)  
+[waterpowermagazine.com](http://www.waterpowermagazine.com/)[  
+](http://www.banking-business-review.com/)[laundryandcleaningnews.com](http://www.laundryandcleaningnews.com/)[  
+](http://www.banking-business-review.com/)[leading-architects.eu](http://www.leading-architects.eu/)[  
+](http://www.banking-business-review.com/)[leathermag.com](http://www.leathermag.com/)[](http://www.banking-business-review.com/)  
+[modernpowersystems.com](http://www.modernpowersystems.com/)[  
+](http://www.banking-business-review.com/)[growthmarkets-power.com/bric](http://www.growthmarkets-power.com/bric/)[  
+](http://www.banking-business-review.com/)[neimagazine.com](http://www.neimagazine.com/)[](http://www.banking-business-review.com/)  
+[growthmarkets-oil.com/agenda](http://www.growthmarkets-oil.com/agenda/)[  
+](http://www.banking-business-review.com/)[packagingtoday.co.uk](http://www.packagingtoday.co.uk/)[](http://www.banking-business-review.com/)  
+[urbantransport-technology.com](http://www.urbantransport-technology.com/)[  
+](http://www.banking-business-review.com/)[worldexpro.com](http://www.worldexpro.com/)[  
+](http://www.banking-business-review.com/)[buythatmag.com](http://www.buythatmag.com/)[  
+](http://www.banking-business-review.com/)[hoistmagazine.com](http://www.hoistmagazine.com/)[  
+](http://www.banking-business-review.com/)[wbpionline.com](http://www.wbpionline.com/)[  
+](http://www.banking-business-review.com/)[hochmagazine.com](http://www.ochmagazine.com/)[  
+](http://www.banking-business-review.com/)[fxdesignawards.co.uk  
+](http://www.fxdesignawards.co.uk/)[ttjonline.com](http://www.ttjonline.com/)[  
+](http://www.fxdesignawards.co.uk/)[tunnelsonline.info](http://www.tunnelsonline.info/)[  
+](http://www.fxdesignawards.co.uk/)[cranestodaymagazine.com](http://www.cranestodaymagazine.com/)[  
+](http://www.fxdesignawards.co.uk/)[timber-building.com](http://www.timber-building.com/)[  
+](http://www.fxdesignawards.co.uk/)[esigncurial.com](http://www.designcurial.com/)[  
+](http://www.fxdesignawards.co.uk/)[blueprintmagazine.co.uk  
+](http://www.blueprintmagazine.co.uk/)[blueprintvr360.com](http://www.blueprintvr360.com/)[  
+](http://www.fxdesignawards.co.uk/)[pressgazette.co.uk](http://www.pressgazette.co.uk/)[  
+](http://www.fxdesignawards.co.uk/)[awards.pressgazette.co.uk](http://awards.pressgazette.co.uk/)[  
+](http://www.fxdesignawards.co.uk/)[specialistawards.pressgazette.co.uk](http://specialistawards.pressgazette.co.uk/)[  
+](http://www.fxdesignawards.co.uk/)[worldoffinewine.com](http://www.worldoffinewine.com/)[  
+](http://www.fxdesignawards.co.uk/)[subscribe.worldoffinewine.com](https://subscribe.worldoffinewine.com/)
 
-[Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html)
+### Third party websites
 
-**Social Media Tracking**
+Users may find advertising or other content on our Website that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Website, is subject to that website’s own terms and policies.
 
-**__utmx, __utmxx, di, dt, loc, psc, uid, uit** and **uvc** are cookies that are used to collect certain non-personally identifiable information automatically for use on the “AddThis Platform”. This enables us to better understand how people are consuming and sharing our content socially and which content is more popular.
+### Advertising
 
-[AddThis.com Privacy Policy](http://www.addthis.com/privacy/privacy-policy)
+Ads appearing on our Website may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognise your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-**Third Party Links**
+### Changes/Updates to Privacy Policy
 
-The advertisements on our sites are served by Google’s DoubleClick to monitor the delivery and effectiveness of the advertising (e.g. by using statistical analysis cookies). For more information about Google’s privacy policy, please see: <http://www.google.com/intl/en/policies/>
+In order to keep up with changing legislation and best practice, we may revise this privacy policy at any time. When we do, we will post a notification on the main page of our Website. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-Some advertising will use cookies to make the ads more relevant to you (e.g. if you use our sites from outside of the UK, you may get ads from your local country). To help you understand and manage these cookies you will see the AdChoices logo in the top right corner of the advert.
+### Your acceptance of these terms
 
-**AdChoices**
+By using this Website, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Website. Your continued use of the Website following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-Clicking on this logo will take you to a page with information about the cookies used and options for how you want them to work. For more information about AdChoices, please see: <http://www.youradchoices.com/learn.aspx>
+### Contact us
 
-**General third party opt-outs**
+If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us at unsubscribe@compelo.com or alternatively:
 
-You can learn about and opt out of a number of commercial third party cookies at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) Some of the opt-outs used by our commercial service providers require a cookie to be placed on your PC which is only used to tell the relevant cookie servers not to send you any further cookies.
-
-**SETTING UP YOUR BROWSER TO CONTROL OR DELETE COOKIES**
-
-**You can find up-to-date information clearly explaining how to control or delete cookies on your Windows PC or Apple Mac at**[www.aboutcookies.org](http://www.aboutcookies.org/)
-
-To control or delete cookies on your mobile phone, please refer to your handset manufacturer’s help manual.
-
-We use Macromedia Flash Player to deliver certain services on our sites. To improve user experience, Local Shared Objects – or **Flash Cookies** as they are commonly known – are employed to provide features such as auto-resume or saving preferences. Flash Cookies are stored on a user’s terminal much the same as cookies are, however it is not possible to manage them at browser level in the same way.
-
-The Adobe website provides comprehensive information on how to delete or disable Flash cookies either for a specific domain or for all websites – see<http://kb2.adobe.com/cps/526/52697ee8.html> for details. Please be aware that restricting the use of Flash Cookies may affect the features available to you for Flash-based applications on our sites.
-
-**Further information**
-
-Additional information regarding cookies and opting-out is available at [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/) and [www.allaboutcookies.org](http://www.allaboutcookies.org/)
-
-### Use of Your Information
-
-The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes:
-
-  * i. To provide you with information requested from us, relating to our products or services. To provide information on other products or services within our group of companies, subsidiaries, related companies and affiliates, which we feel may be of interest to you.
-  * ii. To meet our contractual commitments to you.
-  * iii. To notify you about any changes to our website, such as improvements or service/product changes, that may affect our service.
-  * iv. Personalise your experience.
-
-
-
-If you are a previous or existing customer, we may contact you with information about products and services similar to those which were the subject of a previous sale to you.
-
-Furthermore, we may use your data, or permit selected third parties to use your data, so that you can be provided with information about unrelated products and services which we consider may be of interest to you. We or they may contact you about these products and services by any methods that you consented at the time your information was collected.
-
-You may stop these messages at any time by emailing [unsubscribe@pmgoperations.com ](mailto:unsubscribe@pmgoperations.com)or opting-out using the opt-out tool at the bottom of the email communication.
-
-### Information About Other People
-
-On certain parts of the website, you can submit information about other people. For example, you may be able to provide an email address of colleagues who may be interested in registering to attend an event. We will use this information to contact these people for the purposes of increasing event attendance.
-
-These messages can be stopped at any time by emailing [unsubscribe@pmgoperations.com ](mailto:unsubscribe@pmgoperations.com)or opting-out using the opt-out tool at the bottom of the email communication.
-
-### Chat and Message Boards
-
-A number of websites within our group of companies, subsidiaries, related companies and affiliates offer chat and message boards. Please be advised that information posted in these venues may become public knowledge.
-
-### Storing Your Personal Data
-
-We may transfer data that we collect from you to locations outside of the European Economic Area for processing and storing. Also, it may be processed by staff operating outside the European Economic Area who work for us or for one of our suppliers. For example, such staff maybe engaged in the processing and concluding of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all reasonable steps to make sure that your data is treated securely and in agreement with this Privacy Policy.
-
-Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into on our site will be encrypted to ensure its safety.
-
-The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential.
-
-### Disclosing Your Information
-
-Where applicable, we may disclose your personal and non-personal information to any member of our group. This includes, where applicable, subsidiaries, related companies or affiliates.  
-We may also disclose your personal and non-personal information to third parties:
-
-  * i. Where we sell any or all of our business and/or our assets to a third party.
-  * ii. Where we are legally required to disclose your information.
-  * iii. To assist fraud protection and minimise credit risk.
-
-
-
-### Children
-
-  * Please note that we do not collect any personal information from children under thirteen years of age and that no child under thirteen should submit any personal information to any of the Sites. Should we discover that any such personal information has been delivered to any of the Sites, we will remove that information as soon as possible.
-
-
-
-### Access To Information
-
-The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
-
-### Contacting Us
-
-We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at:  
-[unsubscribe@pmgoperations.com](mailto:unsubscribe@pmgoperations.com?subject=Privacy%20Query%20from%20Computer%20Business%20Review)
-
-John Carpenter House
-
-John Carpenter Street
-
-London EC4Y 0AN, UK.
-
-+44 (0) 20 7936 6898
+Data Protection Officer  
+Compelo Limited  
+John Carpenter House  
+John Carpenter Street  
+London EC4Y 0AN  
+United Kingdom
