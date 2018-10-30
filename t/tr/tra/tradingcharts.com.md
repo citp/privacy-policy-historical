@@ -1,33 +1,99 @@
-> *The following text is extracted and transformed from the tradingcharts.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831005553id_/http%3A//futures.tradingcharts.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingcharts.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030015201id_/https%3A//futures.tradingcharts.com/privacy_statement.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
-| 
+  1. ### POLICY
 
-**Your privacy is important to us.**
-    In an effort to support privacy policy disclosures on the Internet, TradingCharts.com, Inc. wishes to set an example for other major web sites by voluntarily making our privacy policy available to the public. We urge all other major web sites to do the same.
-**Who we are …**  
+TradingCharts.com International, Inc. (“us,” “we,”, “Company” or "TradingCharts") is committed to respecting the privacy rights of its customers, visitors, and other users of www.tradingcharts.com, futures.tradingcharts.com, forex.tradingcharts.com and stocks.tradingcharts.com ("the Site" or “the Sites”). We created this Privacy Policy (“Privacy Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Sites, and not to any other websites that you may be able to access from the Sites, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
-    TradingCharts.com, Inc. is the operator of three online information services, which provide complete market information -- charts, quotes and news -- in three financial sectors: futures ([futures.tradingcharts.com](http://futures.tradingcharts.com/)), forex ([forex.tradingcharts.com](https://web.archive.org/web/20170831005553id_/http%3A//futures.tradingcharts.com/forex.tradingcharts.com)) and stocks ([stocks.tradingcharts.com](https://web.archive.org/web/20170831005553id_/http%3A//futures.tradingcharts.com/stocks.tradingcharts.com)). We can be reached by telephone at 1.306-445-2900 or by email to admin1@tradingcharts.com.
-**The information we collect …**
-    Our software automatically collects limited information about each visit to our web sites. This information is limited to the time and date, the IP address, the type of web browser software used, the address of the web page visited on our site, and the address of the web page from which provided the link to our site. In addition, our software automatically records the "alias" you used if you log on to our discussion forums. We do not record any other personal information provided through our web site in any way. 
-**Why we do it …**  
+You acknowledge that this Privacy Policy is also a part of our Site Terms of Use, and by accessing or using our Sites, you agree to be bound by all of its terms and conditions. If at any time you find these terms and conditions unacceptable, you must immediately leave the Site and cease all use of the Sites.
 
-    The information collected is used for the improvement of our services only. The information is saved in "raw" form for a period of approximately six months. These files might be examined to diagnose problems with our server, or to provide an IP address used to access our site in the case of abuse or "hacking". In addition, individual usage patterns are recorded in a database to aid in providing a personalized experience; that data is retained indefinitely. However, such individualized information is not linked to any otherwise-personally identifiable data. Aggregate statistics are generated from all data, for the purpose of providing long-term general usage statistics. Occasionally, such aggregate statistics are made available to potential advertisers so that they can evaluate the usefulness of supporting our sites. 
-**About e-mail addresses …**
-    When you e-mail us, or use our "Suggestion Box" pages to contact us, your message and email address might be saved on our office computers, but only for the purpose of ongoing correspondence. The email addresses you provide to us in any manner are never compiled into a mailing list, nor provided to third parties (unless you explicitly sign up for services that are delivered by email, like our TradingSmart newsletter). Be aware though, that if you post messages to our online [discussion forums](http://futures.tradingcharts.com/forum/) and provide your email address in the messages, that information is visible to other visitors, and could be abused by unscrupulous visitors and corporations.
-**About our suggestion box**
-    The online "suggestion box" is widely used as a means to contact us, most often for the purpose of suggesting improvements to our site. In addition it is frequently used as a means to ask questions about the use of our site or request help with problems. When the suggestion box is used, in addition to the message you provide the type of web browser and operating system that you are using, and the content of your site "cookies" is also recorded (more on cookies below). The additional information is used solely to aid in diagnosing problems and providing assistance. The message and information is then automatically e-mailed to our offices, and not otherwise stored.
-**Why and how we use "cookies" …**
-    TradingCharts.Com, and thousands of other web sites use cookies extensively to enhance the experience of visitors to our site. Cookies can be used to temporarily store information that you have provided to our site in the course of your visits. Cookies are used on our site primarily to store your "preferences". For example, if you use the "My Menu" feature of our site, a cookie is used to remember the selections you made for your customized menu. Similarly, a cookie is used to "remember" the settings you use when viewing a chart, so that the next time you view a chart you will not have to enter your settings again. At no time is personal information recorded in a cookie used on our site. Cookies are also used by TradingCharts to identify your computer system, but only to allow for the tracking of site use patterns, as described above. At no time is the content of a cookie served from our site available to anything except our web server software.
-**Our advertising representatives, Dean Media Group …**
-    [Dean Media Group](http://www.deanmg.com/) provides our site with advertising sales. Information about your visit to this site, such as number of times that you have viewed an ad (but not your name, address or other personal information), is used to help best serve ads to you on this site. Aside from data exchange implicit in the above, we do not provide specific information to Dean Media Group beyond aggregate statistics. Similarly, they do not provide specific information to our site, beyond aggregate statistics. This policy is designed to enhance your privacy while using the TradingCharts.com, Inc online services.
-**Third party cookies**
-    In the course of serving advertisements to this site, advertisers may place or recognize a unique cookie on your browser. In addition, we may use the services of companies that analyze website traffic (like Google or Media Metrix); those companies might also place and recognize cookies on your web browser. We do not have control over their use of such cookies, but expect that their use of such cookies is safe -- and we will block use of such cookies if ever we learn otherwise.
-**TradingSmart Newsletters**
-    If you sign up for services that are delivered by email, such as the TradingSmart newsletter offered by TradingCharts, your email address and information provided at the time of subscribing is recorded and retained for the purpose of delivering the service or newsletter to your email box. If you opt in to third-party offers at the time of subscribing, the information provided in the fill-in form may be provided to such third parties. Although we encourage these third parties to assure the privacy of your information, we do not directly control the manner in which this information is used. 
-**Note …**
-    This site contains links to other sites. Although we encourage every web site to maintain a clear and public privacy policy, TradingCharts.com, Inc. cannot directly influence the privacy practices or the content of such web sites and cannot be responsible for their practices.
+  2. ### INFORMATION COLLECTION PRACTICES
 
-[](https://web.archive.org/web/20170831005553id_/http%3A//futures.tradingcharts.com/menu.html) |   
----|---
+    1. **TYPES OF INFORMATION COLLECTED**
+
+      1. **TRAFFIC DATA COLLECTED**
+
+We automatically track and collect the following categories of information when you visit our Sites: (1) IP addresses; (2) types of computers accessing the Site; and (3) types of web browsers used to access the Sites (collectively “Traffic Data”). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the Site. We also use “cookies” to customize content specific to your interests, to ensure that you do not see the same advertisement repeatedly, and to store your password (if you are a subscriber) so you do not have to re-enter it each time you visit the Sites.
+
+      2. **PERSONAL INFORMATION COLLECTED**
+
+In order for you to access certain services and to purchase products that we offer via the Sites, we may require you to provide us with certain information that personally identifies you (“Personal Information”). We do not collect any Personal Information about you unless you voluntarily provide it to us.
+
+Personal Information including Contact Data such as your name, mailing address, and e-mail address. If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards, or forums, or otherwise complete online forms, surveys, or contest entries, any information provided in such communication may be collected as Personal Information.
+
+      3. **FINANCIAL INFORMATION**
+
+We do not collect or use Financial Data for any purpose. Payments made to TradingCharts are processed by independent third party payment processors: [Paypal](https://www.paypal.com/) and [Bambora](https://www.bambora.com/). Those payment processors will collect and use your Financial Data to process your credit card payment. Information you provide to them is protected by their own privacy policies; please refer to their websites for details. Such information is beyond the control of TradingCharts. Each payment processor provides limited information to TradingCharts, but only to the extent required for business needs that directly relate to your subscription. The data proviced to TradingCharts by tbose payment processors specifically excludes your credit card information.
+
+    2. **USES OF INFORMATION COLLECTED**
+
+      1. **COMPANY USE OF INFORMATION**
+
+We may use Contact Data to send you information about our company or our products or services, or promotional material from some of our partners, or to facilitate the renewal of your subscription, or to improve our Site, or to contact you when necessary.
+
+We may also use Contact Data for lead generation purpose by sending you information about products or services, or promotional material of other third party companies.
+
+      2. **SHARING OR TRANSFERRING OF PERSONAL INFORMATION**
+
+By voluntarily registering and agreeing to (checked box opting into receiving marketing during registration) you are giving us your express consent to share your Personal Information with third parties in the ways described in this Privacy Policy.
+
+We may share Demographic Data with advertisers and other third parties.
+
+We may also share Contact Data with our business partners who assist us by performing core services (such as hosting, billing, fulfillment, or data storage and security) related to our operation of the Sites.
+
+We maintain a procedure for you to review and request changes to your Personal Information; this procedure is described in Section 3a, below.
+
+You acknowledge that once your Personal Information is shared with or transferred to third parties as provided herein, the use of your Personally Information will then be governed by the privacy policies of those third parties and is not subject to our control. If contacted by those third parties, you should directly inquire them about the use of your Personal Information by them.
+
+      3. **USER CHOICE REGARDING COLLECTION, USE, AND DISTRIBUTION OF PERSONAL INFORMATION**
+
+You may choose not to provide us with any Personal Information. In such an event, you can still access and use much of the Site; however you will not be able to access and use those portions of the Sites that require your Personal Information.
+
+  3. ### CONFIDENTIALITY AND SECURITY OF PERSONAL INFORMATION
+
+Except as otherwise provided in this Privacy Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our Terms of Service. Your Personal Information is stored on secure servers that are not accessible by third parties. We provide you with the capability to transmit you Personal Information via secured and encrypted channels if you use a similarly equipped web browser.
+
+    1. **USER ABILITY TO ACCESS, UPDATE, AND CORRECT PERSONAL INFORMATION**
+
+We maintain a procedure in order to help you confirm that your Personal Information remains correct and up-to-date. At any time, you may log onto your account or contact us to update your Personal Information.
+
+    2. **LOST OR STOLEN INFORMATION**
+
+You must promptly notify us if your user name or password is lost, stolen, or used without permission. In such an event, we will remove that credit card number, user name, or password from your account and update our records accordingly
+
+    3. **PUBLIC INFORMATION**
+
+The Sites contains links to other websites. We are not responsible for the privacy practices or the content of such websites. We may also make chat rooms, forums, message boards, and news groups available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when deciding to disclose your Personal Information.
+
+  4. ### PRIVACY POLICIES AND DATA COLLECTION AT THIRD PARTY SITES
+
+Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. Other sites accessible through our Sites have their own privacy policies and data collection, use and disclosure practices. Please consult each site’s privacy policy. We are not responsible for the policies or practices of third parties. Additionally, other third-party companies which place advertising on our Sites may collect information about you when you view or click on their advertising through the use of their cookies or other tracking technologies, which may include delivering targeted advertisements and marketing messages based upon the third party websites that you visit, or other purposes. We cannot control this collection of information and are not responsible for the privacy policies and data collection, use and disclosure practices of these third party advertisers. You should contact these third party advertisers directly if you have any questions about their use of the information that they collect from you. Google/DoubleClick DFP is our third party ad server. If you would like to know more about their information gathering practices and “opt-out” procedures, please see <http://www.google.com/policies/technologies/ads/>
+
+Also, if you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [ http://www.networkadvertising.org/consumer/opt_out.asp](http://www.networkadvertising.org/consumer/opt_out.asp)
+
+  5. ### CHILDREN UNDER THE AGE OF 13
+
+In compliance with Children’s Online Privacy Protection Act (“COPPA”), the Sites are not directed at children under the age of 13 and we do not intend to collect any personal identifiable information, such as name, home address, e-mail address, telephone number, or social security number, from children under the age of 13. If you are under the age of 13, please do not provide us with your personal identifiable information. If you have any reason to believe that a child under the age of 13 has provided us with his or her personal identifiable information, please contact us immediately for removal of that information from our databases.
+
+  6. ### PRIVACY NOTICE FOR EEA INDIVIDUALS
+
+This section covers disclosures on the General Data Protection Regulation (GDPR) for users residing within EEA only. GDPR replaces the existing Directive 95/46/ec, and aims at harmonizing data protection laws in the EU that are fit for purpose in the digital age. The primary objective of the GDPR is to give citizens back control of their personal data. Please follow the link below to access TradingCharts' General Data Protection Notice. [https://futures.tradingcharts.com/gdpr_notice.php](https://web.archive.org/gdpr_notice.php)
+
+  7. ### UPDATES AND CHANGES TO THIS PRIVACY POLICY
+
+We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Sites.
+
+
+
+
+* * *
+
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us by sending a letter or email to:
+
+> TradingCharts.com International, Inc.  
+>  #501 - 1101, 101st St.  
+>  North Battleford, Saskatchewan Canada  
+>  S9A 0Z5
+
+You may also contact us by e-mail at: [admin1@tradingcharts.com](mailto:admin1@tradingcharts.com)
