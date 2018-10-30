@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myleague.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503052448id_/http%3A//www.igl.net/moreinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myleague.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030215346id_/http%3A//www.igl.net/moreinfo/privacy) for the most accurate reproduction.*
 
 # Case's Ladder: Case's Ladder
 
