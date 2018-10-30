@@ -1,171 +1,390 @@
-> *The following text is extracted and transformed from the joebrowns.co.uk privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118061148id_/https%3A//www.joebrowns.co.uk/pu%2Bprivacy-policy%2Bprivacy%2B1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joebrowns.co.uk privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030075153id_/https%3A//www.joebrowns.co.uk/pu%2Bprivacy%2Bprivacy%2B1) for the most accurate reproduction.*
 
 # Privacy and Cookies at Joe Browns
 
-## Privacy
+[home](https://www.joebrowns.co.uk/) > Privacy & Cookies
 
-When you make purchases from us (over the phone, via our catalogue order forms or this Website) or browse this Website, we may collect the following personal data about you:
+  * We collect, use and store your personal data so that we can offer you the best products, services and website experience possible.
+  * Your personal data is exactly what it says, it is yours and as such we are respectful of how we use it and how long we keep it.
+  * We will always be transparent with you about what we do with your personal data, and we will always ensure that it is secure.
+  * When we share your data with our service providers, we will always make sure they match our high levels of security.
+  * From time to time you will receive marketing communications from us which keep you up to date with all our latest products, services and offers. We believe this is a legitimate part of the Joe Browns customer experience.
+  * We will always offer you a clear and simple means of changing your communication preferences whenever you want to.
 
-  * your name, age and gender;
-  * your billing and delivery postal addresses, phone (including mobile phone) and e-mail details;
-  * where you have registered with us, your user name and password;
-  * your communication and shopping preferences;
-  * your browsing and shopping activities;
-  * your date of birth;
-  * your location;
-  * where you place an order with us, your payment card details, working with a PCI compliant partner
 
 
+  * Your name, date of birth and gender
+  * Your billing and postal delivery address
+  * Your phone number
+  * Your e-mail address
+  * The channel you chose to interact with us
+  * Your login details
+  * Your communication and shopping preferences
+  * Your browsing and shopping activities
+  * Your method of payment
+  * Your IP address
 
-We may use this personal data for any of the following activities:
 
-  * to maintain your account;
-  * to provide our goods and services to you and for associated purposes, including verifying your identity;
-  * to contact you (via post and / or e-mail) and with your consent about promotional offers and products and services which we think may interest you 
-  * to share with carefully selected relevant third parties with your prior consent
-  * to provide you with website content which is tailored to your individual tastes;
-  * for customer satisfaction and market research activities;
-  * for crime, fraud prevention and related purposes
-  * We also process your payment card details for website purchases and, in certain instances, disclose your personal data to third party credit reference agencies for credit check purposes.
-  * When you place an order with us, we may offer to hold your payment card details for future convenience, working with a PCI compliant partner. If you prefer that we do not maintain these details, you can go to ‘My Account’, click on ‘Edit or delete a credit card’ and delete your card information
 
+We will not keep your personal data for longer than is necessary for the purposes described in this promise.
 
+#### As a guide:
 
-By purchasing from us, you agree to us sending our catalogue publications to you by post. If you provide us with an email address at the point of placing your order or thereafter then you agree to receive promotional emails from us. However, if you would prefer not to receive catalogues and/or emails from us then please email us via our 'contact us' page, or by calling us on 0113 270 6655.
+  * We will keep your personal data whilst your account is active.
+  * We may keep certain categories of personal data after a period of inactivity on your account in order to meet any regulatory requirements, or to resolve a legal dispute.
 
-Joe Browns Limited will not disclose your telephone number or e-mail address to any third parties. We may pass your name and address to the small number of carefully selected third party companies we occasionally work with. You can opt-out by contacting us, or via our online checkout or catalogue request facility.
 
-By purchasing from us, you agree that we may use personal information provided by you in order to conduct appropriate anti-fraud checks. Personal information that you provide may be disclosed to a credit reference or fraud prevention agency, who may keep a record of that information.
 
-We will never ask for personal details via email. If you receive an unsolicited email asking you for your www.joebrowns.co.uk login details then please contact our customer service team immediately.
+#### What we use your data for:
 
-If you have supplied us with an email address prior to or at the point of placing an order with us then your email address will be shared with our feedback partners Feefo. Feefo will send you an email invitation 14 days after we have despatched your order welcoming you to leave feedback about your purchase. There is an opt-out facility within the email that Feefo will send to you if you would rather not receive emails from them.
+  * To maintain your account.
+  * To provide our goods and services.
+  * To verify your identity and protect you from fraud.
+  * To contact you via your chosen methods about offers, products and services which we think may interest you.
+  * To share with carefully selected relevant third parties with your prior consent.
+  * To provide you with website content which is tailored to your individual tastes.
+  * To gather your opinions on our products and services to keep improving our offering.
+  * We give you the option to save your payment card details securely with a PCI compliant partner. If you subsequently change your mind, the details can be deleted in ‘My Account’.
+  * From time to time we may use service providers outside the European Economic Area ("EEA"), in particular for the provision of IT services. If we do share your personal data with service providers outside the EEA we will ensure safeguards are put in place to protect it.
 
-In the instance that Joe Browns is acquired by another party, these terms and conditions will revert to the buyer.
 
-## Cookies
 
-### What are Cookies?
+#### What we don’t use your data for:
 
-  * Cookies are text files which are typically stored on your computer by your web browser.
-  * The purpose of cookies is to store settings and information for webpages that you have accessed.
-  * Cookies are not computer programs and can't read other information saved on your hard drive.
-  * They cannot be used to disseminate viruses.
+  * Joe Browns Limited will not disclose your email or telephone number to any third parties other than in the course of fulfilling your order or customer service.
+  * If you receive an unsolicited email asking you for your www.joebrowns.co.uk login details then please contact our customer service team immediately.
+  * If you purchase a gift voucher for another individual or organisation, the recipient’s data will only be used for delivery of their voucher.
+  * We do not direct market to under 16s.
 
 
 
-### What about the law?
+#### Order fulfilment
 
-  * In line with the EU Directive regarding cookies, Joe Browns must inform our customers that we use cookies on our website.
-  * By using the Joe Browns website, our customers accept that cookies will be used.
+  * Hermes, Fedex, UPS, Royal Mail, DHL \- To fulfil orders through third party couriers and to allow them to let you know the status of your parcel.
+  * Rebound \- For returns processing.
 
 
 
-### Where can I get more information?
+#### Analysis
 
-Should you require any more information regarding cookies, please see the following links - 
+  * Feefo \- If you have supplied us with an email address prior to or at the point of placing an order with us, your name, email address and information about the products you have purchased will be shared with our feedback partners Feefo. Feefo will send you an email invitation 14 days after we have despatched your order welcoming you to leave feedback about your purchase; your feedback helps us to improve the service and products we offer. There is an opt-out facility within the email that Feefo will send to you if you would rather not receive emails from them. For any further information please see Feefo's [terms & conditions](https://www.feefo.com/en-GB/privacy).
+  * AC-Data \- For mailing and analysis, ensuring that you receive relevant marketing communications.
+  * Epsilon \- We work with Epsilon Abacus, a company that manages the Abacus Alliance on behalf of UK retailers. The participating retailers are active in the clothing, collectables, food & wine, gardening, gadgets & entertainment, health & beauty, household goods, and home interiors categories. They share information on what their customers buy. This pooled information is used to help the retailers understand consumers’ wider buying patterns. From this information, retailers can tailor their communications, sending people suitable offers that should be of interest to them, based on what they like to buy.
+  * Experian \- We also work with Experian, who analyse our customer data to help us to find other people who will like the products we have to offer.
 
-<http://en.wikipedia.org/wiki/HTTP_cookie>
 
-<http://www.allaboutcookies.org/>
 
-### How do I turn Cookies off (Opt out)?
+#### Marketing
 
-If you have concerns about cookies, you can easily disable cookies in your web browser by using the help feature provided by your web browser and this should provide you with information on how to turn off cookies.
+  * Epsilon/Experian \- If you have chosen to opt in to 3rd party communications, we will share data (Name & Address only) directly with these companies who work with other trusted retailers in the clothing, collectables, food & wine, gardening, gadgets & entertainment, health & beauty, household goods and home interiors sectors. If data is shared, it is done so on a one time only basis and the company or organisation are not entitled to store your data for further use unless you engage with them.
+  * Bronto \- Our email service provider, to allow us to send relevant messages via email.
+  * Criteo \- Our online retargeting provider to serve adverts relating to the products you have viewed.
+  * Google \- Our analytics, online search, display advertising & retargeting partner, who provide analytics & serve adverts based on your search & website activity.
+  * Conversant \- Our display advertising provider, who show online banner advertising via various advertising networks.
+  * Qubit \- Our onsite testing & implementation provider, who help us to operate, improve and personalise the Joe Browns website experience.
 
-Alternatively, please visit this web page <http://www.wikihow.com/Disable-Cookies> and follow the instructions for the web browser you are using.
 
-**Please note -** Should you disable cookies the Joe Browns website may not function as intended and you may encounter problems shopping.
 
-### What Cookies do Joe Browns use?
+#### How to manage your preferences
 
-**Session cookie**
+  * For customers in the UK, France and Republic of Ireland, preferences can be changed at any time in ‘[My Account](https://www.joebrowns.co.uk/login)’ or simply [contact us here](https://www.joebrowns.co.uk/pu+contact-us+contactus+1).
+  * For overseas visitors without an account, please call us on +44 (0) 113 270 6655 or [contact us here](https://www.joebrowns.co.uk/pu+contact-us+contactus+1).
+  * For those who receive Joe Browns marketing via email or catalogue who haven’t yet purchased from us, please call us on +44 (0) 113 270 6655 or [contact us here](https://www.joebrowns.co.uk/pu+contact-us+contactus+1).
+  * To unsubscribe from emails, this can also be done via the link at the footer of any marketing emails you receive from us.
+  * Feefo \- there is an opt-out facility within the email that Feefo will send to you to stop emails.
+  * Criteo \- there is an opt-out facility here <https://www.criteo.com/privacy/>. Please note you will need to action this on all devices you use.
 
-  * Our website uses session cookies to allow customers to move from one part of the site to another and a menu id cookie so that we can present the correct menu banners to our customers.
 
 
+#### Right to be forgotten
 
-**Marketing Cookies**
+  * You can ask us to delete your personal data at any time by using our [contact us page](https://www.joebrowns.co.uk/pu+contact-us+contactus+1).
 
-  * We also use cookies to track visitors' interest in our products.
-  * We may use this to understand what most appeals to our customers so we can make our offers as appropriate as possible.
-  * We also use this data to create personal product recommendations on our website and our marketing emails.
 
 
+#### Subject Access request
+
+  * You can request the personal data we hold on you by contacting us on +44 (0) 113 270 6655 or via our [contact us page](https://www.joebrowns.co.uk/pu+contact-us+contactus+1) with a subject line of “SAR”.
+  * To process your request, and in the interest of security, we will ask you to send us two forms of proof of identity so that we can be sure we are releasing your personal data to the right person.
+  * We will process your request within one month or, if the request is particularly complex, two months. We can provide you with a copy of your personal data in electronic format or hard copy.
+  * If we consider the frequency of your requests is unreasonable, we may refuse to comply with your request. In those circumstances, we would notify you of your right to complain to the Information Commissioner's Office.
 
-**Third Party Cookies**
 
-  * The Joe Browns website uses social media in order to allow our customers to share products and content on our website therefore you will also find cookies are supplied by Facebook and Twitter.
-  * We don't control the settings of these cookies, so you'll need to check with third-party websites for more information about their cookies and how to manage them.
 
+  * Cookies are tiny text files stored on your computer when you visit certain web pages.
+  * At joebrowns.co.uk we use cookies to keep track of what you have in your basket, and to remember you when you return to our site.
+  * To order products you need to have cookies enabled. If you don't wish to enable cookies, you'll still be able to browse the site and use it for research purposes.
+  * Please note that cookies can't harm your computer. We don't store personally identifiable information such as credit card details in cookies we create, but we do use encrypted information gathered from them to help improve your experience of the site. For example, they help us to identify and resolve errors, or to determine relevant related products to show you when you're browsing.
+  * We do have relationships with carefully-selected and monitored suppliers who may also set cookies during your visit to be used for remarketing purposes - in other words to show you different products and services based on what you appear to be interested in.
+  * We're giving you this information to make sure we're honest and clear about your privacy when using our website.
+
+
+
+#### Essential cookies
+
+These cookies enable you to navigate our site and gain full access to its features and secure areas. Without these cookies essential services you have asked for like 'Your Basket' cannot be provided.
+
+#### Performance cookies
+
+These cookies remember information about how you and other customers use our website. This gives us vital information such as which pages are visited most often and if customers are receiving error messages from certain pages. The role of these cookies is to allow us to analyse and improve the performance of our website ensuring you receive a consistent look, feel and shopping experience. Performance cookies (often known as web analytic cookies) don't collect any information that identifies the customer and all information collected is aggregated and therefore anonymous.
+
+#### Functionality cookies
+
+These cookies remember choices you made on previous visits to our site such as your username, language or region so we can provide enhanced, more personal features. They can also be used to remember changes you've made to text size, fonts and other parts of web pages you can customise. Functionality cookies can also be used to provide services you have previously asked for such as watching videos or commenting on a blog.
+
+#### Targeting or advertising cookies
+
+These cookies are used to deliver adverts more relevant to your personal interests. Alongside this they limit the amount of times you see an advert and measure the effectiveness of adverts. This means you won't keep seeing irrelevant adverts or the same adverts over and over. These cookies are usually placed by advertising networks with the website operator's permission. They remember that you have visited a website and the information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisations that generate the advert. When one of these adverts is presented to you on a site there will be a quick and easy way to click in and opt out of receiving further adverts.
+
+For more information on cookies, visit the official ICO website [here](https://icosearch.ico.org.uk/s/search.html?query=cookies&collection=ico-meta&profile=_default).
+
+[Ultimate Chocolate Chip Cookies Recipe - BettyCrocker.com](https://www.bettycrocker.com/recipes/ultimate-chocolate-chip-cookies/77c14e03-d8b0-4844-846d-f19304f61c57)
+
+Essential Cookies
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.
+
+You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Global-E
+
+To enable international; pricing, content & checkout.
+
+    * _gid
+    * cid
+    * incap_ses_457_1576104
+    * ___utmvbPEuwIcaB
+    * nlbi_1576104
+    * GlobalE_Tags_Data
+    * _gat
+    * GlobalE_Welcome_Data
+    * GlobalE_Data
+    * incap_ses_456_1606067
+    * ASP.NET_SessionId
+    * GE_CART_TOKEN
+    * visid_incap_1606067
+    * .ASPXAUTH
+    * incap_ses_457_1606067
+    * GlobalE_CT_Data
+    * nlbi_1606067
+    * incap_ses_189_1576104
+    * GE_ISOPERATED
+    * incap_ses_459_1606067
+    * _ga
+    * incap_ses_340_1606067
+    * __RequestVerificationToken
+    * ___utmvmPEuwIcaB
+    * incap_ses_189_1606067
+    * visid_incap_1576104
+    * incap_ses_464_1606067
+    * incap_ses_464_1576104
 
+Website Functionality
 
-### Joe Browns Cookies in detail
+Cookies necessary to ensure the normal running of the website.
 
-**ASPSESSIONID**
+    * ViewedList
+    * wallp
+    * io_token_7c6a6574-f011-4c9a-abdd-9894a102ccef
+    * translateon
+    * flippingbook-flash_version_checked
+    * tid_axipsjgjwmkxgmwlduiphrbkrtjibgg
+    * emailAbandon
+    * HIDCookie
+    * coServerData
+    * vdate
+    * vcount
+    * cookietest
+    * ASPSESSIONIDQSCQCRQD
+    * ASPSESSIONIDSSDRCRRD
+    * ASPSESSIONIDASTRCTTD
+    * ASPSESSIONIDAQSTCSTC
+    * ASPSESSIONIDQSARDRRC
+    * ASPSESSIONIDCQSSBTTD
+    * ASPSESSIONIDQQTQBRQB
+    * lpTestCookiennnnnnnn
+    * ASPSESSIONIDSQQQBRQA
 
-  * The ASPSESSIONID cookie allows the user to shop on the Joe Browns website, storing information such as the items you have viewed and information about your basket contents.
+Qubit
 
+Our onsite testing & implementation partner, who help us to operate, improve and personalise the Joe Browns website experience.
 
+    * qb_session
+    * qb_permanent
+    * smartserve_preview
+    * t067-seen
+    * auth0
+    * aperture:session
+    * qb_persist_test
+    * __utma
+    * _qsst_s
+    * _qubitTracker
+    * etcForceCreative
+    * _qsst
+    * x_qtag_2111722
+    * _qst
+    * __utmz
+    * _qubitTracker_s
+    * qbef
+    * shelly
+    * hubspotutk
+    * qubit_explorer
+    * t033.toggled
+    * _qst_s
+    * __hstc
+    * _csrf
+    * _qPageNum_joe_browns
 
-**menuid**
+Cookie Consent
 
-  * The menuid cookie logs which section of the menu navaigation you are currently using to make it easier for the user to naviagate around the Joe Browns website.
+Tools for registering interaction with the cookie consent bar.
 
+Apptus
 
+Provision of in-site search, recommendations, category listings & navigation.
 
-**dtm_id (id)**
+Performance Cookies
 
-  * We may also use technologies, such as our own cookies, to provide you with personalised online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, click [here](http://dtmc.joebrowns.co.uk/adinfo/choice/prod/?type=fpc&cid=3233&cname=Joe%20Browns&cmagic=b6d67a&clogo=3233.png&loc=us&lang=en-us).
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.
 
+All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
 
+Google Analytics
 
-**DoubleClick (id)**
+Website analytics tool.
 
-  * DoubleClick is the ad management and ad serving technology foundation and we occasionally use this to track advertising from other sites.
+    * _gat_gleGATracker
+    * __utmc
+    * _ga
+    * _gac_UA-5575119-1
+    * __utmb
+    * __utma
+    * __utmz
+    * _gid
+    * _gat
 
+nr-data.net
 
+Server analytics.
 
-**Adroll**
+pingdom.net
 
-  * Adroll collects browsing data such as product viewed to display personalised banners (no identifying data is being collected). For more information on Adroll's privacy policy, click [ here.](https://www.adroll.com/)
+Website performance tool.
 
+Functional Cookies
 
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages.
 
-**Google Analytics (__utma, __utmb, __utmc & __utmz)**
+If you do not allow these cookies then some or all of these services may not function properly.
 
-  * Cookies from Google analytics allow us to see how customers use the Joe Browns website, where there are problems with its design and functionality, and where we can make the customer experience better still.
-  * These cookies do not trace personal information such as your name, but can track how often your computer visits a website, which pages your computer visited and in which order, and where you left the website. This type of information helps to make the Joe Browns website and marketing campaigns more relevant; it never shows personally identifiable data.
+LivePerson
 
+Customer Service Chat
 
+    * LPVID
+    * LPSID-nnnnnnnn
+    * LPSessionID
+    * LPVisitorID
 
-**Twitter (_twitter_sess, guest_id, k, external_referer, js, auth_token, auth_token_session, twid, twll, lang, original_referer)**
+feefo.com
 
-  * Cookies used to enable Twitter related functionality on the Joe Browns website.
+Products and service reviews.
 
+    * __insp_targlpu
+    * forceReskinAdmin
+    * __insp_norec_sess
+    * _ga
+    * _gid
+    * __insp_slim
+    * mp_da0fd6d6517e594ee2bd1711953cd695_mixpanel
+    * __insp_nv
+    * __insp_targlpt
+    * __insp_wid
+    * __cfduid
+    * feefo_session
 
+Buyapowa
 
-**Facebook (datr, lsd, reg_ext_ref, reg_fb_gate, reg_fb_ref, x-src)**
+To allow customers to recommend a friend.
 
-Cookies used to enable Facebook related functionality on the Joe Browns website.
+    * fs_uid
+    * bp_sid
+    * _gid
+    * referral_tracking_31057634-91c2-4b8d-bcca-c6a79ca0439c
+    * bp_tid
+    * bp_test
+    * _ga
+    * _gat
 
+bronto.com
 
-**Sub2 (V1v4, V2v4 and V3v4)**
+Email platform.
 
-  * Sub2 use cookies to enhance the user experience with this site by delivering both personalised content and offers whilst ensuring you see the products most relevant to you. Any information collected is not shared with any other third parties. To learn more about these cookies, please click [here.](http://webservices.sub2tech.com/optout/optout.aspx)
+    * _gac_UA-64382708-1
+    * __cfduid
+    * _gid
+    * ELOQUA
+    * LPVID
+    * _ga
 
+Wisepops
 
+Email Sign Up Tool
 
-**Conversant (DotomiUser, DotomiNet, DotomiStatus, rt_NNNN, DotomiRRNNNN, DotomiSession_NNNN)**
+    * wisepops
+    * __cfduid
+    * wisepops_session
 
-  * Conversant collects and uses anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalise advertisements for goods and services. To learn more, or to opt-out of receiving online display advertisements tailored to your interests by Conversant, visit the European Interactive Digital Advertising Alliance at <http://youronlinechoices.eu/>
+Targeting or advertising cookies
 
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising. To verify and manage advertising cookies directly please visit the following address: http://www.youronlinechoices.com/ where you can turn on and off individual company cookies at a browser level.
 
 
-**First Party Opt-Out Menu Confirmation Language**
 
-  * Conversant will provide a link that will opt-out users from targeted ads, and lead the user to an opt out menu with the following language: Opt-Out - Success If you are seeing this screen, the opt-out process was completed successfully and your browser will indicate you have opted out of enhanced online display advertising provided directly by Joe Browns. Here are some important things you should know about this specific opt-out: 
-  * You may still receive marketing promotions from Joe Browns through our third party service providers. Please visit the Network Advertising Initiative [(http://www.networkadvertising.org/choices/)](http://www.networkadvertising.org/choices/) or your applicable Digital Advertising Alliance to learn more about the use of this information by third-party advertising companies or to choose limited use of this information by opting out of interest-based online advertising. 
-  * In the future, if you clear your cookies, you may need to opt back out. To reinstate your opt out for enhanced marketing, simply return to the Joe Browns Privacy Policy and opt out again. 
+
+#### How to change your cookie settings
+
+Most browsers (Internet Explorer, Firefox, Chrome, etc.) are set up to accept cookies.
+
+The cookies saved on the hard disk of your device can be erased or turned off at the following links (Please note that blocking cookies may compromise proper viewing of some web pages):
+
+#### Chrome
+
+  * Click on the Chrome menu in the browser tool bar.
+  * Select 'Setting' (top right corner).
+  * Click on 'Show Advanced Setting' (right at the bottom).
+  * In the "Privacy" section click on 'Content Settings'.
+  * In the "Cookies" section, you can modify cookie settings.
+
+
+
+#### Safari
+
+  * Click Safari, then select Preferences.
+  * Click Privacy, then you will see a number of options to modify cookie settings.
+
+
+
+#### Firefox
+
+  * Click on the '3 line menu' button in the top right and select 'Options'.
+  * Select the 'Privacy & Security' link on the left hand side.
+  * Scroll to Cookies and Site Data.
+  * Select your preferences from the options available.
+
+
+
+#### Explorer
+
+  * Click on the 'Tools' button (top right) and then on 'Internet Options'.
+  * Click on the 'Privacy' tab and then click on 'Settings'.
+  * Select your blocking level at the bottom of the box, click 'close' then 'ok'.
+
+
+
+#### Targeting or advertising cookies
+
+  * See 'types of cookies' above for a description of what these are.
+  * For a thorough explanation about your on-line choices and to learn how to turn off behavioural advertising, click this link [http://www.youronlinechoices.com](http://www.youronlinechoices.com/).
 
 
