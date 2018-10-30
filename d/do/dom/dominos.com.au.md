@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dominos.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313064340id_/https%3A//www.dominos.com.au/inside-dominos/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.com.au privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030075517id_/https%3A//www.dominos.com.au/inside-dominos/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Domino's Privacy Policy Australia & New Zealand
+
+Find out more about [Domino's Privacy Philosophy here.](https://web.archive.org/inside-dominos/privacy-philosophy "PRIVACY PHILOSOPHY")
 
 **Last updated 23 January 2018**
 
