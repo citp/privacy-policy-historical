@@ -1,150 +1,215 @@
-> *The following text is extracted and transformed from the ecircle-ag.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830165730id_/http%3A//www.mapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecircle-ag.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031014133id_/https%3A//mapp.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy and Terms of Use - Mapp Digital
 
-## Privacy Policy and Terms of Use
+Effective Date: May 21, 2018 
 
-The website is operated, hosted and owned by the legal entity named in the “Legal” notice page on the website. We are highly committed to protecting and respecting your privacy, as well as to ensuring you are aware of the terms of use for this Website. This policy (together with our Policy Statement and Site Terms and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide us with, will be processed by us, and the terms upon which you use this Website. Please read the following carefully.
+This website (the “Site”) is operated, hosted and owned by Mapp Digital US, LLC and its affiliates (collectively “Mapp,” “we,” or “us”). The Site, together with the Mapp Blog mobile application (the “Blog App”) or any other mobile applications, products, or services offered to our Clients may be referred to herein collectively as the “Services.” 
 
-### RESPONSIBILITY
+We are committed to meeting the digital marketing needs of our clients (“Clients”), and to helping our Clients better engage with their customers on a personal level. We are also committed to the privacy of those customers, as well as visitors to the Site and any other end users (collectively, “you” or “user”) who interact with our Services (for example, by opening an email sent by one of our Clients). We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, storage, use and disclosure of your information (“Information”), including Information that can be used to identify you, such as your name, phone number, email address, or mailing address (“Personal Information”). 
 
-The data controller of this site is the Website Provider as named in the “Legal” notice page on Our site.
+Please read the following carefully. By using the Site or any of the Services, you expressly consent to our collection, storage, use and disclosure of your Personal Information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into and is subject to Mapp’s Terms of Use. Please note that your use of the Services may also be subject to Mapp’s [Acceptable Use Policy](https://web.archive.org/acceptable-use-policy/)
 
 ### INFORMATION WE MAY COLLECT FROM YOU
 
-We may collect and process the following data about you: 
+We may collect and process your Information as follows: 
 
-  * Information that you provide by filling in forms on our site (Our Site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site.
-  * Any information that can be used to distinguish or trace your identity, such as name or email address, (Personal Data) are only being collected, processed or shared if this is permitted by law or you gave your consent to do so. On Our Site you can share Personal Data with us by ordering our newsletter. You will be asked separately for your consent to process your Personal Data and to receive this newsletter.
-  * If you contact us, we may keep a record of that correspondence.
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-  * Details of transactions you carry out through our site and of the fulfilment of your orders.
-  * Details of your visits to our site [including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise] and the resources that you access.
-  * Your IP-address will be stored if you choose register with Our Site and log in.
-  * If you log into our site or transact with us online we may associate your name other physical identity information with the information collected using digital identifiers.
-  * In providing services to our clients we hold personal information of every kind.
-
-
-
-### IP ADDRESSES
-
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. Additionally our Web Analytic Tools are using your IP address to allow us statistical information about our users. This is statistical data about our users' browsing actions and patterns, and does not disclose your identity to us but can theoretically be used to identify an individual. Please continue reading below for more information about Google Analytics.
-
-### NEWSLETTER AND REGISTRATION
-
-With our newsletter we will keep you up to date with all the latest news connected with our business and you will also receive our most recent client case studies. If you would like to receive our newsletters please sign up using the form on Our Site provided for this purpose. You will have to provide us with a valid email address and information that will allow us to check whether you are the owner of this email address. This includes at least your name, first name and your title. When registering for our newsletters we will store your IP address with a time stamp to be able to prove the registration in case someone is using your email address without your permission. You can withdraw your consent to receive our newsletter and to store your Personal Data at any time using the link within the newsletter or by sending us an email.
-
-### COOKIES
-
-Our Site uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve Our Site. You can also access Our Site without using cookies. For this purpose please turn off the acceptance of cookies in your default internet browser. However, there might be features on Our Site you will not be able to use without allowing Cookies.
-
-### INFORMATION ABOUT OUR USE OF COOKIES
-
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve Our Site. A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive. 
-
-We use the following cookies:
-
-  * Strictly necessary cookie
-  * These are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or help us to choose the right language for you.
-  * They allow us to recognise and count the number of visitors and to see how visitors move around Our Site when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily. Functionality cookies
-  * Functionality cookies
-  * These are used to recognise you when you return to our website. This enables us to personalise our content for you and remember your preferences e.g. language or region.
+  * You can visit most of our Site without submitting Personal Information to us. However, when you visit the Site, technical user data, such as your device’s Internet Protocol (“IP”) address, operating system and browser type, your location, and the date and time of your visit (“Technical User Data”), may be automatically collected.
+  * In order to engage with us beyond simply surfing the Site — for example, registering on the Site, inquiring about our Services, ordering our newsletter, posting content to the Site, registering on the Blog App, or reporting a problem on the Site — you may be required to provide Personal Information such as your name, email address, mailing address, and/or company affiliation. In each case, you know what Information you provide and we collect, because you will actively submit the Information.
+  * If you contact us, we may keep a record of that correspondence, which record may include your Personal Information.
+  * If you log into the Site or transact with us online we may associate your name and other Personal Information with other Information collected using digital identifiers.
+  * We may also ask you to complete surveys that we use for research purposes. You do not have to respond to these surveys. If you do, your responses may include Personal Information.
+  * If you visit the Site or interact with our Services on your mobile device, and your device is configured to allow it, we may also collect geolocation data.
+  * If you agree to receive marketing emails from Mapp, we may collect additional information related to your interaction with that email for analytics purposes, including whether you opened the email and/or clicked on a link in the email.
+  * We may collect and store Information related to transactions you carry out through the Services or otherwise related to the fulfilment of your orders. For example, if you are a Client who purchased one of our Services, you may need to create a user account providing your email address before you can use the Services.
+  * Our Clients use our Services to send marketing messages or advertisements to their own contacts. If you interact with one of our Clients’ marketing messages or advertisements, our Services may collect Personal Information on behalf of our Clients, including but not limited to your name, email address, online behavior, when you opened an email, and whether you clicked on links contained within that email. Mapp is not responsible for the behavior of its Clients and reserves the right to terminate a contract with a Client if the Client violates Mapp’s Acceptable Use Policy.
 
 
 
-### WEB ANALYTIC TOOL
+### PURPOSES & LEGAL BASES OF PROCESSING
 
-With your permission, we set cookies on your computer (that begin with _utm) so that we can have access to Google Analytics Services and Omniture SiteCatalyst. Google Analytics is a web analysis service of Google Inc. (Google), SiteCatalyst is a web analysis service from Adobe Systems Inc. (Adobe). You can read more about Google Analytics on their own site [www.google.com/analytics/features/index.html](http://www.google.com/analytics/features/index.html) and about SiteCatalyst on [www.adobe.com/uk/privacy/analytics.html](http://www.adobe.com/uk/privacy/analytics.html?f=2o7). Google and Adobe store analytical data such as the data generated with their cookies or web beacons and transferred to their servers. Google and Adobe collect information about how you got to our website. We do not gain access to the information collected by Google Analytics or SiteCatalyst the systems only provide us with analysis. Some of Google’s cookies are set to remain for up to two years. To opt out of receiving any persistent cookies associated with the SiteCatalyst HBX service at Our Site you can request an "opt out" cookie from Adobe (id = OPT_OUT). If you accept this cookie, their servers will recognize it as an opt out cookie and will not attempt to deliver persistent cookies to you in the future. To learn more about how to opt out please visit SiteCatalyst’s site under [www.adobe.com/privacy/analytics/visual-sciences/policy.html](http://www.adobe.com/privacy/analytics/visual-sciences/policy.html).
+We may use Information held about you for a number of purposes, included but not necessarily limited to the following: 
 
-### RETARGETING
-
-We use Remarketing technology from Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; "Google"). This technology allows us to contact users who have already visited our website and the online services and expressed an interest in the product range, by targeted marketing on the pages of the Google Partner network. The adverts are shown via the use of cookies, i.e. small text files which are stored on the user's computer. Using the text files, the user's behaviour on visiting the website can be analysed and then used for targeted product recommendations and interest-based advertising. If you do not wish to receive interest-based advertising, you may deactivate the use of cookies by Google for these purposes by visiting the site [www.google.com/settings/ads](http://www.google.com/settings/ads). Alternatively, users can deactivate the use of cookies from third-party suppliers by retrieving the deactivation page of the network initiative: [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/). 
-
-By using our web content, you declare your agreement to the processing of the data about you collected by Google in the way described here and for the purpose indicated above. We would point out that Google has its own data protection guidelines which are independent of ours. We are not liable nor responsible for these guidelines and procedures. Before using our website, please consult Google's data protection conditions at: [http://www.google.de/intl/de/policies/privacy/.](http://www.google.de/intl/de/policies/privacy/)
-
-We also use Retargeting technology from AppNexus (AppNexus Inc., 28 W 23rd Street, 4th floor, New York, NY, 10010, USA). For more information about how the AppNexus Platform collects, uses, and discloses information, please visit <https://www.appnexus.com/en/company/platform-privacy-policy>.
-
-### SOCIAL PLUGINS AND SHARE BUTTONS
-
-Our Site is using various Plugins from social networking sites. With these plugins you may share that you like Our Site or visit our respective sites within the networks. Currently we are using the social plugins of the following networks:The “Like” button by facebook.com which is ultimately run by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (“Facebook”), you can identify this plugin by the white “thumb up” on a blue ground or a white “f” on blue ground, the list and the look of Facebook’s plugins can be viewed on developers.facebook.com/plugins;“+1″ button of the social network Google Plus, run by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States (“Google”), the plugin of “+1” can be recognized by its sign “+1” on a white or coloured background;Share-Button from LinkedIn, LinkedIn Corporation, 2029 Stierlin Court, Mountain View, CA 94043, USA, the LinkedIn Plugins can be reviewed onhttp://developer.linkedin.com/pluginsShare-Button from Twitter, Twitter, Inc., 1355 Market St, Suite 900, San Francisco, CA 94103, you can identify the Twitter plugin by a stylised blue bird or a blue minor “t” on blue ground, you can find more information on their site: dev.twitter.com/;When visiting Our Site which contains a Social Plugin of one of the above named networks your browser will establish a direct connection to the respective social network’s servers in the USA enabling the respective social network to receive information about you having accessed Our Site. We have no influence over the data gathered by the Plugins and do not know about the data gathered by the respective social network. To our knowledge, the embedded plugins provide the respective social network with information that you have accessed Our Site. If you are logged into the respective social network your visit can be linked to your account. If you interact with the Plugins the corresponding information will also be shared with the respective social network and linked to your account. Even if you are not logged into the respective network there is the possibility that the Plugins transmit your IP-address to the respective social network. For the purpose and scope of data collection and the further processing and use of data by the respective social network as well as your rights and ways to protect your privacy, please see the privacy notices at [www.google.com/intl/de/+/policy/+1button.html](http://www.google.com/intl/de/+/policy/+1button.html), www.facebook.com/policy.php, [twitter.com/privacy](https://twitter.com/privacy) and [www.linkedin.com](http://www.linkedin.com/) static?key=privacy_policy&trk=hb_ft_priv.
-
-### WHERE WE STORE YOUR PERSONAL DATA
-
-All information you provide to us for using the website is stored on our secure servers. We protect the confidentiality and integrity of any personal information you provided by appropriate security measures. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to Our Site, especially if a third party commits an act such as fraud which leads to a security breach in our website and/or in our information system; any transmission is given at your own risk. Once we have received your personal information, we will use strict procedures and security features to try to prevent any unauthorised access.  
+  * To ensure that content from the Site is presented in the most effective manner for you and for your computer.
+  * To provide you with information, products or services that you request from us or which we feel may interest you.
+  * To provide you with email newsletters, if you have requested them.
+  * To allow you to participate in interactive features of our Services.
+  * To notify you about changes to our Services.
+  * To analyze how individuals are interacting with our Clients’ communications.
+  * To help our Clients better understand how to communicate with you.
 
 
-All information you provide to us for using the website is stored on our secure servers. We protect the confidentiality and integrity of any personal information you provided by appropriate security measures. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to Our Site, especially if a third party commits an act such as fraud which leads to a security breach in our website and/or in our information system; any transmission is given at your own risk. Once we have received your personal information, we will use strict procedures and security features to try to prevent any unauthorised access. Your information may be transferred to and maintained on servers located outside of your country where the privacy/data protection laws may not provide the same protection level as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, we might transfer Personal Information to the United States and process it there. To ensure the safety of this transfer and the compliance with the applicable European data law, we utilize EU Model Contracts and express consents (Data Transfer Agreements) in relation to personal information originating the European Union or the United States.
 
-### USES MADE OF THE INFORMATION
+We will not collect and/or process your Information unless one of the following legal bases apply: (1) you have given your consent to our processing the Information for a specific purpose; (2) processing of your Information is necessary for the performance of a contract; or (3) processing is necessary for the purposes of the legitimate interests pursued by Mapp or one of our Clients, which interests include the efficient and effective delivery of communications or services you have requested from us or from one of our Clients, or for direct marketing purposes. In cases where the purpose of our processing is the “legitimate interest” purpose, we will also carefully balance those interests against your fundamental rights and freedoms related to your Information. 
 
-We use information held about you in the following ways:  
+Recipients of Personal Information collected and/or processed by Mapp include our Clients, authorized Mapp employees worldwide and, as necessary to provide the Services, our suppliers and vendors. 
 
+### IP ADDRESSES 
 
-  * To ensure that content from Our Site is presented in the most effective manner for you and for your computer.
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
-  * To allow you to participate in interactive features of our service, when you choose to do so.
-  * To notify you about changes to our service.
-  * To allow you to participate in interactive features of our service, if you choose to do so.
+Information collected about your computer, including where available your IP address, may be reported in aggregate form to our advertisers. Additionally, our Analytics Tools (as defined below) are using your stripped IP address to give us statistical information about our users. This statistical data about our users’ browsing activities and patterns does not typically disclose your identity to us but can, theoretically, be used to identify you. Please continue reading below for more information about our Analytics Tools. 
 
+###  NEWSLETTER AND REGISTRATION 
 
+We use our newsletter to keep you up to date on all the latest news connected with our business, including our most recent client case studies. We do not send you newsletters unless you have affirmatively opted in to receive the newsletters. If you would like to receive our newsletters please sign up using the form on the Site provided for this purpose. You will have to provide us with a valid email address and Personal Information that will allow us to check whether you are the owner of this email address, including at least your first name, last name, and title. When you register for our newsletters we will also store your IP address with a time stamp to be able to prove the registration in case someone is using your email address without your permission. You can withdraw your consent to receive our newsletter and to store your Personal Information at any time using the link within the newsletter, or by sending us an email at the address in the “Contact Us” section below. 
+
+### COOKIES 
+
+The Site uses cookies, small files that are stored on your browser or the hard drive of your computer, to distinguish you from other users of the Site. This helps us to provide you with a good experience when you browse the Site and also allows us to improve the Site. Of course, you can also access the Site without using cookies. To do so, please turn off the acceptance of cookies in your internet browser. Please be advised, however, that there might be features on the Site you will not be able to use without allowing cookies. 
+
+We use the following categories of cookies, specifically: 
+
+Strictly Necessary Cookies 
+
+These are required for the operation of the Site. They include, for example, cookies that enable you to log into secure areas of the Site, use a shopping cart, or help us to choose the right language for you. These cookies allow us to recognize and count the number of visitors and to see how visitors move around the Site. This helps us to improve the way the Site works, for example, by ensuring that users are finding what they are looking for easily. 
+
+Functionality Cookies 
+
+These are used to recognize you when you return to the Site. This enables us to personalize our content for you and remember your preferences. 
+
+Analytics Cookies 
+
+We may also place cookies on your computer so that we can have access to Google Analytics Services (“Analytics Tools”). Google Analytics is a web analysis service of Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”). 
+
+Google stores analytical data such as the data generated with their cookies or web beacons and transferred to their servers. Google also collects Information about how you got to the Site. When using the Analytics Tools, we specifically enabled Google’s anonymization function. We retain data collected by Analytics Tools for no more than eighteen (18) months. 
+
+If you prefer to prevent Google Analytics from tracking your online behavior, you can go to <https://tools.google.com/dlpage/gaoptout> to download and install available browser plugins. 
+
+You can read more at: <https://google.com/analytics/features/index.html>. 
+
+### MOBILE ADVERTISING 
+
+You may also opt out of Mapp’s mobile advertising by following your mobile device maker’s most current published instructions. 
+
+For IOS devices, see here: <https://support.apple.com/en-us/HT202074>
+
+For Android devices, see here: <https://support.google.com/ads/answer/2662922?hl=en>
+
+###  DO NOT TRACK 
+
+Some browsers have a “do not track” feature that lets you tell websites you do not want to have your online activities tracked. Because these features are not yet uniform, we do not presently respond to “do not track” signals. 
+
+###  SOCIAL NETWORKS 
+
+If you interact with a social media plugin or interact with us directly on social media, by clicking a Facebook “like” button or following us on Twitter for example, we may see basic information about you which is publicly available on those social media platforms. We have no control over other Information collected by social networks. Accordingly, we encourage you to review those networks’ Terms of Use and Privacy Policies. 
+
+### PROTECTION OF PERSONAL INFORMATION 
+
+All Information you provide to us when you use the Site or other Services is stored on our secure servers. We protect the confidentiality and integrity of any Personal Information you provide by appropriate security measures. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your Personal Information, we cannot guarantee the security of your Information transmitted to the Site, especially if a third party commits an act such as fraud which leads to a security breach in the Site and/or in our information system. Any transmission is given at your own risk. Once we have received your Personal Information, we will use strict procedures and security features to try to prevent any unauthorized access. 
+
+If we learn of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps, by posting a notice on the Site if a security and/or sending an email to you at the email address you have previously provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach, or to withdraw your consent from receiving electronic notice, you should notify us. 
+
+### THIRD PARTIES 
+
+We may share Information about you with third parties as follows: (i) with your consent; (ii) with service providers who help deliver our services and run our business (for example, our cloud-based CRM providers, cloud-based support and ticketing system providers, and cloud-based email providers), subject to confidentiality agreements; (iii) as required by law; (iv) to protect you, our business, or third parties from harm, including but not limited to fraud and data security breaches; or (v) in a reorganization or sale of our company or assets, subject to the acquirer accepting the commitments made in this Privacy Policy and in compliance with applicable law. 
+
+If we share your Personal Information with third party service providers and/or sub-processors, we will: (i) transfer such Personal Information only for limited and specified purposes; (ii) require the sub-processor to provide at least the same level of privacy protection as is required by this Privacy Policy; (iii) take reasonable and appropriate steps to ensure that the sub-processor effectively processes the Personal Information transferred in a manner consistent with the organization’s obligations under this Privacy Policy; (iv) require the sub-processor to notify us if it determines it can no longer meet its obligation to provide the same level of protection as is required by this Privacy Policy; (v) upon notice, take reasonable and appropriate steps to stop and remediate unauthorized processing; and (vi) provide a summary or a copy of the relevant privacy provisions of its contract with that sub-processor to the Department of Commerce upon request. 
+
+In addition, the Site may contain links to external websites, and areas where you can provide information to third parties. These are provided for your convenience only, and we do not have control over the content or privacy and security practices and policies of such third parties or third-party sites. Any personal information you provide in such areas, and on such linked pages, is provided directly to that third party and is subject to that third party’s privacy policy. Please learn about the privacy and security practices and policies of external websites and third-parties before providing them with personal information. 
+
+### PRIVACY SHIELD, CROSS-BORDER TRANSFERS 
+
+Mapp is registered under the EU-U.S. Privacy Shield Framework (“Privacy Shield”), and accordingly is committed to the EU-U.S. Privacy Shield Principles. For a list of all companies participating in Privacy Shield, see here: [www.privacyshield.gov/list](https://www.privacyshield.gov/list). 
+
+Mapp shall remain liable under the [EU-U.S. Privacy Shield Principle of Accountability for Onward Transfer](https://www.privacyshield.gov/article?id=3-ACCOUNTABILITY-FOR-ONWARD-TRANSFER) if its sub-processors process your Personal Information in a manner inconsistent with the Privacy Shield Principles, unless we prove we are not responsible for the event giving rise to the damage. 
+
+If you are visiting this website from a country other than the country in which our servers are located, your communications with us will result in the transfer of information across international boundaries. By visiting this website and communicating electronically with us, you consent to such cross-border transfers. In the case of data transfers from the European Economic Area (“EEA”) the EU-U.S. Privacy Shield Framework applies. 
+
+Your Information may be transferred to and maintained on servers located outside of your country where the privacy/data protection laws may not provide the same protection level as those in your jurisdiction. If you are located outside the United States and choose to provide Information to us, we might transfer Personal Information to the United States and process it there. To ensure the safety of this transfer and the compliance with the applicable European data law, we utilize EU Model Contracts, the EU-U.S. Privacy Shield (if applicable) and express consents (Data Transfer Agreements) in relation to Personal Information originating the European Union or the United States. 
+
+EU Citizens 
+
+In compliance with the EU-U.S. Privacy Shield Principles, Mapp commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this Privacy Policy should first contact Mapp at: 
+
+Attn: Dr. Christian Senk, Chief Privacy Officer   
+Mapp Digital Germany GmbH  
+Dachauer Str. 63   
+80335 München   
+Germany  
+Email: [privacy@mapp.com](mailto:privacy@mapp.com)
+
+Mapp has further committed to refer unresolved privacy complaints under the EU-U.S. Privacy Shield Principles to the [Insights Association Privacy Shield Program](http://www.insightsassociation.org/get-support/privacy-shield-program/privacy-shield-eu-swiss-citizens-file-complaint), a non-profit alternative dispute resolution provider located in the United States and operated by the Insights Association. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the following link for more information and to file a complaint. These dispute resolution services are provided at no cost to you. 
+
+If your complaint is not resolved after following the recourse mechanisms described above, you may have the ability to invoke binding arbitration. Additional information is available [here](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). 
+
+Please note that, in addition, you also have the right to lodge a complaint with the supervisory authority in the relevant EU Member State. Contact information for the lead supervisory authority is below: 
+
+Bayerisches Landesamt für Datenschutzaufsicht (BayLDA)  
+Promenade 27  
+91522 Ansbach  
+Germany  
++49 (0) 981 53 1300 
+
+Non-EU Citizens 
+
+Mapp commits to resolve complaints about your privacy and our collection or use of your personal information. Non-EU citizens with inquiries or complaints regarding this Privacy Policy should contact Mapp at: 
+
+Attn: Legal Department  
+Mapp Digital US, LLC  
+9276 Scranton Rd.  
+Suite 500  
+San Diego, CA 92121  
+United States of America  
+Email: [legal@mapp.com](mailto:legal@mapp.com)
 
 ### DISCLOSURE OF YOUR INFORMATION
 
-We may disclose anonymised information for marketing purposes to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries. If you are in the European Union, your Personal Data will only be disclosed to third parties, processed or collected if we are legally obliged; or if the disclosure is necessary to deliver the service you requested; or for payment issues; or if you gave us your consent to share your Personal Data with the members of our group and we will only use your Personal Data for the sole purpose you authorised; or we were obliged to collect it; or for reasons necessary to deliver the service you requested; or for payment issues. 
+We may disclose anonymized Information for marketing purposes to any of our affiliates. If you are in the European Union, your Personal Information will only be disclosed to third parties, processed or collected: (i) if we are legally obliged to do so; (ii) if the disclosure is necessary to deliver the service you requested; (iii) for payment issues; or (iv) if you gave us your consent to share your Personal Information with affiliates, in which case we will only share your Personal Information for the sole purpose you authorized. 
 
-You have the right to ask us, if any of your Personal Data is stored by us and what kind. You also have the right to ask us for the purpose we collected this data. If you are in the European Union and have any questions regarding Data Protection or the processing of your Personal Data you can contact us via email at applications.legal@teradata.com. The applicable law gives you the right to access all personal information held about you. Your right of access can be exercised in accordance with the law. Furthermore you have to have the right that we rectify, complete, update, block or delete any of your data if this does not conflict with our legal duty to store this data.
+###  STORAGE 
 
-### MAPP DATA MANAGEMENT PLATFORM - OPT OUT
+As a general matter, we strive to retain your Personal Information only as long as necessary to continue providing the Services and otherwise run our business effectively. Specifically, we implement the following storage practices: 
 
-Mapp Data Management Platform adheres to the IAB Europe OBA Framework and principles and allows all users to ‘opt out’ of advertiser specific advertisements that are delivered using OBA methods. 
-
-You can opt out of Mapp Data Management Platform Information collection, here’s how: You can click below to opt out of having the Platform used to select ads for your browser based on your browsing behavior. When you opt out, an opt out cookie will be stored in your web browser. The Platform will know the choice you have made when it sees your opt out cookie and will apply your choice to all third parties using the Platform. If you block or delete the opt out cookie, the Platform will not be able to recognize your opt out. 
-
-Click [here](http://go.flx1.com/opt-out "Opt out") to Opt Out.
-
-### MOBILE APPLICATION-BASED DATA COLLECTION
-
-ANY CHANGES WE MAY MAKE TO OUR PRIVACY POLICY IN THE FUTURE WILL BE POSTED ON THIS PAGE.
-
-### 1\. DEFINITIONS
-
-References to 'you', 'your' and 'yours' are references to the person(s) accessing Our Site.  
-References to the ‘Website Provider’ are references to the owner of this website, which is the legal entity named in the legal notice on the site.  
-References to 'we', 'us' and 'our' are references to the Website Provider.  
-References to ‘Our Site’ shall include the site with the URL www.mapp.com.  
+  * Marketing and email contacts, including newsletter recipients, are deleted when such users become inactive, click an “unsubscribe” button, or otherwise opt out of communications.
+  * We delete CRM business contacts when a user opts out, and otherwise delete unnecessary contacts at least once per year.
+  * We retain Personal Information related to cloud service system users until expiration of the user’s account.
+  * Our retention of Personal Information related to the customers of our Clients is governed by our contractual arrangements with Clients.
+  * Personal Information acquired via Google Analytics is stored for eighteen (18) months.
 
 
-### 2\. INTELLECTUAL PROPERTY
 
-Copyright in the pages screens, information and material in their arrangement included on Our Site is owned by or licensed to the Website Provider unless stated otherwise. You may imprint, copy, download or temporarily store extracts from Our Site for your personal information. You must not alter anything. Any other use is prohibited unless you obtain our prior written consent. In particular no one may use part of our Site on any other website, or link any other website to Our Site, without our prior written permission.
+### ACCESS AND CORRECTION
 
-### 3\. USE
+We maintain processes or mechanisms to allow you to review, update, correct or delete personal information held by us. You may make changes to your account information, access, correct, or delete personal information held by Mapp by contacting us at one of the addresses in the “Contact Us” section below. 
 
-This Site is currently intended for appropriate use only. You are wholly responsible for your use and the use of any third party who accesses Our Site from your computer. You must therefore ensure that any such third party complies with these Terms and Conditions of use.
+To protect your privacy and security, Mapp may also take reasonable steps to verify your identity before making corrections to or deleting your information. We commit to responding to your request for access to modify or delete your information without undue delay, and in any event within thirty (30) days. 
 
-### 4\. WARRANTY
+Please note Mapp does not have the power to make corrections or deletions to Information collected by our Clients or any other third parties who are controllers of that Information. In order to request corrections or deletions to Information held by third party controllers please contact such third parties directly. 
 
-The following clauses exclude or limit our legal liability for Our Site. You should read them carefully. They all apply only as far as the law permits.  
-Whilst we have taken reasonable steps to ensure the accuracy, currency, availability correctness and completeness of the information contained on Our Site, information is provided on an "as is", "as available" basis and we do not give or make any warranty or representation of any kind, whether express or implied. The use of Our Site is at your sole risk. We shall not be liable for any loss or damage whatsoever and howsoever caused or arising as a result of your use of or reliance on the information contained on Our Site to the maximum extent permitted by law.  
-We do not represent or warrant that Our Site will be available and meet your requirements, that access will be uninterrupted, that there will be no delays, failures, errors or omissions or loss of transmitted information, or that no viruses or other contaminating or destructive properties will be transmitted or that no damage will occur to your computer system. You have sole responsibility for adequate protection and back up of data and/or equipment and for undertaking reasonable and appropriate precautions to scan for computer viruses or other destructive properties.  
-We make no representations or warranties regarding the accuracy, functionality or performance of any third party software that may be used in connection with Our Site.  
+###  DISPUTE RESOLUTION 
 
+All disputes arising under this Privacy Policy shall be governed by and interpreted in accordance with the laws of California, without regard to principles of conflict of laws. The parties to this Privacy Policy will submit all disputes arising under this agreement to arbitration in San Diego, California, before a single arbitrator of the American Arbitration Association (“AAA”). The arbitrator shall be selected by application of the rules of the AAA, or by mutual agreement of the parties, except that such arbitrator shall be an attorney admitted to practice law California. No party to this Privacy Policy will challenge the jurisdiction or venue provisions as provided in this section. Nothing contained herein shall prevent the party from obtaining an injunction. 
 
-### 5\. NO OFFER
+### CLASS ACTION WAIVER 
 
-The information on this site is provided for general reference purposes only. Neither the information, nor any opinion contained on Our Site constitutes an offer to sell or solicitation or an offer to buy any services or any advice or recommendation with respect to such services or a guarantee for our products or services.
+Any arbitration or court trial, whether before a judge or jury or pursuant to judicial reference, related to any claim under this Privacy Policy will take place on an individual basis, without resort to any form of class or representative action (“Class Action Waiver”). THIS CLASS ACTION WAIVER PRECLUDES ANY PARTY FROM PARTICIPATING IN OR BEING REPRESENTED IN ANY CLASS OR REPRESENTATIVE ACTION REGARDING A CLAIM UNDER THIS POLICY. Regardless of anything else herein, the validity and effect of the Class Action Waiver may be determined only by a court and not by an arbitrator. 
 
-### 6\. THIRD PARTY SITES
+### MAPP DATA MANAGEMENT PLATFORM - OPT OUT 
 
-Where we provide hypertext links to other locations on the Internet, we do so for information purposes only. When providing the links for the first time we duly ensure that the content in the link and/or the page the link directs to do not violate any third parties’ rights or any applicable law.  
-We are not responsible for the change of content of any websites or pages linked to or linking to this Site after our initial inspection of the linked content. We do not continuously verify the content of any such websites. If you notice any irregularity, inappropriate content, violation or infringement of any third parties’ rights, please notify us and we will take out the link to this content immediately.  
-Further, following links to any other websites or pages shall be at your own risk and we shall not be responsible or liable for any damages or in other way in connection with linking. Links to downloadable software sites are for convenience only for which we are not responsible or liable for any difficulties or consequences associated with downloading the software. Use of any downloaded software is governed by the terms of the license agreement, if any, which accompanies or is provided with the software.  
-No endorsement or approval of any third parties or their advice, opinions, information, products or services is expressed or implied by any information on Our Site. 
+Among the Services we offer, Mapp’s Data Management Platform (the “Platform”) collects Information of users in an effort to help our Clients better understand their advertisements’ performance. The Platform adheres to the [IAB Europe Framework for Online Behavioural Advertising (“OBA”)](https://www.iabeurope.eu/files/5013/8487/2916/2013-11-11_IAB_Europe_OBA_Framework.pdf) and principles and allows all users to “opt out” of advertiser specific advertisements that are delivered using OBA methods. 
 
-_Version 2.1, February 2017_
+You can opt out of Information collection through the Platform by clicking the link below. When you opt out, an opt out cookie will be stored in your web browser. The Platform will know the choice you have made when it sees your opt out cookie and will apply your choice to all third parties using the Platform. If you block or delete the opt out cookie, the Platform will not be able to recognize your opt out. 
 
-Create your own digital Mapp
+Visit this website to opt out of OBA: <http://optout.aboutads.info/?c=2#!/>
 
-Want to create a winning customer journey for your audience?
+### CONTACT US 
 
-[Demo request](https://web.archive.org/privacy/)
+You may contact us with any questions or concerns about your Personal Information, our Information practices, or the terms of this Privacy Policy here: 
+
+Attn: Dr. Christian Senk, Chief Privacy Officer   
+Mapp Digital Germany GmbH  
+Dachauer Str. 63   
+80335 München   
+Germany  
+Email: [privacy@mapp.com](mailto:privacy@mapp.com)
+
+Attn: Legal Department  
+Mapp Digital US, LLC  
+9276 Scranton Rd.   
+Suite 500   
+San Diego, CA 92121   
+United States of America  
+Email: [legal@mapp.com](mailto:legal@mapp.com)
+
+### CHANGES TO THIS POLICY 
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will prominently post those changes here and any other place we deem appropriate, so you are always aware of what Information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make any material changes, we will notify you either by way of an email or by a notice on this Site. We will use information in accordance with the Privacy Policy as it was in effect at the time Information was collected.
