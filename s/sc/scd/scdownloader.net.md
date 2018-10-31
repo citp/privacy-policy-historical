@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scdownloader.net privacy policy that was archived on 2016-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160128185145id_/http%3A//scdownloader.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scdownloader.net privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031123148id_/https%3A//scdownloader.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -6,7 +6,7 @@ If you require any more information or have any questions about our privacy poli
 
 ## What is privacy policy?
 
-At http://scdownloader.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by scdownloader.net and how it is used. 
+At https://scdownloader.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by scdownloader.net and how it is used. 
 
 #### Log Files
 
