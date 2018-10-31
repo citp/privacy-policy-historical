@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3cut.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627103948id_/https%3A//mp3cut.net/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3cut.net privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031130429id_/https%3A//mp3cut.net/legal) for the most accurate reproduction.*
 
 # Privacy Policy
 
