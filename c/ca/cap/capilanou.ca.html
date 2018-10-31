@@ -1,895 +1,1327 @@
-<!--The following is the downloaded HTML source of the capilanou.ca privacy policy that was archived on 2018-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180519035536id_/http%3A//capilanou.ca/current/policies/Privacy-Statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the capilanou.ca privacy policy that was archived on 2018-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181031161653id_/http%3A//www.capilanou.ca/privacy-statement) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="ctl00_HTMLHead"><meta http-equiv="content-type" content="text/html; charset=iso-8859-1"><link rel="stylesheet" type="text/css" href="/WorkArea/FrameworkUI/css/ektron.stylesheet.ashx?id=-1759591071+1597669889+646986939+-300771134+1985268503"><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="/WorkArea/FrameworkUI/js/ektron.javascript.ashx?id=1338359439+-569449246+-1939951303+-1080527330+-1687560804+-1388997516+2009761168+27274999+1979897163+-422906301+-1818005853+-1008700845+-1793043690+1628691364"></script><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><title>
-	Privacy Statement - Capilano University
-</title><meta name="Author" content="Capilano University"><meta http-equiv="X-UA-Compatible" content="IE=edge">
-                
-        <!--<meta property="og:title" content="Capilano University" /><meta property="og:type" content="university" /><meta property="og:url" content="http://www.capilanou.ca" /><meta property="og:image" content="http://www.capilanou.ca/images/logo/Capilano-University-fb" /><meta property="og:site_name" content="Capilano University" /><meta property="fb:admins" content="858845390" /><meta property="fb:app_id" content="208142009236983" /><meta property="og:description" content="A teaching-focused university in North Vancouver, B.C. with programs in Arts, Sciences, Fine and Applied Arts, Business, Tourism, Outdoor Recreation, Health, Education, Preparatory Studies and more." /><meta property="og:email" content="infocentre@capilanou.ca" /><meta property="og:phone_number" content="604-986-1911" /><meta property="og:fax_number" content="604-984-4985" /><meta property="og:latitude" content="49.190503" /><meta property="og:longitude" content="123.011178" /><meta property="og:street-address" content="2055 Purcell Way" /><meta property="og:locality" content="North Vancouver" /><meta property="og:region" content="British Columbia" /><meta property="og:postal-code" content="V7J 3H5" /><meta property="og:country-name" content="Canada" />-->
-        
-		<!--<link rel="stylesheet" media="screen" href="/css/all.min.css" type="text/css" />-->  
-       <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"><link rel="stylesheet" media="screen" href="/css/layout.css" type="text/css"><link rel="stylesheet" media="print" href="/css/print.css" type="text/css"><link rel="stylesheet" href="/css/themes/base/jquery.ui.all.css">
-   
-
-        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
-        <script type="text/javascript">
-            $(document).ready(function() {
-                $('#campus-dir-radio').click(function() {
-                    $('#site-radio').removeClass("radio-selected");
-                    $('#site-radio').addClass("radio-not-selected");
-                    $('#campus-dir-radio').removeClass("radio-not-selected");
-                    $('#campus-dir-radio').addClass("radio-selected");
-                });
-                $('#site-radio').click(function() {
-                    $('#campus-dir-radio').removeClass("radio-selected");
-                    $('#campus-dir-radio').addClass("radio-not-selected");
-                    $('#site-radio').removeClass("radio-not-selected");
-                    $('#site-radio').addClass("radio-selected");
-                });
-                //handles search button
-                $("#search-button").click(function() {
-                    searchStr = jQuery.trim($("#search-box").val());
-                    if (searchStr != "") {
-                        if ($("#site-radio").hasClass("radio-selected")) {                            
-                            window.location = "/search.aspx?q=" + searchStr;
-                        } else if ($("#campus-dir-radio").hasClass("radio-selected")) {
-                            window.location = "http://phonebook.capilanou.ca/phonebook/phonebook.serv?search=" + searchStr;
-                        }
-                    }
-                });
-                //handles enter key
-                $('#aspnetForm').keypress(function(e) {
-                    if (e.keyCode == 13) {
-                        var searchStr = "";
-                        //if on search page...
-                        if (location.href.search((/search.aspx/i)) != -1) {
-                            if ($("#site-radio").hasClass("radio-selected")) {
-                                if (jQuery.trim($("#search-box").val()) != "") {
-                                    $('.gsc-input').val(jQuery.trim($("#search-box").val()));
-                                    $("#search-box").val("");
-                                    $('.gsc-search-button').trigger('click');
-                                } else {
-                                    $('.gsc-search-button').trigger('click');
-                                }
-                            } else if ($("#campus-dir-radio").hasClass("radio-selected")) {
-                                window.location = "http://phonebook.capilanou.ca/phonebook/phonebook.serv?search=" + jQuery.trim($("#search-box").val());
-                            }
-                        } else {
-                            searchStr = jQuery.trim($("#search-box").val());
-                            if (searchStr != "") {
-                                if ($("#site-radio").hasClass("radio-selected")) {
-                                    window.location = "/search.aspx?q=" + searchStr;
-                                } else if ($("#campus-dir-radio").hasClass("radio-selected")) {
-                                    window.location = "http://phonebook.capilanou.ca/phonebook/phonebook.serv?search=" + searchStr;
-                                }
-                            }
-                        }
-                        return false;
-                    }
-                });
-            });
-        </script>
-
-        <!-- Facebook Pixel Code -TF-C&M general fb conversion pixel ID -->
-    <script>
-        !function (f, b, e, v, n, t, s) {
-            if (f.fbq) return; n = f.fbq = function () {
-                n.callMethod ?
-                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            }; if (!f._fbq) f._fbq = n;
-            n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
-            t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
-        }(window,
-        document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
-
-        fbq('init', '157346148004081');
-        fbq('track', "PageView");</script>
-    <noscript>
-        <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=157346148004081&ev=PageView&noscript=1" />
-    </noscript>
-<!-- End Facebook Pixel Code -->
-
-     <script>
-         (function (i, s, o, g, r, a, m) {
-             i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-                 (i[r].q = i[r].q || []).push(arguments)
-             }, i[r].l = 1 * new Date(); a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-         })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
-         ga('create', 'UA-1507277-1', 'auto');
-         ga('send', 'pageview');
-
-    </script> 
-         <!--sharethis icons-tf-2/20/2016-->
-        <script type="text/javascript">var switchTo5x = true;</script>
-        <script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
-        <script type="text/javascript">stLight.options({ publisher: "570972d5-6bfb-4a3a-a536-98ae44376a0e", doNotHash: false, doNotCopy: false, hashAddressBar: false });</script>
-
-<!--<div id="queries"></div>-->
-<!--<script src="https://cse.google.com/query_renderer.js"></script>-->
-<!--<script src="https://cse.google.com/api/017860802598013033650/cse/6xfvil9glla/queries/js?view=day&callback=(new+PopularQueryRenderer(document.getElementById(%22queries%22))).render"></script>-->
-
-
-    <meta name="Description" content="A teaching-focused university in North Vancouver, B.C. with programs in Arts, Sciences, Fine and Applied Arts, Business, Tourism, Outdoor Recreation, Health, Education, Preparatory Studies and more."><meta name="Keywords" content="Capilano University,Capilano U,British Columbia universities,Canadian University,Cap U,arts education,business courses,health education,tourism,science education,bachelor degree,Capilano College,degree,diploma,certificate,postsecondary,post-secondary"></head>
-    <body>
-        <form method="post" action="/current/policies/Privacy-Statement/" id="aspnetForm">
-<div class="aspNetHidden">
-<input type="hidden" name="EktronClientManager" id="EktronClientManager" value="-1759591071,1338359439,-569449246,-1939951303,-1080527330,-1687560804,-1388997516,2009761168,27274999,1979897163,-422906301,-1818005853,-1008700845,1597669889,-1793043690,646986939,1628691364,-300771134,1985268503">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTY3MzA5MTgzNg9kFgJmD2QWAgIDEGRkFgICEQ9kFgoCAQ8WAh4EVGV4dAVmPGEgaWQ9J21lbnVfdGl0bGUnIGhyZWY9Jy9Xb3JrQXJlYS9saW5raXQuYXNweD9MaW5rSWRlbnRpZmllcj1JRCZhbXA7SXRlbUlEPTQ4NzInPkN1cnJlbnQgU3R1ZGVudHM8L2E+ZAIJD2QWAmYPZBYEZg9kFgICAw9kFgJmD2QWAgIBDxYCHgVjbGFzcwUQZHJvcHpvbmUgUEJDbGVhcmQCAQ9kFgICAQ9kFgJmD2QWAgIBD2QWAgIBDxYCHgtfIUl0ZW1Db3VudAIBFgJmD2QWBmYPFQIUIHN0eWxlPSd3aWR0aDoyMDBweCcAZAIBDxYCHgdWaXNpYmxlaGQCAw8WAh8CZmQCDw8PFgIfAAURUHJpdmFjeSBTdGF0ZW1lbnRkZAIRD2QWAmYPZBYEZg9kFgICAw9kFgJmD2QWAgIBDxYCHwEFEGRyb3B6b25lIFBCQ2xlYXJkAgEPZBYCAgEPZBYCZg9kFgICAQ9kFgICAQ8WAh8CAgEWAmYPZBYGZg8VAhMgc3R5bGU9J3dpZHRoOjEwMCUnAGQCAQ8WAh8DaGQCAw8WAh8CAgFkAhMPZBYCZg9kFgRmD2QWAgIDD2QWAmYPZBYCAgEPFgIfAQUQZHJvcHpvbmUgUEJDbGVhcmQCAQ9kFgICAQ9kFgJmD2QWAgIBD2QWAgIBDxYCHwICARYCZg9kFgZmDxUCFCBzdHlsZT0nd2lkdGg6MTkwcHgnAGQCAQ8WAh8DaGQCAw8WAh8CZmQYBwUiY3RsMDAkY3BoJGR6Q29udmVyc2lvbnMkdXhVWFN3aXRjaA8PZAIBZAUnY3RsMDAkY3BoJGR6UmlnaHRTaWRlQ29udGVudCR1eFVYU3dpdGNoDw9kAgFkBSJjdGwwMCRjcGgkZHpNYWluQ29udGVudCR1eFVYU3dpdGNoDw9kAgFkBVtjdGwwMCRjcGgkZHpNYWluQ29udGVudCR1eENvbHVtbkRpc3BsYXkkY3RsMDAkdXhDb250cm9sQ29sdW1uJGN0bDAwJHV4V2lkZ2V0SG9zdCR1eFVYU3dpdGNoDw9kAgFkBRNjdGwwMCRwaCR1eFVYU3dpdGNoDw9kAgFkBWxjdGwwMCRjcGgkZHpNYWluQ29udGVudCR1eENvbHVtbkRpc3BsYXkkY3RsMDAkdXhDb250cm9sQ29sdW1uJGN0bDAwJHV4V2lkZ2V0SG9zdCR1eFdpZGdldEhvc3Rfd2lkZ2V0JFZpZXdTZXQPD2RmZAUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgQFDmN0bDAwJGliU2VhcmNoBQ1jdGwwMCRyZG9TaXRlBRJjdGwwMCRyZG9EaXJlY3RvcnkFEmN0bDAwJHJkb0RpcmVjdG9yeUvCPurLGwCqMzxBznYXvnxliUWsShXoPo5W107+r6l4">
-</div>
-
-
-<script type="text/javascript">
-//<![CDATA[
-__$BubbleCloseIconPath='/WorkArea/';//]]>
-</script>
-
-<script src="/ScriptResource.axd?d=i1m2AwGZ-lIb3cqOiS_P1mK_2XahBlhLcZ3r8j7gCaUCBDDVm4s5Z_5qmWCLl4gGq2-HQ5UN7CmXB0PwVlu3TZOWyyTTWpbay_fPj121Q0Ts4UAbvNZdNqvbOLD9zqUSJA6eM_CjIxgTYYIjPCAoTkxRQAOtxj75eqW7PUI-II41&amp;t=ffffffffad4b7194" type="text/javascript"></script>
-<div class="aspNetHidden">
-
-	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="124CECF9">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUMCEMlKioI9WRquoVnZJ943dEQnLv/97HmcclLzLktNuPt1qWUDW/Nq87Nip0964e3xHQgnBVItY4V45kadwwJXg4QRMPAss/wLf4m/v8S89zAztdl1Yy0Jevq1JCee7bsN7yNDSKCnHu6MaiEvEAJ">
-</div>
-             <div id="pagebuilder-controls">
-                
-
-    <script type="text/javascript">
-        Ektron.PBSettings = { 'dontClose': false }
-    </script>
-
-
-
-
-        <div class="ektron-ux-UITheme ux-app-siteApppageBuilder-setSizeTemplate ui-draggable" style="position: relative;">
-            
-        </div>
-        <script id="EktronScriptBlocknrkjy" type="text/javascript">
-
-Ektron.ready(function(event, eventName){
-
-                $ektron(".ux-app-siteApppageBuilder-setSizeTemplate .ui-dialog-buttonpane a").button();
-                $ektron(".ux-app-siteApppageBuilder-setSizeTemplate .framework").accordion({
-                    heightStyle: "content",
-                    activate: function(event, ui){
-                        $ektron(ui).closest(".ui-accordion").accordion("refresh");
-                    }
-                });
-                $ektron(".ux-app-siteApppageBuilder-setSizeTemplate").draggable({ handle: "div.ui-dialog-titlebar ", containment: $ektron("body") });
-            
-});
-
-
-</script>
-		
-        
-    
-
-             </div>
-            <!-- container defines the entire page -->        
-            <div id="container">                  
-            <a name="top" id="top"></a>            
-                <!-- header-top defines the top of the header -->
-                     <div id="print-logo">
-                         <img alt="Capilano University" src="/images/logo/logo-bw.jpg">
-                     </div>
-                <div id="header">	   
-		            <a href="/home.aspx"><img id="logo" alt="Capilano University" src="/images/spacer.gif"></a>  	
-	                 
-	                <div id="nav-campuses">
-	                    
-<ul><li><a target="_parent" href="/">North Vancouver</a></li><li><a target="_parent" href="/sunshine/">Sunshine Coast</a></li></ul><script type="text/javascript">
-function GetPreviewURL() {
- var url = self.location.href;
- var arString = url.split('?')
- if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
- else { url = url + "?cmsMode=Preview"}
- return url;
-}
-</script><script type="text/javascript">
-function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
-function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
- PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
- } 
-</script>
-
-	                </div>
-                    <div class="clear"></div>
-	                <div id="right-header-box">  
-	                    <div id="utilities">
-                            
-<ul><li><a target="_parent" href="/current/">myCap</a></li><li><a target="_parent" href="/myCap-for-Employees/">Employees</a></li><li><a target="_parent" href="/help/">Help</a></li></ul><script type="text/javascript">
-function GetPreviewURL() {
- var url = self.location.href;
- var arString = url.split('?')
- if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
- else { url = url + "?cmsMode=Preview"}
- return url;
-}
-</script><script type="text/javascript">
-function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
-function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
- PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
- } 
-</script>
-	                    
-	                    </div>
-                        <div class="clear"></div>                         
-                        <div id="position_and_width">                            
-                            <input id="search-button" type="button" value="" name="search-button">   
-                            <input id="search-box" type="text">  
-                           <!-- <input type="image" name="ctl00$ibSearch" id="ctl00_ibSearch" src="../../../images/spacer.gif" align="middle" style="height:13px;width:17px;" />-->
-                           <!-- <input name="ctl00$txtSearch" type="text" id="ctl00_txtSearch" />-->   
-                        <div class="clear"></div>
-                        <div id="search-selection">                     
-                        <ul>
-                             <li id="site-radio" class="radio-selected">Site&nbsp;</li> 
-                             <li id="campus-dir-radio" class="radio-not-selected">Campus Directory&nbsp;</li>
-                        </ul>
-                      </div>
-                         </div>
-                            <!--Site <span class="styled"><input id="ctl00_rdoSite" type="radio" name="ctl00$SiteDirSearch" value="rdoSite" checked="checked" /></span>  -->                         
-                            
-                          <!--  Campus Directory <span class="styled"><input id="ctl00_rdoDirectory" type="radio" name="ctl00$SiteDirSearch" value="rdoDirectory" /></span>  -->                         
-			       
-                       
-                        </div>   
-                    </div> 
-                  	
-	            <div class="clear"></div>
-                    <!-- header-main-nav defines the global navigation bar in the header -->  
-                    <div id="header-main-nav">
-	                    <div id="nav-1">
-                            
-<ul><li><a target="_parent" href="/">Home</a></li><li><a target="_parent" href="/programs/">Programs &amp; Courses</a></li><li><a target="_parent" href="/admissions/">Admissions</a></li><li><a target="_parent" href="/services/">Services</a></li><li><a target="_parent" href="/about/">About Cap</a></li><li><a target="_parent" href="/employment/">Employment</a></li><li><a target="_parent" href="/giving/">Giving to Cap</a></li><li><a target="_parent" href="/contact/">Contact Us</a></li></ul><script type="text/javascript">
-function GetPreviewURL() {
- var url = self.location.href;
- var arString = url.split('?')
- if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
- else { url = url + "?cmsMode=Preview"}
- return url;
-}
-</script><script type="text/javascript">
-function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
-function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
- PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
- } 
-</script>
-	                    	                    
-	                    </div>
-	                      <div class="emergency">
-                            <a href="/contact/Emergency/">Emergency</a>
-                        </div>
- <!--[if lte IE 6]>
-<p>To view the Capilano University website please upgrade your web browser from the <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx">Microsoft Internet Explorer</a> website.</p>
-<p>North Vancouver Campus | 2055 Purcell Way, North Vancouver, British Columbia Canada V7J 3H5 Tel: 604.986.1911<br/>
-Squamish Campus | 1150 Carson Place, Squamish, British Columbia Canada V8B 0B1 Tel: 604.892.5322<br/>
-Sunshine Coast Campus | 5627 Inlet Avenue, Sechelt, British Columbia Canada V0N 3A0 Tel: 604.885.9310</p>
-<![endif]-->
-                    </div>              
-               
-             <!-- end header -->
-                                  
-                
-    <div id="wrapper">
-        <!-- container 2 -->
-        <div id="container2">
-            <!-- left-column defines column on the left in the 3 column layout --> 
-            <div id="left-column"> 
-                <!-- menu title -->
-                <div class="section-title">
-                    <a id="menu_title" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=4872">Current Students</a>
-                </div>
-                
-                <div id="left-top-menu">
-                <div id="ctl00_cph_mnuTop" class="usersClass">
-	<link type="text/css" rel="stylesheet" href="/css/expand1.css"><div class="expand1"><div class="ekflexmenu" id="ee3c658bd_1152_0_ekflexmenu"><div class="ekflexmenu_menu_level_0 ekflexmenu_submenu"><ul class="ekflexmenu_submenu_items" id="ee3c658bd_1152_0_submenu_items"></ul></div></div></div><script language="JavaScript" type="text/javascript">
-			// Pass server control properties, etc., to Javascript:
-			if (("undefined" == typeof window.ekFlexMenu_ekflexmenuArray)
-				|| (null == window.ekFlexMenu_ekflexmenuArray)) {
-				window.ekFlexMenu_ekflexmenuArray = new Array;
-			}
-			window.ekFlexMenu_ekflexmenuArray[window.ekFlexMenu_ekflexmenuArray.length] = "ee3c658bd_1152_0";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_swRev)
-			|| (null == window.ekFlexMenu_swRev)) {
-			window.ekFlexMenu_swRev = new Array;
-			}
-			window.ekFlexMenu_swRev["ee3c658bd"] = "8.0.0.073";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_startupSubmenuBranchId)
-			|| (null == window.ekFlexMenu_startupSubmenuBranchId)) {
-			window.ekFlexMenu_startupSubmenuBranchId = new Array;
-			}
-			window.ekFlexMenu_startupSubmenuBranchId["ee3c658bd"] = "";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_autoCollapseBranches)
-			|| (null == window.ekFlexMenu_autoCollapseBranches)) {
-			window.ekFlexMenu_autoCollapseBranches = new Array;
-			}
-			window.ekFlexMenu_autoCollapseBranches["ee3c658bd"] = "true";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_startCollapsed)
-			|| (null == window.ekFlexMenu_startCollapsed)) {
-			window.ekFlexMenu_startCollapsed = new Array;
-			}
-			window.ekFlexMenu_startCollapsed["ee3c658bd"] = "true";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_startWithRootFolderCollapsed)
-			|| (null == window.ekFlexMenu_startWithRootFolderCollapsed)) {
-			window.ekFlexMenu_startWithRootFolderCollapsed = new Array;
-			}
-			window.ekFlexMenu_startWithRootFolderCollapsed["ee3c658bd"] = "false";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_masterControlIdHash)
-				|| (null == window.ekFlexMenu_masterControlIdHash)) {
-				window.ekFlexMenu_masterControlIdHash = new Array;
-			}
-			window.ekFlexMenu_masterControlIdHash["ee3c658bd"] = "";
-			
-			//
-			if (("undefined" == typeof window.ekFlexMenu_ajaxEnabled)
-			|| (null == window.ekFlexMenu_ajaxEnabled)) {
-			window.ekFlexMenu_ajaxEnabled = new Array;
-			}
-			window.ekFlexMenu_ajaxEnabled["ee3c658bd"] = "false";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_ajaxWSPath)
-			|| (null == window.ekFlexMenu_ajaxWSPath)) {
-			window.ekFlexMenu_ajaxWSPath = new Array;
-			}
-			window.ekFlexMenu_ajaxWSPath["ee3c658bd"] = "/WorkArea/webservices/";
-			// 
-			if (("undefined" == typeof window.ekFlexMenu_displayXslt)
-			|| (null == window.ekFlexMenu_displayXslt)) {
-			window.ekFlexMenu_displayXslt = new Array;
-			}
-			window.ekFlexMenu_displayXslt["ee3c658bd"] = "/xslt/Demo.xsl";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_cacheInterval)
-			|| (null == window.ekFlexMenu_cacheInterval)) {
-			window.ekFlexMenu_cacheInterval = new Array;
-			}
-			window.ekFlexMenu_cacheInterval["ee3c658bd"] = "0";
-			//
-			//////////////////////////////////////////////////////////////////
-			// Add event handler calling functions:
-			//   Test to ensure that ekFlexMenu is valid/reachable (this is needed 
-			//   to prevent intermittent Javascript errors that can occur if user
-			//   causes event to fire while page is being torn down (i.e. a link is
-			//   clicked, browser is fetching new page, movement causes mouse-out...):
-			function ekFlexMenu_IsValid(obj) {
-				return (("undefined" != typeof obj) && (null != obj));
-			}
-			function ekFlexMenuPopupMsIn(event) {
-				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.mouseIn)) {
-					return (ekFlexMenu.mouseIn(event));
-				}
-				return (true);
-			}
-			function ekFlexMenuPopupMsOut(event) {
-				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.mouseOut)) {
-					return (ekFlexMenu.mouseOut(event));
-				}
-				return (true);
-			}
-			function ekFlexMenuKey(event) {
-				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnKeyHdlr)) {
-					return (ekFlexMenu.menuBtnKeyHdlr(event));
-				}
-				return (true);
-			}
-			function ekFlexMenuMsOut(event) {
-				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnMouseOutHdlr)) {
-					return (ekFlexMenu.menuBtnMouseOutHdlr(event));
-				}
-				return (true);
-			}
-			function ekFlexMenuMsOvr(event) {
-				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnMouseOverHdlr)) {
-					return (ekFlexMenu.menuBtnMouseOverHdlr(event));
-				}
-				return (true);
-			}
-			function ekFlexMenuClk(event) {
-				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnClickHdlr)) {
-					return (ekFlexMenu.menuBtnClickHdlr(event));
-				}
-				return (true);
-			}
-		</script>
-</div>  
-			    </div>              
-                
-                <div id="left-middle-menu">
-                <div id="ctl00_cph_mnuMiddle" class="usersClass">
-	<link type="text/css" rel="stylesheet" href="/css/expand1.css"><div class="expand1"><div class="ekflexmenu" id="eade3329b_1562_0_ekflexmenu"><div class="ekflexmenu_menu_level_0 ekflexmenu_submenu"><ul class="ekflexmenu_submenu_items" id="eade3329b_1562_0_submenu_items"><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel" id="eade3329b_1562_1563"><a id="eade3329b_1562_1563_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://capilanou.ca/Interior3Col.pb.aspx?pageid=6854&amp;ekfxmen_noscript=1&amp;ekfxmensel=eade3329b_1562_1563">Registration</a><input type="hidden" id="eade3329b_1562_1563_parentid" value="eade3329b_1562_1562"><ul id="eade3329b_1562_1563_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/how-to-register/" target="_self">How to Register</a></li><li><a class="ekflexmenu_link" href="/register-now/" target="_self">Register Now</a></li><li><a class="ekflexmenu_link" href="/reg-dates/" target="_self">Registration Dates</a></li><li><a class="ekflexmenu_link" href="/Registration-Time-Tickets.html" target="_self">Registration Time Tickets</a></li></ul></li><li><a class="ekflexmenu_link" href="/current/Academic-Advising/" target="_self">Academic Advising</a></li><li><a class="ekflexmenu_link" href="/current/dates/" target="_self">Important Dates &amp; Schedules</a></li><li><a class="ekflexmenu_link" href="/current/mycapschedule/" target="_self">myCap Schedule</a></li><li><a class="ekflexmenu_link" href="/webmail/mail.html" target="_self">Email For Applicants &amp; Students</a></li><li><a class="ekflexmenu_link" href="/current/Final-Exams/" target="_self">Final Exams</a></li><li><a class="ekflexmenu_link" href="/current/Grades/" target="_self">Grades</a></li><li><a class="ekflexmenu_link" href="/current/transfer/" target="_self">Transfer Credit</a></li><li><a class="ekflexmenu_link" href="/current/transcripts-and-forms/" target="_self">Transcripts &amp; Forms</a></li><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel" id="eade3329b_1562_1564"><a id="eade3329b_1562_1564_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=8755">Graduation &amp; Convocation</a><input type="hidden" id="eade3329b_1562_1564_parentid" value="eade3329b_1562_1562"><ul id="eade3329b_1562_1564_submenu_items" class="ekflexmenu_submenu_items_hidden"><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="eade3329b_1562_19327352950"><a id="eade3329b_1562_19327352950_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=15633">Application for Graduation Assessment</a><input type="hidden" id="eade3329b_1562_19327352950_parentid" value="eade3329b_1562_1564"></li><li><a class="ekflexmenu_link" href="/convocation/" target="_self">Convocation</a></li></ul></li><li><a class="ekflexmenu_link" href="/current/Services-for-Students/" target="_self">Services for Students</a></li><li><a class="ekflexmenu_link" href="/current/volunteer/" target="_self">Get Involved - Volunteer</a></li><li><a class="ekflexmenu_link" href="/Cap-App/" target="_self">The Cap App</a></li><li><a class="ekflexmenu_link" href="/current/fees-finances/" target="_self">Fees &amp; Finances</a></li><li><a class="ekflexmenu_link" href="/current/policies/" target="_self">Policies &amp; Procedures</a></li><li><a class="ekflexmenu_link" href="/current/calendar/" target="_self">Capilano University Calendar</a></li><li><a class="ekflexmenu_link" href="/current/FAQ/" target="_self">Frequently Asked Questions</a></li></ul></div></div></div><script language="JavaScript" type="text/javascript">
-			// Pass server control properties, etc., to Javascript:
-			if (("undefined" == typeof window.ekFlexMenu_ekflexmenuArray)
-				|| (null == window.ekFlexMenu_ekflexmenuArray)) {
-				window.ekFlexMenu_ekflexmenuArray = new Array;
-			}
-			window.ekFlexMenu_ekflexmenuArray[window.ekFlexMenu_ekflexmenuArray.length] = "eade3329b_1562_0";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_swRev)
-			|| (null == window.ekFlexMenu_swRev)) {
-			window.ekFlexMenu_swRev = new Array;
-			}
-			window.ekFlexMenu_swRev["eade3329b"] = "8.0.0.073";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_startupSubmenuBranchId)
-			|| (null == window.ekFlexMenu_startupSubmenuBranchId)) {
-			window.ekFlexMenu_startupSubmenuBranchId = new Array;
-			}
-			window.ekFlexMenu_startupSubmenuBranchId["eade3329b"] = "";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_autoCollapseBranches)
-			|| (null == window.ekFlexMenu_autoCollapseBranches)) {
-			window.ekFlexMenu_autoCollapseBranches = new Array;
-			}
-			window.ekFlexMenu_autoCollapseBranches["eade3329b"] = "true";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_startCollapsed)
-			|| (null == window.ekFlexMenu_startCollapsed)) {
-			window.ekFlexMenu_startCollapsed = new Array;
-			}
-			window.ekFlexMenu_startCollapsed["eade3329b"] = "true";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_startWithRootFolderCollapsed)
-			|| (null == window.ekFlexMenu_startWithRootFolderCollapsed)) {
-			window.ekFlexMenu_startWithRootFolderCollapsed = new Array;
-			}
-			window.ekFlexMenu_startWithRootFolderCollapsed["eade3329b"] = "false";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_masterControlIdHash)
-				|| (null == window.ekFlexMenu_masterControlIdHash)) {
-				window.ekFlexMenu_masterControlIdHash = new Array;
-			}
-			window.ekFlexMenu_masterControlIdHash["eade3329b"] = "";
-			
-			//
-			if (("undefined" == typeof window.ekFlexMenu_ajaxEnabled)
-			|| (null == window.ekFlexMenu_ajaxEnabled)) {
-			window.ekFlexMenu_ajaxEnabled = new Array;
-			}
-			window.ekFlexMenu_ajaxEnabled["eade3329b"] = "false";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_ajaxWSPath)
-			|| (null == window.ekFlexMenu_ajaxWSPath)) {
-			window.ekFlexMenu_ajaxWSPath = new Array;
-			}
-			window.ekFlexMenu_ajaxWSPath["eade3329b"] = "/WorkArea/webservices/";
-			// 
-			if (("undefined" == typeof window.ekFlexMenu_displayXslt)
-			|| (null == window.ekFlexMenu_displayXslt)) {
-			window.ekFlexMenu_displayXslt = new Array;
-			}
-			window.ekFlexMenu_displayXslt["eade3329b"] = "/xslt/Demo.xsl";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_cacheInterval)
-			|| (null == window.ekFlexMenu_cacheInterval)) {
-			window.ekFlexMenu_cacheInterval = new Array;
-			}
-			window.ekFlexMenu_cacheInterval["eade3329b"] = "0";
-			//
-			//////////////////////////////////////////////////////////////////
-			// Add event handler calling functions:
-			//   Test to ensure that ekFlexMenu is valid/reachable (this is needed 
-			//   to prevent intermittent Javascript errors that can occur if user
-			//   causes event to fire while page is being torn down (i.e. a link is
-			//   clicked, browser is fetching new page, movement causes mouse-out...):
-			function ekFlexMenu_IsValid(obj) {
-				return (("undefined" != typeof obj) && (null != obj));
-			}
-			function ekFlexMenuPopupMsIn(event) {
-				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.mouseIn)) {
-					return (ekFlexMenu.mouseIn(event));
-				}
-				return (true);
-			}
-			function ekFlexMenuPopupMsOut(event) {
-				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.mouseOut)) {
-					return (ekFlexMenu.mouseOut(event));
-				}
-				return (true);
-			}
-			function ekFlexMenuKey(event) {
-				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnKeyHdlr)) {
-					return (ekFlexMenu.menuBtnKeyHdlr(event));
-				}
-				return (true);
-			}
-			function ekFlexMenuMsOut(event) {
-				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnMouseOutHdlr)) {
-					return (ekFlexMenu.menuBtnMouseOutHdlr(event));
-				}
-				return (true);
-			}
-			function ekFlexMenuMsOvr(event) {
-				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnMouseOverHdlr)) {
-					return (ekFlexMenu.menuBtnMouseOverHdlr(event));
-				}
-				return (true);
-			}
-			function ekFlexMenuClk(event) {
-				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnClickHdlr)) {
-					return (ekFlexMenu.menuBtnClickHdlr(event));
-				}
-				return (true);
-			}
-		</script>
-</div>
-			        </div>
-                
-                <div id="left-bottom-menu">
-                <div id="ctl00_cph_mnuBottom" class="usersClass">
-	<link type="text/css" rel="stylesheet" href="/css/expand1.css"><div class="expand1"><div class="ekflexmenu" id="e7056be25_510_0_ekflexmenu"><div class="ekflexmenu_menu_level_0 ekflexmenu_submenu"><ul class="ekflexmenu_submenu_items" id="e7056be25_510_0_submenu_items"><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel" id="e7056be25_510_843"><a id="e7056be25_510_843_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://capilanou.ca/Interior3Col.pb.aspx?pageid=6854&amp;ekfxmen_noscript=1&amp;ekfxmensel=e7056be25_510_843">News &amp; Events</a><input type="hidden" id="e7056be25_510_843_parentid" value="e7056be25_510_510"><ul id="e7056be25_510_843_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/audnews.aspx?aud=155" target="_self">News</a></li><li><a class="ekflexmenu_link" href="/audevents.aspx?aud=161" target="_self">Events</a></li></ul></li><li><a class="ekflexmenu_link" href="/current/Contact-Us/" target="_self">Contact Us</a></li></ul></div></div></div><script language="JavaScript" type="text/javascript">
-			// Pass server control properties, etc., to Javascript:
-			if (("undefined" == typeof window.ekFlexMenu_ekflexmenuArray)
-				|| (null == window.ekFlexMenu_ekflexmenuArray)) {
-				window.ekFlexMenu_ekflexmenuArray = new Array;
-			}
-			window.ekFlexMenu_ekflexmenuArray[window.ekFlexMenu_ekflexmenuArray.length] = "e7056be25_510_0";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_swRev)
-			|| (null == window.ekFlexMenu_swRev)) {
-			window.ekFlexMenu_swRev = new Array;
-			}
-			window.ekFlexMenu_swRev["e7056be25"] = "8.0.0.073";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_startupSubmenuBranchId)
-			|| (null == window.ekFlexMenu_startupSubmenuBranchId)) {
-			window.ekFlexMenu_startupSubmenuBranchId = new Array;
-			}
-			window.ekFlexMenu_startupSubmenuBranchId["e7056be25"] = "";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_autoCollapseBranches)
-			|| (null == window.ekFlexMenu_autoCollapseBranches)) {
-			window.ekFlexMenu_autoCollapseBranches = new Array;
-			}
-			window.ekFlexMenu_autoCollapseBranches["e7056be25"] = "true";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_startCollapsed)
-			|| (null == window.ekFlexMenu_startCollapsed)) {
-			window.ekFlexMenu_startCollapsed = new Array;
-			}
-			window.ekFlexMenu_startCollapsed["e7056be25"] = "true";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_startWithRootFolderCollapsed)
-			|| (null == window.ekFlexMenu_startWithRootFolderCollapsed)) {
-			window.ekFlexMenu_startWithRootFolderCollapsed = new Array;
-			}
-			window.ekFlexMenu_startWithRootFolderCollapsed["e7056be25"] = "false";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_masterControlIdHash)
-				|| (null == window.ekFlexMenu_masterControlIdHash)) {
-				window.ekFlexMenu_masterControlIdHash = new Array;
-			}
-			window.ekFlexMenu_masterControlIdHash["e7056be25"] = "";
-			
-			//
-			if (("undefined" == typeof window.ekFlexMenu_ajaxEnabled)
-			|| (null == window.ekFlexMenu_ajaxEnabled)) {
-			window.ekFlexMenu_ajaxEnabled = new Array;
-			}
-			window.ekFlexMenu_ajaxEnabled["e7056be25"] = "false";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_ajaxWSPath)
-			|| (null == window.ekFlexMenu_ajaxWSPath)) {
-			window.ekFlexMenu_ajaxWSPath = new Array;
-			}
-			window.ekFlexMenu_ajaxWSPath["e7056be25"] = "/WorkArea/webservices/";
-			// 
-			if (("undefined" == typeof window.ekFlexMenu_displayXslt)
-			|| (null == window.ekFlexMenu_displayXslt)) {
-			window.ekFlexMenu_displayXslt = new Array;
-			}
-			window.ekFlexMenu_displayXslt["e7056be25"] = "/xslt/Demo.xsl";
-			//
-			if (("undefined" == typeof window.ekFlexMenu_cacheInterval)
-			|| (null == window.ekFlexMenu_cacheInterval)) {
-			window.ekFlexMenu_cacheInterval = new Array;
-			}
-			window.ekFlexMenu_cacheInterval["e7056be25"] = "0";
-			//
-			//////////////////////////////////////////////////////////////////
-			// Add event handler calling functions:
-			//   Test to ensure that ekFlexMenu is valid/reachable (this is needed 
-			//   to prevent intermittent Javascript errors that can occur if user
-			//   causes event to fire while page is being torn down (i.e. a link is
-			//   clicked, browser is fetching new page, movement causes mouse-out...):
-			function ekFlexMenu_IsValid(obj) {
-				return (("undefined" != typeof obj) && (null != obj));
-			}
-			function ekFlexMenuPopupMsIn(event) {
-				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.mouseIn)) {
-					return (ekFlexMenu.mouseIn(event));
-				}
-				return (true);
-			}
-			function ekFlexMenuPopupMsOut(event) {
-				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.mouseOut)) {
-					return (ekFlexMenu.mouseOut(event));
-				}
-				return (true);
-			}
-			function ekFlexMenuKey(event) {
-				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnKeyHdlr)) {
-					return (ekFlexMenu.menuBtnKeyHdlr(event));
-				}
-				return (true);
-			}
-			function ekFlexMenuMsOut(event) {
-				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnMouseOutHdlr)) {
-					return (ekFlexMenu.menuBtnMouseOutHdlr(event));
-				}
-				return (true);
-			}
-			function ekFlexMenuMsOvr(event) {
-				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnMouseOverHdlr)) {
-					return (ekFlexMenu.menuBtnMouseOverHdlr(event));
-				}
-				return (true);
-			}
-			function ekFlexMenuClk(event) {
-				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnClickHdlr)) {
-					return (ekFlexMenu.menuBtnClickHdlr(event));
-				}
-				return (true);
-			}
-		</script>
-</div>
-			    </div>			        
-            </div>
-            <!-- end left-column -->
-              <div id="inside-conversions">
-                
-        <div id="ctl00_cph_dzConversions_uxUpdatePanel" class="">
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+  <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+	<title>Privacy Statement - Capilano University</title>	  
+  
+  	<!-- Add a meta description for every page - this should be a summary of Capilano University for the homepage-->
+		<!-- Add meta keywords for the site globally -->
+	<!-- meta descrptions and keywords are technically obsolete as per Google - but older / other search engines may still make use of them -->
+	<link rel="icon" type="image/png" href="/media/capilanouca/images/favicon/favicon.ico">
+ 	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<!-- We can use the existing favicon for CapU -->
+ 	 <!--/media/capilanouca/images/favicon/favicon.ico--><!-- We can use the existing favicon for CapU -->
+<!-- Mobile Meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
 	
-                <div id="ctl00_cph_dzConversions_uxDropZone" data-ux-pagebuilder="DropZone">
-                    
-                            <div data-ux-pagebuilder="Column" style="width:200px">
-                                
-                                <ul>
-                                    
-                                </ul>
-                            </div>
-                        
-                </div>
-            
-</div>
+	
+	<meta name="msvalidate.01" content="D838B33DE3B57BF19A4CE4F3D0248289">
+<!-- Stylesheets -->
+	<link rel="stylesheet" type="text/css" media="" href="/media/capilanouca/images/css/style.css"> <!-- styles.css -->
+        <link rel="stylesheet" type="text/css" media="" href="/media/capilanouca/images/css/print.css"> <!-- print.css -->	
+	<!--[if IE]>
+  	<link rel="stylesheet" type="text/css" href="css/ie.css" />
+  <![endif]-->
+	
+	<!-- Fonts --><!-- NOTE: Capilano will need to set up a typekit account. YP can help with this --> 
+	<link rel="stylesheet" href="https://use.typekit.net/wjj8fup.css"> 
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     
-           </div>         
-        </div>
-        <!-- end container 2 -->        
-        <!-- container 3 -->        
-        <div id="container3">
+	<!-- Modernizr -->
+	<!--<script src="js/modernizr.js"></script>--><!-- commented out since we're not using this for now. Leaving it in just in case -->
+	
+	<!--[if lt IE 9]>
+    <script type="text/javascript" src="js/html5-3.7-respond-1.4.1.min.js"></script>
+  <![endif]-->
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-1507277-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-1507277-1');
+</script>
+
+	
+</head>  
+
+<!--Basic page no sidebar with background image-->
+
+<body class="basic-page no-sidebar"><!-- The basic page body must have a class of basic-page -->
+
+  <header id="header">
+    <div id="header-bg"></div><!-- #header-bg is used to fill in background colour of the header -->
+    <div class="container">
+      <div id="logo">
+        <h1><a href="/" aria-label="Homepage link">Capilano University</a></h1>
+      </div><!--.logo-->
+      <div class="screen-read skip-text"><!-- only visible to screen readers or users browsing through tab navigation -->
+        <p>Please choose between the following three options:</p>
+        <ul>
+          <li><a href="#main">Option one, skip to page content</a></li>
+          <li><a href="#primary-nav">Option two, skip to site navigation</a></li>
+          <li><a href="#utility-nav">Option three, skip to utility navigation and site search</a></li>
+        </ul>
+      </div><!--.skip-text-->
+      <div id="utility-nav" aria-label="Utility navigation"><!-- #siteTools id equivalent specified by Terminal4 -->
+        <!-- This unordered list should be dynamically generated by TerminalFour -->
+        <ul><!-- utility navigation list -->
+          <li><a href="/about-capu/connect-with-capu/support-capu/">Support CapU</a></li><li><a href="/about-capu/connect-with-capu/alumni/">Alumni</a></li><li><a href="/about-capu/connect-with-capu/employees/">Employees</a></li><li><a href="/mycapu/">myCapU</a></li>
+        </ul>
+         <div id="site-search-container">
+          <form>
+            <p>What can we help you find? </p>
+            <div class="input-group">
+              <!-- Elements in this section need a tabindex of -1 to hide from tab navigation until search is active --> 
+              <label for="site-search">Search CapU</label> 
+              <input id="site-search" type="text" aria-label="Search CapU" tabindex="-1">
+              <button id="site-search-submit" type="submit" tabindex="-1" class="button dark-blue" onclick="javascript:window.location.href = '/search//?q=' + document.getElementById('site-search').value; return false;">Search</button>
+            </div>
+          </form>
+          <button id="site-search-close" class="close-button" tabindex="-1" aria-label="Close site search">Close<span>×</span></button>
+        </div><!--#site-search-container-->
+        <button class="site-search-toggle" aria-label="Search website">
+          <!-- This svg icon must be inline so that we can use CSS to change its color in different states -->
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+            <g>
+              <path style="fill-rule:evenodd;clip-rule:evenodd;" d="M15.707,14.293l-3.112-3.092c-0.002-0.002-0.004-0.002-0.006-0.004
+              C13.471,10.025,14,8.575,14,7c0-3.859-3.141-7-7-7S0,3.141,0,7s3.141,7,7,7c1.575,0,3.025-0.529,4.196-1.41
+              c0.002,0.002,0.002,0.004,0.004,0.006l3.093,3.111C14.488,15.902,14.744,16,15,16s0.512-0.098,0.707-0.293
+              C16.098,15.316,16.098,14.684,15.707,14.293z M7,12c-2.757,0-5-2.243-5-5s2.243-5,5-5s5,2.243,5,5S9.757,12,7,12z"></path>
+            </g>
+          </svg><span class="button-text">Search</span>
+        </button>
+
+
+        
+      </div><!--#siteTools-->
+      <nav id="primary-nav" aria-label="Primary navigation">
+        <!-- This unordered list should be dynamically generated by TerminalFour -->
+       <ul><li><a href="/programs--courses/">Programs &amp; Courses</a>
+<ul class="multilevel-linkul-0"><span class="menu-title"><a href="/programs--courses/" tabindex="-1">Programs &amp; Courses</a><a class="button dark-blue" href="/admissions/apply-to-capu/how-to-apply/">Apply to CapU</a><a class="button ghost" href="/programs--courses/search--select/find-a-program-or-course/">Find a Program or Course</a></span>
+<li><a href="/programs--courses/search--select/" tabindex="-1">Search &amp; Select</a>
+<ul class="multilevel-linkul-1 large-nav">
+<li><a href="/programs--courses/search--select/explore-our-areas-of-study/" tabindex="-1">Explore Our Areas of Study</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/programs--courses/search--select/explore-our-areas-of-study/arts--sciences/" tabindex="-1">Arts &amp; Sciences</a></li>
+<li><a href="/programs--courses/search--select/explore-our-areas-of-study/business--professional-studies/" tabindex="-1">Business &amp; Professional Studies</a></li>
+<li><a href="/programs--courses/search--select/explore-our-areas-of-study/education-health--human-development/" tabindex="-1">Education, Health &amp; Human Development</a></li>
+<li><a href="/programs--courses/search--select/explore-our-areas-of-study/fine--applied-arts/" tabindex="-1">Fine &amp; Applied Arts</a></li>
+<li><a href="/programs--courses/search--select/explore-our-areas-of-study/global--community-studies/" tabindex="-1">Global &amp; Community Studies</a></li>
+<li><a href="/programs--courses/search--select/explore-our-areas-of-study/subscribe-to-newsletters/" tabindex="-1">Subscribe to Newsletters</a></li>
+
+</ul>
+
+</li>
+<li><a href="/programs--courses/search--select/find-a-program-or-course/" tabindex="-1">Find a Program or Course</a></li>
+<li><a href="/programs--courses/search--select/cap-core-courses/" tabindex="-1">Cap Core Courses</a></li>
+<li><a href="/programs--courses/search--select/academic-upgrading/" tabindex="-1">Academic Upgrading</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/programs--courses/search--select/academic-upgrading/apply-and-register-for-new-abe-or-cup-students/" tabindex="-1">Apply and Register for New ABE or CUP Students</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/programs--courses/search--select/academic-upgrading/apply-and-register-for-new-abe-or-cup-students/info--assessment-sessions-sign-up/" tabindex="-1">Info &amp; Assessment Sessions Sign-up</a></li>
+
+</ul>
+
+</li>
+<li><a href="/programs--courses/search--select/academic-upgrading/current-and-returning-abe-or-cup-students/" tabindex="-1">Current and Returning ABE or CUP Students</a></li>
+<li><a href="/programs--courses/search--select/academic-upgrading/adult-basic-education-online-courses/" tabindex="-1">Adult Basic Education Online Courses</a></li>
+<li><a href="/programs--courses/search--select/academic-upgrading/english-for-academic-purposes-esl/" tabindex="-1">English for Academic Purposes (ESL)</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/programs--courses/search--select/academic-upgrading/english-for-academic-purposes-esl/eap-pathway-programs/" tabindex="-1">EAP Pathway Programs</a></li>
+<li><a href="/programs--courses/search--select/academic-upgrading/english-for-academic-purposes-esl/placement-test/" tabindex="-1">Placement Test</a></li>
+
+</ul>
+
+</li>
+
+</ul>
+
+</li>
+<li><a href="/programs--courses/search--select/sunshine-coast-programs--courses/" tabindex="-1">Sunshine Coast Programs &amp; Courses</a></li>
+<li class="hide-nav-item"><a href="/programs--courses/search--select/study-abroad/" tabindex="-1">Study Abroad</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/programs--courses/search--select/study-abroad/full-term-exchanges/" tabindex="-1">Full Term Exchanges</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/programs--courses/search--select/study-abroad/full-term-exchanges/exchange-destinations/" tabindex="-1">Exchange Destinations</a></li>
+<li><a href="/programs--courses/search--select/study-abroad/full-term-exchanges/how-to-apply/" tabindex="-1">How to Apply</a></li>
+
+</ul>
+
+</li>
+<li><a href="/programs--courses/search--select/study-abroad/field-schools/" tabindex="-1">Field Schools</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/programs--courses/search--select/study-abroad/field-schools/how-to-apply/" tabindex="-1">How to Apply</a></li>
+
+</ul>
+
+</li>
+<li><a href="/programs--courses/search--select/study-abroad/special-programs/" tabindex="-1">Special Programs</a></li>
+<li><a href="/programs--courses/search--select/study-abroad/cost--funding/" tabindex="-1">Cost &amp; Funding</a></li>
+<li><a href="/programs--courses/search--select/study-abroad/study-abroad-ambassadors/" tabindex="-1">Study Abroad Ambassadors</a></li>
+<li><a href="/programs--courses/search--select/study-abroad/information-sessions/" tabindex="-1">Information Sessions</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/programs--courses/search--select/study-abroad/information-sessions/book-an-appointment/" tabindex="-1">Book an Appointment</a></li>
+
+</ul>
+
+</li>
+
+</ul>
+
+</li>
+<li class="hide-nav-item"><a href="/programs--courses/search--select/continuing-studies--executive-education/" tabindex="-1">Continuing Studies &amp; Executive Education</a></li>
+
+<a class="view-all" tabindex="-1" href="/programs--courses/search--select/">View All</a></ul>
+
+</li>
+<li><a href="/programs--courses/capu-for-you/" tabindex="-1">CapU for You</a>
+<ul class="multilevel-linkul-1 large-nav">
+<li><a href="/programs--courses/capu-for-you/new-to-capu/" tabindex="-1">New to CapU</a></li>
+<li><a href="/programs--courses/capu-for-you/indigenous-students/" tabindex="-1">Indigenous Students</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/programs--courses/capu-for-you/indigenous-students/succeed-as-a-student/" tabindex="-1">Succeed as a Student</a></li>
+
+</ul>
+
+</li>
+<li><a href="/programs--courses/capu-for-you/international-students/" tabindex="-1">International Students</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/programs--courses/capu-for-you/international-students/apply-to-capu-as-an-international-student/" tabindex="-1">Apply to CapU as an International Student</a></li>
+<li><a href="/programs--courses/capu-for-you/international-students/pathway-partner-schools/" tabindex="-1">Pathway Partner Schools</a></li>
+<li><a href="/programs--courses/capu-for-you/international-students/services--support-for-international-students/" tabindex="-1">Services &amp; Support for International Students</a></li>
+<li><a href="/programs--courses/capu-for-you/international-students/international-agents--counsellors/" tabindex="-1">International Agents &amp; Counsellors</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/programs--courses/capu-for-you/international-students/international-agents--counsellors/capu-agent-application/" tabindex="-1">CapU Agent Application</a></li>
+<li><a href="/programs--courses/capu-for-you/international-students/international-agents--counsellors/request-materials/" tabindex="-1">Request Materials</a></li>
+
+</ul>
+
+</li>
+<li><a href="/programs--courses/capu-for-you/international-students/admitted-international-students/" tabindex="-1">Admitted International Students</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/programs--courses/capu-for-you/international-students/admitted-international-students/permits--visas/" tabindex="-1">Permits &amp; Visas</a></li>
+<li><a href="/programs--courses/capu-for-you/international-students/admitted-international-students/accommodation/" tabindex="-1">Accommodation</a></li>
+<li><a href="/programs--courses/capu-for-you/international-students/admitted-international-students/health-insurance-for-international-students/" tabindex="-1">Health Insurance for International Students</a></li>
+
+</ul>
+
+</li>
+<li><a href="/programs--courses/capu-for-you/international-students/visiting--exchange-students/" tabindex="-1">Visiting &amp; Exchange Students</a></li>
+
+</ul>
+
+</li>
+<li><a href="/programs--courses/capu-for-you/parents--families/" tabindex="-1">Parents &amp; Families</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/programs--courses/capu-for-you/parents--families/parents-as-career-coaches/" tabindex="-1">Parents as Career Coaches</a></li>
+<li><a href="/programs--courses/capu-for-you/parents--families/parent--student-supporter-orientation/" tabindex="-1">Parent &amp; Student Supporter Orientation</a></li>
+<li><a href="/programs--courses/capu-for-you/parents--families/student-confidentialty/" tabindex="-1">Student Confidentialty</a></li>
+
+</ul>
+
+</li>
+<li><a href="/programs--courses/capu-for-you/high-school-counsellors/" tabindex="-1">High School Counsellors</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/programs--courses/capu-for-you/high-school-counsellors/recruitment-update/" tabindex="-1">Recruitment Update</a></li>
+<li><a href="/programs--courses/capu-for-you/high-school-counsellors/high-school-visits--fairs/" tabindex="-1">High School Visits &amp; Fairs</a></li>
+<li><a href="/programs--courses/capu-for-you/high-school-counsellors/counsellors-conference/" tabindex="-1">Counsellors' Conference</a></li>
+
+</ul>
+
+</li>
+
+</ul>
+
+</li>
+<li><a href="/programs--courses/get-started/" tabindex="-1">Get Started</a>
+<ul class="multilevel-linkul-1 large-nav">
+<li><a href="/programs--courses/get-started/why-choose-capu/" tabindex="-1">Why Choose CapU?</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/programs--courses/get-started/why-choose-capu/request-a-viewbook/" tabindex="-1">Request a Viewbook</a></li>
+
+</ul>
+
+</li>
+<li><a href="/programs--courses/get-started/steps-to-become-a-capu-student/" tabindex="-1">Steps to Become a CapU Student</a></li>
+<li><a href="/programs--courses/get-started/talk-to-an-advisor/" tabindex="-1">Talk to an Advisor</a></li>
+<li><a href="/programs--courses/get-started/visit-capu/" tabindex="-1">Visit CapU</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/programs--courses/get-started/visit-capu/campus-tours-for-canadians--prs/" tabindex="-1">Campus Tours for Canadians &amp; PRs</a></li>
+<li><a href="/programs--courses/get-started/visit-capu/campus-tours-for-international-students/" tabindex="-1">Campus Tours for International Students</a></li>
+<li><a href="/programs--courses/get-started/visit-capu/explore-capu-info-night/" tabindex="-1">Explore CapU Info Night</a></li>
+<li><a href="/programs--courses/get-started/visit-capu/student-for-a-day/" tabindex="-1">Student for a Day</a></li>
+<li><a href="/programs--courses/get-started/visit-capu/international-education-week-iew-2018/" tabindex="-1">International Education Week (IEW) 2018</a></li>
+
+</ul>
+
+</li>
+
+</ul>
+
+</li>
+
+</ul>
+
+</li><li><a href="/admissions/">Admissions</a>
+<ul class="multilevel-linkul-0"><span class="menu-title"><a href="/admissions/" tabindex="-1">Admissions</a><a class="button dark-blue" href="/programs--courses/get-started/talk-to-an-advisor/">Talk to an Advisor </a></span>
+<li><a href="/admissions/apply-to-capu/" tabindex="-1">Apply to CapU</a>
+<ul class="multilevel-linkul-1 large-nav">
+<li><a href="/admissions/apply-to-capu/admission-requirements/" tabindex="-1">Admission Requirements</a></li>
+<li><a href="/admissions/apply-to-capu/how-to-apply/" tabindex="-1">How to Apply</a></li>
+<li><a href="/admissions/apply-to-capu/report-your-high-school-grades/" tabindex="-1">Report Your High School Grades</a></li>
+<li><a href="/admissions/apply-to-capu/transfer-credit/" tabindex="-1">Transfer Credit</a></li>
+<li><a href="/admissions/apply-to-capu/admitted-students/" tabindex="-1">Admitted Students</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/admissions/apply-to-capu/admitted-students/jumpstart/" tabindex="-1">JumpStart</a></li>
+
+</ul>
+
+</li>
+
+</ul>
+
+</li>
+<li><a href="/admissions/course-registration/" tabindex="-1">Course Registration</a>
+<ul class="multilevel-linkul-1 large-nav">
+<li><a href="/admissions/course-registration/how-to-register/" tabindex="-1">How to Register</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/admissions/course-registration/how-to-register/planning-your-courses/" tabindex="-1">Planning Your Courses</a></li>
+<li><a href="/admissions/course-registration/how-to-register/registration-time-tickets/" tabindex="-1">Registration Time Tickets</a></li>
+
+</ul>
+
+</li>
+<li><a href="/admissions/course-registration/registration-dates/" tabindex="-1">Registration Dates</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/admissions/course-registration/registration-dates/academic-schedule-and-important-dates-archive/" tabindex="-1">Academic Schedule and Important Dates Archive</a></li>
+
+</ul>
+
+</li>
+<li><a href="/admissions/course-registration/registrars-office/" tabindex="-1">Registrar's Office</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/admissions/course-registration/registrars-office/transcripts--forms/" tabindex="-1">Transcripts &amp; Forms</a></li>
+
+</ul>
+
+</li>
+<li><a href="/admissions/course-registration/capilano-university-calendar/" tabindex="-1">Capilano University Calendar</a></li>
+
+</ul>
+
+</li>
+<li><a href="/admissions/fees--finances/" tabindex="-1">Fees &amp; Finances</a>
+<ul class="multilevel-linkul-1 large-nav">
+<li><a href="/admissions/fees--finances/tuition--fees/" tabindex="-1">Tuition &amp; Fees</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/admissions/fees--finances/tuition--fees/tuition--other-fees/" tabindex="-1">Tuition &amp; Other Fees</a></li>
+<li><a href="/admissions/fees--finances/tuition--fees/incidental-fees/" tabindex="-1">Incidental Fees</a></li>
+<li><a href="/admissions/fees--finances/tuition--fees/tuition--fee-estimator/" tabindex="-1">Tuition &amp; Fee Estimator</a></li>
+<li><a href="/admissions/fees--finances/tuition--fees/special-service-fees/" tabindex="-1">Special Service Fees</a></li>
+<li><a href="/admissions/fees--finances/tuition--fees/tuition-free-courses/" tabindex="-1">Tuition-Free Courses</a></li>
+
+</ul>
+
+</li>
+<li><a href="/admissions/fees--finances/fee-payment-deadline/" tabindex="-1">Fee Payment Deadline</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/admissions/fees--finances/fee-payment-deadline/fee-deferral/" tabindex="-1">Fee Deferral</a></li>
+
+</ul>
+
+</li>
+<li><a href="/admissions/fees--finances/financial-aid--awards/" tabindex="-1">Financial Aid &amp; Awards</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/admissions/fees--finances/financial-aid--awards/scholarships-bursaries--awards/" tabindex="-1">Scholarships, Bursaries &amp; Awards</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/admissions/fees--finances/financial-aid--awards/scholarships-bursaries--awards/future-students/" tabindex="-1">Future Students</a></li>
+<li><a href="/admissions/fees--finances/financial-aid--awards/scholarships-bursaries--awards/current--returning-students/" tabindex="-1">Current &amp; Returning Students</a></li>
+<li><a href="/admissions/fees--finances/financial-aid--awards/scholarships-bursaries--awards/international-students/" tabindex="-1">International Students</a></li>
+<li><a href="/admissions/fees--finances/financial-aid--awards/scholarships-bursaries--awards/external-awards/" tabindex="-1">External Awards</a></li>
+
+</ul>
+
+</li>
+<li><a href="/admissions/fees--finances/financial-aid--awards/student-loans--grants/" tabindex="-1">Student Loans &amp; Grants</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/admissions/fees--finances/financial-aid--awards/student-loans--grants/out-of-province-students/" tabindex="-1">Out-of-Province Students</a></li>
+<li><a href="/admissions/fees--finances/financial-aid--awards/student-loans--grants/adult-upgrading-grants/" tabindex="-1">Adult Upgrading Grants</a></li>
+
+</ul>
+
+</li>
+<li><a href="/admissions/fees--finances/financial-aid--awards/funding-for-youth-aged-out-of-care/" tabindex="-1">Funding for Youth Aged Out of Care</a></li>
+<li><a href="/admissions/fees--finances/financial-aid--awards/emergency-funding/" tabindex="-1">Emergency Funding</a></li>
+<li><a href="/admissions/fees--finances/financial-aid--awards/financial-aid--awards-events/" tabindex="-1">Financial Aid &amp; Awards Events</a></li>
+
+</ul>
+
+</li>
+<li><a href="/admissions/fees--finances/how-to-pay/" tabindex="-1">How to Pay</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/admissions/fees--finances/how-to-pay/fee-refunds/" tabindex="-1">Fee Refunds</a></li>
+
+</ul>
+
+</li>
+
+</ul>
+
+</li>
+
+</ul>
+
+</li><li><a href="/student-life/">Student Life</a>
+<ul class="multilevel-linkul-0"><span class="menu-title"><a href="/student-life/" tabindex="-1">Student Life</a><a class="button dark-blue" href="/about-capu/get-to-know-us/events/">Events </a></span>
+<li><a href="/student-life/academic-support/" tabindex="-1">Academic Support</a>
+<ul class="multilevel-linkul-1 large-nav">
+<li><a href="/student-life/academic-support/centre-for-student-success/" tabindex="-1">Centre for Student Success</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/" tabindex="-1">Student Affairs</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/capuleads/" tabindex="-1">CapULeads</a></li>
+<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/learning--skill-support/" tabindex="-1">Learning &amp; Skill Support</a></li>
+<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/student-code-of-conduct/" tabindex="-1">Student Code of Conduct</a></li>
+<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/information-for-complainants/" tabindex="-1">Information for Complainants</a></li>
+<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/information-for-respondents/" tabindex="-1">Information for Respondents</a></li>
+<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/academic-integrity/" tabindex="-1">Academic Integrity</a></li>
+<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/appeals--complaints/" tabindex="-1">Appeals &amp; Complaints</a></li>
+<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/student-life-hub/" tabindex="-1">Student Life Hub</a></li>
+
+</ul>
+
+</li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/academic-support/academic-advising/" tabindex="-1">Academic Advising</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/academic-support/academic-advising/course-planning-workshops/" tabindex="-1">Course Planning Workshops</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/academic-support/learning-commons/" tabindex="-1">Learning Commons</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/academic-support/learning-commons/math-learning-centre/" tabindex="-1">Math Learning Centre</a></li>
+<li><a href="/student-life/academic-support/learning-commons/writing-centre/" tabindex="-1">Writing Centre</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/student-life/academic-support/learning-commons/writing-centre/popular-writing-handouts/" tabindex="-1">Popular Writing Handouts</a></li>
+<li><a href="/student-life/academic-support/learning-commons/writing-centre/tips-for-using-the-writing-centre/" tabindex="-1">Tips for using the Writing Centre</a></li>
+<li><a href="/student-life/academic-support/learning-commons/writing-centre/online-writing-resources/" tabindex="-1">Online Writing Resources</a></li>
+<li><a href="/student-life/academic-support/learning-commons/writing-centre/books-at-the-writing-centre/" tabindex="-1">Books at the Writing Centre</a></li>
+<li><a href="/student-life/academic-support/learning-commons/writing-centre/student-workshops/" tabindex="-1">Student Workshops</a></li>
+<li><a href="/student-life/academic-support/learning-commons/writing-centre/proofreading-vs-instructional-editing/" tabindex="-1">Proofreading vs Instructional Editing</a></li>
+<li><a href="/student-life/academic-support/learning-commons/writing-centre/how-to-prepare-for-the-edt/" tabindex="-1">How to Prepare for the EDT</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/academic-support/learning-commons/english-language-support-els/" tabindex="-1">English Language Support (ELS)</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/academic-support/library/" tabindex="-1">Library</a></li>
+<li><a href="/student-life/academic-support/centre-for-teaching-excellence/" tabindex="-1">Centre for Teaching Excellence</a></li>
+<li class="hide-nav-item"><a href="/student-life/academic-support/additional-learning-support/" tabindex="-1">Additional Learning Support</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/academic-support/additional-learning-support/language-resource-centre/" tabindex="-1">Language Resource Centre</a></li>
+<li><a href="/student-life/academic-support/additional-learning-support/english-diagnostic-test/" tabindex="-1">English Diagnostic Test</a></li>
+<li><a href="/student-life/academic-support/additional-learning-support/math-placement-test-mpt/" tabindex="-1">Math Placement Test (MPT)</a></li>
+
+</ul>
+
+</li>
+<li class="hide-nav-item"><a href="/student-life/academic-support/career-development-centre/" tabindex="-1">Career Development Centre</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/academic-support/career-development-centre/students--alumni/" tabindex="-1">Students &amp; Alumni</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/student-life/academic-support/career-development-centre/students--alumni/access-student-resources/" tabindex="-1">Access Student Resources</a></li>
+<li><a href="/student-life/academic-support/career-development-centre/students--alumni/book-an-appointment/" tabindex="-1">Book an Appointment</a></li>
+<li><a href="/student-life/academic-support/career-development-centre/students--alumni/capcat---career-ambassador-team/" tabindex="-1">CapCAT - Career Ambassador Team</a></li>
+<li><a href="/student-life/academic-support/career-development-centre/students--alumni/cpa-recruit/" tabindex="-1">CPA Recruit</a></li>
+<li><a href="/student-life/academic-support/career-development-centre/students--alumni/job-boards/" tabindex="-1">Job Boards</a></li>
+<li><a href="/student-life/academic-support/career-development-centre/students--alumni/organizational-spotlight/" tabindex="-1">Organizational Spotlight</a></li>
+<li><a href="/student-life/academic-support/career-development-centre/students--alumni/register-for-career-workshops--events/" tabindex="-1">Register For Career Workshops &amp; Events</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/academic-support/career-development-centre/employers-and-non-profits/" tabindex="-1">Employers and Non-Profits</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/student-life/academic-support/career-development-centre/employers-and-non-profits/employer-guidelines/" tabindex="-1">Employer Guidelines</a></li>
+<li><a href="/student-life/academic-support/career-development-centre/employers-and-non-profits/post-a-job/" tabindex="-1">Post a Job</a></li>
+<li><a href="/student-life/academic-support/career-development-centre/employers-and-non-profits/post-a-volunteer-position/" tabindex="-1">Post a Volunteer Position</a></li>
+<li><a href="/student-life/academic-support/career-development-centre/employers-and-non-profits/employer-faq/" tabindex="-1">Employer FAQ</a></li>
+<li><a href="/student-life/academic-support/career-development-centre/employers-and-non-profits/what-is-organizational-spotlight/" tabindex="-1">What is Organizational Spotlight?</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/academic-support/career-development-centre/faculty--staff/" tabindex="-1">Faculty &amp; Staff</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/student-life/academic-support/career-development-centre/faculty--staff/dont-cancel-that-class-program/" tabindex="-1">Don't Cancel That Class! Program</a></li>
+
+</ul>
+
+</li>
+
+</ul>
+
+</li>
+
+<a class="view-all" tabindex="-1" href="/student-life/academic-support/">View All</a></ul>
+
+</li>
+<li><a href="/student-life/campus-community/" tabindex="-1">Campus Community</a>
+<ul class="multilevel-linkul-1 large-nav">
+<li><a href="/student-life/campus-community/capu-residence/" tabindex="-1">CapU Residence</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/campus-community/capu-residence/how-to-apply/" tabindex="-1">How to Apply</a></li>
+<li><a href="/student-life/campus-community/capu-residence/residence-advisor-application/" tabindex="-1">Residence Advisor Application</a></li>
+<li><a href="/student-life/campus-community/capu-residence/why-live-in-residence-/" tabindex="-1">Why Live in Residence? </a></li>
+<li><a href="/student-life/campus-community/capu-residence/residence-forms/" tabindex="-1">Residence Forms</a></li>
+<li><a href="/student-life/campus-community/capu-residence/residence-life/" tabindex="-1">Residence Life</a></li>
+<li><a href="/student-life/campus-community/capu-residence/buildings--rooms/" tabindex="-1">Buildings &amp; Rooms</a></li>
+<li><a href="/student-life/campus-community/capu-residence/residence-fees/" tabindex="-1">Residence Fees</a></li>
+<li><a href="/student-life/campus-community/capu-residence/meal-plan/" tabindex="-1">Meal Plan</a></li>
+<li><a href="/student-life/campus-community/capu-residence/agreement--standards/" tabindex="-1">Agreement &amp; Standards</a></li>
+<li><a href="/student-life/campus-community/capu-residence/frequently-asked-questions/" tabindex="-1">Frequently Asked Questions</a></li>
+<li><a href="/student-life/campus-community/capu-residence/contact-us/" tabindex="-1">Contact Us</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/campus-community/student-engagement/" tabindex="-1">Student Engagement</a></li>
+<li><a href="/student-life/campus-community/athletics--recreation/" tabindex="-1">Athletics &amp; Recreation</a>
+<ul class="multilevel-linkul-2">
+<li><a href="http://athletics.capilanou.ca/" target="_blank" tabindex="-1">Capilano Blues</a></li>
+<li><a href="/student-life/campus-community/athletics--recreation/fees-and-hours/" tabindex="-1">Fees and Hours</a></li>
+<li><a href="/student-life/campus-community/athletics--recreation/weight-room/" tabindex="-1">Weight Room</a></li>
+<li><a href="/student-life/campus-community/athletics--recreation/drop-in-sports/" tabindex="-1">Drop-In Sports</a></li>
+<li><a href="/student-life/campus-community/athletics--recreation/lillooet-park/" tabindex="-1">Lillooet Park</a></li>
+<li><a href="/student-life/campus-community/athletics--recreation/lockers-and-equipment/" tabindex="-1">Lockers and Equipment</a></li>
+<li><a href="/student-life/campus-community/athletics--recreation/sport-camps/" tabindex="-1">Sport Camps</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/student-life/campus-community/athletics--recreation/sport-camps/basketball/" tabindex="-1">Basketball</a></li>
+<li><a href="/student-life/campus-community/athletics--recreation/sport-camps/ultimate/" tabindex="-1">Ultimate</a></li>
+<li><a href="/student-life/campus-community/athletics--recreation/sport-camps/volleyball/" tabindex="-1">Volleyball</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/campus-community/athletics--recreation/capilano-basketball-league/" tabindex="-1">Capilano Basketball League</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/student-life/campus-community/athletics--recreation/capilano-basketball-league/past-champions/" tabindex="-1">Past Champions</a></li>
+<li><a href="/student-life/campus-community/athletics--recreation/capilano-basketball-league/schedule/" tabindex="-1">Schedule</a></li>
+<li><a href="/student-life/campus-community/athletics--recreation/capilano-basketball-league/statistics/" tabindex="-1">Statistics</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/campus-community/athletics--recreation/department-contacts/" tabindex="-1">Department Contacts</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/" tabindex="-1">BlueShore Financial Centre for the Performing Arts</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/ticket-sales/" tabindex="-1">Ticket Sales</a></li>
+<li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/seating-chart/" tabindex="-1">Seating Chart</a></li>
+<li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/location-and-parking/" tabindex="-1">Location and Parking</a></li>
+<li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/our-events/" tabindex="-1">Our Events</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/our-events/all-events/" tabindex="-1">All Events</a></li>
+<li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/our-events/capu-jazz-series/" tabindex="-1">CapU Jazz Series</a></li>
+<li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/our-events/capu-global-roots-series/" tabindex="-1">CapU Global Roots Series</a></li>
+<li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/our-events/capu-theatre-series/" tabindex="-1">CapU Theatre Series</a></li>
+<li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/our-events/capu-speaker-series/" tabindex="-1">CapU Speaker Series</a></li>
+<li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/our-events/capu-choral--classical-series/" tabindex="-1">CapU Choral &amp; Classical Series</a></li>
+<li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/our-events/north-shore-jazz-series/" tabindex="-1">North Shore Jazz Series</a></li>
+<li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/our-events/special-events/" tabindex="-1">Special Events</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/rent-the-theatre/" tabindex="-1">Rent the Theatre</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/rent-the-theatre/frequently-asked-questions/" tabindex="-1">Frequently Asked Questions</a></li>
+<li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/rent-the-theatre/rental-documents/" tabindex="-1">Rental Documents</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/get-involved/" tabindex="-1">Get Involved</a></li>
+<li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/history/" tabindex="-1">History</a></li>
+<li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/contact-us/" tabindex="-1">Contact Us</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/campus-community/bookstore/" tabindex="-1">Bookstore</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/campus-community/bookstore/buy-ebooks-online/" tabindex="-1">Buy eBooks Online</a></li>
+<li><a href="/student-life/campus-community/bookstore/privacy-consent-notice/" tabindex="-1">Privacy Consent Notice</a></li>
+
+</ul>
+
+</li>
+<li class="hide-nav-item"><a href="/student-life/campus-community/orientation/" tabindex="-1">Orientation</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/campus-community/orientation/new--returning-student-orientation/" tabindex="-1">New &amp; Returning Student Orientation</a></li>
+<li><a href="/student-life/campus-community/orientation/new-international-student-orientation/" tabindex="-1">New International Student Orientation</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/student-life/campus-community/orientation/new-international-student-orientation/attend-the-new-international-student-orientation/" tabindex="-1">Attend the New International Student Orientation</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/campus-community/orientation/full-schedule/" tabindex="-1">Full Schedule</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/student-life/campus-community/orientation/full-schedule/app/" tabindex="-1">App</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/campus-community/orientation/get-involved/" tabindex="-1">Get Involved</a></li>
+<li><a href="/student-life/campus-community/orientation/faq/" tabindex="-1">FAQ</a></li>
+
+</ul>
+
+</li>
+<li class="hide-nav-item"><a href="/student-life/campus-community/study--gathering-spaces/" tabindex="-1">Study &amp; Gathering Spaces</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/campus-community/study--gathering-spaces/meditation--silent-prayer-room/" tabindex="-1">Meditation &amp; Silent Prayer Room</a></li>
+
+</ul>
+
+</li>
+<li class="hide-nav-item"><a href="/student-life/campus-community/peers-helping-peers/" tabindex="-1">Peers Helping Peers</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/campus-community/peers-helping-peers/applying-to-be-a-peer-helper/" tabindex="-1">Applying to be a Peer Helper</a></li>
+<li><a href="/student-life/campus-community/peers-helping-peers/peers-helping-peers-programs/" tabindex="-1">Peers Helping Peers Programs</a></li>
+<li><a href="/student-life/campus-community/peers-helping-peers/international-leadership--mentorship-program/" tabindex="-1">International Leadership &amp; Mentorship Program</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/student-life/campus-community/peers-helping-peers/international-leadership--mentorship-program/become-a-mentor/" tabindex="-1">Become a Mentor</a></li>
+<li><a href="/student-life/campus-community/peers-helping-peers/international-leadership--mentorship-program/request-a-mentor/" tabindex="-1">Request a Mentor</a></li>
+<li><a href="/student-life/campus-community/peers-helping-peers/international-leadership--mentorship-program/mentor-roles-and-responsibilities/" tabindex="-1">Mentor Roles and Responsibilities</a></li>
+<li><a href="/student-life/campus-community/peers-helping-peers/international-leadership--mentorship-program/mentee-expectations/" tabindex="-1">Mentee Expectations</a></li>
+
+</ul>
+
+</li>
+
+</ul>
+
+</li>
+<li class="hide-nav-item"><a href="/student-life/campus-community/capilano-students-union/" tabindex="-1">Capilano Students' Union</a></li>
+<li class="hide-nav-item"><a href="/student-life/campus-community/sustainability/" tabindex="-1">Sustainability</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/campus-community/sustainability/get-involved/" tabindex="-1">Get Involved</a></li>
+<li><a href="/student-life/campus-community/sustainability/capu-works/" tabindex="-1">CapU Works</a></li>
+<li><a href="/student-life/campus-community/sustainability/zero-waste-work/" tabindex="-1">Zero Waste Work</a></li>
+<li><a href="/student-life/campus-community/sustainability/energy/" tabindex="-1">Energy</a></li>
+<li><a href="/student-life/campus-community/sustainability/transportation/" tabindex="-1">Transportation</a></li>
+<li><a href="/student-life/campus-community/sustainability/climate-change/" tabindex="-1">Climate Change</a></li>
+<li><a href="/student-life/campus-community/sustainability/faqs/" tabindex="-1">FAQs</a></li>
+<li><a href="/student-life/campus-community/sustainability/contact-us/" tabindex="-1">Contact Us</a></li>
+
+</ul>
+
+</li>
+<li class="hide-nav-item"><a href="/student-life/campus-community/chatlive/" tabindex="-1">ChatLive</a></li>
+<li class="hide-nav-item"><a href="/student-life/campus-community/earthworks/" tabindex="-1">EarthWorks</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/campus-community/earthworks/2018-earthworks-videos/" tabindex="-1">2018 EarthWorks Videos</a></li>
+
+</ul>
+
+</li>
+
+<a class="view-all" tabindex="-1" href="/student-life/campus-community/">View All</a></ul>
+
+</li>
+<li><a href="/student-life/support--wellness/" tabindex="-1">Support &amp; Wellness</a>
+<ul class="multilevel-linkul-1 large-nav">
+<li><a href="/student-life/support--wellness/health--counselling-services/" tabindex="-1">Health &amp; Counselling Services</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/support--wellness/health--counselling-services/learning-specialist-services/" tabindex="-1">Learning Specialist Services</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/student-life/support--wellness/health--counselling-services/learning-specialist-services/study-skills-handouts/" tabindex="-1">Study Skills Handouts</a></li>
+<li><a href="/student-life/support--wellness/health--counselling-services/learning-specialist-services/office-hours/" tabindex="-1">Office Hours</a></li>
+<li><a href="/student-life/support--wellness/health--counselling-services/learning-specialist-services/study-skills-videos/" tabindex="-1">Study Skills Videos</a></li>
+<li><a href="/student-life/support--wellness/health--counselling-services/learning-specialist-services/student-success-workshops/" tabindex="-1">Student Success Workshops</a></li>
+<li><a href="/student-life/support--wellness/health--counselling-services/learning-specialist-services/introduction-to-university-success-strategies/" tabindex="-1">Introduction to University Success Strategies</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/support--wellness/health--counselling-services/counselling-services/" tabindex="-1">Counselling Services</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/student-life/support--wellness/health--counselling-services/counselling-services/student-success-workshops--support/" tabindex="-1">Student Success Workshops &amp; Support</a></li>
+<li><a href="/student-life/support--wellness/health--counselling-services/counselling-services/resources-for-students/" tabindex="-1">Resources for Students</a></li>
+<li><a href="/student-life/support--wellness/health--counselling-services/counselling-services/resources-for-faculty-and-staff/" tabindex="-1">Resources for Faculty and Staff</a></li>
+<li><a href="/student-life/support--wellness/health--counselling-services/counselling-services/frequently-asked-questions/" tabindex="-1">Frequently Asked Questions</a></li>
+<li><a href="/student-life/support--wellness/health--counselling-services/counselling-services/office-hours--drop-in-schedule/" tabindex="-1">Office Hours &amp; Drop-In Schedule</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/support--wellness/health--counselling-services/conflict-resolution--harassment/" tabindex="-1">Conflict Resolution &amp; Harassment</a></li>
+<li><a href="/student-life/support--wellness/health--counselling-services/elder-in-residence-program/" tabindex="-1">Elder-in-Residence Program</a></li>
+<li><a href="/student-life/support--wellness/health--counselling-services/health-services/" tabindex="-1">Health Services</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/support--wellness/first-nations-student-services/" tabindex="-1">First Nations Student Services</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/support--wellness/first-nations-student-services/kexwusm-ayakn-student-centre/" tabindex="-1">Kéxwusm-áyakn Student Centre</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/support--wellness/sunshine-coast-student-services/" tabindex="-1">Sunshine Coast Student Services</a></li>
+<li><a href="/student-life/support--wellness/accessibility-services/" tabindex="-1">Accessibility Services</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/support--wellness/accessibility-services/examination-request-form/" tabindex="-1">Examination Request Form</a></li>
+<li><a href="/student-life/support--wellness/accessibility-services/accommodation-request-form/" tabindex="-1">Accommodation Request Form</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/support--wellness/childrens-centre/" tabindex="-1">Children's Centre</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/support--wellness/childrens-centre/waitlist-application-form/" tabindex="-1">Waitlist Application Form</a></li>
+
+</ul>
+
+</li>
+<li class="hide-nav-item"><a href="/student-life/support--wellness/safety--security/" tabindex="-1">Safety &amp; Security</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/support--wellness/safety--security/capu-safe-app/" tabindex="-1">CapU Safe App</a></li>
+<li><a href="/student-life/support--wellness/safety--security/report-an-incident/" tabindex="-1">Report an Incident</a></li>
+<li><a href="/student-life/support--wellness/safety--security/winter-weather-procedures/" tabindex="-1">Winter Weather Procedures</a></li>
+<li><a href="/student-life/support--wellness/safety--security/security-faqs/" tabindex="-1">Security FAQs</a></li>
+<li><a href="/student-life/support--wellness/safety--security/contact-us/" tabindex="-1">Contact Us</a></li>
+
+</ul>
+
+</li>
+<li class="hide-nav-item"><a href="/student-life/support--wellness/external-exam-invigilation/" tabindex="-1">External Exam Invigilation</a></li>
+<li class="hide-nav-item"><a href="/student-life/support--wellness/sexual-violence-and-misconduct/" tabindex="-1">Sexual Violence and Misconduct</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/support--wellness/sexual-violence-and-misconduct/consent-education/" tabindex="-1">Consent Education</a></li>
+<li><a href="/student-life/support--wellness/sexual-violence-and-misconduct/take-the-pledge/" tabindex="-1">Take the Pledge</a></li>
+<li><a href="/student-life/support--wellness/sexual-violence-and-misconduct/report-a-sexual-assault-incident/" tabindex="-1">Report a Sexual Assault Incident</a></li>
+<li><a href="/student-life/support--wellness/sexual-violence-and-misconduct/university-and-community-resources/" tabindex="-1">University and Community Resources</a></li>
+
+</ul>
+
+</li>
+<li class="hide-nav-item"><a href="/student-life/support--wellness/well-being/" tabindex="-1">Well-Being</a></li>
+
+<a class="view-all" tabindex="-1" href="/student-life/support--wellness/">View All</a></ul>
+
+</li>
+
+</ul>
+
+</li><li><a href="/about-capu/">About CapU</a>
+<ul class="multilevel-linkul-0"><span class="menu-title"><a href="/about-capu/" tabindex="-1">About CapU</a></span>
+<li><a href="/about-capu/get-to-know-us/" tabindex="-1">Get to Know Us</a>
+<ul class="multilevel-linkul-1 large-nav">
+<li><a href="/about-capu/get-to-know-us/our-campuses/" tabindex="-1">Our Campuses</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/about-capu/get-to-know-us/our-campuses/maps--directions/" tabindex="-1">Maps &amp; Directions</a></li>
+<li><a href="/about-capu/get-to-know-us/our-campuses/parking-car-pooling--transit/" tabindex="-1">Parking, Car Pooling &amp; Transit</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/about-capu/get-to-know-us/our-campuses/parking-car-pooling--transit/permit-prices/" tabindex="-1">Permit Prices</a></li>
+<li><a href="/about-capu/get-to-know-us/our-campuses/parking-car-pooling--transit/purchasing-your-permit/" tabindex="-1">Purchasing Your Permit</a></li>
+<li><a href="/about-capu/get-to-know-us/our-campuses/parking-car-pooling--transit/parking-services-office/" tabindex="-1">Parking Services Office</a></li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/get-to-know-us/our-campuses/building-floor-plans/" tabindex="-1">Building Floor Plans</a></li>
+<li><a href="/about-capu/get-to-know-us/our-campuses/room-booking--facilities-rental/" tabindex="-1">Room Booking &amp; Facilities Rental</a></li>
+<li><a href="https://capu50.capilanou.ca/whats-happening/capfest/" target="_blank" tabindex="-1">CapFest</a></li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/get-to-know-us/our-history/" tabindex="-1">Our History</a></li>
+<li><a href="/about-capu/get-to-know-us/our-brand/" tabindex="-1">Our Brand</a></li>
+<li><a href="/about-capu/get-to-know-us/news/" tabindex="-1">News</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/about-capu/get-to-know-us/news/2018/" tabindex="-1">2018</a></li>
+<li><a href="/about-capu/get-to-know-us/news/2017/" tabindex="-1">2017</a></li>
+<li><a href="/about-capu/get-to-know-us/news/2016/" tabindex="-1">2016</a></li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/get-to-know-us/events/" tabindex="-1">Events</a></li>
+<li class="hide-nav-item"><a href="/about-capu/get-to-know-us/media-releases/" tabindex="-1">Media Releases</a></li>
+<li class="hide-nav-item"><a href="/about-capu/get-to-know-us/research/" tabindex="-1">Research</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/about-capu/get-to-know-us/research/research-ethics-board/" tabindex="-1">Research Ethics Board</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/about-capu/get-to-know-us/research/research-ethics-board/when-is-ethical-review-required/" tabindex="-1">When is Ethical Review Required?</a></li>
+<li><a href="/about-capu/get-to-know-us/research/research-ethics-board/student-research/" tabindex="-1">Student Research</a></li>
+<li><a href="/about-capu/get-to-know-us/research/research-ethics-board/application/" tabindex="-1">Application</a></li>
+<li><a href="/about-capu/get-to-know-us/research/research-ethics-board/reb-members/" tabindex="-1">REB Members</a></li>
+
+</ul>
+
+</li>
+
+</ul>
+
+</li>
+
+<a class="view-all" tabindex="-1" href="/about-capu/get-to-know-us/">View All</a></ul>
+
+</li>
+<li><a href="/about-capu/connect-with-capu/" tabindex="-1">Connect with CapU</a>
+<ul class="multilevel-linkul-1 large-nav">
+<li><a href="/about-capu/connect-with-capu/alumni/" tabindex="-1">Alumni</a>
+<ul class="multilevel-linkul-2">
+<li><a href="https://alumnicapilanou.ca" target="_blank" tabindex="-1">CapU Connect</a></li>
+<li><a href="/about-capu/connect-with-capu/alumni/get-involved/" tabindex="-1">Get Involved</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/about-capu/connect-with-capu/alumni/get-involved/cuaa-board-of-directors/" tabindex="-1">CUAA Board of Directors</a></li>
+<li><a href="/about-capu/connect-with-capu/alumni/get-involved/cuaa-committees/" tabindex="-1">CUAA Committees</a></li>
+<li><a href="/about-capu/connect-with-capu/alumni/get-involved/alumni-representative-to-the-senate/" tabindex="-1">Alumni Representative to the Senate</a></li>
+<li><a href="/about-capu/connect-with-capu/alumni/get-involved/alumni-representative-to-the-board-of-governors/" tabindex="-1">Alumni Representative to the Board of Governors</a></li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/connect-with-capu/alumni/2018-annual-general-meeting/" tabindex="-1">2018 Annual General Meeting</a></li>
+<li><a href="/about-capu/connect-with-capu/alumni/alumni-homecoming-at-capfest/" tabindex="-1">Alumni Homecoming at CapFest</a></li>
+<li><a href="/about-capu/connect-with-capu/alumni/2018-alumni-awards-of-excellence/" tabindex="-1">2018 Alumni Awards of Excellence</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/about-capu/connect-with-capu/alumni/2018-alumni-awards-of-excellence/jullian-kolstee-luminous-award/" tabindex="-1">Jullian Kolstee, Luminous Award</a></li>
+<li><a href="/about-capu/connect-with-capu/alumni/2018-alumni-awards-of-excellence/amina-el-mantari-unified-award/" tabindex="-1">Amina El Mantari, Unified Award</a></li>
+<li><a href="/about-capu/connect-with-capu/alumni/2018-alumni-awards-of-excellence/petie-chalifoux-enduring-award/" tabindex="-1">Petie Chalifoux, Enduring Award</a></li>
+<li><a href="/about-capu/connect-with-capu/alumni/2018-alumni-awards-of-excellence/kaya-dorey-confident-award/" tabindex="-1">Kaya Dorey, Confident Award</a></li>
+<li><a href="/about-capu/connect-with-capu/alumni/2018-alumni-awards-of-excellence/randy-celebrini-creative-award/" tabindex="-1">Randy Celebrini, Creative Award</a></li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/connect-with-capu/alumni/chapters/" tabindex="-1">Chapters</a></li>
+<li><a href="/about-capu/connect-with-capu/alumni/benefits/" tabindex="-1">Benefits</a></li>
+<li><a href="/about-capu/connect-with-capu/alumni/official-transcripts/" tabindex="-1">Official Transcripts</a></li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/connect-with-capu/support-capu/" tabindex="-1">Support CapU</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/about-capu/connect-with-capu/support-capu/capu-funding-priorities/" tabindex="-1">CapU Funding Priorities</a></li>
+<li><a href="/about-capu/connect-with-capu/support-capu/impact-of-giving/" tabindex="-1">Impact of Giving</a></li>
+<li><a href="/about-capu/connect-with-capu/support-capu/ways-to-give/" tabindex="-1">Ways to Give</a></li>
+<li><a href="/about-capu/connect-with-capu/support-capu/our-donors/" tabindex="-1">Our Donors</a></li>
+<li><a href="/about-capu/connect-with-capu/support-capu/thank-you-to-our-donors/" tabindex="-1">Thank You to Our Donors</a></li>
+<li><a href="/about-capu/connect-with-capu/support-capu/donor-events/" tabindex="-1">Donor Events</a></li>
+<li><a href="/about-capu/connect-with-capu/support-capu/recap-foundation-newsletter/" tabindex="-1">ReCap Foundation Newsletter</a></li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/connect-with-capu/supplier-information/" tabindex="-1">Supplier Information</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/about-capu/connect-with-capu/supplier-information/deliveries/" tabindex="-1">Deliveries</a></li>
+<li><a href="/about-capu/connect-with-capu/supplier-information/doing-business-with-capilano-university/" tabindex="-1">Doing Business with Capilano University</a></li>
+<li><a href="/about-capu/connect-with-capu/supplier-information/payment/" tabindex="-1">Payment</a></li>
+<li><a href="/about-capu/connect-with-capu/supplier-information/supplier-visits/" tabindex="-1">Supplier Visits</a></li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/connect-with-capu/employment/" tabindex="-1">Employment</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/about-capu/connect-with-capu/employment/human-resources/" tabindex="-1">Human Resources</a></li>
+<li><a href="/about-capu/connect-with-capu/employment/employee-stories/" tabindex="-1">Employee Stories</a></li>
+<li><a href="/about-capu/connect-with-capu/employment/current-opportunities/" tabindex="-1">Current Opportunities</a></li>
+<li><a href="/about-capu/connect-with-capu/employment/who-we-are/" tabindex="-1">Who We Are</a></li>
+<li><a href="/about-capu/connect-with-capu/employment/what-we-do/" tabindex="-1">What We Do</a></li>
+<li><a href="/about-capu/connect-with-capu/employment/where-we-are/" tabindex="-1">Where We Are</a></li>
+<li><a href="/about-capu/connect-with-capu/employment/why-work-here/" tabindex="-1">Why Work Here</a></li>
+<li><a href="/about-capu/connect-with-capu/employment/how-to-apply-/" tabindex="-1">How To Apply </a></li>
+<li><a href="/about-capu/connect-with-capu/employment/faqs/" tabindex="-1">FAQs</a></li>
+<li><a href="/about-capu/connect-with-capu/employment/testing/" tabindex="-1">Testing</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/about-capu/connect-with-capu/employment/testing/microsoft-access-2016-testing-criteria/" tabindex="-1">Microsoft Access 2016 Testing Criteria</a></li>
+<li><a href="/about-capu/connect-with-capu/employment/testing/microsoft-excel-2016-testing-criteria/" tabindex="-1">Microsoft Excel 2016 Testing Criteria</a></li>
+<li><a href="/about-capu/connect-with-capu/employment/testing/microsoft-word-2016-testing-criteria/" tabindex="-1">Microsoft Word 2016 Testing Criteria</a></li>
+
+</ul>
+
+</li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/connect-with-capu/contact-us/" tabindex="-1">Contact Us</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/about-capu/connect-with-capu/contact-us/campus-directory/" tabindex="-1">Campus Directory</a></li>
+<li><a href="/about-capu/connect-with-capu/contact-us/give-us-your-feeback/" tabindex="-1">Give Us Your Feeback</a></li>
+
+</ul>
+
+</li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/governance/" tabindex="-1">Governance</a>
+<ul class="multilevel-linkul-1 large-nav">
+<li><a href="/about-capu/governance/presidents-office/" tabindex="-1">President's Office</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/about-capu/governance/presidents-office/administration/" tabindex="-1">Administration</a></li>
+<li><a href="/about-capu/governance/presidents-office/our-team/" tabindex="-1">Our Team</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/about-capu/governance/presidents-office/our-team/paul-dangerfield/" tabindex="-1">Paul Dangerfield</a></li>
+<li><a href="/about-capu/governance/presidents-office/our-team/toran-savjord/" tabindex="-1">Toran Savjord</a></li>
+<li><a href="/about-capu/governance/presidents-office/our-team/laureen-styles/" tabindex="-1">Laureen Styles</a></li>
+<li><a href="/about-capu/governance/presidents-office/our-team/jacqui-stewart/" tabindex="-1">Jacqui Stewart</a></li>
+<li><a href="/about-capu/governance/presidents-office/our-team/irene-chanin/" tabindex="-1">Irene Chanin</a></li>
+<li><a href="/about-capu/governance/presidents-office/our-team/cyndi-banks/" tabindex="-1">Cyndi Banks</a></li>
+<li><a href="/about-capu/governance/presidents-office/our-team/chris-bottrill/" tabindex="-1">Chris Bottrill</a></li>
+<li><a href="/about-capu/governance/presidents-office/our-team/ted-gervan/" tabindex="-1">Ted Gervan</a></li>
+<li><a href="/about-capu/governance/presidents-office/our-team/aurelea-mahood/" tabindex="-1">Aurelea Mahood</a></li>
+<li><a href="/about-capu/governance/presidents-office/our-team/brad-martin/" tabindex="-1">Brad Martin</a></li>
+<li><a href="/about-capu/governance/presidents-office/our-team/jennifer-moore/" tabindex="-1">Jennifer Moore</a></li>
+<li><a href="/about-capu/governance/presidents-office/our-team/halia-valladares-montemayor/" tabindex="-1">Halia Valladares Montemayor</a></li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/governance/presidents-office/presidents-installation/" tabindex="-1">President's Installation</a></li>
+<li><a href="/about-capu/governance/presidents-office/reports--initiatives/" tabindex="-1">Reports &amp; Initiatives</a></li>
+<li><a href="/about-capu/governance/presidents-office/history-of-the-office/" tabindex="-1">History of the Office</a></li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/governance/board-of-governors/" tabindex="-1">Board of Governors</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/" tabindex="-1">Members of the Board</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/mr-duncan-brown/" tabindex="-1">Mr. Duncan Brown</a></li>
+<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/mr-paul-dangerfield/" tabindex="-1">Mr. Paul Dangerfield</a></li>
+<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/mr-christopher-b-doll/" tabindex="-1">Mr. Christopher B. Doll</a></li>
+<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/dr-michael-fleming/" tabindex="-1">Dr. Michael Fleming</a></li>
+<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/dr-david-t-fung/" tabindex="-1">Dr. David T. Fung</a></li>
+<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/ms-emily-gaudette/" tabindex="-1">Ms. Emily Gaudette</a></li>
+<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/mr-cherian-itty/" tabindex="-1">Mr. Cherian Itty</a></li>
+<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/mr-soon-kim/" tabindex="-1">Mr. Soon Kim</a></li>
+<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/ms-mila-mattson/" tabindex="-1">Ms. Mila Mattson</a></li>
+<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/dr-aurelea-mahood/" tabindex="-1">Dr. Aurelea Mahood</a></li>
+<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/mr-hassan-merali/" tabindex="-1">Mr. Hassan Merali</a></li>
+<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/ms-cheryl-nex/" tabindex="-1">Ms. Cheryl Nex</a></li>
+<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/mr-andrew-petrozzi/" tabindex="-1">Mr. Andrew Petrozzi</a></li>
+<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/ms-carleen-thomas/" tabindex="-1">Ms. Carleen Thomas</a></li>
+<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/ms-jessie-williams/" tabindex="-1">Ms. Jessie Williams</a></li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/governance/board-of-governors/agendas--minutes/" tabindex="-1">Agendas &amp; Minutes</a></li>
+<li><a href="/about-capu/governance/board-of-governors/board-policies/" tabindex="-1">Board Policies</a></li>
+<li><a href="/about-capu/governance/board-of-governors/schedule-of-board-meetings/" tabindex="-1">Schedule of Board Meetings</a></li>
+<li><a href="/about-capu/governance/board-of-governors/board-of-governors-elections/" tabindex="-1">Board of Governors Elections</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/about-capu/governance/board-of-governors/board-of-governors-elections/elections-result/" tabindex="-1">Elections Result</a></li>
+
+</ul>
+
+</li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/governance/senate/" tabindex="-1">Senate</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/about-capu/governance/senate/senate-schedule/" tabindex="-1">Senate Schedule</a></li>
+<li><a href="/about-capu/governance/senate/by-laws--membership-list/" tabindex="-1">By-laws &amp; Membership List</a></li>
+<li><a href="/about-capu/governance/senate/senate-policies--procedures/" tabindex="-1">Senate Policies &amp; Procedures</a></li>
+<li><a href="/about-capu/governance/senate/agendas--minutes/" tabindex="-1">Agendas &amp; Minutes</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/about-capu/governance/senate/agendas--minutes/archive/" tabindex="-1">Archive</a></li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/governance/senate/resolutions/" tabindex="-1">Resolutions</a></li>
+<li><a href="/about-capu/governance/senate/faculty-terms-of-reference/" tabindex="-1">Faculty Terms of Reference</a></li>
+<li><a href="/about-capu/governance/senate/honorary-degrees/" tabindex="-1">Honorary Degrees</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/about-capu/governance/senate/honorary-degrees/2017-recipients/" tabindex="-1">2017 Recipients</a></li>
+<li><a href="/about-capu/governance/senate/honorary-degrees/2016-recipients/" tabindex="-1">2016 Recipients</a></li>
+<li><a href="/about-capu/governance/senate/honorary-degrees/2015-recipients/" tabindex="-1">2015 Recipients</a></li>
+<li><a href="/about-capu/governance/senate/honorary-degrees/2014-recipients/" tabindex="-1">2014 Recipients</a></li>
+<li><a href="/about-capu/governance/senate/honorary-degrees/2013-recipients/" tabindex="-1">2013 Recipients</a></li>
+<li><a href="/about-capu/governance/senate/honorary-degrees/previous-years/" tabindex="-1">Previous Years</a></li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/governance/senate/administrator-emeritus/" tabindex="-1">Administrator Emeritus</a></li>
+<li><a href="/about-capu/governance/senate/faculty-emeritus/" tabindex="-1">Faculty Emeritus</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/about-capu/governance/senate/faculty-emeritus/2016/" tabindex="-1">2016</a></li>
+<li><a href="/about-capu/governance/senate/faculty-emeritus/2015/" tabindex="-1">2015</a></li>
+<li><a href="/about-capu/governance/senate/faculty-emeritus/2014/" tabindex="-1">2014</a></li>
+<li><a href="/about-capu/governance/senate/faculty-emeritus/2013/" tabindex="-1">2013</a></li>
+<li><a href="/about-capu/governance/senate/faculty-emeritus/2012/" tabindex="-1">2012</a></li>
+<li><a href="/about-capu/governance/senate/faculty-emeritus/2011/" tabindex="-1">2011</a></li>
+<li><a href="/about-capu/governance/senate/faculty-emeritus/years-prior-to-2011/" tabindex="-1">Years prior to 2011</a></li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/governance/senate/senate-elections/" tabindex="-1">Senate Elections</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/about-capu/governance/senate/senate-elections/election-results/" tabindex="-1">Election Results</a></li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/governance/senate/sub-committees/" tabindex="-1">Sub-committees</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/about-capu/governance/senate/sub-committees/academic-planning--program-review-committee/" tabindex="-1">Academic Planning &amp; Program Review Committee</a></li>
+<li><a href="/about-capu/governance/senate/sub-committees/by-law-policy--procedure-committee/" tabindex="-1">By-law, Policy &amp; Procedure Committee</a></li>
+<li><a href="/about-capu/governance/senate/sub-committees/budget-advisory-committee/" tabindex="-1">Budget Advisory Committee</a></li>
+<li><a href="/about-capu/governance/senate/sub-committees/curriculum-committee/" tabindex="-1">Curriculum Committee</a></li>
+<li><a href="/about-capu/governance/senate/sub-committees/instructional-technologies/" tabindex="-1">Instructional Technologies</a></li>
+<li><a href="/about-capu/governance/senate/sub-committees/naming-opportunities-committee/" tabindex="-1">Naming Opportunities Committee</a></li>
+<li><a href="/about-capu/governance/senate/sub-committees/nominating-committee/" tabindex="-1">Nominating Committee</a></li>
+<li><a href="/about-capu/governance/senate/sub-committees/self-evaluation-committee/" tabindex="-1">Self-Evaluation Committee</a></li>
+<li><a href="/about-capu/governance/senate/sub-committees/tributes-committee/" tabindex="-1">Tributes Committee</a></li>
+
+</ul>
+
+</li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/governance/chancellor/" tabindex="-1">Chancellor</a></li>
+<li><a href="/about-capu/governance/policies/" tabindex="-1">Policies</a></li>
+<li class="hide-nav-item"><a href="/about-capu/governance/budget-plans--reports/" tabindex="-1">Budget, Plans &amp; Reports</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/about-capu/governance/budget-plans--reports/aboriginal-service-plan--reports/" tabindex="-1">Aboriginal Service Plan &amp; Reports</a></li>
+<li><a href="/about-capu/governance/budget-plans--reports/academic--strategic-plan/" tabindex="-1">Academic &amp; Strategic Plan</a></li>
+<li><a href="/about-capu/governance/budget-plans--reports/budget/" tabindex="-1">Budget</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/about-capu/governance/budget-plans--reports/budget/resources/" tabindex="-1">Resources</a></li>
+<li><a href="/about-capu/governance/budget-plans--reports/budget/archives/" tabindex="-1">Archives</a></li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/governance/budget-plans--reports/financial-reports/" tabindex="-1">Financial Reports</a></li>
+<li><a href="/about-capu/governance/budget-plans--reports/instructional-accountability-plan--report/" tabindex="-1">Instructional Accountability Plan &amp; Report</a></li>
+<li><a href="/about-capu/governance/budget-plans--reports/student-enrolment-statistics/" tabindex="-1">Student Enrolment Statistics</a></li>
+
+</ul>
+
+</li>
+<li class="hide-nav-item"><a href="/about-capu/governance/accreditation/" tabindex="-1">Accreditation</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/about-capu/governance/accreditation/accreditation-faqs/" tabindex="-1">Accreditation FAQs</a></li>
+<li><a href="/about-capu/governance/accreditation/accreditation-reports/" tabindex="-1">Accreditation Reports</a></li>
+<li><a href="/about-capu/governance/accreditation/core-themes/" tabindex="-1">Core Themes</a></li>
+<li><a href="/about-capu/governance/accreditation/nwccu-reporting-schedule/" tabindex="-1">NWCCU Reporting Schedule</a></li>
+<li><a href="/about-capu/governance/accreditation/education-quality-assurance-designation/" tabindex="-1">Education Quality Assurance Designation</a></li>
+
+</ul>
+
+</li>
+
+<a class="view-all" tabindex="-1" href="/about-capu/governance/">View All</a></ul>
+
+</li>
+
+</ul>
+
+</li></ul>
+      </nav><!--.primary-nav-->
+      <div id="small-screen-nav-link"><!-- Appears in smaller screens to activate the search and mobile navigation -->
+        <button class="site-search-toggle" aria-label="Search website">
+          <!-- This svg icon must be inline so that we can use CSS to change its color in different states -->
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+            <g>
+              <path style="fill-rule:evenodd;clip-rule:evenodd;" d="M15.707,14.293l-3.112-3.092c-0.002-0.002-0.004-0.002-0.006-0.004
+              C13.471,10.025,14,8.575,14,7c0-3.859-3.141-7-7-7S0,3.141,0,7s3.141,7,7,7c1.575,0,3.025-0.529,4.196-1.41
+              c0.002,0.002,0.002,0.004,0.004,0.006l3.093,3.111C14.488,15.902,14.744,16,15,16s0.512-0.098,0.707-0.293
+              C16.098,15.316,16.098,14.684,15.707,14.293z M7,12c-2.757,0-5-2.243-5-5s2.243-5,5-5s5,2.243,5,5S9.757,12,7,12z"></path>
+            </g>
+          </svg>
+          <span class="button-text">Search</span>
+        </button>
+        <button id="site-nav-toggle" aria-hidden="true">
+          <!--Hamburger icon is not an svg - it's rendered and animated with CSS transitions -->
+          <span id="icon-hamburger">
+            <span></span>
+            <span></span>
+            <span></span>
+          </span><!--#icon-hamburger-->
+          <span class="button-text">Menu</span>
+        </button>
+      </div><!--#small-screen-nav-link-->
+    </div><!--.container-->
+  </header>
+  
+  <div id="small-screen-search"></div><!-- search is added to this in small to medium screen sizes by the JS -->
+  <div id="small-screen-nav"></div><!-- Primary and utility navigations are added here in small to medium screen sizes by the JS -->
+  
+  <div id="content-push"><!--This is used to animate the content push to reveal navigation in small and medium screens -->
+    <div id="main"><!-- #main content area and anchor reference for screen reader .skip-text -->
+      
+  
+      
+      <!-- Featured image functionlity: 
+        The featured image is inherited from a parent page.
+          - If a feature image is selected from an L1 or L2 landing page, then that page, and all of it's children, should have the same featured image.
+          - Content administrators should be able to override a featured image at any given level, so that the overridden page, and all of it's children will display the new, override image. 
+          - Admins should also have the ability to override the singular pages, meaning all of the overriden page's children should display the original image.
+          - Note that "no image" should also be an optional override, in which case .featured-image is NOT rendered in the DOM.   
+      -->
+      <!-- NOTE: This page is an example of a basic page with NO featured image -->
+      <!--<div class="featured-image-wrap" data-scroll-speed="-5">
+        <div class="featured-image featured-image-large" style="background-image:url(images/hero-content.jpg); background-size:cover;"></div>
+      </div>--><!--.featured-image-wrap-->
+      
+      
+       <!--.featured-image-wrap-->
+      <div class="featured-image-wrap" data-scroll-speed="-5" style="transform: translateY(0px);">
+        
+        <!-- NEW PICTURE MARKUP -->
+       
+        
+      </div>
+      
+      
+      <div id="title-area">
+        <div class="container">
+          <nav id="breadcrumb">
+            <ul>
+              <li>
+                <a href="/">
+                <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" height="18px" width="16px" viewBox="0 0 18 16">
+                  <path data-name="path0 fill" d="M14,4.8V1.3a.49.49,0,0,0-.49-.5h-1a.5.5,0,0,0-.5.5V2.8L9.38.15a.5.5,0,0,0-.71,0L.13,8.44c-.2.2-.13.35.15.35H2v6.5a.49.49,0,0,0,.49.5h4a.5.5,0,0,0,.5-.5v-4a.5.5,0,0,1,.5-.5h3a.5.5,0,0,1,.5.5v4a.5.5,0,0,0,.5.5h4a.49.49,0,0,0,.49-.5V8.8h1.73c.28,0,.34-.16.14-.35Z"></path>
+                </svg>Home
+                </a>
+              </li>
+              <li><a href="/privacy-statement/">Privacy Statement</a></li>
+            </ul>
+          </nav><!--#breadcrumb-->
+          <h1 id="page-title">Privacy Statement</h1><!-- Course name and code is pulled from banner -->
+          
+          <!--<p class="page-description">A brief overview and summary of this page. This page description should be especially short since the focus for the user is on the content below.</p>-->
+          
+        </div><!--.container-->
+      </div> 
+     
+      
+      <div id="content-area">
+        <div class="container">
+          <div class="main-content">
             
-            <!-- main content -->
-            <div id="main-content"> 
-                <div id="breadcrumb"> 
-                    <a target="_self" href="/Home.aspx" title="">Capilano University</a> &gt; <a target="_self" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=4872" title="">Current Students</a> &gt; <a target="_self" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=5258" title="">Policies &amp; Procedures</a>               
-                </div>  
-              
-                <h1 id="content_title"><span id="ctl00_cph_lblTitle" style="display:inline-block;width:100px;">Privacy Statement</span></h1>    
-                <div class="clear"></div> 
-                <div id="column-zone-1">        
+
+            
+            
+        <div class="wysiwyg"><a id="d.en.30271"></a> 
+  <h2>Introduction and purpose</h2>
+  <p>Capilano University (the “University”) is committed to protecting the privacy and confidentiality of personal information.&nbsp; All personal information that is collected by the University, whether through this website (<a href="/">www.capilanou.ca</a>) or by other means, is managed according to the BC <a title="Freedom of Information and Protection of Privacy Act" href="http://www.bclaws.ca/Recon/document/ID/freeside/96165_00" target="_blank">Freedom of Information and Protection of Privacy Act</a>&nbsp;(“FIPPA”) and applicable University policies.</p>
+<p>The purpose of this privacy statement is to disclose how personal information may be collected and used through this website.</p>
+<h2>Scope</h2>
+<p>This privacy statement describes the privacy practices for <a title="www.capilanou.ca" href="http://www.capilanou.ca">www.capilanou.ca</a> and all microsites based on this domain. The statement applies solely to information collected by these websites.</p>
+<h2>Collection and use</h2>
+<p>“Personal Information” is recorded information about an identifiable individual, such as an individual’s name, address, birth date, email address and phone number. This website does not automatically gather personal information from you. This information is only obtained if you provide it voluntarily.</p>
+<h3>Information provided voluntarily in email and web forms</h3>
+<p>Some personal information, including but not limited to name and email address, may be provided voluntarily by users of University websites to request services such as newsletter sign up, image download, online surveys, and other similar services.</p>
+<p>Personal information provided voluntarily in an email or by filling out a form will not be used or disclosed to anyone except University personnel who need the information for legitimate business purposes such as responding to a message or request.</p>
+<h3>Information collected automatically</h3>
+<p>When you visit our website, the web server automatically collects a small amount of information to facilitate the operation and security of our website. Some of the information collected does not identify who you are. Other information, such as your domain name or Internet Protocol (“IP”) address, may identify you depending on the naming standards followed by your internet service provider. If this concerns you, you may wish to ask them about their policies and practices.</p>
+<p>While we make no attempt to link the information captured to the identity of individuals, the information collected automatically may include the following:</p>
+<ul>
+<li>The IP Address and domain name used for the computer accessing the website;</li>
+<li>The type of browser and operating system;</li>
+<li>The type of device (e.g. iPhone, Android, mobile or tablet);</li>
+<li>The date and time of the visit; and</li>
+<li>The web pages or services accessed.</li>
+</ul>
+<p>Information collected automatically is maintained in a secure environment.&nbsp; Summary reports will be used by the University for purposes such as assessing system performance, monitoring traffic patterns, improving web services, and website management.&nbsp; We do not track or record information about specific individuals and their visits.</p>
+<h2>Disclosure</h2>
+<p>Where personal information is collected by the University, the information will be collected in compliance with FIPPA and will adhere to University policies. We do not sell, trade or disclose any of your personal information to third parties without your consent or legal authority. We will not disclose your personal information for any purpose other than the purpose for which it was collected without your prior written consent unless the disclosure is permitted under FIPPA or other applicable legislation.</p>
+<h2><strong>Cookies</strong></h2>
+<p>A “cookie” is a small file that a website creates when you visit the site.&nbsp; It can track and store information about you such as how and when you use a site and which site you visited immediately before.&nbsp; Cookies cannot be used to run programs or deliver viruses to your computer.&nbsp; Our website may use session cookies which are stored in temporary memory and are not retained after you sign out or close the browser session.</p>
+<p>If you are concerned about the use of cookies, you can refer to the help information in your browser software for information on how to disable cookies. If you wish to delete cookies from your machine, consult your browser’s help files for instructions on how to do so.</p>
+<h2>Google Analytics</h2>
+<p>In order to improve website performance and user experience, our website uses Google Analytics. All data collected by Google Analytics remains anonymous and non-personally identifiable. We will never merge this data with personal information, nor use the data for any purpose other than to analyze usage of the website.</p>
+<p>The University reserves the right to grant access to our Google Analytics implementation to our contracted third-party consultants for the purpose of streamlining our web analytics processes.&nbsp;Google Analytics may store information outside of Canada where it may not receive the same privacy protection it receives in Canada. Summary reports will be used to improve usability on our sites and to help support the online needs of visitors. You may opt-out of Google Analytics data collection at any time by using one of the available opt-outs for the web. For more information about Google Analytics security and privacy, please see <a title="Google Analytics Solutions" href="https://www.google.com/analytics/analytics/#?modal_active=none" target="_blank">Google Analytics Solutions</a>.</p>
+<h2>Links to third&nbsp;party sites</h2>
+<p>University websites contain links to other sites and we provide these links as a referent to help you identify and locate other Internet resources that you may find of interest.&nbsp; While the University endeavors to link to other sites that have similarly high standards and respect for privacy, we are not responsible for the privacy practices or the content of other websites.</p>
+<h2>Access to information</h2>
+<p>You have the right of access to and a right to request correction of your own personal information. You may email us at <a title="privacy@capilanou.ca" href="mailto:privacy@capilanou.ca">privacy@capilanou.ca</a> to:</p>
+<ul>
+<li>See what personal information has been collected about you, if any;</li>
+<li>Change/correct any personal information we have about you;</li>
+<li>Have us delete any personal information we have about you; and/or</li>
+<li>Express any concern you have about our use of your personal information.</li>
+</ul>
+<h2>Security</h2>
+<p>Our password protocols and encryption software are routinely updated to maximize protection of personal and other information.&nbsp; While we strive to protect personal information, please note that no Internet data transmission is completely secure.</p>
+<h2>More information</h2>
+<p>Questions or concerns regarding our management of this privacy statement may be directed to the <a href="mailto:privacy@capilanou.ca">Privacy Office</a>.</p>
+</div>
+  </div><!--.main-content-->
+          <!-- Note: the sidebar is only visible on larger screens -->
+					<!-- Call to action button in the sidebar is optionalin a content type -->
+          <div id="sidebar">
+             <ul class="sidebar-nav">
+							<li><span class="currentbranch"></span>
+									
+							</li>
+						</ul>
                 
-        <div id="ctl00_cph_dzMainContent_uxUpdatePanel" class="">
-	
-                <div id="ctl00_cph_dzMainContent_uxDropZone" data-ux-pagebuilder="DropZone">
-                    
-                            <div data-ux-pagebuilder="Column" style="width:100%">
-                                
-                                <ul>
-                                    
-                                            <li>
-                                                
-        <div id="ctl00_cph_dzMainContent_uxColumnDisplay_ctl00_uxControlColumn_ctl00_uxWidgetHost_uxUpdatePanel">
-		
-                <div data-ux-pagebuilder="Widget">
-                    
-                    <div class="widgetBody">
-                        
-        <div id="ctl00_cph_dzMainContent_uxColumnDisplay_ctl00_uxControlColumn_ctl00_uxWidgetHost_uxWidgetHost_widget_CB">
-			<p>On some parts of our website you have the option to send us information about yourself that we may need for correspondence or for use in a survey. If you choose to provide us with this information, you consent to its collection and use by the University. Capilano University will not intentionally distribute this information outside of the University. You understand that information transmitted over public networks may be accessed by third parties, and Capilano University will not be liable for any such unauthorized disclosure.</p>
-<p>The CapU webpages may contain links to other sites. We are not responsible for the content and the privacy practices of other websites and encourage you to examine each site's privacy policy and disclaimers and make your own decisions regarding the accuracy, reliability and correctness of material and information found.</p>
-		</div>
-        
-        <span id="ctl00_cph_dzMainContent_uxColumnDisplay_ctl00_uxControlColumn_ctl00_uxWidgetHost_uxWidgetHost_widget_errorLb"></span>
+          </div><!--#sidebar-->
+				</div>
+       </div><!--.container-->
+    </div><!--#content-area-->
+	</div><!--#main-->
+		<!--Contact Information-->
     
-
-                    </div>
-                </div>
-            
-	</div>
+         
     
-                                            </li>
-                                        
-                                </ul>
-                            </div>
-                        
-                </div>
-            
-</div>
+        <footer id="footer">
+      <div class="container">
+        <div id="footer-address">
+          <h2 id="footer-logo"><a href="#">Capilano University</a></h2>
+          <div class="cap-address">
+            <h3>North Shore Campus<br>Capilano University</h3>
+            <p>2055 Purcell Way<br> North Vancouver, BC<br> V7J 3H5</p>
+          </div>
+          <div class="cap-address">
+            <h3><span class="underline">k</span>ála<span class="underline">x</span>-ay Sunshine Coast Campus<br>Capilano University</h3>
+            <p>5627 Inlet Avenue<br> Sechelt, BC<br> V0N 3A0</p>
+          </div>
+        </div><!--#cap-address-->
+        <div id="footer-links">
+          <ul>
+<li><a href="/programs--courses/get-started/visit-capu/">Visit Capilano University</a></li>
+<li><a href="/about-capu/connect-with-capu/contact-us/">Contact Us</a></li>
+<li><a href="/about-capu/get-to-know-us/our-campuses/maps--directions/">Maps &amp; Directions</a></li>
+<li><a href="/programs--courses/search--select/explore-our-areas-of-study/subscribe-to-newsletters/">Subscribe to Newsletters</a></li>
+</ul>
+<ul>
+<li><a href="/mycapu/">myCapU</a></li>
+<li><a href="/student-life/support--wellness/safety--security/">Safety &amp; Security</a></li>
+<li><a href="/about-capu/connect-with-capu/employment/">Employment</a></li>
+<li><a title="Library" href="https://library.capilanou.ca/">Library</a></li>
+</ul>
+        </div><!--#footer-links-->
+        <div id="footer-social">
+          <div id="icon-facebook">
+            <a href="http://www.facebook.com/capilanou" aria-label="facebook" target="_blank">
+              <svg width="40px" height="40px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g stroke="none" stroke-width="1" fill-rule="evenodd">
+                  <g>
+                    <path d="M25,50 C11.1928806,50 0,38.8071194 0,25 C0,11.1928806 11.1928806,0 25,0 C38.8071194,0 50,11.1928806 50,25 C50,38.8071194 38.8071194,50 25,50 Z M25,47 C37.1502651,47 47,37.1502651 47,25 C47,12.8497349 37.1502651,3 25,3 C12.8497349,3 3,12.8497349 3,25 C3,37.1502651 12.8497349,47 25,47 Z M26.8145197,36 L21.9368678,36 L21.9368678,24.9991413 L19.5,24.9991413 L19.5,21.2080366 L21.9368678,21.2080366 L21.9368678,18.9318709 C21.9368678,15.8390937 23.3128757,14 27.2222769,14 L30.4769629,14 L30.4769629,17.7915341 L28.4425538,17.7915341 C26.9207209,17.7915341 26.8200486,18.3213442 26.8200486,19.3101227 L26.8145197,21.2076072 L30.5,21.2076072 L30.0687449,24.998712 L26.8145197,24.998712 L26.8145197,36 Z"></path>
+                  </g>
+                </g>
+              </svg>
+            </a>
+          </div>
+          <div id="icon-twitter">
+            <a href="http://www.twitter.com/capilanou" aria-label="twitter" target="_blank">
+              <svg width="40px" height="40px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g stroke="none" stroke-width="1" fill-rule="evenodd">
+                  <g>
+                    <path d="M25,50 C11.1928806,50 0,38.8071194 0,25 C0,11.1928806 11.1928806,0 25,0 C38.8071194,0 50,11.1928806 50,25 C50,38.8071194 38.8071194,50 25,50 Z M25,47 C37.1502651,47 47,37.1502651 47,25 C47,12.8497349 37.1502651,3 25,3 C12.8497349,3 3,12.8497349 3,25 C3,37.1502651 12.8497349,47 25,47 Z M24.6822554,20.5542975 C24.5391894,18.4243168 24.6822554,20.5542975 24.6822554,20.5542975 C24.5391894,18.4243168 25.7949903,16.4788226 27.7820169,15.724105 C28.5132428,15.455761 29.7531474,15.422218 30.5638543,15.657019 C30.8817786,15.757648 31.4858346,16.093078 31.9150324,16.394965 L32.6939469,16.9484246 L33.5523424,16.6633091 C34.0292288,16.5123656 34.6650773,16.2607931 34.9512092,16.093078 C35.2214448,15.9421346 35.459888,15.858277 35.459888,15.9085915 C35.459888,16.1937071 34.8717281,17.1664541 34.3789455,17.7031422 C33.7113045,18.4578598 33.9020591,18.5249458 35.2532373,18.0218007 C36.0639442,17.7366852 36.0798403,17.7366852 35.9208782,18.0553437 C35.8255009,18.2230588 35.3327183,18.8100613 34.8081432,19.3467494 C33.9179553,20.269182 33.8702667,20.369811 33.8702667,21.1413 C33.8702667,22.3320767 33.3297954,24.8142589 32.7893242,26.1727505 C31.7878628,28.7220188 29.6418739,31.3551445 27.4958851,32.6800932 C24.4756046,34.5417298 20.4538626,35.0113319 17.0679692,33.9211843 C15.939338,33.5522113 14,32.6130071 14,32.4452922 C14,32.3949776 14.5881599,32.3278916 15.3034895,32.3111202 C16.7977335,32.2775772 18.2919776,31.8415181 19.5636746,31.070029 L20.4220701,30.533341 L19.436505,30.1811394 C18.0376382,29.6779944 16.7818374,28.5207608 16.4639131,27.4306131 C16.3685358,27.0784116 16.4003282,27.0616401 17.2905161,27.0616401 L18.2124965,27.0448686 L17.433582,26.6591241 C16.5116017,26.1727505 15.6691024,25.350947 15.2558008,24.5123719 C14.9537728,23.9085978 14.5722637,22.3823912 14.6835371,22.2649907 C14.7153296,22.2146761 15.0491501,22.3153051 15.4306592,22.4494772 C16.5274979,22.8687647 16.6705638,22.7681357 16.0347153,22.0637326 C14.8424993,20.7890985 14.4768864,18.8939188 15.0491501,17.0993681 L15.3193857,16.2943361 L16.3685358,17.3844837 C18.5145246,19.5815504 21.0420225,20.8897275 23.9351333,21.2754721 L24.729944,21.3761011 L24.6822554,20.5542975 Z"></path>
+                  </g>
+                </g>
+              </svg>
+            </a>
+          </div>
+          <div id="icon-instagram">
+            <a href="https://www.instagram.com/capilanou" aria-label="instagram" target="_blank">
+              <svg width="40px" height="40px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g stroke="none" stroke-width="1" fill-rule="evenodd">
+                  <g>
+                    <path d="M25,0 C11.1928806,0 0,11.1928806 0,25 C0,38.8071194 11.1928806,50 25,50 C38.8071194,50 50,38.8071194 50,25 C50,11.1928806 38.8071194,0 25,0 Z M25,3 C12.8497349,3 3,12.8497349 3,25 C3,37.1502651 12.8497349,47 25,47 C37.1502651,47 47,37.1502651 47,25 C47,12.8497349 37.1502651,3 25,3 Z M35.9513128,34.5096659 C35.9701595,34.4075385 35.9839804,34.3037693 36,34.2013135 L36,15.7986865 C35.9846086,15.6978726 35.9714159,15.5967304 35.9525693,15.496245 C35.7600194,14.4654483 34.9467868,13.6655054 33.9482288,13.5226585 C33.9067662,13.517076 33.8662459,13.5075528 33.8254116,13.5 L16.1745884,13.5 C16.0681049,13.5200314 15.9609932,13.5351371 15.8560802,13.5600942 C14.8813947,13.7922616 14.1601965,14.6128926 14.0213595,15.6453312 C14.0157055,15.6883495 14.0072245,15.7310394 14,15.7740577 L14,34.2269275 C14.0201031,34.3438321 14.0361227,34.4617219 14.0612516,34.5779697 C14.2767315,35.5742861 15.0902783,36.3466448 16.0580534,36.4766848 C16.1048559,36.4825957 16.1519725,36.4921188 16.198775,36.5 L33.801225,36.5 C33.9155613,36.4796402 34.0302117,36.4628926 34.1432916,36.4372787 C35.0416482,36.2379497 35.775725,35.454426 35.9513128,34.5096659 Z M16.380331,33.0989292 C16.380331,33.5885494 16.7858479,34.0095374 17.254187,34.0095374 C22.4169106,34.0098658 27.5793201,34.0098658 32.7420437,34.0095374 C33.2147803,34.0095374 33.6180985,33.5892062 33.6180985,33.0959737 C33.6184126,29.6962164 33.6180985,26.2967875 33.6180985,22.8973587 L33.6180985,22.8267561 L31.5179543,22.8267561 C31.8144748,23.81749 31.9055669,24.8252998 31.7893459,25.8524843 C31.6724968,26.8799971 31.3558732,27.8362507 30.8401034,28.7192747 C30.3240195,29.6032838 29.6549637,30.3355797 28.8357629,30.9184609 C26.7123745,32.4303398 23.9167892,32.5633352 21.6636731,31.2412621 C20.5247077,30.5736579 19.6304345,29.6426899 19.0069247,28.4431039 C18.0768429,26.653084 17.9282685,24.7744003 18.4738788,22.8251142 C17.7771813,22.825771 17.0833107,22.825771 16.3800168,22.825771 L16.3800168,22.8878355 C16.3800168,26.2915334 16.3797027,29.6952313 16.380331,33.0989292 Z M24.897757,29.6581239 C27.3886549,29.7139492 29.403361,27.6333095 29.4558175,25.1027841 C29.5095304,22.4931182 27.4960808,20.3376071 25.0001571,20.339249 C22.5601451,20.3376071 20.5765359,22.3900057 20.5422979,24.9293975 C20.5071175,27.5370931 22.5039192,29.604269 24.897757,29.6581239 Z M33.6177844,18.481582 C33.6180985,17.7555254 33.6180985,17.0291405 33.6177844,16.303084 C33.6177844,15.7822673 33.2235754,15.3678469 32.7260241,15.3675186 C32.03341,15.3671902 31.3407958,15.3668618 30.6478676,15.3675186 C30.1515727,15.3681753 29.7561073,15.7835808 29.7557932,16.3043975 C29.7554791,17.0242147 29.7535944,17.744032 29.7583061,18.4641776 C29.7589343,18.5715591 29.7784092,18.6832096 29.8110767,18.7850086 C29.9354645,19.1682324 30.2712489,19.4033552 30.6824198,19.4053255 C31.0166336,19.4059823 31.3508474,19.4049971 31.6853753,19.4049971 C32.0472308,19.4007282 32.4103428,19.4079526 32.7725125,19.3987579 C33.2383386,19.3866077 33.6177844,18.9692319 33.6177844,18.481582 Z"></path>
+                  </g>
+                </g>
+              </svg>
+            </a>
+          </div>
+          <!--<div id="icon-linkedin">
+            <a href="#" aria-label="linkedin">
+              <svg width="40px" height="40px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g stroke="none" stroke-width="1" fill-rule="evenodd">
+                  <g>
+                    <path d="M25,50 C38.8071194,50 50,38.8071194 50,25 C50,11.1928806 38.8071194,0 25,0 C11.1928806,0 0,11.1928806 0,25 C0,38.8071194 11.1928806,50 25,50 Z M25,47 C37.1502651,47 47,37.1502651 47,25 C47,12.8497349 37.1502651,3 25,3 C12.8497349,3 3,12.8497349 3,25 C3,37.1502651 12.8497349,47 25,47 Z M14,20.1180479 L14,34.6581834 L18.7100851,34.6581834 L18.7100851,20.1180479 L14,20.1180479 Z M16.6646962,13 C15.0534058,13 14,14.0858611 14,15.5115122 C14,16.9076331 15.0222711,18.0247614 16.6035556,18.0247614 L16.6336556,18.0247614 C18.2759867,18.0247614 19.2988222,16.9076331 19.2988222,15.5115122 C19.2682519,14.0858611 18.2759867,13 16.6646962,13 Z M30.5769213,20.1180479 C28.076176,20.1180479 26.9565501,21.5293199 26.3314108,22.5193527 L26.3314108,20.4598644 L21.6207614,20.4598644 C21.6828427,21.8242356 21.6207614,35 21.6207614,35 L26.3314108,35 L26.3314108,26.8795887 C26.3314108,26.445032 26.3619812,26.0115368 26.4865199,25.7004084 C26.826932,24.83226 27.6020069,23.9334233 28.9032674,23.9334233 C30.6083381,23.9334233 31.2899149,25.2667202 31.2899149,27.2206333 L31.2899149,34.999614 L35.9998119,34.999614 L36,26.6627446 C36,22.1966439 33.6763743,20.1180479 30.5769213,20.1180479 Z"></path>
+                  </g>
+                </g>
+              </svg>
+            </a>
+          </div>-->
+            <div id="icon-vimeo">
+             <a href="https://vimeo.com/capilanou" aria-label="twitter" target="_blank">
+              <svg width="40px" height="40px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g stroke="none" stroke-width="1" fill-rule="evenodd">
+                  <g>
+                    <path d="M50,25 C50,11.1928806 38.8071194,0 25,0 C11.1928806,0 0,11.1928806 0,25 C0,38.8071194 11.1928806,50 25,50 C38.8071194,50 50,38.8071194 50,25 Z M47,25 C47,12.8497349 37.1502651,3 25,3 C12.8497349,3 3,12.8497349 3,25 C3,37.1502651 12.8497349,47 25,47 C37.1502651,47 47,37.1502651 47,25 Z M17.315812,20.9060694 C17.9328006,21.6627251 20.2884417,30.7991385 21.0747632,32.4845455 C21.7610734,33.9625783 23.6542105,35.9166045 25.7302773,34.5211721 C27.8051355,33.1256949 34.7049271,27.0158598 35.9400265,19.8005667 C37.1740468,12.5875569 27.6369679,14.0985404 26.6267538,20.382799 C29.1516416,18.8105703 30.4993563,21.0216204 29.2073234,23.5249731 C27.9176213,26.0259082 26.7391965,27.657054 26.1221216,27.657054 C25.5062553,27.657054 25.0324423,25.9834215 24.3267945,23.0582023 C23.5973201,20.0339521 23.6018092,14.5864425 20.5690087,15.204043 C17.7089081,15.7862753 13.95,20.4417609 13.95,20.4417609 L14.8476851,21.6627251 C14.8476851,21.6627251 16.6987803,20.1493241 17.315812,20.9060694 Z"></path>
+                  </g>
+                </g>
+              </svg>
+            </a>
+          </div>
+        </div><!--#footer-social-->
+        <div id="footer-bottom">
+      
+<!-- <div style="float:right"><a href=""><a class="t4Edit-page" href="https://t4staging.capilanou.ca/terminalfour/page/directEdit#edit/3/en/78254">Edit</a></a></div>-->
     
-               </div> 
-            </div>
-            <!-- end main content -->                                
-            <!-- right-column -->
-            <div id="right-column">                
-               
-        <div id="ctl00_cph_dzRightSideContent_uxUpdatePanel" class="">
-	
-                <div id="ctl00_cph_dzRightSideContent_uxDropZone" data-ux-pagebuilder="DropZone">
-                    
-                            <div data-ux-pagebuilder="Column" style="width:190px">
-                                
-                                <ul>
-                                    
-                                </ul>
-                            </div>
-                        
-                </div>
-            
-</div>
-                   
-            </div>
-            <!-- end right-column -->            
-        </div>
-        <!-- end container 3 -->        
-    </div>
- <img class="bottom-edge" src="/images/backgrounds/wrapper-bottom.png" alt="" height="10" width="961">
- 
+          <ul>
+<li><a href="/">Capilano University</a></li>
+<li><a href="/privacy-statement/">Privacy Statement</a></li>
+<li><a href="/-copyright-policy/">Copyright Policy</a></li>
+<li><a href="/about-capu/get-to-know-us/media-releases/">Media</a></li>
+</ul>
+        </div><!--#footer-bottom-->
+      </div><!--.container-->
+    </footer>
 
-               <div class="clear"></div>        
-                 <!-- footer defines the footer quicklink lists, global navigation and campus addresses -->                      
-                <div id="footer">                
-                  <!-- footer-list defines 5 quicklinks boxes -->	
-                  <div class="footer-list">	             
-		                   <img src="/images/titles/who.png" width="99" height="13" alt="Who are you?">                         
-                                
-<ul><li><a target="_parent" href="/future/">Future Students</a></li><li><a target="_parent" href="/current/">Current Students</a></li><li><a target="_parent" href="/international/">International</a></li><li><a target="_parent" href="/csee/">Continuing Studies &amp; Exec Ed</a></li><li><a target="_parent" href="/alumni/">Alumni</a></li><li><a target="_parent" href="/parents-families/">Parents &amp; Families</a></li><li><a target="_parent" href="/high-school-counsellors/">High School Counsellors</a></li><li><a target="_parent" href="/media/">Media</a></li></ul><script type="text/javascript">
-function GetPreviewURL() {
- var url = self.location.href;
- var arString = url.split('?')
- if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
- else { url = url + "?cmsMode=Preview"}
- return url;
-}
-</script><script type="text/javascript">
-function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
-function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
- PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
- } 
-</script>
+  <!--#content-push-->
+  
+  <!-- #responsive-listener must be at the bottom of every page. It helps our JS fire off at the correct breakpoints --> 
+  <div id="responsive-listener"></div>
+  <!-- jQuery and scripts are loaded at the bottom to improve page performance -->
+<script type="text/javascript" src="/media/capilanouca/javascript/jquery-3.3.1.min.js"></script><!-- jQuery - Used on all pages -->
+<script type="text/javascript" src="/media/capilanouca/javascript/scripts.js"></script><!-- Main file for site wide scripts - Used on all pages-->
+<script type="text/javascript" src="/media/capilanouca/javascript/megamenu-button.js"></script><!-- Megemenu-button-->
+<script type="text/javascript" src="/media/capilanouca/javascript/warning.js"></script><!--- Warning Message ---->
+<script type="text/javascript" src="/media/capilanouca/javascript/tagged.js"></script><!-- news Tagging-->
+<script type="text/javascript" src="/media/capilanouca/php/event-calendar/js/php-events-calendar.js"></script><!-- Event Calendar Script - Needed for Event Type View -->
 
-		            </div>	            
-		            <div class="footer-list">		              
-		                         <img src="/images/titles/know.png" width="113" height="13" alt="Get to Know Us">                        
-                                
-<ul><li><a target="_parent" href="/e-newsletter/">Subscribe to E-Newsletter</a></li><li><a target="_parent" href="/future/visit-cap/">Visit Cap: Tours &amp; More</a></li><li><a target="_parent" href="/news.aspx">Capilano News</a></li><li><a target="_parent" href="/employment/">Employment</a></li><li><a target="_parent" href="/about/Directions-Maps/">Directions &amp; Maps</a></li><li><a target="_parent" href="/contact/">Contact Us</a></li></ul><script type="text/javascript">
-function GetPreviewURL() {
- var url = self.location.href;
- var arString = url.split('?')
- if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
- else { url = url + "?cmsMode=Preview"}
- return url;
-}
-</script><script type="text/javascript">
-function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
-function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
- PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
- } 
-</script>
 
-		            </div>
-                    <div class="footer-list">
-		                     <img src="/images/titles/study.png" width="116" height="13" alt="Studying at Cap">  	              
-		                        
-<ul><li><a target="_parent" href="/programs/A-Z-List-of-Programs-Courses/">A - Z List of Programs</a></li><li><a target="_parent" href="/programs/areas/">Areas of Study</a></li><li><a target="_parent" href="/programs-courses/programs-credential/">Programs by Credential</a></li><li><a target="_parent" href="/study-abroad/">Study Abroad</a></li><li><a target="_parent" href="/programs/online/">Online Programs</a></li><li><a target="_parent" href="/csee/">Continuing Studies &amp; Exec Ed</a></li><li><a target="_parent" href="/library/">Library</a></li></ul><script type="text/javascript">
-function GetPreviewURL() {
- var url = self.location.href;
- var arString = url.split('?')
- if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
- else { url = url + "?cmsMode=Preview"}
- return url;
-}
-</script><script type="text/javascript">
-function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
-function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
- PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
- } 
-</script>
+  <!-- fitvids.js enables responsive youtube embeds. Ideally, this would only be needed in basic pages-->
+  <script>$(".container").fitVids();</script><!-- call fitvids.js -->
 
-		            </div>
-		            <div class="footer-list">
-		                    <img src="/images/titles/admission.png" width="83" height="13" alt="Admissions"> 
-		                        
-<ul><li><a target="_parent" href="/requirements/">Admission Requirements</a></li><li><a target="_parent" href="/current/calendar/">Capilano University Calendar</a></li><li><a target="_parent" href="/advising/">Advising Centre</a></li><li><a target="_parent" href="/admissions/Transfer-Credit/">Transfer Credit</a></li><li><a target="_parent" href="/fees/">Tuition &amp; Fees Payment</a></li><li><a target="_parent" href="/financial-aid/">Financial Aid &amp; Awards</a></li></ul><script type="text/javascript">
-function GetPreviewURL() {
- var url = self.location.href;
- var arString = url.split('?')
- if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
- else { url = url + "?cmsMode=Preview"}
- return url;
-}
-</script><script type="text/javascript">
-function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
-function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
- PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
- } 
-</script>
-
-                    </div>
-		            <div class="footer-list">
-		                    <img src="/images/titles/campus.png" width="89" height="13" alt="Who are you?">      
-		                        
-<ul><li><a target="_parent" href="/bookstore/">Bookstore</a></li><li><a target="_parent" href="http://athletics.capilanou.ca">Blues Athletics</a></li><li><a target="_parent" href="/events.aspx">Capilano Events</a></li><li><a target="_parent" href="/campus-rec/">Campus Recreation</a></li><li><a target="_parent" href="/services/Capilano-Students-Union/">Capilano Students' Union</a></li><li><a target="_parent" href="/career-development-centre/">Career Development Centre</a></li><li><a target="_parent" href="/Residence/">Residence</a></li><li><a target="_parent" href="/blueshorefinancialcentre/">The BlueShore at Cap</a></li></ul><script type="text/javascript">
-function GetPreviewURL() {
- var url = self.location.href;
- var arString = url.split('?')
- if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
- else { url = url + "?cmsMode=Preview"}
- return url;
-}
-</script><script type="text/javascript">
-function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
-function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
- PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
- } 
-</script>
-
-		               </div>		         
-                    <!-- end footer-list -->    
-                        <!-- begin social-media -->       
-		                 <div id="social-media">
-                          <!-- <a href="http://yourdailycap.ca/" target="_blank"><img src="/images/icons/ydc.png" border="0" height="33" width="33" alt="Your Daily Cap" /></a>&nbsp;&nbsp; -->   
-		                  <a href="http://www.facebook.com/capilanou" target="_blank"><img src="/images/icons/facebook.png" border="0" height="33" width="33" alt="Capilano University on Facebook"></a>&nbsp;&nbsp;
-                          <a href="http://www.youtube.com/user/CapilanoUniversity" target="_blank"><img src="/images/icons/youtube.png" border="0" height="33" width="33" alt="Capilano University on YouTube"></a>&nbsp;&nbsp;
-                          <a href="http://www.twitter.com/capilanou" target="_blank"><img src="/images/icons/twitter.png" border="0" height="33" width="33" alt="Capilano University on Twitter"></a>&nbsp;&nbsp;
-                          <a href="https://instagram.com/capilanou/" target="_blank"><img src="/images/icons/instagram.png" border="0" height="33" width="33" alt="Capilano University on Instagram"></a>   
-                            <br>
-                            
-		                </div>
-                        <!--end social-media-->   
-	                 <div class="clear"></div>                 
-	      	   
-    <!-- footer-address defines displays 4 boxes, campus addresses and social media icons -->	
-		           <div class="footer-address">
-		           <p>
-  		           <a href="/about/Education-Quality-Assurance-Designation/"><img src="/images/logo/eqalogo.png" border="0" alt="BC Education Quality Assurance" id="eqa-logo" title="BC Education Quality Assurance"></a>
-		           <a href="/">Capilano University</a> | 2055 Purcell Way, North Vancouver, British Columbia Canada V7J 3H5 Tel: 604.986.1911<br>
-		           <a href="/sunshine">Sunshine Coast</a> | 5627 Inlet Avenue, Sechelt, British Columbia Canada V0N 3A0   Tel: 604.885.9310
-		           </p>
-                        <p class="chief-capilano"><em>Capilano University is named after Chief Joe Capilano, an important leader of the Squamish (Sḵwx̱wú7mesh) Nation of the Coast Salish people. We respectfully acknowledge that our campuses are located on the territories of the Lil’wat, Musqueam, Sechelt (shíshálh), Squamish and Tsleil-Waututh Nations.</em></p>
-	                </div>
-	                <!-- end footer-address --> 
-	                <!-- footer-nav defines the global links in the footer of the page -->
-                    <div id="footer-nav">
-                        
-<ul><li><a target="_parent" href="/current/policies/Privacy-Statement/">Privacy Statement</a></li><li><a target="_parent" href="/copyright/">Copyright Policy</a></li><li><a target="_parent" href="/contact/Contact-the-Webmaster/">Contact the Webmaster</a></li><li><a target="_parent" href="/about/accreditation/Accreditation/">Accredited by the Northwest Commission on Colleges and Universities</a></li></ul><script type="text/javascript">
-function GetPreviewURL() {
- var url = self.location.href;
- var arString = url.split('?')
- if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
- else { url = url + "?cmsMode=Preview"}
- return url;
-}
-</script><script type="text/javascript">
-function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
-function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
- PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
- } 
-</script>
-
-	                </div>
-                    <!-- end footer-nav -->          
-              </div> 
-               <!--end footer--> 
-            </div>
-            <!--end container-->
-        </form>
-        
-    
-<div id="FloatBubble"><table id="EkBubbleTable" cellspacing="0" cellpadding="0"><tbody><tr><td id="EkTopL"></td><td id="EkTopTile"><div id="EkTop">&nbsp;</div></td><td id="EkTopR"></td></tr><tr><td id="EkCenL"></td><td><div id="EkCloseBubbleIcon"><img id="EkClose" src="/WorkArea/images/application/bubble/close.gif" onclick="EBubble.ShowHoverOverBubble(0,'',0,0,0);"></div><div id="EkBubbleData"></div></td><td id="EkCenR"></td></tr><tr><td id="EkBotL"></td><td id="EkBot"></td><td id="EkBotR"></td></tr></tbody></table></div><div id="FloatBubbleT"><table id="EkBubbleTableT" cellspacing="0" cellpadding="0"><tbody><tr><td id="EkTopLT"></td><td id="EkTopT"></td><td id="EkTopRT"></td></tr><tr><td id="EkCenLT"></td><td><div id="EkCloseBubbleIconT"><img id="EkCloseT" src="/WorkArea/images/application/bubble/close.gif" onclick="EBubble.ShowHoverOverBubble(0,'',0,0,0,0,0);"></div><div id="EkBubbleDataT"></div></td><td id="EkCenRT"></td></tr><tr><td id="EkBotLT"></td><td id="EkBotTile"><div id="EkBotT">&nbsp;</div></td><td id="EkBotRT"></td></tr></tbody></table></div></body></html>
+</body></html>
