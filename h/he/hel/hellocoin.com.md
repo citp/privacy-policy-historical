@@ -1,55 +1,54 @@
-> *The following text is extracted and transformed from the hellocoin.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227013756id_/http%3A//www.hellocoin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellocoin.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031215504id_/https%3A//hellocoin.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | HelloCoin
+# Privacy Policy - HelloCoin
 
-HelloCoin Privacy Policy
+## SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?
 
-Effective Date: May 1st, 2012
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.  
+When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.  
+Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
-This Privacy Statement ("Privacy Statement") explains how www.hellocoin.com ("HelloCoin", "Site"), a website owned and operated by HelloCoin, Inc., uses personal information and applies to all new users and affiliates who participate in, register on, or interact with, our site on or after the Effective Date. Please read this Privacy Statement carefully. If you do not agree to our practices, please do not register, subscribe, create an account, or otherwise interact with HelloCoin Inc. at www.hellocoin.com and all Site's Services we provide.
+## SECTION 2 – CONSENT
 
-HelloCoin may contain links to third-party websites, products and services. This privacy policy only applies to HelloCoin and our collection and use of your information. The linked websites, products and services of third parties, and their collection and use of your information, are governed by the privacy policies of such third parties. We encourage you to learn about the privacy practices of those third parties.
+How do you get my consent?  
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.  
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
-When you create HelloCoin account, you provide some personal information, such as your name, surname, gender, country and email address. Some of this information, for example, your name and surname, could be listed publicly on our services, including comments, store reviews, shopping tips and on all your other activity within the Site. Exploring HelloCoin, searching for stores, reading comments, reviews, shopping tips, using coupons do not require registration.
+How do I withdraw my consent?  
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-When you use the HelloCoin or open one of our emails, we use technology (including cookies, IP addresses, unique device IDs, user IDs) to automatically collect non-personally identifiable information including:
+## SECTION 3 – DISCLOSURE
 
-  * Coupon activity
-  * Application activity (such as searches performed and features accessed)
-  * Web browser type
-  * The website that referred you to us
-  * The web pages you viewed on HelloCoin
-  * The advertisements you viewed and clicked on HelloCoin
-  * The dates and times that you visited HelloCoin
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
+## SECTION 4 – THIRD-PARTY SERVICES
 
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.  
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.  
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.  
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.  
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.  
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
-You may provide us with additional information to make public, such as your shopping habits, location, photo, and everything else what is related to your online shopping. We may use your contact information to send you information about our services such as a newsletter, individual online stores activity you follow inside the Site. You may unsubscribe from these messages by following the instructions contained in the bottom of email. If you contact us, we may keep your message, email address and contact information to respond to your request. Providing the additional information described in this section is entirely optional.
+Links  
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.  
+Google analytics:  
+Our store uses Google Analytics to help us learn about store visits and the pages being viewed.
 
-If you choose to use our referral system to invite friends to HelloCoin, we will ask you for your friend email and your email address. We will use the information you provide to automatically send your friend a one-time email inviting him or her to join HelloCoin. We delete the email address shortly after fulfilling your request, do not share it with any third party and do not use for any other activities.
+## SECTION 5 – SECURITY
 
-When you visit HelloCoin, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer. We use both session cookies and persistent cookies. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to HelloCoin. These persistent cookies can be removed, but each web browser is a little different. Please review your browser's Help menu to learn how to modify your cookies setup.
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.  
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-Cookies sent to your computer by us, or our affiliates on our behalf, are governed by this privacy policy. The independent use of cookies by our affiliates is not covered by this privacy policy, as we do not have access or control over such cookies. Generally speaking, such cookies are used by affiliates to provide you with customized advertising. To learn more about cookies and how to manage them, please consult your browser's help menu.
+## SECTION 6 – AGE OF CONSENT
 
-HelloCoin will keep track of how you interact with links all over the site. We do this to make sure you will get your discounts and our rewards for your online shopping.
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-Information Sharing and Disclosure
+## SECTION 7 – CHANGES TO THIS PRIVACY POLICY
 
-We may share or disclose your information with your consent, such as when you use a third party web client or application to access your HelloCoin account.
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.  
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
-We engage certain trusted third parties to perform functions and provide services to us. We may share your personal information with these third parties only for purposes to enrich your online shopping experience with us.
+## QUESTIONS AND CONTACT INFORMATION
 
-We may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect HelloCoin rights or property.
-
-Modifying Your Personal Information
-
-If you are a registered user of HelloCoin services, we provide you with tools to access or modify the personal information you provided to us and associated with your account. You can also ask to delete your HelloCoin account by contacting our support team.
-
-Young Visitors Policy
-
-HelloCoin services are not directed to people under 16. If you become aware that your child has provided us with personal information without your consent, please contact us. We do not knowingly collect personal information from people under 16. If we become aware that a visitor under 16 has provided us with personal information, we take steps to remove such information and terminate the account.
-
-Changes to this Policy
-
-We may change this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at http://www.hellocoin.com/privacy-policy. If we make a change to this policy that, in our sole discretion, is material, we will always make a notice in the top of this page. By continuing to access or use our services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
