@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the folksy.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122000102id_/http%3A//folksy.uservoice.com/knowledgebase/articles/54066-4-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folksy.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031175822id_/http%3A//folksy.uservoice.com/knowledgebase/articles/54066-4-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy – Folksy Support & Knowledge Base
+
+**Please note: We are currently in the process of updating our Privacy Policy to ensure it complies with the new General Data Protection Regulation (GDPR) which comes into force on 25th May 2018.**
 
 Folksy complies with the principles of the Data Protection Act 1998 when dealing with all data received from visitors to the site. We only hold the data necessary to offer services provided on our website namely to allow users of the service to buy and sell and also message one another. We also keep user data to allow us to contact you in the advent of account withdrawal or new passwords being provided.
 
@@ -22,4 +24,4 @@ All emails sent by us will be clearly marked as originating from us. All such em
 
 Our website uses “cookies” to track use and allow customers to purchase from our website. Please note that these cookies do not contain or pass any personal, confidential or financial information or any other information that could be used to identify individual visitors or customers purchasing from our website. Please note that you are free to refuse cookies. However, for purely technical reasons this may prevent you from purchasing from our website. This is because anonymous cookies are commonly used to keep track of the contents of customers’ shopping baskets or trolleys during the checkout process. This facility ensures that the items added to (or removed from) your basket are accurately stated when you go to pay.
 
-We’ve tried to abide by the policies set out by the [Campaign for Plain English](http://www.plainenglish.co.uk/). If you have any questions relating to our Privacy Policy please contact us via the Helpdesk.
+We’ve tried to abide by the policies set out by the [Campaign for Plain English](http://www.plainenglish.co.uk/ "Link: http://www.plainenglish.co.uk"). If you have any questions relating to our Privacy Policy please contact us via the Helpdesk.
