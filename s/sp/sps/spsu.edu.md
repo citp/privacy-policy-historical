@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spsu.edu privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624002913id_/http%3A//www.kennesaw.edu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spsu.edu privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031050019id_/http%3A//www.kennesaw.edu/privacy.php) for the most accurate reproduction.*
 
 # KSU | Privacy Statement
 
