@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websteronline.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129145255id_/https%3A//public.websteronline.com/privacy-and-opt-out-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websteronline.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031195001id_/https%3A//public.websteronline.com/privacy-and-opt-out-notice) for the most accurate reproduction.*
 
 # Privacy and Opt-Out Notice | Webster
 
@@ -25,17 +25,14 @@ to offer our products and services to you | Yes | No
 **For nonaffiliates to market to you** | No | We don't share  
 **To limit our sharing** | 
 
-  * Call 1-800-261-5482 toll free or 1-203-272-7711, or
+  * Call [1-800-261-5482](tel:1-800-261-5482) toll free or [1-203-272-7711](tel:1-203-272-7711), or
   * Visit us online [here](https://web.archive.org/about/consumer-privacy-preference-form).
-
-
 
 **Please note:**  
 If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice.  
 However, you can contact us at any time to limit our sharing.  
-  
 ---|---  
-**Questions?** | Call 1-800-261-5482 toll free or 1-203-272-7711, or [contact us](https://web.archive.org/about/contact-us).  
+**Questions?** | Call [1-800-261-5482](tel:1-800-261-5482) toll free or [1-203-272-7711](tel:1-203-272-7711), or [contact us](https://web.archive.org/about/contact-us).  
 **Who we are**  
 ---  
 **Who is providing this notice?** | Webster Financial Corporation and its family of companies: Webster Bank, N.A. (including its divisions: HSA Bank, Webster Investment Services, Webster Financial Advisors and its trade name Webster Private Bank); Webster Business Credit Corp.; Webster Capital Finance, Inc.; and Webster Wealth Advisors, Inc.  
@@ -48,20 +45,14 @@ However, you can contact us at any time to limit our sharing.
   * pay your bills or apply for a loan
   * use your credit or debit card
 
-
-
 We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.  
-  
 **Why can't I limit all sharing?** | Federal law gives you the right to limit only 
 
   * sharing for affiliates' everyday business purposes - information about your creditworthiness
   * affiliates from using your information to market to you
   * sharing for nonaffiliates to market to you
 
-
-
 State laws and individual companies may give you additional rights to limit sharing. See below for information on your rights under state law.  
-  
 **What happens when I limit sharing for an account I hold jointly with someone else?** | Your choices will apply to you alone unless you tell us otherwise.  
 **Definitions**  
 ---  
@@ -83,6 +74,4 @@ State laws and individual companies may give you additional rights to limit shar
 **Other important information**  
 ---  
 **For Vermont Residents.** We will not share information we collect about Vermont residents with companies who are not affiliates, except as permitted by law, such as with your consent or to service your accounts. We will not share information about your creditworthiness with our affiliates without your authorization or consent, but we may share information about our transactions or experiences with you with our affiliates without your consent. You are not required to contact us for these elections to apply.  
-**For California Residents.** We will not share information we collect about California residents with companies who are not affiliates, except as permitted by law, such as with your consent or to service your accounts. Among our affiliates, we will limit information sharing to the extent permitted by California law. You are not required to contact us for these elections to apply.  
-  
-### ATM, Banking Center Locations
+**For California Residents.** We will not share information we collect about California residents with companies who are not affiliates, except as permitted by law, such as with your consent or to service your accounts. Among our affiliates, we will limit information sharing to the extent permitted by California law. You are not required to contact us for these elections to apply.
