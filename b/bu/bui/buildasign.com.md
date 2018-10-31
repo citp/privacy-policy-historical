@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the buildasign.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162938id_/https%3A//www.buildasign.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildasign.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031174907id_/https%3A//www.buildasign.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - BuildASign
 
 **Build A Sign LLC Privacy Statement**
+
+Last Revised 8/2017
 
 Build A Sign LLC is committed to protecting your privacy while providing quality services that give you an enjoyable and safe online experience. This Privacy Statement (this "Statement") applies to the Build A Sign LLC website at http://www.BuildASign.com and governs the data collection and usage by Build A Sign LLC in connection with this website. By using the Build A Sign LLC website, you consent to the data practices described in this Statement. 
 
@@ -18,7 +20,7 @@ Build A Sign LLC encourages you to review the privacy statements of websites you
 
 Build A Sign LLC collects and uses information about you, including personally identifiable information, and your use of the Build A Sign LLC website to operate the Build A Sign LLC website[ and affiliated websites] and deliver the services you have requested. Build A Sign LLC also uses personally identifiable information from time to time to inform you of other products or services available from Build A Sign LLC and its affiliates. Build A Sign LLC may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. Note that at any time you may opt out of being contacted by Build A Sign LLC for any research or product updates, through clear links at the bottom of every email. 
 
-Build A Sign LLC does not sell, rent or lease its customer lists to third parties. Build A Sign LLC may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, personally identifiable information about you (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Build A Sign LLC may share data, including personally identifiable information, with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. Build A Sign LLC generally requires these third parties to maintain the confidentiality of your information and to not use your personally identifiable information except to provide services to Build A Sign LLC. 
+Build A Sign LLC may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. Build A Sign LLC also uses third-party companies to help serve targeted product recommendations. These companies may use data about you collected from this site in order to provide recommendations for products and services that might be of interest to you. To learn more about behavioral advertising or to opt out of this type of advertising, you can visit networkadvertising.org. You may also opt out by calling us at 1-800-330-9622. In addition, Build A Sign LLC may share data, including personally identifiable information, with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. Build A Sign LLC generally requires these third parties to maintain the confidentiality of your information and to not use your personally identifiable information except to provide services to Build A Sign LLC. 
 
 Build A Sign LLC will not use or disclose sensitive personally identifiable information about you, such as race, religion, or political affiliations, without your explicit consent. 
 
