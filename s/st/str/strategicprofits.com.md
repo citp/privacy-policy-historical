@@ -1,72 +1,128 @@
-> *The following text is extracted and transformed from the strategicprofits.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611210827id_/http%3A//www.strategicprofits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strategicprofits.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031114746id_/https%3A//sites.agorafinancial.com/SHF/privacy.html) for the most accurate reproduction.*
 
-# » Privacy Policy | Strategic Profits
+# Strategic Profits - Privacy Policy
 
-## Introduction
+_Last updated: 7/10/2018_
 
-We at Strategic Profits and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us.
+We know that your personal information is important to you and we are committed to ensuring it is kept secure and used carefully. Below you will find a short summary of how and why we collect your data, who we share it with, and what we’re doing to make sure your data is safe and secure. You will also find information about your privacy rights.
 
-Strategic Profits has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information.
+This is the privacy policy of Strategic Profits (“Strategic Profits”) If we change our privacy policy, we will notify you of those changes here.
 
-Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit Strategic Profits’ Web pages without telling us who you are or revealing any Personal Information about yourself.
+Our Website ([https://www.strategicprofits.com](https://www.strategicprofits.com/)) may include hyperlinks to other websites that are not operated or controlled by us. This privacy policy only applies to our Website and we are not responsible for the content or the privacy practices of third party websites.
 
-Strategic Profits strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, Strategic Profits intends to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an “adequate” level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.
+If you want to navigate directly to a particular section of this policy please click on the relevant link below.
 
-## Cookies and Other Tracking Technologies
+What does Strategic Profits do?
 
-Some of our Web pages utilize “cookies” and other tracking technologies. A “cookie” is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
+What personal information does Strategic Profits collect and why?
 
-You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site as well as break the tracking to affiliate commissions.
+Who does Strategic Profits share my personal information with?
 
-Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; click-stream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics.
+Legal basis for processing personal information
 
-To protect your privacy, we have adopted the following principles:
+How does Strategic Profits keep my personal information secure?
 
-  * Notice
-  * Choice
-  * Security
-  * Access/Accuracy
+International data transfers
+
+Data retention
+
+Your data protection rights
+
+Updates to this privacy policy
+
+How to contact us
+
+## What does Strategic Profits do?
+
+Strategic Profits is a division of Agora Financial, LLC, a privately owned publishing company based in Baltimore, Maryland, USA. We publish newsletters which provide insight and advice on entrepreneurship and internet marketing. You can learn more about Strategic Profits and Agora Financial in the “About Us” section of our Website.
+
+## What personal information does Strategic Profits collect and why?
+
+We collect information in order to allow us to provide the publications you have subscribed to, and to personalize and improve your experience of our services, Website, and communications with you. All such information is held on secure servers.
+
+We only use personal data you have given us or that we have collected from you when you visit our Website and order forms. We sometimes share your personal information with third parties to provide your subscriptions to you or to personalize and improve your experience with us. We never sell your personal information to others for their mailing or marketing purposes.
+
+The personal information that we may collect about you broadly falls into two categories:
+
+  * __Information that you provide__
+
+We may ask you to provide personal information in order to provide our services to you. This includes asking you to provide your contact details to deliver subscriptions to you or to register an account with us so you can access the subscriber-only areas of our Website. It also includes asking you to provide payment information so you can pay for subscriptions or use a one-click order process.
+
+The personal information you are asked to provide, and the reasons why you are being asked to provide it, will be made clear to you at the point you are asked to provide it.
+
+  * __Information that we collect automatically__
+
+When you visit our Website and order forms, we may collect certain information automatically from your device.
+
+The data we collect may include information like your IP address, device type, unique device identification numbers, browser-type, and other technical information. We may also collect information about how your device has interacted with our Website or order form, including the pages accessed and links clicked. 
+
+We collect this information so we can better understand the visitors who come to our Website [and look at our order forms] and what content may be of interest to them. Using the information allows us to improve the quality and relevance of our Website and services.
+
+Some of this information may be collected using cookies and similar technology.
 
 
 
-## Notice
 
-Where Strategic Profits collects Personal Information on the web, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of Strategic Profits or those working on Strategic Profits’ behalf. Strategic Profits does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Strategic Profits behalf unless such transfer is legally required.
+## Who does Strategic Profits share my personal information with?
 
-## Choice
+We may disclose your personal information to the following categories of recipients:
 
-You may choose whether or not to provide Personal Information to Strategic Profits. The notice we intend to provide where Strategic Profits collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of Strategic Profits Web sites, but you may be unable to access certain options, offers, and services that involve our interaction with you.
+  * to our group companies including those who provide data processing services to us, for example, enhancing the security of our Website, or who process personal information for the purposes described in this privacy policy or notified to you when we collect your personal information. Publishing Services LLC (based in Baltimore, Maryland) provides the majority of the data processing services we use including hosting our customer database on their servers.
+  * to reputable third party service providers who provide additional data processing services, for example, analyzing data, providing marketing assistance, and assisting with the processing of credit card and direct debit payments. They have access to personal information needed to perform their functions, but may not use it for other purposes. In addition, they must process the personal information in accordance with this privacy notice and as permitted by applicable data protection laws;
+  * to any competent law enforcement body, regulatory, government agency, or similar other third party where we believe disclosure is necessary (i) as a matter of applicable law or regulation, or (ii) to exercise, establish or defend our legal rights; and
+  * to any other person with your consent.
 
-If you chose to have a relationship with Strategic Profits, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship.
 
-## Security
 
-Wherever your Personal Information may be held within Strategic Profits or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure.
+## Legal basis for processing personal information
 
-## Access/Accuracy
+Our legal basis for collecting and using the personal information described above will depend on the information concerned and the context in which we collect it.
 
-To the extent that you do provide us with Personal Information, Strategic Profits wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting Strategic Profits should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to privacy@StrategicProfits.com and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
+We will normally collect personal information from you where:
 
-## Third Party Services
+  * we need the personal information to perform a contract with you (for example, your email address when you subscribe to a free or paid service);
+  * the processing is in our legitimate interests and not overridden by your rights;
+  * we have your consent to do so (for example, to receive marketing emails from us about another publisher’s publications or services which we think might be of interest to you); or
+  * We need the personal information to comply with our legal obligations (for example, our tax and audit requirements and other regulatory obligations)
 
-Third parties provide certain services available on Strategic Profits.com on Strategic Profits behalf. Strategic Profits may provide information, including Personal Information, which Strategic Profits collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which Strategic Profits maintains its Web site and mailing lists. Strategic Profits will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on Strategic Profits’ behalf.
 
-Strategic Profits does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Strategic Profits behalf unless such transfer is legally required. Similarly, it is against Strategic Profits’ policy to sell Personal Information collected online without consent.
 
-Strategic Profits can only refund Clickbank transactions within 60 days from the date of purchase.
+We fund our free daily editorial emails, The Schefren Files, by advertising our services and those of other group companies (occasionally we may carry advertising for a third party service). There are two to three small ads in each editorial email, and two or three times a week we send separate promotional emails. By subscribing to the free emails, you are consenting to receive these promotions (we cannot send a free email alone without the promotional emails). There is an unsubscribe link in each of these emails and you can unsubscribe at any time.
 
-## Children’s Privacy
+If we collect and use your personal information in reliance on our legitimate interests, this will normally be to operate and improve our services, Website, and communications. It would also include responding to your questions, undertaking marketing, or detecting or preventing illegal activities. We may have other legitimate interests and, if appropriate, we will make clear to you at the relevant time what those legitimate interests are.
 
-Strategic Profits.com is not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age although we currently do not take steps to verify the user to that extent.
+## How does Strategic Profits keep my personal information secure?
 
-## Commitment
+We use appropriate technical and organizational measures to protect the personal information that we collect and process. The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information. Where we share data with third parties, we ensure that your data will be kept secure and will not be provided or sold to another party.
 
-We are committed to privacy are actively involved in and support current industry initiatives to preserve individual privacy rights on the Internet. Protecting your privacy online is an evolving area, and Strategic Profits Web sites are constantly evolving to meet these demands.
+## International data transfers
 
-If you have any comments or questions regarding our Online Privacy Policy, please contact us at privacy@StrategicProfits.com.
+Your personal information may be transferred to, and processed in, countries other than the country in which you are resident. These countries may have data protection laws that are different to the laws of your country (and, in some cases, may not be as protective). However, we have taken appropriate safeguards to require that your personal information will remain protected in accordance with this privacy policy.
 
-While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
+## Data retention
 
-## Your Consent
+We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements).
 
-By using this Web site, you consent to the terms of our Online Privacy Policy, Terms and Conditions of Use, and to Strategic Profits processing of Personal Information for the purposes given above as well as those explained where Strategic Profits collects Personal Information on the Web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+
+## Your data protection rights
+
+You have the following data protection rights:
+
+  * You have the right to opt-out of marketing communications we send you at any time. You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing e-mails we send you. To opt-out of other forms of marketing (such as postal marketing or telemarketing), then please contact us using the contact details provided under the “How to contact us” heading below.
+  * You may opt out from receiving text alerts from us that you previously opted in to receive. You can unsubscribe from delivery of our text alerts by following the instructions in any such text messages.
+  * If we have collected and process your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+
+
+
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
+
+## Updates to this privacy policy
+
+We may update this privacy policy from time to time in response to changing legal, technical or business developments. When we update our privacy policy, we will take appropriate measures to inform you, consistent with the significance of the changes we make. We will obtain your consent to any material privacy policy changes if and where this is required by applicable data protection laws.
+
+You can see when this privacy policy was last updated by checking the “last updated” date displayed at the top of this privacy policy.
+
+## How to contact us
+
+If you have any questions or concerns about our use of your personal information, please contact us by clicking [here](mailto:feedback@strategicprofits.com). 
