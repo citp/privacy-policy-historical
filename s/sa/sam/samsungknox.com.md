@@ -1,71 +1,109 @@
-> *The following text is extracted and transformed from the samsungknox.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027070007id_/http%3A//www.samsungknox.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsungknox.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031210139id_/https%3A//www2.samsungknox.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Samsung Knox
+# Samsung Knox Privacy Policy | Samsung Knox
 
-This "Privacy Policy" describes how Samsung collects, processes and protects your personal information. Samsung's Privacy Policy applies to all Services provided by Samsung or Samsung's Subsidiaries (as described in more detail in Samsung Service Terms and Conditions) and any Services or products that display or refer to this Privacy Policy, regardless of whether you use the Services through Samsung's website, your mobile phone, mobile device, TV, PC or any other equipment suitable to use the Services. This Privacy Policy does not apply to any Services or products which provide for their own privacy policy.
+Effective: 2018.04.25
 
-**1\. Why, how and what personal information we collect about you**
+Samsung Electronics Co., Ltd. (“Samsung,” “we,” “us,” “our”) knows how important privacy is to its customers and their employees and partners, and we strive to be clear about how we collect, use, disclose, transfer and store your information. This Privacy Policy provides an overview of our information practices with respect to personal information collected through [this website] or other services that link or refer to this Privacy Policy (collectively, the "Business Services"). It is important that you check back often for updates to the Privacy Policy. If we update the Privacy Policy and you use our Business Services after the update, you consent to the new practice(s) identified in the update, although we also may let you know about changes we consider to be material by placing a notice on this website or related online services. You can check the “effective date” posted at the top to see when the Privacy Policy was last updated. 
 
-You can generally use parts of our Services or our website without giving us any personal information about you. However, most of our Services and parts of our website are only accessible if you register a user account with Samsung and complete and submit the information required for the registration process. For this purpose we may request you to provide us with personal information about you which may comprise your name, address, phone number and email address, details of your visits to our Services or website or other information specifically required to offer our Services to you. We collect this information about you when you submit it through our Services or website, typically when you register your user account or when you telephone or email us or correspond with us. Some of the personal information that we collect about you will be "Personal Data". This means information and data related to you and which may be used to identify you.
+ **What information do we collect about you?**
 
-**2\. How we use your Personal Data**
+We will collect various types of personal information in connection with the Business Services.
 
-We use your Personal Data where this is required to provide our Services or parts thereof (including our website) to you and generally to fulfill our contractual obligations towards you. In particular, we may use your Personal Data for any of the following purposes, provided that this is permissible under applicable law:
+For example:
 
-  * to register you and to enable you to use our Services or website;
-  * to administer our Services or website (including any searches or requests for information about our products or Services);
-  * for assessment and analysis of our market, customers, products and services, including asking you for your opinions on our products and Services and carrying out customer surveys;
-  * to enable us to monitor, review and improve the products and services which we offer;
-  * for internal record keeping;
-  * to consider employing you if you have provided information in an application for a position with us; and
-  * to review the Samsung and third party services you have used and to recommend similar services to you.
+• We may collect personal information that you provide, such as your name, address, e-mail address and contact details, job title and position, company, registration details, and any communications you send or deliver to us;
 
+• We may collect data about your use of the Business Services, including the time and duration of your use; information stored in cookies that we have set on your device; and information about your device settings;
 
+• We may collect information about the products and services you or your employer have bought or received and payment data and other information provided in connection with a transaction;
 
-To the extent permissible pursuant to applicable law, (a) we may combine the Personal Data that we collect about you through our Services or website with information that you provide to us by other means and (b) we may store that information together in a combined database or in separate databases. We will not retain your Personal Data for longer than is necessary for the purposes for which it was intended or initially collected, or as required under any contract with you or by applicable law. We will delete your Personal Data once you inform us that you will no longer be using our Services unless and to the extent we are required to retain your Personal Data for legitimate reasons (e.g. due to legal requirements or if we still need your Personal Data to process the contractual relationship with you, such as billing or accounting) or if a deletion of your Personal Data would only be possible with unreasonable efforts, in which case we will lock your Personal Data instead of a deletion. We will not collect an excessive amount of Personal Data about you or any information that is not relevant to the purposes it was collected for.
+• We also may receive personal information about you from your employer or service provider or from publicly and commercially available sources (as permitted by law), which we may combine with other information we receive from or about you.
 
-**3\. Direct Marketing**
+ **How do we use your information?**
 
-We may use your Personal Data for marketing purposes, in particular to display to you or present you with advertisements and promotion materials, to inform you about our products or to conduct free prize draws and prize competitions and other such information which we believe may be of interest to you based on your use of and your interests in our Services, always provided that such use complies with applicable laws. We will only send you any advertisement, marketing or promotional material or product information, if you have elected to receive such information by email and/or post when you completed the registration process. Depending on the jurisdiction you reside in and in accordance with applicable laws in your country we may ask you to expressly consent to such use before we send you any marketing or promotional material or before we send you any product information. You can change your mind about your preferences in respect of direct marketing at any time by using the unsubscribe information on every such mailing, by updating your user profile or account data or by contacting us (see below for details on how to contact us). If you do so, we would not remove your Personal Data from our database(s) to the extent that this Personal Data is still required by us under the terms of this Privacy Policy or to continue to provide our Services to you.
+We may use information we collect for the following purposes: 
 
-**4\. Location-based services**
+• To provide products and services that you (or your employer) requested and to register or authenticate you or your device;
 
-Some of our Services, for example the "Find My Mobile" service, make use of and require you to provide us with location-based data ("Location-Based Services"). The Location-Based Services are offered by collecting, storing, transmitting or processing location data of your device. Samsung will only process any location-based data when you consent to such use, typically when you register for the respective Location-Based Service. Location-based data is generally anonymous and does not personally identify you. However, the information gathered by locating your device may be combined with your Personal Data in order for us to provide you with the Location-Based Services, such as Remote Locator and Phone Tracking. All such information will be dealt with in accordance with the terms of this Privacy Policy.
+• To respond to your questions or requests for information;
 
-**5\. Sharing of your Personal Information**
+• To offer better and more customized products and services that take into account your company’s purchasing history and service record and other relevant information;
 
-We will not share or disclose your Personal Data to any third party (including Samsung's Subsidiaries) without your consent, except (a) where this is necessary in order to provide our Services to you or for the purposes listed in Section 2 hereof, (b) to pursue our legitimate interests or (c) if we are required to disclose your Personal Data in order to comply with any legal obligation or the decision of a judicial authority or (d) where we are otherwise permitted to do so by applicable law. We will never share your Personal Data with third parties if this is not permissible under applicable law. You acknowledge that any Personal Data that you submit to our Services or website which is typically visible to others (e.g. blogs, forums and discussion pages) may result in such information being published and being visible to others. You should take common sense precautions about the Personal Data you provide in such environments and acknowledge that your Personal Data will be published in such a way for others to see. Disclosure of your Personal Data in accordance with the above may include disclosure to Samsung's Subsidiaries or a third party which is located outside the European Union ("EU") or European Economic Area ("EEA"). If you are a resident of a member state of the EU or the EEA, the data protection laws outside the EU/EEA may not provide for an equivalent level of protection to those in your home country. However, before transferring the Personal Data of a resident of an EU/EEA member state we will take steps to ensure that such data will be afforded the same level of protection as under applicable data protection laws within the EU/EEA. We will not make your Personal Data available to third parties for any other purposes as described in this Privacy Policy and we will not sell your Personal Data.
+• Subject to your consent where required by applicable law, to inform you about new products and services;
 
-**6\. Security**
+• For assessment and analysis of our market, customers, products, and services (including asking you for your opinions on our products and services and carrying out customer surveys);
 
-We are committed to ensure that your Personal Data is kept and stored securely and we maintain reasonable physical, technical and organisational measures and procedures to safeguard and secure the information we collect through our Services and our website. This has been done with a view to preventing unauthorised or unlawful processing of your Personal Data and accidental, unauthorised or unlawful access, use, processing, copying, alteration, transfer, loss or destruction of, or damage to your Personal Data. Whilst we have done all of this, and comply with the standards required by applicable laws, we cannot guarantee that your Personal Data is secure when submitted or otherwise communicated through insecure means.
+• To understand the way companies use the Business Services so that we can improve them and develop new products and services; 
 
-We protect the security of your Personal Data by:
+• To provide maintenance services and to maintain a sufficient level of security on the Business Services;
 
-  * using encryption where appropriate;
-  * using password protection where appropriate; and
-  * limiting access to your Personal Data (for example, only our staff or employees who need access to it for the purposes described in this Privacy Policy will have access to it).
+• To protect the rights, property, or safety of Samsung, or any of our respective affiliates, business partners, employees or customers, for example, in legal proceedings, internal investigations and investigations by competent authorities;
 
+• Otherwise with your consent or as described to at the time your information is collected.
 
+ **To whom do we disclose your information?**
 
-However, these measures do not release you from taking appropriate steps to keep your Personal Data safe and secure, in particular by avoiding obvious user ID's or passwords, by changing your password regularly and by ensuring that you do not disclose your password(s) or grant any other person access to your user account and your Personal Data.
+We do not disclose your information to third parties for their own independent marketing or business purposes without your consent. But we may share your information with the following entities:
 
-**7\. Links to external content resources**
+• Samsung affiliates;
 
-Our Services or website may link or direct you to other websites, services or external content resources which are outside of our control. Whilst we try to ensure that we link or direct you only to services or websites that share our privacy and security standards, once you have left our Services or our website we cannot safeguard and are not responsible for the protection and privacy of any Personal Data which you provide on other websites. You should exercise caution and review the privacy statement applicable to the respective service or website. We do not accept any responsibility or liability for those policies.
+• Third parties when necessary to provide you with requested products and services. For example, we may disclose your registration data to cloud storage institutions (i.e. Amazon Web Services) as appropriate to store your registration data that you have provided;
 
-**8\. Web tracking (cookies and web beacons)**
+• Companies that provide services for or on behalf of us, such as companies that help us with the CS process;
 
-We use cookies (small text files that store information on your hard drive) for certain functions and operations of our Services or website. Cookies help us to understand which sections of our Services or website are the most popular because they allow us to see which pages or Services visitors are accessing and how much time they are spending on them. By studying these we are able to adapt our Services or website to suit your demands and to provide you with a more customised user experience. For example, cookies allow us to ensure that the information displayed on your next visit or login will match your user preferences. You may configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. For example, on Microsoft Internet Explorer you can disable or delete cookies by selecting "Tools/Internet Options". Please note that our Services and our website are designed to work with cookies and disabling cookies may affect your usage of our Services or our website and may prevent you from taking full advantage of our Services. We do not exchange cookies with any third party websites or external data suppliers, except with third parties working with us to provide our Services to you. Our Services or website and the communications generated from using and/or registering to our Services or website, such as promotional emails, may contain electronic images known as "web beacons". Web beacons generally work in conjunction with cookies, and we may use them in the same way we use cookies (see above).
+• Other parties: (i) to comply with the law or respond to compulsory legal process (such as a search warrant or other court order); (ii) to verify or enforce compliance with the policies governing our Business Services; (iii) to protect the rights, property, or safety of Samsung, or any of our respective affiliates, business partners, or customers; (iv) as part of a merger or transfer, or in the event of a bankruptcy;
 
-**9\. Changes to this Privacy Policy**
+• With other third parties when you consent to or request such sharing. 
 
-Samsung may change and update this Privacy Policy from time to time. Samsung will notify you of any material changes or additions to this Privacy Policy and will provide you with a copy of the amended Privacy Policy, either on the [Samsung Privacy Policy](http://account.samsung.com/legal/pp) page, by use of your email address provided to Samsung, or by any other suitable means which ensures that you will be notified of any changes to this Privacy Policy.
+Submissions that you make to public areas of a website, mobile application, or other online service (e.g. blogs, Forum and discussion pages) may be viewable to other users of the Business Services. We do not control, and are not responsible for, how other users of the Business Services may use this information. For example, personal information that you submit in public areas could be collected and used by others to send you unsolicited messages or for other purposes.
 
-**10\. Accessing and correcting your Personal Data**
+ **What do we do to keep your information secure?**
 
-You can access, review and edit your Personal Data at any time by logging into your user account and visiting your user profile. Once you have access to your user profile you can review and edit any Personal Data you provided to us when you registered to our Services or to our website. See the help section on our website to learn more on how to access your account and how to edit your user profile or correct your Personal Data. Alternatively, you can contact us directly to learn about what Personal Data we have stored about you and how to correct any of your Personal Data.
+We have put in place reasonable physical and technical measures to safeguard the information we collect in connection with the Business Services. However, please note that although we take reasonable steps to protect your information, no website, Internet transmission, computer system or wireless connection is completely secure. 
 
-**11\. How to contact us with regard to your Personal Data**
+ **Where do we transfer your information?**
 
-You can contact us at <https://www.samsungknox.com/en/contact> to learn more about our commitment to privacy and this Privacy Policy. Under certain jurisdictions and data protection laws you may have the right to request details of Personal Data which we hold about you or to request the correction or deletion of your Personal Data. Please contact us at <https://www.samsungknox.com/en/contact> for this purpose or alternatively contact our customer services department (which is accessible through the help menu on our website). Please help us to ensure that the information that we hold about you is accurate and up to date. If you think that any information we have stored about you is incorrect or incomplete, please contact us at <https://www.samsungknox.com/en/contact> or write to our customer services department.
+Your use or participation in the Business Services may involve transfer, storage and processing of your information outside of your country of residence, consistent with this policy. Please note that the data protection and other laws of countries to which your information may be transferred might not be as comprehensive as those in your country. We will take appropriate measures, in compliance with applicable law, to ensure that your personal information remains protected. 
+
+ **Can you access your information?**
+
+Under the laws of some jurisdictions, you may have the right to request details about the information we collect about you and to correct inaccuracies in that information. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. If you would like to make a request to access your information, please contact our customer service department at [dataprivacy@samsungknox.com](mailto:dataprivacy@samsungknox.com).
+
+ **How long do we keep your information?**
+
+We take reasonable steps to ensure that we retain information about you only for so long as is necessary for the purpose for which it was collected, or as required under any contract or by applicable law. 
+
+ **Third-Party Links and Products on Our Services**
+
+Our Business Services may link to third-party websites and services that are outside our control. We are not responsible for the security or privacy of any information collected by websites or other services. You should exercise caution, and review the privacy statements applicable to the third-party websites and services you use. 
+
+ **Cookies, Beacons and Similar Technologies  **
+
+We, as well as certain third parties that provide content, advertising, or other functionality on our Business Services, may use cookies, beacons, and other technologies in certain areas of our Business Services. 
+
+ _Cookies_
+
+Cookies are small files that store information on your device. They enable the entity that put the cookie on your device to recognize you across different websites, services, devices, and/or browsing sessions. Cookies serve many useful purposes. For example: 
+
+• Cookies can remember your sign-in credentials so you don’t have to enter those credentials each time you log on to a service. Cookies help us and third parties understand which parts of our Business Services are the most popular because they help us to see which pages and features visitors are accessing and how much time they are spending on the pages. By studying this kind of information, we are better able to adapt the Business Services and provide you with a better experience. 
+
+• Cookies help us and third parties understand which ads you have seen so that you don’t receive the same ad each time you access the MSS Service. 
+
+• Cookies help us and third parties provide you with relevant content and advertising by collecting information about your use of our Business Services and other websites and apps. When you use a web browser to access the Business Services, you can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences. The operating system of your device may contain additional controls for cookies. Please note, however, that some Business Services may be designed to work using cookies and that disabling cookies may affect your ability to use those Business Services, or certain parts of them. 
+
+ _Other Local Storage_
+
+We, along with certain third parties, may use other kinds of local storage technologies, such as Local Shared Objects (also referred to as “Flash cookies”) and HTML5 local storage, in connection with our Business Services. These technologies are similar to the cookies discussed above in that they are stored on your device and can be used to store certain information about your activities and preferences. However, these technologies may make use of different parts of your device from standard cookies, and so you might not be able to control them using standard browser tools and settings. For information about disabling or deleting information contained in Flash cookies, please click [here](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html).
+
+ _Beacons_
+
+We, along with certain third parties, also may use technologies called beacons (or “pixels”) that communicate information from your device to a server. Beacons can be embedded in online content, videos, and emails, and can allow a server to read certain types of information from your device, know when you have viewed particular content or a particular email message, determine the time and date on which you viewed the beacon, and the IP address of your device. We and certain third parties use beacons for a variety of purposes, including to analyze the use of our Business Services and (in conjunction with cookies) to provide content and ads that are more relevant to you. By accessing and using our Business Services, you consent to the storage of cookies, other local storage technologies, beacons and other information on your devices. You also consent to the access of such cookies, local storage technologies, beacons and information by us and by the third parties mentioned above. 
+
+ **Your Choices**
+
+You can make choices about whether to receive promotional communications from us by following the unsubscribe instructions included in the communication.
+
+ **Contact**
+
+Privacy Policy version: 1.0
