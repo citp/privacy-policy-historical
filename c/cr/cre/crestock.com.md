@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crestock.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612103551id_/http%3A//www.crestock.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crestock.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031202146id_/http%3A//www.crestock.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Crestock.com | Royalty-Free Stock Photos & Vector Illustrations
 
@@ -60,6 +60,8 @@ Crestock does not use or disclose Personal Information for purposes other than t
 
 
 Crestock does not, however, transfer, sell or otherwise disclose any of your Personal Information (and/or any other information) to any third party to enable them to market their products and services to you.
+
+If you live in the EU and are subject to the General Data Protection Regulation (GDPR), you have the right to edit, update, access, or transfer your personal information, or to delete your personal information if you are terminating your registration with Crestock.
 
   
 
@@ -147,4 +149,4 @@ Attention: Privacy Officer
 ---|---  
 By E-mail: | [privacy@crestock.com](mailto:privacy@crestock.com)  
   
-v. 2010.07.01
+v. 2018.05.23
