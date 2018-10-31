@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emtcompany.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310164031id_/http%3A//www.emtcompany.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emtcompany.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031160841id_/http%3A//www.emtcompany.com/privacy.html) for the most accurate reproduction.*
 
 # EMTC - Privacy Policy - Free Shipping
 
