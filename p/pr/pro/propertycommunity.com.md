@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the propertycommunity.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223171320id_/http%3A//www.propertyforum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertycommunity.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031142317id_/https%3A//www.propertyforum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Investment Property Forum
 
-This policy (together with our [terms of use](http://www.propertyforum.com/forum/faq.php?faq=terms#faq_termstext)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms of use](https://www.propertyforum.com/forum/faq.php?faq=terms#faq_termstext)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is Online Asset Management Limited whose registered office is at 71-75 Shelton Street, Covent Garden, London, WC2H 9JQ.
 
@@ -19,7 +19,7 @@ We may collect and process the following data about you:
 
 
 
-Any improper collection or misuse of information provided on the Website is a violation of the propertycommunity/propertyforum Terms and conditions and should be reported to info@propertyforum.com.
+Any improper collection or misuse of information provided on the Website is a violation of the propertycommunity/propertyforum Terms and conditions and should be reported to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ### IP ADDRESSES AND COOKIES
 
@@ -57,17 +57,18 @@ We use information held about you in the following ways:
 
 
 We may also use your data to provide you with information about goods and services which may be of interest to you and we may contact you by email, provided you have given ticked a box on our registration form by way of consent.  
-If you no longer want to receive such information, please contact us at info@propertyforum.com and we will unsubscribe you from these emails.
+If you no longer want to receive such information, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will unsubscribe you from these emails.
 
 ### DISCLOSURE OF YOUR INFORMATION
 
 We may disclose your personal information to third parties:
 
+  * We do not store credit card details nor do we share customer details with any 3rd parties.
   * Your account name is displayed to other users of the site and other users of the site can contact you through messages and comments. Any content that you post on the site may be redistributed through the internet and other media channels and may be viewed by the general public.
   * We allow non – users to browse forum message boards and general user profiles as a guest. Guests have only limited capabilities and cannot post messages on the Website or view email addresses.
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Online Asset Management Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://www.propertyforum.com/forum/faq.php?faq=terms#faq_termstext) and other agreements; or to protect the rights, property, or safety of Online Asset Management Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://www.propertyforum.com/forum/faq.php?faq=terms#faq_termstext) and other agreements; or to protect the rights, property, or safety of Online Asset Management Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
@@ -75,7 +76,7 @@ While we endeavour to ensure that the information we hold about you is accurate 
 
 ### YOUR RIGHTS
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise the right at any time by contacting us at info@propertyforum.com.  
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise the right at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 Advertisements which appear on the Website may sometimes be delivered directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer we do not have access to or control of the cookies that may be placed by any third party advertisers. Third party advertisers have no access to your contact information stored on the Website unless you choose to share it with them.
 
 This privacy policy covers our use of cookies but does not cover the use of cookies or other tracing technologies by any of its advertisers.
@@ -98,4 +99,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ### CONTACT
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to info@propertyforum.com
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
