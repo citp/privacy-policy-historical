@@ -1,30 +1,69 @@
-> *The following text is extracted and transformed from the klinkk.com privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719151632id_/http%3A//www.klinkk.com/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klinkk.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031235049id_/http%3A//klinkk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Klinkk
+# Privacy Policy
 
-  * [Home](http://www.klinkk.com/) /
-  * Privacy Policy
+## Who we are
 
+Our website address is: http://klinkk.com.
 
+## What personal data we collect and why we collect it
 
-Your privacy is highly important to us. As with any website, we collect certain information from you and use it for proper functioning of the site, its features and also for the purpose of convenience. We describe below how we collect, use and protect your personal information while you use this site. 
+### Comments
 
-## Your Personal Information
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-The information you provide in your profile is publicly available on the site and helps in connecting with other members of the site. The information such as your real name, and any background information you provide is totally up to you. We do not encourage you to publicly provide your email or house address at any occasion within the site (although you can provide a public email in your profile if you want people to contact you). However, we neither control nor be responsible of how others use your personal information. So please be careful with providing any personal information about yourself or your business. If you use the “Tell a friend” feature to share a particular story on this site, you are free to type in your friend’s email addresses. Those addresses will only be used to share that particular story. 
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-## Cookies
+### Media
 
-Just like any most websites, we use cookies to store your information when you visit our website. This information is used to make your user experience “good” with the site; this might include, say, showing a pop up only once to you, customize the content and layout on the site for you based on the device or the browser you use, showing customized content to you like, suggesting you friends or groups etc. We use third party advertising on this site and those advertising agencies may use cookies to collect information from you and through these cookies they might know what type of browser you use, your geographic location, your IP address, whether you have Flash installed and so on. This information is mainly collected so that the advertising agencies have analytics of how well their ads are performing on a site and how effective their geo-targeting works. Also they might want to serve your custom ads based on your interests and location. 
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-## Log Files
+### Contact forms
 
-As with any website we use the information in the log files to offer you personalized experience, diagnose problems with our site or server, improvise on our service and for other similar purposes. We do not track you once you leave the site. Log files have information such as your IP, your browser, your ISP, the pages you visited in the site, the time you visited the site and so on. 
+### Cookies
 
-## Privacy of Children (Under 18)
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-If you are under 18, then you may not use this website and its service unless you are accompanied by your parent or a guardian. 
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-## Your Choice of Opting Out
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-We may send your mass announcement emails or site news from time to time. If you do not want to receive emails from us, you can easily unsubscribe by clicking on the “Unsubscribe” link which will be present at the end of every email we send. Please however note that some communication is highly essential since these will include important information about any changes in the site, your account and other information regarding your submissions or your profile. **If for any reason, you want to delete your account at Klinkk,[please contact us.](https://web.archive.org/web/20170719151632id_/http%3A//www.klinkk.com/klinkk.com/blog/contact/)**
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Analytics
+
+## Who we share your data with
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service.
+
+## Your contact information
+
+## Additional information
+
+### How we protect your data
+
+### What data breach procedures we have in place
+
+### What third parties we receive data from
+
+### What automated decision making and/or profiling we do with user data
+
+### Industry regulatory disclosure requirements
