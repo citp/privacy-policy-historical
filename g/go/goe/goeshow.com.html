@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the goeshow.com privacy policy that was archived on 2017-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171113072807id_/http%3A//www.goeshow.com/privacy_policy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goeshow.com privacy policy that was archived on 2018-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181031163545id_/http%3A//www.goeshow.com/privacy_policy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en" style="overflow: hidden;"><head>
 <meta charset="UTF-8">
 <title>eShow: Event Management Solutions</title>
 
@@ -32,13 +32,106 @@
     <link href="css/twitter_feed.css" rel="stylesheet" type="text/css">
     
     
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="application/javascript">
+	
+	var cookieName="cookieAgreementB221B39A_3BEB_4ABC_A6A3_53E4A2A24E30";
+	
+	
+	function setCookie(name){
+		document.cookie = name + '=accepted; expires=Fri, 31 Dec 2024 23:59:59 GMT;';
+	}
+	
+	function getCookie(name) {
+		var value = "; " + document.cookie;
+		var parts = value.split("; " + name + "=");
+		if (parts.length == 2) return parts.pop().split(";").shift();
+		return false;	
+	}
+		
+	function toggleLoginButton(enable,message){
+		var formButtonsDisable = document.getElementsByName('login');
+		var arrayLength = formButtonsDisable.length;
+		for (var i = 0; i < arrayLength; i++) {
+    		formButtonsDisable[i].disabled=enable;
+    		formButtonsDisable[i].alt = message;
+    		formButtonsDisable[i].title = message;
+  
+    	}
+		
+	}
+	
+	function createNewEvent(doLoad) {
+		 if ( window.addEventListener ) {  
+    		 window.addEventListener( "load", doLoad, false ); 
+  		} 
+  		else{ 
+	     	if ( window.attachEvent ) {  
+	        	window.attachEvent( "onload", doLoad ); 
+	  		} else{  
+	        	if ( window.onLoad ) { 
+	        		if(typeof window.onLoad === "function"){
+	        			var oldOnload=window.onLoad;
+	        			window.onload = doLoad(oldOnload);
+	        			return;
+	        		}
+	           		window.onload = doLoad; 
+	  			} 
+	  		}
+  		}
+	}
+
+	function loadCookieBar(chainedEvent){
+		
+			if(typeof chainedEvent === "function"){
+			
+			
+					chainedEvent();	
+			}
+		
+				if (getCookie(cookieName)!=false){
+		
+						document.getElementById("cookieBar").className = "hide";
+						return true;
+				}
+				
+				var upBotton=document.getElementById('back-top');
+					document.getElementById("cookieBar").removeAttribute("style");
+					if ( upBotton != null){
+						upBotton.style="display:none";
+					}
+				
+					// toggleLoginButton(true,'Please review and accept cookie settings to Login');
+		 
+	}
+	
+	createNewEvent(loadCookieBar);	
+	
+	function agreeCookies(which){
+	
+		setCookie(cookieName);
+		document.getElementById("cookieBar").className = "hide";
+		// toggleLoginButton(false,'Enabled Because You Accepted Cookies');
+		return false;			
+		
+	}
+	
+</script>	
+
+
+<script type="text/javascript" src="//cdn.syndication.twimg.com/widgets/timelines/355039333348175872?&amp;lang=en&amp;callback=twitterFetcher.callback&amp;suppress_response_codes=true&amp;rnd=0.5375549506950383"></script></head><body data-spy="scroll" data-target=".navbar" data-offset="64" onload="$.stellar();" style=""><div id="cookieBar">
+	<div id="cookieConsentText">
+		<div class="ConsentText"><p>Our website uses cookies to deliver safer, faster, and more customized site experiences. The three types of cookies we use are strictly necessary, analytics and performance, and advertising. Please accept the use of cookies.&nbsp;</p></div>
+		<div class="ConsentButton"><button id="clickAgreeCookie" onclick="agreeCookies(this);">Accept</button></div>
+	</div>
+</div>	
+
 		<title>Privacy Policy</title>
 	
 		<link rel="canonical" href="">
 	
 		<meta name="description" content="">
 	
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	<script type="text/javascript">
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount','UA-8157127-1']);
       
@@ -52,16 +145,11 @@
 	</script>
 	
 
-
-
-
-
-
 <meta name="ROBOTS" content="NOARCHIVE"> 
 
 
-<script type="text/javascript" src="javascripts/dynamicdrive/dhtmltooltip.js?version=2"></script>
-<script type="text/javascript" src="javascripts/eshow/common.js?version=2"></script>
+<script type="text/javascript" src="javascripts/dynamicdrive/dhtmltooltip.js?version=2"></script><span id="dhtmltooltip"> </span><span id="dhtmltooltip2"> </span><img id="dhtmlpointer" src="images/global/arrow2.gif" alt="">
+<script type="text/javascript" src="javascripts/eshow/common.js?version=3"></script>
 <script type="text/javascript" src="javascripts/jsmx/engine.js"></script>
 <style type="text/css">@import url(javascripts/jscalendar-1.0/calendar-win2k-1.css);</style>
 <script type="text/javascript" src="javascripts/jscalendar-1.0/calendar.js"></script>
@@ -73,8 +161,8 @@
 
 <link rel="stylesheet" href="javascripts/dhtmlmodal/windowfiles/dhtmlwindow.css" type="text/css">
 <link rel="stylesheet" href="javascripts/dhtmlmodal/modalfiles/modal.css" type="text/css">
-<script type="text/javascript" src="javascripts/dhtmlmodal/windowfiles/dhtmlwindow.js"></script>
-<script type="text/javascript" src="javascripts/dhtmlmodal/modalfiles/modal.js"></script>
+<script type="text/javascript" src="javascripts/dhtmlmodal/windowfiles/dhtmlwindow.js"></script><div id="dhtmlwindowholder"><span style="display:none">.</span></div>
+<script type="text/javascript" src="javascripts/dhtmlmodal/modalfiles/modal.js"></script><div id="interVeil"></div>
 
 
 
@@ -93,10 +181,10 @@
   <script src="//assets.adobedtm.com/c876840ac68fc41c08a580a3fb1869c51ca83380/satelliteLib-92e3cf4312691fe336c2cad15875351e355639f2.js"></script>
 	<!--end VisitorView-->
     
-</head>
+
 	
     
-<body data-spy="scroll" data-target=".navbar" data-offset="64" onload="$.stellar();">
+
 
 
         
@@ -159,6 +247,22 @@
  
 <!-- $$$$$$$$$$$$$$$$$$ CONTENT STARTS HERE $$$$$$$$$$$$$$$$$$ -->
 	<h1 class="first">Privacy Policy</h1>
+
+<p>Your data privacy and security are important to us. So we will continue to update our privacy policy to make it even more transparent and give you more clarity and control over how we process and use personal data when delivering our world-class products and services.</p>
+
+<h2>GDPR</h2>
+
+<p><img alt="GDPR Logo" class="image-right" height="106" src="images/gdpr.png" width="200"> <strong>Compliance with Data Protection Principles</strong></p>
+
+<p><strong>Accountability and Consent</strong></p>
+
+<p>Netronix Corporation, DBA eShow will provide data collectors/clients with reasonable mechanisms/tools for GDPR compliance.</p>
+
+<p>For personal information, Netronix Corporation, DBA eShow will offer data collectors/clients and their users the opportunity to choose (opt-in) whether their personal information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.</p>
+
+<p>For sensitive personal information, Netronix Corporation, DBA eShow will give data collectors/clients and their users the opportunity to affirmatively and explicitly (opt-in) consent to the disclosure of the information to a non- agent third party or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.</p>
+
+<p>&nbsp;</p>
 
 <h2>PRIVACY SHIELD OVERVIEW</h2>
 <!--<table border="0" style="float: right; margin-left: 30px; margin-bottom: 30px;" width="200">
@@ -254,8 +358,6 @@ South Barrington, IL 60010</p>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <h2>PRIVACY PRINCIPLES</h2>
 
 <p>The privacy principles in this Policy are based on the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks.<br>
@@ -315,7 +417,7 @@ South Barrington, IL 60010</p>
 
 <p>This Policy may be amended from time to time, consistent with the requirements of the Privacy Shield Framework Principles. We reserve the right to update this Privacy Policy at any time, without prior notice to you, to the extent permitted by applicable law and the principles of the Framework. We will notify the changes that we make to this Privacy Policy by posting the revised Privacy Policy on the Site, and such changes will be effective immediately unless otherwise stated.<br>
 <br>
-<em>Last Revised: 6/15/2017</em></p>
+<em>Last Revised: 6/15/2018</em></p>
 
 <p>&nbsp;</p>
 
@@ -356,7 +458,7 @@ South Barrington, IL 60010</p>
 	<img alt="eShow Event Management Solutions" src="images/content/logo_orange.png"> 
 	<!--<img alt="eShow 20th Anniversary" src="images/content/eshow-20th-web.png" /> -->
 </a>
-<p>© 2017 eShow Netronix</p>
+<p>© 2018 eShow Netronix</p>
 
 <p>eShow<br>
 5 Executive Court, Suite 2<br>
@@ -507,4 +609,4 @@ Fax: &nbsp;847.381.0797</p>
 	<!--end VisitorView-->
   
 
- </body></html>
+ <div id="ascrail2000" style="width: 5px; z-index: 9000; position: fixed; top: 0px; height: 100%; right: 0px; opacity: 0.543906;"><div style="position: relative; top: 0px; float: right; width: 5px; height: 75px; background-color: rgb(37, 39, 43); border: 0px solid rgb(255, 255, 255); background-clip: padding-box; border-radius: 5px;"></div></div><div id="ascrail2000-hr" style="height: 6px; z-index: 9000; position: fixed; left: 0px; width: 100%; bottom: 0px; display: none; opacity: 0.543906;"><div style="position: relative; top: 0px; height: 5px; width: 1366px; background-color: rgb(37, 39, 43); border: 0px solid rgb(255, 255, 255); background-clip: padding-box; border-radius: 5px;"></div></div></body></html>
