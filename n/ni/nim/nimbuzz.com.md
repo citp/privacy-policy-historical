@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nimbuzz.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518034213id_/http%3A//www.nimbuzz.com/us/spages/privacy-policy-5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimbuzz.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031173044id_/http%3A//nimbuzz.com/us/spages/privacy-policy-5) for the most accurate reproduction.*
 
 # Nimbuzz Social (Breaking News, Latest News, Regional News, World News)-English--United States
 
