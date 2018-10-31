@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spsu.edu privacy policy that was archived on 2018-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624002913id_/http%3A//www.kennesaw.edu/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spsu.edu privacy policy that was archived on 2018-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181031050019id_/http%3A//www.kennesaw.edu/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -12,7 +12,7 @@
 
 <!-- Stylesheets -->
 <link rel="stylesheet" href="http://artoo.kennesaw.edu/_resources/css/flexslider.css"><!-- Flex Slider -->
-<link rel="stylesheet" type="text/css" href="http://artoo.kennesaw.edu/_resources/css/default.css?v=2.2.1"><!-- Default -->
+<link rel="stylesheet" type="text/css" href="http://artoo.kennesaw.edu/_resources/css/default.css?v=2.2.2"><!-- Default -->
 <link rel="stylesheet" type="text/css" media="print" href="http://artoo.kennesaw.edu/_resources/css/print.css?v=1.0"><!-- Print -->
 <link rel="stylesheet" href="http://artoo.kennesaw.edu/_resources/css/flex.css"><!-- Grids -->
 <link rel="stylesheet" href="http://artoo.kennesaw.edu/_resources/css/ou_tables.css"><!-- Tables -->
@@ -79,6 +79,15 @@
 	ga('create', analytics_code, 'auto');
     ga('send', 'pageview');
 	
+	// homepage rotator click analytics event
+	$(document).ready(function(){
+		$(".flexslider .slides a").click(function( e ) {
+			var title = $(".flex-active-slide").find("h1").text();
+			// send analytics
+			ga('send', 'event', 'Homepage', 'rotator click', title);
+		});
+	});
+	
 </script>
 </head>
    <body>
@@ -94,14 +103,11 @@
                         <div class="logo"></div></a></div>
                   <div class="bottom"></div>
                </div>
-<form class="search" method="post" action="http://search.kennesaw.edu/">
-	<label for="ksusearchbox">Search KSU</label>
-	<input type="text" name="q" id="ksusearchbox" placeholder="KSU Search">
-	<input type="submit" value="SEARCH" name="B1">
+<form class="search" id="cludo-search-header-form" action="http://search.kennesaw.edu/">
+	<label for="q">Search KSU</label>
+	<input type="text" name="q" id="ksusearchbox" placeholder="KSU Search" autocomplete="off">
+	<input type="submit" value="SEARCH">
 	<input type="hidden" name="site" value="default_collection">
-	<input type="hidden" name="client" value="default_frontend">
-	<input type="hidden" name="output" value="xml_no_dtd">
-	<input type="hidden" name="proxystylesheet" value="default_frontend">
 	<div class="clear"></div>
 </form>	
 
@@ -384,7 +390,7 @@
 	<a href="https://www.facebook.com/KennesawStateUniversity"><img src="http://artoo.kennesaw.edu/_resources/images/global/social/facebook_round.png" alt="Facebook"></a>
 	<a href="https://twitter.com/kennesawstate"><img src="http://artoo.kennesaw.edu/_resources/images/global/social/twitter_round.png" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/company/kennesaw-state-university"><img src="http://artoo.kennesaw.edu/_resources/images/global/social/linkedin_round.png" alt="LinkedIn"></a>
-	<a href="https://plus.google.com/+kennesawstateuniversity/posts"><img src="http://artoo.kennesaw.edu/_resources/images/global/social/google_round.png" alt="Google Plus"></a>
+<!-- 	<a href="https://plus.google.com/+kennesawstateuniversity/posts"><img src="http://artoo.kennesaw.edu/_resources/images/global/social/google_round.png" alt="Google Plus" /></a> -->
 	<a href="https://instagram.com/kennesawstateuniversity"><img src="http://artoo.kennesaw.edu/_resources/images/global/social/instagram_round.png" alt="Instagram"></a>
 	<a href="https://www.youtube.com/user/KennesawStatenow"><img src="http://artoo.kennesaw.edu/_resources/images/global/social/youtube_round.png" alt="Youtube"></a></div>
 </div>
