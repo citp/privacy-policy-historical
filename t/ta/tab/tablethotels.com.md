@@ -1,15 +1,20 @@
-> *The following text is extracted and transformed from the tablethotels.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128132146id_/https%3A//www.tablethotels.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tablethotels.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101115459id_/https%3A//www.tablethotels.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tablet Hotels
 
-Your privacy is important to us. This Privacy Policy tells you about Tablet's policies and practices for the collection, use and disclosure of information we collect about you through our sites and services, including the website www.tablethotels.com.
+Since the year 2000, the Tablet team has been committed to protecting the privacy and data of all of our clients and users around the world. Here at Tablet, we've never sold and will never sell your personal data to third parties. We also want to be transparent about the data that we collect, how we use it and your rights to control that information. This is why we have made some updates to our Privacy Policy and [Terms of Use](https://web.archive.org/en/terms), which take effect on May 25, 2018.
+
+We made these updates to reflect the high standards established by the General Data Protection Regulation (GDPR), a set of laws passed in the European Union. We embrace these changes and because we believe all Tablet clients and users should have the right to these protections, we are implementing these updates globally.
+
+The GDPR applies to any information that directly or indirectly could identify you as an individual. This includes information, such as names, addresses, phone numbers, as well as IP addresses, cookie identifiers, device information, billing information, geo-location information, social media information, your preferences, etc.
+
+As a registered client of Tablet Hotels, you can always see the information that you've shared with us in "Your Account".
+
+We hope you'll find that these updates improve your customer experience and reinforce our commitment to your data privacy and security. If you have any questions or comments, send us a message at privacy@tablethotels.com. View our [Terms of Use](https://web.archive.org/en/terms).
+
+Your privacy is important to us. This Privacy Policy tells you about Tablet's policies and practices for the collection, use and disclosure of information we collect about you through our sites and services, including the website www.tablethotels.com and our mobile applications.
 
 By using our sites and services, you accept and agree to the terms of this Privacy Policy and you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
-
-This Privacy Policy is effective upon acceptance for new users and is otherwise effective on August 20, 2012.
-
-[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)  
-[](https://www.export.gov/safeharbor)
 
 ## 1\. Definitions
 
@@ -91,13 +96,13 @@ Without limiting the above, in an effort to respect your privacy and our ability
 
 ## 5.1. Storage and Retention
 
-If you are a Member, we store your Personal Information in [My Account](https://web.archive.org/account). You can access My Account from the home page of our Site, after logging onto our Site. My Account contains your name, e-mail address, e-mail and password settings, and related travel information. It may also contain other information so that you do not need to re-enter it each time you make a Reservation. It may also contain details about your participation in loyalty or awards programs and applicable membership numbers and other travel preferences. We also keep in My Account all other information that you have elected to provide us, such as gender, activities and lifestyle preferences and favorite hotels or destinations. 
+If you are a Member, we store your Personal Information in [Your Account](https://web.archive.org/user). You can access Your Account from the home page of our Site, after logging onto our Site. Your Account contains your name, e-mail address, e-mail and password settings, and related travel information. It may also contain other information so that you do not need to re-enter it each time you make a Reservation. It may also contain details about your participation in loyalty or awards programs and applicable membership numbers and other travel preferences. We also keep in Your Account all other information that you have elected to provide us, such as gender, activities and lifestyle preferences and favorite hotels or destinations. 
 
-You can access or modify your account in [My Account](https://web.archive.org/account). 
+You can access or modify your account in [Your Account](https://web.archive.org/user). 
 
 You can close your account by emailing [customerservice@tablethotels.com](mailto:customerservice@tablethotels.com).
 
-We will retain in your My Account, the Personal Information of individuals for whom you have made reservations on your behalf. You can access or modify these third parties' Personal Information at any time.
+We will retain in your Your Account, the Personal Information of individuals for whom you have made reservations on your behalf. You can access or modify these third parties' Personal Information at any time.
 
 We will retain your Personal Information in our databases in accordance with our Records Management Policy and applicable laws. This period may extend beyond the end of your relationship with us, but it will be only as long as it is necessary for us to have sufficient information to respond to any issues that may arise later. We may also need to retain certain information to prevent fraudulent activity; protect ourselves against liability, permit us to pursue available remedies or limit any damages that we may sustain; or if we believe in good faith that a law, regulation, rule or guideline requires it.
 
@@ -117,7 +122,7 @@ Your password is the key to your account. Use unique numbers, letters and specia
 
 ## 6\. How to access or modify your Account
 
-You can access your Personal Information in My Account. You can change at any time your preferences for receiving or not receiving our e-mails and e-newsletters.
+You can access your Personal Information in Your Account. You can change at any time your preferences for receiving or not receiving our e-mails and e-newsletters.
 
 If you wish to modify your Personal Information or close your account, you can do so by contacting us as indicated in Contact Information. We will respond to such requests to information access within thirty (30) days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time.
 
@@ -149,7 +154,7 @@ As part of the registration process we give you the ability to receive via e-mai
 
 If you do not opt-out from receiving these communications about our Site, we will send them to you.
 
-At any time you may change which of the communications you wish to receive or not, by changing your preferences under My Account.
+At any time you may change which of the communications you wish to receive or not, by changing your preferences under Your Account.
 
 In addition, in our e-mails and other communications we will include instructions on how to unsubscribe and inform us of preferences if you decide you do not want to receive any future marketing or promotional e-mails from us.
 
