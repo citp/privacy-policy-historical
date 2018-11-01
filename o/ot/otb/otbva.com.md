@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otbva.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502193310id_/http%3A//www.otbva.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otbva.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101203117id_/http%3A//www.otbva.com/privacypolicy) for the most accurate reproduction.*
 
 # OTBVA Privacy Policy
 
