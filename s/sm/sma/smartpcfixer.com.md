@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartpcfixer.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503134039id_/http%3A//www.smartpcfixer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartpcfixer.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101211003id_/http%3A//www.smartpcfixer.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - SmartPCFixer™
 
