@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cherasite.com privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428231220id_/http%3A//www.cherasite.com/blog/latest/privacy-policy-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cherasite.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101195721id_/http%3A//www.cherasite.com/blog/latest/privacy-policy-3.html) for the most accurate reproduction.*
 
 # Best 2012 PC Security Program - Antivirus and Internet Security Combo - Privacy Policy
 
