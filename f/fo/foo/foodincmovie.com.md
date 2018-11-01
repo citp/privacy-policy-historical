@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodincmovie.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621151632id_/http%3A//www.takepart.com/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodincmovie.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101032035id_/http%3A//www.takepart.com/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | TakePart
 
@@ -10,9 +10,9 @@ Privacy Policy
 
 TakePart, LLC—a digital news and lifestyle magazine and social action platform for the conscious consumer—is a division of [_Participant Media_](http://www.participantmedia.com/) the company behind Pivot Television Network and such important films as _Lincoln_ , _Contagion_ , _The Help_ , _The Best Exotic Marigold Hotel_ , _Food, Inc_., _Waiting For “Superman_ , _”_ _CITIZENFOUR_ and _An Inconvenient Truth_. TakePart’s audience are socially conscious citizens who come together to learn about important issues through TakePart’s content and to take action via TakePart’s online platform by signing petitions, making donations, sharing articles and videos and more.
 
-The privacy of each and every user matters deeply to us, and we strive for transparency in all of our data privacy practices, especially when it comes to identifying the information we collect, use, share, and disclose, as well as the ways we help keep your information safe. Unless we have obtained your permission or otherwise disclosed it in this Privacy Policy, TakePart does not sell your personal information for our own financial gain, nor will we share your personal information with third parties for direct marketing to you without first offering you an opportunity to opt-out of such sharing. We take our responsibility to protect your information very seriously. Please remember, [_we are always here to answer any questions you have_](https://web.archive.org/web/20180621151632id_/http%3A//www.takepart.com/contact-us/index.html), and we look forward to serving you for years to come.
+The privacy of each and every user matters deeply to us, and we strive for transparency in all of our data privacy practices, especially when it comes to identifying the information we collect, use, share, and disclose, as well as the ways we help keep your information safe. Unless we have obtained your permission or otherwise disclosed it in this Privacy Policy, TakePart does not sell your personal information for our own financial gain, nor will we share your personal information with third parties for direct marketing to you without first offering you an opportunity to opt-out of such sharing. We take our responsibility to protect your information very seriously. Please remember, [_we are always here to answer any questions you have_](https://web.archive.org/web/20181101032035id_/http%3A//www.takepart.com/contact-us/index.html), and we look forward to serving you for years to come.
 
-Our Services are not directed towards individuals under the age of 13 and are not meant to be used or accessed by individuals under the age of 13. We do not knowingly collect personal information, including phone numbers, addresses, and names, from users under the age of 13, and we will readily delete such information should this occur. If you believe we might have any information from or about an individual under the age of 13, please contact us via our [_Contact Us_](https://web.archive.org/web/20180621151632id_/http%3A//www.takepart.com/contact-us/index.html) page.
+Our Services are not directed towards individuals under the age of 13 and are not meant to be used or accessed by individuals under the age of 13. We do not knowingly collect personal information, including phone numbers, addresses, and names, from users under the age of 13, and we will readily delete such information should this occur. If you believe we might have any information from or about an individual under the age of 13, please contact us via our [_Contact Us_](https://web.archive.org/web/20181101032035id_/http%3A//www.takepart.com/contact-us/index.html) page.
 
 **_Take Part Services_**
 
@@ -22,7 +22,7 @@ This Privacy Policy covers all the Services that TakePart offers, and it is our 
 
 **_Your Acceptance of this Privacy Policy_**
 
-To start, it is important for you to know that you accept the terms and details outlined in this Privacy Policy by continuing to use TakePart or any of our Services. By interacting with our products and offerings, you are also accepting the [_Terms of Service_](https://web.archive.org/web/20180621151632id_/http%3A//www.takepart.com/terms-of-service/index.html).
+To start, it is important for you to know that you accept the terms and details outlined in this Privacy Policy by continuing to use TakePart or any of our Services. By interacting with our products and offerings, you are also accepting the [_Terms of Service_](https://web.archive.org/web/20181101032035id_/http%3A//www.takepart.com/terms-of-service/index.html).
 
 **_Collection of Information_**
 
@@ -62,7 +62,7 @@ The Take Action portion of the Service (available via takeaction.takepart.com or
 
 Note that if you choose to take an action that requires a signature, you will be given the ability to check a box that reads “Display My Signature.” If you choose not to display your signature, it will not appear on the Site, but will still be shared with SAN members and other third parties as part of the fulfillment of the action. If you do not want your signature collected, please do not take any action requiring your signature. We are unable to remove the record of your signature once this action is completed.
 
-If you would like to remove one of your posts, or want to learn more about this portion of the Service, please contact us via our [_Contact Us page_](https://web.archive.org/web/20180621151632id_/http%3A//www.takepart.com/contact-us/index.html).
+If you would like to remove one of your posts, or want to learn more about this portion of the Service, please contact us via our [_Contact Us page_](https://web.archive.org/web/20181101032035id_/http%3A//www.takepart.com/contact-us/index.html).
 
 **_Cookies and Beacons_**
 
