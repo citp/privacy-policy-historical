@@ -1,377 +1,311 @@
-> *The following text is extracted and transformed from the allaboutcareers.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/about-us%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutcareers.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101190844id_/https%3A//www.allaboutcareers.com/about-us%23privacy) for the most accurate reproduction.*
 
 # About Us | AllAboutCareers
 
-  * Skip to navigation (n)
-  * Skip to content (c)
-  * Skip to footer (f)
+## Privacy Policy & GDPR Compliance Statement
 
+AllAboutCareers.com is a product of AllAboutGroup Holdings Ltd.
 
+This privacy policy sets out how AllAboutGroup Holdings Ltd uses and protects any information that you give to AllAboutGroup Holdings Ltd when you use or register with AllAboutCareers.com.
 
-  * [What can I do?](https://www.allaboutcareers.com/careers) _(1)_
-  * [Career Test](https://www.allaboutcareers.com/career-test) _(2)_
-  * [Jobs](https://www.allaboutcareers.com/jobs) _(3)_
-  * [Employers](https://www.allaboutcareers.com/careers/graduate-employers) _(4)_
-  * [Advice](https://www.allaboutcareers.com/careers-advice) _(5)_
-  * [News](https://www.allaboutcareers.com/features) _(6)_
-  * [More](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/) _(7)_
-  * [Login](https://www.allaboutcareers.com/login) _(8)_
-  * [Search](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/)
-  * [Facebook](http://facebook.com/allaboutcareers) [Twitter](http://twitter.com/allaboutcareers) _(9)_
-    *     * [Follow](http://twitter.com/allaboutcareers)
-  * Get the latest jobs, the best advice and the freshest news. [Sign up](https://www.allaboutcareers.com/register) _(0)_
+AllAboutGroup Holdings Ltd is committed to ensuring that your privacy is protected.
 
+Should we ask you to provide personal data by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
+AllAboutGroup Holdings Ltd may change this policy from time-to-time by updating this page. If you opt in to receive emails from us, we will notify you of any changes or updates we make. If you do not opt in to receive emails, you should check this page occasionally to ensure that you are happy with any changes. This policy was last updated on 23.05.2018.
 
-"APPLY FOR GRADUATE SCHEMES NOW! "<http://www.allaboutcareers.com/jobs/graduate-jobs>
+If you have any questions, please email us at: [mydata@allaboutgroup.org](mailto:mydata@allaboutgroup.org)
 
-  * All About Careers
-  * Meet the team
-  * Contact us
-  * Advertise with us
-  * Privacy policy
-  * Terms & conditions
-  * Cookie policy
+**About GDPR**
 
+As of 25 May 2018, all organisations that process personal data on citizens of the EU are required to comply with the EU General Data Protection Regulation (GDPR).
 
+The GDPR replaced the Data Protection Directive 95/46/EC and was designed to harmonise data privacy laws across Europe, to protect and empower all EU citizens’ data privacy and to reshape the way that organisations, which operate within the region, approach data privacy.
 
-Considering your career is like navigating a labyrinth. It’s scary, it’s confusing and there’s a Minotaur called ‘Unemployment’ that keeps trying to trip you up.
+The GDPR applies to ‘personal data’ meaning any information relating to an identifiable person who can be directly or indirectly identified in particular reference to an identifier. A broad range of personal identifiers constitute personal data, including: name, location data and IP address.
 
-Fortunately, we’ve built you some wings so you can fly away and start your career without any faff.
+**Our commitment to GDPR**
 
-They’re not made of wax! They’ve been created using the latest jobs, the best advice and information on every career path you could possibly pursue.
+AllAboutGroup Holdings Ltd has always been committed to data protection and the new regulations have provided us with a welcome opportunity to review our already robust data protection policies and procedures, and strengthen our commitment to data protection.
 
-Strap ‘em on and fly as high as you want!
-
-## Meet the team
-
-  * Paul Harris Co-founder 
-
-### Paul Harris co-founder
-
-The big cheese, the charmer, the moviegoer.
-
-#### Best film ever seen?
-
-Hands down, The Lion King. Such an emotional rollercoaster. It proves that even chiefs of the magnitude of Mufasa aren’t safe in this world. I’m welling up now even thinking about it.
-
-    * E paul/harris//allaboutgroup/org
-    *       * T 0203 651 4919
-      * M 0790 089 0735
-
-  * Jack Denton Co-founder 
-
-### Jack Denton co-founder
-
-The big dog, the raconteur, the linguaphile.
-
-#### Worst job after graduating?
-
-Working on a chicken farm. Have you seen Napoleon Dynamite? It’s like that but worse. Dead chickens in bins a metre from where I was working, stifling heat and constant attacks from angry cockerels. It was alright, though, because they were paying me £3 an hour.
-
-    * E jack/denton//allaboutgroup/org
-    *       * T 0203 651 4919
-      * M 0778 000 0810
-
-  * Jack Collins operations 
-
-### Jack Collins operations
-
-The coordinator, the ideas guy, the pop punk nerd.
-
-#### Greatest epic fail?
-
-When asked to do a presentation during a job interview at an advertising agency, I did some seriously mental ‘outside the box’ thinking and rearranged the office furniture into the shape of a car. I didn’t get the job.
-
-    * E jack/collins//allaboutgroup/org
-    *       * T 0203 651 4919
-      * M 0781 858 9383
-
-  * Billy Sexton project management 
-
-### Billy Sexton project management
-
-The planner, the solutions guy, the East London enthusiast.
-
-#### Biggest secret?
-
-Once I was at a market and there was a person offering free food samples. The sign said ‘Please Take One’ but I took two instead. Mental.
-
-    * E billy/sexton//allaboutgroup/org
-    *       * T 0203 651 4919
-
-
-
-  * Charlie Mead Account Management 
-
-### Charlie MeadAccount Management
-
-The sports enthusiast, the OCD boy, the charmer.
-
-#### What do you love most in the world?
-
-Sweets. My dentist tells me off but I will always have a packet of sweets in my bag - from Haribo to Fruit Gums, even Pic 'n' Mix on special occasions, I just love sweets.
-
-    * E charlie/mead//allaboutgroup/org
-    *       * T 0203 651 4919
-
-  * Ed Dean Account Management 
-
-### Ed DeanAccount Management
-
-The risk taker, the festival goer, the napper.
-
-#### What are your pet hates?
-
-Loud eaters and slow walkers.
-
-    * E ed/dean//allaboutgroup/org
-    *       * T 0203 651 4919
-
-  * Mike Stocks Business Development 
-
-### Mike StocksBusiness Development
-
-The conversationalist, the wanderer, the culture vulture.
-
-#### A crazy travel experience?
-
-Most of it! Although working in a bar on the coast of Colombia was a bit mental. Lots of rum, lots of sweat and a whole heap of debauchery.
-
-    * E mike/stocks//allaboutgroup/org
-    *       * T 0203 651 4919
-
-  * Rayer Van-Ristell Business Development 
-
-### Rayer Van-RistellBusiness Development
-
-The entrepreneur, the socialite, the Clark Kent lookalike.
-
-#### Best childhood memory?
-
-I crashed a car at the tender age of three. Jumped into the front seat, pulled it in reverse and knocked the door off a brand new Mercedes Benz. Needless to say my Dad wasn’t very happy… Though perhaps slightly proud!
-
-    * E rayer/van-ristell//allaboutgroup/org
-    *       * T 0203 651 4919
-
-
-
-  * Tom Clark Business Development 
-
-### Tom Clark Business Development
-
-The opportunist, the late bloomer, the overrated footballer.
-
-#### Biggest Regret?
-
-Upon graduation of university my favourite lecturer came over to congratulate me with a few kind words and a firm handshake. Unfortunately due to, possibly the nerves and probably the celebratory drinks, I forgot to remove the half eaten pork pie from my outstretched hand. The disgusted look of the esteemed academic as our hands mashed the meaty snack will haunt my dreams for ever more.
-
-    * E tom/clark//allaboutgroup/org
-    *       * T 0203 651 4919
-      * M 0754 581 0766
-
-  * Laura Edgington Marketing 
-
-### Laura EdgingtonMarketing
-
-The social media suave, the small one, the lover of seafood.
-
-#### Hidden talent?
-
-I can remember a ridiculous amount of quotes from Bridesmaids. #HelpMeImPoor
-
-    * E laura/edgington//allaboutgroup/org
-    *       * T 0203 651 4919
-
-  * Emma Finamore editorial 
-
-### Emma Finamore editorial
-
-The wordsmith, the indie-kid, the cheese-enthusiast.
-
-#### What’s the weirdest job you’ve ever had?
-
-Of all the weird jobs I’ve had (selling wills over the phone, folding Christmas cards, folding boxes for Christmas cards) there’s an extra-special place in my heart for the summer I spent in a Breaking Bad-style boiler suit - and a rather fetching hair net - in a frozen dessert factory called “Delicious Moments”, crushing biscuits to make the bases for cheesecakes.
-
-Mmmm. Delicious.
-
-    * E emma/finamore//allaboutgroup/org
-    *       * T 0203 651 4919
-
-  * Jack ‘Jay’ Collinseditorial 
-
-### Jack ‘Jay’ Collinseditorial
-
-The poet, the jack-of-all-trades, the DJ.
-
-#### Guilty pleasure?
-
-I’m absolutely obsessed with darts. Whether it’s playing, watching or just reading about it on the internet, I just can’t seem to get enough of the idea of throwing sharp metal mini-javelins at a board on a wall.
-
-    * E jay/collins//allaboutgroup/org
-    *       * T 0203 651 4919
-
-
-
-  * Georgia Leefe communications 
-
-### Georgia Leefecommunications
-
-The rhetorician, the pug lover, the wearer of purple.
-
-#### Biggest necessity?
-
-Singing in the shower first thing every morning. It releases endorphins. Nina, Ella and Dolly are my girls.
-
-    * E georgia/leefe//allaboutgroup/org
-    *       * T 0203 651 4919
-
-  * Josh Krohn Design 
-
-### Josh Krohn Design
-
-The maker, the mumbler, the all-day grazer.
-
-#### Hidden talent?
-
-The ability to fall asleep anywhere, anytime, any position, in ten minutes or less. Trains, queues, gigs… Sitting, standing… you name it.
-
-    * E josh/krohn//allaboutgroup/org
-    *       * T 0203 651 4919
-
-  * Adam Zapasnik Back-End Development 
-
-### Adam Zapasnik Back-End Development
-
-The problem solver, the chuckler, the eating machine.
-
-#### What’s in your lunchbox?
-
-A mountain of chicken and mashed potato. A cheeky nap. And then another mountain of chicken and mashed potato.
-
-    * E adam/zapasnik//allaboutgroup/org
-    *       * T 0203 651 4919
-
-
-
-
-## Privacy policy
-
-This privacy policy sets out how All About Careers Ltd uses and protects any information that you give to All About Careers Ltd when you use any of the All About Careers Ltd group of websites [[AllAboutCareers.com](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/) or [AllAboutLaw.co.uk](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/) or [AllAboutLLMs.com](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/) or [AllAboutSchoolLeavers.co.uk](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/) or [AllAboutFinanceCareers.com](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/) or [MyCareerSpringboard.org](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/)].
-
-All About Careers Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
-
-All About Careers Ltd may change this policy from time-to-time by updating this page. You should check this page occasionally to ensure that you are happy with any changes. This policy is effective from 20.01.2011 and was updated on 08.10.2012.
-
-If you have any questions please email us at:   
-privacy//allaboutcareers/com
-
-### What we collect...
-
-We may collect the following information:
-
-  * Name and career aspirations;
-  * Contact information, including email address;
-  * Demographic information, such as postcode, preferences and interests;
-  * Other information relevant to customer surveys and/or offers;
-  * Your use of the site, including which pages you visit most frequently, how long you remain on the site and your general site habits;
-  * Other information you choose to input in your profile or other parts of the site.
-
-
-
-### What we do with the information we gather…
-
-We require this information to understand your needs and provide you with a better service. In particular, for the following reasons:
-
-  * Internal record keeping;
-  * We may use the information to improve our products and services;
-  * We may periodically send promotional emails about new products, special offers or other information, which we think you may find interesting using the email address which you have provided;
-  * From time-to-time, we may also use your information to contact you for market research purposes. We may contact you by email, phone or mail. We may use the information to customise the website according to your interests;
-  * We also use this information to allow our advertisers to target particular groups based on particular users’ general trends, i.e. this page, X, is the most popular page for first year law students;
-  * We may sell aggregate information from time-to -time about our users.
-
-
-
-### Security…
+Everybody at AllAboutGroup Holdings Ltd, at the highest management level and throughout the organisation, understands the need for stringent data protection policies and procedures, and we all take responsibility for complying with the GDPR.
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-### Links to other websites…
+We take a data protection by design and default approach, and put appropriate data protection measures in place throughout the entire lifecycle of our processing operations.
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+We are also committed to ensuring that all third party data processors that process personal data on our behalf fully comply with the GDPR. We do not enter into contracts with other data processors unless they can demonstrate the steps they have taken towards compliance.
 
-#### Your account…
+Please note: as the personal data we process is not sensitive or likely to result in high risk to individuals’ interests, it has not been necessary for us to conduct any data protection impact assessments or appoint a data protection officer.
 
-Your profile on any of the All About Careers Ltd group of websites will only be shared with other people that you have opted to share it with, by adding or accepting them as a friend.
+As an organisation, however, we are dedicated to continually reviewing and improving our data protection procedures and accountability measures. If you have any questions relating to data protection and/or our privacy policy, please send us an email at [mydata@allaboutgroup.org](mailto:mydata@allaboutgroup.org)
 
-For all users under the age of 18 the default setting is private.
+**What personal data do we collect?**
 
-People aged under the age of 13 are not permitted to register with any of the All About Careers Ltd group of websites [[AllAboutCareers.com](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/) or [AllAboutLaw.co.uk](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/) or [AllAboutLLMs.com](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/) or [AllAboutFinanceCareers.com](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/) or [AllAboutSchoolLeavers.co.uk](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/) or [MyCareerSpringboard.org](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/)] and should we become aware that any site users under 13 are using the site, we will remove their profile and the personal data that we have collected.
+When you sign up to AllAboutCareers.com, we collect and store the following data:
 
-Any personal information you choose to share on the site is at your own risk. Minors aged 13–17 should seek advice and permission from their parents or guardians before sharing personal information.
+\- Your full name;
 
-#### Controlling your personal information…
+\- Your email address;
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+\- Your password;
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting, if you tell us that you wish this to happen.
+\- Your date of birth;
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 25 Corsham Street, London, N1 6DR.
+\- Your gender (optional);
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to us, or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+\- Your preferred working locations;
 
-## Terms & conditions
+\- Your job preferences (industry);
 
-Welcome to our website! If you continue to browse and use any of our websites you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern All About Careers Ltd’s relationship with you in relation to these websites.
+\- Your education/career stage;
 
-The term ‘All About Careers Ltd’ or ‘us’ or ‘our’ or ‘we’ or AllAboutCareers.com’ or ‘AllAboutLaw.co.uk’ or ‘AllAboutLLMs.com’ or ’AllAboutFinanceCareers.com’ or ‘AllAboutSchoolLeavers.co.uk’ or ‘MyCareerSpringboard.org’ refers to the owner of the websites whose registered office is 170 Shepherdess Walk, London, N1 7JL. Our company registration number is 06527117. The term ‘you’ refers to the user or viewer of our website.
+\- The university, college or school you attend/attended;
 
-### The use of these websites is subject to the following terms of use:
+\- The course you study/studied;
 
-  * The content of the pages of these websites is for your general information and use only. It is subject to change without notice.
-  * Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on these websites for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
-  * Your use of any information or materials on these websites is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through these websites meet your specific requirements.
-  * These websites contain material which is owned by or licensed to us. This material includes, but is not limited to, the design, layout, look, appearance, graphics and written content. Reproduction is prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions.
-  * All trademarks reproduced in these websites, which are not the property of, or licensed to the operator, are acknowledged on the website.
-  * You may not reproduce any part of this site in whole or in part for any reason whatsoever, and such breach will be considered a breach of copyright. Unauthorised use of these websites may give rise to a claim for damages and/or be a criminal offence.
-  * From time-to-time, these websites may also include links to other websites. These links are provided for your convenience to provide further information. They do not signify that we endorse the website(s). We have no responsibility for the content of the linked website(s).
-  * Your use of these websites and any dispute arising out of such use of the website is subject to the laws of England and Wales.
-  * Use of all parts of the site must be civil and tasteful.
-  * No disruptive, offensive or abusive behaviour. If you persist in doing this, action may be taken against your account. Contributions must be constructive and polite, not mean-spirited or contributed with the intention of causing trouble.
-  * Forum posts and other comments within the website must contain no unlawful or objectionable content. Unlawful, harassing, defamatory, abusive, threatening, harmful, obscene, profane, sexually oriented, racially offensive or otherwise objectionable material is not acceptable.
-  * If you use multiple logins for the purpose of disrupting any of the aforementioned websites you may have action taken against your accounts.
-  * No spamming or off-topic material. We don’t allow the submission of the same or very similar contributions many times. Please don't re-submit your questions more than once or contribute off-topic material.
-  * No advertising.
-  * No impersonation.
-  * Deliberate misuse of the forum, blogs, comments, discussions or contact us facility is not permitted. If you persist in doing this, action may be taken against your account.
-  * We will send you regular updates via email. You have the options to opt out of receiving emails from All About Careers Ltd or those we send on behalf of our clients.
-  * We advise that you never reveal any personal information about yourself or anyone else in the forum or on any other public part of the site (for example: telephone number, home address or email address), and please do not include postal addresses of any kind. If you have any helpful information to share that may or may not be deemed confidential, please inform All About Careers Ltd using the 'Contact Us' link, and they will promote it if they see fit.
-  * You may not submit any defamatory or illegal material of any nature on AllAboutCareers.com
-  * Contributing material with the intention of committing or promoting an illegal act is strictly prohibited.
-  * The views expressed on the All About Careers Ltd group of websites from of the public and are not necessarily those of All About Careers Ltd.
+\- The UCAS points you achieved;
 
+\- The degree classification you achieved/are predicted;
 
+\- Your ethnicity (optional);
 
-### If you breach these terms of use…
+\- The languages you speak.
 
-All About Careers Ltd reserves the right to moderate all forum posts or comments that are submitted. If you fail to abide by these rules (and/or any variations in the relevant local house rules) when using AllAboutCareers.com, you will be sent an e-mail which informs you why your contribution has not been accepted. This mail will also include a warning that continuing to break the rules may result in action being taken against your account. This action may include a temporary or permanent suspension of your ability to participate in any or all areas of the All About Careers Ltd group of websites.
+When you use AllAboutCareers.com generally, even as an unregistered user, we may process data on your use of the website, including:
 
-If you post or send offensive or inappropriate content anywhere on or to any of the All About Careers Ltd group of websites or otherwise engage in any disruptive behaviour on the All About Careers Ltd group of websites, and if All About Careers Ltd considers such behaviour to be serious and/or repeated, All About Careers Ltd may use whatever information that is available to it about you to stop any further such infringements.
+\- Which pages you visit;
 
-All About Careers Ltd reserves the right to delete any review, or take action against any account, at any time, for any reason.
+\- The time of your visit;
 
-## Cookie policy
+\- How long you spend on each page;
 
-### How we use cookies...
+\- How long you remain on the website;
 
-A cookie is a small file, which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+\- The method/ by which you were referred to our website, e.g. via Google or social media channel;
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+\- Your general site browsing habits;
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+\- The type of device you used to access the website;
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+\- The type of web browser you used to access the website;
 
-You can find out more about cookies and how to disable them here:
+\- The type of operating system you used to access the website;
 
-[www.aboutcookies.org](http://www.aboutcookies.org/)
+\- Your network location and IP address.
+
+**Our lawful basis for collecting this data**
+
+Before we process any of your personal data, we obtain active, clear consent from you. According to the GDPR, this should be explicit and requires a very clear and specific statement of consent.
+
+When we ask you to opt in or opt out of our Privacy Policy, we provide you with all of the information you need on how and why we process this data.
+
+This is hugely important, as we want to offer all individuals real choice and control when using our websites.
+
+**How do we obtain your consent to process your personal data?**
+
+We have always obtained active consent from the users of our websites, explicitly asking them to allow us to process their data when signing up to receive our advice emails and job alerts.
+
+We have, however, recently updated our sign up and account settings pages, along with our cookie consent modules, to make it even easier for you to control and update how we process your personal data.
+
+These data processing consent requests are separate from our general Terms & Conditions and we always try to make sure these requests are communicated in a clear and concise way. They require you to provide a positive opt-in and we don’t use pre-ticked boxes or any other methods of default consent.
+
+Please note: there are no third party controllers who rely on this consent. All of the information you share with us is solely controlled by AllAboutGroup Holdings Ltd. We do use third party data processors to help us process some of your personal data. A list of these can be found below.
+
+We are committed to ensuring that all of the third party data processors that process personal data on our behalf fully comply with the GDPR. Indeed, we do not enter into contracts with other data processors unless they can demonstrate the steps they have taken towards compliance.
+
+Please note: even if you provide us with consent initially and choose to receive email communications from us, you can remove your consent at a later date and opt out of emails too.
+
+In some cases, you can do this by logging into your account and changing your preferences on your account settings page. Alternatively, you can unsubscribe directly from one of the emails we send you, or just send us an email to make your request at: [mydata@allaboutgroup.org](mailto:mydata@allaboutgroup.org)
+
+We will act on these withdrawals of consent as soon as we can and will not penalise any individuals who wish to withdraw their consent.
+
+As the service we provide is sending out careers advice and job alert emails, we do unfortunately require you to agree to our Privacy Policy in order to receive these emails. Indeed, it is impossible for us to send you these emails without being able to process your personal data. Currently, there is no other benefit to being a registered user of AllAboutCareers.com than receiving these emails.
+
+Please note: we don’t just send generic emails to our registered users. That is why we request for more data from you than just your email address. To make sure you are kept informed and to give you the best chance of securing a job or a place on a course of your choice, we use the other data we process to target really useful, relevant information to you via email.
+
+When you use our website generally, even as an unregistered user, we may place cookies on your browser to log your session, record user traffic via Google Analytics, or for the purposes of remarketing our clients promotional messages to you on other websites once you leave AllAboutCareers.com. We do this via Facebook, Instagram, YouTube or Google adverts.
+
+You can control which cookies we place on your browser via our cookie control module. This allows you to accept some cookies and reject others.
+
+**Age restrictions**
+
+You must be aged 13 or older to register with AllAboutCareers.com. We will ask you to verify your age when completing the sign up form, and this is why we ask for your date of birth.
+
+Should we become aware that any site users under 13 are using the site, we will remove their profile and the personal data that we have collected.
+
+Any personal information you choose to share on the site is at your own risk, but if you are concerned at all, and are aged between 13 and 17, we recommend that you seek advice from your parents or guardians before deciding to share your personal data with us.
+
+**Why do we collect this personal data and what do we do with it?**
+
+We require your personal data to understand your needs and provide you with a better service. In particular, for the following reasons:
+
+\- We may use the information to improve our products and services.
+
+\- We may periodically send promotional emails to you containing careers advice and information about job opportunities, courses, new products, special offers, or other information that we think you may find interesting or useful in your search for employment. We will only use the email(s) you have provided and only if you give us consent to email you.
+
+\- From time-to-time, we may also use your information to contact you for market research purposes. We will contact you by email.
+
+\- We may use the information to customise the website according to your interests.
+
+We also use this information to allow our clients to target particular groups with their promotional messages, based on particular users’ general trends, i.e. this page, X, is the most popular page for sixth form students. Please note: our clients will never contact you directly, and we will not share your contact details with them. All of the messages you receive will come from us on behalf of other organisations.
+
+We may also sell aggregate information from time-to-time about our users, i.e not personal data specific to an individual user, but data about our user group as a whole.
+
+Your personal data will only be shared with other people that you have opted to share it with, i.e. your teachers or parents.
+
+Please note: we do not transfer your personal data to any third countries or international organisations, and we do not process personal data for the purposes of automated individual decision making or profiling.
+
+**Reasons for processing - breakdown by data category**
+
+We collect and store the following data for specific reasons. Here’s a breakdown for you:
+
+\- **Your full name** \- we’re a friendly bunch and like to address our users by name where possible. This allows us to personalise your Account Settings page and the emails that we send you.
+
+\- **Your email address** \- we can’t send you useful emails unless you give us your email address. If you decide to opt out of receiving emails, your email address still acts as your username, so that you can login and update your preferences. It’s also vital that we have this if you forget your password and need to reset it.
+
+\- **Your password** \- security is incredibly important and you will need a password to access your account and update your settings. Your password is fully encrypted in our database, so nobody else should be able to access your account and your personal data.
+
+\- **Your gender (optional)** \- some of the employers we work with take part in initiatives to widen access to their profession, particularly for people from under-represented backgrounds. We ask this question to allow employers to reach people of particular genders with their marketing messages. Please note: it is not necessary for you to disclose your gender if you’d prefer not to say.
+
+\- **Your date of birth** \- you must be aged 13 or over to register with AllAboutCareers.com. We require this information so that we can verify your age. Some job or course opportunities may also only be open to people of a certain age, so this allows us to target information to relevant user groups.
+
+\- **Your preferred working locations** \- some of the employers and course providers that advertise with us may look to target their promotional messages to users looking to work in specific locations;
+
+\- **Your job preferences (industry)** \- some of the employers and course providers that advertise with us may look to target their promotional messages to users interested in specific industries;
+
+\- **Your education/career stage** \- some of the employers and course providers that advertise with us may look to target their promotional messages to users at a specific stage of their career.
+
+\- **The university, college or school you attend/attended** \- some of the employers and course providers that advertise with us may look to target their promotional messages to users from specific universities, colleges or schools;
+
+\- **The course you study/studied** \- some of the employers and course providers that advertise with us may look to specifically target their promotional messages to users who have studied specific courses.
+
+\- **The UCAS points you achieved** \- Some job or course opportunities may only be open to people with a certain number of UCAS points or higher. This data allows us to target information to relevant user groups and allows us to handle your expectations more effectively.
+
+\- **The degree classification you achieved/are predicted** \- Some job or course opportunities may only be open to people with a certain degree classification or higher. This data allows us to target information to relevant user groups and allows us to handle your expectations more effectively.
+
+\- **Your ethnicity (optional)** \- some of the employers we work with take part in initiatives to widen access to their profession, particularly for people from under-represented backgrounds. We ask this question to allow employers to reach people of particular ethnicities with their marketing messages. Please note: it is not necessary for you to disclose your ethnicity if you’d prefer not to say.
+
+\- **The languages you speak** \- some of the employers and course providers that advertise with us may look to specifically target their promotional messages to users who speak particular languages.
+
+We use the following information to improve our products and services, customise the website according to your interests:
+
+\- Which pages you visit;
+
+\- The time of your visit;
+
+\- How long you spend on each page;
+
+\- How long you remain on the website;
+
+\- The method/ by which you were referred to our website, e.g. via Google or social media channel;
+
+\- Your general site browsing habits;
+
+\- The type of device you used to access the website;
+
+\- The type of web browser you used to access the website;
+
+\- The type of operating system you used to access the website;
+
+\- Your network location and IP address.
+
+We may use the following data for purposes of remarketing our clients promotional messages to you on other websites once you leave AllAboutCareers.com. We do this via Facebook, Instagram, YouTube or Google adverts:
+
+\- Which pages you visit;
+
+\- Your network location and IP address.
+
+**Where is this personal data stored?**
+
+All of the data you give us consent to process when you sign up to AllAboutCareers.com is securely stored on our dedicated server which is managed by TSOHost at their privately owned UK Data Centre.
+
+It is a Tier 3+ 2N UK Data Centre which uses the latest technology to deliver the highest reliability, security and performance.
+
+Security is a top priority at the Data Centre. 3m perimeter fencing, 25+ CCTV cameras, 24x7 personnel and electronic access control systems safeguard the data hall from unauthorised access.
+
+All of the data you give us consent to use by opting into cookies on your browser is processed by Google Analytics or DoubleClick for Publishers (Google). We also use the Facebook tracking pixel and Google remarketing tracking pixel to serve remarketing adverts.
+
+**3rd party data processors we may use to help process your data**
+
+Here is a list of the 3rd party data processors we may use to store or process your personal data:
+
+\- Leadpages
+
+\- Google Analytics
+
+\- DoubleClick for Publishers (Google)
+
+\- Eventbrite
+
+\- Sprout Social
+
+\- Survey Monkey
+
+\- Mailchimp
+
+\- TSOHost
+
+\- Heart Internet
+
+We are committed to ensuring that all of the above third party data processors that process personal data on our behalf are fully compliant with the GDPR.
+
+We do not enter into contracts with other data processors unless they can demonstrate the steps they have taken towards compliance.
+
+**Security measures and procedures**
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have analysed the risks presented by our processing and have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+AllAboutCareers.com has an SSL Certificate installed. This means when you are browsing on our website a secure connection will be established, and the connection between your browser and our server will be secure. You can see that our SSL Certificate is working correctly because a padlock or green bar will show in the address bar in your browser, depending on which one you use.
+
+This is a method of cryptography and encrypts the data that is sent from your browser to our server. This means that if a hacker was to intercept that message, they will only be able to see a cryptographic code that it is impossible for them to break. Only the intended recipient of this data (i.e. our secure server) will be able to understand and process it.
+
+You can access and update your own personal data via the Account Settings page once you have logged in. You can only access this data by entering your password. This password is encrypted within our database.
+
+We regularly review our information security policies and measures and improve them where necessary. We also conduct regular testing and reviews of our measures to ensure they remain effective. We also make sure that any data processors we use implement appropriate technical measures.
+
+**How long do we retain your data?**
+
+The GDPR states that personal data should be stored for no longer than is necessary for the purposes for which the personal data is processed. With that in mind, we only store personal data on our users for a maximum of five years from the date on which they register, unless they request otherwise.
+
+As the majority of our users register as school students, school leavers, undergraduates or graduates, we feel that five years is a legitimate amount of time for those individuals to still be deemed an active job seeker in the early careers market.
+
+We prompt all registered users on an annual basis to update their data processing preferences, so if you would like us to store and process your data for longer than this five years, it is advisable for you to update your consent preferences when prompted.
+
+**Data breach policy and procedure**
+
+Since we started our company, we have never suffered any data breaches or attacks on our system. This is because we are fully committed to securing your personal data. We make sure that we constantly review and update our security practices where necessary.
+
+In the event that our is database subject to a data breach, however, we have a data breach policy and procedure in place to help mitigate against impact this may have on your personal security.
+
+We have prepared a response plan for addressing any personal data breaches and have put a data breach procedure in place. All members of our staff are educated about this procedure and are given access to the guidance and resources required to notify our Head of Operations if they suspect that a data breach has occurred.
+
+If it is ascertained that a data breach has, in fact, taken place, we have outlined a process to assess the likely risk to individuals as a result of the breach.
+
+We will then notify the ICO of a breach within 72 hours and the individuals affected without undue delay. We will also provide any affected individuals with advice on how to protect themselves from its effects.
+
+**Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information, which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Your rights as a data subject & controlling your personal data**
+
+Once you have registered as a member of AllAboutCareers.com, you are entitled to:
+
+\- Access the data we hold on you;
+
+\- Rectify the data we hold on you if you believe it to be incorrect;
+
+\- Request that the data we hold on you be erased;
+
+\- Request that we restrict the processing of the data we hold on you;
+
+\- Obtain and reuse the data we hold on you for different services;
+
+\- Object to the use of your data for direct marketing.
+
+To exercise your rights and request any of the above, please email [mydata@allaboutgroup.org](mailto:mydata@allaboutgroup.org), or write to us at AllAboutGroup, 25 Corsham Street, London, N1 6DR
+
+We will not charge you to request any of the above, unless the request is deemed to be excessive. In the unlikely event of this happening, we may charge you a small fee to cover the costs of this excessive request.
+
+If you have any concerns about this Privacy Policy or how we handle your personal data, you have the right to lodge a complaint to the GDPR’s supervisory authority in the UK.
