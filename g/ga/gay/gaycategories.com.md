@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaycategories.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502221958id_/http%3A//gaycategories.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaycategories.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102002052id_/http%3A//gaycategories.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
