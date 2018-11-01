@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardenia.net privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628113805id_/https%3A//www.gardenia.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardenia.net privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101141806id_/https%3A//www.gardenia.net/privacy) for the most accurate reproduction.*
 
 # Privacy
 
