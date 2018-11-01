@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbsandoilsworld.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625025118id_/http%3A//www.herbsandoilsworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbsandoilsworld.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101173155id_/http%3A//www.herbsandoilsworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
