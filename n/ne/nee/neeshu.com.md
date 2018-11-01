@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neeshu.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503091440id_/http%3A//neeshu.com/privacy-policy-for-neeshu-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neeshu.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101200534id_/http%3A//neeshu.com/privacy-policy-for-neeshu-com) for the most accurate reproduction.*
 
 # Privacy Policy - Neeshu.com News Reviews Health & Comics blog
 
@@ -62,5 +62,3 @@ If we decide to change our privacy policy, we will post those changes on this pa
 http://neeshu.com
 
 This policy is powered by Free Privacy Policy and Rhino Support [service desk software](http://www.rhinosupport.com/service-desk-software.htm)
-
-[](http://www.nurseryrhymes.me/)
