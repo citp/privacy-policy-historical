@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedmantra.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624013151id_/http%3A//www.wedmantra.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedmantra.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101103915id_/http%3A//www.wedmantra.com/privacy.php) for the most accurate reproduction.*
 
 # wedmantra.com -Privacy Policy
 
