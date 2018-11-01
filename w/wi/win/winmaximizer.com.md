@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winmaximizer.com privacy policy that was archived on 2018-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180119174020id_/http%3A//www.winmaximizer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winmaximizer.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101104716id_/http%3A//www.winmaximizer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - WinMaximizer
 
