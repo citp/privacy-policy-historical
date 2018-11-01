@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the molbase.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620060010id_/http%3A//www.molbase.com/en/about.html%3Faid%3D300) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the molbase.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101024638id_/https%3A//www.molbase.com/help/281/4053) for the most accurate reproduction.*
 
-# Privacy Policy_Molbase
+# MOLBASE | Feedback
 
 On http://www.molbase.com (from now on, will be referred as molbase.com), visitor privacy is of our serious concern. This privacy policy page describes what kind of personal information may be received and collected by molbase.com and how the information will be used.
 
@@ -14,7 +14,7 @@ We collect all the business contact data sent through emails or web forms on mol
 
  **Information Usage**
 
-We will only use your personally identifiable information as described below, unless you have specifically consented to another type of use, either at the time the personally identifiable informationis collected from you or through some other form of consent from you:
+We will only use your personally identifiable information as described below, unless you have specifically consented to another type of use, either at the time the personally identifiable informationis collected from you or through some other form of consent from you:
 
 1.We will use personally identifiable information to complete any orders you have placed.
 
