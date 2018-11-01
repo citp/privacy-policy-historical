@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shadowtale.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123200008id_/http%3A//www.shadowtale.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadowtale.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101224349id_/http%3A//www.shadowtale.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Shadowtale: Privacy Policy
 
