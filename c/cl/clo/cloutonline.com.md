@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloutonline.com privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428020656id_/http%3A//www.cloutonline.com/clout/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloutonline.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101203919id_/http%3A//www.cloutonline.com/clout/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – CLOUT MAGAZINE
 
