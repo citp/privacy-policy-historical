@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trips-shop.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502210625id_/http%3A//trips-shop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trips-shop.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101175957id_/http%3A//trips-shop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Flight Deals and Price Comparison from Hundreds of Airlines
 
@@ -10,7 +10,19 @@ The website at TripsShop, (“our site”) and any other TripsShop services whic
 
 If you have questions about this policy please contact us via our Feedback page or by post (marked for the attention of the Customer Services Manager) at the address given above.
 
-Information that we may collect from you
+**Partners that may collect information about you:**
+
+**-Intent Media.** We offer personalized shopping experiences and advertising through Intent Media, which uses online identifiers to identify visitors. To view Intent Media’s privacy policy, click [here](https://mailtrack.io/trace/link/a6112f5c2c96f0b6fd3695724c4e06fd4e94ada1?url=http%3A%2F%2Fintentmedia.com%2Fprivacy-policy%2F&userId=790856&signature=e5a9cf9b9fb9e06b). To opt out, click [here](https://mailtrack.io/trace/link/5e9c2af1d025cff9f14ad8714fd515b6dddf9891?url=http%3A%2F%2Fintentmedia.com%2Fopt-out%2F&userId=790856&signature=383aafcfa9766b4c).
+
+**-BookingBuddy.** Through collecting data on TheFlightFinder, BookingBuddy is able to offer personalized online experiences and deal. To view BookingBuddy’s privacy policy, click [here.](http://www.bookingbuddy.com/en-US/legal/)
+
+– **Google Adsense** , as a third party vendor, uses cookies to serve ads on TheFlightFinder.  
+Google’s use of the DART cookie enables it to serve ads to users based on their visit to TheFlightFinder and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/ads/preferences/>
+
+**-Google Analytics.**   _Information Collected Through Web Analytics_. TripsShop uses a Web analytics company to track and generate reports on visitor use of our site. We use the Web analytics company to analyze visitor activity so that we may better understand how visitors make use of TripsShop, and so that we may better tailor content to meet our visitors’ needs. This data may include anonymized, individual visitor click behavior. No personally identifiable information is obtained or shared with the Web analytics company. Although our Web analytics company logs the information coming from TripsShop on our behalf, we control how that data may and may not be used. Visitors who wish to learn more or opt-out, can do so [here](https://support.google.com/analytics/topic/2919631?hl=en&ref_topic=1008008).
+
+**Information that we may collect from you**
 
 We may collect and process the following data about you, including:
 
