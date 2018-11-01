@@ -1,19 +1,47 @@
-> *The following text is extracted and transformed from the adswizz.com privacy policy that was archived on 2018-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180301001608id_/https%3A//www.adswizz.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adswizz.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101140818id_/https%3A//www.adswizz.com/our-privacy-policy) for the most accurate reproduction.*
 
-# Adswizz
+# Privacy Policy - www.adswizz.com
 
-##### **Privacy Policy:**
+**How do we use this information?**
 
-AdsWizz Inc. (“AdsWizz,” “we”, or “us”) is an audio and video ad serving tech company. We enable online radio and video publishers and advertisers to get to know their audience by providing precise session-based measurements. Our customers use our solutions to deliver relevant online advertisements into their streams.
+We process the data to find elements that will help us determine which products/services could be relevant to you and to improve the quality of the ads you’ll be served. For example, we may use the geo-location data to determine potential likelihood to listen to an ad or we may use the data collected to prevent the same ads to be served to you repeatedly.
 
-The following sets forth the privacy practices and policy (“Privacy Policy”) related to the business we operate. It covers all data on website visitors/listeners that we collect for the purpose of delivering and enhancing our services. We are committed to protecting consumer privacy by informing you of what information we collect, how we use it, and with whom we may share it. We adhere to the Privacy Principles adopted by the Interactive Advertising Bureau (IAB).
+We also use the information we collect to maintain, improve and develop new services. We finally deliver a list of anonymous user identifiers and produce reports and analytics for our business partners.
 
-##### What information do we collect to perform our services?
+**Disclosure of information**
 
-We collect or receive data from our customers (publishers/advertisers) in order to learn about the ads you might be interested in. This data includes but is not limited to browser identifier, wireless carrier, IP address, device type (website player, smartphone apps, media player, etc.) and browsing information. We may collect information about your mobile device, including, for example, the hardware model, operating system and version, type of mobile browser, software and file names, versions, preferred language, advertising identifiers, device motion and accelerometer information, real-time location (based on information provided by your device OS), and mobile network information.
+We share anonymous user identifiers and aggregated information with established third party publishers/advertisers such as the number of users who visited a publisher site, or the number of users who listened to a particular ad, strictly for serving advertisements. For those of you in the EEA, personal data, as defined by GDPR, may be shared with data sub-processors if instructed and permitted to do so by the data controller. Accordingly, this information may be shared with: demand-side platforms, data management platforms, ad networks, and analytics platforms.
 
-We receive information about consumers from third parties to enable targeted advertising on the website(s) and application(s) that we support. The collection and use of that data is governed by the privacy policy and legal terms of the data collector and the website using the data; it is not governed by AdsWizz.
+We may share information with companies, organizations or individuals outside of AdsWizz if we have a good-faith belief that we are obligated to do so by law or as necessary to protect ourselves or others.
 
-We also measure the exposure to online advertising campaign: number of impressions, number of clicks, numbers of users exposed, percentage of ad content played. We retain information on the ads that we served to you on a website and we reuse that information to deliver new ads when you visit another website on which we may also serve ads. We collect information such as your reaction to the ad (skip the ad, click on the ad) for statistical reporting purposes or to limit serving you additional ads.
+We may allow others to provide audience measurement and analytics services for us, to serve advertisements on our behalf across the Internet, and to track and report on the performance of those advertisements. These entities may use their own cookies, web beacons, SDKs, and other technologies to identify your device when you visit our site and use our Services, as well as when you visit other online sites and services.
 
-Furthermore, we collect and use only non-PII that does not directly or in combination with other information identify you as an individual. We may also obtain non-PII from third party data vendors that receive such non-PII pursuant to their own privacy policies. We do not collect PII via our advertising technology. None of the information we collect to provide our services is meant to be traced back to a specific individual.
+We may transfer information in our possession to a successor entity in connection with a corporate change in control such as a merger or acquisition or the sale of company assets.
+
+Lastly, if you are located in the EEA, these data transfers may occur outside the EEA. If such data transfer is outside the EEA, we will ensure that the necessary contractual clauses ensuring privacy protections are in place, such as the EU Model Clauses or equivalent.
+
+**Other Websites**
+
+Through our services, we may link to other websites operated by other companies. This Privacy Policy does not apply to these linked websites. Each website should be checked for its own privacy policy.
+
+We do not exercise control over the manner in which our business partners label their custom data segments, but as applicable, we encourage our business partners to adhere to self-regulatory codes offered by the Network Advertising Initiative (NAI), Digital Advertising Alliance (DAA), and/or certain other industry standards.
+
+**Data security**
+
+We take all reasonable measures to protect the information we collect and store. All data is stored in a secure facility and we strictly control access to the data.
+
+**Changes to This Policy**
+
+AdsWizz reviews its privacy practices from time to time. If we decide to change our Privacy Policy, we will post those changes here so our users are always aware of what information we collect, how we use it, and, if any, what circumstances it may be disclosed. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+**Changing or deleting personal information**
+
+When you simply visit our Website, wedonot collect personal data about you – other than data needed for the purpose of establishing an internet connection with our website. However, should you leave a message through the “contact us” feature or email us through an email address provided here, we would have stored and collected in our system the email address you provided. If you would like to have this personal identifiable information removed from our Website’s database, please contact privacy@adswizz.com.
+
+For consumers based in the EEA, as a user of some on-line radio services, music services, on-line podcasts services, you may enjoy the services of companies that collect your data, data controllers under GDPR. For instance, you may have registered and left your email address or IP address with an on-line music service provider and you are fully entitled to require these data controllers to NOT use your data. Under GDPR, such companies should’ve gathered your consent prior to using your data – unless they invoked some legitimate interests to do so.  In order to make changes, delete this personal information and exercise your rights, we suggest you to contact or read the privacy notices of the on-line services you use.
+
+Some on-line radio services and/or on-line music services and/or on-line podcasts services may decide to use some AdsWizz products in order to manage the delivery of advertisements into their audio/video contents. In such case, those on-line services request AdsWizz to process your data on their behalf. When you want to exercise your right for your data not to be used, you should contact the data controller you have provided your data to, e.g. the on-line music service you use. The music service in question will do whatever is required under the law, which may include contacting all the data processors it contracts with in order to require them to not use/erase your data IF, and only IF, they happen to have your data.
+
+**Questions or Comments**
+
+If you have questions or comments regarding our Privacy Policy, please contact us at contact.us@adswizz.com
