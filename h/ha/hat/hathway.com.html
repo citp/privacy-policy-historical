@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hathway.com privacy policy that was archived on 2018-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180623235733id_/http%3A//www.hathway.com/Home/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hathway.com privacy policy that was archived on 2018-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181101092529id_/http%3A//www.hathway.com/Home/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     
@@ -8,7 +8,7 @@
 PrivacyPolicy    </title>
 
     
- <link href="/Styles/Layout?v=_lSyTI4z882pnUrN1Jk574ixi151S5uHmhEqaSuffc01" rel="stylesheet">
+ <link href="/Styles/Layout?v=vjHCmRv5RFJjme3y4QUthInEUoRueMl1XXaXpqb0irY1" rel="stylesheet">
 
     <link href="/assets/css/font.css" rel="stylesheet">
 
@@ -51,7 +51,7 @@ PrivacyPolicy    </title>
                     Login
  <div class="loginpanel_head">
                    <div class="header_login"><a href="http://selfcare.hathway.com/" target="_blank">Digital TV</a></div>
-                       <div class="header_login"><a href="https://isp.hathway.net:7404/selfcare/index.php?r=login/bb" target="_blank">Broadband</a></div>
+                       <div class="header_login"><a href="https://ispselfcare.hathway.net/" target="_blank">Broadband</a></div>
                    
                </div>
                 </div>
@@ -97,7 +97,7 @@ PrivacyPolicy    </title>
                                 
                                 <option value="RAJASTHAN">RAJASTHAN</option>
                                 
-                                
+                                <option value="TAMIL NADU">TAMIL NADU</option>
                                 <option value="TELANGANA">TELANGANA</option>
                                 
                                 <option value="WEST BENGAL">WEST BENGAL</option>
@@ -135,6 +135,13 @@ PrivacyPolicy    </title>
                             <li><a href="/Broadband/BusinessBroadband">Business Broadband</a> </li>
                             
 			    <li class="qp"><a target="_blank" style="cursor: pointer;" onclick="javascript:RedirectFrom('quickrecharge')">Quick Pay</a></li>
+                        </ul>
+                    </li>
+  <li>
+                        <a>Internet Leased Line </a>
+                        <ul>
+                            <li><a href="/Broadband/ILL">ILL</a> </li>
+                            <li class="qp"><a target="_blank" style="cursor: pointer;" href="https://isp.hathway.net:7404/selfcare/index.php?r=qp/enterdetails">Quick Pay</a></li>
                         </ul>
                     </li>
                     <li><a href="/About/InvestorRelations">Investor Relations</a>
@@ -226,7 +233,7 @@ the Hathway website will be deemed an acceptance of the privacy policy existing 
                         <div id="broadband1" class="bd1">
                             <img src="/assets/img/home/broadband.png">
                             
-			    <a target="_blank" style="cursor:pointer" onclick="javascript:RedirectFrom('quickrecharge')">Broadband</a>
+			     <a target="_blank" href="https://isp.hathway.net:7404/selfcare/index.php?r=qp/enterdetails">Broadband</a>
 			    
                         </div>
                     </div>
@@ -384,8 +391,8 @@ the Hathway website will be deemed an acceptance of the privacy policy existing 
 Email id: morais.rodney@hathway.net
                     </div>
                     <div class="query_right">
-                        Broadband: Ms. Delia Dsouza<br>
-Email id: delia.dsouza@hcspl.net
+                                                Broadband<br>
+Email id: support@hathway.net
                     </div>
                 </div>
             </div>
@@ -423,6 +430,18 @@ Email id: delia.dsouza@hcspl.net
             </div>
         </div>
     </div>
+
+    <div id="notification_box_home">
+        <div class="notification_servicepopup">
+            <div class="notification_close">
+                <img src="/assets/img/closebox.png">
+            </div>
+            <div id="city_select" class="notification_input">
+                <h4>Due to maintenance activity on 21st August 2018 11:30 pm - 22nd August 2018 08:30 am, online Digital Cable TV and Broadband Services will be unavailable. Sorry for the inconvenience caused.</h4>
+            </div>
+        </div>
+    </div>
+
     <script type="text/javascript">
         $("#chqblack_box_home").hide();
 
@@ -586,7 +605,7 @@ Email id: delia.dsouza@hcspl.net
                 $("[name='hdnMasterCity']").val($("#ddlMasterOperator option:selected").val());
             } else {
                 //$('#locationButton').trigger("mouseup");
-                $('#locationBox').slideDown();
+                //$('#locationBox').slideDown();
             }
 
             $("[id$='backgroundPopup']").css("display", "none");
@@ -683,6 +702,14 @@ Email id: delia.dsouza@hcspl.net
                     flag4 = false;
                 }
             });
+
+            //setTimeout(function () {
+            //    $("#notification_box_home").fadeIn();
+            //}, 100);
+
+            //$(".notification_close").click(function () {
+            //    $("#notification_box_home").fadeOut();
+            //});
 
             $("body,html").click(function (event) {
                 var abc = event.target;
@@ -913,7 +940,7 @@ Email id: delia.dsouza@hcspl.net
 
             var eventName = "Home";
             var headendName = "Hathway" + opName;
-            var sessionId = "bwiscnqbgh1ncybafprtyvob";
+            var sessionId = "j2scovs33wzdw3m4zekwyq2c";
             var subPage = "";
 
             if (pageLink.toLowerCase().match("/aboutus$") || pageLink.toLowerCase().match("/aboutus/$"))
