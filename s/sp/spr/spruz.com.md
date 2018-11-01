@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the spruz.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503102824id_/http%3A//www.spruz.com/%3Fpage%3Dcsm%26cmd%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spruz.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101182703id_/http%3A//www.spruz.com/%3Fpage%3Dcsm%26cmd%3Dprivacy) for the most accurate reproduction.*
 
 # Spruz
 
 **PRIVACY POLICY - COMMITMENT TO YOUR PRIVACY**
 
-##### Last Updated: May 1, 2018
+##### Last Updated: May 24, 2018
 
 Spruz  ("Spruz", "we", "us") is powered by the Spruz Social Website Platform that provides a set of services that enable users to to create their own websites as part of the [Spruz Website Network](http://www.spruz.com/) ("Network"). Spruz is not involved in the management of websites as part of the Network and is not involved in the decisions related to the focus of websites or the content uploaded or published to websites using the Spruz Platform. Users that create websites are responsible for managing them in all respects in compliance with our Terms of Service.
 
@@ -64,7 +64,7 @@ If you are a visitor, user or customer of any of our Users, please read the foll
 
 **Cookies**
 
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided and controls our ability to provide member exclusive access to the site. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Spruz uses cookies to track user traffic patterns and to better understand how you interface with the Service.
+We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided and controls our ability to provide member exclusive access to the site. Many browsers have an option for disabling cookies, which may prevent your browser from accepting new cookies or enable selective use of cookies. Please note that, if you choose not to accept cookies, some features of our Services may no longer work for you. 
 
 **Security**
 
@@ -97,6 +97,14 @@ Spruz may share information about you as follows:
 
 
 
+
+**Legal Basis for Processing Personal Information**
+
+Our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it. However, we will normally collect personal information from you only (i) where we need the personal information to perform a contract with you; (ii) where the processing is in our legitimate interests and not overridden by your rights; or (iii) where we have your consent to do so. We have a legitimate interest in operating our Services and communicating with you as necessary to provide these Services, for example when responding to your queries, improving our platform, undertaking marketing, or for the purposes of detecting or preventing illegal activities.
+
+In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person.
+
+If we ask you to provide personal information to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information).
 
 **International Data Transfers**
 
