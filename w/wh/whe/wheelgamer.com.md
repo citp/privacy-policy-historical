@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wheelgamer.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623013105id_/http%3A//www.wheelgamer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheelgamer.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101061037id_/http%3A//www.wheelgamer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
