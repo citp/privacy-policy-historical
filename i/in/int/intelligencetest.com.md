@@ -1,63 +1,129 @@
-> *The following text is extracted and transformed from the intelligencetest.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515084434id_/https%3A//www.intelligencetest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelligencetest.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101054244id_/https%3A//www.intelligencetest.com/privacy.html) for the most accurate reproduction.*
 
 # IQ Test Labs - Privacy policy
 
-IQ Test Labs (http://www.intelligencetest.com) has created this privacy statement in order to demonstrate our firm commitment to privacy.
+[IQ Test Labs](https://www.intelligencetest.com/) created this privacy statement in order to demonstrate a firm commitment to privacy.
 
-Contact form
-
-This form requires users to provide contact information and is used to reply to user questions. Users are not opted into receiving future mailings by using this form, in any circumstance.
+The following discloses data collection practices and user choices for privacy management.
 
 * * *
 
-Questionnaire
+User information
 
-Our site's test registration form asks users to give us contact information (like their name and email address). This information is optional. We use contact information from the registration form to send users their test results. Users may also opt-in to receive the IQ Test Labs newsletter, using this form.
+Questionnaire: All user input is optional.
 
-Therefore, the user's contact information will be used for the following purposes only:
+  * __
 
-(a) To send users their test results and account information.
+Name, email, age, gender, country. Users are given the option to receive their test results via email.
 
-(b) To send users the IQ Test Labs newsletter if they have specifically opted in to receive it.
+  * __
+
+Surveys that record random preferences such as snack preference, or choice of clothing. The results of completed surveys are posted on the IQ Test Labs site, and correlate IQ with personality preferences.
+
+
+
+
+User data is used in aggregated form for the sole purpose of standardizing test scores.
+
+User data is stored for the standardization and validity of test scores.
+
+* * *
+
+Contact form
+
+The [contact form](https://web.archive.org/web/20181101054244id_/https%3A//www.intelligencetest.com/cntct.html) requires users to provide the following contact information: name and email address.
+
+The function of the contact form is to:
+
+  * __
+
+Address user questions.
+
+  * __
+
+Honor newsletter opt-out requests.
+
+  * __
+
+Honor requests to update, correct, or delete user account information.
+
+
+
 
 * * *
 
 Newsletter
 
-Our site's newsletter subscription form requires users to give us contact information (like their name and email address), in order to receive the IQ Test Labs newsletter. IQ Test Labs makes use of a double confirmation method for our newsletter subscription.
+The newsletter form requires subscribers to provide their name and email address.
 
-Therefore, the user's contact information will be used for the following purposes only:
+Subscribers are added to the newsletter list only after a confirmed opt-in process:
 
-(a) To send users the IQ Test Labs newsletter.
+  * __
+
+A confirmation message is sent to the subscriber.
+
+  * __
+
+This message contains an individualized link that the subscriber must click on in order to confirm they want to receive the IQ Test Labs newsletter.
+
+  * __
+
+After clicking on the link, the subscriber completes the sign up process and starts receiving newsletters.
+
+  * __
+
+If the subscriber does not click on the link in the confirmation message, they will not become active on the list.
+
+
+
 
 * * *
 
-Demographic information and third parties
+Newsletter opt-out
 
-IQ Test Labs will never sell or give emails or any contact information or demographical information to third parties.
+IQ Test Labs provides users the opportunity to opt-out of receiving communications in two ways.
+
+  * __
+
+Each newsletter communication provides instructions on how to opt-out.
+
+  * __
+
+Via the[contact form](https://web.archive.org/web/20181101054244id_/https%3A//www.intelligencetest.com/cntct.html).
+
+
+
 
 * * *
 
 External links
 
-This site contains links to other sites. IQ Test Labs is not responsible for the privacy practices or the content of such web sites.
+IQ Test Labs contains links to other sites.
+
+IQ Test Labs is not responsible for the privacy practices or the content of such sites.
 
 * * *
 
-Advertising cookies
+Advertising
 
-Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to this website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to users based on their visit to this site and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings.
+IQ Test Labs aims to provide transparency about the data shared with advertisers.
 
-* * *
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website or other websites.
 
-Opt-Out
+Here is general [information](https://policies.google.com/technologies/partner-sites) on how Google uses information from sites that use Google services
 
-Our site provides users the opportunity to opt-out of receiving communications from us. This can be achieved by following the instructions to opt-out which are placed in the IQ Test Labs newsletter. If users have opted-in to receive the IQ Test Labs newsletter but would like to opt-out before receiving it please use this contact [form](https://web.archive.org/web/20180515084434id_/https%3A//www.intelligencetest.com/cntct.html).
+Google's use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+
+Users may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads).
+
+Alternatively, users can opt out of a third-party vendor's use of cookies for personalized advertising by visiting [aboutads.info](https://web.archive.org/web/20181101054244id_/https%3A//www.intelligencetest.com/www.aboutads.info).
+
+Google will show all users in the EEA only non-personalized ads. Non-personalized ads are targeted using contextual information rather than the past behavior of a user. Although these ads don’t use cookies for ads personalization, they do use cookies to allow for frequency capping, aggregated ad reporting, and to combat fraud and abuse.
 
 * * *
 
 Correct/Update
 
-This site gives users the option for changing and modifying information previously provided. Use this contact [form](https://web.archive.org/web/20180515084434id_/https%3A//www.intelligencetest.com/cntct.html) if you wish to change any of the information which you have previously given us.
+This site gives users the option to [update, correct, or delete](https://web.archive.org/web/20181101054244id_/https%3A//www.intelligencetest.com/cntct.html) information previously provided.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can use this contact [form](https://web.archive.org/web/20180515084434id_/https%3A//www.intelligencetest.com/cntct.html).
+* * *
