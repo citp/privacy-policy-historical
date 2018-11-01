@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shutterflyinc.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627025551id_/https%3A//www.shutterflyinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterflyinc.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101011315id_/https%3A//www.shutterflyinc.com/privacy) for the most accurate reproduction.*
 
 # Shutterfly, Inc. Online Privacy and Security | Shutterfly, Inc
 
@@ -111,7 +111,7 @@ ANY DISPUTE RESOLUTION PROCEEDINGS, WHETHER IN ARBITRATION OR COURT, WILL BE CON
 
 ## 12\. Questions and Suggestions
 
-If you have questions about this Privacy Policy, you can contact us through the [Contact Us](https://web.archive.org/web/20180627025551id_/https://www.shutterflyinc.com/privacy/contact.html) page of any of our brands.
+If you have questions about this Privacy Policy, you can contact us through the [Contact Us](https://www.shutterflyinc.com/contact/) page of any of our brands.
 
 ## 13\. Updates to Privacy Policy
 
