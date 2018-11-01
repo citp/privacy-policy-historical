@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the innerbody.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107112316id_/http%3A//www.innerbody.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innerbody.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101103244id_/http%3A//www.innerbody.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | InnerBody
 
-****We are committed to protecting your privacy when you visit InnerBody.com (the “Website”), so we want you to know what information we collect during your visits, how we use it, and how you can update and control the use of that information. We reserve the right to amend or otherwise modify this Privacy Policy at any time, so please re-visit this page occasionally to check for updates.
+We are committed to protecting your privacy when you visit InnerBody.com (the “Website”), so we want you to know what information we collect during your visits, how we use it, and how you can update and control the use of that information. We reserve the right to amend or otherwise modify this Privacy Policy at any time, so please re-visit this page occasionally to check for updates.
 
   1. What Information We Collect
   2. Information Collected Automatically
@@ -17,7 +17,6 @@
   11. Business Transitions
   12. Changes in this Privacy Policy
   13. Definitions
-  14. [Contact us](http://www.innerbody.com/htm/aboutsite.html#contact)
 
 
   1. **Information We Collect**
@@ -130,11 +129,11 @@ We reserve the right to modify this Privacy Policy at any time, so please review
 
 
 
-**_IP (Internet Protocol) Address_**  
+**_IP (Internet Protocol) Address_**   
 This is the address of a computer attached to a TCP/IP network. Every client and server station must have a unique IP address. Client workstations have either a permanent address or one that is dynamically assigned for each dial-up session. IP addresses are written as four sets of numbers separated by periods; for example, 204.171.64.2.
 
-**_Browser Session_**  
+**_Browser Session_**   
 A browser session is defined as the period of time a browser is in consecutive use. The session begins when you open the browser and ends when you close it. When you reopen the browser, you begin a new session.
 
-**_URL (Uniform Resource Locator)_**  
-An Internet address. URLs are used to locate sites on the Internet and to navigate between sites and pages within sites.
+**_URL (Uniform Resource Locator)_**   
+An Internet address. URLs are used to locate sites on the Internet and to navigate between sites and pages within sites. 
