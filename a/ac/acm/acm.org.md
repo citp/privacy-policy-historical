@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acm.org privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616081950id_/https%3A//www.acm.org/about-acm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acm.org privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102003513id_/https%3A//www.acm.org/privacy-policy) for the most accurate reproduction.*
 
 # ACM Privacy Policy
 
@@ -10,7 +10,7 @@ This Policy will apply to personal information ACM collects or otherwise receive
 
 ### 1\. How We Collect and Use Your Personal Information
 
-ACM only collects Personal Information that is relevant to its activities and seeks to ensure the Personal Information is accurate and up-to-date. Personal Information collected by ACM may include: your name, address and contact details, including your email address and telephone number, age range, and gender. The Personal Information that ACM collects and that you provide to us may occasionally be used to improve our Web Site and wider offerings (on a confidential basis) or to enable us to comply with our legal obligations. Aside from this we will only use your personal Information for staying in touch with you (as described in more detail below) and generally for the purposes for which you provided it, including in order to:
+ACM only collects Personal Information that is relevant to its activities and seeks to ensure the Personal Information is accurate and up-to-date. Personal Information collected by ACM may include: your name, address and contact details, including your email address and telephone number, age range, gender, whether you identify as a member of an underrepresented group, and if you have a disability. The Personal Information that ACM collects and that you provide to us may occasionally be used to improve our Web Site and wider offerings (on a confidential basis) or to enable us to comply with our legal obligations. Aside from this we will only use your personal Information for staying in touch with you (as described in more detail below) and generally for the purposes for which you provided it, including in order to:
 
   * process your request to join ACM as a member, and for the renewal and update (and general administration) of your membership;
   * process orders and supply the products and/or services you have requested and to provide information or support to you in respect of those products and/or services;
