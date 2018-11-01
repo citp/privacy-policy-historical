@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynalist.io privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626131153id_/https%3A//dynalist.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynalist.io privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101164812id_/https%3A//dynalist.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dynalist
 
@@ -83,4 +83,6 @@ If Dynalist should ever sell its assets, merge with another entity or file for b
 
 We may change these policies when necessary. We'll tell you in advance when it affects you.
 
-Your stuff may be transferred as assets of Dynalist if we're bought by another company.
+Your information may be transferred as assets of Dynalist if we're bought by another company.
+
+By " **transferred as assets** ", we mean the buyer company will store your data so that it can provide the service. You will still own your data.
