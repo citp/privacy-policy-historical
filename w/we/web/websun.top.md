@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websun.top privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622172657id_/http%3A//websun.top/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websun.top privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101091417id_/http%3A//websun.top/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy • Index of Online Schools
 
