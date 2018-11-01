@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gardenia.net privacy policy that was archived on 2018-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180628113805id_/https%3A//www.gardenia.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gardenia.net privacy policy that was archived on 2018-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181101141806id_/https%3A//www.gardenia.net/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
   <title>Privacy</title>    <!-- title tag pulled from CMS -->
@@ -541,16 +541,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>If, as an EEA Citizen, you believe that we have not adequately resolved any such issues, you have the right contact your local EU supervisory authority.</p>
 </div>
 <!-- end code region pod_3591400 -->
-                <!-- begin code region 'pod_3591401' -->
-<div class=" wv-code-region-pod_3591401"></div>
-<!-- end code region pod_3591401 -->
+                <!-- begin code region 'pod_3615211' -->
+<div class=" wv-code-region-pod_3615211"></div>
+<!-- end code region pod_3615211 -->
               </section>
             </div>
             <div class="col-sm-3 col-md-2 col-lg-2 body-right">
               <section>
-                <!-- begin code region 'pod_3591403' -->
-<div class=" wv-code-region-pod_3591403"></div>
-<!-- end code region pod_3591403 -->
+                <!-- begin code region 'pod_3615212' -->
+<div class=" wv-code-region-pod_3615212"></div>
+<!-- end code region pod_3615212 -->
               </section>
             </div>
           </div>
@@ -590,7 +590,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section>
     <h2>Create the garden you’ve always wanted</h2>
     <div class="row">
-      <a href="/gardens/landscaping-ideas">
+      <a href="/garden-finder">
         <div class="col-xs-3">
           <img alt="Button to go to the Garden Finder Page" src="https://cdn.webvanta.com/000000/51/74/original/images/btn-ideas.png" class="img-responsive center-block">
         </div>
@@ -1107,8 +1107,18 @@ function googleTranslateElementInit() {
 
 <script src="https://cdn.webvanta.com/000000/51/74/original/js/gardenia.plugins.js"></script>
 <!-- gardena js -->
-<script src="/gardenia.util.js"></script>
-
+<script src="/gardenia.util.min.js"></script>
+<script>
+  $( document ).ready(function() {
+    var accept_cookies = localStorage.getItem('accept_cookies');
+    if (accept_cookies == '1') $('#cookie_message').hide();
+    else $('.footer-credits').css('margin-bottom', '120px');
+    $('#accept_cookies').on('click', function() {
+      $('#cookie_message').hide();
+      localStorage.setItem('accept_cookies',1)
+    });
+  });
+</script>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-553e4e203eb755c8" async="async"></script>
 
@@ -1117,7 +1127,11 @@ function googleTranslateElementInit() {
                             })(window, document, '_gscq','script','//widgets.getsitecontrol.com/73682/script.js');
 </script>
 
-
+<div id="cookie_message">
+  <div class="container text-right">
+    <p>We use cookies on this website, you can <a href="/cookie-policy">read about them here</a>. To use the website as intended please&nbsp; <button type="button" id="accept_cookies" class="btn btn-warning">Accept Cookies</button></p>
+  </div>
+</div>
    <!-- page-specific JS -->
   <div id="webvanta-features" class="wvif" data-page-id="279970">
   <script type="text/javascript" src="/webvanta/admin/v3/js/webvanta-bootstrap-3.0.0.min.js"></script>
