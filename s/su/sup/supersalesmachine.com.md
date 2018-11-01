@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the supersalesmachine.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019213549id_/http%3A//www.supersalesmachine.net/GetStarted/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersalesmachine.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101203732id_/http%3A//www.supersalesmachine.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# Get Your First Website Setup For You For FREE!
+# SuperSalesMachine™ - Privacy Policy
 
 We are committed to keeping all your personal details safe and secure. Our privacy policy strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
@@ -34,8 +34,8 @@ Your personal information is used for four main purposes and they are as follows
 
 We will only disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to:
 
-(a) Conform to the edicts of the law or comply with legal process served on Super Sales Machine
+(a) Conform to the edicts of the law or comply with legal process served on 
 
-(b) Protect and defend the rights or property of Super Sales Machine;
+(b) Protect and defend the rights or property of ;
 
-(c) Act in urgent circumstances to protect the personal safety of users of Super Sales Machine.
+(c) Act in urgent circumstances to protect the personal safety of users of .
