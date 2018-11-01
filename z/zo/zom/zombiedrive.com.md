@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zombiedrive.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101202230id_/http%3A//zombdrive.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zombiedrive.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101175758id_/http%3A//zombdrive.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy.
 
