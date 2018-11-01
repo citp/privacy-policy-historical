@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the onlinemicrojobs.com privacy policy that was archived on 2018-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180418144357id_/https%3A//www.onlinemicrojobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemicrojobs.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101190527id_/http%3A//onlinemicrojobs.com/pp.php) for the most accurate reproduction.*
 
 # Privacy Policy | Online Micro Jobs
+
+## Privacy Policy
 
 Welcome to the Online Micro Jobs Service, a web service utility that connects employers and workers on a micro level. The Online Micro Jobs service is operated by Digital Paper Products Inc. and its subsidiaries and affiliates ("us," "we",  "Online Micro Jobs", “site” or “OnlineMicroJobs.com”). By using or accessing the Online Micro Jobs Service, you agree that you have read, understand and are bound by these Terms of Use ("Terms"). We reserve the right, at our sole discretion, to change or delete portions of these Terms at any time without further notice. Your continued use of the Online Micro Jobs Service after any such changes constitutes your acceptance of the new Terms.
 
