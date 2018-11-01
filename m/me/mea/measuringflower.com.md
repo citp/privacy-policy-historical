@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the measuringflower.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501103140id_/http%3A//www.measuringflower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the measuringflower.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101184641id_/http%3A//www.measuringflower.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Measuring Flower
 
 Your privacy is important to us, and maintaining your trust and confidence is one of our highest priorities. We respect your right to keep your personal information confidential and understand your desire to avoid unwanted solicitations. For this reason, please take a moment to look over our Privacy Policy.
 
-This privacy policy sets out how Measuring Flower uses and protects any information that you give while using www.MeasuringFlower.com.
+This privacy policy sets out how Measuring Flower uses and protects any information that you give while using https://measuringflower.com (i.e. “Website”).
 
 Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement.
 
-Measuring Flower may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from February 20, 2018.
+Measuring Flower may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from April 23, 2018. For questions or help, please [contact TJ](https://measuringflower.com/contact/).  
+
 
 ### What We Collect
 
@@ -20,6 +21,20 @@ Measuring Flower may change this policy from time to time by updating this page.
   * Other information relevant to customer surveys and/or offers.
 
 
+
+#### Comments
+
+When visitors leave comments on the site, we collect the data shown in the comments form and also the visitor’s IP address and browser user agent string to help spam detection.
+
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: <https://automattic.com/privacy/>. After approval of your comment, your Gravatar profile picture may be visible to the public in the context of your comment.
+
+#### Media
+
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+
+#### Contact Forms
+
+Information submitted to any of our contact forms is used solely for customer service purposes. No information is used for marketing purposes.
 
 ### What We Do with the Information We Gather
 
@@ -66,6 +81,46 @@ provided by Google, Inc. Google Analytics uses cookies to help us to analyze how
 about your use of our website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of our website, compiling reports on website activity and providing other  
 services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google undertakes not to associate your IP address with any other data held by Google.
 
+When user ratings are enabled we store a WPRM_User_Voted_%recipe% cookie (with %recipe% the ID of the recipe) that contains the rating this user has given to a particular recipe. This cookie is used as (one of the) measures to prevent rating spam.
+
+#### Comments
+
+If you leave a comment on our site you may opt-in to saving your name, email address, and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+When comment ratings are enabled we store the rating a user has given to a recipe along with the personal data WordPress core stores.
+
+### Embedded Content
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Analytics
+
+Measuring Flowere uses Google Analytics. This service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
+
+### IP Address
+
+When recipe user ratings are enabled we store the IP address upon voting. This is used as (one of the) measures to prevent rating spam. Our cookies are stored for 30 days.
+
+### Newsletter
+
+Measuring Flowere has an email newsletter called the Leaflet. It is run using MadMimi. Your name and email are stored via MadMimi to send email newsletters and updates only; this information is never used for anything else and your information will never be sold or otherwise misused. You can learn more by reading MadMimi’s Privacy Policy.
+
+### Affiliate Programs
+
+We are monetary affiliates with various stores and websites including Trim Healthy Mama, Coupons.com, Redplum, and Amazon. Each of these track a cookie from our Website to theirs to ensure that we get paid a small portion of any sales for items we recommended to you (keep in mind that you pay nothing extra, we just get a little portion of their profits). This is necessary as this is how we keep our website up and running without any membership fees.
+
+### Recipe Submission
+
+With the Recipe Submission feature personal data can be collected, depending on the fields that were added to the form. This can include the user email and name. When using the reCAPTCHA feature you will be agreeing to their terms of use and privacy policy. User submitted data is stored indefinitely in the local database.
+
 ### Third Party Advertising
 
 We may have third-party advertising companies serving ads to you when you visit our website. These companies may store information about your visits to our website and to other websites in order to provide you with relevant advertisements about goods and services.
@@ -105,6 +160,6 @@ We will not sell, rent or disclose to outside parties the information we collect
 ### Choices and How To Opt Out Of Interest-Based Advertising
 
   * Opting Out of Interest-Based Advertising Services This website is a member of the [Network Advertising Initiative](http://optout.networkadvertising.org/) (NAI) and adheres to the NAI Codes of Conduct as described on the NAI website. This website also adheres to the Digital Advertising Alliance (DAA) Self-Regulatory Principles. For a description of the DAA Program, please visit the [DAA website](http://digitaladvertisingalliance.org/). As described above, this website may use or transfer Device Data that it directly collects or that it receives from this website’s Customers, who may use cookies or non-cookie technologies, to enable advertising that is more tailored to Consumers’ inferred interests, preferences, and locations. This practice is known as interest-based advertising.
-  * Opting Out of Interest-Based Advertising by Third Parties. This website may permit third parties to collect information on its Site and combine that information with other information collected on non-affiliated websites or applications over time. These third parties may use technologies, including cookies and web beacons, to collect information about Consumers’ or Customers’ use of the Site in order to analyze, report on, or customize content or advertising on the this website or on other sites, or to help us operate and improve the Site. To find out more about interest-based advertising in the web environment, and how to opt-out of information collection for this purpose by companies that participate in the Network Advertising Initiative or the Digital Advertising Alliance, visit [NAI’s opt-out page](http://optout.networkadvertising.org/#!/) or [DAA’s Consumer Choice Page](http://optout.aboutads.info/).
+  * Opting Out of Interest-Based Advertising by Third Parties. This website may permit third parties to collect information on its Site and combine that information with other information collected on non-affiliated websites or applications over time. These third parties may use technologies, including cookies and web beacons, to collect information about Consumers’ or Customers’ use of the Site in order to analyze, report on, or customize content or advertising on the this website or on other sites, or to help us operate and improve the Site. To find out more about interest-based advertising in the web environment, and how to opt-out of information collection for this purpose by companies that participate in the Network Advertising Initiative or the Digital Advertising Alliance, visit [NAI’s opt-out page](http://optout.networkadvertising.org/#!/) or [DAA’s Consumer Choice Page](http://optout.aboutads.info/).data is stored indefinitely in the local database.
 
 
