@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geron.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624102414id_/https%3A//www.geron.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geron.org privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101211418id_/https%3A//www.geron.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
