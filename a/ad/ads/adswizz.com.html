@@ -1,533 +1,274 @@
-<!--The following is the downloaded HTML source of the adswizz.com privacy policy that was archived on 2018-03-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180301001608id_/https%3A//www.adswizz.com/our-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adswizz.com privacy policy that was archived on 2018-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181101140818id_/https%3A//www.adswizz.com/our-privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="http://www.adswizz.com/wp-content/themes/adswizz/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="http://www.adswizz.com/wp-content/themes/adswizz/favicon.ico" type="image/x-icon">    
-    <title>Adswizz</title>
-    <link href="http://fonts.googleapis.com/css?family=Lato:100,400,700,900" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" type="text/css">
-    <link href="http://www.adswizz.com/wp-content/themes/adswizz/css/bootstrap.min.css" rel="stylesheet">
-    <link href="http://www.adswizz.com/wp-content/themes/adswizz/custom.css" rel="stylesheet">
-    <link href="http://www.adswizz.com/wp-content/themes/adswizz/css/main.css" rel="stylesheet" type="text/css">
-    <link href="http://www.adswizz.com/wp-content/themes/adswizz/css/dev-css.css" rel="stylesheet" type="text/css">
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://www.adswizz.com/wp-content/themes/adswizz/js/adswizz/jquery.1.1.1.min.js"></script>
-    <script src="http://www.adswizz.com/wp-content/themes/adswizz/js/adswizz/bootstrap.min.js"></script>
-    <script src="http://www.adswizz.com/wp-content/themes/adswizz/js/adswizz/jquery.bxslider.js"></script>
-    <script src="http://www.adswizz.com/wp-content/themes/adswizz/js/adswizz/plugins.js"></script>
-    <script src="http://www.adswizz.com/wp-content/themes/adswizz/js/adswizz/custom.js"></script>
-    <script src="http://www.adswizz.com/wp-content/themes/adswizz/js/adswizz/jquery.form.min.js"></script>  
-    <script src="http://www.adswizz.com/wp-content/themes/adswizz/js/adswizz/jquery.validate.min.js"></script>  
-    <script src="http://www.adswizz.com/wp-content/themes/adswizz/js/adswizz/scripts.js"></script> 
-    <script src="http://www.adswizz.com/wp-content/themes/adswizz/js/adswizz/dev.js"></script>
-    <script>
-$(document).ready(function () {
-  var cookieValue;
-  var isCheked;
-  
-  function isOptOut(cookieValue) {
-    var pattern = "optout";
-    if (cookieValue === undefined) {
-      return false;
-    }
-    return cookieValue.indexOf(pattern) > -1;
-  }
-
-  function setCheckboxValue() {
-    var optOutFlag = isOptOut(cookieValue);
-
-    if (!optOutFlag) {
-      $('.cbx').attr('checked', 'checked');
-      $('.switch-button-text-off').addClass('displayNone');
-    } else {
-      $('.cbx').removeAttr('checked');
-      $('.switch-button-text-on').addClass('displayNone');
-    }
-  }
-
-  setCheckboxValue();
-
-  $('.cbx').change(function () {
-    isCheked = $(this).is(':checked');
-    $('.switch-button-text-off').toggleClass('displayNone', isCheked);
-    $('.switch-button-text-on').toggleClass('displayNone', !isCheked);
-
-    if (!isCheked) {
-      _ajaxCall(true);
-    } else {
-      _ajaxCall(false);
-    }
-
-    function _ajaxCall(bool) {
-      var OPTOUT_ENDPOINT = "/optout.php";
-      $.post(OPTOUT_ENDPOINT, {disable: bool})
-        .fail(function () {
-          if (!isCheked) {
-            $('.switch-button-text-off').addClass('displayNone');
-            $('.switch-button-text-on').removeClass('displayNone');
-            $('input').prop('checked', true);
-          } else {
-            $('.switch-button-text-on').addClass('displayNone');
-            $('.switch-button-text-off').removeClass('displayNone');
-            $('.cbx').removeAttr('checked');
-          }
-        });
-    }
-  });
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js"><!--<![endif]--><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+<meta name="theme-color" content="#b376ff">	<link rel="profile" href="http://gmpg.org/xfn/11">
+<title>Privacy Policy - www.adswizz.com</title>
+<link rel="canonical" href="https://www.adswizz.com/our-privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - www.adswizz.com">
+<meta property="og:url" content="https://www.adswizz.com/our-privacy-policy/">
+<meta property="og:site_name" content="www.adswizz.com">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Privacy Policy - www.adswizz.com">
+<meta name="twitter:site" content="@adswizz">
+<meta name="twitter:creator" content="@adswizz">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="www.adswizz.com » Feed" href="https://www.adswizz.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="www.adswizz.com » Comments Feed" href="https://www.adswizz.com/comments/feed/">
+<link rel="stylesheet" type="text/css" href="//www.adswizz.com/wp-content/cache/wpfc-minified/2aj6e9k8/6wju.css" media="all">
+<style id="dt-main-inline-css">body #load{display:block;height:100%;overflow:hidden;position:fixed;width:100%;z-index:9901;opacity:1;visibility:visible;-webkit-transition:all .35s ease-out;transition:all .35s ease-out;}
+.load-wrap{width:100%;height:100%;background-position:center center;background-repeat:no-repeat;text-align:center;}
+.load-wrap > svg{position:absolute;top:50%;left:50%;-ms-transform:translate(-50%,-50%);-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);}
+#load{background-color:#1a1c20;}
+.uil-default rect:not(.bk){fill:#7e3c68;}
+.uil-ring > path{fill:#7e3c68;}
+.ring-loader .circle{fill:#7e3c68;}
+.ring-loader .moving-circle{fill:#7e3c68;}
+.uil-hourglass .glass{stroke:#7e3c68;}
+.uil-hourglass .sand{fill:#7e3c68;}
+.spinner-loader .load-wrap{background-image:url("data:image/svg+xml,%3Csvg width='75px' height='75px' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' preserveAspectRatio='xMidYMid' class='uil-default'%3E%3Crect x='0' y='0' width='100' height='100' fill='none' class='bk'%3E%3C/rect%3E%3Crect x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%237e3c68' transform='rotate(0 50 50) translate(0 -30)'%3E %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%237e3c68' transform='rotate(30 50 50) translate(0 -30)'%3E %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.08333333333333333s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%237e3c68' transform='rotate(60 50 50) translate(0 -30)'%3E %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.16666666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%237e3c68' transform='rotate(90 50 50) translate(0 -30)'%3E %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.25s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%237e3c68' transform='rotate(120 50 50) translate(0 -30)'%3E %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.3333333333333333s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%237e3c68' transform='rotate(150 50 50) translate(0 -30)'%3E %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.4166666666666667s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%237e3c68' transform='rotate(180 50 50) translate(0 -30)'%3E %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.5s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%237e3c68' transform='rotate(210 50 50) translate(0 -30)'%3E %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.5833333333333334s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%237e3c68' transform='rotate(240 50 50) translate(0 -30)'%3E %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.6666666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%237e3c68' transform='rotate(270 50 50) translate(0 -30)'%3E %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.75s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%237e3c68' transform='rotate(300 50 50) translate(0 -30)'%3E %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.8333333333333334s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%237e3c68' transform='rotate(330 50 50) translate(0 -30)'%3E %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.9166666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3C/svg%3E");}
+.ring-loader .load-wrap{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='72' height='72' fill='%237e3c68'%3E %3Cpath opacity='.25' d='M16 0 A16 16 0 0 0 16 32 A16 16 0 0 0 16 0 M16 4 A12 12 0 0 1 16 28 A12 12 0 0 1 16 4'/%3E %3Cpath d='M16 0 A16 16 0 0 1 32 16 L28 16 A12 12 0 0 0 16 4z'%3E %3CanimateTransform attributeName='transform' type='rotate' from='0 16 16' to='360 16 16' dur='0.8s' repeatCount='indefinite' /%3E %3C/path%3E %3C/svg%3E");}
+.hourglass-loader .load-wrap{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='72' height='72' fill='%237e3c68'%3E %3Cpath transform='translate(2)' d='M0 12 V20 H4 V12z'%3E %3Canimate attributeName='d' values='M0 12 V20 H4 V12z;M0 4 V28 H4 V4z;M0 12 V20 H4 V12z;M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E %3C/path%3E %3Cpath transform='translate(8)' d='M0 12 V20 H4 V12z'%3E %3Canimate attributeName='d' values='M0 12 V20 H4 V12z;M0 4 V28 H4 V4z;M0 12 V20 H4 V12z;M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.2' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E %3C/path%3E %3Cpath transform='translate(14)' d='M0 12 V20 H4 V12z'%3E %3Canimate attributeName='d' values='M0 12 V20 H4 V12z;M0 4 V28 H4 V4z;M0 12 V20 H4 V12z;M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.4' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E %3C/path%3E %3Cpath transform='translate(20)' d='M0 12 V20 H4 V12z'%3E %3Canimate attributeName='d' values='M0 12 V20 H4 V12z;M0 4 V28 H4 V4z;M0 12 V20 H4 V12z;M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.6' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E %3C/path%3E %3Cpath transform='translate(26)' d='M0 12 V20 H4 V12z'%3E %3Canimate attributeName='d' values='M0 12 V20 H4 V12z;M0 4 V28 H4 V4z;M0 12 V20 H4 V12z;M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.8' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E %3C/path%3E %3C/svg%3E");}</style>
+<link rel="stylesheet" type="text/css" href="//www.adswizz.com/wp-content/cache/wpfc-minified/12xg7edu/6wju.css" media="all">
+<link rel="https://api.w.org/" href="https://www.adswizz.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.adswizz.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.adswizz.com/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="https://www.adswizz.com/?p=671">
+<link rel="alternate" type="application/json+oembed" href="https://www.adswizz.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.adswizz.com%2Four-privacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.adswizz.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.adswizz.com%2Four-privacy-policy%2F&amp;format=xml">
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.adswizz.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
+<link rel="icon" href="https://www.adswizz.com/wp-content/uploads/2018/02/favicon-16x16jpg.jpg" type="image/jpeg" sizes="16x16"><link rel="icon" href="https://www.adswizz.com/wp-content/uploads/2018/02/favicon-32x32.jpg" type="image/jpeg" sizes="32x32"><link rel="apple-touch-icon" sizes="120x120" href="https://www.adswizz.com/wp-content/uploads/2018/02/favicon-120x.jpg">		<style id="wp-custom-css">body .gform_wrapper .gform_footer input.button,
+body .gform_wrapper .gform_footer input[type=submit]{color:#ffffff;background-color:#b276fc!important;padding-top:4px;padding-bottom:4px;padding-left:10px;padding-right:10px;border:1px solid rgba(114,114,114,0.4);border-radius:1px;-moz-border-radius:3px;-webkit-border-radius:3px;box-shadow:0 1px 0px rgba(114,114,114,0.3);-moz-box-shadow:0 1px 0px rgba(114,114,114,0.3);-webkit-box-shadow:0 1px 0px rgba(114,114,114,0.3);background-color:#0096d6;}
+body .gform_wrapper .gform_footer input[type=submit]:hover{border:1px solid rgba(114,114,114,0.6);background-color:#444444;}
+.gform_wrapper .field_sublabel_below .ginput_complex.ginput_container label{font-size:.90em;color:#999999;}
+.human-hero-sub-h{font-size:26px;line-height:1.20;}
+.customers-dark-background2{background-image:url(https://www.adswizz.com/wp-content/uploads/2018/05/circle-background-half.png), linear-gradient(to bottom, #102330 25%, #0b2f4e), linear-gradient(#182830, #182830);background-size:cover;position:relative;top:0px;z-index:0;}
+.vc_custom_1518912668630{padding-top:50px !important;}
+.vc_col-has-fill > .vc_column-inner{padding-top:25px !important;}
+.gform_wrapper .top_label .gfield_label{font:bold 14px / 25px "Open Sans", Helvetica, Arial, Verdana, sans-serif !important;}
+.gform_wrapper .field_sublabel_below .ginput_complex.ginput_container label{font-weight:bold !important;}
+.single-share-box .share-buttons a{width:100px;height:60px;min-width:100px;min-height:60px;margin:0 14px 4px 0;font-family:'Font Awesome 5 Brands';font-size:36px;line-height:55px;}
+.single-share-box .share-buttons a.twitter{border-color:rgba(42,190,235,.3);font-size:32px;color:#2abeeb;}</style>
+<style data-type="vc_custom-css">.displayNone{display:none;}
+.displayBlock{display:block;}
+.opt-out-section{padding:25px;font-family:'Open Sans', 'sans-serif';background:#ECF0F1;}
+.opt-out-section .opt-out-title{font-size:18px;color:#D2527F;}
+.opt-out-section .opt-out-description{font-size:12px;color:#6B6A6A;line-height:16px;}
+.opt-out-section .switch-button-container{margin-top:35px;}
+.switch-button-container{margin-bottom:27px;}
+.switch-button-text-on{position:absolute;top:16px;left:80px;color:#D2527F;font-family:'Open Sans', 'sans-serif';font-weight:bold;font-size:18px;display:none;}
+.switch-button-text-off{position:absolute;top:16px;left:80px;color:#898989;font-family:'Open Sans', 'sans-serif';font-weight:bold;font-size:18px;display:none;}
+.lbl{position:relative;display:block;height:17px;width:55px;background:#898989;border-radius:100px;cursor:pointer;transition:all 0.3s ease;}
+.lbl:after{position:absolute;left:-2px;top:-4px;display:block;width:26px;height:26px;border-radius:100px;background:#fff;box-shadow:0px 3px 3px rgba(0,0,0,0.05);content:'';transition:all 0.3s ease;}
+.lbl:active:after{transform:scale(1.15, 0.85);}
+.cbx:checked ~ label{background:rgba(210, 82, 127, 0.5);}
+.cbx:checked ~ label:after{left:32px;background:#D2527F;}
+.cbx:disabled ~ label{background:#d5d5d5;pointer-events:none;}
+.cbx:disabled ~ label:after{background:#bcbdbc;}
+.hidden{display:none;}
+@media only screen
+and (min-width : 320px)
+and (max-width : 480px) {
+h1{font-size:2em;text-align:center;}
+}
+@media only screen
+and (min-width : 768px)
+and (max-width : 1024px) {
+h1{font-size:2em;text-align:center;}
+}</style><style data-type="vc_shortcodes-custom-css">.vc_custom_1518921917660{padding-top:100px !important;padding-bottom:100px !important;background-image:url(https://www.adswizz.com/wp-content/uploads/2018/02/privacyhero.jpg?id=776) !important;background-position:center !important;background-repeat:no-repeat !important;background-size:cover !important;}
+.vc_custom_1519838779975{background-image:url(https://www.adswizz.com/wp-content/uploads/2018/02/Bitmap-1.png?id=1044) !important;background-position:center !important;background-repeat:no-repeat !important;background-size:contain !important;}
+.vc_custom_1519411712608{margin-left:-75px !important;padding-left:50px !important;}
+.vc_custom_1519407658784{padding-bottom:50px !important;}</style><noscript><style>.wpb_animate_when_almost_visible{opacity:1;}</style></noscript>
+<meta name="google-site-verification" content="8Hnb0Xir4V6K1icYStE01l2ZdP-3aanHJFNzuHKHMQQ"></head>
+<body class="page-template-default page page-id-671 the7-core-ver-1.14.0 transparent large-hover-icons dt-responsive-on srcset-enabled btn-flat custom-btn-color custom-btn-hover-color bold-icons phantom-slide phantom-disable-decoration phantom-custom-logo-on floating-mobile-menu-icon top-header first-switch-logo-left first-switch-menu-right second-switch-logo-left second-switch-menu-right right-mobile-menu layzr-loading-on no-avatars popup-message-style dt-fa-compatibility the7-ver-7.0.2 the7dtchild wpb-js-composer js-comp-ver-5.5.2.1 vc_responsive">
+<div id="load" class="spinner-loader loader-removed"> <div class="load-wrap"></div></div><div id="page"> <a class="skip-link screen-reader-text" href="#content">Skip to content</a> <div class="masthead inline-header right widgets full-width surround medium-mobile-menu-icon mobile-menu-icon-bg-on dt-parent-menu-clickable show-device-logo show-mobile-logo" style="background-color: rgba(33,33,33,0);" role="banner"> <div class="top-bar top-bar-empty top-bar-line-hide"> <div class="top-bar-bg" style="background-color: rgba(255,255,255,0);"></div><div class="mini-widgets left-widgets"></div><div class="mini-widgets right-widgets"></div></div><header class="header-bar">
+<div class="branding"> <div id="site-title" class="assistive-text">www.adswizz.com</div><div id="site-description" class="assistive-text">Connecting the digital audio advertising ecosystem</div><a href="https://www.adswizz.com/"><img class="preload-me" src="https://www.adswizz.com/wp-content/uploads/2017/12/adswizz-white-log-smaller.png" srcset="https://www.adswizz.com/wp-content/uploads/2017/12/adswizz-white-log-smaller.png 155w" width="155" height="36" sizes="155px" alt="www.adswizz.com"><img class="mobile-logo preload-me" src="https://www.adswizz.com/wp-content/uploads/2017/12/adswizz-white-log-smaller.png" srcset="https://www.adswizz.com/wp-content/uploads/2017/12/adswizz-white-log-smaller.png 155w" width="155" height="36" sizes="155px" alt="www.adswizz.com"></a></div><ul id="primary-menu" class="main-nav underline-decoration upwards-line level-arrows-on outside-item-remove-margin" role="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11703 first has-children"><a href="#" title="About AdsWizz" data-level="1"><span class="menu-item-text"><span class="menu-text">About</span></span></a><ul class="sub-nav level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11704 first"><a href="https://www.adswizz.com/about-adswizz/" title="Who We Are" data-level="2"><span class="menu-item-text"><span class="menu-text">Who We Are</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11733"><a href="https://www.adswizz.com/adswizz-customers/" title="AdsWizz Customers" data-level="2"><span class="menu-item-text"><span class="menu-text">Partners</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11750"><a href="https://www.adswizz.com/events/" title="Upcoming Events" data-level="2"><span class="menu-item-text"><span class="menu-text">Events</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11707 has-children"><a href="#" title="Publishers" data-level="1"><span class="menu-item-text"><span class="menu-text">Publishers</span></span></a><ul class="sub-nav level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11727 first"><a href="https://www.adswizz.com/publishers/" title="Publishers Overview" data-level="2"><span class="menu-item-text"><span class="menu-text">Publishers Overview</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11708"><a href="https://www.adswizz.com/ad-insertion-suite/" title="Ad Insertion Suite" data-level="2"><span class="menu-item-text"><span class="menu-text">Ad Insertion Suite</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11709"><a href="https://www.adswizz.com/audioserve/" title="AudioServe" data-level="2"><span class="menu-item-text"><span class="menu-text">AudioServe</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11710"><a href="https://www.adswizz.com/audiomax/" title="AudioMax SSP" data-level="2"><span class="menu-item-text"><span class="menu-text">AudioMax SSP</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11711"><a href="https://www.adswizz.com/adwave-for-publishers/" title="AdWave For Publishers" data-level="2"><span class="menu-item-text"><span class="menu-text">AdWave</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11712"><a href="https://www.adswizz.com/audiometrix/" title="AudioMetrix" data-level="2"><span class="menu-item-text"><span class="menu-text">AudioMetrix</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11713 has-children"><a href="#" title="Advertisers" data-level="1"><span class="menu-item-text"><span class="menu-text">Advertisers</span></span></a><ul class="sub-nav level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11728 first"><a href="https://www.adswizz.com/digital-audio-advertising/" title="Advertisers Overview" data-level="2"><span class="menu-item-text"><span class="menu-text">Advertisers Overview</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11715"><a href="https://www.adswizz.com/audiomatic/" title="AudioMatic DSP" data-level="2"><span class="menu-item-text"><span class="menu-text">AudioMatic DSP</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11716"><a href="https://www.adswizz.com/new-audio-ad-formats/" title="New Ad Formats" data-level="2"><span class="menu-item-text"><span class="menu-text">New Ad Formats</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11717"><a href="https://www.adswizz.com/adwave-for-advertisers/" title="AdWave For Advertisers" data-level="2"><span class="menu-item-text"><span class="menu-text">AdWave</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12647"><a href="https://www.adswizz.com/digital-audio-expert" title="Digital Audio Advertising Expert Certification" data-level="2"><span class="menu-item-text"><span class="menu-text">Certification</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12273 has-children"><a href="#" data-level="1"><span class="menu-item-text"><span class="menu-text">Podcast</span></span></a><ul class="sub-nav level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11718 first"><a href="https://www.adswizz.com/podcast-solutions/" title="Podcast Solutions" data-level="2"><span class="menu-item-text"><span class="menu-text">Podcast Solutions</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12272"><a href="https://www.adswizz.com/podcast-platform-partnership-program/" title="Podcast Platform Partnership Program" data-level="2"><span class="menu-item-text"><span class="menu-text">Podcast Platform Partnership Program</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11719"><a href="https://www.adswizz.com/case-studies" title="Case Studies" data-level="1"><span class="menu-item-text"><span class="menu-text">Case Studies</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11706"><a href="https://www.adswizz.com/about-adswizz/careers/" title="Careers" data-level="1"><span class="menu-item-text"><span class="menu-text">Careers</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11705"><a href="https://www.adswizz.com/press/" title="News" data-level="1"><span class="menu-item-text"><span class="menu-text">News</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11839"><a href="https://www.adswizz.com/blog/" data-level="1"><span class="menu-item-text"><span class="menu-text">Blog</span></span></a></li> </ul>
+<div class="mini-widgets"><div class="text-area show-on-desktop near-logo-first-switch in-menu-second-switch"><p><a class="header-cta" href="https://www.adswizz.com/contact-us/"> Contact Us </a></p></div><div class="mini-search show-on-desktop near-logo-first-switch near-logo-second-switch popup-search default-icon"><form class="searchform" role="search" method="get" action="https://www.adswizz.com/"> <label for="search" class="screen-reader-text">Search:</label> <a href="#go" class="submit text-disable default-icon"><span>&nbsp;</span></a> <div class="popup-search-wrap"> <input type="text" class="field searchform-s" name="s" value="" placeholder="Type and hit enter …"> <a href="#go" class="search-icon"></a></div><input type="submit" class="assistive-text searchsubmit" value="Go!">
+</form></div></div></header></div><div class="dt-close-mobile-menu-icon"><span></span></div><div class="dt-mobile-header"> <ul id="mobile-menu" class="mobile-main-nav" role="menu"> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11703 first has-children"><a href="#" title="About AdsWizz" data-level="1"><span class="menu-item-text"><span class="menu-text">About</span></span></a><ul class="sub-nav level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11704 first"><a href="https://www.adswizz.com/about-adswizz/" title="Who We Are" data-level="2"><span class="menu-item-text"><span class="menu-text">Who We Are</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11733"><a href="https://www.adswizz.com/adswizz-customers/" title="AdsWizz Customers" data-level="2"><span class="menu-item-text"><span class="menu-text">Partners</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11750"><a href="https://www.adswizz.com/events/" title="Upcoming Events" data-level="2"><span class="menu-item-text"><span class="menu-text">Events</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11707 has-children"><a href="#" title="Publishers" data-level="1"><span class="menu-item-text"><span class="menu-text">Publishers</span></span></a><ul class="sub-nav level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11727 first"><a href="https://www.adswizz.com/publishers/" title="Publishers Overview" data-level="2"><span class="menu-item-text"><span class="menu-text">Publishers Overview</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11708"><a href="https://www.adswizz.com/ad-insertion-suite/" title="Ad Insertion Suite" data-level="2"><span class="menu-item-text"><span class="menu-text">Ad Insertion Suite</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11709"><a href="https://www.adswizz.com/audioserve/" title="AudioServe" data-level="2"><span class="menu-item-text"><span class="menu-text">AudioServe</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11710"><a href="https://www.adswizz.com/audiomax/" title="AudioMax SSP" data-level="2"><span class="menu-item-text"><span class="menu-text">AudioMax SSP</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11711"><a href="https://www.adswizz.com/adwave-for-publishers/" title="AdWave For Publishers" data-level="2"><span class="menu-item-text"><span class="menu-text">AdWave</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11712"><a href="https://www.adswizz.com/audiometrix/" title="AudioMetrix" data-level="2"><span class="menu-item-text"><span class="menu-text">AudioMetrix</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11713 has-children"><a href="#" title="Advertisers" data-level="1"><span class="menu-item-text"><span class="menu-text">Advertisers</span></span></a><ul class="sub-nav level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11728 first"><a href="https://www.adswizz.com/digital-audio-advertising/" title="Advertisers Overview" data-level="2"><span class="menu-item-text"><span class="menu-text">Advertisers Overview</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11715"><a href="https://www.adswizz.com/audiomatic/" title="AudioMatic DSP" data-level="2"><span class="menu-item-text"><span class="menu-text">AudioMatic DSP</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11716"><a href="https://www.adswizz.com/new-audio-ad-formats/" title="New Ad Formats" data-level="2"><span class="menu-item-text"><span class="menu-text">New Ad Formats</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11717"><a href="https://www.adswizz.com/adwave-for-advertisers/" title="AdWave For Advertisers" data-level="2"><span class="menu-item-text"><span class="menu-text">AdWave</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12647"><a href="https://www.adswizz.com/digital-audio-expert" title="Digital Audio Advertising Expert Certification" data-level="2"><span class="menu-item-text"><span class="menu-text">Certification</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12273 has-children"><a href="#" data-level="1"><span class="menu-item-text"><span class="menu-text">Podcast</span></span></a><ul class="sub-nav level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11718 first"><a href="https://www.adswizz.com/podcast-solutions/" title="Podcast Solutions" data-level="2"><span class="menu-item-text"><span class="menu-text">Podcast Solutions</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12272"><a href="https://www.adswizz.com/podcast-platform-partnership-program/" title="Podcast Platform Partnership Program" data-level="2"><span class="menu-item-text"><span class="menu-text">Podcast Platform Partnership Program</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11719"><a href="https://www.adswizz.com/case-studies" title="Case Studies" data-level="1"><span class="menu-item-text"><span class="menu-text">Case Studies</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11706"><a href="https://www.adswizz.com/about-adswizz/careers/" title="Careers" data-level="1"><span class="menu-item-text"><span class="menu-text">Careers</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11705"><a href="https://www.adswizz.com/press/" title="News" data-level="1"><span class="menu-item-text"><span class="menu-text">News</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11839"><a href="https://www.adswizz.com/blog/" data-level="1"><span class="menu-item-text"><span class="menu-text">Blog</span></span></a></li> </ul> <div class="mobile-mini-widgets-in-menu"></div></div><div id="main" class="sidebar-none sidebar-divider-vertical" style="padding-top:0px; padding-bottom:0px;"> <div class="main-gradient"></div><div class="wf-wrap"> <div class="wf-container-main"> <div id="content" class="content" role="main"> <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1518921917660 vc_row-has-fill vc_row-o-content-top vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="wpb_text_column wpb_content_element"> <div class="wpb_wrapper"> <h1><span style="color: #fff;">PRIVACY POLICY</span></h1></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1519838779975 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="wpb_text_column wpb_content_element"> <div class="wpb_wrapper"> <p><strong>Privacy Policy:</strong></p> <p>AdsWizz Inc. (“AdsWizz,” “we”, or “us”) is a technology provider, offering online radio and video publishers and advertisers the ability to get to know their audience by providing precise session-based measurements. Our customers use our solutions to deliver relevant online advertisements into their streams.</p> <p>The following sets forth the privacy practices and policy (“Privacy Policy”) related to the business we operate. It covers all data on website visitors/listeners that we collect for the purpose of delivering and enhancing our services. We are committed to protecting consumer privacy by informing you of what information we collect, how we use it, and with whom we may share it. We adhere to the Privacy Principles adopted by the Interactive Advertising Bureau (IAB).</p> <p>For those of you residing in the European Economic Area (“EEA”), we adhere to the European Parliament’s General Data Protection Regulation of April 27, 2016 (“GDPR”). Under GDPR, we are a data processor acting on behalf of publisher (the data controllers). This Privacy Policy will provide you information on the processing of your data under GDPR. <strong>What information do we collect to perform our services?</strong></p> <p>We collect or receive data from our customers (publishers/advertisers) in order to learn about the ads you might be interested in. This data includes but is not limited to browser identifier, wireless carrier, IP address, device type (website player, smartphone apps, media player, etc.) and browsing information. We may collect information about your mobile device, including, for example, the hardware model, operating system and version, type of mobile browser, software and file names, versions, preferred language, advertising identifiers, device motion and accelerometer information, real-time location (based on information provided by your device OS), and mobile network information.</p> <p>We receive information about consumers from third parties to enable targeted advertising on the website(s) and application(s) that we support. The collection and use of that data is governed by the privacy policy and legal terms of the data collector and the website using the data; it is not governed by AdsWizz.</p> <p>We also acknowledge that cross-device data collection is taking place. &nbsp;The purpose of this cross-device data collection is for the purpose of enhanced targeting in the aim of creating a better product for our customers and a more relevant listening experience. &nbsp;To opt out of this data collection on browsers and in mobile devices, you may visit&nbsp;https://www.tapad.com/privacy-policy.</p> <p>We also measure the exposure to online advertising campaign: number of impressions, number of clicks, numbers of users exposed, percentage of ad content played. We retain information on the ads that we served to you on a website and we reuse that information to deliver new ads when you visit another website on which we may also serve ads. We collect information such as your reaction to the ad (skip the ad, click on the ad) for statistical reporting purposes or to limit serving you additional ads.</p> <p>Furthermore, we collect and use only non-PII that does not directly or in combination with other information identify you as an individual. We may also obtain non-PII from third party data vendors that receive such non-PII pursuant to their own privacy policies. We do not collect PII via our advertising technology.&nbsp;None of the information we collect to provide our services is meant to be traced back to a specific individual.</p> <p class="privacy-p">For those of you residing in the EEA, we strictly follow the instructions of our data controllers, we do not collect data from the on-line service users directly. From the data controllers,we may collect and process online identifiers, such as your IP address and adverting ID. We do not collect or process your name, physical address, email address, phone number or other sensitive data. The personal data that we process is passed to us from the data controllers, the publishers, based on the services they have engaged us for.</p></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="wpb_text_column wpb_content_element"> <div class="wpb_wrapper"> <p><strong>How do we use this information?</strong></p> <p>We process the data to find elements that will help us determine which products/services could be relevant to you and to improve the quality of the ads you’ll be served. For example, we may use the geo-location data to determine potential likelihood to listen to an ad or we may use the data collected to prevent the same ads to be served to you repeatedly.</p> <p>We also use the information we collect to maintain, improve and develop new services. We finally deliver a list of anonymous user identifiers and produce reports and analytics for our business partners.</p> <p><strong>Disclosure of information</strong></p> <p>We share anonymous user identifiers and aggregated information with established third party publishers/advertisers such as the number of users who visited a publisher site, or the number of users who listened to a particular ad, strictly for serving advertisements. For those of you in the EEA, personal data, as defined by GDPR, may be shared with data sub-processors if instructed and permitted to do so by the data controller. Accordingly, this information may be shared with: demand-side platforms, data management platforms, ad networks, and analytics platforms.</p> <p>We may share information with companies, organizations or individuals outside of AdsWizz if we have a good-faith belief that we are obligated to do so by law or as necessary to protect ourselves or others.</p> <p>We may allow others to provide audience measurement and analytics services for us, to serve advertisements on our behalf across the Internet, and to track and report on the performance of those advertisements. These entities may use their own cookies, web beacons, SDKs, and other technologies to identify your device when you visit our site and use our Services, as well as when you visit other online sites and services.</p> <p>We may transfer information in our possession to a successor entity in connection with a corporate change in control such as a merger or acquisition or the sale of company assets.</p> <p>Lastly, if you are located in the EEA, these data transfers may occur outside the EEA. If such data transfer is outside the EEA, we will ensure that the necessary contractual clauses ensuring privacy protections are in place, such as the EU Model Clauses or equivalent.</p> <p><strong>Other Websites</strong></p> <p>Through our services, we may link to other websites operated by other companies. This Privacy Policy does not apply to these linked websites. Each website should be checked for its own privacy policy.</p> <p>We do not exercise control over the manner in which our business partners label their custom data segments, but as applicable, we encourage our business partners to adhere to self-regulatory codes offered by the Network Advertising Initiative (NAI), Digital Advertising Alliance (DAA), and/or certain other industry standards.</p> <p><strong>Data security</strong></p> <p>We take all reasonable measures to protect the information we collect and store. All data is stored in a secure facility and we strictly control access to the data.</p> <p><strong>Changes to This Policy</strong></p> <p>AdsWizz reviews its privacy practices from time to time. If we decide to change our Privacy Policy, we will post those changes here so our users are always aware of what information we collect, how we use it, and, if any, what circumstances it may be disclosed. We encourage you to periodically review this page for the latest information on our privacy practices.</p> <p><strong>Changing or deleting personal information</strong></p> <p>When you simply visit our Website, wedonot collect personal data about you – other than data needed for the purpose of establishing an internet connection with our website. However, should you leave a message through the “contact us” feature or email us through an email address provided here, we would have stored and collected in our system the email address you provided. If you would like to have this personal identifiable information removed from our Website’s database, please contact privacy@adswizz.com.</p> <p>For consumers based in the EEA, as a user of some on-line radio services, music services, on-line podcasts services, you may enjoy the services of companies that collect your data, data controllers under GDPR. For instance, you may have registered and left your email address or IP address with an on-line music service provider and you are fully entitled to require these data controllers to NOT use your data. Under GDPR, such companies should’ve gathered your consent prior to using your data – unless they invoked some legitimate interests to do so. &nbsp;In order to make changes, delete this personal information and exercise your rights, we suggest you to contact or read the privacy notices of the on-line services you use.</p> <p>&nbsp;</p> <p>Some on-line radio services and/or on-line music services and/or on-line podcasts services may decide to use some AdsWizz products in order to manage the delivery of advertisements into their audio/video contents. In such case, those on-line services request AdsWizz to process your data on their behalf.&nbsp;When you want to exercise your right for your data not to be used, you should contact the data controller you have provided your data to, e.g. the on-line music service you use. The music service in question will do whatever is required under the law, which may include contacting all the data processors it contracts with in order to require them to not use/erase your data IF, and only IF, they happen to have your data.</p> <p><strong>Questions or Comments</strong></p> <p>If you have questions or comments regarding our Privacy Policy, please contact us at contact.us@adswizz.com</p></div></div></div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-10 vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="wpb_raw_code wpb_content_element wpb_raw_html"> <div class="wpb_wrapper"> <div class="opt-out-section"> <div> <p class="opt-out-title">Ads based on your interests:</p> <p class="opt-out-description">If you wish to opt out the ads based on user interest and demographic categories, please move the switch on the left to “disabled”. This applies only for this browser. In case you use multiple browsers (e.g Chrome, Safari,…), do this procedure for each. If you clear you cache, you’ll need to do this procedure again.</p></div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-2 vc_hidden-xs"><div class="vc_column-inner vc_custom_1519411712608"><div class="wpb_wrapper"> <div class="wpb_raw_code wpb_content_element wpb_raw_html vc_custom_1519407658784"> <div class="wpb_wrapper"> <div class="opt-out-section"> <div class="switch-button-container"> <input type="checkbox" id="unchecked" class="cbx hidden"> <label for="unchecked" class="lbl"></label> <p class="switch-button-text-on">ENABLED</p> <p class="switch-button-text-off">DISABLED</p></div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="wpb_raw_code wpb_raw_js"> <div class="wpb_wrapper"></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><span class="cp-load-after-post"></span><div class="single-share-box"><div class="share-link-description">Share this page</div><div class="share-buttons"><a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.adswizz.com%2Four-privacy-policy%2F&amp;title=Privacy%20Policy&amp;summary=&amp;source=www.adswizz.com" title="LinkedIn" target="_blank"><span class="soc-font-icon"></span><span class="screen-reader-text">Share with LinkedIn</span></a><a class="twitter" href="https://twitter.com/share?url=https%3A%2F%2Fwww.adswizz.com%2Four-privacy-policy%2F&amp;text=Privacy+Policy" title="Twitter" target="_blank"><span class="soc-font-icon"></span><span class="screen-reader-text">Share with Twitter</span></a></div></div></div></div></div></div><footer id="footer" class="footer solid-bg">
+<div class="wf-wrap"> <div class="wf-container-footer"> <div class="wf-container"> <section id="custom_html-3" class="widget_text widget widget_custom_html wf-cell wf-1-8"><div class="textwidget custom-html-widget"><div class="footer-left"> <img src="https://www.adswizz.com/wp-content/uploads/2017/12/adswizz-white-log-smaller.png" alt="Adswizz"> <div class="footer-social"> <a href="https://www.linkedin.com/company/609440/?trk=tyah&amp;trkInfo=clickedVertical%3Acompany%2Cidx%3A2-1-3%2CtarId%3A1428393918779%2Ctas%3Aadswizz"> <i class="fa fa-linkedin fa-2x"></i> </a> <a href="https://twitter.com/adswizz"> <i class="fa fa-twitter fa-2x"></i> </a> <a href="mailto:info@adswizz.com"> <i class="fa fa-envelope fa-2x"></i> </a></div><div class="footer-rights"> <p> © 2018, AdsWizz, Inc. <br> All Right Reserved </p> <a href="https://www.adswizz.com/our-privacy-policy/"><span style="color: #85868c; text-decoration: underline;">Our Privacy Policy</span></a></div></div></div></section><section id="nav_menu-6" class="widget widget_nav_menu wf-cell wf-1-8"><div class="widget-title">ABOUT</div><div class="menu-about-footer-container"><ul id="menu-about-footer" class="menu"><li id="menu-item-445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a title="About Us" href="https://www.adswizz.com/about-adswizz/">Who We Are</a></li> <li id="menu-item-12285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12285"><a title="Partners" href="https://www.adswizz.com/adswizz-customers/">Partners</a></li> <li id="menu-item-12286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12286"><a title="Upcoming Events" href="https://www.adswizz.com/events/">Upcoming Events</a></li> <li id="menu-item-216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216"><a href="https://www.adswizz.com/about-adswizz/careers/">Careers</a></li> </ul></div></section><section id="nav_menu-4" class="widget widget_nav_menu wf-cell wf-1-8"><div class="widget-title">PUBLISHERS</div><div class="menu-publishers-footer-container"><ul id="menu-publishers-footer" class="menu"><li id="menu-item-426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-426"><a title="Publishers Overview" href="https://www.adswizz.com/publishers/">Publishers Overview</a></li> <li id="menu-item-12287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12287"><a title="Ad Insertion Suite" href="https://www.adswizz.com/ad-insertion-suite/">Ad Insertion Suite</a></li> <li id="menu-item-12288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12288"><a title="AudioServe" href="https://www.adswizz.com/audioserve/">AudioServe</a></li> <li id="menu-item-12289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12289"><a title="AudioMax SSP" href="https://www.adswizz.com/audiomax/">AudioMax SSP</a></li> <li id="menu-item-12290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12290"><a title="AdWave For Publishers" href="https://www.adswizz.com/adwave-for-publishers/">AdWave</a></li> <li id="menu-item-12291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12291"><a title="AudioMetrix" href="https://www.adswizz.com/audiometrix/">AudioMetrix</a></li> </ul></div></section><section id="nav_menu-3" class="widget widget_nav_menu wf-cell wf-1-8"><div class="widget-title">ADVERTISERS</div><div class="menu-advertisers-footer-container"><ul id="menu-advertisers-footer" class="menu"><li id="menu-item-425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-425"><a title="Advertisers Overview" href="https://www.adswizz.com/digital-audio-advertising/">Advertisers Overview</a></li> <li id="menu-item-12292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12292"><a title="AudioMatic DSP" href="https://www.adswizz.com/audiomatic/">AudioMatic DSP</a></li> <li id="menu-item-12293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12293"><a title="New Ad Formats" href="https://www.adswizz.com/new-audio-ad-formats/">New Ad Formats</a></li> <li id="menu-item-12294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12294"><a title="AdWave For Advertisers" href="https://www.adswizz.com/adwave-for-advertisers/">AdWave</a></li> <li id="menu-item-12648" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12648"><a title="Digital Audio Advertising Expert Certification" href="https://www.adswizz.com/digital-audio-expert">Certification</a></li> </ul></div></section><section id="nav_menu-9" class="widget widget_nav_menu wf-cell wf-1-8"><div class="widget-title">PODCAST</div><div class="menu-podcast-footer-container"><ul id="menu-podcast-footer" class="menu"><li id="menu-item-12295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12295"><a title="Podcast Solutions" href="https://www.adswizz.com/podcast-solutions/">Podcast Solutions</a></li> <li id="menu-item-12296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12296"><a title="Podcast Platform Partnership Program" href="https://www.adswizz.com/podcast-platform-partnership-program/">Podcast Platform Partnership Program</a></li> </ul></div></section><section id="nav_menu-12" class="widget widget_nav_menu wf-cell wf-1-8"><div class="widget-title">CASE STUDIES</div><div class="menu-case-studies-footer-container"><ul id="menu-case-studies-footer" class="menu"><li id="menu-item-12692" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12692"><a title="Case Studies" href="https://www.adswizz.com/case-studies">Case Studies</a></li> </ul></div></section><section id="nav_menu-13" class="widget widget_nav_menu wf-cell wf-1-8"><div class="widget-title">CAREERS</div><div class="menu-careers-footer-container"><ul id="menu-careers-footer" class="menu"><li id="menu-item-12693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12693"><a title="Careers at Adswizz" href="https://www.adswizz.com/about-adswizz/careers/">Careers</a></li> </ul></div></section><section id="nav_menu-10" class="widget widget_nav_menu wf-cell wf-1-8"><div class="widget-title">NEWS</div><div class="menu-news-footer-container"><ul id="menu-news-footer" class="menu"><li id="menu-item-11253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11253"><a title="News" href="https://www.adswizz.com/press/">News</a></li> </ul></div></section><section id="nav_menu-11" class="widget widget_nav_menu wf-cell wf-1-8"><div class="widget-title">BLOG</div><div class="menu-blog-footer-container"><ul id="menu-blog-footer" class="menu"><li id="menu-item-12297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12297"><a title="Blog" href="https://www.adswizz.com/blog/">Blog</a></li> </ul></div></section></div></div></div></footer>
+<a href="#" class="scroll-top"><span class="screen-reader-text">Go to Top</span></a></div><div class="pswp" tabindex="-1" role="dialog" aria-hidden="true"> <div class="pswp__bg"></div><div class="pswp__scroll-wrap"> <div class="pswp__container"> <div class="pswp__item"></div><div class="pswp__item"></div><div class="pswp__item"></div></div><div class="pswp__ui pswp__ui--hidden"> <div class="pswp__top-bar"> <div class="pswp__counter"></div><button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+<button class="pswp__button pswp__button--share" title="Share"></button>
+<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+<div class="pswp__preloader"> <div class="pswp__preloader__icn"> <div class="pswp__preloader__cut"> <div class="pswp__preloader__donut"></div></div></div></div></div><div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap"> <div class="pswp__share-tooltip"></div></div><button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+</button>
+<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+</button>
+<div class="pswp__caption"> <div class="pswp__caption__center"></div></div></div></div></div><noscript id="wpfc-google-fonts"><link rel='stylesheet' id='simple-job-board-google-fonts-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C700%2C700i%2C900%2C900i&#038;ver=2.6.0' type='text/css' media='all'/>
+<link rel='stylesheet' id='dt-web-fonts-css' href='//fonts.googleapis.com/css?family=Roboto%3A400%2C500%2C500italic%2C600%2C700%7COpen+Sans%3A300%2C400%2C600%2C700&#038;ver=fc581e137ef097fc627652ff68e27442' type='text/css' media='all'/>
+</noscript>
+<script>var slide_in={"demo_dir":"https:\/\/www.adswizz.com\/wp-content\/plugins\/convertplug\/modules\/slide_in\/assets\/demos"};</script>
+<script>var dtLocal={"themeUrl":"https:\/\/www.adswizz.com\/wp-content\/themes\/dt-the7","passText":"To view this protected post, enter the password below:","moreButtonText":{"loading":"Loading...","loadMore":"Load more"},"postID":"671","ajaxurl":"https:\/\/www.adswizz.com\/wp-admin\/admin-ajax.php","contactMessages":{"required":"One or more fields have an error. Please check and try again.","terms":"Please accept the privacy policy."},"ajaxNonce":"2265d1e8ee","pageData":{"type":"page","template":"page","layout":null},"themeSettings":{"smoothScroll":"off","lazyLoading":false,"accentColor":{"mode":"solid","color":"#b376ff"},"desktopHeader":{"height":60},"floatingHeader":{"showAfter":150,"showMenu":true,"height":60,"logo":{"showLogo":true,"html":"<img class=\" preload-me\" src=\"https:\/\/www.adswizz.com\/wp-content\/uploads\/2017\/12\/adswizz-white-log-smaller.png\" srcset=\"https:\/\/www.adswizz.com\/wp-content\/uploads\/2017\/12\/adswizz-white-log-smaller.png 155w\" width=\"155\" height=\"36\"   sizes=\"155px\" alt=\"www.adswizz.com\" \/>","url":"https:\/\/www.adswizz.com\/"}},"mobileHeader":{"firstSwitchPoint":1024,"secondSwitchPoint":1024,"firstSwitchPointHeight":70,"secondSwitchPointHeight":70},"stickyMobileHeaderFirstSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"https:\/\/www.adswizz.com\/wp-content\/uploads\/2017\/12\/adswizz-white-log-smaller.png\" srcset=\"https:\/\/www.adswizz.com\/wp-content\/uploads\/2017\/12\/adswizz-white-log-smaller.png 155w\" width=\"155\" height=\"36\"   sizes=\"155px\" alt=\"www.adswizz.com\" \/>"}},"stickyMobileHeaderSecondSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"https:\/\/www.adswizz.com\/wp-content\/uploads\/2017\/12\/adswizz-white-log-smaller.png\" srcset=\"https:\/\/www.adswizz.com\/wp-content\/uploads\/2017\/12\/adswizz-white-log-smaller.png 155w\" width=\"155\" height=\"36\"   sizes=\"155px\" alt=\"www.adswizz.com\" \/>"}},"content":{"textColor":"#85868c","headerColor":"#333333"},"boxedWidth":"1340px","stripes":{"stripe1":{"textColor":"#92a0af","headerColor":"#f1f3f6"},"stripe2":{"textColor":"#6b7885","headerColor":"#16202b"},"stripe3":{"textColor":"#f1f3f6","headerColor":"#f1f3f6"}}},"VCMobileScreenWidth":"768"};
+var dtShare={"shareButtonText":{"facebook":"Share on Facebook","twitter":"Tweet","pinterest":"Pin it","linkedin":"Share on Linkedin","whatsapp":"Share on Whatsapp","google":"Share on Google Plus","download":"Download image"},"overlayOpacity":"85"};</script>
+<script>var wpcf7={"apiSettings":{"root":"https:\/\/www.adswizz.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};</script>
+<script>if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+var originalAddEventListener=EventTarget.prototype.addEventListener,
+oldWidth=window.innerWidth;
+EventTarget.prototype.addEventListener=function (eventName, eventHandler, useCapture){
+if(eventName==="resize"){
+originalAddEventListener.call(this, eventName, function (event){
+if(oldWidth===window.innerWidth){
+return;
+}
+else if(oldWidth!==window.innerWidth){
+oldWidth=window.innerWidth;
+}
+if(eventHandler.handleEvent){
+eventHandler.handleEvent.call(this, event);
+}else{
+eventHandler.call(this, event);
+};}, useCapture);
+}else{
+originalAddEventListener.call(this, eventName, eventHandler, useCapture);
+};};
+};</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/www.adswizz.com\/","sameAs":["https:\/\/www.linkedin.com\/company\/609440\/?trk=tyah&trkInfo=clickedVertical:company,idx:2-1-3,tarId:1428393918779,tas:adswizz","https:\/\/twitter.com\/adswizz"],"@id":"https:\/\/www.adswizz.com\/#organization","name":"AdsWizz","logo":"https:\/\/www.adswizz.com\/wp-content\/uploads\/2018\/03\/adswizz_logo.png"}</script>
+<script src="//www.adswizz.com/wp-content/cache/wpfc-minified/fws6nxc/6wjv.js" type="text/javascript"></script>
+<script>document.addEventListener("DOMContentLoaded", function(event){
+var load=document.getElementById("load");
+var removeLoading=setTimeout(function(){
+load.className +=" loader-removed";
+}, 500);
+});</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-23011880-2"></script>
+<script>window.dataLayer=window.dataLayer||[];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-23011880-2');</script>
+<script>var $=jQuery;
+function getCookieValueByName(cookieName){
+var match=document.cookie.match(new RegExp('(^|)' + cookieName + '=([^;]+)'));
+if(match) return match[2];
+}
+$(document).ready(function (){
+var isCheked;
+var cookieValue=getCookieValueByName("OAID");
+function isOptOut(cookieValue){
+var pattern="optout";
+if(cookieValue===undefined){
+return false;
+}
+return cookieValue.indexOf(pattern) > -1;
+}
+function setCheckboxValue(){
+var optOutFlag=isOptOut(cookieValue);
+if(!optOutFlag){
+$('.cbx').attr('checked', 'checked');
+$('.switch-button-text-off').addClass('displayNone');
+}else{
+$('.cbx').removeAttr('checked');
+$('.switch-button-text-on').addClass('displayNone');
+}}
+setCheckboxValue();
+$('.cbx').change(function (){
+isCheked=$(this).is(':checked');
+$('.switch-button-text-off').toggleClass('displayNone', isCheked);
+$('.switch-button-text-on').toggleClass('displayNone', !isCheked);
+if(!isCheked){
+_ajaxCall(true);
+}else{
+_ajaxCall(false);
+}
+function _ajaxCall(bool){
+var OPTOUT_ENDPOINT="/optout.php";
+$.post(OPTOUT_ENDPOINT, {disable: bool})
+.fail(function (){
+if(!isCheked){
+$('.switch-button-text-off').addClass('displayNone');
+$('.switch-button-text-on').removeClass('displayNone');
+$('input').prop('checked', true);
+}else{
+$('.switch-button-text-on').addClass('displayNone');
+$('.switch-button-text-off').removeClass('displayNone');
+$('.cbx').removeAttr('checked');
+}});
+}});
+});</script>
+<script id="modal">jQuery(window).on('load', function(){
+startclock();
 });
-    </script>   
-  </head>
-  <body><header>
-      <div class="header-section">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-12">
-              <div class="header-content clearfix">
-                <div class="logo">
-                  <a href="http://www.adswizz.com/">
-                    <img src="http://www.adswizz.com/wp-content/themes/adswizz/img/logo.png" alt="adswizz">
-                  </a>
-                </div><!--/.logo-->
-                <div class="header-right">
-                  <nav class="navbar navbar-default">
-                    <div class="navbar-header website-header-navbar">
-                      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                      </button>
-                    </div>
-                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                      <ul class="nav navbar-nav">
-                                                        <li class="">
-                                    <a href="http://www.adswizz.com/products/">Products</a>
-                                  </li>
-                                                               <li class="">
-                                    <a href="http://www.adswizz.com/publishers/">Publishers</a>
-                                  </li>
-                                                               <li class="">
-                                    <a href="http://www.adswizz.com/advertisers/">Advertisers</a>
-                                  </li>
-                                                               <li class="">
-                                    <a href="http://www.adswizz.com/partners/">Partners</a>
-                                  </li>
-                                                               <li class="">
-                                    <a href="http://www.adswizz.com/about-us/">About us</a>
-                                  </li>
-                                                               <li class="">
-                                    <a href="http://www.adswizz.com/careers/">Careers</a>
-                                  </li>
-                                                               <li class="">
-                                    <a href="http://www.adswizz.com/blog/">Blog</a>
-                                  </li>
-                                                               <li class="">
-                                    <a href="http://www.adswizz.com/contact-us/">Contact us</a>
-                                  </li>
-                                                   </ul>
-                    </div><!-- /.navbar-collapse -->
-                    <span class="effect"></span>
-                  </nav>
-                  <div class="search">
-                    <a class="search-button" href="#">
-                      <i class="flaticon-search19"></i>
-                    </a>
-                    <div class="header-search-form">
-                       <form action="/" method="get" class="adw-searchform" id="searchform">
-	<input type="text" placeholder="Search" class="text-input" name="s" id="s">
-</form> 
-                    </div><!--/.header-search-form-->
-                  </div><!--/.search-->
-                </div><!--/.header-right-->
-
-              </div><!--/.header-content-->
-            </div><!--/.col-md-12-->
-          </div><!--/.row-->
-        </div><!--/.container-->
-      </div><!--/.header-section-->
-    </header>
-    <main>
-<div id="page">
-	<div class="adw-main-wrapper-holder">
-		<div id="adw-page-id-7742" class="theme-page-wrapper adw-main-wrapper full-layout  adw-grid vc_row-fluid">
-			<div class="theme-content " itemprop="mainContentOfPage">
-										<div class="clearboth"></div></div></div></div><div id="adw-page-section-5a9746496c2ce" data-intro-effect="false" class="full-width-5a9746496c2ce adw-background-stretch  full-height-false parallax-false adw-page-section adw-blur-parent adw-shortcode  top-section" data-speedfactor="0.3"><div class="adw-video-color-mask"></div><div class="adw-grid vc_row-fluid page-section-content"><div class="adw-padding-wrapper">
-	<div style="" class="vc_col-sm-12 container wpb_column column_container ">
-			<div class="wpb_row vc_row row vc_row-fluid  adw-fullwidth-false  attched-false vc_row-fluid">
-	<div style="" class="vc_col-sm-12 col-md-12 wpb_column column_container ">
-			<div id="adw-custom-box-5a9746496cdaa" class="adw-custom-boxed adw-blur-parent adw-blur-5a9746496cdaa adw-shortcode   top-section-container" style="margin-bottom:0px">	<div style=" margin-bottom:0px;text-align: left;" class="adw-text-block  top-section-content"><h1><span style="color: #e6186b;">Privacy Policy<br>
-</span></h1>
-<div class="clearboth"></div></div> 
-<div class="clearboth"></div></div><style type="text/css">
-                   #adw-custom-box-5a9746496cdaa {
-                        min-height:0px;
-                        padding:0px 0px;
-                        
-                        background-attachment:scroll;
-                        background-repeat:repeat;
-                        background-color:;
-                        background-position:left top;
-                        margin-bottom:0px;
-                        
-
-                  }
-                 #adw-custom-box-5a9746496cdaa .adw-fancy-title.pattern-style span{
-                        background-color:  !important;
-                    }
-                 </style>
-	</div></div>
-	</div></div><div class="clearboth"></div></div><div class="clearboth"></div></div>
-<style type="text/css">
-.full-width-5a9746496c2ce {
-    min-height:100px;
-    padding:0px 0 0px;
-    background-image:url(http://www.adswizz.com//wp-content/uploads/2015/03/products-full.png); 
-    background-attachment:scroll;
-    
-    background-position:center top;
-    background-repeat:no-repeat;
-    margin-bottom:0px;
-    
+function stopclock (){
+if(timerRunning) clearTimeout(timerID);
+timerRunning=false;
+//document.cookie="time=0";
 }
-     </style><div class="adw-main-wrapper-holder"><div class="theme-page-wrapper  full-layout adw-grid vc_row-fluid row-fluid"><div class="theme-content "><div class="clearboth"></div></div></div></div><div id="adw-page-section-5a9746496d33a" data-intro-effect="false" class="full-width-5a9746496d33a  full-height-false parallax-false adw-page-section adw-blur-parent adw-shortcode  advertiser-section ads-background-section" data-speedfactor="0.3"><div class="adw-video-color-mask"></div><div class="adw-grid vc_row-fluid page-section-content"><div class="adw-padding-wrapper">
-	<div style="" class="vc_col-sm-12 wpb_column column_container ">
-			<div class="wpb_row vc_row container vc_row-fluid  adw-fullwidth-false  attched-false vc_row-fluid">
-	<div style="" class="vc_col-sm-12 wpb_column column_container ">
-			<div id="adw-custom-box-5a9746496de2b" class="adw-custom-boxed adw-blur-parent adw-blur-5a9746496de2b adw-shortcode   row" style="margin-bottom:0px"><div class="adw-content-box adw-shortcode  "><span class="content-box-heading"><i class=""></i> </span><div class="content-box-content">	<div style=" margin-bottom:0px;text-align: left;" class="adw-text-block  "><p></p>
-<div class="clearboth"></div></div> 
-</div><div class="clearboth"></div></div><div class="adw-content-box adw-shortcode  "><span class="content-box-heading"><i class=""></i> </span><div class="content-box-content">	<div style=" margin-bottom:0px;text-align: left;" class="adw-text-block  "><div class="col-md-6">
-<h5 class="products-subtitle"><strong>Privacy Policy:</strong></h5>
-<p>AdsWizz Inc. (“AdsWizz,” “we”, or “us”) is an audio and video ad serving tech company. We enable online radio and video publishers and advertisers to get to know their audience by providing precise session-based measurements. Our customers use our solutions to deliver relevant online advertisements into their streams.</p>
-<p>&nbsp;</p>
-<p>The following sets forth the privacy practices and policy (“Privacy Policy”) related to the business we operate. It covers all data on website visitors/listeners that we collect for the purpose of delivering and enhancing our services. We are committed to protecting consumer privacy by informing you of what information we collect, how we use it, and with whom we may share it. We adhere to the Privacy Principles adopted by the Interactive Advertising Bureau (IAB).</p>
-<h5 class="products-subtitle"></h5>
-<p>&nbsp;</p>
-<h5 class="products-subtitle">What information do we collect to perform our services?</h5>
-<p>We collect or receive data from our customers (publishers/advertisers) in order to learn about the ads you might be interested in. This data includes but is not limited to browser identifier, wireless carrier, IP address, device type (website player, smartphone apps, media player, etc.) and browsing information. We may collect information about your mobile device, including, for example, the hardware model, operating system and version, type of mobile browser, software and file names, versions, preferred language, advertising identifiers, device motion and accelerometer information, real-time location (based on information provided by your device OS), and mobile network information.</p>
-<p>&nbsp;</p>
-<p>We receive information about consumers from third parties to enable targeted advertising on the website(s) and application(s) that we support. The collection and use of that data is governed by the privacy policy and legal terms of the data collector and the website using the data; it is not governed by AdsWizz.</p>
-<p>&nbsp;</p>
-<p>We also measure the exposure to online advertising campaign: number of impressions, number of clicks, numbers of users exposed, percentage of ad content played. We retain information on the ads that we served to you on a website and we reuse that information to deliver new ads when you visit another website on which we may also serve ads. We collect information such as your reaction to the ad (skip the ad, click on the ad) for statistical reporting purposes or to limit serving you additional ads.</p>
-<p>&nbsp;</p>
-<p>Furthermore, we collect and use only non-PII that does not directly or in combination with other information identify you as an individual. We may also obtain non-PII from third party data vendors that receive such non-PII pursuant to their own privacy policies. We do not collect PII via our advertising technology.&nbsp;None of the information we collect to provide our services is meant to be traced back to a specific individual.</p>
-<div class="clearboth"></div></div> 
-</div><div class="clearboth"></div></div>
-<div class="clearboth"></div></div><style type="text/css">
-                   #adw-custom-box-5a9746496de2b {
-                        min-height:0px;
-                        padding:0px 0px;
-                        
-                        background-attachment:scroll;
-                        background-repeat:repeat;
-                        background-color:;
-                        background-position:left top;
-                        margin-bottom:0px;
-                        
-
-                  }
-                 #adw-custom-box-5a9746496de2b .adw-fancy-title.pattern-style span{
-                        background-color:  !important;
-                    }
-                 </style><div id="adw-custom-box-5a9746496ed22" class="adw-custom-boxed adw-blur-parent adw-blur-5a9746496ed22 adw-shortcode   row" style="margin-bottom:0px"><div class="adw-content-box adw-shortcode  "><span class="content-box-heading"><i class=""></i> </span><div class="content-box-content">	<div style=" margin-bottom:0px;text-align: left;" class="adw-text-block  "><div class="col-md-6">
-<h5 class="products-subtitle">How do we use this information?</h5>
-<p>We process the data to find elements that will help us determine which products/services could be relevant to you and to improve the quality of the ads you’ll be served. For example, we may use the geo-location data to determine potential likelihood to listen to an ad or we may use the data collected to prevent the same ads to be served to you repeatedly.</p>
-<p>&nbsp;</p>
-<p>We also use the information we collect to maintain, improve and develop new services. We finally deliver a list of anonymous user identifiers and produce reports and analytics for our business partners.</p>
-<p>&nbsp;</p>
-<h5 class="products-subtitle">Disclosure of information</h5>
-<p>We share anonymous user identifiers and aggregated information with established 3rd party publishers/advertisers such as the number of users who visited a publisher site, or the number of users who listened to a particular ad, strictly for serving advertisements.</p>
-<p>&nbsp;</p>
-<p>We may share information with companies, organizations or individuals outside of AdsWizz if we have a good-faith belief that we are obligated to do so by law or as necessary to protect ourselves or others.</p>
-<p>&nbsp;</p>
-<p>We may allow others to provide audience measurement and analytics services for us, to serve advertisements on our behalf across the Internet, and to track and report on the performance of those advertisements. These entities may use their own cookies, web beacons, SDKs, and other technologies to identify your device when you visit our site and use our Services, as well as when you visit other online sites and services.</p>
-<p>&nbsp;</p>
-<p>Finally, we may transfer information in our possession to a successor entity in connection with a corporate change in control such as a merger or acquisition or the sale of company assets.</p>
-</div>
-<p>&nbsp;</p>
-<div class="clearboth"></div></div> 
-</div><div class="clearboth"></div></div><div class="adw-content-box adw-shortcode  "><span class="content-box-heading"><i class=""></i> </span><div class="content-box-content">	<div style=" margin-bottom:0px;text-align: left;" class="adw-text-block  "><div class="col-md-6">
-<h5 class="products-subtitle">Other Website</h5>
-<p>Through our services, we may link to other websites operated by other companies. This Privacy Policy does not apply to these linked websites. Each website should be checked for its own privacy policy.</p>
-<p>&nbsp;</p>
-<p>We do not exercise control over the manner in which our business partners label their custom data segments, but as applicable, we encourage our business partners to adhere to self-regulatory codes offered by the Network Advertising Initiative (NAI), Digital Advertising Alliance (DAA), and/or certain other industry standards.</p>
-<p>&nbsp;</p>
-<h5 class="products-subtitle">Data security</h5>
-<p>We take all reasonable measures to protect the information we collect and store. All data is stored in a secure facility and we strictly control access to the data.</p>
-<p>&nbsp;</p>
-<h5 class="products-subtitle">Changes to This Policy</h5>
-<p>This Privacy Policy is subject to change. We will post the updated version on our Website. Whenever a change is significant, we will place a prominent notice on this Website. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
-<p>&nbsp;</p>
-<h5 class="products-subtitle">Questions or Comments</h5>
-<p>If you have questions or comments regarding our Privacy Policy, please contact us at contact.us@adswizz.com</p>
-</div>
-</div>
-<div class="clearboth"></div></div> 
-</div><div class="clearboth"></div></div>
-<div class="clearboth"></div></div><style type="text/css">
-                   #adw-custom-box-5a9746496ed22 {
-                        min-height:0px;
-                        padding:0px 0px;
-                        
-                        background-attachment:scroll;
-                        background-repeat:repeat;
-                        background-color:;
-                        background-position:left top;
-                        margin-bottom:0px;
-                        
-
-                  }
-                 #adw-custom-box-5a9746496ed22 .adw-fancy-title.pattern-style span{
-                        background-color:  !important;
-                    }
-                 </style>
-	</div>
-<div class="col-md-12 opt-out-section">
-<div class="col-md-8">
-<p class="opt-out-title">Ads based on your interests:</p>
-<p class="opt-out-description">If you wish to opt out the ads based on user interest and demographic categories, please move the switch on the left to “disabled”. This applies only for this browser. In case you use multiple browsers (e.g Chrome, Safari, …),<br>
-do this procedure for each. If you clear you cache, you’ll need to do this procedure again.</p>
-</div>
-<div class="col-md-3 col-md-offset-1 switch-button-container"><input id="unchecked" class="cbx hidden" type="checkbox"><br>
-<label class="lbl" for="unchecked"></label></div>
-</div>
-<p class="switch-button-text-on">ENABLED</p>
-<p class="switch-button-text-off">DISABLED</p>
-</div>
-	</div></div><div class="clearboth"></div></div><div class="clearboth"></div></div>
-<style type="text/css">
-.full-width-5a9746496d33a {
-    min-height:0px;
-    padding:41px 0 93px;
-    background-image:url(http://www.adswizz.com//wp-content/uploads/2015/03/section-logo.png); 
-    background-attachment:scroll;
-    
-    background-position:left bottom;
-    background-repeat:no-repeat;
-    margin-bottom:0px;
-    
+function showtime (){
+var now=new Date();
+var my=now.getTime() ;
+now=new Date(my-diffms) ;
+//document.cookie="time="+now.toLocaleString();
+timerID=setTimeout('showtime()',10000);
+timerRunning=true;
 }
-     </style><div class="adw-main-wrapper-holder"><div class="theme-page-wrapper  full-layout adw-grid vc_row-fluid row-fluid"><div class="theme-content ">
-						<div class="clearboth"></div>
-													</div>
-							<div class="clearboth"></div>
-		</div>
-		<div class="clearboth"></div>
-	</div>	
-</div>
-</main>
-            <section class="brands-section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="brands-content">
-                            <section id="major_brands-2" class="widget widget_major_brands"><h2>Major Brands<br><span>Trust Adswizz</span></h2><div class="brands-images">
-                            <div class="row">
-                                <div class="col-md-12"><ul>
-<li><a href="http://www.iheartmedia.com/" target="_blank"><span class="brand-img-container"><span class="brand-img-inner"><img src="http://www.adswizz.com/wp-content/uploads/2015/05/iheart1-150x150.jpg" alt="brand-logo" height="108" width="108"></span></span></a></li>
-<li><a href="http://www.tunein.com" target="_blank"><span class="brand-img-container"><span class="brand-img-inner"><img src="http://www.adswizz.com/wp-content/uploads/2015/05/TuneIn_Logo-150x150.png" alt="brand-logo" height="108" width="108"></span></span></a></li>
-<li><a href="http://www.deezer.com" target="_blank"><span class="brand-img-container"><span class="brand-img-inner"><img src="http://www.adswizz.com/wp-content/uploads/2015/05/deewer-150x150.jpg" alt="brand-logo" height="108" width="108"></span></span></a></li>
-<li><a href="http://www.thisisglobal.com" target="_blank"><span class="brand-img-container"><span class="brand-img-inner"><img src="http://www.adswizz.com/wp-content/uploads/2015/05/global2-150x150.jpg" alt="brand-logo" height="108" width="108"></span></span></a></li>
-<li><a href="http://www.bauermedia.com/" target="_blank"><span class="brand-img-container"><span class="brand-img-inner"><img src="http://www.adswizz.com/wp-content/uploads/2015/05/bauer1-150x150.jpg" alt="brand-logo" height="108" width="108"></span></span></a></li>
-<li><a href="http://www.rtl.fr/" target="_blank"><span class="brand-img-container"><span class="brand-img-inner"><img src="http://www.adswizz.com/wp-content/uploads/2015/05/rtl-150x150.jpg" alt="brand-logo" height="108" width="108"></span></span></a></li>
-<li><a href="http://www.antenne.de/" target="_blank"><span class="brand-img-container"><span class="brand-img-inner"><img src="http://www.adswizz.com/wp-content/uploads/2015/06/antenna_bayern-150x150.jpg" alt="brand-logo" height="108" width="108"></span></span></a></li>
-<br><li><a href="http://www.havasmedia.com/" target="_blank"><span class="brand-img-container"><span class="brand-img-inner"><img src="http://www.adswizz.com/wp-content/uploads/2015/06/logo-150x150.jpg" alt="brand-logo" height="108" width="108"></span></span></a></li>
-<li><a href="http://www.katzradiogroup.com" target="_blank"><span class="brand-img-container"><span class="brand-img-inner"><img src="http://www.adswizz.com/wp-content/uploads/2015/05/KATZ-150x150.jpg" alt="brand-logo" height="108" width="108"></span></span></a></li>
-<li><a href="http://www.rms.de/" target="_blank"><span class="brand-img-container"><span class="brand-img-inner"><img src="http://www.adswizz.com/wp-content/uploads/2015/06/RMS1-150x150.jpg" alt="brand-logo" height="108" width="108"></span></span></a></li>
-<li><a href="http://www.thisisdax.com" target="_blank"><span class="brand-img-container"><span class="brand-img-inner"><img src="http://www.adswizz.com/wp-content/uploads/2015/05/dax-150x150.jpg" alt="brand-logo" height="108" width="108"></span></span></a></li>
-<li><a href="http://www.lotame.com" target="_blank"><span class="brand-img-container"><span class="brand-img-inner"><img src="http://www.adswizz.com/wp-content/uploads/2015/04/brand-img-19-150x150.png" alt="brand-logo" height="108" width="108"></span></span></a></li>
-<li><a href="http://www.cbs.com/" target="_blank"><span class="brand-img-container"><span class="brand-img-inner"><img src="http://www.adswizz.com/wp-content/uploads/2015/06/cbslocal-150x150.jpg" alt="brand-logo" height="108" width="108"></span></span></a></li>
-</ul></div></div></div></section>                        </div><!--/.brands-content-->
-                    </div><!--/.col-md-12-->
-                </div><!--/.row-->
-            </div><!--/.container-->
-        </section>
-        <section class="news-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="news-content">
-                            <section id="recent_posts_details-2" class="widget widget_posts_lists_details">
+function startclock (){
+stopclock();
+showtime();
+}
+var timerID=null;
+var timerRunning=false;
+var x=new Date() ;
+var now=x.getTime() ;
+var gmt=1541058988 * 1000 ;
+var diffms=(now - gmt) ;</script>
+<script id="info-bar">jQuery(window).on('load', function(){
+startclock();
+});
+function stopclock (){
+if(timerRunning) clearTimeout(timerID);
+timerRunning=false;
+//document.cookie="time=0";
+}
+function showtime (){
+var now=new Date();
+var my=now.getTime() ;
+now=new Date(my-diffms) ;
+//document.cookie="time="+now.toLocaleString();
+timerID=setTimeout('showtime()',10000);
+timerRunning=true;
+}
+function startclock (){
+stopclock();
+showtime();
+}
+var timerID=null;
+var timerRunning=false;
+var x=new Date() ;
+var now=x.getTime() ;
+var gmt=1541058988 * 1000 ;
+var diffms=(now - gmt) ;</script>
+<script id="slidein">jQuery(window).on('load', function(){
+startclock();
+});
+function stopclock (){
+if(timerRunning) clearTimeout(timerID);
+timerRunning=false;
+//document.cookie="time=0";
+}
+function showtime (){
+var now=new Date();
+var my=now.getTime() ;
+now=new Date(my-diffms) ;
+//document.cookie="time="+now.toLocaleString();
+timerID=setTimeout('showtime()',10000);
+timerRunning=true;
+}
+function startclock (){
+stopclock();
+showtime();
+}
+var timerID=null;
+var timerRunning=false;
+var x=new Date() ;
+var now=x.getTime() ;
+var gmt=1541058988 * 1000 ;
+var diffms=(now - gmt) ;</script>
+<script defer="" src="//www.adswizz.com/wp-content/cache/wpfc-minified/2cbmthcm/723t.js" type="text/javascript"></script>
+<script>document.addEventListener('DOMContentLoaded',function(){function wpfcgl(){var wgh=document.querySelector('noscript#wpfc-google-fonts').innerText, wgha=wgh.match(/<link[^\>]+>/gi);for(i=0;i<wgha.length;i++){var wrpr=document.createElement('div');wrpr.innerHTML=wgha[i];document.body.appendChild(wrpr.firstChild);}}wpfcgl();});</script>
 
-
-		<h2>latest news<br><span>from the blog</span></h2>
-		<div class="row">
-				<div class="col-md-6">
-			<div class="row">
-				<div class="col-md-8 news-main col-sm-9 pull-right">
-					<h3>
-						<a href="http://www.adswizz.com/adswizz-audiomax-powering-new-pandora-audio-programmatic-marketplace/">AdsWizz AudioMax powering new Pandora audio programmatic marketplace</a>
-					</h3>
-					<a class="news-description" href="http://www.adswizz.com/adswizz-audiomax-powering-new-pandora-audio-programmatic-marketplace/">February 21, 2018 , </a>
-					<a class="button small" href="http://www.adswizz.com/adswizz-audiomax-powering-new-pandora-audio-programmatic-marketplace/">Read <span>more</span></a>
-				</div>
-				<div class="col-md-3 news-sidebar col-sm-3">
-					<div class="news-name-container">
-						<a href="http://www.adswizz.com/author/adswizz/">
-							<span class="news-img-container">
-								<img src="http://1.gravatar.com/avatar/a51cb7d5e390951414293168dcdf5208?s=54&amp;d=mm&amp;r=g" width="54" height="54" alt="" class="avatar avatar-54wp-user-avatar wp-user-avatar-54 alignnone photo avatar-default">							</span>
-							<span class="news-name"></span>
-						</a>
-					</div>
-					<div class="news-social-container">
-						<span class="follow">Follow </span>
-											</div>
-				</div>
-			</div>
-		</div>	    
-	       		<div class="col-md-6">
-			<div class="row">
-				<div class="col-md-8 news-main col-sm-9 pull-right">
-					<h3>
-						<a href="http://www.adswizz.com/rogers-media-launches-programmatic-enabled-dynamic-ad-insertion-on-digital-audio-platforms/">Rogers Media Launches Programmatic-Enabled Dynamic Ad Insertion on Digital Audio Platforms</a>
-					</h3>
-					<a class="news-description" href="http://www.adswizz.com/rogers-media-launches-programmatic-enabled-dynamic-ad-insertion-on-digital-audio-platforms/">January 17, 2018 , </a>
-					<a class="button small" href="http://www.adswizz.com/rogers-media-launches-programmatic-enabled-dynamic-ad-insertion-on-digital-audio-platforms/">Read <span>more</span></a>
-				</div>
-				<div class="col-md-3 news-sidebar col-sm-3">
-					<div class="news-name-container">
-						<a href="http://www.adswizz.com/author/adswizz/">
-							<span class="news-img-container">
-								<img src="http://1.gravatar.com/avatar/a51cb7d5e390951414293168dcdf5208?s=54&amp;d=mm&amp;r=g" width="54" height="54" alt="" class="avatar avatar-54wp-user-avatar wp-user-avatar-54 alignnone photo avatar-default">							</span>
-							<span class="news-name"></span>
-						</a>
-					</div>
-					<div class="news-social-container">
-						<span class="follow">Follow </span>
-											</div>
-				</div>
-			</div>
-		</div>	    
-	       		</div>    
-
-        </section>                    </div><!--/.news-content-->
-                </div><!--/.col-md-12-->
-            </div><!--/.row-->
-        </div><!--/.container-->
-    </section>
-    <section class="contact-section">   
-        <div class="container">
-            <div class="contact-section-inner">
-                <div class="contact-section-box col-md-6">
-                    <div class="contact-section-box-inner">
-                        <div class="contact-mail-container">
-                            <img src="http://www.adswizz.com/wp-content/themes/adswizz/img/mail.png" alt="">
-                        </div>                              
-                        <div class="sign-up-content">
-                            <section id="mc4wp_widget-3" class="widget widget_mc4wp_widget"><h2>GET POSTED<br><span>SIGN UP TO OUR NEWSLETTER</span></h2><!-- Form by MailChimp for WordPress plugin v2.2.8 - https://mc4wp.com/ --><div id="mc4wp-form-1" class="form mc4wp-form"><form method="post">                              <div class="form-group pull-left">
-                                <input type="email" name="email" class="form-control" placeholder="Your e-mail address">
-                              </div>
-                              <button type="submit" value="Subscribe" class="btn btn-default pull-left form-button">SIGN <span>UP</span></button><input type="text" name="_mc4wp_required_but_not_really" value=""><input type="hidden" name="_mc4wp_timestamp" value="1519863369"><input type="hidden" name="_mc4wp_form_submit" value="1"><input type="hidden" name="_mc4wp_form_instance" value="1"><input type="hidden" name="_mc4wp_form_nonce" value="64ad0b6ad5"></form></div><!-- / MailChimp for WP Plugin --><style type="text/css">.mc4wp-form input[name="_mc4wp_required_but_not_really"] { display: none !important; }</style></section>		<script>
-			 $(".form form").validate();
-			 $(document).ready(function(){
-			 	$(".form-button").click(function(e) {
-				    if ($(".form-control").val() == '') {
-					 	    e.preventDefault();
-					}
-				});
-			});
-		</script>
-	                            
-                        </div><!--/.sign-up-content-->
-                    </div><!--/.contact-section-box-inner"-->
-                </div><!--/.contact-section-box-->
-                <div class="contact-section-box col-md-6 social">
-                    <div class="contact-section-box-inner">
-                    <section id="synved_social_follow-2" class="widget widget_synved_social_follow">
-    
-	<div class="social-container">
-		<i class="flaticon-linkedin12"></i>
-		<i class="flaticon-facebook34"></i>
-		<i class="flaticon-twitter1"></i>
-    </div> 
-    <div class="follow-us-content">
-	<h2 class="sub-section-title"> Follow Adswizz<br>
-		<span>ON THE SOCIAL NETWORKS</span>
-	</h2>
-
-    <a class="synved-social-button synved-social-button-follow synved-social-size-32 synved-social-resolution-single synved-social-provider-twitter nolightbox" data-provider="twitter" target="_blank" rel="nofollow" title="https://twitter.com/adswizz" href="https://twitter.com/adswizz" style="font-size: 0px; width:32px;height:32px;margin:0;margin-bottom:5px;margin-right:5px;"><img alt="twitter" title="https://twitter.com/adswizz" class="synved-share-image synved-social-image synved-social-image-follow" width="32" height="32" style="display: inline; width:32px;height:32px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://www.adswizz.com/wp-content/plugins/social-media-feather/synved-social/image/social/regular/64x64/twitter.png"></a><a class="synved-social-button synved-social-button-follow synved-social-size-32 synved-social-resolution-single synved-social-provider-linkedin nolightbox" data-provider="linkedin" target="_blank" rel="nofollow" title="Find us on Linkedin" href="https://www.linkedin.com/company/609440?trk=tyah&amp;trkInfo=clickedVertical%3Acompany%2Cidx%3A2-1-3%2CtarId%3A1428393918779%2Ctas%3Aadswizz" style="font-size: 0px; width:32px;height:32px;margin:0;margin-bottom:5px;"><img alt="linkedin" title="Find us on Linkedin" class="synved-share-image synved-social-image synved-social-image-follow" width="32" height="32" style="display: inline; width:32px;height:32px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://www.adswizz.com/wp-content/plugins/social-media-feather/synved-social/image/social/regular/64x64/linkedin.png"></a> </div> </section>                    </div><!--/.contact-section-box-inner"-->
-                </div><!--/.contact-section-box-->
-            </div><!--/.contact-section-inner-->
-        </div><!--/.container-->
-    </section>
-    <footer>
-    <section>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-3">
-                <section id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-products-footer-menu-container"><ul id="menu-products-footer-menu" class="menu"><li id="menu-item-7963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7963"><a href="http://www.adswizz.com/products/audio-adserver/">Audio<br>AdServer</a></li>
-<li id="menu-item-8439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8439"><a href="http://www.adswizz.com/products/adwave-for-publishers-3/">AdWave <br> for Publishers</a></li>
-<li id="menu-item-8438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8438"><a href="http://www.adswizz.com/products/adwave-for-advertisers/">AdWave <br> for Advertisers</a></li>
-<li id="menu-item-7964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7964"><a href="http://www.adswizz.com/products/audiomax-supply-side-platform/">AudioMax <br> Supply Side Platform</a></li>
-<li id="menu-item-8674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8674"><a href="http://www.adswizz.com/products/audiomatic-buy-side-platform/">AudioMatic <br> Buy Side Platform</a></li>
-<li id="menu-item-7962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7962"><a href="http://www.adswizz.com/products/audio-ad-insertion-solution/">Audio Ad Insertion <br> Solution</a></li>
-<li id="menu-item-7961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7961"><a href="http://www.adswizz.com/products/audience-analytics-and-supply-intelligence/">Audience Analytics <br> and Supply Intelligence</a></li>
-</ul></div></section>            </div><!-- .first .widget-area -->
-            <div class="col-md-2 titles-only">
-                <div class="menu-page-footer-menu-container"><ul id="menu-page-footer-menu" class="menu"><li id="menu-item-6491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6491"><a href="http://www.adswizz.com/publishers/">Publishers</a></li>
-<li id="menu-item-6492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6492"><a href="http://www.adswizz.com/advertisers/">Advertisers</a></li>
-<li id="menu-item-6493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6493"><a href="http://www.adswizz.com/partners/">Partners</a></li>
-<li id="menu-item-6494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6494"><a href="http://www.adswizz.com/about-us/">About us</a></li>
-</ul></div>            </div><!-- .second .widget-area -->
-            <div class="col-md-4">
-                <section id="recent_posts-12" class="widget widget_posts_lists">
-        <ul class="dividers blog-footer">
-				<li class="footer-list-title"><a href="http://www.adswizz.com/blog/">Blog</a></li>
-		
-        <li class="post-list-">
-        <div class="post-list-info ">
-        <a href="http://www.adswizz.com/adswizz-audiomax-powering-new-pandora-audio-programmatic-marketplace/" class="post-list-title">AdsWizz AudioMax powering new Pandora audio programmatic marketplace</a>
-	              </div>
-
-       <div class="clearboth"></div>
-       </li>
-        
-        
-        <li class="post-list-">
-        <div class="post-list-info ">
-        <a href="http://www.adswizz.com/rogers-media-launches-programmatic-enabled-dynamic-ad-insertion-on-digital-audio-platforms/" class="post-list-title">Rogers Media Launches Programmatic-Enabled Dynamic Ad Insertion on Digital Audio Platforms</a>
-	              </div>
-
-       <div class="clearboth"></div>
-       </li>
-        
-        
-        </ul>
-        </section>            </div><!-- .third .widget-area -->
-            <div class="col-md-3">
-                                <ul class="dividers careers-footer">   
-                    <li class="footer-list-title">
-                        <a href="http://www.adswizz.com/careers/">Careers</a>
-                    </li>
-                                                                        <li><a href="http://www.adswizz.com/careers/programmatic-account-manager-with-french/">
-                            <span>new</span>Programmatic Account Manager with French</a></li>
-                                                    <li><a href="http://www.adswizz.com/careers/programmatic-account-manager-with-german/">
-                            <span>new</span>Programmatic Account Manager with German</a></li>
-                                                    <li><a href="http://www.adswizz.com/careers/big-data-developer-for-the-forecasting-team/">
-                            <span>new</span>Big Data Developer for the Forecasting team</a></li>
-                                            <li class="footer-list-title small">
-                        <a href="http://www.adswizz.com/contact-us/">Contact Us</a>
-                    </li>
-                </ul>
-            </div><!-- .fourth .widget-area -->
-            <div class="col-md-12">
-                <p class="copyright">© 2018 AdsWizz. All rights reserved. <a href="/terms-and-conditions">Our Privacy Policy</a></p>
-            </div><!--/.col-md-12-->
-        </div>
-    </div>
-    </section>
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-23011880-2', 'auto');
-      ga('send', 'pageview');
-
-    </script>
-</footer></body></html>
+<link rel="stylesheet" id="simple-job-board-google-fonts-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C700%2C700i%2C900%2C900i&amp;ver=2.6.0" type="text/css" media="all"><link rel="stylesheet" id="dt-web-fonts-css" href="//fonts.googleapis.com/css?family=Roboto%3A400%2C500%2C500italic%2C600%2C700%7COpen+Sans%3A300%2C400%2C600%2C700&amp;ver=fc581e137ef097fc627652ff68e27442" type="text/css" media="all"></body></html>
