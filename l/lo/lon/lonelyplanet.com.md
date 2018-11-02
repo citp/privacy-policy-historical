@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lonelyplanet.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622165013id_/https%3A//lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonelyplanet.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102021517id_/https%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Information - Lonely Planet
 
