@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ubridge.org privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106210905id_/http%3A//ubridge.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubridge.org privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102101722id_/http%3A//www.ubridge.org/privacy-policy) for the most accurate reproduction.*
 
-# University Bridge Privacy Policy | University Bridge Program
+# Privacy Policy - University Bridge
 
-This privacy policy (“Privacy Policy”) governs your use of [www.ubridge.org](http://www.ubridge.org/) and our other websites on which this Privacy Policy is posted (the “Websites”) and explains, in general, what Personal Information (as defined below) and other information is collected on the Websites, how the information is used and with whom we may share such information. CollegeSolved, LLC is referred to in this Privacy Policy as the “Company,” “we,” “us,” “our” or other similar pronouns.
+This privacy policy (“Privacy Policy”) governs your use of [89.238.212.158](http://www.ubridge.org/) and our other websites on which this Privacy Policy is posted (the “Websites”) and explains, in general, what Personal Information (as defined below) and other information is collected on the Websites, how the information is used and with whom we may share such information. CollegeSolved, LLC is referred to in this Privacy Policy as the “Company,” “we,” “us,” “our” or other similar pronouns.
 
 We take your privacy seriously. This Privacy Policy explains what we do to make as sure as reasonably possible that information about you is kept both secure and confidential. Please read this Privacy Policy carefully, as once you use our website or our services you will be deemed to have read and accepted this Privacy Policy.
 
