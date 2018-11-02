@@ -1,92 +1,221 @@
-> *The following text is extracted and transformed from the springernature.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130044907id_/https%3A//www.springernature.com/gp/legal/privacy-statement/11033522) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springernature.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102192517id_/https%3A//www.springernature.com/gp/legal/privacy-statement/11033522) for the most accurate reproduction.*
 
-# Privacy policy | Legal information | Research Publisher
+# Privacy policy | Legal information | Springer Nature
 
-### 1\. Purpose of collecting and using data according to § 13 paragraph 1 of the Telemediengesetz (German Telemedia Act)
+This is the privacy policy (“policy”) for the website [https://www.springernature.com](https://www.springernature.com/) which is run and provided by Springer-Verlag GmbH, Heidelberg, Zweigniederlassung der Springer-Verlag GmbH Berlin, Tiergartenstrasse 17, D-69121 Heidelberg, Germany, (we, us and our).   
+We will only use the personal data gathered over this website as set out in this policy. Below you will find information on how we use your personal data, for which purposes your personal data is used, with whom it is shared and what control and information rights you may have.  
 
-Collecting your data serves to provide you with user-friendly, efficient and secure internet services. Springer-Verlag GmbH, Heidelberg, Zweigniederlassung der Springer-Verlag GmbH, Berlin, Tiergartenstrasse 17, D-69121 Heidelberg, Germany ( referred to as “Springer Nature” or “we” or “our” or “us”) uses the collected and processed personal data in order to provide those users who are interested with information. Furthermore, we generally process the data with the goal of improving our service and ensuring its security. No personal data is processed: we process the data anonymously or using pseudonyms. Whenever you complete transactions using our website, e.g. opening a user account and / or purchasing a publication, further data processing processes may take place, of which you will of course be separately informed.  
+
+#### I.    Summary of our processing activities
+
+  
+The following summary provides you with a quick overview of the processing activities that are undertaken on our website. You will find more detailed information under the indicated sections below.
+
+  * When you visit our website for informational reasons without setting up an account, only limited personal data will be processed to provide you with the website itself (see section III). 
+  * In case you subscribe to our newsletter, further personal data will be processed in the scope of such services (see section V). 
+  * Furthermore, your personal data will be used to provide you with interesting advertising for our services and products (see section VI) and your personal data will be used for statistical analysis that helps us to improve our website (see section VII).
+  * Your personal data may be disclosed to third parties (see section VIII) that might be located outside your country of residence; potentially, different data protection standards may apply (see section IX).
+  * We have implemented appropriate safeguards to secure your personal data (see section IX) and retain your personal data only as long as necessary (see section XI).
+  * Under the legislation applicable to you, you may be entitled to exercise certain rights with regard to the processing of your personal data (see section XII).
 
 
-### 2\. The form and scope of collecting and processing personal data
-
-#### a) Inventory data according to § 14 paragraph 1 of the German Telemedia Act
-
-If you wish to receive a newsletter we need to save and use your e-mail address. We will then send electronic messages at appropriate intervals to the e-mail address you gave us, which may also contain topic-specific advertisements along with editorial information on our products and services. However, you can unsubscribe at any time.
 
 ####   
-b) Usage data according to § 15 paragraph 1 of the German Telemedia Act
+II.    Definitions
 
-As a general rule, you may access our websites without having to provide any personal data. Nevertheless, we will create a so-called utilization profile by using a pseudonym if you visit our websites as a registered or unregistered user. This implies that data will be collected and saved anonymously for marketing and optimization purposes. This data includes information on the website from which you were taken to our offer, information on your internet service provider and the offers you viewed on our website, as well as the date and length of your visit. On the basis of this already pseudonymous data a utilization profile will be created, along with a corresponding pseudonym. For this purpose, cookies may be used (see subparagraph 5 below). Authentication and tracking logs will be used to compile user statistics. This data will not contain any personally identifiable information.
+  * Personal data: means any information relating to a natural person who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, or an online identifier.
+  * Processing: means any operation which is performed on personal data, such as collection, recording, organisation, structuring, storage, adaptation or any kind of disclosure or other use.
 
-### 3\. Passing on data to third parties
 
-We only pass on personal data to a third party to the extent necessary to fulfill our contractual relationship (if at all), if we are bound by law or if it should be necessary in order to implement our general terms and conditions of business or any other agreements concluded with you, or in order to enforce our rights and claims.  
-Provided your personal data is passed on for other purposes we will ask for your approval in each individual case. If you do not approve we will of course not pass on the data.
 
-### 4\. Disclosure, rectification, deletion, account freezing
-
-Provided you send us a request in writing, we will inform you about which personal data we have saved at any time. You may at any time demand that we freeze or delete your user account data and accordingly your personal data. Only data we need in order to process open tasks or to enforce our rights are exempt from deletion, as well as data we are required to save by law.
-
-### 5\. Cookies, etc.
-
-We use so-called cookies or other instruments to analyze the usage of our website. Cookies are small files which are saved on your hard drive and which provide us with specific information. This information above all includes the IP address, your browser type, the URL click stream (the chronological order of our internet sites you visited), the date and the time of your visit on our website as well as the cookie number.  
-Firstly, using cookies and similar instruments makes it possible to recognize you whenever you as a user access our internet sites again after the expiration of a session. Cookies also allow us to ideally adapt our products and services to your individual needs. Lastly, we use cookies to statistically record how often our internet sites are viewed as well as the general navigation in order to create encoded usage profiles (see above).
-
-This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. The IP address will be truncated before transmission. On our behalf Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity and providing other services relating to website activity and internet activity in connection with the use of the website. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser; however please note that if you do this you may not be able to use the full functionality of this website. In addition to that you may prevent the collection of the information generated by the cookie about your use of the website (including you IP address) and the processing of this data by Google if you download and install the browser plug-in available at the following link: <http://tools.google.com/dlpage/gaoptout?hl=de>
+#### III.    Informational use of the website
 
   
-We use affiliate networks operated by Digital Window Inc. (http://www.affiliatewindow.com), Value Click International Limited (http://de.cj.com) and Zanox.de AG (http://www.zanox.com). Whenever you are referred to our website by an advertisement on a website that is part of these affiliate networks (affiliate), the fact that you are coming from that website will be recorded. For this purpose, the respective company will set a cookie. If you make a purchase on our website or revisit our website within a certain period of time, the respective companies will be able to recognize you and attribute any purchases you make to the affiliate. A random pseudonym will be used so that this information cannot be linked to you personally. We will not combine this information with your personal data nor forward any personal data on you to third parties. You can prevent being tracked by choosing the appropriate preference in the privacy options of your browser or disable cookies or delete the cookie.
+When you visit our website for informational reasons, i.e. without applying for a newsletter, we may automatically collect information about you which will contain personal data only in limited cases and which is automatically recognised by our server, such as: 
+
+  * the website from which you have been directed to our offer
+  * the date and time of your requests
+  * your device type, screen resolution and browser version
+  * your internet service provider
+  * information on your operating system, including language settings
+  * information on the offers you have visited on our website
+
+
+
+We use such information only to assist us in providing an effective service (e.g. to adapt our website to the needs of your device or to allow you to log in to our website), and to collect broad demographic information for anonymised, aggregated use.   
+The personal data automatically collected is necessary for us to provide the website, Article 6 sec. 1 sent. 1 lit. b GDPR, and for our legitimate interest to guarantee the website’s stability and security, Article 6 sec. 1 sent. 1 lit. f GDPR.  
+Personal data that is collected automatically is anonymized immediately and properly erased afterwards.
+
+####   
+IV.    Request
 
   
-This website uses the third party tool “Sociomantic Sonar” operated by Sociomantic Labs GmbH, Paul- Lincke-Ufer 39/40, 10999 Berlin (www.sociomantic.com). Sociomantic Sonar delivers targeted ads on websites of its partner network to springernature.com users that have vis-ited our website and have thus shown an interest in certain of our offers. Such targeted ads are displayed on the basis of information about the previous visits of the respective web pag-es that is inter alia stored in cookies which Sociomantic places on your computer. The data in these files is then retrieved in the course of subsequent visits of third party websites for specific product recommendations. The cookie includes a random identification number. Neither this number nor the information about your past use of the respective web pages can be attributed to you as an individual. Neither we nor Sociomantic will merge the information about the visits with any of your per-sonal data or disclose any of your personal data to any third party.  
-You can prevent all tracking by Sociomantic Sonar by clicking on the following link and checking the corresponding opt-out box: <https://www.sociomantic.com/privacy/en/>. When you opt-out a new cookie is placed in your web browser that tells Sociomantic’s technology to cease any data collection and data processing in relation to your web browser. You can opt-in to Sociomantic’s ads again at any time by un-checking the box explained above. Your opt-out stays active as long as the opt-out cookie remains stored in your web browser. Please, remember that your must check the opt-out box for each web browser that you use.
+Whenever you contact us via the channels provided on the website (by phone, email or in writing) we will store the personal data you provide. These may contain:
+
+  * Name and address (including title)
+  * Email address
+  * Phone number
+  * Company and organization type
+  * Occupation and/or area of interest
+  * Country the company/organization is located in
+
+
+
+For this, the legal basis is Article 6 sec. 1 sent. 1 lit. b GDPR.  
+The information you provide when contacting us (see also section XI) will be processed to:
+
+  * Communicate with you
+  * Provide you with the services and information which you request. This includes:
+    * Information about Springer Nature events and to discuss aspects of these events with you
+    * Information on site licence trials and related pricing details
+    * Facilitate and communicate with you about your request to recommend a Springer Nature journal to your library
+
+
+
+They will archived for later reference and erased when the process is fully completed.  
+Alternatively, we will restrict the processing of the respective information in accordance with statutory retention requirements.
+
+#### V.    Newsletter
 
   
-This website uses the Criteo-Service to advertise on our site and third party websites to previous visitors of our site. Criteo-Service is operated by Criteo SA, Rue Blanche, 75009, Paris, France (<http://www.criteo.com/>).  
-The advertisements are displayed on the basis of information that is stored in cookies which Criteo places on your computer. Cookies are small text files used to store a record. The text files include information, on your visit of our website, in particular product views that is read-out in the course of subsequent visits of this or third party websites for specific product recommendations. The cookie includes a random alias. In case you visit our website within a certain period of time and view our products, Criteo is able to recognize you by means of the alias. However, the information cannot be attributed to you personally. We or Criteo will not merge this information with your personal data and will not disclose any of your personal data to any third party. You can prevent the storing and using of information in a cookie placed by Criteo by clicking on the following link <http://www.criteo.com/en/privacy-policy> and using the controller next to “Opt-Out” by switching it to “ON”.  
-When you opt-out, a new cookie (Opt-Out-Cookie) is placed in your web browser that tells Criteo to cease data collection from and ad delivery to your browser. You can opt-in to Criteo’s ads again at any time by switching the controller to “OFF”. Please be aware that this configuration will be necessary for each of your browsers. In case all of your cookies in a browser are deleted, also the Opt-Out-Cookie of Criteo will be affected.  
+With your email address you can subscribe to our newsletter or alert that provides you with the latest news about our products and services or information from your area of interest (if you have specified one during ordering the newsletter) if you consent to receiving such newsletters and may also contain topic-specific advertisements. The legal basis for this processing is Article 6 sec. 1 sent. 1 lit. a GDPR. Your email address will be retained as long as you subscribe to our newsletter.  
+You can unsubscribe from this service by opting out via the link provided in each newsletter.
+
+####   
+VI.    Online Advertising
+
+  
+This website uses the online advertising services to present you with ads that meet your interests. Respective advertisement is labelled with the name of the provider, e.g. “Google-Ad”. Additionally, this service helps us to improve our website and to make your visit more interesting. In order to do so, we collect statistical information about you that will be processed by the provider. This processing is based on Article 6 sec. 1 sent. 1 lit. f GDPR and represents our legitimate interest to improve your website experience and to promote our products and services.
+
+ **1\. Cookies, Web-beacons**  
+Providers will be automatically informed about your visit on our website. For such purpose, a web beacon is used to place a cookie on your computer.   
+Please note that we neither have the control of the extent of personal data that is collected by the respective plug-in provider nor do we know the processing’s purpose or the period your personal data will be retained. Depending on the provider your personal data may be transferred to and processed in third countries, e.g. the United States. For further information about the potential risks of a cross border data transfer please refer to section IX.  
+It is possible that a provider discloses your personal data to its business partners, third parties or authorities.  
+You can prevent the installation of such a cookie   
+(i)    by a respective setting of your browser that blocks the installation of third party cookies,   
+(ii)    by deactivating the provider’s interest-related advertising under the link mentioned in the provider details below,  
+(iii)    or generally blocking cookies under e.g      
+<http://www.google.com/settings/ads/plugin>.   
+Further information about the processing of your personal data in the provider’s course of operation is provided by its privacy policy. Moreover, you will be provided with further information with regard to your rights and settings concerning privacy. You can access the provider’s privacy policy by following the link in the provider details below.
+
+ **2\. Criteo**  
+We use the Criteo-Service to advertise on our site and third party websites to previous visitors of our site. Criteo-Service is operated by Criteo SA, Rue Blanche, 75009, Paris, France (<http://www.criteo.com/>).  
+The advertisements are displayed on the basis of information that is stored in cookies which Criteo places on your computer. The text files include information, on your visit of our website, in particular product views that is read-out in the course of subsequent visits of this or third party websites for specific product recommendations. The cookie includes a random alias. In case you visit our website within a certain period of time and view our products, Criteo is able to recognize you by means of the alias. However, the information cannot be attributed to you personally. We or Criteo will not merge this information with your personal data and will not disclose any of your personal data to any third party. You can prevent the storing and using of information in a cookie placed by Criteo by clicking on the following link <http://www.criteo.com/en/privacy-policy> and using the controller next to “Opt-Out” by switching it to “ON”.  
+When you opt-out, a new cookie (Opt-Out-Cookie) is placed in your web browser that tells Criteo to cease data collection from and ad delivery to your browser. You can opt-in to Criteo’s ads again at any time by switching the controller to “OFF”. Please be aware that this configuration will be necessary for each of your browsers. In case all of your cookies in a browser are deleted, also the Opt-Out-Cookie of Criteo will be affected.
+
+ **3\. CJ Affiliate (former Commission Junction)**  
+We use affiliate networks operated by Digital Window Inc. ([http://www.affiliatewindow.com](http://www.affiliatewindow.com/)). Whenever you are referred to our website by an advertisement on a website that is part of these affiliate networks (affiliate), the fact that you are coming from that website will be recorded. For this purpose, the respective company will set a cookie. If you make a purchase on our website or revisit our website within a certain period of time, the respective companies will be able to recognize you and attribute any purchases you make to the affiliate. A random pseudonym will be used so that this information cannot be linked to you personally. We will not combine this information with your personal data nor forward any personal data on you to third parties.   
+You can prevent being tracked by choosing the appropriate preference in the privacy options of your browser or disable cookies or delete the cookie.
+
+####   
+VII.    Analysis
+
+For statistical analyses we use web analytics services to collect information about the use of this site.
+
+ **1.     General tracking information**  
+The tools collect information such as
+
+  * Device and browser information (operating system information, Mobile device identifier, mobile operating system, etc.)
+  * IP address (shortened and anonymized)
+  * Page accessed, URL click stream (the chronological order of our internet sites you visited)
+  * Geographic location
+  * Time of visit
+  * Referring site, application, or service
 
 
-### 6\. Security
 
-We employ technical and organizational security measures to guarantee that your data is protected from loss, incorrect modifications and unauthorized third-party access. To the greatest extent possible, we ensure that only authorized persons have access to your personal data and only insofar as it is necessary in the scope of the above-mentioned purposes.  
+We use the information we get from the providers only to determine the most useful information you are looking for, and to improve and optimise this website. We do not combine the information collected through the use of the tools with personal data.   
+The tools collect only the IP address assigned to you on the date you visit this site, rather than your name or any other identifying information. The provider will use this information in order to evaluate your use of the website, to compile reports on website activities and to provide other services relating to website and internet use to us.  
+The legal basis for this processing is Art. 6 sec. 1 sent. 1 lit. f GDPR and represents our legitimate interest to analyse our website’s traffic to improve the user’s experience and to optimise the website in general.
 
+ **2\. Google Analytics / Google Tag Manager**  
+We use Google Analytics, a web analytics service provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”). On our behalf Google will use the information generated by a cookie for the purpose of evaluating your use of the website, compiling reports on website activity and providing other services relating to website activity and internet activity in connection with the use of the website.   
+We have activated the IP-anonymisation within the Google Analytics service, and your IP address will be truncated within the area of member states of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases the whole IP address will be first transferred to a Google server in the USA and truncated there. The IP-address your browser conveys within the scope of Google Analytics will not be associated with any other data held by Google.  
+You may refuse the use of cookies by selecting the appropriate settings on your browser; however please note that if you do this you may not be able to use the full functionality of this website. In addition to that you may prevent the collection of the information generated by the cookie about your use of the website (including you IP address) and the processing of this data by Google if you download and install the browser plug-in available at the following link: <http://tools.google.com/dlpage/gaoptout>
 
-### 7\. Social Media
+####   
+VIII.    Third party content and social media plug-ins
 
-#### a) Facebook Social Plugins
+ **1\. Social media plug-ins**  
+We use the following social media plug-ins: Facebook, Google+, Twitter. This allows you to communicate with such services and like or comment from our website. Social media plug-ins enable a direct communication between your device and the servers of the social media provider, allowing the social media provider to communicate with you and collect information about you browsing our website. This processing is based on Article 6 sec. 1 sent. 1 lit. f GDPR and represents our legitimate interest to improve your website experience and to optimise our services.  
+Transfer of personal data takes places whether you have an account with the provider or not.   
+Please note that we neither have the control of the extent of personal data that is collected by the respective plug-in provider nor do we know the processing’s purpose or the period your personal data will be retained.  
+Further information about the processing of your personal data in the provider’s course of operation is provided via their respective privacy policy. Moreover, you will be provided with further information with regard to your rights and setting concerning privacy.
 
-Springer Nature uses so-called social plugins („plugins“)of the social networking site facebook.com provided by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). The plugins can be identified by one of Facebook’s logos (white “f” on blue tile or a “thumps-up”-sign) or by the additional text “Facebook Social Plugin”. The list of Facebook Social Plugins and their appearance can be accessed via: <http://developers.facebook.com/plugins>.  
-If a user visits one of the websites using such a plugin, the user’s browser directly connects to Facebook’s servers. The plugin and its content are made available directly on Facebook’s servers and included in the website by the user’s browser. For this reason, the provider of the website cannot influence which data Facebook connects via the plugin and thus informs the user according to his own knowledge.  
-Due to the integration of the plugin Facebook collects the information that a user is visiting the corresponding website. If the user is logged in on Facebook at the moment he or she visits the website, Facebook may be able to connect the visit on the website to the user’s Facebook account. If the user interacts with the plugin – for example if he or she presses the like button or comments on something – the user’s browser transmits this information to Facebook. Facebook stores this information. If a user is not a member of Facebook, Facebook may collect and store the user’s IP-address. Facebook states that it only collects anonymized IP-addresses in Germany.  
+ **a) Facebook Social Plugins**  
+We use so-called social plugins („plugins“) of the social networking site facebook.com provided by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). The plugins can be identified by one of Facebook’s logos (white “f” on blue tile or a “thumps-up”-sign) or by the additional text “Facebook Social Plugin”. The list of Facebook Social Plugins and their appearance can be accessed via: <http://developers.facebook.com/plugins>.  
+If a user visits one of the websites using such a plugin, the user’s browser directly connects to Facebook’s servers. The plugin and its content are made available directly on Facebook’s servers and included in the website by the user’s browser.      
+Due to the integration of the plugin Facebook collects the information that a user is visiting the corresponding website. If the user is logged in on Facebook at the moment he or she visits the website, Facebook may be able to connect the visit on the website to the user’s Facebook account. If the user interacts with the plugin – for example if he or she presses the like button or comments on something – the user’s browser transmits this information to Facebook. Facebook stores this information. If a user is not a member of Facebook, Facebook may collect and store the user’s IP-address. Facebook states that it only collects anonymized IP-addresses in Germany.      
 The reason for and scope of the data acquisition and information about the way in which the data is processed and used by Facebook, as well as the user’s rights in this respect and settings options for protecting the users privacy can be found under: <http://www.facebook.com/policy.php>.  
-If the user is a member of Facebook and does not wish Facebook to collect personal data via this homepage and to link this with his data stored on Facebook, the user needs to log off from Facebook before going to this homepage.  
+If the user is a member of Facebook and does not wish Facebook to collect personal data via this homepage and to link this with his data stored on Facebook, the user needs to log off from Facebook before going to this homepage.      
 The user may also block Facebook’s plugins using add-ons for the user’s browser, for example the „Facebook Blocker“.
 
-####   
-b) Google’s +1-button
-
-Springer Nature uses the “+1”-button of the social network Google Plus provided by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States (“Google”). The button is market using the sign “+1” on a white or colored background  
-If a user visits one of the websites using such a button, the user’s browser directly connects to Google’s servers. The “+1”-button and its content are loaded directly from Google’s servers and included in the website by the user’s browser. For this reason, the provider of the website cannot influence which data Google connects via the button. According to Google’s statements, personal data is only collected, if a user that is a Google Plus member and logged in on the network at the time of clicking on the “+1”-button.  
-The reason for and scope of the data acquisition and information about the way in which the data is processed and used by Google, as well as the user’s rights in this respect and settings options for protecting the users privacy can be found in Google’s privacy statement relating to the “+1”-button: <http://www.google.com/intl/de/+/policy/+1button.html>.
-
-####   
-c) Twitter
-
-Springer Nature uses the twitter-button. The button is provided by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. (“Twitter”) The buttons are marked using the text “Twitter” or “Follow” and a stylized blue bird. The button enables the user to share an article or a website of this homepage on Twitter or to follow the provider on Twitter.  
-If a user visits one of the websites using such a button, the user’s browser directly connects to Twitter’s servers. The Twitter-button and its content are loaded directly from Twitter’s servers and included in the website by the user’s browser. For this reason, the provider of the website cannot influence which data Twitter connects via the button and thus informs the user according to his own knowledge. According to the provider’s knowledge, Twitter collects the user IP-address and the website’s URL when the button is loaded from Twitter’s servers. However, this data is only be used for loading and displaying the Twitter-button.  
+ **b) Twitter**  
+We use the twitter-button. The button is provided by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. (“Twitter”) The buttons are marked using the text “Twitter” or “Follow” and a stylized blue bird. The button enables the user to share an article or a website of this homepage on Twitter or to follow the provider on Twitter.      
+If a user visits one of the websites using such a button, the user’s browser directly connects to Twitter’s servers. The Twitter-button and its content are loaded directly from Twitter’s servers and included in the website by the user’s browser. According to the provider’s knowledge, Twitter collects the user IP-address and the website’s URL when the button is loaded from Twitter’s servers. However, this data is only used for loading and displaying the Twitter-button.      
 Further information can be found in Twitter’s privacy statement under: <https://twitter.com/privacy>.
 
+ **c) LinkedIn**  
+Our website uses the „share″ button oft he social network LinkedIn  provided by LinkedIn Corporation, 2029 Stierlin Court, Mountain View, CA 94043, USA ("LinkedIn"). If a user visits one of the websites using such a button, the user’s browser directly connects to the LinkedIn servers. LinkedIn received the information, that you visited our website with your IP-address. If the user is logged in on LinkedIn at the moment he or she clicks the “share” button the user can share content from our website with his/her LinkedIn profile. LinkedIn may then be able to connect the visit on the website to the user’s LinkedIn account.  
+The reason for and scope of the data acquisition and information about the way in which the data is processed and used by LinkedIn, as well as the user’s rights in this respect and settings options for protecting the users privacy can be found under:      
+<https://www.linkedin.com/legal/privacy-policy>  
+Should you have any questions regarding our privacy policy, please contact us via the e-mail address mailto:dataprotection@springer.com.
+
+ **2\. Links to third party websites**  
+This website may contain links to third party websites. We are not responsible for the content and the data collection on respective third party websites; please check the privacy policy of respective websites for information of respective websites’ data processing activities.
+
+####   
+IX.    Cross border data transfers
+
   
-Should you have any questions regarding our privacy policy, please contact us via the e-mail address [dataprotection@springer.com](mailto:dataprotection@springer.com).
+Within the scope of our information sharing activities set out above, your personal data may be transferred to other countries (including countries outside the EEA) which may have different data protection standards from your country of residence. Please note that data processed in a foreign country may be subject to foreign laws and accessible to foreign governments, courts, law enforcement, and regulatory agencies. However, we will endeavour to take reasonable measures to maintain an adequate level of data protection when sharing your personal data with such countries.  
+In the case of a transfer outside of the EEA, this transfer is safeguarded by either Privacy Shield or EU Model Clauses. You can find further information about the aforementioned safeguards by contacting the Group Data Protection Officer via dataprotection@springer.com.
 
-#### d) LinkedIn plug-ins
+####   
+X.    Security 
 
-Springer Nature uses the “LinkedIn”- plug-ins of the social network LinkedIn provided by LinkedIn Corporation, 2029 Stierlin Court, Mountain View, CA 94043, United States (“LinkedIn”). The button is marked using the letters “in” or the word “share” on a blue background.  
-If a user visits one of the websites using such a button, the user’s browser directly connects to LinkedIn’s servers. The plug-in and its content are loaded directly from LinkedIn’s servers and included in the website by the user’s browser. For this reason, the provider of the website cannot influence which data LinkedIn connects via the button. If a user that is a LinkedIn member and logged in on the network at the time of clicking on the button, LinkedIn will connect this information with the user’s profile.  
-The reason for and scope of the data acquisition and information about the way in which the data is processed and used by LinkedIn, as well as the user’s rights in this respect and settings options for protecting the users privacy can be found in LinkedIn’s privacy statement relating to the Linked-In plug-ins: [https://www.linkedin.com/legal/privacy-policy ](https://www.linkedin.com/legal/privacy-policy)
+  
+We have reasonable state of the art security measures in place to protect against the loss, misuse and alteration of personal data under our control. For example, our security and privacy policies are periodically reviewed and enhanced as necessary and only authorised personnel have access to personal data. Whilst we cannot ensure or guarantee that loss, misuse or alteration of information will never occur, we use all reasonable efforts to prevent it.   
+You should bear in mind that submission of information over the internet is never entirely secure. We cannot guarantee the security of information you submit via our website whilst it is in transit over the internet and any such submission is at your own risk. 
 
-###   
-Opt-out
+####   
+XI.    Data retention
 
-You maintain at all times the right to disallow the collection and saving of your data. To do so, please [click here](http://www.springer.com/generic/privacy/opt+out?SGWID=0-156802-0-0-0)
+  
+We strive to keep our processing activities with respect to your personal data as limited as possible. In the absence of specific retention periods set out in this policy, your personal data will be retained only for as long as we need it to fulfil the purpose for which we have collected it and, if applicable, as long as required by statutory retention requirements.
+
+####   
+XII.    Your rights
+
+  
+Under the legislation applicable to you, you may be entitled to exercise some or all of the following rights:   
+1\. require (i) information as to whether your personal data is retained and (ii) access to and/or duplicates of your personal data retained, including the purposes of the processing, the categories of personal data concerned, and the data recipients as well as potential retention periods;   
+2\. request rectification, removal or restriction of your personal data, e.g. because (i) it is incomplete or inaccurate, (ii) it is no longer needed for the purposes for which it was collected, or (iii) the consent on which the processing was based has been withdrawn;   
+3\. refuse to provide and – without impact to data processing activities that have taken place before such withdrawal – withdraw your consent to processing of your personal data at any time;  
+4\. object, on grounds relating to your particular situation, that your personal data shall be subject to a processing. In this case, please provide us with information about your particular situation. After the assessment of the facts presented by you we will either stop processing your personal data or present you our compelling legitimate grounds for an ongoing processing;   
+5\. take legal actions in relation to any potential breach of your rights regarding the processing of your personal data, as well as to lodge complaints before the competent data protection regulators;  
+6\. require (i) to receive the personal data concerning you, which you have provided to us, in a structured, commonly used and machine-readable format and (ii) to transmit those data to another controller without hindrance from our side; where technically feasible you shall have the right to have the personal data transmitted directly from us to another controller; and/or  
+7\. not to be subject to any automated decision making, including profiling (automatic decisions based on data processing by automatic means, for the purpose of assessing several personal aspects) which produce legal effects on you or affects you with similar significance.  
+You may (i) exercise the rights referred to above or (ii) pose any questions or (iii) make any complaints regarding our data processing by contacting us using the contact details set out below.
+
+####   
+XIII.    Contacting us
+
+  
+Please submit any questions, concerns or comments you have about this privacy policy or any requests concerning your personal data by email to our Group Data Protection Officer. You can contact our Group Data Protection Officer via dataprotection@springer.com.
+
+The information you provide when contacting us,   
+Springer-Verlag GmbH, Heidelberg,   
+Zweigniederlassung der Springer-Verlag GmbH Berlin,   
+Tiergartenstrasse 17,   
+D-69121 Heidelberg   
+phone: +49 (0) 6221 487 0
+
+  
+will be processed to handle your request and will be erased when your request is completed. Alternatively, we will restrict the processing of the respective information in accordance with statutory retention requirements. 
+
+####   
+XIV.    Amendments to this policy
+
+  
+We reserve the right to change this policy from time to time by updating our website respectively. Please visit the website regularly and check our respective current privacy policy. This policy was last updated on May 2nd 2018.
