@@ -1,55 +1,89 @@
-> *The following text is extracted and transformed from the stylemepretty.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228044751id_/http%3A//privacy.aol.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylemepretty.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102074452id_/https%3A//www.stylemepretty.com/privacy-policy) for the most accurate reproduction.*
 
-# AOL Privacy
+# Style Me Pretty: Registry Guide
 
-Oath, part of the Verizon family of companies, consists of over 50 digital and mobile [brands](http://oath.com/our-brands/) globally, including HuffPost, Yahoo News, Yahoo Sports, Tumblr, and AOL, as well as advertising platforms such as ONE by AOL, BrightRoll, and Gemini.
+**SMPretty, Inc. Privacy Policy**
 
-Below are highlights of the full [Oath Privacy Policy](http://privacy.aol.com/privacy-policy/), which applies to the collection and use of information from any device used to access or connect to Oath branded or affiliated websites, services, or software that link to this Privacy Policy. Para leer este documento en español haz clic [aquí](http://privacy.aol.com/privacidad/).
+SMPretty, Inc. (collectively, "SMPretty", "Company", "we" or "us") respects your privacy and is committed to protecting it through compliance with this Privacy Policy ("Policy"). We strive to be transparent about how we collect, use and protect your information as detailed below.
 
-Similarly, the [Yahoo Privacy Policy](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm) will apply on Yahoo branded sites and affiliated products, services, and technologies that link to the Yahoo Privacy Policy. If there is a conflict between the Oath Privacy Policy and the Verizon or Yahoo privacy policies, the Oath Privacy Policy will apply when you are on an Oath product, service, or brand site that links to this policy and the Yahoo Privacy Policy will apply on Yahoo branded product, service, technology, or sites that link to the Yahoo policy. Additional privacy information is available in the [Verizon Privacy Policy](http://www.verizon.com/about/privacy/).
+By visiting the SMPretty Website ("Website"), you consent to the data practices described in this Privacy Policy as well as in our Terms of Use as stated and as they may be amended from time to time. We suggest you check the Privacy Policy and Terms of Use periodically for any changes and updates as indicated by the “Last Updated” date at the end of this policy.  SMPretty will notify you as appropriate for any changes we deem material. If you continue to use SMPretty's Website and Services after these changes have been posted, you hereby provide your consent to the changed practices.
 
-### What's New
+ **If you are located outside of the United States, the information you provide to us is being transmitted to us and processed in the United States and will be protected subject to this Policy and United States laws, which may not be as protective as the laws in your country. By using the Website, you agree to this.   ** **If you do not agree to this and/or any terms of the Privacy Policy or Terms of Service you must immediately cease any and all use of the SMPretty Website and SMPretty Services. Additionally, if applicable you must delete your account immediately. You may email us at**[ **dpo@stylemepretty.com**](mailto:dpo@stylemepretty.com) **to withdraw your consent as well at any time.  **
 
-  * The [Oath Privacy Policy](http://privacy.aol.com/privacy-policy) was updated effective June 13, 2017.
-  * The AOL company name has changed to Oath. The way we handle your information hasn't changed, so the Oath Privacy Policy will continue to govern when you are on previously branded AOL products, services, or technologies, including AOL Mail, AOL.com, HuffPost, Engadget, TechCrunch, Moviefone, and Makers.
+ **How We Collect Your Information**
 
+This Policy describes the information we may collect from you or that you may provide when you visit the SMPretty Website. For example, in order to post any content on the SMPretty Website, you must first register. During the registration process you are required to provide certain personally identifiable information, such as your e-mail address and username. 
 
+SMPretty logs IP addresses (in other words, the location of your computer on the Internet), a unique device ID, system and browser type, domain names, the dates and times that you visit the site, referring website addresses, and other such information for system administration, troubleshooting, and to examine overall traffic trends. This information, in aggregate form, is recorded for administrative purposes only. IP addresses are not linked to any personal information. We also use cookies and similar technology (as described below) to collect information for the purpose of customizing the content you receive.
 
-### How to Opt-Out
+We also may collect information from third party websites with whom we connect. As an example, if you connect to our site via Facebook, Facebook provides us with certain demographic information from your Facebook account to the extent that you elect to make publicly available on Facebook. If you have any questions about Facebook's Privacy Policy, you can review it here, https://www.facebook.com/about/privacy/update.
 
-You can opt-out of interest-based advertising delivered by the ONE by AOL advertising services. See [Your Choices](http://privacy.aol.com/advertising-and-privacy/).
+ **User Content**
 
-### Information We Collect and Receive
+Any content you post on the SMPretty Website becomes public. By submitting content or posting information on public message boards [public forums, blogs, comments, image galleries, inspiration boards and favorites], this information may be collected and used by others. User Content may be also used by SMPretty as described in our Terms of Use. We are not responsible for any personally identifiable information that you choose to include in such User Content. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other users have copied or stored your User Content.
 
-We collect and receive information about you and your device when you give it to us directly, when you use our services across your devices, and from certain third-party sources.
+ **Use of your Personal Information**
 
-### Internet Advertising
+SMPretty collects and uses your personal information to operate the SMPretty Website and deliver the services you have requested. SMPretty also uses your personally identifiable information to inform you of other products or services available from SMPretty and its affiliates. 
 
-Our ability to provide free content and services depends on advertising. Some of our ads are displayed based on the page visited, but many of our ads are targeted to you based on your interests and other information we have about you. [Learn more](http://privacy.aol.com/advertising-and-privacy/) about how internet advertising works and your choices.
+SMPretty does not sell, rent or lease its user lists to third parties. But we may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name) is not transferred to the third party. We may also share aggregated information that cannot be used to identify you with our clients and business partners.
 
-### Your Choices
+SMPretty shares data with trusted partners to help us customize the content and advertising you see, improve our services, conduct research, perform statistical analysis, send you email or postal mail, or provide user support. All such third parties are prohibited from using your personal information except to provide these services to SMPretty and they are required to maintain the confidentiality of your information. 
 
-  * You can opt out of receiving interest-based ads from us when you browse the web by visiting the [Digital Advertising Alliance's consumer choice page](http://www.aboutads.info/choices/) and selecting "AOL Advertising," "BrightRoll," and "Yahoo Inc." If you are a Yahoo registered user, you also must opt out of ads on [Yahoo](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting).
-  * You may control how certain information from your mobile device, including your location, may be collected and used through your device and mobile application permissions.
-  * AOL services offer [Marketing Preferences](http://marketingpreferences.aol.com/) to control how we communicate offers to AOL registered users.
-  * You can control the collection and use of AOL [Search information](http://search.aol.com/aol/settings).
-  * AOL registered users can manage their accounts at [My Account](http://myaccount.aol.com/).
-  * You can manage some technologies using [browser controls](http://www.aboutads.info/consumers#cookies).
-  * Individual products or services may offer additional controls or preferences.
+SMPretty will use any data collected to enforce our Terms of Use, to comply with legal obligations, act under exigent circumstances to protect the personal safety of users of SMPretty or the public, and otherwise manage our business. 
 
+SMPretty may share your information with any company who may purchase SMPretty or substantially all of our assets in the future.
 
+SMPretty will only use and share your information as described in this policy.
 
-### Information Sharing
+ **Use of Cookies**
 
-Oath may share your information in limited circumstances, including when we have your consent to do so or when sharing is necessary to protect Oath or comply with the law. Our agents and contractors may have access to your information, but only to perform services for Oath. We do not sell or rent your personal information to third parties. We may, however, share [non-personally identifiable information](http://privacy.aol.com/definitions) with select business partners.
+Like most websites, SMPretty uses "cookies" to help you personalize your online experience. A cookie is a tiny data file which resides on your computer and allows SMPretty to recognize you as a user when you return to the SMPretty website from the same computer and browser. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
 
-### How we use your Information
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the SMPretty Website or Services you visit.
 
-The information we collect and receive is used to provide our Services, to improve our Services, and to offer effective advertising, which helps us keep most of our Services free.
+ **Third Party Advertisers**
 
-### How to Contact Us
+Advertisements, promotions and offers from third party advertisers may be provided to you while you are visiting the SMPretty Website. We may also use third party advertising agencies to serve ads on our behalf or the behalf of third-party advertisers (e.g., retailers of goods or services). These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. SMPretty does not have access to or control of the cookies or action tags that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on SMPretty unless you choose to share it with them. 
 
-**Oath Privacy**  
-22000 AOL Way  
-Dulles, VA 20166  
-privacyquestions@aol.com
+This Privacy Policy covers the use of cookies by SMPretty and does not cover the use of cookies or other tracking technologies by any of its advertisers
+
+ **Third Party Content**
+
+SMPretty may contain links to other websites. We are not responsible for the content, operation or privacy practices of these other websites. We encourage you to be aware that when you leave our site, you should read the privacy statements of each and every website that collects personally identifiable information. **This Privacy Policy applies solely to information collected by SMPretty. SMPretty is not responsible for the privacy practices of websites outside of the SMPretty Website.**
+
+ **Data Security**
+
+SMPretty follows generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. We use industry standard efforts to safeguard the confidentiality of your personal identifiable information, such as firewalls and Secure Socket Layers (SSL) where appropriate. We also protect the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure.
+
+But no method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Website, you can send us an email at privacy-policy@stylemepretty.com. 
+
+**Account**
+
+Once you become a registered user of SMPretty, you will receive an account, accessible by a password of your choosing. You are responsible for maintaining the confidentiality of your password and account. Furthermore, you are entirely responsible for any and all activities that occur under your account. You agree to immediately notify SMPretty of any unauthorized use of your account or any other breach of security known to you. Your right to delete your information is subject to our records retention policies. 
+
+**Children Under the Age of 16**
+
+The SMPretty Website is not intended for children under 16 years of age. We do not knowingly collect or store personal information from children under the age of 16. If you are under the age of 16, please do not use or provide any information on this Website or on or through any of its features, register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 16 without parental consent, we will delete that information. If you believe we might have any information from or about a child under 16, please contact us at [privacy-policy@stylemepretty.com](mailto:privacy-policy@stylemepretty.com).
+
+ **Your California Privacy Rights**
+
+California Civil Code Section § 1798.83, "Shine the Light" law, permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [privacy-policy@stylemepretty.com](mailto:privacy-policy@stylemepretty.com).
+
+ **Your European Economic Area “EEA” Privacy Rights**
+
+Notwithstanding the fact the information you provide to us is being processed in the United States and protected subject to this Policy and United States laws, if you are a resident of EEA, you have certain rights and protections under the General Data Protection Regulation (“GDPR”) such as the right to access personally identifiable information we hold about you and you may ask that your personally identifiable information be corrected, erased or restricted in some manner. To make such a request, please send an email to [dpo](mailto:dpo@stylemepretty.com)[@stylemepretty.com](mailto:dpo@stylemepretty.com). 
+
+**Legal Disclaimer**
+
+Though we make every effort to preserve your privacy we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Website.
+
+ **Changes to this Policy**
+
+SMPretty may occasionally update this Privacy Policy. SMPretty encourages you to periodically review this Policy to be informed of how SMPretty is collecting, using and protecting your information and the choices available to you. Please always refer to the “Last Updated” date at the end of this policy to ensure you are reviewing the most current information. By updating the date, SMPretty is notifying you that changes to the policy have been made. We may also notify you via email or via a statement on our homepage in the sole discretion of SMPretty. 
+
+**Contact Information**
+
+If you have any questions, suggestions or complaints regarding our Privacy Policy, please contact SMPretty at [privacy-policy@stylemepretty.com](mailto:privacy-policy@stylemepretty.com). 
+
+**Last Updated: May 24, 2018**
