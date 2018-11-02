@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtawebdirectory.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624022944id_/http%3A//www.gtawebdirectory.com/privacypolicy_gtawebdirectory.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtawebdirectory.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102150208id_/http%3A//www.gtawebdirectory.com/privacypolicy_gtawebdirectory.html) for the most accurate reproduction.*
 
 # Toronto Directory Real Estate Ontario Canada Directory and GTA Toronto business Hotels and lawyers listings and yellow pages - Our Privacy Statement Page
 
