@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ekomi.com privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428165653id_/http%3A//ekomi.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekomi.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102145318id_/http%3A//ekomi.com/us/privacy) for the most accurate reproduction.*
 
 # eKomi | Seller Ratings & Product Ratings and Reviews - Collect more authentic Reviews
 
