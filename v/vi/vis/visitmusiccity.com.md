@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitmusiccity.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616221202id_/http%3A//www.visitmusiccity.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitmusiccity.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102193336id_/https%3A//www.visitmusiccity.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Visit Nashville, TN - Music City
 
