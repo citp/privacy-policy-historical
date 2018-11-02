@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calculateforfree.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503134133id_/http%3A//www.calculateforfree.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calculateforfree.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102202126id_/http%3A//www.calculateforfree.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
