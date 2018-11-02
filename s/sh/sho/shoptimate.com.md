@@ -1,7 +1,46 @@
-> *The following text is extracted and transformed from the shoptimate.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502202915id_/http%3A//shoptimate.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoptimate.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102010455id_/http%3A//shoptimate.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Shoptimate.com
 
-Search for 
+The privacy policy covers the use of Shoptimate ("Shoptimate), a browser extension (the "Extension") and this website and any sub-sites herof (the "Site") which are published and maintained by Sourcefully SPRL. This helps you understand what information is collected when you use the extension or site and how we use that information. By downloading the extension or using the site, you confirm that you have read and agree to the terms of this policy. 
 
-Shoptimate does only collect non-identifiable usage information for statistical purposes. When the user is registered, some personal information will be automatically collected (such as IP address, cookie, requested page, ...). Shoptimate does not rent or sell your personal information to any third party. We may however use that information to provide you a more personal experience.
+## Collected information
+
+We try to reduce the information that we collect to a strict minimum. 
+
+For each page that your visit on our servers, we can collect the following information in the server logs: 
+
+  * Page URL
+  * Browser Information (user agent)
+  * IP address
+
+
+
+For every click to a merchant product page, we can on top collect the following information: 
+
+  * The originating page
+  * The destination page
+  * The product details
+
+
+
+When you create an account, we collect: 
+
+  * Your contact information
+  * If you have a price alert, the list of products for which you requested a price alert and the threshold price
+
+
+
+## How do we use the information
+
+The information collected is used to improve our service and detect fraud and abuse. We do not rent or sell your personal information to any third party. 
+
+## Data retention
+
+Any information used for statistics and fraud detection is kept for up to a year. We may store aggregated and non-personnal data for a longer period than 12 months for financial and statistical reasons.
+
+## Contact us
+
+Upon request, we will provide you with information about whether we hold any of your personal information. You may access or request deletion of your personal information by contacting us. We will respond to your request within a reasonable timeframe.
+
+Last updated: May 21 2018
