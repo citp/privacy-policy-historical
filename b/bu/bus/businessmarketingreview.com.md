@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessmarketingreview.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627175948id_/http%3A//www.businessmarketingreview.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessmarketingreview.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102232345id_/http%3A//www.businessmarketingreview.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Business Marketing Review Blog
 
 Privacy Policy
 
@@ -125,4 +125,4 @@ Visitor agrees that the applicable law to be applied shall, in all cases, be tha
 
 COPYRIGHT AND LICENSE
 
-This “Privacy Policy” is copyrighted by Business Marketing Review and is fully licensed for use by this website. If you wish to lawfully use this Privacy Policy on your website, contact support at  http://www.businessmarketingreview.com/blog/contactus/ for licensing information.
+This “Privacy Policy” is copyrighted by Business Marketing Review and is fully licensed for use by this website. If you wish to lawfully use this Privacy Policy on your website, contact support at [ Contact Us ](http://businessmarketingreview.com/blog/contactus) for licensing information.
