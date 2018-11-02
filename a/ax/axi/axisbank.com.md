@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axisbank.com privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317181617id_/https%3A//www.axisbank.com/burgundy-banking/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axisbank.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102012614id_/https%3A//www.axisbank.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,7 +59,7 @@ The Bank may, from time to time, change this Policy. The effective date of this 
 
 ##### Cookie policy 
 
-Axis Bank’s digital platforms use various third party analytical tools. These tools use cookies which are downloaded to your device when you visit a website in order to provide a personalized browsing experience. Cookies are used for lots of tasks like remembering your preferences & settings, provide personalized browsing experience and analyze site operations. These cookies collect information about how users use a website, for instance, how often visited pages. All information collected by third party cookies is aggregated and anonymous. By using our website user/s agree that these types of cookies can be placed on his/her device. User/s is free to disable/delete these cookies by changing his/her device / browser settings. Axis Bank is not responsible for cookies placed in the device of user/s by any other website and information collected thereto.
+Axis Bank’s digital platforms use various third party services to promote bank's products and services. These third party services use cookies which are downloaded to your device when you visit a website in order to provide a personalized browsing experience. Cookies are used for lots of tasks like remembering your preferences & settings, provide personalized browsing experience and analyze site operations. These cookies collect information about how users use a website, for instance, how often visited pages. All information collected by third party cookies is aggregated and anonymous. By using our website user/s agree that these types of cookies can be placed on his/her device. User/s is free to disable/delete these cookies by changing his/her device / browser settings. Axis Bank is not responsible for cookies placed in the device of user/s by any other website and information collected thereto.
 
 ##### Effective Date
 
