@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarthealthmagazine.org privacy policy that was archived on 2016-02-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160229223136id_/http%3A//www.smarthealthmagazine.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarthealthmagazine.org privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102023717id_/http%3A//www.smarthealthmagazine.org/privacy) for the most accurate reproduction.*
 
 # Privacy
 
