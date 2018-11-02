@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the voki.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602070701id_/http%3A//www.voki.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voki.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102013833id_/http%3A//www.voki.com/privacy) for the most accurate reproduction.*
 
 # Voki - Privacy Policy
 
-We respect your privacy and are committed to safeguarding any personal information that may be collected through Voki. In short, we abide by all applicable US law, we will not use the information collection for any purpose other than providing you with our services and we will not transfer your information to any third party. The following policy describes in further detail what information we collect, why we collect it, how we use such information, and the choices you have thereafter. Any capitalized terms used within this Privacy Policy and not defined will have the same meaning as they do in our [Voki Terms and Conditions of Use](http://www.voki.com/tos).
+We respect your privacy and are committed to safeguarding any personal information that may be collected through Voki. In short, we abide by all applicable US law, we will not use the information collection for any purpose other than providing you with our services and we will not transfer your information to any third party. The following policy describes in further detail what information we collect, why we collect it, how we use such information, and the choices you have thereafter. Any capitalized terms used within this Privacy Policy and not defined will have the same meaning as they do in our [Voki Terms and Conditions of Use](https://www.voki.com/tos).
 
 ##### 1\. INFORMATION COLLECTED AND HOW WE COLLECT IT 
 
@@ -31,7 +31,7 @@ We may use the information provided to us to:
 
 ##### 3\. DISCLOSURE OF INFORMATION 
 
-We will not use your personal information for any purpose, other than those outlined in this Privacy Policy and/or in the [Voki Terms and Conditions of Use](http://www.voki.com/tos), unless we have your consent. We will not share your personal information with any other third parties without your permission, unless:
+We will not use your personal information for any purpose, other than those outlined in this Privacy Policy and/or in the [Voki Terms and Conditions of Use](https://www.voki.com/tos), unless we have your consent. We will not share your personal information with any other third parties without your permission, unless:
 
 (1) We are required to do so by law or when necessary to comply with a current judicial proceeding, a court order or legal process served on us, or when we believe in good faith that disclosure of information is necessary to prevent imminent physical harm, financial loss or to report suspected illegal activity. In all cases, such information will only be disclosed in accordance with applicable laws and regulations.
 
