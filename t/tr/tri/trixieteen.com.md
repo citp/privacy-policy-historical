@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trixieteen.com privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125150831id_/http%3A//www.trixieteen.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trixieteen.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102223118id_/http%3A//trixieteen.com/privacy.html) for the most accurate reproduction.*
 
 # Trixie Teen: Hot Teen Porn Girl Nextdoor
 
