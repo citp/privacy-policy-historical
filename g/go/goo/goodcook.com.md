@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the goodcook.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501005604id_/http%3A//www.goodcook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodcook.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102010102id_/http%3A//www.goodcook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Good Cook Good Cook
+
+I love One Pot Pastas. They make dinnertime so easy in my house because they don't use a dozen of different dishes and pots and pans to prepare and they're usually really quick to make. Also, like this 5-Ingredient Creamy Chicken ...
+
+The Everything Pizza is topped with a medley of colorful veggies and savory Italian Sausage. Perfect for a Friday night meal or party appetizer, yet also quick enough to bake up on a busy weeknight. Put The Everything Pizza on ...
+
+We know just how tired the dinner hour finds you on some days. After a morning of go-go-go, an afternoon of rush-rush-rush and an evening of carpooling, it's hard to come home and find enough energy to cook a square ...
 
 Bradshaw International is the owner of this website and is committed to the responsible management of consumer information. Internet user privacy is a high priority.
 
