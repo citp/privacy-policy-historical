@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otlob.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629170325id_/https%3A//www.otlob.com/contents/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otlob.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102181211id_/https%3A//www.otlob.com/contents/privacy.htm) for the most accurate reproduction.*
 
 # Otlob - Privacy policy
 
@@ -43,7 +43,7 @@ Otlob may disclose your personal information, and you consent to the disclosure 
 
 
 
-If you would like to unsubscribe from receiving direct marketing communications from Otlob or do not want us to share your personal information with other parties, please e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or follow the steps to unsubscribe which are presented in every communication you receive from us, requesting your personal information be removed from our mailing list. We will use reasonable endeavours to comply with your request within a reasonable period of receipt of your request. 
+If you would like to unsubscribe from receiving direct marketing communications from Otlob or do not want us to share your personal information with other parties, please e-mail us at feedback@otlob.com or follow the steps to unsubscribe which are presented in every communication you receive from us, requesting your personal information be removed from our mailing list. We will use reasonable endeavours to comply with your request within a reasonable period of receipt of your request. 
 
 Please note that the withdrawal of any authorisations for processing of your personal information by third parties may result in us not being able to provide you with any services. 
 
@@ -53,7 +53,7 @@ If the Otlob business is sold or merges with another entity then some or all of 
 
 **Access to your information**
 
-Otlob will use all reasonable endeavours to keep personal information it holds accurate, complete, up-to-date, relevant and not misleading. Please contact us if you would like to access the personal information Otlob holds about you. We will use reasonable endeavours to provide a complete list of your personal information within a reasonable period of receipt of your request. Please email us if you would like to receive a copy of this information – [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Otlob will use all reasonable endeavours to keep personal information it holds accurate, complete, up-to-date, relevant and not misleading. Please contact us if you would like to access the personal information Otlob holds about you. We will use reasonable endeavours to provide a complete list of your personal information within a reasonable period of receipt of your request. Please email us if you would like to receive a copy of this information – feedback@otlob.com. 
 
 Otlob reserves the right to charge a nominal fee for the processing of this request in accordance with local legislation.
 
@@ -75,4 +75,4 @@ Our Website may have links to other websites. This privacy policy only applies t
 
 **Contact**
 
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+All comments, queries and requests relating to our use of your information are welcomed and should be addressed to: feedback@otlob.com 
