@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techexams.net privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517092003id_/http%3A//www.techexams.net/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techexams.net privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102100211id_/http%3A//www.techexams.net/privacypolicy.shtml) for the most accurate reproduction.*
 
 # TechExams.net Cookie Policy
 
