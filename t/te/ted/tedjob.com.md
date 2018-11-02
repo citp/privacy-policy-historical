@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tedjob.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429214005id_/http%3A//tedjob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tedjob.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102070553id_/http%3A//tedjob.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ted Job
 
