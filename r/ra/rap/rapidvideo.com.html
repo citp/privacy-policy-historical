@@ -1,17 +1,8 @@
-<!--The following is the downloaded HTML source of the rapidvideo.com privacy policy that was archived on 2017-03-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170305194512id_/https%3A//www.rapidvideo.com%3Fc%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rapidvideo.com privacy policy that was archived on 2018-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181102044820id_/https%3A//www.rapidvideo.com%3Fc%3Dprivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><style class="vjs-styles-defaults">
-      .video-js {
-        width: 300px;
-        height: 150px;
-      }
-
-      .vjs-fluid {
-        padding-top: 56.25%
-      }
-    </style>
-<title>DMCA Notice &amp; Takedown Policy and Procedures - RapidVideo</title>
+<!DOCTYPE html><html><head>
+<title>Privacy Policy - RapidVideo</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
@@ -33,33 +24,29 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
-
+<link rel="manifest" href="/manifest.json">
 <meta name="yandex-verification" content="910f986fd3b07469">
+<meta name="pinvert" content="pinvert-verification">
 
-<link rel="stylesheet" href="/css/layout.css?v=1.5.0" type="text/css">
+<link rel="stylesheet" href="/css/layout.css?v=1.6.0" type="text/css">
 <link rel="stylesheet" href="/css/simple-line-icons.css?v=1.2.0" type="text/css">
 <link rel="stylesheet" href="/css/jquery-ui.css?v=1.2.0" type="text/css">
 <link rel="stylesheet" href="/css/opensans.css?v=1.2.0" type="text/css">
-<link rel="stylesheet" href="/videojs/video-js.min.css?v=1.2.0" type="text/css">
-<link rel="stylesheet" href="/videojs/video-js-resolutions.css?v=1.2.0" type="text/css">
 <link rel="stylesheet" href="/css/image-picker.css?v=1.2.0" type="text/css">
-<script type="text/javascript" src="/jwplayer7/jwplayer.js?v=1.0.0"></script>
+
 <script type="text/javascript" src="/js/jquery.min.js?v=1.0.0"></script>
 <script type="text/javascript" src="/js/jquery.validate.min.js?v=1.0.0"></script>
 <script type="text/javascript" src="/js/jquery-ui.min.js?v=1.0.0"></script>
 <script type="text/javascript" src="/js/jquery.limit-1.2.source.js?v=1.0.0"></script>
 <script type="text/javascript" src="/js/jquery.tipsy.js?v=1.0.0"></script>
+<script type="text/javascript" src="/js/jquery.lazyload.min.js?v=1.0.0"></script>
+
 <script type="text/javascript" src="/js/image-picker.js?v=1.0.0"></script>
-<script src="/videojs/video.dev.js?v=1.0.0" type="text/javascript"></script>
-<script src="/videojs/video-js-resolutions.js?v=1.0.0" type="text/javascript"></script>
-<script type="text/javascript" src="/js/new.js?v=1.4.3"></script>
-<script src="/js/blockadblock.js"></script>
+<script type="text/javascript" src="/js/simpleUpload.min.js?v=1.0.0"></script>
 
-  <link href="/plugins/video-js.min.css" rel="stylesheet" type="text/css">
-  <link href="/plugins/videojs-skin-flat.min.css" rel="stylesheet" type="text/css">
-  <script src="/plugins/video.min.js"></script>
+<script type="text/javascript" src="/js/new.js?v=1.6.3"></script>
 
-<meta name="robots" content="noindex,nofollow">
+
 </head>
 <body>
 <script>
@@ -78,9 +65,9 @@ border-top:3px solid #245C91;
 <div class="header universal_content" style="margin:0 auto; line-height:0px;">
 <a href="/"><img src="/images/rapidvideo.png" alt="Rapidvideo.com" style="display:block; float:left; margin-right:10px;"></a>
 		<div style="float:left; padding-top:10px;">
-			<div style="float:left; margin-left:4px;">
+			<div style="float:left; margin-left:4px; display:none;">
 				<form id="search-form" action="/" method="get">
-					<input class="search_field" type="text" id="q" name="q" value="" placeholder="" autofocus="">
+					<input class="search_field ui-autocomplete-input" type="text" id="q" name="q" value="" placeholder="" autofocus="" autocomplete="off">
 					<input id="qsubmit" name="qsubmit" class="search_button" value="search" type="submit" style="height:40px; width:75px; margin-left:-2px;" onclick="return empty()">
 				</form>
 				<script>
@@ -94,7 +81,7 @@ function empty() {
 }
 				</script>
 			</div>
-			<div id="menu-container" style="position:absolute;z-index:50;"></div>
+			<div id="menu-container" style="position:absolute;z-index:50;"><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-1" tabindex="0" style="display: none;"></ul></div>
 		</div>
 
 	<div class="menu" style="float:right; line-height:60px; font-size:13px; margin-right:10px;">
@@ -103,10 +90,11 @@ function empty() {
 
 <div style="cursor:pointer; float: right; background: transparent linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(229, 229, 229) 100%) repeat scroll 0px 0px; height: 38px; width: 19px; line-height:38px; text-align:center;">▽</div></div>
 
-          <a href="javascript:change_language();" class="a_button btn-ddd shadow" style="display:none ;margin-left:5px; padding:10px;"><i class="icon-globe" style="font-size:12px;"></i> English</a>
+<!--
+          <a href="javascript:change_language();" class="a_button btn-ddd shadow" style="margin-left:5px; padding:10px;"><i class="icon-globe" style="font-size:12px;"></i> English</a>
+-->
 
-
-                              		<a href="/?c=login" class="a_button btn-ddd shadow" style="margin-left:5px; padding:10px;">Login</a>
+		<a href="/?c=login" class="a_button btn-ddd shadow" style="margin-left:5px; padding:10px;">Login</a>
 		<a href="/?c=register" class="a_button btn-ddd shadow" style="margin-left:5px; padding:10px;">Register</a>
 				</div>
 </div>
@@ -126,10 +114,10 @@ font-size:12px;
 
 
                                  <li><a href="/" style="border-left:0;">Home</a></li>
-                                <li><a href="/?c=register">Free Membership</a></li>
-                                <li><a href="/?q=">Videos</a></li>
-<!--                                <li ><a href="/?c=buy_premium">Premium</a></li>-->
-                               <li><a href="/?c=rewards">Partner Program</a></li>
+                                <li><a href="/?c=register">Free membership</a></li>
+<!--                                <li ><a href="/?q=">Videos</a></li>-->
+<!--                                <li ><a href="/?c=buy_premium">Premium Account</a></li>-->
+                              <li><a href="/?c=rewards">Earn Money</a></li>
                                  <li><a href="/?c=contact" style="border-right:0;">Support</a></li>
                          </ul>
                         <div class="clear"></div>
@@ -175,22 +163,22 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7db9e8', end
 
 
 <div class="clean-box video"><div class="clean-box-n"><p>Privacy policy</p></div>
-    <div style="margin:25px;font-size:13px;">
+    <div style="margin:25px;font-size:15px; line-height:30px;">
 
 <b>Analyze Data</b><br>
-For each visitor to our Web page, our Web server does not recognize any information regarding the domain or e-mail address. IP addresses are not logged <br><br>
+For each visitor to our Web page, our Web server does not recognize any information regarding the domain or e-mail address.<br><br>
 <b>Collecting e-mail Addresses</b><br>
-We collect the e-mail addresses of RapTu's Delivery recipients and senders for the purpose of logging and measuring usage. RapTu does not rent, sell, or share personal information about you with nonaffiliated companies.
+We collect the e-mail addresses of RapidVideo's Delivery recipients and senders for the purpose of logging and measuring usage. RapidVideo does not rent, sell, or share personal information about you with nonaffiliated companies.
 <br><br>
 <b>Certain Exceptional Disclosures</b><br>
 We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person. Disclosure may be required by law or if we receive legal process.
 <br><br>
 <b>Use of Cookies</b><br>
-RapTu uses cookies to store the preferences of users.
+RapidVideo uses cookies to store the preferences of users.
 <br><br>
 <b>File Transfer Security</b>
 <br>
-We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. Files stored for delivery are only accessible by RapTu and through the clickable link generated for your recipient. All files stored for delivery are deleted when they expire.
+We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. Files stored for delivery are only accessible by RapidVideo and through the clickable link generated for your recipient. All files stored for delivery are deleted when they expire.
 <br><br>
 <b>Third Party Advertising</b><br>
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
@@ -226,29 +214,32 @@ margin:0 auto;
     padding-left: 20px;
     padding-right: 20px;
     text-align: center;  float:left; color:#eee; text-shadow: 0px 0px 2px #111;">
-RapidVideo Limited
+RapidVideo
 </div>
 
-	<div class="top_buttons" style="width:100px; float:right;font-size:11px; font-weight:normal;margin-right:5px; text-shadow: 1px 1px 2px #111; 
-text-transform:uppercase;">
-		<a href="/?c=tos" style="display:block; width:100%; height:100%;">Terms of Service</a>
+	<div class="top_buttons" style="width:100px; float:right;font-size:11px; font-weight:normal;margin-right:5px; text-shadow: 1px 1px 2px #111; text-transform:uppercase;">
+		<a href="/?c=tos" style="display:block; width:100%; height:100%;">Terms of service</a>
 	</div>
 	<div class="top_buttons" style="float:right;font-size:11px; font-weight:normal;text-shadow: 1px 1px 2px #111; text-transform:uppercase;">
 		<a class="noastyle" style="display:block; width:100%; height:100%;" href="/?c=contact">Contact Us</a>
 	</div>
 	<div class="top_buttons" style="float:right;font-size:11px; font-weight:normal;text-shadow: 1px 1px 2px #111; text-transform:uppercase;">
-		<a style="display:block; width:100%; height:100%;" href="/?c=privacy">Privacy Policy</a>
+		<a style="display:block; width:100%; height:100%;" href="/?c=privacy">Privacy policy</a>
 	</div>
 	<div class="top_buttons" style="float:right; font-size:11px; font-weight:normal;text-shadow: 1px 1px 2px #111; text-transform:uppercase;">
-		<a class="noastyle" style="display:block; width:100%; height:100%;" href="/?c=abuse">Report Abuse</a>
+		<a class="noastyle" style="display:block; width:100%; height:100%;" href="/?c=abuse">Report abuse</a>
 	</div>
         <div class="top_buttons" style="float:right; font-size:11px; font-weight:normal;text-shadow: 1px 1px 2px #111; text-transform:uppercase;">
-                <a class="noastyle" style="display:block; width:100%; height:100%;" href="/?c=dmca-eucd">DMCA &amp; EUCD Policy</a>
+                <a class="noastyle" style="display:block; width:100%; height:100%;" href="/?c=dmca-eucd">Copyright policy</a>
         </div>
+<!--
         <div class="top_buttons" style="float:right;font-size:11px; font-weight:normal;margin-right:5px; text-shadow: 1px 1px 2px #111; text-transform:uppercase;">
-		<a class="noastyle" style="display:block; width:100%; height:100%;" href="/?c=rewards">Partner Program</a>
+		<a class="noastyle" style="display:block; width:100%; height:100%;" href="/?c=rewards">Earn money</a>
         </div>
-
+-->
+        <div class="top_buttons" style="float:right;font-size:11px; font-weight:normal;text-shadow: 1px 1px 2px #111; text-transform:uppercase;">
+                <a class="noastyle" style="display:block; width:100%; height:100%;" href="https://api.rapidvideo.com/" target="_blank">API</a>
+        </div>
 </div>
 
 <div class="clear"></div>
@@ -293,7 +284,7 @@ a.nlanguage-lnk:hover {
 }
 </style>
 
-<div style="float:left;width:150px;margin-right:5px;">
+<div style="float:left;width:170px;margin-right:5px;">
 <a class="nlanguage-lnk " data="ar"><img src="/images/flags/24/ar.png"> العربية</a>
 <a class="nlanguage-lnk " data="bg"><img src="/images/flags/24/bg.png"> български</a>
 <a class="nlanguage-lnk " data="pt-br"><img src="/images/flags/24/br.png"> Português Brasil</a>
@@ -303,7 +294,7 @@ a.nlanguage-lnk:hover {
 <a class="nlanguage-lnk  selected " data="en"><img src="/images/flags/24/gb.png"> English</a>
 <a class="nlanguage-lnk " data="es"><img src="/images/flags/24/es.png"> Español</a>
 </div>
-<div style="float:left;width:150px;margin-right:5px;">
+<div style="float:left;width:170px;margin-right:5px;">
 <a class="nlanguage-lnk " data="fr"><img src="/images/flags/24/fr.png"> Français</a>
 <a class="nlanguage-lnk " data="il"><img src="/images/flags/24/il.png"> עברית</a>
 <a class="nlanguage-lnk " data="hu"><img src="/images/flags/24/hu.png"> Magyar</a>
@@ -313,7 +304,7 @@ a.nlanguage-lnk:hover {
 <a class="nlanguage-lnk " data="kr"><img src="/images/flags/24/kr.png"> 한국어</a>
 <a class="nlanguage-lnk " data="nl"><img src="/images/flags/24/nl.png"> Nederlands</a>
 </div>
-<div style="float:left;width:150px;margin-right:5px;">
+<div style="float:left;width:170px;margin-right:5px;">
 <a class="nlanguage-lnk " data="pl"><img src="/images/flags/24/pl.png"> Polski</a>
 <a class="nlanguage-lnk " data="ro"><img src="/images/flags/24/ro.png"> Română</a>
 <a class="nlanguage-lnk " data="ru"><img src="/images/flags/24/ru.png"> Pусский</a>
@@ -323,13 +314,13 @@ a.nlanguage-lnk:hover {
 <a class="nlanguage-lnk " data="ir"><img src="/images/flags/24/ir.png"> فارسی</a>
 <a class="nlanguage-lnk " data="fi"><img src="/images/flags/24/fi.png"> Suomi</a>
 </div>
-<div style="float:left;width:150px;">
+<div style="float:left;width:170px;">
 <a class="nlanguage-lnk " data="pt"><img src="/images/flags/24/pt.png"> Português</a>
 <a class="nlanguage-lnk " data="sk"><img src="/images/flags/24/sk.png"> Slovenský</a>
 <a class="nlanguage-lnk " data="si"><img src="/images/flags/24/si.png"> Slovenščina</a>
 <a class="nlanguage-lnk " data="rs"><img src="/images/flags/24/rs.png"> српски</a>
 <a class="nlanguage-lnk " data="th"><img src="/images/flags/24/th.png"> ภาษาไทย</a>
-<a class="nlanguage-lnk " data="ph"><img src="/images/flags/24/ph.png"> Tagalog</a>
+<a class="nlanguage-lnk " data="tl"><img src="/images/flags/24/ph.png"> Tagalog</a>
 <a class="nlanguage-lnk " data="ua"><img src="/images/flags/24/ua.png"> Українська</a>
 <a class="nlanguage-lnk " data="vn"><img src="/images/flags/24/vn.png"> Tiếng Việt</a>
 </div>
@@ -355,20 +346,4 @@ $( ".nlanguage-lnk" ).click(function(){
 
 
 
-<span id="fc-10394" style="display:none;"><script async="" src="https://www.fastcounter.de/fcount.php?rnd=9610923284"></script></span>
-<script>
-var fcr = Math.floor(Math.random()*99999999999);
-var _fcc = _fcc || []; _fcc.push(["10394"]); _fcc.push(["trans"]);(function(){
-var fc = document.createElement("script");fc.async = true;
-fc.src = "https://www.fastcounter.de/fcount.php?rnd=" + fcr;
-var sc = document.getElementById("fc-10394");
-sc.appendChild(fc);
-})();</script>
-<noscript>
-<img src="https://www.fastcounter.de/fcounter.php?id=10394;" style="width:0px; height:0px;">
-</noscript>
-
-
-
-
-</body></html>
+<span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span></body></html>
