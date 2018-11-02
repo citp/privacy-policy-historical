@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webbozz.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518150233id_/http%3A//www.webbozz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webbozz.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102091015id_/http%3A//www.webbozz.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - WebBozz
 
