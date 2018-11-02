@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utopiapimp.com privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801134410id_/http%3A//utopiapimp.com/anonymous/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utopiapimp.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102023737id_/http%3A//www.utopiapimp.com/anonymous/privacy.aspx) for the most accurate reproduction.*
 
 # Utopia Pimp 2.3.48 - on IRC at #Utopiapimp
 
