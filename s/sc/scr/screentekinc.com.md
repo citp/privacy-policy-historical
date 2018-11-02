@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screentekinc.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502210755id_/http%3A//www.screentekinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screentekinc.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102160236id_/http%3A//www.screentekinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
