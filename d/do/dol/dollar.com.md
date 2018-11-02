@@ -1,461 +1,406 @@
-> *The following text is extracted and transformed from the dollar.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502090736id_/https%3A//www.dollar.com/AboutUs/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollar.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102114047id_/https%3A//www.dollar.com/AboutUs/Global_Privacy_Policy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Global Privacy Policy - Dollar
 
-**CONTACT US:**  We hope this policy answers your questions about our collection, use and disclosure of your personal data.  If it does not, or if you have any questions, please contact us by following the instructions in the Contact Us section below.
+| 
 
-**Privacy Policy**
+The Hertz Corporation
 
-**YOUR PRIVACY**
+The Hertz Corporation, its rental and other rental-related businesses, business affiliates, and subsidiaries, including Dollar, Thrifty, and Firefly (together “We”, “Us”, and “Our”) respects the privacy rights of Our customers and We are committed to protecting your privacy. This Privacy Policy (the “Policy”) explains Our data handling practices as a “Controller” with regard to your Personal Data, as well as your rights associated with your Personal Data. This Policy was last materially updated on May 17, 2018.
 
-We respect your privacy and are committed to protecting the personal data we hold about you. This policy explains what data we collect about you, how we collect it, the measures we take in our efforts to keep your data secure and the uses and disclosures we make of it.  We also explain the options you have in relation to your personal data.
+**Quick Reference Guide**
 
-When you request services from us, operate a vehicle with in-vehicle  technology, access our websites, utilize our mobile “apps” or otherwise interact with us, for example, but without limitation, through our official corporate pages on third party social networks (such as Facebook) or the “apps” on those pages, you consent to our collection, retention and use of your personal data in the manner described in this policy and accept the risks outlined in the Security section.
+**Scope and Controllers**
 
-**SCOPE**
+**Data collection (what& how)**
 
-_This policy covers the personal data we collect about you  in connection with our vehicle rental business which identifies you as an individual.  It does not apply to data that does not personally identify you as an individual, for example, but without limitation, aggregated anonymous data, IP addresses, computer operating systems, personal preferences, vehicle identification numbers, etc.  We are free to use data that does not identify you as an individual as we wish.  This policy does not apply to data collected by third party social networks (such as Facebook), mobile device manufacturers, third party “mobile apps”, wireless service providers, internet service providers or the operators of any networks through which you may interact with us and we expressly disclaim any responsibility for the data collection, privacy or data security practices of those entities.  With regard to pages on third party social networks, this policy only applies to personal data we collect through our pages (those with a direct link to this policy) and does not apply to any “unofficial” pages or pages of our affiliates or licensees.  Our websites are not directed to individuals under the age of 13, and we do not knowingly obtain personal data from such individuals._
+**Purposes for processing**
 
-**Who We Are** **  ** **  
-** \--------------------------------------------------------
+**3rd party recipients**
 
-We are Dollar Rent A Car, Inc., a subsidiary of The Hertz Corporation.  We provide and support vehicle rental services worldwide.  All references in this policy to “we”, “us” and “our” are only to us.  .  As such,  the business operations of our parent corporation, The Hertz Corporation, and other subsidiaries and businesses of The Hertz Corporation, including Thrifty Rent A Car, Firefly Rent A Car, Hertz Equipment Rental Corporation and Donlen Corporation are not covered by this policy because each of those entities/operations has its own privacy policy that is applicable to its operations. 
+**Cookies and Online Advertising Choices**
 
-We operate a network of licensees in provision of our services worldwide and are affiliated to many other companies through ownership. As our [licensees](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#licensees "licensees") and [affiliates](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#affiliates "affiliates") are independent companies, they are not owned or controlled by us and are not covered by this policy, although they may have their own privacy policies to govern the personal data they collect. We are not responsible for the privacy practices of our licensees and affiliates.
+**International transfers**
 
-**_More about licensees and affiliates_** _…_
+**Security**
 
-**_Licensees:_** _We have a network of independent companies licensed to operate vehicle rental businesses using the “Dollar” name and business system.   These companies are not our subsidiaries._
+**Data retention and integrity**
 
-**_Affiliates:_** _These companies either control us (through ownership) or are controlled by the companies that control us. They cover a range of businesses but are generally not independently involved in provision of our services to you._ _ _   
+**Access, correction, and portability**
 
-**Legal Issues** **  
-** \--------------------------------------------------------
-
-We do business in many countries and aim to comply with the privacy laws applicable to the personal data we collect and use. 
-
-**Changes  ** **  
-** \--------------------------------------------------------
-
-We may change this policy from time to time.  If we do so, the amended policy will take effect when we post it on the applicable website(s), mobile “apps” or our third party social network page(s).  Whenever we make a change, we will amend the “ **last updated** ” notice under the “Scope” heading in the “Overview” section above.  
-
-If any change makes the policy less protective of your personal data, such change will not apply to data we collected about you before the change was made.  The only exception to this is, unless legally prohibited, where we have provided you with notice about the changes and given you the opportunity to tell us not to apply them to your personal data.
-
-**COLLECTION  **
-
-_We collect a range of data about you from a variety of sources for the purposes of our business. The examples we provide here are illustrative rather than a complete list of our practices._
-
-**What We Collect** **  
-** \--------------------------------------------------------
-
-We collect the personal data and the non-personal data we need to process your reservation requests and to provide the services you request from us and for our operational uses in connection with such services, which may include:
-
-  * Name, address and contact details, including telephone and mobile number, and email address; 
-  * Date and place of birth, passport number and driver’s license number and, upon our request, a copy of your driver’s license; 
-  * Your gender and photo; 
-  * Employer(s) name, address and phone number; 
-  * Credit card information; 
-  * Frequent flyer and other membership reward or loyalty program information; 
-  * Affiliations with or sponsorships by companies, associations, colleges or cities; 
-  * Location data such as geographic location of electronic devices used to contact us or to access our mobile “apps” or of the vehicle you have rented; 
-  * Information regarding the vehicle rented and its operation during your rental; 
-  * Rental charges you incur and other information relating to your transactions; 
-  * Information transmitted by your computer’s browser software; 
-  * Itinerary information, including airline and/or flight information; and 
-  * Information about your credit history or other publicly available information about you from consumer reporting agencies. 
-
-
-
-We may collect certain personal data that constitutes [sensitive data](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#sensitive_data "sensitive data") in some countries, such as data about health conditions or membership of a trade union. Depending upon applicable local law, we may be unable to process such sensitive data without your consent.
-
-**_More about  sensitive data…_**
-
-_Data about your **health conditions** is regarded as sensitive in many countries. If you ask us to accommodate a disability, such as by provision of hand controls, or if there is an accident and we need to work with insurance and claims management companies (which may be a third party or an affiliate of ours) relating to any injury you may incur, we may need to process data about your health conditions.  Similarly, in the EU, at least, your **membership of a trade union** or similar organization is regarded as sensitive and we may need to process this information if you use a CDP or corporate account number that only members of that union or organization can use._
-
-_Please note that **if you wish to rent with us or our licensees and need to provide sensitive data, you consent to that data being collected, used, retained  and disclosed for our Operational Uses.** We will not use sensitive data about you for marketing purposes._  
-****
-
-**Sources   ** **  
-** \--------------------------------------------------------
-
-We collect personal data directly **from you** in connection with a reservation (even an abandoned or interrupted reservation), a rental of a vehicle, or your membership in any of our membership programs, including information you provide:    
-
-  * When you call our reservation, customer service, emergency road-side assistance, customer contact or member care centers; 
-  * On our websites; 
-  * On our mobile “apps”; 
-  * On our official third party social network pages; 
-  * Through your computer’s web browser; 
-  * At rental locations; 
-  * Through our in-vehicle technology or through other telematic devices; and 
-  * When you join our membership programs. 
-
-
-
-We also gather personal data about you from a variety of **other sources** , which may include:
-
-  * Reservations you make with us through licensees, travel agents or brokers; 
-  * Transactions you complete with us and our licensees, including options you take, charges you incur and any incidents or accidents that may occur; 
-  * Corporate account sponsors, CDP sponsors, sponsors of promotion codes and sponsors of special discount codes; 
-  * To the extent you have made such information available, from third party social networks; 
-  * Consumer reporting agencies; and 
-  * Other companies that have business relationships with us, such as our licensees, affiliates and business partners, including airlines, hotels and insurance companies. 
-
-
-
-**Websites** **  
-** \--------------------------------------------------------
-
-**Our Websites**
-
-Certain technologies are used on our websites and on mobile devices to collect data about your visit or usage, as follows:
-
-**Cookies**
-
-A “ **cookie** ” is a set of data sent to your computer or mobile device by a web server that enables the server to recognize your computer or mobile device.
-
-Cookies help improve the quality of your visits to websites, for example, but not limitation, by making the reservation process faster and smoother. The information the cookies provide helps in the development of content and features that may be of interest to you.
-
-We use cookies to: 
-
-  * Track your use of our websites during a single visit, remember the data you provide and the choices you make as you progress from page to page (“ **session cookies** ”); and 
-
-
-  * Recognize you at your next visit (“ **persistent cookies** ”). 
-
-
-
-Third party cookies may also be used on our websites for the purpose of:
-
-  * Such third parties providing goods or services to you (for example, but without limitation, an insurance carrier paying or reimbursing you for a vehicle or equipment in connection with insurance replacement rentals); 
-
-
-  * Performing services on our behalf; 
-
-
-  * Facilitating business transactions with or through such third parties; or 
-
-
-  * Providing advertisements to you. 
-
-
-
-**_More about cookies…_**
-
-_By adjusting your browser or installing certain software, you can restrict our use of cookies.   If you do this, you should be aware of the following:  _
-
-_•  If you restrict our use of **session cookies** you will not be able to use our websites or certain features of our e-mail messages. You should be aware that session cookies are generally deleted or made unavailable to us as soon as you close your browser._
-
-_•  If you restrict our use of **persistent cookies** you may still enjoy the full workings of our websites and e-mail messages but will need to re-enter some data when starting a new website session. Although persistent cookies will neither automatically be erased nor made unavailable to us upon closing your browser, they will typically “expire” after a number of years._
-
-_If you are still unsure about cookies, please note that   our cookies are unable to retrieve other data from your computer’s hard drive or pass on computer viruses._ 
-
-  **Pixel Tags**
-
-In addition, “ **pixel tags** ”, “web beacons”, “JavaScript”, or similar technologies that enable, among other things, the tracking of your actions as a user of various websites or recipient of e-mail messages. (“Pixel Tags”) may be used. Pixel Tags may be used in connection with our web pages, our online advertising, or our e-mail messages, either by us or by our service providers, business partners or other third parties.
-
-Pixel Tags are used to collect typically anonymous data to help identify types of information, including popular destinations, average rental prices, quote and conversion rates, click-throughs and other information to improve the service you receive or the relevance of advertising directed to you. Pixel Tags may also be used to identify which online advertisement or email has brought you to a website.
-
-Further, certain Pixel Tags may be used by other companies for the purpose of tracking visits to their websites, identifying if such internet traffic came from one of our websites or confirming your eligibility to receive services or benefits from such other companies.
-
-Third party cookies or Pixel Tags may collect information about a user of our site’s online activities over time and across different web sites.
-
-Some of our web sites may use Google Analytics, which uses cookies and other, similar technologies (e.g. Pixel Tags) to collect information about website use anonymously and reports trends, without identifying individual visitors.  To learn more about Google Analytics, including how to opt out of it, visit https://tools.google.com/dlpage/gaoptout.
-
-We use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use our websites and other websites, based on information relating to your access to and use of our websites and other websites.  To do so, these companies may place or recognize a unique cookie on, or other technology in connection with, your browser (including through the use of Pixel Tags).  If you would like to learn more about this practice, including your choices with respect to it, please visit http://www.networkadvertising.org/managing/opt_out.asp and http://www.aboutads.info/.
-
-We do not respond to a web browser’s “do not track” signal, or other mechanism that indicates a request to disable online tracking of individuals who use or visit our websites.
-
-As the internet and other eCommerce channels continue to develop, we may deploy and utilize different types of technologies to collect data regarding your visit or usage.
-
-**Blogs or Message Boards**
-
-Some of our websites and our official corporate pages on third party social networks (such as Facebook) may provide functionality that permits you to post public messages or responses to articles, comments or other postings.  You should be aware that by submitting such a posting, including any personal data or non-personal data in connection with it, you intend for that posting and any data in connection with it to be, and it shall immediately become, public and as such will not be subject to this Privacy Policy. We reserve the right to remove any posting or content in a posting at our sole discretion.
-
-**Other Company Websites**
-
-Our websites and e-mail messages may contain links to websites operated by other companies.  You should be aware that the collection, retention and use of any data you provide on these websites will be governed by the privacy policy of the company providing the website and not by this policy.
-
-**RETENTION**
-
-_We try to ensure that the personal data we retain about you is stored securely and, in light of the information provided to us, is as accurate, current, complete and relevant as necessary for the purposes for which we use and disclose it._
-
-**Storage** **  
-** \--------------------------------------------------------  
-We generally retain personal data about our customers for as long as we believe appropriate for the purposes for which it was collected or as otherwise required or authorized by applicable law.
-
-Our principal databases for storing the personal data we collect are located in Oklahoma, U.S.A.
-
-**Security** **  
-** \--------------------------------------------------------
-
-As you may be aware, there is no completely secure method of transmitting or storing data. Although their physical characteristics are different, postal mail, telephone calls, text messages, faxes and transmissions over the Internet or wireless networks all present possibilities of loss, misrouting, interception and misuse of the data that is transmitted.
-
-We take commercially reasonable measures to protect against the loss, misuse and unauthorized access or disclosure, alteration and destruction of your personal data by aiming to maintain appropriate physical, procedural and electronic safeguards to protect your personal data, including:
-
-  * Restricting access to personal data to our employees and service providers on a “need to know” basis; 
-  * Enforcing policies and procedures for our employees in their handling of personal data; and 
-  * Using technologies designed to safeguard data during its transmission, such as [SSL encryption](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#SSL_encryption "SSL encryption") for the data you provide on our websites. 
-
-
-
-If you have reason to believe that any account with us is no longer secure, you must immediately contact us by following the instructions at the end of this policy. 
-
-**_More about_** ** _ _** ** _SSL encryption…_**
-
-_“SSL” stands for Secure Sockets Layer encryption. We use this protection when you submit personal data  to us on our websites.  SSL encryption seeks to ensure that you are actually sending your data to us and that no-one else can read or tamper with it during transmission._
-
-_When you are asked to provide your personal data to us on our website, you will see that our “http” website address changes to read "https". The additional “s” denotes that the site is secure for that data transfer. You may also see a closed padlock symbol on your screen, again denoting a secure site._
-
-**Security of Communications**
-
-We try to strike a balance between the security of your data and your convenience.  As a result, we may sometimes use a method of communication that is less secure than a less convenient alternative.
-
-For example, but not limitation, we will send you an e-mail or a text message in unencrypted form (i.e. instantly readable) because many of our customers are unable to access encrypted (i.e. coded) e-mail or messages. This means that our message, if misrouted or intercepted, could be read more easily than encrypted messages. For this reason, please do not include confidential information, such as your credit card number or account passwords, in any e-mail or text you send to us or on any posting you make to a public area of a third party social network page, especially since any such posting immediately becomes public.
-
-For a more secure way to communicate with us over the Internet, please click on the “ **Contact Us** ” link on any page of www.dollar.com, and follow our instructions.
-
-**Access and Correction**
-
-\--------------------------------------------------------
-
-You may access and review your personal data, change it and correct factual errors as follows:
-
-  * If you are a member of Dollar Express, you may log into your member profile through under the “Express” tab on [www.dollar.com](http://www.dollar.com/). 
-
-
-
-To protect your privacy and the security of your personal data, we will take steps to verify your identity before granting you access or making corrections to the data we store about you.
-
-Certain types of personal data may need to be updated with the third party social network through which you may interact with us, rather than directly with us.
-
-**USES and DISCLOSURES**
-
-_Your personal data will not be used in a way that is incompatible with the purpose for which it was collected or as authorized by you. In that regard, by enrolling in one of our  membership programs, making a reservation with us, or renting a vehicle from us, you consent to our use and disclosure of your personal data for the operational uses listed below which may include disclosure of your data outside your country of residence.  We would also like to use and disclose your data for marketing purposes.   _
-
-**Operational Uses and Disclosures** **  
-**\--------------------------------------------------------
-
-The examples provided below are illustrative and not a complete list of our practices:
-
-**To provide you services**  
-
-We will share your personal data among ourselves, our agents, our licensees and other companies to provide services to you, including to:
-
-  * Make your rental reservations; 
-  * Process and/or confirm your transactions; 
-  * Provide you with the services you have requested or, where applicable, enhanced rental services, such as services provided in connection with our membership programs and similar services; 
-  * Provide you services in connection with your rental;; 
-  * Provide you with customer assistance, including, but not limited to, assistance after you have initiated but not completed a reservation;  
-  * Bill and collect amounts owed in connection with your rentals and membership(s); and 
-  * For customer satisfaction and market research purposes and to otherwise help us improve our services. 
-
-
-
-**To communicate with you**   
-
-We may use your personal data to communicate with you regarding:
-
-  * Any reservation you initiate or rental transaction; 
-  * Your membership/status in one of our membership programs; or 
-  * Changes to the terms or features of any of our membership programs to which you belong. 
-
-
-
-So that we may communicate with you, you give us your consent to call you on or send text messages to your mobile telephone/device.  You also consent to our use of auto-dialers and pre-recorded messages in connection with any such telephone call or text message, including calls or texts to mobile telephone numbers.  We will not charge you for such calls or texts.  Your mobile service provider will charge you according to the applicable plan to which you subscribe.
-
-**Disclosure to companies you use**   
-
-We will also share your information with companies you use in connection with your rental, including:  
-
-  * Your credit card provider and other companies that process your charges; 
-  * Any company or organization that is paying all or part of your rental charges; 
-  * Any intermediary you use, such as a travel agent or broker, in relation to any aspect of your rental; and 
-  * Any operator of a membership program for which you are rewarded for renting with us, such as a frequent flyer program. 
-
-
-
-You may quote a special discount code, called a corporate account number or customer discount program number (“ **CDP number** ”), when you rent with us, entitling you to the special rate or benefits we may have negotiated with the sponsoring company, association, credit card company or travel club (the “CDP Sponsor”), if you are eligible to do so.  By using a CDP number, you consent to our disclosure of your personal data to the CDP Sponsor.
-
-**_More about   CDP Sponsors…_** _ _
-
-_If you rent using a CDP number, you consent to our disclosure of your personal data to the CDP sponsor to:_
-
-_•  Administer and evaluate the program;  
-__•  Confirm your eligibility to rent using that CDP number;_ _  
-__•  Determine our compliance with the terms of the program;_ _  
-__•  Establish your compliance with the sponsor’s rental policies;_ _  
-__•  Enable the sponsor’s payment of your rental costs (if applicable); or_ _  
-__•  For any other uses reserved by a CDP sponsor with you, which may include marketing uses._
-
-_If you do not wish us to disclose your personal data to a CDP sponsor for the above purposes, you must not use their CDP number for your rental or as part of your profile. This will mean, however, that you will not be able to receive the benefits associated with that CDP number._
-
-When you rent with us, you may also present a promotion code or a special discount code, entitling you to a special rate or benefit.  By using such a promotion code or special discount code, you consent to our disclosure of your personal data to the sponsor of the promotion code or special discount code. 
-
-**_More about Sponsors of Promotion Codes or Special Discount Codes…_** _ _
-
-_If you rent using a promotion code or a special discount code, you consent to our disclosure of your personal data to the sponsor of that promotion code or a special discount code to:_
-
-_•  Administer and evaluate the program;  
-__•  Confirm your eligibility to rent using that promotion code or a special discount code;_ _  
-__•  Determine our compliance with the terms of the program;_ _  
-__•  Establish your compliance with the sponsor’s rental policies;_ _  
-__•  Enable the sponsor’s payment of your rental costs (if applicable); or_ _  
-__•  For any other uses reserved by the sponsor and you, which may include marketing uses._
-
-_If you do not wish us to disclose your personal data to the sponsor of a promotion code or a special discount code for the above purposes, you must not use their promotion code or a special discount code for your rental or as part of your profile. This will mean, however, that you will not be able to receive the benefits associated with that promotion code or a special discount code._
-
-**Protective and legal uses**
-
-We may use, share and disclose your personal data for legal reasons as we believe necessary or appropriate, including:
-
-  * under applicable law, including laws outside your country of residence; 
-  * to process, handle or otherwise respond to claims for damages, including claims or demands for bodily injury or property damage; 
-  * to comply with legal process; 
-  * to respond to requests from public and government authorities including public and government authorities outside your country of residence; 
-  * to enforce our terms and conditions; 
-  * to recover our vehicles, equipment or any monies due, such as through debt collection agencies; 
-  * to protect our operations or those of any of our affiliates; 
-  * to assess your credit worthiness 
-  * to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and 
-  * to allow us to pursue available remedies or limit the damages that we may sustain. 
-
-
-
-**Disclosure to our service providers and agents**
-
-We may use other companies (including our affiliates) as our service providers or agents to act on our behalf and assist us in the conduct of our business, performing services for us under our instruction. These services may include hosting certain websites or databases, operating “apps” for us on our social media networks’ pages, running contests, sweepstakes and other promotions for us, sending marketing communications, carrying out data analysis and conducting customer satisfaction surveys or other research. We will seek to require our service providers and agents to maintain appropriate security standards to protect your personal data and use the personal data we provide to them only for the purposes we specify.  
-
-**Disclosure for corporate transactions**
-
-We may disclose your personal data to a third party in connection with any contemplated or actual reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
-
-**Marketing Uses and Disclosures**
-
-\--------------------------------------------------------
-
-We may aggregate your personal data and use it to develop marketing programs and service offerings that we believe may be of interest to you. We would like to send these to you by email, by text message or by mail. We would also like to share your personal data with our licensees, affiliates and business partners for their marketing purposes. You have choices in relation to our marketing uses of your personal data, based upon the residence for you in our records, as follows: 
-
-**US residents**
-
-We may use your personal data for the above marketing purposes, although you can choose to limit or restrict our mailings and our sharing of your data for these uses by following the instructions at _Marketing Options_ below.  
-
-**EU and Canadian residents**
-
-We will only use your personal data for our marketing purposes with your prior consent, which may be collected from a number of sources.  
-
-If you do not receive marketing messages from us and would like to do so, or if you want to limit or restrict our communications with you or sharing of your data for marketing purposes, please follow the instructions at [_Marketing Options_](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#Marketing_Options "Marketing Options") below.
-
-**Residents of other countries**
-
-We aim to comply with your local law regarding our use of your personal data for marketing purposes. You can instruct us how we can use and disclose your personal data for marketing purposes by following the instructions at [_Marketing Options_](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#Marketing_Options "Marketing Options") below.  
-
-**Marketing Options**
-
-\--------------------------------------------------------
-
-**Members of our  membership programs**
-
-If you are a member of our Dollar Express program or a similar membership program, you will have made marketing choices when you enrolled or at such other time(s) as you may have chosen to do so.  These choices are now recorded in your Profile. You can review and amend your Dollar Express selections by accessing your Profile through the Log In option under the “Express” tab on [www.dollar.com](http://www.dollar.com/).
-
-Alternatively, please complete the  _My  Privacy Choices_ form at the end of this policy and mail it to us, following the instructions at [Contact Us](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#Contact_Us "Contact Us") below.
-
-**Non-members**
-
-We may record your privacy election regarding the receipt of marketing communications at the time you make a reservation or at other times when you interact with us.  If you are not then a member of one of our membership programs, or the email address provided for the specific reservation/interaction is not associated with the profile you have in a membership program, you can follow the “Alternate opportunities to opt-out” instructions below to tell us that you no longer wish to receive marketing communications at that email address if you previously had elected to receive marketing communications.
-
-**Alternative opportunities to opt-out**
-
-Our marketing emails contain an unsubscribe option.  If you do not want us to continue to send marketing emails to your email address, click on ‘ _unsubscribe_ ’ and we will not send further marketing emails to that address, although you may still receive emails at other addresses for which you have not unsubscribed. If you subsequently wish to override your choice to unsubscribe, you will need to either amend your Profile (see _Members of our  membership programs_) or, if you are not a member of one of our programs, follow the instructions at Contact Us below.
-
-**Important points to note**
-
-Please note the following points about the marketing choices you make:
-
-  * If you change your marketing choices, we will observe your most recent choice with regard to the contact information associated with your membership number for the relevant membership program.  To extent allowed by law, marketing choices you make with regard to one membership program will not modify your marketing choices for another membership program.  Although we aim to process your choices promptly, you may still receive marketing communications prepared before we received your request to unsubscribe; 
-
-
-  * If you change your address, we will continue to follow your directions for your most recent address provided from your ‘unsubscribe’ click noted above, your Profile, or the My Privacy Choices form you completed that is associated with you for the implicated  membership program. In order for us to continue to follow your directions at a new address, you will need to update your Profile online or complete another My Privacy Choices form with your updated information and provide it to us with your changed contact information; and 
-
-
-  * If you choose not to receive marketing messages from us, you may not be able to receive certain benefits connected to any program to which you belong, such as promotions involving free rental days (if applicable). You will, however, to the extent permitted by law continue to receive applicable program updates and other membership information. 
-
-
+**Withdraw consent or Complaints**
 
 **Contact Us**
 
- We hope this policy answers your questions about our collection, use and disclosure of your personal data. If you have additional questions or want to contact us for a specific purpose, please select from the following:
+**Changes**
 
-  ** _Access/Corrections:_**  Please send any request to access, amend or delete certain personal data we hold about you to the most convenient contact address below.
+## A.QUICK REFERENCE GUIDE: (for more detail, click on the hyperlink)
 
-**_Complaints and other questions:_**  You should send any questions you may have about this policy or any complaints you have about how we have handled our personal data to the most convenient contact address below. If you feel our response is not satisfactory, we will refer you to a neutral and independent dispute resolution organization.
+  1. **Scope**
+    * This policy covers the information We obtain from you in connection with Our vehicle rental and other associated businesses, which identifies you as an individual. 
+    * This policy does not cover information that cannot be used to identify you as an individual. 
+  2. **Information We collect (what & how)**
+    * We, Our advertisers, licensees, business partners, and discount sponsors may collect information from you in a multitude of ways, including, but not limited to, phone calls, customer service contacts, mobile apps, websites, and other sources. 
+    * We collect information from customers during the process of reservation and rental transactions, such as name, address, and payment card information. 
+    * Personal data to provide you with exceptional rental services, including, but not limited to; 
+      * Name, phone number, address, date of birth 
+      * Driver’s license or other forms of identification 
+      * Employer information (number, address, contact information) 
+      * Credit worthiness or other background information 
+  3. **Purposes for processing**
+    * Information you provide will be used to provide you with the services you request. 
+    * We will use the contact information you provide to communicate with you. 
+    * We use “cookies” and other electronic tools to collect statistical information about your use of Our websites. This information is used for research and other reasons, generally to better help Our customers by showing Us how We can improve Our websites. 
+    * We do use personal information for Our own analytical purposes. 
+  4. **3rd Party Disclosures**
+    * We may provide your information to designated third-party service providers, rental discount sponsors you utilize, Our licensees, and other entities. 
+    * We do not sell your information to unrelated third parties for purposes of marketing their products of services. 
+    * We may share your information for marketing purposes to those with which We have an agreement to do joint advertising, subject to your consent. 
+  5. **International Transfers**
+    * Your information may be transferred out of your country or region of residence to countries such as the United States for processing and storage. 
+    * Your information may be transferred out of your country or region of residence upon your instruction. 
+  6. **Security**
+    * We use reasonable measures to safeguard Personal Data from theft, unauthorized use, disclosure, or modification. 
+    * We aim to maintain appropriate physical, procedural and electronic safeguards to protect your Personal Data. 
+  7. **Data retention**
+    * We generally keep customer information for as long as We believe necessary for the purpose for which it was collected, or as allowed by law. 
+  8. **Access, correction & portability**
+    * You will have access to review or update Personal Data that is collected from and about you, so you can change any information that is incorrect. 
+    * We will try Our best to accommodate your request, but We reserve the right to impose certain restrictions and requirements. 
+  9. **Withdraw consent or complaints**
+    * Where We use consent as a basis for processing, you can always withdraw that consent. 
+    * If you feel that this policy has been violated, We will work with you to resolve your concerns. 
+  10. **Changes**
+    * We may modify this Privacy Policy at any time, but changes will not apply retroactively. 
+    * We will notify you when We make material changes by posting a note on the homepages of Our websites. 
 
-**_Marketing:_**  Send a completed _My  Privacy Choices_ form (at the end of the policy) to the most convenient contact address below.  We aim to process your choices promptly on receipt, but you should please allow a number of days for your choices to become effective.
-
-**_Security:_**  If you have reason to believe that the personal data we hold about you, such as your member number in any of our membership programs, is no longer secure, you must immediately notify us of the problem by either clicking **“Contact Us”**  on any page of www.dollar.com; or calling as follows:
-
-  * Customers in the United States call Customer Care at: 1-800-800-5252 
-  * Customers outside the United States: 1-405-775-3400  
 
 
+Our goal is to provide Our customers with excellent services. We do business in many countries and We aim to comply with all privacy laws that apply to the data We collect and use. This policy is subject to compliance with local law. Where this policy provides a higher standard than local law, this policy will control how Hertz handles your Personal Data. By providing your Personal Data to Us, Our designated service providers, or other third parties as noted within this Policy, you consent to Our use and disclosure of your data for the operational and other purposes listed in this Policy. 
 
-**_Contact addresses:_**
+  1. **SCOPE & CONTROLLERS**
 
-• Director, Privacy Services, Dollar, c/o The Hertz Corporation, P.O. Box 25301, Oklahoma City, OK 73125, U.S.A.
+The Hertz Corporation, and its specific rental business affiliates and subsidiaries (including Dollar, Thrifty, and Firefly brands and associate entities) are data controllers for purposes of this Policy. However, We also operate a network of licensees in provision of Our services worldwide and are affiliated to many other companies through ownership. As Our licensees, affiliates, and entrusted third-party vendors are independent companies, they are not owned or controlled by Us and are not covered by this policy. We are not responsible for the privacy practices of Our licensees, and other third parties with whom you may transact.
 
-• Director, Privacy Services, Dollar, c/o Hertz Europe Service Centre, Swords Business Park, Swords, Co. Dublin, Republic of Ireland
+This Policy covers the information We collect about you in connection with Our vehicle rental businesses, which does, or can be used to identify you as an individual (“Personal Data”). It does not apply to information that cannot reasonably identify you as an individual. For example, but without limitation, aggregated anonymous data, computer operating systems, aggregated preferences, vehicle identification numbers, etc. are not Personal Data. 
 
-• Privacy Compliance Officer, Dollar, c/o Hertz Australia Pty Limited, Level 6, 10 Dorcas Street, South Melbourne VIC 3205, Australia  
+Our websites are not directed to individuals under the age of 13, and We do not knowingly obtain Personal Data from such individuals. 
 
-• Director, Privacy Services, Dollar, c/o Hertz New Zealand Ltd., Private Bag 4716, Christchurch, New Zealand 8020[EW3] 
+  2. **DATA COLLECTION (WHAT& HOW)**
 
-**My  Privacy Choices** **  
-** \--------------------------------------------------------
+We, both directly and through Our service providers, business partners, discount sponsors, licensees, advertisers, and booking channel providers, collect Personal Data that you provide on Our websites, on third-party websites, on applications, and offline in connection with any inquiries, reservations, rentals, purchases, or services. Information collected about your use of Our websites, applications, or other websites may be combined with personal or other information about you from other online or offline sources. We also will collect Personal Data across all the devices you use to access websites or applications of Us and Our designated service providers. 
 
-Please complete this form and send it to us by following the instructions at  _Contact Us_ above.
+Providing your Personal Data to Us may be required due to a legal obligation which could be a statutory or contractual obligation, may be on a voluntary basis or may be necessary for us to enter into the contract with you, depending on the purposes for which we collect and use your Personal Data as set out in this Privacy Statement. However, if you do not provide your Personal Data to Us this may result in disadvantages to you, e.g. we may not be able to provide certain products or services to you. However, unless otherwise stated, not providing your Personal Data will not result in legal consequence for you.
 
-(Updates: Please update your information in your Profile online, or use this form for changes.)
+Do not provide information about others unless you are authorized to do so and have obtained consent to have all information used, disclosed, and transferred in accordance with this Privacy Policy. By submitting information about others, you represent and warrant that you are authorized to do so and that you have received authorization from the person about whom you are providing the information and for non-EU residents, that person has consented to have all information used, disclosed, and transferred in accordance with this Privacy Policy. 
 
-_Please note: Privacy Choices for   The Hertz Corporation, Thrifty Rent A Car, FireFly Rent-A-Car, Hertz Equipment Rental Corporation, or Donlen Corporation should be made by following instructions in their respective privacy policies._
+**a. TYPES OF INFORMATION COLLECTED:** The types of information collected regarding you and your interactions with Us may include, but is not limited to: 
 
 | 
 
-Name: ..................................................................  
-  
----  
-  
-Address: .............................................................    
+Personal Information
 
 | 
 
-State/Province: .....................................................  
-  
-Zip/Post code: ...................................................
+Technological Information
 
 | 
 
-Country: ...............................................................  
+Rental Information  
   
-Email Address: ...................................................
+---|---|---  
+  
+Your name, 
+
+Email address, 
+
+Phone number, 
+
+Residency address, 
+
+Date and place of birth,
+
+Gender, 
+
+Age, 
+
+Passport number,
+
+Driver’s license or other ID photograph,
+
+Credit score and history, 
+
+Criminal history, 
+
+Background
 
 | 
 
-Dollar Express Member Number: .....................................................  
+IP address, 
+
+Device ID,
+
+IP address; 
+
+Browser type; 
+
+Language; 
+
+Operating system; 
+
+Mobile device identifiers; 
+
+Geo-location data; 
+
+The state or country from which you accessed Our websites; 
+
+The specific webpages visited; 
+
+The date and the time of a visit; 
+
+The websites you visited immediately before and after visiting Our websites; 
+
+The number of links and specific links you click within Our websites; 
+
+The functions you use on Our websites; 
+
+Any reservations, updates, purchases, or other transactions through Our websites; 
+
+The data you view or download from Our websites; and 
+
+The number of times you view any particular advertisements
+
+| 
+
+Payment card information, 
+
+Video of you and interaction with Us, 
+
+Membership organization number, 
+
+Frequent flyer number, 
+
+Loyalty program, 
+
+Organizational affiliations, 
+
+Employee ID number, 
+
+Employer name and contact information,
+
+booking location, 
+
+Rental or purchase location, 
+
+Return location, 
+
+Geographical areas visited, 
+
+Preferences and usage information, 
+
+Charges incurred, 
+
+Purchase prices and details, 
+
+Itinerary information,
+
+Data related to claims  
   
-|   
+**Sensitive Data:** We, both directly and through our service providers, business partners, discount sponsors, licensees, advertisers, and booking channel providers, may collect certain Personal Data that constitutes sensitive data in some countries, such as data about health conditions or membership of a trade union. Depending upon applicable local law, We may be unable to process such sensitive data without your consent. _Data about your **health conditions** is regarded as sensitive in many countries. If you ask Us to accommodate a disability, such as by provision of hand controls, or if there is an accident and We need to work with insurance and claims management companies relating to any injury you may incur, We may need to process data about your health conditions. Similarly, in the EU, at least, your **membership of a trade union** or similar organization is regarded as sensitive and We may need to process this information if you use a CDP Number that only members of that union or organization can use. _
+
+Please note that if you wish to rent with Us or Our licensees and need to provide sensitive data, we will use that sensitive data for Our operational uses as described in this Privacy Policy, subject to your consent where required under applicable law.
+
+**b. METHODS AND SOURCES OF COLLECTION:** We, both directly and through Our service providers, business partners, discount sponsors, licensees, advertisers, and booking channel providers, may collect your information through a variety of methods. These methods may include, but are not limited to: 
+
+On Line
+
+| 
+
+Off Line  
   
-A.  Please send me marketing offers and materials from or on behalf of Dollar:
+---|---  
+  
+Our websites;
 
-                                                                  **Yes           No**
+Our kiosks;
 
-  Postal mail                                                [  ]          [  ]
+Our mobile “apps”
 
-  E-mail                                                       [  ]          [  ]  
- 
+Our official third-party social network pages; 
 
-B.  Please share my personal data with Dollar’s licensees, affiliates and business partners for their marketing purposes:
+Your computer’s web browser; 
 
-                                                                  **Yes           No**
+Third-party social networks; 
 
-                                                                  [  ]          [  ]
+Telematics devices;
 
-Any consent regarding your receiving marketing materials provided above can be withdrawn or other otherwise changed at any time in accordance with the instructions set forth in this Privacy Policy.
+| 
+
+Calls to or from Our reservation, customer service, emergency road-side assistance, customer contact or member care centers; 
+
+Interaction with Our various licensees, affiliates, and subsidiaries, including car sales and other businesses; 
+
+In-person at rental locations; 
+
+In-vehicle or in-equipment technology or through other telematic devices; 
+
+When you join Our membership programs; 
+
+In connection with a reservation (even an abandoned or interrupted reservation); 
+
+A rental of a vehicle or equipment, or your purchase of a vehicle or equipment;
+
+Reservations you make with Us through licensees, travel agents or brokers, online or in-person; 
+
+Transactions you complete with Us, Our licensees, and agents including options you take, charges you incur and any incidents or accidents that may occur; 
+
+CDP Sponsors or sponsors of promotion codes, affiliation, or special discount codes;/p>
+
+Consumer reporting agencies; 
+
+And other companies that have business relationships with Us, such as Our licensees, affiliates and business partners, including airlines, hotels, and insurance companies.
+
+Claims Management service providers (either affiliated directly with Us, or operated by a third-party)  
+  
+**c. UTILIZATION OF COOKIES AND OTHER ELECTRONIC TOOLS:** We and Our service providers, business partners, discount sponsors, advertisers, and advertising servers may place, view, or use "cookies", web server logs, web beacons, pixel tags, or other electronic tools to collect statistical and other information about your use of Our websites and other websites. This information may include information described above in Section 2.a
+
+We and the parties with which We work, as described in this Privacy Policy, may use the information collected for the purposes described in this policy, or as allowed by law; either on behalf of Us or third parties; including operational changes, research, analysis, to better serve visitors to Our websites (such as by enabling log-in, providing access to certain sections of websites, providing customized content, or presenting online advertising tailored to you or your interests as described further below), to compile aggregate and anonymous information about usage of Our websites and other websites, other statistics, and more. 
+
+If you have deleted and disabled cookies, these uses will not be possible to the extent they are based on cookie information. 
+
+**d. WEB ADVERTISING:** We, Our designated service providers, or third-party advertisers or their advertising servers, may place or recognize unique cookies on your computer or use other electronic tools in order to help display advertisements that you see on Our websites or on other websites. Information about your visits to, and activity on, Our websites and other websites, is used, alone or in combination with other information, to display on your device screen advertisements that may be of particular interest to you. We may use web beacons, pixel tags, or other such technologies provided by third-party advertising companies, to help manage and optimize Our online advertising and product performance. These technologies enable Us to recognize user visits to our websites, and to learn which banner ads bring users to Our websites. 
+
+As the internet and other eCommerce channels continue to develop, We may deploy and utilize different types of technologies to collect data regarding your visit or usage.
+
+**e. VEHICLE MANUFACTURERS:** Please note that the rental vehicles you operate may collect personal information about you. We are not responsible for these activities, and such collection (and use) is subject to the vehicle manufacturer’s policies and notices.
+
+  3. **PURPOSES FOR PROCESSING**
+
+**a. OPERATIONS AND SERVICES:** We, both directly and through our service providers, business partners, discount sponsors, licensees, and booking channel providers, may use your information to provide you with the services or products you request from Us.
+
+We may use your information to communicate with you regarding any reservation you initiate or rental transaction; your membership/status in one of Our membership programs; or changes to the terms or features of any of Our membership programs to which you belong. 
+
+We therefore process your Personal Data for these purposes to the extent necessary to perform our contract with you or to take steps at your request prior to entering into a contract with you.
+
+For United States Residents, so that We may communicate with you, you give Us your consent to call you on or send text messages to your mobile telephone/device. You also consent to Our use of auto-dialers and pre-recorded messages in connection with any such telephone call or text message, including calls or texts to mobile telephone numbers. We will not charge you for such calls or texts. 
+
+**b. OUR MARKETING:** We, both directly and through Our service providers, business partners, discount sponsors, licensees, advertisers, and booking channel providers, may use your Personal Data to provide you with marketing information, special offers, and promotions via various means including e-mail, in accordance with applicable law. 
+
+Where We have obtained your consent to send these marketing communications to you, We therefore process your Personal Data for these purposes on the basis of your consent. However, where permitted by applicable law We may lawfully use your Personal Data to send you such marketing communications (including via email) without your consent. Where permitted by applicable law We may also process your Personal Data for these marketing purposes where necessary for Our legitimate interests, which include promoting Our products and services, special offers and promotions which may be of interest to you.
+
+You can unsubscribe from receiving such messages at any time by contacting Us at the details below under "Contact Us" as well as the unsubscribe link in each e-mail message. You can also request at any time that We do not to use your Personal Data covered by this Privacy Policy to provide you with special offers and promotions by contacting Us at the details below under “Contact Us”. Please note that if you exercise these choices, you will continue to receive communications concerning your account and products and services you requested, and in response to any requests for information by you. Please also note that this opt-out process may take some time to complete, consistent with applicable law. Third-party rental sponsoring organizations are solely responsible for their own practices, and an unsubscribe request must be sent to any such organization from which you would like to stop receiving marketing materials.
+
+**c. THIRD-PARTY PURPOSES:** As part of Our Services, We have engaged with third-party organizations that sponsor the CDP, member, employee, or other number used by you to complete a rental or purchase (“Sponsoring Organization”). As a result of Our relationship with these Sponsoring Organizations, We may be under an obligation to provide the third party with details about you and your use of Our services as they relate to your relationship with the Sponsoring Organization. 
+
+We Process your Personal Data in relation to Sponsoring Organizations to the extent necessary for performance of our contract for rental or purchase where you use a CDP, member, employee, or other number. 
+
+Sponsoring Organizations may have different privacy practices than We do, and We recommend you review the Sponsoring Organization’s privacy policy for the purposes which they will use your information. As We do not control the Sponsoring Organization’s privacy practices, they may not be the same as Ours. However, because of your relationship with the Sponsoring Organization, they can use Personal Data which they receive from Us for the purposes specified in their privacy policies or similar statements.
+
+**d. NORMAL COURSE OF BUSINESS:** We may also process your Personal Data and other information if such processing is necessary: 
+
+(a) to comply with the law or in response to a subpoena, court order, law enforcement request, or other legal process; (b) to protect the interests, rights, safety, or property of Us or others; (c) to enforce any terms of service on Our websites or the terms and conditions of any rental, purchase, or utilization; (d) to provide you and others with the services or products requested by you or your designated representative, and to perform other activities related to such services and products, including billing and collection; (e) to provide you with special offers or promotions from Us that may be of interest to you, where permitted; (f) as part of a business transaction where all or some of Our assets are bought, sold, or otherwise transferred by act of law or contract; or (g) to operate Our systems properly.
+
+  4. **DISCLOSURES TO AFFILIATES AND THIRD PARTIES: **
+
+**a. THIRD-PARTY PROVIDERS:** For the purposes described in this Policy, We may share your personal and other information with our service providers, business partners, discount sponsors, licensees, assigns, advertisers, and booking channel providers. We may share with other third parties aggregate or anonymized information about Our website users, such as your use of this website or other websites, and the services provided on this website or other websites, as well as any rental, purchase, or utilization information. We may provide information about you and your interactions with Us to any third-party organization that sponsors the CDP, member, employee, or other number used by you to complete a rental or purchase. We may also share your Personal Data with a sponsor or other third party that provides you with special offers or promotions that may be of interest to you ("Third-Party Provider") where permitted. You may instruct Us at any time not to share your Personal Data covered by this Privacy Policy with such Third-Party Providers by contacting us in the manner set forth below. Please note that (i) this opt-out process may take some time to complete, consistent with applicable law; and (ii) even after such opt-out process is completed, your personal and other information may continue to be shared with our affiliates (including affiliated websites under common ownership or control) and designated service providers.
+
+**b. SPONSORING ORGANIZATIONS:** We may provide personal information about you and your interactions with Us to those third-party organizations that sponsor the CDP, member, employee, or other number used by you to complete a rental or purchase. The use by such sponsoring thirdparty of your information, including information regarding your interactions with Us, is subject to that organizations privacy policy and relationship with you. We are not liable for and make no assertions of any particular uses of information by such organizations. 
+
+**c. SOCIAL MEDIA:** If you participate in certain public features of our websites, apps, or social media websites/apps, please note that any information you or others voluntarily disclose through use of such features, becomes available to the public and/or other users whom you have designated. If you choose to provide access credentials to designated individuals, please be aware that any information you provide to Us may be visible to such individuals. We are not responsible for the information that you or others choose to disclose publicly and neither Our nor others’ use of such information is subject to this Privacy Policy.
+
+**d. LINKS TO THIRD PARTIES:** We may provide links to third-party websites, or may be linked to from third-party websites. Since We do not control third-party sites, and We are not responsible for any information you may provide while on such sites, We encourage you to read the privacy policies on those websites before providing applicable third-parties with your information.
+
+**e. LICENSEES:** We may provide your Personal Information to Our licensees when it is necessary to complete a reservation or rental, to assist with a customer service issue, or to perform any other activities related to open or previous services or products which We have provided to you.
+
+**f. GENERAL COURSE OF BUSINESS:** We may also disclose your personal and other information to unaffiliated third parties if We believe in good faith that such disclosure is necessary: (a) to comply with the law or in response to a subpoena, court order, law enforcement request, or other legal process; (b) to protect the interests, rights, safety, or property of Us or others; (c) to enforce any terms of service on Our websites or the terms and conditions of any rental, purchase, or utilization; (d) to provide you and others with the services or products requested by you or your designated representative, and to perform other activities related to such services and products, including billing and collection; (e) to provide you with special offers or promotions from Us that may be of interest to you; (f) as part of a business transaction where all or some of Our assets are bought, sold, or otherwise transferred by act of law or contract; or (g) to operate Our systems properly.
+
+  5. **INTERNATIONAL TRANSFERS**
+
+Some of the uses and disclosures mentioned in this Privacy Policy may involve the transfer and processing of your Personal Data to and in various countries around the world, that may have different levels of privacy protection than your country of residence or interaction with Us.
+
+**E.U. – U.S. PRIVACY SHIELD FRAMEWORK:** The Hertz Corporation and its subsidiaries in the U.S. (individually and collectively, the "Company") participates in the EU-U.S. Privacy Shield Framework (the "Framework"). Company's participation in the Framework applies to Personal Data received in the United States from the European Union ("EU"). We are committed to subjecting such EU Personal Data to the Framework to the extent that We have received it in reliance on the Framework, including its Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. To learn more about the Framework, visit the U.S. Department of Commerce's Privacy Shield List at [https://www.privacyshield.gov/list.](https://www.privacyshield.gov/list)
+
+Where We transfer your Personal Data outside of the European Economic Area other than to Hertz Corporation and its subsidiaries in the US which participate or any other organization in the US which participates in the Framework, or to a country which is not covered by an adequacy decision from the European Commission We implement standard contractual clauses. You can request a copy of these standard contractual clauses by contacting us as set out in "Contact Us" below.
+
+  6. **COOKIES AND ONLINE ADVERTISING CHOICES**
+
+Many browsers are set to accept cookies by default. You may be able to set your browser to disable cookies, or alert you when cookies are being sent. Many mobile devices allow you to disable the ability for geo-location information to be collected from your mobile device. The help function on most browsers and mobile devices contains instructions on how to set your browser to notify you before accepting cookies, disable cookies, or disable the collection of geo-location data.
+
+You need to set each browser, on each device you use to view websites. If you disable cookies or refuse to accept a request to place a cookie, it is possible that some parts of Our websites or other websites will not function properly, and the advertising you receive when you visit Our websites or other websites may not be tailored to your interests. We may not respond to a web browser’s “do not track” signal, or other mechanism that indicates a request to disable online tracking of individuals who use or visit Our websites.
+
+We adhere to the Self-Regulatory Principles for Online Behavioral Advertising. To "opt out" of advertising cookies placed by the Network Advertising Initiative's ("NAI") online behavioral advertising member networks, and thereby limit the tracking of your online activity and the targeted advertising you receive, please click here: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
+
+To opt out of advertising cookies for Your Online Choices if you are based in the EU, please click here: <http://www.youronlinechoices.eu/>. 
+
+Our designated service providers assist Us with advertisement display functions and related analytics for Our websites. To view information or opt out of Google Analytics for Display Advertising, please click here: <https://policies.google.com/technologies>. Note that even if you exercise choice for targeted advertising, you will still receive general online advertising. Information regarding you and any interactions with Us may be collected and utilized to provide you with targeted advertising on the web.
+
+With regard to mobile apps, any app’s collection and use of Personal Data that is materially different from what’s described in this Policy will be supplemented by an individual Privacy Policy that will require acceptance for that specific app.
+
+In addition to the options provided by your mobile operating systems, you may opt out of the collection of information on mobile apps as follows:
+
+    * Uninstalling the app. You can stop all collection of information by the app by uninstalling the app. You may use the standard uninstall processes as may be available as part of your mobile device or via the Mobile Application marketplace or network from which you downloaded the app; 
+    * Opt out of interest-based advertising. See the instructions below or contact Us for information about how to opt out from the use of information to serve targeted advertising by advertisers and/or third-party network advertisers. Note that the effect of opting out of targeted advertising will be to prevent targeted advertising, but will not prevent you from seeing all advertisements. Information may still be collected and used for other purposes (such as research, online services analytics or internal operations, and to enforce your opt-out preferences): 
+    * For Apple users: iOS 7 or higher, you can change your settings in the following location: Settings > Privacy > Advertising. iOS 6, you can change your settings in the following location: Settings > General > About > Advertising. For further information please see Apple’s website here: <https://www.apple.com/>
+    * For other major mobile platforms: Open the platform account settings, select “Ads”. 
+    * Opt out of location data. Go to “settings” on your mobile device to opt out of the collection of location data. 
+    * Opt out of cross-app data collection.The Digital Advertising Alliance (“DAA”) offers a separate choice tool for the collection of cross-app data on a mobile device for interest-based advertising and other applicable uses. To exercise choice for companies participating in this choice tool, you can install the DAA’s AppChoices app (see <http://www.aboutads.info/appchoices>). 
+  7. **SECURITY**
+
+**a.** We use reasonable administrative, technical, personnel, and physical measures (a) to safeguard Personal Data against loss, theft, unauthorized use, disclosure, or modification; and (b) to ensure the integrity of your Personal Data. To help Us protect your privacy, you should maintain the secrecy of any logon IDs and passwords, Member numbers, or other identifiers or credentials you may have set up or were provided with in connection with your participation in or use of Our products, services, or websites. 
+
+As you may be aware, there is no completely secure method of transmitting or storing data. Although their physical characteristics are different, postal mail, telephone calls, text messages, faxes and transmissions over the Internet or wireless networks all present possibilities of loss, misrouting, interception and misuse of the data that is transmitted. If you have reason to believe that any account with Us is no longer secure, you must immediately contact Us. 
+
+We try to strike a balance between the security of your data and your convenience. As a result, We may sometimes use a method of communication that is less secure than a less convenient alternative. For example, but not limitation, We may send you an e-mail or a text message in unencrypted form (i.e. instantly readable) because many of Our customers are unable to access encrypted (i.e. coded) e-mail or messages. This means that Our message, if misrouted or intercepted, could be read more easily than encrypted messages. Such messages may contain Personal Data. Please do not include confidential information, such as your credit card number or account passwords, in any e-mail or text you send to Us or on any posting you make to a public area of a third-party social network page, especially since any such posting immediately becomes public. For a more secure way to communicate with Us over the Internet, please click on the “Contact Us” link on any of Our websites. 
+
+  8. **DATA RETENTION& INTEGRITY**
+
+**b.** We retain personal data about Our customers for as long as necessary for the purposes for which it was collected, or unless otherwise allowed by law. Information is stored and accessed in various locations, and cloud services and storage may be utilized. Servers which store information are primarily located in the United States and Europe, although storage may occur in other locations as well. 
+
+  9. **ACCESS, CORRECTION& PORTABILITY**
+
+**a.** To access, review, or update your Personal Data covered by this Privacy Policy, please contact Us at the details set out in the “Contact Us” section below. While We will make reasonable efforts to accommodate your request, We also reserve the right to impose certain restrictions and requirements on such access requests, if allowed or required by applicable laws. If you are a member of one of Our membership or rewards programs, you may update your member profile by logging into your applicable member profile. 
+
+**b.** EU residents have the right to: (a) request rectification of your Personal Data; (b) object to the processing of your Personal Data for direct marketing purposes; (c) object to the processing of your Personal Data (including profiling) where our legal basis for processing your Personal Data is where such processing is necessary for our legitimate interests; (d) request erasure of your Personal Data; (e) request restriction of your Personal Data; (f) exercise your right to data portability; and (g) object to automated decision making (including profiling).
+
+**c.** In addition, where we process the Personal Data of EU residents on the basis of their consent as mentioned in this Privacy Policy, they can withdraw that consent at any time. 
+
+You can make a request to us to exercise any of these rights by contacting Us at the at the details set out in "Contact Us" section below. 
+
+**d. RIGHT TO BE FORGOTTEN:** We may retain your Personal Data as is necessary to fulfill the purposes for which the Personal Data was collected. We may also retain this Personal Data as required by law or contract, in order to fulfill Our legal obligations and protect Our legal rights. However, once the purpose for the collection is no longer valid, and there is no legal reason for Us to retain your Personal Data, you may request Us to delete your Personal Data. You may make this request by contacting Us via the mechanism provided below in the “Contact Us” section of this Policy. If We are unable to delete your Personal Data due to one of the reasons described in this Policy, We will provide you with the reason We are unable to fulfill your request.
+
+**e. CALIFORNIA RESIDENTS:** California’s “Shine the Light” law – Civil Code section 1798.82 - permits residents of California to opt-out of disclosure of Personal Data to third parties for their direct marketing purposes. You may choose to opt-out of the sharing of your Personal Data with third parties for marketing purposes at any time by submitting a request in writing to Our contact address below. Please note that this opt-out does not prohibit disclosure made for non-marketing purposes. California law also permits residents of California to request and obtain from Us once per calendar year, free of charge, a list of (i) the third parties (if any) to which Personal Data was disclosed for their direct marketing purposes in the prior calendar year and (ii) the categories of Personal Data disclosed to those third parties. 
+
+If you are a California resident and would like to request this information, please submit your request in writing to Our contact address shown in Section 10 below. Your request must include: (i) the phrase “Your California Privacy Rights”; (ii) your name, street address (no PO boxes), city, state and zip code; and, if applicable, (iii) your e-mail address if you wish to receive a response via e-mail. When submitting your request by mail, please include the phrase “Your California Privacy Rights” on the outer mailing envelope. We will not accept requests made by telephone or facsimile. 
+
+  10. **COMPLAINTS**
+
+Please contact Us as specified below if you have any questions, need access to your Personal Data, or otherwise need assistance. We also are responsible for third-party agents that are processing such data on our behalf, unless we prove that we are not responsible for the event giving rise to the damage. We are also subject to the investigatory and enforcement powers of the Federal Trade Commission with respect to the Framework. Should you have a concerns or complaints about the handling of your Personal Data being in violation of this Privacy Policy, you may contact us directly via the methods described below in the “Contact Us” section. We will work to respond and resolve your complaints in an expeditious manner. 
+
+If you are unable to satisfactorily resolve your concerns with us, you may contact the FTC with your concerns.
+
+If you are an EU resident and you have an unresolved concern about Personal Data that We or the FTC have not addressed satisfactorily, We have committed to cooperate with the panel established by the EU Data Protection Authorities to serve as Our independent dispute resolution body for the Framework. 
+
+In addition, under certain conditions, more fully described on the Privacy Shield website, EU data subjects may invoke binding arbitration for non-monetary issues when other dispute resolution procedures have been exhausted. 
+
+  11. **CONTACT US**
+
+Please contact Us by emailing [privacy@hertz.com](mailto:privacy@hertz.com), or for EU residents - [euprivacy@hertz.com](https://web.archive.org/web/20181102114047id_/https%3A//www.dollar.com/AboutUs/euprivacy@hertz.com) or writing to the address below if you have any questions, wish to exercise your rights of access, or seek other assistance as described above. 
+
+The Hertz Corporation
+
+Attention: Legal-Privacy
+
+8501 Williams Rd.
+
+Estero, FL 33928
+
+USA
+
+We do business in many countries and aim to comply with the privacy laws applicable to the Personal Data we collect and use. 
+
+  12. **CHANGES**
+
+We reserve the right to change this Privacy Policy at any time for any reason by posting revisions on this Webpage or on applicable apps or other sites. Such changes will be effective upon posting, but will not apply retroactively. Whenever We make a material change, We will note the date of such update in the introductory paragraph above, and post a note on the home page of our applicable websites. 
+
+
+
