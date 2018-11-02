@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023155700id_/https%3A//www.pct.edu/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102135549id_/https%3A//www.pct.edu/about/penn-college-privacy) for the most accurate reproduction.*
 
-# Penn College Privacy | Penn College
+# Penn College Privacy | Pennsylvania College of Technology
 
 We respect your privacy. Pennsylvania College of Technology is the sole owner of information collected on this website. Any and all information collected via the Penn College website will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Exceptions exist only as mandated by law or required under a contractual relationship with a service provider as allowed by Family Educational Rights and Privacy Act (FERPA).
 
 We may provide your personal information to organizations that provide services to help us with our business activities. These organizations are authorized to use your personal information only as necessary to provide these services. In addition, we require all outside organizations that we work with in any area of our organization, including marketing and data processing, to maintain the confidentiality of your information in accordance with this privacy statement and to comply with all applicable laws.
+
+## European Union General Data Protection Regulation
+
+[Special regulations](https://web.archive.org/about/penn-college-privacy/general-data-protection-regulation) apply to individuals that apply or are accepted to the College within the European Union.
 
 ## Information Collection
 
@@ -12,7 +16,7 @@ Penn College collects information at several different points on our website inc
 
 ##### Student Information System (SIS)
 
-You will use your Penn College username and password to log in to SIS. Information obtained via SIS includes personal information such as addresses and home information, grades, and account/billing information. You are encouraged to protect the privacy of your login credentials throughout your college career. Sharing network usernames and passwords is a violation of [Penn College's IT Resources Acceptable Use Policy](https://web.archive.org/campuslife/its/policy).
+You will use your Penn College username and password to log in to SIS. Information obtained via SIS includes personal information such as addresses and home information, grades, and account/billing information. You are encouraged to protect the privacy of your login credentials throughout your college career. Sharing network usernames and passwords is a violation of [Penn College's IT Resources Acceptable Use Policy](https://web.archive.org/campus-life/information-technology-services/it-resources-acceptable-use-policy).
 
 ##### Registrar
 
@@ -44,7 +48,7 @@ Read [Crescendo's privacy statement](http://www.pctgift.org/?pageID=98) for more
 
 ##### Alumni Information Update
 
-Alumni Relations offers an Information Update form to maintain current contact information and supply information for [Class Notes](https://web.archive.org/magazine/classnotes) published in _Penn College Magazine_. Alumni may elect to opt out of email from the Alumni Relations office.
+Alumni Relations offers an Information Update form to maintain current contact information and supply information for [Class Notes](https://web.archive.org/magazine/class-notes) published in _Penn College Magazine_. Alumni may elect to opt out of email from the Alumni Relations office.
 
 We have also asked alumni, on occasion, to act as ambassadors for the College, to appear and give testimony for our publications and website, and to offer tours during College events such as Open Houses.
 
