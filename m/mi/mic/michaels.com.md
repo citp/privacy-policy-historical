@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the michaels.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625185850id_/http%3A//www.michaels.com/your-privacy-rights/ca-your-privacy-rights.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaels.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102055236id_/https%3A//www.michaels.com/your-privacy-rights/ca-your-privacy-rights.html) for the most accurate reproduction.*
 
 # Your Privacy Rights
 
-This Privacy Statement (“Privacy Statement”) describes the information that Michaels Stores, Inc., its affiliated companies, subsidiaries and service partners including Aaron Brothers, Inc., Artistree, Inc., and Hancock Fabrics (collectively, “Michaels”) collects about you; how we use and protect this information; and the choices you can make about how we use this information.
+This Privacy Statement (“Privacy Statement”) describes the information that Michaels Stores, Inc., its affiliated companies, subsidiaries and service partners including Aaron Brothers, Inc., Artistree, Inc., Hancock Fabrics, and Lamrite West, Inc. d/b/a Darice, Inc. (collectively, “Michaels”) collects about you; how we use and protect this information; and the choices you can make about how we use this information.
 
 ### Information Covered by This Statement
 
@@ -96,11 +96,11 @@ We give you choices about how we communicate with you.
 
 _Electronic and Mobile Communications._ We only send you promotional mobile or email messages if you provide us with your contact information and opt in to receive the messages. You can stop receiving promotional mobile and email messages from Michaels by following the instructions provided in any such message you receive.
 
-You agree that by opting-in and providing your wireless telephone number to Michaels you’re expressly consenting to receive automated marketing text messages from Michaels to the mobile number provided. Consent is not required to purchase goods or services. You further understand that your information will be used as described here and in the Michaels Privacy Policy available at www.michaels.com/your-privacy-rights/ca-your-privacy-rights.html
+You agree that by opting-in and providing your wireless telephone number to Michaels you’re expressly consenting to receive automated marketing text messages from Michaels to the mobile number provided. Consent is not required to purchase goods or services. You further understand that your information will be used as described here
 
 _Postal Mail._ We may mail you unsolicited offers or product information that we believe is of interest to you. Promotional postal mail may contain opt out instructions, and you can stop receiving promotional postal mail from us by following those instructions.
 
-_Access._ You can view, correct or update the personal contact information you provide us by navigating to “My Michaels” and logging in with your username and password. If you have registered with midesign.michaels.com/invitations and/or with midesign.michaels.com/digitalphoto, you will need to log in to each account separately to update your information. At this time, changing or updating your account on michaels.com will not automatically update your information with midesign.michaels.com/invitations or /digitalphoto, and vice versa.
+_Access._ You can view, correct or update the personal contact information you provide us by navigating to “My Michaels” and logging in with your username and password.
 
 * * *
 
@@ -116,7 +116,7 @@ Our Site provides you the opportunity to opt-in and to opt-out of receiving comm
 
 **By phone.** Call 1-800-MICHAELS and ask to be removed from future mailings.
 
-PLEASE NOTE: If you choose to stop receiving promotional messages from us, we will honor your request. However, we will continue to send you service related communications and we may need to keep the information we have collected about you for record keeping, analysis or other reasons, to the extent permitted by law.
+PLEASE NOTE: If you choose to stop receiving promotional messages from us, we will honor your request. However, we will continue to send you service related communications and we may need to keep the information we have collected about you for record keeping, to the extent permitted by law.
 
 * * *
 
@@ -155,7 +155,7 @@ For example, we may rely on a service provider to:
 
 In addition we may also rely on a service provider to:
 
-  * Combine personal information about you that Michaels has collected with personal information about you that our business partner has collected so we can jointly send tailored promotional communications to you. In such instances, our business partner will not have direct access to any information we share about you with the service provider, and only the service provider will be allowed to use the combined set of information to send you joint communications that we hope will be of interest to you. . If you prefer not to receive these joint communications, you can always opt out by following the instructions provided in any such communication or by logging in to your account on Michaels.com, midesign.michaels.com/invitations, or midesign.michaels.com/digitalphoto and changing your communication settings.
+  * Combine personal information about you that Michaels has collected with personal information about you that our business partner has collected so we can jointly send tailored promotional communications to you. In such instances, our business partner will not have direct access to any information we share about you with the service provider, and only the service provider will be allowed to use the combined set of information to send you joint communications that we hope will be of interest to you. If you prefer not to receive these joint communications, you can always opt out by following the instructions provided in any such communication or by logging in to your account on Michaels.com and changing your communication settings.
   * Perform other services that we request.
 
 
@@ -182,7 +182,7 @@ Some Michaels sites enable users to submit their own content for contests, blogs
 
 ### Information Security
 
-We use technical, administrative, and procedural measures in an attempt to safeguard your personal and other information from unauthorized access or use. No such measure is ever 100% effective though, so we do not guarantee that your personal and other information will be secure from theft, loss, or unauthorized access or use, and we make no representation as to the reasonableness, efficacy, or appropriateness of the measures we use to safeguard such information. Users are responsible for maintaining the secrecy of their own passwords. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us by contacting us at 1-800-MICHAELS (1-800-642-4235).
+We use technical, administrative, and procedural measures in an attempt to safeguard your personal and other information from unauthorized access or use. No such measure is ever 100% effective and we do not guarantee that your personal and other information will be secure from theft, loss, or unauthorized access or use, and we make no representation as to the reasonableness, efficacy, or appropriateness of the measures we use to safeguard such information. Users are responsible for maintaining the secrecy of their own passwords. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us by contacting us at 1-800-MICHAELS (1-800-642-4235).
 
 Please note that email may not be encrypted and cannot be considered a secure means of transmitting credit card numbers. Michaels will never ask you to submit your credit card information via email.
 
@@ -244,6 +244,10 @@ Hancock Fabrics
 8000 Bent Branch Drive  
 Irving, TX 75063
 
+Lamrite West, Inc. d/b/a Darice, Inc.  
+13000 Darice Parkway  
+Strongsville, OH 44149
+
 This same California law permits Michaels to provide you, in response to your written request, with a cost-free means to choose not to have your information shared rather than providing the above described information. Michaels designated email address for such requests is [CAPrivacyRights@michaels.com](mailto:CAPrivacyRights@michaels.com). You may also request this information by writing to: Legal Department, Michaels Stores, Inc., 8000 Bent Branch Drive, Irving, Texas 75063. Additionally, you may request that Michaels not share your personal information with third parties for their direct marketing use by following the How to Opt-In and Opt-Out procedures outlined above.
 
 VERMONT  
@@ -299,6 +303,5 @@ Telus, Rogers, Bell Mobility, Sasktel, Fido (Microcell), MTS Telebec, NorthernTe
 
 * * *
 
-This site is owned and operated by Michaels Stores, Inc. located at 8000 Bent Branch Drive, Irving, Texas 75063.
-
-Last Updated: September 2016
+This site is owned and operated by Michaels Stores, Inc. located at 8000 Bent Branch Drive, Irving, Texas 75063.  
+Last Updated: October 2018
