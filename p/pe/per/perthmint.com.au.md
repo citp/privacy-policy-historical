@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perthmint.com.au privacy policy that was archived on 2018-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180124070924id_/http%3A//www.perthmint.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perthmint.com.au privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102050140id_/http%3A//www.perthmint.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy & Security | The Perth Mint
 
@@ -37,7 +37,7 @@ We may not be able to provide you with our products or services without your per
 
 In relation to a candidate seeking employment, we may collect and handle information including their name, address, email address, contact telephone number, gender, age, employment history, references, resume, medical history, emergency contact, taxation details, qualifications and payment details. In relation to a referee of a candidate being considered for employment, we may collect and handle information including their name, contact details, current employment information and professional opinion of candidate’s suitability for a position at Gold Corporation. 
 
-This policy does not apply to the handling of information about our employees that are ‘employee records’ and not subject to the _Privacy Act_. For information about our practices relating to employee information, please contact the Human Resources department. 
+This policy does not apply to the handling of information about our employees that are ‘employee records’ and not subject to the _Privacy Act_. For information about our practices relating to employee information, please contact the People and Culture department. 
 
 **How we collect personal information?**
 
@@ -120,7 +120,7 @@ PO Box 6297
 East Perth WA 6892  
 Australia
 
-E: [info@perthmint.com.au](mailto:info@perthmint.com.au)  
+E: [info@perthmint.com](mailto:info@perthmint.com)  
 P:  +61 (08) 9421 7222, Monday to Friday, 8.30am \- 4.00pm (AWST)  
 F:  +61 (08) 9221 2258
 
