@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rajivbikram.com.np privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530182822id_/https%3A//www.rajivbikram.com.np/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajivbikram.com.np privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103232316id_/https%3A//rajivbikram.com.np/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | Bikram's Blog
+# Privacy Policy - Bikram's Blog
 
 Privacy Policy for www.rajivbikram.com.np
 
@@ -69,8 +69,6 @@ Unauthorized duplication or publication of any materials
 from this Site is expressly prohibited. 
 
   
-Get your own Privacy Policy [here](http://www.prioritydigital.com/)!  
+Get your own Privacy Policy [here](https://www.prioritydigital.com/)!  
   
 
-
-Did you find apk for android? You can find new [Free Android Games](https://dlandroid24.com/) and apps.
