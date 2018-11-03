@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barclays.co.uk privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916113920id_/http%3A//www.barclays.co.uk/important-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclays.co.uk privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103044354id_/https%3A//www.barclays.co.uk/important-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Barclays
 
@@ -6,46 +6,25 @@ This policy relates to the privacy of your information at barclays.co.uk
 
 ## General principles
 
-Barclays is committed to keeping your information private. By 'your information' we mean any information about you that you or third parties provide to us. This policy relates to the privacy of your information at barclays.co.uk. The Barclays Group's Privacy Principles explain how we will handle your information – and they're below.
+We are committed to keeping your information private. By 'your information' we mean any information about you that you or third parties provide to us. This policy relates to the privacy of your information at barclays.co.uk. 
 
 ### Customers
 
-If you’re a personal customer of Barclays Bank PLC, the way in which information about you is held and used is described in section 10 of our Customer Agreement (or the terms and conditions of the accounts you hold with Barclays if they differ from the Retail Customer Agreement). If you’re a business customer, an authorised person on a business account, a user of our electronic banking services or a customer of any other Barclays Group company (for example Barclays Stockbrokers Ltd), the terms and conditions of your accounts and agreement terms will inform you how those group companies will hold and use your information.
+We are committed to protecting your personal data. We’ll use your information for a number of different purposes, for example to provide our services to you and others and to meet our legal and regulatory obligations. If you’re an existing customer, for more detailed information on how and why we use your information, including the rights in relation to your personal data, and our legal grounds for using it, please go to [barclays.co.uk/important-information/control-your-data](https://web.archive.org/important-information/control-your-data/ "Opens in a new window") or you can request a copy of your privacy notice.
 
 ### Online services
 
   1. **Information we collect**
 
-If you register to use our secure services, such as online banking, we’ll ask you to provide some information about yourself for security, identification and verification purposes.   
-When completing any online forms, we’ll tell you how your information will be used in relation to the product or service you’re applying for, within the form and in any associated terms and conditions.   
-Where you provide information about others (for example, for joint accounts or if you are ‘recommending a friend’) you must ensure that you have their consent or are otherwise entitled to provide this information to us.   
-We will retain information collected about you online for as long as permitted for legitimate business purposes.  
+If you register to use our secure services, such as online banking, we’ll ask you to provide some information about yourself for security, identification and verification purposes.  
+Where you provide information about others (for example, for joint accounts or if you are ‘recommending a friend’) you must ensure that you have their consent or are otherwise entitled to provide this information to us.  
 **  
 **
 
   2. **Use of cookies**
 
-For information about cookies and how they’re used on this website, visit our cookies page.
+For information about cookies and how they’re used on this website, visit our [cookies](https://web.archive.org/important-information/cookies-policy/ "Opens in a new window") page.
 
-
-
-
-### Barclays privacy principles
-
-Barclays is committed to safeguarding the privacy of your information. By 'your information' we mean any information about you that you or third parties provide to us.
-
-  * We will only collect and use your information where we have lawful grounds and legitimate business reasons to do so
-  * We will be transparent in our dealings with you and will tell you about how we will collect and use your information
-  * If we have collected your information for a particular purpose, we will not use it for anything else unless you have been informed and, where relevant, your permission obtained
-  * We will not ask for more information than we need for the purposes for which we are collecting it
-  * We will update our records when you inform us that your details have changed
-  * We will continue to review and assess the quality of our information
-  * We will implement and adhere to information retention policies relating to your information, and will ensure that your information is securely disposed of at the end of the appropriate retention period
-  * We will observe the rights granted to you under applicable privacy and data protection laws, and will ensure that queries relating to privacy issues are promptly and transparently dealt with
-  * We will train our staff on their privacy obligations
-  * We will ensure we have appropriate physical and technological security measures to protect your information regardless of where it’s held
-  * We will ensure that when we outsource any processes, the supplier has appropriate security measures in place and will contractually require them to comply with these Privacy Principles
-  * We will ensure that suitable safeguards are in place before personal information is transferred to other countries
 
 
 
@@ -53,6 +32,6 @@ You’re not required to provide any personal information on the public areas of
 
 If you’re a Barclays customer or already have a relationship with us, you will have been advised by various methods about how we collect and use your information.
 
-If you have any questions about privacy at Barclays, please contact the Barclays Privacy and Data Protection Team at 1 Churchill Place, London E14 5HP.
+If you have any questions about privacy at Barclays, please contact The Data Protection Officer, Barclays Bank UK PLC, Leicester, LE87 2BB or [DPO@Barclays.com](mailto:DPO@Barclays.com).
 
-Last updated 10 October 2013
+Last updated 25 May 2018
