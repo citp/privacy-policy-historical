@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalprivacyalert.org privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621175210id_/http%3A//www.digitalprivacyalert.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalprivacyalert.org privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103042552id_/http%3A//www.digitalprivacyalert.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Center for Digital Privacy
 
@@ -61,6 +61,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [Center for Digital Privacy](https://www.digitalprivacyalert.org/)  
 [https://www.digitalprivacyalert.org](https://www.digitalprivacyalert.org/)  
 700 N Valley St Suite B #19773 Anaheim, CA 92801  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+info@digitalprivacyalert.org
 
 This document was last updated on February 27, 2015
