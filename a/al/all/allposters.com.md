@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allposters.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624002612id_/https%3A//www.allposters.com/help/guarantee.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allposters.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103035712id_/https%3A//www.allposters.com/help/guarantee.html%23privacy) for the most accurate reproduction.*
 
 # AllPosters.com - The World's Largest Poster and Print Store!
 
@@ -58,7 +58,7 @@ Collecting this information enables us to better diagnose problems with our serv
 
 ### What we do with your personal information
 
-Under no circumstances do we rent, trade or share your address or e-mail address with any other company for their marketing purposes without your consent. We may use the information we collect through our Website for a number of reasons, including to:
+Under no circumstances do we rent, trade or share your e-mail address with any other company for their marketing purposes without your consent. We may use the information we collect through our Website for a number of reasons, including to:
 
   * provide, operate, optimize and maintain the Website and our products and services;
   * process, fulfill and provide updates on orders;
