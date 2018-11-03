@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personalfinancebythebook.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614215302id_/http%3A//personalfinancebythebook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalfinancebythebook.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103034245id_/http%3A//personalfinancebythebook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
