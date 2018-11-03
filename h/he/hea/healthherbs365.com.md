@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthherbs365.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501155419id_/http%3A//healthherbs365.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthherbs365.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103071252id_/http%3A//healthherbs365.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Health Herbs 365
 
