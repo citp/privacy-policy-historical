@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redmancunian.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503155637id_/http%3A//www.redmancunian.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redmancunian.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103172855id_/http%3A//www.redmancunian.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RedMancunian.com
 
