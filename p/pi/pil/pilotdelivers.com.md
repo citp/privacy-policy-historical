@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pilotdelivers.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504232517id_/http%3A//www.pilotdelivers.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pilotdelivers.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103152931id_/http%3A//www.pilotdelivers.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Pilot Freight Services
 
@@ -77,3 +77,11 @@ Our Site is not intended for use by children. We do not knowingly collect PII fr
 This is a United States-based Site that is subject to U.S. law. This Site is controlled, operated, and administered by Pilot from its offices within the U.S. If you are accessing this Site from a location outside the U.S., you hereby agree that your use of this Site and our collection and use of your PII is subject to this Policy. 
 
 We reserve the right to modify this Policy at any time, so please review frequently. If we decide to make material changes to this Policy, we will post those changes to this Site in a manner that we deem is appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we share it. Any modifications to this Policy will go into immediate effect after they have been posted. You agree to these future updates by continuing to use our Site or our Services after they have been posted. 
+
+Pilot Freight Services  
+Legal Department  
+314 N. Middletown Road  
+Lima, PA 19037  
+USA  
+Attn: General Counsel & Global Privacy Officer  
+By Email: [dataprivacy@pilotdelivers.com](mailto:dataprivacy@pilotdelivers.com)
