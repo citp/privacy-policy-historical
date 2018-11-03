@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flyertown.ca privacy policy that was archived on 2018-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180101232851id_/https%3A//corp.flipp.com/flipp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyertown.ca privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103082139id_/https%3A//corp.flipp.com/flipp/privacy) for the most accurate reproduction.*
 
-# Flipp - Reimagine the Weekly Shopping Experience
+# Flipp - Privacy Statement
 
 ## Table of Contents
 
@@ -58,9 +58,13 @@ We may receive information about You from other digital advertising companies wi
 
 Flipp works with LiveRamp which allows companies to integrate their customer records with online advertising (also known as CRM onboarding). We may receive a hashed version of Your information from LiveRamp, to enable better targeted advertising where LiveRamp already possesses Your email address, device ID, or other advertising ID. 
 
-Through our marketing automation service provider, Pardot, We collect information including IP address, operating system, browser, pages visited when You indicate interest in our services through the Service. Information about Pardot’s privacy practices is available here: <http://www.pardot.com/company/legal/privacy-policy/>.
+Through our marketing automation service providers, Pardot and HubSpot, We collect information including IP address, operating system, browser, pages visited when You indicate interest in our services through their Service. Information about Pardot’s privacy practices is available here: <http://www.pardot.com/company/legal/privacy-policy/> and HubSpot's is available here: <https://legal.hubspot.com/privacy-policy>
 
 Our cross-device matching service providers Crosswise and Tapad collect device activity logs which may include IP address, WiFi networks used, geolocation, email address, websites browsed, ads displayed, device type, operating system, browser cookies, mobile device IDs, gender, age, information stored in cookies, time of day website accessed or mobile app used, and other information in connection with providing advertising services to us. Crosswise’s privacy policy is here: <https://www.crosswise.com/privacy-policy/>. Opt-out here: <https://www.crosswise.com/opt-out/>. Tapad’s privacy policy is here: <http://www.tapad.com/privacy-policy/> Opt-out here: <http://www.tapad.com/privacy-policy/#opt-out>.
+
+Community Engagement
+
+When you participate in our community engagement panel provided in association with Vision Critical, We may receive information about You to assist us with reviewing and responding to any feedback or comments You provide. Vision Critical’s privacy policy is here: https://www.visioncritical.com/trust/privacy-policy/, and information about their cookie policy and opt-out can be found here: https://www.visioncritical.com/trust/cookie-policy/.
 
 _Third Parties and Partners_
 
@@ -70,7 +74,7 @@ We may also receive information about You from our partners, such as their CRM d
 
 _Employment Services_
 
-We use Lever for online employment applications. Lever’s privacy policy is available here: https://www.lever.co/privacy-policy. We may receive personal information about You from Lever as described in Section III(B) below.
+We use Reflektive for online employment applications. Reflektive’s privacy policy is available here: <https://www.reflektive.com/privacy-policy/>. We may receive personal information about You from Reflektive as described in Section III(B) below.
 
 _Payment_
 
@@ -111,19 +115,21 @@ Information may be disclosed to third parties in accordance with our Privacy Pol
 
 A. _Third Party Service Providers and Business Partners_. We may use third party service providers and business partners to perform functions in connection with the Service, such as coupon processing, rebate processing and payment, site analytics, remarketing, and functions related to analyzing and improving the Service usefulness, reliability, user experience, and operation, advertising, storing data, providing users with products and services, and as otherwise described in this Privacy Policy. We also may share users’ personal information with advertisers for their direct marketing and promotional purposes and so they can provide services to You. We may use remarketing cookies or pixels from Google and Facebook and share some of Your personal information with Facebook and Google for use in advertising. For information on how You can disable these cookies, see Section IIIE below.
 
-B. _Job Openings_. We use a third-party service provider, Lever, to collect information on the Job Openings Page and the storage, sharing, and use of that information is governed by its privacy policy, which You can review here: <https://www.lever.co/privacy-policy>.
+We use Vision Critical as our community engagement partner, and We may share some of Your personal information and information about Your interactions with the Services with Vision Critical if you choose to participate in a community panel. Vision Critical’s privacy policy is here: <https://www.visioncritical.com/trust/privacy-policy/>, and information about their cookie policy and opt-out can be found here: <https://www.visioncritical.com/trust/cookie-policy>/.
 
-If You are interested in pursuing career opportunities within the United States or Canada, You can review and apply for job openings listed in an online jobs database. If You elect to proceed, You will be seamlessly linked to a website maintained by Lever from its facility in California, U.S. As We are not responsible for the content, data collection or privacy policies of Lever, We urge You to read the privacy and security policies of Lever (see link above) before providing any personal information.
+B. _Job Openings_. We use a third-party service provider, Reflektive, to collect information on the Job Openings Page and the storage, sharing, and use of that information is governed by its privacy policy, which You can review here: <https://www.reflektive.com/privacy-policy/> 
 
-If You choose to apply online for a posted job on the Lever web site, You will be required to provide Your name, email address, current employer, a resume, and responses to questions posed on the site. Your responses to these questions will be used in evaluating Your qualifications for a position. Please do not include Your social security number/social insurance number, credit card or bank account numbers, and non-work related personal information such as eye color, marital status, etc.
+If You are interested in pursuing career opportunities within the United States or Canada, You can review and apply for job openings listed in an online jobs database. If You elect to proceed, You will be seamlessly linked to a website maintained by Reflektive from its facility in California, U.S. As We are not responsible for the content, data collection or privacy policies of Reflektive, We urge You to read the privacy and security policies of Reflektive (see link above) before providing any personal information.
+
+If You choose to apply online for a posted job on the Reflektive web site, You will be required to provide Your name, email address, current employer, a resume, and responses to questions posed on the site. Your responses to these questions will be used in evaluating Your qualifications for a position. Please do not include Your social security number/social insurance number, credit card or bank account numbers, and non-work related personal information such as eye color, marital status, etc.
 
 At the beginning of the application process, You will be asked to provide Your email address. If You do not have an email address, please contact Human Resources at 1-844-204-2900 or HR@flipp.com.
 
-The personal information that You submit to Lever while online may be accessed and downloaded by Flipp professionals located in the U.S. and Canada through a secured connection to the Lever database and used for evaluating Your qualifications for the job for which You have applied and other jobs that may suit Your experience and qualifications. In addition, the provisions of this policy relating to use of information apply to any information that may be accessed or downloaded by Flipp from the Lever database.
+The personal information that You submit to Reflektive while online may be accessed and downloaded by Flipp professionals located in the U.S. and Canada through a secured connection to the Reflektive database and used for evaluating Your qualifications for the job for which You have applied and other jobs that may suit Your experience and qualifications. In addition, the provisions of this policy relating to use of information apply to any information that may be accessed or downloaded by Flipp from the Reflektive database.
 
-You may receive emails from Lever about Your application, such as an email thanking You for submitting Your resume.
+You may receive emails from Reflektive about Your application, such as an email thanking You for submitting Your resume.
 
-Other than with Lever, We do not share resume or application information with third parties without specific authorization from You. 
+Other than with Reflektive, We do not share resume or application information with third parties without specific authorization from You. 
 
 C.  _Partners_. We may share Your information with partners who use our services, including but not limited when You read and interact with a partner’s flyer, advertising, coupons or rebates, when You enter or are near a partner’s physical location, when You make purchases at a partner, and when You use a loyalty or reward program of a partner. We do not control the privacy practices of our partners. Please contact the partner directly if You want to learn about its privacy practices.
 
@@ -133,7 +139,7 @@ E.  _Third Parties that Provide Content, Advertising Services, or Functionality
 
   * Advertising Partners, which help Us and our customers provide ads that are tailored to users' interests and understand how users respond to those ads;
   * Flipp may provide an encrypted version of Your information to its advertising partner LiveRamp, to enable better targeted advertising where LiveRamp already possesses Your email address, device ID, or other advertising ID.  LiveRamp’s privacy policy describes its services and may be accessed here <http://liveramp.com/privacy/>. To opt out of LiveRamp’s advertising services for website browsers, click <http://liveramp.com/opt_out/> To opt out of LiveRamp’s advertising services for mobile devices, click <http://liveramp.com/mobile-opt-out/>.
-  * We may share Your information with our marketing automation service provider, Pardot when You interact with the Service. Information about Pardot’s privacy practices is available here: http://www.pardot.com/company/legal/privacy-policy/.
+  * We may share Your information with our marketing automation service providers, Pardot and HubSpot when You interact with the Service. Information about Pardot’s privacy practices is available here: <http://www.pardot.com/company/legal/privacy-policy/> and HubSpot's is available here: <https://legal.hubspot.com/privacy-policy/>.
   * Our cross-device matching service providers Crosswise and Tapad collect device activity logs when You use the Service which may include IP address, WiFi networks used, geolocation, email address, websites browsed, ads displayed, device type, operating system, browser cookies, mobile device IDs, gender, age, information stored in cookies, time of day website accessed or mobile app used, and other information in connection with providing advertising services to us. Crosswise’s privacy policy is here: <https://www.crosswise.com/privacy-policy/>. Opt-out here: <https://www.crosswise.com/opt-out/>. Tapad’s privacy policy is here: <http://www.tapad.com/privacy-policy/> Opt-out here: <http://www.tapad.com/privacy-policy/#opt-out>.
   * Our remarketing providers, Google and Facebook, use cookies and other tracking mechanisms on the Service and allow Us to market our products to You through advertisements on other websites based on Your past interactions with the Service. You can opt out of Google remarketing by downloading and installing Google’s [opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/) (see below). We may use remarketing cookies and pixels from Facebook and share some of Your personal information with it for use in advertising. Facebook’s privacy policy is here: https://www.facebook.com/policy.php. More information is here: <https://www.facebook.com/help/164968693837950>. You can control the information that We receive from Facebook using the ad settings and privacy settings in Your Facebook account.
   * We may deliver advertisements to You. We may work with Advertising Partners that help deliver these advertisements to You. To learn more about third-party online advertising and to opt out of certain types of advertising, please see <http://www.networkadvertising.org/managing/opt_out.asp>.
@@ -161,7 +167,7 @@ E.  _Third Parties that Provide Content, Advertising Services, or Functionality
   * We may also participate in certain Google Advertiser features including Demographics and Interest Reporting, Remarketing, and Google Display Network Impression Reporting. These features use third-party cookies and other tracking mechanisms and allow Us to market our products to You through advertisements on other websites. You can opt out of these Google features by downloading and installing Google’s [opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/) (see above).
 
 
-  * Our service providers Appboy and Appsflyer collect information about Your device when You use the Service, including Your location and device identifier, in order to assist us with providing You with relevant notifications and provide us with analytics to improve our service. Information about their services, opt-out options, and privacy policies can be found at <https://www.appboy.com/legal/> and <https://www.appsflyer.com/privacy-policy/>.
+  * Our service providers Braze (formerly Appboy) and Appsflyer collect information about Your device when You use the Service, including Your location, account information (including your e-mail address) and device identifier, in order to assist us with providing You with relevant notifications and provide us with analytics to improve our service. Information about their services, opt-out options, and privacy policies can be found at <https://www.braze.com/privacy/> and <https://www.appsflyer.com/privacy-policy/>.
 
 
 
@@ -207,7 +213,7 @@ I.   _Investigations and Law_. We may disclose information about You to third 
 
 Where obliged or permitted to disclose information without consent, We will not disclose more information than is required.
 
-  1. **K. _Aggregated Information_.** We may share aggregated information relating to users of the Service with affiliated or unaffiliated third parties. This aggregated information does not contain personal information about any user.
+  * **K. _Aggregated Information_.** We may share aggregated information relating to users of the Service with affiliated or unaffiliated third parties. This aggregated information does not contain personal information about any user.
 
 
 
@@ -251,14 +257,12 @@ Through cookies We place on Your browser or device, We and our partners may coll
 
 We do not knowingly collect personal information from an individual under age 13. If You are under the age of 13, please do not submit any personal information through the Service. If You have reason to believe that We may have accidentally received personal information from an individual under age 13, please contact Us immediately at [privacy@flipp.com](mailto:privacy@flipp.com).
 
-Please also visit the Flipp Terms of Use at <https://corp.flipp.com/terms>, which state the terms, disclaimers, and limitations of liability governing Your use of the Service.
+Please also visit the Flipp Terms of Use at [https://corp.flipp.com/terms](https://web.archive.org/terms), which state the terms, disclaimers, and limitations of liability governing Your use of the Service.
 
-We reserve the right to update or modify this Privacy Policy at any time and from time to time. Please review this Privacy Policy periodically, and especially before You provide any information. This Privacy Policy was made effective on the date indicated above.
+We reserve the right to update or modify this Privacy Policy at any time and from time to time. Please review this Privacy Policy periodically, and especially before You provide any information. This Privacy Policy was made effective on the date indicated below.
 
 In the event of questions about: (i) access to Your personal information; (ii) our collection, use, management or disclosure of personal information or Your withdrawal of consent; or (iii) this Policy; please contact Us by e-mail privacy@flipp.com or by writing Us at 12-3250 Bloor Street West, East Tower, Bloor Islington Place, Toronto, ON M8X 2X9. We will investigate all complaints and if a complaint is justified, we will take all reasonable steps to resolve the issue.
 
 Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has shared with third parties for those third parties’ direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. You may make one request each year by emailing Us at privacy@flipp.com or writing Us at 12-3250 Bloor Street West, East Tower, Bloor Islington Place, Toronto, ON M8X 2X9.
 
-**Last updated July 7, 2017**
-
-© Copyright 2020 Flipp Corp. All rights reserved. 
+**Last updated January 19, 2018**
