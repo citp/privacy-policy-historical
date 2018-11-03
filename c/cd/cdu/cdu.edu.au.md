@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdu.edu.au privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613112300id_/http%3A//www.cdu.edu.au/governance/doclibrary/pol-032.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdu.edu.au privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103230037id_/http%3A//www.cdu.edu.au/governance/doclibrary/pol-032.pdf) for the most accurate reproduction.*
 
 # Privacy and Confidentiality Policy
 
@@ -50,9 +50,9 @@ Person means an individual and includes a deceased individual within the first f
 Personal information means information prescribed in section 4A of the Information Act that is government
 information that discloses a person's identity or from which a person's identity is reasonably ascertainable,
 except to the extent that:
-          The person’s identity is disclosed only in the context of having acted in an official capacity for the
+      •    The person’s identity is disclosed only in the context of having acted in an official capacity for the
            University or another public sector organisation; and
-          The government information discloses no other personal information about the person;
+      •    The government information discloses no other personal information about the person;
 Public sector organisation means an organisation prescribed in section 5 of the Information Act and includes
 the University;
 Sensitive information means information prescribed in section 4 of the Information Act relating to racial or
@@ -74,18 +74,18 @@ or activities.
 The University will only collect personal information in a lawful, fair and not unreasonably intrusive way.
 When personal information is collected from an individual, the University will take reasonable steps to
 ensure that the individual is:
-          Aware of the University’s identity and how to contact it;
+      •    Aware of the University’s identity and how to contact it;
   Privacy and Confidentiality Policy – pol-032                                          Version: 3.02              Page 2 of 10
                    Governance Document once printed is considered an uncontrolled document. Only documents in the
                       University Governance Document Library online are considered to be the most current version.
 
 
-          Able to have access to the information;
-          Aware of the purpose for which the information is collected;
-          Aware of the persons or bodies, or classes of persons or bodies, to which the University usually
+      •    Able to have access to the information;
+      •    Aware of the purpose for which the information is collected;
+      •    Aware of the persons or bodies, or classes of persons or bodies, to which the University usually
            discloses personal information;
-          Aware of any law that requires the collection of the information; and
-          Aware of any consequences for the individual if they do not provide all or part of the information.
+      •    Aware of any law that requires the collection of the information; and
+      •    Aware of any consequences for the individual if they do not provide all or part of the information.
 If it is reasonable and practical to do so, the University will only collect personal information about an
 individual from that individual. If the University collects personal information about an individual from
 another person, it will take reasonable steps to ensure the individual is or has been made aware of the
@@ -93,37 +93,37 @@ matters listed above unless making the individual aware of these matters would p
 the life or health of a person.
 The University may use and disclose personal information only in the following instances, after a written
 note of the use or disclosure is made:
-          The use or disclosure is related or directly related to the purpose for collecting it and the individual
+      •    The use or disclosure is related or directly related to the purpose for collecting it and the individual
            would reasonably expect the University to use or disclose it for that purpose;
-          With the individual’s consent;
-          The use or disclosure is necessary for research or the compilation or analysis of statistics in the
+      •    With the individual’s consent;
+      •    The use or disclosure is necessary for research or the compilation or analysis of statistics in the
            public interest, and:
                 o Only where the research will not be published in identifiable form; and
                 o The individual’s consent cannot be reasonably obtained; and
                 o The recipient of the information will not disclose the personal information; and
                 o Where any health information is only used or disclosed in accordance with guidelines
                      issued by the Information Commissioner under section 86(1)(a)(iv) of the Information Act.
-          To lessen or prevent a serious and imminent threat to a person’s life, health or safety, or of harm
+      •    To lessen or prevent a serious and imminent threat to a person’s life, health or safety, or of harm
            to or exploitation of a child, or serious threat to public health or safety;
-          When required in the investigation or reporting of unlawful activity, or assisting a law
+      •    When required in the investigation or reporting of unlawful activity, or assisting a law
            enforcement agency;
-          Where the use or disclosure is required or authorised by law; or
-          In connection with the performance of the functions of the Australian Security Intelligence Office
+      •    Where the use or disclosure is required or authorised by law; or
+      •    In connection with the performance of the functions of the Australian Security Intelligence Office
            (ASIO) or Australian Secret Intelligence Service (ASIS) where authorised in writing.
 Trans-border data flows
 The University will not transfer personal information about an individual to a person (other than the
 individual) outside the Northern Territory unless:
-          The transfer is required or authorised under a law of the Northern Territory or the
+      •    The transfer is required or authorised under a law of the Northern Territory or the
            Commonwealth; or
-          The University reasonably believes that the person receiving the information is subject to a law,
+      •    The University reasonably believes that the person receiving the information is subject to a law,
            or a contract or other legally binding arrangement, that requires the person to comply with
            principles for handling the information that are substantially similar to the Information Privacy
            Principles and Australian Privacy Principles; or
-          The individual consents to the transfer; or
-          The transfer is necessary for the performance of a contract between the organisation and the
+      •    The individual consents to the transfer; or
+      •    The transfer is necessary for the performance of a contract between the organisation and the
            individual or for the implementation of pre-contractual measures taken in response to the
            individual's request; or
-          The transfer is necessary for the performance or completion of a contract between the
+      •    The transfer is necessary for the performance or completion of a contract between the
            organisation and a third party, the performance or completion of which benefits the individual;
            or
   Privacy and Confidentiality Policy – pol-032                                          Version: 3.02              Page 3 of 10
@@ -131,11 +131,11 @@ individual) outside the Northern Territory unless:
                       University Governance Document Library online are considered to be the most current version.
 
 
-          All of the following apply:
+      •    All of the following apply:
                 o The transfer is for the benefit of the individual;
                 o It is impracticable to obtain the consent of the individual to the transfer;
                 o It is likely that the individual would consent to the transfer; or
-          The organisation has taken reasonable steps to ensure that the information will not be held, used
+      •    The organisation has taken reasonable steps to ensure that the information will not be held, used
            or disclosed by the person to whom it is transferred, in a manner that is inconsistent with the
            Information Privacy Principles or Australian Privacy Principles.
 The University will ensure that any contracts with third parties where personal information may be
@@ -153,8 +153,8 @@ the University’s Privacy Officer for actioning and reporting as they deem appr
 Information Security
 The University will protect all personal information it holds from misuse, loss, unauthorised access,
 modification or disclosure by:
-          Implementing industry standards for the security and protection of personal information; and
-          Storing information in either electronic and/or hard copy forms with access restricted to authorised
+      •    Implementing industry standards for the security and protection of personal information; and
+      •    Storing information in either electronic and/or hard copy forms with access restricted to authorised
            personnel only.
 Security, integrity and accuracy of information is governed by the University’s Information and
 Communication Technologies Security Policy and Records Management Policy and related procedures.
@@ -196,21 +196,21 @@ kind of personal information it holds, why it holds the information and how it c
 discloses the information.
 On the request of an individual, the University will provide access to their personal information, except to
 the extent that:
-          Providing access would pose a serious threat to the life or health of the individual or another
+      •    Providing access would pose a serious threat to the life or health of the individual or another
            individual; or
-          Providing access would prejudice measures for the protection of the health or safety of the public;
+      •    Providing access would prejudice measures for the protection of the health or safety of the public;
            or
-          Providing access would unreasonably interfere with the privacy of another individual; or
-          The request for access is frivolous or vexatious; or
-          The information relates to existing or anticipated legal proceedings between the University and the
+      •    Providing access would unreasonably interfere with the privacy of another individual; or
+      •    The request for access is frivolous or vexatious; or
+      •    The information relates to existing or anticipated legal proceedings between the University and the
            individual and the information would not be accessible by the process of discovery or subpoena in
            those proceedings; or
-          Providing access would reveal the intentions of the University in relation to negotiations with the
+      •    Providing access would reveal the intentions of the University in relation to negotiations with the
            individual in such a way that would prejudice the negotiations; or
-          Providing access would be unlawful; or
-          Denying access is required or authorised by law; or
-          Providing access would be likely to prejudice an investigation of possible unlawful activity; or
-          Providing access would be likely to prejudice one or more of the following by or on behalf of a law
+      •    Providing access would be unlawful; or
+      •    Denying access is required or authorised by law; or
+      •    Providing access would be likely to prejudice an investigation of possible unlawful activity; or
+      •    Providing access would be likely to prejudice one or more of the following by or on behalf of a law
            enforcement agency:
                 o Preventing, detecting, investigating, prosecuting or punishing an offence or a breach of a
                      prescribed law;
@@ -225,7 +225,7 @@ the extent that:
 
                 o    Preparing for or conducting proceedings in a court or tribunal or implementing the orders
                      of a court or tribunal; or
-          Providing access would prejudice:
+      •    Providing access would prejudice:
                 o The security or defence of the Commonwealth or a State or Territory of the
                      Commonwealth; or
                 o The maintenance of law and order in the Territory.
@@ -237,15 +237,15 @@ information is not accurate, complete or up to date, the University will take re
 information so that it is accurate, complete and up to date.
 If an individual and the University disagree about whether personal information about the individual held
 by the University is accurate, complete or up to date; and
-            The individual requests the University to associate with the information a statement to the effect
+        •    The individual requests the University to associate with the information a statement to the effect
              that, in the individual's opinion, the information is inaccurate, incomplete or out of date;
-            The University will take reasonable steps to comply with that request.
+        •    The University will take reasonable steps to comply with that request.
 The University will provide reasons for refusing to provide access to or correct personal information.
 If an individual requests the University for access to, or to correct personal information held by the
 University, the University will, within a reasonable time:
-            Provide access or reasons for refusing access; or
-            Make the correction or provide reasons for refusing to make it; or
-            Provide reasons for the delay in responding to the request;
+        •    Provide access or reasons for refusing access; or
+        •    Make the correction or provide reasons for refusing to make it; or
+        •    Provide reasons for the delay in responding to the request;
 If the University charges a fee for providing access to personal information, the fee will not to be excessive.
 Access and amendment requests should be directed to the University’s Privacy Officer.
 Notification of correction to third parties
@@ -255,9 +255,9 @@ take such steps as are reasonable in the circumstances to give that notification
 unlawful to do so.
 Sensitive Information
 The University will not collect sensitive information about an individual unless:
-          The individual consents to the collection; or
-          The University is authorised or required by law to collect the information; or
-          The individual is:
+      •    The individual consents to the collection; or
+      •    The University is authorised or required by law to collect the information; or
+      •    The individual is:
                 o Physically or legally incapable of giving consent to the collection; or
                 o Physically unable to communicate his or her consent to the collection; and
                 o Collecting the information is necessary to prevent or lessen a serious and imminent threat
@@ -267,16 +267,16 @@ The University will not collect sensitive information about an individual unless
                       University Governance Document Library online are considered to be the most current version.
 
 
-          Collecting the information is necessary to establish, exercise or defend a legal or equitable claim.
+      •    Collecting the information is necessary to establish, exercise or defend a legal or equitable claim.
 However, the University may collect sensitive information about an individual if:
-          The collection:
+      •    The collection:
                  o Is necessary for research, or the compilation or analysis of statistics, relevant to
                      government funded targeted welfare or educational services; or
                  o Is of information relating to an individual's racial or ethnic origin and is for the purpose of
                      providing government funded targeted welfare or educational services; and
-          There is no other reasonably practicable alternative to collecting the information for that purpose;
+      •    There is no other reasonably practicable alternative to collecting the information for that purpose;
            and
-          It is impracticable for the organisation to seek the individual's consent to the collection.
+      •    It is impracticable for the organisation to seek the individual's consent to the collection.
 Complaints
 Questions in relation to concerns about privacy, the University’s management of personal information, or
 to make a complaint, should be directed to the University’s Privacy Officer or the Northern Territory
@@ -290,7 +290,7 @@ legislation and University Governance Documents.
 ESSENTIAL SUPPORTING INFORMATION
 Internal
 Charles Darwin University Act
-Data Breach Response Plan
+Data Breach Response Procedure
 Disposal Schedules
 Email Acceptable Use Policy
 Identifying Unacceptable Use of Information and Communication Technologies Procedures
@@ -321,85 +321,85 @@ Sponsor:                      Director, Strategic Services and Governance
 Contact Officer:              Director, Strategic Services and Governance
 Version           Date Approved            Approved by       Brief Description
 1.00              04 May 2017              Council           Creation of original document and upload to CDU website.
-1.01              08 Feb 2010              Governance            Change old policy into new format style.
-                                                                 Add statement of authority, relevant definitions,
+1.01              08 Feb 2010              Governance        •    Change old policy into new format style.
+                                                             •    Add statement of authority, relevant definitions,
                                                                   document history and version control and essential
                                                                   documents in keeping with new policy format.
-                                                                 Amend minor grammatical and spelling errors.
-                                                                 Amend Audit and Risk Committee to Finance, Risk and
+                                                             •    Amend minor grammatical and spelling errors.
+                                                             •    Amend Audit and Risk Committee to Finance, Risk and
                                                                   Review Committee to reflect change in committee
                                                                   title
-                                                                 Change Staff Services to PMD to reflect title change
-1.02              29 Dec 2010              Governance            Convert document to new template
-                                                                 Amend PMD to Office of Human Resource Services to
+                                                             •    Change Staff Services to PMD to reflect title change
+1.02              29 Dec 2010              Governance        •    Convert document to new template
+                                                             •    Amend PMD to Office of Human Resource Services to
                                                                   reflect title change.
-                                                                 Corporate Services changed to Director, Strategic
+                                                             •    Corporate Services changed to Director, Strategic
                                                                   Services and Governance to reflect position
                                                                   responsibility change.
-                                                                 Senior staff changed to Senior Executive. Definition
+                                                             •    Senior staff changed to Senior Executive. Definition
                                                                   added.
-                                                                 Definition of Senior Manager added
-1.03              28 Jan 2011              Governance            Minor changes to spelling, grammar and formatting.
-1.04              10 Jan 2012              Governance            Amended position titles in accordance with new
+                                                             •    Definition of Senior Manager added
+1.03              28 Jan 2011              Governance        •    Minor changes to spelling, grammar and formatting.
+1.04              10 Jan 2012              Governance        •    Amended position titles in accordance with new
                                                                   organisational chart.
-                                                                 Update hyperlinks
-                                                                 Minor changes to grammar and formatting
-                                                                 Removal of reference to Finance, Risk and Review
+                                                             •    Update hyperlinks
+                                                             •    Minor changes to grammar and formatting
+                                                             •    Removal of reference to Finance, Risk and Review
                                                                   Committee as no longer active
-1.05              13 Feb 2013              Governance            Converted document to new template
-                                                                 Updated and added hyperlinks
-                                                                 Minor changes to wording, formatting and grammar
-                                                                 Assigned document number
-                                                                 Added relevant definitions
-                                                                 Removed general responsibilities section
-2.00              27 Aug 2014              Vice Chancellor       Major review of Policy in line with NT Information Act
-                                                                 Privacy Policy changed to Information Privacy Policy
+1.05              13 Feb 2013              Governance        •    Converted document to new template
+                                                             •    Updated and added hyperlinks
+                                                             •    Minor changes to wording, formatting and grammar
+                                                             •    Assigned document number
+                                                             •    Added relevant definitions
+                                                             •    Removed general responsibilities section
+2.00              27 Aug 2014              Vice Chancellor   •    Major review of Policy in line with NT Information Act
+                                                             •    Privacy Policy changed to Information Privacy Policy
                                                                   in line with NT Information Act
-                                                                 Definition of Senior Executive amended to reflect
+                                                             •    Definition of Senior Executive amended to reflect
                                                                   changes to position titles
 Privacy and Confidentiality Policy – pol-032                                          Version: 3.02              Page 9 of 10
                  Governance Document once printed is considered an uncontrolled document. Only documents in the
                     University Governance Document Library online are considered to be the most current version.
 
 
-                                                                Definition of Sensitive Information updated to reflect
+                                                            •    Definition of Sensitive Information updated to reflect
                                                                  definition in the Act
-                                                                Additional definitions
-2.01              27 Oct 2014              Governance           Correction of minor grammatical errors and sentence
+                                                            •    Additional definitions
+2.01              27 Oct 2014              Governance       •    Correction of minor grammatical errors and sentence
                                                                  structure
-                                                                Addition of - To establish an individual’s identity for
+                                                            •    Addition of - To establish an individual’s identity for
                                                                  the purposes of access to ICT systems under
                                                                  Collection of Personal or Other Information
-2.02              05 Jul 2017              Governance           Conversion to new Governance template due to new
+2.02              05 Jul 2017              Governance       •    Conversion to new Governance template due to new
                                                                  University branding
-                                                                Updated definitions for senior executive, senior
+                                                            •    Updated definitions for senior executive, senior
                                                                  manage and staff member
-                                                                Updated hyperlinks
-                                                                Change title of reference from Northern Territory
+                                                            •    Updated hyperlinks
+                                                            •    Change title of reference from Northern Territory
                                                                  Government and Archives Management standards to
                                                                  Northern Territory Government Records Management
                                                                  Standards
-3.00              13 Dec 2017              Governance           Review and amend document for compliance with the
+3.00              13 Dec 2017              Governance       •    Review and amend document for compliance with the
                                                                  Commonwealth Privacy Act and HESA ;
-                                                                Amend name from Information Privacy Policy to
+                                                            •    Amend name from Information Privacy Policy to
                                                                  Privacy and Confidentiality Policy
-                                                                Add definitions for APPs, ICT, person, public sector
+                                                            •    Add definitions for APPs, ICT, person, public sector
                                                                  organisation, student, university community
-                                                                Amendment to definitions of IPPs, personal
+                                                            •    Amendment to definitions of IPPs, personal
                                                                  information, sensitive information and staff members,
-                                                                Remove definitions for cookies, privacy, researcher,
+                                                            •    Remove definitions for cookies, privacy, researcher,
                                                                  senior executive, senior manager and third party
-                                                                Remove overseas disclosure paragraph and replace
+                                                            •    Remove overseas disclosure paragraph and replace
                                                                  with trans-border data flows paragraph
-                                                                Conversion to new template due to new University
+                                                            •    Conversion to new template due to new University
                                                                  branding
-                                                                Updated Hyperlinks
-3.01              24 Jan 2018              Governance           Removed duplicated paragraph
-3.02              02 May 2018              Vice-Chancellor      Addedd definitions for Eligible data breach and
+                                                            •    Updated Hyperlinks
+3.01              24 Jan 2018              Governance       •    Removed duplicated paragraph
+3.02              02 May 2018              Vice-Chancellor  •    Addedd definitions for Eligible data breach and
                                                                  Notifiable Data Breach Scheme
-                                                                Amended text to include a paragraph re the reporting
+                                                            •    Amended text to include a paragraph re the reporting
                                                                  of data breaches
-                                                                Minor rewording Collection of Personal Information
+                                                            •    Minor rewording Collection of Personal Information
 Privacy and Confidentiality Policy – pol-032                                          Version: 3.02              Page 10 of 10
                  Governance Document once printed is considered an uncontrolled document. Only documents in the
                     University Governance Document Library online are considered to be the most current version.
