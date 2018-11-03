@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bpiexpressonline.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616044239id_/https%3A//www.bpiexpressonline.com/p/1/1871/data-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bpiexpressonline.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103050617id_/https%3A//www.bpiexpressonline.com/p/1/1871/data-privacy-policy) for the most accurate reproduction.*
 
 # BPI Data Privacy Statement | BPI
 
