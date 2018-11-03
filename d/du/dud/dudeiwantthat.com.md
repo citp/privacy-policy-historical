@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dudeiwantthat.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624024603id_/http%3A//www.dudeiwantthat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dudeiwantthat.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103035408id_/http%3A//www.dudeiwantthat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DudeIWantThat.com
 
