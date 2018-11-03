@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danbrown.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607201315id_/http%3A//danbrown.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danbrown.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103062054id_/http%3A//danbrown.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Dan Brown
 
@@ -13,7 +13,7 @@ This Website is managed and maintained by:
 
 **New York, NY 10003**
 
-We can be reached by email at webmaster@danbrown.com. Please include the words “Terms of Use” in the subject matter box of your email.
+We can be reached by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Please include the words “Terms of Use” in the subject matter box of your email.
 
 **_This contact information leads to a corporate entity and does not connect with Dan Brown or persons in his employ.   It should not be used to attempt to contact Mr. Brown._**
 
@@ -31,7 +31,7 @@ Finally, provided that you OPT IN, and then unless and until you OPT OUT, we may
 
 **Your Access to Your Personally Identifying Information  **
 
-If you would like to know the types of information that we collect from visitors to this Website, please contact us. If you would like to know whether we have collected about you, please send us the activities that you participated in at this Website which requested personally identifying information and after reviewing the relevant databases, we will confirm whether it has collected such information about you. You may review personally identifying information about you in the our records at any time provided you first give us proof of your identity, such as by accurately stating a password. We will change any inaccuracies in the personally identifying information that pertains to you in response to a reasonable request, and/or end any direct communications with you, or even delete your personally identifying information altogether, except to the extent we are required to do otherwise under law. To convey any such request, contact webmaster@danbrown.com and please put “Privacy Policy” in the subject heading.
+If you would like to know the types of information that we collect from visitors to this Website, please contact us. If you would like to know whether we have collected about you, please send us the activities that you participated in at this Website which requested personally identifying information and after reviewing the relevant databases, we will confirm whether it has collected such information about you. You may review personally identifying information about you in the our records at any time provided you first give us proof of your identity, such as by accurately stating a password. We will change any inaccuracies in the personally identifying information that pertains to you in response to a reasonable request, and/or end any direct communications with you, or even delete your personally identifying information altogether, except to the extent we are required to do otherwise under law. To convey any such request, contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and please put “Privacy Policy” in the subject heading.
 
 **Cookies**  
 Cookies are electronic tags that most major websites place on your computer in the process of sending your computer a file, such as a Web page. We use them in a limited fashion as well. In essence, a cookie is a unique bit of computer code that is placed on your computer the first time you visit this Website. It tells us simply when a computer that has previously visited this Website returns, allows you to pick up where you left off on a previous visit, and it identifies your computer’s browser and operating system to help us make the best connection. We also use cookies to keep track of your subscriptions at this Website. In no event does the cookie we place on your computer tell us anything about your visits to other websites or your use of the Internet in any other way.
