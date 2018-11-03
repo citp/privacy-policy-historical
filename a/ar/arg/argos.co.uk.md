@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the argos.co.uk privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628072548id_/http%3A//www.argos.co.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the argos.co.uk privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103042057id_/http%3A//www.argos.co.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Go Argos
 
@@ -257,8 +257,8 @@ The information below provides further details about how credit reference agenci
 
 If you would like to find out more, you can contact the 3 agencies currently operating in the UK; the information they hold may not be the same so it is worth contacting them all. 
 
-  * **CallCredit** , Consumer Services Team, PO Box 491, Leeds, LS3 1WZ or call 0870 0601414 or log on to www.callcredit.co.uk(Opens New Window)
-  * **Equifax Ltd.** , Customer Service Centre, PO Box 10036, Leicester, LE3 4FS or call 0800 014 2955 or log on to www.equifax.co.uk(Opens New Window)
+  * **CallCredit** , Consumer Services Team, PO Box 491, Leeds, LS3 1WZ or call 0870 0601414 or log on to [www.callcredit.co.uk](http://www.callcredit.co.uk/)(Opens New Window)
+  * **Equifax Ltd.** , Customer Service Centre, PO Box 10036, Leicester, LE3 4FS or call 0800 014 2955 or log on to [www.equifax.co.uk](http://www.equifax.co.uk/)(Opens New Window)
   * **Experian Ltd.** , Consumer Help Service, PO Box 8000, Nottingham NG80 7WF or call 0344 481 8000 or log on to experian.co.uk(Opens New Window).
 
 
@@ -340,9 +340,9 @@ We take protecting your personal information seriously and are continuously deve
 
 If you would like to exercise one of your rights as set out in the “Your rights” or “Automated decision making and profiling” sections above, or you have a question or a complaint about this policy, or the way your personal information is processed, please contact us by one of the following means:
 
-If your enquiry relates to Sainsbury’s Supermarkets, Argos, Habitat or Tu: By email: privacy@sainsburys.co.uk By post: Data Protection Officer, 33 Holborn, London, EC1N 2HT
+If your enquiry relates to Sainsbury’s Supermarkets, Argos, Habitat or Tu: By email: [privacy@sainsburys.co.uk](mailto:privacy@sainsburys.co.uk) By post: Data Protection Officer, 33 Holborn, London, EC1N 2HT
 
-Or if your enquiry relates to Sainsbury’s Bank or Argos financial services: By email: Privacy.Bank@sainsburysbank.co.uk By post: Data Protection Officer, Sainsbury’s Bank, 3 Lochside Avenue, Edinburgh Park, Edinburgh EH12 9DJ
+Or if your enquiry relates to Sainsbury’s Bank or Argos financial services: By email: [Privacy.Bank@sainsburysbank.co.uk](mailto:Privacy.Bank@sainsburysbank.co.uk) By post: Data Protection Officer, Sainsbury’s Bank, 3 Lochside Avenue, Edinburgh Park, Edinburgh EH12 9DJ
 
 You also have the right to lodge a complaint with the UK regulator, the Information Commissioner. Go to ico.org.uk/concerns to find out more.
 
