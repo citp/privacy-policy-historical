@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suncoastproductions.biz privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503000302id_/http%3A//suncoastproductions.biz/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suncoastproductions.biz privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103101309id_/http%3A//suncoastproductions.biz/Privacy.html) for the most accurate reproduction.*
 
 # Suncoast Prod
 
