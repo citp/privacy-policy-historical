@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gimletmedia.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503051921id_/https%3A//www.gimletmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gimletmedia.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103062909id_/https%3A//www.gimletmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Gimlet | Privacy Policy
 
@@ -27,16 +27,16 @@ We do not currently collect financial information, such as your payment method (
 
 _IP Address Information and Other Information Collected Automatically:_
 
-* We automatically receive and record information from your web browser when you interact with the Services, including your IP address and cookie information. This information is used for fighting spam/malware and also to facilitate collection of data concerning your interaction with the Services (e.g., what links you have clicked on).
-* Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them. Email Communications:
-* We may receive a confirmation when you open an email from us. We use this confirmation to improve our customer service.
+* We automatically receive and record information from your web browser when you interact with the Services, including your IP address and cookie information. This information is used for fighting spam/malware and also to facilitate collection of data concerning your interaction with the Services (e.g., what links you have clicked on). 
+* Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them. Email Communications: 
+* We may receive a confirmation when you open an email from us. We use this confirmation to improve our customer service. 
 
 _Information Collected Using Cookies:_
 
-* Cookies are pieces of text that may be provided to your computer through your web browser when you access a website. Your browser stores cookies in a manner associated with each website you visit. We use cookies to enable our servers to recognize your web browser and tell us how and when you visit the Site and otherwise use the Services through the Internet.
-* Our cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are. As noted, however, we do use cookies to identify that your web browser has accessed aspects of the Services and may associate that information with your Account if you have one.
-* Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave cookies active, because they enable you to take advantage the most attractive features of the Services.
-* This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer. For example, third party websites to which a link points may set cookies on your computer.
+* Cookies are pieces of text that may be provided to your computer through your web browser when you access a website. Your browser stores cookies in a manner associated with each website you visit. We use cookies to enable our servers to recognize your web browser and tell us how and when you visit the Site and otherwise use the Services through the Internet. 
+* Our cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are. As noted, however, we do use cookies to identify that your web browser has accessed aspects of the Services and may associate that information with your Account if you have one. 
+* Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave cookies active, because they enable you to take advantage the most attractive features of the Services. 
+* This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer. For example, third party websites to which a link points may set cookies on your computer. 
 
 _Information Related to Advertising:_
 
@@ -100,19 +100,19 @@ We otherwise store all of our information, including your IP address information
 _What Information of Mine Can I Access?_  
 If you are a registered user, you can access information associated with your Account by logging into the Services. Registered and unregistered users can access and delete cookies through their web browser settings.
 
-California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: Gimlet Media Inc., 92 3rd St, Brooklyn, NY 11231.
+California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: Gimlet Media Inc., 41 Flatbush Ave., Brooklyn, NY 11217.
 
 _How Can I Delete My Account?_  
 Should you ever decide to delete your Account, you may do so by following the instructions on the Site or through the Services, or by emailing membership@gimletmedia.com. If you terminate your Account, any association between your Account and information we store will no longer be accessible through your Account. However, given the nature of sharing on the Services, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public.
 
 _What Choices Do I Have Regarding My Information?_
 
-* You can use many of the features of the Services without registering, thereby limiting the type of information that we collect.
-* You can always opt not to disclose certain information to us, even though it may be needed to take advantage of some of our features.
-* You can delete your Account. Please note that we will need to verify that you have the authority to delete the Account, and activity generated prior to deletion will remain stored by us and may be publicly accessible.
+* You can use many of the features of the Services without registering, thereby limiting the type of information that we collect. 
+* You can always opt not to disclose certain information to us, even though it may be needed to take advantage of some of our features. 
+* You can delete your Account. Please note that we will need to verify that you have the authority to delete the Account, and activity generated prior to deletion will remain stored by us and may be publicly accessible. 
 
 _What Happens When There Are Changes to this Privacy Policy?_  
 We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we collect or use information, we will notify you by posting an announcement on the Services or sending you an email. A user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted.
 
 _What If I Have Questions or Concerns?_  
-If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to contact@gimletmedia.com. We will make every effort to resolve your concerns. Effective Date: May 3 2018
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to contact@gimletmedia.com. We will make every effort to resolve your concerns. Effective Date: November 3 2018
