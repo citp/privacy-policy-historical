@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the firstshowing.net privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628032605id_/http%3A//www.firstshowing.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstshowing.net privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103195917id_/http%3A//www.firstshowing.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FirstShowing.net
 
-This Privacy Policy governs the manner in which **FirstShowing.net** collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.firstshowing.net](http://www.firstshowing.net/) website ("Site"). This Privacy Policy outlines the types of personal information received and collected by FirstShowing.net and how it is used.
+This Privacy Policy governs the manner in which **FirstShowing.net** collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.firstshowing.net](https://www.firstshowing.net/) website ("Site"). This Privacy Policy outlines the types of personal information received and collected by FirstShowing.net and how it is used.
 
 **What information do we collect?**  
 We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously. Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. users may opt out of the use of the DART cookie by visiting the Google ad and content network [Privacy Policy](http://www.google.com/policies/technologies/ads/).
@@ -59,6 +59,6 @@ By using this site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**  
 If you require any more information or have any questions about this Privacy Policy, please feel free to contact us at:  
 First Showing LLC  
-[www.FirstShowing.net](http://www.firstshowing.net/about/)
+[www.FirstShowing.net](https://www.firstshowing.net/about/)
 
 _This document was last updated on March 30, 2018_.
