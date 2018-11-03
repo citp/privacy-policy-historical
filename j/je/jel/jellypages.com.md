@@ -1,34 +1,25 @@
-> *The following text is extracted and transformed from the jellypages.com privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222014144id_/http%3A//jellypages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jellypages.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103141957id_/http%3A//www.jellypages.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Jelly Pages
+# Privacy Policy | JELLY PAGES
 
-**Privacy Agreement**  
-By using the JellyPages.com website “the site”, you signify your consent of the site’s Privacy Policy. Agreement of this policy is required before using this website.
+**Your Privacy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-The site may change the privacy policy at any time. Any changes will be posted on the website.
+**Google Adsense and the DoubleClick DART Cookie**  
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-**Standard User Data**  
-The standard data we collect about our users is not personally identifiable information. This means it is not information which identifies them as an individual. By using any of the site’s services or reading its content, you agree that you understand the nature of this data collection.
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-When you access the site, certain standard information is normally collected by our servers. This information may include, but may not be limited to, the location or website you came from; the time you spend on parts of the site; the operating system you use on your computer; the software you use to browse the internet, the amount of information you access from the site; the advertisements you click on; your geographical location; the account from which you are accessing the internet; and your IP address. This data collection is standard and common to most web sites on the Internet.
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Our Website has no access or control over these cookies that may be used by third party advertisers.
 
-This information does not identify you as an individual, and none of this information will be disclosed in any form that is specific to you as a user of the site, unless otherwise stated. The site may use this information to generate aggregate statistics and demographic data about our user community or for security purposes.
+**Collection of Personal Information**
 
-**Personal User Data**  
-The only ways in which the site may receive personally identifiable information about you is if you knowingly and willingly provide the information through our online registration, online entry forms, including, but not limited to, forums and promotions. In such areas, the information you disclose is done so knowingly and willingly, and at your sole discretion. Personal information collected may include your name, home address, phone number, e-mail address, age, gender and/or birth date. We do not require this information to gain access to the site, however, you will not be able to access certain areas which require registration, or receive materials such as newsletters unless such information is provided.
+When visiting website, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-Users may provide personally identifiable information, knowingly and of their own accord. The personal information you provide will allow us to alert you of new features, or enhancements, and/or notify you of upgrade opportunities, contests, prize fulfillment, or special events.
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
-The site may disclose your personal information to third party vendors/advertisers to process our newsletters, e-mail campaigns, or to analyze and/or store data. In special circumstances, we may also disclose such information if we have a good faith belief that we are required to do so in order to comply with applicable law, a subpoena, or other legal process.
+**Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion.
 
-We use third-party advertising companies to serve ads when you visit the site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to the site and other websites in order to provide advertisements about goods and services of interest to you.
-
-Google, as a third party vendor, uses cookies to serve ads on the site. Google’s use of the DART cookie enables it to serve ads to users based on their visit to the site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-
-The site will not share your information with any third parties unless otherwise noted.
-
-**Protection**  
-No computer system is one hundred percent protected, and although the means through which data is submitted to the site are reasonably safe, we cannot guarantee that data will not be unlawfully retrieved by third parties. When data is submitted to the site, it may come via a number of networks and/or machines, and although we use our best endeavors to make sure that the data is not intercepted, we cannot guarantee that this will be the case.
-
-**Opting Out**  
-From time to time, the site may send information to its users on various subjects including, but not limited to, contests, promotions, and announcements of new services or features. Users who sign up for these e-mails by registering with the site always have the choice to opt out from such opportunities by sending e-mail from the address they signed up with to the email listed at the top of this page.
+If you have any questions regarding the privacy policy of Celebsnet.com then you may contact us at our contact page.
