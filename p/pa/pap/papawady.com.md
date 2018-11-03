@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the papawady.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604171646id_/http%3A//www.papawady.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papawady.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103142340id_/http%3A//www.papawady.com/p/privacy.html) for the most accurate reproduction.*
 
-# Privacy | PAPAWADY
+# Privacy
 
 Privacy Policy for Papawady
 
