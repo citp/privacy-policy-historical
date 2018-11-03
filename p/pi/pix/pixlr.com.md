@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the pixlr.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605230026id_/https%3A//pixlr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixlr.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103023039id_/https%3A//pixlr.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# PIXLR - Privacy Policy
 
-## PRIVACY NOTICE
+**What does this policy cover?**
+
+This policy describes how PIXLR (123RF Limited and other companies in our group) will make use of your data to purchase services from our website (https://www.pixlr.com/).
+
+It also describes your data protection rights, including a right to object to some of the processing which PIXLR carries out. More information about your rights, and how to exercise them, is set out in the “What rights do I have?” section.
 
 **Summary of how we use your data**
 
@@ -11,12 +15,6 @@
   * Where we rely on your consent, such as for direct marketing, you can withdraw this consent at any time.
 
 
-
-**What does this policy cover?**
-
-This policy describes how 123RF Limited and other companies in our group (also referred to as "PIXLR", "we" or "us") will make use of your data to purchase services from our website (https://www.pixlr.com/). 
-
-It also describes your data protection rights, including a right to object to some of the processing which PIXLR carries out. More information about your rights, and how to exercise them, is set out in the “What rights do I have?” section.
 
 **What information do we collect?**
 
@@ -36,14 +34,14 @@ We collect and process personal data about you when you interact with us and our
 We process this personal data for the following purposes:
 
   * To fulfil a contract, or take steps linked to a contract: this is relevant where you make a purchase from us. This includes: 
-  *     * verifying your identity;
+    * verifying your identity;
     * taking payments; 
     * communicating with you;
     * providing customer services and arranging the delivery or other provision of services;
   * Where we have a legitimate interest. This includes:
-  *     * to conduct research, analysis and analytics.
+    * to conduct research, analysis and analytics.
   * Where you give us consent:
-  *     * we will send you direct marketing in relation to our relevant products and services, or other products and services provided by us, our affiliates and carefully selected partners. 
+    * we will send you direct marketing in relation to our relevant products and services, or other products and services provided by us, our affiliates and carefully selected partners. 
     * we place cookies and use similar technologies in accordance with our Cookies Policy and the information provided to you when those technologies are used
     * on other occasions where we ask you for consent, we will use the data for the purpose which we explain at that time.
 
