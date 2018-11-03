@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outmarket.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627035757id_/https%3A//www.icontact.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outmarket.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103045823id_/https%3A//www.icontact.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | iContact
 
@@ -117,6 +117,12 @@ We may update this privacy policy to reflect changes to our information practice
 **Updated June  13, 2017**
 
 iContact LLC (“iContact”) understands and values the importance of individual privacy. This Privacy Policy (“Policy”) is designed to inform our European Customers of: (1) how we collect, use and disclose Personal Data that is transferred to iContact in the United States; (2) individuals’ choices with regard to how such Personal Data will be used or disclosed by iContact; and (3) individuals’ other rights with regard to that Personal Data.
+
+iContact LLC participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List.
+
+iContact LLC is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. iContact LLC complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, iContact LLC is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, iContact LLC may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Under certain conditions, more fully described on the Privacy Shield website, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 This Policy applies only to the processing of Personal Data (defined below) that iContact receives in the United States from its European Customers (defined below). Most iContact Customers are businesses, not individuals. However, iContact may also receive Personal Data about individual Message Recipients (defined below) on a Customer’s e-mail marketing or contact lists. We process the Personal Data of a Customer’s Message Recipients only on behalf of and under the direction of the Customer, and the collection, use and disclosure of such data is subject to the Customer’s privacy policy.
 
