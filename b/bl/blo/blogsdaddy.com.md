@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogsdaddy.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618233328id_/http%3A//www.blogsdaddy.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogsdaddy.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103034914id_/https%3A//www.blogsdaddy.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
