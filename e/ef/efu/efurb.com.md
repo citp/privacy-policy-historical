@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efurb.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624202227id_/http%3A//www.efurb.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efurb.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103225412id_/http%3A//www.efurb.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
@@ -85,7 +85,7 @@ Subject to the Terms, you may change your basic user information, such as your u
 
 You may unsubscribe to our newsletter or our marketing e-mails by clicking the "unsubscribe" link that appears on the bottom of every such mail.
 
-You may ask to review the personal information about you that is stored in our systems, or have us update, correct or delete it, subject to applicable law. If you wish to exercise this right, simply contact us via email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You may ask to review the personal information about you that is stored in our systems, or have us update, correct or delete it, subject to applicable law. If you wish to exercise this right, simply contact us via email: care@efurb.com.
 
 ## _Data anonymization_
 
@@ -120,6 +120,6 @@ In any event, we will seek your explicit consent if we wish to have substantial 
 
 ## _Contact us_
 
-You may send us requests, questions and comments to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You may send us requests, questions and comments to terms@efurb.com.
 
 Last updated: August 25, 2015
