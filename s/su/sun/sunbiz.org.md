@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunbiz.org privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205011910id_/http%3A//dos.myflorida.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunbiz.org privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103192102id_/https%3A//dos.myflorida.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Florida Department of State
 
@@ -6,7 +6,7 @@
 
 Thank you for visiting the Florida Department of State's web site. This policy describes the privacy practices of the Florida Department of State regarding information collected from visitors to our web site. It contains information about what data is collected and how that information is used. This policy may be updated periodically, so please check back from time to time.
 
-## Web Site Use Information:
+## Web Site Use Information: 
 
 Your privacy is very important to us. Our policy is to collect no personal information about you when you visit the Florida Department of State's web site, unless you affirmatively choose to make such information available to us.
 
