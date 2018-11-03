@@ -1,24 +1,103 @@
-<!--The following is the downloaded HTML source of the barclays.co.uk privacy policy that was archived on 2017-09-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170916113920id_/http%3A//www.barclays.co.uk/important-information/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the barclays.co.uk privacy policy that was archived on 2018-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181103044354id_/https%3A//www.barclays.co.uk/important-information/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="js localstorage sessionstorage csspositionsticky cssanimations backgroundsize"><head>
+<!DOCTYPE html><html lang="en" class="js localstorage sessionstorage csspositionsticky cssanimations backgroundsize"><head><script async="" src="https://api.demandbase.com/api/v2/ip.json?key=f8eddc61b5c358398a3174ae2686efeb&amp;callback=ContextHub.Callbacks.demandbase"></script>
     
+    <script>
+        function getCookie(name) {
+            var value = "; " + document.cookie;
+            var parts = value.split("; " + name + "=");
+            if (parts.length == 2) return parts.pop().split(";").shift();
+        }
 
-<meta charset="utf-8">
+        var items = 'Personal,ImportantInformation,PrivacyPolicy'.split(',');
+        var pageDepth = items.length;
+        var ccpCookie = getCookie('CCP');
+        var ccpCookieValues = {cat2:'on',cat3:'on',cat4:'on'};
+        var newReturning = 'undefined' !== typeof getCookie('CCP_OTM') ? "returning" : "new";
+
+        if ('undefined' !== typeof ccpCookie) {
+            var decodedCcpCookieValues = JSON.parse(decodeURIComponent(getCookie('CCP')));
+            if ('undefined' !== typeof decodedCcpCookieValues.publicuser){
+                ccpCookieValues = decodedCcpCookieValues.publicuser
+            }
+        }
+
+        var digitalData = {
+            page: {
+                pageInfo: {
+                    pageName: items.join(':'),
+                    cmsPageName: 'privacy\u002Dpolicy',
+                    cmsPath: '\/content\/barclaysuk\/en\/personal\/important\u002Dinformation\/privacy\u002Dpolicy',
+                    level1: items[0],
+                    level2: pageDepth > 1 ? items[1] : '',
+                    level3: pageDepth > 2 ? items[2] : '',
+                    level4: pageDepth > 3 ? items[3] : '',
+                    urlProtocol: document.location.protocol,
+                    urlHost: document.location.hostname,
+                    urlPath: document.location.pathname,
+                    urlQueryString: document.location.search,
+                    urlHash: document.location.hash,
+                    urlContent: "",
+                    templateId: "\/apps\/componentlibrary\/templates\/tier_2_offering",
+                    pageId:  "",
+                    breadcrumb: items.join('>'),
+                    accessibility: "",
+                    segment: items[0],
+                    pageVersion: "",
+                    impressions: "",
+                    buildVersion: "",
+                    applicationId: "",
+                    applicationType: "",
+
+                    // W3C Data Layer recommendation
+                    timeStamp: new Date(),
+                    destinationURL: document.location,
+                    referringURL: document.referrer,
+                    breadCrumbs: items
+                },
+                searchInfo: {}
+            },
+            user: {
+                ccp: {
+                    cat2: ccpCookieValues.cat2,
+                    cat3: ccpCookieValues.cat3,
+                    cat4: ccpCookieValues.cat4
+                },
+                newReturning: newReturning
+            },
+            events: []
+        };
+    </script>
+
+    <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Privacy policy | Barclays</title>
+<meta property="og:title" content="Privacy policy | Barclays">
+<meta name="twitter:title" content="Privacy policy | Barclays">
+
 <meta name="description" content="Barclays is committed to keeping your information protected. Read through our privacy policy to find out more.">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:description" content="Barclays is committed to keeping your information protected. Read through our privacy policy to find out more.">
+<meta name="twitter:description" content="Barclays is committed to keeping your information protected. Read through our privacy policy to find out more.">
+
+<meta property="og:type" content="article">
+<meta name="twitter:card" content="summary">
+
+<meta property="og:locale" content="en_GB">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1.0, minimum-scale=1.0, maximum-scale=1.0">
 
 
 
 <meta name="robots" content="index,follow">
 
 
-<link rel="canonical" href="http://www.barclays.co.uk/important-information/privacy-policy/">
+    <link rel="canonical" href="https://www.barclays.co.uk/important-information/privacy-policy/">
+    <meta property="og:url" content="https://www.barclays.co.uk/important-information/privacy-policy/">
+    <meta name="twitter:url" content="https://www.barclays.co.uk/important-information/privacy-policy/">
 
 
-<link href="/etc/designs/global/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link rel="shortcut icon" type="image/x-icon" href="/content/dam/icons/favicons/barclays.ico">
 
 
 
@@ -29,11 +108,10 @@
 <link rel="preload" href="/etc/designs/bdl1.7.4/clientlib/fonts/expertsans-light-webfont.woff" as="font" type="font/woff" crossorigin="">
 
 
-<link rel="preconnect" href="//metrics.barclays.co.uk" crossorigin="">
+<link rel="preconnect" href="//smetrics.barclays.co.uk" crossorigin="">
 
 
-<meta name="msvalidate.01" content="685D4DAE5295BC9C156623C34F17A6A6">
-<meta name="google-site-verification" content="FyxsTQlL50FynDQWDnxthDes72UsbBAdfgWuSVpbfNo">
+
 
 <script src="/etc/designs/componentlibrary/commonlibs/js/libs/modernizr.min.js"></script>
 
@@ -42,7 +120,31 @@
     if (!window.console) console = {log: function() {}};
 </script>
 <![endif]-->
+
     
+    
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/utils.js"></script>
+
+
+
+<script type="text/javascript">
+            (function() {
+                window.ContextHub = window.ContextHub || {};
+
+                /* setting paths */
+                ContextHub.Paths = ContextHub.Paths || {};
+                ContextHub.Paths.CONTEXTHUB_PATH = "/etc/cloudsettings/default/contexthub";
+                ContextHub.Paths.RESOURCE_PATH = "\/etc\/cloudsettings\/default\/contexthub";
+                ContextHub.Paths.SEGMENTATION_PATH = "\/etc\/segmentation\/contexthub";
+                ContextHub.Paths.CQ_CONTEXT_PATH = "";
+
+                /* setting initial constants */
+                ContextHub.Constants = ContextHub.Constants || {};
+                ContextHub.Constants.ANONYMOUS_HOME = "/home/users/5/5N6Wra2_6P_0xPaGZAVM";
+                ContextHub.Constants.MODE = "no-ui";
+            }());
+        </script><script src="/etc/cloudsettings/default/contexthub.kernel.js" type="text/javascript"></script>
 
 
 
@@ -51,7 +153,16 @@
     
 <link rel="stylesheet" href="/etc/designs/bdl1.7.4/clientlib.css" type="text/css">
 <link rel="stylesheet" href="/etc/designs/componentlibrary/clientlib.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/componentlibrary/bcl/clientlib.css" type="text/css">
 <link rel="stylesheet" href="/etc/designs/componentlibrary/commonlibs.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/componentlibrary/coverFinder/clientlib.css" type="text/css">
+
+
+
+
+
+    
+<link rel="stylesheet" href="/etc/designs/bdl-next/clientlib.css" type="text/css">
 
 
 
@@ -69,25 +180,46 @@
 <script src="/etc/designs/componentlibrary/clientlib/js/libs/jquery.2.min.js"></script>
 <!--<![endif]-->
 
+<script>
+    window.CQ={};
+    window.$CQ={};
+</script>
+
 <script src="/etc/designs/componentlibrary/commonlibs/js/libs/cookiepolicy.js"></script>
 
 
 
 
+    
+
+
+	
+		
+	    	
+				<meta name="msvalidate.01" content="685D4DAE5295BC9C156623C34F17A6A6">
+			
+		
+	    	
+				<meta name="google-site-verification" content="FyxsTQlL50FynDQWDnxthDes72UsbBAdfgWuSVpbfNo">
+			
+		
+	
 
 
 
 
 
-<script src="//web.archive.org/web/20171006114218/https://gateway.answerscloud.com/barclays-uk/production/gateway.min.js" type="text/javascript" async="true" data-vendor="acs" data-role="gateway"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="//web.archive.org/web/20171006114218/https:/code/19.5.1/fs.feedback.js" src="//web.archive.org/web/20171006114218/https:/code/19.5.1/fs.feedback.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="//web.archive.org/web/20171006114218/https:/code/19.5.1/fs.survey.js" src="//web.archive.org/web/20171006114218/https:/code/19.5.1/fs.survey.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="//web.archive.org/web/20171006114218/https:/code/19.5.1/fs.utils.js" src="//web.archive.org/web/20171006114218/https:/code/19.5.1/fs.utils.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="//web.archive.org/web/20171006114218/https:/code/19.5.1/fs.trigger.js" src="//web.archive.org/web/20171006114218/https:/code/19.5.1/fs.trigger.js"></script></head>
-<body data-runmode-publish="true" data-template="/apps/componentlibrary/templates/tier_2_offering">
+
+                    <script async="" src="https://ds-aksb-a.akamaihd.net/aksb.min.js"></script><script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"781499",ustr:"",originlat:"0",clientrtt:"2",ghostip:"64.145.88.246",ipv6:false,pct:"10",clientip:"207.241.225.199",requestid:"249fbae",region:"13698",protocol:"",blver:14,akM:"b",akN:"ae",akTT:"O",akTX:"1",akTI:"249fbae",ai:"493102",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
+                    <script src="//web.archive.org/web/20171006114218/https://gateway.answerscloud.com/barclays-uk/production/gateway.min.js" type="text/javascript" async="true" data-vendor="acs" data-role="gateway"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="//web.archive.org/web/20171006114218/https:/code/19.5.1/fs.feedback.js" src="//web.archive.org/web/20171006114218/https:/code/19.5.1/fs.feedback.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="//web.archive.org/web/20171006114218/https:/code/19.5.1/fs.survey.js" src="//web.archive.org/web/20171006114218/https:/code/19.5.1/fs.survey.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="//web.archive.org/web/20171006114218/https:/code/19.5.1/fs.utils.js" src="//web.archive.org/web/20171006114218/https:/code/19.5.1/fs.utils.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="//web.archive.org/web/20171006114218/https:/code/19.5.1/fs.trigger.js" src="//web.archive.org/web/20171006114218/https:/code/19.5.1/fs.trigger.js"></script></head>
+<body data-runmode-publish="true" data-template="/apps/componentlibrary/templates/tier_2_offering" class="skiplinks-hidden segment-visible desktop">
 
 
 
 
 
 <div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys custom_tags_head_sitewide"><div class="custom_tag parbase section">
+</div><div class="iparys_inherited"><div class="custom_tags_head_sitewide iparsys parsys"><div class="custom_tag parbase section">
 
 
 
@@ -114,8 +246,9 @@
 
 
 
+
 <div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="navigation parsys iparsys"><div class="reference parbase section">
+</div><div class="iparys_inherited"><div class="navigation iparsys parsys"><div class="reference parbase section">
 
 	
 	
@@ -125,7 +258,7 @@
 	
 		
 			
-				<article>
+				<div>
     
 
     
@@ -134,16 +267,16 @@
 
         <div class="skiplinks-container">
             <span id="skiplinks-label">Skip to:</span>
-            <ul aria-labelledby="skiplinks-label">
-                <li><a href="/" accesskey="1">Home</a></li>
-                <li><a href="#main-content" accesskey="s">Content</a></li>
-                <li><a href="#globalfooter" accesskey="4">Footer navigation</a></li>
+            <ul>
+                <li><a id="home-link" aria-labelledby="skiplinks-label home-link" href="/" accesskey="1">Home</a></li>
+                <li><a id="content-link" aria-labelledby="skiplinks-label content-link" href="#skip-nav" accesskey="s">Content</a></li>
+                <li><a id="footer-link" aria-labelledby="skiplinks-label footer-link" href="#skip-main" accesskey="4">Footer navigation</a></li>
             </ul>
         </div>
     </div>
 
 
-    <header class="global-header mod-globalheader mobile">
+    <header class="global-header js-globalheader desktop" data-interaction="mouse" style="height: 162px;">
 
 
         
@@ -154,32 +287,31 @@
 
     
 
-    <div class="segment" data-component-type="Header">
-        <nav class="segment-wrapper" data-component-type="Link">
+    <div class="segment segment-transition" data-component-type="Header">
+        <nav class="segment-wrapper" data-component-type="Link" role="navigation" aria-label="Product type navigation">
             <ul class="segment-body">
-                <li>
-                    <a href="http://www.barclays.co.uk/PersonalBanking" class="segment-item active">Personal</a>
+                <li class="active">
+                    <a href="/" class="segment-item active">Personal</a>
                 </li>
             
                 <li>
-                    <a href="http://www.barclays.co.uk/premier-banking" class="segment-item ">Premier Banking</a>
+                    <a href="/premier-banking" class="segment-item ">Premier</a>
                 </li>
             
                 <li>
-                    <a href="http://www.barclays.co.uk/business-banking" class="segment-item ">Business</a>
+                    <a href="/business-banking" class="segment-item ">Business</a>
                 </li>
             
                 <li>
-                    <a href="http://www.barclays.co.uk/Wealth/P1321193608308" class="segment-item ">Wealth</a>
+                    <a href="/wealth-management" class="segment-item ">Wealth Management</a>
                 </li>
             
                 <li>
-                    <a href="http://www.barclays.co.uk/Corporate/P1242562863705" class="segment-item ">Corporate</a>
+                    <a href="https://www.barclayscorporate.com/" class="segment-item ">Corporate</a>
                 </li>
             </ul>
         </nav>
     </div>
-
 
 
 
@@ -190,7 +322,7 @@
         <div class="header-container">
             <div class="logo-section">
                 <div class="logo" data-component-type="Link:Logo">
-                    <a href="http://www.barclays.co.uk/PersonalBanking" title="Barclays">
+                    <a href="/" title="Barclays">
                         <span class="icon icon-barclays-eagle logo-eagle">
                             
                         </span>
@@ -198,19 +330,25 @@
                             
                         </span>
                     </a>
+
+                    
+                        
+                    
+
                 </div>
             </div>
 
             <div>
 
-    <div class="search-bar" id="search-bar" data-quick-search-path="/content/barclaysuk/en/help/results.quick-search.json?q={query}&amp;origin={origin}&amp;_charset_=UTF-8" data-main-search-path="/content/barclaysuk/en/help/results.search.json">
-        <form action="https://www.barclays.co.uk/help/results/" data-component-type="SiteSearch" method="get">
+
+    <div class="search-bar" id="search-bar" data-quick-search-path="/content/barclaysuk/en/help/results.quick-search.json?q={query}&amp;origin={origin}&amp;_charset_=UTF-8" data-main-search-path="/content/barclaysuk/en/help/results.search.json" data-top-search-path="/content/barclaysuk/en/help/results/_jcr_content/search_bar.topanswers.json" style="display: none;">
+        <form action="/help/results" data-component-type="SiteSearch" method="get" class="mod-form">
             <div data-widget="accessible-autocomplete">
                 <!-- Keep label for accessibility on screen readers -->
-                <label for="search-input" class="access">Search</label>
+                <label for="search-input" class="access">How can we help?</label>
 
                 <div class="search-input-wrapper">
-                    <input autocomplete="off" name="q" id="search-input" type="text" placeholder="How can we help?" class="autocomplete-search-field mod-input" aria-expanded="false" aria-autocomplete="both" aria-owns="common-questions-list" aria-activedescendant="">
+                    <input autocomplete="off" name="q" id="search-input" type="text" placeholder="How can we help?" class="autocomplete-search-field mod-input search-input-nav" aria-expanded="false" aria-autocomplete="both" aria-controls="quicksearch-body" aria-activedescendant="">
                 </div>
                 <a href="#" role="button" id="clear-search-input" aria-describedby="ariaClearField" class="search-clear">Clear search field</a>
                 <button type="submit" class="btn-search btn btn-primary btn-sm">Search</button>
@@ -226,21 +364,23 @@
                     }
                 });</script>
                 
-<div id="quicksearch-body" class="headersearch">
+<div id="quicksearch-body" class="headersearch" aria-hidden="true">
     <div class="headersearch-container">
         <div class="headersearch-body">
             <div class="headersearch-results">
-                <div class="quick-search--results" id="primary-results"></div>
+                <div class="headersearch-heading">Unsure what to search for? Other customers found these links helpful.</div>
+                <div class="quick-search--results" id="primary-results-nav"></div>
+                <div class="quick-search--results" id="secondary-results-nav"></div>
             </div>
         </div>
     </div>
 </div>
                 
                     
-                    <div id="commonquestions-body" class="headersearch">
+                    <div id="commonquestions-body" class="headersearch" aria-hidden="true">
                         <div class="headersearch-container">
                             <div class="headersearch-body" data-display-common-questions="true">
-                                <div class="headersearch-heading">Unsure what to search for? Other customers found these helpful.</div>
+                                <div class="headersearch-heading">Unsure what to search for? Other customers found these links helpful.</div>
                                 <div class="headersearch-results">
                                     <ul id="common-questions-list" role="listbox" class="autocomplete-list">
                                         
@@ -260,7 +400,7 @@
 
                                                 
                                                 <li role="option" aria-selected="false" class="  headersearch-item">
-                                                    <a class="common-questions--list-entry" data-list-index="1" tabindex="-1" href="http://www.barclays.co.uk/help/international/payments/making-and-receiving-international-payments/what-iban-swiftcode.html">What are IBANs and SWIFT codes?</a>
+                                                    <a role="link" class="common-questions--list-entry" data-list-index="1" tabindex="-1" href="https://www.barclays.co.uk/help/international/payments/making-and-receiving-international-payments/what-iban-swiftcode.html">What are IBANs and SWIFT codes?</a>
                                                 </li>
                                             
                                         
@@ -280,7 +420,7 @@
 
                                                 
                                                 <li role="option" aria-selected="false" class="  headersearch-item">
-                                                    <a class="common-questions--list-entry" data-list-index="2" tabindex="-1" href="http://www.barclays.co.uk/help/payments/payment-information/unrecognised-transaction.html">What do I do if I’ve spotted a payment transaction I don’t recognise?</a>
+                                                    <a role="link" class="common-questions--list-entry" data-list-index="2" tabindex="-1" href="https://www.barclays.co.uk/help/payments/payment-information/unrecognised-transaction.html">What do I do if I’ve spotted a payment transaction I don’t recognise?</a>
                                                 </li>
                                             
                                         
@@ -300,7 +440,7 @@
 
                                                 
                                                 <li role="option" aria-selected="false" class="  headersearch-item">
-                                                    <a class="common-questions--list-entry" data-list-index="3" tabindex="-1" href="http://www.barclays.co.uk/help/customer-services/branch-opening-hours.html">What’s the address, the opening hours and phone number of my Barclays branch? </a>
+                                                    <a role="link" class="common-questions--list-entry" data-list-index="3" tabindex="-1" href="https://www.barclays.co.uk/help/customer-services/branch-opening-hours.html">What’s the address, the opening hours and phone number of my Barclays branch? </a>
                                                 </li>
                                             
                                         
@@ -322,7 +462,7 @@
 
                                                 
                                                 <li role="option" aria-selected="false" class=" is-last-mobile headersearch-item">
-                                                    <a class="common-questions--list-entry" data-list-index="4" tabindex="-1" href="http://www.barclays.co.uk/help/accounts/account-services/find-sort-code.html">How do I find my sort code and account number?</a>
+                                                    <a role="link" class="common-questions--list-entry" data-list-index="4" tabindex="-1" href="https://www.barclays.co.uk/help/accounts/account-services/find-sort-code.html">How do I find my sort code and account number?</a>
                                                 </li>
                                             
                                         
@@ -344,7 +484,7 @@
 
                                                 
                                                 <li role="option" aria-selected="false" class="is-desktop-only  headersearch-item">
-                                                    <a class="common-questions--list-entry" data-list-index="5" tabindex="-1" href="http://www.barclays.co.uk/help/accounts/statements-balances/cheque-clearing.html">What is the cheque clearing cycle and how long does it take?</a>
+                                                    <a role="link" class="common-questions--list-entry" data-list-index="5" tabindex="-1" href="https://www.barclays.co.uk/help/accounts/statements-balances/cheque-clearing.html">What is the cheque clearing cycle and how long does it take?</a>
                                                 </li>
                                             
                                         
@@ -374,13 +514,13 @@
 
 
             <div class="utilities" data-component-type="Header:Utilities">
-                <a href="https://bank.barclays.co.uk/olb/authlogin/loginAppContainer.do" class="login btn btn-primary btn-sm">Log in</a>
+                <a href="https://bank.barclays.co.uk/olb/authlogin/loginAppContainer.do" class="login btn btn-primary btn-sm">Log In</a>
                 <ul>
                     
                         
                         
                         <li>
-                            <a href="https://bank.barclays.co.uk/olb/auth/LoginLink.action" class="btn-none" target="_self">Register</a>
+                            <a href="https://bank.barclays.co.uk/olb/registration/registerAppContainer.do" class="btn-none" target="_self">Register</a>
                         </li>
                         
                     
@@ -388,25 +528,28 @@
                         
                         
                         <li class="contact">
-                            <a href="http://www.barclays.co.uk/Contactus/Contactus/P1242561757335" target="_self"><span>Contact us</span></a>
+                            <a href="/contact-us" target="_self"><span>Contact us</span></a>
                         </li>
                     
                         
                         
                         
                         <li class="branch-finder">
-                            <a href="http://ask.barclays.co.uk/branchfinder/" target="_self"><span>Find a branch</span></a>
+                            <a href="/branchfinder" target="_self"><span>Find a branch</span></a>
                         </li>
                     
+                    <li class="search"><a href="#search" aria-haspopup="true"><span>Search</span></a></li>
                     
-
-<li class="search"><a href="#search" aria-haspopup="true"><span>Search</span></a></li>
-
-                    <li class="hamburger"><a href="#menu" aria-describedby="ariaTapexpand"><span>Menu</span></a>
-                    </li>
+	                    <li class="hamburger" style="">
+	                        <a href="#menu" aria-expanded="false" aria-label="Navigation Menu"><span>Menu</span></a>
+	                    </li>
+	                
                 </ul>
-                <p id="ariaTapexpand" class="access">Please tap to expand this section</p>
             </div>
+            
+            
+
+
 
 
         </div>
@@ -417,26 +560,27 @@
 
         <div class="header-container" data-component-type="Header">
 
-            <nav class="main-nav" role="navigation">
-                <ul role="menubar">
+            <nav class="main-nav" role="navigation" aria-label="Main navigation" data-menustate="closed" style="visibility: visible;">
+                <ul>
                     <li aria-haspopup="true" data-component-type="MenuItemLevel1">
                         <a href="#" aria-expanded="false">Bank <span class="access">menu item level 1</span></a>
                         <div class="nav-l2" aria-hidden="true">
                             
-                            <ul>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                            
+                                <ul class="nav-col-four">
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Bank accounts <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Bank accounts <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/current-accounts/" target="_blank" title="Current accounts">Current accounts <span class="access">menu item level 3</span></a>
+            <a href="/current-accounts/" target="_self" title="Current accounts">Current accounts <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -462,16 +606,16 @@
 
 
 
-                                </li>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Rewards and offers <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Reward and offers <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -485,10 +629,6 @@
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
             <a href="/current-accounts/customise-my-account/" target="_self" title="Customise my account">Customise my account <span class="access">menu item level 3</span></a>
         </li>
-    
-        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/security/free-kaspersky-internet-security/" target="_self" title="Free Kaspersky security software">Free Kaspersky security software <span class="access">menu item level 3</span></a>
-        </li>
     </ul>
     </div>
 
@@ -497,16 +637,16 @@
 
 
 
-                                </li>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Account services <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Account services <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -518,15 +658,19 @@
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="http://www.barclays.co.uk/CloudIt/P1242634022583" target="_self" title="Barclays Cloud It">Barclays Cloud It <span class="access">menu item level 3</span></a>
+            <a href="/ways-to-bank/cloud-it/" target="_self" title="Barclays Cloud It">Barclays Cloud It <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="https://bank.barclays.co.uk/olb/auth/RegistrationLink_display.action" target="_self" title="Register for Online Banking">Register for Online Banking <span class="access">menu item level 3</span></a>
+            <a href="https://bank.barclays.co.uk/olb/registration/registerAppContainer.do" target="_self" title="Register for Online Banking">Register for Online Banking <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
             <a href="/travel/" target="_self" title="Travelling abroad">Travelling abroad <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/important-information/control-your-data/" target="_self" title="Control your data">Control your data <span class="access">menu item level 3</span></a>
         </li>
     </ul>
     </div>
@@ -536,28 +680,24 @@
 
 
 
-                                </li>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Payment services <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Payment services <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="http://www.barclays.co.uk/ways-to-pay" target="_self" title="Explore all payment services">Explore all payment services <span class="access">menu item level 3</span></a>
+            <a href="https://www.barclays.co.uk/ways-to-pay" target="_self" title="Explore all payment services">Explore all payment services <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
             <a href="/current-accounts/debit-cards/" target="_self" title="Debit cards">Debit cards <span class="access">menu item level 3</span></a>
-        </li>
-    
-        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/help/ways-to-bank/payments/" target="_self" title="Payments">Payments <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -575,8 +715,10 @@
 
 
 
-                                </li>
-                            </ul>
+                                    </li>
+                                </ul>
+                            
+                            
                         </div>
                     </li>
 
@@ -585,20 +727,21 @@
                         <a href="#" aria-expanded="false">Borrow <span class="access">menu item level 1</span></a>
                         <div class="nav-l2" aria-hidden="true">
                             
-                            <ul>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                            
+                                <ul class="nav-col-four">
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Loans and overdraft <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Loans and overdraft <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/loans/" target="_self" title="Compare our loans">Compare our loans <span class="access">menu item level 3</span></a>
+            <a href="/loans/" target="_self" title="All loans products">All loans products <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -632,20 +775,20 @@
 
 
 
-                                </li>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Credit cards <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Credit cards <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/credit-cards/" target="_self" title="Credit cards">Credit cards <span class="access">menu item level 3</span></a>
+            <a href="/credit-cards/" target="_self" title="Compare credit cards">Compare credit cards <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -679,20 +822,20 @@
 
 
 
-                                </li>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Tips <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Tips <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="http://www.barclays.co.uk/waystoborrow" target="_self" title="Ways to borrow">Ways to borrow <span class="access">menu item level 3</span></a>
+            <a href="https://www.barclays.co.uk/waystoborrow" target="_self" title="Ways to borrow">Ways to borrow <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -700,7 +843,11 @@
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/loans/debt-management/" target="_self" title="Debt management">Debt management <span class="access">menu item level 3</span></a>
+            <a href="/loans/money-worries/" target="_self" title="Money worries">Money worries <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/loans/what-does-apr-mean/" target="_self" title="What does APR mean?">What does APR mean? <span class="access">menu item level 3</span></a>
         </li>
     </ul>
     </div>
@@ -710,16 +857,16 @@
 
 
 
-                                </li>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Tools <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Tools <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -741,8 +888,127 @@
 
 
 
-                                </li>
-                            </ul>
+                                    </li>
+                                </ul>
+                            
+                            
+                        </div>
+                    </li>
+
+                
+                    <li aria-haspopup="true" data-component-type="MenuItemLevel1">
+                        <a href="#" aria-expanded="false">Credit cards <span class="access">menu item level 1</span></a>
+                        <div class="nav-l2" aria-hidden="true">
+                            
+                            
+                                <ul class="nav-col-four">
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
+
+    
+
+
+    
+
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Card options <span class="access">menu item level 2</span></a>
+    <div class="nav-l3" aria-hidden="true">
+    <ul>
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/credit-cards/" target="_self" title="Compare credit cards">Compare credit cards <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/credit-cards/check-your-eligibility/" target="_self" title="Check your eligibility">Check your eligibility <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/credit-cards/balance-transfer-credit-cards/" target="_self" title="Balance transfer credit cards">Balance transfer credit cards <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/credit-cards/purchase-credit-cards/" target="_self" title="Purchase credit cards">Purchase credit cards <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/credit-cards/credit-building-credit-cards/" target="_self" title="Credit building credit cards">Credit building credit cards <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/credit-cards/reward-cards/" target="_self" title="Reward credit cards">Reward credit cards <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="https://as2r-clb-bcc4-bcol.barclaycard.co.uk/ecom/as2/initialLogon.do?x=49&amp;y=35?TC=QXBCA23302" target="_self" title="Log in to mybarclaycard">Log in to mybarclaycard <span class="access">menu item level 3</span></a>
+        </li>
+    </ul>
+    </div>
+
+    
+
+
+
+
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
+
+    
+
+
+    
+
+    
+    <div class="nav-l3" aria-hidden="true">
+    
+    </div>
+
+    
+
+
+
+
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
+
+    
+
+
+    
+
+    
+    <div class="nav-l3" aria-hidden="true">
+    
+    </div>
+
+    
+
+
+
+
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
+
+    
+
+
+    
+
+    
+    <div class="nav-l3" aria-hidden="true">
+    
+    </div>
+
+    
+
+
+
+
+                                    </li>
+                                </ul>
+                            
+                            
                         </div>
                     </li>
 
@@ -751,16 +1017,17 @@
                         <a href="#" aria-expanded="false">Save and invest <span class="access">menu item level 1</span></a>
                         <div class="nav-l2" aria-hidden="true">
                             
-                            <ul>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                            
+                                <ul class="nav-col-four">
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Cash ISAs <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Cash ISAs <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -768,15 +1035,15 @@
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/savings/isas/instant-cash-isa/" target="_self" title="Instant cash ISA">Instant cash ISA <span class="access">menu item level 3</span></a>
+            <a href="/savings/isas/instant-cash-isa/" target="_self" title="Instant Cash ISA">Instant Cash ISA <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/savings/isas/2-year-flexible-cash-isa/" target="_self" title="Flexible cash ISA">Flexible cash ISA <span class="access">menu item level 3</span></a>
+            <a href="/savings/isas/2-year-flexible-cash-isa/" target="_self" title="Flexible Cash ISA">Flexible Cash ISA <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/savings/isas/help-to-buy-isa/" target="_self" title="Help to buy: ISA">Help to buy: ISA <span class="access">menu item level 3</span></a>
+            <a href="/savings/isas/help-to-buy-isa/" target="_self" title="Help to Buy: ISA">Help to Buy: ISA <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -794,16 +1061,16 @@
 
 
 
-                                </li>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Savings <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Savings <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -815,7 +1082,7 @@
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/savings/instant-access/childrens-instant-saver/" target="_self" title="Children's Instant Saver">Children's Instant Saver <span class="access">menu item level 3</span></a>
+            <a href="/savings/instant-access/childrens-instant-saver/" target="_self" title="Children’s Instant Saver">Children’s Instant Saver <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -837,16 +1104,16 @@
 
 
 
-                                </li>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Bonds <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Bonds <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -854,15 +1121,19 @@
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/savings/bonds/1-year-fixed-rate-savings-bond/" target="_self" title="Fixed-rate bond">Fixed-rate bond <span class="access">menu item level 3</span></a>
+            <a href="/savings/bonds/1-year-fixed-rate-savings-bond/" target="_self" title="Fixed-rate Bond">Fixed-rate Bond <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/savings/bonds/2-year-flexible-bond/" target="_self" title="Flexible bond">Flexible bond <span class="access">menu item level 3</span></a>
+            <a href="/savings/bonds/2-year-flexible-bond/" target="_self" title="Flexible Bond - 2 Year">Flexible Bond - 2 Year <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/premier-banking/flexible-bond/" target="_self" title="Premier Flexible Bond">Premier Flexible Bond <span class="access">menu item level 3</span></a>
+            <a href="/savings/bonds/3-year-flexible-income-bond/" target="_self" title="Flexible Income Bond - 3 Year">Flexible Income Bond - 3 Year <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/premier-banking/two-year-flexible-bond/" target="_self" title="Premier Flexible Bond - 2 Year">Premier Flexible Bond - 2 Year <span class="access">menu item level 3</span></a>
         </li>
     </ul>
     </div>
@@ -872,29 +1143,33 @@
 
 
 
-                                </li>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Investments <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Investments <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/investments/" target="_self" title="All Investment Products">All Investment Products <span class="access">menu item level 3</span></a>
+            <a href="/investments/" target="_self" title="All investment products">All investment products <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="https://www.smartinvestor.barclays.co.uk/invest/accounts/investment-account/features.html" target="_self" title="Investment Account">Investment Account <span class="access">menu item level 3</span></a>
+            <a href="/investments/investment-account/" target="_self" title="Investment Account">Investment Account <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
             <a href="/investments/investment-isa/" target="_self" title="Investment ISA">Investment ISA <span class="access">menu item level 3</span></a>
         </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="https://www.smartinvestor.barclays.co.uk/" target="_blank" title="Smart Investor">Smart Investor <span class="access">menu item level 3</span></a>
+        </li>
     </ul>
     </div>
 
@@ -903,8 +1178,10 @@
 
 
 
-                                </li>
-                            </ul>
+                                    </li>
+                                </ul>
+                            
+                            
                         </div>
                     </li>
 
@@ -913,40 +1190,45 @@
                         <a href="#" aria-expanded="false">Mortgage <span class="access">menu item level 1</span></a>
                         <div class="nav-l2" aria-hidden="true">
                             
-                            <ul>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                            
+                                <ul class="nav-col-four">
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Our Mortgages <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Our mortgages <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="http://www.barclays.co.uk/mortgages" target="_self" title="All mortgages">All mortgages <span class="access">menu item level 3</span></a>
+            <a href="/mortgages/" target="_self" title="All mortgage services">All mortgage services <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="http://www.barclays.co.uk/mortgages/first-time-buyers" target="_self" title="First-time buyers">First-time buyers <span class="access">menu item level 3</span></a>
+            <a href="/mortgages/first-time-buyers/" target="_self" title="First-time buyers">First-time buyers <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="http://www.barclays.co.uk/mortgages/new-customer-centre" target="_self" title="Remortgage with us">Remortgage with us <span class="access">menu item level 3</span></a>
+            <a href="/mortgages/remortgage/" target="_self" title="Remortgage to Barclays">Remortgage to Barclays <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="http://www.barclays.co.uk/mortgages/buy-to-let-centre" target="_self" title="Buy-to-let">Buy-to-let <span class="access">menu item level 3</span></a>
+            <a href="/mortgages/moving-home/" target="_self" title="Moving home">Moving home <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="http://www.barclays.co.uk/mortgages/existing-customer-centre" target="_self" title="Existing customers">Existing customers <span class="access">menu item level 3</span></a>
+            <a href="/mortgages/buy-to-let/" target="_self" title="Buy-to-let">Buy-to-let <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="http://www.barclays.co.uk/help-to-buy" target="_self" title="Help to Buy schemes">Help to Buy schemes <span class="access">menu item level 3</span></a>
+            <a href="/mortgages/existing-customer-centre/" target="_self" title="Existing mortgage customers ">Existing mortgage customers  <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/mortgages/help-to-buy/" target="_self" title="Help to buy mortgages">Help to buy mortgages <span class="access">menu item level 3</span></a>
         </li>
     </ul>
     </div>
@@ -956,40 +1238,48 @@
 
 
 
-                                </li>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Products <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Products <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="http://www.barclays.co.uk/mortgages/our-best-mortgage-rates" target="_self" title="Mortgage rates and charges">Mortgage rates and charges <span class="access">menu item level 3</span></a>
+            <a href="/mortgages/options/" target="_self" title="All mortgages ">All mortgages  <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="http://www.barclays.co.uk/mortgages/fixed-rate-mortgages" target="_self" title="Fixed-rate mortgages">Fixed-rate mortgages <span class="access">menu item level 3</span></a>
+            <a href="/mortgages/best-mortgage-rates/" target="_self" title="Mortgage rates and charges">Mortgage rates and charges <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="http://www.barclays.co.uk/mortgages/tracker-mortgages" target="_self" title="Tracker mortgages">Tracker mortgages <span class="access">menu item level 3</span></a>
+            <a href="/mortgages/fixed-rate-mortgage/" target="_self" title="Fixed-rate mortgages">Fixed-rate mortgages <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="http://www.barclays.co.uk/mortgages/offset-mortgage" target="_self" title="Offset mortgages">Offset mortgages <span class="access">menu item level 3</span></a>
+            <a href="/mortgages/tracker-mortgages/" target="_self" title="Tracker mortgages">Tracker mortgages <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="http://www.barclays.co.uk/mortgages/buy-to-let-mortgages" target="_self" title="Buy-to-let mortgages">Buy-to-let mortgages <span class="access">menu item level 3</span></a>
+            <a href="/mortgages/offset-mortgage/" target="_self" title="Offset mortgages">Offset mortgages <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="http://www.barclays.co.uk/mortgages/family-springboard-mortgage" target="_self" title="Family Springboard Mortgage">Family Springboard Mortgage <span class="access">menu item level 3</span></a>
+            <a href="/mortgages/buy-to-let/mortgage/" target="_self" title="Buy-to-let mortgages">Buy-to-let mortgages <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/mortgages/family-springboard-mortgage/" target="_self" title="Family Springboard Mortgage">Family Springboard Mortgage <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/mortgages/green-home-mortgage/" target="_self" title="Green Home Mortgage">Green Home Mortgage <span class="access">menu item level 3</span></a>
         </li>
     </ul>
     </div>
@@ -999,32 +1289,40 @@
 
 
 
-                                </li>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Tools <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Tools <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="http://www.barclays.co.uk/mortgages/mortgage-calculator" target="_self" title="Mortgage calculator">Mortgage calculator <span class="access">menu item level 3</span></a>
+            <a href="/mortgages/tools/" target="_self" title="Mortgage tools">Mortgage tools <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="http://www.barclays.co.uk/mortgages/base-rate-information-calculator" target="_self" title="Base Rate Information">Base Rate Information <span class="access">menu item level 3</span></a>
+            <a href="/mortgages/mortgage-calculator/" target="_self" title="Mortgage calculators">Mortgage calculators <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="http://www.barclays.co.uk/Mortgages/Offsetmortgagecalculator/P1242596528046" target="_self" title="Offset mortgage calculator">Offset mortgage calculator <span class="access">menu item level 3</span></a>
+            <a href="/mortgages/mortgage-calculator/interest-rate-calculator/" target="_self" title="Interest rate calculator">Interest rate calculator <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="http://www.barclays.co.uk/mortgages/barclays-home-owner-app" target="_self" title="Barclays Homeowner app">Barclays Homeowner app <span class="access">menu item level 3</span></a>
+            <a href="/mortgages/base-rate-information/" target="_self" title="Base Rate information">Base Rate information <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/mortgages/mortgage-calculator/offset-mortgage-calculator/" target="_self" title="Offset mortgage calculator">Offset mortgage calculator <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/ways-to-bank/track-it/" target="_self" title="Track an application">Track an application <span class="access">menu item level 3</span></a>
         </li>
     </ul>
     </div>
@@ -1034,29 +1332,37 @@
 
 
 
-                                </li>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Apply <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Apply <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="http://www.barclays.co.uk/mortgages/how-to-get-a-mortgage" target="_self" title="How to get a mortgage">How to get a mortgage <span class="access">menu item level 3</span></a>
+            <a href="/mortgages/how-to-get-a-mortgage/" target="_self" title="How to get a mortgage">How to get a mortgage <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="http://www.barclays.co.uk/mortgages/agreement-in-principle" target="_self" title="Agreement in Principle (AiP)">Agreement in Principle (AiP) <span class="access">menu item level 3</span></a>
+            <a href="/mortgages/agreement-in-principle/" target="_self" title="Agreement in Principle (AiP)">Agreement in Principle (AiP) <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
             <a href="/mortgages/agreement-in-principle/" target="_self" title="Resume AiP">Resume AiP <span class="access">menu item level 3</span></a>
         </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/mortgages/existing-customer-centre/mortgage/" target="_self" title="Switch Barclays mortgage">Switch Barclays mortgage <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/mortgages/appointment/" target="_self" title="Making an appointment">Making an appointment <span class="access">menu item level 3</span></a>
+        </li>
     </ul>
     </div>
 
@@ -1065,8 +1371,10 @@
 
 
 
-                                </li>
-                            </ul>
+                                    </li>
+                                </ul>
+                            
+                            
                         </div>
                     </li>
 
@@ -1075,16 +1383,17 @@
                         <a href="#" aria-expanded="false">Insure <span class="access">menu item level 1</span></a>
                         <div class="nav-l2" aria-hidden="true">
                             
-                            <ul>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                            
+                                <ul class="nav-col-four">
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Home insurance <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Home insurance <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -1092,7 +1401,7 @@
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/insurance/landlord-insurance/" target="_self" title="Landlord insurance">Landlord insurance <span class="access">menu item level 3</span></a>
+            <a href="/insurance/home-insurance/landlord-insurance/" target="_self" title="Barclays Landlord Insurance">Barclays Landlord Insurance <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -1106,16 +1415,16 @@
 
 
 
-                                </li>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Life insurance <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Life insurance <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -1123,15 +1432,11 @@
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/insurance/life-insurance/life-cover-with-aviva/" target="_self" title="Life insurance">Life insurance <span class="access">menu item level 3</span></a>
+            <a href="/insurance/life-insurance/barclays-simple-life-insurance/" target="_self" title="Barclays Simple Life Insurance">Barclays Simple Life Insurance <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
             <a href="/insurance/life-insurance/barclays-life-insurance-for-mortgage-holders/" target="_self" title="Life insurance for mortgage holders">Life insurance for mortgage holders <span class="access">menu item level 3</span></a>
-        </li>
-    
-        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/insurance/mortgage-life-insurance/" target="_self" title="Life insurance with critical illness cover">Life insurance with critical illness cover <span class="access">menu item level 3</span></a>
         </li>
     </ul>
     </div>
@@ -1141,32 +1446,28 @@
 
 
 
-                                </li>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Travel insurance <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Travel insurance <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/insurance/travel-insurance/" target="_self" title="Barclays travel insurance">Barclays travel insurance <span class="access">menu item level 3</span></a>
+            <a href="/insurance/travel-insurance/" target="_self" title="All travel insurance">All travel insurance <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/insurance/travel-insurance/personalised-travel-cover/" target="_self" title="Tailored travel insurance">Tailored travel insurance <span class="access">menu item level 3</span></a>
+            <a href="/insurance/travel-insurance/travel-pack/" target="_self" title="Travel with breakdown cover">Travel with breakdown cover <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/current-accounts/customise-my-account/travel-pack/" target="_self" title="Travel with breakdown cover">Travel with breakdown cover <span class="access">menu item level 3</span></a>
-        </li>
-    
-        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/current-accounts/customise-my-account/travel-plus-pack/" target="_self" title="Travel with breakdown cover and airport lounges">Travel with breakdown cover and airport lounges <span class="access">menu item level 3</span></a>
+            <a href="/insurance/travel-insurance/travel-plus-pack/" target="_self" title="Travel with breakdown cover and airport lounges">Travel with breakdown cover and airport lounges <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -1180,20 +1481,20 @@
 
 
 
-                                </li>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Phone and gadget cover <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Phone and gadget cover <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/current-accounts/customise-my-account/tech-pack/" target="_self" title="Phone and gadget insurance">Phone and gadget insurance <span class="access">menu item level 3</span></a>
+            <a href="/insurance/gadget-and-mobile-phone-insurance/" target="_self" title="Phone and gadget insurance">Phone and gadget insurance <span class="access">menu item level 3</span></a>
         </li>
     </ul>
     </div>
@@ -1203,8 +1504,10 @@
 
 
 
-                                </li>
-                            </ul>
+                                    </li>
+                                </ul>
+                            
+                            
                         </div>
                     </li>
 
@@ -1213,16 +1516,17 @@
                         <a href="#" aria-expanded="false">Service and support <span class="access">menu item level 1</span></a>
                         <div class="nav-l2" aria-hidden="true">
                             
-                            <ul>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                            
+                                <ul class="nav-col-four">
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Help and support <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Help and support <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -1234,7 +1538,7 @@
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/security/" target="_self" title="Protect yourself from fraud">Protect yourself from fraud <span class="access">menu item level 3</span></a>
+            <a href="/security/fraud/" target="_self" title="Fraud prevention">Fraud prevention <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -1246,7 +1550,7 @@
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="http://status.barclays/" target="_self" title="Service status">Service status <span class="access">menu item level 3</span></a>
+            <a href="https://status.barclays/" target="_self" title="Service status">Service status <span class="access">menu item level 3</span></a>
         </li>
     </ul>
     </div>
@@ -1256,16 +1560,16 @@
 
 
 
-                                </li>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Account services <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Account services <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -1273,7 +1577,7 @@
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/ways-to-bank/mobile-banking-app/" target="_self" title="Barclays Mobile Banking app">Barclays Mobile Banking app <span class="access">menu item level 3</span></a>
+            <a href="/ways-to-bank/mobile-banking-app/" target="_self" title="Bank on your mobile">Bank on your mobile <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -1287,6 +1591,10 @@
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
             <a href="https://labs.uk.barclays/" target="_self" title="Eagle Labs">Eagle Labs <span class="access">menu item level 3</span></a>
         </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/important-information/control-your-data/" target="_self" title="Control your data">Control your data <span class="access">menu item level 3</span></a>
+        </li>
     </ul>
     </div>
 
@@ -1295,16 +1603,16 @@
 
 
 
-                                </li>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Tools <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Tools and guides <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -1322,6 +1630,10 @@
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
             <a href="/digital-confidence/" target="_self" title="Digital confidence">Digital confidence <span class="access">menu item level 3</span></a>
         </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/journal/" target="_self" title="Barclays Journal">Barclays Journal <span class="access">menu item level 3</span></a>
+        </li>
     </ul>
     </div>
 
@@ -1330,36 +1642,229 @@
 
 
 
-                                </li>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
     
 
 
     
 
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Tips and guides <span class="access">menu item level 2</span></a>
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Support <span class="access">menu item level 2</span></a>
     <div class="nav-l3" aria-hidden="true">
     <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/journal/" target="_self" title="Barclays Journal">Barclays Journal <span class="access">menu item level 3</span></a>
+            <a href="/accessibility/" target="_self" title="Accessibility &amp; disability support">Accessibility &amp; disability support <span class="access">menu item level 3</span></a>
         </li>
     
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/loans/money-worries/" target="_self" title="Money worries">Money worries <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/mental-health/" target="_self" title="Mental health support">Mental health support <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/power-of-attorney/" target="_self" title="Third-party mandate">Third-party mandate <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/power-of-attorney/what-to-do-when-someone-dies/" target="_self" title="What to do when someone dies">What to do when someone dies <span class="access">menu item level 3</span></a>
+        </li>
+    </ul>
+    </div>
+
+    
+
+
+
+
+                                    </li>
+                                </ul>
+                            
+                            
+                        </div>
+                    </li>
+
+                
+                    <li aria-haspopup="true" data-component-type="MenuItemLevel1">
+                        <a href="#" aria-expanded="false">Security and privacy <span class="access">menu item level 1</span></a>
+                        <div class="nav-l2" aria-hidden="true">
+                            
+                            
+                                <ul class="nav-col-four">
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
+
+    
+
+
+    
+
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Your data <span class="access">menu item level 2</span></a>
+    <div class="nav-l3" aria-hidden="true">
+    <ul>
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/security/digisafe/" target="_self" title="Digisafe">Digisafe <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/important-information/control-your-data/" target="_self" title="Control your privacy and data">Control your privacy and data <span class="access">menu item level 3</span></a>
+        </li>
+    </ul>
+    </div>
+
+    
+
+
+
+
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
+
+    
+
+
+    
+
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Fraud <span class="access">menu item level 2</span></a>
+    <div class="nav-l3" aria-hidden="true">
+    <ul>
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/security/fraud/" target="_self" title="Fraud prevention">Fraud prevention <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/security/how-fraudsters-make-contact/" target="_self" title="How fraudsters could contact you">How fraudsters could contact you <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/security/financial-scams/" target="_self" title="Financial scams">Financial scams <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/security/card-fraud/" target="_self" title="Credit card fraud">Credit card fraud <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/security/fraud-prevention-features/" target="_self" title="Fraud prevention features">Fraud prevention features <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/security/protecting-your-account/" target="_self" title="Keeping your money safe">Keeping your money safe <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/security/keep-your-accounts-safe/" target="_self" title="How to keep your account safe">How to keep your account safe <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/security/digitally-safe-quiz/" target="_self" title="Digitally safe quiz">Digitally safe quiz <span class="access">menu item level 3</span></a>
+        </li>
+    </ul>
+    </div>
+
+    
+
+
+
+
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
+
+    
+
+
+    
+
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Tools and support <span class="access">menu item level 2</span></a>
+    <div class="nav-l3" aria-hidden="true">
+    <ul>
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/security/phone-number-lookup/" target="_self" title="Phone number checker">Phone number checker <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/security/reporting-fraud/" target="_self" title="Reporting fraud">Reporting fraud <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/help/reporting-fraud/reporting-fraud/" target="_self" title="How do I report fraud on one of my accounts?">How do I report fraud on one of my accounts? <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/help/reporting-fraud/reporting-fraud/" target="_self" title="FAQs">FAQs <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="https://events.uk.barclays/teaandteach" target="_self" title="Tea and Teach">Tea and Teach <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/security/mobile-and-online-banking-security/" target="_self" title="Online and mobile banking security">Online and mobile banking security <span class="access">menu item level 3</span></a>
+        </li>
+    </ul>
+    </div>
+
+    
+
+
+
+
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
+
+    
+
+
+    
+
+    
+    <div class="nav-l3" aria-hidden="true">
+    
+    </div>
+
+    
+
+
+
+
+                                    </li>
+                                </ul>
+                            
+                            
+                        </div>
+                    </li>
+
+                
+                    <li aria-haspopup="true" data-component-type="MenuItemLevel1">
+                        <a href="#" aria-expanded="false">Moments <span class="access">menu item level 1</span></a>
+                        <div class="nav-l2" aria-hidden="true">
+                            
+                            
+                                <ul class="nav-col-four">
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
+
+    
+
+
+    
+
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Studying and graduation <span class="access">menu item level 2</span></a>
+    <div class="nav-l3" aria-hidden="true">
+    <ul>
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
             <a href="/going-to-university/" target="_self" title="Going to uni">Going to uni <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/money-management/" target="_self" title="Managing your money">Managing your money <span class="access">menu item level 3</span></a>
-        </li>
-    
-        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/starting-a-family/" target="_self" title="Starting a family">Starting a family <span class="access">menu item level 3</span></a>
-        </li>
-    
-        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/first-job/" target="_self" title="Your first job">Your first job <span class="access">menu item level 3</span></a>
+            <a href="/moments/your-child-and-university/" target="_self" title="Your child and university">Your child and university <span class="access">menu item level 3</span></a>
         </li>
     
         <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
@@ -1373,140 +1878,119 @@
 
 
 
-                                </li>
-                            </ul>
-                        </div>
-                    </li>
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
 
-                
-                    <li aria-haspopup="true" data-component-type="MenuItemLevel1">
-                        <a href="#" aria-expanded="false">Fraud <span class="access">menu item level 1</span></a>
-                        <div class="nav-l2" aria-hidden="true">
+    
+
+
+    
+
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Support for life <span class="access">menu item level 2</span></a>
+    <div class="nav-l3" aria-hidden="true">
+    <ul>
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/money-management/" target="_self" title="Money management">Money management <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/mortgages/first-time-buyers/" target="_self" title="Buying your first home">Buying your first home <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/digital-confidence/" target="_self" title="Getting digital skills">Getting digital skills <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/travel/" target="_self" title="Travelling abroad">Travelling abroad <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/moments/improving-your-home/" target="_self" title="Improving your home">Improving your home <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/moments/armed-forces-when-you-are-serving/" target="_self" title="Serving armed forces">Serving armed forces <span class="access">menu item level 3</span></a>
+        </li>
+    </ul>
+    </div>
+
+    
+
+
+
+
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
+
+    
+
+
+    
+
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">Your future <span class="access">menu item level 2</span></a>
+    <div class="nav-l3" aria-hidden="true">
+    <ul>
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/first-job/" target="_self" title="Your first job">Your first job <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/starting-a-family/" target="_self" title="Starting a family">Starting a family <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/moments/new-to-the-uk/" target="_self" title="Moving to the UK">Moving to the UK <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/moments/getting-married/" target="_self" title="Getting married">Getting married <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/moments/preparing-for-later-life/" target="_self" title="Later life">Later life <span class="access">menu item level 3</span></a>
+        </li>
+    
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/moments/armed-forces-when-you-have-served/" target="_self" title="Armed Forces veterans">Armed Forces veterans <span class="access">menu item level 3</span></a>
+        </li>
+    </ul>
+    </div>
+
+    
+
+
+
+
+                                    </li>
+                                    <li aria-haspopup="true" data-component-type="MenuItemLevel2">
+                                        
+
+    
+
+
+    
+
+    <a href="#" aria-expanded="false" data-nav-link="#" role="heading">More life moments <span class="access">menu item level 2</span></a>
+    <div class="nav-l3" aria-hidden="true">
+    <ul>
+        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
+            <a href="/moments/" target="_self" title="Explore all moments">Explore all moments <span class="access">menu item level 3</span></a>
+        </li>
+    </ul>
+    </div>
+
+    
+
+
+
+
+                                    </li>
+                                </ul>
                             
-                            <ul>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
-
-    
-
-
-    
-
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Types of fraud <span class="access">menu item level 2</span></a>
-    <div class="nav-l3" aria-hidden="true">
-    <ul>
-        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/security/" target="_self" title="Protect yourself from fraud">Protect yourself from fraud <span class="access">menu item level 3</span></a>
-        </li>
-    
-        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/security/digitally-safe-quiz/" target="_self" title="Test your fraud knowledge">Test your fraud knowledge <span class="access">menu item level 3</span></a>
-        </li>
-    
-        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/security/how-fraudsters-make-contact/" target="_self" title="How fraudsters could contact you">How fraudsters could contact you <span class="access">menu item level 3</span></a>
-        </li>
-    
-        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/security/financial-scams/" target="_self" title="Types of scams">Types of scams <span class="access">menu item level 3</span></a>
-        </li>
-    </ul>
-    </div>
-
-    
-
-
-
-
-                                </li>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
-
-    
-
-
-    
-
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Fraud prevention <span class="access">menu item level 2</span></a>
-    <div class="nav-l3" aria-hidden="true">
-    <ul>
-        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/security/fraud-prevention-features/" target="_self" title="Fraud prevention features">Fraud prevention features <span class="access">menu item level 3</span></a>
-        </li>
-    
-        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/security/protecting-your-account/" target="_self" title="Keeping your money safe">Keeping your money safe <span class="access">menu item level 3</span></a>
-        </li>
-    
-        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/security/keep-your-accounts-safe/" target="_self" title="Actions to help keep your accounts safe">Actions to help keep your accounts safe <span class="access">menu item level 3</span></a>
-        </li>
-    
-        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/security/mobile-and-online-banking-security/" target="_self" title="Our Online and Mobile Banking guarantee">Our Online and Mobile Banking guarantee <span class="access">menu item level 3</span></a>
-        </li>
-    </ul>
-    </div>
-
-    
-
-
-
-
-                                </li>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
-
-    
-
-
-    
-
-    <a href="#" data-nav-link="#" aria-describedby="ariaOpenConfirm ariaLeftRightArrowMoveBetweenHeading ariaUpDownArrow">Tools and support <span class="access">menu item level 2</span></a>
-    <div class="nav-l3" aria-hidden="true">
-    <ul>
-        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/security/phone-number-lookup/" target="_self" title="Phone number checker">Phone number checker <span class="access">menu item level 3</span></a>
-        </li>
-    
-        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/security/free-kaspersky-internet-security/" target="_self" title="Free Kaspersky security software">Free Kaspersky security software <span class="access">menu item level 3</span></a>
-        </li>
-    
-        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/security/reporting-fraud/" target="_self" title="Reporting fraud">Reporting fraud <span class="access">menu item level 3</span></a>
-        </li>
-    
-        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="/help/reporting-fraud/reporting-fraud/" target="_self" title="FAQs">FAQs <span class="access">menu item level 3</span></a>
-        </li>
-    
-        <li aria-controls="contentSection" data-component-type="MenuItemLevel3">
-            <a href="https://events.uk.barclays/teaandteach" target="_self" title="Tea and Teach">Tea and Teach <span class="access">menu item level 3</span></a>
-        </li>
-    </ul>
-    </div>
-
-    
-
-
-
-
-                                </li>
-                                <li aria-haspopup="true" data-component-type="MenuItemLevel2">
-                                    
-
-    
-
-
-    
-    
-
-
-
-
-                                </li>
-                            </ul>
+                            
                         </div>
                     </li>
 
@@ -1521,9 +2005,9 @@
 
 
 
-    </header>
+    <p class="access" aria-hidden="true" id="ariaOpenConfirm">sub heading level 2 of expanded menu item level 1.</p><p class="access" aria-hidden="true" id="ariaLeftRightArrowMoveBetweenHeading">Use left and right arrow to move around sub heading of menu.</p><p class="access" aria-hidden="true" id="ariaUpDownArrow">Use up and down arrow or tab to navigate between each link and section.</p><p class="access" aria-hidden="true" id="ariaClearField">Press enter to clear text field.</p><p class="access" aria-hidden="true" id="ariaOpenConfirm">sub heading level 2 of expanded menu item level 1.</p><p class="access" aria-hidden="true" id="ariaLeftRightArrowMoveBetweenHeading">Use left and right arrow to move around sub heading of menu.</p><p class="access" aria-hidden="true" id="ariaUpDownArrow">Use up and down arrow or tab to navigate between each link and section.</p><p class="access" aria-hidden="true" id="ariaClearField">Press enter to clear text field.</p></header>
 
-</article>
+</div>
 			
 		
 		
@@ -1535,7 +2019,7 @@
 
 
 <div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys cookies"><div class="parbase section cookies">
+</div><div class="iparys_inherited"><div class="cookies iparsys parsys"><div class="cookies parbase section">
         
 
     <div class="mod-cookieprompt cookieprompt js-cookie-panel" data-component-type="CookiesWarning" role="alert">
@@ -1544,7 +2028,7 @@
             <div class="row cookieprompt-wrapper">
 
                 <div class="col-xs-12 col-md-9 col-lg-10">
-                    <h3>Updated cookies policy - you'll see this message only once.</h3>
+                    <p class="h3" role="heading" aria-level="2">Updated cookies policy - you'll see this message only once.</p>
                     <div class="cookieprompt-content">
                         
     
@@ -1552,11 +2036,8 @@
 
     
     
-    
-<p>Barclays uses cookies on this website. They help us to know a little bit about you and how you use our website, which improves the browsing experience and marketing - both for you and for others. They are stored locally on your computer or mobile device. To accept cookies continue browsing as normal. Or go to the&nbsp;<a href="http://www.barclays.co.uk/P1242680796797">cookies policy&nbsp;</a>for more information and preferences.<br>
+    <p>Barclays uses cookies on this website. They help us to know a little bit about you and how you use our website, which improves the browsing experience and marketing - both for you and for others. They are stored locally on your computer or mobile device. To accept cookies continue browsing as normal. Or go to the&nbsp;<a href="https://www.barclays.co.uk/P1242680796797">cookies policy&nbsp;</a>for more information and preferences.<br>
 </p>
-
-
 
 
                     </div>
@@ -1575,17 +2056,15 @@
 
 
 <div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys upgrade-browser iparsys"><div class="parbase upgrade-browser section">
+</div><div class="iparys_inherited"><div class="upgrade-browser iparsys parsys"><div class="upgrade-browser parbase section">
     
 
     
         <!--[if lt IE 9]>
         <div class="upgrade-browser-banner message-region notification" role="alert">
             <p class="i-msg-info h4">Please upgrade your browser</p>
-            <p><p>To have the best experience using our site, please upgrade to one of the latest browsers.</p>
+            <p>To have the best experience using our site, please upgrade to one of the latest browsers.</p>
 
-
-</p>
         </div>
         <![endif]-->
     
@@ -1596,12 +2075,17 @@
 
 
 
-<main class="main" role="content" id="main-content">
+<main class="main" role="main" id="main-content">
+
+    <!-- Placeholder <a> tag to ensure main content receives focus with skip link -->
+    <div class="skipwrapper"><a id="skip-nav" name="skip-nav">-</a></div>
+
     
     
     
 
     <section data-component-type="Hero">
+        
         
         
         
@@ -1625,15 +2109,22 @@
     </div>
 
 
+    
     <div class="jumbo-body">
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-8 col-md-offset-1 col-lg-8 col-lg-offset-1">
             <div class="jumbo-content aperture-left">
-              <h1 class="h2 jumbo-title">Privacy policy</h1>
+              
+              
+              
+                <h1 class="h2 jumbo-title">Privacy policy</h1>
+              
               
             </div>
             <div class="jumbo-content">
+              
+              
               
     
     
@@ -1643,9 +2134,8 @@
     <p>This policy relates to the privacy of your information at barclays.co.uk</p>
 
 
-
-
               
+
 
 
             </div>
@@ -1658,33 +2148,29 @@
         
     </section>
 
+    
+        <div>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-xs-12">
+                        
 
 
 
-<script type="text/javascript" src="/etc/clientlibs/granite/jquery.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/utils.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/shared.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/lodash/modern.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/personalization/kernel.js"></script>
-<script type="text/javascript">
-    $CQ(function() {
-        CQ_Analytics.SegmentMgr.loadSegments("\/etc\/segmentation");
-        CQ_Analytics.ClientContextUtils.init("\/etc\/clientcontext\/default", "\/content\/barclaysuk\/en\/personal\/important\-information\/privacy\-policy");
-
-        
-    });
-</script>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
 
 
     <div>
         
 
-    
-    
-    
-    
+
+
+
+
     
     
 
@@ -1695,15 +2181,17 @@
                 <div class="col-xs-12">
                     
 
-    
-    
-    
-    
+
+
+
+
     
 
     <div class="row">
-        <div class="col-sm-6 col-sm-offset-3 wrapper-heading">
-            
+        <div class="col-sm-6 col-sm-offset-3">
+            <div class="wrapper-heading">
+            	
+            </div>
             
     
     
@@ -1716,72 +2204,43 @@
     </div>
 
 
-    
-    
-    
-    
+
+
+
+
+
     
     
 
     
     <div class=" row">
         <div class="col-xs-12 col-md-8 col-md-offset-2">
-            <h2>General principles</h2>
-
-<p>Barclays is committed to keeping your information private. By 'your information' we mean any information about you that you or third parties provide to us. This policy relates to the privacy of your information at barclays.co.uk. The Barclays Group's Privacy Principles explain how we will handle your information – and they're below.</p>
-
+           <h2>General principles</h2>
+<p>We are committed to keeping your information private. By 'your information' we mean any information about you that you or third parties provide to us. This policy relates to the privacy of your information at barclays.co.uk.&nbsp;</p>
 <h3>Customers</h3>
-
-<p>If you’re a personal customer of Barclays Bank PLC, the way in which information about you is held and used is described in section 10 of our Customer Agreement (or the terms and conditions of the accounts you hold with Barclays if they differ from the Retail Customer Agreement). If you’re a business customer, an authorised person on a business account, a user of our electronic banking services or a customer of any other Barclays Group company (for example Barclays Stockbrokers Ltd), the terms and conditions of your accounts and agreement terms will inform you how those group companies will hold and use your information.</p>
-
+<p>We are committed to protecting your personal data. We’ll use your information for a number of different purposes, for example to provide our services to you and others and to meet our legal and regulatory obligations. If you’re an existing customer, for more detailed information on how and why we use your information, including the rights in relation to your personal data, and our legal grounds for using it, please go to <a href="/important-information/control-your-data/" target="_blank" title="Opens in a new window">barclays.co.uk/important-information/control-your-data</a> or you can request a copy of your privacy notice.</p>
 <h3>Online services</h3>
-
 <ol>
 <li><b>Information we collect</b><br>
 <br>
-If you register to use our secure services, such as online banking, we’ll ask you to provide some information about yourself for security, identification and verification purposes. <br>
-When completing any online forms, we’ll tell you how your information will be used in relation to the product or service you’re applying for, within the form and in any associated terms and conditions. <br>
-Where you provide information about others (for example, for joint accounts or if you are ‘recommending a friend’) you must ensure that you have their consent or are otherwise entitled to provide this information to us. <br>
-We will retain information collected about you online for as long as permitted for legitimate business purposes.<br>
+If you register to use our secure services, such as online banking, we’ll ask you to provide some information about yourself for security, identification and verification purposes.<br>
+Where you provide information about others (for example, for joint accounts or if you are ‘recommending a friend’) you must ensure that you have their consent or are otherwise entitled to provide this information to us.<br>
 <b><br>
  </b></li>
 <li><b>Use of cookies</b><br>
 <br>
-For information about cookies and how they’re used on this website, visit our cookies page.</li>
+For information about cookies and how they’re used on this website, visit our <a title="Opens in a new window" href="/important-information/cookies-policy/" target="_blank">cookies</a> page.</li>
 </ol>
-
-<h3>Barclays privacy principles</h3>
-
-<p>Barclays is committed to safeguarding the privacy of your information. By 'your information' we mean any information about you that you or third parties provide to us.</p>
-
-<ul>
-<li>We will only collect and use your information where we have lawful grounds and legitimate business reasons to do so</li>
-<li>We will be transparent in our dealings with you and will tell you about how we will collect and use your information</li>
-<li>If we have collected your information for a particular purpose, we will not use it for anything else unless you have been informed and, where relevant, your permission obtained</li>
-<li>We will not ask for more information than we need for the purposes for which we are collecting it</li>
-<li>We will update our records when you inform us that your details have changed</li>
-<li>We will continue to review and assess the quality of our information</li>
-<li>We will implement and adhere to information retention policies relating to your information, and will ensure that your information is securely disposed of at the end of the appropriate retention period</li>
-<li>We will observe the rights granted to you under applicable privacy and data protection laws, and will ensure that queries relating to privacy issues are promptly and transparently dealt with</li>
-<li>We will train our staff on their privacy obligations</li>
-<li>We will ensure we have appropriate physical and technological security measures to protect your information regardless of where it’s held</li>
-<li>We will ensure that when we outsource any processes, the supplier has appropriate security measures in place and will contractually require them to comply with these Privacy Principles</li>
-<li>We will ensure that suitable safeguards are in place before personal information is transferred to other countries</li>
-</ul>
-
 <p>You’re not required to provide any personal information on the public areas of this website. However, you may choose to do so by completing the forms on various pages of the site. We’ll only use the information you provide to us on these pages in order to process the relevant form. Please see the privacy wording on the relevant form for a more detailed explanation of how your information will be used.</p>
-
 <p>If you’re a Barclays customer or already have a relationship with us, you will have been advised by various methods about how we collect and use your information.</p>
-
-<p>If you have any questions about privacy at Barclays, please contact the Barclays Privacy and Data Protection Team at 1 Churchill Place, London E14 5HP.</p>
-
-<p>Last updated 10 October 2013</p>
-
-
+<p>If you have any questions about privacy at Barclays, please contact The Data Protection Officer, Barclays Bank UK PLC, Leicester, LE87 2BB or <a href="mailto:DPO@Barclays.com">DPO@Barclays.com</a>.</p>
+<p>Last updated 25 May 2018</p>
 
         </div>
     </div>
     
+
+
 
 
 
@@ -1789,6 +2248,8 @@ For information about cookies and how they’re used on this website, visit our 
             </div>
         </div>
     </section>
+
+
 
 
 
@@ -1811,8 +2272,14 @@ For information about cookies and how they’re used on this website, visit our 
 </main>
 
 
-<div class="footer parsys iparsys"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="footer parsys iparsys"><div class="reference parbase section">
+
+
+
+
+
+
+<div class="footer iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer iparsys parsys"><div class="reference parbase section">
 
 	
 	
@@ -1822,10 +2289,14 @@ For information about cookies and how they’re used on this website, visit our 
 	
 		
 			
-				<article>
+				<div>
 
 <footer class="footer" id="globalfooter">
-    <div class="footer-links">
+
+    <!-- Placeholder <a> tag to ensure footer receives focus with skip link -->
+    <div class="skipwrapper"><a id="skip-main" name="skip-main">-</a></div>
+
+    <div class="footer-links" role="navigation" aria-label="Footer navigation">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-xs-6 col-md-3 col-lg-2 col-lg-offset-2">
@@ -1843,11 +2314,11 @@ For information about cookies and how they’re used on this website, visit our 
         
             <li><a href="/security/" target="_self" title="Protect yourself from fraud">Protect yourself from fraud</a></li>
         
-            <li><a href="http://www.barclays.co.uk/Helpsupport/Lostorstolendebitcreditcard/P1242578094949" target="_self" title="Lost or stolen card">Lost or stolen card</a></li>
+            <li><a href="/security/card-fraud/" target="_self" title="Lost or stolen card">Lost or stolen card</a></li>
         
-            <li><a href="https://www.help.barclays.co.uk/home.html" target="_self" title="Help &amp; FAQs">Help &amp; FAQs</a></li>
+            <li><a href="/help/" target="_self" title="Help">Help</a></li>
         
-            <li><a href="/branch-finder/" target="_self" title="Branch Finder">Branch Finder</a></li>
+            <li><a href="/branchfinder/" target="_self" title="Branch Finder">Branch Finder</a></li>
         </ul>
     </div>
 
@@ -1867,13 +2338,15 @@ For information about cookies and how they’re used on this website, visit our 
     <div class="links" data-component-type="Footer">
         <h2></h2>
         <ul data-component-type="Link">
-            <li><a href="http://www.barclays.co.uk/ImportantInformation/CPPInformationCardProtectionInsuranceandIdentityProtectionAlert/P1242648135175" target="_self" title="CPP">CPP</a></li>
+            <li><a href="/important-information/ppi/" target="_self" title="PPI information">PPI information</a></li>
         
-            <li><a href="http://www.barclays.co.uk/Helpsupport/Personaloverdraftfees/P1242562460906" target="_self" title="Overdraft charges">Overdraft charges</a></li>
+            <li><a href="/important-information/arrears-assistance-review/" target="_self" title="Arrears assistance review">Arrears assistance review</a></li>
         
-            <li><a href="/important-information/ppi/" target="_self" title="PPI">PPI</a></li>
+            <li><a href="/current-accounts/bank-account/overdrafts/" target="_self" title="Barclays Overdraft">Barclays Overdraft</a></li>
         
-            <li><a href="https://status.uk.barclays/" target="_blank" title="Service status">Service status</a></li>
+            <li><a href="https://status.uk.barclays/" target="_self" title="Service status">Service status</a></li>
+        
+            <li><a href="/important-information/bank-of-england-base-rate-change/" target="_self" title="Bank of England base rate">Bank of England base rate</a></li>
         </ul>
     </div>
 
@@ -1893,15 +2366,15 @@ For information about cookies and how they’re used on this website, visit our 
     <div class="links" data-component-type="Footer">
         <h2></h2>
         <ul data-component-type="Link">
-            <li><a href="http://www.barclays.co.uk/Security/ISO27001certification/P1242561780370" target="_self" title="Security certification">Security certification</a></li>
+            <li><a href="/security/ISO27001certification/" target="_self" title="Security certification">Security certification</a></li>
         
-            <li><a href="http://www.barclays.co.uk/ImportantInformation/Importantinformation/P1242558020304" target="_self" title="Legal information">Legal information</a></li>
+            <li><a href="/important-information/" target="_self" title="Legal information">Legal information</a></li>
         
-            <li><a href="http://www.barclays.co.uk/Accessibility/Accessibility/P1242623451150" target="_self" title="Accessibility">Accessibility</a></li>
+            <li><a href="/accessibility/" target="_self" title="Accessibility">Accessibility</a></li>
         
-            <li><a href="/important-information/cookies-policy/" target="_self" title="Cookies policy">Cookies policy</a></li>
+            <li><a href="/important-information/cookies-policy/" target="_self" title="Cookies">Cookies</a></li>
         
-            <li><a href="http://www.barclays.co.uk/ImportantInformation/Privacypolicy/P1242557966945" target="_self" title="Privacy policy">Privacy policy</a></li>
+            <li><a href="/important-information/privacy-policy/" target="_self" title="Privacy policy">Privacy policy</a></li>
         </ul>
     </div>
 
@@ -1923,13 +2396,13 @@ For information about cookies and how they’re used on this website, visit our 
         <ul data-component-type="Link">
             <li><a href="http://jobs.barclays.co.uk/" target="_self" title="Careers">Careers</a></li>
         
-            <li><a href="http://www.home.barclays/" target="_self" title="home.barclays">home.barclays</a></li>
+            <li><a href="https://www.home.barclays/" target="_self" title="home.barclays">home.barclays</a></li>
         
-            <li><a href="http://www.barclays.co.uk/mortgages/mortgage-calculator" target="_self" title="Mortgage calculator">Mortgage calculator</a></li>
+            <li><a href="/mortgages/mortgage-calculator/" target="_self" title="Mortgage calculators">Mortgage calculators</a></li>
         
-            <li><a href="http://www.barclays.co.uk/Loans/P1242557963420" target="_self" title="Loans">Loans</a></li>
+            <li><a href="/loans/" target="_self" title="Compare our loans">Compare our loans</a></li>
         
-            <li><a href="http://www.barclays.co.uk/CurrentAccounts/P1242557963414" target="_self" title="Current accounts">Current accounts</a></li>
+            <li><a href="/current-accounts/" target="_self" title="Current accounts">Current accounts</a></li>
         </ul>
     </div>
 
@@ -1941,30 +2414,25 @@ For information about cookies and how they’re used on this website, visit our 
             </div>
         </div>
     </div>
-    <div class="footer-legal">
+    <div class="footer-legal" role="contentinfo">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 legal">
                     
                     
-                    
-
-    
-    
-    
-    
+                    <div class="text section">
     
     
 
     
     
-    <p>Barclays Bank PLC. Authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (Financial Services Register number: 122702). Barclays Bank PLC adheres to The Standards of Lending Practice which is monitored and enforced by The Lending Standards Board. Further details can be found at www.lendingstandardsboard.org.uk. Barclays Insurance Services Company Limited is authorised and regulated by the Financial Conduct Authority (Financial Services Register number: 312078).</p>
+    <p style="text-align: center;">Barclays Bank UK PLC. Authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (Financial Services Register number: 759676). Barclays Bank UK PLC adheres to The Standards of Lending Practice which is monitored and enforced by The Lending Standards Board. Further details can be found at <a title="Opens in a new window" href="http://www.lendingstandardsboard.org.uk" target="_blank">www.lendingstandardsboard.org.uk</a>.</p>
+<p style="text-align: center;">Barclays Insurance Services Company Limited is authorised and regulated by the Financial Conduct Authority (Financial Services Register number: 312078).</p>
+<p style="text-align: center;">Barclays Smart Investor is a trading name of Barclays Investment Solutions Limited. Barclays Investment Solutions Limited is authorised and regulated by the Financial Conduct Authority. (Financial Services Register number: 155595). Barclays Investment Solutions Limited is a member of the London Stock Exchange &amp; NEX.</p>
+<p style="text-align: center;">Barclays Bank PLC. Authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (Financial Services Register number: 122702).</p>
+<p style="text-align: center;">Barclays Bank UK PLC. Registered no. 9740322. Barclays Insurance Services Company Limited. Registered no. 973765. Barclays Investment Solutions Limited. Registered no. 2752982. Barclays Bank PLC. Registered no. 1026167. All registered in England. Registered office for all: 1 Churchill Place, London E14 5HP.</p>
 
-<p>Barclays Bank PLC. Registered in England. Registered no. 1026167. Barclays Insurance Services Company Limited. Registered in England. Registered no. 973765. Registered office for both: 1 Churchill Place, London E14 5HP. 'The Woolwich' and 'Woolwich' are trademarks and trading names of Barclays Bank PLC. Barclays Business is a trading name of Barclays Bank PLC.</p>
-
-
-
-
+</div>
 
 
                 </div>
@@ -1973,109 +2441,95 @@ For information about cookies and how they’re used on this website, visit our 
 
                     
 
-                    <div class="ftr-img-contnr text-centre">
-
-    
-    
-    
-    
+                    <div class="ftr-img-contnr text-centre"><div class="image parbase section">
    
    
     
     
     
 
-    
-    
-        <picture>
-            <!--[if IE 9]><video style="display: none;"><![endif]-->
-            <source srcset="/content/dam/icons/fscs.large.medium_quality.jpg" media="(min-width: 1440px)">
-            <source srcset="/content/dam/icons/fscs.medium.medium_quality.jpg" media="(min-width: 1024px)">
-            <source srcset="/content/dam/icons/fscs.small.medium_quality.jpg" media="(min-width: 768px)">
-            <source srcset="/content/dam/icons/fscs.xsmall.medium_quality.jpg" media="(min-width: 480px)">
-            <source srcset="/content/dam/icons/fscs.xxsmall.medium_quality.jpg">
-            <!--[if IE 9]></video><![endif]-->
-            <img class="adaptive-image " src="/content/dam/icons/fscs.full.high_quality.jpg" title="fscs">
-        </picture>
-    
+    <div data-component-type="Image">
+        
+        
+            <picture>
+                <!--[if IE 9]>
+                <video style="display: none;"><![endif]-->
+                <source srcset="/content/dam/lifestyle-images/personal/miscellaneous/FSCS_logo.large.medium_quality.jpg" media="(min-width: 1440px)">
+                <source srcset="/content/dam/lifestyle-images/personal/miscellaneous/FSCS_logo.medium.medium_quality.jpg" media="(min-width: 1024px)">
+                <source srcset="/content/dam/lifestyle-images/personal/miscellaneous/FSCS_logo.small.medium_quality.jpg" media="(min-width: 768px)">
+                <source srcset="/content/dam/lifestyle-images/personal/miscellaneous/FSCS_logo.xsmall.medium_quality.jpg" media="(min-width: 480px)">
+                <source srcset="/content/dam/lifestyle-images/personal/miscellaneous/FSCS_logo.xxsmall.medium_quality.jpg">
+                <!--[if IE 9]></video><![endif]-->
+                <img class="adaptive-image " src="/content/dam/lifestyle-images/personal/miscellaneous/FSCS_logo.full.high_quality.jpg" alt="fscs protected">
+            </picture>
+            
+        
+    </div>
 
-
-
-    
-    
-    
-    
+</div>
+<div class="image parbase section">
    
    
     
     
     
 
-    
-    
-        <picture>
-            <!--[if IE 9]><video style="display: none;"><![endif]-->
-            <source srcset="/content/dam/icons/KiteMark_Footer_ROLB.large.medium_quality.png" media="(min-width: 1440px)">
-            <source srcset="/content/dam/icons/KiteMark_Footer_ROLB.medium.medium_quality.png" media="(min-width: 1024px)">
-            <source srcset="/content/dam/icons/KiteMark_Footer_ROLB.small.medium_quality.png" media="(min-width: 768px)">
-            <source srcset="/content/dam/icons/KiteMark_Footer_ROLB.xsmall.medium_quality.png" media="(min-width: 480px)">
-            <source srcset="/content/dam/icons/KiteMark_Footer_ROLB.xxsmall.medium_quality.png">
-            <!--[if IE 9]></video><![endif]-->
-            <img class="adaptive-image " src="/content/dam/icons/KiteMark_Footer_ROLB.full.high_quality.png" title="KiteMark_Footer_ROLB">
-        </picture>
-    
+    <div data-component-type="Image">
+        
+        
+            <picture>
+                <!--[if IE 9]>
+                <video style="display: none;"><![endif]-->
+                <source srcset="/content/dam/lifestyle-images/personal/miscellaneous/BSI_kitemark_logo.large.medium_quality.jpg" media="(min-width: 1440px)">
+                <source srcset="/content/dam/lifestyle-images/personal/miscellaneous/BSI_kitemark_logo.medium.medium_quality.jpg" media="(min-width: 1024px)">
+                <source srcset="/content/dam/lifestyle-images/personal/miscellaneous/BSI_kitemark_logo.small.medium_quality.jpg" media="(min-width: 768px)">
+                <source srcset="/content/dam/lifestyle-images/personal/miscellaneous/BSI_kitemark_logo.xsmall.medium_quality.jpg" media="(min-width: 480px)">
+                <source srcset="/content/dam/lifestyle-images/personal/miscellaneous/BSI_kitemark_logo.xxsmall.medium_quality.jpg">
+                <!--[if IE 9]></video><![endif]-->
+                <img class="adaptive-image " src="/content/dam/lifestyle-images/personal/miscellaneous/BSI_kitemark_logo.full.high_quality.jpg" alt="bsi. Secure Digital Transactions. KITEMARK. Certificate number KM 616800">
+            </picture>
+            
+        
+    </div>
 
-
-
-    
-    
-    
-    
+</div>
+<div class="image parbase section">
    
    
     
     
     
 
-    
-    
-        <picture>
-            <!--[if IE 9]><video style="display: none;"><![endif]-->
-            <source srcset="/content/dam/icons/Cyber_Footer_ROLB.large.medium_quality.jpg" media="(min-width: 1440px)">
-            <source srcset="/content/dam/icons/Cyber_Footer_ROLB.medium.medium_quality.jpg" media="(min-width: 1024px)">
-            <source srcset="/content/dam/icons/Cyber_Footer_ROLB.small.medium_quality.jpg" media="(min-width: 768px)">
-            <source srcset="/content/dam/icons/Cyber_Footer_ROLB.xsmall.medium_quality.jpg" media="(min-width: 480px)">
-            <source srcset="/content/dam/icons/Cyber_Footer_ROLB.xxsmall.medium_quality.jpg">
-            <!--[if IE 9]></video><![endif]-->
-            <img class="adaptive-image " src="/content/dam/icons/Cyber_Footer_ROLB.full.high_quality.jpg" title="Cyber_Footer_ROLB">
-        </picture>
-    
+    <div data-component-type="Image">
+        
+        
+            <picture>
+                <!--[if IE 9]>
+                <video style="display: none;"><![endif]-->
+                <source srcset="/content/dam/lifestyle-images/personal/miscellaneous/CE_logo.large.medium_quality.jpg" media="(min-width: 1440px)">
+                <source srcset="/content/dam/lifestyle-images/personal/miscellaneous/CE_logo.medium.medium_quality.jpg" media="(min-width: 1024px)">
+                <source srcset="/content/dam/lifestyle-images/personal/miscellaneous/CE_logo.small.medium_quality.jpg" media="(min-width: 768px)">
+                <source srcset="/content/dam/lifestyle-images/personal/miscellaneous/CE_logo.xsmall.medium_quality.jpg" media="(min-width: 480px)">
+                <source srcset="/content/dam/lifestyle-images/personal/miscellaneous/CE_logo.xxsmall.medium_quality.jpg">
+                <!--[if IE 9]></video><![endif]-->
+                <img class="adaptive-image " src="/content/dam/lifestyle-images/personal/miscellaneous/CE_logo.full.high_quality.jpg" alt="Cyber essentials">
+            </picture>
+            
+        
+    </div>
 
-
+</div>
 
 </div>
 
                     
                     
 
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-
-
-
                 </div>
             </div>
         </div>
     </div>
-</footer></article>
+</footer></div>
 			
 		
 		
@@ -2093,8 +2547,9 @@ For information about cookies and how they’re used on this website, visit our 
 
 
 
+
 <div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="custom_tags_footer_sitewide parsys iparsys"><div class="custom_tag parbase section">
+</div><div class="iparys_inherited"><div class="custom_tags_footer_sitewide iparsys parsys"><div class="custom_tag parbase section">
 
 
 
@@ -2125,7 +2580,7 @@ For information about cookies and how they’re used on this website, visit our 
 		
 	   	
 	   		
-	    	<script>
+	    	<script type="text/javascript">
 	         window.barclays && barclays.privacy && barclays.privacy.gateway && barclays.privacy.gateway({
 	             'cat' : 'cat4',
 	             'code' : '%3Cscript%20src%3D%22%2Fcontent%2Fdam%2Fjavascript%2Fforesee.js%22%3E%20%3C%2Fscript%3E',
@@ -2149,6 +2604,7 @@ For information about cookies and how they’re used on this website, visit our 
 
 
 
+
    
 
 
@@ -2156,47 +2612,13 @@ For information about cookies and how they’re used on this website, visit our 
       var bcpublic = bcpublic || {};
       bcpublic.helpandsupport = bcpublic.helpandsupport || {};
       bcpublic.helpandsupport.rootConfig = {
- "cookieWebchat": [{
-  "segmentName": "1",
-  "evaluation": "1"
-  }],
- "cookieNav": [
-  {
-  "segmentName": "Personal",
-  "evaluation": "prevPage=Personal"
-  },
-  {
-  "segmentName": "Premier",
-  "evaluation": "prevPage=Premier"
-  },
-  {
-  "segmentName": "Business",
-  "evaluation": "prevPage=Business"
-  },
-  {
-  "segmentName": "Corporate",
-  "evaluation": "corporate"
-  }
- ],
- "cookieSegment": [
-  {
-  "segmentName": "Personal",
-  "evaluation": "segment=Personal"
-  },
-  {
-  "segmentName": "Premier",
-  "evaluation": "segment=Premier"
-  },
-  {
-  "segmentName": "Business",
-  "evaluation": "segment=Business"
-  }
- ],
- "cookieSecure": [{
-  "segmentName": "1",
-  "evaluation": "1"
-  }]
+ "cookieWebchat": [],
+ "cookieNav": [],
+ "cookieSegment": [],
+ "cookieSecure": [],
+ "cookieColleague": []
  };
+
    </script>
 
 
@@ -2207,6 +2629,14 @@ For information about cookies and how they’re used on this website, visit our 
     
 <script type="text/javascript" src="/etc/designs/bdl1.7.4/clientlib.js"></script>
 <script type="text/javascript" src="/etc/designs/componentlibrary/clientlib.js"></script>
+<script type="text/javascript" src="/etc/designs/componentlibrary/bcl/clientlib.js"></script>
+
+
+
+
+
+    
+<script type="text/javascript" src="/etc/designs/bdl-next/clientlib.js"></script>
 
 
 
@@ -2218,35 +2648,37 @@ For information about cookies and how they’re used on this website, visit our 
 
 
 
-<script>
-    barclays.privacy.gateway({
-        'cat': 'cat2',
-        'code': '%3Cscript%20src%3D%22%2Fetc%2Fdesigns%2Fcomponentlibrary%2Fsitecatalyst%2Fs_codecookiesv2.js%22%3E%3C%2Fscript%3E',
-        'replace': ''
-    });
-</script><script src="/etc/designs/componentlibrary/sitecatalyst/s_codecookiesv2.js"></script>
+
+    <script id="code-cookies-js" data-account="barukprod" data-cookiedomainperiod="3" data-channel="UKRBB">
+        barclays.privacy.gateway({
+            'cat': 'cat2',
+            'code': '%3Cscript%20src%3D%22%2Fetc%2Fdesigns%2Fcomponentlibrary%2Fsitecatalyst%2Fs_codecookiesv2.js%22%3E%3C%2Fscript%3E',
+            'replace': ''
+        });
+    </script><script src="/etc/designs/componentlibrary/sitecatalyst/s_codecookiesv2.js"></script>
+
 
     <script>
         var items = 'Personal,ImportantInformation,PrivacyPolicy'.split(',');
         var pageDepth = items.length;
         var querystring = window.location.search;
+
         if (querystring.charAt(0) === '?')
             querystring = querystring.substr(1);
 
-        if (typeof s != 'undefined') {
-        	// Branch finder changes
-        	if((typeof branchFinder !== 'undefined') && branchFinder  && branchFinder.analyticsPageHeader){
+        if (typeof s !== 'undefined') {
+            // Branch finder changes
+            if ((typeof branchFinder !== 'undefined') && branchFinder && branchFinder.analyticsPageHeader) {
                 s.pageName = branchFinder.analyticsPageHeader;
                 s.prop1 = "Public";
                 s.prop2 = branchFinder.analyticsPageHeader;
-        	}else{
+            } else {
                 s.pageName = items.join(':');
                 s.prop1 = items[0];
                 s.prop2 = pageDepth > 1 ? items.slice(0, 2).join(':') : '';
                 s.prop3 = pageDepth > 2 ? items.slice(0, 3).join(':') : '';
-        	}
+            }
 
-            
 
             s.prop16 = window.location.pathname;
             s.prop39 = 'Public';
