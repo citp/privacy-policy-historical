@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the districtlines.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503131534id_/https%3A//www.districtlines.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the districtlines.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103064539id_/https%3A//www.districtlines.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | District Lines
 
 **Who is collecting your information?**   
-This website is owned and operated by DISTRICT LINES, INC. ("District Lines"). District Lines is a subsidiary of AKT ENTERPRISES GROUP INC ("AKT") (http://www.aktenterprises.com/privacy_policy). This Privacy Policy applies to all District Lines' websites and subsidiaries. 
+This website is owned and operated by DISTRICT LINES, INC. ("District Lines"). This Privacy Policy applies to all District Lines' websites and subsidiaries. 
 
 **What information do we collect?**   
 We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey.   
@@ -48,7 +48,7 @@ Please note, changes may not be effective immediately. In each event, you must c
 **How do we protect your information?**   
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via the latest technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers. 
 
