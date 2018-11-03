@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestslogans.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504231453id_/http%3A//www.bestslogans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestslogans.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104004700id_/http%3A//www.bestslogans.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
