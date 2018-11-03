@@ -1,59 +1,354 @@
-> *The following text is extracted and transformed from the boards2go.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502082850id_/http%3A//www.boards2go.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boards2go.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103140604id_/http%3A//www.boards2go.com/privacy.html) for the most accurate reproduction.*
 
 # Boards2Go.com - Free Message Board Hosting
 
-Your privacy is critically important to us. Our website (hereinafter referred to as We, Us or Our) is committed to maintaining your confidence and trust with respect to any information, recorded in any form, about an identified individual, or an individual whose identity may be inferred from the information. This includes, for example, name, e-mail, mailing address, and telephone number and other information incidental to providing the services offered on our Site (Personal Information). Individuals accessing the Site shall be referred to as You Your or Users. Services offered to Users are collectively referred to herein as the âService or Services. We intend to protect the Personal Information stored on the Site and this privacy statement describes how we intend to do that. **BY SUBMITTING PERSONAL INFORMATION TO US, BY USING OUR SITE, AND BY USING OUR SERVICES, YOU AGREE THAT WE MAY COLLECT, USE AND DISCLOSE SUCH PERSONAL INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY AND AS PERMITTED OR REQUIRED BY LAW.** If you do not agree with these terms, do not provide any Personal Information to us. If you refuse or withdraw your consent, or if you choose not to provide us with any required Personal Information, we may not be able to provide you with products or services that can be offered on our Site. The following privacy statement explains our general policy and practices on safeguarding the data collected, processed, provided or transferred directly or indirectly by our clients in any form or manner. 
+## **Privacy Notice** Last update: 15/05/2018 Notice Version: 1.0
 
-**1\. INFORMATION WE COLLECT:**   
-1.1 You provide us information about yourself, such as your name and e-mail address, when you register with or use the website. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.   
-1.2 Your login and password details, in connection with the account sign-in process;   
-1.3 Details of any requests or usage of any service you make through the Service;   
-1.4 Information about your activity on and interaction with the Site and Services, such as your IP address and the device or browser you use;   
-1.5 Communications you send to us (for example, when you ask for support, send us questions or comments, or report a problem); and   
-1.6 Information that you submit to the Site in the form of comments, contributions to discussions, or messages to other users. 
+This document governs the privacy notice of our website www.boards2go.com. 
 
-**2\. NON-PERSONAL INFORMATION:** In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes. 
+### Our privacy notice tells you what personal data (PD) and non-personal data (NPD) we may collect from you, how we collect it, how we protect it, how we may share it, how you can access and change it, and how you can limit our sharing of it. Our privacy notice also explains certain legal rights that you have with respect to your personal data. Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our website.
 
-**3\. HOW WE USE YOUR INFORMATION:**   
-3.1 We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.   
-3.2 By providing us your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. You may not opt out of some Service-related communications. We may also use your email address to send you other messages, including changes to features of the Service and special offers. If you do not want to receive such email messages, you may opt out at any time by clicking Unsubscribe in any e-mail we send you. If you e-mail us directly, we may e-mail you back and keep records of all of our correspondence.   
-3.3 Opting out may prevent you from receiving email messages regarding updates, improvements, or offers.   
-3.4 We may use certain information about you and/or your User Content. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions. 
+_**Your Rights**_
 
-**4\. USES OF YOUR PERSONAL INFORMATION:** 4.1 We will use the personal information you provide to: a) Identify you when you sign in to your account; b) Enable us to provide you with the Services; c) Send you information we think you may find useful or which you have requested from us; d) Present ads to you when you use the Service which we believe will be of interest based on your geographic location and previous use of the Service; e) Administer your account with us; f) Enable us to contact you regarding any question you make through the Service; g) Analyze the use of the Service and the people visiting to improve our content and Services; and h) Use for other purposes that we may disclose to you when we request your information. 
+**When using our website and submitting personal data to us, you may have certain rights under the General Data Protection Regulation (GDPR) and other laws. Depending on the legal basis for processing your personal data, you may have some or all of the following rights:**
 
-**5\. DISCLOSURE OF YOUR INFORMATION:**   
-5.1 We may share your personally identifiable information with third parties for the purpose of providing services to you. We may store personal information in locations outside our direct control (for instance, on servers or databases co-located with hosting providers).   
-5.2 As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.   
-5.3 We may share your personal information with business partners who assist us by performing services such as hosting, fulfillment, or data storage and security related to our operation of the Site. Those business partners have all agreed to uphold the same standards of security and confidentiality that we have promised to you in this Privacy Policy and they will only use your information to carry out their specific business obligations to us.   
-5.4 We may be required to disclose personal information by law or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect our rights, property, or personal safety, our officers, users or others.   
-5.5 We may allow other companies, called third-party ad servers or ad networks, to serve advertisements or services on the website. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on our website. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. However, we do not control or take any responsibility for the actions of any such service providers, including without limitation if those service providers use your personal information in any inappropriate manner. We are not responsible for the privacy practices or the content of any other websites. We may share your personal information with unaffiliated businesses that you request to learn more information about or that you request to provide you with services.   
-5.6 You should consult the respective privacy policies of these third-party ad servers or ad networks. Our privacy policy does not apply to, and we cannot control the activities of, such advertisers. 
+_The right to be informed_
 
-**6\. HOW YOU CAN CORRECT OR REMOVE INFORMATION:**   
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, use our Contact Us page or Support forum. 
+You have the right to be informed about the personal data we collect from you, and how we process it. 
 
-**7\. CHANGES, UPDATES AND EFFECTIVE DATE:**   
-7.1 If we change this Privacy Policy in ways that affect the personally identifying information we have collected through Our Site, we will post those changes in this space and advise you of choices you may have as a result of those changes. We will also post a notice on our home page that this Privacy Policy has changed.   
-7.2 We may update this Privacy Policy from time to time as reasonably necessary to maintain standards predicated by the industry. Accordingly, users are responsible for reviewing our Privacy Policy for periodic updates. By using this website, users consent to our websites then currently existing Privacy Policy as of the date of a users use. A users continued use of this site following the posting of any changes to this Privacy Policy means such user has accepted and agrees to be bound by any such changes. 
+_The right of access_
 
-**8\. USE OF COOKIES AND WEB BEACONS:**   
-8.1 We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables us to recall your specific information on subsequent visits.   
-8.2 You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site.   
-8.3 A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site.   
-8.4 We may serve third-party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site.   
-8.5 Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.   
-8.6 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose. 
+You have the right to get confirmation that your personal data is being processed and have the ability to access your personal data.
 
-**9\. SECURITY MEASURES:**   
-9.1 We have implemented physical, electronic and procedural security features that are designed to prevent the unauthorized release of or access to personal information. Despite our efforts to protect your personal information, the confidentiality of any communication or material transmitted to or from our website via this Site or via e-mail cannot be and is not guaranteed. You acknowledge that the technical processing and transmission of the Site content may be transferred unencrypted and involve (a) transmissions over various networks and (b) changes to conform and adapt to technical requirements of connecting networks or devices. Accordingly, we are not responsible for the security of information transmitted via the Internet.   
-9.2 In addition, to protect your personal information, never share your password with anyone, and if you feel that your password has been discovered, you should change it immediately by logging on to the Site and accessing your profile to change your password or by contacting us at management@boards2go.com 
+_The right to rectification_  
+You have the right to have your personal data corrected if it is inaccurate or incomplete.  
+  
 
-**10\. AGE:**   
-People under 13 (or the legal age in your jurisdiction) are not permitted to use our site, and so this privacy policy makes no provision for their use of the site. 
 
-**11\. LINKS TO OTHER WEBSITES:**   
-The Site has links to other websites whose privacy practices may differ from Our Privacy Policy. If you allow another website to access your information and to store a copy of your personal information, that copy will be governed by that websites privacy policy. If you submit personal information to any of those sites, the privacy and security of your personal information is subject to their privacy statements. We are not responsible for the content, performance, or privacy policies of third-party websites. We encourage you to carefully read the privacy statement of any other website you visit. 
+_The right to erasure (right to be forgotten)_ **  
+**You have the right to request the removal or deletion of your personal data if there is no compelling reason for us to continue processing it.  
+  
 
-**12\. CONTACT US:**   
-If you submit Personal Information, such as your email address, to us by following the Contact Us link located throughout Our Site, we will use that Personal Information to respond to your question or request for information. We will not share your personal information with third parties without your explicit permission. If you have any questions or concerns about (a) access to personal information, (b) the collection, use, management or disclosure of personal information, (c) this privacy policy, or (d) with whom your personal information is shared, or if you need further assistance with respect to our privacy policy, you may follow the contact us section provided on the website. We will attempt to respond to your questions or concerns promptly. 
+
+_The right to restrict processing_  
+You have a right to ¿block¿ or restrict the processing of your personal data. When your personal data is restricted, we are permitted to store your data, but not to process it further.  
+  
+
+
+_The right to data portability_
+
+You have the right to request and get your personal data that you provided to us and use it for your own purposes. We will provide your data to you within 30 days of your request. To request your personal data, please contact us using the information at the top of this privacy notice.
+
+  
+_The right to object_ **  
+**You have the right to object to us processing your personal data for the following reasons:
+
+  * Processing was based on legitimate interests or the performance of a task in the public interest/exercise of official authority (including profiling);
+
+  * Direct marketing (including profiling); and
+
+  * Processing for purposes of scientific/historical research and statistics.
+
+  * Rights in relation to automated decision-making and profiling.
+
+
+
+
+_Automated individual decision-making and profiling_
+
+You will have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affects you.   
+  
+
+
+_Filing a complaint with authorities_
+
+You have the right to file a complaint with supervisory authorities if your information has not been processed in compliance with the General Data Protection Regulation. If the supervisory authorities fail to address your complaint properly, you may have the right to a judicial remedy.
+
+For details about your rights under the law, visit <https://goo.gl/F41vAV>
+
+_**Definitions**_
+
+¿ _Non-personal data¿ (NPD)_ is information that is in no way personally identifiable.   
+¿ _Personal data¿ (PD)_ means any information relating to an identified or identifiable natural person (¿data subject¿); an identifiable natural person is one who can be identified, directly or indirectly, by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. PD is in many ways the same as Personally Identifiable Information (PII). However, PD is broader in scope and covers more data.
+
+A ¿ _visitor_ ¿ is someone who merely browses our website. A ¿ _member_ ¿ is someone who has registered with us to use or buy our services and products. The term ¿ _user_ ¿ is a collective identifier that refers to either a visitor or a member.
+
+__Topics Covered in Our Privacy notice__
+
+### Information We Collect
+
+### Our Use of Cookies  
+How Your Information Is Used  
+Retaining and Destroying Your PD   
+Updating Your PD
+
+### Revoking Your Consent for Using Your PD
+
+Protecting the Privacy Rights of Third Parties
+
+### Do Not Track Settings
+
+### Links to Other Websites
+
+### Protecting Children¿s Privacy
+
+### Our Email Policy  
+Our Security Policy
+
+### Use of Your Credit Card
+
+Transferring PD from the European Union
+
+### Changes to Our Privacy Notice
+
+### Information We Collect
+
+Generally, you control the amount and type of information that you provide to us when using our website. 
+
+_**Our Legal Basis for Collecting and Processing Personal Data**_
+
+Our legal basis for collecting and processing your PD when you buy our products or services is based on and the necessity for the performance of a contract or to take steps to enter into a contract. Our legal basis for collecting and processing your PD when you sign up for our newsletter, giveaways, weekly tips, and information about our products and services through our website opt-in forms is based on consent.
+
+_**What Happens If You Don¿t Give Us Your PD  
+**_ If you do not provide us with enough PD, we may not be able to provide you with all our products and services. However, you can access and use some parts of our website without giving us your PD.   
+  
+
+
+**We Collect Your PD in the Following Ways:**
+
+####  Automatic Information
+
+We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our website, if any, as well as the name of the website you¿ll visit when you leave our website. This information also includes the IP address of your computer/the proxy server you use to access the Internet, your Internet service provider¿s name, your web browser type, the type of mobile device, your computer operating system, and data about your browsing activity when using our website. We use all this information to analyze trends among our users to help improve our website.
+
+#### 
+
+_**When Entering and Using Our Website**_
+
+When you enter and use our website and agree to accept cookies, some of these cookies may contain your PD.
+
+####  At User and Member Registration
+
+When you register as a user or member, we may collect some or all of the following information: your name, email address, user name, password. Ip address
+
+You also have the option (but you¿re not obliged to) to add the following data on your profile 
+
+your city, state, province, territory, country, occupation, gender, birthday, website URL , profile picture, social media links, and IM links , external links, copyright license and other information listed. 
+
+_**When Buying Products or Services**_
+
+If you buy products or services from us, we may collect some or all of the following information: your first and last name, your gender, email address, physical address, age, password, credit card or other payment information, phone number, and other information listed. 
+
+#### 
+
+####  Mobile Application
+
+If you use our mobile application, you may have to provide PD to use it. 
+
+### Our Use of Cookies
+
+Our website uses cookies. A cookie is a small piece of data or a text file that is downloaded to your computer or mobile device when you access certain websites. Cookies may contain text that can be read by the web server that delivered the cookie to you. The text contained in the cookie generally consists of a sequence of letters and numbers that uniquely identifies your computer or mobile device; it may contain other information as well. 
+
+_**By agreeing to accept our use of cookies, you are giving us, and third parties we partner with, permission to place, store, and access some or all the cookies described below on your computer.**_
+
+_Strictly Necessary Cookies_
+
+These cookies are necessary for proper functioning of the website, such as displaying content, logging in, validating your session, responding to your request for services, and other functions. Most web browsers can be set to disable the use of cookies. However, if you disable these cookies, you may not be able to access features on our website correctly or at all. 
+
+_Performance Cookies_
+
+These cookies collect information about the use of the website, such as pages visited, traffic sources, users¿ interests, content management, and other website measurements.
+
+_Functional Cookies_
+
+These cookies enable the website to remember a user¿s choices ¿ such as their language, user name, and other personal choices ¿ while using the website. They can also be used to deliver services, such as letting a user make a blog post, listen to audio, or watch videos on the website.
+
+_Media Cookies_
+
+These cookies can be used to improve a website¿s performance and provide special features and content. They can be placed by third parties who provide services to us or by our company.
+
+_Advertising or Targeting Cookies_
+
+These cookies are usually placed and used by advertising companies to develop a profile of your browsing interests and serve advertisements on other websites that are related to your interests. You will see less advertising if you disable these cookies.
+
+_Session Cookies_
+
+These cookies allow websites to link the actions of a user during a browser session. They may be used for a variety of purposes, such as remembering what a user has put in their shopping cart as they browse a website. Session cookies also permit users to be recognized as they navigate a website so that any item or page changes they make are remembered from page to page. Session cookies expire after a browser session; thus, they are not stored long term. 
+
+_Persistent Cookies_  
+These cookies are stored on a user¿s device in between browser sessions, which allows the user¿s preferences or actions across a site (or, in some cases, across different sites) to be remembered. Persistent cookies may be used for a variety of purposes, including remembering users¿ choices and preferences when using a website or to target advertising to them.
+
+_**We may also use cookies for:**_
+
+  * Identifying the areas of our website that you have visited
+
+  * Personalizing content that you see on our website
+
+  * Our website analytics
+
+  * Remarketing our products or services to you
+
+  * Remembering your preferences, settings, and login details
+
+  * Targeted advertising and serving ads relevant to your interests
+
+  * Affiliate marketing
+
+  * Allowing you to post comments
+
+  * Allowing you to share content with social networks
+
+
+
+
+  
+Most web browsers can be set to disable the use of cookies. However, if you disable cookies, you may not be able to access features on our website correctly or at all. 
+
+####  Web Beacons 
+
+We may also use a technology called web beacons to collect general information about your use of our website and your use of special promotions or newsletters. The information we collect by web beacons allows us to statistically monitor the number of people who open our emails. Web beacons also help us to understand the behavior of our customers, members, and visitors. 
+
+####  Google Ad and Content Network Privacy Notice
+
+Third-party vendors, including Google, use cookies to serve ads based on a user's past visits to our website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visits to our site and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting <http://www.aboutads.info/choices/> For European users visit http://www.youronlinechoices.eu  
+  
+
+
+#### 
+
+#### 
+
+####  Google Analytics Privacy Notice
+
+Our website uses Google Analytics to collect information about the use of our website. Google Analytics collects information from users such as age, gender, interests, demographics, how often they visit our website, what pages they visit, and what other websites they have used before coming to our website. We use the information we get from Google Analytics to analyze traffic, remarket our products and services to users, improve our marketing, advertising, and to improve our website. We have enabled Google Analytics advertising features such as remarketing with Google Analytics, Google Display Network Impression Reporting, and Google Analytics Demographics and Interest Reporting. Google Analytics collects only the IP address assigned to you on the date you visit our website, not your name or other identifying information. We do not combine the information collected using Google Analytics with PD. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit our website, the cookie cannot be used by anyone but Google. Google also uses specific identifiers to help collect information about the use of our website. For more information on how Google collects and processes your data, visit https://www.google.com/policies/privacy/partners/
+
+You can prevent Google Analytics from using your information by opting out at this link: https://tools.google.com/dlpage/gaoptout
+
+### 
+
+### How Your Information Is Used  
+
+
+We use the information we receive from you to:  
+  
+
+
+  * Provide our products and services you have requested or purchased from us
+
+  * Personalize and customize our content 
+
+  * Make improvements to our website
+
+  * Contact you with updates to our website
+
+  * Resolve problems and disputes
+
+  * Contact you with marketing and advertising   
+that we believe may be of interest to you
+
+
+
+
+####  Communications and Emails
+
+When we communicate with you about our website, we will use the email address you provided when you registered as a member or user. We may also send you emails with promotional information about our website or offers from us or our affiliates unless you have opted out of receiving such information. You can change your contact preferences at any time through your account or by sending us an email with your request to: http://www.boards2go.com/contact.html
+
+  
+_**Sharing Information With Affiliates and Other Third Parties**_
+
+We do not sell or rent your PD to third parties for marketing purposes. However, for data aggregation purposes we may use your NPD, which might be sold to other parties at our discretion. Any such data aggregation would not contain any of your PD. We may provide your PD to third-party service providers we hire to provide services to us. These third-party service providers may include but are not limited to: payment processors, web analytics companies, advertising networks, call centers, data management services, help desk providers, accountants, law firms, auditors, shopping cart and email service providers, and shipping companies.
+
+####  Legally Required Releases of Information
+
+We may be legally required to disclose your PD if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties, including you and/or other users or members; or (e) necessary to protect the legal rights, personal/real property, or personal safety of our company, users, employees, and affiliates.  
+  
+
+
+####  Disclosures to Successors
+
+If our business is sold or merges in whole or in part with another business that would become responsible for providing the website to you, we retain the right to transfer your PD to the new business. The new business would retain the right to use your PD according to the terms of this privacy notice as well as to any changes to this privacy notice as instituted by the new business. 
+
+We also retain the right to transfer your PD if our company files for bankruptcy and some or all of our assets are sold to another individual or business.
+
+####  Community Discussion Boards
+
+Our website may offer the ability for users to communicate with each other through online community discussion boards or other mechanisms. We do **** not filter or monitor what is posted on such discussion boards. If you choose to post on these discussion boards, you should use care when exposing any PD, as such information is not protected by our privacy notice nor are we liable if you choose to disclose your PD through such postings. Also, PD you post on our website for publication may be available worldwide by means of the Internet. We cannot prevent the use or misuse of such information by others.
+
+**Chat Software**  
+Our website contains live chat software that enable visitors to communicate with us live or by email without becoming a member or buying our products and services. When you use this live chat software, we may collect some or all the following information: your email address, first name, last name, location, and any other information you willingly choose to provide to us. You should limit the information you provide to us that is only necessary to answer your questions.
+
+_**Retaining and Destroying Your PD**_
+
+We retain information that we collect from you (including your PD) only for as long as we need it for legal, business, or tax purposes. Your information may be retained in electronic form, paper form, or a combination of both. When your information is no longer needed, we will destroy, delete, or erase it.
+
+### 
+
+### 
+
+### Updating Your PD
+
+You can update your PD using services found on our website. If no such services exist, you can contact us using the contact information found at the bottom of this notice and we will help you. 
+
+### 
+
+### Revoking Your Consent for Using Your PD 
+
+You have the right to revoke your consent for us to use your PD at any time. Such an optout will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates and business partners, (ii) disclosures to third-party service providers that provide certain services for our business, such as credit card processing, computer system services, shipping, data management services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments, or as otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third-party offers you may choose to accept. If you want to revoke your consent for us to use your PD, send us an email with your request to:  
+http://www.boards2go.com/contact.html
+
+_**Protecting the Privacy Rights of Third Parties**_
+
+If any postings you make on our website contain information about third parties, you must make sure you have permission to include that information in your posting. While we are not legally liable for the actions of our users, we reserve the right to remove any postings about which we are notified, if such postings violate the privacy rights of others.
+
+### Do Not Track Settings
+
+Some web browsers have settings that enable you to request that our website not track your movement within our website. Our website does not obey such settings when transmitted to and detected by our website. You can turn off tracking features and other security settings in your browser by referring to your browser¿s user manual.
+
+### Links to Other Websites
+
+Our website may contain links to other websites. These websites are not under our control and are not subject to our privacy notice. These websites will likely have their own privacy notices. We have no responsibility for these websites and we provide links to these websites solely for your convenience. You acknowledge that your use of and access to these websites are solely at your risk. It is your responsibility to check the privacy notices of these websites to see how they treat your PD. 
+
+### 
+
+### Protecting Children¿s Privacy
+
+Even though our website is not designed for use by anyone under the age of 16, we realize that a child under the age of 16 may attempt to access our website. We do not knowingly collect PD from children under the age of 16. If you are a parent or guardian and believe that your child is using our website, please contact us. Before we remove any information, we may ask for proof of identification to prevent malicious removal of account information. If we discover that a child is accessing our website, we will delete his/her information within a reasonable period of time. 
+
+### Our Email Policy
+
+You can always opt out of receiving further email correspondence from us or our affiliates. We will not sell, rent, or trade your email address to any unaffiliated third party without your permission except in the sale or transfer of our business, or if our company files for bankruptcy.
+
+### Our Security Policy
+
+We have built our website using industry-standard security measures and authentication tools to protect the security of your PD. We and the third parties who provide services for us, also maintain technical and physical safeguards to protect your PD. When we collect your credit card information through our website, we will encrypt it before it travels over the Internet using industry-standard technology for conducting secure online transactions. Unfortunately, we cannot guarantee against the loss or misuse of your PD or secure data transmission over the Internet because of its nature.   
+  
+
+
+We strongly urge you to protect any password you may have for our website and to not share it with anyone. You should always log out of our website when you finish using it, especially if you are sharing or using a computer in a public place.
+
+### Use of Your Credit Card
+
+You may have to provide a credit card to buy products and services from our website. We use third-party billing services and have no control over these services. We use our commercially reasonable efforts to make sure your credit card number is kept strictly confidential by using only third-party billing services that use industry-standard encryption technology to protect your credit card number from unauthorized use. However, you understand and agree that we are in no way responsible for any misuse of your credit card number. 
+
+_**Transferring PD From the European Union**_
+
+(PD) that we collect from you may be stored, processed, and transferred between any of the countries in which we operate. The European Union has not found the United States and some other countries to have an adequate level of protection of PD under Article 45 of the GDPR. Our company relies on derogations for specific situations as defined in Article 49 of the GDPR. For European Union customers and users, with your consent, your PD may be transferred outside the European Union to the United States and or other countries. We will use your PD to provide the goods, services, and/or information you request from us to perform a contract with you or to satisfy a legitimate interest of our company in a manner that does not outweigh your freedoms and rights. Wherever we transfer, process or store your PD, we will take reasonable steps to protect it. We will use the information we collect from you in accordance with our privacy notice. By using our website, services, or products, you agree to the transfers of your PD described within this section.
+
+### Changes to Our Privacy notice
+
+We reserve the right to change this privacy notice at any time. If our company decides to change this privacy notice, we will post those changes on our website so that our users and customers are always aware of what information we collect, use, and disclose. If at any time we decide to disclose or use your PD in a method different from that specified at the time it was collected, we will provide advance notice by email (sent to the email address on file in your account). Otherwise we will use and disclose our users¿ and customers¿ PD in agreement with the privacy notice in effect when the information was collected. In all cases, your continued use of our website, services, and products after any change to this privacy notice will constitute your acceptance of such change.
+
+### Questions About Our Privacy notice
+
+If you have any questions about our privacy notice, please contact us using the information at the top of this privacy notice.
+
+Data Controller Contact Information
+
+Landocs Capital  
+PO Box 2428, 
+
+Kiryat Ono Israel 55122
+
+http://www.boards2go.com/contact.html
+
+  
+© Copyright notice - This document is protected under the United States and foreign copyrights. The copying, redistribution, use or publication by you, is strictly prohibited. 
