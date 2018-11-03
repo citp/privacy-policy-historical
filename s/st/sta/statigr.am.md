@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statigr.am privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605224609id_/https%3A//pro.iconosquare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statigr.am privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103035428id_/https%3A//pro.iconosquare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Iconosquare
 
@@ -12,7 +12,7 @@ The Site complies with French and European provisions on the protection of priva
 
 ## 1\. Data controller
 
-The controller of personal data is TRIPNITY, a simplified joint-stock company with a capital of 150,500.00 euros, registered in the LIMOGES Trade and Companies Register under number 480 850 346 and whose head office is located 90 route du Palais - 87000 Limoges (hereinafter referred to as "ICONOSQUARE").
+The controller of personal data is TRIPNITY, a simplified joint-stock company with a capital of 150,500.00 euros, registered in the LIMOGES Trade and Companies Register under number 480 850 346 and whose head office is located 12 rue Armand Barbès - 87000 Limoges (hereinafter referred to as "ICONOSQUARE").
 
 ## 2\. Types of the data collected
 
@@ -82,7 +82,7 @@ In addition, third parties may also have access to personal data to comply with 
 
 ## 7\. Conservation period
 
-The personal data collected by users is retained for a period of ninety (90) days from the disabling of access to the services offered by ICONOSQUARE, except for the data that ICONOSQUARE would need to keep as evidence, for legal or administrative purposes or in accordance with the legislation in force.
+The personal data collected by users is retained for a period of one hundred and eighty (180) days from the disabling of access to the services offered by ICONOSQUARE, except for the data that ICONOSQUARE would need to keep as evidence, for legal or administrative purposes or in accordance with the legislation in force.
 
 As an exception to the above paragraph, users are informed that:
 
