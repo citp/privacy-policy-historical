@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashleyrnadison.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605224451id_/http%3A//www.ashleyrnadison.com/app/public/privacy.p%3Fc%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleyrnadison.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103035318id_/https%3A//www.ashleyrnadison.com/app/public/privacy.p%3Fc%3D2) for the most accurate reproduction.*
 
 # Ashley Madison® | Privacy Policy
 
@@ -46,6 +46,8 @@ When you make a purchase off our Platform you will be asked for certain Personal
 
 With your permission, we will also collect your location information from your mobile device to help you identify other Platform members in your area. You may turn off this feature through the location settings on your mobile device. We also collect your general geographic location from your browser access to help you identify members in your area and to help us quickly and efficiently respond to inquiries and requests.
 
+If you choose to activate 2-factor authentication for your account, we will ask for your phone number. This phone number will be shared with a third party service provider Nexmo. Nexmo service is not part of the Service, and is subject to separate terms and conditions, including different policies with respect to the collection, use and disclosure of your personal information. We do not have control over Nexmo. You will need to make your own independent judgment regarding your interaction with them. Please note that if you decide to delete your Ashley Madison account, we will delete your phone number from our records but Nexmo will not.
+
 Back to the top of this Privacy Policy.
 
 How will you use the information you collect?
@@ -77,6 +79,8 @@ We use the information we collect, including Personal Information, for the follo
   * to protect our own rights and interests, such as to resolve any disputes, enforce our Terms of Use, or to respond to legal process;
 
   * to save your user account, registration and profile data and other information (so you do not have to re-enter it each time you visit or use the Services); and
+
+  * to offer a more secure access to your account; and
 
   * to track your return visits to, and use of, the Services. 
 
@@ -180,7 +184,7 @@ This Privacy Policy is current as of the Effective Date set forth above. In the 
 
 Contact Us / Complaints
 
-You have the right to access Personal Information we hold about you and to have any concerns you may have over our policies and practices addressed. In addition, you have the right to obtain information regarding our policies and practices as they relate to the collection, use and disclosure of Personal Information, including those with respect to the transfer and storage of your information outside of Canada, and update your Personal Information. If you have any questions related to the foregoing or any of the terms or conditions of this Privacy Policy, or if you wish complain to us in writing about how we have handled your Personal Information, please feel free to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0676746f7067657f6960606f656374467473647f6a6f60632865696b). All other inquiries should be sent using our [Contact Us (https://www.ashleymadison.com/app/public/contactform.p)](https://www.ashleymadison.com/app/public/contactform.p) section.
+You have the right to access Personal Information we hold about you and to have any concerns you may have over our policies and practices addressed. In addition, you have the right to obtain information regarding our policies and practices as they relate to the collection, use and disclosure of Personal Information, including those with respect to the transfer and storage of your information outside of Canada, and update your Personal Information. If you have any questions related to the foregoing or any of the terms or conditions of this Privacy Policy, or if you wish complain to us in writing about how we have handled your Personal Information, please feel free to contact us at [privacyofficer@rubylife.com](mailto:privacyofficer@rubylife.com). All other inquiries should be sent using our [Contact Us (https://www.ashleymadison.com/app/public/contactform.p)](https://www.ashleymadison.com/app/public/contactform.p) section.
 
 We aim to resolve all complaints promptly.
 
