@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crow.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629105019id_/http%3A//crow.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crow.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103190721id_/http%3A//crow.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
