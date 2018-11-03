@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plarium.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606212746id_/https%3A//plarium.com/en/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plarium.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103040404id_/https%3A//plarium.com/en/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Plarium.com
 
@@ -8,13 +8,13 @@ Plarium Global Ltd (“Plarium” or “we”) is dedicated to protecting the p
 
 Plarium offers its games also to users resident in the EU.  Plarium is the data controller for personal information collected of those users.  In compliance with the EU General Data Protection Regulation (“GDPR”), we have appointed Plarium Europe S.A.R.L. as our representative for GDPR purposes in the EU.  Users who are resident in the EU may address questions relating to the way we collect, store, use and disclose their personal information either to Plarium at the address identified below, or to our representative at the following address 9, Allée Scheffer, L-2520 Luxembourg.
 
-_For users not located in the EU_
+ _For users not located in the EU_
 
 When signing up for the Service, you are invited to agree with this Policy and the processing of your data, including your personal information, also called personal data in some jurisdictions (we refer to this information/data collectively as “personal information” throughout this Policy), in the manner provided in this Policy and our Terms of Use. We therefore process your personal information based on your consent. In any event, any use of the Service will be construed as your agreement with this Policy and our Terms of Use. If you do not agree to these terms, please do not use the Service.
 
-_Specifically for users located in the EU_
+ _Specifically for users located in the EU_
 
-This Policy is merely informative about how Plarium collects, stores, uses and discloses your personal information. We are not asking you to consent to this Policy. If we require your consent we will ask for it in separate notice and consent forms. Please note that if you provide us with consent, you have the right to withdraw this consent at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#48383a213e292b31083824293a213d25662b2725).
+This Policy is merely informative about how Plarium collects, stores, uses and discloses your personal information. We are not asking you to consent to this Policy. If we require your consent we will ask for it in separate notice and consent forms. Please note that if you provide us with consent, you have the right to withdraw this consent at any time by contacting us at [privacy@plarium.com](mailto:privacy@plarium.com).
 
 It is advised that you review this Policy regularly as it may be amended from time to time as set out below (see the Changes to this Policy section below).
 
@@ -22,7 +22,7 @@ It is advised that you review this Policy regularly as it may be amended from ti
 
 We collect information about you directly from you, from third parties, and automatically through your use of our Service. We may combine the information that we collect about you from these various sources.
 
-_Information we collect directly from you_
+ _Information we collect directly from you_
 
 We will also collect any information that you provide to us through your use of our Service. The types of personal information we collect may vary depending on your activity. Personal information may include:
 
@@ -38,7 +38,7 @@ If you contact us via email (e.g., to contact customer support), we will collect
 
 Additionally, we may acquire information from you through your access and participation in message boards on the Service. This information may include posts, comments, photos or screenshots, videos, ratings, and in-game messages. If you post content to our Service, such information may be available to other users of our Service (e.g., in-game messages will be available to the recipient of your message and if you upload a profile picture, your image may be available to all other users of our Service). If you post your own content on our Service, your posting may become public and Plarium cannot prevent such information from being used in a manner that may violate this Policy, our [Terms of Use](https://web.archive.org/en/terms-of-use/), the law, or your personal privacy.
 
-_Information we collect about you from third parties_
+ _Information we collect about you from third parties_
 
 When you install any of the Service, we may collect and record the information you provide us voluntarily through a social networking website in accordance with their policies and terms.
 
@@ -48,7 +48,7 @@ If you log into our Service using Google, you must enter your Google email addre
 
 You may also be able to log into our Service using other third-party services, such as Mail.ru. We encourage you to read the privacy policies of third-party platforms that you use to log into your gaming accounts to understand how those third parties use and disclose your information. We have no control over how any third party site uses or discloses the personal information it collects about you.
 
-_Information we collect automatically about your use of our Service_
+ _Information we collect automatically about your use of our Service_
 
 When you use the Service, we may record information regarding the use of the Service, and we may collect other information that is visible on your social network page in accordance with the relevant terms of use associated with that page.
 
@@ -62,7 +62,7 @@ In addition, we create a unique user ID to track your use of our Service. This u
 
 Please see the Cookies section below for more information about the information we automatically collect about you.
 
-_Public Information_
+ _Public Information_
 
 Some of the information you give us when you register to play our games is open to the public, such as your profile picture, number of friends, your username, the list of games that you play and the date of registration. Should you wish to hide any of the information that is made public, you can do so by changing the settings to "only me" in the privacy settings tab of your profile.
 
@@ -70,15 +70,15 @@ Some of the information you give us when you register to play our games is open 
 
 We need the above personal information for the purposes as described in this Policy, and not providing this information will have an impact on our ability to provide you with the Service. Plarium’s primary objective in collecting user information is to provide and enhance the Service and to enable users to easily navigate and enjoy the Service. This includes sending you electronic communications related to the Service, from which you can unsubscribe at any time using the instructions in such communications. In addition, we may use user information for the following purposes:
 
-_Providing and improving our Services.  _To facilitate payments and communications between users; to provide and maintain the Service; to improve the Service; to develop new features, products, or services; to authenticate users; to perform technical operations, such as updating software; to validate our users and ensure their qualifications to use the Service; and for other customer service and support purposes.
+ _Providing and improving our Services.  _To facilitate payments and communications between users; to provide and maintain the Service; to improve the Service; to develop new features, products, or services; to authenticate users; to perform technical operations, such as updating software; to validate our users and ensure their qualifications to use the Service; and for other customer service and support purposes.
 
-_Marketing and communications.  _To communicate with you, including via email or push notification, about your account and use of the Service, including to send Service and product updates; to respond to your inquiries; to provide you with news and newsletters, special offers, promotions, and other information we think may interest you; and for other informational, marketing, or promotional purposes. For more information about opting out of certain communications, please see the Your rights and choices in relation to your personal information section below.
+ _Marketing and communications.  _To communicate with you, including via email or push notification, about your account and use of the Service, including to send Service and product updates; to respond to your inquiries; to provide you with news and newsletters, special offers, promotions, and other information we think may interest you; and for other informational, marketing, or promotional purposes. For more information about opting out of certain communications, please see the Your rights and choices in relation to your personal information section below.
 
-_Research and analytics.  _To analyze how you interact with the Service; to monitor and analyze usage and activity trends; and for other research, analytical, and statistical purposes.
+ _Research and analytics.  _To analyze how you interact with the Service; to monitor and analyze usage and activity trends; and for other research, analytical, and statistical purposes.
 
-_Protecting rights and interests._ To protect the safety, rights, property, or security of Plarium, the Service, any third party, or the general public; to detect, prevent or otherwise address fraud, security or technical issues; to prevent or stop activity which Plarium, in its sole discretion, may consider to be, or to pose a risk of being, an illegal, unethical, or legally actionable activity; to use as evidence in litigation; and to enforce this Policy and our [Terms of Use](https://web.archive.org/en/terms-of-use/).
+ _Protecting rights and interests._ To protect the safety, rights, property, or security of Plarium, the Service, any third party, or the general public; to detect, prevent or otherwise address fraud, security or technical issues; to prevent or stop activity which Plarium, in its sole discretion, may consider to be, or to pose a risk of being, an illegal, unethical, or legally actionable activity; to use as evidence in litigation; and to enforce this Policy and our [Terms of Use](https://web.archive.org/en/terms-of-use/).
 
-_Legal compliance._ To comply with applicable legal or regulatory obligations, including as part of a judicial proceeding; to respond to a subpoena, warrant, court order, or other legal process; or as part of an investigation or request, whether formal or informal, from law enforcement or a governmental authority.
+ _Legal compliance._ To comply with applicable legal or regulatory obligations, including as part of a judicial proceeding; to respond to a subpoena, warrant, court order, or other legal process; or as part of an investigation or request, whether formal or informal, from law enforcement or a governmental authority.
 
 Specifically for our users who reside in the EU, we rely on the following legal bases for the collection and use of your information:
 
@@ -113,13 +113,13 @@ We use mobile analytics software to allow us to better understand the functional
 
 Our Service may contain third party tracking tools from our service providers. Such third parties may use cookies, APIs, and SDKs in our services to enable them to collect and analyze user information on our behalf. The third parties may have access to information such as your device identifier, MAC address, geo-location information, and IP address for the purpose of providing their services under their respective privacy policies. This Policy does not cover the use of tracking tools from third parties. We do not have access or control over these third parties. The following are examples of the third parties that we use for analytics:
 
-_Google Analytics_
+ _Google Analytics_
 
 Plarium uses a tool called “Google Analytics” to collect information about use of this Service. Google Analytics collects information such as how often users visit this Site, what pages they visit when they do so, and what other sites they used prior to coming to this Site. Plarium uses the information it gets from Google Analytics to understand Service usage and patterns and to improve its Service. Google Analytics collects only the IP address assigned to you on the date you visit a Service, rather than your name or other identifying information. Plarium does not combine the information collected through the use of Google Analytics with personal information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit a Service, the cookie cannot be used by anyone but Google.
 
 Google’s ability to use and share information collected by Google Analytics about your visits to our Service is restricted by the Google Analytics Terms of Use (as amended for government websites) and the Google Privacy Policy. You can prevent Google Analytics from recognizing you on return visits to this Site by disabling cookies on your browser or mobile device. For more information about Google Analytics, please see the [Google Privacy Policy](https://www.google.com/intl/en/policies/privacy/). To prevent Google Analytics from using your data through a web browser, you can get the [ Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
 
-_Adjust, Game Analytics and Soomla_
+ _Adjust, Game Analytics and Soomla_
 
 Plarium also uses third parties, including Adjust, GameAnalytics, and Soomla, to help understand usage of the Service and effectiveness of our advertisements. For more information about Adjust's privacy practices, please see the [Adjust Privacy Policy](https://www.adjust.com/privacy_policy/); for more information about GameAnalytics' privacy practices, please see the [GameAnalytics Privacy Policy](http://www.gameanalytics.com/privacy); and for more information about Soomla's privacy practices and how to opt out of Soomla's use of your information for marketing or advertising purposes, please see the Soomla Privacy Policy.
 
@@ -133,7 +133,7 @@ We also may share your information with third parties as required by legal or re
 
 We may share your information with third party companies that perform services on our behalf, including payment processing, order fulfillment, data analysis, marketing services, email campaigns, hosting services, and customer service. While providing the services for us, these companies may access your personal information, and are required to use it solely as directed by us for the purpose of our requested service.
 
-In conjunction with the running of our games we may partner with a third party to assist us in providing you with our Service. We will share the information you provide us through your social network, such as (1) your first and last name; (2) your profile picture or its URL; (3) your user identification number of the pertinent social network, which is linked to publicly available information such as name and profile picture; (4) the login email you provide to the pertinent social network upon registration; and (5) game play information with these third parties so they may facilitate the use of our Service as well as contact you about other games which may be of interest to you, service notifications and to solicit your feedback and input. If you do not wish to have this information shared please do not use our Service. If you wish to no longer have your personal information used by our partners you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will facilitate your request to the partner.
+In conjunction with the running of our games we may partner with a third party to assist us in providing you with our Service. We will share the information you provide us through your social network, such as (1) your first and last name; (2) your profile picture or its URL; (3) your user identification number of the pertinent social network, which is linked to publicly available information such as name and profile picture; (4) the login email you provide to the pertinent social network upon registration; and (5) game play information with these third parties so they may facilitate the use of our Service as well as contact you about other games which may be of interest to you, service notifications and to solicit your feedback and input. If you do not wish to have this information shared please do not use our Service. If you wish to no longer have your personal information used by our partners you may contact us at [support.plarium.com](https://web.archive.org/en/support/) and we will facilitate your request to the partner.
 
 We may disclose your information to another entity in connection with, including during negotiations of, an acquisition or merger, sale or transfer of a business unit or assets, bankruptcy proceeding, or as part of any other similar business transfer.
 
@@ -169,7 +169,7 @@ To protect your privacy and security, we may take reasonable measures (such as r
 
 ## Your rights and choices in relation to your personal information
 
-_Accessing, correcting, or deleting your personal information_
+ _Accessing, correcting, or deleting your personal information_
 
 Plarium takes your privacy seriously and works in a transparent way. In that sense, upon providing sufficient identification (to protect others' privacy), you can request information from us about the personal information we hold in relation to you and you can correct any inaccurate data we hold.
 
@@ -179,17 +179,17 @@ In certain territories (including the EU), you also have a legal right to ask fo
 
 You have the right to withdraw your consent, on the basis of which we process your personal information, at any time, by closing your account or otherwise clearly indicating your withdrawal of consent. However, this does not affect our lawful processing based on your consent before this withdrawal.
 
-If you want to exercise any of these rights, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#92e2e0fbe4f3f1ebd2e2fef3e0fbe7ffbcf1fdff)
+If you want to exercise any of these rights, please contact us at: [privacy@plarium.com](mailto:privacy@plarium.com)
 
-_Marketing communications_
+ _Marketing communications_
 
 Subject to applicable legal provisions, we may send periodic promotional or informational emails to you. You may opt out of such communications by following the opt-out instructions contained in the e-mail. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you e-mails about your account or any Service you have requested or received from us.
 
-_Push notifications_
+ _Push notifications_
 
 We may occasionally send you push notifications through our mobile applications to send you game updates, high scores and other service related notifications that may be of importance to you. You may at any time opt out from receiving these types of communications by turning them off at the device level through your settings.
 
-_Behavioral advertising_
+ _Behavioral advertising_
 
 Users in the United States may opt out of many third-party ad networks. For example, you may go to the Digital Advertising Alliance (“DAA”) [Consumer Choice Page](http://www.aboutads.info/choices/) for information about opting out of interest-based advertising and your choices regarding having information used by [DAA companies](http://www.aboutads.info/participating). You may also go to the Network Advertising Initiative (“NAI”) [Consumer Opt-Out Page](http://www.networkadvertising.org/choices/) for information about opting out of interest-based advertising and your choices regarding having information used by NAI members. Additional information is available on the DAA’s website at [www.aboutads.info](http://www.aboutads.info/) or the NAI’s website at [www.networkadvertising.org](http://www.networkadvertising.org/).
 
@@ -219,7 +219,7 @@ Plarium may amend this Policy from time to time. Use of information we collect n
 
 If you have any questions or concerns regarding privacy at Plarium, please contact us at: 
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8dfdffe4fbeceef4cdfde1ecffe4f8e0a3eee2e0).
+Email: [privacy@plarium.com](mailto:privacy@plarium.com).
 
 Postal address: Plarium Global Ltd. (Company number 514563956)
 
