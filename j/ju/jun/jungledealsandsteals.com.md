@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jungledealsandsteals.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612040933id_/http%3A//jungledealsandsteals.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jungledealsandsteals.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103023157id_/http%3A//jungledealsandsteals.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jungle Deals and Steals
 
