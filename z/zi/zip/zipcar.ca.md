@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipcar.ca privacy policy that was archived on 2018-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180414032522id_/http%3A//www.zipcar.ca/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipcar.ca privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103213932id_/http%3A//www.zipcar.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Zipcar
 
