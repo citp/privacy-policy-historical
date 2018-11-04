@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotnetfunda.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503123159id_/http%3A//www.dotnetfunda.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotnetfunda.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104092442id_/http%3A//www.dotnetfunda.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # DotNetFunda.Com Privacy Policy - DotNetFunda.com
 
