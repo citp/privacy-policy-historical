@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3clan.net privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625035435id_/http%3A//www.mp3clan.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3clan.net privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104104804id_/http%3A//mp3clan.net/privacy.php) for the most accurate reproduction.*
 
 # Mp3Clan Legal Disclaimer | Music download
 
@@ -46,6 +46,6 @@ You acknowledge that you have read this Policy and agree to all its terms and co
 
 ## Contacting us
 
-If you have any questions about this Policy, please [contact us](https://web.archive.org/contact-us).
+If you have any questions about this Policy, please [contact us](https://web.archive.org/contact).
 
 This document was last updated on September 22, 2016
