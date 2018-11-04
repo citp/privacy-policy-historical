@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoozin.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506095614id_/http%3A//whoozin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoozin.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104152248id_/http%3A//whoozin.com/privacy) for the most accurate reproduction.*
 
 # 
 
