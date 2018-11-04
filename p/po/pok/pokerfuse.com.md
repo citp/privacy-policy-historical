@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pokerfuse.com privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323062417id_/http%3A//pokerfuse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerfuse.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104234833id_/https%3A//pokerfuse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pokerfuse Online Poker News
+# Privacy Policy
 
 ## What information do we collect?
 
@@ -89,4 +89,4 @@ pokerfuse
 PO Box 81  
 Carpentersville, IL 60110  
 USA  
-privacy@pokerfuse.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
