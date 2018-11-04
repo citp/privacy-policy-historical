@@ -1,222 +1,182 @@
-> *The following text is extracted and transformed from the melmagazine.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630184138id_/https%3A//medium.com/policy/f03bf92035c9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melmagazine.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104134744id_/https%3A//melmagazine.com/privacy) for the most accurate reproduction.*
 
-# Medium Privacy Policy – Medium Policy – Medium
+# Privacy - MEL Magazine
 
-**Effective Date: May 25, 2018**
+Last updated: 9/9/18
 
-This policy explains what information we collect when you use Medium’s sites, services, mobile applications, products, and content (“Services”). It also has information about how we store, use, transfer, and delete that information. Our aim is not just to comply with privacy law. It’s to earn your trust.
+This Privacy Policy applies to information collected by MEL Industries (“MEL,” “we,” “our” or “us”) when you visit our website, [www.melmagazine.com](https://melmagazine.com/), connect with us through branded pages on third party platforms ( _i.e_ , social networking services), or through other online communications (collectively, the “Services”). 
 
-#### Information We Collect & How We Use It
+This Privacy Policy explains what information may be collected from or about you through the Services, how such information may be used and/or shared with others, how we safeguard it and how you may access and control certain uses. By using the Services, you agree to the collection, use, and disclosure of your information as described in this Privacy Policy.  If you do not, please do not use the Services.
 
-Medium doesn’t make money from ads. So we don’t collect data in order to advertise to you. The tracking we do at Medium is to make our product work as well as possible.
+This Privacy Policy is hereby incorporated into and forms part of our **Terms of Use**.
 
-In order to give you the best possible experience using Medium, we collect information from your interactions with our network. Some of this information, you actively tell us (such as your email address, which we use to track your account or communicate with you). Other information, we collect based on actions you take while using Medium, such as what pages you access and your interactions with our product features (like highlights, follows, and applause). This information includes records of those interactions, your Internet Protocol address, information about your device (such as device or browser type), and referral information.
+Please note that the Services are operated in and targeted to consumers in the United States.  The Services are not intended for residents of the European Union or Canada or any other country outside the United States.  If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States and may be stored on servers in the United States.
 
-We use this information to:
+**QUICK GUIDE TO CONTENTS  **
 
-  * provide, test, improve, promote and personalize Medium Services
-  * fight spam and other forms of abuse
-  * generate aggregate, non-identifying information about how people use Medium Services
+  1. INFORMATION COLLECTION
+  2. HOW WE USE THE INFORMATION COLLECTED 
+  3. SHARING OF INFORMATION 
+  4. YOUR CHOICES AND OPT-OUT
+  5. CHILDREN’S PRIVACY 
+  6. SECURITY OF YOUR INFORMATION 
+  7. OTHER SITES 
+  8. DATA STORAGE 
+  9. CHANGES TO THIS PRIVACY POLICY 
+  10. CONTACT US 
 
 
 
-When you create your Medium account, and authenticate with a third-party service (like Twitter, Facebook or Google) we may collect, store, and periodically update information associated with that third-party account, such as your lists of friends or followers. We will never publish through your third-party account without your permission.
+***
 
-#### Information Disclosure
+  1. **INFORMATION COLLECTION  **
+  2. **Information You Provide To Us**
 
-Medium won’t transfer information about you to third parties for the purpose of providing or facilitating third-party advertising to you. We won’t sell information about you.
 
-We may share your account information with third parties in some circumstances, including: (1) with your consent; (2) to a service provider or partner who meets our data protection standards; (3) with academic or non-profit researchers, with aggregation, anonymization, or pseudonomization; (4) when we have a good faith belief it is required by law, such as pursuant to a subpoena or other legal process; (5) when we have a good faith belief that doing so will help prevent imminent harm to someone.
 
-If we are going to share your information in response to legal process, we’ll give you notice so you can challenge it (for example by seeking court intervention), unless we’re prohibited by law or believe doing so may endanger others. We will object to requests for information about users of our services that we believe are improper.
+MEL collects information from you when you choose to share it with us.  This includes when you use the Services, sign up for newsletters or our email list, use certain features on the Services, access, upload or download content, request customer support, or otherwise contact or communicate with us.  The information we collect may include your name and e-mail address.  
 
-#### Data Storage
+You may also be given the option to link to your Facebook, Twitter or other social media account on the Services. When you do, we may automatically receive certain information from you based upon your privacy settings on those sites. This may include, but may not be limited to, name, user name, demographic information, updated address or contact information, location, interests, and publicly-observed data, such as from social media and online activity. 
 
-Medium uses third-party vendors and hosting partners, such as Amazon, for hardware, software, networking, storage, and related technology we need to run Medium. We [maintain two types of logs](https://medium.com/policy/mediums-data-logs-4d2f799a7d52): server logs and event logs. By using Medium Services, you authorize Medium to transfer, store, and use your information in the United States and any other country where we operate.
+  1. **Information Collected Automatically**
 
-#### Third-Party Embeds
 
-Some of the content that you see displayed on Medium is not hosted by Medium. These “embeds” are hosted by a third-party and embedded in Medium. For example: YouTube or Vimeo videos, Imgur or Giphy gifs, SoundCloud audio files, Twitter tweets, GitHub code, or Scribd documents that appear within a Medium post. These files send data to the hosted site just as if you were visiting that site directly (for example, when you load a Medium post page with a YouTube video embedded in it, YouTube receives data about your activity). Medium does not control what data third parties collect in cases like this, or what they will do with it. So, third-party embeds on Medium are not covered by this privacy policy. They are covered by the privacy policy of the third-party service.
 
-Some embeds may ask you for personal information, such as your email address, through a form. We do our best to keep bad actors off of Medium. However, if you choose to submit your information to a third party this way, we don’t know what they may do with it. As explained above, their actions are not covered by this Privacy Policy. So, please be careful when you see embedded forms on Medium asking for your email address or any other personal information. Make sure you understand who you are submitting your information to and what they say they plan to do with it. We suggest that you do not submit personal information to any third-party through an embedded form.
+Whenever you visit or interact with the Services, MEL, or its service providers, may use a variety of technologies, such as cookies, web beacons, pixel tags, log files, or other technologies that automatically or passively collect information about your online activity. 
 
-If you embed a form that allows submission of personal information by users, you must provide near the embedded form a prominent link to an applicable Privacy Policy that clearly states how to you intend to use any information collected. Failure to do so may lead Medium to disable the post or take other action to limit or disable your account.
+Please note that we may automatically collect the following information about you: 
 
-#### Tracking & Cookies
+**_Usage Information_** **:**  We may collect information about your use of the Services, including the date and time you visit the Services, the areas or pages of the Services that you visit, the amount of time you spend viewing or using the Services, the number of times you return to the Services, other click-stream or site usage data, emails that you open, forward or click-through to our Services, and other sites that you may visit. 
 
-We use browser cookies and similar technologies to recognize you when you return to our Services. We use them in various ways, for example to log you in, remember your preferences (such as default language), evaluate email effectiveness, allow our paywall and meter to function, and personalize content and other information.
+**_Device Information_**. We may automatically collect your IP address or other unique identifier or information from the computer, mobile device, tablet or other device you use to access the Services, including but not limited to your browser type, device type, operating system, software version, phone model, phone operating system, and the domain name from which you accessed the Services.
 
-Medium doesn’t track you across the Internet. We track only your interactions within the Medium network (which encompasses Medium.com and custom domains hosted by Medium).
+**_Third Party Service Providers_**. We may use third party service providers to support the Services.  Some of these service providers may use technology such as cookies, web beacons, pixel tags, log files, or other technologies to receive, collect, and store information on our behalf. 
 
-Some third-party services that we use to provide the Medium Service, such as [Google Analytics](http://www.google.com/policies/privacy/partners/), may place their own cookies in your browser. This Privacy Policy covers use of cookies by Medium only and not the use of cookies by third parties.
+  1. **Information Received from Other Third Parties**
 
-Medium complies with the “[Do Not Track](https://www.w3.org/TR/tracking-compliance/)” (“DNT”) standard recommended by the World Wide Web Consortium. For logged-out users browsing with DNT enabled, Medium’s analytics will not receive data about you, but we will do some first-party tracking in order to customize content and provide data to third-party service providers that enable Medium Services to work. When you use Medium while logged-in to your account, we cannot comply with DNT. Here’s some more information about [Medium’s Do Not Track policy](https://medium.com/policy/how-we-handle-do-not-track-requests-on-medium-f2b4b4fb7c5e).
 
-####  **Modifying or Deleting Your Personal Information**
 
-If you have a Medium account, you can access, modify or export your personal information, or delete your account [here](https://medium.com/me/settings).
+We may obtain information about you from other trusted third party sources to update or supplement the information that you provide or that we collect automatically. We may also receive information about you from our partners and service providers, (including, for example, business partners, analytics vendors, advertising networks and search information providers).  
 
-To protect information from accidental or malicious destruction, we may maintain residual copies for a brief time period. But, if you delete your account, your information and content will be unrecoverable after that time. Medium may preserve and maintain copies of your information when required to do so by law.
+We may use this information to help us maintain the accuracy of the information we collect, and for internal business analysis or other business purposes. 
 
-#### Data Security
+  1. **Combination of Information**
 
-We use encryption (HTTPS/TLS) to protect data transmitted to and from our site. However, no data transmission over the Internet is 100% secure, so we can’t guarantee security. You use the Service at your own risk, and you’re responsible for taking reasonable measures to secure your account.
 
-#### Business Transfers
 
-If we are involved in a merger, acquisition, bankruptcy, reorganization or sale of assets such that your information would be transferred or become subject to a different privacy policy, we’ll notify you in advance so you can opt out of any such new policy by deleting your account before transfer.
+We may combine the information we receive from you and about you, including information you provide to us and information we automatically collect through the Services, and from third party sources.  This combined information may be used in any manner detailed in this Privacy Policy.
 
-#### Email from Medium
+  2. **HOW WE USE THE INFORMATION COLLECTED**
 
-Sometimes we’ll send you emails about your account, service changes or new policies. You can’t opt out of this type of “transactional” email (unless you delete your account). But, you can opt out of non-administrative emails such as digests, newsletters, and activity notifications through your account’s “[Settings](https://help.medium.com/hc/en-us/articles/115004745907-How-can-I-turn-off-emails-from-Medium-)” page
 
-When your interact with an email sent from Medium (such as opening an email or clicking on a particular link in an email), we may receive information about that interaction. We won’t email you to ask for your password or other account information. If you receive such an email, please send it to us so we can investigate.
 
-#### Changes to this Policy
+We may use the information about you for a variety of business purposes, including, for example, to: 
 
-Medium may periodically update this Policy. We’ll notify you about significant changes to it. The most current version of the policy will always be [here](https://medium.com/policy/f03bf92035c9) and we will archive former versions of the policy [here](http://github.com/Medium/policy).
+  * respond to your questions or requests, and communicate with you when necessary; 
+  * review the usage and operations of our Services, develop new products or services and to enhance or improve our content, products, and services;
+  * provide you with content, advertisements, offers and promotions offered by MEL or on behalf of our partners and affiliates on the Services, or to provide your with news and other information we think will be of interest to you on the Services or via email;
+  * protect the security or integrity of the Services and our business, such as by protecting against and preventing fraud, claims and other liabilities, and managing risk exposure, including by identifying potential hackers and other unauthorized users; 
+  * use your data in an aggregated non-specific format for analytical or other business purposes; and
+  * use your information for other purposes as disclosed at the time you provide your personal information or otherwise with your consent.
 
-#### Questions
 
-We welcome feedback about this policy at [legal@medium.com](mailto:legal@medium.com).
+  3. **SHARING OF INFORMATION  **
 
-### Data Protection Statement for European Union Users
 
-#### Description of Processing Activity
 
-Medium collects and stores personal information about its users to customize their reading experience and enable personalized distribution of content. It shares minimal data with its service providers.
+The information collected or generated through your use of the Services may be shared by you or by us as described below.  
 
-#### Purposes of Processing
+  1. **Sharing of Information by You**
 
-  * Provide, test, promote, and improve the services
-  * Gather usage statistics of services
-  * Provide customized reading experience
-  * Publish and distribute user-generated content
-  * Provide access to paid content
-  * Pay authors in Partnership Program for certain content
-  * Fight spam, fraud, and other abuse of services
 
 
+The Services offer many ways to find, enjoy, and share content. Your activity in connection with the Services may include filling out surveys, participation in online communities, “liking” or “sharing” MEL content to your social media accounts or pages or otherwise interacting with the Services.  Any information you may disclose on the Services, in blogs, on message boards, or on other public areas on the Services or other third-party websites, applications, or services that the Services may link to, becomes public information. Please exercise caution when disclosing personal information in these public areas.
 
-#### Legal Bases
+  1. **Sharing of Information by Us**
 
-In order to provide the services, Medium collects and stores personal data about its users on the legal basis of consent given when you create an account and agree to the Privacy Policy.
 
-Medium also pursues its legitimate interests by collecting minimal data of logged out users to provide the services, as outlined above.
 
-Where Medium collects and stores personal data about non-users, it does so under performance of contract obligations with users who use the services to publish content on web sites hosted by Medium. In such cases, users authoring such content containing personal data of third parties are responsible for that content. Medium will consider related complaints in compliance with the General Data Protection Regulation’s rights of the data subject, as well as rights of expression and access to information.
+We may share the information collected from or about you in the following limited ways:
 
-#### Public Nature of Personal Data
+**_Third Party Service Providers_** **.**  We may share your information with third party service providers that provide business, professional or technical support functions on our behalf. This includes, but may not be limited to, service providers that host or operate the Services; payment processors; analyze data; provide customer service; postal or delivery services, and sponsors or other third parties that participate in or administer any promotions. 
 
-Logged-in users may choose to interact publicly with the Medium Services in the form of clapping for a post, highlighting parts of a post, following other user accounts, sharing links on connected social media accounts, or writing original posts. Where such personal data may reveal special category protected data, it is processed on the basis that it is manifestly made public by the user. Additional information on potential consequences of such processing can be found below. If you do not agree to this public usage, do not create an account or use these features of Medium Services.
+**_Business Transfers_** **.**  In the event that another entity acquires us or all or substantially all of our assets, or assets related to the Services, your information may be disclosed to such entity as part of the due diligence process and will be transferred to such entity as one of the transferred assets. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties. Finally, information described in this paragraph may also be disclosed for due diligence purposes in connection with any proposed transaction of the sorts described in this paragraph.
 
-#### Categories of Personal Data Collected
+**_Legal Disclosures; Safety_** **.** ** _  _**We may transfer and disclose your information to third parties to comply with a legal obligation; when we believe in good faith that the law requires it; at the request of governmental authorities conducting an investigation; to verify or enforce our **Terms of Use**  or other applicable policies; to detect and protect against fraud, or any technical or security vulnerabilities; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of third parties, users of the Services, MEL, or the public. 
 
-Logged out users
+**_Aggregate or Anonymous Non-Personal Information_**. We may share aggregate or anonymous non-personal information with third parties for their business use.
 
-  * Reading history
-  * IP address
-  * Browser information
-  * DNT status
+  4. **YOUR CHOICES AND OPT-OUT**
+  5. **Cookies, Tracking Options and California Do Not Track Disclosures**
 
 
 
-Logged in users:
+Certain parts of the Services require cookies. You are free to set your browser or operating system settings to limit certain tracking or to decline cookies, but by doing so, you may not be able to use certain features of the Services or take full advantage of all of our offerings. Please refer to your device’s settings or your Internet browser’s “Help” section for more information on how to delete and/or disable your device or browser from receiving cookies or controlling your tracking preferences. 
 
-  * Username
-  * Display name
-  * Bio
-  * Avatar image
-  * Email address (non-public)
-  * Session activity (security)
-  * Linked social media accounts (optional)
-  * IP address
-  * Browser information
-  * Reading history (on Medium network only)
-  * Network interactions (recommends, follows, etc.)
-  * Posts, responses, or series published by user
+Our system may not respond to Do Not Track requests or headers from some or all browsers.  
 
+  1. **Access and Updates to Your Information**
 
 
-Members:
 
-  * Billing information and history
+If you wish to verify, correct, or update any of your personal information, you can contact us at the e-mail in the “Contact Us” section below. 
 
+  1. **Unsubscribing from our Marketing Communications**
 
 
-Partner authors:
 
-  * Bank account for payments
-  * Business information, if applicable
+You can unsubscribe from our marketing email communications at any time by (1) unsubscribing or following the instructions contained within the email, or (2) contacting us at the e-mail provided in the “Contact Us” section below. 
 
+  1. **Your California Privacy Rights**
 
 
-#### Categories of Recipients
 
-Medium shares minimal personal data with third-party processors in order to provide the Services. These processors offer at least the same level of data protection as that set out in this statement. This includes the following categories of recipients:
+MEL does not disclose personal information to third parties for the third parties’ direct marketing purposes.  
 
-  * Hosting, Storage, & Other Infrasructure
-  * Security
-  * Analytics
-  * Communication & Support
-  * Payment Processors
+Nonetheless, California law permits residents of California to request certain details about how their personal information is shared with third parties or affiliated companies for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at: [Legal@melindustries.com](mailto:Legal@melindustries.com). You must put the statement “Your California Privacy Rights” in the subject field. We are not responsible for notices that are not properly labeled or sent, or do not have complete information.
 
+  5. **CHILDREN’S PRIVACY**
 
 
-Search engines will index user profiles, public interactions, and any user-generated content. Users may also share links to your content on social media.
 
-#### Payment Processors
+Protecting children’s privacy is important to us. We do not direct the Services to, nor do we knowingly collect any personal information from, children under the age of thirteen.  If MEL learns that a child under the age of thirteen has provided personally identifiable information through the Services, we will use reasonable efforts to remove such information from our files.
 
-Medium provides Services in conjunction with several payment processors, including: Stripe, Paypal, Google Play, and Apple Pay, through which users may pay for Medium memberships or receive payment based on participation in our Partner program. Those companies acting as payment processors may collect and store personal data related to your billing information and history in order to provide their services, and may collect and store personal data and business data to prevent fraud and other abuse.
+  6. **SECURITY OF YOUR INFORMATION  **
 
-When you delete your Medium account, Medium deletes your personal data as outlined in this document. However, to delete your payment or billing information, you will need to do so with your payment provider, as Medium only has minimal secure access to those records as needed to provide the services.
 
-####  **Embedded Content**
 
-Medium posts may contain third-party embeds, which may in some cases collect and store personal data. The use of personal data by embedded content providers is not covered by this statement, but by the privacy policies of those sites or services.
+We use certain reasonable security measures to help protect your personal information. However, no electronic data transmission or storage of information can be guaranteed to be 100% secure.  Please note that we cannot ensure or warrant the security of any information you transmit to us. You use the Services and provide us with your information at your own risk.  If we share information with a third party, as detailed in this privacy policy, we shall use all reasonable efforts to ensure that they keep the information secure and only use the information consistent with the terms of this Privacy Policy.
 
-#### Existence of Automated Decision-making
+  7. **OTHER SITES  **
 
-Medium collects and stores personal data about its users to customize reading. This includes automated decision-making to promote content tailored to the preferences and interests indicated by the user, and to their browsing history and network interactions.
 
-Medium also filters content for the purposes of fighting and preventing spam, fraud, and other forms of abuse.
 
-#### Potential Consequences of Processing
+The Services may contain links to third-party websites, which may have privacy policies that differ from our own.  We are not responsible for the practices of such sites. 
 
-By creating an account on Medium, users may make certain personal data about themselves public and accessible to others on their profile and through network interactions. This may in some cases constitute special category protected data which is considered manifestly made public by the user.
+The Services may also offer you the ability to interact with social plugins from social media sites, which may allow us and/or the social media site to receive data from or about you. In some cases, we may know that you clicked on a social plugin, such as a Twitter Follow button, or receive other information from the social media sites. Similarly, if you have previously provided personal information to a third-party operating a plug-in on the Services, then such third-party may recognize you on the Service. Your use of social network plugins is subject to each social media site’s privacy policy, which may be different from ours, so please read these policies carefully to understand their policies and your options. As with linked sites, we have no control over the information that is collected, stored, or used by social network plugins, and are not responsible for the practices of such sites. 
 
-Due to the public nature of information posted to Medium, it may be possible for third parties to derive identifying personal data from posts, whether by reading, inference, supplemental research, or automated extraction and analysis.
+  8. **DATA STORAGE**
 
-Users are free to use their real name and information, or a pseudonym of their choosing, for their account. Users may also choose to use the service without posting data or engaging in network interactions. However, if you do not agree with and accept the risks of such usage, you may not use the services.
 
-#### Cross-border Transfers
 
-Medium is hosted in the United States. By using Medium Services, you authorize Medium to transfer, store, and use your information in the United States and any other country where we operate. Where your data is disclosed to our processors, it is subject by contract to at least the same level of data protection as that set out in this statement.
+Your personal information may be stored on servers in the United States and is subject to the laws of the United States, where the data protection and other laws may differ from those of your country of residence. Your personal information may be disclosed in response to inquiries or requests from government authorities or to respond to judicial process in the countries in which we operate. 
 
-#### Retention
+  9. **CHANGES TO THIS PRIVACY POLICY  **
 
-Medium retains personal data associated with your account for the lifetime of your account. If you would like to delete your personal information, you can delete your account at any time. Deleted account profile pages will yield an error 404 “file not found” page, immediately upon initiating deletion, and will become unrecoverable in our system after a period of fourteen days. It may take several additional days for your personal data to be de-indexed from search engines, depending on those search engines’ practices, over which Medium may have limited or no control.
 
-To delete your payment or billing information, you will need to do so with your payment provider, as Medium only has minimal secure access to those records as needed to provide the services.
 
-#### Rights of Data Subjects
+Any changes we may make to our Privacy Policy will be posted on this page. Please check back frequently to see any updates or changes to our Privacy Policy. If you do not agree or consent to these updates or changes, do not continue to use the Services. If we make a material change to this Privacy Policy, we will provide appropriate notice to you.
 
-  1. If you sign up for a Medium account, you may at any time request an export of your personal information from the [Settings](https://medium.com/me/settings) page.
-  2. You may correct information associated with your account from the [Settings page](https://medium.com/me/settings), and the [Customize Your Interests](https://medium.com/me/following/suggestions) page to update your interests.
-  3. You may withdraw consent by deleting your account at any time through the [Settings](https://medium.com/me/settings) page, which will erase your personal information completely within 14 days (except to the extent Medium is prevented by law from deleting your information).
-  4. You may object at any time to the use of your personal data by contacting privacy@medium.com. If your complaint relates to alleged misuse of your personal data by a third party, it may result in suspension of that post or account in keeping with relevant law, public interest, our contractual obligations, and the rights of expression and access to information of others.
-  5. You may at any time lodge a complaint regarding the processing of your personal data by Medium with the Supervisory Authority of your EU member state.
+  10. **CONTACT US  **
 
 
 
-#### Contact Information
+If you have any questions or concerns regarding this Privacy Policy, please contact us at: 
 
-> A Medium Corporation
+Attn: MEL Industries Privacy Officer  
+Address: 13335 Maxella Ave., Marina del Rey, CA 90292  
+RE: MEL INDUSTRIES PRIVACY POLICY
 
-> 799 Market Street, 5th Floor
+E-Mail: [Legal@melindustries.com](mailto:Legal@melindustries.com)
 
-> San Francisco, CA 94103
-
-> United States of America
-
-Representative: Head of Legal — legal@medium.com
+Alternatively, please go to melmagazine.com and click on the Contact Us link.
