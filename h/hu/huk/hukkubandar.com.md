@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hukkubandar.com privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427200820id_/http%3A//www.hukkubandar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hukkubandar.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104152744id_/http%3A//www.hukkubandar.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
