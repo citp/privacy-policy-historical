@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the appointment-plus.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602224909id_/http%3A//www.appointment-plus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appointment-plus.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104210937id_/https%3A//www.appointmentplus.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy: Online Scheduling Software Privacy
+# StormSource Privacy Statement | AppointmentPlus
 
 **1\. Privacy Overview**
 
-StormSource, LLC dba StormSource (“StormSource” or the “Company”) is committed to protecting the privacy of all Client and customer/end-user information. This Privacy Statement describes StormSource’s privacy practices.
+StormSource, LLC dba AppointmentPlus (“StormSource” or the “Company”) is committed to protecting the privacy of all Client and customer/end-user information. This Privacy Statement describes StormSource’s privacy practices.
 
 StormSource offers a variety of applications and services that are collectively referred to as the “Services.” StormSource collects information from individuals who visit the Company’s Web sites (“Visitors”), individuals who register to use the StormSource application (“Clients”), and individuals who register and/or schedule with Clients’ accounts (“Customers” or “End-users”).
 
@@ -60,11 +60,11 @@ StormSource uses robust security measures to protect Data from unauthorized acce
 
 **6\. Public Forums, Refer a Friend, and Customer Testimonials**
 
-StormSource may provide bulletin boards, blogs, or chat rooms on the Company's Web sites. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. StormSource is not responsible for the personal information you choose to submit in these forums.
+StormSource may provide bulletin boards, blogs, or chat rooms on the Company’s Web sites. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. StormSource is not responsible for the personal information you choose to submit in these forums.
 
-Customers and Visitors may elect to use the Company's referral program to inform friends about the Company's Web sites. When using the referral program, the Company requests the friend's name and email address. StormSource will automatically send the friend a one-time email inviting him or her to visit the Company's Web sites. StormSource does not store this information.
+Customers and Visitors may elect to use the Company’s referral program to inform friends about the Company’s Web sites. When using the referral program, the Company requests the friend’s name and email address. StormSource will automatically send the friend a one-time email inviting him or her to visit the Company’s Web sites. StormSource does not store this information.
 
-StormSource posts a list of Customers and testimonials on the Company's Web sites that contain information such as Customer names and titles. StormSource obtains the consent of each Customer prior to posting any information on such a list or posting testimonials.
+StormSource posts a list of Customers and testimonials on the Company’s Web sites that contain information such as Customer names and titles. StormSource obtains the consent of each Customer prior to posting any information on such a list or posting testimonials.
 
 **7\. Telephone Monitoring**
 
