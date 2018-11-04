@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eagleget.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602015442id_/http%3A//www.eagleget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eagleget.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104083132id_/http%3A//www.eagleget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EagleGet
 
@@ -79,6 +79,6 @@ We also agree to the Individual Redress Principle, which requires that individua
 Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.  
-support@eagleget.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 For user privacy statement of EagleGet software, please refer to [EagleGet User Experience Program](http://www.eagleget.com/eagleget-user-experience-program-euep/)
