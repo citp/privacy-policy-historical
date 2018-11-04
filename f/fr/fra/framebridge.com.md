@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the framebridge.com privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220030805id_/https%3A//www.framebridge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the framebridge.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104181733id_/https%3A//www.framebridge.com/privacy-policy) for the most accurate reproduction.*
 
 # Custom Picture Frames & Online Art Framing - Framebridge
 
