@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysticalraven.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624061221id_/http%3A//mysticalraven.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysticalraven.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104073649id_/http%3A//mysticalraven.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Mystical Raven
 
@@ -15,7 +15,7 @@ We allow third-party companies to serve  ads and/or collect certain anonymous i
 
 By browsing this site, you hereby accept the use of cookies.
 
-To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can submit a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can submit a request to mysticalraven@outlook.com
 
 **Section 2 – Consent**
 
