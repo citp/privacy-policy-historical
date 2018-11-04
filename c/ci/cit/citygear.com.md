@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citygear.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623185728id_/http%3A//www.citygear.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citygear.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104201838id_/https%3A//www.citygear.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy | City Gear Urban Footwear and Apparel
 
