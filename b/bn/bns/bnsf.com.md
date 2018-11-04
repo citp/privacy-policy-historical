@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bnsf.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504110252id_/http%3A//www.bnsf.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnsf.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104021131id_/http%3A//www.bnsf.com/privacy-policy.html) for the most accurate reproduction.*
 
-# BNSF-Railway Privacy Policy
+# Privacy Policy | BNSF
 
 BNSF Railway is firmly committed to protecting your privacy while visiting our Internet site. BNSF Railway is sensitive to privacy issues on the Internet and we believe it is important you know how we treat the information we receive about you.
 
