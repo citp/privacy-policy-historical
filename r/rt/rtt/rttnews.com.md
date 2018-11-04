@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rttnews.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614012150id_/http%3A//www.rttnews.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rttnews.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104203412id_/http%3A//www.rttnews.com/Privacy.aspx) for the most accurate reproduction.*
 
 # RTTNews - Privacy Policy
 
@@ -83,7 +83,7 @@ You have the right to raise the objection in the processing of the information, 
 
 You have the right to withdraw the consent on information that you have given us for marketing or other purposes. You can specify if you are not interested in using your information for direct marketing purpose and also can opt out of emails, newsletters, or other marketing communications by choosing opt-out options provides in those emails. 
 
-To exercise any of these rights, you can get in touch with us using our [Contact Us](https://web.archive.org/web/20180614012150id_/http%3A//www.rttnews.com/Contactus.aspx) page. Please include your registration Information such as first name, last name and e-mail address in the request. We may ask you to provide additional Information for identity verification purposes or to verify that you are in possession of an applicable email account.   
+To exercise any of these rights, you can get in touch with us using our [Contact Us](https://web.archive.org/web/20181104203412id_/http%3A//www.rttnews.com/Contactus.aspx) page. Please include your registration Information such as first name, last name and e-mail address in the request. We may ask you to provide additional Information for identity verification purposes or to verify that you are in possession of an applicable email account.   
   
 ### Additional Information  
   
