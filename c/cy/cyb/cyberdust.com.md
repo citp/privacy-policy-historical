@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberdust.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219165534id_/https%3A//www.usedust.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberdust.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104092449id_/https%3A//www.usedust.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dust | A safer place to text
 
@@ -68,7 +68,7 @@ Our Sites and Services are not intended for children under the age of 13 and We 
 
 ### 7\. SAFEGUARDS
 
-We strive to ensure the security, integrity, and privacy of the personal information We collect and store about our account holders as well as the content created by our account holders. Personal information collected by Us is stored in secure operating environments that are not available to the public and that are only accessible by authorized employees. Usernames, passwords, and phone numbers collected are stored as unique mathematical representations or #hashes.
+We strive to ensure the security, integrity, and privacy of the personal information. We collect and store information about our account holders as well as the content created by our account holders. Personal information collected by Us is stored in secure operating environments that are not available to the public and that are only accessible by authorized employees. Usernames, passwords, and phone numbers collected are stored as unique mathematical representations or #hashes.
 
 When you send a message or post content using our Services, it is stored temporarily on our servers without writing to any permanent storage, and we have processes in place to encrypt and automatically delete the contents of the message from our servers after a set period of time. Our encryption model can be found at [/encryption-model](https://web.archive.org/encryption-model), and our messaging model can be found at [https://www.usedust.com](https://www.usedust.com/). Our encryption model and messaging model are subject to change from time to time.
 
