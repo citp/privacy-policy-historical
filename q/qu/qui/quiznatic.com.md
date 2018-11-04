@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quiznatic.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504083515id_/http%3A//www.quiznatic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quiznatic.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104040023id_/http%3A//www.quiznatic.com/privacy) for the most accurate reproduction.*
 
 # Quiznatic - #1 Quiz Website
 
