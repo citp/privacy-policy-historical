@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanaru.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102160134id_/http%3A//fanaru.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanaru.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104014740id_/http%3A//fanaru.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ Please read this privacy policy to learn more about:
 
 ### Information Collected by Fanaru
 
-To become a member of Fanaru, you must join and create an account on the Fanaru website. The only information that Fanaru collects is the information you provide through the Fanaru registration process, and the information you provide when you update your payment options. This information includes your first and last name, your email address, your Internet Protocol Address ("IP address"), and other contact information. Your IP address is recorded when you register, so that Fanaru can enforce its one account per person policy and other provisions of our [Terms of Service](https://web.archive.org/web/20171102160134id_/http%3A//fanaru.com/terms.php).
+To become a member of Fanaru, you must join and create an account on the Fanaru website. The only information that Fanaru collects is the information you provide through the Fanaru registration process, and the information you provide when you update your payment options. This information includes your first and last name, your email address, your Internet Protocol Address ("IP address"), and other contact information. Your IP address is recorded when you register, so that Fanaru can enforce its one account per person policy and other provisions of our [Terms of Service](https://web.archive.org/web/20181104014740id_/http%3A//fanaru.com/terms.php).
 
 Other information, that does not personally identify you as an individual, is collected by Fanaru from the website (such as, by way of example, patterns of utilization), and it is exclusively owned by Fanaru. This information can be utilized by Fanaru in such manner as Fanaru, in its sole discretion, deems appropriate.
 
@@ -32,7 +32,7 @@ Any information you post on the Fanaru website or send through Fanaru's Message 
 
 ### Legal Disclaimer
 
-It is possible that Fanaru may need to disclose your personally identifiable information from time to time. Specifically, Fanaru may disclose any information it has about you to legal authorities, your Internet Service Provider, or other harmed parties without your prior permission, if Fanaru has a good-faith belief that such disclosure is warranted and/or necessary because: (1) you have violated Fanaru's [Terms of Service](https://web.archive.org/web/20171102160134id_/http%3A//fanaru.com/terms.php), (2) you have undertaken actions which are illegal, fraudulent, or otherwise harmful to Fanaru, its users, or the Third-Parties, or such disclosure is necessary (3) to conform to legal requirements or to comply with the legal process, (4) to protect and defend Fanaru's rights in any legal, judicial or administrative proceeding; or (5) to enforce the Terms of Service.
+It is possible that Fanaru may need to disclose your personally identifiable information from time to time. Specifically, Fanaru may disclose any information it has about you to legal authorities, your Internet Service Provider, or other harmed parties without your prior permission, if Fanaru has a good-faith belief that such disclosure is warranted and/or necessary because: (1) you have violated Fanaru's [Terms of Service](https://web.archive.org/web/20181104014740id_/http%3A//fanaru.com/terms.php), (2) you have undertaken actions which are illegal, fraudulent, or otherwise harmful to Fanaru, its users, or the Third-Parties, or such disclosure is necessary (3) to conform to legal requirements or to comply with the legal process, (4) to protect and defend Fanaru's rights in any legal, judicial or administrative proceeding; or (5) to enforce the Terms of Service.
 
 ### Managing Your Information
 
