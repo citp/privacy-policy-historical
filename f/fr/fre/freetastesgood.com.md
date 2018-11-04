@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetastesgood.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504165239id_/http%3A//www.freetastesgood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetastesgood.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104055251id_/http%3A//www.freetastesgood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Tastes Good!
 
@@ -8,7 +8,7 @@ Free Tastes Good believes strongly in keeping your personal information confiden
 
 ### Information Collected
 
-Free Tastes Good collects as little information as possible from users looking to post comments and messages. We will typically collect a name, personal website, and e-mail address. This helps so we know you are not a robot :-) 
+Free Tastes Good collects as little information as possible from users looking to post comments and messages. We will typically collect a name, personal website, and e-mail address. This helps so we know you are not a robot 🙂 
 
 ### Cookies / IP Address tracking
 
