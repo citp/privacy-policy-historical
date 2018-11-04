@@ -1,27 +1,88 @@
-<!--The following is the downloaded HTML source of the nutrition.org.uk privacy policy that was archived on 2017-09-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170917154226id_/https%3A//www.nutrition.org.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nutrition.org.uk privacy policy that was archived on 2018-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181104175155id_/https%3A//www.nutrition.org.uk/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html prefix="og: http://ogp.me/ns#" lang="en-gb" dir="ltr" class="com_content view-article itemid-121 j36"><head>
-		<base href="https://www.nutrition.org.uk/privacy-policy">
+<!DOCTYPE html><html prefix="og: http://ogp.me/ns#" lang="en-gb" dir="ltr" class="com_content view-article itemid-121 j38"><head>
+	<base href="https://www.nutrition.org.uk/privacy-policy">
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<title>Privacy Policy - British Nutrition Foundation</title>
 	<link href="/templates/t3_bs3_blank/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
 	<link href="https://www.nutrition.org.uk/component/search/?Itemid=121&amp;format=opensearch" rel="search" title="Search" type="application/opensearchdescription+xml">
-	<link href="/t3-assets/css/css-34c83.css?t=345" rel="stylesheet" type="text/css">
-	<link href="/t3-assets/css/css-29617.css?t=352" rel="stylesheet" type="text/css">
+	<link href="/t3-assets/css/css-3f0b1-35950.css" rel="stylesheet" type="text/css" media="all" attribs="[]">
+	<link href="/t3-assets/css/css-ac75c-61306.css" rel="stylesheet" type="text/css" media="all" attribs="[]">
+	<link href="/t3-assets/css/css-a2b6b-77287.css" rel="stylesheet" type="text/css" media="all" attribs="[]">
 	<link href="//fonts.googleapis.com/css?family=Muli" rel="stylesheet" type="text/css">
-	<link href="/t3-assets/css/css-d0154.css?t=147" rel="stylesheet" type="text/css">
+	<link href="/t3-assets/css/css-e518e-74916.css" rel="stylesheet" type="text/css" media="all" attribs="[]">
+	<link href="/plugins/hikashop/cartnotify/media/notify-metro.css" rel="stylesheet" type="text/css">
 	<style type="text/css">
 div.mod_search177 input[type="search"]{ width:auto; }
 	</style>
-	<script type="text/javascript" async="" src="https://platform.linkedin.com/in.js">lang: en_GB</script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js">[object Object]</script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/t3-assets/js/js-b42d1.js?t=156" type="text/javascript"></script>
-	<script src="/media/com_hikashop/js/hikashop.js?v=311" type="text/javascript"></script>
+	<script type="text/javascript" async="" src="https://platform.linkedin.com/in.js">lang: en_GB</script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js">[object Object]</script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/json" class="joomla-script-options new">{"csrf.token":"7013e3238dbeab47325eab6b77873eff","system.paths":{"root":"","base":""}}</script>
+	<script src="/media/com_hikashop/js/hikashop.js?v=340" type="text/javascript"></script>
+	<script src="/t3-assets/js/js-955dc-58231.js" type="text/javascript"></script>
+	<script src="/plugins/hikashop/cartnotify/media/notify.min.js" type="text/javascript"></script>
 	<script type="text/javascript">
+
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($('a.modal').get(), {
+				parse: 'rel'
+			});
+		});
+
+		window.jModalClose = function () {
+			SqueezeBox.close();
+		};
+		
+		// Add extra modal close functionality for tinyMCE-based editors
+		document.onreadystatechange = function () {
+			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
+			{
+				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
+				{	
+					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
+					
+					jModalClose = function () {
+						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+		
+				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
+				{
+					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
+					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
+		
+					SqueezeBox.close = function () {
+						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+			}
+		};
+		
 jQuery(window).on('load',  function() {
 				new JCaption('img.caption');
 			});
+RSFormProUtils.addEvent(window, 'load', function(){
+	RSFormPro.setHTML5Validation('3', false, {"parent":"","field":"rsform-error"}, 0);  
+});
 jQuery(function($){ $(".hasTooltip").tooltip({"html": true,"container": "body"}); });
+
+if(!window.localPage) window.localPage = {};
+window.localPage.cartRedirect = function(cid,pid,resp){window.location="/my-basket.html";};
+window.localPage.wishlistRedirect = function(cid,pid,resp){window.location="/component/hikashop/product/listing.html";};
+
+
+jQuery.notify.defaults({"arrowShow":false,"globalPosition":"top right","elementPosition":"top right","clickToHide":true,"autoHideDelay":5000,"autoHide":true});
+window.cartNotifyParams = {"reference":"button","img_url":"\/media\/com_hikashop\/images\/icons\/icon-32-newproduct.png","title":"Product added to the cart","text":"Product successfully added to the basket","wishlist_title":"Product added to the wishlist","wishlist_text":"Product successfully added to the wishlist","list_title":"Products added to the cart","list_text":"Products successfully added to the cart","list_wishlist_title":"Products added to the wishlist","list_wishlist_text":"Products successfully added to the wishlist","err_title":"Product not added to the cart","err_text":"Product not added to the cart","err_wishlist_title":"Product not added to the wishlist","err_wishlist_text":"Product not added to the wishlist"};
+
 	</script>
+	<!--style>
+select, textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .inputbox {
+  width: 270px;
+  height: 50px;
+}
+</style-->
 
 	
 <!-- META FOR IOS & HANDHELD -->
@@ -69,6 +130,7 @@ jQuery(function($){ $(".hasTooltip").tooltip({"html": true,"container": "body"})
 
 </script>
 
+
 <style type="text/css">
                 div#cookieMessageContainer{
                     font:normal 12px/16px Arial,Verdana,sans-serif;
@@ -111,20 +173,7 @@ position:fixed;
 				.accept {float: left;padding: 5px 6px 4px 15px;}
 				a#cookieMessageDetailsLink {color:#FFFFFF !important;}
             </style>
-<script type="text/javascript" src="/media/com_rsform/js/script.js"></script>
-<link rel="stylesheet" type="text/css" href="/media/com_rsform/css/front.css">
-<script type="text/javascript">
-
-RSFormProUtils.addEvent(window, 'load',function(){ RSFormPro.setHTML5Validation('3', false, '');  });
-</script>
-
-<!--style>
-select, textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .inputbox {
-  width: 270px;
-  height: 50px;
-}
-</style-->
-</head>
+<script async="" src="https://static.hotjar.com/c/hotjar-771322.js?sv=6"></script></head>
 
 <body>
 
@@ -148,8 +197,29 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 					<div class="col-xs-12 col-sm-6">
 									<!-- HEAD SEARCH -->
 					<div class="head-search ">
-						<ul class="nav menu top-menu list-inline pull-right">
-<li class="item-1000"><a class="" href="/my-basket.html" role="button">My Basket</a></li><li class="item-1176">	<a href="/index.php/memberships/my-content.html">Membership Content</a></li><li class="item-1001"><a class="" href="/contact-us.html" role="button">Contact Us</a></li><li class="item-1002"><a class="" href="/login.html" role="button">Login</a></li></ul>
+						<div class="hikashop_cart_module" id="hikashop_cart_module">
+<script type="text/javascript">
+        window.Oby.registerAjax(["cart.updated","checkout.cart.updated"], function(params) {
+            var o = window.Oby, el = document.getElementById('hikashop_cart_99');
+            if(!el) return;
+            if(params && params.resp && (params.resp.ret === 0 || params.resp.module == 99)) return;
+            if(params && params.type && params.type != 'cart') return;
+            o.addClass(el, "hikashop_checkout_loading");
+            o.xRequest("/component/hikashop/product/cart/module_id-99/module_type-cart/return_url-aHR0cHM6Ly93d3cubnV0cml0aW9uLm9yZy51ay9wcml2YWN5LXBvbGljeQ==/tmpl-component.html", {update: el}, function(xhr){
+                o.removeClass(el, "hikashop_checkout_loading");
+            });
+        });
+    </script>
+            <div id="hikashop_cart_99" class="hikashop_cart">
+            <div class="hikashop_checkout_loading_elem"></div>
+    <div class="hikashop_checkout_loading_spinner"></div>
+    <a class="hikashop_small_cart_checkout_link" href="/bnf-publications/bnfbooks/mccanceandwiddowson-ascientificpartnership/cart/showcart/cart_id-/cart_type-.html">
+        <span class="hikashop_small_cart_total_title">My Basket</span>
+    </a>
+            </div>
+        <div class="clear_both"></div></div>
+<ul class="nav menu top-menu list-inline pull-right">
+<li class="item-1176"><a href="/index.php/memberships/my-content.html" class="">Membership Content </a></li><li class="item-1001"><a class="" href="/contact-us.html" role="button">Contact Us</a></li><li class="item-1002"><a class="" href="/login.html" role="button">Login</a></li></ul>
 
 					</div>
 					<!-- //HEAD SEARCH -->
@@ -157,6 +227,7 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 			</div>
 </header>
 <!-- //HEADER -->
+
 
 	
 	<!-- BREADCRUMBS -->
@@ -172,16 +243,22 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 			</div>
 <!-- SPOTLIGHT -->
 
+
 	</div>
 	<!-- //BREADCRUMBS -->
 
-	
 
 	
 
-	
 
 	
+
+
+	
+
+
+	
+
 
 	
 
@@ -202,8 +279,10 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 																		
 <div class="icons pull-right">
                             <div class="row">
-                                    <div class="col-sm-6 print-icon"> <a href="/privacy-policy.html?tmpl=component&amp;print=1&amp;page=" title="Print article < Privacy Policy >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="icon-print"></span>Print</a> </div>
-                                                    <div class="col-sm-6 email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=t3_bs3_blank&amp;link=3b27e1a51139beb362e01972c68684d7d9b89b3e" title="Email this link to a friend" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><span class="icon-envelope"></span>Email</a> </div>
+                                    <div class="col-sm-6 print-icon"> <a href="/privacy-policy.html?tmpl=component&amp;print=1" title="Print article < Privacy Policy >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Print	</a> </div>
+                                                    <div class="col-sm-6 email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=t3_bs3_blank&amp;link=3b27e1a51139beb362e01972c68684d7d9b89b3e" title="Email this link to a friend" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<span class="icon-envelope" aria-hidden="true"></span>
+		Email	</a> </div>
                                 <!--
                                 -->
             </div>
@@ -213,105 +292,125 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 						
 																					<div class="article-body" itemprop="articleBody">
 				<h1>Privacy / Legal Disclaimer</h1>
-<p>The British Nutrition Foundation does not capture and store any personal information about individuals who access this web site, except where you voluntarily choose to give us your personal details via email, or by enquiring about or ordering any of our services or publications.</p>
-<p>In these latter cases, the personal information you give us is used exclusively by the British Nutrition Foundation for providing you with current and future information about our services and publications and any other services described on this web site.</p>
-<p>We do not pass any of your personal information to outside organisations and/or individuals, except with your express consent. The British Nutrition Foundation does not send cookies from this site and only monitors IP addresses of visitors to assess which pages are the most popular.. Your IP address is automatically collected when you visit the site because your IP address needs to be recognised by the server. We use your IP address to record general site usage information and browsing preferences, but not to track your individual visit. We do not identify individual users in this sort of research. By using this website and by submitting information to us via this website you give your consent that all your personal data collected by us via this website may be processed by us for the purposes set out in the following data privacy policy.</p>
-<p>You have a right to know about the personal information that the British Nutrition Foundation holds about you. You also have the right to have your data corrected or deleted. Please direct all your requests and/or queries about our data protection policy to the British Nutrition Foundation at the address below.</p>
-<p>The information on this site is for your information only. We take every step to try and ensure that the information on the site is accurate and complete, but the BNF will not be responsible for any loss suffered or incurred as a result of any reliance placed on the site or its contents. The site contains links to other sites, but this is not an endorsement of the organisations they depict or their products or services. We do not accept any responsibility or liability for any of the material contained on any third party web site.</p>
-<p>All material on this site is © British Nutrition Foundation 2011, unless otherwise stated. You may browse the site and print copies of extracts for personal use, but not for redistribution without our written consent.</p>
-<p>The advice provided on this site is generic in nature. The British Nutrition Foundation cannot provide personalised dietary or lifestyle advice. If you require individually tailored advice regarding food, nutrition and lifestyle then contact your own GP or a dietitian.</p>
-<p>Thank you.</p>
-<p>British Nutrition Foundation, High Holborn House, 52-54 High Holborn, London WC1V 6RQ</p>
-<p>Tel: 020 7404 6504&nbsp;&nbsp;&nbsp; Fax: 020 7404 6747&nbsp;&nbsp;&nbsp;&nbsp; Email: <a href="mailto:postbox@nutrition.org.uk">postbox@nutrition.org.uk</a></p>
-<p><strong><strong>Cookie Policy</strong></strong></p>
-<p>This website uses cookies, which are small text files that are placed on your computer by websites you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. They cannot be used to get information from your computer about you or read any personal material kept by you on your computer.</p>
-<p>The cookie is used to make the link between you and the information you have provided to the website. The creation of a cookie on your computer does not give the website any access to other information such as your email address.</p>
+<p><strong>Information we collect and how it is used</strong></p>
+<p>The British Nutrition Foundation does not capture and store any personal information about individuals who access this web site, except (1) where you voluntarily choose to give us your personal details via email or the feedback form, or by enquiring about or ordering any of our services or publications; (2) register for an event; and/or (3), where you subscribe to one of our newsletters.</p>
+<p>For publications, training and events, the data supplied is only used by BNF to process and fulfil the order (as it is a contract with BNF). Data is stored securely on <a href="http://nutrition.org.uk">nutrition.org.uk</a> and is accessed only by authorised BNF staff to process and fulfil the order. After two years, completed orders are deleted from nutrition.org.uk. &nbsp;Data collected is not used for any other purpose than fulfilling the order received.&nbsp;BNF uses PayPal as its payment merchant. The privacy policy for PayPal can be found&nbsp;<a href="https://www.paypal.com/en/webapps/mpp/ua/privacy-full">here</a>.&nbsp;</p>
+<p>When individuals register for BNF newsletters, the data supplied is only used by BNF to send specific newsletters, e.g. BNF News or BNF Education News. Newsletters contain information such as nutrition news and updates, education news, new or updated BNF resources, events and training opportunities. Individuals can view and update their information via a link in the newsletter email, as well as unsubscribe at any time. Registration for newsletters is via Your Mailing List Provider (<a href="https://www.ymlp.com/terms-of-service.html">click here</a> for their terms of service and <a href="https://www.ymlp.com/help.html?id=NjI1">data policy</a>).</p>
+<p>We do not pass any of your personal information to outside organisations and/or individuals, except with your express consent (for example, if you register for BNF Healthy Eating Week and consent for your address to be used to send you posters). Data shared is encrypted. (For BNF Healthy Eating Week, registration is via Google Forms – <a href="https://privacy.google.com/businesses/compliance/#?modal_active=none">click here</a> for their business and data compliance.)</p>
+<p>The British Nutrition Foundation does not send cookies from this site and only monitors IP addresses of visitors to assess which pages are the most popular. Your IP address is automatically collected when you visit the site because your IP address needs to be recognised by the server. We use your IP address to record general site usage information and browsing preferences, but not to track your individual visit. We do not identify individual users in this sort of research. By using this website and by submitting information to us via this website you give your consent that any your personal data collected by us via this website (e.g. newsletter subscriptions and orders) may be processed by us for the purposes set out in this data privacy policy.</p>
+<p><strong>Access your data</strong></p>
+<p>You have a right to know about the personal information that the British Nutrition Foundation holds about you. You also have the right to have your data corrected or deleted.</p>
+<p>If you have any questions about the use of your personal information, please contact the BNF at the address below. All requests will be acknowledged and processed within one month. This includes what data we hold, how it is used, amends and removal. BNF regularly deletes data which is no longer required.</p>
+<p>If you require any further information about data protection and privacy rights in the UK, please visit&nbsp;<a href="https://ico.org.uk/">The Information Commissioner</a>&nbsp;website.</p>
+<p><strong>Cookies</strong></p>
+<p>This website uses cookies, which are small text files that are placed on your computer by websites you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. They cannot be used to get information from your computer about you or read any personal material kept by you on your computer. The cookie is used to make the link between you and the information you have provided to the website. The creation of a cookie on your computer does not give the website any access to other information such as your email address.</p>
 <p>The Privacy and Electronic Communications (EC Directive) Regulations 2003 (the Regulations) cover the use of cookies and similar technologies for storing information, and accessing information stored, on a user’s equipment such as their computer or mobile. Amendments to the regulations came into effect on 25 May 2011 The Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011 make it compulsory for websites to inform users if cookies are being used, and to provide some information on how cookies are used.</p>
-<p>A list of the cookies we use on the site is below.&nbsp; You may delete and block all cookies from this site, but parts of the site will not work.</p>
-<p>Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit<a href="http://www.allaboutcookies.org/">www.allaboutcookies.org</a>.</p>
-<p>To opt out of being tracked by Google Analytics across all websites visit <a href="http://tools.google.com/dlpage/gaoptout">http://tools.google.com/dlpage/gaoptout</a></p>
+<p>You may delete and block all cookies from this site, but parts of the site will not work.</p>
+<p>Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit <a href="http://www.allaboutcookies.org/">www.allaboutcookies.org</a>.</p>
+<p>To opt out of being tracked by Google Analytics across all websites visit&nbsp;<a href="http://tools.google.com/dlpage/gaoptout">http://tools.google.com/dlpage/gaoptout</a></p>
+<p><strong>Disclaimer</strong></p>
+<p>The information on this site is for your information only. We take every step to try and ensure that the information on the site is accurate and complete, but the BNF will not be responsible for any loss suffered or incurred as a result of any reliance placed on the site or its contents. The site contains links to other sites, but this is not an endorsement of the organisations they depict or their products or services. We do not accept any responsibility or liability for any of the material contained on any third party web site.</p>
+<p>All material on this site is © British Nutrition Foundation 2018, unless otherwise stated. You may browse the site and print copies of extracts for personal use, but not for redistribution without our written consent.</p>
+<p>The advice provided on this site is generic in nature. The British Nutrition Foundation cannot provide personalised dietary or lifestyle advice. If you require individually tailored advice regarding food, nutrition and lifestyle then contact your own GP or a dietitian.</p>
+<p><strong>Contact information </strong></p>
+<p>British Nutrition Foundation</p>
+<p>New Derwent House</p>
+<p>69-73 Theobalds Road</p>
+<p>London</p>
+<p>WC1X 8TA</p>
+<p>&nbsp;</p>
+<p>Email: <a href="mailto:postbox@nutrition.org.uk">postbox@nutrition.org.uk</a></p>
+<p>Phone: 020 7557 7930</p>
+<p>Web: <a href="http://www.nutrition.org.uk">www.nutrition.org.uk</a>&nbsp; <a href="http://www.foodafactoflife.org.uk">www.foodafactoflife.org.uk</a>&nbsp; <a href="http://www.nutrition.training">www.nutrition.training</a></p>
+<p>&nbsp;</p>
+<p>Registered charity No.251681</p>
+<p>A charity registered in Scotland – SC040061 251681</p>
+<p>Registered in England as a company limited by guarantee No. 898651</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Note: Cookies on this site</p>
 <table>
 <tbody>
 <tr>
-<td width="146">
+<td style="width: 146px;">
 <p><strong><strong>Cookie</strong></strong></p>
 </td>
-<td width="147">
+<td style="width: 147px;">
 <p><strong><strong>Name</strong></strong></p>
 </td>
-<td width="146">
+<td style="width: 146px;">
 <p><strong><strong>Purpose</strong></strong></p>
 </td>
-<td width="146">
+<td style="width: 146px;">
 <p><strong><strong>More Information</strong></strong></p>
 </td>
 </tr>
 <tr>
-<td width="146">
+<td style="width: 146px;">
 <p>Session cookie</p>
 </td>
-<td width="147">
+<td style="width: 147px;">
 <p>Session cookie</p>
 </td>
-<td width="146">
+<td style="width: 146px;">
 <p>Stores user session. Session cookies allow users to be recognized within a website so any page changes or item or data selection you do is remembered from page to page. This cookie expires when you close your browser.</p>
 </td>
 </tr>
 <tr>
-<td width="146">
+<td style="width: 146px;">
 <p>Javascript enable cookie</p>
 </td>
-<td width="147">
+<td style="width: 147px;">
 <p>Has_js</p>
 </td>
-<td width="146">
+<td style="width: 146px;">
 <p>To check whether the user's browser supports JavaScript. This cookie expires when you close your browser.</p>
 </td>
 </tr>
 <tr>
-<td width="146">
+<td style="width: 146px;">
 <p>Site cookie acceptance</p>
 </td>
-<td width="147">
+<td style="width: 147px;">
 <p>cookiesDirective</p>
 </td>
-<td width="146">
+<td style="width: 146px;">
 <p>Used to prevent cookie popup from being displayed again to the same user.</p>
 </td>
 </tr>
 <tr>
-<td width="146">
+<td style="width: 146px;">
 <p>Site cookie acceptance</p>
 </td>
-<td width="147">
+<td style="width: 147px;">
 <p>cookiesAcceptance</p>
 </td>
-<td width="146">
+<td style="width: 146px;">
 <p>Used to store the user input on acceptance of cookie popup.</p>
 </td>
 </tr>
 <tr>
-<td width="146">
+<td style="width: 146px;">
 <p>Google Analytics</p>
 </td>
-<td width="147">
+<td style="width: 147px;">
 <p>_utma<br>_utmb<br>_utmc<br>_utmz</p>
 </td>
-<td width="146">
+<td style="width: 146px;">
 <p>These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.</p>
 </td>
-<td width="146">
+<td style="width: 146px;">
 <p><a href="http://www.google.co.uk/intl/en/analytics/privacyoverview.html">Google Analytics Overview</a></p>
 </td>
 </tr>
 <tr>
-<td width="146">
+<td style="width: 146px;">
 <p>ASP.NET_SessionId</p>
 </td>
-<td width="147">
+<td style="width: 147px;">
 <p>Session cookie</p>
 </td>
-<td width="146">
+<td style="width: 146px;">
 <p>Stores user session. Session cookies allow users to be recognized within a website so any page changes or item or data selection you do is remembered from page to page. This cookie expires when you close your browser.</p>
 </td>
 </tr>
@@ -424,17 +523,25 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 </div>
 
 
-	
+
 
 	
 
-	
 
 	
 
-	
 
 	
+
+
+	
+
+
+	
+
+
+	
+
 
 	
 	<!-- SOCIAL BAR -->
@@ -458,8 +565,10 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 </div></div></div>
 							</div>
 			</div>
-<!-- SPOTLIGHT -->	</div>
+<!-- SPOTLIGHT -->
+	</div>
 	<!-- //SOCIAL BAR -->
+
 
 	
 	<!-- NEWSLETTER SUBSCRIBE -->
@@ -490,18 +599,40 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 			<input type="text" value="" size="20" name="form[EmailAddress]" id="EmailAddress" placeholder="Email Address" class="rsform-input-box">
 			<span class="formValidation"><span id="component24" class="formNoError">Please let us know your email address.</span></span>
 		</div>
+      		<div class="form-group rsform-block-register col-sm-12">
+			<input type="checkbox" name="form[GDPRConsent][]" value="1" id="GDPRConsent0" class="rsform-checkbox"><label for="GDPRConsent0"> I confirm that I wish to receive the BNF Newsletter. (We will only use your details to issue you with our newsletter that contains information about BNF activities and nutrition issues, as outlined in our data policy.)</label>
+			<span class="formValidation"><span id="component121" class="formNoError">Please confirm that you wish to receive the BNF newsletter.</span></span>
+		</div>
 		<div class="form-group col-sm-3">
 			<input type="submit" name="form[SignUp]" id="SignUp" class="btn btn-brand-primary btn-block rsform-submit-button" value="Sign Up">
 			<span class="formValidation"></span>
 		</div>
 	</div>
-</fieldset><input type="hidden" name="form[formId]" value="3"></form></div></div></div></div>
+</fieldset>
+<style>
+.newsletter-signup .rsform-block-register label{
+    display: inline;
+}
+</style><input type="hidden" name="form[formId]" value="3"></form></div></div></div></div>
 							</div>
 			</div>
-<!-- SPOTLIGHT -->	</div>
+<!-- SPOTLIGHT -->
+	</div>
 	<!-- //NEWSLETTER SUBSCRIBE -->
 
-	
+
+	<!-- Hotjar Tracking Code for www.nutrition.org.uk -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:771322,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
 	
 	<div class="container-fluid t3-sl footer-top">
 			<!-- SPOTLIGHT -->
@@ -537,7 +668,9 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 </div></div></div>
 							</div>
 			</div>
-<!-- SPOTLIGHT -->	</div>
+<!-- SPOTLIGHT -->
+	</div>
+
 
 	
 	<div class="container-fluid t3-sl footer-bottom">
@@ -548,17 +681,19 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 
 <div class="custom">
 	<div class="col-sm-12">
-<p>© British Nutrition Foundation 2016. Registered Charity 251681 (A Charity Registered in Scotland SC040061)</p>
+<p>© British Nutrition Foundation 2018. Registered Charity 251681 (A Charity Registered in Scotland SC040061)</p>
 </div></div>
 </div></div></div>
 							</div>
 					<div class=" col-lg-4 col-md-4 col-sm-4 col-xs-12">
 								<div class="t3-module module nav-footer " id="Mod165"><div class="module-inner"><div class="module-ct"><ul class="nav menu list-inline pull-right">
-<li class="item-120"><a class="" href="/site-map.html" role="button">Site Map</a></li><li class="item-121 current active"><a class="" href="/privacy-policy.html" role="button">Privacy Policy</a></li><li class="item-1717"><a class="" href="/nutrition-myths-and-controversies-joint-bnf-and-rsm-conference.html" role="button">Nutrition myths and controversies: Joint BNF and RSM conference</a></li></ul>
+<li class="item-120"><a class="" href="/site-map.html" role="button">Site Map</a></li><li class="item-121 current active"><a class="" href="/privacy-policy.html" role="button">Privacy Policy</a></li></ul>
 </div></div></div>
 							</div>
 			</div>
-<!-- SPOTLIGHT -->	</div>
+<!-- SPOTLIGHT -->
+	</div>
+
 
 </div>
 
@@ -588,36 +723,48 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 		
 		<div class="t3-navbar">
 			<div class="t3-megamenu" data-duration="400" data-responsive="true">
-<ul class="nav navbar-nav level0">
-<li class="home" data-id="957" data-level="1" data-class="home" data-xicon="glyphicon glyphicon-home">
-<a class="" href="/" data-target="#"><span class="glyphicon glyphicon-home"></span>Home </a>
+<ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" class="nav navbar-nav level0">
+<li itemprop="name" class="home" data-id="957" data-level="1" data-class="home" data-xicon="glyphicon glyphicon-home">
+<a itemprop="url" class="" href="/" data-target="#"><span class="glyphicon glyphicon-home"></span>Home </a>
 
 </li>
-<li class="dropdown mega bnf-50" data-id="1619" data-level="1" data-class="bnf-50">
-<a class=" dropdown-toggle" href="/bnf50.html" data-target="#" data-toggle="dropdown">BNF 50 <span class="js-menu-item-toggle menu-item-toggle"></span></a>
+<li itemprop="name" class="dropdown mega nutrition-in-the-news" data-id="130" data-level="1" data-class="nutrition-in-the-news">
+<a itemprop="url" class=" dropdown-toggle" href="/nutritioninthenews.html" data-target="#" data-toggle="dropdown">Nutrition in the News <em class="caret"></em></a>
 
 <div class="nav-child dropdown-menu mega-dropdown-menu"><div class="mega-dropdown-inner">
 <div class="row">
 <div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
-<ul class="mega-nav level1">
-<li data-id="1638" data-level="2" data-hidesub="1">
-<a class="" href="/bnf50/bnf50welcome.html" data-target="#">BNF50 Welcome </a>
+<ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop="name" data-id="177" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/nutritioninthenews/headlines.html" data-target="#">Facts behind the headlines </a>
 
 </li>
-<li data-id="1621" data-level="2" data-hidesub="1">
-<a class="" href="/bnf50/bnf50blogs.html" data-target="#">BNF50 Blogs </a>
+<li itemprop="name" data-id="729" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/nutritioninthenews/previous-facts-behind-the-headlines.html" data-target="#">Previous Facts behind the headlines </a>
 
 </li>
-<li data-id="1625" data-level="2">
-<a class="" href="/bnf50/bnf50events.html" data-target="#">BNF50 Events </a>
+<li itemprop="name" data-id="189" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/nutritioninthenews/responses.html" data-target="#">BNF Consultation responses </a>
 
 </li>
-<li data-id="1622" data-level="2">
-<a class="" href="/bnf50/bnf50healthyliving.html" data-target="#">BNF50 Healthy Living </a>
+<li itemprop="name" data-id="185" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/nutritioninthenews/new-reports.html" data-target="#">New reports </a>
 
 </li>
-<li data-id="1620" data-level="2">
-<a class="" href="/bnf50/bnf50talks.html" data-target="#">BNF50 Talks </a>
+<li itemprop="name" data-id="138" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/nutritioninthenews/reports.html" data-target="#">Previous reports </a>
+
+</li>
+<li itemprop="name" data-id="154" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/nutritioninthenews/schoolchildren.html" data-target="#">Diet, nutrition and schoolchildren: An update </a>
+
+</li>
+<li itemprop="name" data-id="166" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/nutritioninthenews/wartimefood.html" data-target="#">Wartime food heroes </a>
+
+</li>
+<li itemprop="name" data-id="1652" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/nutritioninthenews/new-course.html" data-target="#">New events and courses </a>
 
 </li>
 </ul>
@@ -625,85 +772,83 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 </div>
 </div></div>
 </li>
-<li class="dropdown mega bnf-talks" data-id="1654" data-level="1" data-class="bnf-talks">
-<a class=" dropdown-toggle" href="/bnf-talks.html" data-target="#" data-toggle="dropdown">BNF Talks <span class="js-menu-item-toggle menu-item-toggle"></span></a>
-
-<div class="nav-child dropdown-menu mega-dropdown-menu"><div class="mega-dropdown-inner">
-</div></div>
-</li>
-<li class="dropdown mega healthy-living" data-id="131" data-level="1" data-class="healthy-living">
-<a class=" dropdown-toggle" href="/healthyliving.html" data-target="#" data-toggle="dropdown">Healthy living <span class="js-menu-item-toggle menu-item-toggle"></span></a>
+<li itemprop="name" class="dropdown mega healthy-living" data-id="131" data-level="1" data-class="healthy-living">
+<a itemprop="url" class=" dropdown-toggle" href="/healthyliving.html" data-target="#" data-toggle="dropdown">Healthy Living <em class="caret"></em></a>
 
 <div class="nav-child dropdown-menu mega-dropdown-menu"><div class="mega-dropdown-inner">
 <div class="row">
 <div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
-<ul class="mega-nav level1">
-<li data-id="184" data-level="2" data-hidesub="1">
-<a class="" href="/healthyliving/healthydiet.html" data-target="#">Healthy diet recommendations </a>
+<ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop="name" data-id="184" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/healthyliving/healthydiet.html" data-target="#">Healthy diet recommendations </a>
 
 </li>
-<li data-id="1643" data-level="2" data-hidesub="1">
-<a class="" href="/healthyliving/helpingyoueatwell.html" data-target="#">Helping you eat well </a>
+<li itemprop="name" data-id="1643" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/healthyliving/helpingyoueatwell.html" data-target="#">Helping you eat well </a>
 
 </li>
-<li data-id="160" data-level="2" data-hidesub="1">
-<a class="" href="/healthyliving/basics.html" data-target="#">Basics of nutrition </a>
+<li itemprop="name" data-id="160" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/healthyliving/basics.html" data-target="#">Basics of nutrition </a>
 
 </li>
-<li data-id="158" data-level="2" data-hidesub="1">
-<a class="" href="/healthyliving/hydration.html" data-target="#">Healthy hydration </a>
+<li itemprop="name" data-id="158" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/healthyliving/hydration.html" data-target="#">Healthy hydration </a>
 
 </li>
-<li data-id="136" data-level="2" data-hidesub="1">
-<a class="" href="/healthyliving/an-active-lifestyle.html" data-target="#">An active lifestyle </a>
+<li itemprop="name" data-id="136" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/healthyliving/an-active-lifestyle.html" data-target="#">An active lifestyle </a>
 
 </li>
-<li data-id="157" data-level="2" data-hidesub="1">
-<a class="" href="/healthyliving/fuller.html" data-target="#">Feed yourself fuller </a>
+<li itemprop="name" data-id="157" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/healthyliving/fuller.html" data-target="#">Feed yourself fuller </a>
 
 </li>
-<li data-id="162" data-level="2" data-hidesub="1">
-<a class="" href="/healthyliving/healthyageing.html" data-target="#">Healthy ageing </a>
+<li itemprop="name" data-id="162" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/healthyliving/healthyageing.html" data-target="#">Healthy ageing </a>
 
 </li>
-<li data-id="172" data-level="2" data-hidesub="1">
-<a class="" href="/healthyliving/lifestages.html" data-target="#">Life stages </a>
+<li itemprop="name" data-id="172" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/healthyliving/lifestages.html" data-target="#">Life stages </a>
 
 </li>
-<li data-id="168" data-level="2" data-hidesub="1">
-<a class="" href="/healthyliving/healthissues.html" data-target="#">Health issues </a>
+<li itemprop="name" data-id="168" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/healthyliving/healthissues.html" data-target="#">Health issues </a>
 
 </li>
-<li data-id="186" data-level="2" data-hidesub="1">
-<a class="" href="/healthyliving/nutrition4baby.html" data-target="#">Nutrition for Baby </a>
+<li itemprop="name" data-id="186" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/healthyliving/nutrition4baby.html" data-target="#">Nutrition for Baby </a>
 
 </li>
-<li data-id="875" data-level="2" data-hidesub="1">
-<a class="" href="/healthyliving/nutritionforpregnancy.html" data-target="#">Nutrition for Pregnancy </a>
+<li itemprop="name" data-id="875" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/healthyliving/nutritionforpregnancy.html" data-target="#">Nutrition for Pregnancy </a>
 
 </li>
-<li data-id="174" data-level="2" data-hidesub="1">
-<a class="" href="/healthyliving/seasons.html" data-target="#">Seasons and celebrations </a>
+<li itemprop="name" data-id="174" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/healthyliving/seasons.html" data-target="#">Seasons and celebrations </a>
 
 </li>
-<li data-id="688" data-level="2" data-hidesub="1">
-<a class="" href="/healthyliving/toddlers.html" data-target="#">Nutrition for toddlers </a>
+<li itemprop="name" data-id="688" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/healthyliving/toddlers.html" data-target="#">Nutrition for toddlers </a>
 
 </li>
-<li data-id="178" data-level="2" data-hidesub="1">
-<a class="" href="/healthyliving/healthylifeplanner.html" data-target="#">Healthy Life Planner for Women </a>
+<li itemprop="name" data-id="178" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/healthyliving/planner.html" data-target="#">Healthy Life Planner </a>
 
 </li>
-<li data-id="151" data-level="2" data-hidesub="1">
-<a class="" href="/healthyliving/behaviour.html" data-target="#">Changing behaviour </a>
+<li itemprop="name" data-id="151" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/healthyliving/behaviour.html" data-target="#">Changing behaviour </a>
 
 </li>
-<li data-id="800" data-level="2" data-hidesub="1">
-<a class="" href="/healthyliving/resources.html" data-target="#">Resources </a>
+<li itemprop="name" data-id="800" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/healthyliving/resources.html" data-target="#">Resources </a>
 
 </li>
-<li data-id="1187" data-level="2" data-hidesub="1">
-<a class="" href="/healthyliving/bnf-healthy-eating-week.html" data-target="#">BNF Healthy Eating Week </a>
+<li itemprop="name" data-id="856" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/healthyliving/hew.html" data-target="#">BNF Healthy Eating Week </a>
+
+</li>
+<li itemprop="name" data-id="465" data-level="2">
+<a itemprop="url" class="" href="/healthyliving/outofhome.html" data-target="#">Healthy eating outside of the home </a>
 
 </li>
 </ul>
@@ -711,51 +856,51 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 </div>
 </div></div>
 </li>
-<li class="dropdown mega nutrition-science" data-id="133" data-level="1" data-class="nutrition-science">
-<a class=" dropdown-toggle" href="/nutritionscience.html" data-target="#" data-toggle="dropdown">Nutrition science <span class="js-menu-item-toggle menu-item-toggle"></span></a>
+<li itemprop="name" class="dropdown mega nutrition-science" data-id="133" data-level="1" data-class="nutrition-science">
+<a itemprop="url" class=" dropdown-toggle" href="/nutritionscience.html" data-target="#" data-toggle="dropdown">Nutrition Science <em class="caret"></em></a>
 
 <div class="nav-child dropdown-menu mega-dropdown-menu"><div class="mega-dropdown-inner">
 <div class="row">
 <div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
-<ul class="mega-nav level1">
-<li data-id="1293" data-level="2" data-hidesub="1">
-<a class="" href="/nutritionscience/eseminars.html" data-target="#">eSeminars </a>
+<ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop="name" data-id="1293" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/nutritionscience/webinars.html" data-target="#">Webinars </a>
 
 </li>
-<li data-id="180" data-level="2" data-hidesub="1">
-<a class="" href="/nutritionscience/nutrients-food-and-ingredients.html" data-target="#">Nutrients, Food and Ingredients </a>
+<li itemprop="name" data-id="180" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/nutritionscience/nutrients-food-and-ingredients.html" data-target="#">Nutrients, Food and Ingredients </a>
 
 </li>
-<li data-id="161" data-level="2" data-hidesub="1">
-<a class="" href="/nutritionscience/obesity-and-weight-management.html" data-target="#">Obesity and Weight Management </a>
+<li itemprop="name" data-id="161" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/nutritionscience/obesityandweightmanagement.html" data-target="#">Obesity and Weight Management </a>
 
 </li>
-<li data-id="181" data-level="2" data-hidesub="1">
-<a class="" href="/nutritionscience/life.html" data-target="#">Nutrition through life </a>
+<li itemprop="name" data-id="181" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/nutritionscience/life.html" data-target="#">Nutrition through life </a>
 
 </li>
-<li data-id="173" data-level="2" data-hidesub="1">
-<a class="" href="/nutritionscience/health-conditions.html" data-target="#">Health Conditions </a>
+<li itemprop="name" data-id="173" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/nutritionscience/health-conditions.html" data-target="#">Health Conditions </a>
 
 </li>
-<li data-id="179" data-level="2" data-hidesub="1">
-<a class="" href="/nutritionscience/foodfacts.html" data-target="#">Food and labelling facts </a>
+<li itemprop="name" data-id="179" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/nutritionscience/foodfacts.html" data-target="#">Food and labelling facts </a>
 
 </li>
-<li data-id="143" data-level="2" data-hidesub="1">
-<a class="" href="/nutritionscience/allergy.html" data-target="#">Food allergy and intolerance </a>
+<li itemprop="name" data-id="143" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/nutritionscience/allergy.html" data-target="#">Food allergy and intolerance </a>
 
 </li>
-<li data-id="149" data-level="2" data-hidesub="1">
-<a class="" href="/nutritionscience/sustainability.html" data-target="#">Healthy, sustainable diets </a>
+<li itemprop="name" data-id="149" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/nutritionscience/sustainability.html" data-target="#">Healthy, sustainable diets </a>
 
 </li>
-<li data-id="164" data-level="2" data-hidesub="1">
-<a class="" href="/nutritionscience/careers.html" data-target="#">Careers </a>
+<li itemprop="name" data-id="164" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/nutritionscience/careers.html" data-target="#">Careers </a>
 
 </li>
-<li data-id="1464" data-level="2" data-hidesub="1">
-<a class="" href="/nutritionscience/researchspotlight.html" data-target="#">Research Spotlight </a>
+<li itemprop="name" data-id="1464" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/nutritionscience/researchspotlight.html" data-target="#">Research Spotlight </a>
 
 </li>
 </ul>
@@ -763,31 +908,29 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 </div>
 </div></div>
 </li>
-<li class="dropdown mega food-in-schools" data-id="127" data-level="1" data-class="food-in-schools">
-<a class=" dropdown-toggle" href="/foodinschools.html" data-target="#" data-toggle="dropdown">Food in schools <span class="js-menu-item-toggle menu-item-toggle"></span></a>
+<li itemprop="name" class="bnf-blogs" data-id="1621" data-level="1" data-class="bnf-blogs" data-hidesub="1">
+<a itemprop="url" class="" href="/bnf-blogs.html" data-target="#">BNF Blogs </a>
+
+</li>
+<li itemprop="name" class="dropdown mega bnf-talks" data-id="1654" data-level="1" data-class="bnf-talks">
+<a itemprop="url" class=" dropdown-toggle" href="/bnf-talks.html" data-target="#" data-toggle="dropdown">BNF Talks <em class="caret"></em></a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"><div class="mega-dropdown-inner">
+</div></div>
+</li>
+<li itemprop="name" class="dropdown mega bnf-events" data-id="134" data-level="1" data-class="bnf-events">
+<a itemprop="url" class=" dropdown-toggle" href="/bnfevents.html" data-target="#" data-toggle="dropdown">BNF Events <em class="caret"></em></a>
 
 <div class="nav-child dropdown-menu mega-dropdown-menu"><div class="mega-dropdown-inner">
 <div class="row">
 <div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
-<ul class="mega-nav level1">
-<li data-id="137" data-level="2" data-hidesub="1">
-<a class="" href="/foodinschools/programme.html" data-target="#">BNF Education Programme </a>
+<ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop="name" data-id="183" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/index.php/bnfevents.html" data-target="#">Current events</a>
 
 </li>
-<li data-id="139" data-level="2" data-hidesub="1">
-<a class="" href="/foodinschools/curriculum.html" data-target="#">Curriculum </a>
-
-</li>
-<li data-id="170" data-level="2" data-hidesub="1">
-<a class="" href="/foodinschools/teachercentre.html" data-target="#">Teacher Centre </a>
-
-</li>
-<li data-id="141" data-level="2" data-hidesub="1">
-<a class="" href="/foodinschools/foodprovision.html" data-target="#">Food provision </a>
-
-</li>
-<li data-id="146" data-level="2" data-hidesub="1">
-<a class="" href="/foodinschools/competences.html" data-target="#">Food competences </a>
+<li itemprop="name" data-id="188" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/bnfevents/pastevents.html" data-target="#">Past events </a>
 
 </li>
 </ul>
@@ -795,43 +938,27 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 </div>
 </div></div>
 </li>
-<li class="dropdown mega nutrition-in-the-news" data-id="130" data-level="1" data-class="nutrition-in-the-news">
-<a class=" dropdown-toggle" href="/nutritioninthenews.html" data-target="#" data-toggle="dropdown">Nutrition in the news <span class="js-menu-item-toggle menu-item-toggle"></span></a>
+<li itemprop="name" class="dropdown mega publications" data-id="129" data-level="1" data-class="publications">
+<a itemprop="url" class=" dropdown-toggle" href="/bnf-publications.html" data-target="#" data-toggle="dropdown">BNF Publications <em class="caret"></em></a>
 
 <div class="nav-child dropdown-menu mega-dropdown-menu"><div class="mega-dropdown-inner">
 <div class="row">
 <div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
-<ul class="mega-nav level1">
-<li data-id="177" data-level="2" data-hidesub="1">
-<a class="" href="/nutritioninthenews/headlines.html" data-target="#">Facts behind the headlines </a>
+<ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop="name" data-id="140" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/bnf-publications/newsletters.html" data-target="#">BNF Newsletters </a>
 
 </li>
-<li data-id="729" data-level="2" data-hidesub="1">
-<a class="" href="/nutritioninthenews/previous-facts-behind-the-headlines.html" data-target="#">Previous Facts behind the headlines </a>
+<li itemprop="name" data-id="163" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/bnf-publications/bulletin.html" data-target="#">Nutrition Bulletin </a>
 
 </li>
-<li data-id="189" data-level="2" data-hidesub="1">
-<a class="" href="/nutritioninthenews/responses.html" data-target="#">BNF Consultation responses </a>
+<li itemprop="name" data-id="176" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/bnf-publications/briefingpapers.html" data-target="#">Briefing Papers </a>
 
 </li>
-<li data-id="185" data-level="2" data-hidesub="1">
-<a class="" href="/nutritioninthenews/new-reports.html" data-target="#">New reports </a>
-
-</li>
-<li data-id="138" data-level="2" data-hidesub="1">
-<a class="" href="/nutritioninthenews/reports.html" data-target="#">Previous reports </a>
-
-</li>
-<li data-id="154" data-level="2" data-hidesub="1">
-<a class="" href="/nutritioninthenews/schoolchildren.html" data-target="#">Diet, nutrition and schoolchildren: An update </a>
-
-</li>
-<li data-id="166" data-level="2" data-hidesub="1">
-<a class="" href="/nutritioninthenews/wartimefood.html" data-target="#">Wartime food heroes </a>
-
-</li>
-<li data-id="1652" data-level="2" data-hidesub="1">
-<a class="" href="/nutritioninthenews/new-course.html" data-target="#">New events and courses </a>
+<li itemprop="name" data-id="148" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/bnf-publications/new-task-force.html" data-target="#">New BNF Task Force Report </a>
 
 </li>
 </ul>
@@ -839,19 +966,31 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 </div>
 </div></div>
 </li>
-<li class="dropdown mega press-office" data-id="1721" data-level="1" data-class="press-office">
-<a class=" dropdown-toggle" href="/press-office.html" data-target="#" data-toggle="dropdown">Press Office <span class="js-menu-item-toggle menu-item-toggle"></span></a>
+<li itemprop="name" class="dropdown mega food-in-schools" data-id="127" data-level="1" data-class="food-in-schools">
+<a itemprop="url" class=" dropdown-toggle" href="/foodinschools.html" data-target="#" data-toggle="dropdown">Food In Schools <em class="caret"></em></a>
 
 <div class="nav-child dropdown-menu mega-dropdown-menu"><div class="mega-dropdown-inner">
 <div class="row">
 <div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
-<ul class="mega-nav level1">
-<li data-id="1723" data-level="2">
-<a class="" href="/press-office/press-office.html" data-target="#">Press Office </a>
+<ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop="name" data-id="139" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/foodinschools/curriculum.html" data-target="#">Curriculum </a>
 
 </li>
-<li data-id="187" data-level="2" data-hidesub="1">
-<a class="" href="/press-office/pressreleases.html" data-target="#">Press Releases </a>
+<li itemprop="name" data-id="170" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/foodinschools/teachercentre.html" data-target="#">Teacher Centre </a>
+
+</li>
+<li itemprop="name" data-id="141" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/foodinschools/foodprovision.html" data-target="#">Food provision </a>
+
+</li>
+<li itemprop="name" data-id="146" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/foodinschools/competences.html" data-target="#">Food competences </a>
+
+</li>
+<li itemprop="name" data-id="137" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/foodinschools/programme.html" data-target="#">BNF Education Programme </a>
 
 </li>
 </ul>
@@ -859,19 +998,19 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 </div>
 </div></div>
 </li>
-<li class="dropdown mega bnf-events" data-id="134" data-level="1" data-class="bnf-events">
-<a class=" dropdown-toggle" href="/bnfevents.html" data-target="#" data-toggle="dropdown">BNF events <span class="js-menu-item-toggle menu-item-toggle"></span></a>
+<li itemprop="name" class="dropdown mega press-office" data-id="1721" data-level="1" data-class="press-office">
+<a itemprop="url" class=" dropdown-toggle" href="/press-office.html" data-target="#" data-toggle="dropdown">Press Office <em class="caret"></em></a>
 
 <div class="nav-child dropdown-menu mega-dropdown-menu"><div class="mega-dropdown-inner">
 <div class="row">
 <div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
-<ul class="mega-nav level1">
-<li data-id="183" data-level="2" data-hidesub="1">
-<a class="" href="/index.php/bnfevents.html" data-target="#">Current events</a>
+<ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop="name" data-id="1723" data-level="2">
+<a itemprop="url" class="" href="/press-office/press-office.html" data-target="#">Press Office </a>
 
 </li>
-<li data-id="188" data-level="2" data-hidesub="1">
-<a class="" href="/bnfevents/pastevents.html" data-target="#">Past events </a>
+<li itemprop="name" data-id="187" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/press-office/pressreleases.html" data-target="#">Press Releases </a>
 
 </li>
 </ul>
@@ -879,27 +1018,29 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 </div>
 </div></div>
 </li>
-<li class="dropdown mega publications" data-id="129" data-level="1" data-class="publications">
-<a class=" dropdown-toggle" href="/publications.html" data-target="#" data-toggle="dropdown">Publications <span class="js-menu-item-toggle menu-item-toggle"></span></a>
+<li itemprop="name" class="dropdown mega online-training" data-id="128" data-level="1" data-class="online-training">
+<a itemprop="url" class=" dropdown-toggle" href="/online-training.html" data-target="#" data-toggle="dropdown">Online Training  <em class="caret"></em></a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"><div class="mega-dropdown-inner">
+</div></div>
+</li>
+<li itemprop="name" class="dropdown mega shop" data-id="955" data-level="1" data-class="shop">
+<a itemprop="url" class=" dropdown-toggle" href="/shop.html" data-target="#" data-toggle="dropdown">Shop <em class="caret"></em></a>
 
 <div class="nav-child dropdown-menu mega-dropdown-menu"><div class="mega-dropdown-inner">
 <div class="row">
 <div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
-<ul class="mega-nav level1">
-<li data-id="140" data-level="2" data-hidesub="1">
-<a class="" href="/publications/newsletters.html" data-target="#">BNF Newsletters </a>
+<ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop="name" data-id="962" data-level="2">
+<a itemprop="url" class="" href="/shop/leaflets-and-posters.html" data-target="#">Leaflets and posters </a>
 
 </li>
-<li data-id="163" data-level="2" data-hidesub="1">
-<a class="" href="/publications/bulletin.html" data-target="#">Nutrition Bulletin </a>
+<li itemprop="name" data-id="1421" data-level="2">
+<a itemprop="url" class="" href="/shop/schools.html" data-target="#">Schools </a>
 
 </li>
-<li data-id="176" data-level="2" data-hidesub="1">
-<a class="" href="/publications/briefingpapers.html" data-target="#">Briefing Papers </a>
-
-</li>
-<li data-id="148" data-level="2" data-hidesub="1">
-<a class="" href="/publications/new-task-force.html" data-target="#">New BNF Task Force Report </a>
+<li itemprop="name" data-id="1007" data-level="2">
+<a itemprop="url" class="" href="/shop/my-account.html" data-target="#">My Account </a>
 
 </li>
 </ul>
@@ -907,39 +1048,15 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 </div>
 </div></div>
 </li>
-<li class="dropdown mega about-bnf" data-id="132" data-level="1" data-class="about-bnf">
-<a class=" dropdown-toggle" href="/aboutbnf.html" data-target="#" data-toggle="dropdown">About BNF <span class="js-menu-item-toggle menu-item-toggle"></span></a>
+<li itemprop="name" class="dropdown mega memberships" data-id="1122" data-level="1" data-class="memberships">
+<a itemprop="url" class=" dropdown-toggle" href="/memberships.html" data-target="#" data-toggle="dropdown">Memberships <em class="caret"></em></a>
 
 <div class="nav-child dropdown-menu mega-dropdown-menu"><div class="mega-dropdown-inner">
 <div class="row">
 <div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
-<ul class="mega-nav level1">
-<li data-id="155" data-level="2" data-hidesub="1">
-<a class="" href="/aboutbnf/whoweare.html" data-target="#">Who we are </a>
-
-</li>
-<li data-id="696" data-level="2" data-hidesub="1">
-<a class="" href="/aboutbnf/whatwedo.html" data-target="#">What we do </a>
-
-</li>
-<li data-id="710" data-level="2" data-hidesub="1">
-<a class="" href="/aboutbnf/supportwhatwedo.html" data-target="#">Support what we do </a>
-
-</li>
-<li data-id="714" data-level="2" data-hidesub="1">
-<a class="" href="/aboutbnf/supporters.html" data-target="#">Supporters </a>
-
-</li>
-<li data-id="182" data-level="2" data-hidesub="1">
-<a class="" href="/aboutbnf/bnfawards.html" data-target="#">BNF Awards </a>
-
-</li>
-<li data-id="1559" data-level="2" data-hidesub="1">
-<a class="" href="/aboutbnf/casestudies.html" data-target="#">Case studies </a>
-
-</li>
-<li data-id="171" data-level="2" data-hidesub="1">
-<a class="" href="/aboutbnf/jobs.html" data-target="#">Job opportunities </a>
+<ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop="name" data-id="1163" data-level="2">
+<a itemprop="url" class="" href="/memberships/purchase-membership.html" data-target="#">Purchase Membership </a>
 
 </li>
 </ul>
@@ -947,45 +1064,43 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 </div>
 </div></div>
 </li>
-<li class="dropdown mega online-training" data-id="128" data-level="1" data-class="online-training">
-<a class=" dropdown-toggle" href="/online-training.html" data-target="#" data-toggle="dropdown">Online Training <span class="js-menu-item-toggle menu-item-toggle"></span></a>
-
-<div class="nav-child dropdown-menu mega-dropdown-menu"><div class="mega-dropdown-inner">
-</div></div>
-</li>
-<li class="dropdown mega shop" data-id="955" data-level="1" data-class="shop">
-<a class=" dropdown-toggle" href="/shop.html" data-target="#" data-toggle="dropdown">Shop <span class="js-menu-item-toggle menu-item-toggle"></span></a>
+<li itemprop="name" class="dropdown mega about-bnf" data-id="132" data-level="1" data-class="about-bnf">
+<a itemprop="url" class=" dropdown-toggle" href="/aboutbnf.html" data-target="#" data-toggle="dropdown">About BNF <em class="caret"></em></a>
 
 <div class="nav-child dropdown-menu mega-dropdown-menu"><div class="mega-dropdown-inner">
 <div class="row">
 <div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
-<ul class="mega-nav level1">
-<li data-id="962" data-level="2">
-<a class="" href="/shop/leaflets-and-posters.html" data-target="#">Leaflets and posters </a>
+<ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop="name" data-id="155" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/aboutbnf/whoweare.html" data-target="#">Who we are </a>
 
 </li>
-<li data-id="1421" data-level="2">
-<a class="" href="/shop/schools.html" data-target="#">Schools </a>
+<li itemprop="name" data-id="696" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/aboutbnf/whatwedo.html" data-target="#">What we do </a>
 
 </li>
-<li data-id="1007" data-level="2">
-<a class="" href="/shop/my-account.html" data-target="#">My Account </a>
+<li itemprop="name" data-id="710" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/aboutbnf/supportwhatwedo.html" data-target="#">Support what we do </a>
 
 </li>
-</ul>
-</div></div>
-</div>
-</div></div>
-</li>
-<li class="dropdown mega memberships" data-id="1122" data-level="1" data-class="memberships">
-<a class=" dropdown-toggle" href="/memberships.html" data-target="#" data-toggle="dropdown">Memberships <span class="js-menu-item-toggle menu-item-toggle"></span></a>
+<li itemprop="name" data-id="714" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/aboutbnf/supporters.html" data-target="#">Supporters </a>
 
-<div class="nav-child dropdown-menu mega-dropdown-menu"><div class="mega-dropdown-inner">
-<div class="row">
-<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
-<ul class="mega-nav level1">
-<li data-id="1163" data-level="2">
-<a class="" href="/memberships/purchase-membership.html" data-target="#">Purchase Membership </a>
+</li>
+<li itemprop="name" data-id="182" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/aboutbnf/bnfawards.html" data-target="#">BNF Awards </a>
+
+</li>
+<li itemprop="name" data-id="1559" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/aboutbnf/casestudies.html" data-target="#">Case studies </a>
+
+</li>
+<li itemprop="name" data-id="171" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/aboutbnf/jobs.html" data-target="#">Job opportunities </a>
+
+</li>
+<li itemprop="name" data-id="1638" data-level="2" data-hidesub="1">
+<a itemprop="url" class="" href="/aboutbnf/bnf50welcome.html" data-target="#">BNF at 50 </a>
 
 </li>
 </ul>
@@ -1004,12 +1119,14 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 <!-- //MAIN NAVIGATION -->
 
 
+
 <div id="t3-off-sidebar" class="t3-off-sidebar">
   <div class="menu-toggle js-menu-toggle h1 text-center">
     <span class="glyphicon glyphicon-menu-hamburger"></span>
   </div>
   
 </div>
+
 
 		<!-- Google Analytics -->
 		<script>
