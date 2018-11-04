@@ -1,55 +1,169 @@
-> *The following text is extracted and transformed from the lycoschat.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506002239id_/https%3A//uk.lycoschat.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lycoschat.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104084302id_/http%3A//uk.lycoschat.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### What information do we collect?
-
-We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form.
-
-When registering on our site, you will be asked to enter your: name, email address and mailing address. 
-
-Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
-
-### What do we use your information for? 
-
-Any of the information we collect from you may be used in one of the following ways: 
-
-  1. To personalise your experience (your information helps us to better respond to your individual needs); 
-  2. To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you);
-  3. To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs);
-  4. To administer a contest, promotion, survey or other site feature;
-  5. To send periodic emails; and
-  6. For investigative purposes as required.
+  1. **INTRODUCTION**
 
 
 
-The email address you provide, may be used to send you information and updates pertaining to the Service, in addition to receiving occasional company news, updates, related product or service information, etc.
+This privacy notice provides you with details of how we collect and process your personal data through your use of Lycos and Jubii Chats, or any other product delivered by Ysis Social Ltd.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+By providing us with your data, you warrant to us that you are over 13 years of age.
 
-### How do we protect your information? 
+**Ysis Social Ltd** is the data controller, and we are responsible for your personal data (referred to as “we”, “us” or “our” in this privacy notice).
 
-The Chat works with secure data networks protected by both industry-standard firewalls and by passwords. We use security measures in order to guarantee that your details are protected against loss, changes or misuse. 
+**Contact Details**
 
-Only selected employees have access to the information you send to us. Those employees who come into contact with your personal details are bound in writing before starting their activities to observe the confidentiality of data. We do everything we possibly can, in organisational and technical terms, to protect your details.
+Our full details are:
 
-### Do we use cookies?
+Full name of legal entity: **Ysis Social Ltd**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognise your browser and capture and remember certain information
+Email address: **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+Postal address:
 
-### Do we disclose any information to outside parties? 
+**4 Imperial Place  
+** **Maxwell Road  
+** **Borehamwood WD6 1JN  
+** **United Kingdom**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by updating your details in your profile.
 
-### Third party links 
+  2. **WHAT DATA DO WE COLLECT ABOUT YOU, FOR WHAT PURPOSE AND ON WHAT GROUND WE PROCESS IT**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-### Online Privacy Policy Only 
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+Personal data means any information capable of identifying an individual. It does not include anonymised data.
+
+We may process the following categories of personal data about you:
+
+  * **Communication Data** that includes any communication that you send to us whether that be through the contact form on our website, through email, text, social media messaging, social media posting or any other communication that you send us. We process this data for the purposes of communicating with you, for record keeping and for the establishment, pursuance or defence of legal claims. Our lawful ground for this processing is our legitimate interests which in this case are to reply to communications sent to us, to keep records and to establish, pursue or defend legal claims.
+
+
+  * **Customer Data** that includes data relating to any purchases of goods and/or services such as your name, title, billing address, delivery address email address, phone number, contact details and purchase details. We process this data to supply the services you have purchased and to keep records of such transactions. Our lawful ground for this processing is the performance of a contract between you and us and/or taking steps at your request to enter into such a contract.
+
+
+  * **User Data** that includes data about how you use our website and any online services together with any data that you post for publication on our website or through other online services. We process this data to operate our website and ensure relevant content is provided to you, to ensure the security of our website, to maintain backups of our website and/or databases and to enable publication and administration of our website, other online services and business. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business.
+
+
+  * **Technical Data** that may include data about your use of our website and online services such as your IP address, your login data, details about your browser, length of visit to pages on our website, page views and navigation paths, details about the number of times you use our website, time zone settings and other technology on the devices you use to access our website. The source of this data is from our analytics tracking system. We process this data to analyse your use of our website and other online services, to administer and protect our business and website, to deliver relevant website content and advertisements to you and to understand the effectiveness of our advertising. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business and to grow our business and to decide our marketing strategy. ****
+
+
+  * **Marketing Data** that may include data about your preferences in receiving marketing from us and our third parties and your communication preferences. We process this data to enable you to partake in our promotions such as competitions, prize draws and free giveaways, to deliver relevant website content and advertisements to you and measure or understand the effectiveness of this advertising. Our lawful ground for this processing is our legitimate interests which in this case are to study how customers use our products/services, to develop them, to grow our business and to decide our marketing strategy.
+
+
+  * We may use Customer Data, User Data, Technical Data and Marketing Data to deliver relevant website content and advertisements to you (including Facebook adverts or other display advertisements) and to measure or understand the effectiveness of the advertising we serve you. Our lawful ground for this processing is legitimate interests which is to grow our business. We may also use such data to send other marketing communications to you. Our lawful ground for this processing is either consent or legitimate interests (namely to grow our business).
+
+
+
+**Sensitive Data**
+
+We do not actively collect any Sensitive Data about you. Sensitive data refers to data that includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. We do not collect any information about criminal convictions and offences.
+
+Where we are required to collect personal data by law, or under the terms of the contract between us and you do not provide us with that data when requested, we may not be able to perform the contract (for example, to deliver goods or services to you). If you don’t provide us with the requested data, we may have to cancel a product or service you have ordered but if we do, we will notify you at the time.
+
+We will only use your personal data for a purpose it was collected for or a reasonably compatible purpose if necessary. For more information on this please email us at **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**. In case we need to use your details for an unrelated new purpose we will let you know and explain the legal grounds for processing.
+
+We may process your personal data without your knowledge or consent where this is required or permitted by law.
+
+We do not carry out automated decision making or any type of automated profiling. 
+
+  3. **HOW WE COLLECT YOUR** **PERSONAL** **DATA**
+
+
+
+We may collect data about you by you providing the data directly to us (for example by filling in forms on our site or by sending us emails). We may automatically collect certain data from you as you use our website by using cookies and similar technologies. Please see our [cookie policy](https://web.archive.org/cookies.aspx) for more details about this
+
+We may receive data from third parties such as analytics providers such as Google, based outside the EU, advertising networks such as Facebook, based outside the EU, such as search information providers such as Google based outside the EU, providers of technical, payment and delivery services, such as data brokers or aggregators.
+
+  4. **MARKETING COMMUNICATIONS** ****
+
+
+
+Our lawful ground of processing your personal data to send you marketing communications is either your consent or our legitimate interests (namely to grow our business). ****
+
+Under the Privacy and Electronic Communications Regulations, we may send you marketing communications from us if (i) you made a purchase or asked for information from us about our goods or services or (ii) you agreed to receive marketing communications and in each case you have not opted out of receiving such communications since. Under these regulations, if you are a limited company, we may send you marketing emails without your consent. However, you can still opt out of receiving marketing emails from us at any time.
+
+Before we share your personal data with any third party for their own marketing purposes we will get your express consent.
+
+You can ask us or third parties to stop sending you marketing messages at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences OR by following the opt-out links on any marketing message sent to you.
+
+If you opt out of receiving marketing communications, this opt-out does not apply to personal data provided as a result of other transactions, such as purchases, warranty registrations etc.
+
+  5. **DISCLOSURES OF YOUR** **PERSONAL** **DATA**
+
+
+
+We may have to share your personal data with the parties set out below:
+
+  * Other companies in our group who provide services to us.
+  * Service providers who provide IT and system administration services.
+  * Professional advisers including lawyers, bankers, auditors and insurers
+  * Government bodies that require us to report processing activities.
+  * Third parties to whom we sell, transfer, or merge parts of our business or our assets.
+  * Law enforcement where the proper legal challenges have been met
+
+
+
+We require all third parties to whom we transfer your data to respect the security of your personal data and to treat it in accordance with the law. We only allow such third parties to process your personal data for specified purposes and in accordance with our instructions.
+
+  6. **INTERNATIONAL TRANSFERS**
+
+
+
+We do not transfer your personal data outside the European Economic Area ( **EEA** ).
+
+  7. **DATA SECURITY**
+
+
+
+We have put in place security measures to prevent your personal data from being accidentally lost, used, altered, disclosed, or accessed without authorisation. We also allow access to your personal data only to those employees and partners who have a business need to know such data. They will only process your personal data on our instructions and they must keep it confidential.
+
+We have procedures in place to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach if we are legally required to.
+
+  8. **DATA RETENTION**
+
+
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including to satisfy any legal, accounting, or reporting requirements.
+
+When deciding what the correct time is to keep the data for we look at its amount, nature and sensitivity, the potential risk of harm from unauthorised use or disclosure, the processing purposes, if these can be achieved by other means and legal requirements.
+
+For tax purposes, the law requires us to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years after they stop being customers.
+
+In some circumstances, we may anonymise your personal data for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+  9. **YOUR LEGAL RIGHTS**
+
+
+
+Under data protection laws you have rights in relation to your personal data that include the right to request access, correction, erasure, restriction, transfer, to object to processing, to the portability of data and (where the lawful ground of processing is consent) to withdraw consent.
+
+You can see more about these rights at:
+
+https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/
+
+If you wish to exercise any of the rights set out above, please email us at **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**.
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive or refuse to comply with your request in these circumstances.
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you.
+
+If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](https://www.ico.org.uk/)). We should be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you.
+
+  10. **THIRD-PARTY LINKS**
+
+
+
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
+
+  11. **COOKIES**
+
+
+
+You can set your browser to refuse all or some browser cookies or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our [Cookie Policy](https://web.archive.org/cookies.aspx)
 
 ### Terms and Conditions 
 
