@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voice.pk privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531174851id_/http%3A//www.voice.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voice.pk privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104162810id_/http%3A//www.voice.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Voice.pk
 
@@ -20,13 +20,13 @@ In the event of authorized law enforcement investigations, and pursuant to any r
 
 If users wish to subscribe to our e-mail newsletters, we ask for contact information. Our Daily Newsletter is powered by FeedBurner, however we use in-house solution for weekly Newsletter. We/Feedburner use information submitted by you in the same manner as we use contact information described above. Recipients of our newsletters can unsubscribe using the instructions listed at the end of the e-mail newsletter.
 
-[Click here to Subscribe to our newsletters for Free](http://feedburner.google.com/fb/a/mailverify?uri=feedburner/voicepk "Free Email Subscription of Daily Updated News")
+[Click here to Subscribe to our newsletters for Free](https://feedburner.google.com/fb/a/mailverify?uri=feedburner/voicepk "Free Email Subscription of Daily Updated News")
 
 **»  **Third Party Advertising Partners
 
 All users of  **Voice.PK (Voice of Pakistan)**  must keep this in mind that third parties may be placing and reading cookies on your browsers, or using web beacons to collect information as a result of ad serving on our website.
 
-For, instance one of our partners, Google uses the [ DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) on **Voice.PK (Voice of Pakistan)** displaying Google AdSense for content ads. Similarly, other advertising partners may use their respective cookies to track advertising stats.
+For, instance one of our partners, Google uses the [ DoubleClick DART cookie](https://www.doubleclick.com/privacy/faq.aspx) on **Voice.PK (Voice of Pakistan)** displaying Google AdSense for content ads. Similarly, other advertising partners may use their respective cookies to track advertising stats.
 
 **» External Links**
 
@@ -34,6 +34,6 @@ Our web sites contain links to other sites.  **Voice.PK (Voice of Pakistan)** i
 
 **» Disclaimer:**
 
-Mostly News, Articles and Images are not under our copyrights, these belong to their respective owners. News, Images and Articles have been taken from different sources, If anything is offensive or under your Copyrights then please E-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to get it removed.
+Mostly News, Articles and Images are not under our copyrights, these belong to their respective owners. News, Images and Articles have been taken from different sources, If anything is offensive or under your Copyrights then please E-mail us at admin@voice.pk to get it removed.
 
 Note: This Page can get updated any time, without an prior notice, so keep checking back.
