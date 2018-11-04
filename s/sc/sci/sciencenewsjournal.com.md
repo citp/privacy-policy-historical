@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencenewsjournal.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505072803id_/http%3A//sciencenewsjournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencenewsjournal.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104171744id_/http%3A//sciencenewsjournal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Science News Journal
 
