@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topresume.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626161615id_/https%3A//www.topresume.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topresume.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104100322id_/https%3A//www.topresume.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TopResume
 
@@ -7,6 +7,8 @@ Thanks for working with us! Here we describe how we collect, use, and handle you
 We at Talent Worldwide Inc. doing business in the United States as TopResume and in the European Union as TopCV (we, us, our, the Company, ‘TopCV’, ‘TopResume’, ‘Talent Inc’) are committed to protecting and respecting your privacy and ensuring that your personal data (as described in this policy) is processed fairly and lawfully in line with all relevant privacy legislation.
 
 If you are in the European Union, please note that we have appointed a data protection officer (DPO) who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your legal rights please contact our DPO Wendy Kennedy at [DPO@talentinc.com.](mailto:DPO@talentinc.com)
+
+We are committed to compliance with both the EU General Data Protection Regulation (GDPR) and the US-EU Privacy Shield Framework and Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Individuals in the European Union member countries and Switzerland. We have certified that it adheres to the Privacy Shield Privacy Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, recourse, enforcement and liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Privacy Principles, the Privacy Shield Privacy Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). The Federal Trade Commission (FTC) has jurisdiction over compliance with the Privacy Shield.
 
 ### Your Data
 
@@ -36,6 +38,10 @@ _The data we collect and process._ You may give us personal information by visit
 We may share information as discussed below, but we won’t sell it to advertisers or third parties.
 
 _Others working for Talent Inc._ Talent Inc. uses trusted third parties (i.e. IT services, analytics services, etc.) to help us provide, improve, protect, and promote our Services. These third parties will access your information only to perform tasks on our behalf in compliance with this privacy policy, and we’ll remain responsible for their handling of your information per our instructions.
+
+We do not disclose personal information to third parties for purposes that are materially different than what it was originally collected for. Should this change in the future, we will provide individuals with the option to opt-out.
+
+We remain liable should a trusted third party to whom we’ve sent your information processes it in a manner inconsistent with this Policy, unless the organization proves that it is not responsible for the event giving rise to the damage.
 
 ### Protecting your data
 
@@ -100,6 +106,12 @@ In relation to personal data of individuals in the European Union, we may share 
   * Where we transfer your data to third parties, we will transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission (for further details, see [Adequacy decisions of the European Commission)](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en), or we will use specific contracts approved by the European Commission which give personal data the same protection it has in Europe (for further details, see [International data transfers using model contracts).](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en)
 
 
+
+In compliance with the US-EU and Swiss-US Privacy Shield Principles, we are committed to resolve complaints about your privacy and our collection or use of your personal information. EU and Swiss individuals with questions or concerns about the use of their Personal Data should contact us at: [dpo@talentinc.com](mailto:dpo@talentinc.com)
+
+If your question or concern cannot be satisfied through this process we are further committed to refer unresolved privacy complaints under US-EU Privacy Shield and Swiss-US Privacy Shield to an independent dispute resolution mechanism operated by Judicial Arbitration and Mediation Services (JAMS).
+
+If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by us, EU and Swiss individuals may bring a complaint before the JAM EU and Swiss Privacy Shield program can be found at: www.jamsadr.org. Finally, as a last resort and in limited situations, EU and Swiss individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism. We are committed to cooperate with EU and Swiss data protection authorities (DPAs) and comply with the advice given by such authorities with regard to human resources data transferred from the EU and Switzerland.
 
 ### Changes to our Company
 
