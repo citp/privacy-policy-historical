@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationaltheatre.org.uk privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527015931id_/https%3A//www.nationaltheatre.org.uk/your-visit/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaltheatre.org.uk privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105081021id_/https%3A//www.nationaltheatre.org.uk/your-visit/policies/privacy) for the most accurate reproduction.*
 
 # Privacy | National Theatre
 
@@ -204,7 +204,7 @@ Where we refer to using your information on the basis of our ‘legitimate inter
 
   * personalising, enhancing, modifying or otherwise improving the services and/or communications that we provide to you;
   * detecting and preventing fraud and operating a safe and lawful business;
-  * improving security and optimisation of our network, sites and services; and
+  * improving security and optimisation of our network, sites and services; 
   * providing you with customer service.
 
 
@@ -227,7 +227,7 @@ In particular, if you live in the USA and are an actual or prospective donor we 
 
 ### How long do we keep your data?
 
-We will keep your information only for as long as is reasonably necessary for the purposes set out in this Privacy Policy and to fulfil our legal obligations. We will not keep more information than we need.
+INTRO: We will keep your information only for as long as is reasonably necessary for the purposes set out in this Privacy Policy and to fulfil our legal obligations. We will not keep more information than we need.
 
 The retention period will vary according to the purpose, for example if purchasing a ticket only, we will typically keep your data for up to eight years from the date of your last transaction whereas, if you have pledged a legacy to the National Theatre, we will hold your details until notified by your executors. For further information about how long we will keep your information, please contact the Data Protection Manager using the contact details outlined in this policy.
 
