@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ministryofsupply.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601104113id_/https%3A//ministryofsupply.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ministryofsupply.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106003305id_/https%3A//ministryofsupply.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ministry of Supply
 
