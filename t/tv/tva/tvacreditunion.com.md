@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvacreditunion.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030032059id_/http%3A//www.tvacreditunion.com/content/docs/KTVAECU_PrivacyNotice%252012.2011.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvacreditunion.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105062034id_/https%3A//tvacreditunion.com/content/docs/KTVAECU_PrivacyNotice-122011.pdf) for the most accurate reproduction.*
 
 # FACTS
 
