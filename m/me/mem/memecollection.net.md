@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memecollection.net privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621231915id_/http%3A//memecollection.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memecollection.net privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105125009id_/http%3A//memecollection.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Meme Collection
 
