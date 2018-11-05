@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the american.edu privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602022438id_/http%3A//www.american.edu/oit/policies/Web-Copyright.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the american.edu privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105113616id_/https%3A//american.edu/oit/policies/Web-Copyright.cfm) for the most accurate reproduction.*
 
 # Web Copyright | Office of Information Technology | American University, Washington, DC
 
