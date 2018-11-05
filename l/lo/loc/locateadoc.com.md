@@ -1,22 +1,17 @@
-> *The following text is extracted and transformed from the locateadoc.com privacy policy that was archived on 2017-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170814184852id_/https%3A//www.locateadoc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locateadoc.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105192447id_/http%3A//www.locateadoc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – LocateADoc
 
 ### Privacy Notice
 
-LocateADoc.com regards your privacy seriously. Our Privacy Policy was developed as an extension of our commitment to excellence in customer service. Our policy was designed to be easy to read and understand what we do with your information and the measures we take to ensure its security. If you have any questions after reading this, please contact us through our [feedback form](https://www.locateadoc.com/home/feedback). **By visiting LocateADoc.com, you are accepting the practices described in this Privacy Notice.**
+LocateADoc.com regards your privacy seriously. Our Privacy Policy was developed as an extension of our commitment to excellence in customer service. Our policy was designed to be easy to read and understand what we do with your information and the measures we take to ensure its security. If you have any questions after reading this, please contact us through our [feedback form](http://www.locateadoc.com/home/feedback). **By visiting LocateADoc.com, you are accepting the practices described in this Privacy Notice.**
 
 What Information About its Visitors Does LocateADoc.com Gather?
 
   * **Information You Give Us  
 **This refers to any active information you choose to provide in order to gain the full use of the website (contact a doctor) or through our contact forms. Generally, we require you to disclose your first and last name, address, city, state, zip, country, phone number and email address. Optional information disclosed includes: company name, province, fax number and any health / medical / personal information that will help the doctor. If you choose to post information through our website(s) or maintain email, postal mail or telephone contact with us, we may retain such information also.
   * **Automatic Information from Cookies  
-**For account management and anti-fraudulent purposes, LocateADoc.com uses cookies to collect information on how our site is used. Automatic Information gathered may include the date and time of visits, the site pages viewed, time spent at our site, the sites visited just before and just after our site. The date is used to simplify subsequent interactions with that site by the same user or to use the information to streamline the user’s transaction on related web pages. This makes its easier for a user to move from site to site and to complete transactions over the internet. Cookies should make your online experience easier and more personalized. If you do not wish to transmit cookie information about yourself, please consult the Help section of your web browser to correctly do so.We do link the information we store in cookies to any personally identifiable information you submit while on our site.If you choose to refuse cookies, then certain featured of LocateADoc.com will not work for you. For example, we cannot save you time by prefilling contact forms you are using to contact doctors. We also won’t be able to determine what stage in the process of learning about your procedure or surgery you are, or remember in what part of the country you are looking for a doctor in, and because of this we won’t be able to customize the content on our site to your needs. 
-
-Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies.
-
-This privacy statement covers the use of cookies by LocateADoc, LLC only and does not cover the use of cookies by any advertisers.
-
+**For account management and anti-fraudulent purposes, LocateADoc.com uses cookies to collect information on how our site is used. Automatic Information gathered may include the date and time of visits, the site pages viewed, time spent at our site, the sites visited just before and just after our site. The date is used to simplify subsequent interactions with that site by the same user or to use the information to streamline the user’s transaction on related web pages. This makes its easier for a user to move from site to site and to complete transactions over the internet. Cookies should make your online experience easier and more personalized. If you do not wish to transmit cookie information about yourself, please consult the Help section of your web browser to correctly do so.We do link the information we store in cookies to any personally identifiable information you submit while on our site.If you choose to refuse cookies, then certain featured of LocateADoc.com will not work for you. For example, we cannot save you time by prefilling contact forms you are using to contact doctors. We also won’t be able to determine what stage in the process of learning about your procedure or surgery you are, or remember in what part of the country you are looking for a doctor in, and because of this we won’t be able to customize the content on our site to your needs.Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies.This privacy statement covers the use of cookies by LocateADoc, LLC only and does not cover the use of cookies by any advertisers.
 
 
 
@@ -65,11 +60,11 @@ We follow generally accepted industry standards to protect the personal informat
 
 Your postings on this site and other communications you may have with us via email or postal mail may not be secure unless we advise you that security measures are in place prior to your sending information.
 
-If you have any questions about security on our Web site, you can contact us through our [feedback form](https://www.locateadoc.com/home/feedback).
+If you have any questions about security on our Web site, you can contact us through our [feedback form](http://www.locateadoc.com/home/feedback).
 
 **Data Retention**
 
-We will retain your information for as long as needed to provide you services. We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. If you wish to request that we no longer use your information to provide you services [contact us](https://www.locateadoc.com/home/feedback).
+We will retain your information for as long as needed to provide you services. We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. If you wish to request that we no longer use your information to provide you services [contact us](http://www.locateadoc.com/home/feedback).
 
 **User Age Requirement**
 
@@ -89,11 +84,11 @@ We have online shopping pages on our site that are co-branded with other third p
 
 **Receiving Products and Services**
 
-From time to time, you will receive information pertaining to products and services we think you may be interested in. If you would not like to receive this information or if you wish to cancel a request or update your personal information, please contact through our [feedback form](https://www.locateadoc.com/home/feedback). Users and/or clients who no longer wish to receive our electronic newsletter or promotional materials from LocateADoc.com and/or our partners may follow the directions on the received email to unsubscribe.
+From time to time, you will receive information pertaining to products and services we think you may be interested in. If you would not like to receive this information or if you wish to cancel a request or update your personal information, please contact through our [feedback form](http://www.locateadoc.com/home/feedback). Users and/or clients who no longer wish to receive our electronic newsletter or promotional materials from LocateADoc.com and/or our partners may follow the directions on the received email to unsubscribe.
 
 **Can I Choose to Not Receive Certain Information and/or Opt-out?**
 
-If you no longer wish to receive our newsletter, notices, and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by contacting us through our [feedback form](https://www.locateadoc.com/home/feedback).
+If you no longer wish to receive our newsletter, notices, and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by contacting us through our [feedback form](http://www.locateadoc.com/home/feedback).
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
@@ -106,7 +101,7 @@ You will be notified when your personal information is collected by any third pa
   * **Profile  
 **We store information that we collect through cookies, log files, clear gifs, [and/or third party sources] to create a “profile” of your preferences. We tie your personally identifiable information, and your site usage history, to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the site for you.We share your profile in aggregate form only.
   * **Email This Page / Tell-A-Friend About LocateADoc.com  
-**If you choose to use our referral service to tell a friend about our site, either by emailing them a page from our site, or my using our similar Tell-A-Friend About LocateADoc.com feature, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. LocateADoc, LLC. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.Your friend may contact us through our [feedback form](https://www.locateadoc.com/home/feedback) to request that we remove this information from our database.
+**If you choose to use our referral service to tell a friend about our site, either by emailing them a page from our site, or my using our similar Tell-A-Friend About LocateADoc.com feature, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. LocateADoc, LLC. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.Your friend may contact us through our [feedback form](http://www.locateadoc.com/home/feedback) to request that we remove this information from our database.
 
 
 
@@ -116,8 +111,8 @@ In order to provide doctor location or educational services, we may on occasion 
 
 **Changes to Privacy Statement**
 
-By using our site, you consent to the collection and use of your information as we have outlined in this privacy statement and to our [Conditions of Use](https://www.locateadoc.com/home/terms). LocateADoc.com may decide to change this privacy statement from time to time. If we decide to change our privacy policy, we will post those changes to this privacy statement 30 days before any new changes go into effect, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently.
+By using our site, you consent to the collection and use of your information as we have outlined in this privacy statement and to our [Conditions of Use](http://www.locateadoc.com/home/terms). LocateADoc.com may decide to change this privacy statement from time to time. If we decide to change our privacy policy, we will post those changes to this privacy statement 30 days before any new changes go into effect, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently.
 
 **Access to Personally Identifiable Information**
 
-If your personally identifiable information changes, or if you no longer desire our service, you may deactivate it by contacting our Client Services Specialists through our [feedback form](https://www.locateadoc.com/home/feedback), or by contacting us by telephone or postal mail at the contact information listed below.
+If your personally identifiable information changes, or if you no longer desire our service, you may deactivate it by contacting our Client Services Specialists through our [feedback form](http://www.locateadoc.com/home/feedback), or by contacting us by telephone or postal mail at the contact information listed below.
