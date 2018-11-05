@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silencershop.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202185202id_/https%3A//www.silencershop.com/silencer-shop-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silencershop.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105051401id_/https%3A//www.silencershop.com/silencer-shop-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
