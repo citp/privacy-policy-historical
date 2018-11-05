@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hubdoc.com privacy policy that was archived on 2017-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170718223057id_/https%3A//www.hubdoc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubdoc.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106002902id_/https%3A//www.hubdoc.com/privacy-policy) for the most accurate reproduction.*
 
 # Hubdoc: Document Collection & Management Software | Hubdoc
 
@@ -36,6 +36,14 @@ Contact Us
 
   
 You may be asked to provide certain personal information to sign up for our services, including your name and email address. The personal information collected during the registration process is used to manage your account with Hubdoc. 
+
+You also have the option to submit the email addresses of colleagues or other contacts in order to invite them to access your Hubdoc account. When you submit this information, we will only use it for the specific reason for which it is provided. 
+
+If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at 
+
+[_info@hubdoc.com_](mailto:info@hubdoc.com)
+
+. 
 
 We collect billing information such as credit card number and use this for billing purposes and to fulfill your orders. 
 
@@ -107,6 +115,6 @@ If you have any questions about this Privacy Policy or the practices described h
 
 or via postal mail at 1881 Yonge Street, Suite 712, Toronto, Ontario M4S 3C4. 
 
-Last updated: **February 26, 2016**
+Last updated: **June 28, 2018**
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=77e425ea-a6ae-45b2-968b-a3f88e133ce3 "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=77e425ea-a6ae-45b2-968b-a3f88e133ce3)
