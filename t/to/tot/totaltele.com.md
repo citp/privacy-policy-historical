@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totaltele.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602024724id_/http%3A//www.terrapinn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltele.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105020554id_/http%3A//www.terrapinn.com/privacy) for the most accurate reproduction.*
 
 # Terrapinn privacy
 
@@ -70,7 +70,6 @@ Facebook, Twitter and LinkedIn | Analytical / Targeting | We use social media co
 [LinkedIn’s Privacy Policy](https://www.linkedin.com/legal/privacy-policy)  
   
 Hotjar | Analytical | Hotjar is an analytics and feedback tool that we use to understand how our website is used and improve usability. Hotjar sets cookies to help us track behaviour across pages and to control visitor polls. No personally identifiable information is stored by Hotjar in the cookie. | [More information on Hotjar cookies](https://www.hotjar.com/cookies)  
-BrightFunnel | Analytical / Functional / Targeting | BrightFunnel is a multi-channel sales attribution tool that enables the optimisation of marketing by understanding the customer journey to a purchase. | [More about BrightFunnel](http://www.brightfunnel.com/privacy-policy/)  
 Wisepops | Analytical / Targeting | WisePops is a tool to build and serve intelligent website popups and exit popups. It uses a cookie to prevent the same message being shown more than once. We do not capture personal data in the pop ups. No personally identifiable information is stored by Wisepops in the cookie. | [More about Wisepops](https://wisepops.com/terms/)  
 ASP.NET | Functional | Allows us to use our site in a way that makes your browsing experience more convenient. If you register with us or complete our online forms, we will use cookies to remember your details during your current visit, and any future visits provided the cookie was not deleted in the interim | IIS server  
 BrochureDetails | Functional | Allows us to use our site in a way that makes your browsing experience more convenient. If you register with us or complete our online forms, we will use cookies to remember your details during your current visit, and any future visits provided the cookie was not deleted in the interim | Proprietary  
