@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucoz.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605230246id_/https%3A//www.ucoz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucoz.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105062812id_/https%3A//www.ucoz.com/privacy) for the most accurate reproduction.*
 
 # uCoz - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 _Last updated on May 23, 2018_
 
-This Privacy Policy (the "Policy", the "Privacy Policy") is an integral part of the User Sublicense Agreement which defines the rules for processing Personal Information that uKit Group ( “uCoz”, "we") can collect about the Users (the"User" or "you") in relation to the usage of the uCoz service (the "Service") by the User, and stipulates the types of the information collected, the ways and methods of collecting the information, the purposes of collecting the information, measures to ensure the information protection, as well as the rights of the User regarding their Personal Information.
+This Privacy Policy (the "Policy", the "Privacy Policy") is an integral part of the User Sublicense Agreement which defines the rules for processing Personal Information that [uKit Group](https://web.archive.org/details/) (Compubyte Limited, UCOZ Ltd, LLC Ucoz Media; hereinafter referred to as "uCoz", "we") can collect about the Users (the"User" or "you") in relation to the usage of the uCoz service (the "Service") by the User, and stipulates the types of the information collected, the ways and methods of collecting the information, the purposes of collecting the information, measures to ensure the information protection, as well as the rights of the User regarding their Personal Information.
 
 The User hereby agrees to the processing of their Personal Information under the terms of this Privacy Policy. The User's actions aimed at using the Service mean the User’s unconditional acceptance of the terms of this Policy and the terms of their Personal Information processing specified therein. We urge you to read this Policy and make sure that you fully understand and agree to it before you start using our Service. If you have not read the entire text of the Privacy Policy, do not understand or accept the terms of this Privacy Policy, you shall immediately stop using the Service.
 
@@ -133,7 +133,7 @@ In case the User makes corrections to their Personal Information or revokes the 
 
     1. If you have any questions concerning this Privacy Policy, please get in touch with us at [support@ucoz.com](mailto:support@ucoz.com).
     2. You can also send a letter to the following addresses:  
-in the European Union — 4 Afentrikas, Afentrika Court, Office 2, 6018, Larnaca, Cyprus,  
+in the European Union — 9 Vasili Michailidi, 3026, Limassol, Cyprus,  
 in the Russian Federation — 6/5 Barklaya St., Moscow 121087, Russia. 
     3. We will respond to your request within a reasonable time or the period specified by the applicable law.
     4. In cases where this Policy or applicable law establishes our obligation to provide you with copies of information or any documents, we provide them in a single copy for free; for any additional requested copies, we are entitled to charge a reasonable fee based on administrative expenses. If you make an online request, we provide copies in widely used digital format unless otherwise requested by you.
