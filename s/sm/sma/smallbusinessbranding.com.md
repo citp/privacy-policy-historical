@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smallbusinessbranding.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507021330id_/http%3A//www.smallbusinessbranding.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbusinessbranding.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105121126id_/http%3A//www.smallbusinessbranding.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Small Business Branding
+# Privacy Policy | Small Business Branding
 
 Last Updated: January 1, 2012
 
@@ -38,7 +38,7 @@ We can be reached by contacting:
 
 SmallBusinessBranding.com
 
-Email: customerservice@techbasedsupport.com
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Changes to this Policy**
 
