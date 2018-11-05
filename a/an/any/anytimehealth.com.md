@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anytimehealth.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625160617id_/https%3A//www.anytimefitness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anytimehealth.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105045621id_/https%3A//www.anytimefitness.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Anytime Fitness
 
@@ -27,7 +27,7 @@ In the following Privacy Policy, we provide you with information regarding:
 
 We encourage you to read this whenever you visit our fitness clubs or Sites or use our Apps, since we may change this policy from time to time. A copy of the current policy is always posted at [www.anytimefitness.com/privacy](http://www.anytimefitness.com/privacy).
 
-**Territories**
+## Territories
 
 This Privacy Policy covers our activities throughout the world. We may host the Sites or information within the Apps on servers located within these countries or in any other country we, our service providers, or our service providers' vendors maintain facilities, including the United States. This means that your personal information may be stored on servers located within any country where there are Anytime Fitness® locations. The locations of our servers may change from time-to-time. Further, our franchisees may maintain individual websites in the country or territory they service.
 
@@ -41,7 +41,7 @@ Privacy requirements and treatment of personal information varies from country t
   * [Hong Kong](http://www.anytimefitness.hk/Privacy%20Policy/%E7%A9%A9%E7%A7%81%E6%AC%8A%E6%94%BF%E7%AD%96%20Privacy%20Policy)
   * [India](http://www.anytimefitness.co.in/privacy)
   * [Ireland](https://www.anytimefitness.co.uk/privacy)
-  * [Italy](https://www.anytimefitness.it/privacy-policy)
+  * [Italy](https://www.anytimefitness.it/privacy)
   * [Luxembourg](https://www.anytimefitness.nl/privacy)
   * [Malaysia](https://www.anytimefitness.my/privacy-policy)
   * [Mexico](https://www.anytimefitness.com.mx/privacidad)
@@ -52,7 +52,7 @@ Privacy requirements and treatment of personal information varies from country t
   * [Poland](http://www.anytimefitness.pl/privacy)
   * [United Kingdom](https://www.anytimefitness.co.uk/privacy)
   * [Singapore](https://www.anytimefitness.sg/privacy-policy/)
-  * [Spain](https://www.anytimefitness.es/privacidad/)
+  * [Spain](https://www.anytimefitness.es/privacy)
   * [Sweden](https://www.anytimefitness.se/integritetspolicy/)
   * [Taiwan](http://www.anytimefitness.tw/privacy/policy)
 
@@ -60,7 +60,7 @@ Privacy requirements and treatment of personal information varies from country t
 
 Anytime Fitness, LLC complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States.  Anytime Fitness, LLC has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
-**Consent**
+## Consent
 
 BY SUBMITTING YOUR PERSONAL INFORMATION TO US, YOU ARE CONSENTING TO THE PROCESSING OF YOUR PERSONAL INFORMATION IN THE UNITED STATES OR IN ANY OTHER COUNTRY IN THE WORLD AND TO OUR USE OF YOUR PERSONAL INFORMATION AS SET FORTH IN THIS PRIVACY POLICY. IF YOU ARE SUBMITTING PERSONAL INFORMATION OF THIRD PARTIES TO US, YOU WARRANT AND REPRESENT YOU HAVE THEIR CONSENT TO PROVIDE THEIR PERSONAL INFORMATION TO US AND WILL HOLD US HARMLESS FROM AND AGAINST CLAIMS BY SUCH INDIVIDUALS RELATING TO OUR PROCESSING AND USE OF SUCH PERSONAL INFORMATION WITHIN THE TERMS OF THIS PRIVACY POLICY.
 
@@ -221,7 +221,3 @@ If you have a complaint about how we have collected or handled your personal inf
 ### Your California Privacy Rights
 
 California Civil Code Section § 1798.83 permits users of our Site or Apps that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact our Data Protection Officer.
-
-A Self Esteem Brands® company
-
-© Anytime Fitness LLC 2018. All rights reserved.
