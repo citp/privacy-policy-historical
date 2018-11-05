@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ffilms.org privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001012548id_/https%3A//ffilms.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffilms.org privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106004521id_/https%3A//ffilms.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | ffilms.org
+# FFilms.org Watch online full movie for free
 
 **Privacy policy**
 
@@ -48,9 +48,21 @@ You have the ability to manage the use of cookies on your computer using control
 
 You may decide to send us personally identifying information, such as a message containing your domain name or login information for your account. We will only use this information to identify you as a client and to determine how to respond to your message. We will not use this information for any purpose other than to resolve the matter identified in your message.
 
+Password  
+Password reset – if, for any reason, you’ve requested to reset your free FFilms.org account password, then you’ll receive a password reset email. This email provides a unique password-reset link and instructs how to complete your password reset;  
+New password- if, for any reason, you’ve completed a password reset, then you’ll receive a new password email. This email confirms your password reset.
+
+We will never share your contact information with third parties.
+
 **Scope**
 
 The information you provide to us will also be covered by this policy. Due to the rapidly evolving technologies on the Internet, we may occasionally update this policy. All revisions will be posted to this site. A revised Privacy Policy will apply only to data collected subsequent to its effective date.
+
+**General Data Protection Regulation (GDPR)**
+
+**FFilms.org website does not collect or share personal information. When you send comments, questions, suggestions, or feedback to FFilms.org via email or through our comments, and include an email address and/or contact information, FFilms.org website may use this information to respond to you. FFilms.org will not sell or disclose your contact information to any third parties.**
+
+Edited on May 25, 2018
 
 
 
