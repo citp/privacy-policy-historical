@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the tinyhometour.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505200916id_/http%3A//tinyhometour.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyhometour.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105081229id_/http%3A//tinyhometour.com/privacy.php) for the most accurate reproduction.*
 
-# Tiny Home Tour
+# Privacy Policy - Tiny Home Tour
 
 **_PRIVACY POLICY_**
 
-This website (collectively, "This website" or "we"), under parent company SFG Media Group, LLC, respects the privacy rights of our online users and is committed to protecting the personal information collected about or provided by you. We have adopted this Online Privacy Policy ("Privacy Policy") to guide how we store, collect, manage and use the personal information you provided in connection with the Service .
+Effective May 24, 2018
+
+This website (collectively, "This website" or "we"), under parent company SFG Media Group, LLC, respects the privacy rights of our online users and is committed to protecting the personal information collected about or provided by you. We have adopted this Online Privacy Policy ("Privacy Policy") to guide how we store, collect, manage and use the personal information you provided in connection with the Service. 
 
 Please note that this Privacy Policy applies only to information submitted and collected by This website through use of the Service in any way, but does not apply to information that may be collected offline or collected through any other method including your use of any web site This website's affiliated entities may operate. Moreover, this Privacy Policy applies to the Service, but **not** to websites maintained by other companies or organizations to which we may provide links. When you visit these websites, this Privacy Policy no longer applies. We are therefore not responsible for the content or activities provided or created on such sites.
 
@@ -12,9 +14,17 @@ _By using and accessing the Service, you signify your assent to our Online Priva
 
 __Information Collected__
 
-In order to give you the best experience in use of the Service, This website may obtain information from you through your Service registration, your access and participation in message boards, comments, etc on the Service; your email of a question to our customer service desk; or your purchase of a virtual product of any type. Further, we may ask you for personal information (such as name, phone number, or email address) if you choose to sign up for any particular Service we offer (such as a newsletter or reminder service). In all such cases, the information provided will not be disclosed to third parties and will be used solely for the purpose of providing you with the Service.
+In order to give you the best experience in use of the Service, This website may obtain information from you through your Service registration, your access and participation in message boards, comments, etc on the Service; your email of a question to our customer service desk; or your purchase of a virtual product of any type. Further, we may ask you for personal information (such as name, phone number, or email address) if you choose to sign up for any particular Service we offer (such as a newsletter or reminder service). In all such cases, the information provided will not be disclosed to third parties and will be used solely for the purpose of providing you with the Service. When information is collected in this way, you may update or remove your information through the user interfaces provided within the Service.
 
 _Use of Information Collected_
+
+We collect and process personal information as allowed under applicable law, under the following legal bases:
+
+  * The consent you provide to us; 
+  * As necessary in the performance of the contract we have with you; and 
+  * The legitimate interests of This website, a third party or yourself where those interests do not override your fundamental rights and freedoms regarding your personal data. 
+
+
 
 The information you provide to This website will be used for the following reasons: 
 
@@ -42,7 +52,7 @@ In addition, in the event of a merger, acquisition, reorganization, bankruptcy, 
 
 We may also share aggregate information about our visitors to our Service. For example, we may say a particular audience is X% female and Y% male. This data is used to customize the content and advertising of our Service to deliver better experience for our visitors. It can also help to tailor our products and services to meet the needs of our customers.
 
-We may send to your web browser, directly or in directly, advertisements you see when you visit our Service. However, we may allow other companies, called third party ad servers, to serve advertisements within our Service. This Privacy Policy does not apply to, and cannot control the activities of, these other companies. If you want to prevent a third party ad server from sending or reading cookies on your computer, you must visit the company's web sites individually and opt-out.
+We may send to your web browser, directly or in directly, advertisements you see when you visit our Service. However, we may allow other companies, called third party ad servers, to serve advertisements within our Service. This Privacy Policy does not apply to, and cannot control the activities of, these other companies. If you want to prevent a third party ad server from sending or reading cookies on your computer, you must visit the company's web sites individually and opt-out. More information regarding this can be found below.
 
 _Not Providing Information_
 
@@ -50,8 +60,8 @@ If you choose not to submit personal information when requested, you may not be 
 
 _Passive Means of Information Collection (Cookies, IP addresses, etc.)_
 
-**Cookies**  
-We may use cookies in the operation of the Service. A "cookie" is a small bit of record-keeping information that sites often store on a user's computer. Cookies are typically used to quickly identify a user's computer and to "remember" things about the user's visit. For example, we may use cookies to keep track of your preferences and your username and password. Information contained in a cookie may be linked to your personal information for this purpose. You can disable cookies or set your browser to alert you when cookies are being sent to your computer, although this may affect your ability to use many of the features of the Service.
+**Cookies, Local Storage, and Other Similar Technologies**  
+We may use cookies, local storage, and other similar technologies in the operation of the Service. "Cookies" and "Local Storage" are small bits of record-keeping information that sites often store on a user's computer. Cookies and local storage are typically used to quickly identify a user's computer and to "remember" things about the user's visit. For example, we may use cookies or local storage to keep track of your preferences and your username and password. Information contained in a cookie or local storage may be linked to your personal information for this purpose. You can disable cookies or local storage, or set your browser to alert you when cookies are being sent to your computer, although this may affect your ability to use many of the features of the Service. You can remove this data anytime, by clearing the cookies and local storage data bound to This website's domain from your browser.
 
 **IP Addresses**  
 An Internet Protocol (IP) address is a number that is used by computers on the network to identify your computer every time you log on to the Internet. Although we do not generally collect IP addresses, we may collect and use your IP address when we feel it is necessary to protect our service, websites, customers, or others.
@@ -67,7 +77,7 @@ You should be aware that while you are using our Service, you may be directed to
 
 You should consult the privacy policies of these third parties for more detailed information.
 
-Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website or other websites. Google's use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/).
+Third party vendors, including Facebook, Google, AppNexus, OpenX, Exponential and Nativo use cookies to serve ads based on prior visits to This website or other websites on the Internet. You may opt out of personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/).
 
 _California_ _Privacy Rights_
 
