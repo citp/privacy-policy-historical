@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zz.tc privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605232007id_/https%3A//resources.flippa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zz.tc privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105071945id_/https%3A//resources.flippa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Flippa Resources
 
@@ -119,7 +119,7 @@ If you choose to limit the Personal Information we process about you we may not 
 
 If you have a question or want to make a complaint about how we handle your Personal Information please contact us using the details below.  We will review any question, complaint or concern you may have and will respond to you after we have carefully considered it. We will, where reasonably possible, take steps to investigate and resolve complaints within 30 days. Please note, we may require further information from you in order to resolve any complaints. If we need more time, we will notify you about the reasons for the delay and seek to agree a longer period with you (if you do not agree, we may not be able to resolve your complaint). 
 
-We can be contacted at: [privacy@flippa.com](mailto:privacy@flippa.com) or by submitting an enquiry via our online help centre at [https://support.flippa.com](https://support.flippa.com/). 
+We can be contacted at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7d0d0f140b1c1e043d1b11140d0d1c531e1210) or by submitting an enquiry via our online help centre at [https://support.flippa.com](https://support.flippa.com/). 
 
 For more information about privacy issues in Australia and protecting your privacy, please visit the OAIC website at [www.oaic.gov.au](http://www.oaic.gov.au/). For more information about the GDPR, please contact the European Data Protection Supervisor, the European Union’s independent data protection authority or visit their website at: [https://edps.europa.eu/](https://edps.europa.eu/).  
 
