@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tga.gov.au privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505082434id_/http%3A//www.tga.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tga.gov.au privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105152648id_/http%3A//www.tga.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Therapeutic Goods Administration (TGA)
 
@@ -21,7 +21,7 @@ In particular, the TGA collects personal information in relation to its key func
 
 ### Personal information in applications relating to placing goods in the ARTG or entries in the ARTG
 
-  * The TGA collects personal information in applications to place therapeutic goods in the [Australian Register of Therapeutic Goods](https://www.tga.gov.au/australian-register-therapeutic-goods), and in associated and ancillary applications in relation to Registration of therapeutic goods (for example to vary entries for goods already in the Register, for a proposed name for a chemical substance, for a conformity assessment certificate for medical devices).
+  * The TGA collects personal information in applications to place therapeutic goods in the [Australian Register of Therapeutic Goods](https://www.tga.gov.au/artg), and in associated and ancillary applications in relation to Registration of therapeutic goods (for example to vary entries for goods already in the Register, for a proposed name for a chemical substance, for a conformity assessment certificate for medical devices).
   * The personal information is used to maintain a record of these applications, to consider the applications, and to contact applicants about their application(s).
   * Personal information provided in applications may also be used to contact sponsors of goods in the Register where there is a need to do so - for example, in the event of a safety, quality or efficacy issue concerning the goods, or to administer fees and payments relating to the goods.
   * Personal information relating to sponsors of therapeutic goods may be disclosed where authorised or required by an Australian law, Court or Tribunal order; or with the consent of the person the information is about.
