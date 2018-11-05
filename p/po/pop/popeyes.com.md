@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popeyes.com privacy policy that was archived on 2018-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180426084833id_/http%3A//company.popeyes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popeyes.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105042035id_/http%3A//company.popeyes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Popeyes Louisiana Kitchen
 
