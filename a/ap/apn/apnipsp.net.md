@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apnipsp.net privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505210102id_/http%3A//apnipsp.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnipsp.net privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105184104id_/http%3A//apnipsp.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Apni PSP
 
@@ -21,7 +21,7 @@ Our web sites contain links to other sites. apnipsp.com is not responsible for t
 **Disclaimer**  
 **USE OF WEB SITE MATERIALS.**  
 All contents, web site design, text, logos, sound, images, graphics, and the selection and arrangement thereof, and all other elements of the apnipsp.com Web Site are the sole and exclusive property of apnipsp.com, and are protected by copyright, intellectual property, trade dress and other applicable laws and may not be copied, modified, published, imitated, distributed, or transmitted in whole or in part without the prior written consent of apnipsp.com.  
-Please report any such instances of use to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Please report any such instances of use to apnipsp@hotmail.com
 
 **Disclaimer Press Release:**  
 apnipsp.com receive many press releases from PR Agencies and Companies or other related parties. We do do not accept any responsibility for the accuracy and completeness for any information provided in the press releases. Being a leading Telecom & Technology blog we publish them.  
