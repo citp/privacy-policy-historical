@@ -1,103 +1,126 @@
-> *The following text is extracted and transformed from the nxp.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119201653id_/http%3A//www.nxp.com/about/privacy%3APRIVACYPRACTICES) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nxp.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105200705id_/https%3A//www.nxp.com/about/privacy%3APRIVACYPRACTICES) for the most accurate reproduction.*
 
 # Privacy|NXP
 
-NXP® believes strongly in protecting the privacy of the personally identifiable information you share with us. We also believe it is important to inform you about how we will use your personal data, and to give you choices about how those data will be used. By using NXP's website, you are consenting to NXP's collection, use, or storage of your personally identifiable information unless you opt out of such collection, use, or storage in accordance with the opt out process described in this Privacy Policy. Therefore, we encourage you to read this Privacy Policy carefully.
+## Introduction
 
-  * Scope of this Privacy Policy
-  * Why should you share your personal data with NXP?
-  * Sharing information
-  * “Cookies” and website logging
-  * Safeguarding the information you share with us
-  * Your rights
-  * Special information for parents & guardians
-  * Contacting us
-  * Our Address
-  * German privacy law
+Your privacy and trust are important to us. This Privacy Statement explains who we are, what personal information we collect, why we collect this information and how we use and protect it. This Statement refers to all information we collect and that we could use to personally identify you. We encourage you to read this Privacy Statement. In case you have any questions, we are happy to answer them.
 
+This Privacy Statement applies to all personal information we collect about you. For instance, when you:
 
-
-## Scope of this Privacy Policy
-
-In general, this Privacy Policy applies to all personal information of individuals collected or used by NXP Semiconductors or its subsidiaries (NXP). This includes information from websites for commercial use that are owned by NXP Semiconductors and offline collections of personal data for commercial use owned by NXP. However, some of our websites or data collections work with special kinds of data which require a somewhat different privacy policy. Whenever and wherever that is the case, NXP will make it clear that the privacy policy concerned is different from this general NXP Privacy Policy.
-
-## Why should you share your personal data with NXP?
-
-Sharing your personally identifiable information enables us to offer you a number of benefits. It will make it easier and more convenient for you to:
-
-  * Register your purchase so you can receive all the benefits to which your purchase entitles you
-  * Request information specific to your interests
-  * Participate in online communities
-  * Receive personalized messages and special offers that are relevant to your interests
-  * Save time by storing your preferences
-  * Buy NXP products online
-  * Apply for employment
+  * visit our websites;
+  * purchase or use our products, solutions, applications or services; 
+  * subscribe to our newsletter or participate in our online communities; 
+  * contact customer support; 
+  * request information specific to your interests; and
+  * interact with us as a job candidate/applicant.
 
 
 
-It will also allow us to conduct market research to help us develop better products, to provide more responsive customer service, and to improve our websites.
+On occasion, we may refer to additional Privacy Policies to convey specific privacy information that you need to be aware of. Due to its global presence, NXP is bound to several data protection laws around the globe. This Privacy Statement may be modified in order to comply with specific local legal requirements.
 
-You may choose to share your information with us in a number of ways online, such as completing an registration form to become a member of MyNXP®, ordering a product, entering a contest, registering a purchase, participating in a promotion, subscribing to a newsletter, or submitting information in connection with a job application.
+## Who we are
 
-You can also share your personally identifiable information with us by communicating with one of our customer care representatives by e-mail, telephone, or in writing.
+NXP Semiconductors N.V. enables secure connections and infrastructure for a smarter world, advancing solutions that make lives easier, better and safer. As the world leader in secure connectivity solutions for embedded applications, NXP is driving innovation in the secure connected vehicle, end-to-end security and privacy and smart connected solutions markets. When this Privacy Statement refers to “we”, “us” or “our”, it refers to all NXP Affiliates or Subsidiaries which under this Privacy Statement may act as a controller of your personal information: namely, those entities who may be deciding how and why your personal information is being processed.
 
-Sometimes NXP obtains your personal data from other parties outside NXP. This includes the buying of a business of which you already are a customer or the disclosure of your personal data by one of our partner companies. If you do not want us to use your personal data which you have not provided to us yourself, you can let us know by contacting us at the address listed below.
+## What types of personal information do we collect?
 
-## Sharing information
+We may process various types of personal information we receive from you depending on the ways you interact with us (e.g. through our website portal, NXP customer support, etc.). They include the following:
 
-We want to know you better so we can serve you better. But the choice of whether you want this kind of service is up to you.
-
-You should know that your personally identifiable information may be transferred from your home country to other NXP companies around the world, who may communicate with you about our products or special offers you may find useful. If you do not want us to send you personalized offers or information, you can let us know by checking the appropriate box in the subscription center. NXP will only share your data with third parties outside NXP in the following circumstances: Sometimes NXP sells you a product or offers you a service in a joint marketing effort with other companies. In such cases, your personal data will be shared with these companies. We will always let you know that such relationship exists and who these companies are prior to your registration. Note that these companies often have their own privacy policies that apply to the way they use your personal data. These privacy policies sometimes differ from the NXP Privacy Policy. NXP sometimes uses outside companies for handling your purchase or request or for processing your data. NXP requires these companies to adequately safeguard your personal data and not use your data for any other purpose not authorized by NXP. NXP sometimes sells a business to another company. Such transfer of ownership could include the transfer of your personal data directly related to that business to the buyer. NXP will release personally identifiable information if compelled by law. NXP will not sell or provide your personal data to other third parties allowing them to use your personal data for their own purposes.
-
-NXP will not share any personal financial information you provide (such as credit card information) with other parties unless this is needed to handle your order, process our invoice, or prevent or combat fraud.
-
-In connection with completing a job application, whether advertised on NXP’s website or otherwise, you may provide us with information about yourself. We may use this information throughout NXP in order consider you for employment purposes. If you would like to have information submitted in connection with a job application removed from our system prior to that time, please [contact us](https://web.archive.org/support/sales-and-support:SUPPORTHOME) and live chat with our support team to request your account to be deleted.
-
-From time to time, this Web Site may provide links to other websites. You should carefully review the privacy policies on those sites; they may differ from the NXP Privacy Policy.
-
-## “Cookies” and website logging
-
-Some of our Web Sites will send a "cookie," a small text file, to your computer. This allows us to recognize your computer the next time you visit, without bothering you with another request to register. And, if you use an online “shopping cart”, cookies allow us to keep track of the products you purchase. If you do not wish to receive cookies, please refer to the “Help” file of your Internet Browser to learn how to either block all cookies or receive a warning before a cookie is stored. To learn more about cookies we encourage you to visit [www.cookiecentral.com](http://www.cookiecentral.com/)
-
-If you visit our Web Sites to browse, read, or download information, we collect and store some “visitor information” from you, such as the name of the domain and host from which you access the Internet, the Internet Protocol (IP) address of the computer you are using, the date and time you access our Web Site, and the Internet address of the website from which you linked directly to our Web Site. We use this information to measure the traffic on our Web Sites and to help us make our Web Sites more useful. We delete this information after some time.
-
-## Safeguarding the information you share with us
-
-We recognize our responsibility to protect the information you entrust to us. NXP uses a variety of secure techniques to protect your information, including secure servers, firewalls, and encryption of financial data; however NXP does not guarantee the security of any information transmitted to or from NXP websites.
-
-NXP websites also may make chat rooms, forums, message boards and/or newsgroups available to you. Please remember that any personally identifiable information you provide in these areas is also available to other users. It is your responsibility to protect the personally identifiable information you provide in these areas, and you should exercise caution before deciding to disclose it.
-
-## Your rights
-
-Once you have provided us with your personally identifiable information, you will have reasonable access to that information so you can change or delete it. You may do this by accessing your online profile, or by requesting a copy of your profile at the contact address listed below.
-
-Because NXP sells thousands of products in hundreds of countries, you may have previously provided us with personally identifiable information through reply cards, our call centers, or in some other manner. Your decision not to register now will not affect the information you have already provided to NXP. Of course, you will always have the option to unsubscribe to any online contact from NXP or change your personal profile information.
-
-## Special information for parents & guardians
-
-While NXP Web Sites are generally not targeted at children under the age of thirteen, it is NXP policy to comply with the law when it requires that a parent's or guardian's permission is secured before knowingly collecting, using, or disclosing personal information from children under the age of thirteen.
-
-We strongly recommend that parents take an active role in supervising the online activity of their children.
-
-## Contacting us
-
-You may contact us if you would like to:
-
-  * ask us any question regarding our privacy policy
-  * request a copy of your personal data, or change or delete your personal data
-  * opt-out from receiving any future personalized offers or information from NXP
+  * Name and last name;
+  * E-mail address, address, phone number, fax, country;
+  * Log in details (user name, password);
+  * Bank account information;
+  * Reviews, feedback, comments;
+  * Traffic information such as time and/or duration of your interaction with us; 
+  * IP address, MAC address of the devices you use to interact with us;
+  * Your actual or assumed location (determined by the information mentioned above);
+  * Information related to your interests (products or services that you are visiting on our website platforms);
+  * Information related to your requests for information, requests for support and your transactions with NXP; and
+  * Cookies preferences.
 
 
 
-## Our Address
+## Cookies
 
-You can find our address by pressing the [Contact Us link](https://web.archive.org/about/about-nxp/contact-us:CONTACTUS) at the bottom of this Web Site.
+When you visit our websites or in general our digital platforms, cookies might be stored on your devices within the web browser. Cookies are small text files that can store information for a certain period and identify your device. We use cookies to optimize your user experience on our platforms.
 
-## German privacy law
+## Why do we collect your personal information?
 
-In accordance with Germany privacy law the data privacy officer hereby informs you on data privacy procedures of NXP legal entities located in Germany. You can download the public record of procedures here:
+We want to know you better, so we can serve you better. But the choice whether you want this kind of service is off course up to you.
 
-  * [For NXP Semiconductors Germany GmbH](https://web.archive.org/web/20120301100730/http:/www.nxp.com/wcm_documents/privacy-policy/verfahrensverzeichnis_germany_GmbH.doc) (German/Deutsch)
-  * [For NXP Semiconductors GA GmbH](https://web.archive.org/web/20120301100730/http:/www.nxp.com/wcm_documents/privacy-policy/verfahrensverzeichnis_germany_GA_GmbH.doc) (German/Deutsch)
+Depending on who you are, we may collect personal information for different purposes, such as:
+
+  * performance and execution of contracts;
+  * direct marketing;
+  * providing our products or services;
+  * responding to requests;
+  * compliance with legal obligations; 
+  * security and maintenance reasons;
+  * employment purposes.
 
 
+
+## When do we share your information with third parties?
+
+We only share your personal information with third parties in the specific cases listed below:
+
+  * NXP affiliates, given that NXP is an international corporation with several NXP affiliates; 
+  * external service providers, such as newsletter distributors, IT hosting providers, marketing providers, etc.; and
+  * business partners.
+
+
+
+We do not sell or license your personal information to third parties.
+
+## How do we safeguard your personal information?
+
+We recognize our responsibility to protect the personal information we collect. We make sure that our measures are in compliance with applicable data protection and data security laws. We have implemented appropriate technical and organizational measures to prevent risks, such as accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to information. We will also make sure that our external providers process your data in a secure and confidential manner. Additionally, we make sure that these measures are in compliance with applicable data protection and data security laws. For instance, we put in place the following measures in order protect your information:
+
+  * limiting physical access to our premises; 
+  * limiting access to personal information (for instance, only employees on a need to know basis have access to your personal information);
+  * requiring third-party providers to have acceptable security measures to keep personal information secure and putting in place physical, electronic, and procedural safeguards in line with industry standards. 
+
+
+
+## How long do we retain your information?
+
+We retain your personal information as long as it is necessary to fulfil the specific purposes, as explained under the section “Why we collect your personal information”. In certain cases a longer retention of your personal information might be required according to legal obligations. In all other cases, we delete your personal information once the purpose of processing your information is fulfilled.
+
+## Which are your rights?
+
+According to applicable data protection laws, you have the right to:
+
+  * Access, modify (via: <https://www.nxp.com/webapp-signup/updateUser>) or delete your personal information (unless it is legally required to retain the information).
+  * Restriction of or objection to the processing activity of your information.
+  * Request a copy of your personal information in a structured, commonly used and machine-readable format.
+  * Pose any questions related to your personal information and its protection.
+
+
+
+## When do we transfer your personal information? 
+
+NXP will not send your personal information to a recipient outside the European Economic Area (EEA) without obtaining your consent or otherwise complying with applicable data protection laws.
+
+In order to fulfil the purposes mentioned under this Privacy Statement, we or third parties (see “When we share your information with third parties”) may disclose your personal information to recipients outside of the country where you are located. Transfers of personal information outside (EEA) require an adequate level of protection. 
+
+NXP operates globally. The countries/regions in which recipients are likely to be located are the countries/regions where NXP is conducting business.
+
+## Updates to this Statement
+
+In order to stay compliant with applicable legal requirements, we will review and/or may modify this Privacy Statement at any time. The current version of this Privacy Statement is always available at: [www.nxp.com](https://www.nxp.com/).
+
+## Concerns and complaint
+
+If you are concerned about the way we process your personal information, please contact our Data Protection Officer (DPO) who will investigate your concern. You will receive a written response within a reasonable period. You also have the right to make a formal complaint to the relevant regulator in your jurisdiction. 
+
+In case you have a concern or complaint in relation to this Privacy Statement please reach out to our Data Protection Officer at:
+
+NXP Semiconductors N.V.  
+Attn. Data Protection Officer  
+High Tech Campus 60  
+5656AG Eindhoven  
+The Netherlands
+
+The Data Protection Officer  
+Email: [dataprotection@nxp.com](mailto:dataprotection@nxp.com)
