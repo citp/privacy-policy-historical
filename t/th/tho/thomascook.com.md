@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomascook.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623154751id_/http%3A//www.thomascook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomascook.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105164410id_/https%3A//www.thomascook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Information | Thomas Cook
 
@@ -28,11 +28,13 @@ Depending on the nature of your contact with Thomas Cook your personal data will
 
 Each company may publish its own supplementary privacy policy to explain how it will process and handle any personal data it collects from you.  For example, TCCT Retail  displays Privacy Notices in its stores, and Thomas Cook Tour Operations has data protection notices in its booking conditions and on its websites.   Any such supplementary policies apply in addition to this Privacy Policy.
 
-This Privacy Policy does not apply to Thomas Cook Airlines Ltd, Thomas Cook Money Ltd or to any Thomas Cook Group companies situated outside of the UK.  To view the privacy policies for Thomas Cook Airlines Ltd and Thomas Cook Money Ltd, see below: 
+This Privacy Policy does not apply to Thomas Cook Airlines Ltd, Thomas Cook Money Ltd or to any Thomas Cook Group companies situated outside of the UK.  To view the privacy policies for Thomas Cook Airlines Ltd and Thomas Cook Money Ltd, see below:
 
 [Thomas Cook Airlines Ltd](https://www.thomascookairlines.com/en/our-company/privacy-policy.jsp)
 
 [Thomas Cook Money Ltd](https://www.thomascookmoney.com/privacy-and-cookies.html)
+
+Certain web pages offering Hotels and City Breaks, that can be accessed through the Thomascook.com website are operated by Expedia Inc.  These pages (ww5.thomascook.com), are subject to Expedia Inc.’s Privacy Policy which can be viewed here: <https://ww5.thomascook.com/g/rf/privacypolicy>. 
 
 ## What types of personal data do we collect about you and why do we collect it:
 
@@ -46,7 +48,7 @@ This Privacy Policy does not apply to Thomas Cook Airlines Ltd, Thomas Cook Mone
   * When you request to make a booking, depending on the arrangements you ask us to make for you, we will ask if you have any special requirements.  You may give us information concerning dietary requirements, medical /health conditions, disabilities, sexual orientation, race or religion.  This information is referred to as special categories of personal data and when you give us this information we’ll use it to try and ensure your particular needs in relation to a booking are met.  We may have to share that data with our third party suppliers and transfer it outside the European Economic Area (EEA), as described in this Privacy Policy.  If you do not want to provide this information to us, or after you have provided us with this information you ask us or our data compliance department to stop processing this information, it may mean we won’t be able to provide all or parts of the services you have requested.  If we have to cancel your booking/purchase as a result, you may incur a cancellation charge.
   
 
-  * If you enter a competition or promotion, complete a survey, or if you report a problem with any of our Services, we will collect your name and relevant contact information and any other personal information you choose to give us.
+  * If you enter a competition or promotion, complete a survey, or if you give feedback on any of our Services, we will collect your name and relevant contact information and any other personal information you choose to give us.
   
 
   * We may ask to see and retain a copy of passport details and other identification documents if, for example, you are purchasing foreign currency or completing a money transfer.
@@ -151,6 +153,10 @@ We may use and process your personal information as set out below **where it is 
   * To protect our business against financial loss;
     * For debt collection or credit vetting
     * For payment card and booking verification (including using Google reCAPTCHA on some of our Sites to ensure only genuine customer bookings are made).
+
+
+  * To investigate, respond to, settle and/or defend customer complaints and claims:
+    * We may use and process your personal information and may pass it to third parties involved in providing travel services to you and acting on our behalf, (such as external law firms and their employees),  for resolving complaints, dealing with disputes and legal proceedings.  This might include contacting you proactively if we need to resolve any issues you may be experiencing or have experienced with a booking or other purchase;
   
 
   * To maintain a safe and secure environment and prevent and detect criminal activity;
@@ -167,7 +173,8 @@ We may use and process your personal information as set out below **where it is 
 
   * To promote our business, brands and products and measure the reach and effectiveness of our campaigns;  
     * To contact you with targeted advertising delivered online using [Google DoubleClick](https://policies.google.com/technologies/partner-sites) and through social media and other platforms operated by other companies. You may receive advertising based on information about you that we have provided to the platform or because, at our request, the platform has identified you as having similar attributes to the individuals whose details it has received from us. To find out more, please refer to the information provided in the help pages of the platforms on which you receive advertising from us;
-    * To obtain more information about you by sharing your personal information with technology companies or platforms who may also hold information about you and can match their records with ours. We/these companies may use cookies to match the personal information each of us hold about you (see further our [Cookies Policy](https://www.thomascook.com/campaigns/test-page-anu#cookies)).
+    * To obtain more information about you by sharing your personal information with technology companies or platforms who may also hold information about you and can match their records with ours. We/these companies may use cookies to match the personal information each of us hold about you (see further our [Cookies Policy](https://www.thomascook.com/privacy-policy#cookies)).
+ 
 
 We use this information in two ways:
 
@@ -193,9 +200,10 @@ We may use and process your personal information as set out below where we have 
 
 
 
-We and third parties acting on our instructions, such as external law firms and their employees,  may use and process your personal information as set out below where there is a **legal requirement** for us to do so:
+We may use and process your personal information and may pass it to third parties where there is a **legal requirement** for us to do so:
 
-  * For resolving complaints, dealing with disputes and legal proceedings. This might include contacting you proactively if we need to resolve any issues you may be experiencing or have experienced with a booking or other purchase;
+  * For responding to requests from any government body, law enforcement agency, court or regulatory authority, that requires us to disclose personal data in line with applicable data protection laws.
+  * For anti-money laundering and terrorist financing purposes.
 
 
 
@@ -205,9 +213,11 @@ We and third parties acting on our instructions, such as external law firms and 
 
 If you have made an enquiry or purchase on one of our Sites, through our stores or contact centres, your personal data may be used by us in the ways the law allows, to contact you by post, electronic means (e-mail or text message) and/or by phone with information and offers relating to products or services that you can book/purchase from Thomas Cook companies.  We will only do this if you did not opt out of such marketing at the point where we collected your contact details.
 
-If you have not made an enquiry or purchase, we will only send you information and offers by e-mail or text message if you sign up (opt in) to receive such marketing, either directly through us or by telling a third party that you would like to receive marketing from us.
+If you have not made an enquiry or purchase, we will only send you information and offers by e-mail or text message if you sign up (opt in) to receive such marketing, either directly through us or by telling a third party that you would like to receive marketing from us. We will only send you information and offers by App push notifications if you give permission in the Settings section of your device.
 
 The type of products and services that can be booked/purchased through Thomas Cook are shown in the table below.  You will only receive marketing communications about those which we think are relevant to you:
+
+## PRODUCTS/SERVICES AVAILABLE FROM THOMAS COOK:
 
  **Travel and travel related services from our group companies**
 
@@ -228,16 +238,30 @@ The type of products and services that can be booked/purchased through Thomas Co
 | 
 
   *  **Foreign Exchange, Lyk (Pre-Paid Currency Cards), Money Transfers, Thomas Cook Gift Cards,** supplied by TCCT Retail Ltd.
-  *  **Sumo (a mobile banking App) and savings products** from Thomas Cook Money Ltd
+  *  **Sumo (a mobile banking App) and savings products** from Thomas Cook Money Ltd and Ferratum Bank p.l.c
   *  **Thomas Cook Travel Insurance and Roam** (insurance App) from White Horse Insurance Ireland DAC.
+  *  **Holipay** \- ways to finance your holiday from Thomas Cook Money Ltd
 
 | 
 
   * Cruises
+  * City Breaks
+  * Hotels
   * Transfers
   * Holiday Extras (for airport parking and hotels and car hire).
   * Attraction Tickets
   * Excursions
+
+  
+  
+## PRODUCTS/SERVICES AVAILABLE FROM OUR BUSINESS PARTNERS / AFFILIATES:
+
+ **Third party products/services which are available from our business partners through affiliate arrangements**  
+  
+---  
+  
+  * Villas or homestay arrangements available from HomeAway
+  * Car sharing arrangements available from Turo
 
   
   
@@ -279,6 +303,8 @@ Lynch Wood,
 Peterborough,  
 PE2 6FZ.
 
+You can opt out of App push notifications in the Settings section of your device.
+
  **Please note – when you unsubscribe from marketing in respect of holiday and travel services, this opt-out will apply only to the Thomas Cook company making the marketing communication.   If you receive marketing directly from Thomas Cook Airlines Ltd and if you wish to opt-out from their direct marketing you will need to follow the instructions on their website or follow unsubscribe notices in their marketing communications.**
 
 ## Your rights in relation to any personal data we hold about you:
@@ -291,7 +317,7 @@ You have the right to make a Data Subject Access Request in many circumstances.�
 
 We may ask for proof of identity and sufficient information about your interactions with us that we can locate your personal information. That may include information about your previous booking(s) or other purchases.  If someone is acting on your behalf they will need to provide written and signed confirmation from you that you have given your authority to that person/company for them to make the request.  We will ask for this to be provided before we give you (or another person acting on your behalf) a copy of any of your personal information we may be holding. We may not provide you with a copy of your personal information if it includes the personal information of other individuals or we have another lawful reason to withhold that information.  
 
-Please see the section titled ‘How to Contact Us’ if you need to make a Data Subject Access Request.
+Please see the section titled ‘[How to Contact Us](https://www.thomascook.com/privacy-policy#how-to-contact)’ if you need to make a Data Subject Access Request.
 
 ### Correcting and updating your personal information
 
@@ -430,4 +456,4 @@ Alternatively you can review cookies by accessing the preference panels from you
   
 We reserve the right to update or alter this Privacy Policy from time to time.   You can request a copy of a previous version of our Privacy Policy.
 
- **May 2018, version 1**
+ **September 2018, version 3**
