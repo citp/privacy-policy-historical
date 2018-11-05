@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trumptrainnews.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612185525id_/http%3A//www.trumptrainnews.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trumptrainnews.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105224359id_/http%3A//trumptrainnews.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TrumpTrain
 
