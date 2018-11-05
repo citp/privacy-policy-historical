@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcbcart.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420043801id_/https%3A//www.pcbcart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcbcart.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105203258id_/https%3A//www.pcbcart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Professional PCB Manufacturer PCBCART
 
