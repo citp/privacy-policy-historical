@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cibc.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516030044id_/https%3A//www.cibc.com/en/privacy-security/online-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cibc.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105225145id_/http%3A//www.cibc.com/en/privacy-security/online-privacy-statement.html) for the most accurate reproduction.*
 
 # CIBC Digital Privacy Statement | Legal | CIBC
 
-## Effective February 2018
+## Effective May 2018
 
 At CIBC, keeping your personal information in confidence is a cornerstone of our business and an integral part of our commitment to service excellence. This Digital Privacy Statement applies to the collection, use or sharing of any personal information collected by CIBC in the course of conducting its business in Canada. This Digital Privacy Statement explains how we collect, use, share and protect personal information collected through your online and mobile activities, including through the use of any CIBC site or other online or electronic technologies such as email and mobile applications. It is consistent with our [CIBC Privacy Principles](https://web.archive.org/en/privacy-security/privacy-policy/privacy-principles.html) and is in addition to our [Privacy Policy](https://web.archive.org/en/privacy-security/privacy-policy.html) and the terms of your agreements with us.
 
@@ -23,8 +23,8 @@ The type of personal information we collect will depend on various factors, incl
 
   * **Information you provide us** , through your digital activities such as, mobile apps, applications for products or services, or information that you have inputted into our online tools or calculators. This may include information such as your name, email address, user IDs, passwords, service preference (e.g., language), age, gender, occupation and income range. If you communicate with us online or by email, mobile app or text message, we may collect information contained in that communication, such as your email address or mobile telephone number.
   * **Information that your web browser may provide us** , such as the type of web browser you use (e.g., Internet Explorer, Chrome, Safari or Firefox) or the address of the site you came from.
-  * **Information that your devices may provide us** , such as device details (e.g., device ID, model, operating system or device notification status), privacy settings and other device configurations/settings, your geolocation, or your IP address (a number that is automatically assigned to your computer or device when you browse the Internet and from which the general geographical location of the device can be derived).
-  * **Information obtained using web technologies** , such as cookies and web beacons. Please see the Web Technologies section below for further information.
+  * **Information that your devices may provide us** , such as device details (e.g., device ID, model, operating system or device notification status), privacy settings and other device configurations or settings, your geolocation, or your IP address (a number that is automatically assigned to your computer or device when you browse the Internet and from which the general geographical location of the device can be derived).
+  * **Information obtained using web technologies** , such as cookies and web beacons. Refer to the Web Technologies section below for further information.
 
 
 
@@ -43,13 +43,15 @@ We may use information for the following purposes:
 
 
 
-Using third-party cookies, CIBC, its partners and service providers may market CIBC products, services or community initiatives on another company's site (e.g., remarketing). In some cases, the content of this marketing may be based on information we know about you, such as your browsing behavior on CIBC sites and third-party sites where you are shown CIBC ads, your CIBC products and services, and the information you have provided to us. If you access one of these marketing ads, we may also track the response rate, the specific CIBC ad that you selected and the site activity associated with each marketing ad. If you enter a third-party site which has a CIBC ad, we may use cookies to help us identify the site you accessed, but we do not track and create a profile of a user’s behaviour on that site. The response rate data is used to help us plan future online marketing campaigns.
+Using third-party cookies and other web technologies, CIBC may market CIBC products, services or community initiatives on another company's site (e.g., remarketing). CIBC’s partners and service providers may also use third-party cookies and web technologies to collect and use information from CIBC sites and other third-party sites to assist us in this marketing.  In some cases, the content of this marketing may be based on information we know about you, such as your browsing behavior on CIBC sites and third-party sites where you are shown CIBC ads, your CIBC products and services, and the information you have provided to us. If you access one of these marketing ads, we may also track the response rate, the specific CIBC ad that you selected and the site activity associated with each marketing ad. If you enter a third-party site which has a CIBC ad, we may use cookies to help us identify the site you accessed, but we do not track and create a profile of a user’s behaviour on that site. The response rate data is used to help us plan future online marketing campaigns.  
 
-CIBC may offer mobile applications or services that use location information. If you choose to use such applications or services, CIBC may, if your geolocation device settings allow us, collect information about your location to provide you with the applications or services you request.
+
+CIBC may offer mobile applications or services that use location information. If you choose to use such applications or services, CIBC may, if your geolocation device settings allow us, collect information about your location to provide you with the applications or services you request.  
+
 
 We may also use location information to personalize your user experience including through site or mobile app content, marketing, or offers for products and services. For example, we may use general geographical location derived from your IP address (e.g., city) to customize CIBC site pages for you.
 
-Some services may involve access to information on your device. For example, accessing your contact list can make it easier to use _Interac_ ® e-Transfer banking services, or accessing your photos and camera can make it easier to complete a remote cheque deposit on your mobile device. Some services may allow your device and your wearable to communicate with a CIBC app, such as for Apple Watch®.
+Some services may involve access to information on your device. For example, accessing your contact list can make it easier to use _Interac_  e-Transfer® banking services, or accessing your photos and camera can make it easier to complete a remote cheque deposit on your mobile device. Some services may allow your device and your wearable to communicate with a CIBC app, such as for Apple Watch®.
 
 ##   
 Protecting your personal information
@@ -97,13 +99,23 @@ CIBC’s digital banking cannot be used without session cookies enabled in your 
 
 Depending on the web browser you use, you may be able to configure it to accept session cookies but disable persistent cookies (with the exception of Flash cookies). If you do this, you will still be able to use CIBC sites; however, your browser will not remember your personal preferences (e.g., language preference) when you return to the site. Please check your browser's online help for further information on how to change your cookie settings.
 
-If your browser is using Adobe Flash Player version 10.3 or later, you can use the [Adobe Flash Player Settings ManagerAdobe Flash Player Settings Manager. Opens a new window in your browser](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html) to configure how your browser should handle Flash cookies, either globally for [all sitesall site. Opens a new window in your browser](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) or for [specific sitesspecific site. Opens a new window in your browser](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html), or to delete any or all such cookies. Please use these links to visit the Adobe Flash Player site for detailed instructions or to use the convenient tools that they have made available to enable you to quickly delete Flash cookies from your system.
+If your browser is using Adobe Flash Player version 10.3 or later, you can use the [Adobe Flash Player Settings ManagerOpens a new window in your browser](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html) to configure how your browser should handle Flash cookies, either globally for [all sitesOpens a new window in your browser](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) or for [specific sitesOpens a new window in your browser](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html), or to delete any or all such cookies. Please use these links to visit the Adobe Flash Player site for detailed instructions or to use the convenient tools that they have made available to enable you to quickly delete Flash cookies from your system.
 
-You can block or disable third-party cookies in your browser settings so that your browser accepts only first party cookies, which are those cookies belonging to the site you are currently browsing (e.g., cookies from CIBC when you are on CIBC's site). You may also opt-out of CIBC personalized marketing on third-party sites by [visiting this sitevisiting this site. Opens a new window in your browser](http://preferences-mgr.truste.com/).
+You can block or disable third-party cookies in your browser settings so that your browser accepts only first party cookies, which are those cookies belonging to the site you are currently browsing (e.g., cookies from CIBC when you are on CIBC's site). You may also opt-out of CIBC personalized marketing on third-party sites by [visiting this siteOpens a new window in your browser](http://preferences-mgr.truste.com/).
+
+**Interest-based advertising and opting-out**
+
+Interest-based advertisement uses information collected from your browsing behaviour to help predict your preferences and provide you with advertisements that will likely be more relevant to you on our site and third-party sites.
+
+CIBC is committed to your privacy and providing you with the control to change your opt-in preferences.
+
+To opt-out visit [this siteOpens a new window in your browser](http://preferences-mgr.truste.com/). This page scans all of the advertising cookies held on your browser, and shows you companies that use cookies while you browser their sites, in a list. You can select the check box (or boxes) under the Opt-out column and select “Submit Opt-outs.”  
+
+CIBC also works with the Adobe Marketing Cloud to provide interest-based advertisements. To opt-out from receiving these types of advertisements directly through Adobe, set your preferences on the [Adobe siteOpens a new window in your browser](https://www.adobe.com/ca/privacy/opt-out.html). You can opt-out of interest-based advertising, under the “Adobe interest-based ads” section and you can opt-out from tracking, through the “Adobe websites” section.  
 
 **Location information:**
 
-CIBC cannot collect or use certain types of location information from geolocation or proximity technologies on your mobile device if the location services on your mobile device are disabled. Mobile devices allow users to disable location services through menu options. Please consult your mobile device provider for more information.
+CIBC cannot collect or use certain types of location information from geolocation or proximity technologies on your mobile device if the location services on your mobile device are disabled. Mobile devices allow users to disable location services through menu options. Consult your mobile device provider for more information.
 
 **Information on your device:**
 
