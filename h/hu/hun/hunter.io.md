@@ -1,57 +1,158 @@
-> *The following text is extracted and transformed from the hunter.io privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511065832id_/https%3A//hunter.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunter.io privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105193616id_/https%3A//hunter.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Hunter
 
-## User accounts
+Hunter helps businesses connect with each other by providing web applications, browser extensions, and other online services. 
 
-All the data of your account is yours. When you create your account, we ask information like your email, you name or what company your work for. All this information is used to personalize your experience or send you onboarding emails and invoices. This basic information about your account is only accessible to the team and will never be shared with third parties. 
+We are committed to respecting everyone's privacy and design our services with this goal in mind in accordance with European Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regards to the processing of personal data and on the free movement of such data and repealing Directive 95/46/EC (“GDPR”) and applicable data protection laws. 
 
-Sensitive data that results from your use of the product like the searches you do on Hunter, the files you upload or the data accessible via connected applications will only be accessed by the team with your permission to help you with a problem or squash a software bug. 
+In order to satisfy our customers’ expectations and to ensure the respect of data subjects’ rights, we regularly improve internal processes. 
 
-## The data we collect on the web
+This Privacy Policy describes what data we collect and how we process it. Should you have any questions, please reach out, we'll be glad to help: [contact@hunter.io](mailto:contact@hunter.io). 
 
-Hunter crawls the entire web and indexes all the email addresses it can find. All the email addresses can be directly distributed in the service with an indication of the place they have been found ("sources"). They can also be used in our algorithm to guess other email addresses. 
+## What information does Hunter collect?
 
-There are some cases where we don’t collect or distribute these email addresses: 
+This Privacy applies to all services offered by Hunter including: 
 
-  * Our crawler follows the robots.txt files. Commonly used for search engines, robots.txt files are used on a website to indicate what pages should be read or not by crawlers. In clear, if a website owner doesn’t wish some pages to be read, we don’t. 
-  * We never distribute webmail email addresses, like Gmail or Yahoo. Hunter is designed for professional use only. 
-  * Whenever a professional asks for his information to be removed from our database. 
+  * The Email Verifier
+  * The Email Finder
+  * The Domain Search
+  * The Leads
+  * The MailTracker
+  * The Outreach
 
 
 
-## Chrome extension
+## What information does Hunter collect?
 
-[Hunter’s Chrome extension](https://web.archive.org/chrome) lets you use our services directly through the Chrome browser. 
+### When you are on our website
 
-### When you use Chrome
+When you're using our website, we track your usage which includes statistics such as which pages you visit and how long you look at them. This information may include but is not limited to IP address, geolocalisation information, browser type and information about the use of our website, including a history of the pages you view. 
 
-While you use the Chrome extension, we collect non-identifying information regarding your browsing including the country of visit, the time of visit and the domain names visited. The data is collected in an anonymized fashion. This helps us identify the most popular websites and helps us to improve the service with this information. You can deactivate this data collection in the extension’s options. We don’t collect any identifying information such as your IP address. 
+If you create an account, we ask information such including but not limited to: your email, you name or what company you work for. All this information is used to personalize your experience or send you onboarding emails and invoices. In cases of high-risk of fraud, we might ask for a phone number for verification purposes (we never use it for marketing purposes). If you become a paying customer, we will collect your payment card information. 
 
-### On LinkedIn
+### When you use our services
 
-Hunter’s extension can read and modify pages on LinkedIn’s website. On LinkedIn, Hunter’s extension only reads data required to ensure the extension’s functionalities, such as finding the email address of profiles or saving leads. We never store data of profiles unless you explicitly want to do so (i.e. save them as leads). 
+Whether it is through the API, the website, the Google Sheets add-on, or the browser extensions we provide; we monitor your usage, and log requests that you make. Those logs can include IP address, geolocalization information, browser type, etc. We destroy those logs at the latest after 4 months. 
 
-## MailTracker
+When using our services, you might send us some data or data files (for the Email Finder and the Email Verifier for example). 
 
-Hunter edits another extension, [MailTracker](https://mailtracker.hunter.io/). It lets you track the emails you send with Gmail. The extension integrates into Gmail and needs to connect with your Google account. We use the fact that an email address is deliverable or not using MailTracker to improve Hunter's email-finding algorithm. We use it to improve the pattern detections and confidence scores on email addresses already present in our base, but never distribute an email address that has been found this way. We never use or store the content of the emails. 
+### When you contact our support
 
-## Google Sheets Add-on
+If you reach out via email or chat, we keep conversations and other data you might send during those exchanges. When you delete your account, those conversations are removed after a period of up to 6 months. 
 
-The [Google Sheets Add-on](https://web.archive.org/sheets) only modifies your Google spreadsheets to return email addresses. It never modifies them unless you ask to do so by launching an enrichment. It never stores any information contained in your spreadsheets. 
+### When someone uses the MailTracker or Outreach services
 
-## Security
+Our users can send emails through the MailTracker or our Outreach feature and get tracking information on them. We’ll let them know if we think their emails have been opened, where and how many times. 
 
-All data is encrypted via SSL/TLS when transmitted from our servers to your browser. We work with security researchers to continuously improve the overall security of Hunter. We go to great length to secure your data. You can read more on our [Security Policy.](https://web.archive.org/security-policy)
+To offer these features, we store some information regarding the identification of emails such as the subject of the email, the date and time in which the email was sent and information of the recipient(s) but we don’t store the body of the concerned email. When possible, we store the data in a pseudonymized form as much as possible. 
 
-## Analytics
+We also may store the location of the person opening the emails using IP addresses. To respect their privacy, the IP addresses collected this way are pseudonymized. 
 
-In all our products, we may track actions done by our users to improve the service. We'll track these actions for statistical purposes, for example, to know the popularity of a feature or the conversion rate of a page. This data is only accessible by the team. 
+### When we parse public web data
+
+We use servers to look at publicly available online pages and process business data on them. Only public pages are looked at and only publicly available online data that can be found by a search engine are indexed by our servers. If a website, via a robots.txt file, asks crawlers not to look at the content, we respect this indication. Our robots view systematically the robot.txt file before exploring and indexing the public data available on the website. We are not responsible for the privacy policies and practices of other websites. 
+
+On those public pages, we look for business data such as names, professional emails, social networks URLs, etc. If we come across private consumer data (for example a Gmail or Hotmail address), we do not process it. 
+
+## How we use your data
+
+### To provide our services
+
+When creating an account, you agree to our Terms of Service which allows us to process your data to give you access to Hunter. This way, you can have an account on our website, save and process leads, invite other team members, etc. 
+
+### To improve the User Experience
+
+We're looking at usage patterns and various statistics to understand what to improve on Hunter. This includes, for example, doing A/B testing on new features. 
+
+We’re also using the data that goes through our services to improve the services themselves. We only use this information to validate data we already have or that is being supplied by a user, not to enrich our databases. 
+
+###  To inform businesses regarding content that is publicly displayed online 
+
+To provide the service, we also give you access to the publicly accessible business data we have indexed. It is important for our users' (and the businesses they work for) to have access to the business data already shared on the web. This helps them discover relevant contacts within companies they want to reach out to. 
+
+### To offer customer support
+
+We provide customer support via email or chat, to help you take full advantage of our service or fix any problem you encounter. 
+
+### To fight fraud
+
+There are always bad actors on the web: We actively fight credit card fraud and misuse of our services. 
+
+### To market new services
+
+Regularly, we launch new services. We’ll let users know about those releases if they have asked us to keep them up to date. 
+
+## Your Rights, Controls and Choices
+
+### Your rights
+
+You have the following rights in relation to the personal data that we hold about you:
+
+  * To access your personal data, and some related information as described in the section below “know if we have information concerning you and what that information is”;
+  * To require any inaccurate personal data to be rectified, completed including by means of providing a supplementary statement;
+  * To require us to delete the personal data in certain circumstances;
+  * To require us to restrict or block the processing of your personal data in certain circumstances (when processing is restricted, we can still store your personal data, but may not use it further);
+  * To obtain from us your personal data, in a structured, commonly used and machine-readable format in certain circumstances. Further, you may have the right to require us to transmit your personal data directly to another person where it is technically feasible to do so; and
+  * To object to our use of your personal data for direct marketing purposes at any time and you may have the right to object to our processing of some or all of your personal data (and require them to be deleted) in some other circumstances; 
+  * Where we are processing your personal data based on your consent to such processing, to withdraw your consent at any time.
+
+
+
+### Update, correct and delete your information
+
+If you're a direct user of our service, you can log in to your account and update your information directly there. 
+
+If your business data was found online, you can use our [Claim](https://web.archive.org/claim) feature to update or delete it. 
+
+###  Know if we have information concerning you and what that information is 
+
+In particular, you have the right to obtain confirmation as to whether or not personal data concerning you are being processed, and, where that is the case, access to the personal data and the following information:
+
+  * If you're in our database
+  * Exactly what data we hold
+  * The purposes of the processing
+  * How long the data will be kept
+  * Where exactly on the web that information has been found
+  * All other information as mentioned in article 15 of the GDPR
+
+
+
+To get started, reach out at [contact@hunter.io](mailto:contact@hunter.io) or visit our [Claim](https://web.archive.org/claim) page. 
+
+### Disable the processing and permanently remove all of your data
+
+If you’re a user of our service, you can log in to permanently destroy your account. 
+
+If your data was found online, use our [Claim](https://web.archive.org/claim) feature to get full control over it. You can delete all your data directly online without having to send a request via email. 
+
+If you have any concerns, please reach out first so we can have a chance to help: [contact@hunter.io](mailto:contact@hunter.io). If you feel we’re not doing enough, you have the right to contact your local supervisory authority. 
+
+## Services helping us manage your data
+
+To provide our services, we rely on other companies that can partially manage your data. We carefully select our providers to ensure the privacy and security of your data. Our biggest providers are: 
+
+  * To secure connections with our users and speed up our services: Cloudflare, Amazon Web Services
+  * Hosting: DigitalOcean & OVH
+  * Customer support: Intercom
+  * For internal collaboration and emails: G Suite (Google), Basecamp
+
+
+
+## Duration of the processing
+
+For users of our service, we process your data as long as your account stays active and after 3 years of inactivity. Once your account is deleted or after 3 years of inactivity, we remove almost everything within a few days and all remaining artifacts within 3 months. If you’ve paid for Hunter, we might keep some information regarding your company for longer to comply with our legal obligations. 
+
+If your data was found online, we process it as long as it stays online. We make sure to regularly come back where we found it, if it isn't there anymore or if we believe that your personal data that we hold is inaccurate, we remove it from our databases and stop all processing. 
+
+## Securing your data
+
+We take the security of the data we manage very seriously and always try to keep our methods up-to-date. We've written a detailed document describing our [Security Policy](https://web.archive.org/security-policy). 
+
+The servers we use to store and process personal data are exclusively in the European Union. 
 
 ## Updates & contact
 
-Hunter may update this policy. We’ll notify you about significant changes by emailing the account owner or by displaying a prominent notice on our site. 
+Date of last revision: June 4, 2018. 
 
-You can access, change or delete your personal information at any time in your dashboard, or if it’s not directly possible, by contacting our support team. 
-
-Do you have questions about this privacy policy? [Please get in touch](https://web.archive.org/help/contact). We’ll be happy to answer them! 
+The company behind Hunter, Hunter Web Services, Inc., is incorporated in the United States. You can reach us via email: [contact@hunter.io](mailto:contact@hunter.io) or snail-mail (only USPS): Hunter Web Services, Inc., 427 N Tatnall St #50754, Wilmington, Delaware, 19801-2230, USA. 
