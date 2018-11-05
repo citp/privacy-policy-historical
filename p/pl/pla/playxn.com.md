@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playxn.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507062200id_/http%3A//www.playxn.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playxn.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105064241id_/http%3A//www.playxn.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - :: Play Action Games ::
 
