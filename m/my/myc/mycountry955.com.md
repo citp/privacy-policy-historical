@@ -1,10 +1,39 @@
-> *The following text is extracted and transformed from the mycountry955.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630074200id_/http%3A//mycountry955.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycountry955.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105211253id_/http%3A//mycountry955.com/privacy) for the most accurate reproduction.*
 
 # My Country 95.5 – Casper's Hometown Country Station – Casper Country Radio
 
 Townsquare Media, Inc. and its subsidiaries and affiliates (individually or collectively, “TSM” or “we/our/us”) respect your privacy and are committed to protecting it through our compliance with this policy.
 
 This policy describes the type of information we may collect from you and or that you may provide us when you interact with our websites, mobile applications, email, and online services, participate in our loyalty program, or register for one of our events (our “Services”). “You/your/user(s)” means you as a user of our Services. We offer the Services, including all information, tools and features available from the Services, to you conditioned upon your acceptance of all the terms, conditions, policies and notices stated here, which you accept by continuing to utilize the Services.
+
+<http://mycountry955.com/terms/>
+
+Guide to Contents: 
+
+1\. Scope
+
+2\. Information Collected
+
+3\. Use of Your Information
+
+4\. Sharing Information With Third Parties
+
+5\. Your Security
+
+6\. Your Options
+
+7\. Children
+
+8\. Your California Privacy Rights 
+
+9\. International User Notice
+
+10\. Users in the European Union (EEA) and Switzerland
+
+11\. Contact
+
+
+
 
 ### 1\. Scope
 
@@ -85,9 +114,17 @@ We adhere to the principles of the Digital Advertising Alliance’s Self-Regulat
 
 6.2 You can learn more about ad serving companies and the options available to limit their collection and use of your information by visiting the Services for the [Network Advertising Initiative](http://www.networkadvertising.org/choices/), the [Digital Advertising Alliance](http://www.aboutads.info/choices/), and the [European Interactive Advertising Digital Alliance (EDAA)](https://www.edaa.eu/edaa-for-users/). Similarly, you can learn about your options to opt-out of mobile app tracking by certain advertising networks through your device settings and by resetting the advertiser ID on your Apple or Android device. For more information about how to change these settings go to:
 
+Apple: <http://support.apple.com/kb/HT4228>
+
+Android: <http://www.google.com/policies/technologies/ads/>
+
+Windows: <http://choice.microsoft.com/en-US/opt-out>
+
 The DAA’s AppChoices App provides options regarding the collection of cross-app data for your device.
 
 Additional resources or tools may exist that streamline the process of submitting opt-out requests--for example, [TRUSTe’s Ad Preference Manager](https://preferences-mgr.truste.com/). We do not review or warrant the representations made by these tools and cannot guarantee the effectiveness. 
+
+6.3 To opt out of Google Analytics Advertising Features, visit Google’s Ad Settings page. Website users can also access the Google Analytics Opt Out Browser Add-on <https://support.google.com/analytics/answer/181881?hl=en>.
 
 6.4 Please note that opting-out of advertising networks services does not mean that you will not receive advertising while using our Services or on other Services, nor will it prevent the receipt of interest-based advertising from third parties that do not participate in these programs. It will, however, exclude you from interest-based advertising conducted through participating networks, as provided by their policies and choice mechanisms. If you delete your cookies, you may also delete your opt-out preferences. If you use multiple browsers or devices you may need to execute this opt out on each browser or device.
 
