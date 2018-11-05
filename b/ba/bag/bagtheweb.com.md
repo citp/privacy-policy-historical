@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bagtheweb.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203144437id_/http%3A//www.bagtheweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagtheweb.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105183306id_/https%3A//www.bagtheweb.com/privacy) for the most accurate reproduction.*
 
 # privacy_policy - Bag The Web
 
 We've detected that your browser may be outdated. We recommend you upgrade your browser to a more recent version. 
 
-For the best BagTheWeb experience, we recommend using [Google Chrome](http://www.google.com/chrome). . 
+For the best BagTheWeb experience, we recommend using [Google Chrome](https://www.google.com/chrome). . 
 
 Your privacy is critically important to us. At BagTheWeb we have a few fundamental principles:
 
@@ -17,7 +17,7 @@ Your privacy is critically important to us. At BagTheWeb we have a few fundament
 
 Below is our privacy policy which incorporates these goals:
 
-BagTheWeb Inc. (“BagTheWeb”) operates several websites including [www.bagtheweb.com](http://www.bagtheweb.com/) and [ambiently.com](http://ambiently.com/). It is BagTheWeb policy to respect your privacy regarding any information we may collect while operating our websites.
+BagTheWeb Inc. (“BagTheWeb”) operates several websites including [www.bagtheweb.com](https://www.bagtheweb.com/) and [ambiently.com](http://ambiently.com/). It is BagTheWeb policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
@@ -27,7 +27,7 @@ BagTheWeb also collects potentially personally-identifying information like Inte
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to BagTheWeb’s websites choose to interact with BagTheWeb in ways that require BagTheWeb to gather personally-identifying information. The amount and type of information that BagTheWeb gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [www.bagtheweb.com](http://www.bagtheweb.com/) to provide a username and email address. In each case, BagTheWeb collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with BagTheWeb. BagTheWeb does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to BagTheWeb’s websites choose to interact with BagTheWeb in ways that require BagTheWeb to gather personally-identifying information. The amount and type of information that BagTheWeb gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [www.bagtheweb.com](https://www.bagtheweb.com/) to provide a username and email address. In each case, BagTheWeb collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with BagTheWeb. BagTheWeb does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
