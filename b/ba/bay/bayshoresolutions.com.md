@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bayshoresolutions.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501191637id_/https%3A//www.bayshoresolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayshoresolutions.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107000116id_/https%3A//www.bayshoresolutions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bayshore Solutions
 
-This privacy policy sets out how Bayshore Solutions uses and protects any information that you give Bayshore Solutions when you use this website.
+(Updated May 2018 and currently effective) – This privacy policy sets out how Bayshore Solutions uses and protects any information that you give Bayshore Solutions when you use this website.
 
 Bayshore Solutions is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Bayshore Solutions may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from January 1, 2009.
+Bayshore Solutions may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
 ## WHAT DATA WE COLLECT
 
@@ -52,7 +52,7 @@ Our website may contain links to other websites of interest. However, once you h
 ## CONTROLLING YOUR PERSONAL INFORMATION
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.  
-At any time you may unsubscribe from any of our e-mail publication distributions through our e-mail management system’s unsubscribe button or by emailing us at: [Marketing@BayshoreSolutions.com](mailto:Marketing@BayshoreSolutions.com)
+At any time you may unsubscribe from any of our e-mail publication distributions through our e-mail management system’s unsubscribe button or by emailing us at: [Marketing@BayshoreSolutions.com.](mailto:Marketing@BayshoreSolutions.com) You may also request to have your contact information removed from our records by reaching out to the email above.
 
 ## CHILDREN UNDER 13
 
