@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the devicemag.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507015205id_/http%3A//www.devicemag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devicemag.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106075511id_/http%3A//www.devicemag.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# DeviceMAG Archives - Page 1
 
 At www.devicemag.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.devicemag.com and how it is used.
 
