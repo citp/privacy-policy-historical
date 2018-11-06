@@ -1,326 +1,179 @@
-> *The following text is extracted and transformed from the kaplaninternational.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916093122id_/http%3A//www.kaplaninternational.com/terms/index.aspx%23s5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaplaninternational.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106175008id_/https%3A//www.kaplaninternational.com/privacy-notice) for the most accurate reproduction.*
 
-# Terms & Conditions
+# Kaplan International English Privacy Notice | Kaplan International
 
-###  Privacy Policy
+## You are here
 
-### Application Process
+[Home](https://web.archive.org/) > Privacy Notice
 
-### Terms and Conditions
+Kaplan International English is committed to maintaining the privacy and security of your personal data. This Privacy Notice explains how we collect, use, share and protect your personal data.
 
-### Website User Agreement
+It is important that you read this Privacy Notice so that you are aware of how and why we are using your personal data. 
 
-### Cookies and Other Technologies
+This Privacy Notice is provided in a layered format so you can click through to the specific areas set out below. 
 
-* * *
+* For the  **Kaplan International Hosts Privacy Notice**  please click [here](http://ebook.kaplaninternational.com/privacy%20notice/Kaplan%20International%20Hosts%20Privacy%20Notice.pdf)[.](https://web.archive.org/ebook.kaplaninternational.com/privacy%2Bnotice/Kaplan%2BInternational%2BHosts%2BPrivacy%2BNotice.pdf)
 
-#####  _ Last Modified on 03 December 2013 _
+Kaplan International English is a "data controller". This means that we are responsible for deciding how we hold and use personal information about you. Where we act as a data controller, we are required under data protection legislation to notify anyone who provides personal data to us, either directly or through a third party, of the information contained in this Privacy Notice.
 
-##### Privacy Policy     _ _
+Kaplan International English is the trading name for Aspect International Language Academies Limited (company number 02162156 and registered address at 2 nd Floor Warwick Building, Kensington Village, Avonmore Road, London W14 8HQ) so when we mention "Kaplan", "we", "us" or "our" in this Privacy Notice, we are referring to this company which is responsible for processing your data.
 
-Your privacy is very important to us and we are committed to protecting it. The Privacy Policy and User Agreement (the "Policy") explains what personal data we collect and how we use and disclose personal data collected from you. This Policy applies to the website for Kaplan, a division of Kaplan, Inc., at [www.kaplaninternational.com](http://www.kaplaninternational.com/) (the "Site") and any other information collected from you by Kaplan. The Policy does not govern the collection of information through any website other than through the Site; nor does this Policy govern the collection of information by any of our affiliated businesses or by third parties. By visiting or using the Kaplan website, you agree to follow its rules. By visiting the Site or submitting personal data to us, you accept the terms described in this Policy. If you do not agree to this Policy, please do not use the Site and do not submit personal data to us.
+We have appointed a Data Protection Officer (DPO) who is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this Privacy Notice, including any requests to exercise your legal rights, please contact the DPO using the details set out below:
 
-**Personal Data We Collect**  
+### Contact details
 
-When you request information, enroll in our programs or contact us to become a partner, we collect personally identifying information such as your name, age, gender, postal address, telephone number, e-mail address, educational and employment background and interests, and credit card information ("personal data"). If you are enrolling as a student, we may also collect other personal data, such as information regarding your health so that, if necessary, we can assess your application or make appropriate accommodation for you. In addition, if you send us an e-mail or communicate with us offline, we may collect the personal data that you voluntarily provide us at that time.
+**Name of DPO:** Rachael Convery   
+**Email address:** [dpo@kaplaninternational.com](mailto:dpo@kaplaninternational.com)   
+**Postal address:** 2 nd Floor, Warwick Building, Kensington Village, Avonmore Road, London W14 8HQ 
 
-**Children**
+You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
 
-We collect personal data in the manner described in this privacy policy. However, if you are a minor (under 18 years of age) and want to submit an application to study with us or subscribe to this website, register to play any games, sign up for latest offers or newsletters, you must ask your parent or guardian for permission to apply and permission to provide personal information to us necessary to process your application. We will ask your parent or guardian to confirm you have permission to apply and we may ask you to provide an email address, residential address and telephone number for your parent or guardian. We may also carry out checks to verify that the contact details you have provided are for your parent or guardian.
+Personal data is any information about an individual from which that individual can be identified. Your name, address, phone number and bank account number are examples of personal data. It does not include data where the identity has been removed (anonymous data).
 
-**Use of Personal Data**   
-We may use the personal data we collect from you in the following ways:
+We will comply with data protection law. This says that the personal information we hold  
+about you must be:
 
-  * Fulfillment of Requests. Kaplan may use personal data to fulfill the purpose for which such personal data was provided (for example to enroll you in our courses or to respond to a specific inquiry).
-  * Administrative Communications. We may use personal data to notify you about your enrollment or academic progress, other matters related to your use of our services, important information regarding the Site or changes to our terms, conditions, and policies. Because this information may be important to your use of our services, you may not opt out of receiving such communications.
-  * Other Communications. We may use personal data to inform you of special offers and new or existing services that we believe may be of interest to you or to send surveys or questionnaires so that we can learn more about your needs and interests. If you would prefer that we do not send marketing messages to you, please see the "Your Ability to Choose" section below.
-  * Purchases. When you enroll in our services, we may collect your credit card number or other payment account number (for example, your wireless account number), billing address and other information related to such purchase (collectively, "Payment Information") from you, and may use such Payment Information in order to fulfill your purchase.
-  * Promotions. We may operate sweepstakes, contests and similar promotions (collectively, "Promotions"). We may ask you for certain personal data when you enter and, if applicable, win a Promotion. You should carefully review the rules, if any, of each Promotion, as they may contain additional information about Kaplan International English's use of personal data. To the extent that the terms and conditions of such rules conflict with this Policy, the terms and conditions of such rules shall control.
-  * Internal Business Purposes. We also may use personal data for our internal business purposes, such as to improve the Site, allow us to personalize the content that you and others see based on personal characteristics or preferences, and perform data analysis, audits and so forth.
+  * Used lawfully, fairly and in a transparent way.
+  * Collected only for valid purposes that we have clearly explained to you and not used in any way that is incompatible with those purposes.
+  * Relevant to the purposes we have told you about and limited only to those purposes.
+  * Accurate and kept up to date.
+  * Kept only as long as necessary for the purposes we have told you about.
+  * Kept securely.
 
 
 
-**Disclosure of Personal Data**   
-We may disclose personal and other data we collect from you in the following ways:
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
 
-  * Service Providers. We may hire other companies to perform services on our behalf including, without limitation, facilitating some aspects of our Site and services, managing our database, contacting you, sending e-mail, and fulfilling your requests. These other companies may be supplied with or have access to your personal data solely for the purpose of providing these services to us or on our behalf. Kaplan is the data controller and will remain accountable for the personal information.
-  * Kaplan Affiliates. We also may share your data with other business divisions and subsidiaries of Kaplan, Inc. (our "Affiliated Businesses") that provide services we think might interest you.
-  * Business Transfers. Kaplan may in its sole discretion, transfer, sell or assign your personal data to a third party in connection with a change in the corporate structure of Kaplan such as, but not limited to, merger, consolidation, sale, liquidation, or transfer of substantial assets.
-  * Others. We may disclose personal information, as permitted or required by law, and to: (i) respond to inquiries or requests from governmental or public authorities; (ii) protect the rights, privacy, safety or property of Kaplan; (iii) permit us to pursue available remedies or limit damages that we may sustain; and (iv) enforce our agreements, including without limitation our enrollment terms and conditions.
-  * In some countries we work with representatives who may contact you directly and offer a personalised counselling service. These trusted partners may be supplied with or have access to your personal data for the sole purpose of providing services on our behalf.
-  * Accommodation (Host Family). In the event that you opted to stay with a host family, as may be required, we may disclose your details (such as your email) to the host family. This in order for the host to contact you and facilitate your stay with the host.
+  * Where we need to perform a contract we have entered into with you.
+  * Where we need to comply with a legal obligation.
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
 
 
 
-**Collection and Use of Non-Personal Data**   
-Your visit to our Site may automatically provide us with non-personal data that is not linked to personal data about you, such as your browser type, operating system, domain name, access times, and referring website addresses. We collect non-personal data for statistical analysis regarding the use of the Site and its specific Web pages and how our visitors use and navigate our website on an aggregate basis. Because non-personal data does not personally identify you, we may use or disclose such information for any purpose. If we do combine any non-personal data with personal data, we will treat the combined data as personal data in accordance with this Policy.
+We may also use your personal data in the following situations, which are likely to be less common:
 
-Some parts of the Site use cookies and other technologies to collect this non-personal data, and for other purposes. You can learn more about these technologies in the section entitled Cookies and Other Technologies.
+  * Where we need to protect your vital interests (or someone else's interests).
+  * Where it is needed in the public interest or for official purposes.
 
-**Transfer of Data Outside Your Country**   
-As we are an international business with employees, affiliates and service providers all over the world, please note that the personal data you provide to us may be transferred to and processed and stored in the United States or other countries, including without limitation your home country, the country in which you plan to matriculate or other countries where Kaplan, Inc. has offices. Although the data protection laws of these various countries may not be as comprehensive as those in your own country, Kaplan will take appropriate steps to ensure that personal data is handled as described in this Policy. By providing personal data and other information to us, you understand and consent to the collection, use, processing, disclosure and transfer of such personal data to the United States and other countries where Kaplan, Inc. has offices and service providers.
 
-**Your Ability to Choose**   
-If you have given us your contact data, we may want to inform you about our services or invite you to events by email, telephone or postal mail.
 
-You can let us know if you do not want us to send you information about our products and services by telling us at the time you enroll or by contacting us at [info@kaplaninternational.com](mailto:info@kaplaninternational.com).
+Generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending direct marketing communications to you via email. You have the right to withdraw consent to marketing at any time by contacting us.
 
-You can let us know if you do not want us to share your data with our Affiliated Businesses for their marketing purposes by telling us at the time you enroll or by contacting us at [info@kaplaninternational.com](mailto:info@kaplaninternational.com).
+### Enquiries
 
-Please note, however, that if you "opt out" as described above, we will not be able to remove personal data from the databases of Affiliated Businesses with which we have already shared personal data about you (e.g., prior to your opt-out request).
+When you request information or make enquiries about any of our services or programmes, we may use the personal data you provide in order to fulfil your request or respond to your enquiry. It is in our legitimate interests to use your personal data in this way so that you receive the information you have requested.
 
-**Security**   
-We are concerned with the security of the personal data we collect from you. Kaplan will take appropriate measures to: (1) protect personal data collected against unauthorized access, disclosure, alteration or destruction; and (2) keep personal data accurate and up-to-date, consistent with applicable law.
+### Applications
 
-Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. As a result, although we strive to protect your personal data, we cannot ensure or warrant the security of any information you transmit to us through or in connection with the Site or that is stored by us. If you have reason to believe that your interaction with us is not secure, please notify us of the problem immediately by contacting us at [webrequest@kaplaninternational.com](mailto:webrequest@kaplaninternational.com).
+If you make an application to study on one of our programmes or related to accommodation we may collect the following categories of personal data about you:
 
-**Links to Other Websites**   
-The Site may contain links to the websites of our Affiliated Businesses and other third parties (the "Other Websites"). These Other Websites are not under Kaplan International English’s control and we are not responsible for the privacy practices or the contents of any such linked site. If you provide any personal data to any Other Website, the personal data you provide will be collected by and controlled by the privacy policy of that Affiliated Business or third party. We recommend that you familiarize yourself with the privacy policies and practices of any such Other Websites.
+  * Personal contact details such as name, title, addresses, telephone numbers, and personal email addresses.
+  * Date of birth.
+  * Gender.
+  * Nationality and country of residence.
+  * Passport number.
+  * Visa information and immigration status.
+  * Education history.
+  * Employment history.
+  * Funding information.
 
-**Access and Correction**   
-If you are a registered member of the Kaplan Partner Zone or Student Zone you may review and update your personal data by clicking the View Details in the Partner Zone control panel and Update My Profile in the Student zone. To the extent required by applicable law, you may be able to request that we inform you about the personal data we maintain about you and, where appropriate, request that we update, correct, and/or suppress personal data about you that we maintain in our active database. Such requests must be submitted to the following email address: [info@kaplaninternational.com](mailto:info@kaplaninternational.com). Please note that even in countries where laws require us to delete or suppress personal data upon your request, we may need to retain certain information for recordkeeping. In addition, we are not responsible for removing or updating your personal information from the databases of our Affiliated Businesses or third parties with whom we have already shared personal data.
 
-**Updates to This Policy**   
-From time to time we may modify this Policy. We will announce material changes to the Policy by posting the revised Policy on the Site, and where required by applicable law, notifying you through a notice on our home page, information collection forms or via e-ail. You can determine when this Policy was last revised by checking the "Last Modified" legend at the top of this Policy. Your continued use of the Site and our services after any modification indicates your agreement to the new terms.
 
-**Questions**   
-If you have questions or concerns about this policy or the Site, also contact us at [info@kaplaninternational.com](mailto:info@kaplaninternational.com).
+It is in our legitimate interests to collect and use the above information in order to consider and process your application.
 
-### Application Process
+We may also ask you to disclose information regarding any criminal convictions you may have as part of your application. We need to use this information in order to comply with our legal obligations.
 
-**1\. Application:** Please send the signed enrollment form to your Kaplan representative with the enrollment fee and, if applicable, the courier fee. Students 18 and over (19 and over for students attending our Vancouver location) must sign the enrollment form to say that they have read and agree with these terms and conditions. The parents or legal guardian of students under 18 (under 19 for students attending our Vancouver location) must read and also sign the enrollment form on their behalf.
+### Study and accommodation
 
-Contract Formation: By signing the enrollment agreement and returning the enrollment form the student is agreeing to enter into a binding contract with Kaplan. On Kaplan’s receiving the completed and signed enrollment form and enrollment fee, if the student’s course and accommodation are available, Kaplan will produce a booking confirmation. Once this booking confirmation has been issued, a legally binding contract will be formed between the student and Kaplan, which is dependent on the student meeting all immigration requirements.
+If we enter into a contract with you relating to study or accommodation, we may collect additional personal data relating to you including:
 
-Your privacy is important to us. Please note that by submitting your personal data to us, you are accepting the terms described in our privacy policy, which can be found at: [www.kaplaninternational.com/privacy](http://www.kaplaninternational.com/privacy)
+  * Bank account details.
+  * Billing address.
+  * Credit card or other payment information in order to process your payments.
 
-USA: Students enrolling in a California location: As a prospective student, you are encouraged to review our catalogue prior to signing an enrollment agreement. You are also encouraged to review the School Performance Fact Sheet, which must be provided to you prior to signing an enrollment agreement. A link to these documents may be found at: [www.kaplaninternational.com/about/quality.aspx](http://www.kaplaninternational.com/about/quality.aspx)
 
-**2\. Payment deadline:** All course fees must be paid in full (unless otherwise notified) no later than 30 days before the course starts. If a booking is made less than 30 days before the course starts, the fees are immediately payable. If payment in full has not been received, you will not be allowed to start your course.
 
-Australia: For individual courses longer than 24 weeks, 50% of tuition fees and all other fees must be paid in full no later than 30 days before the course starts. If a booking is made less than 30 days before the course starts, the fees are immediately payable. The remainder of the tuition fees is required two weeks before the start of the second study period of any individual course.
+This information, together with the personal data provided to us above at application stage, will be used by us to perform the contract we have entered into with you.
 
-**3\. Visa information:** It is the responsibility of the student to arrange all applicable travel permits or visas and to have a valid passport and leave to remain for the whole period of study. The student may be asked to make payment in full prior to the issuing of any of the visa documentation referred to below:
+We will also collect further personal data relating to your visa application and immigration status as we have a legal obligation to use this information.
 
-UK: If your application is successful, we will provide either an offer letter for and SVV or ESVV or a Confirmation of Acceptance of Studies (Tier 4 GSV and CSV applicants only). Tier 4 applicants must take a Secure English Language Test (SELT) to establish their level of English before they apply for their visa. Students whose level of English is lower than intermediate (CEFR B1) must apply for the Student Visitor route SVV or ESVV. See the following website for further details: [www.ukvi.homeoffice.gov.uk](http://www.ukvi.homeoffice.gov.uk/).
+During your studies we will collect information about your academic experience and progression. This is in order to fulfil our contract with you but it is also in our legitimate interests to use this personal data in order to monitor the provision of our service to you.
 
-Ireland: We will provide you with an invitation letter to assist you with your visa application.
+We may also collect personal data about your health in order to make appropriate arrangements and reasonable adjustments for you regarding your welfare, attendance or accommodation. We use this information in order to perform our contract with you but also in order to fulfil our legal obligations.
 
-USA: Our schools are authorized under Federal law to enrol non-immigrant students. After your application is received, Kaplan will request proof of funds verifying ability to pay for the entire enrollment in the US, which is required for Form I-20 Certificate of Eligibility issuance.
+We may also collect personal data about you if you are named as an emergency contact for an individual. We use this information as it is in the vital interests of such individual.
 
-Canada: Our schools have Designated Learning Institution (DLI) status with Citizenship and Immigration Canada (CIC). We will provide you with an invitation letter to assist you with your visa application, if applicable.
+If you use an agent to arrange your application and study with us, we may collect the categories of personal data described above from your agent.
 
-Australia: Visa application forms (Confirmation of Enrollment) may not be issued by the school until full payment has been received and the enrollment agreement has been signed and returned. The enrollment agreement includes reference to the pre-departure and grievance procedures information and can be found on our website: [www.kaplaninternational.com](http://www.kaplaninternational.com/).
+### Marketing
 
-New Zealand: In accordance with government regulations, visa support (Fees Receipt) is only issued by Kaplan when full payment has been received. Full details of visa and permit requirements, advice on rights to employment in New Zealand while studying, and reporting requirements are available through the New Zealand Immigration Service and can be viewed on their website at: [http://www.immigration.govt.nz](http://http//www.immigration.govt.nz).
+Where you have explicitly consented to do so, we may use your personal data to inform you of special offers and new or existing services that we believe may be of interest to you or to send surveys or questionnaires so that we can learn more about your needs and interests.
 
-**4\. Courier fees:** If you enrol on a course in the USA less than 30 days before the course start date, a courier fee of USD60 will be charged to cover the expedition of visa documentation. If you enrol more than 30 days before the course start date, documentation will be sent by normal postal service, unless you request and pay for the courier service. In all other countries, a courier service is available on request at GBP35, EUR55, CAD75, AUD75, NZD85.
+If you would prefer that we do not send such communications to you, please follow the opt- out links on any marketing message or contact us using the contact details in this Privacy Notice.
 
-**5\. Travel and medical insurance:** Travel and medical insurance is compulsory at all Kaplan schools for the duration of your stay regardless of your course length or course/visa type. Kaplan can recommend a travel and medical insurance plan. Details of what this covers are available from your Kaplan representative. You are responsible for the belongings which you bring with you to Kaplan schools or accommodation and for taking out insurance for your own possessions. You are required to show proof of medical insurance at the school when you arrive. You will not be allowed to commence a course until you have obtained satisfactory medical insurance. All non-EU students studying in Ireland will also have to register with GNIB within 30 days of arrival.
+### Internal business purposes
 
-Australia: The Australian government requires all students on Student Visas to join the Overseas Student Health Cover (OSHC) scheme, a health insurance plan for overseas students in Australia. Payment of AUD 51/month for compulsory OSHC for the duration of the student’s visa must be made before a visa can be issued. Additional fees will be charged should you arrive in Australia earlier in order to cover insurance for the full visa period.
+We also may use your personal data for our internal business purposes. This is in our legitimate interests in order to operate as a business and monitor and improve the services we provide. Where possible we will anonymise this information. Please contact us using the contact details in this Privacy Notice if you would like more information.
 
-New Zealand: Most international students are not entitled to publicly funded health services while in New Zealand. If you receive medical treatment during your visit, you may be liable for the full costs of that treatment.
+### Automated technologies or interactions
 
-Full details on entitlements to publicly funded health services are available through the Ministry of Health and can be viewed on their website at [http://www.moh.govt.nz](http://http//www.moh.govt.nz). In addition, The Accident Compensation Corporation provides accident insurance for all New Zealand citizens, residents and temporary visitors to New Zealand, but you may still be liable for all other medical and related costs. Further information can be viewed on the ACC website at [http://www.acc.co.nz](http://http//www.acc.co.nz). Please note that Kaplan’s recommended travel and medical insurance must be booked for a minimum of 4 weeks.
+As you interact with our website, we may automatically collect technical data about your equipment, browsing actions and patterns. We collect this personal data by using cookies and other similar technologies. Please see our cookie policy on our website for further details.
 
-**6\. Health declaration:** Students must report on their enrollment form any mental or physical illness, allergy, disability or condition that may interfere with their ability to successfully complete their program, that may impact the health and well-being of any other student, host or staff member, that may require monitoring, treatment or emergency intervention of any kind during the student’s anticipated period of enrollment, or that may require special accommodations. Kaplan reserves the right to reject an applicant or terminate a student’s enrollment in the program if the student’s continued participation represents a risk to their health and safety or to the health and safety of other students or staff, or if, notwithstanding reasonable accommodations, in the opinion of Kaplan, the student’s physical or mental condition makes the student unable or unlikely to successfully complete their program. Refunds in such circumstances are at the discretion of Kaplan.
+### If you fail to provide personal data
 
-USA: Some schools located on university campuses require students to provide a Health Declaration and Immunization form in advance of arrival. You will be informed in such cases.
+Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time.
 
-**7\. Tuition fees:** Tuition fees include lessons, orientation meeting, use of computer room and internet, placement and progress testing and a Kaplan certificate on completion of the course. Kaplan reserves the right to withhold the granting of a certificate attained by a student if tuition fees or any other fees remain outstanding, or other conditions are not met.
+We may share your personal data with third parties where required by law, where it is necessary to perform our contract with you or where we have a legitimate interest in doing so.
 
-**8\. Additional services:** Any additional services (transfers, travel, laundry, telephone costs, excursions, medical costs, special diet, exam fees, change of accommodation and enrollment amendments) are not included in any fees unless specifically stated on a valid invoice.
+Such third parties may include the following:
 
-**9\. Twin accommodation:** At Kaplan’s discretion, students may be required to book single room accommodation instead of twin room accommodation.
+  * **Our service providers:** We may share your personal data with other companies that perform certain services on our behalf. These services may include processing payments, providing customer service and marketing assistance, performing business and sales analysis and supporting our website and IT functionality. These service providers may be supplied with or have access to your personal data solely for the purpose of providing these services to us or on our behalf. Kaplan is the data controller and will remain accountable for your personal data.
+  * **Our business partners:** We may share your personal data with our university partners or with your sponsor with whom we have a contract relating to your programme of study.
+  * **Agents:** If you use an agent to arrange your application or study with us, we may share your personal data with them.
+  * **Parents and guardians:** If you are under 18, we may share your personal data with your parents or guardians in order to perform our contract, comply with our legal obligations and if it is in your vital interests.
+  * **Other entities in the Kaplan group:** We may share your personal data with other entities in our group as part of our regular reporting activities on company performance, in the context of a business reorganisation or group restructuring exercise or for system maintenance support and hosting of data.
+  * **Regulators:** We may need to share your personal data if required by a regulator or to otherwise comply with law.
+  * **Others:** We may share your personal information with other third parties such as in the context of the possible sale of our business. We may also need to share your personal data in order to permit us to pursue available remedies or limit damages we may sustain.
 
-**10\. Under 18 year olds:** Kaplan delivers adult courses (except for programs advertised as being for juniors or young learners). Therefore, students aged 16 and 17 are advised that they will be attending classes with students aged 18 and over. Under 18 year olds may be required to pay a guardian fee, provide custodianship documents, live in Kaplan-approved accommodation, book Kaplan’s airport transfer service (these are compulsory in Australia and New Zealand) and purchase Kaplan medical insurance. All students under 18 (under 19 for students attending our Vancouver location) must provide a signed Minor Authorisation form prior to arrival, and in Canada, students may need to provide a notarized Custodianship Declaration.
 
-UK/Ireland: The British and Irish governments require all students under 18 to submit a Waiver form and an Authorisation of Emergency Medical Treatment form which will be provided at the time of booking.
 
-### Terms and Conditions
+As we are an international business with employees, entities and service providers all over the world, we may need to transfer the personal data you provide to us to other countries which may be outside the European Economic Area (EEA).
 
-**1\. Rules and regulations:** Students’ arrangements with Kaplan are governed by the law of the country where the particular school attended is located.
+The data protection laws in such countries may not be as comprehensive and provide the same level of protection for your personal data as those within the EEA. In these circumstances, we will take appropriate steps to ensure that your personal data is handled as described in this Privacy Notice. These steps will include appropriate contractual mechanisms. Please contact us using the contact details in this Privacy Notice if you would like more information.
 
-**2\. Arrivals and departures:** All accommodation is booked from the Saturday or Sunday before the course start date until the Saturday morning after the course end date, unless otherwise advised. A partial week may be counted as 1 week’s accommodation. Students arriving between 22:30 – 6:00 may be asked to book alternative accommodation in a hotel on their first night due to late/early arrival at accommodation, or be charged an extra night of accommodation.
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal information to those employees, service providers, business partners, agents and other third parties who have a legitimate need to know. They will only process your personal information on our instructions or as otherwise agreed and they are subject to a duty of confidentiality.
 
-**3\. Late arrivals, vacations and absences:** If you begin your enrollment late or are absent during your course, no refund will be made for the time missed. Periods of absence cannot be made up with a free extension of the course. Session Break dates are pre-built into the Academic Year and Academic Semester programs and students cannot make changes to these dates. Breaks taken at other times will be marked as periods of absence. For other courses, granting of any Session Breaks after the course has started will be at the discretion of individual schools, according to visa regulations, and may incur a change fee or be marked as a period of absence.
+We have put in place procedures to deal with any suspected data security breach and will notify you and any applicable regulator of a suspected breach where we are legally required to do so.
 
-**4\. Meals and classes missed:** No refunds or substitutions will be made for meals or classes missed due to exams, excursions, internships, first day orientation or other obligations that fall outside the normal schedule.
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting or reporting requirements. To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements. Please contact us using the contact details in this Privacy Notice if you would like more information.
 
-**5\. Public holidays:** Classes are normally not held and most school facilities are closed on public holidays. All published course start dates fall on a Monday. If the Monday is a public holiday, the start date will fall on a Tuesday. Compensation will not be made for classes not offered on public holidays.
+It is important that the personal information we hold about you is accurate and current. Please keep us informed if your personal information changes during your working relationship with us.
 
-**6\. Campus facilities:** Students attending a Kaplan school at a university or college campus location are advised that campus facilities may not be available during campus holidays. Further details are available from the Kaplan booking office.
+In some circumstances we may anonymise your personal data so that it can no longer be associated with you, in which case we may use such information without further notice to you.
 
-**7\. Change fees:** A minimum of 4 weeks’ notice is required for any change. If you request a change of school location, course dates, accommodation or programme type after your course has started, you will be charged a change fee of GBP60, EUR85, USD100, CAD100, AUD75, NZD75 which is payable at the time the request is made. Kaplan is not obliged to fulfill any change request. Academic Year or Academic Semester students cannot transfer to a different Kaplan school during term time. If changing to a location where fees are lower, the difference in fees will not be refunded. If changing to a more expensive location or programme, the difference in fees will be charged. All changes are subject to Kaplan’s discretion and require approval of the Programme Director. You will not be charged a change fee if you extend your course, but late homestay extensions in Canada may require a re-placement fee of CAD100. It is the responsibility of the student to pay for any course or accommodation extensions. Any change of tuition resulting in a reduction in lessons will be treated as a termination of the existing booking and rebooking, and will thus be subject to the standard terms & conditions governing terminations (see ‘Termination Policy’). 
+Under certain circumstances, by law you have the right to:
 
-**8\. Duration of lessons:** All English lessons are 45 minutes in duration unless otherwise stated. Courses run from Monday to Friday and lessons are scheduled in the morning or the afternoon. Kaplan cannot guarantee a specific timetable.
+  * Request access to your personal data (commonly known as a "data subject access request"). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+  * Request correction of the personal that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected.
+  * Request erasure of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have exercised your right to object to processing (see below).
+  * Object to processing of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground. You also have the right to object where we are processing your personal information for direct marketing purposes.
+  * Request the restriction of processing of your personal data. This enables you to ask us to suspend the processing of personal data about you, for example if you want us to establish its accuracy or the reason for processing it.
+  * Request the transfer of your personal data to another party.
 
-**9\. Substitution policy:** If, after the placement test taken on arrival at the school, a student is found to be at a level which is not appropriate for their booked course, the school reserves the right to place the student in an appropriate level class, which may have fewer lessons and a different curriculum. Students who do not have the ability to follow any course on offer may be required to terminate their studies with Kaplan. We also reserve the right to cancel courses at short notice due to insufficient demand.
 
-**10\. Programme changes:** : Kaplan has the right to change course dates, course curricula, tutors, locations and programs at any time at its discretion. However, in cases where the course is rescheduled prior to the start of the first course and the new date is unacceptable to the student, all fees will be refunded.
 
-**11\. Prices:** Kaplan has the right to change prices due to tax increases, governmental actions or other events beyond Kaplan’s control. Prices are valid for courses starting in 2015.
+If you want to review, verify, correct or request erasure of your personal data, object to the processing of your personal data, or request that we transfer a copy of your personal information to another party, please contact us using the contact details in this Privacy Notice.
 
-**12\. Books and learning materials:** All books and learning materials will be made available to students during their course. A book deposit (USD40) may be charged at the beginning of the course. This will be refunded at the end of the course, if the books are returned in good condition. Some specialized courses may require the purchase of books. In Canada, New Zealand and Australia a materials fee is charged to students to cover the cost of such items.
+### No fee usually required
 
-**13\. Residential housing deposit:** A refundable housing deposit of up to GBP250, EUR350, USD500, CAD600, NZD250-500 or AUD250-500 may be charged on arrival to students taking residential accommodation in the UK, Ireland, USA, Canada, New Zealand and Australia. The deposit is returned unless there is damage, loss or extra cleaning to be paid for on the student’s departure. In some cases the deposit may be non-refundable if the booking is cancelled. Additional fees may also apply in some locations (e.g. utilities, cleaning, linen).
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request for access is clearly unfounded or excessive. Alternatively, we may refuse to comply with the request in such circumstances.
 
-**14\. Expulsion/Suspension:** Any student who commits a criminal offence, violates the student conduct code or school policy, has, in Kaplan’s opinion, a poor attendance record (whether or not such attendance is in breach of any visa attendance requirements), is absent for 14 consecutive days without notification (USA and Canada), or fails to pay an amount he or she is directly or indirectly liable to pay Kaplan in order to undertake the course, may be expelled or suspended. No refund will be given and the immigration authorities will be informed.
+### What we may need from you
 
-Student Code of Conduct: You agree to abide by the student conduct rules and other policies while attending Kaplan. As part of Kaplan’s commitment to our students’ success, we seek to provide an optimal learning environment and expect students to conduct themselves in a manner that is considerate of those around them. Inappropriate conduct includes but is not limited to: (1) disruptions to the learning environment (i.e. use of profanity, harassment, mobile phone use in classrooms, etc.); (2) deliberate destruction, misuse, or theft of Kaplan property or the property of fellow classmates; (3) violence or threats of violence towards persons or property of students or Kaplan staff; (4) improper use of email or Internet access; and (5) failure to comply with local copyright or criminal laws forbidding the misappropriation, copying or alteration of copyright-protected materials.
+We may need to request specific information from you to help us confirm your identity and ensure your right to access the information (or to exercise any of your other rights). This is another appropriate security measure to ensure that personal information is not disclosed to any person who has no right to receive it.
 
-**15\. Liability:** The liability of Kaplan, its group companies, their directors, officers, employees, affiliates, agents and partners with respect to losses arising from negligence (except where such liability cannot be excluded as a matter of law), breach of contract or otherwise will be limited in all circumstances to the full amount paid to Kaplan or the relevant Kaplan group company by the relevant student for the particular program. Such companies and persons will in no circumstances have any liability for indirect or consequential losses or damages.
+### Your right to withdraw consent
 
-**16\. Force majeure:** Kaplan will not be liable in cases where Kaplan is unable to fulfil any services to which they are contractually bound because of fire, natural disaster, act of government, failure of suppliers or subcontractors, labour disputes or other reasons which are beyond Kaplan’s control.
+In circumstances where you may have provided your consent to the collection, processing and transfer of your personal data for a specific purpose, you have the right to withdraw your consent for that specific processing at any time. To withdraw your consent, please contact us using the contact details in this Privacy Notice. Once we have received notification that you have withdrawn your consent, we will no longer process your information for the purpose or purposes you originally agreed to, unless we have another legitimate basis for doing so in law.
 
-**17\. Codes of practice:** Kaplan has agreed to observe and be bound by the Code of Practice for the Pastoral Care of International Students published by the New Zealand Minister of Education and by the Australian National Code of Practice 2007 and the Educational Services for Overseas Students Act 2000 (ESOS Act 2000). Information on these Codes is available on request from Kaplan or from: [www.minedu.govt.nz](http://www.minedu.govt.nz/) and [www.aei.gov.au](http://www.aei.gov.au/).
-
-**18\. Photography, Filming and Sound Recording:** Kaplan or its representatives may arrange to photograph or shoot video footage of students for promotional purposes, both printed and online. Any student who does not wish to participate should advise us at the time of booking and state at the time of the photographing or video shooting the wish not to participate. By accepting these terms and conditions the student (and their parent/guardian if under 18) gives consent to the use of these photographs or video footage without further consent or notification.
-
-**19\. Australia:** Legal Entities and CRICOS codes Australia: Kaplan International (Brisbane) Pty Ltd., ABN 81 097 629 073, CRICOS 02369F; Kaplan International (Cairns) Pty Ltd., ABN 83 010 846 821, CRICOS 00080F; Kaplan International (Melbourne & Adelaide) Pty Ltd., ABN 90 129 017 385, CRICOS 03008A; Kaplan International (Perth) Pty Ltd., ABN 76 079 200 212, CRICOS 01784K; Kaplan International English (Australia) Pty Ltd., ABN 31 003 631 043, CRICOS 01165D; Kaplan International (Manly) Pty Ltd., ABN 93 098 348 844, CRICOS 02362B.
-
-Agreement to the Kaplan Terms and Conditions does not remove the student’s right to take further action under Australia’s consumer protection laws, or their right to pursue other legal remedies under Australian law. All additional information and documents can be found on the Kaplan website: [www.kaplaninternational.com](http://www.kaplaninternational.com/)
-
-**20\. Student Visa Australia/UK/USA/Canada/New Zealand:** Student visa holders are required to provide Kaplan with a current residential address and telephone number at all times, maintain satisfactory academic progress and attend a minimum of 80% of their course. Students who fail to show up for their enrollment or with less than 80% attendance, will be reported to the Department of Immigration and Border Protection (DIBP) in Australia, or to New Zealand Immigration Services. Regardless of immigration status, information collected by Kaplan which personally identifies a student and information regarding a student’s course progress may be shared with the Australian State and Federal government, designated authorities, the Tuition Protection Service (Australia), students’ parents, Kaplan staff and third-party representatives. This information may include personal and contact details, course enrollment details and changes, and circumstances of any suspected breach by the student of any visa condition. Any school-aged dependents accompanying overseas students to Australia will be required to pay full fees if they are enrolled in either a government or non-government school.
-
-**21\. Language of instruction:** All language of instruction shall be in English.
-
-**REFUND POLICY**  
-
-Refunds will be made via the Kaplan representative to whom the fees were originally paid, or to the student’s bank account in the same country in which the fees were originally paid. All refunds will be made within 45 days of written notification (or according to state/provincial requirements). In the event of Kaplan cancelling or terminating a course, a full refund of all unused fees will be made.
-
-Australia: Refunds will be paid within 14 working days of written notification. In accordance with sections 27-31 of ESOS Act 2000, providing the student has not withdrawn before the default day, Kaplan will pay a full refund to the student within 14 days if the course being offered does not commence on the agreed starting day; or the course stops being provided at any time after it starts and before it is completed; or the course is not provided in full to the student because a sanction has been imposed on the college. This agreement, and the availability of complaints and appeals process, does not remove the right of the student to take action under Australia’s customer protection laws.
-
-**POSTPONEMENT POLICY**
-
-Postponements will only be made on receipt of a valid written customer request.
-
-Bookings may be postponed a maximum of two times within one year of the original booking date. Bookings may only be postponed by up to 6 months at a time. You may be rebooked at the rates currently in effect at the time of rebooking. Only one tuition promotion may be used at any time; any previously expired promotions will no longer be valid at the time of postponement; a current promotion, valid at the time of postponement, may be applied.
-
-**CANCELLATION POLICY**
-
-‘Cancellation’ means cancelling a course before the start date of the first course you are attending and for which attendance is required. Except as provided below for US, New Zealand and the UK, in all other cases where cancellations are made in writing 7 days or more before the arrival date listed on the booking confirmation form, or on written notification of a visa rejection and receipt of relevant supporting documentation, 100% of the tuition and accommodation fees will be refunded, but in all cases, the courier fee, accommodation placement fee (if utilized), enrollment fee (refundable in New Zealand) and any other service charges are non-refundable. For cancellations and postponements made less than 7 days before the arrival date listed on the booking confirmation form including failure to show up, tuition and accommodation fees will be refunded less one week’s accommodation fee (two weeks’ accommodation fee for hostels and apartments in Australia) and a tuition fee of EUR150, USD200, CAD200, AUD240. In all cases, the courier fee, enrollment fee, accommodation placement fee, medical insurance and any other service charges are non-refundable. In all cases where a visa or visa support documentation has been issued, the relevant immigration authorities will be informed.
-
-US: ‘Cancellation’ refers to the period up to the start date of the first course you are attending. Cancellations must be made in writing and in these cases, providing the student never attends, 100% of the tuition and accommodation fees will be refunded, less any actual housing costs incurred; in all cases, the courier fee, enrollment fee and any other service charges (e.g. airport transfer fee, medical insurance, campus fee, program supplement fee, etc) are non-refundable up to a maximum charge of USD500 (USD250 in California). Cancellations made prior to the course start date but after arrival in the US on a Kaplan-issued Form I-20, will result in forfeiture of tuition, and any associated accommodation fees, equal to the first 4 weeks for courses between 1-11 weeks and the first 6 weeks for courses 12 weeks or longer.
-
-New Zealand: Tuition (in accordance with the NZQA and Kaplan refund policy):
-
-\- Courses of 13 weeks or longer: cancellations or terminations made prior to or within the first 10 working days of the course will be refunded in full, less a deduction for costs incurred by Kaplan, up to a maximum of 25% of the total fee paid. Kaplan will provide you with details of the cost components for the purpose of working out the maximum deductible percentage. In the event of a dispute over the cost component deducted, you can refer the matter to the International Education Appeal Authority (IEAA).
-
-Courses 2 to 12 weeks    
-\- Courses of 5 weeks or more but less than 3 months: Where a student withdraws within the first 5 days of the course for which attendance is required (i.e. Orientation), Kaplan may retain up to 25% of the full amount of any payments made by the student in respect of the course, and will refund the balance to the student.
-
-\- Courses of up to and including 4 weeks and 6 days: Where a student withdraws within the first 2 days of the course for which attendance is required (i.e. Orientation), Kaplan may retain up to 50% of the full amount of any payments made by the student in respect of the course, and will refund the balance to the student.
-
-Students who withdraw before the course commences will also be subject to the above criteria. 
-
-UK and Ireland: 'Distance Contract' means a distance contract or an off-premises contract as defined in the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (as amended from time to time). In the event of a Distance Contract, students for the UK or Ireland who are EU citizens shall have the right to cancel the legally binding contract formed in accordance with paragraph 1 of these terms and conditions if the student gives notice of cancellation to Kaplan within fourteen calendar day period beginning on the day on which the booking confirmation was issued by Kaplan. If a student exercises his or her right to cancel during this fourteen day period, he or she will receive a full refund of all amounts already paid by the student less any fees charged for services already performed by Kaplan. However, if the student has already commenced studying with Kaplan during the 14 day period, he or she must pay a reasonable charge calculated by Kaplan for the period of study undertaken. To exercise the right to cancel under the EU distance contract terms, the student must inform Kaplan at 2nd floor, Warwick Building, Kensington Village, Avonmore Road, London W14 8HQ, UK of the student's decision to cancel this agreement by a clear statement (e.g. by a letter sent by post, fax or e-mail). The student may use the model cancellation form found at www.kaplaninternational.com/terms, but it is not obligatory. The student can also electronically fill in and submit the model cancellation form or any other clear statement on the Kaplan website www.kaplaninternational.com. If the student uses this option, Kaplan will communicate to the student an acknowledgement of receipt of such a cancellation on a durable medium (e.g. by email) without delay.
-
-UK: Visa students: once a CAS number has been issued confirming full time status, no refunds or course cancellations are permissible other than in the instance of visa refusal and subject to meeting the following criteria: the amounts paid will be refunded, less an administration charge of GBP150 (inc. VAT) (plus any courier and transfer charges) on production of the following documents: (1) an agent certified copy of the visa refusal letter (GV51), (2) an agent certified copy of the student’s passport showing both a photograph and signature; (3) where the payor was not the student, an original authority letter from the student authorising the repayment to the payor and (4) where the student is already in the UK, evidence satisfactory to Kaplan that the student has left the UK. Refunds will only be made under this paragraph if requested in writing with the necessary supporting documents within four weeks after the commencement of the course (published date). In circumstances where an application is refused by UKVI on the grounds of fraudulent documentation or other irregularities, no refunds will be granted in respect of monies paid. Where students are studying on a Student Visitor Visa or a Child Visitor Visa, Kaplan's standard Cancellation policy will apply.
-
-**TERMINATION POLICY  **
-
-‘Termination’ means stopping or leaving all or part of the course or courses booked, including extensions, once the first course has started. When determining the number of weeks completed, a partial week will be counted as a whole week, provided the student was present at least one day during the scheduled week. Used weeks of discounted tuition and accommodation packages will be charged at the full brochure weekly rate when any refund is calculated.
-
-In all cases additional service charges (e.g. airport transfers, courier fees, enrollment fees, medical insurance, accommodation placement fee, program supplement fee, etc.) are non-refundable and written notification of termination must be given to the school Principal or Director. Students who terminate their program may not be eligible to receive a Kaplan certificate and will not be allowed to stay in Kaplan accommodation.
-
-**Tuition**  
-
-UK, Ireland, and Australia: No refunds will be made for tuition. Tuition fees are non-transferable to other students.
-
-Canada: Students wishing to terminate must give 4 weeks’ written notice to the School Director (or according to provincial requirements). The refund will be calculated as below according to the percentage of the course completed including the notice period:
-
-\- after up to 10% of the programme has been completed: 50% refund of unused tuition fees 
-
-\- after 11-29% of the programme has been completed: 30% refund of unused tuition fees 
-
-\- after 30% or more of the programme has completed: 0% refund of unused tuition fees 
-
-USA: Except as noted below only for California resident students attending our California schools, for all English courses including Vacation, General and Intensive English, Academic Year/ Semester General/ Intensive and English for Business / Intensive English for Business, the first 4 weeks shall be forfeited and refunds will be calculated as follows for terminations (i.e. the last date you are enrolled on the program and for which attendance is required) made:
-
-\- any time during the 1st four weeks: 4-weeks’ tuition shall be charged and 100% of the remaining unused tuition shall be refunded
-
-\- after the 4th week and up to halfway through the course: a pro-rata refund of the remaining unused tuition shall be given
-
-\- after 50% of the course has been completed: no refund shall be given
-
-For all Exam Preparation courses, including GRE®, GMAT®, Cambridge and TAE, refunds will be calculated, as follows for terminations (i.e. the last date you are enrolled on the program and for which attendance is required) made:
-
-\- after 1 training session* but before 2 training sessions*, 75% of tuition paid (less shipping fee) shall be refunded
-
-\- after 2 training sessions* but before 3 training sessions*, 50% of tuition paid (less shipping fee) shall be refunded
-
-\- after completing 3 training sessions*, no refund shall be given
-
-*Due to the wide selection of Kaplan training resources offered, a training session is defined as any of the following: 1) one class (teaching session or proctored exam); 2) one visit to the in-center training library; 3) use of online training resources (workshops, quizzes, online Diagnostic, etc); 4) one tutoring or consulting session; 5) use of the home-study materials.
-
-California Refund Policy (California Residents only): As an institution that does not participate in the federal student financial aid programs, Kaplan International shall do the following:
-
-(a) The institution shall refund 100 percent of the amount paid for institutional charges, less a reasonable deposit or application fee not to exceed two hundred fifty dollars (USD250), if notice of cancellation is made through attendance at the first class session, or the seventh class day after enrollment, whichever is later.
-
-(b) The institution shall pay or credit refunds within 45 days of a student's cancellation or withdrawal.
-
-(c) The institution shall provide a pro rata refund of nonfederal student financial aid program moneys paid for institutional charges to students who have completed 60 percent or less of the period of attendance.
-
-New Zealand: The same conditions apply on termination as to cancellations. See cancellation policy above. 
-
-In all cases where a student terminates his or her studies the relevant immigration authorities will be informed. 
-
-**Accommodation  **
-
-Accommodation: UK, Ireland, USA, Canada, Australia and New Zealand: Students must give 4 weeks’ notice (or 8 weeks’ notice for discounted accommodation packages) in writing to the School Director/Principal. A refund will be made of the unused accommodation fee less the applicable notice period and the applicable change fee. For terminations made after 50% of the booking has been completed (60% for students attending our California locations), no refund will be given, except in Canada, New Zealand and Australia. Some residential options may have additional terms and conditions relating to reservation cancellation.
-
-**PARTNER SCHOOL  **
-
-Special conditions apply to our Partner School in Malta: Cancellations must be made at least 14 days before the first course start date for a full refund of accommodation and tuition fees. For late cancellations made less than 14 days before the course start date, a refund will be made less one week’s accommodation and tuition fees. No fees will be refunded if a programme is terminated after the start date of the course. 
-
-**GENERAL**  These Terms and Conditions may differ according to any changes in the policy made by the accrediting body or government (local or national) where the school is located. You will be notified at the time of booking of any such amendments. Any dispute, claim or other matter arising will be subject to the current laws in the destination country. In these Terms and Conditions, Kaplan refers to all Kaplan International English group schools.
-
-### Website User Agreement
-
-**GENERAL   ** This website is owned and operated by Aspect Education UK Ldt (Company No. 4053877. Registered in the UK. VAT Number: 152088224), whose registered office is at 2F, Warwick Building, Kensington Village, Avonmore Road, London, W14 8HQ.
-
-For the purposes of these Website Terms and Conditions "We", "Our" and "Us" refers to Kaplan, a division of Kaplan, Inc. Please review these Terms and Conditions carefully before using this website. Your use of this website indicates your agreement to be bound by these Terms and Conditions.
-
-**DATA PROTECTION** Any personal information you supply to us when you use this website will be used in accordance with our Privacy Policy.
-
-**PROPRIETERY RIGHTS** All trade marks, copyright, database rights and other intellectual property rights in the materials on this website (as well as the organisation and layout of this website) together with the underlying software code are owned either directly by us or by our licensors. Without our prior written permission, you may not copy, modify, alter, publish, broadcast, distribute, sell or transfer any material on this website or the underlying software code whether in whole or in part. However, the contents of this website may be downloaded, printed or copied for your personal non-commercial use.
-
-**ACCEPTABLE USE** You may only use this website in accordance with these Terms and Conditions and, in any event, for lawful and proper purposes which includes complying with all applicable laws, regulations and codes of practice within the UK or other jurisdiction from which you are accessing this website.
-
-In particular, you agree that you will not: post, transmit or disseminate any information on or via this website which is or may be harmful, obscene, defamatory or otherwise illegal; use this website in a manner which causes or may cause an infringement of the rights of any other; make any unauthorised, false or fraudulent booking; use any software, routine or device to interfere or attempt to interfere electronically or manually with the operation or functionality of this website including but not limited to uploading or making available files containing corrupt data or viruses via whatever means; deface, alter or interfere with the front end "look and feel" of this website or the underlying software code; take any action that imposes an unreasonable or disproportionately large load on this website or related infrastructure; obtain or attempt to obtain unauthorised access, via whatever means, to any of our networks. Without prejudice to any of our other rights (whether at law or otherwise) We reserve the right to: cancel your bookings without reference to you; and/or deny you access to this website where we believe (in our absolute discretion) that you are in breach of any of these Terms and Conditions.
-
-**CHANGES TO THIS WEBSITE** We may make improvements or changes to the information, services, products and other materials on this website, or terminate this website, at any time without notice. We may also modify these Terms and Conditions at any time, and such modification shall be effective immediately upon posting of the modified Terms and Conditions on this website. Accordingly, your continued access or use of this website is deemed to be your acceptance of the modified Terms and Conditions.
-
-**LINKS TO OTHER WEBSITES** This website may include links to other internet sites. We do not endorse any such websites and we are not responsible for the information, material, products or services contained on or accessible through those websites. Your access and use of such websites remains solely at your own risk.
-
-You may only link to this website with our express written permission. We expressly reserve the right to withdraw our consent at any time to a link which in our sole opinion is inappropriate or controversial.
-
-**LIMITATION OF LIABILITY** In no event will we be liable for any direct, indirect, special, punitive, exemplary or consequential losses or damages of whatsoever kind arising out of access to, or the use of this website or any information contained in it, including loss of profit and the like whether or not in the contemplation of the parties, whether based on breach of contract, tort (including negligence), product liability or otherwise, even if advised of the possibility of such damages.
-
-Nothing in these Terms and Conditions shall exclude or limit our liability for death or personal injury caused by negligence or for fraudulent misrepresentation.
-
-**DISCLAIMER OF WARRANTY** To the maximum extent permitted by law, we disclaim all implied warranties with regard to the information, services and materials contained on this website. All such information, services and materials are provided "as is" and "as available" without warranty of any kind.
-
-**INDEMNIFICATION** You agree to indemnify, defend and hold us harmless from any liability, loss, claim and expense (including reasonable legal fees) related to your breach of these Terms and Conditions.
-
-**BOOKING TERMS AND CONDITIONS** These Website Terms and Conditions refer only to your use of this website and separate conditions apply to our online bookings. Our online booking terms and conditions can be viewed above: Terms and Conditions.
-
-**MISCELLANEOUS** These Terms and Conditions contain all the terms of your agreement with us relating to your use of this website. No other written or oral statement (including statements in any brochure or promotional literature published by us) will be incorporated.
-
-Kaplan makes no warranty whatsoever for the reliability, stability or any virus-free nature of any software being downloaded from this website, nor for the availability of the download sites where applicable.
-
-All software products downloaded from any section of this website or via a link pointed to by this website are downloaded, installed, and used totally and entirely at the users own risk.
-
-Your use of this website, any downloaded material from it and the operation of these Terms and Conditions shall be governed by, construed and interpreted in accordance with the laws of England and Wales and you agree to submit to the non-exclusive jurisdiction of the English Courts. We reserve the right to bring proceedings in the Courts of the country of your residence.
-
-Throughout this website the terms "partner(s)" and "partnership(s)" are used to refer to individual marketing or co-operation agreements and not to any relationship which has specific legal or tax implications. Kaplan cannot therefore accept any liability for the conduct of these partner organisations.
-
-**Cookies and Other Technologies**
-
-We use cookies and other technologies to allow you to move quickly through our site, to allow you to take advantage of some of the Site's password protected features, and to collect information about your use of the Site. Cookies also benefit you by creating a more streamlined login process and keeping track of your language of choice between sessions, among other things. As we enable further customization of the site, cookies will help in assuring that the information provided to you will be relevant to your needs.
-
-A cookie is a string of information that is sent by a website and stored on your hard drive or temporarily in your computer's memory. Cookies are small files and won't pose any significant disk-space concerns. You can disable our cookies using the cookie-menu on your Web browser, but doing so may materially affect the functionality of this Site and the information you can access through it. To learn more about cookies and browser functionality, search for "cookies" in the help function of your browser.
-
-We and our service providers also may use so-called "pixel tags", "web beacons", "clear GIFs" or similar means (collectively, "Pixel Tags") in connection with some Site pages and HTML-formatted e-mail messages to, among other things, compile aggregate statistics about Site usage and response rates. A Pixel Tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with cookies on the visitors’ hard drives. Pixel Tags allow us to count users who have visited certain pages of the Site, to deliver branded services, and to help determine the effectiveness of promotional or advertising campaigns.
+We reserve the right to update this Privacy Notice at any time, and we will provide you with a new Privacy Notice when we make any substantial updates. We may also notify you in other ways from time to time about the processing of your personal information.
