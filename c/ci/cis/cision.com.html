@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cision.com privacy policy that was archived on 2018-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180622101509id_/https%3A//www.cision.com/us/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cision.com privacy policy that was archived on 2018-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181106231832id_/https%3A//www.cision.com/us/legal/privacy-policy/%3Fnav_location%3Dfooter) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<title>Privacy Policy - Cision</title>
@@ -95,7 +95,7 @@
 	<link rel="alternate" type="application/rss+xml" title="Cision Blog Comments Feed" href="https://www.cision.com/us/blog/feed/">
 	<!-- NewsCred JS script -->
     <script async="" src="//analytics.newscred.com/analytics_1af92d63747b4770ae3765ff9a22ac41.js"></script>
-	
+	<script id="term-e7e5d07437489" src="https://vidassets.terminus.services/1d1f9729-36ba-4332-8c39-0b379424f3d2/t.js"></script>
 </head>			
 <body>
 
@@ -109,7 +109,13 @@
 
 	
 		
-			<header class="main-header">
+			 	<!-- OneTrust Cookies Consent Notice (www.cision.com, en-GB) start -->
+        <script type="text/javascript" charset="UTF-8"></script>
+        <script type="text/javascript">
+        function OptanonWrapper() { }
+        </script>
+    <!-- OneTrust Cookies Consent Notice (www.cision.com, en-GB) end -->
+<header class="main-header">
     <div class="container">
         <div class="row">
             <div class="col-sm-2 col-md-4 hidden-xs">
@@ -505,15 +511,19 @@
 			searchInpTxt = searchBtn.parent().siblings('input[type=text]');
 
 		$(searchBtn).on('click', function(){
-			if($(searchInpTxt).val().length >= 2){
-                window.location.href = '\/us\/search\/'+'?s='+encodeURIComponent($(searchInpTxt).val());  
+            var searchVal = $(searchInpTxt).val().match(/[^ ]/g);
+			if($(searchInpTxt).val().length >= 2 && searchVal.length >= 2){
+                window.location.href = '\/us\/search\/'+'?s='+escape(encodeURIComponent($(searchInpTxt).val()));  
                 return false;
             }
         });
 
         $(searchInpTxt).keyup(function(){
-        	if($(this).val().length >= 2){
+            var searchVal = $(this).val().match(/[^ ]/g);
+        	if($(this).val().length >= 2 && searchVal.length >= 2){
 				searchBtn.removeClass('disabled');
+            }else{
+				searchBtn.addClass('disabled');
             }
         });
     }
@@ -1431,7 +1441,7 @@ Beltsville, MD 20705</p>
 <footer class="footer-container" id="socket">
   <div class="container">
     <div class="row">
-      <div class="col-md-4 col-sm-4 col-lg-4 col-xs-12">
+      <div class="col-md-4 col-sm-4 col-lg-6 col-xs-12">
         <div class="menu-copyright">
           <ul id="menu-copyright-footer-menu" class="menu">
             
@@ -1446,8 +1456,8 @@ Beltsville, MD 20705</p>
             
               
               <li id="menu-item" class="menu-item-copyright">
-                <a href="/us/contact-us/opt-out/?nav_location=footer">
-                  Opt-Out
+                <a href="/us/contact-us/id-opt-out/?nav_location=footer">
+                  Cision ID Opt-Out
                 </a>
               </li>
             
@@ -1463,7 +1473,7 @@ Beltsville, MD 20705</p>
           </ul>
         </div>
       </div>
-      <div class="col-md-8 col-sm-8 col-lg-8 col-xs-12">
+      <div class="col-md-8 col-sm-8 col-lg-6 col-xs-12">
         <span class="copyright"><p>Copyright © 2018 Cision Ltd.<br>
 </p>
 </span>
