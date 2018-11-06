@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clashroyale.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629184527id_/http%3A//supercell.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clashroyale.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106193853id_/http%3A//supercell.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy × Supercell
 
-[ ](https://privacy.truste.com/privacy-seal/validation?rid=9a215360-ce41-49a7-a38e-ce78aad5cec0 "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=1bfd0280-7ff6-4db3-90a3-e1caff319b25)
 
 Effective Date: 25th May, 2018
 
