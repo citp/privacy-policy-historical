@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the enlightenme.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190626id_/https%3A//www.superpages.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enlightenme.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106225510id_/https%3A//www.superpages.com/about/privacy.html) for the most accurate reproduction.*
 
-# Superpages THE Local Business Directory
+# Superpages Privacy Policy
 
 Dex Media, Inc. and its affiliates (individually and collectively known as “DexYP”) respect your right to privacy, and we want you to be aware of how we collect and handle information on each website and mobile application covered by this policy.
 
