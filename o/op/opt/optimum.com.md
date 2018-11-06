@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimum.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607190832id_/https%3A//www.optimum.net/pages/PrivacyExisting.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimum.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106234922id_/https%3A//www.optimum.net/pages/PrivacyExisting.html) for the most accurate reproduction.*
 
 # 
 
@@ -125,7 +125,7 @@ Optimum.net is compatible with a wide range of browsers. However, not all browse
 
 #### You need to change your Internet Explorer Compatibility View setting to get the most from the new Optimum.net
 
-Click [here](http://optimum.custhelp.com/app/answers/detail/a_id/3703) for more info.
+Click [here](https://web.archive.org/FAQ#/answers/a_id/3703) for more info.
 
 ## At Altice, we value your privacy.
 
@@ -267,17 +267,17 @@ Despite these measures, we do not guarantee the security of information stored i
 
 If you have any questions about our privacy protections, notices and policies, please write to us at:
 
-CSC Holdings, LLC  
+Altice  
 Attn. Shared Services Dept  
-6 Corporate Center Drive  
-Melville, NY 11747  
+200 Jericho Quadrangle  
+Jericho, NY 11753  
  
 
 **J. Updates To This Notice**
 
 We will review this privacy notice periodically as we deem appropriate and when we change or update Covered Services. We will notify you of any material changes by posting the revised notice on our Optimum website or by written or electronic correspondence. Your use of the Covered Service(s) following the notice of a revised notice constitutes your acceptance of the revised privacy notice.
 
-Effective April 5, 2018
+Effective October 15, 2018
 
 ### Website Privacy Notice
 
@@ -381,10 +381,10 @@ The website is published in the United States. By visiting this website, by usin
 
 Individuals who reside in California and who have provided their Personally Identifiable Information to the website may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests must be submitted to us at the following address:
 
-CSC Holdings, LLC  
+Altice  
 Attn. Shared Services Dept  
-6 Corporate Center Drive  
-Melville NY 11747
+200 Jericho Quadrangle  
+Jericho, NY 11753
 
 Such requests may be made only once each calendar year. We may not respond to requests sent to addresses other than the one shown above.
 
@@ -398,12 +398,12 @@ We may change this Privacy Notice at any time. We will notify you of material ch
 
 Please contact us if you have any questions about this Privacy Notice:
 
-CSC Holdings, LLC  
+Altice  
 Attn. Shared Services Dept  
-6 Corporate Center Drive  
-Melville NY 11747
+200 Jericho Quadrangle  
+Jericho, NY 11753
 
-Effective October 10, 2016
+Effective October 15, 2018
 
 ### Mobile Application Privacy Notice
 
@@ -453,16 +453,16 @@ We generally keep some or all information for as long as necessary for the purpo
 
 If you have any questions about our privacy protections and notices, please write to us at:
 
-Altice USA  
-Attn: Shared Services  
-6 Corporate Center Drive  
-Melville, NY 11747
+Altice  
+Attn. Shared Services Dept  
+200 Jericho Quadrangle  
+Jericho, NY 11753
 
 **F. Updates To The Notice**
 
 We will review this privacy notice periodically as we deem appropriate and when we change or update the Mobile Applications. Altice may, in its sole discretion, change, modify, add, or remove portions of this Notice at any time. Altice may notify you of any material changes by making the revised Notice available to you through the Mobile Applications, by written or electronic correspondence, or through an update - required or otherwise - to the application. Your use of the Mobile Applications, following notice of such change, modification or amendment, constitutes your acceptance of the revised privacy notice. If you do not agree to any portion of the revised Notice, you must cease all use of the application.
 
-Effective November 6, 2017 
+Effective October 15, 2018 
 
 Altice is committed to protecting the privacy of its customers. This notice is designed to give you a general understanding of how Altice protects your privacy in connection with our residential and business cable television services (such as Optimum TV), high-speed Internet services (such as Optimum Online), voice services (such as Optimum Voice) and any other cable service or communication service we may provide to you using our cable system as such services are defined by applicable law, as well as Optimum.net (together "Covered Services").
 
@@ -600,17 +600,17 @@ Despite these measures, we do not guarantee the security of information stored i
 
 If you have any questions about our privacy protections, notices and policies, please write to us at:
 
-CSC Holdings, LLC  
+Altice  
 Attn. Shared Services Dept  
-6 Corporate Center Drive  
-Melville, NY 11747  
+200 Jericho Quadrangle  
+Jericho, NY 11753  
  
 
 **J. Updates To This Notice**
 
 We will review this privacy notice periodically as we deem appropriate and when we change or update Covered Services. We will notify you of any material changes by posting the revised notice on our Optimum website or by written or electronic correspondence. Your use of the Covered Service(s) following the notice of a revised notice constitutes your acceptance of the revised privacy notice.
 
-Effective April 5, 2018
+Effective October 15, 2018
 
 **To our website visitors**  \- Altice respects your privacy rights. This Website Privacy Notice ("Privacy Notice") is designed to provide you with information about how Altice protects your privacy in connection with your use of this website.  **By using any of our Altice websites that linked you to this notice, you accept this Privacy Notice.**
 
@@ -712,10 +712,10 @@ The website is published in the United States. By visiting this website, by usin
 
 Individuals who reside in California and who have provided their Personally Identifiable Information to the website may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests must be submitted to us at the following address:
 
-CSC Holdings, LLC  
+Altice  
 Attn. Shared Services Dept  
-6 Corporate Center Drive  
-Melville NY 11747
+200 Jericho Quadrangle  
+Jericho, NY 11753
 
 Such requests may be made only once each calendar year. We may not respond to requests sent to addresses other than the one shown above.
 
@@ -729,12 +729,12 @@ We may change this Privacy Notice at any time. We will notify you of material ch
 
 Please contact us if you have any questions about this Privacy Notice:
 
-CSC Holdings, LLC  
+Altice  
 Attn. Shared Services Dept  
-6 Corporate Center Drive  
-Melville NY 11747
+200 Jericho Quadrangle  
+Jericho, NY 11753
 
-Effective October 10, 2016
+Effective October 15, 2018
 
 Altice is committed to protecting the privacy of its customers. This short-form privacy notice is designed to give you a general understanding of how Altice protects your privacy in connection with our mobile applications, including but not limited to Altice One, Optimum, Optimum DVR Manager, Optimum WiFi Register, Optimum WiFi Finder, Business Hosted Voice and Optimum Support (hereinafter collectively referred to as the "Mobile Applications"). These applications are generally designed for use by existing Altice subscribers. These applications have limited functionality for non-subscribers but may collect Personally Identifiable information from non-subscribers.
 
@@ -782,16 +782,16 @@ We generally keep some or all information for as long as necessary for the purpo
 
 If you have any questions about our privacy protections and notices, please write to us at:
 
-Altice USA  
-Attn: Shared Services  
-6 Corporate Center Drive  
-Melville, NY 11747
+Altice  
+Attn. Shared Services Dept  
+200 Jericho Quadrangle  
+Jericho, NY 11753
 
 **F. Updates To The Notice**
 
 We will review this privacy notice periodically as we deem appropriate and when we change or update the Mobile Applications. Altice may, in its sole discretion, change, modify, add, or remove portions of this Notice at any time. Altice may notify you of any material changes by making the revised Notice available to you through the Mobile Applications, by written or electronic correspondence, or through an update - required or otherwise - to the application. Your use of the Mobile Applications, following notice of such change, modification or amendment, constitutes your acceptance of the revised privacy notice. If you do not agree to any portion of the revised Notice, you must cease all use of the application.
 
-Effective November 6, 2017 
+Effective October 15, 2018 
 
   * © Copyright {{CommonFooterCtrl.fullYear}}  CSC Holdings, LLC.
 
