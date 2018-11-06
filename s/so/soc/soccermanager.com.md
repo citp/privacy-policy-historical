@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soccermanager.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621131915id_/https%3A//www.soccermanager.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccermanager.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106223653id_/http%3A//www.soccermanager.com/privacy.php) for the most accurate reproduction.*
 
 # Soccer Manager Privacy Policy | Free Soccer Manager game
 
