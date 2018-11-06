@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vocus.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622101509id_/https%3A//www.cision.com/us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocus.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106231832id_/https%3A//www.cision.com/us/legal/privacy-policy/%3Fnav_location%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy - Cision
 
