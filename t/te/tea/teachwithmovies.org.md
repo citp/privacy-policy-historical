@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachwithmovies.org privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505201117id_/http%3A//www.teachwithmovies.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachwithmovies.org privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106140419id_/http%3A//www.teachwithmovies.org/privacy-policy.html) for the most accurate reproduction.*
 
 # TeachWithMovies.com -- Privacy Policy
 
