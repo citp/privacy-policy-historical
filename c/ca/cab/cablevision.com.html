@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cablevision.com privacy policy that was archived on 2018-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180607190832id_/https%3A//www.optimum.net/pages/PrivacyExisting.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cablevision.com privacy policy that was archived on 2018-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181106234922id_/https%3A//www.optimum.net/pages/PrivacyExisting.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
@@ -25,21 +25,26 @@
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     
     
-    <link rel="stylesheet" href="/core-and-parts_page_1.css?201805151329">
+    <link rel="stylesheet" href="/core-and-parts_page_1.css?201810291537">
     
-    <link rel="stylesheet" href="/core-and-parts_page_2.css?201805151329">
+    <link rel="stylesheet" href="/core-and-parts_page_2.css?201810291537">
     
-    <link rel="stylesheet" href="/cms-templates/text-anchors/page.css?201805151329">
+    <link rel="stylesheet" href="/cms-templates/text-anchors/page.css?201810291537">
     
-    <!--[if IE 8]><link rel="stylesheet" href="/assets/css/ie8.css?201805151329"><![endif]-->
+    <!--[if IE 8]><link rel="stylesheet" href="/assets/css/ie8.css?201810291537"><![endif]-->
 
-    <!--[if lte IE 8]><script src="/ieshiv.js?201805151329"></script><![endif]-->
-    <!--[if lte IE 8]><script src="/PIE.js?201805151329"></script><![endif]-->
-    <!--[if lte IE 8]><script src="/PIE.htc?201805151329"></script><![endif]-->
+    <!--[if lte IE 8]><script src="/ieshiv.js?201810291537"></script><![endif]-->
+    <!--[if lte IE 8]><script src="/PIE.js?201810291537"></script><![endif]-->
+    <!--[if lte IE 8]><script src="/PIE.htc?201810291537"></script><![endif]-->
     
 	<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MFVCV8"></script><script src="/assets/hosted/js/onetmotionpoint.js"></script>
     <script src="/modernizr.custom.28587.min.js"></script>
-    <script src="/cdn/static.tvlistings.optimum.net/ool/static/prod/vendor/VA/cv_va_lib/cv-va-2-1-2-rc.js"></script>
+    <script>
+		window.cvVASettings = {
+			lookup: 'remote', lookupEndpoint: 'https://altice.creativevirtual15.com/settings=altice'
+		};
+	</script>
+	<script src="/cdn/static.tvlistings.optimum.net/ool/static/prod/vendor/VA/cv_va_iframe/cv-va.js"></script>
     <script>
     if(!window.console) {
         var console = {
@@ -572,7 +577,7 @@
 						<ul class="margin-top-1">
 							<li><a href="/pay-bill/">Pay Online</a></li>
 							<li><a href="/pay-bill/payin-person">Pay in Person</a></li>
-							<li><a href="http://optimum.custhelp.com/app/answers/detail/a_id/313/">Pay by Mail</a></li>    
+							<li><a href="/FAQ#/answers/a_id/313">Pay by Mail</a></li>    
 						</ul>
 					</div>
                 </div>
@@ -694,7 +699,7 @@
                 <div class="menu-bottom">
                     <div class="span5">
                         <ul class="support-lower-links">
-							<li><a href="http://optimum.custhelp.com/">FAQS</a></li><li><a href="/support/tutorials">Tutorials</a></li><li><a href="/support/user-guides">User Guides</a></li><li><a href="/service-appointments/" data-ng-show="CommonHeaderCtrl.currentLoggedInUser.hasSession &amp;&amp; CommonHeaderCtrl.ooluser.primary">Service Appointments</a></li><li><a href="/getconnected">Connect My Device</a></li><li><a href="/pages/service.html">Optimum Service Plans</a></li><li><a href="/pages/optimum-support-app.html">Optimum Support App</a></li>
+							<li><a href="/FAQ">FAQS</a></li><li><a href="/support/tutorials">Tutorials</a></li><li><a href="/support/user-guides">User Guides</a></li><li><a href="/service-appointments/" data-ng-show="CommonHeaderCtrl.currentLoggedInUser.hasSession &amp;&amp; CommonHeaderCtrl.ooluser.primary">Service Appointments</a></li><li><a href="/getconnected">Connect My Device</a></li><li><a href="/pages/service.html">Optimum Service Plans</a></li><li><a href="/pages/optimum-support-app.html">Optimum Support App</a></li>
                         </ul>
                     </div>
 
@@ -960,8 +965,11 @@
                                     </div>
                                 </div>
                                 <div class="row">
-                                    <div class="span12">
+                                    <div class="span12" ng-hide="CommonHeaderCtrl.currentLoggedInUser.ox">
                                         <span class="subject">{{email.subject}}</span>
+                                    </div>
+                                    <div class="span12" ng-show="CommonHeaderCtrl.currentLoggedInUser.ox">
+                                        <span class="subject"><a href="{{ email.link }}"><u>{{email.subject}}</u></a></span>
                                     </div>
                                 </div>
                             </div>
@@ -1053,8 +1061,7 @@
                                         </h4>
 
                                         <h4 class="learnmore" data-ng-show="!CommonHeaderCtrl.currentLoggedInUser.hasService.dvr">
-                                            <a href="http://optimum.custhelp.com/app/answers/detail/a_id/2580/kw/multi%20room">Click here to learn more about DVR
-                                            </a></h4>
+                                            <a href="/FAQ#/answers/a_id/2580">Click here to learn more about DVR</a></h4>
 
                                         <div id="dvr-spinner" class="spin-restraint" data-ng-show="CommonHeaderCtrl.loadingScheduledRecordings &amp;&amp; !CommonHeaderCtrl.dvrMenu.alertNoService &amp;&amp; !CommonHeaderCtrl.dvrMenu.alertNoScheduled">
                                             <spinner color="'#fff'" data-length="12" data-radius="12"></spinner>
@@ -1113,7 +1120,7 @@
                                     </div>
                                     <div class="span6">
                                         <ul>
-                                            <li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/FindMe">Find me</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/PrivateOutboundCalls">Private calling</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallForwarding">BackUp phone</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/DirectoryListing">Directory listing</a></li><li><a href="/support/phone">Support</a></li>
+                                            <li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/FindMe">Find me</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/PrivateOutboundCalls">Private calling</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallForwarding">BackUp phone</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/DirectoryListing">Directory listing</a></li><li><a href="/support/phone">Support</a></li><li><a href="/pages/nomorobo.html">Stop robocalls</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -1134,7 +1141,7 @@
                                 </div>
                                 <div class="span6">
                                     <ul>
-                                        <li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/FindMe">Find me</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/PrivateOutboundCalls">Private calling</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallForwarding">BackUp phone</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/DirectoryListing">Directory listing</a></li><li><a href="/support/phone">Support</a></li>
+                                        <li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/FindMe">Find me</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/PrivateOutboundCalls">Private calling</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallForwarding">BackUp phone</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/DirectoryListing">Directory listing</a></li><li><a href="/support/phone">Support</a></li><li><a href="/pages/nomorobo.html">Stop robocalls</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -1175,7 +1182,7 @@
                             </div>
                             <div class="span6">
                                 <ul>
-                                    <li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/FindMe">Find me</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/PrivateOutboundCalls">Private calling</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallForwarding">BackUp phone</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/DirectoryListing">Directory listing</a></li><li><a href="/support/phone">Support</a></li>
+                                    <li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/FindMe">Find me</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/PrivateOutboundCalls">Private calling</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallForwarding">BackUp phone</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/DirectoryListing">Directory listing</a></li><li><a href="/support/phone">Support</a></li><li><a href="/pages/nomorobo.html">Stop robocalls</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -1332,7 +1339,7 @@
 						<div id="compat-mode-content" class="row" data-ng-show="CommonHeaderCtrl.showCompatModeMsg">
 							<div class="ab__text text-unspace span12">
                                 <h4 class="title">You need to change your Internet Explorer Compatibility View setting to get the most from the new Optimum.net</h4>
-                                <p class="mmessage__message">Click <a href="http://optimum.custhelp.com/app/answers/detail/a_id/3703">here</a> for more info.</p>
+                                <p class="mmessage__message">Click <a href="/FAQ#/answers/a_id/3703">here</a> for more info.</p>
                             </div>
 						</div>
                         <div class="ab__icon semflex__auto" data-ng-click="CommonHeaderCtrl.closeDeprecatedBrowserBanner()">
@@ -1588,10 +1595,10 @@
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
 	If you have any questions about our privacy protections, notices and policies, please write to us at:</p>
 <div class="pdLt15" style="font-size: 1em; color: rgb(85, 85, 85); padding-left: 15px; ">
-	CSC Holdings, LLC<br>
+	Altice<br>
 	Attn. Shared Services Dept<br>
-	6 Corporate Center Drive<br>
-	Melville, NY 11747<br>
+	200 Jericho Quadrangle<br>
+	Jericho, NY 11753<br>
 	&nbsp;</div>
 <p>
 	<strong>J. Updates To This Notice</strong></p>
@@ -1599,7 +1606,7 @@
 	We will review this privacy notice periodically as we deem appropriate and when we change or update Covered Services. We will notify you of any material changes by posting the revised notice on our Optimum website or by written or electronic correspondence. Your use of the Covered Service(s) following the notice of a revised notice constitutes your acceptance of the revised privacy notice.</p>
 <br>
 <p style="margin-bottom:50px;">
-	Effective April 5, 2018</p>
+	Effective October 15, 2018</p>
 
 						</div>
 						
@@ -1728,10 +1735,10 @@
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
 	Individuals who reside in California and who have provided their Personally Identifiable Information to the website may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests must be submitted to us at the following address:</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
-	CSC Holdings, LLC<br>
+	Altice<br>
 	Attn. Shared Services Dept<br>
-	6 Corporate Center Drive<br>
-	Melville NY 11747</p>
+	200 Jericho Quadrangle<br>
+	Jericho, NY 11753</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
 	Such requests may be made only once each calendar year. We may not respond to requests sent to addresses other than the one shown above.</p>
 <p>
@@ -1745,13 +1752,13 @@
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
 	Please contact us if you have any questions about this Privacy Notice:<br>
 	<br>
-	CSC Holdings, LLC<br>
+	Altice<br>
 	Attn. Shared Services Dept<br>
-	6 Corporate Center Drive<br>
-	Melville NY 11747<br>
+	200 Jericho Quadrangle<br>
+	Jericho, NY 11753<br>
 	&nbsp;</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
-	Effective October 10, 2016</p>
+	Effective October 15, 2018</p>
 <p>
 	&nbsp;</p>
 <p>
@@ -1813,16 +1820,16 @@ We generally keep some or all information for as long as necessary for the purpo
 <br>
 If you have any questions about our privacy protections and notices, please write to us at:<br>
 <br>
-Altice USA<br>
-Attn: Shared Services<br>
-6 Corporate Center Drive<br>
-Melville, NY 11747<br>
+Altice<br>
+Attn. Shared Services Dept<br>
+200 Jericho Quadrangle<br>
+Jericho, NY 11753<br>
 <br>
 <strong>F. Updates To The Notice</strong><br>
 <br>
 We will review this privacy notice periodically as we deem appropriate and when we change or update the Mobile Applications. Altice may, in its sole discretion, change, modify, add, or remove portions of this Notice at any time. Altice may notify you of any material changes by making the revised Notice available to you through the Mobile Applications, by written or electronic correspondence, or through an update - required or otherwise - to the application. Your use of the Mobile Applications, following notice of such change, modification or amendment, constitutes your acceptance of the revised privacy notice. If you do not agree to any portion of the revised Notice, you must cease all use of the application.<br>
 <br>
-Effective November 6, 2017 
+Effective October 15, 2018
 						</div>
 						
 					
@@ -2001,10 +2008,10 @@ Effective November 6, 2017
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
 	If you have any questions about our privacy protections, notices and policies, please write to us at:</p>
 <div class="pdLt15" style="font-size: 1em; color: rgb(85, 85, 85); padding-left: 15px; ">
-	CSC Holdings, LLC<br>
+	Altice<br>
 	Attn. Shared Services Dept<br>
-	6 Corporate Center Drive<br>
-	Melville, NY 11747<br>
+	200 Jericho Quadrangle<br>
+	Jericho, NY 11753<br>
 	&nbsp;</div>
 <p>
 	<strong>J. Updates To This Notice</strong></p>
@@ -2012,7 +2019,7 @@ Effective November 6, 2017
 	We will review this privacy notice periodically as we deem appropriate and when we change or update Covered Services. We will notify you of any material changes by posting the revised notice on our Optimum website or by written or electronic correspondence. Your use of the Covered Service(s) following the notice of a revised notice constitutes your acceptance of the revised privacy notice.</p>
 <br>
 <p style="margin-bottom:50px;">
-	Effective April 5, 2018</p>
+	Effective October 15, 2018</p>
 
 						</section>
 					
@@ -2137,10 +2144,10 @@ Effective November 6, 2017
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
 	Individuals who reside in California and who have provided their Personally Identifiable Information to the website may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests must be submitted to us at the following address:</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
-	CSC Holdings, LLC<br>
+	Altice<br>
 	Attn. Shared Services Dept<br>
-	6 Corporate Center Drive<br>
-	Melville NY 11747</p>
+	200 Jericho Quadrangle<br>
+	Jericho, NY 11753</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
 	Such requests may be made only once each calendar year. We may not respond to requests sent to addresses other than the one shown above.</p>
 <p>
@@ -2154,13 +2161,13 @@ Effective November 6, 2017
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
 	Please contact us if you have any questions about this Privacy Notice:<br>
 	<br>
-	CSC Holdings, LLC<br>
+	Altice<br>
 	Attn. Shared Services Dept<br>
-	6 Corporate Center Drive<br>
-	Melville NY 11747<br>
+	200 Jericho Quadrangle<br>
+	Jericho, NY 11753<br>
 	&nbsp;</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
-	Effective October 10, 2016</p>
+	Effective October 15, 2018</p>
 <p>
 	&nbsp;</p>
 <p>
@@ -2218,16 +2225,16 @@ We generally keep some or all information for as long as necessary for the purpo
 <br>
 If you have any questions about our privacy protections and notices, please write to us at:<br>
 <br>
-Altice USA<br>
-Attn: Shared Services<br>
-6 Corporate Center Drive<br>
-Melville, NY 11747<br>
+Altice<br>
+Attn. Shared Services Dept<br>
+200 Jericho Quadrangle<br>
+Jericho, NY 11753<br>
 <br>
 <strong>F. Updates To The Notice</strong><br>
 <br>
 We will review this privacy notice periodically as we deem appropriate and when we change or update the Mobile Applications. Altice may, in its sole discretion, change, modify, add, or remove portions of this Notice at any time. Altice may notify you of any material changes by making the revised Notice available to you through the Mobile Applications, by written or electronic correspondence, or through an update - required or otherwise - to the application. Your use of the Mobile Applications, following notice of such change, modification or amendment, constitutes your acceptance of the revised privacy notice. If you do not agree to any portion of the revised Notice, you must cease all use of the application.<br>
 <br>
-Effective November 6, 2017 
+Effective October 15, 2018
 						</section>
 					
 				
@@ -2255,7 +2262,7 @@ Effective November 6, 2017
 
         <div class="search-group">
           <form data-ng-submit="CommonFooterCtrl.faqSearch()">
-            <input type="text" class="" data-ng-model="CommonFooterCtrl.footerSearchVal" placeholder="Search FAQs">
+            <input type="text" class="" data-ng-model="CommonFooterCtrl.footerSearchVal" placeholder="Search FAQs" no-specialchar="">
             <a data-ng-click="CommonFooterCtrl.faqSearch()" class="btn btn--secondary search-glass"><i class="icon-search"></i></a>
           </form>
         </div>
@@ -2264,34 +2271,34 @@ Effective November 6, 2017
         <div id="common-questions">
           <div data-ng-show="CommonFooterCtrl.isESI.common">
               <div ng-hide="$root.isEspanolLang">
-                  <h5>Frequently Asked Questions</h5><a href="/pages/tv/tv-remote.html" class="no-left no-wrap">Programming My Remote Control</a><span class="ellipsis"> • </span><a href="http://optimum.custhelp.com/app/answers/detail/a_id/1886" class="no-left no-wrap">Optimum Hotspots</a><span class="ellipsis"> • </span><a href="http://optimum.custhelp.com/app/answers/detail/a_id/311" class="no-left no-wrap">Online Bill Pay</a>
+                  <h5>Frequently Asked Questions</h5><a href="/pages/tv/tv-remote.html" class="no-left no-wrap">Programming My Remote Control</a><span class="ellipsis"> • </span><a href="https://www.optimum.net/FAQ/#/answers/a_id/1886" class="no-left no-wrap">Optimum Hotspots</a><span class="ellipsis"> • </span><a href="https://www.optimum.net/FAQ/#/answers/a_id/311" class="no-left no-wrap">Online Bill Pay</a>
               </div>
               <div ng-show="$root.isEspanolLang">
-                  <h5>Preguntas frecuentes</h5><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/3125" class="no-left no-wrap">Programar mi control remoto</a><span class="ellipsis"> • </span><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/3192" class="no-left no-wrap">Hotspots de Optimum</a><span class="ellipsis"> • </span><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/2994" class="no-left no-wrap">Con pago de factura en linea</a>
+                  <h5>Preguntas frecuentes</h5><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/3125" class="no-left no-wrap">Programar mi control remoto</a><span class="ellipsis"> • </span><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/3192" class="no-left no-wrap">Hotspots de Optimum</a><span class="ellipsis"> • </span><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/2994" class="no-left no-wrap">Con pago de factura en linea</a>
               </div>
           </div>
           <div data-ng-show="CommonFooterCtrl.isESI.tv">
               <div ng-hide="$root.isEspanolLang">
-                  <h5>TV Frequently Asked Questions</h5><a href="/pages/tv/tv-remote.html" class="no-left no-wrap">Programming My Remote Control</a><span class="ellipsis"> • </span><a href="http://optimum.custhelp.com/app/answers/detail/a_id/2500/kw/power%20on/session/L3RpbWUvMTM2ODU3NjQ3MC9zaWQvNmpCU2ljcWw%3D" class="no-left no-wrap">Viewer: Power On Feature</a><span class="ellipsis"> • </span><a href="http://optimum.custhelp.com/app/answers/detail/a_id/1511" class="no-left no-wrap">Setting Up My HDTV</a>
+                  <h5>TV Frequently Asked Questions</h5><a href="/pages/tv/tv-remote.html" class="no-left no-wrap">Programming My Remote Control</a><span class="ellipsis"> • </span><a href="https://www.optimum.net/FAQ/#/answers/a_id/2500" class="no-left no-wrap">Viewer: Power On Feature</a><span class="ellipsis"> • </span><a href="https://www.optimum.net/FAQ/#/answers/a_id/2240" class="no-left no-wrap">Setting Up My HDTV</a>
               </div>
               <div ng-show="$root.isEspanolLang">
-                  <h5>TV Preguntas frecuentes</h5><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/3125" class="no-left no-wrap">Programar mi control remoto</a><span class="ellipsis"> • </span><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/3391" class="no-left no-wrap">Canal de encendido</a><span class="ellipsis"> • </span><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/3272" class="no-left no-wrap">Configurar mi HDTV</a>
+                  <h5>TV Preguntas frecuentes</h5><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/3125" class="no-left no-wrap">Programar mi control remoto</a><span class="ellipsis"> • </span><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/3391" class="no-left no-wrap">Canal de encendido</a><span class="ellipsis"> • </span><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/3272" class="no-left no-wrap">Configurar mi HDTV</a>
               </div>
           </div>
           <div data-ng-show="CommonFooterCtrl.isESI.internet">
               <div ng-hide="$root.isEspanolLang">
-                  <h5>Internet Frequently Asked Questions</h5><a href="http://optimum.custhelp.com/app/answers/detail/a_id/1886" class="no-left no-wrap">Optimum Hotspots</a><span class="ellipsis"> • </span><a href="http://optimum.custhelp.com/app/answers/detail/a_id/2679/kw/create%20an%20optimum%20id" class="no-left no-wrap">Create an Optimum ID</a><span class="ellipsis"> • </span><a href="http://optimum.custhelp.com/app/answers/detail/a_id/27" class="no-left no-wrap">Accessing My Email</a><span class="ellipsis"> • </span><a href="http://optimum.custhelp.com/app/answers/detail/a_id/3730" class="no-left no-wrap">Internet Protection</a>
+                  <h5>Internet Frequently Asked Questions</h5><a href="https://www.optimum.net/FAQ/#/answers/a_id/1886" class="no-left no-wrap">Optimum Hotspots</a><span class="ellipsis"> • </span><a href="https://www.optimum.net/FAQ/#/answers/a_id/2679" class="no-left no-wrap">Create an Optimum ID</a><span class="ellipsis"> • </span><a href="https://www.optimum.net/FAQ/#/answers/a_id/27" class="no-left no-wrap">Accessing My Email</a>
               </div>
               <div ng-show="$root.isEspanolLang">
-                  <h5>Preguntas frecuentes de Internet</h5><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/3192" class="no-left no-wrap">Hotspots de Optimum</a><span class="ellipsis"> • </span><a href="http://espanol.optimum.com/sdoptimumenespanol/dcusthelp/app/answers/list/search/1/kw/create%20optimum%20id" class="no-left no-wrap">Como crear una ID de Optimum</a><span class="ellipsis"> • </span><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/2944" class="no-left no-wrap">Acceder a su correo electronico</a><span class="ellipsis"> • </span><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/3720" class="no-left no-wrap">Proteccion para Internet de McAfee</a>
+                  <h5>Preguntas frecuentes de Internet</h5><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/3192" class="no-left no-wrap">Hotspots de Optimum</a><span class="ellipsis"> • </span><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/2945" class="no-left no-wrap">Como crear una ID de Optimum</a><span class="ellipsis"> • </span><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/2944" class="no-left no-wrap">Acceder a su correo electronico</a><span class="ellipsis"> • </span><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/3742" class="no-left no-wrap">Proteccion para Internet de McAfee</a>
               </div>
           </div>
           <div data-ng-show="CommonFooterCtrl.isESI.paybill">
               <div ng-hide="$root.isEspanolLang">
-                  <h5>Pay Bill Frequently Asked Questions</h5><a href="http://optimum.custhelp.com/app/answers/detail/a_id/310" class="no-left no-wrap">Bill Payment Options</a><span class="ellipsis"> • </span><a href="http://optimum.custhelp.com/app/answers/detail/a_id/311" class="no-left no-wrap">Online Bill Pay</a><span class="ellipsis"> • </span><a href="http://optimum.custhelp.com/app/answers/detail/a_id/312" class="no-left no-wrap">Making a Late Payment</a>
+                  <h5>Pay Bill Frequently Asked Questions</h5><a href="https://www.optimum.net/FAQ/#/answers/a_id/310" class="no-left no-wrap">Bill Payment Options</a><span class="ellipsis"> • </span><a href="https://www.optimum.net/FAQ/#/answers/a_id/311" class="no-left no-wrap">Online Bill Pay</a><span class="ellipsis"> • </span><a href="https://www.optimum.net/FAQ/#/answers/a_id/312" class="no-left no-wrap">Making a Late Payment</a>
               </div>
               <div ng-show="$root.isEspanolLang">
-                  <h5>Opciones de pago Preguntas frecuentes</h5><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/2993" class="no-left no-wrap">Opciones de pago de factura</a><span class="ellipsis"> • </span><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/2994" class="no-left no-wrap">Con pago de factura en linea</a><span class="ellipsis"> • </span><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/2995" class="no-left no-wrap">Hacer un pago atrasado</a>
+                  <h5>Opciones de pago Preguntas frecuentes</h5><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/2993" class="no-left no-wrap">Opciones de pago de factura</a><span class="ellipsis"> • </span><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/2994" class="no-left no-wrap">Con pago de factura en linea</a><span class="ellipsis"> • </span><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/2995" class="no-left no-wrap">Hacer un pago atrasado</a>
               </div>
           </div>
         </div>
@@ -2544,13 +2551,13 @@ Effective November 6, 2017
     <!-- application script includes -->
     
     
-    <script src="/vendor.min.js?201805151329"></script>
+    <script src="/vendor.min.js?201810291537"></script>
     
-    <script src="/main.min.js?201805151329"></script>
+    <script src="/main.min.js?201810291537"></script>
     
-    <script src="/cms-templates/text-anchors/.min.js?201805151329"></script>
+    <script src="/cms-templates/text-anchors/.min.js?201810291537"></script>
     
-    <script src="/support/outage/outage.js?201805151329"></script>
+    <script src="/support/outage/outage.js?201810291537"></script>
     
 
     <script type="text/javascript">
