@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americares.org privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023073706id_/http%3A//www.americares.org/en/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americares.org privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106013801id_/https%3A//www.americares.org/en/our-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,11 +6,13 @@
 
 This policy explains why we collect particular information and how we will protect your personal privacy both offline and within our web sites. The following also discloses our information gathering and dissemination practices for the web sites located at:
 
-  * **www.americares.org**
-  * **www.americaresindia.org**
-  * **www.americares.org/elsalvador**
-  * **www.medicaloutreach.americares.org**  
-  * **www.americaresfreeclinics.org**.
+  * **americares.org**
+  * **secure.americares.org**
+  * **americaresindia.org**
+  * **americares.org/elsalvador**
+  * **medicaloutreach.americares.org**  
+  * **americaresfreeclinics.org**
+  * **safetynetcenter.org**
 
  _These are collectively referred to below as “the Site.”  _
 
@@ -25,7 +27,8 @@ In order to fully understand your rights we encourage you to read this Privacy P
   * Who collects such information 
   * How such information is used 
   * With whom your information may be shared 
-  * What choices you have regarding collection, use and distribution of your information 
+  * What choices you have regarding collection, use and distribution of your information
+  * What are cookies and how they are used on the Site 
   * What kind of security procedures are in place to protect against the loss, misuse or alteration of information under our control 
   * How you can correct any inaccuracies in your information or "Opt-Out"
 
@@ -41,21 +44,42 @@ We collect an IP address from all visitors to our Site. An IP address is a numbe
 
 ##  Use of "Cookies": 
 
-Our Site may use cookies to enhance your experience while using our Site. “Cookies” are small files that generally most Web sites transfer to your computer when you are browsing that Web site. They are not programs that harm a visitor's system or files, and Americares does not use this technology to obtain personal information from its online visitors. The use of “cookies” helps us to recognize repeat visitors, analyze trends, and gather broad demographic information for aggregate use in order for us to improve the site, and deliver customized, personalized content.
+Our Site may use cookies to enhance your experience while using our Site. “Cookies” are small files that generally most Web sites transfer to your computer when you are browsing that Web site. They are not programs that harm a visitor's system or files, and Americares does not use this technology to obtain personal information from its online visitors. The use of “cookies” helps us to recognize repeat visitors, analyze trends, and gather broad demographic information for aggregate use in order for us to improve the site.
 
-“Cookies” make your Web-surfing experience easier by performing certain usage and record-keeping functions such as saving your passwords or your personal preferences regarding your use of a Web site and to make sure that, for example, you don't see the same ad repeatedly. Cookies are generally considered to be an industry standard
+“Cookies” make your Web-surfing experience easier by performing certain usage and record-keeping functions such as saving your passwords or your personal preferences regarding your use of a Web site and to make sure that, for example, you don't see the same ad repeatedly. Cookies are generally considered to be an industry standard.
 
-Your browser is probably set by default to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our Site will not function properly when you view them. You can also manually delete cookies on your browser along with your web browsing history.
+Your browser is probably set by default to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies.
+
+## Setting Cookie Preferences
+
+You may limit the cookies set in your browser or remove them entirely. Note that declining cookies may impact your ability to use our Site. At any point, you may elect to change your browser’s settings to delete cookies that have already been set and to reject new cookies. To learn more, visit the help pages of your browser:
+
+  * [Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
+
+  * [Chrome](https://support.google.com/chrome/answer/95647)
+
+  * [Safari](https://support.apple.com/kb/ph21411)
+
+  * [Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)
+
+  * [Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+
+  * Alternatively, you may consider also visiting our Site in your browser’s "private" or "incognito" mode, in which case cookies will be set, but are completely removed when you close the browser.
+
+
+
+
+If you use more than one browser, be sure to repeat your configuration change for each browser, including your mobile devices.  
 
 ##  Security: 
 
-All online transactions and all information provided to Americares are transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven, industry standard coding system that lets your browser automatically encrypt or scramble data before you send it to us. Donation pages carry the VeriSign symbol, signifying that the Site has a VeriSign SSL certificate. On secure donation pages, the user will notice the website address at the top of the browser screen starts with an "https" instead of an "http", and a closed lock symbol appears at the end of the address window. We do not store sensitive information from our visitors or donors, such as credit cards or social security numbers. We also protect account information by placing it on a secure portion of the Site that is only accessible by certain qualified employees of Americares. 
+All online transactions and all information provided to Americares are transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven, industry standard coding system that lets your browser automatically encrypt or scramble data before you send it to us.  On all pages of our Site, including secure donation pages, the user will notice the website address at the top of the browser screen starts with an "https" instead of an "http", and a closed lock symbol appears at the end of the address window – indicating that the pages are secure. We do not store sensitive information from our visitors or donors, such as credit cards or social security numbers. We also protect account information by placing it on a secure portion of the Site that is only accessible by certain qualified employees of Americares. 
 
 Protecting your information is of great importance to Americares and something we take very seriously. While our methods are the accepted industry standard for security protocol, and make it extremely difficult for your credit card data to be intercepted by anyone else, no data transmission over the Internet, is ever 100% secure. So while we strive to protect your information, we cannot ensure or warrant the security of such information. If you prefer to donate by mail, please send your check to Americares 88 Hamilton Ave. Stamford, Ct 06902, or to make a credit card donation over the phone, please call us at (800) 486-4357 or (203) 658-9500.
 
-##  Opt Out: 
+##  Opt In/Opt Out: 
 
-If you register on the Americares Web Site, or make an online or offline donation and supply us with your email and/or postal address you may receive periodic mailings or online communications from us with information about our current programs and activities around the world. If you do not wish to receive or would like to adjust the volume and types of communications you receive from Americares by postal mail or email, please contact us and let us know your preferences by emailing us at [donorrelations@americares.org](mailto:donorrelations@americares.org) or call us at (800) 486-4357.
+If you register on the Americares Web Site, or make an online or offline donation and supply us with your email and/or postal address you may receive periodic mailings or online communications from us with information about our current programs and activities around the world. If you do not wish to receive or would like to adjust the volume and types of communications you receive from Americares by postal mail or email, please contact us and let us know your preferences by emailing us at [donorrelations@americares.org](mailto:donorrelations@americares.org) or call us at (800) 486-4357.  Once you have notified us of your preferences, it will take approximately 2-4 weeks to remove you from all emails and up to 6-8 weeks for removal from the mailing list. Please be patient with the process. Our goal is to provide you with only the information you wish to receive and in the manner you wish to receive it. 
 
 Americares does not rent, or sell your email or postal address; however we may from time to time share your name and postal address with other similar charitable non-profit organizations unless you opt-out. If you would prefer that your name not be shared with other organizations, please send us a request by email at [donorrelations@americares.org](mailto:donorrelations@americares.org) or call us at (800) 486-4357.
 
@@ -83,3 +107,5 @@ Attention: Web Team
 Stamford, CT 06902  
 
 You can also send an email to our [web team](mailto:websiteteam@americares.org).
+
+If you have requests or questions about your personal data or data collection in general, please email [dataprivacy@americares.org](mailto:dataprivacy@americares.org)
