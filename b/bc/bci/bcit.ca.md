@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcit.ca privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506172752id_/https%3A//www.bcit.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcit.ca privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106173003id_/https%3A//www.bcit.ca/privacy) for the most accurate reproduction.*
 
 # BCIT : : Privacy : : Important Privacy Information
 
@@ -19,14 +19,13 @@ You may refer to BCIT's policy [6700 Freedom of Information and Protection of Pr
 
 For more information about BCIT's privacy procedures you may contact:
 
-Manager, Privacy and Records Management  
+Cynthia Kent  
+Associate Director, Information Access and Privacy  
 British Columbia Institute of Technology  
 3700 Willingdon Avenue  
 Burnaby, B.C., Canada V5G 3H2
 
-[Cynthia_Kent@bcit.ca](mailto:Cynthia_Kent@bcit.ca)
-
-Telephone: 604.432.8508
+[privacy@bcit.ca](mailto:privacy@bcit.ca)
 
 ## **Notification Regarding BCIT's Web Site and Personal Information**
 
