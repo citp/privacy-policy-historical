@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safe-swaps.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614191653id_/https%3A//safe-swaps.com/help/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safe-swaps.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106232948id_/https%3A//safe-swaps.com/help/info/privacy-policy) for the most accurate reproduction.*
 
 # Safe-Swaps - email ad swaps
 
