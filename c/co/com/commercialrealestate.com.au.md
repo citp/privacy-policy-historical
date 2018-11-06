@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the commercialrealestate.com.au privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190719id_/https%3A//www.domain.com.au/group/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercialrealestate.com.au privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106230420id_/https%3A//www.domain.com.au/group/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Domain Group
 
-You have come through to this page from a website or app which is published by Domain Holdings Australia Limited (ABN 43 094 154 364) of 1 Darling Island Road, Pyrmont NSW 2009 ( **Domain** ) or one of its subsidiaries.
+You have come through to this page from a website or app which is published by Domain Holdings Australia Limited (ABN 43 094 154 364) of 55 Pyrmont St, Pyrmont NSW 2009 ( **Domain** ) or one of its subsidiaries.
 
 In this Privacy Policy, **Domain Group** , **us** , **we** or **our** means Domain and its related bodies corporate, partnerships and joint venture entities. Domain Group is the operator of the network (which includes our website and apps) and the data controller for the personal data collected and processed via the network.
 
