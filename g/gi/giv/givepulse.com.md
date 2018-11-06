@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the givepulse.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302141620id_/https%3A//www.givepulse.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givepulse.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106190212id_/https%3A//www.givepulse.com/policies) for the most accurate reproduction.*
 
 # Policies | GivePulse
 
-Last Updated: August 30, 2012 
+Last Updated: May 9, 2018 
 
 This Privacy Policy provides our policies and procedures for collecting, using, and disclosing your information. Users can access the GivePulse service (the “Service”) through our website [www.givepulse.com](http://www.givepulse.com/ "GivePulse Home"), applications on Devices, through APIs, and through third-parties. A “Device” is any computer used to access the GivePulse Service, including without limitation a desktop, laptop, mobile phone, tablet, or other consumer electronic device. This Privacy Policy governs your access of the GivePulse Service, regardless of how you access it, and by using our Services you consent to the collection, transfer, processing, storage, disclosure and other uses described in this Privacy Policy. All of the different forms of data, content, and information described below are collectively referred to as “information.” 
 
@@ -24,7 +24,7 @@ We also collect the other information that you provide as part of registration a
 
 We also use your Personal Information to contact you with GivePulse newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your "Notifications" information. (See "Changing or Deleting Information," below.) Please note that we may also use your Personal Information to contact you with information related to your use of the Service; you may not opt out of these notifications. 
 
-By submitting Information through our Web site, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Information according to this Privacy Policy and you agree to the GivePulse Terms of Service located at <http://www.givepulse.com/site/terms> (the "Terms of Service"). Your Information may be processed by us in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Information may be less stringent than the laws in your country. 
+By submitting Information through our Web site, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Information according to this Privacy Policy and you agree to the GivePulse Terms of Service located at <http://www.givepulse.com/site/terms> (the "Terms of Service"). Your Information may be processed by us in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Information may be less stringent than the laws in your country. 
 
 ### How We Use Personal Information
 
@@ -58,8 +58,7 @@ Our Site and Application may contain electronic images known as Web beacons (som
 
 ### Security
 
-GivePulse is very concerned with safeguarding your information. When you enter sensitive information (such as emergency contact information) we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Site and Application, you can contact us. 
-
+GivePulse is very concerned with safeguarding your information. When you enter sensitive information (such as emergency contact information) we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Site and Application, you can contact us.   
 We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on the Site and Application in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system. 
 
 ### Links
@@ -72,26 +71,28 @@ With your consent we may post your testimonial on the Site and Application along
 
 ### How You Can Review Or Correct Your Information
 
-If you are a nonprofit member or volunteer with a personal GivePulse account (either through [www.givepulse.com](http://www.givepulse.com/ "GivePulse Home") or a Partner's Web site) you may review and make changes to all of your Information that we collect and maintain online by simply inputting your username and password where indicated on the Web site. 
-
-If you are a volunteer with a personal GivePulse account, once you login in, you may make any changes or correct factual errors in your account by changing the information on your login page. This option is available 24 hours a day to better safeguard your Information, subject to downtime for standard maintenance and support. You do not need to contact us to access your record or to make any changes. If you have problems changing your Information, please contact Community Services at [support@givepulse.com](mailto:support@givepulse.com "Contact Us @ GivePulse"). 
+If you are a nonprofit member or volunteer with a personal GivePulse account (either through [www.givepulse.com](http://www.givepulse.com/ "GivePulse Home") or a Partner's Web site) you may review and make changes to all of your Information that we collect and maintain online by simply inputting your username and password where indicated on the Web site.   
+If you are a volunteer with a personal GivePulse account, once you login in, you may make any changes or correct factual errors in your account by changing the information on your login page. This option is available 24 hours a day to better safeguard your Information, subject to downtime for standard maintenance and support. You do not need to contact us to access your record or to make any changes. If you have problems changing your Information, please contact Community Services at [support@givepulse.com](mailto:support@givepulse.com "Contact Us @ GivePulse"). 
 
 ### For Nonprofit or Other Volunteer Agencies
 
-If you are an Agency administrator, you may make any changes or correct factual errors in your administrator, organization and Event information 24 hours a day. We use this procedure to better safeguard your Information. You do not need to contact us to access your record or to make any changes. If you have problems changing your Agency's Information, please contact Community Services at [support@givepulse.com](mailto:support@givepulse.com "Contact Us @ GivePulse"). 
-
-If you are a nonprofit member or volunteer with an account and would like to have your Information deleted from the site, you may do so by contacting Community Services at [support@givepulse.com](mailto:support@givepulse.com "Contact Us @ GivePulse"). 
+If you are an Agency administrator, you may make any changes or correct factual errors in your administrator, organization and Event information 24 hours a day. We use this procedure to better safeguard your Information. You do not need to contact us to access your record or to make any changes. If you have problems changing your Agency's Information, please contact Community Services at [support@givepulse.com](mailto:support@givepulse.com "Contact Us @ GivePulse").   
+If you are a nonprofit member or volunteer with an account and would like to have your Information deleted from the site, you may do so by contacting Community Services at [support@givepulse.com](mailto:support@givepulse.com "Contact Us @ GivePulse"). 
 
 ### Opting-out of Newsletters & Communications
 
-Subscriptions to GivePulse newsletters are optional and GivePulse allows Agencies, volunteers, subscribers or other users to unsubscribe from newsletters at any time. In each newsletter we provide instructions regarding how to opt-out from receiving future newsletter mailings. You can also email us at [support@givepulse.com](mailto:support@givepulse.com "Contact Us @ GivePulse") to remove your name from our newsletter subscription data base and ensure that you will cease receiving future newsletters from us. 
-
+Subscriptions to GivePulse newsletters are optional and GivePulse allows Agencies, volunteers, subscribers or other users to unsubscribe from newsletters at any time. In each newsletter we provide instructions regarding how to opt-out from receiving future newsletter mailings. You can also email us at [support@givepulse.com](mailto:support@givepulse.com "Contact Us @ GivePulse") to remove your name from our newsletter subscription data base and ensure that you will cease receiving future newsletters from us.   
 We may also use our email lists for sending out other GivePulse outbound communications such as product enhancements, tool upgrades, or membership news. Registered members are required to receive these communications. 
 
 ### How To Contact Us
 
-We appreciate your questions or comments about this privacy statement, the practices of this Web site, or your dealings with GivePulse. Please send email to [support@givepulse.com](mailto:support@givepulse.com "Contact Us @ GivePulse")
+We appreciate your questions or comments about this privacy statement, the practices of this Web site, or your dealings with GivePulse. Please send email to [support@givepulse.com](mailto:support@givepulse.com "Contact Us @ GivePulse")
 
 ### Changes to Policy
 
-This Privacy Policy may change from time to time. If we make a change to this privacy policy that we believe materially reduces your rights, we will provide you with notice (for example, by email). And we may provide notice of changes in other circumstances as well. By continuing to use the Service after those changes become effective, you agree to be bound by the revised Privacy Policy. 
+This Privacy Policy may change from time to time. If we make a change to this privacy policy that we believe materially reduces your rights, we will provide you with notice (for example, by email). And we may provide notice of changes in other circumstances as well. By continuing to use the Service after those changes become effective, you agree to be bound by the revised Privacy Policy.  
+
+
+### Hosted Solution
+
+Note: Institutions, nonprofits, businesses and partners who purchase a subscription can enter into a contract in which the terms of the Agreement shall control. In all instances, this relates to protecting data of student, employee, and staff to the highest regard. For further information, please email [support@givepulse.com](mailto:support@givepulse.com "Contact Us @ GivePulse") or your institution's contract, legal or data owner. 
