@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the optonline.net privacy policy that was archived on 2017-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171228001353id_/https%3A//www.optimum.net/pages/PrivacyExisting.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the optonline.net privacy policy that was archived on 2018-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181106234922id_/https%3A//www.optimum.net/pages/PrivacyExisting.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
@@ -25,20 +25,26 @@
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     
     
-    <link rel="stylesheet" href="/core-and-parts_page_1.css?201712141557">
+    <link rel="stylesheet" href="/core-and-parts_page_1.css?201810291537">
     
-    <link rel="stylesheet" href="/core-and-parts_page_2.css?201712141557">
+    <link rel="stylesheet" href="/core-and-parts_page_2.css?201810291537">
     
-    <link rel="stylesheet" href="/cms-templates/text-anchors/page.css?201712141557">
+    <link rel="stylesheet" href="/cms-templates/text-anchors/page.css?201810291537">
     
-    <!--[if IE 8]><link rel="stylesheet" href="/assets/css/ie8.css?201712141557"><![endif]-->
+    <!--[if IE 8]><link rel="stylesheet" href="/assets/css/ie8.css?201810291537"><![endif]-->
 
-    <!--[if lte IE 8]><script src="/ieshiv.js?201712141557"></script><![endif]-->
-    <!--[if lte IE 8]><script src="/PIE.js?201712141557"></script><![endif]-->
-    <!--[if lte IE 8]><script src="/PIE.htc?201712141557"></script><![endif]-->
+    <!--[if lte IE 8]><script src="/ieshiv.js?201810291537"></script><![endif]-->
+    <!--[if lte IE 8]><script src="/PIE.js?201810291537"></script><![endif]-->
+    <!--[if lte IE 8]><script src="/PIE.htc?201810291537"></script><![endif]-->
     
 	<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MFVCV8"></script><script src="/assets/hosted/js/onetmotionpoint.js"></script>
     <script src="/modernizr.custom.28587.min.js"></script>
+    <script>
+		window.cvVASettings = {
+			lookup: 'remote', lookupEndpoint: 'https://altice.creativevirtual15.com/settings=altice'
+		};
+	</script>
+	<script src="/cdn/static.tvlistings.optimum.net/ool/static/prod/vendor/VA/cv_va_iframe/cv-va.js"></script>
     <script>
     if(!window.console) {
         var console = {
@@ -221,7 +227,7 @@
                     <div class="width_90">
                         <div class="full-width searchbar-group input-groupp">
                             <div><input id="mobile-global-input" type="text" class="input-lighter-accent full-width inputBackground" placeholder="Search Optimum.net" data-ng-model="CommonHeaderCtrl.searchTerm" data-ng-change="CommonHeaderCtrl.doSearch()"></div>
-                            <div class="btn search-btn semflex__auto" data-ng-click="CommonHeaderCtrl.phoneGoToSearch(CommonHeaderCtrl.searchCategory.support)"><a class="icon-search"></a></div>
+                            <div class="btn search-btn semflex__auto" data-ng-click="CommonHeaderCtrl.phoneGoToSearch(CommonHeaderCtrl.searchCategory.ondemand)"><a class="icon-search"></a></div>
                         </div>
                     </div>
                     <div class="close-search-wrapper align-right">
@@ -567,50 +573,13 @@
                 <!--end of logged in-->
                 <!--logged out-->
                 <div data-ng-show="!CommonHeaderCtrl.currentLoggedInUser.hasSession">
-                    <h4>Sign in to pay your bill</h4>
-                    <form id="paybillForm" method="post" ng-submit="CommonHeaderCtrl.handleUserLogin('paybillForm')">
-                        <div class="row">
-                            <div class="span12">
-                                <h4>My Optimum ID</h4>
-                            </div>
-                            <div class="span6">
-                                <input type="text" id="paybillFormOptimumId" name="id" autocorrect="off" autocapitalize="off" data-ng-model="CommonHeaderCtrl.userInput.paybillForm.optimumId" tabindex="21" value="">
-                                <p class="error" data-ng-show="CommonHeaderCtrl.userInput.paybillForm.isNotValidOptimumId">Invalid Optimum ID, please complete all fields.</p>
-                            </div>
-                            <div class="span6">
-                                <a href="/recover-id/" tabindex="24">Forgot my Optimum ID</a>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="span12">
-                                <h4>Password</h4>
-                            </div>
-                            <div class="span6">
-                                <input type="password" id="paybillFormPassword" name="password" autocorrect="off" autocapitalize="off" data-ng-model="CommonHeaderCtrl.userInput.paybillForm.password" tabindex="22">
-                                <p class="error" data-ng-show="CommonHeaderCtrl.userInput.paybillForm.isNotValidPassword">Invalid password, please complete all fields.</p>
-                            </div>
-                            <div class="span6">
-                                <a href="/reset-password/" tabindex="25">I forgot my password</a>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="span12">
-                                <hr>
-                            </div>
-                            <div class="span12">
-                                <div class="remember-me-login">
-                                    <input type="submit" class="btn btn--secondary" tabindex="23" value="Sign in">
-
-                                    <div class="remember-me-group">
-                                        <input type="hidden" data-ng-model="CommonHeaderCtrl.userInput.paybillForm.remember_bool" name="remember" value="{{CommonHeaderCtrl.userInput.paybillForm.remember_bool}}">
-                                        <span data-ng-click="CommonHeaderCtrl.toggleUserInputRemember('paybillForm')">
-                                            <input data-ng-model="CommonHeaderCtrl.userInput.paybillForm.remember_string" name="remember" class="checkbox checkbox--secondary remember-checkbox" true-value="yes" tabindex="26">Remember Me
-                                        </span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </form>
+                    <div>
+						<ul class="margin-top-1">
+							<li><a href="/pay-bill/">Pay Online</a></li>
+							<li><a href="/pay-bill/payin-person">Pay in Person</a></li>
+							<li><a href="/FAQ#/answers/a_id/313">Pay by Mail</a></li>    
+						</ul>
+					</div>
                 </div>
                 <!--end of logged out-->
             </div>
@@ -730,7 +699,7 @@
                 <div class="menu-bottom">
                     <div class="span5">
                         <ul class="support-lower-links">
-							<li><a href="http://optimum.custhelp.com/">FAQS</a></li><li><a href="/support/tutorials">Tutorials</a></li><li><a href="/support/user-guides">User Guides</a></li><li><a href="/service-appointments/" data-ng-show="CommonHeaderCtrl.currentLoggedInUser.hasSession &amp;&amp; CommonHeaderCtrl.ooluser.primary">Service Appointments</a></li><li><a href="/getconnected">Connect My Device</a></li><li><a href="/pages/service.html">Optimum Service Plans</a></li><li><a href="/pages/optimum-support-app.html">Optimum Support App</a></li>
+							<li><a href="/FAQ">FAQS</a></li><li><a href="/support/tutorials">Tutorials</a></li><li><a href="/support/user-guides">User Guides</a></li><li><a href="/service-appointments/" data-ng-show="CommonHeaderCtrl.currentLoggedInUser.hasSession &amp;&amp; CommonHeaderCtrl.ooluser.primary">Service Appointments</a></li><li><a href="/getconnected">Connect My Device</a></li><li><a href="/pages/service.html">Optimum Service Plans</a></li><li><a href="/pages/optimum-support-app.html">Optimum Support App</a></li>
                         </ul>
                     </div>
 
@@ -758,7 +727,7 @@
                                 <li><a href="/support/parental-controls/">Parental Controls</a></li>
                                 <li><a href="/support/user-guides/">User Guides</a></li>
                                 -->
-								<li><a href="https://www.optimum.net/support/contact-us#optimum-store">Find Optimum Stores</a></li><li><a href="/support/accessories" ng-hide="CommonHeaderCtrl.labox">Accessories</a></li><li><a href="/pages/parental-controls.html">Parental Controls</a></li><li><a href="http://optimum.net/moving">Moving?</a></li><li><a href="/support/contact-us">Contact Us</a></li>
+								<li><a href="https://www.optimum.net/support/contact-us#optimum-store">Find Optimum Stores</a></li><li><a href="/support/accessories" ng-hide="CommonHeaderCtrl.labox">Accessories</a></li><li><a href="http://optimum.net/moving">Moving?</a></li><li><a href="/support/contact-us">Contact Us</a></li>
                             </ul>
                         </div>
 
@@ -780,30 +749,37 @@
         </a>
     </div>
 </div>
+<!-- UPGRADES -->
+<div class="hbeam-inline global-nav-secondary__item" ng-hide="CommonHeaderCtrl.currentLoggedInUser.isBiz">
+    <div class="global-nav-secondary__label">
+        <a class="block-link not-bold" href="/upgrades" omtr="trackme" title="Upgrades Menu">Upgrades</a>
+    </div>
+</div>
 
 <div class="hbeam-inline global-nav-secondary__item">
     <div class="global-nav-secondary__label">
 
         <form class="form-global-search animateInput" id="global-input-form">
-            <div class="input-group" ng-submit="CommonHeaderCtrl.goToSearch(CommonHeaderCtrl.searchCategory.support)">
+            <div class="input-group" ng-submit="CommonHeaderCtrl.goToSearch(CommonHeaderCtrl.searchCategory.ondemand)">
                 <input data-ng-model="CommonHeaderCtrl.searchTerm" class="input--s input-transparent input-lighter-accent" type="text" id="global-input" data-ng-change="CommonHeaderCtrl.doSearch()" placeholder="Search">
                         <span class="input-group-btn">
-                          <button data-ng-click="CommonHeaderCtrl.goToSearch(CommonHeaderCtrl.searchCategory.support)" id="search-btn" class="btn btn--white btn--s" type="submit">
+                          <button data-ng-click="CommonHeaderCtrl.goToSearch(CommonHeaderCtrl.searchCategory.ondemand)" id="search-btn" class="btn btn--white btn--s" type="submit">
                               <span class="icon-search"></span>
                           </button>
                         </span>
             </div>
-            <!--Search drop down begins here  search-ddmenu to div-->
-            <div id="desktop_auto_complete" data-ng-show="CommonHeaderCtrl.searchTerm.length > 0 &amp;&amp; inputFocus" ng-cloak="" class="search-ddmenu child hidden">
+<!--             Search drop down begins here  search-ddmenu to div
+            <div id="desktop_auto_complete" data-ng-show="CommonHeaderCtrl.searchTerm.length &gt; 0 && inputFocus" ng-cloak class="search-ddmenu child hidden">
                 <div class="header-dropmenu globalSearchResult rightMargin-For-IE8 right-Margin-For-Search">
                 <div class="powered-By-text">Suggestions powered by Optimum</div>
                     <div class="menu-top wrapper">
 
                         <div class="bg bg1"></div>
                         <div class="bg bg2 bordertop1px display-result-left-border"></div>
-                        <!--Start of  All Optimum.net Section -->
+                        Start of  All Optimum.net Section
                         <div class="col1 col paddingRight">
-                            <div class="textRight paddingRight title-auto-cmpl-margin" data-ng-click="CommonHeaderCtrl.supportNavReqd = true;CommonHeaderCtrl.goToSearch(CommonHeaderCtrl.searchCategory.support)">
+                            <div class="textRight paddingRight title-auto-cmpl-margin"
+                                 data-ng-click="CommonHeaderCtrl.supportNavReqd = true;CommonHeaderCtrl.goToSearch(CommonHeaderCtrl.searchCategory.support)">
                 <span class="">
                   <strong>Optimum.net</strong>
                 </span>
@@ -813,24 +789,26 @@
                             <div class="res-auto-cmpl-margin">
                                 <ul class="marginLeft">
                                     <li data-ng-click="CommonHeaderCtrl.searchThis(result.searchQuery,CommonHeaderCtrl.searchCategory.support)" data-ng-repeat="result in CommonHeaderCtrl.gsaResult.results" class="paddingLI selectFromArrow">
-                                        <span data-ng-bind-html-unsafe="CommonHeaderCtrl.truncateText(result.text,28)" class="searchKey"></span>
+                                        <span  data-ng-bind-html-unsafe="CommonHeaderCtrl.truncateText(result.text,28)" class="searchKey"></span>
                                     </li>
-                                    <li data-ng-show="CommonHeaderCtrl.gsaSuggestionFailed" class="paddingLI " data-ng-class="{'selectFromArrow':CommonHeaderCtrl.gsaSuggestionFailed}" data-ng-click="CommonHeaderCtrl.supportNavReqd = true;CommonHeaderCtrl.goToSearch(CommonHeaderCtrl.searchCategory.support)">
+                                    <li data-ng-show="CommonHeaderCtrl.gsaSuggestionFailed" class="paddingLI " data-ng-class="{'selectFromArrow':CommonHeaderCtrl.gsaSuggestionFailed}"
+                                        data-ng-click="CommonHeaderCtrl.supportNavReqd = true;CommonHeaderCtrl.goToSearch(CommonHeaderCtrl.searchCategory.support)">
                       <span class="searchKey">
                         Search full site for <b>"{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"</b>
-                          
+                          </a>
                       </span>
                                     </li>
                                     <li data-ng-show="CommonHeaderCtrl.loadingGsa" class="paddingLI"> Loading...<br></li>
                                 </ul>
                             </div>
                         </div>
-                        <!--End of  All Optimum.net Section -->
-                        <!--Start of TV & On Demand Section -->
+                        End of  All Optimum.net Section
+                        Start of TV & On Demand Section
                         <div class="col1 col paddingRight">
-                            <div class="textRight paddingRight title-auto-cmpl-margin" data-ng-click="CommonHeaderCtrl.goToSearch(CommonHeaderCtrl.searchCategory.ondemand)">
+                            <div class="textRight paddingRight title-auto-cmpl-margin"
+                                 data-ng-click="CommonHeaderCtrl.goToSearch(CommonHeaderCtrl.searchCategory.ondemand)">
                 <span class="">
-                  <strong>TV &amp; On-Demand</strong>
+                  <strong>TV & On-Demand</strong>
                 </span>
                             </div>
                         </div>
@@ -838,7 +816,7 @@
                             <div class="res-auto-cmpl-margin">
                                 <ul class="marginLeft">
                                     <li data-ng-click="CommonHeaderCtrl.searchThis(result.searchQuery,CommonHeaderCtrl.searchCategory.ondemand)" data-ng-repeat="result in CommonHeaderCtrl.veveoResult.results" class="paddingLI selectFromArrow">
-                                        <span data-ng-bind-html-unsafe="CommonHeaderCtrl.truncateText(result.text,28)" class="searchKey"></span>
+                                        <span  data-ng-bind-html-unsafe="CommonHeaderCtrl.truncateText(result.text,28)" class="searchKey"></span>
                                     </li>
                                     <li data-ng-show="CommonHeaderCtrl.veveoSuggestionFailed" class="paddingLI " data-ng-class="{'selectFromArrow':CommonHeaderCtrl.veveoSuggestionFailed}">
                       <span class="searchKey">
@@ -849,10 +827,11 @@
                                 </ul>
                             </div>
                         </div>
-                        <!--End of TV & On Demand  Section -->
-                        <!--Start of Google Section -->
+                        End of TV & On Demand  Section
+                        Start of Google Section
                         <div class="col1 col paddingRight">
-                            <div class="textRight paddingRight" data-ng-click="CommonHeaderCtrl.goToSearch(CommonHeaderCtrl.searchCategory.google)">
+                            <div class="textRight paddingRight"
+                                 data-ng-click="CommonHeaderCtrl.goToSearch(CommonHeaderCtrl.searchCategory.google)">
                 <span class="">
                   	<strong>Web results</strong><span class="google-logo-wrapped fixgooglemargin"></span>
                 </span>
@@ -861,10 +840,11 @@
                         <div class="col2 col">
                             <div class="res-auto-cmpl-margin fixcolmargin">
                                 <ul class="marginLeft">
-                                    <li data-ng-click="CommonHeaderCtrl.searchThis(result.searchQuery,CommonHeaderCtrl.searchCategory.google)" data-ng-repeat="result in CommonHeaderCtrl.googleResult.results" class="paddingLI selectFromArrow">
+                                    <li data-ng-click="CommonHeaderCtrl.searchThis(result.searchQuery,CommonHeaderCtrl.searchCategory.google)"  data-ng-repeat="result in CommonHeaderCtrl.googleResult.results" class="paddingLI selectFromArrow">
                                         <span data-ng-bind-html-unsafe="CommonHeaderCtrl.truncateText(result.text,28)" class="searchKey"></span>
                                     </li>
-                                    <li data-ng-show="CommonHeaderCtrl.googleSuggestionFailed" class="paddingLI " data-ng-class="{'selectFromArrow':CommonHeaderCtrl.googleSuggestionFailed}" data-ng-click="CommonHeaderCtrl.goToSearch(CommonHeaderCtrl.searchCategory.google)">
+                                    <li data-ng-show="CommonHeaderCtrl.googleSuggestionFailed" class="paddingLI " data-ng-class="{'selectFromArrow':CommonHeaderCtrl.googleSuggestionFailed}"
+                                        data-ng-click="CommonHeaderCtrl.goToSearch(CommonHeaderCtrl.searchCategory.google)">
                       <span class="searchKey">
                         Search the web for <b>"{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"</b>
                       </span>
@@ -873,7 +853,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <!--End of Google Section -->
+                        End of Google Section
                         <div class="col1 col paddingRight">
                             <div class="textRight paddingRight title-auto-cmpl-margin"><span class=""><strong>Keep searching</strong></span></div>
                         </div>
@@ -887,7 +867,7 @@
                                     </li>
                                     <li class="paddingLI selectFromArrow" data-ng-click="CommonHeaderCtrl.goToSearch(CommonHeaderCtrl.searchCategory.ondemand)">
                       <span>
-                        <b class="keepsearching">Search TV &amp; On Demand for </b> <b class="searchKeyBold">"{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"</b>
+                        <b class="keepsearching">Search TV & On Demand for </b> <b class="searchKeyBold">"{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"</b>
                       </span>
                                     </li>
                                     <li class="paddingLI selectFromArrow" data-ng-click="CommonHeaderCtrl.goToSearch(CommonHeaderCtrl.searchCategory.google)">
@@ -902,8 +882,8 @@
                     </div>
                 </div></div>
 
-            <!--Search drop down ends-->
-        </form>
+            Search drop down ends
+ -->        </form>
     </div>
 </div>
 
@@ -945,7 +925,7 @@
                         </div>
                         <div class="span6">
                             <ul>
-                                <li><a href="{{CommonHeaderCtrl.managedRouterLink}}">Router</a></li><li><a href="/tv/optimum-app/" ng-hide="CommonHeaderCtrl.pickerSelected || CommonHeaderCtrl.ooluser.hasOOLSession">Mobile TV App</a></li><li><a href="/tv/optimum-app/" ng-show="(CommonHeaderCtrl.pickerSelected || ComonHeaderCtrl.ooluser.hasOOLSession) &amp;&amp; !CommonHeaderCtrl.labox">Optimum App</a></li><li><a href="/tv/optimum-app/" ng-show="CommonHeaderCtrl.labox">Altice One App</a></li><li><a href="/support/internet">Support</a></li><li><a href="/speedtest">Speed test</a></li><li><a href="/speed">Speed Tiers</a></li>
+                                <li><a href="{{CommonHeaderCtrl.managedRouterLink}}">Router</a></li><li><a href="/tv/optimum-app/" ng-hide="CommonHeaderCtrl.pickerSelected || CommonHeaderCtrl.ooluser.hasOOLSession">Mobile TV App</a></li><li><a href="/tv/optimum-app/" ng-show="(CommonHeaderCtrl.pickerSelected || ComonHeaderCtrl.ooluser.hasOOLSession) &amp;&amp; !CommonHeaderCtrl.labox">Optimum App</a></li><li><a href="/tv/optimum-app/" ng-show="CommonHeaderCtrl.labox">Altice One App</a></li><li><a href="/support/internet">Support</a></li><li><a href="/speed">Speed Tiers</a></li>
                             </ul>
                         </div>
                     </div>
@@ -985,8 +965,11 @@
                                     </div>
                                 </div>
                                 <div class="row">
-                                    <div class="span12">
+                                    <div class="span12" ng-hide="CommonHeaderCtrl.currentLoggedInUser.ox">
                                         <span class="subject">{{email.subject}}</span>
+                                    </div>
+                                    <div class="span12" ng-show="CommonHeaderCtrl.currentLoggedInUser.ox">
+                                        <span class="subject"><a href="{{ email.link }}"><u>{{email.subject}}</u></a></span>
                                     </div>
                                 </div>
                             </div>
@@ -1037,7 +1020,7 @@
                         <div class="span6">
                             <h4>Features &amp; settings</h4>
                             <ul>
-                                <li><a href="/profile/cable-boxes/">My cable boxes</a></li><li><a href="/pages/tv/tv-remote.html">Remote set up</a></li><li><a href="/pages/tv/about-hd.html">HD</a></li><li><a href="/profile/cable-boxes/#/#parental-controls" ng-show="(CommonHeaderCtrl.ooluser.primary || CommonHeaderCtrl.ooluser.p.pc)">Parental controls</a></li><li><a href="/pages/channel-lineups.html">TV Channel Lineups</a></li>
+                                <li><a href="/profile/cable-boxes/">My cable boxes</a></li><li><a href="/pages/tv/tv-remote.html">Remote set up</a></li><li><a href="/pages/tv/about-hd.html">HD</a></li><li><a href="/pages/channel-lineups.html">TV Channel Lineups</a></li>
                             </ul>
                         </div>
                     </div>
@@ -1078,8 +1061,7 @@
                                         </h4>
 
                                         <h4 class="learnmore" data-ng-show="!CommonHeaderCtrl.currentLoggedInUser.hasService.dvr">
-                                            <a href="http://optimum.custhelp.com/app/answers/detail/a_id/2580/kw/multi%20room">Click here to learn more about DVR
-                                            </a></h4>
+                                            <a href="/FAQ#/answers/a_id/2580">Click here to learn more about DVR</a></h4>
 
                                         <div id="dvr-spinner" class="spin-restraint" data-ng-show="CommonHeaderCtrl.loadingScheduledRecordings &amp;&amp; !CommonHeaderCtrl.dvrMenu.alertNoService &amp;&amp; !CommonHeaderCtrl.dvrMenu.alertNoScheduled">
                                             <spinner color="'#fff'" data-length="12" data-radius="12"></spinner>
@@ -1138,7 +1120,7 @@
                                     </div>
                                     <div class="span6">
                                         <ul>
-                                            <li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/FindMe">Find me</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/PrivateOutboundCalls">Private calling</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallForwarding">BackUp phone</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/DirectoryListing">Directory listing</a></li><li><a href="/support/phone">Support</a></li>
+                                            <li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/FindMe">Find me</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/PrivateOutboundCalls">Private calling</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallForwarding">BackUp phone</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/DirectoryListing">Directory listing</a></li><li><a href="/support/phone">Support</a></li><li><a href="/pages/nomorobo.html">Stop robocalls</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -1159,7 +1141,7 @@
                                 </div>
                                 <div class="span6">
                                     <ul>
-                                        <li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/FindMe">Find me</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/PrivateOutboundCalls">Private calling</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallForwarding">BackUp phone</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/DirectoryListing">Directory listing</a></li><li><a href="/support/phone">Support</a></li>
+                                        <li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/FindMe">Find me</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/PrivateOutboundCalls">Private calling</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallForwarding">BackUp phone</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/DirectoryListing">Directory listing</a></li><li><a href="/support/phone">Support</a></li><li><a href="/pages/nomorobo.html">Stop robocalls</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -1200,7 +1182,7 @@
                             </div>
                             <div class="span6">
                                 <ul>
-                                    <li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/FindMe">Find me</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/PrivateOutboundCalls">Private calling</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallForwarding">BackUp phone</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/DirectoryListing">Directory listing</a></li><li><a href="/support/phone">Support</a></li>
+                                    <li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/FindMe">Find me</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/PrivateOutboundCalls">Private calling</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallForwarding">BackUp phone</a></li><li><a href="{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/DirectoryListing">Directory listing</a></li><li><a href="/support/phone">Support</a></li><li><a href="/pages/nomorobo.html">Stop robocalls</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -1240,9 +1222,9 @@
 
 </div>
 
-<div class="hflow global-nav-primary__item block-link" data-ng-mouseenter="CommonHeaderCtrl.handleMenuFocus('smarthome')" data-ng-mouseleave="CommonHeaderCtrl.handleMenuBlur('smarthome')" data-ng-class="{active : CommonHeaderCtrl.isActiveMenu('smarthome')}">
+<div class="hflow global-nav-primary__item block-link" data-ng-mouseenter="CommonHeaderCtrl.handleMenuFocus('smarthome-info')" data-ng-mouseleave="CommonHeaderCtrl.handleMenuBlur('smarthome-info')" data-ng-class="{active : CommonHeaderCtrl.isActiveMenu('smarthome-info')}">
     <div class="global-nav-primary__label">
-        <a data-ng-click="CommonHeaderCtrl.handleMenuSelect('smarthome')" class="global-header__link">
+        <a data-ng-click="CommonHeaderCtrl.handleMenuSelect('smarthome-info')" class="global-header__link">
         <span class="mega-menu-cursor global-header__link">Smart Home</span>
         </a>
     </div>
@@ -1260,17 +1242,18 @@
 </div>
 </div>
 </section>
-<div id="search_auto_phone" class="auto_complete_phone hidden-desktop hidden" ng-show="CommonHeaderCtrl.showingMobileSearchBar" ng-cloak="" ng-class="CommonHeaderCtrl.switchStyles()">
-    <div class="container phone_auto_complete_background" ng-show="CommonHeaderCtrl.showingMobileSearchBar &amp;&amp; CommonHeaderCtrl.searchTerm.length >0 &amp;&amp; inputFocus">
+<!-- <div id="search_auto_phone" class="auto_complete_phone hidden-desktop hidden" ng-show="CommonHeaderCtrl.showingMobileSearchBar" ng-cloak ng-class="CommonHeaderCtrl.switchStyles()">
+    <div class="container phone_auto_complete_background" ng-show="CommonHeaderCtrl.showingMobileSearchBar && CommonHeaderCtrl.searchTerm.length >0 && inputFocus">
     <div class="powered-By-text">Suggestions powered by Optimum</div>
         <div>
             <span class="search_heading">Optimum.net</span>
             <div class="result_container">
                 <ul>
-                    <li data-ng-click="CommonHeaderCtrl.phoneSearchThis(result.searchQuery,CommonHeaderCtrl.searchCategory.support)" data-ng-repeat="result in CommonHeaderCtrl.gsaResult.results" ng-class="{ 'border-result-item-bottom': $last}">
+                    <li data-ng-click="CommonHeaderCtrl.phoneSearchThis(result.searchQuery,CommonHeaderCtrl.searchCategory.support)"  data-ng-repeat="result in CommonHeaderCtrl.gsaResult.results" ng-class="{ 'border-result-item-bottom': $last}">
                         <span data-ng-bind-html="CommonHeaderCtrl.truncateText(result.text,28)"></span>
                     </li>
-                    <li data-ng-show="CommonHeaderCtrl.gsaSuggestionFailed" data-ng-click="CommonHeaderCtrl.supportNavReqd = true;CommonHeaderCtrl.phoneGoToSearch(CommonHeaderCtrl.searchCategory.support)">
+                    <li data-ng-show="CommonHeaderCtrl.gsaSuggestionFailed"
+                        data-ng-click="CommonHeaderCtrl.supportNavReqd = true;CommonHeaderCtrl.phoneGoToSearch(CommonHeaderCtrl.searchCategory.support)">
                         <span class="searchKey">
                         Search full site for <b>"{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"</b>
                         </span>
@@ -1280,10 +1263,10 @@
             </div>
         </div>
         <div class="marginTop1rem">
-            <span class="search_heading">TV &amp; On Demand</span>
+            <span class="search_heading">TV & On Demand</span>
             <div class="result_container">
                 <ul>
-                    <li data-ng-click="CommonHeaderCtrl.phoneSearchThis(result.searchQuery,CommonHeaderCtrl.searchCategory.ondemand)" data-ng-repeat="result in CommonHeaderCtrl.veveoResult.results" ng-class="{ 'border-result-item-bottom': $last}">
+                    <li data-ng-click="CommonHeaderCtrl.phoneSearchThis(result.searchQuery,CommonHeaderCtrl.searchCategory.ondemand)"  data-ng-repeat="result in CommonHeaderCtrl.veveoResult.results" ng-class="{ 'border-result-item-bottom': $last}">
                         <span data-ng-bind-html="CommonHeaderCtrl.truncateText(result.text,28)"></span>
                     </li>
                     <li data-ng-show="CommonHeaderCtrl.veveoSuggestionFailed">
@@ -1300,10 +1283,11 @@
             <span class="google-logo fixedpos"></span>
             <div class="result_container">
                 <ul>
-                    <li data-ng-click="CommonHeaderCtrl.phoneSearchThis(result.searchQuery,CommonHeaderCtrl.searchCategory.google)" data-ng-repeat="result in CommonHeaderCtrl.googleResult.results" ng-class="{ 'border-result-item-bottom': $last}">
+                    <li data-ng-click="CommonHeaderCtrl.phoneSearchThis(result.searchQuery,CommonHeaderCtrl.searchCategory.google)"  data-ng-repeat="result in CommonHeaderCtrl.googleResult.results" ng-class="{ 'border-result-item-bottom': $last}">
                         <span data-ng-bind-html="CommonHeaderCtrl.truncateText(result.text,28)"></span>
                     </li>
-                    <li data-ng-show="CommonHeaderCtrl.googleSuggestionFailed" data-ng-click="CommonHeaderCtrl.phoneGoToSearch(CommonHeaderCtrl.searchCategory.google)">
+                    <li data-ng-show="CommonHeaderCtrl.googleSuggestionFailed"
+                        data-ng-click="CommonHeaderCtrl.phoneGoToSearch(CommonHeaderCtrl.searchCategory.google)">
                         <span>
                         <b>Search the web for "{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"</b>
                         </span>
@@ -1320,7 +1304,7 @@
                         <span>Search full site for "{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"</span>
                     </li>
                     <li data-ng-click="CommonHeaderCtrl.phoneGoToSearch(CommonHeaderCtrl.searchCategory.ondemand)">
-                        <span>Search TV &amp; On Demand for "{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"</span>
+                        <span>Search TV & On Demand for "{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"</span>
                     </li>
                     <li data-ng-click="CommonHeaderCtrl.phoneGoToSearch(CommonHeaderCtrl.searchCategory.google)" class="border-result-item-bottom">
                         <span>Search the web for "{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"</span>
@@ -1331,7 +1315,7 @@
         <br>
     </div>
 </div>
-
+ -->
     <!-- IE8/depcreated browser and Compat Mode alert messages -->
     <section id="dep-browser-banner" data-ng-show="CommonHeaderCtrl.showDeprecatedBrowserBanner" class="hidden-phone hidden-tablet theme-primary">
         <div class="row">
@@ -1355,7 +1339,7 @@
 						<div id="compat-mode-content" class="row" data-ng-show="CommonHeaderCtrl.showCompatModeMsg">
 							<div class="ab__text text-unspace span12">
                                 <h4 class="title">You need to change your Internet Explorer Compatibility View setting to get the most from the new Optimum.net</h4>
-                                <p class="mmessage__message">Click <a href="http://optimum.custhelp.com/app/answers/detail/a_id/3703">here</a> for more info.</p>
+                                <p class="mmessage__message">Click <a href="/FAQ#/answers/a_id/3703">here</a> for more info.</p>
                             </div>
 						</div>
                         <div class="ab__icon semflex__auto" data-ng-click="CommonHeaderCtrl.closeDeprecatedBrowserBanner()">
@@ -1467,7 +1451,7 @@
 <p>
 	<strong>A. Information We Collect and Receive, and How We Collect It</strong></p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
-	In connection with the initiation and ongoing provisioning of Covered Services, as well as with our ongoing efforts to improve the quality and value of the Covered Services, we may maintain certain information related to you that you provide to us or that we collect using the cable systems ("Subscriber Information"). Certain Subscriber Information may be personally identifiable ("Personally Identifiable Information"). Personally Identifiable Information does not include, among other things, any aggregate data or other data which does not identify a particular person or information which by itself does not identify a particular person, such as your zip code, gender, MAC address or other equipment identifiers, or certain other unique numbers or codes. We may collect Personally Identifiable Information using the cable system in order to obtain information necessary to render our cable service or other services to our subscribers or to detect unauthorized reception of cable communications, as well as for other purposes described in this notice.</p>
+	In connection with the initiation and ongoing provisioning of Covered Services, as well as with our ongoing efforts to improve the quality and value of the Covered Services, we may maintain certain information related to you that you provide to us or that we collect using the cable systems ("Subscriber Information"). Certain Subscriber Information may be personally identifiable ("Personally Identifiable Information"). Personally Identifiable Information does not include, among other things, any aggregate data or other data which does not identify a particular person or information which by itself does not identify a particular person, such as your zip code, gender, IP Address, MAC address or other equipment identifiers, or certain other unique numbers or codes. We may collect Personally Identifiable Information using the cable system in order to obtain information necessary to render our cable service or other services to our subscribers or to detect unauthorized reception of cable communications, as well as for other purposes described in this notice.</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
 	<u>When You Interact With Us</u>: Subscriber Information may include information which you provide to us such as your name, service address, billing address, work address, email address, home telephone number, work telephone number, mobile phone number, date of birth, social security number, driver's license number, credit card number and expiration date, bank account number, and other financial information. In addition, as part of our normal course of business, we generate and maintain billing and account information such as your billing history, the services to which you have subscribed, your payment history, your maintenance and repair history, the kind, location, configuration, device identifiers, MAC, and IP addresses of equipment (including TV sets, set-top boxes, CableCARDs, modems, telephones, IP enabled devices) connected to our facilities. For customer services purposes, we also may keep copies of correspondence concerning your account or records of complaints or inquiries that may be made about our service. In addition, we may sometimes collect responses to customer satisfaction surveys for analytics and research purposes. We may also collect information that helps us detect unauthorized use of our services.</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
@@ -1476,7 +1460,7 @@
 	<li style="padding: 0px 0px 5px 10px; list-style-type: disc;">
 		<strong style="font-size: 1em; color: rgb(85, 85, 85);">Optimum Voice</strong>. If you are a subscriber of a covered Altice voice service such as Optimum Voice (which is an interconnected Voice-over-Internet Protocol "VoIP" service), we may collect customer proprietary network information ("CPNI"). CPNI is information that relates to the quantity, technical configuration, type, destination, location, and amount of use of an interconnected VoIP service or telecommunications service subscribed to by any customer, and that is made available to the carrier by the customer solely by virtue of the provider-customer relationship; and information contained in the bills pertaining to interconnected VoIP service, telephone exchange service or telephone toll service received by a customer. CPNI does not include the "subscriber list information" we collect, which includes your name, address, and telephone number that has been published or accepted for publication in any directory format, as well as (for business listings) your primary advertising classifications. The disclosure and use of CPNI is subject to specialized restrictions as described in Section F below.</li>
 	<li style="padding: 0px 0px 5px 10px; list-style-type: disc;">
-		<strong style="font-size: 1em; color: rgb(85, 85, 85);">Internet Service, including Optimum Online and Optimum WiFi Hotspots.</strong>.If you subscribe to a covered Altice high-speed Internet service such as Optimum Online, we may collect broadband data, including information regarding geolocation and/or service usage, including bandwidth used (including for specific third party website traffic and app usage), system and connection performance, browsers used, device type, device identifiers, dates and times of access, and internet resource requests/browsing history (such as a log of visited URLs). We may maintain records of Internet Protocol addresses and email accounts that we assign to you, as well as any violations or alleged violations of applicable terms and conditions of usage. Additional information about our privacy practices specific to our high-speed Internet service, including more detail regarding data collection, can be found in the <a href="/pages/privacy/ool.html">Additional Privacy Information for High Speed Internet Service</a>.</li>
+		<strong style="font-size: 1em; color: rgb(85, 85, 85);">Internet Service, including Optimum Online and Optimum WiFi Hotspots.</strong> If you subscribe to a covered Altice high-speed Internet service such as Optimum Online, we may collect broadband data, including information regarding geolocation and/or service usage, including bandwidth used (including for specific third party website traffic and app usage), system and connection performance, browsers used, device type, device identifiers, dates and times of access, and internet resource requests/browsing history (such as a log of visited URLs). We may maintain records of Internet Protocol addresses and email accounts that we assign to you, as well as any violations or alleged violations of applicable terms and conditions of usage. Additional information about our privacy practices specific to our high-speed Internet service, including more detail regarding data collection, can be found in the <a href="/pages/privacy/ool.html">Additional Privacy Information for High Speed Internet Service</a>.</li>
 	<li style="padding: 0px 0px 5px 10px; list-style-type: disc;">
 		<strong style="font-size: 1em; color: rgb(85, 85, 85); ">Optimum TV</strong>. If you are a digital cable television subscriber, we may also automatically collect information about your use of our systems, such as changing your television channel, reviewing listings in an electronic program guide, using your remote, interacting with your DVR, ordering or viewing on-demand programming, engaging in other interactive programming features, or when using the Optimum App (such as audio files when using voice-based search) or other similar IP enabled device applications. We collect this information for purposes and uses including billing, service optimization, troubleshooting and customer service, operations, programming, including VOD, pay-per-view, program and content recommendation features and functions, advertising targeting and optimization, data analytics, e-Bill, operation of certain Optimum Select services, and as otherwise described in the following section.<br>
 		&nbsp;</li>
@@ -1515,13 +1499,11 @@
 		&nbsp;</li>
 </ul>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
-	We may use Subscriber Information to generate de-identified or aggregated information - that is, data from which Personally Identifiable Information has been removed. We may also employ automated processes to generate de-identified or aggregated information from any of our Covered Services. De-identified or aggregated information does not identify you in a personal way, and our collection, use, and disclosure of de-identified or aggregate information is not subject to any of the restrictions in this notice and its use and disclosure is subject to our discretion. For example, we may use de-identified or aggregated information for purposes such as measurement of viewership of programming and advertising, creation of tuning and viewing cohorts or segmentations, providing targeted content for our services or facilitating delivery of relevant third party advertising/promotional messages through our Covered Services.</p>
+	We may use Subscriber Information to generate de-identified or aggregated information - that is, data from which Personally Identifiable Information has been removed. We may also employ automated processes to generate de-identified or aggregated information from any of our Covered Services. De-identified or aggregated information does not identify you in a personal way, and our collection, use, and disclosure of de-identified or aggregate information is not subject to any of the restrictions in this notice and its use and disclosure is subject to our discretion. For example, we may use de-identified or aggregated information for purposes such as measurement of viewership of programming and advertising, creation of tuning and viewing cohorts or segmentations, providing targeted content for our services or facilitating delivery of relevant third party advertising/promotional messages through our Covered Services and on third party websites and other platforms.</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
-	We may use certain Subscriber Information, including viewing activity and other use of the cable system (as described in Section A above), broadband data (also as described in Section A) and Personally Identifiable Information, for marketing or analytics purposes. Such use may include facilitating display ads for our products and services shown to you on other websites and web services across the Internet. When we do this, we may provide third party service providers with access to certain of your Personally Identifiable Information in order to place de-identified coded data into cookies on your browser (or employ similar technology), and to provide you with more relevant offers and updates through display media. If you do not wish to receive these types of ads, you may opt out of most such advertising by going to the following websites, operated by industry trade and self-regulatory organizations: <a href="http://networkadvertising.org/choices">http://networkadvertising.org/choices</a> (operated by the Network Advertising Initiative) or <a href="http://www.aboutads.info">http://www.aboutads.info (operated by the Digital Advertising Alliance)</a>.</p>
+	We may use certain Subscriber Information, including viewing activity and other use of the cable system (as described in Section A above), broadband data (also as described in Section A) and Personally Identifiable Information, for marketing or analytics purposes. Such use may include facilitating display ads for our products and services shown to you on other websites and web services across the Internet. When we do this, we may provide third party service providers with access to certain of your Personally Identifiable Information in order to place de-identified coded data into cookies on your browser (or employ similar technology), and to provide you with more relevant offers and updates through display media.</p>
 <p style="font-size:1em; color:rgb(85,85,85); padding-top:0px; padding-right: 0px; padding-bottom:10px; padding-left:0px; margin-top:0px; margin-right: 0px; margin-bottom:0px; margin-left:0px;">
-	If you are a digital cable television subscriber, we may use the viewing activity or usage data that we have collected, in combination with data we receive from third parties (such as data collected when you visit or log in to third party websites or engage in offline transactions), to deliver ads to audiences based on demographic information (e.g., gender or household size) and/or interest information (e.g., travel or sports). We may work with third party data and service providers who de-identify data we hold to facilitate this advertising and link it to the above data. You can opt out of many of these providers through the links provided in the preceding paragraph, or you can opt out directly through us, as described in the below paragraph.</p>
-<p style="font-size:1em; color:rgb(85,85,85); padding-top:0px; padding-right: 0px; padding-bottom:10px; padding-left:0px; margin-top:0px; margin-right: 0px; margin-bottom:0px; margin-left:0px;">
-	Although not required to do so, we offer you a choice as to whether you wish to have targeted third party advertising/promotional messages delivered to your set-top box or certain other IP-enabled device applications. To exercise this choice, PLEASE CALL US AT 1-888-425-2591 or visit <a href="http://optimum.net/privacy-preferences">http://optimum.net/privacy-preferences</a>. Additionally, Altice provides Subscribers with the opportunity to restrict the use of program and content recommendations in association with certain Altice services, including our recommendations features and functions, by visiting <a href="http://optimum.net/privacy-preferences">http://optimum.net/privacy-preferences</a>. Please note, your preferences may not take effect immediately and do not retroactively apply to existing advertising/promotional messages or campaigns.</p>
+	If you are a digital cable television or internet subscriber, we may use de-identified viewing activity or usage data that we have collected and/or IP address(es) we assign to subscribers, in combination with data we receive or license from third parties (such as data collected when you visit or log in to third party websites or engage in offline transactions), to deliver television and digital ads to audiences based on demographic information (e.g., gender or household size) and/or interest information (e.g., travel or sports) across different screens and platforms. We may also work with third party data and service providers who de-identify data we hold to facilitate this advertising and link it to the above third party data. You can opt out of certain marketing messages as described in the Access and Choice section below.</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
 	Our use of certain Subscriber Information associated with voice service however, is limited as described in Section F below.</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
@@ -1581,7 +1563,14 @@
 	You also have the right to inspect Personally Identifiable Information that Altice has collected and maintains in connection with the provision of Covered Services to you. If you would like access to such information, please notify us in writing at the local business office specified on your service bill. We will then contact you to set up an appointment during regular business hours. Please note, Altice reserves the right to charge you its reasonable costs in connection with retrieving Subscriber Information and providing you with access thereto. In order to obtain telephone CPNI, please see Section F below.</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
 	Subscribers may choose not to receive promotional or marketing telephone calls or postal mailings regarding the Covered Services by contacting us at 1-888-425-2088 for placement on Altice's "Do Not Call" list or by contacting us at 1-888-425-2090 for placement on Altice's "Do Not Mail" list. Please note, any Subscriber requests after May 1, 2010 to be placed on the "Do Not Mail" list will only be effective for the 12-month period following such request. If Subscribers wish to continue to remain on the "Do Not Mail" list, Subscribers will need to make another request upon the expiration of the previous request. Please also note, "Do Not Call" and "Do Not Mail" requests may take up to thirty (30) days to become effective.<br>
-	&nbsp;</p>
+	<br>
+	If you do not wish to receive display ads for our products and services shown to you on other websites and web services across the internet, you may opt out of most such advertising by going to the following websites, operated by industry trade and self-regulatory organizations: <a href="http://networkadvertising.org/choices"> http://networkadvertising.org/choices</a> (operated by the Network Advertising Initiative) or <a href="http://www.aboutads.info">http://www.aboutads.info</a> (operated by the Digital Advertising Alliance).<br>
+	<br>
+	We also offer you a choice as to whether you wish to receive targeted third party advertising/promotional messages delivered to your set-top box, certain other IP-enabled device applications, or on third party websites. To exercise this choice, please visit <a href="http://optimum.net/privacy-preferences">http://optimum.net/privacy-preferences</a>.<br>
+	<br>
+	Additionally, Altice provides Subscribers with the opportunity to restrict the use of program and content recommendations in association with certain Altice services, including our recommendations features and functions, by visiting <a href="http://optimum.net/privacy-preferences">http://optimum.net/privacy-preferences</a>.<br>
+	<br>
+	Please note, your opt-out preferences may not take effect immediately and do not retroactively apply to existing advertising/promotional messages or campaigns. &nbsp;</p>
 <p>
 	<strong>F. Special Rules About Telephone-Related Information</strong></p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
@@ -1606,10 +1595,10 @@
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
 	If you have any questions about our privacy protections, notices and policies, please write to us at:</p>
 <div class="pdLt15" style="font-size: 1em; color: rgb(85, 85, 85); padding-left: 15px; ">
-	CSC Holdings, LLC<br>
+	Altice<br>
 	Attn. Shared Services Dept<br>
-	6 Corporate Center Drive<br>
-	Melville, NY 11747<br>
+	200 Jericho Quadrangle<br>
+	Jericho, NY 11753<br>
 	&nbsp;</div>
 <p>
 	<strong>J. Updates To This Notice</strong></p>
@@ -1617,7 +1606,7 @@
 	We will review this privacy notice periodically as we deem appropriate and when we change or update Covered Services. We will notify you of any material changes by posting the revised notice on our Optimum website or by written or electronic correspondence. Your use of the Covered Service(s) following the notice of a revised notice constitutes your acceptance of the revised privacy notice.</p>
 <br>
 <p style="margin-bottom:50px;">
-	Effective September 6, 2017</p>
+	Effective October 15, 2018</p>
 
 						</div>
 						
@@ -1746,10 +1735,10 @@
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
 	Individuals who reside in California and who have provided their Personally Identifiable Information to the website may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests must be submitted to us at the following address:</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
-	CSC Holdings, LLC<br>
+	Altice<br>
 	Attn. Shared Services Dept<br>
-	6 Corporate Center Drive<br>
-	Melville NY 11747</p>
+	200 Jericho Quadrangle<br>
+	Jericho, NY 11753</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
 	Such requests may be made only once each calendar year. We may not respond to requests sent to addresses other than the one shown above.</p>
 <p>
@@ -1763,13 +1752,13 @@
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
 	Please contact us if you have any questions about this Privacy Notice:<br>
 	<br>
-	CSC Holdings, LLC<br>
+	Altice<br>
 	Attn. Shared Services Dept<br>
-	6 Corporate Center Drive<br>
-	Melville NY 11747<br>
+	200 Jericho Quadrangle<br>
+	Jericho, NY 11753<br>
 	&nbsp;</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
-	Effective October 10, 2016</p>
+	Effective October 15, 2018</p>
 <p>
 	&nbsp;</p>
 <p>
@@ -1831,16 +1820,16 @@ We generally keep some or all information for as long as necessary for the purpo
 <br>
 If you have any questions about our privacy protections and notices, please write to us at:<br>
 <br>
-Altice USA<br>
-Attn: Shared Services<br>
-6 Corporate Center Drive<br>
-Melville, NY 11747<br>
+Altice<br>
+Attn. Shared Services Dept<br>
+200 Jericho Quadrangle<br>
+Jericho, NY 11753<br>
 <br>
 <strong>F. Updates To The Notice</strong><br>
 <br>
 We will review this privacy notice periodically as we deem appropriate and when we change or update the Mobile Applications. Altice may, in its sole discretion, change, modify, add, or remove portions of this Notice at any time. Altice may notify you of any material changes by making the revised Notice available to you through the Mobile Applications, by written or electronic correspondence, or through an update - required or otherwise - to the application. Your use of the Mobile Applications, following notice of such change, modification or amendment, constitutes your acceptance of the revised privacy notice. If you do not agree to any portion of the revised Notice, you must cease all use of the application.<br>
 <br>
-Effective November 6, 2017 
+Effective October 15, 2018
 						</div>
 						
 					
@@ -1875,7 +1864,7 @@ Effective November 6, 2017
 <p>
 	<strong>A. Information We Collect and Receive, and How We Collect It</strong></p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
-	In connection with the initiation and ongoing provisioning of Covered Services, as well as with our ongoing efforts to improve the quality and value of the Covered Services, we may maintain certain information related to you that you provide to us or that we collect using the cable systems ("Subscriber Information"). Certain Subscriber Information may be personally identifiable ("Personally Identifiable Information"). Personally Identifiable Information does not include, among other things, any aggregate data or other data which does not identify a particular person or information which by itself does not identify a particular person, such as your zip code, gender, MAC address or other equipment identifiers, or certain other unique numbers or codes. We may collect Personally Identifiable Information using the cable system in order to obtain information necessary to render our cable service or other services to our subscribers or to detect unauthorized reception of cable communications, as well as for other purposes described in this notice.</p>
+	In connection with the initiation and ongoing provisioning of Covered Services, as well as with our ongoing efforts to improve the quality and value of the Covered Services, we may maintain certain information related to you that you provide to us or that we collect using the cable systems ("Subscriber Information"). Certain Subscriber Information may be personally identifiable ("Personally Identifiable Information"). Personally Identifiable Information does not include, among other things, any aggregate data or other data which does not identify a particular person or information which by itself does not identify a particular person, such as your zip code, gender, IP Address, MAC address or other equipment identifiers, or certain other unique numbers or codes. We may collect Personally Identifiable Information using the cable system in order to obtain information necessary to render our cable service or other services to our subscribers or to detect unauthorized reception of cable communications, as well as for other purposes described in this notice.</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
 	<u>When You Interact With Us</u>: Subscriber Information may include information which you provide to us such as your name, service address, billing address, work address, email address, home telephone number, work telephone number, mobile phone number, date of birth, social security number, driver's license number, credit card number and expiration date, bank account number, and other financial information. In addition, as part of our normal course of business, we generate and maintain billing and account information such as your billing history, the services to which you have subscribed, your payment history, your maintenance and repair history, the kind, location, configuration, device identifiers, MAC, and IP addresses of equipment (including TV sets, set-top boxes, CableCARDs, modems, telephones, IP enabled devices) connected to our facilities. For customer services purposes, we also may keep copies of correspondence concerning your account or records of complaints or inquiries that may be made about our service. In addition, we may sometimes collect responses to customer satisfaction surveys for analytics and research purposes. We may also collect information that helps us detect unauthorized use of our services.</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
@@ -1884,7 +1873,7 @@ Effective November 6, 2017
 	<li style="padding: 0px 0px 5px 10px; list-style-type: disc;">
 		<strong style="font-size: 1em; color: rgb(85, 85, 85);">Optimum Voice</strong>. If you are a subscriber of a covered Altice voice service such as Optimum Voice (which is an interconnected Voice-over-Internet Protocol "VoIP" service), we may collect customer proprietary network information ("CPNI"). CPNI is information that relates to the quantity, technical configuration, type, destination, location, and amount of use of an interconnected VoIP service or telecommunications service subscribed to by any customer, and that is made available to the carrier by the customer solely by virtue of the provider-customer relationship; and information contained in the bills pertaining to interconnected VoIP service, telephone exchange service or telephone toll service received by a customer. CPNI does not include the "subscriber list information" we collect, which includes your name, address, and telephone number that has been published or accepted for publication in any directory format, as well as (for business listings) your primary advertising classifications. The disclosure and use of CPNI is subject to specialized restrictions as described in Section F below.</li>
 	<li style="padding: 0px 0px 5px 10px; list-style-type: disc;">
-		<strong style="font-size: 1em; color: rgb(85, 85, 85);">Internet Service, including Optimum Online and Optimum WiFi Hotspots.</strong>.If you subscribe to a covered Altice high-speed Internet service such as Optimum Online, we may collect broadband data, including information regarding geolocation and/or service usage, including bandwidth used (including for specific third party website traffic and app usage), system and connection performance, browsers used, device type, device identifiers, dates and times of access, and internet resource requests/browsing history (such as a log of visited URLs). We may maintain records of Internet Protocol addresses and email accounts that we assign to you, as well as any violations or alleged violations of applicable terms and conditions of usage. Additional information about our privacy practices specific to our high-speed Internet service, including more detail regarding data collection, can be found in the <a href="/pages/privacy/ool.html">Additional Privacy Information for High Speed Internet Service</a>.</li>
+		<strong style="font-size: 1em; color: rgb(85, 85, 85);">Internet Service, including Optimum Online and Optimum WiFi Hotspots.</strong> If you subscribe to a covered Altice high-speed Internet service such as Optimum Online, we may collect broadband data, including information regarding geolocation and/or service usage, including bandwidth used (including for specific third party website traffic and app usage), system and connection performance, browsers used, device type, device identifiers, dates and times of access, and internet resource requests/browsing history (such as a log of visited URLs). We may maintain records of Internet Protocol addresses and email accounts that we assign to you, as well as any violations or alleged violations of applicable terms and conditions of usage. Additional information about our privacy practices specific to our high-speed Internet service, including more detail regarding data collection, can be found in the <a href="/pages/privacy/ool.html">Additional Privacy Information for High Speed Internet Service</a>.</li>
 	<li style="padding: 0px 0px 5px 10px; list-style-type: disc;">
 		<strong style="font-size: 1em; color: rgb(85, 85, 85); ">Optimum TV</strong>. If you are a digital cable television subscriber, we may also automatically collect information about your use of our systems, such as changing your television channel, reviewing listings in an electronic program guide, using your remote, interacting with your DVR, ordering or viewing on-demand programming, engaging in other interactive programming features, or when using the Optimum App (such as audio files when using voice-based search) or other similar IP enabled device applications. We collect this information for purposes and uses including billing, service optimization, troubleshooting and customer service, operations, programming, including VOD, pay-per-view, program and content recommendation features and functions, advertising targeting and optimization, data analytics, e-Bill, operation of certain Optimum Select services, and as otherwise described in the following section.<br>
 		&nbsp;</li>
@@ -1923,13 +1912,11 @@ Effective November 6, 2017
 		&nbsp;</li>
 </ul>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
-	We may use Subscriber Information to generate de-identified or aggregated information - that is, data from which Personally Identifiable Information has been removed. We may also employ automated processes to generate de-identified or aggregated information from any of our Covered Services. De-identified or aggregated information does not identify you in a personal way, and our collection, use, and disclosure of de-identified or aggregate information is not subject to any of the restrictions in this notice and its use and disclosure is subject to our discretion. For example, we may use de-identified or aggregated information for purposes such as measurement of viewership of programming and advertising, creation of tuning and viewing cohorts or segmentations, providing targeted content for our services or facilitating delivery of relevant third party advertising/promotional messages through our Covered Services.</p>
+	We may use Subscriber Information to generate de-identified or aggregated information - that is, data from which Personally Identifiable Information has been removed. We may also employ automated processes to generate de-identified or aggregated information from any of our Covered Services. De-identified or aggregated information does not identify you in a personal way, and our collection, use, and disclosure of de-identified or aggregate information is not subject to any of the restrictions in this notice and its use and disclosure is subject to our discretion. For example, we may use de-identified or aggregated information for purposes such as measurement of viewership of programming and advertising, creation of tuning and viewing cohorts or segmentations, providing targeted content for our services or facilitating delivery of relevant third party advertising/promotional messages through our Covered Services and on third party websites and other platforms.</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
-	We may use certain Subscriber Information, including viewing activity and other use of the cable system (as described in Section A above), broadband data (also as described in Section A) and Personally Identifiable Information, for marketing or analytics purposes. Such use may include facilitating display ads for our products and services shown to you on other websites and web services across the Internet. When we do this, we may provide third party service providers with access to certain of your Personally Identifiable Information in order to place de-identified coded data into cookies on your browser (or employ similar technology), and to provide you with more relevant offers and updates through display media. If you do not wish to receive these types of ads, you may opt out of most such advertising by going to the following websites, operated by industry trade and self-regulatory organizations: <a href="http://networkadvertising.org/choices">http://networkadvertising.org/choices</a> (operated by the Network Advertising Initiative) or <a href="http://www.aboutads.info">http://www.aboutads.info (operated by the Digital Advertising Alliance)</a>.</p>
+	We may use certain Subscriber Information, including viewing activity and other use of the cable system (as described in Section A above), broadband data (also as described in Section A) and Personally Identifiable Information, for marketing or analytics purposes. Such use may include facilitating display ads for our products and services shown to you on other websites and web services across the Internet. When we do this, we may provide third party service providers with access to certain of your Personally Identifiable Information in order to place de-identified coded data into cookies on your browser (or employ similar technology), and to provide you with more relevant offers and updates through display media.</p>
 <p style="font-size:1em; color:rgb(85,85,85); padding-top:0px; padding-right: 0px; padding-bottom:10px; padding-left:0px; margin-top:0px; margin-right: 0px; margin-bottom:0px; margin-left:0px;">
-	If you are a digital cable television subscriber, we may use the viewing activity or usage data that we have collected, in combination with data we receive from third parties (such as data collected when you visit or log in to third party websites or engage in offline transactions), to deliver ads to audiences based on demographic information (e.g., gender or household size) and/or interest information (e.g., travel or sports). We may work with third party data and service providers who de-identify data we hold to facilitate this advertising and link it to the above data. You can opt out of many of these providers through the links provided in the preceding paragraph, or you can opt out directly through us, as described in the below paragraph.</p>
-<p style="font-size:1em; color:rgb(85,85,85); padding-top:0px; padding-right: 0px; padding-bottom:10px; padding-left:0px; margin-top:0px; margin-right: 0px; margin-bottom:0px; margin-left:0px;">
-	Although not required to do so, we offer you a choice as to whether you wish to have targeted third party advertising/promotional messages delivered to your set-top box or certain other IP-enabled device applications. To exercise this choice, PLEASE CALL US AT 1-888-425-2591 or visit <a href="http://optimum.net/privacy-preferences">http://optimum.net/privacy-preferences</a>. Additionally, Altice provides Subscribers with the opportunity to restrict the use of program and content recommendations in association with certain Altice services, including our recommendations features and functions, by visiting <a href="http://optimum.net/privacy-preferences">http://optimum.net/privacy-preferences</a>. Please note, your preferences may not take effect immediately and do not retroactively apply to existing advertising/promotional messages or campaigns.</p>
+	If you are a digital cable television or internet subscriber, we may use de-identified viewing activity or usage data that we have collected and/or IP address(es) we assign to subscribers, in combination with data we receive or license from third parties (such as data collected when you visit or log in to third party websites or engage in offline transactions), to deliver television and digital ads to audiences based on demographic information (e.g., gender or household size) and/or interest information (e.g., travel or sports) across different screens and platforms. We may also work with third party data and service providers who de-identify data we hold to facilitate this advertising and link it to the above third party data. You can opt out of certain marketing messages as described in the Access and Choice section below.</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
 	Our use of certain Subscriber Information associated with voice service however, is limited as described in Section F below.</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
@@ -1989,7 +1976,14 @@ Effective November 6, 2017
 	You also have the right to inspect Personally Identifiable Information that Altice has collected and maintains in connection with the provision of Covered Services to you. If you would like access to such information, please notify us in writing at the local business office specified on your service bill. We will then contact you to set up an appointment during regular business hours. Please note, Altice reserves the right to charge you its reasonable costs in connection with retrieving Subscriber Information and providing you with access thereto. In order to obtain telephone CPNI, please see Section F below.</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
 	Subscribers may choose not to receive promotional or marketing telephone calls or postal mailings regarding the Covered Services by contacting us at 1-888-425-2088 for placement on Altice's "Do Not Call" list or by contacting us at 1-888-425-2090 for placement on Altice's "Do Not Mail" list. Please note, any Subscriber requests after May 1, 2010 to be placed on the "Do Not Mail" list will only be effective for the 12-month period following such request. If Subscribers wish to continue to remain on the "Do Not Mail" list, Subscribers will need to make another request upon the expiration of the previous request. Please also note, "Do Not Call" and "Do Not Mail" requests may take up to thirty (30) days to become effective.<br>
-	&nbsp;</p>
+	<br>
+	If you do not wish to receive display ads for our products and services shown to you on other websites and web services across the internet, you may opt out of most such advertising by going to the following websites, operated by industry trade and self-regulatory organizations: <a href="http://networkadvertising.org/choices"> http://networkadvertising.org/choices</a> (operated by the Network Advertising Initiative) or <a href="http://www.aboutads.info">http://www.aboutads.info</a> (operated by the Digital Advertising Alliance).<br>
+	<br>
+	We also offer you a choice as to whether you wish to receive targeted third party advertising/promotional messages delivered to your set-top box, certain other IP-enabled device applications, or on third party websites. To exercise this choice, please visit <a href="http://optimum.net/privacy-preferences">http://optimum.net/privacy-preferences</a>.<br>
+	<br>
+	Additionally, Altice provides Subscribers with the opportunity to restrict the use of program and content recommendations in association with certain Altice services, including our recommendations features and functions, by visiting <a href="http://optimum.net/privacy-preferences">http://optimum.net/privacy-preferences</a>.<br>
+	<br>
+	Please note, your opt-out preferences may not take effect immediately and do not retroactively apply to existing advertising/promotional messages or campaigns. &nbsp;</p>
 <p>
 	<strong>F. Special Rules About Telephone-Related Information</strong></p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
@@ -2014,10 +2008,10 @@ Effective November 6, 2017
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
 	If you have any questions about our privacy protections, notices and policies, please write to us at:</p>
 <div class="pdLt15" style="font-size: 1em; color: rgb(85, 85, 85); padding-left: 15px; ">
-	CSC Holdings, LLC<br>
+	Altice<br>
 	Attn. Shared Services Dept<br>
-	6 Corporate Center Drive<br>
-	Melville, NY 11747<br>
+	200 Jericho Quadrangle<br>
+	Jericho, NY 11753<br>
 	&nbsp;</div>
 <p>
 	<strong>J. Updates To This Notice</strong></p>
@@ -2025,7 +2019,7 @@ Effective November 6, 2017
 	We will review this privacy notice periodically as we deem appropriate and when we change or update Covered Services. We will notify you of any material changes by posting the revised notice on our Optimum website or by written or electronic correspondence. Your use of the Covered Service(s) following the notice of a revised notice constitutes your acceptance of the revised privacy notice.</p>
 <br>
 <p style="margin-bottom:50px;">
-	Effective September 6, 2017</p>
+	Effective October 15, 2018</p>
 
 						</section>
 					
@@ -2150,10 +2144,10 @@ Effective November 6, 2017
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
 	Individuals who reside in California and who have provided their Personally Identifiable Information to the website may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests must be submitted to us at the following address:</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
-	CSC Holdings, LLC<br>
+	Altice<br>
 	Attn. Shared Services Dept<br>
-	6 Corporate Center Drive<br>
-	Melville NY 11747</p>
+	200 Jericho Quadrangle<br>
+	Jericho, NY 11753</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
 	Such requests may be made only once each calendar year. We may not respond to requests sent to addresses other than the one shown above.</p>
 <p>
@@ -2167,13 +2161,13 @@ Effective November 6, 2017
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
 	Please contact us if you have any questions about this Privacy Notice:<br>
 	<br>
-	CSC Holdings, LLC<br>
+	Altice<br>
 	Attn. Shared Services Dept<br>
-	6 Corporate Center Drive<br>
-	Melville NY 11747<br>
+	200 Jericho Quadrangle<br>
+	Jericho, NY 11753<br>
 	&nbsp;</p>
 <p style="font-size: 1em; color: rgb(85, 85, 85); padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
-	Effective October 10, 2016</p>
+	Effective October 15, 2018</p>
 <p>
 	&nbsp;</p>
 <p>
@@ -2231,16 +2225,16 @@ We generally keep some or all information for as long as necessary for the purpo
 <br>
 If you have any questions about our privacy protections and notices, please write to us at:<br>
 <br>
-Altice USA<br>
-Attn: Shared Services<br>
-6 Corporate Center Drive<br>
-Melville, NY 11747<br>
+Altice<br>
+Attn. Shared Services Dept<br>
+200 Jericho Quadrangle<br>
+Jericho, NY 11753<br>
 <br>
 <strong>F. Updates To The Notice</strong><br>
 <br>
 We will review this privacy notice periodically as we deem appropriate and when we change or update the Mobile Applications. Altice may, in its sole discretion, change, modify, add, or remove portions of this Notice at any time. Altice may notify you of any material changes by making the revised Notice available to you through the Mobile Applications, by written or electronic correspondence, or through an update - required or otherwise - to the application. Your use of the Mobile Applications, following notice of such change, modification or amendment, constitutes your acceptance of the revised privacy notice. If you do not agree to any portion of the revised Notice, you must cease all use of the application.<br>
 <br>
-Effective November 6, 2017 
+Effective October 15, 2018
 						</section>
 					
 				
@@ -2268,7 +2262,7 @@ Effective November 6, 2017
 
         <div class="search-group">
           <form data-ng-submit="CommonFooterCtrl.faqSearch()">
-            <input type="text" class="" data-ng-model="CommonFooterCtrl.footerSearchVal" placeholder="Search FAQs">
+            <input type="text" class="" data-ng-model="CommonFooterCtrl.footerSearchVal" placeholder="Search FAQs" no-specialchar="">
             <a data-ng-click="CommonFooterCtrl.faqSearch()" class="btn btn--secondary search-glass"><i class="icon-search"></i></a>
           </form>
         </div>
@@ -2277,34 +2271,34 @@ Effective November 6, 2017
         <div id="common-questions">
           <div data-ng-show="CommonFooterCtrl.isESI.common">
               <div ng-hide="$root.isEspanolLang">
-                  <h5>Frequently Asked Questions</h5><a href="/pages/tv/tv-remote.html" class="no-left no-wrap">Programming My Remote Control</a><span class="ellipsis"> • </span><a href="http://optimum.custhelp.com/app/answers/detail/a_id/1886" class="no-left no-wrap">Optimum Hotspots</a><span class="ellipsis"> • </span><a href="http://optimum.custhelp.com/app/answers/detail/a_id/311" class="no-left no-wrap">Online Bill Pay</a>
+                  <h5>Frequently Asked Questions</h5><a href="/pages/tv/tv-remote.html" class="no-left no-wrap">Programming My Remote Control</a><span class="ellipsis"> • </span><a href="https://www.optimum.net/FAQ/#/answers/a_id/1886" class="no-left no-wrap">Optimum Hotspots</a><span class="ellipsis"> • </span><a href="https://www.optimum.net/FAQ/#/answers/a_id/311" class="no-left no-wrap">Online Bill Pay</a>
               </div>
               <div ng-show="$root.isEspanolLang">
-                  <h5>Preguntas frecuentes</h5><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/3125" class="no-left no-wrap">Programar mi control remoto</a><span class="ellipsis"> • </span><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/3192" class="no-left no-wrap">Hotspots de Optimum</a><span class="ellipsis"> • </span><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/2994" class="no-left no-wrap">Con pago de factura en linea</a>
+                  <h5>Preguntas frecuentes</h5><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/3125" class="no-left no-wrap">Programar mi control remoto</a><span class="ellipsis"> • </span><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/3192" class="no-left no-wrap">Hotspots de Optimum</a><span class="ellipsis"> • </span><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/2994" class="no-left no-wrap">Con pago de factura en linea</a>
               </div>
           </div>
           <div data-ng-show="CommonFooterCtrl.isESI.tv">
               <div ng-hide="$root.isEspanolLang">
-                  <h5>TV Frequently Asked Questions</h5><a href="/pages/tv/tv-remote.html" class="no-left no-wrap">Programming My Remote Control</a><span class="ellipsis"> • </span><a href="http://optimum.custhelp.com/app/answers/detail/a_id/2500/kw/power%20on/session/L3RpbWUvMTM2ODU3NjQ3MC9zaWQvNmpCU2ljcWw%3D" class="no-left no-wrap">Viewer: Power On Feature</a><span class="ellipsis"> • </span><a href="http://optimum.custhelp.com/app/answers/detail/a_id/1511" class="no-left no-wrap">Setting Up My HDTV</a>
+                  <h5>TV Frequently Asked Questions</h5><a href="/pages/tv/tv-remote.html" class="no-left no-wrap">Programming My Remote Control</a><span class="ellipsis"> • </span><a href="https://www.optimum.net/FAQ/#/answers/a_id/2500" class="no-left no-wrap">Viewer: Power On Feature</a><span class="ellipsis"> • </span><a href="https://www.optimum.net/FAQ/#/answers/a_id/2240" class="no-left no-wrap">Setting Up My HDTV</a>
               </div>
               <div ng-show="$root.isEspanolLang">
-                  <h5>TV Preguntas frecuentes</h5><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/3125" class="no-left no-wrap">Programar mi control remoto</a><span class="ellipsis"> • </span><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/3391" class="no-left no-wrap">Canal de encendido</a><span class="ellipsis"> • </span><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/3272" class="no-left no-wrap">Configurar mi HDTV</a>
+                  <h5>TV Preguntas frecuentes</h5><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/3125" class="no-left no-wrap">Programar mi control remoto</a><span class="ellipsis"> • </span><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/3391" class="no-left no-wrap">Canal de encendido</a><span class="ellipsis"> • </span><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/3272" class="no-left no-wrap">Configurar mi HDTV</a>
               </div>
           </div>
           <div data-ng-show="CommonFooterCtrl.isESI.internet">
               <div ng-hide="$root.isEspanolLang">
-                  <h5>Internet Frequently Asked Questions</h5><a href="http://optimum.custhelp.com/app/answers/detail/a_id/1886" class="no-left no-wrap">Optimum Hotspots</a><span class="ellipsis"> • </span><a href="http://optimum.custhelp.com/app/answers/detail/a_id/2679/kw/create%20an%20optimum%20id" class="no-left no-wrap">Create an Optimum ID</a><span class="ellipsis"> • </span><a href="http://optimum.custhelp.com/app/answers/detail/a_id/27" class="no-left no-wrap">Accessing My Email</a><span class="ellipsis"> • </span><a href="http://optimum.custhelp.com/app/answers/detail/a_id/3730" class="no-left no-wrap">Internet Protection</a>
+                  <h5>Internet Frequently Asked Questions</h5><a href="https://www.optimum.net/FAQ/#/answers/a_id/1886" class="no-left no-wrap">Optimum Hotspots</a><span class="ellipsis"> • </span><a href="https://www.optimum.net/FAQ/#/answers/a_id/2679" class="no-left no-wrap">Create an Optimum ID</a><span class="ellipsis"> • </span><a href="https://www.optimum.net/FAQ/#/answers/a_id/27" class="no-left no-wrap">Accessing My Email</a>
               </div>
               <div ng-show="$root.isEspanolLang">
-                  <h5>Preguntas frecuentes de Internet</h5><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/3192" class="no-left no-wrap">Hotspots de Optimum</a><span class="ellipsis"> • </span><a href="http://espanol.optimum.com/sdoptimumenespanol/dcusthelp/app/answers/list/search/1/kw/create%20optimum%20id" class="no-left no-wrap">Como crear una ID de Optimum</a><span class="ellipsis"> • </span><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/2944" class="no-left no-wrap">Acceder a su correo electronico</a><span class="ellipsis"> • </span><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/3720" class="no-left no-wrap">Proteccion para Internet de McAfee</a>
+                  <h5>Preguntas frecuentes de Internet</h5><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/3192" class="no-left no-wrap">Hotspots de Optimum</a><span class="ellipsis"> • </span><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/2945" class="no-left no-wrap">Como crear una ID de Optimum</a><span class="ellipsis"> • </span><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/2944" class="no-left no-wrap">Acceder a su correo electronico</a><span class="ellipsis"> • </span><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/3742" class="no-left no-wrap">Proteccion para Internet de McAfee</a>
               </div>
           </div>
           <div data-ng-show="CommonFooterCtrl.isESI.paybill">
               <div ng-hide="$root.isEspanolLang">
-                  <h5>Pay Bill Frequently Asked Questions</h5><a href="http://optimum.custhelp.com/app/answers/detail/a_id/310" class="no-left no-wrap">Bill Payment Options</a><span class="ellipsis"> • </span><a href="http://optimum.custhelp.com/app/answers/detail/a_id/311" class="no-left no-wrap">Online Bill Pay</a><span class="ellipsis"> • </span><a href="http://optimum.custhelp.com/app/answers/detail/a_id/312" class="no-left no-wrap">Making a Late Payment</a>
+                  <h5>Pay Bill Frequently Asked Questions</h5><a href="https://www.optimum.net/FAQ/#/answers/a_id/310" class="no-left no-wrap">Bill Payment Options</a><span class="ellipsis"> • </span><a href="https://www.optimum.net/FAQ/#/answers/a_id/311" class="no-left no-wrap">Online Bill Pay</a><span class="ellipsis"> • </span><a href="https://www.optimum.net/FAQ/#/answers/a_id/312" class="no-left no-wrap">Making a Late Payment</a>
               </div>
               <div ng-show="$root.isEspanolLang">
-                  <h5>Opciones de pago Preguntas frecuentes</h5><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/2993" class="no-left no-wrap">Opciones de pago de factura</a><span class="ellipsis"> • </span><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/2994" class="no-left no-wrap">Con pago de factura en linea</a><span class="ellipsis"> • </span><a href="http://optimumenespanol.custhelp.com/app/answers/detail/a_id/2995" class="no-left no-wrap">Hacer un pago atrasado</a>
+                  <h5>Opciones de pago Preguntas frecuentes</h5><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/2993" class="no-left no-wrap">Opciones de pago de factura</a><span class="ellipsis"> • </span><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/2994" class="no-left no-wrap">Con pago de factura en linea</a><span class="ellipsis"> • </span><a href="https://espanol.optimum.net/FAQ/#/answers/a_id/2995" class="no-left no-wrap">Hacer un pago atrasado</a>
               </div>
           </div>
         </div>
@@ -2319,7 +2313,7 @@ Effective November 6, 2017
       <div class="span4">
         <h2 id="contact-us"><a href="/support/contact-us/">Contact Us</a></h2>
         <ul id="contact-list">
-          <li><a class="no-left" href="/support/livepage/chat"><span class="txt"><i class="icon-comments"></i> Live chat now</span></a></li><li><a class="no-left" href="/support/livepage/email"><span class="txt"><i class="icon-envelope-alt"></i> Email us</span></a></li><li><a class="no-left" href="https://twitter.com/OptimumHelp"><span class="txt"><i class="icon-twitter"></i> @OptimumHelp</span></a></li><li><a class="no-left" href="/support/contact-us#optimum-store"><span class="txt"><i class="icon-stores-white"></i> Optimum Stores</span></a></li>
+          <li><a class="no-left" href="/support/livepage/chat"><span class="txt"><i class="icon-comments"></i> Chat Now</span></a></li><li><a class="no-left" href="https://twitter.com/OptimumHelp"><span class="txt"><i class="icon-twitter"></i> @OptimumHelp</span></a></li><li><a class="no-left" href="/support/contact-us#optimum-store"><span class="txt"><i class="icon-stores-white"></i> Optimum Stores</span></a></li>
         </ul>
       </div>
 
@@ -2486,7 +2480,7 @@ Effective November 6, 2017
             <div data-ng-show="BottomDefaultCtrl.hasSession &amp;&amp; BottomDefaultCtrl.hasService.phone" class="pull-right btn btn--secondary-accent gamma"><a href="{{BottomDefaultCtrl.phoneLink}}/Voicemail"><i class="icon icon-phone"></i>{{BottomDefaultCtrl.badge.phone}}</a></div>
             <div data-ng-hide="BottomDefaultCtrl.hasSession &amp;&amp; BottomDefaultCtrl.hasService.phone" class="pull-right btn btn--secondary-accent gamma"><a href="{{BottomDefaultCtrl.phoneLink}}/Voicemail"><i class="icon icon-phone"></i></a></div>
             </li>
-            <li><a href="/smarthome/">Smart Home</a></li>
+            <li><a href="/pages/smarthome-info.html">Smart Home</a></li>
           </ul>
           </div>
           <hr>
@@ -2496,7 +2490,8 @@ Effective November 6, 2017
             <li><a data-ng-click="BottomDefaultCtrl.forward()">Pay bill</a></li>
             <li><a href="/support/">Support </a><div data-ng-show="BottomDefaultCtrl.badge.support > 0" class="btn btn--alert pull-right"><a href="/support/"></a><a href="/support/alerts-and-notifications"><i class="icon-exclamation-major"></i> {{BottomDefaultCtrl.badge.support}}</a></div>
             </li>
-             <li><a data-ng-show="BottomDefaultCtrl.hasSession &amp;&amp; BottomDefaultCtrl.primary" href="/service-appointments/">Service Appointments</a></li>
+            <li ng-hide="BottomDefaultCtrl.isBiz"><a href="/upgrades/" omtr="trackme" title="Upgrades Menu">Upgrades</a></li><a href="/upgrades/" omtr="trackme" title="Upgrades Menu">
+             </a><li><a href="/upgrades/" omtr="trackme" title="Upgrades Menu"></a><a data-ng-show="BottomDefaultCtrl.hasSession &amp;&amp; BottomDefaultCtrl.primary" href="/service-appointments/">Service Appointments</a></li>
             <li>
 				  <a href="{{BottomDefaultCtrl.outageLink}}" class="btn btn--secondary-accent-text support-alert-btn">
 					  <div class="mobile-support-alert-icon">
@@ -2556,13 +2551,13 @@ Effective November 6, 2017
     <!-- application script includes -->
     
     
-    <script src="/vendor.min.js?201712141557"></script>
+    <script src="/vendor.min.js?201810291537"></script>
     
-    <script src="/main.min.js?201712141557"></script>
+    <script src="/main.min.js?201810291537"></script>
     
-    <script src="/cms-templates/text-anchors/.min.js?201712141557"></script>
+    <script src="/cms-templates/text-anchors/.min.js?201810291537"></script>
     
-    <script src="/support/outage/outage.js?201712141557"></script>
+    <script src="/support/outage/outage.js?201810291537"></script>
     
 
     <script type="text/javascript">
