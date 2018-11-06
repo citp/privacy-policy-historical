@@ -1,18 +1,24 @@
-> *The following text is extracted and transformed from the geoscienceworld.org privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030104923id_/http%3A//geoscienceworld.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geoscienceworld.org privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106143755id_/https%3A//pubs.geoscienceworld.org/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GeoScienceWorld
+# Privacy Policy
+
+**Privacy Policy**
 
 GeoScienceWorld is committed to ensuring that your privacy is protected. As an end-user, should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement. This Privacy Policy provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you.
 
 By using this site, you consent to the collection and use of information as outlined below. We may change this policy from time to time by updating this page. If such an event occurs we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. You should check this page from time to time to ensure that you are informed of and content with any changes.
 
+**Legal Basis**
+
+GeoScienceWorld is collecting and processing individual personal data for the legitimate interests of GeoScienceWorld, including the proper administration of this website, customer service, and promotion of GeoScienceWorld offerings. 
+
 **Information We Collect**
 
-  * Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs and other communication data. 
-  * Information that you provide by registering for an account on the GeoScienceWorld portal (name, email address), or by filling in forms on our website, such as when you signup to receive email alerts or register for personalization options on the GeoScienceWorld portal. 
-  * Information provided to us when you communicate with us for any reason, including submitting a question or request through the [feedback/contact us](http://portal-stage.geoscienceworld.org/feedback) form on our site.
+Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs and other communication data.
 
+Information that you provide by registering for an account on the GeoScienceWorld portal (name, email address), or by filling in forms on our website, such as when you signup to receive email alerts or register for personalization options on the GeoScienceWorld portal.
 
+Information provided to us when you communicate with us for any reason, including submitting a question or request through the feedback/contact us form on our site.
 
 **Specific to the GeoScienceWorld Portal**
 
@@ -44,6 +50,16 @@ Please be advised that we do not reveal information about identifiable individua
 
 Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into on our site will be encrypted to enhance its safety. The transmission of information via the Internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Further, we cannot guarantee that information stored on our system or otherwise in our care will be immune from unintended release or unauthorized intrusion. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential.
 
+**Access to Personal Data**
+
+An individual who wishes to access, correct, or delete their personal data should direct their inquiry to GeoScienceWorld as provided under “Contact Us,” below.
+
+**Retention of Personal Data**
+
+We will retain personal data that we process for as long as needed to provide our services and otherwise serve the legitimate interests of GeoScienceWorld.
+
+**Site of Processing of Personal Data** Personal data of individuals collected by GeoScienceWorld may be stored and processed in the United States, Europe, or any other country in which GeoScienceWorld, its vendors, or partners maintain facilities. GeoScienceWorld may transfer personal data for processing across borders and from your country or jurisdiction to other countries or jurisdictions around the world.
+
 **Ecommerce Transactions**
 
 Ecommerce transactions on our sites are managed by 3rd party transaction providers, such as PayPal and its affiliates. Credit card or account numbers are not visible to GeoScienceWorld employees.
@@ -62,4 +78,4 @@ As a nonprofit collaborative organization, we share some customer data with our 
 
 **Contacting Us**
 
-We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to [send us feedback](http://portal-stage.geoscienceworld.org/feedback).
+We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to [send us feedback](https://pubs.geoscienceworld.org/contact-us). 
