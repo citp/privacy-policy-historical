@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessinsider.in privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614221602id_/https%3A//www.businessinsider.in/privacypolicy.cms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessinsider.in privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107002934id_/https%3A//www.businessinsider.in/privacypolicy.cms) for the most accurate reproduction.*
 
 # Privacy Policy
 
