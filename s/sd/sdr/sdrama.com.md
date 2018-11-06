@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdrama.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529220216id_/http%3A//sdrama.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdrama.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106094924id_/http%3A//sdrama.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - sdrama.com
 
@@ -6,7 +6,7 @@
 
 * * *
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at sdramacp@gmail.com.
 
 At sdrama.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by sdrama.com and how we use it. 
 
