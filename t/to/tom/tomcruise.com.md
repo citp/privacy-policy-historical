@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tomcruise.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621142212id_/http%3A//tomcruise.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomcruise.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106112358id_/http%3A//www.tomcruise.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Official Tom Cruise: Reel, Bio, & Filmography
+# Official Tom Cruise Website
 
 Odin Domains, LLC and its website at www.tomcruise.com (“we,” “our” or “us”) believe that your privacy is very important. This Policy outlines the types of personally identifiable information and other data that we will collect from you through your use of our website (our "Website"), and how we will use and when we might disclose such information and data to third parties. Your installation and/or use of these Website and/or submission of information to us constitute your consent to this Privacy Policy. This Privacy Policy is effective as of August 10, 2015 and was last modified on November 18, 2016.
 
