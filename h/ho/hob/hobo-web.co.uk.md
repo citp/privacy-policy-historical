@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hobo-web.co.uk privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003052344id_/https%3A//www.hobo-web.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobo-web.co.uk privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106011306id_/https%3A//www.hobo-web.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - hobo
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
-**(1)       What information do we collect?**
+ **(1)       What information do we collect?**
 
 We may collect, store and use the following kinds of personal data:
 
@@ -18,7 +18,7 @@ We may collect, store and use the following kinds of personal data:
 
 (e)      any other information that you choose to send to us.
 
-**(2)       Cookies**
+ **(2)       Cookies**
 
 A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
@@ -34,7 +34,7 @@ We publish Google Adsense interest-based advertisements on our website.  These 
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies.  For example, in Internet Explorer you can refuse all cookies by clicking ‘Tools’, ‘Internet Options’, ‘Privacy’, and selecting ‘Block all cookies’ using the sliding selector.  Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
 
-**(3)       Using your personal data**
+ **(3)       Using your personal data**
 
 Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
 
@@ -64,7 +64,7 @@ Where you submit personal information for publication on our website, we will pu
 
 We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
 
-**(4)      Disclosures**
+ **(4)      Disclosures**
 
 We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors in so far as reasonably necessary for the purposes as set out in this privacy policy.
 
@@ -80,7 +80,7 @@ In addition, we may disclose information about you:
 
 Except as provided in this privacy policy, we will not provide your information to third parties.
 
-**(6)       Security of your personal data**
+ **(6)       Security of your personal data**
 
 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
@@ -88,26 +88,26 @@ Note, data transmission over the internet is inherently insecure, and we cannot 
 
 You are responsible for keeping your password and user details confidential if you use any part of this site that requires having them. We will not ask you for your password.
 
-**(7)       Policy amendments**
+ **(7)       Policy amendments**
 
 We may update this privacy policy from time-to-time by posting a new version on our website.  You should check this page occasionally to ensure you are happy with any changes.
 
 We may also notify you of changes to our privacy policy by email.
 
-**(8)       Your rights**
+ **(8)       Your rights**
 
 You may instruct us to provide you with any personal information we hold about you.  Provision of such information may be subject to the payment of a fee (currently fixed at £10.00).
 
 You may instruct us not to process your personal data for marketing purposes by email  at any time.  (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.)
 
-**(9)       Third party websites**
+ **(9)       Third party websites**
 
 The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites. Click on links at your own risk, although we promise never to intentionally compromise your system or details.
 
-**(10)     Updating information**
+ **(10)     Updating information**
 
 Please let us know if the personal information which we hold about you needs to be corrected or updated.
 
-**(11)    Contact**
+ **(11)    Contact**
 
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [info@hobo-web.co.uk](mailto:mail@therapyadvertising.com) or by post to MBSA Marketing Ltd, 68 Finnart Street, , Greenock, PA16 8HJ, Scotland, UK.
