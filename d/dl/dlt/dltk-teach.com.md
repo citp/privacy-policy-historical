@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dltk-teach.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624072936id_/http%3A//www.dltk-kids.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dltk-teach.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106160358id_/http%3A//www.dltk-kids.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,7 +65,7 @@ I almost never show last names. I only show last names if the person is a grown 
 ### **Other Partners**
 
   1. There are a few features on the sites that we have offered in conjunction with a third party because we do not have the expertise to create these ourselves.  Because they are provided by third parties we do not control the technical backbone so you may wish to refer to the privacy policy of these third parties to be sure you are comfortable with the way they may handle the information you are providing.  Here are some links: 
-    * [Java Jigsaw Puzzles](http://www.dltk-kids.com/puzzles/archives.asp?t=Jigzone) by Jigzone.com ([Jigzone Privacy Policy](http://www.jigzone.com/faq/privacy))
+    * [Java Jigsaw Puzzles](https://www.dltk-kids.com/puzzles/archives.asp?t=Jigzone) by Jigzone.com ([Jigzone Privacy Policy](http://www.jigzone.com/faq/privacy))
 
 
 
