@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fliggo.com privacy policy that was archived on 2018-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180421130329id_/http%3A//www.fliggo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fliggo.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106214739id_/http%3A//www.fliggo.com/privacy-policy) for the most accurate reproduction.*
 
 # Fliggo.com Privacy Policy
 
