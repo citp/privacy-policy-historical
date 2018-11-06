@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dfiles.ru privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526021318id_/https%3A//depositfiles.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfiles.ru privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106225200id_/https%3A//depositfiles.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Mobile DepositFiles
 
