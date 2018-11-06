@@ -1,0 +1,1703 @@
+<!--The following is the downloaded HTML source of the zoro.com privacy policy that was archived on 2018-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181106082347id_/https%3A//www.zoro.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" xmlns:fb="http://ogp.me/ns#" class=" async-hide"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-Compatible" content="ie=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-spa-1099.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQMBUVRUGwoBVlRTAAQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(21),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{l?l-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(22),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",l=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(13),t(12),"addEventListener"in window&&t(6),c.xhrWrappable&&t(14),d=!0)}s.on("fn-start",function(t,e,n){d&&(l+=1)}),s.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&l>0&&(l-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,N=y.hash,this[u]=g.now()}function o(){M--,y.hash!==N&&i(0,!0);var t=g.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=g.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,p="cb"+s,l="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,g=t("loader");if(w[v]&&g.xhrWrappable){var b=t(10),x=t(11),E=t(8),O=t(6),P=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),S=j.get("tracer");t(15),g.features.spa=!0;var N,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(l,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),O.buffer([u]),P.buffer(["setTimeout"+c,"clearTimeout"+s,u]),T.buffer([u,"new-xhr","send-xhr"+s]),R.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),b.buffer([u]),x.buffer(["propagate",p,l,"executor-err","resolve"+s]),S.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+s),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+s),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),s=t(12),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",l="-start",h="-end",m="fn"+l,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(8);var b=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,e){var n=t[0];n instanceof b&&i("bst",[n,e,this.bstStart,g.now()])}),a.on(m,function(t,e,n){this.bstStart=g.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+l,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(24)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(21);e.exports=o;var a=window,s="fetch-",c=s+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,l="prototype";u&&d&&p&&(i(f,function(t,e){r(u[l],e,c),r(d[l],e,c)}),r(a,"fetch",s),o.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(s+"done",[null,e],n)}else o.emit(s+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(24)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){c.emit("jsonp-error",[],p),c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=s(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),c.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t("ee").get("jsonp"),f=t(24)(c);if(e.exports=c,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,l=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,l,"dom-"),f.inPlace(HTMLHeadElement.prototype,l,"dom-"),f.inPlace(HTMLBodyElement.prototype,l,"dom-"),c.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(24)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=s(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(24),a=t("ee").get("promise"),s=i(a),c=t(21),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),s=f.resolve(i);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this),t[1]=s(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),s.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=s(t[0],"cb-",this),t[1]=s(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(24)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(24)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(24)(u),p=NREUM.o,l=p.XHR,h=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var b=window.XMLHttpRequest=function(t){var e=new l(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(l,b),b.prototype=l.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(e.cat=c.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),l=t(19),h=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,l&&(l>34||l<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var s=0;s<d;s++)e.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(21),s=t(22),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],21:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],22:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],23:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],24:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(22),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],s])}u(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],s),d}finally{u(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<e.length;c++)s=e[c],a=t[s],r(a)||(t[s]=n(a,f?s+o:o,i,s))}function u(n,r,o){if(!c||e){var i=c;c=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}c=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),s=m(n),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[n]];return d&&d.push([b,n,r,a]),a}}function l(t,e){y[t]=m(t).concat(e)}function h(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},b={on:l,addEventListener:l,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var s="nr@context",c=t("gos"),f=t(21),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(g,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(21),u=t("ee"),d=t(20),p=window,l=p.document,h="addEventListener",m="attachEvent",v=p.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:v,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1099.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(17),l[h]?(l[h]("DOMContentLoaded",i,!1),p[h]("load",r,!1)):(l[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(23)},{}]},{},["loader",2,15,5,3,4]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"licenseKey":"6510193432","transactionName":"YFYBMEYACEJVUUFQWVkcJRFaAhJYW1waTlNVHRUNURYVH1dfRmZGVlQGFw4iCV9AV01NQ1ZfNQ1RFkhua1FUVVpobE1YWA4FUFhBCxdBRVITFFEFOUddV0I=","agent":"","errorBeacon":"bam.nr-data.net","applicationTime":34,"queueTime":0,"beacon":"bam.nr-data.net","applicationID":"9125175"}</script>
+    <title>
+      Zoro Privacy Policy
+    </title>
+    
+      <meta name="robots" content="index, follow">
+    
+    <!-- base meta, css, js -->
+    
+    <meta name="description" content="Zoro Privacy Policy">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+    
+  
+    <link rel="canonical" href="/privacy">
+  
+  
+      <script>
+  var _gaq = _gaq || [];
+  var dataLayer = [];
+  // override _gaq.push to convert to GTM dataLayer push
+  _gaq.push = function (args) {
+    if (args[0] == '_trackEvent') {
+      var category = args[1];
+      var action = args[2];
+      var label = args[3];
+
+      dataLayer.push({
+        'event': 'trackEvent',
+        'ev_category': category,
+        'ev_action': action,
+        'ev_label': label
+      });
+    } // trackEvent handler
+
+    if (args[0] == '_setCustomVar') {
+      var name = args[2];
+      var val = args[3];
+      var nameObj = {};
+      nameObj[name] = val;
+      dataLayer.push(nameObj);
+    } // setCustomVar handler
+  };
+</script>
+      
+        <!-- BEGIN: Google Optimize page-hiding snippet (recommended) -->
+  <style>.async-hide { opacity: 0 !important} </style>
+  <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+  h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+  (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+  })(window,document.documentElement,'async-hide','dataLayer',4000,
+  {'GTM-TP46KN9':true});</script>
+<!-- END: Google Optimize page-hiding snippet (recommended) -->
+
+<!-- BEGIN: Google Analytics and Optimize snippet -->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-19975088-1', 'auto');
+  ga('require', 'GTM-TP46KN9');
+  </script>
+<!-- END: Google Analytics and Optimize snippet -->
+      
+      
+
+
+
+<!--base Meta-->
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta equiv="Expires" content="0">
+<!-- MS Bing validation -->
+<meta name="msvalidate.01" content="35F5C98069E1745B46748155FE822732">
+<!-- MS Bing validation -->
+
+<!-- Silver Pop Tracking -->
+<meta name="com.silverpop.brandeddomains" content="www.pages02.net">
+<meta name="com.silverpop.cothost" content="pod2.ibmmarketingcloud.com">
+<!-- Silver Pop Tracking -->
+
+<!-- Chrome 39+ on Android browser theme color -->
+<meta name="theme-color" content="#3C6F9C">
+<!-- Chrome 39+ on Android browser theme color -->
+
+
+  <!-- Pinterest Validation -->
+  <meta name="p:domain_verify" content="c17643dc96811f800fc13ce9b53a7e60">
+
+
+<!-- base stylesheets -->
+<link rel="SHORTCUT ICON" href="/favicon.ico">
+
+<!-- inject:head-css:css -->
+<link rel="stylesheet" href="//d1i1j9h9jcbcvu.cloudfront.net/css/dist.64c048a9.min.css">
+<!-- endinject -->
+
+<!-- base fonts -->
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i" rel="stylesheet">
+
+<script type="application/ld+json">
+[{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "name": "Zoro",
+  "url": "https://www.zoro.com"
+},
+
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "https://www.zoro.com",
+  "logo": "https://cloudfront.zoro.com/img/logos/zoro_logo_V2-160x64.png",
+"sameAs": [
+    "https://www.facebook.com/zorotools/",
+    "https://www.linkedin.com/company/zoro_us/",
+    "https://plus.google.com/u/0/+zoro_us/",
+    "https://instagram.com/zoro.t.fox/",
+    "https://twitter.com/zoro_us/"
+    ],
+ "contactPoint": [
+   { "@type": "ContactPoint",
+    "telephone": "+1-855-289-9676",
+    "contactType": "Customer Service"
+    }
+  ]
+}]
+</script>
+
+<script>
+  window.preloadContent = {};
+  window.preloadContent.setPreloadInteraction = function (element) {
+    if(element.classList.contains('loaded')){
+      return false;
+    }
+    element.setAttribute('data-preload-interaction', true);
+    // using Array.from() for IE 11 compatibility
+    var forms = Array.from(document.querySelectorAll('form[data-preload-interaction] button.progress-holder'));
+    forms.forEach(function(button) {
+      button.disabled = true;
+    });
+    return false;
+  }
+</script>
+
+    
+
+    
+  <script src="//d1i1j9h9jcbcvu.cloudfront.net/bundle/cms/index.bundle.c1953bd6.js" async=""></script></head>
+
+  <body id="page_zoro_info" class="page_zoro_info_privacy">
+
+  
+  <!-- Google Tag Manager (no script) -->
+  <noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PRN85X"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript>
+  
+  <!-- End Google Tag Manager (no script) -->
+
+
+
+  <section id="fb-root"></section>
+
+  
+
+
+
+
+
+<header id="layout_header" class="">
+
+  
+
+  <link rel="stylesheet" type="text/css" href="https://cloudfront.zoro.com/img/css/global-promo.css">
+<div id="global-promo-banner" class="green text-center">
+Four Ways to Save!<span>•</span><strong>20% OFF Multiple Categories</strong><span>•</span><a href="/coupons-promo-codes/" data-cms-id="tracking-cms-pages" data-cms-location="global-promo-banner" data-cms-element="0-20181101_CustSolWinterizing">See Details <i class="fa fa-chevron-circle-right" aria-hidden="true"></i></a>
+</div>
+
+
+
+  <div class="zoro-header hidden-xs">
+    <!-- START DESKTOP TOP BAR -->
+    <div class="topbar">
+      <div id="container-header" class="container">
+
+        <div class="pull-left top-col-header-logo">
+  <a href="//www.zoro.com" data-ns-a="//www.zoro.com">
+  <div id="logo-usa" title="Zoro Logo USA"></div>
+</a>
+</div>
+
+        
+
+        <!--  START DESKTOP SEARCH FIELD -->
+
+  <div id="search-form-master" class="pull-left">
+    <div class="search-master top-col-search">
+      <form id="search-form" action="/search" name="searchX" method="GET">
+        <div class="input-group">
+          <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+          <label id="search-input-label" class="only-for-screen-reader" for="search-input">Enter Search Term</label>
+          <input id="search-input" type="text" class="form-control sayt-input" value="" placeholder="Get your search on..." accesskey="S" name="q" autocomplete="off">
+          <span class="input-group-btn">
+        <button type="submit" class="btn btn-primary">
+          <i class="fa fa-search"></i>
+        </button>
+      </span>
+        </div>
+      </form>
+      <div class="sayt-menu hidden">
+        <ul class="sayt-autocomplete"></ul>
+        <ul class="sayt-details"></ul>
+      </div>
+    </div>
+  </div>
+
+<!--  END DESKTOP SEARCH FIELD -->
+
+        
+
+
+
+<!-- START HEADER USER CONTROLS -->
+<div class="zoro-controls pull-right top-col-user-panel">
+  
+    <div id="header-my-account" class="pull-left">
+      <div id="header-user-panel">
+        
+        <div id="welcome-msg">Welcome</div>
+        <div id="my-account-panel">
+          <div id="logged-in-panel">
+            
+              <a href="https://checkout.zoro.com/c.1326902/myaccount/index.ssp?n=3&amp;sc=6&amp;ext=T">My Account</a>
+              <span class="divider-icon"></span>
+            
+            <a href="https://checkout.zoro.com/s.nl/c.1326902/n.3/.f?logoff=T&amp;login=T" class="logoff-link" data-ns-a="https://checkout.zoro.com/s.nl/c.1326902/n.3/.f?logoff=T&amp;login=T">Sign Out</a>
+          </div>
+          <div id="logged-out-panel">
+            
+              <a href="/sign-in/">Sign In/Register</a>
+            
+          </div>
+        </div>
+
+      </div>
+    </div>
+  
+
+  
+
+
+
+<div class="zoro-controls-cart pull-right">
+  <a href="//www.zoro.com/cart/" data-ns-a="//www.zoro.com/cart/">
+    <div id="cart-icon-desktop" class="fa fa-shopping-cart"></div>
+    <i><span id="cart-item-count" class="cart-item-count">...</span></i>
+    <div id="cart-menu-item">Cart</div>
+  </a>
+</div>
+
+</div>
+<!-- END HEADER USER CONTROLS -->
+
+        
+
+
+
+<iframe id="cart-frame" class="hidden"></iframe>
+<iframe id="bridge-frame" class="hidden" data-params="&amp;url=//d1i1j9h9jcbcvu.cloudfront.net/dist/bridge/index.js"></iframe>
+<div id="erp-iframe-container" class="hidden"></div>
+
+
+      </div>
+    </div>
+    <!-- END DESKTOP TOP BAR -->
+    <!-- START DESKTOP SECONDARY TOP BAR -->
+    <div class="secondary-topbar">
+      <div class="container">
+        <div class="hidden-xs">
+          
+
+
+
+
+
+<!--  START DESKTOP CATEGORY MENU -->
+<div class="cssmenu pull-left">
+
+  <ul>
+    <li class="has-sub">
+      <div id="menu-header"><i class="fa fa-bars"></i>
+        <span id="shop-categories-menu" class="main-heading-font">
+          
+            Shop Categories
+          
+        </span>
+      </div>
+      <ul id="cssmenu-level0">
+        
+          
+          
+            <li id="cssmenu-level0-0" class="has-sub">
+              <a href="/safety-security">
+                Safety &amp; Security<i class="fa fa-chevron-right pull-right"></i>
+              </a>
+              <ul id="cssmenu-level1">
+                <li>
+                  <a href="/safety-security">
+                    <span class="cssmenu-title main-heading-font">Safety &amp; Security</span>
+                  </a>
+                </li>
+                
+                  <li>
+                    <a href="/fall-protection-facility-traffic-safety-equipment/c/14/">
+                      Fall Protection, Facility &amp; Traffic Safety Equipment
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/gloves-eyewear-ear-protection-masks-clothing/c/13/">
+                      Gloves, Eyewear, Ear Protection, Masks &amp; Clothing
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/padlocks-lockouttagout-security-equipment/c/28/">
+                      Padlocks, Lockout/Tagout &amp; Security Equipment
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/signs-labels/c/29/">
+                      Signs &amp; Labels
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/test-instruments-gauges/c/24/">
+                      Test Instruments &amp; Gauges
+                    </a>
+                  </li>
+                
+              </ul>
+            </li>
+          
+            <li id="cssmenu-level0-1" class="has-sub">
+              <a href="/tools-machining">
+                Tools &amp; Machining<i class="fa fa-chevron-right pull-right"></i>
+              </a>
+              <ul id="cssmenu-level1">
+                <li>
+                  <a href="/tools-machining">
+                    <span class="cssmenu-title main-heading-font">Tools &amp; Machining</span>
+                  </a>
+                </li>
+                
+                  <li>
+                    <a href="/abrasives-polishers/c/1/">
+                      Abrasives &amp; Polishers
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/cutting-holemaking-shaping-tools/c/2/">
+                      Cutting, Holemaking &amp; Shaping Tools
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/hand-tools/c/10/">
+                      Hand Tools
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/knobs-handles-workholding-machine-tool-accessories/c/8/">
+                      Knobs, Handles, Workholding &amp; Machine Tool Accessories
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/power-tools-and-accessories/c/11/">
+                      Power Tools and Accessories
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/raw-materials/c/37/">
+                      Raw Materials
+                    </a>
+                  </li>
+                
+              </ul>
+            </li>
+          
+            <li id="cssmenu-level0-2" class="has-sub">
+              <a href="/plumbing-hvac">
+                Plumbing &amp; HVAC<i class="fa fa-chevron-right pull-right"></i>
+              </a>
+              <ul id="cssmenu-level1">
+                <li>
+                  <a href="/plumbing-hvac">
+                    <span class="cssmenu-title main-heading-font">Plumbing &amp; HVAC</span>
+                  </a>
+                </li>
+                
+                  <li>
+                    <a href="/fans-hvac-equipment/c/30/">
+                      Fans &amp; HVAC Equipment
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/pipes-valves-fittings/c/33/">
+                      Pipes, Valves &amp; Fittings
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/c/39/">
+                      Pumps
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/toilets-sinks-faucets-plumbing-supplies/c/34/">
+                      Toilets, Sinks, Faucets &amp; Plumbing Supplies
+                    </a>
+                  </li>
+                
+              </ul>
+            </li>
+          
+            <li id="cssmenu-level0-3" class="has-sub">
+              <a href="/material-handling">
+                Material Handling<i class="fa fa-chevron-right pull-right"></i>
+              </a>
+              <ul id="cssmenu-level1">
+                <li>
+                  <a href="/material-handling">
+                    <span class="cssmenu-title main-heading-font">Material Handling</span>
+                  </a>
+                </li>
+                
+                  <li>
+                    <a href="/carts-trucks-casters/c/16/">
+                      Carts, Trucks &amp; Casters
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/drum-dock-equipment/c/18/">
+                      Drum &amp; Dock Equipment
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/material-handling-equipment-pulling-lifting-lowering-conveying/c/17/">
+                      Material Handling Equipment (Pulling, Lifting, Lowering, Conveying)
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/storage-shelving-ladders-lifts/c/15/">
+                      Storage, Shelving, Ladders &amp; Lifts
+                    </a>
+                  </li>
+                
+              </ul>
+            </li>
+          
+            <li id="cssmenu-level0-4" class="has-sub">
+              <a href="/electrical-lighting">
+                Electrical &amp; Lighting<i class="fa fa-chevron-right pull-right"></i>
+              </a>
+              <ul id="cssmenu-level1">
+                <li>
+                  <a href="/electrical-lighting">
+                    <span class="cssmenu-title main-heading-font">Electrical &amp; Lighting</span>
+                  </a>
+                </li>
+                
+                  <li>
+                    <a href="/electrical-supplies-generators/c/23/">
+                      Electrical Supplies &amp; Generators
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/lighting-flashlights-batteries/c/22/">
+                      Lighting, Flashlights &amp; Batteries
+                    </a>
+                  </li>
+                
+              </ul>
+            </li>
+          
+            <li id="cssmenu-level0-5" class="has-sub">
+              <a href="/adhesives-fasteners-welding">
+                Adhesives, Fasteners, &amp; Welding<i class="fa fa-chevron-right pull-right"></i>
+              </a>
+              <ul id="cssmenu-level1">
+                <li>
+                  <a href="/adhesives-fasteners-welding">
+                    <span class="cssmenu-title main-heading-font">Adhesives, Fasteners, &amp; Welding</span>
+                  </a>
+                </li>
+                
+                  <li>
+                    <a href="/adhesives-sealants/c/4/">
+                      Adhesives &amp; Sealants
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/fasteners/c/9/">
+                      Fasteners
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/tapes-electrical-duct-painters/c/5/">
+                      Tapes (Electrical, Duct, Painters)
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/welding-soldering-equipment-supplies/c/6/">
+                      Welding &amp; Soldering Equipment &amp; Supplies
+                    </a>
+                  </li>
+                
+              </ul>
+            </li>
+          
+            <li id="cssmenu-level0-6" class="has-sub">
+              <a href="/janitorial-grounds-maintenance">
+                Janitorial &amp; Grounds Maintenance<i class="fa fa-chevron-right pull-right"></i>
+              </a>
+              <ul id="cssmenu-level1">
+                <li>
+                  <a href="/janitorial-grounds-maintenance">
+                    <span class="cssmenu-title main-heading-font">Janitorial &amp; Grounds Maintenance</span>
+                  </a>
+                </li>
+                
+                  <li>
+                    <a href="/door-and-cabinet-hinges-hardware/c/27/">
+                      Door and Cabinet Hinges &amp; Hardware
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/grounds-maintenance-outdoor-equipment/c/21/">
+                      Grounds Maintenance &amp; Outdoor Equipment
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/janitorial-cleaning-supplies/c/25/">
+                      Janitorial &amp; Cleaning Supplies
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/paint-coatings-supplies/c/26/">
+                      Paint, Coatings &amp; Supplies
+                    </a>
+                  </li>
+                
+              </ul>
+            </li>
+          
+            <li id="cssmenu-level0-7" class="has-sub">
+              <a href="/power-transmission-pneumatics">
+                Power Transmission &amp; Pneumatics<i class="fa fa-chevron-right pull-right"></i>
+              </a>
+              <ul id="cssmenu-level1">
+                <li>
+                  <a href="/power-transmission-pneumatics">
+                    <span class="cssmenu-title main-heading-font">Power Transmission &amp; Pneumatics</span>
+                  </a>
+                </li>
+                
+                  <li>
+                    <a href="/auto-truck-maintenance/c/36/">
+                      Auto &amp; Truck Maintenance
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/bearings-v-belts-power-transmission-equipment/c/31/">
+                      Bearings, V-belts &amp; Power Transmission Equipment
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/compressors-air-tanks-pneumatic-tools/c/12/">
+                      Compressors, Air Tanks &amp; Pneumatic Tools 
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/fluids-lubricants/c/3/">
+                      Fluids &amp; Lubricants
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/hydraulic-cylinders-equipment/c/32/">
+                      Hydraulic Cylinders &amp; Equipment
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/motors/c/38/">
+                      Motors
+                    </a>
+                  </li>
+                
+              </ul>
+            </li>
+          
+            <li id="cssmenu-level0-8" class="has-sub">
+              <a href="/office-shipping">
+                Office &amp; Shipping<i class="fa fa-chevron-right pull-right"></i>
+              </a>
+              <ul id="cssmenu-level1">
+                <li>
+                  <a href="/office-shipping">
+                    <span class="cssmenu-title main-heading-font">Office &amp; Shipping</span>
+                  </a>
+                </li>
+                
+                  <li>
+                    <a href="/office-supplies-furniture-breakroom-supplies/c/19/">
+                      Office Supplies, Furniture &amp; Breakroom Supplies
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a href="/shipping-packing-supplies/c/20/">
+                      Shipping &amp; Packing Supplies
+                    </a>
+                  </li>
+                
+              </ul>
+            </li>
+          
+        
+      </ul>
+    </li>
+  </ul>
+</div>
+<!--  END DESKTOP CATEGORY MENU -->
+          
+            <div class="secondary-nav pull-right">
+              <!-- Start Secondary Nav for USA -->
+<style>
+.secondary-nav {
+padding-right:0px !important;
+}
+
+li.main-heading-font.nav-shipping{
+padding-right: 265px;
+color: #efefef;
+margin-right:0px;
+letter-spacing: 0.05em;
+font-weight: 400;
+}
+
+span.yellow {
+color: #fee26b;
+}
+
+@media (max-width: 1199px) {
+li.main-heading-font.nav-shipping {
+    padding-right: 165px; /* Turn off the flexible box layout */
+}
+}
+
+@media (max-width: 991px) {
+li.main-heading-font.nav-shipping {
+    padding-right: 55px; /* Turn off the flexible box layout */
+}
+}
+</style>
+<ul><li class="main-heading-font nav-shipping"><a href="/shipping/"><span class="yellow">Free Shipping</span> on orders over $50!</a></li><li><a href="/about/">About Us</a></li><li><a href="/coupons-promo-codes/">Promo Codes</a></li><li><a href="/contact/">Contact Us</a></li></ul>
+<!-- End Secondary Nav for USA -->
+            </div>
+          
+        </div>
+      </div>
+    </div>
+    <!-- END DESKTOP SECONDARY TOP BAR -->
+  </div>
+
+  <!-- START MOBILE HEADER -->
+  <div class="zoro-header-mobile visible-xs">
+    <nav class="mobile-navbar" role="navigation">
+  <div class="navbar-header">
+    <a id="hamburger-collapse" class="menu-container
+    
+    collapsed
+    
+    " data-target="#hamburger-menu" data-toggle="collapse" data-parent=".collapse-group" aria-expanded="false">
+      <div id="hamburger-icon" class="mobile-nav pull-left">
+        <i class="fa fa-bars"></i>
+      </div>
+    </a>
+
+    <div class="logo-container pull-left">
+  <a href="//www.zoro.com" data-ns-a="//www.zoro.com">
+  <div id="logo-usa" title="Zoro Logo USA"></div>
+</a>
+</div>
+
+    
+
+
+
+<div class="zoro-controls-cart pull-right">
+  <a href="//www.zoro.com/cart/" data-ns-a="//www.zoro.com/cart/">
+    <div id="cart-icon-desktop" class="fa fa-shopping-cart"></div>
+    <i><span id="cart-item-count" class="cart-item-count">...</span></i>
+    <div id="cart-menu-item">Cart</div>
+  </a>
+</div>
+
+  </div>
+</nav>
+  </div>
+
+  <div class="nav-partners panel">
+
+    
+  <div id="search-drop" class="collapse in search-master">
+    <form action="/search" name="searchX" method="GET">
+      <div class="input-group">
+        <input type="text" class="form-control form-has-clear sayt-input" value="" placeholder="Get your search on..." accesskey="S" name="q" autocomplete="off">
+        <div class="sayt-menu hidden">
+          <ul class="sayt-autocomplete"></ul>
+        </div>
+        <span class="fa fa-times clearer form-control-feedback"></span>
+        <span class="input-group-btn">
+        <button type="submit" class="btn btn-primary">
+          <i class="fa fa-search"></i>
+        </button>
+      </span>
+      </div>
+    </form>
+  </div>
+
+    
+    
+
+
+
+<ul id="hamburger-menu" class="collapse">
+
+  
+
+    <li id="mobile-menu-shop-cats">
+      <a href="#category-menu" data-toggle="collapse" class="submenu">
+        <span class="main-heading-font">Shop Categories</span>
+        <i class="fa fa-chevron-down hamburger-toggle pull-right"></i>
+      </a>
+      <ul class="collapse drop-down-menu in" id="category-menu">
+        
+        
+          <li><a href="/adhesives-fasteners-welding">Adhesives, Fasteners, &amp; Welding</a></li>
+        
+          <li><a href="/electrical-lighting">Electrical &amp; Lighting</a></li>
+        
+          <li><a href="/janitorial-grounds-maintenance">Janitorial &amp; Grounds Maintenance</a></li>
+        
+          <li><a href="/material-handling">Material Handling</a></li>
+        
+          <li><a href="/office-shipping">Office &amp; Shipping</a></li>
+        
+          <li><a href="/plumbing-hvac">Plumbing &amp; HVAC</a></li>
+        
+          <li><a href="/power-transmission-pneumatics">Power Transmission &amp; Pneumatics</a></li>
+        
+          <li><a href="/safety-security">Safety &amp; Security</a></li>
+        
+          <li><a href="/tools-machining">Tools &amp; Machining</a></li>
+        
+      </ul>
+    </li>
+
+    <li>
+      <a id="resources-collapse" class="submenu" href="/about/">
+        <span>About Us</span>
+      </a>
+    </li>
+    <li>
+</li><li>
+      <a id="resources-collapse" class="submenu" href="/coupons-promo-codes/">
+        <span>Promo Codes</span>
+      </a>
+    </li>
+    <li>
+      <a id="contact-collapse" class="submenu" href="/contact/">
+        <span>Contact Us</span>
+      </a>
+    </li>
+
+    <div id="logged-in-panel">
+      <li>
+        <a id="contact-collapse" class="submenu" href="https://checkout.zoro.com/c.1326902/myaccount/index.ssp?n=3&amp;sc=6&amp;ext=T">
+          <span>My Account</span>
+        </a>
+      </li>
+      <li>
+        <a id="contact-collapse" class="submenu" href="https://checkout.zoro.com/s.nl/c.1326902/n.3/.f?logoff=T&amp;login=T">
+          <span>Sign Out</span>
+        </a>
+      </li>
+    </div>
+    <div id="logged-out-panel">
+      <li>
+        <a id="contact-collapse" class="submenu" href="/sign-in/">
+          <span>Sign In/Register</span>
+        </a>
+      </li>
+    </div>
+
+  
+
+</ul>
+
+
+  </div>
+  <!-- END MOBILE HEADER -->
+</header>
+
+
+  
+
+  
+    <link rel="stylesheet" type="text/css" href="https://cloudfront.zoro.com/img/css/cms-pages.css">
+
+<div class="container cms-container" data-gtm-page-type="zoro-info">
+
+<div class="row">
+	<div class="col-md-12">
+    	<h1 class="heading1">Zoro Privacy Summary</h1>
+        <h2 class="subheading"><em>Last modified: February, 2018</em></h2>
+        <p>Our <a href="#PrivacyPolicy">Privacy Policy</a> applies to our websites and brands and any other website, mobile application, or other online service that links to this Policy (collectively, our “Service”). You can read the full version of the <a href="#PrivacyPolicy">Privacy Policy</a> and find a summary below.</p>
+    </div>
+</div>
+
+<div class="row h-pt-md">
+		<div class="col-lg-12">
+            <h2 class="heading2">How Do We Use Personal Information and How Is it Collected? </h2>
+        </div>
+        <div class="col-lg-10 col-lg-offset-1">
+        <p>We collect many categories of personal information. The categories we collect may include: Contact and profile information; Comments, chat and opinions; Payment and transaction information; Location information; Information provided by social networks; Information provided by third parties; Information about fraudulent or criminal activity related to your account.</p>
+        <p>This personal information is collected from you in many ways, which are described in the <a href="#PrivacyPolicy">full Policy</a>. A few examples include:</p>
+        <ul>
+        	<li><strong>When You Submit Personal Information To Us</strong>. We collect personal information about you when you register for an account, make a purchase, sign up for marketing communications, or send it to us.</li>
+			<li><strong>When You Use Our Service</strong>. We collect some personal information about you automatically as you use our Service and visit our branches. </li>   
+            <li><strong>From Our Third-Party Partners</strong>. We may also collect personal information from our third-party partners who help us to provide the Service or from other third party partners to supplement or enhance our information. </li>        
+        </ul>	
+        <p>We may link or combine information that we collect about you from various sources to help ensure a consistent user experience regardless of how you interact with us – online, in-branch, on mobile, or on social media.</p>
+		<p>We use personal information to provide our Service; to fulfil your requests, process transactions and contact you; to send you personalized advertising and promotional content and materials; to analyse and improve our Service and our business; and for other reasons described more fully in our Privacy Policy. </p>
+<p>To <strong>Learn More</strong> about the information we collect and how we use it, or see our <a href="#PrivacyPolicy">full Policy</a>.</p>
+
+	</div>
+</div>
+<div class="row h-pt-md">
+	<div class="col-lg-12">
+		<h2 class="heading2">How Do We Share Information? </h2>
+            </div>
+        <div class="col-lg-10 col-lg-offset-1">
+        <p>We share information in a variety of circumstances to provide our services, respond to your requests, improve your experience, and otherwise conduct our business. For example, we may share information:</p>
+        <ul>
+        	<li>With our <u>parent W.W. Grainger, Inc. (“Grainger”)</u>, affiliates and <u>other</u> companies in the <u>Grainger</u> family of companies, who may use your information in the same was as we can under this <a href="#PrivacyPolicy">Privacy Policy</a></li>
+            <li>With third parties to fulfil your request, such as when you chose to share your activities on <u>Zoro</u> with your friends and contacts, or when you engage in promotional activities we provide with third party partners </li>
+            <li>With select third parties, so that they can provide you with information and marketing messages about products and services you may enjoy </li>
+        </ul>
+        <p>To <strong>Learn More</strong> about these and other ways in which we may share your personal information, please see our <a href="#PrivacyPolicy">full Policy</a>.</p>
+
+        </div>    
+    </div>
+<div class="row h-pt-md">
+	<div class="col-lg-12">
+		<h2 class="heading2">What Choices Do You Have? </h2>
+            </div>
+        <div class="col-lg-10 col-lg-offset-1">
+        <p>We want you to understand your choices regarding how we may process your personal information. Depending on how you use the Service, these choices may include the following:</p>
+        <ul>
+        	<li><strong>Interest-based advertising</strong>. Visit the <a href="http://www.networkadvertising.org/choices" target="_blank">Network Advertising Initiative’s online resour</a>ces, and/or the <a href="http://www.aboutads.info/choices" target="_blank">DAA’s resources</a> to learn about how you may opt-out of certain interest-based advertising.  Some of these opt-outs may not be effective unless your browser is set to accept cookies. Furthermore, if you use a different device, change browsers or delete cookies, you may need to perform the opt-out task again. </li>
+            <li><strong>Cookies Settings and Preferences</strong>. You may disable cookies and other tracking technologies through the settings in your browser. </li>
+            <li><strong>E-mail Settings and Preferences</strong>. If you no longer want to receive marketing e-mails from us, you may choose to unsubscribe at any time. You can also set your e-mail options to prevent the automatic downloading of images that may contain tracking technologies. </li>
+        </ul>
+        <p>Please be sure to check the full <a href="#PrivacyPolicy">Privacy Policy</a> for more information about your choices.</p>
+
+        </div>    
+    </div>
+
+<div class="row h-pt-md">
+	<div class="col-lg-12">
+		<h2 class="heading2">Questions About Our Privacy Policy?</h2>
+            </div>
+        <div class="col-lg-10 col-lg-offset-1">
+        <p>For more questions about our Privacy Policy, please feel free to email us at <a href="mailto:zorodataprivacy@grainger.com ">zorodataprivacy@grainger.com</a></p>
+        </div>    
+    </div>
+
+<div class="row h-pt-lg">
+	<div class="col-lg-12">
+    <a name="PrivacyPolicy"></a>
+    	<h1 class="heading1 h-pb-sm">Zoro Privacy Policy</h1>
+        <p>Zoro Tools, Inc. (“Zoro,” “we,” “our,” or “us”) is committed to protecting your privacy.  This Privacy Policy explains how your personal information is collected, used, stored, processed, transferred and disclosed by Zoro.  </p>
+<p>This Privacy Policy applies to our websites and brands, and any other website, mobile application, or other online service that links to this Policy (collectively, our “Service”). </p>
+<p>By accessing or using our Service, you signify that you have read, understood and agree to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy and our <a href="legal/">Terms of Service.</a></p>
+    </div>
+</div>
+<div class="row h-pt-md">
+	<div class="col-lg-12">
+    	<div class="panel panel-default">
+            <div class="panel-heading-gray">
+            	<h3 class="heading5">Click on the Links Below to Jump to Each Section:</h3>
+            </div>
+            <div class="panel-body">
+            	<div class="col-lg-6">
+                	<p>1. <a href="#1">What information do we collect about you and how do we use it</a></p>
+                </div>
+				<div class="col-lg-6">
+                	<p>2. <a href="#2">Information automaticallty collected though cookies and other technology</a></p>
+                </div>
+           	    <div class="col-lg-6">
+                	<p>3. <a href="#3">Third party data collection and interest based advertising</a></p>
+                </div>
+                <div class="col-lg-6">
+                	<p>4. <a href="#4">How we share your information</a></p>
+                </div>
+                <div class="col-lg-6">
+                	<p>5. <a href="#5">Your choices and control over your information</a></p>
+                </div>
+                <div class="col-lg-6">
+                	<p>6. <a href="#6">How we store and protect your information</a></p>
+                </div>
+                <div class="col-lg-6">
+                	<p>7. <a href="#7">Children's privacy</a></p>
+                </div>
+                <div class="col-lg-6">
+                	<p>8. <a href="#8">Your California privacy rights</a></p>
+                </div>
+                <div class="col-lg-6">
+                	<p>9. <a href="#9">Links to other websites and services</a></p>
+                </div>
+		        <div class="col-lg-6">
+   		         	<p>10. <a href="#10">How to contact us</a></p>
+                </div>
+                <div class="col-lg-6">
+                	<p>11. <a href="#11">Changes to our privacy policy</a></p>
+                </div>
+            </div>
+		</div>
+	</div>
+</div>
+    
+	<div class="row">
+		<div class="col-lg-12 h-pt-lg">
+			<h2 class="heading2" id="1">1. What Information Do We Collect About You and How Do We Use it?  </h2>
+        </div>
+    </div>
+    
+	<div class="row h-pt-md">
+		<div class="col-lg-10 col-lg-offset-1">
+            <p>We collect personal information about you when you voluntarily submit information to us when you use our Service. This can include information you provide to us when you register for an account, make a purchase, post a review, send us messages, subscribe to our mailing lists, newsletters or other forms of marketing communications, participate in a survey, click on an ad, redeem a promotion or use some other feature of our Service. </p>
+            <p>We collect certain information automatically when you use the Service, such as information about the pages you look at on our Service, the actions you take on our Service or the device you use to access our Service. </p>
+            <p>We may also collect information about you from third parties. </p>
+            <p>The categories of personal information we collect may include: </p>
+            
+			<div class="row">
+    			<div class="col-lg-5 col-lg-offset-1">    
+        			<ul>
+            			<li><a href="#a">Contact and profile information</a></li>
+                        <li><a href="#b">Comments, chat and opinions</a></li>
+                        <li><a href="#c">Payment and transaction information</a></li>
+                        <li><a href="#d">Location information</a></li>
+            		</ul> 
+        		</div>
+				<div class="col-lg-5">   
+                    <ul>
+                        <li><a href="#f">Information provided by social networks</a></li>
+                        <li><a href="#h">Information provided by third parties</a></li>
+                        <li><a href="#j">Information about fraudulent or criminal activity related to your account</a></li>
+                    </ul> 
+        		</div>
+        	</div>
+	
+            <p>The list below sets out the categories of personal information we collect about you and how we use that information. </p>        	
+		
+			<div class="row">
+    			<div class="col-lg-6">    
+        			<ul>
+            			<li><a name="a"></a><strong>Contact and profile information</strong>. We may collect personal information, such as your name, phone number, address,  business information, and e-mail address, when you when you register for our Service, sign up for our mailing list, enter a contest, redeem a promotion, or enter a sweepstakes, or otherwise communicate or interact with us.  We will use your contact information to create your account, to communicate with you directly about the Service and about any questions, issues or concerns you or other users have, and to send you marketing communications in accordance with your preferences. </li>
+            		</ul> 
+        		</div>
+				<div class="col-lg-6">   
+                    <ul>
+                        <li><a name="b"></a><strong>Comments, chat and opinions</strong>. When you contact us directly, e.g. by email, phone, mail or by completing an online form or participating in online chat, we will record your comments and opinions. We will also record comments and opinions you express when responding to surveys, entering a sweepstakes or taking part in promotions we run. We will use your comments and opinions to address your questions, issues and concerns and improve our products and services. We may also use your use the comments and opinions to determine products and services that may be of interest to you and to send you marketing communications in accordance with your marketing preferences.</li>
+                    </ul> 
+        		</div>
+        	</div>
+                        <div class="row">
+    			<div class="col-lg-6">    
+        			<ul>
+            			<li><a name="c"></a><strong>Payment and transaction information</strong>. We collect information such as items purchased, data and time of your transaction, and payment information, such as your credit card or bank account details, when you make an in-branch or online purchase in order to complete the transaction, detect and prevent fraud, and inform our advertising and marketing. </li>
+            		</ul> 
+        		</div>
+				<div class="col-lg-6">   
+                    <ul>
+                        <li><a name="d"></a><strong>Location Information.</strong> We collect information about your location. If you provide our mobile applications access to location services on your device, we and our third party providers may collect location data through GPS, WiFi, wireless network triangulation or other methods. We may also approximate your location based on your IP address. We use your location information to provide personalize content and advertising, to enhance your shopping experience, to assist us with analytics such as foot traffic measurement, and to improve the effectiveness of our websites, branches, mobile applications, merchandise, advertising, and customer service. </li>
+                    </ul> 
+        		</div>
+        	</div>
+                        <div class="row">
+    			<div class="col-lg-6">    
+        			<ul>
+            			<li><a name="e"></a><strong>In-Branch Information</strong>.  We also work with third party partners who may collect location and movement data when your device is in proximity to our in-branch beacon technology, which detects the presence of a device through Bluetooth or WiFi signals even if you are not currently using the app. Our third party partners provide this location information to us in aggregate so that we can analyze foot patterns and measure the effectiveness of our marketing and promotional campaigns. See Section 4, Your Choices and Control Over Your Information to learn more. </li>
+            		</ul> 
+        		</div>
+				<div class="col-lg-6">   
+                    <ul>
+                        <li><a name="f"></a><strong>Information provided by social networks</strong>.  When you interact with our Service through various social media networks, such as when you Like us on Facebook or when you follow Zoro or share Zoro content on Facebook, Twitter, Snapchat, LinkedIn, Instagram or other sites, we may receive information from those social networks including your profile information, picture, user ID associated with your social media account, friends list, and any other information you permit the social network to share with third parties. We use this information to communicate or interact with you on the social network, to better understand the demographics of our visitors, and to personalize content and advertising.  The data we receive is dependent upon your privacy settings with the social network. You should always review, and if necessary, adjust your privacy settings on third party websites and social media networks and services before linking or connecting them to our website or Service.  </li>
+                    </ul> 
+        		</div>
+        	</div>
+                        <div class="row">
+    			<div class="col-lg-6">    
+        			<ul>
+            			<li><a name="g"></a><strong>Information we receive from authentication services you connect to our Service</strong>. Some parts of our Service may allow you to login through a third party social network or authentication service such as Facebook or Google. These services will authenticate your identity and provide you the option to share certain personal information with us, which could include your name, email address, address book and contacts, or other information. The data we receive is dependent on that third party’s policies and your privacy settings on that third party site.  We will use this information to authenticate your Zoro account, to provide you services, to communicate with you, and for advertising and marketing purposes.   <br>
+                       <br>
+We may offer Touch ID or fingerprint authentication as an alternative log-in method to password if you access the Service through an Apple or Android device equipped with authentication technology. We are only notified as to whether the authentication was successful and cannot access the data associated with the enrolled fingerprint. For more details, please refer to the fingerprint security guides offered by your device provider. </li>
+            		</ul> 
+        		</div>
+				<div class="col-lg-6">   
+                    <ul>
+                        <li><a name="h"></a><strong>Information provided by third parties</strong>. From time to time, we may receive information about you from third parties and other users, for example we may obtain information from our suppliers, resellers, marketing partners, and other business partners or from other members of your company or organization. We may obtain information from third parties to enhance or supplement our existing user information. For example, we may obtain mailing address information or we may work with third party partners who help us determine a location based on your IP address so that we are able to customize content for your location. We may also collect information about you that is publicly available. We may combine this information with the information we collect from you directly. We use this information to contact you, to send you advertising or promotional materials or to personalize our Service, to pre-populate online forms, and to better understand the demographics of our users.  </li>
+                    </ul> 
+        		</div>
+        	</div>
+			<div class="row">
+    			<div class="col-lg-6">    
+        			<ul>
+            			<li><a name="i"></a><strong>Information provided by other Grainger entities</strong>.  We may receive information about you from other Grainger companies, businesses, brands and affiliated entities in our family of companies, so that information you provide to one brand may be used by another brand to provide you services or to communicate with you.     </li>
+            		</ul> 
+        		</div>
+				<div class="col-lg-6">   
+                    <ul>
+                        <li><a name="j"></a><strong>Information about fraudulent or criminal activity relating to your account</strong>. We will use information about fraudulent or criminal activity relating to your use of our Service for the purposes of detecting and preventing fraud or abuse.</li>
+                    </ul> 
+        		</div>
+        	</div>
+            <p><strong>All personal information</strong>: We will use all the personal information we collect to operate, maintain and provide to you the features and functionality of the Service, to communicate with you, to monitor and improve our Service and business, and to help us develop new products and services.</p>
+<p>If you choose not to provide personal information, we may not be able to provide you with requested products, services or information. </p>
+<p><strong>Cross-Context Information</strong>.  We may link or combine your activities and information collected from you on our websites and mobile apps with your in-branch purchases and information we receive from third parties, as well as information we collect automatically through tracking technologies.  This allows us to provide you with a personalized experience regardless of how you interact with us – online, in-branch, on mobile or social media. </p>
+
+        </div>  
+
+        </div>
+	<div class="row">
+		<div class="col-lg-12 h-pt-lg">
+			<h2 class="heading2" id="2">2. Information Automatically Collected Through Cookies and Other Tracking Technology</h2>
+        </div>
+    </div>
+	<div class="row h-pt-md">
+		<div class="col-lg-10 col-lg-offset-1">
+			<p>When you use our Service, visit our branches, read our emails, or otherwise engage with us through a computer or mobile device, we and our third party partners, automatically collect information about how you access and use the Service and information about the device you use to access the Service. </p>
+<p>We use this information to enhance and personalize your user experience, to monitor and improve our websites and services, and for other internal purposes. </p>
+<p>We typically collect this information through a variety of tracking technologies, including cookies, Flash objects, web beacons, embedded scripts, location-identifying technologies, and similar technology (collectively, “<strong>tracking technologies</strong>”). </p>
+<p>Information we collect automatically about you may be combined with other personal information we collect directly. </p>
+<p>We and our third party partners use tracking technologies to automatically collect usage and device information, such as:</p>
+			<div class="row">
+    			<div class="col-lg-6">    
+        			<ul>
+            			<li><a name="i"></a><strong>Information about how you access the Service</strong>, for example, the site from which you came and the site to which you are going when you leave our website, how frequently you access the Service, whether you open emails or click the links contained in emails, whether you access the Service from multiple devices, and other actions you take on the Service.</li>
+                        
+            		</ul> 
+        		</div>
+				<div class="col-lg-6">   
+                    <ul>
+                        <li><a name="j"></a><strong>Information about how you use the Service</strong>, for example, the pages you visit, the links you click, the ads you view and click on, purchase information and your checkout process, your location when you access or interact with our Service, and other similar actions. </li>
+                    </ul> 
+        		</div>
+        	</div>
+			<div class="row">
+    			<div class="col-lg-6">    
+        			<ul>
+            			<li><a name="i"></a><strong>Information about the computer, tablet, smartphone or other device you use</strong>, such as your IP address, browser type, Internet service provider, platform type, device type/model/manufacturer, operating system, date and time stamp, a unique ID that allows us to uniquely identify your browser, mobile device or your account (including, for example, a persistent device identifier or an Ad ID), and other such information.</li>
+                        
+            		</ul> 
+        		</div>
+				<div class="col-lg-6">   
+                    <ul>
+                        <li><a name="j"></a><strong>Analytics information</strong>. We may collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service and to understand more about the demographics and behaviors of our users.</li>
+                    </ul> 
+        		</div>
+        	</div>
+            <p>We, or the third party partners we use, may use the data collected through tracking technologies to:  (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information, including targeted content and advertising; (c) identify and contact you across multiple devices; (d) provide and monitor the effectiveness of our Service; (e) perform analytics and detect usage patterns on our Service; (f) diagnose or fix technology problems; (g) detect or prevent fraud or other harmful activities, and (h) otherwise to plan for and enhance our service. </p>
+<p><strong>Your choices to control tracking technologies</strong>.  If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject cookies.  </p>
+<p>Blocking or deleting cookies may negatively impact your experience using the Service, as some features and services on our Service may not work properly. </p>
+<p>Depending on your mobile device and operating system, you may not be able to delete or block all tracking technologies.  </p>
+<p>You may set your e-mail options to prevent the automatic downloading of images that may contain technologies that would allow us to know whether you viewed or engaged with our emails. </p>
+<p>Deleting cookies does not delete Local Storage Objects (LSOs) such as Flash objects and HTML5. You can learn more about Flash objects - including how to manage privacy and storage settings for Flash cookies – on Adobe’s website or by <a href="https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html" target="_blank">clicking here</a>. If you choose to delete Flash objects from our Service, then you may not be able to access and use all or part of the Service or benefit from the information and services offered. </p>
+<p><strong>Do Not Track</strong>.  Although we do our best to honor the privacy preferences of our visitors, we are not able to respond to Do Not Track signals from your browser at this time. </p>
+   		</div>
+	</div>
+    
+<div class="row">
+		<div class="col-lg-12 h-pt-lg">
+			<h2 class="heading2" id="3">3. Third Party Data Collection and Interest Based Advertising </h2>
+        </div>
+    </div>
+	<div class="row h-pt-md">
+		<div class="col-lg-10 col-lg-offset-1">
+        <h3 class="heading3">Interest Based Advertising</h3>
+			<p>We participate in interest-based advertising and use third party advertising companies to serve you targeted advertisements based on your browsing history.  We permit third party online advertising networks, social media companies and other third party services, to collect, information about your use of our websites and mobile apps over time so that they may play or display ads on our Service, on other websites, apps or services you may use, and on other devices you may use. Typically, though not always, the information used for interest-based advertising is collected through cookies or similar tracking technologies, which recognize the device you are using and collect information, including click stream information, browser type, time and date you visited the site and other information. We may share a common account identifier (such as an email address or user ID) with our third party advertising partners to help identify you across devices. We and our third party partners use this information to make the advertisements you see online more relevant to your interests, as well as to provide advertising-related services such as reporting, attribution, analytics and market research.  See <a href="#5">Your Choices and Control Over Your Information</a>, below, to learn more about how you may control interest-based advertising.</p>
+
+            <h3 class="heading3 h-pt-sm">Social Media Widgets and Advertising</h3>
+			<p>Our Service may include social media features, such as the Facebook Like button, Google Plus, LinkedIn, Snapchat, Instagram, Twitter or other widgets. These social media companies may recognize you and collect information about your visit to our Service, and they may set a cookie or employee other tracking technologies. Your interactions with those features are governed by the privacy policies of those companies. trol Over Your Information, below, to learn more about how you may control interest-based advertising.</p>
+            <p>We display targeted advertising to you through social media platforms, such as Facebook, Twitter, Google+ and others. These companies have interest-based advertising programs that allow us to direct advertisements to users who have shown interest in our Service while those users are on the social media platform, or to groups of other users who share similar traits, such as likely commercial interests and demographics. These advertisements are governed by the privacy policies of those social media companies that provide them. </p>
+
+            <h3 class="heading3 h-pt-sm">Interest Based Advertising</h3>
+			<p>We participate in interest-based advertising and use third party advertising companies to serve you targeted advertisements based on your browsing history.  We permit third party online advertising networks, social media companies and other third party services, to collect, information about your use of our websites and mobile apps over time so that they may play or display ads on our Service, on other websites, apps or services you may use, and on other devices you may use. Typically, though not always, the information used for interest-based advertising is collected through cookies or similar tracking technologies, which recognize the device you are using and collect information, including click stream information, browser type, time and date you visited the site and other information. We may share a common account identifier (such as an email address or user ID) with our third party advertising partners to help identify you across devices. We and our third party partners use this information to make the advertisements you see online more relevant to your interests, as well as to provide advertising-related services such as reporting, attribution, analytics and market research.  See Your Choices and Control Over Your Information, below, to learn more about how you may control interest-based advertising.</p>
+
+            <h3 class="heading3 h-pt-sm">Cross-Device Linking  </h3>
+            <p>We, or our third party partners, may link your various devices so that content you see on one device can result in relevant advertising on another device. We do this by collecting information about each device you use when you are logged in to our Service. We may also work with third party partners who employ tracking technologies, or the application of statistical modeling tools, to determine if two or more devices are linked to a single user or household.  We may share a common account identifier (such as an email address or user ID) with third party advertising partners to help recognize you across devices.  We, and our partners, can use this cross-device linkage to serve interest-based advertising and other personalized content to you across 
+            
+            </p><h3 class="heading3 h-pt-sm">Third Party Partners </h3>
+            <p>The following is a sample of the third party service partners we work with to provide cross-device linking and advertising services. We will strive to update this list if or when we work with new partners which offer you a choices about the collection of your information, but as partners change and new technologies become available, this list is likely to change over time and may not always reflect our current partners.</p>
+
+            <p><strong>Google Analytics and Advertising</strong>. We use Google Analytics and Google Universal Analytics to recognize you and link the devices you use when you visit our site or Service on your browser or mobile device, login to your account on our Service, or otherwise engage with us. We share a unique identifier, like a user ID or hashed email address, with Google Universal Analytics to facilitate the service. Google Analytics allows us to better understand how our users interact with our Service and to tailor our advertisements and content to you. For information on how Google Analytics collects and processes data, as well as how you can control information sent To Google, review Google's site “How Google uses data when you use our partners' sites or apps” located at <a href="https://www.google.com/policies/privacy/partners/" target="_blank">www.google.com/policies/privacy/partners/</a>.  You can learn about Google Analytics’ currently available opt-outs, including the Google Analytics Browser Ad-On here <a href="https://tools.google.com/dlpage/gaoptout/" target="_blank">https://tools.google.com/dlpage/gaoptout/</a>.
+            </p>
+
+            <p> We may also utilize certain forms of display advertising and other advanced features through Google Universal Analytics, such as Remarketing with Google Analytics, Google Display Network Impression Reporting, the DoubleClick Campaign Manager Integration, and Google Analytics Demographics and Interest Reporting. These features enable us to use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the Doubleclick advertising cookie) or other third party cookies together to inform, optimize, and display ads based on your past visits to the Service. You may control your advertising preferences or opt-out of certain Google advertising products by visiting the Google Ads Preferences Manager, currently available at <a href="https://google.com/ads/preferences" target="_blank">https://google.com/ads/preferences</a> or by vising NAI’s online resources at <a href="http://www.networkadvertising.org/choices" target="_blank">http://www.networkadvertising.org/choices</a>.   
+            </p>
+<p><strong>Adobe Marketing Cloud Device Co-Op</strong>. Zoro may participate in the Adobe Marketing Cloud Device Co-Op to better understand how you use our website and apps across the various devices you use, and to deliver tailored content and advertisements. Go to https://cross-device-privacy.adobe.com to learn more about how Adobe links your devices and to manage your choices relating to this linking of devices. </p>
+
+            <h3 class="heading3 h-pt-sm">User Experience Information  </h3>
+            <p>On some of our websites or services, we use third party tools to monitor user experience information. These tools automatically collect usage information, including mouse clicks and movements, page scrolling and any text keyed into website forms. The information collected does not include passwords, payment details, or other sensitive personal data. We use this information for site analytics, optimization and to improve website usability. We do not permit this information to be shared with or used by third parties for their own purposes.</p>
+   		</div>
+	</div>
+    
+	<div class="row">
+		<div class="col-lg-12 h-pt-lg">
+			<h2 class="heading2" id="4">4. How We Share Your Information</h2>
+        </div>
+    </div>
+    
+	<div class="row" style="margin-top:20px;">
+		<div class="col-lg-10 col-lg-offset-1">
+        	<div class="row"> 
+            	<div class="col-lg-12">
+                    <p>We may share your personal information in the instances described below.  For further information on your choices regarding your information, see the “Control Over Your Information” section below.</p>
+<p>We may share your personal information with the following parties: </p>
+                </div>
+    			<div class="col-lg-6">    
+                	<ul>
+                    	<li><strong>Our affiliates and companies in the same group of companies as us</strong>:  our affiliates and subsidiaries (i.e., any organization or brand we own or control) or our ultimate holding Grainger (i.e., any organization that owns or controls us) and any subsidiaries it owns.  These companies may use your personal information in the same way as we can under this Privacy Policy.</li>
+                	</ul> 
+        		</div>
+				<div class="col-lg-6">   
+                    <ul>
+                        <li><strong>Third parties at your request</strong>: you may choose to share your activities on Zoro with your friends through email, text or on various social media networks. </li>
+                    </ul> 
+                </div>   
+            </div>  
+            <div class="row">   
+                <div class="col-lg-6">    
+                    <ul>
+                        <li><strong>Promotional partners</strong>: third parties with whom we partner to provide contests and sweepstakes, or other promotional activities, which will usually be identified by name in the Official Rules of the contest or sweepstakes.</li>
+                    </ul> 
+                </div>
+                <div class="col-lg-6">   
+                    <ul>
+                        <li><strong>Select third parties: third parties</strong>, so that they can provide you with information and marketing messages about products or services that may interest you. To opt-out of our sharing your personal information with such companies, see Your Choices and Control Over Your Information, below.</li>
+                    </ul> 
+                </div>
+            </div>
+			<div class="row">
+                <div class="col-lg-6">    
+                	<ul>
+                  	  <li><strong>Service providers and advisors</strong>: third party vendors and other service providers that perform services for us, on our behalf, which may include identifying and serving targeted advertisements, providing mailing or email services, tax and accounting services, product fulfilment, payments processing, data enhancement services, fraud prevention, web hosting, or providing analytic services. </li>
+             	   </ul> 
+           		</div>
+            	<div class="col-lg-6">   
+                	<ul>
+                    	<li><strong>The public</strong>: when you provide feedback or post user content on our site. For example, if you post a product review on our website or a comment on our social media sites, your information, such as your first name, last initial, state of residence, and your comments, may be displayed on our website or on our social media pages.</li>
+                	</ul> 
+            	</div>
+            </div>
+            <div class="row">
+    			<div class="col-lg-6">    
+        			<ul>
+            			<li><strong>Purchasers and third parties in connection with a business transaction</strong>: personal information may be disclosed to third parties in connection with a Zoro-related transaction, such as a merger, sale of Zoro assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another Zoro or third party, or in the event of a bankruptcy or related or similar proceedings; and </li>
+            		</ul> 
+        		</div>
+				<div class="col-lg-6">   
+                    <ul>
+                        <li><strong>Law enforcement, regulators and other parties for legal reasons</strong>: third parties as required by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our Terms of Use or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of Zoro, our visitors, or others.</li>
+                    </ul> 
+        		</div>
+        	</div>
+            <div class="row">
+            	<div class="col-lg-12">
+					<p>We may also share information with others in an aggregated or otherwise anonymized form that does not reasonably identify you directly as an individual. </p>
+				</div>
+    		</div>
+        </div>
+    </div>
+
+	<div class="row">
+		<div class="col-lg-12 h-pt-lg">
+			<h2 class="heading2" id="5">5. Your Choices and Control Over Your Information</h2>
+        </div>
+    </div>
+	<div class="row h-pt-md">
+		<div class="col-lg-10 col-lg-offset-1">
+            <p><strong>Profile and data sharing settings</strong>:  You may update your profile information, such as your user name, address, or billing information, and may change some of your data sharing preferences on your Account Page. </p>
+<p><strong>How to control your email preferences</strong>:  You can stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications.  We make every effort to promptly process all unsubscribe requests.  You may not opt out of service-related communications (e.g., account verification, transactional communications, changes/updates to features of the Service, technical and security notices).</p>
+<p><strong>Modifying or deleting your information</strong>:  If you have any questions about reviewing, modifying, or deleting your information, or if you want to remove your name or comments from our website or publicly displayed content, you can contact us directly at <a href="zorodataprivacy@grainger.com">zorodataprivacy@grainger.com</a>.We may not be able to modify or delete your information in all circumstances.  </p>
+<p><strong>Geolocation and in-branch location</strong>: You may control location tracking by adjusting your location services settings on your mobile device. We may continue to approximate your location based on your IP address when you access the Service through a computer or device.</p>
+<p><strong>Cookies, tracking and interest-based advertising preferences</strong>:  </p>
+        <div class="row">
+            <div class="col-lg-6">    
+                <ul>
+                    <li><strong>Cookies and Flash cookies</strong>.  Most browsers allow you to adjust your browser settings to: (i) notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject cookies. <br>
+<br>
+Blocking or deleting cookies may negatively impact your experience using the Service, as some features and services on our Service may not work properly. <br>
+<br>
+Deleting cookies does not delete Local Storage Objects (LSOs) such as Flash objects and HTML5. To manage Flash cookie settings and preferences, you must use the settings manager on Adobe’s website or by <a href="https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html" target="_blank">clicking here</a>. If you choose to delete Flash objects from our Service, then you may not be able to access and use all or part of the Service or benefit from the information and services offered. </li>
+                </ul> 
+            </div>
+            <div class="col-lg-6">   
+                <ul>
+                    <li><strong>Interest-based advertising</strong>. To learn about interest-based advertising and how you may be able to opt-out of some of this advertising, you may wish to visit the Network Advertising Initiative’s online resources, at <a href="http://www.networkadvertising.org/choices" target="_blank">http://www.networkadvertising.org/choices</a>, and/or the DAA’s resources at <a href="http://www.aboutads.info/choices" target="_blank">www.aboutads.info/choices</a>.  </li>
+                    <li><strong>Cross-device linking</strong>. Please note that opting-out of receiving interest-based advertising through the NAI’s and DAA’s online resources will only opt-out a user from receiving interest-based ads on that specific browser or device, but the user may still receive interest-based ads on his or her other devices. You must perform the opt-out on each browser or device you use. </li>
+                    <li><strong>Mobile advertising</strong>.  You may also be able to limit interest-based advertising through the settings on your mobile device by selecting “limit ad tracking” (iOS) or “opt-out of interest based ads” (Android).  You may also be able to opt-out of some – but not all – interest-based ads served by mobile ad networks by visiting <a href="http://youradchoices.com/appchoices" target="_blank">http://youradchoices.com/appchoices</a> and downloading the mobile AppChoices app.     </li>
+                    <li>Some of these opt-outs may not be effective unless your browser is set to accept cookies.  If you delete cookies, change your browser settings, switch browsers or computers, or use another operating system, you will need to opt-out again. </li>
+                </ul> 
+            </div>
+        </div>
+   	</div>
+</div>
+	<div class="row">
+		<div class="col-lg-12 h-pt-lg">
+			<h2 class="heading2" id="6">6. How We Store and Protect Your Information</h2>
+        </div>
+    </div>
+	<div class="row h-pt-md">
+		<div class="col-lg-10 col-lg-offset-1">
+            <p><strong>Data storage and transfer:</strong>  Your information collected through our website may be stored and processed in the United States or any other country in which Zoro or its affiliates or service providers maintain facilities.  If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Zoro or its parent, subsidiaries, affiliates, or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.  </p>
+			<p><strong>Keeping your information safe:</strong>  Security of your information is very important to us, and we have put in place safeguards to preserve the integrity and security of information we collect and that we share with our service providers. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%.  In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and, where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.</p>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-lg-12 h-pt-lg">
+			<h2 class="heading2" id="7">7. Children's Privacy</h2>
+        </div>
+    </div>
+	<div class="row h-pt-md">
+		<div class="col-lg-10 col-lg-offset-1">
+			<p>Zoro does not knowingly collect or solicit any information from anyone under the age of 13 on this Site.  In the event that we learn that we have inadvertently collected personal information from a child under age 13, we will delete that information as quickly as possible.  If you believe that we might have any information from a child under 13, please contact us at <a href="zorodataprivacy@grainger.com">zorodataprivacy@grainger.com</a>. </p>
+		</div>
+	</div>
+<div class="row">
+		<div class="col-lg-12 h-pt-lg">
+			<h2 class="heading2" id="8">8. Your California Privacy Rights</h2>
+        </div>
+    </div>
+	<div class="row h-pt-md">
+		<div class="col-lg-10 col-lg-offset-1">
+			<p>If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of personal information to third parties for their direct marketing purposes during the immediately preceding calendar year. You may make one request each year by emailing us at <a href="zorodataprivacy@grainger.com">zorodataprivacy@grainger.com</a> or writing to us at 909 Asbury Dr, Buffalo Grove, IL 60089.  </p>
+		</div>
+	</div>
+
+
+	<div class="row">
+		<div class="col-lg-12 h-pt-lg">
+			<h2 class="heading2" id="9">9. Links to Other Websites and Services</h2>
+        </div>
+    </div>
+
+	<div class="row h-pt-md">
+		<div class="col-lg-10 col-lg-offset-1">
+			<p>The Services may contain links to and from third party websites of our business partners, advertisers, and social media sites and our users may post links to third party websites.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies.  We strongly recommend that you read their privacy policies and terms and conditions of use to understand how they collect, use, and share information. We are not responsible for the privacy practices or the content on the websites of third party sites. </p>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-lg-12 h-pt-lg">
+			<h2 class="heading2" id="10">10. How to Contact Us</h2>
+        </div>
+    </div>
+	<div class="row h-pt-md">
+		<div class="col-lg-10 col-lg-offset-1">
+			<p>If you have any questions about this Privacy Policy or the website, please <a href="/contact">Contact Customer Service</a>.</p>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-lg-12 h-pt-lg">
+			<h2 class="heading2" id="11">11. Changes to Our Privacy Policy</h2>
+        </div>
+    </div>
+	<div class="row h-pt-md h-pb-lg">
+		<div class="col-lg-10 col-lg-offset-1">
+			<p>We may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and you should review this page periodically.  We will update the ‘last modified’ date at the bottom of this page when we post changes to this Policy.   If you object to any changes, you may close your account. Continuing to use our Services after we publish changes to this Privacy Policy means that you are consenting to the changes.</p>
+            <p>This privacy policy was last modified on February 14, 2018.<br>
+Effective date: February 14, 2018</p>
+
+		</div>
+	</div>
+    
+</div>
+
+
+  <footer id="layout_footer">
+    
+      
+      
+
+
+<style>
+#phone-email-footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pre-footer {
+    margin-top: 30px;
+}
+
+@media only screen and (max-width: 767px) {
+     .footer-inner-container {
+         padding-top: 15px     
+}
+.pre-footer #phone-email-footer {
+    padding: 7px 0 0;
+}
+}
+
+</style>
+
+
+<div class="pre-footer">
+  <div class="container">
+    <div class="row">
+      <div id="phone-email-footer" class="col-xs-12">
+          <a href="tel:18552899676" class="pull-left">
+             <i class="fa fa-phone"></i>
+             <p class="hidden-xs">1.855.BUY.ZORO <span>(1.855.289.9676)</span></p>
+          </a>
+          <a href="/contact/" class="pull-right">
+            <i class="fa fa-envelope"></i>
+            <p class="hidden-xs">Contact Customer Service</p>
+          </a>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="container">
+  <div class="row footer-inner-container">
+    <div class="col-md-3 col-xs-12">
+      <div class="price">
+
+        <div id="footer-visa">
+          <i class="fa fa-cc-visa"></i>
+          <i class="fa fa-cc-mastercard"></i>
+          <i class="fa fa-cc-discover"></i>
+          <i class="fa fa-cc-amex"></i>
+          <i class="fa fa-cc-paypal"></i>
+        </div>
+   
+      </div>
+    </div>
+    <div class="col-md-6 col-xs-12">
+      <div class="row">
+        <div class="linkbox col-sm-4 col-xs-12">
+          <h4>Information</h4>
+          <ul>
+            <li><a href="/about/">About Us</a></li>
+            <li><a href="/careers/">Careers</a></li>
+            <li><a href="/giving-back/">Giving Back</a></li>
+            <li><a href="/bios/">Meet The Staff</a></li>
+            <li><a href="/product-guides/">Product Guides</a></li>
+            <li><a href="/coupons-promo-codes/">Promo Codes</a></li>
+          </ul>
+        </div>
+        <div class="linkbox col-sm-4 col-xs-12">
+          <h4>Shopping</h4>
+          <ul>
+            <li><a href="/industrial-brands-manufacturers/">Brands</a></li>
+            <li><a href="https://checkout.zoro.com/c.1326902/myaccount/index.ssp?n=3&amp;sc=6&amp;ext=T">My Account</a></li>
+            <li><a href="/payment/">Payments</a></li>
+            <li><a href="/quickorder/">Quick Order</a></li>
+            <li><a href="/shipping/">Shipping</a></li>
+          </ul>
+        </div>
+        <div class="linkbox col-sm-4 col-xs-12">
+          <h4>Services</h4>
+          <ul>
+            <li><a href="/contact/">Contact Us</a></li>
+            <li><a href="/faqs/">FAQs</a></li>
+            <li><a href="/contact/">Feedback</a></li>
+            <li><a href="/payment/#open-account-billing">Net 30 Terms</a></li>
+
+          </ul>
+        </div>
+      </div>
+      <div class="clearfix"></div>
+
+      <div class="col-xs-12 no-padding">
+        <div class="business-credits">
+          <li id="GTS_CONTAINER">
+            
+          </li>
+<li class="norton-seal">
+<div style="background-color: #fff; padding: 0 5px 1px 4px; border-radius: 4px"> 
+<script type="text/javascript" src="https://seal.websecurity.norton.com/getseal?host_name=www.zoro.com&amp;size=XS&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script>
+</div>
+</li>
+          <li class="bbb-seal">
+            <a target="_blank" title="Zoro, Inc BBB Business Review" href="https://www.bbb.org/chicago/business-reviews/industrial-equipment-and-supplies/zoro-inc-in-buffalo-grove-il-88479344/#bbbonlineclick">
+              <img id="bbb-seal-img" class="lazyload" data-src="https://seal-chicago.bbb.org/seals/black-seal-200-42-whitetxt-zoro-inc-88479344.png" alt="Zoro, Inc Buffalo Grove, IL BBB Business Review">
+            </a>
+          </li>
+          <li class="google-seller-rating" style="width: 81px">
+            <a target="_blank" href="https://www.google.com/shopping/seller?q=zoro.com" title="Zoro.com Google Shopper Ratings">
+            </a>
+          </li>
+        </div>
+      </div>
+    </div>
+
+    <div class="linkbox col-md-3 col-sm-12 col-xs-12">
+      <div class="social">
+        <h4>Follow Us</h4>
+
+        <div class="row">
+          <ul>
+            <li><a target="_blank" href="https://www.facebook.com/zorotools/" class="fb" title="Facebook"><i class="fa fa-facebook-square"></i></a></li>
+            <li><a target="_blank" href="https://www.linkedin.com/company/zoro_us/" class="ld" title="LinkedIn"><i class="fa fa-linkedin-square"></i></a></li>
+            <li><a target="_blank" href="https://twitter.com/zoro_us/" class="tt" title="Twitter"><i class="fa fa-twitter-square"></i></a></li>
+            <li><a target="_blank" href="https://plus.google.com/u/0/+zoro_us/" class="g" title="Google"><i class="fa fa-google-plus-square"></i></a></li>
+          </ul>
+        </div>
+        <div class="row">
+          <ul>
+            <li><a target="_blank" href="https://www.youtube.com/user/ZoroTools/" class="youtube" title="YouTube"><i class="fa fa-youtube-square"></i></a>
+            </li>
+            <li><a target="_blank" href="https://www.pinterest.com/zoro_us/" class="pin" title="Pinterest"><i class="fa fa-pinterest-square"></i></a></li>
+            <li><a target="_blank" href="https://instagram.com/zoro.t.fox/" class="instagram" title="Instagram"><i class="fa fa-instagram"></i></a></li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div class="lastFoot">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <p class="copy">© 2011–2018 Zoro Tools, Inc. All rights reserved<span>•</span><a href="/legal/">Terms &amp; Conditions</a> <span>•</span> <a href="/privacy/">Privacy Policy</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="back-to-top" class="btn"><i class="fa fa-2x fa-chevron-up"></i>Top</div>
+
+    
+  </footer>
+
+  
+
+  
+<script>
+  /**
+   *    zoro-global.html
+   *    ================
+   *    Global variables should exist in the window.ZORO object.
+   *    Logic in this file should be kept to an absolute minimum.
+   *
+   *    If you have a module that needs to be available globally, notate at the top of the js file:
+   *    '// exports to ZORO'
+   */
+
+
+  (function (window) {
+    'use strict';
+
+    function djangoBool(bool) {
+      if (bool === 'True') {
+        return true;
+      } else if (bool === 'False') {
+        return false;
+      }
+    }
+
+    function djangoList(list) {
+      if (list !== null) {
+        return list;
+      } else {
+        return '';
+      }
+    }
+
+    function nullIfEmpty(value) {
+      if (!value) {
+        return null;
+      }
+
+      return value;
+    }
+
+    window.ZORO = {
+      debug: djangoBool(''),
+      models: {},
+      rootUrl: '//www.zoro.com',
+      cart: 'erp',
+      checkout: 'netsuite',
+      bridge: 'erp',
+      cookieDomain: '.zoro.com',
+      subscriptions: {
+        auth: 'https://static.ordergroove.com/f0ca2e94f88211e6b172bc764e106cf4/auth.js',
+        interfaceContent: 'https://static.ordergroove.com/f0ca2e94f88211e6b172bc764e106cf4/msi.js',
+      },
+      erp: {
+        name: 'erp'
+      },
+      
+        versions: JSON.parse('{"erp": "0.0.0", "zoro": "1.0.0"}'),
+        netsuiteConfig: JSON.parse('{"erpPaypal": "https://checkout.zoro.com/c.1326902/erp/paypal.ssp?n=3", "forgotPassword": "https://checkout.zoro.com/c.1326902/checkout/login.ssp?n=3&origin=sign-in&whence=#forgot-password", "checkoutUrl": "https://checkout.zoro.com/c.1326902/checkout/index.ssp?n=3", "loginUrl": "/sign-in/", "cartUrl": "https://checkout.zoro.com", "myAccountUrl": "https://checkout.zoro.com/c.1326902/myaccount/index.ssp?n=3&sc=6&ext=T", "guestCheckoutUrl": "https://checkout.zoro.com/c.1326902/checkout/index.ssp?n=3&checkout_as_guest=T", "erp": "https://checkout.zoro.com/c.1326902/erp/index.ssp?n=3", "bridgeUrl": "https://checkout.zoro.com/c.1326902/checkout/zoro-bridge.ssp?n=3"}'),
+      
+
+      featureToggles: {
+        sayt: djangoBool('True'),
+        variantsDisplaySettings: {
+          showDropdown: true,
+          showSwatch: false
+        },
+        listView: djangoBool(''),
+        searchandiser: djangoBool(''),
+        captcha: djangoBool('True')
+      },
+      gtmCode: 'GTM-PRN85X',
+      searchandiser: {
+        customerId: 'zorotools',
+        area: 'Production'
+      },
+      currencyPrefix: '$',
+      
+        addToCartUrl: 'https://checkout.zoro.com/app/site/query/additemtocart.nl?c=1326902&ext=T&n=3',
+        cartUrl: '//www.zoro.com/cart/',
+        cartDetailUrl: '',
+        checkoutUrl: 'https://checkout.zoro.com/c.1326902/checkout/index.ssp?n=3',
+      
+      siteMessage: {id: '', text: ''},
+      staticUrl: '//d1i1j9h9jcbcvu.cloudfront.net/',
+      product: {
+        zoroNo: '',
+        category: '',
+        name: '',
+        imageProductUrl: 'https://cloudfront.zoro.com/product',
+        images: djangoList(),
+        variants: nullIfEmpty()
+      },
+      search: {
+        query: '',
+        recordStart: '',
+        recordEnd: '',
+        totalCount: '',
+        items: djangoList(),
+        imageProductUrl: 'https://cloudfront.zoro.com/product',
+        queryRefinements: '',
+        refinements: djangoList(),
+        searchPage: '',
+        categoryName: "",
+        categoryCode: "",
+        categorySlug: ""
+      },
+      categorization: djangoList(),
+      items: djangoList() || {},
+      environment: 'prod',
+      pageType: 'None',
+      pagePath: '/privacy',
+      captcha: {
+        sitekey: '6Lfl2EYUAAAAALYcUtO4N4v-IhzTxpKSU1GGxlw0'
+      }
+    };
+
+  })(window);
+
+</script>
+
+<script>
+  var pageData = {
+    navigation: {
+      pageName: "Zoro Privacy Policy"
+    }
+  };
+
+</script>
+<div class="hidden" data-cms=""></div>
+
+
+  
+    
+
+
+
+<script type="text/javascript">
+  
+    var zoroNo = '';
+    var salesLot = Number('');
+
+    var imgUrl = 'https://cloudfront.zoro.com/product';
+</script>
+  
+
+  
+  
+
+
+  <script>
+    function scriptTagLoader(uri, onload) {
+      var tag = document.createElement('script');
+      tag.src = uri;
+      tag.async = true;
+      if (onload) {
+        tag.onload = onload;
+      }
+      document.getElementsByTagName("head")[0].appendChild(tag);
+    }
+
+    window.addEventListener("load", function () {
+      scriptTagLoader('//d1i1j9h9jcbcvu.cloudfront.net/bundle/cms/index.bundle.c1953bd6.js');
+    });
+  </script>
+
+
+
+
+  
+
+
+<div id="avl-in-stock-button" hidden="">
+  <h3>In Stock</h3>
+<p>
+  Item ships from Zoro warehouses and will ship within 1 business day. Standard delivery time is 3-5 business days.
+  You will be provided tracking via email as soon as your order ships.
+</p>
+<p>Orders that qualify for expedited shipping must be placed by 3pm CST to ship same day.</p>
+</div>
+
+<div id="avl-limited-stock-button" hidden="">
+  <h3>Limited Stock</h3>
+<p>
+  This item has low stock in our warehouses and your order will ship based on availability. If an item cannot be fulfilled immediately it will be ordered from our manufacturer.
+</p>
+<p>Orders that qualify for expedited shipping must be placed by 3pm CST to ship same day.</p>
+</div>
+
+<div id="avl-backordered-button" hidden="">
+  <h3>Backordered</h3>
+<p>
+  Item is not currently in stock and will be ordered from manufacturer to fulfill your order.
+  As soon as your order ships you will receive tracking information via email.
+</p>
+</div>
+
+<div id="avl-drop-ship-button" hidden="">
+  <h3>Drop ship</h3>
+<p>
+  Item will ship from manufacturer within the lead time specified on this page.
+</p>
+</div>
+  
+  
+</body></html>
