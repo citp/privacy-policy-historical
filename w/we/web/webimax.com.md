@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webimax.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909014056id_/https%3A//www.webimax.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webimax.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106035647id_/https%3A//www.webimax.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WebiMax
 
@@ -45,4 +45,4 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 #### Contacting Us
 
-If there are any questions regarding this privacy policy you may [contact us](http://www.webimax.com/contact-us "Contact Us").
+If there are any questions regarding this privacy policy you may [contact us](https://www.webimax.com/contact-us "Contact Us").
