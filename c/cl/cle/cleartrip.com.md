@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cleartrip.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190804id_/https%3A//www.cleartrip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleartrip.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106224154id_/https%3A//www.cleartrip.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cleartrip
+
+_Effective May 25, 2018_
 
 ### Cleartrip is fanatical about protecting your privacy.
 
