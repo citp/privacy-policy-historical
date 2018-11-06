@@ -1,23 +1,36 @@
-> *The following text is extracted and transformed from the worldfree4u.es privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017102036id_/http%3A//worldfree4u.es/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldfree4u.es privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106092925id_/http%3A//ww43.worldfree4u.es/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - worldfree4u.es
+# Privacy Policy
 
-## Privacy Policy
+* **Overview**
 
-## **Privacy Policy**
+Thank you for visiting ww43.worldfree4u.es (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
-**At ‘worldfree4u.es’ we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use ‘worldfree4u.es’, and how we safeguard your information.**
+* **What Type of Information We Collect**
 
-**We never sell your personal information to third parties.**
+The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
 
-**We may use your IP address to help diagnose any problem with our service and to provide better services for our visitors.**
+We partner with a limited number of third party behavioral advertising companies. In some cases, these companies serve ads and/or collect certain information when you visit the Web Site. The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media. 
 
-**We use third-party advertising companies to serve ads when you visit our website. The ads may contain cookies which may be used by the advertising companies to better understand a visitor’s preferences and help them to display related ads. However, the cookies received with the advertisements are collected by the advertising company and we do not have access to that information.These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.**
+* **Uses May Include**
 
-**Email Addresses – We never share your email addresses with anyone.**
+  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
+  
 
-**Log Files – As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (airtel, bsnl, mtnl, tata etc…), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.**
+  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
+  
 
-**Cookies and Web Beacons – We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, click here.**
+  * We may share aggregated non-personal information with third parties outside of The Web Site. 
+  
 
-**We can be reached via our contact e-mail to  **
+  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+  
+
+  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+  
+
+  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
+  
+
+
+* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance at [aboutads.info](http://www.aboutads.info/).
