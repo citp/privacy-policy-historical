@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the followfridayhelper.com privacy policy that was archived on 2017-09-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170901155624id_/https%3A//tweepi.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the followfridayhelper.com privacy policy that was archived on 2018-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181106224109id_/https%3A//tweepi.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><head>
     <meta charset="utf-8">
@@ -19,9 +19,9 @@
     <!-- Google fonts -->
     <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet" type="text/css">
 
-    <link rel="stylesheet" href="/v3/styles/compiled.c85b193f.css">
+    <link rel="stylesheet" href="/v3/styles/compiled.372fe5f8.css">
 
-    <script src="//beacon.errorception.com/50db73951bf079f60b00019b.js" async=""></script><script type="application/ld+json" keep-in-snapshot="">
+    <script src="//beacon.errorception.com/50db73951bf079f60b00019b.js" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script keep-in-snapshot="" type="application/ld+json">
     [{
       "@context" : "http://schema.org",
       "@type" : "Organization",
@@ -67,7 +67,11 @@
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" collapse="isCollapsed" id="tw-navbar-collapse" style="height: 0px; ">
-      <!-- ngIf: config.isLoggedin() -->
+      <ul class="nav navbar-nav">
+        <!-- ngIf: config.isLoggedin() -->
+
+        <!-- ngIf: config.isLoggedin() -->
+      </ul>
 
       <ul class="nav navbar-nav navbar-right">
         <!-- ngIf: isGrid() -->
@@ -101,7 +105,65 @@
           </a>
         </li><!-- end ngIf: !config.isLoggedin() -->
 
-        <!-- ngInclude: 'scripts/nav-bar/html/_navBarHelp.tpl.html' --><li class="dropdown ng-scope" dropdown="" on-toggle="toggled(open)" ng-include="'scripts/nav-bar/html/_navBarHelp.tpl.html'"><a class="dropdown-toggle ng-scope" dropdown-toggle="" data-toggle="dropdown" href="" title="Help" aria-haspopup="true" aria-expanded="false">
+        <!-- ngInclude: 'scripts/nav-bar/html/_navBarManageTwitter.tpl.html' --><li class="dropdown hidden-sm ng-scope" dropdown="" on-toggle="toggled(open)" ng-include="'scripts/nav-bar/html/_navBarManageTwitter.tpl.html'"><a class="dropdown-toggle ng-scope" dropdown-toggle="" data-toggle="dropdown" href="" title="All Tweepi Twitter Tools" aria-haspopup="true" aria-expanded="false">
+  <i class="fa fa-angle-double-down fa-lg"></i>
+  <span class="visible-xs-inline">All Tools</span>
+</a>
+<ul class="dropdown-menu ng-scope" role="menu">
+  <li role="presentation" class="dropdown-header">
+    Tweepi's AI-driven Recommendations
+  </li>
+  <li ng-class="{active: ('grid.recommendationGrid'|isState) }">
+    <a ui-sref="dashboardV5" href="/app/#!/dashboard">View Your Follow, Unfollow and Tweet Recommendations</a>
+  </li>
+
+  <li class=" divider "></li>
+  <li role="presentation " class="dropdown-header ">
+    Legacy Manage Your Twitter Account
+  </li>
+  <li ng-class="{active: ( 'manageTool.reciprocate'|isState) || ( 'grid.reciprocate'|isState)} ">
+    <a ui-sref="manageTool.reciprocate" href="/app/#!/manage/reciprocate">You're not following back <!-- <small>(formerly Reciprocate)</small> -->
+      <!-- <q-mark tooltip="Lists users currently following you, but you are not following back " tooltip-placement="right "></q-mark> -->
+    </a>
+  </li>
+  <li ng-class="{active: ( 'manageTool.cleanup'|isState) || ( 'grid.cleanup'|isState)} ">
+    <a ui-sref="manageTool.cleanup " href="/app/#!/manage/you-follow">You follow <!-- <small>(formerly Cleanup)</small> -->
+<!--       <q-mark tooltip="Lists users you currently follow " tooltip-placement="right "></q-mark>
+ -->    </a>
+  </li>
+  <li ng-class="{active: ( 'manageTool.cleanupFollowers'|isState) || ( 'grid.cleanupFollowers'|isState)} ">
+    <a ui-sref="manageTool.cleanupFollowers " href="/app/#!/manage/cleanup-followers">Your followers <!-- <small>(formerly Cleanup Followers)</small> -->
+<!--       <q-mark tooltip="Lists users currently following you " tooltip-placement="right "></q-mark>
+ -->    </a>
+  </li>
+
+  <li class="divider "></li>
+  <li role="presentation " class="dropdown-header ">
+    Legacy Follow Tools
+  </li>
+
+  <li ng-class="{active: ( 'followTool.byUser.followers'|isState) || ( 'grid.followByFollowers'|isState)} ">
+    <a ui-sref="followTool.byUser.followers " title="Follow users by navigating an @user 's list of followers." href="/app/#!/follow/user/followers">By @user's followers</a>
+  </li>
+  <li ng-class="{active: ('followTool.byUser.friends'|isState) || ('grid.followByFriends'|isState)}">
+    <a ui-sref="followTool.byUser.friends" title="Follow users by navigating an @user's list of friends." href="/app/#!/follow/user/friends">By @user's friends</a>
+  </li>
+  <li ng-class="{active: ('followTool.byList'|isState) || ('grid.followByList'|isState)}">
+    <a ui-sref="followTool.byList" title="Follow users by navigating users included in a Twitter list." href="/app/#!/follow/list">By list members</a>
+  </li>
+  <li ng-class="{active: ('followTool.byCopyPaste'|isState) || ('grid.followByCopyPaste'|isState)}">
+    <a ui-sref="followTool.byCopyPaste" title="Follow users by copy/pasting their screen names." href="/app/#!/follow/copy-paste">By copy/paste</a>
+  </li>
+  <li ng-class="{active: ('followTool.byTweetSearch'|isState) || ('grid.followByTweetSearch'|isState)}">
+    <a ui-sref="followTool.byTweetSearch" title="Follow users who just tweeted about a keyword." href="/app/#!/follow/tweet-search">By tweet search</a>
+  </li>
+  <li ng-class="{active: ('followTool.byUserSearch'|isState) || ('grid.followByUserSearch'|isState)}">
+    <a ui-sref="followTool.byUserSearch" title="Follow users by bio, name or topic of interest." href="/app/#!/follow/user-search">By user search</a>
+  </li>
+</ul>
+</li>
+
+        <!-- ngInclude: 'scripts/nav-bar/html/_navBarHelp.tpl.html' --><li class="dropdown ng-scope" dropdown="" on-toggle="toggled(open)" ng-include="'scripts/nav-bar/html/_navBarHelp.tpl.html'"><a class="dropdown-toggle ng-scope" dropdown-toggle="" data-toggle="dropdown" href="" title="Tweepi Help" aria-haspopup="true" aria-expanded="false">
   <i class="fa fa-question-circle fa-lg"></i>
   <span class="visible-xs-inline-block">Support</span>
   <i class="fa fa-chevron-circle-down visible-xs-inline-block"></i>
@@ -327,7 +389,7 @@
     
   <![endif]-->
 
-    <script keep-in-snapshot="">
+    <script keep-in-snapshot="" type="text/javascript">
     (function(_,e,rr,s){_errs=[s];var c=_.onerror;_.onerror=function(){var a=arguments;_errs.push(a);
     c&&c.apply(this,a)};var b=function(){var c=e.createElement(rr),b=e.getElementsByTagName(rr)[0];
     c.src="//beacon.errorception.com/"+s+".js";c.async=!0;b.parentNode.insertBefore(c,b)};
@@ -338,7 +400,7 @@
     isAuthenticated: false,
     screenName: 'NA'
   };
-  
+
   // see https://errorception.com/docs/allow
   window._errs.allow = function(error) {
     // IE9 error that does not show any issue on client side
@@ -346,28 +408,28 @@
         error.message && error.message.indexOf('Invalid target element for this operation') !== -1) {
       return false;
     }
-    
-    // IE9 error sometime throws 
+
+    // IE9 error sometime throws
     if(navigator.userAgent.indexOf("MSIE 9") !== -1 &&
         error.message && error.message.indexOf('\'console\' is undefined') !== -1) {
       return false;
     }
-    
+
     // ignore Opera Mini
     if(navigator.userAgent.indexOf("Opera Mini") !== -1) {
       return false;
     }
-    
+
     // ignore timeout errors
     if(error.message && error.message.indexOf('timed out') !== -1) {
       return false;
     }
-    
+
     // ignore eshopcomp.com error
     if(error.stack && error.stack.indexOf('eshopcomp.com') !== -1) {
       return false;
     }
-    
+
     return true; // log all error
   };
 </script>
@@ -391,6 +453,19 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 
+  <script keep-in-snapshot="" type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7899407-6']);
+
+    //_gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageview', location.pathname + location.search + location.hash]);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
   
 <script type="text/javascript">
 var loadSnapshotScriptsAsync = function() {
