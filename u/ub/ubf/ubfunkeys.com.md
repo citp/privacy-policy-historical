@@ -1,139 +1,657 @@
-> *The following text is extracted and transformed from the ubfunkeys.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820074032id_/http%3A//www.ubfunkeys.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubfunkeys.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106010107id_/http%3A//corporate.mattel.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Welcome to www.ubfunkeys.com
+# Mattel Online Privacy Statement
 
-** PRIVACY POLICY**
+##  Mattel Online Privacy Statement 
 
-This Privacy Policy governs your use of this Website and any content, products or services made available from or through this website including any sub domains thereof (“Website”).  We are committed to advising you of the right to your privacy and strive to provide a safe and secure user experience. This Privacy Policy sets forth the online data collection and usage policies and practices that apply to this web site. 
+Updated May 22, 2018
 
-             By using this site, you explicitly accept, without limitation or qualification, the collection, use and transfer of the personal information provided by you in the manner described in this Statement. Please read this Statement carefully as it affects your rights and liabilities under the law. If you disagree with the way we collect and process personal information, please do not use this website.
+Your privacy is important to us at the _[Mattel family of companies](https://web.archive.org/privacy-statement#anchor-1)_. This privacy statement describes the [_information_](https://web.archive.org/privacy-statement#anchor-1) Mattel collects from you, through our interactions with you and through our [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1), and how we use that information. It also describes what information [_third parties_](https://web.archive.org/privacy-statement#anchor-1) collect from you, and how we and they use that information. Key terms are italicized and underlined _( like this_) and can be found in the [_Definitions_](https://web.archive.org/privacy-statement#anchor-1) section. This Privacy Statement provides examples of data we collect, how we use it, and choices you can exercise; these examples may not be exhaustive or exclusive.
 
-** Application of this Policy**
+This statement applies to [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1), including [_Mattel Sites_](https://web.archive.org/privacy-statement#anchor-1), apps, mobile apps, online services, and connected products. [_Mattel Sites_](https://web.archive.org/privacy-statement#anchor-1) are also subject to the [MATTEL TERMS AND CONDITIONS](http://corporate.mattel.com/global/terms-conditions-shared.aspx). Other terms, end-user license agreements, or additional rules may apply. Each time you use [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1), you agree to this statement. If you don’t agree with all the terms of this privacy statement, please do not use [_Mattel  Services_](https://web.archive.org/privacy-statement#anchor-1).
 
-This policy applies to this website and regulates the processing of information relating to you and grants both us and you various rights with respect to your personal data.  It describes what type of information we collect; how we use that information and to whom we can provide that information.  It also informs you of how to notify us to stop using your information. Our company is located in the United States.  You may be located in a country that has laws which are more restrictive about the collection and use of your personal information.  However, by using our site, you agree to waive the more restrictive laws and agree to be governed by the laws of the United States. 
+We want you and your family to have fun using our services and urge you and your family to follow common sense when disclosing personal information, both through our services and anywhere else.
 
-This Site and emails received from us may also posts links to other web sites over which we have no control. As such, we are not responsible for the privacy policies or practices of other web sites when you choose to link from this site. We encourage you to review the privacy policies of those other web sites so you can understand how they collect, use and share your information. 
+### Children’s Privacy
 
-We also do not control the data use practices of those persons or entities who may access your information on this site for the purposes of providing the service or product you have requested or third party Ad Networks and other third parties with whom we work to serve you personalized ads on our site. We encourage you to review the privacy policies and opt-out choices of those third parties so you can understand how they collect, use and share your information.
+We at Mattel pride ourselves on helping bring delight to children around the world and take our responsibility to children seriously. Please visit the [ MATTEL CHILDREN'S PRIVACY STATEMENT](https://web.archive.org/childrens-privacy-statement) for specific details on our children's privacy practices.
 
-**  General Types of Information We Collect and Retain **
+**Child/children (kid/kids).** Individuals who are not of legal age to consent to the collection and processing of their personal information. ****For most areas of the world, those are individuals under 13. In the European Economic Area (EEA), they are individuals under 16. We adhere to local definitions of “children” for Mattel Services located in jurisdictions where the age is different.
 
-We collect the following general types of information about you when you visit and use our Site or through our emails: personal information, demographic information, behavioral information, and indirect information. Sometimes we collect combinations of these types of information.  
+ **Information.** Data we collect. It includes, in alphabetical order:
 
-_ No Information Collected from Children._  Company will never knowingly collect any Personal Information about children under the age of 13.  If Company obtains actual knowledge that it has collected Personal Information about a child under the age of 13, that information will be immediately deleted from its database.  Because it does not collect such information, Company has no such information to use or to disclose to third parties. 
+  *  **Automatically collected information.** Information automatically collected when you use Mattel Services, including information to facilitate your experience and help us understand our visitors, like your device information, information about the network you are using to access Mattel Services (such as preferred language or online sites or services visited before you visit a Mattel Service), and content (including ads) that you see or click on.
 
-Demographic information is information that may or may not be unique to you in the sense that it refers to selected population characteristics, Such information may include, but is not limited to, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, industry of employment, personal and online interests.
+  *  **Device information.** Information about the device, browser, or app you are using to access a Mattel Service, such as operating system, browser information, Internet Protocol (IP) address, Universal Device Identifiers (UDID), and similar information.
 
-Behavioral information is information pertaining to how you use our site, the areas of our site that you visit, the emails that you open and link to the advertiser through what services you access, and information about your computer hardware and software including your IP address, geographic location, browser preference, operating system type, domain names, times that you access the internet and other website you have been referred to us through. This information is necessary for analyzing the use of resources, troubleshooting problems, preventing fraud, and improving our services and products. 
+  *  **Interest or demographic information.** Information about a user’s favorite games, colors, Mattel characters, and similar preferences; or information about a visitor or user, such as gender, age, education, profession, occupation, or other information.
 
-_ Third party information_ is information that we acquire from a third party which may include personal, demographic, behavioral and indirect information.  We obtain this information so that we can personalize the advertising to you shown our site or in our emails.  
+  *  **Location information.** Information that allows you to be precisely located, such as through GPS coordinates on a mobile app.
 
-Personal information is information that can be used to identify you, or any other individual to whom the information may relate, personally. We do not collect personal information unless you choose to provide it to us. Some examples of personal information that we collect, depending on the services you use and local law, are: 
+  *  **Login information.** Information to identify and validate a user to allow access to a Mattel Service. For children, this is usually a user name and password. For adults, this is usually a password plus some personal contact information, like an email address.
 
-  * Telephone number
-  * Any other information you provide to us though the course of communicating with us. 
-  * First and Last Name
-  * Physical Address
-  * Email address
+  *  **Order information.** Information provided to purchase a product or Mattel Service, including details necessary to fulfill the transaction, such as products ordered, payment information, and personal contact information.
 
+  *  **Payment information.** Credit card numbers or other financial institution-issued information provided to complete a transaction, including (as applicable) _personal_ contact information.
 
+  *  **Personal information.** Information that identifies (whether directly or indirectly) a particular individual, such as the individual’s name, address, email address, device identifier, telephone number, or assigned identifier. When anonymous information is directly or indirectly associated with personal information, this anonymous information also is treated as personal information.
 
-_ Web Technology information_ is information we automatically collect from you when you open one of our emails or visit our site.  This includes information collected from the use of cookies, web beacons or java script. 
+    * For children, personal information also includes photos, video, and audio of the child.
 
-** Use of Java Script, Web Beacons and Use of Cookies**
+  *  **Personal contact information.** Information that allows us to contact you directly, such as your full name, email address, home address, telephone number, mobile number, etc.
 
-_JavaScript:_ **** We may also use JavaScript within certain advertisements. JavaScript is a computer language that enhances the functionality of websites, particularly in respect to pictures. We do not collecting any personal data via JavaScript but use it to analyze and improve the site’s functions. 
+  *  **Survey information.** Answers to surveys or questionnaires voluntarily provided.
 
-_ Disabling JavaScript:_ _  _ You may deactivate JavaScript via your browser settings or activate it the same way. If you disable JavaScript you will not be able to use some of the functions of the website.
+  *  **Social sign-on information.** Login information and other information (such as friend lists) from a social network that a user chooses to share with Mattel to access a Mattel Service or Mattel Site.
 
-_Web Beacons **:**_ ****  We also use electronic images known as Web beacons (sometimes called single-pixel gifs, clear gifs or action tags) that allow us to collect certain information about your visit to these Web pages (including the number of users who have visited those pages), measure and improve the effectiveness of advertisements, and deliver services. Web beacons are not used to access your personally identifiable information; they are a technique used to compile aggregated statistics about web site usage. Web beacons collect only a limited set of information including a cookie number, time and date of page view and a description of the page on which the Web beacon resides. This information may be shared with one or more third parties so that they can understand the kinds of visitors to the Web pages, how those visitors use those Web Pages, and the effectiveness of their advertisements. We may also use web beacons in email messages sent to individuals listed in our database.
+  *  **Third-party–provided information.** Data shared with the Mattel family of companies through a third party.
 
-_ Disabling Web Beacons._ _  _ Because Web beacons are the same as any other content request, you cannot opt out or refuse them. However, they can be rendered ineffective by either opting out of cookies or changing the cookie setup in your browser.
+  *  **User-generated content.** Information you post or upload, like reviews, comments, videos or pictures, or social media interactions. Read more at [User-Generated Content.](https://web.archive.org/privacy-statement#anchor-User-Generated-Content)
 
-_ Cookies:_ “Cookies” are a feature in your browser software. If enabled, we or a third party vendor may write cookies that may store small amounts of data on your computer about your visit to any of the pages of this Site or our emails. Cookies assist us in tracking which of our features appeal the most to you and what content you may have viewed on past visits. When you visit this site again, cookies can enable us to customize our content according to your preferences. We may use cookies to: keep track of the number of return visits to this site; accumulate and report aggregate, statistical information on website usage; deliver specific content to you based on your interests or past viewing history; save your password for ease of access to our Site.  You can disable cookies, although the Site may not function properly for you. Your browser preferences can be modified to accept or reject all cookies, or request a notification when a cookie is set. You may read more about cookies at [ http://cookiecentral.com](http://cookiecentral.com/). In order to use all of the features and functionality of Company’s websites, you need to accept cookies. 
 
-We predominately use “session” cookies, which are not permanently stored on your hard drive. Session cookies expire after two hours of inactivity or when you close your browser. “Session” cookies allow us to keep track of this data until you have completed your search or registration. 
 
-We may use “persistent” cookies primarily to ensure that we do not show you pages that you have already seen and to personalize your site experience and save you time. “Persistent” Cookies enable us to recognize whether you have responded to any questionnaire or registration or have already been presented with an advertisement or information placed on the site so that we do not show you the same information again the next time you visit our site or in the next email you receive from us. The “persistent” cookies we use will remain on your computer after you have left our site until you remove them.
 
-We may also allow other companies to display advertisements to you while you are visiting our Sites and when opening our emails. Because your web browser must request these advertisements from the other companies’ servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site. We have no control over the practices of those third party advertisers and are not responsible for their technology or tracking.  We encourage you to review the policies of such advertisers when you link to their website.
+ **Interest-based advertising.** Targeted ads for products and services that, based on your activities, are likely to be of interest to you.
 
-_ Removing Cookies:_ _  _ You have the ability to accept, decline or move cookies at any time by modifying your browser settings. Please see [ http://cookiecentral.com](http://cookiecentral.com/). If you choose to decline cookies, however, that may hinder performance and negatively impact your experience on the web site.
+ **Mattel family of companies.** When we refer to the Mattel family of companies in this statement, we mean:
 
-Click below to opt out of cookie placement: 
+  * Mattel, Inc., 
 
-[ http://www.ubfunkeys.com/cookieoptout.asp](http://www.ubfunkeys.com/cookieoptout.asp) 
+  * Fisher-Price, Inc., 
 
-_ Computer Profiles. ___  Company may also collect and accumulate other anonymous data which will help us understand and analyze the Internet experience of our visitors. For instance, Company may accumulate visitor data relating to referring domain names, the type of browsers used, operating system software, screen resolutions, color capabilities, browser plug-ins, language settings, cookie preferences, search engine keywords and JavaScript enablement. When you provide us with Personal Identification Information, we are able to use such visitor data to identify you. 
+  * Fuhu/nabi Brands,
 
-_ IP Addresses. ___  We automatically track certain information based upon your behavior on the site or from our emails. We may use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve you and our community. This information may include the URL that you just came from (whether this URL is on the site or not), which URL you next go to (whether this URL is on the site or not), your computer browser information, and your IP address. Your Internet Protocol ("IP") is a unique Internet "address" which is assigned to you by your Internet Service Provider ("ISP"). For local area network ("LAN"), DSL, or cable modem users, an IP address may be permanently assigned to a particular computer. IP addresses are automatically logged by Web servers, collecting information about a user's traffic patterns. While the IP address does not identify an individual by name, it may, with the cooperation of the ISP, be used to locate and identify an individual using the Web. Your IP address can, however, reveal what geographic area you are connecting from, or which ISP you are using. Finally, other websites you visit have IP addresses, and we may collect the IP addresses of those websites and their pages.
+  * American Girl Brands, LLC, 
 
-** Our Use of Information Collected**
+  * HIT Entertainment Limited, and 
 
-_ Improving our Website._  We use the information we gather to respond to any inquires you make; operate and improve our Site or emails, improve and create a positive user experience with our site or emails;  and deliver the products and services advertised on our Site or in our emails.  Our services include the display of personalized products, content, and advertising relating to your experience and interests. The information we gather on this Site or through our emails may be shared with other companies under common ownership with ours throughout the world. 
+  * Mega Brands Inc.
 
-_ Providing Services and Products._  We use the information we gather for the purposes of providing the services and or products you have requested and to market third party products and services to you that may be of interest to you.  This may include passing your information on to a third party with which we have a contract to provide such services.  Although our contractual arrangement limits how such third party can use your information, we do not control the privacy practices of this third party.  If you have any questions or wish to remove your information from the third party’s database, you will need to contact that party directly. 
 
-**  Disclosure of Information to 3rd parties **
 
-We disclose to third parties throughout the world your personal information, combined personal, demographic, behavioral or indirect information, as set forth below: 
 
-_ Third Party Products and Services_. We may disclose such information to third parties to provide you with information about the opportunities, products or services of third parties.  We use the data and data logs we have about you, including interests and preferences you have expressed, to determine whether you might be interested in the opportunities, products or services of a particular third party. This type of marketing may be in the form of email offers or mobile offers sent to you by third parties or telemarketing calls from third parties. 
+ **Mattel Sites.** Websites offered by the Mattel family of companies. See _ _[ Mattel Services](https://web.archive.org/privacy-statement#anchor-Mattel-Services).
 
-_ Anonymous information_. _  _We also share aggregated anonymous information about you and other persons using our Site or opening our emails with third parties so that they can understand the kinds of visitors to the Site and how those visitors use the Sites.  This includes demographic information and behavioral information.
+ **Mattel Services.** All online services offered by the Mattel family of companies, including websites (Mattel Sites), apps, and connected products. Read more at [Mattel Services.](https://web.archive.org/privacy-statement#anchor-Mattel-Services)
 
-_ Product and Service Delivery._ _    _  We may share your information with third parties who delivery the products and services you have requested. We disclose information to companies and individuals we employ to perform technical functions on our behalf. Examples include third parties who host our website, analyze our data, provide marketing assistance, and provide customer service. 
+ **Third party.** A company unrelated to the Mattel family of companies, including third-party sites that we link to, or third parties that operate online stores or mobile app stores. Read more at [Third-PartyPartners and Third-Party Technology Partners.](https://web.archive.org/privacy-statement#anchor-Links-and-Third-Parties)
 
-_ Legal Process_. We disclose information if legally required to do so, or at our discretion pursuant to a request from a governmental entity or if we believe in good faith – after considering your privacy interests and other factors – that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect our rights or property or our affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public. 
+  *  **Third-party partner or third-party service provider.** A third party that Mattel has engaged to help it provide Mattel Services, including agents, vendors, service providers, and others.
 
-_ Acquisition or Merger_. We may disclose and transfer information to a third party who acquires any or all of our business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. In addition, in the event we become the subject of an insolvency proceeding, whether voluntary or involuntary, we or our liquidator, administrator, receiver or administrative receiver may sell, license or otherwise dispose of such information in a transaction approved by the court. You will be notified of the sale of all or a substantial portion of our business to a third party by email or through a prominent notice posted on the Site.
 
-Again, in each of these situations, the recipients of your data may potentially be located in any country in the world. 
 
-** How 3rd Parties Use Your Information **
 
-Third parties also collect and use information about you on our Site in the following ways:
+ **Third-party technology partners.** Third parties whose technologies we use to offer content, understand our users, and deliver advertising.
 
-_ Advertiser cookies and web beacons._ Advertising agencies, advertising networks, and other companies who place advertisements on the Site or in our emails and on the internet generally may use their own cookies, web beacons, and other technology to collect information about you. We do not control the use of such technology and have no responsibility for the use of such technology to gather information about you. 
+[ _Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) are online services offered by the [_Mattel family of companies_](https://web.archive.org/privacy-statement#anchor-1), including:
 
-_  Hyperlinks_.  Our Site and email messages sometimes contain hypertext links to the websites of third parties. We are not responsible for the privacy practices or the content of such other websites. Such links are provided for your convenience and reference only. We do not operate or control in any respect any information, software, products or services available on such third party websites. The inclusion of a link to a website does not imply any endorsement of the services or the site, its contents, or its sponsoring organization. 
+  * [ _Mattel Sites_](https://web.archive.org/privacy-statement#anchor-1),
 
-** Email and Telemarketing with Your Information **
+  * Online Stores,
 
-_ Wireless Addresses._  If the e-mail address you provide to us is a wireless e-mail address, you agree to receive messages at such address from us or our business associates (unless and until you have elected not to receive such messages by following the instructions in the unsubscribe portion of this policy).  You understand that your wireless carrier's standard rates apply to these messages.  You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges.
+  * Enhanced [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1)
 
-_ Opting Out of Email Marketing Material._ We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when it asks for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference by emailing or calling us per the information contained on our contact page.
+  * Apps, and
 
-If you no longer wish to receive our promotions, you may opt-out of receiving it by following the instructions included in each newsletter or communication or by emailing us per the information contained on our contact page. 
+  * Connected products. Check specific connected product FAQS for info on features, who’s responsible for privacy, and what information is collected.
 
-Customer Care Contact Information: [ CONTACT@www.ubfunkeys.com](mailto:CONTACT@www.ubfunkeys.com) ; 
 
-_ Short Message Service_.  We may make available a service through which you can receive messages on your wireless device via short message service (“SMS Service”).  Data obtained from you in connection with this SMS service may include your name, address, cell phone number, your provider's name, and the date, time, and content of your messages. You represent that you are 18 years of age and the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges.  In addition to any fee of which you are notified your provider's standard messaging rates apply to our confirmation and all subsequent SMS correspondence.  All charges are billed by and payable to your mobile service provider. We will not be liable for any delays in the receipt of any SMS messages, as delivery is subject to effective transmission from your network operator. SMS message services are provided on an AS IS basis.  We may also obtain the date, time and content of your messages in the course of your use of the SMS Service.  We will use the information we obtain in connection with our SMS Service in accordance with this Privacy Policy.  If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith.  Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies.
 
-You acknowledge and agree that the SMS Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks.  We do not guarantee that your use of the SMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience.  You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service.  We may also access the content of your account and wireless account with your carrier for the purpose of identifying and resolving technical problems and service-related complaints. 
 
-_ Removal of Wireless or SMS addresses:_  You may remove your information from our database. If you remove your information from our database it will no longer be used by Company for secondary purposes, disclosed to third parties, or used by Company or third parties to send promotional correspondence to you. You may remove your information by sending your request in writing via email to [ unsubscribe@www.ubfunkeys.com](mailto:unsubscribe@www.ubfunkeys.com) .
+You may have to interface with a [_third party_](https://web.archive.org/privacy-statement#anchor-1) to make a purchase, download an app, or use a connected product. 
 
-_ Email and Unsubscribe Policy._  We may provide your personal information to third parties for promotional offers by email.  These offers may be our services and products or those of third parties.  We may maintain separate email lists for different purposes.  If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list.  To unsubscribe from all Company’s email lists, a person must send an email to unsubscribe [ Unsubscribe@www.ubfunkeys.com.](mailto:Unsubscribe@www.ubfunkeys.com)
+You may have the opportunity to connect an app or connected product through a wireless service.  
+ 
 
-_ Content of Email Messages._  You may receive certain commercial email messages sent by third parties for products which may be of interest to you.  In such case, an Advertiser's name will appear in the "From:" and the email will have a method at the bottom of the email to unsubscribe from that Advertiser.   Company is not responsible for third party emails sent to you.
+| 
 
-_ Telemarketing._  We may use your Personal Information to advertise, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones and cell phones. You may have your telephone number or cell phone number listed on a state or federal do not call registry.  By registering and using this Site, you agree that such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR §310 et seq. (the "ATSR"). Notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, you have authorized us to contact you via telemarketing in accordance with the ATSR.  Moreover, by registering with, or requesting information from, a third-party advertiser at or through the Website or other advertisement media made available by us (e.g., email marketing), you agree that such action shall constitute a purchase, an inquiry and/or an application with the respective third-party advertiser for purposes of the ATSR and you may be contacted via email, direct mail and/or telemarketing by such third-party advertiser in accordance with the ATSR. We may use Personal Information to provide the services you've requested, including services that display customized content and advertising. 
+ **Mattel Sites**
 
-** For California Residents  **
+We offer [_Mattel Sites_](https://web.archive.org/privacy-statement#anchor-1) that feature games, information, shopping, and other interactive and static activities from the _[Mattel family of companies](https://web.archive.org/privacy-statement#anchor-1)_.
 
-A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes (“California customer”) is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed.
+  * Some [_Mattel Sites_](https://web.archive.org/privacy-statement#anchor-1) or areas of sites are intended for [_children_](https://web.archive.org/privacy-statement#anchor-1), and some are intended for adults. Learn more about sites for [_children_](https://web.archive.org/privacy-statement#anchor-1) and specific practices for them at our [CHILDREN’S PRIVACY STATEMENT.](https://www.mattel.com/childrens-privacy-statement)
 
-However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy policy) a policy of not disclosing customer’s personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right.
+  * You do not have to share any [_personal contact information_](https://web.archive.org/privacy-statement#anchor-1) to use most [_Mattel Sites_](https://web.archive.org/privacy-statement#anchor-1), but most [_Mattel Sites_](https://web.archive.org/privacy-statement#anchor-1) for adults and teens contain special sections and privileges for members who register.
 
-As stated in this policy, you have agreed to allow us to share information with third parties for their direct marketing purposes until you remove your information and thus, agreement for such disclosure. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt in to such use when you provide personally identifiable information on one of our sites or contact us via email to remove your information from our database. Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.
 
-California customers may request further information about our compliance with this law by e-mailing [ CONTACT@www.ubfunkeys.com](mailto:CONTACT@www.ubfunkeys.com). Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address.
 
-** We Reserve the Right to Make Material Changes to this Privacy Policy **
 
-We reserve the right to make material changes to the substance of this Privacy Policy.  We will post those changes through a prominent notice on the web site so that you will always know what information we gather, how we might use that information, and to whom we will disclose it.
+ **Online Stores**
 
-** Measures of Security **
+We offer opportunities to purchase products in our online stores, apps, or through other media or business partners. Online stores are often part of a larger [_Mattel Site_](https://web.archive.org/privacy-statement#anchor-1).
 
-We endeavor to safeguard and protect your information. When you submit information at the website, such information is protected both online and offline. The servers in which we store Personal Information are kept in a secure physical environment. We have security measures in place to protect against the loss, misuse, and alteration of personal information under our control. Currently, we use Secure Socket Layer Software ("SSL") to protect data and to secure any transactions. SSL encrypts information, including credit card numbers, names and addresses as they are transmitted over the Internet. Please be advised that, although we take commercially reasonable technological precautions to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, we cannot and do not warrant that your information will be absolutely secure. Any transmission of data at or through this site is at your own risk. However, access to your information is strictly limited, and not accessible to the public.
+  * Customers must be over the age of 18 with a valid payment method to make a purchase. 
+
+  * When a customer places an order online, we will send a confirming email message. 
+
+    * We may also send an occasional email featuring a special promotion or product that may be of interest to customers. 
+
+    * Any customer who prefers not to receive an online order confirmation or promotional email may indicate this preference on the online store order form. 
+
+    * If you do receive marketing or promotional emails from us that you would rather not receive, simply follow the “unsubscribe” instructions included in each message.
+
+    * You can also change your communication preferences in [MATTEL COMMUNICATIONS PREFERENCES](https://shop.mattel.com/webapp/wcs/stores/servlet/AjaxLogonView?catalogId=10103&langId=-1&storeId=10151&krypto=l3Pt765QidDDP2g3jxi06RKMxzS8PFh7R3YJ%2FUu2%2FfqKCagvpB4siiQ7%2BN%2Fg0iTEvRzA87bjwnAAxhkkSJDobA%3D%3D) (except for American Girl) or in [AMERICAN GIRL COMMUNICATIONS PREFERENCES](https://www.americangirl.com/webapp/wcs/stores/servlet/AjaxLogonView?catalogId=10601&langId=-1&storeId=10651&krypto=GYgCwdYQAAoeOX8xtiJZwvsEDvjMpXPzd8oKBoM843Hv9VPUgF4ZmPgxnTIuP428MC0xbcymBctaZWk3QybqwA%3D%3D) (for American Girl only).
+
+    * Please note that a request to unsubscribe from marketing or promotional emails will not affect transactional emails (such as those related to a purchase, paid subscription, or product registration).
+
+
+
+
+ **Enhanced Mattel Services**
+
+  * Enhanced [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) may be available to you or on behalf of your [_child_](https://web.archive.org/privacy-statement#anchor-1) for a monthly or other fee with some [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1). 
+
+    * Only a parent or guardian can register [_children_](https://web.archive.org/privacy-statement#anchor-1) to participate in enhanced subscription [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) or certain community features at [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1). 
+
+    * To register your _[child](https://web.archive.org/privacy-statement#anchor-1)_ , we will ask you to provide your [_login information_](https://web.archive.org/privacy-statement#anchor-1) in addition to your contact details and credit card [_information_](https://web.archive.org/privacy-statement#anchor-1). 
+
+    * We may offer you the option to be billed automatically for subscription service fees. 
+
+    * If you elect to automatically renew a subscription, we or our trusted _[third-party partners](https://web.archive.org/privacy-statement#anchor-1)_ will retain your registration [_information_](https://web.archive.org/privacy-statement#anchor-1), including your credit card [_information_](https://web.archive.org/privacy-statement#anchor-1), so we can process your request.
+
+
+
+
+ **Apps  **
+
+We offer a variety of fun and engaging apps featuring our brands. In some cases, apps may be available through a Mattel Online Store, but most often when you download or purchase an app, or make an in-app purchase, you do so through a third-party mobile application online store. Visit [LINKS AND THIRD PARTIES](https://web.archive.org/privacy-statement#anchor-Links-and-Third-Parties) for more information.
+
+ **Please note:** Use of apps may be subject to an End-User License Agreement (EULA) in addition to our standard [MATTEL TERMS AND CONDITIONS](http://corporate.mattel.com/global/terms-conditions-shared.aspx).
+
+ **Connected Products**
+
+Mattel offers parents and [_children_](https://web.archive.org/privacy-statement#anchor-1) a variety of products that connect to the internet. We sometimes work with [_third-party partners_](https://web.archive.org/privacy-statement#anchor-1) to offer connected products.
+
+  * Some connected products, like connected baby monitors, are purely for parents’ use. 
+
+  * Use of connected products typically requires downloading an associated app. 
+
+  * Privacy practices for some connected products are the responsibility of a [_third party_](https://web.archive.org/privacy-statement#anchor-1).  
+
+  * We provide FAQS and other information to help you understand specific connected product features (for example, whether they collect voice or visual data), who’s responsible for privacy, and what [_information_](https://web.archive.org/privacy-statement#anchor-1) we collect. 
+
+
+
+
+ **Wireless Services**
+
+We may communicate with you on your mobile device. To receive [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) through a wireless connection, visitors must provide their consent and confirm their understanding that they will be charged by their carrier to send and receive messages according to their applicable service plan. You may be asked to reconfirm such agreement. 
+
+  * Standard messaging rates will apply unless otherwise indicated; if premium rates apply, visitors will be notified before registration. 
+
+  * Mattel is not responsible for wireless service charges, such as messaging fees, associated with accessing or connecting to [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1)
+
+
+  
+---|---  
+  
+  * We collect [_information_](https://web.archive.org/privacy-statement#anchor-1) to allow you to register to use a [_Mattel Service_](https://web.archive.org/privacy-statement#anchor-1). [_Login information_](https://web.archive.org/privacy-statement#anchor-1) is often all we need to register you.
+
+  * We collect [_personal contact information_](https://web.archive.org/privacy-statement#anchor-1).
+
+  * We collect other[ _personal information_](https://web.archive.org/privacy-statement#anchor-1) about you, such as [_interest or demographic information_](https://web.archive.org/privacy-statement#anchor-1), etc.
+
+  * We collect [_user-generated content_](https://web.archive.org/privacy-statement#anchor-1) where a [_Mattel Service_](https://web.archive.org/privacy-statement#anchor-1) gives you that option.
+
+  * We collect [_device information_](https://web.archive.org/privacy-statement#anchor-1), [_automatically collected information_](https://web.archive.org/privacy-statement#anchor-1), and [_information_](https://web.archive.org/privacy-statement#anchor-1) that helps you access [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) (such as [_login information_](https://web.archive.org/privacy-statement#anchor-1), Wi-Fi network name, etc.).
+
+
+| 
+
+We collect [_information_](https://web.archive.org/privacy-statement#anchor-1) from you and about you to provide you with [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1). The [_information_](https://web.archive.org/privacy-statement#anchor-1) we collect depends on the specific [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) involved.
+
+We May Collect from You:
+
+  * [ _Login information_](https://web.archive.org/privacy-statement#anchor-1).
+
+  * [ _Personal contact information_](https://web.archive.org/privacy-statement#anchor-1).
+
+  * [ _Automatically collected information_](https://web.archive.org/privacy-statement#anchor-1).
+
+  * [ _Social sign-on information_](https://web.archive.org/privacy-statement#anchor-1).
+
+  * [ _Order information_](https://web.archive.org/privacy-statement#anchor-1).
+
+  * [ _Payment information_](https://web.archive.org/privacy-statement#anchor-1).
+
+  * A ship-to name and address when you make a purchase and ask us to send it to you or to someone else.
+
+  * [ _Location information_](https://web.archive.org/privacy-statement#anchor-1).
+
+  * The email addresses, user names, or other [_information_](https://web.archive.org/privacy-statement#anchor-1) about friends to whom you wish to send an e-card or invite to participate in an offering on [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1).
+
+  * [ _Information_](https://web.archive.org/privacy-statement#anchor-1) about your [_child_](https://web.archive.org/privacy-statement#anchor-1) (such as your [_child_](https://web.archive.org/privacy-statement#anchor-1)’s [_personal information_](https://web.archive.org/privacy-statement#anchor-1) and [_personal contact information_](https://web.archive.org/privacy-statement#anchor-1), including [_interest or demographic information_](https://web.archive.org/privacy-statement#anchor-1)).
+
+  * [ _Information_](https://web.archive.org/privacy-statement#anchor-1) that allows us to confirm that you are the parent or legal guardian of your [_child_](https://web.archive.org/privacy-statement#anchor-1), including your age.
+
+  * [ _User-generated content_](https://web.archive.org/privacy-statement#anchor-1).
+
+  * Wi-Fi network name.
+
+  * [ _Survey information_](https://web.archive.org/privacy-statement#anchor-1).
+
+
+  
+---|---  
+  
+We collect [_information_](https://web.archive.org/privacy-statement#anchor-1): 
+
+  * that you share voluntarily;
+
+  * to fulfill a transaction; and
+
+  * automatically. 
+
+
+
+
+Please visit [ABOUT COOKIES AND TECHNOLOGIES](https://web.archive.org/privacy-statement#anchor-8) for more information on technologies used to collect your information automatically.
+
+| 
+
+ **We Collect Information That You Share Voluntarily**
+
+You can use many of our [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) without sharing any [_personal contact information_](https://web.archive.org/privacy-statement#anchor-1). If you choose, you can share [_personal contact information_](https://web.archive.org/privacy-statement#anchor-1),[ _personal information_](https://web.archive.org/privacy-statement#anchor-1),[ _login information_](https://web.archive.org/privacy-statement#anchor-1), [_interest or demographic information_](https://web.archive.org/privacy-statement#anchor-1), or [_survey information_](https://web.archive.org/privacy-statement#anchor-1) about you or your [_child_](https://web.archive.org/privacy-statement#anchor-1) with us when you:
+
+  * Register with a _[Mattel Service](https://web.archive.org/privacy-statement#anchor-1)_.
+
+  * Play a game.
+
+  * Use an interactive activity.
+
+  * Make a purchase at one of our online stores (see [WE COLLECT ORDER INFORMATION](https://web.archive.org/privacy-statement#anchor-4)).
+
+  * Order a catalogue.
+
+  * Enter a sweepstakes or contest.
+
+  * Sign up to receive information and offers.
+
+  * Apply for a job online.
+
+  * Respond to a survey or questionnaire.
+
+  * Post [_user-generated content_](https://web.archive.org/privacy-statement#anchor-1). Special rules apply; read more at [USER-GENERATED CONTENT](https://web.archive.org/privacy-statement#anchor-11).
+
+
+
+
+ **We Collect Order Information**
+
+When a customer puts an item in a shopping cart, places an order or requests a catalogue online, we collect [_order information_](https://web.archive.org/privacy-statement#anchor-1) associated with the transaction. This may include [_personal information_](https://web.archive.org/privacy-statement#anchor-1) about your [_child_](https://web.archive.org/privacy-statement#anchor-1).
+
+Customers may register when they place orders to conveniently complete an order and place future orders. When registered customers return to the Site to place subsequent orders, they can identify themselves with their [_login information_](https://web.archive.org/privacy-statement#anchor-1).
+
+ **We Collect Information Automatically When You Access a Mattel Service**
+
+We collect some [_automatically collected information_](https://web.archive.org/privacy-statement#anchor-1), including _[device information](https://web.archive.org/privacy-statement#anchor-1)_ , to provide you with appropriate [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) or [_Mattel Sites_](https://web.archive.org/privacy-statement#anchor-1) (for example, in your language) when you use or visit them.  
+  
+---|---  
+  
+We collect [_information_](https://web.archive.org/privacy-statement#anchor-1) from you to serve your needs, manage our content and advertising, operate efficiently, and improve [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) and products.
+
+  * We collect [_information_](https://web.archive.org/privacy-statement#anchor-1) to do what you ask us to.
+
+  * We collect [_information_](https://web.archive.org/privacy-statement#anchor-1) to provide you information on [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) and products that you or your [_child_](https://web.archive.org/privacy-statement#anchor-1) may be interested in.
+
+  * We collect [_information_](https://web.archive.org/privacy-statement#anchor-1) to support [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) and operations.
+
+  * We collect [_information_](https://web.archive.org/privacy-statement#anchor-1) to improve [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1).
+
+  * We collect [_information_](https://web.archive.org/privacy-statement#anchor-1)to improve our products.
+
+  * We collect [_information_](https://web.archive.org/privacy-statement#anchor-1) to offer you content.
+
+  * We collect [_information_](https://web.archive.org/privacy-statement#anchor-1) to advertise to you.
+
+  * We collect [_information_](https://web.archive.org/privacy-statement#anchor-1) to maintain security.
+
+  * We collect [_information_](https://web.archive.org/privacy-statement#anchor-1) to protect our legal rights and the legal rights of others.
+
+
+| 
+
+We collect information:
+
+  * To provide you with [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1). 
+
+  * To respond to your requests.
+
+  * To verify you or your [_child_](https://web.archive.org/privacy-statement#anchor-1)’s age.
+
+  * To complete a transaction.
+
+  * To fulfill a transaction.
+
+  * To confirm your order.
+
+  * To give you updates about your order status.
+
+  * To fulfill your free or paid subscriptions.
+
+  * To notify winners in contests and sweepstakes.
+
+  * To send you recommendations on [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) of interest to you or your [_children_](https://web.archive.org/privacy-statement#anchor-1).
+
+  * To send you recommendations on products of interest to you or your [_children_](https://web.archive.org/privacy-statement#anchor-1).
+
+  * To send you marketing communications.
+
+  * To send you catalogues.
+
+  * To offer [_interest-based advertising_](https://web.archive.org/privacy-statement#anchor-1).
+
+  * To analyze and measure the effectiveness of our advertising.
+
+  * To support [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1).
+
+  * To understand our visitors.
+
+  * To improve our products.
+
+  * To improve [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1).
+
+  * To develop new products. 
+
+  * To develop new [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1).
+
+  * To maintain the security, integrity, and quality of our products and [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1). 
+
+  * To protect intellectual property.
+
+  * To protect our legal rights.
+
+  * To protect the legal rights of others.
+
+
+
+
+We may work with [_third-party partners_](https://web.archive.org/privacy-statement#anchor-1), including [_third-party technology partners_](https://web.archive.org/privacy-statement#anchor-1), for some or all of these purposes. You can learn about some of these [_third parties_](https://web.archive.org/privacy-statement#anchor-1) by visiting [ABOUT COOKIES AND TECHNOLOGIES](https://web.archive.org/privacy-statement#anchor-8).
+
+We may combine all [_information_](https://web.archive.org/privacy-statement#anchor-1) we have collected to better understand your needs, improve [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) and operations, manage content and advertising, send you offers and information, and better serve you.
+
+If under the laws of your region we need to get your consent to collect the [_information_](https://web.archive.org/privacy-statement#anchor-1)for a particular purpose, we will do so at the time we collect the [_information_](https://web.archive.org/privacy-statement#anchor-1).  
+  
+---|---  
+  
+We may share [_information_](https://web.archive.org/privacy-statement#anchor-1) as follows:
+
+  * We share [_information_](https://web.archive.org/privacy-statement#anchor-1) we obtain within the [_Mattel family of companies,_](https://web.archive.org/privacy-statement#anchor-1) and with our [_third-party partners_](https://web.archive.org/privacy-statement#anchor-1).
+
+  * We share some [_personal contact information_](https://web.archive.org/privacy-statement#anchor-1) with third parties for marketing purposes with your consent.
+
+  * As is customary with catalogue businesses, we share mailing addresses (but not email addresses) with other catalogue companies whose products and services may be of interest to you. Where required, we obtain your consent first. We give you the opportunity to opt out.
+
+  * If you provide [_social sign-on information_](https://web.archive.org/privacy-statement#anchor-1), Mattel shares [_information_](https://web.archive.org/privacy-statement#anchor-1) with your social network.
+
+  * We share [_information_](https://web.archive.org/privacy-statement#anchor-1) about usage and interests that we obtain through cookies and technology with [_third-party technology partners_](https://web.archive.org/privacy-statement#anchor-1), and obtain consent if required by applicable law. Find out more about [Your Choices and Controls](https://web.archive.org/privacy-statement#anchor-9).
+
+  * We share any [_information_](https://web.archive.org/privacy-statement#anchor-1) (including [_personal information_](https://web.archive.org/privacy-statement#anchor-1)) we obtain as necessary to satisfy a legal request or subpoena, protect property or personal safety, when a Mattel business is bought or sold, or as otherwise permitted or required by law.
+
+
+| 
+
+We share [_information_](https://web.archive.org/privacy-statement#anchor-1) that we obtain within the [_Mattel family of companies_](https://web.archive.org/privacy-statement#anchor-1), and with our [_third-party partners_](https://web.archive.org/privacy-statement#anchor-1) for them to fulfill their tasks on our behalf.
+
+Except as described in this Privacy Statement, we do not share [_personal contact information_](https://web.archive.org/privacy-statement#anchor-1) that we receive online from or about [_children_](https://web.archive.org/privacy-statement#anchor-1) with other companies outside the [_Mattel family of companies_](https://web.archive.org/privacy-statement#anchor-1) for their direct marketing purposes.
+
+ **Sharing with Our Third-Party Partners**
+
+We may share your [_information_](https://web.archive.org/privacy-statement#anchor-1) with a variety of [_third-party partners_](https://web.archive.org/privacy-statement#anchor-1). They:
+
+  * Provide database and server maintenance and security.
+
+  * Help us manage transactions.
+
+  * Help us process and fulfill orders or requests.
+
+  * Help us analyze our offerings.
+
+
+
+
+They also provide other similar services to the [_Mattel family of companies_](https://web.archive.org/privacy-statement#anchor-1). We require third-party partners that access [_information_](https://web.archive.org/privacy-statement#anchor-1) to safeguard the [_information_](https://web.archive.org/privacy-statement#anchor-1).
+
+ **Sharing with Third Parties for Marketing Purposes**
+
+  * We share certain names and mailing addresses of catalogue recipients with [_third parties_](https://web.archive.org/privacy-statement#anchor-1) whose catalogues may be of interest to you. Where required, we obtain your consent first. You can opt out at any time.
+
+  * With your consent, Mattel shares [_personal contact information_](https://web.archive.org/privacy-statement#anchor-1) with outside companies that offer products or services that may interest you.
+
+  * We will remove your name from the list we provide to outside companies if you contact us. Please visit [Mattel Communications Preferences](https://shop.mattel.com/webapp/wcs/stores/servlet/AjaxLogonView?catalogId=10103&langId=-1&storeId=10151&krypto=l3Pt765QidDDP2g3jxi06RKMxzS8PFh7R3YJ%2FUu2%2FfqKCagvpB4siiQ7%2BN%2Fg0iTEvRzA87bjwnAAxhkkSJDobA%3D%3D) (except for American Girl) or [American Girl Communications Preferences](https://www.americangirl.com/webapp/wcs/stores/servlet/AjaxLogonView?catalogId=10601&langId=-1&storeId=10651&krypto=GYgCwdYQAAoeOX8xtiJZwvsEDvjMpXPzd8oKBoM843Hv9VPUgF4ZmPgxnTIuP428MC0xbcymBctaZWk3QybqwA%3D%3D) (for American Girl only).
+
+
+
+
+ **Sharing with Social Networks**
+
+If you provide [_social sign-on information_](https://web.archive.org/privacy-statement#anchor-1) to log in to a [_Mattel Service_](https://web.archive.org/privacy-statement#anchor-1) or [_Mattel Site_](https://web.archive.org/privacy-statement#anchor-1), [_information_](https://web.archive.org/privacy-statement#anchor-1) is shared with your social network, such as the fact that you logged in to a Mattel Service or Mattel Site, or your activity on the[ _Mattel Service_](https://web.archive.org/privacy-statement#anchor-1) or [_Mattel Site_](https://web.archive.org/privacy-statement#anchor-1). We may send messages via the social network to communicate with you.
+
+ **Sharing with Third-Party Technology Partners**
+
+We share [_information_](https://web.archive.org/privacy-statement#anchor-1) about usage and interests that we obtain through cookies and technology with [_third-party technology partners_](https://web.archive.org/privacy-statement#anchor-1), and obtain consent if required by applicable law. Find out more at [Your Choices and Controls](https://web.archive.org/privacy-statement#anchor-9).
+
+ **Sharing to Protect Legal Rights and Fulfill Legal Obligations**
+
+If Mattel believes that anyone’s behavior in any [_Mattel Service_](https://web.archive.org/privacy-statement#anchor-1) may damage us, [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1), or any person or property, we may disclose [_personal information_](https://web.archive.org/privacy-statement#anchor-1) to prevent such harm. In that case, we might try to identify the wrongdoer, contact them, or bring legal action against them.
+
+We may disclose [_personal information_](https://web.archive.org/privacy-statement#anchor-1) if we believe that the disclosure is required or permitted by law, or in response to a legal request or subpoena.  
+  
+---|---  
+  
+  * [ _Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) may link to or use other content from the internet. We do not control the data collection practices or terms of use of any [_third-party_](https://web.archive.org/privacy-statement#anchor-1) site. The [_third party_](https://web.archive.org/privacy-statement#anchor-1)’s privacy policy and terms of use apply to those sites.
+
+  * Your computer or mobile device settings may allow you to block or partially block other content, but those settings may not be effective in all cases.
+
+  * You may be able to order or register through a [_third-party_](https://web.archive.org/privacy-statement#anchor-1) vendor. The [_third party_](https://web.archive.org/privacy-statement#anchor-1)’s privacy policy and terms of service apply to activity conducted with the third-party vendor.
+
+  * We work with [_third-party partners_](https://web.archive.org/privacy-statement#anchor-1) to offer [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1).
+
+
+| 
+
+ **Other Sites We Link to**
+
+[ _Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) may connect with other content from the internet that we do not control.
+
+  * We may link to social media sites or sites that sell our products.
+
+  * We may link to other [_third-party_](https://web.archive.org/privacy-statement#anchor-1) sites or services that we think you may find of interest.
+
+  * We encourage you to carefully review the privacy policy and terms of use of the third-party providers, as they are not covered by this Privacy Statement, and Mattel is not responsible for them.
+
+  * You may be able to alter settings on your browser, device, or other software to block those third parties. Sometimes those settings may not be effective.
+
+
+
+
+ **Third-Party Vendors**
+
+When you place an order or register on a [_Mattel Service_](https://web.archive.org/privacy-statement#anchor-1) where transactions are handled by a third-party vendor (for example, PayPal), those transactions are conducted through the vendor’s website.
+
+  * You should be sure to review the [_third party_](https://web.archive.org/privacy-statement#anchor-1)’s website terms and conditions and privacy policy before submitting any [_personal information_](https://web.archive.org/privacy-statement#anchor-1) or engaging in any transactions through the third-party site.
+
+  * Mattel is not responsible for any transactions made with third parties, or for their content, terms and conditions, or privacy policies.
+
+
+
+
+ **Third-Party Partners and Third-Party Technology Partners**
+
+  * We work with [_third-party partners_](https://web.archive.org/privacy-statement#anchor-1) to offer [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1). We ask them to carefully handle [_information_](https://web.archive.org/privacy-statement#anchor-1) that is entrusted to them.
+
+  * We also work with [_third-party technology partners_](https://web.archive.org/privacy-statement#anchor-1) to provide content, understand our users, and deliver advertising on our [_Mattel Sites_](https://web.archive.org/privacy-statement#anchor-1) and on [_third-party_](https://web.archive.org/privacy-statement#anchor-1) sites. Read more at [About Cookies and Technologies](https://web.archive.org/privacy-statement#anchor-8), and find out about tools are available to help you control some of these technologies at the [Third-Party Technology List](https://www.mattel.com/sites/mattel_mattelcom/files/2018-07/2018-07-25%20Mattel%20CLEAN%20List%20of%20partners%20%20tools.pdf) and the Mobile Third-Party Technology List.
+
+
+
+
+ **Mobile App Stores**
+
+  * You may be required to register with and log onto a [_third party_](https://web.archive.org/privacy-statement#anchor-1) mobile app store before you can download or purchase a Mattel app or make in-app purchases using a Mattel app.
+
+  * When downloading a Mattel app, or using a Mattel app with online features through your mobile platform, the app provider will typically also collect certain device and app-related [_information_](https://web.archive.org/privacy-statement#anchor-1). Mattel does not control the requirements or policies of app stores; you should review the privacy policy and terms of use of the mobile app stores before downloading or using any app and check your device settings for control options.
+
+
+  
+---|---  
+  
+ **Your Choices**
+
+We respect your choices about receiving promotional offers and updates from us. You can change what communications you get from us in [Mattel Communications Preferences](https://shop.mattel.com/webapp/wcs/stores/servlet/AjaxLogonView?catalogId=10103&langId=-1&storeId=10151&krypto=l3Pt765QidDDP2g3jxi06RKMxzS8PFh7R3YJ%2FUu2%2FfqKCagvpB4siiQ7%2BN%2Fg0iTEvRzA87bjwnAAxhkkSJDobA%3D%3D) or in [American Girl Communications Preferences](https://www.americangirl.com/webapp/wcs/stores/servlet/AjaxLogonView?catalogId=10601&langId=-1&storeId=10651&krypto=GYgCwdYQAAoeOX8xtiJZwvsEDvjMpXPzd8oKBoM843Hv9VPUgF4ZmPgxnTIuP428MC0xbcymBctaZWk3QybqwA%3D%3D).
+
+You can make choices about your _[personal information](https://web.archive.org/privacy-statement#anchor-1)_ that Mattel has in the [Mattel GDPR Choice Portal](https://privacy.mattel.com/) (except for American Girl) or the [American Girl GDPR Choice Portal](https://privacy.americangirl.com/) (for American Girl only). Parents can access their _[children](https://web.archive.org/privacy-statement#anchor-1)_ ’s [_personal information_](https://web.archive.org/privacy-statement#anchor-1) and make choices about it using the [Parental Access Form](http://corporate.mattel.com/ParentalAccessForm.pdf).
+
+ **App Controls**
+
+Your device may allow you to block or manage push notifications, _[location information](https://web.archive.org/privacy-statement#anchor-1)_ , in-app purchases, or ability to access the web.
+
+| 
+
+ _Your Choices About Communications_
+
+If you want to stop receiving promotional updates or product information at any time, you can change your [Mattel Communications Preferences](https://shop.mattel.com/webapp/wcs/stores/servlet/AjaxLogonView?catalogId=10103&langId=-1&storeId=10151&krypto=l3Pt765QidDDP2g3jxi06RKMxzS8PFh7R3YJ%2FUu2%2FfqKCagvpB4siiQ7%2BN%2Fg0iTEvRzA87bjwnAAxhkkSJDobA%3D%3D) or your [American Girl Communications Preferences](https://www.americangirl.com/webapp/wcs/stores/servlet/AjaxLogonView?catalogId=10601&langId=-1&storeId=10651&krypto=GYgCwdYQAAoeOX8xtiJZwvsEDvjMpXPzd8oKBoM843Hv9VPUgF4ZmPgxnTIuP428MC0xbcymBctaZWk3QybqwA%3D%3D). Our mailings and email will also include information on how to opt out. Email opt-out requests will be processed in 10 business days. Postal mailing opt-out requests may take longer.
+
+ _Your Choices and Control About Your Personal Information_
+
+If you want to access, update, or delete your _[personal information](https://web.archive.org/privacy-statement#anchor-1)_ ; withdraw your consent to our collection or use of your [_personal information_](https://web.archive.org/privacy-statement#anchor-1); object to our processing of your [_personal information_](https://web.archive.org/privacy-statement#anchor-1); or request a portable copy of your [_personal information_](https://web.archive.org/privacy-statement#anchor-1), you can access the [Mattel GDPR Choice Portal](https://privacy.mattel.com/) (except for American Girl) or the [American Girl GDPR Choice Portal](https://privacy.americangirl.com/) (for American Girl only). You can use these portals to make choices about information that Mattel has about you.
+
+ _Parental Controls_
+
+Parents can access their children’s data and make choices about how Mattel uses that data, including updating or deleting the data, using the [Parental Access Form](http://corporate.mattel.com/ParentalAccessForm.pdf).
+
+ _App Controls_
+
+With apps, you may be able to:
+
+  * Use your built-in mobile device settings and controls to:
+
+    * Manage push notifications.
+
+    * Manage [_location information_](https://web.archive.org/privacy-statement#anchor-1).
+
+    * Manage or restrict in-app purchases.
+
+    * Manage camera, microphone, and photo reel, album, or gallery permissions.
+
+  * Block navigation to the web by turning off network access on the device or turning off the browser.
+
+
+
+
+Access to or availability of controls may vary depending on your device.  
+  
+---|---  
+  
+We strive to maintain the security of [_information_](https://web.archive.org/privacy-statement#anchor-1) but cannot guarantee that [_information_](https://web.archive.org/privacy-statement#anchor-1) security measures are failure proof.
+
+| 
+
+We strive to protect the [_information_](https://web.archive.org/privacy-statement#anchor-1) you provide to us when you use our [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) through commercially reasonable means.
+
+  * We and our agents and affiliates use encryption or other security measures to protect [_payment information_](https://web.archive.org/privacy-statement#anchor-1) during transmission and adopt internal procedures to safeguard this [_information_](https://web.archive.org/privacy-statement#anchor-1) in our systems.
+
+  * We require our [_third-party partners_](https://web.archive.org/privacy-statement#anchor-1) to follow industry-accepted best practices to safeguard [_personal contact information_](https://web.archive.org/privacy-statement#anchor-1) and other [_information_](https://web.archive.org/privacy-statement#anchor-1) they handle.
+
+  * Please be aware that while we work hard to protect your [_information_](https://web.archive.org/privacy-statement#anchor-1), no method is 100% secure.
+
+  * We cannot guarantee security procedures of third parties.
+
+  * We recommend that you learn about and use tools, habits, and practices to protect the security of you and your family. For example, we recommend that you use unique passwords that are hard for others to copy or guess.
+
+
+  
+---|---  
+  
+  * [ _Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) and servers are governed by U.S. law, which may have different privacy requirements for your [_information_](https://web.archive.org/privacy-statement#anchor-1) from where you live.
+
+  * Our servers are in the United States and the United Kingdom. We may also use cloud services.
+
+  * We use Standard Contractual Clauses for transferring [_personal information_](https://web.archive.org/privacy-statement#anchor-1) from the European Economic Area (EEA) or Switzerland to non EEA-countries.
+
+  * Your use of [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) is subject to the collection, transfer, processing, and use of data in accordance with this Privacy Statement.
+
+  * Do not use [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) if you do not agree to this Privacy Statement.
+
+
+| 
+
+[ _Mattel Services_](https://web.archive.org/privacy-statement#anchor-1), the servers that make [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) available, and databases where we house [_information_](https://web.archive.org/privacy-statement#anchor-1) may be located in countries that may have privacy laws that differ from where you live.
+
+  * Servers for [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) are located in the United States and the United Kingdom. We may use cloud services whose servers may be anywhere in the world.
+
+  * For users whose use of [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) results in the transfer of personal [_information_](https://web.archive.org/privacy-statement#anchor-1) from the European Economic Area (EEA) or Switzerland to non-EEA countries, we rely on Standard Contractual Clauses.
+
+  * By using [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1), the transfer, collection, processing and use of data will occur as specified in this Privacy Statement, our [Mattel Terms and Conditions](http://corporate.mattel.com/global/terms-conditions-shared.aspx), and any other terms provided at the time of collection.
+
+  * If you do not consent to the transfer, collection, processing, or use of this data according to these terms, do not use the Services.
+
+
+  
+---|---  
+  
+  * We will update this Privacy Statement from time to time by posting it here.
+
+  * We will not change how we handle previously collected [_information_](https://web.archive.org/privacy-statement#anchor-1) without providing notice. If applicable, we will also obtain your consent. 
+
+
+| 
+
+We may update our Privacy Statement from time to time. When this happens, we will notify you of the new provisions by posting them on our _[Mattel Sites](https://web.archive.org/privacy-statement#anchor-1)._
+
+  * We will not make a material change in how we handle [_personal information_](https://web.archive.org/privacy-statement#anchor-1) previously collected without notice and, as required, with consent. 
+
+
+  
+---|---  
+  
+If you are a resident of California, you have certain rights. 
+
+| 
+
+Under California Civil Code § 1798.83, California residents have the right to receive, once a year, [_information_](https://web.archive.org/privacy-statement#anchor-1) about [_third parties_](https://web.archive.org/privacy-statement#anchor-1) with whom we have shared [_information_](https://web.archive.org/privacy-statement#anchor-1) about you for their marketing purposes during the previous calendar year, and a description of the categories of [_personal information_](https://web.archive.org/privacy-statement#anchor-1) shared. To make such a request, please complete and send us the [Privacy Request Form](http://corporate.mattel.com/CAShineTheLightActRequestForm.pdf). We will respond to you within 30 days of receiving such a request.  
+  
+---|---  
+  
+If you are a citizen of a European Economic Area (EEA) Member State and you have questions about Mattel’s privacy practices, you can contact supervisory authorities in the EEA to share your concerns.
+
+| 
+
+If you are a citizen of a European Economic Area (EEA) Member State, you can exercise your rights under the General Data Protection Regulation (GDPR) by visiting the [MATTEL GDPR CHOICE PORTAL](https://privacy.mattel.com/) or the [AMERICAN GIRL GDPR CHOICE PORTAL.](https://privacy.americangirl.com/) You can also contact supervisory authorities within the EEA, including in your own Member State, about concerns you have related to Mattel’s privacy practices. The lead supervisory authority for [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) offered in the EEA is the Dutch Data Protection Authority, the Autoriteit Persoonsgegevens.  
+  
+---|---  
+  
+We do not take action to respond to do not track signals available on some browsers.
+
+| 
+
+Some web browsers may transmit “do not track” signals. Web browsers may incorporate or activate these features differently, making it unclear if users have consciously activated them. As a result, at this time we do not take steps to respond to such signals. You can manage your cookie preferences using your own browser settings to accept or block some or all cookies or receive notice so you can consent to cookies. If you block all cookies some features of _[Mattel Sites](https://web.archive.org/privacy-statement#anchor-1)_ may be unavailable to you.  
+  
+---|---  
+  
+[ _Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) that feature the following seals are certified by the respective organizations:
+
+  * Entertainment Software Rating Board Privacy Certified Program
+
+  * kidSAFE Seal Program
+
+
+| 
+
+ _ESRB Privacy Certified Program_  
+Mattel is a valid licensee, and participating member in good standing of the [ENTERTAINMENT SOFTWARE RATING BOARD’S PRIVACY CERTIFIED PROGRAM ](http://www.esrb.org/privacy/faq.aspx#10)(“ESRB Privacy Certified”). ESRB Privacy Certified seals appear on the [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) that participate in the program. The ESRB’s Privacy Certified Program is designed to ensure that our [_information_](https://web.archive.org/privacy-statement#anchor-1) disclosure practices are responsible and appropriate.   
+To help protect your privacy, we have voluntarily undertaken this privacy initiative and have had [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) where the ESRB Privacy Certified seal is posted reviewed and certified by ESRB Privacy Certified to meet established online [_information_](https://web.archive.org/privacy-statement#anchor-1) collection, use, and disclosure practices. As a licensee of this privacy program, we are subject to audits of services and other enforcement and accountability mechanisms administered independently by the ESRB.  
+If you believe that we have not responded to your privacy-related inquiry about a [_Mattel Service_](https://web.archive.org/privacy-statement#anchor-1) or [_Mattel Site_](https://web.archive.org/privacy-statement#anchor-1) that bears an ESRB Privacy Certified seal or your inquiry about a [_Mattel Service_](https://web.archive.org/privacy-statement#anchor-1) or [_Mattel Site_](https://web.archive.org/privacy-statement#anchor-1) has not been satisfactorily addressed, please contact ESRB at http://www.esrb.org/privacy/contact.aspx or: 
+
+ESRB  
+Attn: Privacy Certified Program  
+420 Lexington Avenue, Suite 2240 New York, NY 10170  
+privacy@esrb.org
+
+ESRB is not affiliated with Mattel and cannot help you with non-privacy-related issues. 
+
+ _Kidsafe Seal Program_  
+Some Mattel connected products bear the kidSAFE Seal. This means that the products and [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1) that bear the kidSAFE Seal have been independently reviewed, certified, or listed by kidSAFE to meet certain standards of online safety or privacy, and that Mattel and any technology partner it has partnered with are authorized to display the kidSAFE Seal in connection with that product.  
+If you have an inquiry about a [_Mattel Service_](https://web.archive.org/privacy-statement#anchor-1) or product that bears the kidSAFE Seal, please contact kidSAFE at https://www.proprofs.com/survey/t/?title=xs7un.  
+   
+  
+---|---
