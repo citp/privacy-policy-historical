@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fastotech.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506001616id_/http%3A//www.fastotech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastotech.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106102147id_/http%3A//www.fastotech.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – FASTO TECH
+# Privacy Policy - FASTO TECH
 
 Privacy Policy for http://fastotech.com/
 
