@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgsin.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618181252id_/http%3A//imgsin.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgsin.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106223647id_/https%3A//imgsin.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Sinfully Good
 
@@ -14,6 +14,6 @@ Image Sin website record your IP address but uses it only for internal purposes.
 
 Image Sin website uses cookies only to maintain your information as you move throughout this site. A cookie is a small piece of information used to identify an individual when the person is accessing a site. At no time is any personal information stored in a cookie, nor is any tracking information made available to other sites for any reason.
 
-Image Sin reserve the right to change this Policy anytime without prior notification. In this case the new Policy will be published at http://imgsin.com/info.php?act=privacy_policy
+Image Sin reserve the right to change this Policy anytime without prior notification. In this case the new Policy will be published at https://imgsin.com/info.php?act=privacy_policy
 
-If you have any question, please do not hesitate to [Contact us](http://imgsin.com/contact.php?act=contact_us). 
+If you have any question, please do not hesitate to [Contact us](https://imgsin.com/contact.php?act=contact_us). 
