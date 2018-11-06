@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gorillavid.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610023415id_/http%3A//gorillavid.in/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorillavid.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106224753id_/https%3A//gorillavid.in/pages/privacy.html) for the most accurate reproduction.*
 
 # GorillaVid - Just watch it!
 
