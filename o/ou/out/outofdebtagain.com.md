@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outofdebtagain.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506051031id_/http%3A//www.outofdebtagain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outofdebtagain.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106190304id_/http%3A//www.outofdebtagain.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Out of Debt Again
 
