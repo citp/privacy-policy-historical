@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zurb.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190508id_/https%3A//zurb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zurb.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106225636id_/https%3A//zurb.com/privacy) for the most accurate reproduction.*
 
 # ZURB - Privacy
 
