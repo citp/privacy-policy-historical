@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogtemplate4u.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322213007id_/http%3A//blogtemplate4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogtemplate4u.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106155959id_/https%3A//abtemplates.com/privacy-policy) for the most accurate reproduction.*
 
 # Blogtemplate4U Privacy Policy » abTemplates.com
 
