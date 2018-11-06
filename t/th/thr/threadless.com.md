@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the threadless.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614191927id_/https%3A//www.threadless.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threadless.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106224647id_/https%3A//www.threadless.com/info/privacy) for the most accurate reproduction.*
 
 # Shop Threadless tees and other products
 
