@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idmobile.co.uk privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602061443id_/http%3A//www.idmobile.co.uk/legal/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idmobile.co.uk privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106101536id_/http%3A//www.idmobile.co.uk/legal/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Legal | iD Mobile Network
 
@@ -26,7 +26,7 @@ Our primary brands are [Currys PC World, Dixons Travel and Team Knowhow]
 
 * * *
 
-When you shop with us or use our services, you trust us with your data. We’re a company that puts you, our customer, first, respecting you as an individual but also as a member of our community. We listen to our customers to understand your expectations and make sure these are reflected in our business decisions. We’re committed to maintaining your trust and confidence. In this Privacy Policy, we’ve provided details on when and why we collect your personal information, how we use it, the very limited conditions under which we may disclose it to others (where direct marketing is concerned only with your explicit permission) and how we keep it secure.
+When you shop with us or use our services, you trust us with your data. We're a company that puts you, our customer, first, respecting you as an individual but also as a member of our community. We listen to our customers to understand your expectations and make sure these are reflected in our business decisions. We're committed to maintaining your trust and confidence. In this Privacy Policy, we've provided details on when and why we collect your personal information, how we use it, the very limited conditions under which we may disclose it to others (where direct marketing is concerned only with your explicit permission) and how we keep it secure.
 
 #### Information We Collect
 
@@ -38,13 +38,13 @@ The types of personal information we collect includes:
 
   * Personal details such as your name, address, date of birth, email address, phone number and other contact information Transaction information, such as the product you purchased, its price, your method of payment and your payment details.
   * Information about you like your employment details, financial position and information taken from identification documents like your passport or driving licence when we review your application for insurance or loans offered by selected third parties partners
-  * Your account information – such as dates of payments owed and received, the subscription services you use or any other information related to your account
+  * Your account information, such as dates of payments owed and received, the subscription services you use or any other information related to your account
   * The phone numbers that you call/send messages to or the phone numbers that you receive calls/messages from. 
   * The date and time of the calls and messages you send or receive through our network, and your location at the time these communications take place.
 
 
 
-When you’re online the information we collect includes:
+When you're online the information we collect includes:
 
   * Account information, like your username, password, and other identifiers or credentials you use to access our online services or to buy our products and services, details of your shopping preferences, such as your favourite brands and products, as well as which of our stores you prefer to shop in.
   * Details of your visits to the Website, in-store WIFI or App and the resources that you access. Examples include ads that you click, device information and your location.
@@ -60,7 +60,7 @@ The situations when you provide personal information could include when you:
   * Request to receive marketing or other communications
   * Use our Wi-Fi networks or other in-store tech
   * Enter one of our competitions or when you complete one of our customer surveys
-  * Submit information when you’re providing feedback
+  * Submit information when you're providing feedback
   * Use interactive features of our Online Services
 
 
@@ -71,7 +71,7 @@ The situations when you provide personal information could include when you:
 
 The law on data protection sets out a number of different reasons for which a company may collect and process your personal data. These are set out below.
 
-**_When we’re required to enter into a contract with you_**
+**_When we're required to enter into a contract with you_**
 
   * We use your personal information to process your orders and payments or to give you a refund.
 
@@ -97,7 +97,7 @@ As a Company we are often required to process your personal data in order to car
 
   * To provide customer support and to respond to, and communicate with you about your requests
   * To contact you if we need to obtain or provide additional information
-  * To check our records are right and to check every now and then that you’re happy and satisfied (e.g. customer surveys).
+  * To check our records are right and to check every now and then that you're happy and satisfied (e.g. customer surveys).
   * For marketing activities (other than where we rely on your consent) e.g. marketing permissions captured during the course of a sale, personalising marketing messages through social media and other third party platforms;
   * To send promotional material (e.g. renewals) to you in the post or inform you of our offers by telephone
   * To comply with a request from you in connection with the exercise of your rights (for example where you have asked us not to contact you for marketing purposes, we will keep a record of this on our suppression lists in order to be able to comply with your request)
@@ -124,9 +124,9 @@ As a Company we are often required to process your personal data in order to car
 
 
 
-**_When we’re required to comply with our Legal Obligation_**
+**_When we're required to comply with our Legal Obligation_**
 
-We’ll use your personal information to comply with our legal obligations including:
+We'll use your personal information to comply with our legal obligations including:
 
   * To identify you when you contact us
   * To verify the accuracy of data that we hold about you
@@ -150,8 +150,8 @@ We work with partners, suppliers, insurers and agencies so they can process your
 **Other organisations and individuals**  
 We may transfer your personal information to other organisations in certain scenarios. For example:
 
-  * When you apply for credit or purchase an insurance product we’ll pass on your information to trusted third party partners responsible for these products. Please note we act as a credit broker and not as a lender in respect of our insurance products credit facility within our UK and Republic of Ireland stores 
-  * If required to by law, under any code of practice by which we are bound or we’re asked to do so by a public or regulatory authority such as the Police or the Department for Work and Pensions
+  * When you apply for credit or purchase an insurance product we'll pass on your information to trusted third party partners responsible for these products. Please note we act as a credit broker and not as a lender in respect of our insurance products credit facility within our UK and Republic of Ireland stores 
+  * If required to by law, under any code of practice by which we are bound or we're asked to do so by a public or regulatory authority such as the Police or the Department for Work and Pensions
   * Information may also be shared with fraud prevention agencies to prevent fraudulent claims 
   * If we need to do so in order to exercise or protect our legal rights, users, systems and services
   * In response to requests from individuals (or their representatives) seeking to protect their legal rights or the rights of others.
@@ -160,7 +160,7 @@ We may transfer your personal information to other organisations in certain scen
 
 
 **Credit Reference Agencies**  
-In order to process your application we’ll supply your personal information to credit reference agencies (CRAs) and they will give us information about you.
+In order to process your application we'll supply your personal information to credit reference agencies (CRAs) and they will give us information about you.
 
 This will include information from your credit application and about your financial situation and financial history. CRAs will supply to us both public (including the electoral register) and shared credit, financial situation and financial history information and fraud prevention information. We will use this information to:
 
@@ -172,9 +172,9 @@ This will include information from your credit application and about your financ
 
 
 
-We’ll also continue to exchange information about you with CRAs on an on-going basis, including about your settled accounts and any debts not fully repaid on time. CRAs will share your information with other organisations. Your data will also be linked to the data of your spouse, any joint applicants or other financial associates.
+We'll also continue to exchange information about you with CRAs on an on-going basis, including about your settled accounts and any debts not fully repaid on time. CRAs will share your information with other organisations. Your data will also be linked to the data of your spouse, any joint applicants or other financial associates.
 
-The identities of the CRAs, and the ways in which they use and share personal information, are explained in more detail at [www.equifax.co.uk/crain](https://web.archive.org/web/20180602061443id_/http%3A//www.idmobile.co.uk/legal/www.equifax.co.uk/crain)
+The identities of the CRAs, and the ways in which they use and share personal information, are explained in more detail at [www.equifax.co.uk/crain](https://www.equifax.co.uk/crain)
 
 #### International transfers of your personal information
 
@@ -182,10 +182,10 @@ The identities of the CRAs, and the ways in which they use and share personal in
 
 From time to time we may transfer your personal information to our suppliers, service providers and other company offices based outside of the European Economic Area (EEA) for the purposes described in this privacy policy. If we do this your personal information will continue to be subject to one or more appropriate safeguards set out in the law.
 
-If we do transfer information to our agents or advisers outside of the EEA, we will make sure that it is protected in the same way as if it was being used in the EEA. We’ll use one of these safeguards:
+If we do transfer information to our agents or advisers outside of the EEA, we will make sure that it is protected in the same way as if it was being used in the EEA. We'll use one of these safeguards:
 
-  * We’ll transfer it to a non-EEA country with privacy laws that give the same protection as the EEA. Learn more [ on the European Commission Justice website.](http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm)
-  * We’ll put in place a contract with the recipient that means they must protect it to the same standards as the EEA. Read more about this here [ on the European Commission Justice website](http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm)
+  * We'll transfer it to a non-EEA country with privacy laws that give the same protection as the EEA. Learn more [ on the European Commission Justice website.](http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm)
+  * We'll put in place a contract with the recipient that means they must protect it to the same standards as the EEA. Read more about this here [ on the European Commission Justice website](http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm)
 
 
 
@@ -209,7 +209,7 @@ If you want to know more about these rights, please contact us.
 
 * * *
 
-We will keep your personal information for as long as you’re a customer. If you haven’t made a purchase or engaged with us for 3 years or more, then we’ll remove you from our marketing mailing lists. After you stop being a customer, we may keep your data for up to 7 years after the last time you interacted with us. This could include one of the ways specified in ‘How we use your personal information’ and for one of these reasons:
+We will keep your personal information for as long as you're a customer. If you haven't made a purchase or engaged with us for 3 years or more, then we'll remove you from our marketing mailing lists. After you stop being a customer, we may keep your data for up to 7 years after the last time you interacted with us. This could include one of the ways specified in 'How we use your personal information' and for one of these reasons:
 
   * To respond to any questions or complaints
   * To show that we treated you fairly
@@ -227,23 +227,23 @@ We do not retain personal information in an identifiable format for longer than 
 * * *
 
 **Access to Information held about you**  
-You have the right to request what personal information we hold about you. This is sometimes called a 'Data Subject Access Request'. If we agree that we are obliged to provide personal information to you (or someone else on your behalf), we’ll provide it to you free of charge. Before providing personal information to you or another person on your behalf, we may ask for proof of identity and sufficient information about your interactions with us that we can locate your personal information. Except in rare cases, we’ll respond to you within 30 days after we’ve received this information or, where no such information is required, after we’ve received your request.
+You have the right to request what personal information we hold about you. This is sometimes called a 'Data Subject Access Request'. If we agree that we are obliged to provide personal information to you (or someone else on your behalf), we'll provide it to you free of charge. Before providing personal information to you or another person on your behalf, we may ask for proof of identity and sufficient information about your interactions with us that we can locate your personal information. Except in rare cases, we'll respond to you within 30 days after we've received this information or, where no such information is required, after we've received your request.
 
 If any of the personal information we hold about you is inaccurate or out of date, you may ask us to correct it.
 
 In certain circumstances you have the right to request a copy of your personal information from us or to have that information passed to an organisation of your choice in a format that can be easily re-used.
 
 **Right to stop or limit our processing of your data**  
-You have the right to object to us processing your personal information if we’re not entitled to use it any more, to have your information deleted if we are keeping it too long or have its processing restricted in certain circumstances.
+You have the right to object to us processing your personal information if we're not entitled to use it any more, to have your information deleted if we are keeping it too long or have its processing restricted in certain circumstances.
 
-Where we rely on our legitimate interests, as set out under ‘How we use your personal information’, you may object to us using it for these purposes. If we agree that your objection is justified in accordance with your rights under data protection laws, we’ll permanently stop using your data for those purposes. Otherwise we’ll provide you with our justification as to why we need to continue using your data.
+Where we rely on our legitimate interests, as set out under 'How we use your personal information', you may object to us using it for these purposes. If we agree that your objection is justified in accordance with your rights under data protection laws, we'll permanently stop using your data for those purposes. Otherwise we'll provide you with our justification as to why we need to continue using your data.
 
 You can ask us to restrict the use of your personal information if:
 
-  * It isn’t accurate.
-  * It has been used unlawfully but you don’t want us to delete it.
-  * It’s not relevant any more, but you want us to keep it for use in legal claims.
-  * You’ve already asked us to stop using your data but you’re waiting for us to tell you if we’re allowed to keep on using it.
+  * It isn't accurate.
+  * It has been used unlawfully but you don't want us to delete it.
+  * It's not relevant any more, but you want us to keep it for use in legal claims.
+  * You've already asked us to stop using your data but you're waiting for us to tell you if we're allowed to keep on using it.
 
 
 
@@ -254,7 +254,7 @@ If you would like to exercise these rights, please contact us
 Please make sure you provide the following identification documents as part of your application:
 
   * One proof of identity - we can accept an unexpired copy of either your passport or your driver's licence
-  * One proof of address - we can accept a copy of most recent (and less than 3 months old) credit or debit card statement or a utility bill showing the same name and address on your account or driving license where it hasn’t be used as proof of identity (see above)
+  * One proof of address - we can accept a copy of most recent (and less than 3 months old) credit or debit card statement or a utility bill showing the same name and address on your account or driving license where it hasn't be used as proof of identity (see above)
 
 
 
@@ -266,7 +266,7 @@ We won't send you marketing messages if you tell us not to.
 
   * You can click onto the "unsubscribe" link in any communication that we send to you by email which will automatically unsubscribe you from that type of communication. Each "unsubscribe" link only relates to that specific type of communication. Please also note that you may continue to receive Service communications in relation to the product and services we have sold to you,such as notifications that your bill is ready to view
   * Log into the [iD App](https://web.archive.org/app) and select 'My Account' from the top left menu. Select 'Keep me in the loop' and then 'Edit preferences'.
-  * Log into 'My Account' [here](https://my.idmobile.co.uk/). Select ‘My Account’ from the left-hand menu, then select ‘Keep me in the loop’ and ‘Edit preferences’
+  * Log into 'My Account' [here](https://my.idmobile.co.uk/). Select 'My Account' from the left-hand menu, then select 'Keep me in the loop' and 'Edit preferences'
   * Alternatively, you can unsubscribe by contacting us [here](https://web.archive.org/help-and-advice/contact-us)
 
 
@@ -293,7 +293,7 @@ All companies within the Dixons Carphone Group use technical and organisational 
 
 * * *
 
-Our websites (which includes this Privacy Policy) contain links to other websites run by other organisations which we do not control. This policy does not apply to those other websites and Apps‚ so we encourage you to read their privacy statements. 
+Our websites (which includes this Privacy Policy) contain links to other websites run by other organisations which we do not control. This policy does not apply to those other websites and Apps, so we encourage you to read their privacy statements. 
 
 #### Social Plugins
 
@@ -303,7 +303,7 @@ We use so-called social plugins (buttons) of social networks such as Facebook, G
 
 After activation of a button, the social network can retrieve data, independently of whether you interact with the button or not. If you are logged on to a social network, the network can assign your visit to the website to your user account. A social network cannot assign a visit to websites operated by our other group companies unless you activate the respective button there as well.
 
-If you’re a member of a social network and don’t want that network to combine data retrieved from your visit to our websites with data they hold on you, you must log out from the social network concerned before activating the buttons.
+If you're a member of a social network and don't want that network to combine data retrieved from your visit to our websites with data they hold on you, you must log out from the social network concerned before activating the buttons.
 
 #### Contact us
 
@@ -313,19 +313,19 @@ To opt-out of receiving marketing messages from iD Mobile, edit your preferences
 
 If you have a question or a complaint about this policy, the way your personal information is handled, please contact us by one of the following means:
 
-**By email:**[websar@dixonscarphonegroup.com](mailto:websar@dixonscarphonegroup.com). (Please do not email this address to change your marketing preferences. Any opt-out request submitted via this email address will not be actioned. Click here for information on how to opt-out of receiving marketing messages.)
+**By Web Form:** Complete this [Web Form](https://app-de.onetrust.com/app/#/webform/857a80ef-f496-40e2-adcb-91c40f492f50) (Please do not submit any opt-out request via this form, any opt-out request submitted via this form will not be actioned. Click here for information on how to opt-out of receiving marketing messages).
 
 **By post:**  
-Data Protection Officer  
-PO Box 375  
-Southampton  
-SO30 2PU
+iDMobile SAR  
+PO Box 689  
+SALFORD  
+M5 OPD
 
 #### Complaining to the Data Protection Regulator
 
 * * *
 
-You have the right to complain to the Information Commissioners Office (ICO) if you are concerned about the way we have processed your personal information. Please visit the ICO’s website for further details at: <https://ico.org.uk/>
+You have the right to complain to the Information Commissioners Office (ICO) if you are concerned about the way we have processed your personal information. Please visit the ICO's website for further details at: <https://ico.org.uk/>
 
 #### Changes to this Policy
 
@@ -339,13 +339,13 @@ We may review this policy from time to time and any changes will be notified to 
 
 * * *
 
-Like most websites, Dixons Carphone PLC websites use cookies to collect information. Cookies are small data files which are placed on your computer or other devices (such as smart ‘phones or ‘tablets’) as you browse this website. They are used to ‘remember’ when your computer or device accesses our websites. Cookies are essential for the effective operation of our websites and to help you shop with us online. They are also used to tailor the products and services offered and advertised to you, both on our websites and elsewhere. 
+Like most websites, Dixons Carphone PLC websites use cookies to collect information. Cookies are small data files which are placed on your computer or other devices (such as smart-phones or 'tablets') as you browse this website. They are used to 'remember' when your computer or device accesses our websites. Cookies are essential for the effective operation of our websites and to help you shop with us online. They are also used to tailor the products and services offered and advertised to you, both on our websites and elsewhere. 
 
 #### Information collected
 
 * * *
 
-Some cookies collect information about browsing and purchasing behaviour when you access this website with the same computer or device. This includes information about pages viewed, products purchased and your journey around a website. We don’t use cookies to collect or record information on your name, address or other contact details. Dixons Carphone PLC can use cookies to monitor your browsing and purchasing behaviour.
+Some cookies collect information about browsing and purchasing behaviour when you access this website with the same computer or device. This includes information about pages viewed, products purchased and your journey around a website. We don't use cookies to collect or record information on your name, address or other contact details. Dixons Carphone PLC can use cookies to monitor your browsing and purchasing behaviour.
 
 #### How are cookies managed?
 
@@ -420,4 +420,4 @@ If you want to disable cookies you need to change your website browser settings 
 
 * * *
 
-This depends on which cookies you disable, but in general the website may not operate properly if cookies are switched off. If you only disable third party cookies, you will not be prevented from making purchases on our sites. If you disable all cookies, you won’t be able to complete a purchase on our sites.
+This depends on which cookies you disable, but in general the website may not operate properly if cookies are switched off. If you only disable third party cookies, you will not be prevented from making purchases on our sites. If you disable all cookies, you won't be able to complete a purchase on our sites.
