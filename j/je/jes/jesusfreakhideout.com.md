@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jesusfreakhideout.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504231700id_/http%3A//www.jesusfreakhideout.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jesusfreakhideout.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106102033id_/http%3A//www.jesusfreakhideout.com/privacy.asp) for the most accurate reproduction.*
 
 # About JesusfreakHideout.com
 
