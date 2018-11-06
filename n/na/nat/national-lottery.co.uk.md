@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the national-lottery.co.uk privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614193518id_/https%3A//www.national-lottery.co.uk/privacy-policy%3Ficid%3Dbsp%3Ana%3Atx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the national-lottery.co.uk privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106234407id_/https%3A//www.national-lottery.co.uk/privacy-policy%3Ficid%3Dbsp%3Ana%3Atx) for the most accurate reproduction.*
 
 # Privacy Policy | The National Lottery
 
@@ -143,7 +143,7 @@ Your consent.
   
 Regulatory compliance | 
 
-We may use your personal and contact information, financial information, information about any transaction between you and us, information about your use of the app or website, or technical information, to enable us to comply with our legal and regulatory obligations. These include reporting aggregated data to the Gambling Commission, player protection measures, and to allow us to provide any information to the Gambling Commission as we are required to.
+We may use your personal and contact information, financial information, information about any transaction between you and us, copies of your communications with us (including voice recordings), information about your use of the app or website, or technical information, to enable us to comply with our legal and regulatory obligations. These include reporting aggregated data to the Gambling Commission, player protection measures, and to allow us to provide any information to the Gambling Commission as we are required to.
 
 | 
 
@@ -151,7 +151,7 @@ Necessary to comply with a legal obligation.
   
 Fraud prevention | 
 
-We may use your personal and contact information, financial information, information about any transaction between you and us, information about your use of the app or website, or technical information, in order to undertake analysis for the purposes of identifying and dealing with any fraud or fraudulent activity.
+We may use your personal and contact information, financial information, information about any transaction between you and us, copies of your communications with us (including voice recordings), information about your use of the app or website, or technical information, in order to undertake analysis for the purposes of identifying and dealing with any fraud or fraudulent activity.
 
 | 
 
@@ -161,7 +161,7 @@ Necessary for our legitimate interests (to ensure that transactions and interact
   
 Queries | 
 
-We may use your personal and contact information, financial information, information about any transaction between you and us, information about your use of the app or website, or technical information for the purpose of dealing with any request, complaint or query from you.
+We may use your personal and contact information, financial information, information about any transaction between you and us, copies of your communications with us (including voice recordings), information about your use of the app or website, or technical information for the purpose of dealing with any request, complaint or query from you.
 
 | 
 
