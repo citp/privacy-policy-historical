@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optonline.net privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001353id_/https%3A//www.optimum.net/pages/PrivacyExisting.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optonline.net privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106234922id_/https%3A//www.optimum.net/pages/PrivacyExisting.html) for the most accurate reproduction.*
 
 # 
 
@@ -88,31 +88,6 @@ Support
 
 #### {{CommonHeaderCtrl.outage.message}}
 
-Suggestions powered by Optimum
-
-  *   * Search full site for **"{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"**
-  * Loading...  
-
-
-
-
-  *   * No result found for **{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}**
-  * Loading...
-
-
-
-  *   * Search the web for **"{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"**
-  * Loading...   
-
-
-
-
-  * **Search full site for** **"{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"**
-  * **Search TV & On Demand for ** **"{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"**
-  * **Search the web for** **"{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"**
-
-
-
 Internet
 
 #### [Sign in](https://web.archive.org/login/) to check your email and manage your internet features
@@ -142,43 +117,6 @@ Phone
 
 #### [Sign in](https://web.archive.org/login/) to check your messages and manage your phone features
 
-Suggestions powered by Optimum
-
-Optimum.net
-
-  *   * Search full site for **"{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"**
-  * Loading...   
-
-
-
-
-TV & On Demand
-
-  *   * **No result found for "{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"**
-  * Loading...   
-
-
-
-
-Web results
-
-  *   * **Search the web for "{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"**
-  * Loading...   
-
-
-
-
-Keep searching
-
-  * Search full site for "{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"
-  * Search TV & On Demand for "{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"
-  * Search the web for "{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"
-
-
-
-  
-
-
 #### We've detected that you're using an older version of {{CommonHeaderCtrl.deprecatedBrowserName}}
 
 Optimum.net is compatible with a wide range of browsers. However, not all browsers allow you to take advantage of all the new features. We strongly recommend that you upgrade to a more current browser.
@@ -187,7 +125,7 @@ Optimum.net is compatible with a wide range of browsers. However, not all browse
 
 #### You need to change your Internet Explorer Compatibility View setting to get the most from the new Optimum.net
 
-Click [here](http://optimum.custhelp.com/app/answers/detail/a_id/3703) for more info.
+Click [here](https://web.archive.org/FAQ#/answers/a_id/3703) for more info.
 
 ## At Altice, we value your privacy.
 
@@ -202,14 +140,14 @@ In this notice, "we" and "Altice" refer to CSC Holdings, LLC (formerly CSC Holdi
 
 **A. Information We Collect and Receive, and How We Collect It**
 
-In connection with the initiation and ongoing provisioning of Covered Services, as well as with our ongoing efforts to improve the quality and value of the Covered Services, we may maintain certain information related to you that you provide to us or that we collect using the cable systems ("Subscriber Information"). Certain Subscriber Information may be personally identifiable ("Personally Identifiable Information"). Personally Identifiable Information does not include, among other things, any aggregate data or other data which does not identify a particular person or information which by itself does not identify a particular person, such as your zip code, gender, MAC address or other equipment identifiers, or certain other unique numbers or codes. We may collect Personally Identifiable Information using the cable system in order to obtain information necessary to render our cable service or other services to our subscribers or to detect unauthorized reception of cable communications, as well as for other purposes described in this notice.
+In connection with the initiation and ongoing provisioning of Covered Services, as well as with our ongoing efforts to improve the quality and value of the Covered Services, we may maintain certain information related to you that you provide to us or that we collect using the cable systems ("Subscriber Information"). Certain Subscriber Information may be personally identifiable ("Personally Identifiable Information"). Personally Identifiable Information does not include, among other things, any aggregate data or other data which does not identify a particular person or information which by itself does not identify a particular person, such as your zip code, gender, IP Address, MAC address or other equipment identifiers, or certain other unique numbers or codes. We may collect Personally Identifiable Information using the cable system in order to obtain information necessary to render our cable service or other services to our subscribers or to detect unauthorized reception of cable communications, as well as for other purposes described in this notice.
 
 _When You Interact With Us_ : Subscriber Information may include information which you provide to us such as your name, service address, billing address, work address, email address, home telephone number, work telephone number, mobile phone number, date of birth, social security number, driver's license number, credit card number and expiration date, bank account number, and other financial information. In addition, as part of our normal course of business, we generate and maintain billing and account information such as your billing history, the services to which you have subscribed, your payment history, your maintenance and repair history, the kind, location, configuration, device identifiers, MAC, and IP addresses of equipment (including TV sets, set-top boxes, CableCARDs, modems, telephones, IP enabled devices) connected to our facilities. For customer services purposes, we also may keep copies of correspondence concerning your account or records of complaints or inquiries that may be made about our service. In addition, we may sometimes collect responses to customer satisfaction surveys for analytics and research purposes. We may also collect information that helps us detect unauthorized use of our services.
 
 _When You Use Our Services_ : We may also collect service-specific Subscriber Information depending on the Covered Services to which you subscribe. For example:
 
   * **Optimum Voice**. If you are a subscriber of a covered Altice voice service such as Optimum Voice (which is an interconnected Voice-over-Internet Protocol "VoIP" service), we may collect customer proprietary network information ("CPNI"). CPNI is information that relates to the quantity, technical configuration, type, destination, location, and amount of use of an interconnected VoIP service or telecommunications service subscribed to by any customer, and that is made available to the carrier by the customer solely by virtue of the provider-customer relationship; and information contained in the bills pertaining to interconnected VoIP service, telephone exchange service or telephone toll service received by a customer. CPNI does not include the "subscriber list information" we collect, which includes your name, address, and telephone number that has been published or accepted for publication in any directory format, as well as (for business listings) your primary advertising classifications. The disclosure and use of CPNI is subject to specialized restrictions as described in Section F below.
-  * **Internet Service, including Optimum Online and Optimum WiFi Hotspots.**.If you subscribe to a covered Altice high-speed Internet service such as Optimum Online, we may collect broadband data, including information regarding geolocation and/or service usage, including bandwidth used (including for specific third party website traffic and app usage), system and connection performance, browsers used, device type, device identifiers, dates and times of access, and internet resource requests/browsing history (such as a log of visited URLs). We may maintain records of Internet Protocol addresses and email accounts that we assign to you, as well as any violations or alleged violations of applicable terms and conditions of usage. Additional information about our privacy practices specific to our high-speed Internet service, including more detail regarding data collection, can be found in the [Additional Privacy Information for High Speed Internet Service](https://web.archive.org/pages/privacy/ool.html).
+  * **Internet Service, including Optimum Online and Optimum WiFi Hotspots.** If you subscribe to a covered Altice high-speed Internet service such as Optimum Online, we may collect broadband data, including information regarding geolocation and/or service usage, including bandwidth used (including for specific third party website traffic and app usage), system and connection performance, browsers used, device type, device identifiers, dates and times of access, and internet resource requests/browsing history (such as a log of visited URLs). We may maintain records of Internet Protocol addresses and email accounts that we assign to you, as well as any violations or alleged violations of applicable terms and conditions of usage. Additional information about our privacy practices specific to our high-speed Internet service, including more detail regarding data collection, can be found in the [Additional Privacy Information for High Speed Internet Service](https://web.archive.org/pages/privacy/ool.html).
   * **Optimum TV**. If you are a digital cable television subscriber, we may also automatically collect information about your use of our systems, such as changing your television channel, reviewing listings in an electronic program guide, using your remote, interacting with your DVR, ordering or viewing on-demand programming, engaging in other interactive programming features, or when using the Optimum App (such as audio files when using voice-based search) or other similar IP enabled device applications. We collect this information for purposes and uses including billing, service optimization, troubleshooting and customer service, operations, programming, including VOD, pay-per-view, program and content recommendation features and functions, advertising targeting and optimization, data analytics, e-Bill, operation of certain Optimum Select services, and as otherwise described in the following section.  
  
 
@@ -239,13 +177,11 @@ We use Subscriber Information, including Personally Identifiable Information, to
 
 
 
-We may use Subscriber Information to generate de-identified or aggregated information - that is, data from which Personally Identifiable Information has been removed. We may also employ automated processes to generate de-identified or aggregated information from any of our Covered Services. De-identified or aggregated information does not identify you in a personal way, and our collection, use, and disclosure of de-identified or aggregate information is not subject to any of the restrictions in this notice and its use and disclosure is subject to our discretion. For example, we may use de-identified or aggregated information for purposes such as measurement of viewership of programming and advertising, creation of tuning and viewing cohorts or segmentations, providing targeted content for our services or facilitating delivery of relevant third party advertising/promotional messages through our Covered Services.
+We may use Subscriber Information to generate de-identified or aggregated information - that is, data from which Personally Identifiable Information has been removed. We may also employ automated processes to generate de-identified or aggregated information from any of our Covered Services. De-identified or aggregated information does not identify you in a personal way, and our collection, use, and disclosure of de-identified or aggregate information is not subject to any of the restrictions in this notice and its use and disclosure is subject to our discretion. For example, we may use de-identified or aggregated information for purposes such as measurement of viewership of programming and advertising, creation of tuning and viewing cohorts or segmentations, providing targeted content for our services or facilitating delivery of relevant third party advertising/promotional messages through our Covered Services and on third party websites and other platforms.
 
-We may use certain Subscriber Information, including viewing activity and other use of the cable system (as described in Section A above), broadband data (also as described in Section A) and Personally Identifiable Information, for marketing or analytics purposes. Such use may include facilitating display ads for our products and services shown to you on other websites and web services across the Internet. When we do this, we may provide third party service providers with access to certain of your Personally Identifiable Information in order to place de-identified coded data into cookies on your browser (or employ similar technology), and to provide you with more relevant offers and updates through display media. If you do not wish to receive these types of ads, you may opt out of most such advertising by going to the following websites, operated by industry trade and self-regulatory organizations: <http://networkadvertising.org/choices> (operated by the Network Advertising Initiative) or [http://www.aboutads.info (operated by the Digital Advertising Alliance)](http://www.aboutads.info/).
+We may use certain Subscriber Information, including viewing activity and other use of the cable system (as described in Section A above), broadband data (also as described in Section A) and Personally Identifiable Information, for marketing or analytics purposes. Such use may include facilitating display ads for our products and services shown to you on other websites and web services across the Internet. When we do this, we may provide third party service providers with access to certain of your Personally Identifiable Information in order to place de-identified coded data into cookies on your browser (or employ similar technology), and to provide you with more relevant offers and updates through display media.
 
-If you are a digital cable television subscriber, we may use the viewing activity or usage data that we have collected, in combination with data we receive from third parties (such as data collected when you visit or log in to third party websites or engage in offline transactions), to deliver ads to audiences based on demographic information (e.g., gender or household size) and/or interest information (e.g., travel or sports). We may work with third party data and service providers who de-identify data we hold to facilitate this advertising and link it to the above data. You can opt out of many of these providers through the links provided in the preceding paragraph, or you can opt out directly through us, as described in the below paragraph.
-
-Although not required to do so, we offer you a choice as to whether you wish to have targeted third party advertising/promotional messages delivered to your set-top box or certain other IP-enabled device applications. To exercise this choice, PLEASE CALL US AT 1-888-425-2591 or visit <http://optimum.net/privacy-preferences>. Additionally, Altice provides Subscribers with the opportunity to restrict the use of program and content recommendations in association with certain Altice services, including our recommendations features and functions, by visiting <http://optimum.net/privacy-preferences>. Please note, your preferences may not take effect immediately and do not retroactively apply to existing advertising/promotional messages or campaigns.
+If you are a digital cable television or internet subscriber, we may use de-identified viewing activity or usage data that we have collected and/or IP address(es) we assign to subscribers, in combination with data we receive or license from third parties (such as data collected when you visit or log in to third party websites or engage in offline transactions), to deliver television and digital ads to audiences based on demographic information (e.g., gender or household size) and/or interest information (e.g., travel or sports) across different screens and platforms. We may also work with third party data and service providers who de-identify data we hold to facilitate this advertising and link it to the above third party data. You can opt out of certain marketing messages as described in the Access and Choice section below.
 
 Our use of certain Subscriber Information associated with voice service however, is limited as described in Section F below.
 
@@ -298,8 +234,15 @@ We generally keep some or all Subscriber Information for as long as necessary fo
 
 You also have the right to inspect Personally Identifiable Information that Altice has collected and maintains in connection with the provision of Covered Services to you. If you would like access to such information, please notify us in writing at the local business office specified on your service bill. We will then contact you to set up an appointment during regular business hours. Please note, Altice reserves the right to charge you its reasonable costs in connection with retrieving Subscriber Information and providing you with access thereto. In order to obtain telephone CPNI, please see Section F below.
 
-Subscribers may choose not to receive promotional or marketing telephone calls or postal mailings regarding the Covered Services by contacting us at 1-888-425-2088 for placement on Altice's "Do Not Call" list or by contacting us at 1-888-425-2090 for placement on Altice's "Do Not Mail" list. Please note, any Subscriber requests after May 1, 2010 to be placed on the "Do Not Mail" list will only be effective for the 12-month period following such request. If Subscribers wish to continue to remain on the "Do Not Mail" list, Subscribers will need to make another request upon the expiration of the previous request. Please also note, "Do Not Call" and "Do Not Mail" requests may take up to thirty (30) days to become effective.  
- 
+Subscribers may choose not to receive promotional or marketing telephone calls or postal mailings regarding the Covered Services by contacting us at 1-888-425-2088 for placement on Altice's "Do Not Call" list or by contacting us at 1-888-425-2090 for placement on Altice's "Do Not Mail" list. Please note, any Subscriber requests after May 1, 2010 to be placed on the "Do Not Mail" list will only be effective for the 12-month period following such request. If Subscribers wish to continue to remain on the "Do Not Mail" list, Subscribers will need to make another request upon the expiration of the previous request. Please also note, "Do Not Call" and "Do Not Mail" requests may take up to thirty (30) days to become effective.
+
+If you do not wish to receive display ads for our products and services shown to you on other websites and web services across the internet, you may opt out of most such advertising by going to the following websites, operated by industry trade and self-regulatory organizations: [ http://networkadvertising.org/choices](http://networkadvertising.org/choices) (operated by the Network Advertising Initiative) or [http://www.aboutads.info](http://www.aboutads.info/) (operated by the Digital Advertising Alliance).
+
+We also offer you a choice as to whether you wish to receive targeted third party advertising/promotional messages delivered to your set-top box, certain other IP-enabled device applications, or on third party websites. To exercise this choice, please visit <http://optimum.net/privacy-preferences>.
+
+Additionally, Altice provides Subscribers with the opportunity to restrict the use of program and content recommendations in association with certain Altice services, including our recommendations features and functions, by visiting <http://optimum.net/privacy-preferences>.
+
+Please note, your opt-out preferences may not take effect immediately and do not retroactively apply to existing advertising/promotional messages or campaigns.  
 
 **F. Special Rules About Telephone-Related Information**
 
@@ -324,17 +267,17 @@ Despite these measures, we do not guarantee the security of information stored i
 
 If you have any questions about our privacy protections, notices and policies, please write to us at:
 
-CSC Holdings, LLC  
+Altice  
 Attn. Shared Services Dept  
-6 Corporate Center Drive  
-Melville, NY 11747  
+200 Jericho Quadrangle  
+Jericho, NY 11753  
  
 
 **J. Updates To This Notice**
 
 We will review this privacy notice periodically as we deem appropriate and when we change or update Covered Services. We will notify you of any material changes by posting the revised notice on our Optimum website or by written or electronic correspondence. Your use of the Covered Service(s) following the notice of a revised notice constitutes your acceptance of the revised privacy notice.
 
-Effective September 6, 2017
+Effective October 15, 2018
 
 ### Website Privacy Notice
 
@@ -438,10 +381,10 @@ The website is published in the United States. By visiting this website, by usin
 
 Individuals who reside in California and who have provided their Personally Identifiable Information to the website may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests must be submitted to us at the following address:
 
-CSC Holdings, LLC  
+Altice  
 Attn. Shared Services Dept  
-6 Corporate Center Drive  
-Melville NY 11747
+200 Jericho Quadrangle  
+Jericho, NY 11753
 
 Such requests may be made only once each calendar year. We may not respond to requests sent to addresses other than the one shown above.
 
@@ -455,12 +398,12 @@ We may change this Privacy Notice at any time. We will notify you of material ch
 
 Please contact us if you have any questions about this Privacy Notice:
 
-CSC Holdings, LLC  
+Altice  
 Attn. Shared Services Dept  
-6 Corporate Center Drive  
-Melville NY 11747
+200 Jericho Quadrangle  
+Jericho, NY 11753
 
-Effective October 10, 2016
+Effective October 15, 2018
 
 ### Mobile Application Privacy Notice
 
@@ -510,16 +453,16 @@ We generally keep some or all information for as long as necessary for the purpo
 
 If you have any questions about our privacy protections and notices, please write to us at:
 
-Altice USA  
-Attn: Shared Services  
-6 Corporate Center Drive  
-Melville, NY 11747
+Altice  
+Attn. Shared Services Dept  
+200 Jericho Quadrangle  
+Jericho, NY 11753
 
 **F. Updates To The Notice**
 
 We will review this privacy notice periodically as we deem appropriate and when we change or update the Mobile Applications. Altice may, in its sole discretion, change, modify, add, or remove portions of this Notice at any time. Altice may notify you of any material changes by making the revised Notice available to you through the Mobile Applications, by written or electronic correspondence, or through an update - required or otherwise - to the application. Your use of the Mobile Applications, following notice of such change, modification or amendment, constitutes your acceptance of the revised privacy notice. If you do not agree to any portion of the revised Notice, you must cease all use of the application.
 
-Effective November 6, 2017 
+Effective October 15, 2018 
 
 Altice is committed to protecting the privacy of its customers. This notice is designed to give you a general understanding of how Altice protects your privacy in connection with our residential and business cable television services (such as Optimum TV), high-speed Internet services (such as Optimum Online), voice services (such as Optimum Voice) and any other cable service or communication service we may provide to you using our cable system as such services are defined by applicable law, as well as Optimum.net (together "Covered Services").
 
@@ -530,14 +473,14 @@ In this notice, "we" and "Altice" refer to CSC Holdings, LLC (formerly CSC Holdi
 
 **A. Information We Collect and Receive, and How We Collect It**
 
-In connection with the initiation and ongoing provisioning of Covered Services, as well as with our ongoing efforts to improve the quality and value of the Covered Services, we may maintain certain information related to you that you provide to us or that we collect using the cable systems ("Subscriber Information"). Certain Subscriber Information may be personally identifiable ("Personally Identifiable Information"). Personally Identifiable Information does not include, among other things, any aggregate data or other data which does not identify a particular person or information which by itself does not identify a particular person, such as your zip code, gender, MAC address or other equipment identifiers, or certain other unique numbers or codes. We may collect Personally Identifiable Information using the cable system in order to obtain information necessary to render our cable service or other services to our subscribers or to detect unauthorized reception of cable communications, as well as for other purposes described in this notice.
+In connection with the initiation and ongoing provisioning of Covered Services, as well as with our ongoing efforts to improve the quality and value of the Covered Services, we may maintain certain information related to you that you provide to us or that we collect using the cable systems ("Subscriber Information"). Certain Subscriber Information may be personally identifiable ("Personally Identifiable Information"). Personally Identifiable Information does not include, among other things, any aggregate data or other data which does not identify a particular person or information which by itself does not identify a particular person, such as your zip code, gender, IP Address, MAC address or other equipment identifiers, or certain other unique numbers or codes. We may collect Personally Identifiable Information using the cable system in order to obtain information necessary to render our cable service or other services to our subscribers or to detect unauthorized reception of cable communications, as well as for other purposes described in this notice.
 
 _When You Interact With Us_ : Subscriber Information may include information which you provide to us such as your name, service address, billing address, work address, email address, home telephone number, work telephone number, mobile phone number, date of birth, social security number, driver's license number, credit card number and expiration date, bank account number, and other financial information. In addition, as part of our normal course of business, we generate and maintain billing and account information such as your billing history, the services to which you have subscribed, your payment history, your maintenance and repair history, the kind, location, configuration, device identifiers, MAC, and IP addresses of equipment (including TV sets, set-top boxes, CableCARDs, modems, telephones, IP enabled devices) connected to our facilities. For customer services purposes, we also may keep copies of correspondence concerning your account or records of complaints or inquiries that may be made about our service. In addition, we may sometimes collect responses to customer satisfaction surveys for analytics and research purposes. We may also collect information that helps us detect unauthorized use of our services.
 
 _When You Use Our Services_ : We may also collect service-specific Subscriber Information depending on the Covered Services to which you subscribe. For example:
 
   * **Optimum Voice**. If you are a subscriber of a covered Altice voice service such as Optimum Voice (which is an interconnected Voice-over-Internet Protocol "VoIP" service), we may collect customer proprietary network information ("CPNI"). CPNI is information that relates to the quantity, technical configuration, type, destination, location, and amount of use of an interconnected VoIP service or telecommunications service subscribed to by any customer, and that is made available to the carrier by the customer solely by virtue of the provider-customer relationship; and information contained in the bills pertaining to interconnected VoIP service, telephone exchange service or telephone toll service received by a customer. CPNI does not include the "subscriber list information" we collect, which includes your name, address, and telephone number that has been published or accepted for publication in any directory format, as well as (for business listings) your primary advertising classifications. The disclosure and use of CPNI is subject to specialized restrictions as described in Section F below.
-  * **Internet Service, including Optimum Online and Optimum WiFi Hotspots.**.If you subscribe to a covered Altice high-speed Internet service such as Optimum Online, we may collect broadband data, including information regarding geolocation and/or service usage, including bandwidth used (including for specific third party website traffic and app usage), system and connection performance, browsers used, device type, device identifiers, dates and times of access, and internet resource requests/browsing history (such as a log of visited URLs). We may maintain records of Internet Protocol addresses and email accounts that we assign to you, as well as any violations or alleged violations of applicable terms and conditions of usage. Additional information about our privacy practices specific to our high-speed Internet service, including more detail regarding data collection, can be found in the [Additional Privacy Information for High Speed Internet Service](https://web.archive.org/pages/privacy/ool.html).
+  * **Internet Service, including Optimum Online and Optimum WiFi Hotspots.** If you subscribe to a covered Altice high-speed Internet service such as Optimum Online, we may collect broadband data, including information regarding geolocation and/or service usage, including bandwidth used (including for specific third party website traffic and app usage), system and connection performance, browsers used, device type, device identifiers, dates and times of access, and internet resource requests/browsing history (such as a log of visited URLs). We may maintain records of Internet Protocol addresses and email accounts that we assign to you, as well as any violations or alleged violations of applicable terms and conditions of usage. Additional information about our privacy practices specific to our high-speed Internet service, including more detail regarding data collection, can be found in the [Additional Privacy Information for High Speed Internet Service](https://web.archive.org/pages/privacy/ool.html).
   * **Optimum TV**. If you are a digital cable television subscriber, we may also automatically collect information about your use of our systems, such as changing your television channel, reviewing listings in an electronic program guide, using your remote, interacting with your DVR, ordering or viewing on-demand programming, engaging in other interactive programming features, or when using the Optimum App (such as audio files when using voice-based search) or other similar IP enabled device applications. We collect this information for purposes and uses including billing, service optimization, troubleshooting and customer service, operations, programming, including VOD, pay-per-view, program and content recommendation features and functions, advertising targeting and optimization, data analytics, e-Bill, operation of certain Optimum Select services, and as otherwise described in the following section.  
  
 
@@ -567,13 +510,11 @@ We use Subscriber Information, including Personally Identifiable Information, to
 
 
 
-We may use Subscriber Information to generate de-identified or aggregated information - that is, data from which Personally Identifiable Information has been removed. We may also employ automated processes to generate de-identified or aggregated information from any of our Covered Services. De-identified or aggregated information does not identify you in a personal way, and our collection, use, and disclosure of de-identified or aggregate information is not subject to any of the restrictions in this notice and its use and disclosure is subject to our discretion. For example, we may use de-identified or aggregated information for purposes such as measurement of viewership of programming and advertising, creation of tuning and viewing cohorts or segmentations, providing targeted content for our services or facilitating delivery of relevant third party advertising/promotional messages through our Covered Services.
+We may use Subscriber Information to generate de-identified or aggregated information - that is, data from which Personally Identifiable Information has been removed. We may also employ automated processes to generate de-identified or aggregated information from any of our Covered Services. De-identified or aggregated information does not identify you in a personal way, and our collection, use, and disclosure of de-identified or aggregate information is not subject to any of the restrictions in this notice and its use and disclosure is subject to our discretion. For example, we may use de-identified or aggregated information for purposes such as measurement of viewership of programming and advertising, creation of tuning and viewing cohorts or segmentations, providing targeted content for our services or facilitating delivery of relevant third party advertising/promotional messages through our Covered Services and on third party websites and other platforms.
 
-We may use certain Subscriber Information, including viewing activity and other use of the cable system (as described in Section A above), broadband data (also as described in Section A) and Personally Identifiable Information, for marketing or analytics purposes. Such use may include facilitating display ads for our products and services shown to you on other websites and web services across the Internet. When we do this, we may provide third party service providers with access to certain of your Personally Identifiable Information in order to place de-identified coded data into cookies on your browser (or employ similar technology), and to provide you with more relevant offers and updates through display media. If you do not wish to receive these types of ads, you may opt out of most such advertising by going to the following websites, operated by industry trade and self-regulatory organizations: <http://networkadvertising.org/choices> (operated by the Network Advertising Initiative) or [http://www.aboutads.info (operated by the Digital Advertising Alliance)](http://www.aboutads.info/).
+We may use certain Subscriber Information, including viewing activity and other use of the cable system (as described in Section A above), broadband data (also as described in Section A) and Personally Identifiable Information, for marketing or analytics purposes. Such use may include facilitating display ads for our products and services shown to you on other websites and web services across the Internet. When we do this, we may provide third party service providers with access to certain of your Personally Identifiable Information in order to place de-identified coded data into cookies on your browser (or employ similar technology), and to provide you with more relevant offers and updates through display media.
 
-If you are a digital cable television subscriber, we may use the viewing activity or usage data that we have collected, in combination with data we receive from third parties (such as data collected when you visit or log in to third party websites or engage in offline transactions), to deliver ads to audiences based on demographic information (e.g., gender or household size) and/or interest information (e.g., travel or sports). We may work with third party data and service providers who de-identify data we hold to facilitate this advertising and link it to the above data. You can opt out of many of these providers through the links provided in the preceding paragraph, or you can opt out directly through us, as described in the below paragraph.
-
-Although not required to do so, we offer you a choice as to whether you wish to have targeted third party advertising/promotional messages delivered to your set-top box or certain other IP-enabled device applications. To exercise this choice, PLEASE CALL US AT 1-888-425-2591 or visit <http://optimum.net/privacy-preferences>. Additionally, Altice provides Subscribers with the opportunity to restrict the use of program and content recommendations in association with certain Altice services, including our recommendations features and functions, by visiting <http://optimum.net/privacy-preferences>. Please note, your preferences may not take effect immediately and do not retroactively apply to existing advertising/promotional messages or campaigns.
+If you are a digital cable television or internet subscriber, we may use de-identified viewing activity or usage data that we have collected and/or IP address(es) we assign to subscribers, in combination with data we receive or license from third parties (such as data collected when you visit or log in to third party websites or engage in offline transactions), to deliver television and digital ads to audiences based on demographic information (e.g., gender or household size) and/or interest information (e.g., travel or sports) across different screens and platforms. We may also work with third party data and service providers who de-identify data we hold to facilitate this advertising and link it to the above third party data. You can opt out of certain marketing messages as described in the Access and Choice section below.
 
 Our use of certain Subscriber Information associated with voice service however, is limited as described in Section F below.
 
@@ -626,8 +567,15 @@ We generally keep some or all Subscriber Information for as long as necessary fo
 
 You also have the right to inspect Personally Identifiable Information that Altice has collected and maintains in connection with the provision of Covered Services to you. If you would like access to such information, please notify us in writing at the local business office specified on your service bill. We will then contact you to set up an appointment during regular business hours. Please note, Altice reserves the right to charge you its reasonable costs in connection with retrieving Subscriber Information and providing you with access thereto. In order to obtain telephone CPNI, please see Section F below.
 
-Subscribers may choose not to receive promotional or marketing telephone calls or postal mailings regarding the Covered Services by contacting us at 1-888-425-2088 for placement on Altice's "Do Not Call" list or by contacting us at 1-888-425-2090 for placement on Altice's "Do Not Mail" list. Please note, any Subscriber requests after May 1, 2010 to be placed on the "Do Not Mail" list will only be effective for the 12-month period following such request. If Subscribers wish to continue to remain on the "Do Not Mail" list, Subscribers will need to make another request upon the expiration of the previous request. Please also note, "Do Not Call" and "Do Not Mail" requests may take up to thirty (30) days to become effective.  
- 
+Subscribers may choose not to receive promotional or marketing telephone calls or postal mailings regarding the Covered Services by contacting us at 1-888-425-2088 for placement on Altice's "Do Not Call" list or by contacting us at 1-888-425-2090 for placement on Altice's "Do Not Mail" list. Please note, any Subscriber requests after May 1, 2010 to be placed on the "Do Not Mail" list will only be effective for the 12-month period following such request. If Subscribers wish to continue to remain on the "Do Not Mail" list, Subscribers will need to make another request upon the expiration of the previous request. Please also note, "Do Not Call" and "Do Not Mail" requests may take up to thirty (30) days to become effective.
+
+If you do not wish to receive display ads for our products and services shown to you on other websites and web services across the internet, you may opt out of most such advertising by going to the following websites, operated by industry trade and self-regulatory organizations: [ http://networkadvertising.org/choices](http://networkadvertising.org/choices) (operated by the Network Advertising Initiative) or [http://www.aboutads.info](http://www.aboutads.info/) (operated by the Digital Advertising Alliance).
+
+We also offer you a choice as to whether you wish to receive targeted third party advertising/promotional messages delivered to your set-top box, certain other IP-enabled device applications, or on third party websites. To exercise this choice, please visit <http://optimum.net/privacy-preferences>.
+
+Additionally, Altice provides Subscribers with the opportunity to restrict the use of program and content recommendations in association with certain Altice services, including our recommendations features and functions, by visiting <http://optimum.net/privacy-preferences>.
+
+Please note, your opt-out preferences may not take effect immediately and do not retroactively apply to existing advertising/promotional messages or campaigns.  
 
 **F. Special Rules About Telephone-Related Information**
 
@@ -652,17 +600,17 @@ Despite these measures, we do not guarantee the security of information stored i
 
 If you have any questions about our privacy protections, notices and policies, please write to us at:
 
-CSC Holdings, LLC  
+Altice  
 Attn. Shared Services Dept  
-6 Corporate Center Drive  
-Melville, NY 11747  
+200 Jericho Quadrangle  
+Jericho, NY 11753  
  
 
 **J. Updates To This Notice**
 
 We will review this privacy notice periodically as we deem appropriate and when we change or update Covered Services. We will notify you of any material changes by posting the revised notice on our Optimum website or by written or electronic correspondence. Your use of the Covered Service(s) following the notice of a revised notice constitutes your acceptance of the revised privacy notice.
 
-Effective September 6, 2017
+Effective October 15, 2018
 
 **To our website visitors**  \- Altice respects your privacy rights. This Website Privacy Notice ("Privacy Notice") is designed to provide you with information about how Altice protects your privacy in connection with your use of this website.  **By using any of our Altice websites that linked you to this notice, you accept this Privacy Notice.**
 
@@ -764,10 +712,10 @@ The website is published in the United States. By visiting this website, by usin
 
 Individuals who reside in California and who have provided their Personally Identifiable Information to the website may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests must be submitted to us at the following address:
 
-CSC Holdings, LLC  
+Altice  
 Attn. Shared Services Dept  
-6 Corporate Center Drive  
-Melville NY 11747
+200 Jericho Quadrangle  
+Jericho, NY 11753
 
 Such requests may be made only once each calendar year. We may not respond to requests sent to addresses other than the one shown above.
 
@@ -781,12 +729,12 @@ We may change this Privacy Notice at any time. We will notify you of material ch
 
 Please contact us if you have any questions about this Privacy Notice:
 
-CSC Holdings, LLC  
+Altice  
 Attn. Shared Services Dept  
-6 Corporate Center Drive  
-Melville NY 11747
+200 Jericho Quadrangle  
+Jericho, NY 11753
 
-Effective October 10, 2016
+Effective October 15, 2018
 
 Altice is committed to protecting the privacy of its customers. This short-form privacy notice is designed to give you a general understanding of how Altice protects your privacy in connection with our mobile applications, including but not limited to Altice One, Optimum, Optimum DVR Manager, Optimum WiFi Register, Optimum WiFi Finder, Business Hosted Voice and Optimum Support (hereinafter collectively referred to as the "Mobile Applications"). These applications are generally designed for use by existing Altice subscribers. These applications have limited functionality for non-subscribers but may collect Personally Identifiable information from non-subscribers.
 
@@ -834,16 +782,16 @@ We generally keep some or all information for as long as necessary for the purpo
 
 If you have any questions about our privacy protections and notices, please write to us at:
 
-Altice USA  
-Attn: Shared Services  
-6 Corporate Center Drive  
-Melville, NY 11747
+Altice  
+Attn. Shared Services Dept  
+200 Jericho Quadrangle  
+Jericho, NY 11753
 
 **F. Updates To The Notice**
 
 We will review this privacy notice periodically as we deem appropriate and when we change or update the Mobile Applications. Altice may, in its sole discretion, change, modify, add, or remove portions of this Notice at any time. Altice may notify you of any material changes by making the revised Notice available to you through the Mobile Applications, by written or electronic correspondence, or through an update - required or otherwise - to the application. Your use of the Mobile Applications, following notice of such change, modification or amendment, constitutes your acceptance of the revised privacy notice. If you do not agree to any portion of the revised Notice, you must cease all use of the application.
 
-Effective November 6, 2017 
+Effective October 15, 2018 
 
   * © Copyright {{CommonFooterCtrl.fullYear}}  CSC Holdings, LLC.
 
