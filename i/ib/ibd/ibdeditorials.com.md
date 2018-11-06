@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibdeditorials.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626120005id_/https%3A//www.investors.com/investors-business-daily-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibdeditorials.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106225902id_/https%3A//www.investors.com/investors-business-daily-privacy-policy) for the most accurate reproduction.*
 
 # Investor's Business Daily Privacy Policy
 
@@ -82,13 +82,13 @@ IBD uses personal information obtained from its users as stated in this Privacy 
 
 With the exception of the mandatory IBD transactional and business relationship emails mentioned above, recipients have an opportunity to update their email communication preferences on Investors.com. Customers may choose to "opt-in" or "opt-out" from any or all of these email communications at will.
 
-**_To Unsubscribe:_**  Customers may unsubscribe from specific email categories by: (1) clicking the "unsubscribe" link included at the bottom of any email sent by IBD or its affiliates; (2) sending an email to IBD Customer Success at [www.askinvestorshelp.zendesk.com](http://www.askinvestorshelp.zendesk.com/); or (3) calling IBD Customer Success at 1-800-831-2525 or outside the United States at +1-310-448-6600.
+**_To Unsubscribe:_**  Customers may unsubscribe from specific email categories by: (1) clicking the "unsubscribe" link included at the bottom of any email sent by IBD or its affiliates; (2) sending an email to IBD Customer Success at [askinvestorhelp.force.com/s/](https://askinvestorhelp.force.com/s/); or (3) calling IBD Customer Success at 1-800-831-2525 or outside the United States at +1-310-448-6600.
 
-**_To Otherwise Manage Your Email Preferences:_**  To subscribe to or unsubscribe from any email category, customers may manage their email preferences by: (1) clicking the "My IBD" link on Investors.com and selecting "Update Email Preferences"; (2) sending an email to IBD Customer Success at [www.askinvestorshelp.zendesk.com](http://www.askinvestorshelp.zendesk.com/); or (3) calling IBD Customer Success at 1-800-831-2525 or outside the United States at +1-310-448-6600.
+**_To Otherwise Manage Your Email Preferences:_**  To subscribe to or unsubscribe from any email category, customers may manage their email preferences by: (1) clicking the "My IBD" link on Investors.com and selecting "Update Email Preferences"; (2) sending an email to IBD Customer Success at [www.askinvestorshelp.force.com/s/](https://askinvestorhelp.force.com/s/); or (3) calling IBD Customer Success at 1-800-831-2525 or outside the United States at +1-310-448-6600.
 
 **_HOW CAN I CORRECT OR UPDATE MY PERSONAL INFORMATION?_**
 
-When you contact us via email or submit an online request, we may include the contact information you provide to us (e.g., your address, phone number, or email address) in your customer account profile. If your personal information changes (such as your zip code), or if you no longer desire to use our Services, you may correct, update, or remove your personal information provided to us. This can be done by logging in and clicking the "My IBD" link, then "Update Profile" on the Site or you may: (1) send an email to IBD Customer Success at [www.askinvestorshelp.zendesk.com](http://www.askinvestorshelp.zendesk.com/); or (2) call IBD Customer Success at 1-800-831-2525 or outside the United States at +1-310-448-6600.  See "Data Retention" below on more information on account cancellation.
+When you contact us via email or submit an online request, we may include the contact information you provide to us (e.g., your address, phone number, or email address) in your customer account profile. If your personal information changes (such as your zip code), or if you no longer desire to use our Services, you may correct, update, or remove your personal information provided to us. This can be done by logging in and clicking the "My IBD" link, then "Update Profile" on the Site or you may: (1) send an email to IBD Customer Success at [www.askinvestorshelp.force.com/s/](https://askinvestorhelp.force.com/s/); or (2) call IBD Customer Success at 1-800-831-2525 or outside the United States at +1-310-448-6600.  See "Data Retention" below on more information on account cancellation.
 
 **_HOW DOES IBD PROTECT MY PERSONAL INFORMATION?_**
 
@@ -102,7 +102,7 @@ Phishing is a term used to describe a type of internet scam in which inauthentic
 
 The Office of the Comptroller of Currency has set up a website providing information warning consumers about the dangers of these scams and how to protect yourself. To learn more about phishing, please click on the following link: [www.occ.gov/consumer/phishing.htm](http://www.occ.gov/consumer/phishing.htm).
 
-Please know that Investor's Business Daily takes the privacy of our subscribers very seriously. If you ever question the legitimacy of an email or other communication from IBD, please contact Customer Success at: 1-800-831-2525 or outside the United States at +1-310-448-6600. If you believe you have been the victim of a scam, you can file a complaint with the Federal Trade Commission at: [www.consumer.gov/idtheft/](http://www.consumer.gov/idtheft/). If you have any additional questions about the security of our Services, you can contact us at [www.askinvestorshelp.zendesk.com](http://www.askinvestorshelp.zendesk.com/).
+Please know that Investor's Business Daily takes the privacy of our subscribers very seriously. If you ever question the legitimacy of an email or other communication from IBD, please contact Customer Success at: 1-800-831-2525 or outside the United States at +1-310-448-6600. If you believe you have been the victim of a scam, you can file a complaint with the Federal Trade Commission at: [www.consumer.gov/idtheft/](http://www.consumer.gov/idtheft/). If you have any additional questions about the security of our Services, you can contact us at [www.askinvestorshelp.force.com/s/](https://askinvestorhelp.force.com/s/).
 
 **_DO NOT TRACK SIGNALS  _**
 
@@ -118,13 +118,13 @@ We do not intentionally collect sensitive personal information, such as social s
 
 **_CALIFORNIA PRIVACY RIGHTS_**
 
-Pursuant to California's " **Shine the Light** " law, California residents may opt-out of IBD's disclosure of personal information to third parties for such third parties' direct marketing purposes. Note, however, opting out does not prohibit disclosures for non-marketing purposes. You may opt-out by: (1) sending an email to IBD Customer Success at: [www.askinvestorshelp.zendesk.com](http://www.askinvestorshelp.zendesk.com/); or (2) Calling IBD Customer Success at 1-800-831-2525 or outside the United States at +1-310-448-6600.
+Pursuant to California's " **Shine the Light** " law, California residents may opt-out of IBD's disclosure of personal information to third parties for such third parties' direct marketing purposes. Note, however, opting out does not prohibit disclosures for non-marketing purposes. You may opt-out by: (1) sending an email to IBD Customer Success at: [www.askinvestorshelp.force.com/s/](https://askinvestorhelp.force.com/s/); or (2) Calling IBD Customer Success at 1-800-831-2525 or outside the United States at +1-310-448-6600.
 
 **_PERSONAL INFORMATION OF CHILDREN_**
 
-The Services are for a general audience and are not targeted to children.  IBD and its affiliates do not knowingly collect or solicit personal information from children under the age of thirteen (13). If such a situation is discovered, we will delete that information immediately. If you believe IBD has any information from a child under the age of thirteen (13), please contact us at [www.askinvestorshelp.zendesk.com](http://www.askinvestorshelp.zendesk.com/).
+The Services are for a general audience and are not targeted to children.  IBD and its affiliates do not knowingly collect or solicit personal information from children under the age of thirteen (13). If such a situation is discovered, we will delete that information immediately. If you believe IBD has any information from a child under the age of thirteen (13), please contact us at [www.askinvestorshelp.force.com/s/](https://askinvestorhelp.force.com/s/).
 
-If you are a California resident under 18 years of age and are a registered user of Investors.com, you have the right to request removal of content posted by you in the IBD Online Communities and Forums. To request removal, please email [www.askinvestorshelp.zendesk.com](http://www.askinvestorshelp.zendesk.com/) or call us at 800-831-2525 or outside the United States at +1-310-448-6600.
+If you are a California resident under 18 years of age and are a registered user of Investors.com, you have the right to request removal of content posted by you in the IBD Online Communities and Forums. To request removal, please email [www.askinvestorshelp.force.com/s/](https://askinvestorhelp.force.com/s/) or call us at 800-831-2525 or outside the United States at +1-310-448-6600.
 
 **_USING/ACCESSING OUR SERVICES FROM OUTSIDE THE UNITED STATES_**
 
@@ -146,4 +146,4 @@ Other websites and services to which we link, through which you access the Servi
 
 **_IBD CONTACT INFORMATION_**
 
-To ask questions or comment about this Privacy Policy and/or our privacy practices, please visit: [www.askinvestorshelp.zendesk.com](http://www.askinvestorshelp.zendesk.com/).
+To ask questions or comment about this Privacy Policy and/or our privacy practices, please visit: [www.askinvestorshelp.force.com/s/](https://askinvestorhelp.force.com/s/).
