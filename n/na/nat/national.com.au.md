@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the national.com.au privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930161906id_/https%3A//www.nab.com.au/common/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the national.com.au privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106233037id_/https%3A//www.nab.com.au/common/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - NAB
+# National Australia Bank privacy policy - NAB
 
 ### General information
 
