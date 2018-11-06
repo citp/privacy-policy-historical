@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dressupone.com privacy policy that was archived on 2018-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180507010058id_/http%3A//www.dressupone.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dressupone.com privacy policy that was archived on 2018-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181106153319id_/http%3A//www.dressupone.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Privacy policy</title>
@@ -15,8 +15,7 @@
 <meta name="og:site_name" content="dressupone">
 <meta name="sg:type" content="portal">
 <meta name="expires" content="never">
-<meta name="og:url" content="http://www.dressupone.com/privacypolicy.html">	<meta property="fb:app_id" content="34870649766">
-	<meta name="msvalidate.01" content="CED5C173EC99B06C913B2F4F9AE017A3">
+<meta name="og:url" content="http://www.dressupone.com/privacypolicy.html">	<meta name="msvalidate.01" content="CED5C173EC99B06C913B2F4F9AE017A3">
 		<link rel="canonical" href="http://www.dressupone.com/privacypolicy.html">
 	    <!--[if IE 9]> <link href="/static/css/ie9.css" media="screen" rel="stylesheet" type="text/css" ><![endif]-->
 <!--[if IE 7]> <link href="/static/css/ie7.css" media="screen" rel="stylesheet" type="text/css" ><![endif]-->    <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/themes/base/jquery-ui.css" type="text/css" media="screen">
@@ -25,7 +24,7 @@
 <link rel="stylesheet" href="/static/css/rating.css" type="text/css" media="screen">
 <link rel="stylesheet" href="/static/css/jquery.rating.css" type="text/css" media="screen">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/static/js/init.js"></script>
 <script type="text/javascript" src="/static/js/main.js"></script>
@@ -35,64 +34,10 @@
 <script type="text/javascript" src="/static/js/rating.js"></script>
 <script type="text/javascript" src="/static/js/jquery.rating.js"></script>
 
-	
-				<script>
-				window.fbAsyncInit = function() {			
-				    FB.init({
-				      appId      : '34870649766',
-				      status     : false, 
-				      cookie     : false,
-				      xfbml      : true,
-				      oauth      : false,
-				      logging	 : false				      
-				    });
-			FB.Event.subscribe('edge.create',
-				    function(response) {
-				        $.post('/index.php',{event:'like',gameid:''});
-					}
-				);
-		
-			FB.Event.subscribe('comment.create',
-			    function(response) {
-				    var commentQuery = FB.Data.query("SELECT text, fromid FROM comment WHERE post_fbid='"+response.commentID+"' AND object_id IN (SELECT comments_fbid FROM link_stat WHERE url='"+response.href+"')");
-				    var userQuery = FB.Data.query("SELECT name, uid FROM user WHERE uid in (select fromid from {0})", commentQuery);
-
-				    FB.Data.waitOn([commentQuery, userQuery], function() {
-				        // Do whatever you want with the data
-				        //console.log(commentQuery.value[0].text);
-				        //console.log(userQuery.value[0].name)
-				        //console.log(userQuery.value[0].uid);
-				        $.post('/index.php',{event:'comment',gameid:'',message:commentQuery.value[0].text, first_name:userQuery.value[0].name});
-				    });
-			});		
-		
-				};
-				
-				  (function(d){
-				     var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-				     js = d.createElement('script'); js.id = id; js.async = true;
-				     js.src = "//connect.facebook.net/en_US/all.js";
-				     d.getElementsByTagName('head')[0].appendChild(js);
-				   }(document));					
-				</script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script>
-						<link rel="icon" href="http://www.dressupone.com/favicon.png" type="image/png">
+		<link rel="icon" href="http://www.dressupone.com/favicon.png" type="image/png">
 	<link rel="Shortcut Icon" href="http://www.dressupone.com/favicon.ico" type="image/x-icon">
 	<link rel="index" title="dressupone.com" href="http://www.dressupone.com/">
-		<script type="text/javascript">
-
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-30724877-3']);
-	  _gaq.push(['_trackPageview']);
-
-	  (function() {
-	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
-
-	</script>
-
-	</head>
+</head>
 <body>
 <div id="fb-root"></div>
 <div id="shadow"></div>
@@ -109,24 +54,10 @@
 
             	<div class="header-links">
                 	<ul>
-                    	<li><div class="fb-like" data-href="http://www.facebook.com/dressupone" data-send="false" data-layout="button_count" data-width="120px" data-show-faces="false"></div></li>
-                    	<li><g:plusone size="medium" href="http://www.dressupone.com/" data-width="120"></g:plusone></li>
-                        <li><a href="https://twitter.com/dressupone" class="twitter-follow-button" data-show-count="true" data-lang="en" data-show-screen-name="false" data-size="small" data-width="130px">Follow</a></li>
                         <li><a href="http://www.dressupone.com/rss"><img src="http://www.dressupone.com/static/images/rss.jpg" alt=""></a></li>
                     </ul>
                 </div><!--header-links ends-->
 
-                <!--
-                <div id="language">
-                	<ul>
-                    	<li>Language:&nbsp;</li>
-                    	<li><a href="#"><img src="http://www.dressupone.com/static/images/flag-1.jpg" alt="english language" /></a></li>
-                        <li><a href="#"><img src="http://www.dressupone.com/static/images/flag-2.jpg" alt="germain language" /></a></li>
-                        <li><a href="#"><img src="http://www.dressupone.com/static/images/flag-3.jpg" alt="portuguese language" /></a></li>
-                        <li><a href="#"><img src="http://www.dressupone.com/static/images/flag-4.jpg" alt="turquish language" /></a></li>
-                    </ul>
-                </div>
-                 -->
 
                 <div id="search">
                 	<div id="search-left">
@@ -144,12 +75,12 @@
                                 									<li><a href="http://www.dressupone.com/animals-games" title="Animals games">Animals</a></li>
 																	<li><a href="http://www.dressupone.com/baby-games" title="Baby games">Baby</a></li>
 																	<li><a href="http://www.dressupone.com/caring-games" title="Caring games">Caring</a></li>
+																	<li><a href="http://www.dressupone.com/celebrity-games" title="Celebrity games">Celebrity</a></li>
 																	<li><a href="http://www.dressupone.com/cooking-games" title="Cooking games">Cooking</a></li>
-																	<li><a href="http://www.dressupone.com/dress-up-games" title="Dress Up games">Dress Up</a></li>
+																	<li><a href="http://www.dressupone.com/decorating-games" title="Decorating games">Decorating</a></li>
 																	<li><a href="http://www.dressupone.com/fun-games" title="Fun games">Fun</a></li>
 																	<li><a href="http://www.dressupone.com/girl-games" title="Girl games">Girl</a></li>
 																	<li><a href="http://www.dressupone.com/makeover-games" title="Makeover games">Makeover</a></li>
-																	<li><a href="http://www.dressupone.com/monster-high-games" title="Monster High games">Monster High</a></li>
 																	<li><a href="http://www.dressupone.com/puzzle-games" title="Puzzle games">Puzzle</a></li>
 																								<li><a href="#" onclick="$('#navigation-sub').toggle('slow');return false;">More +</a></li>
 								                            </ul>
@@ -159,36 +90,24 @@
 	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/adventure-games" title="Adventure games">Adventure</a></li>
 	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/babysitting-games" title="Babysitting games">Babysitting</a></li>
 	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/barbie-games" title="Barbie games">Barbie</a></li>
-	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/bloom-peters-games" title="Bloom Peters games">Bloom Peters</a></li>
 	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/bratz-games" title="Bratz games">Bratz</a></li>
 	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/car-games" title="Car games">Car</a></li>
 	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/cartoons-games" title="Cartoons games">Cartoons</a></li>
-	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/celebrity-games" title="Celebrity games">Celebrity</a></li>
 	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/christmas-games" title="Christmas games">Christmas</a></li>
 	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/clean-up-games" title="Clean Up games">Clean Up</a></li>
 	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/coloring-games" title="Coloring games">Coloring</a></li>
-	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/decorating-games" title="Decorating games">Decorating</a></li>
 	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/disney-games" title="Disney games">Disney</a></li>
 	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/doctor-games" title="Doctor games">Doctor</a></li>
-	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/dora-games" title="Dora games">Dora</a></li>
 	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/farm-games" title="Farm games">Farm</a></li>
-	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/flora-games" title="Flora games">Flora</a></li>
 	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/garden-games" title="Garden games">Garden</a></li>
 	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/hairdresser-games" title="Hairdresser games">Hairdresser</a></li>
 	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/halloween-games" title="Halloween games">Halloween</a></li>
-	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/layla-games" title="Layla games">Layla</a></li>
 	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/management-games" title="Management games">Management</a></li>
 	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/matching-games" title="Matching games">Matching</a></li>
-	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/musa-games" title="Musa games">Musa</a></li>
-	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/pokemon-games" title="Pokemon games">Pokemon</a></li>
-	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/roxy-games" title="Roxy games">Roxy</a></li>
+	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/monster-high-games" title="Monster High games">Monster High</a></li>
 	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/shopping-games" title="Shopping games">Shopping</a></li>
 	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/skill-games" title="Skill games">Skill</a></li>
-	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/spongebob-games" title="Spongebob games">Spongebob</a></li>
-	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/stella-games" title="Stella games">Stella</a></li>
 	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/sue-games" title="Sue games">Sue</a></li>
-	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/tecna-games" title="Tecna games">Tecna</a></li>
-	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/winx-games" title="Winx games">Winx</a></li>
 	                            	                            		                            		                            	<li><a href="http://www.dressupone.com/princess-juliet-games" title="princess juliet games">Princess Juliet</a></li>
 	                            	                            </ul>
                             						                            <div class="clear"></div>
@@ -269,7 +188,7 @@
 						</div>
 						<div class="text rating">
 				        	<span class="average">3.7</span> out of <span class="best">5</span>
-				        	based on <span class="votes">3366</span> ratings.
+				        	based on <span class="votes">3389</span> ratings.
 						</div>
 						
 					</div>
@@ -294,18 +213,7 @@
 
 
                                         
-					<div class="left-box">
-                    	<div class="left-top-box">
-                        	<div class="left-btm-box no-padding">
-                            	<span class="header">Social Media</span>
-                                <div id="facebook">
-                                										<div class="fb-like-box" data-href="http://www.facebook.com/dressupone" data-width="292" data-show-faces="false" data-stream="false" data-header="true"></div>
-									<div class="g-plus" data-href="//plus.google.com/114575059388412320080" data-width="292" data-rel="publisher"></div>
-									 
-                                </div><!--facebook ends-->
-                            </div><!--left-btm-box ends-->
-                        </div><!--left-top-box ends-->
-                    </div><!--left-box ends-->
+
                  
 			</div><!--leftcolumn ends-->
 			
@@ -415,70 +323,8 @@
 
 
     <!-- consent code update : 29/05/2017 -->
-    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
-    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
-    <script>
-        window.addEventListener("load", function(){
-            window.cookieconsent.initialise({
-                "palette": {
-                    "popup": {
-                        "background": "#000"
-                    },
-                    "button": {
-                        "background": "#f1d600"
-                    }
-                },
-                "content": {
-                    "message": "By continuing to browse our website, you consent to use cookies. We use both internal and third party cookies to improve, analyze and share your informations in order to show advertising and social medias tools. Click on Learn More to know your options.",
-                    "dismiss": "Okay",
-                    "link": "Learn More",
-                    "href": "http://www.dressupone.com/privacy"
-                }
-            })});
-    </script>
 
-    <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
-    <script type="text/javascript">
-        window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":null,"theme":"dark-bottom"};
-    </script>
 
-    <script type="text/javascript" src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
-    <!-- End Cookie Consent plugin -->
-
-<!-- Google Code for pageview Conversion Page -->
-<script type="text/javascript">
-    /* <![CDATA[ */
-    var google_conversion_id = 1009412360;
-    var google_conversion_language = "en";
-    var google_conversion_format = "3";
-    var google_conversion_color = "ffffff";
-    var google_conversion_label = "V4-9CLjd118QiNKp4QM";
-    var google_remarketing_only = false;
-    /* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-    <div style="display:inline;">
-        <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1009412360/?label=V4-9CLjd118QiNKp4QM&amp;guid=ON&amp;script=0"/>
-    </div>
-</noscript>
-
-<!-- Code Google de la balise de remarketing -->
-<script type="text/javascript">
-    /* <![CDATA[ */
-    var google_conversion_id = 1009412360;
-    var google_custom_params = window.google_tag_params;
-    var google_remarketing_only = true;
-    /* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-    <div style="display:inline;">
-        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1009412360/?value=0&amp;guid=ON&amp;script=0"/>
-    </div>
-</noscript>
 
 
 </body></html>
