@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondjane.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207222825id_/http%3A//beyondjane.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondjane.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106121602id_/http%3A//www.beyondjane.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BeyondJane
 
