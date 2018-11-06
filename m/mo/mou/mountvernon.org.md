@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the mountvernon.org privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524070723id_/http%3A//www.mountvernon.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountvernon.org privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106013302id_/https%3A//www.mountvernon.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · George Washington's Mount Vernon
 
-Last updated: July 21, 2014
+Last updated: October 4, 2018
 
-The Mount Vernon Ladies Association of the Union ("us", "we", or "our") operates the http://www.mountvernon.org website (the "Service").
+The Mount Vernon Ladies Association of the Union ("us", "we", or "our") operates the https://www.mountvernon.org website (the "Service").
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.mountvernon.org and we ask that you please read these Terms and Conditions carefully before using our Service.
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://www.mountvernon.org, and we ask that you please read these Terms and Conditions carefully before using our Service.
 
 **Information Collection And Use**
 
@@ -26,13 +26,7 @@ In addition, we may use third party services such as Google Analytics that colle
 
 Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive.
 
-We use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
-
-**Do Not Track Disclosure**
-
-We support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
-
-You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+We use cookies to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
 **Service Providers**
 
@@ -40,19 +34,27 @@ We may employ third party companies and individuals to facilitate our Service, t
 
 These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-Our site uses 3rd party vendor re-marketing tracking to allow us to display relevant ads to you based on your activity on our website. Third party vendors, such as Google AdWords and AdRoll, use cookies to track which pages you’ve visited on our site. This allows us to display ads to you across the internet that reflect your interests.
+**Online Advertising**
 
-If you do not wish to participate in our Google AdWords Remarketing, you can opt out by visiting [Google's Ads Preferences Manager](https://www.google.com/settings/ads/onweb/?sig=ACi0TCh1yimtGw_MCXmyADlHvvNP9ru5SKV9iAKbteqQbUDtboQl0SdUSbwEmoNTXTgnRO-cibkW-SaqoP_hqySYAEFc81F3x_CPdSfJh9l_RsKo6erVcaAnk4XgPtkkyHbV1Pv9yO1rb7AzNUD5rsTct1zzgNfoKIMUxeDT_4FkzCX6sP9tVEyhCzqG6ROQv5tCMf7yyMFhq2MtTRDLTch9bUH9Q9dB0jgIfyeRddAr5tNKR0-C4y20NKYzNXgSDMWONWdq4fSi&amp;hl=en)
+Our site uses third party tracking to allow us to display relevant ads to you based on your activity on our website. With this data, ad vendors can display ads that are likely to be of interest to you and control their frequency, preventing the same ad from being shown continuously. Tracking can also prevent ads from showing for products or services that you have already purchased. These third party vendors include but are not limited to Google AdWords, Facebook and AdRoll. 
+
+If you do not wish to participate in Google AdWords Remarketing, you can opt out by visiting [Google's Ads Preferences Manager](https://www.google.com/settings/ads/onweb/?sig=ACi0TCh1yimtGw_MCXmyADlHvvNP9ru5SKV9iAKbteqQbUDtboQl0SdUSbwEmoNTXTgnRO-cibkW-SaqoP_hqySYAEFc81F3x_CPdSfJh9l_RsKo6erVcaAnk4XgPtkkyHbV1Pv9yO1rb7AzNUD5rsTct1zzgNfoKIMUxeDT_4FkzCX6sP9tVEyhCzqG6ROQv5tCMf7yyMFhq2MtTRDLTch9bUH9Q9dB0jgIfyeRddAr5tNKR0-C4y20NKYzNXgSDMWONWdq4fSi&amp;hl=en)
 
 You can also opt out of any third-party vendor's use of cookies by visiting [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/)
 
-**Communications**
+**Email Communications**
 
-We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+When you subscribe to our email newsletters, we will contact you with information that may be of interest to you. You may opt out of receiving these communications by following the unsubscribe link at the bottom of any email we send, or you may email your request to newsletter@mountvernon.org.
+
+Please note that we use a third party to send marketing emails, and your email address will be stored in that system. 
 
 **Compliance With Laws**
 
 We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
+
+**Data Erasure Requests ("Right to be Forgotten")**
+
+We comply with data erasure requests, or the "right to be forgotten." If you have questions regarding our privacy policy or would like to have your personal data removed from our systems, please email [privacy@mountvernon.org](mailto:privacy@mountvernon.org).
 
 **Security**
 
@@ -76,7 +78,7 @@ We have no control over, and assume no responsibility for the content, privacy p
 
 Our Service does not address anyone under the age of 13 ("Children").
 
-We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children have provided us with Personal Information, please [contact us](http://www.mountvernon.org/about/contact-us/). If we discover that a child under 13 has provided us with Personal Information, we will delete such information from our servers immediately.
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children have provided us with Personal Information, please contact us at [privacy@mountvernon.org](mailto:privacy@mountvernon.org). If we discover that a child under 13 has provided us with Personal Information, we will delete such information from our servers immediately.
 
 **Changes To This Privacy Policy**
 
@@ -86,4 +88,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-If you have any questions about this Privacy Policy, please [contact us](http://www.mountvernon.org/about/contact-us/).
+If you have any questions about this Privacy Policy, please email us at [privacy@mountvernon.org](mailto:privacy@mountvernon.org).
