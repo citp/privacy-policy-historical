@@ -1,94 +1,133 @@
-> *The following text is extracted and transformed from the anycoupons.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606205501id_/https%3A//www.fatwallet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anycoupons.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106225008id_/https%3A//www.ebates.com/privacy_policy) for the most accurate reproduction.*
 
-# Fatwallet Privacy Policy Statement
+# Privacy Policy | Ebates
 
-This web site, www.fatwallet.com, is owned and operated by FatWallet, Inc. (“FatWallet” or “We”). FatWallet takes user privacy seriously and makes reasonable efforts to protect your privacy. We have created this Privacy Policy in order to share with you our information collection and use practices. Please read this policy carefully before sharing any personally identifiable information (“PII”) described below. This policy applies solely to the web site and service located at www.fatwallet.com (hereinafter “Service”).
+This Privacy Policy describes how Ebates Inc. (“we,” “us,” “our,” “Company”), the owner and operator of Ebates.com, Ebates.ca, Ebates.kr, ShopStyle, ShopStyle Collective, Shopular, and BFads.net businesses collect, use, share, and protect information in connection with the Company websites, mobile websites, mobile applications, browser applications, and any related services that refer or link to this Privacy Policy (“Services”). Ebates is part of the [Rakuten Group](https://global.rakuten.com/corp/about/company/), which includes the affiliates and subsidiaries of our parent company Rakuten, Inc., based in Tokyo, Japan.
 
-For questions or concerns relating to privacy, we can be contacted at:
+**1\. Collection of Information**
 
-FatWallet, Inc.  
-525 Third Street Suite C  
-Beloit, WI 53511 
+We collect, process, and use your information when you:
 
-or through our [Online Support System](https://web.archive.org/support)  
-or you can reach us by telephone at (888) 634-0098, or fax (888) 299-2752.
+  * Register for our Services or sign in to an existing account
+  * Visit our website(s)
+  * Access our Services through our application(s)
+  * Connect to our Services using third-party accounts, such as your email, social media, or payment account(s)
+  * Contact us for support
+  * Participate in our shopping or influencer programs
+  * Enter a sweepstakes, contest, promotion, survey, or poll
+
+
+
+Further, we and our service providers automatically collect certain information about you through:
+
+  * Interaction with our Services
+  * Cookies and other tracking technologies
+  * Location-identifying technologies
+  * Monitoring and analyzing trends, usage, and activities
+
+
+
+The types of information you provide may include Personal Information. “Personal Information” means information that can be used to identify you (whether alone or in combination). The Personal Information you may provide to us includes:
+
+  * First and last name
+  * Email address
+  * Mailing address
+  * Phone number
+  * Payment information (such as payment account name, payment account number, payment card expiration date, and billing address)
+  * The nature of the product or service requested or purchased
+  * How you connect to our Services, such as your IP address, unique device identifiers, device or session IDs, and information regarding the network and connected hardware (e.g., computer or mobile device)
+  * Browsing, shopping, and purchase history
+  * Your geolocation
+  * Click-stream data (the page-by-page paths you take as you browse through our Services)
+
+
+
+**2\. Use of Information We Collect**
+
+We may use information about you in the following ways.
+
+**Manage Your Account**
+
+If you provide us Personal Information, we may use it to: (i) process your registration with our Services, including verifying whether your email address is active and valid and enrolling you into our programs; (ii) monitor and manage your purchase transactions; (iii) track your shopping, deliver you rewards or payments, and identify opportunities for rewards and/or offers; (iv) send you technical notices, updates, security alerts, and administrative messages; (v) provide you member services regarding your account and reply to your questions, comments and requests; and (vi) comply with legal and regulatory provisions in force and with the competent judicial authorities in each geographical jurisdiction that the Company operates in. We may also use your information to assess risk and prevent fraud.
+
+**Improve Our Services**
+
+We may process information through analyzing and monitoring usages and trends and performing statistical analyses to improve our Services and the websites, applications, marketing efforts, and the products and services of our affiliates to provide a better service to you in the future. We may also use this information to adapt Service content to be more likely to be of interest to you.
+
+**Provide You Marketing Information**
+
+To provide you more personalized offers and/or special offers, discounts and similar information, Company may send you newsletters, rewards, discounts, promotion codes, events and general information about the service if you consent. To match your profile and interest, we may create a profile of your preferences and provide advertisements, content or features. You can manage these communications in accordance with Section 4 (Your Choices) below.
+
+**Administer Contests, Sweepstakes, and Promotions**
+
+From time to time, Company may invite you to enter various contests, sweepstakes, surveys or promotions. If you choose to participate in a contest or promotion, your Personal Information may be used to administer the contest, such as to determine your eligibility for the contest or to award a prize.
+
+**3\. Sharing of Information**
+
+We may share the information we collect, including your Personal Information, under the following circumstances.
+
+**Service Providers and Business Partners**
+
+We do not sell your Personal Information and only share it with third parties to operate our Services. We may share your Personal Information with our service providers that perform marketing services and other business operations on our behalf, under our instructions and in compliance with appropriate technical and organizational security measures to protect your data. For example, we may partner with other companies to provide you support services, authentication services, prevent fraud on our Services, administer our promotions, referral programs, sweepstakes, and surveys, perform analytics, maintain the accuracy of our databases, facilitate your travel reservations, fulfill your product purchases, and administer your rewards or payments. Further, we may share your information with our financial institution partner, Synchrony Bank, for the purposes of providing rewards or benefits to you and marketing our co-branded credit cards to you. We will not sell your Personal Information or your payment information, but we may rent, sell, and share other information that cannot be used to identify you with merchant partners, third parties, or affiliates. Information that we may rent or sell will not include your Personal Information and will not include payment information.
+
+**Rakuten Group Companies**
+
+We work closely with our affiliated businesses and companies within the Rakuten Group and share your Personal Information for our internal business administration. We may also share your account credentials (username, email address, encrypted password) and related personal identification (first and last name and address) with other companies in the Rakuten Group, so that you will be able to use your username and password on other Rakuten websites and services. As long as you do not connect to another Rakuten service, your identifiers (username, email address, encrypted password, first name, last name, and address) are shared only with our parent company, Rakuten, Inc., for the purposes of operating our authentication service. Information shared with Rakuten, Inc. is subject to the [Rakuten Privacy Policy](https://privacy.rakuten.co.jp/english/). The Rakuten Group will not sell your Personal Information or your payment information, but may rent, sell, and share other information that cannot be used to identify you with merchant partners, third parties, or affiliates. Information that we may rent or sell will not include your Personal Information and does not include payment information.
+
+**Protection of Rights and Other Legal Purposes**
+
+We may share the information we collect, including Personal Information, to the extent permitted by applicable law, (i) in response to subpoenas or other legal process or if in our good faith opinion such disclosure is required or permitted by law; (ii) at the request of governmental authorities conducting an investigation; (iii) to defend our terms and conditions or other policies applicable to our Services; and (iv) to protect the rights, property, life, health, security and safety of us or any third party.
+
+**Business Transfers**
+
+We may share the information we collect, including Personal Information, with any third party in connection with, or during negotiations of, any proposed or actual merger, purchase, sale (including a liquidation, realization, foreclosure, or repossession), or any other type of acquisition of all or any portion of Company assets, conveyance or transfer of all or a portion of our business to another company.
+
+**4\. Your Choices**
+
+You may in some cases have the option to decline providing us information. However, your choice to not provide information may impact your use of certain features or services. You may unsubscribe or opt out of receiving marketing communications from us by using the unsubscribe link on the footer of our marketing emails, by logging into your account settings, or by using the Contact Us option through the Services. Upon request, we will provide you with information whether we hold any of your Personal Information. We encourage you to maintain the accuracy of the information you submit to us, such as the information you provide us to register for your account. The Services may allow you to access, review, correct, update, and remove or make inaccessible Personal Information you have provided through your account settings. You may provide account updates and changes by logging into your account and changing settings or by using the Contact Us option through the Services. With respect to our mobile and other applications, you can prospectively stop all collection of information by the application by uninstalling the application. You may at any time opt out from further allowing us to have access to your location data by adjusting the permissions in your mobile device. We will make good-faith efforts to make requested changes in our then-active databases as soon as reasonably practicable.
+
+**5\. Data Security and Retention**
+
+We take reasonable measures to protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration, and destruction. We use a secure, encrypted connection (using a TLS protocol) on all pages where you access or transmit Personal Information. Although Company uses reasonable efforts to help protect your information, transmission via the Internet is not completely secure and Company cannot guarantee the security of your information collected through our Services. Except as otherwise set forth under applicable law, we assume no liability or responsibility for disclosure of your information due to errors in transmission, unauthorized third-party access, or other causes beyond our control. We retain the information collected via our Services until such time as you choose to close your account. After that time, we may aggregate the data and retain it for analytical purposes. We may also retain your information on backup media to comply with applicable law, to support financial audits, to resolve disputes, to maintain compliance efforts, and for other legitimate business reasons.
+
+**6\. Promotional Communications**
+
+By signing up for an account, you may receive periodic emails from Company. If you consented to receiving promotional email communications, you can opt out of receiving such communications from us at any time by (i) following the instructions provided in those communications; (ii) modifying your Email Preferences in the Account Settings of your account; or (iii) contacting us through the Services. Please note that even if you opt out of receiving promotional communications, we may continue to send you non-promotional emails and other types of communications, as permitted by law, such as service emails relating to our ongoing business relationship. Service emails contain service-related announcements that affect your account, such as product order confirmations, reward or payment updates, and responses to your comments and feedback submitted to us. Company mobile applications, browser extensions, and websites may send you notifications, such as alerts, sounds, and icon badges. Push notifications or in-app messages may include both operational messages and promotional messages regarding products, services, and offers that may be of interest to you. When using mobile applications, push notifications and other mobile alerts can be configured in the settings of your mobile device. As with emails, even if you opt out of receiving promotional communications, we may continue to send you non-promotional push notifications, such as those about your use of the applications or our ongoing business relations.
+
+**7\. Cookie Policy**
+
+We and our partners use cookies and similar technologies to analyze trends, administer the website, track users’ movements around the website, and gather demographic information about our user base as a whole. We use cookies for many purposes, including, without limitation, authentication, tracking user preferences or web pages visited while using our Services. You may control the use of cookies at the browser level. If you choose to disable cookies, it may limit your use of certain features or functions on the Service.
+
+**8\. Analytics, Targeting, Tracking**
+
+We, and third parties with which we partner, may also use cookies, pixels, and other technologies to automatically collect information about your use of the Services, such as your click-stream data, browsing history, IP address, web browser, pages viewed, time spent on pages, links clicked, and conversion information. Data collected from a particular browser or device may be used with another computer or device that is linked to the browser or device on which such data was collected (also known as cross-linking). We may also work with third parties to serve ads to you as part of a customized campaign on other websites or platforms. These third parties may also collect Personal Information about your online activities over time and across different websites when you use our Services to help predict your preferences and to display (and to enable other third parties to display) ads to be more likely to be of interest to you. Some third-party service providers that we engage (including third-party advertisers) may also place their own cookies on your browser. If you wish to opt-out of interest-based advertising, click [here](http://preferences-mgr.truste.com/) (or, if you are located in the European Union, click [here](http://www.youronlinechoices.eu/)). Note that this Privacy Policy covers only our use of cookies and does not include use of cookies by such third parties.
+
+**9\. Third-Party Data**
+
+The Services contain hyperlinks to websites of merchants and retailers and other websites or locations that we do not control and are operated and controlled by third parties (“Third-Party Websites”). Our Privacy Policy does not apply to these Third-Party Websites and we make no representations regarding the policies or business practices of any such Third-Party Websites.
+
+**10\. Social Features**
+
+Certain functionalities on the Services are specifically designed to permit interactions that you initiate between the Services and third-party websites or services, including third-party social networks (“Social Features”). Examples of Social Features include features that enable you to transmit your account content from a third-party website or service to our Services; to “like” or “share” our Services’ content on other websites or services; to sign in to the Services using your username and password from a third-party site or service; and to connect our Services with a third-party website or service. If you choose to use Social Features, the information you post or provide access to may be used by us and/or publicly displayed on our Services or by the provider of the Social Feature that you use. Similarly, if you post information on a third-party platform that references our Services (e.g., by using a hashtag associated with Company in a tweet or status update), your post may be published on our Services in accordance with the terms of the third-party website or service. When you use our Services with a third-party site or service, both Company and the third party may have access to certain information about you and your use of our Services and the third-party site or service. In addition, we may receive information about you if other users of a third-party website give us access to their profiles and you are one of their “connections,” or information about you is otherwise accessible through your connections’ web pages, profile pages, or similar pages on a social-networking or other third-party website or interactive service. The information we collect in connection with Social Features is subject to this Privacy Policy. The information collected and stored by the third parties remains subject to those third parties’ privacy policies, including whether the third parties continue to share information with us, the types of information shared, and your choices with regard to what is visible to others on those third party websites or services.
+
+**11\. Referral Programs**
+
+Company may offer features which allow you to inform an individual about our Services. If you choose to use our referral features, we will ask you for your referral’s email address to send them an electronic communication inviting them to join our Services. Company will store this information for the sole purpose of sending this email and tracking the success of our referral program. If you choose to participate in our referral programs, you represent and warrant that you have a personal relationship with your referral and that you are authorized to share their information with Company for the purpose of sending this communication to invite them to join the Services.
+
+If you believe that one of your contacts has provided us with your Personal Information and you would like to request that it be removed from our database, please contact us at privacy@ebates.com.
+
+**12\. Changes to This Privacy Policy**
+
+This Privacy Policy is current as of the effective date set forth above. Company reserves the right to change this privacy policy from time to time consistent with applicable privacy laws and principles. If we make changes to this Privacy Policy we will notify you by revising the date at the top of this Privacy Policy, and in some cases, we may provide you with additional notice (such as adding a statement to the homepages of our Services or sending you an email notification).
+
+**13\. Dispute Resolution**
+
+If you have unresolved privacy or data-use concerns that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute-resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request
+
+**14\. Contact Us**
+
+If you have any questions regarding this Privacy Policy, please feel free to contact us by email at [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Ebates.com) or by mail at 800 Concar Drive, Suite 175, San Mateo, CA 94402, ATTN: Ebates Legal.
+
+Updated: May 22, 2018 
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=6b25acce-c1f5-4194-b740-be5e1f150071)
-
-#### Collection of Personally Identifiable Information
-
-In order to use certain portions of the Service, you may be asked for, or you may choose to provide, certain PII such as name, email address, postal address, PayPal account or similar information. We will not collect PII from you while you use the Service unless you voluntarily provide it to us or authorize us to collection such information.
-
-You authorize FatWallet to receive any account information from any affiliated merchant including, but not limited to, information regarding any purchase made by you through your utilization of the Service, such as: the products ordered, the order number, the time and date of the purchase, and the email address entered for the purchase.
-
-#### Other Information We Collect 
-
-As is true of most websites, we gather certain information automatically. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data to analyze trends.
-
-#### Cookies and Other Technologies
-
-We, FatWallet, and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level, but if you choose to disable cookies it may limit your use of certain features or functions on our website or service. Click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) to manage Flash cookies.
-
-We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt-out of interest-based advertising, click [here](http://preferences-mgr.truste.com/). Please note you will continue to receive generic ads. 
-
-#### Use of Personally Identifiable Information
-
-FatWallet may use or disclose PII to: operate and manage the Service, to provide services that you have requested, or respond to your other inquires or requests. We may also disclose PII in the establishment or exercise of legal rights or defense against legal claims, to comply with applicable laws or regulations, to comply with a valid legal process such as a search warrant, subpoena, court order or in response to other lawful requests by public authorities, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, or to investigate suspected fraud or a violation of the terms of the FatWallet User Agreement. 
-
-If FatWallet is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website, of any change in ownership, uses of your personal information, and choices you may have regarding your personal information. We may disclose your information to any other third party with your prior consent. 
-
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We will never sell your Personal Information to any third party not affiliated with FatWallet without your consent, except in connection with the sale or merger of FatWallet or the division responsible for such services. 
-
-You should be aware that PII which you voluntarily include and transmit online, such as in online forums, may be viewed and used by anyone with access to such forums. FatWallet is unable to control such uses of your PII. 
-
-#### Service Providers
-
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. 
-
-#### Use of Other Information
-
-We also collect information pertaining to our merchant partners you visit, the purchases you make, and the offers you view ("Transaction Information"). We use to provide more relevant offers for you when you visit us or use our applications and services.
-
-#### Social Media Widgets
-
-Our website includes social media features, such as the Facebook Like button, and widgets, such as the Share This button or interactive mini-programs that run on our website. These features may collect your internet protocol address, which page you are visiting on our website, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing it. 
-
-#### Security
-
-The security of your PII is very important to us and we take commercially reasonable steps to attempt to secure your PII. We have put in place reasonable physical, electronic, and managerial procedures to safeguard the information we collect. Only those employees and contractors who need access to your PII in order to perform their duties are authorized to have access. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and FatWallet or information stored or transmitted through the Service or on our servers, will be completely free from unauthorized access by third parties such as hackers, and your use of the Service demonstrates your assumption of this risk. 
-
-#### User Access and Choice
-
-If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove, ask to have it removed from a public forum, directory or testimonial on our site or deactivate it by making the change on our member information page or by contacting [Customer Support](https://web.archive.org/support/contact/general). Upon request, we will provide you with the information about whether we hold any of your personal information. We will respond to your request within a reasonable timeframe. 
-
-We will retain your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-#### No Children under 13
-
-We have no intention of collecting PII from children under the age of 13. When we become aware that PII from a child under 13 has been collected without such child's parent or guardian's consent, we will use all reasonable efforts to delete such information from our database. 
-
-#### Changes in Privacy Policy
-
-This Privacy Policy may change from time to time to the reflect changes to our information practices. If we make any material changes, FatWallet will post those changes on this page prior to the change becoming effective or we will notify you by email (sent to the email address specified in your account). We encourage you to periodically review this page for the latest information on our privacy practices. 
-
-#### Opt-out
-
-We give you the option to remove your PII from our list of active users completely in connection with the termination of your FatWallet.com user account. All unsubscribe or opt-out requests should be sent to us using the form located [here](https://web.archive.org/support/contact/general) and we will process your request within a reasonable time after receipt. We are not responsible for removing your PII from the lists of any third party who has previously been provided your information in accordance with this policy. 
-
-You may sign up to receive emails from us. If you would like to discontinue receiving this information, you may update your email preferences using the “unsubscribe link” found in emails we send to you or adjusting your email subscriptions by clicking [here](https://web.archive.org/account/subscriptions).
-
-#### User Agreement
-
-Use of this Service is subject to the FatWallet User Agreement located [here](https://web.archive.org/user-agreement). 
-
-#### United States
-
-Our Service is maintained from within the United States of America. If you are located outside of the United States, by using the Service, you authorize the export of PII to the United States and its storage and use as specified in this policy. 
-
-#### Dispute Resolution
-
-If you have unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolutions provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
-
-#### Effective Date
-
-This Privacy Policy was last updated on March 31, 2017
