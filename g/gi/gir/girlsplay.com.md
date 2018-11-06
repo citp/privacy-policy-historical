@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsplay.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531185443id_/https%3A//www.girlsplay.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsplay.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106225111id_/https%3A//www.girlsplay.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
