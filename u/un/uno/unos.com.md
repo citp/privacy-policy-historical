@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the unos.com privacy policy that was archived on 2017-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170207034346id_/https%3A//www.unos.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unos.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106014055id_/https%3A//www.unos.com/privacy.php) for the most accurate reproduction.*
 
 # Uno Pizzeria & Grill: Privacy Policy
 
 ### Uno Restaurant Holdings Corporation  
 Website Privacy Policy
 
-Last Revised: July 10, 2008
+Last Revised: March 22, 2018
 
 #### General
 
@@ -22,11 +22,11 @@ The Company may collect personal information online for all legal purposes, whic
 **On-line Surveys**  
 The Company conducts on-line surveys and other activities that may require online registration. Persons wishing to participate in those activities are asked to provide certain personal information. Some of the information requested for this purpose is optional, but other information, such as email address, is mandatory because it will be needed distribute promotions (such as coupons). Also, some activities may require the selection of a user ID and password by the participating individual. 
 
-**"Contact Us" and Comment Features**  
+**"Contact" and Comment Features**  
 The Company encourages visitors to its websites to contact us with questions and comments. Email addresses and other information of persons using these features may be collected in order to facilitate our responses to those inquiries.
 
 **Purchases of Company Products**  
-The unotogo.com website and other Company websites may offer individuals the opportunity to purchase products online. In connection with those purchases, customers may be asked to submit personal information, name, address, telephone number and email address, that is required to complete the transaction. 
+The unos.com website and other Company websites may offer individuals the opportunity to purchase products online. In connection with those purchases, customers may be asked to submit personal information, name, address, telephone number and email address, that is required to complete the transaction. 
 
 **Special Promotions and Product Information**  
 The Company also may offer you the opportunity to provide you with email updates and announcements concerning our products and special promotions. Personal information you have provided to the Company may be used to facilitate those communications.
@@ -83,3 +83,8 @@ Uno Restaurant Holdings Corporation
 100 Charles Park Road  
 Boston, MA 02132  
 [privacy@unos.com](mailto:privacy@unos.com)
+
+Sign up now for exclusive savings, invites and the latest news sent straight to your inbox - starting with a **FREE** welcome gift.
+
+[Become an Insider](https://web.archive.org/eclub.php)   
+
