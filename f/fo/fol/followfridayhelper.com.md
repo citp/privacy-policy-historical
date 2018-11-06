@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followfridayhelper.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901155624id_/https%3A//tweepi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followfridayhelper.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106224109id_/https%3A//tweepi.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Tweepi
 
