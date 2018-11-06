@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allparenting.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616033646id_/http%3A//www.sheknows.com/mediakit/articles/813566/privacy-policy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allparenting.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107001708id_/http%3A//www.sheknows.com/mediakit/articles/813566/privacy-policy-1) for the most accurate reproduction.*
 
 # Privacy Policy
 
