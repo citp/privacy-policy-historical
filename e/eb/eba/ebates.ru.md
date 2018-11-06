@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebates.ru privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624214532id_/https%3A//www.ebates.com/help/article/privacy-policy-115009657667) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebates.ru privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106225008id_/https%3A//www.ebates.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ebates
 
