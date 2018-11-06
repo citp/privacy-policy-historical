@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bargainbriana.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506012220id_/http%3A//bargainbriana.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainbriana.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106133148id_/http%3A//bargainbriana.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BargainBriana
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
 **What personal information do we collect from the people that visit our blog, website or app?**
 
@@ -10,25 +10,23 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 **When do we collect information?**
 
-We collect information from you when you subscribe to a newsletter or enter information on our site.
+We collect information from you when you subscribe to a newsletter, fill out a form or enter information on our site.
 
 **How do we use your information?**
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-**•** To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+**•**  To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-**•** To improve our website in order to better serve you.
+**•**  To administer a contest, promotion, survey or other site feature.
 
-**•** To allow us to better service you in responding to your customer service requests.
+**•**  To send periodic emails regarding your order or other products and services.
 
-**•** To administer a contest, promotion, survey or other site feature.
-
-**•** To send periodic emails regarding your order or other products and services.
-
-**How do we protect visitor information?**
+**How do we protect your information?**
 
 We do not use vulnerability scanning and/or scanning to PCI standards.
+
+We only provide articles and information. We never ask for credit card numbers.
 
 We use regular Malware Scanning.
 
@@ -44,23 +42,23 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 **We use cookies to:**
 
-**•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+**•**  Keep track of advertisements.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+**•**  Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
-If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
 
-However, you can still place orders .
+If you turn cookies off, It won’t affect the user’s experience .
 
-**Third Party Disclosure**
+**Third-party disclosure**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Third party links**
+**Third-party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **Google**
 
@@ -68,50 +66,48 @@ Google’s advertising requirements can be summed up by Google’s Advertising P
 
 We use Google AdSense Advertising on our website.
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
 
 **We have implemented the following:**
 
-**•** Google Display Network Impression Reporting
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
-
-Opting out:  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+**Opting out:**  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
 
 **California Online Privacy Protection Act**
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
-**According to CalOPPA we agree to the following:**
+**According to CalOPPA, we agree to the following:**
 
-Users can visit our site anonymously
+Users can visit our site anonymously.
 
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
 
-Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
+Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
 
-Users will be notified of any privacy policy changes:
+You will be notified of any Privacy Policy changes:
 
-**•** On our Privacy Policy Page
+**•**  On our Privacy Policy Page
 
-Users are able to change their personal information:
+Can change your personal information:
 
-**•** By emailing us
+**•**  By emailing us
 
-**How does our site handle do not track signals?**
+**How does our site handle Do Not Track signals?**
 
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
-**Does our site allow third party behavioral tracking?**
+**Does our site allow third-party behavioral tracking?**
 
-It’s also important to note that we allow third party behavioral tracking
+It’s also important to note that we allow third-party behavioral tracking
 
 **COPPA (Children Online Privacy Protection Act)**
 
-When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 
-We do not specifically market to children under 13.
+We do not specifically market to children under the age of 13 years old.
 
 **Fair Information Practices**
 
@@ -119,11 +115,11 @@ The Fair Information Practices Principles form the backbone of privacy law in th
 
 **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
 
-We will notify the users via email
+We will notify the users via in-site notification
 
-**•** Within 7 business days
+**•**  Within 7 business days
 
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
 
 **CAN SPAM Act**
 
@@ -131,15 +127,27 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 **We collect your email address in order to:**
 
-**To be in accordance with CANSPAM we agree to the following:**
+**•**  Send information, respond to inquiries, and/or other requests or questions
+
+**•**  Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+**To be in accordance with CANSPAM, we agree to the following:**
+
+**•**  Not use false or misleading subjects or email addresses.
+
+**•**  Identify the message as an advertisement in some reasonable way.
+
+**•**  Include the physical address of our business or site headquarters.
+
+**•**  Monitor third-party email marketing services for compliance, if one is used.
+
+**•**  Honor opt-out/unsubscribe requests quickly.
+
+**•**  Allow users to unsubscribe by using the link at the bottom of each email.
 
 **  
 If at any time you would like to unsubscribe from receiving future emails, you can email us at**
 
-and we will promptly remove you from **ALL** correspondence.
+**•**  Follow the instructions at the bottom of each email.
 
-Notice Regarding Interest-Based Advertising Partner Websites may allow third-party companies, including ad networks, to serve advertisements, provide other advertising services and/or collect certain information when you visit our website. Third party companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visit to this website in order to provide advertisements about goods and services likely to be of greater interest to you. Third party may use non- cookie technologies to recognize your computer or device and/or to collect and record information about your web surfing activity including your activities on this website. These technologies may be used directly on this website. Please keep in mind that your web browser may not permit you to block the use of these non-cookie technologies, and those browser settings that block cookies may have no effect on such techniques. To learn more about this Interest-Based Advertising or to opt-out of this type of advertising by those third parties that are members of self-regulatory programs such as the Network Advertising Initiative, please visit the NAIâ€™s website (www.networkadvertising.org) which will allow you to opt out of Interest-Based Advertising by one, or all, NAI members.
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:[http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+and we will promptly remove you from  **ALL**  correspondence.
