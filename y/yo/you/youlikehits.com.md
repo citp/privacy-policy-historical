@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youlikehits.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618181344id_/https%3A//youlikehits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youlikehits.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106223733id_/https%3A//www.youlikehits.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - YouLikeHits
 
