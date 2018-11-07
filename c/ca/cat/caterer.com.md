@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caterer.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627065209id_/https%3A//www.caterer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caterer.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107232118id_/https%3A//www.caterer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -152,7 +152,7 @@ Please note that Caterer.com reserves the right to remove from our database, CVs
 
 You can de-activate or delete your account at any time, make your profile anonymous or choose to not make your profile searchable. To de-activate, please go to your “My Account”. 
 
-However, if you would like to permanently delete your account, you can send an email to our Data Protection Officer (DPO) (see below) with the subject line “Permanently delete my information and account”. Please do not forget to tell us who you are.
+However, if you would like to permanently delete your account, you can send an email to our Data Protection Officer (DPO) (see below) with the subject line “Permanently delete my information and account”. Please do not forget to tell us who you are. Please note that if you delete your account or request that StepStone delete your account on your behalf that we cannot at later date complete any request under GDPR pertaining to your right to be forgotten; the right to be forgotten request must be requested before any deletion of account.
 
 Security
 
@@ -204,7 +204,7 @@ We partner with third-party advertising networks so that we and other advertiser
 
 You have the following rights:
 
-  * the right to ask what personal data that we hold about you at any time, subject to a fee specified by law (currently £10);
+  * the right to ask what personal data that we hold about you at any time, subject to a fee specified by law;
   * the right to ask us to update and correct any out-of-date or incorrect personal data that we hold about you free of charge; and
   * (as set out above) the right to opt out of any marketing communications that we may send you.
 
