@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocbc.com.my privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522150057id_/http%3A//ocbc.com.my/personal-banking/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocbc.com.my privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107230135id_/http%3A//ocbc.com.my/personal-banking/security-privacy.html) for the most accurate reproduction.*
 
 # OCBC - Security & Privacy
 
