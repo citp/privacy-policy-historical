@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsmathgamesonline.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509040837id_/http%3A//kidsmathgamesonline.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsmathgamesonline.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107220410id_/http%3A//kidsmathgamesonline.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
