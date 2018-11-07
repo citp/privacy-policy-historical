@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pintsizefarm.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329174422id_/http%3A//www.pintsizefarm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pintsizefarm.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107203734id_/http%3A//www.pintsizefarm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pint Size Farm
 
