@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kavaint.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509064718id_/http%3A//www.kavaint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kavaint.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107180056id_/http%3A//www.kavaint.com/privacy) for the most accurate reproduction.*
 
 # Privacy - KAvaint.com
 
