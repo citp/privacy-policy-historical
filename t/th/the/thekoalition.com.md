@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thekoalition.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603153222id_/http%3A//thekoalition.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekoalition.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108000043id_/http%3A//thekoalition.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – The Koalition
+# Privacy Policy - The Koalition
 
 **Collection and Use of Information:** In addition to any personally identifying information you may voluntarily provide during your visit to this website, The Koalition may recognize and record certain other information, including without limitation, your computer’s unique IP address, and/or any other information concerning your use of this website. The Koalition reserves the right to use any information it collects at this website for any legal purpose, including without limitation by sending you information concerning future products, activities and/or promotions, and/or by sharing your information with third-parties in connection with certain promotions, products, programs and/or services. You may contact us by email at **Legal@thekoalition.com**
 
