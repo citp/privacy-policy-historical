@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the abbyy.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521222355id_/https%3A//www.abbyy.com/en-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abbyy.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107110440id_/https%3A//www.abbyy.com/en-us/privacy) for the most accurate reproduction.*
 
-# Privacy
-
-## ABBYY PRIVACY NOTICE
+# ABBYY Privacy Policy
 
 ABBYY USA Software House, Inc. (“ **ABBYY** ,” “ **we** ” or “ **us** ”) has created this website (the “ **Website** ” or the “ **Site** ”) to provide a platform for sales, registration, and support for ABBYY's character recognition, data capture, linguistics, and translation products and services.
 
 ABBYY is committed to maintaining your privacy.  This Privacy Notice (“ **Privacy Notice** ”) outlines our privacy practices, including the types of information that you may provide to us, how we use such information and the choices you have regarding our use of that information.  We may collect the information through our Website; when you purchase, register or use our products through computers or mobile devices; through our online support services; or through email messages that we send to you (collectively, including all online methods, the “ **Services** ”), or offline, such as when you attend one of our trade shows or contact our customer service line.  Our Privacy Notice applies to (i) casual visitors to our Site, who do not participate in the Services (“ **Site Visitors** ”), (ii) individuals who purchase or register products through the Website or otherwise participate in our Services (“ **Registered Users** ”), (iii) users of our products and (iv) individuals whose information we obtain offline (collectively, including Site Visitors, Registered Users, users of products, and other individuals, “ **you** ”).
 
-### 1\. NOTICE.
+## 1\. Notice.
 
 **1.1.  The Types of Information You May Provide.** Information you may provide or that we may collect from you while visiting our Site or while participating in our Services falls into three broad categories: (i) Personally Identifiable Information, (ii) Activities Information, and (iii) Anonymous Information.
 
@@ -18,11 +16,11 @@ ABBYY is committed to maintaining your privacy.  This Privacy Notice (“ **Pri
 
 **1.4. Anonymous Information.** “ **Anonymous Information** ” is information that does not identify you, and may include statistical information concerning, for example, your use of our products and Services, your access to content on our Website, or the pages on our Site that you visit most frequently.
 
-### 2\. CHOICE AND CONSENT.
+## 2\. Choice and consent.
 
 We have structured our Website so that you may visit our Site without revealing your identity or providing any Personally Identifiable Information. Please read this Privacy Notice carefully. Providing your Personally Identifiable Information to us through the Services confirms your agreement to be bound by this Privacy Notice.
 
-**2.1. Receiving Electronic Communications from Us.** You can opt-out of receiving bulletins, updates, the ABBYY newsletter, or other marketing-related materials by clicking on the unsubscribe link here, [Unsubscribe](http://inside.abbyyusa.com/hs/manage-preferences/unsubscribe?v=1&d=eyJlYSI6ImRlYm9yYWguYmF0ZXNAYWJieXl1c2EuY29tIiwiZWMiOjIsInN1YnNjcmlwdGlvbklkIjoxLCJldCI6MTQ2NzgxOTA4NDIwMiwiZXUiOiIzZGY4ZmVlMi00NTFiLTQwY2MtODg0ZC05NTJjMzIyNzY1ZjkifQ%3D%3D&utm_campaign=EBU-AP-Nurturing-2016&utm_source=hs_email&utm_medium=email&utm_content=2&_hsenc=p2ANqtz--kzqaN08B9a1A3TNlj-rf7W0ixAX0cwbqI3i-RNoxC47ggWXzCeqh-Bc2i_RYcFJcxosyKowMxUtWo2XAb5loYVktI7Bh5en8uBBjBs1i3ArO5uzg&_hsmi=2), or on the bottom of each Marketing e-mail.
+**2.1. Receiving Electronic Communications from Us.** You can opt-out of receiving bulletins, updates, the ABBYY newsletter, or other marketing-related materials by clicking on the unsubscribe link here, [Unsubscribe](http://promo.abbyy.com/SubscriptionManagement.html), or on the bottom of each Marketing e-mail.
 
 **2.2. This Privacy Notice does not apply to the Xerox Easy Translator Service**
 
@@ -34,7 +32,7 @@ If you have previously opted out of receiving marketing email communications or 
 
 **2.4.  Exception for Administrative Messages.** Please understand that if you choose not to receive marketing-related messages from us, we may still send you important administrative messages, such as notices concerning operation of this Website or other Services, products you have purchased, downloaded or registered for, and legal and other related notices concerning your relationship with ABBYY and this Site. You cannot opt-out from receiving administrative messages.
 
-### 3\. COLLECTION.
+## 3\. Collection.
 
 **3.1.** **Our Collection of Personally Identifiable Information.** We and certain service providers operating on our behalf collect Personally Identifiable Information from you. Personally Identifiable Information may be collected as part of the normal operation of our products and Services, for example, when contained in data that you or we capture, convert or translate using our products or in connection with your use of other features of our Services. The following further explains the Personally Identifiable Information that is collected:
 
@@ -68,7 +66,7 @@ If you have previously opted out of receiving marketing email communications or 
 
 **3.3.3. Computer Configuration.** We may collect information about your operating system and browser, as well as the presence of any software that our Services may require to operate with your computer or device, or other third party software on your computer or device.
 
-### 4\. USE.
+## 4\. Use.
 
 **4.1. Our Use of Personally Identifiable Information.** ABBYY and certain service providers acting our behalf use Personally Identifiable Information for the purposes set out in this Notice. We use Personally Identifiable Information to provide our products and the Services, for example, to provide you document capture, optical character recognition or document conversion functionality, to respond to your inquiries and fulfill your requests.
 
@@ -100,15 +98,15 @@ If you have previously opted out of receiving marketing email communications or 
 
 **4.3. Our Use of Anonymous Information.** We use Anonymous Information to analyze the effectiveness of our Site, to improve our products and Services, and for other similar purposes. In addition, from time to time, we may undertake or commission statistical and other summary analyses of the general behavior and characteristics of users of our products and Services and the characteristics of visitors at our Site, and may share Anonymous Information with third parties, including third party ad service providers or advertisers (“ **Advertisers** ”).
 
-### 5\. RETENTION AND DISPOSAL.
+## 5\. Retention and disposal.
 
 We retain Personally Identifiable Information for the period of time needed in order to process your transaction and maintain our customer records. ABBYY has data retention and disposal processes to dispose of Personally Identifiable Information in a manner that is designed to protect against loss, theft, misuse, or unauthorized access. Please note, however, that it may not be technically or commercially feasible to remove this information completely, for example, due to archived backups and records of deletions that are no longer reasonably accessible.
 
-### 6\. ACCESS AND CORRECTION.
+## 6\. Access and correction.
 
 If you would like to review, correct, update, or delete Personally Identifiable Information you have previously provided to ABBYY, please contact us as provided in Section 16 (Contact Us). In your request, please make clear what Personally Identifiable Information you would like to have changed or what other limitations you would like to put on our use of Personally Identifiable Information you have provided to us. We may request information from you for purposes of verifying your identity before fulfilling such requests. While we will try to comply with your requests to delete your Personally Identifiable Information from our databases, please understand that it may not be technically or commercially feasible to remove this information completely. We will try to comply with your requests made in accordance with this section as soon as reasonably practicable.
 
-### 7\. DISCLOSURE TO THIRD PARTIES.
+## 7\. Disclosure to third parties.
 
 We may disclose your Personally Identifiable Information in the following ways:
 
@@ -120,52 +118,52 @@ We may disclose your Personally Identifiable Information in the following ways:
 
 **7.4. Protecting Rights.** ABBYY may disclose Personally Identifiable Information as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (c) to enforce our terms and conditions; (d) to protect our operations or those of any of our Affiliates; (e) to protect our rights, privacy, safety or property, and/or that of our Affiliates, you or others; and (e) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-### 8\. SECURITY.
+## 8\. Security.
 
 We have put in place security systems designed to protect against unauthorized access to or disclosure of Personally Identifiable Information you provide to us, and we take reasonable steps to secure and safeguard this Information. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with Section 16 (Contact Us).
 
-### 9\. QUALITY/DATA INTEGRITY.
+## 9\. Quality / data integrity.
 
 We rely on you to provide us complete and accurate personal information and to contact us if correction of such information is required.
 
-### 10\. MONITORING AND ENFORCEMENT.
+## 10\. Monitoring and enforcement.
 
 ABBYY uses a self-assessment approach to assure compliance with this Privacy Notice and periodically verifies that the Privacy Notice is accurate, comprehensive for the information intended to be covered, prominently displayed, and accessible. We encourage users to raise any concerns by contacting us, as provided in Section 16 (Contact Us), and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of Personally Identifiable Information.
 
-### 11\. ANY INFORMATION LINKED WITH YOUR PERSONALLY IDENTIFIABLE INFORMATION IS PROTECTED AS “PERSONALLY IDENTIFIABLE INFORMATION.”
+## 11\. Any information linked with your personally identifiable information is protected as “personally identifiable information.”
 
 To enable us to better understand the characteristics of our users and to provide services tailored to your needs, we may link the Personally Identifiable Information you have provided with Anonymous Information or other information. If we combine or link any Anonymous Information or other information with your Personally Identifiable Information, the resulting combination will be treated and protected as Personally Identifiable Information under this Privacy Notice.
 
-### 12\. BANNER ADS; ADVERTISING PROFILES.
+## 12\. Banner ads; advertising profiles.
 
 Our Website may include the use of banner ad partners for the serving and targeting of ads, promotions, and other marketing messages. Ads may be provided, in some cases, by Advertisers. These Advertisers may use traditional banner ads, or other advertising methods, such as advertising using profiles and related Content. An Advertiser may place or utilize its own cookie on your browser, and may use information about your visit to our sites, such as the number of times you have viewed the ad. If the Advertiser requests that you provide to it Personally Identifiable Information, please be aware that this Advertiser's use and collection of this information will be governed by its own Privacy Notice, and not our Privacy Notice. We recommend that you review the Advertiser's Privacy Notice before providing Personally Identifiable Information.
 
-### 13\. PARTICIPATION BY CHILDREN AND TEENS; ADVISORY.
+## 13\. Participation by children and teens; advisory.
 
 Due to federal law (as reflected in the Children's Online Privacy Protection Act), YOU MUST BE AT LEAST 13 YEARS OLD TO USE OUR SITE AND SERVICES. IF YOU ARE BETWEEN 13 AND THE APPLICABLE AGE OF MAJORITY, PLEASE REVIEW THIS AGREEMENT WITH YOUR PARENT OR GUARDIAN.
 
-### 14\. NOTIFICATION OF CHANGES.
+## 14\. Notification of changes.
 
 From time to time, ABBYY may change its Privacy Notice. If we make any material changes we will post the new Privacy Notice at the privacy link on our Website.
 
-### 15\. RELATIONSHIP TO TERMS OF USE AND OTHER CONTRACTS.
+## 15\. Relationship to terms of use and other contracts.
 
 This Privacy Notice must be read in conjunction with our Terms and Conditions of Use and the provisions of our Terms and Conditions of Use are incorporated herein. To the extent the Terms and Conditions of Use conflict with the terms of this Privacy Notice, the terms of this Privacy Notice will control. Moreover, to the extent this Privacy Notice conflicts with the terms and conditions of any specific agreement you enter with us, the terms and conditions of such specific agreement will control.
 
-### 16\. CONTACT US.
+## 16\. Contact us.
 
 If you have any questions about this Privacy Notice, the practices of this Site or our Services, please contact us at:
 
 Privacy Officer  
 ABBYY USA Software House, Inc.  
-880 North McCarthy Blvd., Suite 220, Milpitas, CA 95035
+890 Hillview Court, Suite 300, Milpitas, CA 95035​
 
 [privacy@abbyyusa.com](mailto:%20privacy@abbyyusa.com)
 
 408-457-9777
 
-### 17\. EFFECTIVE DATE.
+## 17\. Effective date.
 
 The effective date of this Privacy Notice is July 22, 2016.
 
-COPYRIGHT AND LEGAL NOTICE. Copyright © 2014 ABBYY. All Rights Reserved.
+COPYRIGHT AND LEGAL NOTICE. Copyright © 2017 ABBYY. All Rights Reserved.
