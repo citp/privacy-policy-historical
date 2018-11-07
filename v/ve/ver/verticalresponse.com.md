@@ -1,27 +1,27 @@
-> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116151435id_/https%3A//www.deluxe.com/policy/privacy-shield) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107015541id_/https%3A//www.deluxe.com/policy/privacy-shield) for the most accurate reproduction.*
 
 # Deluxe Small Business Sales, Inc. and Hostopia Ireland LTD Privacy Policy
 
-**Effective Date: May 16, 2017**  
+**Effective Date: September 28, 2018**  
 Your privacy is important to us. As a result, we’ve developed this Privacy Policy that provides a description of how we collect, use, disclose, transfer, and store your information, as well as your choices regarding use, access and correction of your personal information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.
 
 ## **I. Introduction & Notice**
 
 ###     a. Introduction
 
-Deluxe Small Business Sales, Inc. and Hostopia Ireland Limited (“Deluxe”), doing business as Aplus.net (“Aplus”), VerticalResponse.com (“VerticalResponse”), hostopia.com (“Hostopia”), host.ie, and register.ie, makes reasonable efforts to protect the privacy of your personal information. This Privacy Policy was created to demonstrate our commitment to fair information practices. Our policies and procedures address applicable U.S. and international privacy requirements concerning the collection, use, and cross-border transfer of personal data.
+Deluxe Small Business Sales, Inc. and Hostopia Ireland Limited (“Deluxe”), doing business as Aplus.net (“Aplus”), VerticalResponse.com (“VerticalResponse”), hostopia.com (“Hostopia”), managed.com (“Managed”), host.ie, and register.ie, makes reasonable efforts to protect the privacy of your personal information. This Privacy Policy was created to demonstrate our commitment to fair information practices. Our policies and procedures address applicable U.S. and international privacy requirements concerning the collection, use, and cross-border transfer of personal data.
 
-This Privacy Policy covers Deluxe and its subsidiaries’ use of personal information that Deluxe collects when you use its websites, including but not limited to: [www.aplus.net](https://www.aplus.net/), [www.hostopia.com](https://www.hostopia.com/), [www.hostopiapartnerconnects.com](https://www.hostopiapartnerconnects.com/), [www.verticalresponse.com](http://www.verticalresponse.com/), [host.ie](https://host.ie/), and [register.ie](https://register.ie/) (collectively, the “Sites”). In the event that personal information is provided to us, whether in electronic, paper, or verbal format, it will be collected, used and disclosed by Deluxe in accordance with this Privacy Policy.
+This Privacy Policy covers Deluxe and its subsidiaries’ use of personal information that Deluxe collects when you use its websites, including but not limited to: [www.aplus.net](https://www.aplus.net/), [www.hostopia.com](https://www.hostopia.com/), [www.hostopiapartnerconnects.com](https://www.hostopiapartnerconnects.com/), [www.verticalresponse.com](http://www.verticalresponse.com/), [www.managed.com](https://managed.com/), [host.ie](https://host.ie/), and [register.ie](https://register.ie/) (collectively, the “Sites”). In the event that personal information is provided to us, whether in electronic, paper, or verbal format, it will be collected, used and disclosed by Deluxe in accordance with this Privacy Policy.
 
-As described more fully below, Deluxe participates in and has certified its compliance with the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland, respectively. Deluxe has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Deluxe is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Under certain conditions, more fully described on the Privacy Shield website [here](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.Other than as described in this Privacy Policy, we will not disclose personal information about you to others without your express consent.
+As described more fully below, Deluxe participates in and has certified its compliance with the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland, respectively. Deluxe has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Deluxe is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Under certain conditions, more fully described on the Privacy Shield website [here](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted. Other than as described in this Privacy Policy, we will not disclose Personal Information about you to others without your express consent.
 
 IF YOU DO NOT AGREE WITH THE TERMS IN THIS PRIVACY POLICY, DO NOT USE THE SERVICES AND SITES. CONTINUED USE OF THE SERVICES AND SITES CONSTITUES YOUR FREELY GIVEN SPECIFIC AND INFORMED CONSENT AND AGREEMENT TO YOUR PERSONAL DATA BEING PROCESSED PURSUANT TO THIS POLICY.
 
 ###     b. Definitions
 
   * The terms "we", "our", and "us" in this Privacy Policy refer to Deluxe delivering the services and products herein.
-  * “You” means the individual to whom any given Personal Data covered by this Privacy Policy refers.
-  * “Personal Data” and “Personal Information” means any information relating to an individual that can be used to identify that individual either on its own or in combination with other readily available data.
+  * "You" means the individual to whom any given Personal Data covered by this Privacy Policy refers.
+  * "Personal Data" and “Personal Information” means any information relating to an individual that can be used to identify that individual either on its own or in combination with other readily available data.
 
 
 
@@ -31,11 +31,11 @@ For this Privacy Policy and its content, Deluxe is subject to the investigatory 
 
 ## **II. Collection of Personal Information**
 
-Deluxe Sites collect different personal information based upon how you use them.
+Deluxe Sites collect different personal information based upon how you use them. The legal basis for us processing your Personal Data for these purposes are because the processing is: (i) necessary to fulfil the services you have requested; and / or because it is necessary for the purposes of our legitimate interests.
 
 ###     a. Personal Information
 
-There are areas on the Sites where you can share information that is unique to an individual; such as your name, company name, postal addresses, e-mail addresses, phone number(s), zip code(s), and billing and payment information such as credit card information (“Personal Information”). All of the foregoing is treated as Personal Information, as described in this policy.
+There are areas on the Sites where you can share information that is unique to an individual; such as your name, company name, postal addresses, e-mail addresses, phone number(s), zip code(s), and billing and payment information such as credit card information. All of the foregoing is treated as Personal Information, as described in this policy.
 
 ###     b. Types of Personal Information Collected
 
@@ -47,18 +47,19 @@ Deluxe publishes several digital properties supporting its products and services
   * **VerticalResponse** Personal Information collected via verticalresponse.com may include name, email address, and company name.
   * **Host.ie** Personal Information collected via host.ie may include name, address, email address, phone number, organization, country.
   * **Register.ie** Personal Information collected via host.ie may include name, address, email address, phone number, organization, country.
+  * **Managed.com** Personal Information collected via managed.com may include name, home or business address, home or business telephone number, email address.
 
 
 
 ###     c. Information from Children
 
-Deluxe Sites and its related services are directed at adults and businesses. We do not knowingly collect or use information provided from children under the age of 13. If we become aware of any collection of personal information from children, we will delete it immediately.
+Deluxe Sites and its related services are directed at adults and businesses. We do not knowingly collect or use information provided from children under the age of 13. If we become aware of any collection of Personal Information from children, we will delete it immediately.
 
 ###     d. Cookies
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve the services we offer you, and to improve marketing, analytics, and/or site functionality.
 
-We and our partners use cookies and similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole.  A cookie is a small data text file that our server sends to your computer and that your computer sends back to us each time you visit our website.  Most Internet browsers automatically accept cookies.  However, you can disable and/or delete cookies by controlling your browser settings.  If you do disable cookies, our website will not recognize you and you will not be able to place an order or retrieve your order status.
+We and our partners use cookies and similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole.  A cookie is a small data text file that our server sends to your computer and that your computer sends back to us each time you visit our website. Most Internet browsers automatically accept cookies.  However, you can disable and/or delete cookies by controlling your browser settings.  If you do disable cookies, our website will not recognize you and you will not be able to place an order or retrieve your order status.
 
 We also partner with third parties to provide you advertising based upon your browsing activities and interests. Our third-party partners may use cookies or similar technologies in order to provide such advertising. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/), or if located in the European Union click [here](http://www.youronlinechoices.eu/). Please note you will continue to receive generic ads.
 
@@ -92,7 +93,7 @@ You may opt out of receiving unsolicited marketing as a result of your transacti
 
 ###      b. [ Hostopia](http://www.hostopia.com/)
 
-We act as a service provider or data processor to enable delivery of your requested services. We only collect, receive and use personal information to process these services. Our contractual agreements specify the type of personal information collected based on the subscription level and type of web services implemented by the wholesale customer. Notice of purpose and usage of data is the accountability of each Partner of our customers in its relationships with its end-users, including applicable sharing with third party service providers.We collect this personal information under the direction of our customers, and have no direct relationship with the individuals whose personal information we process.  
+We act as a service provider or data processor to enable delivery of your requested services. We only collect, receive and use personal information to process these services. Our contractual agreements specify the type of personal information collected based on the subscription level and type of web services implemented by the wholesale customer. Notice of purpose and usage of data is the accountability of each Partner of our customers in its relationships with its end-users, including applicable sharing with third party service providers. We collect this personal information under the direction of our customers, and have no direct relationship with the individuals whose personal information we process.  
 We only collect and use personal information provided to us for the following purposes:
 
  
@@ -120,26 +121,37 @@ In select instances, our wholesale customers may require us to provide this Poli
 
 ###     c. [VerticalResponse](http://verticalresponse.com/)
 
-VerticalResponse collects information from our users at several different points on our site.No registration is required to view the VerticalResponse site. However, if you choose to register or provide personal information on our newsletter sign-up, free trial, order forms, affiliate, partner and job application pages or other areas of our site, we will ask for information which may include your name, mailing address, email address, billing and payment information (e.g. credit card information), company name, and telephone number. We use this information to create new accounts, fulfill your order, communicate with you regarding our services, and manage our customer relationships. We may send you service-related announcements when it is necessary to do so. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. For the purposes of order verification and fraud prevention, we may exchange information about our customers internally within VerticalResponse and among our affiliates.
+VerticalResponse collects information from our users at several different points on our site. No registration is required to view the VerticalResponse site. However, if you choose to register or provide personal information on our newsletter sign-up, free trial, order forms, affiliate, partner and job application pages or other areas of our site, we will ask for information which may include your name, mailing address, email address, billing and payment information (e.g. credit card information), company name, and telephone number. We use this information to create new accounts, fulfill your order, communicate with you regarding our services, and manage our customer relationships. We may send you service-related announcements when it is necessary to do so. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. For the purposes of order verification and fraud prevention, we may exchange information about our customers internally within VerticalResponse and among our affiliates.
 
-  1. **Information You Upload into VerticalRespons** VerticalResponse will not sell or rent this data and only the registered account holder can gain access to the uploaded lists.
+  1. **Information You Upload into Vertical Response** VerticalResponse will not sell or rent this data and only the registered account holder can gain access to the uploaded lists. For example, one feature we offer will allow you to download your Google contacts information directly into your VerticalResponse email marketing account using an integrated solution. Your contacts' email address and name (if available) will be loaded into your account for your email marketing campaigns.   
   2. **Customer Testimonial** We post customer testimonials on our site which may contain personally identifiable information. We obtain the customer's consent via email prior to posting the testimonial along with the customer’s name. If you wish to update or delete your testimonial, you can contact us at [info@verticalresponse.com ](mailto:info@verticalresponse.com)
-  3. **Public Forum** Our site offers publicly accessible blogs and community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at[info@verticalresponse.com](mailto:info@verticalresponse.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+  3. **Public Forum** Our site offers publicly accessible blogs and community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [info@verticalresponse.com](mailto:info@verticalresponse.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
   4. **Tell-A-Friend** If you choose to use our referral/share service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. VerticalResponse does not store this information and uses this information for the sole purpose of sending this one-time email.
   5. **Survey** From time-to-time, we may provide you the opportunity to participate in surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you have a choice whether to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). We use this information to monitor site traffic or personalize the site.
+
+
+
+###     d. [Managed](https://managed.com/)
+
+Managed.com collects and uses your Personal Information to operate the Managed.com website and deliver the services you have requested. Managed.com also uses your Personal Information to inform you of other products or services that may be available from Managed.com and/or its affiliates.
+
+  1. **Customer Testimonial** We post customer testimonials on our site which may contain personally identifiable information. We obtain the customer's consent via email prior to posting the testimonial along with the customer’s name. If you wish to update or delete your testimonial, you can contact us at [support@managed.com](mailto:support@managed.com)
+  2. **Survey** From time-to-time, we may provide you the opportunity to participate in surveys on our site. If you participate, we will request information such as zip code, age, gender, preferences, interests, and favorites for market research. Participation in these surveys or contests is completely voluntary and you have a choice whether to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). We use this information to monitor site traffic or personalize the site.
+  3. **Newsletters** When you register for an account, we will use your name and email address to send periodic emails to you of both promotional and transactional natures. Out of respect for your privacy, you may choose to stop receiving promotional / marketing emails by following the unsubscribe instructions included in these emails, or you can contact us at[support@managed.com](mailto:support@managed.com)
+  4. **Service-Related Announcements** We will send you service-related announcements when it is necessary to do so. Generally, you may not opt-out of these communications since they are directly related to the delivery of products and services you have requested. 
 
 
 
 ## **IV. Information Retention & Accuracy**
 
 We take reasonable steps to ensure that personal information we receive, process, or maintain is accurate, complete, and reliable for its intended use. We rely on the accuracy of the information provided directly to us but accept responsibility for the management and confidentiality of the personal information collected.  
-In general, we keep personal information only as long as we need it to provide you the services you requested. We may also process data on behalf of third parties who have engaged us.We keep personal information processed on behalf of third parties for as long as needed to provide services to third party in question. However, we reserve the right to retain personal information for any period required by law or to comply with our legal obligations, resolve disputes, and enforce our agreements. We maintain procedures for the secure disposal or destruction of personal information.
+In general, we keep personal information only as long as we need it to provide you the services you requested. We may also process data on behalf of third parties who have engaged us. We keep personal information processed on behalf of third parties for as long as needed to provide services to third party in question. However, we reserve the right to retain personal information for any period required by law or to comply with our legal obligations, resolve disputes, and enforce our agreements. We maintain procedures for the secure disposal or destruction of personal information.
 
 ## **V. Sharing of Personal Information & Accountability for**
 
 ## **  Onward Transfer**
 
-There are a variety of circumstances where we may need to disclose personal information to:
+There are a variety of circumstances where we may need to disclose Personal Information to:
 
   * A person who, in the reasonable judgment of Deluxe is seeking the information as your agent. For example, we may provide information about your account to your legal representative if we are satisfied that that individual is requesting the information on your behalf;
   * Our parent company or affiliates to help us serve you better and provide you with requested services;
@@ -182,7 +194,7 @@ Deluxe shall remain liable under the Principle of Accountability for Onward Tran
 
 We cooperate with government or law enforcement officials and private parties to enforce and comply with laws applicable to our services. We will disclose information about you to government or law enforcement officials or private parties, as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process, to protect our property, and the property and rights of a third party, to protect national security, the safety of the public or any person, or to prevent or stop activity we consider illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations, and policies regarding your domain services.
 
-If you are visiting this website from a country other than the country in which our servers are located, your communications with us will result in the transfer of information across international boundaries. By visiting this website and communicating electronically with us, you consent to such cross-border transfers.  In the case of data transfers from the EEA and Switzerland,  the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks apply.
+If you are visiting this website from a country other than the country in which our servers are located, your communications with us will result in the transfer of information across international boundaries. By visiting this website and communicating electronically with us, you consent to such cross-border transfers. In the case of data transfers from the EEA and Switzerland, the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks apply.
 
 ## **VI. Protection of Personal Information**
 
@@ -211,11 +223,12 @@ You can choose to opt-out whether your Personal Information is (i) to be disclos
 
 ### a. [Aplus.et](http://www.aplus.net/) / [Host.ie](https://host.ie/) / [Register.ie](https://register.ie/)
 
-You have the right to access the Personal Information we hold about you. You may access your information that Deluxe holds by contacting us at the address below. You have the right to correct, amend, or delete that information where it is inaccurate, or has been processed in violation of the Privacy Shield Principles, except where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy in the case in question, or where the rights of persons other than the individual would be violated.
+You have the right to access the Personal Information we hold about you. You may access your information that Deluxe holds by contacting us at the address below. You have the right to correct, amend, or delete that information, or has been processed in violation of the Privacy Shield Principles, except where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy in the case in question, or where the rights of persons other than the individual would be violated.
 
 We maintain processes or mechanisms to allow you to review, update, correct or delete personal information held by us. You may make changes to your account information, access, correct, or delete personal information held by Deluxe by updating your Account Profile or contacting us at:
 
-Deluxe Small Business Sales, Inc. Attn: Privacy Program Office  
+Deluxe Small Business Sales, Inc. Attn: Stephanie Carver, Privacy Compliance  
+Manager, Privacy Program Office  
 3680 Victoria Street N.  
 Shoreview, MN 55126  
 United States of America  
@@ -252,6 +265,17 @@ Attn: Account Updates
 San Francisco, CA 94105  
 If you would like your account deactivated or deleted, please state this in your communication. We will respond to all requests within a reasonable timeframe.
 
+### c. [Managed](https://managed.com/)
+
+We maintain processes or mechanisms to allow you to review, update, correct or delete Personal Information held by us.
+
+Please contact our Information Administrator at [Support@Managed.com](mailto:Support@Managed.com) to:
+
+•Change or confirm your Personal Information, or  
+•Have your Personal Information removed from our databases
+
+We will respond to your request for access to modify or delete your information within a reasonable timeframe.
+
 ## **X. Contacting Deluxe, Dispute Resolution, Arbitration & Cost**
 
 Deluxe will address all questions, complaints or requests concerning this Privacy Policy within 45 days of receipt. Please see the applicable details below:
@@ -261,7 +285,7 @@ Deluxe will address all questions, complaints or requests concerning this Privac
 In compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Principles, Deluxe commits to resolve complaints about your privacy and our collection or use of your Personal Information. European Union and Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact Deluxe at:
 
 Deluxe Small Business Sales, Inc.  
-Attn: Privacy Program Office  
+Attn: Stephanie Carver, Privacy Compliance Manager, Privacy Program Office  
 3680 Victoria Street N.  
 Shoreview, MN 55126  
 United States of America  
@@ -271,14 +295,16 @@ Deluxe has further committed to refer unresolved privacy complaints under the EU
 
 As noted above, under certain circumstances, more fully described on the Privacy Shield website (https://www.privacyshield.gov), if your complaint remains unresolved, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
+If you believe that our processing of your Personal Data infringes your rights under the General Data Protection Regulation, without prejudice to any other administrative or judicial remedy, you also have the right under Article 77 of the General Data Protection Regulation to lodge a complaint with a supervisory authority located in the EU Member State: (i) where you habitually reside; or (ii) where your place of work is located; or (iii) where the place of the alleged infringement took place.
+
 If, after exhausting the above remedies your complaint is not satisfactorily addressed, you may, under certain limited conditions, invoke “last resort” binding arbitration before a Privacy Shield Panel.
 
 ### b. Non-EU/Non-Swiss Citizens
 
-Deluxe commits to resolve complaints about your privacy and our collection or use of your personal information. Non-EU/Non-Switzerland citizens with inquiries or complaints regarding this privacy policy should contact Deluxe at:
+Deluxe commits to resolve complaints about your privacy and our collection or use of your Personal Information. Non-EU/Non-Switzerland citizens with inquiries or complaints regarding this privacy policy should contact Deluxe at:
 
 Deluxe Small Business Sales, Inc.  
-Attn: Privacy Program Office  
+Attn: Stephanie Carver, Privacy Compliance Manager, Privacy Program Office  
 3680 Victoria Street N.  
 Shoreview, MN 55126  
 United States of America  
@@ -286,12 +312,12 @@ Email: [privacyprogramoffice@deluxe.com](mailto:privacyprogramoffice@deluxe.com)
 
 ### c. Arbitration Mandatory Arbitration Agreement, Class-Action Waiver, and Jury Waiver
 
-  1. _Applicability of Arbitration Agreement._   You and Deluxe agree that all claims and disputes related in any way to use of this Site, or to products or services sold by Deluxe or distributed by or through Deluxe, will be resolved by individual arbitration before the American Arbitration Association (“AAA”) under the Federal Arbitration Act (“FAA”), except that you and Deluxe are not required to arbitrate small claims court disputes as set forth in subsection (8.) below. To be clear: The phrase “all claims and disputes” also includes claims and disputes that arose between you and Deluxe before the effective date of these Terms.
+  1. _1Applicability of Arbitration Agreement_   You and Deluxe agree that all claims and disputes related in any way to use of this Site, or to products or services sold by Deluxe or distributed by or through Deluxe, will be resolved by individual arbitration before the American Arbitration Association (“AAA”) under the Federal Arbitration Act (“FAA”), except that you and Deluxe are not required to arbitrate small claims court disputes as set forth in subsection (8.) below. To be clear: The phrase “all claims and disputes” also includes claims and disputes that arose between you and Deluxe before the effective date of these Terms.
   2. **_Waiver of Jury Trial._   You and Deluxe waive any Constitutional and/or statutory rights to a trial in court in front of a judge or a jury. **
   3. **_Class Actions Waiver._   You and Deluxe agree all arbitrations will proceed on an individual basis, and waive any right to bring claims as part of a class action (either as a named-plaintiff or class member), and as part of any other proceeding where someone acts in a representative capacity of any kind. **
-  4. _Authority of the Arbitrator._ The arbitrator, and not any federal, state or local court or agency, shall have exclusive authority to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability or formation of this Agreement, including, but not limited to any claim that all or any part of this Agreement is void or voidable. However, an arbitrator can award on an individual basis the same damages and relief as a court (including injunctive and declaratory relief or statutory damages).  The arbitrator’s decision will be final except for a limited right of review under the FAA.
-  5. _Arbitration Procedure._   Either party may initiate arbitration with the AAA pursuant to its Consumer Arbitration Rules (“AAA Rules”), as modified by this Arbitration Agreement. The AAA Rules are available on the AAA’s website www.adr.org, or by calling the AAA at (800) 778-7879.  You may choose to have the arbitration conducted by telephone, based on written submissions, or in person in the county where you live or at another mutually agreed location. 
-  6. _Arbitration Fees and Payments._   Payment of all filing, administration and arbitrator fees will be governed by the AAA’s applicable rules, however Deluxe will reimburse those fees to you in an amount up to $25,000 (though, in no event will Deluxe pay any attorneys’ fees and/or costs you may incur).  Deluxe also waives its own right to seek attorneys’ fees and costs in arbitration.
+  4. _Authority of the Arbitrator._ The arbitrator, and not any federal, state or local court or agency, shall have exclusive authority to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability or formation of this Agreement, including, but not limited to any claim that all or any part of this Agreement is void or voidable. However, an arbitrator can award on an individual basis the same damages and relief as a court (including injunctive and declaratory relief or statutory damages). The arbitrator’s decision will be final except for a limited right of review under the FAA.
+  5. _Arbitration Procedure._   Either party may initiate arbitration with the AAA pursuant to its Consumer Arbitration Rules (“AAA Rules”), as modified by this Arbitration Agreement. The AAA Rules are available on the AAA’s website www.adr.org, or by calling the AAA at (800) 778-7879. You may choose to have the arbitration conducted by telephone, based on written submissions, or in person in the county where you live or at another mutually agreed location. 
+  6. _Arbitration Fees and Payments._   Payment of all filing, administration and arbitrator fees will be governed by the AAA’s applicable rules, however Deluxe will reimburse those fees to you in an amount up to $25,000 (though, in no event will Deluxe pay any attorneys’ fees and/or costs you may incur). Deluxe also waives its own right to seek attorneys’ fees and costs in arbitration.
   7. _Right to Opt-out._ You may opt out of this arbitration agreement by notifying Deluxe in writing no later than 30 days after first becoming subject to this arbitration agreement. Your notice must include your name and address, any additional customer information, and an unequivocal statement that you want to opt out of this arbitration agreement. You must either mail your opt-out notice to this address: Deluxe Small Business Sales, Inc., ATTN: Arbitration Opt-out/Privacy Program Office, 3680 Victoria Street N., Shoreview, MN 55126 United States of America, or email the opt-out notice privacyprogramoffice@deluxe.com. You also may reject any changes we make to this arbitration agreement in later versions of these Terms by sending Deluxe notice within 30 days of your notice of the change. If you do, the most recent version of the arbitration agreement to which you agreed before the change you rejected will apply.
   8. _Small Claims Court._ Notwithstanding the foregoing, either you or Deluxe may bring an individual action in small claims court in your county of residence or in Shoreview, Minnesota, if you meet the court’s requirements.
   9. _Severability._ If the class action waiver is found to be illegal or unenforceable as to all or some parts of a dispute, then those parts will not be arbitrated but will proceed in court, with the rest of the dispute proceeding in arbitration.
