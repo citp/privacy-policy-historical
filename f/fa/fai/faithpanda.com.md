@@ -1,78 +1,69 @@
-> *The following text is extracted and transformed from the faithpanda.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213124656id_/http%3A//www.faithpanda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithpanda.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107015254id_/https%3A//faithpanda.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • FaithPanda
+# Privacy Policy - Faith Panda
 
-This Privacy Policy governs the manner in which FaithPanda™ collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.faithpanda.com website (“Site”).
+**Usage of Logs**
 
-### Personal identification information
+FaithPanda.com creates log files for user analytics data. The information logged includes IP addresses (not tracked back to the individual person), type of browser, your Internet Service Provider, referring/exit pages, and number of clicks to analyze trends and track user’s activity navigation through the site, and demographic information.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+**Usage of Cookies**
 
-### Non-personal identification information
+FaithPanda.com uses cookies for visitor preferences, customize advertising content based on information that the visitor sends via their internet browser, tracks analytics information on which pages the user accesses. Overall, the cookie will provide the user with a better site experience.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+**Linking to other Websites**
 
-### Web browser cookies
+FaithPanda.com may contain links to other websites. Once you leave the website we do not have any control over the linked website and are not responsible over the protection and privacy on the linked website. For the linked website rules on privacy please refer to their site’s particular privacy agreement.
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+**More info on Google Adsense and DoubleClick**
 
-### How we use collected information
+Advertisers on FaithPanda.com may use cookies on our site. Our partners include: Google Adsense.  
+Google Adsense, and as a 3rd party advertising vendor, uses cookies to aid in serving targeted ads on FaithPanda.com. Google’s use of the DoubleClick cookie enables it to serve ads to users based on other sites as well as information from FaithPanda.com.
 
-FaithPanda™ may collect and use Users personal information for the following purposes:
+You are able to opt out of the use of the DoubleClick cookie by visiting the [AddSettings](http://www.google.com/settings/ads) or [aboutads.info](http://www.aboutads.info/). The advertising servers use a specific technology and algorithms for the advertisements and links that appear on FaithPanda.com send directly to your browsers. FaithPanda.com does not access or control cookies that are used by Google Adsense.
 
-  * _To run and operate our Site_  
-We may need your information display content on the Site correctly.
-  * _To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  * _To run a promotion, contest, survey or other Site feature_  
-To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _To send periodic emails_  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests.
+**Information on Advertiser Features in Google Analytics**
+
+**Please Note: Policy Section Updated February 25, 2018**
+
+Google Analytics collects data via Google advertising cookies and anonymous identifiers which, like the DoubleClick cookie, aid in serving targeted ads on FaithPanda.com. Google Analytics Advertiser Features implemented on FaithPanda.com may include Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations, Google Analytics Demographics and Interest Reporting. Options for opting out are included at the following link [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/). The installation button on this page will link to the add-on installation for the specific browser you are using.
+
+**When I Submit or Post on your site, what information do you collect?**
+
+  1. When you submit to our site, you give us permission to post it.
 
 
 
-### How we protect your information
+When you interact or submit to our site, you voluntarily give us certain information. This can include your name, photo, email address, and any other information you provide us. You also may give us permission to access your information in other services. For example, you may link your Facebook account to Faith Panda, which allows us to post information from those accounts (e.g., your friends or contacts). The information we post from those services often depends on your settings or their privacy policies, so be sure to check what those are.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+  2. We get technical information when you use our site.
 
-### Sharing your personal information
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-### Electronic newsletters
+These days, whenever you use a website, or other Internet service, there’s certain information that almost always gets created and recorded in an automated way. The same is true when you use our products, and here are some of the types of information we collect in this way. Log Data. When you use Faith Panda, our servers automatically record information about your interaction with our site (“logging data”), including information about your browser. Whenever you log data may include your Internet Protocol address, the address of the web page you were visiting before you came to Faith Panda, browser type and settings, the date and time of your request, and how you used Faith Panda. Depending on how you’re accessing our products, we may use “cookies” (a small file sent by your computer each time you visit a website).
 
-If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+Device Information. In addition to log data, we may also collect information about the device you’re using Faith Panda on, including what type of device it is. Whether we collect some or all of this information often depends on what type of device you’re using and its settings. For example, different types of information are available depending on whether you’re using a Mac or a PC, or an iPhone. To learn more about what information your device makes available to us, please also check the policies of your device manufacturer or software provider. How do we use the information we collect?
 
-### Third party websites
+We use the information we collect to provide our site to you and make our site better, develop new content, and protect Faith Panda and our users.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+We also use the information we collect to offer you customized content — including helping you discover content on our site you might like or provide you with tailored advertising. For example, if you’ve indicated that you’re interested in Bible Verses, we may suggest a page dedicated to Learning about Verses.
 
-### Advertising
+We also use the information we collect to:
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+  * Send you updates (such as when certain activity, like comments or prayers, happens on Faith Panda), newsletters, marketing materials and other information that may be of interest to you.  
+• Respond to your questions or comments.
 
-### Google Adsense
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
-### Compliance with children’s online privacy protection act
+The information we collect may be “personally identifiable” (meaning it can be used to specifically identify you as a unique person) or “non-personally identifiable” (meaning it can’t be used to specifically identify you). We use both types of information, and combinations of both types, as described above. We may use or store information wherever Faith Panda does business, including countries outside your own. What information do we collect?
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+Faith Panda is a site people use to find their inspirations, make them a reality, and inspire others in the process. When you create post a ‘Faith Panda’ to a social site, anyone can view them. You may also provide us with profile page information that that anyone can view. • When we have your consent. This includes sharing information with other services (like Facebook, Pinterest, or Twitter) when you’ve chosen to link from Faith Panda. For example, you can choose to share our posts on Facebook, Pinterest, Google+, or Twitter.
 
-### Changes to this privacy policy
+• If we believe that disclosure is reasonably necessary to comply with a law, regulation or legal request; to protect the safety, rights, or property of the public, any person, or Faith Panda; or to detect, prevent, or otherwise address fraud, security or technical issues.
 
-FaithPanda™ has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+**Our Policy on Children’s Information**
 
-### Your acceptance of these terms
+Faith Panda is not directed to children under 13. No one under 13 is allowed to make a post on our site. If you learn that your minor child has provided us with personal information without your consent, please contact us.
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. This policy was generated using [http://privacypolicies.com](http://privacypolicies.com/)
+**How do we make changes to this policy?**
 
-### Contacting us
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
-
-This document was last updated on October 17, 2016
+We may change this policy from time to time, and if we do we’ll post any changes on this page. If you continue to use Faith Panda after those changes are in effect, you agree to the revised policy. If the changes are significant, we may provide more prominent notice or obtain your consent as required by law.
