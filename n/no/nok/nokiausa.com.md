@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokiausa.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612003458id_/https%3A//www.nokia.com/en_int/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokiausa.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107134355id_/https%3A//www.nokia.com/en_int/privacy) for the most accurate reproduction.*
 
 # Privacy | Nokia
 
