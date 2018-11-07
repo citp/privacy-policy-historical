@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the cardboard-crack.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302035632id_/http%3A//cardboard-crack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardboard-crack.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108000721id_/http%3A//cardboard-crack.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cardboard Crack
 
 **General privacy policy for visitors of cardboard-crack.tumblr.com  
 **
 
-Cardboard Crack is dedicated to protecting the privacy of the visitors to cardboard-crack.tumblr.com. We have provided this privacy policy so you know how your information is used.
+Cardboard Crack is dedicated to protecting the privacy of the visitors to cardboard-crack.tumblr.com. We have provided this privacy policy so you know how your information is used. 
 
 We collect information based on your IP address, including your country of origin, the type of web browser you use, what search engines you may have used to find cardboard-crack.tumblr.com, or what site may have referred you. This information is used for tracking purposes only, and it is never provided to any other entities.
 
@@ -18,8 +18,8 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
  **Privacy policy with regard to use e-mail contact**
 
-When you submit an e-mail to site the site author or any other persons speaking on behalf of Cardboard Crack to request additional information about Cardboard Crack or its services, the information you provide is used solely as a means to provide you with that information. Your information is used only for responding to your request and is never provided to any other entities.
+When you submit an e-mail to site the site author or any other persons speaking on behalf of Cardboard Crack to request additional information about Cardboard Crack or its services, the information you provide is used solely as a means to provide you with that information. Your information is used only for responding to your request and is never provided to any other entities. 
 
- **Privacy questions**
+**Privacy questions**
 
 If you have any questions with relation to our privacy practices or the web site itself, feel free to contact me at cardboardcrack.mtg@gmail.com.
