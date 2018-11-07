@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proaudiostar.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508182104id_/http%3A//proaudiostar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proaudiostar.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107225952id_/http%3A//www.proaudiostar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,12 +71,10 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
 
-ProAudioStar
+ProAudioStar  
+456 Johnson Ave Suite 424  
+Brooklyn, NY 11237
 
-[http://proaudiostar.com](http://proaudiostar.com/)
+Phone : 718-522-1071
 
-217 Russell St.,
-
-Brooklyn, NY 11222
-
-718-522-1071
+or use the request form on our help center at  <http://www.proaudiostar.com/help-center>
