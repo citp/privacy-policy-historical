@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsnow.co.uk privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627130425id_/http%3A//www.newsnow.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsnow.co.uk privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107035111id_/http%3A//www.newsnow.co.uk/privacy/privacy_policy_20180525) for the most accurate reproduction.*
 
 # NewsNow: Privacy Policy
 
@@ -153,7 +153,7 @@ Necessary for our legitimate interests (to improve your experience of the site)_
 
 ####  Other functionality relying on cookies 
 
-Our sites also rely on storing data in other persistent and non-persistent browser cookies (known as session cookies) in order to provide other functionality. Please see our Cookie Policy for more details. 
+Our sites also rely on storing data in other persistent and non-persistent browser cookies (known as session cookies) in order to provide other functionality. Please see our [Cookie Policy](https://web.archive.org/privacy/cookies/) for more details. 
 
 _Legal bases for processing (including basis of legitimate interest):  
 Necessary for our legitimate interests (to improve your experience of the site and to improve our sites and services)_
@@ -178,7 +178,7 @@ When you are signed into a NewsNow account, we store your preferences and some a
 
 When you view articles on NewsNow, we store which ones you viewed to provide the “Recently Read” feature. 
 
-We request and store your email address and a password, so that we can identify you when you want to sign into your NewsNow account, send you emails directly related to the security or maintenance of your account or changes in functionality available to NewsNow account holders. In certain cases, these emails may also include news about other developments at NewsNow or its services. 
+We request and store your email address so that we can identify you when you want to sign into your NewsNow account, send you emails directly related to the security or maintenance of your account or changes in functionality available to NewsNow account holders. In certain cases, these emails may also include news about other developments at NewsNow or its services. 
 
 We retain your NewsNow account data until you close your NewsNow account. 
 
