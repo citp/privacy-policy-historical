@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdirectorybit.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506161422id_/http%3A//www.webdirectorybit.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdirectorybit.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107132553id_/http%3A//www.webdirectorybit.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Web Directory - WebDirectoryBit.com - Privacy Policy
 
