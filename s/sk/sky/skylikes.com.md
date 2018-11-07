@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skylikes.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607021332id_/http%3A//skylikes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skylikes.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107021750id_/http%3A//skylikes.com/privacy) for the most accurate reproduction.*
 
 # SkyLikes - The Buzz Starts Here
 
