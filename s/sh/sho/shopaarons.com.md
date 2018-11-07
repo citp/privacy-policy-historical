@@ -1,147 +1,202 @@
-> *The following text is extracted and transformed from the shopaarons.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614093054id_/http%3A//www.aarons.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopaarons.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107190850id_/https%3A//www.aarons.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Aarons.com | Lease Furniture, TVs & More
+# Privacy Policy - Policy Details and Info | Aaron's
 
-Aaron's, Inc., its divisions, including Aaron's Sales and Lease Ownership, Rimco and Woodhaven Furniture Industries; its subsidiaries, Aaron's Canada, ULC and 99LTO, LLC d/b/a HomeSmart; and its holding company, Aaron Investment Company (collectively referred to in this Privacy Statement as "we," "us," or "our" ), recognize the importance of protecting the privacy of all information provided by users of http://www.aarons.com, http://www.shopaarons.com, http://aaronrents.com, http://www.shopaarons.ca, http://gorimco.com, http://aaronssports.com, http://www.aaronsfranchise.com, http://aaronsinc.com, http://www.aaronsofficefurniture.com, http://aaronsoutdoorstv.com, and any and all of their subdomains (collectively referred to in this Privacy Statement as our "website"), recipients of our advertisements and all other customers of our products and services. This Privacy Statement covers how we collect, use, disclose, transfer, and store your information in the United States and Canada. By doing business with us or by accessing or using our website, you consent to the privacy practices described in this Privacy Statement. 
+This ("Policy") describes how Aaron's, Inc. and its affiliates, subsidiaries, divisions, and franchisees (collectively "Aaron's," "we" "our" or "us"), collects, uses and shares your information.  This Policy does not cover the collection of mobile device information for in-store analytics.  To the extent individual stores collect such information, please see store signage for more information and opt-out choices. 
 
-## Collection of your Personal Information
+Aaron's takes the privacy of its customers and visitors to its websites very seriously. We understand that you may have questions about how we collect, use, and share your information. This Policy describes the type of information we collect, how we use and share that information, how we protect that information, your choices regarding that information, and how you can contact us with any questions.
 
-For the purpose of this Privacy Statement, "personal information" means information about an identifiable individual. We may collect personal information from you at our stores (some of which are owned by franchisees), through our website, mobile applications, and social media platforms, when you contact us, and when you visit us. This information may include your: 
+**Highlights**
 
-  * name;
-  * home and work addresses;
-  * telephone numbers (including mobile); 
-  * email address;
-  * drivers' license number; 
-  * vehicle information;
-  * personal references;
-  * financial information such as credit card number and banking information;
-  * lease, purchase, return, and exchange information; and 
-  * comments or other information provided by you on our website, mobile applications, and social media platforms. 
+**WHAT INFORMATION IS COLLECTED, HOW  IS IT COLLECTED AND HOW IS THAT INFORMATION USED?**
+
+  * We collect Personal Information and Non-Personally Identifiable Information ("NPI"), as defined below.
+  * We collect Personal Information and NPI about our customers, store and website visitors, in primarily three ways: directly from our customer, store or website visitor (for example, when buying or leasing products from our stores or from entering your information when online), from our web server & application logs, cookies, web beacons, and similar technologies, and from third-parties.
+  * We use your Personal Information and NPI primarily to provide you our products and services, to ensure quality of service, to contact you, to provide you with offers or information about our products and services, and to provide you with a personalized website experience.
+  * We do not share with others any Personal Information, unless we say so in this Policy, or when we believe in good faith that the law requires it.
 
 
 
-We may collect information from you when you: 
+More Details
 
-  * lease, purchase, order, return, and exchange products;
-  * request information about our stores, products, or services;
-  * utilize any of our services;
-  * contact us or visit us;
-  * access our website or participate in interactive features of our website or our mobile applications;
-  * use a social media platform such as Facebook;
-  * sign up for emails, mobile messages, or social media notifications from us;
-  * enter a contest or sweepstakes; and
-  * provide comments, suggestions, or other input.
+**HOW IS MY INFORMATION SHARED?**
+
+  * We share your Personal Information and NPI with our affiliates, subsidiaries, divisions, and franchisees. 
+  * We also share your Personal Information and NPI with our service providers and other third-parties as described below. 
+  * We may also share your Personal Information and NPI to meet our obligations to technology and content providers, or as required by law.
 
 
 
-We may also collect personal information about you from third parties, including franchisees and consumer reporting agencies. We do so in order to verify statements you have made to us, regarding your employment, credit, or other relationships, and in connection with providing products and services to you.
+More Details
 
-Except as otherwise permitted or required by law, we will not collect, use, or disclose your personal information without your consent, which consent may be expressed or implied. Generally, by providing us with your personal information, you are communicating your consent to our collection, use, and disclosure of such information for the purposes for which you provided the information to us and as described in this Privacy Statement. We may also seek consent at the time of collection or, in certain circumstances, thereafter (for example, when we want to use information for a purpose not previously identified).
+  **WHAT CHOICES DO I HAVE?**
 
-You may withdraw your consent to our collection, use or disclosure of your information, subject to legal or contractual restrictions and reasonable notice. If you wish to withdraw your consent, please contact us by any of the ways described in the "Contact Information" section below. We will inform you of the implications of withdrawing consent. 
-
-## Use of your Personal Information
-
-We collect and use your personal information to provide and improve our products and services, including for:
-
-  * Product and service fulfillment, including processing and administering on-line order forms, services including Aaron's Service Plus, purchases, payments, returns/exchanges, delivery, warranty programs, customer service, requests for information, or to otherwise serve you; 
-  * Marketing purposes which may include responding to your inquiries, advising you about new products and services, and offering and administering contests and promotions; 
-  * Product and service offerings, including contacting you on behalf of our external business partners about a particular offering that may be of interest to you; 
-  * Billing and collection purposes;
-  * Internal operations, including auditing, data analysis, and research to improve our products, services, and customer communications; 
-  * To prevent fraudulent transactions, monitor against theft and otherwise protect you and our business; 
-  * Legal compliance, which may include disclosure to a third party to comply with law, regulation, search warrant, subpoena, or court order, or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served upon us; (b) act under exigent circumstances to protect the personal safety of users of our website, or the public; or (c) protect the health, life, or security of an individual; and 
-  * Otherwise as you may consent. 
+  * If you do not want to receive information about our products or services, please update your account preferences (where available), and/or utilize the "unsubscribe" or "opt-out" mechanism within the communications that you receive from us.
+  * If you have any additional questions or concerns related to this Policy, you may:
 
 
 
-If at any time you wish to opt-out from receiving direct marketing communications or surveys from us, simply contact us in any of the ways described in the "Contact Information" section below, and we will remove your name and contact information from our promotional and survey mailing lists. Please be aware that it may take up to ninety (90) days for your removal to be fully effective.
-
-We do not use or disclose sensitive personal information, such as gender, race, religion, or political affiliations, without your express consent.
-
-## Disclosure To Third Parties
-
-We do not sell or license your personal information to third parties for commercial purposes. 
-
-We may share your personal information with:
-
-  * Franchisees that own and operate our stores. Franchisees are not restricted by this Privacy Statement with respect to their use and further sharing of your personal information, and we are not responsible for any failure of a franchisee to adhere to this Privacy Statement; 
-  * Service providers who provide support services to us or that help us market our products and services, including information processing, statistical analysis, customer support, delivery, and service calls. These service providers are obligated to protect your personal information; 
-  * Select third party vendors, business partners and other companies so that they can send you promotional materials about goods and services (including special offers and promotions) offered by them. Such third parties are not restricted by this Privacy Statement with respect to their use and further sharing of your personal information, and we are not responsible for their use or sharing of your information. 
-  * Third parties where disclosure is appropriate to comply with the law, to enforce or apply applicable terms and conditions and other agreements, or to protect the rights, property or safety of us, our franchisees, and our customers and visitors; 
-  * Credit bureaus (where permitted by law) including in accordance with the Fair Credit Reporting Act and similar provincial consumer reporting legislation where applicable; and 
-  * A third party in the event of a proposed or actual purchase, sale (including a liquidation, realization, foreclosure or repossession), lease, merger, amalgamation or any other type of acquisition, disposal, transfer, conveyance, or financing of all or any portion of our business, assets, shares or accounts. 
+  * email us at [privacy@aarons.com](mailto:privacy@aarons.com);
+  * call us at 1-877-496-1606 between 9 a.m. and 5 p.m. Eastern Time, Monday through Friday; or
+  * write to us at Aaron's, Inc., Legal Department, Attn: Privacy Office, 400 Galleria Pkwy, SE, Suite 300, Atlanta, GA 30339.
 
 
 
-## Collection and Use of Non-Personal Information 
+For all other customer inquiries, call us at 1-877-496-1606 between 9 a.m. and 5 p.m. Eastern Time, Monday through Friday or email us anytime at [mycustomerexperience@aarons.com](mailto:mycustomerexperience@aarons.com).
 
-We also collect non-personal information − data in a form that does not permit direct association with any specific individual in order to provide and improve our products, services and advertising. Such information may include zip code, area code, age, gender, occupation, preferences, interests and favorites. Aggregated data is considered non-personal information for the purposes of this Privacy Statement. We may collect, use, transfer, and disclose non-personal information for any purpose. If we do combine non-personal information with personal information, the combined information will be treated as personal information for as long as it remains combined.
+More Details
 
-## Automatic Data Collection/Use of Cookies
+**HOW IS MY INFORMATION PROTECTED?**
 
-Our website has features that automatically keep track of the pages that you visit, in order to determine which of our website's services are the most popular. This data is used for us to deliver customized content and advertising to customers whose behavior indicates that they are interested in a particular subject area.
+  * We have implemented certain appropriate security measures to help protect your Personal Information from accidental loss and from unauthorized access, use, or disclosure.
+  * Despite these measures, we cannot guarantee that unauthorized persons will always be unable to defeat our security measures.
 
-Our website automatically collects information about your computer hardware and software. This information can include: your IP address, browser type, domain names, access times and referring website addresses. We use this information to operate our website, to maintain the quality of the service on our website, and to provide general statistics regarding the use of our website.
 
-Our website also uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize our web pages, or register with our website, a cookie helps the website recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same website, the information you previously provided can be retrieved, so you can easily use the features on our website that you have customized.
+More Details
 
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of our services or of the pages of our website that you visit.
+**FULL PRIVACY POLICY**
 
-## Location Based Services
+**What Information Do We Collect?**
 
-If you have allowed our mobile application to access your location when you conduct a search, we and our business partners/service providers collect, use, and share your location and search data, including, the approximate location of your device, the time and date of your search, and an unique identifier generated by the application. This information does not personally identify you and will be used by us and our business partners/service providers to provide and improve location-based products and services. 
+We collect two main categories of information from or about you: Personal Information and Non-Personally Identifiable Information ("NPI").  
 
-## Security of your Personal Information
+We define **Personal Information** as information that directly identifies an individual, such as name, residential street address or postal address, email address, social security number, date of birth, driver's license number, government issued identification number, phone number, credit card number, bank account or other financial institution account number. 
 
-We use commercially reasonable precautions to protect and secure your personal information from unauthorized access, use or disclosure. We maintain physical, electronic, and procedural safeguards to help protect customer information. Appropriate employees are authorized to access customer information for business purposes only. Our policies require employees to maintain the confidentiality of customer information, and employees are subject to disciplinary action if they fail to do so, up to and including termination. Information secured on our computer system is in a controlled, secure environment, aimed at protecting it from unauthorized access, use, or disclosure. When personal information (such as a credit card number) is transmitted via the internet, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+We define **Non-Personally Identifiable Information** or **NPI** as information about an individual or about categories or groups of individuals that does not identify you individually, such as your IP address, randomly assigned values in "cookies," mobile device identifiers, geo-location, and other technical information. We also collect other information that may not identify you individually, such as your gender, vehicle information, occupation and other employment information, personal references, and residence-related information such as lease and ownership information, and other information.
 
-## Email Security
+  **How Do We Collect Your Information?**
 
-"Phishing" is a scam designed to steal your personal information. If you receive an email that looks like it is from us asking you for your personal information which you suspect may be a scam, please notify us at [legal@aarons.com](mailto:legal@aarons.com).
+We may collect Personal Information from you in a variety of ways.  For example, we collect information you provide when you seek to lease or buy our products, or otherwise enter into a contractual arrangement with Aaron's at physical store locations.  We may also collect Personal Information from or about you when you visit a website owned or operated by Aaron's or on our behalf or by our franchisees, when you use our mobile applications, visit social media websites, when you encounter Aaron's at an event, or when you enter a promotion we offer. 
 
-## Retention and Storage of Your Personal Information
+On occasion, we use third-parties to provide us with additional Personal Information about you. For example, if we know your name and postal address, we may use a third-party to provide us with your email address. In addition to what is described below, we use this information for market analysis, marketing and other business purposes, including enforcement of contractual obligations.  We may also collect Personal Information about you from consumer and/or credit reporting agencies, your personal references, and from our corporate entities and franchisees, among others. If you provide Personal Information to us regarding others, we rely on you to obtain that other person's consent for disclosing their information to us and inform that other person about how we will use the information and our contact details for any queries. 
 
-We retain your personal information for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws, and your consent to such purpose(s) remains valid after termination of your relationship with us.
+In addition to what is described below, we collect NPI through many sources, including from information that you and third-parties provide to us. 
 
-For Canadian Residents: Your personal information may be processed and stored outside of the province in which you reside and/or outside of Canada by us, an affiliate or an unaffiliated service provider for the purposes set out in this Privacy Statement and, under the laws of these other jurisdictions, in certain circumstances foreign courts, law enforcement agencies or regulatory agencies may be entitled to access your personal information. 
+_**Online Activities**_
 
-## Children
+When you visit our websites, we may collect information about your visit and store that information, which are records of the activities on our website.  Our servers automatically capture and save the information electronically.  Examples of the information that we may collect or that third-parties (including third-parties involved in online, interest-based advertising operations) may collect while you navigate our website include, but are not limited to:
 
-Our website is not directed at individuals less than eighteen years of age, and we do not intend to collect any personal information from such individuals. 
+  * Your Internet protocol or "IP" address;
+  * The name of your Internet service provider;
+  * The city, state, and country from which you access our website;
+  * The type and version of browser, operating system, computer, or mobile device you use;
+  * Screen resolution;
+  * A list of your browser's plug-ins;
+  * Installed fonts;
+  * Other technical characteristics of your browser, computer, or device;
+  * The links you click within the website and the pages you visit;
+  * The date and time of your visit;
+  * The web page from which you arrived to our website; and
+  * Certain searches/queries that you conducted via our website.
 
-## California Residents' Privacy Rights
 
-Under California law, California residents may opt-out of our disclosing personal information about them to third parties for their marketing purposes. If you do not want us to disclose information to other companies for their marketing purposes, please contact us by any of the ways described in the "Contact Information" section below.
 
-Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To request a copy of such information, please contact us by any of the ways described in the "Contact Information" section below, and we will respond within 30 days as required by law.
+The information we collect helps us administer the website, analyze its usage, protect the website and its content from inappropriate use, and improve the visitor's experience.  The information may also be used for marketing purposes and may uniquely distinguish your browser or computer from others devices. 
 
-## Third Party Websites
+_**Cookies**_
 
-Our website may offer links to third party websites, products, and services. In addition, you may have visited our website through a link or a banner advertisement on another website. This Privacy Statement does not apply to any third party websites, and we are not responsible for the privacy practices of such websites. We encourage you to review third party privacy statements to understand how they collect, use, and share your information. 
+In order to offer and provide a customized and personal service, we may use cookies to store and help track information about you. A cookie is a small data string that a web server stores on your computer or mobile device.  (A web server is the computer that hosts a website and responds to requests received from your computer). Cookies can play an important role in providing a good customer experience using the web.  Among other things, cookies enable a website to maintain continuity when a visitor's web browser requests a series of web pages.  Without cookies, for example, a website owner may not be able to recognize that a visitor just completed the first step during an online ordering process so that the second step can be presented. 
 
-## Changes to this Privacy Statement
+Cookies also enable advertising.  Navigating our website will result in the placement of various advertising-related cookies by third-parties on your computer or device.  These cookies allow web servers involved in advertising operations to recognize your browser as you navigate to other websites, and are necessary for the online delivery or placement of certain ads.  Some third-parties involved in ad operations may maintain their own proprietary consumer databases that allow them to personally identify or track website visitors.
 
-This Privacy Statement replaces any previous privacy statements and notices from us about the privacy, security and protection of your information. We may update this Privacy Statement from time to time. If we change this Privacy Statement, we will post the updated Privacy Statement on this page along with the date of the change below the Contact Information. Your continued use of our website and/or provision of your personal information after such posting constitutes your acceptance of such changes. Unless stated otherwise, our current Privacy Statement applies to all of your information. Please check our Privacy Statement periodically for changes. Please contact us as described below if you would like information regarding any changes.
+Cookies generally hold various types of information, including randomly assigned unique identifiers, which allow websites, including websites covered by this Policy, to customize your experiences on the websites and gather information about your navigation of the websites. We may use different kinds of cookies, including HTTP cookies (also known as browser cookies) and Local Shared Objects such as Flash cookies that are built for use with the Adobe® Flash® Player.  We may also use similar technologies, such as HTML5 local storage.
 
-## Updating Personal Information/Opt-Out
+Information gathered from cookies helps us understand how our websites are performing and provides website usage information to support customizing and improving our websites and their messaging and advertisements. We also use cookies to help verify the identity of a website visitor or to recognize you as a return or registered visitor and remember your settings and preferences.  Cookies allow us to save preferences for you so you won't have to reenter them each time you visit.
 
-If your personal information changes (such as address or telephone number), or if you no longer desire our products or services, please contact our store location at which you have done business. If you have only supplied your personal information on our website, please contact us by any of the ways described in the "Contact Information" section below. Additionally, if you want to opt-out of our collection, use, or disclosure of your personal information, please contact us by any of the ways described in the "Contact Information" section below. Please be aware that it may take up to ninety (90) days for your opt-out choices to be fully effective. 
+The use of cookies is relatively standard. Most browsers are initially set up to accept browser cookies.  You can manage browser cookies by using features and functions available on most Internet browsers.  For example, most browsers will allow you to choose what cookies can be placed on your computer and to delete or disable cookies.  Flash Cookies, which by their nature are associated with Flash Player, may be removed by managing your settings with Adobe by visiting [www.adobe.com](http://www.adobe.com/).   
 
-**[Byrd v. Aaron’s, Inc. Lawsuit Update](https://web.archive.org/t-computer-information.aspx)**
+You should understand that some features of many websites may not function properly if you block or don't accept cookies.
 
-## Contact Information
+_**Other Data Collection Technologies**_
 
-We welcome your comments regarding this Privacy Statement. For questions about this Privacy Statement, or if you believe that we have not adhered to this Privacy Statement, please contact us in any of the ways set forth below. We will make efforts to respond promptly and will use commercially reasonable efforts to determine and remedy any problems.
+We may use web beacons, pixel tags, .gif files, and the like, that allow for the collection of information about your interactions on our websites.  These technologies may be used, for example, to place advertisements, to understand website traffic patterns and the number of visitors to our website, and to measure the effectiveness of advertisements or our website.  Web beacons, and the like, also enable third-parties involved in advertising operations to recognize your browser as you navigate to other websites, and are necessary for the online delivery or placement of certain types of ads.
 
-**Mailing address:**  
-Aaron's, Inc.   
-Legal Department  
-309 East Paces Ferry Road NE  
-Atlanta, Georgia 30305  
-Attention: Privacy Officer 
+_**Social Networks and Widgets**_
 
-_Last Update: May 9, 2012._
+Our website also includes social network or other third-party plug-ins and widgets that may provide information to their associated social networks or third-parties about Aaron's websites you visit, even if you do not click on or otherwise interact with the plug-in or widget and regardless of whether you have an account or other relationship with these social networks and third-parties. Information is transmitted from your browser and may include an identifier assigned by the social network or third-party, information about your browser type, operating system, device type, IP address and the URL of the web page where the plug-in or widget appears. If you use social network tools or visit social networking websites, you should read their privacy policies, to learn what information they collect, use, and share.
+
+_**Links to Other Websites**_
+
+Aaron's websites contain content, services, advertising and other materials that link to websites operated by third-parties. We have no control over those other websites, and this Policy does not apply to them.  We encourage you to refer to the privacy policies of those websites. 
+
+**How Do We Use and Share Your Information?**  
+
+We use the Personal Information and NPI we collect from you for many purposes. For example, we use and share Personal Information and NPI to:
+
+  * process, manage, complete and account for transactions, including fulfilling product and service arrangements and collecting amounts payable associated with such arrangements;
+  * provide products and services you request;
+  * to enforce contractual obligations;
+  * help prevent fraud, unauthorized or criminal activity, claims and other liabilities;
+  * operate, evaluate and improve our business, including developing new products and services, managing our communications, performing research and administering our website and other programs, and for auditing purposes;
+  * market to you our products and services and the products and services of our franchisees and other third-parties through email, online outreach, direct mail, and other channels;
+  * communicate with you about our products and services, including to respond to your comments and inquiries, to use "click-to-chat" or equivalent functionality for customer service purposes, and to identify your preferences so we can notify you of new or additional products, services, promotions or events that may be of interest to you;
+  * communicate with you about and administer your participation in promotions we offer or are involved in, such as sweepstakes, contests, special events and other programs;
+  * enable you to participate in surveys and other research efforts;
+  * perform data analysis, including market and consumer research, financial analysis, and to measure the effectiveness of our advertising efforts online and otherwise; and
+  * comply with applicable legal and regulatory requirements, industry standards or guidelines, and Aaron's policies. 
+
+
+
+In addition to other sharing described in this section, we may disclose Personal Information and NPI:  (i) in order to comply with laws or legal process, including subpoenas or agency orders and investigations which we determine are required under appropriate circumstances; (ii) as we reasonably determine necessary or appropriate to protect property, our rights or the rights of others; and (iii) to enforce our contracts, policies and customer agreements.   
+
+We may also de-identify Personal Information (by removing certain data elements such as name, phone number, date of birth) that we receive from you or from third-parties so that it cannot be used to identify a specific individual. 
+
+We may transfer information covered by this Policy, including Personal Information, in connection with a merger or sale or store closing (including transfers made as part of insolvency or bankruptcy proceedings) of all or part of Aaron's business or as part of a corporate reorganization, stock sale or other change in control. 
+
+_**Sharing With Corporate Entities, Franchisees and Third-Parties**_  
+
+We also share Personal Information and NPI with our affiliates, subsidiaries, divisions, franchisees and  service providers who provide services to us or on our behalf and agree to only use such information for the purpose for which it was provided and in accordance with this Policy.   
+
+We may also provide Personal Information and NPI to credit bureaus, third parties collecting amounts owed to us, and third parties to whom we assign your account for collection purposes.
+
+We may also share the Personal Information with select third-party vendors, business partners and other companies so that they can send you promotional materials about goods and services (including special offers and promotions) offered by them. After the information is provided to such third-parties, the subsequent use or disclosure of such information is subject to those third-parties' privacy policies and practices.  
+
+We may also use services hosted by third-parties to assist in providing our services and to help us understand our customers' use of our products.  A third-party service may collect information sent by your browser as part of a web page request, including, for example, your IP address, the third-party's cookies, or any of the other categories of information itemized under Online Activities, above.  
+
+Aaron's uses "interest-based" ads also known as "online behavioral advertising" or "OBA." Online behavioral advertising is advertising that is directed to you based, at least in part, on your Internet browsing behavior across the web.  Although we do not share Personal Information with the third-parties that conduct advertising operations on our behalf, these third-parties and their affiliates do collect certain information as a result of their "tags" being on our website.  The information they collect includes the name (URL) of the web pages you view while on our site, your IP address, time of visit, information about your browser software, information about your device, and randomly-assigned identifiers stored in cookies, which they use to target and serve advertising.  Aaron's uses third-parties that participate in the Digital Advertising Alliance (DAA), which prescribes certain norms of conduct and provides an opt-out for behaviorally targeted ads, as discussed in "Your Options Regarding Personal Information," below.
+
+  
+**How Do We Protect Your Information?**
+
+We maintain administrative, technical and physical safeguards intended to protect against the loss, misuse, unauthorized access, or disclosure of Personal Information and NPI.  Although we take such precautions seriously, it is impossible for us or others to guarantee the safety and security of Personal Information and NPI. 
+
+**Will this Policy Change?**  
+
+This Policy may be updated periodically to reflect relevant changes in our information practices. We will post a notice on our website to inform you of significant changes to this Policy.  We will also provide additional information regarding changes to this Policy as may be required by law. 
+
+**Your Options Regarding Personal Information**  
+
+You may request that we correct, update or amend the Personal Information we hold about you. To update us regarding changes in your Personal Information, please contact us at the store location at which you have done business or you may contact us as described below. 
+
+You may elect to opt-out of receipt of email and text communications from us by following the instructions provided in such communications or by contacting us as provided below.  Even after opting out, you may still receive service oriented, non-promotional communications from us and promotional communications from other third-parties as a result of their own interactions or transactions with you.  Please allow time for us to process your request or contact us should you have any concerns about your opt-out request. 
+
+"Do-Not-Track." Do-Not-Track is a public-private initiative, <http://www.w3.org/2011/tracking-protection/>, that has developed a technical "flag" or signal that an end-user may be able to activate within their browser software to notify websites that they do not wish to be "tracked" by 3rd parties as defined by the initiative.  The initiative, however, has not reached a consensus as to exactly what technical or other actions those parties receiving the signal should take.  As a result, Do-Not-Track has not yet been standardized and most websites, including Aaron's, do not alter their behavior or change their services when they receive a "do-not-track" flag or signal.  
+
+You can, however, make decisions about your privacy and the ads you receive. As explained in the section above, "Sharing With Corporate Entities, Franchisees and Third-Parties," Aaron's uses online behavioral advertising.  You can control whether companies serve you behaviorally-based advertising by visiting the DAA web page and using the DAA's opt-out: <http://www.aboutads.info/choices/>.  The DAA opt-out requires that cookies not be blocked in your browser.
+
+As an alternative to the DAA opt-out, you can also elect to block all cookies from first-parties (such as Aaron's) and from third-parties (such as entities involved in advertising) by using the cookie blocking options built into your browser software.  For example, in Internet Explorer 9, you can block both first and third-party cookies by selecting those options at Tools/Internet Options/Privacy/Settings-Advanced/Override Automatic Cookie Handling.  As another example, if you are using Firefox 25, you can "uncheck" Accept All Cookies under Firefox Preferences/Privacy-Use Custom Settings For History/Accept Cookies from Sites.  
+
+Please note, however, that if you do decide to block cookies, some parts of our website may not function correctly. 
+
+**How Can You Contact Us?**
+
+If you wish to contact us regarding your information or this Policy, you may:
+
+  * email us at [privacy@aarons.com](mailto:privacy@aarons.com)
+  * call us at 1-877-496-1606 between 9 a.m. and 5 p.m. Eastern Time, Monday through Friday.
+  * write to us at Aaron's, Inc., Legal Department, Attn: Privacy Office, 400 Galleria Pkwy, SE, Suite 300, Atlanta, GA 30339. 
+
+
+
+For all other customer inquiries, call us at 1-877-496-1606 between 9 a.m. and 5 p.m. Eastern Time, Monday through Friday or email us anytime at [mycustomerexperience@aarons.com](mailto:mycustomerexperience@aarons.com).
+
+**Your California Privacy Rights**
+
+If you are a California resident, you may ask us to refrain from sharing Personal Information with third parties for their own direct marketing purposes. Please indicate your preference by contacting us as described above. Please also note it may take us thirty (30) days to fully process your request. 
+
+**Children's Online Privacy Policy**
+
+This website is not directed to children under the age of 13, and we do not knowingly collect Personal Information from children under the age of 13 on this website.
+
+  _Last Revised: January 1, 2017_
