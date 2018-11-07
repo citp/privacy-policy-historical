@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gab.ai privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627101500id_/https%3A//gab.ai/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gab.ai privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107152432id_/https%3A//gab.ai/about/privacy) for the most accurate reproduction.*
 
-# Gab.ai | Privacy
+# gab | Privacy
 
 _Last updated: August 18th, 2016_
 
