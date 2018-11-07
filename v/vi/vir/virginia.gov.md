@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the virginia.gov privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202163326id_/https%3A//www.virginia.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginia.gov privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107140713id_/https%3A//www.virginia.gov/privacy-policy) for the most accurate reproduction.*
 
-# Internet Privacy Policy - Commonwealth of Virginia
+# Privacy Policy - Commonwealth of Virginia
+
+## Overview
 
 ### Information we collect and how we use it
 
-The following information explains the Internet Privacy Policy and practice for the Virginia.gov website, but shall not be interpreted as a contract of any nature, either stated or implied. We reserve the right to amend our Internet Privacy Policy statement at any time without notice. Note that this policy only applies to pages on the [virginia.gov](https://virginia.gov/) website. The website has links to those operated by other government agencies, nonprofit organizations and private businesses. When you move via such links to another website, this policy will not apply.
+The following information explains the Internet Privacy Policy and practice for the Virginia.gov website, but shall not be interpreted as a contract of any nature, either stated or implied. We reserve the right to amend our Internet Privacy Policy statement at any time without notice. Note that this policy only applies to pages on the [virginia.gov](https://www.virginia.gov/) website. The website has links to those operated by other government agencies, nonprofit organizations and private businesses. When you move via such links to another website, this policy will not apply.
 
 Date of last revision: Sept. 23, 2016
 
-If you have questions about this privacy statement or the practices of this website, please contact us at [virginiawebmaster@vita.virginia.gov](mailto:virginiawebmaster@vita.virginia.gov).
+If you have questions about this privacy statement or the practices of this website, please contact us at [virginiawebmaster@vita.virginia.gov](mailto:virginiawebmaster@vita.virginia.gov).
 
 ### Protection of information via established security procedures
 
@@ -26,7 +28,7 @@ We protect our records in accordance with our obligations as defined by applicab
 
 ### Information we collect
 
-We collect only the minimum amount of information needed to provide services. If you do nothing during your visit to the [virginia.gov](https://virginia.gov/) website but browse or download information, we automatically collect and store the following information about your visit:
+We collect only the minimum amount of information needed to provide services. If you do nothing during your visit to the [virginia.gov](https://www.virginia.gov/) website but browse or download information, we automatically collect and store the following information about your visit:
 
   1. The Internet domain and IP address from which you accessed our site;
   2. The type of browser and operating system you used;
@@ -62,7 +64,7 @@ We do not sell or rent our subscribers’ information to any outside company or 
 
 ### Copyright
 
-The copyright to the [virginia.gov](https://virginia.gov/) website is owned by the Commonwealth of Virginia and pages are marked with the notice “© Commonwealth of Virginia.” Permission is granted to website visitors to make fair use of the contents, as per <http://www.copyright.gov/fls/fl102.html>. If you are in doubt about whether your use constitutes fair use, please send a request for explicit permission to copy the contents by emailing [virginiawebmaster@vita.virginia.gov](mailto:virginiawebmaster@vita.virginia.gov).
+The copyright to the [virginia.gov](https://www.virginia.gov/) website is owned by the Commonwealth of Virginia and pages are marked with the notice “© Commonwealth of Virginia.” Permission is granted to website visitors to make fair use of the contents, as per <http://www.copyright.gov/fls/fl102.html>. If you are in doubt about whether your use constitutes fair use, please send a request for explicit permission to copy the contents by emailing [virginiawebmaster@vita.virginia.gov](mailto:virginiawebmaster@vita.virginia.gov).
 
 ### Linking Policy
 
@@ -73,3 +75,5 @@ This website contains links to external websites and pages containing informatio
 Neither the Commonwealth of Virginia nor any state employee warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or outdated. Any person or entity that relies on any information obtained from this system does so at his or her own risk.
 
 Reference herein to any specific commercial products, processes or services by trade name, trademark, manufacturer or other mark does not constitute or imply its endorsement, recommendation or favoring by the Commonwealth of Virginia. The information and statements contained on this site shall not be used for the purposes of advertising, nor to imply the endorsement or recommendation of the Commonwealth of Virginia.
+
+* * *
