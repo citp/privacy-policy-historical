@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listmachinepro.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508150822id_/http%3A//listmachinepro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listmachinepro.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107220138id_/http%3A//listmachinepro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | listmachinepro.com
 
