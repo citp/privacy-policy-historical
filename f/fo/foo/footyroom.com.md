@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footyroom.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627073136id_/http%3A//footyroom.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footyroom.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107024716id_/http%3A//footyroom.com/privacy-policy.html) for the most accurate reproduction.*
 
 # FootyRoom's Privacy Policy
 
@@ -128,7 +128,7 @@ You have the following rights concerning our processing of your personal data:
 
 
 
-The above mentioned rights can be exercised in accordance with the rules described in art. 16 - 21 of GDPR, by contacting us through contact form found on our website [http://footyroom.com](http://footyroom.com/feedback). We may refuse to exercise certain rights from those indicated above in a situation where the implementation of a given right would be in conflict with the legitimate purpose of the data we process. For example, we may refuse to delete personal data specified in your order until the expiry of the limitation period for claims under the concluded contract. We may contact you to ask you for further information to help you exercise your legal rights, or to speed up our response. We will try to respond to requests within one month and we will let you know if we need to take longer, for example because your request is complicated. 
+The above mentioned rights can be exercised in accordance with the rules described in art. 16 - 21 of GDPR, by contacting us through contact form found on our website [https://footyroom.com](https://footyroom.com/feedback). We may refuse to exercise certain rights from those indicated above in a situation where the implementation of a given right would be in conflict with the legitimate purpose of the data we process. For example, we may refuse to delete personal data specified in your order until the expiry of the limitation period for claims under the concluded contract. We may contact you to ask you for further information to help you exercise your legal rights, or to speed up our response. We will try to respond to requests within one month and we will let you know if we need to take longer, for example because your request is complicated. 
 
 **Opt out of communications.** You may opt out of receiving promotional communications from us by using the unsubscribe link within each email, updating your email preferences within your FootyRoom account settings menu, or by contacting us as provided below to have your contact information removed from our promotional email list or registration database. Even after you opt out from receiving promotional messages from us, you will continue to receive transactional messages from us regarding our Services. You can opt out of some notification messages in your account settings. 
 
@@ -146,4 +146,4 @@ We will notify you by email should there be any significant changes to this poli
 
 ## Contact us
 
-For more information you may contact FootyRoom through contact form available on [http://footyroom.com](http://footyroom.com/feedback) or by emailing us at **info@footyroom.com**. 
+For more information you may contact FootyRoom through contact form available on [https://footyroom.com](https://footyroom.com/feedback) or by emailing us at **info@footyroom.com**. 
