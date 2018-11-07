@@ -1,14 +1,28 @@
-> *The following text is extracted and transformed from the pointclicktrack.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508074929id_/http%3A//www.pointclicktrack.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointclicktrack.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107174340id_/http%3A//www.pointclicktrack.com/index/privacy) for the most accurate reproduction.*
 
 # PointClickTrack - CPA Affiliate Network - BBB Accredited - Privacy Policy
-
-**Last Updated : January 22, 2009**
 
 This privacy statement discloses the privacy practices for PointClickTrack ("www.PointClickTrack.com"). Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home page. PointClickTrack respects your privacy. Our purpose in collecting information from you is to help us provide you with better service.
 
 **Information Collection and Use**
 
 PointClickTrack is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in any way. PointClickTrack collects information from our users at several different points on our web site.
+
+##### PERSONAL INFORMATION
+
+Users may visit our Site anonymously. We will collect personal identification information from users only if they voluntarily submit such information to us. Users can always refuse to supply personal information, except that it may prevent them from engaging in certain Site related activities and our being able to provide certain services to users and to interact with users, such as in an affiliate or advertiser relationship with us. For visitors to the Site who do not share any information with us, we collect only the domain name and IP address, but not the e-mail address of such visitors to our Site.
+
+##### AFFILIATES AND ADVERTISERS
+
+We may collect personal information when you (i) register on the Site, (ii) fill out forms or fields on the Site, (iii) complete an application for a product or service available through the Site; and (iv) communicate with us by email, mail, text, telephone, facsimile or other electronic means. Personal information in this context may include: your name, email address, postal address, phone number, Messenger ID, social media account details, IP address, tax ID/social security number, and banking/financial information.
+
+We may also collect non-personal identification information about users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about users’ means of connection to our Site, such as the operating system, the Internet service providers utilized and other similar information, your mobile device type, your device’s unique identifier and your mobile network information.
+
+##### OTHER USERS
+
+For other users of the Site (non-affiliates and non-advertisers), we collect information such as IP addresses and information regarding your browser name, the type of computer and technical information about users’ means of connection to our Site, such as the operating system, the Internet service providers utilized and other similar information, your mobile device type, your device’s unique identifier and your mobile network information.
+
+We collect personal information if you provide information such as your name, e-mail or telephone number in the context of making an inquiry through our Site.
 
 **Cookies**
 
@@ -50,4 +64,10 @@ You can access most of your personally identifiable information that we collect 
 
 If you feel we are not abiding by this policy or should you have other questions or concerns about this privacy policy or our other policies then please contact Customer Support. 
 
-PointClickTrack.com is ran and operated by PointClick, LLC: [http://www.pointclickllc.com](http://www.pointclickllc.com/)
+PointClickTrack.com is ran and operated by PointClick, LLC.
+
+**YOUR ACCEPTANCE OF THESE TERMS**
+
+By using this Site, you signify your acceptance of this Policy. If you do not agree to this Policy, please do not use our Site. Your continued use of the Site following the posting of changes to this Policy will be deemed your acceptance of those changes.
+
+**EFFECTIVE DATE: May 25th, 2018**
