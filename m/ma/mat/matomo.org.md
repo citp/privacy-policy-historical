@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matomo.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624160502id_/https%3A//matomo.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matomo.org privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107010344id_/https%3A//matomo.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Analytics Platform - Matomo
 
@@ -32,7 +32,7 @@ Reusing this Privacy Policy
 
 ## Who we are 
 
-[Matomo](https://matomo.org/) (formerly known as Matomo) is an open source project brought to you by the [Matomo team members](https://matomo.org/team/) as well as many other contributors around the globe.
+[Matomo](https://matomo.org/) is an open source project brought to you by the [Matomo team members](https://matomo.org/team/) as well as many other contributors around the globe.
 
 Matthieu Aubry is the legal representative of the Matomo project. If you have any questions about this privacy policy, please contact our privacy team at [privacy@matomo.org](mailto:privacy@matomo.org)
 
@@ -43,7 +43,7 @@ We will never sell your personal data to anyone.
 In order for us to provide you the best possible experience on our websites, we need to collect and process certain information. Depending on your use of the Services, that may include:
 
   * **Contact us via email** — for example, when you ask for support, send us questions or comments, or report a problem, we will collect your name, email address, message, etc. We use this data solely in connection with answering the queries we receive. 
-  * **Usage data —** when you visit our site, we will store: the website from which you visited us from, the parts of our site you visit, the date and duration of your visit, your anonymised IP address, information from the device (device type, operating system, screen resolution, language, country you are located in, and web browser type) you used during your visit, and [more](https://matomo.org/faq/general/faq_18254/). We process this usage data for statistical purposes, to improve our site and to recognize and stop any misuse.
+  * **Usage data —** when you visit our site, we will store: the website from which you visited us from, the parts of our site you visit, the date and duration of your visit, your anonymised IP address, information from the device (device type, operating system, screen resolution, language, country you are located in, and web browser type) you used during your visit, and [more](https://matomo.org/faq/general/faq_18254/). We process this usage data in [Matomo Analytics](https://matomo.org/) for statistical purposes, to improve our site and to recognize and stop any misuse.
   * **Cookies —** we use cookies (small data files transferred onto computers or devices by sites) for record-keeping purposes and to enhance functionality on our site. You may deactivate or restrict the transmission of cookies by changing the settings of your web browser. Cookies that are already stored may be deleted at any time.
   * **Create an account —** when you sign up for and open an account on our forum, certification website or purchase a premium plugin on the Matomo Marketplace, or sign up for content or offers, we may ask you to provide us with information such as your name, email address and details about your organization. As otherwise detailed in this Privacy Policy, we will solely process this information to provide you with the service you signed up for. 
 
@@ -287,7 +287,7 @@ Contact form:[ matomo.org/contact](https://matomo.org/contact/)
 
 Before reading further, please, note that none of our team members are lawyers and do not provide legal or business advice. 
 
-You are welcome to reuse and be inspired by this Privacy Policy after making sure it complies with the way your website tracks, uses and discloses users information.
+You are welcome to reuse and be inspired by this Privacy Policy (published under license [CC BY](https://creativecommons.org/licenses/by/4.0/)) after making sure it complies with the way your website tracks, uses and discloses users information.
 
 The accuracy, completeness, adequacy of this privacy policy cannot be warranted or guaranteed. Please use it at your own risk.
 
