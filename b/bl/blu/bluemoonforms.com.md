@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluemoonforms.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928160321id_/https%3A//bluemoonforms.com%3Fp%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemoonforms.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108114704id_/http%3A//bluemoonforms.com%3Fp%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Blue Moon Software
 
@@ -137,4 +137,4 @@ It is our policy to post any changes we make to our privacy policy on this page 
 
 ### Contact Information
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us at: [web@bluemoonforms.com](mailto:web@bluemoonforms.com)
+To ask questions or comment about this privacy policy and our privacy practices, contact us at: [sales@bluemoonforms.com](mailto:sales@bluemoonforms.com)
