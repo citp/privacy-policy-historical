@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theredx.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509053030id_/http%3A//www.theredx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theredx.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108033204id_/http%3A//www.theredx.com/privacy) for the most accurate reproduction.*
 
-# Privacy | REDX
+# REDX Real Estate Privacy Policy
 
 Real Estate Data X-Change, Inc Privacy Policy
 
@@ -56,9 +56,7 @@ We are in compliance with the requirements of COPPA (Children’s Online Privacy
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of
-
-liability governing the use of our website at www.theredx.com
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at www.theredx.com
 
 **Your Consent**  
 By using our site or subscribing to our service, you consent to our privacy policy.
