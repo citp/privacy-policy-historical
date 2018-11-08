@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ripleyaquariums.com privacy policy that was archived on 2018-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180225044024id_/http%3A//www.ripleyentertainment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripleyaquariums.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108134740id_/http%3A//www.ripleyentertainment.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ripley Entertainment Inc
 
