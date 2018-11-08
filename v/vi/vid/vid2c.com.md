@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vid2c.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614192008id_/http%3A//www.vid2c.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vid2c.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109004229id_/https%3A//www.vid2c.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
@@ -102,3 +102,5 @@ Protecting children from adult content is especially important. For that reason,
 ## _7\. Data Protection Officer_
 
 If you have any further questions regarding the data collects, or how we use it, please contact us by email at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+We use cookies to make sure you can have the best experience on our website. If you continue to use this site we assume that you will be happy with it. Ok
