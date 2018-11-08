@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiration.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509101919id_/http%3A//www.inspiration.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiration.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108162135id_/http%3A//www.inspiration.com/privacy-policy) for the most accurate reproduction.*
 
 # Inspiration Software, Inc. Privacy Policy | inspiration.com
 
@@ -11,6 +11,7 @@
   * COLLECTION OF PERSONAL INFORMATION
   * USE OF YOUR PERSONAL INFORMATION
   * PROTECTION OF YOUR PERSONAL INFORMATION
+  * [GDPR](https://web.archive.org/web/20181108162135id_/http%3A//www.inspiration.com/gdpr)
 
 **
 
