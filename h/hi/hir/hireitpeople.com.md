@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hireitpeople.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525042009id_/https%3A//www.hireitpeople.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hireitpeople.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108151717id_/https%3A//www.hireitpeople.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hire IT People - We get IT done
 
