@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jawhara.me privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509130231id_/http%3A//www.jawhara.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jawhara.me privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108184434id_/http%3A//www.jawhara.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jawhara
 
@@ -29,7 +29,7 @@ Personal Information is used for the following purposes: (i) to provide and impr
 
 **Children’s Privacy**
 
-We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), titled Privacy. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.  
+We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact support@jawhara.me, titled Privacy. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.  
 We recommend that minors over the age of 13 ask a parent or guardian for permission before sending any information about themselves to anyone over the Internet.
 
 **Consumer Education Related to Social Networking**
@@ -38,6 +38,14 @@ Creating a safe social networking environment is important to us. While we do no
 
   * http://οnguardοnline•gοv/sοcialnetwοrking•html [[link](http://xn--nguardnlinegv-lwa247igah/s%CE%BFcialnetw%CE%BFrking%C2%B7html)]
   * http://οnguardοnline•gοv/sοcialnetwοrking_yοuth•html [[link](http://xn--nguardnlinegv-orjgg1564j/s%CE%BFcialnetw%CE%BFrking_y%CE%BFuth%E2%80%A2html)]
+
+
+
+**GDPR**
+
+Because we do not collect or determine the use of any Personal Data contained in the Client Data and because it does not determine the purposes for which such Personal Data is collected, the means of collecting such Personal Data, or the uses of such Personal Data, We are not acting in the capacity of data controller in terms of the European Union’s General Data Protection Regulation (Regulation (EU) 2016/679, hereinafter “GDPR”) and does not have the associated responsibilities under the GDPR.
+
+  * https://www.google.com/policies/technologies/partner-sites/ [[link](https://www.google.com/policies/technologies/partner-sites/)]
 
 
 
@@ -76,4 +84,4 @@ The Site contains links to other websites. If you choose to visit an advertiser 
 
 **VIOLATIONS AND COMMENTS**
 
-Please report any violations of the TOS to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), titled : Abuse; or make any comments to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Please report any violations of the TOS to Support@jawhara.me, titled : Abuse; or make any comments to Support@jawhara.me.
