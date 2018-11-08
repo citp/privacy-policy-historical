@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barafranca.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605045751id_/http%3A//omerta.wiki/display/OMERTA/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barafranca.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108010920id_/http%3A//omerta.wiki/display/OMERTA/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Omerta - Omerta Wiki
 
