@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paychex.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625193045id_/https%3A//www.paychex.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paychex.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108105442id_/https%3A//www.paychex.com/corporate/privacy) for the most accurate reproduction.*
 
 # Paychex Privacy Statement | Paychex
 
@@ -91,7 +91,7 @@ Keeping your information accurate and up-to-date is very important. You can revi
 
 ## Security Center
 
-For information about our commitment to protecting the security and integrity of our customers’ information, please [refer to the Security Center](https://web.archive.org/corporate/security/).
+For information about our commitment to protecting the security and integrity of our customers’ information, please [refer to the Security Center](https://web.archive.org/corporate/security).
 
 ## Changes to This Privacy Statement
 
