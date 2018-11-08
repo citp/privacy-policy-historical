@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myitthings.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604100501id_/http%3A//www.myitthings.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myitthings.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108053549id_/http%3A//myitthings.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | My It Things
 
