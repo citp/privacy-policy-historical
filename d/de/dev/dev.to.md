@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dev.to privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607115402id_/https%3A//dev.to/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dev.to privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108220315id_/https%3A//dev.to/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for DEV
 
