@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groovypost.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607014913id_/https%3A//www.groovypost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groovypost.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108154853id_/https%3A//www.groovypost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ When you log in, we will also set up several cookies to save your login informat
 
 If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-Almost all websites in the world use Cookies in order to identify your session on their website and enable you to do things like login, personalize your session etc…  If you would like more information about cookies and learn about the choices you have to disable some of the tracking by these companies, [click here](http://www.google.com/privacy_ads.html).
+Almost all websites in the world use Cookies in order to identify your session on their website and enable you to do things like login, personalize your session etc…  If you would like more information about cookies and learn about the choices you have to disable some of the tracking by these companies, [click here](https://www.google.com/privacy_ads.html).
 
 Another option is to disable cookies in your browser however by doing this you will no longer be able to use most websites. Any questions or comments regarding the privacy policy should be sent to [privacy@groovyPost.com](mailto:privacy@groovyPost.com).
 
@@ -101,3 +101,5 @@ Some of the links on groovyPost.com contain affiliate links, which means that if
 ### Use of website
 
 Our site, groovyPost.com is free to browse and enjoy. If you are not in agreement with the information we collect and store per the details on this page, please [delete all cookies in your browser](https://www.groovypost.com/?s=delete+cookies) and discontinue visiting our site.
+
+ _Update 5/25/18_
