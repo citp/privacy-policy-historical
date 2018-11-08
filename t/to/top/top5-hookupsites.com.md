@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top5-hookupsites.com privacy policy that was archived on 2018-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180420110701id_/http%3A//www.top5-hookupsites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top5-hookupsites.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108195829id_/http%3A//www.top5-hookupsites.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Top 5 Hookup sites
 
@@ -6,7 +6,7 @@ We (“ **Company** ” or “ **us** ” or “ **our** ”) adhere to the prac
 
 By using or accessing the Site and Service, you hereby agree to the terms of this Privacy Policy. Any use or continued use of the Service constitutes your agreement and consent to this Privacy Policy and any amendments therein. You accept the terms of this Privacy Policy by simply using the Service or the Site. If you do not agree to be bound by these terms, you are prohibited from accessing, viewing or using the Site or the Service. We reserve the right, at our discretion, to revise or update these this Privacy Policy at any time. Such changes shall be effective upon publication of the amended Terms (the last revision will be reflected in the “Last Modified” heading). Your continued use of the Service thereafter constitutes you consent to such changes and you agree to be bound by them. Please make sure to review our Privacy Policy periodically.
 
-You represent and warrant that you are at least 18 years of age, we do not use the Services to knowingly solicit data from or market to children under the age of 18. We reserve the right to request proof age in order to verify that minors under the age of eighteen (18) are not using the Services. In the event that we become aware that a user under the age of 18 has shared any information, we will discard such information. If you become aware or have any reason to believe that a child under the age of eighteen (18) has shared any information with us, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You represent and warrant that you are at least 18 years of age, we do not use the Services to knowingly solicit data from or market to children under the age of 18. We reserve the right to request proof age in order to verify that minors under the age of eighteen (18) are not using the Services. In the event that we become aware that a user under the age of 18 has shared any information, we will discard such information. If you become aware or have any reason to believe that a child under the age of eighteen (18) has shared any information with us, please contact us at marketing@wizeclick.com.
 
 **_Data Collection_**
 
@@ -36,11 +36,11 @@ In addition, we may share your information with a parent company, subsidiaries, 
 
 **_ _** ** _Data Retention and Security_**
 
-We retain the information we collect solely for as long as required to fulfil the purposes for which it was collected.  However, in some circumstances we may retain the information we collect for longer periods, for example, when we are required to do so in accordance with legal, tax and accounting requirements, or if we reasonably believe, at our discretion, that we need to obtain an accurate record of your correspondence or any dealing with us, for example, in the event of any complaints. We use high security techniques to prevent your information from being accessed without authorization, improperly used or disclosed, unlawfully destructed or accidental loss. However, although we make best efforts we can’t provide 100% security and we cannot be held responsible for unauthorized or unintended access that is beyond our control. If you believe that your privacy was treated not in accordance with this Privacy Policy, or you have reasonable concern with that any person attempted to abuse our Service, please contact us [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+We retain the information we collect solely for as long as required to fulfil the purposes for which it was collected.  However, in some circumstances we may retain the information we collect for longer periods, for example, when we are required to do so in accordance with legal, tax and accounting requirements, or if we reasonably believe, at our discretion, that we need to obtain an accurate record of your correspondence or any dealing with us, for example, in the event of any complaints. We use high security techniques to prevent your information from being accessed without authorization, improperly used or disclosed, unlawfully destructed or accidental loss. However, although we make best efforts we can’t provide 100% security and we cannot be held responsible for unauthorized or unintended access that is beyond our control. If you believe that your privacy was treated not in accordance with this Privacy Policy, or you have reasonable concern with that any person attempted to abuse our Service, please contact us marketing@wizeclick.com
 
 **_Users Rights_**
 
-Even after you have provided your consent to this Privacy Policy, you may change your mind. If you do, you may easily opt out of the data collection related to our Service by changing your browser settings and disabling or blocking cookies. You may also contact us [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Further, as we use third party retargeting services, you may also opt-out directly from third party retargeting cookies or other ad-technology trackers through self-regulator services like the Network Advertising Initiative’s (“ **NAI** ”) website – [NAI consumer opt-out page](http://www.networkadvertising.org/choices/) or the Digital Advertising Alliance’s (“ **DAA** ”) website – [DAA opt-out page](http://www.aboutads.info/).
+Even after you have provided your consent to this Privacy Policy, you may change your mind. If you do, you may easily opt out of the data collection related to our Service by changing your browser settings and disabling or blocking cookies. You may also contact us marketing@wizeclick.com. Further, as we use third party retargeting services, you may also opt-out directly from third party retargeting cookies or other ad-technology trackers through self-regulator services like the Network Advertising Initiative’s (“ **NAI** ”) website – [NAI consumer opt-out page](http://www.networkadvertising.org/choices/) or the Digital Advertising Alliance’s (“ **DAA** ”) website – [DAA opt-out page](http://www.aboutads.info/).
 
 **_Transfer of Data_**
 
@@ -52,7 +52,7 @@ The Website or our Services does not respond to Do Not Track signals. For more i
 
 **_Contact Us_**
 
-If you have any questions in relation to this Privacy Policy or you wish to exercise any of your rights, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1e737f6c757b6a7770795e6977647b7d72777d75307d7173)
+If you have any questions in relation to this Privacy Policy or you wish to exercise any of your rights, please contact us at: [marketing@wizeclick.com](mailto:marketing@wizeclick.com)
 
 Wiseclicks technologies LTD  
 Merchants Court,  
