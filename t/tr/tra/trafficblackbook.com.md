@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficblackbook.com privacy policy that was archived on 2017-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170402063153id_/http%3A//trafficblackbook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficblackbook.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108015353id_/http%3A//trafficblackbook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Traffic Blackbook 2.0
 
