@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the softexia.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108222353id_/https%3A//www.softexia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softexia.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108212225id_/https%3A//www.softexia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Softexia
+# Softexia | Privacy Policy | Softexia.com
 
-## Softexia | Privacy Policy
+[ Home ](https://www.softexia.com/) Softexia | Privacy Policy
 
 #### European Union’s Cookie Law
 
@@ -45,10 +45,10 @@ Most browsers allows you to erase cookies from your computer hard drive, to bloc
 
 #### How to change the settings for:
 
-  * [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)
-  * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
-  * [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies#ie=ie-11)
-  * [Opera](http://www.opera.com/help/tutorials/security/cookies/)
-  * [Safari](https://support.apple.com/kb/PH5042?locale=en_US)
+  * **[Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)**
+  * **[Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)**
+  * **[Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies#ie=ie-11)**
+  * **[Opera](http://www.opera.com/help/tutorials/security/cookies/)**
+  * **[Safari](https://support.apple.com/kb/PH5042?locale=en_US)**
 
 
