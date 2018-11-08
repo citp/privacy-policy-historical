@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the mrscleanusa.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507050812id_/http%3A//www.mrscleanusa.com/cleaning-services/mrs-clean/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrscleanusa.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109003647id_/http%3A//www.mrscleanusa.com/cleaning-services/mrs-clean/privacy-policy.html) for the most accurate reproduction.*
 
 # Mrs Clean's Privacy Policy
 
-Your privacy is protected with Mrs Clean House Cleaning.
+Your privacy is protected with Mrs. Clean House Cleaning. We will not sell, rent, release, or otherwise disseminate your personal information without your permission.
 
-We will not sell, rent, release, or otherwise disseminate your personal information without your permission.
+You may visit [Mrs. Clean](http://www.mrscleanusa.com/ "Mrs. Clean housecleaning and maid service") without revealing any personal information about yourself. If you request information about a house cleaning some personal information is required (read below). House Cleaning and Maid Services offered by Mrs. Clean are currently available to consumers in the United States and within our [Service Area](http://www.mrscleanusa.com/cleaning-services/cities/ "Mrs. Clean Service Area").
 
-You may visit [Mrs. Clean](http://www.mrscleanusa.com/ "Mrs. Clean housecleaning and maid service") without revealing any personal information about yourself.
-
-[Mrs. Clean](http://www.mrscleanusa.com/cleaning-services/mrs-clean/about-us.html "About Mrs. clean") uses statistical tracking software to provide metrics of site visitors and page views. The software may use cookies to track user navigation of the site for summary reporting only.
+[Mrs. Clean](http://www.mrscleanusa.com/cleaning-services/mrs-clean/about-us.html "About Mrs. clean") uses statistical tracking software, such as Google Analytics, to provide metrics of site visitors and page views. The software may use cookies to track user navigation of the site for summary reporting only.
 
 ## Contact Mrs Clean House Cleaning
 
@@ -67,9 +65,9 @@ Toll Free: +1 (888) 253-2607
 ## Contact Mrs. Clean House Cleaning and Maid Service:
 
 Email: [info@mrscleanusa.com](mailto:info@mrscleanusa.com)   
-[+Mrs Clean](https://plus.google.com/+MrsClean1/posts "Mrs. Clean") [+Mrs Clean House Cleaning ](https://plus.google.com/+MrsCleanHouseCleaningRedmond/about "Mrs Clean House Cleaning")
+[+Mrs Clean House Cleaning ](https://plus.google.com/+MrsCleanHouseCleaningRedmond/about "Mrs Clean House Cleaning")
 
-[Mrs. Clean's House Cleaning and Maid Service](http://www.mrscleanusa.com/), [Cleaning Blog](http://mrscleanusa.blogspot.com/), [Cleaning Tips on Facebook](https://www.facebook.com/mrscleanhousecleaning), [Mrs Clean on Twitter](https://twitter.com/mrscleanusa), [Mrs Clean on Linkedin](https://www.linkedin.com/in/corinaw).
+[Mrs. Clean's House Cleaning and Maid Service](http://www.mrscleanusa.com/),  [Cleaning Tips on Facebook](https://www.facebook.com/mrscleanhousecleaning), [Mrs Clean on Twitter](https://twitter.com/mrscleanusa), [Mrs Clean on Linkedin](https://www.linkedin.com/in/corinaw).
 
 ## Resolving Disputes
 
