@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediabistro.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622172648id_/https%3A//www.mediabistro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediabistro.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109005244id_/https%3A//www.mediabistro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mediabistro
 
