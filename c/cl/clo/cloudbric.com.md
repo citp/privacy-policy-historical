@@ -1,53 +1,101 @@
-> *The following text is extracted and transformed from the cloudbric.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709052023id_/https%3A//www.cloudbric.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudbric.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108233405id_/https%3A//www.cloudbric.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Cloudbric | Elite Full Service Website Security
 
-### **General**
+This privacy policy is applicable to any and all products, solutions, and services provided by Cloudbric Corporation (“CLOUDBRIC”).
 
-This Privacy Policy (hereunder “Privacy Policy”) is applicable to all of the Services provided by Penta Security Systems Corporation (hereunder “PENTA”) on the PENTA Website (hereunder “Website”).
+### **Personal Information:**
 
-The term “personal information” means the information pertaining to an individual who is alive, and which contains information identifying a specific person with a name, a national identification number, or similar in the form of code, letter, voice, sound, image, or any other form (including information that does not, by itself, make it possible to identify a specific person but that enables identification of the specific person easily if combined with other information).
+The term “personal information” means information pertaining to an individual that helps CLOUDBRIC manage customer and potential customer relationships. Information we gather may include:
 
-The purpose of this Privacy Policy is to provide users, customers, and participants of PENTA’s marketing events, promotions, and subscriptions with an understanding of what kind of information PENTA collects, how it is used and with whom it may be shared, according to the list of requirements under Article 27-2 of the Act on Promotion of Information and Communication Network Utilization and Information Protection which this Privacy Policy is based upon:
-
-  * Purpose of collection and use of personal information
-  * Items of personal information and methods of collection
-  * Disclosure to Third Parties
-  * Rights of users and their legal representatives and methods for the exercise of such rights
-  * Integrity and Retention of personal information
-  * Matters concerning installation, operation, and denial of a device that collect personal information automatically, such as an information file for access to the internet (Cookies)
-  * International Users
-  * Notification of changes to the Privacy Policy
-  * Contact Information
+  *        Your name
+  *        Office and/or home address
+  *        Email address
+  *        Telephone number
+  *        Your company’s name and your title
+  *        Data of our correspondence with you and information about needs for technical assistance
+  *        Transaction history, shipping, billing, and payment information for applicable services (including, but not limited to Cloudbric)
+  *        Information regarding your connectivity through your  computer or device operating system (including, but not limited to your browser and IP address)
+  *        Other data that may not identify you but helps us to optimize our website for better user experience
 
 
 
-**Purpose of collection and use of personal information:**  PENTA collects personal information as necessary to provide a seamless user experience.
+### **What do we use the information for?**
 
-**Items of personal information and methods of collection:  **PENTA may collect various types of personal information, depending upon the purpose of the marketing events, promotions, and subscription. The categories of personal information PENTA collect may include but are not limited to: First and last name, home or physical address (including street name and name of a city or town), email address, and if users subscribe through the website, users’ subscription information. Furthermore, PENTA may also use personal information collected for internal purposes such as auditing, data analysis, and research to improve PENTA’s services, and customer communications.
+The general purpose of gathering this information is to provide users, customers, and participants with useful information regarding CLOUDBRIC’s marketing events, promotions, products, services, solutions, subscriptions, etc. CLOUDBRIC retains this information for the period necessary to fulfill the purposes outlined, unless a longer retention period is required by applicable laws.
 
-**Disclosure to Third Parties:  **At times PENTA may make certain personal information available to strategic partners that work with PENTA to provide products and services. Personal information will only be shared by PENTA to provide or improve the company’s products, services, and advertising; it will not be shared with third parties for their marketing purposes. Information about users or participants may also be used for purposes of national security, law enforcement, or other issues of public importance where disclosure is necessary or appropriate. Information may also be disclosed if disclosure is deemed reasonably necessary to enforce PENTA’s terms and conditions or protect business operations or users. Additionally, in the event of a reorganization, merger, or sale, information may be transferred to the relevant third party. PENTA may delegate the handling of user’s personal information to third parties (“Service Providers”) when it is necessary to ensure seamless services.
+We may also use the information to:
 
-**Rights of users and their legal representatives and methods for the exercise of such rights:  **Participants (or legal guardians if under 14 years of age) may review or change collected personal information at any time, and may also request to withdraw consent to PENTA’s collection and use of the collected personal information or to unsubscribe from the Services. Additionally, user’s personal information may be changed by contacting support. Participants are free to contact PENTA’s personal information manager in writing, by phone or by email through the contact information shown below for immediate action. Once the request to have the personal information corrected is processed, PENTA will not use or provide the user’s personal information until it is corrected as requested.
+  *        Communicate with you directly, including if you contact us with an inquiry
+  *        Verify your identity and interests in our products and services
+  *        Provide support with our services
+  *        Deliver monthly or event-based newsletters, and product or technical updates
+  *        Allow you to view a limited-access portion of our site
+  *        Evaluate our site and optimize it for the best user experience
+  *        Collect feedback about our marketing activities and product satisfaction
+  *        Secure our applications
+  *        Facilitate our services
+  *        Provide you with customized sales support
+  *        Enforce our legal rights and/or comply with legal requirements
+  *        Meet contractual obligations
 
-**Integrity and Retention of personal information:  **PENTA retains personal information for the period necessary to fulfilll the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
 
-**Matters concerning installation, operation and denial of a device that collects personal information automatically, such as an information file for access to internet (Cookies):** In order to provide customized Services, PENTA uses cookies, which are saved on participants’ personal computers (“PCs”) and retrieved whenever required for any PC-based Services. Cookies are small text files of information sent to a browser by the website operating server, which are then stored on the hard drive of a PC. When visiting a website, cookies are accessed by the server to ensure that preferences are maintained, allowing for increased efficiency. Moreover, cookies give information on analytics as well as what information interests visitors. Through cookies, services are optimized for user needs. Participants and users have an option to enable or disable cookies. Browsers may be configured to accept all cookies, get a prompt before accepting cookies, or disable all cookies. Some Services may not be accessible if cookies are disabled.
 
-**International Users:  **All information provided may be transferred or accessed by entities around the world as described in this Privacy Policy. PENTA abides by the “safe harbor” frameworks set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected by organizations in the European Economic Area and Switzerland.
+### **Information to/from Third Parties:**
 
-**Notification of changes to the Privacy Policy:  **PENTA may update its Privacy Policy from time to time. When the policy is changed in a material way, a notice will be posted on PENTA’s website along with the updated Privacy Policy.
+CLOUDBRIC may make certain personal information available to strategic partners that work with us to provide products, solutions, and services. Personal information will only be shared by CLOUDBRIC to provide or improve upon the company’s products, services, and advertising. However, if you feel so inclined to unsubscribe from Third Party communications, you may contact us in the manner indicated at the end of this privacy policy, or directly through our contact forms.
 
-**Contact Information:  **Users may contact with any questions or concerns regarding the privacy practices via writing or e-mail to the following address.
+Our website may also on occasion link to third parties. This is not an endorsement, authorization, or representation of our affiliation with that third party.
 
-**Penta Security Systems Inc.  
-**20th Fl., 25-11 Yoido-dong, Youngdeungpo-ku, Seoul, Korea (150-949)  
-**Tel.:** +82-2-2125-6617  
-**Attn.:** Penta Security Webmaster  
-**Email:** info@pentasecurity.com
+### **Browsers and Cookies**
 
-#### **Effective Date**
+To provide our customized services and user experience on the website, CLOUDBRIC uses cookies to collect additional website usage data to improve our services. Cookies are small text files of information sent to a browser by a website operating server, and stored on the hard drive of your PC. When you visit a website, cookies are accessed by the server to ensure that your preferences are maintained, allowing for increased efficiency. Cookies also give us information on analytics regarding the interests of visitors.
 
-This Privacy Policy is effective as of September 3rd, 2011.
+Please note that third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to your website. Therefore, we may use your cookies to show you ads on sites across the Internet for remarketing purposes. To opt out of Google’s use of cookies, please visit Google’s [Ads Settings](http://www.google.com/settings/ads).
 
-#### 
+While most browsers allow for cookies, you can also disable cookies through following your browser’s instructions in their settings. Note that some services may not be available if cookies are disabled.
+
+### **Rights of Users in Terms of Personal Information**
+
+Users who have relayed their personal information to CLOUDBRIC may review or change their collected personal information at any time through contacting CLOUDBRIC. They may also request to withdraw consent to CLOUDBRIC and unsubscribe from all services.
+
+Participants are also free to contact CLOUDBRIC’s personal information manager in writing, by phone, or email through the contact information listed below. Once users request to have the information corrected or withdrawn, CLOUDBRIC will not use the information until the request has been fulfilled and personal information has been corrected or removed as requested.
+
+### **Data Retention**
+
+We keep your personal information for as long as necessary for the reasons it was collected. We also keep it to comply with legal obligations, resolve disputes, and enforce agreements.
+
+### **Our Policy Towards Children**
+
+To the best of CLOUDBRIC’s knowledge, we do not focus on or collect information from children under the age of 13. If a parent or guardian becomes aware that his or her child under the age of 13 has provided us with personal information without the consent of the parent or guardian, he or she should contact us at [support@cloudbric.com](mailto:support@cloudbric.com). If we become aware that a child under the age of 13 has provided us with personal information, we will remove such information from our database in a timely manner.
+
+### **How We Secure Your Information**
+
+We’re a security company, so we know that personal information is very important. We prioritize safeguarding your information, and utilize proper security measures to protect your information.
+
+  *        We hold our employees to privacy and confidentiality agreements, training and educating them to understand the importance of your information.
+  *        We safeguard our facilities and servers to make sure that digital or paper trails are kept safe
+  *        We use antivirus software, and web application firewalls to monitor traffic as well as block unnecessary/malicious traffic. We utilize encryption to protect our databases.
+  *        We train our personnel to make sure they’re aware of the importance of web and data security, and keep up-to-date on policies to which we are held accountable.
+
+
+
+### **Changes to the Privacy Policy**
+
+Information is always changing, and so are policies. CLOUDBRIC may update its policy from time to time, and when the policy is changed, we will put up a notice on the website, letting you know.
+
+### **Contact**
+
+Users may contact us at any time. We also provide you with opportunities to opt-out or request for a removal of your personal information. To exercise those rights, feel free to contact us. Also contact us with any questions or concerns regarding the privacy practices via writing or email.
+
+Cloudbric Corporation.  
+16F, 25 Gukjegeumyung-ro 2-gil,  
+Yeongdeungpo-gu, Seoul, Korea 07327
+
+Attn: Cloudbric Webmaster  
+Email: support@cloudbric.com
+
+### **Effective Date / Update:**
+
+This privacy policy was last updated on January 2, 2018.  
+_Note: Adherence to the “safe harbor” frameworks has been removed from this Privacy Policy in 2017 as it is no longer a valid mechanism for complying with EU data protection requirements._
