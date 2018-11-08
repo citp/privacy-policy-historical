@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bark.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190426id_/https%3A//www.bark.com/en/gb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bark.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109002622id_/https%3A//www.bark.com/en/gb/privacy) for the most accurate reproduction.*
 
 # Bark Privacy Policy
 
 * * *
 
-Bark.com is a service provided by Bark.com Global Limited of 2nd Floor, Winchester House, 259 - 269 Old Marylebone Road, London, NW1 5RA, United Kingdom. This Privacy Policy provides our policies and procedures for collecting, using, and disclosing your information. Users can access the Bark.com service (the "Service") through our website www.bark.com, through APIs, and through third-parties. A "Device" is any computer used to access the Bark.com Service, including without limitation a desktop, laptop, mobile phone, tablet, or other consumer electronic device. This Privacy Policy governs your access to the Bark.com Service, regardless of how you access it, and by using our Services you consent to the collection, transfer, processing, storage, disclosure and other uses described in this Privacy Policy. All of the different forms of data, content, and information described below are collectively referred to as "information".
+Bark.com is a service provided by Bark.com Global Limited of 40 Eastbourne Terrace, London, England, W2 6LG, United Kingdom. This Privacy Policy provides our policies and procedures for collecting, using, and disclosing your information. Users can access the Bark.com service (the "Service") through our website www.bark.com, through APIs, and through third-parties. A "Device" is any computer used to access the Bark.com Service, including without limitation a desktop, laptop, mobile phone, tablet, or other consumer electronic device. This Privacy Policy governs your access to the Bark.com Service, regardless of how you access it, and by using our Services you consent to the collection, transfer, processing, storage, disclosure and other uses described in this Privacy Policy. All of the different forms of data, content, and information described below are collectively referred to as "information".
 
 ## 1\. The Information We Collect And Store
 
