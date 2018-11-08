@@ -1,41 +1,181 @@
-> *The following text is extracted and transformed from the amzreviews.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606224629id_/https%3A//www.vipon.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amzreviews.co.uk privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108021527id_/https%3A//www.vipon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-vipon.com ("Vipon") operates vipon.com and may operate other websites. It is vipon.com's policy to respect your privacy regarding any information we may collect while operating our websites.
+This Privacy Policy governs the manner in which Vipon（“we”）collects, uses, maintains and discloses information collected from users (“you”) of vipon.com website (“Site”). This privacy policy applies to the Site，application，all products and services offered by Vipon (collectively “Services”).
 
-### Website Visitors
+We have the discretion to update this privacy policy at any time. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-Like most website operators, Vipon collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. vipon.com's purpose in collecting non-personally identifying information is to better understand how vipon.com's visitors use its website. From time to time, Vipon may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+By accepting Services, you signify your acceptance of this policy. If you do not agree to this policy, please do not accepting our Services. Your continued use of Services following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-Vipon also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on vipon.com blogs/sites. Vipon only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
+* #### What information is being collected？
 
-### Gathering of Personally-Identifying Information
+#### Personal information
 
-Certain visitors to vipon.com's websites choose to interact with Vipon in ways that require Vipon to gather personally-identifying information. The amount and type of information that Vipon gathers depends on the nature of the interaction. For example, we ask visitors who sign up at vipon.com to provide a username and email address. Those who engage in transactions with Vipon are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Vipon collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Vipon. Vipon does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Personal Information means the information that relates to an identified or identifiable individual, which includes but not limited to name, gender, age, telephone number, email address, location, purchase and payment details, IP addresses and cookie identifiers. 
 
-### Aggregated Statistics
+We may collect personal information you from you or other sources in a variety of ways, including, but not limited to, when you visit our site, register on the site, place an order, and in connection with other activities, services, features or resources we make available on our Site or Application
 
-Vipon may collect statistics about the behavior of visitors to its websites. Vipon may display this information publicly or provide it to others. However, Vipon does not disclose personally-identifying information other than as described below.
+We do not collect or otherwise process Personal Information in any case about race or ethnicity, political opinions, religious or philosophical beliefs, trade union membership, physical or mental health, sexual life, any actual or alleged criminal offences or penalties, or any other information that may be deemed to be sensitive under EU General Data Protection Regulation(“GDPR”).
 
-### Protection of Certain Personally-Identifying Information
+#### Non-personal information
 
-Vipon discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on vipon.com's behalf or to provide services available at vipon.com's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using vipon.com's websites, you consent to the transfer of such information to them. Vipon will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Vipon discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Vipon believes in good faith that disclosure is reasonably necessary to protect the property or rights of Vipon, third parties or the public at large. If you are a registered user of an Vipon website and have supplied your email address, Vipon may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Vipon and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Vipon takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information, and is not liable for any damages as a result of unauthorized access.
+We may collect non-personal information about you whenever you interact with our Site. Non-personal information may include the browser name, language preferences, Device type, settings and software used, the type of computer and technical information about your means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-### Cookies
+We may also use device identifiers, cookies, and other technologies on devices, applications and our web pages to collect browsing, usage or other technical information for fraud prevention purposes.
 
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Vipon uses cookies to help Vipon identify and track visitors, their usage of Vipon website, and their website access preferences. Vipon visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using vipon.com's websites, with the drawback that certain features of vipon.com's websites may not function properly without the aid of cookies.
+* #### How is the information collected?
 
-### Business Transfers
+We may collect the information about you in many sources, which include but not limited to the following:
 
-If Vipon, or substantially all of its assets, were acquired, or in the unlikely event that Vipon goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Vipon may continue to use your personal information as set forth in this policy.
+We may obtain your information when you provide it to us across our Services, such as you register for site membership or create an account on any part of the Services; receive promotional information by SMS text message; participate in surveys; perform search queries through the Services; contact us via email, telephone or by any other means; purchase a subscription, software license or product; or when you provide us with your business card, etc.
 
-### Ads
+We may collect your information that you clearly choose to make public, including via social media if you make a public post about us or through our chats, forums or communities on the Services. _Please note that we are not responsible for the information you volunteer about yourself in certain public areas of the Services. You can change your publicly available information at any time via your profile page._
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Vipon and does not cover the use of cookies by any advertisers.
+We may automatically receive and store certain types of information when you use Services, Like many websites, we use “cookies” and other unique identifiers and we obtain certain types of information when your web browser or device accesses Services and other content served by or on behalf of Vipon on other websites or mobile applications.
 
-### Privacy Policy Changes
+We may collect your information from third parties who provide it to us. This may include offline channels such as through telephone or direct mail efforts; from customers, vendors, suppliers, third parties, commercially available or publicly-available sources; third party affiliate network operators; referral sources; social network sites or services. If you use a third party connection or log-in to access the Services, create a membership or profile on any part of the Services, access our content or forward our content to another person, platform or service, we may also receive your username or email address for those third party services or other information available about you or collected from you on those services.
 
-Although most changes are likely to be minor, Vipon may change its Privacy Policy from time to time, and in vipon.com's sole discretion. Vipon encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a vipon.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+* #### For what purposes do we process your personal information?
 
-Start requesting vouchers for promo codes by clicking the **Request Deal** buttons on products you want.
+We process your personal information to operate, provide, and improve the Services that we offer to our customers. These purposes include:
+
+#### – To provide services
+
+We provide the Services to you from Vipon or its partners. We use your personal information to take and handle orders, deliver products and services, and communicate with you about orders, products, services, and promotional offers.
+
+#### – To personalize user experience
+
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site
+
+#### – To improve services
+
+Information you provide helps us respond to your customer service requests and support needs more efficiently. We may use feedback you provide to improve our products and services. We use your personal information to provide functionality, analyze performance, fix errors, and improve usability and effectiveness of Services.
+
+#### – To process payments
+
+We may use personal information you provide when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+
+#### – To run a promotion, contest, survey or other Site feature
+
+To send personal information you agreed to receive about topics we think will be of interest to you.
+
+#### – To send periodic emails
+
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If you decide to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+#### – Comply with legal obligations.
+
+In certain cases, we have a legal obligation to collect and process your personal information.
+
+#### – Communicate with you. 
+
+We use your personal information to communicate with you in relation to Services via different channels (e.g., by phone, email, chat).
+
+#### –Advertising. 
+
+We use your personal information to display interest-based ads to you regarding the Services, upcoming promotions and other information that may be of interest to you, using the contact details that you have provided to us and always in compliance with applicable law. You may unsubscribe from our newsletter lists at any time by following the unsubscribe instructions included in every email we send. You may opt out of any telephone marketing by contacting us at the contact details. You may opt out of SMS messages by setting up the mobile devices. You can also text HELP for assistance, or contact Customer Service. You will not be charged by us for receiving or sending SMS messages.
+
+#### –Fraud Prevention and Credit Risks. 
+
+We process personal information to prevent and detect fraud and abuse in order to protect the security of our customers. We may also use scoring methods to assess and manage credit risks
+
+#### –Purposes for which we seek your consent. 
+
+We may also ask for your consent to process your personal information for a specific purpose that we communicate to you. When you consent to our processing your personal information for a specified purpose, you may withdraw your consent at any time and we will stop processing of your data for that purpose.
+
+* #### Do we Share Your Personal Information?
+
+We always do not sell, rent, or otherwise disclose your personal information to third parties for their marketing and advertising purposes without your consent. We attempt to minimize the amount of personal information we disclose to what is directly relevant and necessary to accomplish the specified purpose. 
+
+We hold your data and do not share it with any third parties other than set out below:
+
+●Business partners
+
+We may share your personal information with our business partners for providing Services for you.
+
+_AMZTRACKER:_ AMZTracker and Vipon are owned by the same company. We may disclose your personal information such as IP Address, age, location, devices to AMZTRACKER for data analysis. If you object to this disclosure, please contact us. 
+
+_Google Analytics and Clicky:_ Our website uses Google Analytics and Clicky to analyze how users interact with the site. This is fairly standard practice amongst websites and we assure you nothing untoward is going on! It helps us keep track of the number of visitors to Latest Deals and spot popular deals and trends. We make every effort not to share any personal identifiable information with Google Analytics and Clicky.
+
+_MailChimp:_ If you subscribe the Vipon newsletter service. We will use a third party service, MailChimp, to manage our newsletter subscriptions and send you emails. In the course of using the service, MailChimp may obtain your email address, IP address, language preferences, Device type, location or other non-personal information. It is well regarded within the industry and they don't share your information with anyone else other than us. If you object to this disclosure to MailChimp, you will be unable to use the service.
+
+_Onesignal:_ If you download our Vipon Application and allow us to send App messages to you , we will use Onesignal, which is also a third party service, to send you the messages. In the course of using the service, Onesignal may obtain your IP address, language preferences, Device type, location or other non-personal information. Like MailChimp, they don't share your information with anyone else other than us. If you object to this disclosure to Onesignal, you can adjust your notification settings in the app or your device.
+
+_Google and Facebook:_ There may be a third-party login interface for Vipon on Google or Facebook, but these third-party login interfaces only give the feedback whether the login is successful, and we do not provide your personal information to these third parties.
+
+_Linkedme:_ If you participate in Referral Program on the Vipon Application, in order to identify which new user is referred by you, we may share the information of you and these new users you refer with Linkedme, such as email address used to register Facebook, IP address, Device type, username, Account avatar.
+
+_Help Scout:_ If you have any question, you ask for our help via Contact Us on the Site. Then we may share your email address and your name with Help Scout, and reply you through Help Scout. 
+
+●Business Transfers
+
+As we continue to develop our business, we might sell or buy other businesses or services. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the customer consents otherwise). Also, in the unlikely event that Vipon ’s owner or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
+
+●Other third parties
+
+Legal and regulatory authorities, upon request, or for the purposes of reporting any actual or suspected breach of applicable law or regulation;
+
+Outside professional advisors (such as accountants, auditors, or lawyers), subject to binding contractual obligations of confidentiality;
+
+Any relevant party, law enforcement agency or court, to the extent necessary for the establishment, exercise or defense of legal rights;
+
+Any relevant party for the purposes of prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including safeguarding against and the prevention of threats to public security;
+
+Other than as set out above, you will receive notice when personal information about you might be shared with third parties and you will have an opportunity to choose not to share the information.
+
+International Transfers of Information: We may transfer your Personal Information to recipients in other countries. Whenever we transfer personal information from the European Economic Area (“EEA”) to a recipient outside the EEA that is not in an adequate jurisdiction, we will ensure that the information is transferred in accordance with this Privacy Policy and as permitted by the applicable laws on data protection.
+
+* #### How long we keep your personal information?
+
+We keep your personal information to enable your continued use of Services, for as long as it is required in order to fulfill the relevant purposes described in this Privacy Policy, or for other essential purposes such as complying with our legal obligations, resolving disputes, and enforcing our policies.
+
+We take every reasonable step to ensure that your personal information is only processed for the minimum period necessary for the purposes set out in this Policy. The criteria for determining the duration for which we will keep your personal information are as follows: we will retain copies of your personal information in a form that permits identification only for as long as is necessary in connection with the purposes set out in this Policy, unless applicable law requires a longer retention period. Unless there is a specific legal requirement for us to keep the information, we plan to retain it for no longer than is necessary to fulfill a legitimate business need.
+
+* #### How secure is information about you?
+
+We have implemented appropriate technical and organizational security measures designed to protect your User Information against accidental or unlawful destruction, loss, alteration, unauthorized disclosure, unauthorized access, and other unlawful or unauthorized forms of processing, in accordance with applicable law. In certain instances we may use Secure Sockets Layer encryption and/or transfer certain User Information in a non-human readable format to provide protection. We follow the Payment Card Industry Data Security Standard when handling credit card data. We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of personal customer information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you.
+
+However, the internet is an open system, the transmission of information via the internet is not completely secure, so we cannot guarantee there will not be a breach, and we are not responsible for any breach of security or for the actions of any third parties. Certainly, we will do our best to implement reasonable measures to protect your information.
+
+When a personal data breach has occurred, we will establish the likelihood and severity of the resulting risk to people’s rights and freedoms. If it’s likely that there will be a risk then we will notify the organization under the applicable law; if it’s unlikely then we don’t have to report it.
+
+* #### Data Accuracy and Data Minimization
+
+We take every reasonable step to ensure that your information that we process is accurate and, where necessary, kept up to date, and any of your information that we process that you inform us is inaccurate (having regard to the purposes for which they are processed) is erased or rectified.
+
+We take every reasonable step to ensure that your information that we process is limited to the information reasonably necessary in connection with the purposes set out in this policy or as required to provide you services or access to the Services.
+
+* #### What choices do you have?
+
+If you have any question or objection as to how we collect and process your personal information, please contact us. Many of our Services also include settings that provide you with options as to how your data are being used.
+
+As discussed above, you can choose not to provide certain information but then you might not be able to take advantage of many of Services.
+
+If you don't want to receive e-mail or other communication from us, please adjust your Customer Communication Preferences. If you don’t want to receive in-app notifications from us, please adjust your notification settings in the app or your device.
+
+If you don't want us to use personal information to display interest-based ads, please adjust your Advertising Preferences.
+
+The Contact Us feature on most browsers and devices will tell you how to prevent your browser or device from accepting new cookies, how to have the browser notify you when you receive a new cookie or how to disable cookies altogether. Because cookies allow you to take advantage of some essential Services, we recommend that you leave them turned on.
+
+If you want to browse our websites anonymously, you may do so by logging out of your account and disabling cookies on your browser.
+
+You will also be able to opt out of certain other types of data processing by updating your settings on the applicable Site, device, or application. Most non-Vipon devices also provide users with the ability to change device permissions (e.g., disable/access location services, contacts). For most devices, these controls are located in the device's settings menu. If you have questions about how to change your device permissions on devices manufactured by third parties, we recommend you contact your mobile service carrier or your device manufacturer as different devices may have different permission settings.
+
+If you are an EU resident, you may have certain rights including: the right to object to provide or process your personal information to us; the right of access to your personal information; the right to request rectification of inaccuracies; the right to request the erasure, or restriction of processing of your Personal Information; the right to have your personal information transferred to another controller; the right to withdraw consent; and the right to lodge complaints with supervisory authorities. But we may require proof of or need to verify your identity before we can give effect to these rights.
+
+* #### Are children allowed to use Vipon Services?
+
+Vipon Europe does not provide Services to children under 16. If you're under 16, you may use Vipon Services only with the involvement of a parent or guardian.
+
+* #### Third party websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+
+* #### Web browser cookies
+
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+* #### Contact Details
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: support@vipon.com 
