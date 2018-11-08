@@ -1,237 +1,506 @@
-> *The following text is extracted and transformed from the explaindio.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314212227id_/http%3A//explaindio.com/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explaindio.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108174549id_/http%3A//explaindio.com/privacy_policy.pdf) for the most accurate reproduction.*
 
-# 
+# PRIVACY POLICY
 
-                                    PRIVACY POLICY
-Your privacy is very important to us. We want to make your experience on the Internet as
-enjoyable and rewarding as possible, and we want you to use the Internet's vast array of
-information, tools, and opportunities with complete confidence.
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and
-security. This Privacy Policy describes how our company Explaindio LLC, hereinafter
-referred to as Company, collects information from all end users of our Internet services
-(the "Services")-those who access some of our Services but do not have accounts
-("Visitors") as well as those who may purchase Products and/or pay a monthly service fee
-to subscribe to the Service ("Members")-what we do with the information we collect, and
-the choices Visitors and Members have concerning the collection and use of such
-information. We request that you read this Privacy Policy carefully. By visiting our
-Company Web site, you are consenting to our policy of collecting and using your data.
-Personal Information Our Company Collects and How It Is Used
-Introduction. Our company collects information in different ways from Visitors and
-Members who access the various parts of our Services and the network of Web sites
-accessible through our Service.
-Registration: Members may be asked to provide certain personal information when they
-sign up for our Products or Services including name, address, telephone number, billing
-information (such as a credit card number), and the type of personal computer being used
-to access the Services. The personal information collected from Members during the
-registration process is used to manage each Member's account (such as for billing
-purposes). This information may be shared with third parties, as stated herein, or in
-special circumstances.
- However, in instances where our company and a partner jointly promote our Services,
-we may provide the partner certain personal information, such as the name, address, and
-username of persons who subscribed to the Services as a result of the joint promotion for
-the purpose of offering you other products and services.
-We may also generate non-identifying and aggregate profiles from personal information
-Members provide during registration (such as the total number, but not the names, of
-Members). As explained in more detail below, we may use this aggregated and non-
-identifying information to sell advertisements that appear on the Services.
-Our Company collects personal information through forms you complete on the site, as
-well as but not limited to contests, sweepstakes, text messages, e-mails, faxes, telephone
-calls, postal mail or other communications with the user, as well as from outside sources
-such as credit card processors and database vendors.
+                                                        PRIVACY POLICY
+Last Modified: May 25th
+CONTENTS
+____________________________________________________________
+CLAUSE
+1.  Important information and who we are....................................................................................................1
+2.  The data we collect about you................................................................................................................2
+3.  How is your personal data collected?.....................................................................................................4
+4.  How we use your personal data............................................................................................................. 4
+5.  Disclosures of your personal data..........................................................................................................7
+6.  International transfers............................................................................................................................. 8
+7.  Data security.......................................................................................................................................... 9
+8.  Data retention......................................................................................................................................... 9
+9.  Your legal rights..................................................................................................................................... 9
+10.    Glossary............................................................................................................................................ 11
 
 
-For example, when you fill out a form subscribing to our emails, we are sent data
-information from our autoresponder company such as your name, email, the website you
-signed up from, geographical data such as your city, state, Postal code, country, Latitude,
-Longitude, Timestamp, Subscription method and IP address.
-Also, with purchases, we supply our member's contact information, to our business
-partners, who then may contact the member by telephone after the member purchase.
-Sales proceeds are collected by the that business partner company. We also may supply
-other companies with contact information, for mail offers we believe would be of interest
-to our members, with or without compensation from those companies. At times we may
-send an advertisement for a third party product, where we collect the sales proceeds, and
-forward the purchaser's information to that third party.
-Our Company Partners and Sponsors: Some products and services may be offered to
-Visitors and Members in conjunction with an affiliate, independent contractor seller or
-non-affiliated partner. To provide Visitors and Members some of these products and
-services, the partner may need to collect and maintain personal information.
-Online Shopping: At some Web sites, you can purchase products and services or register
-to receive materials, such as a newsletter, catalog or new product and service updates. In
-many cases, you may be asked to provide contact information, such as your name,
-address, email address, phone number, and credit/debit card information.
-If you complete an order for someone else, such as an online gift order sent directly to a
-recipient, you may be asked to provide information about the recipient, such as the
-recipient's name, address, and phone number. Our company has no control over the third
-parties' use of any personal information you provide when placing such an order. Please
-exercise care when doing so.
-If you order services or products directly from our company, we use the personal
-information you provide to process that order. We do share this information with outside
-parties that we do business with.
-Online Advertisements: Our company may display our online advertisements. In those
-cases we share information about our Visitors and Members collected through the
-registration process as well as through online surveys and promotions with these
-advertisers.
-Additionally, in some instances, we use this information to deliver tailored
-advertisements or joint ventures. For instance, an advertiser or joint venture company
-tells us the audience they want to reach and provides us an advertisement tailored to the
-audience. Based upon the information we have collected, we may then display or send the
-advertisement to the intended audience. Our company does share personal information
-about its Visitors or Members with these advertisers or joint venture companies.
+Introduction
+Welcome to explaindio LLC’s Privacy Policy.
+Your privacy is very important to us.
+We have created this Privacy Policy to demonstrate our firm commitment to privacy and security.
+This Privacy Policy is provided in a layered format so you can click through to the specific areas set
+out below. [Alternatively you can download a pdf version of the Policy here http://explaindio
+LLC.com/explaindio LLC_privacy_policy.pdf ]. Please also use the Glossary to understand the
+meaning of some of the terms used in this Privacy Policy.
+1. IMPORTANT INFORMATION AND WHO WE ARE
+2. THE INFORMATION WE COLLECT ABOUT YOU
+3. HOW IS YOUR PERSONAL INFORMATION COLLECTED
+4. HOW WE USE YOUR PERSONAL INFORMATION
+5. DISCLOSURES OF YOUR PERSONAL INFORMATION
+6. INTERNATIONAL TRANSFERS
+7. INFORMATION SECURITY
+8. DATA RETENTION
+9. YOUR LEGAL RIGHTS
+1.       10. GLOSSARY]Important information and who we are
+Purpose of this Privacy Policy
+This Privacy Policy aims to give you information on how explaindio LLC collects and processes your
+personal information through your use of the explaindio LLC corporate website at http://explaindio
+LLC.com, its Support website at http://support.explaindio.com/, and their respective subdomains
+(collectively the “Website”), including any information you may provide through the Website when
+you access some of our services without creating an account with us, when you register to open a
+vendor or affiliate account to sell/promote products and/or pay a monthly fee to subscribe to our
+services, when you search our Website, when you register to open a Support account with us, when
+you submit a Support ticket.
+Please note that this website is not intended for persons under 18 years of age. No one under age
+18 may provide any information to or on this Website. We do not knowingly collect personal
+information from individuals under 18. If you are under 18, do not use or provide any information on
+this Website or on or through any of its features, use any of the interactive or public comment
+features of this Website or provide any information about yourself to us, including your name,
+address, telephone number, email address, or any screen name or user name you may use. If we
+learn we have collected or received personal information from a person under 18 without verification
+                                                1
 
 
-By visiting our Company Web site, you are consenting to our policy of collecting and
-using your data. If you do not want to consent to our policy of collecting and using your
-data you can “opt out” of our Social Network and Facebook.com Website Custom
-Audience Ads advertising policy by notifying Company in the following manner:
-Social Network and Facebook.com Website Custom Audience Ads (WCA):
-A Custom Audience on Facebook.com is a list of people our company would like to show
-our ads to on Facebook.com, who have shown interest in our products and services, with
-ads we believe would be of interest to them. This audience consists of people, whose
-information and email addresses our Company already has, because they have already
-subscribed to receiving Company emails.
-If you no longer have an interest in our products and services, you can opt-out of seeing
-Company's Facebook.com Website Custom Audience Ads. Unsubscribing from our
-Company's email list will remove you from Company's internal email database list and
-stop future emails from our Company, but not from being shown Facebook.com Website
-Custom Audience Ads. The Facebook.com Website Custom Audience Ads external
-database, is different from our Company's internal database and requires the following
-Opting-out request.
-Opting-out of Facebook.com Website Custom Audience Ads:
-To opt out of our Company's Facebook.com Custom Audience Ads, send an email, from
-the email address you are opting out, to Company using our email address provided in
-Company's contact information. Put "Opting Out of Facebook.com Website Custom
-Audience Ads " in the subject line of the email. In the body of the email include your
-name and email address. Our Company staff will forward your name and email address to
-Facebook.com with a request to delete you from all of Company's Facebook.com
-Website Custom Audience Ads.
-Google.com Analytics
-Our Company may use Analytics tracking code to support Display Advertising, and
-enable Google Analytics to collect data about your traffic via the DoubleClick cookie in
-addition to data collected through the standard Google Analytics implementation. Display
-Advertising lets us enable features in Analytics that aren't available through standard
-implementations, like Remarketing with Google Analytics, Google Display Network
-Impression Reporting, the DoubleClick Campaign Manager integration, and Google
-Analytics Demographics and Interest Reporting.
-Our Company may use Remarketing with Google Analytics to advertise online:
-This allows third-party vendors, including Google, to show your ads on sites across the
-Internet. Our Company and third-party vendors, including Google, use first-party cookies
-(such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick
+of parental consent, we will delete that information. If you believe we might have any information
+from or about an individual under 18, please contact us here http://support.explaindio.com//.
+It is important that you read this Privacy Policy together with any other privacy notice or fair
+processing notice we may provide on specific occasions when we are collecting or processing
+personal information about you so that you are fully aware of how and why we are using your
+information. This Privacy Policy supplements the other notices and is not intended to override them.
+Controller
+[explaindio LLC Group is made up of different legal entities, details of which can be found here
+http://explaindiollc.com/group.txt . This Privacy Policy is issued on behalf of the explaindio LLC
+Group so when we mention "explaindio LLC", "we", "us" or "our" in this Privacy Policy, we are
+referring to the relevant company in the explaindio LLC Group responsible for processing your
+information.] explaindio LLC, LLC is the controller and responsible for your personal information.
+If you have any questions about this Privacy Policy, including any requests to exercise your legal
+rights, please contact us here http://support.explaindio.com//
+If you are based in the European Union, you also have the right to make a complaint at any time to
+your local supervisory authority for data protection issues. We would, however, appreciate the
+chance to deal with your concerns before you approach the regulator so please contact us at
+http://support.explaindio.com// in the first instance.
+Changes to the Privacy Policy and your duty to inform us of changes
+This version was last updated on May 25th
+                                               2
 
 
-cookie) together to inform, optimize, and serve ads based on someone's past visits to our
-website.
-Our Company may implement Google Display Network Impression Reporting or the
-DoubleClick Campaign Manager:
-Our Company and third-party vendors, including Google, use first-party cookies (such as
-the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie)
-together to report how your ad impressions, other uses of ad services, and interactions
-with these ad impressions and ad services that are related to visits to your site.
-Our Company may implement Google Analytics Demographics and Interest Reporting:
-The data from Google's Interest-based advertising or 3rd-party audience data (such as
-age, gender, and interests) with Google Analytics allows us to serve ads to you based on
-this data.
-Opting-out of Google Analytics' For The Web and Google Analytics for Display
-Advertising:
-Users can opt-out of Google Analytics' currently available opt-outs for the web at
-https://tools.google.com/dlpage/gaoptout/
-Using the Ads Settings, users can opt-out of Google Analytics for Display Advertising
-and customize Google Display Network ads
-athttps://www.google.com/settings/personalinfo
-Retargeting Ad Campaigns and Persistent Identifiers:
-Our Company may utilize various types of advertising that appear on our Company sites
-and services including ads on third party sites and services. Our Company may utilize
-categories of information, including names and email addresses, collected from users on
-our sites and services, as well as third party sites and services, in connection with the ads
-that are served. This advertising may include, but not limited to, contextual advertising,
-cookies, anonymous cookies, pixels, persistent identifiers, geolocation information, email
-opt in, search engine terms, behavioral advertising and/or retargeting advertising.
-This type of advertising is a form of targeted advertising, to the specific individual who is
-visiting the Web site. These advertisements appear on websites or other media, including
-display ads, pop up ads and ads displayed in mobile browsers. Those advertisements are
-selected and served by automated systems based on the interests relevant to the user from
-the content displayed to the user, based on what the user is viewing.
-Our Company does not conduct inquiries into the information collection practices of third
-parties that may collect information from users that leave our Web site. Our Company
+   We reserve the right to change the terms of this Privacy Policy at any time. When we do, we will
+   post the revised Privacy Policy to our Website and the last revision date of revision will be updated
+   so that you will always be able to understand what information we collect, how we use your
+   information, and under what circumstances we may share your information with others. We will
+   notify you of any material changes by way of a pop-up notice on the Website announcing that the
+   Privacy Policy has changed pointing the changes to your attention AND/OR by the way of email
+   AND/OR web app notification.
+   It is important that the personal information we hold about you is accurate and current. Please keep
+   us informed if your personal information changes during your relationship with us.
+   Third-party links
+   This Website may include links to third-party websites, plug-ins and applications. Clicking on those
+   links or enabling those connections may allow third parties to collect or share information about you.
+   We do not control these third-party websites and are not responsible for their privacy statements.
+   When you leave our Website, we encourage you to read the privacy notice of every website you
+   visit.
+   Please note that we also do not control third parties' collection or use of your information to serve
+   interest-based advertising. However these third parties may provide you with ways to choose not to
+   have your information collected or used in this way. If you are based in the United States you can
+   opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the
+   NAI's website at http://optout.networkadvertising.org. If you are based in the European Union you
+   may visit the website of the European Interactive Digital Advertising Alliance (“EIDAA”) at
+   https://www.edaa.eu as well as of the European Advertising Standards Alliance (“EASA”) at
+   http://www.easa-alliance.org.
+   Public Forums
+   Our Website offers publicly accessible blogs or community forums. You should be aware that any
+   information you provide in these areas may be read, collected, and used by others who access
+   them. To request removal of your personal information, if you are EU from our blog or community
+   forum, contact us by posting request on our our helpdesk here http://support.explaindio.com/.
+   Social Media Features
+2. Our Website includes Social Media Features, such as the Facebook Like button. These
+   Features may collect your IP address, which page you are visiting on our site, and may set a
+   cookie to enable the Feature to function properly. Social Media Features are either hosted by
+   a third party or hosted directly on our Website. Your interactions with these Features are
+   governed by the privacy policies of the companies providing them.The data we collect about
+   you
+   Personal data, or personal information, means any information about an individual from which that
+   person can be identified. It does not include data where the identity has been removed (anonymous
+   data).
+   We may collect, use, store and transfer different kinds of personal information about you which we
+   have grouped together follows:
+       Identity Data includes first name, maiden name, last name, username or similar identifier,
+        [marital status], title, date of birth, and gender.
+                                                       3
 
 
-may share customer information with third parties to process orders, for third party
-analytics and for marketing and advertising purposes.
-Responses to Email Inquiries: When Visitors or Members send email inquiries to our
-company, the return email address is used to answer the email inquiry we receive.
-Voluntary Customer Surveys: We may periodically conduct both business and individual
-customer surveys. We encourage our customers to participate in these surveys because
-they provide us with important information that helps us to improve the types of products
-and services we offer and how we provide them to you.
-We may take the information we receive from individuals responding to our Customer
-Surveys and combine (or aggregate) it with the responses of other customers we may
-have, to create broader, generic responses to the survey questions (such as gender, age,
-residence, hobbies, education, employment, industry sector, or other demographic
-information). We then use the aggregated information to improve the quality of our
-services to you, and to develop new services and products. This aggregated, non-
-personally identifying information may be shared with third parties.
-Special Cases: It is our company's policy to use or share the personal information about
-Visitors or Members in ways described herein without additional notice or means to opt
-out except as noted herein, or otherwise prohibit such unrelated uses.
-Also, we may disclose personal information about Visitors or Members, or information
-regarding your use of the Services or Web sites accessible through our Services, for any
-reason if, in our sole discretion, we believe that it is reasonable to do so, including: credit
-agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy
-laws, such as the Electronic Communications Privacy Act, the Child Online Privacy Act,
-regulations, or governmental or legal requests for such information; to disclose
-information that is necessary to identify, contact, or bring legal action against someone
-who may be violating our Acceptable Use Policy or Terms Of Service, or other user
-policies; to operate the Services properly; or to protect our company and our Members.
-Notice to California Residents – Your California Privacy Rights
-Under California Law SB 27, California residents have the right to receive, once a
-year, information about third parties with whom we have shared information about you
-or your family for their marketing purposes during the previous calendar year, and a
-description of the categories of personal information shared. To make such a request,
-please send an email to Company, to the email address provided in our contact
-information and please include the phrase "California Privacy Request" in the subject
-line, the domain name of the Web site you are inquiring about, along with your
-name, address and email address. We will respond to you within thirty days of receiving
+      Contact Data includes billing address, delivery address, email address and telephone numbers.
+      Financial Data includes bank account and payment card details.
+      Transaction Data includes details about payments to and from you and other details of services
+       you have purchased from us.
+      Technical Data includes internet protocol (IP) address, your mobile device’s unique ID number,
+       your login data, browser type and version, time zone setting and location, browser plug-in types
+       and versions, operating system and platform and other technology on the devices you use to
+       access this Website.
+      Profile Data includes your username and password, [photo], purchases or orders made by you,
+       your [location,] interests, preferences, feedback and survey responses.
+      Usage Data includes information about how you use our Website and services, such as the
+       buttons, controls, products and ads you click on, pages of our application or Website that you
+       visit, the time spent on those pages, your search queries, the dates and times of your visits, but
+       also about the webpage you were visiting before you came to our Website [app(s)?] and the
+       webpage[,app(s)?] you go to next.
+      Marketing and Communications Data includes your preferences in receiving marketing from
+       us and our third parties and your communication preferences.
+   We also collect, use and share Aggregated Data such as statistical or demographic data for any
+   purpose. Aggregated Data may be derived from your personal information but is not considered
+   personal information in law as this information does not directly or indirectly reveal your identity. For
+   example, we may aggregate your Usage Data to calculate the percentage of users accessing a
+   specific Website feature. However, if we combine or connect Aggregated Data with your personal
+   information so that it can directly or indirectly identify you, we treat the combined data as personal
+   information which will be used in accordance with this Privacy Policy.
+   We do not collect any Special Categories of Personal Data about you (this includes details about
+   your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions,
+   trade union membership, information about your health and genetic and biometric data). Nor do we
+   collect any information about criminal convictions and offences.
+   If you fail to provide personal information
+3. Where we need to collect personal information by law, or under the terms of a contract we
+   have with you and you fail to provide that information when requested, we may not be able to
+   perform the contract we have or are trying to enter into with you (for example, to provide you
+   with our services). In this case, we may have to cancel a service you have with us but we will
+   notify you if this is the case at the time. How is your personal information collected?
+   We use different methods to collect data from and about you including through:
+      Direct interactions. You may give us your Identity, Contact and Financial Data by filling in
+       forms or by corresponding with us by post, phone, email or otherwise. This includes personal
+       data you provide when you :
+           create an account with us;
+           access some of our services;
+                                                    4
+
+
+       register to open a Support account with us;
+       submit a Support ticket;
+       request marketing to be sent to you;
+       enter a competition, promotion or survey;
+       give us some feedback.
+       Purchase product from vendor/seller on explaindio LLC platfrom
+   Automated technologies or interactions. As you interact with our Website, we may
+    automatically collect Technical Data about your equipment, browsing actions and patterns. We
+    collect this personal data by using cookies, server logs and other similar technologies. [We may
+    also receive Technical Data and Usage Data about you if you visit other websites employing our
+    cookies.] Please see our Cookie Policy http://explaindio LLC.com/cookie_policy.pdf for further
+    details].
+   Third parties or publicly available sources. We may receive personal information about you
+    from various third parties and public sources as set out below :
+       Technical Data from the following parties:
+   (a)   analytics providers such as Google based outside the EU;
+   (b)   advertising networks such as perfectaudience.com based outside] the EU; and
+   (c)   search information providers such as Google and Bing based outside the EU.
+   Contact, Financial and Transaction Data from providers of technical, payment and delivery
+    services [such as PayPal and Stripe based outside the EU.
+   Identity and Contact Data from our partners, data brokers or aggregators BBC Systems inc
+    based outside the EU]=.
+   Identity and Contact Data from publicly availably sources such as Facebook, Twitter, any public
+    websites based outside and inside of the EU.
+4. Facebook Pixel.How we use your personal information
+We will only use your personal information when the law allows us to. Most commonly, we will use
+your personal data in the following circumstances:
+   Where we need to perform the contract we are about to enter into or have entered into with you.
+   Where it is necessary for our legitimate interests (or those of a third party) and your interests
+    and fundamental rights do not override those interests.
+   Where we need to comply with a legal or regulatory obligation.
+                                               5
+
+
+          Generally we do not rely on consent as a legal basis for processing your personal information other
+          than in relation to sending third party direct marketing communications to you via email or text
+          message. You have the right to withdraw consent to marketing at any time by contacting us at
+          http://support.explaindio.com//.
+          Purposes for which we will use your personal information
+          We have set out below, in a table format, a description of all the ways we plan to use your personal
+          information, and which of the legal bases we rely on to do so. We have also identified what our
+          legitimate interests are where appropriate.
+          Note that we may process your personal information for more than one lawful ground depending on
+          the specific purpose for which we are using your information. Please contact us
+          http://support.explaindio.com// if you need details about the specific legal ground we are relying on
+          to process your personal information where more than one ground has been set out in the table
+          below.
+Purpose/Activity                           Type of data              Lawful basis for processing including
+                                                                     basis of legitimate interest
+To register you as a new vendor            (a) Identity              Performance of a contract with you
+or affiliate
+                                           (b) Contact
+To process and deliver your order (a) Identity                       (a) Performance of a contract with you
+including:
+                                           (b) Contact               (b) Necessary for our legitimate interests
+(a) Manage payments, fees and                                        (to recover debts due to us)
+                                           (c) Financial
+charges
+                                           (d) Transaction
+(b) Collect and recover money
+owed to us                                 (e) Marketing and
+                                           Communications
+To manage our relationship with            (a) Identity              (a) Performance of a contract with you
+you which will include:
+                                           (b) Contact               (b) Necessary to comply with a legal
+(a) Notifying you about changes                                      obligation
+                                           (c) Profile
+to our terms or Privacy Policy
+                                                                     (c) Necessary for our legitimate interests
+                                           (d) Marketing and
+(b) Asking you to leave a review                                     (to keep our records updated and to study
+                                           Communications
+or take a survey                                                     how customers use our services)
+To enable you to partake in a              (a) Identity              (a) Performance of a contract with you
+prize draw, competition or
+                                           (b) Contact               (b) Necessary for our legitimate interests
+complete a survey
+                                                                     (to study how customers use our services,
+                                           (c) Profile
+                                                                     to develop them and grow our business)
+                                           (d) Usage
+                                           (e) Marketing and
+                                           Communications
+To administer and protect our              (a) Identity              (a) Necessary for our legitimate interests
+bu s i n e s s a n d t h i s W e b s i t e                           (for running our business, provision of
+                                           (b) Contact
+(including troubleshooting, data                                     administration and IT services, network
+                                                           6
+
+
+analysis, testing, system               (c) Technical            security, to prevent fraud and in the
+maintenance, support, reporting                                  context of a business reorganization or
+and hosting of data)                                             group restructuring exercise)
+                                                                 (b) Necessary to comply with a legal
+                                                                 obligation
+To deliver relevant website             (a) Identity             Necessary for our legitimate interests (to
+content and advertisements to                                    study how customers use our services, to
+                                        (b) Contact
+you and measure or understand                                    develop them, to grow our business and to
+the effectiveness of the                (c) Profile              inform our marketing strategy)
+advertising we serve to you             (d) Usage
+                                        (e) Marketing and
+                                        Communications
+                                        (f) Technical
+To use data analytics to improve (a) Technical                   Necessary for our legitimate interests (to
+our website, services, marketing,                                define types of customers for our services,
+                                        (b) Usage
+cust o m er r el at i on shi ps a nd                             to keep our Website updated and relevant,
+experiences                                                      to develop our business and to inform our
+                                                                 marketing strategy)
+T o m a k e s u g g e s t i o n s a n d (a) Identity             Necessary for our legitimate interests (to
+recommendations to you about                                     develop our services and grow our
+                                        (b) Contact
+services that may be of interest to                              business)
+you                                     (c) Technical
+                                        (d) Usage
+                                        (e) Profile
+        Marketing
+        We strive to provide you with choices regarding certain personal information uses, particularly
+        around marketing and advertising. [We have established [a privacy center where you can view and
+        make          certain          decisions        about    your       personal            data         use
+        https://support.explaindio.com/support/solutions/13000002972      OR t h e f o l l o w i n g p e r s o n a l
+        information control mechanisms]:
+        Promotional offers from us
+        We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we
+        think you may want or need, or what may be of interest to you. This is how we decide which
+        products, services and offers may be relevant for you.
+        You will receive marketing communications from us if you have requested information from us or
+        purchased services from us or if you provided us with your details when you entered a competition
+        or registered for a promotion and, in each case, you have not opted out of receiving that marketing.
+        Third-party marketing
+        We will get your express opt-in consent before we share your personal information with any
+        company outside our company for marketing purposes, including service providers who perform
+                                                        7
+
+
+marketing services on our behalf, such as conducting surveys, sending communications to you on
+our behalf, or serving advertisements to you.
+Opting out
+You can ask us or third parties to stop sending you marketing messages at any time by logging into
+the Website and checking or unchecking relevant boxes to adjust your marketing preferences or by
+following the opt-out links on any marketing message sent to you o] by contacting us
+http://support.explaindio.com//.
+Where you opt out of receiving these marketing messages, this will not apply to personal
+information provided to us as a result of a service purchase, service experience or other
+transactions.
+California residents: Under California Law SB27, California residents have the right to receive,
+once a year, information about third parties with whom we have shared information about you or
+your family for their marketing purposes during the previous calendar year, and a description of the
+categories of personal information shared. To make such a request, please contact us at
+http://support.explaindio.com// send and please include the phrase “California Privacy Request” in
+the subject line of request, and the domain name of the Website you are inquiring about, along with
+your name, postal address, and email address. We will respond to you within 30 days of receiving
 such a request.
-"Cookies" and How Our Company Uses Them. A "cookie" is a small data file that can be
+Do Not Track “DNT” Signals
+While we take all reasonable steps to protect the privacy of our Website visitors, we cannot promise
+that the current limitations of our online applications programming will address every browser setting
+or honor every personal browser preference. In particular, we have not implemented the necessary
+program changes to honor “Do Not Track” or “DNT” browser signals. As our online applications
+programming is refined, we will take all reasonable steps to honor such requests in the future.
+Please return to this Privacy Policy for further updates on this topic.
+Cookies
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set
+or access cookies. If you disable or refuse cookies, please note that some parts of this Website may
+become inaccessible or not function properly. For more information about the cookies we use,
+please see http://explaindio LLC.com/cookie_policy.pdf
+Change of purpose
+We will only use your personal information for the purposes for which we collected it, unless we
+reasonably consider that we need to use it for another reason and that reason is compatible with the
+original purpose. If you wish to get an explanation as to how the processing for the new purpose is
+compatible with the original purpose, please contact us at http://support.explaindio.com//.
+If we need to use your personal information for an unrelated purpose, we will notify you and we will
+explain the legal basis which allows us to do so.
+                                                 8
 
 
-placed on your hard drive when you visit certain Web sites. Our company may use
-cookies to collect, store, and sometimes track information for purposes stated herein as
-well as for statistical purposes to improve the products and services we provide and to
-manage our telecommunications networks.
-Deleting Cookies: If you don't want our Company's cookies on your computer, to be
-used for the purposes stated herein, they are easy to delete. Simply go
-to http://www.aboutcookies.org/Default.aspx?page=2 for instructions.
-Advertisers and partners may also use their own cookies. We do not control use of these
-cookies and expressly disclaim responsibility for information collected through them.
-Our Company Commitment to Children's Privacy: Protecting children's privacy is
-especially important to us. It is our policy to comply with the Children's Online Privacy
-Protection Act of 1998 and all other applicable laws. Therefore we restrict our Web site
-to persons eighteen years or older.
-YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE.
-IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED
-TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE
-RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED
-BY THIS WEB SITE, FALLS WITHIN THE CHILDREN’S ONLINE PRIVACY
-PROTECTION ACT (COPPA) AND IS NOT MONITORED AS DOING SO.
-Public Forums: Please remember that any information you may disclose in any Member
-Directory, or other public areas of our Web sites or the Internet, becomes public
-information. You should exercise caution when deciding to disclose personal information
-in these public areas.
-Our Company's Commitment to Data Security: Services and Web sites we sponsor have
-security measures in place to protect the loss, misuse, and alteration of the information
-under our control. While we make every effort to ensure the integrity and security of our
-network and systems, we cannot guarantee that our security measures will prevent third-
-party "hackers" from illegally obtaining this information.
-Where to Direct Questions About Our Privacy Policy: If you have any questions about
-this Privacy Policy or the practices described herein, you may contact us through the
-contact information provided on this Web site.
-Revisions to This Policy: Our company reserves the right to revise, amend, or modify this
-policy, our Terms Of Service agreement, and our other policies and agreements at any
-time and in any manner, by updating this posting. Your use of this site after such changes
-are implemented constitutes your acknowledgement and acceptance of these changes.
-Please consult this privacy statement prior to every use for any changes.
-Last updated: October 13, 2014
+5. Please note that we may process your personal information without your knowledge or
+   consent, in compliance with the above rules, where this is required or permitted by
+   law.Disclosures of your personal information
+   We may have to share your personal information with the parties set out below for the purposes set
+   out in the table in paragraph 4 above.
+       Internal Third Parties as set out in the [Glossary].
+       External Third Parties as set out in the [Glossary].
+       Third parties to whom we may choose to sell, transfer, or merge parts of our business or our
+        assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change
+        happens to our business, then the new owners may use your personal information in the same
+        way as set out in this Privacy Policy.
+   6.       We require all third parties to respect the security of your personal information and to
+   treat it in accordance with the law. We do not allow our third-party service providers to use
+   your personal information for their own purposes and only permit them to process your
+   per so nal in fo r m at io n f or spe ci fi ed pur po ses a nd i n a ccor d ance wi t h ou r
+   instructions.International transfers
+   We share your personal information within our company. This will involve, if you are based in the
+   European Union, transferring your data outside the European Economic Area (EEA).
+   Many of our external third parties are also based outside the European Economic Area (EEA) so
+   their processing of your personal information will involve a transfer of data outside the EEA.
+   If you are based in the European Union, whenever we transfer your personal information out of the
+   EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the
+   following safeguard is implemented :
+       We will only transfer your personal information to countries that have been deemed to provide
+        an adequate level of protection for personal information by the European Commission.
+        .
+                                                     9
 
 
-Copyright © 2003-2014 Attorney Bob Silber WebsiteLawForms.com and
-                    Licensed To Explaindio LLC
+   7.       Please contact us if you want further information on the specific mechanism used by
+   us when transferring your personal information out of the EEA. Data security
+   We have put in place appropriate security measures to prevent your personal information from
+   being accidentally lost, used or accessed in an unauthorized way, altered or disclosed. In addition,
+   we limit access to your personal information to those employees, agents, contractors and other third
+   parties who have a business need to know. They will only process your personal information on our
+   instructions and they are subject to a duty of confidentiality.
+   We have put in place procedures to deal with any suspected personal data breach and will notify
+   you and any applicable regulator of a breach where we are legally required to do so.
+8. However, you should note that no transfer of data over the Internet is completely secure. While we
+   use reasonable efforts to protect your personal information on our systems, when the information
+   is transferred over the Internet, it may be accessed and used by unauthorized third parties.
+   explaindio LLC has no control over the performance, reliability, availability or security of the
+   Internet and does not warrant that any information transfer via the Internet or any communication
+   through the Internet is secure. explaindio LLC shall not be liable for any disclosure, unauthorized
+   use, loss, damage, expense, harm or inconvenience resulting from the loss, delay, interception,
+   corruption, intervention, misuse or alteration of any personal information due to any reason
+   beyond explaindio LLC’s reasonable control.
+   Data retention
+   How long will you use my personal information for?
+   We will only retain your personal information for as long as necessary to fulfil the purposes we
+   collected it for, including for the purposes of satisfying any legal, accounting, or reporting
+   requirements.
+   To determine the appropriate retention period for personal information, we consider the amount,
+   nature, and sensitivity of the personal information, the potential risk of harm from unauthorized use
+   or disclosure of your personal information, the purposes for which we process your personal
+   information and whether we can achieve those purposes through other means, and the applicable
+   legal requirements.
+   In some circumstances you can ask us to delete your information: see [Request erasure] below for
+   further information.
+   In some circumstances we may anonymize your personal information (so that it can no longer be
+   associated with you) for research or statistical purposes in which case we may use this information
+   indefinitely without further notice to you.
+9. EU residents: Your legal rights
+   Under certain circumstances, you have rights under data protection laws in relation to your personal
+   information. Please click on the links below to find out more about these rights:
+      Request access to your personal information.
+      Request correction of your personal information.
+                                                  10
+
+
+   Request erasure of your personal information].
+   Object to processing of your personal information.
+   Request restriction of processing your personal information.
+   Request transfer of your personal information].
+   Right to withdraw consent.
+   If you wish to exercise any of the rights set out above, please contact us at
+    http://support.explaindio.com//
+No fee usually required
+You will not have to pay a fee to access your personal information (or to exercise any of the other
+rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or
+excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+What we may need from you
+                                              11
+
+
+    We may need to request specific information from you to help us confirm your identity and ensure
+    your right to access your personal information (or to exercise any of your other rights). This is a
+    security measure to ensure that personal information is not disclosed to any person who has no
+    right to receive it. We may also contact you to ask you for further information in relation to your
+    request to speed up our response.
+    Time limit to respond
+10. We try to respond to all legitimate requests within one month. Occasionally it may take us
+    longer than a month if your request is particularly complex or you have made a number of
+    requests. In this case, we will notify you and keep you updated. Glossary
+    LAWFUL BASIS
+    Legitimate Interest means the interest of our business in conducting and managing our business
+    to enable us to give you the best service and the best and most secure experience. We make sure
+    we consider and balance any potential impact on you (both positive and negative) and your rights
+    before we process your personal information for our legitimate interests. We do not use your
+    personal information for activities where our interests are overridden by the impact on you (unless
+    we have your consent or are otherwise required or permitted to by law). You can obtain further
+    information about how we assess our legitimate interests against any potential impact on you in
+    respect of specific activities by contacting http://support.explaindio.com//].
+    Performance of Contract means processing your information where it is necessary for the
+    performance of a contract to which you are a party or to take steps at your request before entering
+    into such a contract.
+    Comply with a legal or regulatory obligation means processing your personal information where
+    it is necessary for compliance with a legal or regulatory obligation that we are subject to.
+    THIRD PARTIES
+    Internal Third Parties
+    Other companies in the explaindio LLC Group acting as joint controllers or processors and who are
+    based US and provide IT and system administration services and undertake leadership reporting.
+    External Third Parties
+        Service providers [acting as processors] based US, Ukraine, India, Romania, Sri Lanka,
+         Belarus, Venezuela, Kosovo, Mexic, Argentina, Philippines who provide IT and system
+         administration services.
+        Social networking sites [acting as processors] based in the United States to which you have
+         linked your account.
+        Professional advisers [acting as processors or joint controllers] including lawyers, bankers,
+         auditors and insurers based US an France who provide consultancy, banking, legal, insurance
+         and accounting services.
+                                                    12
+
+
+EU RESIDENTS: YOUR LEGAL RIGHTS
+You have the right to:
+Request access to your personal information (commonly known as a "data subject access
+request"). This enables you to receive a copy of the personal information we hold about you and to
+check that we are lawfully processing it.
+Request correction of the personal information that we hold about you. This enables you to have
+any incomplete or inaccurate information we hold about you corrected, though we may need to
+verify the accuracy of the new information you provide to us.
+Request erasure of your personal information. This enables you to ask us to delete or remove
+personal information where there is no good reason for us continuing to process it. You also have
+the right to ask us to delete or remove your personal information where you have successfully
+exercised your right to object to processing (see below), where we may have processed your
+information unlawfully or where we are required to erase your personal information to comply with
+local law. Note, however, that we may not always be able to comply with your request of erasure for
+specific legal reasons which will be notified to you, if applicable, at the time of your request.
+Object to processing of your personal information where we are relying on a legitimate interest (or
+those of a third party) and there is something about your particular situation which makes you want
+to object to processing on this ground as you feel it impacts on your fundamental rights and
+freedoms. You also have the right to object where we are processing your personal information for
+direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate
+grounds to process your information which override your rights and freedoms.
+Request restriction of processing of your personal information. This enables you to ask us to
+suspend the processing of your personal information in the following scenarios: (a) if you want us to
+establish the information's accuracy; (b) where our use of the information is unlawful but you do not
+want us to erase it; (c) where you need us to hold the information even if we no longer require it as
+you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your
+information but we need to verify whether we have overriding legitimate grounds to use it.
+Request the transfer of your personal information to you or to a third party. We will provide to you,
+or a third party you have chosen, your personal information in a structured, commonly used,
+machine-readable format. Note that this right only applies to automated information which you
+initially provided consent for us to use or where we used the information to perform a contract with
+you.
+Withdraw consent at any time where we are relying on consent to process your personal
+information. However, this will not affect the lawfulness of any processing carried out before you
+withdraw your consent. If you withdraw your consent, we may not be able to provide certain services
+to you. We will advise you if this is the case at the time you withdraw your consent.
+                                                13
