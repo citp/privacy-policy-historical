@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insanelycheapflights.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508132421id_/http%3A//www.insanelycheapflights.com/travel/ICF/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insanelycheapflights.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108195434id_/http%3A//www.insanelycheapflights.com/travel/ICF/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,6 +13,7 @@
   * Your California and Canadian Privacy Rights
   * Retention Period
   * Use of the Services by Minors
+  * Individuals Located in the European Economic Area
   * Cross-border Transfer
   * Sensitive Information
   * Updates to This Privacy Policy
@@ -167,6 +168,10 @@ We will retain your Personal Information for the period necessary to fulfill the
 use of the Services by MINORS 
 
 The Services are not directed to individuals under the age of eighteen (18), and we request that they not provide Personal Information through the Services. 
+
+INDIVIDUALS LOCATED IN THE EUROPEAN ECONOMIC AREA 
+
+This Website is not directed to or intended for use by individuals located in the European Economic Area ("EEA"). If you are located in the EEA, please make your reservations at our EEA Website located at CheapOair.co.uk. 
 
 CROSS-BORDER TRANSFER 
 
