@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the teamlava.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508215142id_/http%3A//www.storm8.com/notice-of-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamlava.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108072917id_/http%3A//www.storm8.com/notice-of-privacy) for the most accurate reproduction.*
 
 # Storm8 – Notice of Privacy
 
 **NOTICE OF UPDATE TO PRIVACY POLICY**
 
-**In order to provide better service to our users and to increase the level of transparency around our privacy practices, we have made some updates to our policy including changes describing what data are collected through the use of our applications.**
+**If you are an EU resident, the following Privacy Statement (<http://www.storm8.com/notice-of-privacy-eu/>) applies instead of the Privacy Policy below.**
 
-**Should you have any questions regarding these updates, please contact us through[support.storm8.com.](http://support.storm8.com/)**
+_In order to provide better service to our users and to increase the level of transparency around our privacy practices, we have made some updates to our policy including changes describing what data are collected through the use of our applications._
+
+_Should you have any questions regarding these updates, please contact us through[support.storm8.com.](http://support.storm8.com/)_
 
 Last Revised October 28, 2016.
 
