@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeastendcafe.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519202645id_/http%3A//www.theeastendcafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeastendcafe.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108053436id_/http%3A//www.theeastendcafe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ALL ABOUT HOUSE DESIGN
 
@@ -24,7 +24,7 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 ## Contact Information
 
-Concerns or questions about this privacy policy can be directed to admin@http://www.theeastendcafe.com for further clarification.
+Concerns or questions about this privacy policy can be directed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)://www.theeastendcafe.com for further clarification.
 
 
 
