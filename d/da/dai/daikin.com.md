@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daikin.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606030016id_/http%3A//www.daikin.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daikin.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108090316id_/http%3A//www.daikin.com/privacy/index.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Daikin Global
 
@@ -184,7 +184,7 @@ Request for Disclosure etc of Personal Information
 Upon receipt of request from the respective data subject pursuant to our procedures, Daikin will promptly disclose the personal information held by us about the data subject, unless such disclosure may cause major detrimental impact on our operations, and/or unless such disclosure may cause a risk to the life, safety, property or other rights of individual(s) etc.   
 Furthermore, upon receipt of request from the respective data subject pursuant to our procedures in order to revise, add, delete or cease using personal information held by us on him or her, Daikin will promptly investigate the request, and in case the request is reasonable, we will certainly accept the request. 
 
-[Procedures on disclosure etc requests are described here.](https://web.archive.org/web/20180606030016id_/http%3A//www.daikin.com/privacy/disclosure.html)
+[Procedures on disclosure etc requests are described here.](https://web.archive.org/web/20181108090316id_/http%3A//www.daikin.com/privacy/disclosure.html)
 
   1. 7)
 
@@ -217,8 +217,8 @@ With regard to the personal data of the data subject residing in the European Un
 Daikin Group may transfer personal data of European Union residents to countries not recognized by the EU Commission as a country having an adequate level of protection; however, in such case, Daikin and Daikin Group companies will appropriately handle such personal data of EU residents in accordance with the appropriate safeguards set forth in General Data Protection Regulation (e.g. upon conclusion of Standard Contractual Clauses, and other adequatesafeguards).   
 Furthermore, please note that data subjects residing in the European Union may lodge complaints to the supervisory authority with regard to the processing of personal data by Daikin. 
 
-[Procedures of the right to disclosure etc. are described here:](https://web.archive.org/web/20180606030016id_/http%3A//www.daikin.com/privacy/disclosure.html)  
-[Procedures of the right to data portability, the right to object, the right not to be subject to a decision based solely on automated processing, and the right to withdraw consent are described here:（104KB）](https://web.archive.org/web/20180606030016id_/http%3A//www.daikin.com/privacy/pdf/European_Union_Personal_Data_Rights_Request_Form_EN.pdf)
+[Procedures of the right to disclosure etc. are described here:](https://web.archive.org/web/20181108090316id_/http%3A//www.daikin.com/privacy/disclosure.html)  
+[Procedures of the right to data portability, the right to object, the right not to be subject to a decision based solely on automated processing, and the right to withdraw consent are described here:（104KB）](https://web.archive.org/web/20181108090316id_/http%3A//www.daikin.com/privacy/pdf/European_Union_Personal_Data_Rights_Request_Form_EN.pdf)
 
 ## 7\. CONTACTS
 
