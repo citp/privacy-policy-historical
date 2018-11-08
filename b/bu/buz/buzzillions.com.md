@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzillions.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630134443id_/http%3A//www.viewpoints.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzillions.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108042916id_/http%3A//www.viewpoints.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy – Viewpoints.com
 
