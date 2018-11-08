@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tattersalls.com.au privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108183437id_/http%3A//www.tattsgroup.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattersalls.com.au privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108064511id_/http%3A//www.tattsgroup.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tatts Group
 
-Tatts Group’s vision is to be the world’s best gambling group and part of this vision means taking a robust attitude when it comes to handling the personal information in our possession.  This privacy policy sets out how we handle personal information in accordance with the Australian Privacy Principles ( **APPs** ) and is applicable to Tatts Group Limited (ACN 108 686 040) and all of its subsidiaries that conduct business within Australia. In this policy, a reference to Tatts Group is a reference to Tatts Group Limited and all of its subsidiaries.
+Tatts Group, as member of the Tabcorp Group, takes a robust attitude when it comes to handling the personal information in our possession.  This privacy policy sets out how we handle personal information in accordance with the Australian Privacy Principles ( **APPs** ) and is applicable to Tatts Group Limited (ACN 108 686 040) and all of its subsidiaries that conduct business within Australia. In this policy, a reference to Tatts Group is a reference to Tatts Group Limited and all of its subsidiaries.
 
   1. **Collecting Personal Information  
 **We interact with many customers, partners and members of the community on a daily basis and we collect personal information during those interactions.We may collect personal information including your name, contact details, residential address, date of birth, geographic location as well as details of your interactions with us. The type of information that we collect will vary depending on whether you are opening an account, participating in a loyalty program, entering a promotion, self-excluding, applying for employment or to become an agent or engaging with us as a contractor or service provider.We will ordinarily provide you with an explanation as to why we are collecting your personal information at the time that we collect it. Sometimes, we are required by law to collect your personal information, for example, to comply with our obligations under the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_ (Cth) we need to engage in a customer identification and verification process and to comply with some of our responsible gambling commitments we may need to engage in oversight of your gambling activities with us.While there are some circumstances where it will be possible for you to interact with us on an anonymous basis or using a pseudonym, these are rare and we will generally need to know who you are in order to comply with our legal obligations and to assist you.
@@ -23,9 +23,7 @@ We may also store “cookie” information, such as user preferences relating to
   6. **Changes to the Privacy Policy  
 **Tatts Group reserves the right to change this Privacy Policy at any time and to notify you by posting an updated version of the policy on our website, [www.tattsgroup.com](http://www.tattsgroup.com/).
   7. **Resolving your privacy concerns  
-**If you have any issues that you wish to raise with us or you wish to make a complaint regarding our management of your personal information please contact us. We take complaints about privacy concerns seriously and we will work to resolve your complaint and correct any errors on our part. 
-
-Our contact details are as follows:  
+**If you have any issues that you wish to raise with us or you wish to make a complaint regarding our management of your personal information please contact us. We take complaints about privacy concerns seriously and we will work to resolve your complaint and correct any errors on our part.Our contact details are as follows:  
 ****Tatts Group Limited****
 
 Street Address:  
