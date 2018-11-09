@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the littlstar.com privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806043836id_/https%3A//littlstar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlstar.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109035246id_/https%3A//littlstar.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Littlstar - The World Revolves Around You
+
+### Updated Personal Data Collection Information
+
+Littlstar collects the following personally identifiable information: IP address, device ID, and head-tracked orientation. You may opt-in and provide additional information: email, age, birthday, bio, gender, name. You can manage the information you share with Littlstar [here](https://web.archive.org/settings).
+
+Individual user information is never shared with third parties or in a way that exposes a user's identity. The above data is collected, aggregated, anonymized, and presented to content creators to inform them of their audiences' demographics. Additionally, Littlstar uses your personal data to recommend new content, and your aggregated and anonymized personal data improve Littlstar's UX and overall business.
+
+If you have any questions, please contact us at: [legal@littlstar.com](mailto:legal@littlstar.com).
 
 Little Star Media, Inc. (“Little Star Media”, “we”, “us” or “our”) wants you to be familiar with how we collect, use and disclose Personal Information and Non-Personal Information (each as defined below). This Privacy Policy describes our practices in connection with information that we collect through the Services. All capitalized terms used herein without definition will have the same meaning as specified therefor in the Little Star Media [Terms of Service](https://web.archive.org/terms). This Privacy Policy does not address the collection, use or disclosure of information by any third parties.
 
