@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishlinx.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522002220id_/http%3A//englishlinx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishlinx.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109160252id_/http%3A//englishlinx.com/privacy.html) for the most accurate reproduction.*
 
 # Englishlinx.com | Our Privacy Policies at Englishlinx.com
 
@@ -29,6 +29,7 @@ All visitors to this site are required to agree to these terms and conditions. I
 **No Warranties or Representations**  
 These sites are provided by Englishlinx.com on an "as is" basis. Englishlinx.com makes no representations or warranties express or implied, to the information, services, products, and materials included on this site. Englishlinx.com disclaims all warranties, to the full extent permissible by applicable law, express or implied, including but not limited to, implied warranties of merchantability and fitness for a particular purpose. Englishlinx.com will not be liable for any damages arising from the use of this site, including but not limited to direct, indirect, incidental punitive and consequential damages.
 
+  
   
 |   
 |   
