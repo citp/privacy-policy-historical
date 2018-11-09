@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the cuelinks.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510002333id_/https%3A//www.cuelinks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuelinks.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109050005id_/http%3A//www.cuelinks.com/privacy) for the most accurate reproduction.*
 
 # Cuelinks - Privacy Policy
 
-Last Updated August 23rd, 2014
+Last Updated May 24rd, 2018
 
-Privacy Policy 
-
-**Cuelinks Privacy Policy**
+Cuelinks Privacy Policy 
 
 **Commitment**
 
@@ -68,7 +66,7 @@ To pay Publishers the commissions they earn through our service;
 To improve the service we provide to Publishers based on how Publishers use our service and the tools which we provide to them.  
 Once the application is approved by Cuelinks, Cuelinks will provide the Publisher with a unique Java script code (“Code”) to be added to the Publishers’ website in order to enable installation of the Cuelinks Software on your Publication.
 
-**This Code will:**
+ **This Code will:**
 
 Connect the Publisher automatically to all the Merchants in Cuelinks’ network without the Publisher having to individually apply for each such Merchant;  
 Help Cuelinks manage the Publishers’ account and provide detailed insights into the most clicked Merchant link;  
@@ -120,6 +118,10 @@ Cuelinks has implemented technology and security features, as well as strict int
 This Privacy Policy provides a general statement of the ways in which Cuelinks aims to protect the information collected from its Visitors, Publishers and Users. You may, however, in connection with specific products or services, be provided with privacy policies or statements that substitute or supplement this policy. The terms and conditions of this policy may be changed from time to time, without your consent (express or implied) to reflect changes in our practices concerning the collection and use of your Personal Information. The revised policy will be effective immediately upon posting to our web site unless otherwise mentioned. This version of the policy is effective from 17th October, 2013. You shall be bound by the revised Privacy Policy and it is your sole responsibility to check the same from time to time. You acknowledge that no knowledge of the revised Privacy Policy shall not be a defence in any proceedings with regard to the Privacy Policy. 
 
 Cuelinks implements standard measures to protect your information against unauthorized access to and unlawful interception of Personal Information. However, you understand and acknowledge that no internet site can fully eliminate security risks associated with protecting such information. Although access to such information is restricted to authorised employees or agents of Cuelinks, we cannot guarantee the security of any information transmitted on the internet and you agree to do so at your own risk. We however run backups to prevent loss of information, and our Internet servers are housed in secure facilities. 
+
+**Transfer of Information**
+
+Since we operate globally, it may be necessary to transfer your Personal Information to countries outside the European Union. The data protection and other laws of these countries may not be as comprehensive as those in the European Union. We use best efforts to ensure that your Personal Information is protected in accordance with our privacy policy, through contractual means (such as by using the contractual clauses approved by the relevant regulators for data transfer) or other means (such as ensuring that the jurisdiction imposes adequate safeguards for data protection). If you feel that your privacy was treated not in accordance with our policy, or if any person attempted to abuse the Services or acted in an inappropriate manner, please contact us directly at Customer Service. 
 
 **Consent**
 
