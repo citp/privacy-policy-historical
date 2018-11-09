@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emofree.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128180253id_/http%3A//emofree.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emofree.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109174841id_/https%3A//www.emofree.com/privacy.html) for the most accurate reproduction.*
 
 # EFT Website Privacy Policy
 
