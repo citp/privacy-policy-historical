@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voipcheap.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603035237id_/http%3A//www.voipcheap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voipcheap.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109073229id_/https%3A//www.voipcheap.com/privacy) for the most accurate reproduction.*
 
 # VoipCheap | Free voip calls are one step away!
 
@@ -30,7 +30,7 @@ DELLMONT uses your Personal Data for the provision of Services and billing purp
 
 DELLMONT may use your Personal Data to improve their Services.
 
-DELLMONT may use your Personal Data to defect misuse of its system and / or a customer account.
+DELLMONT may use your Personal Data to detect misuse of its system and / or a customer account.
 
 DELLMONT may use the Personal Data to provide you with information relating to your account.
 
