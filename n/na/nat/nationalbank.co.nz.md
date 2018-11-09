@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalbank.co.nz privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131053925id_/https%3A//www.anz.co.nz/auxiliary/help/help/website-security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalbank.co.nz privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109175418id_/http%3A//www.anz.co.nz/auxiliary/help/help/website-security-privacy) for the most accurate reproduction.*
 
 # Website security and privacy statement | ANZ
 
