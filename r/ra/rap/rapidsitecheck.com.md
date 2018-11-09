@@ -1,84 +1,160 @@
-> *The following text is extracted and transformed from the rapidsitecheck.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224022910id_/http%3A//www.rapidsitecheck.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidsitecheck.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109203256id_/https%3A//www.justhost.com/cgi/info/privacy-policy%3Fno_navigation%3D1) for the most accurate reproduction.*
 
-# RapidSiteCheck | Privacy Policy
+# Privacy Policy | Just Host
+
+This Privacy Policy describes the commitment at Just Host ("Just Host") to the privacy of visitors to the Just Host website located at www.Justhost.com and of its customers ("Subscribers"). Except as required by law or as otherwise provided herein, Just Host will take commercially reasonable steps to ensure your right to privacy. Just Host is committed to developing long lasting relationships that are built on trust and would never intentionally violate that trust.
+
+  1. ### Who We Are
+
+Just Host provides cloud-based solutions, including web-hosting, domain name and related products and services, to businesses, individuals, non-profit organizations and others. As part of the The Endurance International Group, Inc. ("Endurance") corporate family, Just Host is able to provide a variety and range of products and services to help Subscribers with their technological needs. To learn more about the Endurance corporate family, visit: [http://www.enduranceinternational.com](http://www.enduranceinternational.com/)
+
+The information that Just Host collects in connection with the Services is hosted on servers located in the United States (U.S.), unless otherwise provided. By using the Services, you freely and expressly give Just Host your consent to export your information and data to the U.S.
+
+  2. ### Information We Collect
+
+    1. ### Subscriber Information.
+
+Subscribers are asked to provide certain personal information when they sign up for Just Host services including name, postal address, email address, telephone number, and billing information (such as a credit card number). In addition, to register a domain name, Subscribers are asked to provide this information for the registrant, administrative contact, technical contact and billing contact of the domain name (collectively, "Domain Name Registration Information"), for submission to the appropriate domain registry or registration database. Subscribers may also be asked to complete an online form that collects information about demographics, product usage and preferences, along with other information that will help us improve our products and services.
+
+    2. ### Social Media.
+
+Just Host's website includes social media features (such as the Facebook "Like" button). These features may collect your IP address and which page you are visiting on our website, and may set a cookie to enable the feature to function properly. Social media features and widgets may be hosted by a third party or directly on Just Host's website. Your interactions with these features are governed by the privacy policy of the company providing the feature.
+
+    3. ### Cookies and Tracking.
+
+Just Host uses different types of cookies (which are electronic collections of information stored on a local computer that are used by websites to keep track of visitors and registered users and to relate one computer transaction to a later one) and other methods of uniquely tracking visitors for different purposes. For example, some cookies are "required cookies" which are necessary for Just Host's website to work. In addition, cookies are used to provide Just Host's existing Subscribers with the opportunity for continued savings and increased convenience as described in more detail below.
+
+      1. ### Cookies for Improving Our Web Site.
+
+Just Host uses "performance cookies" to inform Just Host of a repeat visit. However, these cookies do not tell Just Host who a visitor is, the visitor's name, email address, or passwords.
+
+      2. ### Cookies for Banner Rewards Program.
+
+To offer Just Host Subscribers continued savings, Just Host uses cookies to help monitor the traffic generated from Just Host banners and logo buttons displayed on Just Host Subscribers' websites.
+
+      3. ### Cookies for Subscriber Account Management.
+
+For Just Host Subscribers, Just Host uses "functional cookies" to store user names for added convenience. For example, the cookie would contain a piece of identifying information such as a customer ID, username, or session ID that would be used to look up the customer ID. Just Host offers password-protected, web-based management tools as part of its webhosting packages. By storing a Subscriber's username in a cookie, the Subscriber will not have to fill out form fields each time he or she manages the account. (The cookie does not store passwords.)
+
+      4. ### Cookies for Advertising.
+
+Just Host may also utilize "advertising cookies" to track referrals from internal and external affiliates, as well as advertising campaigns. Just Host may also use a third party service provider to send emails that you have agreed to receive. Pixel tags and cookies may be used in those email messages to help Just Host measure the effectiveness of its advertising and to enable Just Host to provide more focused marketing communications to you.
+
+You may set your web browser to notify you when you receive a cookie or change the settings on your web browser to clear or disable cookies. If you decide not to accept cookies, you may not be able to take advantage of all of the features of Just Host's website. Additionally, please be aware that if you visit third party websites where you are prompted to log in or that are customizable, you may be required to accept cookies. Cookies do not enable third parties to access any of your personal (i.e., contact) information. However, advertisers and partners may also use their own cookies. Just Host does not control use of these cookies and are not responsible for information collected through them.
+
+    4. ### Customer Surveys.
+
+Just Host may periodically conduct customer surveys. Participation in our customer surveys is voluntary. However, we encourage Subscribers to participate in these surveys because they provide Just Host with important information that helps improve the types of services we offer and how we provide them to you. Your personal information, if provided, will remain confidential, even if the survey is conducted by a third party service provider on our behalf.
+
+    5. ### Collection by Linked Websites.
+
+Just Host may provide links to some third party websites as a convenience. Please exercise care when visiting linked websites. The linked websites have separate and independent privacy statements, notices and terms of use which we recommend you read carefully. When you visit or make purchases through these third party sites, you may be asked to provide personal information, such as your name, address, email address, phone number, and credit/debit card information. Please note that in such cases, you are providing information to a third party and Just Host has no control over such third party's use of any information you provide and, therefore, Just Host has no responsibility or liability for the manner in which the third party that operates a linked website may collect, use, disclose, secure or otherwise treat your personal information. Except as provided herein, Just Host will not provide any of your personal information to any third parties without your consent.
+
+  3. ### Use of Information
+
+Just Host uses information it collects primarily to provide and collect payment for its cloud-based solutions and other services. Passively collected information, such as information collected from or about your device including through the placement or reading of cookies or other tracking technologies is used to provide a customized experience as you use Just Host's services.
+
+    1. ### Subscriber Contact/Account Information.
+
+The information collected from Subscribers is used to manage each Subscriber's account (such as for billing and account management purposes) and to promote other products or services that Just Host believes may be of interest to its Subscribers. Just Host may also generate non-identifying and aggregate profiles from information that Subscribers provide during registration (such as the total number of Subscribers in a given category, but not their names). As explained in more detail below, Just Host may in certain instances use this aggregated and non-identifying information to promote advertisements that appear on Just Host's website and in connection with its services. Any such aggregated and non-identifying information that Just Host collects, and any analysis of such information that it produces, is proprietary information of Just Host.
+
+    2. ### Analytics/Statistics.
+
+Just Host uses information gathered from its website analytics (for example, User IP addresses) to help diagnose problems with Just Host servers, and to administer and optimize Just Host's website. Just Host also gathers broad demographic information from this data to help improve its website and make your browsing and purchasing experience more responsive, efficient, or enjoyable. Any statistics gathered by Just Host are proprietary property of Just Host.
+
+    3. ### Responses to Email Inquiries
+
+When Subscribers send email inquiries to Just Host, the return email address (and other personal information provided in the inquiry) is used to answer the email inquiry received.
+
+    4. ### Customer Surveys.
+
+Just Host may use the contact information provided in customer surveys to follow up on survey answers. Just Host may also contact you to highlight the changes Just Host makes in response to your feedback.
+
+  4. ### Sharing of Information
+
+    1. ### Confidentiality.
+
+With the exception of other members of the Endurance corporate family and trusted business partners who work with or on behalf of Just Host, and are subject to specific confidentiality agreements, Just Host will not provide or sell to any third party your personal information and will keep all Subscriber information confidential, subject to the following:
+
+    2. ### Service Providers.
+
+Upon registration for Just Host services, certain Subscriber information may be transferred to trusted affiliated or unaffiliated third parties that help Just Host provide certain services or that provide certain services on Just Host's behalf. For example, Subscriber information may be transferred to Just Host's affiliated registrar, FastDomain (WHOIS Domain Name Registration Information), or to unaffiliated third parties that help Just Host provide email services or SSL certifications.
+
+    3. ### Co-marketing Activities.
+
+Some services are offered or promoted in conjunction with a Just Host partner or sponsor. For example, Just Host may partner with other corporate affiliates of Endurance or with trusted non-affiliated partners for co-promotions of a particular product or service. Just Host may share certain Subscriber contact information but no billing information with Just Host's partner or sponsor in order to provide the relevant services or to run the promotion. If Just Host shares Subscriber information with partners and sponsors, Just Host requires that they maintain the Subscriber information in confidence, and use the information solely for purposes of providing the services or carrying out the agreed upon promotion.
+
+    4. ### Online Advertisements.
+
+Just Host does not share personally identifiable information about individual users with advertisers. Just Host may display online advertisements and share aggregated and non-identifying information about Subscribers collected through the registration process or through online surveys and promotions with certain advertisers. This aggregated and non-identifying information may be used to deliver tailored advertisements. For example, an advertiser may tell Just Host the audience it wants to reach (e.g., males between 25 and 55 years of age) and provide Just Host with an advertisement tailored to that audience. Based upon the aggregated and non-identifying information collected by Just Host, Just Host may then display the advertisement to the intended audience.
+
+    5. ### Customer Surveys.
+
+In addition to sharing survey information with service providers confidentially as described above, Just Host may share aggregated, non-personally identifying information obtained from customer surveys within the Endurance corporate family or with third parties.
+
+    6. ### Legal Reasons.
+
+Just Host may access, preserve and share Subscriber information with companies, organizations, governmental entities or individuals outside of Just Host if we believe, in good faith, that the law requires us to do so. This may include, but is not limited to, responding to subpoenas, court orders or other legal processes (such as law enforcement requests). Just Host may access, preserve and share Subscriber information as necessary to: establish or exercise Just Host's legal rights or defend against any legal claim including threatened claims involving Just Host based on the anonymity of a domain name; investigate, prevent, or take action regarding suspected fraud or other illegal activities; prevent death or serious physical harm to any person; or investigate violations of Just Host's Terms of Service.
+
+    7. ### Domain Registration.
+
+In certain jurisdictions or pursuant to the rules of the Internet Corporation for Assigned Names and Numbers ("ICANN") or certain registries, Domain Name Registration Information has to be made available and accessible to the public through a "WHOIS" search. The WHOIS database is a publicly accessible database that lists the Domain Name Registration Information for a particular domain name, the name server(s) to which the domain name points, and the domain name's creation and expiration date. The Domain Name Registration Information you provide is hosted by Just Host or a third party service provider and is made available to the public through WHOIS searches. Just Host may deposit your Domain Name Registration Information with a third-party escrow provider to comply with ICANN requirements. At times, Subscribers may receive solicitations that result from searches of the publicly available WHOIS database by other companies or individuals. Any such solicitations or SPAM do not come from Just Host and Just Host does not control the use of WHOIS information by third parties.
+
+  5. ### Your Options
+
+    1. ### Public Forums.
+
+Please remember that any information you may disclose or post in forums or other public areas of Just Host's website or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. To request removal of your personal information from Just Host community forums or testimonials, contact Just Host at [tos@justhost.com](mailto:tos@justhost.com). In some cases, Just Host may not be able to remove your personal information, in which case Just Host will let you know why it is unable to do so.
+
+    2. ### Unsubscribe/Opt-out.
+
+When you become a Subscriber of Just Host, you are automatically subscribed to receive transactional notices about your account, email newsletters and news of special promotions offered through Just Host and/or in conjunction with Just Host's partners.
+
+To unsubscribe from Just Host newsletters and promotional mailings, please update your preferences in your Just Host control panel or contact [Just Host support](https://justhost.com/cgi/info/contact_us). You may also unsubscribe through the links provided in promotional email messages sent by Just Host or on Just Host's behalf.
+
+    3. ### How to Access or Modify Your Information.
+
+Just Host allows you to access, update, and correct inaccuracies in your personal information in Just Host's custody and control, subject to certain exceptions prescribed by law. You may request access, updating and corrections of inaccuracies in your personal information Just Host has in its custody or control by accessing the control panel or by contacting support via email, phone or online chat. Just Host may request certain personal information for the purposes of verifying the identity of the individual seeking access to their records.
+
+To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your control panel. Alternatively, you can contact [Just Host support](https://justhost.com/cgi/info/contact_us).
+
+  6. ### Children Under 13
+
+This website is not directed towards children and Just Host does not seek to collect any personal information from children. If Just Host becomes aware that personal information from a child under the age of 13 has been collected, Just Host will use all reasonable efforts to delete such information from its database.
+
+  7. ### Data Security
+
+Encryption. When a Subscriber orders from Just Host, personal data transmissions are encrypted and all of the Subscriber's personal information is protected. Just Host uses Secure Sockets Layer (SSL), the industry standard, for encrypting all personal information, including name, address and credit card numbers.
+
+  8. ### Revisions to this Policy
+
+Just Host reserves the right to revise, amend, or modify this Privacy Policy at any time and in any manner. However, if Just Host plans to materially change how it plans to use previously collected personal information, Just Host will provide you with advance notice prior to the change becoming effective and an opportunity to opt-out of such differing uses. Just Host encourages you to periodically review this page for the latest information on its privacy practices.
+
+  9. ### Contact Us Regarding This Policy
+
+If you have any questions about this Privacy Policy or the practices described herein, you may contact:  
+ATTN: Just Host Legal Department.   
+1500 N Priest Drive   
+Suite 200   
+Tempe, AZ 85281 
+
+Fax: 781-998-8277 or E-mail: legal@justhost.com
+
+  10. ### Applicable to All Reseller Relationships
+
+In addition to all of the terms and conditions set forth above, the following terms apply to Just Host Reseller relationships only.
+
+    1. ### Choice.
+
+If you are a customer of one of Just Host's Resellers and would no longer like to be contacted by such Reseller, please contact the Reseller from whom you purchased products or services.
+
+    2. ### Data Retention.
+
+Just Host retains personal data it processes on behalf of Just Host's Resellers for as long as needed to provide services under the relationship. Just Host will retain and use this personal information as necessary to comply with Just Host's legal obligations, resolve disputes, and to enforce its agreements.
 
 
-    Privacy Policy
-    
-    Introduction
-    
-    Privacy Policy
-    
-    Privacy Policy for RapidSiteCheck.com
-    The privacy of our visitors to RapidSiteCheck.com is important to us.
-    At RapidSiteCheck.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit RapidSiteCheck.com, and how we safeguard your information. We never sell your personal information to third parties.
-    
-    Log Files
-    
-    As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
-    
-    Cookies and Web Beacons
-    
-    We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
-    We also use third party advertisements on RapidSiteCheck.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
-    We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
-    You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
-    
-    RapidSiteCheck.com(collectively, the "Site") respects and protects the privacy of the individuals that use the Site and our Services.
-    The practices of RapidSiteCheck.com with respect to data collected and used in connection with our Site and Services are governed by this online privacy policy ("Privacy Policy"). By accessing our Site and/or using any of our Services, you agree to the terms and conditions of this Privacy Policy and expressly consent to RapidSiteCheck.com' use and disclosure of your personal information in accordance herewith. This Privacy Policy is incorporated into and subject to the terms of the RapidSiteCheck.com Terms Of Service. All capitalized terms not otherwise defined herein are defined in the Terms Of Service.
-    IF YOU DO NOT AGREE TO ALL OF THESE TERMS AND CONDITIONS, THEN DO NOT USE OUR SITE/SERVICES.
-    RapidSiteCheck.com may change this Privacy Policy from time to time at its sole discretion. Such changes shall be effective as noted in our Terms Of Service.
-    
-    Personal Information
-    
-    Before granting you access to certain functions of our Site or Services, you may be required to provide us with personal information such as your email address, your name, company name, address, and credit-card billing information (the "Registration Information" which makes you a "Registered User")
-    Subject to conditions, you will be able to review and change the information you submit to us by accessing your Account and entering the new information yourself.
-    It is your responsibility to always maintain your Registration Information complete, accurate and up-to-date. In addition, RapidSiteCheck.com may require that you confirm your Registration Information or certain parts of your Registration Information at any time for any reason.
-    Subject to conditions in the Terms Of Service and other restrictions, you may deactivate or delete your Account or the information contained therein. Deactivating or deleting your account can be completed in your Account page. In certain circumstances we may refuse or delay deactivation or deletion. Even if an Account is deactivated or deleted, we will still retain all or some of your information for internal use consistent with this Privacy Policy, or in order to prevent fraud, collect fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms Of Service, and comply with legal requirements. Therefore, you should not expect that your information will be completely removed from our databases in response to your requests.
-    Neither our Site nor our Services are designed for or directed to children under the age of 18. If you are under the age of 18, we ask that you do not submit any personal information to us.
-    
-    Our Use of Your Personal Information
-    
-    We use your name and other personal information to identify you as a Registered User in order to give you the full benefits of our Site and Services.
-    For instance, we use your email address to send registration reminders, to notify you of Services or Site updates, and to send news and special offers.
-    We use your credit card or other billing information to obtain payment for membership or other Services you have purchased.
-    We provide you the opportunity to opt-out of having your personally identifiable information used for certain purposes when we ask for this information. By way of example only (and not limitation), if you register for an Account but do not wish to receive any additional marketing material from us, you can generally indicate your preference on the registration form. If you no longer wish to receive news or promotional materials, you may opt-out of receiving them by following the instructions included in each news release or communication.
-    
-    Control of Your Registered User Account
-    
-    Access to your Registered User Account and the Registration Information is generally controlled by user name and password. It is your responsibility to keep your user name and password confidential at all times and you are solely responsible for all activity that occurs in your Account . If you become aware of any unauthorized use of your Account or Registration Information, or any other breach of security, you agree to notify RapidSiteCheck.com immediately.
-    
-    Web Visit Information
-    
-    RapidSiteCheck.com notes and saves information such as time of day, browser type, browser language, and IP address with each visit to our Site. That information is used to verify our records and to provide more relevant services to Users. For example, RapidSiteCheck.com may use your IP address or browser language to determine which language to use when showing search results or advertisements.
-    
-     
-    Cookies
-    
-    Upon your first visit to the Site, RapidSiteCheck.com sends a "cookie" to your computer. A cookie is a piece of data that identifies you as a unique User. RapidSiteCheck.com uses cookies to improve the quality of our service and to better understand our User base. RapidSiteCheck.com does this by storing User preferences in cookies and by tracking User trends and patterns of how people search on our Site. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Be aware, however, that some parts of the Services may not function properly if you refuse cookies.
-    
-    Links to Other Sites
-    
-    The Site may contain advertising and other links to third party websites at which personal information may be collected. You understand that, in such instances, RapidSiteCheck.com has no control over the information you provide and the collection and use of your personal information will be governed by the privacy policy applicable to that site.
-    
-    Sharing of Information with Third Parties
-    
-    RapidSiteCheck.com does not (and will not) sell or rent any of your personal information to third parties for their marketing purposes without your explicit consent. However, the following describes some of the ways that your personal information may be disclosed in the normal course of business as part of Services provided through our Site.
-    Advertisers. We gather up data across numerous Registered User accounts and disclose such information in a non-personally identifiable manner to advertisers and other third parties for their marketing and promotional purposes. For such purposes, we do not disclose any information that we believe could be used to identify Users personally. RapidSiteCheck.com may receive a fee or other benefits for providing such information.
-    Affiliates for Our Operations. We may use third parties ("affiliates") to facilitate or outsource one or more aspects of the Services that we provide to you (e.g., Transfer services related to payments, search technology, advertising provisions, and other services) and therefore we may provide some of your information directly to these affiliates. We may or may not hold an ownership interest in these affiliates. Affiliates are subject to confidentiality agreements with us and other legal restrictions that restrict or prohibit their use of the information we provide them for any other purpose except to facilitate the specific outsourced service, unless you have explicitly agreed or given your prior permission to them for additional uses. In some instances, the affiliate may collect information directly from you. In these cases, we will strive to tell you of the involvement of the affiliate, but what information you provide them will be up to you.
-    
-    Agents and Business Entities. We share some of our data, including personal information about you, with our affiliates, subsidiaries, and joint venturers that are committed to serving your online needs and providing related services throughout the world. For example, we use banking institutions to process all funds transfers related to our Services. These companies do not retain, share, store, or use personally identifiable information for purposes other than as related to their service or as otherwise required by law. To the extent that these entities have access to your information, they have assured us that they will treat it at least as protectively as they treat information they obtain from their other users.
-    Our affiliates, subsidiaries, and joint venturers follow their own privacy practices that may be more or less protective of their users than RapidSiteCheck.com's practices described in this document. RapidSiteCheck.com, its affiliates, subsidiaries, joint venturers, or any combination of such, will share some or all of your information with another business entity should we plan to merge with, or be acquired by, or obtain investment funds from that person or entity.
-    Legal Requests. RapidSiteCheck.com cooperates with law enforcement authorities, as well as with other third parties, to enforce laws, intellectual property rights, and to prevent fraud. Although as noted below, we typically require a subpoena or similar legal document prior to doing so, we do reserve the right, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can, and you authorize us to, disclose your name, city, state, telephone number, email address, login name, access history, IP address, fraud complaints, and site use history, with or without a subpoena.
-    Without restricting our rights to do so as noted above, as a general policy we will not disclose your personal information to law enforcement or other government officials without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to protect our rights or to prevent imminent physical harm, financial loss or to report suspected past, present, or future illegal activity. Further, we can, and you authorize us to, disclose to a third party your information, including your name, street address, city, state, zip code, country, phone number, email, and company name, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity.
-    
-    Security
-    
-    RapidSiteCheck.com follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-    Your information is stored on RapidSiteCheck.com' servers located in the United States and in European Union countries. When you enter sensitive information (such as credit card or bank information) on our registration or order forms, we undertake to encrypt that information using secure socket layer or other similar technology (SSL). We treat data as an asset and strive to protect it from loss and unauthorized access. We employ many different security techniques to protect data from unauthorized access by users whether they are "inside" or "outside" RapidSiteCheck.com. You understand and agree that "perfect security "does not exist on the Internet or with any digital or physical data collection and retention systems.
-    RapidSiteCheck.com personnel are trained appropriately regarding the application of privacy practices and the importance of protecting your information.
-    
-    Contact Information
-    
-    If you have a concern about your privacy, please contact us at http://www.RapidSiteCheck.com/contacUs.php
-        
+
+
+This file was last modified: June 28, 2018.
+
+[Terms Home](https://web.archive.org/terms) [User Agreement](https://web.archive.org/user-agreement) [Acceptable Use Policy](https://web.archive.org/acceptable-use-policy) [HIPAA Disclaimer](https://web.archive.org/acceptable-use-policy#hipaa) [Domain Registration Agreement](https://web.archive.org/domain-registration-agreement) [Anti-Spam Policy](https://web.archive.org/antispam-policy) [Privacy Policy](https://web.archive.org/privacy-policy) [Domain Name Dispute Policy](https://web.archive.org/domain-dispute-policy) [Data Request Policy](https://web.archive.org/data-request-policy) [Copyright Claims Policy](https://web.archive.org/copyright-claims-policy) [Ownership Dispute/Change Policy](https://web.archive.org/ownership-change-policy) [Professional Services Agreements](https://web.archive.org/terms-professional) [Affiliate Agreement](https://web.archive.org/affiliate-terms)
