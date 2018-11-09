@@ -1,209 +1,432 @@
-> *The following text is extracted and transformed from the morilee.com privacy policy that was archived on 2017-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170425053017id_/https%3A//www.morilee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morilee.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109070912id_/https%3A//www.morilee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Morilee
 
-This Privacy Policy covers any personal information that Morilee LLC (“Morilee”) obtains from you when you use services or features on the sites we own and control including, without limitation, www.morilee.com (the “Sites”). We may add additional Sites from time to time as we expand our offerings and this policy will govern those new Sites when added. You may be accessing our Sites from a computer, mobile device, App or by any other means now known or hereafter devised, and this Privacy Policy governs your use of our Sites regardless of the means of access.
+### **Mori Lee Privacy Policy**
 
-We may also interact with you on third party sites where we post content or provide feedback and/or invite you to post content or provide feedback, or enable you to interact on, download from or upload to third party sites, such as www.facebook.com, www.twitter.com, and www.youtube.com (“Third Party Sites”). This Privacy Policy does not cover the privacy policies or practices of any Third Party Sites, or of companies that Morilee does not own or control, or the actions of people that Morilee does not employ or manage. Morilee has no control over, and assumes no responsibility for, the privacy policies or practices of any Third Party Sites. You should check the privacy policies of Third Party Sites when providing personally identifiable information through such Third Party Sites. Our terms of use for the Sites give you more information about how we can interact with you via Third Party Sites.
+We respect the privacy of every person who visits or registers with morilee.com (the “ **Site** ”) and who uses the services that we make available from the Site (our “ **Services** ”) and we are committed to ensuring a safe online experience.
 
-By using the Sites, you agree to the terms of our Privacy Policy. If you do not like the terms of our Privacy Policy, you should not use our Sites. For more information about the terms of use for the Sites, please visit our Terms of Use page.
+### 1\. Purpose of this Policy
 
-Morilee collects information in two ways: (1) information you provide to Morilee and (2) information Morilee receives from your use of our services.
+This privacy policy (“ **Privacy Policy** ”) explains our approach to any personal information that we might collect from you or which we have obtained about you from a third party and the purposes for which we process your personal information. This Privacy Policy also sets out your rights in respect of our processing of your personal information. In particular:
 
-1\. Information you provide to Morilee: Depending on how you use Morilee, we may ask you to share personal information with us. Whether you choose to give Morilee information is completely up to you, but keep in mind that if you withhold information, you may not be able to use some of our services. For example, you may sign up for an account with Morilee. If you do, we may ask for personal information like your name, email address, telephone number or credit card. If you want to take full advantage of any sharing features we offer, we might also ask you to create a publicly visible profile which may include your name and photo.
+_This Privacy Policy will inform you of the nature of the personal information about you that is processed by us and how you can request that we delete, update, transfer it and/or provide you with access to it._
 
-2\. Information Morilee receives from your use of our services: We may collect information about the services that you use and how you use them, like when you visit our Sites and/or view and interact with our advertising and content. This information may include:
+_This Privacy Policy is intended to assist you in making informed decisions when using the Site and our Services. Please take a moment to read and understand it. Please note that it should be read in conjunction with our Website Terms of Use (_<https://www.morilee.com/terms-and-conditions/> _)._
 
-* Device information: We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number). Morilee may associate your device identifiers or phone number with your Morilee account.
-* Log information: When you use our services or view content provided by Morilee, we may automatically collect and store certain information in server logs. This may include: 
+_ _ _Please also note that this Privacy Policy only applies to the use of your personal information obtained by us, it does not apply to your personal information collected during your communications with third parties._
 
-  * details of how you used our services.
-  * Internet protocol address.
-  * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL.
-  * cookies that may uniquely identify your browser or your Morilee account.
+### 2\. Who are we and what do we do?
 
+The Site and our Services are operated by Mori Lee, LLC (“ **we** ”, “ **us** ” or “ **our** ”). We are the data controller responsible for your personal information.
 
-* Information from Other Sources. We may obtain information from third parties and other sources outside of the Service.
-* Location information: When you use a location-enabled Morilee service, we may collect and process information about your actual location, like GPS signals sent by a mobile device. We may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers.
-* Unique application numbers: Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Morilee when you install or uninstall that service or when that service periodically contacts our servers, such as for updates.
-* Local storage: We may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including but not limited to HTML 5) and application data caches.
-* Cookies and anonymous identifiers: We use various technologies to collect and store information when you visit our Sites, and this may include sending one or more cookies or anonymous identifiers to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as advertising services or Morilee features that may appear on other sites.
+  * **How to contact us?**
 
-## When Personal Information is Collected
 
-Morilee may collect information, including some personal information, if you use any of our interactive services, alerts, messages, calendars, profiles, blogs, lists, groups, media, cloud, favorites, wishlist, community forums, ratings, reviews, comments, posts, Q&A, shopping, sales and other services whether currently existing or hereafter devised.
 
-## Public Information
+If you have any questions about this Privacy Policy or want to exercise your rights set out in this Privacy Policy, please contact us by:
 
-Our services may let you share information with others. Please note that if you choose to share information about yourself in an open format, such as through a Third Party Site or in any user-generated content elements of our Sites, we consider that information to be public information – and not personal information. Remember that when you share information publicly, it may be indexable by search engines.
+  * sending an e-mail to _privacy@morilee.com_ ; or
 
-## Your California Privacy Rights
 
-As of January 1, 2005, California Civil Code Section 1798.83 permits visitors to our Sites who are residents of California to request information regarding Morilee’s disclosure of their information to third parties for direct marketing purposes. To make such a request, please send an e-mail to our customer privacy care center at privacy@morilee.com.
+  * writing to us at:
 
-## Special Note to International Users
 
-Our Sites are hosted in the United States (“U.S.”) and are intended primarily for and directed primarily to users in the U.S. If you are a user accessing our Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from U.S. laws, please be advised that (i) your use of our Sites, this Privacy Notice, and the Terms of Use are all governed by U.S. law, (ii) you are transferring your personal information to the U.S., and (iii) you fully consent to that transfer and release Morilee from and against any claims relating thereto. If you are located in a country embargoed by the U.S., or are on the U.S. Treasury Department’s list of Specially Designated Nationals you must not engage in any commercial activities on our Sites.
 
-## How Morilee Protects Your Information
-
-We realize that our users trust us to protect their personal information. We take that task seriously. We maintain physical, electronic and procedural safeguards to protect your personal information. For example, we use industry-standard Secure Sockets Layer (“SSL”) authentication to guarantee the confidentiality of online transactions made on our site. SSL authentication and encryption of the information that you send to us over the Internet help protect your online transaction information from third party interception. All sensitive information and/or systems that house that information (i.e., computers or filing cabinet) have physically restricted access in our offices. Employees are granted access on a need-to-know basis pursuant to specific job function requirements (for example, a billing clerk or a customer service representative). Furthermore, all employees are kept up-to-date on our security and privacy practices through periodic training sessions in an effort to keep security awareness levels high. We make efforts to implement commercially reasonable data security measures on our systems that are designed to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. However, no data transmissions over the Internet can be guaranteed to be secure. As a result, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. We urge you to protect your own privacy. We recommend that you do not share your password with anyone or share your password in an unsolicited phone call or e-mail. Unfortunately, despite all of our efforts, there is always a risk that third parties may unlawfully intercept transmissions. For example, we cannot ensure the security of your data during transmission to us or the security of your data on a smartphone or other mobile device, on your Twitter page, on another computer or through Apps. This reality is true of all Internet or data transmission use. As a result, we cannot ensure the security of any information you transmit, and you transmit all information at your own risk.
-
-## How to Avoid Receiving Newsletters and Other Morilee.com Materials
-
-We may use e-mail addresses to send out newsletters and other announcements with information about our Sites’ new products, offerings and features. When you register, you can choose not to receive these announcements by opting-out of delivery. If you receive an e-mail and want to avoid further messages, look at the end of the e-mail for instructions on how to remove yourself from the mailing list.
-
-## How Morilee Uses Your Personal Information
-
-Morilee may use your personal information in a variety of ways:
-
-  * Morilee collects personal information primarily to make our services more rewarding for you to use.
-  * We use this information for internal purposes, such as studying our users’ preferences. We may also use your information to contact you for account and for promotional and/or advertising purposes.
-  * We may use the information we collect from all of our services to provide, maintain, protect and improve them, to develop new ones, and to protect Morilee and our users. We may also use this information to offer you tailored content – like giving you more relevant search results and/or ads.
-  * We may use the name you provide to Morilee across all of the services we offer that require a Morilee account. In addition, we may replace past names associated with your Morilee account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Morilee profile information, such as your name and photo.
-  * When you contact Morilee, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements.
-  * We use information collected from cookies and other technologies, like pixel tags, to improve your user experience and the overall quality of our services.
-  * We may combine personal information from one service with information, including personal information, from other Morilee services – for example to make it easier to share things with people you know.
-  * We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy.
-  * We may process personal information on our servers in different countries. We may process your personal information on a server located outside the country where you live.
-
-
-
-## Who Views Your Personal Information
-
-We do not share personal information with companies, organizations and individuals outside of Morilee unless one of the following circumstances apply:
-
-Morilee may share your personal information with companies that perform services for us, such as fulfilling orders, delivering packages, sending mail and e-mails, analyzing user data, providing marketing assistance, processing credit card payments, investigating fraudulent activity, conducting user surveys, and providing customer service. Although they may have access to personal information needed to perform their functions, they are prohibited from using or disclosing your personally identifiable information for other purposes.
-
-Some personal information may be stored on servers owned by other companies. In general, only Morilee will have the right to access this information. However, if your Morilee account is managed for you by a domain administrator, then your domain administrator and resellers who provide user support to your organization will have access to your Morilee account information (including your email and other data). Your domain administrator may be able to:
-
-  * view statistics regarding your account, like statistics regarding applications you install.  
-change your account password.
-  * suspend or terminate your account access.
-  * access or retain information stored as part of your account.
-  * receive your account information in order to satisfy applicable law, regulation, legal process or enforceable governmental request.
-  * restrict your ability to delete or edit information or privacy settings.
-
-
-
-Please refer to your domain administrator’s privacy policy for more information.
-
-We may provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
-
-We may share aggregated, non-personally identifiable information publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services. This information will not identify individual users.
-
-Any personal information that you include in a profile or in any content submitted when using our interactive services or through Third Party Sites may be displayed on our Sites, so please consider this before submitting any such content. Please do not submit any information that you don’t want the whole world to know!
-
-Morilee does not currently sell or license personal information. Before selling or licensing your personal information, we will post a notice in this Privacy Policy and on our home page.
-
-We will share personal information with companies, organizations or individuals outside of Morilee if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
-
-  * meet any applicable law, regulation, legal process or enforceable governmental request.
-  * enforce applicable Terms of Use, including investigation of potential violations.
-  * detect, prevent, or otherwise address fraud, security or technical issues.
-  * protect against harm to the rights, property or safety of Morilee, our users or the public as required or permitted by law.
-
-
-
-## Companies That Help Deliver Morilee Products or Services
-
-We may hire companies to help us deliver products or services. In such instances, we may need to share your information with these companies. Sometimes we also work with other companies who assist us in gathering your information in order to enable us and any other businesses of Morilee to provide you with products and services. All of these companies are only allowed to use your information for delivery of the relevant products or services.
-
-## Companies Offering Promotions, Products, or Services
-
-On occasion, Morilee may share your information, unless you elect not to have us do so, with other unrelated outside third parties selected by us, so that these third parties can directly market their products or services via e-mail and/or postal mail.
-
-## Third-Party Advertisers
-
-Once you have clicked on a third-party advertisement and have left our Sites, our Privacy Policy no longer applies. You must read the privacy policy of the advertiser to see how your personal information will be handled on their site.
-
-## Purchase or Sale of Businesses
-
-As Morilee continually strives to improve our business, from time to time, Morilee may purchase a business or sell one or more of its businesses, and personally identifiable information regarding you may be transferred as a part of the purchase or sale. If Morilee purchases a business, the personally identifiable information received with that business would be treated in accordance with the privacy policy of that business on the date of sale. If Morilee and/or its subsidiaries or its assets are ever sold, acquired, merged, liquidated, reorganized, or otherwise transferred, in whole or in part, we reserve the right to transfer our user databases together with any personally identifiable information contained therein, to a third-party. Morilee will make reasonable efforts to include provisions in the operative agreement(s) to require the counterparty(ies) to treat your personally identifiable information in the same manner you requested under this Privacy Policy.
-
-## Content Partners
-
-We may provide content that is created by a third-party partner, sponsor or counterparty web site. In some instances the third-party sites will collect information in order to facilitate transactions or to make the use of their content more productive and efficient. In these circumstances, the information collected is shared between Morilee and our third-party partners, sponsors and/or counterparties. These third parties will receive your information because you will be visiting their web sites or using their links and, in doing so, you may provide information directly to them. You therefore should refer to their privacy policies to understand how they handle your information and what kinds of choices you have.
-
-Morilee may provide you with a link to the supplier of a product or service so that you may obtain further information. If you link to the supplier’s site, the supplier may collect or receive information about you.
-
-You also may make a purchase from Morilee through a link from another web site or search engine and may use their checkout tool to do so. When you do, please be aware that both Morilee and that web site or search engine will receive your information.
-
-## Accessing and Updating Your Personal Information
-
-Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
-
-We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes).
-
-Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
-
-## Mandatory Disclosures Required By Law
-
-Morilee will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to:
-
-  1. Conform to the edicts of the law or comply with legal process served on Morilee,
-  2. Protect and defend the rights or property of Morilee and its Sites, or users of the Sites,
-  3. Identify persons who may be violating the law, our Terms of Use, the rights of third parties, or otherwise misusing Morilee and its Sites,
-  4. Cooperate with the investigations of purported unlawful activities.
-
-
-
-In addition, we may share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Use, or as otherwise required by law.
-
-## Enforcement
-
-When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
-
-## Cookies, Pixel Tags and Tracking
-
-Morilee wants to give you the best possible experience when you visit our Sites. We like to constantly update and improve the features on our Sites, we like to personalize your user experience, and we like to recognize you when you return to our Sites. We have a variety of ways of doing this. We collect information about how you use our Sites by setting and accessing cookies on your computer. A cookie is a small data file that identifies the web browser on a particular computer. No personal information is stored in the cookie itself. When you visit one of our Sites, a cookie will be sent to your browser and then stored on your computer’s hard drive. We use these cookies to track information about how often you visit our Sites, what pages you view, and where you go after you leave our Sites. We also link the visitor ID from your cookie to a user ID in our database to help us analyze web traffic and statistics. Other companies may help us with data research and analysis, but they are prohibited from using or disclosing that data for any other purpose. Cookies may also help us improve your user experience by, among other things, keeping track of your preferences, recognizing you if you are a registered user, and tracking any orders, if applicable. If any of your personal information needs to be accessed during that process, you will have to log in or otherwise authenticate yourself. If you don’t like cookies, you can set your browser to reject cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. For instructions, look at your browser’s Help menu. Note that certain features of our Sites may not be available if you delete or reject cookies.
-
-We may use pixel tags (also called web beacons or “clear” gifs) on our Sites. They can help analyze what users like to do on our Sites and the effectiveness of our features and advertising. They can also help us customize your user experience. We may use information collected through pixel tags or tracked links in combination with your personally identifiable information. We may also combine personally identifiable information you provide to Morilee with other personal information (such as purchase history and demographic information). We may work with other companies to help us track, collect and analyze this information but they are prohibited from using or disclosing this information for any other purpose.
-
-Morilee may also work with advertising partners (like Google, DoubleClick and ad exchanges ) that use cookies, pixel tags and other tracking technologies to serve advertisements on behalf of their retail clients, including Morilee, across the Internet, including to you after you have visited our Sites. These advertising partners engage in remarketing, online behavioral advertising and ad delivery and reporting. With respect to Morilee, these advertising partners may collect anonymous information about your browser as it makes visits to websites across the Internet (including our Sites) and your interaction with our advertising and email communications. This anonymous information may also be used to tailor advertising for you and others elsewhere on the Internet. Morilee will have access to the information collected by these advertising partners and can then use it in combination with personally identifiable information provided by you to Morilee to enhance your experience on our Sites. We will not share that personally identifiable information with these advertising partners. If you would like more information about this practice or would like to know your choices about not having your information used by these companies, please visit: <http://www.networkadvertising.org/managing/opt_out.asp>.
-
-## Making a Purchase
-
-If you purchase something on or through our Sites, you will have to supply a billing address, phone number, shipping address, and credit card information.
-
-## Children Under 13
-
-We are committed to protecting the privacy and rights of children online. We believe that children should be able to use the Internet in a safe, productive, and efficient manner and should be afforded the highest protection available with respect to their personal information. The Children’s Online Privacy Protection Act (“COPPA”) took effect on April 21, 2000 and imposes certain requirements on web sites directed toward children under 13 that collect information on those children, or on web sites that know they are collecting information on children under the age of 13. It is Morilee’s policy not to collect personal information on any person under 13. If you are under the age of 13, you cannot become a registered user of our Sites, or use any service on our Sites that asks for personal information Our Sites are not designed for children. If you register with us and we discover that you are under 13, we will delete your registration. We will send you a message if we do this. This policy is designed to protect children. Federal law requires us to take special steps to safeguard children’s privacy. To learn more about COPPA, consult the Federal Trade Commission’s COPPA web site www.ftc.gov or you may call 202/FTC-HELP.
-
-## Social Commerce and Other Third Parties
-
-We work with trusted third parties, and with application developers who specialize in social commerce so we can connect to your social networks. We provide access to our Sites by third parties and business partners so we can generate interest in products among members of your social networks and allow you to share product interests with friends in your network.
-
-The use of any features made available to you on our Sites by a third party may result in information being collected or shared about you by us or by the third party. Information collected or shared through any such third party features is considered “public information” by us because the Third Party Sites made it publicly available. If you do not want us to be able to access information about you from Third Party Sites, you must instruct Third Party Sites not to share the information. We cannot control how your data is collected, stored, used or shared by Third Party Sites or to whom it is disclosed. Please be sure to review the privacy policies and privacy settings on your social networking sites to make sure you understand the information they are sharing. If you do not want a Third Party Site to share information about you, you must contact that site and determine whether it gives you the opportunity to opt out of sharing such information. Morilee is not responsible for how these Third Party Sites may use information collected from or about you.
-
-## Changes To This Privacy Policy
-
-Morilee will occasionally update this Privacy Policy in response to changing business circumstances and legal developments. If there are material changes to this Policy or in how Morilee uses your personally identifiable information, Morilee will prominently post such changes prior to implementing the change. We will obtain your consent if any changes materially alter the way we use the personally identifiable information we have already collected from you. Morilee encourages you to periodically review this Privacy Policy to be informed of how we are protecting your information. This Policy is current as of Effective Date set forth below.
-
-## Key Terms
-
-The following are some key terms used in this Privacy Policy:
-
-  * Personal information: This is information which you provide to us which personally identifies you, such as your name, email address or billing information, or other data which can be reasonably linked to such information by Morilee.
-  * Morilee account: You may access some of our services by signing up for a Morilee account and providing us with some personal information (typically your name, email address and a password). This account information will be used to authenticate you when you access Morilee services and protect your account from unauthorized access by others. You can edit or terminate your account at any time through your Morilee account settings.
-  * Cookie: A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies.
-  * Anonymous identifier: An anonymous identifier is a random string of characters that is used for the same purposes as a cookie on platforms, including certain mobile devices, where cookie technology is not available.
-  * IP address: Every computer connected to the Internet is assigned a unique number known as an Internet protocol (IP) address. Since these numbers are usually assigned in country-based blocks, an IP address can often be used to identify the country from which a computer is connecting to the Internet.
-  * Server logs: Like most websites, our servers automatically record the page requests made when you visit our Sites. These “server logs” typically include your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
-  * Sensitive personal information: This is a particular category of personal information relating to confidential medical facts, racial or ethnic origins, political or religious beliefs or sexuality.
-  * Non-personally identifiable information: This is information that is recorded about users so that it no longer reflects or references an individually identifiable user.
-  * Pixel tag: A pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking activity on websites, or when emails are opened or accessed, and is often used in combination with cookies.
-
-
-
-## Questions About This Policy
-
-If you have any questions about this Privacy Policy or the content or practices of our Sites, including any questions or concerns about the management or use of personal information, you can contact Mori Lee directly at:
-
-Morilee LLC  
+_Morilee LLC  
 3155 SW 10th Street, Suite 6A1  
 Deerfield Beach, Florida 33442  
-Attention: Privacy Policy Officer  
-Email: privacy@morilee.com
+Attention: Privacy Policy Officer_
 
-**Privacy Policy Effective Date: April 26, 2016**
+  * **What personal information do we collect and how do we use it?**
+
+
+
+Our primary goal in collecting personal information from you is to: (i) verify your identity; (ii) help us improve our products and services and develop and market new products and services; (iii) carry out requests made by you on the Site; (iv) investigate or settle inquiries or disputes; (v) comply with any applicable law, court order, other judicial process, or the requirements of a regulator; (vi) enforce our agreements with you; (vii) protect the rights, property or safety of us or third parties, including our other clients and users of the Site; (viii) provide support for the provision of our Services; and (ix) use as otherwise required or permitted by law. In particular, we use your personal information for the following purposes:
+
+  * **Fulfilment of products and services**
+
+
+
+_We collect and maintain personal information that you voluntarily submit to us during your use of the Site and/or our Services. We use the contact and payment details you have provided to us so that we can fulfil the supply of products and services you have ordered from our Site. This includes your purchase of products, your attendance at events hosted by us or our third party partners, personal shopping appointments, alterations to products and customisations to products, such as engraving and monogramming, processing of returns and refunds and tax free rebates._
+
+_ _ ** _Who do we share your personal information with for this purpose?_**
+
+_We may share your personal information with the following categories of third parties:_
+
+  * **_To verify card payments and process refunds_** _– credit card companies and other payment providers;_
+
+
+  * **_To deliver products_** _and **process returns** – delivery and courier companies;_
+
+
+  * **_Events_** _– any applicable third party hosting the event; ticketing companies such as Eventbrite;_
+
+
+
+**_What is our legal basis?_**
+
+_It is necessary for us to use your personal information to perform our obligations in accordance with any contract that we may have with you._
+
+  * **Client service enquiries**
+
+
+
+_Our Site uses various user interfaces to allow you to request information about our products and services: these include printed and electronic enquiry forms and a telephone enquiry service. Contact information may be requested in each case, together with details of other personal information that is relevant to your enquiry. This information is used in order to enable us to respond to your requests._
+
+**_ _** ** _Who do we share your personal information with for this purpose?_**
+
+_We do not share your personal information for this purpose._
+
+**_What is our legal basis?_**
+
+_It is in our legitimate_ _interest_ _to use your personal information in such a way to ensure that we provide the very best customer service we can to you._
+
+  * **Your feedback about our products and services**
+
+
+
+_From time to we will contact you to invite you to provide feedback about our products and services in the form of online, postal or in-store surveys. We use this information to help us improve the quality of service provided by our staff and in our stores. We also use your feedback to monitor the quality of our products and services and to assist with the selection of future product and service lines._
+
+**_Who do we share your personal information with for these purposes?_**
+
+_We do not share your personal information for this purpose._
+
+**_What is our legal basis?_**
+
+_It is in our_ _legitimate business interests to use the information you provide to us in your feedback for the purposes described above._
+
+  * **Customer insight and analysis**
+
+
+
+_We analyse your contact details with other personal information that we observe about you from your_ _interactions with our Site, our email communications to you and/or with our products and services in our stores, such as the products and services you have purchased or viewed._
+
+_Where you have given your consent (where lawfully required), we use cookies, log files and other technologies to collect personal information from the computer hardware and software you use to access the Sites, or from your mobile. This includes the following:_
+
+  * _an IP_ _address to monitor Sites traffic and volume;_
+
+
+  * _a session ID to track usage statistics on our Sites;_
+
+
+  * _information regarding your personal or professional interests, demographics, buying habits, experiences with our products and contact preferences._
+
+
+  * **Cookie policy**
+
+
+
+_Our web pages and e-mails contain “cookies” “web beacons” or “pixel tags.” (“ **Tags** ”). Tags allow us to track receipt of an e-mail to you, to count users that have visited a web page or opened an e-mail and collect other types of aggregate information. Once you click on an e-mail that contains a Tag, your contact information may subsequently be cross-referenced to the source e-mail and the relevant Tag._
+
+_In some of our e-mail messages, we use a “click-through URL” linked to certain websites administered by us or on our behalf. We may track click-through data to assist in determining interest in particular topics and measure the effectiveness of these communications._
+
+_This information is used to create profiles and insights about your shopping habits and the shopping habits of our other customers. Where we have your consent to do so, we will also use your location data for customer insight purposes.   _
+
+_By using this information, we are able to measure the effectiveness of our content and how visitors use our Sites and our Services. This allows us to learn what pages of our Site are most attractive to our visitors, which parts of our Sites are the most interesting and what kind of offers our registered users like to see._
+
+_We also use this information to help us with the selection of future product and service lines, store and websites design and to remember your shopping preferences such as garment size._
+
+_We also use this information for marketing purposes (see the marketing section below for further details)._
+
+**_Who do we share your personal information with for these purposes?_**
+
+_We may share your personal information with a variety of third party service providers to assist us with customer insight analytics. These providers include those described in our cookie policy._
+
+**_What is our legal basis?_**
+
+_Where your personal information is completely anonymised, we do not require a legal basis to use it as the information will no longer constitute personal information that is regulated under data protection laws. However, our collection and use of such anonymised personal information may be subject to other laws where your consent is required. Please see our cookie policy for further details._
+
+_Where your personal information is not in an anonymous form, it is in our legitimate interest to_ _use your_ _personal_ _information in such a way to ensure that we provide the very best products and services to you and our other customers._
+
+_We will only use your location data for customer insight purposes where we have your consent to do so._
+
+  * **Marketing communications.**
+
+
+
+We carry out the following marketing activities using your personal information _:_
+
+  * **Postal marketing.**
+
+
+
+_We use information that we observe about you from your interactions with our Site, our email communications to you and/or with our products and services (see the Customer_ _Insight_ _and Analysis section above for more details of the information collected and how it is collected) and/or your address details, to send you marketing communications by post._
+
+**_Who do we share your personal information with for these purposes?_**
+
+_We share your personal information with a variety of third party postal providers who assist us in delivering_ _our_ _postal marketing campaigns to you, including the post office._
+
+**_What is our legal basis?_**
+
+_Where_ _your personal information is completely anonymised, we do not require a legal basis to use it as the personal information will no longer constitute personal information that is regulated_ _under_ _data protection laws. However, our collection and use of such anonymised information may be subject to other laws where your consent is required. Please see our cookie policy for further details._
+
+_Where your personal information is not in an anonymous form, such as your postal address, it is in our legitimate interest to_ _use your personal information for postal marketing._
+
+_We will only use_ _your_ _location data where we have your consent to do so._
+
+  * **Email marketing**
+
+
+
+_We use information that we observe about you from your interactions with our Site, our email communications to you and/or_ _with_ _our products and services (see the Customer Insight and Analysis section above for more details of the_ _information_ _collected and how it is collected) and/or your email address, to send you marketing_ _communications_ _by email, where you have consented to receive such marketing communications, or where we have another lawful basis to do so._
+
+**_Who do we share your personal information with for these purposes?_**
+
+_We share your personal information with a variety of third party email marketing providers who assist us in_ _delivering_ _our email marketing campaigns to you._
+
+**_What is our legal basis?_**
+
+_Where your personal information is completely anonymised, we do not require a legal basis to use it as the personal information will no longer constitute personal information that is regulated under data protection laws. However, our collection and use of such anonymised personal information may be subject to other laws where your consent is required. Please see our cookie policy for further details._
+
+_Where your personal information is not in an anonymous form, it is in our legitimate interest to_ _use your_ _personal_ _information for marketing_ _purposes._
+
+_We will only send you marketing communications via email_ _where you have consented to receive such_ _marketing_ _communications, or where we have a lawful right to do so._
+
+  * **Online personalised advertising** _._
+
+
+
+_We use information that we observe about you from your interactions with our Site, our email communications to you and/or with our products [and services in our stores] (see the Customer Insight and Analysis section above for more details of the information_ _collected_ _and how it is collected) to provide you with personalized  online advertising._
+
+**_ _** ** _Who do we share your personal information with for these purposes?_**
+
+_We share your personal information with a variety of third party service providers who assist us with our online personalised advertising campaigns. These providers are described in our cookie policy._
+
+**_What is our legal basis?_**
+
+_Where your personal information is completely anonymised, we do not require a legal basis to use it as_ _the_ _personal information will no longer constitute personal information that_ _is_ _regulated under data protection laws. However, our collection and use of such anonymised personal information may be subject to other laws where your consent is required. Please see our cookie policy for further details._
+
+_Where your personal information is not in an anonymous form, it is in our legitimate interest to_ _use your_ _personal information for marketing_ _purposes._
+
+  * **Social media remarketing**
+
+
+
+_We use information that we observe about you from your interactions with our Sites, our email communications to you and/or with our products and services in our stores (see the Customer Insight and Analysis section above for more details of the information collected and how it is collected) to provide you with personalised advertising on social media channels operated by Facebook and/or Google where you are a registered user of such services._
+
+_We do this using Facebook Customer Audiences and/or Google Customer Match respectively [others?]. Please note that such activity is also subject to the privacy choices you have elected to make on such services._
+
+**_Who do we share your personal information with for these purposes?_**
+
+_We share your email address with third party service providers who assist us with social media remarketing campaigns._
+
+_Your encrypted email address is also shared by us or our third party service providers with Facebook and/or Google under the terms of their Facebook Customer Audiences and/or Google Customer Match services respectively._
+
+**_What is our legal basis?_**
+
+_Where your personal information is completely anonymised, we do not require a legal basis to use it as_ _the_ _personal information will no longer constitute personal information that is regulated under data protection laws. However, our collection and use of such anonymised personal information may be subject to other laws where your consent is required. Please see our cookie policy for further details._
+
+_Where your personal information is not in an anonymous form, it is in our legitimate interest to_ _use your personal information for marketing_ _purposes._
+
+_We will only engage in social media remarketing where you have consented to us [using your email address] [sharing your email address in an encrypted format with Facebook and/or Google respectively] for marketing purposes._
+
+  * **Social media insight**
+
+
+
+_Where you are a registered user of Facebook, or of a Google service, we will use your email address in an encrypted format to enable Facebook and Google to find other registered users of their services that share similar interests to you based on:_
+
+  * _information that we observe about you from your interactions with our Sites, our email communications to you and/or with our products and services in our stores (see the Customer Insight and Analysis section above for more details of the information collected and how it is collected); and_
+
+
+  * _the information Facebook and/or Google hold about you._
+
+
+
+_We do this using Facebook Lookalike Audiences and/or Google Similar Audience respectively. Please note that such activity is subject to the privacy choices you have elected to make on such services._
+
+**_Who do we share your personal information with for these purposes?_**
+
+_We share your email address with third party service providers who assist us with social media remarketing campaigns._
+
+_Your encrypted email address is also shared by us or our third party marketing consultancies with Facebook and/or Google under the terms of their Facebook Customer Audiences and/or Google Customer Match respectively._
+
+**_What is our legal basis?_**
+
+_Where your personal information is completely anonymised, we do not require a legal basis to use it as_ _the_ _personal_ _information will no longer constitute personal information that is regulated under data protection laws. However, our collection and use of such anonymised personal information may be subject to other laws where your consent is required. Please see our cookie policy for further details._
+
+_Where your personal information is not in an anonymous form, it is in our legitimate interest to_ _use_ _your personal information for marketing_ _purposes._
+
+  * **Business administration and legal compliance.**
+
+
+
+_We use your personal information for the following business administration and legal compliance purposes:_
+
+  * _to comply with our legal obligations;_
+
+
+  * _to enforce our legal rights;_
+
+
+  * _protect rights of third parties; and_
+
+
+  * _in connection with a business transition such as a merger, acquisition by another company, or sale of all or a portion of our assets._
+
+
+
+**_Who do we share your personal information with for these purposes?_**
+
+_We will share your personal information with professional advisers such as lawyers and accountants and/or governmental or regulatory authorities._
+
+**_What is our legal basis?_**
+
+_Where we use your personal information in connection with a business transition, enforce our legal rights, or to protect the rights of third parties it is in our legitimate interest to do so. For all other purposes described in this section, it is our legal obligation to use your personal information to comply with any legal obligations imposed upon us such as a court order._
+
+_Where we share your sensitive personal information, we shall obtain your consent to do so._
+
+  * Any other purposes for which we wish to use your personal information that are not listed above, or any other changes we propose to make to the existing purposes will be notified to you using your contact details.
+
+
+  * **How do we obtain your consent?**
+
+
+
+Where our use of your personal information requires your consent, you can provide such consent:
+
+  * at the time we collect your personal information following the instructions provided; or
+
+
+  * by informing us by e-mail or post using the contact details set out in this Privacy
+
+
+  * **Our use of cookies and similar technologies**
+
+
+
+Our Sites use certain cookies, pixels, beacons, log files and other technologies of which you should be aware. Please see our cookie policy to find out more about the cookies we use and how to manage and delete cookies.
+
+  * **Third Party Links and Services**
+
+
+
+Our Sites contain links to third party websites and services. Please remember that when you use a link to go from our Sites to another website or you request a service from a third party, this Privacy Policy no longer applies.
+
+_Your browsing and interaction on any other websites, or your dealings with any other third party service provider, is subject to that website’s or third party service provider’s own rules and policies.   _
+
+_We do not monitor, control, or endorse the privacy practices of any third parties._
+
+_We encourage you to become familiar with the privacy practices of every website you visit or third party service provider that you deal with and to contact them if you have any questions about their respective privacy policies and practices._
+
+_This Privacy Policy applies solely to personal information collected by us through our Service and does not apply to these third party websites and third party service providers._
+
+  * **How long do we keep your personal information for?**
+
+
+
+We keep your personal information for a period of three (3) years from the date of our last interaction with you.
+
+If your information is only useful for a short period e.g. for specific marketing campaigns we may delete it.
+
+  * **Confidentiality and security of your personal information**
+
+
+
+We are committed to keeping the personal information you provide to us secure and we will take reasonable precautions to protect your personal information from loss, misuse or alteration.
+
+_We have implemented information security policies, rules and technical measures to protect the personal information that we have under our control from:_
+
+  * _unauthorised access;_
+
+
+  * _improper use or disclosure;_
+
+
+  * _unauthorised modification; and_
+
+
+  * _unlawful destruction or accidental loss._
+
+
+
+_All of our employees and data processors (i.e. those who process your personal information on our behalf, for the purposes listed above), who have access to, and are associated with the processing of personal information, are obliged to respect the confidentiality of the personal information of all users of our Services._
+
+  * **How to access your information and your other rights?**
+
+
+
+You have the following rights in relation to the personal information we hold about you:
+
+  * **Your right of access**
+
+
+
+_If you ask us, we’ll confirm whether we’re processing your personal information and, if so, provide you with a copy of that personal information (along with certain other details). If you require additional copies, we may need to charge a reasonable fee._
+
+  * **Your right to rectification**
+
+
+
+_If the personal information we hold about you is inaccurate or incomplete, you’re entitled to have it rectified. If we’ve shared your personal information with others, we’ll let them know about the rectification where possible. If you ask us, where possible and lawful to do so, we’ll also tell you who we’ve shared your personal information with so that you can contact them directly._
+
+  * **Your right to erasure**
+
+
+
+_You can ask us to delete or remove your personal information in some circumstances such as where we no longer need it or if you withdraw your consent (where applicable). If we’ve shared your personal information with others, we’ll let them know about the erasure where possible. If you ask us, where it is possible and lawful for us to do so, we’ll also tell you who we’ve shared your personal information with so that you can contact them directly._
+
+  * **Your right to restrict processing**
+
+
+
+_You can ask us to ‘block’ or suppress the processing of your personal information in certain circumstances such as where you contest the accuracy of that personal information or you object to us processing it. It won’t stop us from storing your personal information though. We’ll tell you before we lift any restriction. If we’ve shared your personal information with others, we’ll let them know about the restriction where it is possible for us to do so. If you ask us, where it is possible and lawful for us to do so, we’ll also tell you who we’ve shared your personal information with so that you can contact them directly._
+
+  * **Your right to data portability**
+
+
+
+_With effect from 25 May 2018, you have the right, in certain circumstances, to obtain personal information you’ve provided us with (in a structured, commonly used and machine readable format) and to reuse it elsewhere or to ask us to transfer this to a third party of your choice._
+
+  * **Your right to object**
+
+
+
+You can ask us to stop processing your personal information, and we will do so, if we are:
+
+  * relying on our own or someone else’s legitimate interests to process your personal information, except if we can demonstrate compelling legal grounds for the processing; or
+
+
+  * processing your personal information for direct marketing.
+
+
+  * **Your rights in relation to automated decision-making and profiling**
+
+
+
+_You have the right not to be subject to a decision when it’s based on automatic processing, including profiling, if it produces a legal effect or similarly significantly affects you, unless such profiling is necessary for entering into, or the performance of, a contract between you and us._
+
+  * **Your right to withdraw consent**
+
+
+
+_If we rely on your consent (or explicit consent) as our legal basis for processing your personal information, you have the right to withdraw that consent at any time._
+
+  * **Your right to lodge a complaint with the supervisory authority**
+
+
+
+_If you have a concern about any aspect of our privacy practices, including the way we’ve handled your personal information, you have the right to lodge a complaint with a supervisory authority, in particular in the Member State of your habitual residence, place of work or of an alleged infringement of the General Data Protection Regulation. For the purposes of the UK, the supervisory authority is the Information Commissioner’s Office (ICO), UK Information Commissioner’s Office (ICO). You can find details about how to do this on the ICO website at_[ _https://ico.org.uk/concerns/_](https://ico.org.uk/concerns/) _or by calling their helpline on 0303 123 1113_
+
+  * **Children’s Privacy**
+
+
+
+Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying regulations protect the privacy of children using the internet. We do not knowingly contact or collect information from persons under the age of 18. The website is not intended to solicit information of any kind from persons under the age of 18. It is possible that we could receive information pertaining to persons under the age of 18 by the fraud or deception of a third party. If we are notified of this, as soon as we verify the information, we will, where required by law to do so, immediately obtain the appropriate parental consent to use that information or, if we are unable to obtain such parental consent, we will delete the information from our servers. If you would like to notify us of our receipt of information about persons under the age of 18, please do so by e-mail or post using the contact details set out in this Privacy Policy.
+
+  * **California Do Not Track Disclosures**
+
+
+
+“Do Not Track” is a privacy preference that users can set in their web browsers. When a user turns on a Do Not Track signal in their browser, the browser sends a message to websites requesting that they do not track the user. For information about Do Not Track, please visit [www.allaboutdnt.org](http://www.allaboutdnt.org/). At this time, we do not respond to Do Not Track browser settings or signals. In addition, we use other technology that is standard to the internet, such as pixel tags, web beacons, and other similar technologies, to track visitors to the website. Those tools may be used by us and by third parties to collect information about you and your internet activity, even if you have turned on the Do Not Track signal. For information on how to opt out from tracking technologies used on our website, see our cookies policy.
+
+  * **Changes to this Privacy Policy**
+
+
+
+We may make changes to this Privacy Policy from time to time.
+
+_To ensure that you are always aware of how we use your personal information we  will update this Privacy Policy from time to time to reflect any changes to our use of your personal information. We may also make changes as required to comply with changes in applicable law or regulatory requirements. We will notify you by e-mail of any significant changes. However, we encourage you to review this Privacy Policy periodically to be informed of how we use your personal information._
+
+**Privacy Policy Effective Date: May 25, 2018**
