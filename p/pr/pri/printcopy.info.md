@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printcopy.info privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510081124id_/http%3A//printcopy.info/%3Fl%3Den%26mod%3Dpays) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printcopy.info privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109062310id_/http%3A//printcopy.info/%3Fl%3Den%26mod%3Dpays) for the most accurate reproduction.*
 
 # Printers Copiers Servicing - Reference Manual. Pays, Privacy, Terms, Refunds policy
 
