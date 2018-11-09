@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kiva.org privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910111801id_/https%3A//www.kiva.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiva.org privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109053046id_/https%3A//www.kiva.org/legal/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Kiva
+# Privacy Policy | Kiva
 
 ###  (Last updated 6/1/2016)* 
 
