@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotelab.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613132619id_/http%3A//www.quotelab.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotelab.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109091526id_/https%3A//www.quotelab.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - QuoteLab.com
 
@@ -95,7 +95,11 @@ To the extent the laws of another jurisdiction apply to your data or use of the 
 
 #### Questions and Suggestions
 
-If you have any questions, concerns or suggestions about our Privacy Policy, you may contact us by sending an email to: [info@mediaalpha.com](mailto:info@mediaalpha.com).
+If you have any questions, concerns or suggestions about our Privacy Policy, you may contact us by sending an email to [info@mediaalpha.com](mailto:info@mediaalpha.com) or by mail at: 
+
+MediaAlpha  
+700 S. Flower St., Suite 640  
+Los Angeles, CA 90017
 
 #### Changes to this Privacy Policy
 
