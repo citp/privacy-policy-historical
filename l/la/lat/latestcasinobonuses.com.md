@@ -1,74 +1,76 @@
-> *The following text is extracted and transformed from the latestcasinobonuses.com privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404060452id_/https%3A//latestcasinobonuses.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latestcasinobonuses.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109132106id_/https%3A//lcb.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-About the Privacy Policy
+Privacy Policy
 
-The purpose of this policy is to regulate the way Latest Casino Bonuses manages personal information (personally identifiable and not otherwise publicly available information, including name, address, email address, or phone number) it collects from its users. This applies solely to the information gathered during your use (present and past) of the services and products provided by Latest Casino Bonuses. The policy does not cover the actions of non Latest Casino Bonuses-owned/controlled companies, or people not hired/managed by Latest Casino Bonuses.
+The purpose of this policy is to disclose how Latest Casino Bonuses (LCB) manages the personally identifiable and not otherwise publicly available information collected from its users in accordance with the markets we serve, which includes Europe under the [General Data Protection Regulation (GDPR)](https://www.eugdpr.org/). This applies solely to the information gathered during your use (present and past) of the services and products provided by Latest Casino Bonuses. The policy does not cover the actions of companies not owned or controlled by the LCB Network nor employees outside of our network of sites.
 
-Cookies
-
-Latest Casino Bonuses may set and access its cookies on your computer. We use web beacons to access our cookies in and out of the site, in relation to our products and services. We also let other companies that have ads on our pages set and access their cookies on your machine. However, their use of their cookies is not subject to this privacy policy but theirs, and other companies do not have access to Latest Casino Bonuses’ cookies.
+We will refer to LatestCasinoBonuses.com as “ _Website_ ” while the terms “ _our_ ”, “ _us_ ” and “ _we_ ” also represent LatestCasinoBonuses.com and the [LCB Network](https://lcb.org/network). Use of the term “ _you_ ” refers to any individual registered or visiting this Website.
 
 Collection and Usage of Information
 
-  * \- These are the situations when you may be required to provide personal information to Latest Casino Bonuses: upon registration to Latest Casino Bonuses, when using Latest Casino Bonuses-provided services and products, upon visiting pages at Latest Casino Bonuses or our partners, and also when entering promotions or sweepstakes.
-  * \- Your information may be combined with the one Latest Casino Bonuses acquires from its business partners or other companies.
-  * \- The registration procedure may require the following personal information: name, email address, birth date, gender, address or zip code, occupation, industry, and personal interests.
-  * \- Your transactions with Latest Casino Bonuses and some of our business partners will be acquired.
-  * \- Latest Casino Bonuses’ server logs automatically record information from your browser, such as your IP address, Latest Casino Bonuses cookie information, and your page request.
-  * \- These are the general purposes for which Latest Casino Bonuses may use the information: compliance with your demand for services and products, advertizing and customization of the content presented to you, improvement of our services, contacting you, anonymous reporting for internal and external clients, research purposes.
-  * \- Since we do not have products and services for that age, children under the age of 18 are not to register at Latest Casino Bonuses. Disclosure and Sharing of Information
-  * \- Your personal information will not be shared or sold to other people and companies, except when you’ve requested a product or service from us, with your permission, or when:
+You may be required to provide personal information to us: upon registration, when using our services and products, upon visiting our pages and when entering promotions or sweepstakes.
+
+Your information may be combined with that which we acquire from our business partners or other companies.
+
+The personal information required for registration to this website includes your email address. Optional data you may include in your user profile includes geographical location, birth date and gender. You are responsible for keeping these details current.
+
+Our server automatically records information from your browser, such as your IP address, cookie information, and your page request. We will record the IP address of registered members with every posted message/comment on this website for the purposes of geotargeting. We reserved the right to ban your account from this website in the event of abuse and serious violations of this agreement.
+
+We may use your personal information in compliance with your demand for services and products, advertising and customization of the content presented to you, improvement of our services, as a means to contact you, anonymous reporting for internal and external clients, research purposes.
+
+Google Analytics is used to monitor traffic on this website as well as related tools for marketing research and demographics. For more information on how Google Analytics may process your data and how you can opt-out, see [Google’s Privacy Policy](https://policies.google.com/privacy).
+
+Children under the age of 18 are NOT permitted to register at this Website.
+
+Disclosure and Sharing of Information
+
+Your personal information will not be shared with any 3rd parties unless you’ve requested a product or service from us or:
+
+  1. We are required to provide the information to the partners who either have a confidentiality agreement with us or work on our behalf. Your personal information may be used by these companies to help us convey offers from us and our marketing partners to you, but they have no right to share this information independently;
+  2. In response to court orders, subpoenas and legal processes;
+  3. In the event of an investigation, prevention, combating illegal activities, potential threats to the physical safety of any person, suspected fraud, violations of our Terms and Conditions, or as otherwise required by law;
+  4. In case of an acquisition or merger, in which case you will be notified before your personal information is transferred and becomes subject to a new privacy policy;
+  5. You view or interact with a personal information-based targeted ad, displayed by us, as in that case you are consenting to the possibility that the advertiser may assume that you meet the target criteria used to present the ad. Still, we do not provide any personal information to the advertiser. Advertisers cover a number of industries, including casinos, merchants and travel services.
 
 
-  1. 1\. Latest Casino Bonuses needs to provide the information to the partners who either have a confidentiality agreement with us or work on our behalf. Your personal information may be used by these companies to help us convey offers from us and our marketing partners to you, but they have no right to share this information independently.
-  2. 2\. Latest Casino Bonuses is required to answer to court orders, subpoenas, legal processes, when it needs to defend itself against legal claims, or exercise its legal rights;
-  3. 3\. Latest Casino Bonuses finds it necessary to share information for the purposes of investigation, prevention, or taking certain action regarding illegal activities, potential threats to the physical safety of any person, suspected fraud, violations of our terms of use, or as otherwise required by law.
-  4. 4\. Latest Casino Bonuses transfers information in case of the company’s acquisition or merger with another company, in which case you will be notified before your personal information gets transferred and becomes subject to a different privacy policy.
-  5. 5\. You view or interact with a personal information-based targeted ad, displayed by Latest Casino Bonuses, as in that case you are consenting to the possibility that the advertiser may assume that you meet the target criteria used to present the ad. Still, Latest Casino Bonuses does not provide any personal information to the advertiser. Advertisers cover a number of industries, including casinos, stores and travel services.
 
+Cookies
 
+We may set and access its cookies on your computer. Cookies are information generated by a website and stored on your access device (i.e. computer, smartphone or tablet) by your web browser. We use cookies to recognize your activity and preferences while navigating our site. The majority of browsers automatically accept cookies; however, users may manage cookies in browser settings without compromising the ability to browse the Website. We may also use cookies to identify clicks on affiliate links throughout this website and via promotional emails. Third party cookies are not subject to this privacy policy.
 
-About Preferences and Editing/Deleting Your Account Info
-
-It is permitted to edit Latest Casino Bonuses Account Info at all times. This also applies to your communications preferences. From time to time, you are enabled to amend your current categories of communications preferences with new ones. Future communications from the new categories can be cancelled either by visiting the page or by following ‘unsubscribe’ instructions from the messages you receive. However, you cannot choose to unsubscribe from receiving certain communications from Latest Casino Bonuses, including service announcements and administrative messages, as they are a part of your membership in Latest Casino Bonuses. You are able to file a request for account deactivation or closure at all times, and your deactivated/deleted account info may be kept in our information archives.
+It is permitted to edit your account details at all times including your communication preferences. Registered members may unsubscribe or amend promotional communication preferences directly from your profile settings or by following ‘ _unsubscribe_ ’ instructions from email messages you receive. You cannot unsubscribe from receiving certain notifications from us, such as service announcements and administrative messages, as they are a part of your membership. You may request the closure or deactivation of your account at any time. We may also securely delete your personal information per your request.
 
 Security and Confidentiality Policy
 
-Personal information can be accessed only by the staff members who we assess have the need to be able to access it in order to be perform their duties and/or provide you with services and products. Latest Casino Bonuses ensures you that your personal information is protected by physical, electronic, and procedural safeguards, which are in line with federal regulations. Latest Casino Bonuses also applies SSL encryption for data transmissions protection in certain areas. There is password protection for your Latest Casino Bonuses Account Information. Privacy Policy Updates and Changes
+Access to your personal information is limited to our staff members requiring access in order to perform job-related duties and/or provide you with services and products. We ensure that your personal information is password protected and safeguarded with physical, electronic, and procedural measures, which are in line with standard laws and regulations. We also use SSL encryption for data transmission protection in certain areas.
 
-This policy is subject to change and update. In case of any important/major changes in regards to personal information treatment, you will be notified by an email, which will be sent to the email address you provided in your account and/or by a notice displayed on our site.
+Privacy Policy Updates and Changes
+
+We may make changes to this Privacy Policy. In the event of significant updates directly related to the handling of your personal information, you will be notified via your registered email address and/or a notice displayed on our site.
 
 Inquiries and Comments
 
-For all inquiries, comments, suggestions, you can contact us here.
+For all inquiries, comments, suggestions, or to request the removal of your information from Website, please contact us [here](https://lcb.org/contact).
 
 ## Most viewed forum topics
 
-  * [](https://web.archive.org/users/61613)
+  * www.pokernox.com 25€ No Deposit Bonus Register,send a copy of your valid ID ( Passport, ID Card ) Maximum winnings - 100€ /100$ / SEK 1000 / CHF 100Wagering Requirement - 50x.      Restricted Countries: Algeria,...
 
-You've made a deposit and gone straight away to one of your favorite games. Sadly, your bankroll has dwindled down to a zero balance.  There is nothing left to do but close the virtual  window on another Jackpot dream...
+[PokerNox no deposit ](https://lcb.org/onlinecasinobonusforum/no-deposit-casinos/pokernox-no-deposit)
 
-[Penny for your thoughts...](https://latestcasinobonuses.com/onlinecasinobonusforum/casinos/penny-for-your-thoughts)
+  * [](https://web.archive.org/users/67601)
 
-  * [](https://web.archive.org/users/4822)
+EVOBET.com offers a 20€ no deposit casino bonus for all new players. Just register your account and ask for the bonus in livechat. Have fun! \------WILL
 
-Hello,  I have waiting 4 weeks for a 600.00 payout i requested and it was declined for unknown reasons.I have had no problems till now and i really need this winnings.My car died and has been fixed but im short...
+[EVOBET No Deposit](https://lcb.org/onlinecasinobonusforum/no-deposit-casinos/evobet-no-deposit-bonus)
 
-[Raging bull no pay](https://latestcasinobonuses.com/onlinecasinobonusforum/player-complaints/raging-bull-no-pay)
+  * [](https://web.archive.org/users/109756)
 
-  * [](https://web.archive.org/users/78974)
+Get German Players the 10 free games on Quickspin too?? Cause i dont find or get them. But get the E-mail. Nice greetz 
 
-Treasure Mile - Exclusive $64 no deposit bonus Amount: $64 free bonus How to claim the bonus: New players need to sign up through our LINK and enter the bonus code SPIN16TM. Existing players need to use a bonus...
-
-[Treasure Mile and sister brands Spin16 no deposit](https://latestcasinobonuses.com/onlinecasinobonusforum/exclusive-no-deposit-casino-bonuses/treasure-mile-and-sister-brands-spin16-no-deposit)
+[PokerNox discussion](https://lcb.org/onlinecasinobonusforum/casinos/re-pokernox-no-deposit)
 
 
 
-
-### Join today and start earning rewards
-
-You will immediately get full access to our online casino forum/chat plus receive our newsletter with news & exclusive bonuses every month.
-
-### Join instantly with your social account
