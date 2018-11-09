@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencetimes.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510165007id_/http%3A//www.sciencetimes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencetimes.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109040215id_/http%3A//sciencetimes.com/privacypolicy) for the most accurate reproduction.*
 
 # Science Times
 
