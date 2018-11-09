@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the diynatural.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226200743id_/https%3A//www.diynatural.com/privacy-policy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diynatural.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109143054id_/https%3A//www.diynatural.com/privacy-policy-terms) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use
 
 ### For the Average Joe
 
-The privacy of our visitors to diyNatural.com is very important to us. You would not enjoy your personal information being compromised and neither would we. Therefore, if you subscribe to this website in any form, we will not spam you or sell your email address to anyone else. You can also unsubscribe at any time without any trouble or hassle.
+The privacy of our visitors to DIYNatural.com is very important to us. You would not enjoy your personal information being compromised and neither would we. Therefore, if you subscribe to this website in any form, we will not spam you or sell your email address to anyone else. You can also unsubscribe at any time without any trouble or hassle.
 
 ### For the Legal Beagle
 
-The privacy of our visitors to diyNatural.com is of the utmost importance to us. We also recognize that privacy of your personal information is important to you as well. Here is information on what types of personal information we receive and collect when you use and visit this website, and how we safeguard your information. We never sell, give away, rent, or lease your personal information to third parties. The following outlines our privacy policy. Please read this policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
+The privacy of our visitors to DIYNatural.com is of the utmost importance to us. We also recognize that privacy of your personal information is important to you as well. Here is information on what types of personal information we receive and collect when you use and visit this website, and how we safeguard your information. We never sell, give away, rent, or lease your personal information to third parties. The following outlines our privacy policy. Please read this policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
 
   * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
   * We will collect and use personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
@@ -27,6 +27,14 @@ As with most other websites, we collect and use the data contained in log files.
 ### Cookies and Web Beacons
 
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+
+### Social Sharing
+
+We embed a Facebook widget to allow you to see number of likes/shares/recommends and “like/share/recommend” our webpages. This widget may collect your IP address, your web browser User Agent, store and retrieve cookies on your browser, embed additional tracking, and monitor your interaction with the widget, including correlating your Facebook account with whatever action you take within the widget (such as “liking/sharing/recommending” our webpage), if you are logged in to Facebook. For more information about how this data may be used, please see [Facebook’s data privacy policy](https://www.facebook.com/about/privacy/update).
+
+We use a Twitter Tweet widget at our website. As a result, our website makes requests to Twitter’s servers for you to be able to tweet our webpages using your Twitter account. These requests make your IP address visible to Twitter, who may use it in accordance with [their data privacy policy](https://twitter.com/en/privacy#update).
+
+We use Pinterest Save widget at our website to allow you to pin images to Pinterest from our webpages. These requests may track your IP address in accordance with [their data privacy policy](https://policy.pinterest.com/en/privacy-policy).
 
 ### Advertisers
 
@@ -53,5 +61,3 @@ If you have any questions or concerns please do not hesitate to contact us.
 This privacy policy was updated in March of 2009.
 
 We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
-
-[Home](https://www.diynatural.com/) » Privacy Policy and Terms of Use
