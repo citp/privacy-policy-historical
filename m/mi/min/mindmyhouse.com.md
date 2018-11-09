@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindmyhouse.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628111152id_/https%3A//www.mindmyhouse.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindmyhouse.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/about/privacy_policy) for the most accurate reproduction.*
 
 # MindMyHouse - Privacy policy
 
@@ -12,32 +12,32 @@ This Privacy Policy should be read in partnership with the Terms and Conditions 
 
 ## Contents
 
-Q. [What information does MindMyHouse require from members?](https://web.archive.org/web/20180628111152id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q1)  
-Q. [How does MindMyHouse use members’ information?](https://web.archive.org/web/20180628111152id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q2)  
-Q. [Who sees home owner members’ personal information?](https://web.archive.org/web/20180628111152id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q3a)  
-Q. [Who sees house sitters members’ personal information?](https://web.archive.org/web/20180628111152id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q3b)  
-Q. [Will MindMyHouse be sending members any unsolicited material?](https://web.archive.org/web/20180628111152id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q4)  
-Q. [What are cookies? Are they required?](https://web.archive.org/web/20180628111152id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q5)  
-Q. [How secure are members’ account areas?](https://web.archive.org/web/20180628111152id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q6)  
-Q. [How can members help safeguard the assurances provided in this Privacy Policy?](https://web.archive.org/web/20180628111152id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q7)  
-Q. [How secure is members’ financial information when they are paying for their MindMyHouse membership by credit or debit card? ](https://web.archive.org/web/20180628111152id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q8)  
-Q. [How can members access, update or delete their information?](https://web.archive.org/web/20180628111152id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q9)  
-Q. [Can someone else link to members’ personal information on MindMyHouse from another website?](https://web.archive.org/web/20180628111152id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q10)  
-Q. [What is the policy regarding links to third party sites?](https://web.archive.org/web/20180628111152id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q11)  
-Q. [When does this Privacy Policy not apply?](https://web.archive.org/web/20180628111152id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q12)  
-Q. [What happens to members’ information after their membership expires?](https://web.archive.org/web/20180628111152id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q13)  
-Q. [What happens to the information members provide when communicating with MindMyHouse?](https://web.archive.org/web/20180628111152id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q14)  
-Q. [What happens to the material members provide when using MindMyHouse's internal contact form system?](https://web.archive.org/web/20180628111152id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q17)  
-Q. [How is members information protected?](https://web.archive.org/web/20180628111152id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q26)  
-Q. [What are the contact details for MindMyHouse?](https://web.archive.org/web/20180628111152id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q16)
+Q. [What information does MindMyHouse require from members?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q1)  
+Q. [How does MindMyHouse use members’ information?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q2)  
+Q. [Who sees home owner members’ personal information?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q3a)  
+Q. [Who sees house sitters members’ personal information?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q3b)  
+Q. [Will MindMyHouse be sending members any unsolicited material?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q4)  
+Q. [What are cookies? Are they required?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q5)  
+Q. [How secure are members’ account areas?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q6)  
+Q. [How can members help safeguard the assurances provided in this Privacy Policy?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q7)  
+Q. [How secure is members’ financial information when they are paying for their MindMyHouse membership by credit or debit card? ](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q8)  
+Q. [How can members access, update or delete their information?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q9)  
+Q. [Can someone else link to members’ personal information on MindMyHouse from another website?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q10)  
+Q. [What is the policy regarding links to third party sites?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q11)  
+Q. [When does this Privacy Policy not apply?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q12)  
+Q. [What happens to members’ information after their membership expires?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q13)  
+Q. [What happens to the information members provide when communicating with MindMyHouse?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q14)  
+Q. [What happens to the material members provide when using MindMyHouse's internal contact form system?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q17)  
+Q. [How is members information protected?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q26)  
+Q. [What are the contact details for MindMyHouse?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q16)
 
 **Q. What information does MindMyHouse require from members?**
 
 Different types of personal information are required to complete home owner memberships and house sitter memberships.
 
-Home owner members must provide the following information: an email address, a password, a first and last name, country of residence, the country that the house sitting assignment is located, an advert or listing which describes the house sitting assignment in sufficient detail, the beginning and end date of the house sitting assignment.
+Home owner members must provide the following information: an email address, a password, a first and last name, country of residence, the country that the house sitting assignment is located, a listing which describes the house sitting assignment in sufficient detail, the beginning and end date of the house sitting assignment.
 
-House sitter members must provide the following information: an email address, a password, a first and last name, a list of the countries members would like to be considered for house sitting assignments in, the beginning and end dates of the period that the member is available for house sitting, an advert or listing describing the house sitting services on offer, a credit or debit card number (if this is the payment option chosen), a home address, a billing address which matches that attached to the card used for payment.
+House sitter members must provide the following information: an email address, a password, a first and last name, a list of the countries members would like to be considered for house sitting assignments in, the beginning and end dates of the period that the member is available for house sitting, a listing describing the house sitting services on offer, a credit or debit card number (if this is the payment option chosen), a home address, a billing address which matches that attached to the card used for payment.
 
 **Q. How does MindMyHouse use members’ information?**
 
@@ -53,17 +53,17 @@ MindMyHouse reserves the right to collate statistical data from members in order
 
 Only those people working for MindMyHouse will be able to see members' personal information as it is supplied by members and stored in the site's database.
 
-MindMyHouse recognizes that home owner members may like to preserve their anonymity until they are interviewing house sitting candidates directly. For this reason, home owner members' email addresses are hidden from view online, until as such time as contact has been made. Home owner members can only be contacted via a blank email contact form on the site. Only registered house sitter members will be able to contact home owner members in this way. However please note that MindMyHouse cannot safeguard your privacy if you choose to include personal details such as your email address or street address in any adverts or listings you create and publish on the site.
+MindMyHouse recognizes that home owner members may like to preserve their anonymity until they are interviewing house sitting candidates directly. For this reason, home owner members' email addresses are hidden from view online, until as such time as contact has been made. Home owner members can only be contacted via a blank email contact form on the site. Only registered house sitter members will be able to contact home owner members in this way. However please note that MindMyHouse cannot safeguard your privacy if you choose to include personal details such as your email address or street address in any listings you create and publish on the site.
 
-If home owners publish a sitter wanted advert or listing, a map will accompany the advert or listing that will show the city/town/location of the house sitting assignment. Please note that this map is limited in detail - the zoom function has been limited so that users can only see the city/town or area of the assignment. Details such as the street or postcode (zipcode) remain hidden.
+If home owners publish a sitter wanted listing, a map will accompany the listing that will show the city/town/location of the house sitting assignment. Please note that this map is limited in detail - the zoom function has been limited so that users can only see the city/town or area of the assignment. Details such as the street or postcode (zipcode) remain hidden.
 
 **Q. Who sees house sitters members’ personal information?**
 
 Only those people working for MindMyHouse will be able to see members' personal information as it is supplied by members and stored in the site's database. However, many elements of house sitter members' personal information are viewable online by registered MindMyHouse home owner members.
 
-House sitter members' contact details including first and last names, country of residence, phone numbers (optional) and an email address are only visible online when house sitters create a sitter available advert or listing. This information can then be seen by any person who joins MindMyHouse as a home owner member. House sitter members' home addresses are never displayed online nor given to any third party except when requested by the police in the interest of public safety.
+House sitter members' contact details including first and last names, country of residence, phone numbers (optional) and an email address are only visible online when house sitters create a sitter available listing. This information can then be seen by any person who joins MindMyHouse as a home owner member. House sitter members' home addresses are never displayed online nor given to any third party except when requested by the police in the interest of public safety.
 
-House sitter members who create and publish their own sitter available advert or listing have the option of being included in MindMyHouse's Local Sitter Search. Registered home owner members will then be able to search for and see house sitters' city/town/area of residence (based on the address they used to register with the service) displayed on a map.
+House sitter members who create and publish their own sitter available listing have the option of being included in MindMyHouse's Local Sitter Search. Registered home owner members will then be able to search for and see house sitters' city/town/area of residence (based on the address they used to register with the service) displayed on a map.
 
 Please note that this map is limited in detail – the zoom function has been limited so that home owners can only see very generally where in the town/city or area of residence the house sitter is located. Details such as the street or postcode (zipcode) remain hidden.
 
@@ -109,7 +109,7 @@ Some attempts at making shortcut links to particular pages on Mindmyhouse.com ma
 
 **Q. What is the policy regarding links to third party sites?**
 
-Members may link to third party websites from within their personal sitter available adverts or listings although MindMyHouse reserves the right to remove the link if it is deemed inappropriate. MindMyHouse’s Privacy Policy does not apply once the user has left the site for another website.
+Members may link to third party websites from within their personal sitter available listings although MindMyHouse reserves the right to remove the link if it is deemed inappropriate. MindMyHouse’s Privacy Policy does not apply once the user has left the site for another website.
 
 The onus is on members to check the privacy policy of the site they have linked to for information on the security of any information they may submit to that site.
 
