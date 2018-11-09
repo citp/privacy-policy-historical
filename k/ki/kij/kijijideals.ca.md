@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the kijijideals.ca privacy policy that was archived on 2018-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180207182414id_/https%3A//www.justhost.com/cgi/info/privacy-policy%3Fno_navigation%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kijijideals.ca privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109203256id_/https%3A//www.justhost.com/cgi/info/privacy-policy%3Fno_navigation%3D1) for the most accurate reproduction.*
 
 # Privacy Policy | Just Host
-
-Skip to main content
-
-  * [Home](https://web.archive.org/)
-  * [Web Hosting](https://web.archive.org/hosting-features)
-  * [Why Us](https://web.archive.org/why-us)
-  * [Guarantees](https://web.archive.org/guarantees)
-  * [Contact Us](https://web.archive.org/contact-us)
-  * [Help Center](https://my.justhost.com/hosting/help)
-  * [Login](https://web.archive.org/cplogin)
-
-
 
 This Privacy Policy describes the commitment at Just Host ("Just Host") to the privacy of visitors to the Just Host website located at www.Justhost.com and of its customers ("Subscribers"). Except as required by law or as otherwise provided herein, Just Host will take commercially reasonable steps to ensure your right to privacy. Just Host is committed to developing long lasting relationships that are built on trust and would never intentionally violate that trust.
 
@@ -167,6 +155,6 @@ Just Host retains personal data it processes on behalf of Just Host's Resellers 
 
 
 
-This file was last modified: August 03, 2017.
+This file was last modified: June 28, 2018.
 
 [Terms Home](https://web.archive.org/terms) [User Agreement](https://web.archive.org/user-agreement) [Acceptable Use Policy](https://web.archive.org/acceptable-use-policy) [HIPAA Disclaimer](https://web.archive.org/acceptable-use-policy#hipaa) [Domain Registration Agreement](https://web.archive.org/domain-registration-agreement) [Anti-Spam Policy](https://web.archive.org/antispam-policy) [Privacy Policy](https://web.archive.org/privacy-policy) [Domain Name Dispute Policy](https://web.archive.org/domain-dispute-policy) [Data Request Policy](https://web.archive.org/data-request-policy) [Copyright Claims Policy](https://web.archive.org/copyright-claims-policy) [Ownership Dispute/Change Policy](https://web.archive.org/ownership-change-policy) [Professional Services Agreements](https://web.archive.org/terms-professional) [Affiliate Agreement](https://web.archive.org/affiliate-terms)
