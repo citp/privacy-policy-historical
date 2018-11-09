@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lmcu.org privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411151306id_/https%3A//www.lmcu.org/Docs/PrivacyNotice_LMCU.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lmcu.org privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109204043id_/https%3A//www.lmcu.org/docs/PrivacyNotice_LMCU.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                   Rev. 12/2013
+                                                                                                   Rev. 07/2017
                         WHAT DOES Lake Michigan Credit Union
 FACTS                   DO WITH YOUR PERSONAL INFORMATION?
 Why?                    Financial companies choose how they share your personal information. Federal law gives
@@ -36,7 +36,7 @@ For nonaffiliates to market to you                                             N
                         • Call 616-242-9790 – our menu will prompt you through your choice(s) or
 To limit our            • Visit us online: www.lmcu.org – “Contact Us”, then secure contact form.
 sharing                 Please note:
-                        If you are a new customer, we can begin sharing your information 15 days from the date we sent
+                        If you are a new customer, we can begin sharing your information 30 days from the date we sent
                         this notice. When you are no longer our customer, we continue to share your information as
                         described in this notice.
                         However, you can contact us at any time to limit our sharing.
