@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geniusnet.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628210937id_/http%3A//us.geniusnet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geniusnet.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109081956id_/http%3A//us.geniusnet.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -82,4 +82,4 @@ If we decide to change our privacy policy, we will post those changes on this we
 
 If there are any questions or notification regarding this privacy policy, you may contact us at the email .
 
-[webmaster@geniusnet.com](mailto:webmaster@geniusnet.com)
+[Support@geniusnet.com](mailto:Support@geniusnet.com)
