@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picturesun.top privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628230315id_/http%3A//picturesun.top/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturesun.top privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110004157id_/http%3A//picturesun.top/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy • Index of Online Schools
 
