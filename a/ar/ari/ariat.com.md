@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ariat.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528014208id_/http%3A//www.ariat.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ariat.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109211706id_/https%3A//www.ariat.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Ariat
 
@@ -75,7 +75,7 @@ If you have questions about or need further information concerning the legal bas
 
 ## Cookies and similar tracking technology 
 
-Some of the data may be collected automatically using tracking technologies, including information about the types of Cookies we use, why, and how you can control Cookies, please see our Cookie Policy [here.](http://www.ariat.com/cookie-policy.html)
+Some of the data may be collected automatically using tracking technologies, including information about the types of Cookies we use, why, and how you can control Cookies, please see our Cookie Policy [here.](https://www.ariat.com/cookie-policy.html)
 
 ## How does Ariat keep my personal information secure?
 
