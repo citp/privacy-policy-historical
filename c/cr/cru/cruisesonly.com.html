@@ -1,30 +1,78 @@
-<!--The following is the downloaded HTML source of the cruisesonly.com privacy policy that was archived on 2017-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170316213104id_/https%3A//www.cruisesonly.com/privacy.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cruisesonly.com privacy policy that was archived on 2018-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181109204630id_/https%3A//www.cruisesonly.com/privacy.do) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="ui-mobile"><head><base href="https://web.archive.org/web/20170316213104id_/https%3A//www.cruisesonly.com/privacy.do"> 	
-
-        <meta charset="UTF-8">		
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<!DOCTYPE html><html lang="en" class="ui-mobile"><head><base href="https://web.archive.org/web/20181109204630id_/https%3A//www.cruisesonly.com/privacy.do">
+		 		
+        <meta charset="UTF-8">
+         
+        	<meta name="viewport" content="width=device-width,initial-scale=1">
+        		        
+        
         <meta name="format-detection" content="telephone=no">	
-
+        
+		
+		
 		<link type="text/css" rel="stylesheet" href="/includes/desktop/css/jqm1.4.5/jquery.mobile-1.4.5.min.css">     
-      	<link type="text/css" rel="stylesheet" href="/includes/desktop/css/wth.css">      	
-      	
-      	
-      	
-    	<link type="text/css" rel="stylesheet" href="/includes/desktop/css/desktop_j.css">
+      	<link type="text/css" rel="stylesheet" href="/includes/desktop/css/wth.css">
+     	
+      		
+   	  	
+   	  		<link type="text/css" rel="stylesheet" href="/includes/desktop/css/wth_responsive.css">
+   	  		
 
-		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KV8H5"></script><script src="/lib/javascript/desktop/jquery-1.11.1.min.js"></script>	
+		<link type="text/css" rel="stylesheet" href="/includes/desktop/css/desktop_j.css"> 
+		
+		
+		
+		
+		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KV8H5"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NKTDR2"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/lib/javascript/desktop/jquery-1.11.1.min.js"></script>
         <script src="/lib/javascript/desktop/jqm1.4.5/jquery.mobile-1.4.5.min.js"></script>  
         
         
+        <script>       
+    		var pageId = 'PRIVACY';
+    		var siteEndorsement = 'CruisesOnly';
+    		var mobileDevice = false;
+        </script>
+		
+        	
         
-        <script src="/lib/javascript/desktop/html5-fix/jquery.placeholder.js" type="text/javascript" charset="utf-8"></script> 
+          
         
-       		<script src="/lib/javascript/desktop/custom.js"></script>   
-       		
+
+
+
+
+<script type="text/javascript">
+gaClassicPageViewVal =  "";
+if (window.location.search) {
+	gaClassicPageViewVal =  window.location.pathname.split('?')[0];	
+} else {
+	gaClassicPageViewVal =  window.location.pathname;
+}
+</script>
+<script type="text/javascript" src="/lib/javascript/desktop/gaclassicpageview.js"></script>	
+        
+        
+        <script src="/lib/javascript/desktop/html5-fix/jquery.placeholder.js" type="text/javascript" charset="utf-8"></script>         
+        
+         
+        
+      		<script>
+        		responsiveHeaderEnabled = true;      
+        		responsiveFooterEnabled = true;        	
+        	</script>
+      	
+      	
+      	 
+      	  
+      	
+        
+       		<script src="/lib/javascript/desktop/custom.js"></script> 
+       	
+
         <script src="/Code/javascript/ajax/logerror.js"></script>
-        
+          
         <script>		
          
 		var wthDotPopupLinkId = "";
@@ -41,110 +89,29 @@
 		
 		
 		$(document).ready(function () {	
-			
-			$("#skipToMainContent").on("click",function(event,ui){
-				return false;
-			});
-			
+						
 			 
 		 	$(document).on("click","a",function(event,ui){
-			      var data_id = $(event.target).attr("data-rel");
-			     
+			      var data_id = $(event.target).attr("data-rel");			     
 			      if(data_id == "popup") {
-			    	 
-			    	  //var linkId = $(event.target).attr("href").slice(1);
-				      //console.log(linkId);
-			    	 
-			    	 
-			    	//  $("#" + linkId + " .closeBtn").focus();
-			    	//setTimeout(function(){ 
-			    	//  $("#" + linkId + " .closeBtn").focus();
-			    		  //linkId = "";
-			    		  //$("#backtoTop").attr("aria-hidden", "true");
-					//}, 300 );	
 			    	  wthDotPopupLinkId = document.activeElement;
-			    	 //$("#backtoTop").attr("aria-hidden", "true");
+
 			      }
 			 }); 
 			
 		 	 
 			 $( ".ui-popup" ).popup({
 				  afterclose: function( event, ui ) {
-					//$("#backtoTop").attr("aria-hidden", "false");  
 					setFocusOnPopupLink(); 				 
 				}
 			}); 
-			
 			 
-			$("select").on("change", function (event, ui) {
-				$(this).focus();
-			});	
+			
+			
 			
 			//Ajax Spinner code
 			$(document).ajaxStart(function() {
 			
-  
-var $this = $( this ),
-theme = $this.jqmData( "theme" ) || $.mobile.loader.prototype.options.theme,
-msgText = "Thanks for waiting as content loads",
-textVisible = true,
-textonly = !!$this.jqmData( "textonly" );
-html = $this.jqmData( "html" ) || "";
-	
-$.mobile.loading( "show", {
-       text: msgText,
-       textVisible: textVisible,
-       theme: "b",
-       textonly: true,
-       html: '<p id="spinnerH1">Thanks for waiting as content loads</p>'
-});
-
-                         
-setTimeout(show, 10);
-
-function show() {
-  jQuery('ui-loader').removeClass('hide');
-  SRMessage('Thanks for waiting as content loads');
-  setTimeout(hide, 5000);
-  
-}
-
-function hide() {
-  jQuery('.ui-loader').addClass('hide');
-  SRMessage('Content has finished loading');
-}
-
-function SRMessage(text) {
-  
-  // write the message as a new node within the ARIA Live region
-  jQuery('.ui-loader').each(function(){
-    jQuery(this).attr('aria-live','assertive');
-    jQuery(this).attr('role','alert');
-    jQuery(this).html('<p id="spinnerH1">' + text + '</p>');
-    // do not remove these attributes too quickly, otherwise the screen readers will not speak the change
-    setTimeout(function(){
-      jQuery(this).removeAttr('role');
-      jQuery(this).attr('aria-live','off');
-    },250);
-  });
-  
-  
-  // clear the message so it doesn't get read accidentally by screen reader users when browsing the page
-  setTimeout(function(){
-    // this prevents the screen reader from announcing a new blank line
-    jQuery('.ui-loader').each(function(){
-      jQuery(this).attr('aria-live','off');
-      jQuery(this).removeAttr('role');
-      // wait long enough for the screen reader to get the previous attribute change
-      setTimeout(function(){
-        jQuery(this).empty();
-        jQuery(this).attr('aria-live','assertive');
-        jQuery(this).attr('role','alert');
-      },250);
-    });
-  },250);
-
-}
 
 	
 			 }); 
@@ -154,10 +121,13 @@ function SRMessage(text) {
 			}); 
 			
 		 });	
-		
+
 	    $.mobile.ignoreContentEnabled = true;
 		$.mobile.pushStateEnabled = false;	
-	
+		
+		
+		
+
 		//Fix for nodeName undefined error on IE
 		$.widget("mobile.popup", $.mobile.popup, {
 		    _safelyBlur: function (currentElement) {
@@ -173,49 +143,69 @@ function SRMessage(text) {
 		if(hash){
 			location.hash = '';
 		}
-		
-   	
+
 
         //JS variables used for email signup form vistracker
     	var storeCode = 'CRZNW';
-		var inetHostName = 'walswapprd16';
+		var inetHostName = 'walswapprd05';
 		var page = '';
 		
 		</script>
 
 		
 		
-		
-        
-         
-        
-<link rel="shortcut icon" type="image/gif" href="/favicon_co-16x16.gif">
-<!--  floating masthead javascript -->
-<script type="text/javascript" src="/lib/javascript/general/floatingHeader.js"></script>
-<!--  end floating masthead javascript -->
 
-	<script>
-	var floatingAdminAB = 1;
-	</script>
-	
-		
-			<!-- Load the Content Experiment JavaScript API client for the experiment -->
-			<script type="text/javascript" src="//www.google-analytics.com/cx/api.js?experiment=ox-O-dkyS92HEkPQB6JhJw"></script>
-			<script type="text/javascript">
-			floatingAdminAB = cxApi.chooseVariation();
-			</script>
-		
-	
+
+
+
+
+
+
+
  
 
-	   
-
-	
-	
-	<script src="/lib/javascript/desktop/wcag-dropdown.js"></script>
-	
 
 
+
+																				
+
+		
+
+
+
+   
+
+		
+
+
+
+
+
+
+
+   
+
+		
+		
+		
+
+
+
+<title>Privacy Policy - CruisesOnly</title>
+
+
+
+	<link rel="canonical" href="https://www.cruisesonly.com/privacy.do">
+
+
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+<meta name="GOOGLEBOT" content="NOINDEX, NOFOLLOW">
+
+			 
+	
+  		
+  		
+<link rel="shortcut icon" type="image/gif" href="/favicon_co-16x16.gif">
 
 
 
@@ -224,48 +214,64 @@ function SRMessage(text) {
 <!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT CRUad_res_webbanner -->
 
 	<script>
-	function WTHShowAd(slotName) {		
+	function WTHShowAd(slotName) {	
+		try{
 		  var GAMprefix = 'CO';			 
 		  GA_googleFillSlot(GAMprefix + slotName);		
+		}
+		catch(error){
+			//swallow error
+		}
 	}	
 	</script>
-
+	
 <!-- END OF TAG FOR SLOT CRUad_res_webbanner -->
 <!-- google service script -->
-<script>		
-  GS_googleAddAdSenseService("ca-pub-4586411100384747");
-  GS_googleEnableAllServices();	
-</script>
-<script>
-	GA_googleAddSlot("ca-pub-4586411100384747", "COad_promo_header");	
-	GA_googleAddSlot("ca-pub-4586411100384747", "COad_res_sky");
-	GA_googleAddSlot("ca-pub-4586411100384747", "COad_res_webbanner");
-	GA_googleAddSlot("ca-pub-4586411100384747", "COad_promo_minisky1");
-	GA_googleAddSlot("ca-pub-4586411100384747", "COad_promo_minisky2");
-	GA_googleAddSlot("ca-pub-4586411100384747", "COad_promo_sky");
 
+	<script>
+	try{
+	  GS_googleAddAdSenseService("ca-pub-4586411100384747");
+	  GS_googleEnableAllServices();	
+	}
+	catch(error)
+	{
+	//swallow error
+	}
+	</script>
+	<script>
+	try{
+		GA_googleAddSlot("ca-pub-4586411100384747", "COad_promo_minisky1");
+		GA_googleAddSlot("ca-pub-4586411100384747", "CO_ad_promo_sky2");
+	}
+	catch(error){
+		//swallow error
+	}
+	</script>
+	
+	<script>
+	try{
+	  GA_googleFetchAds();
+	}
+	catch(error){
+		//swallow error
+	}
+	</script>
 
-	GA_googleAddSlot("ca-pub-4586411100384747", "COad_itin_leaderboard");
-	GA_googleAddSlot("ca-pub-4586411100384747", "COad_itin_leaderbaord");
-
-	GA_googleAddSlot("ca-pub-4586411100384747", "Coad_promo_minisky1");
-	GA_googleAddSlot("ca-pub-4586411100384747", "CO_ad_promo_sky2");
-
-</script>
-<script>
-  GA_googleFetchAds();
-</script>
 <!-- END google service script-->
 
 
  
+      
+		
+			<script src="/lib/javascript/desktop/wcag-dropdown.js?version=1.0.0"></script>
+		    
         
-        
-        
-        	
-
+     
+	
 	
 		<script>
+		
+		if (mobileUser == false) {	
 			var windowSize = jQuery(window).width();	
 			var abandonmentOverlayViewedPopup = wthApp.getCookie("abandonmentOverlayViewedPopup");	
 			
@@ -275,46 +281,52 @@ function SRMessage(text) {
 			}
 			
 			$(document).ready(function(){
-				$("#continueOnline").click(function(){
-					$( "#abandonmentPopup" ).popup( "close" );
+				$("#abandon_continueOnline").click(function(){
+					hideDialog("abandonmentPopup");
 				});
-
+				
+		
 				$('body').mouseleave(function(e) {
-					if(isIE()){
-						var target = e.target || e.srcElement;
-						if(e.clientY < 0 && target.nodeName != "SELECT"){
-							windowSize = jQuery(window).width();	
-							abandonmentOverlayViewedPopup = wthApp.getCookie("abandonmentOverlayViewedPopup");	
-							if(abandonmentOverlayViewedPopup != "Yes" && windowSize >= 1024){
-								document.cookie = 'abandonmentOverlayViewedPopup=Yes';
-								setTimeout(function(){
-									$( "#abandonmentPopup" ).popup( "open" );
-								}, 500); 								
-								
+					if(dialogOpen==false){					
+						if(isIE()){
+							var target = e.target || e.srcElement;
+							if(e.clientY < 0 && target.nodeName != "SELECT"){
+								windowSize = jQuery(window).width();	
+								abandonmentOverlayViewedPopup = wthApp.getCookie("abandonmentOverlayViewedPopup");	
+								if(abandonmentOverlayViewedPopup != "Yes" && windowSize >= 1024){
+									document.cookie = 'abandonmentOverlayViewedPopup=Yes';
+									setTimeout(function(){
+										centerProgramPopup("abandonmentPopup"); 
+										CallTrackerNonInteraction("Global", "OpenPopup", "Abandonment Call Overlay");
+									}, 500); 								
+									
+								}
 							}
-						}
-					} else {
-						if(e.clientY < 0){
-							windowSize = jQuery(window).width();	
-							abandonmentOverlayViewedPopup = wthApp.getCookie("abandonmentOverlayViewedPopup");	
-							if(abandonmentOverlayViewedPopup != "Yes" && windowSize >= 1024){
-								document.cookie = 'abandonmentOverlayViewedPopup=Yes';
-								setTimeout(function(){
-									$( "#abandonmentPopup" ).popup( "open" );
-								}, 500); 		
-								
+						} else {
+							if(e.clientY < 0){
+								windowSize = jQuery(window).width();	
+								abandonmentOverlayViewedPopup = wthApp.getCookie("abandonmentOverlayViewedPopup");	
+								if(abandonmentOverlayViewedPopup != "Yes" && windowSize >= 1024){
+									document.cookie = 'abandonmentOverlayViewedPopup=Yes';
+									setTimeout(function(){
+										centerProgramPopup("abandonmentPopup"); 
+										CallTrackerNonInteraction("Global", "OpenPopup", "Abandonment Call Overlay");
+									}, 500); 		
+									
+								}
 							}
-						}
+						}					
 					}
 				});
 
 				$(window).resize(function(){
 					var windowSizeResize = jQuery(window).width();
-					if (windowSizeResize < 1024) {
-						$( "#abandonmentPopup" ).popup( "close" );
+					if (windowSizeResize < 1024 && wthDialog == "abandonmentPopup" && dialogOpen == true) {
+						hideDialog("abandonmentPopup");
 					}
-				});
+				});				
 			});
+		}
 		</script>
 	  
 
@@ -322,133 +334,131 @@ function SRMessage(text) {
 		
 
 
-        
-        
-        
-        
-   		
-
-
-
-
-
-<script type="text/javascript">
-gaClassicPageViewVal =  "";
-if (window.location.search) {
-	gaClassicPageViewVal =  window.location.pathname.split('?')[0];	
-} else {
-	gaClassicPageViewVal =  window.location.pathname;
-}
-</script>
-<script type="text/javascript" src="/lib/javascript/desktop/gaclassicpageview.js"></script>  
-
-
-
-
-
-		<script type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-
-
-
-
-
-
-	<script type="text/javascript">
-		var pageTracker = _gat._getTracker("UA-30167-2");
-		if(document.URL.indexOf("/css/guest") < 0) {
-		pageTracker._trackPageview(gaClassicPageViewVal);
-		}
-	</script>
-
-
-
-	<script type="text/javascript">
-   
-    function CallUrchin(event_name)
-    {
-    		pageTracker._trackPageview(gaClassicPageViewVal);
-			/*alert(event_name);*/
-		return true;
-    }
-    function CallTracker(cat, cat2, value)
-    {
-    		pageTracker._trackEvent(cat, cat2, value);
-			/*alert(event_name);*/
-		return true;
-    }
-    function CallTrackerNonInteraction(cat, cat2, value)
-    {
-    		pageTracker._trackEvent(cat, cat2, value, null ,true);
-			/*alert(event_name);*/
-		return true;
-    }
-    function CallTrackerServerError(cat, cat2, value)
-    {
-		pageTracker._trackEvent(cat, cat2, value);
-		return true;
-    }
-    function CallTrackerClientError(cat, cat2, value)
-    {
-		pageTracker._trackEvent(cat, cat2, value);
-		return true;
-    }
-</script>
-      
-    
-    
-    
-	<script type="text/javascript">   
-    function CallUrchinAsync(event_name)
-    {
-    	_gaq.push(['_trackPageview',gaClassicPageViewVal]);    	
-		return true;
-    }
-    </script>
-
-
-    
-
-
-	<script type="text/javascript">   
-    function CallTrackerAsync(cat, cat2, value)
-    {
-    		_gaq.push(['_trackEvent',cat, cat2, value]);			
-		return true;
-    }
-	</script>
-
-
-	<script type="text/javascript">   
-    function addGATrans(booknumber,bookprice){    
-		try {		  
-		  pageTracker._addTrans(
-		    booknumber,  									/* Order ID */
-		    "",                            					/* Affiliation */
-		    bookprice, 										/* Total */
-		    "",                                    		 	/* Tax */
-		    "",                                          	/* Shipping */
-		    "",                                			 	/* City */
-		    "",                              			 	/* State */
-		    ""                                       	 	/* Country */
-		  );		  
-		
-		  pageTracker._trackTrans();
-		} catch(err) {}
-		}
-    
- 	/* http://code.google.com/apis/analytics/docs/tracking/gaTrackingCustomVariables.html */   
-     function setGACustomVar(slot,varName,varValue,scope) {
-    	pageTracker._setCustomVar(slot,varName,varValue,scope); 
-    }    
- </script>  
-   		
+           
 		
 
-<script type="text/javascript" src="/lib/javascript/tracking/cmBlank.js"></script>
+
+
+
+
+
+
+	
+		
+	
+		
+
+	<script>
+
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-30167-2', 'auto',{allowLinker: true});	
+	     
+	  
+	  
+	  var gaUniversalPropertyId = 'UA-30167-2';	
+	  var gaUniversalSiteEndorsement = 'CruisesOnly';
+	</script>
+	
+	
+	
+
+
+<script>
+function setGACustomVar(slot,varName,varValue,scope) {
+	return false; 
+}  
+</script>
+ 
+ 		<script>
+ 		
+ 		
+	    function CallTracker(cat, cat2, value) {	
+	    	
+	    	/* Universal */
+	    	if(value == "" || value == null) {
+				value = "(not set)";			
+			}	
+	    	/* homepage would have dl and dp value as / instead of homepage.do to be consistent with historical data in GA */
+	 		gaClassicPageViewVal = gaClassicPageViewVal.replace("homepage.do", "");
+	    	ga('set', 'page', gaClassicPageViewVal);
+	    	ga('set', 'location', gaClassicPageViewVal);
+	    	ga('set', 'hostname', 'www.cruisesonly.com');
+	    	ga('send', 'event', cat, cat2, value); 
+	    	
+			return true;
+	    }
+	    
+	    function CallTrackerNonInteraction(cat, cat2, value) {	
+	    	
+	    	/* Universal */
+	    	if(value == "" || value == null) {
+				value = "(not set)";			
+			}
+	    	/* homepage would have dl and dp value as / instead of homepage.do to be consistent with historical data in GA */
+	 		gaClassicPageViewVal = gaClassicPageViewVal.replace("homepage.do", "");
+	    	ga('set', 'page', gaClassicPageViewVal);
+	    	ga('set', 'location', gaClassicPageViewVal);
+	    	ga('set', 'hostname', 'www.cruisesonly.com');
+	    	ga('send', 'event', cat, cat2, value, { 
+	    		  nonInteraction: true
+	    	});
+	    	
+			return true;
+	    }
+	    
+
+	    function CallTrackerServerError(cat, cat2, value) {
+	    	
+    		/* Universal */
+    		if(value == "" || value == null) {
+				value = "(not set)";			
+			}
+    		/* homepage would have dl and dp value as / instead of homepage.do to be consistent with historical data in GA */
+	 		gaClassicPageViewVal = gaClassicPageViewVal.replace("homepage.do", "");
+    		ga('set', 'page', gaClassicPageViewVal);
+    		ga('set', 'location', gaClassicPageViewVal);
+    		ga('set', 'hostname', 'www.cruisesonly.com');
+    		ga('send', 'event', cat, cat2, value); 
+    		
+			return true;
+	    }
+	    
+	    function CallTrackerClientError(cat, cat2, value) {
+	    	
+    		/* Universal */
+    		if(value == "" || value == null) {
+				value = "(not set)";			
+			}
+    		/* homepage would have dl and dp value as / instead of homepage.do to be consistent with historical data in GA */
+	 		gaClassicPageViewVal = gaClassicPageViewVal.replace("homepage.do", "");
+    		ga('set', 'page', gaClassicPageViewVal);
+    		ga('set', 'location', gaClassicPageViewVal);
+    		ga('set', 'hostname', 'www.cruisesonly.com');
+    		ga('send', 'event', cat, cat2, value); 
+    		
+			return true;
+	    }
+	    
+	    	    
+		/* 	  
+	    function handleOutboundLinkClicks(event) {
+    	  ga('send', 'event', {
+    	    eventCategory: 'Outbound Link',
+    	    eventAction: 'click',
+    	    eventLabel: event.target.href,
+    	    transport: 'beacon'
+    	  });
+    	} */
+    	
+	    
+	</script>
+			
+        
+        
 		
 
 
@@ -479,70 +489,353 @@ if (window.location.search) {
 
 		
 
-		 
-		
-
- 
-
-
-
-		
-		
-
 
 
 
 
 
 	
-
-	<title></title></head> 
+		<!-- * header contents * -->
+		<!-- Google Tag Manager Data Layer -->
+		<script>
+		try{
+		    analyticsEvent = function() {};
+		    analyticsSocial = function() {};
+		    analyticsVPV = function() {};
+		    analyticsClearVPV = function() {};
+		    analyticsForm = function() {};
+		    var wdvid  = getCookie('WDVID');	
+		    var zendeskPages = 'results.do,sc.do,/b/c/,/css/';
+		    var zendeskPagesArray = zendeskPages.split(',');
+		    window.dataLayer = window.dataLayer || [];
+		    dataLayer.push({
+		      'gaProperty': 'UA-30167-2',
+		      'StoreCode': 'CRZNW',
+	    	  'Mobile': 'false',
+	    	  'sessionID': wdvid,
+			  'ZendeskID': '04a271ff-848a-4f2c-a5ba-a0ac625cbc6e',
+			  'ZendeskDepartment': 'Cruises_Only',
+			  'ZendeskPages': zendeskPagesArray
+		    });	
+		    
+		    
+		    
+		    	var priceAsDollar = '';
+				
+		    
+		    
+		    
+		    
+		   		   
+			
+			
+			
+		    
+			
+			
+			
+		
+		
+		
+		
 	
-	<body class="ui-mobile-viewport ui-overlay-a">	
+			
+	
+			
+		
+		
+	
+	
+
+			
+			
+			
+		
+		
+		
+		
+			
+			
+				
+			
+			
+			
+		
+			
+			
+			 
+
+		
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				 
+						
+						
+					    		
+				
+			 
+		}
+		catch(error){
+			//swallow error
+		}
+		
+		  </script>
+		<!-- End Google Tag Manager Data Layer -->
+		<!-- * header contents * -->
+	
+
+
+		
+
+
+
+	</head> 
+	
+		
+		<body id="accessibilityModeBody" class="ui-mobile-viewport ui-overlay-a">
+	
+		
+
 		
 
 
 
 
 
+   
+	
+	<!-- Google Tag Manager snippet -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NKTDR2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> 
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-NKTDR2');</script>
+	<!-- End Google Tag Manager snippet -->
 
+
+		
+		
+			<!-- Google Tag Manager -->
+			<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KV8H5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+			<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-KV8H5');</script>
+			<!-- End Google Tag Manager -->	
+		
 
 	
+
+
+
+
 
 		 
 		<!--
-		server and timestamp info:walswapprd16:Thu Mar 16 17:31:03 EDT 2017
+		server and timestamp info:walswapprd05:Fri Nov 09 15:46:30 EST 2018
 		  -->	
 		
 			<div data-role="page" id="privacy_page_id" data-dom-cache="true" data-url="privacy_page_id" tabindex="0" class="ui-page ui-page-theme-a ui-page-active" style="">		        
+				
+				<div id="dialogShim" class="wth2-dialogShim"></div> 
+					
+				
+					
+				
+							
+					
+
+
+
+		
+	
+		<div id="adminEmailSignupPopup" tabindex="-1" role="dialog" aria-labelledby="adminEmailHeader" class="wth2-dialog wth2-simplePopup wth2-popupLightboxMed" style="display:none;">
+			<a id="adminEmailSignupClose" href="#" aria-describedby="adminEmailCloseInfo" class="ui-btn ui-corner-all ui-icon-delete ui-btn-icon-notext ui-btn-right wth2-popupCloseFunction" role="button">Close</a>
 			
+
+
+
+
+<div id="adminEmailSignupWrapper" class="ui-grid-e wth2-adminEmailSignup">
+		<div id="adminEmailSignupContent" class="wth2-adminEmailSignupContent">
+			<div id="adminEmailFormContainer" class="ui-block-a">
+			    <h5 tabindex="-1" id="adminEmailHeader" class="wth2-lightBoxPopupHeader">Sign Up for Exclusive Offers and Discounts</h5>
+				<div id="emailFormContent" class="wth2-simplePopUpContent">
+				    <p tabindex="-1" id="adminEmailFormDescription">Receive exclusive offers and discounts to your inbox. Don't worry - we hate spam and we won't sell your email address to a third party.</p>
+				 	<div id="adminEmailFormError" class="wth2-errorMessage" style="display:none">
+				 		 <i class="fa fa-exclamation-circle" aria-hidden="true"></i>
+				 		 <p id="adminEmailErrorHeader" class="wth2-errorMessageHeader">Please complete the required fields.</p>
+				 		 <p id="adminEmailErrorMessage" tabindex="-1" class="wth2-formErrorMessage" style="display:none">Valid email address</p>
+				 		 <p id="adminZipErrorMessage" tabindex="-1" class="wth2-formErrorMessage" style="display:none">5-digit U.S. zip code</p>
+				 		 <p id="adminMemberIdErrorMessage" tabindex="-1" class="wth2-formErrorMessage" style="display:none">Valid membership number</p>
+				 	</div>
+				 
+				
+			    	<form action="/mailing.do" name="EmailForm" id="adminEmailForm">
+				    <input type="hidden" name="redirect" value="idle.do">
+				    <input type="hidden" name="listID" value="182">
+				    <input type="hidden" name="sfids[1]" value="523"> 
+					
+				    <div id="adminEmailWrapper" class="wth2-adminEmailField">     
+				        <div class="wth2-discountsInput">
+				        <label id="adminEmailLabel" for="adminEmail" tabindex="-1">Your Email:</label>
+				        <div class="ui-input-text ui-body-inherit ui-corner-all ui-mini ui-shadow-inset"><input type="email" name="email" id="adminEmail" data-mini="true" aria-labelledby="adminEmailLabel adminEmailHint" aria-required="true" aria-invalid="false"></div>
+				    	</div>
+				    	<div id="adminEmailHint" tabindex="-1" class="wth2-formHint">email@sample.com</div>
+				    </div>
+			
+				    <div id="adminZipWrapper" class="wth2-adminZipField">
+				    	<div class="wth2-discountsInput">
+				    	<label id="adminZipCodeLabel" for="adminZipCode" tabindex="-1">Your Zip Code:</label>
+				        <div class="ui-input-text ui-body-inherit ui-corner-all ui-mini ui-shadow-inset"><input type="text" name="zip" id="adminZipCode" pattern="[0-9]*" aria-labelledby="adminZipCodeLabel adminZipCodeHint" maxlength="5" data-mini="true" aria-required="true" aria-invalid="false"></div>
+				        </div>
+				        <div id="adminZipCodeHint" tabindex="-1" class="wth2-formHint">5-digit U.S. Zip Code</div>
+				    </div>
+			    
+			    
+				
+				<div class="wth2-adminDisclaimer"><a id="adminPrivacyPolicy" data-ajax="false" href="/privacy.do" class="ui-link">Privacy Policy</a></div>				
+			    <div class="wth2-adminEmailSubmit">
+			        <a id="adminEmailFormSubmit" role="button" href="#" class="ui-btn ui-btn-inline ui-shadow ui-corner-all ui-mini wth2-ui-btn"><span class="visuallyhidden">Submit form and </span>Get Cruise Deals</a>
+			    </div>
+			  	
+			    </form>			
+			    </div> 
+			</div>
+			
+			
+			<div id="adminEmailFormConfirmation" class="ui-block-a wth2-adminEmailSignupConfirmation" style="display:none">
+				<div class="wth2-sucessMessage sMargTop">
+					 <i class="fa fa-check-circle" aria-hidden="true"></i>
+					 <div id="adminEmailConfContent" class="wth2-sucessMessageCont" tabindex="-1" aria-live="polite"></div>
+			    </div>
+			</div>
+		
+		</div>
+	
+	</div> 
+	<div id="adminEmailCloseInfo" class="visuallyhidden" tabindex="-1" aria-live="off" aria-hidden="true">Closing this window will discard any information entered and return you back to the main page</div>
+		</div>
+	
+
+					
+
+
+
+
+<div id="responsiveMenuPopup" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="responsiveMenuHeader" class="wth2-dialog wth2-popupLightboxResponsive wth2-popupResponsiveMenu">
+	<a id="responsiveMenuClose" href="#" class="ui-btn ui-corner-all ui-icon-delete ui-btn-icon-notext ui-btn-right wth2-popupCloseFunction">Close</a>
+	<h5 id="responsiveMenuHeader" class="wth2-lightBoxPopupHeader">Menu</h5>
+	<div id="responsiveMenuContent" class="wth2-popupLightboxContent wth2-popupResponsiveMenuContent"><nav role="navigation" id="responsiveMenuNav" class="wth-responsiveMenuNav" aria-label="Main Menu" aria-live="off"></nav></div>	
+</div>
+				
+				
+										
+					
+
+
+
+	
+		
+		<div id="abandonmentPopup" tabindex="-1" role="dialog" aria-labelledby="abandon_header" class="wth2-abandonmentContainer wth2-dialog wth2-simplePopup wth2-popupLightboxMed" style="display:none;">
+			<a id="abandonmentClose" href="#" class="ui-btn ui-corner-all ui-icon-delete ui-btn-icon-notext ui-btn-right wth2-popupCloseFunction" role="button">Close</a>
+			<h5 id="abandon_header" class="wth2-simplePopUpHeader">Did You Know?</h5>
+			<div class="wth2-simplePopUpSubHeader">
+			
+				<p id="abandon_subheader">CruisesOnly Loyalty Club &amp; Exclusive Offers Are Combinable With Every Cruise Line's Loyalty Program Benefits!</p>
+			
+							
+				<p id="abandon_callmessage">Call us now at</p>
+			</div>
+			<p class="wth2-phoneNumber wth2-bucketPrice" id="abandon_phonenumber">
+				
+					1-800-CRUISES
+				
+				
+   		 	</p>
+   		 	
+			<div class="wth2-continue">
+				<a href="#" role="button" class="ui-btn ui-btn-inline ui-shadow ui-corner-all ui-mini wth2-ui-btn" id="abandon_continueOnline">Continue Online</a>
+			</div>	
+		</div>	
+	
+  
+				
+				
+
+
+
+		
+
+	
+
+
+		                                   
+ 				
+
+<form id="accessibilityModeForm" class="wth2-accessibilityModeForm wth2-accessibilityModeHidden">
+	<div class="ui-block-a wth2-accessibilityModeBlock">
+		<fieldset data-role="controlgroup" class="wth2-radioBtn ui-controlgroup ui-controlgroup-vertical ui-corner-all ui-mini"><div role="heading" class="ui-controlgroup-label"><legend id="accessibilityModeLegend" tabindex="-1">Enhanced Accessibility Browsing Mode:</legend></div><div class="ui-controlgroup-controls ">
+		   	
+		   	<div class="ui-radio"><label for="accessibilityEnabled_off" class="ui-btn ui-corner-all ui-btn-inherit ui-btn-icon-left ui-radio-on ui-first-child"> Off</label><input type="radio" name="accessibilityEnabled" onfocus="accessibilityModeVisible()" id="accessibilityEnabled_off" value="off" checked="checked" class="wth2-accessibilityModeInput"></div>
+		   	<div class="ui-radio"><label for="accessibilityEnabled_on" class="ui-btn ui-corner-all ui-btn-inherit ui-btn-icon-left ui-radio-off"> On</label><input type="radio" name="accessibilityEnabled" onfocus="accessibilityModeVisible()" id="accessibilityEnabled_on" value="on" class="wth2-accessibilityModeInput"></div>							
+			<div class="wth2-accessibilityModeSubmit"><a id="accessibilityModeSubmit" onfocus="showAccessibilityModule()" href="#" class="ui-btn ui-shadow ui-corner-all ui-mini ui-last-child" aria-labelledby="accessibilityModeSubmit accessibilityModeLegend">Apply</a></div>
+		</div></fieldset>
+	</div>
+</form>
+<div id="accessibilityModeFormConfirmation" class="wth2-accessibilityConfirmation wth2-accessibilityModeHidden" style="display:none">
+	<div class="wth2-sucessMessage">
+		<i class="fa fa-check-circle" aria-hidden="true"></i>
+		<div id="accessibilityModeConfContent" class="wth2-sucessMessageCont" tabindex="-1">Enhanced Accessibility Browsing Mode has been turned <span id="accessibilityModeConfMode" aria-live="off" class="wth2-bold wth2-uppercase">on</span>.</div>		    
+    	<div class="wth2-accessibilityModeEdit"><a id="accessibilityModeEdit" onfocus="showAccessibilityModule()" href="#" class="ui-btn ui-shadow ui-btn-inline ui-corner-all ui-mini" aria-describedby="accessibilityModeConfContent">Edit Accessibility Mode</a></div>
+	</div>
+</div>
+<a href="#mainContent" id="skipToMainContent" class="wth2-skipToMain ui-link" onfocus="hideAccessibilityModule()" onclick="setFocusSelectEl('mainContent')">Skip to content <span class="visuallyhidden">Press Enter</span></a> 	
+               
 				<div id="backtoTop">
-                	<div class="wth2-persist-area">
-                		<a href="#" id="skipToMainContent" tabindex="-1" aria-hidden="true" class="visuallyhidden ui-link">Start of page</a> 
+				
+                	<div class="wth2-persist-area">	
+
                 		 
                 		
-	            		<div class="wth2-header" role="banner">
-								   
-	            			
-	            			
+	            		          		
+	            			<div class="wth2-header">
+	            				<header role="banner">  
+			            				            			
+										   
+			       					
+			            				
 
 
 <div id="headerOuterContainer" class="wth2-desktopOnly wth2-externalHeader" data-ajax="true">  	  
-	<!--CMS servername and timestamp  mag.web.nlg1.com, Mar 16, 2017 4:35:55 PM-->
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
+	<!--CMS servername and timestamp  mag.web.nlg1.com, Nov 9, 2018 3:25:18 PM-->
 
 
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
-
-
-
-
-
-
-
-<script language="JavaScript" src="/lib/javascript/general/datefunctions.js"></script>
-<script language="JavaScript" src="/lib/javascript/general/timer-promo.js"></script>
 
 
 
@@ -552,7 +845,6 @@ if (window.location.search) {
 
 
 	
-
 
 <script>	
 $(document).ready(function() {
@@ -562,23 +854,17 @@ $(document).ready(function() {
 });
 </script>	
 
-<div class="wthHeaderWrap">
-	<header>
+<div id="wthHeaderWrap" class="wthHeaderWrap wthHeaderWrap_cruisesonly">
 	<div id="wthHeaderModuleContainer">
 
  	
  	
 			
 		
-			
-			
-			
-			
 		
 		
 		
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -586,29 +872,48 @@ $(document).ready(function() {
 
 
 
-
-	<div class="wthHeaderModules_1" id="headerModules_1">
+	<div class="wthHeaderModules_1">
 
  	
  	
 			
 		
+		
+		
+		
 			
-			
-			
-			
+		
 		
 		
 		
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
+	</div>
+
+	
+
+
+
+
+
+
+
+
+	<div class="wthHeaderModules_2">
+
+ 	
+ 	
+			
+		
+		
+		
+		
 
 
 
 	<div class="wthHeaderLogo">
-		<a id="headerLogoFunction" href="/" onclick="CallTracker('Header/', 'Navigation/', 'Cruises Home');" class="ui-link" data-ajax="false">
+		<a class="headerLogoFunction ui-link" href="/" onclick="CallTracker('Header/', 'Navigation/', 'Cruises Home');" data-ajax="false">
 		
-			<img src="/images_unique/logos/brand/CRZNW.png" alt="CruisesOnly">
+			<img src="/images_unique/logos/brand/CRZNW.png" alt="CruisesOnly Home">
 		</a>
 		
 		
@@ -626,7 +931,6 @@ $(document).ready(function() {
 
 	
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -634,23 +938,15 @@ $(document).ready(function() {
 
 
 
-
-	<div class="wthHeaderModules_2" id="headerModules_2">
+	<div class="wthHeaderModules_3">
 
  	
  	
 			
 		
-			
-			
-			
-			
 		
 		
 		
-
-
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 	
@@ -669,11 +965,12 @@ $(document).ready(function() {
 	
 		<div id="headerCruiseReservation" class="wthHeaderCruiseReservationWrap">
 			<span class="headerCruiseReservationPipe wthCruResPipeLeft">|</span>
-			<a href="/css/login.do" rel="nofollow" id="header_reservation_link_icon" title="Header: My Cruise Reservation" onclick="CallTracker('Header/', 'Navigation/', 'My Cruise Reservation');" class="ui-link" data-ajax="false">
-			<span class="fa-regular-link"><i class="fa fa-suitcase" aria-hidden="true"></i></span></a> 
-			 <a href="/css/login.do" rel="nofollow" id="header_reservation_link" title="Header: My Cruise Reservation" onclick="CallTracker('Header/', 'Navigation/', 'My Cruise Reservation');" class="ui-link" data-ajax="false">My Cruise Reservation</a>
+				<a href="/css/login.do" rel="nofollow" id="header_reservation_link" onclick="CallTracker('Header/', 'Navigation/', 'My Cruise Reservation');" class="ui-link" data-ajax="false">
+				<span class="fa-regular-link"><i class="fa fa-suitcase" aria-hidden="true" style="width:1.3em;text-decoration:none;">&nbsp;</i>My Cruise Reservation</span>
+			</a>
 			<span class="headerCruiseReservationPipe wthCruResPipeRight">|</span>
 		</div>
+
 	
 	
 			
@@ -687,7 +984,6 @@ $(document).ready(function() {
 
 	
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -695,100 +991,90 @@ $(document).ready(function() {
 
 
 
-
-	<div class="wthHeaderModules_3" id="headerModules_3">
+	<div class="wthHeaderModules_4">
 			<div id="wthHeaderNavigationWrapper" class="wthHeaderNavWrapper">
-				<nav id="wthHeaderNavigation" class="wthHeaderNav">
+				<nav id="wthHeaderNavigation" class="wthHeaderNav" role="navigation" aria-label="Travel Menu">
 					<ul id="wthHeaderNavigationMenu" class="wthHeaderNavMenu">
 
  	
  	
 			
 		
-			
-			
-			
-			
 		
 		
 		
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
 
 
 
-
-
-	<li id="wthNavMainLinkWrapper_1" class="headerNavmenu wthHeaderNavMainLinks">
-		
-		<a id="wthNavMainLink_1" class="headerNavMainLink ui-link" href="#" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals');" title="Header: Cruise Deals" data-ajax="false">
+	<li aria-haspopup="true" class="headerNavmenu wthHeaderNavMainLinks wthNavMainLinkWrapper_1">	
+		<a class="headerNavMainLink wthNavMainLink_1 ui-link" href="#" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals');" aria-expanded="false" role="button" data-ajax="false">
 			Cruise Deals
 		</a>
-		
-			<ul class="wthHeaderSubNavLinks" style="z-index:5000; display:none;">
-								
-		
+			
+		<ul class="wthHeaderSubNavLinks" style="z-index:5000; display:none;" aria-label="Cruise Deals" aria-hidden="true">
+
 			
 			
 			<li class="headerSubNavlink">
-				<a href="/promotion/2017-cruise-deals.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals_2017CruiseDeals');" title="Header: Cruise Deals: 2017 Cruise Deals" class="ui-link" data-ajax="false">2017 Cruise Deals</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/promotion/balcony-suite-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals_Balcony&amp;SuiteDeals');" title="Header: Cruise Deals: Balcony &amp; Suite Deals" class="ui-link" data-ajax="false">Balcony &amp; Suite Deals</a>	
+				<a href="/promotion/2018-cruise-deals.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals_2018CruiseDeals');" class="ui-link" data-ajax="false">2018 Cruise Deals</a>	
 								
 			</li>
 			
 			
 			<li class="headerSubNavlink">
-				<a href="/promotion/cheap-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals_CheapCruises');" title="Header: Cruise Deals: Cheap Cruises" class="ui-link" data-ajax="false">Cheap Cruises</a>	
+				<a href="/promotion/2019-cruise-deals.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals_2019CruiseDeals');" class="ui-link" data-ajax="false">2019 Cruise Deals</a>	
 								
 			</li>
 			
 			
 			<li class="headerSubNavlink">
-				<a href="/promotion/family-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals_FamilyCruises');" title="Header: Cruise Deals: Family Cruises" class="ui-link" data-ajax="false">Family Cruises</a>	
+				<a href="/promotion/balcony-suite-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals_Balcony&amp;SuiteDeals');" class="ui-link" data-ajax="false">Balcony &amp; Suite Deals</a>	
 								
 			</li>
 			
 			
 			<li class="headerSubNavlink">
-				<a href="/promotion/holiday-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals_HolidayCruises');" title="Header: Cruise Deals: Holiday Cruises" class="ui-link" data-ajax="false">Holiday Cruises</a>	
+				<a href="/promotion/cheap-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals_CheapCruises');" class="ui-link" data-ajax="false">Cheap Cruises</a>	
 								
 			</li>
 			
 			
 			<li class="headerSubNavlink">
-				<a href="/promotion/romantic-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals_HoneymoonCruises');" title="Header: Cruise Deals: Honeymoon Cruises" class="ui-link" data-ajax="false">Honeymoon Cruises</a>	
+				<a href="/promotion/family-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals_FamilyCruises');" class="ui-link" data-ajax="false">Family Cruises</a>	
 								
 			</li>
 			
 			
 			<li class="headerSubNavlink">
-				<a href="/promotion/last-minute-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals_Last-MinuteCruiseDeals');" title="Header: Cruise Deals: Last-Minute Cruise Deals" class="ui-link" data-ajax="false">Last-Minute Cruise Deals</a>	
+				<a href="/promotion/holiday-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals_HolidayCruises');" class="ui-link" data-ajax="false">Holiday Cruises</a>	
 								
 			</li>
 			
 			
 			<li class="headerSubNavlink">
-				<a href="/promotion/weekend-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals_QuickGetaways');" title="Header: Cruise Deals: Quick Getaways" class="ui-link" data-ajax="false">Quick Getaways</a>	
+				<a href="/promotion/last-minute-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals_Last-MinuteCruiseDeals');" class="ui-link" data-ajax="false">Last-Minute Cruise Deals</a>	
 								
 			</li>
 			
 			
 			<li class="headerSubNavlink">
-				<a href="/promotion/summer-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals_SummerCruises');" title="Header: Cruise Deals: Summer Cruises" class="ui-link" data-ajax="false">Summer Cruises</a>	
+				<a href="/promotion/weekend-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals_QuickGetaways');" class="ui-link" data-ajax="false">Quick Getaways</a>	
 								
 			</li>
 			
 			
 			<li class="headerSubNavlink">
-				<a href="/promotion/best-cruise-ships.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals_Top10CruiseShips');" title="Header: Cruise Deals: Top 10 Cruise Ships" class="ui-link" data-ajax="false">Top 10 Cruise Ships</a>	
+				<a href="/promotion/best-cruise-ships.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals_Top10CruiseShips');" class="ui-link" data-ajax="false">Top 10 Cruise Ships</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/winter-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals_WinterCruises');" class="ui-link" data-ajax="false">Winter Cruises</a>	
 								
 			</li>
 
@@ -796,15 +1082,10 @@ $(document).ready(function() {
  	
 			
 		
-			
-			
-			
-			
 		
 		
 		
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -814,7 +1095,6 @@ $(document).ready(function() {
 
 
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -824,7 +1104,6 @@ $(document).ready(function() {
 
 
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -834,7 +1113,6 @@ $(document).ready(function() {
 
 
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -844,7 +1122,6 @@ $(document).ready(function() {
 
 
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -854,7 +1131,6 @@ $(document).ready(function() {
 
 
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -864,7 +1140,6 @@ $(document).ready(function() {
 
 
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -872,29 +1147,6 @@ $(document).ready(function() {
 
 
 
-
-
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
-
-
-
-
-
-
-
-
-
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
-
-
-
-
-
-
-
-
-
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -910,294 +1162,288 @@ $(document).ready(function() {
 		
 		
 
-				<li class="headerSubNavlink"><a href="/promotion/cruise-deals.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals_SeeAll');" title="Header: Cruise Deals: View All" class="ui-link" data-ajax="false">View all cruise deals</a></li>
+			<li class="headerSubNavlink"><a href="/promotion/cruise-deals.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDeals_SeeAll');" class="ui-link" data-ajax="false">View all cruise deals</a></li>
+		
 		</ul>
 	</li>
+
 	
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
 
 
 
-
-
-	<li id="wthNavMainLinkWrapper_2" class="headerNavmenu wthHeaderNavMainLinks">
-		
-		<a id="wthNavMainLink_2" class="headerNavMainLink ui-link" href="#" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines');" title="Header: Cruise Lines" data-ajax="false">
+	<li aria-haspopup="true" class="headerNavmenu wthHeaderNavMainLinks wthNavMainLinkWrapper_2">	
+		<a class="headerNavMainLink wthNavMainLink_2 ui-link" href="#" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines');" aria-expanded="false" role="button" data-ajax="false">
 			Cruise Lines
 		</a>
+			
+		<ul class="wthHeaderSubNavLinks" style="z-index:5000; display:none;" aria-label="Cruise Lines" aria-hidden="true">
+
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/carnival-cruises.do?c=1" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_CarnivalCruiseLines');" class="ui-link" data-ajax="false">Carnival Cruise Lines</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/celebrity-cruises.do?c=11" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_CelebrityCruises');" class="ui-link" data-ajax="false">Celebrity Cruises</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/costa-cruises.do?c=14" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_CostaCruises');" class="ui-link" data-ajax="false">Costa Cruises</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/disney-cruises.do?c=20" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_DisneyCruiseLine');" class="ui-link" data-ajax="false">Disney Cruise Line</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/holland-america-cruises.do?c=24" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_HollandAmericaLine');" class="ui-link" data-ajax="false">Holland America Line</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/msc-cruises.do?c=71" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_MSCCruises');" class="ui-link" data-ajax="false">MSC Cruises</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/norwegian-cruises.do?c=34" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_NorwegianCruiseLine');" class="ui-link" data-ajax="false">Norwegian Cruise Line</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/princess-cruises.do?c=40" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_PrincessCruises');" class="ui-link" data-ajax="false">Princess Cruises</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/royal-caribbean-cruises.do?c=44" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_RoyalCaribbean');" class="ui-link" data-ajax="false">Royal Caribbean</a>	
+								
+			</li>
+			<li class="headerSubNavlink"><a href="/promotion/cruise-deals.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_SeeAll');" class="ui-link" data-ajax="false">View all cruise lines</a></li>
 		
-			<ul class="wthHeaderSubNavLinks" style="z-index:5000; display:none;">
-								
-		
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/promotion/carnival-cruises.do?c=1" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_CarnivalCruiseLines');" title="Header: Cruise Lines: Carnival Cruise Lines" class="ui-link" data-ajax="false">Carnival Cruise Lines</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/promotion/celebrity-cruises.do?c=11" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_CelebrityCruises');" title="Header: Cruise Lines: Celebrity Cruises" class="ui-link" data-ajax="false">Celebrity Cruises</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/promotion/costa-cruises.do?c=14" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_CostaCruises');" title="Header: Cruise Lines: Costa Cruises" class="ui-link" data-ajax="false">Costa Cruises</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/promotion/disney-cruises.do?c=20" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_DisneyCruiseLine');" title="Header: Cruise Lines: Disney Cruise Line" class="ui-link" data-ajax="false">Disney Cruise Line</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/promotion/holland-america-cruises.do?c=24" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_HollandAmericaLine');" title="Header: Cruise Lines: Holland America Line" class="ui-link" data-ajax="false">Holland America Line</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/promotion/msc-cruises.do?c=71" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_MSCCruises');" title="Header: Cruise Lines: MSC Cruises" class="ui-link" data-ajax="false">MSC Cruises</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/promotion/norwegian-cruises.do?c=34" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_NorwegianCruiseLine');" title="Header: Cruise Lines: Norwegian Cruise Line" class="ui-link" data-ajax="false">Norwegian Cruise Line</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/promotion/princess-cruises.do?c=40" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_PrincessCruises');" title="Header: Cruise Lines: Princess Cruises" class="ui-link" data-ajax="false">Princess Cruises</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/promotion/royal-caribbean-cruises.do?c=44" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_RoyalCaribbean');" title="Header: Cruise Lines: Royal Caribbean" class="ui-link" data-ajax="false">Royal Caribbean</a>	
-								
-			</li>
-				<li class="headerSubNavlink"><a href="/promotion/cruise-deals.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_SeeAll');" title="Header: Cruise Lines: View All" class="ui-link" data-ajax="false">View all cruise lines</a></li>
 		</ul>
 	</li>
+
 	
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
 
 
 
-
-
-	<li id="wthNavMainLinkWrapper_3" class="headerNavmenu wthHeaderNavMainLinks">
-		
-		<a id="wthNavMainLink_3" class="headerNavMainLink ui-link" href="#" onclick="CallTracker('Header/', 'Navigation/', 'LuxuryCruises');" title="Header: Luxury Cruises" data-ajax="false">
+	<li aria-haspopup="true" class="headerNavmenu wthHeaderNavMainLinks wthNavMainLinkWrapper_3">	
+		<a class="headerNavMainLink wthNavMainLink_3 ui-link" href="#" onclick="CallTracker('Header/', 'Navigation/', 'LuxuryCruises');" aria-expanded="false" role="button" data-ajax="false">
 			Luxury Cruises
 		</a>
+			
+		<ul class="wthHeaderSubNavLinks" style="z-index:5000; display:none;" aria-label="Luxury Cruises" aria-hidden="true">
+
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/ama-river-cruises.do?c=92" onclick="CallTracker('Header/', 'Navigation/', 'LuxuryCruises_AmaWaterways');" class="ui-link" data-ajax="false">AmaWaterways</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/azamara-cruises.do?c=325" onclick="CallTracker('Header/', 'Navigation/', 'LuxuryCruises_AzamaraClubCruises');" class="ui-link" data-ajax="false">Azamara Club Cruises</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/crystal-cruises.do?c=17" onclick="CallTracker('Header/', 'Navigation/', 'LuxuryCruises_CrystalCruises');" class="ui-link" data-ajax="false">Crystal Cruises</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/crystal-river-cruises.do?c=359" onclick="CallTracker('Header/', 'Navigation/', 'LuxuryCruises_CrystalRiverCruises');" class="ui-link" data-ajax="false">Crystal River Cruises</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/cunard-cruises.do?c=18" onclick="CallTracker('Header/', 'Navigation/', 'LuxuryCruises_Cunard');" class="ui-link" data-ajax="false">Cunard</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/oceania-cruises.do?c=67" onclick="CallTracker('Header/', 'Navigation/', 'LuxuryCruises_OceaniaCruises');" class="ui-link" data-ajax="false">Oceania Cruises</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/regent-cruises.do?c=41" onclick="CallTracker('Header/', 'Navigation/', 'LuxuryCruises_RegentSevenSeasCruises');" class="ui-link" data-ajax="false">Regent Seven Seas Cruises</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/viking-ocean-cruises.do?c=354" onclick="CallTracker('Header/', 'Navigation/', 'LuxuryCruises_VikingOceanCruises');" class="ui-link" data-ajax="false">Viking Ocean Cruises</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/viking-river-cruises.do?c=78" onclick="CallTracker('Header/', 'Navigation/', 'LuxuryCruises_VikingRiverCruises');" class="ui-link" data-ajax="false">Viking River Cruises</a>	
+								
+			</li>
+			<li class="headerSubNavlink"><a href="/promotion/cruise-deals.do" onclick="CallTracker('Header/', 'Navigation/', 'LuxuryCruises_SeeAll');" class="ui-link" data-ajax="false">View all luxury cruises</a></li>
 		
-			<ul class="wthHeaderSubNavLinks" style="z-index:5000; display:none;">
-								
-		
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/interstitial.do?lodest=ama-river-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'LuxuryCruises_AmaWaterways');" title="Header: Luxury Cruises: AmaWaterways" class="ui-link" data-ajax="false">AmaWaterways</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/interstitial.do?lodest=azamara-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'LuxuryCruises_AzamaraClubCruises');" title="Header: Luxury Cruises: Azamara Club Cruises" class="ui-link" data-ajax="false">Azamara Club Cruises</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/interstitial.do?lodest=crystal-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'LuxuryCruises_CrystalCruises');" title="Header: Luxury Cruises: Crystal Cruises" class="ui-link" data-ajax="false">Crystal Cruises</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/interstitial.do?lodest=crystal-river-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'LuxuryCruises_CrystalRiverCruises');" title="Header: Luxury Cruises: Crystal River Cruises" class="ui-link" data-ajax="false">Crystal River Cruises</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/interstitial.do?lodest=cunard-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'LuxuryCruises_Cunard');" title="Header: Luxury Cruises: Cunard" class="ui-link" data-ajax="false">Cunard</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/interstitial.do?lodest=oceania-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'LuxuryCruises_OceaniaCruises');" title="Header: Luxury Cruises: Oceania Cruises" class="ui-link" data-ajax="false">Oceania Cruises</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/interstitial.do?lodest=regent-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'LuxuryCruises_RegentSevenSeasCruises');" title="Header: Luxury Cruises: Regent Seven Seas Cruises" class="ui-link" data-ajax="false">Regent Seven Seas Cruises</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/interstitial.do?lodest=viking-ocean-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'LuxuryCruises_VikingOceanCruises');" title="Header: Luxury Cruises: Viking Ocean Cruises" class="ui-link" data-ajax="false">Viking Ocean Cruises</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/interstitial.do?lodest=viking-river-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'LuxuryCruises_VikingRiverCruises');" title="Header: Luxury Cruises: Viking River Cruises" class="ui-link" data-ajax="false">Viking River Cruises</a>	
-								
-			</li>
-				<li class="headerSubNavlink"><a href="/promotion/cruise-deals.do" onclick="CallTracker('Header/', 'Navigation/', 'LuxuryCruises_SeeAll');" title="Header: Luxury Cruises: View All" class="ui-link" data-ajax="false">View all luxury cruises</a></li>
 		</ul>
 	</li>
+
 	
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
 
 
 
-
-
-	<li id="wthNavMainLinkWrapper_4" class="headerNavmenu wthHeaderNavMainLinks">
-		
-		<a id="wthNavMainLink_4" class="headerNavMainLink ui-link" href="#" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDestinations');" title="Header: Destinations" data-ajax="false">
+	<li aria-haspopup="true" class="headerNavmenu wthHeaderNavMainLinks wthNavMainLinkWrapper_4">	
+		<a class="headerNavMainLink wthNavMainLink_4 ui-link" href="#" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDestinations');" aria-expanded="false" role="button" data-ajax="false">
 			Destinations
 		</a>
+			
+		<ul class="wthHeaderSubNavLinks" style="z-index:5000; display:none;" aria-label="Destinations" aria-hidden="true">
+
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/alaska-cruises.do?places=A" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDestinations_Alaska');" class="ui-link" data-ajax="false">Alaska</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/bahamas-cruises.do?places=BH" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDestinations_Bahamas');" class="ui-link" data-ajax="false">Bahamas</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/bermuda-cruises.do?places=BM" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDestinations_Bermuda');" class="ui-link" data-ajax="false">Bermuda</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/canada-new-england-cruises.do?places=NN" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDestinations_Canada/NewEngland/NY');" class="ui-link" data-ajax="false">Canada/New England/NY</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/caribbean-cruises.do?places=C" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDestinations_Caribbean');" class="ui-link" data-ajax="false">Caribbean</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/cuba-cruises.do?places=CU" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDestinations_Cuba');" class="ui-link" data-ajax="false">Cuba</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/europe-cruises.do?places=E" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDestinations_Europe');" class="ui-link" data-ajax="false">Europe</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/hawaii-cruises.do?places=H" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDestinations_Hawaii');" class="ui-link" data-ajax="false">Hawaii</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/mexico-cruises.do?places=M" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDestinations_Mexico');" class="ui-link" data-ajax="false">Mexico</a>	
+								
+			</li>
+			<li class="headerSubNavlink"><a href="/promotion/cruise-deals.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDestinations_SeeAll');" class="ui-link" data-ajax="false">View all destinations</a></li>
 		
-			<ul class="wthHeaderSubNavLinks" style="z-index:5000; display:none;">
-								
-		
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/promotion/alaska-cruises.do?places=A" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDestinations_Alaska');" title="Header: Destinations: Alaska" class="ui-link" data-ajax="false">Alaska</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/promotion/bahamas-cruises.do?places=BH" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDestinations_Bahamas');" title="Header: Destinations: Bahamas" class="ui-link" data-ajax="false">Bahamas</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/promotion/bermuda-cruises.do?places=BM" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDestinations_Bermuda');" title="Header: Destinations: Bermuda" class="ui-link" data-ajax="false">Bermuda</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/promotion/canada-new-england-cruises.do?places=NN" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDestinations_Canada/NewEngland/NY');" title="Header: Destinations: Canada/New England/NY" class="ui-link" data-ajax="false">Canada/New England/NY</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/promotion/caribbean-cruises.do?places=C" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDestinations_Caribbean');" title="Header: Destinations: Caribbean" class="ui-link" data-ajax="false">Caribbean</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/promotion/cuba-cruises.do?places=CU" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDestinations_Cuba');" title="Header: Destinations: Cuba" class="ui-link" data-ajax="false">Cuba</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/promotion/europe-cruises.do?places=E" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDestinations_Europe');" title="Header: Destinations: Europe" class="ui-link" data-ajax="false">Europe</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/promotion/hawaii-cruises.do?places=H" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDestinations_Hawaii');" title="Header: Destinations: Hawaii" class="ui-link" data-ajax="false">Hawaii</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/promotion/mexico-cruises.do?places=M" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDestinations_Mexico');" title="Header: Destinations: Mexico" class="ui-link" data-ajax="false">Mexico</a>	
-								
-			</li>
-				<li class="headerSubNavlink"><a href="/promotion/cruise-deals.do" onclick="CallTracker('Header/', 'Navigation/', 'CruiseDestinations_SeeAll');" title="Header: Destinations: View All" class="ui-link" data-ajax="false">View all destinations</a></li>
 		</ul>
 	</li>
+
 	
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
 
 
 
-
-
-	<li id="wthNavMainLinkWrapper_5" class="headerNavmenu wthHeaderNavMainLinks">
-		
-		<a id="wthNavMainLink_5" class="headerNavMainLink ui-link" href="#" onclick="CallTracker('Header/', 'Navigation/', 'CruisePorts');" title="Header: Cruise Ports" data-ajax="false">
+	<li aria-haspopup="true" class="headerNavmenu wthHeaderNavMainLinks wthNavMainLinkWrapper_5">	
+		<a class="headerNavMainLink wthNavMainLink_5 ui-link" href="#" onclick="CallTracker('Header/', 'Navigation/', 'CruisePorts');" aria-expanded="false" role="button" data-ajax="false">
 			Cruise Ports
 		</a>
-		
-			<ul class="wthHeaderSubNavLinks" style="z-index:5000; display:none;">
-								
-		
+			
+		<ul class="wthHeaderSubNavLinks" style="z-index:5000; display:none;" aria-label="Cruise Ports" aria-hidden="true">
+
 			
 			
 			<li class="headerSubNavlink">
-				<a href="/promotion/cruises-from-us-ports.do" onclick="CallTracker('Header/', 'Navigation/', 'CruisePorts_CruisefromUSPorts');" title="Header: Cruise Ports: Cruise from US Ports" class="ui-link" data-ajax="false">Cruise from US Ports</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/promotion/ports/northeast-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruisePorts_CruisefromNortheast');" title="Header: Cruise Ports: Cruise from Northeast" class="ui-link" data-ajax="false">Cruise from Northeast</a>	
+				<a href="/promotion/cruises-from-us-ports.do" onclick="CallTracker('Header/', 'Navigation/', 'CruisePorts_CruisefromUSPorts');" class="ui-link" data-ajax="false">Cruise from US Ports</a>	
 								
 			</li>
 			
 			
 			<li class="headerSubNavlink">
-				<a href="/promotion/ports/southeast-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruisePorts_CruisefromSoutheast');" title="Header: Cruise Ports: Cruise from Southeast" class="ui-link" data-ajax="false">Cruise from Southeast</a>	
+				<a href="/promotion/cruises-from-florida.do" onclick="CallTracker('Header/', 'Navigation/', 'CruisePorts_CruisesfromFlorida');" class="ui-link" data-ajax="false">Cruises from Florida</a>	
 								
 			</li>
 			
 			
 			<li class="headerSubNavlink">
-				<a href="/promotion/ports/gulf-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruisePorts_CruisefromGulf');" title="Header: Cruise Ports: Cruise from Gulf" class="ui-link" data-ajax="false">Cruise from Gulf</a>	
+				<a href="/promotion/ports/cruises-from-new-york.do" onclick="CallTracker('Header/', 'Navigation/', 'CruisePorts_CruisesfromNewYork');" class="ui-link" data-ajax="false">Cruises from New York</a>	
 								
 			</li>
 			
 			
 			<li class="headerSubNavlink">
-				<a href="/promotion/ports/west-coast-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruisePorts_CruisefromWestCoast');" title="Header: Cruise Ports: Cruise from West Coast" class="ui-link" data-ajax="false">Cruise from West Coast</a>	
+				<a href="/promotion/ports/gulf-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruisePorts_CruisesfromtheGulfCoast');" class="ui-link" data-ajax="false">Cruises from the Gulf Coast</a>	
 								
 			</li>
 			
 			
 			<li class="headerSubNavlink">
-				<a href="/promotion/ports/cruises-from-new-york.do" onclick="CallTracker('Header/', 'Navigation/', 'CruisePorts_CruisefromNewYork');" title="Header: Cruise Ports: Cruise from New York" class="ui-link" data-ajax="false">Cruise from New York</a>	
+				<a href="/promotion/ports/northeast-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruisePorts_CruisesfromtheNortheast');" class="ui-link" data-ajax="false">Cruises from the Northeast</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/ports/southeast-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruisePorts_CruisesfromtheSoutheast');" class="ui-link" data-ajax="false">Cruises from the Southeast</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/ports/west-coast-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'CruisePorts_CruisesfromtheWestCoast');" class="ui-link" data-ajax="false">Cruises from the West Coast</a>	
 								
 			</li>
 
@@ -1205,15 +1451,10 @@ $(document).ready(function() {
  	
 			
 		
-			
-			
-			
-			
 		
 		
 		
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -1223,7 +1464,6 @@ $(document).ready(function() {
 
 
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -1233,7 +1473,6 @@ $(document).ready(function() {
 
 
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -1243,7 +1482,6 @@ $(document).ready(function() {
 
 
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -1253,17 +1491,10 @@ $(document).ready(function() {
 
 
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
 
-
-
-
-
-
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -1279,92 +1510,89 @@ $(document).ready(function() {
 		
 		
 
+		
 		</ul>
 	</li>
+
 	
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
 
 
 
-
-
-	<li id="wthNavMainLinkWrapper_6" class="headerNavmenu wthHeaderNavMainLinks">
-		
-		<a id="wthNavMainLink_6" class="headerNavMainLink ui-link" href="#" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise');" title="Header: How To Cruise" data-ajax="false">
+	<li aria-haspopup="true" class="headerNavmenu wthHeaderNavMainLinks wthNavMainLinkWrapper_6">	
+		<a class="headerNavMainLink wthNavMainLink_6 ui-link" href="#" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise');" aria-expanded="false" role="button" data-ajax="false">
 			How To Cruise
 		</a>
-		
-			<ul class="wthHeaderSubNavLinks" style="z-index:5000; display:none;">
-								
-		
+			
+		<ul class="wthHeaderSubNavLinks" style="z-index:5000; display:none;" aria-label="How To Cruise" aria-hidden="true">
+
 			
 			
 			<li class="headerSubNavlink">
-				<a href="/promotion/faq.do" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise_CruiseFAQs');" title="Header: How To Cruise: Cruise FAQs" class="ui-link" data-ajax="false">Cruise FAQs</a>	
-								
-			</li>
-			
-			
-			<li class="headerSubNavlink">
-				<a href="/promotion/how-to-cruise/find-a-cruise.do" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise_FindTheRightCruiseForYou');" title="Header: How To Cruise: Find The Right Cruise For You" class="ui-link" data-ajax="false">Find The Right Cruise For You</a>	
+				<a href="/promotion/faq.do" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise_CruiseFAQs');" class="ui-link" data-ajax="false">Cruise FAQs</a>	
 								
 			</li>
 			
 			
 			<li class="headerSubNavlink">
-				<a href="/promotion/group-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise_GroupCruises');" title="Header: How To Cruise: Group Cruises" class="ui-link" data-ajax="false">Group Cruises</a>	
+				<a href="/promotion/how-to-cruise/find-a-cruise.do" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise_FindTheRightCruiseForYou');" class="ui-link" data-ajax="false">Find The Right Cruise For You</a>	
 								
 			</li>
 			
 			
 			<li class="headerSubNavlink">
-				<a href="/promotion/how-to-cruise/life-onboard.do" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise_LifeOnboard');" title="Header: How To Cruise: Life Onboard" class="ui-link" data-ajax="false">Life Onboard</a>	
+				<a href="/promotion/group-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise_GroupCruises');" class="ui-link" data-ajax="false">Group Cruises</a>	
 								
 			</li>
 			
 			
 			<li class="headerSubNavlink">
-				<a href="//www.resortforaday.com/" target="_blank" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise_ResortforADay');" title="Header: How To Cruise: Resort for A Day" class="ui-link" data-ajax="false">Resort for A Day</a>	
+				<a href="/promotion/how-to-cruise/life-onboard.do" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise_LifeOnboard');" class="ui-link" data-ajax="false">Life Onboard</a>	
 								
 			</li>
 			
 			
 			<li class="headerSubNavlink">
-				<a href="/promotion/how-to-cruise/safety-at-sea.do" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise_SafetyAtSea');" title="Header: How To Cruise: Safety At Sea" class="ui-link" data-ajax="false">Safety At Sea</a>	
+				<a href="//www.resortforaday.com/" target="_blank" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise_ResortforADay');" class="ui-link" data-ajax="false">Resort for A Day</a>	
 								
 			</li>
 			
 			
 			<li class="headerSubNavlink">
-				<a href="http://www.shoreexcursionsgroup.com/v/affiliate/?id=1689" target="_blank" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise_ShoreExcursions');" title="Header: How To Cruise: Shore Excursions" class="ui-link" data-ajax="false">Shore Excursions</a>	
+				<a href="/promotion/how-to-cruise/safety-at-sea.do" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise_SafetyAtSea');" class="ui-link" data-ajax="false">Safety At Sea</a>	
 								
 			</li>
 			
 			
 			<li class="headerSubNavlink">
-				<a href="/promotion/singles-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise_SinglesCruises');" title="Header: How To Cruise: Singles Cruises" class="ui-link" data-ajax="false">Singles Cruises</a>	
+				<a href="http://www.shoreexcursionsgroup.com/v/affiliate/?id=1689" target="_blank" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise_ShoreExcursions');" class="ui-link" data-ajax="false">Shore Excursions</a>	
 								
 			</li>
 			
 			
 			<li class="headerSubNavlink">
-				<a href="/promotion/how-to-cruise/why-your-next-vacation-should-be-a-cruise.do" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise_Top10ReasonsToCruise');" title="Header: How To Cruise: Top 10 Reasons To Cruise" class="ui-link" data-ajax="false">Top 10 Reasons To Cruise</a>	
+				<a href="/promotion/singles-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise_SinglesCruises');" class="ui-link" data-ajax="false">Singles Cruises</a>	
 								
 			</li>
 			
 			
 			<li class="headerSubNavlink">
-				<a href="/promotion/cruise-videos.do" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise_VideoLibrary');" title="Header: How To Cruise: Video Library" class="ui-link" data-ajax="false">Video Library</a>	
+				<a href="/promotion/how-to-cruise/why-your-next-vacation-should-be-a-cruise.do" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise_Top10ReasonsToCruise');" class="ui-link" data-ajax="false">Top 10 Reasons To Cruise</a>	
 								
 			</li>
 			
 			
 			<li class="headerSubNavlink">
-				<a href="/promotion/why-buy-from-us.do" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise_WhyBuyFromCruisesOnly');" title="Header: How To Cruise: Why Buy From CruisesOnly" class="ui-link" data-ajax="false">Why Buy From CruisesOnly</a>	
+				<a href="/promotion/cruise-videos.do" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise_VideoLibrary');" class="ui-link" data-ajax="false">Video Library</a>	
+								
+			</li>
+			
+			
+			<li class="headerSubNavlink">
+				<a href="/promotion/why-buy-from-us.do" onclick="CallTracker('Header/', 'Navigation/', 'HowToCruise_WhyBuyFromCruisesOnly');" class="ui-link" data-ajax="false">Why Buy From CruisesOnly</a>	
 								
 			</li>
 
@@ -1372,15 +1600,10 @@ $(document).ready(function() {
  	
 			
 		
-			
-			
-			
-			
 		
 		
 		
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -1390,7 +1613,6 @@ $(document).ready(function() {
 
 
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -1400,7 +1622,6 @@ $(document).ready(function() {
 
 
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -1410,7 +1631,6 @@ $(document).ready(function() {
 
 
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -1420,7 +1640,6 @@ $(document).ready(function() {
 
 
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -1430,7 +1649,6 @@ $(document).ready(function() {
 
 
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -1440,7 +1658,6 @@ $(document).ready(function() {
 
 
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -1450,37 +1667,11 @@ $(document).ready(function() {
 
 
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
 
 
-
-
-
-
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
-
-
-
-
-
-
-
-
-
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
-
-
-
-
-
-
-
-
-
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -1496,8 +1687,10 @@ $(document).ready(function() {
 		
 		
 
+		
 		</ul>
 	</li>
+
 	
 			
 		
@@ -1513,7 +1706,6 @@ $(document).ready(function() {
 
 	
 
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
 
 
 
@@ -1521,23 +1713,15 @@ $(document).ready(function() {
 
 
 
-
-	<div class="wthHeaderModules_4" id="headerModules_4">
+	<div class="wthHeaderModules_5">
 
  	
  	
 			
 		
-			
-			
-			
-			
 		
 		
 		
-
-<!-- $Id: pagesetup.ftl,v 1.117 2017-02-01 16:15:02 shamilton Exp $ -->
-
 
 	
 		
@@ -1545,16 +1729,17 @@ $(document).ready(function() {
 <div class="bannerModule" id="bannerModule">
 	<div id="HeaderBannerModule" class="wthHeaderBanner">
 		<div class="wthHeaderBannerText">
-			<a href="/promotion/cruise-event.do" alt="" id="wthHeaderBannerLink" onclick="CallTracker('Header/', 'Navigation/', 'Umbrella Messaging');" target="_parent" class="ui-link" data-ajax="false"><span class="pricecolor">Choose 'n Cruise:</span> Receive up to $200 towards a hotel stay, $1,000 Cash Back or up to $750 to spend on drinks, specialty dining, spa &amp; more! Plus <span class="pricecolor">Book Now, Pay Later:</span> No Deposit Required</a>
+			<a href="/results.do?places=ALL&amp;c=1,11,24,34,40,44&amp;sort_by=7" alt="" id="wthHeaderBannerLink" onclick="CallTracker('Header/', 'Navigation/', 'Umbrella Messaging');" target="_parent" class="ui-link" data-ajax="false"><strong>Double Your Bonus:</strong> Get Up To A $1,500 Amazon Gift Card Or Up To $1,500 To Spend At Sea! Book Now &amp; Pay Later: We'll Waive Your Deposit!</a>
 	
 			<script type="text/javascript">
 				var dateBanner = new Date();
-				var startdateBanner=new Date("Mon, 13 Mar, 2017 00:00:00");
-				var enddateBanner = new Date("Fri, 17 Mar, 2017 23:59:59");
-				var tagTextBanner = "Time Left: ";
+				var startdateBanner=new Date("Tue, 06 Nov, 2018 00:00:00");
+				var enddateBanner = new Date("Fri, 09 Nov, 2018 23:59:59");
+				var tagTextBanner = "Double Your Bonus Ends In ";
+				var tag_length = (tagTextBanner.length) + +8 ;
 			
 				if ((dateBanner>startdateBanner)&&(dateBanner<enddateBanner)) {
-					document.write("<form name='clockBanner' class='wthHeaderClockBanner'><input name='countdownBanner' class='wthHeaderCountdownBanner' type='text' size='38' data-role='none' tabindex='-1' ></form>")
+					document.write("<form name='clockBanner' class='wthHeaderClockBanner'><input name='countdownBanner' class='wthHeaderCountdownBanner' type='text' size='" + tag_length + "' data-role='none' tabindex='-1' ></form>")
 				}
 				
 				var timerIDBanner = null;
@@ -1576,18 +1761,23 @@ $(document).ready(function() {
 					var diffBanner = Date.parse(enddateBanner) - date.getTime();
 					diffBanner = Math.floor(diffBanner / 1000);
 					var secBanner = diffBanner % 60;
-					var secdescBanner = (secBanner == 1) ? ' sec' : ' sec';
+					var secdescBanner = (secBanner == 1) ? '' : '';
 					var minBanner = Math.floor((diffBanner % 3600)/60);
-					var mindescBanner = (minBanner == 1) ? ' min, ' : ' min, ';
+					var mindescBanner = (minBanner == 1) ? ':' : ':';
 					var hrsBanner   = Math.floor((diffBanner % 86400)/3600);
-					var hourdescBanner = (hrsBanner == 1) ? ' hr, ' : ' hr, ';
+					var hourdescBanner = (hrsBanner == 1) ? ':' : ':';
 					var daysBanner    = Math.floor(diffBanner / 86400);
-					var daydescBanner = (daysBanner == 1) ? ' day, ' : ' days, ';
-			
-					if (daysBanner>0){document.clockBanner.countdownBanner.value = tagTextBanner + daysBanner  + daydescBanner + hrsBanner + hourdescBanner + minBanner + mindescBanner + secBanner+ secdescBanner;}
-					if (daysBanner<=0){document.clockBanner.countdownBanner.value = tagTextBanner + hrsBanner + hourdescBanner + minBanner + mindescBanner + secBanner  + secdescBanner;}
-					if ((daysBanner<=0)&&(hrsBanner<=0)){document.clockBanner.countdownBanner.value = tagTextBanner + minBanner + mindescBanner + secBanner + secdescBanner;}
-					if ((daysBanner<=0)&&(hrsBanner<=0)&&(minBanner<=0)){document.clockBanner.countdownBanner.value = tagTextBanner + secBanner + secdescBanner;}
+					var daydescBanner = (daysBanner == 1) ? ' Day' : ' Days';
+					var endBannerTag = "!";
+					
+	  				if(hrsBanner < 10){hrsBanner = "0" + hrsBanner;}
+	  				if(minBanner < 10){minBanner = "0" + minBanner;}
+	 				if(secBanner < 10){secBanner = "0" + secBanner;}
+ 				
+					if (daysBanner>0){document.clockBanner.countdownBanner.value = tagTextBanner + daysBanner  + daydescBanner + endBannerTag}
+					if (daysBanner<=0){document.clockBanner.countdownBanner.value = tagTextBanner + hrsBanner + hourdescBanner + minBanner + mindescBanner + secBanner  + secdescBanner + endBannerTag;}
+					if ((daysBanner<=0)&&(hrsBanner<=0)){document.clockBanner.countdownBanner.value = tagTextBanner + minBanner + mindescBanner + secBanner + secdescBanner + endBannerTag;}
+					if ((daysBanner<=0)&&(hrsBanner<=0)&&(minBanner<=0)){document.clockBanner.countdownBanner.value = tagTextBanner + secBanner + secdescBanner + endBannerTag;}
 					if ((daysBanner<=0)&&(hrsBanner<=0)&&(minBanner<=0)&&(secBanner<=0)){document.clockBanner.countdownBanner.value = " ";}
 					timerIDBanner = window.setTimeout("gettimeBanner()", 1000);
 					timerRunningBanner = true;
@@ -1615,10 +1805,23 @@ $(document).ready(function() {
 		
 		
 
+
+ 	
+ 	
+			
+		
+		
+		
+		
+			
+		
+		
+		
+		
+		
+
 		
 	</div>
-	</header>
-	
 </div>
 
 <span style="display:none">
@@ -1628,10 +1831,12 @@ $(document).ready(function() {
 	<keywords></keywords>
 	<description></description>
 	<isluxurypage>false</isluxurypage>
+	<isresponsivepage>false</isresponsivepage>
 	<googleindex>true</googleindex>
 	<abandonmentoverlay>true</abandonmentoverlay>
 	<mobileportal>false</mobileportal>
 	<mobilecallonly>false</mobilecallonly>
+	<mobilesweepstakes>false</mobilesweepstakes>
 	<pagepromotiontype></pagepromotiontype>
 	<cruiselinename></cruiselinename>
 	<id></id>
@@ -1643,24 +1848,95 @@ $(document).ready(function() {
 </xmlcontent>
 </span>
 
+
+<script>
+	$( document ).ready(function() {
+	
+	
+		//alert("pagehandle=/Structure/header/housebrands/cruisesonly");
+			if(false) {
+				$("#wthHdrMainPhone").hide();
+				$("#wthHdrLuxPhone").show();
+				$("#wthHdrAltPhoneLabel").hide();
+				$("#wthHdrAltPhoneText").hide();
+				$(".wthFtrMainPhone").hide();
+				$(".wthFtrLuxPhone").show();
+				$(".wthFtrAltPhoneLabel").hide();
+				$(".wthFtrAltPhoneText").hide();
+			} else {
+				$("#wthHdrLuxPhone").hide();
+				$("#wthHdrMainPhone").show();
+				$(".wthFtrLuxPhone").hide();
+				$(".wthFtrMainPhone").show();
+			}
+	
+	});
+</script>	
+	
 	
 </div> 
 
 
-	            			
-	            			
-	            			
+			            			
+			            			 
+			            			
 
 
 
 
 
 
-		            		
-	  					</div>					
+	    	
+	<div class="wth2-responsiveOnly">	
+		<div class="wth2-responsiveHeader">
+			<div id="responsiveHeader_above" class="ui-block-a wth2-resonsiveHeaderAbove" aria-live="off"></div>
+			<div id="responsiveLogoBg" class="ui-block-a wth2-unsuportedLogo wth2-responsiveLogoBg">
+				
 						
-                    	<div id="mainContent" class="wth2-content ui-content" data-role="content" role="main">     
-                    		
+				<a id="mobileLogo" onclick="CallTracker('Header/', 'Brand Logo', '');" rel="external" href="http://www.cruisesonly.com" class="ui-link">	
+				
+					<img id="mobileSiteLogoImg" src="/images_unique/logos/brand/CRZNW.png" alt="CruisesOnly Home">			
+				</a>
+			</div>
+					
+			<div class="ui-block-a">
+				<div id="responsiveHeaderBar" class="wth2-headerBar">		
+					
+	                    <div class="ui-block-c wth2-responsiveHomeWrapper">                         
+	                    	<a id="responsiveMenu" href="#" class="ui-btn ui-btn-inline ui-shadow ui-corner-all ui-mini wth2-ui-btn icon_menuArrow wth2-responsiveMenuFunction"><i class="fa fa-bars" aria-hidden="true"></i>Menu</a>     
+	                	</div>
+	                
+	                	
+	                
+	                	<div class="ui-block-c wth2-responsiveHomeWrapper">                         
+	                     	<a id="responsiveHeaderSearch" rel="external" href="/results.do" class="ui-btn ui-btn-inline ui-shadow ui-corner-all ui-mini wth2-ui-btn"><i class="fa fa-search" aria-hidden="true"></i>Cruise Search</a>     
+	                    </div>
+	                
+	              		    		
+					<div class="ui-block-c wth2-responsivePhoneWrapper">
+					    <a id="headerPhoneButtonNG" class="ui-btn ui-btn-inline ui-shadow ui-corner-all ui-mini wth2-ui-btn" href="tel:800-2784737">  
+					    	800-CRUISES
+				    	</a>
+				    	
+			    	</div>	
+		    	</div>
+		    	<div id="responsiveHeader_below" class="ui-block-a wth2-resonsiveHeaderBelow" aria-live="off">
+		    	
+		    	</div>	
+	    	</div>	    				
+		</div>	
+	</div>	  					
+	    
+		            			</header>				
+	            			</div>            		
+	  								
+						
+					
+						
+                    	
+                    		<div id="mainContent" tabindex="-1" class="wth2-content ui-content" data-role="content" role="main">
+                    	
+                       		
                     	   	
 							  
 								               		
@@ -1670,14 +1946,28 @@ $(document).ready(function() {
 
 
 
-<div class="wth2-breadcrumbs" data-ajax="false">
+
+
+
+
+
+
+	
+
+
+<nav aria-label="Breadcrumbs" class="wth2-breadcrumbs" data-ajax="false">
+<ol vocab="http://schema.org/" typeof="BreadcrumbList">	
+	<li property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" href="/" class="ui-link"><span property="name">Home</span></a><meta property="position" content="1"> <i class="fa fa-angle-right" aria-hidden="true"></i></li>
  	
+ 	
+ 	
+ 	
+ 		
 	
 	
 	
 	
-		<a id="crumbs_home" href="/" title="Breadcrumbs: Home" class="ui-link">Home</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-		<span id="defaultBreadcrumbs">Privacy Policy</span>
+		<li property="itemListElement" typeof="ListItem"><span property="name" id="defaultBreadcrumbs" aria-current="page">Privacy Policy</span><meta property="position" content="2"></li>
 	
 	
 	
@@ -1690,33 +1980,34 @@ $(document).ready(function() {
 	
 	
 	
-</div>
+	
+</ol>	
+</nav>
 		
 
-<div class="wth2-pageTopH1">Privacy Policy</div>
+<h1 id="privacyPolicyHeader" class="wth2-pageTopH1">Privacy Policy</h1>
 
 <div class="ui-grid-e wth2-shopSection">
 	<div class="wth2-shopSectionInner ui-block-a">
 
-
-
-
+	
+	
 		<div class="ui-block-a sMargBottom">
-			CruisesOnly
+			<p>CruisesOnly
 			understands the privacy concerns of today's Internet users. We
 			are committed to protecting your privacy online and offline. We
 			hope that the following explanation of our privacy policy
-			alleviates any possible concerns.
+			alleviates any possible concerns.</p>
 		</div>
 		<div class="ui-block-a sMargBottom">
-			Whenever personal information (name,
+			<p>Whenever personal information (name,
 			address, credit card numbers, etc.) is required, we will
 			explicitly ask you to supply it. Any personal information
 			provided will be used to tailor our products and services to
-			better suit the interests of our valued customers.
+			better suit the interests of our valued customers.</p>
 		</div>
 		<div class="ui-block-a sMargBottom">
-			CruisesOnly
+			<p>CruisesOnly
 			will not intentionally sell or disclose any personal
 			information about you or your travel plans to any other
 			persons, organizations, or companies known to collect such
@@ -1724,10 +2015,10 @@ $(document).ready(function() {
 			unsolicited email or illicit materials. Your personal
 			information may be divulged when required by law or when
 			protecting the legal rights and/or property of 
-			CruisesOnly.
+			CruisesOnly.</p>
 		</div>
 		<div class="ui-block-a sMargBottom">
-			CruisesOnly
+			<p>CruisesOnly
 			does use cookies for functional purposes. Most browsers are
 			initially set to accept cookies. If you would prefer, you can
 			set yours to refuse cookies. However, you may not be able to
@@ -1735,28 +2026,22 @@ $(document).ready(function() {
 			cookies is an industry standard, and many major websites use
 			them to provide better service to their customers. Cookies in
 			and of themselves do not personally identify users, although
-			they do identify a user's computer.
+			they do identify a user's computer.</p>
 		</div>
 		
 		 
 		<div class="ui-block-a sMargBottom">
+		<p>
 			We may use third-party advertising
 			companies to serve ads on our behalf. These companies may
 			employ cookies and action tags (also known as single pixel
 			gifs or web beacons) to measure advertising effectiveness. Any
 			information that these third parties collect via cookies and
-			action tags is completely anonymous.
+			action tags is completely anonymous.</p>
 		</div>
 		
-		
-		
-			<div class="text">
-				If you have any questions or concerns, please feel free to email 
-				<a href="/css/login.do" data-ajax="false" class="ui-link">our customer service department</a>.
-			</div>
-		
-
-</div>
+	
+	</div>
 </div>  
 			
 	
@@ -1764,437 +2049,965 @@ $(document).ready(function() {
 									
 								
 
-		<div id="admin" class="wth2-adminSection" style="display: none;">	
-			<div class="wth2-adminSectionPadding">
-			<ul>
+				
+				
 		
+		
+		<div id="admin" class="wth2-adminSection">	
+			<div class="wth2-adminSectionPadding">					
+			<ul>		
 				
 									
 					<li class="wth2-adminCsSection">
+					<div class="wth2-adminLIWrapper">
+					<div class="wth2-suitcaseIconWrapper">
 					<i class="fa fa-suitcase" aria-hidden="true"></i>
-					<span class="wth2-adminEmailWrapper">
-					<span class="wth2-adminCsHeader">Already Booked?</span><br>
-					<a id="adminCsLink" rel="nofollow" class="wth2-adminCsLink ui-link" href="http://www.cruisesonly.com/cs/default.asp" data-ajax="false" title="Admin: Access Cruise Reservation">My Cruise Reservation</a>
-					</span>
+					</div>
+					<div class="wth2-adminEmailWrapper">
+					<span id="adminReservationHeader" class="wth2-adminCsHeader">Already Booked?</span><br>				
+					<a id="adminCsLink" rel="nofollow" class="wth2-adminCsLink ui-link" href="https://www.cruisesonly.com/css/login.do" data-ajax="false">My Cruise Reservation</a>			
+					</div>
+					</div>
 					</li>
 					
 				
 	
 				<li class="wth2-adminPhoneSection">
+				<div class="wth2-adminLIWrapper">
+				<div class="wth2-phoneIconWrapper">
 				<i class="fa fa-comments-o" aria-hidden="true"></i>
-				<span class="wth2-adminPhoneWrapper">
-					<span class="wth2-adminPhoneHeader">Need Help Planning?</span><br>
+				</div>
+				<div class="wth2-adminPhoneWrapper">
+					<span id="adminPhoneHeader" class="wth2-adminPhoneHeader">Need Help Planning?</span><br>
 					<span id="adminPhoneNumber" class="wth2-adminPhoneNbr wth2-phoneNbrDesktop">
 					 																				
                     
                         
                             
-				                
-								
-									1-800-CRUISES
-								
-                            
-                            	
-                            
+								1-800-CRUISES 
                            
                  	
 					</span>
-
-					<span class="wth2-adminPhoneNbr wth2-phoneNbrResponsive">
+					
+					
+					
+					<span id="adminphoneNbrResponsive" class="wth2-adminPhoneNbr wth2-phoneNbrResponsive">
 					 																				
                     
                         
-                            
-                            
-                              	
-                              	
-                           	 		<a id="adminPhoneNumberResponsive" href="tel:800-2784737" title="Admin: Phone Number" class="ui-link">	
-                            			1-800-CRUISES
-                            		</a>
-                            	
+                                          
+                           	 	<a id="adminPhoneNumberResponsive" href="tel:800-2784737" class="ui-link">	
+                            		1-800-CRUISES
+                           		</a>                   
                            
                  	
 					</span>
 					
-				</span>
-				</li>	
-							
-				
-				<li class="wth2-adminEmailSection">
-				<i class="fa fa-envelope" aria-hidden="true"></i>
-				<span class="wth2-adminEmailWrapper">
-					<span class="wth2-adminEmailHeader">Cruise Deals by Email</span><br>
-					<a id="adminEmailLink" rel="nofollow" class="wth2-adminEmailLink ui-link" href="#adminEmailSignupPopup" data-rel="popup" data-position-to="window" data-transition="fade" title="Admin: Email Signup: Open" aria-haspopup="true" aria-owns="adminEmailSignupPopup" aria-expanded="false">Sign Up for Exclusive Offers and Discounts</a>
-				</span>
+				</div>
+				</div>
 				</li>
+							
+					
+							
+						
+						<li id="adminEmailSection" class="wth2-adminEmailSection">
+							<div class="wth2-adminLIWrapper">
+								<div class="wth2-envelopeIconWrapper">
+								<i class="fa fa-envelope" aria-hidden="true"></i>
+								</div>
+								<div class="wth2-adminEmailWrapper">
+									<span id="adminEmailSignupHeader" class="wth2-adminEmailHeader">Cruise Deals by Email</span><br>
+									<a id="adminEmailSignup" href="#" rel="nofollow" class="wth2-adminEmailLink wth2-adminFormDialogFunction ui-link">Sign Up for Exclusive Offers and Discounts</a>					
+								</div>
+							</div>
+						</li>
+							
 					
 				
-				
+								
 			</ul>				
 			</div>
-		</div>
-		
-				
-				<div style="display: none;" id="adminEmailSignupPopup-placeholder"><!-- placeholder for adminEmailSignupPopup --></div>
-			
-								
-                             		
-
-
-
-	<div id="floatingadmin" class="wth2-floatingadminSection" style="">
-		<div class="wth2-adminSection">	
-			<div class="wth2-adminSectionPadding">
-			<ul>
-		
-				
-									
-					<li class="wth2-adminCsSection">
-					<i class="fa fa-suitcase" aria-hidden="true"></i>
-					<span class="wth2-adminEmailWrapper">
-					<span class="wth2-adminCsHeader">Already Booked?</span><br>
-					<a id="adminCsLink" rel="nofollow" class="wth2-adminCsLink ui-link" href="http://www.cruisesonly.com/css/login.do" data-ajax="false" title="Admin: Access Cruise Reservation">My Cruise Reservation</a>
-					</span>
-					</li>
-					
-				
-	
-				<li class="wth2-adminPhoneSection">
-				<i class="fa fa-comments-o" aria-hidden="true"></i>
-				<span class="wth2-adminPhoneWrapper">
-					<span class="wth2-adminPhoneHeader">We Can Get You the Best Deal!</span><br>
-					<span id="adminPhoneNumber" class="wth2-adminPhoneNbr wth2-phoneNbrDesktop">
-					
-					
-						1-866-687-7875
-					
-					
-					</span>
-				</span>
-				</li>	
-							
-				
-				<li class="wth2-adminEmailSection">
-				<i class="fa fa-envelope" aria-hidden="true"></i>
-				<span class="wth2-adminEmailWrapper">
-					<span class="wth2-adminEmailHeader">Cruise Deals by Email</span><br>
-					<a id="adminEmailLink" rel="nofollow" class="wth2-adminEmailLink ui-link" href="#adminEmailSignupPopup" data-rel="popup" data-position-to="window" data-transition="fade" title="Admin: Email Signup: Open" aria-haspopup="true" aria-owns="adminEmailSignupPopup" aria-expanded="false">Sign Up for Exclusive Offers and Discounts</a>
-				</span>
-				</li>
-					
-				
-				
-			</ul>		
-			<a id="adminTopLink1" class="wth2-adminTopLink ui-link" rel="nofollow" href="#top" title="Admin: Back to Top">Top<i class="fa fa-chevron-up" aria-hidden="true"></i></a>
-			
-			</div>
-			<a id="closeAdmin" class="wth2-closeAdmin ui-link" href="#"><i class="fa fa-times" aria-hidden="true"></i></a>
-		</div>
-		
-				
-				<div style="display: none;" id="adminEmailSignupPopup-placeholder"><!-- placeholder for adminEmailSignupPopup --></div>
-			
-		
-		<div class="wth2-floatingadminBackgroundSection">
-		</div>
-		<script>
-		$(document).ready(function() {
-			windowSize = jQuery(window).width();
-		floatingAdmin = wthApp.getCookie("floatingAdmin");		
-		if(floatingAdminAB == 1 && floatingAdmin != "Yes" && windowSize > 1024){
-			$("#admin").hide();
-			$("#floatingadmin").show();
-		}
-		
-		$("#adminTopLink1").click(function () {
-			$("body,html").animate({
-				scrollTop: 0
-			}, 500);
-			return false;
-		});
-		
-		$("#closeAdmin").click(function () {
-			$("#floatingadmin").hide();
-			document.cookie = 'floatingAdmin=Yes';
-			$("#admin").show();
-			 CallTrackerNonInteraction("Global", "Close Call Drawer","");  
-		});
-		
-		$(window).resize(function(){
-			var windowSizeResize = jQuery(window).width();
-			if (windowSizeResize <= 1024) {
-				$( "#floatingadmin" ).hide();
-				$("#admin").show();
-			} else if(floatingAdminAB == 1) {
-				$( "#floatingadmin" ).show();
-				$("#admin").hide();
-			}
-		});
-		
-		});
-		</script>
-		</div>
-		
-		
-                             	
-                             	
-                             	
+		</div>						
+						       			
+						       	
+						      
+						       	
+						        
                              	
                              
                                 
                         </div>
                     	 
                     	
-                   		<div class="wth2-footer" data-ajax="false">
-                   			    	
-                             	
+                   		<div id="outerFooterWrapper" class="wth2-footer" data-ajax="false">
+                   			                                 	
                             
 
 
 	
 
-
-
-	
-
                             
                             
-                            
+                            <footer role="contentinfo">  
                             	
+					      				
+					      			<div class="wth2-responsiveOnly">	
+		            					
+  
+
+<div class="wth2-fallbackFooter wth2-fallbackFooter_CRZNW">
+	<div class="wth2-fallbackFooterInner">	
+		<div id="responsiveMagFooter" class="wth2-responsiveMagFooter"></div>
+		<div id="fallBackSwapFooter">
+			
+			
+				<ul>
+					<li><a id="fallbackFooterPrivacy" href="/privacy.do" rel="nofollow" onclick="CallTracker('Footer/', 'Text Link/', 'Privacy Policy');" class="ui-link">Privacy Policy</a></li>
+					<li><a id="fallbackFooterSellerOfTravel" href="/selleroftravel.do" rel="nofollow" onclick="CallTracker('Footer/', 'Text Link/', 'Seller of Travel Info');" class="ui-link">Seller of Travel Info</a></li>
+					    
+					<li><a id="fallbackFooterAccessibility" href="/accessibility.do" rel="nofollow" onclick="CallTracker('Footer/', 'Text Link/', 'Accessibility');" class="ui-link">Accessibility</a></li>
+					
+				</ul>
+				<p id="fallbackFooterCopyright" class="wth2-fallbackFooterCopy">© 2018&nbsp;CruisesOnly, WTH/NLG. All rights reserved.</p>
+			
+		</div>
+	</div>
+</div>
+		            				</div>										
+		            			                          	
+		                 				                 			
+		                            
+		                            		
+		                            	<div class="wth2-desktopOnly" data-ajax="true">	
+			            				
+
+
+<div id="footer" class="wth2-responsiveFooter">
+	<div class="wth2-beFooter"> 	  
+		<!--CMS servername and timestamp  mag.web.nlg1.com, Nov 9, 2018 3:25:18 PM-->
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+<div id="wthFooterWrap" class="wthFooterWrap wthFooterWrap_cruisesonly">
+	<div id="wthFooterModuleContainer" class="wthFooterModuleContainer">
+
+ 	
+ 	
+			
+		
+		
+		
+		
+
+
+
+
+
+
+
+
+		<div class="wthFooterModules_1 WTHfooterLinksList">
+
+ 	
+ 	
+			
+		
+		
+		
+		
+
+
+
+
+
+
+
+<div class="wthFooterLinksGroup footerLinksGroup_1">	
+		<h2 class="customFooterHeading">CruisesOnly</h2>
+
+	<ul class="wthFooterLinksList footerLinksList_1" style="display:inline-block;vertical-align:top;">
+	
+
+ 	
+ 	
+			
+		
+		
+		
+		
+
+
+
+
+
+
+
+		<li class="footerLinkLI footerLinkLI_1" style="list-style:none;"><i class="fa fa fa-suitcase" aria-hidden="true"></i>
+	<a href="https://www.cruisesonly.com/css/login.do" onclick="CallTracker('Footer/', 'Text Links/', 'My Cruise Reservation');" class="footerLink footerLink_1 ui-link" rel="nofollow" data-ajax="false">My Cruise Reservation</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+		<li class="footerLinkLI footerLinkLI_2" style="list-style:none;"><i class="fa fa-caret-right" aria-hidden="true"></i>
+	<a href="/promotion/why-buy-from-us/best-price-guarantee.do" onclick="CallTracker('Footer/', 'Text Links/', '110% Best Price Guarantee');" class="footerLink footerLink_2 ui-link" rel="nofollow" data-ajax="false">110% Best Price Guarantee</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+		<li class="footerLinkLI footerLinkLI_3" style="list-style:none;"><i class="fa fa-caret-right" aria-hidden="true"></i>
+	<a href="/promotion/faq.do" onclick="CallTracker('Footer/', 'Text Links/', 'Cruise FAQs');" class="footerLink footerLink_3 ui-link" data-ajax="false">Cruise FAQs</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+		<li class="footerLinkLI footerLinkLI_4" style="list-style:none;"><i class="fa fa-caret-right" aria-hidden="true"></i>
+	<a href="/promotion/group-cruises.do" onclick="CallTracker('Footer/', 'Text Links/', 'Group Cruises');" class="footerLink footerLink_4 ui-link" data-ajax="false">Group Cruises</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+		<li class="footerLinkLI footerLinkLI_5" style="list-style:none;"><i class="fa fa-caret-right" aria-hidden="true"></i>
+	<a href="/promotion/cruise-videos.do" onclick="CallTracker('Footer/', 'Text Links/', 'Cruise Video Library');" class="footerLink footerLink_5 ui-link" data-ajax="false">Cruise Video Library</a>
+</li>
+
+
+
+
+			
+		
+		
+		
+		
+		
+
+	</ul>
+
+</div>
+	
+
+
+
+
+
+
+
+<div class="wthFooterLinksGroup footerLinksGroup_2">	
+		
+
+	<ul class="wthFooterLinksList footerLinksList_2" style="display:inline-block;vertical-align:top;">
+	
+
+ 	
+ 	
+			
+		
+		
+		
+		
+
+
+
+
+
+
+
+		<li class="footerLinkLI footerLinkLI_1" style="list-style:none;"><i class="fa fa-caret-right" aria-hidden="true"></i>
+	<a href="/promotion/why-buy-from-us.do" onclick="CallTracker('Footer/', 'Text Links/', 'Why Buy From CruisesOnly');" class="footerLink footerLink_1 ui-link" data-ajax="false">Why Buy From CruisesOnly</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+		<li class="footerLinkLI footerLinkLI_2" style="list-style:none;"><i class="fa fa-caret-right" aria-hidden="true"></i>
+	<a href="/promotion/loyalty-club.do" onclick="CallTracker('Footer/', 'Text Links/', 'CruisesOnly Loyalty Club');" class="footerLink footerLink_2 ui-link" data-ajax="false">CruisesOnly Loyalty Club</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+		<li class="footerLinkLI footerLinkLI_3" style="list-style:none;"><i class="fa fa-caret-right" aria-hidden="true"></i>
+	<a href="/promotion/how-to-cruise.do" onclick="CallTracker('Footer/', 'Text Links/', 'How To Cruise');" class="footerLink footerLink_3 ui-link" data-ajax="false">How To Cruise</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+		<li class="footerLinkLI footerLinkLI_4" style="list-style:none;"><i class="fa fa-caret-right" aria-hidden="true"></i>
+	<a href="/promotion/how-to-cruise/find-a-cruise.do" onclick="CallTracker('Footer/', 'Text Links/', 'Find The Cruise Right For You');" class="footerLink footerLink_4 ui-link" data-ajax="false">Find The Cruise Right For You</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+		<li class="footerLinkLI footerLinkLI_5" style="list-style:none;"><i class="fa fa-caret-right" aria-hidden="true"></i>
+	<a href="/promotion/how-to-cruise/safety-at-sea.do" onclick="CallTracker('Footer/', 'Text Links/', 'Safety @ Sea');" class="footerLink footerLink_5 ui-link" data-ajax="false">Safety @ Sea</a>
+</li>
+
+
+
+
+			
+		
+		
+		
+		
+		
+
+	</ul>
+
+</div>
+	
+
+
+
+
+
+
+
+<div class="wthFooterLinksGroup footerLinksGroup_3">	
+		
+
+	<ul class="wthFooterLinksList footerLinksList_3" style="display:inline-block;vertical-align:top;">
+	
+
+ 	
+ 	
+			
+		
+		
+		
+		
+
+
+
+
+
+
+
+		<li class="footerLinkLI footerLinkLI_1" style="list-style:none;"><i class="fa fa-caret-right" aria-hidden="true"></i>
+	<a href="http://www.shoreexcursionsgroup.com/v/affiliate/?id=1689" target="_blank" onclick="CallTracker('Footer/', 'Text Links/', 'Shore Excursions');" class="footerLink footerLink_1 ui-link" rel="nofollow" data-ajax="false">Shore Excursions</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+		<li class="footerLinkLI footerLinkLI_2" style="list-style:none;"><i class="fa fa-caret-right" aria-hidden="true"></i>
+	<a href="http://www.resortforaday.com/" target="_blank" onclick="CallTracker('Footer/', 'Text Links/', 'Resort For A Day');" class="footerLink footerLink_2 ui-link" data-ajax="false">Resort For A Day</a>
+</li>
+
+
+
+
+			
+		
+		
+		
+		
+		
+
+	</ul>
+
+</div>
+	
+			
+		
+		
+		
+		
+		
+
+		</div>
+
+	
+
+
+
+
+
+
+
+
+		<div class="wthFooterModules_2 WTHfooterSocialMedia">
+
+ 	
+ 	
+			
+		
+		
+		
+		
+
+
+
+
+
+
+
+	<div class="wthFooterSocialMedia">
+			<div class="footerSocialMediaHeader">Follow Us</div>
+		<ul class="WTHfooterSMLinkList">
+
+ 	
+ 	
+			
+		
+		
+		
+		
+
+
+
+
+
+
+
+
+	<li class="WTHfooterSMLinkItem_1 footerSMLinkItem_1">
+			<div class="WTHfooterSMLink footerSocialMediaLink_1">
+				<a href="https://www.facebook.com/CruisesOnly/" aria-label="Facebook" itemprop="sameAs" target="_blank" class="ui-link" data-ajax="false">
+					<i class="fa fa-facebook" aria-hidden="true"></i>
+					<span aria-hidden="true">Facebook</span>
+				</a>
+			</div>
+	</li>
+
+	
+
+
+
+
+
+
+
+
+	<li class="WTHfooterSMLinkItem_2 footerSMLinkItem_2">
+			<div class="WTHfooterSMLink footerSocialMediaLink_2">
+				<a href="https://www.instagram.com/CruisesOnly/" aria-label="Instagram" itemprop="sameAs" target="_blank" class="ui-link" data-ajax="false">
+					<i class="fa fa-instagram" aria-hidden="true"></i>
+					<span aria-hidden="true">Instagram</span>
+				</a>
+			</div>
+	</li>
+
+	
+
+
+
+
+
+
+
+
+	<li class="WTHfooterSMLinkItem_3 footerSMLinkItem_3">
+			<div class="WTHfooterSMLink footerSocialMediaLink_3">
+				<a href="https://twitter.com/CruisesOnly/" aria-label="Twitter" itemprop="sameAs" target="_blank" class="ui-link" data-ajax="false">
+					<i class="fa fa-twitter" aria-hidden="true"></i>
+					<span aria-hidden="true">Twitter</span>
+				</a>
+			</div>
+	</li>
+
+	
+
+
+
+
+
+
+
+
+	<li class="WTHfooterSMLinkItem_4 footerSMLinkItem_4">
+			<div class="WTHfooterSMLink footerSocialMediaLink_4">
+				<a href="https://www.youtube.com/CruisesOnly/" aria-label="Youtube" itemprop="sameAs" target="_blank" class="ui-link" data-ajax="false">
+					<i class="fa fa-youtube" aria-hidden="true"></i>
+					<span aria-hidden="true">Youtube</span>
+				</a>
+			</div>
+	</li>
+
+	
+			
+		
+		
+		
+		
+		
+
+		</ul>
+		
+	</div>
+	
+	
+			
+		
+		
+		
+		
+		
+
+		</div>
+
+	
+
+
+
+
+
+
+
+
+		<div class="wthFooterModules_3 WTHfooterPhone">
+
+ 	
+ 	
+			
+		
+		
+		
+		
+
+
+	
+	<div class="wthFooterPhone FooterPhoneModule">	
+		
+		<div class="wthFooterPhoneNumber footerPhoneFunction">
+			<div class="wthFtrPhoneLabel">1-</div><div class="wthFtrLuxPhone" style="display:none;">800-454-0927</div><div class="wthFtrGroupPhone" style="display:none;">888-WOW-GROUPS | 1-888-969-4768</div><div class="wthFtrMainPhone">800-CRUISES</div>
+				<div class="wthFtrAltPhoneLabel">Label</div><div class="wthFtrAltPhoneText">1-800-278-4737</div>
+		</div>
+		
+			<div class="wthFooterPhoneText footerPhoneCallout">
+				Call our Cruise Experts 24/7
+			</div>
+		
+	</div>
+	
+	
+	
+			
+		
+		
+		
+		
+		
+
+		</div>
+
+	
+
+
+
+
+
+
+
+
+		<div class="wthFooterModules_4 WTHfooterCopyright">
+
+ 	
+ 	
+			
+		
+		
+		
+		
+
+
+		<div class="wthFooterCopyright">
+			<span>© <script>document.write(new Date().getFullYear())</script>2020 CruisesOnly</span>
+			<span class="wthFtrCopyrightLabel">All Rights Reserved</span>
+		</div>
+
+	
+			
+		
+		
+		
+		
+
+		</div>
+
+	
+
+
+
+
+
+
+
+
+		<div class="wthFooterModules_5 WTHfooterLinksList">
+
+ 	
+ 	
+			
+		
+		
+		
+		
+
+
+
+
+
+
+
+<div class="wthFooterLinksGroup footerLinksGroup_1">	
+		
+
+	<ul class="wthFooterLinksList footerLinksList_1">
+	
+
+ 	
+ 	
+			
+		
+		
+		
+		
+
+
+
+
+
+
+
+		<li class="footerLinkLI footerLinkLI_1" style="display:inline-block;">
+	<a href="/promotion/terms-and-conditions.do" onclick="CallTracker('Footer/', 'Text Links/', 'Terms &amp; Conditions');" class="footerLink footerLink_1 ui-link" rel="nofollow" data-ajax="false">Terms &amp; Conditions</a>
+	<span>|</span>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+		<li class="footerLinkLI footerLinkLI_2" style="display:inline-block;">
+	<a href="/privacy.do" onclick="CallTracker('Footer/', 'Text Links/', 'Privacy Policy');" class="footerLink footerLink_2 ui-link" rel="nofollow" data-ajax="false">Privacy Policy</a>
+	<span>|</span>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+		<li class="footerLinkLI footerLinkLI_3" style="display:inline-block;">
+	<a href="/selleroftravel.do" onclick="CallTracker('Footer/', 'Text Links/', 'Seller of Travel');" class="footerLink footerLink_3 ui-link" rel="nofollow" data-ajax="false">Seller of Travel</a>
+	<span>|</span>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+		<li class="footerLinkLI footerLinkLI_4" style="display:inline-block;">
+	<a href="/accessibility.do" onclick="CallTracker('Footer/', 'Text Links/', 'Web Accessibility');" class="footerLink footerLink_4 ui-link" rel="nofollow" data-ajax="false">Web Accessibility</a>
+</li>
+
+
+
+
+			
+		
+		
+		
+		
+		
+
+	</ul>
+
+</div>
+	
+			
+		
+		
+		
+		
+		
+
+		</div>
+
+	
+
+
+
+
+
+
+
+
+		<div class="wthFooterModules_6 WTHfooterLinksList">
+
+ 	
+ 	
+			
+		
+		
+		
+		
+
+
+
+
+
+
+
+<div class="wthFooterLinksGroup footerLinksGroup_1">	
+		<div class="customFooterHeading">A Division of World Travel Holdings</div>
+
+	<ul class="wthFooterLinksList footerLinksList_1">
+	
+
+ 	
+ 	
+			
+		
+		
+		
+		
+
+
+
+
+
+
+
+		<li class="footerLinkLI footerLinkLI_1" style="display:inline-block;">
+	<a href="http://www.worldtravelholdings.com" target="_blank" onclick="CallTracker('Footer/', 'Text Links/', 'worldtravelholdings.com');" class="footerLink footerLink_1 ui-link" data-ajax="false">worldtravelholdings.com</a>
+	<span>|</span>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+		<li class="footerLinkLI footerLinkLI_2" style="display:inline-block;">
+	<a href="http://www.bahamasdaypass.com" target="_blank" onclick="CallTracker('Footer/', 'Text Links/', 'BahamasDayPass.com');" class="footerLink footerLink_2 ui-link" data-ajax="false">BahamasDayPass.com</a>
+	<span>|</span>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+		<li class="footerLinkLI footerLinkLI_3" style="display:inline-block;">
+	<a href="http://www.luxuryonly.com" target="_blank" onclick="CallTracker('Footer/', 'Text Links/', 'LuxuryOnly.com');" class="footerLink footerLink_3 ui-link" data-ajax="false">LuxuryOnly.com</a>
+	<span>|</span>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+		<li class="footerLinkLI footerLinkLI_4" style="display:inline-block;">
+	<a href="http://www.resortforaday.com" target="_blank" onclick="CallTracker('Footer/', 'Text Links/', 'ResortForADay.com');" class="footerLink footerLink_4 ui-link" data-ajax="false">ResortForADay.com</a>
+	<span>|</span>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+		<li class="footerLinkLI footerLinkLI_5" style="display:inline-block;">
+	<a href="https://www.villasofdistinction.com" target="_blank" onclick="CallTracker('Footer/', 'Text Links/', 'VillasOfDistinction.com');" class="footerLink footerLink_5 ui-link" data-ajax="false">VillasOfDistinction.com</a>
+</li>
+
+
+
+
+			
+		
+		
+		
+		
+		
+
+	</ul>
+
+</div>
+	
+			
+		
+		
+		
+		
+		
+
+		</div>
+
+	
+			
+		
+		
+		
+		
+		
 
 		
-		<div style="display: none;" id="abandonmentPopup-placeholder"><!-- placeholder for abandonmentPopup --></div>	
-	  
-
-                            
-                            
-
-
-<div class="footer_container wth2-responsiveFooter">
-	
-	
-	<div id="footer_cruiselinks">
-		<div class="footer_cruiselink_column1">
-			<div><h1>CruisesOnly</h1></div>
-			<div class="footer_cruiselink_structure">
-				<div class="footer_cruiselink_structure1">
-					<i class="fa fa-suitcase" aria-hidden="true"></i> <a href="https://www.cruisesonly.com/css/login.do" onclick="CallTracker('Footer/', 'Text Links/', 'My Cruise Reservation');" class="ui-link">My Cruise Reservation</a><br>
-					<i class="fa fa-caret-right" aria-hidden="true"></i> <a href="/promotion/why-buy-from-us/best-price-guarantee.do" onclick="CallTracker('Footer/', 'Text Links/', '110% Best Price Guarantee');" rel="nofollow" class="ui-link">110% Best Price Guarantee</a><br>
-					<i class="fa fa-caret-right" aria-hidden="true"></i> <a href="/promotion/faq.do" onclick="CallTracker('Footer/', 'Text Links/', 'Cruise FAQs');" class="ui-link">Cruise FAQs</a><br>
-					<i class="fa fa-caret-right" aria-hidden="true"></i> <a href="/promotion/group-cruises.do" onclick="CallTracker('Footer/', 'Text Links/', 'Group Cruises');" class="ui-link">Group Cruises</a><br>
-					<i class="fa fa-caret-right" aria-hidden="true"></i> <a href="/promotion/cruise-videos.do" onclick="CallTracker('Footer/', 'Text Links/', 'Cruise Video Library');" class="ui-link">Cruise Video Library</a><br>						
-				</div>
-				<div class="footer_cruiselink_structure2">
-					<i class="fa fa-caret-right" aria-hidden="true"></i> <a href="/promotion/why-buy-from-us.do" onclick="CallTracker('Footer/', 'Text Links/', 'Why Buy');" class="ui-link">Why Buy From CruisesOnly</a><br>
-					<i class="fa fa-caret-right" aria-hidden="true"></i> <a href="/promotion/loyalty-club.do" onclick="CallTracker('Footer/', 'Text Links/', 'Loyalty Club');" class="ui-link">CruisesOnly Loyalty Club</a><br>
-					<i class="fa fa-caret-right" aria-hidden="true"></i> <a href="/promotion/how-to-cruise.do" onclick="CallTracker('Footer/', 'Text Links/', 'How To Cruise');" class="ui-link">How To Cruise</a><br>
-					<i class="fa fa-caret-right" aria-hidden="true"></i> <a href="/promotion/how-to-cruise/find-a-cruise.do" onclick="CallTracker('Footer/', 'Text Links/', 'Find The Cruise Right For You');" class="ui-link">Find The Cruise Right For You</a><br>
-					<i class="fa fa-caret-right" aria-hidden="true"></i> <a href="/promotion/how-to-cruise/safety-at-sea.do" onclick="CallTracker('Footer/', 'Text Links/', 'Safety @ Sea');" class="ui-link">Safety @ Sea</a><br>
-				</div>
-				<div class="footer_cruiselink_structure3">
-					<i class="fa fa-caret-right" aria-hidden="true"></i> <a href="http://www.shoreexcursionsgroup.com/v/affiliate/?id=1689" target="_blank" onclick="CallTracker('Footer/', 'Text Links/', 'Shore Excursions');" class="ui-link">Shore Excursions</a><br>
-					<i class="fa fa-caret-right" aria-hidden="true"></i> <a href="http://www.resortforaday.com/" target="_blank" onclick="CallTracker('Footer/', 'Text Links/', 'Resort For A Day');" class="ui-link">Resort For A Day</a><br>
-				</div>
-			</div>
-		</div>
-		<div class="footer_cruiselink_column2">
-			<div class="footer_cruiselink_columnheader footer_cruiseline_indent">Follow Us</div>
-			<div>
-				<span itemscope="" itemtype="http://schema.org/Organization" class="footer_cruiseline_indent">
-					<link href="http://www.cruisesonly.com" itemprop="url">
-					<!-- <a href="#" itemprop="sameAs"><i class="fa fa-envelope-square" aria-hidden="true"></i>Email Newsletter</a><br/>-->
-					<a itemprop="sameAs" href="http://www.facebook.com/CruisesOnly" target="_blank" onclick="CallTracker('Footer/', 'Text Links/', 'Facebook');" class="ui-link"><i class="fa fa-facebook-square" aria-hidden="true"></i>Facebook</a><br>
-					<a itemprop="sameAs" href="https://www.instagram.com/cruisesonly/" target="_blank" onclick="CallTracker('Footer/', 'Text Links/', 'Instagram');" class="ui-link"><i class="fa fa-instagram" aria-hidden="true"></i>Instagram</a><br>
-					<a itemprop="sameAs" href="http://twitter.com/cruisesonly" target="_blank" onclick="CallTracker('Footer/', 'Text Links/', 'Twitter');" class="ui-link"><i class="fa fa-twitter-square" aria-hidden="true"></i>Twitter</a><br>
-					<a itemprop="sameAs" href="http://www.youtube.com/cruisesonly" target="_blank" onclick="CallTracker('Footer/', 'Text Links/', 'Youtube');" class="ui-link"><i class="fa fa-youtube-square" aria-hidden="true"></i>Youtube</a>
-				</span>
-			</div>
-		</div>
-		<div class="footer_cruiselink_column3">
-			<div class="footer_cruiselink_columnheader">Call our Cruise Experts 24/7</div>
-			<span class="footer_cruiselinks_phone">1-800-CRUISES<br>1-800-278-4737</span>
-		</div>
-	</div>
-	
-
-	<div class="footer_cruiselink_rowmodule footer_cruiseline_row_border">
-		<div class="footer_copyright">© 2017 All Rights Reserved</div>
-		<div class="footer_cruiseline_rightsmargin"><a href="/promotion/terms-and-conditions.do" onclick="CallTracker('Footer/', 'Text Links/', 'Terms and Conditions');" rel="nofollow" class="ui-link">Terms &amp; Conditions</a> | <a href="/privacy.do" onclick="CallTracker('Footer/', 'Text Links/', 'Privacy Policy');" rel="nofollow" class="ui-link">Privacy Policy</a> | <a href="/selleroftravel.do" onclick="CallTracker('Footer/', 'Text Links/', 'Seller of Travel');" rel="nofollow" class="ui-link">Seller of Travel</a></div>
-	</div>
-	
-	
-	<div class="footer_cruiselink_rowmodule">
-		<div>A Division of World Travel Holdings</div>
-		<div><a href="http://www.worldtravelholdings.com" target="blank" onclick="CallTracker('Footer/', 'Text Links/', 'worldtravelholdings.com');" class="ui-link">worldtravelholdings.com</a> | <a href="http://www.bahamasdaypass.com" target="blank" onclick="CallTracker('Footer/', 'Text Links/', 'BahamasDayPass.com');" class="ui-link">BahamasDayPass.com</a> | <a href="http://www.luxuryonly.com" target="blank" onclick="CallTracker('Footer/', 'Text Links/', 'LuxuryOnly.com');" class="ui-link">LuxuryOnly.com</a>  | <a href="http://www.resortforaday.com" target="blank" onclick="CallTracker('Footer/', 'Text Links/', 'ResortForADay.com');" class="ui-link">ResortForADay.com</a> | <a href="https://www.villasofdistinction.com" target="blank" onclick="CallTracker('Footer/', 'Text Links/', 'VillasOfDistinction.com');" class="ui-link">VillasOfDistinction.com</a></div>
-	</div>
-
-	
-<div id="crosslinks">
-	<a href="http://www.worldtravelholdings.com/" target="blank" class="smlink ui-link">World Travel Holdings</a> <span>Brand Sites</span><br>
-	
-		<a href="http://www.vacationoutlet.com" target="blank" class="smlink ui-link">VacationOutlet.com</a>
-	 
-	| <a href="http://www.villasofdistinction.com" target="blank" class="smlink ui-link">VillasOfDistinction.com</a> |
-	<a href="http://www.resortforaday.com" target="blank" class="smlink ui-link">ResortForADay.com</a> |
-	<a href="http://www.bahamasdaypass.com" target="blank" class="smlink ui-link">BahamasDayPass.com</a>
+	</div>	
 </div>
-	
-	
-	
+
+<span style="display:none">
+<!--All xml content goes here, should be removed from page content after processing -->
+<xmlcontent>
+	<pagetitle></pagetitle>
+	<keywords></keywords>
+	<description></description>
+	<isluxurypage>false</isluxurypage>
+	<isresponsivepage>false</isresponsivepage>
+	<googleindex>true</googleindex>
+	<abandonmentoverlay>true</abandonmentoverlay>
+	<mobileportal>false</mobileportal>
+	<mobilecallonly>false</mobilecallonly>
+	<mobilesweepstakes>false</mobilesweepstakes>
+	<pagepromotiontype></pagepromotiontype>
+	<cruiselinename></cruiselinename>
+	<id></id>
+	<textlinkstring></textlinkstring>
+<sailingcollection>
+  </sailingcollection>
+  
+	<wthheader>Success</wthheader>
+</xmlcontent>
+</span>
+
 
 	
-	
-	<img src="//ad.yieldmanager.com/pixel?id=1163079&amp;t=2" width="1" height="1">
-	
+	</div> 
 </div>
+
+			            				</div>
+			            			
+			            				            
+			            					
+	            			</footer>
+	            				   
+	                         
                     	</div>
                     	
                     </div>
 				</div><!-- /content -->
 				
-			<div class="ui-screen-hidden ui-popup-screen ui-overlay-b" id="adminEmailSignupPopup-screen"></div><div class="ui-popup-container ui-popup-hidden ui-popup-truncate" id="adminEmailSignupPopup-popup"><div data-role="popup" id="adminEmailSignupPopup" data-corners="true" data-shadow="true" data-overlay-theme="b" data-theme="a" class="wth2-simplePopup wth2-popupLightboxMed ui-popup ui-body-a ui-overlay-shadow ui-corner-all">
-					<a id="closeSignUpForm" href="#" data-role="button" data-theme="d" data-icon="delete" data-rel="back" data-iconpos="notext" class="ui-btn-right closeBtn ui-link ui-btn ui-btn-d ui-icon-delete ui-btn-icon-notext ui-shadow ui-corner-all" title="Email Signup: Close" role="button"></a>
-					
-
-
-
-
-<div id="adminEmailFormContainer">
-    <div id="emailFormHeader" class="wth2-lightBoxPopupHeader">
-    Cruise Deals by Email
-    </div>
-    <div id="emailFormContent" class="wth2-simplePopUpContent">
-    <p>Receive exclusive offers and discounts to your inbox. Don't worry - we hate spam and we won't sell your email address to a third party.</p>
- 	<div id="adminEmailFormError" class="wth2-errorMessage" style="display:none">
- 		 <i class="fa fa-exclamation-circle" aria-hidden="true"></i>
- 		 <div class="wth2-errorMessageHeader">
- 		 Please complete the required fields.
- 		 </div>
- 		 <div id="adminEmailErrorMessage" class="wth2-formErrorMessage" style="display:none">
-            Valid email address
-        </div>
- 		<div id="adminZipErrorMessage" class="wth2-formErrorMessage" style="display:none">
-            5-digit U.S. zip code
-        </div>
- 	</div>
- 
-
-    <form action="/mailing.do" name="EmailForm" id="adminEmailForm">
-    <input type="hidden" name="redirect" value="idle.do">
-    <input type="hidden" name="listID" value="182">
-    <input type="hidden" name="sfids[1]" value="523">
-	<div>
-	    <div id="adminEmailWrapper" class="wth2-adminEmailField">     
-	        <div class="wth2-discountsInput">
-	        <label for="adminEmail">Your Email:</label>
-	        <div class="ui-input-text ui-body-inherit ui-corner-all ui-mini ui-shadow-inset"><input type="email" name="email" placeholder="youremail@sample.com" id="adminEmail" data-mini="true"></div>
-	    	</div>
-	    </div>
-	    <div id="adminZipWrapper" class="wth2-adminZipField">
-	    	<div class="wth2-discountsInput">
-	    	 <label for="adminZipCode">Your Zip Code:</label>
-	        <div class="ui-input-text ui-body-inherit ui-corner-all ui-mini ui-shadow-inset"><input type="text" name="zip" placeholder="5-digit U.S. Zip Code" id="adminZipCode" pattern="[0-9]*" maxlength="5" data-mini="true"></div>
-	        </div>
-	    </div>	
-    </div>
-    <div class="wth2-adminEmailSubmit">
-        <a id="adminEmailFormSubmit" href="#" class="ui-btn ui-btn-inline ui-shadow ui-corner-all ui-mini wth2-ui-btn" title="Email Signup: Submit">Get Cruise Deals</a>
-    </div>
-    </form>				
-    </div>
-</div>
-
-<div id="adminEmailFormConfirmation" style="display:none">
-	<div class="wth2-sucessMessage sMargTop">
-		 <i class="fa fa-check-circle" aria-hidden="true"></i>
-		<div class="wth2-sucessMessageCont">
-		    <div id="emailConfHeader" class="wth2-sucessMessageHeader">
-		    Thank You!
-		    </div>
-		    <p>Your submission was received.</p>
-	    </div>
-    </div>
-</div>
-				</div></div><div class="ui-screen-hidden ui-popup-screen ui-overlay-b" id="adminEmailSignupPopup-screen"></div><div class="ui-popup-container ui-popup-hidden ui-popup-truncate" id="adminEmailSignupPopup-popup"><div data-role="popup" id="adminEmailSignupPopup" data-corners="true" data-shadow="true" data-overlay-theme="b" data-theme="a" class="wth2-simplePopup wth2-popupLightboxMed ui-popup ui-body-a ui-overlay-shadow ui-corner-all">
-					<a id="closeSignUpForm" href="#" data-role="button" data-theme="d" data-icon="delete" data-rel="back" data-iconpos="notext" class="ui-btn-right closeBtn ui-link ui-btn ui-btn-d ui-icon-delete ui-btn-icon-notext ui-shadow ui-corner-all" title="Email Signup: Close" role="button"></a>
-					
-
-
-
-
-<div id="adminEmailFormContainer">
-    <div id="emailFormHeader" class="wth2-lightBoxPopupHeader">
-    Cruise Deals by Email
-    </div>
-    <div id="emailFormContent" class="wth2-simplePopUpContent">
-    <p>Receive exclusive offers and discounts to your inbox. Don't worry - we hate spam and we won't sell your email address to a third party.</p>
- 	<div id="adminEmailFormError" class="wth2-errorMessage" style="display:none">
- 		 <i class="fa fa-exclamation-circle" aria-hidden="true"></i>
- 		 <div class="wth2-errorMessageHeader">
- 		 Please complete the required fields.
- 		 </div>
- 		 <div id="adminEmailErrorMessage" class="wth2-formErrorMessage" style="display:none">
-            Valid email address
-        </div>
- 		<div id="adminZipErrorMessage" class="wth2-formErrorMessage" style="display:none">
-            5-digit U.S. zip code
-        </div>
- 	</div>
- 
-
-    <form action="/mailing.do" name="EmailForm" id="adminEmailForm">
-    <input type="hidden" name="redirect" value="idle.do">
-    <input type="hidden" name="listID" value="182">
-    <input type="hidden" name="sfids[1]" value="523">
-	<div>
-	    <div id="adminEmailWrapper" class="wth2-adminEmailField">     
-	        <div class="wth2-discountsInput">
-	        <label for="adminEmail">Your Email:</label>
-	        <div class="ui-input-text ui-body-inherit ui-corner-all ui-mini ui-shadow-inset"><input type="email" name="email" placeholder="youremail@sample.com" id="adminEmail" data-mini="true"></div>
-	    	</div>
-	    </div>
-	    <div id="adminZipWrapper" class="wth2-adminZipField">
-	    	<div class="wth2-discountsInput">
-	    	 <label for="adminZipCode">Your Zip Code:</label>
-	        <div class="ui-input-text ui-body-inherit ui-corner-all ui-mini ui-shadow-inset"><input type="text" name="zip" placeholder="5-digit U.S. Zip Code" id="adminZipCode" pattern="[0-9]*" maxlength="5" data-mini="true"></div>
-	        </div>
-	    </div>	
-    </div>
-    <div class="wth2-adminEmailSubmit">
-        <a id="adminEmailFormSubmit" href="#" class="ui-btn ui-btn-inline ui-shadow ui-corner-all ui-mini wth2-ui-btn" title="Email Signup: Submit">Get Cruise Deals</a>
-    </div>
-    </form>				
-    </div>
-</div>
-
-<div id="adminEmailFormConfirmation" style="display:none">
-	<div class="wth2-sucessMessage sMargTop">
-		 <i class="fa fa-check-circle" aria-hidden="true"></i>
-		<div class="wth2-sucessMessageCont">
-		    <div id="emailConfHeader" class="wth2-sucessMessageHeader">
-		    Thank You!
-		    </div>
-		    <p>Your submission was received.</p>
-	    </div>
-    </div>
-</div>
-				</div></div><div class="ui-screen-hidden ui-popup-screen ui-overlay-b" id="abandonmentPopup-screen"></div><div class="ui-popup-container ui-popup-hidden ui-popup-truncate" id="abandonmentPopup-popup"><div id="abandonmentPopup" tabindex="-1" aria-live="polite" class="wth2-abandonmentContainer wth2-popupLightboxLarge wth2-emailThisItinLightbox ui-popup ui-body-a ui-overlay-shadow ui-corner-all" data-theme="a" data-overlay-theme="b" data-shadow="true" data-corners="true" data-role="popup" data-history="false">
-			<a href="#" id="closeabandonmentPopup" data-rel="back" data-role="button" data-theme="d" data-icon="delete" data-iconpos="notext" class="ui-btn-right wth2-closeBtn ui-btn ui-btn-a ui-icon-delete ui-btn-icon-notext ui-shadow ui-corner-all" role="button">Close</a>
-			<h5 class="wth2-simplePopUpHeader" id="abandon_header">Did You Know?</h5>
-			<div class="wth2-simplePopUpSubHeader">
-				<p id="abandon_subheader">Our cruise experts have <span class="wth2-bold">unpublished fares</span> and <span class="wth2-bold">exclusive offers!</span></p>
-				<p id="abandon_callmessage">Call us now at</p>
-			</div>
-			<p class="wth2-phoneNumber wth2-bucketPrice" id="abandon_phonenumber">
-				
-					1-800-CRUISES
-				
-				
-   		 	</p>
-			<div class="wth2-continue">
-				<a href="#" class="ui-btn ui-btn-inline ui-shadow ui-corner-all ui-mini wth2-ui-btn" id="continueOnline">Continue Online</a>
-			</div>
-		</div></div></div><!-- /page -->         
+			</div><!-- /page -->         
             
 				
 		
@@ -2205,33 +3018,10 @@ $(document).ready(function() {
 		
 
 <!--  cmsTrackingTag START -->
-<!-- Google Tag Manager -->
-	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KV8H5"
-	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-KV8H5');</script>
-	<!-- End Google Tag Manager -->
+
 <!--  cmsTrackingTag END -->
 		
-				
 	
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
 
 
 
