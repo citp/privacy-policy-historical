@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scour.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628122249id_/http%3A//scour.com/files/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scour.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109065941id_/http%3A//www.scour.com/files/policy.html) for the most accurate reproduction.*
 
 # 
 
