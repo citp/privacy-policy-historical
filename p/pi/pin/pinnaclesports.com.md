@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinnaclesports.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524171457id_/https%3A//www.pinnacle.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinnaclesports.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109190041id_/https%3A//www.pinnacle.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Pinnacle Sports Privacy Policy | Understand how our privacy policy works
 
@@ -343,14 +343,6 @@ You can amend your browser settings to block some or all cookies. To do this, fo
 For example, you may not actually be able to place any bets. If you would like to amend your browser settings see “manage your cookies”. If you would like more information about cookies see “further information”.
 
 The types of cookies Pinnacle uses are:
-
-Essential Cookies
-
-Performance Cookies
-
-Functionality Cookies
-
-Targeting Cookies
 
 Essential Cookies
 
