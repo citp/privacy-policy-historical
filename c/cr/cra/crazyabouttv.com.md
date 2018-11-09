@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazyabouttv.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509045039id_/http%3A//www.crazyabouttv.com/miscpages/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyabouttv.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109053017id_/http%3A//www.crazyabouttv.com/miscpages/privacypolicy.html) for the most accurate reproduction.*
 
 # CrazyAboutTV.com Privacy Policy
 
@@ -12,7 +12,7 @@ The information we receive in our log files includes your IP address, your inter
 
 ## Cookies:
 
-We do use cookies to store your username and password after you enter them at our [TV forums](http://www.crazyabouttv.com/TVshowtalk/index.php). Without these cookies you would have to re-enter that information every time you visited the forum. Our advertisers also use cookies to present you with ads that are most likely to interest you. If you have recently visited a site about Brazil for example, the cookies tell our advertisers that you might appreciate an ad from a travel site. For more information about how ad cookies work, visit the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+We do use cookies to remember anything you have done at our site. 
 
 ## You Can Disable Cookies:
 
