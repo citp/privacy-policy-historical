@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the trainingpeaks.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609164603id_/http%3A//www.trainingpeaks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainingpeaks.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109215720id_/https%3A//www.trainingpeaks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TrainingPeaks
 
 Effective starting: May 25, 2018
 
-**Key Changes**
+Key Changes
 
   * More control over your information. We updated information on how to control your data and the use of your personal information through our services.
   * Updated Child Policy. TrainingPeaks now requires it’s users to be at least 16 years of age to create an account and use TrainingPeaks products and services.
@@ -98,14 +98,6 @@ TrainingPeaks uses “cookies,” a small text file transferred to your device, 
 The Options/Settings section of most internet browsers will tell you how to manage the cookies and other technologies that may be transferred to your device, including how to disable such technologies. You can disable our cookies or all cookies through your browser settings. Please be advised that disabling cookies through either method may impact many of our websites’ features. 
 
 ### Instructions for blocking or allowing cookies in common web browsers are provided at the links below:
-
-  * [Internet Explorer](http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies)
-  * [Firefox](https://support.mozilla.org/en-US/kb/block-websites-storing-site-preferences?esab=a&s=blocking+cookies&r=2&as=s)
-  * [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)
-  * [Apple Safari](http://support.apple.com/kb/ph5042)
-  * [Aboutcookies.org](http://www.aboutcookies.org/default.aspx)
-
-
 
 We use the following cookies: 
 
