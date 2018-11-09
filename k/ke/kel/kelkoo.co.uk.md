@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kelkoo.co.uk privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627192211id_/http%3A//www.kelkoo.co.uk/company-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kelkoo.co.uk privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109025518id_/http%3A//www.kelkoo.co.uk/company-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Kelkoo
 
@@ -6,9 +6,9 @@ Privacy Policy
 
 ### INTRODUCTION
 
-We (Kelkoo) take the privacy rights of users of our website ([www.kelkoo.co.uk](https://web.archive.org/web/20180627192211id_/http%3A/)) (the “Website”) very seriously and are committed to protecting and respecting your privacy.
+We (Kelkoo) take the privacy rights of users of our website ([www.kelkoo.co.uk](https://web.archive.org/web/20181109025518id_/http%3A/)) (the “Website”) very seriously and are committed to protecting and respecting your privacy.
 
-This privacy policy (“Privacy Policy”) is incorporated in and subject to the [Terms of Use](https://web.archive.org/web/20180627192211id_/http%3A/company-pages/terms-of-use) which govern your use of the Website. This Privacy Policy also applies to our collection and use of data collected through cookies and other tracking devices, whether on the Website or elsewhere. Details of such collection and use are set out in our [Cookie Policy](https://web.archive.org/web/20180627192211id_/http%3A/company-pages/cookie-policy). By using the Website or by allowing the use of cookies, you agree to the use of your Personal Information (as defined below) in accordance with this Privacy Policy. If you do not agree with this use or disallow cookies on your computer, you may find that some features of the Website are unavailable to you.
+This privacy policy (“Privacy Policy”) is incorporated in and subject to the [Terms of Use](https://web.archive.org/web/20181109025518id_/http%3A/company-pages/terms-of-use) which govern your use of the Website. This Privacy Policy also applies to our collection and use of data collected through cookies and other tracking devices, whether on the Website or elsewhere. Details of such collection and use are set out in our [Cookie Policy](https://web.archive.org/web/20181109025518id_/http%3A/company-pages/cookie-policy). By using the Website or by allowing the use of cookies, you agree to the use of your Personal Information (as defined below) in accordance with this Privacy Policy. If you do not agree with this use or disallow cookies on your computer, you may find that some features of the Website are unavailable to you.
 
 ### WHO ARE WE?
 
@@ -50,7 +50,7 @@ We may use your Personal Information in the following ways:
 
 • to allow you to participate in certain services we offer such as the Kelkoo Newsletter, the User Reviews or any competition, promotion, prize draw or survey launched on the Website or to inform you of changes to any of these services;
 
-• to investigate any suspected breach of the [Terms of Use](https://web.archive.org/web/20180627192211id_/http%3A/company-pages/terms-of-use) by you or relating to you;
+• to investigate any suspected breach of the [Terms of Use](https://web.archive.org/web/20181109025518id_/http%3A/company-pages/terms-of-use) by you or relating to you;
 
 • to process registration of your account information and maintain the user account you may have with us;
 
@@ -66,7 +66,7 @@ We may pass on your Personal Information to other parties as follows:
 
 • some aggregated information about the Website users, sales patterns, traffic volumes and related matters to reputable third parties but these details will not include any of your Personal Information;
 
-• to regulatory bodies or legal advisers in connection with any alleged criminal offence or suspected breach of the [Terms of Use](https://web.archive.org/web/20180627192211id_/http%3A/company-pages/terms-of-use) or when required by law;
+• to regulatory bodies or legal advisers in connection with any alleged criminal offence or suspected breach of the [Terms of Use](https://web.archive.org/web/20181109025518id_/http%3A/company-pages/terms-of-use) or when required by law;
 
 • to any member of the Kelkoo group; and
 
@@ -86,9 +86,9 @@ We employ all industry standard practices and have strict security procedures co
 
 ### WHAT ARE COOKIES AND WEB BEACONS AND HOW DO WE USE THEM?
 
-A cookie is a small amount of information which is sent to your browser from a website’s computers and stored on your computer’s hard drive. A web beacon is a small image (usually embedded in a web page or email) that allows a website to count users who have visited that page or to access certain cookies. These tracking devices help us to improve our Website, to deliver a better and more personalised service, including by allowing us or our business partners to provide you with selected advertising content and/or to ensure the completion of your purchase. We have set out more details on our use of cookies in our [Cookie Policy](https://web.archive.org/web/20180627192211id_/http%3A/company-pages/cookie-policy).
+A cookie is a small amount of information which is sent to your browser from a website’s computers and stored on your computer’s hard drive. A web beacon is a small image (usually embedded in a web page or email) that allows a website to count users who have visited that page or to access certain cookies. These tracking devices help us to improve our Website, to deliver a better and more personalised service, including by allowing us or our business partners to provide you with selected advertising content and/or to ensure the completion of your purchase. We have set out more details on our use of cookies in our [Cookie Policy](https://web.archive.org/web/20181109025518id_/http%3A/company-pages/cookie-policy).
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting, you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it refuses cookies, our system will issue cookies when you log on to our Website or our business partners’ websites and, by continuing to use our Website or those websites, you agree to our use of those cookies as described in our [Cookie Policy](https://web.archive.org/web/20180627192211id_/http%3A/company-pages/cookie-policy).
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting, you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it refuses cookies, our system will issue cookies when you log on to our Website or our business partners’ websites and, by continuing to use our Website or those websites, you agree to our use of those cookies as described in our [Cookie Policy](https://web.archive.org/web/20181109025518id_/http%3A/company-pages/cookie-policy).
 
 ### WHERE DO WE STORE PERSONAL INFORMATION?
 
