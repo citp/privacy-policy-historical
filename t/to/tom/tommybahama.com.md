@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tommybahama.com privacy policy that was archived on 2017-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170814171825id_/https%3A//www.tommybahama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tommybahama.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109092144id_/https%3A//www.tommybahama.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TommyBahama.com
 
-Tommy Bahama Group, Inc. ("Tommy Bahama" or "we" or "us") values its customers ("you") and we respect your privacy. In general, we collect certain personal information about you so that we can provide you the services you request, improve your shopping experience and communicate with you about our products, services, contests and promotions. As described in this policy, we may share your information with our affiliated companies and, under certain circumstances, with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service. This Privacy Policy ("Policy") describes the personal information we collect about you, why we collect it, how we use it and under what circumstances we share it with third parties. This Policy also describes the decisions you can make about how you provide your personal information to us.
+This Privacy Policy (”Policy”) explains how Tommy Bahama Group, Inc., Tommy Bahama R&R Holdings, Inc. and Tommy Bahama Canada ULC (collectively, “Tommy Bahama or “we” or “us”) collect, use, and disclose information through our websites and other online products and services that link to this Privacy Policy, or when you otherwise interact with us.
 
-If this Policy changes in the future, we will post an updated version on our website. You can tell if this Policy has changed by checking the revision date that appears at the bottom. You may change how you provide your personal information to us at any time.
+If we make changes to this Policy, we will notify you by revising the date at the bottom of the Policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). You may change how you provide your personal information to us at any time.
 
   
 
@@ -15,10 +15,10 @@ If this Policy changes in the future, we will post an updated version on our web
   * Your Decisions on Receiving Marketing Communications
   * Opt-Out of Information Sharing
   * Our Use of Cookies
-  * How We Respond to Do Not Track Signals
-  * Security
   * Links to Other Sites 
+  * Notice to International Customers 
   * Your California Privacy Rights / Questions or Comments
+  * Your Canadian Privacy Rights / Questions or Comments
 
   
 
@@ -44,7 +44,7 @@ We maintain a record of your product interests and the purchases you make. We ma
 
 top ^
 
-To provide you with the best possible customer experience, we may use your personal information in the following ways:
+We use the information we collect to provide you with the best possible customer experience and for the purposes described below:
 
   * To process and fulfill your order, including to send you emails to confirm your order status and shipment 
   * To communicate with you and to send you information by email, postal mail, telephone, text message, or other means about our products, services, contests, and promotions, unless you have directed us not to contact you with promotional communications 
@@ -54,9 +54,9 @@ To provide you with the best possible customer experience, we may use your perso
   * To enhance your shopping experience 
   * To analyze trends and statistics 
   * To protect the security or integrity of our websites and our business 
-  * To contact you 
   * To improve our merchandise selection and customer service 
   * To enroll you in our guest loyalty program (when and if one becomes available) so that you can be eligible to receive enhanced benefits for shopping at Tommy Bahama 
+  * To verify your identity
 
 
 
@@ -66,18 +66,22 @@ top ^
 
 We may share your personal information in the following ways:
 
-  * We may share your information with our service providers who manage our customer information and perform services on our behalf, such as fulfilling promotions, sending communications to our customers, conducting surveys, etc. We do not authorize any of these service providers to make any other use or disclosure of your information.
-  * We may share your information when we partner with another company in a joint marketing program to offer or provide products, services, contests, or promotions to our customers. Except for sharing this information with a joint marketing partner, we do not sell or lease your information to any third party to use for marketing their products.
-  * From time to time we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy policies are consistent with ours. In such cases we might rent, exchange, share and/or cross-reference information, including contact information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you.
+  * We may share your information with our service providers who manage our customer information and perform services on our behalf, such as fulfilling promotions, sending communications to our customers, conducting surveys, etc. We contractually restrict these service providers from making any other use or disclosure of your information.
+  * We may share your information when we partner with another company in a joint marketing program to offer or provide products, services, contests, or promotions to our customers.
+  * If you purchase Tommy Bahama products through our websites or by placing a catalog order by phone or mail, we may share your name, postal address, and shopping history with like-minded organizations whose privacy policies meet the Direct Marketing Association's privacy standards, for their direct mail marketing purposes. From time to time we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy policies are consistent with ours. In such cases we might rent, exchange, share and/or cross-reference information, including contact information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you. You have the right to opt out of such sharing (for more information, please see "Opt-Out of Sharing Information" and "Your California Privacy Rights / Questions or Comments" below.
   * We may share information about you, if necessary, in our good faith judgment, to comply with laws or regulations or in response to a valid subpoena, order, or government request, or to protect the rights of Tommy Bahama or others. 
-  * If you purchase Tommy Bahama products through our websites or by placing a catalog order by phone or mail, we may share your name, postal address, and shopping history with like-minded organizations whose privacy policies meet the Direct Marketing Association's privacy standards, for their direct mail marketing purposes. 
   * If you choose to participate in a loyalty, or similar program in which Tommy Bahama is a participating vendor, and you authorize Tommy Bahama to provide information about your purchases to the company administering the program, we will share your personal information with that program. Loyalty programs allow you to earn "points" on purchases at Tommy Bahama, which you may then use toward certain rewards offered by the loyalty program in which you participate.
 
 
 
 top ^
 
-You can review your personal information at any time. To access your personal information online, simply click Your Account at the top of any web page, sign in when prompted. You can update your personal information, by calling Guest Services at 1.866.986.8282. We want to communicate with you only if you want to hear from us. Tommy Bahama provides a choice in communication for customers so you can receive information from us at your discretion. We communicate with our customers by promotional email, mailings (postal) and telephone. If you would like to be removed from our promotional email, mailings (postal) or telephone lists, please contact us by calling Guest Services at 1.866.986.8282 or by sending an email to [guestservices@tommybahama.com](mailto:guestservices@tommybahama.com). You may also write to us at:
+  
+
+
+You can review your My Account profile personal information at any time. My Account information will include the information you have voluntarily provided to us to set up an account as well as transaction information conducted when logged in to your account. Other information about you not added to your My Account profile or associated with purchases not made when logged in to your account may not be accessible through your My Account profile.
+
+To access your personal information in your My Account profile online, simply click My Account at the top of any web page, sign in when prompted. You can update your personal information, by calling Guest Services at 1.866.986.8282. We want to communicate with you only if you want to hear from us. Tommy Bahama provides a choice in communication for customers so you can receive information from us at your discretion. We communicate with our customers by promotional email, mailings (postal) and telephone. If you would like to be removed from our promotional email, mailings (postal) or telephone lists, please contact us by calling Guest Services at 1.866.986.8282 or by sending an email to [guestservices@tommybahama.com](mailto:guestservices@tommybahama.com). You may also write to us at:
 
 Tommy Bahama Guest Services  
 400 Fairview Avenue North, Suite 488   
@@ -100,53 +104,20 @@ Seattle, WA 98109-5371
 
 top ^
 
-We regularly use browser tracking cookies. A cookie is a small text file that is placed on your hard disk by a website. Cookies are uniquely assigned to you, and can only be read by a website or web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer.
-
-We use cookies in order to improve your shopping experience. For example, we use cookies to:
-
-  * Recognize you when you return to one of our websites 
-  * Keep track of your order as you shop on our websites and remember what items are in your Shopping Bag 
-  * Process your order on our websites and enable you to use Express Checkout, if you have created an account online, either at TommyBahama.com or at TommyBahamaOutlet.com 
-  * Study how our Guests navigate through our website and which products they request in site searches 
-  * Customize the message and delivery of online banner ads based on your online behavior. 
-
-
-
-Through our use of cookies, we may also track and maintain the identity of the website you visited immediately prior to visiting our website. We do not otherwise track any information about your use of other websites.
-
-Cookies are also used to review how visitors to our website navigate our site or interact with our email advertising. Third-party companies assist in the collection and analysis of this data. Your name, street address or credit card number is not accessed by or shared with other companies. 
-
-You have the ability to accept or decline cookies. You can refuse cookies by turning them off in your browser. If you decide to block cookies, our websites might not function correctly. For example, if you do not allow cookies at all, you might not be able to view some of our websites or use certain features like adding products to your shopping cart, which may impact your shopping experience with us. If you refuse cookies and wish to place an order from our website, please call Guest Services at 1.866.986.8282.
-
-We work with a variety of advertising and third-party companies that use tracking technologies (including cookies and pixel tags) on our websites in order to provide tailored advertisments on our behalf and on behalf of other advertisers on the internet. These advertising companies collect anonymous information about your visits to our websites, our advertising, other advertising websites or interaction with our email and other communications. This technology allows them to develop Tommy Bahama advertising and marketing about goods and offers that may be of interest to you. For more information about this practice and to understand your options, please visit http://www.aboutads.info.
-
-top ^
-
-  
-
-
-We may enable tracking technologies to collect personal information about your online activities over time and across different websites. We use this information to better understand your preferences and send you marketing and other promotional materials that may be of interest to you. 
-
-Your web browser may enable you to indicate your preference as to whether you wish to allow websites to collect personal information about your online activities over time and across different websites. At this time our site does not respond to the preferences you may have set in your web browser regarding the collection of such personal information, and our site may continue to collect personal information from you both while you browse and after you leave tommybahama.com in the manner described in this Privacy Policy. We do not treat users differently if they have indicated that they do not wish to allow our websites to collect their personal information over time and across different websites. 
-
-We may enable third parties to collect personal information in connection with our sites. As described above, we work with a variety of advertising and third-party companies that use tracking technologies on our websites in order to provide tailored advertisements on our behalf and on behalf of other advertisers on the internet. For more information about this practice and to understand your options, please visit http://www.aboutads.info. This policy does not apply to, and we are not responsible for, any collection of personal information by third parties on our sites.
-
-top ^
-
-  
-
-
-We do our best to provide you with a safe shopping experience. We have in place certain physical, electronic, contractual, and managerial safeguards to protect the security and privacy of your personal information. 
-
-When you enter your personal information on our websites, we use Secure Sockets Layer (SSL) technology to protect your information as it is transmitted to us. To make sure you are accessing our secure server before you submit personal financial information, look at the lower left-hand corner of your browser. If you see an unbroken key or a closed lock (depending upon your browser), then SSL is active. To double-check for security, look at the URL or Location line of your browser. If you have accessed a secure server, the first characters of the address in that line should change from "http" to "https." 
-
-If for any reason you cannot access the secure server, or if you're not quite comfortable shopping online at any of our websites, please feel free to place your order with us through Guest Services at 1.866.986.8282.
-
-Identity thieves sometimes send fraudulent email messages to trick customers into divulging personal or financial information (a practice known as "phishing"). "Phishing" is a scam designed to steal your personal information. If you receive an email that looks like it is from us asking you for your personal information, do not respond. We will never request your password, user name, credit card information or other personal information through email. If you have received or entered personal information in response to a suspicious email, pop-up or phony website claiming to be affiliated with Tommy Bahama, please call us at 1.866.986.8282 immediately.
+We regularly use browser tracking cookies. A cookie is a small text file that is placed on your browser or device. We use cookies for several reasons in order to improve your shopping experience. For more information about how we use cookies and your choices concerning cookies, please refer to our [Cookie Policy](https://web.archive.org/cookie-policy).
 
 top ^
 
 Occasionally we provide links on our websites to other sites we think you will enjoy. These sites operate independently of us and have established their own privacy and security policies. For the best online experience, we strongly encourage you to review these policies at any site you visit. We are not responsible for the content or practices of any linked websites which are provided solely for the convenience and information of our visitors.
+
+top ^
+
+  
+
+
+If you are making a purchase on our website that will be shipped outside of the United States or Canada, such purchase is made from a separate company, Borderfree, rather than Tommy Bahama. If you have questions about how Borderfree collects, uses, and shares your personal data, please contact [Borderfree](https://www.borderfree.com/) or review their [privacy policy](https://www.borderfree.com/privacy/en_us/).
+
+If you visit our website from the European Economic Area ("EEA") and choose to sign up for our marketing emails, we will process your personal information to send you marketing communications. The legal basis for such processing is our legitimate interest in providing you information that may be of interest to you. If you have questions about Tommy Bahama's data practices or would like to exercise other rights that may be available to you under local law, please contact us at [privacy@tommybahama.com](mailto:privacy@tommybahama.com) or 00+1.206.905.2808.
 
 top ^
 
@@ -162,4 +133,26 @@ To find out information about any rights you may have under Civil Code section 1
 
 top ^
 
-**Last Revised: October 19, 2015**
+  
+
+
+Our policy allowing customers to opt-out of information sharing with third parties for marketing purposes also applies to our Canadian customers. In addition, when we collect or otherwise acquire personal information about Canadian customers from third parties, we enter into a contract with the third party which requires them to ensure, and provide assurances to us, that they obtained informed express consent to disclose your personal information to us. If you want to know if we have obtained any information from a third party, or have any questions or concerns about the collection, use, disclosure, or correction of your personal information please contact us as set out below.
+
+We do not share any personal information about our Canadian customers for marketing purposes such as shopping history or account information. We do provide your postal address as a Tommy Bahama customer with marketing partners to use for direct mail marketing purposes. If you would like to opt-out of the provision of your information for this purpose, please contact us at:
+
+Tommy Bahama Guest Services   
+400 Fairview Avenue North, Suite 488   
+Seattle, WA 98109-5371  
+1.866.986.8282   
+[guestservices@tommybahama.com](mailto:guestservices@tommybahama.com)
+
+  
+
+
+Your personal information may be stored and accessed by us in Canada and the United States. We use third party service providers which may be located in, or may have servers in the United States or another country. Your information may be accessible to governmental and law enforcement organizations in those countries. We do not authorize any of our service providers to make any other use or disclosure of your information. We transfer your information to these third party service providers only to the extent necessary for them to perform the services on our behalf.
+
+We will only send you marketing communications by email or text if you have expressly asked us to do so.
+
+top ^
+
+**Last Revised: August 24, 2018**
