@@ -1,47 +1,114 @@
-> *The following text is extracted and transformed from the eccouncil.org privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709142938id_/https%3A//www.eccouncil.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eccouncil.org privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109065058id_/https%3A//www.eccouncil.org/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - EC-Council
+# Privacy Policy | EC-Council
 
-EC-Council is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the EC-Council Web site and governs data collection and usage. By using the EC-Council website, you consent to the data practices described in this statement.
+EC-Council is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the EC-Council website and governs data collection and usage. By using the EC-Council website, you consent to the data practices described in this statement. At EC-Council, the privacy and security of our customers, respondents, and visitors are of paramount importance. EC-Council is committed to protecting the data you share with us.
 
-**Collection of your Personal Information**
+### **What Personal Information Does EC-Council Gather?**
 
-EC-Council collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. EC-Council also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+EC-Council, through various webforms that help our members register, reset passwords, get training, partner with us, etc. collects personally identifiable information such as e-mail addresses, names, home or work addresses, telephone numbers, organization names, etc. EC-Council also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests, and favorites.
 
-There is also information about your computer hardware and software that is automatically collected by EC-Council. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by EC-Council for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the EC-Council Web site.
+### **Information You Give Us**
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through EC-Council public message boards, this information may be collected and used by others. Note: EC-Council does not read any of your private online communications.
+You may choose to apply for specific information or services on topics such as products, training, white papers, brochures, etc. which may require you to fill out forms and share your personal information. This information is irrespective of your membership. EC-Council asks you to allow representatives of EC-Council to contact you for the purpose asked.
 
-EC-Council encourages you to review the privacy statements of Web sites you choose to link to from EC-Council so that you can understand how those Web sites collect, use and share your information. EC-Council is not responsible for the privacy statements or other content on Web sites outside of the EC-Council and EC-Council family of Web sites.
+### **Automatic Information**
 
-**Use of your Personal Information**
+We receive and store certain types of information whenever you interact with us. For example, like many websites, we use cookies and we obtain certain types of information when your web browser accesses eccouncil.org or any of our subdomains, advertisements, and other content served by or on behalf of eccouncil.org on other websites. We may use this information for internal analysis and to provide you with location-based services, such as advertising, search results, and other personalized content.
 
-EC-Council collects and uses your personal information to operate the EC-Council Web site and deliver the services you have requested. EC-Council also uses your personally identifiable information to inform you of other products or services available from EC-Council and its affiliates. EC-Council may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+### **E-mail Communications**
 
-EC-Council does not sell, rent or lease its customer lists to third parties. EC-Council may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, EC-Council may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to EC-Council, and they are required to maintain the confidentiality of your information.
+To help us make emails more useful and interesting, we often receive a confirmation when you open email from eccouncil.org, if your computer supports such capabilities. We also compare our customer list to lists received from other companies in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please edit your customer communication preferences.
 
-EC-Council does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+### **Information from Other Sources**
 
-EC-Council keeps track of the Web sites and pages our customers visit within EC-Council, in order to determine what EC-Council services are the most popular. This data is used to deliver customized content and advertising within EC-Council to customers whose behavior indicates that they are interested in a particular subject area.
+We might receive information about you from other sources and add it to our account information.
 
-EC-Council Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on EC-Council or the site; (b) protect and defend the rights or property of EC-Council; and, (c) act under exigent circumstances to protect the personal safety of users of EC-Council, or the public.
+By using or continuing to use the site you agree to our use of your information (including sensitive personal information) in accordance with this Privacy Notice, as may be amended from time to time by eccouncil.org at its discretion. You also agree and consent to us collecting, storing, processing, transferring, and sharing information (including sensitive personal information) related to you with third parties or service providers for the purposes as set out in this Privacy Notice.
 
-**Use of Cookies**
+We may be required to share the aforementioned information with government authorities and agencies for the purposes of verification of identity or for the prevention, detection, investigation, prosecution, or punishment of cyber incidents or offenses. You agree and consent to EC-Council to disclose your information if required under applicable law.
 
-The EC-Council Web site use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+EC-Council encourages you to review the privacy statements of websites you choose to link to from EC-Council so that you can understand how those websites collect, use, and share your information. EC-Council is not responsible for the privacy statements or content on websites outside of the EC-Council family of websites.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize EC-Council pages, or register with EC-Council site or services, a cookie helps EC-Council to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same EC-Council Web site, the information you previously provided can be retrieved, so you can easily use the EC-Council features that you customized.
+### **How EC-Council Uses Such Information**
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the EC-Council services or Web sites you visit.
+EC-Council collects and uses your personal information to operate the EC-Council website and deliver the services you have requested. EC-Council also uses your personally identifiable information to inform you of other products or services available from EC-Council and its affiliates. EC-Council may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. Some of the ways we may use personal information include:
 
-**Security of your Personal Information**
+  * Delivering a product or service you have requested.
+  * Analyzing, supporting, and improving our products and your online experience.
+  * Personalizing websites, newsletters, and other communications.
+  * Administering and processing your certification exams.
+  * Sending communications to you, including for marketing or customer satisfaction purposes, either directly from EC-Council or from our external partners.
 
-EC-Council secures your personal information from unauthorized access, use or disclosure. EC-Council secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-**Changes to this Statement**
+
+### **Website Visitors**
+
+EC-Council may collect, record, and analyze information from visitors to our websites. We may record your IP address and use cookies. Furthermore, EC-Council may collect and process any personal data that you volunteer to us via our website forms, such as when you register for events or sign up for information and newsletters. This data is used to deliver customized content and advertising within EC-Council to customers whose behavior indicates that they are interested in a subject area. If you provide EC-Council with your social media details, EC-Council may retrieve publicly available information about you from social media.
+
+### **Information We Share**
+
+EC-Council does not sell, rent, or lease your personal information to third parties.
+
+EC-Council shares personal information in the following ways:-
+
+EC-Council may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique, personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. However, EC-Council may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such partners are prohibited from using your personal information except to provide these services to EC-Council, and they are required to maintain the confidentiality of your information.
+
+EC-Council websites will disclose your personal information, without consent, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on EC-Council or the site; (b) protect and defend the rights or property of EC-Council; and, (c) act under exigent circumstances to protect the personal safety of users of EC-Council or the public.
+
+### **Sensitive Personal Information**
+
+EC-Council does not collect, use, or disclose sensitive personal information, such as race, religion, or political affiliations without your explicit consent.
+
+### **How EC-Council Stores the Information It Collects**
+
+EC-Council stores your personally identifiable information such as name, contact number, email address, etc. on a secure server which is encrypted and is accessible only to EC-Council’s web applications such as our member portal (Aspen), eccouncil.org, and not any other third party websites or applications.
+
+### **How EC-Council Secures Your Information**
+
+We take appropriate technical and organizational measures to secure your information and to protect it against unauthorized or unlawful use and accidental loss or destruction, including:
+
+  * Only sharing and providing access to your information to the minimum extent necessary, subject to confidentiality restrictions where appropriate, and on an anonymized basis wherever possible;
+  * Using secure servers to store your information;
+  * Verifying the identity of any individual who requests access to information prior to granting them access to information; and
+  * Using Secure Sockets Layer (SSL) software or other similar encryption technologies to encrypt any payment transactions you make on or via our website.
+
+
+
+### **Retention of Personal Information**
+
+We will retain your personal information as needed to fulfill the purposes for which it was collected. We will retain and use your personal information as necessary to comply with our business requirements, legal obligations, resolve disputes, protect our assets, and enforce our agreements.
+
+### **Opt-Out Policy**
+
+If you would like to opt-out of the sharing of your personally identifiable information submitted on our website with third parties, contact us and indicate your unwillingness to share such information with third parties.
+
+If you would like to opt-out of receiving any direct marketing information from us, contact us (link to the contact page/email id) and indicate that you do not consent to the use by EC-Council of your personally identifiable information for marketing purposes.
+
+### **Cookie Policy**
+
+### What is a “Cookie”?
+
+A cookie is a small text file sent by a web server and stored by the website on your computer to let the web browser keep track of information about your browsing on that site. Cookies are useful in helping the web browser remember specific information about your preferences, location, session details, etc. You can go to the preference or content setting of your web browser to delete the cookies pertaining to any website at any time.
+
+### EC-Council Cookies
+
+At EC-Council, we give you the option to opt-out of cookies in order to let you control your privacy. Though we do recommend that for a good web experience, you allow EC-Council to store cookies.
+
+### Turn Off or Opt-Out of Cookies
+
+Rejecting cookies may restrict your browsing experience on EC-Council websites related to important features such as login, location-specific data, and other demography-dependent info.
+
+EC-Council does not share cookie information with any other website nor do we sell this data to any third party.
+
+### **Children’s Online Privacy**
+
+EC-Council’s courses and services are not directed to children and EC-Council does not knowingly collect online personal information from children under the age of 13. If you are a parent or guardian of a minor under the age of 13 and believe that he or she has disclosed personal information to us, please contact us.
+
+### **Updates to this EC-Council Privacy Statement**
 
 EC-Council will occasionally update this Statement of Privacy to reflect company and customer feedback. EC-Council encourages you to periodically review this Statement to be informed of how EC-Council is protecting your information.
 
-**Contact Information**
+### **Contact Information**
 
 EC-Council welcomes your comments regarding this Statement of Privacy. If you believe that EC-Council has not adhered to this Statement, please contact EC-Council at legal@eccouncil.org. We will use commercially reasonable efforts to promptly determine and remedy the problem.
