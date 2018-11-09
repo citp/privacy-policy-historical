@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the statalist.org privacy policy that was archived on 2018-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180519024648id_/https%3A//www.stata.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the statalist.org privacy policy that was archived on 2018-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181109231122id_/https%3A//www.stata.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head profile="http://www.w3.org/2005/10/profile">
 <meta name="viewport" content="width=device-width, initial-scale = 1.0">
@@ -39,8 +39,6 @@
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 
-<script type="text/javascript" language="javascript1.2" src="/includes/js/jquery-1.11.3.js"></script> 
-<script type="text/javascript" language="text/javascript" src="/includes/js/jquery-1.11.3.min.js"></script>
 <script type="text/javascript" language="javascript1.2" src="/includes/js/statagraphs.js"></script> 
 <!-- <script type="text/javascript" language="javascript1.2" src="/includes/js/changecountry.js"></script> 
 -->
@@ -55,8 +53,7 @@
   <link rel="stylesheet" href="/includes/css/demostyles.css">
   <!-- Load local lib and tests. -->
 <script src="//code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
-  <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
-  <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+ <script src="https://code.jquery.com/jquery-migrate-git.js"></script>
   <script src="/includes/js/responsive-carousel.js"></script>
   <script src="/includes/js/responsive-carousel.touch.js"></script>
   <script src="/includes/js/responsive-carousel.drag.js"></script>
@@ -65,6 +62,7 @@
 <script src="/includes/js/cartScripts.js"></script>
 <!-- <link rel="alternate" type="application/rss+xml" title="RSS" href="/headlines.rss"> -->
 <script language="javascript1.2" src="/includes/js/little_window.js"></script>
+<script src="/includes/js/jquery-patch.js"></script>
 
 <script type="text/javascript" language="JavaScript">
 
@@ -197,7 +195,6 @@ document.getElementById('changeme').href=B
 </script>
 
 <!-- SCRIPTS FOR ORDER PAGE -->
-<!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> -->
 <script src="/includes/js/mpcores.js"></script>
 <script src="/includes/js/popup.js"></script>
 <script src="/includes/js/cartScripts.js"></script>
@@ -373,22 +370,29 @@ $(window).scroll(function () {
 <td id="trainingmenu">
 <span class="mainitem"><a href="/learn/">Learn</a><br><div><span class="ddmenuholder">
     <span class="categories">
-    <a class="bump" href="/netcourse/">NetCourses</a><br>
-    <a class="bump" href="/training/classroom-and-web/">Classroom and web training</a><br>
-    <a class="bump" href="/training/onsite-training/">On-site training</a><br>
-    <a class="bump" href="/training/webinar/">Webinars</a><br>
-    <a class="bump" href="/links/video-tutorials/">Video tutorials</a><br>
-    <a class="bump" href="/meeting/short-courses/">Third-party courses</a><br>
+      <a class="bump" href="/netcourse/">NetCourses</a><br>
+      <a class="bump" href="/training/classroom-and-web/">Classroom and web training</a><br>
+      <a class="bump" href="/training/onsite-training/">On-site training</a><br>
+    </span>
+    <span class="categories">
+      <a class="bump" href="/training/webinar/">Webinars</a><br>
+      <a class="bump" href="/links/video-tutorials/">Video tutorials</a><br>
+      <a class="bump" href="/meeting/short-courses/">Third-party courses</a><br>
+    </span>
+    <span class="categories">
+      <a class="bump" href="/links/">Web resources</a><br>
+      <a class="bump" href="/teaching-with-stata/">Teaching with Stata</a><br>
     </span>
 </span></div></span>
 </td>
 <td id="supportmenu">
 <span class="mainitem"><a href="/support/">Support</a><br><div><span class="ddmenuholder">
     <span class="categories">
+    <a class="bump" href="/training/webinar/ready-set-go-stata/">Ready. Set. Go Stata.</a><br>
+    <a class="bump" href="/install-guide/">Installation Guide</a><br>
     <a class="bump" href="/support/updates/">Updates</a><br>
-    <a class="bump" href="/support/documentation/">Documentation</a><br>
-      <a class="bump" href="/install-guide/">Installation Guide</a><br>
     <a class="bump" href="/support/faqs/">FAQs</a><br>
+    <a class="bump" href="/support/documentation/">Documentation</a><br>
     <a class="bump" href="/register/">Register Stata</a><br>
     <a href="/support/tech-support/">Technical services </a>
     <p class="substuff">
@@ -397,28 +401,32 @@ $(window).scroll(function () {
     </p>
     </span>
     <span class="categories">
+    <a class="bump" href="/links/video-tutorials/">Video tutorials</a><br>
+    <a class="bump" href="/training/webinar/">Free webinars</a><br>
     <a href="/publications/">Publications </a>
     <p class="substuff">
       <a href="/bookstore/">Bookstore</a><br>
       <a href="/bookstore/stata-journal/">Stata Journal</a><br>
       <a href="/stata-news/">Stata News</a>
     </p>
-    <a href="/meeting/">Conferences and meetings</a>
-    <p class="substuff">
-      <a href="/meeting/columbus18/">Stata Conference </a><br>
-      <a href="/meeting/">Upcoming meetings</a><br>
-      <a href="/meeting/proceedings/">Proceedings</a>
-    </p>
+    <a class="bump" href="/publications/author-support-program/">Author Support Program</a><br>
+    <a class="bump" href="/publications/editor-support-program/">Editor Support Program</a><br>
+    <a class="bump" href="/teaching-with-stata/">Teaching with Stata</a><br>
+    <a class="bump" href="/links/examples-and-datasets/">Examples and datasets</a><br>
+    <a class="bump" href="/links/">Web resources</a><br>
     <a class="bump" href="/learn/">Training</a><br>
     </span>
     <span class="categories">
-    <a class="bump" href="/alerts/">Email alerts</a><br>
-    <a class="bump" href="/statalist/">Statalist</a><br>
+    <a href="/meeting/">Conferences and meetings</a>
+    <p class="substuff">
+      <a href="/meeting/chicago19/">Stata Conference </a><br>
+      <a href="/meeting/">Upcoming meetings</a><br>
+      <a href="/meeting/proceedings/">Proceedings</a>
+    </p>
     <a class="bump" href="//blog.stata.com/">The Stata Blog</a><br>
-    <a class="bump" href="/teaching-with-stata/">Teaching with Stata </a><br>
-    <a class="bump" href="/links/">Web resources </a><br>
-    <a class="bump" href="/publications/author-support-program/">Author Support Program</a><br>
-    <a class="bump" href="/support/installation-qualification/">Installation Qualification Tool</a><br>
+    <a class="bump" href="/statalist/">Statalist</a><br>
+    <a class="bump" href="/links/social-media/">Social media</a><br>
+    <a class="bump" href="/alerts/">Email alerts</a><br>
     <a href="/disciplines/">Disciplines</a><br>
     </span>
   </span>
@@ -449,7 +457,7 @@ $(window).scroll(function () {
     <a class="bump" href="/careers/">Careers</a><br>
     </span>
     <span class="categories">
-    <a href="">Our sites </a><br>
+    <a href="/company/our-sites/">Our sites </a><br>
     <p class="substuff">
       <a href="//www.statalist.org/">Statalist</a><br>
       <a href="//blog.stata.com/">The Stata Blog</a><br>
@@ -571,7 +579,9 @@ $(window).scroll(function () {
 </h3>
 
 <p>
-  To buy from us, you must provide contact information, such as your name and delivery address, and financial information, such as your credit card number and expiration date. This information is used for billing purposes and to process your order. In addition, if we have questions concerning an order, we will use this information to contact you. The following are reasons we need your personal information:
+  To buy from us, you must provide contact information, such as your name and delivery address, and financial information, such as your credit card number and expiration date. This information is used for billing purposes and to process your order. In addition, if we have questions concerning an order, we will use this information to contact you. For orders placed on our
+website, our method for contacting you will be email. The following are reasons we need your personal information:
+
 </p>
 
 <ul class="plist">
@@ -759,7 +769,6 @@ USA<br>
 <td><a href="http://www.facebook.com/StataCorp"><img src="/includes/images/fb-white-50px.png" alt="Find us on Facebook"></a></td>
 <td><a href="http://twitter.com/stata"><img src="/includes/images/tw-white-50px.png" alt="Follow us on Twitter"></a></td>
 <td><a href="http://www.linkedin.com/company/statacorp"><img src="/includes/images/in-white-50px.png" alt="LinkedIn"></a></td>
-<td><a href="https://plus.google.com/+stata/" rel="publisher"><img src="/includes/images/gp-white-50px.png" alt="Google+"></a></td>
 <td><a href="http://www.youtube.com/user/statacorp"><img src="/includes/images/yt-white-50px.png" alt="YouTube"></a></td>
 <td><a href="https://www.instagram.com/statacorp/"><img src="/includes/images/insta-white-50px.png" alt="Instagram"></a></td>
 <!--<td><g:plusone size="standard" count="false"></g:plusone></td>-->
@@ -782,34 +791,6 @@ USA<br>
 
 
 </div>
-
-
-
-<link type="text/css" rel="stylesheet" href="/includes/css/stickyfoot-conf.css">
-<!--[if !IE 7]>
-  <style type="text/css">
-    #wrap {display:table;height:100%}
-  </style>
-<![endif]-->
-<!-- 
-  <script>
-
-        window.onscroll = function stickyfootScroll (){
-                var height = $(window).height();
-                $('#stickyfoot').css('bottom', (height-40)+"px");
-            }
-
-  </script>
--->
-
-
-
-    <div id="stickyfoot" style="vertical-align: middle; padding-bottom: 2px;">
-
-	<a onclick="hide('stickyfoot'); setTheCookie('stickycookie','cleared',7);" style="position: absolute; top: 0px; right: 0px; font-size: 2em;">×</a>
-            <a class="mainlink" href="/columbus2018/">
-           <img src="/meeting/columbus18/img/stata_conference_columbus_2018_white.svg" alt="Stata Conference Columbus 2018" style="padding-bottom: 8px;"><br>Learn more » </a>
-    </div>
 
 
 
@@ -861,13 +842,9 @@ src="//www.googleadservices.com/pagead/conversion/985213821/?label=sJHMCLT-w3UQ_
 </noscript>
 
 
-<script type="text/javascript" language="javascript1.2" src="/includes/js/jquery.popup.js"></script> 
-<script type="text/javascript">
-$('.default_popup').popup();
-</script>
 <script type="text/javascript" language="javascript1.2" src="/includes/js/clearvalues.js"></script> 
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;adInstanceId=212f7a82-8e2a-43d7-9556-3c05e96c5c97"></script>
 
 
 
-<div id="overlay" style="display: none;"></div><div id="modal" style="width: 80%; max-width: 700px; display: none;"><div id="content"></div><a id="close" href="#" style="border:none;"><img src="/order/i/close.png" style="margin-top: 10px;" alt="X"></a></div></body></html>
+</body></html>
