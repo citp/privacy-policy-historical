@@ -1,34 +1,8 @@
-> *The following text is extracted and transformed from the humanrightscareers.com privacy policy that was archived on 2017-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170723181308id_/http%3A//www.humanrightscareers.com/impressum-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanrightscareers.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109063634id_/https%3A//www.humanrightscareers.com/impressum-privacy-policy) for the most accurate reproduction.*
 
-# Legal Notice / Privacy Policy – Human Rights Careers
+# Privacy Policy – Human Rights Careers
 
-**Information in accordance with section 5 TMG**
-
-Robert, Fellner  
-Breitenfeldergasse 6-8/1/23  
-1080 Wien
-
-Contact  
-Telephone: 00436763362074  
-E-Mail: admin@humanrightscareers.com  
-Internetadresse: www.humanrightscareers.com  
-Person responsible for content in accordance with 55 Abs. 2 RStV
-
-Robert Fellner  
-Disclaimer
-
-**Accountability for content**  
-The contents of our pages have been created with the utmost care. However, we cannot guarantee the contents’ accuracy, completeness or topicality. According to statutory provisions, we are furthermore responsible for our own content on these web pages. In this context, please note that we are accordingly not obliged to monitor merely the transmitted or saved information of third parties, or investigate circumstances pointing to illegal activity. Our obligations to remove or block the use of information under generally applicable laws remain unaffected by this as per §§ 8 to 10 of the Telemedia Act (TMG).
-
-**Accountability for links**  
-Responsibility for the content of external links (to web pages of third parties) lies solely with the operators of the linked pages. No violations were evident to us at the time of linking. Should any legal infringement become known to us, we will remove the respective link immediately.
-
-**Copyright**  
-Our web pages and their contents are subject to German copyright law. Unless expressly permitted by law (§ 44a et seq. of the copyright law), every form of utilizing, reproducing or processing works subject to copyright protection on our web pages requires the prior consent of the respective owner of the rights. Individual reproductions of a work are allowed only for private use, so must not serve either directly or indirectly for earnings. Unauthorized utilization of copyrighted works is punishable (§ 106 of the copyright law).
-
-Quelle: twiggs translations
-
-Last updated: February 21, 2016
+Last updated: May 23, 2018
 
 Human Rights Careers (“us”, “we”, or “our”) operates the www.humanrightscareers.com website (the “Service”).
 
@@ -36,7 +10,7 @@ This page informs you of our policies regarding the collection, use and disclosu
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at www.humanrightscareers.com
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.
 
 **Information Collection And Use**
 
@@ -44,9 +18,9 @@ While using our Service, we may ask you to provide us with certain personally id
 
 **Log Data**
 
-We may also collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+We may also collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics. None of this data will specifically identify the User.
 
-In addition, we may use third-party services, such as Stetic , that collect, monitor and analyze this type of information in order to increase our Service’s functionality.
+In addition, we may use third-party services, such as Google Analytics, that collect, monitor and analyze this type of information in order to increase our Service’s functionality. We automatically delete user-level and event-level data stored by Google Analytics after 14 months.
 
 These third-parties may use cookies to help us analyze how our users are using the Service and they have their own Privacy Policies addressing how they use such information.
 
@@ -56,7 +30,7 @@ Cookies are files with small amount of data, which may include an anonymous uniq
 
 We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer to help the website analyse how visitors use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+Our website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer to help the website analyse how visitors use the site. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
 **Advertisements**
 
@@ -64,11 +38,21 @@ The Service may have advertisements that are served by third-party service provi
 
 These third-parties may also collect information regarding the performance of the advertisements they provide, such as how many times an advertisement is shown, the number of click-throughs of an advertisement, and so on.
 
-You can opt-out of interest-based advertisements served by these third-parties by following the instructions below. When you opt-out, you’ll still see advertisements, but they may be less relevant because they aren’t based on your interests.
+Based on our Ad settings, Google will show only non-personalized ads to your users in the EEA. Additionally you can manually opt-out of interest-based advertisements served by these third-parties by following the instructions below. When you opt-out, you’ll still see advertisements, but they may be less relevant because they aren’t based on your interests.
 
-  * Google and the DoubleClick CookieGoogle, as a third-party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick Cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.You may opt-out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: http://www.google.com/ads/preferences/
+  * Google and the DoubleClick Cookie: Google, as a third-party vendor, uses cookies to serve ads on our Service.
+  * Google’s use of the DoubleClick Cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
+  * You may opt-out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>
 
 
+
+Human Rights Careers is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+
+The owner of Human Rights Careers may receive compensation for recommendations made in reference to the products or services on this website.
+
+This compensation may be in the form of money, services or complimentary products and could exist without any action from a website visitor. Should you purchase a product or service that was shared or promoted by Human Rights Careers, it is understood that some form of compensation might be made to the Human Rights Careers owner. [For example, if you click on an affiliate link at Human Rights Careers and then make a purchase of the recommended product or service the owner may receive compensation.](https://www.humanrightscareers.com/affiliate-disclosure/ "Affiliate disclosure")
+
+This Compensation Disclosure has been provided for your protection and to fully disclose any relationship between Human Rights Careers product or service recommendations and the owners of those product or services.
 
 **Service Providers**
 
@@ -78,17 +62,17 @@ These third parties have access to your Personal Information only to perform the
 
 **Communications**
 
-We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+We may use your email to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you after you manually signed up and confirmed that you would like to receive our newsletters. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link in any email we send. For our newsletter we only store the minimum required information, your email address, and not your name or any other personal information.
 
 **Security**
 
-The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect any information shared on this website, we cannot guarantee its absolute security. Our website is fully encrypted with a valid SSL Certificate, making it difficult for unauthorized people to view content traveling between this website and its users.
 
 **International Transfer**
 
-Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+Information collected through the website may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
-If you are located outside Austria and choose to provide information to us, please note that we transfer the information, including Personal Information, to Austria and process it there.
+If you are located outside Germany and choose to provide information to us, please note that we transfer the information, including Personal Information, to Germany and process it there.
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
@@ -98,12 +82,6 @@ Our Service may contain links to other sites that are not operated by us. If you
 
 We have no control over, and assume no responsibility for the content, privacy policies or practices of any third-party sites or services.
 
-**Children’s Privacy**
-
-Our Service does not address anyone under the age of 13 (“Children”).
-
-We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
-
 **Changes To This Privacy Policy**
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
@@ -112,4 +90,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-If you have any questions about this Privacy Policy, please contact us.
+If you have any questions about this Privacy Policy, [please contact us](https://www.humanrightscareers.com/contact/).
