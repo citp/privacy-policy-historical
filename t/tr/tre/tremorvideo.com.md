@@ -1,242 +1,170 @@
-> *The following text is extracted and transformed from the tremorvideo.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628115836id_/https%3A//telaria.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tremorvideo.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109101541id_/http%3A//www.tremorvideodsp.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Telaria
+# Privacy Policy
 
-###### Last updated: May 25, 2018
+Introduction
 
-#### **This privacy policy describes how Telaria, Inc. and its affiliates (Telaria, we, us, or our) collects, uses, and shares information through both its video advertising services, including our video management platform, as well as the Telaria website, Telaria.com, and other Telaria digital properties and products that link to this privacy policy (Telaria Site or Site).**
+This privacy policy describes the types of information that Tremor Video DSP, Inc., a Taptica Company, (“we” or “Tremor Video DSP”), collects on our corporate website and through our video advertising services. It also describes how that information is used and the choices we offer to users, or you, about the collection and use of such information.
 
-  1. ### **Telaria** **Video management platform**
+### PRIVACY POLICY FOR TREMOR VIDEO DSP SERVICES
 
+### Effective Date: June 22, 2018
 
+What does Tremor Video DSP do?
 
+Tremor Video DSP, Inc., a Taptica Company, is an online video advertising software company. Tremor Video DSP’s advertiser customers engage us to display their video ads in streaming content that is featured on websites and applications across the Internet, including content that is viewable on mobile devices, tablets and TVs. Sellers of advertisements utilize our solutions to improve their yield and maximize the value of their video advertising inventory.
 
-Telaria operates a self-service software platform that helps our publisher clients (i.e., content owners or other sellers of video advertising inventory, including websites and apps) analyze, manage and monetize their video advertising inventory on internet connected devices and platforms, including mobile devices, computers and connected TVs. This section of our privacy policy explains how our platform collects, receives, uses, and shares information in providing services to our clients.
+How does Tremor Video DSP’s software select the video ads that I see?
 
-##### **Information we** **collect** **or receive**
+Tremor Video DSP’s proprietary ad serving software displays video ads, typically immediately before or during the streaming of featured content on a website or application. The video ad is provided to Tremor Video DSP by an advertiser, and the featured advertising content is shown on the websites and applications of a content provider.
 
-We work with publishers as instructed by them to analyze, manage and monetize their video advertising inventory.  This video advertising inventory is made available to advertisers, agencies and other media buying platforms, which we collectively refer to as advertisers.  When an advertiser successfully purchases and serves an advertisement to a publisher’s advertising inventory, the video advertisement will be displayed to you in connection with the content that you view.
+Our advertisers may specify where, when, and in what context they want their video ads to be displayed. These specifications are sometimes called targeting parameters.
 
-In order to do this, we receive certain information from the websites and apps where videos are displayed, pass that information to advertisers, and vice-versa. The information we receive may include IP address, location-related data, mobile application data, the web page URL or app in which an individual is viewing a video, video player size, the video title, description, or category being displayed, the date and time of video display, browser or device type, a cookie or device identifier, and other data which the publisher chooses to provide to us.
+Tremor Video DSP uses its proprietary ad serving software to target, select and deliver ads according to the advertisers’ specifications. In order to optimize the delivery of a video ad, Tremor Video DSP’s software collects and analyzes information provided by the website or application publisher, information collected from a website or application user’s computer or device, and information provided by the advertiser, among other sources, which, in turn, is automatically recorded (logged) by the Tremor Video DSP servers. Examples of the types of information we may collect and store in the server logs include: browser type and language, operating system, Internet Protocol address (for example, to identify a user’s general location), page URL and referral URL (the URL that led you to the page featuring our software), website content (e.g., pictures or ads on the website), video player size, video content (such as video title, description, category), how a user interacts with a video (such as how often they start or stop a video), date and time of request, internet service provider, advertising cookies stored on a user’s device. Our advertising partners may also provide us with audience segment data, which is a non-identifiable list of users that our advertising partners believe to be interested in a certain topic or product or are within demographic categories the advertiser would like to reach. When selecting, targeting and delivering ads, Tremor Video DSP does not actively collect, and does not use or store information such as names, email addresses, or contact information that can be used to readily identify an individual. 
 
-We may also receive information from third parties at the instruction or for the benefit of our clients, in particular data management platforms and services (either through a publisher or through a relationship that we have directly established) that provide user demographics and information with respect to a users’ preferences, patterns, click and video interactions, behaviors or interests, as well as advertisers and advertising platforms that provide information to us in order to match an ad opportunity offered by our clients with the right advertisement.
+Tremor Video DSP’s ad serving software may use cookies, web beacons, and other similar technologies to select, target, and measure the effectiveness of the advertisements we serve. We use these technologies to help determine what ads to present so that they may best relate to the possible preferences and interests of users based on information collected across multiple websites that they visit. We call this practice of collecting data about a user’s online activities to deliver advertising targeted to a user’s likely interests “interest-based advertising.”
 
-Once we deliver that advertisement, we may receive information about how you interact with that advertisement, such as how long you view it and whether you click through to visit the advertiser.
+A “cookie” is generally a small text file that is sent to a user’s computer. Cookies are commonly assigned by online services, such as websites or ad technologies, to recognize a computer or device that they have encountered before. A cookie is associated with a specific site domain, a specific computer, and a specific Internet browser program. Our advertising cookies are not used to gather the user’s name, street address, e-mail address, or telephone number(s).
 
-##### **How Telaria uses information**
+A “web beacon” is a small piece of code placed on web pages that can be used, among other things, to count the users who visit the web page, or to deliver a cookie to the browser of a user viewing that page.
 
-We and our service providers use information for legitimate business purposes including:
+How does Tremor Video DSP deliver ads to mobile applications?
 
-  * Providing the functionality of our video management platform and fulfilling requests 
-    * Providing the functionality of our video management platform, in particular matching video advertising inventory with the right advertisement, providing reporting regarding auctions and other transactions, cookie syncing, and frequency capping.
-    * Measuring the success of an advertisement.
-    * Video ad serving, including hosting an advertisement.
+In the case of advertisements targeted, selected, and delivered to mobile applications, for example, apps on a smartphone, the Tremor Video DSP software collects information provided by the user’s mobile device, including certain unique mobile operating system advertising IDs, such as Apple’s Identifier for Advertising ID (IDFA) or Google’s Android Advertising ID (AAID) to target, select, and deliver advertisements. Other examples of information we may collect to target, select and deliver advertisements may be the type of the mobile device, the device’s IP address, what apps installed on the device are using the Tremor Video DSP services, how the app user interacts with videos within an app using the Tremor Video DSP services, and the location of a mobile device if a user enables collection of location data for the app using Tremor Video DSP services through the available features on that mobile device. 
 
+How does Tremor Video DSP recognize a user across multiple devices? 
 
+Tremor Video DSP’s software may, in some cases, be able to infer within a reasonable probability that a particular computer or device may be correlated with the same Tremor Video DSP identifier (e.g., cookie, advertising IDs, IP address) that we have previously associated to another computer or device. In such cases, Tremor Video DSP’s software may be able to infer that a device (e.g _._ a computer) and another device (e.g. a smartphone) are used by the same user. Where such an inference can be made, we may use this information to target, select and deliver ads across multiple computers and devices. This is sometimes referred to as cross-device advertising.
 
-We will engage in these activities with your consent or where we have a legitimate interest.
+What are examples of ad choices Tremor Video DSP offers to users?
 
-  * Business reporting 
-    * To analyze or predict service use and prepare aggregated trend reports to support internal business operations and enhance buying opportunities of digital content.
-    * For trending and statistics, and to develop, market and/or improve our products and services.
+  * Opt out of Tremor Video DSP’s cookie used for interest-based advertising by clicking on the “[Opt Out](https://web.archive.org/web/20181109101541id_/http%3A//www.tremorvideodsp.com/privacy-policy.html)” button at the top of this page. Your web browser will need to accept cookies for the opt-out to be effective.
+  * Follow the opt out link in the AdChoices Icon featured on the advertisements served by Tremor Video DSP.
+  * Opt out of cookies used for interest-based advertising by a number of online advertising companies at the [Digital Advertising Alliance Consumer Opt-Out Page for Online Behavioral Advertising](https://www.aboutads.info/choices/).
+  * Manage the settings on your smartphone. Find out how you may opt of mobile application interest - based advertising at the [Mobile App Opt - Out Guide](https://web.archive.org/web/20181109101541id_/http%3A//www.tremorvideodsp.com/mobile-app-opt-out-guide.html) for more information. Please be aware that your smartphone may not offer the same features.
+  * Set your browser to reject cookies, and remove the cookies that have already been placed. Find out how at [All About Cookies](https://www.allaboutcookies.org/) for more information.
 
 
 
-We will engage in these activities where we have a legitimate interest.
+Four things to know about opting out:
 
-  * Aggregating and/or anonymizing 
-    * We may aggregate and/or anonymize information so that it will no longer relate to an identified or identifiable individual. We do so to generate other data for our use, which we may use and disclose for any purpose.
+  * You will still see video ads from Tremor Video DSP after you opt out. However, the ads that you see will be less relevant to you.
+  * You will need to opt out separately for each browser and each device. There is not a single opt out that governs all your browsers and devices.
+  * If you change your browser or device, you will need to opt out again for each new browser and device. The new browser and device does not inherit your prior settings.
+  * If you delete the opt out cookie from your browser, you will need to opt out again from that browser.
 
 
 
-We will engage in these activities where we have a legitimate interest.
+Do the Tremor Video DSP services respond to browser Do-Not-Track signals?
 
-  * Accomplishing our business purposes 
-    * For audits, to verify that our internal processes function as intended and are compliant with legal, regulatory or contractual requirements.
-    * For fraud and security monitoring purposes, for example, to detect and prevent cyberattacks or attempts to commit identity theft.
-    * To prepare or execute a business transaction, such as a corporate restructuring, merger or acquisition.
-    * To protect our rights and to defend against lawsuits.
-    * To respond to legal duties, such as requests from public and government authorities.
+Our services do not respond to browser Do Not Track signals. To opt out of Tremor Video DSP’s cookie used for interest-based advertising by clicking on the “[Opt Out](https://web.archive.org/web/20181109101541id_/http%3A//www.tremorvideodsp.com/privacy-policy.html)” button at the top of this page. For more information about Do Not Track signals, please visit www.allaboutdnt.com.
 
+How do we use third-party service providers?
 
+Tremor Video DSP and its advertisers may use third-party ad service providers to help deliver advertisements. These ad service providers use cookies, web beacons, or other technologies to select, target, deliver, and measure the effectiveness of advertisements, including when determining what ads to present so that they may best relate to the possible preferences and interests of users. Tremor Video DSP may use data that ad service providers collect in the delivery of interest-based advertisements.
 
-We engage in these activities to comply with a legal obligation or because we have a legitimate interest.
+Tremor Video DSP may share non-personally identifiable information about users gathered by means of cookies, web beacons, or other technologies, including anonymous identifiers used in connection with mobile applications, with certain ad service providers so that they can help Tremor Video DSP deliver more relevant advertisements, including for cross - device advertising. The use of cookies, web beacons, or other technologies by other ad service providers is subject to their respective privacy policies, and not by the privacy policy of Tremor Video DSP. You can find out more about ad service providers and the choices you have about their technologies by clicking on the links at the bottom of this privacy policy. Similarly, the publishers (such as websites and mobile applications) to which we deliver an ad are subject to their own privacy policies and not the privacy policy of Tremor Video DSP.
 
-##### **How Telaria shares information it collects through its video management platform**
+Is information transferred to Tremor Video DSP and affiliates?
 
-We disclose information:
+Tremor Video DSP may transfer or assign the information it collects in connection with its business to any successor-in-interest to Tremor Video DSP (such as a company that acquires Tremor Video DSP), or internally to one or more affiliates (such as a corporate subsidiary, an affiliate company, or parent). Tremor Video DSP may also disclose information if it determines that an applicable law, regulation, or legal process requires it, or if Tremor Video DSP determines that it needs to share such information to protect or enforce Tremor Video DSP’s rights or the rights of our customers or another user.
 
-  * To our affiliates for the purposes described in this privacy policy. You can consult the list and location of our affiliates [here](https://telaria.com/affiliates/).
-  * To our publisher clients, advertisers, advertising platforms, and technological intermediaries in the digital advertising space in the context of providing our video management platform.
-  * To our third-party service providers. Who provide services such as website hosting, data analysis, information technology and related infrastructure provision, customer service, auditing and other similar services.
-  * To business partners in the context of a corporate transaction.
-  * To public authorities, such as law enforcement agencies.
+Security
 
+We have taken steps to help protect the information we collect through Tremor Video DSP’s advertising services from loss, misuse, unauthorized access, disclosure, alteration, and destruction. We take measures to protect information we share with third parties. However, no data security measures can guarantee security.
 
+### PRIVACY POLICY FOR THE TREMOR VIDEO DSP CORPORATE WEBSITE 
 
-##### **Children**
+### Effective Date: June 22, 2018
 
-The Telaria video management platform is directed to, and intended for use by, adults only. We do not knowingly direct our activities to children under the age of sixteen.
+[www.tremorvideodsp.com](http://tremorvideodsp.com/index.html) is the corporate website of Tremor Video DSP, Inc., a Taptica Company. This website (the “Tremor Video DSP Site” or “Site”) provides users, typically current and prospective customers, partners, and job seekers, with information about our products and services, and gives users the opportunity to contact us for further information.
 
-##### **Advertising** **technologies and other information**
+This privacy policy describes the types of information that Tremor Video DSP collects on the Site and how that information is used. Tremor Video DSP reserves the right to revise this privacy policy from time to time by posting the changes on the Site. Your continued use of the Site constitutes your acceptance of the current posted privacy policy. If you have questions about this privacy policy, please email us at [privacy@tremorvideodsp.com](mailto:PRIVACY@TREMORVIDEODSP.COM). To learn about how we use information collected through the Tremor Video DSP services or to opt-out of the delivery of interest-based advertising delivered through the Tremor Video DSP services, please see the Privacy Policy for Tremor Video DSP Services below.
 
-In order to perform the video management platform, Telaria uses cookies, device identifiers, and other similar technologies. A cookie is a small piece of text data that is stored by your browser. Cookies are commonly assigned by online services, such as websites or ad technologies, to recognize a computer or device that they have encountered before. A device identifier is an alphanumeric identifier generated by the operating system for use in advertising purposes, and it functions in a manner similar to cookies in web browsers. Other technologies that relate to cookies include pixel tags, which are small blocks of code that allow websites to read and place cookies. We may use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time.
+What information does the Tremor Video DSP Site collect?
 
-In relation to our video management platform, Telaria may use cookies for the benefit of its publisher clients and advertisers in order for them to match an ad opportunity with the right advertisement. To do so, Telaria performs a cookie syncing between the client’s cookies, a cookie Telaria uses for its client’s benefit and the advertiser’s cookies. Telaria also uses a cookie for frequency capping, i.e., to ensure that the same user is not served the same advertisement repeatedly.
+_Personally  identifiable information_  
+Personally identifiable information is information that identifies a user as a specific individual, such as a name, email address, mailing address, or phone number, or data that you provide that Tremor Video DSP can reasonably link to other information that you provide in order to personally identify you.
 
-As your primary touchpoint, publishers (i.e., the website or application on which you are viewing content) should generally provide mechanisms to ensure, where applicable, that you consent to the cookies and similar technologies set out above. In addition, there are various ways in which you may signal your choices regarding such cookies and similar technologies, including as follows:
+The Tremor Video DSP Site collects personally identifiable information about users only if a user voluntarily provides that information to the Site. Personally identifiable information is collected on the Tremor Video DSP Site in various instances including, without limitation:
 
-  * **Industry Choice Programs** **–** Telaria supports industry self-regulatory programs for the digital advertising industry, such as the Digital Advertising Alliance (DAA). To learn more about the DAA and its Self-Regulatory Principles you can visit <http://youradchoices.com/>.
-  * **Location** – You may be able to limit our collection and use of precise location data by using your mobile device’s location services settings. These settings may vary from device to device.
-  * **Advertising Identifiers –** You may also be able to use the settings offered by your mobile or other Internet connected device to limit the collection of data from that device for advertising purposes. To use those settings, you should check your device’s settings menu. Note that if you use those choice settings, some data may still be collected from your device for various other purposes, and you may still see advertising on that device based on other factors. For more information regarding device settings, you can visit our device opt-out guide [here](https://telaria.com/device-opt-out-guide/).
-  * **Browser settings** – In addition to the options provided above, you may be able refuse or accept cookies by activating the settings on your browser. Information about the procedure to follow in order to enable or disable cookies can be found on your Internet browser provider’s website via your help screen. Please refer to <http://www.allaboutcookies.org/manage-cookies/index.html> for information on commonly used browsers. Please be aware that if cookies are disabled, not all relevant features may operate as intended.
-  * **Software** – If you want to clear all cookies left behind by the websites you have visited, here are links where you can download programs that clean out tracking cookies:
-  * <http://www.lavasoftusa.com/products/ad-aware_se_personal.php>
-  * <http://www.spybot.info/en/download/index.html>
-  * <http://www.webroot.com/consumer/products/spysweeper/>
+  * _Information requests._ A Site user, typically a current or prospective customer, partner, or job seeker, submits an inquiry to the Site using the “Contact Us”, “Request a Demo” and “sign me up” functions, and provides his or her name, address, email address, and/or telephone number so that Tremor Video DSP is able to respond.
+  * _Comment on  news, blog, or other posting._A user posts a comment in the blog or news section of the Site, and submits his or her name and email address with the post.
+  * _Subscribe to email newsletter._ To subscribe to the Tremor Video DSP email newsletter, a user provides his or her name, email address, and other contact information. Each newsletter will provide the user with the option of unsubscribing from future newsletters.
+  * _Subscription feed._ A user subscribes to the Site’s subscription function by providing his or her email address.
+  * _Access to Tremor Video DSP web-based client interface_. A current Tremor Video DSP client accesses the client/customer-only areas of the Site by submitting his or her username and password.
+  * _Request for feedback._ From time to time, the Tremor Video DSP Site may ask users for voluntary feedback that will help us improve the Site. In connection with such feedback, a user may choose to provide optional name and contact information.
+  * _Promotions, sweepstakes, or contests.  _From time to time, Tremor Video DSP may sponsor or co-sponsor promotions, sweepstakes or contests, in response to which a user may provide information, such as his or her name, email address, or other contact information, and/or to answer certain questions on an entry form.
 
 
-  2. ### **Telaria Corporate** **Websites**
 
+_Non-personally identifiable information_
 
+Non-personally identifiable information includes demographic information (such as age, gender, city, or state) and a user’s clickstream information. The Tremor Video DSP Site collects information about users and stores it in log files. This information includes non-personally identifiable information that your browser automatically sends whenever you visit this Site, including information about your web request, your browser type, browser language, date, and time of the request.
 
+How does Tremor Video DSP use information collected by the Tremor Video DSP Site?
 
-[www.telaria.com](http://www.telaria.com/), and other digital Telaria properties that link to this privacy policy, are the corporate websites of Telaria. The websites (the Telaria Site or Site) provide current and prospective customers, partners, job seekers, and other visitors with information about our products and services, and give users the opportunity to contact us for further information. In addition, if you are a representative of a Telaria client, we may collect information about you in relation to or in the context of your use of our digital properties and products, including when you operate our video management platform. This section of the privacy policy describes the types of information that Telaria collects on the Site and how that information is used. Telaria reserves the right to revise this privacy policy from time to time by posting the changes on the Site. Your continued use of the Site constitutes your acceptance of the current posted privacy policy.
+_Personally  identifiable information_  
+Tremor Video DSP uses the personally identifiable information you provide:
 
-##### **What information does the Telaria Site collect?**
+  * To respond to your inquiries and requests, and to keep accurate records concerning the services you are requesting through the Tremor Video DSP Site.
+  * For marketing the Tremor Video DSP services. For example, we may use information we collect from you on the Site, such as your email address, to send you news and newsletters, special offers, and promotions, or to otherwise contact you about our products or information we think may interest you. We also may use the information that we learn about you to assist us in advertising the Tremor Video DSP services to our potential customers on third party websites.
+  * To comply with legal obligations, as part of our general business operations, and for other business administration purposes.
+  * Where we believe necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person or violations of our privacy policy.
 
-Information actively provided. This information includes name, email address, mailing address, or phone number. This is information visitors or users voluntarily provide to the Site. This information is collected on the Telaria Site in various instances including:
 
-  * **Information requests.** A Site user, typically a current or prospective customer, partner, or job seeker, submits an inquiry to the Site such as using the Contact Us, Request a Demo and Sign Me Up functions, and provides his or her name, address, email address, and/or telephone number so that Telaria is able to respond.
-  * **Comment on news, blog, or other posting.** A user posts a comment in the blog or news section of the Site, and submits his or her name and email address with the post.
-  * **Subscribe to email newsletter.** To subscribe to the Telaria email newsletter, a user may provide his or her name, email address, and other contact information. Newsletters will generally provide the user with the option of unsubscribing from future newsletters.
-  * **Subscription feed.** A user subscribes to the Site’s subscription function by providing his or her email address.
-  * **Access to Telaria’s web-based client interface.** A current Telaria client accesses the client/customer-only areas of the Site by submitting his or her username and password.
-  * **Request for feedback.** From time to time, the Telaria Site may ask users for voluntary feedback that will help us improve the Site. In connection with such feedback, a user may choose to provide optional name and contact information.
-  * **Promotions, sweepstakes, or contests.** From time to time, Telaria may sponsor or co-sponsor promotions, sweepstakes or contests, in response to which a user may provide information, such as his or her name, email address, or other contact information, and/or to answer certain questions on an entry form.
 
+_Non-personally identifiable information_  
+Tremor Video DSP generally uses non-personally identifiable information in aggregated form to help measure the Tremor Video DSP Site’s performance and effectiveness, and to improve its features and usefulness.
 
+With whom does Tremor Video DSP share personally identifiable information collected on the Tremor Video DSP Site?
 
-**Usage information**. Usage information includes demographic information (such as age, gender, city, or state) and a user’s clickstream information, such as where the user clicks on the Site, and in which order. The Telaria Site collects information about users and stores it in log files. This information includes usage information that your browser automatically sends whenever you visit the Site, including information about your web request, your IP address, your browser type, browser language, date, and time of the request.
+Tremor Video DSP does not share the personally identifiable information that you provide to the Tremor Video DSP Site, other than with its service providers that help Tremor Video DSP provide the services that you request, such as delivery of our email newsletters, and to help Tremor Video DSP manage information provided by job seekers for possible employment with us.
 
-##### **How does Telaria use information collected by the Telaria Site?**
+Tremor Video DSP may transfer or assign the information it collects on the Site to any successor-in-interest to Tremor Video DSP (such as a company that acquires Tremor Video DSP), or internally to one or more affiliates (such as a corporate subsidiary, affiliate company, or parent). Tremor Video DSP may also disclose personally identifiable information about a user if it determines that an applicable law, regulation or legal process requires it, or if Tremor Video DSP determines that it needs to share such information to protect or enforce Tremor Video DSP’s rights or the rights of another user.
 
-  * Providing the functionality of the Site and fulfilling your requests. 
-    * To provide the Site’s functionality to you, such as arranging access to your account, and providing you with related customer service.
-    * To respond to your inquiries and fulfill your requests, when you contact us via one of our online contact forms or otherwise, for example, when you send us questions, suggestions, compliments or complaints, or when you request a quote for or other information about our Site.
-    * To complete your transactions, and provide you with related customer service.
-    * To send administrative information to you, such as changes to our terms, conditions and policies.
+Does the Tremor Video DSP Site use cookies?
 
+We and our service providers use cookies and other tracking mechanisms to track information about your use of our Services. We or our service providers may combine this information with other personal information we collect from you.
 
+Cookies. We or our service providers may use cookies to track visitor activity on our Site. A cookie is a text file that a website transfers to your computer’s hard drive for record-keeping purposes. We or our service providers may use cookies to track user activities on our Site, such as the pages visited and time spent on our Site. Most browsers allow users to refuse cookies. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Visitors to our Site who disable cookies may not be able to browse certain areas of the Site.
 
-We will engage in these activities to manage our contractual relationship with you and/or to comply with a legal obligation.
+Clear GIFs, pixel tags and other technologies. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, which are embedded invisibly on web pages. We or our service providers may use clear GIFs (also known as web beacons, web bugs or pixel tags), in connection with our Site to track the activities of users of our Site, help us manage content, and compile statistics about usage of our Site. We or our service providers may also use clear GIFs in emails to our users to help us track email response rates, identify when our emails are viewed, and track whether our emails are forwarded.
 
-  * Providing you with our newsletter and/or other marketing materials and facilitating social sharing 
-    * To send you marketing related emails, with information about our services, new products and other news about our company.
-    * To facilitate social sharing functionality that you choose to use.
+Do-Not-Track. Our Site does not respond to Do Not Track signals. To opt out of Tremor Video DSP’s cookie used for interest-based advertising by clicking on the “Opt Out” button at the top of this page. For more information about Do Not Track signals, please visit [www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
+What else should I know about privacy?
 
+_Security_
 
-We will engage in this activity with your consent or where we have a legitimate interest.
+Tremor Video DSP maintains safeguards to protect the security, integrity and privacy of the personally identifiable information within our reasonable control.  However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to protect your information, please be advised that Tremor Video DSP assumes no responsibility or liability for disclosure of your information due to errors in transmission, unauthorized third-party access, or other causes beyond Tremor Video DSP’s reasonable control.
 
-  * Allowing you to participate in sweepstakes, contests or other promotions. 
-    * We may offer you the opportunity to participate in a sweepstakes, contest or other promotion. Some of these promotions have additional rules containing information about how we will use and disclose your information.
+_Links to  other websites_
 
+Tremor Video DSP does not control the data collection policies of any third party website linked to the Tremor Video DSP Site. If you click on a link or an advertisement, the privacy policy of the website to which you link will govern the collection and use of your information by that website’s operators. Tremor Video DSP assumes no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise.
 
+_Collection of  information from minors_
 
-We use this information to manage our contractual relationship with you or where we have a legitimate interest.
+The Tremor Video DSP Site is directed to, and intended for use by, adults only. We do not knowingly collect personally identifiable information from children under the age of thirteen. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen, we will delete such information from our records.
 
-  * Business reporting 
-    * To analyze or predict service use and prepare aggregated trend reports on how our digital content is used.
-    * To better understand you, so that we can personalize our interactions with you and provide you with information and/or offers tailored to your interests.
-    * For trending and statistics, and to develop, market or improve our products and services.
+ACCEPTANCE OF PRIVACY POLICY FOR THE TREMOR VIDEO DSP SITE
 
+When you use the Tremor Video DSP Site, you are accepting the terms and conditions of this privacy policy, and Tremor Video DSP will have the right to use your information as described in this privacy policy. If you do not agree to have your information used in any of the ways described in this privacy policy, you must discontinue use of the Tremor Video DSP Site.
 
+We collect information about your activities on certain websites to send you targeted ads. To opt out of targeted advertisements delivered through the Tremor Video DSP services, [click here](http://tremorvideodsp.com/privacy-policy.html).
 
-We will engage in this activity where we have a legitimate interest.
+ABOUT THIS PRIVACY POLICY
 
-  * Aggregating and/or anonymizing 
-    * We may aggregate and/or anonymize information so that it will no longer relate to an identified or identifiable individual. We do so to generate other data for our use, which we may use and disclose for any purpose.
+Tremor Video DSP, Inc., a Taptica Company, reserves the right to revise this privacy policy from time to time. We will post any changes, including any material changes, to this privacy policy on our Site. If you have questions or concerns about this privacy policy, please email us at privacy@tremorvideodsp.com or write to us at Tremor Video DSP, Inc., a Taptica Company, Attention: Privacy, 1501 Broadway, New York, NY 10036.
 
+_US Self-regulatory program for online behavioral advertising_
 
+Tremor Video DSP, Inc., a Taptica Company, follows the Digital Advertising Alliance industry privacy standards for online behavioral advertising. To learn more about the program and its principles, [visit the Digital Advertising Alliance](https://www.aboutads.info/).
 
-We will engage in this activity where we have a legitimate interest.
+_Third-party ad service providers_
 
-  * Accomplishing our business purposes 
-    * For audits, to verify that our internal processes function as intended and are compliant with legal, regulatory or contractual requirements.
-    * For fraud and security monitoring purposes, for example, to detect and prevent cyberattacks or attempts to commit identity theft.
-    * To prepare or execute a business transaction, such as a corporate restructuring, merger or acquisition.
-    * To protect our rights and to defend against lawsuits.
-    * To respond to legal duties, such as requests from public and government authorities.
+The following third-party ad service providers may use cookies, web beacons, and other technologies in connection with advertisements delivered by Tremor Video DSP. Click on the links below to find out more about their practices and the choices they provide to you:
 
+[Digital Advertising Alliance Participants  ](https://digitaladvertisingalliance.org/participating) 
 
-
-We engage in these activities to comply with a legal obligation, and/or because we have a legitimate interest.
-
-##### **With whom does Telaria share information collected on the Telaria Site?**
-
-We disclose information:
-
-  * To our affiliates for the purposes described in this privacy policy. You can consult the list and location of our affiliates [here](https://telaria.com/affiliates/).
-  * To our third party service providers, to facilitate services they provide to us. These can include providers of services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, auditing, and other services.
-  * To our clients, advertisers, advertising platforms, and intermediaries in the digital advertising environment.
-  * To business partners in the context of a corporate transaction.
-  * To public authorities, such as law enforcement agencies.
-
-
-
-##### **Security**
-
-Telaria maintains safeguards designed to help protect the security, integrity and privacy of the information within our reasonable control.
-
-##### **Links to other websites**
-
-Telaria does not control the data collection policies of any third party website linked to the Telaria Site. If you click on a link or an advertisement, the privacy policy of the website to which you link will govern the collection and use of your information by that website’s operators. Telaria assumes no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise.
-
-##### **Cookies and similar technology**
-
-We and our partners may use cookies or other similar technology to better understand who visits the Site and to operate the Site. In particular, we use the following cookies and similar technologies for the following purposes:
-
-  * **Site** **analysis** – We use analytics services, such as Google Analytics to analyze traffic on the Site. For more information about how Google Analytics collects and uses data when you use our website, visit [here](https://policies.google.com/privacy/partners), and to opt out of Google Analytics, visit [here](https://tools.google.com/dlpage/gaoptout/).
-  * **Digital** **advertising** – We may partner with certain third parties that collect information from the Site, as well as other non-affiliated websites and mobile apps, over time in order to deliver more relevant advertising to your browser or device, as well as on various devices that may be associated with it. This activity is called interest-based advertising.
-
-
-
-For more information about interest-based advertising, and to exercise choice regarding companies that participate in the Digital Advertising Alliance’s (DAA) WebChoices, please visit [here](http://optout.aboutads.info/). After you exercise choice, you will still receive advertising but it may be less relevant to you. Also, those third parties may continue to collect information for purposes other than interest-based advertising including analytics, frequency capping, and other operational purposes. If you use other devices or browsers, or clear your cookies, you may need to make your choices again.
-
-For more information on what cookies are and other ways to opt-out from them, please see further above in this privacy policy.
-
-##### **Collection of information from minors**
-
-The Telaria Site is directed to, and intended for use by, adults only. We do not knowingly direct our activities to children under the age of sixteen.
-
-##### **Your Choices**
-
-You may opt out from receiving electronic communications from us: If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt out of marketing- related emails [here](http://go.telaria.com/unsubscribe).  We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt out.
-
-  3. ### **Miscellaneous**
-
-
-
-
-**Updates** – Telaria reserves the right to revise this privacy policy from time to time. The “last updated” legend at the top of this privacy policy indicates when this privacy policy was last revised.  Any changes will become effective when we post the revised privacy policy on the Site.
-
-**Personal information** – To the extent information that we collect, receive or use relates to an identified or identifiable individual in the European Economic Area (EEA), we will treat such information as personal information as required by applicable law.
-
-**Your rights** – If you would like to request to review, correct, update, suppress, restrict or delete personal information that you have previously provided to us, object to the processing of personal information, or if you would like to request to receive an electronic copy of your personal information for purposes of transmitting it to another company (to the extent this right to data portability is provided to you by applicable law), you may contact us by emailing [privacy@telaria.com](mailto:privacy@telaria.com).  Please note that in relation to our video management platform, your primary touchpoint is the publisher. As such, we recommend that you contact the publisher directly rather than us.
-
-If you are in the EEA, you may also, where applicable, lodge a complaint with a data protection authority for your country or region or where an alleged infringement of applicable data protection law occurs.  A list of data protection authorities is available [here](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080).
-
-**Transfers** – Your personal information may be stored and processed in any country where we have facilities or in which we engage service providers, including the United States, which may have data protection rules that are different from those of your country.  In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your personal information. Some of the non-EEA countries are recognized by the European Commission as providing an adequate level of data protection according to EEA standards (the full list of these countries is available [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en)). For transfers from the EEA to countries not considered adequate by the European Commission, we have agreed with relevant recipients to put in place adequate measures, such as standard contractual clauses adopted by the European Commission to protect your personal information. You may seek to obtain a copy of these measures by contacting [privacy@telaria.com](mailto:privacy@telaria.com).
-
-**Retention** – We retain information for as long as needed or permitted in light of the purpose(s) for which it was obtained and consistent with applicable law.
-
-The criteria used to determine our retention periods include:
-
-  * The length of time we have an ongoing relationship with you and provide the video management platform and services or Site.
-  * Whether there is a legal obligation to which we are subject (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them).
-  * Whether retention is advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation or regulatory investigations).
-
-
-
-**Contact Us** – If you have questions about this privacy policy, please email us at [privacy@telaria.com](mailto:privacy@telaria.com) or write to us at Telaria, Inc., Attention: Privacy, 222 Broadway, New York, NY 10038.
+[Network Advertising Initiative Members](https://www.networkadvertising.org/participating-networks)
