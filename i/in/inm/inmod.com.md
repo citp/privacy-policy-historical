@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inmod.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725173524id_/https%3A//www.inmod.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmod.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109160916id_/https%3A//www.inmod.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
