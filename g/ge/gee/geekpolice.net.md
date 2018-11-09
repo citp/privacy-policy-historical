@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the geekpolice.net privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508202105id_/http%3A//www.geekpolice.net/h31-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekpolice.net privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109092922id_/http%3A//geekpolice.forumotion.com/h31-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At GeekPolice ("us" or "we"), we strive to keep users' information as safe as possible, and we would appreciate that you review our privacy policy ("Privacy Policy") as indicated below. GeekPolice.net ("this website") collects information about you, your visits, and some of your habits here on this website. Please note our intentions for use of this information.
+Before reviewing the information below, please keep in mind that much of our background services, our server, and many of our content delivery networks are managed by Forumotion/Forumactif. Please read the EU privacy policy, which has details regarding our back servers, [here](http://www.geekpolice.net/privacy). 
+
+At GeekPolice ("us" or "we"), we strive to keep users' information as safe as possible, and we would appreciate that you review our privacy policy ("Privacy Policy") as indicated below. GeekPolice.net ("this website") collects information about you, your visits, and some of your habits here on this website. Please note our intentions for use of this information. The global non-EU privacy policy is below.
 
 BY ACCESSING THIS WEBSITE, YOU AGREE TO BE BOUND BY THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, IF YOU ARE UNDER 18 YEARS OF AGE, OR IF YOU ARE NOT PERMITTED BY LAW TO ENTER INTO LEGAL OBLIGATIONS, YOU SHOULD NOT USE THIS WEBSITE. WE MAY MODIFY THE POLICY FROM TIME TO TIME AND POST THOSE MODIFICATIONS HERE. EACH TIME YOU USE THIS WEBSITE, THE CURRENT VERSION OF THE PRIVACY POLICY WILL APPLY. ACCORDINGLY, WHEN YOU USE THIS WEBSITE, YOU SHOULD CHECK THE DATE OF THIS POLICY (WHICH APPEARS AT THE TOP) AND REVIEW ANY CHANGES SINCE THE LAST VERSION. YOUR CONTINUED USE OF THIS WEBSITE AFTER ANY SUCH MODIFICATION CONSTITUTES YOUR ACCEPTANCE OF THE MODIFIED PRIVACY POLICY.
 
