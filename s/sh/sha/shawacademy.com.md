@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shawacademy.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625195941id_/https%3A//www.shawacademy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawacademy.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109090455id_/https%3A//www.shawacademy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Shaw Academy
 
@@ -58,11 +58,11 @@ You may delete your Shaw Academy account by contacting Shaw Academy support [her
 
 ## Direct Marketing Material
 
-From time to time we or our selected partners may contact you with information regarding course promotions and ancillary products via email. However, you will be given the opportunity on every e-communication that we or our trusted partners send you to indicate that you no longer wish to receive our or their direct marketing material.
+From time to time we or our selected partners may contact you with information regarding course promotions and ancillary products via email or SMS. However, you will be given the opportunity on every e-communication that we or our trusted partners send you to indicate that you no longer wish to receive our or their direct marketing material.
 
 ## YOUR CHOICES
 
- **Email and Text Messages** : If you no longer want to receive certain communications from us via email or text message, simply access the "Preferences Center Settings" option in the "Account" section of our website and uncheck those items to unsubscribe. Alternatively, click the "unsubscribe" link in the email or reply STOP (or as otherwise instructed) to the text message. Please note that you cannot unsubscribe from service-related correspondence from us, such as messages relating to your student account transactions or course lesson reminders or information directly relating to your course progress.
+ **Email and Text Messages** : If you no longer want to receive certain communications from us via email or text message, simply click the "unsubscribe" link in the email or reply STOP (or as otherwise instructed) to the text message. Please note that you cannot unsubscribe from service-related correspondence from us, such as messages relating to your student account transactions or course lesson reminders or information directly relating to your course progress.
 
  **Push Notifications** : You can choose to receive mobile push notifications from Shaw Academy. If you subsequently decide you no longer wish to receive these notifications, you can use your mobile device's settings functionality to turn them off.
 
