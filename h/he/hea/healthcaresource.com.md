@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the healthcaresource.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627074155id_/http%3A//www.healthcaresource.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcaresource.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109174833id_/http%3A//healthcaresource.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | HealthcareSource
 
-**NOTE: FOR ALL LOGIN OR SUPPORT QUESTIONS, PLEASE CONTACT:  [support@healthcaresource.com](mailto:support@healthcaresource.com).**
+**NOTE: FOR ALL LOGIN OR SUPPORT QUESTIONS, PLEASE CONTACT:[support@healthcaresource.com](mailto:support@healthcaresource.com).**
 
-Please read this page carefully. The following HealthcareSource HR, Inc. (collectively referred to as “HealthcareSource” or “we,” “us,” “our” or other similar pronouns) privacy policy (“Privacy Policy”) sets forth our policies regarding the collection, use and disclosure of certain information relating to Your use of any web site under HealthcareSource’s control, whether partial or otherwise (including, without limitation, www.healthcaresource.com, http://payst.healthcaresource.com, jobs.healthcaresource.com, the web site from which this Privacy Policy was accessed, and websites available at URLs assigned to specific customers in connection with their use of HealthcareSource’s Position Manager, Performance Manager, NetLearning, HealthcareSource Recruitment Marketing, Assessment, Job Board, Lean Human Capital Services, or other products, services, or resources offered by us) (the “Site” or “Sites”) and Your use and receipt of any and all products, services and resources offered, enabled or provided to You via the Sites, including without limitation certain software-as-a-service online programs, online training courses, online communities, live webinars, communication tools designed to facilitate personal networking, job boards, resume databases, and products and services enabling employers to complete the recruitment and hiring process (the “Services”). This Privacy Policy is incorporated into, and is part of, the [HealthcareSource Terms of Service and Use](http://www.healthcaresource.com/terms-of-use.html) (“Terms and Conditions”), which governs Your use of the Sites and Services in general. Capitalized terms used but not defined in this Privacy Policy have the meanings assigned to them in the Terms and Conditions.
+Please read this page carefully. The following HealthcareSource HR, Inc. (collectively referred to as “HealthcareSource” or “we,” “us,” “our” or other similar pronouns) privacy policy (“Privacy Policy”) sets forth our policies regarding the collection, use and disclosure of certain information relating to Your use of any web site under HealthcareSource’s control, whether partial or otherwise (including, without limitation, [www.healthcaresource.com](https://www.healthcaresource.com/), payments.healthcaresource.com, jobs.healthcaresource.com, the web site from which this Privacy Policy was accessed, and websites available at URLs assigned to specific customers in connection with their use of HealthcareSource’s Position Manager, Performance Manager, NetLearning, HealthcareSource Recruitment Marketing, Assessment, Job Board, Lean Human Capital Services, or other products, services, or resources offered by us) (the “Site” or “Sites”) and Your use and receipt of any and all products, services and resources offered, enabled or provided to You via the Sites, including without limitation certain software-as-a-service online programs, online training courses, online communities, live webinars, communication tools designed to facilitate personal networking, job boards, resume databases, and products and services enabling employers to complete the recruitment and hiring process (the “Services”). This Privacy Policy is incorporated into, and is part of, the [HealthcareSource Terms of Service and Use](https://web.archive.org/terms-of-use) (“Terms and Conditions”), which governs Your use of the Sites and Services in general. Capitalized terms used but not defined in this Privacy Policy have the meanings assigned to them in the Terms and Conditions.
 
 By accessing or using the Sites or the Services (including requesting, receiving, and viewing content of the Sites or Services, such as via a web browser or other program) in any way, you or the entity you represent (“You”) consent to the terms of this Privacy Policy, and the use of Your Data (including Personal Information), as outlined herein and as applied to Your use of the Sites and Services. If You do not consent to the use of Your Data (including Personal Information) per the terms of this Privacy Policy or the Terms and Conditions, You may not access or use the Site or Services. If You do not grant or at any time revoke Your consent for use of any or all information described herein that is about or related to You (except as set forth under Your “opt out” rights below), Your access to the Site or Services will be terminated and Your Account and Profile will be removed from the Site and Services.
 
-HealthcareSource takes very seriously the private nature of Your information. Please read this Privacy Policy carefully. We recommend You consult this Privacy Policy often (at least prior to or during each access or use of the Sites or use of the Services), as the terms of this Privacy Policy may be amended from time to time without notice to You, including as we update and expand our offerings or products, services, or resources. BY ACCESSING OR VISITING THE SITES OR THE SERVICES, YOU CONSENT TO THE USE OF YOUR DATA (INCLUDING YOUR PERSONAL INFORMATION) PER THE TERMS OF THE PRIVACY POLICY IN FORCE AT THE TIME OF EACH ACCESS OR USE. 
+HealthcareSource takes very seriously the private nature of Your information. Please read this Privacy Policy carefully. We recommend You consult this Privacy Policy often (at least prior to or during each access or use of the Sites or use of the Services), as the terms of this Privacy Policy may be amended from time to time without notice to You, including as we update and expand our offerings or products, services, or resources. BY ACCESSING OR VISITING THE SITES OR THE SERVICES, YOU CONSENT TO THE USE OF YOUR DATA (INCLUDING YOUR PERSONAL INFORMATION) PER THE TERMS OF THE PRIVACY POLICY IN FORCE AT THE TIME OF EACH ACCESS OR USE.
 
 This Privacy Policy does not apply to service providers or other personnel HealthcareSource may use from time to time. Such relationships are governed by separate agreements entered into between us and such providers. Those separate agreements will, where we determine it to be practical, protect Your Data (including Personal Information) in a manner consistent with the terms of this Privacy Policy.
 
@@ -18,17 +18,17 @@ YOU MAY OPT IN OR OPT OUT OF OUR SHARING OF YOUR PERSONAL INFORMATION WITH THIRD
 
 ## Purpose
 
-In connection with Your use of the Site and/or Services, HealthcareSource may collect information from You or about You and Your use of the Sites or the Services, including data, materials, job postings, job competencies, compensation information, assessments, resumes, cover letters, software, sound, graphics, video, advertisements, messages, Personal Information (as defined below) and other information (including all other information You may input, explicitly or otherwise, to a Site or a Service), and may collect certain information from Your computer or other device You use to access or use the Sites or the Services each time You access or use the Sites or the Services (all of the foregoing individually or collectively referred to below as “Data”). This Privacy Policy explains, in general, what Data we collect, how we may compile, maintain, process, and otherwise use the Data, and with whom we may share the Data. 
+In connection with Your use of the Site and/or Services, HealthcareSource may collect information from You or about You and Your use of the Sites or the Services, including data, materials, job postings, job competencies, compensation information, assessments, resumes, cover letters, software, sound, graphics, video, advertisements, messages, Personal Information (as defined below) and other information (including all other information You may input, explicitly or otherwise, to a Site or a Service), and may collect certain information from Your computer or other device You use to access or use the Sites or the Services each time You access or use the Sites or the Services (all of the foregoing individually or collectively referred to below as “Data”). This Privacy Policy explains, in general, what Data we collect, how we may compile, maintain, process, and otherwise use the Data, and with whom we may share the Data.
 
-“Personal Information,” as used herein, refers to information that may specifically identify You as an individual or allow online or offline contact with You as an individual, such as: Your name; home and/or business address; e-mail address; or home and/or business telephone number. 
+“Personal Information,” as used herein, refers to information that may specifically identify You as an individual or allow online or offline contact with You as an individual, such as: Your name; home and/or business address; e-mail address; or home and/or business telephone number.
 
 ## Opt In and Opt Out Rights
 
-You have the right to “opt in” and “opt out” of certain of our uses of Your Personal Information. 
+You have the right to “opt in” and “opt out” of certain of our uses of Your Personal Information.
 
 You may elect to, or elect not to: (1) receive correspondence from us (either on our behalf or on behalf of a third party), or (2) have Your Personal Information shared with other entities for purposes described herein. Except in instances in which You have been “opted in” by Your employer, by default, You have been “opted out” of these uses of Your Personal Information. If You would like to confirm You have opted out, please send an e-mail to [solutions@healthcaresource.com ](mailto:solutions@healthcaresource.com "Contact us") with the subject line “Privacy Policy—PI Opt Out” identifying Your account, stating which Site and/or Services You used, and stating whether: (i) You would like to opt out of receiving promotional correspondence from HealthcareSource in general, or just via e-mail or postal mail, (ii) You would only like to opt out of certain of HealthcareSource mailings, e-newsletters, e-mail alerts or other correspondence, and if so which ones, and/or (iii) You would like to elect for us not to share Your Personal Information with third parties. Following opting out, You may opt in to any these uses at any time through the opt-in interface of the Sites, by creating a new Account or Profile, or with a similar email to [solutions@healthcaresource.com ](mailto:solutions@healthcaresource.com "Contact us") with the subject line “Privacy Policy—PI Opt In”. Please note, as set out below, that e-mail transmissions may not be secure. Requests to have us stop sharing Your Personal Information will apply as of the date we review Your request. We will not be responsible for any communications that You may receive from entities that received Your Personal Information prior to the date we reviewed Your request.
 
-Regardless of whether You opt-out of receiving correspondence from us, we may still contact You in connection with Your relationship, activities, transactions and communications with us, including relating to your access or use of the Sites or the Services. 
+Regardless of whether You opt-out of receiving correspondence from us, we may still contact You in connection with Your relationship, activities, transactions and communications with us, including relating to your access or use of the Sites or the Services.
 
 ## Collection of Information
 
@@ -36,14 +36,14 @@ Regardless of whether You opt-out of receiving correspondence from us, we may st
 
 We collect Data from You when You use our Sites and Services. For example, Data is collected when:
 
-  * You register to establish an Account; 
+  * You register to establish an Account;
   * You update Your Profile;
   * You submit information and materials for Services to be performed;
   * You complete transactions or surveys on the Site or through the Services;
   * You use the interactive features of the Site, for example, to access, review, clean or manage Your Account;
   * You use our blog or other social media sites or portals to communicate with us and/or our personnel;
   * You in any other way submit Data to us via the Site or the Services; or
-  * You send information about our products, services, or resources to others through the Sites or Services. In some of these cases You may identify such others to us, including by providing an e-mail address of any such person or entity to us, as well as any notes or materials you communicate to such person or entity. 
+  * You send information about our products, services, or resources to others through the Sites or Services. In some of these cases You may identify such others to us, including by providing an e-mail address of any such person or entity to us, as well as any notes or materials you communicate to such person or entity.
 
 
 
@@ -104,9 +104,9 @@ By visiting the Site(s) or using the Service(s), including by creating an Accoun
 
 
 
-As mentioned, we may provide You an opportunity to receive offers from other entities that have services, products, and offers that we think might be of interest to You. We do not and cannot control information collected by these entities; the collection and use of that information is subject to any applicable privacy policies of those entities. Further, we will not transfer Your contact information to any unaffiliated third party for the third party’s marketing purposes unless You expressly authorize us to do so. If You change Your mind and no longer want to receive third party promotions, follow the instructions to opt out in the Right to Opt In and Opt Out section above. 
+As mentioned, we may provide You an opportunity to receive offers from other entities that have services, products, and offers that we think might be of interest to You. We do not and cannot control information collected by these entities; the collection and use of that information is subject to any applicable privacy policies of those entities. Further, we will not transfer Your contact information to any unaffiliated third party for the third party’s marketing purposes unless You expressly authorize us to do so. If You change Your mind and no longer want to receive third party promotions, follow the instructions to opt out in the Right to Opt In and Opt Out section above.
 
-Please remember that if You post or transmit any of Your Data, including Personal Information, such information may be collected and used by third-parties, including HealthcareSource’s customers, over whom we have no control. Data You post in public areas of the Site or Services or make available to certain third parties or make visible or available in certain databases, such as resume or Profile databases, may be accessed, used, and stored by others around the world, including in countries that might not have legislation that guarantees adequate protection of Personal Information as defined in the country in which You reside. We are not responsible for the use made by such third parties of information You post or otherwise make publicly available. 
+Please remember that if You post or transmit any of Your Data, including Personal Information, such information may be collected and used by third-parties, including HealthcareSource’s customers, over whom we have no control. Data You post in public areas of the Site or Services or make available to certain third parties or make visible or available in certain databases, such as resume or Profile databases, may be accessed, used, and stored by others around the world, including in countries that might not have legislation that guarantees adequate protection of Personal Information as defined in the country in which You reside. We are not responsible for the use made by such third parties of information You post or otherwise make publicly available.
 
 ## Sharing of Information
 
@@ -126,20 +126,20 @@ As mentioned, we may share Your Personal Information with third parties if You c
 
   * if You make Your Account, Profile, or other Data, including resumes, assessments, training reports, and other information submitted to us through the Sites or Services, searchable by employers or other users;
   * if You opt-in to receive information about opportunities, products, or services of third parties, we will supply the contact information You submitted as part of opting in to such disclosure;
-  * by applying for a job, providing Your contact information to show interest in a job, or replying to a message from an employer, You affirmatively opt-in and consent to the disclosure of Your Profile information, including Personal Information, to that employer; 
+  * by applying for a job, providing Your contact information to show interest in a job, or replying to a message from an employer, You affirmatively opt-in and consent to the disclosure of Your Profile information, including Personal Information, to that employer;
   * by providing any Data generated through Your use of certain features of the Site or Services, including assessment scores, performance appraisals, or course completion reports, to an employer, You affirmatively opt-in and consent to the disclosure of such Data to that employer.
 
 
 
 ### Compelled Disclosure
 
-We reserve the right to disclose any Data (including Personal Information) or information concerning You as necessary or appropriate to satisfy any law, regulation or other governmental request, to properly operate the Sites and Services, or to protect or defend our rights or the rights or well-being of our users or if You are involved (or are reasonably suspected to be involved) in any illegal or harmful activity, even without a subpoena, warrant or court order. We may release certain Data (including Personal Information) when we believe that such release is reasonably necessary or proper to protect the rights, property, and safety of others and ourselves. We also may disclose Data (including Personal Information) in connection with investigations by us or by a government agency or when we have reason to believe that someone is causing injury to or interference with our rights or property, other users of the Sites or Services, or anyone else that could be harmed by such activities. 
+We reserve the right to disclose any Data (including Personal Information) or information concerning You as necessary or appropriate to satisfy any law, regulation or other governmental request, to properly operate the Sites and Services, or to protect or defend our rights or the rights or well-being of our users or if You are involved (or are reasonably suspected to be involved) in any illegal or harmful activity, even without a subpoena, warrant or court order. We may release certain Data (including Personal Information) when we believe that such release is reasonably necessary or proper to protect the rights, property, and safety of others and ourselves. We also may disclose Data (including Personal Information) in connection with investigations by us or by a government agency or when we have reason to believe that someone is causing injury to or interference with our rights or property, other users of the Sites or Services, or anyone else that could be harmed by such activities.
 
-From time to time, we may be required to provide Personal Information or other Data in response to a valid court order, subpoena, government investigation, or as otherwise required by law. 
+From time to time, we may be required to provide Personal Information or other Data in response to a valid court order, subpoena, government investigation, or as otherwise required by law.
 
-We reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful. 
+We reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful.
 
-We reserve the right to make any such compelled disclosures or reporting of unlawful activities without any notice (including any prior notice or any subsequent notice) to You 
+We reserve the right to make any such compelled disclosures or reporting of unlawful activities without any notice (including any prior notice or any subsequent notice) to You
 
 ### Business Transfer
 
@@ -153,7 +153,7 @@ You acknowledge and agree that You have no expectation of privacy with respect t
 
 ### Access Rights
 
-We retain all Data we gather about You in an effort to make Your repeated use with us more efficient and relevant. 
+We retain all Data we gather about You in an effort to make Your repeated use with us more efficient and relevant.
 
 You may review, edit, and delete the Personal Information and certain other Data that is stored in Your Account or Profile on the Site or Services (e.g., Your passwords, resumes, and other contact information) by visiting a “My Profile” or similar area of Your Account or by e-mailing [solutions@healthcaresource.com](mailto:solutions@healthcaresource.com). Upon written request, we will send You a copy of the Personal Information we have on file in Your user account (if any). You may send us new or updated Personal Information at any time. We will respond to Your request to access, update or delete Your information as soon as practicable. Before we are able to provide You with any Personal Information, correct any inaccuracies, or delete any information, we may ask You to verify Your identity or to provide other details to help us to respond to Your request.
 
@@ -169,7 +169,7 @@ If You become a customer or otherwise purchase our Services, You may be able to 
 
 We will not be responsible or liable for any loss or damage arising from Your failure to comply with this provision. We will have no liability for disclosure of Your information due to errors or unauthorized acts of third parties during or after transmission.
 
-In the unlikely event that we believe that the security of Your Personal Information in our possession or control may have been compromised, we may seek to notify You of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and will do so using the contact information You have provided to us and that we have stored for You as Your Personal Information. It is Your responsibility to ensure Your contact information remains up-to-date. To the extent that the contact information we have for You includes an e-mail address, we may notify You by e-mail of any potential compromise of Your Personal Information. By visiting the Sites and using the Services, You consent to our use of e-mail as a means of such notification. 
+In the unlikely event that we believe that the security of Your Personal Information in our possession or control may have been compromised, we may seek to notify You of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and will do so using the contact information You have provided to us and that we have stored for You as Your Personal Information. It is Your responsibility to ensure Your contact information remains up-to-date. To the extent that the contact information we have for You includes an e-mail address, we may notify You by e-mail of any potential compromise of Your Personal Information. By visiting the Sites and using the Services, You consent to our use of e-mail as a means of such notification.
 
 ### Phishing
 
@@ -209,8 +209,8 @@ The Site and Services are not geared towards children, and use of all of the Sit
 
 If you have any questions or comments regarding our privacy practices, You may contact us at [solutions@healthcaresource.com](mailto:solutions@healthcaresource.com). You may also send any comments, questions or concerns by mail to:
 
-HealthcareSource HR, Inc.   
-100 Sylvan Road, Suite 100   
+HealthcareSource HR, Inc.  
+100 Sylvan Road, Suite 100  
 Woburn, MA 01801
 
 Updated – June 20, 2017
