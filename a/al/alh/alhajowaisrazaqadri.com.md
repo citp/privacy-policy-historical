@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alhajowaisrazaqadri.com privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321132815id_/http%3A//alhajowaisrazaqadri.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alhajowaisrazaqadri.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109150959id_/http%3A//alhajowaisrazaqadri.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
