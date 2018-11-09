@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourrevolution.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128222716id_/https%3A//ourrevolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourrevolution.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109042941id_/https%3A//ourrevolution.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Revolution - Privacy Policy
 
@@ -69,7 +69,7 @@ The Services are not directed at children and Our Revolution does not knowingly 
 
 Effective January 1, 2005, under California Civil Code Section 1798.83, if an individual who is a California resident has provided Personal Information to a business in connection with a business relationship that is primarily for personal, family, or household purposes, and if that business has within the immediately preceding calendar year disclosed such an individual's PII to a third-party and knows or should have known that such third-party used the information for its own direct marketing purposes, then that business is obligated to disclose in writing to such individual upon request, what PII was shared and with whom it was shared. 
 
-Any request for a disclosure required under this California law should be sent to us at [info@ourrevolution.com](mailto:info@ourrevolution.com?subject=Site%20Feedback) or via regular mail to Our Revolution, 603 2nd St. NE Washington, DC 20002. 
+Any request for a disclosure required under this California law should be sent to us at [info@ourrevolution.com](mailto:info@ourrevolution.com?subject=Site%20Feedback) or via regular mail to Our Revolution, PO Box 66208 Washington, DC 20035. 
 
 Please note that under this law, Our Revolution is not required to respond to a customer's request more than once in a calendar year, nor is Our Revolution required to respond to any request that is not sent to the email or mailing address designated above. 
 
@@ -83,6 +83,6 @@ Our Revolution may update this Privacy Policy from time to time.  When Our Revo
 
 **10\. Contact Information.**
 
-If you have any questions or concerns about this Privacy Policy you may contact Our Revolution via email at [info@ourrevolution.com](mailto:info@ourrevolution.com?subject=Site%20Feedback) or regular mail at Our Revolution, 603 2nd St. NE Washington, DC 20002.  
+If you have any questions or concerns about this Privacy Policy you may contact Our Revolution via email at [info@ourrevolution.com](mailto:info@ourrevolution.com?subject=Site%20Feedback) or regular mail at Our Revolution, PO Box 66208 Washington, DC 20035.  
 
 Last Update: 02/06/2017
