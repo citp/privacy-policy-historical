@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stata.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519024648id_/https%3A//www.stata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stata.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109231122id_/https%3A//www.stata.com/privacy-policy) for the most accurate reproduction.*
 
 # Stata | Privacy policy
 
@@ -26,7 +26,7 @@ Depending on the circumstances, the following are the types of personal informat
 
 ###  Why does StataCorp collect personal information about you? 
 
-To buy from us, you must provide contact information, such as your name and delivery address, and financial information, such as your credit card number and expiration date. This information is used for billing purposes and to process your order. In addition, if we have questions concerning an order, we will use this information to contact you. The following are reasons we need your personal information: 
+To buy from us, you must provide contact information, such as your name and delivery address, and financial information, such as your credit card number and expiration date. This information is used for billing purposes and to process your order. In addition, if we have questions concerning an order, we will use this information to contact you. For orders placed on our website, our method for contacting you will be email. The following are reasons we need your personal information: 
 
   * To process and deliver orders that you place with us or that are placed on your behalf, and to provide you with documentation or other material in support of such orders 
   * To provide products, services, and support requested by you or on your behalf 
