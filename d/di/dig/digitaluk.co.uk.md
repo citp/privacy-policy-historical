@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaluk.co.uk privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630051045id_/http%3A//www.digitaluk.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaluk.co.uk privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109155527id_/http%3A//www.digitaluk.co.uk/privacy_notice) for the most accurate reproduction.*
 
 # Digital UK | Privacy Notice
 
