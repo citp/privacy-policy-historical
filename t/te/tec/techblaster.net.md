@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techblaster.net privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509222604id_/http%3A//www.techblaster.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techblaster.net privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109181158id_/http%3A//www.techblaster.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Techblaster.NETTechblaster.NET
 
