@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bittbox.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606141825id_/http%3A//www.bittbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bittbox.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109085321id_/https%3A//www.bittbox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bittbox
 
@@ -35,4 +35,4 @@ Affiliate links and/or sponsored posts can and will be used as a form of generat
 Third-party advertising is used to serve ads and collect information from Website visitors. These companies may use information (not including your name, physical address, email address, or phone number) about your visits to this Website, as well as others, as a way of providing advertisements on Bittbox, advertisements on other sites, and other forms of media that could be of interest to you. If you are interested in learning more about this practice, accessing knowledge regarding your choices, how to abstain from giving certain information to companies, etc., please visit [this link](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Privacy Contact**  
-If you feel that this Website is not following this Privacy Policy, please [contact us](http://www.bittbox.com/contact) at with your concerns.
+If you feel that this Website is not following this Privacy Policy, please [contact us](https://www.bittbox.com/contact) at with your concerns.
