@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connexity.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619193354id_/http%3A//connexity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connexity.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109100331id_/https%3A//connexity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Connexity
 
@@ -30,7 +30,7 @@ We typically use this information to send you materials you have requested to re
 
 We may disclose this information to authorized third parties including our affiliates and third-party service providers for these purposes;
 
-Our websites use “cookies” although you can set your browser not to accept cookies if you so wish although this may affect your use of our Sites. We use cookies to analyze our traffic. For more information about our use of cookies, please see our [cookies policy](http://connexity.com/cookie-policy/);
+Our websites use “cookies” although you can set your browser not to accept cookies if you so wish although this may affect your use of our Sites. We use cookies to analyze our traffic. For more information about our use of cookies, please see our [cookies policy](https://connexity.com/cookie-policy/);
 
 We encrypt any information you input using Secure Sockets Layer (SSL) software and take security measures to safeguard information in accordance with industry practice;
 
@@ -40,8 +40,7 @@ If you have any questions or concerns about privacy at Connexity, please contact
 
 Our Sites are not designed or intended for use by children under 16;
 
-This Privacy Policy may change from time to time so please check this policy regularly. Any material changes will be notified to you by email as appropriate; and  
-Where you are based in the EU, you may have certain additional rights which are set out in section VIII below.
+This Privacy Policy may change from time to time so please check this policy regularly. Any material changes will be notified to you by email as appropriate; and Where you are based in the EU, you may have certain additional rights which are set out in section VIII below.
 
 ## I. What information do we collect about you and where do we collect it from?
 
@@ -85,7 +84,7 @@ We work with third parties, including website analysis firms, who use cookies to
 
 You may be able to direct your internet browser not to allow cookies and you can delete existing cookies from your computer. 
 
-For more information about our use of cookies, please see our [cookies policy](http://connexity.com/cookie-policy/).
+For more information about our use of cookies, please see our [cookies policy](https://connexity.com/cookie-policy/).
 
 ## V. Security of information
 
@@ -119,7 +118,7 @@ Where you are located in the European Union, in certain circumstances you are en
 
 (e) **Right to restriction of processing:** Where certain conditions apply to have a right to restrict the processing of your personal data.
 
-If you think you are entitled to exercise any of the above rights and would like to do so, please contact us by [clicking here.](http://connexity.com/your-rights/)
+If you think you are entitled to exercise any of the above rights and would like to do so, please contact us by [clicking here.](https://connexity.com/your-rights/)
 
 ## IX. Privacy Shield
 
@@ -145,37 +144,36 @@ The details for each of these contacts are:
 
 | 
 
-## Supervisory Authority  
-contact details
+## Supervisory Authority contact details
 
 | 
 
-## Data Protection Representative  
-contact details  
+## Data Protection Representative contact details  
   
 ---|---|---  
 Contact: | Information Commissioner’s Office  | Attn: Data Protection Representative  
-Postal  
-address: | Wycliffe House  
+Postal address: | Wycliffe House  
 Water Lane  
 Wilmslow  
 Cheshire SK9 5AF  
-United Kingdom  |  **United Kingdom**  
+United Kingdom  | 
+
+**United Kingdom**  
 Connexity UK Ltd.  
 111 Buckingham Palace Rd., 4th Floor  
-London SW1WOSR  
+London SW1WOSR
+
 **Germany**  
 Connexity Europe GmbH  
 Ruschgraben 133  
-76139 Karlsruhe  
+76139 Karlsruhe
+
 **United States**  
 Connexity, Inc.  
 2120 Colorado Ave., Suite 400  
-Santa Monica, CA 90404   
-Email  
-enquiries: | accessicoinformation@ico.org.uk | legal@connexity.com or  
-dataprotection@connexity.com or  
-dataprotection@hitwise.com   
+Santa Monica, CA 90404  
+  
+Email enquiries: | accessicoinformation@ico.org.uk | legal@connexity.com or dataprotection@connexity.com or dataprotection@hitwise.com   
   
 EU individuals may direct any inquiries or complaints regarding our Privacy Shield compliance to Connexity’s Data Protection Representative contact above. Connexity will respond within 45 days. If you have an unresolved concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge), the International Centre for Dispute Resolution/American Arbitration Association, at http://go.adr.org/privacyshield.html. Finally, as a last resort and in limited situations, you may have the possibility to engage in binding arbitration through the Privacy Shield Panel. Connexity’s commitments under the Privacy Shield are subject to the investigatory and enforcement powers of the United States Federal Trade Commission.
 
