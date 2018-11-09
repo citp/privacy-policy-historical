@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmasterworld.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710034304id_/https%3A//www.webmasterworld.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterworld.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109164246id_/https%3A//www.webmasterworld.com/privacy.htm) for the most accurate reproduction.*
 
 # Help : - WebmasterWorld
 
@@ -45,6 +45,8 @@
 > If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 >     
 >     
->      Webmaster World, c/o/ Internet Marketing Ninjas, 21 Corporate Drive, Clifton Park, NY 12065
->      e-mail: engine at webmasterworld.com
+>      Webmaster World, c/o/ Pubcon Inc.
+>      2504 Dana Cove STE A
+>      Austin TX 78746
+>      http://www.webmasterworld.come-mail: engine at webmasterworld.com
 >      
