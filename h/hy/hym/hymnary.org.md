@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hymnary.org privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007002747id_/http%3A//hymnary.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hymnary.org privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109081044id_/https%3A//hymnary.org/info/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Hymnary.org
+# Privacy Policy | Hymnary.org
 
-Because we respect your privacy and are committed to protecting it, we have adopted this Privacy Policy. There are several Hymnary services that require the collection of information from you. These services include signing up with a user name and password to enable you to access community features. Other services may set cookies on your computer. 
+Because we respect your privacy and are committed to protecting it, we have adopted this Privacy Policy. There are several Hymnary services that require the collection of information from you. These services include signing up with a user name and password to enable you to access community features. Other services may set cookies on your computer.
 
 **Our Use of "Cookies"**
 
@@ -18,10 +18,8 @@ When you visit this or any Web site, information is available to the site on the
 
 The Hymnary will not sell or rent any of your personally identifiable information to third parties. 
 
-The Hymnary does not send unsolicited e-mail to users. Only users who have voluntarily joined an e-mail list such as the hymnal editors or have given permission to receive Hymnary announcements receive e-mail from the Hymnary. 
-
 **Notification of Changes**
 
 This policy may be revised over time as new features are added to Hymnary or as we incorporate suggestions from our users. The Hymnary is not responsible for notifying users of changes to this policy.
 
-We will post the amended Privacy Policy promptly on our Web site so that you can always review what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check the CCEL Web site at [www.hymnary.org/info/privacy.html](http://www.hymnary.org/info/privacy.html) for the current version of our Privacy Policy.
+We will post the amended Privacy Policy promptly on our Web site so that you can always review what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check the Hymnary Web site at [hymnary.org/info/privacy.html](https://hymnary.org/info/privacy.html) for the current version of our Privacy Policy.
