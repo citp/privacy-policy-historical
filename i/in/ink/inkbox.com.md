@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the inkbox.com privacy policy that was archived on 2018-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180101064436id_/https%3A//inkbox.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkbox.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109215452id_/https%3A//www.inkbox.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - inkbox
-
-## PRIVACY STATEMENT
+# Privacy Policy - inkbox™
 
 \----
 
@@ -10,7 +8,7 @@ SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
 When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.   
 When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.   
-Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
+Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates. When you share information with inkbox we use it to provide you updates on your order status, give updates on new products, and to make more revenant product recommendations.
 
 SECTION 2 - CONSENT
 
@@ -19,9 +17,9 @@ When you provide us with personal information to complete a transaction, verify 
 If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
 How do I withdraw my consent?   
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@getinkbox.com or mailing us at:   
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [hi@inkbox.com](mailto:hi@inkbox.com) or mailing us at:   
 inkbox™ ink incorporated   
-25 Telegram Mews Suite 2916 Toronto Ontario CA m5v 3z1
+393 King Street West, 2nd Floor, Toronto Ontario CA M5V 3G8
 
 SECTION 3 - DISCLOSURE
 
@@ -50,6 +48,8 @@ Once you leave our store’s website or are redirected to a third-party website 
 Links   
 When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
+inkbox shares data with a third party used to send our emails. You can find the privacy policy of our email provider at https://www.klaviyo.com/privacy. We also share data with Facebook, Snapchat, and Google advertising platforms to help generate more relevant advertising for you.
+
 SECTION 6 - SECURITY
 
 To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.   
@@ -77,7 +77,7 @@ If our store is acquired or merged with another company, your information may be
 
 QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@getinkbox.com or by mail at   
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [hi@inkbox.com](mailto:hi@inkbox.com) or by mail at   
 inkbox ink incorporated   
 [Re: Privacy Compliance Officer]   
-[25 Telegram Mews Suite 2916 Toronto Ontario CA m5v 3z1
+393 King Street West, 2nd Floor, Toronto Ontario CA M5V 3G8
