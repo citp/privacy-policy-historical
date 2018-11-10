@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designbump.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624030934id_/http%3A//designbump.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designbump.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110201153id_/http%3A//designbump.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -DesignBump
 
@@ -12,9 +12,9 @@ This Policy is a part of our Terms of Use found on our website. By using the Se
 
 If you have any questions or concerns about REN Group’s Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please contact us at:
 
-Critic Inc.
+REN Group LLC
 
-Email address: contact@critic.media
+Email address: contact@Designbump.com
 
 **Export of Data**
 
