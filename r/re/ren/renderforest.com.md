@@ -1,14 +1,24 @@
-> *The following text is extracted and transformed from the renderforest.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626110516id_/https%3A//www.renderforest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renderforest.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110172350id_/https%3A//www.renderforest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Renderforest
 
-Welcome to Renderforest’s Privacy Policy. We’re really glad you are reading this because this information is the best way to understand how Renderforest uses and manages your personal information. We take your privacy seriously. Renderforest never has and will sell, lease, or exchange your personal data with any third parties in ways other than described in our Privacy Policy.
+Welcome to Renderforest’s Privacy Policy.
 
-Renderforest is a company based and operating in Armenia. This policy outlines how we handle your personal information if you’re a Renderforest user or visitor of our website. We highly recommend that you carefully review “The Renderforest Privacy Policy” before engaging in any activity this website has to offer. This privacy policy is a part of our “Terms of Service” and covers the collection and use of your personal information by Renderforest. For any questions on our Privacy Policy, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or send a written letter to Rednerforest, 27 Azatutyun Street, Yeraz Business Center, Republic of Armenia.
+We’re really glad you are reading this because this information is the best way to understand how Renderforest uses and manages your personal information.
+
+We take your privacy seriously. Renderforest has never sold and will never sell, lease, or exchange your personal data with any third parties in ways other than described in our Privacy Policy.
+
+Renderforest is a company based and operating in Armenia. This policy outlines how we handle your personal information if you’re a Renderforest user or a visitor of our website. We highly recommend that you carefully review Renderforest’s Privacy Policy before engaging in any activity this website has to offer. This privacy policy is a part of our Terms of Service and covers the collection and use of your personal information by Renderforest.
+
+For any questions on our Privacy Policy, contact us at 
+
+[ support@rednerforest.com ](mailto:support@rednerforest.com)or send a written letter to Rednerforest, 27 Azatutyun Street, Yeraz Business Center, Republic of Armenia.
 
 ### The Personal Information We Collect
 
-We collect different types of personal information about the visitors and users of our website. You can either anonymously browse our website, become a signed-up user or a subscriber to one of the Renderforest subscription plans. When you choose to sign up or become a subscriber, we will ask you to provide us with certain personal information so that we can create your account and make it possible for you to use Renderforest. The required information will include your name and email address. You must provide this information in order to obtain an account and Renderforest agrees not to distribute this information to a third party in ways other than described in our Privacy Policy.
+We collect different types of personal information about the visitors and users of our website.
+
+You can either anonymously browse our website, become a signed-up user or a subscriber to one of the Renderforest subscription plans. When you choose to sign up or become a subscriber, we will ask you to provide us with certain personal information so that we can create your account and make it possible for you to use Renderforest. The required information will include your name and email address. You must provide this information in order to obtain an account and Renderforest agrees not to distribute this information to a third party in ways other than described in our Privacy Policy.
 
 When purchasing a subscription you will be required to provide additional information on your payment and billing details so that we can process the transaction. Such third party processors who use your personal information are governed by their respective privacy policies which may or may not contain privacy protections in this privacy policy.
 
@@ -16,19 +26,23 @@ We also collect data generated when you log in to our website; including, your I
 
 At Renderforest you are given an opportunity to sign up via Google or Facebook account. If you choose to sign up through one of these social media accounts we may also receive personal information the provider shares with us. In order to gain full understanding to what kind of information the social media platforms share with us, please refer to the provider’s privacy policy.
 
-We may use the provided email address to send you service notifications, the release of a new product, or to ask you for feedback.
+The personal information collected by Renderforest may be used to inform you about your purchase or if you want to purchase a certain product. If you have given your consent to send you email newsletters, we may also use this information to inform you about specific services that you may be interested in.
 
-The personal information collected from Renderforest may be used to inform you about your purchase or if you want to purchase a certain product. We may also use this information to inform you about specific services that you may be interested in.
+The video projects you create and the media files you upload from your device are saved on your personal media library. Renderforest may permanently delete your personal files after 60 days from your last activity, if you have not made any purchase.
+
+For certain video templates, Renderforest enabled a new feature based on machine learning algorithms and AI principles, which allows Renderforest editor to generate animated stories from video scripts. By using the information from previously created animated videos, the automated system creates a new animation based on a video script. Collecting and processing such kind of anonymous information has no purpose other than to enhance the user experience within the website.
 
 ### The Personal Information You Make Public
 
-Your profile and edited videos will be available only to you as a sole user. The videos you created with Renderforest will always be available on My Videos page and are marked unlisted by default. That means only people with the link can see your videos. You can make them private if you do not wish anybody else but yourself to have access to them or you can make them available for other Renderforest users to see or share. In this case, we do not accept responsibility for the way they will use that data.
+Your profile and edited videos will be available only to you as a sole user. The videos you created with Renderforest will be available on My Videos page and are marked 
 
-Also, Renderforest provides its users the opportunity to interact and post content through various social media sites. Your interactions with such tools are publicly viewable outside of the website domain. Each social media site has its own privacy policy which may be more or less protected than our policy. If you do not wish for this information to be disclosed, then you should not use these online tools.
+_unlisted_ by default. That means only people with the link can see your videos. You can make them private if you do not wish anybody else but yourself to have access to them or you can make them available for other Renderforest users to see or share. In this case, we do not accept responsibility for the way they will use that data.
+
+Also, Renderforest provides its users the opportunity to interact and post content through various social media sites. Your interactions with such websites are publicly viewable outside of the website domain. Each social media site has its own privacy policy which may be more or less protected than our policy. If you do not wish for this information to be disclosed, then you should not use these online tools.
 
 Please, think carefully before giving your information to anyone else or making it publicly available.
 
-### The Ways We Collect Your Data
+### The Ways We Collect Your Data 
 
   * We generally collect your personal data directly from you when you provide it to us as in above mentioned cases.
   * We collect your personal data from third party providers when you choose to login to your account with the help of social media services like Google and Facebook. The personal information we get from third party social media services are under your control via your privacy settings on the respective social media accounts and you can change them at any time through the settings of the third party providers.
@@ -36,7 +50,7 @@ Please, think carefully before giving your information to anyone else or making 
 
 
 
-When accessing Renderforest web pages, we may log your IP address; access your URL, time of access, geographic location, browser type, and referral URL in order to identify users who are using the service for spam or other activity that is deemed in conflict with our Terms of Service. Your personal information is kept until you cease to continue to use our website.
+When accessing Renderforest web pages, we may log your IP address; access your URL, time of access, geographic location, browser type, and referral URL in order to identify users who are using the service for spam or other activity that is deemed in conflict with our Terms of Service.
 
 ### The Reasons We Collect Your Data
 
@@ -50,7 +64,9 @@ We collect your data to improve our products and services. We may as well use yo
 
 If you give us your explicit consent, we will periodically send you emails providing you with marketing information about products and services that might be of interest to you. You have the choice to opt-out of these communications at any time by clicking the unsubscribe link at the end of every email newsletter.
 
-If there are any technical problems with unsubscribing, contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will make sure you will never get our emails again.
+If there are any technical problems with unsubscribing, contact 
+
+[ support@renderforest.com ](mailto:support@renderforest.com) and we will willingly solve the issue.
 
 ### We Protect Your Information
 
@@ -60,15 +76,17 @@ We offer the use of a secure server and implement various security measures to k
 
 Renderforest may also employ some safety procedures to help protect your information from loss, unauthorized access, alteration or destruction.
 
-If you have any questions about security measures on this website, please send us an email at[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#53202623233c21271321363d373621353c213620277d303c3e) .
+If you have any questions about security measures on this website, please send us an email at 
+
+[support@renderforest.com](mailto:support@renderforest.com) .
 
 ### Cookies?
 
-### Yes
+### Yes.
 
 When visiting Renderforest, certain information is being recorded which is generally anonymous information and does not reveal your identity. Renderforest uses cookies to operate our website and improve its user experience. This will not, under any circumstances, affect your privacy or data security. Members who disable all cookies will not be able to use the service, as some of them are essential to maintain your login to our website within a browser session. However you can block or delete them by changing your browser settings at any time. We store such cookies for a period of 30 days, after which the cookies are deleted.
 
-Essential Website Cookies are:
+Essential Website Cookies are: 
 
 forest.sid| for user login session identification.  
 ---|---  
@@ -88,13 +106,15 @@ You can modify your browser preferences to accept all cookies or to reject them.
 
 ### Forms of Disclosure
 
-We do use services of third party providers to operate our website. These service providers have access to personal information needed to perform such functions on our behalf and authorized to use your personal information to provide these services to us. **The services include credit card processing, analytics service providers, customer service, transactional message delivering companies that we believe are in full compliance with GDPR requirements**. As their services require, we may transfer as much of your personal information to them as necessary for them to perform their services. All of our third-party cooperator companies are located in GDPR compliant geographies.
+We do use services of third party providers to operate our website. These service providers have access to personal information needed to perform such functions on our behalf and authorized to use your personal information to provide these services to us. 
+
+**The services include credit card processing, analytics service providers, customer service, transactional message delivering companies that we believe are in full compliance with GDPR requirements. As their services require, we may transfer as much of your personal information to them as necessary for them to perform their services. All of our third-party cooperator companies are located in GDPR compliant geographies.**
 
 Apart from third party providers, we may also disclose your personal information in the following situations:
 
   * Under the specific circumstances where we are authorized or required by law to do so.
   * To respond to requests regarding a criminal investigation or illegal activity.
-  * To defend our rights, or to address financial or reputational risks.
+  * To defend our rights, or to address financial or reputational risks. 
 
 
 
@@ -126,11 +146,13 @@ This Privacy Policy may be changed from time to time to stay up to date with the
 
 We will notify you about any significant changes including changes on how we collect or use your personal data, the types of personal information or the purposes for using your personal information via our website. In case of any changes regarding the collection or usage of your personal information, you will be asked to give your consent via email notification.
 
-The latest version of our Privacy Policy will be available on this page.
+The latest version of our Privacy Policy will be available on this page. 
 
 ### Right to Access
 
-You have a right to ask for a copy of your personal information that we possess at any time. If you wish to do so, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and after verifying your identity, we will provide you with an electronic copy of your personal information as soon as convenient within 72 hours. The only case we will not be able to provide you with such access would be its affecting the rights and freedom of others.
+You have a right to ask for a copy of your personal information that we possess at any time. If you wish to do so, please contact us at 
+
+[ support@renderforest.com](mailto:support@renderforest.com) and after verifying your identity, we will provide you with an electronic copy of your personal information as soon as convenient within 72 hours. The only case we will not be able to provide you with such access would be its affecting the rights and freedom of others.
 
 You have a full access to any personal information you provide us and you can change or delete it at any time. You can directly change your username by logging in to the website and accessing your profile settings. And you can request our support team to change your email address whenever there is a need to do so. Unfortunately it’s technically impossible for you to do it on your own for now.
 
@@ -138,10 +160,10 @@ You have a full access to any personal information you provide us and you can ch
 
 If you no longer want us to possess your personal information or to provide you with Renderforest services, you can erase all your personal information by simply deleting your Renderforest account.
 
-Nevertheless, we will retain a part of your personal information as necessary for our legitimate business interests: preventing frauds, resolving disputes and troublesome problems, complying with the law and assisting investigations and other actions permitted by law. (The information will not be retained for more than 90 days) .
+Nevertheless, we will retain a part of your personal information as necessary for our legitimate business interests: preventing frauds, resolving disputes and troublesome problems, complying with the law and assisting investigations and other actions permitted by law. (The information will not be retained for more than 90 days).
 
 Note that after deleting your account we will not be able to provide you with our services or restore your account, and if you want to rejoin Renderforest you will need to complete a new registration process.
 
-### Know Your Rights
+Know Your Rights
 
 You have a right to lodge a complaint If you think that your right to data privacy has been violated by Renderforest in any way. In this case you need to contact the relevant supervisory authority in your country.
