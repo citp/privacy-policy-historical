@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the digitalinformationworld.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507144655id_/https%3A//www.digitalinformationworld.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalinformationworld.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110212500id_/https%3A//www.digitalinformationworld.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy / Digital Information World
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at irfan@digitalinformationworld.com.
 
-At [www.digitalinformationworld.com](http://www.digitalinformationworld.com/), the privacy of our visitors is of extreme importance to us. This privacy policy page outlines the types of personal information is received and collected by www.digitalinformationworld.com and how it is used.
+At [www.digitalinformationworld.com](https://www.digitalinformationworld.com/), the privacy of our visitors is of extreme importance to us. This privacy policy page outlines the types of personal information is received and collected by www.digitalinformationworld.com and how it is used.
 
 **_Log Files_**  
 Like many other Web sites, www.digitalinformationworld.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
@@ -15,12 +15,11 @@ www.digitalinformationworld.com does use cookies to store information about vis
 **_DoubleClick DART Cookie  _**  
 • Google, as a third party vendor, uses cookies to serve ads on www.digitalinformationworld.com.  
 • Google's use of the DART cookie enables it to serve ads to users based on their visit to www.digitalinformationworld.com and other sites on the Internet.  
-• Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
+• Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: <https://policies.google.com/technologies/ads>
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
 
   * Google Adsense
-  * BuySellAds
 
 
 
