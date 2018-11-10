@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogstash.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511124200id_/http%3A//blogstash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogstash.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110181206id_/http%3A//blogstash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BlogStash
 
