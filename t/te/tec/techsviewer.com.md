@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techsviewer.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606224944id_/https%3A//techsviewer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsviewer.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110094817id_/https%3A//techsviewer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Techsviewer
+# Privacy Policy
 
 This Privacy Policy governs the manner in which The Techsviewer collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.techsviewer.com website (“Site”). This privacy policy applies to the Site and all products and services offered by The Techsviewer .
 
