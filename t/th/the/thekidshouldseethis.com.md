@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thekidshouldseethis.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513044424id_/http%3A//thekidshouldseethis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekidshouldseethis.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110085134id_/http%3A//thekidshouldseethis.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Kid Should See This
+# Privacy Policy - The Kid Should See This
 
 _Updated November 9, 2017_
 
