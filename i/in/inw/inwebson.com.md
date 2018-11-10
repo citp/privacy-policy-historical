@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inwebson.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510171805id_/http%3A//www.inwebson.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inwebson.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110152723id_/http%3A//www.inwebson.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
