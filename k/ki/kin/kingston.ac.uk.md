@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingston.ac.uk privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605115101id_/http%3A//www.kingston.ac.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingston.ac.uk privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110174205id_/https%3A//www.kingston.ac.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Kingston University London
 
@@ -126,7 +126,7 @@ __utmmobile |  These cookies are used to collect information about how visitors
 
 In the first instance, for details about how we process personal information in specific use cases (for example, the personal information of enquirers, alumni and staff) and our retention schedule please refer to the [information regulations](https://web.archive.org/aboutkingstonuniversity/howtheuniversityworks/policiesandregulations/#information) section on our website.
 
-If you wish to request access to the personal data we hold about you please use the [Subject Access Request Form](https://web.archive.org/documents/aboutkingstonuniversity/howtheuniversityworks/policiesandregulations/documents/sar-form.pdf) available online. For any other queries about this privacy notice or how we process your personal data you can contact our Data Protection Officer by email: [DPO@kingston.ac.uk](mailto:DPO@kingston.ac.uk) or by post: Data Protection Officer, Vice Chancellor's Office, River House, 53-57 High Street, Kingston upon Thames, Surrey KT1 1LQ.
+If you wish to request access to the personal data we hold about you please use the [Subject Access Request Form](https://web.archive.org/documents/aboutkingstonuniversity/howtheuniversityworks/policiesandregulations/documents/SAR-form.pdf) available online. If you wish to exercise other Data Subject Rights that come under GDPR, please see the[ Individual Rights Request Form here](https://web.archive.org/documents/aboutkingstonuniversity/howtheuniversityworks/policiesandregulations/documents/GDPR-individual-rights-form-v.0.3.pdf). For any other queries about this privacy notice or how we process your personal data you can contact our Data Protection Officer by email: [DPO@kingston.ac.uk](mailto:DPO@kingston.ac.uk) or by post: Data Protection Officer, Vice Chancellor's Office, Crescent House, Penryhn Road, Kingston upon Thames, Surrey KT1 2EE.
 
 If you are not satisfied with how we are processing your personal data, you can make a complaint to the Information Commissioner.
 
