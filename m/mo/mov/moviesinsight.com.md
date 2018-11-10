@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviesinsight.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624070144id_/http%3A//www.moviesinsight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesinsight.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110204944id_/http%3A//www.moviesinsight.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Movies Insight
 
