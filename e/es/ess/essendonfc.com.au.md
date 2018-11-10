@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essendonfc.com.au privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522234940id_/http%3A//www.essendonfc.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essendonfc.com.au privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110170401id_/http%3A//www.essendonfc.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - essendonfc.com.au
 
@@ -157,6 +157,10 @@ In the event of any loss, or unauthorised access or disclosure of your personal 
 
 **12    Contacting Us Regarding Access, Correction and Privacy Complaints**
 
+The privacy laws of some jurisdictions give individuals the right to access, amend or delete their personal information or, in some circumstances, to restrict or object to the processing of their personal information.
+
+Information we hold about you should be up-to-date and accurate. Please advise of any changes to your information using the contact details set out in this paragraph 12.
+
 An individual may:
 
   * request access to and seek the correction of their personal information held by the AFL and/or AFL Clubs at any time;
@@ -171,20 +175,20 @@ by contacting the AFL by email at [privacy.officer@afl.com.au](mailto:privacy.of
 ---|---  
 Adelaide Football Club | [privacy.officer@afc.com.au ](mailto:privacy.officer@afc.com.au)  
 Brisbane Lions Football Club | [privacy@lions.com.au](mailto:privacy@lions.com.au)  
-Essendon Football Club | [privacy.officer@essendonfc.com.au](mailto:privacy@essendonfc.com.au)  
 Carlton Football Club | [privacy.officer@carltonfc.com.au](mailto:privacy.officer@carltonfc.com.au)  
 Collingwood Football Club | [privacy.officer@collingwoodfc.com.au](mailto:privacy.officer@collingwoodfc.com.au)  
+Essendon Football Club | [privacyofficer@essendonfc.com.au](mailto:privacyofficer@essendonfc.com.au)  
 Fremantle Football Club | [privacy.officer@fremantlefc.com.au](mailto:privacy.officer@fremantlefc.com.au)  
 Geelong Football Club | [privacy.officer@geelongcats.com.au ](mailto:privacy.officer@geelongcats.com.au)  
 Gold Coast Suns Football Club | [privacy.officer@goldcoastfc.com.au](mailto:privacy.officer@goldcoastfc.com.au)  
 Western Sydney Football Club | [privacy.officer@gwsgiants.com.au ](mailto:privacy.officer@gwsgiants.com.au)  
 Hawthorn Football Club Limited | [privacy.officer@hawthornfc.com.au](mailto:privacy.officer@hawthornfc.com.au)  
-Melbourne Football Club | [privacy.officer@afl.com.au](mailto:privacy.officer@afl.com.au)  
+Melbourne Football Club | [privacy.officer@melbournefc.com.au](mailto:privacy.officer@melbournefc.com.au)  
 North Melbourne Football Club | [privacy.officer@nmfc.com.au](mailto:privacy.officer@nmfc.com.au)  
-Port Adelaide Football Club | [privacy.officer@afl.com.au](mailto:privacy.officer@afl.com.au)  
+Port Adelaide Football Club | [privacy.officer@pafc.com.au](mailto:privacy.officer@pafc.com.au)  
 Richmond Football Club | [privacy.officer@richmondfc.com.au](mailto:privacy.officer@richmondfc.com.au)  
-St Kilda Saints Football Club | [privacy.officer@afl.com.au](mailto:privacy.officer@afl.com.au)  
-Sydney Swans Football Club | [privacy.officer@sydneyswans.com.au](mailto:privacy.offcer@sydneyswans.com.au)  
+St Kilda Saints Football Club | [membership@saints.com.au](mailto:membership@saints.com.au)  
+Sydney Swans Football Club | [enquiries@sydneyswans.com.au](mailto:enquiries@sydneyswans.com.au)  
 West Coast Eagles Football Club | [privacy.officer@westcoasteagles.com.au](mailto:privacy.officer@westcoasteagles.com.au)  
 Western Bulldogs Football Club | [privacy.officer@westernbulldogs.com.au](mailto:privacy.officer@westernbulldogs.com.au)  
   
@@ -192,7 +196,7 @@ Alternatively, you may write to the AFL via AFL Privacy Officer, AFL House, 140 
 
 **_Access_**
 
-You will be required to provide proof of identity in order to obtain access to your personal information. The AFL may charge an administration fee where access is provided. The AFL may refuse to provide access if permitted to do so by law.  The AFL aims to provide access to your personal information within 30 days of a valid request.
+You will be required to provide proof of identity in order to obtain access to your personal information. If you would like to request a copy of your data, or would like to take steps to exercise your rights, please contact us as set out in this paragraph 12. The AFL may charge an administration fee where access is provided. The AFL may refuse to provide access if permitted to do so by law.  The AFL aims to provide access to your personal information within 30 days of a valid request.
 
 **_Complaints_**
 
@@ -249,4 +253,4 @@ Footscray Football Club Limited t/a Western Bulldogs ACN 005 226 595.
 
 **14    Updates to Privacy Policy**
 
-We may vary this Privacy Policy from time to time, by posting an updated Privacy Policy accessible via the AFL and AFL Club websites.  This Privacy Policy was last updated on 19 February 2018.
+We may vary this Privacy Policy from time to time, by posting an updated Privacy Policy accessible via the AFL and AFL Club websites.  This Privacy Policy was last updated in May 2018.
