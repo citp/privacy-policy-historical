@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the joomlaserviceprovider.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522133653id_/http%3A//www.joomlaserviceprovider.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlaserviceprovider.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110173421id_/http%3A//www.joomlaserviceprovider.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Joomla Service Provider
 
-Scope of This Notice
+## Privacy Policy
 
-This Privacy Statement describes Joomla Service Provider’sprivacy practices and provides details on the ways in which information collected by Joomla Service Provider is used and disclosed. 
+**Scope of This Notice**
 
-Commitment to Privacy
+This Privacy Statement describes Joomla Service Provider’sprivacy practices and provides details on the ways in which information collected by Joomla Service Provider is used and disclosed.
 
-Your privacy is important to us at Joomla Service Provider. This Statement is available on our homepage and at every location where personally-identifiable information may be requested. 
+**Commitment to Privacy**
 
-Information Collected.
+Your privacy is important to us at Joomla Service Provider. This Statement is available on our homepage and at every location where personally-identifiable information may be requested.
+
+**Information Collected.**
 
 This Privacy Statement applies to all information collected by or submitted to Joomla Service Provider, including personal information. "Personal information" is data that reasonably can be used to identify or describe an individual.   
-Joomla Service Provider collects personal information when: 
+Joomla Service Provider collects personal information when:
 
   * you create a user account to become a user of joomlaserviceprovider.
   * you make online purchases;
@@ -26,7 +28,7 @@ Joomla Service Provider collects personal information when:
 
 
   
-The types of personal information collected may include (but are not limited to): 
+The types of personal information collected may include (but are not limited to):
 
   * your first and last name;
   * your title and your company's name;
@@ -37,7 +39,7 @@ The types of personal information collected may include (but are not limited to)
 
 
 
-Using Your Personal Information 
+**Using Your Personal Information**
 
 Joomla Service Provider uses the personal information you provide to:
 
@@ -60,7 +62,7 @@ Joomla Service Provider may disclose your personal information to third parties 
 
 
 
-Your Choices About Receiving email
+**Your Choices About Receiving email**
 
 Joomla Service Provider makes every effort to provide you with the ability to opt-in and opt-out of receiving communications from Joomla Service Provider and/or its partners.
 
@@ -77,7 +79,7 @@ Joomla Service Provider will provide you with the opportunity to opt-out of any 
 
 For your protection, Joomla Service Provider may contact you in the event that we find an issue with a product or service you have purchased that requires your immediate attention.
 
-Cookies and Other Browser Information
+**Cookies and Other Browser Information**
 
 Our web site automatically captures IP addresses. We use IP addresses to help diagnose problems with our server, to administer our web site, and to help ensure the security of your interaction with the web site. Your IP address is used to help identify you and your shopping cart.
 
@@ -85,19 +87,19 @@ As part of offering and providing customizable and personalized services, Joomla
 
 If you do not want your personal information to be stored by cookies, you can configure your browser so that it always rejects these cookies or asks you each time if you accept them or not. However, you must understand that the use of cookies may be necessary to provide certain products or services, and choosing to reject cookies will reduce the performance and functionality of the site. Your browser documentation includes precise instructions explaining how to define the acceptance of cookies.
 
-Our Commitment to Data Security
+**Our Commitment to Data Security**
 
 Joomla Service Provider staff follow our privacy policy. Our web site uses Secure Socket Layer (SSL) technology, which encrypts your personal information when you send your personal information on our web site. In addition, Joomla Service Provider and its business partners enter into confidentiality agreements which require that care and precautions be taken to prevent loss, misuse, or disclosure of your personal information.
 
-Public Forums
+**Public Forums**
 
 This site often makes, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information. Exercise caution when deciding to disclose your personal information. Although we value individual ideas and encourage free expression, Joomla Service Provider reserves the right to take necessary action to preserve the forum's integrity, such as removing any posting that is vulgar or inappropriate.
 
-How to Access, Modify or Update Your Information
+**How to Access, Modify or Update Your Information**
 
 Joomla Service Provider gives you the ability to access, modify or update your information at any time. You may log in and make changes to your login information (change your password), your contact information, your general preferences and your personalization settings. If necessary, you may also contact us and describe the changes you want made to the information you have previously provided.
 
-How to Contact Us
+**How to Contact Us**
 
 If you have any questions about any of these practices or Joomla Service Provider’s use of your personal information, please feel free to contact us by web, or by mail at:
 
