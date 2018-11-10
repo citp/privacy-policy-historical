@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the worldphoto.org privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507220615id_/https%3A//www.worldphoto.org/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldphoto.org privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111004825id_/https%3A//www.worldphoto.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and cookie policy | World Photography Organisation
+# Privacy Policy | World Photography Organisation
 
 The World Photography Organisation respects the privacy concerns of users of its websites. As a general policy, no personal information (i.e. name, address, telephone number, e-mail address) is automatically collected from users of the site. However, there may be circumstances in which users voluntarily supply such information and in this event, any such information will be kept secure and confidential and will be used only for those purposes made known to users at the time the information is collected, or for the purposes specified in this Privacy Policy.
 
 Certain non-personal information about users is recorded by the standard operation of the World Photography Organisation Internet servers. Examples of this type of information include the type of browsers being used, its operating system and the domain names (not e-mail addresses, where possible) of the users.
 
-The information collected is used to customise the user's online experience and improve the content of the World Photography Organisation web pages as for record keeping for the World Photography Organisation websites' users. Other uses of this information include the internal review of the sites visited, number of users to the site. The information may also be used to notify users of future the World Photography Organisation promotions and, unless the World Photography Organisation is notified by users that users do wish not to receive such information, of products and services of third parties which may be of interest to users.
+The information collected is used to customise the user's online experience and improve the content of the World Photography Organisation web pages as for record keeping for the World Photography Organisation websites' users. Other uses of this information include the internal review of the sites visited, number of users to the site. The information may also be used to notify users of future the World Photography Organisation promotions and, unless the World Photography Organisation is notified by users that users do wish not to receive such information, of products and services of third parties which may be of interest to users. Persons Aged Under 16 the World Photography Organisation will treat Your data as confidential and will not transmit this data in any way or form to a third party.
 
 ### What we collect
 
@@ -45,22 +45,24 @@ We require this information to understand your needs and provide you with a bett
 As part of the registration process for our user site, newsletter or press site, we collect personal information. We use that information for a couple of reasons: to send you news & offers about  our Exhibitions and Photography Competitions; to contact you if we need to obtain or provide additional information; to check our records are right and to check every now and then that you’re happy and satisfied. We don't rent or trade email lists with other organisations and businesses.
 
   
-We use a third-party provider, MailChimp, to deliver our newsletter. We gather statistics around email opening and clicks using industry standard technologies to help us monitor and improve our e-newsletter. For more information, please see MailChimp’s privacy notice. You can unsubscribe to general mailings at any time of the day or night by clicking the unsubscribe link at the bottom of any of our emails or by emailing [info@worldphoto.org](mailto:info@worldphoto.org)  
+We use a third-party provider, MailChimp, to deliver our newsletter. We gather statistics around email opening and clicks using industry standard technologies to help us monitor and improve our e-newsletter. For more information, please see [MailChimp’s privacy notice](https://mailchimp.com/legal/privacy/). You can unsubscribe to general mailings at any time of the day or night by clicking the unsubscribe link at the bottom of any of our emails or by emailing [info@worldphoto.org](mailto:info@worldphoto.org)  
  
 
 ### Security
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
 ### Order Data
 
-We use a third-party provider, Eventbrite to sell tickets for our shows/exhibtions. We gather statistics around ticket purchases and clicks using industry standard technologies to help us monitor and improve our tickets sales. For more information, please see Eventbrite's privacy notice.
+We use a third-party provider, Eventbrite to sell tickets for our shows/exhibtions. We gather statistics around ticket purchases and clicks using industry standard technologies to help us monitor and improve our tickets sales. For more information, please see [Eventbrite's privacy notice](https://www.eventbrite.co.uk/support/articleredirect?anum=8478).
 
-We use a third-party provider, Paypal to sell image bundles for our competitions.  For more information, please see Paypal's privacy notice.
+We use a third-party provider, Paypal to sell image bundles for our competitions.  For more information, please see [Paypal's privacy notice](https://www.paypal.com/en/webapps/mpp/ua/privacy-full).
+
+We do not store customer credit card details
 
 ### How we use cookies
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes, and dislikes by gathering and remembering information about your preferences.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
@@ -78,13 +80,13 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to World Photography Organisation, 9 Manchester Square, London W1U 3PL United Kingdom **** or emailing us at  [info@worldphoto.org](mailto:info@worldphoto.org) or visit your profile at <https://users.worldphoto.org/user/account-form>.
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to World Photography Organisation, 9 Manchester Square, London W1U 3PL United Kingdom **,  **emailing us at  [info@worldphoto.org](mailto:info@worldphoto.org) or visit your profile at <https://users.worldphoto.org/user/account-form> , or calling us at 020 7886 3000.
 
 
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to World Photography Organisation, 9 Manchester Square, London W1U 3PL.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please write to World Photography Organisation, 9 Manchester Square, London W1U 3PL.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
