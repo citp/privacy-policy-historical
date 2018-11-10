@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eskipaper.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625063301id_/http%3A//eskipaper.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eskipaper.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110204456id_/http%3A//eskipaper.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy.
 
