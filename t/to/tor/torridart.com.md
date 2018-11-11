@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torridart.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628032024id_/http%3A//torridart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torridart.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111172928id_/http%3A//www.torridart.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy at Torrid Art
 
