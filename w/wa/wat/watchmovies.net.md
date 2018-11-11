@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchmovies.net privacy policy that was archived on 2018-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180424044030id_/http%3A//watchmoviesdirect.ca/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchmovies.net privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111213051id_/http%3A//watchmoviesdirect.ca/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
