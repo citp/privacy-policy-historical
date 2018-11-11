@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vpnchoice.com privacy policy that was archived on 2018-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180117161107id_/http%3A//www.vpnchoice.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpnchoice.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111235722id_/http%3A//www.vpnchoice.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - VPNchoice.com
+# Privacy Policy
 
 We keep and maintain our visitors information while they visit **vpnchoice.com** or create an account on it. We just use this information to evaluate the interests, likes, dislikes and preferences of our visitors. Here we conform that your stored data on our side is completely safe and we are not allowed to sell it to anyone else. Furthermore, you can read our following statement, which tells that what type of visitor information we keep.
 
