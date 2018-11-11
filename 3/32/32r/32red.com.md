@@ -1,85 +1,345 @@
-> *The following text is extracted and transformed from the 32red.com privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222030105id_/https%3A//www.32red.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 32red.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111095359id_/https%3A//www.32red.com/privacy-policy) for the most accurate reproduction.*
 
 # 32Red Online Casino's Privacy Policy - 32Red Online Casino
 
-A bit of privacy is always good – especially when we’re getting dressed in the morning or singing in the shower. For your protection, 32Red has pulled together this handy privacy policy so you can know how we collect and store your information.
+## 1\. Introduction and general terms
 
-First of all you should know that this website (the 'Site') is operated by and information collected from this Site is collected by 32Red Ltd, a British company incorporated and based in Gibraltar (company registration no. 83626) ('32Red', 'us' or 'we').
+At 32Red, we are committed to protecting and respecting your privacy and maintaining the confidence and trust of our customers.
 
-32Red respects the privacy of its online visitors and users of the Site. 32Red recognises the importance of protecting certain information collected from users and has adopted this Privacy Policy to explain how 32Red gathers, stores, and uses information provided by users through the Sites as described below.
+This Privacy Notice explains how and why your personal information is collected, why it is collected and how it is kept secure.
 
-## Acceptance of Privacy Policy...
+## 2\. Who are we?
 
-If you use the Site, you are accepting the terms and conditions of this Privacy Policy, and 32Red will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Site. We reserve the right to modify this Privacy Policy at any time. Your continued use of the Site, after we either personally notify you or generally post changes on the Site, will constitute your acceptance of those changes.
+32Red is a brand of Kindred Group. Kindred is listed on the Nasdaq OMX Nordic Exchange in Stockholm and is one of the largest listed online gambling operators in the European market. Founded in 1997, it has substantial expertise in the area of online gambling and is a leader in providing innovative solutions focusing on the protection of customers, increased transparency and a safer safe and secure player environment. You can find more information at [www.kindredgroup.com](http://www.kindredgroup.com/).
 
-## Our cookie policy and use of information stored on your device...
+Kindred operates across different markets and jurisdictions, and has in its portfolio the following brands:
 
-A cookie is a text file containing information about you and your device which is stored on your computer to provide information needed by the user on a regular basis. Cookies are often used to save website customisations and website login information so that the website knows who you are. Cookies can also be used to tailor the experience that you get from a particular website, and provide you with personalised offers as well as give important information as to how the website is performing. Here at 32Red we use cookies for the following purposes:
+  * 32Red
+  * Roxy Palace
+  * Unibet
+  * Bingo.com
+  * Maria Casino
+  * iGame
+  * Storspiller
+  * Bohemia Casino
+  * Veikkaushuone
+  * Casinohuone
+  * Bingohuone
+  * Pokerihuone
+  * Kolikkopelit
 
-  * To provide a full customer experience within the casino.
-  * To recognise you as an existing customer and to allow you to login to your account more easily.
-  * To collect vital information on the running of our website, this allows us to improve our service to you.
-  * To understand how you are using our website, to help us improve our service.
-  * To make our marketing activity relevant to you - this helps us to ensure we show you the most relevant offers both on our own site and on others.
+
+
+## 3\. How can you get in touch?
+
+For general queries please do not hesitate to get in touch with our Player Experience team via our [Help Centre](https://www.32red.com/help/casino).
+
+If you have specific questions regarding your personal information or how we use it, please contact our Data Protection Officer directly by email at [DPO.officer@kindredgroup.com](mailto:dpo.officer@kindredgroup.com).
+
+## 4\. What types of personal information do we collect?
+
+We collect personal information when you interact with us and use our services. Sometimes, this information is provided to us by you – like when you register for the first time and when you make use of our products or get in touch with us. Sometimes third parties or publicly available sources provide us information about you.
+
+### Read more: What types of personal information do we collect?
+
+**Information you provide to us:**
+
+  * At registration:
+
+    * Your personal details, such as your name, email address, postal address, telephone or mobile number, gender or date of birth; 
+    * Photographic identification and proof of address documents (to carry out due diligence)
+    * Banking and financial details (to establish the source of funds where a transaction is involved)
+    * Your account login details, such as your username and password
+  * Through your use of 32Red’s services:
+
+    * Information about how you interact with our products 
+    * Information about your online browsing behaviour on 32Red’s websites, mobile apps, and other 32Red content online – please see our [Cookies Policy](https://www.32red.com/cookie-policy) for more details;
+    * Information about any devices you have used to access our Services (such as model, operating system, IP address, browser type, mobile device identifier)
+    * Recording phone calls – we may monitor or record phone calls with you. We might do this to check that we have carried out your instructions correctly; to resolve queries or issues; for regulatory purposes; to help improve our quality of service; to help us train our staff; or to help detect or prevent fraud or other crimes. 
 
 
 
-We may also work with external advertising networks who use 3rd party cookies to collect information on your preferences, meaning we can show adverts and offers that are tailored to you. For more information of cookies please visit <http://www.youronlinechoices.com/uk/>
+**Other sources of personal data**
 
-An IP address is a number that uniquely identifies your computer on the internet. 32Red Online Casino may collect IP addresses for the purposes of system administration, security, troubleshooting, and compiling aggregate information (such as how many visitors logged on to the Site). When you visit a particular web page on the Site, our servers may log your IP address. We may also use your IP address to ensure that we give you the best customer experience, and provide you with a service in your local currency, where applicable.
+  * Where we provide personalised services, we may use third party data about you, for example, your Twitter or Facebook feeds, to get to know you better and to provide more effective personalisation.
+  * Data received from our business partners and from other organisations, such as specialist companies providing verification services, credit reference agencies, and fraud prevention agencies. 
+  * Publicly available sources, like postcode lookup. 
 
-## Public Messages...
 
-Any information that is disclosed in a public area of the Site by users is public information and users should exercise caution when deciding to disclose personal information on the Site. If you voluntarily disclose information in a public area of the Site, such as a message board, that information may be collected and used by a third-party to send you unsolicited messages, advertisements or for other purposes. We do not control the actions of these third parties in public areas of the Site, so if you disclose information in a public area, you do so at your own risk
 
-## Choice/Opt-out...
+**Information about third parties**
 
-32Red may use customer contact information provided by you to send information about 32Red Online Casino and the products, Services and/or Sites for which you subscribed or otherwise used or accessed, including news about product updates, contests, events, and other promotional materials.
+If you give us personal information about someone else (for example via a Refer a Friend scheme) then you should not do so without their permission. Where information is provided by you about someone else, or someone else discloses information about you, it may be added to any personal information that is already held by us and it will be used in the ways described in this Privacy Notice.
 
-32Red Online Casino provides users the opportunity to opt-out of receiving communications from 32Red when you are asked to provide information to us. In addition, 32Red gives users the option of discontinuing receipt of general communications from 32Red, although users may still receive important messages (as defined below under 'Collection and Use of Information'). To unsubscribe from 32Red’s marketing emails, click on the unsubscribe link in the footer of the message or contact our [Player Experience Team](https://web.archive.org/help).
+This list of personal data types collected by 32Red is not exhaustive and further information may be requested from you when 32Red considers it fair and necessary to do so.
 
-## International Transfer, Storage and Security of Information...
+**Special categories of data**
 
-The personal information you provide to us may be stored and processed outside the United Kingdom in any country in which 32Red Online Casino or its affiliates, subsidiaries or agents maintain facilities. By using the Site, you consent to any such transfer of information outside of your country. 32Red will take reasonable steps to protect the information users share with us. We use a variety of security technologies and procedures to help protect your personal information from unauthorised access, use or disclosure.
+Personal data collected by 32Red may include so called “special categories of data”, such as health data related to responsible gambling.
 
-## Collection and Use of Information...
+We have in place additional measures to protect your sensitive personal data and its confidentiality.
 
-We may require your personal information for access to certain parts of the Site and related products or Services. We may collect your personal information when you: (a) register to become a member or user of our Services; (b) voluntarily provide it when you use the Site; (c) disclose it in a public area of the Site; or (d) provide it when you communicate with us. If you register to become a member or user of our Services through the Site, we may use the personal information that you provide for billing purposes, and to administer and manage your account and provide promotional updates regarding such products or Services as contemplated above.
+## 5\. Why do we collect your Personal Data and on what basis?
 
-32Red Online Casino may send out periodic e-mails informing you of technical, Service, important account balance information (including the increase of your cash account balance on a no purchase necessary basis) or security issues related to a product or Service you requested, confirming you requested a product or Service, or providing periodic updates or information relating to the product or Service you requested. For so long as you are subscribed to a Service, you will not be able to choose to unsubscribe from these mailings, as they are considered an essential part of the Service you have chosen.
+We recognise the trust and confidence our customers place in us as a service provider. In return, 32Red is open about why we collect your data. First and foremost, collecting your information is essential for providing you the services and products you want. In addition, your data is used to personalise and improve your experience using our services, and to contact you from time to time with important information. In some cases, we need to collect and use your information to comply with the law. Under data protection laws, we also need to identify a specified lawful basis upon which we are processing your personal information. We rely on different bases for different processing activities.
 
-32Red Online Casino may occasionally hire other companies to provide limited Services on our behalf, including without limitation, identity verification, payment processing and the provision of software. 32Red Online Casino will only provide these companies that information which is reasonably required to perform the Service, and they will be prohibited from using that information for any other purpose.
+### Read more: Why do we collect your Personal Data and on what basis?
 
-We will validate name, address and other personal information supplied by you against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection legislation.
+**A) Under the contract** – when it is necessary for the performance of a contract to which you are a party. Our [T&Cs](https://www.32red.com/terms-and-conditions), which you have accepted at registration, set out the terms of the contract and the services we will provide:
 
-In order to assist us in processing your transaction where your credit card may have been declined, we receive further information from your bank about the reasons for this. We use this information to facilitate completion of your transaction so that we can provide our service to you. We do not use this information for any other purposes.
+**To make our services available to you as part of our contract**
 
-Generally, when our third-party contractors or partners collect and/or have access to your personal information we require that they adhere to our stated privacy policies and protect the confidentiality of your personal information.
+  * to provide gaming and betting services, activities or online content, to provide you with information about them and to deal with your requests and enquiries;
+  * for "service administration purposes", such as password reminders, service messages, such as site maintenance, updates to our Privacy and Cookies Policy or Terms of Use, to let you know if your 32Red account has become dormant and to ask if you would like to use it again before we close it; 
+  * to assess betting risk - when you make a bet, an automated system may be used to assess the risk connected to your bet, in accordance with our Betting Rules. It is a system widely used by the betting operators to help make fair and informed decisions on betting. Betting scoring takes account of information you provide (both, at registration and through your use of our services). If your bet has been rejected or limited, you have the right to ask for a manual assessment by our traders.
+  * to process your transactions;
 
-32Red Online Casino may elect to share your personal information with qualified third-party partners for marketing or other similar purposes but only where you agree to share such information. Such partners will be prohibited from disclosing or using such information except for the limited purposes which the users have consented to.
 
-The Site contains links to third-party websites. When you follow these links you leave the Site and are transferred to a third party website. You should be aware that these third-party websites may have their own information collection practices and privacy policies. We do not control the privacy policies of third parties that have websites linked to the Site. If you follow a third-party advertisement or link, the privacy policies of the third-party website that you link to will govern the use of your information by that website's operator. The Privacy Policy does not extend to these external websites and companies. Please refer directly to the privacy policies on such third party websites. We assume no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise. Accordingly, please make sure you are aware of and comfortable with the privacy policies of any third-party websites to which you are transferred by following a link.
 
-32Red may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process or any governmental request; (b) protect and defend the rights or property of 32Red or its affiliated companies; (c) enforce the Terms and Conditions; or (d) act in urgent circumstances to protect the personal safety of 32Red' employees, users of the Site, or members of the public.
+**B) Under legitimate interests** \- It is necessary to process your data for the purposes set out below, except where our interests are overridden by the interests, rights or freedoms of affected individuals (such as you). To determine if we can process your data on this basis, we shall consider a number of factors, such as what you were told at the time you provided your data, what your expectations are about the processing of the data, the nature of the data, and the impact of the processing on you.
 
-In the event of a merger or consolidation of 32Red, or the sale of all or substantially all of its stock or assets, or the transfer of the operation and distribution of certain products or Services to a third-party, or bankruptcy of 32Red, your personal information may be transferred to 32Red' successor or assign resulting from such events.
+**To personalise your experience**
 
-We may also disclose your personal information to a third-party that alleges that you have infringed their intellectual property rights, subject to reasonable verification of such claims.
+  * to offer a more relevant, tailored service; for instance, we could use your playing history to provide personalised recommendations and products; 
+    * If you are signed-in or subscribed to our marketing offers, you will receive a personalised service. If you don’t want to receive these services you can unsubscribe from marketing offers, or disable personalisation by contacting our [Help Centre](https://www.32red.com/help/casino) or by email at [DPO.officer@kindredgroup.com](mailto:dpo.officer@kindredgroup.com). 
 
-By using the Site, users agree that 32Red may share with other parties aggregate information and non-identifiable information gathered by 32Red in the course of the continuing use of the Site. Aggregate information or non-identifiable information may be used to improve the Site, for internal marketing studies, or simply to collect demographic information about users.
 
-## No Absolute Safeguards...
 
-Although we will use reasonable efforts to safeguard the privacy of your information, transmissions on the internet cannot be made absolutely secure. Accordingly, we assume no responsibility or liability for disclosure of any of your information due to errors in transmission, unauthorised third-party access or other causes beyond our reasonable control.
+**To improve our services and products**
 
-## Your Role in Protecting Your Privacy...
+  * to provide you with the most user-friendly online navigation experience;
+  * for analysis and research purposes so that we may improve the services offered by 32Red;
+  * testing new systems and checking upgrades to existing systems; 
+  * evaluating the effectiveness of marketing and for market research and training;
+  * customer modelling, statistical and trend analysis, with the aim of developing and improving products and services.
 
-Please remember that protection of your privacy begins with you. You are solely responsible for maintaining the secrecy of any account ID or password you use to register, and you should always be careful and responsible whenever disclosing information online.
 
-Corrections, Updates and Removal of Information If you are concerned with the accuracy of the personal information provided by you and maintained by 32Red or would like your personal information removed from 32Red' records, you may use the tools made available on the Site to update or remove such information. 32Red reserves the right to charge a reasonable fee for supplying copies of such information. If you choose to delete your personal information, you may not be able to access some areas of the Site and/or Services to which you have subscribed. We will not provide a refund for any prepaid Service which is inaccessible to you because of the deletion of your personal information. We may, however, still retain your personal information in our files to resolve disputes, to enforce our user agreement, and to comply with any and all technical and legal requirements and constraints related to the security, integrity and operation of the Site.
 
-Last updated 26th April 2017
+**To contact and interact with you**
 
-32Red Ltd is licensed by the Government of Gibraltar (Licence No.019) and regulated by the Gibraltar Gambling Commissioner.
+  * Contact you about our services, for example by phone, email or post or social media;
+  * Manage promotions and competitions you choose to enter; 
+  * Invite you to take part in and manage customer surveys, questionnaires and other market research activities carried out by 32Red and by other organisations on our behalf (We carry out market research to improve our services, however, if we contact you about this, you do not have to take part in the activities. If you tell us that you do not want us to contact you for market research, we will respect this choice and this will not affect your ability to use our services);
+  * Respond to your queries and complaints. 
 
-Our services in the UK are licensed and regulated by the UK Gambling Commission (Licence No: 000-039430-R-319293-004) 32Red Ltd., 741 Europort, Gibraltar
+
+
+**To make your game safer and more enjoyable**
+
+  * to deter, prevent or detect the use of third party software in peer-to-peer gambling;
+  * to deter, prevent, or detect any activities conducted in breach of the 32Red [T&Cs](https://www.32red.com/terms-and-conditions). 
+
+
+
+**C) Under the legal obligation** – when it is necessary in order to comply with mandatory legal obligations to which we are subject under EU or local laws:
+
+  * to determine where you are accessing the services from to redirect you to the correct country site, in accordance with our license conditions;
+  * to make sure we offer our services to eligible persons;
+  * crime detection, prevention, and prosecution;
+  * to verify your identity and establish the source of funding in any transaction;
+  * to carry out appropriate anti-fraud checks (by conducting online searches using a third party identity provider). Please note that this will not affect your credit rating; 
+  * to assess and manage any potential risks and prevent problem gambling. 
+
+
+
+**D) Under your consent**
+
+**Marketing and market research**
+
+We will send you relevant offers and news about our products and services in a number of ways including by email, sms, phone call, post, social media targeted advertising, but only if you have previously agreed to receive these marketing communications. When you register with us we will ask if you would like to receive marketing communications, and you can change your marketing choices online, over the phone or in writing at any time.
+
+We may use information which we hold about you to show you relevant advertising on third party sites (e.g. Facebook, Google, Instagram, Snapchat and Twitter). If you don’t want to be shown targeted advertising messages from us, some third party sites allow you to request not to see messages from specific advertisers on that site in future. If you want to stop all personalised services from us, including targeted advertising messages on third party sites you can contact our our [Help Centre](https://www.32red.com/help/casino) or by email at [DPO.officer@kindredgroup.com](mailto:dpo.officer@kindredgroup.com) to disable personalisation.
+
+We also like to hear your views to help us to improve our services, so we may contact you for market research purposes. You always have the choice about whether to take part in our market research.
+
+**E) Special categories of data**
+
+We will only process such data if:
+
+  * you have given us your explicit consent; 
+  * it is necessary for the purposes of carrying out the obligations and exercising specific rights of 32Red or of the data subject in the field of employment and social security and social protection law; 
+  * it relates to personal data which you have made public; 
+  * it is necessary for the establishment, exercise or defence of legal claims;
+  * is necessary for reasons of substantial public interest, on the basis of European Union or Member State law. 
+
+
+
+## 6\. Cookies and similar technologies
+
+32Red’s websites and Apps use cookies for various purposes:
+
+a. to identify the Account Holder's preferred language, so it can be automatically selected when the Account Holder returns to the Website;  
+b. to ensure that bets placed by the Account Holder are associated with the Account Holder's betting coupon and Account;  
+c. to ensure that the Account Holder receives any bonuses for which they are eligible, and  
+d. for analysis of the Website traffic, so as to allow 32Red to make suitable improvements.  
+
+
+More information can be found in our [Cookies Policy](https://www.32red.com/cookie-policy).
+
+## 7\. When do we share your personal information?
+
+We do not share your personal information to third parties outside the Kindred Group for marketing purposes. However, there are circumstances when we share your personal data with other companies in the Kindred Group, with third parties that provide services to you on our behalf, and with other third parties in the course of complying with our legal obligations. Other examples of when we share your personal information include when we enter any kind of merger or business sale. Even when it is shared, we ensure that your personal information will only be used for the purposes outlined in this policy.
+
+### Read more: When do we share your personal information?
+
+**With other companies within Kindred Group**
+
+We may share the personal data we collect with other companies in the Kindred Group for the following purposes:
+
+  * providing you with products and services and notifying you about either important changes or developments to the features and operation of those products and services;
+  * responding to your enquiries and complaints;
+  * administering offers, competitions, and promotions;
+  * facilitating the secure access to online platforms
+  * updating, consolidating, and improving the accuracy of our records
+  * undertaking transactional analysis;
+  * testing new systems and checking upgrades to existing systems;
+  * crime detection, prevention, and prosecution, as well as complying with regulatory requirements; 
+  * evaluating the effectiveness of marketing, and for market research and training;
+  * customer modelling, statistical and trend analysis, with the aim of developing and improving products and services.
+
+
+
+**With third parties**
+
+We may share personal data with third parties in the following circumstances:
+
+  * when ordered to do so by any regulatory body and/or under any legal provision contained in the governing law; 
+  * we may instruct and authorise the Financial Institution with which an Account Holder's account is held to disclose any information as may be requested by the Regulator in respect of an Account Holder's account;
+  * in order to establish, exercise or defend our legal rights;
+  * for fraud detection and control purposes, we may transfer your personal data to third parties, including but not limited to so-called Address Verification System service providers, Payment Service Providers and Financial Institutions. Furthermore, we reserve the right to disclose the Account Holder’s personal data to relevant parties where 32Red has reasonable grounds to suspect irregularities involving a 32Red Account;
+  * with service providers to enable us to provide our services, such as companies that help us with technology services, storing and combining data, and processing payments or providing relevant online advertising for our products and services; 
+  * with external auditors who may carry out independent checks as part of our accreditations
+  * to an organisation we sell or transfer (or enter into negotiations to sell or transfer) any of our businesses or any of our rights or obligations under any agreement we may have with you to. If the transfer or sale goes ahead, the organisation receiving your personal data can use your personal data in the same way as us; or
+  * to any other successors in title to our business.
+
+
+
+## 8\. Do we transfer your data outside the EEA?
+
+The personal data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by companies operating outside the EEA who work for us or for one of our service providers. For instance, the computer servers used to host a website could be located outside the EEA – this is not unusual given that the internet is a global environment. Your personal information could be held at a destination which offers a different level of data protection than in the EEA, including Australia, Serbia, India, US. To ensure your personal information remains safe when transferred like this, we will take all reasonable steps to maintain a suitable level of protection in line with this Policy.
+
+Any transfer of your personal information to a location outside the EEA will be based on:
+
+  * the contractual [Model Clauses](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en) adopted by the European Commission or a relevant data protection authority; or
+  * an [adequacy decision](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en) from the European Commission, confirming that the third country provides adequate protection for your personal information; or
+  * [Privacy Shield](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en) when transferring to the US (this is a form of certification which ensures that your data is handled in a way that is compatible with the strong EU protections); or
+  * Your consent, or another legal basis on which we are entitled to make the transfer. 
+
+
+
+## 9\. How long will 32Red keep my data?
+
+We will only retain your information for as long as is reasonably necessary to carry out the purposes outlined above and to satisfy our legal obligations. While you are a customer, we will usually need to retain your information to meet our legal and contractual requirements. However, when you cease using 32Red services, we will normally still retain your personal information for a period of time.
+
+Typically, we will store your personal information for a period of ten years after you cease being a customer of 32Red, beginning at the date your account is closed. There are several reasons which we retain your information, these include:
+
+  * To comply with legal obligations under EU/local laws (for example, anti-money laundering regulations, or licensing regulations);
+  * To establish or defend legal claims (for example negligence claims) which could be made against us.
+
+
+
+## 10\. Your rights & choices over your personal information
+
+We appreciate that by law and subject to certain conditions, you have a number of rights concerning the personal information we hold about you. If you wish to exercise these rights, you should contact our Data Protection Officer using the details set out above in Section 3. These rights include the right to access, amend and erase the personal information we hold about you, the right to object to the processing of your data, the right to withdraw consent, and the right to data portability. You also have the right to complain to your data protection authority if you are concerned with how we process your information. In addition, you have certain rights relating to automated decision-making and ‘profiling’. Further information and advice about your rights can be obtained from our lead data protection authority, IDPC or from your country’s data protection regulator.
+
+### Read more: Your rights & choices over your personal information.
+
+**Right to access and rectify the information we hold about you**
+
+You have a right to request a copy of the personal information we hold about you, known as a data subject access request. You also have the right to request that information we hold about you which may be incorrect, or which has been changed since you first told us, is updated or removed. These requests are free of charge and can be sent by email to our Data Protection Officer by email at [DPO.officer@kindredgroup.com](mailto:dpo.officer@kindredgroup.com) or by contacting our [Help Centre](https://www.32red.com/help/casino).
+
+**Right to delete your data**
+
+In some circumstances, you can ask us to erase personal information we hold about you (‘the right to be forgotten’). This includes when:
+
+  * the information is no longer necessary in relation to the purpose for which it was collected (as explained in our privacy notice);
+  * if you previously gave consent to the use of your information, but decide to withdraw it and we cannot justify another legal ground for using it under data protection law;
+  * we process your information based on our legitimate interests and we cannot demonstrate overriding legitimate grounds to continue processing the information;
+  * we don’t have a lawful ground under data protection law to process your information;
+  * the data has to be erased to comply with a legal requirement;
+
+
+
+This right is subject to mandatory retention periods under EU/local laws.
+
+**Right to restrict processing**
+
+You have the right to ask us to restrict (‘block’ or ‘suppress’) the processing of your personal information. When processing is restricted, we can still store your information, but will not use it further. We keep lists of people who have asked for further use of their information to be ‘blocked’ to make sure the restriction is respected in the future. This right is available to you when:
+
+  * you dispute the accuracy of the personal information (while we verify matters);
+  * the processing is unlawful, and you object to the erasure of the information and request that we restrict processing instead;
+  * we no longer need the data, but you require it to establish, exercise or defend a legal claim; and
+  * we process your information for our legitimate business interests but you object and while we verify the grounds for continued processing.
+
+
+
+**Right to Data Portability**
+
+You have the right to receive personal information you provide to us, in a ‘commonly used machine-readable format’. This allows you to obtain and reuse your information for your own purposes across different services. For example, if you decide to switch to a different provider, this enables you to move, copy or transfer your information easily between our IT systems and theirs safely and securely, without affecting its usability. This is not a general right however, and only arises when the processing of your information is:
+
+  * based on your consent or where it is necessary for the performance of a contract, and
+  * when the information is processed by solely by automated means.
+
+
+
+**Right to object**
+
+Based on your particular situation, you can object to the processing of your personal information, that is:
+
+  * based on our legitimate business interests (including profiling); or
+  * done for research and statistical purposes.
+
+
+
+You also have the right to object to the use of your personal information for direct marketing purposes (including profiling), such as when you receive emails from us notifying you about other Kindred Group services which we think will be of interest to you.
+
+**Right to withdraw consent**
+
+When we rely on your consent as the basis to process your personal information – such as for sales and marketing communications (see section 5D) – you have the right to withdraw your consent at any time. We’ll always strive to make it easy for you to withdraw consent by choosing an “unsubscribe” option in every communication you receive from us. If you find this isn’t the case, then just get in touch with our Data Protection Officer in the ways outlined above in Section 3, and we’ll try to fix things ASAP.
+
+**Rights related to automated decision making, including profiling**
+
+We sometimes use systems to make automated decisions based on your personal information. This helps us to make sure our decisions are quick, fair, efficient and correct, based on what we know. These automated decisions can affect the products, services or features we may offer you now or in the future, or the ability to use our services.
+
+We may use automate decisions making in the following situations:
+
+  * tailoring products and services – we may pace you in groups with similar customers (segments) to study and learn about preferences and your needs, and offer more tailored experience for you; 
+  * detecting fraud - we use your personal information to help decide and detect if your account may be being used for fraud or money-laundering. If we think there is a risk of fraud, we may block or suspend the account;
+  * opening account - when you open an account with us, we check that the product or service is relevant for you, based on what we know. We also check that you meet the conditions needed to open the account. This may include checking age, residency, nationality or financial position;
+  * risk assessment connected to your bet, as more particularly explained in section 5A.
+
+
+
+Data protection law seeks to safeguard individuals against harm that may arise from decision-making - including profiling - that takes place without human intervention. You have the right not to be subject to a decision - including profiling - when it is based on the automated processing of your personal information and it has a legal effect or a similarly significant effect on you.
+
+Please note that the right **does not apply** when the processing is:
+
+  * necessary for entering into or for the performance of a contract with you; or
+  * when it is authorised by law; or 
+  * when it is based on your explicit consent.
+
+
+
+## 11\. Security of your data
+
+32Red is committed to protecting the personal information you entrust to us. We take all reasonable steps to ensure that all information collected through our Sites is treated securely and in line with this Policy and strict data protection standards. Accordingly, we have adopted robust procedures and technologies to protect your data from unauthorised access and improper use.
+
+After logging in all information sent to and from the 32Red site is encrypted using 128-bit Secure Socket Layer (SSL) technology. The SSL certificate used is issued and verified by a carefully selected third party, click on the image for more information.
+
+Your credit card details are encrypted and sent only once over the Internet to 32Red. It is then stored encrypted in 32Red's secure systems. 32Red is dedicated to protecting our customers confidential information and, as part of doing so, 32Red is certified towards the Payment Card Industries Data Security Standard.
+
+The security of 32Red’s systems and applications are tested several times per year by third-party security experts. Furthermore 32Red has an Intrusion Detection System that monitors all network traffic 24/7 for signs of attacks or intrusions.
+
+32Red has a dedicated fraud department and advanced systems in place to detect and prevent suspicious activity, to ensure that 32Red’s website remains a secure playing-field. Any account involved in suspicious activity will be suspended and investigated to the fullest extent. Should you as user have any doubts about the activity on your account, such as unrecognized transactions in the transaction history or surprising changes in the balance, please contact us immediately.
+
+## 12\. Complaints
+
+If you wish to raise a complaint on how we have handled your personal data, you can contact us to have the matter investigated by emailing [DPO.officer@kindredgroup.com](mailto:dpo.officer@kindredgroup.com).
+
+If you are not satisfied with our response or believe we are processing your personal data not in accordance with the law you can complain to our lead data protection authority, the Office of the Information and Data Protection Commissioner [(IDPC)](https://idpc.org.mt/en/Pages/contact/complaints.aspx) or your national data protection regulator.
+
+## 13\. Changes to 32Red Privacy Notice
+
+This Privacy Notice may be updated from time to time to reflect changes in the way we work or the way our work is regulated - so you may wish to check it each time you submit personal information to us. The date of the most recent revisions will appear on this page. If you do not agree to these changes, please do not continue to submit personal information to 32Red or use 32Red services in any way. Otherwise, by continuing to do this, you will be deemed to have accepted the changes to the Privacy Notice. You can also delete your 32Red account at any time. If significant changes are made to the Privacy Notice, for instance affecting how we would like to use your personal information, we will provide a more prominent notice (including, for certain services, notification of Privacy Notice changes by email).
+
+Last updated: 15th May 2018, 12:00 GMT+1
