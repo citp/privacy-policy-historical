@@ -1,75 +1,106 @@
-> *The following text is extracted and transformed from the shiply.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712161652id_/https%3A//www.shiply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiply.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111200714id_/https%3A//www.shiply.com/privacy) for the most accurate reproduction.*
 
-# Shiply | Privacy Policy
+# Shiply > Privacy Policy
 
 At Shiply.com we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. 
 
-This Privacy Policy, together with our user agreement, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you.
+The policy: This privacy policy notice is for this website; [[www.shiply.com](https://www.shiply.com/)] and served by Shiply Limited whose registered office is Floor 3, 207 Regent Street, London, W1B 3HH and governs the privacy of those who use it. The purpose of this policy is to explain to you how we control, process, handle and protect your personal information while browsing or using this website, including your rights under current laws and regulations. If you do not agree to the following policy you may wish to cease viewing / using this website.
 
-We do update this Policy from time to time so please do review this Policy regularly.
+Policy key definitions:
 
-**Information We Collect**
-
-In operating our website we may collect and process the following data about you:
-
-i. Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs and other communication data.  
-ii. Information that you provide by filling in forms on our website, such as when you registered for information or make a purchase.   
-iii. Information provided to us when you communicate with us for any reason.  
-
-
-**Use of Cookies**
-
-On occasion, we may gather information about your computer for our services and to provide statistical information regarding the use of our website to our advertisers.
-
-Such information will not identify you personally, it is statistical data about our visitors and their use of our site. After personally this statistical data does not identify any personal details whatsoever.
-
-Similarly to the above, we may gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and the service that we provide to you.
-
-All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website.
-
-Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
-
-Third party vendors, including Google, show you ads on sites on the internet.
-
-Third party vendors, including Google, use cookies to serve ads based on your prior visits of this website.
-
-You may opt out of Google's use of cookies by visiting the Google [advertising opt-out page](http://www.google.com/privacy_ads.html).
-
-**Use of Your Information**
-
-The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes:
-
-i. To provide you with information requested from us, relating to our products or services. To provide information on other products which we feel may be of interest to you, where you have consented to receive such information.   
-ii. To meet our contractual commitments to you.  
-iii. To notify you about any changes to our website, such as improvements or service/product changes, that may affect our service.  
+  * "I", "our", "us", or "we" refer to the business, Shiply Limited.
+  * "you", "the user" refer to the person(s) using this website.
+  * GDPR means General Data Protection Act.
+  * PECR means Privacy & Electronic Communications Regulation.
+  * ICO means Information Commissioner's Office.
+  * Cookies mean small files stored on a users computer or device.
 
 
-If you are an existing customer, we may contact you with information about goods and services similar to those which were the subject of a previous sale to you.
 
-**Storing Your Personal Data**
+## Processing of your personal data
 
-Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into on our site will be encrypted to ensure its safety.
+Under the GDPR (General Data Protection Regulation) we control and / or process any personal information about you electronically using the following lawful bases.
 
-The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential.
+  * We are registered with the ICO under the Data Protection Register, our registration number is: ZA265651.
+  * **Lawful basis:** Consent   
+**The reason we use this basis:** Users and Transport providers consent by providing their personal information on the website.   
+**We process your information in the following ways:** Using secure databases.   
+**Data retention period:** We will continue to process your information under this basis until you withdraw consent or it is determined your consent no longer exists.   
+**Sharing your information:** We do share your personal information with third parties and they include; the transport provider or user you choose to transact with.
+  * **Lawful basis:** Contract   
+**The reason we use this basis:** When using the Shiply website, a contract is formed. This contract can be [viewed here](https://web.archive.org/terms).   
+**We process your information in the following ways:** Using secure databases.   
+**Data retention period:** We will continue to process your information under this basis until you withdraw consent or it is determined your consent no longer exists.   
+**Sharing your information:** We do share your personal information with third parties and they include; the transport provider or user you choose to transact with.
+  * **Lawful basis:** Legal obligation   
+**The reason we use this basis:** Data held for use by the government, HMRC and law enforcement.   
+**We process your information in the following ways:** Using secure databases.   
+**Data retention period:** We will continue to process your information under this basis until you withdraw consent or it is determined your consent no longer exists.   
+**Sharing your information:** We do share your personal information with third parties and they include; HMRC, government authorities and police/law enforcement.
+  * **Lawful basis:** Criminal offence data   
+**The reason we use this basis:** Data held for use by the government, HMRC and law enforcement.   
+**We process your information in the following ways:** Using secure databases.   
+**Data retention period:** We will continue to process your information under this basis until you withdraw consent or it is determined your consent no longer exists.   
+**Sharing your information:** We do share your personal information with third parties and they include; police/law enforcement.
 
-**Disclosing Your Information**
 
-Where applicable, we may disclose your personal information to any member of our group. This includes, where applicable, our subsidiaries, our holding company and its other subsidiaries (if any).
 
-We will disclose your personal information to transport providers with whom you have chosen to transact with (i.e. if you have accepted their quote). We may also disclose your personal information to third parties if:
+If, as determined by us, the lawful basis upon which we process your personal information changes, we will notify you about the change and any new lawful basis to be used if required. We shall stop processing your personal information if the lawful basis used is no longer relevant.
 
-i. we sell any or all of our business and/or our assets to a third party.  
-ii. we are legally required to disclose your information.  
-iii. To assist fraud protection and minimise credit risk. 
+## Your individual rights
 
-**Third Party Links**
+Under the GDPR your rights are as follows. You can read more about [your rights in details here](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/);
 
-You may find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
+  * the right to be informed;
+  * the right of access;
+  * the right to rectification;
+  * the right to erasure;
+  * the right to restrict processing;
+  * the right to data portability;
+  * the right to object; and;
+  * the right not to be subject to automated decision-making including profiling.
 
-**Access To Information**
 
-The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
 
-**Contacting Us**
+You also have the right to complain to the ICO [[www.ico.org.uk](https://www.ico.org.uk/)] if you feel there is a problem with the way we are handling your data.
 
-We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact via our [support centre](https://www.shiply.com/users/help). 
+We handle subject access requests in accordance with the GDPR. These should be sent to us at: [support@shiply.com](mailto:support@shiply.com).
+
+## Internet cookies
+
+We use cookies on this website to provide you with a better user experience. We do this by placing a small text file on your device / computer hard drive to track how you use the website, to record or log whether you have seen particular messages that we display, to keep you logged into the website where applicable, to display relevant adverts or content, referred you to a third party website.
+
+Some cookies are required to enjoy and use the full functionality of this website.
+
+Some cookies will be saved for specific time periods, where others may last indefinitely. Your web browser should provide you with the controls to manage and delete cookies from your device, please see your web browser options.
+
+Please see our list of cookies and more details on our [cookie policy page](https://web.archive.org/cookies).
+
+## Data security and protection
+
+We ensure the security of any personal information we hold by using secure data storage technologies and precise procedures in how we store, access and manage that information. Our methods meet the GDPR compliance requirement.
+
+## Transparent Privacy Explanations
+
+We have provided some further explanations about user privacy and the way we use this website to help promote a transparent and honest user privacy methodology.
+
+## Email marketing messages & subscription
+
+Under the GDPR we use the consent lawful basis for anyone subscribing to our newsletter or marketing mailing list. We only collect certain data about you, as detailed in the "Processing of your personal date" above. Any email marketing messages we send are done so through an EMS, email marketing service provider. An EMS is a third party service provider of software / applications that allows marketers to send out email marketing campaigns to a list of users.
+
+Email marketing messages that we send may contain tracking beacons / tracked clickable links or similar server technologies in order to track subscriber activity within email marketing messages. Where used, such marketing messages may record a range of data such as; times, dates, I.P addresses, opens, clicks, forwards, geographic and demographic data. Such data, within its limitations will show the activity each subscriber made for that email campaign.
+
+Any email marketing messages we send are in accordance with the GDPR and the PECR. We provide you with an easy method to withdraw your consent (unsubscribe) or manage your preferences / the information we hold about you at any time. See any marketing messages for instructions on how to unsubscribe or manage your preferences.
+
+Our EMS provider is; SendInBlue. We hold the following information about you within our EMS system;
+
+  * Email address;
+  * Data related to your previous transaction history;
+  * Username;
+  * Date & time you signed up with Shiply;
+
+
+
+## On-Site Advertising
+
+In conjunction with our in-house advertising, we use third-party advertising companies to place customized advertisements on the pages you view on the Site (eg Google Adsense). Our third-party advertising companies also separately place or recognize a cookie file on your browser in the course of delivering advertisements to the Site. These companies may use non-personal information collected by the cookies about your visits to the Site and other websites in order to provide you with advertisements about goods and services of interest to you.
