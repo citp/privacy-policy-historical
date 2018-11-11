@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymls.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071046id_/http%3A//www.recolorado.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymls.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111204123id_/http%3A//www.recolorado.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,6 +32,10 @@ If you provide personally identifiable information to us, please know we do not 
 ### Cookie Technology
 
 Cookie technology is employed when you access our site. The purpose of cookies is for us to track the uses of our site. “Cookies” are small text files sent by Web servers to be stored on the computers of website users. These files often contain personalization settings or unique identifiers, to keep track of your information and to help us understand the movements of users within and between websites. Cookies alone do not personally identify individuals. One may, however disallow receiving cookies at any time through the web browser settings.
+
+### Opting Out of Behavioral Advertising
+
+REcolorado adheres to the guidelines of the Network Advertising Initiative (“NAI”) and the Digital Advertising Alliance (“DAA”) Self-Regulatory Program for Online Behavioral Advertising, and has implemented opt-out procedures in accordance with those organizations’ programs. Some of our advertising service providers may also be members and offer an opt-out of behavioral advertising. You may want to visit [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp), which provides information regarding targeted advertising and the opt-out offered by NAI members. You may also want to visit [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/), which provides an opt-out by participating companies in the DAA Self-Regulatory Program. If you would like to opt-out of behavioral advertising controlled by REcolorado you may visit the NAI and DAA links provided above. Please note that REcolorado and other companies may still collect information when you are online and opting out through these mechanisms does not opt you out of being served advertising. You will continue to be served generic ads while online.
 
 ### Privacy Statement Changes
 
