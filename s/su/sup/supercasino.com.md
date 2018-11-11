@@ -1,72 +1,129 @@
-> *The following text is extracted and transformed from the supercasino.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175052id_/https%3A//www.supercasino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercasino.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111112910id_/https%3A//www.supercasino.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy outiside UK | SuperCasino.com
+# Privacy Policy | SuperCasino.com
 
-**Version 2.9 – 15/12/2015**
+**Version 2.10. – 11/05/2018**
 
-This policy sets out the basis on which Your personal data will be collected, held and used by Us, and how it is protected in accordance with the Data Protection (Bailiwick of Guernsey) Law 2001. SuperCasino is a trading name of NetPlay TV Group Ltd of 2 Victoria Street, Alderney, British Channel Islands, GY9 3UF. References to "SuperCasino" are taken to refer to NetPlay TV Group Ltd. We are regulated by the Alderney Gambling Control Commission and are registered with the Bailiwick of Guernsey’s Data Protection Office (Notification No. 011896). Should We for any reason elect to change this Privacy Policy the changes will be posted here, so that You are always kept informed of how We collect and use the information, and when We may disclose it to others.
+SuperCasino respects your right to privacy. We put in place security measures for your personal data and manage your personal data in accordance with applicable data privacy regulations.
 
-**General:** When You register with, deposit funds and place stakes, make a complaint, query or otherwise contact Us or engage with our services, You may be asked to provide information about Yourself and/or Your credit or debit card or other payment methods ( **“User Information”** ). We, or Our authorized third parties, may also collect information about Your computer including, where available, Your IP address, operating system and browser type. This is statistical data and does not identify You as an individual. This information will only be used for the purposes set out in this Privacy Policy. We comply with all appropriate laws and regulations related to personal data including the Data Protection Law (Bailiwick of Guernsey) 2001. By providing Your User Information, You agree that We may use and retain Your User Information in accordance with this Privacy Policy. 
+This Privacy Policy sets out how we manage your personal information and applies to BML Group Limited and it related European-registered companies that operate the commercial brands,  
+variously referred to as "We", "Us" or “Our” in this policy. This Policy does not apply to other companies within the wider Betssoncorporate group.
 
-**13.2. Data we collect:** We do not collect any sensitive personal data about You. However, We or Our authorised third parties may collect the following data from You:
+Our Privacy Promise is:
 
-  * Information that You provide when registering or interacting with our Service(s) including without limitation by filling in forms on Our Service(s) or the Website or when contacting us.
-  * Details of transactions carried out via Our Service(s) and/or the Website.
-  * Information about Your computer including, where available, Your IP address, operating system and browser type.
-  * Information about Your Internet usage obtained using a Cookie file which is stored on the hard drive of Your computer. By using this site You agree to the collection and use of this information by Us here at SuperCasino. 
-  * We may also combine information that you provide on one Service with information collected from other Services and/or with information which is publicly available or that we receive from other reputable sources. All information will be stored and used in accordance with this privacy policy.
-
-
-
-**What we use your information for:** Information held about You is used in the following ways:
-
-  * To process Your registration, set up and look after Your account (including checks made to age verify You and to guard against fraud);
-  * By us to administer the Games You play, inform You if You have won a prize or to inform You of a bonus awarded to You, and advise You how You can find out who has won a prize;
-  * Providing, maintaining, enhancing and personalizing the Service(s) and monitoring and analysing how Users use the Service(s) and Website;
-  * To build an accurate profile of You to try to ensure that the content on Our website is presented in the most effective manner for You and Your computer;
-  * To send You service information about Your Account and the Service(s), or when We have an offer that You can use with Your account (including by mail, phone, email, other electronic messaging services such as text or automated calling systems, or fax). Your information WILL NOT be passed on to other third parties for marketing purposes without Your consent;
-  * We may also mention You in Our promotional material or on the site if you win £10 or more. However, We would only ever mention an abbreviation of Your name, Your town and county. Your full name would never be used, nor any other information that could identify You without Your permission.
-  * Because We are regulated by the Alderney Gambling Control Commission, we may need to give them access to Your information as well. However, this information will only be used within the regulatory rules and guidelines that govern this site.
-  * We and Our authorised third parties may also use aggregated anonymous data for analysis and reporting but this data will not include any information that could personally identify You
-
-**13.4. When do we share your information:** We will not sell or rent Your email address or any of Your personal information. We will, however, share Your information in the following circumstances: -
-
-      * **To provide the Service(s):** We may from time to time use third parties to manage the Website or the Service(s) (or parts of the same), facilitate Our business, manage communications with You or otherwise provide services to Us in connection with the Website or the Service(s). Where these third parties process information on Our or Your behalf, We require those third parties to use User information only in accordance with Our instructions. Third parties which we may share your data with include without limitation the following:
-        * Marketing partners selected by Us (but We will never share Your data with a third party company for products not related to Your account unless You have explicitly allowed Us to);
-        * Our data storage providers; 
-        * Playtech Ltd, who provide many of Our games
-        * Third parties who help us validate Your registration information and confirm Your identity and provide fraud prevention and detection services. This third party will check Your details against their databases and will keep a record of this. They'll also keep Your personal details and may use them in the future to assist other companies with identity verification. By using our Service(s) You agree to all of this as well as authorising Us to confirm the accuracy of Your details using government-issued ID. 
-        * In order to use the Products, You will be required to send money to and receive money from Us. We may use third party electronic payment processors and/or financial institutions ("ESPs") to process such financial transactions. By using our Service(s), You expressly consent to Your personal information being shared with ESPs to the extent necessary for the processing of transactions, including, where necessary, the transfer of information outside of Your country. We take steps to ensure that Our arrangements with ESPs protect Your privacy. 
-      * **To other users:** If You post or share information on the Service(s) including without limitation commenting or messaging, then this is done at Your own risk. Please keep in mind that if You disclose personal information in Your profile or when posting comments, messages or other items, this information may become publicly available and We recommend You do not provide information which can identify You personally. The views expressed in any content or material which is submitted by users of the Services do not reflect Our views.
-      * **Aggregated anonymous data:** We may perform statistical analyses of User's behaviour and characteristics, along with sales, customers, traffic patterns and other site information, in order to measure interest in, and use of, the Service(s). We may provide Our analyses to prospective partners, investors, advertisers and other third parties. We may also share statistical and demographic information about Our Users and their use of the Website and the Service(s) with suppliers of advertisements and programming. We will provide only aggregated anonymised data from these analyses to third parties and this will not include anything that could be used to identify You or to discover individual information about You. We may also disclose and otherwise use de-identified information about Users.
-      * **Investigations:** We may access and disclose information including individually identifiable information to comply with applicable laws and to comply with requests from government bodies or regulators (such as the Gambling Commission (GB), the Alderney Gambling Control Commission, the National Crime Agency or the Guernsey Financial Intelligence Service (FIS)), to operate Our systems properly or to protect ourselves or Our users. We will share personal information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process anywhere in the world, such as a court order or subpoena, or a request by law enforcement, regulatory, supervisory or governmental authorities; (ii) such action is appropriate to enforce this Agreement, including any investigation of potential violations of the Agreement; (iii) such action is necessary to detect, prevent, or otherwise address illegal activities, fraud, security or technical issues; or (iv) such action is appropriate to protect the rights, property or safety of Us, Our employees, users of the Service(s) or others. In the case of a regulatory or legal authority, You will not be told of this disclosure or the reasons why and You'll be waiving any and all rights that You may have in connection with such disclosure. We may also share Your personal details with Our professional advisers or other appropriate third parties if we suspect any breach of this Agreement or in the event of a complaint by You about our Service(s).
-
-**Business transfer:** If we become involved in a merger, acquisition or other transaction involving the sale of some or all of Our business including without limitation Our assets or voting securities, User Information, including personal information collected from You, may be included in the transferred assets or securities. If this occurs, Your personal information would remain subject to this Privacy Policy. 
-
-**13.5. Updating Your Information:** You may update your information by contacting Our customer services department by emailing [support@SuperCasino.com](mailto:support@SuperCasino.com) or on +44 203 727 3931. We have strict procedures covering the storage and disclosure of Your information in order to prevent unauthorised access to comply with the Data Protection Law (Bailiwick of Guernsey) 2001. You are entitled to exercise Your right to access the information held about You but We may ask for proof of identity before We disclose personal information to You.
-
-**13.6. Our Marketing:** In accordance with the statement displayed at the point of registration, We may use Your User information in order to send You marketing information about Our products and services (including by mail, phone, email, other electronic messaging services such as text or automated calling systems, or fax). We may also contact You with information about Our products and services including special offers and rewards. Your information WILL NOT be passed on to other third parties for marketing purposes without Your consent. The following statement is prominently displayed to You before You register to use the Service(s): -
-
-"By registering and entering your details you consent to NetPlay and its group of companies sending you information about products and services that may be of interest to you. You also agree to our Privacy Statement that governs how your information will be processed. You can choose not to receive marketing at any time by contacting our Customer Services department at [support@SuperCasino.com](mailto:support@SuperCasino.com). Please note that you cannot unsubscribe from certain correspondence from us, including messages relating to your Account."
-
-**13.7. Cookies:**
-
-      * We use cookies on Our sites. Cookies are small bits of electronic information that a website sends to a visitor's browser and are stored on the visitor's hard drive. When You use those parts of the Service(s) ‘cookies' will be issued to Your system to keep track of Your personal preferences, to allow Us to provide information which is targeted to Your interests and to make Your online experience more convenient. You may refuse to accept ‘cookies' by activating the setting within Your browser. However, if You select this setting You may find certain parts of Our Service(s) are less enjoyable or work less well. Unless You have adjusted your browser setting so that it will refuse ‘cookies', they will be issued to Your system when You use some parts of Our Service(s). To find out how to disable/enable cookies click on the "Manage Cookies" section of the Interactive Advertising Bureau website on the following link: [www.allaboutcookies.org](http://www.allaboutcookies.org/). Some of Our web pages may also contain electronic images for something called 'pixel tracking' - this lets Us count how many people have visited Us. We may also carry pixel trackers placed by third party advertisers, but they don't have any information that could identify You.
-      * This Website also uses Google Analytics, a web analytics service provided by Google, Inc. Google Analytics also uses cookies to help the Website analyse how users use the Website. The information generated by the cookie about Your Use of the Website (including Your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating Your use of the Website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate Your IP address with any other data held by Google. By using this Website, You consent to the processing of data about You by Google in the manner and for the purposes set out above. Google's use of this data is governed by the Google Analytics Terms of Service ([www.google.com/analytics/tos.html](http://www.google.com/analytics/tos.html)) and Privacy Policy ([www.google.com/privacy.html](http://www.google.com/privacy.html)).
-
-**13.8. Security measures:** When You open an account at SuperCasino Your personal details are fully encrypted with 256-bit SSL (Secure Socket Layer) Digital Encryption to protect Your transactions with Us over the Internet. This technology is a global security standard and is used by major Financial Institutions and Online Gaming Institutions. In addition, we use up to date and secure firewall systems to protect Your credit or debit card details. To ensure the integrity of Your account and of all Our commercial transactions with You, We use Safecharge as Our primary e-Cash Merchant. Safecharge provide Us and Our players with secure, robust e-Cash processing as well as administering fraud prevention and detection activities through their integrated Anti-Fraud databases and procedures. If You would like to discuss our security measures, please feel free to contact Us at any time.
-
-**13.9.Transfer of your data outside the EEA:** Netplay is an Alderney based company. Although Alderney is in the Channel Islands it is not part of the European Economic Area so when You register with Us You are accepting that Your personal details will be sent out of the EEA. NetPlay is compliant and registered with The Guernsey Data Protection Commissioner under the Data Protection Law (Bailiwick of Guernsey) 2001. Our suppliers and subcontractors may also be based outside the EEA but we ensure that anyone We use to manage Your data provides an adequate level of protection for your data based on UK standards.
-
-**13.10.Third party Links:** On Our Website We have links to other websites - to point You in the direction of other information or advice. However, You need to be aware that these sites may have different security or Privacy Policies to Us. We cannot be responsible for any information You give to them. 
-
-Questions about this Privacy Policy can be addressed to:
-
-NetPlay TV Group Limited  
-2 Victoria Street,  
-Alderney,  
-British Channel Islands,  
-GY9 3UF 
+  * To keep your data safe and private.
+  * Not to sell your data.
+  * To give you ways to manage and review your marketing choices at any time.
 
 
 
+**1.Who we are:**
+
+Please note that the Data Controller of your personal data is BML Group Ltd, a Maltese company having its registered address at:
+
+'Betsson Experience Centre',  
+Ta' Xbiex Seafront,  
+Ta' Xbiex, XBX 1027, Malta.
+
+The principles set out in this Privacy Policy apply to all instances in which BML Group Ltd processes your personal data as a Data Controller for the purposes described in this Policy. BML Group Ltd is the Data Controller of the following companies part of Betsson Group.
+
+**2.What information do we collect from you?**
+
+Information You Provide: We collect information that you voluntarily provide when you use the Services, such as when you register as Supercasino customer.  
+The types of information that you provide are based on the specific function of the Services that you use and you won’t be able to register your account without providing the following information: 
+
+* Contact information: your name, surname, address, age, birth date, gender, email address, phone number, zip code. 
+* Financial information: in order to operate online payments, We collect your banking details and transactional information, such as the payments to and from your account with Us. 
+* Furthermore, due to Anti Money Laundering legal requirements We are required by the law to ask you for supplementary documents such as identification documents including your photo, documents regarding your source of wealth, utility bill and others.
+* Information We Receive from Third Parties: We may combine the information we collect from you with information that we receive about you from other sources, such as public databases, providers of demographic information and other third parties.  
+Due to regulatory requirements We collect know your customer (KYC) information from specialised third parties. Such information is collected only when it is reasonably necessary for the organisation’s activities.
+* Information collected automatically from your device: We and our third party service providers may collect information automatically from your device in a variety of ways, including:
+
+  * 2.1. Through your browser or device: Certain information is collected by most browsers or automatically through your device, such as your IP, device type, language and the Internet browser type you are using. We use this information to ensure that Our services function properly.
+  * 2.2. Through your use of an app: When you download and use one of our apps, we may track and collect app usage data, such as the date and time the app on your device accesses our servers and the information and files that have been downloaded to the app.
+  * 2.3. For more information about how we are using cookies, please read our Cookies Policy [here.](https://www.supercasino.com/terms-and-conditions)
+
+
+
+**3\. How do we use your personal information?**
+
+We will only process your Personal Data as described in this Privacy Policy. We use the information that we collect to operate our websites and to provide the services required by you, to operate your financial transactions, to respond to your questions, to fulfil all the regulatory requirements such as anti-fraud checks and other checks required by the anti-money laundering legislation.  
+As a few examples, the data held about you is used in the following ways:
+
+To process your registration, set up and look after your account (including checks made to age verify you and to guard against fraud);
+
+To administer the Games You play, to inform you if you have won a prize or to inform you of a bonus awarded to you;
+
+Providing, maintaining, enhancing and personalizing the Service(s) and analysing how customers use the Service(s) and Website;
+
+To know your preferences and to try to ensure that the content on Our website is presented in the most effective manner for you and your computer or mobile device;
+
+To send you service information about your account and the Service(s), or when We have an offer that you can use with your account to send you marketing communications.  
+By accessing your account settings you’ll have full control on marketing settings and you can opt-out at any time from receiving any marketing information.
+
+Also, in some cases We are using your personal information for research purposes, such as: to evaluate customer experience and identify how  
+We can improve Our services and products, to prioritize Our product features and improve product designs or to evaluate creative campaigns to ensure that communication is relevant and appropriate.
+
+We respect your privacy and work hard to ensure We meet strict regulatory requirements. However, we reserve the right,  
+to conduct additional processing to the extent required by law, or in support of any legal or criminal investigation.
+
+**What we surely won’t do:**
+
+We don’t sell your personal data to third parties.
+
+Your information WILL NOT be passed on to other third parties for marketing purposes without your consent. You can change your marketing preferences at any time, from your Account settings-> Marketing Settings.
+
+**4\. Who might we share your information with?**
+
+Your Personal Information may (for the purposes described in this Policy) be transferred or disclosed to any company within the Betsson Group and, subject to appropriate agreement with third parties,  
+for the processing of that Personal Information on our behalf, such as to:
+
+  * Our specific providers for voice calls services or SMS mobile communications, as externalised services.
+  * Our Payments Providers, based on your options in order to operate your payments, deposits and withdrawals.
+  * Our anti-fraud, risks and compliance providers, after implementing the contractual safeguards in order to protect your personal data, in order to fulfil our legal requirements. 
+  * Our partners that are helping us to create a better experience for you, based on your explicit consent.
+  * Also, from time to time we are sharing your personal data with our specialised partners for research purposes,  
+for analytic profiling and statistical analysis You have the right to object at any time to processing your data for research and statistics (including profiling) purposes,  
+by sending your objection at [dataprivacy@betssongroup.com](mailto:dataprivacy@betssongroup.com).
+
+
+
+Where required by law, your Personal Information may be disclosed to an applicable governmental, regulatory, sporting or enforcement authority.  
+Your Personal Information may also be disclosed to any regulatory or sporting body in connection with policing the integrity or enforcing the rules of a sport or game and/or prevention and detection of crime and with whom the Group has agreements (Memoranda of Understanding or "MOUs")  
+from time to time for the sharing of such data and where the Group considers that there are reasonable grounds to suspect that you may be involved in a breach of such rules or the law, have knowledge of a breach of  
+such rules or the law or otherwise pose a threat to the integrity of the relevant sport or game. Those bodies may then use your Personal Information to investigate and act on any such breaches in accordance with their procedures.  
+We do not pass on your data to third parties for any other purpose, unless you have given explicit permission for us to do so or this is permitted by law.
+
+**5\. How long do we keep hold of your information?**
+
+We will retain your information only for as long as is necessary for the purposes set out in this policy.  
+After closing your BRAND NAME account, We will retain your information just to the extent necessary to comply with Our legal obligations such as the applicable tax/revenue laws,  
+Anti Money Laundering laws and other applicable regulatory requirements and to resolve any disputes. For more specific information about data retention terms,  
+please contact us at [dataprivacy@betssongroup.com](mailto:dataprivacy@betssongroup.com) and we will provide the specific data retention terms for your jurisdiction.
+
+**6\. Your rights:**
+
+You may request, free of charge, information on the scope, origin and recipients of the stored data as well as the purpose of storage.  
+You have the right to ask Us to rectify, complete and delete your personal data and to port your data to another organization. You have the right to request additional information about the handling of your personal data. You also have the right to object to the processing of your data by Us in some circumstances such as profiling and, where we have asked for consent to process your data, to withdraw this consent. You have the right to lodge a complaint with a supervisory authority, with the mention that Our Lead Supervisory Authority is the Office of the Information and Data Protection Commissioner in Malta.  
+There are exceptions to these rights, however.  
+For example, access to personal data may be denied in some circumstances if making the information available would reveal personal information about another person or if  
+We are legally prevented from disclosing such information. In addition, We may be able to retain data even if you withdraw your consent, where We are obliged by a legal requirement to process your data,  
+such as the Anti Money Laundering legislation.
+
+**7\. How to contact Us:**
+
+The data controller responsible for your personal information for the purposes of the applicable European Union data protection law is: 
+
+BML Group Ltd, ATTN: Data Protection Officer,  
+'Betsson Experience Centre', Ta' Xbiex Seafront,  
+Ta' Xbiex, XBX 1027, Malta
+
+Email:[dataprivacy@betssongroup.com](mailto:dataprivacy@betssongroup.com).
+
+Our Data Protection Officer is Dr. Olga Finkel.  
+If you have any questions about this Privacy Policy or our data collection practices, please contact us at the address or email listed above and specify your country of residence and the nature of your question.
+
+**Changes to the terms of this Privacy Policy**
+
+We will occasionally make changes and corrections to this Privacy Policy and we’ll inform you by posting the changes on this site and sending you an email or message about the changes.  
+We will also give you the opportunity to consent to these material changes. Changes will be effective upon the posting of the changes and your acceptance of the changes.
