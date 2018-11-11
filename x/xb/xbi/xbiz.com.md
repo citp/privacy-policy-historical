@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xbiz.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511221552id_/http%3A//www.xbiz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xbiz.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111185319id_/https%3A//www.xbiz.com/privacy) for the most accurate reproduction.*
 
-# XBIZ | Adult Industry News | Adult Webmaster Resources
+# Privacy Policy - XBIZ.com
 
-Adnet Media (the “ ** _Company_** ”) respects your privacy and is committed to protecting it through this privacy policy (the “ ** _policy_** ”). This policy describes the types of information the Company may collect from you or that you may provide when you visit the website located at [www.xbiz.com](http://www.xbiz.com/) (the “ ** _Website_** ”) and the Company’s practices for collecting, using, keeping, protecting, and disclosing that information. 
+Adnet Media (the “ ** _Company_** ”) respects your privacy and is committed to protecting it through this privacy policy (the “ ** _policy_** ”). This policy describes the types of information the Company may collect from you or that you may provide when you visit the website located at [www.xbiz.com](https://www.xbiz.com/) (the “ ** _Website_** ”) and the Company’s practices for collecting, using, keeping, protecting, and disclosing that information. 
 
 This policy applies to information the Company collects: 
 
