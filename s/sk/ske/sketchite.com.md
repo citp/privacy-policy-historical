@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sketchite.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602225501id_/http%3A//www.sketchite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sketchite.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111073345id_/http%3A//www.sketchite.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
