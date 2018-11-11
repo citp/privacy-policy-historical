@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rickis.com privacy policy that was archived on 2017-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171217212708id_/http%3A//www.rickis.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rickis.com privacy policy that was archived on 2018-11-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181111032225id_/http%3A//www.rickis.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 
@@ -185,7 +185,7 @@
 <meta name="keywords" content=" ">
 
 
-	<link rel="stylesheet" href="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/css/normalize.css">
+	<link rel="stylesheet" href="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/css/normalize.css">
 
 
 
@@ -346,21 +346,21 @@
 
 
 
-<link href="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/lib/jquery/ui/jquery.ui.all.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/lib/jquery/ui/jquery.ui.all.css" type="text/css" rel="stylesheet">
 
 
 <!-- jQuery -->
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PCTXRD"></script><script type="text/javascript" async="" src="https://js.bronto.com/c/96zastzn4emjzulb8zms4az6ot8j2t7ivgz0p6lt2eei5xdiel/74d3929f42d9ba2d75edc95c2b67295ed1d84a1e8bb590a04e56f7920dbf1734/s/b.min.js"></script><script src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/lib/jquery/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PCTXRD"></script><script type="text/javascript" async="" src="https://js.bronto.com/c/96zastzn4emjzulb8zms4az6ot8j2t7ivgz0p6lt2eei5xdiel/74d3929f42d9ba2d75edc95c2b67295ed1d84a1e8bb590a04e56f7920dbf1734/s/b.min.js"></script><script src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/lib/jquery/jquery-1.8.3.min.js" type="text/javascript"></script>
 
-<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/js/jquery.bxslider.min.js"></script>
-<link rel="stylesheet" href="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/css/jquery.bxslider.css">
+<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/js/jquery.bxslider.min.js"></script>
+<link rel="stylesheet" href="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/css/jquery.bxslider.css">
 
 
-	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/lib/jquery/cookie/jquery.cookie.js" type="text/javascript"></script>
-	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/js/modernizr.js" type="text/javascript"></script>
-	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/js/yepnope.js" type="text/javascript"></script>
-	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/js/browserdetect.addbodyclass.js" type="text/javascript"></script>
-	<script type="text/javascript" src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/js/detectmobile.js"></script>	
+	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/lib/jquery/cookie/jquery.cookie.js" type="text/javascript"></script>
+	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/js/modernizr.js" type="text/javascript"></script>
+	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/js/yepnope.js" type="text/javascript"></script>
+	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/js/browserdetect.addbodyclass.js" type="text/javascript"></script>
+	<script type="text/javascript" src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/js/detectmobile.js"></script>	
 
 
 
@@ -369,13 +369,13 @@
 
 <script type="text/javascript">
   // PowerReview related settings
-  var pr_zip_location = "/on/demandware.static/-/Sites-rickis-storefront/default/v1513492901607";
+  var pr_zip_location = "/on/demandware.static/-/Sites-rickis-storefront/default/v1541831957645";
   var pr_merchant_id = "6690"; //THIS IS FOR STAGING/TEST ONLY! REPLACE WITH CLIENT SPECIFIC ID. 
 </script>
 
 
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/js/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/js/lib/html5.js"></script>
 <![endif]-->
 
 
@@ -400,7 +400,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -446,6 +452,33 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
@@ -455,16 +488,16 @@ CQuotient.getCQUserId = function () {
 
 
 
-	<link rel="stylesheet" href="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/css/print.css">
-	<link rel="stylesheet" href="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/css/fonts.css">
-	<link rel="stylesheet" href="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/css/style.css">
-	<link rel="stylesheet" href="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/css/jquery.jscrollpane.css">
-	<link rel="stylesheet" href="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/css/ticker-style.css">
+	<link rel="stylesheet" href="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/css/print.css">
+	<link rel="stylesheet" href="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/css/fonts.css">
+	<link rel="stylesheet" href="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/css/style.css">
+	<link rel="stylesheet" href="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/css/jquery.jscrollpane.css">
+	<link rel="stylesheet" href="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/css/ticker-style.css">
 
 
 
 <!--[if IE 9]>
-    <link rel="stylesheet" href="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/css/style_ie9.css" />
+    <link rel="stylesheet" href="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/css/style_ie9.css" />
 <![endif]--> 
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8; Cache-Control: no-cache"> 
@@ -485,14 +518,14 @@ CQuotient.getCQUserId = function () {
 
 	
 		
-		<link rel="stylesheet" href="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/css/jPushMenu.css">
-		<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/js/jPushMenu.js"></script>
-		<link rel="stylesheet" href="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/css/style-responsive.css">
-		<link rel="stylesheet" href="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/css/bronto-responsive.css">
+		<link rel="stylesheet" href="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/css/jPushMenu.css">
+		<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/js/jPushMenu.js"></script>
+		<link rel="stylesheet" href="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/css/style-responsive.css">
+		<link rel="stylesheet" href="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/css/bronto-responsive.css">
 		
  
-		<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/js/responsive.js"></script>
-		<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/js/jquery.rwdImageMaps.min.js"></script>
+		<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/js/responsive.js"></script>
+		<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/js/jquery.rwdImageMaps.min.js"></script>
 
 		<script type="text/javascript">; 
 			if (window.jQuery) {
@@ -542,7 +575,7 @@ var google_remarketing_only = true;
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/997485115/?value=0&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
-
+<script src="https://www.google.com/recaptcha/api.js"></script>
 
 <script>
 	dataLayer = [];
@@ -766,6 +799,10 @@ var google_remarketing_only = true;
 					</li>
 				
 					<li>
+						<a href="http://www.rickis.com/new-arrivals/sleepwear/">Sleepwear</a>
+					</li>
+				
+					<li>
 						<a href="http://www.rickis.com/new-arrivals/dresses/">Dresses</a>
 					</li>
 				
@@ -774,11 +811,23 @@ var google_remarketing_only = true;
 					</li>
 				
 					<li>
+						<a href="http://www.rickis.com/new-arrivals/leggings/">Leggings</a>
+					</li>
+				
+					<li>
 						<a href="http://www.rickis.com/new-arrivals/jeans/">Jeans</a>
 					</li>
 				
 					<li>
+						<a href="http://www.rickis.com/new-arrivals/skirts/">Skirts</a>
+					</li>
+				
+					<li>
 						<a href="http://www.rickis.com/new-arrivals/blazers/">Blazers</a>
+					</li>
+				
+					<li>
+						<a href="http://www.rickis.com/new-arrivals/outerwear/">Outerwear</a>
 					</li>
 				
 					<li>
@@ -798,9 +847,8 @@ var google_remarketing_only = true;
 				<div class="sublevel">
 					<ul class="sublevel">
 	<li><a href="http://www.rickis.com/web-exclusives/">Web Exclusives</a></li>
-        <li><a href="http://www.rickis.com/giftshop/">The Gift Shop</a></li>
-        <li><a href="http://www.rickis.com/afterhours/">After Hours Shop</a></li>
-        <li><a href="http://www.rickis.com/on/demandware.store/Sites-rickis-Site/default/GiftCert-Purchase">Gift Cards</a></li>
+       <li><a href="http://www.rickis.com/on/demandware.store/Sites-rickis-Site/default/GiftCert-Purchase">Gift Cards</a></li>
+       <li><a href="http://www.rickis.com/the-party-shop/">The Party Shop</a></li>
 </ul>
 				</div>
 			</li>
@@ -840,7 +888,11 @@ var google_remarketing_only = true;
 					</li>
 				
 					<li>
-						<a href="http://www.rickis.com/apparel/dresses-/">Dresses </a>
+						<a href="http://www.rickis.com/apparel/sleepwear/">Sleepwear</a>
+					</li>
+				
+					<li>
+						<a href="http://www.rickis.com/apparel/dresses/">Dresses</a>
 					</li>
 				
 					<li>
@@ -881,9 +933,8 @@ var google_remarketing_only = true;
 					<ul class="sublevel">
 	<li><a href="http://www.rickis.com/new-arrivals/">New Arrivals</a></li>
         <li><a href="http://www.rickis.com/web-exclusives/">Web Exclusives</a></li>
-        <li><a href="http://www.rickis.com/giftshop/">The Gift Shop</a></li>
-        <li><a href="http://www.rickis.com/afterhours/">After Hours Shop</a></li>
         <li><a href="http://www.rickis.com/on/demandware.store/Sites-rickis-Site/default/GiftCert-Purchase">Gift Cards</a></li>
+       <li><a href="http://www.rickis.com/the-party-shop/">The Party Shop</a></li>
 </ul>
 				</div>
 			</li>
@@ -923,7 +974,7 @@ var google_remarketing_only = true;
 					</li>
 				
 					<li>
-						<a href="http://www.rickis.com/accessories/sunglasses-readers/">Sunglasses &amp; Readers</a>
+						<a href="http://www.rickis.com/accessories/sunglasses/">Sunglasses</a>
 					</li>
 				
 					<li>
@@ -939,7 +990,7 @@ var google_remarketing_only = true;
 					</li>
 				
 					<li>
-						<a href="http://www.rickis.com/accessories/small-accessories/">Small Accessories</a>
+						<a href="http://www.rickis.com/accessories/home-gifts/">Home &amp; Gifts</a>
 					</li>
 				
 					<li>
@@ -957,8 +1008,7 @@ var google_remarketing_only = true;
 		
 			<li class="level-2-column sublevel-slot first we-here featuredContent">
 				<div class="sublevel">
-					<ul class="sublevel">
-        <li><a href="http://www.rickis.com/giftshop/">The Gift Shop</a></li>        
+					<ul class="sublevel">   
 	<li><a href="http://www.rickis.com/all-jewellery/">All Jewellery</a></li>
 	<li><a href="http://www.rickis.com/on/demandware.store/Sites-rickis-Site/default/GiftCert-Purchase">Gift Cards</a></li>
 </ul>
@@ -1012,15 +1062,11 @@ var google_remarketing_only = true;
 					</li>
 				
 					<li>
-						<a href="http://www.rickis.com/sale/leggings/">Leggings</a>
-					</li>
-				
-					<li>
 						<a href="http://www.rickis.com/sale/skirts/">Skirts</a>
 					</li>
 				
 					<li>
-						<a href="http://www.rickis.com/sale/outerwear/">Outerwear</a>
+						<a href="http://www.rickis.com/sale/blazers/">Blazers</a>
 					</li>
 				
 					<li>
@@ -1063,19 +1109,7 @@ var google_remarketing_only = true;
 			<ul class="sublevel">
 				
 					<li>
-						<a href="http://www.rickis.com/we-love/drop-a-hint/">Drop A Hint</a>
-					</li>
-				
-					<li>
-						<a href="http://www.rickis.com/we-love/sweaters-lookbook/">Sweaters Lookbook</a>
-					</li>
-				
-					<li>
-						<a href="http://www.rickis.com/we-love/holiday-lookbook/">Holiday Lookbook</a>
-					</li>
-				
-					<li>
-						<a href="http://www.rickis.com/we-love/holiday-2017-video/">Holiday 2017 Video</a>
+						<a href="http://www.rickis.com/we-love/outerwear-style-guide/">Outerwear Style Guide</a>
 					</li>
 				
 					<li>
@@ -1083,15 +1117,19 @@ var google_remarketing_only = true;
 					</li>
 				
 					<li>
-						<a href="http://www.rickis.com/we-love/outerwear-style-guide/">Outerwear Style Guide</a>
+						<a href="http://www.rickis.com/we-love/instant-outfit/">Instant Outfit</a>
 					</li>
 				
 					<li>
-						<a href="http://www.rickis.com/we-love/7-days-of-leggings/">7 Days of Leggings</a>
+						<a href="http://www.rickis.com/we-love/fit-solutions/">Fit Solutions</a>
 					</li>
 				
 					<li>
-						<a href="http://www.rickis.com/we-love/democracy/">Democracy</a>
+						<a href="http://www.rickis.com/we-love/celebrate-your-shape/">Celebrate Your Shape</a>
+					</li>
+				
+					<li>
+						<a href="http://www.rickis.com/we-love/ask-ricki%27s/">Ask Ricki's</a>
 					</li>
 				
 			</ul>
@@ -1380,7 +1418,7 @@ var google_remarketing_only = true;
 	
 		
 			<center>
-<div class="desktop-view" style="margin-top:15px; color:#ff00a8;"><a href="http://www.rickis.com/apparel/"><img alt="Extra 10% off Everything" src="http://www.rickis.com/on/demandware.static/-/Sites/default/dw3651195d/Rickis/Header Banner/DEC17_Extra10offEverything.jpg" title="Extra 10% off Everything"></a></div>
+<div class="desktop-view" style="color:#ff00a8; margin-top:15px"><a href="http://www.rickis.com/web-exclusives/"><img alt="40% off Web Exclusives " src="http://www.rickis.com/on/demandware.static/-/Sites/default/dw60772a5a/Rickis/Header Banner/Header-Nov10-40offWebEx.jpg" title="40% off Web Exclusives "></a></div>
 </center>	
 		
 	
@@ -1588,9 +1626,8 @@ var google_remarketing_only = true;
 					<div class="sublevel">
 						<ul class="sublevel">
 	<li><a href="http://www.rickis.com/web-exclusives/">Web Exclusives</a></li>
-        <li><a href="http://www.rickis.com/giftshop/">The Gift Shop</a></li>
-        <li><a href="http://www.rickis.com/afterhours/">After Hours Shop</a></li>
-        <li><a href="http://www.rickis.com/on/demandware.store/Sites-rickis-Site/default/GiftCert-Purchase">Gift Cards</a></li>
+       <li><a href="http://www.rickis.com/on/demandware.store/Sites-rickis-Site/default/GiftCert-Purchase">Gift Cards</a></li>
+       <li><a href="http://www.rickis.com/the-party-shop/">The Party Shop</a></li>
 </ul>
 					</div>
 				</li>
@@ -1622,6 +1659,12 @@ var google_remarketing_only = true;
 						</li>
 					
 						<li>
+							<a href="http://www.rickis.com/new-arrivals/sleepwear/">
+								Sleepwear
+							</a>
+						</li>
+					
+						<li>
 							<a href="http://www.rickis.com/new-arrivals/dresses/">
 								Dresses
 							</a>
@@ -1634,14 +1677,32 @@ var google_remarketing_only = true;
 						</li>
 					
 						<li>
+							<a href="http://www.rickis.com/new-arrivals/leggings/">
+								Leggings
+							</a>
+						</li>
+					
+						<li>
 							<a href="http://www.rickis.com/new-arrivals/jeans/">
 								Jeans
 							</a>
 						</li>
 					
 						<li>
+							<a href="http://www.rickis.com/new-arrivals/skirts/">
+								Skirts
+							</a>
+						</li>
+					
+						<li>
 							<a href="http://www.rickis.com/new-arrivals/blazers/">
 								Blazers
+							</a>
+						</li>
+					
+						<li>
+							<a href="http://www.rickis.com/new-arrivals/outerwear/">
+								Outerwear
 							</a>
 						</li>
 					
@@ -1664,7 +1725,7 @@ var google_remarketing_only = true;
 			
 				<li class="level-2-column sublevel-slot last we-here">
 					<div class="sublevel">
-						<p><a href="http://www.rickis.com/new-arrivals/"><img alt="New Arrivals" height="441" src="http://www.rickis.com/on/demandware.static/-/Sites-rickis-storefront/default/dwb46ae3f5/Cat Banners/DEC_Dropdown_Arrivals.jpg" title="New Arrivals" width="286"></a></p>
+						<p><a href="http://www.rickis.com/new-arrivals/"><img alt="New Arrivals" height="441" src="http://www.rickis.com/on/demandware.static/-/Sites-rickis-storefront/default/dw8de72f6b/Cat Banners/OCT-DropDowns.jpg" title="New Arrivals" width="286"></a></p>
 					</div>
 				</li>
 			
@@ -1702,9 +1763,8 @@ var google_remarketing_only = true;
 						<ul class="sublevel">
 	<li><a href="http://www.rickis.com/new-arrivals/">New Arrivals</a></li>
         <li><a href="http://www.rickis.com/web-exclusives/">Web Exclusives</a></li>
-        <li><a href="http://www.rickis.com/giftshop/">The Gift Shop</a></li>
-        <li><a href="http://www.rickis.com/afterhours/">After Hours Shop</a></li>
         <li><a href="http://www.rickis.com/on/demandware.store/Sites-rickis-Site/default/GiftCert-Purchase">Gift Cards</a></li>
+       <li><a href="http://www.rickis.com/the-party-shop/">The Party Shop</a></li>
 </ul>
 					</div>
 				</li>
@@ -1736,8 +1796,14 @@ var google_remarketing_only = true;
 						</li>
 					
 						<li>
-							<a href="http://www.rickis.com/apparel/dresses-/">
-								Dresses 
+							<a href="http://www.rickis.com/apparel/sleepwear/">
+								Sleepwear
+							</a>
+						</li>
+					
+						<li>
+							<a href="http://www.rickis.com/apparel/dresses/">
+								Dresses
 							</a>
 						</li>
 					
@@ -1790,7 +1856,7 @@ var google_remarketing_only = true;
 			
 				<li class="level-2-column sublevel-slot last we-here">
 					<div class="sublevel">
-						<p><a href="http://www.rickis.com/apparel/"><img alt="Apparel" height="441" src="http://www.rickis.com/on/demandware.static/-/Sites-rickis-storefront/default/dwe29fcb6c/Cat Banners/DEC_Dropdown_Apparel.jpg" title="Apparel" width="286"></a></p>
+						<p><a href="http://www.rickis.com/apparel/"><img alt="Apparel" height="441" src="http://www.rickis.com/on/demandware.static/-/Sites-rickis-storefront/default/dw9c2ee721/Cat Banners/OCT-DropDowns2.jpg" title="Apparel" width="286"></a></p>
 					</div>
 				</li>
 			
@@ -1825,8 +1891,7 @@ var google_remarketing_only = true;
 			
 				<li class="level-2-column sublevel-slot first we-here featuredContent">
 					<div class="sublevel">
-						<ul class="sublevel">
-        <li><a href="http://www.rickis.com/giftshop/">The Gift Shop</a></li>        
+						<ul class="sublevel">   
 	<li><a href="http://www.rickis.com/all-jewellery/">All Jewellery</a></li>
 	<li><a href="http://www.rickis.com/on/demandware.store/Sites-rickis-Site/default/GiftCert-Purchase">Gift Cards</a></li>
 </ul>
@@ -1860,8 +1925,8 @@ var google_remarketing_only = true;
 						</li>
 					
 						<li>
-							<a href="http://www.rickis.com/accessories/sunglasses-readers/">
-								Sunglasses &amp; Readers
+							<a href="http://www.rickis.com/accessories/sunglasses/">
+								Sunglasses
 							</a>
 						</li>
 					
@@ -1884,8 +1949,8 @@ var google_remarketing_only = true;
 						</li>
 					
 						<li>
-							<a href="http://www.rickis.com/accessories/small-accessories/">
-								Small Accessories
+							<a href="http://www.rickis.com/accessories/home-gifts/">
+								Home &amp; Gifts
 							</a>
 						</li>
 					
@@ -1908,7 +1973,7 @@ var google_remarketing_only = true;
 			
 				<li class="level-2-column sublevel-slot last we-here">
 					<div class="sublevel">
-						<p><a href="http://www.rickis.com/accessories/"><img alt="Accessories" height="441" src="http://www.rickis.com/on/demandware.static/-/Sites-rickis-storefront/default/dwf7d94018/Cat Banners/NOV_DropDowns_Accessories.jpg" title="Accessories" width="286"></a></p>
+						<p><a href="http://www.rickis.com/accessories/"><img alt="Accessories" height="441" src="http://www.rickis.com/on/demandware.static/-/Sites-rickis-storefront/default/dw5ea8faef/Cat Banners/OCT-DropDowns3.jpg" title="Accessories" width="286"></a></p>
 					</div>
 				</li>
 			
@@ -1986,20 +2051,14 @@ var google_remarketing_only = true;
 						</li>
 					
 						<li>
-							<a href="http://www.rickis.com/sale/leggings/">
-								Leggings
-							</a>
-						</li>
-					
-						<li>
 							<a href="http://www.rickis.com/sale/skirts/">
 								Skirts
 							</a>
 						</li>
 					
 						<li>
-							<a href="http://www.rickis.com/sale/outerwear/">
-								Outerwear
+							<a href="http://www.rickis.com/sale/blazers/">
+								Blazers
 							</a>
 						</li>
 					
@@ -2028,7 +2087,7 @@ var google_remarketing_only = true;
 			
 				<li class="level-2-column sublevel-slot last we-here">
 					<div class="sublevel">
-						<p><a href="http://www.rickis.com/sale/"><img alt="Sale" height="441" src="http://www.rickis.com/on/demandware.static/-/Sites-rickis-storefront/default/dwa90044fb/Cat Banners/NOV_DropDowns_Sale.jpg" title="Sale" width="286"></a></p>
+						<p><a href="http://www.rickis.com/sale/"><img alt="Sale" height="441" src="http://www.rickis.com/on/demandware.static/-/Sites-rickis-storefront/default/dwc17d191b/Cat Banners/FEB_DropDowns_Sale.jpg" title="Sale" width="286"></a></p>
 					</div>
 				</li>
 			
@@ -2070,26 +2129,8 @@ var google_remarketing_only = true;
 					<div class="menuCategoryHeader">header.showProductCategories</div>
 					
 						<li>
-							<a href="http://www.rickis.com/we-love/drop-a-hint/">
-								Drop A Hint
-							</a>
-						</li>
-					
-						<li>
-							<a href="http://www.rickis.com/we-love/sweaters-lookbook/">
-								Sweaters Lookbook
-							</a>
-						</li>
-					
-						<li>
-							<a href="http://www.rickis.com/we-love/holiday-lookbook/">
-								Holiday Lookbook
-							</a>
-						</li>
-					
-						<li>
-							<a href="http://www.rickis.com/we-love/holiday-2017-video/">
-								Holiday 2017 Video
+							<a href="http://www.rickis.com/we-love/outerwear-style-guide/">
+								Outerwear Style Guide
 							</a>
 						</li>
 					
@@ -2100,20 +2141,26 @@ var google_remarketing_only = true;
 						</li>
 					
 						<li>
-							<a href="http://www.rickis.com/we-love/outerwear-style-guide/">
-								Outerwear Style Guide
+							<a href="http://www.rickis.com/we-love/instant-outfit/">
+								Instant Outfit
 							</a>
 						</li>
 					
 						<li>
-							<a href="http://www.rickis.com/we-love/7-days-of-leggings/">
-								7 Days of Leggings
+							<a href="http://www.rickis.com/we-love/fit-solutions/">
+								Fit Solutions
 							</a>
 						</li>
 					
 						<li>
-							<a href="http://www.rickis.com/we-love/democracy/">
-								Democracy
+							<a href="http://www.rickis.com/we-love/celebrate-your-shape/">
+								Celebrate Your Shape
+							</a>
+						</li>
+					
+						<li>
+							<a href="http://www.rickis.com/we-love/ask-ricki%27s/">
+								Ask Ricki's
 							</a>
 						</li>
 					
@@ -2124,7 +2171,7 @@ var google_remarketing_only = true;
 			
 				<li class="level-2-column sublevel-slot last we-here">
 					<div class="sublevel">
-						<p><a href="http://www.rickis.com/we-love/"><img alt="We Love" height="441" src="http://www.rickis.com/on/demandware.static/-/Sites-rickis-storefront/default/dw97cbae1c/Cat Banners/DEC_Dropdown_WeLove.jpg" title="We Love" width="286"></a></p>
+						<p><a href="http://www.rickis.com/we-love/"><img alt="We Love" height="441" src="http://www.rickis.com/on/demandware.static/-/Sites-rickis-storefront/default/dw314c863e/Cat Banners/OCT-DropDowns4.jpg" title="We Love" width="286"></a></p>
 					</div>
 				</li>
 			
@@ -2214,13 +2261,10 @@ var google_remarketing_only = true;
 <div class="html-slot-container">
 	
 		
-			<!-- DEFAULT PROMOS -->
-<ul id="js-news">
-	<li class="news-item"><a href="http://www.rickis.com/Shipping.html"><span style="font-size:18px;"><strong>$3 SHIPPING</strong> ON $40+ ENTER <strong>SHIP 3</strong></span>&nbsp;<span style="font-size: 12px;">Details</span></a></li>
-	<li class="news-item"><a href="http://www.rickis.com/Shipping.html"><span style="font-size:18px;"><strong>$1 SHIPPING </strong>TO ANY RICKI'S STORE</span>&nbsp;<span style="font-size: 12px;">Details</span></a></li>
+			<ul id="js-news">
+	<li class="news-item"><span style="font-size:18px"><a data-dlg-options="{&quot;width&quot;:550,&quot;height&quot;:240,&quot;dialogClass&quot;:&quot;miniPromo&quot;}" href="http://www.rickis.com/3-dollar-shipping-promo_min40.html"><strong>$3 SHIPPING </strong>ON $40&nbsp;+ ENTER&nbsp;<strong>SHIP3&nbsp;</strong><span style="font-size:12px">DETAILS</span></a></span></li>
+	<li class="news-item"><span style="font-size:18px"><a data-dlg-options="{&quot;width&quot;:550,&quot;height&quot;:240,&quot;dialogClass&quot;:&quot;miniPromo&quot;}" href="http://www.rickis.com/3-dollar-shipping-promo_min40.html"><strong>$2 SHIPPING</strong>&nbsp;TO ANY RICKI'S STORE <span style="font-size:12px">DETAILS</span></a></span></li>
 </ul>
-
-<p><strong style="font-size: 18px; line-height: 1.6;"><strong style="line-height: 1.6;"><strong style="font-size: 18px; line-height: 1.6;"><strong style="line-height: 1.6;"><strong><strong>
 <style type="text/css">div.header-banner-2 {
 		display: none;
 	}
@@ -2273,7 +2317,7 @@ var google_remarketing_only = true;
 		});
 		jQuery('div.header-banner-2').show();
 	});
-</script></strong></strong></strong></strong></strong></strong></p>	
+</script>	
 		
 	
 </div> 
@@ -2610,7 +2654,7 @@ L5N 5M4</span></p>
 	<div class="inner-wrapper"> 
 		<div class="footer-actions clearfix"> 
 			<div class="newsletter">
-				<form action="http://info.rickis.com/public/webform/process/" method="post" id="email-alert-signup" validate="">
+				<form action="https://info.rickis.com/public/webform/process/" method="post" id="email-alert-signup" validate="">
 			        <input type="hidden" name="fid" value="ax8cnnza1sj0j5yk64htflexlzwiv">
 					<input type="hidden" name="sid" value="d84841a6158572f991522f76bf456623">
 					<input type="hidden" name="delid" value="">
@@ -2719,12 +2763,13 @@ L5N 5M4</span></p>
 		
 		<div class="content-asset"><!-- dwMarker="content" dwContentID="cdVBwiaagesCkaaadb68lunK7T" -->
 			<h6>Company</h6>
+
 <ul>
+	<li><a href="http://www.rickis.com/careers.html">Careers</a></li>
 	<li><a href="http://www.rickis.com/about-us.html">About Us</a></li>
 	<li><a href="http://www.rickis.com/end-poverty-for-women.html">End Poverty for Women</a></li>
-	<li class="desktop-view"><a href="http://www.rickis.com/careers.html">Careers</a></li>
 	<li><a href="http://www.rickis.com/contestsandlegal.html">Contests</a></li>
-	<li><a title="Mobile Club" href="http://www.rickis.com/MobileClub.html">Mobile Club</a></li>
+	<li><a href="http://www.rickis.com/MobileClub.html" title="Mobile Club">Mobile Club</a></li>
 	<li><a href="http://www.comark.ca/about.htm" target="_blank">Accessibility</a></li>
 </ul>
 		</div> <!-- End content-asset -->
@@ -2768,8 +2813,8 @@ L5N 5M4</span></p>
 
 			<p style="text-align: left;">Get exclusive deals, invites to members only events and much more!</p>
 
-			<p style="text-align: left;"><a href="http://www.rickis.com/on/demandware.store/Sites-rickis-Site/default/Account-StartRegister">Join Now</a><br>
-			<a href="http://www.rickis.com/myaccount">My Membership</a></p>
+			<p style="text-align: left;"><a href="https://www.rickis.com/on/demandware.store/Sites-rickis-Site/default/Account-StartRegister">Join Now</a><br>
+			<a href="https://www.rickis.com/myaccount">My Membership</a></p>
 			</td>
 		</tr>
 	</tbody>
@@ -2814,6 +2859,7 @@ L5N 5M4</span></p>
 <a href="http://www.symantec.com/ssl-certificates" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
 </tr>
 </tbody></table></div>
+<script type="text/javascript" data-channel="5af0b5d3dbec835eb1f8b653" src="//creator.zmags.com/channels.js"></script>
 </div>
 		</div> <!-- End content-asset -->
 	
@@ -2860,46 +2906,37 @@ L5N 5M4</span></p>
 <div class="bticker-inner visually-hidden">
 <div class="bticker">
 <ul class="bticker-slider">
-        <!-- Extra 10% off Everything-->
 	<li>
 	<div class="bticker-item">
-	<div class="bticker-item"><a href="http://www.rickis.com/apparel/"><img alt="Extra 10% off Everything" src="http://www.rickis.com/on/demandware.static/-/Sites/default/dwab8469ac/Rickis/Bottom Ticker/BottomTicker_Dec17_10offEverything.jpg" title="Extra 10% off Everything"></a></div>
+	<div class="bticker-item"><em><a href="http://www.rickis.com/web-exclusives/"><img alt="40% off Web Exclusives" src="http://www.rickis.com/on/demandware.static/-/Sites/default/dw2c7519c4/Rickis/Bottom Ticker/BottomTicker_Nov10_40offWebExclusives.jpg" title="40% off Web Exclusives"></a></em></div>
 	</div>
 	</li>
-	<!-- 50% off sweaters -->
 	<li>
 	<div class="bticker-item">
-	<div class="bticker-item"><a href="http://www.rickis.com/apparel/-sweaters--/"><img alt="50% off sweaters" src="http://www.rickis.com/on/demandware.static/-/Sites/default/dwbc70cf27/Rickis/Bottom Ticker/BottomTicker_Dec12_50offSweaters.jpg" title="50% off sweaters"></a></div>
+	<div class="bticker-item"><em><a href="http://www.rickis.com/apparel/"><img alt="30% off New Arrivals" src="http://www.rickis.com/on/demandware.static/-/Sites/default/dwad82a990/Rickis/Bottom Ticker/BottomTicker_Nov08_30offNew.jpg" title="30% off New Arrivals"></a></em></div>
 	</div>
 	</li>
-	<!-- 50% off Pants & Leggings -->
 	<li>
 	<div class="bticker-item">
-	<div class="bticker-item"><a href="http://www.rickis.com/apparel/pants-/"><img alt="50% off Pants &amp; Leggings" src="http://www.rickis.com/on/demandware.static/-/Sites/default/dwe813c5bd/Rickis/Bottom Ticker/BottomTicker_Dec07_PantsLeggings.jpg" title="50% off Pants &amp; Leggings"></a></div>
+	<div class="bticker-item"><em><a href="http://www.rickis.com/apparel/outerwear/"><img alt="40% off Outerwear" src="http://www.rickis.com/on/demandware.static/-/Sites/default/dw78161c0e/Rickis/Bottom Ticker/BottomTicker_Nov08_30offOuterwear.jpg" title="40% off Outerwear"></a></em></div>
 	</div>
 	</li>
-	<!-- 30% off reg price -->
 	<li>
 	<div class="bticker-item">
-	<div class="bticker-item"><a href="http://www.rickis.com/apparel/"><img alt="30% off Regular Price" src="http://www.rickis.com/on/demandware.static/-/Sites/default/dwe689540b/Rickis/Bottom Ticker/BottomTicker_Dec14_30offNewArrivals.jpg" title="30% off Regular Price"></a></div>
+	<div class="bticker-item"><em><a href="http://www.rickis.com/sale/"><img alt="Shop Sale" src="http://www.rickis.com/on/demandware.static/-/Sites/default/dw0127979e/Rickis/Bottom Ticker/BottomTicker_Nov08_30offSale.jpg" title="Shop Sale"></a></em></div>
 	</div>
 	</li>
-	<!-- 50% off Party Tops & Dresses-->
 	<li>
 	<div class="bticker-item">
-	<div class="bticker-item"><a href="http://www.rickis.com/afterhours/"><img alt="50% off Party Tops &amp; Dresses" src="http://www.rickis.com/on/demandware.static/-/Sites/default/dw0c16c3d4/Rickis/Bottom Ticker/BottomTicker_Dec17_50offParty.jpg" title="50% off Party Tops &amp; Dresses"></a></div>
-	</div>
-	</li>
-	<!-- Extra 40% off Sale Styles-->
-	<li>
-	<div class="bticker-item">
-	<div class="bticker-item"><a href="http://www.rickis.com/sale/"><img alt="Extra 40% off Sale Styles" src="http://www.rickis.com/on/demandware.static/-/Sites/default/dw1fbbe9bc/Rickis/Bottom Ticker/BottomTicker_Dec07_SaleStyles.jpg" title="Extra 40% off Sale Styles"></a></div>
+	<div class="bticker-item"><em><a href="http://www.rickis.com/the-party-shop/"><img alt="30% off Party Tops &amp; Dresses" src="http://www.rickis.com/on/demandware.static/-/Sites/default/dw2e2696cc/Rickis/Bottom Ticker/BottomTicker_Nov08_30offParty.jpg" title="30% off Party Tops &amp; Dresses"></a></em></div>
 	</div>
 	</li>
 </ul>
 </div>
 </div>
 </div>
+
+<p><em>
 <style type="text/css">.bticker-overlay {
 		display: block;
 		position: fixed;
@@ -3089,7 +3126,7 @@ L5N 5M4</span></p>
 			collapseTicker();
 		}, 5000);
 	});
-</script>	
+</script></em></p>	
 		
 	
 </div> 
@@ -3139,17 +3176,17 @@ L5N 5M4</span></p>
 <script src="/on/demandware.store/Sites-rickis-Site/default/Resources-Load?t=appresources"></script>
 
 
-	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/lib/jquery/ui/jquery-ui-1.9.2.js"></script>
-	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/lib/jquery/jcarousel/jquery.jcarousel.min.js" type="text/javascript"></script>
-	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/lib/jquery/tooltip/jquery.tooltip.min.js" type="text/javascript"></script>
-	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/lib/jquery/hashchange/jquery.ba-hashchange.min.js" type="text/javascript"></script>
-	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/lib/jquery/validate/jquery.validate.min-1.9.0.js" type="text/javascript"></script>
-	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/js/app.js"></script>
-	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/js/app.override.js"></script>
-	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/js/jquery.mousewheel.js"></script>
-	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/js/jquery.placeholder.js"></script>
-	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/js/jquery.jscrollpane.js"></script>
-	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/js/jquery.ticker.js"></script>
+	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/lib/jquery/ui/jquery-ui-1.9.2.js"></script>
+	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/lib/jquery/jcarousel/jquery.jcarousel.min.js" type="text/javascript"></script>
+	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/lib/jquery/tooltip/jquery.tooltip.min.js" type="text/javascript"></script>
+	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/lib/jquery/hashchange/jquery.ba-hashchange.min.js" type="text/javascript"></script>
+	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/lib/jquery/validate/jquery.validate.min-1.9.0.js" type="text/javascript"></script>
+	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/js/app.js"></script>
+	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/js/app.override.js"></script>
+	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/js/jquery.mousewheel.js"></script>
+	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/js/jquery.placeholder.js"></script>
+	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/js/jquery.jscrollpane.js"></script>
+	<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/js/jquery.ticker.js"></script>
 
 
 
@@ -3321,7 +3358,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 /* <![CDATA[ */
 function trackPage() {
     try{
-        var trackingUrl = "http://www.rickis.com/on/demandware.store/Sites-rickis-Site/default/__Analytics-Tracking";
+        var trackingUrl = "http://www.rickis.com/on/demandware.store/Sites-rickis-Site/default/__Analytics-Start";
         var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
         if (typeof dw.ac == "undefined") {
             dwAnalytics.trackPageView();
@@ -3333,9 +3370,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/internal/jscript/dwanalytics-16.9.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1513492901607/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="/on/demandware.static/Sites-rickis-Site/-/default/v1541831957645/internal/jscript/dwac-18.10.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 </body></html>
