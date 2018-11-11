@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the betfair.com privacy policy that was archived on 2018-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624222755id_/http%3A//www.betfair.com/en/aboutUs/Privacy.Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the betfair.com privacy policy that was archived on 2018-11-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181111095431id_/http%3A//www.betfair.com/aboutUs/Privacy.Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>Betfair</title>
@@ -76,7 +76,7 @@ var betfair = {
         }
     }
 };    </script>
-            <link type="text/css" rel="stylesheet" media="all" href="//cache.cdnbf.net/www/ALL_BRANDS/GBR/en/prospect/css/generic_text_page.css?ver=8.82">
+            <link type="text/css" rel="stylesheet" media="all" href="//cache.cdnbf.net/www/ALL_BRANDS/GBR/en/prospect/css/generic_text_page.css?ver=8.85">
     </head>
 <body id="Privacy_Policy" class="www ALL_BRANDS GBR en prospect aboutUs Privacy_Policy">
     <a href="#" class="button-back-to-top"></a>
@@ -151,7 +151,7 @@ var betfair = {
             <h2 id="privacy">Introduction</h2>
             <p>This Policy applies to our websites, application, products or services that link to this policy or do not have a separate privacy policy (collectively our “Services”).</p>
             <p>This purpose of this privacy policy is to give you a better understanding of:</p>
-            <ul>
+            <ul class="bold">
                 <li><a href="#collected-info">Information we collect</a></li>
                 <li><a href="#using-information">How do we use this information</a></li>
                 <li><a href="#information-shared">How is the information shared</a></li>
@@ -365,9 +365,9 @@ var betfair = {
         </div>
     </div>
 </div>
-    <script type="text/javascript" src="//cache.cdnbf.net/www/ALL_BRANDS/GBR/en/prospect/js/thirdparty/jquery.js?ver=8.82"></script>
+    <script type="text/javascript" src="//cache.cdnbf.net/www/ALL_BRANDS/GBR/en/prospect/js/thirdparty/jquery.js?ver=8.85"></script>
 <script type="text/javascript" src="//cache.cdnbf.net/l/i13n/latest/deps.js"></script>
-<script type="text/javascript" src="//cache.cdnbf.net/l/i13n/latest/i13n-min.js?ver=8.82"></script>
+<script type="text/javascript" src="//cache.cdnbf.net/l/i13n/latest/i13n-min.js?ver=8.85"></script>
 <script type="text/javascript">
         YUI({bootstrap: false}).use('*', function (Y) {
         var about_us_i13n = new Y.i13n({
@@ -393,6 +393,7 @@ var betfair = {
         var documentName = pathArray[pathArray.length - 1]; // current document name
         var downloadButton = $('.downloadPage');
         var listOfMainRootPages = ["aboutUs", "conocenos", "juegoresponsable", "sportsbookrules"]; // needed for selected menu item in DL pages
+        var bactToTopBtn = $("a.button-back-to-top");
         // If there is a "/" at the end of path, go one level deeper
         if (documentName === "") {
             documentName = pathArray[pathArray.length - 2]; // current document name
@@ -405,9 +406,21 @@ var betfair = {
             }
         }
         
-        $("a.button-back-to-top").css("position", "absolute"); // reset positioning on load
+       bactToTopBtn.css("position", "absolute"); // reset positioning on load
         $(document).scroll(function() {
-            $("a.button-back-to-top").css("top", $(document).scrollTop() + $(window).height()/2-16);// the number 16 is half of the element size to make sure it's positioned centered
+		
+            bactToTopBtn.css("top", $(document).scrollTop() + $(window).height()/2-16);// the number 16 is half of the element size to make sure it's positioned centered
+            if ($(this).scrollTop() > 100) {
+				bactToTopBtn.fadeIn(200);
+			} else {
+				bactToTopBtn.fadeOut(200);
+			}
+        });
+		
+		$("a.button-back-to-top").click(function() {      // When arrow is clicked
+            $('body,html').animate({
+                scrollTop : 0                       // Scroll to top of body
+            }, 500);
         });
 
         updateView({'pathArray': pathArray, 'hash': hashValue, 'documentName': documentName}); // update the view using the current selection
