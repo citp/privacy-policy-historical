@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the testerkorea.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520020743id_/http%3A//testerkorea.com/Guide/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testerkorea.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111101337id_/http%3A//www.testerkorea.com/Guide/privacy_policy) for the most accurate reproduction.*
 
-# TesterKorea - Beauty Trend Setter From Korea
+# TesterKorea | Korea Cosmetics | Korean Beauty Products | K-Beauty | Global Online Shop
 
 
     This English translation is provided for your reference purposes only, and is not legally binding. 
