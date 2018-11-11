@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crystalidea.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181728id_/https%3A//www.crystalidea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalidea.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111072315id_/https%3A//www.crystalidea.com/privacy-policy) for the most accurate reproduction.*
 
 # CrystalIDEA Privacy Agreement
 
@@ -6,13 +6,11 @@ CrystalIdea Software has created this privacy policy in order to demonstrate its
 
 **Collecting Information:** Generally, we do not collect any personally identifiable information from individuals unless specifically provided by the individual. For example, when you request information regarding our products, promotions or warranties, you voluntarily provide your name, company, contact address, e-mail address and type of CrystalIdea Software products and supporting equipment you own or use. 
 
-We may also collect and store statistics and other information about the online activities of our visitors on an aggregate basis.
+Our website uses Google Analytics, a service which transmits website traffic data to Google servers in the United States. Google Analytics does not identify individual users or associate your IP address with any other data held by Google. We use reports provided by Google Analytics to help us understand website traffic and webpage usage.
 
 **Using Information:** Though we have the utmost respect for your privacy, any communication or material you transmit to the site by electronic mail or otherwise, is and will be treated as, nonconfidential and nonproprietary. As a general rule, we will not sell, rent, or lease your personally identifiable information and will not disclose your personally identifiable information to others except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it. We use your personal information primarily to fulfill purchases and prizes, to track compliance with our Terms and Conditions of Use, for research purposes or for marketing and promotional purposes.
 
-**Cookies:** This site does not collect any cookies.
-
-In some cases we may track or collect information about your use of our site by the numeric address assigned to the computer you are using (your IP address) or by the URLs that you come from or leave to. These methods also allow us to resolve server problems or administer our site. Generally, we do not associate this information with any other personally identifiable information that you may have provided to us.
+**Cookies:** Google Analytics service may store 3 cookies on your PC ('_ga', '_gid' and '_gat'). In some cases the website may store 2 additional cookies ('source' and 'campaign') which track how a user came to the website (e.g. 'uninstalltool' and 'dlgabout' when a user came from the Uninstall Tool about dialog). We use this information to track purchases.
 
 **Security:** We use industry standard efforts (such as a secure sockets or secure socket layer where appropriate) to safeguard the confidentiality of your personally identifiable information. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure.
 
