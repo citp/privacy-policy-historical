@@ -1,113 +1,119 @@
-> *The following text is extracted and transformed from the mobilebet.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702055729id_/https%3A//www.mobilbet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilebet.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111170438id_/https%3A//www.mobilebet.com/privacy-policy) for the most accurate reproduction.*
 
-# Mobilbet Privacy Policy
+# Mobilebet Privacy Policy
 
 **Privacy Policy**  
-Co-Gaming Limited Privacy Policy  
-Last Updated 12/05/2014
+Mobilebet   
+Last Updated: 23.05.2018  
+Version: 0.1
 
 **Introduction**
 
-Co-Gaming Limited wants visitors to its Website to know that we are just as concerned as you are about the privacy of any personal information that you may choose to provide us. Your privacy is important to you and to us so we will protect the information you share with us. To protect your privacy, Co-Gaming Limited follows different principles in accordance with worldwide practices for customer privacy and data protection. 
+Mobilebet takes privacy seriously and is providing the users (“You”) of its Service, available through the Website (www.mobilebet.com) and/or mobile applications, with the below information as to what kind of personal information is collected and what is done with this information. This policy, together with our general terms and conditions, describes how Mobilebet collects and uses Your personal information. It also describes Your rights and the choices available to You regarding Our use of Your personal information and how You can access and update this information. If You have questions or complaints regarding Our privacy policy or practices, please contact Our Data Protection Officer at dpo@mobilebet.com.
 
-This privacy policy, together with our general 
+Personal information is that information which relates to an identified or identifiable user, and can include information such as name and surname, residential address and copies of passports. Where Mobilebet collects and determines the means of processing of Your personal information, it will act as data controller.
 
-[_terms and conditions_](https://www.mobilbet.com/terms/)
+Mobilebet adheres to and complies with the General Data Protection Regulation and other relevant European and national regulations, legal notices and similar instruments that may be in force from time to time.
 
-describes how Co-Gaming Limited collects and uses the personal information you provide on our Website http://www.mobilbet.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. If you have questions or complaints regarding our privacy policy or practices, please contact us at Customer Support (at) mobilbet.com. 
+**Categories of information and Purpose of Processing**
 
-**Collection and Use of Personal Information**
+We may collect the following personal information from You to comply with our legal obligations (including but limited to gaming and anti-money laundering regulation):
 
-We collect the following personal information from you: 
+* Contact Information such as name, surname, date of birth, residential address, email address, phone number;  
 
-  * Contact Information such as name, surname, date of birth, residential address, Email address, phone number;   
+* Official documents such as passport or identity document which includes a photograph of yourself;  
 
-  * Financial and Billing Information such as credit card number, name and surname of credit card holder, expiry date of credit card, CVC code, billing address, name of bank and Bank Account number;   
+* Responsible gaming limits; and  
 
-  * Official documents such as passport or identity document which includes a photograph of yourself.   
+* Correspondence information such as a record of your communication with our Customer Support Team via email and live chat.  
+We may also process anonymised behavioural information and provide such to third party research organisations in order to prevent gambling-related issues.
 
-  * As is true of most Websites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. We use this information to:   
+In addition, We may collect the following information from You to provide to you with our Service:
 
-  * Administer your Account;   
+* Username, Internet Protocol (IP) address, browser type, demographic and geo-location information from your device and/or hardware, referring/exit pages, and operating system  
 
-  * Provide you with quality customer service;   
+* Device ID, installed software, browser cookies and in-game information;  
 
-  * Respond to your questions and concerns;   
+* Financial and Billing Information such as credit card number, name and surname of credit card holder, expiry date of credit card, billing address, name of bank and bank account number; and  
 
-  * Send you requested product or service information;   
+* Information related to your subscription to our Mailing List such as name, surname and email address.  
+We also collect, process and retain Your personal information where We deem that We have a legitimate interest to do so for the pursuit of Our commercial and business objectives, and if such processing does not prejudice Your right to privacy, including situations such as:  
 
-  * Send product updates;   
+* when We provide You with marketing updates, newsletters and bonus information,   
 
-  * Send you newsletters;   
+* when We update and carry out maintenance on the Service and for troubleshooting,  
 
-  * Send you marketing communications;   
+* when We prevent and investigate fraud and other misuses  
+Should You require any further information regarding processing of Your personal information based on legitimate interest, please contact Our DPO at dpo@mobilebet.com. _Opt-out for Marketing_
 
-  * Send you prizes;   
+If You do not wish to receive marketing communications from Us, At any time, You may choose to update the way You hear from Us by tweaking the preferences and the options in the ‘Newsletter Settings’ found in the area ‘My Account’ on Our Website.
 
-  * Conduct KYC (Know Your Client) and AML (Anti-money laundering) procedures. 
+**Information Sharing**
 
+We share Your personal information with companies that provide services to help Us deliver the Services requested by You and help Us with our business activities such as but not limited to card and payment processing, customer service, marketing, data storage providers and business intelligence. We have a contractual relationship with all these companies which ensures that Your personal information which is shared, is strictly processed as necessary to provide these services to Us.
 
+We may also disclose your personal information as follows: 
 
-**Choice/Opt-Out**  
-You may choose to stop receiving our newsletters or marketing Emails by ?switching off? the options in the ?Newsletter Settings? found in the area ?My Account? on our Website or you can contact us at Customer Support (at) mobilbet.com. 
+* As required by law such as to comply with a subpoena, or similar legal process;  
 
-**Facebook Connect or Open ID**  
-You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and Email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Website to your profile page to share with others within your network. 
+* To comply with our legal and regulatory duties and responsibilities towards the relevant licensing and regulatory authorities as well as all duties and responsibilities owed under any other applicable legislation and to any other applicable regulators in other jurisdictions;   
 
-**Chat**  
-We use a chat feature to assist you with all your questions and concerns regarding our products and services. Our chat service requires you to insert name, username and Email so that our customer care agents can find your Account in the back office. If our chat feature is offline we will collect your name and Email address so that we may reply to your request. 
+* When We believe, in good faith, that disclosure is necessary to protect our rights, protect Your safety or the safety of others, investigate fraud, or respond to a government request;   
 
-**Information Sharing**  
-We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.   
-We may provide your personal information to companies that provide services to help us with our business activities such as but not limited to card processing, payments, identity verification and customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. 
+* If We are involved in a merger, acquisition, or sale of all or a portion of assets, in which case, You will be notified via email and/or a prominent notice on Our Service of any change in ownership or uses of Your personal information, as well as any choices You may have regarding Your personal information;   
 
-We may also disclose your personal information: 
+* When we collaborate with third party organisations in order to identify instances of match-fixing; and  
 
-  * As required by law such as to comply with a subpoena, or similar legal process;   
+* To any other third party with Your prior consent to do so.   
+In certain instances, We are also legally obliged to verify your identity through the use of third party service providers with which We share personal information and obtain personal information from. We are entitled to form decisions based on the information supplied from these service providers. The above sharing of personal information may involve transfers of personal information to third countries outside of the EU/EEA.
 
-  * To comply with our legal and regulatory duties and responsibilities to the relevant licensing and regulatory authorities as well as all duties and responsibilities owed under any other applicable legislation and to any other applicable regulators in other jurisdictions;   
+**Transfers of personal data outside the EU**
 
-  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;   
+Your personal data may be disclosed to located outside the EU/EEA in accordance with applicable legislation and in accordance with this Policy. Where We share your personal information with third parties located outside of the EU/EEA, We ensure that Our contractual relationship with such third party contains adequate safeguards in respect of Your personal information. We only enter into contractual relationships with third parties who guarantee a comparable standard of data protection to EU/EEA countries.
 
-  * If Co-Gaming Limited is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via Email and/or a prominent notice on our Website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information;   
+**Miscellaneous**
 
-  * To any other third party with your prior consent to do so. 
+ _Social media platforms_  
+If You choose to communicate through social media platforms, the information You provide is tied to your personal social media account. You will need to contact the social media platform directly in order to exercise any of your rights or request removal of communications between You and Us on the platform in question. _Cookies_  
+We use cookies to help the site work properly and to improve your user experience. We may use cookies, for example, to keep track of Your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information. _Third Party Cookies_  
+We make use of active JavaScript contents from third party providers such as FeatureSpace Limited and Google Analytics on our Service which may therefore access Your personal information when You access our Service. This might constitute a transfer of Your personal information to countries which are not situated in the EU/EEA area. You can avoid this by disabling JavaScript in Your personal browser. However, if You do so, the functionality of Our Service may be severely impaired and You might not be able to access our Service. In these cases, We exclude any liability arising from third party content on our Service. _Widgets_  
+Our Service includes social media features, such as the Facebook ‘Like’ button and widgets, such as the ‘Share this’ button or interactive mini-programs that run on Our Service. These features may collect Your IP address, which page You are visiting on Our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on Our Service. Your interactions with these features and widgets are governed by the privacy policy of the third party service provider. _Links to Other Websites_  
+Our Service includes links to other websites whose privacy practices may differ from those of Mobilebet. If You submit personal information to any of those sites, Your information will be governed by the third party privacy policies. We encourage You to carefully read the privacy policy of any website which You visit. _Surveys or Contests_  
+From time-to-time We may provide you with the opportunity to participate in contests or surveys on Our site. If You participate, We will request certain personally identifiable information from You. Participation in these surveys or contests is completely voluntary and You therefore have a choice whether or not to disclose this information. _Testimonials_  
+We post customer testimonials/comments/reviews on Our Service which may contain personally identifiable information. We do obtain the prior customer's consent via email prior to posting the testimonial to post their name along with their testimonial. To request removal of Your personal information from Testimonials or comments please contact us at dpo@mobilebet.com.
 
+**Data Retention**
 
+We will retain your information for as long as your account is active, but also after closure, howsoever occurring, in accordance with Our data retention policy and in accordance with the respective laws and regulations. The criteria used to set the respective retention periods for the different kinds of personal information which We collect and process depend on the respective retention periods stipulated under various laws and regulations, including anti-money laundering laws.
 
-**Cookies**  
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information. 
+If You wish to cancel Your account or request that We no longer use Your information to provide You with the Service, please contact Us at support@mobilebet.com. Cancelling Your account and/or requesting data erasure does not always mean that We are legally allowed to do so. Following closure, We will retain and use Your personal information as necessary to comply with Our legal obligations, resolve disputes, and enforce Our agreements.
 
-**Third Party Cookies**  
-The use of cookies by our partners, affiliates, service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, service providers use session ID cookies to make it easier for you to navigate our site. 
+**Security**
 
-**Widgets**  
-Our Website includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+The security of Your personal information is important to Us. We follow generally accepted industry standards to protect the personal information submitted to Us, both during transmission and once We receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, We cannot guarantee its absolute security. The transmission of all information collected on Our Service is encrypted using secure socket layer technology (SSL). Mobilebet complies with Payment Card Industry (PCI) Data Security Standards.
 
-**Correcting Personally Identifiable Information**  
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, or deactivate it by making the change on our Website in the area ?My Account? or by Emailing our Customer Support at Customer Support (at) mobilbet.com. 
+**Your Rights**
 
-**Links to Other Websites**  
-Our Site includes links to other Websites whose privacy practices may differ from those of Co-Gaming Limited. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Website you visit. 
+You have the following rights with respect to the personal information that We hold about You: 
 
-**Surveys or Contests**  
-From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). 
+* If you would like to know what personal data we hold about you, please contact us on dpo@mobilebet.com; The right to update incomplete personal information. The easiest way to do so is enter the necessary changes in the “My Account” Section;  
 
-**Testimonials**  
-We post customer testimonials/comments/reviews on our website which may contain personally identifiable information. We do obtain the customer's consent via Email prior to posting the testimonial to post their name along with their testimonial. To request removal of your personal information from Testimonials or comments please contact us at Customer Support (at) mobilbet.com. 
+* The right to withdraw Your consent where we process Your personal information based on Your consent and the right to object to processing;  
 
-**Data Retention**  
-We will retain your information for as long as your Account is active or as needed to provide you services. If you wish to cancel your Account or request that we no longer use your information to provide you services contact us at Customer Support (at) mobilbet.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+* The right to lodge a complaint with the Malta Information and Data Protection Commissioner should You feel that Your rights under the General Data Protection Regulation (Regulation (EU) 2016/679) have been breached – You also have the right to lodge a complaint with the respective supervisory authority of the Member State of Your habitual residence, place of work or place of an alleged infringement;  
 
-**Security**  
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. The transmission of all information collected on our Site is encrypted using secure socket layer technology (SSL).   
-Co-Gaming Limited complies with Payment Card Industry (PCI) Data Security Standards. 
+* The right to transmit Your personal information to another data controller. Your personal information will be provided to You in a structured, commonly used and machine-readable format.  
 
-**Notification of Privacy Policy Changes**  
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by Email (sent to the e-mail address specified in your Account) or by means of a notice on our Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If you have questions about this Privacy Policy or want to contact us regarding how we handle your data, please send an Email to Customer Support (at) mobilbet.com or write to us at:   
-Co-Gaming Limited  
-Block A, Suite 3,  
-177, Skyway Offices,  
-Marina Street,  
-Pieta, PTA 9042  
+* Although You have the right for Your data to be erased, in some cases We may not be able to remove it entirely.
+
+**Notification of Privacy Policy Changes**
+
+We may update this privacy policy to reflect changes to Our information practices. If We make any material changes which significantly affect any of Your rights, We will notify You by email (sent to the e-mail address specified in Your account) or by means of a notice on Our Service prior to the change becoming effective. We encourage You, however, to periodically review this policy for the latest information on Our privacy practices. If You have questions about this Privacy Policy or want to contact Us regarding how we handle Your personal information, please send an email to our Data Protection Officer dpo@mobilebet.com or write to us at: 
+
+Mobilebet  
+Attn: Data Protection Officer  
+3rd Floor, Spinola Park,  
+Triq Mikiel Ang Borg  
+St. Julians,  
+SPK1000  
 Malta
