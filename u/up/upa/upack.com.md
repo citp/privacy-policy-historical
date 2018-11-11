@@ -1,33 +1,67 @@
-> *The following text is extracted and transformed from the upack.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220044851id_/http%3A//www.upack.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upack.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111230230id_/https%3A//www.upack.com/about/privacy.asp) for the most accurate reproduction.*
 
-# U-Pack® Privacy Policy | U-Pack
+# Privacy Policy | U-Pack
 
-U-Pack® Moving is committed to protecting your privacy. We use the information we collect to provide you the most robust Internet applications in the transportation industry. However, all information about you stored on our site will never be released to anyone without your consent. Please read on for more information on U-Pack Moving's commitment to your privacy.
+_Effective Date: 9/20/2018_
 
-##  Where is my information saved and protected?
+We understand that when you move with U-Pack®, you’re trusting us with more than your belongings. Because we’re committed to protecting your privacy, we take several steps to ensure your personal information is secure — and we don’t sell your records. Take a look at this page (our “Privacy Policy”) which describes how we collect and use data on our site and through our sites third-party applications, then review ways you can manage your information.  
 
-Your personal and shipment information is stored in a central, secure source in our mainframe system. All calls from the Internet to access this information must pass through our secure site.
+This policy applies only to our website, upack.com, and the personal information we collect via this site. It does not apply to any third party site or service linked to our website or recommended or referred by our website, or by our personnel.
 
-##  How does U-Pack protect my credit card information?
+## What we collect
 
-All credit card information is encrypted by digital certificates using Secure Sockets Layer (SSL). Credit card information is then stored on a computer that is not connected to the Internet. For more information about SSL, read the [Secure Sockets Layer](http://www.verisign.com/products-services/security-services/ssl/ssl-information-center/how-ssl-security-works/index.html) at the Verisign site.
+  * Personal information (name, address, telephone number, e-mail address and credit card information) 
+    * In order to quote, book and arrange services for you we will also collect information regarding your move including origin location, destination location, moving dates and residence size
+  * Site analytics which document your interactions with us through our website — this may include your IP address, type of browser or device you are using, operating system, ISP and referring URL 
+    * We use cookies, web pixels and related technologies to track the usage of our site by visitors, analyze visitor usage, maintain the site, personalize the site, and to understand and improve your experience on the site
+    * We also use third party service providers to help us monitor and improve the site who may use similar technologies to collect and process the same information
+  * Demographic information from our website users and from third party providers
+  * We allow our customers to review our services and take surveys both through our website and through third party sites
 
-##  Does the U-Pack site use cookies?
 
-Certain information is stored in your cookie file; however, none of your personal or shipment information is stored in cookies. We believe cookies provide a safe and secure way to improve the usability of the site. For more information about cookies, read the [Cookie and Privacy FAQ](http://www.microsoft.com/info/cookies.mspx) at microsoft.com.
 
-##  Privacy Policies of other Web sites
+## How we use the information we collect
 
-This site contains links to other sites. Upack.com at [http://www.upack.com](https://web.archive.org/) is not responsible for the privacy practices nor the content of other sites.
+  * Providing quotes
+  * Performing services and fulfilling your requests
+  * Collecting payment
+  * Identifying you on our site
+  * To complete your move
+  * Conducting research and analysis
+  * Marketing and advertising purposes
 
-##  Will U-Pack Moving disclose the information it collects to third parties?
 
-We employ other companies and individuals to perform services for us, such as analyzing data, providing marketing assistance, and offering additional customer service. They have access to your information as necessary to perform those services for us, but they are not permitted to use it for any other purposes. Otherwise, unless approved by you, U-Pack Moving will not sell, rent or trade your information to others. In other words, all information about you stored on our site will never be released to anyone without your consent.
 
-In addition, from time to time, we may use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web Sites in order to provide advertisements about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+## How we share your information
 
-Please note that by using the U-Pack Moving Web site, you consent to the collection and use of this information by U-Pack Moving. If we decide to change this privacy policy, alterations will be posted to this page. U-Pack Moving is committed to protecting your privacy.
+U-Pack may disclose information with third-party vendors and service providers that work with U-Pack or to other U-Pack affiliated companies. We will only share information to these vendors and service providers to help us provide a product or service to you or that provide products or services which are complementary to our services or are frequently utilized by our customers during a move. Examples of third parties we work with are call center operators, transportation service providers, motor carriers, moving labor providers, information processors or financial institutions. Third parties which help us provide the services to you only have access to the information necessary for them to complete their service.
 
-Please note that we updated this privacy policy on July 2, 2007 to clarify that we share information with companies that assist us in providing services to our customers, and they may only use that information to assist us, not for their own purposes. What has not changed is that we will not sell, rent, or trade your information to others without your consent.
+U-Pack may be required to disclose personal information for legal purposes including disclosures to regulatory authorities, law enforcement agencies, government agencies, or through other legal processes. We may also share information when we believe it's necessary to comply with the law or to respond to a government request, or when we believe disclosure is necessary or appropriate to protect U-Pack, our customers or others.
 
-We practice permission marketing. If you would like to remove yourself from receiving future messages please visit our [opt out page](https://web.archive.org/un.asp). In any event, U-Pack will never provide your e-mail address to third parties.
+## How we protect your information
+
+We employ physical, administrative and technical safeguards and security techniques to appropriately protect confidential information from unauthorized access, use and disclosure. Payment information provided to us is processed in accordance with PCI DSS guidelines and may be tokenized for enhanced security. Because transmitting information to us over the internet involves networks, computers and devices for which we have no control or oversight we cannot guarantee the 100% security of information provided to us via the internet.
+
+## Website Service Providers and third party tracking
+
+We utilize third party services on our website to assist with customer support, helpdesk support and other customer relationship tasks. These third parties may utilize their own cookies, pixels and other tracking technologies to collect information about you and to track you. Those activities will be governed by the third parties own privacy policies. We also use third parties to assist us in our marketing and advertisement targeting. These services will utilize tracking pixels and similar technology to track and serve advertisements to you on other websites. In order to opt out of such tracking you can utilize the following opt out link for the services provided by NAI members: <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+## Referrals, Blogs, and Third Party Websites
+
+We may provide links to other websites or refer you to third party websites for services. As these websites are not owned or controlled by U-Pack this Privacy Policy will not be applicable. Third party websites will have their own privacy policies which will govern the information collected and how it is used when you utilize those websites. You can leave comments and reviews on various portions of our Website. Such comments are publicly accessible and viewable. We will have no control and cannot limit or prevent persons from reading, collecting and using the information you provide in those areas.
+
+## You’re in control
+
+You can unsubscribe from our email communications by visiting: <https://www.upack.com/un.asp>. If you have any questions about our Privacy Policy, feel free to contact us by sending an email to [privacy@upack.com](mailto:privacy@upack.com).
+
+## Do Not Track
+
+We do not monitor, recognize or respond to any opt-out or do not track mechanisms, including general web browser “Do Not Track” settings and/or signals.
+
+## Usage by minors
+
+Children are not eligible to use U-Pack's services, and we ask that minors not submit any personal information to us.
+
+## Amendment of our Privacy Policy
+
+We may change this Privacy Policy at any time by posting a new version on this page or on a successor page. The new version will become effective on the date it’s posted, which will be listed at the top of the page as the new Effective Date.
