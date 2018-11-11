@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philosophy.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602131912id_/http%3A//www.philosophy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philosophy.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111023854id_/http%3A//www.philosophy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # privacy policy | philosophy
 
