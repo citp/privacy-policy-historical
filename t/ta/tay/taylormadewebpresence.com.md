@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taylormadewebpresence.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720024127id_/http%3A//taylormadewebpresence.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylormadewebpresence.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111211350id_/http%3A//taylormadewebpresence.com/privacy) for the most accurate reproduction.*
 
-# TaylorMade Web Presence Privacy Policy | TaylorMade Web Presence
+# TaylorMade Web Presence Privacy PolicyTaylorMade Web Presence
 
 The [TaylorMade Web Presence](http://taylormadewebpresence.com/ "TaylorMade Web Presence - Taylor Bare CEO and Chief Developer") Privacy Policy
 
