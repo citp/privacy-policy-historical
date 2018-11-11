@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itcarlow.ie privacy policy that was archived on 2018-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180421224939id_/http%3A//www.itcarlow.ie/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itcarlow.ie privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111204142id_/https%3A//www.itcarlow.ie/privacy.htm) for the most accurate reproduction.*
 
 # ITCarlow - The website of the Institute of Technology Carlow, based in the southeast of Ireland
 
@@ -27,3 +27,5 @@ IT Carlow will not disclose any personal information obtained from its web site 
 ####  **Contact Information**
 
 This statement explains the Internet Privacy policy that IT Carlow has adopted for its websites. However, in legal terms it shall not be construed as a contractual undertaking. IT Carlow reserves the right to review and amend this statement at any time without notice.
+
+**[Data-Protection and Privacy Notice for our Students »](https://www.itcarlow.ie/resources/data-protection.htm)**
