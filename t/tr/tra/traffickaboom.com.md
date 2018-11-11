@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traffickaboom.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112015909id_/http%3A//www.vtargeter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffickaboom.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111132847id_/http%3A//www.vtargeter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy —
 
