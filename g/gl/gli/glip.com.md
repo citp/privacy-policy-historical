@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the glip.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614192928id_/https%3A//www.ringcentral.com/legal/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glip.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111200034id_/https%3A//www.ringcentral.com/legal/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy Notice | RingCentral
 
-We updated the RingCentral Privacy Policy on May 22, 2018. These changes will be effective June 22, 2018, to customers who signed up for RingCentral service before May 22, 2018. View a record of the previous [Privacy Notice](https://web.archive.org/legal/privacy-notice_09112017.html).
+We updated the RingCentral Privacy Notice on November 30, 2018
 
-RingCentral, Inc. and its worldwide subsidiaries are committed to protecting your privacy. This Privacy Notice (“ **Notice** ”), (“ **RingCentral** ”, “ **us** ”, “ **we** ”, “ **our** ”) explains our privacy practices and provides information on how and why we collect, use and share your personal data through our interaction with you and through our products and services and. when you visit our international websites, available at [www.ringcentral.com](https://web.archive.org/), [www.ringcentral.ca](https://www.ringcentral.ca/), [www.ringcentral.co.uk](https://www.ringcentral.co.uk/), [www.ringcentral.sg](https://www.ringcentral.sg/), [www.ringcentral.fr](https://www.ringcentral.fr/), [www.ringcentral.ie](https://www.ringcentral.ie/), [www.ringcentral.nl](https://www.ringcentral.nl/), [www.ringcentral.au](https://www.ringcentral.au/), and its sub-domains (" **Website** "), our desktop, IP desk phone, and mobile applications (" **App** ") or use our unified cloud communications and collaboration platform (" **Services** "). The policy also describes your choices regarding use, access, deletion and correction of your personal information.
+RingCentral, Inc. and its worldwide subsidiaries are committed to protecting your privacy. This Privacy Notice ( **“Notice”** ), (collectively **“RingCentral”** , **“us”** , **“we”** , **“our”** ) explains our privacy practices and provides information on how and why we collect, use and share your personal data through our interaction with you and through our products and services and. when you visit our international websites, available at [www.ringcentral.com](https://web.archive.org/), [www.ringcentral.ca](https://www.ringcentral.ca/), [www.ringcentral.co.uk](https://www.ringcentral.co.uk/), [www.ringcentral.sg](https://www.ringcentral.sg/), [www.ringcentral.fr](https://www.ringcentral.fr/), [www.ringcentral.ie](https://www.ringcentral.ie/), [www.ringcentral.nl](https://www.ringcentral.nl/), [www.ringcentral.com.au](https://www.ringcentral.com.au/), and its sub-domains ( **"Website"** ), our desktop, IP desk phone, and mobile applications ( **"Apps"** ) or use our unified cloud communications and collaboration platform ( **"Services"** ). The policy also describes your choices regarding use, access, deletion and correction of your personal information.
 
-RingCentral’s Privacy Notice applies to Customers (including Customer’s End Users) and Users (all other individuals who use the RingCentral products or website) provide directly to us when they use our Website, Apps, or Services.
+RingCentral’s Privacy Notice applies to Customers (including Customer’s End Users) and Users (all other individuals who use the RingCentral products or website) provide directly to us when they use our Website, Apps, or Services. If you have any questions or concerns about our use of your personal information, please contact us using the contact details provided at the bottom of this Notice.
 
 ## QUICK LINKS
 
@@ -22,18 +22,22 @@ We recommend that you read this Notice in full to ensure you are fully informed.
   * Data retention
   * International data transfers
   * Children`s privacy
-  * Changes to notice
+  * Updates to this Notice
   * Contact Us
 
 
 
 ## INFORMATION WE COLLECT
 
+The personal information that we may collect about you broadly falls into the following categories:
+
 _Information which you provide to us_
+
+Certain parts of our Website and Services may ask you to provide certain personal information. The personal information that you are asked to provide, and the reasons you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
 
 We collect information which you provide directly to us when you use our Website, Apps or Services. The types of personal information we may collect directly from you include email addresses, postal addresses, phone numbers, employee names, usernames, information about the type of service required, marketing preferences, job titles, credit card payment information, transactional information (including Services purchased), as well as any communications, inquiries, contact or other information you choose to provide during your use of the Services.
 
-When you provide personal information we will only use this information for the specific reason for which it is provided. If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at [privacy@ringcentral.com](mailto:privacy@ringcentral.com).
+When you provide this personal information, we will only use this information for the specific reason for which it is provided. If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at [privacy@ringcentral.com.](mailto:privacy@ringcentral.com)
 
 _Information we collect automatically when you visit our Website or Apps or use our Services_
 
@@ -43,7 +47,7 @@ Usage information – We keep track of your activity in relation to the Website,
 
   * 1\. Traffic data about the communications that take place through our platform (such as calls, team chat, video conferencing, SMS,) to enable us to transmit those communications effectively and efficiently;
   * 2\. Network Monitoring data to enable us to maintain the security and agility of our internal networks;
-  * 3\. Log data about you when they use the Services, Website or Apps including Internet Protocol (" **IP** ") address, Internet Service Provider (" **ISP** "), browser type, referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site;
+  * 3\. Log data about you when they use the Services, Website or Apps including Internet Protocol ( **"IP"** ) address, Internet Service Provider **("ISP"** ), browser type, referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site;
   * 4\. Device data about any device including mobile phone number and other information related to mobile devices like operating system and model if you use our Services via our Apps. For other devices information collected by cookies and other similar technologies. We use various technologies to collect information which may include saving cookies to your computers;
   * 5\. Call Detail Records of data record produced by a telephone call or other telecommunications transactions. The record contains various attributes of the call, such as time, duration, completion status, source number and destination number;
   * 6\. Meta data, which is data created about other data which can include size, formatting, other characteristics of a data item;
@@ -52,11 +56,11 @@ Usage information – We keep track of your activity in relation to the Website,
 
 
 
-Cookies and other similar technologies – We use various technologies to collect information which may include cookies when you visit our Website, or use our Apps or Services. Please see the [RingCentral Cookies Notice](https://web.archive.org/cookies.html) for further information.
+Cookies and other similar technologies – We use various technologies to collect information which may include cookies when you visit our Website or use our Apps or Services. Please see the [RingCentral Cookies Notice](https://web.archive.org/cookies.html) for further information.
 
 _Information we collect from third parties_
 
-We may collect the names, e-mail addresses, postal addresses and city of residence of individuals from third parties to market our products / services to these individuals. This collection of information and marketing is always carried out in compliance with applicable law.
+We may collect the names, e-mail addresses, postal addresses and city of residence of individuals from third parties to market our products / services to these individuals. This collection of information and marketing is always carried out in compliance with applicable law. We only receive this information where we have checked that these third parties either have your consent or these third parties are otherwise legally permitted or required to disclose your personal information to us.
 
 We may receive personal information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine this data with information we already have about you, in accordance with applicable laws. This helps us to update, expand and analyze our records, identify new customers, and provide products and services that may be of interest to you.
 
@@ -74,13 +78,13 @@ We may use the information we collect from you for a range of purposes, includin
   * Investigate and prevent fraudulent activities, unauthorized access to the Website, Apps or Services, and other illegal activities; and
   * For any other purposes about which we notify and receive your consent from you;
   * To help personalize your experience and retarget you for advertising purposes;
-  * Respond to inquiries and equests and to provide you with information and access to resources that you have requested;
-  * Analyze and aggregate your and use of the Website, Apps or Services for trend monitoring, marketing advertising purposes; and
+  * Respond to inquiries and requests and to provide you with information and access to resources that you have requested;
+  * Aggregate and analyze your and use of the Website, Apps or Services for trend monitoring, marketing advertising purposes; and
   * Send you technical alerts, updates, security notifications, and administrative communications.
 
 
 
-We and our third-party marketing service providers may also use the information Customers send to us for our marketing purposes, if this is in accordance with your marketing preferences and applicable law. However, you may opt out of our marketing. For further information, see the " _[Unsubscribe](https://go.ringcentral.com/unsubscribepage.html) from Our Mailing List"_ section below.
+We and our third-party marketing service providers may also use the information Customers send to us for our marketing purposes, if this is in accordance with your marketing preferences and applicable law. However, you may opt out of our marketing. For further information, see the _["Unsubscribe from our mailing List"](https://go.ringcentral.com/unsubscribepage.html)_ section below.
 
 _Legal basis for processing personal information (EEA only)_
 
@@ -96,16 +100,17 @@ If you have questions about or need further information concerning the legal bas
 
 ## SHARING AND DISCLOSURE OF INFORMATION TO THIRD PARTIES
 
-We may share and disclose your information we collect with the following third parties:
+We will not rent or sell personal information about you. We may share and disclose your information that we collect with the following third parties:
 
   * RingCentral or any of its worldwide affiliates consistent with this Notice for data processing;
   * Business partners, contractors, vendors, and authorized third party agents, to:
     * Operate, deliver, improve and customize our Services
     * Provide support and technical services;
-    * Send marketing and other communications related to business;
+    * Send marketing and other operational communications related to our Services;
     * Enforce our acceptable use policy;
     * Law enforcement agencies, regulatory or governmental bodies, or other third parties in order to respond to legal process, comply with any legal obligation; protect or defend our rights, interests or property or that of third parties; prevent or investigate wrongdoing in connection with the Website, Apps or our Services;
     * Any third parties in connection with prospective or actual, sale, merger, acquisition, financing or reorganization of our business.
+  * A list of our current group companies is available here [https://www.ringcentral.com/whyringcentral/contactus.html](https://web.archive.org/whyringcentral/contactus.html)
 
 
 
@@ -123,15 +128,13 @@ To make such requests, you can send an email to [privacy@ringcentral.com](mailto
 
 If we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
-You also have the right to complain to your local data protection authority at any time.
-
-In general, when processing personal information to provide our Services, we do so only on behalf of our EEA Customers and in accordance with their instructions. This means that if you wish to access, review, modify or delete any personal information we process on behalf of a RingCentral Customer, under applicable EEA law or otherwise, you should contact that Customer with your request. We will then help them to fulfill that request in accordance with their instructions.
+You also have the right to complain to your local data protection authority at any time. In general, when processing personal information to provide our Services, we do so only on behalf of our EEA Customers and in accordance with their instructions. This means that if you wish to access, review, modify or delete any personal information we process on behalf of a RingCentral Customer, under applicable EEA law or otherwise, you should contact that Customer with your request. We will then help them to fulfill that request in accordance with their instructions.
 
 _Your Privacy Rights as a California Resident_
 
 If you are a California resident and receive RingCentral Services or visit our Website or Apps solely as a private individual—in other words, not as the member or representative of a company or other organization—you may have the right to receive a free, yearly accounting of:
 
-  * (1) information identifying each third party company to whom we may have disclosed, within the past year, personal information pertaining to you for our direct marketing purposes; and
+  * (1) information identifying each third-party company to whom we may have disclosed, within the past year, personal information pertaining to you for our direct marketing purposes; and
   * (2) a description of the categories of personal information disclosed.
 
 
@@ -140,13 +143,13 @@ If you are a California resident who qualifies to receive such an accounting and
 
 _Unsubscribe from our mailing list_
 
-You may at any time ask us to remove you from our mailing list by sending us an email at [unsubscribe@ringcentral.com](mailto:unsubscribe@ringcentral.com) or by visiting <https://go.ringcentral.com/unsubscribepage.html>, or by clicking "Unsubscribe" in any e-mail communications or push notification we send you. We will remove you from our mailing list in accordance with applicable laws.
+You may at any time ask us to remove you from our mailing list by sending us an email at [unsubscribe@ringcentral.com,](mailto:unsubscribe@ringcentral.com) or by visiting <https://go.ringcentral.com/unsubscribepage.html>, or by clicking "Unsubscribe" in any e-mail communications or push notification we send you. We will remove you from our mailing list in accordance with applicable laws.
 
 To request that your phone number be removed from future sales calls, please email [unsubscribe@ringcentral.com](mailto:unsubscribe@ringcentral.com).
 
 ## THIRD-PARTY SITES
 
-This Notice does not apply to, nor are we responsible for, the privacy, information or other practices of any third parties, including any third party operating any site or service to which the Website links including but not limited to social media sites. The inclusion of a link on the Website does not imply our endorsement of the linked site or service.
+This Notice does not apply to, nor are we responsible for, the privacy, information or other practices of any third parties, including any third party operating any site or service to which the Website links including but not limited to social media sites. The inclusion of a link on the Website does not imply our endorsement of the linked site or service. You should check the privacy notices of those sites before providing your personal information to them.
 
 ## BLOGS AND FORUMS
 
@@ -166,18 +169,22 @@ Where we have no ongoing legitimate business need to process your personal infor
 
 ## INTERNATIONAL DATA TRANSFERS
 
-Your personal information may be transferred to, and processed in, countries other than the country in which you are resident. Specifically, information collected outside the United States, including in the European Economic Area (" **EEA** "), may be transferred to and stored on our servers in the United States, Switzerland, and Netherlands, and potentially in other countries where our group companies and third party service providers and partners operate. These countries may have data protection laws that are different to the laws in your country (and in some cases, may not be as protective).
+Your personal information may be transferred to, and processed in, countries other than the country in which you are resident. Specifically, information collected outside the United States, including in the European Economic Area ( **"EEA"** ), may be transferred to and stored on our servers in the United States, Switzerland, and Netherlands, and potentially in other countries where our group companies and third-party service providers and partners operate. These countries may have data protection laws that are different to the laws in your country (and in some cases, may not be as protective).
 
 However, we have taken appropriate safeguards to ensure that your personal information will remain protected in accordance with this Notice and applicable laws. For example, in respect of personal information originating from the EU and Switzerland, RingCentral has self-certified to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. Please [click here](https://web.archive.org/legal/privacy-shield-notice.html) to view our Privacy Shield Notice.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request)
+
+Under certain conditions, more fully described on the Privacy Shield [website](https://www.privacyshield.gov/), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 ## CHILDREN'S PRIVACY
 
 RingCentral does not provide products or services that are designed for use by children under the age of 16, or knowingly collect personal information from or about children under the age of 16. If you believe that a child under the age of 16 has disclosed personal information to RingCentral, please contact [privacy@ringcentral.com](mailto:privacy@ringcentral.com).
 
-## CHANGES TO NOTICE
+## UPDATES TO THIS NOTICE
 
-If we change our Notice, we will post those changes on this page in addition to updating the "Last Updated" date at the top of this webpage. If we make changes, we will notify you more directly, for example by posting a notification or message on the Website or by emailing you prior to such changes taking effect. We encourage you to review this Notice regularly to stay informed of the latest modifications.
+We may update this Notice from time to time in response to changing legal, technical, or business developments. If we change our Notice, we will post those changes on this page in addition to updating the "Last Updated" date at the top of this webpage. If we make changes, we will notify you more directly, for example by posting a notification or message on the Website or by emailing you prior to such changes taking effect. We encourage you to review this Notice regularly to stay informed of the latest modifications.
 
 ## CONTACT US
 
-If you have any questions, comments or concerns about this Notice, please e-mail us at [privacy@ringcentral.com](mailto:privacy@ringcentral.com). Or, you can write to us at:
+If you have any questions, comments or concerns about this Notice, please e-mail us at [privacy@ringcentral.com.](mailto:privacy@ringcentral.com) Or, you can write to us at:
