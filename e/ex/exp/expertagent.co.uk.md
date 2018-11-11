@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertagent.co.uk privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618221609id_/http%3A//expertagent.co.uk/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertagent.co.uk privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111093419id_/https%3A//www.expertagent.co.uk/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies - Expert Agent
 
@@ -8,7 +8,7 @@ Websky Limited (“Expert Agent”, “we” or “us”) uses cookies and other
 
 A cookie is a piece of information that a website puts on your computer so it can remember something about you or your device at a later date. We use cookies to distinguish you from other users of our website (including when you browse other third party websites). This helps us to provide you with a good experience when you browse this website. We also use cookies and similar technologies to show you more personalised advertising, including adverts on other websites. By using our website, you agree to our use of cookies.
 
-This policy explains what cookies, including third party cookies, we use on our website, and how you can refuse or withdraw your consent to cookies. You can find more information about cookies at [www.allaboutcookies.org](https://web.archive.org/web/20180618221609id_/http://www.expertagent.co.uk/privacy-cookies/www.allaboutcookies.org "all about cookies") and [www.youronlinechoices.eu](https://web.archive.org/web/20180618221609id_/http://www.expertagent.co.uk/privacy-cookies/www.youronlinechoices.eu "Your Online Choices").
+This policy explains what cookies, including third party cookies, we use on our website, and how you can refuse or withdraw your consent to cookies. You can find more information about cookies at [www.allaboutcookies.org](https://web.archive.org/web/20181111093419id_/http://expertagent.co.uk/privacy-cookies/www.allaboutcookies.org "all about cookies") and [www.youronlinechoices.eu](https://web.archive.org/web/20181111093419id_/http://expertagent.co.uk/privacy-cookies/www.youronlinechoices.eu "Your Online Choices").
 
 The cookies on our website are either set by us or by third party partners and fall into the following categories:
 
@@ -38,7 +38,7 @@ YouTube | Hosts video content on our website[https://www.youtube.com/static?temp
   
 ### Refusing or withdrawing your consent to the use of cookies
 
-You may refuse to accept cookies by altering the settings on your internet browser. For more information about how to do this, look at your browser ‘help’ section or visit [www.allaboutcookies.org](https://web.archive.org/web/20180618221609id_/http://www.expertagent.co.uk/privacy-cookies/www.allaboutcookies.org) and [www.youronlinechoices.eu](https://web.archive.org/web/20180618221609id_/http://www.expertagent.co.uk/privacy-cookies/www.youronlinechoices.eu).
+You may refuse to accept cookies by altering the settings on your internet browser. For more information about how to do this, look at your browser ‘help’ section or visit [www.allaboutcookies.org](https://web.archive.org/web/20181111093419id_/http://expertagent.co.uk/privacy-cookies/www.allaboutcookies.org) and [www.youronlinechoices.eu](https://web.archive.org/web/20181111093419id_/http://expertagent.co.uk/privacy-cookies/www.youronlinechoices.eu).
 
 Please note that if you adjust your internet browser settings to refuse the setting of cookies, you may not be able to access or use fully certain parts or functionality of our website.
 
@@ -54,7 +54,7 @@ Websky Limited (“Expert Agent”, “we” or “us”) is committed to protec
 
 This policy explains how we use any personal information that you provide to us through our website. Please read it carefully. We may change this policy. We will post any changes on this page, so please check back frequently.
 
-For the purposes of data protection law, the controller is Websky Limited of The Cooperage, 5 Copper Row, London SE1 2LH. Expert Agent is part of the ZPG Plc group of companies, comprising ZPG Plc and its subsidiaries (the “ZPG Companies”).
+For the purposes of data protection law, the controller is Websky Limited of The Cooperage, 5 Copper Row, London SE1 2LH. Expert Agent is part of the ZPG Limited group of companies, comprising ZPG Limited and its subsidiaries (the “ZPG Companies”).
 
 ### Information we collect from you
 
