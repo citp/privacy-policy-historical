@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interpreters.travel privacy policy that was archived on 2018-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180213040450id_/http%3A//www.interpreters.travel/en/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interpreters.travel privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111162418id_/http%3A//www.interpreters.travel/en/help/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy | Interpreters Travel
 
