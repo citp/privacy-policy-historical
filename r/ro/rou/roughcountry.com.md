@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roughcountry.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604055511id_/http%3A//www.roughcountry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roughcountry.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111210236id_/https%3A//www.roughcountry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rough Country Suspension Systems®
 
@@ -23,7 +23,7 @@ This Website is offered and available to users who are 18 years of age or older 
 
 ## Children Under the Age of 13
 
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, you must not access or use the Website, do not register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 we will delete that information. If you believe we might have any information from or about a child under 13, please contact us as follows: Address: Attention Privacy Officer, Rough Country, LLC, 1400 Morgan Road, Dyersburg, TN 38024; Phone number: (731) 285-9000, ask for the Privacy Officer; Fax number: 731-285-9012, attention Privacy Officer; Email address: [privacyofficer@roughcountry.com](mailto:privacyofficer@roughcountry.com)
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, you must not access or use the Website, do not register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 we will delete that information. If you believe we might have any information from or about a child under 13, please contact us as follows: Address: Attention Privacy Officer, Rough Country, LLC, 1400 Morgan Road, Dyersburg, TN 38024; Phone number: (731) 285-9000, ask for the Privacy Officer; Fax number: 731-285-9012, attention Privacy Officer; Email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fa8a88938c9b9983959c9c93999f88ba88958f9d9299958f948e8883d4999597)
 
 ## Information We Collect About You and How We Collect It
 
@@ -98,7 +98,7 @@ We may disclose aggregated information about our users, and information that doe
     * With your consent.
   * We may also disclose your personal information:
     * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
-    * To enforce or apply our [terms of use](http://www.roughcountry.com/terms/) or [terms of sale](http://www.roughcountry.com/terms-of-sale/) and other agreements, including for billing and collection purposes.
+    * To enforce or apply our [terms of use](https://www.roughcountry.com/terms/) or [terms of sale](https://www.roughcountry.com/terms-of-sale/) and other agreements, including for billing and collection purposes.
     * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Rough Country, LLC, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 
@@ -107,7 +107,7 @@ We may disclose aggregated information about our users, and information that doe
 
   * We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
     * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
-  * **Disclosure of Your Information for Third-Party Advertising.** If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can optout by sending us an e-mail stating your request to [privacyofficer@roughcountry.com](mailto:privacyofficer@roughcountry.com).
+  * **Disclosure of Your Information for Third-Party Advertising.** If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can optout by sending us an e-mail stating your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d1a1a3b8a7b0b2a8beb7b7b8b2b4a391a3bea4b6b9b2bea4bfa5a3a8ffb2bebc).
     * **Promotional Offers from Rough Country.** If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. This opt out does not apply to information provided to Rough Country as a result of a product purchase, warranty registration, product service experience or other transactions.
 
 
@@ -116,13 +116,13 @@ We may disclose aggregated information about our users, and information that doe
 
 You can review and change your personal information by logging into the Website and visiting your account profile page. Just click "edit" to change your contact information. To change your address, click on "manage." 
 
-You may also send us an e-mail at [privacyofficer@roughcountry.com](mailto:privacyofficer@roughcountry.com) to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. 
+You may also send us an e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0474766d7265677d6b62626d67617644766b71636c676b716a70767d2a676b69) to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. 
 
-If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our [terms of use](http://www.roughcountry.com/terms/).
+If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our [terms of use](https://www.roughcountry.com/terms/).
 
 ## Your California Privacy Rights
 
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [privacyofficer@roughcountry.com](mailto:privacyofficer@roughcountry.com) or write us at: Attention Privacy Officer, 1400 Morgan Road, Dyersburg, TN 38024.
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#abdbd9c2ddcac8d2c4cdcdc2c8ced9ebd9c4deccc3c8c4dec5dfd9d285c8c4c6) or write us at: Attention Privacy Officer, 1400 Morgan Road, Dyersburg, TN 38024.
 
 ## Data Security
 
@@ -143,7 +143,7 @@ To ask questions or comment about this privacy policy and our privacy practices,
   * **Address:** Attention Privacy Officer, Rough Country, LLC, 1400 Morgan Road, Dyersburg, TN 38024;
   * **Phone number:** (731) 285-9000, attention Privacy Officer;
   * **Fax number:** 731-285-9012, attention Privacy Officer;
-  * **Email address:** [privacyofficer@roughcountry.com](mailto:privacyofficer@roughcountry.com)
+  * **Email address:** [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3444465d4255574d5b52525d57514674465b41535c575b415a40464d1a575b59)
 
 
 
