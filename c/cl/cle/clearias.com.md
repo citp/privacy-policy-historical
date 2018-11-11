@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearias.com privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306172943id_/https%3A//www.clearias.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearias.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111220347id_/https%3A//www.clearias.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ClearIAS.com
 
@@ -12,7 +12,7 @@ We use this information to track the number of visitors to the different pages o
 
 We are committed to take steps to protect the personal information we hold from misuse and loss and from unauthorized access, modification or disclosure. If you have any questions now or during your visit, please contact us.
 
-[](https://www.cleariasexam.com/upsc-prelims-online-mock-tests-complete-package/)
+[](https://www.cleariasexam.com/)
 
 ### **Collection and Use of Personal Information**
 
