@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abhi2you.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511075005id_/http%3A//www.abhi2you.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abhi2you.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111075655id_/http%3A//www.abhi2you.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - A2Y
 
@@ -70,6 +70,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 **A2Y – India’s Loot Hub**  
 [http://abhi2you.com](http://www.abhi2you.com/)  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+admin@abhi2you.com
 
 **This document was last updated on 31st October, 2017**
