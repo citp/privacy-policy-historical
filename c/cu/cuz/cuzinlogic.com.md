@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuzinlogic.com privacy policy that was archived on 2018-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180209042517id_/http%3A//cuzinlogic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuzinlogic.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111080224id_/http%3A//cuzinlogic.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -14,6 +14,6 @@ If we decide to change our privacy policy, those changes will appear on this pag
 
 This policy was last modified on 11/1/2017.
 
-We hope this helps you better understand our privacy policy. If you have any questions, please use the contact form or email us directly at [cuzinlogic[@]gmail[dot]com](mailto:cuzinlogic@gmail.com) to discuss your interest in working with us.
+We hope this helps you better understand our privacy policy. If you have any questions, please use the contact form or email us directly at [cuzinlogic@gmail.com](mailto:cuzinlogic@gmail.com) to discuss your interest in working with us.
 
 ~Cuzinlogic
