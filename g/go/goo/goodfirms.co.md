@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodfirms.co privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624043906id_/https%3A//www.goodfirms.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodfirms.co privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111192222id_/https%3A//www.goodfirms.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of GoodFirms
 
@@ -51,11 +51,11 @@ GoodFirms may provide access to your personally-identifiable information to thir
 
 #### Opt-Out / Unsubscribe / Change, and / or Delete information 
 
-You are well within your rights to access, correct, update and/or delete any information you submit to the site. If you are not interested in the updates, Direct mailers and newsletters from GoodFirms, you can unsubscribe from mailing lists, registrations from the site. You can also contact GoodFirms and ask to unsubscribe.
+Your right to deactivate or delete your account from GoodFirms is subject to our records retention policies and applicable law, including any statutory retention requirements. You are well within your rights to access, correct, update and/or delete any information you submit to the site. However, please note that the company profile cannot be deleted once it includes even a single review. This is not possible as we cannot delete information that is shared by a third-party. If you are not interested in the updates, Direct mailers and newsletters from GoodFirms, you can unsubscribe from mailing lists, registrations from the site. You can also contact GoodFirms and ask to unsubscribe.
 
 GoodFirms uses cookies where they are necessary for its services or where it has user’s implied or express consent. People who visit the site can inspect, block or delete cookies with right settings in browsers and with right tools. 
 
-If you are in any way concerned about providing information on GoodFirms website in any manner permitted in GoodFirms’ Privacy Policy, you should refrain from using the website. Write to us in case you are concerned about any review or testimonial. If you have any concern with GoodFirms listing your company and providing required information about your company to others, you can reach out to us and we shall remove your company from our listing and refrain from providing any information that relates to your company. Your data however remains stored in search engine’s cache. It remains there until the cache is refreshed. 
+If you are in any way concerned about providing information on GoodFirms website in any manner permitted in GoodFirms’ Privacy Policy, you should refrain from using the website. Write to us in case you are concerned about any review or testimonial. 
 
   
 
@@ -79,6 +79,3 @@ Strategically gathered industry related data remains with us as long as we are n
 By using (visiting) the GoodFirms’ site, you consent to the collection, use and storage of your information by GoodFirms in the manner described in this Privacy Policy and elsewhere on the site. GoodFirms reserves the right to change, modify, add or remove portions of the Privacy Policy at any time, at its discretion. Your continued use of the site following the changes in Privacy Policy will mean that you accept the changes. 
 
 If you have any questions about GoodFirms Privacy Policy or if you require any assistance in navigating the site and reading the provided material, you can contact us at: **info@goodfirms.co**
-
-  
-
