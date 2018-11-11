@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pocketwizard.com privacy policy that was archived on 2018-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180409040329id_/http%3A//www.pocketwizard.com/home/misc/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocketwizard.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111185059id_/https%3A//www.pocketwizard.com/home/misc/privacy_policy) for the most accurate reproduction.*
 
 # PocketWizard® - Privacy Policy
 
@@ -89,13 +89,28 @@ While LPA will seek to require its affiliates, subsidiaries, and distributors to
 
 Our Site may contain external links to third partywebsites.  We have no control over, and are not responsible for, the content of, or information gathered by these other websites.  Any Personally Identifiable Information collected by such third parties is subject to such third parties' privacy policies.  The third party owners of these Sites, except LPA distributors and Automattic, which hosts the Blog, do not have access to the Personally Identifiable Information collected on the LPA Site.  These third parties may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser and you access their websites.  Third parties' use of cookies is subject to their own privacy policies. 
 
-**7.   _Notification Of Changes_ **
+**7. _EU GDPR Compliance_**
+
+This entire Privacy Policy is intended to comply with EU GDPR. If any portion of this Privacy Policy is not compliant with EU GDPR, then the EU GDPR has precedence over any such portion and that portion is considered null and void.
+
+The LPA Data Privacy Officer can be contacted directly, using the contact information at the end of this policy, regarding any of the following:
+
+  * Inquiries regarding this Privacy Policy or the EU GDPR compliance of LPA.
+  * Requests for personal information held by LPA regarding a personally identifiable EU citizen by that citizen.
+  * Requests for removal of any personally identifiable information by the EU citizen who owns the information.  
+
+
+
+
+When contacting the LPA Data Privacy Officer, please state the nature of your inquiry/request and provide contact information so we can return the result of your inquiry/request. 
+
+**_8.   Notification Of Changes_ **
 
 LPA reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy simply by posting such change, update, or modification on the Site. Any such change, update or modification will be effective immediately upon posting on the Site.  If at anypoint LPA decides to use Personally Identifiable Information in a manner different from that stated at the time it was collected, we may notify you by way of an e-mail or some other means. Your continued use of the Site shall constitute your acceptance of such revised Privacy Policy.  Since thisPrivacy Policy may change from time to time, you should review it periodically before you provide any additional Personally Identifiable Information anywhere on the Site. 
 
-**8.    _LPA Contact Information_**
+**9.    _LPA Privacy Policy Contact Information_**
 
-Patrick Clow
+Gary Brown (Data Privacy Officer)
 
 Lab Partners Associates, Inc.
 
@@ -107,6 +122,6 @@ Telephone:  (802) 658-0038
 
 Facsimile:  (802) 658-6125
 
-Email:  webmaster@lpadesign.com 
+Email:  [DPO@lpadesign.com](mailto:DPO@lpadesign.com?Subject=LPA%20Privacy%20Policy%20Inquiry)
 
-_Last Revised 10/08_
+_Last Revised 05/18_
