@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the mytimestation.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511151417id_/http%3A//www.mytimestation.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytimestation.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111045502id_/http%3A//www.mytimestation.com/Privacy.asp) for the most accurate reproduction.*
 
 # TimeStation - Privacy Policy
 
-Last Updated: **May 13th 2014**
+Effective: **May 25th 2018**
 
 This is the Privacy Policy of the TimeStation website (the "Site"), operated by TimeStation, LLC (together with our affiliates and subsidiaries, "TimeStation", "we", "us", "our" and terms of similar meaning) and our related products and services. It describes the information that we collect from you as part of the normal operation of our Site, and how we use and disclose this information.
 
-By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our [Terms of Service](https://web.archive.org/web/20180511151417id_/http%3A//www.mytimestation.com/TermsOfService.asp).
+By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our [Terms of Service](https://web.archive.org/web/20181111045502id_/http%3A//www.mytimestation.com/TermsOfService.asp).
 
 In this Privacy Policy, we use the following terms to describe different types of visitors to our Site. Our customers are called "Subscribers" and our Subscribers’ users are called "Members". We use the word "staff" to describe persons to whom Subscribers give "administrator" access on the Site. Together with registered users of our forum or other interactive areas of the Site, these people are collectively described in this Privacy Policy as "Users" of our Site.
 
 ### How We Use Your Information
 
-We use personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to provide to you the services offered by the Site; resolve service and billing disputes; troubleshoot problems; bill any amounts due from you; measure consumer interest in our products and services, inform you about online and offline offers, products, services, events and updates; deliver information to you that, in some cases, is relevant to your interests, such as product news; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our [Terms of Service](https://web.archive.org/web/20180511151417id_/http%3A//www.mytimestation.com/TermsOfService.asp); provide you with system or administrative messages, and as otherwise described to you at the time of collection. On occasion we use email address or other contact information to contact our Users to ask them for their input on our services, to forward to them media opportunities, and even to invite them to dinner.
+We use personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to provide to you the services offered by the Site; resolve service and billing disputes; troubleshoot problems; bill any amounts due from you; measure consumer interest in our products and services, inform you about online and offline offers, products, services, events and updates; deliver information to you that, in some cases, is relevant to your interests, such as product news; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our [Terms of Service](https://web.archive.org/web/20181111045502id_/http%3A//www.mytimestation.com/TermsOfService.asp); provide you with system or administrative messages, and as otherwise described to you at the time of collection. On occasion we use email address or other contact information to contact our Users to ask them for their input on our services, to forward to them media opportunities, and even to invite them to dinner.
 
 We may also use personal information about you to improve our marketing and promotional efforts, to analyze Site usage, to improve our content and product offerings, and to customize the Site's content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Site.
 
@@ -32,7 +32,9 @@ If you are a Subscriber, we collect your credit card information for billing pur
 
 We also automatically track certain information about you based upon your behaviour on our Site. We use this information to do internal research on our users' demographics, interests, and behaviour to better understand, protect and serve you and our community. This information may include the URL that you just came from (whether this URL is on our Site or not), which URL you next go to (whether this URL is on our Site or not), your computer browser information, and your IP address.
 
-"Cookies" are small files placed on your hard drive that assist us in providing our services. We use cookies to allow you to enter your password less frequently during a session, and we use data collection devices (such as Google Analytics), including cookies, on certain pages of the Site to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety, to offer certain features that are only available through the use of a cookie and to allow us to provide information that is targeted to your interests. We link the information we store in our cookies to personally identifiable information you submit when you create a TimeStation account. We may use third-party service provides to assist us in monitoring your use of the Site. Information collected by these cookies is also governed by this privacy policy.
+"Cookies" are small files placed on your hard drive that assist us in providing our services. We use cookies to allow you to enter your password less frequently during a session, and we use data collection devices (such as Google Analytics), including cookies, on certain pages of the Site to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety, to offer certain features that are only available through the use of a cookie and to allow us to provide information that is targeted to your interests. We link the information we store in our cookies to personally identifiable information you submit when you create a TimeStation account. We may use third-party service provides to assist us in monitoring your use of the Site. Information collected by these cookies is also governed by this privacy policy. 
+
+To learn more about the cookies that may be served through our Sites and how You can control our use of cookies and third-party analytics, please see our [Cookie Policy](https://web.archive.org/Cookie_Policy.asp).
 
 Following your registration on the Site, you can review and change your information in your account area. If you disclose personal information in any posting in our forum or blog and wish to have it removed, please contact us at the support contact information listed below, and posted on the Site.
 
@@ -54,21 +56,47 @@ Legal Requests; Emergencies. TimeStation may disclose your personal information 
 
 ### Your Use of Other Persons’ Information
 
-In order to facilitate the services provided by the Site, the Site allows you in certain circumstances to give other Users limited access to the personal information of other persons. For example, if you are a Subscriber, you may use the Site to give access to a staff member to the personal information of your Members. By entering into our [Terms of Service](https://web.archive.org/web/20180511151417id_/http%3A//www.mytimestation.com/TermsOfService.asp), you agree that, with respect to the personal information of other persons that you collect, use and disclose on the Site, you have all necessary consents and rights to collect, use and disclose that information as described in this Privacy Policy from time to time, and you agree that the indemnity you give to us in the [Terms of Service](https://web.archive.org/web/20180511151417id_/http%3A//www.mytimestation.com/TermsOfService.asp) applies to any non-compliance by you with the foregoing.
+In order to facilitate the services provided by the Site, the Site allows you in certain circumstances to give other Users limited access to the personal information of other persons. For example, if you are a Subscriber, you may use the Site to give access to a staff member to the personal information of your Members. By entering into our [Terms of Service](https://web.archive.org/web/20181111045502id_/http%3A//www.mytimestation.com/TermsOfService.asp), you agree that, with respect to the personal information of other persons that you collect, use and disclose on the Site, you have all necessary consents and rights to collect, use and disclose that information as described in this Privacy Policy from time to time, and you agree that the indemnity you give to us in the [Terms of Service](https://web.archive.org/web/20181111045502id_/http%3A//www.mytimestation.com/TermsOfService.asp) applies to any non-compliance by you with the foregoing.
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. TimeStation stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at support@MyTimeStation.com to request that we remove this information from our database.
 
 ### Security
 
-TimeStation strives to protect your personal information. For security of transactions, we use the Secure Sockets Layer (SSL) protocol, which encrypts any information, such as credit card number and billing information, you send to us electronically. The encryption process protects your information, by scrambling it before it is sent to us from your computer. Once TimeStation receives your transmission, we make commercially reasonable efforts to ensure its security on our system. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot warrant the security of any information you transmit to us. More information about security is available on the Site and in our [Terms of Service](https://web.archive.org/web/20180511151417id_/http%3A//www.mytimestation.com/TermsOfService.asp).
+TimeStation strives to protect your personal information. For security of transactions, we use the Secure Sockets Layer (SSL) protocol, which encrypts any information, such as credit card number and billing information, you send to us electronically. The encryption process protects your information, by scrambling it before it is sent to us from your computer. Once TimeStation receives your transmission, we make commercially reasonable efforts to ensure its security on our system. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot warrant the security of any information you transmit to us. More information about security is available on the Site and in our [Terms of Service](https://web.archive.org/web/20181111045502id_/http%3A//www.mytimestation.com/TermsOfService.asp).
+
+### International Data Transfers.
+
+We are a global business. Personal Data may be stored and processed in any country where we have operations or where we engage service providers. We may transfer Personal Data that we maintain about you to recipients in countries other than the country in which the Personal Data was originally collected, including to the United States. Those countries may have data protection rules that are different from those of your country. However, we will take measures to ensure that any such transfers comply with applicable data protection laws and that your Personal Data remains protected to the standards described in this Privacy Policy. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your Personal Data. 
 
 ### Other Information Collectors
 
 Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties through the Site, whether they are Subscribers or Members or otherwise, different rules may apply to their use, collection and disclosure of the personal information you disclose to them. Since we do not control the information use, collection or disclosure policies of third parties, you are subject to their privacy policies. We encourage you to ask questions before you disclose your personal information to others.
 
-### Correcting and Updating Your Personal Information
+### Your Rights and Choices.
 
-To review and update your personal information to ensure it is accurate, you may login into your account to make the changes, or you may contact us at support@MyTimeStation.com.
+You have choices regarding our use and disclosure of your Personal Data:
+
+**a. Opting out of receiving electronic communications from us.** If you no longer want to receive marketing-related emails from us, you may opt-out via the unsubscribe link included in such emails. We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages that are required to provide you with our Services.
+
+**b. How you can see or change your account Personal Data.** If You would like to review, correct, or update Personal Data that You have previously disclosed to us, You may do so by signing in to your TimeStation account or by contacting us.
+
+**c. Your data protection rights.** Depending on your location and subject to applicable law, you may have the following rights with regard to the Personal Data we control about you:
+
+  * The right to request confirmation of whether TimeStation processes Personal Data relating to you, and if so, to request a copy of that Personal Data;
+  * The right to request that TimeStation rectifies or updates your Personal Data that is inaccurate, incomplete or outdated;
+  * The right to request that TimeStation erase your Personal Data in certain circumstances provided by law;
+  * The right to request that TimeStation restrict the use of your Personal Data in certain circumstances, such as while TimeStation considers another request that you have submitted (including a request that TimeStation make an update to your Personal Data); and
+  * The right to request that we export to another company, where technically feasible, your Personal Data that we hold in order to provide Services to you. 
+
+
+
+Where the processing of your Personal Data is based on your previously given consent, you have the right to withdraw your consent at any time. You may also have the right to object to the processing of your Personal Data on grounds relating to your particular situation. 
+
+**d. Process for exercising data protection rights.** In order to exercise your data protection rights, you may contact TimeStation as described in the Contact Us section below. We take each request seriously. We will comply with your request to the extent required by applicable law. We will not be able to respond to a request if we no longer hold your Personal Data. If you feel that you have not received a satisfactory response from us, you may consult with the data protection authority in your country.
+
+For your protection, we may need to verify your identity before responding to your request, such as verifying that the email address from which you send the request matches your email address that we have on file. If we no longer need to process Personal Data about you in order to provide our Services or our Sites, we will not maintain, acquire or process additional information in order to identify you for the purpose of responding to your request.
+
+If you are a Member of a TimeStation Organization, please direct your requests directly to the Organization. For example, if you are making, or have made, a purchase from a merchant using TimeStation as a payment processor, and you have a request that is related to the payment information that you provided as part of the purchase transaction, then you should address your request directly to the merchant.
 
 ### Additional Policy Information
 
@@ -88,10 +116,27 @@ When a customer chooses to close an account we will remove your information from
 
 As we continue to refine TimeStation we will establish a method for the complete removal of all user information from the system without breaking accepted accounting principles for other connected TimeStation accounts. This document will evolve as these new methods are defined and tested for permanent account deletion. Users wishing to be notified when this development is complete can indicate their wishes via support@MyTimeStation.com.
 
+### For EU Residents (GDPR)
+
+If you are a EU resident, and are an employee/member of an organization that uses TimeStation, under the GDPR (the new General Data Protection Regulation standardising EU data privacy and protection laws that comes into effect on May 25th, 2018), you are entitled to make a data request from that organization.
+
+Organizations that use TimeStation are classified as “data controllers” of their members’ data under the GDPR. If you have questions about the personal data that a TimeStation organization holds about you, ask that TimeStation organization to supply you with the information you need by visiting the organizations’s website or office, or calling the organization at their listed phone number. 
+
+Under the GDPR, EU-resident individuals are entitled to request the following from organizations who manage their personal data: 
+
+* Information about the data being held;
+* To have any inaccuracies in the data corrected;
+* To have information erased;
+* To object to direct marketing;
+* To restrict the processing of their information, including automated decision-making (i.e., a decision made solely by automated means without any human intervention) or profiling (i.e., automated processing of personal data to evaluate certain things about an individual); and
+* Data portability (to have data provided in a portable form to the individual requesting it or to have data sent to a third party at an individual’s request).
+
+While TimeStation is a data-processor for members of organizations that use TimeStation, TimeStation is a data controller of all its organizations’ personal data. TimeStation sets out what organizations data it holds, how it protects organizations data, why it holds organization data and what it does with organization data in this privacy policy. 
+
 ### Notification of Privacy Statement Changes
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-### Questions?
+### Contact Us
 
 It is our goal to make our privacy practices easy to understand. If you have questions, concerns or if you would like more detailed information, please email our privacy officer at: support@MyTimeStation.com
