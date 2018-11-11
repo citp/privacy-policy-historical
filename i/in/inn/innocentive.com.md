@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innocentive.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429132124id_/https%3A//www.innocentive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innocentive.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111033148id_/https%3A//www.innocentive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | InnoCentive
 
@@ -18,7 +18,7 @@ Users resident in certain countries have a legal right to access, modify, or rem
 
 ## Information that We Collect and How We Use Information
 
-  * Through www.innocentive.com, our related subdomains (e.g. info.innocentive.com, blog.innocentive.com) and selected 3rd party hosted emails and pages, InnoCentive will collect information that can identify you, such as your name, address, telephone number, e-mail address, experience, field of expertise, educational background and curriculum vitae, and other similar information (“Your Information”) when it is voluntarily submitted to us when you register as a Solver, when it is submitted to us to access promotional content about our services and products, when you update your profile information or when you request information from us (however, see discussion below about “IP Addresses” if you have a broadband connection). We will use Your Information to respond to requests you may make of us, to communicate with you about InnoCentive Challenges, to communicate with you about InnoCentive services and products which might be of interest to you and from time to time, we may refer to Your Information to better understand your needs and how we can improve our websites, products and services.
+  * Through www.innocentive.com, our related subdomains (e.g. info.innocentive.com, blog.innocentive.com) and selected 3rd party hosted emails and pages, InnoCentive will collect information that can identify you, such as your name, address, telephone number, e-mail address, experience, field of expertise, educational background and curriculum vitae, and other similar information (“Your Information”) when it is voluntarily submitted to us when you register as a Solver, when it is submitted to us to access promotional content about our services and products, when you update your profile information or when you request information from us (however, see discussion below about “IP Addresses” if you have a broadband connection). We will use Your Information to respond to requests you may make of us, to communicate with you about InnoCentive Challenges, to communicate with you about InnoCentive services and products which might be of interest to you and from time to time, we may refer to Your Information to better understand your needs and how we can improve our websites, products and services.  You can choose whether you receive these communications as described below.
   * You may utilize social networking sites not operated by us. For example, you may be able to sign on to your InnoCentive account using a social networking site sign-on and connect through that social networking site to Your Information. Depending on the social networking site’s policies, we may collect certain information about you from your account on the social networking site (such as gender, age, occupation, hobbies, interests, zip code, contacts or other information you have provided to the social networking site) or about your activity on the social networking site. Once Your Information is received by us, we will treat any such information as if you had given it directly to us, in accordance with this policy.
   * In some cases, the sharing settings of a social networking site may effectively override the choices you have made on our Site. Please remember that if you embed, post or link to Your Information on our Site on a social networking site’s page that is visible to the public, the terms of this Privacy Policy will not apply.
   * If you receive an Award in response to a Solution that you submit in response to an InnoCentive Challenge, we will request certain information from you in order to comply with our obligations under tax law and other applicable laws. This information will include copies of positive identification documentation and a tax identification number, often your Social Security number (“Award Information”). Award Information will not be incorporated into Your Information that is stored by the Site, and we will not request more Award Information than is reasonably necessary to comply with our legal obligations.
@@ -28,6 +28,7 @@ Users resident in certain countries have a legal right to access, modify, or rem
   * InnoCentive may also use Publicly Available Data or Data from Third Parties which may be based on automated Interactions on non-InnoCentive websites, or other data you may have made publicly available, such as social media posts, or data provided by third party sources, such as marketing opt-in lists, or data aggregators in order to tailor our marketing of our products and services to you.
   * We do not specifically honor Do Not Track requests.
   * If you wish to opt out of 3rd party pixel tracking which can be used for retargeting you can find advice on how to do so at: <http://optout.networkadvertising.org/> courtesy of the Network Advertising Initiative, a non-profit organization that is the leading self-regulatory association dedicated to responsible data collection and its use for digital advertising.
+  * Your Information may also be used when InnoCentive directly communicates with you for customer support or requests for assistance.
 
 
 
@@ -43,6 +44,14 @@ Our Site uses Internet Protocol (IP) Addresses. An IP Address is a number assign
 
 You should be aware that this site is not intended for use by, or designed to attract, individuals under the age of 18. You may not register as a Solver if you are under the age of 18, or have not reached the age of majority in your jurisdiction. We do not collect personally identifiable information from any person we actually know is an individual under the age of 13.
 
+## Storage of Your Information
+
+We store the information we collect using hosting providers in the United States and Germany. While we use industry standard techniques and technologies to protect Your Information, no system is perfect and we cannot guarantee the absolute safety of Your Information during transmission across the internet or while stored on our providers.
+
+We retain Your Information as long as your account remains in existence, or as long as is required to fulfill our legal obligations, whichever is longer.
+
+We may transfer Your Information between our hosting providers. When doing so, we make use of the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework and use data protection clauses that have been approved by the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. More information can be found in the Privacy Shield Notice above.
+
 ## Sharing of Your Information
 
 We may share Your Information with agents, contractors or partners of InnoCentive in connection with services that these individuals or entities perform for, or with, InnoCentive. These agents, contractors or partners are restricted from using this data in any way other than to provide services for InnoCentive, or services for the collaboration in which they and InnoCentive are engaged (for example, our Seekers). By submitting a Proposed Solution to an InnoCentive Challenge, for example, you acknowledge that we may share Your Information with Seekers as part of the Challenge evaluation process, and you consent that we may share Your Information and Award Information with Seekers for this purpose, and to make Awards in the event that your Proposed Solution is accepted by a Seeker.
@@ -51,6 +60,16 @@ If you choose to participate in Solver Search (by specific opt-in) and make your
 InnoCentive reserves the right to share Your Information to respond to duly authorized information requests of governmental authorities or where required by law.
 
 We may also provide Your Information to a third party in connection with the sale, assignment, or other transfer of the business of this website to which the information relates, in which case we will require any such buyer to agree to treat Your Information in accordance with this Privacy Policy.
+
+## Your access and control of Your Information
+
+You have a right to view and update Your Information and to control whether Your Information is publicly accessible. Your Information can be updated and privacy settings set by editing your profile page.
+
+If you no longer wish to be a part of our Solver Community, you may contact us using the methods below to request your account be disabled.
+
+If you are an individual in the European Economic Area (EEA), you have a right to request a copy of Your Information, or to request deletion of Your Information. Your request may be limited in certain situations, such as those where information about another person would also be divulged, or you have transferred ownership of intellectual property. Please note, that we may need to retain certain information to comply with our legal obligations.
+
+You may control the types of marketing communications sent to you by using the unsubscribe link in each email, updating your communication preferences under your account’s profile, or by contacting us directly and requesting to be removed. After opting out of marketing communications, you may still receive transactional notifications.
 
 ## Links to Third Party Websites
 
@@ -69,4 +88,4 @@ InnoCentive, Inc.
 Waltham, MA 02451  
 USA
 
-Last Updated: January 8th, 2018
+Last Updated: May 24th, 2018
