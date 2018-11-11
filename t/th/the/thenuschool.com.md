@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the thenuschool.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511160712id_/http%3A//thenuschool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenuschool.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111134031id_/http%3A//thenuschool.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The nuSchool
+# | Privacy Policy
 
-## Privacy Policy
+For the notice that falls under the General Data Protection Regulation (GDPR), please refer to this link:
+
+> [Privacy Notice (GDPR)](http://thenuschool.com/nublog-privacy-notice/)
+
+Other than that, here’s our Privacy Policy.
+
+In any kind of contradiction with the above link, the above link is the one to account on.
 
 This Privacy Policy governs the manner in which The nuSchool collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.thenuschool.com website (“Site”). This privacy policy applies to the Site and all products and services offered by The nuSchool.
 
@@ -68,7 +74,7 @@ www.thenuschool.com
 
 lior@thenuschool.com
 
-_This document was last updated on September 28, 2014_
+_This document was last updated on May 23, 2018_
 
 Super!  
 Good stuff is on the way.
