@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informedconsent.co.uk privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226210932id_/https%3A//fetlife.com/legalese/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informedconsent.co.uk privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111173922id_/https%3A//fetlife.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FetLife
 
@@ -14,7 +14,9 @@ When you join FetLife, we ask you to choose a nickname. If you would like to kee
 
 We also ask you for your email address, mobile number, and date of birth. We ask you for your email address so that we can send you updates and other essential information. We ask for a potential new member's mobile number so that we can verify them via a one-time text message, which has resulted in improving the overall health of the community. And we ask for your date of birth to make sure you are of legal age.
 
-We use cookies to keep you logged in and to remember your preferences. The cookies FetLife sets are essential for the operation of the site.
+We use cookies to keep you logged in, remember your preferences, and improve your experience on FetLife. Unlike most other websites, we do **not** share any information about our members with third parties. Why? Because we respect your privacy!
+
+We send email notifications to the address associated with your account. You can [update the email address](https://fetlife.com/settings/responsive/account/email) associated with your profile, as well as [review and customize which notifications you receive](https://fetlife.com/settings/responsive/notifications), at any time through our [settings interface](https://fetlife.com/settings/responsive/account).
 
 When you write to FetLife with a question or to ask for help, we’ll keep that correspondence, and the email address, for future reference.
 
@@ -87,6 +89,8 @@ Because we are not in the business of selling our friends (members) out, we don'
 
 You can view and update your personal info at any time from your account's [Edit Profile](https://fetlife.com/settings/profile) and [Settings](https://fetlife.com/settings/email) screens.
 
+You can download a backup of your data through our [data export interface](https://fetlife.com/settings/responsive/account/edit_export).
+
 You can deactivate or delete your account at any time by logging into FetLife and visiting [this page](https://fetlife.com/deactivate).
 
 ## How do you notify people of changes to this policy?
@@ -95,4 +99,6 @@ To stay up to date with any changes related to our Privacy Policy, use GitHub’
 
 ## How do I contact FetLife if I have any privacy questions?
 
-If you have any questions about our Privacy Policy, please get in touch with us at [legal@fetlife.com](mailto:legal@fetlife.com), and we’ll be happy to answer them!
+If you have any questions about our Privacy Policy, please get in touch with us at [privacy@fetlife.com](mailto:privacy@fetlife.com), and we’ll be happy to answer any questions you might have!
+
+Last updated: May 28, 2018
