@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rewritertools.com privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423065330id_/http%3A//rewritertools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewritertools.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111020946id_/http%3A//rewritertools.com/privacy-policy) for the most accurate reproduction.*
 
-# Online Rewrite Tool | Free Online SEO Tool Service
+# Online rewrite tool - Free paraphrase generator
 
 Fair Information Practices 
 
