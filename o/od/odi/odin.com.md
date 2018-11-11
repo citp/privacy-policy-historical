@@ -1,79 +1,82 @@
-> *The following text is extracted and transformed from the odin.com privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413023802id_/http%3A//www.odin.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odin.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111061929id_/http%3A//corp.ingrammicro.com/Terms-of-Use/Privacy-Statement.aspx) for the most accurate reproduction.*
 
-# Parallels Privacy Policy - Odin
+# Corporate site - Privacy Statement
 
-Updated December 2015
+| 
 
-Odin (“we”, “us”, “our”) knows that information privacy and security are important to you and we are committed to protecting the information you entrust to our care. Knowing our customers helps us to better serve them, so we place a high value of protecting personal information. 
+### Purpose and Scope
 
-In this Privacy Notice, we describe the information that we collect from individuals who visit our website, use our products, contact us for support, and conduct business or exchange communications with us. We describe the type of information we collect, use, share, and protect it. By using our website, products and/or services you agree to the practices described in this Privacy Notice. 
+This Ingram Micro Privacy Statement (the “Privacy Statement”) explains how Ingram Micro Inc., a Delaware corporation, and companies that we own or control (“Affiliates”) (collectively, “Ingram Micro”, “we”, or “us”) collect, use, store, process, disclose, and delete Personal Data (as defined in this Privacy Statement) you provide directly to us or that we receive from your authorized third parties including, without limitation, that you provide to us via our website, located at the ingrammicro.com domain, or any website of any one of our Affiliates that post or link to this Privacy Statement (individually and collectively, “Website”), accessed through any medium, including via computer, mobile device, or other device (collectively, “Device”).  This Privacy Statement also outlines your rights in respect to your Personal Data.
 
-## Information Collection
+[Read more](https://web.archive.org/privacy-statement/purpose-and-scope.aspx)  
+  
+| 
 
-Odin gathers information in most of our interactions with prospects and customers, whether directly or indirectly. Some of the information we collect is personally identifiable – that is, we can use it to identify, locate or contact you as an individual. Much of the information we collect is not personally identifiable. 
+### General Principles for the Processing of Personal Data
 
-### Information You Provide
+Personal Data will be collected, stored, processed and transmitted in accordance with Ingram Micro’s established policies and applicable federal, state, local and international laws, rules and regulations.
 
-We collect and store your information when you register products, create an online profile, make an inquiry or contact us for support, as well as other contacts. You can withhold information, though this might make it difficult for us to provide certain services that depend on that information. Examples of your information we collect include:
+[Read more](https://web.archive.org/privacy-statement/general-principles.aspx)  
+  
+| 
 
-  * Contacts such as names, postal and email addresses, phone numbers;
-  * Payment data such as payment cards and bank accounts;
-  * Billing, shipping and other purchasing and shipping information;
-  * Records of transactions, including purchases, inquiries and service requests;
-  * Authentication data such as user name and password to verify access. 
+### Collection of Information
+
+Ingram Micro may collect Personal Data about you from a variety of sources, including, directly from you, from other Users, from resellers and distributors, from our vendors, from our service providers, from third party information providers, from our Affiliates, and through the operation of the Website.
+
+“Personal Data” **** collected by Ingram Micro includes:
+
+  * your first and last name;
+  * billing or shipping address;
+  * credit card or payment information;
+  * government issued identification number;
+  * email address;
+  * phone number;
+  * purchase information and history;
+  * your account number;
+  * resume or professional information; and
+  * a combination of your username and password used to access the Website.
 
 
 
-### Information Collected Automatically
+[Read more](https://web.archive.org/privacy-statement/collection-of-information.aspx)  
+  
+| 
 
-We may collect and store information about how you use our website(s) and applications, including your use of a desktop feature that takes you online. For visitors to our website(s) we collect IP address, browser type and other information such as search terms. For callers to our support service center, for example, we may collect the phone number used to facilitate communicating with you. 
+### Cookies and Other Website Usage Information
 
-We use cookies on our website to remember user preferences and to enhance our website services. Cookies are small identifiers we transfer to your computer to enable our systems to recognize your device and to provide features and advertising. You can learn more about cookies and controlling how your computer accepts and stores cookies and similar identifiers by clicking [here](http://www./). You can block cookies though this might disable certain features that you find convenient. In general, information we collect through cookies does not identify you. 
+The Website may also monitor and collect information about how you access, use, and interact with the Website automatically through “cookies,” “flash cookies”, “web beacons,” and other automated tracking technology.
 
-### Information from Applications (Odin Desktop and Odin Access)
+[Read more](https://web.archive.org/privacy-statement/cookies-and-other-website-usage.aspx)  
+  
+| 
 
-Odin collects limited information from users of our desktop and mobile applications, including product registration information, non-identifying indicators of operating system version, IP address, referring URL’s and other information about your use of the product. 
+### Use of Information
 
-### Minimizing Personal Information Collection
+Ingram Micro uses Personal Data we collect to operate our business and provide you with Offerings, which includes using this data to improve our Offerings and personalize your experiences. We also may use the data to communicate with you, for example, informing you about your account and product information.
 
-We strive to collect only that information needed to serve the purpose requested by the individual and to maintain only that personal information that is relevant to those purposes. 
+[Read more](https://web.archive.org/privacy-Statement/use-of-information.aspx)  
+  
+| 
 
-## Information Uses
+### Information Sharing
 
-Odin uses your information to serve you and meet your needs to our best ability. For example, when you use our website, the cookie helps recognize you and your preferences. We use your product purchase and registration information to keep you informed about updates, patches and other advisories. We use it to process your purchases, manage subscriptions, send messages and provide product support. 
+We share your Personal Data with your consent or as necessary to complete any transaction or provide any Offering you have requested or authorized. We also share Personal Data with third party vendors, resellers and distributors, third party service providers, Affiliates and business units, when required by law or to respond to legal process, to protect our customers, to protect lives, to maintain the security of our Offerings, and to protect the rights or property of Ingram Micro.
 
-We also use your information for research into improving our products and services, for planning new features and updates and to customize and improve our websites. For the safety of our customers and employees, we may use information we collect to detect and prevent potential or actual claims and prohibited behaviors, such as fraud or attempts to breach our information security. 
+[Read more](https://web.archive.org/privacy-statement/information-sharing.aspx)  
+  
+| 
 
-## Information Sharing
+### Other Important Privacy Information
 
-In order to serve your requests and needs, we work with trusted third parties that help us run our business. These companies may process payments, fulfill orders, send email or conduct other activities on our behalf. We only share the information needed by them to serve the specific purpose for which they are engaged and we do not allow them to use your information for unauthorized purposes. 
+Access additional privacy information you may find important.
 
-We share your information with our business divisions and affiliated companies for purposes described in this notice and only for legitimate business purposes. 
+[Read more](https://web.archive.org/privacy-statement/other-important-information.aspx)  
+  
+| 
 
-We will share your information when you specifically permit that sharing. And we will share your information when, in good faith, we believe it is necessary to prevent or respond to fraud, defend our interests or protect our customers, employees or the public. We may disclose personal information if we are required to by law or legal process or in response to requests by government agencies or as required for national security. 
+### Additional Languages
 
-Should Odin merge with or be acquired by another company or we sell product lines, service activities or other assets, it is likely your information will be transferred as is appropriate and relevant. 
-
-We may share aggregated and anonymized information (non-identifying) such as statistics about website visitors, product users or other uses of our products and services. 
-
-## Information Choices for Use & Sharing
-
-Odin provides you the opportunity to choose how we use your information and with whom we share it. You may choose to not provide your information, though that will likely prevent us from providing certain services. You can choose to receive or to stop receiving Odin marketing materials, newsletters and subscriptions. We retain the right to send customers messages concerning purchases, critical updates and other administratively necessary information. You cannot opt-out of these messages. 
-
-You may give or withhold permission for Odin to share your information for marketing purposes with trusted vendors and partners. You can make and manage your choices by signing in to the “My Account” feature on our website. You can also respond to our electronic communications and subscriptions with an “Unsubscribe” message in the subject field. 
-
-## Information Access for Changes
-
-Our website and applications allow you to edit your personal information by accessing the “My Account” or similar feature of the website or application you are using. We protect our customers’ privacy and security by limiting the amount of information you can access and edit. You may be able to delete some, but not all, information, as our legal obligations require that we retain specific information for legal and internal business reasons. If you do change your current information, you should be aware that the previous record may be retained on backup records, in compliance with applicable law. 
-
-## Information Security
-
-We use administrative, physical and technical safeguards to protect personal information. We utilize encryption technologies for sensitive data sent from our web sites. We deploy reasonable safeguards across our company databases to prevent unauthorized access, disclosure or loss of personal information. We require our vendors and agents to use safeguards that protect information at least at the same level as our own safeguards. 
-
-## Information Retention & Destruction
-
-We maintain customer information for as long as we need it to provide the requested services. When personal information is no longer needed to serve the purpose of its collection, we strive to de-identify the data, creating aggregated, anonymous records to aid our research and to improve our products, services, and communications. When we do discard personal information, we employ data destruction techniques designed to completely destroy data and prevent any future recovery. 
-
-## Information Inquiries
-
-Individuals who have questions about our personal information handling policies and procedures can contact us at privacy(at)Odin.com
+This Privacy Statement is available in additional languages. To see or download the Privacy Statement in a specific language, please click on a link below.  
+  
+If you have any questions or concerns about this Privacy Statement, the privacy practices of Ingram Micro, our collection or use of your Personal Data, or you wish to access your Personal Data, please contact us at: [privacy@ingrammicro.com](mailto:privacy@ingrammicro.com) or using the contact details provided at <https://corp.ingrammicro.com/Contact-Us.aspx>.
