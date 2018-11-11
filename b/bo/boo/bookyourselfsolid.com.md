@@ -1,48 +1,166 @@
-> *The following text is extracted and transformed from the bookyourselfsolid.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510104130id_/http%3A//www.bookyourselfsolid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookyourselfsolid.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111112553id_/http%3A//www.bookyourselfsolid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Book Yourself Solid
 
-Revised October 15, 2009  
-Michael Port & Associates LLC has created this privacy policy in order to demonstrate our firm commitment to the privacy of our guests. The following discloses our information gathering and dissemination practices for MichaelPort.com and BookYourselfSolid.com, and any other website under which we conduct business.
+Updated: 25 May 2018
 
-**YOUR ACCEPTANCE OF THESE TERMS / MODIFICATIONS**  
-By using this website, you indicate your acceptance of all terms of this Privacy Policy. If you do not agree to this policy, please do not use our websites. Your continued use of any Michael Port & Associates LLC website following the posting of changes to these terms indicates your acceptance of those changes.
+**1\. INTRODUCTION**
 
-**A Special Note about Children**  
-Children under the age of 13 are not eligible to use our services, and we ask that such persons not submit personal information to us. We believe that is important that parents supervise their children when they are online. As a result, we ask that children under the age of 18 use this service only in conjunction with parents or guardians.
+This privacy notice provides you with details of how we collect and process your personal data through your use of our sites [michaelport.com](http://michaelport.com/) and [bookyourselfsolid.com](http://bookyourselfsolid.com/).
 
-**USE OF IP ADDRESSES**  
-An IP address is a number which is assigned to your computer when you are online. Web servers identify your computer by its IP address. MichaelPort.com and BookYourselfSolid.com may collect IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our site. When our guests request pages from MichaelPort.com websites, our servers log the guests’ IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a user’s session will be logged, but the user remains anonymous to BookYourselfSolid.com and MichaelPort.com and other users. We will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our  [Terms of Use](https://web.archive.org/web/20180510104130id_/http%3A//terms-conditions/) or to protect our service, site, customers, or others. Please review each service prior to use and only use those that disclose information which you are willing to disclose.
+By providing us with your data, you warrant to us that you are over 13 years of age.
 
-**USE OF COOKIES**  
-Cookies are pieces of information that a website transfers to your computer for record-keeping purposes. Cookies make browsing the Internet easier for you by saving your preferences while you access a website. MichaelPort.com and BookYourselfSolid.com never saves passwords in cookies. By showing how and when users use a website, cookies help us see which areas are popular and which are not. Many improvements and updates to the MichaelPort.com and BookYourselfSolid.com web content are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide services better tailored to our users’ needs. MichaelPort.com and BookYourselfSolid.com uses cookies primarily in two ways. First, we use them to specify unique preferences so that you do not have to tell us repeatedly about the content you are interested in. Secondly, we use cookies to track user trends and patterns, so we can improve areas of the MichaelPort.com and BookYourselfSolid.com online experience that our users find valuable. While both of these activities depend on the use of a cookie, visitors to MichaelPort.com always have the option of disabling cookies via their browser preferences. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. Please note that some parts of the MichaelPort.com service may not function properly or may be considerably slower if you refuse cookies. For example, you may have difficulty entering contests, or playing games. You may occasionally get cookies directly from our advertisers. MichaelPort.com and BookYourselfSolid.com does not control these cookies.
+Michael Port & Associates LLC is the data controller and we are responsible for your personal data (referred to as “we”, “us” or “our” in this privacy notice).
 
-**Other Information We Collect and Our Use and Disclosure of Your Information**  
-Our website’s registration or purchase forms may require you to create a password and provide certain contact information (including your name and email address). Information about your gender, address, zip code, phone number and income is optional. The customer’s contact information is used to contact the visitor when necessary in the day to day running of the website. Additional information may be collected in connection with certain games, promotions, sweepstakes and contests.
+We have appointed a Data Protection Officer who is in charge of privacy related matters for us. If you have any questions about this privacy notice, please contact the Data Protection Officer using the details set out below.
 
-We also occasionally send emails and newsletters to our users, announcing special promotions changes in our services, and other information we believe will be of interest to our users. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site.
+**Contact Details**
 
-If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on our site, we may collect such information into a file specific to you. We would use information in the file that we maintain for you, and other information that we obtain from your use of the services, to resolve disputes, troubleshoot problems and enforce our [Terms of Use](https://web.archive.org/web/20180510104130id_/http%3A//terms-of-use/).
+Our full details are:
 
-None of the information you provide will be shared with any third parties outside of Michael Port’s organization, and your information will never be used to solicit your purchase of third party goods or services.
+Full name of legal entity: Michael Port & Associates LLC
 
-We cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability.
+Dorothy Petry: Data Protection Officer
 
-**Linked Sites**  
-For your convenience, this website contains links to other websites. MichaelPort.com and BookYourselfSolid.com is not responsible for the privacy practices or the content of such websites. Users should be aware that when they are on MichaelPort.com or BookYourselfSolid.com, they could be directed to other sites that are beyond our control. There are links to other sites from MichaelPort.com and BookYourselfSolid.com pages that take you outside our service. For example, if you click on a banner advertisement, doing so may direct you off of MichaelPort.com or BookYourselfSolid.com. Such other sites may send their own cookies to users, collect data, or solicit personal information. Whenever you give out personal information online (for example, via message boards or chat rooms) information can be collected and used by other people. While MichaelPort.com and BookYourselfSolid.com strive to protect our users’ personal information and privacy, we cannot guarantee the security of any information you disclose online, and you do so at your own risk.
+Email address: [questions@michaelport.com](mailto:questions@michaelport.com)
 
-**Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All user information is stored on a server operated by a third party, using standard security measures. Notwithstanding these efforts, we caution you that “perfect security” does not exist on the Internet and therefore you share information at your own risk.
+Postal address: 278 N. Union Street, Lambertville, NJ 08530
 
-**Choice/Opt-Out**  
-This website gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. To keep you in control of your personal information and the communications directed to you, we allow you to opt out of the following services: receiving communications (including our newsletters) from us about new Michael Port and Book Yourself Solid programs and events.
+It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at [questions@michaelport.com](mailto:questions@michaelport.com)
 
-**Contacting MichaelPort.com and BookYourselfSolid.com  about the Website**  
-If you have any questions about this privacy policy, the practices of this site, or your dealings with MichaelPort.com or this Website, you can contact:
+**2\. WHAT DATA DO WE COLLECT ABOUT YOU, FOR WHAT PURPOSE AND ON WHAT GROUND WE PROCESS IT**
 
-Michael Port & Associates LLC  
-PO Box 212  
-New Hope, PA 18938  
-E-mail: [questions@michaelport.com](mailto:questions@michaelport.com)
+Personal data means any information capable of identifying an individual. It does not include anonymized data.
 
-rev date: 10.15.2009
+We may process the following categories of personal data about you:
+
+  * **Communication Data** that includes any communication that you send to us whether that be through the contact form on our website, through email, text, social media messaging, social media posting or any other communication that you send us. We process this data for the purposes of communicating with you, for record keeping and for the establishment, pursuance or defense of legal claims. Our lawful ground for this processing is our legitimate interests that in this case are to reply to communications sent to us, to keep records and to establish, pursue or defend legal claims.
+
+
+  * **Customer Data** that includes data relating to any purchases of goods and/or services such as your name, title, billing address, delivery address email address, phone number, contact details, purchase details and your card details. We process this data to supply the goods and/or services you have purchased and to keep records of such transactions. Our lawful ground for this processing is the performance of a contract between you and us and/or taking steps at your request to enter into such a contract.
+
+
+  * **User Data** that includes data about how you use our website and any online services together with any data that you post for publication on our website or through other online services. We process this data to operate our website and ensure relevant content is provided to you, to ensure the security of our website, to maintain back- ups of our website and/or databases and to enable publication and administration of our website, other online services and business. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business.
+
+
+  * **Technical Data** that includes data about your use of our website and online services such as your IP address, your login data, details about your browser, length of visit to pages on our website, page views and navigation paths, details about the number of times you use our website, time zone settings and other technology on the devices you use to access our website. The source of this data is from our analytics tracking system. We process this data to analyze your use of our website and other online services, to administer and protect our business and website, to deliver relevant website content and advertisements to you and to understand the effectiveness of our advertising. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business and to grow our business and to decide our marketing strategy.
+
+
+  * **Marketing Data** that includes data about your preferences in receiving marketing from us and our third parties and your communication preferences. We process this data to enable you to partake in our promotions such as competitions, prize drawings and free give-aways, to deliver relevant website content and advertisements to you and measure or understand the effectiveness of this advertising. Our lawful ground for this processing is our legitimate interests which in this case are to study how customers use our products/services, to develop them, to grow our business and to decide our marketing strategy.
+
+
+  * **Sensitive Data** We may use Customer Data, User Data, Technical Data and Marketing Data to deliver relevant website content and advertisements to you (including Facebook ads or other display advertisements) and to measure or understand the effectiveness of the advertising we serve you. Our lawful ground for this processing is legitimate interests which is to grow our business. We may also use such data to send other marketing communications to you. Our lawful ground for this processing is either consent or legitimate interests (namely to grow our business).
+
+
+
+We do not collect any Sensitive Data about you. Sensitive data refers to data that includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. We do not collect any information about criminal convictions and offenses.
+
+Where we are required to collect personal data by law, or under the terms of the contract between us and you do not provide us with that data when requested, we may not be able to perform the contract (for example, to deliver goods or services to you). If you don’t provide us with the requested data, we may have to cancel a product or service you have ordered but if we do, we will notify you at the time.
+
+We will only use your personal data for a purpose it was collected for or a reasonably compatible purpose if necessary. For more information on this please email us at [questions@michaelport.com](mailto:questions@michaelport.com). In case we need to use your details for an unrelated new purpose we will let you know and explain the legal grounds for processing.
+
+We may process your personal data without your knowledge or consent where this is required or permitted by law.
+
+We do not carry out automated decision making or any type of automated profiling.
+
+**3\. HOW WE COLLECT YOUR PERSONAL DATA**
+
+We may collect data about you by you providing the data directly to us (for example by filling in forms on our site or by sending us emails). We may automatically collect certain data from you as you use our website by using cookies and similar technologies. Please see our cookie policy for more details about this.
+
+We may receive data from third parties such as analytics providers such as Google based outside the EU, advertising networks such as Facebook based outside the EU, search information providers such as Google based outside the EU, providers of technical, payment and delivery services, such as data brokers or aggregators.
+
+We may also receive data from publicly availably sources such as Companies House and the Electoral Register based inside the EU.
+
+**4\. MARKETING COMMUNICATIONS**
+
+Our lawful ground of processing your personal data to send you marketing communications is either your consent or our legitimate interests (namely to grow our business).
+
+Under the Privacy and Electronic Communications Regulations, we may send you marketing communications from us if (i) you made a purchase or asked for information from us about our goods or services or (ii) you agreed to receive marketing communications and in each case you have not opted out of receiving such communications since. Under these regulations, if you are a limited company, we may send you marketing emails without your consent. However you can still opt out of receiving marketing emails from us at any time.
+
+Before we share your personal data with any third party for their own marketing purposes we will get your express consent.
+
+You can ask us or third parties to stop sending you marketing messages at any time by logging into the website, coming to this Privacy Policy, and checking or unchecking relevant boxes to adjust your marketing preferences OR by emailing us at [questions@michaelport.com](mailto:questions@michaelport.com).
+
+If you opt out of receiving marketing communications this opt-out does not apply to personal data provided as a result of other transactions, such as purchases, warranty registrations etc.
+
+**5\. DISCLOSURES OF YOUR PERSONAL DATA**
+
+We may have to share your personal data with the parties set out below:
+
+  * Other companies in our group who provide services to us.
+
+
+  * Service providers who provide IT and system administration services.
+
+
+  * Professional advisers including lawyers, bankers, auditors and insurers
+
+
+  * Government bodies that require us to report processing activities.
+
+
+  * Third parties to whom we sell, transfer, or merge parts of our business or our assets.
+
+
+
+We require all third parties to whom we transfer your data to respect the security of your personal data and to treat it in accordance with the law. We only allow such third parties to process your personal data for specified purposes and in accordance with our instructions.
+
+**6\. INTERNATIONAL TRANSFERS**
+
+We share your personal data within our group of companies that involves transferring your data outside the European Economic Area (EEA).
+
+Countries outside of the European Economic Area (EEA) do not always offer the same levels of protection to your personal data, so European law has prohibited transfers of personal data outside of the EEA unless the transfer meets certain criteria.
+
+Many of our third parties service providers are based outside the European Economic Area (EEA) so their processing of your personal data will involve a transfer of data outside the EEA.
+
+Whenever we transfer your personal data out of the EEA, we do our best to ensure a similar degree of security of data by ensuring at least one of the following safeguards is in place:
+
+  * We will only transfer your personal data to countries that the European Commission have approved as providing an adequate level of protection for personal data by; or
+
+
+  * Where we use certain service providers, we may use specific contracts or codes of conduct or certification mechanisms approved by the European Commission which give personal data the same protection it has in Europe; or
+
+
+  * If we use US-based providers that are part of EU-US Privacy Shield, we may transfer data to them, as they have equivalent safeguards in place.
+
+
+
+If none of the above safeguards is available, we may request your explicit consent to the specific transfer. You will have the right to withdraw this consent at any time.
+
+**7\. DATA SECURITY**
+
+We have put in place security measures to prevent your personal data from being accidentally lost, used, altered, disclosed, or accessed without authorization. We also allow access to your personal data only to those employees and partners who have a business need to know such data. They will only process your personal data on our instructions and they must keep it confidential.
+
+We have procedures in place to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach if we are legally required to.
+
+**8\. DATA RETENTION**
+
+We will only retain your personal data for as long as necessary to fulfill the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+When deciding what the correct time is to keep the data for we look at its amount, nature and sensitivity, potential risk of harm from unauthorized use or disclosure, the processing purposes, if these can be achieved by other means and legal requirements.
+
+For tax purposes the law requires us to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years after they stop being customers.
+
+In some circumstances we may anonymize your personal data for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+**9\. YOUR LEGAL RIGHTS**
+
+Under data protection laws you have rights in relation to your personal data that include the right to request access, correction, erasure, restriction, transfer, to object to processing, to portability of data and (where the lawful ground of processing is consent) to withdraw consent.
+
+If you wish to exercise any of the rights set out above, please email us at [questions@michaelport.com](mailto:questions@michaelport.com).
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive or refuse to comply with your request in these circumstances.
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you.
+
+If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the relevant EU supervisory authority for data protection issues. We would be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you.
+
+**10\. THIRD-PARTY LINKS**
+
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
+
+**11\. COOKIES**
+
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly.
