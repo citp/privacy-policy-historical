@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyheight.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122063725id_/http%3A//www.flyheight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyheight.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112145344id_/https%3A//flyheight.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FlyHeight
 
@@ -30,6 +30,11 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
  **Third Party Cookies**
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
 
- **Effective Date: December 1, 2015  **
+**Our Policy Towards Children’s Information**
+
+This Service is not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us immediately here: https://flyheightvideos.com/contact . If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+
+ **Effective Date: December 1, 2015  **  
+
