@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nettv4u.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606202555id_/http%3A//www.nettv4u.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nettv4u.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112185027id_/http%3A//www.nettv4u.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Read our Privacy Policy
 
@@ -32,7 +32,7 @@ When using the Disqus public commenting platform on Nettv4u website, other users
 Nettv4u is not responsible for the procedures used by websites linked to or its contents. Please be reminded that when you click a link to go from Nettv4u to another website, this Privacy Policy Statement is no longer in effect. Browsing and any communication to another website such as, those that contains a link to Nettv4u website, is subject to their own regulations.
 
   
-Nettv4u is an online video indexing website and we do not upload or host any media files. All the videos posted on our website are transmitted on [www.youtube.com](http://www.youtube.com/), [www.dailymotion.com](http://www.dailymotion.com/) or similar websites. However, we are not responsible for any damages or breach in the terms of use of our sources. If you have any issues in the media content posted on our website, please contact the respected owners or website of those copyrighted media content. If by chance that Nettv4u posted any of your copyrighted material, please feel free to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5b082e2b2b34292f1b153e2f2f2d6f2e75383436).
+Nettv4u is an online video indexing website and we do not upload or host any media files. All the videos posted on our website are transmitted on [www.youtube.com](http://www.youtube.com/), [www.dailymotion.com](http://www.dailymotion.com/) or similar websites. However, we are not responsible for any damages or breach in the terms of use of our sources. If you have any issues in the media content posted on our website, please contact the respected owners or website of those copyrighted media content. If by chance that Nettv4u posted any of your copyrighted material, please feel free to contact us at [support@Nettv4u.com](mailto:Support@Nettv4u.com).
 
 ## How is this Collected Information used?
 
@@ -62,11 +62,11 @@ However, there is no website that is extremely secure. Third parties may illegal
 
 ## Policy with regards to children:
 
-Nettv4u was not ordained to children under the age of 13. We do not allow children under 13, especially without parental consent to use our website since it may contain materials that are not suitable for their age. We do not intentionally collect any information from children under 13 or eloquently allow children to use any of our services. If you know any information or children under 13 using our service, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#33604643435c4147737d5647474507461d505c5e).
+Nettv4u was not ordained to children under the age of 13. We do not allow children under 13, especially without parental consent to use our website since it may contain materials that are not suitable for their age. We do not intentionally collect any information from children under 13 or eloquently allow children to use any of our services. If you know any information or children under 13 using our service, please contact us at [support@Nettv4u.com](mailto:Support@Nettv4u.com).
 
 ## Contact:
 
-If you have any questions and suggestions about the Nettv4u Privacy Policy Statement, please send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#33604643435c4147737d5647474507461d505c5e).
+If you have any questions and suggestions about the Nettv4u Privacy Policy Statement, please send us an email at [support@Nettv4u.com](mailto:Support@Nettv4u.com).
 
 ## Amendment to Nettv4u Privacy Policy Statement:
 
