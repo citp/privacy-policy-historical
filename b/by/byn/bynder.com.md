@@ -1,269 +1,126 @@
-> *The following text is extracted and transformed from the bynder.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904064949id_/https%3A//www.bynder.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bynder.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113005018id_/https%3A//www.bynder.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Legal | Bynder
+# Privacy Policy Bynder Global | Bynder
 
-**Bynder.com and all other redirecting domain names**
+Bynder understands that as visitors to our website (“the Website”), potential customers, and Users of Bynder products (“Products”), you care about how your information is collected, used, processed, transferred, stored, and shared. This Privacy Policy describes the lengths to which Bynder goes to protect your privacy, including the ways in which we may contact you. It forms a part of our [Website Terms of Use](https://www.bynder.com/en/legal/terms-of-use/ "Legal: Website Terms of Use"), [Trial Terms of Use](https://www.bynder.com/en/legal/trial-terms-of-use/ "Legal: Trial Terms of Use"), [Standard Terms of Service](https://www.bynder.com/en/legal/terms-of-service-bynder-bv/ "Legal: Standard Terms of Service"), and [Orbit B2B Terms of Service](https://www.bynder.com/en/orbit/legal/b2b-terms-of-service/ "Orbit Legal: Orbit B2B Terms of Service"), and all other documents incorporated therein (“Terms”). Any capitalized terms not defined in this Privacy Policy are defined as set out in the Terms.
 
-This Privacy Policy describes how Bynder manages your privacy, including the ways in which we may contact you and our use of cookies; it forms a part of our [Website Terms of Use](https://www.bynder.com/en/legal/terms-of-use/ "Legal: Website Terms of Use"), [iOS App Terms of Use](https://www.bynder.com/en/legal/ios-app/ "Legal: iOS App Terms of Use"), [Android App Terms of Use](https://www.bynder.com/en/legal/android-app/ "Legal: Android App Terms of Use"), [Trial Terms of Use](https://www.bynder.com/en/legal/trial-terms-of-use/ "Legal: Trial Terms of Use") and [Orbit Terms of Use](https://www.bynder.com/en/legal/first-in-orbit-terms-of-use/ "Legal: Orbit Terms of Use"). Bynder knows that as visitors to our website (“the Website”) and users of a Bynder trial or free version, including Orbit (“Services”), you care about how your personal and organizational information is collected, used, disclosed, transferred, stored, and shared. Bynder goes to great lengths to protect your information and your privacy.
+Please familiarize yourself with the contents of this Privacy Policy. If you have any questions about it or our treatment of your information, please contact us by email at: privacy@bynder.com, or by mail at: Max Euweplein 46, 1017 MB Amsterdam, the Netherlands, Attn: Privacy & Legal. This Privacy Policy is updated on an ongoing basis, as necessary, and a formal review is conducted annually. We will handle your information in accordance with the Privacy Policy in effect at that time. Updates will be posted publicly on the Website and be effective immediately as of the date of posting, as indicated at the bottom of this document. If we make substantive changes to the purposes and policies set out here, we will update you by email or in-application notification.
 
-Please familiarize yourself with this Privacy Policy. If you have any questions about it or our treatment of the information you provide us, please contact us by email at: privacy@bynder.com, or by mail at Max Euweplein 46, 1017 MB Amsterdam, the Netherlands, Attn: Privacy & Legal. This Privacy Policy is updated on an ongoing basis, as necessary, and a formal review is conducted annually. We will handle information in accordance with the Privacy Policy in effect at the time we handle that information. Updates to this Privacy Policy will be posted publicly on the Website and be effective immediately as of the date at the bottom of this document.
+This Privacy Policy exclusively provides information on how Bynder handles data of which Bynder is controller, meaning all data we process for our own purposes. The way we handle data our customers control and Bynder processes (or that our customers process and Bynder sub-processes) is covered by the Data Processing Agreements (“DPAs”) we conclude with our customers. Bynder’s standard Customer DPA is available upon request by sending an email to privacy@bynder.com.
 
-## 1\. Acceptance of Terms
+## 1\. What We Collect & How We Use It
 
-In order to request and use the Services, you need to provide your name and email address to us. Any Personal Information that is submitted or collected during your use of the Services will be subject to this Privacy Policy. Your use of the Services will also be subject to the Bynder Acceptable Use Policy and the Trial Terms of Use or the [First in Orbit Terms of Use](https://www.bynder.com/en/legal/first-in-orbit-terms-of-use/ "Legal: First in Orbit Terms of Use"), as relevant.
+### 1.1 Website
 
-By visiting the Website or using the Services in any manner, you acknowledge that you fully accept the practices and policies outlined here, and you consent to our collection, use, and transfer of your information in the following ways. If you do not accept the Privacy Policy as a whole you must immediately stop using the Website and Services.
+When you visit the Website, you are not required to actively provide any information, but the analytics software we use may collect some Personal Data and Navigation Information, as set out in 2.3 below. When you contact us via the Website chat function, sign up to download or receive information from us, or sign up to receive and use our Products, you are required to provide some Personal Data, and we may collect some Navigational Information. Some information is collected via the Website using cookies in accordance with our Cookies Policy. Please note that most of the cookies we use are functional cookies, but for the use of some of the cookies we shall ask you for your prior consent. Our Cookies Policy lists an overview of cookies that we use.
 
-## 2\. What We Collect & How We Use It
+### 1.2 Bynder Products
 
-### 2.1 Websites
+We may collect Personal Data and Navigation Information from Users of our Products to help us provide, administer, and improve our Products. In order to request and use the Products, you will need to provide your full name and email address to us. To make changes to the permission you give us, please visit your Bynder User profile.
 
-When you visit the Website, you are not required to provide any personal information. However, when you contact us via the chat function in the Website, when you sign up to receive information from us, or when you sign up to receive and use the Services, you are required to provide some Personal Information about yourself, and we may collect some Navigational Information, in accordance with our Cookies Policy below.
+### 1.3 Collected Personal Data & Navigation Information
 
-### 2.2 Personal Information
+“Personal Data” refers to any information that can be used to identify you personally. For our purposes, this includes your (first and last) name, email address, User ID, and company name, and possibly your address, phone number and information about you that is publicly available online via sites like Facebook, LinkedIn, Twitter, and Google, number of employees, data you enter into the open write-in box of our contact form, your active project, your project role, your current solution, your issues with managing assets, your uploads, your preferences and your account settings.
 
-“Personal Information” refers to any information that you choose to submit to us that identifies you personally. This includes, for example, your name, email address, company name, address, phone number, and other information about you and/or your business. This can also include information about you that is publically available, information that is available about you online via sites like Facebook, LinkedIn, Twitter, and Google.
+“Navigation Information” refers to information about your computer, device, visits to the Website, and use of the Products. For our purposes, this includes which website you visited prior to visiting us or which link or campaign you clicked on to get to us, your IP address, geographical location (city and/or country), browser type and version, ISP information, referral source, length of visits, pages viewed, language preferences and heat mapping.
 
-In addition to other uses mentioned in this Privacy Policy, we also may use your Personal Information to:
+In cases where the information can be used to identify you personally, Navigation Information would also be considered Personal Data.
 
-  * Improve your browsing experience by personalising the Website;
-  * Send you information we think may be of interest to you by email or other means;
-  * link the analytics information we store to Personal Information you submit to us; and
-  * Contact you for marketing purposes related to our business, which we think may be of interest to you.
+Generally, we may use your Personal Data and Navigation Information for the following purposes:
 
+  * Personalising the Website for the legitimate purpose of improving your browsing experience. We retain Personal Data processed for this purpose until your browsing session with us has ended in case or until such time you no longer have a profile with us, if this is longer;
+  * Managing your Bynder account in performance of our agreement. We retain Personal Data processed for this purpose until termination or expiration of our agreement;
+  * Understanding User preferences for the legitimate purpose of improving our Products. We retain Personal Data processed for this purpose for one (1) year after your last log-in to our Products.;
+  * Linking your Navigation Information and Personal Data to learn your preferences and those of people like you for the legitimate purpose of improving our strategy and offerings. We will only collect information about which website you visited prior to visiting us or which link or campaign you clicked on to get to us for the purpose of improving our marketing strategy and always with your prior consent. We retain Personal Data processed for this purpose for one (1) year after collection; and
+  * Contacting you for direct marketing purposes, but only with your prior consent. We retain Personal Data processed for this purpose until you withdraw your consent.
 
 
-### 2.3 Navigation Information
 
-This refers to information about your computer, device, visits to the Website, and logins to the Services, including your IP address, geographical location, browser type, referral source, length of visits, pages viewed, and heatmapping. We use Navigation Information to operate and improve the Website and Services, and may also use it to provide you with personalized information about Bynder. Due to the nature of what is being collected, it is possible that Navigation Information may include Personal Information.
+Where we process Personal Data for our legitimate interests, more information on the balancing exercise carried out by us can be obtained via privacy@bynder.com.
 
-### 2.4 Service Providers
+### 1.4 Service Providers
 
-The Website and Services integrate some services provided by third parties. We may share some of your information with these service providers in order for them to provide their services, including removing repetitive information from prospect lists, analyzing data, providing marketing assistance, conducting customer and/or user profiling, and providing customer service. As such, the terms and privacy policies of these service providers may apply to you as well, in particular: [Google Analytics](https://www.google.nl/analytics/terms/us.html "Google Analytics Terms of Service"), [Hubspot](https://legal.hubspot.com/legal-stuff "Hubspot Legal Stuff"), [Intercom](https://docs.intercom.com/pricing-privacy-and-terms "Chatlio Web Site Terms and Privacy Policy"), [Chatlio](https://chatlio.com/terms/ "Intercom Terms of Service"), [Optimizely](https://www.optimizely.com/privacy/ "Optimizely Terms of Service Agreement"), [Adroll](https://www.adroll.com/about/terms "Adroll Terms of Service"), [Perfect Audience](https://www.perfectaudience.com/privacy/ "Perfect Audience Privacy Policy & Opt-out"), [Google Adwords](https://www.google.com/intl/en/policies/privacy/ "Google Privacy Policy"), [Google Tag Manager](https://www.google.com/analytics/tag-manager/use-policy/ "Google Tag Manager Terms of Service"), [Google Recaptcha](https://www.google.com/intl/en/policies/privacy/ "Google Privacy Policy"), [Walkme](https://www.walkme.com/privacy-policy/ "Walkme Privacy Policy"), [Hotjar](https://www.hotjar.com/privacy "Hotjar Privacy Policy"), [Amplitude](https://amplitude.com/privacy "Amplitude Privacy Policy"), [Segment](https://segment.com/docs/legal/privacy/ "Segment Privacy Policy"), [Mixpanel](https://mixpanel.com/privacy/ "Mixpanel Privacy Policy"), [Kissmetrics](https://signin.kissmetrics.com/privacy "Kissmetrics Privacy Policy"), [Clearbit](https://clearbit.com/privacy "Clearbit Privacy Policy"), [Madkudu](https://www.madkudu.com/privacy "Madkudu Privacy Policy"), [KickoffLabs](https://kickofflabs.com/privacy-policy/ "KickoffLabs Privacy Policy"), [Stripe](https://stripe.com/nl/privacy "Stripe Privacy Policy --- Worldwide"), and [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk Privacy Policy"). Acceptance of these service provider terms is required to access the Website and Services. Further information is set out below in our Cookies Policy.
+The Website and Products integrate some services provided by third parties. We may share some of your information with these service providers so they can provide their services, including payment processing, removing repetitive information from prospect lists, analyzing data, marketing support, customer and/or User profiling, business development, and customer service.
 
-Bynder seeks to conclude data processing agreements with each service provider before third party services are implemented into the Website or Services in order to ensure that your Personal Information is used, stored, and transferred securely and in accordance with European Union law. Even so, Bynder does not control or assume any responsibility for the content or practices of these service providers, including their data storage and transfer policies, and this Privacy Policy does not apply to these features, which are governed by their own policies and terms.
+To ensure that your Personal Data is processed, used, stored, and transferred securely and in accordance with European Union law, Bynder uses service providers that provide sufficient guarantees to implement appropriate technical and organizational measures to protect your information. For service providers that may transfer Personal Data outside the European Economic Area, Bynder confirms that it implements appropriate safeguards for such transfers (e.g. [Privacy Shield certification](https://www.privacyshield.gov/welcome "Privacy Shield certification"), [EU Standard Contractual Clauses](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087 "EU Standard Contractual Clauses"), binding corporate rules).
 
-### 2.5 External Websites
+Please note, the terms and privacy policies of the service providers we use may apply to you as well, in particular: [Google Analytics](https://www.google.nl/analytics/terms/us.html "Google Analytics Terms of Service"), [Hubspot](https://legal.hubspot.com/legal-stuff "Hubspot Legal Stuff"), [Drift](https://www.drift.com/privacy-policy/ "Drift Privacy Policy"), [Chatlio](https://chatlio.com/terms/ "Chatlio Terms"), [Google Optimize](https://support.google.com/optimize/answer/6230273?hl=en "Google Optimize Terms of Service"), [Google Adwords](https://policies.google.com/privacy?hl=en "Google Adwords Privacy Policy"), [Google Tag Manager](https://www.google.com/analytics/tag-manager/use-policy/ "Google Tag Manager Terms of Service"), [Google Recaptcha](https://policies.google.com/privacy?hl=en "Google Recaptcha Privacy Policy"), [Walkme](https://www.walkme.com/privacy-policy/ "Walkme Privacy Policy"), [Hotjar](https://www.hotjar.com/privacy "Hotjar Privacy by Design"), [Amplitude](https://amplitude.com/privacy "Amplitude Privacy Policy"), [Stripe](https://stripe.com/nl/privacy "Stripe Privacy Policy"), [Appcuse](https://www.appcues.com/privacy "Appcuse Privacy Policy"), [Salesforce Pardot](https://www.pardot.com/legal/ "Salesforce Pardot Legal"), [Marketo](https://www.marketo.com/company/legal/ "Marketo Legal"), [Sisense](https://www.sisense.com/services-and-cloud-privacy-notice/ "Sisense Privacy Notice"), and [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk Privacy Notice"). Your acceptance of applicable service provider terms is required to access the Website and Products.
 
-The Website and Services may contain links to other websites run by third parties. Our provision of these links does not amount to our endorsement of these other websites, nor their content, owners, or practices. This Privacy Policy does not apply to those other websites, which are governed by their own terms and policies. Bynder does not control or assume any responsibility for the content or practices of these other websites.
+**Disclaimer** This overview of Service Providers is a snapshot. Bynder strives to keep this list as up-to-date as reasonably possible. However, considering the dynamic characteristic of the internet and the many (external) parties involved, it is possible that not all current Service Providers are listed at all times.
 
-### 2.6 Customer Testimonials & Quotes
+### 1.5 External Websites
 
-We may publish customer testimonials and quotes on the Website, which may contain some Personal Information. Bynder obtains consent from each customer and the featured individual prior to posting their name and testimonial.
+The Website and Products may contain links to other websites run by third parties. Our provision of these links does not amount to our endorsement of these other websites, nor their content, owners, or practices. Bynder does not control or assume responsibility for the content or practices of these other websites or third parties. This Privacy Policy does not apply to those other websites, which are governed by their own terms and policies.
 
-### 2.7 Information of Minors
+### 1.6 Social media buttons
 
-The Website and Services are not intended for or targeted toward children under 18 (“Minors”), and we do not knowingly collect any information about Minors. If you believe that we have collected information about Minors, please contact us at privacy@bynder.com so that we can delete the information.
+On our website we use the social media plug-ins from platforms such as Facebook, Twitter, LinkedIn, Vimeo, YouTube and G-mail. Plug-ins can be recognized by the social media buttons marked with the logos of these companies. Plug-ins are also used for the embedded video players which can be found on our website.
 
-### 2.8 We Don’t Sell Personal Information
+We have implemented these plug-ins using the so-called 2-click solution. This means that when you surf on our website, no information of you will initially be collected by the providers of these social media plug-ins. Only if you click on one of the plug-ins or one of the videos will your information be transmitted: by activating the plug-in, data is automatically transmitted to the respective plug-in provider and stored by them. We do not have influence on the collected data and data processing operations conducted by these social media providers and are not aware of the full extent of data collection, the purposes or the retention periods.
 
-We will never sell your Personal Information to a third party, we promise.
+Information on the purpose and scope of data collection and its processing by social media platforms can be found in the respective data protection policies of these providers, where you will also find further information on your rights and options for privacy protection. Please refer to the websites of these social media platforms for their data protection policies.
 
-## 3\. Retention & Security of Personal Information
+### 1.7 Customer Testimonials & Quotes
 
-### 3.1 Retention of Personal Information
+We may publish customer testimonials and quotes on the Website or in other marketing materials, which may contain some Personal Data. Bynder obtains consent from each customer and the featured individuals prior to publication. This consent may be withdrawn at any time. If you are featured in a customer testimonial or quote and wish to withdraw your consent, please send an email with your request to privacy@bynder.com.
 
-We retain any Personal Information that you provide to us so long as we consider it to be necessary, after which time we will securely delete the information. We will also delete any of your Personal Information from our servers upon your request, as detailed in Bynder’s Opt-Out & Anti-Spam Policy below.
+### 1.8 Information of Children
 
-### 3.2 Security of Personal Information
+The Website and Products are for business use and are not intended for or targeted toward children under 16 (“Children”). We do not knowingly collect any information about Children, but if you believe that we have unintentionally collected information about Children, please contact us at privacy@bynder.com so that we can delete the information.
 
-As part of being ISO 27001:2013 certified, we use a range of security technologies and processes to protect your Personal Information from unauthorized access, use, and disclosure. Our servers are housed in secure and controlled environments administered by Amazon Web Services (AWS), which are protected from unauthorized access as per the AWS Cloud Security policy: aws.amazon.com/security/. Personal Information is encrypted when it is collected via the Website and Services and/or is transmitted to third parties in accordance with this Privacy Policy.
+### 1.9 We Don’t Sell Personal Data
 
-### 3.3 Transfer of Personal Information
+We will never sell your Personal Data to a third party, we promise.
 
-Bynder is compliant with European Union law and maintains strong data protection and privacy controls to protect your Personal Information and ensure its security during international transfer and any periods of storage in foreign locations. As an international company, we may transfer and access Personal Information from around the world, including between and from within the European Union and the United States. No matter where you or your data are located, this Privacy Policy shall apply, even if we transfer Personal Information to other countries.
+## 2\. Retention & Security of Personal Data
 
-### 3.4 Disclosure of your Personal Information
+### 2.1 Retention of Personal Data
 
-We reserve the right to use or disclose your Personal Information if we are required by law or if we reasonably determine that use or disclosure of your Personal Information is necessary to protect our rights, operations, or users; comply with a law, court order, or legal process; or perform our contractual obligations. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all Personal Information we collect to the relevant party.
+We retain Personal Data for as long as we reasonably consider it to be necessary for the purposes for which it was collected, , after which time we will securely delete the information. For more information about applicable retention periods, see Paragraph 2.3. You can also request deletion of your Personal Data in accordance with Bynder’s Opt-Out & Anti-Spam Policy below.
 
-## 4\. Opt-Out & Anti-Spam Policy
+### 2.2 Security of Personal Data
 
-### 4.1 Review, Change & Remove Personal Information
+As part of being ISO 27001:2013 certified, HIPAA and PCI-DSS compliant, we use a range of security technologies and processes to protect your Personal Data from unauthorized access, use, and disclosure, including encryption of Personal Data both in transit and at rest using state-of-the-art encryption algorithms and following best practices. Our servers are housed in secure and controlled environments administered by Amazon Web Services (“AWS”), which are protected as per the [AWS Cloud Security policy](https://aws.amazon.com/security/ "AWS Cloud Security").
 
-If you provide us with your Personal Information, you have the following rights with respect to that information to:
+### 2.3 Transfer of Personal Data
 
-  * Review the Personal Information that you have supplied to us;
-  * Request a correction of any errors or change of outdated information or omissions in the Personal Information that you have supplied to us;
-  * Request that your Personal Information not be used to contact you;
-  * Request that your Personal Information be removed from our solicitation list(s);
-  * Request that your Personal Information be deleted from our records; or
-  * Opt out of being solicited by Bynder.
+As an international company with customers and Users worldwide, we may transfer and access Personal Data from around the world, including the United States. To comply with European Union data protection law, we maintain strong data protection and privacy controls to protect your Personal Data and ensure it during cross-border and international transfers, as well as during periods of storage in foreign countries (e.g. [Privacy Shield certification](https://www.privacyshield.gov/welcome "Privacy Shield certification"), [EU Standard Contractual Clauses](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087 "EU Standard Contractual Clauses"), binding corporate rules). Please email privacy@bynder.com for a copy of these safeguards.
 
+Because we believe that your right to privacy is not contingent on your nationality, no matter where you or your data are located, transferred, or accessed from, the high standards in this Privacy Policy will still apply.
 
+### 2.4 Required Disclosure of your Personal Data
 
-To exercise any of these rights, please contact us by email at privacy@bynder.com or send mail to Bynder BV, Max Euweplein 46, 1017 MB Amsterdam, the Netherlands Attn: Privacy & Legal. We will act promptly to amend or delete your Personal Information and will notify you accordingly. Please note that the use, storage, and transfer some of your Personal Information may be necessary for the purposes of our relationship. If we receive a request to delete Personal Information that is categorized as being necessary, we will contact you and work with you to find a reasonable solution.
+We may use or disclose your Personal Data if required by law, if we reasonably determine that such use or disclosure is necessary to protect our rights, operations, or Users; to comply with a law, court order, or legal process; or to otherwise perform our contractual obligations with you.
 
-### 4.2 Unsubscribe from our Communications
+We may transfer the data we control, including Personal Data, in the event of a company reorganization, merger, or sale.
 
-You may unsubscribe from receiving our marketing communications at any time by clicking on the "unsubscribe" link located on the bottom of our emails, contacting us by email at privacy@bynder.com, or contacting us by post at Bynder BV, Max Euweplein 46, 1017 MB Amsterdam, the Netherlands Attn: Privacy & Legal.
+## 3\. Your Rights: Opt-Out & Anti-Spam Policy
 
-Please note that our customers and users cannot opt out of receiving product and transactional emails related to their account with us.
+With respect to your Personal Data, you have the right to:
 
-## 5\. Cookies Policy
+  * Request that your Personal Data will not be processed;
+  * Review the Personal Data that we have about you; 
+  * Request a correction of any errors in or update of the Personal Data that we have about you;
+  * Request that your Personal Data will not be used to contact you for direct marketing purposes;
+  * Request that your Personal Data will not be used for profiling purposes;
+  * Request that your Personal Data will not be used to contact you at all;
+  * Request that your Personal Data be transferred or exported to another organization, or deleted from our records; or
+  * At any time, withdraw any permission you have given us to process your Personal Data.
 
-Bynder uses cookies to ensure that we provide you with the optimal experience when using the Site and to track visitor statistics.
 
-### 5.1 What are cookies?
 
-A cookie is a small text file that a website or online service saves on your computer or mobile device when you visit the website or use the service. It enables the website to remember your actions and preferences (such as login, language, font size, and other display preferences) over a period of time so you don’t have to keep re-entering them whenever you return or browse from one page to another. Cookies help Bynder to improve the functionality and effectiveness of the Website and Services.
+In addition, if you want to file a complaint about the way we process your personal data or the way we have handled a request made by you, you can file a complaint with the data protection authority of the country where you live or work or the country where you believe your data has not been processed lawfully by us. We hope this will not be necessary and would like to assure you we will do our best to resolve any dissatisfaction you may have. It is also possible to file a complaint with us by email to privacy@bynder.com.
 
-### 5.2 How do we use cookies?
+### 3.1 To Review, Change or Remove Personal Data or file a complaint
 
-FUNCTIONAL COOKIES
+Please email your request to privacy@bynder.com or send postal mail to Bynder BV, Max Euweplein 46, 1017 MB Amsterdam, the Netherlands Attn: Privacy & Legal. We will act without any undue delay in response and will notify you accordingly at the latest within 30 days. We may ask you some verification questions before providing Personal Data to you.
 
-Cookie notification
+Please note that the collection, processing, use, sharing, storage, and transfer some of your Personal Data may be necessary for the above purposes. Without this Personal Data, it will not be possible for you to make use of our services. If we receive a request to delete Personal Data that has been categorized as necessary for these purposes, we will contact you and work with you to find a reasonable solution.
 
-  * We use this cookie to remember whether or not you closed the cookie notification bar.
-  * Persistent cookie: cookieBar
-  * Persistency duration: 2 years
+### 3.2 To withdraw consent for Direct Marketing &/or Profiling
 
+You may at any time withdraw your consent for direct marketing communications and/or related profiling at any time by clicking the "unsubscribe" link located on the bottom of our emails, contacting us by email at privacy@bynder.com, or contacting us by postal mail at Bynder BV, Max Euweplein 46, 1017 MB Amsterdam, the Netherlands Attn: Privacy & Legal. Users can withdraw consent by adjusting their User profile settings in the Products.
 
+Please note that our customers and Users cannot opt out of receiving product and transactional emails related to their Bynder account.
 
-Timespent
-
-  * We use this cookie to determine how much time you’ve spent on the Website, so that we can prompt an interaction after a certain amount of time.
-  * Session cookie: timespent
-
-
-
-Bynder
-
-  * We use this cookie to identify you after you view your Bynder environment. 
-  * Session cookie: bynder
-
-
-
-Language
-
-  * We use this cookie to store your default locale settings so we can show the demo environment in your own language
-  * Session cookie: DEFAULTLOCALE
-
-
-
-InterCom
-
-  * InterCom uses cookies in supporting the live interaction feature on the English version of the Website.
-  * Persistent cookie: intercom-id, Xintercom-visitor-semaphore-*
-  * Persistency duration: 10 years
-  * Intercom privacy policy: <https://www.intercom.com/privacy>
-
-
-
-access_token
-
-  * We use this cookie to identify you after you login to your Bynder environment.
-  * Persistent cookie: access_token
-  * Persistency duration: 15 minutes
-
-
-
-access_token_expiration
-
-  * We use this cookie to check when access_token needs to expire.
-  * Persistent cookie: access_token_expiration
-  * Persistency duration: 15 minutes
-
-
-
-refresh_token
-
-  * We use this cookie to validate your access credentials.
-  * Persistent cookie: refresh_token
-  * Persistency duration: 30 days
-
-
-
-refresh_token_expiration
-
-  * We use this cookie to check when refresh_token needs to expire.
-  * Persistent cookie: refresh_token_expiration
-  * Persistency duration: 30 days
-
-
-
-csrf
-
-  * We use this cookie to secure and identify your current session connection with the environment.
-  * Persistent cookie: csrf
-  * Persistency duration: 15 minutes
-
-
-
-ANALYTICAL COOKIES
-
-Google universal analytics
-
-  * With Google Analytics we can measure how the website is used and how our visitors found us. We use this data to improve your browsing experience with us.
-  * Persistent cookies: utma, utmb, utmc, utmv en utmz
-  * Persistent duration: 2 years
-  * Google universal analytics privacy policy: <https://support.google.com/analytics/answer/2838718>
-
-
-
-Optimizely
-
-  * With optimizely we can A/B test various parts of the website and improve your browsing experience with us.
-  * Persistent cookies: optimizelyBuckets, optimizelySegments, optimizelyEndUserId, end_user_id
-  * Persistency duration: 10 years
-  * Session cookie: optimizelyPendingLogEvents
-  * Optimizely privacy policy: <https://www.optimizely.com/privacy/>
-
-
-
-Hotjar
-
-  * With Hotjar we can generate a heatmap of your experience on our website and use that information to improve our prompts and interactions.
-  * Session cookie: _hjIncludedInSample
-  * Hotjar privacy policy: <https://www.hotjar.com/privacy>
-
-
-
-MARKETING COOKIES
-
-Hubspot
-
-  * Our tool to streamline our marketing content, including our blog and newsletters. Hubspot’s cookies are used to pre-fill your forms so you won’t have to enter data more than once.
-  * Persistent cookies: hubspotutk, hsfirstvisit
-  * Persistency duration: 10 years
-  * Session cookies: __hssc, __hssrc
-  * Link Hubspot privacy policy: <https://legal.hubspot.com/privacy-policy>
-
-
-
-Google Analytics Remarketing
-
-  * With Google Analytics we measure how you use our website. This information is then used to help you choose the best modules to suit your needs.
-  * Persistent cookies: utma, utmb, utmc, utmv en utmz
-  * Persistency duration: 2 years
-  * Link Google Analytics Remarketing privacy policy: <https://support.google.com/adwordspolicy/answer/6242605>
-
-
-
-Perfect Audience
-
-  * Perfect audience helps us to show you relevant ads on partnering sites.
-  * Persistent cookies: pa_uid, pa_fbx_ts, pa_google_ts, pa_pubmatic_ts, pa_rubicon_ts, pa_crosswise_ts, pa_twitter_ts, pa_openx_ts, pa_yahoo_ts, pa_mrin_ts, pa_google_ts
-  * Persistency duration: 2 years
-  * Link Perfect Audience privacy policy: <https://www.perfectaudience.com/privacy/>
-
-
-
-Enabling these cookies is not strictly necessary for the Website and Services to work, but they will provide you with a better browsing experience. You can delete or block these cookies, but if you do some features may not work as intended.
-
-### 5.3 How to control cookies
-
-You can **control and/or delete** cookies as you wish. You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit the Website or use the Services and some features or functionalities may not work.
-
-If you continue without changing your settings, we will assume that you are happy to receive all cookies from the Website and Services. If you would like to change your preferences, you may do so by following these instructions:
-
-  * Adjust your browser settings.
-  * A number of websites provide detailed information regarding cookies, including [AboutCookies.org](http://www.aboutcookies.org/ "Home: About Cookies") and [AllAboutCookies.org](http://www.allaboutcookies.org/ "Home: All About Cookies.org").
-  * The Internet Advertising Bureau [Your Online Choices](http://www.youronlinechoices.com/uk/ "Home: Your Online Choices") allows you to install opt-out cookies across different advertising networks.
-  * Google has developed a browser add-on that allows users to [opt out of Google Analytics](https://tools.google.com/dlpage/gaoptout "Google Analytics Opt-out Browser Add-on") across all websites using this analytics product.
-  * New technologies such as Mozilla's [Do Not Track](https://www.mozilla.org/en-US/firefox/dnt/ "Mozilla: Do Not Track") allow you to tell websites not to track you.
-  * Internet Explorer has a feature called [Tracking Protection Lists](https://support.microsoft.com/en-us/products/internet-explorer "Internet Explorer: Tracking Protection Lists") which allows you to import a list of websites you want to block.
-
-
-
-This Privacy Policy was last updated on: 7 July 2017.
+This Privacy Policy was last updated on: 24 May 2018.
