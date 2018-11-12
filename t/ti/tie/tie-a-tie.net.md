@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tie-a-tie.net privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510165857id_/http%3A//www.tie-a-tie.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tie-a-tie.net privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113001546id_/https%3A//www.tie-a-tie.net/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Tie-a-Tie.net
 
-### [PRIVACY POLICY](http://www.tie-a-tie.net/privacy-policy/)
+### [PRIVACY POLICY](https://www.tie-a-tie.net/privacy-policy/)
 
 At Tie-a-Tie.net, I place the highest importance on respecting and protecting the privacy of my visitors and customers. My most important asset is my relationship with you. I want you to feel comfortable and confident when using my Web site. Therefore, I would like to share with you the following principles that govern my information practices and other privacy aspects of my Web site. Throughout this policy, I refer to information that personally identifies you as “personal information”.
 
@@ -64,7 +64,7 @@ If you purchase my Tie Knot Video Series, I offer you the choice that I keep you
 
 **Correcting/Updating Personal Information**
 
-If you purchase my Tie Knot Video Series, and you need to correct or update your personal information (such as your eMail address), or you no longer desire my service you can let me know by [sending me a message](http://www.tie-a-tie.net/contact.html "Contact Me").
+If you purchase my Tie Knot Video Series, and you need to correct or update your personal information (such as your eMail address), or you no longer desire my service you can let me know by [sending me a message](https://www.tie-a-tie.net/contact.html "Contact Me").
 
 **Changes to Privacy Statement**
 
@@ -78,7 +78,7 @@ I may disclose personal information when required by law or in the good-faith be
 
 **Contact Me**
 
-If you have any questions about this Privacy Policy, the practices of Tie-a-Tie.net with respect to personal information or your dealings with this Website, you can [contact me here](http://www.tie-a-tie.net/contact.html "Contact Me") or write to:
+If you have any questions about this Privacy Policy, the practices of Tie-a-Tie.net with respect to personal information or your dealings with this Website, you can [contact me here](https://www.tie-a-tie.net/contact.html "Contact Me") or write to:
 
 * * *
 
