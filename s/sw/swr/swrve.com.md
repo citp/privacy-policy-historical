@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swrve.com privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021220158id_/https%3A//www.swrve.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swrve.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112134550id_/https%3A//www.swrve.com/company/privacy) for the most accurate reproduction.*
 
 # Basic Privacy Principles | Swrve
 
