@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utsouthwestern.edu privacy policy that was archived on 2018-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180414211557id_/https%3A//www.utsouthwestern.edu/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsouthwestern.edu privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112211334id_/https%3A//www.utsouthwestern.edu/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy: Legal - UT Southwestern, Dallas, TX
 
@@ -43,6 +43,22 @@ This website may allow users to pay for products, services, or to make donations
 ## Security and Data Integrity
 
 UT Southwestern strives to create a safe and secure environment for information collected by this website by employing a diverse arrangement of security implementations to protect the privacy and accuracy of the data collected from visitors. All web pages on this site that collect personal information will use a Secure Socket Layer (SSL) protocol to ensure information is securely stored and transmitted.
+
+## Privacy Notice for Individuals in the European Union (EU)
+
+UT Southwestern complies with the General Data Protection Regulation (“GDPR”), which protects the personal data and privacy of individuals in the EU. In accordance with GDPR, UT Southwestern has designated Joshua Spencer as the “Data Protection Officer.” In instances where the GDPR is applicable, UT Southwestern, in addition to the rights enumerated in Chapter 3 of the GDPR, specifically extends the following rights to students, employees, and members of the public in the EU:
+
+  * The right of access by the data subject
+  * The right to rectification
+  * The right to erasure
+  * The right to restriction of processing
+  * The right to data portability
+  * The right to object
+  * The right to lodge a complaint with a supervisory authority
+
+
+
+For any questions and/or requests related to the GDPR, the Data Protection Officer may be contacted by directing communications to Joshua Spencer.
 
 ## Third-Party Content and External Links
 
