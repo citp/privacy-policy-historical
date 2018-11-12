@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sinobiological.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904175657id_/http%3A//www.sinobiological.com/privacy-policy-a-02.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sinobiological.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112073848id_/http%3A//www.sinobiological.com/privacy-policy-a-02.html) for the most accurate reproduction.*
 
 # Sino Biological Inc. Privacy Policy
 
@@ -56,14 +56,10 @@ This website is designed for adult users, thus we do not intend to collect perso
 
 ##  User Conduct
 
-You are required to comply with the following user conduct rules. Any misconduct will result in the termination or suspension of your account without refund, even legal suit for severe damage to the benefits of Sino Biological Inc.
-
-You will not intentionally fabricate false information.
-
-You will not use the website in the name of others.
-
-You will not use this website or any products purchased from Sino Biological Inc. for any illegal purpose.
-
+You are required to comply with the following user conduct rules. Any misconduct will result in the termination or suspension of your account without refund, even legal suit for severe damage to the benefits of Sino Biological Inc.  
+You will not intentionally fabricate false information.  
+You will not use the website in the name of others.  
+You will not use this website or any products purchased from Sino Biological Inc. for any illegal purpose.  
 You will not hack this website to steal information or sabotage the functioning of the website.
 
 ##  Effective Date
