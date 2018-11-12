@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infofree.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523103406id_/http%3A//www.infofree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infofree.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112235645id_/https%3A//www.infofree.com/privacy) for the most accurate reproduction.*
 
 # Infofree.com's Privacy Policy
 
