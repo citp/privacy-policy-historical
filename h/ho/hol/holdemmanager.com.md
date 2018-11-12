@@ -1,58 +1,99 @@
-> *The following text is extracted and transformed from the holdemmanager.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314233445id_/http%3A//www.holdemmanager.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holdemmanager.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112075011id_/https%3A//www.holdemmanager.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for Hold'Em Manager
+# Max Value Software - Privacy Policy
 
-### PRIVACY POLICY
+#### Last Updated on May 25, 2018
 
-As a world leader in poker analytics software, PASG understands your desire to have your personal information protected. PASG respects your concerns about privacy and values its relationship with you. This Policy describes the types of information we collect via PASG’s web sites as set out below, how we may use that information and with whom we may share it. Our Privacy Policy also describes the measures we take to protect the security of the information. We also tell you how you may contact us to update your information, remove your name from our mailing lists or get answers to questions you may have about our privacy practices at PASG.
+Max Value Software, LLC. (“MVS” or “we”, or “our” or “us”) sells software products and services including MVS's “PokerTracker”, “Holdem Manager”, “TableTracker”, and “TableNinja” MVS respects your concerns about privacy and values its relationship with you. 
 
-#### Personal Information We Collect
+  * [What information do we collect about you?](https://www.holdemmanager.com/#information-we-collect)
+  * [Non-Personal Information We Collect](https://www.holdemmanager.com/#non-personal-information)
+  * [Cookies](https://www.holdemmanager.com/#cookies)
+  * [Sharing Your Information](https://www.holdemmanager.com/#information-sharing)
+  * [Legal Disclosures](https://www.holdemmanager.com/#legal-disclosures)
+  * [Security of Personal Information](https://www.holdemmanager.com/#security-of-information)
+  * [Links to Business Partners and Vendors/Resellers](https://www.holdemmanager.com/#external-links)
+  * [Managing Your Privacy Preferences](https://www.holdemmanager.com/#managing-privacy)
+  * [Marketing](https://www.holdemmanager.com/#marketing)
+  * [Access to Your Information and Correction](https://www.holdemmanager.com/#right-of-access)
+  * [Changes to our Privacy Policy](https://www.holdemmanager.com/#changes)
+  * [Data Housing](https://www.holdemmanager.com/#data-housing)
+  * [How to Contact Us](https://www.holdemmanager.com/#contact-us)
+  * [Retention](https://www.holdemmanager.com/#retention)
 
-We may request that you provide certain personal information if you contact us, purchase an item from our website, request technical support, subscribe to a newsletter, provide us feedback on a particular offer or product, participate in a promotion, or seek business development/career opportunities.  The information we collect is generally limited to your full name and e-mail address, although we may request other information such as your billing address and credit card information in the event that you decide to make a transaction.  In general, we limit the amount of personal information we require to consummate a specific transaction.  For example, we will not ask for billing information unless in connection with a billing transaction.  
-
-If you submit an order at our online store, you will be asked for information necessary to complete the transaction – such as your name, address, and credit card number, and to allow you to purchase and download products, obtain access to service and technical support, or otherwise utilize products or services that you have selected, as well as technical data concerning your computer or traffic data incidental to your Internet connection. Additionally, you may be asked in cases where software is sold pursuant to subscription, to establish an account in order to obtain the software, and establish entitlement to upgrades and updates required for the  software to provide ongoing protection in accordance with its function. This information will be used by PASG to ensure your entitlement for renewal, support and other services.
-
-The processing and transfer of the data are limited to the following purposes: fulfillment of your order(s)/contract(s), extension/delivering product updates/service-subscriptions or licences, product registration and activation, customer and technical support as you may request from time to time, processing licence renewals as you may request from time to time, automatically processing license renewals if you elect automatic renewal of your software licence subscription and internal (compliance) audits and fraud prevention. You make the decision whether to proceed with any activity that requests personal information. If you do not wish to provide the requested information, however, you may not be able to complete the transaction or functionality on the site if the information is essential to complete the transaction or functionality.
-
-#### Non-Personal Information We Collect
-
-We collect certain aggregate and non-personal information when users visit our web sites. Aggregate and non-personal information does not relate to a single, identifiable visitor. It tells us information such as how many users visited our sites and the pages accessed. By collecting this information, we learn how to best tailor our web sites to our visitors. Through  various tracking methods and using log files, we may track domain names, IP addresses, and browser types from people who visit our site. We use this information to track aggregate traffic patterns. Such information is not correlated with any personal information.
-
-#### Cookies
-
-PASG may use cookies from time to time. A cookie is a unique text file that a web site can send to your browser software. Cookies enable a web site to tailor information presented to you based on your browsing preferences. PASG may use cookies to personalize web pages during your visit to our web sites, and/or to remember you for easy navigation and access during your return visits after registering for our products, services and other offers including but not limited to documents, webcasts, events, evaluation software, e-books, etc. For these purposes, some cookies may be tied to your e-mail address.   
 
 
-PASG may also use cookies to track your visit to our web sites in order to collect aggregate data. However, this information will only be used for analytical purposes and will be limited to the minimum necessary to perform the analysis. If you do not want PASG to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a web site tries to put a cookie in your browser software. Rejecting cookies may affect your ability to use of some of the products and/or services at our Web site.
+## What information do we collect about you?
 
-#### Sharing Your Information
+We request personal contact information (name and email address), when you contact us for support or sales assistance , purchase an item from our website (contact information, as well as payment information), or communicate about a particular offer or product with others on our community forums.
 
-From time to time, and in jurisdictions where it is permitted, we may provide your information to authorized vendors of PASG to communicate to you information or offers about products or services that they believe are important to you. If you prefer that we not provide your information to our business partners, you may let us know using one of the methods described in this policy. PASG provides a number of ways for you to ‘opt-out’ of receiving additional information from us or having us provide your personal information to our partners by ‘opt-out’ options provided at the point of collection, through e-mail notices, or through other preference management that may be available depending on the service or web-site. If you do not wish to continue receiving our e-mail newsletters or bulletins you can opt-out of receiving these communications by replying to the "unsubscribe" address in the body of the email.  In jurisdictions where sharing personal information is prohibited without your ‘opt-in’, no information will be shared without your prior consent.
+Our processing and transfer of the data you provide is limited to the following purposes: fulfillment of your order(s)/contract(s), extension/delivering product updates/service-subscriptions or licenses, product registration and activation, customer and technical support as you may request from time to time, processing license renewals as requested by you, automatically processing license renewals if you elect automatic renewal of your subscription and internal (compliance) audits and fraud prevention. You always have the ability to decide whether to proceed with any activity that requests personal information. If you do not wish to provide the requested information, however, you may not be able to complete the transaction or obtain full functionality on the site if the information is essential to complete the transaction or functionality.
 
-#### Third Parties
+## Non-Personal Information We Collect
 
-In addition, PASG may retain the services of outside contractors to provide services for us (e.g. to deliver products, provide technical support, or handle order processing). We require that all such contractors keep the personal information of our customers secure and confidential. We have contractually bound third parties to such restrictions and require that these contractors provide for appropriate  measures to secure the data, that they use personal information only on behalf of PASG, and that they do not share personal information with others or use your personal information for their own marketing purposes.
+We also collect non-personal information about the use of our websites, products and services which is retained in aggregate form only. This helps us maintain and improve our offerings.
 
-#### Legal Disclosures
+## Cookies
 
-Please be advised that in certain instances, it may be necessary for PASG to disclose your personal information to government officials or otherwise as required by applicable law. No personally identifiable information will be disclosed to any law enforcement agency or governmental agency except in response to:  
+MVS may use cookies from time to time. A cookie is a unique text file that a web site can send to your browser software. Cookies enable a web site to tailor information presented to you based on your browsing preferences and are required to enable both the order process and account management.
 
+In some cases we use cookies to gather data analytics about website or product use. As with other types of personal information this is retained only in aggregate form and cannot identify individual users.
+
+## Sharing Your Information
+
+We sometimes share your personal information with outside parties for the sole purpose of providing products or services to you (such as third party infrastructure, business process outsourcers, or financial services organizations), but we will never share your private information for any other reasons. We also make sure all outside parties agree the use of your data is compliant both with our policies as well as any pertinent regulatory statutes. We never sell your private information.
+
+## Legal Disclosures
+
+In certain instances, it may be necessary for MVS to disclose your personal information to government officials or otherwise as required by applicable law. No personally identifiable information will be disclosed to any law enforcement agency or governmental agency except in response to:
 
   * A subpoena, warrant or other process issued by a court of competent jurisdiction;
-  * A legal process having the same consequence as a court-issued request for information, in that PASG would be in breach of local law were it to refuse to provide such information, and it or its officers, executive or employees would be subject to liability for failing to honor such legal process, provided there is a legal basis to do so; or,
-  * Where such disclosure is necessary for PASG to enforce its legal rights pursuant to the laws of the jurisdiction from which such information was gathered, and there is a legal basis to do so.
+  * A legal process having the same consequence as a court-issued request for information, in that MVS would be in breach of law were it to refuse to provide such information, and it or its officers, executive or employees would be subject to liability for failing to honor such legal process; or, 
+  * Where such disclosure is necessary for MVS to enforce its legal rights pursuant to the laws of the jurisdiction from which such information was gathered, and there is a legal basis to do so.
 
 
 
-#### Security of Personal Information
+## Security of Personal Information
 
-We have taken appropriate security measures, consistent with modern information practices, to protect your personal information. These measures include, on our web sites and Internet-enabled technologies, administrative, technical, physical and procedural steps to protect your data from misuse, unauthorized access or disclosure, loss, alteration, or destruction.
+We are committed to the security of your personal information and take appropriate security measures, consistent with modern information security practices, to protect your personal information. These measures include, on our web sites and Internet-enabled technologies, administrative, technical, physical and procedural steps to protect your data from misuse, unauthorized access or disclosure, loss, alteration, or destruction.
 
-#### Links to Business Partners and Vendors/Re-Sellers
+## Links to Business Partners and Vendors/Resellers
 
-At the PASG web sites, there are a number of links to companies with whom we have a relationship. PASG is not responsible for the privacy practices of our business partners. We encourage you to read their privacy statements, as they may differ from ours. We also link to web sites that are maintained by one or more of our business partners who are collecting your information pursuant to their own policies and purposes. We encourage you to read the privacy policies on any such site to which you link for information on the privacy practices of that site.
+On certain MVS web sites, we provide links to companies with whom we may have a business relationship. We encourage you to read their privacy statements, as they may differ from ours.
 
-#### Managing Your Privacy Preferences
+## Managing Your Privacy Preferences
 
-You can manage your privacy preferences or receive answers to any questions about our privacy policy by using the "Contact Us" link at www.holdemmanager.com or by sending written correspondence to 1235 N. Clybourn #224, Chicago, Illinois 60610 United States of America.  
+You can manage your privacy preferences or receive answers to any questions about our privacy policy by contacting us via the Support System at [https://support.holdemmanager.com](https://support.holdemmanager.com/) for Holdem Manager, [https://support.pokertracker.com](https://support.pokertracker%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20.com/) for PokerTracker, or by sending written correspondence to privacy@maxvaluesoftware.com.
 
+## Marketing
+
+We would like to send you information about products and services of ours and other companies which may be of interest to you and may ask for your consent. If you have consented to receive marketing, you may opt out at a later date. You have a right at any time to stop us from contacting you for marketing purposes
+
+If you no longer wish to be contacted for marketing purposes please email privacy@maxvaluesoftware.com.
+
+## Access to Your Information and Correction
+
+You have the right to request a copy of the information we hold about you. If you would like a copy of some or all of the personal information or you would like any information that could potentially identify you erased, please email us at privacy@maxvaluesoftware.com.
+
+## Changes to our Privacy Policy
+
+We keep our privacy policy under regular review and we will place updates on this web page.
+
+## Data Housing
+
+The primary location of our retained data is inside the United States. Our datacenter providers have high levels of security covering their physical and logical systems. We have self-certified under Privacy Shield and are compliant with the data regulations of the US, EU GDPR and endeavor to maintain compliance within all markets where we operate.
+
+## How to Contact Us
+
+You have the right to withdraw consent at any time where relevant, you also have the right to lodge a complaint with an applicable supervisory authority. Please contact us if you have any questions about our privacy policy or information we hold about you or you would like to communicate with our data protection officer. 
+
+  * By email at privacy@maxvaluesoftware.com
+  * Or write to us at: 1385 Ridge Rd. #160, Rockwall TX 75087
+
+
+
+## Retention
+
+We retain information that is necessary in providing products and services to our customers. Information associated with an active license is maintained perpetually for license validation purposes. Other information, including but not limited to purchase history on expired software licenses and server logs, is periodically purged.
+
+Contact privacy@maxvaluesoftware.com for more specific information on our retention policies.
