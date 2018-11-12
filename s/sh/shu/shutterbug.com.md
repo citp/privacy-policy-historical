@@ -1,103 +1,241 @@
-> *The following text is extracted and transformed from the shutterbug.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223004043id_/http%3A//www.enthusiastnetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterbug.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112082224id_/http%3A//www.avtechmediausa.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy - TEN: The Enthusiast Network
+# 
 
-TEN: The Enthusiast Network (“TEN” or “We” or “we”) is strongly committed to protecting your privacy and providing a safe online experience for all of our users and subscribers while offering the highest quality publications and services to them. This Privacy Policy discloses what information we gather, how we use it, to whom we disclose personal information and other information you have provided, and how to correct or change personal information that you have provided to us. This Privacy Policy applies to TEN and all of its parent companies, subsidiaries, and affiliates. We urge you to read the complete Privacy Policy set forth below, as well as our Terms and Conditions of Use, and contact us if you have any questions.
+### AVTech Media Americas PRIVACY POLICY 
 
-**I. WHAT INFORMATION DO WE COLLECT ABOUT YOU?**  
-**_Personal Information._** We collect personally identifiable information, such as names, mailing addresses, e-mail addresses, demographic information, and similar information in a variety of situations, including but not limited to the following: (i) when you subscribe to one of our magazines or place an order (see the section below for more information on subscriptions and orders); (ii) when you register at one of our websites in connection with the purchase of a product, publication, or service; (iii) when you enter personal information on one of our websites as a condition of participating in contests, promotions, or sweepstakes offered via these websites; or (iv) when you wish to have a product or service fulfilled by a fulfillment partner who can meet the continuing needs of our customers.
+**Overview**   
+This Privacy Policy (the "Policy") discloses the privacy practices of AVTech Media Americas Media, Inc. This Policy governs how we use and protect personal information that we collect when you visit our website, use our services, or otherwise engage with us. Any practices or points that are specific to AVTech Media Americas are also clearly marked out in this Policy. 
 
-Some of our sites may collect credit card and related financial information if you wish to purchase a product or subscribe to any publication or service offered via these sites. If you wish to subscribe to one of our publications or place an order for products or services online, you must generally establish a credit card account with us or our vendors. Some of our sites also may collect social security numbers from consumers if such consumers use one of our automotive-related websites and wish to receive a quote from an automotive lender that is part of the site’s automotive lender network. In such instances, we collect social security numbers only to fulfill consumers’ requests to receive quotes or other financial offers from a lender in the site’s automotive lender network.
+Any use you make of AVTech Media Americas service offerings is subject to AVTech Media Americas's [Terms of Service (TOS)](http://www.avtechmediausa.com/terms.html). 
 
-**_Information Collected Automatically._** Our websites automatically collect certain information, such as your IP address, browser type, domain name, access times and referring website address. This helps facilitate your online experience at our websites. See Sections IV and V of this Privacy Policy for more detail on cookies, web beacons, and other information collected automatically by our websites.
+**About Us**   
+AVTech Media Americas Media, Inc. has a principal office at located at 260 Madison Avenue (8th floor), New York, NY 10016, United States of America. 
 
-**II. WHAT DO WE DO WITH COLLECTED INFORMATION?**  
-We use the personal information you provide to allow you to make product purchases, to fulfill your requests, improve our publications, products and services, to send you promotional offers related to TEN or our business partners, and to operate our business. A user may, at any time, opt out of receiving promotional offers by mail or e-mail. How You Can Control Your Personal Information. We also use collected information to evaluate and administer our products and services, respond to any problems that may arise, such as magazine delivery failures, difficulties in navigating our sites or accessing certain features, as well as to gauge user trends to determine what products and services are most popular with users, and to put you in touch with fulfillment partners who can provide services that we cannot. We allow users of our website to send articles or links by e-mail to other parties who may be interested in them. We do not retain any e-mail addresses of either the sender or recipient of such articles or links after they are sent, and do not share “send a friend” e-mail addresses with third parties.
+If you have any questions about this Policy or questions or complaints about our privacy practices, please contact us using the details below: 
 
-**III. HOW DO WE SHARE PERSONAL INFORMATION?**  
-We share your personal information only as described below.
+FAO: Data Protection Officer  
+Address: AVTech Media Americas Media, Inc., 260 Madison Avenue (8th floor), New York, NY 10016, USA  
+Email: [privacy@avtechmediausa.com](mailto:privacy@avtechmediausa.com)
 
-**_Sharing Within the TEN Corporate Family._** We may share your personal information with any parent company, subsidiary, or affiliate in the TEN corporate family. All entities within the TEN corporate family may have access to your personal information as well as anonymous, aggregate demographic data.
+The contact information above should also be used for communications relating to exercising the rights described in section 6.2 below. 
 
-**_TEN’s Service Providers._** TEN may decide to share your personal information with companies that work on behalf of or with TEN. These companies may use your personal information to inform you about TEN’s products and services, to provide you with information about other exciting products and services, or otherwise to assist TEN in serving its customers, understanding its consumer market, or devising effective marketing strategies to reach more consumers.
+**1\. Information We Collect**
 
-**_Lead Purchasers._** TEN may decide to share your personal information with third parties who purchase leads from TEN, such as automotive dealers and banks. Some of our websites require users to disclose personal information as a condition of receiving quotes or offers from fulfillment partners (as described more fully below), such as automotive dealers or banks, who can provide services or products to users that TEN does not directly provide. In these instances, your personal information will be provided to third parties who compensate TEN for leads delivered to such third parties.
+We collect personal information in the following ways: 
 
-**_Participating Vendors._** Some of our sites offer opportunities to make purchases online from special participating vendors. On sites with online purchase opportunities for products and merchandise, we will also give participating vendors the order information and authorization for the merchant bank. Any time you order from a participating vendor, that vendor will automatically have all the information related to the order. Participating vendors may use that information to advise you directly of other products and offerings that they provide.
+**1.1 Information that you provide to us directly**
 
-**_Credit Card Companies; Third Party Payment Services; Third Party Promotional Sites._** As in any transaction, your credit card company will have all relevant information about the name of the vendor, item(s) purchased, and date and total cost. TEN will not otherwise provide any personal data to your credit card company. In some cases, we use third party payment and transaction services to facilitate your transactions and process your orders. In such cases, we will share your personal information and credit card information with the third party payment services solely for the purpose of completing the transaction or processing your order. In some cases, we will share your personal information and credit card information with third parties who may offer you a gift or promotional offer as a result of your purchase or subscription to a TEN product or publication.
+We gather information that you provide to us when you: 
 
-**_Fulfillment Partners._** Some of our websites are intended to facilitate transactions between you and a third party. To do so, we collect and share additional personal information, like credit information, so such third parties can provide the product or service you request. As our fulfillment partners may keep and use your information whether or not you purchase their products or use their services, your personal information will be subject to their privacy policies.
+  * purchase products or services from us
+  * subscribe to our newsletters and mailing lists
+  * participate in promotional offers (such as a trial subscription) and other promotions, competitions or prize drawings
+  * fill in forms, conduct searches, post content on the website, respond to surveys, or use any other features of our websites
+  * make an inquiry, provide feedback, submit correspondence, or make a complaint over the phone, by email, on our website or by post
+  * register for, and update an online account with us (including if you access through Facebook, Twitter, Google, or an open IP provider)
+  * enter into a contract with us
+  * contact other users on the websites, e.g. on the AVTech Media Americas various websites
+  * 'follow', 'like', post to, or interact with, our social media accounts, including Facebook, Twitter, YouTube, Instagram, Google+, and Others.
 
-**_Other Third Parties._** We may share your personal information with third parties, such as advertisers, sponsors, and other promotional and business partners, only when you have not opted out of receiving communications from third parties. If you wish to opt-out of receiving third party communications, you may exercise this right by following the opt-out procedures contained in any e-mail or written communication TEN sends to you or by following the procedures set forth in Section VII of this Privacy Policy.
 
-**_Public Postings._** You should be aware that if you voluntarily disclose information, personal or otherwise, online in any community area (whether through TEN’s websites or any other service available online), that information can be collected and used by others. Accordingly, you should use caution when sharing any personal information with others in any community area (whether through TEN’s websites or any other service available online).
 
-**_Required Disclosures of Information._** We reserve the right to use or disclose any information without notice or consent as needed to satisfy any law, regulation or legal request; to conduct investigations of consumer complaints or possible breaches of law; to protect the integrity of our sites and our property and assure adherence to our terms of use; to protect the safety of our visitors or others; to fulfill your requests; or to cooperate in any legal investigation or process.
+The information you provide to us will include (depending on the circumstances): 
 
-**_Changes in Corporate Structure._** In developing our business, we might sell certain assets, or the company, or parts of it, may be sold, merged or otherwise transferred. In such transactions, user information, whether personally identifiable or otherwise, may be one of the transferred assets.
+  * Identity and contact data: title, names, addresses, email addresses, phone numbers or your signature.
+  * Account profile data: a username/display name, password, user preferences and, if you sign up through a social media account, certain information about that account.
+  * Visual and audio information about yourself: e.g. a photo or video footage, or sound recording.
+  * Your preferences: information about your preferences, interests, industry focus, community choices, and other customer profile information.
+  * Any other information that you choose to share with us: for example, any information that you provide via correspondence, when you fill out our survey(s), that you share via our website or social media accounts linked to our website.
 
-**IV. HOW DO WE USE COOKIES?**  
-Your Web browser offers “cookies” which, if you allow their use, store small amounts of data on your computer when you visit a website. Cookies do not contain any personally identifiable information about you and therefore cannot be used to identify you personally. Cookies assist us in tracking which of our features you like best, and also enable us to customize our content according to your preferences. You have the ability to accept or decline cookies by modifying your browser and our websites are viewable even if you disable the cookie function on your browser. However, if you disable cookies, some advanced and customized features or offerings on our site will not be available to you. In addition to collecting cookies, TEN may distribute, sell, and/or transfer such cookies to third parties with whom TEN has a commercial relationship. If you do not wish your cookies to be used in this manner, you can modify your browser to disable the collection of cookies.
 
-Additionally, we use third-party companies to collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit one of our websites. Some of these third-party companies collect information when serving ads on our sites, while others collect information without showing ads on our sites. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to our sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://networkadvertising.org/).
 
-**V. HOW DO WE USE WEB BEACONS, WEB ANALYTICS, AND OTHER BEHAVIORAL MARKETING TECHNOLOGIES?**  
-A number of technologies exist to assess consumer behavior both on-line and off-line. TEN employs a variety of these technologies, including web beacons (see below), web analytics techniques, and other behavior marketing technologies, to assess consumer behavior and to understand how we can better serve our customers. Many of these technologies are provided to TEN via third party providers specializing in behavioral marketing and consumer behavior. In the course of using these behavioral marketing technologies, we automatically collect non-personal information from you, including but not limited to the following types of information: Internet protocol (IP) address used to connect your computer to the Internet; login, e-mail address; computer and connection information such as browser type and related browser data; content viewed; and purchase history, which may be aggregated with other information for analytic purposes.
+**1.2 Information we collect through technology related to our products and services**
 
-Some of our web pages, promotional e-mail messages, and/or newsletters may contain electronic images known as web beacons, which are also called single-pixel gifs. Web beacons are not used to access your personally identifiable information, but they are a technique we use to compile aggregated statistics about the usage of our websites and to track the number of users who have opened and acted up our promotional e-mail messages. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides.
+Some of our products and services collect information about system and product data. We use this information to manage and administer our products and services, to issue updates and new versions, testing and monitoring services that we provide, enhancing our products and services, and improving and targeting our communications with you. 
 
-**VI. WHAT ABOUT THIRD PARTY ADVERTISERS?**  
-Some of the banner ads displayed in our websites are provided by third parties. These ads contain cookies and may also contain web beacons. Unlike cookies and web beacons used by TEN in content it controls on its websites, cookies or web beacons received with banner ads are collected by our advertisers and we do not have access to this information. We use third parties to serve some or all of the advertisements that are placed within our sites and they may use information (not including personally identifiable information) about your visits to our sites and other sites to assist in serving advertisements to you. These companies may employ cookies, web beacons, and action tags to measure advertising effectiveness. They may share anonymous information with their clients such as date/time of the banner ad shown, the specific ad shown, the IP address, etc. DoubleClick is our primary third party ad server. If you would like to know more about their information gathering practices and “opt-out” procedures, please see <https://www.google.com/policies/privacy/>  
-[http://www.google.com/policies/technologies/ads/ ](http://www.google.com/policies/technologies/ads/)
+**1.3 Information we collect through online technology**
 
-  
-**VII. HOW CAN YOU CONTROL YOUR PERSONAL INFORMATION?**  
-We believe that choice in how and when you are contacted is key to customer satisfaction, so we offer several ways for you to update your contact information, change your preferences, or opt out of receiving future communications.
+Technologies such as cookies, beacons, tags, local storage, and scripts are used by us and our affiliates, and other companies, such as third party technology service providers and web analytics providers. These technologies make it easier for you to navigate our website and to help us manage the content on our website and are used to analyze trends, administer the sites, track users' movements around the site (including which site you clicked from to arrive at our site), and gather demographic information about our user base. 
 
-1\. If you have an online account at one of our websites, you may be able to log on and update or change your contact or account information. Check the site for further information.
+**1.4 Information from other sources**
 
-2\. If you are a subscriber to one of our magazines, you may be able to log on and update or change your contact or account information by contacting us at <https://www.circsource.com/> and clicking on Customer Service.
+In certain circumstances, we will receive information about you from other sources, including third parties. For example, we may receive personal information from any of the following, who may be based inside and/or outside the EU: 
 
-3\. You may unsubscribe to any of our online e-mail updates or newsletters by following the unsubscribe instructions in the body of any e-mail message.
+  * Other website users.
+  * Your agents or representatives who are acting on your instructions.
+  * Commercial contact lists that we acquire from other organizations.
+  * Organizations that we acquire or merge with.
+  * Organizations with whom we provide co-branded events, websites, products, and services.
+  * Fraud detection agencies.
+  * Social media plugins. By providing your social media account details you are authorizing that third-party provider to share with us certain information about you.
 
-4\. If you do not wish to have your personal information shared with third parties or with other entities in the TEN corporate family, please [click here](http://enthusiastnetwork.com/unsubscribe/).
 
-5\. You also may write to us directly if you wish to: (a) update or delete your contact information; (b) ask that we not share your personal information with third parties; or (c) request that we cease sending you promotional or other information via mail or e-mail. Such written requests should be sent to TEN: The Enthusiast Network at 831 South Douglas Street, El Segundo, CA 90245; Attention: Legal Department. In those instances, we will retain your information in a “do not promote” file in our database, and you will receive no further communications from us.
 
-6\. You may also contact us at [privacypolicy@enthusiastnetwork.com](mailto:privacypolicy@enthusiastnetwork.com) or any inquiry or request regarding our privacy policy or the handling of your personal information.
+We might also receive information about you from other third parties if you have indicated to such third parties that you would like to hear from us. 
 
-If you have opted out of receiving future e-mails from us, we will implement your opt-out request within 10 business days of receiving the opt-out request. If you have opted out of receiving future promotional materials by regular mail, we will implement your opt-out request within a commercially reasonable time.
+**1.5 Special categories of data**
 
-**VIII. SECURITY OF YOUR PERSONAL INFORMATION**  
-We use Secure Socket Layer (SSL) technology to encrypt important information, such as your credit card data, in an effort to prevent unauthorized access during transmission of your orders over the Internet. We incorporate standard industry practices suitable to the degree of sensitivity of the information involved to maintain the security of your personal information and to avoid its disclosure except as described in this policy. Your personal information may also be protected by the password you created when you registered at one of our websites where this feature is offered. The confidentiality of any password is yours to protect. You may change it anytime by following the instructions at the website where you registered. Although we use our best efforts to assure that your data remains secure when maintained by us, security during Internet transmissions or within any system cannot be assured. TEN employees are made aware of its privacy practices through periodic communications and training. We limit access to personal data only to those TEN employees or agents with a specific need to access or retrieve this information. We store data on multiple service systems, in controlled, secure environments. Remember, however, that we cannot guarantee the security of your personal information, and we are not responsible for the privacy or security practices of any third party.
+We do not collect details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. Depending on the circumstances, we will also do not collect information about criminal convictions and offenses. 
 
-**IX. CHILDREN’S PRIVACY**  
-Most of our publications and websites are intended for adults. Some websites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. TEN is strongly committed to protecting the safety and privacy of children who visit our websites. We do not knowingly collect personal information online from children under 13. Many of our sites include chat rooms, bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children’s use of the Internet.
+**2\. Using Personal Information**
 
-**X. THIRD PARTIES AND LINKS**  
-In the event that you provide personal information to any third party via any TEN website or any offer made available to you by TEN, you understand that TEN is not responsible for such third parties’ use or misuse of your personal information. You should review the privacy and information sharing practices of such third parties. Additionally, TEN may offer links to or from websites it controls to other sites within the TEN family as well as to sites operated by third parties. We offer links to third party sites so that you can conveniently visit our vendors and advertisers or locate other content likely to be of interest. We are not responsible for the content, practices or policies of sites operated by third parties and urge you to inquire about them before providing any personally-identifiable information.
+**2.1 How we use information we collect**
 
-**XI. YOUR CALIFORNIA PRIVACY RIGHTS**  
-Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [yourcaliforniaprivacyrights@enthusiastnetwork.com](mailto:yourcaliforniaprivacyrights@enthusiastnetwork.com?subject=California%20Privacy%20Request) and please include the phrase “California Privacy Request” in the subject line, and provide us with your name, address and email address. We will respond to you within thirty days of receiving such a request.
+We use your information for the following purposes: 
 
-**XII. VISITORS AND SUBSCRIBERS OUTSIDE THE UNITED STATES**  
-All matters relating to these sites are governed by the laws of the State of California in the United States. Any information you provide in subscribing to one of our publications or registering or ordering at one of our websites will be transferred to the United States. By visiting our sites and submitting information, you authorize this transfer, processing and use.
+  * To provide access to our website in a manner convenient and optimal and with personalized content relevant to you (on the basis of our legitimate interest to ensure our website is presented in an effective and optimal manner).
+  * To register and maintain your AVTech Media Americas account (on the basis of performing our contract with you).
+  * To monitor your account and use of services to ensure compliance with our end-user agreements and prevent and identify unlawful content use and violations (on the basis of our legitimate interests to operate a safe and lawful business, or where we have a legal obligation to do so).
+  * To enable you to communicate with other website users and clients (on the basis of your consent where we have requested it, or on the basis of performing our contract with you).
+  * To manage our relationship with you, which will include notifying you about changes to our terms of service or privacy policy, and asking you to leave a review or take a survey (on the basis of performing our contract with you, to comply with our legal obligations, and our legitimate interest in keeping our records updated and study how our website and services are used).
+  * To provide customer service and support, like dealing with inquiries or complaints about the website, which may include sharing your information with our website developer, IT support provider, and payment services provider as necessary (on the basis of performing our contract with you, our legitimate interest in providing the correct products and services to our website users, and to comply with our legal obligations).
+  * To enable you to take part in prize drawings, competitions, and surveys (on the basis of performing our contract with you, and our legitimate interest in studying how our website and services are used, to develop them, and to grow our business).
+  * To carry out marketing and let you know about our news, events, new website features products or services that we believe may interest you, including sharing your information with our marketing services providers (either on the basis of your consent where we have requested it, or our legitimate interests to provide you with marketing communications where we may lawfully do so).
+  * To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you (on the basis of our legitimate interests in studying how our website/services are used, to develop them, to grow our business and to inform our marketing strategy).
+  * To interact with users on social media platforms (on the basis of our legitimate interest in promoting our brand and communicating with interested individuals).
+  * To conduct data analytics to improve our website, products/services, marketing, customer relationships and experiences (on the basis of our legitimate interests in defining types of customers for our website and services, to keep our website updated and relevant, to develop our business, to provide the right kinds of products and services to our customers, and to inform our business and marketing strategy).
+  * To make suggestions and recommendations by sharing your information with selected third parties such as sponsors and partners, so they can contact you about things that may interest you (either on the basis of your consent where we have requested it, or on the basis of our legitimate interest to share details of conference attendees with our co-presenters and sponsors).
+  * To carry out marketing research and user testing to assess the levels of satisfaction of existing and proposed products and services (on the basis of our legitimate interest in carrying out research, providing the right kinds of products and services to our customers).
+  * To protect, investigate, and deter against fraudulent, unauthorized, or illegal activity (on the basis of our legitimate interests to operate a safe and lawful business, or where we have a legal obligation to do so).
+  * To enable us to comply with our policies and procedures and enforce our legal rights, and to protect the rights, property or safety of our employees and share your information with our technical and legal advisors (on the basis of our legitimate interests to operate a safe and lawful business, or where we have a legal obligation to do so).
 
-**XIII. ACCEPTANCE OF THESE TERMS; CHANGES TO OUR PRIVACY POLICY**  
-By using any of our sites and providing us with your information, you agree to the terms of this Privacy Policy. If you do not agree to this Privacy Policy, you should not use or access any of our sites. Additionally, this Privacy Policy incorporates all of the terms, conditions, and provisions of the TEN Terms of Use, which are posted on our sites. If you do not agree with the TEN Terms of Use, you should not use or access any of our sites.
 
-We will occasionally update this Privacy Policy as necessary to protect our users and to comply with a changing environment. We recommend that you check the posted Privacy Policy when you visit any of our sites to be sure you are aware of and understand our current policy. Your continued use of the respective site means you accept the updated Privacy Policy.
 
-**XIV. CONTACT INFORMATION**  
-If you have any questions about this Privacy Policy or our privacy practices, please e-mail us at [privacypolicy@enthusiastnetwork.com](mailto:privacypolicy@enthusiastnetwork.com) Please include the URL of the website and/or name of the publication involved in your request. Requests under California Law SB 27 should be directed to [yourcaliforniaprivacyrights@enthusiastnetwork.com](mailto:yourcaliforniaprivacyrights@enthusiastnetwork.com) and include the information noted in Your California Privacy Rights.
+We will use your information for the purposes listed above either on the basis of: 
 
-Or you can contact us by mail at:  
-_  
-TEN: The Enthusiast Network  
-831 South Douglas Street  
-El Segundo, CA 90245  
-Attention: Legal Department  
-_  
-Last Update May 24, 2014  
+  * your consent (where we request it);
+  * performance of your contract with us and the provision of our services to you;
+  * where we need to comply with a legal or regulatory obligation; or
+  * our legitimate interests or those of a third party (see section 2.2 below for more information).
 
+
+
+**2.2 Legitimate interests**
+
+As outlined above, in certain circumstances we may use your personal information to pursue legitimate interests of our own or those of third parties. Where we refer to our "legitimate interests", we mean our legitimate business interests in conducting and managing our business and our relationship with you, including the legitimate interests we have specified in section 2.1 above. 
+
+Where we use your information for our legitimate interests, we make sure that we take into account any potential impact that such use may have on you. Our legitimate interests don't automatically override yours and we won't use your information if we believe your interests should override ours unless we have other grounds to do so (such as your consent or a legal obligation). If you have any concerns about our processing please refer to details of "Your Rights" in Section 6 below. 
+
+**3\. How We Share and Disclose Personal Information**
+
+We consider your personal information to be a vital part of our relationship with you and do not sell your personal information to third parties. There are, however, certain circumstances in which we may share your personal information with certain third parties, as follows: 
+
+  * Other website users and clients who use our websites and/or applications to communicate or otherwise interact with you;
+  * Sponsors, partners and collaborators, including sponsors of our events, products or services, and organizations with whom we host co-branded events.
+  * Our service providers who are acting as processors and who assist us with our administrative or business functions, or in the provision of any of our products/services to you.
+  * Wholly owned subsidiaries, and foreign offices, of AVTech Media Americas Media, Inc.
+  * Marketing parties which are any selected third party that you consent to our sharing your information with for marketing purposes.
+  * Any prospective buyer of our business or assets, only in the event that we wish to sell any part of our business or assets.
+  * Other third parties including legal, professional or other advisors, regulatory authorities, courts, law enforcement agencies and government agencies) where necessary to enable us to enforce our legal rights, or to protect the rights, property or safety of our employees or where such disclosure may be permitted or required by law.
+
+
+
+**4\. How We Look After Your Personal Information and How Long We Keep It**
+
+**4.1 Security**
+
+We use administrative, technical, and physical safeguards to protect the security, confidentiality, and integrity of personal data against loss, misuse and unauthorized access, disclosure, alteration, and destruction. We also operate a policy of "privacy by design" by looking for opportunities to minimize the amount of personal information we hold about you. 
+
+The safeguards we use include: 
+
+  * ensuring the physical security of our offices, warehouses, or other sites
+  * ensuring the physical and digital security of our equipment and devices by using appropriate password protection and encryption
+  * using standard security protocols and mechanisms (such as secure socket layer (SSL) encryption) to transmit sensitive data such as credit card details
+  * maintaining a data protection policy for, and delivering data protection training to, our employees
+  * limiting access to your personal information to those who need to use it in the course of their work
+
+
+
+If you have any questions about the security of your personal information, please contact us using the methods outlined in the "Contact Us" section above. 
+
+**4.2 Retention**
+
+We will keep your information for as long as is necessary to provide you with the services that you have requested from us or for as long as we reasonably require to retain the information for our lawful business purposes, such as for the purposes of exercising our legal rights or where we are permitted to do. We operate a data retention policy and look to find ways to reduce the amount of information we hold about you and the length of time that we need to keep it. 
+
+Please contact us using the methods outlined in the "Contact Us" section above if you would like to obtain details of our retention periods for different aspects of your personal data. 
+
+**4.3 Help keep your information safe**
+
+You can also play a part in keeping your information safe by: 
+
+  * choosing a strong account password, changing it regularly, and using different passwords for different online accounts
+  * keeping your login and password details confidential
+  * logging out of the website and closing the browser each time you have finished using it, especially when using a shared computer
+  * informing us if know or suspect that your account has been compromised, or if someone has accessed your account without your permission
+  * keeping your devices protected by using the latest version of your operating system and maintaining any necessary anti-virus software
+  * being vigilant to any fraudulent emails that may appear to be from us. Any emails that we send will come from an email address ending in: @avtechmediausa.com (AVTech Media Americas)
+
+
+
+**5\. International Transfers of Your Information**
+
+AVTech Media Americas is based in the United States of America. 
+
+**5.1 Special note to users outside of the United States**
+
+We transact business throughout the world and have operations, processes and systems that cross borders. Our offices are located in the United States, and our servers are located in the United States and the United Kingdom. We transfer your personal data within the AVTech Media Americas group of brands in the United States, and to affiliates, joint venture partners, and third party service providers around the world. 
+
+If you reside in the European Union, please be advised that your personal data will be processed outside of the European Economic Area (EEA). We will take all steps necessary to ensure that your information is adequately protected and processed in accordance with this Privacy Policy, including but not limited to: 
+
+  * only transferring your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission;
+  * where we use providers based in the US, we may transfer data to them if they are part of the EU-US Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US; or
+  * where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe (the so-called European Commission's Standard Contractual Clauses).
+
+
+
+We may transfer your personal information to countries in the following regions outside of the EEA: North America and Asia. Please contact us using the contact details in this Privacy Policy if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA. 
+
+**6\. Your Rights: Access and Accuracy, Updating, Correcting, or Deleting Information**
+
+**6.1 Your rights – summary**
+
+You have certain rights in respect of the information that we hold about you, including: 
+
+  * the right to be informed of the ways in which we use your information, as we seek to do in this Privacy Policy
+  * the right to ask us not to process your personal data for marketing purposes
+  * the right to request access to the information that we hold about you
+  * the right to request that we correct or rectify any information that we hold about you which is out of date or incorrect
+  * the right to withdraw your consent for our use of your information in reliance of your consent (refer to section 2 above to see when we are relying on your consent), which you can do by contacting us using any of the details at the top of this Privacy Policy
+  * the right to object to our using your information on the basis of our legitimate interests (refer to section 2 above to see when we are relying on our legitimate interests) (or those of a third party)) and there is something about your particular situation which makes you want to object to processing on this ground
+  * the right to receive a copy of any information we hold about you (or request that we transfer this to another service provider) in a structured, commonly-used, machine readable format, in certain circumstances
+  * in certain circumstances, the right to ask us to limit or cease processing or erase information we hold about you
+  * the right to lodge a complaint about us to the UK Information Commissioner's Office (https://ico.org.uk/) as well as a right to lodge a complaint with the relevant authority in your country of work or residence
+
+
+
+**6.2 How to exercise your rights**
+
+You may exercise your rights above by contacting us using the methods outlined in the "Contact Us" section above and we will comply with your requests unless we have a lawful reason not to do so. 
+
+In the case of preventing processing for marketing activities, you can opt out of marketing by signing in to your Safari account and updating your account settings. You may also opt-out of receiving newsletters or other communications by following the opt-out instructions included in each newsletter or communication or by contacting us using the methods outlined in the "Contact Us" section above. 
+
+You can opt out of our Google Analytics data collection by using the tools available here: https://tools.google.com/dlpage/gaoptout/ 
+
+Please note that your objection to processing (or withdrawal of any previously given consent) could mean that we are unable to provide you with our services. Even after you have chosen to withdraw your consent we may continue to process your personal information when required or permitted by law, in particular in connection with exercising and defending our legal rights, or meeting our legal and regulatory obligations. 
+
+**6.3 What we need from you to process your requests**
+
+We may need to request specific information from you to help us confirm your identity and to enable you to exercise the rights set out above. This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response. 
+
+You will not have to pay a fee to exercise the rights set out above. However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances. We will try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated. 
+
+**7\. Children's Privacy**
+
+Our website is not intended for children. We do not knowingly collect or maintain the personal information of children under the age of 13, and in some jurisdictions under the age of 16. If you are under the age of 13, please do not access our website at any time or in any manner. If we learn that we have collected personal information of children under the age of 13 or 16 (as applicable), we will take appropriate steps to delete that data. 
+
+**8\. Sharing Data with Third Parties**
+
+You might provide personal information directly to third parties as a consequence of your interactions with our website and other services offered by us. For example, our website may contain content and links to other third-party websites, plug-ins, and applications that are operated by third parties that may also operate cookies. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We don't control these third party websites or cookies, we are not responsible for their privacy statements, and this Privacy Policy does not apply to them. Please check the terms and conditions and privacy policy of the relevant third party website to find out how they collect and use your information. If you do not want us to share your personal information with these companies, contact us at using one of the methods described in the "Contact Us" section above. 
+
+Please be responsible with personal information of others when using our website and the services available on it. We are not responsible for your misuse of personal information, or for the direct relationship between you and others that takes place outside of the website or our services. 
+
+**9\. For California Residents: Your Privacy Rights and Do Not Track Disclosure**
+
+AVTech Media Americas's policy is to share your personal information only if you have given us your consent, for instance, by your agreeing to this Privacy Policy through your use of our sites. After obtaining such consent, Safari may in accordance with this Privacy Policy from time to time provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs. If you no longer wish your information to be shared, please let us know, and we will prevent disclosure of your information to such business partners free of charge, or if you have further inquiries regarding our information sharing practices, please let us know using the methods outlined in the "Contact Us" section above. 
+
+California law requires us to let you know how we respond to web browser Do Not Track (DNT) signals. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. We do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers at this time. 
+
+**10\. Changes to this Privacy Policy**
+
+Please note that this Policy may change from time to time. We will not reduce your rights under this Policy without your consent. If we make any material changes we will notify you by email or by means of a notice on this website prior to the change becoming effective. 
