@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readyrefresh.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706192417id_/http%3A//www.nestle-watersna.com/en/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyrefresh.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112230954id_/http%3A//www.nestle-watersna.com/en/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy UPDATED
+# Privacy Policy | Nestlé Waters North America
 
 **Nestlé Waters Privacy and Tracking Policy**
 
@@ -161,7 +161,7 @@ If you are a California resident, you may have the right to request and receive 
 
 **How to contact us**
 
-If you have any questions about this Privacy Policy, you can [contact us](https://www.nestle-watersna.com/en/info) at:
+If you have any questions about this Privacy Policy, you can [contact us](https://web.archive.org/en/info) at:
 
 Nestlé Waters North America Inc.
 
