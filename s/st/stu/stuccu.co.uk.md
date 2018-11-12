@@ -1,105 +1,144 @@
-> *The following text is extracted and transformed from the stuccu.co.uk privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109231906id_/http%3A//n.stuccu.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuccu.co.uk privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112041551id_/https%3A//n.stuccu.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Stuccu: Best Deals on . Up To 70% off!
 
 Privacy Policy 
 
-This is the privacy policy ("Privacy Policy") that governs how we, , StuccoMedia Ltd, company number: 10008044, registered office: 54-56 Camden Lock Place, London, NW1 8AF, England ( "StuccoMedia", "we", "our" or "us"), use Personal Information (defined below) that we collect, receive and store about individuals in connection with the use of the website Stuccu.com, and any other website that we operate (each, together with its sub-domains, content and services, a "Site"). 
+This privacy policy (“Privacy Policy”) together with Our User Agreement governs how we, StuccoMedia Ltd, (“StuccoMedia”, “We”, “Our” or “Us”), use personal information that we collect, receive and store about you (the “user” or “customer”). Please read the following carefully to understand our views and practices regarding your personal information and how We will use it.
 
-1\. Introduction
+For the purposes of applicable data protection laws, including the EU General Data Protection Regulation, as amended and supplemented (the "Data Protection Laws"), the “controller” of personal information collected through www.stuccu.com (the “Website”) is StuccoMedia Limited, company number: 10008044, registered office: 54-56 Camden Lock Place, London, NW1 8AF, England. 
 
-We have implemented this Privacy Policy because your privacy, and the privacy of other users, is important to us. This Privacy Policy explains our online information practices and the choices you can make about the way your Personal Information is collected and used in connection with the Site. "Personal Information" means any information that may be used, either alone or in combination with other information, to personally identify an individual, including, but not limited to, a first and last name, a personal profile, an email address, a home or other physical address, or other contact information. 
+1\. PERSONAL INFORMATION WE MAY COLLECT FROM YOU
 
-2\. User Agreement
+_**When you create an account on Our Website**_
 
-This Privacy Policy forms part of our User Agreement which is available at [ http://www.Stuccu.com/privacypolicy ](http://www.stuccu.com/privacypolicy) ("User Agreement"). Any capitalized but undefined term in this Privacy Policy shall have the meaning given to it in the User Agreement. 
+If you create an account with Us, We will collect information about you including your name and email address.
 
-3\. Consent and Modification
+We will use the personal information that We collect about you to:
 
-You are not legally obligated to provide us Personal Information, and you hereby confirm that providing us Personal Information is at your own free will. By using the Site, you consent to the terms of this Privacy Policy and to our collection, processing and sharing of Personal Information for the purposes set forth herein. If you do not agree to this Privacy Policy, please do not access or otherwise use the Site. We reserve the right, at our discretion, to change this Privacy Policy at any time. Such change will be effective ten (10) days following posting of the revised Privacy Policy on the Site, and your continued use of the Site thereafter means that you accept those changes. 
+  * create and maintain your account with Us;
+  * perform obligations arising from any agreements entered into between you and Us;
+  * respond to your customer service requests and support needs efficiently;
+  * provide you or, if you agree, permit selected Third Party Service Providers and Affiliated Companies to provide you, with information about goods or services We feel may interest you;
+  * notify you about changes to Our service or Our products;
+  * comply with any legal obligations to which We are subject, and to protect and defend Our rights and interests.
 
-4\. What Information We Collect and How We Collect It
+_**When you contact Us**_
 
-4.1 Personal Information. We do not currently require you to provide Personal Information in order to have access to general information available on the Site or to use the Site’s services. But, we do receive and/or collect Personal Information from you in the following ways: 
+If you contact Us, for example by submitting an online form that We make available on Our Website or by emailing Us, We will collect any information that you choose to provide to Us, for example in relation to any order that you may have placed. 
 
-Account Information. . If you create an account on the Site, you will be required to provide us with Personal Information such as you name, email address and password. 
+We will use this information to: 
 
-Order Information. If you place an order through the Site, you will be required to provide us with Personal Information such as your name, address, telephone number, email address, and payment information. 
+  * investigate and respond to your query;
+  * communicate with relevant suppliers including, for example, courier services;
+  * update Our records and details of your account with Us;
+  * comply with any legal obligations to which We are subject, and to protect and defend Our rights and interests.
 
-“Contact Us” Information. If you send us a "Contact Us" request, whether by submitting an online form that we make available or by sending an email to an email address that we display, you may be required to provide us with certain information such as your our name and email for our Coupon-Alert service or our Product Price-Alert service. 
 
-4.2 Anonymous Information. We also collect **Anonymous Information** from you whenever you access and use the Site. "Anonymous Information" means information which does not enable identification of an individual user, such as aggregated information about the use of our Site. We receive and/or collect Anonymous Information from you in the following ways: 
 
-Log Files: We may make use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, clicked pages and any other information your browser may send to us. We may use such information to analyze trends, administer the Site, track user's movement around the Site, and gather demographic information. 
+2\. INFORMATION WE MAY COLLECT AUTOMATICALLY
 
-Cookies and Other Tracking Technologies : Our Site may utilize "cookies", anonymous identifiers and other tracking technologies in order to for us to provide our Site and present you with information that is customized for you. A "cookie" is a small text file that may be used, for example, to collect information about activity on the Site. Certain cookies and other technologies may serve to recall Personal Information, such as an IP address, previously indicated by a user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser.For more information on cookies, please visit our page available at [ http://www.Stuccu.com/useofcookies ](http://www.stuccu.com/useofcookies)
+When you use Our Website, We will automatically collect information including: 
 
-Google Analytics: The Site may use a tool called “Google Analytics” to collect information about use of the Site. Google Analytics collects information such as how often users visit this Site, what pages they visit when they do so, and what other sites they used prior to coming to this Site. We use the information we get from Google Analytics to maintain and improve the Site and our products. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the Google Analytics Terms of Service, available [www.google.com/analytics/terms/us.html ](http://www.google.com/analytics/terms/us.html), and the Google Privacy Policy,available at [www.google.com/policies/privacy/](http://www.google.com/policies/privacy/). You may learn more about how Google collects and processes data specifically in connection with Google Analytics at [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). You may prevent your data from being used by Google Analytics by downloading and installing the Google Analytics Opt-out Browser Add-on, available at [tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/). 
+  * **Log Files:**
 
-5\. The Way We Use Personal Information
+We may make use of log files which record information from your webserver including internet protocol (IP) addresses, type of browser you use, your Internet Service Provider (ISP), other web pages you access and any other information your browser may send to us. 
 
-if you submit or we collect Personal Information through the Site, then we may use such Personal Information in the following ways via any applicable communication channel, including e-mail, SMS, etc.: 
+We may use this information to analyze trends, administer Our website, and track your use of Our Website. 
 
-5.1 We will use your Personal Information to process and fulfil orders and provide other services to you, provide and improve our Site, to send you marketing/advertisement communications that we believe may be of interest to you, to contact you in connection with the Site and certain offerings that you may have inquired about, to identify and authenticate your access to the parts of the Site that you are authorized to access, better understand our users, diagnose and fix problems, and sell and display ads that may be relevant to you. 
+  
 
-5.2 We may use your designated email address to: (i) send you updates or news regarding the Site and our products; and/or (ii) respond to a "Contact Us" or administrative request (for example, to change your password). 
+  * **Cookies and Other Tracking Technologies:**
 
-5.3 We may transfer your Personal Information to our local or foreign subsidiaries or affiliated companies for the purpose of storing or processing such information on our behalf. Such information may be transferred to other countries. We require that these parties agree to process such information in compliance with our Privacy Policy. 
+Our Website uses “cookies”, anonymous identifiers and other tracking technologies in order to for Us to provide our Website and present you with information that is customized for you. 
 
-5.4 We may share your Personal Information with our third party service providers and partners, to assist us with our business operations and to provide our Site to you and other users. Such information may be transferred to other countries. We use commercially reasonable efforts to only engage or interact with third party service providers and partners that post a privacy policy governing their processing of Personal Information (see below). 
+A “cookie” is a small text file that may be used, for example, to collect information about activity on Our Website. Certain cookies and other technologies can be linked to information, such as an IP address, and serve to recognise you when you return to Our Website and tell Us how long you spend on Our Website. 
 
-5.5 We may disclose your Personal Information or any information you submitted via the Site if we have a good faith belief that disclosure of such information is helpful or reasonably necessary to: (i) comply with any applicable law, regulation, legal process or governmental request; (ii) enforce our User Agreement and EULA, including investigations of potential violations thereof; (iii) detect, prevent, or otherwise address fraud or security issues; or (iv) protect against harm to the rights, property or safety of Stuccu.com, our users, yourself or the public. 
+For more information on cookies and how you can change your browser settings to block cookies, please visit Our page available at [http://www.Stuccu.com/useofcookies ](http://www.stuccu.com/useofcookies)
 
-5.6 Sharing the information: Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Stuccu.com, controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. 
+  
 
-5.6.1 **Affiliated Businesses We Do Not Control** : We work closely with affiliated businesses. In some cases, such as Marketplace sellers, these businesses operate stores at Stuccu.com or sell offerings to you at Stuccu.com. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. 
+  * **Google Analytics:**
 
-5.6.2 **Third-Party Service Providers** : We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
+Our Website may use a tool called “Google Analytics” to collect information about use of Our Website. Google Analytics collects information such as how often you visit Our Website, what pages you visit when you do so, and what other sites you use prior to coming to Our Website 
 
-5.6.3 **Business Transfers** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that StuccoMedia., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
+We use this information to maintain and improve Our Website and Our products. We do not combine the information collected through the use of Google Analytics with personally identifiable information. 
 
-5.6.4 **With Your Consent** : Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
+For more information on Google Analytics, please read Google Analytics Terms of Service, available www.google.com/analytics/terms/us.html (<http://www.google.com/analytics/terms/us.html>), and the Google Privacy Policy, available at www.google.com/policies/privacy/ (<http://www.google.com/policies/privacy/>). 
 
-We allow advertisers to choose the characteristics of users who will see their advertisements and we may use any of the non-personally identifiable attributes we have collected (including information you may have decided not to show to other users, such as your birth year or other sensitive personal information or preferences) to select the appropriate audience for those advertisements. We do not identify you to the advertiser. 
+You may learn more about how Google collects and processes data specifically in connection with Google Analytics at www.google.com/policies/privacy/partners/ (http://www.google.com/policies/privacy/partners/). 
 
-6\. Use of Anonymous Information
+You can prevent your data from being used by Google Analytics by downloading and installing the Google Analytics Opt-out Browser Add-on, available at tools.google.com/dlpage/gaoptout/ 
 
-We may use Anonymous Information or disclose it to third party service providers in order to improve our Site and enhance your experience with the Site. We may also disclose Anonymous Information (with or without compensation) to third parties, including advertisers and partners. 
 
-7\. Opting Out
 
-You may choose not to receive future promotional and advertising from us by selecting an unsubscribe link at the bottom of each email that we send. Please note that even if you opt out of receiving the foregoing emails, we may still send you a response to any "Contact Us" request as well as administrative emails (for example, in connection with a password reset request) that are necessary to facilitate your use of the Site. 
 
-8\. Choice
+3\. INFORMATION WE COLLECT FROM THIRD PARTIES
 
-At all times, you may choose whether or not to provide or disclose Personal Information. If you choose not to provide mandatory Personal Information, you may still visit parts of the Site, but you may be unable to access certain options, programs, offers, and services that involve our interaction with you. 
+We work closely with third party service providers, including Doba (to assist with dispatching products to you) (“Third Party Service Providers”). These Third Party Service Providers may pass limited amounts of information to Us, such as details of the status of deliveries. 
 
-9\. Access/Accuracy
+4\. OUR LEGAL BASIS FOR COLLECTING YOUR PERSONAL INFORMATION
 
-To the extent that you do provide us with Personal Information, we wish to maintain accurate Personal Information. If you would like to delete or correct any of your other Personal Information that we may be storing, you may use the tools that we make available on the Site or you may submit an access request by sending an email to [contact@Stuccu.com](mailto:contact@Stuccu.com.). Your email should include adequate details of your request. 
+Entering into and performing a contract with you. If you create an account with Us, our legal basis for processing your personal information is that it is necessary for the performance of the agreement between you and Us. 
 
-10\. Links to and Interaction with Third Party Products
+Our legitimate business interests . If you create an account on the Site, you will be required to provide us with Personal Information such as you name, email address and password. 
 
-The Site may enable you to interact with or contain links to your Third Party Account and other third party websites, mobile software applications and services that are not owned or controlled by us (each a **“Third Party Service”** ). We are not responsible for the privacy practices or the content of any Third Party Service. Please be aware that the Third Party Service may collect Personal Information from you. Accordingly, we encourage you to read the terms and conditions and privacy policy of each Third Party Service that you choose to use or interact with. 
+5\. MARKETING
 
-11\. Children's Privacy
+If you sign up to receive marketing messages from Us, We will contact you from time to time with information about products and services that We think may be of interest to you. 
 
-The Site is a general audience websites and not structured to attract children under the age of 13 years. We do not intend to collect Personal Information from anyone we know to be under 13 years. If we learn that we have collected Personal Information from a child under 13 years, we will delete that information as quickly as possible. If you believe that we might have any such information, please contact us at [contact@Stuccu.com](mailto:contact@Stuccu.com). 
+You can opt-out of receiving further messages at any time by clicking the “Unsubscribe” link at the bottom of any email you receive from Us. 
 
-12\. Security
+6\. DISCLOSURE OF YOUR INFORMATION
 
-The security of Personal Information is important to us. We follow generally accepted industry standards, including the use of appropriate administrative, physical and technical safeguards, to protect the Personal Information submitted to us. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use reasonably acceptable means to protect your Personal Information, we cannot guarantee its absolute security or confidentiality. If you have any questions about security on the Service, you can contact us at [contact@Stuccu.com](mailto:contact@Stuccu.com). 
+We may share your information with selected third parties including: 
 
-13\. Merger, Sale or Bankruptcy
+  * members of Our corporate group such as Stucco Services Ltd;
+  * third party merchants such as Doba who fulfil orders;
+  * third party merchants such as Doba who fulfil orders;
+  * third party service providers that help Us operate Our business, Our Website or administer activities on Our behalf, such as Amazon Web Services, who host Our Website;
+  * payment processors that collect payments on Our behalf, such as Paypal;
+  * courier and postal service providers;
+  * professional advisors.
 
-In the event that we are acquired by or merged with a third party entity, or in the event of bankruptcy or a comparable event, we reserve the right to transfer or assign Personal Information in connection with the foregoing events. 
 
-14\. Our California Do Not Track Notice
 
-We do not currently respond or take any action with respect to web browser "do not track" signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer's online activities over time and across third-party web sites or online services. We may allow third parties, such as companies that provide us with analytics tools, to collect personally identifiable information about an individual consumer's online activities over time and across different web sites when a consumer uses the Site. 
+We may also disclose your personal information to third parties: 
 
-16\. Commitment
+  * in the event that We sell or buy any business or assets, in which case We may disclose your personal information to the prospective seller or buyer of such business or assets;
+  * if We transfer ownership or management of Our Website, services, business and/or assets (in whole or in part) to a third party, in which case We may also transfer your personal information to such third party, provided such third party agrees to observe and adhere to the terms set out in this Privacy Policy (as amended from time to time); and
+  * if We are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply Our Terms (www.stuccu.com/terms) and other agreements; or to protect Our rights, property, or safety, or those of Our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection.
 
-We are committed to protecting your privacy. Protecting your privacy online is an evolving area, and we are constantly evolving our Service to meet these demands. If you have any comments or questions regarding our Privacy Policy, or your Personal Information that we may be storing and using, please contact us at [contact@Stuccu.com](mailto:contact@Stuccu.com). 
 
-Last updated: 21/4/2016 
+
+7\. INTERNATIONAL TRANSFERS OF YOUR PERSONAL INFORMATION
+
+The personal information that We collect from you will be transmitted to third parties located in countries outside of the European Economic Area ("EEA" ) including Israel. If you would like more information about how your personal information is transferred, and the safeguards applied, please contact Us at contact@Stuccu.com 
+
+8\. RETENTION OF YOUR PERSONAL INFORMATION
+
+The period for which We will retain your personal information will vary depending on the purposes it was collected for, as well as the requirements of any applicable law or regulation. 
+
+For example, if you have an account on Our Website, We will store your personal information and details about your order for as long as is necessary to provide your account, and for the period for which you or We could bring legal processing in relation to it. 
+
+9\. YOUR RIGHTS
+
+You may have certain rights in relation to the personal information We collect about you. These may include the right to request access to the data We hold about you, or to obtain a copy of the personal information in machine readable format, to request that it is erased or that any inaccurate personal information is rectified. You may also have the right to ask Us to restrict how we process your personal information or to withdraw your consent to how We process your personal information. Please contact Us at contact@Stuccu.com if you would like to make a request. 
+
+You also have the right to complain about the use of your data to the Supervisory Authority, which in the UK is the Information Commissioner’s Office ([www.ico.org.uk](https://www.ico.org.uk/)). 
+
+10\. LINKS TO AND INTERACTION WITH THIRD PARTY PRODUCTS
+
+Our Website may enable you to interact with or contain links to third party websites, mobile software applications and services that are not owned or controlled by Us, and if you place an order through Our Website your personal information will be passed to Doba (each a “Third Party Service”). 
+
+We are not responsible for the privacy practices or the content of any Third Party Service. Please be aware that the Third Party Service may collect personal information from you. Accordingly, We encourage you to read the terms and conditions and privacy policy of each Third Party Service that you choose to use or interact with 
+
+11\. CHANGES TO OUR PRIVACY POLICY
+
+This Privacy Policy will be reviewed from time to time to take account of changes to Our operations and practices. If We make changes, We will notify you by revising the date at the top of this Privacy Policy, and if the changes are significant, We may provide you with additional notice such as adding a statement to the homepage of the Website or sending you an email with the update. Any personal information held will be governed by our most current Privacy Policy. 
+
+12\. CONTACT US
+
+If you have any questions or requests regarding this Privacy Policy, the practices of Our Website or your dealings with this Website, please contact Us at contact@Stuccu.com 
+
+Last updated: 24/5/2018 
