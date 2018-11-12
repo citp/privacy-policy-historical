@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whole9life.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514163913id_/http%3A//whole9life.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whole9life.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112111833id_/http%3A//whole9life.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Whole9
 
@@ -6,45 +6,287 @@ If you require any more information or have any questions about our privacy poli
 
 At Whole9life.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by Whole9life.com and how we use it.
 
-**Log Files**  
-Like many other Web sites, Whole9life.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+By using this site or/and our services, you consent to the Processing of your Personal Data as described in this Privacy Policy.  
+This Privacy Policy is a part of our Terms and Conditions; by agreeing to Terms and Conditions you also agree to this Policy. In the event of collision of terms used in Terms and Conditions and Privacy Policy, the latter shall prevail.  
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website. PII is referred to, more globally as Personal Data (see below)
 
-**Cookies and Web Beacons**  
-Whole9life.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
+Table of Contents
 
-**Our Advertising Partners**
+  1. Definitions used in this Policy
+  2. Data protection principles we follow
+  3. What rights do you have regarding your Personal Data
+  4. What Personal Data we gather about you
+  5. How we use your Personal Data
+  6. Who else has access to your Personal Data
+  7. How we secure your data
+  8. Information about cookies
+  9. Contact information
 
-This site uses affiliate links. Over the years we have had many, many affiliate relationships with businesses we think have products or services that will benefit our community. There are too many to list, so please assume that any links leading you to products or services are affiliate links that we will receive compensation from.
 
-Some of our advertising partners may use cookies and web beacons on our site. These advertising partners include: Commission Junction and Amazon.
 
-_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies)._
+Definitions
 
-You may consult this listing to find the privacy policy for each of the advertising partners of Whole9life.com.
+**Personal Data**  – any information relating to an identified or identifiable natural person.  
+**Processing**  – any operation or set of operations which is performed on Personal Data or on sets of Personal Data.  
+**Data subject**  – a natural person whose Personal Data is being Processed.  
+**Child**  – a natural person under 16 years of age.  
+**We/us**  (either capitalized or not) – whole9life.com
 
-These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on Whole9life.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+Data Protection Principles
 
-Whole9life.com has no access to or control over these cookies that are used by third-party advertisers.
+We promise to follow the following data protection principles:
 
-**Third Party Privacy Policies**
+  * Processing is lawful, fair, transparent. Our Processing activities have lawful grounds. We always consider your rights before Processing Personal Data. We will provide you information regarding Processing upon request.
+  * Processing is limited to the purpose. Our Processing activities fit the purpose for which Personal Data was gathered.
+  * Processing is done with minimal data. We only gather and Process the minimal amount of Personal Data required for any purpose.
+  * Processing is limited with a time period. We will not store your personal data for longer than needed.
+  * We will do our best to ensure the accuracy of data.
+  * We will do our best to ensure the integrity and confidentiality of data.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Whole9life.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
-**Children’s Information**
+Data Subject’s rights
 
-We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. Whole9life.com does not knowingly collect any personally identifiable information from children under the age of 13.
+The Data Subject has the following rights:
 
-**Online Privacy Policy Only**
+  1. Right to information – meaning you have to right to know whether your Personal Data is being processed; what data is gathered, from where it is obtained and why and by whom it is processed.
+  2. Right to access – meaning you have the right to access the data collected from/about you. This includes your right to request and obtain a copy of your Personal Data gathered.
+  3. Right to rectification – meaning you have the right to request rectification or erasure of your Personal Data that is inaccurate or incomplete.
+  4. Right to erasure – meaning in certain circumstances you can request for your Personal Data to be erased from our records.
+  5. Right to restrict processing – meaning where certain conditions apply, you have the right to restrict the Processing of your Personal Data.
+  6. Right to object to processing – meaning in certain cases you have the right to object to Processing of your Personal Data, for example in the case of direct marketing.
+  7. Right to object to automated Processing – meaning you have the right to object to automated Processing, including profiling; and not to be subject to a decision based solely on automated Processing. This right you can exercise whenever there is an outcome of the profiling that produces legal effects concerning or significantly affecting you.
+  8. Right to data portability – you have the right to obtain your Personal Data in a machine-readable format or if it is feasible, as a direct transfer from one Processor to another.
+  9. Right to lodge a complaint – in the event that we refuse your request under the Rights of Access, we will provide you with a reason as to why. If you are not satisfied with the way your request has been handled please contact us.
+  10. Right for the help of supervisory authority – meaning you have the right for the help of a supervisory authority and the right for other legal remedies such as claiming damages.
+  11. Right to withdraw consent – you have the right withdraw any given consent for Processing of your Personal Data.
 
-This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
 
+
+Data we gather
+
+**Information you have provided us with**  
+This might be your e-mail address, name, billing address, home address etc – mainly information that is necessary for delivering you a product/service or to enhance your customer experience with us. We save the information you provide us with in order for you to comment or perform other activities on the website. This information includes, for example, your name and e-mail address. We collect this information from you when you register on our site, place an order, subscribe to a newsletter, fill out a form or enter information on our site and during the checkout process on our store
+
+While you visit our site, we’ll track:
+
+Products you’ve viewed: we’ll use this to, for example, show you products you’ve recently viewed  
+Location, IP address and browser type: we’ll use this for purposes like estimating taxes and shipping  
+Shipping address: we’ll ask you to enter this so we can, for instance, estimate shipping before you place an order, and send you the order!  
+We’ll also use cookies to keep track of cart contents while you’re browsing our site.
+
+**Information automatically collected about you**  
+This includes information that is automatically stored by cookies and other session tools. For example, your shopping cart information, your IP address, your shopping history (if there is any) etc. This information is used to improve your customer experience. When you use our services or look at the contents of our website, your activities may be logged.
+
+**Information from our partners**  
+We gather information from our trusted partners with confirmation that they have legal grounds to share that information with us. This is either information you have provided them directly with or that they have gathered about you on other legal grounds. See the list of our partners below.
+
+**Publicly available information**  
+We might gather information about you that is publicly available.
+
+**How we use your Personal Data**
+
+We use your Personal Data in order to:
+
+  * provide our service to you. This includes for example registering your account; providing you with other products and services that you have requested; providing you with promotional items at your request and communicating with you in relation to those products and services; communicating and interacting with you; and notifying you of changes to any services.
+  * enhance your customer experience;
+  * fulfil an obligation under law or contract;
+  * giving you access to provided course materials;
+  * allow you to make store purchases;
+
+
+
+We use your Personal Data on legitimate grounds and/or with your Consent.
+
+On the grounds of entering into a contract or fulfilling contractual obligations, we Process your Personal Data for the following purposes:
+
+  * to identify you;
+  * to provide you a service or to send/offer you a product;
+  * to communicate either for sales or invoicing;
+
+
+
+On the ground of legitimate interest, we Process your Personal Data for the following purposes:
+
+  * to send you personalized offers* (from us and/or our carefully selected partners);
+  * to administer and analyse our client base (purchasing behaviour and history) in order to improve the quality, variety, and availability of products/ services offered/provided;
+  * to conduct questionnaires concerning client satisfaction;
+
+
+
+As long as you have not informed us otherwise, we consider offering you products/services that are similar or same to your purchasing history/browsing behaviour to be our legitimate interest.
+
+With your consent we Process your Personal Data for the following purposes:
+
+  * to send you newsletters and campaign offers (from us and/or our carefully selected partners);
+  * for other purposes we have asked your consent for;
+  * 
+
+
+We Process your Personal Data in order to fulfil obligation rising from law and/or use your Personal Data for options provided by law. We reserve the right to anonymize Personal Data gathered and to use any such data. We will use data outside the scope of this Policy only when it is anonymized. We save your billing information and other information gathered about you for as long as needed for accounting purposes or other obligations deriving from law.
+
+We might process your Personal Data for additional purposes that are not mentioned here, but are compatible with the original purpose for which the data was gathered. To do this, we will ensure that:
+
+  * the link between purposes, context and nature of Personal Data is suitable for further Processing;
+  * the further Processing would not harm your interests and
+  * there would be appropriate safeguard for Processing.
+  * 
+
+
+We will inform you of any further Processing and purposes.
+
+**Who else can access your Personal Data**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.  
+We do not share your Personal Data with strangers. Personal Data about you is in some cases provided to our trusted partners in order to either make providing the service to you possible or to enhance your customer experience. We share your data with:
+
+**Our processing partners:**
+
+  * We accept payments through PayPal and Stripe. When processing payments, some of your data will obviously be passed to PayPal or Stripe (depending on the processor you choose / is provided at checkout), including information required to process or support the payment, such as the purchase total and billing information.
+
+
+
+Please see the [PayPal](https://www.paypal.com/uk/webapps/mpp/ua/privacy-prev) and [Stripe](https://stripe.com/gb/privacy) Privacy Policies for further details.
+
+**Connected third parties:**
+
+  * Infusionsoft
+  * Leadpages
+  * Mediavine
+  * Adthrive
+  * Facebook
+
+
+
+**Third Party Links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+We only work with Processing partners who are able to ensure adequate level of protection to your Personal Data. We disclose your Personal Data to third parties or public officials when we are legally obliged to do so. We might disclose your Personal Data to third parties if you have consented to it or if there are other legal grounds for it.
+
+**How we secure your data**
+
+We do our best to keep your Personal Data safe.  We use safe protocols for communication and transferring data (such as HTTPS). We use anonymising and pseudonymising where suitable. We audit, fence and monitor our systems for and against possible vulnerabilities and attacks.
+
+Even though we try our best we can not guarantee the security of information. However, we promise to notify suitable authorities of data breaches. We will also notify you if there is a threat to your rights or interests. We will do everything we reasonably can to prevent security breaches and to assist authorities should any breaches occur.
+
+**Fair Information Practices**  
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
+
+We will notify the users via email
+
+  * Within 72 hours of becoming aware of a breach
+
+
+
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+If you have an account with us, note that you have to keep your username and password secret.
+
+**Children**
+
+We do not intend to collect or knowingly collect information from children. We do not target children with our services.
+
+COPPA (Children Online Privacy Protection Act)  
+When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under 13.
+
+**Cookies and other technologies we use**
+
+We use cookies and/or similar technologies to analyse customer behaviour, administer the website, track users’ movements, and to collect information about users. This is done in order to personalise and enhance your experience with us.
+
+A cookie is a tiny text file stored on your computer. Cookies store information that is used to help make sites work. Only we can access the cookies created by our website. You can control your cookies at the browser level. Choosing to disable cookies may hinder your use of certain functions.
+
+**We use cookies for the following purposes:**
+
+  * Necessary cookies – these cookies are required for you to be able to use some important features on our website, such as logging in. These cookies don’t collect any personal information.
+  * Functionality cookies – these cookies provide functionality that makes using our service more convenient and makes providing more personalised features possible. For example, they might remember your name and e-mail in comment forms so you don’t have to re-enter this information next time when commenting.
+  * Analytics cookies – these cookies are used to track the use and performance of our website and services
+  * Advertising cookies – these cookies are used to deliver advertisements that are relevant to you and to your interests. In addition, they are used to limit the number of times you see an advertisement. They are usually placed to the website by advertising networks with the website operator’s permission. These cookies remember that you have visited a website and this information is shared with other organisations such as advertisers. Often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
+
+
+
+You can remove cookies stored in your computer via your browser settings. Alternatively, you can control some 3rd party cookies by using a privacy enhancement platform such as [optout.aboutads.info](http://optout.aboutads.info/#!/) or [youronlinechoices.com](http://www.youronlinechoices.com/).
+
+For more information about cookies, visit [allaboutcookies.org](http://www.allaboutcookies.org/).
+
+We use Google Analytics to measure traffic on our website. Google has their own Privacy Policy which you can review [here](https://support.google.com/analytics/answer/6004245). If you’d like to opt out of tracking by Google Analytics, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
+
+**Contact Information**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.  
+_[headquarters@moresocialless.media](mailto:headquarters@moresocialless.media)_  
+Salt Lake City  
+USA  
+**Representative Contact in the EU**
+
+**Supervisory Authority**  
+Email: [info@dataprotection.ie](mailto:info@dataprotection.ie)  
+Phone: +353 57 868 4800
+
+**California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+According to CalOPPA we agree to the following:
+
+Users can visit our site anonymously  
+Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.  
+Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
+
+Users are able to change their personal information:
+
+  * By emailing us
+  * By logging in and modifying it
+
+
+
+**How does our site handle do not track signals?**  
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+Does our site allow third party behavioral tracking?  
+It’s also important to note that we allow third party behavioral tracking
+
+**CAN SPAM Act**  
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+We collect your email address in order to:
+
+  * Send information, respond to inquiries, and/or other requests or questions
+  * Process orders and to send information and updates pertaining to orders
+  * We may also send you additional information related to your product and/or service
+  * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
+
+
+
+To be in accordance with CANSPAM we agree to the following:
+
+  * NOT use false, or misleading subjects or email addresses
+  * Identify the message as an advertisement in some reasonable way
+  * Include the physical address of our business or site headquarters
+  * Monitor third party email marketing services for compliance, if one is used
+  * Honor opt-out/unsubscribe requests quickly
+  * Allow users to unsubscribe by using the link at the bottom of each email
+
+
+
+If at any time you would like to unsubscribe from receiving future emails, you can
+
+  * Follow the instructions at the bottom of each email.
+
+
+
+and we will promptly remove you from ALL correspondence.  
 **Consent**
 
 By using our website, you hereby consent to our privacy policy and agree to its terms.
 
-**Update**  
-This Privacy Policy was last updated on: November 12, 2014.  
+**Changes to this Privacy Policy**
+
+We reserve the right to make change to this Privacy Policy.  
+Last modification was made May 25, 2018.  
 [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
