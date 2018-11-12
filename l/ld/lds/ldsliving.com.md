@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ldsliving.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920022138id_/http%3A//www.ldsliving.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldsliving.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112161403id_/http%3A//ldsliving.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LDS Living
+
+## [View our Terms of Use](http://www.ldsliving.com/pages/termsofuse)
 
 Last Modified: March, 23 2015. This Privacy Policy is effective as of May 10, 2011 ("Effective Date").
 
