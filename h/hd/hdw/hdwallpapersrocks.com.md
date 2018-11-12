@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hdwallpapersrocks.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614210612id_/http%3A//hdwallpapersrocks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpapersrocks.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112205318id_/http%3A//hdwallpapersrocks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HD Wallpapers Rocks
+# privacy policy | HD Wallpapers Rocks
 
 At hdwallpaperslarge.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by hdwallpaperslarge.com and how it is used.  
 **Log Files**  
