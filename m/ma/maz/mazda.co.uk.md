@@ -1,169 +1,205 @@
-> *The following text is extracted and transformed from the mazda.co.uk privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005035715id_/https%3A//www.mazda.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazda.co.uk privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112014932id_/http%3A//www.mazda.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Cookies
+# Privacy Policy
 
-## Collection and processing of data in the vehicle
+**Key Summary**
 
-### Data stored by the driver
+We process your personal information only for the following purposes: vehicle service reminders, warranty services, market research, providing updates on network dealer changes, respond to general enquiries and requests sent to us, product recalls, marketing analytics and personalised communications and direct marketing.
 
-Usually, all data stored in the vehicle by the driver, such as phone contacts, navigation destinations, and favorites, can be deleted at any time.
+As part of our processing for these purposes, we share your information with suppliers who act on our behalf for services such as database management, IT support, website support and marketing services.
 
-### Data storage in the vehicle
+This Policy explains what data we process, why, how it is legal and your rights.
 
-Many electronic components inside your vehicle contain data storage media, which temporarily or permanently store technical information such as vehicle status, events and errors. This technical information generally documents the conditions of a component, module, system or the environment:
-
-  * operating conditions of system components (e.g., fill levels)
-  * status messages of the vehicle or its individual components (e.g., wheel speed/driving speed, deceleration, lateral acceleration)
-  * malfunctions and defects in important system components (e.g., lighting and brakes
-  * response of the vehicle to extraordinary driving situations (e.g., deployment of an airbag, activation of stability control systems)
-  * environmental conditions (e.g., temperature)
+  * Mazda UK Privacy Policy
 
 
 
-This data is solely of a technical nature and serves the purpose of identifying and resolving errors as well as optimizing vehicle functions. Movement profiles of driven routes cannot be derived from this data.
+## Mazda UK Privacy Policy
 
-When obtaining services (e.g., repairs, maintenance, warranty services, quality assurance), this technical information can be downloaded from the event and error memory by members of the service network (including Mazda Motor Corporation and, if necessary, other companies and affiliated with the Mazda group) using special diagnostic devices. Once an error has been resolved, the information in the error memory will be deleted or overwritten.
+This Privacy Policy is provided by Mazda Motors UK Limited (" **Mazda UK** ", " **we** " or " **us** ") who is a controller in respect of your personal data for the purposes of the General Data Protection Regulation (EU) 2016/679 and the Data Protection Act 2018 (once enacted)  (collectively referred to as the " **Data Protection Laws** ").  Keeping your data safe is important to Mazda UK and this Privacy Policy explains what personal data we process, why we hold the data, what legal basis we rely on and what your rights are.  Please take the time to read this carefully.
 
-When using the vehicle, situations may occur in which this technical data in combination with additional information (accident log, damages to the vehicle, witness statements, etc.) could become personally identifiable, possibly with the help of an expert.
+If you would like to get in touch with Mazda UK, to amend any personal details, amend any marketing preferences or for any other queries, please use the following details:
 
-#### Add-on functions contractually agreed upon with the customer or legally required, such as the automatic emergency call system (eCall), allow certain vehicle data to be transmitted from the vehicle.
+Email: [mmukassistance@mazdaeur.com](mailto:mmukassistance@mazdaeur.com)
 
-## Privacy Statement
+Address:          
 
-The protection of your privacy in the processing of your personal data is an important concern to Mazda, and any personal data collected during visits to our web site is processed by us according to the legal provisions valid for the countries in which the web sites are maintained. Our web sites may include links to other sites whose content is not under our control and Mazda cannot accept any responsibility for the content within these web sites.
+Customer Relations Team,
 
-### Collecting and processing personal data
+Mazda Motors UK Limited
 
-When you visit our web sites, our web server automatically records the name of your internet service provider, the web site from which you visit us, the web sites you actually visit and the date and length of your visit. Additional personal data is only stored if volunteered by you, for example in the context of a registration, survey, contest, or in execution of a contract.
+Victory Way
 
-It should be noted that social plug-ins on the web site such as Facebook directly submits data to us of those logged-in users to the server and also user data of visitors who are not Facebook members. A link to the Facebook private policy is attached for your information [//www.facebook.com/policy.php](https://www.facebook.com/policy.php)
+Crossways Business Park  
+Dartford
 
-### Use and disclosure of personal data and purpose specification
+Kent
 
-Mazda Motors UK Ltd will use any personal information collected for customer administration and marketing related purposes including customer support and to inform you about new products and services. Your data will be treated in accordance with current Data Protection legislation and will only be disclosed to Mazda Motors UK Ltd affiliated or associated companies, agencies and dealers for the purpose of marketing and customer administration including customer support.
+DA2 6DT
 
-### Freedom of choice
+Telephone: 03457 48 48 48
 
-We should like to use your data to inform you about our products and services and where applicable request your opinion. Naturally your participation is completely voluntary.
+For any other matters, please contact our Data Protection Officer as below:
 
-You have a right to request a copy of the personal data we hold about you and to correct any inaccuracies in your information.
+Email: [mazdaukdpo@dpgovernance.com](mailto:mazdaukdpo@dpgovernance.com)
 
-Mazda Motors UK Ltd may wish to use your information (or provide it to its Dealer Network or third party providers) to contact you or keep you informed about new products and services it provides from time to time .
+Address:          
 
-If you do not wish your information to be stored for such purposes you are at liberty to opt out of such correspondence by contacting us free of charge and confirming your desire to opt out.
+Mazda UK DPO
 
-It would be our preference to use your data and contact you through electronic communication i.e. by telephone, e-mail or sms. If you do not wish to be contacted in this manner you are at liberty to opt out of such correspondence by contacting us free of charge and confirming your desire to opt out.
+DP Governance
 
-### Security
+50 Brook Street
 
-Mazda uses technical and organisational security measures in order to protect the data we have under our control against accidental or intentional manipulation, loss, destruction or against access by unauthorised persons.
+Mayfair
 
-### Legal disclaimer
+London
 
-Please note: Mazda Motors UK Ltd reserves the right to introduce at any time alterations in specification and equipment. All specifications shown may vary and may not be available in the UK.
+W1K 5DR
 
-## What are cookies?
+The personal information provided by you to us falls within the following categories:
 
-Most websites record small amounts of information about your activity on the site. This information is in the form of a small text file and is known as a cookie. This is stored on your personal computer.
+
+
+
+**\- Contact details** \- Includes your full name, address, contact information including telephone and email address details. 
+
+
+
+
+**\- Website, electronic communications and app device usage** – We will collect information such as if you open or engage with our email communications or if you use the Mazda website platforms: [www.mazda.co.uk](https://www.mazda.co.uk/), [www.mazdamyway.co.uk](https://www.mazdamyway.co.uk/), online brochures or if you have registered an account on the My Mazda ownership App or the ‘My Garage’ account (on the Mazdamyway.co.uk site), we will collect usage and online behaviour information through cookies, your IP address or other tracking technologies such as pages visited, where you joined our site from, the path you take through our sites and where you leave, browser, type of device and how long you visited for including collecting your mobile device location details (if permitted within the App settings).  You can read more about the respective cookie policies on [www.mazda.co.uk/cookies](https://www.mazda.co.uk/cookies/) or [www.mazdamyway.co.uk/cookies/](https://www.mazdamyway.co.uk/cookies/).
+
+**\- Call Tracking, Call Recordings & Live Chat **– we will collect any personal data provided to us as part of the live chat services and we will track calls and record calls for quality and monitoring purposes.
+
+If you become a Mazda owner, we will collect the following categories:
+
+**\- Customer services** \- We will also collect additional information about you and your vehicle when you contact our customer relations centre (including queries or complaints).
+
+**\- Dealer information** – We will collect information about the dealership who you purchase your car from as well as the dealership who you service your car with (if different)
+
+**\- Vehicle Information** \- including VIN, registration number and registration date, make/ model, warranty repair information as well as security etching (unique security code etched onto the windows linking both you and your car to the International Security Register (ISR).    
+In addition, for servicing only, we will collect service information such as date and time you used our services within our dealer network as well as latest mileage information which is used to help determine the optimum time for your next service.  We will also collect technical vehicle information about how the engine and systems within the vehicle perform including on-board diagnostics data as well as, if relevant, the location of where the fault has occurred.
+
+We use your personal data for the following purposes and we are allowed to do so, on certain legal bases which are outlined below.
+
+
+
+
+**\- Legitimate Interests**  – We are permitted to process your personal data below if it is based on our ‘legitimate interests’ i.e. we have good, sensible, practical reasons for processing your personal data which is in the interest of Mazda UK. To do so, we have considered the impact on your interests and rights, and have placed appropriate safeguards to ensure that the intrusion on your privacy is reduced as much as possible. 
+
+
+
+
+Our legitimate interest in processing the personal data below for the purpose specified is to     provide you with useful services and information. We only use your personal data for the purposes specified and process personal data that is necessary for these purposes: ** **
+
+**\- Customer Requests**  – To fulfil requests you submit to us such a test drive, service request, brochure request or other type of request submitted through Mazda web platforms or app and will be transferred to your selected Mazda dealer or the Mazda My Way team to fulfil the request. ** **
+
+**\- Warranty and Roadside Assistance Services  **\- If you have purchased a new Mazda vehicle, you will receive a Mazda Welcome Pack including a Mazda Roadside Assistance card and when you are nearing the end of the three years the Mazda roadside assistance and warranty service provider will communicate with you to let you know the options available to you at the end of this period. ** **
+
+**\- Service history**  – Mazda UK provide a secure online database, where your entire service history (inspections and services) is stored and you will receive vehicle service reminders (based on mileage provided at each service) to ensure you are aware of when your vehicle is due its regular service. ** **
+
+**\- Security Etching**  – This is provided for new car owners only, to assist you by deterring vehicle theft and cloning as well as improving the chances of recovering stolen vehicles. ** **
+
+**\- Vehicle and product quality support**  – To fulfil services relating to vehicle warranty, technical inspection and resolution support as well as to support product quality and development purposes. ** **
+
+**\- Customer Support**  – We will use your data in order to provide customer support and administration to process any goodwill claims and to resolve any complaint or queries. ** **
+
+**\- Network Dealer changes**  \- We will update you on changes to our dealer network, where relevant.
+
+Our legitimate interest in processing the personal data below with its respective purposes is to provide effective customer relationship management: ****
+
+**\- Dealership and Product Research**  – We will use your purchase information to understand you better as a customer, find out what you think of our services delivered by the Mazda dealer network and our vehicle range to ensure we understand how to deliver an exceptional customer service and product range. ****
+
+**\- Quality and Training**  – We will track and record voice calls and retain live chat records for quality and training monitoring purposes for our dealer network, the agency providing live chat services as well as our Mazda UK Customer Relations Team, if you contact us via those channels ****
+
+**\- Marketing analytics, website improvements and personalised communications**  – we will use your data (some which may not identify you directly) on our website and app platforms in order to monitor visitor numbers, engagement levels in order to improve website services, to ensure you receive relevant and personalised communications as well as to review the effectiveness of our marketing to help improve the services we provide.
+
+******Contractual** ****
+
+**\- Warranty and Roadside Assistance services** : If you have purchased a new Mazda vehicle, Mazda UK will process your warranty related data (which includes Vehicle Information) in order to fulfil the warranty and free of charge roadside assistance for 3 years (from the original date of the registration of the vehicle). ****
+
+**\- Mazda unlimited mileage warranty and pan-European roadside assistance** : If you have purchased a used Mazda vehicle from a Mazda authorised dealership we will process your warranty related data (which includes Vehicle Information) to provide you with 12 months of Mazda unlimited mileage warranty and 12 months pan-European roadside assistance. ****
+
+**Consent** ****
+
+**\- Marketing Communications**  \- Where you have given us consent to do so, we will get in touch to provide you with information on relevant Mazda UK products and services as well as latest news such as all new models, promotions and events.  Don’t worry we won’t bombard you and you will always have the option to opt out of any further marketing communications.   (See  _How you can amend your preferences_  later) ****
+
+**\- Market Research  **– we will contact you from time to time to invite you to participate in market research studies such as mystery shopping or other types of research. ****
+
+**\- Push notifications  **– if you have registered for the My Mazda app, you can opt in to push notifications for example to remind you there is a service due on your car. ****
+
+**Legal Obligation** ****
+
+**\- Registration of your vehicle  **– Your data will be inputted into the Registration system in order to register your car with the DVLA. ****
+
+**\- Recalls**  – If we are legally required to carry out products recalls, we will use your contact details to contact you to inform you of any relevant recalls. ****
+
+**\- Requests from authorities**  \- We will share your personal data with the police, other law enforcements or regulators where we are required by law to do so.
+
+We will never sell your information to third parties and will only provide your data to the third parties as detailed above to fulfil the relevant services.  Mazda UK uses the following Mazda entities as processors to provide certain services and have access to your personal data in the process:
+
+**Who information is shared with**
+
+| 
+
+**Personal data**  
+  
+---|---  
+  
+Mazda Motor Europe GmbH – Database management services
+
+| 
+
+
+**\- Contact details**   
+**\- Customer services**  
+ **\- Dealer information**  
+ **\- Vehicle Information**  
+  
+Mazda Motor Corporation - Vehicle and product quality support
+
+| 
+
+
+**\- Vehicle Information**
+
 
   
-As we are always looking to give you the best possible experience, our site runs optimally with cookies enabled. They allow us to remember you when you return to our site as well as identify and resolve errors - giving you a faster, more personal experience. Additional data is only stored if volunteered by you, such as when you provide information through a test drive request.
-
   
-Cookies can't harm your computer and we take the selection of all the third-party suppliers who may set cookies for marketing purposes very seriously.
+Mazda UK will ensure that all processors (e.g. IT hosting, database management, customer contact providers, security etching, warranty and roadside assistance providers, marketing fulfilment, Mazda dealers) who are handling your data comply with the Data Protection Laws and that data is only stored within the EEA, where possible.  Mazda UK has agreed for your data to be transferred to countries outside of the EEA to fulfil specific processing. To comply with the Data Protection Laws, all our processors, for example, are required to provide evidence that they have the relevant levels of operational security measures put in place to protect your data and we have an audit process in place to ensure these processors comply with their obligations.
 
-### Types of cookies used on this website:
+Where we are storing website data against unique ID’s as this data is processed in a way that does not identify you as an individual this data will be kept indefinitely for historical reporting purposes.
 
-The cookies used on this website are based on the International Chamber of Commerce guide for cookie categories. See below for more detailed information:
+Call tracking and recordings are kept for no longer than 6 months and for the live chat service we will collect any personal information that you provide as part of the live chat will be stored for up to 6 months to enable us to fulfil your enquiry.
 
-### Category 1: 'Strictly Necessary' cookies
+We will hold your personal data for 6 months if you have submitted a request for information e.g. test drive or brochure for any Mazda products or services, in order to fulfil the request and will hold this data for a further 4 years from the original date of the request in order to continue to communicate Mazda products and services, where consent is provided.
 
-These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies, services you have asked for, such as a brochure cannot be provided.
+If your relationship changes and you become a Mazda owner, we will hold your personal data for as long as you own a Mazda car and up to 7 years from when we are aware that you no longer own your car to ensure we are able to deal with any queries you may have on your Mazda or to support any legal claims process.  We may hold this data for a longer period, if we are legally required to do so.
 
-  
-This website uses 'Strictly Necessary' cookies which affect pages such as [ Brochure Request](https://web.archive.org/request-a-brochure/) and [Test Drive](https://web.archive.org/test-drive/) forms. This information is automatically deleted at the end of each session.
-
-### Category 2: 'Performance' Cookies
-
-These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
-
-  
-The following Category 2 cookie is used on this website:
-
-  * auto.sophus3.com
-
-
-  * Google Analytics: _utma /_utmt / _utmb /_utmc /_utmz / utmv
-
-
-  * Click [here](https://www.google.co.uk/intl/en/analytics/privacyoverview.html) for an overview of privacy at Google
-
-
-
-### Category 3: 'Functionality' cookies
-
-These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located.
-
-  
-These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
-
-  
-In particular, this website uses cookies on the forms such as [ Find your dealer](https://web.archive.org/find-a-dealer/) to remember details entered, so that when you browse to a new form such as [Brochure Request](https://web.archive.org/request-a-brochure/), your previously entered details are transferred. This information is automatically deleted at the end of each session.
-
-  
-The following Category 3 cookies are used on this website:
-
-  * addthis.com
-
-
-
-### Category 4: 'Targeting' cookies or 'Advertising' cookies
-
-These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator's permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
-
-  
-The following Category 4 cookies are used on this website:
-
-  * adnxs.com
-  * gmads.net
-  * go.affec.tv
-  * media6degrees.com
-  * youtube.com (Google)
-
-
-  * manage.com (Light Reaction)
-  * serving-sys.com (Sizmek)
-  * connect.facebook.com (Facebook)
-  * Mookie.com (Xaxis)
-  * Pixel.quantserve.com (Quantcast)
-  * i.ctnsnet.com (Crimtan)
-  * googleleads.g.doubleclick.net (Google)
-
-
-
-### Disabling cookies
-
-You can decide whether you want cookies set on your computer, **but the site works optimially with all cookies enabled**. Your cookie settings can be controlled and changed within your web browser preferences.
-
-  
-Select the web browser you're using below for information on amending your cookie settings.
-
-  * #### [ Chrome](https://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647&p=cpn_cookies)
-
-  * #### [Firefox](https://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies)
-
-  * #### [Internet Explorer](https://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies)
-
-  * #### [Opera](https://www.opera.com/browser/tutorials/security/privacy/)
-
-  * #### [Safari](https://docs.info.apple.com/article.html?path=Safari/5.0/en/11471.html)
+If you do wish to stop receiving communications from Mazda UK, you can do this in the following ways:
 
 
 
 
-  
-If you do deactivate cookies it may mean some of the website features become disabled. Even with all cookies disabled, a tiny amount of information will continue to be retrieved from your web browser. This information is necessary for the basic functioning of our website.
+\- Unsubscribe easily from any marketing email by clicking the unsubscribe link within the email   
+\- Opt out of any marketing communication channels.  Please contact the Mazda Customer Relations team via [mmukassistance@mazdaeur.com](mailto:mmukassistance@mazdaeur.com) or call the team on 03457 48 48 48 so your preferences can be updated.   
+\- My Mazda App – if you are registered for the My Mazda app you can also change any of your details or amend your marketing preferences within the app.
 
-To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.aboutcookies.org](https://www.aboutcookies.org/)  or [www.allaboutcookies.org](https://www.allaboutcookies.org/) .
+Under the Data Protection Laws you have the following rights in relation to your personal data :
 
-To opt out of being tracked by Google Analytics across all websites visit [//tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout) .
+
+
+
+\- Right to object to processing of your personal data  
+\- Right to request a copy of your personal data and information on how we process it  
+\- Right to request to move, copy or transfer your personal data (data portability)  
+\- Right for your personal data to be erased  
+\- Right for your personal data to be corrected in a timely manner  
+\- Right to ask us to stop contacting you with direct marketing  
+\- Right to restrict your personal data being processed
+
+To exercise your rights please contact the Mazda UK Data Protection Officer using the contact details provided in the section headed "How to Contact Us".  We will ask you for information to confirm your identity and we will then respond to your request within 30 days from when we have received your request.
+
+As a UK Company, MMUK's local supervisory authority is the UK Information Commissioner's Office (ICO).   Please visit the ICO website ([www.ico.org.uk](https://www.ico.org.uk/)) for more details.  You have a right to complain to the ICO if you believe your personal data has or is being used in a way that you believe does not comply with the Data Protection Laws.
+
+Version 1 - Mazda UK Privacy Policy Mazda.co.uk 24 May 2018
