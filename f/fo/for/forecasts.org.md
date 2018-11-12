@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the forecasts.org privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512213654id_/http%3A//www.forecasts.org/service/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forecasts.org privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113001259id_/http%3A//www.forecasts.org/service/privacy.htm) for the most accurate reproduction.*
 
 # Financial Forecast Center Privacy Policy
 
-Accurate.  Objective.  Independent.
+Objective.  Independent.  Accurate.
 
 ## The Financial Forecast Center's Privacy Policy
 
@@ -32,4 +32,4 @@ This site, The Financial Forecast Center, uses third party services for the dist
 
 **Third Party Cookies**
 
-In the course of serving advertisements through this site, our third-party advertisers may place or recognize a unique "cookie".  This technique is solely for the purpose of facilitating distribution of ad messages and does not collect personal information.
+In the course of serving advertisements through this site, our third-party advertisers may place or recognize a unique "cookie".  Cookies are not used for users within the European Union.
