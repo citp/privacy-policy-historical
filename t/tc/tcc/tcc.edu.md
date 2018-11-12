@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tcc.edu privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513033521id_/http%3A//tcc.edu/about-tcc/website-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcc.edu privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112233100id_/http%3A//www.tcc.edu/about-tcc/website-privacy-statement) for the most accurate reproduction.*
 
-# Website Privacy Statement & Disclaimer -
+# Website Privacy Statement -
 
   * Normal Font SizeA
   * Medium Font SizeA
@@ -8,114 +8,126 @@
 
 
 
-**Updated August 2016**
+**Updated July 9, 2018**
 
-The following is intended to explain our current internet privacy practices, but shall not be interpreted as a contract of any nature, either stated or implied. We reserve the right to amend our Web Privacy Statement & Disclaimer at any time without notice.
+### Scope
 
-It is the policy of the Commonwealth of Virginia that personal information about citizens will be collected only to the extent necessary to provide the service or benefit desired; that only appropriate information will be collected; and that the citizen shall understand the reason the information is collected and be able to examine their personal record that is maintained by a public body.
+This Privacy Statement applies only to official, public-facing TCC Websites (“Websites”) on the tcc.edu domain and www.tccenroll.com.
 
-##### Disclaimer
+### Links to Third-Party Websites
 
-The views and opinions expressed in any individual web page are strictly those of the author and/or publisher. Any comments on the contents of any individual web page should be sent via e-mail to the responsible party through the e-mail address at the bottom of the page.
+The Websites may contain links to third-party sites or apps. If you follow a link to any of these third-party sites or apps, please note that they, and any services accessible through them, are not covered by this Privacy Statement. We encourage you to be aware when you leave the Websites and to read the privacy policies applicable to those third-party sites or apps.
 
-All parties storing materials (including but not limited to HTML files, images, audio, video, scripts, and programs) on the college web server represent and warrant to Tidewater Community College that the installation, copying, distribution, and use of such materials in connection with the TCC website will not violate any other party's proprietary rights and that these materials do not contain any libelous or defamatory statements.
+### Privacy Statement Changes
 
-Tidewater Community College is not responsible for any errors in the materials provided on the college web server. All materials maintained on the college web server are provided "as is" with no warranties of any kind.
+This Privacy Statement may be revised in the future. The updated Privacy Statement will be posted on the Websites with a new Revised Date. We encourage you to review the Privacy Statement periodically.
 
-Tidewater Community College does not guarantee that the college's web server will function error-free or uninterrupted.
+### What Information We Collect
 
-Tidewater Community College will not be liable for any damages of any kind, including consequential or incidental damages, arising from the submission, installation, maintenance, transmission, copying, modification, distribution, or use of any materials.
+**Personal Information**  
+This is information you directly and voluntarily provide to us, such as when you submit a form requesting information about one of our programs. Information we directly collect may include your name, mailing address, telephone number, email address and other information you voluntarily provide.
 
-The TCC website has links to other websites. These include links to websites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on the TCC website and this statement will not apply. When you link to another website, you are subject to the privacy policy of that new site. Reference on those websites to any specific commercial product, process or service by trade name, trademark or other mark does not constitute or imply endorsement, recommendation or favoring by TCC.
+**Non-Personal Information**  
+This is aggregate information automatically collected when you visit the Websites. This may include your IP address and domain name, general geographic location (as inferred from your IP address), your internet service provider, the date and time of your visit to the Websites, your use of the Websites during your current session and over time (including the pages you view and the files you download), the URLs from sites you visit before and after navigating to the Websites, your computer or device’s operating system, browser type and version, and software and hardware attributes.
 
-##### General Purpose Disclaimer
+### How We Collect Information
 
-Tidewater Community College provides its website, catalog, handbooks, and any other printed materials or electronic media for your general guidance. The college does not guarantee that the information contained within them, including, but not limited to, the contents of any page that resides under the DNS registrations of tcc.edu is up-to-date, complete and accurate, and individuals assume any risks associated with relying upon such information without checking other credible sources, such as a student’s academic advisor.
+We collect Personal Information only when you voluntarily provide it to us. We automatically collect Non-Personal Information using the following methods:
 
-In addition, a student's or prospective student's reliance upon information contained within these sources, or individual program catalogs or handbooks, when making academic decisions does not constitute, and should not be construed as, a contract with the college. Further, the college reserves the right to make changes to any provision or requirement within these sources, as well as changes to any curriculum or program, whether during a student's enrollment or otherwise.
+##### Server logs
 
-Links or references to other materials and websites provided in the above-referenced sources are also for information purposes only and do not constitute the college’s endorsement of products or services referenced.
+When you visit the Websites, we automatically receive and record certain information from your computer or device and your browser. This may include data such as your IP address, operating system, browser type and version, the pages you visit, or features you use on the Website, and general geographic location (as inferred from your IP address).
 
-**Virginia law**
+##### Cookies & pixels
 
-We protect our records in accordance with our obligations as defined by applicable Virginia statutes, including, but not limited to, the "Government Data Collection and Dissemination Practices Act" Code of Virginia, § 2.2-3800, "Administration of systems including personal information; Internet privacy policy; exceptions" Code of Virginia, § 2.2-3803, the "Virginia Freedom of Information Act" § 2.2-3700, et seq., and by any applicable U.S. federal laws.
+These Websites use cookies and pixels. When you use the Websites, cookies are placed in the browser files of your computer or mobile device. A cookie is a piece of data stored on your computer hard drive containing information about you. Pixels are small pieces of code on webpages often are used in connection with cookies that allow us to track the effectiveness of our advertising campaigns.
 
-[Download TCC’s Privacy Policy](https://www.tcc.edu/uploads/pdf/policies/tcc-policy-1104.pdf)
+We use cookies for performance monitoring, analytics and marketing purposes. Below are the types of cookies that may be used on the Websites:
 
-**Information we collect from the website**
+**Performance cookies**  
+Cookies placed by tools we use to monitor the Websites’ performance and visitor behavior on the Websites.
 
-We endeavor to collect only the minimum amount of information needed to provide services.
+**Google Analytics**  
+We use Google Analytics to provide us with insight into how users are accessing the Websites’ pages, and users' activity around the Websites. User data does not include Personal Information, but does include things like city location, browser and platforms used, and aggregated demographic information from users’ Google profiles such as gender, age-bracket and interests.
 
-If you do nothing during your visit to the TCC website but browse or download information, we automatically collect and store the following information about your visit:
+**Link tracking**  
+Our marketing emails contain a number of hyperlinks, each of which has a unique tag. When you click on one of these links, you are automatically redirected to the server of our email service which logs the click. From there you are redirected to the relevant page on the Websites. This process enables us to measure the number of clicks from an email resulting in visits to the Websites. We use this information to tailor future messages to users.
 
-  * the internet domain and IP address from which you accessed our site;
-  * the type of browser and operating system you used;
-  * the date and time you visited this site;
-  * the pages visited; and
-  * if you navigated from another website, the address of that website.
+**Advertising cookies**  
+We sometimes use tracking pixels that assist us with delivering targeted online advertising. By better understanding what our audiences are interested in, we can more efficiently promote the College.
 
+**Facebook**  
+We use Facebook tracking pixels to collect visitor data on the Websites and later serve relevant advertising on Facebook and Instagram.
 
+**Google Adwords and Google Display Network**  
+We use Google Adwords tracking cookies to serve relevant advertising and measure advertising performance (on third-party sites) based on visits to the Websites.
 
-  
-The information collected is used to improve the content of our web services and to help us understand how people are using our pages. We analyze our website logs to continually improve the value of the materials available on our site. The information in our web logs is not personally viewable and no attempt is made to link it with the individuals who browse our website.
+**AdRoll**  
+We use the AdRoll display advertising network to collect visitor data on the Websites, serve targeted display ads, and measure advertising performance on other sites.
 
-If, during your visit to the TCC website, you send us an e-mail message, we will collect the e-mail address and contents of the message, including audio, video and graphic information formats you send us. This may be used to respond to you, to address issues you identify, to further improve our website, or to forward your message to another agency for appropriate action.
+### How We Use Information
 
-We do collect personal information directly from individuals who volunteer to subscribe to our services, complete forms, or participate in surveys. Collecting personal information is necessary in order for TCC to deliver the services requested. We collect, retain and use personal information only where we believe it is essential to administer our business and to provide products, services and other opportunities requested by our customers.
+The College uses information available in the Websites’ server logs and cookies to:
 
-**Restrictions on the disclosure of customer information**
-
-We do not sell or rent our users’ information to any outside company or organization. We do not reveal specific information about users or other personally identifiable data to unaffiliated third parties for their independent use, except if required to do so by the Virginia Freedom of Information Act or other law.
-
-This website does not:
-
-  * provide your information to any other organization or use in any unauthorized way; or
-  * require you to provide personal information to download files or reports.
-
-
-
-  
-**Protection of information via established security procedures**
-
-We maintain security standards and procedures regarding unauthorized access to customer information to prevent unauthorized removal or alteration of data.
-
-**Website security**
-
-We maintain security standards and procedures regarding unauthorized access to ensure that this service remains available to all users, and to prevent unauthorized attempts to upload or change information or otherwise cause damage. Information on individuals causing damage to the web page will be traced and released to the appropriate law enforcement bodies (such as the Virginia State Police) to investigate suspected or alleged criminal activity.
-
-**Customer comments or review**
-
-If you have questions about this privacy statement or the practices of this website, or if you choose to review or correct any information you previously submitted, please contact [TCC Web Communications](mailto:webcomm@tcc.edu?subject=TCC.edu%20inquiry%20). 
-
-##### Cookies
-
-"Cookies" are small files either stored on a server or sent back to a visiting computer. In certain applications, user information is stored as "cookies," which are then sent back to and stored on the user's computer.
-
-Our website places "cookies" on your computer, unless your browser is set to reject them. The cookies enable our website to recognize you when you return to the website at a later date or time and enable us to personalize the website with preferences or information you have provided during prior sessions.
-
-The cookie information placed on your computer by this website could include the following:
-
-  * IP address;
-  * browser type;
-  * operating system;
-  * date and time of your visit;
-  * whether or not you have visited our website before;
-  * where you went when you visited our website; and
-  * any preferences or customization that you might have set (including usernames and passwords).
+  * measure performance of the College’s Websites and online advertising
+  * provide interest-based advertising messages
+  * inform development of new content and functionality on the Websites
 
 
 
-  
-Some sections of the TCC website use cookies to customize the information presented to you. Cookies are also used to aggregate site usage information to help us improve our users' experience.
+We use the Personal Information that you voluntarily provide on the Websites to correspond directly with you, and send you promotional communications about the College’s programs.
 
-##### Copyright
+### Data Retention Period
 
-The copyright to TCC's website is owned by Tidewater Community College. The pages constituting TCC's website are marked with the notice "(c) Tidewater Community College." If you are in doubt about whether your use constitutes fair use, please send a request for explicit permission to copy the contents to [TCC Web Communications](mailto:webcomm@tcc.edu?subject=TCC.edu%20inquiry%20).
+We strive to keep personal data in our records only as long as they are necessary for the purposes they were collected and processed. Retention periods vary and are established considering our legitimate purposes and all applicable legal requirements.
 
-##### Linking
+### Disclosure of Information
 
-This website contains hypertext links to external websites and pages containing information created and maintained by public and private organizations other than TCC. TCC, at its sole discretion, will determine which external websites will be linked. The inclusion of a hypertext link to an external website is not intended as an endorsement of any product or service offered or referenced on the linked website, the organizations sponsoring said website, or any views that might be expressed or referenced in the website.
+We may share your Personal Information when required by law, such as to comply with a subpoena or similar legal process; when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of the College community, investigate fraud, or respond to a government request.
 
-Hypertext links to external websites and pages may be removed or replaced at the sole discretion of TCC at any time without notice.
+The College does not sell or rent your Personal Information. We may, however, share your Personal Information with third-party service providers in limited circumstances to support the College’s business activities. We use third-party service providers to help us manage and improve the Websites and our marketing efforts. We provide these parties with only the information they need to perform their services and work closely with them to ensure that your privacy is respected and protected. These service providers may collect and/or use your information to assist us in achieving the purposes discussed in this Privacy Statement. For example, we use third parties to deliver marketing communications and serve online ads.
 
-If a hypertext link on the TCC website is not working, please contact [TCC Web Communications](mailto:webcomm@tcc.edu?subject=TCC.edu%20inquiry%20) or use the contact information provided on the [Contact Us page](https://www.tcc.edu/about-tcc/contact-us).
+The use of online tracking mechanisms by third parties is subject to those third parties’ own privacy policies, and not this Privacy Statement. If you prefer to prevent third parties from setting and accessing cookies on your computer, you may set your browser to block cookies.
+
+### Your Choices and Access to Information
+
+For more information on how Google protects your data visit [Safeguarding Your Data](https://support.google.com/analytics/answer/6004245?hl=en&ref_topic=2919631).
+
+You may opt out of the [use of cookies by Google Analytics](https://tools.google.com/dlpage/gaoptout).
+
+You can opt-out of [Google Display Network ads](https://adssettings.google.com/) by using Ad settings provided by Google
+
+View information on [Facebook’s Data Policy](https://www.facebook.com/privacy/explanation) and learn how to [control online ads from Facebook](https://www.facebook.com/help/164968693837950).
+
+Additionally, you may remove yourself from the targeted advertising of companies within the [Network Advertising Initiative by opting out here](http://optout.networkadvertising.org/?c=1#!/), or of companies participating in the [Digital Advertising Alliance program by opting out here](http://optout.aboutads.info/?c=2&lang=EN).
+
+If you no longer want to receive marketing communications from TCC, please follow the unsubscribe instructions that are included at the bottom of each message. Please note that if you unsubscribe from our marketing communications, you may still receive administrative messages from the College.
+
+Depending on your location and where applicable law requires, you may have the following choices with respect to your Personal Information submitted on the Websites covered by this Privacy Statement:
+
+  * The right to access your Personal Information;
+  * The right to update your Personal Information by emailing us;
+  * The right to withdraw your consent to providing Personal Information
+  * The right to request deletion of your Personal Information or object to its processing; and
+  * The right to lodge a complaint with an applicable supervisory authority.
+
+
+
+If you would like to exercise your choices regarding the Personal Information collected on the Websites, please contact us by email at [webcomm@tcc.edu](mailto:webcomm@tcc.edu?subject=Data%20Opt%20Out).
+
+### Security
+
+TCC recognizes the importance of maintaining the security of the information it collects and maintains. The College uses physical, electronic, and procedural safeguards to procedures in place to safeguard the information we collect from you, including (but not limited to):
+
+  * SSL Website encryption
+  * Software programs that monitor network traffic, identify unauthorized access or access to non-public information, detect computer viruses and other software that might damage College computers and the network, and also monitor the performance of the College network.
+
+
+
+When you email us, the possibility exists, however remote, that your message may be intercepted by an unauthorized person or entity. You should never use email to send personal data (such as financial information) to us.
+
+Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+
+### Children
+
+These Websites are not directed to persons under 13. If you are a minor between the ages of 13 and 18, you may use these Websites only in conjunction with your parent, legal guardian or other responsible adult. If you become aware that your child has provided us with Personal Information on these Websites without your consent, please contact us at [webcomm@tcc.edu](mailto:webcomm@tcc.edu?subject=COPPA%20). If we become aware that a child under 13 has provided us with Personal Information, we take steps to remove such information.
