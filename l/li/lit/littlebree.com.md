@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlebree.com privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223025421id_/http%3A//littlebree.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlebree.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112220401id_/http%3A//littlebree.com/privacy.html) for the most accurate reproduction.*
 
 # Little Bree : Official Site of the Barely Legal Teen
 
