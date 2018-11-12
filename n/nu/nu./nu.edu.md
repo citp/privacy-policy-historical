@@ -1,66 +1,142 @@
-> *The following text is extracted and transformed from the nu.edu privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607201954id_/http%3A//www.nu.edu/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nu.edu privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112235209id_/https%3A//www.nu.edu/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for National University | National University
 
-**NOTICE OF NONDISCRIMINATORY POLICY AS TO STUDENTS**  
-admits students of any race, color, national and ethnic origin to all the rights, privileges, programs, and activities generally accorded or made available to students at the school. It does not discriminate on the basis of race, color, national and ethnic origin in administration of its educational policies, admissions policies, scholarship and loan programs, and other school-administered programs.
+**_Who are we?_**
 
-National University owns and operates its website and is strongly committed to protecting the privacy of its user community. The intent of this Privacy & Non-discrimination Policy is to detail the information National University may gather about individuals who visit its website, how that information is used, and National University disclosure practices. Please note that this policy applies only to its website and not to the websites of other companies or organizations to which we provide links or to any software that may be downloaded from National University website.
+National University System (NUS) was established in 2001 to meet the emerging demands and challenges for education in the 21st century. The nonprofit system is comprised of university and education-related affiliates that, together, endeavour to provide an exceptional student experience to lifelong learners. National University, the flagship institution in the System, has pioneered new approaches to serving adults and veterans since its inception in 1971.
 
-**Our postal address is:**  
-11355 North Torrey Pines Road  
+With programs available both online and at its many campus locations, NUS is a leader in creating innovative solutions to education and meeting the needs of a diverse student population, including adult learners and working professionals.
+
+NUS affiliates include:
+
+_National University:_ An accredited private nonprofit university with a unique one-course-per-month format and flexible online and onsite certificate, credential, and degree programs. National University is a private, nonprofit institution of higher education in California. Founded in 1971, National University is headquartered in La Jolla, California, United States.
+
+_John F. Kennedy University:_ An accredited private nonprofit institution with doctoral, master’s and bachelor’s degrees, certificates, and extended education programs. 
+
+_City University of Seattle:_ An accredited private nonprofit university offering doctoral, master’s, bachelor’s, and associate’s degree programs delivered onsite and online. 
+
+_National University Virtual High School:_ An accredited online high school offering Advanced Placement and UC "a-g" approved courses in a flexible, student-centered format. 
+
+_National University Academy:_ Tuition-free K-12 public charter schools offering a dynamic, innovative learning environment. 
+
+National University owns and operates its website and is strongly committed to protecting the privacy of its user community. The intent of this Privacy Policy is to detail the information National University may gather about individuals who visit its website, how that information is used, and National University disclosure practices. Please note that this policy applies only to its website and not to the websites of other companies or organizations to which we provide links or to any software that may be downloaded from National University website. 
+
+Our Postal address and Phone contacts are:  
+11255 North Torrey Pines Road  
 La Jolla, CA 92037-1013  
 Toll Free: (866) 366-8847  
-Direct: (858) 642-8750   
+Student Concierge Service: (866) 628-8988  
 Fax: (858) 642-8750
 
-**Anonymous User Information**  
-National University collects some anonymous information each time you visit its website so it can improve the overall quality of your online experience. It collects your IP address, referral data, and browser and platform type. You do not have to register with National University before we can collect this anonymous information.
+**_Website_**
 
-National University website does not require you to share information that identifies you personally, such as your name or e-mail address, in order for you to use the website. The National University website may assign an anonymous ID number to your request(s) and links the following additional data to that number: the date and time you visited the website, your search terms, and the links upon which you choose to click. Like most standard website servers, we use log files to collect and store this anonymous user information. National University analyzes the information to examine trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use.
+**What We Collect and Why**
 
-**Individual User Information**  
-From time-to-time the National University website requests information from you that may identify you personally in addition to the anonymous information described above. The requested information typically includes contact information (such as name, e-mail address, shipping address, and zip code), and demographic information (such as age, gender, occupation, and household income). National University will not use or disclose your individual user information except as described in this privacy policy. National University collects individual user information in the following ways from different National University websites:
+National University collects some anonymous information each time you visit its website, so it can improve the overall quality of your online experience. It collects your IP address, referral data, and browser and platform type. You do not have to register with National University before we can collect this anonymous information.
 
-**Surveys or Contests**  
-From time to time, National University may conduct surveys or contests on a National University website. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose individual user information to the National University website. Contest information will be shared with the contest or survey sponsors to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of the National University website. We may use an intermediary to conduct these surveys or contests. These companies may use your personal information to help the National University website communicate with you about offers from the National University website and our marketing partners. Such third parties do not have National University permission to use your personally identifiable information for any secondary purpose.
+National University website does not require you to share information that identifies you personally, such as your name or e-mail address, for you to use the website. The National University website may assign an anonymous ID number to your request(s) and links the following additional data to that number: the date and time you visited the website, your search terms, and the links upon which you choose to click. Like most standard website servers, we use log files to collect and store this anonymous user information. National University analyzes the information to examine trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use.
 
-**Tell-A-Friend**  
-If you elect to use our referral service for informing a friend about any of our sites, we ask you for your friend’s name and e-mail address. National University will automatically send the friend a one-time e-mail inviting them to visit the National University website. National University does not store the information related to your friends and the one-time e-mail sent pursuant to your input will be our only contact with that person for such input.
+From time-to-time the National University website requests information from you that may identify you personally in addition to the anonymous information described above. The requested information typically includes contact information (such as name, e-mail address, shipping address, and zip code), and demographic information (such as age, gender, occupation, and household income). National University will not use or disclose your individual user information except as described in this privacy policy and without first obtaining your consent.
 
-**Correspondence**  
-If you contact National University, we may keep a record of that correspondence and we may collect your e-mail address.
+**Cookies**
 
-**Third Party Information Gathering**  
-The National University websites Sites contain links to other sites on the Web. Please be aware that National University is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
-
-**Cookies**  
 National University may set and access National University or partner cookies on your computer. A cookie is a small data file that a website may send to your browser and which may then be stored on your system. We may occasionally use both session cookies and persistent cookies. For the session cookie, once you close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
 
 We use cookie and web beacon technology to track which pages on the National University websites our visitors view and which Web browsers our visitors use. We may also use cookies to help us provide personalized features and preferences to you within various National University websites in a way that may be linked to individual user information that you elect to share with us. We may also use "action tags" to assist in delivering the cookie. These action tags allow us to compile statistics and other data about our customers on an aggregate basis, by embedding a random identifying number on each user’s browser. Then we track where that number shows up on our site.
 
-**Sharing**  
-Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a criminal investigation, a court order, or legal process served on our website. We may also share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of National University or such National University websites’ terms of use, or as otherwise required by law.
+**Special Notification with respect to Children’s Privacy (Users under the age of 13)**
 
-**Mergers; Business Transitions**  
-In the event National University goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
+In response to concerns about protecting children’s privacy online, Congress enacted the Children’s Online Privacy Protection Act of 1998 (“COPPA”), which sets forth rules and procedures governing the ways in which websites may collect, use and disclose any personal information for children under the age of 13. In accordance with National University policy and COPPA regulations, we DO NOT:
 
-**Choice/Opt-out**  
+  * Request or knowingly collect personally identifiable information online or offline contact information from users under 13 years of age; or knowingly use or share personal information from users under 13 years of age with third parties.
+  * It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers.
+
+
+
+**Choice/Opt-out**
+
 We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change or remove the personal registration information you provide to National University and that National University controls.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us email at the above address [optout@nu.edu](mailto:optout@nu.edu "E-mail to opt out").
+If you do not want to receive e-mail from us in the future, please let us know by sending us email at the above address [optout@nu.edu](mailto:optout@nu.edu).
 
 If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at (800) NAT-UNIV.
 
 Persons who supply us with their telephone numbers online will only receive telephone contact from us with information regarding orders they have placed online. If you would not like to be contacted, please provide us with your name and phone number to ensure that we remove the correct person from the list.
 
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes to this privacy statement in places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+**Sharing**
 
-If, however, we are going to use Individually Identifiable Information in a manner different from that stated at the time of collection we will notify users by posting a notice on our website for 30 days.
+National University will make every effort to preserve your privacy. National University may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a criminal investigation, a court order, or legal process served on our website. We may also share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of National University or such National University websites’ terms of use, or as otherwise required by law.
 
-**Special Notification with respect to Children’s Privacy (Users under the age of 13)**  
-In response to concerns about protecting children’s privacy online, Congress enacted the Children’s Online Privacy Protection Act of 1998 (“COPPA”), which sets forth rules and procedures governing the ways in which websites may collect, use and disclose any personal information for children under the age of 13. In accordance with National University policy and COPPA regulations, we DO NOT:
+**Legal Notice**
 
-Request or knowingly collect personally identifiable information online or offline contact information from users under 13 years of age; or Knowingly use or share personal information from users under 13 years of age with third parties.  
-It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers.
+Notwithstanding any language to the contrary, nothing contained herein constitutes nor is intended to constitute an offer, inducement, promise, or contract of any kind. The data contained herein is for informational purposes only and is not represented to be error free. Any links to information not owned by National University System and/or its affiliates are provided as a courtesy. They are not intended to, nor do they constitute an endorsement by the National University System and/or its affiliates of the linked materials, products, services, or information contained therein. National University System and/or its affiliates do not have any control over the privacy practices of these websites or information, and all visitors of these websites should read and understand the policies and privacy practices for external sites.
+
+**Copyright Infringement**
+
+National University is committed to complying with US copyright law and respecting the rights of copyright holders, while simultaneously defending the academic freedom of faculty and providing the optimal learning experience for students. Faculty and staff will make a good faith effort to only use or distribute third-party copyrighted materials as allowed by purchase, license, fair use, or other legal provision. Anyone who participates in the unauthorized distribution of copyrighted material may be subject to civil and criminal liabilities, in addition to sanctions imposed by National University. For more information, please see the website of the US Copyright Office at [www.copyright.gov](https://www.copyright.gov/), and the related frequently asked questions at [www.copyright.gov/help/faq](https://www.copyright.gov/help/faq/). Pursuant to 17 U.S.C. Sec. 512(c)(2), notice of claims of copyright infringement should be directed to [dataprotection@nu.edu](mailto:dataprotection@nu.edu). For additional copyright-related information, please send an email to [dataprotection@nu.edu](mailto:dataprotection@nu.edu).
+
+[**_European Union General Data Protection Regulation (GDPR) Privacy Notice_**](https://iso.nu.edu/NUS-EU-GDPR-Policy.html)
+
+**Lawful Basis for Collecting and Processing of Personal Data**
+
+In order for educational institutions to educate their students both in class and on-line, it is essential and necessary that they have lawful bases to collect, process, use, and maintain data for its student, employees, applicants, and others involved in its educational programs. The lawful bases include, without limitation, admission, registration, delivery of classroom, on-line, and study abroad education, grades, communications, employment, program analysis for improvements, and records retention. Examples of data that National University System and/or its affiliates may need to collect in connection with the lawful bases are: name, email address, IP address, physical address or other location identifier, photos, as well as some sensitive personal data obtained with prior consent. For more information regarding the EU GDPR, please review the [National University System EU General Data Protection Regulation Privacy Policy](https://iso.nu.edu/NUS-EU-GDPR-Policy.html).
+
+Most of the collection and processing of personal data will include:
+
+  * Processing necessary for the purposes of the legitimate interests pursued by National University System and/or its affiliates or third parties in providing educational opportunities and employment.
+  * Processing necessary for the performance of a contract to which the subject is party or in order to take steps at the request of the data subject prior to entering into a contract.
+  * Processing necessary for compliance with a legal obligation to which National University System and/or any of its affiliates is subject.
+  * The data subject has given consent to the processing of his or her personal data for one or more specific purposes. This lawful basis pertains primarily but not exclusively to the protection of research subjects.
+
+
+
+There will be some instances where the collection and processing of personal data will be pursuant to other lawful bases.
+
+**Types of Personal Data Collected and Why**
+
+National University System and/or its affiliates collect a variety of personal and sensitive data to meet one of its lawful bases, as referenced above. Most often the data is used for admission, registration, delivery of classroom, on-line, and study abroad education, grades, communications, employment, program analysis for improvements, and records retention. If you have specific questions regarding the collection and use of your personal data, please contact the Office of Information Technology Information Security Office at [dataprotection@nu.edu](mailto:dataprotection@nu.edu).
+
+If a data subject refuses to provide personal data that is required, such refusal may make it impossible for National University System and/or its affiliates to provide education, employment, research or other requested services.
+
+Personal data typically includes, but is not limited to:
+
+**Data Type** | **Source**  
+---|---  
+First name, last name, address, and any other contact information that can directly or indirectly identify the data subject. | Collected directly from you, the data subject, through: application forms, online forms, emails, phone calls, chats, SMS, shared files.  
+  
+**Individual Rights of the Data Subject under the EU GDPR**
+
+Individual data subjects covered by National University System EU General Data Protection Regulation Privacy Policy will be afforded the following rights:
+
+  * Right of access – you have the right to request a copy of the information that we hold about you.
+  * Right of rectification – you have a right to correct data that we hold about you that is inaccurate or incomplete.
+  * Right to be forgotten – in certain circumstances you can ask for the data we hold about you to be erased from our records.
+  * Right to restriction of processing – where certain conditions apply to have a right to restrict the processing.
+  * Right of portability – you have the right to have the data we hold about you transferred to another organisation.
+  * Right to object – you have the right to object to certain types of processing such as direct marketing.
+  * Right to object to automated processing, including profiling – you also have the right to be subject to the legal effects of automated processing or profiling.
+  * Right to judicial review – in the event that National University refuses your request under rights of access, we will provide you with a reason as to why.
+  * Right to complain – in the event that you wish to make a complaint about how your personal data is being processed by National University.
+
+
+
+All personal data and sensitive personal data collected or processed by National University System and/or its affiliates under the scope of the National University System EU General Data Protection Regulation Privacy Policy must comply with the security controls and safeguards of FERPA, GLBA, and PCI as set forth in the National University System Global Information, Security, and Privacy Program.
+
+**_Retention Period_**
+
+National University System and/or its affiliates will process and store personal data for no longer than it is necessary for the specified above purpose(s).
+
+**_Policy Updates_**
+
+National University System and/or its affiliates reserves the right to modify this privacy policy at any time. We encourage visitors to frequently check this page for any changes to this Privacy Policy. If we make changes we will post an updated effective date below. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. This policy has been updated on May 16, 2018.
+
+**_Contacts:_**
+
+Our Data Protection Officer can be contacted directly here: 
+
+National University System  
+Office of Information Technology, Information Security Office  
+11355 N Torrey Pines Rd  
+La Jolla, CA 92037  
+[dataprotection@nu.edu](mailto:dataprotection@nu.edu)
