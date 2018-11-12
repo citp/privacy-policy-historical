@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newyorkjobs.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123144148id_/http%3A//www.newyorkjobs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkjobs.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112204355id_/https%3A//www.newyorkjobs.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | NewYorkJobs.com
+# Privacy Policy | New York Jobs
 
 ## Our Commitment to Privacy
 
@@ -16,7 +16,7 @@ The only personal identifying information we collect from you is information tha
 
 ### Registration Information
 
-When you register with us, we collect your personal contact information. This information is visible only to trusted employees of NewYorkJobs.com. We may use this information to contact you regarding your account with us, but we do not give this information to anyone outside of NewYorkJobs.com for any reason. You can review and change your registration information at any time when you are logged into our site and we encourage you to do so when it is out of date. 
+When you register with us, we collect your personal contact information. This information is visible only to trusted employees of the Easy Job Search Network. We may use this information to contact you regarding your account with us, but we do not give this information to anyone outside of our company for any reason. You can review and change your registration information at any time when you are logged into our site and we encourage you to do so when it is out of date. 
 
 ### Job Listing Information
 
@@ -24,13 +24,13 @@ If you are registered as an employer or a recruiter, you can submit job listings
 
 ### Resume Information
 
-If you are registered as a job seeker, you can submit your resume information to the database and it will be visible to qualified, pre-screened employers and recruiters who search the resume database. You are not required to include any private, confidential or identifying information in your profile. You can change or delete your profile at any time. 
+If you are registered as a job seeker, you can submit your resume information to the database and it will be visible to qualified, pre-screened employers and recruiters who search the resume database. You are not required to include any private, confidential or identifying information in your resume. You can change or delete your resume at any time. 
 
 ### Credit Card Information
 
 When you choose to pay for a purchase using a credit card, the credit card information is encrypted by your web browser before it is transmitted to our secure server over the Internet. If your browser is not able to provide a secure, encrypted connection, your web browser will display a warning. 
 
-Once our server receives your credit card information, it is immediately relayed to our credit card processor in encrypted format. If the credit card transaction is approved, we store the information pertaining to the order in our database for our records, where it is visible only to trusted NewYorkJobs.com employees. _We never store your credit card number in any format._
+Once our server receives your credit card information, it is immediately relayed to our credit card processor in encrypted format. If the credit card transaction is approved, we store the information pertaining to the order in our database for our records, where it is visible only to trusted employees. _We never store your credit card number in any format._
 
 ### Anonymous Usage Information
 
@@ -42,7 +42,7 @@ See the section above entitled "The Information we Collect" for full details on 
 
 ## How We May Share the Information
 
-We have never shared personal contact (registration) information with anyone outside of NewYorkJobs.com for any reason whatsoever and never will. 
+We have never shared personal contact (registration) information with anyone outside of the company for any reason whatsoever and never will. 
 
 ## How You Can Access and Update Your Information
 
@@ -54,7 +54,7 @@ Our login system uses a "cookie" to identify you to our system software as a leg
 
 ## Help Us Protect Your Information
 
-At NewYorkJobs.com, we do everything we can to ensure the privacy and integrity of your information. The truth is, however, that a large part of the responsibility lies with you. Here are some things you can do to help us help you: 
+We do everything we can to ensure the privacy and integrity of your information. The truth is, however, that a large part of the responsibility lies with you. Here are some things you can do to help us help you: 
 
   * Choose a password that is difficult to guess (either by a human or another computer). If your password is a word you can find in a dictionary or a book of names, it's a bad password.
   * Change your password from time to time.
@@ -63,4 +63,4 @@ At NewYorkJobs.com, we do everything we can to ensure the privacy and integrity 
 
 ## How to Contact us
 
-If you ever have any problems, questions, complaints or suggestions, please feel free to [contact us](https://web.archive.org/contact.htm). 
+If you ever have any problems, questions, complaints or suggestions, please feel free to [contact us](https://web.archive.org/contact-us.htm). 
