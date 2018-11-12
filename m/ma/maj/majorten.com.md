@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majorten.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605213418id_/http%3A//www.majorten.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majorten.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112091812id_/http%3A//majorten.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Major10
 
