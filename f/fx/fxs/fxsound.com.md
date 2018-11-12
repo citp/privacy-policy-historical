@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxsound.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527050006id_/http%3A//www.fxsound.com/webapps/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxsound.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112064907id_/https%3A//www.fxsound.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FxSound
 
@@ -42,7 +42,7 @@ FXsound is the sole owner of the information collected on this site. We use diff
 ### Opt out at anytime
 
   1. **Opt out of (unsubscribing) from email:**  Each email communication that we send to you includes instructions on how to unsubscribe from receiving further email communications. However, we will then be unable to inform you about products you have previously purchased (such as an available upgrade that you are entitled to receive) or to inform you about critical technical service issues relating to a product or service you own.
-  2. **Correcting and updating your information:**  If you need to change your name or email address, feel free to [contact us.](https://web.archive.org/webapps/support)
+  2. **Correcting and updating your information:**  If you need to change your name or email address, feel free to [contact us.](https://web.archive.org/support)
 
 
 
@@ -52,4 +52,4 @@ Our Web site may contain links to other Web sites, including through banner ads 
 
 ### Contact us
 
-If you have any questions or concerns about our privacy policy, feel free to [contact us here.](https://web.archive.org/webapps/support)
+If you have any questions or concerns about our privacy policy, feel free to [contact us here.](https://web.archive.org/support)
