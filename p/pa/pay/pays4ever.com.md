@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pays4ever.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514091857id_/http%3A//www.pays4ever.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pays4ever.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112093752id_/http%3A//www.pays4ever.com/privacy.php) for the most accurate reproduction.*
 
 # Pays4Ever
 
@@ -11,7 +11,7 @@
 2.We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.  
 3.We don’t store personal information on our servers unless required for the on-going operation of one of our services. 
 
-If you have questions about deleting or correcting your personal data please contact our [support team](https://web.archive.org/web/20180514091857id_/http%3A//contactus.php).
+If you have questions about deleting or correcting your personal data please contact our [support team](https://web.archive.org/web/20181112093752id_/http%3A//contactus.php).
 
 ### Website Visitors
 
@@ -52,4 +52,4 @@ Comments and other content submitted to our anti-spam service are not saved on o
 Although most changes are likely to be minor, Pays4Ever may change its Privacy Policy from time to time, and in Pays4Ever's sole discretion. Pays4Ever encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
   
-[](http://2dollarwave.com/?profitshare)
+[](https://westlandstorage.com/?p=72172&utm_source=banner) [](https://dominant-finance.com/members/signup/u/nolimits)
