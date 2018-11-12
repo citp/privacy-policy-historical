@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamefront.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624021317id_/https%3A//www.gamefront.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefront.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112084922id_/https%3A//www.gamefront.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GameFront
+# GameFront Privacy Policy | GameFront - GameFront
 
 **Last modified: May 20, 2018.  
 Effective date: May 25, 2018.  
