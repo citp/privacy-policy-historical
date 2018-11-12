@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgpress.org privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625104108id_/http%3A//cgpress.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgpress.org privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112131041id_/http%3A//cgpress.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - CGPress
 
