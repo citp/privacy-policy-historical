@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uzood.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515003515id_/http%3A//www.uzood.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uzood.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112211936id_/http%3A//www.uzood.com/privacy.php) for the most accurate reproduction.*
 
 # uZood - Free Video Sharing Community.
 
