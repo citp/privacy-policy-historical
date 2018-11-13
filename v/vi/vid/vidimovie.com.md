@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidimovie.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014022841id_/http%3A//www.vidimovie.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidimovie.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113010233id_/https%3A//www.vidimovie.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Vidimovie
 
@@ -24,7 +24,7 @@ Depending on which website facilities you use, we collect five different types o
 
 If you supply your email address to us we may contact you to ask whether you would like to be added to our mailing list, so that we can tell you about our services.
 
-If you are a registered user, we may use information we collect to offer personalised information when you use the website, notify you of changes to our service, ask your opinions and to help us improve our service to you.
+If you are a registered user, we may use information we collect to offer personalized information when you use the website, notify you of changes to our service, ask your opinions and to help us improve our service to you.
 
 ## Information Collection
 
@@ -59,7 +59,7 @@ We collect web usage information to help us:
 
 ### 3\. IP Addresses
 
-We monitor and record IP addresses to analyse trends, track users' movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. We also log IP addresses so we are able to block future access to our services if user or server activity violates our terms and conditions, or attempts to disrupt our services.
+We monitor and record IP addresses to analyze trends, track users' movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. We also log IP addresses so we are able to block future access to our services if user or server activity violates our terms and conditions, or attempts to disrupt our services.
 
 ### 4\. Cookies
 
