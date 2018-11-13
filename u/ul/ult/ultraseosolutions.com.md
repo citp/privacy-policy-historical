@@ -1,62 +1,73 @@
-> *The following text is extracted and transformed from the ultraseosolutions.com privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512211806id_/http%3A//www.ultraseosolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultraseosolutions.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113031433id_/http%3A//www.ultraseosolutions.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SEO Solutions | SEO Services | SEO Packages
+# Privacy Policy - SEO Solutions | SEO Services | SEO Packages
 
-**What information do we collect?**  
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey.
+#### 2\. Collection and Use of Information
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+2CO collects personal information to set up and manage accounts for our ecommerce services and to handle orders of goods and services from 2CO.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+You may need to provide 2CO with personal information such as:
 
-**What do we use your information for?**  
-Any of the information we collect from you may be used in one of the following ways:
+  * names; phone numbers; mailing, billing, shipping, and email addresses;
+  * bank account information; credit and debit card information; dates of birth; and identification documents.
 
-**To personalize your experience**  
-Your information helps us to better respond to your individual needs.  
-**To improve our website**  
-We continually strive to improve our website offerings based on the information and feedback we receive from you.  
-**To improve customer service**  
-Your information helps us to more effectively respond to your customer service requests and support needs.  
-**To process transactions**  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.  
-**To send periodic emails**  
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order or any future offers or discounts.  
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.  
-**How do we protect your information?**  
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway provider’s (2checkout) database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+2CO uses such information for:
 
-**Do we use cookies?**  
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+  * website registration; enabling sales and other transactions; processing payments and settlement; sending payouts; handling orders; providing receipts;
+  * providing customer service; providing dispute resolution, chargebacks, refunds, or related issues;
+  * marketing and surveys; sending service update notices;
+  * recovering debt and collections; detecting and preventing fraud; detecting and preventing violations of our legal agreements;
+  * measuring, improving, and customizing our services; and
+  * fulfilling other technical, logistical, financial, tax, legal, compliance, administrative, or back office functions.
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-**Do we disclose any information to outside parties?**  
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Third party links**  
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+2CO may also collect background information and credit checks from third parties to verify your identity; deter, detect, and prevent fraud and illegal activity; make business decisions; and as a part of our legal obligations. 2CO retains such information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations.
 
-**California Online Privacy Protection Act Compliance**  
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+##### Community Information
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘My Profile’ page.
+2CO collects information from you to post entries to our community website or forums. Such information may include your email address, Internet Protocol address, user name, date and time of signup, and date and time of posts to the forum.
 
-**Childrens Online Privacy Protection Act Compliance**  
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+2CO uses this information for the secure and efficient functioning of our website, to provide you with access to our community site, to detect and prevent violations of our legal agreements, and as part of any legal obligations related to our community website.
 
-**Online Privacy Policy Only**  
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+##### Transaction Information
 
-**Terms and Conditions**  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website on the [following link](http://www.ultraseosolutions.com/terms-of-service).
+2CO collects information on each transaction conducted through our website. Such information may include the amount of the transaction; the goods purchased; the identity of the seller, affiliate, and customer; payment type; currency; location; Internet Protocol address; and websites visited.
 
-**Your Consent**  
-By using our site, you consent to our websites privacy policy.
+2CO uses such information for refunds, for customer service, for website optimization, or for other administrative or business purposes. 2CO may share information related to the transactions you conduct through our website with sellers, affiliates, or customers for the purposes disclosed in this Privacy Statement. 2CO retains transaction information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations.
 
-**Changes to our Privacy Policy**  
-If we decide to change our privacy policy, we will post those changes on this page. It is your responsibility to check this page in order to be kept up to date with our current privacy policy.
+##### Customer Service Correspondence
+
+2CO also collects information involving customer service correspondence. This information may include emails, internet chats, faxes, or telephone calls directed to our customer service centers. 2CO processes this information to provide customer service, handle complaints or disputes, measure and improve our customer service, detect and prevent fraud, and detect and prevent violations of our legal agreements. 2CO retains customer service information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations.
+
+##### Cookies, Web Beacons, and Logs
+
+2CO collects information related to your use of our website using cookies, web beacons, and log information.
+
+Cookies are small files containing strings of text stored on your computer. 2CO uses cookies to authenticate you as a user when you log in, track your session, deliver content specific to your preferences and interests, store the contents of your shopping cart, provide features related to payment and customer service, and provide other functions.
+
+Web beacons are objects embedded into web pages that allow us to determine whether and for how long users view web pages. We use web beacons for site traffic reporting, unique visitor counts, auditing and reporting, personalization, and other functions.
+
+Log information may include web requests, Internet Protocol address, operating system, browser type, browser language, date and time of your request, and cookies that may uniquely identify your browser. 2CO uses this information to enhance the functionality of the website and to make your access more convenient, secure, and efficient.
+
+2CO also uses information gathered from logs, cookies, and web beacons to monitor website performance; improve website design, functionality, and security; and assemble web analytics and activity trends. 2CO retains such information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations.
+
+You may stop your browser from accepting cookies or web beacons. The Help portion of your browser should explain how to configure your browser’s cookie handling. Your browser may have add-ons that may help you block web beacons. You may have limited functionality if you block cookies or web beacons set by our website.
+
+##### HotJar
+
+2CO uses HotJar, a web analytics service. HotJar uses cookies, web beacons, and other means to help 2CO analyze how users use the site. You may find HotJar’s Privacy Policy at <https://www.hotjar.com/legal/compliance/gdpr-commitment>.
+
+##### Google AdWords
+
+2CO uses Google AdWords, a web analytics and search engine advertising campaign management service. Google AdWords uses cookies, web beacons, and other means to help 2CO analyze how users use the site. You may find Google’s Privacy Statement at <http://www.google.com/intl/en/privacypolicy.html>.
+
+##### Google Analytics
+
+2CO uses Google Analytics, a web analytics service. Google Analytics uses cookies, web beacons, and other means to help 2CO analyze how users use the site. You may find Google’s Privacy Policy at <https://www.hotjar.com/legal/compliance/gdpr-commitment>.
+
+##### Marketo
+
+2CO uses Marketo, an email distribution and web analytics service. Marketo uses cookies, web beacons, and other means to help 2CO distribute emails analyze how users use the site. You may find Marketo’s Privacy Statement at <https://documents.marketo.com/legal/privacy/>.
