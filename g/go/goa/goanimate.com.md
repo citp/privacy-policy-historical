@@ -1,135 +1,222 @@
-> *The following text is extracted and transformed from the goanimate.com privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323220539id_/https%3A//goanimate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goanimate.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113231827id_/https%3A//www.vyond.com/privacy) for the most accurate reproduction.*
 
-# We treat your personal information very carefully
+# Privacy Policy | Vyond
 
-Effective Date: August 1, 2017
+[](https://privacy.truste.com/privacy-seal/validation?rid=aac80e40-9661-45a3-9ef6-d23e337c2020)
 
-GoAnimate, Inc. ("GoAnimate" or "we") recognizes the importance of the privacy of our users. This Privacy Policy contains important information for you about how we collect, use, disclose, retain and delete your personal information collected by us through our website goanimate.com ([https://goanimate.com](https://goanimate.com/)) (the "Site") and the services available through our Site (collectively, the "Services").
+Effective Date: May 6, 2018
 
-This Privacy Policy is designed to comply with federal and state privacy laws applicable in the United States, as well as the General Data Protection Regulation applicable in the European Union (the "GDPR").
+GoAnimate, Inc. or its affiliates (which operates the Vyond website and Vyond platform) recognizes the importance of the privacy of our users.  This Privacy Policy contains important information for you about how we collect, use, disclose, retain and delete your personal information collected by us through our website vyond.com ([https://vyond.com](https://vyond.com/)) (the “Site”) and the services available through our Site (collectively, the “Services”).
 
-Your personal information will be handled as described in this Policy. Use of our Site or Services, and any dispute over privacy, is subject to this Policy and our [Terms of Service](https://goanimate.com/termsofuse), including its applicable limitations on damages and the resolution of disputes. Our Terms of Service are incorporated by reference into this Privacy Policy.
+Your personal information, as collected through this website and the Vyond platform, will be processed in accordance with this policy and applicable data protection laws. Use of our Site or Services, and any dispute over privacy, is subject to this Policy and our [Terms of Service](https://vyond.com/terms), including its applicable limitations on damages and the resolution of disputes, subject to the  any law in your jurisdiction applicable to our Service. Our Terms of Service are incorporated by reference into this Privacy Policy.
 
-Please read this Privacy Policy carefully, and if you have any questions, feel free to contact our privacy officer by email at privacy-support@GoAnimate.com or by mail at GoAnimate, Inc., 204 East Second Avenue, Suite 638, San Mateo, CA 94401 USA.
+Please read this Privacy Policy carefully. If you have any questions, feel free to contact our privacy officers by email at [privacy-support@vyond.com](mailto:privacy-support@vyond.com) or by mail at GoAnimate, Inc., 204 East Second Avenue, Suite 638, San Mateo, CA  94401 USA.
 
-  * Information We Collect
-  * How We Use Information
+  * Personal Information We Collect And Process
   * How We Disclose Information
+  * Cross Border Transfers
   * How Long We Retain Your Information and When We Delete Your Information
   * Cookies and Other Tracking Mechanisms
   * User-Generated Content
-  * GoAnimate Community
+  * Vyond Community
   * Third-Party Links
   * Security
-  * Right to Review, Delete and Control our Use of Your Information
-  * Right to Remove Your Information
-  * Users Outside of the United States
-  * Children Under 13
+  * Children and Minors
+  * California Residents Do Not Track
+  * Users Outside of the United States (Except for EU)
+  * Users and Residents in the European Union
   * Compliance
   * Changes to this Privacy Policy
+  * Contact
 
 
 
-## Information We Collect
+### Personal Information We Collect and Process
 
-We collect information about you directly from you, as well as automatically through your use of our Site or Services. We will not require you to disclose more information than is reasonably necessary to use our Site and our Services.
-
-  * **Information We Collect Directly from Users.** We collect your login credentials, which may include your name or email address. We also collect any other information you choose to provide to us, such as an address, phone number or job title. If you choose to record your own voice in an animation or otherwise input information into our Site or Services in any form, such as voice or text, we also collect that your voice recording or other information.
-  * **Information We Collect Automatically.** We may automatically collect the following information about your use of our Site through cookies and other technologies: domain name; browser type; browser language; device ID; operating system type; device name and model; pages or screens viewed; links clicked; IP address; when and the length of time you visit our Site or use our Services; and the referring URL, or the webpage that led you to our Site.
-
-
-
-## How We Use Information
-
-We use the information that we collect about you for the following purposes:
-
-  * **Providing Our Services.** To provide our Site and our Services and for other customer service purposes.
-  * **Communicating with You.** To communicate with you, including by email, about our Services and to respond to your questions, to offer you additional services, or to provide you with additional content or information that might be relevant or interesting to you.
-  * **Analyzing the Use of Our Services.** To better understand our users' access to and use of our Site and our Services, both on an individual and aggregated basis, and to respond to user desires and preferences.
-  * **Complying with the Law.** To comply with applicable legal obligations.
+  * When you register and create a Vyond account, create videos or perform account transactions, we may collect a variety of information, including your name, mailing address, phone number, email address, contact preferences, and credit card information.
+  * When you share your content with colleagues, share or invite others to view your videos or participate in Vyond services or forums, We may collect the personal information you provide about those people such as name, mailing address, email address, and phone number. We will use such information to fulfill your requests, provide the relevant product or service, or for anti-fraud purposes.
+  * We collect your login credentials, which may include your name or email address. We also collect any other information you provide to us, such as contact and employment information.  We use this information to communicate with you, including by email, about our Services and to respond to your questions, to offer you additional services, or to provide you with additional content or information that might be relevant or interesting to you.
+  * We may collect information such as occupation, language, zip code, area code, unique device identifier, referrer URL, location, and the time zone where our platform is accessed so that we can better understand customer behavior and improve our products, services, and advertising.
+  * If you choose to record your own voice in an animation or otherwise input information into our Site or Services in any form, such as voice or text, we also collect that voice recording or other information.
+  * We may collect and store details of how you use our services. This information may be used to improve our services. Except in limited instances to ensure quality of our services over the Internet, such information will not be associated with your IP address. We use the information derived from users’ access to and use of our Site and our Services, both on an individual and aggregated basis, and to respond to user desires and preferences.
+  * We may automatically collect the following information about your use of our Site through cookies and other technologies: domain name; browser type; browser language; device ID; operating system type; device name and model; pages or screens viewed; links clicked; IP address; when and the length of time you visit our Site or use our Services; and the referring URL, or the webpage that led you to our Site.
+  * If we do combine non-personal information with personal information the combined information will be treated as personal information for as long as it remains combined.
 
 
 
-## How We Disclose Information
+### How We Disclose Information
 
-We may disclose the information that we collect about you with the following entities:
+**We may disclose the information that we collect about you with the following entities:**
 
-  * **Your Employer.** If you are using the Site or the Services through your employer's account with us, we may disclose your information to your employer.
-  * **Service Providers.** We may disclose your information to our vendors or service providers or agents who perform functions on our behalf. For example, we use cloud-based hosting providers to host the Site and the Services, and use other third party platform providers, such as marketing automation, customer support and community platforms, to provide other services. Accordingly, these vendors, service providers or agents may process and store your personal information.
+  * **Your Employer.** If you are using the Site or the Services through your employer’s account with us, we may disclose your information to your employer.
+  * **Service Providers.** We may disclose your information to our vendors or service providers or agents who act as sub-processors on our behalf in providing systems support for our services. Accordingly, these vendors, service providers or agents may process and store your personal information.
 
 
 
-We may also disclose the information that we collect about you in the following ways:
+Information we may disclose includes:
+
+  * Name
+  * Email address
+  * IP address
+  * Physical address
+  * Phone number
+  * Company or organization name
+  * Job role
+  * Site activity
+
+
+
+Vendors or service providers we may disclose to include:
+
+  * Cloud-based hosting providers
+  * Marketing automation and data enrichment platforms
+  * Customer relationship management platforms
+  * Customer support and community platforms
+  * Social media platforms
+  * Human resource information service platforms
+  * Accounting and finance platforms
+  * User analytics platforms
+  * Consulting firms
+
+
+
+**We may also disclose the information that we collect about you in the following ways:**
 
   * **Business Transfers.** We may disclose your information to another entity if we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding.
-  * **In Response to Legal Process.** We may disclose your information in order to comply with the law, or a judicial proceeding, subpoena, court order or other legal process.
-  * **To Protect Us and Others.** We may disclose your information when we believe it is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our [Terms of Service](https://goanimate.com/termsofuse) or this Privacy Policy, or as evidence in litigation in which we are involved.
-  * **Aggregate and De-Identified information.** We may disclose aggregate or de-identified information about our users for marketing, advertising, research or similar purposes.
+  * **In Response to Legal Process.** We may disclose your information to comply with the law, or a judicial proceeding, subpoena, court order or other legal process.
+  * **To Protect Us and Others.** We may disclose your information when we believe it is necessary to investigate, prevent or act regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our [Terms of Service](https://web.archive.org/terms) or this Privacy Policy, or as evidence in litigation in which we are involved.
+  * **Aggregate and De-Identified information.**   We may disclose aggregate or de-identified information about our users for marketing, advertising, research or similar purposes.
 
 
 
-## How Long We Retain Your Information and When We Delete Your Information
+### Cross Border Transfers
 
-We will retain your personal information for as long as reasonably required to allow you to access (and resume access, as the case may be) to our Site and our Services, which is usually eighteen (18) months following the date when your most recent subscription ends, unless you ask us to delete sooner as provided below.
+To the extent personal information is transferred out of the country where the owner of that personal information lives, such as to Company’s affiliates or business partners in other countries, including in the United States, different standards may apply to how your data is used and protected in those countries. Company has appropriate safeguards in place in accordance with applicable legal requirements to ensure that data is adequately protected irrespective of the country.
 
-## Cookies and Other Tracking Mechanisms
+### How Long We Retain Your Information and When We Delete Your Information
 
-We and our service providers use cookies and other tracking mechanisms to track information about our users' use of our Site or Services. We or our service providers may combine this information with other personal information we collect from you.
+GoAnimate is subject to various retention requirements and retains personal data only for as long as necessary for a specified purpose or legal requirement wherever technically and operationally feasible and in accordance with any applicable regulations.
 
-  * **Do Not Track.** Our Site does not respond to Do Not Track signals and we or our third party service providers may track your activities once you leave our Site. Users may disable certain tracking as discussed in this section (e.g., by disabling cookies).
+### Cookies and Other Tracking Mechanisms
+
+We and our service providers use cookies and other tracking mechanisms to track information about our users’ use of our Site or Services.  We or our service providers may combine this information with other personal information we collect from you.
+
+  * **Do Not Track.** Our Site does not respond to Do Not Track signals and we or our third-party service providers may track your activities once you leave our Users may disable certain tracking  as  discussed  in  this  section (e.g., by  disabling  cookies).
   * **Cookies.** We or our service providers may use cookies to track your activity on our Site. A cookie is a text file that a website transfers to your computer or device for record-keeping purposes. We or our service providers may use cookies to track your activities on our Site, such as the pages visited and time spent on our Site. Most browsers allow users to refuse cookies. The Help portion of the toolbar on most browsers can inform you about how to prevent a computer from accepting new cookies, how to have the browser notify a user upon receipt of a new cookie, or how to disable cookies altogether. If you disable cookies, you may not be able to browse certain areas of our Site or use certain parts of our Services.
-  * **Clear GIFs, Pixel Tags and Other Technologies.** Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, which are embedded invisibly on web pages. We or our service providers may use clear GIFs (also known as web beacons, web bugs or pixel tags), in connection with our Site to track your activities, help us manage content, and compile statistics about usage of our Site. We or our service providers may also use clear GIFs in HTML emails to our users, to help us track email response rates, identify when our emails are viewed, and track whether our emails are forwarded.
-  * **Third-Party Analytics.** We use third-party service providers to evaluate the use of our Site and our Services. We or our service providers use automated devices and applications to evaluate use of our Site and Services. We or our service providers use these tools to help us improve our Site, Services, performance, and user experiences. These entities may use cookies and other tracking technologies, such as web beacons or Flash cookies, to perform their services.
+  * **Clear GIFs, Pixel Tags and Other Technologies.** Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, which are embedded invisibly on web We or our service providers may use clear GIFs (also known as web beacons, web bugs or pixel tags), relating to our Site to track your activities, help us manage content, and compile statistics about usage of our Site. We or our service providers may also use clear GIFs in HTML emails to our users, to help us track email response rates, identify when our emails are viewed, and track whether our emails are forwarded.
+  * **Third-Party Analytics.   **We use third-party service providers to evaluate the use of our Site and our Services. We or our service providers use automated devices and applications to evaluate use of our Site and Services. We or our service providers use these tools to help us improve our Site, Services, performance, and user experiences. These entities may use cookies and other tracking technologies, such as web beacons or Flash cookies, to perform their services.
 
 
 
-## User-Generated Content
+### User-Generated Content
 
-Users can create content on our Site or Services, such as by creating videos using the assets we provide and importing their own assets (such as image and audio files) for inclusion in these videos. You control the sharing and distribution settings for the videos created by you according to the control settings you set for yourself. If you have elected to make your animations public, then other users will be able to see that you posted animations and view your animations. We cannot prevent such information from being used in a manner that might violate this Privacy Policy, the law or your personal privacy. If you or other users authorized on your account download or export a video, the resulting video file does not reside on our Site or Services and is no longer governed by this Privacy Policy.
+Users can create content on our Site or Services, such as by creating videos using the assets we provide and importing their own assets (such as image and audio files) for inclusion in these videos. You control the sharing and distribution settings for the videos created by you according to the control settings you set for yourself. If you have elected to make your animations public, then other users will be able to see that you posted animations and view your animations.  We cannot prevent such information from being used in a manner that might violate this Privacy Policy, the law or your personal privacy.  If you or other users authorized on your account download or export a video, the resulting video file does not reside on our Site or Services and is no longer governed by this Privacy Policy.
 
-Users can also post materials and other information through their use of the GoAnimate Community site. You will determine what materials and information you post, and because those postings will be viewable by other users of the GoAnimate Community site, you should have no expectation of privacy with respect to such postings.
+### Vyond Community
 
-## Third-Party Links
+Users can also post materials and other information through their use of the Vyond Community Site.  You will determine what materials and information you post, and because those postings will be viewable by other users of the Vyond Community Site, you should have no expectation of privacy with respect to such postings.
 
-Our Site and Services may contain links to third-party websites. Any access to and use of such linked websites is not governed by this Privacy Policy but instead is governed by the privacy policies of those third-party websites. We are not responsible for the information practices of such third-party websites.
+### Third-Party Links
 
-## Security
+Our Site and Services may contain links to third-party websites. Any access to and use of such linked websites is not governed by this Privacy Policy but instead is governed by the privacy policies of those third-party websites. We are not responsible for the information practices of such third-party websites. ** **
 
-We have taken steps to help protect the information we collect from loss, misuse, unauthorized access, disclosure, alteration, and destruction. However, no data security measures can guarantee 100% security. Users should take steps to protect against unauthorized access to their accounts by, among other things, choosing a robust password that nobody else knows or can easily guess and keeping their log-in and password private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on an account as a result of unauthorized password activity.
+### Security
+
+We have taken steps to help protect the information we collect from loss, misuse, unauthorized access, disclosure, alteration, and destruction. However, no data security measures can guarantee 100% security.  Users should take steps to protect against unauthorized access to their accounts by, among other things, choosing a robust password that nobody else knows or can easily guess and keeping their log-in and password private.  We are not responsible for any lost, stolen, or compromised passwords or for any activity on an account because of unauthorized password activity.
 
 In compliance with applicable law, we will notify governmental authorities of any data security breach within 72 hours of our becoming aware of the breach and, if it involves a high risk to your personal information, we will notify you as well.
 
-## Right to Review, Delete and Control our Use of Your Information
+### Children and Minors
 
-You have the right to review the personal information we have collected about you, to erase or delete it, and to tell us to no longer use or disclose it. You can review most of the personal information we collect about you by logging into your account and reviewing your account information and updating the personal information we maintain about you. You may also contact us at [support@goanimate.com](mailto:support@GoAnimate.com) to request access to your personal information, erasure or deletion of your personal information and/or cancellation of your account. If you ask us to erase or delete your personal information, we will erase or delete your personal information within one month or less.
+Our Site and our Service are not directed to children under 18.  We do not knowingly collect personally identifiable information from anyone under 18 years of age.  If we become aware that we have unknowingly registered and collected personal information from a child under the age of 18, we will make reasonable efforts to delete such information from our records and that registration will be subject to immediate termination for violation of our Terms of Service.
 
-## Right to Remove Your Information
+### California Residents Do Not Track
 
-You have the right to obtain a copy of your personal information and take it with you. The copy will be in a structured, commonly used and machine readable format. If requested by you and when technically feasible, we will send that information via electronic means to a third party designated by you.
+We do not track our customers over time and across third party websites to provide targeted advertising and therefore do not respond to Do Not Track (DNT) signals. However, some third party Sites do keep track of your browsing activities when they serve you content, which enables them to tailor what they present to you and may provide for you to initiate a DNT signal.
 
-## Users Outside of the United States
+Third parties that may place content embedded on Vyond websites such as a social or community feature may set cookies on a user’s browser and/or obtain information about the fact that a web browser visited a specific Vyond website from a certain IP address. Third parties cannot collect any other personally identifiable information from Vyond websites unless you provide it to them directly.
 
-Our computer systems are currently based in the United States, so your personal data will be processed by our service providers or us in the United States where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with the Site as a visitor from outside the United States, by using the Site you agree to this Privacy Policy and you consent to the transfer of all such information to the United States, which may not offer an equivalent level of protection of that required in the European Union or certain other countries, and to the processing of that information as described in this Privacy Policy.
+### Users Outside of the United States (except for EU)
 
-## Children Under 13
+Our computer systems are currently based in the United States, so your personal data will be processed by our service providers or us in the United States where data protection and privacy regulations may not offer the same level of protection as in other parts of the world. If you create a user account with the Site as a visitor from outside the United States, by using the Site you agree to this Privacy Policy and consent to the processing of your personal data on servers outside your home country.  We will take commercially reasonable measures to ensure that any such transfers of your personal data comply with applicable data protection laws and that your personal data remains protected to the standards described in this privacy policy. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your personal data.
 
-Our Site and our Service are not directed to children under 13. We do not knowingly collect personally identifiable information from anyone under 13 years of age. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records.  
-We do, however, offer a service called GoAnimate4Schools, which is marketed to schools, teachers and sometimes parents. A separate privacy policy governs that service, which can be found at <https://goanimate4schools.com/privacy>.  
-If you are under 18, you are not authorized to use our Site or Service. 
+### Users and Residents in the European Union
 
-## Compliance
+**Location of Systems**
 
-In compliance with the GDPR and applicable federal and state laws, we have conducted a privacy impact assessment, and have instituted steps to protect your personal information including training and awareness, monitoring and verification, and response and enforcement. We also keep records of how we process your personal information, and will conduct annual internal audits of our privacy and security practices.
+Our computer systems are currently based in the United States, so your personal data entered at our Site or related to your use of our services (i) will not be processed in the European Economic Area (EEA) and (ii) will be processed by our service providers or us in the United States and other non-EEA countries.  By completing the registration and using the services, you (a) agree to and accept the terms stated in this Privacy Policy and (b) expressly consent to the processing of your personal data on equipment and by service providers outside the European Economic Area.
 
-## Changes to this Privacy Policy
+**Controller and Processor**
 
-This Privacy Policy is current as of the Effective Date set forth above. We may change this Privacy Policy from time to time, so please be sure to check back periodically. We will post any changes to this Privacy Policy on our Site. If we make any changes to this Privacy Policy that materially affect our practices with regard to your personal information, we will provide you with email or written notice in advance of such change by highlighting the change on our Site or on our Service and obtain your consent to such change. If you do not consent to such change, we may restrict or terminate your use of our Site or Service.
+GoAnimate is the Controller of data that you provide in order for us to create an account and provision the service for your use.  You are the Controller of any data that is entered during and as part of your use of the service and we are the Processor of that data on your behalf.  We will process the data according to your instructions, which you give us in the process of signing up for the services, specifically to facilitate your use of the services.
+
+**Basis of Processing**
+
+If you reside in the European Union and we do not seek your explicit consent to process your personal data, we are relying on the legitimate commercial interest of our company in providing the services to you and other customers and the need to process your personal data as previously described in order to accomplish that legitimate interest. Where Data Processing is occurring based on the basis of your consent, you also have the right to withdraw consent and request that we halt processing at any time. This withdrawal of consent does not invalidate the consent-based processing that occurred prior to withdrawal.
+
+**Data Subject Rights**
+
+As an EU resident, you have the following rights under the General Data Protection Regulation:
+
+  * Right of access to personal data
+  * Right to rectification of personal data held where it is incorrect or incomplete
+  * Right of erasure of personal data (“right to be forgotten”) if certain grounds are met
+  * Right to restrict/suspend processing of personal data
+  * Right to complain to a supervisory authority
+  * Right to object to processing (if processing is based on legitimate interests)
+  * Right to object to processing of personal data for direct marketing purposes
+  * Right to receive your personal data in a standard electronic format (data portability)
+
+
+
+Where we are the Controller of the data, you may withdraw this consent or exercise any of the foregoing rights applicable to you by contacting our privacy officers at the address below or notifying us at [privacy-support@vyond.com](mailto:privacy-support@vyond.com) **.   **Where we are the Processor of the data, you must contract the appropriate data Controller to exercise these rights.
+
+**Right to Review, Delete and Control our Use of Your Information**
+
+You have the right to request access to your personal information and may have additional rights depending on the personal data protection laws applicable to your jurisdiction.
+
+You can review most of the personal information we collect about you by logging into your account and reviewing your account information and updating the personal information we maintain about you.
+
+You may also contact our privacy officers at the address below, or email us at [privacy-support@vyond.com](mailto:privacy-support@vyond.com) to request access to (i) review your personal information and (ii) exercise any of your rights with respect to your personal information, including erasure or deletion, and/or (iii) request cancellation of your account.  Where we are the Controller of the data, we will respond to your request within one (1) month.  Where we are the Processor of the data, you must contract the appropriate data Controller to exercise these rights.
+
+**Right to Take Your Information With You**
+
+You have the right to obtain a copy of your personal information and take it with you.  The copy will be in a structured, commonly used and machine-readable format.  If requested by you and when technically feasible, we will send that information via electronic means to a third-party designated by you, where we are the Controller of the information. Where we are the Processor of the data, you must contract the appropriate data Controller to exercise these rights.
+
+**Right to Remove Your Information**
+
+We may store videos you have created on Vyond or external assets you have imported into your asset library on Vyond.  You can delete such videos or assets at any time by logging into your account and using the deletion tools provided within Vyond.  Please note that such tools will only apply to the copies hosted on Vyond and will not apply to videos previously downloaded or exported. Please also note that it may take up to one (1) month for such deletions to become permanent and irreversible.
+
+If you have any questions about how to remove videos or assets on Vyond, please contact our support team at [support@vyond.com](mailto:support@vyond.com).
+
+### Compliance
+
+In compliance with applicable United States federal and state laws, our privacy and security program has been built to protect your personal information, including training and awareness, monitoring and verification, and response and enforcement. We also keep records of how we process your personal information, and conduct regular analyses of our privacy and security practices.
+
+### Changes to this Privacy Policy
+
+This Privacy Policy is current as of the Effective Date set forth above. We may change this Privacy Policy from time to time, so please be sure to check back periodically. We will post any changes to this Privacy Policy on our Site. If we make any changes to this Privacy Policy that materially affect our practices with regard to your personal information, we will provide you with email or written notice in advance of such change by highlighting the change on our Site or on our Service and obtain your consent to such change.  If you do not consent to such change, we may restrict or terminate your use of our Site or Service.
 
 We will also keep prior versions of this Privacy Policy in an archive for your review here:
 
-  * [June 8, 2017 Privacy Policy](https://goanimate.com/static/go/doc/privacy_20170608.pdf)
-  * [April 1, 2008 Privacy Policy](https://goanimate.com/static/go/doc/privacy_20080401.pdf)
+  * [August 1, 2017 Privacy Policy](https://web.archive.org/wp-content/uploads/2018/05/privacy_20170801.pdf)
+  * [June 8, 2017 Privacy Policy](https://web.archive.org/wp-content/uploads/2018/05/privacy_20170608.pdf)
+  * [April 1, 2008 Privacy Policy](https://web.archive.org/wp-content/uploads/2018/05/privacy_20080401.pdf)
 
 
 
-Copyright © 2015-2017 GoAnimate, Inc.
+### Contact
+
+If you have any questions, complaints, or comments about this Privacy Policy, or seek to exercise your rights under applicable personal data protection law, please contact us.  We will use reasonable efforts to respond to you as soon as possible.
+
+Send mail to:  
+GoAnimate, Inc.  
+Attn: Privacy Officer  
+204 East Second Avenue, Suite 638  
+San Mateo, CA 94401
+
+[privacy-support@vyond.com](mailto:privacy-support@vyond.com)
+
+If we fail to respond to your complaint within a reasonable period of receiving it in writing, or if you are dissatisfied with the response that you receive from us, you may, subject to the laws applicable to you, lodge a complaint with the data protection authorities in your home jurisdiction.
+
+Copyright © 2015-2018 GoAnimate, Inc.
