@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apptricker.in privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620183059id_/https%3A//apptricker.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apptricker.in privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113050255id_/https%3A//apptricker.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Apptricker
 
@@ -38,7 +38,7 @@ Apptricker.in has no access to or control over these cookies that are used by th
 
 ### **Third Party Privacy Policies**
 
-[You](https://apptricker.in/news-talk-98-7-app-for-android-ios-download-review-troubleshooting/ "NewsTalk") should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Apptricker.in’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Apptricker.in’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
@@ -58,4 +58,4 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 
 This Privacy Policy was last updated on: Saturday, December 19th, 2015.Should we update, amend or make any changes to our privacy policy, those changes will be posted here. ** **
 
-Want to Contact Us [You](https://apptricker.in/news-talk-98-7-app-for-android-ios-download-review-troubleshooting/ "NewsTalk") can Find All details on [Contact us Page](http://apptricker.in/contact-us/)
+Want to Contact Us You can Find All details on [Contact us Page](http://apptricker.in/contact-us/)
