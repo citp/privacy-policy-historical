@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osclass.org privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623162215id_/https%3A//osclass.org/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osclass.org privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113230023id_/https%3A//osclass.org/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Osclass, the free classifieds script
 
@@ -7,7 +7,7 @@ OSCLASS SL makes available all additional information related to their handling 
 Person in charge:  
 Identity: OSCLASS SL   
 Address: Carrer de Can Bruixa, 16, 08028 Barcelona  
-Data Protection Delegate: datos@osclass.org​
+Data Protection Delegate: datos@osclass.org
 
 ### For what purposes do we use your personal data?
 
@@ -59,7 +59,7 @@ OSCLASS SL, pone a su disposición la información adicional concerniente al tra
 Datos del Responsable:  
 Identidad: OSCLASS SL  
 Domicilio: Carrer de Can Bruixa, 16, 08028 Barcelona  
-Delegado de Protección de Datos: ​datos@osclass.org 
+Delegado de Protección de Datos: datos@osclass.org 
 
 ### ¿Con qué finalidad tratamos sus datos personales?
 
