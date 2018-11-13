@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcsupportdock.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121111212id_/http%3A//www.systweak.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcsupportdock.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113191622id_/http%3A//www.systweak.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Systweak Software – Privacy Policy
 
