@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naked.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625071334id_/https%3A//new.naked.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naked.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113044531id_/https%3A//new.naked.com/support/privacy.htm) for the most accurate reproduction.*
 
 # Naked - Free live cam girls and sex chat
 
