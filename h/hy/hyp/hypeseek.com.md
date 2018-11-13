@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypeseek.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925093613id_/http%3A//www.hypeseek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypeseek.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113234717id_/http%3A//www.hypeseek.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Hype Seek !!
 
