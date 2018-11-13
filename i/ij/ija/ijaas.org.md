@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ijaas.org privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506123925id_/http%3A//www.sciencepublishinggroup.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijaas.org privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113163314id_/http%3A//www.sciencepublishinggroup.com/info/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy:: Science Publishing Group
 
