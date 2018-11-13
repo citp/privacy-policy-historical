@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pathao.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913084220id_/https%3A//pathao.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathao.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113165945id_/https%3A//pathao.com/privacy) for the most accurate reproduction.*
 
 # Pathao - Privacy
 
@@ -12,7 +12,7 @@ You have to provide us with personal information like your name, contact no, mai
 
 ### Personal information that you provide
 
-If you want to use our service or contact a Pathao member, you must create an account on our Site. To establish your account, we will ask for personally identifiable information that can be used to contact or identify you, which may include your name, phone number, and e-mail address. We may also collect demographic information about you, such as your zip code, and allow you to submit additional information that will be part of your Pathao profile.
+If you want to use our service or contact a Pathao member, you must create an account on our Site. To establish your account, we will ask for personally identifiable information that can be used to contact or identify you, which may include your name, phone numbers, e-mail address and other personally identifiably information. We may also collect demographic information about you, such as your zip code, and allow you to submit additional information that will be part of your Pathao profile.
 
 Other than basic information that we need to establish your account, it will be up to you to decide how much information to share as part of your profile. We encourage you to think carefully about the information that you share and we recommend that you guard your identity and your sensitive information. Of course, you can review and revise your profile at any time.
 
