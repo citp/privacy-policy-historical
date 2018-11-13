@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ads2book.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513014348id_/http%3A//www.ads2book.com/a2bNext/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ads2book.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113091411id_/https%3A//www.ads2book.com/a2bNext/privacyPolicy) for the most accurate reproduction.*
 
 # Welcome to Ads2book
 
