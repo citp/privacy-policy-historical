@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the hauteliving.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529042502id_/http%3A//hauteliving.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hauteliving.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113145146id_/http%3A//hauteliving.com/disclaimer) for the most accurate reproduction.*
 
 # Disclaimer
 
 All images on [www.hauteliving.com](http://www.hauteliving.com/ "Haute Living") and its extensions are posted in good-faith and under the belief the images are posted in compliance with the U.S. Copyright Fair Use Act (Title 17, U.S. Code). All images on [www.hauteliving.com](http://www.hauteliving.com/ "Haute Living") and its extensions are believed to be readily available in other places on the Internet, in the public domain, or used pursuant to ownership, license, or fair use.
 
 **Claims of Infringement**  
-If you believe your copyright has been infringed by the content appearing on [www.hauteliving.com](http://www.hauteliving.com/ "Haute Living"), or its extensions, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#95f6fafbe1f4f6e1e0e6d5fdf4e0e1f0f9fce3fcfbf2bbf6faf8 "contactus@hauteliving.com") with the following information:
+If you believe your copyright has been infringed by the content appearing on [www.hauteliving.com](http://www.hauteliving.com/ "Haute Living"), or its extensions, please send an email to [contactus@hauteliving.com](mailto:contactus@hauteliving.com "contactus@hauteliving.com") with the following information:
 
   1. Your name, address, phone number, and e-mail address
   2. A short, specific description of the copyrighted work that you claim has been infringed upon; for multiple items, a list will suffice
@@ -40,7 +40,7 @@ Other situations where [www.hauteliving.com](http://hauteliving.com/) may reques
 
 In certain special cases, we may disclose information we have collected if disclosure is necessary to identify, contact, or bring legal action against a party who may be interfering with [www.hauteliving.com](http://hauteliving.com/)’s rights, property, operations, or if We believe the law otherwise requires it. [www.hauteliving.com](http://hauteliving.com/) may also disclose Personal Information if We are required to respond to a demand from a law enforcement authority in connection with a criminal investigation.
 
-Upon notice from you that you wish to opt-out of future services and communications, We will remove your Personal Information from our files as soon as possible. Please contact [[email protected]](http://hauteliving.com/contact/) with opt-out requests or to remove yourself from ￼￼￼￼mailing lists controlled by [www.hauteliving.com](http://hauteliving.com/).
+Upon notice from you that you wish to opt-out of future services and communications, We will remove your Personal Information from our files as soon as possible. Please contact [contactus@hauteliving.com](http://hauteliving.com/contact/) with opt-out requests or to remove yourself from ￼￼￼￼mailing lists controlled by [www.hauteliving.com](http://hauteliving.com/).
 
 ## **Log Data**
 
@@ -84,4 +84,4 @@ Your continued use of the Service after we post any modifications to the Privacy
 
 ## **Contact Us**
 
-If you have any questions about this Privacy Policy, please contact us ([[email protected]](http://hauteliving.com/contact/)). Please type “Privacy Policy” into the subject line of your message. ￼
+If you have any questions about this Privacy Policy, please contact us ([contactus@hauteliving.com](http://hauteliving.com/contact/)). Please type “Privacy Policy” into the subject line of your message. ￼
