@@ -1,0 +1,511 @@
+<!--The following is the downloaded HTML source of the digitimes.com privacy policy that was archived on 2018-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181113165137id_/https%3A//www.digitimes.com/register/privacypolicy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Pragma" content="no_cache">
+<meta name="Distribution" content="Global">
+<meta name="Robots" content="index,follow">
+<meta name="Copyright" content="© 2018 DIGITIMES Inc.">
+<meta name="Publisher" content="DIGITIMES Inc.">
+<meta name="Content-language" content="EN-US">
+<meta name="Author" content="DIGITIMES">
+<meta name="Description" content="DIGITIMES privacy policy">
+<meta name="Keywords" content="DIGITIMES, Taiwan, daily news, information, technology, privacy policy, registration, subscription, publication, Asia, Chinese, English">
+<meta name="Pragma" content="no_cache">
+<title>Privacy policy</title>
+<link href="/script/jquery-ui-1.11.4.custom.min.css" rel="stylesheet" type="text/css">
+<link href="/script/js/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="/script/site.css" rel="stylesheet" type="text/css">
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script language="JavaScript" type="text/javascript" src="/script/js/jquery-1.10.2.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="/script/js/jquery-ui-1.11.4.custom.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="/script/js/bootstrap/bootstrap.min.js"></script>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="/script/js/html5shiv.min.js"></script>
+  <script src="/script/js/respond.min.js"></script>
+<![endif]-->
+<script language="JavaScript" type="text/javascript" src="/script/js/site.js"></script>
+<script language="JavaScript" type="text/javascript">
+$(function(){
+	
+		var brnewsplay = $('#rtnews').html();
+		//set first
+		$("#rttemp").html($('#rtnews li:first').html());
+		var rt = function()
+		{
+			setTimeout(function(){
+				$('#rtnews li:first').animate( {marginTop: '-40px'}, 800, function()
+				{
+					if ($('#rttemp').is(":visible")) {
+						$("#rttemp").fadeOut(function() {
+						  $(this).html($('#rtnews li:first').html());
+							$('.memonly').click(function(){
+								$('#dialog').modal('show');
+							}); 
+						}).fadeIn(function(){
+							$('.memonly').click(function(){
+								$('#dialog').modal('show');
+							}); 
+						});					
+						$(this).detach().appendTo('ul#rtnews').removeAttr('style');
+						$('.memonly').click(function(){
+							$('#dialog').modal('show');
+						}); 
+					}
+				});
+				$('.memonly').click(function(){
+					$('#dialog').modal('show');
+				}); 
+				rt();
+			}, 4000);
+			$('.memonly').click(function(){
+				$('#dialog').modal('show');
+			}); 
+		};
+		rt();
+		$("#hrpauseplay").click(function(){
+			if ($('#hrpauseplay span').attr('class')=='glyphicon glyphicon-pause'){
+				$('#hrpauseplay span').removeClass('glyphicon-pause');
+				$('#hrpauseplay span').addClass('glyphicon-play');				
+				$('#rtnews li:first').stop(); 
+				$('#rtnews').html('<div id=hrpause>'+$('#rtnews li:first').html()+'</div>');
+			}else{
+				$('#hrpauseplay span').removeClass('glyphicon-play');
+				$('#hrpauseplay span').addClass('glyphicon-pause');
+				$('#rtnews').html(brnewsplay);
+			}
+		});	
+		$("#hrtime").click(function(event, ui){
+			if ($('#s0').is(":hidden")) {
+				$('#hrtime span').removeClass('glyphicon-plus');
+				$('#hrtime span').addClass('glyphicon-minus');
+				if ($('#rttemp').is(":visible")) {$("#rttemp").hide();}	
+				$('#hrpauseplay').hide();			
+				$('#s0').html('<ul id=rtimeout>'+brnewsplay+'</div>').css('height','auto');
+				$('#s0').slideDown("slow");
+				$.cookie('RTnew', 'Y', { expires: 365, path: '/' });
+			} else {
+				$('#hrtime span').removeClass('glyphicon-minus');
+				$('#hrtime span').addClass('glyphicon-plus');				
+				$('#hrpauseplay').show();
+				if ($('#rttemp').is(":hidden")) {$("#rttemp").show();}
+				$('#s0').slideUp("slow");
+				$.cookie('RTnew', null, {path:'/'});
+			}				
+		});
+		if ($.cookie('RTnew')=='Y'){ 
+			$('#hrpauseplay').hide();
+			if ($('#rttemp').is(":visible")) {$("#rttemp").hide();}				
+			if ($('#s0').is(":hidden")) {
+				$('#hrtime span').removeClass('glyphicon-plus');
+				$('#hrtime span').addClass('glyphicon-minus');				
+				$('#s0').html('<ul id=rtimeout>'+brnewsplay+'</div>').css('height','auto');
+				$('#s0').slideDown("slow");
+			}
+		};
+		$('#rtbox').appendTo($('#rttop'));		
+	
+	$("#sfrm input[name='ch']").val("2");
+});
+</script>
+<!--[if lt IE 9]>
+<style type="text/css">
+.navbar-default{background-color:#fff;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;-webkit-box-shadow:0 1px 10px rgba(0,0,0,.1);-moz-box-shadow:0 1px 10px rgba(0,0,0,.1);box-shadow:0 1px 10px rgba(0,0,0,.1)}.navbar-default .navbar-collapse{padding-left:0;padding-right:0;clear:both}.navbar-header{float:none}.navbar-left,.navbar-nav,.navbar-right{float:none!important}.navbar-toggle{display:block}.navbar-collapse{border-top:1px solid transparent;box-shadow:inset 0 1px 0 rgba(255,255,255,.1)}.navbar-fixed-top{top:0;border-width:0 0 1px}.navbar-collapse.collapse{display:none!important}.navbar-nav{margin-top:7.5px}.navbar-nav>li{float:none}.navbar-nav>li>a{padding-top:10px;padding-bottom:10px}.collapse.in{display:block!important}.navbar-nav .open .dropdown-menu{position:static;float:none;width:auto;margin-top:0;background-color:transparent;border:0;-webkit-box-shadow:none;box-shadow:none}.navbar-nav .open .dropdown-menu .dropdown-header,.navbar-nav .open .dropdown-menu>li>a{padding:5px}.navbar-nav .open .dropdown-menu>li>a{line-height:1em}.navbar-default .navbar-nav .dropdown-menu{float:none;width:100%}.navbar-default .navbar-nav .dropdown-menu li.dropdown-header{padding:0;font-weight:700}.navbar-default .navbar-nav .caret{color:#eb4c07;vertical-align:middle;margin:0;border:none;line-height:1;font-size:10px;font-weight:400;float:right;width:auto;height:auto}.navbar-default .navbar-nav li{margin:0;border-bottom:1px solid #D3D3D3;border-right:none}.timeline-point{display:none}.timeline:before{border-right-width:0}.timeline.timeline{width:100%;max-width:100%}.timeline.timeline .timeline-item{padding-left:17px;padding-right:0}.timeline.timeline .timeline-item.timeline-item-right,.timeline.timeline .timeline-item:nth-of-type(even):not(.timeline-item-left){padding-left:17px;padding-right:0}.timeline.timeline .timeline-item .timeline-event{width:100%}.timeline.timeline:before{left:42px;width:0;margin-left:-1px}.timeline.timeline .timeline-item{width:100%;margin-bottom:20px}.timeline.timeline .timeline-item:nth-of-type(even){margin-top:0}.timeline.timeline .timeline-item>.timeline-event{float:right!important}.timeline.timeline .timeline-item>.timeline-event:after,.timeline.timeline .timeline-item>.timeline-event:before{right:auto!important;border-left-width:0!important}.timeline.timeline .timeline-item>.timeline-event:before{left:-15px!important;border-right-width:15px!important}.timeline.timeline .timeline-item>.timeline-event:after{left:-14px!important;border-right-width:14px!important}.timeline.timeline .timeline-item>.timeline-point{transform:translateX(-50%);left:42px!important;margin-left:0}.timeline.timeline .timeline-label{transform:translateX(-50%);margin:0 0 20px 42px}.timeline.timeline .timeline-label+.timeline-item+.timeline-item{margin-top:0}
+</style>   
+<![endif]-->
+
+<style>
+
+.fms{margin-top:10px!important;}
+#privacy ul {padding:0;margin:0;list-style:none;}
+#privacy ul li {margin:0;padding:0;display:inline;}
+#privacy .img-responsive {margin: 0 auto;}
+.CenterText {font-size:1em; color:#333;}
+.CenterTextHead {font-size: 1.1em; font-weight: bold; padding:0; margin:0; color:#333}
+</style>
+</head>
+<body class="mbg pm-0" style="">
+<div id="bwrap" class="pm-0">
+    <div class="container-fluid c-bg-b">
+        	<div class="row topr">
+        <div class="pull-right hidden-xs topr-text"><div style="display:inline-block; margin-top:3px; margin-right:0; padding:0">Taipei, Wednesday, November 14, 2018 00:51 (GMT+8), </div>
+            <span>21°C</span><div class="weatherimg" style="margin-left:0px; float:right; display: inline-block; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/weather/wr11.png');"><img src="/images/weather/wr11.png" width="45" height="26" alt="showers" title="showers" style="filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);"></div>
+        </div>
+        <div class="pull-left hidden-xs" style="padding-top:4px;"><div class="topr-cn">中文 <a href="/tw/" class="uln colc">繁體</a> | <a class="uln colc" href="/cn/">簡體</a></div></div>
+    </div>
+<div id="navigation">
+      <div class="navbar navbar-default">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+         <div class="navbar-text social-media social-media-inline pull-left hidden-xs hidden-sm shadowoff pm-0">
+         	<a href="/index.asp" class="shadowoff pm-0"><img src="/images/logos/digitimes.jpg" alt="DIGITIMES" class="shadowoff pm-0" style="height:48px"></a>         </div>
+         <div class="navbar-text social-media social-media-inline pull-left hidden-md hidden-lg shadowoff pm-0">
+			<a href="/index.asp" style="margin:0; padding-top:5px;padding-bottom:5px;" class="nohover shadowoff"><img src="/images/logos/dticon.jpg" alt="DIGITIMES" class="shadowoff pm-0"></a>        </div>
+        <div class="navbar-text social-media social-media-inline pull-right">
+          <a href="/index.asp" data-toggle="tooltip" data-container="body" data-placement="bottom" title="" data-original-title="Home page"><i class="fa fa-home"></i></a>
+			
+                <a href="/register/" data-toggle="tooltip" data-container="body" data-placement="bottom" title="" data-original-title="Register"><i class="fa fa-edit"></i></a>                   
+                <a href="/newregister/join.asp" data-toggle="tooltip" data-container="body" data-placement="bottom" title="" data-original-title="Login"><i class="fa fa-sign-in"></i></a>
+			
+			<a href="javascript:void(0)" data-toggle="collapse" data-target="#search-panel" class="psearch"><i class="fa fa-search" data-toggle="tooltip" data-container="body" data-placement="bottom" title="" data-original-title="Search"></i></a>        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav" id="main-menu">
+            <li class="dropdown keep-open">
+              <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">News<b class="caret"></b></a>
+              <ul class="dropdown-menu dropdown-menu-mm">
+                <li class="row">
+                  <ul class="col-md-4 col-sm-4" style="padding-left:10px;padding-right:5px;">
+                    <li><a href="/index.asp"><i class="fa fa-home"></i> News home</a></li>
+                    <li><a href="/backgrounders/features/snapshots.asp"><i class="fa fa-bullhorn"></i> Before going to press</a></li>
+                    <li><a href="/calendar.asp?d=7d"><i class="fa fa-calendar"></i> 7 days news</a></li>
+                  </ul>
+                  <ul class="col-md-4 col-sm-4">
+                    <li class="dropdown-header">Topics</li>
+                    <li><a href="/topic/it+ce/">IT + CE</a></li>
+                    <li><a href="/topic/mobile+telecom/">Mobile + telecom</a></li>
+                    <li><a href="/topic/bits+chips/">Bits + chips</a></li>
+                    <li><a href="/topic/displays/">Displays</a></li>
+                    <li><a href="/topic/led/">LED</a></li>
+                    <li><a href="/topic/green_energy/">Green energy</a></li>
+                  </ul>
+                  <ul class="col-md-4 col-sm-4">
+                    <li class="dropdown-header">Trending</li><li><a href="/tag/embedded/0012200.html">embedded</a></li>
+<li><a href="/tag/commentary_and_analysis/0011885.html">Commentary and analysis</a></li>
+<li><a href="/topic/displays/display_system/">Display system</a></li>
+<li><a href="/tag/everlight/001462.html">Everlight</a></li>
+<li><a href="/tag/semi/001136.html">SEMI</a></li>
+<li><a href="/tag/sony/001170.html">Sony</a></li>
+
+                  </ul>
+                </li>
+              </ul>
+            </li>
+             <li class="dropdown keep-open">
+              <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">Research<b class="caret"></b></a>
+              <ul class="dropdown-menu dropdown-menu-rm">
+                <li class="row">
+                  <ul class="col-md-4 col-sm-4" style="padding-left:10px;padding-right:5px;">
+                    <li><a href="/reports/"><i class="fa fa-home"></i> Research home</a></li>
+                    <li><a href="/reports/index.asp?view=7"><i class="fa fa-info-circle"></i> Services</a></li>
+                    <li><a href="/register/"><i class="fa fa-edit"></i> Subscriptions</a></li>
+                    <li><a href="/backgrounders/features/ondemand.asp"><i class="fa fa-shopping-bag"></i> Research on demand</a></li>
+                  </ul>
+                  <ul class="col-md-4 col-sm-4">
+                    <li class="dropdown-header">Data services</li>
+                    <li><a href="/reports/index.asp?cat=280">China smartphone AP</a></li>
+                    <li><a href="/reports/index.asp?cat=279">Smartphone</a></li>
+                    <li><a href="/reports/index.asp?cat=36">Mobile device</a></li>
+                    <li><a href="/reports/index.asp?cat=37">Taiwan FPD</a></li>
+					<li><a href="/reports/index.asp?cat=485">Global server</a></li>
+                  </ul>
+                  <ul class="col-md-4 col-sm-4">
+                    <li class="dropdown-header">Research types</li>
+                    <li><a href="/reports/index.asp?view=0">Research analysis</a></li>
+                    <li><a href="/reports/index.asp?view=2">Special reports</a></li>
+                    <li><a href="/reports/index.asp?view=1">Quarterly data reports</a></li>
+                    <li><a href="/reports/index.asp?view=3">Interactive charts</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li class="dropdown dropdown-mm keep-open">
+              <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">Supply Chain<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/supply_chain_window/"><i class="fa fa-home"></i> Supply chain home</a></li>
+                <li class="dropdown-header">Topics</li>
+                <li><a href="/supply_chain_window/index.asp?cat=60">Press releases</a></li>
+                <li><a href="/supply_chain_window/index.asp?cat=450">Opinions</a></li>
+				<li><a href="/supply_chain_window/index.asp?cat=62">Startups + innovations</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>	<div class="row pm-0">
+        <div id="search-panel" class="collapse search-panel">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <form class="form-horisontal" role="form" method="post" action="/search/results.asp" name="searchform" id="sfrm">
+                        <div style="padding:5px;" class="col-md-12 col-sm-12 col-xs-12">
+                            <div class="input-group">
+                                <input type="hidden" name="h" value="0">
+                                <input type="hidden" name="f" value="0">
+                                <input type="hidden" name="s" value="1">
+                                <input type="hidden" name="b" value="1">
+                                <input type="hidden" name="a2" value="35">
+                                <input type="hidden" name="b2" value="1">
+                                <input type="hidden" name="s2" value="2">
+                                <input type="hidden" name="a" value="">
+                                <input type="hidden" name="o" value="4">
+								<input type="hidden" name="ch" value="2">
+                                <input type="text" class="form-control input-lg" name="p" placeholder="Search...">
+                                 <div class="input-group-btn"><button class="btn btn-lg btn-success bg-primary" type="submit"><span class="glyphicon glyphicon-search"></span></button><a href="/search/results.asp?view=info" class="btn btn-lg btn-info" role="button" data-toggle="tooltip" data-container="body" data-placement="top" title="" aria-label="Advanced search" data-original-title="View advanced options"><span class="glyphicon glyphicon-question-sign colw"></span></a>                                </div>
+                            </div>
+                        </div>
+                  </form>
+				
+				<div class="alert alert-info fms clear-both" role="alert" style="margin-bottom:0; padding:7px; margin-left:5px; margin-right:5px;">We have recently changed our search engine. Check the <a href="/search/results.asp?view=info" class="uln" title="View advanced options" aria-label="Advanced search">Advanced</a> options to learn the new search rules.</div>
+				
+                </div>
+            </div>
+        </div>
+	</div>
+    </div>
+    <div class="container-fluid c-bg-b">
+        <div class="row">
+            
+                <div id="adspace" class="col-md-12 col-sm-12 col-lg-12 col-xs-12">
+                    <div id="banner" class="col-md-9 col-lg-9 col-sm-12 hidden-xs iadres"><div class="text-center"><div class="clclgjs" rel="63884"><a href="/webad/cnv.asp?Seq=63884" target="_blank"><img src="//ad.digitimes.com.tw/webadImg/Winbond20181025leader.gif" class="awh img-responsive" style="max-width:728px;" border="0" alt="Winbond - 20% off sale"></a></div></div></div><div id="tbanner" class="hidden-md hidden-lg hidden-sm col-xs-12 iadres"><div class="row txtadrow shadow-d1"><a href="/webad/cnv.asp?Seq=63884" target="_blank" class="clclgjs" rel="63884">Winbond - 20% off sale</a><div class="col-xs-12 tsp">Sponsored</div></div></div><div id="banner_mid" class="col-md-3 col-lg-3 hidden-sm hidden-xs iadres"><div class="text-center"><div class="clclgjs" rel="63812"><a href="/webad/cnv.asp?Seq=63812" target="_blank"><img src="//ad.digitimes.com.tw/webadImg/Mobile20181023button.gif" class="awh img-responsive" style="max-width:336px;" border="0" alt="Global mobile device shipment forecasts, 2019 and beyond"></a></div></div></div>
+                </div>
+            
+        </div>
+    </div>
+    <div class="container-fluid c-bg-b">
+        <div class="row">
+        	<div class="col-md-8" style="padding:0;">
+            <div id="arttop">
+                <div id="rttop" style="position:relative; display:inline;"><div id="rtbox">
+                        <div class="clear-both"></div>
+                        <div id="rnews" style="padding:15px;" class="col-md-12 col-sm-12 col-xs-12">
+                            <div id="rnewsbox">
+                                <div class="col-md-12 col-sm-12 col-xs-12 rnewsbox-bg">
+                                    <div id="hrtime" class="pull-left"><span class="glyphicon glyphicon-plus"></span> Realtime news</div>
+                                    <div id="hrpauseplay" class="pull-right" style="cursor:pointer"><span class="glyphicon glyphicon-pause"></span></div>
+                                </div>
+                                <div id="rnmain">
+                                    <ul id="rtnews" class="row" style="display:none"><li><p class="H2 memonly">Asustek expects restructuring to bear fruit in 2H19</p><p class="info"><i class="fa fa-clock-o text-abxm" aria-hidden="true" style="padding-right:3px"></i> 2h 7min ago in Before Going to Press</p></li><li><p class="H2 memonly">Zhen Ding outlook remains positive, says company chairman</p><p class="info"><i class="fa fa-clock-o text-abxm" aria-hidden="true" style="padding-right:3px"></i> 2h 7min ago in Before Going to Press</p></li><li><p class="H2 memonly">Tight processor supply unlikely to ease through 2Q19, says Asustek CEO</p><p class="info"><i class="fa fa-clock-o text-abxm" aria-hidden="true" style="padding-right:3px"></i> 2h 24min ago in Before Going to Press</p></li><li><p class="H2 memonly">Quanta profits surge 83% in 3Q18</p><p class="info"><i class="fa fa-clock-o text-abxm" aria-hidden="true" style="padding-right:3px"></i> 2h 54min ago in Before Going to Press</p></li><li><p class="H2 memonly">SAS posts profit fall in 3Q18</p><p class="info"><i class="fa fa-clock-o text-abxm" aria-hidden="true" style="padding-right:3px"></i> 2h 59min ago in Before Going to Press</p></li><li><p class="H2 memonly">HTC posts larger losses in 3Q18</p><p class="info"><i class="fa fa-clock-o text-abxm" aria-hidden="true" style="padding-right:3px"></i> 3h 4min ago in Before Going to Press</p></li><li><p class="H2 memonly">Yangtze Memory gearing up for transition to 128-layer 3D NAND</p><p class="info"><i class="fa fa-clock-o text-abxm" aria-hidden="true" style="padding-right:3px"></i> 3h 13min ago in Before Going to Press</p></li><li><p class="H2 memonly">Taiwan passive component makers seeing demand slow down</p><p class="info"><i class="fa fa-clock-o text-abxm" aria-hidden="true" style="padding-right:3px"></i> 4h 52min ago in Before Going to Press</p></li><li><p class="H2 memonly">ALi posts another quarter of losses</p><p class="info"><i class="fa fa-clock-o text-abxm" aria-hidden="true" style="padding-right:3px"></i> 4h 56min ago in Before Going to Press</p></li><li><p class="H2 memonly">TSMC approves new capex spending for capacity expansion</p><p class="info"><i class="fa fa-clock-o text-abxm" aria-hidden="true" style="padding-right:3px"></i> 4h 59min ago in Before Going to Press</p></li></ul>
+                                </div>
+                            </div>
+                            <div class="clear-both"></div>
+                            <div id="rttemp" class="shadow-d1"><p class="H2 memonly">Asustek expects restructuring to bear fruit in 2H19</p><p class="info"><i class="fa fa-clock-o text-abxm" aria-hidden="true" style="padding-right:3px"></i> 2h 7min ago in Before Going to Press</p></div>
+                            <div class="clear-both"></div>
+                            <div id="s0" style="display:none;"></div>
+                        </div>
+                        <div class="clear-both"></div>
+                    </div></div>
+                <div class="clear-both"></div>
+            </div>
+            <div class="clear-both"></div>
+            <div style="padding-left:15px; padding-right:15px; margin:0;  padding-top:10px;">
+				<div id="content">
+					<div style="margin-left:3px; margin-bottom:15px;" id="privacy">
+                        
+                        	<div class="lhd">Privacy policy</div>
+                            <div style="padding-left:3px; padding-top:15px;">
+                              <p class="CenterText">DIGITIMES gathers personal and non-personal information via its website. Personal information is collected when you subscribe/register on our websites.</p>
+                              <p class="CenterText">DIGITIMES does not release, sell or rent personally identifiable information about our readers to other companies. The information we collect is only used to better understand our readers' interests and fulfill requested services, such as sending out electronic newsletters. Users have control over their personal data via our website. We will retain your information for as long as it is necessary to fulfill the requested services, and such information will be promptly deleted upon the user's request.</p>
+                              <p class="CenterText">Non-personal information is collected through tracking and ad serving technologies by us or by third parties.</p>
+                              <p class="CenterText">We use web traffic monitoring software that records information from visitors' browsers, including IP addresses and pages selected.</p>
+                              <p class="CenterText">Our third party providers may be collecting non-personal information or using cookies in order to display ads and provide us with website traffic reports.</p>
+                              <p class="CenterText">DIGITIMES is currently using the following providers:</p>
+                              <ul class="list-dotted" style="padding-bottom:15px;"><li class="CenterText" style="display:block"><a href="https://www.doubleclickbygoogle.com" class="uln" target="_blank">Google DoubleClick</a></li>
+                              <li class="CenterText" style="display:block"><a href="https://www.google.com/analytics/analytics" class="uln" target="_blank">Google Analytics</a></li>
+                              <li class="CenterText" style="display:block"><a href="https://www.google.com/adsense/start/" class="uln" target="_blank">Google AdSense</a></li>
+                              <li class="CenterText" style="display:block"><a href="https://www.nccc.com.tw/wps/wcm/connect/en/home" class="uln" target="_blank">National Credit Card Center of R.O.C.</a></li></ul>
+                              <p class="CenterText">We use cookies on the DIGITIMES websites to ensure functionality on the website. None of the DIGITIME cookies include personal/user information and they are not used for tracking.</p>
+                              <p class="CenterText">DIGITIMES uses a third party online payment provider, National Credit Card Center of R.O.C. (NCCC). All of the online credit card transactions are handled by our provider using their payment platform. DIGITIMES does not store your card information on its servers.</p>
+                              <p class="CenterText">Any substantial changes to this privacy policy will be announced prominently on our pages.</p>
+                             <p class="CenterText">If you have any concerns or suggestions about our privacy policy, please <a href="/contact.asp" class="uln">contact us</a>.</p>			
+                            </div>		  
+                        
+                    </div>
+ 				</div>
+                <div class="clear-both"></div>
+                <div id="TAd-sm" class="col-xs-12 col-sm-12 hidden-md hidden-lg iadres tadsm-xs"></div>
+				
+                	
+                
+                 <div class="clear-both"></div>
+            </div>
+            <div style="padding:0 15px 15px 15px;">
+                <div class="row">
+                    <div class="col-md-7 col-sm-7">
+                        <div id="AAd-xs" class="col-xs-12 hidden-sm hidden-md hidden-lg iadres aadxs"><div class="text-center"><div class="clclgjs" rel="62211"><a href="/webad/cnv.asp?Seq=62211" target="_blank"><img src="//ad.digitimes.com.tw/webadImg/UMC20180301rec.gif" class="awh img-responsive" style="max-width:336px;" border="0" alt="IC 2.0: An Intelligently Connected World"></a></div></div></div> 
+                        <div class="clear-both"></div>                           
+                        
+                            <div class="hd-bg">Latest Digitimes news</div>
+                            <div class="qrs"><div style="padding:0 0 5px 0; margin-top:0; margin-bottom:0px;"><div class="plainlinks"><ul><li class="tfix"><a href="/news/a20181113PD202.html" class="subject tfix">Mobile SoC specialists moving to tap slim-notebook market</a></li><li class="tfix"><a href="/news/a20181113PD203.html" class="subject tfix">Inventec Appliances to expand production capacities in Taiwan, Malaysia</a></li><li class="tfix"><a href="/news/a20181113PD200.html" class="subject tfix">Alibaba aims to serve 2 billion consumers globally in 2036, says executive vice chairman</a></li><li class="tfix"><a href="/news/a20181113PD204.html" class="subject tfix">Inventec cautious about 4Q18 outlook</a></li><li class="tfix"><a href="/news/a20181112PD217.html" class="subject tfix">Memory chip prices have room to fall further, says Transcend chairman</a></li><li class="tfix"><a href="/news/a20181113VL202.html" class="subject tfix">iPhone XR shipments to reach 70 million units during new product lifecycle, says report</a></li><li class="tfix"><a href="/news/a20181113PD208.html" class="subject tfix">Zhen Ding net profits more than double in 3Q18</a></li><li class="tfix"><a href="/news/a20181113PD206.html" class="subject tfix">SigFox ecosystems can help IoT firms tap international markets</a></li><li class="tfix"><a href="/news/a20181113VL201.html" class="subject tfix">Nanya to buy back shares</a></li><li class="tfix"><a href="/news/a20181112PD200.html" class="subject tfix">Taiwan university works with self-driving EV developers</a></li></ul></div></div></div>
+                        
+                        <div id="AAd-sm" class="col-sm-12 hidden-xs hidden-md hidden-lg iadres aadsm"><div class="text-center"><div class="clclgjs" rel="62211"><a href="/webad/cnv.asp?Seq=62211" target="_blank"><img src="//ad.digitimes.com.tw/webadImg/UMC20180301rec.gif" class="awh img-responsive" style="max-width:336px;" border="0" alt="IC 2.0: An Intelligently Connected World"></a></div></div></div>
+                        <div class="clear-both"></div>
+                        <div id="banner_mid-xs" class="col-xs-12 hidden-sm hidden-md hidden-lg iadres midxs"><div class="text-center"><div class="clclgjs" rel="63812"><a href="/webad/cnv.asp?Seq=63812" target="_blank"><img src="//ad.digitimes.com.tw/webadImg/Mobile20181023button.gif" class="awh img-responsive" style="max-width:336px;" border="0" alt="Global mobile device shipment forecasts, 2019 and beyond"></a></div></div></div>    
+                        <div class="clear-both"></div>                         
+                        
+                            <div class="hd-bg"><a href="/backgrounders/features/newslinks.asp" class="colg">Around the web</a></div>
+                            <div class="qrs"><div style="padding-bottom:10px"><div class="plainlinks"><ul><li class="tfix"><a href="/newssites.asp?ID=56365" class="subject tfix" target="_blank" alt="The Verge">Microsoft's Xbox exclusives push continues with new studio acquisitions (Nov 11)&nbsp;-&nbsp;<i>The Verge</i></a></li><li class="tfix"><a href="/newssites.asp?ID=56364" class="subject tfix" target="_blank" alt="The Verge">Samsung's Galaxy F foldable phone gets a price and release date in new report (Nov 12)&nbsp;-&nbsp;<i>The Verge</i></a></li><li class="tfix"><a href="/newssites.asp?ID=56363" class="subject tfix" target="_blank" alt="The Telegraph">Arm puts brakes on investment as sales recover following China deal (Nov 12)&nbsp;-&nbsp;<i>The Telegraph</i></a></li><li class="tfix"><a href="/newssites.asp?ID=56362" class="subject tfix" target="_blank" alt="Reuters">Infineon lifts provision against legal dispute, knocking shares (Nov 12)&nbsp;-&nbsp;<i>Reuters</i></a></li><li class="tfix"><a href="/newssites.asp?ID=56361" class="subject tfix" target="_blank" alt="Investor's Business Daily">Lumentum slashes guidance as customer cuts orders, Apple stock falls (Nov 12)&nbsp;-&nbsp;<i>Investor's Business Daily</i></a></li><li class="tfix"><a href="/newssites.asp?ID=56360" class="subject tfix" target="_blank" alt="Company release">Infineon acquires Siltectra, a specialist for silicon carbide (Nov 12)&nbsp;-&nbsp;<i>Company release</i></a></li><li class="tfix"><a href="/newssites.asp?ID=56359" class="subject tfix" target="_blank" alt="Company release">Mitsubishi Chemical wins trial for red phosphor patent infringement litigation against China's Yantai Shield Advanced Materials (Nov 12)&nbsp;-&nbsp;<i>Company release</i></a></li><li class="tfix"><a href="/newssites.asp?ID=56358" class="subject tfix" target="_blank" alt="Nikkei Asian Review">SoftBank charges ahead with investment as mobile IPO nears (Nov 10)&nbsp;-&nbsp;<i>Nikkei Asian Review</i></a></li></ul></div></div></div>
+                                               
+                    </div>
+                    <div class="col-md-5 col-sm-5">
+                        
+                        <div class="hd-bg"><a href="/backgrounders/features/interviews.asp" class="colg">Interviews</a></div><div class="qrs"><div class="plainlinks"><ul><li style="margin:0; padding:0"><a href="/news/a20181029PD213.html" class="imgrelnews"><img src="/newsshow/20181029PD213_files/2_r.jpg" border="0" class="img-responsive lrborder" rel-news="20181029PD213,,,," alt="Rohm president Tadanobu Fujiwara"></a><a href="/news/a20181029PD213.html" class="subject">Staying focused on unique expertise: Q&amp;A with Rohm Semiconductor president Tadanobu Fujiwara</a><blockquote class="hidden-xs text-warning" style="font-size:1em; font-style:italic; margin-left:10px; margin-right:10px; margin-top:5px;  margin-bottom:5px; padding: 5px 0px 5px 5px; border-color:#ddd;">Kyoto-based Rohm Semiconductor has been keen on expanding its overseas sales, but the electronic components...</blockquote></li></ul></div></div>
+                        
+                        <div id="banner_mid-sm" class="col-sm-12 hidden-xs hidden-md hidden-lg iadres midsm"><div class="text-center"><div class="clclgjs" rel="63812"><a href="/webad/cnv.asp?Seq=63812" target="_blank"><img src="//ad.digitimes.com.tw/webadImg/Mobile20181023button.gif" class="awh img-responsive" style="max-width:336px;" border="0" alt="Global mobile device shipment forecasts, 2019 and beyond"></a></div></div></div>
+                        <div class="clear-both"></div>                                
+                        							
+                        <div class="hd-bg"><a href="/topic/" class="colg">Topics</a></div><div class="qrs"><div class="plainlinks"><ul><li class="row"><a href="/topic/huawei/a001276.html" class="imgrellink"><img src="/Images/Logos/2013/01/22/276_r.jpg" border="0" class="img-responsive lrborder" rel-link="/topic/huawei/a001276.html" style="margin:0; padding:0"></a><a href="/topic/huawei/a001276.html" class="subject">Huawei</a><blockquote class="hidden-xs text-warning" style="font-size:1em; font-style:italic; margin-left:10px; margin-right:10px; margin-top:5px;  margin-bottom:10px; padding: 5px 0px 5px 5px; border-color:#ddd;">China-based Huawei's worldwide reach </blockquote></li></ul></div></div>
+                        
+                        <div class="clear-both"></div>
+                        <div id="BAd-sm" class="col-sm-12 hidden-md hidden-lg iadres badsm-xs"><div class="text-center"><div class="clclgjs" rel="56207"><a href="/webad/cnv.asp?Seq=56207" target="_blank"><img src="//ad.digitimes.com.tw/webadImg/Mobile20181023rec.gif" class="awh img-responsive" style="max-width:336px;" border="0" alt="Global mobile device shipment forecasts, 2019 and beyond: Smartphones, notebooks and tablets"></a></div></div></div>
+                        <div class="clear-both"></div>
+                    </div>
+                </div>
+            </div>
+            
+                <div style="padding:0 15px 15px 15px;">
+                    <div class="hd-bg"><a href="/reports/index.asp?view=1" class="colg">Quarterly research reports</a></div>
+                    <div class="row qrs"><div class="col-md-4 col-sm-4"><a href="/news/a20181113CS400.html" class="imgrelnews"><img src="/newsshow/20181113CS400_files/27_r.jpg" rel-news="20181113CS400,,,," class="img-responsive lrborder"></a><a href="/news/a20181113CS400.html"><p class="H2">China smartphone market and industry – 3Q 2018</p></a><blockquote class="hidden-xs text-warning" style="font-size:1em; font-style:italic; margin-top:5px;  margin-bottom:5px; padding: 5px 0px 5px 10px;">Having ramped up their combined smartphone shipments by 6.5% on year to 192 million units in the third quarter of 2018, China-based...</blockquote></div><div class="col-md-4 col-sm-4"><a href="/news/a20181113RI401.html" class="imgrelnews"><img src="/newsshow/20181113RI401_files/21_r.jpg" rel-news="20181113RI401,,,," class="img-responsive lrborder"></a><a href="/news/a20181113RI401.html"><p class="H2">Global tablet market – 3Q 2018</p></a><blockquote class="hidden-xs text-warning" style="font-size:1em; font-style:italic; margin-top:5px;  margin-bottom:5px; padding: 5px 0px 5px 10px;">According to Digitimes Research statistics, global tablet shipments totaled 44.89 million units in third-quarter 2018, up 21.1%...</blockquote></div><div class="col-md-4 col-sm-4"><a href="/news/a20181113RI400.html" class="imgrelnews"><img src="/newsshow/20181113RI400_files/19_r.jpg" rel-news="20181113RI400,,,," class="img-responsive lrborder"></a><a href="/news/a20181113RI400.html"><p class="H2">Taiwan notebooks – 3Q 2018</p></a><blockquote class="hidden-xs text-warning" style="font-size:1em; font-style:italic; margin-top:5px;  margin-bottom:5px; padding: 5px 0px 5px 10px;">Taiwan's notebook shipments grew 4.3% sequentially but decreased 4.7% on year in the third quarter of 2018, as Intel's CPU shortages...</blockquote></div></div>
+                </div>
+            
+                <div style="padding:0 15px 15px 15px;">
+                    <div class="hd-bg"><a href="/reports/index.asp?view=2" class="colg">Special reports</a></div>
+                    <div class="row qrs"><div class="col-md-4 col-sm-4"><a href="/news/a20181022RS400.html" class="imgrelnews"><img src="/newsshow/20181022RS400_files/1_r.jpg" rel-news="20181022RS400,,,," class="img-responsive lrborder"></a><a href="/news/a20181022RS400.html"><p class="H2">Global mobile device shipment forecasts, 2019 and beyond: Smartphones, notebooks and tablets</p></a><blockquote class="hidden-xs text-warning" style="font-size:1em; font-style:italic; margin-top:5px;  margin-bottom:5px; padding: 5px 0px 5px 10px;">This Digitimes Research Special Report offers global shipment forecasts for three major mobile device market segments - smartphones,...</blockquote></div><div class="col-md-4 col-sm-4"><a href="/news/a20180917RS400.html" class="imgrelnews"><img src="/newsshow/20180917RS400_files/2_r.jpg" rel-news="20180917RS400,,,," class="img-responsive lrborder"></a><a href="/news/a20180917RS400.html"><p class="H2">iPhone shipment analysis and forecast, 2H18</p></a><blockquote class="hidden-xs text-warning" style="font-size:1em; font-style:italic; margin-top:5px;  margin-bottom:5px; padding: 5px 0px 5px 10px;">This Digitimes Reserch iPhone Shipment Analysis and Forecast Special Report provides an insight into Apple's pricing strategy...</blockquote></div><div class="col-md-4 col-sm-4"><a href="/news/a20180906RS400.html" class="imgrelnews"><img src="/newsshow/20180906RS400_files/1_r.jpg" rel-news="20180906RS400,,,," class="img-responsive lrborder"></a><a href="/news/a20180906RS400.html"><p class="H2">Global smartphone AP demand forecast till 1Q19</p></a><blockquote class="hidden-xs text-warning" style="font-size:1em; font-style:italic; margin-top:5px;  margin-bottom:5px; padding: 5px 0px 5px 10px;">This DIGITIMES Special Report provides insights into various aspects of the smartphone AP market, including suppliers' shipments,...</blockquote></div></div>
+                </div>
+            
+            <div style="padding:0 15px 15px 15px;">
+                <div id="CAd-xs" class="col-xs-12 hidden-sm hidden-md hidden-lg iadres cadxs"><div class="text-center"><div class="clclgjs" rel="61562"><a href="/webad/cnv.asp?Seq=61562" target="_blank"><img src="//ad.digitimes.com.tw/webadImg/Tracker20171227rec.gif" class="awh img-responsive" style="max-width:336px;" border="0" alt="Digitimes Research Quarterly Data services"></a></div></div></div>
+                <div class="clear-both"></div>
+                <div class="row">
+                     
+                         <div class="col-md-7 col-sm-7"><div class="hd-bg"><a href="/reports/index.asp?view=0" class="colg">Research analysis</a></div><div class="cnumls"><ol class="numls"><li><div class="row" style="margin:0"><div class="col-md-4 col-sm-4 col-lg-4" style="margin:0; padding:0 5px 0 0"><a href="/news/a20181108PD207.html?chid=2" class="imgrelnews"><img src="/newsshow/20181108PD207_files/1_s.jpg" rel-news="20181108PD207,2,,," class="hidden-xs img-responsive"></a></div> <a href="/news/a20181108PD207.html?chid=2">China smartphone shipments to fall in 4Q18, says Digitimes Research</a></div></li><li><div class="row" style="margin:0"> <a href="/news/a20181107PD213.html?chid=2">Global notebook shipments to rise 2.8% in 4Q18, says Digitimes Research</a></div></li><li><div class="row" style="margin:0"> <a href="/news/a20181107PD204.html?chid=2">Taiwan handset shipments expand mildly in 3Q18, says Digitimes Research</a></div></li></ol></div></div>
+                     
+                        <div class="col-md-5 col-lg-5 hidden-sm"><div class="hd-bg"><a href="/reports/index.asp?view=3" class="colg">Shipment trends</a></div><div id="research">
+<div id="rssh" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner" role="listbox">
+<div class="item"><a href="/reports/index.asp?view=3&amp;subid=1&amp;subt=1" rel="1"><img border="0" src="/reports/charts/image/handset_r.png?v=3150682" alt="Handset shipments"><div class="carousel-caption">Handset shipments</div></a></div>
+<div class="item"><a href="/reports/index.asp?view=3&amp;subid=2&amp;subt=1" rel="2"><img border="0" src="/reports/charts/image/lslcd_r.png?v=3150682" alt="Large-size LCD panel shipments"><div class="carousel-caption">Large-size LCD panel shipments</div></a></div>
+<div class="item"><a href="/reports/index.asp?view=3&amp;subid=3&amp;subt=1" rel="3"><img border="0" src="/reports/charts/image/smlcd_r.png?v=3150682" alt="Small- to mid- size LCD panel shipments"><div class="carousel-caption">Small- to mid- size LCD panel shipments</div></a></div>
+<div class="item active"><a href="/reports/index.asp?view=3&amp;subid=4&amp;subt=1" rel="4"><img border="0" src="/reports/charts/image/notebook_r.png?v=3150682" alt="Notebook shipments"><div class="carousel-caption">Notebook shipments</div></a></div>
+<div class="item"><a href="/reports/index.asp?view=3&amp;subid=7&amp;subt=1" rel="7"><img border="0" src="/reports/charts/image/lcdtv_r.png?v=3150682" alt="LCD TV shipments"><div class="carousel-caption">LCD TV shipments</div></a></div>
+<div class="item"><a href="/reports/index.asp?view=3&amp;subid=8&amp;subt=1" rel="8"><img border="0" src="/reports/charts/image/monitor_r.png?v=3150682" alt="LCD monitor shipments"><div class="carousel-caption">LCD monitor shipments</div></a></div>
+<div class="item"><a href="/reports/index.asp?view=3&amp;subid=100&amp;subt=1" rel="100"><img border="0" src="/reports/charts/image/ap_r.png?v=3150682" alt="China smartphone AP shipments"><div class="carousel-caption">China smartphone AP shipments</div></a></div>
+<div class="item"><a href="/reports/index.asp?view=3&amp;subid=101&amp;subt=1" rel="101"><img border="0" src="/reports/charts/image/smartphone_r.png?v=3150682" alt="China smartphone shipments"><div class="carousel-caption">China smartphone shipments</div></a></div>
+</div>
+<a class="left carousel-control" href="#rssh" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span><span class="sr-only">Previous</span></a>
+<a class="right carousel-control" href="#rssh" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span><span class="sr-only">Next</span></a>
+</div>
+</div>
+</div>
+                     
+                     <div id="CAd-sm" class="col-sm-5 hidden-xs hidden-md hidden-lg iadres cadsm"><div class="text-center"><div class="clclgjs" rel="61562"><a href="/webad/cnv.asp?Seq=61562" target="_blank"><img src="//ad.digitimes.com.tw/webadImg/Tracker20171227rec.gif" class="awh img-responsive" style="max-width:336px;" border="0" alt="Digitimes Research Quarterly Data services"></a></div></div></div>
+                </div>
+            </div>
+            </div>
+      <div class="col-md-4 hidden-sm hidden-xs" style="padding:0">
+                <div>
+                
+                    <div class="clear-both"></div>
+                    <div class="mr-box mr-f1"><div class="mr-hd" style="padding-bottom:5px; padding-left:5px"><a href="/supply_chain_window/">Supply chain</a></div><div class="sbx"><ul><li class="row shadow-d1"><div class="col-md-7 col-sm-7 col-lg-7"><a href="/news/a20181112PR201.html?chid=9">Chilisin Group showcases a comprehensive portfolio of passive components at electronica 2018</a></div><div class="col-md-5 col-sm-5 col-lg-5" style="padding-left:3px"><a href="/news/a20181112PR201.html?chid=9" class="imgrellink"><img src="/newsshow/20181112PR201_files/2_s.jpg" border="0" class="img-responsive" rel-link="/news/a20181112PR201.html?chid=9" alt="Chilisin Group"></a></div></li><li class="row shadow-d1"><div class="col-md-12 col-sm-12 col-lg-12"><a href="/news/a20181106PD203.html?chid=9">Advantech ready to embrace IoT challenges</a></div></li><li class="row shadow-d1"><div class="col-md-12 col-sm-12 col-lg-12"><a href="/news/a20181109PR202.html?chid=9">MINMAX Technology markets the MINMAX brand low to medium wattage power supplies</a></div></li></ul></div></div>
+                <div id="AAd" class="col-md-12 col-lg-12 iadres"><div class="text-center"><div class="clclgjs" rel="62211"><a href="/webad/cnv.asp?Seq=62211" target="_blank"><img src="//ad.digitimes.com.tw/webadImg/UMC20180301rec.gif" class="awh img-responsive" style="max-width:336px;" border="0" alt="IC 2.0: An Intelligently Connected World"></a></div></div></div>
+                    <div class="clear-both"></div>
+                    <div class="mr-box mr-f1"><div class="mr-hd" style="padding-bottom:5px; padding-left:5px"><a href="/finance/">Market summary</a></div><div class="rbox"><div class="row mkt-tophd"><div class="col-md-6 col-sm-6 col-lg-6 shd">11/13 markets closed</div><div class="col-md-2 col-sm-2 col-lg-2 shd" style="text-align:left;">Last</div><div class="col-md-3 col-sm-3 col-lg-3 shd" style="text-align:center">Change</div></div></div>
+<div>
+<div id="market" style="padding:0 5px 0 5px; margin:0;" class="ui-accordion ui-widget ui-helper-reset" role="tablist">
+<h3 class="row shadow-d1 ui-accordion-header ui-state-default ui-accordion-header-active ui-state-active ui-corner-top ui-accordion-icons" style="background-color:#fff" role="tab" id="ui-id-1" aria-controls="sm1" aria-selected="true" aria-expanded="true" tabindex="0"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-s"></span>
+<div class="row pm-0"><div class="col-md-5 col-sm-5 col-lg-5 pm-0" style="text-align:left;">TAIEX (TSE)</div><div class="col-md-3 col-sm-3 col-lg-3 pm-0" style="text-align:center;">9775.84</div><div class="col-md-2 col-sm-2 col-lg-2 downval pm-0" style="text-align:center">-55.37</div><div class="col-md-2 col-sm-2 col-lg-2 downval pm-0" style="text-align:center;">-0.56%</div></div>
+</h3>
+<div id="sm1" class="row ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" style="margin: 2px; padding: 0px; display: block; height: auto;" aria-labelledby="ui-id-1" role="tabpanel" aria-hidden="false"><img src="/images/global/preloader.gif"></div>
+<h3 class="row shadow-d1 ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" style="background-color:#fff" role="tab" id="ui-id-2" aria-controls="sm2" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span>
+<div class="row pm-0"><div class="col-md-5 col-sm-5 col-lg-5 pm-0" style="text-align:left;">TSE electronic</div><div class="col-md-3 col-sm-3 col-lg-3 pm-0" style="text-align:center;">385.62</div><div class="col-md-2 col-sm-2 col-lg-2 downval pm-0" style="text-align:center">-2.76</div><div class="col-md-2 col-sm-2 col-lg-2 downval pm-0" style="text-align:center;">-0.71%</div></div>
+</h3>
+<div id="sm2" class="row ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="margin: 2px; padding: 0px; display: none; height: 19px;" aria-labelledby="ui-id-2" role="tabpanel" aria-hidden="true"><img src="/images/global/preloader.gif"></div>
+<h3 class="row shadow-d1 ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" style="background-color:#fff" role="tab" id="ui-id-3" aria-controls="sm3" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span>
+<div class="row pm-0"><div class="col-md-5 col-sm-5 col-lg-5 pm-0" style="text-align:left;">GTSM (OTC)</div><div class="col-md-3 col-sm-3 col-lg-3 pm-0" style="text-align:center;">117.87</div><div class="col-md-2 col-sm-2 col-lg-2 downval pm-0" style="text-align:center">-0.36</div><div class="col-md-2 col-sm-2 col-lg-2 downval pm-0" style="text-align:center;">-0.3%</div></div>
+</h3>
+<div id="sm3" class="row ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="margin: 2px; padding: 0px; display: none; height: 19px;" aria-labelledby="ui-id-3" role="tabpanel" aria-hidden="true"><img src="/images/global/preloader.gif"></div>
+<h3 class="row shadow-d1 ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" style="background-color:#fff" role="tab" id="ui-id-4" aria-controls="sm4" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span>
+<div class="row pm-0"><div class="col-md-5 col-sm-5 col-lg-5 pm-0" style="text-align:left;">OTC electronic</div><div class="col-md-3 col-sm-3 col-lg-3 pm-0" style="text-align:center;">161.86</div><div class="col-md-2 col-sm-2 col-lg-2 downval pm-0" style="text-align:center">-0.76</div><div class="col-md-2 col-sm-2 col-lg-2 downval pm-0" style="text-align:center;">-0.47%</div></div>
+</h3>
+<div id="sm4" class="row ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="margin: 2px; padding: 0px; display: none; height: 19px;" aria-labelledby="ui-id-4" role="tabpanel" aria-hidden="true"><img src="/images/global/preloader.gif"></div>
+</div>
+</div>
+</div>
+                <div id="BAd" class="col-md-12 col-lg-12 iadres"><div class="text-center"><div class="clclgjs" rel="56207"><a href="/webad/cnv.asp?Seq=56207" target="_blank"><img src="//ad.digitimes.com.tw/webadImg/Mobile20181023rec.gif" class="awh img-responsive" style="max-width:336px;" border="0" alt="Global mobile device shipment forecasts, 2019 and beyond: Smartphones, notebooks and tablets"></a></div></div></div><div class="clear-both"></div>
+<div class="mr-box mr-f1">
+<div class="mr-hd" style="padding-bottom:5px;padding-left:5px;"><a href="/ads.asp">Sponsored links</a></div>
+<div class="sbx"><ul><li class="row shadow-d1"><a href="/webad/click.asp?Seq=61561" target="_blank">Global smartphone AP demand forecast till 1Q19</a><p class="spara">This DIGITIMES Special Report provides insights into various aspects of the smartphone AP market, including shipments by supplier, market shares, manufacturing processes, and the incorporating of AI in the processors.</p></li><li class="row shadow-d1"><a href="/webad/click.asp?Seq=61560" target="_blank">Global mobile device shipment forecasts, 2019 and beyond: Smartphones, notebooks and tablets</a><p class="spara">This Digitimes Research Special Report offers global shipment forecasts for three major mobile device market segments - smartphones, notebooks and tablets - for the year 2019 and beyond. It gives in-depth analyses of their respective market outlooks, with shipment forecasts extending to 2023.</p></li><li class="row shadow-d1"><a href="/webad/click.asp?Seq=60097" target="_blank">iPhone shipment analysis and forecast, 2H18</a><p class="spara">This Digitimes Reserch iPhone Shipment Analysis and Forecast Special Report provides an insight into Apple pricing strategy and shipment outlook for the newly introduced iPhone models, as well as the overall iPhone lineup.</p></li></ul></div>
+</div><div id="CAd" class="col-md-12 col-lg-12 iadres"><div class="text-center"><div class="clclgjs" rel="61562"><a href="/webad/cnv.asp?Seq=61562" target="_blank"><img src="//ad.digitimes.com.tw/webadImg/Tracker20171227rec.gif" class="awh img-responsive" style="max-width:336px;" border="0" alt="Digitimes Research Quarterly Data services"></a></div></div></div><div class="clear-both"></div>
+<div class="mr-box" style="margin: 15px 15px 0 15px;">
+<div id="tagList"><div class="mr-hd">TAG CLOUD</div><div class="mr-block"><span class="tg5"><a href="/topic/it+ce/it_components_peripherals/" class="uln">IT components, peripherals</a></span> <span class="tg3"><a href="/tag/digitimes_research/0015776.html" class="uln">Digitimes Research</a></span> <span class="tg5"><a href="/tag/smartphone/001186.html" class="uln">smartphone</a></span> <span class="tg4"><a href="/topic/displays/display_components/" class="uln">Display components</a></span> <span class="tg3"><a href="/tag/digitimes/0011268.html" class="uln">DIGITIMES</a></span> <span class="tg5"><a href="/tag/demand/0014276.html" class="uln">demand</a></span> <span class="tg4"><a href="/topic/it+ce/software_big_data/" class="uln">Software, big data</a></span> <span class="tg3"><a href="/topic/it+ce/ict_manufacturing/" class="uln">ICT manufacturing</a></span> <span class="tg5"><a href="/tag/ai/0019280.html" class="uln">AI</a></span> <span class="tg1"><a href="/topic/mobile+telecom/mobile_components/" class="uln">Mobile components</a></span> <span class="tg4"><a href="/tag/flash/001769.html" class="uln">flash</a></span> <span class="tg4"><a href="/tag/intel/001217.html" class="uln">Intel</a></span> <span class="tg5"><a href="/tag/electronics/0014503.html" class="uln">electronics</a></span> <span class="tg5"><a href="/tag/shipments/0012467.html" class="uln">shipments</a></span> <span class="tg5"><a href="/tag/nand_flash/00146.html" class="uln">NAND flash</a></span> <span class="tg4"><a href="/tag/innovation/00110190.html" class="uln">innovation</a></span> <span class="tg5"><a href="/tag/tsmc/001264.html" class="uln">TSMC</a></span> <span class="tg5"><a href="/topic/bits+chips/ic_design_distribution/" class="uln">IC design, distribution</a></span> <span class="tg4"><a href="/tag/revenues/001813.html" class="uln">revenues</a></span> <span class="tg4"><a href="/tag/startups_+_innovations/00110189.html" class="uln">startups + innovations</a></span> <span class="tg5"><a href="/tag/ic/001389.html" class="uln">IC</a></span> <span class="tg4"><a href="/topic/it+ce/server_ipc_cloud_computing_iot/" class="uln">Server, IPC, cloud computing, IoT</a></span> <span class="tg4"><a href="/topic/displays/display_panel/" class="uln">Display panel</a></span> <span class="tg4"><a href="/topic/mobile+telecom/mobile_devices/" class="uln">Mobile devices</a></span> <span class="tg5"><a href="/tag/5g/0014590.html" class="uln">5G</a></span> <span class="tg5"><a href="/tag/foundry/0011656.html" class="uln">foundry</a></span> <span class="tg3"><a href="/tag/apple/001214.html" class="uln">Apple</a></span> <span class="tg4"><a href="/tag/sales/001362.html" class="uln">sales</a></span> <span class="tg5"><a href="/tag/2018/0017127.html" class="uln">2018</a></span> <span class="tg5"><a href="/topic/bits+chips/memory_chips/" class="uln">Memory chips</a></span> </div></div>
+<div id="slider" class="ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all"><span class="ui-slider-handle ui-state-default ui-corner-all" tabindex="0" style="left: 0%;"></span></div>
+<div id="lbl">10 days cloud</div>
+</div>
+<div class="clear-both"></div><div class="mr-box mr-f1"><div class="mr-hd" style="padding-bottom:5px; padding-left:5px"><a href="/photogallery/index.asp">On Display</a></div><div id="pgl" class="carousel slide" data-ride="carousel"><ol class="carousel-indicators"><li data-target="#pgl" data-slide-to="0" class="active"></li><li data-target="#pgl" data-slide-to="1"></li><li data-target="#pgl" data-slide-to="2"></li></ol><div class="carousel-inner" role="listbox"><div class="item active"><a href="/photogallery/showphoto.asp?id=6170"><img src="/images/2018/10/19/6170_r.jpg" alt="Samsung Galaxy Book2" class="center-block"><div class="carousel-caption">Samsung Galaxy Book2</div></a></div><div class="item"><a href="/photogallery/showphoto.asp?id=6167"><img src="/images/2018/10/04/6167_r.jpg" alt="Microsoft Laptop 2 " class="center-block"><div class="carousel-caption">Microsoft Laptop 2 </div></a></div><div class="item"><a href="/photogallery/showphoto.asp?id=6169"><img src="/images/2018/10/04/6169_r.jpg" alt="Microsoft Surface Headphones" class="center-block"><div class="carousel-caption">Microsoft Surface Headphones</div></a></div></div><a class="left carousel-control" href="#pgl" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span><span class="sr-only">Previous</span></a><a class="right carousel-control" href="#pgl" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span><span class="sr-only">Next</span></a></div></div>				<div style="margin:15px;">
+                    <div class="clear-both" style="height:15px;"></div>
+                    <div id="GAd" class="col-md-12 col-lg-12" style="padding:0;overflow:auto;overflow-y:hidden;-ms-overflow-y:hidden;">
+						<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <!-- DTSquare -->
+                        <ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px;" data-ad-client="ca-pub-9450724093575296" data-ad-slot="1002527069"></ins>
+                        <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                    </div>
+                </div>
+                </div>      
+            </div>
+      </div>
+    </div>
+	<div class="container-fluid c-bg-b">
+	<div class="row">
+		 
+         <div id="footer" class="hidden-xs pm-0">
+			<div id="siteinfo">
+				<div id="smp">
+					<ul id="dtsmap" class="c1">
+						<li class="smaphd">DIGITIMES</li><li class="smap"><a href="/about.asp">About</a></li><li class="smap"><a href="/ads.asp">Advertising</a></li><li class="smap"><a href="/register/">Membership</a></li><li class="smap"><a href="/register/terms.asp">Terms &amp; conditions</a></li><li class="smap"><a href="/register/privacypolicy.asp">Privacy policy</a></li><li class="smap"><a href="/contact.asp">Contact us</a></li><li class="smap"><a href="/backgrounders/features/sitenote.asp">Notes &amp; corrections</a></li><li class="smap"><a href="/site_map.asp">Site map</a></li>
+					</ul>
+					<ul id="chcats" class="c1">
+						<li class="smaphd">Channels</li><li class="smap"><a href="/index.asp">News</a></li><li class="smap"><a href="/reports/">Research</a></li><li class="smap"><a href="/finance/">Finance</a></li><li class="smap"><a href="/supply_chain_window/">Supply chain</a></li><li class="smap"><a href="/photogallery/">On display</a></li>
+					</ul>
+					<ul id="serv" class="c1">
+						<li class="smaphd">Tools &amp; services</li><li class="smap"><a href="/backgrounders/features/snapshots.asp">Before going to press</a></li><li class="smap"><a href="/backgrounders/features/ondemand.asp">On demand</a></li><li class="smap"><a href="/backgrounders/features/interviews.asp">Frankly speaking</a></li><li class="smap"><a href="/backgrounders/features/newslinks.asp">Around the web</a></li><li class="smap"><a href="/topic/">Topics</a></li><li class="smap"><a href="/rss/daily.xml">RSS</a></li><li class="smap"><a href="https://www.facebook.com/DIGITIMES-89446733162/" target="_blank" title="Follow DIGITIMES on Facebook">Facebook</a></li><li class="smap"><a href="https://twitter.com/DigitimesDotCom" target="_blank" title="Follow DIGITIMES on Twitter">Twitter</a></li>
+					</ul>
+				</div>
+				<div id="subscribe">
+					<div id="account">
+						<ul id="register" class="c1">
+							<li>
+								<ul id="serv2" class="c1"><li class="smaphd">Account</li>
+								
+                                    <li class="smap"><a href="/register/">New user</a></li>
+                                    <li class="smap"><a href="/newregister/join.asp?view=renew">Login</a></li>
+                                
+                                </ul>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+        <div class="clear-both"></div>
+        <div class="copyrt">©&nbsp;2018 DIGITIMES Inc. All rights reserved.<br>Please do not republish, publicly broadcast or publicly transmit content from this website without written permission from DIGITIMES Inc. Please <a href="/contact.asp" class="uln colw">contact us</a> if you have any questions.</div>  
+    </div>
+</div>
+</div>
+<div id="dialog" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title">Members only</h4>
+            </div>
+            <div class="modal-body">
+            <div class="alert alert-warning" role="alert">Sorry, the page you are trying to open is available only for our paid subscribers.
+            <ul class="list-dotted"><li>Please <a href="/newregister/join.asp" class="uln">login</a> to read more</li><li>New users, please <a href="/register/" class="uln">register</a> first</li></ul></div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-37290588-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+</body></html>
