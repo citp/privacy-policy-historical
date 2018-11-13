@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proarticles.co.uk privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514201244id_/http%3A//proarticles.co.uk/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proarticles.co.uk privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114005829id_/http%3A//proarticles.co.uk/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy – Pro Articles
 
