@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genyoutube.net privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310010225id_/https%3A//www.genyoutube.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genyoutube.net privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113233048id_/https%3A//www.genyoutube.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - GenYoutube
 
@@ -28,7 +28,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 #### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us by using [this contact form](http://www.genyoutube.net/contact.html).
+If there are any questions regarding this privacy policy you may contact us by using [this contact form](https://www.genyoutube.net/contact.html).
 
 GenYoutube is a fast Youtube video downloader service. Now download videos in all formats from Youtube using GenYoutube video downloader. Using GenYoutube you can download any type of videos from the Youtube. 
 
