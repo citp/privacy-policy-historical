@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the arrow.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706061817id_/https%3A//www.arrow.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrow.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113233110id_/https%3A//www.arrow.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Arrow Electronics, Inc. Privacy Policy | Arrow.com
 
 **NEW PRIVACY POLICY**
 
-Effective Date: September 30th, 2016. Prior policy available [here](https://web.archive.org/en/legal/previous-privacy-policy). 
+Effective Date: June 5th, 2018. Prior policy available [here](https://web.archive.org/en/legal/previous-privacy-policy). 
 
 **Introduction**
 
@@ -86,7 +86,7 @@ We are not responsible for third parties or Third Party Services associated with
   9. **DATA SECURITY**  
 We seek to use reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. In addition, Arrow will not keep your Personal Information for longer than necessary for the purposes set out in this policy. Unfortunately, no data transmission or storage system is completely secure and we cannot guarantee the security of your information collected through our Services. Your Personal Information is stored on servers in the U.S., U.K., and Hong Kong maintained with the assistance of a third party data storage provider. 
   10. **INTERNATIONAL TRANSFER**  
-Arrow complies with the Privacy Shield Framework, as set forth by the U.S. Department of Commerce in consultation with the European Commission, regarding the collection, use and retention of Personal Information received from the European Union. As Arrow Electronics, Inc. is a U.S. company, it has voluntarily decided to comply with the EU – U.S. Privacy Shield Framework and is subject to the investigatory and enforcement powers of the Federal Trade Commission. Arrow annually certifies its adherence to the Privacy Shield Principles of notice; choice; accountability for onward transfer; security; data integrity and purpose limitation; access; and recourse, enforcement and liability. To learn more about the EU – U.S. Privacy Shield Framework, please visit <https://www.privacyshield.gov/EU-US-Framework>. To view Arrow’s certification, please visit <https://www.privacyshield.gov/list>. 
+Arrow complies with the Privacy Shield Framework, as set forth by the U.S. Department of Commerce in consultation with the European Commission, regarding the collection, use and retention of Personal Information received from the European Union. As Arrow Electronics, Inc. is a U.S. company, it has voluntarily decided to comply with the EU – U.S. Privacy Shield Framework and is subject to the investigatory and enforcement powers of the Federal Trade Commission. Arrow annually certifies its adherence to the Privacy Shield Principles of notice; choice; accountability for onward transfer; security; data integrity and purpose limitation; access; and recourse, enforcement and liability. All U.S. entities and subsidiaries listed in our Privacy Shield certification record also adhere to the Privacy Shield Principles. To learn more about the EU – U.S. Privacy Shield Framework, please visit <https://www.privacyshield.gov/EU-US-Framework>. To view Arrow’s certification, please visit <https://www.privacyshield.gov/list>. 
 
 We are based in the U.S. and the information we collect from the U.S. is governed by U.S. law. If you are accessing the Services from outside of the U.S., please be aware that information collected through the Services may be transferred to, processed, stored and used in the U.S. Your Personal Information may also be transferred to, processed, stored and used in other jurisdictions in which we have affiliates or Service Providers. Data protection laws in these jurisdictions may be different from those of your country of residence. Your use of the Services or provision of any information therefore constitutes your consent to the transfer to and from, processing, usage, sharing and storage of your information, including Personal Information, in these jurisdictions, as set forth in this Privacy Policy. 
 
@@ -166,3 +166,7 @@ Germany
 
 
 
+
+[Haga clic aquí para ver la política de privacidad de México. ](https://static4.arrow.com/-/media/images/aviso-de-privacidad-acm-clientes-y-proveedores.pdf?la=en&hash=A9CDA48824F745B5588C0B681ADE2285734149E2)
+
+In the event of a conflict between this translation and the English version of Arrow’s privacy policy, the English version governs.
