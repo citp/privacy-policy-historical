@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijapals.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521122505id_/http%3A//www.naijapals.com/%3FL%3Dinfo.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijapals.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113230334id_/http%3A//www.naijapals.com/%3FL%3Dinfo.privacy) for the most accurate reproduction.*
 
 # Info | Privacy - Naijapals - Naijapals - Naijapals
 
@@ -39,7 +39,7 @@ Sometimes you might give your consent implicitly, such as when you send us a mes
 Except where you have consented to our use of your information for a specific purpose, we do not use your information in any way that would identify you personally. We may aggregate it in a general way and use it to provide class information, for example to monitor the performance of a particular page on our website.   
 If you have given us explicit permission to do so, we may from time to time pass your name and contact information to selected associates whom we consider may provide services or products you would find useful.   
 We continue to process your information on this basis until you withdraw your consent or it can be reasonably assumed that your consent no longer exists.   
-You may withdraw your consent at any time by instructing us at [[email protected]](http://www.naijapals.com/cdn-cgi/l/email-protection), However, if you do so, you may not be able to use our website or our services further. 
+You may withdraw your consent at any time by instructing us at [[email protected]](https://www.naijapals.com/cdn-cgi/l/email-protection), However, if you do so, you may not be able to use our website or our services further. 
 
 **3\. Information we process for the purposes of legitimate interests**   
 We may process information on the basis there is a legitimate interest, either to you or to us, of doing so.   
@@ -70,7 +70,7 @@ In posting personal information, it is up to you to satisfy yourself about the p
 We do not specifically use this information except to allow it to be displayed or shared.   
 We do store it, and we reserve a right to use it in the future in any way we decide.   
 Once your information enters the public domain, we have no control over what any individual third party may do with it. We accept no responsibility for their actions at any time.   
-Provided your request is reasonable and there is no legal basis for us to retain it, then at our discretion we may agree to your request to delete personal information that you have posted. You can make a request by contacting us at [[email protected]](http://www.naijapals.com/cdn-cgi/l/email-protection)
+Provided your request is reasonable and there is no legal basis for us to retain it, then at our discretion we may agree to your request to delete personal information that you have posted. You can make a request by contacting us at [[email protected]](https://www.naijapals.com/cdn-cgi/l/email-protection)
 
 **6\. Complaints regarding content on our website**   
 We attempt to moderate user generated content, but we are not always able to do so as soon as that content is published.   
@@ -154,11 +154,11 @@ Access to your own information
 
 **17\. Access to your personal information**   
 17.1. At any time you may review or update personally identifiable information that we hold about you, by signing in to your account on our website.   
-17.2. To obtain a copy of any information that is not provided on our website you may send us a request at [[email protected]](http://www.naijapals.com/cdn-cgi/l/email-protection)   
+17.2. To obtain a copy of any information that is not provided on our website you may send us a request at [[email protected]](https://www.naijapals.com/cdn-cgi/l/email-protection)   
 17.3. After receiving the request, we will tell you when we expect to provide you with the information, and whether we require any fee for providing it to you. 
 
 **18\. Removal of your information**   
-If you wish us to remove personally identifiable information from our website, you may contact us at [[email protected]](http://www.naijapals.com/cdn-cgi/l/email-protection)   
+If you wish us to remove personally identifiable information from our website, you may contact us at [[email protected]](https://www.naijapals.com/cdn-cgi/l/email-protection)   
 This may limit the service we can provide to you. 
 
 **19\. Verification of your information**   
@@ -177,7 +177,7 @@ We use Secure Sockets Layer (SSL) certificates to verify our identity to your br
 Whenever information is transferred between us, you can check that it is done so using SSL by looking for a closed padlock symbol or other trust mark in your browser?s URL bar or toolbar. 
 
 **22\. How you can complain**   
-22.1. If you are not happy with our privacy policy or if have any complaint then you should tell us by email. Our address is [[email protected]](http://www.naijapals.com/cdn-cgi/l/email-protection)   
+22.1. If you are not happy with our privacy policy or if have any complaint then you should tell us by email. Our address is [[email protected]](https://www.naijapals.com/cdn-cgi/l/email-protection)   
 22.2. [You can find further information about our complaint handling procedure at webpage URL]   
 22.3. If a dispute is not settled then we hope you will agree to attempt to resolve it by engaging in good faith with us in a process of mediation or arbitration.   
 22.4. If you are in any way dissatisfied about how we process your personal information, you have a right to lodge a complaint with the Information Commissioner's Office. This can be done at https://ico.org.uk/concerns/ 
@@ -194,4 +194,4 @@ However, ultimately it is your choice as to whether you wish to use our website.
 
 **25\. Review of this privacy policy**   
 We may update this privacy notice from time to time as necessary. The terms that apply to you are those posted here on our website on the day you use our website. We advise you to print a copy for your records.   
-If you have any question regarding our privacy policy, please contact us at [[email protected]](http://www.naijapals.com/cdn-cgi/l/email-protection)
+If you have any question regarding our privacy policy, please contact us at [[email protected]](https://www.naijapals.com/cdn-cgi/l/email-protection)
