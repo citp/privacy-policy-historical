@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urlm.co privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607183721id_/http%3A//urlm.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urlm.co privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113231534id_/http%3A//urlm.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
