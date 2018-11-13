@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the myus.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614195853id_/https%3A//www.myus.com/terms-conditions-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myus.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113234709id_/https%3A//www.myus.com/terms-conditions-privacy) for the most accurate reproduction.*
 
 # MyUS.com Terms of Service in Using Our Website
 
-This Privacy Policy describes the ways that MyUS.com collects, uses, protects, transfers, and discloses information that you provide to us, that we collect, or that we receive through our website, located at [www.MyUS.com](https://www.myus.com/) (the " _Website_ "). This Privacy Policy was last updated on February 23, 2017.
+### All services provided by MyUS.com are governed under our Terms and Conditions, and are subject to change at any time. These Terms and Conditions apply to a standard routed export transaction, when Member purchase products in the United States from merchants acting as the U.S. Principal Party in Interest, as defined by the United States Foreign Trade Regulations. Part VIII, below, provides additional terms when Members engage in a direct export transaction as the U.S. Principal Party in Interest.
+
+This Privacy Policy describes the ways that MyUS.com collects, uses, protects, transfers, and discloses information that you provide to us, that we collect, or that we receive through our website, located at [www.MyUS.com](https://www.myus.com/) (the " _Website_ "). This Privacy Policy also describes the measures we take to safeguard the Personal information (defined below) you provide to us. In addition, we tell you how you can ask us to (i) access or change the Personal information we maintain about you, (ii) withdraw consent you previously provided to us, (iii) refrain from sending you certain communications, and (iv) answer questions you may have about our privacy practices. This Privacy Policy was last updated on July 19, 2018.
 
 ## Philosophy
 
-MyUS.com is dedicated to protecting the privacy of your personal information. " _Personal information_ " includes information about you by which you may be personally identified, including, for example, your name, address, email address, telephone number, age, gender, date of birth, account numbers, VAT/Tax ID, and financial and payment information. This Privacy Policy does not apply to the practices of companies that MyUS.com does not own or control, or to people whom MyUS.com does not employ or manage, including any third party advertisers or other websites that may link to or be accessible from the Website.
+MyUS.com is dedicated to protecting the privacy of your Personal information. " _Personal information_ " means any information relating to an identified or identifiable natural person, including but not limited to information about you by which you may be personally identified, for example, your name, address, email address, IP address (in some jurisdictions), telephone number, age, gender, date of birth, account numbers, VAT/Tax ID, and financial and payment information. This Privacy Policy does not apply to the practices of companies that MyUS.com does not own or control, or to people whom MyUS.com does not employ or manage, including any third party advertisers or other websites that may link to or be accessible from the Website.
 
 ## Your Consent
 
@@ -20,36 +22,39 @@ MyUS.com reserves the right to modify this Privacy Policy at any time and withou
 
 We collect several types of information from and about you when you access and use the Website, including the following:
 
-Non-Personal Information. When you visit the Website, we may collect non-personal information about you automatically as you navigate through the Website via certain Internet technology tools, including cookies, web beacons, and other tracking technologies. " _Non-personal information_ " we may collect includes, for example, your IP address, details about how you use the Website, what Website features you access, information regarding the type of browser and operating system that you use, what website you linked from to the Website, other websites you have visited, and other similar analytic data. Non-personal information also includes personal or non-personal information that has been aggregated or pseudonymized in such a way that you cannot easily be identified individually. We may use third party service providers to assist us in collecting and analyzing non-personal information or to provide advertisements or other content on the Website.
+Non-Personal Information. When you visit the Website, we may collect non-Personal information about you automatically as you navigate through the Website via certain Internet technology tools, including cookies, web beacons, and other tracking technologies. " _Non-Personal information_ " we may collect includes, for example, details about how you use the Website, what Website features you access, information regarding the type of browser and operating system that you use, what website you linked from to the Website, other websites you have visited, and other similar analytic data. Non-Personal information also includes Personal or non-Personal information that has been aggregated or pseudonymized in such a way that you cannot easily be identified individually. We may use third party service providers to assist us in collecting and analyzing non-Personal information or to provide advertisements or other content on the Website.
 
-Personal Information. We may collect personal information: (1) when you provide it to us directly, including through forms on the Website (including, for example, when you register for our service, purchase a membership, use our services, or otherwise); (2) when you send us an email or contact us using the Help page or Live Chat; and (3) from third-party service providers who assist us in collecting and analyzing personal information. 
+Personal Information. We may collect Personal information: (1) when you provide it to us directly, including through forms on the Website (including, for example, when you register for our service, purchase a membership, use our services, or otherwise); (2) when you send us an email or contact us using the Help page or Live Chat; and (3) from third-party service providers who assist us in collecting and analyzing Personal information.
+
+The providers of third-party apps, tools, widgets and plug-ins on our Website also may use automated means to collect information regarding your interactions with these features. This information is subject to the privacy policies or notices of those providers, and MyUS.com is not responsible for these providers' information policies.
 
 If you elect to post any information to publicly-accessible areas of the Website, you hereby grant to MyUS.com a perpetual, worldwide, irrevocable, fully-paid-up, royalty-free, nonexclusive license to use, reproduce, copy, modify, publish, distribute, perform, display, and create derivative works from such information (in whole or part) for any reason whatsoever.
 
 ## How We Use the Information We Collect
 
-We use personal and non-personal information:
+We use Personal and non-Personal information:
 
-  1. To determine how much traffic the Website receives, to statistically analyze Website usage, to diagnose problems with our server, to improve Website content, to customize the Website's content, layout and services, and to otherwise provide the Website to you and other users; 
-  2. To process payments and complete transactions; 
-  3. To provide you with information regarding transactions or to otherwise contact you regarding administrative notice and communications related to your use of the Website; 
-  4. To send an initial, one-time greeting, to send you notices with respect to receiving and forwarding your packages, to occasionally email you notifications of any announcements at MyUS.com, and to send newsletters or special offers to members if you have requested that service;
+  1. To determine how much traffic the Website receives, to statistically analyze Website usage, to diagnose technical and service problems, to improve Website content, to customize the Website's content, layout and services, and to otherwise provide the Website to you and other users;
+  2. To process payments and complete transactions;
+  3. To provide you with information regarding transactions or to otherwise contact you regarding administrative notice and communications related to your use of the Website;
+  4. To send an initial, one-time greeting, to send you notices with respect to receiving and shipping your packages, to occasionally email you notifications of any announcements at MyUS.com, and to send newsletters or special offers to members if you have requested that service;
   5. To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;
   6. To fulfill the purpose for which you provide it;
-  7. As otherwise may be disclosed at the point of collection; and
-  8. For any other purpose with your consent.
+  7. To comply with applicable legal requirements and our policies;
+  8. As otherwise may be disclosed at the point of collection; and
+  9. For any other purpose with your consent.
 
 
 
-We do not sell, rent, or loan our email lists to outside firms. 
+We do not sell, rent, or loan our email lists to outside firms.
 
-We may retain the content of any emails or messages you send us, and your name, your email address, and our response in order to handle any follow-up questions you may have. We may also use this information to measure how effectively we address your concerns. 
+We may retain the content of any emails or messages you send us, and your name, your email address, and our response in order to handle any follow-up questions you may have. We may also use this information to measure how effectively we address your concerns.
 
 ## Information Sharing and Disclosure to Third Parties
 
-Non-Personal Information. Because non-personal information does not identify who you are, we may share or disclose such information without restriction. For example, we may share or disclose non-personal information with our affiliates, suppliers, employees and agents, other businesses, and the government. 
+Non-Personal Information. Because non-Personal information does not identify who you are, we may share or disclose such information without restriction. For example, we may share or disclose non-Personal information with our affiliates, suppliers, employees and agents, other businesses, and the government.
 
-Personal Information. MyUS.com may share or disclose your personal information: 
+Personal Information. MyUS.com may share or disclose your Personal information:
 
   1. To affiliated companies or other trusted businesses or persons who work on behalf of or with MyUS.com. MyUS.com may use third party service providers to host the Website or perform other Website functions, to help MyUS.com administer our business, or to communicate with you about offers or other information relevant to your relationship with MyUS.com. For example, we may provide your payment and financial information to third party service providers to process your payments and complete your transactions. All such third parties are subject to confidentiality obligations and are contractually obligated to maintain adequate security measures to protect your information;
   2. In response to subpoenas, to law enforcement or government officials for any reason, court orders, regulatory requests, or legal process, or to establish or exercise our legal rights or defend against legal claims;
@@ -62,23 +67,31 @@ Personal Information. MyUS.com may share or disclose your personal information:
 
 
 
-MyUS.com will not share or disclose your personal information except in accordance with this Privacy Policy without providing you with notice.
+MyUS.com will not share or disclose your Personal information except in accordance with this Privacy Policy without providing you with notice.
 
-## Transfer of Personal Information to the United States
+## Transfer of Personal Information
 
-MyUS.com is based in the United States. By providing your personal information and by using the Website, if you are located in a country other than the United States, you expressly consent to the transfer of your personal information to the United States where data protection laws may not be considered adequate when compared with the data security laws in your country, or may not be as stringent as such laws. You also expressly consent to the disclosure to third parties of your personal information which is transferred to the United States in accordance with this Privacy Policy and the Terms and Conditions. MyUS.com may use third party service providers, as mentioned in this Privacy Policy, that may be located in the United States or elsewhere in the world. By providing your personal information and by accessing or using the Website, you expressly consent to the transfer of your personal information to such third party service providers, wherever they may be located.
+We may transfer the Personal information we collect about you to countries other than the country in which the information originally was collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Privacy Notice and in accordance with applicable law. We use contractual protections for the transfer of Personal information among various jurisdictions (including, for example, the European Commission's standard contractual clauses).
+
+## Cookies
+
+You may be able to disable cookies or other tracking technologies through which we collect information about you by adjusting your browser preferences on your computer; however, doing so may limit your ability to take advantage of all of the features of the Website.
+
+MyUS.com does not control the cookies or other tracking technologies used by third parties, including our service providers. You should contact those third parties if you have questions or concerns regarding their use of cookies or other tracking technologies.
 
 ## Your Choices
 
-Upon written request and verification of your identity, we will provide you with your personal information in our possession. You may request such information by contacting us as described below. You may also update or correct your personal information in our possession by contacting us as described below or by updating your information through the Website.
+Upon written request and verification of your identity, we will provide you with your Personal information in our possession. You may request such information by contacting us as described below. You may also update or correct your Personal information in our possession by contacting us as described below.
 
-Please note that if you request we delete your information, that deletion may not happen immediately. We may retain your personal information subject to our reasonable business or legal requirements to do so, including, for example, to comply with requests from law enforcement.
+## Access, Correction and Deletion
 
-You may be able to disable cookies or other tracking technologies through which we collect information about you by adjusting your browser preferences on your computer; however, doing so may limit your ability to take advantage of all of the features of the Website. MyUS.com does not control the cookies or other tracking technologies used by third parties, including our service providers. You should contact those third parties if you have questions or concerns regarding their use of cookies or other tracking technologies.
+Subject to applicable law, (i) you may obtain a copy of certain Personal information we maintain about you or update or correct inaccuracies in that information through your MyUS.com account on MyUS.com (ii) you may have the right to obtain access to Personal information we maintain about you; or (iii) for certain Personal Information we hold about you to be deleted. Please note that if you request we delete your information, that deletion may not happen immediately. We may retain your Personal information subject to our reasonable business or legal requirements to do so, including, for example, to comply with requests from law enforcement.
+
+In each case you can contact us to exercise these rights as indicated in the "Contact Us" section of this Privacy Policy. To help protect your privacy and maintain security, we will take steps to verify your identity before granting you access to the Personal information. In addition, if you believe that Personal information we maintain about you is inaccurate, subject to applicable law, you may have the right to request that we correct or amend the information by contacting us as indicated below.
 
 ## Your California Privacy Rights; Do-Not-Track Disclosure
 
-California Civil Code Section § 1798.83 permits users of the Website that are California residents to request certain information regarding MyUS.com's disclosure of personal information to third parties for those third parties' direct marketing purposes. To make such a request, please contact us as described below.
+California Civil Code Section § 1798.83 permits users of the Website that are California residents to request certain information regarding MyUS.com's disclosure of Personal information to third parties for those third parties' direct marketing purposes. To make such a request, please contact us as described below.
 
 You browser may include a "do not track" setting that allows you to automatically send a signal about your privacy preferences to websites that you visit. MyUS.com is committed to protecting your privacy in accordance with this Privacy Policy, but we do not respond to "do not track" signals.
 
@@ -90,15 +103,129 @@ Our website contains affiliate marketing links, which means we may be paid commi
 
 ## Security
 
-MyUS.com takes security measures designed to protect against unauthorized access, alteration, disclosure, or destruction of your personal information. These measures include internal reviews of MyUS.com's practices and security measures, including a review of MyUS.com's encryption and physical security measures to guard against unauthorized access to systems where MyUS.com stores personal information. Due to the nature of the Internet and online communications, however, we cannot guarantee that any information transmitted online will remain absolutely secure or confidential, and we are not liable for the acts of third parties, such as hackers who circumvent our security and privacy measures. The security of your personal information also depends on you. You are responsible for maintaining the confidentiality of your username, suite number, password, and other login credentials. MyUS.com recommends that you do not share that information with third parties. We also recommend that you be careful not to post any personal information in public areas of the Website, such as the Blog, as that information may be viewed by other users or third parties that you do not know.
+MyUS.com takes security measures designed to protect against unauthorized access, alteration, disclosure, or destruction of your Personal information. These measures include internal reviews of MyUS.com's practices and security measures, including a review of MyUS.com's encryption and physical security measures to guard against unauthorized access to systems where MyUS.com stores Personal information. Due to the nature of the Internet and online communications, however, we cannot guarantee that any information transmitted online will remain absolutely secure or confidential, and we are not liable for the acts of third parties, such as hackers who circumvent our security and privacy measures. The security of your Personal information also depends on you. You are responsible for maintaining the confidentiality of your username, suite number, password, and other login credentials. MyUS.com recommends that you do not share that information with third parties. We also recommend that you be careful not to post any Personal information in public areas of the Website, such as the Blog, as that information may be viewed by other users or third parties that you do not know.
 
 ## Children Under the Age of 13
 
-MyUS.com is committed to protecting the privacy of children. MyUS.com does not knowingly collect personal information from children under the age of 13. If you are under 13, you may not use or provide any information to us through the Website. If a child under 13 provides us with personal information without parental or guardian consent, the parent or guardian may contact us as described below, and we will remove the information.
+MyUS.com is committed to protecting the privacy of children. MyUS.com does not knowingly collect Personal information from children under the age of 13. If you are under 13, you may not use or provide any information to us through the Website. If a child under 13 provides us with Personal information without parental or guardian consent, the parent or guardian may contact us as described below, and we will remove the information.
 
 ## Contact Us
 
 If you have any questions regarding this Privacy Policy or our privacy practices, please contact us at: <https://www.myus.com/about/contact/>.
+
+For written communications:
+
+4299 Express Lane  
+c/o Data Protection Officer  
+Sarasota, FL 34249 USA
+
+In addition, if you reside in the European Economic Area ("EEA"), we have appointed GDPR-Rep.eu as our representative according to Article 27 of the General Data Protection Regulation ("GDPR"):
+
+**Information according to Art. 27 EU GDPR**  
+Access USA Shipping LLC d/b/a MyUS.com is a company located outside of the European Union. In order to comply with Art. 27 EU GDPR, GDPR-Rep.eu has been nominated as our representative in the European Union. If you want to make use of your data privacy rights, please visit: [ Our public Privacy dashboard.](https://gdpr-rep.eu/q/15098217)
+
+For residents of the EEA, written communications may be addressed as follows:
+
+GDPR-Rep.eu  
+Iuro | Dr. Andreas Mätzler, Attorney at Law  
+c/o Access USA Shipping LLC d/b/a MyUS.com  
+Schellinggasse 3/10  
+1010 Vienna  
+Austria  
+Email: office@gdpr-rep.eu  
+Website: [www.gdpr-rep.eu](https://www.gdpr-rep.eu/)  
+Please add the following subject to all correspondence:  
+**DPI-REP ID: 15098217**
+
+## MyUS.com: Privacy Notice – EEA Addendum
+
+If you are a resident of the European Economic Area, the following additional EEA-specific provisions apply to our processing of your Personal information. For EEA residents, the provisions of this EEA Addendum prevail over conflicting provisions in the Privacy Notice.
+
+## Relevant Data Controller
+
+Access USA Shipping, LLC, collects Personal information. The relevant data controller for your Personal information is MyUS.com, located at:
+
+4299 Express Lane  
+Sarasota, FL 34249 USA
+
+You can contact these data controller as provided in the above section titled "Contact Us."
+
+## Information We Obtain
+
+We process names, email addresses and telephone numbers of others to whom we are asked to send information on the assumption that the person who provided the information obtained it in accordance with applicable law. If this assumption is incorrect, please do not ask us to send information to third parties on your behalf.
+
+We may need certain of your Personal information in order to provide services, such as street addresses to deliver packages, or to use our website or our apps, such as your IP address. In addition, we may be required by law to collect certain information, such as whether a package contains hazardous materials. Where such information is so required, we may be unable to provide you with our services unless you provide us with this information.
+
+In accordance with applicable law, we may obtain your consent separately before collecting information by automated means using cookies or similar devices.
+
+## How We Use The Information We Obtain
+
+The legal bases for which we collect, use, transfer or disclose your Personal information include (i) the performance of the contract we have with you, (ii) marketing, improvement of our services and other legitimate business interests, (iii) compliance with a legal obligation, and (iv) the protection of yours and others' vital interests. The corresponding purposes for which we process your Personal information are systematically included in the "How We Use the Information We Collect" section in the Privacy Notice above.
+
+We may process your Personal information based on your consent, where required by law, particularly in relation to additional services we provide, including providing information to you through direct marketing If we request your consent, we will inform you of the intended purposes for which your information will be processed. You are free to withdraw your consent at any time, but please note that if you choose to withdraw your consent, you may not be able to participate in or benefit from our programs, services and initiatives for which you provided consent. We also may use the information we obtain about you in other ways, but limited to those for which we provide specific notice at the time of we collect your Personal information.
+
+## Data Retention
+
+Your Personal information will not be stored for longer than is necessary to achieve the purposes for which it was collected or as required under applicable retention policies and/or in accordance with applicable law. Our retention policies reflect local statute of limitation periods, law enforcement obligations, and national statutory obligations of MyUS.com.
+
+## International Data Transfers
+
+If you are a resident of the EEA, we may transfer your Personal information to countries that have not been found by the European Commission to provide adequate protection for your Personal information, including the United States. For any such transfers, MyUS.com takes necessary measures to ensure that your Personal information receives an adequate level of protection. For further information about the international data transfer practices of MyUS.com, please contact us using the contact details in the "Contact Us" section above.
+
+## Your Personal Information Rights
+
+In addition to the right to access and correction, as specified above (under "Access, Correction and Deletion" in the main body of this Notice), you have (i) the right to request the transmission of the Personal information you have provided to us to you or another company, (ii) the right to object to any uses or disclosures of your Personal information, (iii) the right to withdraw your consent in relation to our processing of your Personal information based on your consent, (iv) the right to request deletion of your Personal information, subject to the limitations on this right as referenced under "Access, Correction and Deletion" above, and (iv) the right to request that we restrict processing of your Personal information, in each case in accordance with applicable law.
+
+You may exercise these rights free of charge unless the request is unfounded, excessive, or otherwise unreasonable, for instance because it is repetitive. In some situations, we may refuse to act or may impose limitations on your rights, as permitted by law. Before MyUS.com is able to provide you with any information or correct any inaccuracies, we may ask you to verify your identity and/or provide other details to help us respond to your request. For the exercise of your rights, please contact us using the contact information provided above in the "How to Contact Us" section. In all cases, you have a right to file a complaint with a Data Protection Authority.
+
+To exercise any of the rights in this section in relation to your Personal Information, please contact us at <https://www.myus.com/about/contact/>.
+
+## MyUS Shopping: Terms and Conditions
+
+The MyUS Shopping Terms and Conditions supplement MyUS.com’s general Terms and Conditions as they apply to Users using MyUS.com’s MyUS Shopping Program, where MyUS.com acts as both the USPPI and the User’s authorized agent in a routed export transaction.  
+Notwithstanding other language in the general Terms and Conditions that may be contrary, for MyUS Shopping transactions the following provisions apply.
+
+**A. Title Transferred Upon Payment to MyUS.com**
+
+The User agrees and acknowledges that (1) title of merchandise purchased through the MyUS Shopping program will transfer to the User when payment is made to MyUS.com and in all cases prior to export from the MyUS.com facility, and (2) in accordance with risk of loss terms, the User bears the full costs and risks of moving the goods to the Access USA warehouse. You acknowledge that you will serve as the Importer of Record into the destination country for all transactions conducted using the services of MyUS.com.
+
+**B. Payment:**
+
+The User will be charged for all MyUS Shopping orders. Acceptable methods of payment are credit card, debit card, PayPal, alternate local payment methods or credited funds available on your account. There is a MyUS Shopping fee for each order successfully processed. Fees for MyUS Shopping orders are:
+
+  * When using a credit or debit card for payment, 8% of the order total or minimum $10 per order, whichever is greater.
+  * When using PayPal for payment, 8% of the order total or minimum $10 per order, whichever is greater.
+  * When placing a MyUS Shopping order with more than 10 unique items per online merchant, there will be a $1 per unique item charge for every item over 10.
+
+
+
+**C. Large Orders / New Customers:**
+
+Limit 20 unique items per order.
+
+**D. Refunds:**
+
+MyUS Shopping refunds will be credited to your account. This credit will be applied to future MyUS Shopping orders, shipping costs or membership fees before we invoice your credit card on file. 
+
+**E. Shipping Policy:**
+
+All MyUS Shopping orders will be sent to your shipping address.
+
+**F. Cancel/Change Order:**
+
+Once a MyUS Shopping order has been processed, we may not be able to cancel it with the website or seller. Please refer to the seller's website for individual cancellation policies. Changes cannot be made once a MyUS Shopping order is successfully processed. If we are able to cancel the order, there may be a cancellation fee. Your account will be credited for the merchandise purchase amount. If you decide you do not want to receive the order, please notify our MyUS Shopping department to have the order returned when it arrives. You are responsible for all return shipping fees. Your MyUS.com account will be credited once the vendor receives the returned package and we have confirmed the refund.
+
+**G. Returns:**
+
+We will return any orders in accordance with the seller's return policy for items that arrive damaged or incorrect. The User is responsible for all return shipping fees. Your MyUS.com account will be credited once the vendor receives the returned package and we have confirmed the refund.
+
+**H. PayPal / eBay Orders:**
+
+If a seller is believed not to be a legitimate seller or is believed to have engaged in fraud, MyUS.com will submit an investigation request with PayPal on behalf of our User. PayPal will then attempt to recover any funds owed, but fund recovery is not guaranteed. All disputes must be submitted within 30 days from when the original payment was sent.
+
+**I. Order Arrival:**
+
+You will receive transactional emails about your order. We will wait until all packages in your order arrive and ship them together.
 
 Activation of the Member's account or use of services provided by Access USA Shipping, LLC (hereinafter "MyUS.com" or the "Website") will represent the Member's acceptance of this agreement (hereinafter "Agreement"), as set forth in the following Terms and Conditions, and the Member's authorization for [MyUS.com](https://www.myus.com/) to charge the Member's payment method for all future charges. Member also consents to MyUS.com's Privacy Policy, as outlined above. 
 
@@ -125,8 +252,8 @@ You agree to adhere to the following guidelines when using this Website:
   * You may not falsify the origin or source of information or material published, posted, advertised, distributed, disseminated, or uploaded.
   * You may not conduct or forward surveys, contests, chain letters, or commercial solicitations.
   * You may not download any material or information published, posted, distributed, disseminated, or uploaded by another user that you know, or reasonably should know, cannot be legally distributed in such manner.
-    * You may not provide personal information, as that term is defined in the Privacy Policy, of another person without his or her express permission.
-    * You may not provide personal information, as that term is defined in the Privacy Policy, of individuals under the age of 13.
+    * You may not provide Personal information, as that term is defined in the Privacy Policy, of another person without his or her express permission.
+    * You may not provide Personal information, as that term is defined in the Privacy Policy, of individuals under the age of 13.
   * You may not access or attempt to access MyUS.com's information technology systems, environments, networks, files, data or accounts to which express authorization has not been obtained, or log into a server that you are not authorized to access.
   * You may not attempt to circumvent or subvert system or network security mechanisms, or probe the security of any system, network, or account associated or used in conjunction with the Website.
     * You may not use the Website in any manner that could disable, overburden, damage, or impair the Website or interfere with any other person's use of the Website, including their ability to engage in real time activities through the Website.
@@ -137,39 +264,38 @@ You agree to adhere to the following guidelines when using this Website:
 
 
 
-Please do not post any personal information, as that term is defined in the Privacy Policy, on publicly accessible areas of the Website. If you elect to post any information to publicly-accessible areas of the Website, you hereby grant to MyUS.com a perpetual, worldwide, irrevocable, fully-paid-up, royalty-free, nonexclusive license to use, reproduce, copy, modify, publish, distribute, perform, display, and create derivative works from such information (in whole or part) for any reason whatsoever.
+Please do not post any Personal information, as that term is defined in the Privacy Policy, on publicly accessible areas of the Website. If you elect to post any information to publicly-accessible areas of the Website, you hereby grant to MyUS.com a perpetual, worldwide, irrevocable, fully-paid-up, royalty-free, nonexclusive license to use, reproduce, copy, modify, publish, distribute, perform, display, and create derivative works from such information (in whole or part) for any reason whatsoever.
 
 ## II. TERMS OF SERVICE
 
-* MyUS.com will provide the Member with a suite number at the Access USA facility in the United States at which the Member can have mail and/or merchandise delivered prior to export.
+  * MyUS.com will provide the Member with a suite number at the Access USA facility in the United States at which the Member can have mail and/or merchandise delivered prior to export.
+    * MyUS.com's services consist of acting as an agent of the Member for consolidation and export purposes by receiving the Member's merchandise, which will be sorted, packed, and consolidated. At the Member's direction, MyUS.com arranges for export to the Member's specified local address by an unaffiliated service provider, which acts as the freight forwarder and/or carrier for the shipment. MyUS.com does not act as an indirect air carrier of property, but rather acts as an agent of the shipper ( _i.e_., Members). All packages received by MyUS.com will be opened by representatives of the company. Members are responsible for all import obligations in the country to which all mail (for a Premium+Mail Member only) and packages will be sent. Members also authorize MyUS.com as its agent to authorize freight forwarder and/or carriers to conduct customs clearance and entry and to certify freight forwarder and/or carriers as the consignee solely for the purpose of designating a customs broker to perform customs clearance and entry.
+    * Members accept that freight forwarders and/or carriers reserve the right to open and/or inspect every shipment tendered to forwarders and/or carriers on behalf of an Access USA Member.
+  * For Premium+Mail Members, MyUS.com also will receive the Member's mail ( _i.e._ , letters, catalogs, and newspapers), MyUS.com cannot hold or store mail that will not fit into a 4 inch-tall mailbox. MyUS.com will notify the Member via e-mail once his/her mailbox is full, and the Member will have 5 days to either (a) request shipment of the mail or (b) request that MyUS.com discard the mail. If no reply is received from the Member, MyUS.com, in accordance with these terms, understands that the Member is directing MyUS.com to send the mail to the Member's address on record through an unaffiliated freight forwarder or carrier. Any charges generated directly from this activity, including taxes, customs duties, and service charges (including any charges that may be established in the future) will be the responsibility of the Member.
+  * The Member authorizes MyUS.com to charge his/her payment method for all services and/or account activity with MyUS.com. Such charges may include but are not limited to membership dues, shipping and handling charges, return/reroute fees, storage charges, late charges, and any optional services. Failure to provide payment for services rendered at the time of service may result in late charges, stop shipment charges, suspension of service, cancellation of membership, and involuntary return or the discarding of any remaining merchandise.
+  * If a Member's payment method is by credit card, and if such Member has an outstanding invoice or invoices, the Member authorizes MyUS.com to charge his/her credit card for the aggregate amount of such outstanding invoice or invoices in one or more credit card transactions. By way of example, if a Member has an outstanding invoice or invoices of $3,000 in the aggregate, the Company may either charge the Member's credit card (i) one time for $3,000, (ii) three times for $1,000 each or (iii) any other combination that in the aggregate equals $3,000.
+  * Shipping costs are based on the weight and dimensions of your shipments. Shipping costs will be charged according to the actual weight or dimensional weight, whichever is greater
+  * MyUS.com will allow active Premium and Premium+Mail Members to store their merchandise for up to 30 days at no charge. MyUS.com will allow active Basic Members to store their merchandise for up to 5 days at no charge. After 30 days for Premium and Premium+Mail Members, or after 5 days for Basic Members, the Member agrees to pay storage charges per box per day, consistent with MyUS.com's current schedule of fees
+  * Prohibited or restricted merchandise is not storable and will be rejected, forfeited (and sold with the proceeds donated to charity), destroyed, or provided to government officials
+  * Insurance costs for shipments of merchandise are based on the insured value. Each US $100 of insured value costs US $2.99. The insured value is subject to the terms and conditions of the particular carrier's airway bill(s). All claims are reviewed individually and any claim payment will be based on the declared value
+  * Claims for lost or damaged merchandise must be filed within the published time limits of the particular carrier. Claims are considered filed when a fully completed claim form, photograph(s), and supporting documentation, including receipts, are received by MyUS.com. Claims are reviewed individually and the review process will take a minimum of eight (8) weeks. Specific commodities, including televisions, computers, electronics, jewelry, figurines, furniture and lighting have limits of liability in case of loss or damage regardless of the declared value or insurance costs paid. Any liability for damage or loss caused after delivery to MyUS.com is limited to the lesser of either the declared value, proof of purchase price, or the specific commodity liability limit. No liability will be assumed by MyUS.com for damage or loss caused to any items before delivery to MyUS.com or caused to merchandise prepackaged by manufacturer. Failure to file a completed claim within the carrier time limit will invalidate the claim. MyUS.com has an Inland Marine insurance policy, with a liability limit of $500,000. MyUS.com does not maintain its own Aircraft Accident Liability Insurance coverage.
+  * Either party may cancel the Membership Agreement with written notice (via email, fax, letter, or, to the extent provided by the MyUS.com website, online). Upon cancellation, MyUS.com Members will receive a prorated refund on the unused portion of their annual membership charge. Annual membership refunds are based on the monthly membership usage rate for a Premium+Mail Membership and a Premium Membership listed in MyUS.com's current schedule of fees. Refunds will be processed within ten (10) business days of cancellation.
+  * Each Member, as collateral security for the prompt and complete payment and performance when due (whether at stated maturity, by acceleration or otherwise) of any amounts owed to MyUS.com by such Member, whether under these Terms and Conditions or otherwise (the "Secured Obligations"), hereby mortgages, pledges and hypothecates to MyUS.com and grants to MyUS.com a lien on and security interest in, all of its right, title and interest in, to and under any and all packages shipped by such Member to MyUS.com.
+  * If a Member's account charges become delinquent for more than thirty (30) days, MyUS.com may exercise, in addition to all other rights and remedies granted to it in these Terms and Conditions and in any other instrument or agreement securing, evidencing or relating to any Secured Obligation, all rights and remedies of a secured party under the Uniform Commercial Code or any other applicable law.
+  * Without limiting the generality of the foregoing, MyUS.com may, without demand of performance or other demand, presentment, protest, advertisement or notice of any kind (except any notice required by law referred to below) to or upon a Member or any other person (all and each of which demands, defenses, advertisements and notices are hereby waived to the extent permitted by law), during the continuance of any account delinquency (personally or through its agents or attorneys), (i) enter upon the premises where any and all packages shipped by such Member to MyUS.com are located, without any obligation to pay rent, through self-help to the extent permitted by law, without judicial process, without first obtaining a final judgment or giving a Member or any other person notice or opportunity for a hearing on MyUS.com's claim or action, except as may be required by applicable non-waivable laws, (ii) collect, receive, appropriate and realize upon any such packages and (iii) sell, assign, convey, transfer, grant option or options to purchase and deliver any such packages, in one or more parcels at public or private sale or sales, at any exchange, broker's board or office of MyUS.com or elsewhere upon such terms and conditions as it may deem advisable and at such prices as it may deem best, for cash or on credit or for future delivery without assumption of any credit risk, in each case, subject to applicable non-waivable laws. MyUS.com shall have the right, upon any such public sale or sales and, to the extent permitted by the Uniform Commercial Code and other applicable laws, upon any such private sale, to purchase the whole or any part of such packages so sold, free of any right or equity of redemption of a Member, which right or equity is hereby waived and released.
+  * Title to any items that cannot be exported after arrival at the MyUS.com facility will be forfeited by the Member. MyUS.com will have the option of returning all such forfeited packages/mail to the sender(s) and/or of discarding the items, including by (1) selling any items not returned to the seller and then providing the proceeds of such sales to charity, (2) destroying such items, or (3) providing such items to a government official.
+  * The Member agrees and acknowledges that he/she shall purchase any and all merchandise from Sellers in a manner that (1) transfers title to the Member prior to the time that the merchandise is received at the Access USA warehouse and (2) in accordance with risk of loss terms that provide either that the buyer or the Member bears the full costs and risks of moving the goods from the buyer's location to the Access USA warehouse.
+  * Monthly membership charges and setup charges are non-refundable. Shipping charges for non-members or cancelled customers are twice the rate of the shipping charges listed on the MyUS.com website.
+  * If a Member's account charges become delinquent for more than 30 days, MyUS.com may, at its sole discretion, cancel the Member's membership, process all packages and mail by returning the same to the sender, or discarding all packages and mail. The Member forfeits all claims to items abandoned in his/her mailbox once the membership is cancelled.
+  * Monthly and annual memberships are automatically renewed unless the Member advises MyUS.com in writing that he/she wishes not to renew his/her membership.
+  * There is no membership fee for a Basic Account. Charges of a Basic Account only are incurred for initial set up, processing, shipping, and other shipping-related services.
+  * Each package received by MyUS.com with an incomplete, incorrect, or old address that can be associated with a Member will be assessed a charge consistent with MyUS.com's current schedule of fees. Members should ensure that all merchants and sellers mark all packages with the complete and accurate address, including the Member's unique suite number that has been assigned for consolidation purposes. All packages received with incomplete, incorrect, or old addresses that cannot be associated with a Member will be returned to the Sender or discarded.
+  * All invoices past due for more than thirty (30) days will be assessed a flat fee plus a percentage per month late charge consistent with MyUS.com's current schedule of fees. Personal Shopper orders past due for more than fifteen (15) days will be assessed a flat fee plus a percentage per month late charge, consistent with MyUS.com's current schedule of fees, for each 15 day period that an order remains past due.
+  * The Member's MyUS.com suite number is to be used only for package consolidation purposes. **The Member will not represent that its MyUS.com suite number is its address for any purpose other than as the address to which packages may be delivered prior to export, including, but not limited to, representing that its MyUS.com suite number is the address of the Member's place of business or residence.** Failure to comply with this requirement may result in the cancellation of the Member's MyUS.com account.
+  * The Member is solely responsible for complying with any terms and conditions of sale that may be imposed by the seller of the merchandise. The Member acknowledges that MyUS.com is not responsible for any action taken by the seller with respect to the Member's order as a result of the seller's terms and conditions of sale.
+  *  **The Member also is responsible for informing the seller that any merchandise purchased and sent to MyUS.com's facility ultimately will be exported out of the United States. Additional information is provided in Subsection III.D ("Compliance with the Foreign Trade Regulations") below. It ultimately is the responsibility of the Member to ensure that the seller provides the export classification of the merchandise and determines if any export licenses are required for the merchandise. The Member must ensure that merchandise requiring an export license, or that is otherwise controlled for export, is not shipped to MyUS.com by the seller.**
 
-  * MyUS.com's services consist of acting as an agent of the Member for consolidation and export purposes by receiving the Member's merchandise, which will be sorted, packed, and consolidated. At the Member's direction, MyUS.com arranges for export to the Member's specified local address by an unaffiliated service provider, which acts as the freight forwarder and/or carrier for the shipment. MyUS.com does not act as an indirect air carrier of property, but rather acts as an agent of the shipper ( _i.e_., Members). All packages received by MyUS.com will be opened by representatives of the company. Members are responsible for all import obligations in the country to which all mail (for a Premium+Mail Member only) and packages will be sent. Members also authorize MyUS.com as its agent to authorize freight forwarder and/or carriers to conduct customs clearance and entry and to certify freight forwarder and/or carriers as the consignee solely for the purpose of designating a customs broker to perform customs clearance and entry.
-  * Members accept that freight forwarders and/or carriers reserve the right to open and/or inspect every shipment tendered to forwarders and/or carriers on behalf of an Access USA Member.
 
-
-* For Premium+Mail Members, MyUS.com also will receive the Member's mail ( _i.e._ , letters, catalogs, and newspapers), MyUS.com cannot hold or store mail that will not fit into a 4 inch-tall mailbox. MyUS.com will notify the Member via e-mail once his/her mailbox is full, and the Member will have 5 days to either (a) request shipment of the mail or (b) request that MyUS.com discard the mail. If no reply is received from the Member, MyUS.com, in accordance with these terms, understands that the Member is directing MyUS.com to send the mail to the Member's address on record through an unaffiliated freight forwarder or carrier. Any charges generated directly from this activity, including taxes, customs duties, and service charges (including any charges that may be established in the future) will be the responsibility of the Member.
-* The Member authorizes MyUS.com to charge his/her payment method for all services and/or account activity with MyUS.com. Such charges may include but are not limited to membership dues, shipping and handling charges, return/reroute fees, storage charges, late charges, and any optional services. Failure to provide payment for services rendered at the time of service may result in late charges, stop shipment charges, suspension of service, cancellation of membership, and involuntary return or the discarding of any remaining merchandise.
-* If a Member's payment method is by credit card, and if such Member has an outstanding invoice or invoices, the Member authorizes MyUS.com to charge his/her credit card for the aggregate amount of such outstanding invoice or invoices in one or more credit card transactions. By way of example, if a Member has an outstanding invoice or invoices of $3,000 in the aggregate, the Company may either charge the Member's credit card (i) one time for $3,000, (ii) three times for $1,000 each or (iii) any other combination that in the aggregate equals $3,000.
-* Shipping costs are based on the weight and dimensions of your shipments. Shipping costs will be charged according to the actual weight or dimensional weight, whichever is greater
-* MyUS.com will allow active Premium and Premium+Mail Members to store their merchandise for up to 30 days at no charge. MyUS.com will allow active Basic Members to store their merchandise for up to 5 days at no charge. After 30 days for Premium and Premium+Mail Members, or after 5 days for Basic Members, the Member agrees to pay storage charges per box per day, consistent with MyUS.com's current schedule of fees
-* Prohibited or restricted merchandise is not storable and will be rejected, forfeited (and sold with the proceeds donated to charity), destroyed, or provided to government officials
-* Insurance costs for shipments of merchandise are based on the insured value. Each US $100 of insured value costs US $2. The insured value is subject to the terms and conditions of the particular carrier's airway bill(s). All claims are reviewed individually and any claim payment will be based on the declared value
-* Claims for lost or damaged merchandise must be filed within the published time limits of the particular carrier. Claims are considered filed when a fully completed claim form, photograph(s), and supporting documentation, including receipts, are received by MyUS.com. Claims are reviewed individually and the review process will take a minimum of eight (8) weeks. Specific commodities, including televisions, computers, electronics, jewelry, figurines, furniture and lighting have limits of liability in case of loss or damage regardless of the declared value or insurance costs paid. Any liability for damage or loss caused after delivery to MyUS.com is limited to the lesser of either the declared value, proof of purchase price, or the specific commodity liability limit. No liability will be assumed by MyUS.com for damage or loss caused to any items before delivery to MyUS.com or caused to merchandise prepackaged by manufacturer. Failure to file a completed claim within the carrier time limit will invalidate the claim. MyUS.com has an Inland Marine insurance policy, with a liability limit of $500,000. MyUS.com does not maintain its own Aircraft Accident Liability Insurance coverage.
-* Either party may cancel the Membership Agreement with written notice (via email, fax, letter, or, to the extent provided by the MyUS.com website, online). Upon cancellation, MyUS.com Members will receive a prorated refund on the unused portion of their annual membership charge. Annual membership refunds are based on the monthly membership usage rate for a Premium+Mail Membership and a Premium Membership listed in MyUS.com's current schedule of fees. Refunds will be processed within ten (10) business days of cancellation.
-* Each Member, as collateral security for the prompt and complete payment and performance when due (whether at stated maturity, by acceleration or otherwise) of any amounts owed to MyUS.com by such Member, whether under these Terms and Conditions or otherwise (the "Secured Obligations"), hereby mortgages, pledges and hypothecates to MyUS.com and grants to MyUS.com a lien on and security interest in, all of its right, title and interest in, to and under any and all packages shipped by such Member to MyUS.com.
-* If a Member's account charges become delinquent for more than thirty (30) days, MyUS.com may exercise, in addition to all other rights and remedies granted to it in these Terms and Conditions and in any other instrument or agreement securing, evidencing or relating to any Secured Obligation, all rights and remedies of a secured party under the Uniform Commercial Code or any other applicable law.
-* Without limiting the generality of the foregoing, MyUS.com may, without demand of performance or other demand, presentment, protest, advertisement or notice of any kind (except any notice required by law referred to below) to or upon a Member or any other person (all and each of which demands, defenses, advertisements and notices are hereby waived to the extent permitted by law), during the continuance of any account delinquency (personally or through its agents or attorneys), (i) enter upon the premises where any and all packages shipped by such Member to MyUS.com are located, without any obligation to pay rent, through self-help to the extent permitted by law, without judicial process, without first obtaining a final judgment or giving a Member or any other person notice or opportunity for a hearing on MyUS.com's claim or action, except as may be required by applicable non-waivable laws, (ii) collect, receive, appropriate and realize upon any such packages and (iii) sell, assign, convey, transfer, grant option or options to purchase and deliver any such packages, in one or more parcels at public or private sale or sales, at any exchange, broker's board or office of MyUS.com or elsewhere upon such terms and conditions as it may deem advisable and at such prices as it may deem best, for cash or on credit or for future delivery without assumption of any credit risk, in each case, subject to applicable non-waivable laws. MyUS.com shall have the right, upon any such public sale or sales and, to the extent permitted by the Uniform Commercial Code and other applicable laws, upon any such private sale, to purchase the whole or any part of such packages so sold, free of any right or equity of redemption of a Member, which right or equity is hereby waived and released.
-* Title to any items that cannot be exported after arrival at the MyUS.com facility will be forfeited by the Member. MyUS.com will have the option of returning all such forfeited packages/mail to the sender(s) and/or of discarding the items, including by (1) selling any items not returned to the seller and then providing the proceeds of such sales to charity, (2) destroying such items, or (3) providing such items to a government official.
-* The Member agrees and acknowledges that he/she shall purchase any and all merchandise from Sellers in a manner that (1) transfers title to the Member prior to the time that the merchandise is received at the Access USA warehouse and (2) in accordance with risk of loss terms that provide either that the buyer or the Member bears the full costs and risks of moving the goods from the buyer's location to the Access USA warehouse.
-* Monthly membership charges and setup charges are non-refundable. Shipping charges for non-members or cancelled customers are twice the rate of the shipping charges listed on the MyUS.com website.
-* If a Member's account charges become delinquent for more than 30 days, MyUS.com may, at its sole discretion, cancel the Member's membership, process all packages and mail by returning the same to the sender, or discarding all packages and mail. The Member forfeits all claims to items abandoned in his/her mailbox once the membership is cancelled.
-* Monthly and annual memberships are automatically renewed unless the Member advises MyUS.com in writing that he/she wishes not to renew his/her membership.
-* There is no membership fee for a Basic Account. Charges of a Basic Account only are incurred for initial set up, processing, shipping, and other shipping-related services.
-* Each package received by MyUS.com with an incomplete, incorrect, or old address that can be associated with a Member will be assessed a charge consistent with MyUS.com's current schedule of fees. Members should ensure that all merchants and sellers mark all packages with the complete and accurate address, including the Member's unique suite number that has been assigned for consolidation purposes. All packages received with incomplete, incorrect, or old addresses that cannot be associated with a Member will be returned to the Sender or discarded.
-* All invoices past due for more than thirty (30) days will be assessed a flat fee plus a percentage per month late charge consistent with MyUS.com's current schedule of fees. Personal Shopper orders past due for more than fifteen (15) days will be assessed a flat fee plus a percentage per month late charge, consistent with MyUS.com's current schedule of fees, for each 15 day period that an order remains past due.
-* The Member's MyUS.com suite number is to be used only for package consolidation purposes. **The Member will not represent that its MyUS.com suite number is its address for any purpose other than as the address to which packages may be delivered prior to export, including, but not limited to, representing that its MyUS.com suite number is the address of the Member's place of business or residence.** Failure to comply with this requirement may result in the cancellation of the Member's MyUS.com account.
-* The Member is solely responsible for complying with any terms and conditions of sale that may be imposed by the seller of the merchandise. The Member acknowledges that MyUS.com is not responsible for any action taken by the seller with respect to the Member's order as a result of the seller's terms and conditions of sale.
-*  **The Member also is responsible for informing the seller that any merchandise purchased and sent to MyUS.com's facility ultimately will be exported out of the United States. Additional information is provided in Subsection III.D ("Compliance with the Foreign Trade Regulations") below. It ultimately is the responsibility of the Member to ensure that the seller provides the export classification of the merchandise and determines if any export licenses are required for the merchandise. The Member must ensure that merchandise requiring an export license, or that is otherwise controlled for export, is not shipped to MyUS.com by the seller.**
 
 Top of Page
 
