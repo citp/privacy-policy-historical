@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftcardzen.com privacy policy that was archived on 2018-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180304201912id_/https%3A//giftcardzen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftcardzen.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113181859id_/https%3A//giftcardzen.com/privacy) for the most accurate reproduction.*
 
 # Giftcard Zen - Buy, Sell, and Trade Gift Cards Online
 
