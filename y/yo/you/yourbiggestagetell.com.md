@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourbiggestagetell.com privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923190316id_/http%3A//yourbiggestagetell.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourbiggestagetell.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113184848id_/http%3A//yourbiggestagetell.com/privacy.php) for the most accurate reproduction.*
 
 # None
 
@@ -60,7 +60,7 @@ Attention: Beverly Hills MD Customer Service
 436 N Bedford Dr. STE 308  
 Beverly Hills, CA 90210
 
-or emailing customersupport@beverlyhillsmd.com. 
+or emailing customersupport@beverlyhillsmd.com.
 
 Your consent to this communications provision is not required to make any purchase with Beverly Hills MD.
 
