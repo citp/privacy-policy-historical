@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the snapfish.com.au privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614193255id_/https%3A//www.snapfish.com.au/store/privacy-overlay) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfish.com.au privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113234908id_/https%3A//www.snapfish.com.au/store/privacy-overlay) for the most accurate reproduction.*
 
 # privacy-overlay Snapfish
 
-Effective Date: 21/05/2018
+Effective Date: June 4, 2018
 
 **At Snapfish, we help you bring your photos to life. If you are a new snapper or a professional photographer, a proud parent or imaginable teenager, a passionate pet owner or an avid outdoor enthusiast, your privacy is important to us.**
 
@@ -332,7 +332,7 @@ Back to top
 
 ###### How Can You Contact Snapfish?
 
-If you have any questions or concerns about our Privacy Notice or our privacy practices, please contact us at [privacy@snapfish.com ](mailto:privacy@snapfish.com) or mail us at:
+If you have any questions or concerns about our Privacy Notice or our privacy practices, please contact [Customer Support](https://support.snapfish.com/hc/en-us?c=snapfishau) or mail us at:
 
 Attn: Snapfish Privacy
 
