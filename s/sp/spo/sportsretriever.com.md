@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsretriever.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628160035id_/http%3A//sportsretriever.com/sr-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsretriever.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113114111id_/http%3A//sportsretriever.com/sr-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sports Retriever
 
@@ -52,7 +52,7 @@ For avoidance of doubt, we may share anonymized or de-identified information wit
 
 8\. USING COOKIES AND OTHER TRACKING TECHNOLOGIES  
 We use certain monitoring and tracking technologies, including ones offered by third party service providers. These technologies are used in order to maintain, provide and improve our website on an ongoing basis, and in order to provide a better experience to our Users. For example, these technologies enable us to: (i) keep track of our Users’ preferences and authenticated sessions, (ii) secure our website by detecting abnormal behaviors, (iii) identify technical issues and improve the overall performance of our website, (iv) create and monitor analytics, and (v) deliver you targeted advertisements that are more tailored to you based on your browsing activities and inferred interests and track ad performance (For more information about this practice, click here: http://www.aboutads.info/choices/).  
-Please see our Cookie Policy at: [http://www.sportsretriever.com/cookie-policy/](http://www.sportsretriever.com/sr-cookie-policy/)  
+Please see our Cookie Policy at: <http://www.sportsretriever.com/cookie-policy/>  
 Learn more about your choices and how to opt-out of tracking technologies:  
 In order to delete or block any tracking technologies, please refer to the “Help” area on your internet browser for further instructions, or You may also opt out of third party tracking technologies by following the instructions provided by each third party service provider in its privacy policy listed above or visiting www.youronlinechoices.eu. Please note however that deleting any of our tracking technologies or disabling future tracking technologies may prevent you from accessing certain areas or features of our website, or may otherwise adversely affect your user experience.
 
