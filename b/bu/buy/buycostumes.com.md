@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buycostumes.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628083926id_/http%3A//www.buycostumes.com/info/21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buycostumes.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113231422id_/https%3A//www.buycostumes.com/pages/security-privacy) for the most accurate reproduction.*
 
-# BuyCostumes
+# Security and Privacy
 
 ## Do you have a security guarantee?
 
@@ -8,25 +8,18 @@ Absolutely. We take your business seriously and will use every precaution necess
 
 ### How do I remove my name from your mailing list?
 
-Follow the instructions below to remove yourself from any of our mailing lists:
+On the bottom of one of the emails, click the **Unsubscribe** link.
 
-  * ##### Our Email lists
-
-On our [email subscription page](https://web.archive.org/profile/footeroremailsub), enter in your email and select the "Unsubscribe" option.
-
-  * ##### All mailing lists
+##### All mailing lists
 
 Visit [DMAChoice Direct Marketing Association](http://www.dmachoice.org/), at [www.dmachoice.org](http://www.dmachoice.org/). The Direct Marketing Association is the leading trade association for business and non-profit organizations that send direct mail. Their site helps you manage the amount of mail you receive. You can request to stop receiving mail not only from individual companies but from whole categories of mailers including Credit Offers, Catalogs, Magazine Offers, and Other Mail Offers. This is a great site to take control of the amount of mail you receive but it could take up to three months for your removal request to process so you still may receive emails and/or catalogs until that time. 
-
-
-
 
 ### What is BuyCostumes.com's privacy policy?
 
 Last Updated: February 21, 2012.   
 Effective Date: February 26, 2012. 
 
-We at BuyCostumes.com value your business, and trust. Therefore, we will not sell, rent, or give away any customers' e-mail address to other businesses. We request your e-mail address so we can send you important information regarding your order (order confirmation, order processing, and tracking number). We may e-mail you coupons or discount offers in the future. We may also share information we collect at our site with other members of the BUYSEASONS family (BuyCostumes.com is owned by BUYSEASONS, Inc.). They may use this information to offer you products and services that may be of interest to you. 
+We at BuyCostumes.com value your business, and trust. Therefore, we will not sell, rent, or give away any customers' e-mail address to other businesses. We request your e-mail address so we can send you important information regarding your order (order confirmation, order processing, and tracking number). We may e-mail you coupons or discount offers in the future. We may also share information we collect at our site with other members of the BUYCOSTUMES.COM family. They may use this information to offer you products and services that may be of interest to you. 
 
 BuyCostumes.com tracks information about the visits to the site. For example, statistics are compiled that show the daily number of visitors to the site, the daily requests received for particular files on the site, and from what countries those requests come. BuyCostumes.com may also track information about our users browsing activity as they navigate through our site. These statistics are used to customize our Web site to better meet your needs and may also be provided to others, but we will not provide any personally identifiable information that may be associated with those statistics to any third parties.
 
@@ -52,7 +45,7 @@ We occasionally make portions of our mailing list available to carefully screene
 
 If you choose to post a product review, we will display your chosen user name and any additional identifying information that you agree for us to post, including but not limited to age, location, and gender. Any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. 
 
-From time to time, we may be required to disclose customer information in response to requests from law-enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our [Terms of Use](https://web.archive.org/info/217) or other agreements, or to protect ourselves or others. 
+From time to time, we may be required to disclose customer information in response to requests from law-enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our [Terms of Use](https://web.archive.org/pages/termsofuse) or other agreements, or to protect ourselves or others. 
 
 ### Your California Privacy Rights
 
@@ -80,4 +73,4 @@ If you have questions about our privacy policy, contact us at:
 
 ### What is BuyCostumes.com's Term of Use policy?
 
-For the complete details for our Terms of Use and other agreements, [click here](https://web.archive.org/info/217).
+For the complete details for our Terms of Use and other agreements, [click here](https://web.archive.org/pages/termsofuse).
