@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webce.com privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303162853id_/https%3A//www.webce.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webce.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113015008id_/https%3A//www.webce.com/help/privacy) for the most accurate reproduction.*
 
 # WebCE Online Privacy Statement | WebCE
 
@@ -92,7 +92,7 @@ Most browsers will accept cookies automatically from the site. You may refuse to
 
 You can find information on popular browsers and how to adjust your cookie preferences at the following websites: 
 
-  * Microsoft Internet Explorer: <http://www.microsoft.com/info/cookies.htm>
+  * Microsoft Internet Explorer: <https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies>
   * Google Chrome: <https://support.google.com/chrome/answer/95647>
   * Mozilla Firefox: <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>
   * Apple Safari: Blocks cookies by default. To change click Safari, Preferences, Security and choose your preference. 
