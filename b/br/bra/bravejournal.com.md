@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bravejournal.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190319id_/https%3A//www.bravenet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravejournal.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113231938id_/https%3A//www.bravenet.com/privacy-policy) for the most accurate reproduction.*
 
 # Bravenet Privacy Policy
 
@@ -86,7 +86,7 @@ our use of your Personal Information is necessary to support legitimate interest
 
 6\. ​Marketing Communications. 
 
-By using Bravenet’s Products and Services, you agree and consent to receive marketing communications from Bravenet or any of its affiliates or partners. To the extent you have not already done so during sign-up, you may select not to receive from Bravenet or any of our partners certain emails related to marketing, promotions or newsletters by following the unsubscribe instructions included in these emails or by [unsubscribing here](http://www.bravenet.com/unsub.php). You may also notify us through our help center, by email at abuse@bravenet.com or by mail at P.O. Box 1722 Suite 100 - 180 McCarter Street, Parksville, BC, Canada V9P 2H5.
+By using Bravenet’s Products and Services, you agree and consent to receive marketing communications from Bravenet or any of its affiliates or partners. To the extent you have not already done so during sign-up, you may select not to receive from Bravenet or any of our partners certain email related to marketing, promotions or newsletters by following the unsubscribe instructions included in these email or by [unsubscribing here](http://www.bravenet.com/unsub.php). You may also notify us through our help center, by email at abuse@bravenet.com or by mail at P.O. Box 1722 Suite 100 - 180 McCarter Street, Parksville, BC, Canada V9P 2H5.
 
 7\. Mailing Lists
 
@@ -96,7 +96,7 @@ When registering a Bravenet account, you may agree to subscribe to our Members U
 
 You have the following options for removing your information from our database to not receive future communications or to terminate your Bravenet account.
 
-All mailing lists have unsubscribe instructions contained at the bottom of the emails.
+All mailing lists have unsubscribe instructions contained at the bottom of the email.
 
 You can go to the Support Center to contact Bravenet support.
 
