@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dickblick.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922180412id_/https%3A//www.dickblick.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickblick.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113015051id_/https%3A//www.dickblick.com/privacy) for the most accurate reproduction.*
 
 # Security and Privacy - BLICK art materials
-
-## Security and Privacy
 
   * Security Statement
   * Privacy Statement
@@ -14,8 +12,7 @@
 
 
 
-###  Security Statement  
-
+##  Security Statement
 
 Dick Blick's checkout process is protected with Secure Sockets Layer (SSL), the standard for encrypted commercial transactions throughout the Internet. Shop safely on-line for art supplies with Dick Blick! SSL encrypts all personal information, including your name and credit card number, so that this information cannot be read as it travels through the Internet. 
 
@@ -27,8 +24,7 @@ Only those web pages where you actually enter your credit card and billing infor
 
 Return to Top
 
-###  Privacy Statement  
-
+##  Privacy Statement
 
 This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. You can choose to disable the Service at <http://www.clicktale.net/disable.html>. 
 
@@ -58,8 +54,7 @@ In the event DickBlick.com or substantially all of its assets are acquired or me
 
 Return to Top
 
-###  What if I don't want e-mail or catalogs?  
-
+##  What if I don't want e-mail or catalogs?
 
 At Blick Art Materials, we give you the option to change your privacy settings once you have logged into our website. While logged in, click on "My Account" (located on every page of our site, in the upper right corner). 
 
@@ -83,8 +78,7 @@ We try hard not to mail unnecessarily to current and prospective customers who d
 
 Return to Top
 
-###  What are cookies, and do you use them?  
-
+##  What are cookies, and do you use them?
 
 Cookies are bits of information your web browser stores on your computer to help a server (such as our website) communicate with you. These cookies are not accessible by any company or internet domain other than our own website located at dickblick.com. 
 
@@ -100,8 +94,7 @@ If you are concerned about cookies and want to avoid keeping them on your machin
 
 Return to Top
 
-###  What other information do you collect?  
-
+##  What other information do you collect?
 
 As you browse and order on our site, our servers log your activity and your path through dickblick.com, recording each request for a page as well as other information. Dick Blick collects and analyzes data about how visitors use this website, but we do not use this information to identify or contact individual users nor do we supply any data that could identify individual users to a third party. We use this data only to improve our site and our services. We do nothing with this information other than analyze it in aggregate, use it to diagnose occasional problems, or for audit purposes in the event of fraudulant or unscrupulous activity. 
 
@@ -109,15 +102,13 @@ We use a third-party service provider to serve ads on our behalf across the Inte
 
 Return to Top
 
-###  Ecommerce Disclosure  
-
+##  Ecommerce Disclosure
 
 In accordance with industry practices, our affiliates are compensated for links to our website. [Click here](https://web.archive.org/affiliates/) to learn more about our Affiliates Program. 
 
 Return to Top
 
-###  Policy Changes  
-
+##  Policy Changes
 
 Dick Blick provides its services to you subject to the preceeding policies which may be updated and/or revised from time to time by Dick Blick without notice to you, and which become effective when posted. Please refer to this page to review our most current policies and terms of use. 
 
