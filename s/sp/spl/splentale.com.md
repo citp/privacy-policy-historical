@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the splentale.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122213818id_/http%3A//www.splentale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splentale.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113225606id_/http%3A//splentale.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SplentaleSplentale
+# Privacy Policy | Splentale
 
 This Privacy Policy governs the manner in which Splentale collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.splentale.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Splentale.
 
@@ -24,7 +24,8 @@ Information you provide helps us respond to your customer service requests and s
 
 
 
-We may use the email address to send them information and updates pertaining to their order. How we protect your information
+We may use the email address to send them information and updates pertaining to their order.  
+How we protect your information
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
