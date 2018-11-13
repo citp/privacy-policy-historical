@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elegantthemes.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614212642id_/https%3A//www.elegantthemes.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elegantthemes.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114001041id_/https%3A//www.elegantthemes.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Elegant Themes
 
@@ -122,13 +122,13 @@ We use cookies, tracking pixels and related technologies on our website. Cookies
 
 Our website employs the use the various third party services. Through the use of our website, these services may place anonymous cookies on the Visitor's browser and may send their own cookies to the Visitor's cookie file. Some of these services include, but are not limited to: Google, Facebook, Twitter, Adroll, MailChimp, Sucuri, Intercom and other social networks, advertising agencies, security firewalls, analytics companies and service providers. These services may also collect and use anonymous identifiers such as IP Address, HTTP Referrer, Unique Device Identifier and other non-personally identifiable information and server logs. We do not control the use of these technologies. To learn more, [click here](https://web.archive.org/policy/tracking/). 
 
-You may opt-out from Google's cookies using their [Ad Settings](https://www.google.com/settings/u/0/ads/authenticated). You may also use the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/) to opt-out of some third party cookies. 
+You may opt-out from Google's cookies using their [Ad Settings](https://www.google.com/settings/u/0/ads/authenticated). You may also use the [Network Advertising Initiative opt-out page](https://www.networkadvertising.org/choices/) to opt-out of some third party cookies. 
 
 You can also opt out of non essential third party cookies that are used on our website. To control your cookie settings for our website, click here. 
 
 If I have Questions Concerning This Privacy Policy?
 
-If you have any questions or concerns about this Privacy Policy, please contact us at support@elegantthemes.com. 
+If you have any questions or concerns about this Privacy Policy, please contact us at support@elegantthemes.com.
 
 You can also write us at: 
 
