@@ -1,20 +1,30 @@
-> *The following text is extracted and transformed from the playrix.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629032511id_/http%3A//www.playrix.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playrix.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113110423id_/https%3A//www.playrix.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy - Playrix
 
-Privacy Policy for Playrix
+_Last modified: May 25, 2018_
 
-_Last modified: January 20, 2016_
+[Privacy Notice](https://web.archive.org/web/20181113110423id_/https%3A//www.playrix.com/eu_privacy/index.html) for the EU users of our software and our EU business partners and suppliers. 
 
 We have created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices.
 
 We reserve the right to change this policy from time to time, so be sure to check it periodically.
+
+  
+
+
+### Personal Information
 
 All personal details that you provide to our website are absolutely safe, private, and secure. We respect the importance of information security and confidentiality, and do not disclose them to outside sources.
 
 We do not share your information with any third parties, with the exception of verified and secure e-commerce payment providers. When placing orders, our e-commerce provider handles your personal information and keeps it absolutely safe and secure—in fact, even we cannot access your credit card information. Your personal information (excluding credit card data) is shared with us only for administration purposes.
 
 You can always choose not to provide your personal details, though they might be needed to make a purchase or take advantage of some of Playrix.com's specific features.
+
+  
+
+
+### Information Collection and Use
 
 Playrix collects personal information to improve the manner in which we operate and offer our products and services, communicate with you about those products and services, and provide effective, timely customer support when needed. We may collect the following information from our users:
 
@@ -35,15 +45,28 @@ We may use your Personal Information to contact you as needed, including but not
 
 In the event that local law requires, and/or if we believe it will help avoid liability or fraud, and/or to comply with legal processes, we may disclose or access information about you, including but not limited to sharing information with the government and other companies. Playrix does not have to and will not question governmental requests and processes.
 
-_Special Note about Children_
+  
+
+
+#### _Special Note about Children_
 
 According to our Terms of Use, you must be at least 13 years old to access and/or use our website and software.
 
 We do not collect information about children under the age of 13. In the event any personal information was collected, we will delete it as soon as possible if you contact us at: [contact@playrix.com](mailto:contact@playrix.com).
 
-We strongly recommend that minors aged 13-17 seek consent from a parent or legal guardian before accessing and/or using our website or Games and providing any private information. 
+We strongly recommend that minors aged 13-17 seek consent from a parent or legal guardian before accessing and/or using our website or Games and providing any private information.
+
+  
+
+
+### E-mail Newsletter
 
 Our newsletter is run on an opt-out basis, and we never send unsolicited emails. The only information gathered when users voluntarily sign up for our newsletter is their email address. This information is used solely by Playrix and is not sold to or used by any third party. Playrix uses this information exclusively to send our regular newsletter about product updates, new releases, and special offers. If you do not want to receive newsletters or other emails from us, you can unsubscribe from them at any time using the clear instructions found in every email we send.
+
+  
+
+
+### Security
 
 We have taken appropriate steps and followed industry standards to secure all personal data stored by our systems. All transactions are processed in keeping with the highest security level protocols, ensuring that no one can access or use personal information in an unauthorized manner.
 
@@ -51,33 +74,49 @@ However, while we take responsible measures to protect your Personal Information
 
 Please note that you can terminate your account at any time and request that we completely delete all of your data we have stored. Just contact us at: [contact@playrix.com](mailto:contact@playrix.com).
 
+  
+
+
+### Credit Card Transactions
+
 We do not store any credit card information (name, credit card number, and expiration date) for any purchases made on our site.
 
+  
+
+
+### External Links
+
 Our website and/or software may have links to other sites. We are not responsible for their content, activities, or the way they use the information they collect and/or you may provide to them. Please review their privacy policies.
+
+  
+
+
+### Third-Party Data Collection and Use of End-User Information
 
 When you use or connect to a Playrix’s website or download Playrix’s software via a third party platform — including Facebook — you allow us to access and/or collect certain information from your third-party platform profile/account. You additionally allow us to access information contained in cookies placed on your device by the third-party platform as permitted by the terms of your agreement and privacy settings with that platform. We may share this information with the third-party platform for their use as permitted by the terms of your agreement with and privacy settings on that platform.
 
 Our games may contain third-party tracking tools from our service providers, for example, Google Analytics. Such third parties may use SDKs, APIs, and cookies in our games to enable them to collect and analyze user information on our behalf. In order to provide their services, the third parties may have access to information such as your IP address, MAC address, geo-location, IMEI, and device identifier. For more information about Google Analytics’ privacy policy and opt-out opportunities, please visit this [link](https://www.google.com/policies/privacy/).
 
+  
+
+
+### Agreement with Playrix Policies
+
 By using the Playrix website, our products, or our services, you signify your understanding of and consent to the Playrix Privacy Policy. If you do not agree to this policy, we strongly urge you to refrain from using the Playrix website, products, and services.
 
-If for any reason you are concerned with the way that we may be using your personal information, you have questions about the privacy aspects of our products or services, or you wish to file a complaint, please contact us at: [contact@playrix.com](mailto:contact@playrix.com?subject=Privacy%20Policy).
-
-| 
-
-Useful Links:
-
-Contacts:
-
-General
-
-Customer Support
-
-Business Development
-
-Press  
   
----|---  
+
+
+### Advertising ID
+
+The advertising ID is a unique, user-resettable ID for advertising, provided by the mobile device’s operating system. We may use this ID to enhance serving and taregting capabilities, re-target specific campaigns, pass the ID to our partners. Advertising ID does not reveal any information about the user or the device. If you prefer to opt-out or reset your Advertising ID please follow these standard instructions:
+
+  * iOS - [Opt out of interest-based ads in the App Store and Apple News](https://support.apple.com/en-us/HT202074)
+  * Android - [Opt out of seeing personalized ads](https://support.google.com/ads/answer/2662922?hl=en)
+
   
-©2004-2016 Playrix®. 22 Puteiskaya St, Vologda 160000, Russia. All rights reserved.  
-All names are trademarks or registered trademarks of Playrix or their respective owners. 
+
+
+### Contact Us about Privacy
+
+If for any reason you are concerned with the way that we may be using your personal information, you have questions about the privacy aspects of our products or services, or you wish to file a complaint, please contact us at: [contact@playrix.com](mailto:contact@playrix.com).
