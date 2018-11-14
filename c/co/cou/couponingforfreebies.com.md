@@ -1,85 +1,92 @@
-> *The following text is extracted and transformed from the couponingforfreebies.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515021604id_/http%3A//wp.me/P1Og1y-6O) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponingforfreebies.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114112559id_/http%3A//wp.me/P1Og1y-6O) for the most accurate reproduction.*
 
 # Privacy Policy - Couponing for Freebies
 
-**What information do we collect?**
+## Who we are
 
-We collect information from you when you register on our site or subscribe to our newsletter.
+Hi, my name is Crystal and I am the owner of Couponing for Freebies website address is: http://couponingforfreebies.com. This Privacy Policy below will tell you in detail of what data this site collects and what it is used for.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.
+If you need to contact me you can send me an email to (me @ couponingforfreebies.com)
 
-Google, as a third party vendor, uses cookies to serve ads on your site.  
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+**Note that this Privacy Policy can be revised from time to time and will always be done on this page. The last update being May 24th, 2018. By using this site you agree to the terms of this Privacy Policy.**
 
-**What do we use your information for?**
+## What personal data we collect and why.
 
-Any of the information we collect from you may be used in one of the following ways:
+When you visit my site I automatically collect personal info such as,
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+  * Your IP address (aka Internet Protocol addresses)
+  * Type of browser you use.
+  * Your ISP (aka Internet Service Provider)
+  * The time, date and length of your visit.
+  * The pages you visit on this site.
+  * The site you came from and go to when you leave the site
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
 
-; To process transactions
+All of that data is collected and stored using Google Analytics (You can read Google’s privacy policy at: https://www.google.com/policies/privacy/). I collect it for administrative purposes so that I can see what types of things people like the most such as recycling, gardening, recipes and so on. Knowing the types of content that is most liked and from what areas helps me better understand what content to keep posting. I don’t want to waste your time or mine so it is better to narrow it down.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+## Comments
 
-; To administer a contest, promotion, survey or other site feature
+When you comment on this site I do ask for your name and email address. That is so I know the name of the person to replay to and if need be email you with a follow up if the answer cannot be covered in the comment area. When your comment publishes, it will show your name but not your email.
 
-; To send periodic emails
+You do have the right to comment without filling in the name, email or website if you choose to do so. It will still, however, collect your IP address and browser.
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+We collect the IP and, ISP and browser to help detect spam from bots and other abusive users.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, just contact us by email and we will take you of our email list..
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture (if you have one) is visible to the public in the context of your comment.
 
-**How do we protect your information?**
+## Cookies
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+We use cookies on this site. A cookie is small bits of data that are stored on your browser. There are two different types of cookies, a session cookie that will expire when you close your browser, and persistent cookie, which will stay on your browser until you delete it. These are used to provide you with a more personalized experience, analyze site traffic, and serve targeted advertisements.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+Most browsers do allow you to control the use of cookies and to delete cookies. You can visit the website of the browser you use for information on how to block and delete cookies. However, you deactivate the setting of cookies in your Internet browser, not all functions of this Website may be entirely usable.
 
-**Do we use cookies?**
+## Embedded content from other websites
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-**Do we disclose any information to outside parties?**
+## Who we share your data with
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We may share your information that we collect with trusted third parties. You do have the right to opt out of the sharing of your personal data. Each third-party service provider’s use of your information is dictated by their own privacy policies.
 
-**Third party links**
+This website currently uses the following third-party service providers:
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+  * Google Analytics – for collecting analytics data.  (You can read Google’s privacy policy at: https://www.google.com/policies/privacy/)
 
-**California Online Privacy Protection Act Compliance**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-**Childrens Online Privacy Protection Act Compliance**
+This third party list may be amended from time to time in this website’s sole discretion.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+Unless required by law, I will not sell, distribute, or reveal your personally identifiable information without your consent. However, we may disclose or transfer personal information that we have collected, to third parties if acquired all or a portion of our business. This may be from a result of a merger, consolidation, or purchase or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
-**Your Consent**
+## Anonymous Data
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+I may from time to time use anonymous data, that does not identify you alone to provide to other parties for marketing, advertising, or other uses. Such anonymous data may include analytics or information collected from cookies.
 
-**Changes to our Privacy Policy**
+## Advertising
 
-If we decide to change our privacy policy, we will post those changes on this page.
+Display Ads – We use third-party advertising companies such as Google to serve content and advertisements when you visit this site. They may use cookies, as noted above.
 
-**Contacting Us**
+## Affiliate Program Participation
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+I do engage in affiliate marketing. This is done by using tracking links on this site. When you click on an affiliate link, a cookie will be placed on your browser. This will track any purchases you make for purposes of commissions.
 
-http://couponingforfreebies.com
+## What rights you have over your data
 
-United States  
-me@couponingforfreebies.com
+Access, Update or Delete – You can at any time send an email to (me @ couponingforfreebies.com) to have the data we have collected from you (if any) accessed, have it updated or deleted.
+
+## Sensitive Personal Information
+
+At no time should you ever submit sensitive personal information to this Website. Sensitive personal information includes social security number, race or ethnic origin, criminal background, religious beliefs, health information, and so on. If you choose to submit such information to us, it will be subject to this Privacy Policy and the Couponing for Freebies site has no responsibility or liability for such information.
+
+## Children’s Privacy
+
+My website, products, and services are all directed to people who are at least 16 years old or older. By using this site you agree that you are at least 16 years of age or older. We do not knowingly collect any information from anyone under 16 years of age.
+
+_This policy was last updated on May_ 24th _, 2018_
+
+You may also want to read our [Disclosure Policy](http://couponingforfreebies.com/disclosure-policy/).
