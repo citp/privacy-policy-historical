@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the magazine3.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519113940id_/http%3A//magazine3.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazine3.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114012858id_/http%3A//magazine3.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Magazine3 Wordpress Themes
+
+## License:
+
+All our WordPress themes or Plugins are licensed under the GNU general public license. You may use your purchased theme or plugin on as many websites as you want. Please check your “readme.txt” in your folder after you download it.
+
+## Privacy Policy
 
 This Privacy Policy governs the manner in which Magazine3 collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://magazine3.com](http://magazine3.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Magazine3.
 
@@ -51,10 +57,10 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
 [Magazine3](http://magazine3.com/)  
-[http://magazine3.com](http://magazine3.com/)  
-RMK Commercial Complex,  
-Abids,  
-Hyderabad, Andhra Pradesh  
+[http://magazine3.com](http://magazine3.com/)
+
+Shangrila Plaza, 1st floor, Road Number 2, Park View Enclave, Jubilee Hills, Hyderabad, Telangana 500045
+
 Email: help@magazine3.com
 
-This document was last updated on June 15, 2014
+This document was last updated on September 7, 2018
