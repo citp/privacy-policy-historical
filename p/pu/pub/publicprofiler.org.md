@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicprofiler.org privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606103801id_/http%3A//www.publicprofiler.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicprofiler.org privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114123048id_/http%3A//www.publicprofiler.org/privacy.php) for the most accurate reproduction.*
 
 # Public Profiler
 
