@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therepublikofmancunia.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210234011id_/http%3A//therepublikofmancunia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therepublikofmancunia.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114011058id_/http%3A//therepublikofmancunia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,6 +59,10 @@ Conditions of Use
 
 If you decide to visit TheRepublikOfMancunia.com website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
 
+**Opting Out Of Interest-Based Ads**
+
+To opt out of interest based advertising, please [click here](http://optout.networkadvertising.org/#!/).
+
 Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of October 2008 and last updated October 2008.
+This Privacy Policy is effective as of October 2008 and last updated July 2018.
