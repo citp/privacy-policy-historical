@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krazydad.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175409id_/https%3A//krazydad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krazydad.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114221018id_/https%3A//krazydad.com/privacy) for the most accurate reproduction.*
 
 # Krazydad Privacy Policy
 
@@ -10,7 +10,7 @@ In both cases I may obtain your name and e-mail address. Paypal asks for additio
 
 For more information about PayPal's privacy policies, see [Privacy Policy webpage](https://cms.paypal.com/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_US).
 
-Google, as a third party vendor, uses cookies to serve ads on Krazydad. Google's use of the DoubleClick cookie enables it to serve ads to visitors based on their visit to this site and other sites on the Internet. You may opt out of the use of the DoubleClick cookie by visiting the [Google ad and content network privacy policy website](http://www.google.com/privacy/ads/).
+Until January of 2018, I ran ads from Google on the website. I no longer run ads on most of the site, however I still run ads on the interactive (online) puzzles. Google, as a third party vendor, uses cookies to serve ads on Krazydad. Google's use of the DoubleClick cookie enables it to serve ads to visitors based on their visit to this site and other sites on the Internet. You may opt out of the use of the DoubleClick cookie by visiting the [Google ad and content network privacy policy website](http://www.google.com/privacy/ads/).
 
 **What do I use your information for?**
 
@@ -30,7 +30,7 @@ I use cookies to understand and save your preferences for future visits and to c
 
 **Do I disclose any information to outside parties?**
 
-I do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+Heck no! I do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
 
 **California Online Privacy Protection Act Compliance**
 
@@ -50,7 +50,7 @@ dad@krazydad.com
 
 * * *
 
-Copyright © 2017 by KrazyDad. All Rights Reserved.  
+Copyright © 2018 by KrazyDad. All Rights Reserved.  
 [Privacy Policy](https://web.archive.org/privacy/)  
 [Contact Krazydad](https://krazydad.com/contactme.php)  
 
