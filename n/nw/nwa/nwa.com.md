@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwa.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620230215id_/http%3A//www.delta.com/content/www/en_US/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwa.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114122805id_/https%3A//www.delta.com/en_US/privacy-and-security) for the most accurate reproduction.*
 
 # Cookies, Privacy & Security : Delta Air Lines
 
@@ -7,7 +7,7 @@
 All information described in this Privacy Policy is processed by Delta Air Lines, Inc. ("Delta", "we", "us", or "our") as data controller. This Privacy Policy describes our practices related to the use, storage, and disclosure of personal information we collect from or about you when you interact with us in the course of our providing commercial air travel services, ancillary services, or other services provided by us or by others acting on our behalf, including when you use our website Delta.com ("Website") or our Fly Delta App ("App"). This Privacy Policy also describes our processing of the personal data of individuals representing our business customers and suppliers.   
 **Delta reserves the right to modify this Privacy Policy at any time and without prior notice.**  We will post any changes to our Website. This Privacy Policy is not a contract and does not create any contractual rights or obligations.
 
-**2\. HOW TO CONTACT US**
+**2\. HOW TO  **
 
 If you have any questions or comments regarding this Privacy Policy, please contact our Data Protection Officer at [Privacy@delta.com](mailto:Privacy@delta.com) or contact our [Customer Care](https://web.archive.org/content/www/en_US/support/talk-to-us/customer-care-offices.html) center by telephone or post.
 
@@ -126,6 +126,8 @@ We use this information to:
 
 ·      share it with authorized government agencies and as otherwise described in  **section 7**.
 
+·      Share it for luggage security screening to enable you to travel within and between countries.
+
 | 
 
 We use this information because:
@@ -148,9 +150,13 @@ We use this information because:
 
 ·   we must comply with certain regulatory requirements regarding emergencies and otherwise in relation to operating passenger flights. We also have a legitimate business interest in complying with legal and regulatory  requirements applicable in and outside the European Economic Area (“EEA”);
 
-·   we and third party airlines have a legitimate business interest in making and operating connections between multiple flights;
+·   we and third party airlines have a legitimate business interest in making and operating connections between multiple flights and expediting baggage clearance across international borders;
 
-·   we and our [SkyMiles Partners](https://www.delta.com/content/www/en_US/skymiles/how-to-earn-miles/airline-partners.html) **,  **Promotional Partners and other businesses that are providing services that you request have a legitimate business interest in using the information to provide their services.  
+·   we and our [SkyMiles Partners](https://www.delta.com/content/www/en_US/skymiles/how-to-earn-miles/airline-partners.html) **,  **Promotional Partners and other businesses that are providing services that you request have a legitimate business interest in using the information to provide their services;
+
+·      we have a legitimate business interest in protecting against risks to passenger and aircraft;
+
+·      we have a legitimate business interest in streamlining customs clearance processes for our customers.  
   
 b.
 
@@ -162,7 +168,9 @@ b.
 
 ·         Advance Passenger Information such as passport or other travel document number (including machine-readable information), nationality, issue date and location, expiry date, and country of residence;
 
-·         information from the Department of Homeland Security or similar authorities responsible for security in other countries, if traveling from certain airports.
+·         information from the Department of Homeland Security or similar authorities responsible for security in other countries, if traveling from certain airports;
+
+·         biometric information (such as finger, face or iris).
 
 | 
 
@@ -172,7 +180,7 @@ We use this information to:
 
 ·         comply with legal and regulatory requirements;
 
-·         confirm your identity at check-in, bag check location, security checkpoints, and when boarding the aircraft;
+·         verify and authenticate your identity at check-in, bag check location, security checkpoints, for lounge access, and when boarding the aircraft;
 
 ·         maintain the operational availability and reliability of our IT systems with infrastructure backups and testing (which may use a copy of live data where test data is not practical);
 
@@ -194,7 +202,7 @@ c.
 
 | 
 
-Information related to your  **membership**   **in our Delta Sky Club, the SkyMiles Program,  **or activities within our [ **SkyMiles Partners**](https://www.delta.com/content/www/en_US/skymiles/how-to-earn-miles/airline-partners.html) and  **Promotional Partners** , including:
+Information related to your  **membership**   **in our Delta Sky Club, the SkyMiles Program,  **or activities with our [ **SkyMiles Partners**](https://www.delta.com/content/www/en_US/skymiles/how-to-earn-miles/airline-partners.html) and  **Promotional Partners** , including:
 
 ·      your name and contact details;
 
@@ -523,7 +531,7 @@ We use this information to:
 
 ·      tailor our products and services for you based on this information alone and in combination with other information we have about you;
 
-·      administer your company’s SkyBonus program benefits;
+·      administer your company’s SkyBonus program and other corporate travel benefits;
 
 ·      send you or your company marketing communications, offers, and invitations to events, which may be based on segmentation and modelling of your personal information;
 
@@ -533,7 +541,7 @@ We use this information to:
 
 We use this information because:
 
-·   we have a legitimate business interest in performing our contracts with our suppliers and other business;
+·   we have a legitimate business interest in performing our contracts with our corporate customers, suppliers and other business;
 
 ·   we have a legitimate business interest in developing our business with our corporate customers;
 
@@ -703,7 +711,7 @@ EU visitors can find general information and opt-out resources at [https:// **y
 
 You may opt out of  _all information_  collected via the App by uninstalling it. You may use the standard uninstall, application, and data management processes available through your mobile device. Once you have uninstalled the App, all information that is stored in the App is deleted, including any preferences you previously set for location permissions and whether you have allowed Delta to send you push notifications. Once the App is uninstalled and preferences are deleted, push notifications from the App will stop. You may also refrain from using application features that collect specific types of data. 
 
-You may at any time opt out from allowing the App’s access to your location data by disabling location tracking features as provided in your mobile device settings.
+You may at any time opt out from allowing the App’s access to your location data by disabling location tracking features as provided in your mobile device settings. If you use our App without disabling location tracking features, you consent to our use of your location data as provided in section 4.1 of this Privacy Policy.
 
 The “limited tracking” or similar advertising-related privacy settings offered by device manufacturers do not change how your device is tracked by Delta.
 
@@ -735,13 +743,29 @@ If your ticket is purchased pursuant to a corporate incentive agreement, we may 
 
 When you use the App, a unique ID (which varies by device manufacturer and operating system) is read from or associated with your device to be used as an anonymous identifier for analytics and performance purposes. This ID might be generated by or shared with third parties providing us with analytics services, such as Adobe.
 
-7.2.  **Sharing With Social Media**
+7.2.  **Social Media**
 
-You may wish to share information and activities from our Website and App with social media platforms. To utilize social media sharing features, you will be prompted to grant permissions within those platforms, as you choose. For example, you will need to allow account login and publishing permissions. To facilitate login, the App will store your account credentials for the appropriate social media platform. The activity on these platforms, the data processed, stored, and provided to them on these platforms, including data from our Website and App, is covered by the terms and conditions and privacy policy of those platforms.
+You may wish to share information regarding your travel or other activities with Delta on social media platforms provided by third parties. To utilize social media sharing features, you will be prompted to grant permissions within those third-party platforms, as you choose. For example, you will need to allow account login and publishing permissions. If you choose to contact or interact with us on a third-party social media platform, you understand that you are responsible for reviewing and understanding the terms and conditions and privacy policy applicable to the third-party platform. The activity on third-party social media platforms, and the data processed, stored, and provided on them, including data regarding interactions with Delta, is covered by the terms and conditions and privacy policy of those third-party platforms.  
+
 
 7.3.  **Disclosure of personal information to passengers travelling under the same booking**
 
 When you make a booking, you will be provided with a booking reference such as a confirmation number or record locater number. Your booking reference should be kept confidential at all times. Disclosing your booking reference to other passengers may allow them to access your booking details through our systems. If you are travelling with others under the same booking and would not like your individual booking details to be disclosed to them, you may prefer to have each person make and pay for separate bookings.
+
+7.4.  **Delta Biometrics optional facial recognition technology at participating airports**
+
+Our customers at certain participating airports in the United States (currently, Hartsfield-Jackson Atlanta International Airport Terminal F), including customers flying on Aeromexico, Air France-KLM or Virgin Atlantic, will have the option of using facial recognition technology when flying direct to an international destination to:
+
+  * Check-in at the self-service kiosks in the lobby;  
+
+  * Drop checked baggage at the counters in the lobby;
+  * Serve as identification at the TSA check point;
+  * Board the aircraft at the departure gate; and
+  * Go through U.S. Customs and Border Protection (CBP) processing when arriving into the U.S. on an international flight.
+
+
+
+Any Delta Biometrics experience or biometric test with Delta is optional. If you choose to use facial recognition at a participating airport, your image, once captured, is encrypted and sent to CBP. To protect the security and privacy of your image, no additional information, such as name, document number, or date of birth, is sent with the image. CBP uses your image to verify your identity by comparing your image against images associated with your passport, other travel documents, or prior CBP border inspections, and Delta receives confirmation of your identity from CBP. Delta does not retain your biometric information. If you are a U.S. citizen, CBP deletes your image following verification in accordance with CBP policy. For certain non-U.S. citizens, CBP uses your image as biometric confirmation of departure from the United States. For more information, visit [www.CBP.govopens in a new window](http://www.cbp.gov/).
 
 8.  **CORRECTING OR UPDATING YOUR INFORMATION OR MARKETING PREFERENCES**
 
@@ -749,7 +773,7 @@ If you believe that any information we hold about you is incorrect or incomplete
 
   * You can log in and visit our [SkyMiles Partners](https://web.archive.org/content/www/en_US/skymiles/how-to-earn-miles/airline-partners.html) ** ** and Promotional Partners ** ** on our Website if you want to modify your subscription, email or contact preferences.
   * You can withdraw consent you have given us to process your information at any time by opting out in your SkyMiles Profile, or by contacting us by using the [ **Email Us**](https://www.delta.com/contactus/commentComplaint) page.
-  * You may contact us by using the  **[Email Us](https://web.archive.org/contactus/commentComplaint)** ** ** page if you have questions about removing your name from our subscription lists.
+  * You may by using the  **[Email Us](https://web.archive.org/contactus/commentComplaint)** ** ** page if you have questions about removing your name from our subscription lists.
   * You may call our Customer Care Offices at +1-404-773-0305 if you have any questions about changing your contact preference or require assistance in removing your name from our subscription lists.
   * Assistance in changing contact preferences for those with disabilities is available at +1-404- 209-3434.
 
@@ -851,7 +875,7 @@ Or, you can submit this request to our Data Protection Officer by emailing us at
 
 10.  **MINORS**
 
-Other than information required to complete a booking, Delta does not knowingly collect personal identifiable information from children under the age of 13. If a child under 13 has provided us with personal information without parental or guardian consent, the parent or guardian may contact us by emailing us at [Privacy@delta.com](mailto:Privacy@delta.com). We will remove the information and unsubscribe the child from any of our electronic marketing lists. Where required by applicable law, we may ask children for consent from their parents or guardians before we book their flight or provide a product or service to them.
+Other than information required to complete a booking, Delta does not knowingly collect personal identifiable information from children under the age of 13. If a child under 13 has provided us with personal information without parental or guardian consent, the parent or guardian may by emailing us at [Privacy@delta.com](mailto:Privacy@delta.com). We will remove the information and unsubscribe the child from any of our electronic marketing lists. Where required by applicable law, we may ask children for consent from their parents or guardians before we book their flight or provide a product or service to them.
 
 11.  **LINKS**
 
