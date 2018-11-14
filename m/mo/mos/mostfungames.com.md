@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mostfungames.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608233046id_/http%3A//www.mostfungames.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mostfungames.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114154503id_/http%3A//www.mostfungames.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - MostFunGames.com
 
