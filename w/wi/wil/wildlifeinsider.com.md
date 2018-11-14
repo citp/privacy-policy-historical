@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildlifeinsider.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623002228id_/http%3A//wildlifeinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildlifeinsider.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114074312id_/http%3A//wildlifeinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wildlife Insider
 
@@ -116,7 +116,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 **  
 If at any time you would like to unsubscribe from receiving future emails, you can**
 
-**•** Email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will promptly remove you from ALL correspondence.
+**•** Email us at contact@wildlifeinsider.com and we will promptly remove you from ALL correspondence.
 
 **Contacting Us**
 
@@ -127,5 +127,7 @@ WildlifeInsider
 812 Dewitt Ave.
 
 Encinitas, CA, 92024
+
+Contact@wildlifeinsider.com
 
 Last Edited on 2016-01-13
