@@ -1,31 +1,37 @@
-> *The following text is extracted and transformed from the netsize.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227003334id_/http%3A//www.netsize.com/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsize.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114170648id_/http%3A//www.netsize.com/privacy-statement) for the most accurate reproduction.*
 
-# Online privacy policy | Netsize
+# Privacy Statement – Netsize
 
-## Collection of your personal information
+The terms and conditions covering our privacy follows the privacy policy of the corporate group Gemalto to which we belong (the “Gemalto’s Privacy Policy”). You can read the Gemalto’s Privacy Policy by accessing the website [www.gemalto.com ](http://www.gemalto.com/)(the “Gemalto website”) clicking the tab “Disclaimer” at the bottom of this website and selecting “Privacy Policy”. When reading the Gemalto’s Privacy Policy we ask you to take note of the following differences with respect to our privacy:
 
+1- The registrant of the domain name is Netsize SA located in France.  
+2- The definition of “On-Line Service” also applies to all Netsize websites.  
+3- You can contact and/or engage in communication with us by clicking “Contact us”.  
+4- When you click the tab “Disclaimer” at the bottom of the Gemalto website you are directed to a page that gives you access to the “Cookie Policy”. The table in the Cookie Policy is replaced with the following table that is geared to Netsize use of cookies:
+
+Cookie Name | Service | Purpose | More Information  
+---|---|---|---  
   
-By filling out registration forms on the Netsize website you agree to communicate your personal data to a related Netsize service.
+visitor_idXXXXX, lpvXXXXX, pardot, visitor_idXXXXX-hash  
+where XXXXX is a 5-digit number which is the same per browser
 
-In compliance with [the French Data Protection Law of the 6th January 1978](http://www.cnil.fr/index.php?id=45), personal information use is strictly subject to the goal delimited within each registration form. Netsize does not transfer personal information to other services which are not related to the said final goals or to any third parties.
+| Pardot | 
 
-Personal information collected on the Netsize website is stored in France and may be processed in France or in any other country where Netsize has its affiliates.
+A B2B Marketing Automation provider that increases revenue and maximizes efficiency for companies with multi-touch sales cycles. Pardot’s lead management software features CRM integration, email marketing, lead nurturing, lead scoring, and ROI reporting to help marketing and sales teams work together to generate and qualify sales leads, shorten sales cycles, and demonstrate marketing accountability.
 
-Netsize collects and uses your personal information to operate and improve its products and services. These uses may include providing you with more effective customer service; making the site or services easier to use; performing research and analysis aimed at improving our products and services.
+| ​Data collected: Anonymous (Browser Information, Cookie Data , Date/Time, Page Views )  
+Pseudonymous (IP Address (EU PII), Location Based Data)<http://www.pardot.com/legal/privacy-policy/>  
+Google Analytics |  | Google Analytics gives you insights into your website traffic and marketing effectiveness. We help you buy the right keywords, target your best markets, and engage and convert more customers. | [http://www.google-analytics.com/analytics.js](https://www.ghostery.com/gcache/?n=Google%20Analytics&s=http%3A%2F%2Fwww.google-analytics.com%2Fanalytics.js&v=2&t=script)  
+  
+Please note that in the future we may be using other cookies, hence we may modify the table but such modification could be implemented after the new cookie(s) is/are already in place. If you want to have an accurate list of the cookies we are using you can install Ghostery (a product of Ghostery, Inc.) which is easy-to-use browser plug-in to see and manage the information a website share with companies online.
 
-Netsize keeps personal information during a reasonable time period necessary to fulfill the final goals of the filled form.
+5- Since we are not selling our products via our website we are not collecting credit card information.  
+6- You may request to be removed from marketing communication by sending an email to events@netsize.com. Also, you may update or change your registration information by using the link “Update your preferences” available in all email communications.  
+7- Note that the platform where your information is being processed is located in France.  
+8- On the top page of our website there is a tab called “[Customer Support](http://www.netsize.com/consumer-support/)”. Clicking on this tab you are directed to the “Consumer Support” page. This page is made available to you because as part of our line of services we offer and provide to our clients “Customer Support” services. Thus, the content providers with whom you are dealing with could direct your customer support request to us. In such event you will enter in contact with us to obtain customer support, by doing so we may have to provide certain personal information. Consequently, we want you to take note of the following terms complement the paragraph 5 of the [Gemalto Privacy Policy](http://www.gemalto.com/companyinfo/privacy-policy).
 
-Netsize is committed to protecting the security of your personal information.
+“Service Providers” means any subcontractor with whom we have an ongoing business relationship to provide consumer support services.
 
-We take technical measures and apply a suitable organization to protect personal information from modification, distribution, casual or illegal damage, accidental loss or non-authorized access.
+Please be aware that, in providing services on our behalf, our Service Providers may collect personal information about you. All such Service Providers who receive personal information on behalf of Netsize are required to use this information for the purposes and in the manner we have instructed them. The Service Providers may be globally located wherever we operate. Clicking on the tab “[CALL YOUR LOCAL HELP DESK](http://www.netsize.com/consumer-support/#)” you have the list of the available local help desks that are located in different countries of the world. Thus, be aware that depending of the help desk you are calling your personal data maybe collected in such country.
 
-We store the personal information provided on computer systems with limited access, which are located in controlled facilities.
-
-The information collected is used for, commercial, promotional, recruitment or informational purposes only by Netsize and its foreign offices.
-
-We may also use your personal information to communicate with you, by sending newsletters, press releases, information on online seminars, events, etc.
-
-According to articles 39 and 40 of [the French Data Protection Law of the 6th January 1978](http://www.cnil.fr/en-savoir-plus/textes-fondateurs/loi78-17/#Article39) you are entitled to exercise your right to access, modify or delete your personal data.  
-
-
-Please use the links sent to you in Netsize emailings or through the [Update your Profile](https://web.archive.org/profile-update/) online form.
+8- Questions regarding this privacy policy have to be directed to our Legal Department at Netsize SA, 6 rue de la Verrerie, Meudon 92197, France].
