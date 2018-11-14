@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tureng.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514190431id_/http%3A//tureng.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tureng.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114032534id_/http%3A//tureng.com/en/privacy) for the most accurate reproduction.*
 
 # Tureng - Privacy Policy
 
@@ -28,4 +28,4 @@ If Tureng is required by law to disclose certain information to local, national 
 
 ## Contacting Tureng
 
-If you have any questions about Tureng’s Privacy Policy, or if you want to know what information Tureng has collected about you, please email tureng@tureng.com. You can also correct any factual errors in that information or ask Tureng to remove your details form any database under Tureng’s control. 
+If you have any questions about Tureng’s Privacy Policy, or if you want to know what information Tureng has collected about you, please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) You can also correct any factual errors in that information or ask Tureng to remove your details form any database under Tureng’s control. 
