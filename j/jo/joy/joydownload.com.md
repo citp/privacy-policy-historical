@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the joydownload.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614003319id_/http%3A//www.joydownload.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joydownload.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114014044id_/https%3A//www.joydownload.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Joydownload.com
 
 Privacy Policy 
 
-http://www.joydownload.com/ (“We” or “ Joydownload.com ”) know that you care about how your personal information is used and shared, and We take your privacy seriously.
+https://www.joydownload.com/ (“We” or “ Joydownload.com ”) know that you care about how your personal information is used and shared, and We take your privacy seriously.
 
-This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) and other information We gather when you are accessing our website at [ http://www.joydownload.com/ ](http://www.joydownload.com/) (the “Site”).
+This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) and other information We gather when you are accessing our website at [ https://www.joydownload.com/ ](https://www.joydownload.com/) (the “Site”).
 
 In addition, this Privacy Policy also covers our treatment of Personal Information and other information We gather when you use any of our services or products, including the wrapper installation utility.
 
@@ -16,7 +16,7 @@ Please note this policy does not apply to (and We are not responsible for) the p
 
 1\. SUMMARY OF OUR PRIVACY POLICY
 
-This Privacy Policy pertains to the http://www.joydownload.com/ Site and to the products and services available through the Site. To better explain what information We collect, and how We use the information We collect, We have broken out our Privacy Policy into the following sections:
+This Privacy Policy pertains to the https://www.joydownload.com/ Site and to the products and services available through the Site. To better explain what information We collect, and how We use the information We collect, We have broken out our Privacy Policy into the following sections:
 
 Section 2: WHAT WE COLLECT AND WHY. This section explains what information We collect from:
 
@@ -99,3 +99,29 @@ Our Site, services and products are hosted by servers located in the United Stat
 8\. POLICY CHANGES
 
 We may make changes to this policy from time to time. If We make changes in the way We use Personal Information, We will notify you by posting an announcement on our site or sending you an email. Users are bound by any changes to the Privacy Policy when he or she uses our site or services after such changes have been first posted.
+
+PDF READER 2019 PRIVACY POLICY
+
+This Privacy Policy governs the manner in which JoyDownload Ltd. collects, uses, maintains and discloses information collected from users (each, a "User") while they using our our products ("Product"). This privacy policy applies to the Product and all products and services offered by JoyDownload Ltd..
+
+1\. Personal identification information  
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users use our Products, place an order, fill out a form, and in connection with other activities, services, features or resources we make available on our Product. Users may be asked for, as appropriate, email address. Users may, however, use our Products anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Product related activities.
+
+2\. Non-personal identification information  
+We may collect non-personal identification information about Users whenever they interact with our Product. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Product, such as the operating system and the Internet service providers utilized and other similar information.
+
+3\. How we use collected information  
+JoyDownload Ltd. may collect and use Users personal information for the following purposes:  
+a) To improve customer service. Information you provide helps us respond to your customer service requests and support needs more efficiently.  
+b) To personalize user experience. We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Product.  
+c) To improve our Product. We may use feedback you provide to improve our products and services.
+
+4\. How we protect your information  
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Product. Sensitive and private data exchange between the Product and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Product is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
+
+5\. Sharing your personal information  
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+6\. Your acceptance of these terms
+
+By using this Product, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Product. Your continued use of the Product following the posting of changes to this policy will be deemed your acceptance of those changes.
