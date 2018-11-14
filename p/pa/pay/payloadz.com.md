@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payloadz.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911071516id_/https%3A//www.payloadz.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payloadz.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114101838id_/https%3A//www.payloadz.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - PayLoadz
 
