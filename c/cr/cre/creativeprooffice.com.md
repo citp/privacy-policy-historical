@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creativeprooffice.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510051113id_/http%3A//mycpohq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativeprooffice.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114161233id_/http%3A//mycpohq.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy :: CreativePro Office
+# Privacy Policy :: Project Management Dashboard Software to Organize Your Work
 
 Print this page.
 
