@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineadrian.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514102254id_/http%3A//onlineadrian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineadrian.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114033210id_/http%3A//onlineadrian.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OnlineAdrian
 
