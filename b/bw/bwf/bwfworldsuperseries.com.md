@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bwfworldsuperseries.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523010948id_/http%3A//bwfbadminton.com/terms-conditions/%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bwfworldsuperseries.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115005826id_/https%3A//bwfbadminton.com/terms-conditions/%23privacy-policy) for the most accurate reproduction.*
 
 # Terms & Conditions | BWF Fansite
 
@@ -82,7 +82,7 @@ BWF will not accept any responsibility for any loss or damage in whatever manner
 
 The content of this website, including BWF’s logo, name, and other marks, as well as any multimedia content, is the property of BWF or used under license by BWF. No part of this website may be copied, republished, stored, or otherwise republished or transmitted, in any form or by any means whatsoever, without the prior written permission of BWF (which may be provided, for example, in a notice on the website). Unless otherwise provided, BWF is the owner or licensee of all copyright and other intellectual property rights on this website, and in the material published on it. All such rights are reserved.
 
-For further information, or to request permission to use any of the content on BWF’s website, please contact: bwf@bwfbadminton.org.
+For further information, or to request permission to use any of the content on BWF’s website, please contact: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Communication  
 **
