@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gofiveguys.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616121130id_/http%3A//gofiveguys.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofiveguys.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114211726id_/https%3A//order.fiveguys.com/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,6 +23,7 @@ We collect the information you voluntarily provide to us. For example:
   * If you provide us feedback or contact us via email, we will collect your name and email address, as well as any other content included in the email, in order to send you a reply.
   * We also collect other types of personal information that you provide to us voluntarily, such as any information requested by Olo if you contact us via email regarding support for the Services.
 
+  
 
 
 ###  (b) Personal Information Collected Via Technology 
@@ -34,6 +35,7 @@ We collect certain information from you automatically when you access and use ou
   * **Mobile Services**. We may also collect non-personal information from your mobile device if you have downloaded our Application. This information is generally used to help us deliver the most relevant information to you. Examples of information that may be collected and used include your geographic location, how you use the Application(s), and information about the type of device you use. In addition, in the event our Application crashes our your mobile device, we will receive information about your mobile device model software version and device carrier, which allow us to identify and fix bugs and otherwise improve performance of our Application. This information is sent to us as aggregated information and is not traceable to any individual and cannot be used to identify an individual.
   * **Third Party Analytics**. We use third party service providers to help analyze how users use the Properties ("Analytics Companies"). These Analytics Companies use Cookies to collect information such as how often users visit the Site, what pages they visit and what other sites they used prior to coming to the Site. We use the information we get from these Analytics Companies to improve our Properties.
 
+  
 
 
 ### (c) Facebook and other Social Networking Services
@@ -61,6 +63,7 @@ In general, we use your personal information to respond to your requests as subm
   * to solicit your feedback; and
   * send newsletters, surveys, offers, and other promotional materials related to our Services and for other marketing purposes of the Branded Company.
 
+  
 
 
 ### (b) Creation of Anonymous Data
