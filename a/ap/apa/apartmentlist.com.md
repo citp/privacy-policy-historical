@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmentlist.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184433id_/https%3A//www.apartmentlist.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentlist.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115000507id_/https%3A//www.apartmentlist.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Apartment List
 
@@ -105,5 +105,5 @@ We may occasionally update this Privacy Policy. When we do, we will also revise 
 If you have any questions, comments, or concerns about this Privacy Policy, please email us at feedback@apartmentlist.com.
 
 Postal Mail Address:  
-500 3rd Street, Suite 555  
+475 Brannan Street, Suite 410  
 San Francisco, CA 94107
