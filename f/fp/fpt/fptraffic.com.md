@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fptraffic.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609130706id_/http%3A//fptraffic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fptraffic.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114131523id_/http%3A//fptraffic.com/privacy) for the most accurate reproduction.*
 
 # FPTraffic
 
