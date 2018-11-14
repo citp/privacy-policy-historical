@@ -1,50 +1,109 @@
-> *The following text is extracted and transformed from the ixquick.fr privacy policy that was archived on 2011-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110916025730id_/http%3A//www.ixquick.fr/eng/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixquick.fr privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114122426id_/https%3A//www.startpage.com/au/privacy-policy.html%23hmb) for the most accurate reproduction.*
 
-# Privacy Policy
+# PRIVACY - Privacy Policy
 
-Ixquick.com ("Ixquick") is strongly committed to protecting the privacy of its user community.
+###  In short: | Startpage.com doesn’t log or share your personal information.  
+ _ **We don’t track you. We don’t profile you.** Period._  
+---|---  
+The longer version: | We believe privacy is a fundamental human right.  
+With Startpage.com you can search and browse the internet privately.  
+Not because you have something to hide, but because you have a lot to protect!  
+Protecting your privacy is all about having control over your data.  
+At Startpage.com we help you control and protect what’s yours:   
+_It’s Your Data. Not Big Data!_  
+  
+## Why we don't collect any ‘personal data’
 
-This privacy policy details the information Ixquick may gather from the individuals who visit us, how that information is used, and our disclosure policy.
+### It’s the best way to safeguard your privacy.  
+If information isn’t collected, it can’t be stolen, demanded, leaked or abused.
 
-### IP Addresses
+## How do we define ‘personal data’?
 
-The IP address that is associated with your search will NOT be recorded.  
-The only exception is for “abusive” (automated) queriers that rapidly submit many queries to Ixquick in a very short time.
+### To maximize your privacy, we use a broad definition.  
+Our definition of personal data is based on the privacy laws and regulations of the EU, including the General Data Protection Regulation (GDPR). These are widely regarded as the strongest privacy protections in the world. We consider any information about you or your behavior that can be traced back to you as personal data. 
 
-### Data Collection
+## Information we don’t collect
 
-Ixquick collects limited information each time you visit our site, so we can improve the overall quality of your online experience. We only collect browser and platform type and register the date and time you visited the Ixquick.com site. Like most standard Web site servers, we use log files to collect and store this anonymous user information.
+### So let’s be perfectly clear:  
 
-### Cookies
 
-Cookies are small pieces of data that are sent and saved to your computer's hard drive when visiting sites.
+  *  **We don’t record your IP address**
 
-Ixquick uses only one anonymous cookie called "preferences". This cookie is to remember the search preferences you saved for your next visit. It expires after 90 days.
+The only exception is for automated search requests (robots) that rapidly submit more queries to our servers than any normal human would. When our software detects potential abuse, we register and block the offending IP address in order to keep our service safe and free.  
 
-You can choose to accept or refuse cookies by changing the settings of your browser. It should be noted, however, that your Ixquick.com preferences will not work properly if your cookies are turned off. It is possible to accept cookies from selected sites only.
 
-You can periodically delete cookies from your computer's hard drive, clearing out all historical data that may have been saved from your previous web surfing. If you delete cookies, you will not be recognized as a repeat visitor or viewer when returning to a site.
+  *  **We don’t serve any tracking or identifying cookies**
 
-To promote a cookie-free internet, Ixquick has recently launched a [URL generator](https://web.archive.org/eng/urlgenerator-details.html) which eradicates the need for setting a cookie. It remembers your settings in a privacy friendly manner. It can be found at the bottom of the [MY SETTINGS](https://web.archive.org/do/preferences.pl?language_ui=english) page.
+ _About ‘good’ and ‘bad’ cookies  
+_ Cookies are small pieces of data that are sent to your hard drive by websites you visit. ‘Bad’ cookies have unique elements that can track all kinds of personal information.We don't serve any of those.   
+Startpage.com uses just one ‘good’ cookie called 'preferences' in order to remember the search preferences you choose. It’s completely anonymous and expires after not visiting Startpage.com for 90 days.
 
-### External Links
+## We don’t record your search queries
 
-As a search engine, and as an advertising publisher, you will find various links on our site, including but not limited to search results and sponsored results. These sites are owned and maintained by independent companies, over which Ixquick has no control, and who are not covered by this privacy policy. Ixquick is not liable or responsible for the content of these sites, or their collection of information and its use. Please note that this privacy policy applies only to the Ixquick.com website.
+### Saves us headaches and disk space.  
+When you search, your query is automatically stripped of unnecessary metadata including your IP address and other identifying information. We send the anonymized search query to Google and return the search results to you. We don’t log your searches.
 
-### Email addresses
+To prevent abuse such as robotic high-volume querying, we anonymously determine the frequency of popular search keywords as a part of our anti-abuse measures, while protecting your privacy.
 
-When you send comments, questions, suggestions, or feedback to Ixquick via email, and include an email address and/or contact information Ixquick may use this information to respond to you. Ixquick will not sell or disclose your contact information to any third parties. We may, however, very occasionally send emails to our users regarding Ixquick company information. This service is opt-in and includes the option to unsubscribe.
+## How we have implemented truly anonymous analytics
 
-### Children Under 13 Years of Age
+### We only count aggregate numbers  
+We do measure overall traffic numbers and some other – strictly anonymous – statistics. These stats may include the number of times our service is accessed by a certain operating system, a type of browser, a language, etc., but we don’t know anything about individual users. 
 
-In light of the concern over protecting children's privacy online, Ixquick does not knowingly request, collect, or share personally identifiable information from users under the age of 13.
+## How we keep Startpage.com free without using ’personal data’
 
-### Information Sharing
+### Without tracking ads - as we don't share personal info with anyone  
+Most online advertising today is personalized, meaning that online advertising services track what you do online and profile you in order to serve tailored ads. We don’t do that at Startpage.com. No tracking. No profiling!
 
-Ixquick does not share personal information with any third party search engine or the provider of its sponsored results. Click [here](https://web.archive.org/eng/information-sharing.html) for details. Ixquick only shares personal information with third parties when obligated to do so by law (e.g. official court order or subpoena), or to protect against imminent harm to the rights, property or safety of Ixquick, its users or the general public as required by law.
+Our search result pages may include a small number of clearly labeled ‘sponsored links’, to generate revenue and cover our operational costs. Those links are retrieved from platforms such as Google Adwords. In order to enable the prevention of click fraud, some non-identifying system information is shared, but because we never share personal information or information that could uniquely identify you, the ads we display are not connected to any individual user.
 
-### Operator
+It’s a myth that search engines needs to profile you in order to earn decent money.  
+Startpage.com serves strictly non-personalized ads. Sure, our ads make only a fraction of what other search engine ads make, but they pay all our bills.
 
-Ixquick.com is owned and operated by Surfboard Holding BV, Postbus 1079, 3700 BB Zeist  
-The Netherlands. Representative for the Privacy Policy is Robert E.G. Beens. (| [robert@ixquick.com](mailto:%72%6F%62%65%72%74%40%69%78%71%75%69%63%6B%2E%63%6F%6D%2c%61%6c%65%78%40%69%78%71%75%69%63%6b%2e%63%6f%6d)| )  
----|---|---
+## We protect you on our site – and beyond
+
+### This privacy policy applies only to the Startpage.com website.  
+Once you click on a search result, you leave our site and our privacy protection. This is true for sponsored links, search results and other external links.   
+Unless… you use our [‘Visit Anonymously’](https://support.startpage.com/index.php?/en/Knowledgebase/Article/View/146/0/where-is-the-startpage-proxy-and-how-do-i-use-it), feature - shown behind the search results.  
+This great privacy tool allows you to continue to browse in full privacy. 
+
+## We don't disclose or sell your contact information
+
+### You ask for support, not spam.  
+We won't sell or share this info with anyone else. When you contact us via email or through our support center, we'll use your contact information and your message to respond to you. Please consult our separate [Support Privacy Policy](https://web.archive.org/eng/support-privacy-policy.html) before submitting your feedback or request via e-mail. If you use our support web form, you will be notified of our support privacy policy and asked to confirm your consent.  
+You’ll have the option to subscribe to our newsletter, which you can unsubscribe from at any time.
+
+## How we respond to governmental requests for data
+
+### They can’t request what we don’t have.  
+Any request will have to come from judicial authorities of the Netherlands, where we are based. We'll only comply if we're legally obliged to do so. But we're not likely to receive requests by governments to hand over user data – simply because we don’t have any.
+
+## We will never comply with any voluntary surveillance program
+
+### Big Brother would like some help?  
+Hell no! Fortunately, we are based in the EU, where we have strong laws that protect your right to privacy. European governments can’t legally force service providers like Startpage.com to implement a blanket spying program.
+
+## Startpage.com complies with the GDPR.
+
+### And we can help you comply too.  
+We are located in the EU, and we fully comply with applicable privacy laws and regulations of the EU, including the General Data Protection Regulation (GDPR). These are widely regarded as the strongest privacy protections in the world.
+
+Looking for a quick win to improve your own GDPR compliance? Setting [Startpage.com as the default search engine](https://support.startpage.com/index.php?/Knowledgebase/Article/View/197/0/how-do-i-add-startpage-as-a-default-search-engine-to-my-browser) on all your organization’s IT equipment will help you minimize the amount of personal data that is processed by or for your organization. This can also help you implement important privacy principles, such as data minimization, storage limitation, _privacy by design_ , and _privacy by default_.
+
+## In the EU you have a “right to be forgotten”
+
+### When enough is enough.  
+Citizens in the EU have the right to request the deletion of search results that disclose their personal data when those results are inaccurate or no longer relevant.  
+Find out how we have implemented this right [here.](https://support.startpage.com/index.php?/en/Knowledgebase/Article/View/1000/0/how-does-startpage-handle-search-removal-requests-under-data-protection-law-in-europe-the-right-to-be-forgotten)
+
+## Dutch Data Protection Authority
+
+### We are always here to help. If you have any feedback or complaint about our services in general, or more specifically about how your privacy is protected when you use our services, please let us know via the contact details below. In accordance with EU privacy laws and regulations, you have the right to lodge a complaint with the national supervisory authority responsible for the protection of personal data if you think we have unlawfully processed your personal data. For the Netherlands, this supervisory authority is the _Dutch Data Protection Authority_ , which you can contact [here.](https://autoriteitpersoonsgegevens.nl/en)
+
+## Our company and contact information
+
+### Still have privacy questions?  
+With this privacy policy we have done our utmost to inform you as well as possible about your privacy while using our services. We hope that you agree that your privacy is in good hands with us. Startpage.com is owned and operated by Startpage BV, Boulevard 11, 3707 BK Zeist, The Netherlands. Representative for the Privacy Policy is Robert E.G. Beens. You can contact us at 
+
+PRIVACY  
+It's not just our Policy - it's our Mission!
