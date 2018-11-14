@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easywayserver.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513054850id_/http%3A//www.easywayserver.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easywayserver.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114041959id_/http%3A//www.easywayserver.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Easywayserver.com
 
