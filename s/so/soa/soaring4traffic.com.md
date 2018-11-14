@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soaring4traffic.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607155427id_/http%3A//www.soaring4traffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soaring4traffic.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115003255id_/http%3A//www.soaring4traffic.com/privacy.php) for the most accurate reproduction.*
 
 # Soaring4Traffic Manual Traffic Exchange
 
