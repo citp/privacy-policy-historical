@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the times247.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501222957id_/http%3A//times247.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the times247.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114204439id_/http%3A//times247.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
