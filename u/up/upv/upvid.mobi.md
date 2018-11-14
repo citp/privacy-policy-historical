@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the upvid.mobi privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513191751id_/http%3A//upvid.mobi/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upvid.mobi privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114023953id_/http%3A//upvid.mobi/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Chia Sẻ Tập Tin Miễn Phí
+# file sharing service
 
 Privacy Policy this domain is a provider of online file storage service. Your use of the this domain is governed by our Terms and Conditions and our Privacy Policy. The purpose of this Privacy Policy is to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website. 
 
