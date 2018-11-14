@@ -1,40 +1,41 @@
-> *The following text is extracted and transformed from the freeblogspot.org privacy policy that was archived on 2012-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120823110359id_/http%3A//freeblogspot.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeblogspot.org privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114131122id_/http%3A//freeblogspot.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Create a free Blog Free Blogs Websites Blogging Sites
+# Privacy Policy – Free Blog Spot
 
-FreeBlogSpot.org privacy policy
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at Privacy.
 
-FreeBlogSpot.org is an Internet blogging site that allows its users to set up individual, personal blogs that can be shared and viewed by networks of friends and family. FreeBlogSpot.org bloggers can view each other’s blogs and correspond with other bloggers throughout the site. Users can post their ideas, photos, videos, diaries, experiences, various comments, and describe their interests through blogs. FreeBlogSpot.org users can modify their personal information at any time and have the ability to manage how other FreeBlogSpot.org users and the service communicates with them. FreeBlogSpot.org has its blogging users’ best interests in mind regarding their privacy and security. Should you feel that you have any questions regarding the FreeBlogSpot.org policy on privacy, please feel free to contact us.  
-Personal information we may collect
+At FreeBlogSpot.org we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by FreeBlogSpot.org and how we use it.
 
-FreeBlogSpot.org may gather personal information when you register for your blogging membership, service, or otherwise willingly provide such personal information. FreeBlogSpot.org may store personal information collected from you with information from other FreeBlogSpot.org services or perhaps third parties in order to provide improved user know-how, including customizing content for our members.
+Log Files  
+Like many other Web sites, FreeBlogSpot.org makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-FreeBlogSpot.org may utilize cookies and other technology to improve your Internet blogging experience and to study how you use FreeBlogSpot.org in order to make progressive changes to the quality of our services we provide in the future. FreeBlogSpot.org servers, by design, record information when you visit our blogging site or when you use some of the products designed by FreeBlogSpot.org. This may include the IP address, URL, browser type, language, and the date and time of your application.
+Cookies and Web Beacons  
+FreeBlogSpot.org uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-Your options
+DoubleClick DART Cookie  
+→ Google, as a third party vendor, uses cookies to serve ads on FreeBlogSpot.org.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to FreeBlogSpot.org and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-Whenever possible, FreeBlogSpot.org provides its users with choices when we ask for personal information. You have the right to refuse entering your personal information to us and/or reject cookies in your computer’s browser; however, some of our features or services at FreeBlogSpot.org may not be able to work for you if you choose to decline them. Here at FreeBlogSpot.org, we strive to provide our users with the best possible Internet services, and we work hard to provide our bloggers access to their personal information when they request it. We work diligently to provide our users the chance to update such data if it is incorrect and delete it when realistically possible to do so.  
-How we may use your information
+Our Advertising Partners  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….  
+While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here: Privacy Policies.  
+You may consult this listing to find the privacy policy for each of the advertising partners of FreeBlogSpot.org.
 
-At times, FreeBlogSpot.org may utilize personal information to provide the services you have asked for. This may include services that display customized blogging content and advertising.
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on FreeBlogSpot.org and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-Additionally, we may also utilize the personal information you voluntarily provide for review to do research with or in order to operate and improve our services for the FreeBlogSpot.org blogging community. We may share grouped non-personal information from your registration as a whole, or part, with third parties outside of FreeBlogSpot.org for research and other statistical uses.
+FreeBlogSpot.org has no access to or control over these cookies that are used by third-party advertisers.
 
-Should FreeBlogSpot.org use third parties to support us in processing your personal information, we oblige them to use the same privacy conditions that we do at FreeBlogSpot.org at the minimum. They must comply with our privacy policy principals and any other suitable privacy and safekeeping procedures.
+Third Party Privacy Policies  
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. FreeBlogSpot.org’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: Privacy Policy Links.
 
-FreeBlogSpot.org may share information with third parties in limited conditions, including when complying with legal procedures, preventing fraud or impending harm, and ensuring the protection of our network of bloggers and services. FreeBlogSpot.org processes personal information on our servers in the United States of America as well as other countries and principalities. In addition to this, FreeBlogSpot.org processes personal information on a server outside your own country of residence.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. What Are Cookies?
 
-Promotions, contests and giveaways
+Children’s Information  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. FreeBlogSpot.org does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that FreeBlogSpot.org has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
-Occasionally, FreeBlogSpot.org sponsors contests. Users wishing to take part in these giveaways and other promotions may be asked to provide FreeBlogSpot.org with personal information including name, age, home address, phone contact and email address or to answer questions in order to take part in such contests. Rarely, but in some instances, FreeBlogSpot.org may need to transfer a user’s personal information to certain advertising partners that you have openly requested to obtain information from. It will be obvious at the point of compilation who is collecting the user’s personal information and whose privacy statement will be relevant.  
-Additional disclosures
+Online Privacy Policy Only  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
 
-Any personal information voluntarily entered to any blog at FreeBlogSpot.org, including user videos and photos and any other personal identification information that is displayed publicly to people in order to assist user communication in the FreeBlogSpot.org blogging community is done so, completely at the user’s discretion. FreeBlogSpot.org may use its user’s email address to send updates and other types of communications to its users. Users may choose not to take delivery of these emails by electing to do so upon registration.
-
-All FreeBlogSpot.org bloggers and users must fully understand that whenever they willingly post public information to blogs or any other public forums that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications.  
-Links
-
-FreeBlogSpot.org may contain links to outside sites. FreeBlogSpot.org is not accountable for the privacy policies, content, and/or situations on other Internet sites. When linking to another site, bloggers will want to be certain that they are fully aware of that site’s privacy policies and practices. The FreeBlogSpot.org privacy policy only applies to information collected on FreeBlogSpot.org itself.  
-Privacy policy updates or other changes
-
-As FreeBlogSpot.org progresses, or situations in development arise, changes to our privacy policy may come about. Should changes be made, we will post them in complete form on our site to make FreeBlogSpot.org users conscious of what the changes are. This will allow the FreeBlogSpot.org community to continually become aware of what information FreeBlogSpot.org collects, how it is used, and when it would be disclosed. All FreeBlogSpot.org bloggers and users are bound by any minor changes to the policy when they use the site after those changes have been posted. What’s more, if we are going to use users’ individually identifiable information in a method considerably different from what is stated at the time of compilation, we will notify by posting a notice on our website for an adequate amount of time or through email communications.
+Consent  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
