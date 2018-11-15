@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralcommissions.net privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517175036id_/http%3A//viralcommissions.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralcommissions.net privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115174443id_/http%3A//viralcommissions.net/privacy.php) for the most accurate reproduction.*
 
 # Viral Commissions! Viral Ad Exchange
 
