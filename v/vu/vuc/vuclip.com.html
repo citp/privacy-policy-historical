@@ -1,185 +1,356 @@
-<!--The following is the downloaded HTML source of the vuclip.com privacy policy that was archived on 2011-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110525000508id_/http%3A//www.vuclip.com/Privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vuclip.com privacy policy that was archived on 2018-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181115075407id_/http%3A//vuclip.com/pp%3Fz%3D%26frm%3Dindex.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>Privacy Policy</title>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-<link rel="stylesheet" type="text/css" href="css/style.css">
-<script type="text/javascript">
-   function menuFix() {
-      var sfEls = document.getElementById("nav").getElementsByTagName("li");
-      for (var i=0; i<sfEls.length; i++) {
-       sfEls[i].onmouseover=function() {
-       this.className+=(this.className.length>0? " ": "") + "sfhover";
-       }
-     sfEls[i].onMouseDown=function() {
-       this.className+=(this.className.length>0? " ": "") + "sfhover";
-      }
-     sfEls[i].onMouseUp=function() {
-         this.className+=(this.className.length>0? " ": "") + "sfhover";}
-         sfEls[i].onmouseout=function() {
-         this.className=this.className.replace(new RegExp("( ?|^)sfhover\\b"),"");
-         }
-     }
-   }
-  window.onload=menuFix;
-  var lastTitle;  
-  function  selectMenu(url,s){              
-       var currentTitle=s.innerHTML;
-       var menu= document.getElementById("nav").getElementsByTagName("li")
-       for(var j=0;j<menu.length;j++){
-         var links=menu[j].getElementsByTagName("a");
-         if( links[0].innerHTML == currentTitle){
-             /*links[0].style ="border-bottom: #6699ff solid 5px";*/
-             /*links[0].style["borderBottomStyle"]="#6699ff solid 5px";*/
-             links[0].className="xin";
-             if(lastTitle!=null) lastTitle.className="hover";
-             lastTitle=links[0];
-                        
-             break;
-         }       
-         for(var i=0;i<links.length;i++)
-           if(links[i].innerHTML==currentTitle)   break;
-             if(i<links.length) {         
-                  links[0].className="xin";
-                   if(lastTitle!=null) lastTitle.className="hover";
-                   lastTitle=links[0];                       
-                   /*links[0].style["borderBottomStyle"]="#6699ff solid 5px";*/
-                   break;
-           }    
-         } 
-        /* window.location.href=url;*/    
-   }
-   
-</script>
+<!DOCTYPE html><html lang="en"><head>
+<title>Vuclip Web Video Search</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link href="/androidv3/css/vusmart.css?v=20170628" rel="stylesheet" type="text/css">
 
 </head>
-
-<body>
-<div id="container">
-<div id="head">
-
-<span id="logo"><a href="index.html"><img src="images/vuclip_3D_logo.png" width="215" height="53"></a></span>
-<div id="share"><a>Follow us: </a><a href="twitter.html"><img src="images/t.png"></a><a href="http://www.facebook.com/pages/Vuclip/108065920284" target="_blank"><img src="images/f.png"></a></div>
+<body onload=" setTimeout( function(){ window.scrollTo(0, 1) }, 0); ">
+<script type="text/javascript">
+function trackThirdClick(url){
+    xmlHttp = new XMLHttpRequest();
+    xmlHttp.open( "GET", url, false );
+    xmlHttp.send( null );
+    return xmlHttp.responseText;
+}
+</script><div id="wrap">
+<div id="hdr">
+  <div id="icon"><a href="/?z=&amp;frm=pp&amp;bu=9474239250"><img src="/androidv3/images/vuclip.png?v=20170628" alt="Vuclip"></a></div>
+  <div id="search">
+  <form class="" action="s" name="search" method="get">
+     <input type="hidden" name="bu" value="9474239250"><input type="hidden" name="z" value="">
+     <input type="hidden" name="sn" value="1">
+     <input type="text" name="k" id="k" class="searchField" autocomplete="off" onfocus="clearField() ; showSearches();" onblur="javascript:if(document.getElementById('k').value == '') document.getElementById('k').placeholder='Search videos';" value="">
+     <button type="submit" class="searchButn"><img src="/androidv3/images/search.png?v=20170628" alt="Vuclip"></button>
+   </form>
+  </div><!-- search end-->
 </div>
-<!-- header结束，nav开始 -->
-<div id="Free">&nbsp;</div>
 
-<div id="nav">
-<ul>
-  <li>
-  <a href="index.html" onclick="selectMenu('index.html',this)">HOME</a>
-  </li>
-  <li>
-    <a href="Get.html" onclick="selectMenu('Get.html',this)">GET VUCLIP</a>
-   
-  </li>
-  
-  <li>
-    <a href="About.html" onclick="selectMenu('#',this)">ABOUT VUCLIP</a>
-    <ul>
-       <li><a href="Management.html" onclick="selectMenu('Management.html')">Management</a></li>
-       <li><a href="Board.html" onclick="selectMenu('#',this)">Board</a></li>
-       <li><a href="news_blog.html" onclick="selectMenu('#',this)">News &amp; Blog</a></li>
-       <li><a href="Contact.html" onclick="selectMenu('#',this)">Contact</a></li>
-       <li><a href="FAQ.html" onclick="selectMenu('#',this)">FAQ</a></li>
-   </ul>
-  </li>
+<div id="searches">
+  <p class="head">
+    Trending Searches
+    <a onclick="hideSearches();"><img src="/androidv3/images/close.png?v=20170628" class="share f_r" alt="Close"></a>
+  </p>
+  <div class="list">
+    <div class="searchlist">
+      <a class="bg1" onclick="hideSearch() ; hideSearches();" href="s?lt=s&amp;k=Roger Federer&amp;z=0&amp;frm=pp&amp;bu=9474239250">
+            <img src="http://i.akamai.vuclip.com/p/tthumb192x144/v/1147949882.jpg" alt="Icon">
+              </a>
+      <a class="bg2" onclick="hideSearch() ; hideSearches();" href="s?lt=s&amp;k=Paul Pogba&amp;z=1&amp;frm=pp&amp;bu=9474239250">
+            <img src="http://i.akamai.vuclip.com/p/tthumb192x144/v/1128835185.jpg" alt="Icon">
+              </a>
+      <a class="bg3" onclick="hideSearch() ; hideSearches();" href="s?lt=s&amp;k=brad pitt&amp;z=2&amp;frm=pp&amp;bu=9474239250">
+            <img src="http://i.akamai.vuclip.com/p/tthumb192x144/v/1107752949.jpg" alt="Icon">
+              </a>
+      <a class="bg4" onclick="hideSearch() ; hideSearches();" href="s?lt=s&amp;k=Christiano Ronaldo &amp;z=3&amp;frm=pp&amp;bu=9474239250">
+            <img src="http://i.akamai.vuclip.com/p/tthumb192x144/v/1125954088.jpg" alt="Icon">
+              </a>
+      <a class="bg1" onclick="hideSearch() ; hideSearches();" href="s?lt=s&amp;k=Shahrukh Khan Fan&amp;z=4&amp;frm=pp&amp;bu=9474239250">
+            <img src="http://i.akamai.vuclip.com/p/tthumb192x144/v/1109870157.jpg" alt="Icon">
+              </a>
+      <a class="bg2" onclick="hideSearch() ; hideSearches();" href="s?lt=s&amp;k=Kylie Jenner&amp;z=5&amp;frm=pp&amp;bu=9474239250">
+            <img src="http://i.akamai.vuclip.com/p/tthumb192x144/v/1108320335.jpg" alt="Icon">
+              </a>
+      <a class="bg3" onclick="hideSearch() ; hideSearches();" href="s?lt=s&amp;k=Selena Gomez&amp;z=6&amp;frm=pp&amp;bu=9474239250">
+            <img src="http://i.akamai.vuclip.com/p/tthumb192x144/v/1108320853.jpg" alt="Icon">
+              </a>
+      <a class="bg4" onclick="hideSearch() ; hideSearches();" href="s?lt=s&amp;k=barack obama&amp;z=7&amp;frm=pp&amp;bu=9474239250">
+            <img src="http://i.akamai.vuclip.com/p/tthumb192x144/v/1107753954.jpg" alt="Icon">
+              </a>
+      <a class="bg1" onclick="hideSearch() ; hideSearches();" href="s?lt=s&amp;k=Donald Trump Rules&amp;z=8&amp;frm=pp&amp;bu=9474239250">
+            <img src="http://i.akamai.vuclip.com/p/tthumb192x144/v/1147949819.jpg" alt="Icon">
+              </a>
+      </div>
+    </div><!-- list end-->
 
- <li>
-   <a href="Partner.html" onclick="selectMenu('#',this)">PARTNER WITH VUCLIP</a>
-   <ul style="width:171px;border-bottom:#6699ff solid 1px;">
-   <li class="nav_parther"><a href="http://partners.vuclip.com/" onclick="selectMenu('#',this)">Partner login</a></li>
-   </ul>
- </li>
-</ul>
-</div><!-- nav -->
-<div><br><br></div>
+  <p class="head">Recent Searches</p>
+  <div class="list">
+    </div><!-- list end-->
+</div><!-- searches end--><p class="listTitle search"><span>Vuclip® Privacy Policy</span></p>
+<div class="top pad">
+    <hr>
+    <p><span style="color: #ff8400;"><strong>Privacy Statement</strong></span></p>
+<p><span style="font-weight: 400;">This Privacy Statement sets out how we collect, use, manage and protect the personal data or information (“</span><strong>Data</strong><span style="font-weight: 400;">”) that we may collect from or about you.</span> <span style="font-weight: 400;">It applies to all individuals whose Data may be handled, whether as controller or processor, by the Vuclip Group ("</span><strong>Vuclip</strong><span style="font-weight: 400;">", "</span><strong>we</strong><span style="font-weight: 400;">", "</span><strong>us</strong><span style="font-weight: 400;">" or "</span><strong>our</strong><span style="font-weight: 400;">", being PCCW Vuclip (Singapore) Pte. Ltd, Vuclip Malaysia Sdn Bhd, Vuclip Inc., PT Vuclip Digital Indonesia, Vuclip (India) Private Limited and Vuclip Middle East FZ-LLC). </span></p>
+<p>&nbsp;</p>
+<p><span style="color: #ff8400;"><strong>Protecting your privacy</strong></span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">We are committed to processing your Data in accordance with the required standards. This includes protecting your privacy and ensuring the security of your Data in compliance with, in particular and where applicable, the requirements of the Personal Data (Privacy) Ordinance (Chapter 486 of the Laws of Hong Kong) (the “</span><strong>Ordinance</strong><span style="font-weight: 400;">”), Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (the “</span><strong>GDPR</strong><span style="font-weight: 400;">”) where applicable, and all other applicable privacy and data protection laws and regulations in the country in which you receive our Service(s) (“</span><strong>your Country</strong><span style="font-weight: 400;">”).</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Before using and providing your Data for the purposes as set out in this Privacy Statement, we may be required by law to obtain your written consent, and in such cases, only after having obtained such written consent, may we use your Data in the manner as specified. &nbsp;</span></p>
+<p>&nbsp;</p>
+<p><span style="color: #ff8400;"><strong>Your Data </strong></span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">We may collect, use and hold a range of different Data about you. For the purposes of carrying on our business (including the verification of your identity to detect, prevent and address fraud, security or technical issues, the registration, activation and management of your account with us, and the billing and charging of our products and services (collectively, “</span><strong>Service(s)</strong><span style="font-weight: 400;">”)) and complying with laws, rules, guidelines, regulations and/or requests issued by applicable government authorities, courts, law enforcement or other authorities or regulatory bodies, you may be requested to provide Data such as, but not limited to:</span></p>
+<p>&nbsp;</p>
+<ol>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">the name, date of birth and other details documented on your national identity card</span> <span style="font-weight: 400;">or other legal identity card, travel document, student card and/or driver’s licence;</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">contact details including name, address, phone number, mobile telephone number and/or email address;</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">Data that you have shared with third party social media platform operators (e.g. account login name, profile picture, contact details);</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">payment details including credit card, debit card and other electronic banking Data; </span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">account details or Data relating to Services registered with us including the relevant PIN, username or password, account numbers and/or service numbers;</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">device specific information such as hardware model, operating system, version, unique device identifier, International Mobile Equipment Identity number (IMEI), serial numbers, setting configurations and software and mobile network configuration;</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">information about how you use our Services such as your network usage, how you use our network, and your location when you are using our Services;</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">information that allows us to identify you for verification purpose including biometric information like your fingerprints and voice pattern;</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">your credit and service history to enable us to assess your eligibility to our offers of Services or to accommodate your request for transfer of Services or your account with us; </span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">all Data requested by applicable government authorities, courts, law enforcement or other authorities or regulatory bodies to enable us to comply with or in connection with any law, rule, regulation, judgment or court order (whether within or outside of your Country); and</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">any other Data as may be required by any members of Vuclip and/or their respective contractors, sub-contractors, intermediaries, agents, business partners or representatives, brokers, underwriters from time to time and which is necessary for the provision of the Services.</span></li>
+</ol>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">In some instances, where required by law to do so, we may seek your consent to process the following types of “</span><strong>Special Data</strong><span style="font-weight: 400;">” so that we may further improve our Services and/or better tailor the type of information or content that we present to you:</span></p>
+<p>&nbsp;</p>
+<table>
+    <tbody>
+    <tr>
+        <td>
+            <p><span style="font-weight: 400;">(a)</span></p>
+        </td>
+        <td>
+            <p><span style="font-weight: 400;">age;</span></p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p><span style="font-weight: 400;">(b)</span></p>
+        </td>
+        <td>
+            <p><span style="font-weight: 400;">gender and ethnicity;</span></p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p><span style="font-weight: 400;">(c)</span></p>
+        </td>
+        <td>
+            <p><span style="font-weight: 400;">marital status;</span></p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p><span style="font-weight: 400;">(d)</span></p>
+        </td>
+        <td>
+            <p><span style="font-weight: 400;">salary range and employment details;</span></p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p><span style="font-weight: 400;">(e) </span></p>
+        </td>
+        <td>
+            <p><span style="font-weight: 400;">education and profession;</span></p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p><span style="font-weight: 400;">(f) </span></p>
+        </td>
+        <td>
+            <p><span style="font-weight: 400;">hobbies and leisure activities;</span></p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p><span style="font-weight: 400;">(g) </span></p>
+        </td>
+        <td>
+            <p><span style="font-weight: 400;">the Services that you have subscribed for; and</span></p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p><span style="font-weight: 400;">(h)</span></p>
+        </td>
+        <td>
+            <p><span style="font-weight: 400;">family and household demographics.</span></p>
+        </td>
+    </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Provision of the Special Data mentioned immediately above is optional although, where the requested Service is a personalised Service or provision of a product is dependent upon your provision of all requested Data, failure to provide the requested Data may prevent us from providing those particular Services to you. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Occasionally, you may need to provide Data about other individuals &nbsp;to us. If so, we may require you to confirm your compliance with Part VIA of the Ordinance and all other applicable privacy and data protection laws and regulations of your Country including confirming that you have informed those individuals of the use, disclosure and transfer of Data from you to us and from us to third parties and possible disclosure of the individual’s details (including their usage of our Services and loyalty programs) by us to you; and that you have obtained those individuals’ authorisation and/or consent to such use, disclosure and transfer (or the extent to which such authorisation and/or consent was obtained). You should also advise them that we can be contacted for further information at the details stated under the </span><strong>“How to contact us”</strong><span style="font-weight: 400;"> section below.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Data supplied by you will be held by one or more members of Vuclip, and will be accessible by employees of such member(s) and authorised third parties (consistent with the situations or for the purposes set out in this Privacy Statement) or as otherwise indicated by prior notice to you</span> <span style="font-weight: 400;">or, where required, by obtaining your consent.</span></p>
+<p>&nbsp;</p>
+<p><span style="color: #ff8400;"><strong>How we collect Data </strong></span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">We collect Data in a number of ways, including from: </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">(a)</span> <span style="font-weight: 400;">you directly, for example, when you provide Data by phone or via email, attend our functions, complete an application form or agreement for one of our Services, or when you submit your Data through our websites, mobile or TV apps, or over any customer service hotlines or online chat sessions; or when you contact us with a query or request; or during the ordinary course of the continuation of our business relationship with you; or when we are legally required to do so; </span></p>
+<p><span style="font-weight: 400;">(b) third parties such as related entities, business partners, or other customers, or your representatives with appropriate consent from you;</span></p>
+<p><span style="font-weight: 400;">(c)</span> <span style="font-weight: 400;">publicly available sources;</span></p>
+<p><span style="font-weight: 400;">(d)</span> <span style="font-weight: 400;">our own records of how you use our Services; </span></p>
+<p><span style="font-weight: 400;">(e)</span> <span style="font-weight: 400;">your visits on our websites, or mobile or TV apps (see “</span><strong>Privacy Data</strong><span style="font-weight: 400;">” section below); and/or</span></p>
+<p><span style="font-weight: 400;">(f)</span> <span style="font-weight: 400;">your participation in surveys or marketing promotions organised by us or on our behalf. </span></p>
+<p>&nbsp;</p>
+<p><span style="color: #ff8400;"><strong>Privacy Data</strong></span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">To better serve your needs and preferences, our web servers may collect Data relating to your website, device or app activity. We may also collect aggregated, anonymous, statistical data on the server's usage so that we may better cater to the behaviour of users of our websites and mobile and TV apps. This type of Data may include, but is not limited to:</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">(a)</span> <span style="font-weight: 400;">browser type, version and user agent;</span></p>
+<p><span style="font-weight: 400;">(b)</span> <span style="font-weight: 400;">operating system;</span></p>
+<p><span style="font-weight: 400;">(c)</span> <span style="font-weight: 400;">IP (Internet Protocol) address and/or domain name;</span></p>
+<p><span style="font-weight: 400;">(d)</span> <span style="font-weight: 400;">connection data, statistics on page views and/or referral URLs;</span></p>
+<p><span style="font-weight: 400;">(e) &nbsp;&nbsp;device ID, location and phone contacts;</span></p>
+<p><span style="font-weight: 400;">(f) </span> <span style="font-weight: 400;">videos watched or searched for; </span></p>
+<p><span style="font-weight: 400;">(g) </span> <span style="font-weight: 400;">links or images clicked on;</span></p>
+<p><span style="font-weight: 400;">(h) </span> <span style="font-weight: 400;">cookies and/or browser, app or web server log data; and</span></p>
+<p><span style="font-weight: 400;">(i)</span> <span style="font-weight: 400;">device and software characteristics and/or configuration.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Some of our websites use cookies or similar tracking tools on your machine or device in order for us to, for example, personalise your user experience and/or maintain your identity across multiple webpages and/or Internet sessions. This Data may include, but is not limited to, relevant login and authentication details as well as Data relating to your activities and the preference configurations on your device and across our websites and mobile and TV apps. Our websites are initially set up to accept cookies. You can opt-out of or delete historical cookies by changing the settings on your web browsers; however, if you do so, you may find that certain features on our website and/or our app do not work properly.</span></p>
+<p><span style="color: #ff8400;"><strong>How we use your Data </strong></span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">We may collect, retain and use your Data for the following purposes: </span></p>
+<p>&nbsp;</p>
+<ol>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to verify your identity;</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to process your application to subscribe to our Services</span> <span style="font-weight: 400;">and loyalty programs;</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to carry out matching procedures, as defined under the Ordinance;</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to verify your eligibility to our offers of Services, games and/or promotions or other events;</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to provide, activate and/or renew Services and loyalty programs that you may have subscribed for;</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to provide you with &nbsp;rewards, promotional benefits, updates, offers and invitation to events; </span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to promote and market our Services to you; </span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to conduct credit checks and detect fraudulent activities in compliance with the Anti-Money Laundering and Counter-Terrorist Financing (Financial Institutions) Ordinance (Cap. 615) and in relation to other compliance purposes;</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to perform research or analyses so that we may improve and optimise the Services and/or loyalty programs that can be made available to you; </span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to conduct surveys and marketing, promotional, behavioural scoring for business operations and/or planning purposes; </span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to carry out market and product analyses in order to generate statistical or actuarial reports (containing aggregated data that does not relate to any identified or identifiable individual);</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to enforce our contractual rights; </span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to process any payment instructions, direct debit facilities and/or credit facilities in relation to our supply of Services to you;</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to maintain and develop our business systems and infrastructure, including testing and upgrading of these systems;</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to maintain, enhance and develop our products and service offerings;</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to develop financial services and products;</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to evaluate your financial needs and insurance claims made by or against you, and to process claims involving you (including but not limited to making, defending, analysing, investigating, processing, assessing, determining, responding to, resolving or settling such claims);</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to comply with our telecommunications licence obligations in respect of interconnection arrangements with other telecommunications operators and related industry practices; </span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to comply with applicable laws in or outside your Country as may be required by applicable government authorities, courts, law enforcement, or regulatory or investigation bodies, in relation to the supply of Services and/or loyalty programs to you, including to assist in the prevention, detection of crime or possible criminal activities; and</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to distribute our publications and research materials as well as those of our business partners and counterparties. </span></li>
+</ol>
+<p>&nbsp;</p>
+<p><span style="color: #ff8400;"><strong>Our legal basis for using your Data including how we disclose your Data </strong></span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">We have a legitimate interest in properly administering the Services. &nbsp;In addition, our use of your personal data may be necessary for the performance of the Services that you have requested. &nbsp;In order to provide the Services that you have requested, we may, to the extent permissible under applicable laws and regulations, disclose your Data to organisations or parties outside of Vuclip (which may be within or outside of your Country) (collectively, “</span><strong>Organisations</strong><span style="font-weight: 400;">”). Your Data is disclosed to these Organisations for the strict purpose of enabling us to supply our Services to you. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">In some circumstances as mentioned above, we may need to ask for your consent to use your Special Data where required by law to do so.</span></p>
+<p>&nbsp;</p>
+<p><span style="color: #ff8400;"><strong>These Organisations provide support services to our businesses and operations including without limitation:</strong></span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">(a) </span> <span style="font-weight: 400;">customer enquiries;</span></p>
+<p><span style="font-weight: 400;">(b) </span> <span style="font-weight: 400;">courier, delivery, logistic and warehouse services;</span></p>
+<p><span style="font-weight: 400;">(c) </span> <span style="font-weight: 400;">mailing operations;</span></p>
+<p><span style="font-weight: 400;">(d) </span> <span style="font-weight: 400;">billing and debt-recovery functions;</span></p>
+<p><span style="font-weight: 400;">(e) </span> <span style="font-weight: 400;">information technology services;</span></p>
+<p><span style="font-weight: 400;">(f) </span> <span style="font-weight: 400;">installation, maintenance and repair services;</span></p>
+<p><span style="font-weight: 400;">(g) </span> <span style="font-weight: 400;">marketing, advertising and telemarketing services;</span></p>
+<p><span style="font-weight: 400;">(h) </span> <span style="font-weight: 400;">market research; </span></p>
+<p><span style="font-weight: 400;">(i) </span> <span style="font-weight: 400;">customer usage and behavioural analysis;</span></p>
+<p><span style="font-weight: 400;">(j) </span> <span style="font-weight: 400;">process management; </span></p>
+<p><span style="font-weight: 400;">(k) </span> <span style="font-weight: 400;">after sale services;</span></p>
+<p><span style="font-weight: 400;">(l)</span> <span style="font-weight: 400;">surveys; </span></p>
+<p><span style="font-weight: 400;">(m)</span> <span style="font-weight: 400;">website usage analysis; and</span></p>
+<p><span style="font-weight: 400;">(n) </span> <span style="font-weight: 400;">cloud storage services.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">We take the required steps to ensure that these Organisations are bound by appropriate confidentiality and privacy obligations in relation to the protection of your Data and that they use your Data for the sole purpose of carrying out the services for which they have been engaged, and not for their own or other purposes (including direct marketing).</span></p>
+<p>&nbsp;</p>
+<p><span style="color: #ff8400;"><strong>In addition, we may disclose your Data:</strong></span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">(a) </span> <span style="font-weight: 400;">to your authorised representatives and/or your legal advisers when requested by you to do so;</span></p>
+<p><span style="font-weight: 400;">(b) </span> <span style="font-weight: 400;">for the purposes of providing administrative, payment, collection, business, legal and/or operational support, to the following parties: </span></p>
+<ol>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">credit-reporting and fraud-checking agencies; </span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to financial institutions, charge or credit card issuing companies, credit providers, credit bureau, collection agencies or security agencies;</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">telecommunications network operators; </span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">our affiliates, overseas offices, assignees, transferees and representatives;</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">our professional advisers, including our accountants, auditors, lawyers and insurers; </span></li>
+</ol>
+<ol>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to banks, hotels, insurance companies, insurance brokers, underwriters, billing agents and various business partners for reward redemption purposes and benefits applicable to members of our loyalty programs, including without limitation for the purpose of registering members for loyalty program related events;</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to government and regulatory authorities and other organisations, as required or authorised by law; </span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to organisations who manage our business and corporate strategies, including those involved in a transfer or sale of all or part of our assets or business (including accounts and trade receivables) and those involved in managing our corporate risk and funding functions (e.g. securitisation); </span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to any proposed or actual participant, assignee or transferee of all or any part of the relevant member of our operations or business; and/or </span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">to charities or non-profit organisations. </span></li>
+</ol>
+<p><span style="color: #ff8400;"><strong>Direct Marketing (if applicable)</strong></span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">We may, in compliance with applicable laws, rules, regulations and licence requirements, use your Data (including without limitation name, contact information, phone number, residential/office address and email address and information about the Services you have purchased), for us (including PCCW Limited and its respective subsidiaries, affiliates and associated companies) and our respective dealers, suppliers, licensors, providers and/or business partners (collectively, “</span><strong>Service Providers</strong><span style="font-weight: 400;">”)) to provide you with direct marketing content (pursuant to which we may or may not receive remuneration in return), including sending to you notices and/or updates about gifts, discounts, privileged offers, benefits and promotions related to Services offered by us and/or the Service Providers, including without limitation: TV, telecommunications, over-the-top (OTT) services, content services, mobile voice, SMS and data communications, IDD/roaming, Internet connectivity, cloud services, mobile payment, entertainment, secretarial services, personal assistant services and information services (such as weather, finance and news information), device accessories, mobile applications and software, computer peripheral, accessories and software (including notebooks, handsets, mobile devices and accessories, keyboards, security installations and mobile applications), reward, loyalty and privilege programs, lifestyle, networking events, travelling, banking, alcohol and tobacco, sports, music, gaming, transportation, household products, food and beverages, finance, insurance, wealth management services and products, pensions, investments, brokering, financial advisory, credit and other financial services and products, betting, education, health and wellness, beauty products and services, fashion and accessories, electronics, social networking, technology, e-commerce, logistics, retail, home and décor, media and high-end consumer products and services. Marketing may be carried out in a variety of ways (such as in the form of a letter, bill insert/message, email, digital SMS, MMS, instant message, app push notification, targeted TV message, broadcast message on </span><em><span style="font-weight: 400;">eye</span></em><span style="font-weight: 400;"> device, by telephone, social media or advertisements on websites or other means). &nbsp;</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Before using and providing your Data for the purposes as set out in this Privacy Statement, where we are required by law to obtain your written consent, and in such cases, only after having obtained such written consent, may we use and provide your Data for any promotional or marketing purpose. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">We will honour each individual's request to not use his/her Data for the purposes of direct marketing. You may opt-out from receiving direct marketing material and/or communications from the relevant Service and/or loyalty program. At the same time, you may resume receiving the same (if you have previously opted-out of receiving such material and/or communications from the relevant Service and/or loyalty program) by making a written request to our Privacy Compliance Officer together with your registered name and service account number, registered telephone number or login name (as applicable). </span></p>
+<p><span style="color: #ff8400;"><strong>Transfer of Data outside your Country </strong></span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">At times it may be necessary and/or prudent for us to transfer your Data to places outside of your Country, for instance, for the prevention, detection or investigation of crime or for storage, processing and other purposes for which the Data were collected. In the event that we do transfer your Data outside of your Country, we will do so in compliance with the prevailing requirements of the Ordinance, the GDPR where applicable and all other applicable privacy and data protection laws and regulations of your Country. </span></p>
+<p>&nbsp;</p>
+<p><span style="color: #ff8400;"><strong>The safety of your Data is important to us</strong></span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">All required efforts are made to ensure that any Data held by us is stored in a secure and safe place and is accessible only by our authorised employees or other Organisations referred to in this Privacy Statement.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">When we pass your Data to third party Organisations for them to process, we seek to ensure that they have appropriate security measures in place to keep your Data safe and to comply with applicable principles in relation to data protection. &nbsp;Some of the people we share your Data with may process it overseas. You can contact us for more information about the safeguards we use to ensure that your Data is adequately protected in these circumstances.</span></p>
+<p>&nbsp;</p>
+<p><span style="color: #ff8400;"><strong>Retention of your Data</strong></span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">We will retain your Data in accordance with our internal policies. Our policies are in compliance with the Ordinance and the GDPR where applicable, and cover the following principles: </span></p>
+<p>&nbsp;</p>
+<ol>
+    <ol>
+        <li style="font-weight: 400;"><span style="font-weight: 400;">Data will only be retained for as long as is necessary to fulfil the original or directly related purposes for which it was collected, unless the Data is also retained to satisfy any applicable legal, regulatory or contractual obligations; and </span></li>
+        <li style="font-weight: 400;"><span style="font-weight: 400;">Data are purged from our electronic, manual and other filing systems based on the above criteria and our internal procedures. </span></li>
+    </ol>
+</ol>
+<p>&nbsp;</p>
+<p><span style="color: #ff8400;"><strong>Links</strong></span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Our websites (including but not limited to </span><a href="http://www.vuclip.com"><span style="font-weight: 400;">www.vuclip.com</span></a><span style="font-weight: 400;">, m.vuclip.com, and www.viu.com) and mobile and TV applications (if any) may contain links to other websites, webpages and mobile and TV applications operated by third parties. We have no control over the content of the linked websites, webpages and mobile and TV applications or the way in which the operators of those websites, webpages and mobile and TV applications deal with your Data, and are not responsible for the content of such third party websites, webpages or mobile and TV applications. You should review the privacy policy of such third party websites, webpages and mobile and TV applications to understand the ways in which your Data may be used by those third parties.</span></p>
+<p>&nbsp;</p>
+<p><span style="color: #ff8400;"><strong>Your right to access, correct and delete Data</strong></span></p>
+<p><span style="font-weight: 400;">We take all reasonable precautions to ensure that the Data we collect, use and disclose is accurate, complete and up-to-date. However, the accuracy of that Data depends to a large extent on the Data you provide. You have a right to request access to, and correction of, your Data and we recommend that you: </span></p>
+<p>&nbsp;</p>
+<ol>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">let us know if there are any errors in your Data; and</span></li>
+    <li style="font-weight: 400;"><span style="font-weight: 400;">keep us up-to-date with changes to your Data.</span></li>
+</ol>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">If you wish to access or amend any of your Data we hold , or request that we delete any of your information &nbsp;that is no longer necessary for the provision of our Services, you may contact us in the manner as set forth &nbsp;under the “How to Contact Us” section. </span></p>
+<p><br><br><br></p>
+<p><span style="font-weight: 400;">We may apply an administrative charge for providing you with access to your Data in response to such request.</span></p>
+<p><span style="font-weight: 400;">You may decline to share Data with us and/or withdraw any consents which you may have provided, in which case, we may not be able to provide you with some of our Services.</span></p>
+<p><span style="font-weight: 400;">At any time, you may object to us holding or processing your Data, on legitimate grounds, save and except as otherwise permitted by the applicable law.</span></p>
+<p><span style="color: #ff8400;"><strong>How to contact us</strong></span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">For all issues and enquiries regarding our compliance with our obligations under the Ordinance, the GDPR where applicable and all other applicable privacy and data protection laws and regulations of your Country, and any request for access to, correction or deletion of your Data, please contact us in writing at:</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Privacy Compliance Officer</span></p>
+<p><span style="font-weight: 400;">PCCW Vuclip (Singapore) Pte. Ltd. </span></p>
+<p><span style="font-weight: 400;">8 Temasek Boulevard #35-01 </span></p>
+<p><span style="font-weight: 400;">Suntec Tower Three Singapore 038988</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">or via email to: &nbsp;<a href="mailto:privacy@vuclip.com">privacy@vuclip.com</a> &nbsp;</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">To raise an issue regarding our handling of your Data, please contact us in order that we can attempt to resolve your issue.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">This Privacy Statement may be amended from time to time and all handling of Data will be governed by the most recent version of this Privacy Statement, available on our website at www.vuclip.com/privacy-statement.php. If there is any inconsistency between the English and</span> <span style="font-weight: 400;">the local language versions (if any) of the Privacy Statement, the English version will prevail.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Personal Information Collection Statement</span></p>
+<p><br><br></p>
+<p><span style="font-weight: 400;">The personal data and other information (collectively, "</span><strong>Data</strong><span style="font-weight: 400;">") that we, PCCW Vuclip (Singapore) Pte Ltd, receive about you as a result of or in connection with the VIU &nbsp;service(s) (the “</span><strong>Service(s)</strong><span style="font-weight: 400;">”) are collected, used and retained by one or more of the members of the Vuclip Group (being, PCCW Vuclip (Singapore) Pte Ltd,</span> <span style="font-weight: 400;">Vuclip Malaysia Sdn Bhd, Vuclip Inc., PT Vuclip Digital Indonesia, Vuclip (India) Private Limited and Vuclip Middle East FZ-LLC), in accordance with the requirements of the requirements of the Personal Data (Privacy) Ordinance (Chapter 486 of the Laws of Hong Kong) (the “Ordinance”), and all other applicable privacy and data protection laws and regulations in the country in which you receive our Service(s), privacy laws and the Privacy Statement of the Vuclip Group (www.vuclip.com/privacy-statement.php)</span> <span style="font-weight: 400;">(the “</span><strong>Privacy Statement</strong><span style="font-weight: 400;">”). The applicable terms and conditions of the Service(s), the Privacy Statement, and this Personal Information Collection Statement all apply to and govern our collection, use and disclosure of your Data. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">For the purpose of processing of the Application, provision of the service(s) and managing the service account, the Data could be used by and/or disclosed to affiliates or related companies of the Vuclip Group and business partners.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Subject to your right indicated by checking the box below or leaving it unchecked (if the application process so provides), all the information in this application, including your contact information and account information, may be used to send you notice of gifts, discounts, privileged offers, benefits and any other promotions related either to this service being subscribed or to other kinds of goods and services including telecommunications network services, computer peripheral, accessories and software, secretarial services, personal assistance services, information services and the latest offers on various kinds of products or services including gaming, sports, music, beauty products, electronics, technology, e-commerce, cloud services, mobile payment, travelling, banking, investment, entertainment, transportation, household, fashion, food and beverages, alcohol and tobacco, insurance, education, health and wellness, social networking, media and high-end consumer products and services. Request for access to or correction of personal data can be made in writing via email <a href="mailto:privacy@vuclip.com">privacy@vuclip.com</a>.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Where cookies are used to collect Data about visitors: Our websites and apps use cookies or similar tracking tools on your machine or device in order for us to, for example, personalise your user experience and/or maintain your identity across multiple webpages and/or Internet sessions. Our websites and apps are initially set up to accept cookies. You can opt-out of or delete historical cookies by changing the settings on your web or mobile browsers; however, if you do so, you may find that certain features on our websites and/or our apps do not work properly.</span></p>
+<p><br><br><br></p></div><!-- top end-->
 
-
-
-<!-- nav结束，show开始 -->
-<div id="main">
-<div id="title">
-    <div class="font_3">Vuclip Privacy Policy</div>
-    </div>
-<div id="blue_bg2">&nbsp;</div>
-
-<div><a href="#Information" class="s_page">Information Collected</a></div>
-<div><a href="#User" class="s_page">Use of Your Personally Identifiable Information</a></div>
-<div><a href="#Opt-In " class="s_page">Opt-In and Opt-Out Policy</a></div>
-<div><a href="#My Account" class="s_page">My Account</a></div>
-<div><a href="#Cookies" class="s_page">Cookies</a></div>
-<div><a href="#Quality" class="s_page">Improving the Quality of Our Sites</a></div>
-<div><a href="#Notifications" class="s_page">Notifications of Changes</a></div>
-<div><a href="#Customer" class="s_page">Customer Service </a></div>
-
-
-<br>
-<div id="blue_bg2">&nbsp;</div>
-
-<div id="jobs">
-<a name="Information" class="job_title"><b>Information Collected</b></a>
-<p>This privacy policy ("Privacy Policy") of Vuclip™ discloses the privacy policy for the Service and is hereby incorporated by reference into the<a href="#"><terms> </terms></a>. 
-<br><br>
-We may collect information about you that is provided by you via the Service to us, such as your name, address, telephone number, e-mail address and other information that can identify you as a specific individual ("Personally Identifiable Information"). We do not knowingly collect information from children under 13 years old.
-<br><br>
-<a name="User" class="job_title"><b>User of Your Personally Identifiable Information </b></a>
-</p><p>Personally Identifiable Information collected on the Service may be used to: (i) send notifications; (ii) promote the Service and other available services and products to you; (iii) respond to your questions or suggestions; and/or (iv) improve the quality of the Service. We may use your e-mail address, telephone number, SMS address or other contact information to send you notifications about new features, products, services, specials, promotions or other opportunities available through the Service, or to confirm or improve customer service. 
-<br><br>
-<a name="Opt-In" class="job_title"><b>Opt-In and Opt-Out Policy </b></a>
-</p><p>We will not share your Personally Identifiable Information in ways different from what is disclosed in this Privacy Policy unless you specifically elect to make your Personally Identifiable Information available to third parties by selecting to "opt-in" in various places on the Service. Your "opt-in" elections will not, however, require us to share your Personally Identifiable Information with any third parties. Further, you may "opt-out" of any prior elections and of receiving certain types of communications at any time by contacting Customer Service as indicated elsewhere in this Privacy Policy. You agree that such actions, including the deletion of your Personally Identifiable Information and/or your election to opt-out of receiving certain communications, may impact your ability to fully use the Service.
-<br><br>
-<a name="My Account" class="job_title"><b>My Account  </b></a>
-</p><p>If you have registered with the Service, the "My Account" area of the Service will allow you to view, correct or delete information collected about you. If you delete information contained in "My Account," you may not be able to fully enjoy many of the features and advantages available through the Service. Information deleted from "My Account" will be removed from all viewable screens on the Service, but may remain in our archives (unless you request otherwise by contacting Customer Service as indicated elsewhere in this Privacy Policy).
-
-<br><br>
-<a name="Cookies" class="job_title"><b>Cookies</b></a>
-</p><p>We may collect certain technical information about your device while you are using the Service. This information may include your IP address, operating system, web browser software and your unique device information. We may automatically assign you a "cookie" (i.e., a tiny packet of identifying information stored on your device) each time you visit the Service. This cookie does not contain any Personally Identifiable Information about you. You may be able to choose to not receive a cookie by enabling your device to refuse cookies or prompt you before accepting a cookie. You agree that by refusing to accept a cookie you will not be able to make optimal use of the Service. We may use third-party advertising technology and cookies to serve ads when you visit web sites upon which we advertise. In addition, we may use web beacons, provided by our ad serving partner, to help manage our online advertising. 
-
-<br><br>
-<a name="Quality" class="job_title"><b>Improving the Quality of Our Sites</b></a>
-</p><p>We may collect information about your device for the purpose of assessing the effectiveness of the content and traffic of the Service. This data allows us to improve the quality of your visit by streamlining your ability to navigate the Service. We do not track your IP address or collect information about your visits to other Internet sites. Information about you and your use of the Service may be aggregated with other information collected on the Service or other sites or otherwise used in ways that do not personally identify you or constitute Personally Identifiable Information. This type of aggregated or statistical information may be used by us to improve the quality of the Service or for other purposes that we may deem appropriate.
-
-<br><br>
-<a name="Notifications" class="job_title"><b>Notifications of Changes</b></a>
-</p><p>We reserve the right to modify or amend this Privacy Policy at any time and for any reason. If we elect to use your Personally Identifiable Information in a manner materially different from that stated at the time of collection, we will notify you via e-mail or other available means and provide you with the ability to .opt-out. of such use. In addition, if we make any material changes in our privacy practices, we will post a prominent notice on the Service notifying users of the change, even if it does not affect Personally Identifiable Information already stored in our database. In some cases, when we post such a notice we may also e-mail certain users to notify them of the changes in our privacy practices. 
-
-<br><br>
-<a name="Customer" class="job_title"><b>Customer Service</b></a>
-</p><p>If you need help using the Service or have a question regarding the Terms, this Privacy Policy or the products or services offered by any of our service providers, please contact Customer Service at:
-
-</p><p>By Mail:<br>
-Vuclip<br>
-1551 McCarthy Boulevard<br>
-Suite 213<br>
-Milpitas, CA 95035<br>
-Attn: Customer Service<br><br>
-</p><p>
-By Phone: (408) 649-2240<br>
-By E-mail:<a href="mailto:privacy@vuclip.com"> privacy[at]vuclip.com</a>
-
-
-<br>
-</p></div>
-</div><!-- main结束 -->
-<div> <a href="#" class="back">&lt; Back to top</a></div>
-<div id="blue_bg2">&nbsp;</div>
-<div id="ad"> <a href="Partner.html"><img src="images/ad_partners.jpg"></a><a href="Management.html"><img src="images/ad_team.jpg"></a><a href="http://blog.vuclip.com" target="_blank"><img src="images/ad_blog.jpg"></a>
-</div><!-- marquee -->
-<div><br><br></div>
-<!-- marquee结束，other开始 -->
-<div id="submenu">
- <a href="Get.html">Get Vuclip </a>  <span class="sub_1">l</span>   <a href="About.html">About Vuclip </a> <span class="sub_1">l</span> <a href="Partner.html"> Partner With Vuclip </a> <span class="sub_1">l </span><a href="Jobs.html">Jobs</a>  <span class="sub_1">l</span>  <a href="FAQ.html">FAQ</a><span class="sub_1">   l</span>   <a href="Sitemap.html">Site Map </a> </div>  <!-- other --> 
-<div><br></div>
-
-<center><div id="sub">
-<a href="Terms_Of_Use.html">Terms &amp; Conditions</a><span class="sub_2">l</span>   <a href="Privacy.html">Privacy Policy</a>
-</div></center>
-<div><br></div>
-<center>
-<div id="footer">© Xinlab, Inc. 2007-2010. All rights reserved.</div><!-- footer -->
-</center>
-</div>  <!-- container -->
-<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">var pageTracker = _gat._getTracker("UA-559713-5");pageTracker._trackPageview();</script>
-
+<p class="terms"><a href="http://w.vuclip.com">Corporate Site</a><span> l </span><a href="pp?z=&amp;frm=pp&amp;bu=9474239250">Privacy</a><span> l </span><a href="tc?z=&amp;frm=pp&amp;bu=9474239250">Terms</a><span> l </span><a href="rp?z=&amp;frm=pp&amp;bu=9474239250">Help</a></p>
+<p class="copy">© Vuclip, Inc. 2008-16. All rights reserved.</p></div><!-- wrap end-->
+<script type="text/javascript">
+var gps = "0";
+var screenInfo = "";
+</script>
+<script src="/cm/js/base64.js?v=20170628"></script>
+<script src="/androidv3/scripts/geoPosition.js?v=20170628" type="text/javascript"></script>
+<script src="/androidv3/scripts/geoPositionSimulator.js?v=20170628" type="text/javascript"></script>
+<script src="/androidv3/scripts/menu.js?v=20170628" type="text/javascript"></script>
 </body></html>
