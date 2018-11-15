@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vhslearning.org privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531090435id_/http%3A//www.vhslearning.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vhslearning.org privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115195259id_/https%3A//vhslearning.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Virtual High School
 
