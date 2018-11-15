@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stilltasty.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523115003id_/http%3A//www.stilltasty.com/Staticpages/view/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stilltasty.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115011226id_/https%3A//www.stilltasty.com/Staticpages/view/Privacy%2520Policy) for the most accurate reproduction.*
 
 # StillTasty.com | Privacy Policy
 
@@ -86,4 +86,4 @@ The Sites are operated in the United States. If you are located in the European 
 
 By using any of the Sites, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our Sites. Your continued use of the Sites following the posting of changes shall constitute your acceptance of those changes.
 
-(Last modified on December 2, 2009.)
+(Last modified on July 24, 2018)
