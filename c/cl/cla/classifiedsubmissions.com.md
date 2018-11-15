@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the classifiedsubmissions.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515204406id_/http%3A//www.classifiedsubmissions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedsubmissions.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115181559id_/http%3A//www.classifiedsubmissions.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Classified Submissions
+# Privacy Policy – Classified Submissions Ad Posting and Website Promotion Service
 
 This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
 
