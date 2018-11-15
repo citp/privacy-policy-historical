@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yougowords.com privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730123654id_/http%3A//www.yougowords.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yougowords.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115181516id_/http%3A//www.yougowords.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - You Go Words!
 
-On every page you write information, such as poetry, you are given the option of how you want to display this information. You can choose "only me" to ensure, it is not publicly available. You can choose to not display, or to display what you write, whether it be comments (Except social network comment areas), articles, poetry or other.
+On every page you write information, such as poetry, you are given the option of how you want to display this information. You can choose "only me" to ensure it is not publicly available. You can choose to not display, or to display what you write, whether it be comments (Except social network comment areas), articles, poetry or other. On your member profile page, a checkbox to delete your account is available. This informs and admin to remove and delete all data from your account and disable your account from the You Go Media network.
 
-Your information, is yours and yours alone. It is not sold, given away, nor provided to any third party. Your information is used solely for the purpose of You Go Words, You Go Rhymes and other personal projects you have become a part of that are a You Go Media property.
+Your information is used solely for the purpose of You Go Words, You Go Rhymes and other personal projects you have become a part of that are a You Go Media property.
 
 I hope you enjoy the privacy I provide on this website, and my other personal projects. If you have any concerns or questions, please ensure you contact me or leave feedback in the comment areas throughout this website.
 
@@ -14,11 +14,11 @@ You Go Words
 
 ### My Policy
 
-This Privacy Policy governs the manner in which You Go Words! collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.yougowords.com](http://www.yougowords.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by You Go Words!.
+This Privacy Policy governs the manner in which You Go Words! collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.yougowords.com](http://www.yougowords.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by You Go Words!. Please read this policy carefully before using this Website. If you do not accept the terms of this privacy policy or our [terms of use](http://www.yougowords.com/terms-of-service.html "Terms Of Use and Conditions"), please do not use this Website.
 
 **Personal identification information**
 
-I may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit my site, register on the site, place an order, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources I make available on my Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit my Site anonymously. I will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+I may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit my site, register on the site, place an order, subscribe to a newsletter, fill out a form, or in connection with other activities, services, features or resources I make available on You Go Words! Users may be asked for as appropriate, name and email address. Users may, however, visit my website anonymously. I will collect personal identification information from Users only if they voluntarily submit such information. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 **Non-personal identification information**
 
@@ -26,7 +26,7 @@ I may collect non-personal identification information about Users whenever they 
 
 **Web browser cookies**
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+You Go Words uses "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 **How I use collected information**
 
@@ -79,26 +79,13 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact me at:  
 [You Go Words!  
 http://www.yougowords.com](http://www.yougowords.com/)  
 James A. Cordeiro Direct: james@yougomedia.com  
-1 (77H) APP-Y444  
+(204) 869-6297  
 support@yougowords.com
 
-This document was last updated on October 24, 2014
+This document was last updated on June 6th, 2018
 
 loading...
-
-#### Word Finder Social Comments.
-
-You guys and gals are all awesome. Please read the [about page](https://web.archive.org/about-me.html) to learn who I am, and how this word finding tool works behind the scenes. This is a free word website, made by one dude. If you are not happy with this **free website** , I ask that you please send feedback or comment your thoughts below. Your constructive and kind criticism is appreciated.
-
-  * Google+
-  * Page Specific
-
-
-
-Thank you for visting. I will be adding a comments tool for all writers, authors and members to interact and associate yourselves with words!
-
-All comments will be moderated by authorized editors.
