@@ -1,36 +1,29 @@
-> *The following text is extracted and transformed from the yout.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501132455id_/http%3A//yout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yout.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116002609id_/https%3A//yout.com/privacy) for the most accurate reproduction.*
 
-# YouT Store
+# Privacy Policy | Yout
 
-Privacy Policy Statement
+Your privacy is very important to us at Yout. This Privacy Policy document outlines what data Yout receives and how we store, manage, and protect it.
 
-This is the web site of **YouT.com**.
+This policy is subject to change at any time, for any reason. This policy was last updated on January, 9th 2016.
 
-We are located in   
+### Logs
 
+Yout uses log files, which are files that record information including requested webpage resources, IP addresses, browser types, and timestamps. This information is used by Yout for troubleshooting, service analysis, and site maintenance. This information cannot be directly linked to personally identifiable information.
 
-**
+Log files, and any data therein, are not shared with any third party.
 
-Philadelphia, PA
+### Collected Information
 
-**
+Yout receives and stores information that you enter on the website. This includes requested resources, search queries, and DVR settings. This information is stored to monitor and analyse service activity. This information cannot be linked to personally identifiable information.
 
-We can be reached via e-mail at [](mailto:support@yout.com)[support@yout.com](mailto:support@yout.com)
+All information you enter is voluntary. None of this information is shared with any third party.
 
-or you can reach us by telephone at 
+### Cookies
 
-We collect aggregate information on what pages consumers access or visit.
+Yout stores your preferences in cookies. While these cookies improve your experience by remembering your settings, they're completely optional. All of Yout's features and services work without cookies.
 
-The information we collect is used to improve the content of our Web page.
+Cookies may be stored by third parties via third party content embedded in Yout, like multimedia players, analytics, and advertisements. Yout has no control over the cookies stored by third parties.
 
-With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart.
+### Questions
 
-If you do not want to receive e-mail from us in the future, please let us know by or using the unsubscribe feature..
-
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.  If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
-
-Upon request we provide site visitors with access to communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries).
-
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+If you have any questions about this Privacy Policy, feel free to [contact us](https://web.archive.org/contact-us/).
