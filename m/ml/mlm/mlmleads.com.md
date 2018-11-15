@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlmleads.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517101952id_/http%3A//www.mlmleads.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmleads.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115123159id_/http%3A//www.mlmleads.com/home/privacy.html) for the most accurate reproduction.*
 
 # MLM Leads Consultation - Call Today - (785) 539-6904
 
