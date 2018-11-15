@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the appboy.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609043335id_/https%3A//www.braze.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appboy.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115183829id_/https%3A//www.braze.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Braze
 
-**Last Updated:** May 2018
+**Last Updated:** September 2018
 
 ## PART I. GENERAL INFORMATION
 
@@ -19,7 +19,7 @@ To ensure that your privacy is protected and your privacy choices are respected,
 
 ### Introduction to Braze
 
-Braze is a U.S. company, headquartered in New York, with global operations. Braze is a life-cycle engagement platform for companies around the world (" **our Customers** "), supporting stronger relationships between brands and their clients, primarily by leveraging first party data to personalize and automate lifecycle marketing campaigns through first party channels, such as email, mobile and web push notifications, and in-app/in-browser messaging. In practical terms, this means that we collect information for our use or on behalf of our Customers to customize messages to such visitors (“ **you** ”), including marketing messages, that you may find useful and to help Braze and our Customers understand your marketing preferences. Braze acts as both a “Data Controller”, where we determine the purposes and means of the processing of personal information, and as a “Data Processor” where we process personal information on behalf of our Customers.
+Braze is a U.S. company, headquartered in New York, with global operations. Braze is a life-cycle engagement platform for companies around the world (" **our Customers** "), supporting stronger relationships between brands and their clients, primarily by leveraging first party data to personalize and automate lifecycle marketing campaigns through first party channels, such as email, mobile and web push notifications, and in-app/in-browser messaging. In practical terms, this means that we collect information for our use or on behalf of our Customers to customize messages to such visitors (“you”), including marketing messages, that you may find useful and to help Braze and our Customers understand your marketing preferences. Braze acts as both a “Data Controller”, where we determine the purposes and means of the processing of personal information, and as a “Data Processor” where we process personal information on behalf of our Customers.
 
 More information about Braze can be found at [www.braze.com](https://www.braze.com/).
 
@@ -31,7 +31,7 @@ Braze acts as a Data Controller with respect to the personal information it coll
 
 ### Use of personal information
 
-Braze collects personal information from users of our Website for several purposes, including enabling us to understand who is interested in learning about our products, services, content, and company related initiatives. In addition we capture communication preferences people want when engaging with our organization. In connection with those purposes, we collect and use the following types of personal information:
+Braze collects personal information from users of our Website for several purposes, including enabling us to understand who is interested in learning about our products, services, content, and company related initiatives. In addition, we capture communication preferences people want when engaging with our organization. In connection with those purposes, we collect and use the following types of personal information:
 
   * Your contact details and information about you (such as the company you work for) so that we can respond to you when you contact us or we contact you;
   * Any personal information contained in the content of any email or other communication that you send to Braze, for example, when you make inquiries about Braze and its products;
@@ -53,7 +53,7 @@ Braze processes personal information about you when we act as a Data Processor o
 
 ### Information collected about you automatically when you use a Customer Application or website that has integrated any Braze technology
 
-Our Customers may choose to collect within the Services information about you when you visit a Customer website or when you download and use a Customer Application on your computer or mobile device, and Braze technology has been integrated into that Customer Application or website. Braze technology will automatically track certain usage metrics involved with your use of that Customer Application (such as when you first used the Customer Application and when you last used it, the total number of sessions you have had on that Customer Application). We also automatically track certain device information (such as your language and locale preferences, your current time zone, wireless carrier and relevant device metadata). A detailed list of what information is automatically captured by the Braze technology can be found [here](https://www.braze.com/documentation/Platform_Wide#user-data-collection).
+Our Customers may choose to collect within the Services information about you when you visit a Customer website or when you download and use a Customer Application on your computer or mobile device, and Braze technology has been integrated into that Customer Application or website. Braze technology will automatically track certain usage metrics involved with your use of that Customer Application (such as when you first used the Customer Application and when you last used it, the total number of sessions you have had on that Customer Application). We also automatically track certain device information (such as your language and locale preferences, your current time zone, wireless carrier and relevant device metadata). A detailed list of what information is automatically captured by the Braze technology can be found at <https://www.braze.com/docs/user_guide/data_and_analytics/user_data_collection/overview/#user-data-collection>.
 
 ### Information our Customers choose to send to us when you use a digital property that has integrated any Braze technology
 
@@ -82,14 +82,14 @@ We may use the information we collect from our Customers for a variety of reason
 
 ### Sharing and disclosure of information to third parties
 
-We may share and disclose information about our Customers and you in the following circumstances:
+We may share and disclose information about our Customers and you to the following types of third parties and for the following purposes:
 
   *  _To Customers_ – we may disclose information to our Customers in the form of aggregated, anonymous data about the way the Services have been used to enable us to provide and improve our Services, to provide strategic advice to our Customers, and to further and enhance our role as a thought leader in the industry;
   *  _To Vendors, consultants and other service providers_ \- If our Customers direct us to do so, we may share information with third party vendors, consultants and other service providers who use your information to enable our Customers to send you messages that are targeted to your preferences. For example, our Customers may direct us to work with a third-party location service provider or a third-party translation-service provider. Our Customers may also direct Braze to send information to other websites or vendors, and Braze, as the Data Processor, will follow the directions of its Customers, who are the Data Controllers;
   *  _Compliance with laws_ – we may disclose information to a third-party where we are legally required to do so in order to comply with any applicable law, regulation, legal process or governmental request;
   *  _Protection of our legal rights_ – we may also disclose information where we believe it necessary in order to protect or exercise, establish or defend our legal rights;
   *  _Business transfers_ – we may share or transfer information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company; and
-  *  _Provision of our Services_ – We use sub-processors in our provision of the Braze Services to our Customers, such as third party hosting providers and third party database support services. Some of these third party sub-processors may have logical access to data about you, but in all cases, any sub-processor to whom we disclose any information will be subject to a written agreement containing confidentiality protections designed to protect any personal information that is shared with them.
+  *  _Provision of our Services_ – We use sub-processors in our provision of the Braze Services to our Customers, such as third-party hosting providers and third-party database support services. Some of these third-party sub-processors may have logical access to data about you, but in all cases, any sub-processor to whom we disclose any information will be subject to a written agreement containing confidentiality protections designed to protect any personal information that is shared with them.
 
 
 
@@ -97,9 +97,18 @@ We may share and disclose information about our Customers and you in the followi
 
 ### Processing of personal information in the U.S. and elsewhere
 
-Specifically, our Website servers are located in the United States, and our group companies and third party service providers and partners operate in the United States, Singapore and the United Kingdom. This means that when we collect your personal information as a Data Controller, we may process it in any of these countries. These countries may have data protection laws that are different to the laws of your country (and, in some cases, may not be as protective), but we will put in place appropriate safeguards.
+Specifically, our Website servers are located in the United States, and our group companies and third-party service providers and partners operate in the United States, Singapore and the United Kingdom. This means that when we collect your personal information as a Data Controller, we may process it in any of these countries. These countries may have data protection laws that are different to the laws of your country (and, in some cases, may not be as protective), but we will put in place appropriate safeguards, including certification to the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce.
 
-Braze stores our Customer’s data either in the United States or in the European Union at data centers run by third-party hosting providers. As Data Controllers, our Customers decide where they want their data stored and Braze, as a Data Processor, complies with our Customers’ instructions. Personal information stored in Braze’s EU data center may nonetheless be accessed in the United States in connection with the provision of technical and customer support. In order to validate this transfer of personal data from the EU to the United States, Braze enters into the Standard Contractual Clauses (the “Model Clauses”) with our EU Customers on request, in order to ensure that this personal data is adequately protected in accordance with EU standards. Where Braze uses sub-processors located in other jurisdictions, it will employ methods to validate the transfer of personal data to such jurisdictions from the United States in accordance with the requirements of applicable law.
+Braze stores our Customer’s data either in the United States or in the European Union at data centers run by third-party hosting providers. As Data Controllers, our Customers decide where they want their data stored and Braze, as a Data Processor, complies with our Customers’ instructions. Personal information stored in Braze’s EU data center may nonetheless be accessed in the United States in connection with the provision of technical and customer support. Where Braze uses sub-processors located in other jurisdictions, it will employ methods to validate the transfer of personal data to such jurisdictions from the United States in accordance with the requirements of applicable law.
+
+Braze complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Braze has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/. Braze is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In connection with onward transfers, Braze has responsibility for the processing of personal information that it receives under the Privacy Shield and subsequently transfers to any third party who is acting as an agent on Braze’s behalf. Braze will remain responsible under the Privacy Shield Principles if any such agent processes such personal information in a manner that is inconsistent with those Principles, unless Braze can provide evidence that it is not responsible for the event giving rise to the damage. In compliance with the Privacy Shield Principles, Braze commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Braze at:
+
+privacy@braze.com  
+Braze Privacy Policy Issues  
+318 West 39th Street, 5th floor  
+New York, NY 10018
+
+Braze has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints regarding personal data transferred from the EU and Switzerland. Under certain circumstances, individuals may be able to invoke binding arbitration, in accordance with the Privacy Shield requirements. In addition, as a U.S.-based company, Braze may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 ### Security
 
@@ -125,7 +134,7 @@ You have the right to decide whether to allow websites such as braze.com to lay 
 
 ### Tracking Technologies used in connection with our Services
 
-Braze may use local storage and other tracking technologies in connection with the provision of the Braze Services to our Customers when a Customer has integrated any Braze technology into the Customer website or other digital property. Braze also uses local storage, which is another type of tracking technology, to recognize you when you use a Customer Application or other digital property that integrates Braze technology. Our Customers want to recognize you when you return to their Customer Applications or other digital properties and tracking technologies enable them to tailor content and messages to you based on your prior behavior within the Customer Application or other digital property. Our contracts require our Customers to disclose the use of these tracking technologies to you in their privacy policies and/or the terms of use for their websites or other digital properties. 
+Braze may use local storage and other tracking technologies in connection with the provision of the Braze Services to our Customers when a Customer has integrated any Braze technology into the Customer website or other digital property. Braze also uses local storage, which is another type of tracking technology, to recognize you when you use a Customer Application or other digital property that integrates Braze technology. Our Customers want to recognize you when you return to their Customer Applications or other digital properties and tracking technologies enable them to tailor content and messages to you based on your prior behavior within the Customer Application or other digital property. Our contracts require our Customers to disclose the use of these tracking technologies to you in their privacy policies and/or the terms of use for their websites or other digital properties.
 
 ## PART VI. YOUR PRIVACY RIGHTS
 
@@ -180,7 +189,8 @@ Our Services are not directed to individuals under the age of 13. We do not know
   
 [privacy@braze.com](mailto:privacy@braze.com)  
 Braze Privacy Policy Issues  
-318 West 39th Street, 5th Floor, New York, NY 10018
+318 West 39th Street, 5th Floor  
+New York, NY 10018
 
 
 
