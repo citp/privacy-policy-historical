@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtueplanet.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016083648id_/https%3A//www.virtueplanet.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtueplanet.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115150058id_/https%3A//www.virtueplanet.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Policies | VirtuePlanet
 
