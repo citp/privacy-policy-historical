@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crissangel.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017021919id_/https%3A//crissangel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crissangel.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115021337id_/https%3A//crissangel.com/privacy-policy) for the most accurate reproduction.*
 
 # CrissAngel Privacy Policy
 
