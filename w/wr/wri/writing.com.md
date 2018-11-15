@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writing.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913114939id_/https%3A//www.writing.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writing.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115074708id_/https%3A//www.writing.com/main/privacy.php) for the most accurate reproduction.*
 
 # Our Privacy Statement - Writing.Com
 
@@ -8,21 +8,18 @@
 > 
 > Information Automatically Logged 
 > 
-> We use your IP address to help diagnose problems with our server and to administer our Web site. It is also used to help determine the number of unique vistors to our website. 
+> We use your IP address to help diagnose problems with our servers and to administer our Web site. It is also used to help determine the number of unique vistors to our website and prevent fraud, scams and fake accounts. 
 > 
 > Cookies 
 > 
-> Our Site uses cookies to save an encrypted version of your password so you don't have to re-enter it as you surf through our site. Your login cookie will expire 24 hours after logging in, or longer if set within your account preferences, or immediately upon clicking any "logout" link. 
+> Our Site uses cookies to save an encrypted version of your password so you don't have to re-enter it as you surf through our site. Your login cookie also continains other information, such as your username and session ID. Login cookies will expire 24 hours after logging in, or longer if set within your account preferences, or immediately upon clicking any "logout" link. Other cookie information may contain refering information that we use to track the effectiveness of our marketing and advertising efforts. 
 > 
 > Advertisers 
 > 
 > We use various outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 >
 >> We serve advertisements from the following ad companies:  
->  Google.Com  
->  CasaleMedia.Com  
->  ValueClick.Com  
->  and various other companies. 
+>  Google.Com and from time to time various other companies. 
 > 
 > We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
 > 
@@ -36,7 +33,7 @@
 > 
 > Surveys, Polls and More 
 > 
-> site members have the ability to create their own surveys, polls and other interactive applications. Information submitted to these is not provided to , but instead to the creator of the application. 
+> Writing.Com site members have the ability to create their own surveys, polls and other interactive applications. Information submitted to these is not provided to Writing.Com, but instead to the creator of the application. 
 > 
 > External Links 
 > 
@@ -53,7 +50,5 @@
 > Contacting the Web Site 
 > 
 > If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [support@Writing.Com](mailto:support@Writing.Com) which will provide instructions for contacting us. 
-> 
-> * * *
 
 Printed from http://www.writing.com/main/privacy.php
