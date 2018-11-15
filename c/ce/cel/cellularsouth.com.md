@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellularsouth.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626172908id_/http%3A//www.cspire.com/legal/general_landing.jsp%3Fid%3D/generic/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellularsouth.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115170717id_/http%3A//www.cspire.com/legal/general_landing.jsp%3Fid%3D/generic/privacyPolicy) for the most accurate reproduction.*
 
 # None
 
@@ -89,7 +89,7 @@ You can control the use of cookies at the individual browser level. If you rejec
 
 As is true of most websites, we gather certain information automatically. As discussed above, this information includes IP addresses, browser type, ISP provider, referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about the user base as a whole. 
 
-We partner with third parties to either display advertising on the Sites or to manage our advertising on other websites. Our third party partners use cookies and similar technologies in order to provide you targeted advertising based on your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out of interest-based advertising by clicking [here](https://www.cspire.com/my_account/personal/profile/). Please note you will continue to receive generic ads.
+We partner with third parties to either display advertising on the Sites or to manage our advertising on other websites. Our third party partners use cookies and similar technologies in order to provide you targeted advertising based on your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out of interest-based advertising by clicking [here](http://preferences-mgr.truste.com/). Please note you will continue to receive generic ads.
 
 **SECURITY**
 
