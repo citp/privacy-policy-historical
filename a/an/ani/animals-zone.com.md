@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the animals-zone.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513234242id_/http%3A//www.animals-zone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animals-zone.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115010138id_/http%3A//www.animals-zone.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy PolicyPrivacy Policy | Animals Zone
+# <!--:en-->Privacy Policy<!--:--><!--:es-->Privacy Policy<!--:--> | Animals Zone
 
 **Privacy Policy**
 
-This privacy statement covers all websites of [Dreamattic S.A.](http://www.dreamattic.com/) (“Dreamattic”). At Dreamattic, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit websites and services (“Services”) published by Dreamattic and how we safeguard your information. Please read this statement carefully before proceeding to access oursites. **By using the Services you agree to the terms of this Privacy Policy.**
+This privacy statement covers all websites of [Dreamattic S.A.](https://www.dreamattic.com/) (“Dreamattic”). At Dreamattic, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit websites and services (“Services”) published by Dreamattic and how we safeguard your information. Please read this statement carefully before proceeding to access oursites. **By using the Services you agree to the terms of this Privacy Policy.**
 
 **We never sell your personal information to third parties.**
 
@@ -55,11 +55,11 @@ Though we make every effort to preserve user privacy, Dreamattic may need to dis
 Whenever Dreamattic changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 **Contact Information**  
-If you have any questions or suggestions regarding our privacy policy, please [contact us](http://www.dreamattic.com/forms/contactus).
+If you have any questions or suggestions regarding our privacy policy, please [contact us](https://www.dreamattic.com/forms/contactus).
 
 **Privacy Policy** ****
 
-This privacy statement covers all websites of [Dreamattic S.A.](http://www.dreamattic.com/) (“Dreamattic”). At Dreamattic, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit websites and services (“Services”) published by Dreamattic and how we safeguard your information. Please read this statement carefully before proceeding to access our **** sites. **By using the Services you agree to the terms of this Privacy Policy.**
+This privacy statement covers all websites of [Dreamattic S.A.](https://www.dreamattic.com/) (“Dreamattic”). At Dreamattic, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit websites and services (“Services”) published by Dreamattic and how we safeguard your information. Please read this statement carefully before proceeding to access our **** sites. **By using the Services you agree to the terms of this Privacy Policy.**
 
 **We never sell your personal information to third parties.**
 
@@ -110,4 +110,4 @@ Though we make every effort to preserve user privacy, Dreamattic may need to dis
 Whenever Dreamattic changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 **Contact Information**  
-If you have any questions or suggestions regarding our privacy policy, please [contact us](http://www.dreamattic.com/forms/contactus).
+If you have any questions or suggestions regarding our privacy policy, please [contact us](https://www.dreamattic.com/forms/contactus).
