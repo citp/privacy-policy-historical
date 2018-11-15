@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pythonanywhere.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625223712id_/https%3A//www.pythonanywhere.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pythonanywhere.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115213524id_/https%3A//www.pythonanywhere.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy: PythonAnywhere
 
