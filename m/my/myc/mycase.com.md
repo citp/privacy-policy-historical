@@ -1,41 +1,97 @@
-> *The following text is extracted and transformed from the mycase.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630045152id_/http%3A//www.mycase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycase.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115220233id_/https%3A//www.appfolio.com/privacy) for the most accurate reproduction.*
 
-# Terms & Conditions | MyCase
+# Privacy Policy
 
-When You register for a MyCase account You can be certain that we have implemented comprehensive security practices to ensure that only You and those people You provide authorized access to can see your account. We respect your right to privacy and feel it is important for You to know how we handle the information we receive from You via our website at [www.MyCase.com](http://www.mycase.com/) (the "Site") and services offered on the Site (the "Service").
+**APPFOLIO, INC. PRIVACY POLICY**
 
-### Information You Provide
+LAST UPDATED: MAY 24, 2018
 
-When You register for the Service, we ask for information such as your name, firm name and address, e-mail address, phone number and credit card information. If You sign up for the 30-day free trial account, You are not required to enter your credit card information until You decide to continue with a paid plan. MyCase uses a third-party intermediary to manage credit card processing. This intermediary is not permitted to store, retain, or use your billing information except for the sole purpose of credit card processing on MyCase's behalf.
+AppFolio, Inc. and its subsidiaries (collectively, "we", "us", "our" and/or "AppFolio") understand that your personal information is important, and we take your privacy seriously. We have crafted this Privacy Policy with those foundational principles in mind, and have endeavored to clearly describe the ways we collect, store, use and protect your personal information across our various platforms. With that said, we understand that you may have questions regarding this Policy and/or other issues related to data privacy and protection, and invite you to email us anytime at [privacy@appfolio.com](mailto:privacy@appfolio.com).
 
-You can modify your account information at anytime by clicking on the Account link in the global navigation bar at the top of the screen. MyCase's practice is not to use such personal information for marketing purposes. MyCase may use the collected personal information and other information MyCase collects about your use of the Service to operate and make the Service available to You, for billing, identification and authentication, to contact You about your use of the Service, research purposes and to generally improve the content and functionality of the Service and Site.
+In light of constantly evolving data privacy laws, rules, regulations and industry best practices, we must reserve the right to revise this Policy from time to time. When we do so, we will modify the "Last Updated" date listed above. Further, if we deem any change material in our sole and absolute discretion, we may post a related notice in our software and/or contact you by electronic mail. Regardless, your continued use of our websites, including without limitation [www.appfolioinc.com](https://www.appfolioinc.com/), [www.appfolio.com](https://web.archive.org/), [www.mycase.com](https://www.mycase.com/), [www.roostrentersinsurance.com](http://www.roostrentersinsurance.com/) and related sites (collectively, the "Websites"), and/or any of our Services (as that term is defined on our Terms of Service), shall constitute your acceptance of any revisions we make.
 
-MyCase may also transmit or share your personal information with its third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and other technology and services required to operate and maintain the Service, which may require that your personal information be transferred from Your current location to the offices and servers of MyCase and the authorized third parties referred to here. Although MyCase owns the software, code, databases, all rights to the MyCase application, You retain all rights to your data.
+**COLLECTION AND USE OF PERSONAL AND NON-PERSONAL INFORMATION**
 
-### Cookies
+AppFolio collects certain information about you in the course and scope of providing access to its Websites and/or Services. For example, we collect certain personal information that you voluntarily provide, typically including without limitation your name, email address, company name, certain geographical information and your contact telephone number, whether via our Websites or our Services, and however accessed (e.g., desktop, laptop, mobile or any other device). We also collect information you provide via telephone or electronic mail and, in some cases, in the course of in-person interactions with us. This permits us to communicate with you about our Services and related topics.
 
-When You visit the Site or use the Service, we use session "cookies" – a piece of information stored on your computer – to allow the Site or Service to uniquely identify your browser while You are logged in and to enable MyCase to process your online transactions. Session cookies also help us confirm your identity and are required in order to use the Service. MyCase uses persistent cookies that only MyCase can read and use, to identify You as a MyCase customer and make it easier for You to log in to the Service. Users who disable their web browsers' ability to accept cookies will be able to browse our Site, but will not be able to access or take advantage of the Service.
+In addition to information you voluntarily provide to us, we also automatically collect certain non-personal, technical information about you and/or your devices as you interact with our Websites or Services, and we store that information in log files. For example, we may collect your IP address, browser type, internet service provider, operating system, click stream data, the pages you view on any or all of our Websites, the pages you view before and after viewing our Websites and any search terms you use on any of our Websites. This permits us to recognize you and personalize your experience on our Websites, and, more generally, to improve our Websites and Services as a result of any learnings we may glean from information collected.
 
-### Information Sharing
+We may also collect information about you from third parties who already have your information in their possession, custody or control, as part of our normal outbound marketing efforts. 
 
-Except as described in this policy, MyCase will not give, sell, rent, or loan any identifiable personal information to any third party. We may disclose such information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share such information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law. MyCase may also provide non-personal, summary or group statistics about our customers, sales, traffic patterns, and related Site information to reputable third-party vendors, but these statistics will include no personally identifying information.
+**COOKIES**
 
-### Protection of Information
+A cookie is a small text file that is stored on your computer for record-keeping purposes. We use cookies to make your experience easier for you by saving your preferences while you are at any of our Websites. The use of cookies is an industry standard, and as such, you will find them at most major websites. By showing how and when visitors use our Websites, cookies help us see which areas are popular and which are not. Many improvements and updates to our Websites are based on data we collect, such as total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to better tailor our Websites and Services to our users’ needs.
 
-MyCase maintains reasonable security measures to protect your information from loss, destruction, misuse, unauthorized access or disclosure. These technologies help ensure that your data is safe, secure, and only available to You and to those You provided authorized access. However, no data transmission over the Internet or information storage technology can be guaranteed to be 100% secure.
+**OUR CUSTOMERS’ BUSINESS DATA**
 
-### Changes to Privacy Policy
+Our customers use our Services to host commercially and personally sensitive information related to their businesses. That information is confidential and, in some cases, proprietary, to our customers. As such, we do not review, share, distribute or reference any such information except as necessary to provide the Services in a professional manner consistent with our legal, regulatory and other obligations, and subject to our Terms of Service.
 
-MyCase may update this policy from time to time. You can review the most current version of this privacy policy at any time at http://www.MyCase.com/privacy. Your continued use of the Site or Service constitutes your agreement to be bound by such changes to the privacy policy. Your only remedy, if You do not accept the terms of this privacy policy, is to discontinue use of the Site and Service.
+Further, we may share certain personal information with our third party vendors if necessary to provide Services to our customers. For example, all financial, credit, and billing information that we collect is used solely to check the qualifications of prospective customers for various Services and, where appropriate, to bill for those Services.
 
-### Business Transactions
+We may also occasionally engage third parties to provide certain Services to our customers and/or, in turn, their customers. Further, we may provide certain Services jointly with selected business partners. In such circumstances, third parties and partners are not permitted to retain, share, store or use your information for any other purpose than to deliver the relevant Service(s) in a professional manner, and consistent with their legal, regulatory and other obligations.
 
-MyCase may assign or transfer this privacy policy, and your user account and related information and data, to any person or entity that acquires or is merged with MyCase.
+For clarity, we do not and will not share any personally identifiable or sensitive business information with third parties for unknown reasons.
 
-### Terms of Service
+**ANONYMOUS USAGE DATA**
 
-When You access and use the Service, You are subject to the MyCase Terms of Service.
+We collect certain information about how different constituencies (e.g., our customers, our customers’ customers, vendors, etc.) interact with our Services on an anonymous basis. For example, we collect certain information designed to help us understand how our customers manage their properties within AppFolio Property Manager. In that case, the information we collect does not include information that could identify you personally.
 
-### Contact Us
+We may anonymize the information we collect about your use of our Services by removing or "hashing" any data fields (such as name, address and telephone number) that identify you or that can be used to identify you personally. We use industry best practices and state-of-the-art techniques to anonymize and aggregate data.
 
-If You have questions regarding this privacy policy or about the security practices of MyCase, please [contact us by email](https://web.archive.org/contact). 
+We aggregate information by combining anonymous data that meet certain criteria into groups. For example, we might want to know average rental prices for a particular market so as to better understand how to communicate with our property manager customers and prospects in that market or so that we can communicate more broadly about market trends by region or similar issues. The resulting data aggregation would be an anonymized aggregated total that we could then share without disclosing any personal or sensitive information. For clarity, we do not and will not sell your usage data to third parties.
+
+**ACCESS TO YOUR INFORMATION**
+
+If you have any questions regarding your personally identifiable information, or you’d like to correct and/or update any such information, please contact us at [privacy@appfolio.com](mailto:privacy@appfolio.com). 
+
+**LEGAL DISCLAIMER**
+
+Notwithstanding the foregoing, we reserve the right to disclose your personally identifiable or other information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on us. 
+
+**COMMUNICATION MATTERS**
+
+**Special Offers and Updates**
+
+We will occasionally send information regarding our Services, including without limitation educational offers and our newsletter, to our customers and/or prospective customers. We typically use your name and email address to send these communications to you. Out of respect for your privacy, if you’d prefer not to hear from us, you can choose not to receive these types of communications. Please see the section entitled "Choice and Opt-out" below.
+
+**Services-related Announcements for Users**
+
+We often send our customers announcements for new or augmented Services. For instance, as we add software enhancements to our Services, we may send you an email notification. Many of these emails or other communications are necessary for the continued optimal functionality of our Services.
+
+**Public Forums, Referrals and Testimonials**
+
+We may provide public forums such as bulletin boards, blogs, or chat rooms on our Websites or within our Services subject to certain Terms of Use. These forums are provided as a service to our customers and other users to help them exchange ideas, tips, information and techniques related to our Services. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums.
+
+You may also use our referral program to inform friends about our Websites and Services. When using the referral program, we request your friend’s name and email address. We will automatically send your friend an invitation to visit one or more of our Websites.
+
+We also post a list of users and testimonials on our Websites that may contain information such as the users’ names and titles. We obtain the consent of each user prior to posting any information on such a list or posting testimonials.
+
+**Choice and Opt-Out**
+
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication, or by emailing us at [privacy@appfolio.com](mailto:privacy@appfolio.com). You may also contact us by phone at 899.700.8299 or via postal mail: AppFolio, Inc., 50 Castilian Drive, Goleta, CA 93117.
+
+**SECURITY**
+
+The privacy and security of your information is important to us. We utilize robust security measures to protect customer data from unauthorized access. Sensitive data is encrypted and website connections are protected using strong Transport Layer Security (TLS). Our Websites are hosted in a secure server environment that uses multi-layer perimeter security including firewalls and other advanced technology to prevent interference or access from outside intruders.
+
+We encourage you to be aware when you leave our Website(s) and to read the privacy statements of each and every website you visit that collects personally identifiable information.
+
+**EXTERNAL LINKS (THIRD PARTY WEBSITES)**
+
+Our Websites and/or Services may contain links to third party websites. These third party websites maintain their own policies regarding cookies and the collection and use of personal and non-personal information. We assume no responsibility or liability for the actions of such third parties with respect to their collection or use of your information. We encourage you to read the privacy policies of every website that you visit, including those you may reach through a link on our Website(s) or in our Services.
+
+**BUSINESS TRANSITIONS**
+
+In the event AppFolio goes through a business transition, such as a merger, acquisition by or combination with another company, or a sale of all or a portion of our assets, your personally identifiable information will likely be among the assets transferred.
+
+**EUROPEAN UNION GENERAL DATA PROTECTION REGULATION**
+
+We exclusively market and sell our Services to United States-based organizations and individuals. Even though we do not intentionally collect information about residents of the European Union ("EU"), some EU residents' data may be inadvertently collected through marketing channels or by virtue of our customers’ legitimate use of our Services. Collection and storage of any EU resident's data by us is minimal and incidental. No such data is used for marketing or any other purpose.
+
+Further, we do not intentionally collect information on individuals under 18 years of age, regardless of their residency. Incidental exposure to this information may be possible if, for example, our customers upload this information to one of our Services or it is inadvertently captured by our marketing organization.
+
+Notwithstanding the foregoing, if you are an EU resident and would like to request that your data be securely removed from our systems, however collected, please send an email with proof of EU residency to [privacy@appfolio.com](mailto:privacy@appfolio.com). We will remove all relevant data, so long as that removal is technically feasible, does not impact the legitimate accounting or business practices of our customers, and does not violate other regulatory or legal standards with which we must comply. We will also cooperate with our customers in good faith to address any requests they receive or that may impact them directly.
+
+**CONTACT US**
+
+If you have any questions or suggestions regarding this Policy, please contact us at privacy@appfolio.com, or send a letter to AppFolio, Inc., 50 Castilian Drive, Goleta, CA 93117, Attn: Data Privacy. We’re looking forward to hearing from you.
