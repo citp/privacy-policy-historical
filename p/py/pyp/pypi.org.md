@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pypi.org privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129122314id_/https%3A//www.python.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pypi.org privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115031630id_/https%3A//www.python.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Python.org
 
