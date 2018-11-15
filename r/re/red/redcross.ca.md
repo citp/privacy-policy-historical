@@ -1,39 +1,39 @@
-> *The following text is extracted and transformed from the redcross.ca privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630184002id_/http%3A//www.redcross.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.ca privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115194812id_/http%3A//www.redcross.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Canadian Red Cross
 
-##  Policy on the Collection, Use and Disclosure Of Personal Information
+## Policy on the Collection, Use and Disclosure Of Personal Information
 
-##  “CRCS Privacy Notice” 
+## “CRCS Privacy Notice” 
 
-  1. ###  The CRCS Privacy Notice and its application
+  1. ### The CRCS Privacy Notice and its application
 
-  2. ###  Definitions
+  2. ### Definitions
 
-  3. ###  CRCS Accountability and Safeguards
+  3. ### CRCS Accountability and Safeguards
 
-  4. ###  How Personal Information is used by the CRCS
+  4. ### How Personal Information is used by the CRCS
 
-  5. ###  Personal Information on the CRCS Website
+  5. ### Personal Information on the CRCS Website
 
-  6. ###  Consent
+  6. ### Consent
 
-  7. ###  Limiting Collection, Use, Disclosure, and Retention
+  7. ### Limiting Collection, Use, Disclosure, and Retention
 
-  8. ###  Accuracy and Individual Access
+  8. ### Accuracy and Individual Access
 
-  9. ###  CRCS Privacy Contacts for concerns or questions
-
-
+  9. ### CRCS Privacy Contacts for concerns or questions
 
 
-###  1.  The CRCS Privacy Notice and its application
+
+
+### 1.  The CRCS Privacy Notice and its application
 
 The Canadian Red Cross Society (“CRCS”) is committed to respecting the privacy of its Donors and Clients. As part of this commitment, we want everyone to know our principles and practices for the collection, use, processing, transfer, storage or disclosure of your Personal Information.
 
 **This Privacy Notice outlines our policy and practices on the collection, use, transfer, storage and disclosure of Personal Information about Donors, Clients, and any other non-Red Cross individuals with whom we work.**  A separate privacy policy applies to employees, volunteers, and contract staff when they are working on behalf of the CRCS. It requires them to uphold the principles and practices described in this Privacy Notice. The application of this Privacy Notice is subject to applicable laws including legislation, regulations, and the orders or lawful requests of any courts or other lawful authorities.
 
-###  2.  Definitions
+### 2.  Definitions
 
 **“Client(s)”** means an individual(s) who a) is a CRCS Donor; b) has requested or used CRCS services; c) has given his or her information for assessment of needs; or c) registered for CRCS training and who is  not acting in their capacity as CRCS employees, volunteers, students, or contractors.
 
@@ -53,13 +53,13 @@ The Canadian Red Cross Society (“CRCS”) is committed to respecting the priva
 
 Top
 
-###  3.  CRCS Accountability and Safeguards
+### 3.  CRCS Accountability and Safeguards
 
 The CRCS takes very seriously its responsibility to protect the personal information in our possession. We are accountable to our Clients and Donors to adopt and regularly review our practices to ensure they align with reasonable business practices appropriate to the level of sensitivity to safeguard personal information against loss or theft, unauthorized access, alteration or disclosure.
 
 Top
 
-###  4.  How Personal Information is used by the CRCS
+### 4.  How Personal Information is used by the CRCS
 
 The CRCS uses the Personal Information provided by Clients, Donors and others to facilitate assistance and training, activities, and outreach with the goal of assisting those in need in Canada and abroad. Our initiatives include providing and assisting in the provision of:
 
@@ -82,7 +82,7 @@ As well as:
 
 
 
-####  How the CRCS uses Donor Personal Information
+#### How the CRCS uses Donor Personal Information
 
 The Personal Information of CRCS is never sold or rented to other organizations. The Personal Information of _some_ Donors may from time to time be traded with other reputable organizations in cases where the Donor has not opted out of inclusion in donor trade lists.
 
@@ -98,7 +98,7 @@ The Personal Information of CRCS is never sold or rented to other organizations.
 
 Top
 
-###  5.  Personal Information on the CRCS Website
+### 5.  Personal Information on the CRCS Website
 
 The CRCS is the sole owner of the information collected on the [www.redcross.ca](http://www.redcross.ca/)  website (“our website”). The CRCS collects information from users at several different points on its website. We will not sell, trade, or rent information gathered from our website to others.   We use IP addresses to analyze trends, administer the site, track users’ movements, and gather broad demographic information for aggregate use.  IP addresses are not linked to personally identifiable information.
 
@@ -112,7 +112,7 @@ The CRCS is the sole owner of the information collected on the [www.redcross.ca]
 
 Top
 
-###  6.  Consent
+### 6.  Consent
 
 When an individual chooses to become of Donor or a Client of the CRCS, he or she is consenting to our collection, use and disclosure of his or her Personal Information in accordance with this Privacy Notice.  We may seek additional consent where required by law or in situations where we consider further consent to be necessary or appropriate.
 
@@ -120,7 +120,7 @@ An individual is free to refuse or withdraw his or her consent to the collection
 
 Top
 
-###  7.  Limiting Collection, Use, Disclosure, and Retention
+### 7.  Limiting Collection, Use, Disclosure, and Retention
 
 **_Limitations on Collection and Use:_**   The CRCS strives to identify the purpose for which it is collecting Personal Information at the time it is collected through oral, electronic, or written means, although in extreme circumstances such as emergency response, it may not be possible to do so immediately. Personal Information will be collected, to the extent possible, directly from the individual concerned.  An individual with questions about how the CRCS collects Personal Information may contact us for more information at the Privacy Contacts listed in Section 9 of this Privacy Notice.
 
@@ -139,7 +139,7 @@ Where the CRCS is obliged or permitted to disclose information without consent, 
 
 Top
 
-###  8.  Accuracy and Individual Access
+### 8.  Accuracy and Individual Access
 
 The CRCS endeavours to ensure that any Personal Information provided to it by Clients or Donors is as accurate, current, and complete as necessary in order to meet the reason for which it was obtained.
 
@@ -159,12 +159,12 @@ Where a request for access, alteration, or deletion of Personal Information is d
 
 Top
 
-###  9.  CRCS Privacy Contacts for concerns or questions
+### 9.  CRCS Privacy Contacts for concerns or questions
 
 In the event of questions about: (i) access to Personal Information;  (ii) the collection, use, management or disclosure of Personal Information by or on behalf of the CRCS; or (iii) this Privacy Notice, there are several options depending on who you are:
 
   1. **Donors:   **email [wecare@redcross.ca](mailto:wecare@redcross.ca)
   2. **Clients:**   contact the Director General of the CRCS Zone in which you are ordinarily resident. A list of Zones and contact information is available at <http://www.redcross.ca/who-we-are/contact-us>
-  3. **Donors, Clients, or other third parties:**   email [privacy@redcross.ca](mailto:privacy@redcross.ca) or write to CRCS Privacy Officer, CRCS National Office, 170 Metcalfe, Ottawa, ON K2P 2P2
+  3. **Donors, Clients, or other third parties:**   email [privacy@redcross.ca](mailto:privacy@redcross.ca) or write to CRCS Privacy Officer, CRCS National Office, 400 Cooper Street, Suite 8000, Ottawa, Ontario  K2P 2H8
 
 
