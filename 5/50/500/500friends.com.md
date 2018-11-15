@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 500friends.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624193259id_/http%3A//500friends.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 500friends.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115171411id_/http%3A//500friends.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Merkle Loyalty Solutions, formerly 500friends
 
