@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitartabsexplorer.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175312id_/https%3A//www.guitartabsexplorer.com/content/Privacy%2Bstatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitartabsexplorer.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115070520id_/https%3A//www.guitartabsexplorer.com/content/Privacy%2Bstatement.php) for the most accurate reproduction.*
 
 # GuitarTabsExplorer.com - Privacy statement
 
