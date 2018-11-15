@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sharespost.com privacy policy that was archived on 2017-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170718224904id_/https%3A//sharespost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharespost.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115202046id_/https%3A//sharespost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | SharesPost
 
 ## Important Disclosures
 
@@ -173,8 +173,8 @@ From time to time, we may desire to use Personal Information for uses not previo
 ##### CONTACT INFORMATION
 
 SharesPost Financial Corporation  
-221 Pine Street, 6th Floor  
-San Francisco, CA 94104  
+555 Montgomery St, Suite 1400  
+San Francisco, CA 94111  
 [legal@sharespost.com](mailto:legal@sharespost.com)
 
 ## ACCOUNT OPEN DISCLOSURES
