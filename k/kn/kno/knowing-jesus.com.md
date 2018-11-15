@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the knowing-jesus.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626113449id_/http%3A//www.knowing-jesus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowing-jesus.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115114054id_/http%3A//www.knowing-jesus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for www.Knowing-Jesus.com
+# Privacy Policy
 
 We recognize that your privacy is important. This document  
 outlines the types of personal information we receive and  
@@ -9,7 +9,7 @@ of the steps we take to safeguard information. We hope this
 will help you make an informed decision about sharing  
 personal information with us.
 
- **www.knowing-jesus.com** strives to maintain the highest  
+**www.knowing-jesus.com**  strives to maintain the highest  
 standards of decency, fairness and integrity in all our  
 operations. Likewise, we are dedicated to protecting our  
 customers’, consumers’ and online visitors’ privacy on our  
@@ -17,7 +17,7 @@ website.
 
 ### Personal Information
 
- **www.knowing-jesus.com** collects personally identifiable  
+**www.knowing-jesus.com**  collects personally identifiable  
 information from the visitors to our website only on a  
 voluntary basis. Personal information collected on a  
 voluntary basis may include name, postal address, email  
@@ -46,7 +46,7 @@ enable our systems to recognize your browser. The purpose of
 a cookie is to tell the Web server that you have returned to  
 a specific page. For example, if you personalize the sites  
 pages, or register with any of our site’s services, a cookie  
-enables **www.knowing-jesus.com** to recall your specific  
+enables  **www.knowing-jesus.com  **to recall your specific  
 information on subsequent visits.
 
 You have the ability to accept or decline cookies by  
@@ -105,7 +105,7 @@ for commercial purposes.
 
 ### Release of Information
 
-If **www.knowing-jesus.com** is sold, the information we have  
+If  **www.knowing-jesus.com  **is sold, the information we have  
 obtained from you through your voluntary participation in  
 our site may transfer to the new owner as a part of the sale  
 in order that the service being provided to you may  
@@ -125,11 +125,11 @@ link and/or use our Contact Us page.
 
 ### Google for search
 
-The search box on this web site (“Search Box”) is powered by Google Inc (“Google”). You acknowledge and agree that Google’s privacy policy (located at <http://www.google.com/privacy.html>) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy.
+The search box on this web site (“Search Box”) is powered by Google Inc (“Google”). You acknowledge and agree that Google’s privacy policy (located at <http://www.google.com/privacy.html>) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy.
 
 ### Updates and Effective Date
 
- **www.knowing-jesus.com** reserves the right to make changes in  
+**www.knowing-jesus.com  **reserves the right to make changes in  
 this policy. If there is a material change in our privacy  
 practices, we will indicate on our site that our privacy  
 practices have changed and provide a link to the new privacy  
@@ -141,7 +141,7 @@ use it.
 
 Please read our disclosure notice as part of our compliance to the EU user consent policy:
 
-We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. For more information on how Google uses data when you use our partner’ sites or apps, visit this link: <http://www.google.com/intl/en/policies/privacy/partners/>
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. For more information on how Google uses data when you use our partner’ sites or apps, visit this link: <http://www.google.com/intl/en/policies/privacy/partners/>
 
 ### Agreeing to Terms
 
