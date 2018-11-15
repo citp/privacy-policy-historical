@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-casinos.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608060758id_/http%3A//online-casinos.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-casinos.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115105325id_/http%3A//www.online-casinos.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Online-Casinos.com
 
