@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the teamtreehouse.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190220id_/https%3A//teamtreehouse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamtreehouse.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115182336id_/https%3A//teamtreehouse.com/privacy) for the most accurate reproduction.*
 
 # Treehouse Privacy Policy
 
-Last Updated May 22, 2018
+Last Updated Oct. 11, 2018
 
 The team at Treehouse Island, Inc. (“Treehouse,” “Company,” “we,” “us,” “our”) knows that you care about how your information is collected, used and shared, and we take your privacy seriously. Please read this Privacy Policy carefully to learn more about our privacy practices.
+
+Treehouse complies with the EU-U.S. Privacy Shield Framework and Swiss-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Treehouse has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
 
 * * *
 
@@ -153,9 +155,13 @@ The European Union’s General Data Protection Regulation and other data protect
 
 
 
-Note that withdrawing your consent to our processing of your information will not affect the lawfulness of any processing carried out before you withdraw your consent. You should also be aware that if you do withdraw your consent, we may not be able to provide certain services to you. Where this is the case, we will let you know at the time you withdraw your consent. Please note that even after you have withdrawn your consent we may be able to continue to process your personal information to the extent required or otherwise permitted by law, in particular in connection with exercising and defending our legal rights or meeting our legal and regulatory obligations.
+Note that withdrawing your consent to our processing of your information will not affect the lawfulness of any processing carried out before you withdraw your consent. You should also be aware that if you do withdraw your consent, we may not be able to provide certain services to you. Where this is the case, we will let you know at the time you withdraw your consent. Please note that even after you have withdrawn your consent we may be able to continue to process your personal information to the extent required or otherwise permitted by law, in particular in connection with exercising and defending our legal rights or meeting our legal and regulatory obligations. In cases of onward transfer to third parties of data of EU and Swiss individuals received pursuant to the EU-US Privacy Shield and Swiss-U.S. Privacy Shield Framework, Treehouse remains liable.
 
-Please also note that in some cases, as we have previously noted within this Privacy Policy, you are able to access, correct and update your personal information directly. Should you need additional assistance, please contact us at [help@teamtreehouse.com](mailto:help@teamtreehouse.com). 
+With respect to EU and Swiss Personal Data received or transferred pursuant to the Privacy Shield framework, Treehouse is subject to the regulatory investigation and enforcement powers of the U.S. Federal Trade Commission.
+
+Please also note that in some cases, as we have previously noted within this Privacy Policy, you are able to access, correct and update your personal information directly. Should you need additional assistance, please contact us at [help@teamtreehouse.com](mailto:help@teamtreehouse.com).
+
+If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, you can also submit your complaint to Privacy Trust, an independent third party we have appointed to help with disputes. Visit <https://www.privacytrust.com/drs/treehouse> to file a complaint. The services of Privacy Trust are provided at no cost to you. Finally, as a last resort and in limited situations, EU and Swiss individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.
 
 * * *
 
