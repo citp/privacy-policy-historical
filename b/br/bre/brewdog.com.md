@@ -1,37 +1,74 @@
-> *The following text is extracted and transformed from the brewdog.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121110554id_/http%3A//www.brewdog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brewdog.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115150024id_/http%3A//www.brewdog.com/customer-care/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Cookie & Privacy Policy - BrewDog
 
-By registering or placing an order on this website, you consent to the collection, use and transfer of your information under the terms of this policy.
+At BrewDog, we are committed to maintaining strong and meaningful privacy protections for customers. Our privacy policy is designed to inform you about the information we collect, how we use it, and your options about certain uses of information.
 
-INFORMATION THAT WE COLLECT FROM YOU  
-When you visit, register or order products or services on www.brewdog.com you may be asked to provide certain information about yourself including your name, contact details and credit or debit card information.  
-We do not store credit/debit card details or pass these on to 3rd party companies.  
-We may also collect information about your usage of our website as well as information about you from messages you post to the website and e-mails or letters you send to us.  
-To maintain customer service standards and to assist staff training, we may record and monitor incoming calls.
+  
+This privacy policy sets out how BrewDog PLC collect and process information about you. We gather your information when, among other things, you visit our website, apply for shares, use our applications on mobile phones, apply for a job, access our social media experiences, use your discount card in our bars or when you take part in our other experiences where this Policy is posted. By participating in these, you consent to your information being collected, processed/or and shared in accordance withthis Policy.
 
-USE OF YOUR INFORMATION  
-Your information will enable us to provide you with access to all parts of our website and to supply the goods or services you have requested. It will also enable us to bill you and to contact you where necessary concerning your orders. We will also use and analyse the information we collect so that we can administer, support, improve and develop our business.  
-In particular, we may use your information to contact you for your views on our services and to notify you occasionally about important changes or developments to the website or our services. Further, where you have consented, we might also use your information to let you know by email about other products and services which we offer which may be of interest to you. If you change your mind about being contacted in the future, please let us know.
+  
+Below is summarised the key points from our Privacy Policy which can be read in full [HERE](https://web.archive.org/customer-care/privacy-policy/full).
 
-DISCLOSURE OF YOUR INFORMATION  
-The information you provide to us may be accessed by or given to third parties some of whom may be located outside the European Economic Area who act for us for the purposes set out in this policy or for other purposes approved by you. Those parties process information, fulfil and deliver orders, process credit card payments and provide support services on our behalf. We may also pass aggregate information on the usage of our website to third parties but this will not include information that can be used to identify you.  
-Finally, if our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners.  
-Countries outside the European Economic Area do not always have strong data protection laws. However, we will always take steps to ensure that your information is used by third parties in accordance with this policy.  
-Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent.
+  
+**What information do we collect and why?**
 
-COOKIES  
-Cookies are small amounts of information which we may store on your computer.  
-Unless you have indicated your objection when disclosing your details to us, our system will issue cookies to your computer when you log on to the site. Cookies make it easier for you to log on to and use the site during future visits. They also allow us to monitor website traffic and to personalise the content of the site for you. You may set up your computer to reject cookies by following the relevant instructions which can be found at [www.aboutcookies.org](http://www.aboutcookies.org/). In that case, you may not be able to use certain features on our site. If you do not wish to receive cookies in the future, please let us know at [support@brewdog.com](mailto:support@brewdog.com "Email").
+  
+We collect and use information when you interact with us, when you use our products and services, and when you visit our websites. This information is used to:Deliver and provideproducts or services; establish and maintain customer accounts; contact you about our products and services and direct offers or promotions to you; andmonitor website statistics. Information may also be aggregated or anonymised by us for business and marketing uses. BrewDog may use your Information for direct marketing purposes, including providing updates, newsletters, events or other communications that we think may interest you.
 
-SECURITY AND DATA RETENTION  
-We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. We will retain your information for a reasonable period or as long as the law requires.
+  
+You may actively give us Information about yourself when you become an Equity Punk, purchase products from our online shop, respond to a customer survey, enter a competition, join our Intergalactic Beer Visa program, email us or post in our forum. The information that you provide may include your name, date of birth, email address, telephone number, delivery address, billing address and password.
 
-ACCESSING AND UPDATING  
-You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us at [support@brewdog.com](mailto:support@brewdog.com "Email"). We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+  
+Note also that information you disclose in our forum is accessible by anyone, including third parties not bound by this policy.
 
-CHANGES TO OUR PRIVACY POLICY  
-Any changes to our privacy policy in the future will be posted to the website and, where appropriate, through e-mail notification.
+  
+When you visit one of our websites or use our forum, we may also automatically collect information through the use of various technologies, including through "cookies", which is explained [HERE](https://web.archive.org/customer-care/privacy-policy/full).
 
-CONTACT  
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to [feedback@brewdog.com](mailto:feedback@brewdog.com "Email").
+  
+**What choices do I have?**
+
+  
+You have a choice to remove your personal information by accessing your account and deleting your information even though it might be needed to make a purchase or to take advantage of offers such as your free birthday beer, referral perks or other BrewDog offerings.
+
+  
+If you are a shareholder we have a legal obligation to let you know about certain updates, we therefore restrict amendment of certain fields to allow us to meet that obligation. However if you have a question, concern or complaint about this you can contact us at [privacy@brewdog.com](mailto:privacy@brewdog.com).
+
+  
+You have full control over how we communicate with you and can change your preferences through your BrewDog.com account.
+
+  
+We’ve also made it super simple to select the marketing you receive by accessing your marketing preferences with a link to a personalizedpreference centerat the bottom of every email.
+
+  
+**How can I access and control my personal information?**
+
+  
+We respect your right to access, correct, request deletion or request restriction of our usage of your personal information as required by applicable UK law. We also take steps to ensure that the personal information we collect is accurate and up to date.
+
+  
+You can see, review and change most of your personal information by signing in to your BrewDog.com account. Please, update your personal information immediately if it changes or is inaccurate.
+
+  
+**How will you share my personal Information?**
+
+  
+We may share your information with our BrewDog entities and affiliates and the third parties described in our privacy policy. We may also share your information with third parties when it is necessary to involve a third party service provider to facilitate or offer our services such as participating in a trading platform, delivering your orders, booking tickets for events or participating on our forum.
+
+  
+We will never share your personal information with a third party that is not directly related to us delivering on our obligation to you or to let you know about cool BrewDog things!
+
+  
+**How long will you hold my personal information?**
+
+  
+We will not hold onto your personaldata longer than necessary to fulfillour commitment to you as a customer or a shareholder.  Personal data processed for any purpose will not be keptfor longer than is necessary for that purpose.
+
+  
+After it is no longer necessary for us to retain your personal information, we will dispose of it in a secure manneraccording to our data retention and deletion policies.
+
+  
+**Questions about this Policy**
+
+  
+If you have a question, concern or complaint about this Policy or our handling of your information, you can contact us at [privacy@brewdog.com](mailto:privacy@brewdog.com).
