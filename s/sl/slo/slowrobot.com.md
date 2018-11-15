@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the slowrobot.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603061312id_/http%3A//slowrobot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slowrobot.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115011821id_/http%3A//slowrobot.com/privacy.php) for the most accurate reproduction.*
 
 # Slow Robot - Privacy policy
 
 **This is the privacy policy for slowrobot.com**
 
-This Privacy Policy governs the manner in which Besser collects, uses, maintains and discloses information collected from users (each, a "User") of the [slowrobot.com](https://web.archive.org/web/20180603061312id_/http%3A//slowrobot.com/slowrobot.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Besser.
+This Privacy Policy governs the manner in which Besser collects, uses, maintains and discloses information collected from users (each, a "User") of the [slowrobot.com](https://web.archive.org/web/20181115011821id_/http%3A//slowrobot.com/slowrobot.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Besser.
 
 **Personal identification information**
 
@@ -61,6 +61,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [**[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#f59d9099999ab586999a82879a979a81db969a98)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [**hello@slowrobot.com**](mailto:hello@slowrobot.com)
 
 This document was last updated on August 7, 2013
