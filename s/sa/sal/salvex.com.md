@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salvex.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513003216id_/http%3A//salvex.com/company_info.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salvex.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115094544id_/http%3A//www.salvex.com/company_info.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Salvex
 
