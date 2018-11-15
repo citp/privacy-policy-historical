@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nccn.org privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711214043id_/https%3A//www.nccn.org/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nccn.org privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115135454id_/https%3A//www.nccn.org/about/privacy.aspx) for the most accurate reproduction.*
 
 # NCCN - Privacy Policy
 
@@ -44,7 +44,7 @@ NCCN often uses a third party service provider to conduct these surveys; that co
 
 "Cookies" are small pieces of information stored by a browser on a computer's hard drive. Cookies are only read by the server that placed them, and are unable to do such things as run programs on your computer, plant viruses, or harvest your personal information. The use of cookies is very common on the Internet.
 
-NO personal information is gathered or stored in the cookies placed by the NCCN website. NO personal information is gathered through the use of these cookies. NCCN uses cookies mainly to understand website usage and traffic statistics. NCCN uses NetTracker to analyze traffic to this website so we can understand our visitors' needs and continually improve this site for them. NetTracker collects only anonymous, aggregate statistics.
+NO personal information is gathered or stored in the cookies placed by the NCCN website. NO personal information is gathered through the use of these cookies. NCCN uses cookies mainly to understand website usage and traffic statistics. NCCN uses Google Analytics to analyze traffic to this website so we can understand our visitors' needs and continually improve this site for them.
 
 Most web browsers automatically accept cookies. By changing the options on a web browser or using certain software programs, users can control how and whether cookies will be accepted by a browser. Please note that it is possible to block cookie activity from certain websites while permitting cookies from trusted sites. 
 
@@ -56,7 +56,7 @@ NCCN stores information that it collects through registration to create a profil
 
 **Log Files**
 
-Like most website servers, NCCN's uses log files. These include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and user activity within this website to analyze trends, administer the site, track users' movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. NCCN uses a tracking utility called NetTracker that uses log files to analyze user movement. 
+Like most website servers, NCCN's uses log files. These include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and user activity within this website to analyze trends, administer the site, track users' movement in the aggregate, and gather broad demographic information for aggregate use.
 
 **Communications from the Site**
 
@@ -92,7 +92,7 @@ NCCN will reveal only the last four digits of your credit card number on confirm
 
 While NCCN uses SSL encryption to protect sensitive information on-line, NCCN also does everything in its power to protect user information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. The servers that store personally identifiable information are in a secure, locked environment.
 
-If users have any questions about the security of [NCCN.org](https://web.archive.org/), please [ contact us](mailto:security@nccn.org). 
+If users have any questions about the security of [NCCN.org](https://web.archive.org/), please [ contact us](mailto:usersupport@nccn.org). 
 
 ####  Supplementation of Information 
 
