@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historysaint.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515050611id_/http%3A//www.historysaint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historysaint.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115180213id_/http%3A//www.historysaint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | History Saint
 
