@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discounttirecenters.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516073107id_/http%3A//www.discounttirecenters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discounttirecenters.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115173045id_/http%3A//www.discounttirecenters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Discount Tire Centers
 
@@ -46,7 +46,7 @@ If, at any time, a correction needs to be made to existing personal information 
 
 This privacy policy is not intended to and does not create any contractual or legal rights in or on behalf of any party.
 
-If you have any questions about the security at our website, you can send an email to [webmaster@discounttirecenters.com](mailto:webmaster@discounttirecenters.com) .
+If you have any questions about the security at our website, you can send an email to [webmaster@discounttirecenters.com](mailto:webmaster@discounttirecenters.com).
 
 ##  Copyright Information
 
