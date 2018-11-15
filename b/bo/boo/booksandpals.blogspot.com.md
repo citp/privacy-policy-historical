@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booksandpals.blogspot.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630030431id_/http%3A//booksandpals.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksandpals.blogspot.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115020946id_/http%3A//booksandpals.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # BigAl's Books and Pals: Privacy Policy
 
