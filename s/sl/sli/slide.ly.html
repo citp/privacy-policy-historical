@@ -1,20 +1,89 @@
-<!--The following is the downloaded HTML source of the slide.ly privacy policy that was archived on 2017-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171214001709id_/http%3A//slide.ly/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the slide.ly privacy policy that was archived on 2018-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181116091129id_/http%3A//slide.ly/promo/privacy-policy%3Futm_content%3Dunified_homepage) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# slidely: http://ogp.me/ns/fb/slidely#">
-			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="keywords" content="video creator, video ads creator, marketing video creator, video maker, slideshow maker, free slideshow, photo slideshow, video, music, movie maker, slideshow online, slideshow with music, video">
-<meta name="description" content="Enabling individuals and businesses to easily create professional videos for successful online marketing.">
-<meta property="og:title" content="Slidely - The #1 Visual Content Creation Platform, Maker of Promo">
-<meta property="og:description" content="Enabling individuals and businesses to easily create professional videos for successful online marketing.">
-<meta property="og:site_name" content="Slidely">
-<meta property="og:image" content="http://ak01-cdn.slidely.com/1513157318/images/slidely-promo-hp/og-image-v2.png">
-<meta property="og:type" content="website">
-<meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:site" content="@Slidely">
-<meta property="twitter:title" content="Slidely - The #1 Visual Content Creation Platform, Maker of Promo">
-<meta property="twitter:description" content="Enabling individuals and businesses to easily create professional videos for successful online marketing.">
-<meta property="twitter:image:src" content="http://ak01-cdn.slidely.com/1513157318/images/slidely-promo-hp/og-image-v2.png">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class=""><!--<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>--><!--<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js"></script>--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# slidely: http://ogp.me/ns/fb/slidely#">
+
+    <!--Sentry - raven-->
+    <script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script type="text/javascript" async="" src="https://widget.intercom.io/widget/van22wlo"></script><script async="" src="//cdn.taboola.com/libtrc/unip/1169464/tfa.js" id="tb_tfa_script"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script src="https://cdn.ravenjs.com/3.16.1/raven.min.js" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+        Raven.config('https://76594114194c4e46ac19f016580cd373@sentry.io/190286',
+            {
+              whitelistUrls: [/\.bundle\.js/, /promo-common-chunk\.js/],
+              ignoreErrors: [],
+              sampleRate: 0.1
+            }
+        ).install()
+        Raven.setUserContext({
+            email: "dfd"        })
+    </script>
+
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-17257037-18"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-17257037-18');
+        gtag('config', 'AW-854643498');
+        gtag('config', 'AW-854658101');
+
+    </script>
+
+
+    <!--
+        If you need to throw an error, do not throw strings! Always throw an actual Error object. For example:
+        | throw new Error('broken')  // good
+        | throw 'broken'  // bad
+        It’s impossible to retrieve a stack trace from a string. If this happens, Raven transmits the error as a plain message.
+    -->
+    <!--Sentry - raven-->
+
+    
+    <script type="text/javascript" src="https://js.stripe.com/v2/"></script>
+    <script src="https://checkout.stripe.com/checkout.js"></script>
+
+    <script>
+
+        window.noSupportRedirection = true;
+        window.isRetainEnabled = false;
+        window.retainApiKey = '';
+
+        var getBrowser = function(){
+            var ua= navigator.userAgent, tem,
+                M= ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
+            if(/trident/i.test(M[1])){
+                tem=  /\brv[ :]+(\d+)/g.exec(ua) || [];
+                return 'IE '+(tem[1] || '');
+            }
+            if(M[1]=== 'Chrome'){
+                tem= ua.match(/\b(OPR|Edge)\/(\d+)/);
+                if(tem!= null) return tem.slice(1).join(' ').replace('OPR', 'Opera');
+            }
+            M= M[2]? [M[1], M[2]]: [navigator.appName, navigator.appVersion, '-?'];
+            if((tem= ua.match(/version\/(\d+)/i))!= null) M.splice(1, 1, tem[1]);
+            M[ 0 ] = M[ 0 ].toLowerCase();
+            return M;
+        };
+
+        var isFacebookBrowser = function(){
+            var ua = navigator.userAgent || navigator.vendor || window.opera;
+            return (ua.indexOf("FBAN") > -1) || (ua.indexOf("FBAV") > -1) || (ua.indexOf("Instagram") > -1);
+        };
+
+        var browser = getBrowser();
+
+        if( ( browser[ 0 ] == "msie" && +browser[ 1 ] <= 11 ) ||
+             ( browser== "IE 11" ) ||
+            ( browser[ 0 ] == "firefox" && +browser[ 1 ] < 30 ) ||
+            ( browser[ 0 ] == "chrome" && +browser[ 1 ] < 30 ) ||
+            ( browser[ 0 ] == "safari" && +browser[ 1 ] < 5.1 ) ){
+            if( location.pathname.indexOf( "unsupported" ) === -1 && !isFacebookBrowser() ){
+                location.href = "/promo/unsupported";
+            }
+        }
+
+    </script>
+
+    		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta property="twitter:app:name:iphone" content="Slidely Show for Mobile">
 <meta property="twitter:app:id:iphone" content="785325022">
 <meta property="twitter:app:name:ipad" content="Slidely Show for Mobile">
@@ -29,713 +98,1143 @@
 <meta property="al:android:app_name" content="Slidely Video Greetings">
 <meta property="al:android:package" content="com.slidely.ezslidelyshowExp">
 <meta property="al:web:url" content="http://slide.ly/app-store">
-<meta property="og:url" content="http://slide.ly/privacy-policy?;">
-<meta property="og:updated_time" content="1513210629">
+<meta property="og:updated_time" content="1542359490">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:url" content="https://slide.ly/promo/privacy-policy">
+<meta property="og:title" content="Introducing Promo! Create quality marketing videos instantly">
+<meta property="og:description" content="Promo gives you quality video clips, licensed music and a built-in text editor so you can create stunning video content easily.">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://ak01-cdn.slidely.com/images/promoVideos/og_v3.png/1542206297">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:site_name" content="Slidely">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:site" content="@Slidely">
+<meta property="twitter:title" content="Introducing Promo! Create quality marketing videos instantly - https://slide.ly/promo">
+<meta property="twitter:description" content="Promo gives you quality video clips, licensed music and a built-in text editor so you can create stunning video content easily.">
+<meta property="twitter:image:src" content="https://ak01-cdn.slidely.com/images/promoVideos/og_v3.png/1542206297">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta property="fb:app_id" content="255083304564274">
 <meta name="pinterest" content="nohover">
-		<title>Slidely - The #1 Visual Content Creation Platform, Maker of Promo</title>
-		<link href="/favicon1.png" rel="icon" type="image/png">
-<link href="http://ak01-cdn.slidely.com/1513157318/scss/applications/slidesong/style.scss" media="screen" rel="stylesheet" type="text/css">
-<link href="http://ak02-cdn.slidely.com/1513157318/scss/applications/slidesong/static.scss" media="screen" rel="stylesheet" type="text/css">
-<link href="//fonts.googleapis.com/css?family=Roboto:400,100,300,500,700" media="screen" rel="stylesheet" type="text/css">
+		<title>Promo - Privacy Policy</title>
+		<link href="/promo-favicon-2.png" rel="icon" type="image/png">
+<link href="https://slide.ly/promo/privacy-policy" rel="canonical">
+<link href="https://slide.ly/promo/privacy-policy" hreflang="x-default" rel="alternate">
+<link href="https://ak03-cdn.slidely.com/1542206297/scss/applications/promoVideos/terms.scss" media="screen" rel="stylesheet" type="text/css">
+<link href="https://ak02-cdn.slidely.com/1542206297/scss/applications/promoVideos/pricing.scss" media="screen" rel="stylesheet" type="text/css">
+<link href="https://ak01-cdn.slidely.com/1542206297/scss/applications/promoVideos/recaptcha-popup.scss" media="screen" rel="stylesheet" type="text/css">
 		
 		<script type="text/javascript">
     //<![CDATA[
     
-var require = {"deps":["system"],"shim":{"ez":["backbone","handlebars"],"system":["backbone","handlebars","jquery-ui"],"backbone":["underscore","jquery"],"jquery-ui":["jquery"],"google-ima3":{"exports":"google.ima"}},"config":{"ez\/language":{"EMPTY":"EMPTY"},"system":{"language":"en","locale":"en_US","cdnHost":"ak01-cdn.slidely.com","createUrl":"https:\/\/slide.ly\/create","revision":1513157318,"connected":false,"analytics":{"google":{"accountId":"UA-17257037-7","pageName":false},"mixpanel":{"accountId":"c27a1e05b29e67ca9332f2c49261218d"}},"session":{"connected":false,"error":{"message":"user not logged in","code":"loginError"}},"facebook":{"applicationId":"255083304564274","applicationNamespace":"slidely","defaultPermissions":"email,user_photos,user_friends","tagApiPixelId":"712371922135655","channelUrl":"https:\/\/slide.ly\/c.php"},"adroll":{"adrollAdvId":"6FTQJCG37NG4XKDBFGHYSS","adrollPixId":"QZZSSZCSSJC3LGMSLLGVXZ"},"upgradeErrorUrl":"http:\/\/slide.ly\/error\/upgrade"},"system\/reports":{"defaults":{"pageType":"default","pagePlatform":"desktop","lang":"en","source":null,"campaign":null,"clickedOn":null,"utm_medium":null,"utm_term":null,"utm_creative":null,"fb_conversion_pixel":null,"tid":0},"reportUrl":"\/reports\/%s\/%s","callbackTimeout":1000},"system\/session":{"ajaxUrl":"\/data\/user\/session"},"system\/internal\/like\/model":{"ajaxUrl":"\/slidesong\/social-activity\/like-sync"},"system\/internal\/like\/collection":{"ajaxUrl":"\/slidesong\/social-activity\/is-liked-multi"},"libs\/jquery\/timeago-lang":{"language":"en"},"comp\/like-button\/model":{"ajaxUrl":"\/data\/%s\/likes"},"comp\/like-button\/collection":{"ajaxUrl":"\/slidesong\/social-activity\/is-liked-multiple"},"comp\/follow-button\/model":{"ajaxUrl":"\/data\/follow\/sync"},"system\/internal\/stats\/model":{"ajaxUrl":"\/data\/view-count\/ssh\/%s"},"system\/external\/facebook":{"cookieId":"ezFb"},"system\/internal\/image\/model":{"dataUrl":"\/img-base64"},"system\/internal\/image\/base64":{"dataUrl":"http:\/\/ak04-cdn.slidely.com\/img-base64"},"system\/internal\/uploaded-assets":{"urls":{"photo":"\/data\/user\/uploaded-photos","audio":"\/data\/user\/uploaded-audios"}},"system\/external\/picasa":{"getAlbumsUrl":"https:\/\/picasaweb.google.com\/data\/feed\/api\/user\/%s?kind=album&access=visible&alt=json","getAlbumPhotosUrl":"https:\/\/picasaweb.google.com\/data\/feed\/api\/user\/%s\/albumid\/%s?alt=json","loginUrl":"\/general\/google\/auth-picasa"},"comp\/feedback-form":{"ajaxUrl":"\/zendeskApi.php","extraData":{"testId":0,"userToken":null,"userAccounts":null}},"comp\/notifications\/collection":{"ajaxUrl":"\/slidesong\/notification\/index\/t\/%s","syncInterval":60000},"comp\/login-tooltip":{"loginUrl":"https:\/\/slide.ly\/login?ref=\/privacy-policy?;"},"comp\/share-widget":{"twitterOptions":{"via":"Slidely"}},"comp\/like-box-widget":{"userUrl":"http:\/\/slide.ly\/user\/%s"},"comp\/column-grid\/model":{"collage":{"viewUrl":"http:\/\/slide.ly\/collage\/view\/%s","editUrl":"https:\/\/slide.ly\/collage\/edit\/%s"},"show":{"viewUrl":"http:\/\/slide.ly\/view\/%s","editUrl":"https:\/\/slide.ly\/edit\/%s"},"gallery":{"viewUrl":"http:\/\/slide.ly\/gallery\/view\/%s","editUrl":"https:\/\/slide.ly\/gallery\/edit\/%s"},"discover":{"viewUrl":"http:\/\/slide.ly\/discover\/view\/%s","editUrl":"https:\/\/slide.ly\/gallery\/edit\/%s"},"highlights":{"viewUrl":"http:\/\/slide.ly\/show\/view\/%s"},"slidesong":{"imageUrl":"http:\/\/ak01-cdn.slidely.com\/slidesong\/view\/image\/ssh\/%s\/s\/column-grid\/v\/%s"},"photo":{"viewUrl":"http:\/\/slide.ly\/photo\/%s","imageUrl":"http:\/\/ak04-cdn.slidely.com\/photo\/image\/%s\/column-grid"}},"comp\/flash-player":{"swfUrl":"https:\/\/ak03-cdn.slidely.com\/swf\/slidesong\/InSiteWrapper.swf\/1513157318","revisionUrl":"https:\/\/slide.ly\/data\/revision","expressInstallSwfUrl":"http:\/\/ak02-cdn.slidely.com\/swf\/slidesong\/expressInstall.swf\/1513157318","noFlashImageSource":"http:\/\/ak02-cdn.slidely.com\/images\/slidesong\/flash-required.jpg"},"apps\/slidesong\/default-layout":{"landingUrl":"http:\/\/slide.ly\/home","footerShareImage":"http:\/\/ak03-cdn.slidely.com\/1513157318\/images\/slidesong\/homepage\/og-image-v2.jpg","footerShareText":"Slidely - Create, share and discover visual moments in beautiful & creative ways. Check it out!"},"comp\/login-dialog":{"loginUrl":"https:\/\/slide.ly\/data\/user\/login","constraints":{"email":{"pattern":"email","required":true},"password":{"required":true}}},"comp\/media-player\/slidesong-player\/models\/desktop-transition":{"desktopImageUrl":"http:\/\/ak02-cdn.slidely.com\/images\/slidesong\/desktop-background.jpg"},"ez\/utilities\/validation\/view":{"messages":{"isEmpty":"This field is required","emailAddressInvalid":"Invalid email address","authenticateUser":"Incorrect Email\/Password"}}},"paths":{"apps":"applications","comp":"components","libs":"libraries","ez":"libraries\/ez","system":"libraries\/system","jquery":["\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/2.0.0\/jquery.min","libraries\/jquery"],"jquery-ui":["\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.11.2\/jquery-ui.min"],"swfobject":"\/\/ajax.googleapis.com\/ajax\/libs\/swfobject\/2.2\/swfobject","backbone":"libraries\/backbone","underscore":"libraries\/underscore","handlebars":"libraries\/handlebars","ZeroClipboard":"\/js\/ZeroClipboard","rotatable":"libraries\/jquery.ui.rotatable.min","hammerjs":"libraries\/jquery\/hammer","google-ima3":"\/\/s0.2mdn.net\/instream\/html5\/ima3","EZDraw":"\/js\/ezdraw\/EZDraw","EZDraw.Kinematics":"\/js\/ezdraw\/EZDrawKinematics","EZDraw.Geometry":"\/js\/ezdraw\/EZDrawGeometry","EZDraw.Grid":"\/js\/ezdraw\/EZDrawGrid","EZDraw.Stage":"\/js\/ezdraw\/EZDrawStage","EZDraw.Media":"\/js\/ezdraw\/EZDrawMedia","EZDraw.Text":"\/js\/ezdraw\/EZDrawText","EZDraw.Effects":"\/js\/ezdraw\/EZDrawEffects"},"baseUrl":"http:\/\/ak01-cdn.slidely.com\/1513157318\/scripts-minified","waitSeconds":60}; require.callback = function(system) {
-
-
-var ez = require('ez');
-ez.require('apps/slidesong/default-layout');
-
-
-
-
-};
+var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"system":["backbone","handlebars","jquery-ui"],"backbone":["underscore","jquery"],"tweenmax":{"exports":"TweenMax"},"google-ima3":{"exports":"google.ima"}},"config":{"ez\/language":{"EMPTY":"EMPTY"},"apps\/promoVideos\/pricing":{"pricingWidgetMode":"default","overChargePopupMode":"new_style_annual","flatTogglePricingMode":"no","isTransparentPricingEnabled":true,"checkoutCta":"Purchase Now","isNewPricingPageDesignV3":true,"isNewPlansV3":false,"faqsList":[{"title":"What payment services do you support?","text":"We accept all major credit cards."},{"title":"Is this a secure site for purchases?","text":"Absolutely! We work with <a href=\"https:\/\/stripe.com\/\" target=\"_blank\">Stripe<\/a> which guarantees your safety and security. All site communication and data transfer are secured and encrypted."},{"title":"Can I upgrade my plan?","text":"Yes, you can. You can upgrade your plan at any time. If you have pending unused videos they will be calculated into your new subscription plan."},{"title":"How does the billing cycle work?","text":"When you subscribe to any of our monthly plans, you will be billed monthly and your plan renews each month based on your initial subscription date. This is considered your monthly billing cycle. Our Annual Plans have one-year billing cycles and are billed as one payment per year."},{"title":"Can I downgrade my plan?","text":"You can downgrade your monthly subscription plan at any time from within the Billing section of the website. The downgrade will take effect during the next billing cycle and all unused video credits will rollover to your downgraded plan. All annual downgrades will take effect on the following one-year billing cycle."},{"title":"Can I cancel my subscription?","text":"Monthly subscriptions are billed month to month. No contract. No obligation. You can cancel your monthly subscription at any time. Annual purchases come with an awesome discount and run on a one-year billing cycle with cancellation available for the following year. That said, we hope you'll fall in love with Promo and never want to leave (-:"},{"title":"Can I update my card details?","text":"Yes. Go to the billing section of your account and update your payment information."},{"title":"I want only one video, do I have to sign up for a plan?","text":"We hear you. Unfortunately, we don't offer single video options because we know that to truly make an impact on your business you need to be consistent with your video marketing efforts and we want to see you succeed."}],"isLightBg":true,"isHolidaySaleBtnEnabled":true,"isSpecialOfferBtnEnabled":false,"isShowTrustpilot":false},"system":{"typeKit":"","language":"en","locale":"en_US","cdnHost":"ak01-cdn.slidely.com","revision":1542206297,"connected":false,"analytics":{"google":{"accountId":"UA-17257037-18","pageName":false},"mixpanel":{"accountId":"e7d2894fb113ce2e99d62bcfd0f0a3f0"}},"session":{"connected":false,"error":{"message":"user not logged in","code":"loginError"}},"facebook":{"applicationId":"255083304564274","applicationNamespace":"slidely","defaultPermissions":"email,user_photos","tagApiPixelId":"712371922135655","channelUrl":"https:\/\/slide.ly\/fc.php"},"isOnboardScriptEnabled":false,"featureFlags":{},"userPreferences":{},"adroll":{"adrollAdvId":"6FTQJCG37NG4XKDBFGHYSS","adrollPixId":"QZZSSZCSSJC3LGMSLLGVXZ"},"upgradeErrorUrl":"https:\/\/slide.ly\/error\/upgrade","earlyAccessFlag":false},"system\/reports":{"defaults":{"userStatus":"visitor","pagePlatform":"desktop","pageType":"policy","lang":"en","source":null,"campaign":null,"clickedOn":"unified_homepage","utm_medium":null,"utm_term":null,"utm_creative":null,"fb_conversion_pixel":null,"asset":null,"tid":0},"reportUrl":"\/reports\/%s\/%s","log":true,"callbackTimeout":1000},"system\/session":{"ajaxUrl":"\/data\/user\/session"},"system\/external\/facebook":{"cookieId":"ezFb"},"system\/external\/tuneaffiliate":{"conversionExternalId":null,"conversionOfferId":null,"affiliateInfo":null},"socialproof":{"isSocialNotificationEnabled":false}},"paths":{"apps":"applications","comp":"components","libs":"libraries","ez":"libraries\/ez","system":"libraries\/system","text":"libraries\/text","promoTpl":"\/templates\/applications\/promoVideos","jquery":["\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/2.0.0\/jquery.min","libraries\/jquery"],"jquery-ui":["\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.12.0\/jquery-ui.min"],"backbone":"libraries\/backbone","underscore":"libraries\/underscore","handlebars":"libraries\/handlebars","hammerjs":"libraries\/jquery\/hammer","tweenmax":"libraries\/greensock\/TweenMax.min","snapsvg":"libraries\/snap.svg","webfont":"libraries\/webfont","google-ima3":"\/\/s0.2mdn.net\/instream\/html5\/ima3"},"baseUrl":"https:\/\/ak01-cdn.slidely.com\/1542206297\/scripts-minified","waitSeconds":60};
     //]]>
 </script>
-<script type="text/javascript" src="http://ak04-cdn.slidely.com/1513157318/scripts/libraries/require.js"></script>
-	</head>
-<body itemscope="" itemtype="http://schema.org/WebPage" class="module-slidesong white-header promotion-version-twitter">
-		<script type="text/javascript">
-		//<![CDATA[
-		(function(ns) {
-			function getCookie(name) {
-				var key, cookiesArray = document.cookie.split(';');
-				for (var i = 0; i < cookiesArray.length; i++) {
-					key = cookiesArray[i].substr(0, cookiesArray[i].indexOf('=')).replace(/^\s+|\s+$/g,'');
-					if (key === name) {
-						return unescape(cookiesArray[i].substr(cookiesArray[i].indexOf('=') + 1));
-					}
-				}
-				return false;
-			}
+</head>
+<body itemscope="" itemtype="http://schema.org/WebPage" class="module-promoVideo noscroll">
 
-			function setCookie(name, value, expireDays) {
-				var expires = new Date();
-				expires.setTime(expires.getTime() + (expireDays * 86400000)); // 86400000 === 24 * 60 * 60 * 1000
-				value = escape(value) + ((expireDays == null) ? '' : '; expires=' + expires.toUTCString());
-				document.cookie = name + '=' + value + '; path=/';
-			}
 
-						// if (/^Mozilla\/5.0 \((iPad|iPhone|iPod);/.test(navigator.userAgent)
-			// 	&& getCookie('ezMobileRedirectUrl_v2') === false) {
-			// 	setCookie('ezMobileRedirectUrl_v2', location.href, 1);
-			// 	location.href = '/slidesong/landing/mobile-show';
-			// }
-			
-			if (typeof JSON === 'object') {
-				var ezSession = getCookie('ezSession');
-				ns.ezSession = ezSession ? JSON.parse(ezSession) : ({"connected":false,"error":{"message":"user not logged in","code":"loginError"}} || {});
-			}
-		})(window);
 
-        window.isShowFeed = false;
-
-		(function(){
-			if (window.ezSession.connected) {
-				var body	= document.getElementsByTagName('body')[0],
-					classes	= (body.className || '').split(/\s+/);
-				if (false && window.ezSession.onBoardComplete !== true) {
-					classes.push('show-on-board');
-				}
-				classes.push('is-connected');
-				if (window.isShowFeed ) {
-                    classes.push('show-feed');
-                }
-				body.className = classes.join(' ');
-			}
-		})();
-
-		(function() {
-			if (location.search.indexOf('video-ads=1') === -1) {
-				var body = document.getElementsByTagName('body')[0];
-				var classes = (body.className || '').split(/\s+/);
-//				classes.push(Math.round(Math.random()) ? 'promotion-version-facebook' : 'promotion-version-twitter');
-				// TODO: no more random promotion. like box will be available to the right of the player.
-				classes.push('promotion-version-twitter');
-				body.className = classes.join(' ');
-			}
-		})();
-		//]]>
-	</script>
-	
-	
-	<header id="header">
-	<div class="hdr-logo">
-	<a class="hdr-logo-link" href="http://slide.ly/home?utm_content=header_logo">
-		<span class="hdr-site-name"></span>
-	</a>
-	<div class="hdr-sites-nav">
-		<ul>
-			<li class="hdr-show-icon">
-				<a href="http://slide.ly/show?utm_content=Header_Site_Nav">
-					<strong>Show</strong>
-					Instant video slideshows				</a>
-			</li>
-				
-			<li class="hdr-collage-icon">
-				<a href="http://slide.ly/collage?utm_content=Header_Site_Nav">
-					<strong>Collage</strong>
-					Stunning photo collections				</a>
-			</li>
-						<li class="hdr-gallery-icon">
-				<a href="http://slide.ly/gallery?utm_content=Header_Site_Nav">
-					<strong>Gallery</strong>
-					Beautiful photo galleries				</a>
-			</li>
-			<li class="hdr-highlights-icon">
-				<a href="http://slide.ly/app-store">
-					<strong>Mobile</strong>
-					Turn moments into movies				</a>
-			</li>
-						<li class="hdr-promo-icon">
-				<a href="http://slide.ly/promo?utm_content=hdr_left_menu">
-					<strong>Promo</strong>
-					Video ads for small businesses				</a>
-			</li>
-					</ul>
-
-		<div class="hdr-sites-foot">
-			<a href="http://slide.ly/terms-of-service">Terms of service</a>
-			<a href="http://slide.ly/privacy-policy">Privacy policy</a>
-            <a href="http://slide.ly/promo/cookies-policy">Cookies Policy</a>
-			<a href="http://slidely.com/?utm_content=Header_Site_Nav">About Slidely</a>
-		</div>
-	</div>
-</div>
-	<!-- <a class="hdr-nav" href="http://slide.ly/show">Featured</a> -->
-	<a class="hdr-nav hdr-nav-home-featured" href="/featured">Featured</a>
-	<a class="hdr-nav hdr-nav-user-page" rel="nofollow" href="http://slide.ly/user">My Slidelys</a>
-	<a class="hdr-nav " rel="nofollow" href="/myfeed">My Feed</a>
-
-	<meta itemprop="url" content="http://slide.ly/home">
-	<form itemprop="potentialAction" itemscope="" itemtype="http://schema.org/SearchAction" class="hdr-search" action="http://slide.ly/search" method="get">
-		<meta itemprop="target" content="http://slide.ly/search?q={q}">
-		<span class="submit"></span>
-		<input type="text" name="q" placeholder="Search">
-	</form>
-
-	
-<div class="hdr-user">
-	<div class="hdr-connect">
-		<a class="hdr-register" rel="nofollow" href="https://slide.ly/register?rel=slidesong">Sign up</a>
-		<a class="hdr-login" rel="nofollow" href="https://slide.ly/login">Sign in</a>
-	</div>
-
-	<div class="hdr-connected">
-		<span class="hdr-profile">
-			<img src="http://ak04-cdn.slidely.com/images/grey.gif" alt="profile-photo" width="19" height="19">
-		</span>
-		<span class="hdr-username">Hello </span>
-		<ul class="hdr-account">
-			<li><a class="hdr-account-page" rel="nofollow" href="http://slide.ly/user">My Slidelys</a></li>
-			<li><a class="hdr-account-settings" rel="nofollow" href="https://slide.ly/settings">My Account</a></li>
-			<!-- <li><a class="hdr-account-logout" rel="nofollow" href="https://slide.ly/logout">Logout</a></li> -->
-			<li><a class="hdr-account-logout" rel="nofollow" href="https://slide.ly/logout">Logout</a></li>
-		</ul>
-	</div>
-</div>
-	<span class="hdr-separator"></span>
-
-	
-<div class="hdr-notifications is-read is-hidden">
-	<span class="hdr-notifications-counter">0</span>
-	<ul class="hdr-notifications-list">
-		<li class="hdr-notifications-item-empty">No notifications here!</li>
-	</ul>
-</div>
-
-	<span class="hdr-separator is-hidden"></span>
-
-	
-
-<div class="hdr-create">
-	<a class="hcr-button " rel="nofollow" href="https://slide.ly/create?ref=https://slide.ly/create&amp;utm_content=Header_Create" title="Create a Slidely from your photos">
-		Create	</a>
-	<ul class="hcr-menu">
-		<li class="hcr-menu-item hcr-menu-show">
-			<a rel="nofollow" href="https://slide.ly/create?ref=https://slide.ly/create&amp;utm_content=Header_Create_Picker">
-				<span class="hcr-menu-item-title">Slidely Show</span>
-				<span class="hcr-menu-item-description">Instant slideshow videos</span>
-				<span class="hcr-menu-secondary">Create</span>
-			</a>
-		</li>
-				<li class="hcr-menu-item hcr-menu-collage">
-			<a rel="nofollow" href="https://slide.ly/collage/create?ref=https://slide.ly/collage/create&amp;utm_content=Header_Create_Picker">
-				<span class="hcr-menu-item-title">Slidely Collage</span>
-				<span class="hcr-menu-item-description">Stunning photo collections</span>
-				<span class="hcr-menu-secondary">Create</span>
-			</a>
-		</li>
-				<li class="hcr-menu-item hcr-menu-gallery">
-			<a rel="nofollow" href="https://slide.ly/gallery/create?ref=https://slide.ly/gallery/create&amp;utm_content=Header_Create_Picker">
-				<span class="hcr-menu-item-title">Slidely Gallery</span>
-				<span class="hcr-menu-item-description">Beautiful photo galleries</span>
-				<span class="hcr-menu-secondary">Create</span>
-			</a>
-		</li>
-		<li class="hcr-menu-item hcr-menu-highlights">
-			<a href="http://slide.ly/app-store" class="hcr-appstore-link" data-type="highlights" target="_blank">
-				<span class="hcr-menu-item-title">Slidely Mobile</span>
-				<span class="hcr-menu-item-description">Turn moments into movies</span>
-				<span class="hcr-menu-secondary">Download</span>
-			</a>
-		</li>
-				<li class="hcr-menu-item hcr-menu-promo">
-			<a href="https://slide.ly/promo?utm_content=Header_Create_Picker" data-type="promo">
-				<span class="hcr-menu-item-title">Promo for Business</span>
-				<span class="hcr-menu-item-description">Marketing Videos for Business</span>
-				<span class="hcr-menu-secondary">Create</span>
-			</a>
-		</li>
-			</ul>
-</div>
-		<a class="hdr-business" href="https://slide.ly/promo?utm_content=hdr_business_btn">Business</a>
-	
-</header>
-	<div class="hdr-background">
-		<div class="user-profile-image"></div>
-		<p></p>
-	</div>
-	
 <script type="text/javascript">
-		//<![CDATA[
+    //<![CDATA[
+    (function(ns) {
+        function getCookie(name) {
+            var key, cookiesArray = document.cookie.split(';');
+            for (var i = 0; i < cookiesArray.length; i++) {
+                key = cookiesArray[i].substr(0, cookiesArray[i].indexOf('=')).replace(/^\s+|\s+$/g,'');
+                if (key === name) {
+                    return unescape(cookiesArray[i].substr(cookiesArray[i].indexOf('=') + 1));
+                }
+            }
+            return false;
+        }
 
-		if (window.ezSession.connected && window.isShowFeed) {
-			var profileImage = '/general/user/redirect-to-large-profile/t/#USER_TOKEN#/v/#DATA_VERSION#'.
-                replace('#USER_TOKEN#', window.ezSession.token)
-                .replace('#DATA_VERSION#', window.ezSession.dataVersion);
-                
-			document.querySelector('.user-profile-image').style.backgroundImage =  'url(' + profileImage + ')';
-			window.setTimeout(function(){
-				document.querySelector('.user-profile-image').style.opacity = 1;
-			}, 1000);
-		}
-		//]]>
-	</script>	
-	<div id="header-login">
-			<h2 class="hdr-login-title">Connect to create your Slidely video!</h2>
-		<span class="hdr-login-facebook-connect">Connect with <strong>Facebook</strong></span>
-		or		<a class="hdr-login-sign-up" rel="nofollow" href="https://slide.ly/register?rel=slidesong">Sign up</a>
-		<a class="hdr-login-sign-in hdr-login" rel="nofollow" href="https://slide.ly/login?ref=/privacy-policy?;">Sign in</a>
-	</div>
+        function setCookie(name, value, expireDays) {
+            var expires = new Date();
+            expires.setTime(expires.getTime() + (expireDays * 86400000)); // 86400000 === 24 * 60 * 60 * 1000
+            value = escape(value) + ((expireDays == null) ? '' : '; expires=' + expires.toUTCString());
+            document.cookie = name + '=' + value + '; path=/';
+        }
 
-	<section id="layout-content">
-		<div class="content">
-	<h1>Privacy Policy</h1>
+                // if (/^Mozilla\/5.0 \((iPad|iPhone|iPod);/.test(navigator.userAgent)
+        // 	&& getCookie('ezMobileRedirectUrl_v2') === false) {
+        // 	setCookie('ezMobileRedirectUrl_v2', location.href, 1);
+        // 	location.href = '/slidesong/landing/mobile-show';
+        // }
+        
+        if (typeof JSON === 'object') {
+            var ezSession = getCookie('ezSession');
+            ns.ezSession = ezSession ? JSON.parse(ezSession) : ({"connected":false,"error":{"message":"user not logged in","code":"loginError"}} || {});
+        }
+    })(window);
+    (function(){
+        if (window.ezSession.connected) {
+            var body	= document.getElementsByTagName('body')[0],
+                classes	= (body.className || '').split(/\s+/);
+            classes.push('is-connected');
+            body.className = classes.join(' ');
+        }
+    })();
+    // (function(){
+    //     requirejs.config({
+    //         config: {
+    //             text: {
+    //                 useXhr: function (url, protocol, hostname, port) {
+    //                     return true;
+    //                 }
+    //             }
+    //         }
+    //     });
+    // })();
+    //]]>
 
-	<p><em>Your privacy is important to us</em>. We highly value and respect the privacy of the personal information we obtain from you by using our Site and/or Services (as such terms are defined in the Terms of Service) ("<em>Personal Information</em>") and we have created this privacy policy (the "<em>Privacy Policy</em>") to inform you about how we collect, use and share your Personal Information, and our privacy practices in general.</p>
-
-	<p>By accessing and using the Site and/or the Services, you agree to be bound by this Privacy Policy. If you do not agree to any of the provisions as set hereunder in this Privacy Policy, you have no right to use the Site or any of the Services. This Privacy Policy should be read together with the Terms of Service and together they constitute the entire agreement between you and us.</p>
-
-	<p>This Privacy Policy applies to any and all Personal Information we may collect online including without limitations through our Site, emails and/or by using any of our Services.</p>
-
-	<p>This Privacy Policy may be updated from time to time and therefore we ask you to check back periodically to read the most updated Privacy Policy. Your continued use of the Services and this Site shall be deemed to be your continued acceptance of the terms of this Privacy Policy, as amended.</p>
-
-	<h2>Information That We Collect</h2>
-
-	<p>The Personal Information we collect from customers helps us personalize and continually improve your experience. Here are the types of information we gather:</p>
-
-	<p><em>Information Provided by You</em>. During your use of the Site, we may collect certain Personal Information delivered by you to us either as part of your registration to the Site or in any other way. This Personal Information may be updated by you from time to time. As a result of your use of the Services, you may supply us with such Personal Information as your name, e-mail address, uploaded content and metadata such as the source of that content.</p>
-
-	<p><em>Automatic Information</em>. When using our Site, we may also collect certain standard Personal Information that your browser sends to every website you visit, such as your IP address, your browser information (including browser type, capabilities and language), your operating system, the date and time you accessed the website, and the website from which you linked to our Site. In addition, we may collect other information from you (such as location-based data) that have been stripped of Personal Information. We may group some or all this Personal Information into aggregate data in order to describe the use of the Services and our Site to our existing or potential business partners, sponsors, advertisers or other third parties, or in response to a government request. We may also group demographic information that we collect from our users into aggregate data for the same purposes. We reserve the right to use and share any non-Personal Information with third parties for any lawful purpose. We may associate your Personal Information with non-Personal Information within our database and we treat all the associated information as Personal Information under this Privacy Policy. However, except as noted below, we do not share this associated Personal Information with third parties.</p>
-
-	<h2>Use of Information Collected</h2>
-
-	<p><em>Internal Use</em>. We use Personal Information for internal purposes only, to improve our Site and to better tailor the Site to meet your needs. In addition, we use the Personal Information collected to analyze Site usage and to deliver information to you about certain promotions, services or items that might interest you. We may use your e-mail address to contact you regarding Site notices from time to time.</p>
-
-	<p><em>Editing Information</em>. You may review and edit any of your Personal Information by using your e-mail address and password. If you cancel your account, your Personal Information shall be deleted from our database except for residual information within our databases, access logs, backup logs and other records, which may or may not contain personally identifiable information.</p>
-
-	<p><em>Resolving Problems</em>. We may use your Personal Information and other data obtained from your current and past activities, to resolve disputes and troubleshoot problems.</p>
-
-	<p>We will not sell, trade or rent your Personal Information to others unless you explicitly provide us with permission to do so.</p>
-
-	<h2>Disclosure of Personal Information</h2>
-
-	<p><em>At Your Request</em>. We will not disclose, sell or transfer any of your Personal Information to any third parties, except if you request us to do so as part of the Services.</p>
-
-	<p><em>Legal Disclosures</em>. In the event we are required to disclose Personal Information and other related information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws, we will make such disclosure.</p>
-
-	<p><em>Sale of Business</em>. In the event the ownership of all or a part of our business were to change, your Personal Information and other related information pertinent to the business' operations would likely be transferred to, or licensed for use by, the new owner.</p>
-
-	<p><em>To Protect the Services</em>. We may disclose your Personal Information and other related information in the event we reasonably believe such disclosure is necessary to protect the Services, our rights or property, or the rights of any third party.</p>
-
-	<p><em>Third Party Service Providers</em>. We use third-party service providers to perform certain services on our behalf. We may provide your Personal Information to these third-party service providers when the information is necessary for them to perform their duties. These third-party service providers are contractually restricted from using Personal Information for any other purpose and required to comply with all applicable laws with respect to the your Personal Information and other related information they receive.</p>
-
-	<p><em>Special Cases</em>. We may disclose your Personal Information and other related information, in special cases when we have reason to believe that disclosing such information is necessary to identify, contact or bring legal action against someone who may be violating this Privacy Policy or may be causing injury to or interference with (either intentionally or unintentionally), our rights or property, other users, or anyone else that could be harmed by such activities. You thus authorize us to disclose any information about you to law enforcement or other government officials if we, in our sole and absolute discretion, believe that such disclosure is necessary or appropriate.</p>
-
-	<h2>Sharing of Information</h2>
-
-	<p>Our Privacy Policy only addresses the use and disclosure of Personal Information we collect from you. To the extent that you disclose information to other parties by using the Services, different rules may apply to the use or disclosure of the Personal Information, which you disclose to them. We do not control the privacy policies of third parties and users will be subject to the privacy customs and policies of such third parties.</p>
-
-	<h2>Protection of Information</h2>
-
-	<p>Personal Information collected about you is protected in several ways. If you create a Slide.ly account, access by you to your Personal Information is available through a password and unique user ID selected by you. Your password is encrypted. We recommend that you do not divulge your password to anyone. In addition, your personal information resides on proprietary secured servers that only selected personnel and contracts have access to via password.</p>
-
-	<p>We use industry standard security measures to protect your Personal Information so that it is not made available to unauthorized parties. However, we cannot guarantee that the Personal Information submitted to, maintained on, or transmitted from our systems will be completely secure. If you have any questions regarding which measures and techniques we use, feel free to contact us at slidely@easyhi.com</p>
-
-	<h2>Cookies</h2>
-
-	<p>The Site uses various types of cookies which help us administer and operate it, as further described in our         <a href="http://slide.ly/promo/cookies-policy">Cookies Policy</a></p>
-
-	<h2>Other Websites, Services and Communities</h2>
-
-	<p>Please be aware that when you are using the Services or our Site, you could be directed via hyperlinks or other means to third-party websites, services and online communities that are not affiliated with us. These websites, services and online communities may send their own cookies to visitors to collect data or solicit your Personal Information. The privacy policies of these websites, services and online communities may be very different from this Privacy Policy. We are not responsible for the privacy practices of these other websites, services and online communities and cannot guarantee the security of any of your Personal Information collected, used or shared there.</p>
-
-	<h2>Policy Regarding Children</h2>
-
-	<p>You must be 13 years old or older to use the Site and the Services; we do not knowingly collect information from children under the age of 13. If we become aware that we have collected Personal Information from a child under the age of 13 years old, we will use commercially reasonable efforts to delete such information from our database. If you are between 13 and 17 years old, you agree that you received your parent or legal guardian's consent to use and access the Site and the Services.</p>
-
-	<h2>Questions</h2>
-
-	<p>You may direct questions concerning this Privacy Policy by email to slidely@easyhi.com by adding the word 'privacy' in the subject line.</p>
-</div>	</section>
-
-	
-<footer id="footer" class="">
-	<div class="ftr-content">
-
-		<div class="ftr-content-minimized">
-			<div class="ftr-row ftr-minimized">
-				<div class="ftr-twitter-follow-container"><a href="https://twitter.com/Slidely" class="twitter-follow-button" data-lang="en" data-show-count="false" data-show-screen-name="true">Follow @Slidely</a></div>
-				<div class="ftr-fb-like-container"><div class="fb-like" data-ref="footer_minimized" data-href="http://www.facebook.com/slide.ly" data-width="72" data-colorscheme="dark" data-layout="button_count" data-show-faces="false" data-send="false"></div></div>
-				<a class="ftr-minimized-link ftr-language-picker" href="#">Language: EN</a>
-				<a class="ftr-minimized-link ftr-minimized-terms" href="http://slide.ly/terms-of-service">Terms of service</a>
-				<a class="ftr-minimized-link" href="http://slide.ly/privacy-policy">Privacy policy</a>
-				<a class="ftr-minimized-link is-hidden" href="#">FAQ</a>
-				<a class="ftr-minimized-link" href="http://www.slidely.com">Slidely.com</a>
-			</div>
-			<div class="ftr-social">
-				<a class="ftr-social-link ftr-instagram" href="http://instagram.com/slidely" target="_blank"></a>
-				<a class="ftr-social-link ftr-google-plus" rel="publisher" href="https://plus.google.com/110140500868975998788" target="_blank"></a>
-				<a class="ftr-social-link ftr-facebook" href="https://www.facebook.com/Slide.ly" target="_blank"></a>
-				<a class="ftr-social-link ftr-twitter" href="https://twitter.com/#!/Slidely" target="_blank"></a>
-				<a class="ftr-social-link ftr-wordpress" href="http://wordpress.org/plugins/slidely-slideshows-embed" target="_blank"></a>
-			</div>
-		</div>
-
-		<div class="ftr-content-regular">
-			<div class="ftr-col ftr-col-about">
-				<h4 class="ftr-title">About Slidely</h4>
-				<p class="ftr-description">
-					Slidely is a social video creation platform, where over 100M people have connected through meaningful video &amp; photo collections.
-Our mission is to empower and inspire people, brands and publishers to get creative with their visual storytelling.				</p>
-				<div class="ftr-social">
-					<a class="ftr-social-link ftr-instagram" href="http://instagram.com/slidely" target="_blank"></a>
-					<a class="ftr-social-link ftr-google-plus" rel="publisher" href="https://plus.google.com/110140500868975998788" target="_blank"></a>
-					<a class="ftr-social-link ftr-facebook" href="https://www.facebook.com/Slide.ly" target="_blank"></a>
-					<a class="ftr-social-link ftr-twitter" href="https://twitter.com/#!/Slidely" target="_blank"></a>
-					<a class="ftr-social-link ftr-wordpress" href="http://wordpress.org/plugins/slidely-slideshows-embed" target="_blank"></a>
-				</div>
-			</div>
-			<div class="ftr-col ftr-col-categories">
-				<h4 class="ftr-title">Categories</h4>
-				<ul>
-					<li>
-						<a href="http://slide.ly/recent">
-						Recent						</a>
-					</li>
-<!--                    --><!--					--><!--						<li>-->
-<!--							<a href="--><!--">-->
-<!--								--><!--							</a>-->
-<!--						</li>-->
-<!--					--><!--                    -->                                                    <li>
-                                <a href="http://slide.ly/channels/2-art-design">
-                                    Art &amp; Design                                </a>
-                            </li>
-                                                    <li>
-                                <a href="http://slide.ly/channels/3-birthdays">
-                                    Birthdays                                </a>
-                            </li>
-                                                    <li>
-                                <a href="http://slide.ly/channels/6-family">
-                                    Family                                </a>
-                            </li>
-                                                    <li>
-                                <a href="http://slide.ly/channels/7-kids">
-                                    Kids                                </a>
-                            </li>
-                                                    <li>
-                                <a href="http://slide.ly/channels/4-other">
-                                    Other                                </a>
-                            </li>
-                                                    <li>
-                                <a href="http://slide.ly/channels/5-wedding-events">
-                                    Wedding &amp; Events                                </a>
-                            </li>
-                                                    <li>
-                                <a href="http://slide.ly/channels/8-music">
-                                    Music                                </a>
-                            </li>
-                                                    <li>
-                                <a href="http://slide.ly/channels/10-entertainment">
-                                    Entertainment                                </a>
-                            </li>
-                                                    <li>
-                                <a href="http://slide.ly/channels/11-sports">
-                                    Sports                                </a>
-                            </li>
-                        <!--                    -->				</ul>
-			</div>
-			<div class="ftr-col ftr-col-company">
-				<h4 class="ftr-title">Company</h4>
-				<ul>
-										<li><a href="http://slide.ly/home">Home</a></li>
-										<li><a href="http://slide.ly/show">Show</a></li>
-					<li><a href="http://slide.ly/gallery">Gallery</a></li>
-					<li><a href="http://slide.ly/products#showformobile-screen" target="_blank">Slidely Mobile</a></li>
-					<li><a href="http://slide.ly/products#capture-screen" target="_blank">Slidely Capture</a></li>
-					<li><a href="http://slide.ly/products#video-screen" target="_blank">Slidely Video</a></li>
-					<li><a href="http://wordpress.org/plugins/slidely-slideshows-embed" target="_blank">Slidely on Wordpress</a></li>
-					<li><a href="http://slide.ly/blog">Slidely Blog</a></li>
-                    <li><a href="https://slidely.zendesk.com/hc" target="_blank">Slidely Support</a></li>
-					<li><a href="http://slide.ly/products">About Slidely</a></li>
-					<li><a class="ftr-language-picker" href="#">Language: EN</a></li>
-				</ul>
-				<ul class="ftr-company-links">
-					<li><a href="http://slide.ly/terms-of-service">Terms of Service</a></li>
-					<li><a href="http://slide.ly/privacy-policy">Privacy Policy</a></li>
-					<li><a class="ftr-contact" href="#">Contact Us</a></li>
-					<li><a href="//jobs.slide.ly" target="_blank">Careers</a></li>
-				</ul>
-			</div>
-			<div class="ftr-col ftr-col-love">
-				<h4 class="ftr-title">Spread the Love</h4>
-				<p>Tell your friends about Slidely</p>
-				<ul class="ftr-share-list">
-					<li class="ftr-share-facebook"></li>
-					<li class="ftr-share-google"></li>
-					<li class="ftr-share-twitter"></li>
-					<li class="ftr-share-pinterest"></li>
-					<li class="ftr-share-linkedin"></li>
-				</ul>
-				<div class="ftr-third-party">
-					<div class="ftr-third-party-wrap">
-						<div class="ftr-facebook-like-container"><div class="fb-like" data-ref="footer_minimized" data-href="http://www.facebook.com/slide.ly" data-width="72" data-colorscheme="dark" data-layout="button" data-show-faces="false" data-send="false"></div></div>
-						<div class="ftr-twitter-follow-container"><a href="https://twitter.com/Slidely" class="twitter-follow-button" data-lang="en" data-show-count="false" data-show-screen-name="false">Follow</a></div>
-						<div class="ftr-pinterest-follow-container"><a data-pin-do="buttonFollow" title="Follow @Slidely on Pinterest" target="_blank" href="http://www.pinterest.com/slidely/">Follow @Slidely</a></div>
-						<div class="ftr-google-follow-container"><div class="g-follow" data-href="https://plus.google.com/110140500868975998788" data-annotation="none" data-height="20" data-rel="author"></div></div>
-						<script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script>
-					</div>
-				</div>
-			</div>
-			<p class="ftr-copyrights">
-				<!-- the spans are here so we can break the line on narrow screens -->
-				<span>© All images are copyrighted by their respective authors. &nbsp;</span>
-				<span>
-					© 2012-2017 EasyHi ltd.
-					All rights reserved. &nbsp;
-					Find us on					<a target="_blank" href="https://plus.google.com/110140500868975998788">Google+</a>
-				</span>
-			</p>
-		</div>
-
-	</div>
-</footer>
-	<span id="feedback-tab">
-		<img src="http://ak04-cdn.slidely.com/images/slidesong/support-button.png" alt="support" width="16" height="78">
-	</span>
-
-	<div id="fb-root"></div>
-	<script id="feedback-form-template" type="text/x-handlebars-template">
-	<h2 class="fbk-title">How can we help you?</h2>
-
-	<div class="fbk-body fbk-main">
-		<div class="fbk-row">
-			<label for="fbk-support-question">Question*</label>
-			<input id="fbk-support-question" class="is-required" type="text" name="subject" title="Please fill out this field." placeholder="Briefly describe your question" />
-			<p class="fbk-validation-error">Oops, this seems to be invalid.</p>
-		</div>
-
-		<div class="fbk-row">
-			<label for="fbk-support-details">Details*</label>
-			<textarea id="fbk-support-details" class="is-required" cols="48" rows="6" name="body" title="Please fill out this field." placeholder="Fill in the details here. Please try to be as specific as possible."></textarea>
-			<p class="fbk-validation-error">Oops, this seems to be invalid.</p>
-		</div>
-
-		<div class="fbk-row">
-			<div class="fbk-row-split">
-				<label for="fbk-support-name">Name*</label>
-				<input id="fbk-support-name" class="is-required" type="text" name="name" title="Please fill out this field." />
-				<p class="fbk-validation-error">Oops, this seems to be invalid.</p>
-			</div>
-			<div class="fbk-row-split">
-				<label for="fbk-support-email">Your email address*</label>
-				<input id="fbk-support-email" class="is-required" type="email" name="email" title="Please fill out this field." />
-				<p class="fbk-validation-error">Oops, this seems to be invalid.</p>
-			</div>
-		</div>
-
-		<div class="fbk-row fbk-flag-specific is-hidden">
-			<label for="fbk-support-report-reason">I'm reporting this Slidely because it contains*</label>
-			<select id="fbk-support-report-reason" class="is-required" name="report-reason" title="Please fill out this field.">
-				<option value="" selected="selected">-</option>
-				<option>Sexual content</option>
-				<option>Violent or repulsive content</option>
-				<option>Hateful or abusive content</option>
-				<option>Harmful dangerous acts</option>
-				<option>Child abuse</option>
-				<option>Infringes my rights</option>
-			</select>
-			<p class="fbk-validation-error">Oops, this seems to be invalid.</p>
-		</div>
-	</div>
-
-	<div class="fbk-body fbk-message fbk-success">Message submitted. Thanks!</div>
-
-	<div class="fbk-body fbk-message fbk-error">
-		Something went wrong. We're sorry!		<a href="mailto:helpdesk@slidely.com" target="_blank">Please contact us at helpdesk@slidely.com</a>
-	</div>
-
-	<span class="fbk-submit">Submit</span>
-	<span class="fbk-close"></span>
 </script>
-<script id="notification-like-template" type="text/x-handlebars-template">
-	<a href="{{ viewUrl }}">
-		{{#if isSlidesong}}
-		<img src="http://ak02-cdn.slidely.com/slidesong/view/image/ssh/{{ hashId }}/s/notification/v/{{ dataVersion }}" alt="notification-image">
-		{{else}}
-		<img src="http://ak03-cdn.slidely.com/slidesong/photo/image/id/{{ hashId }}/type/notification" alt="notification-image">
 
-		{{/if}}
-		<span class="hdr-notifications-item-block">
-			<strong>{{ lastUserName }}</strong>
-			{{#if restUserCount}} and {{ restUserCount }} other{{#if moreThanOne}}s{{/if}}{{/if}}
-			liked <em>your {{ createdAs }}</em>
-			<time class="timeago" datetime="{{ generatedAt }}"></time>
-		</span>
-	</a>
+
+<script src="https://slide.ly/sdk.js?ver=1542206297"></script>
+<div class="header show">
+    <div class="remove-small-screen logo" title="Introducing Promo! Create quality marketing videos instantly">
+        <div class="logo-icon">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 247.1 318.2" enable-background="new 0 0 247.1 318.2" xml:space="preserve">
+<g id="Layer_1">
+	<g>
+		<g>
+			<polygon fill="#32bafa" points="38,265.2 98,299.7 98,230.7 			"></polygon>
+		</g>
+	</g>
+</g>
+<g id="Layer_2">
+	<g>
+		<g>
+			<polygon fill="#195db0" points="38,196.2 38,265.2 98,230.7 			"></polygon>
+		</g>
+	</g>
+</g>
+<g id="Layer_3">
+	<g>
+		<g>
+			<polygon fill="#6135b2" points="38,196.2 98,230.7 98,161.7 			"></polygon>
+		</g>
+	</g>
+</g>
+<g id="Layer_4">
+	<g>
+		<g>
+			<polygon fill="#76246a" points="38,127.2 38,196.2 98,161.7 			"></polygon>
+		</g>
+	</g>
+</g>
+<g id="Layer_5">
+	<g>
+		<g>
+			<polygon fill="#c36bff" points="38,127.2 98,161.7 98,92.7 			"></polygon>
+		</g>
+	</g>
+</g>
+<g id="Layer_6">
+	<g>
+		<g>
+			<polygon fill="#32bafa" points="38,58.2 38,127.2 98,92.7 			"></polygon>
+		</g>
+	</g>
+</g>
+<g id="Layer_7">
+	<g>
+		<g>
+			<polygon fill="#ffe755" points="38,58.2 98,92.7 98,23.7 			"></polygon>
+		</g>
+	</g>
+</g>
+<g id="Layer_8">
+	<g>
+		<g>
+			<polygon fill="#ed486f" points="98,23.7 98,92.7 158,58.2 			"></polygon>
+		</g>
+	</g>
+</g>
+<g id="Layer_9">
+	<g>
+		<g>
+			<polygon fill="#c36bff" points="98,92.7 158,127.2 158,58.2 			"></polygon>
+		</g>
+	</g>
+</g>
+<g id="Layer_10">
+	<g>
+		<g>
+			<polygon fill="#32bafa" points="158,58.2 158,127.2 218,92.7 			"></polygon>
+		</g>
+	</g>
+</g>
+<g id="Layer_11">
+	<g>
+		<g>
+			<polygon fill="#ffe755" points="158,127.2 218,161.7 218,92.7 			"></polygon>
+		</g>
+	</g>
+</g>
+<g id="Layer_12">
+	<g>
+		<g>
+			<polygon fill="#ed486f" points="158,127.2 158,196.2 218,161.7 			"></polygon>
+		</g>
+	</g>
+</g>
+<g id="Layer_13">
+	<g>
+		<g>
+			<polygon fill="#c36bff" points="98,161.7 158,196.2 158,127.2 			"></polygon>
+		</g>
+	</g>
+</g>
+<g id="Layer_14">
+	<g>
+		<g>
+			<polygon fill="#195db0" points="98,161.7 98,230.7 158,196.2 			"></polygon>
+		</g>
+	</g>
+</g>
+</svg>
+        </div>
+        <div class="logo-text"></div>
+    </div>
+    <div class="login">
+        <div class="pull-left">
+            <a href="/promo/about?utm_content=about_page" class="about selected">About</a>
+            <a href="/promo/pricing?utm_content=pricing_page" class="pricing">Pricing</a>
+            <a href="/promo/support?utm_content=support_page" class="support">FAQ</a>
+            <a class="calendar" data-link-location="header" target="_blank">Calendar</a>
+            <a class="blog" data-link-location="header" href="https://slide.ly/promo/blog?utm_content=header" target="_blank">Blog</a>
+
+        </div>
+        <a href="javascript:;" class="signin">Login</a>
+
+        <a href="javascript:;" class="signup">Sign up</a>
+    </div>
+    <div class="logged-in">
+
+        <div class="pull-left remove-small-screen">
+            <a href="/promo/about?utm_content=about_page" class="about selected">About</a>
+            <a href="/promo/pricing?utm_content=pricing_page" class="pricing">Pricing</a>
+            <a href="/promo/support?utm_content=support_page" class="support">FAQ</a>
+            <a class="calendar" data-link-location="header" target="_blank">Calendar</a>
+            <a class="blog" href="https://slide.ly/promo/blog?utm_content=header" data-link-location="header" target="_blank">Blog</a>
+
+        </div>
+        <a href="#" class="upgrade plan-upgrade remove-small-screen">Upgrade</a>
+                    <a href="/promo/create?utm_content=create_page" class="create remove-small-screen">New Project</a>
+        
+        <div href="javascript:;" id="switch_to_annual_button"></div>
+        <div id="switch-to-annual-popup"></div>
+        <div id="get-more-downloads-popup"></div>
+        <a href="/promo/dashboard?utm_content=dashboard_page" class="remove-small-screen projects">My Projects</a>
+
+
+        <div class="user">
+            <a class="signout">
+                <div class="name"></div>
+            </a>
+            <div class="profile-wrapper-outer">
+                <div class="profile-wrapper">
+                    <div class="profile-creds">
+                        <div class="profile-thumb"></div>
+                        <div class="profile-name-wrapper">
+                            <div class="name-family"></div>
+                            <div class="email"></div>
+                        </div>
+                    </div>
+                    <div class="profile-account" onclick="window.location='/promo/settings?utm_content=settings_page'">My account</div>
+                    <div class="billing" onclick="window.location='/promo/billing?utm_content=billing_page'">Billing</div>
+                    <div id="account-menu"></div>
+                    <div class="profile-logout" onclick="slidelySdk.logout( logout );">Sign out</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="pricing-popup-wrap"></div>
+<div id="top-bar-notification"></div>
+<script>
+    function backToClassicEditor() {
+        var xhr = new XMLHttpRequest();
+        xhr.open('POST', '/promoVideos/data/disable-new-editor');
+        xhr.send(null);
+        xhr.onreadystatechange = function () {
+            var OK = 200; // status 200 is a successful return.
+            if (xhr.status === OK) {
+                window.location.href = "/promo"
+            } else {
+                console.log('Error: ' + xhr.status); // An error occurred during the request.
+            }
+        }
+    };
+    function triggerLogin() {
+        if (typeof $ === 'function') {
+            $(window).trigger('ez:promo:login');
+        } else {
+            window.setTimeout(triggerLogin, 50);
+        }
+    }
+
+    function headerGetCookie(cname) {
+        var name = cname + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1);
+            if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+        }
+        return "";
+    }
+
+    function isLocalStorageEnabled(){
+        var test = 'test';
+        try {
+            localStorage.setItem(test, test);
+            localStorage.removeItem(test);
+            return true;
+        } catch(e) {
+            return false;
+        }
+    }
+
+    function saveAffiliateReportData() {
+
+        if (!isLocalStorageEnabled()) {
+            return;
+        }
+
+        var data = getAffiliateReportDataFromUrl();
+
+        if (!data || !data.transactionId || !data.affiliateId || !data.offerId) {
+            return;
+        }
+
+        localStorage.setItem('ezAffData', JSON.stringify(data));
+
+    }
+
+    function getAffiliateReportData() {
+
+        if (!isLocalStorageEnabled()) {
+            return false;
+        }
+
+        return JSON.parse(localStorage.getItem('ezAffData'));
+    }
+
+    function getAffiliateReportDataFromUrl() {
+
+        affiliateReportData = null;
+
+        return affiliateReportData;
+
+    }
+
+    function toggleOpaqueHeader(threshold) {
+        var header = document.querySelector(".header");
+        var isScrolled = (document.documentElement && document.documentElement.scrollTop) || document.body.scrollTop > threshold;
+
+        if (isScrolled) {
+            if (!header.classList.contains('opaque')) {
+                header.classList.add('opaque')
+            }
+        } else {
+            header.classList.remove('opaque')
+        }
+    }
+
+    var homeAddress = "/promo";
+    var reportToIntercomOnLogin = false;
+    window.intercomSettings = {
+        app_id: "van22wlo"
+    };
+
+    window.mixpanelPeopleSettings = null;
+
+    // save affiliate params (if relevant)
+    saveAffiliateReportData();
+
+    if (slidelySdk.logged) {
+        //window.location = '/promo/create';
+    }
+
+    document.addEventListener("scroll", function () {
+        var header = document.querySelector(".header");
+
+        if (!header.dataset.isFixed) {
+            toggleOpaqueHeader(140);
+        }
+    });
+
+    document.addEventListener("DOMContentLoaded", function () {
+        if (document.querySelector(".create-container")) {
+            document.querySelector(".create-container").addEventListener("scroll", function () {
+                if (!document.querySelector(".header").dataset.isFixed) {
+                    toggleOpaqueHeader(100);
+                }
+            });
+
+        }
+    });
+
+    toggleOpaqueHeader(100);
+
+    document.querySelector(".header .logo")
+        .addEventListener("click", function () {
+            window.location = homeAddress + '?force-hp=1';
+        });
+
+    function onlogin(success) {
+        window.location.reload();
+    }
+
+    function logout(success) {
+        if (success) {
+
+            if (typeof mixpanel !== 'undefined') {
+                mixpanel.reset();
+            }
+            try {
+                localStorage.clear();
+            } catch (e) {
+                // local storage is not enabled anyway - do nothing
+            }
+
+            window.location = "/promo";
+        }
+    }
+
+    function loggedStateChange(logged) {
+
+        logged = logged || slidelySdk.logged;
+
+        var loginElem = document.querySelector(".login");
+        var logoutElem = document.querySelector(".logged-in");
+
+        if (logged) {
+
+            // if this is right after registration and this is not the create or the pricing page - redirect to create
+            if ((headerGetCookie('ez_prm_ugr') == '1') &&
+                (!window.location.pathname.match(/^\/promo\/pricing|create|holiday\-offer/g))
+            ) {
+
+                window.location.href = '/promo/create';
+                return;
+
+            }
+
+
+
+            // if we are on home page - redirect to create:
+ 			if ((window.location.pathname.match(/^\/promo(\/?)((\?.*)?)$/g)) && !window.location.href.match(/force\-hp\=1/g)) {
+ 				//window.location.href = '/promo/create';
+ 				return;
+ 			}
+
+            var affiliateReportsParams = getAffiliateReportData();
+
+            mixpanelPeopleSettings = {
+                identity: slidelySdk.user.userToken,
+                data: {
+                    name: slidelySdk.user.firstName + ' ' + slidelySdk.user.lastName,
+                    $name: slidelySdk.user.firstName + ' ' + slidelySdk.user.lastName,
+                    email: slidelySdk.user.email,
+                    $email: slidelySdk.user.email,
+                    last_tid: headerGetCookie('tid'),
+                    userToken: slidelySdk.user.userToken
+                }
+            };
+
+            if (affiliateReportsParams) {
+                mixpanelPeopleSettings.data.affiliate_program = affiliateReportsParams.offerId;
+                mixpanelPeopleSettings.data.affiliate_id = affiliateReportsParams.affiliateId;
+                mixpanelPeopleSettings.data.affiliate_transaction_id = affiliateReportsParams.transactionId;
+            }
+
+            if ((reportToIntercomOnLogin === true) && (typeof mixpanel !== 'undefined')) {
+                try {
+                    mixpanel.identify(slidelySdk.user.userToken);
+                    mixpanel.people.set(mixpanelPeopleSettings.data);
+                } catch (e) {
+                    console.log('Could not boot mixpanel user');
+                }
+
+            }
+
+            // init intercom with user token
+            intercomSettings.user_id = slidelySdk.user.userToken;
+            intercomSettings.email = slidelySdk.user.email;
+            intercomSettings.name = slidelySdk.user.firstName + ' ' + slidelySdk.user.lastName;
+            intercomSettings.last_tid = headerGetCookie('tid');
+
+            if (affiliateReportsParams) {
+                intercomSettings.affiliate_program = affiliateReportsParams.offerId;
+                intercomSettings.affiliate_id = affiliateReportsParams.affiliateId;
+                intercomSettings.affiliate_transaction_id = affiliateReportsParams.transactionId;
+            }
+
+            if ((reportToIntercomOnLogin === true) && (typeof Intercom !== 'undefined')) {
+                try {
+                    Intercom('update', intercomSettings);
+                } catch (e) {
+                    console.log('Could not boot intercom user');
+                }
+            }
+
+            if (typeof gtag !== 'undefined' && !window.alreadySetGAUser) {
+                try {
+                    gtag('set', {'user_id': slidelySdk.user.userToken}); // Set the user ID using signed-in user_id.
+                    window.alreadySetGAUser = true;
+                } catch (e) {
+                    console.log('Could not boot GA user');
+                }
+            }
+
+
+            reportToIntercomOnLogin = false;
+
+            window.inlineManualTracking = {
+                uid: slidelySdk.user.userToken
+            }
+
+            loginElem.className = loginElem.className.replace(/ ?show ?/g, "");
+            logoutElem.className += " show";
+
+            if (document.querySelector(".signout > .name")) document.querySelector(".signout > .name").innerHTML = (slidelySdk.user.firstName + " " + slidelySdk.user.lastName).replace(/\</g, '&lt;').replace(/\>/g, '&gt;').replace(/\"/g, '&quot;');
+            if (document.querySelector(".name-family")) document.querySelector(".name-family").innerHTML = (slidelySdk.user.firstName + " " + slidelySdk.user.lastName).replace(/\</g, '&lt;').replace(/\>/g, '&gt;').replace(/\"/g, '&quot;');
+            if (document.querySelector(".email")) document.querySelector(".email").innerHTML = slidelySdk.user.email;
+
+            if (document.querySelector(".profile-thumb")) {
+                if (slidelySdk.user.profilePictureUrl) {
+                    document.querySelector(".profile-thumb").style.backgroundImage = "url('" + slidelySdk.user.profilePictureUrl + "')"
+                } else {
+                    document.querySelector(".profile-thumb").innerHTML = (slidelySdk.user.firstName[0] + slidelySdk.user.lastName[0]).replace(/\</g, '&lt;').replace(/\>/g, '&gt;').replace(/\"/g, '&quot;');
+                }
+            }
+
+            triggerLogin();
+        } else {
+            if (~window.location.href.indexOf("/edit") || ~window.location.href.indexOf("/dashboard") || ~window.location.href.indexOf("/settings") || ~window.location.href.indexOf("/billing")) {
+                window.location = "/promo";
+            }
+            logoutElem.className = logoutElem.className.replace(/ ?show ?/g, "");
+            loginElem.className += " show";
+
+            reportToIntercomOnLogin = true;
+        }
+
+    }
+
+
+    if (!window.slidelySdk) {
+        document.querySelector(".login").className += " show";
+    } else {
+
+        slidelySdk.init({
+            appId: "53luithergkht536klgjerlgd135231042",
+            onlogin: loggedStateChange,
+            onlogout: loggedStateChange
+        });
+
+        slidelySdk.ready(loggedStateChange);
+
+    }
+
+
 </script>
-<script id="notification-follow-template" type="text/x-handlebars-template">
-    <a href="{{ viewUrl }}">
 
-        <img src="{{ profilePictureUrl }}" alt="notification-image">
+<script>
+    function getPaymentErrors() {
+        var xhr = new XMLHttpRequest();
+        xhr.open('POST', '/data/billing/check-payment-error');
+        xhr.send(null);
+        xhr.onreadystatechange = function () {
+            var DONE = 4; // readyState 4 means the request is done.
+            var OK = 200; // status 200 is a successful return.
+            if (xhr.readyState === DONE) {
+                if (xhr.status === OK) {
+                    var response = JSON.parse(xhr.response)
+                    document.querySelectorAll(".profile-wrapper .billing, .logged-in .user").forEach(function (el) {
+                        el.classList.toggle('error', response.has_payment_error)
+                    })
+                }
+                else {
+                    console.log('Error: ' + xhr.status); // An error occurred during the request.
+                }
+            }
+        }
+    }
 
-		<span class="hdr-notifications-item-block">
-			<strong>{{ lastUserName }}</strong>
-			{{#if restUserCount}} and {{ restUserCount }} other{{#if moreThanOne}}s are{{/if}} following{{else}} is following{{/if}}
-			 you on Slidely,
-			<time class="timeago" datetime="{{ generatedAt }}"></time>
-		</span>
-    </a>
+    window.addEventListener("load", getPaymentErrors);
 </script>
-<script id="notification-fbFriendJoined-template" type="text/x-handlebars-template">
-    <a href="{{ viewUrl }}">
+<section id="layout-content" class="">
+    
 
-        <img src="{{ profilePictureUrl }}" alt="notification-image">
+<div class="promoVideos-container policy-page">
+    <div class="area-header">
+        <h1 class="title">Privacy Policy</h1>
+    </div>
+    <div class="area-policy">
 
-		<span class="hdr-notifications-item-block">
-			Your Facebook Friend <strong>{{ lastUserName }}</strong>
-			{{#if restUserCount}} and {{ restUserCount }} other{{#if moreThanOne}}s{{/if}} have {{else}} has {{/if}}
-			joined Slidely,
-			<time class="timeago" datetime="{{ generatedAt }}"></time>
-		</span>
-    </a>
-</script>
-<script id="notification-remixed-template" type="text/x-handlebars-template">
-    <a href="{{ viewUrl }}">
+        <p><em>Your privacy is important to us</em>. We highly value and respect the privacy of the personal information we obtain from you by using our Site, App and/or Services (ollectively, the "Service") and we have created this privacy policy (the "<em>Privacy Policy</em>") to inform you about how we collect, use and share your personal information, and our privacy practices in general.</p>
 
-        <img src="http://ak03-cdn.slidely.com/slidesong/photo/image/id/{{ hashId }}/type/notification" alt="notification-image">
+        <p>By accessing and using the Services, you agree to be bound by this Privacy Policy. If you do not agree to any of the provisions as set hereunder in this Privacy Policy, you have no right to use the Services. This Privacy Policy should be read together with the Terms of Service and together they constitute the entire agreement between you and us.</p>
 
-		<span class="hdr-notifications-item-block">
-			<strong>{{ lastUserName }}</strong>
-			remixed your photo
-			<time class="timeago" datetime="{{ generatedAt }}"></time>
-		</span>
-    </a>
-</script><script id="modal-dialog-template" type="text/x-handlebars-template">
-	
-	<div class="md-wrap"> <!-- //this wrap is here only for IE -->
-		{{#if title}}
-			<h2 class="md-title">{{ title }}</h2>
-		{{/if}}
-		<div class="md-body">{{ body }}</div>
-		<div class="md-footer">
-			{{#if cancelButton}}
-			<span class="md-cancel">{{ cancelButton }}</span>
-			{{/if}}
-			
-			{{#if acceptButton}}
-			<span class="md-accept">{{ acceptButton }}</span>
-			{{/if}}
-		</div>
-	</div>
+        <p>This Privacy Policy applies to any and all Personal Information we may collect online including without limitations through our emails and/or by using any of our Services.</p>
 
-	<span class="close"></span>
-</script><script id="triggered-ad-leave-intent-create-template" type="text/x-handlebars-template">
+        <p>This Privacy Policy may be updated from time to time and therefore we ask you to check back periodically to read the most updated Privacy Policy. Your continued use of the Services shall be deemed to be your continued acceptance of the terms of this Privacy Policy, as amended.</p>
+
+        <h2>Information That We Collect</h2>
+
+        <p>The Personal Information we collect from customers helps provide you with our Services. Here are the types of information we gather:</p>
+
+        <p><em>Information Provided by You</em>. During your use of the Services, we may collect certain Personal Information delivered by you to us either as part of your registration to the Services or in any other way. This personal information may be updated by you from time to time. As a result of your use of the Services, you may supply us with such personal information as your name, e-mail address, uploaded content and metadata such as the source of that content (collectively, "Personal Information").</p>
+
+        <p><em>Automatic Information</em>. When using our Services, we may also collect certain analytical information that may identify you personally, including information that your browser or device generates, such as your IP address, your browser information (including browser type, capabilities and language), your operating system, the date and time you accessed the website, and the Service from which you linked to our Service ("Analytical Information", and together with the Personal Information, the "Information"). In addition, we may collect other information from you (such as location-based data) that have been stripped of your Information. We may group some or all this Information into aggregate data in order to describe the use of the Services to our existing or potential business partners, sponsors, advertisers or other third parties, or in response to a government request. We may also group demographic information that we collect from our users into aggregate data for the same purposes. We reserve the right to use and share any aggregate and anonymized Information with third parties for any lawful purpose. We may associate your Information with non-Personal Information within our database and we treat all the associated information as your protected Information under this Privacy Policy. However, except as noted below, we do not share this associated your Information with third parties.</p>
+
+        <h2>Use of Information Collected</h2>
+
+        <p><em>Internal Use</em>. We use Personal Information for internal purposes only, to improve our Service and to better tailor the Service to meet your needs. In addition, we use the Personal Information collected to analyze Service usage and to deliver information to you about certain promotions, services or items that might interest you. We may use your e-mail address to contact you regarding Service notices from time to time.</p>
+
+        <p><em>Editing Information</em>. You may review and edit any of your Information by using your e-mail address and password. If you cancel your account, your Personal Information shall be deleted from our database except for residual information within our databases, aggregate information access logs, backup logs and other records, which may or may not contain personally identifiable information.</p>
+
+        <p><em>Resolving Problems</em>. We may use your Personal Information and other data obtained from your current and past activities, to resolve disputes and troubleshoot problems.</p>
+
+        <p>We will not sell, trade or rent your Personal Information to others unless you explicitly provide us with permission to do so.</p>
+
+        <h2>Disclosure of Personal Information</h2>
+
+        <p><em>At Your Request</em>. We will not disclose, sell or transfer any of your Information to any third parties, except if you request us to do so as part of the Services.</p>
+
+        <p><em>Legal Disclosures</em>. In the event we are required to disclose Information and other related information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws, we will make such disclosure.</p>
+
+        <p><em>Sale of Business</em>. In the event the ownership of all or a part of our business were to change, your Information and other related information pertinent to the business' operations would likely be transferred to, or licensed for use by, the new owner.</p>
+
+        <p><em>To Protect the Services</em>. We may disclose your Personal Information and other related information in the event we reasonably believe such disclosure is necessary to protect the Services, our rights or property, or the rights of any third party.</p>
+
+        <p><em>Third Party Service Providers</em>. We use third-party service providers to perform certain services on our behalf. We may provide your Information to these third-party service providers when the information is necessary for them to perform their duties. These third-party service providers are contractually restricted from using your Information for any other purpose and required to comply with all applicable laws with respect to your Information and other related information they receive.</p>
+
+        <p><em>Special Cases</em>. We may disclose your Information and other related information, in special cases when we have reason to believe that disclosing such information is necessary to identify, contact or bring legal action against someone who may be violating this Privacy Policy or may be causing injury to or interference with (either intentionally or unintentionally), our rights or property, other users, or anyone else that could be harmed by such activities. You thus authorize us to disclose any information about you to law enforcement or other government officials if we, in our sole and absolute discretion, believe that such disclosure is necessary or appropriate.</p>
+
+        <h2>Sharing of Information</h2>
+
+        <p>Our Privacy Policy only addresses the use and disclosure of your Information we collect from you. To the extent that you disclose information to other parties by using the Services, different rules may apply to the use or disclosure of the Personal Information, which you disclose to them. We do not control the privacy policies of third parties and users will be subject to the privacy customs and policies of such third parties.</p>
+
+        <h2>Protection of Information</h2>
+
+        <p>Information collected about you is protected in several ways. If you create a Slide.ly account, access by you to your Information is available through a password and unique user ID selected by you. Your password is encrypted. We recommend that you do not divulge your password to anyone. In addition, your personal information resides on proprietary secured servers that only selected personnel and contracts have access to via password.</p>
+
+        <p>We use industry standard security measures to protect your Personal Information so that it is not made available to unauthorized parties. However, we cannot guarantee that the Personal Information submitted to, maintained on, or transmitted from our systems will be completely secure. If you have any questions regarding which measures and techniques we use, feel free to contact us at <a target="_blank" href="mailto:support@slidely.com">support@slidely.com</a></p>
+
+        <h2>Cookies</h2>
+
+        <p>The Site uses various types of cookies which help us administer and operate it, as further described in our             <a href="https://slide.ly/promo/cookies-policy">Cookies Policy</a></p>
+
+        <h2>Other Websites, Services and Communities</h2>
+
+        <p>Please be aware that when you are using the Services or our Site, you could be directed via hyperlinks or other means to third-party websites, services and online communities that are not affiliated with us. These websites, services and online communities may send their own cookies to visitors to collect data or solicit your Personal Information. The privacy policies of these websites, services and online communities may be very different from this Privacy Policy. We are not responsible for the privacy practices of these other websites, services and online communities and cannot guarantee the security of any of your Personal Information collected, used or shared there.</p>
+
+        <h2>Policy Regarding Children</h2>
+
+        <p>You must be 13 years old or older to use the Site and the Services; we do not knowingly collect information from children under the age of 13. If we become aware that we have collected Personal Information from a child under the age of 13 years old, we will use commercially reasonable efforts to delete such information from our database. If you are between 13 and 17 years old, you agree that you received your parent or legal guardian's consent to use and access the Site and the Services.</p>
+
+        <h2>European Citizens</h2>
+
+        <p>If you are a European resident, the following discolsures are made pursuant to the EU General Data Protection Regulations:</p>
+
+        <h3>Data Controller</h3>
+
+        <p>We are the data controller of the personal data we collect via the Service. Easy Hi Ltd. is the data controller of the personal data we collect via the Services and use and share as further described above. We are located at Hauteville Trust (BVI) Limited, P.O. Box 3483, Road Town, Tortola, British Virgin Islands.</p>
+
+        <h3>Representative In The EU</h3>
+
+        <p>The European representative of Easy Hi Ltd., for purposes of this Privacy Policy is Slidely Spolka z ograniczona odpowiedzialnoscia (Slidely Z.O.O), If you are within the European Economic Area, you may contact our European representative the at the following address: 7C Bitwy Warszawskiej 1920r. Street, 02-366 Warsaw, Poland.</p>
+
+        <h3>Your EU Rights</h3>
+
+        <p>You have the right to access the personal information about you that we store on our systems, and have us update, correct or delete it. In addition, you may at any time withdraw your consent to any activity which you provided us your consent. You are also entitled to obtain from us your Information (excluding data we obtained from other sources) in a structured, commonly used and machine-readable format, and have the right to transmit those data to another data controller. If you wish to exercise any of these rights, contact us at: <a target="_blank" href="mailto:support@slidely.com">support@slidely.com</a></p>
+
+        <p>You can also have the right to lodge a complaint to the supervisory authority under the General data Protection Regulations ("GDPR"), in particular in the Member State of your residence, place of work or where the alleged infringement of the GDPR occured. For a list of supervisory authorities in the EU, click <a target="_blank" href="http://ec.europa.eu/newsroom/article29/document.cfm?action=display&amp;doc_id=50061">here</a>.</p>
+
+        <h3>Data Retention</h3>
+
+        <p>We retain personal data as long as we need it for the purposes for which it was obtained or until you ask to delete it. If you ask us to delete the Information, we may still have to retain it to comply with our legal obligations, resolve disputes and enforce our agreements</p>
+
+        <h3>Legal Basis For Processing Personal Data:</h3>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Information Type</th>
+                    <th>Purpose</th>
+                    <th>Legal Basis</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Processing Personal Information</td>
+                    <td>Online marketing and provision of the services</td>
+                    <td>The legal basis under EU law for processing and collecting your Personal Information is our legitimate interests in operating our Services.</td>
+                </tr>
+                <tr>
+                    <td>Processing Personal Information</td>
+                    <td>Profiled advertising</td>
+                    <td>The legal basis under EU law for collecting and processing your Personal Information for profiled advertising purposes is your explicit consent</td>
+                </tr>
+                <tr>
+                    <td>Processing Analytical Information</td>
+                    <td>Operation and enhancement</td>
+                    <td>The legal basis under EU law for processing and collecting Analytical Data is our legitimate interests in operating our Apps, ongoing management of our business and business development</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h2>Questions</h2>
+
+        <p>You may direct questions concerning this Privacy Policy by email to <a target="_blank" href="mailto:support@slidely.com">support@slidely.com</a> by adding the word 'privacy' in the subject line.</p>
+    </div>
+</div></section>
+<div id="fb-root"></div>
+<div class="footer">
+    <section>
+        <div class="column">
+            <a class="about-title" href="https://slide.ly/promo">PROMO</a>
+            <p class="about">
+                Promo by Slidely is a groundbreaking service<br>that gives you access to millions of premium video<br>clips and hand-picked music complete with lifetime<br>licensing. With Promo, you can promote anything anywhere on the internet.
+            </p>
+            <div class="fmp-badges">
+                <a class="fmp-badge-fb" data-linkname="facebook partner" target="_blank" href="https://www.facebook.com/business/solutions-explorer/creative_platform/506062503095739/Slidely?utm_content=footer">
+                    <!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="167px" height="70px" viewBox="0 0 167 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Footer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer-Final-1920" transform="translate(-518.000000, -797.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <g id="Facebook" transform="translate(519.000000, 798.000000)">
+                <path d="M164.933447,3.23 C164.933447,1.72841086 163.72008,0.5 162.204096,0.5 L3.22935154,0.5 C1.72816336,0.5 0.5,1.71360985 0.5,3.23 L0.5,64.77 C0.5,66.2715891 1.71336708,67.5 3.22935154,67.5 L162.260751,67.5 C163.592703,67.5 164.709719,66.544598 164.944644,65.27 L164.933447,3.23 Z M165.990102,64.77 C165.990102,66.8413609 164.311573,68.5 162.260751,68.5 L3.22935154,68.5 C1.15830528,68.5 -0.5,66.8211344 -0.5,64.77 L-0.5,3.23 C-0.5,1.15863914 1.17852939,-0.5 3.22935154,-0.5 L162.204096,-0.5 C164.275142,-0.5 165.933447,1.17886557 165.933447,3.23 L165.933447,64.27 L165.990102,64.77 Z" id="Shape"></path>
+                <g id="Group" transform="translate(13.597270, 13.600000)">
+                    <g transform="translate(50.989761, 1.133333)" id="Shape">
+                        <polygon points="9.97133106 1.36 11.8409556 1.36 11.8409556 16.0366667 10.1412969 16.0366667 10.1412969 4.76 6.91194539 12.1266667 5.21228669 12.1266667 1.98293515 4.76 1.98293515 16.0366667 0.283276451 16.0366667 0.283276451 1.36 2.15290102 1.36 6.11877133 10.37"></polygon>
+                        <path d="M22.9453925,16.0366667 L21.3590444,16.0366667 L21.2457338,15.13 C20.6225256,15.64 19.1494881,16.2633333 17.7331058,16.2633333 C15.4102389,16.2633333 14.447099,14.9033333 14.447099,12.8633333 C14.447099,10.71 15.5235495,9.57666667 17.8464164,9.57666667 C19.2061433,9.57666667 20.4525597,9.91666667 21.0191126,10.2 L21.0191126,8.5 C21.0191126,7.08333333 20.5658703,6.51666667 18.9228669,6.51666667 C17.959727,6.51666667 16.996587,6.63 16.0334471,6.91333333 L15.7501706,5.38333333 C16.7133106,5.1 18.0163823,4.87333333 19.1494881,4.87333333 C21.6989761,4.87333333 22.8887372,5.95 22.8887372,8.38666667 L22.8887372,16.0366667 L22.9453925,16.0366667 Z M21.0757679,11.4466667 C20.4525597,11.22 19.2627986,10.9933333 18.1863481,10.9933333 C16.7133106,10.9933333 16.3167235,11.6733333 16.3167235,12.92 C16.3167235,14.28 16.7699659,14.9033333 18.0163823,14.9033333 C19.3194539,14.9033333 20.4525597,14.3933333 21.0757679,13.9966667 L21.0757679,11.4466667 Z"></path>
+                        <path d="M31.2737201,6.63 C30.0273038,6.85666667 28.7808874,7.31 27.8744027,7.76333333 L27.8744027,16.0366667 L26.0047782,16.0366667 L26.0047782,5.1 L27.534471,5.1 L27.7610922,6.40333333 C28.4409556,5.72333333 29.6307167,5.1 31.047099,4.98666667 L31.2737201,6.63 Z"></path>
+                        <polygon points="33.2 16.0366667 33.2 0.453333333 35.0696246 0.453333333 35.0696246 10.1433333 38.865529 5.1 41.01843 5.1 36.8259386 10.4833333 41.1883959 16.0366667 38.9788396 16.0366667 35.0129693 10.8233333 35.0129693 16.0366667"></polygon>
+                        <path d="M44.1911263,11.39 C44.3044369,13.7133333 44.8709898,14.79 47.0805461,14.79 C48.2703072,14.79 49.4600683,14.5066667 50.3098976,14.1666667 L50.5931741,15.5833333 C49.6866894,15.98 48.2703072,16.2633333 47.0805461,16.2633333 C43.1146758,16.2633333 42.3215017,13.5433333 42.3215017,10.4833333 C42.3215017,7.31 43.3412969,4.87333333 46.683959,4.87333333 C49.6866894,4.87333333 50.8764505,6.97 50.8764505,9.57666667 L50.8764505,11.39 L44.1911263,11.39 L44.1911263,11.39 Z M44.1911263,9.91666667 L49.1767918,9.91666667 L49.1767918,9.52 C49.1767918,7.48 48.5535836,6.23333333 46.7406143,6.23333333 C44.6443686,6.29 44.1911263,7.76333333 44.1911263,9.91666667 Z"></path>
+                        <path d="M59.1481229,15.9233333 C58.6948805,16.0933333 57.61843,16.2633333 56.8819113,16.2633333 C55.0122867,16.2633333 54.2191126,15.2433333 54.2191126,13.5433333 L54.2191126,6.63 L52.3494881,6.63 L52.3494881,5.1 L54.2191126,5.1 L54.2191126,2.43666667 L56.0887372,2.15333333 L56.0887372,5.1 L59.2047782,5.1 L59.0348123,6.57333333 L56.0887372,6.57333333 L56.0887372,13.43 C56.0887372,14.45 56.3153584,14.7333333 57.3351536,14.7333333 C57.7883959,14.7333333 58.4116041,14.62 58.978157,14.5066667 L59.1481229,15.9233333 Z"></path>
+                        <path d="M62.3774744,0.68 C63.1139932,0.68 63.6238908,1.19 63.6238908,1.92666667 C63.6238908,2.60666667 63.1139932,3.17333333 62.3774744,3.17333333 C61.6409556,3.17333333 61.131058,2.66333333 61.131058,1.92666667 C61.131058,1.19 61.6409556,0.68 62.3774744,0.68 Z M61.4143345,16.0366667 L61.4143345,5.1 L63.283959,5.1 L63.283959,16.0366667 L61.4143345,16.0366667 Z"></path>
+                        <path d="M73.0286689,16.0366667 L73.0286689,8.10333333 C73.0286689,7.08333333 72.6320819,6.63 71.5556314,6.63 C70.4225256,6.63 69.2327645,7.02666667 68.4395904,7.36666667 L68.4395904,16.0933333 L66.5699659,16.0933333 L66.5699659,5.1 L68.0430034,5.1 L68.2129693,6.06333333 C69.1194539,5.44 70.4791809,4.87333333 71.9522184,4.87333333 C73.821843,4.87333333 74.8416382,5.95 74.8416382,7.87666667 L74.8416382,16.0366667 L73.0286689,16.0366667 Z"></path>
+                        <path d="M83.1133106,5.1 L86.5692833,5.1 L86.5692833,6.34666667 L85.0962457,6.63 C85.3795222,7.14 85.4928328,7.76333333 85.4928328,8.5 C85.4928328,10.7666667 83.9064846,12.1266667 81.4136519,12.1266667 C81.0170648,12.1266667 80.6204778,12.1266667 80.2805461,12.0133333 C80.0539249,12.24 79.7706485,12.5233333 79.7706485,13.0333333 C79.7706485,13.5433333 80.0539249,13.8266667 80.7904437,13.8266667 L83.2832765,13.8266667 C85.2095563,13.8266667 86.3993174,15.0166667 86.3993174,16.7733333 C86.3993174,19.0966667 84.3030717,20.2866667 81.4136519,20.2866667 C78.5242321,20.2866667 76.9945392,19.38 76.9945392,17.34 C76.9945392,16.0366667 77.9010239,15.4133333 78.7508532,15.0166667 C78.2976109,14.6766667 78.0709898,14.2233333 78.0709898,13.5433333 C78.0709898,12.5233333 78.7508532,12.07 79.3174061,11.73 C78.1276451,11.1633333 77.4477816,10.03 77.4477816,8.55666667 C77.4477816,6.23333333 78.8075085,4.93 81.5269625,4.93 C82.0935154,4.87333333 82.6600683,4.98666667 83.1133106,5.1 Z M79.6573379,15.3 C79.1474403,15.6966667 78.7508532,16.2633333 78.7508532,17.1133333 C78.7508532,18.4166667 79.8273038,18.87 81.4703072,18.87 C83.396587,18.87 84.5863481,18.36 84.5863481,16.8866667 C84.5863481,16.0366667 84.1331058,15.3566667 82.9433447,15.3566667 L80.5638225,15.3566667 C80.2238908,15.4133333 79.8273038,15.3566667 79.6573379,15.3 Z M81.4703072,6.23333333 C79.883959,6.23333333 79.1474403,6.85666667 79.1474403,8.55666667 C79.1474403,10.2 79.9972696,10.8233333 81.4703072,10.8233333 C82.9433447,10.8233333 83.7931741,10.1433333 83.7931741,8.55666667 C83.8498294,6.91333333 83,6.23333333 81.4703072,6.23333333 Z"></path>
+                        <path d="M2.03959044,32.64 L2.03959044,38.1366667 L0.16996587,38.1366667 L0.16996587,23.4033333 L4.5890785,23.4033333 C7.9883959,23.4033333 9.23481229,25.33 9.23481229,27.9933333 C9.23481229,30.6566667 7.9883959,32.5833333 4.5890785,32.5833333 L2.03959044,32.5833333 L2.03959044,32.64 Z M2.03959044,31.11 L4.47576792,31.11 C6.68532423,31.11 7.25187713,29.8633333 7.25187713,28.05 C7.25187713,26.2366667 6.62866894,24.99 4.47576792,24.99 L2.03959044,24.99 L2.03959044,31.11 L2.03959044,31.11 Z"></path>
+                        <path d="M18.5262799,38.1366667 L16.9399317,38.1366667 L16.8266212,37.23 C16.203413,37.74 14.7303754,38.3633333 13.3139932,38.3633333 C10.9911263,38.3633333 10.0279863,37.0033333 10.0279863,34.9633333 C10.0279863,32.81 11.1044369,31.6766667 13.4273038,31.6766667 C14.7870307,31.6766667 16.0334471,32.0166667 16.6,32.3 L16.6,30.6 C16.6,29.1833333 16.1467577,28.6166667 14.5037543,28.6166667 C13.5406143,28.6166667 12.5774744,28.73 11.6143345,29.0133333 L11.331058,27.4833333 C12.294198,27.2 13.5972696,26.9733333 14.7303754,26.9733333 C17.2798635,26.9733333 18.4696246,28.05 18.4696246,30.4866667 L18.4696246,38.1366667 L18.5262799,38.1366667 Z M16.6566553,33.49 C16.0334471,33.2633333 14.843686,33.0366667 13.7672355,33.0366667 C12.294198,33.0366667 11.8976109,33.7166667 11.8976109,34.9633333 C11.8976109,36.3233333 12.3508532,36.9466667 13.5972696,36.9466667 C14.9003413,36.9466667 16.0334471,36.4366667 16.6566553,36.04 L16.6566553,33.49 Z"></path>
+                        <path d="M26.8546075,28.73 C25.6081911,28.9566667 24.3617747,29.41 23.4552901,29.8633333 L23.4552901,38.1366667 L21.5856655,38.1366667 L21.5856655,27.1433333 L23.1153584,27.1433333 L23.2853242,28.4466667 C23.9651877,27.7666667 25.1549488,27.1433333 26.5713311,27.03 L26.8546075,28.73 Z"></path>
+                        <path d="M34.4464164,38.0233333 C33.9931741,38.1933333 32.9167235,38.3633333 32.1802048,38.3633333 C30.3105802,38.3633333 29.5174061,37.3433333 29.5174061,35.6433333 L29.5174061,28.6733333 L27.5911263,28.6733333 L27.5911263,27.2 L29.5174061,27.2 L29.5174061,24.5366667 L31.3870307,24.2533333 L31.3870307,27.2 L34.5030717,27.2 L34.3331058,28.6733333 L31.3870307,28.6733333 L31.3870307,35.53 C31.3870307,36.55 31.6136519,36.8333333 32.6334471,36.8333333 C33.0866894,36.8333333 33.7098976,36.72 34.2764505,36.6066667 L34.4464164,38.0233333 Z"></path>
+                        <path d="M43.1146758,38.1366667 L43.1146758,30.1466667 C43.1146758,29.1266667 42.7180887,28.6733333 41.6416382,28.6733333 C40.5085324,28.6733333 39.3187713,29.07 38.5255973,29.41 L38.5255973,38.1366667 L36.6559727,38.1366667 L36.6559727,27.1433333 L38.1290102,27.1433333 L38.2989761,28.1066667 C39.2054608,27.4833333 40.5651877,26.9166667 42.0382253,26.9166667 C43.9078498,26.9166667 44.9276451,27.9933333 44.9276451,29.92 L44.9276451,38.08 L43.1146758,38.08 L43.1146758,38.1366667 Z"></path>
+                        <path d="M49.2901024,33.4333333 C49.403413,35.7566667 49.9699659,36.8333333 52.1795222,36.8333333 C53.3692833,36.8333333 54.5590444,36.55 55.4088737,36.21 L55.6921502,37.6266667 C54.7856655,38.0233333 53.3692833,38.3066667 52.1795222,38.3066667 C48.2136519,38.3066667 47.4204778,35.5866667 47.4204778,32.5266667 C47.4204778,29.3533333 48.440273,26.9166667 51.7829352,26.9166667 C54.7856655,26.9166667 55.9754266,29.0133333 55.9754266,31.62 L55.9754266,33.4333333 L49.2901024,33.4333333 Z M49.2901024,32.0166667 L54.2757679,32.0166667 L54.2757679,31.62 C54.2757679,29.58 53.6525597,28.3333333 51.8395904,28.3333333 C49.8,28.3333333 49.3467577,29.8066667 49.2901024,32.0166667 Z"></path>
+                        <path d="M63.9638225,28.73 C62.7174061,28.9566667 61.4709898,29.41 60.5645051,29.8633333 L60.5645051,38.1366667 L58.6948805,38.1366667 L58.6948805,27.1433333 L60.2245734,27.1433333 L60.4511945,28.4466667 C61.131058,27.7666667 62.3208191,27.1433333 63.7372014,27.03 L63.9638225,28.73 Z"></path>
+                    </g>
+                    <path d="M38.4122867,0.17 L2.43617747,0.17 C1.18976109,0.17 0.22662116,1.19 0.22662116,2.38 L0.22662116,38.3633333 C0.22662116,39.61 1.24641638,40.5733333 2.43617747,40.5733333 L21.8122867,40.5733333 L21.8122867,24.99 L16.5433447,24.99 L16.5433447,18.87 L21.8122867,18.87 L21.8122867,14.3933333 C21.8122867,9.18 24.9849829,6.34666667 29.687372,6.34666667 C31.8969283,6.34666667 33.8232082,6.51666667 34.3897611,6.57333333 L34.3897611,12.0133333 L31.1604096,12.0133333 C28.6109215,12.0133333 28.1576792,13.2033333 28.1576792,14.96 L28.1576792,18.87 L34.2197952,18.87 L33.4266212,24.99 L28.1576792,24.99 L28.1576792,40.63 L38.468942,40.63 C39.7153584,40.63 40.6784983,39.61 40.6784983,38.42 L40.6784983,2.38 C40.621843,1.19 39.6587031,0.17 38.4122867,0.17 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>                </a>
+                <a class="fmp-badge-instagram" data-linkname="instagram partner" target="_blank" href="https://www.instagram.com/promobyslidely/?utm_content=footer">
+                    <!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="53px" height="68px" viewBox="0 0 51 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Instagram</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Footer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer-Final-1920" transform="translate(-702.000000, -798.000000)">
+            <g id="Instagram" transform="translate(702.000000, 798.000000)">
+                <path d="M3,1 C1.8954305,1 1,1.8954305 1,3 L1,65 C1,66.1045695 1.8954305,67 3,67 L48,67 C49.1045695,67 50,66.1045695 50,65 L50,3 C50,1.8954305 49.1045695,1 48,1 L3,1 Z M3,0 L48,0 C49.6568542,-3.04359188e-16 51,1.34314575 51,3 L51,65 C51,66.6568542 49.6568542,68 48,68 L3,68 C1.34314575,68 2.02906125e-16,66.6568542 0,65 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Padding" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <g id="Icon" transform="translate(11.000000, 9.500000)">
+                    <rect id="Camera-Frame" stroke="#FFFFFF" stroke-width="2.95918367" x="0" y="0" width="29" height="29" rx="7.69387755"></rect>
+                    <ellipse id="Oval-1" stroke="#FFFFFF" stroke-width="2.95918367" cx="14.5422741" cy="14.627566" rx="6.93294461" ry="6.97360704"></ellipse>
+                    <ellipse id="Oval-2" fill="#FFFFFF" cx="23.0393586" cy="5.95307918" rx="2.02915452" ry="2.04105572"></ellipse>
+                </g>
+                <path d="M17.7134912,55.726435 C17.7134912,54.8070091 17.0562821,54.1515106 15.718529,54.1515106 L14.1567758,54.1515106 L14.1567758,58.8609668 L15.100131,58.8609668 L15.100131,57.3991541 L15.6490882,57.3916918 C16.9481108,57.3838369 17.7134912,56.8112085 17.7134912,55.726435 Z M16.7702166,55.7566767 C16.7702166,56.3065257 16.4068111,56.6077644 15.6876977,56.6230816 L15.0846549,56.638006 L15.0846549,54.9201208 L15.6569471,54.9201208 C16.3990327,54.9201208 16.7702166,55.206435 16.7702166,55.7566767 Z M20.171728,58.4615408 C20.3031537,58.8079456 20.620131,59.0113897 21.3005542,58.9359819 L21.3701562,58.2655589 C21.0994861,58.2506344 21.0531385,58.2129305 21.0531385,57.949003 L21.0531385,56.7059517 C21.076272,55.7488218 20.6510428,55.2743807 19.5531285,55.2743807 C19.0274603,55.2784305 18.5123886,55.4188755 18.0608967,55.6812689 L18.2462872,56.3819335 C18.6251285,56.1710272 19.0658338,56.0127492 19.4292393,56.0127492 C19.9395869,56.0127492 20.1406146,56.2087311 20.1406146,56.67571 L20.1406146,56.7585801 C18.5091788,56.8112085 18.0297431,57.3539879 18.0297431,57.9941692 C18.0297431,58.5444109 18.4936625,58.9736858 19.1354358,58.9736858 C19.5761814,58.9736858 19.885461,58.7627795 20.1406146,58.4615408 L20.1715668,58.4615408 L20.171728,58.4615408 Z M20.1407758,58.0244109 C19.9684533,58.2148435 19.7208506,58.3244564 19.4603123,58.3256495 C19.135597,58.3256495 18.9268715,58.1375227 18.9268715,57.8735952 C18.9268715,57.5044109 19.2515466,57.3312085 20.1407758,57.2259517 L20.1407758,58.0244109 Z M22.7460353,56.7134139 C22.9857128,56.2916012 23.2794761,56.0956193 23.5964131,56.0956193 C23.7755426,56.0979635 23.9511294,56.1445858 24.1067204,56.2311178 L24.3077884,55.4326586 C24.1149731,55.3250719 23.8958597,55.2703768 23.6737128,55.2743807 C23.2562217,55.2743807 22.9701159,55.4778248 22.7459547,55.8470091 L22.7459547,55.2818429 L21.8335919,55.4098792 L21.8335919,58.8609668 L22.7459547,58.8609668 L22.7459547,56.7134139 L22.7460353,56.7134139 Z M27.0601108,58.8381873 L26.9363829,58.1147432 C26.7578606,58.1788746 26.569899,58.2145485 26.379728,58.2203927 C26.0704484,58.2203927 25.900131,58.069577 25.9081914,57.7455589 L25.954539,56.1407855 L26.9906297,56.1407855 L27.0138438,55.4098792 L26.0087053,55.4098792 L26.0241814,54.5961027 L25.1427305,54.5961027 L25.127335,55.364713 L24.5705995,55.5379154 L24.5473854,56.1030816 L25.1041209,56.1631722 L25.049995,57.7981873 C25.0190025,58.6347432 25.4366146,58.9736858 26.2329471,58.9736858 C26.5147206,58.9758848 26.7947164,58.9300273 27.060272,58.8381873 L27.0601108,58.8381873 Z M30.8175315,58.8609668 L30.8175315,56.4722659 C30.8175315,55.726435 30.392262,55.2743807 29.6732292,55.2743807 C29.2402217,55.2743807 28.8149924,55.4927492 28.4979748,55.8316918 L28.4979748,55.2818429 L27.5856121,55.4024169 L27.5856121,58.8609668 L28.4979748,58.8609668 L28.4979748,56.3819335 C28.6758287,56.2161934 28.9695113,56.0579154 29.2866096,56.0579154 C29.6964433,56.0579154 29.9052091,56.2311178 29.9052091,56.7436556 L29.9052091,58.8609668 L30.8175315,58.8609668 L30.8175315,58.8609668 Z M32.3015819,57.2935045 C32.3015819,57.2935045 34.6288363,57.2632628 34.6366549,57.2632628 C34.6876645,57.0738959 34.7136413,56.8789546 34.7139547,56.6831722 C34.7139547,55.8316918 34.1882116,55.2743807 33.2448564,55.2743807 C32.1778539,55.2743807 31.4047355,56.0276737 31.4047355,57.158006 C31.4047355,58.2655589 32.1624181,58.9736858 33.3067607,58.9736858 C33.7861159,58.9736858 34.2578942,58.868429 34.5979244,58.6873716 L34.4820151,57.949003 C34.1467554,58.1499994 33.7621566,58.2593434 33.3685844,58.2655589 C32.7345894,58.2655589 32.340272,57.8810574 32.3015819,57.316284 L32.3015819,57.2935045 L32.3015819,57.2935045 Z M32.324796,56.7735045 C32.3711839,56.3442296 32.6726851,55.9448036 33.1751738,55.9448036 C33.6467103,55.9448036 33.8555567,56.2385801 33.8555567,56.7059517 L33.8555567,56.7660423 L32.324796,56.7735045 Z M36.2290781,56.7134139 C36.4687557,56.2916012 36.7625189,56.0956193 37.0794559,56.0956193 C37.2585855,56.0979635 37.4341723,56.1445858 37.5897632,56.2311178 L37.7908312,55.4326586 C37.5980159,55.3250719 37.3789025,55.2703768 37.1567557,55.2743807 C36.7392242,55.2743807 36.4531587,55.4778248 36.2289975,55.8470091 L36.2289975,55.2818429 L35.3166348,55.4098792 L35.3166348,58.8609668 L36.2289975,58.8609668 L36.2289975,56.7134139 L36.2290781,56.7134139 Z" id="Partner" fill="#FFFFFF"></path>
+                <path d="M10.9445239,50.7271299 L10.9445239,46.0176737 L10.0089471,46.0176737 L10.0089471,50.7271299 L10.9445239,50.7271299 L10.9445239,50.7271299 Z M15.2355466,50.7271299 L15.2355466,48.338429 C15.2355466,47.5925982 14.8102771,47.1405438 14.0912443,47.1405438 C13.6582368,47.1405438 13.232806,47.3589124 12.9159899,47.6982477 L12.9159899,47.148006 L12.0036272,47.2685801 L12.0036272,50.7271299 L12.9159899,50.7271299 L12.9159899,48.2480967 C13.0938438,48.0823565 13.3875264,47.9240785 13.7046247,47.9240785 C14.1144584,47.9240785 14.3232242,48.097281 14.3232242,48.6098187 L14.3232242,50.7271299 L15.2355466,50.7271299 L15.2355466,50.7271299 Z M18.776262,49.7173716 C18.776262,49.0394864 18.2428212,48.7830211 17.5624383,48.6247432 C17.1449068,48.5269486 16.8433249,48.4366163 16.8433249,48.1726888 C16.8433249,47.946858 17.0443929,47.826284 17.376806,47.826284 C17.693864,47.826284 18.150005,47.9393958 18.4978942,48.1125982 L18.6989622,47.4193958 C18.3664685,47.2536556 17.8405239,47.1405438 17.3999798,47.1405438 C16.5415416,47.1405438 15.9773098,47.5702115 15.9773098,48.22571 C15.9773098,48.8812085 16.5107506,49.1522054 17.1834358,49.3030211 C17.6009673,49.4008157 17.9025491,49.499003 17.9025491,49.77 C17.9025491,50.011148 17.6705693,50.1545015 17.3149018,50.1545015 C16.9205844,50.1545015 16.4645239,50.0264653 16.1087355,49.8304834 L15.9076675,50.5236858 C16.2633753,50.7196677 16.8277683,50.8477039 17.2916877,50.8477039 C18.204131,50.8477039 18.776262,50.3654079 18.776262,49.7173716 L18.776262,49.7173716 Z M21.6059244,50.7043505 L21.4821965,49.9812991 C21.303602,50.0451235 21.11567,50.0806592 20.9255416,50.0865559 C20.616262,50.0865559 20.4459446,49.9361329 20.454005,49.6121148 L20.5003526,48.0069486 L21.5364433,48.0069486 L21.5596574,47.2760423 L20.5543577,47.2760423 L20.5698338,46.4622659 L19.6883829,46.4622659 L19.6729874,47.2308761 L19.1162519,47.4040785 L19.0930378,47.9692447 L19.6497733,48.0297281 L19.5956474,49.6647432 C19.5646549,50.5009063 19.982267,50.8402417 20.7785995,50.8402417 C21.0604125,50.8425062 21.340443,50.7965101 21.6059244,50.7043505 Z M24.1880504,50.3277039 C24.3194761,50.6745015 24.6364937,50.8779456 25.3168766,50.8025378 L25.3864786,50.1317221 C25.1158086,50.1167976 25.0695013,50.0790937 25.0695013,49.8155589 L25.0695013,48.5721148 C25.0926348,47.6153776 24.6674055,47.1405438 23.5694912,47.1405438 C23.0438488,47.1447711 22.5288239,47.2852034 22.0772594,47.547432 L22.2626499,48.2480967 C22.6414912,48.0371903 23.0821965,47.8789124 23.4455617,47.8789124 C23.9559093,47.8789124 24.1569773,48.0748943 24.1569773,48.5418731 L24.1569773,48.6247432 C22.5255013,48.6777644 22.0461058,49.2201511 22.0461058,49.8607251 C22.0461058,50.410574 22.5100252,50.8402417 23.1517985,50.8402417 C23.5925038,50.8402417 23.9017834,50.6289426 24.1569773,50.3277039 L24.1878892,50.3277039 L24.1880504,50.3277039 Z M24.1571385,49.890574 C23.9849713,50.0812601 23.737306,50.1910436 23.4766751,50.1922054 C23.1519597,50.1922054 22.943194,50.0036858 22.943194,49.7401511 C22.943194,49.3709668 23.2679093,49.1973716 24.1571385,49.0921148 L24.1571385,49.890574 Z M26.3448262,50.8704834 C25.8113048,50.9529607 25.5407154,51.2769789 25.5407154,51.6387009 C25.5407154,52.2643505 26.2907406,52.6032931 27.2340151,52.6032931 C28.3628413,52.6032931 29.3138942,52.0381269 29.3138942,51.2168882 C29.3138942,50.5386103 28.7339446,50.2601511 27.71333,50.2601511 L27.3420655,50.2601511 C26.7697733,50.2601511 26.6075567,50.1768882 26.6075567,49.9887613 C26.6075567,49.8454079 26.7621965,49.7326888 26.8859244,49.6871299 C27.0448072,49.7282374 27.2085932,49.7485767 27.3729773,49.7476133 C28.2544282,49.7476133 28.8652897,49.1899094 28.8652897,48.4817825 C28.8652897,48.3007251 28.7956877,48.0371903 28.7028715,47.9393958 L29.3832544,48.0521148 L29.3446448,47.2760423 L28.3858539,47.3589124 C28.0695934,47.2201734 27.7275805,47.1458644 27.380796,47.1405438 C26.3910932,47.1405438 25.8111436,47.7508761 25.8111436,48.466858 C25.8111436,48.9487613 26.0662972,49.3407251 26.4606146,49.5367069 C26.0662972,49.6647432 25.8034458,49.9510574 25.8034458,50.2676133 C25.8036071,50.5464653 26.0355466,50.7648338 26.3448262,50.8704834 L26.3448262,50.8704834 Z M26.6927557,48.4743202 C26.6927557,48.0371903 26.9479093,47.7434139 27.3499244,47.7434139 C27.8061461,47.7434139 28.0303476,48.0297281 28.0303476,48.4440785 C28.0303476,48.8812085 27.7984484,49.1675227 27.3886549,49.1675227 C26.9479093,49.1675227 26.6927557,48.8886707 26.6927557,48.4743202 Z M26.8164836,50.9906647 C26.9634257,51.0059819 27.2726247,51.0209063 27.4968665,51.0209063 C28.1618539,51.0209063 28.4865693,51.0963142 28.4865693,51.4203323 C28.4865693,51.7820544 28.0072141,52.0078852 27.3809572,52.0078852 C26.7777935,52.0078852 26.3680403,51.7820544 26.3680403,51.4580363 C26.3680403,51.2471299 26.56133,51.0813897 26.8164836,50.9906647 Z M30.7981058,48.579577 C31.0377431,48.1577644 31.3315466,47.9617825 31.6484836,47.9617825 C31.8276266,47.9641217 32.0032277,48.0107442 32.1588312,48.097281 L32.3598992,47.2988218 C32.1670824,47.1912387 31.9479701,47.1365438 31.7258237,47.1405438 C31.3082922,47.1405438 31.0222267,47.3439879 30.7980655,47.7131722 L30.7980655,47.148006 L29.8857028,47.2760423 L29.8857028,50.7271299 L30.7980655,50.7271299 L30.7980655,48.579577 L30.7981058,48.579577 Z M34.7642922,50.3277039 C34.8957179,50.6745015 35.2126952,50.8779456 35.8931184,50.8025378 L35.9627204,50.1317221 C35.6920504,50.1167976 35.6457028,50.0790937 35.6457028,49.8155589 L35.6457028,48.5721148 C35.6688363,47.6153776 35.2436071,47.1405438 34.1456927,47.1405438 C33.620052,47.1447824 33.10503,47.2852139 32.653461,47.547432 L32.8388514,48.2480967 C33.2176927,48.0371903 33.658398,47.8789124 34.0218035,47.8789124 C34.5321511,47.8789124 34.7332191,48.0748943 34.7332191,48.5418731 L34.7332191,48.6247432 C33.1017431,48.6777644 32.6223073,49.2201511 32.6223073,49.8607251 C32.6223073,50.410574 33.0862267,50.8402417 33.7280403,50.8402417 C34.1687456,50.8402417 34.4780252,50.6289426 34.7332191,50.3277039 L34.764131,50.3277039 L34.7642922,50.3277039 Z M34.7333804,49.890574 C34.5611975,50.081262 34.3135193,50.1910447 34.0528766,50.1922054 C33.7282015,50.1922054 33.5194358,50.0036858 33.5194358,49.7401511 C33.5194358,49.3709668 33.8441108,49.1973716 34.7333804,49.0921148 L34.7333804,49.890574 Z M41.9701763,50.7271299 L41.9701763,48.346284 C41.9701763,47.5925982 41.5445844,47.1405438 40.8719395,47.1405438 C40.3850882,47.1405438 39.9596574,47.3589124 39.6040302,47.7359517 C39.4261763,47.3439879 39.0627708,47.1405438 38.6297632,47.1405438 C38.1890579,47.1405438 37.825733,47.3137462 37.4932393,47.6377644 L37.4932393,47.148006 L36.5808766,47.2685801 L36.5808766,50.7271299 L37.4932393,50.7271299 L37.4932393,48.2103927 C37.692591,48.0238749 37.959105,47.9210642 38.2354458,47.9240785 C38.6142872,47.9240785 38.8153955,48.105136 38.8153955,48.617281 L38.8153955,50.7271299 L39.7277582,50.7271299 L39.7277582,48.2331722 C39.9055315,48.0823565 40.1529874,47.9240785 40.4701259,47.9240785 C40.8489673,47.9240785 41.057733,48.105136 41.057733,48.617281 L41.057733,50.7271299 L41.9701763,50.7271299 L41.9701763,50.7271299 Z" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>                </a>
+            </div>
+        </div>
+        <div class="column links">
+            <ul>
+                <li><a href="https://slide.ly/promo/support?utm_content=footer">FAQ</a></li>
+                <li><a href="https://slide.ly/promo/terms-of-service?utm_content=footer">TERMS OF SERVICE</a></li>
+                <li><a href="https://slide.ly/promo/privacy-policy?utm_content=footer">PRIVACY POLICY</a></li>
+                <li><a href="https://slide.ly/promo/cookies-policy?utm_content=footer">COOKIES POLICY</a></li>
+                <li><a href="https://slide.ly/promo/blog?utm_content=footer" data-linkname="blog" target="_blank">BLOG</a></li>
+                <li><a class="calendar" data-link-location="footer" target="_blank">CALENDAR</a></li>
+                <li><a href="https://slide.ly/promo/online-video-marketing?utm_content=footer" data-linkname="blog" target="_blank">VIDEO MARKETING RESOURCES</a></li>
+                                                <li><a href="/careers?utm_content=footer" data-linkname="jobs" target="_blank">CAREERS</a></li>
+                <li><a href="https://slide.ly/facebook-video-covers" data-linkname="jobs" target="_blank">FACEBOOK VIDEO COVERS</a></li>
+                <li><a href="https://slide.ly/promo/integrations?utm_content=footer" data-linkname="integrations" target="_blank">INTEGRATIONS</a></li>
+                <li><a href="//slide.ly/home?utm_content=footer">SLIDE.LY</a></li>
+            </ul>
+        </div>
+        <div class="column apps">
+            <div class="icons-for-footer">FOLLOW US</div>
+            <div class="icons">
+                <div class="icon"><a href="https://www.facebook.com/meetpromo" data-linkname="facebook" target="_blank"><!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="41px" height="40px" viewBox="0 0 41 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Promo-Landing-Tweaks" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1307.000000, -4150.000000)">
+        <g id="Group-14" transform="translate(0.000000, 4026.000000)" fill="#FFFFFF">
+            <g id="Footer" transform="translate(404.000000, 64.000000)">
+                <g id="facebook" transform="translate(903.000000, 60.000000)">
+                    <path d="M20.2322278,0.975609756 C9.62351729,0.975609756 0.992593263,9.5097561 0.992593263,20 C0.992593263,30.4897561 9.62351729,39.0239024 20.2322278,39.0239024 C30.841925,39.0239024 39.472849,30.4897561 39.472849,20 C39.472849,9.5097561 30.841925,0.975609756 20.2322278,0.975609756 L20.2322278,0.975609756 Z M20.2322278,39.9995122 C9.079367,39.9995122 0.00592003934,31.0278049 0.00592003934,20 C0.00592003934,8.97170732 9.079367,0 20.2322278,0 C31.3855819,0 40.4595222,8.97170732 40.4595222,20 C40.4595222,31.0278049 31.3855819,39.9995122 20.2322278,39.9995122 L20.2322278,39.9995122 Z" id="Fill-2"></path>
+                    <path d="M15.948586,17.0263415 L17.7842915,17.0263415 L17.7842915,15.262439 C17.7842915,14.4839024 17.804025,13.2839024 18.3753088,12.5404878 C18.9776728,11.7536585 19.8040116,11.2190244 21.2258077,11.2190244 C23.5420231,11.2190244 24.5173496,11.5453659 24.5173496,11.5453659 L24.0580532,14.2356098 C24.0580532,14.2356098 23.2933815,14.0160976 22.5795234,14.0160976 C21.865172,14.0160976 21.2258077,14.2692683 21.2258077,14.975122 L21.2258077,17.0263415 L24.1537605,17.0263415 L23.9495192,19.6536585 L21.2258077,19.6536585 L21.2258077,28.78 L17.7842915,28.78 L17.7842915,19.6536585 L15.948586,19.6536585 L15.948586,17.0263415" id="Fill-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg></a></div>
+                <div class="icon"><a href="https://www.instagram.com/promobyslidely/" data-linkname="instagram" target="_blank"><!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="41px" height="40px" viewBox="0 0 41 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>instagram</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Promo-Landing-Tweaks" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1364.000000, -4150.000000)">
+        <g id="Group-14" transform="translate(0.000000, 4026.000000)">
+            <g id="Footer" transform="translate(404.000000, 64.000000)">
+                <g id="instagram" transform="translate(960.000000, 60.000000)">
+                    <path d="M20.0369555,0.975609756 C9.54242987,0.975609756 1.0048002,9.5097561 1.0048002,20 C1.0048002,30.4897561 9.54242987,39.0243902 20.0369555,39.0243902 C30.5314811,39.0243902 39.0691108,30.4897561 39.0691108,20 C39.0691108,9.5097561 30.5314811,0.975609756 20.0369555,0.975609756 L20.0369555,0.975609756 Z M20.0369555,40 C9.00464948,40 0.0287922349,31.0278049 0.0287922349,20 C0.0287922349,8.97170732 9.00464948,0 20.0369555,0 C31.0697495,0 40.0451188,8.97170732 40.0451188,20 C40.0451188,31.0278049 31.0697495,40 20.0369555,40 L20.0369555,40 Z" id="Fill-31" fill="#FFFFFF"></path>
+                    <g id="IG-icon" transform="translate(11.632653, 11.627907)">
+                        <rect id="Camera-Frame" stroke="#FFFFFF" stroke-width="1.70859041" x="0" y="0" width="16.7510204" height="16.744186" rx="3.72093023"></rect>
+                        <ellipse id="Oval-1" stroke="#FFFFFF" stroke-width="1.70859041" cx="8.3999286" cy="8.4457478" rx="4.00461712" ry="4.02646116"></ellipse>
+                        <ellipse id="Oval-2" fill="#FFFFFF" cx="13.3080264" cy="3.43722294" rx="1.17208306" ry="1.17847644"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg></a></div>
+                <div class="icon"><a href="https://www.linkedin.com/company/1059993" data-linkname="linkedin" target="_blank"><!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="41px" height="40px" viewBox="0 0 41 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>linkedin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Promo-Landing-Tweaks" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1420.000000, -4150.000000)">
+        <g id="Group-14" transform="translate(0.000000, 4026.000000)" fill="#FFFFFF">
+            <g id="Footer" transform="translate(404.000000, 64.000000)">
+                <g id="linkedin" transform="translate(1016.000000, 60.000000)">
+                    <path d="M20.0369555,0.975609756 C9.54242987,0.975609756 1.0048002,9.5097561 1.0048002,20 C1.0048002,30.4878049 9.54242987,39.0243902 20.0369555,39.0243902 C30.5314811,39.0243902 39.0691108,30.4878049 39.0691108,20 C39.0691108,9.5097561 30.5314811,0.975609756 20.0369555,0.975609756 L20.0369555,0.975609756 Z M20.0369555,40 C9.00464948,40 0.0287922349,31.0292683 0.0287922349,20 C0.0287922349,8.97170732 9.00464948,0 20.0369555,0 C31.0697495,0 40.0451188,8.97170732 40.0451188,20 C40.0451188,31.0292683 31.0697495,40 20.0369555,40 L20.0369555,40 Z" id="Fill-37"></path>
+                    <path d="M28.7922349,27.2731707 L24.9082112,27.2731707 L24.9082112,21.595122 C24.9082112,20.1121951 24.3021103,19.1 22.9664434,19.1 C21.9450511,19.1 21.3775024,19.7829268 21.1125163,20.4439024 C21.0119875,20.6780488 21.0285796,21.0097561 21.0285796,21.3365854 L21.0285796,27.2731707 L17.1816442,27.2731707 C17.1816442,27.2731707 17.2328846,17.2219512 17.1816442,16.3082927 L21.0285796,16.3082927 L21.0285796,18.0278049 C21.2559894,17.2765854 22.4847835,16.2029268 24.4460715,16.2029268 C26.8797473,16.2029268 28.7922349,17.7795122 28.7922349,21.1756098 L28.7922349,27.2731707 L28.7922349,27.2731707 Z M13.2912765,14.9370732 L13.2663883,14.9370732 C12.0278341,14.9370732 11.2240916,14.097561 11.2240916,13.0356098 C11.2240916,11.9546341 12.0507703,11.1331707 13.3161647,11.1331707 C14.578143,11.1331707 15.3550453,11.9526829 15.3804215,13.0331707 C15.3804215,14.0956098 14.578143,14.9370732 13.2912765,14.9370732 L13.2912765,14.9370732 Z M11.6657352,16.3082927 L15.0920111,16.3082927 L15.0920111,27.2731707 L11.6657352,27.2731707 L11.6657352,16.3082927 Z" id="Fill-38"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg></a></div>
+                <div class="icon"><a href="https://twitter.com/PromoBySlidely" data-linkname="twitter" target="_blank"><!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="41px" height="40px" viewBox="0 0 41 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>twitter</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Promo-Landing-Tweaks" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1476.000000, -4150.000000)">
+        <g id="Group-14" transform="translate(0.000000, 4026.000000)" fill="#FFFFFF">
+            <g id="Footer" transform="translate(404.000000, 64.000000)">
+                <g id="twitter" transform="translate(1072.000000, 60.000000)">
+                    <path d="M20.0374435,0.975121951 C9.54291787,0.975121951 1.0052882,9.50926829 1.0052882,19.9995122 C1.0052882,30.4892683 9.54291787,39.0234146 20.0374435,39.0234146 C30.5314811,39.0234146 39.0686228,30.4892683 39.0686228,19.9995122 C39.0686228,9.50926829 30.5314811,0.975121951 20.0374435,0.975121951 L20.0374435,0.975121951 Z M20.0374435,39.9990244 C9.00513748,39.9990244 0.0292802389,31.0273171 0.0292802389,19.9995122 C0.0292802389,8.97121951 9.00513748,-0.000487804878 20.0374435,-0.000487804878 C31.0697495,-0.000487804878 40.0446308,8.97121951 40.0446308,19.9995122 C40.0446308,31.0273171 31.0697495,39.9990244 20.0374435,39.9990244 L20.0374435,39.9990244 Z" id="Fill-4"></path>
+                    <path d="M28.8210272,15.5034146 C28.1744219,15.7897561 27.4795042,15.9834146 26.7509143,16.0702439 C27.4960964,15.6243902 28.067549,14.9190244 28.3354632,14.0780488 C27.6385935,14.4907317 26.8685232,14.7902439 26.0457485,14.9507317 C25.3903592,14.2507317 24.4524155,13.8136585 23.4154071,13.8136585 C21.4258148,13.8136585 19.8119857,15.4268293 19.8119857,17.4160976 C19.8119857,17.6990244 19.8427299,17.9731707 19.9051944,18.2365854 C16.910314,18.0858537 14.2545963,16.6531707 12.4753338,14.4721951 C12.1649633,15.0058537 11.9883058,15.6243902 11.9883058,16.284878 C11.9883058,17.5336585 12.624663,18.6365854 13.5909109,19.2834146 C13.0014021,19.2653659 12.4445895,19.1019512 11.9575616,18.8336585 L11.9575616,18.877561 C11.9575616,20.6243902 13.2005077,22.0804878 14.8499612,22.4102439 C14.5478867,22.4946341 14.2301961,22.5370732 13.9003054,22.5370732 C13.6680155,22.5370732 13.4420697,22.5156098 13.2224679,22.4731707 C13.6811916,23.9043902 15.0110025,24.9463415 16.5892074,24.9741463 C15.3550453,25.9409756 13.8002646,26.5165854 12.1127468,26.5165854 C11.8218965,26.5165854 11.5344621,26.5004878 11.2528838,26.4668293 C12.8481688,27.4882927 14.7426003,28.084878 16.7770889,28.084878 C23.408575,28.084878 27.0324926,22.5960976 27.0324926,17.8346341 C27.0324926,17.6780488 27.0295646,17.5219512 27.0227325,17.3682927 C27.7274103,16.86 28.3398553,16.2253659 28.8210272,15.5034146" id="Fill-5"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg></a></div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="column copyright">
+                        © 2012-2018 EasyHi ltd. All rights reserved.
+        </div>
+            </section>
+</div>
+<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/van22wlo';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
+
+<div id="react-root">
+    <div id="ratio-editor-root"></div>
+    <div id="pricing-popup-root" class="pricing-v3"></div>
+    <div id="overcharge-root"></div>
+</div>
+<div id="fb-root"></div>
+
+<script id="triggered-ad-leave-intent-try-template" type="text/x-handlebars-template">
 	<div class="content">
-		<h2 class="create"><strong>Wait!</strong> Before you go...</h2>
-		<img class="main-image" src="http://ak02-cdn.slidely.com/1513157318/images/slidesong/triggered-ad/create-show-v2.jpg" alt="Create a show" width="528" height="215" />
-		<p class="create">Create a Slidely and see for yourself what the fuss is all about!</p>
-		<a class="leave-intent-create" href="https://slide.ly/create?utm_content=triggered-ad-leave-intent&ref=https://slide.ly/create?utm_content%3Dtriggered-ad-leave-intent">Create a show</a>
+		<div class="lit-overlay">
+			<h2 class="lit-header">join 100,000 businesses</h2>
+			<h2 class="lit-header">winning with promo!</h2>
+			<a class="lit-cta" href="https://slide.ly/promo/create?utm_content=triggered-ad-leave-intent">try for free</a>
+			<p class="lit-text"><a class="lit-close">No thanks</a>, I don't want to promote my business</p>
+		</div>
 	</div>
+</script>
+<script id="generic-popup-template" type="text/x-handlebars-template">
+    <div class="generic-popup">
+        <div class="blocker"></div>
+        <div class="popup">
+            <div class="content">
+                No content found
+            </div>
+            <div class="checkbox" style="display: none">
+                <input id="checkbox" name="checkbox" type="checkbox">
+                <label for="checkbox" class="checkbox-label"></label>
+            </div>
+            <div class="buttons">
+                <button class="cancel-button">CANCEL</button>
+                <button class="ok-button">OK</button>
+            </div>
+    
+            <div class="dont-show-again-container" style="display: none">
+                <input id="dont-show-again" name="dont-show-again" type="checkbox">
+                <label for="dont-show-again">Don't show this again</label>
+            </div>
+
+            <div class="small-text"></div>
+            <div class="close-button"><?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>X</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="X" fill="#252E3B">
+            <path d="M13.8987043,12.989567 L22.8929011,3.99537028 C23.134675,3.75359636 23.1401133,3.34112344 22.889062,3.09007211 C22.6362604,2.8372705 22.2326949,2.83730195 21.9837638,3.08623299 L12.989567,12.0804298 L3.99537028,3.08623299 C3.75359636,2.84445907 3.34112344,2.83902078 3.09007211,3.09007211 C2.8372705,3.34287373 2.83730195,3.74643924 3.08623299,3.99537028 L12.0804298,12.989567 L3.08623299,21.9837638 C2.84445907,22.2255377 2.83902078,22.6380107 3.09007211,22.889062 C3.34287373,23.1418636 3.74643924,23.1418321 3.99537028,22.8929011 L12.989567,13.8987043 L21.9837638,22.8929011 C22.2255377,23.134675 22.6380107,23.1401133 22.889062,22.889062 C23.1418636,22.6362604 23.1418321,22.2326949 22.8929011,21.9837638 L13.8987043,12.989567 L13.8987043,12.989567 Z"></path>
+        </g>
+    </g>
+</svg></div>
+        </div>
+    </div>
+</script>
+<script id="alert-popup-template" type="text/x-handlebars-template">
+    <div class="alert-popup">
+        <div class="title"></div>
+        <div class="text"></div>
+    </div>
+</script>
+<script id="loader-popup-template" type="text/x-handlebars-template">
+    <div class="loader-popup">
+        <div class="title"></div>
+        <div class="text"></div>
+        <div class="popup-loader"><!-- By Sam Herbert (@sherb), for everyone. More @ http://goo.gl/7AJzbL -->
+<svg width="38" height="38" viewBox="0 0 38 38" xmlns="http://www.w3.org/2000/svg" stroke="#fff">
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(1 1)" stroke-width="2">
+            <circle stroke-opacity=".5" cx="18" cy="18" r="18"/>
+            <path d="M36 18c0-9.94-8.06-18-18-18">
+                <animateTransform
+                    attributeName="transform"
+                    type="rotate"
+                    from="0 18 18"
+                    to="360 18 18"
+                    dur="1s"
+                    repeatCount="indefinite"/>
+            </path>
+        </g>
+    </g>
+</svg></div>
+    </div>
+</script>
+<script id="video-upload-not-eligible-popup-template" type="text/x-handlebars-template">
+    <div class="video-upload-not-eligible-popup">
+        <div class="left">
+            <div class="sun"><?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="345px" height="342px" viewBox="0 0 345 342" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Video-Uploading" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="video_upload_plans_behaviour_1920" transform="translate(-559.000000, -309.000000)">
+            <g id="popup" transform="translate(500.000000, 208.000000)">
+                <g id="Group-2" transform="translate(59.000000, 101.000000)">
+                    <g id="Group-7">
+                        <circle id="Oval-3" stroke="#F1F3F4" stroke-width="3.24050633" cx="172" cy="171" r="96"></circle>
+                        <path d="M170.74242,1.49640068 C170.74242,0.669961407 171.408217,-5.68434189e-14 172.24242,-5.68434189e-14 C173.070847,-5.68434189e-14 173.74242,0.669006258 173.74242,1.49640068 L173.74242,48.5035993 C173.74242,49.3300386 173.076623,50 172.24242,50 C171.413993,50 170.74242,49.3309937 170.74242,48.5035993 L170.74242,1.49640068 Z M250.963661,20.5531264 C251.351651,19.8234238 252.254043,19.5444559 252.9906,19.9360904 C253.722058,20.3250133 254.000942,21.2309952 253.612504,21.9615411 L231.543961,63.466434 C231.155971,64.1961365 230.253579,64.4751045 229.517022,64.08347 C228.785564,63.694547 228.50668,62.7885652 228.895118,62.0580193 L250.963661,20.5531264 Z M312.848181,74.4325463 C313.52516,73.9585202 314.455846,74.1196353 314.934325,74.8029742 C315.409491,75.481582 315.246672,76.4154285 314.56891,76.8900024 L276.062867,103.852224 C275.385888,104.32625 274.455202,104.165135 273.976723,103.481796 C273.501557,102.803188 273.664376,101.869342 274.342138,101.394768 L312.848181,74.4325463 Z M342.805291,151.247116 C343.62557,151.146398 344.371678,151.725585 344.473341,152.553569 C344.574301,153.375822 343.992126,154.12392 343.170899,154.224754 L296.514085,159.95349 C295.693806,160.054208 294.947698,159.475021 294.846034,158.647037 C294.745074,157.824784 295.327249,157.076686 296.148477,156.975852 L342.805291,151.247116 Z M333.572384,233.181392 C334.343932,233.477561 334.730794,234.339229 334.431843,235.118024 C334.134961,235.891428 333.269719,236.278645 332.49728,235.982133 L288.61228,219.13626 C287.840732,218.84009 287.45387,217.978422 287.752821,217.199627 C288.049703,216.426224 288.914944,216.039007 289.687384,216.335518 L333.572384,233.181392 Z M287.55783,301.116728 C288.110825,301.730892 288.064333,302.674276 287.4444,303.232467 C286.828758,303.786793 285.88203,303.738994 285.328395,303.12412 L253.87444,268.190964 C253.321444,267.5768 253.367936,266.633416 253.987869,266.075225 C254.603511,265.5209 255.550239,265.568698 256.103874,266.183572 L287.55783,301.116728 Z M214.922275,340.127419 C215.122209,340.92931 214.638267,341.740441 213.828843,341.942253 C213.025024,342.142668 212.211553,341.656002 212.011388,340.853185 L200.639317,295.242301 C200.439383,294.44041 200.923325,293.629279 201.732749,293.427467 C202.536568,293.227052 203.350039,293.713718 203.550204,294.516535 L214.922275,340.127419 Z M132.473452,340.853185 C132.273518,341.655075 131.46542,342.144065 130.655996,341.942253 C129.852177,341.741838 129.3624,340.930236 129.562565,340.127419 L140.934635,294.516535 C141.134569,293.714645 141.942668,293.225655 142.752091,293.427467 C143.55591,293.627881 144.045687,294.439483 143.845523,295.242301 L132.473452,340.853185 Z M59.1564447,303.12412 C58.6034489,303.738284 57.6603734,303.790657 57.04044,303.232467 C56.4247986,302.678141 56.3733753,301.731602 56.9270102,301.116728 L88.3809655,266.183572 C88.9339614,265.569408 89.8770368,265.517035 90.4969703,266.075225 C91.1126116,266.629551 91.1640349,267.57609 90.6104,268.190964 L59.1564447,303.12412 Z M11.9875595,235.982133 C11.2160119,236.278302 10.3519487,235.89682 10.0529972,235.118024 C9.75611543,234.344621 10.1400164,233.477903 10.9124556,233.181392 L54.7974562,216.335518 C55.5690037,216.039349 56.4330669,216.420832 56.7320185,217.199627 C57.0289002,217.97303 56.6449993,218.839748 55.87256,219.13626 L11.9875595,235.982133 Z M1.31394099,154.224754 C0.493661867,154.124036 -0.0901654775,153.381554 0.0114982659,152.553569 C0.112458136,151.731317 0.858321868,151.146282 1.67954902,151.247116 L48.3363631,156.975852 C49.1566422,157.07657 49.7404696,157.819052 49.6388058,158.647037 C49.537846,159.469289 48.7919822,160.054324 47.9707551,159.95349 L1.31394099,154.224754 Z M29.9159297,76.8900024 C29.2389503,76.4159763 29.0720356,75.4863131 29.5505147,74.8029742 C30.0256809,74.1243664 30.9588972,73.9579724 31.636659,74.4325463 L70.1427019,101.394768 C70.8196813,101.868794 70.9865959,102.798457 70.5081169,103.481796 C70.0329506,104.160404 69.0997344,104.326798 68.4219725,103.852224 L29.9159297,76.8900024 Z M90.8723359,21.9615411 C90.4843462,21.2318385 90.7576824,20.3277248 91.4942397,19.9360904 C92.2256975,19.5471674 93.1327405,19.8225805 93.5211787,20.5531264 L115.589722,62.0580193 C115.977711,62.7877219 115.704375,63.6918355 114.967818,64.08347 C114.23636,64.472393 113.329317,64.1969799 112.940879,63.466434 L90.8723359,21.9615411 Z" id="Rectangle-3-Copy-2" fill="#F1F3F4"></path>
+                        <path d="M170.74242,1.49640068 C170.74242,0.669961407 171.408217,-5.68434189e-14 172.24242,-5.68434189e-14 C173.070847,-5.68434189e-14 173.74242,0.669006258 173.74242,1.49640068 L173.74242,48.5035993 C173.74242,49.3300386 173.076623,50 172.24242,50 C171.413993,50 170.74242,49.3309937 170.74242,48.5035993 L170.74242,1.49640068 Z M250.963661,20.5531264 C251.351651,19.8234238 252.254043,19.5444559 252.9906,19.9360904 C253.722058,20.3250133 254.000942,21.2309952 253.612504,21.9615411 L231.543961,63.466434 C231.155971,64.1961365 230.253579,64.4751045 229.517022,64.08347 C228.785564,63.694547 228.50668,62.7885652 228.895118,62.0580193 L250.963661,20.5531264 Z M312.848181,74.4325463 C313.52516,73.9585202 314.455846,74.1196353 314.934325,74.8029742 C315.409491,75.481582 315.246672,76.4154285 314.56891,76.8900024 L276.062867,103.852224 C275.385888,104.32625 274.455202,104.165135 273.976723,103.481796 C273.501557,102.803188 273.664376,101.869342 274.342138,101.394768 L312.848181,74.4325463 Z M342.805291,151.247116 C343.62557,151.146398 344.371678,151.725585 344.473341,152.553569 C344.574301,153.375822 343.992126,154.12392 343.170899,154.224754 L296.514085,159.95349 C295.693806,160.054208 294.947698,159.475021 294.846034,158.647037 C294.745074,157.824784 295.327249,157.076686 296.148477,156.975852 L342.805291,151.247116 Z M333.572384,233.181392 C334.343932,233.477561 334.730794,234.339229 334.431843,235.118024 C334.134961,235.891428 333.269719,236.278645 332.49728,235.982133 L288.61228,219.13626 C287.840732,218.84009 287.45387,217.978422 287.752821,217.199627 C288.049703,216.426224 288.914944,216.039007 289.687384,216.335518 L333.572384,233.181392 Z M287.55783,301.116728 C288.110825,301.730892 288.064333,302.674276 287.4444,303.232467 C286.828758,303.786793 285.88203,303.738994 285.328395,303.12412 L253.87444,268.190964 C253.321444,267.5768 253.367936,266.633416 253.987869,266.075225 C254.603511,265.5209 255.550239,265.568698 256.103874,266.183572 L287.55783,301.116728 Z M214.922275,340.127419 C215.122209,340.92931 214.638267,341.740441 213.828843,341.942253 C213.025024,342.142668 212.211553,341.656002 212.011388,340.853185 L200.639317,295.242301 C200.439383,294.44041 200.923325,293.629279 201.732749,293.427467 C202.536568,293.227052 203.350039,293.713718 203.550204,294.516535 L214.922275,340.127419 Z M132.473452,340.853185 C132.273518,341.655075 131.46542,342.144065 130.655996,341.942253 C129.852177,341.741838 129.3624,340.930236 129.562565,340.127419 L140.934635,294.516535 C141.134569,293.714645 141.942668,293.225655 142.752091,293.427467 C143.55591,293.627881 144.045687,294.439483 143.845523,295.242301 L132.473452,340.853185 Z M59.1564447,303.12412 C58.6034489,303.738284 57.6603734,303.790657 57.04044,303.232467 C56.4247986,302.678141 56.3733753,301.731602 56.9270102,301.116728 L88.3809655,266.183572 C88.9339614,265.569408 89.8770368,265.517035 90.4969703,266.075225 C91.1126116,266.629551 91.1640349,267.57609 90.6104,268.190964 L59.1564447,303.12412 Z M11.9875595,235.982133 C11.2160119,236.278302 10.3519487,235.89682 10.0529972,235.118024 C9.75611543,234.344621 10.1400164,233.477903 10.9124556,233.181392 L54.7974562,216.335518 C55.5690037,216.039349 56.4330669,216.420832 56.7320185,217.199627 C57.0289002,217.97303 56.6449993,218.839748 55.87256,219.13626 L11.9875595,235.982133 Z M1.31394099,154.224754 C0.493661867,154.124036 -0.0901654775,153.381554 0.0114982659,152.553569 C0.112458136,151.731317 0.858321868,151.146282 1.67954902,151.247116 L48.3363631,156.975852 C49.1566422,157.07657 49.7404696,157.819052 49.6388058,158.647037 C49.537846,159.469289 48.7919822,160.054324 47.9707551,159.95349 L1.31394099,154.224754 Z M29.9159297,76.8900024 C29.2389503,76.4159763 29.0720356,75.4863131 29.5505147,74.8029742 C30.0256809,74.1243664 30.9588972,73.9579724 31.636659,74.4325463 L70.1427019,101.394768 C70.8196813,101.868794 70.9865959,102.798457 70.5081169,103.481796 C70.0329506,104.160404 69.0997344,104.326798 68.4219725,103.852224 L29.9159297,76.8900024 Z M90.8723359,21.9615411 C90.4843462,21.2318385 90.7576824,20.3277248 91.4942397,19.9360904 C92.2256975,19.5471674 93.1327405,19.8225805 93.5211787,20.5531264 L115.589722,62.0580193 C115.977711,62.7877219 115.704375,63.6918355 114.967818,64.08347 C114.23636,64.472393 113.329317,64.1969799 112.940879,63.466434 L90.8723359,21.9615411 Z" id="Rectangle-3-Copy-2" fill="#F1F3F4"></path>
+                        <g id="cloud-computing" transform="translate(130.278481, 141.620253)" fill="#F1F3F4">
+                            <path d="M70.8935527,22.8645314 C70.1599494,10.3469955 59.8390886,0.347564511 47.3991224,0.347564511 C39.8475274,0.347564511 32.5410464,4.04738873 28.0038312,10.0880599 C27.9030042,10.0341874 27.7934852,10.0011688 27.6926582,9.94555848 C27.4145148,9.81695961 27.1346329,9.68836075 26.8495359,9.57366446 C26.687865,9.51110284 26.5314093,9.45723035 26.368,9.39640656 C26.082903,9.30082632 25.8047595,9.21393519 25.5127089,9.13225753 C25.3492996,9.09054979 25.1928439,9.04362858 25.0242194,9.00887213 C24.7182616,8.93414576 24.3983966,8.88027326 24.0733165,8.84030334 C23.9377215,8.81249818 23.795173,8.78469302 23.6508861,8.77252826 C23.190211,8.72386923 22.7277975,8.6908506 22.2532152,8.6908506 C15.353519,8.6908506 9.73849789,14.3040175 9.73849789,21.2014352 C9.73849789,21.3786931 9.74371308,21.5542132 9.75762025,21.7314711 C3.97223629,24.8804055 0,31.4858691 0,38.0982839 C0,47.9482621 8.01227004,55.9578863 17.8655021,55.9578863 L25.0294346,55.9578863 C25.7978059,55.9578863 26.4218903,55.334008 26.4218903,54.5658904 C26.4218903,53.7995107 25.7978059,53.1738945 25.0294346,53.1738945 L17.8655021,53.1738945 C9.54727426,53.1738945 2.78491139,46.4137648 2.78491139,38.0982839 C2.78491139,32.3200239 6.54680169,26.3262739 11.7272236,23.8429255 L12.5147173,23.4692936 L12.5147173,22.593431 C12.5147173,22.4231244 12.5286245,22.2476044 12.5355781,22.0703465 L12.5494852,21.8253135 L12.5355781,21.5681157 C12.5286245,21.4464682 12.5147173,21.3230828 12.5147173,21.2014352 C12.5147173,15.8385148 16.8815696,11.4661532 22.2532152,11.4661532 C22.6808608,11.4661532 23.1085063,11.507861 23.5291983,11.5617335 C23.6387173,11.575636 23.7395443,11.5964899 23.8490633,11.6086547 C24.2228186,11.6781676 24.5896203,11.7528939 24.9494684,11.8606389 C24.9964051,11.8745415 25.0433418,11.8814928 25.0920169,11.8953954 C25.4918481,12.017043 25.8795105,12.173447 26.258481,12.3420158 C26.3540928,12.3837235 26.4497046,12.4306447 26.5453165,12.4775659 C26.8773502,12.6478726 27.209384,12.8320817 27.5292489,13.035407 C30.2046414,14.7732295 31.9830211,17.7796626 31.9830211,21.2014352 C31.9830211,21.9678149 32.6088439,22.593431 33.3754768,22.593431 C34.1438481,22.593431 34.7679325,21.9678149 34.7679325,21.2014352 C34.7679325,17.3730121 33.0364895,13.9442882 30.3193755,11.6503624 C34.305519,6.43689474 40.8731814,3.13155624 47.3991224,3.13155624 C58.1684895,3.13155624 67.1177553,11.6573137 68.0495359,22.437027 C66.6292658,22.3344955 64.4979916,22.280623 62.3719325,22.6073336 C61.6105148,22.7220299 61.0889958,23.4345372 61.20373,24.1957034 C61.3132489,24.8804055 61.9025654,25.375685 62.5822785,25.375685 C62.6500759,25.375685 62.7178734,25.3687337 62.7926245,25.3565689 C65.8817553,24.8873568 69.1082194,25.3287637 69.3046582,25.3565689 C75.7836624,26.5852094 80.6581266,32.544203 80.6581266,39.2382955 C80.6581266,46.9229468 74.4051139,53.1738945 66.7179241,53.1738945 L61.1898228,53.1738945 C60.4231899,53.1738945 59.7973671,53.7995107 59.7973671,54.5658904 C59.7973671,55.334008 60.4231899,55.9578863 61.1898228,55.9578863 L66.7179241,55.9578863 C75.9401181,55.9578863 83.443038,48.4574441 83.443038,39.2382955 C83.443038,31.6075166 78.1200675,24.7587579 70.8935527,22.8645314 Z" id="Fill-1"></path>
+                            <path d="M44.0979072,36.902662 C43.9692658,36.7740631 43.8128101,36.6715316 43.6424473,36.6037565 C43.3034599,36.461255 42.9227511,36.461255 42.5837637,36.6037565 C42.4081857,36.6715316 42.2586835,36.7740631 42.1283038,36.902662 L31.0060422,48.0229885 C30.4619241,48.5651891 30.4619241,49.448003 31.0060422,49.9902036 C31.2772321,50.2630418 31.6301266,50.3985919 31.9830211,50.3985919 C32.3428692,50.3985919 32.6975021,50.2630418 32.968692,49.9902036 L41.721519,41.2402671 L41.721519,69.8604667 C41.721519,70.6268465 42.3456034,71.2524626 43.1139747,71.2524626 C43.8806076,71.2524626 44.5064304,70.6268465 44.5064304,69.8604667 L44.5064304,41.2402671 L53.2523038,49.9902036 C53.5234937,50.2630418 53.8833418,50.3985919 54.2362363,50.3985919 C54.5960844,50.3985919 54.9489789,50.2630418 55.2219072,49.9902036 C55.7642869,49.448003 55.7642869,48.5651891 55.2219072,48.0229885 L44.0979072,36.902662 Z" id="Fill-2"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg></div>
+        </div>
+        <div class="right">
+            <h2 class="video-upload-not-eligible-title">Video upload</h2>
+            <p><strong>Try this feature for free!</strong></p>
+            <p>Create unlimited drafts, and share them with your team.</p>
+            <p>
+                When you are ready to download the video, Please <strong>upgrade                </strong> your plan to use this feature.            </p>
+            <div class="buttons-container">
+                <button class="let-me-try">Let me try this</button>
+                <button class="see-plans">See plans</button>
+            </div>
+            <div class="dont-show-again-container">
+                <input id="dont-show-again" name="dont-show-again" type="checkbox">
+                <label for="dont-show-again">Don't show this again</lable>
+            </div>
+        </div>
+    </div>
 </script>
 
-<script id="triggered-ad-leave-intent-download-template" type="text/x-handlebars-template">
-	<div class="content">
-		<h2>As you grab your wallet and keys…</h2>
-		<p>Get Slidely on Mobile for instant fun with your photos!</p>
-		<div class="leave-intent-download">
-			<a class="leave-intent-download-ios" href="https://itunes.apple.com/app/apple-store/id785325022?pt=96613831&ct=slidely-site&mt=8" target="_blank" data-report="leave-intent" data-action="download-mobile" data-button="ios">
-				<img src="http://ak04-cdn.slidely.com/1513157318/images/slidesong/triggered-ad/app-store-button.png" alt="Android download" width="163" height="60" />
-			</a>
-			<a class="leave-intent-download-android" href="https://play.google.com/store/apps/details?id=com.slidely.ezslidelyshowExp&utm_campaign=slidely-site&utm_source=slidely-site" target="_blank" data-report="leave-intent" data-action="download-mobile" data-button="android">
-				<img src="http://ak02-cdn.slidely.com/1513157318/images/slidesong/triggered-ad/google-play-button.png" alt="iOS download" width="163" height="60" />
-			</a>
-		</div>
-		<img class="main-image" src="http://ak04-cdn.slidely.com/1513157318/images/slidesong/triggered-ad/download-mobile.png" alt="Mobile download" width="259" height="171" />
-		<span class="close"></span>
-	</div>
+<script id="missing-features-popup-template" type="text/x-handlebars-template">
+    <div class="missing-features-popup">
+        <div class="left">
+        </div>
+        <div class="right">
+            <p class="missing-features-title">Go to the next level!</p>
+            <p class="main">
+                Looks like you are taking your videos to the next level with some of Promo's amazing and advanced features.            </p>
+            <br>
+            <ul class="missing-features-list"></ul>
+            <br>
+            <p class="sub">To publish this video check out your upgrade options:</p>
+            <div class="buttons-container">
+                <button class="cancel">Cancel</button>
+                <button class="see-plans">See plans</button>
+            </div>
+        </div>
+    </div>
 </script>
 
-<script id="triggered-ad-leave-intent-lookback-template" type="text/x-handlebars-template">
-	<div class="content">
-		<h2>Wait! Before you go...</h2>
-		<img class="main-image" src="http://ak01-cdn.slidely.com/1513157318/images/slidesong/triggered-ad/create-show.png" alt="Create a show" width="333" height="147" />
-		<p>Look Back at your best photo moments from 2014!</p>
-		<a class="leave-intent-create" href="https://slide.ly/lookback?utm_content=triggered-ad-leave-intent">Play my show</a>
-		<span class="close"></span>
-	</div>
+<script id="editable-label-template" type="text/x-handlebars-template">
+    <div class="editable-label">
+        <div class="text-wrapper">
+            <span></span>
+        </div>
+        <input type="text" />
+    </div>
 </script>
-<script id="triggered-ad-leave-intent-valentine-template" type="text/x-handlebars-template">
-	<div class="content">
-		<h2>Before you go...</h2>
-		<img class="main-image" src="http://ak03-cdn.slidely.com/1513157318/images/slidesong/triggered-ad/valentine-ad.png" alt="Create a show" width="333" height="147" />
-		<p>Create a beautiful video of you and your loved one</p>
-		<a class="leave-intent-create" href="https://slide.ly/create?utm_content=triggered-ad-leave-intent&valentines=1&ref=https://slide.ly/create?utm_content%3Dtriggered-ad-leave-intent%26valentines%3D1">Create my Video</a>
-		<span class="close"></span>
-	</div>
+<script id="color-picker-widget-template" type="text/x-handlebars-template">
+    <div class="color-picker-widget">
+        <div>Selected color<input id="color" name="color" class="hex-input" type="text" value="#ffffff" style="color: rgb(0, 0, 0); background-color: rgb(232, 143, 156);"></div>
+        <div class="color-picker"></div>
+        <div class="colors-list">
+            <ul>
+            </ul>
+        </div>
+    </div>
 </script>
-<script id="triggered-ad-leave-intent-trey-contest-template" type="text/x-handlebars-template">
-	<div class="content">
-		<div class="title">
-		  <h3>Wait! Before you go...</h3>
-		</div>
-		
-		<div class="body">
-		  <p>Join the #SlowMotion movement for a chance to win amazing prizes including a</p>
-		  <div class="samsung-note"></div>
-		</div>
-		<div class="tablet"></div>
-		<a class="enter-contest-button" target="_blank" href="http://slowmotion.slide.ly">Enter Contest Now</a>
-		<span class="close"></span>
-	</div>
-</script><script id="triggered-ad-scroll-down-create-template" type="text/x-handlebars-template">
-	<div class="content">
-		<h2>Feeling creative?</h2>
-		<p>Make a Slidely now!</p>
-		<a class="scroll-down-create" href="https://slide.ly/create?utm_content=triggered-ad-scroll-down">Start now!</a>
-		<span class="close"></span>
-	</div>
+<script id="recaptcha-popup-template" type="text/x-handlebars-template">
+    <div class="recaptcha-popup">
+        <div class="state-container">
+            <div class="title">Are you human?</div>
+            <div id='recaptcha' class="g-recaptcha" data-sitekey="6LdPdB4TAAAAAB3frq1UhuIk7VLV2rdDh7Fy3CaW"></div>
+        </div>
+    </div>
+</script>
+<input type="hidden" name="stripe-pk" value="pk_live_CCJx2kj8LLGZLFyzFAaM7gEO">
+
+
+<script id="cookies-policy-popup-template" type="text/x-handlebars-template">
+    <div id="cookies-policy-popup">
+        <div class="text-left">
+            This website uses cookies. <a target="_blank" href="https://slide.ly/promo/cookies-policy">Click here</a> to find out more about cookies used on this website.            <div class="got-it-btn">Got it</div>
+        </div>
+    </div>
+</script>
+<script id="cookies-policy-popup-mobile-template" type="text/x-handlebars-template">
+    <div id="cookies-policy-popup-mobile">
+        <div class="text-left">
+            This website uses cookies. <a target="_blank" href="https://slide.ly/promo/cookies-policy">Click here</a> to find out more about cookies used on this website.        </div>
+        <div class="got-it-btn">Got it</div>
+    </div>
+</script>
+<script type="text/javascript" src="https://ak02-cdn.slidely.com/1542206297/dist/node-vendor-chunk.js"></script>
+<script type="text/javascript" src="https://ak02-cdn.slidely.com/1542206297/dist/promo-common-chunk.js"></script>
+<script type="text/javascript" src="https://ak04-cdn.slidely.com/1542206297/dist/layout.bundle.js"></script><script>
 </script>
 
-<script id="triggered-ad-scroll-down-download-template" type="text/x-handlebars-template">
-	<div class="content">
-		<p>Be creative on the go</p>
-		<h2>Get the Slidely app!</h2>
-		<div class="scroll-down-download">
-			<a class="scroll-down-download-ios" href="https://itunes.apple.com/app/apple-store/id785325022?pt=96613831&ct=slidely-site&mt=8" target="_blank" data-report="scroll-down" data-action="download-mobile" data-button="ios">
-				<img src="http://ak03-cdn.slidely.com/1513157318/images/slidesong/triggered-ad/app-store-small-button.png" alt="Android download" width="129" height="43" />
-			</a>
-			<a class="scroll-down-download-android" href="https://play.google.com/store/apps/details?id=com.slidely.ezslidelyshowExp&utm_campaign=slidely-site&utm_source=slidely-site" target="_blank" data-report="scroll-down" data-action="download-mobile" data-button="android">
-				<img src="http://ak02-cdn.slidely.com/1513157318/images/slidesong/triggered-ad/google-play-small-button.png" alt="iOS download" width="129" height="43" />
-			</a>
-		</div>
-		<span class="close"></span>
-	</div>
-</script><script id="like-box-widget-item-template" type="text/x-handlebars-template">
-	<li class="{{itemClass}}">
-		<a href="{{ LikerUrl }}?utm_content=like_box" title="{{ fullName }}" style="background-image: url({{ userImage }})"></a>
-	</li>
-</script><script id="modal-dialog-template" type="text/x-handlebars-template">
-	
-	<div class="md-wrap"> <!-- //this wrap is here only for IE -->
-		{{#if title}}
-			<h2 class="md-title">{{ title }}</h2>
-		{{/if}}
-		<div class="md-body">{{ body }}</div>
-		<div class="md-footer">
-			{{#if cancelButton}}
-			<span class="md-cancel">{{ cancelButton }}</span>
-			{{/if}}
-			
-			{{#if acceptButton}}
-			<span class="md-accept">{{ acceptButton }}</span>
-			{{/if}}
-		</div>
-	</div>
 
-	<span class="close"></span>
+<!-- Begin Inspectlet Embed Code -->
+<script type="text/javascript" id="inspectletjs">
+    window.__insp = window.__insp || [];
+    __insp.push(['wid', 1682180635]);
+    (function() {
+        function ldinsp(){if(typeof window.__inspld != "undefined") return; window.__inspld = 1; var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); };
+        setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent ? window.attachEvent('onload', ldinsp) : window.addEventListener('load', ldinsp, false)) : ldinsp();
+    })();
 </script>
-<script id="language-picker-dialog-template" type="text/x-handlebars-template">
-	<p>Sildely is currently available in the following languages:</p>
-	<ul>
-		<li><a data-language="en" href="#" title="English" class="lpd-language is-active">English</a></li>
-		<li><a data-language="es" href="#" title="Spanish" class="lpd-language ">Español</a></li>
-		<li><a data-language="pt" href="#" title="Portuguese" class="lpd-language ">Português</a></li>
-	</ul>
+<!-- End Inspectlet Embed Code -->
+
+<!-- start tapfiliate code -->
+<script src="//static.tapfiliate.com/tapfiliate.js" type="text/javascript" async=""></script>
+<script type="text/javascript">
+    window['TapfiliateObject'] = i = 'tap';
+    window[i] = window[i] || function () {
+            (window[i].q = window[i].q || []).push(arguments);
+        };
+
+    tap('create', '3277-48b579');
+    tap('detectClick');
+
+    //window.onload = function(e){alert(e);};
 </script>
-	<div id="dim" class="dim-dark">&nbsp;</div>
+<!-- end tapfiliate code -->
+
+<!-- linked in pixel -->
+<script type="text/javascript">
+    _linkedin_data_partner_id = "102514";
+</script><script type="text/javascript">
+    (function(){var s = document.getElementsByTagName("script")[0];
+        var b = document.createElement("script");
+        b.type = "text/javascript";b.async = true;
+        b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+        s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=102514&fmt=gif" />
+</noscript>
+<!-- end linked in pixel -->
+<!-- bing pixel -->
+<img src="//bat.bing.com/action/0?ti=5708154&amp;Ver=2" height="0" width="0" style="display:none; visibility: hidden;">
+<!-- end bing pixel -->
+
+<!-- Twitter universal website tag code -->
+<script>
+    !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+    },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+        a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init','nvpxr');
+    twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+<!-- Taboola Pixel Code -->
+<script type="text/javascript">
+    window._tfa = window._tfa || [];
+    window._tfa.push({notify: 'event', name: 'page_view', id: 1169464});
+    !function (t, f, a, x) {
+        if (!document.getElementById(x)) {
+            t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
+        }
+    }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/unip/1169464/tfa.js',
+        'tb_tfa_script');
+</script>
+<noscript>
+    <img src='//trc.taboola.com/1169464/log/3/unip?en=page_view'
+         width='0' height='0' style='display:none'/>
+</noscript>
+<!-- End of Taboola Pixel Code -->
+
+
 </body></html>
