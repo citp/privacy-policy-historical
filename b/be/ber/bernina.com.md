@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bernina.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005102725id_/https%3A//www.bernina.com/en-US/Footer-en-US/Disclaimer-Pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bernina.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116164445id_/https%3A//www.bernina.com/en-US/Footer-en-US/Disclaimer-Pages/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Footer - BERNINA
 
@@ -10,11 +10,42 @@ The Terms and Conditions of Use of the website and the legal requirements on pri
 
 By using this website, you acknowledge and consent to the use of your personal information as stated in this Privacy Policy. If you do not consent to these provisions, please do not provide BERNINA with any personal information.
 
-**2.  Type of information collected**
+**2 Collection of personal data**  
+**2.1  Collection of personal data for informational use**
 
-On visiting the BERNINA website, there is no automatic collection of personal information about the user, such as name, address telephone number or email address unless this information is provided voluntarily by the user by filling in a form on the website or making contact with us in another way via the site. Data collection and analysis also applies to information you provide to us when you subscribe to one of our services or if you require other services. In addition, we may keep records of correspondence if you make contact with us.
+  On visiting the BERNINA website, there is no automatic collection of personal information about the user, such as name, address telephone number or email address unless this information is provided voluntarily by the user by filling in a form on the website or making contact with us in another way via the site. Data collection and analysis also applies to information you provide to us when you subscribe to one of our services or if you require other services. In addition, we may keep records of correspondence if you make contact with us.
 
-BERNINA constantly strives to make our website more interesting for all our users. For this reason, statistical visitor data is collected each time the website is visited to establish which pages of the website are visited most frequently by each user. This includes the collection of data regarding the browser, operating system, weblogs and other connection data used by the user, irrespective of whether its collection is required for our or other purposes. In this context, it is sometimes necessary to use cookies.
+  BERNINA constantly strives to make our website more interesting for all our users. For this reason, statistical visitor data is collected each time the website is visited to establish which pages of the website are visited most frequently by each user. This includes the collection of data regarding the browser, operating system, weblogs and other connection data used by the user, irrespective of whether its collection is required for our or other purposes. In this context, it is sometimes necessary to use cookies (More information about the use of cookies is available in section 3 of this Privacy Policy).
+
+  **2.2 Collection of personal data for special uses**  
+**2.2.1 Customer portal**
+
+  If you wish to use our customer portal, you must first register by providing your name, your email address, and a password of your choosing. This information will be stored in the Microsoft Azure Cloud on servers in the EU. For this registration, we use for the so-called double opt-in process, which means your registration is not complete until you confirm the registration using a code sent to you by email. You must provide the aforementioned data to use the customer portal. You can voluntarily provide more information by using our portal.
+
+  In our customer portal, you can view, change, and add to the personal information that we have on record for you at any time. We use this information for customer data management and, if necessary, to process any warranty claims as well as to personalize advertising. Additionally, you can register your Bernina products, sign up for the Bernina newsletter, and identify topics that you are particularly interested in.
+
+  If you want to register a product, we will save the information you provide (serial number, date of purchase, dealer, product, and other information in the questionnaire) and use it for the purpose of customer data administration and, if necessary, to grant any benefits you may be awarded as a result of registering the product, and to provide personalized advertising.
+
+  For more information on data privacy when using the newsletter service, please see section 2.2.2 Newsletter.
+
+  Information that you provide in the customer portal may be linked to other information we have saved about you in a customer profile. In doing so, we comply with the principle of purpose limitation and link only data that has been collected for the same purposes (e.g. for advertising). Bernina can provide dealers, suppliers, or service providers with information from your customer profile if you have given your consent, which is revocable at any time, to this submission or if the transmission of this information is necessary in order to process your request. Bernina will only transmit your data to third parties to the extent required. These third parties are obligated to adequately protect your data and to use it in conformity with the law.
+
+  You are neither legally or contractually obligated to provide information. Use of the customer portal, however, is only possible if the required information specified above has been provided. Any benefits arising from product registration can only be provided if the product has been registered.
+
+  You can delete individual data stored in the customer portal at any time. All of your stored data may be deleted upon request. Additional information about your information and revocation rights is available in paragraph 9 of the data protection provisions. In all other respects, your data will be deleted when the purpose for which the data was collected no longer exists.
+
+  **2.2.2 Newsletter  **
+
+You can sign up for our newsletter to receive information about the latest trends in sewing, quilting, and embroidery as well as attractive offers from Bernina.
+
+  The sign-up for our newsletter follows the so-called double opt-in process. This means that we send an email to the specified email address in which we ask you to confirm that you wish to receive the newsletter. If you do not confirm your registration within 7 days, your information will be automatically deleted. In addition, we will save your IP addresses as well as the dates of registration and confirmation. The purpose of this process is to verify your application and, if necessary, to clarify any possible misuse of your personal data.
+
+  The only information required to send the newsletter is your email address. The submission of additional information is voluntary and will be used to personalize your experience. After we have received your confirmation, we will store your email address for the purpose of sending the newsletter.  
+You can revoke your consent to receiving the newsletter and unsubscribe from the newsletter at any time. You can cancel by clicking on the link provided in each newsletter or by emailing [info@bernina.com](mailto:info@bernina.com).  
+
+We hereby inform you that we evaluate your user behavior when sending the newsletter. To this end, a cookie is stored on your computer via a personalized link in the newsletter with a user ID so that we can identify you for future visits to our website. We link the data specified in section 2.1 with the user ID, your email address, and any stored data in a user profile. Using this data, we create or add to a user profile in order to tailor the newsletter to your specific interests. We record when you read our newsletter and which links you click in it. This allows us to infer your personal interests. We link this data with your actions on our website.
+
+  You can object to this tracking at any time by sending an email to [info@bernina.com](mailto:info@bernina.com). This information will be stored as long as you are subscribed to the newsletter.
 
 **3.  Use of cookies**
 
@@ -72,11 +103,23 @@ Furthermore, the BERNINA website uses a service by Quantcast, 795 Folsom Street,
 
   More information about how Quantcast handles your data can be found at https://www.quantcast.com/privacy/. You can disable Quantcast tracking by disabling cookies within your browser. 
 
-**4.6   Data sent to BERNINA**
+**4.6 Facebook Pixel**
+
+  BERNINA of America uses a service by Facebook that involves a pixel installation on the website.
+
+  Any customer data that BERNINA of America passes through the Facebook pixel is hashed locally on the browser before it goes to the Facebook servers for matching. This hashing process turns data collected from the BERNINA of America pixel into short encrypted messages that cannot be tampered with.
+
+Facebook uses these hashes to match pixel events with people on Facebook. Then Facebook deletes all matched and unmatched hashes immediately after the matching process ends. Facebook does not collect or store any personally identifiable information on their servers.
+
+The Facebook pixel uses secure https connection, so that any data transmitted from the browser will make it to the Facebook servers safely.
+
+  Find more information about pixels data [here](https://developers.facebook.com/ads/blog/post/2016/05/31/advanced-matching-pixel/).
+
+**4.7   Data sent to BERNINA**
 
 Information that you provide to BERNINA yourself as a user of the website may be used by BERNINA and companies affiliated with BERNINA in order to improve the BERNINA website and to provide individual support to the user. This also includes sending the user items such as information, offers or notifications regarding BERNINA's product range and services.
 
-**4.7   Server location**
+**4.8   Server location**
 
 The personal information collected is transmitted and stored in Austria (location of the server). The information will be treated in Switzerland and in accordance with the applicable Swiss data protection regulations. However, the information may be processed outside of Switzerland by personnel working for us or for our suppliers. By providing your personal information, you consent to the transmission, storage and processing of your information in accordance with these data protection regulations.
 
@@ -114,3 +157,8 @@ In addition, you are also able to obtain information on the processing of inform
 If the individual provisions or parts of these Privacy Policy should prove to be invalid or ineffective, the validity of the rest of the Privacy Policy will not be affected.
 
 The jurisdiction and applicable law are as stated in the Terms and Conditions of Use.
+
+  
+_Last updated: March 26th, 2018_
+
+ 
