@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candycrush-cheats.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614115701id_/http%3A//candycrush-cheats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candycrush-cheats.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116120223id_/http%3A//www.candycrush-cheats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Candy Crush Cheats
 
