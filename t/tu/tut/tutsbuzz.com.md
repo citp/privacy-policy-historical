@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutsbuzz.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130052451id_/http%3A//tutsbuzz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutsbuzz.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116212911id_/http%3A//www.tutsbuzz.com/privacy.html) for the most accurate reproduction.*
 
 # 3D, Photoshop and Programming Tutorials | TutsBuzz.com
 
