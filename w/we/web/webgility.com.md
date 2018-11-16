@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the webgility.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010101434id_/http%3A//www.webgility.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webgility.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116025153id_/https%3A//www.webgility.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Webgility
 
-At Webgility, we place the highest importance on respecting and protecting the privacy of our customers. Our most important asset is our relationship with you. We want you to feel comfortable and confident when using our Web sites. Therefore, we would like to share with you the following principles that govern our information practices and other privacy aspects of our Web sites. This privacy statement defines privacy aspects specific to [www.webgility.com](http://www.webgility.com/). Throughout this policy, we refer to information that personally identifies you as "personal information".
+**On May 25th, 2018 the EU General Data Protection Regulation (GDPR) will go into effect, requiring more rigorous compliance with data anonymity and requests for data erasure. While Webgility has not made any functional changes to the way data is processed for users, we’ve updated this policy for clarity and content.[Click here to see our FAQ](https://web.archive.org/gdpr).**
+
+At Webgility, we place the highest importance on respecting and protecting the privacy of our customers. Our most important asset is our relationship with you. We want you to feel comfortable and confident when using our website. Therefore, we would like to share with you the following principles that govern our information practices and other privacy aspects of our Websites. This privacy statement defines privacy aspects specific to [www.webgility.com](http://www.webgility.com/). Throughout this policy, we refer to information that personally identifies you as "personal information".
 
 ## **We protect your information**
 
 We work to protect your personal information from loss, misuse or unauthorized alteration by using industry-recognized security safeguards. 
 
 **We tell you how we use your information**  
-When we ask you for information, we will tell you, – or it will be clear – what we need to know to fulfill your request and how the information you provide to us will be used. For example, if you order a product or register for a service from us, we will ask you for your name and contact information such as mailing address, phone number, and e-mail address. In addition to responding to your request, we may use your contact information to tell you about products or services we think might interest you or to invite you to participate in a product or service-related survey. Because of the financial nature of our business, this Web site is not designed to appeal to children under the age of 13. We do not knowingly request or receive any information from children.
+When we ask you for information, we will tell you, – or it will be clear – what we need to know to fulfill your request and how the information you provide to us will be used. For example, if you order a product or register for a service from us, we will ask you for your name and contact information such as mailing address, phone number, and e-mail address. In addition to responding to your request, we may use your contact information to tell you about products or services we think might interest you or to invite you to participate in a product or service-related survey. Also, any data submitted to us can be removed safely from our database at your request. For more information on data anonymity and erasure, visit our updated [GDPR compliance information](https://web.archive.org/gdpr). Because of the financial nature of our business, this Website is not designed to appeal to children under the age of 13. We do not knowingly request or receive any information from children.
 
 **We do not sell or rent your personal information to anyone.**
 
@@ -21,7 +23,7 @@ We have limited relationships with third parties to assist us in servicing you, 
 Additionally, we have business partners that provide services, some of which are co-branded. We clearly identify partner services and sites. When you request any of these products or services, you are permitting us to provide your personal information to the partner to fulfill your request. We may disclose your information if we are required to by a law enforcement action such as a court order, subpoena or search warrant.
 
 **We tell you how we use Web technology**  
-Like many Web sites, we use technology, such as cookies, that allow us to make your visit to our Web site easier by recognizing you when you return and help to provide you with a customized experience. 
+Like many Websites, we use technology, such as cookies, that allow us to make your visit to our Website easier by recognizing you when you return and help to provide you with a customized experience. 
 
 ## **We give you choice and control**
 
@@ -31,9 +33,9 @@ You can update or correct your contact information relating to your Webgility ac
 
 ## **You can contact us**
 
-If you have privacy-related questions that are not addressed here, please contact us by visiting [www.webgility.com](http://www.webgility.com/). If we make material changes to any of our privacy policies or practices regarding personal information we will update our statement and post a notice on our site 30 days before they take effect.
+If you have privacy or data anonymity and erasure related questions that are not addressed here, please contact us by visiting [www.webgility.com](http://www.webgility.com/). If we make material changes to any of our privacy policies or practices regarding personal information we will update our statement and post a notice on our site 30 days before they take effect.
 
-Last Updated: May 1, 2011
+Last Updated: May 24, 2018
 
 Makes transferring orders from our website to QuickBooks seamless.
 
