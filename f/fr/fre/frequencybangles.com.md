@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frequencybangles.com privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224111351id_/http%3A//www.frequencybangles.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frequencybangles.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116183919id_/http%3A//www.frequencybangles.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Frequency Bangles
 
