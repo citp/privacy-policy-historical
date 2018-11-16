@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the typicallyspanish.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215182710id_/http%3A//www.typicallyspanish.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typicallyspanish.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116110218id_/http%3A//www.typicallyspanish.com/privacy.shtml) for the most accurate reproduction.*
 
-# Typically Spanish Privacy
+# Typically Spanish ABOUT US Welcome to Typically Spanish
 
 ### Typically Spanish - PRIVACY POLICY
 
@@ -71,7 +71,7 @@ www.typicallyspanish.com is not responsible for the opinions of third parties th
 
 You consent to receive commercial communications from us in your email or any other similar means, unless you notify us that prefer not to receive such communications. If you do not want to receive commercial communications, simply follow the instructions provided in each communication.
 
-You may not use www.typicallyspanish.com as a communication tool to collect addresses, send spam or violate any of our Terms and Conditions or our Privacy Policy. We may revise or filter your messages automatically or manually to monitor malicious activity or prohibited content but we do not store messages permanently. If the user uses our tools to send content to friends, we do not permanently store the addresses or use or disclose this data for sending commercial communications. Please contact urgent@typicallyspanish.com to report the spam made by other users. 
+You may not use www.typicallyspanish.com as a communication tool to collect addresses, send spam or violate any of our Terms and Conditions or our Privacy Policy. We may revise or filter your messages automatically or manually to monitor malicious activity or prohibited content but we do not store messages permanently. If the user uses our tools to send content to friends, we do not permanently store the addresses or use or disclose this data for sending commercial communications. Please contact feedback@typicallyspanish.com to report the spam made by other users. 
 
 ### Opting Out
 
@@ -100,4 +100,4 @@ This site gives users the following options for changing and modifying informati
 
 This site gives users the following options for changing and modifying information previously provided. You can use the same contact if not satisfied with any comments about your company in our comments section.  
 1\. By email to [feedback@typicallyspanish.com](mailto:feedback@typicallyspanish.com)  
-2\. By telephone (+34) 722263512 3\. By contact form [click here](http://www.typicallyspanish.com/forms/commentform/)
+2\. By telephone (+34) 722263512 3\. By contact form [click here](http://www.typicallyspanish.com/form/contactform.shtml)
