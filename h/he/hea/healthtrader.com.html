@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the healthtrader.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606222516id_/https%3A//www.healthtrader.com/us/privacy-cookies-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the healthtrader.com privacy policy that was archived on 2018-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181116092649id_/https%3A//www.healthtrader.com/us/privacy-cookies-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 <meta charset="utf-8">
@@ -9,7 +9,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="https://www.healthtrader.com/us/css/../favicon.ico">
 <meta name="description" content="Learn about our cookie policy at HealthTrader.com. What cookies are been used, what they are used for and how to manage your cookies.">
 <meta name="keywords" content="cookies, legal, policy, cookie">
-<link rel="alternate" hreflang="pt-BR" href="https://www.healthtrader.com/br/politica-privacidade-cookies">
+<link rel="alternate" hreflang="-BR" href="https://www.healthtrader.com/br/politica-privacidade-cookies">
 <link rel="alternate" hreflang="de-DE" href="https://www.healthtrader.com/de/datenschutz-und-cookies">
 <link rel="alternate" hreflang="da-DK" href="https://www.healthtrader.com/dk/privatliv-og-cookie-policy">
 <link rel="alternate" hreflang="es-ES" href="https://www.healthtrader.com/es/privacidad-y-política-de-cookies">
@@ -20,11 +20,11 @@
 <link rel="alternate" hreflang="pt-PT" href="https://www.healthtrader.com/pt/politica-privacidade-cookies">
 <link rel="alternate" hreflang="sv-SE" href="https://www.healthtrader.com/se/sekretess-och-cookies-policy">
 <link rel="alternate" hreflang="en-GB" href="https://www.healthtrader.com/uk/privacy-cookies-policy">
-<link rel="alternate" hreflang="en-US" href="https://www.healthtrader.com/us/privacy-cookies-policy">
-<link href="https://www.healthtrader.com/us/css/style.css" rel="stylesheet" type="text/css">
+<link rel="alternate" hreflang="en_us-US" href="https://www.healthtrader.com/us/privacy-cookies-policy">
+<link href="//cdn.healthtrader.com/website/css/style-new.css" rel="stylesheet" type="text/css">
 <link href="https://www.healthtrader.com/us/css/extra.css" rel="stylesheet" type="text/css">
 <link href="https://www.healthtrader.com/us/css/responsive.css" rel="stylesheet" type="text/css">
-<link href="https://www.healthtrader.com/us/css/owl.carousel.css" rel="stylesheet" type="text/css">
+<link href="//cdn.healthtrader.com/website/css/owl.carousel-new.css" rel="stylesheet" type="text/css">
 <script async="" src="https://embed.tawk.to/580773ce7d6b3d6f0ea3ac3f/default" charset="UTF-8" crossorigin="*"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-K89ZQ3C"></script><script src="//cdn.healthtrader.com/website/script/html5tags.js" type="application/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="application/javascript"></script>
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js" type="application/javascript"></script>
@@ -101,12 +101,31 @@ var btncrsb;
 		btncrsb = $('#crsb');
 		$("input[name='timezone_offset']").val(getTimeZoneData().timezone_offset);
 		$("input[name='timezone_dst']").val(getTimeZoneData().timezone_dst);
+		
+		jQuery.validator.addMethod("lettersonly", function(value, element) 
+		{
+		return this.optional(element) || /^[a-z," ",']+$/i.test(value);
+		}, "Letters and spaces only please"); 
+		
+		jQuery.validator.addMethod("textmaxlength", function(value, element) 
+		{
+			return this.optional(element) || value.length <= 25;
+		}, "Name should not be more then 25 character");
+		
 		$("#frmsu").validate({
 			rules: {
 				email: {
 					required: true,
 					email: true,
 					remote: "https://www.healthtrader.com/us/check-email.php"
+				},
+				first_name:{
+						lettersonly: true,
+						textmaxlength: true
+				},
+				last_name:{
+						lettersonly: true,
+						textmaxlength: true
 				}
 			},
 			submitHandler:function (frm){
@@ -240,14 +259,14 @@ $(document).mouseup(function (e)
     }
 });
 </script>
- 
+
 <script type="text/javascript">
 	if(document.location.protocol=='http:'){
 	 var Tynt=Tynt||[];Tynt.push('d4ysX-nxWr47lsacwqm_6l');
 	 (function(){var s=document.createElement('script');s.async="async";s.type="application/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
 	}
 	</script>
- 
+
 <script>
 var $ = jQuery.noConflict();
 var selector = '.footer dt';
@@ -261,28 +280,29 @@ $(document).ready(function(){
 		});
 });
 </script>
- 
+
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-K89ZQ3C');</script>
- 
+
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
- 
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K89ZQ3C" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
- 
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K89ZQ3C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
 <div class="cookiepopup"><div class="Comman">We use cookies to provide you with a better service. By using our website you consent to all cookies in accordance with our <a href="/us/privacy-cookies-policy">Cookie Policy</a>. <a href="javascript:void(0)" class="cookieclose"><i class="icon-close"></i></a></div></div>
 <header class="abd "><div class="Comman Navfixed">
-<a href="https://www.healthtrader.com/us/"><img width="225" height="47" src="//cdn.healthtrader.com/website/images/logo-white-us.png" alt="Health Trader" class="Logo WLogo"><img width="225" height="47" class="Logo BLogo" alt="Health Trader" src="//cdn.healthtrader.com/website/images/logo-us.png"></a>
+<a href="https://www.healthtrader.com/us/"><img width="225" height="47" src="//cdn.healthtrader.com/website/images/logo-white-us@2x.png" alt="Health Trader" class="Logo WLogo"><img width="225" height="47" class="Logo BLogo" alt="Health Trader" src="//cdn.healthtrader.com/website/images/logo-us@2x.png"></a>
 <i class="icon-reorder"></i>
 <nav><a href="/us/">Home</a><a href="/us/offers/">Offers</a><a href="/us/tour">Tour</a><a href="/us/about">About</a><a href="/us/contact-us">Contact</a> <a href="/affiliates/login.php"><i class="icon-user"></i> Login</a><a href="#myModal" data-toggle="modal" class="btn Green">Sign Up</a></nav></div></header>
 <section class="Ofhding"><div class="Comman">
 <span class="Bcrumb"><a href="https://www.healthtrader.com/us/"><i class="icon-home"></i><b></b></a><span>Privacy and Cookie Policy<b></b></span></span><h1>Privacy and Cookie Policy</h1></div></section>
 <section><div class="Comman">
-<p>This Policy applies as between you, the User of this Web Site and HealthTrader Ltd t/a www.healthtrader.com the owner and provider of this Web Site. This Policy applies to our use of any and all Data collected by us in relation to your use of the Web Site and any Services or Systems therein.</p>
-<h2>1. Definitions and Interpretation </h2>
+<p>This Policy applies as between you, the User of this Web Site, and HealthTrader Ltd t/a www.healthtrader.com, the owner and provider of this Web Site. This Policy applies to our use of any and all Data collected by us in relation to your use of the Web Site and any Services or Systems therein.</p>
+<h2>1.	Definitions and Interpretation </h2>
 <p>In this Policy the following terms shall have the following meanings:</p>
 <table class="ComTbl">
 <tbody><tr>
@@ -318,7 +338,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <td>means the website that you are currently using (www.healthtrader.com) and any sub-domains unless expressly excluded by their own terms and conditions.</td>
 </tr>
 </tbody></table>
-<h2>2. Data Collected</h2>
+<h2>2.	Data Collected</h2>
 <p>Without limitation, any of the following Data may be collected:</p>
 <table class="ComTbl">
 <tbody><tr>
@@ -354,7 +374,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <td>Cookie information (see Clause 10 below).</td>
 </tr>
 </tbody></table>
-<h2>3. Our Use of Data</h2>
+<h2>3.	Our Use of Data</h2>
 <table class="ComTbl">
 <tbody><tr>
 <th>3.1</th>
@@ -392,6 +412,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <th>3.4.5</th>
 <td>HealthTrader operate an affiliate marketing network, which allows website publishers to display advertisements for online retailers. The advertisements that are displayed contain a link to the retailers' websites. This enables visitors to click on the advertisement and be directed to the website of the online retailer via one of our web servers. Publishers earn commission on the basis of the sales generated by the advertisements they display. HealthTrader then calculates the commission that is earned by recording which website publishers have generated sales for which online retailers. To achieve this we make use of cookies to record when a visitor to a publisher website clicks on a link to an online retailer.</td>
 </tr>
+<tr>
+<th>3.4.6</th>
+<td>We will only keep your data for as long as it remains necessary in line with the reason that we collected it from you and to meet any legal requirements. You may request to have data removed or updated by using the contact details provided in clause 12.</td>
+</tr>
 </tbody></table>
 </td>
 </tr>
@@ -399,7 +423,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h2>4. Third Party Web Sites and Services</h2>
 <p>HealthTrader may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services do not have access to certain personal Data provided by Users of this Web Site. Any Data used by such parties is used only to the extent required by them to perform the services that HealthTrader requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998. </p>
 <p>HealthTrader's website may contain links to and from the websites of our (without limitation) partner networks, advertisers, affiliates etc. If you click on a link to the websites of any of these parties you are advised that these websites have their own privacy policies and terms of use. HealthTrader do not accept liability for these policies or for any personal information that they may collect upon your visit. You are advised to satisfy yourself with their policies before submitting any personal information. </p>
-<h2>5. Changes of Business Ownership and Control</h2>
+<h2>5.	Changes of Business Ownership and Control</h2>
 <table class="ComTbl">
 <tbody><tr>
 <th>5.1</th>
@@ -409,7 +433,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <th>5.2</th>
 <td>In the event that any Data submitted by Users will be transferred in such a manner, you will be contacted in advance and informed of the changes. When contacted you will be given the choice to have your Data deleted or withheld from the new owner or controller.</td>
 </tr></tbody></table>
-<h2>6. Controlling Access to your Data</h2>
+<h2>6.	Controlling Access to your Data</h2>
 <table class="ComTbl">
 <tbody><tr>
 <th>6.1</th>
@@ -426,7 +450,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </tbody></table>
 </td>
 </tr></tbody></table>
-<h2>7. Your Right to Withhold Information</h2>
+<h2>7.	Your Right to Withhold Information</h2>
 <table class="ComTbl">
 <tbody><tr>
 <th>7.1</th>
@@ -440,7 +464,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <th>7.3</th>
 <td>You have the right to request for us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking boxes on the forms we use to collect your data. You can also contact us directly by using the details provided in clause 12 below. </td>
 </tr></tbody></table>
-<h2>8. Accessing your own Data</h2>
+<h2>8.	Accessing your own Data</h2>
 <table class="ComTbl">
 <tbody><tr>
 <th>8.1</th>
@@ -450,9 +474,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <th>8.2</th>
 <td>You have the right to ask for a copy of your personal Data on payment of a small fee.</td>
 </tr></tbody></table>
-<h2>9. Security</h2>
+<h2>9.	Security</h2>
 <p>Data security is of great importance to HealthTrader and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected online.</p>
-<h2>10. Cookies</h2>
+<h2>10.	Cookies</h2>
 <table class="ComTbl">
 <tbody><tr>
 <th>10.1</th>
@@ -483,9 +507,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <td>It is recommended that you ensure that your internet browser is up-to-date and that you consult the help and guidance provided by the developer of your browser if you are unsure as to how to adjust your privacy settings.</td>
 </tr>
 </tbody></table>
-<h2>11. Changes to this Policy</h2>
+<h2>11.	Changes to this Policy</h2>
 <p>HealthTrader reserves the right to change this Privacy Policy as we may deem necessary from time to time, or as may be required by law. Any changes will be immediately posted on the Web Site and you are deemed to have accepted the terms of the Policy on your first use of the Web Site following the alterations.</p>
-<h2>12. Contact</h2>
+<h2>12.	Contact</h2>
 <p>If you require further information on this policy or have any questions please direct them to info@healthtrader.com and we will aim to respond within 2 – 5 business days. </p>
 <br>
 <h2><strong>Schedule 1:</strong> First-Party Cookies</h2>
@@ -545,7 +569,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <td>AdRoll retargeting cookie. For more information visit the <a href="https://www.adroll.com/about/privacy" target="_blank">Adroll Privacy page</a>.</td>
 </tr>
 <tr>
-<td>__lc.visitor_id</td>
+ <td>__lc.visitor_id</td>
 <td>Live Chat </td>
 <td>Tracks users on the website allowing for better support. For more information visit the <a href="https://www.livechatinc.com/privacy-policy/" target="_blank">Live Chat Privacy page.</a></td>
 </tr>
@@ -591,7 +615,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 </div>
 </footer>
- 
+
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 <div class="modal-dialog">
 <div class="modal-content">
@@ -601,17 +625,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h2 class="modal-title" id="myModalLabel">Sign Up</h2>
 </div>
 <div class="modal-body">
-<h4>Join HealthTrader, it's free and takes less then 30 seconds.</h4>
+<div class="form-group"><label for="nrlfnsfn" class="col-4 control-label">First Name</label>
+<div class="col-8"><input type="text" class="form-control required" id="nrlfnsfn" name="first_name"></div></div>
+<div class="form-group"><label for="nrlfnsln" class="col-4 control-label">Last Name</label>
+<div class="col-8"><input type="text" class="form-control required" id="nrlfnsln" name="last_name"></div></div>
 <div class="form-group"><label for="txteml" class="col-4 control-label">Email</label>
 <div class="col-8"><input type="email" class="form-control required" id="txteml" name="email"></div></div>
 <div class="form-group"><label for="txtpass" class="col-4 control-label">Password</label>
 <div class="col-8"><input type="password" class="form-control required" id="txtpass" name="password"></div></div>
 <div class="form-group"><label for="txtrepas" class="col-4 control-label">Confirm Password</label>
 <div class="col-8"><input type="password" class="form-control required" id="txtrepas" equalto="#txtpass" name="repeatpassword"></div></div>
-<div class="form-group" style="margin-bottom:0;"><label class="col-4 control-label">&nbsp;</label>
-<div class="col-8"><p class="help-block">By signing up you accept the <a href="/us/affiliate-terms-conditions" target="_blank">Terms of Service</a> and the <a href="/us/privacy-cookies-policy" target="_blank">Privacy Policy</a></p></div></div></div>
+
+</div>
 <div class="modal-footer"><label class="col-4 control-label">&nbsp;</label>
-<div class="col-8"><input type="hidden" name="signup_first_step" value="1"><input type="hidden" name="timezone_offset" value=""><input type="hidden" name="timezone_dst" value=""><button type="submit" class="btn btn-primary" id="btn-load" onclick="" data-loading-text="Sign Up...">Sign Up</button></div></div>
+<div class="col-8"><input type="hidden" name="signup_first_step" value="1"><input type="hidden" name="timezone_offset" value=""><input type="hidden" name="timezone_dst" value=""><button type="submit" class="btn btn-primary" id="btn-load" onclick="" data-loading-text="Sign Up...">Continue</button></div></div>
 </form></div></div></div>
 <script type="text/javascript">
 	adroll_adv_id = "CU6ZD5BSGJBL7I7IJ3KCP3";
@@ -630,7 +657,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	   if(oldonload){oldonload()}};
 	}());
 	</script>
- 
+
 <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
@@ -652,6 +679,6 @@ var frameInterval = setInterval(function(){
  }
 },3000);
 </script>
- 
+
 
 </body></html>
