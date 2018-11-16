@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the massivelyop.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626215448id_/http%3A//massivelyop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massivelyop.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116070016id_/https%3A//massivelyop.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Massively Overpowered
+# Privacy Policy | Massively Overpowered
 
 Use of the Massively Overpowered website and its affiliated social media services implies understanding acceptance of the terms of the following privacy policy.
 
