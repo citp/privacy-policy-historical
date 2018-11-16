@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the algonquincollege.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626091728id_/http%3A//www.algonquincollege.com/directives/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the algonquincollege.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116032154id_/http%3A//www.algonquincollege.com/policies/privacy) for the most accurate reproduction.*
 
-# Algonquin College Privacy Statement - Corporate Policies
+# Algonquin College Privacy Statement | Corporate Policies
 
 Algonquin College (the “College”) is committed to protecting the privacy of your personal information. The College at all times collects, uses and discloses personal information in accordance with the _Freedom of Information and Personal Privacy Act_ , R.S.O. 1990, c. F.31 (“ _FIPPA”_ ), and under authority of the _Ontario Colleges of Applied Arts and Technology Act, 2002_ , S.O. 2002, c. 8, Sched. F, and other relevant legislation. The College’s personal information handling practices are set out in more detail in its Policy AD02: Freedom of Information and Protection of Privacy.
 
