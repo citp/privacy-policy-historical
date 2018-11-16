@@ -1,167 +1,278 @@
-> *The following text is extracted and transformed from the hired.com privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327175514id_/https%3A//hired.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hired.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116070654id_/https%3A//hired.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hired
 
-Version 2.2
+Version 3.1
 
-Last Revised: July 29, 2016
+Last Revised: July 6, 2018
 
 Hired, Inc. (“Hired”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at hired.com (the “Site”) and online service (“Service”).
 
 * * *
 
-## 1\. Questions; Contacting Hired; Reporting Violations
+## Privacy Statement Overview
 
-If you have any questions or concerns or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at the following address or phone number:
+Your privacy is important to us and Hired is committed to protecting the privacy of its users and the information that You share in connection with Our Service. Our Privacy Notice describes how We share and transfer Personal Data (defined in the Privacy Policy below) that You voluntarily provide Us and Our Privacy Policy provides a more detailed description of how We collect, process and manage Your Personal Data and informs You of Your rights with respect the privacy practices associated with the, use, and disclosure of Personal Data through the Site and Service. Hired may provide additional notices through the Site or Service in addition to these practices or provide You additional choices about how Hired may process Your Personal Data. If You have any questions about this Privacy Notice or Privacy Policy (“Privacy Statement”), please contact us at support@Hired.com.
 
-Hired, Inc. 1455 Market St, Floor 19 San Francisco, CA 94103 help@hired.com
+## Privacy Notice
 
-## 2\. User Consent
+This Privacy Notice describes Hired’s collection, use, and disclosure of the information You provide to Us through Your use of the Site or Service, as well as the rights You have with respect to Your Personal Data. For any questions regarding this Privacy Notice please contact Us at support@hired.com.
 
-By submitting Personal Data through our Site or Service, you agree to the terms of this Privacy Policy and you expressly consent to the collection, use and disclosure of your Personal Data in accordance with this Privacy Policy.
+## I. What Information Do We Collect And How Do We Use It?
 
-## 3\. A Note About Children
+This Privacy Notice describes Hired’s collection, use, and disclosure of the information You provide to Us through Your use of the Site or Service, as well as the rights You have with respect to Your Personal Data. For any questions regarding this Privacy Notice please contact Us at support@hired.com.
 
-We do not intentionally gather Personal Data from visitors who are under the age of 13. If a child under 13 submits Personal Data to Hired and we learn that the Personal Data is the information of a child under 13, we will attempt to delete the information as soon as possible. If you believe that we might have any Personal Data from a child under 13, please contact us at help@hired.com.
+### Information We collect from You.
 
-## 4\. A Note To Users Outside Of The United States
+  * We will collect Personal Data that You voluntarily provide us, for example, when You register for, or interact with other users through the Site or Service. We may also collect Personal Data when You sign up for marketing emails, events, or other opportunities through Hired. Personal Data may contain Your name, email, contact information, as well as job titles, or other information You provide to Hired.
+  * Billing and transactional information pursuant to Your use of the Site and Service.
+  * Information regarding Your use of the Site or Service, such as the hardware model, operating system version, web-browser software and Your Internet Protocol (IP) address/device identifier.
+  * Statistics and information on Your use of the Site and Service, including Your IP address; device type and unique device identification numbers, device event information, broad geographic location and other technical data collected through cookies, pixel tags or other similar technologies.
+  * Information disclosed through the Site or Service will be made available to other users of the Site or Service, who may send You unsolicited messages. Please do not post any information that You do not want to reveal to the public.
 
-If you are a non-U.S. user of the Site, by visiting the Site and providing us with data, you acknowledge and agree that your Personal Data may be processed for the purposes identified in the Privacy Policy. In addition, your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country. By providing your data, you consent to such transfer.
 
-## 5\. Types Of Data We Collect
 
-“Personal Data” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. “Anonymous Data” means data that is not associated with or linked to your Personal Data; Anonymous Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
+### Examples of how We use Your Personal Data.
 
-### A. Information You Provide To Us
+  * To provide You with Site and Service
+  * To enhance the Site and Service
+  * To respond to Your requests or to manage user accounts
+  * To provide feedback and understand Our users
+  * To monitor the security of the Site or Service
+  * To provide You with promotional communications and materials
 
-  * We may collect Personal Data from you, such as your first and last name, location, phone number, gender, e-mail and mailing addresses, professional title, company name, employment history, education history, personal summary, and password when you create an account to log in to our network (“Account”).
-  * We retain information on your behalf, such as files and messages that you store using your Account.
-  * If you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply.
-  * When you post content (text, images, photographs, messages, comments or any other kind of content that is not your e-mail address) on our Site, the information contained in your posting will be stored in our servers and other users will be able to see it, along with your profile photo and any other information that you choose to make public on your public profile page (“Profile”). The information that you provide in your Profile will be visible to others, including anonymous visitors to the Site.
-  * When you post messages on the message boards of our Site, the information contained in your posting will be stored on our servers and other users will be able to see it.
-  * When you participate in one of our surveys, we may collect additional profile information.
-  * We also collect other types of Personal Data that you provide to us voluntarily, such as your operating system and version, product registration number, and other requested information if you contact us via e-mail regarding support for the Service.
-  * We may also collect Personal Data at other points in our Site that state that Personal Data is being collected.
 
 
+### Information from third party sources and affiliated companies.
 
-### B. Information You Provide From Facebook And Other Social Networking Sites
+We may also obtain information about You through third party sources as permitted by applicable law, such as public databases, social media platforms, and reseller, channel, and joint marketing partners.
 
-If you are not currently registered as a user of the Service, and you click on “Sign In” using Facebook, Google, LinkedIn, GitHub, Angellist, or another SNS that we support, you will first be asked to enter your SNS credentials and then be given the option to register for the Service. In this case, we may receive information from that SNS to make it easier for you to create an Account on the Site. Any information that we collect from your SNS account may depend on the privacy settings you have with that SNS, so please consult the SNS’s privacy and data practices.
+## II. Sharing Your Information
 
-### C. Information Collected Via Technology
+We may share Your Personal Data with third parties as follows:
 
-  * _Information Collected by Our Servers._ To make our Site and Service more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including your browser type, operating system, Internet Protocol (“IP”) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit.
-  * _Log Files._ As is true of most websites, we gather certain information automatically and store it in log files. This information includes IP addresses, browser type, Internet service provider (“ISP”), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the Site, track users’ movements around the Site, gather demographic information about our user base as a whole, and better tailor our Service to our users’ needs. For example, some of the information may be collected so that when you visit the Site or the Service again, it will recognize you and the information could then be used to serve advertisements and other information appropriate to your interests. Except as noted in this Privacy Policy, we do not link this automatically-collected data to Personal Data.
-  * _Cookies._ Like many online services, we use cookies to collect information. “Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing the website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. This type of information is collected to make the Site more useful to you and to tailor the experience with us to meet your special interests and needs.
-  * _Pixel Tags._ In addition, we use “Pixel Tags” (also referred to as clear Gifs, Web beacons, or Web bugs). Pixel Tags are tiny graphic images with a unique identifier, similar in function to cookies, that are used to track online movements of Web users. In contrast to Cookies, which are stored on a user’s computer hard drive, Pixel Tags are embedded invisibly in Web pages. Pixel Tags also allow us to send e-mail messages in a format users can read, and they tell us whether e-mails have been opened to ensure that we are sending only messages that are of interest to our users. We may use this information to reduce or eliminate messages sent to a user. We do not tie the information gathered by Pixel Tags to our users’ Personal Data.
-  * _Flash LSOs._ When we post videos, third parties may use local shared objects, known as “Flash Cookies,” to store your preferences for volume control or to personalize certain video features. Flash Cookies are different from browser Cookies because of the amount and type of data and how the data is stored. Cookie management tools provided by your browser will not remove Flash Cookies. To learn how to manage privacy and storage settings for Flash Cookies, click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html.
-  * _Google Analytics._ We use Google Analytics to help analyze how users use the Site. Google Analytics uses Cookies to collect information such as how often users visit the Site, what pages they visit, and what other sites they used prior to coming to the Site. We use the information we get from Google Analytics only to improve our Site and Service. Google Analytics collects only the IP address assigned to you on the date you visit the Site, rather than your name or other personally identifying information. We do not combine the information generated through the use of Google Analytics with your Personal Data. Although Google Analytics plants a persistent Cookie on your web browser to identify you as a unique user the next time you visit the Site, the Cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to the Site is restricted by the Google Analytics Terms of Use and the Google Privacy Policy.
+### Service Providers.
 
+We may share Your Personal Information with third parties, such as vendors and service providers who provide assistance with billing, payment processing, marketing, data analytics support and service associated with the Site or Service.
 
+### Business Partners.
 
-### D. Information Collected From You About Others
+We may share Your Personal Data with Our channel partners to fulfill obligations and requests, to deliver support, and to provide users and Our customer’s users with information about Hired. Hired does not control how a business partner may use Your Personal Data. Our business partners are responsible for managing the use of Personal Data collected in these circumstances.
 
-If you decide to invite a third party to create an Account, we will collect your and the third party’s names and e-mail addresses in order to send an e-mail and follow up with the third party. We may maintain this information indefinitely in our database and may also use this information to help us establish networks of contacts, document relationships, facilitate referrals, and improve our services. We may also use this information to show you and other users that you may know each other or have shared contacts. We rely upon you to obtain whatever consents from the third party that may be required by law to allow us to access and upload the third party’s names and e-mail addresses as required above. You or the third party may contact us at help@hired.com to request the removal of this information from our database. The e-mail that is sent to your friends will come from your e-mail address so that your friends know that you want to invite them to visit the Site.
+### Compliance with laws and for other legitimate business purposes.
 
-### E. Information Collected From Address Book and Contact Importing
+We may share Your Personal Data when We believe disclosure is necessary or required by law, regulation, to protect users, the integrity of the Site or Service and to defend or exercise Our legal rights. We may also disclose Your Personal Data when it may be necessary for other legitimate purposes as reasonably determined by Hired.
 
-You may use our address book and contacts importer to upload your contacts from other services into Hired. When you import your contacts, we may indefinitely store the contact information in our database, including your contacts' names, e-mails, phone numbers, locations, and relationships to you. We do not store any passwords you provide as part of the contact import process.
+## III. International Transfers of Information
 
-After we import your contacts, we will use this information to help us establish networks of contacts, document relationships, facilitate referrals, and improve our services. We may also use this information to show you and other users that you may know each other or have shared contacts. We rely upon you to obtain whatever consents from the relevant third parties that may be required by law to allow us to access and upload the third parties’ names, e-mail addresses, and other contact information. You or such a third party may contact us at help@hired.com to request the removal of this information from our database.
+Information, including information collected in the European Economic Area ("EEA") may be transferred, stored and processed by Us and Our services providers in the United States and other countries whose data protection laws may be different than the laws of Your country. We will protect Your Personal Data in accordance with this Privacy Notice wherever it is processed and take appropriate steps to protect the information in accordance with applicable laws. These steps include obligations to both Hired and You, which are set forth in our [Data Processing Agreement](https://web.archive.org/data-processing-agreement), which your use of the Service is subject to, and can be reviewed here: [https://hired.com/Hired-Data-Processing-Agreement.pdf](https://web.archive.org/data-processing-agreement). You may also request an executable version of Hired’s Data Processing Agreement by contacting [support@hired.com](mailto:support@hired.com).
 
-### F. Information Collected From Third Party Companies
+## IV. Information Security and Confidentiality
 
-We may receive Personal and/or Anonymous Data about you from companies that provide our Service by way of a co-branded or private-labeled website, companies that offer their products and/or services on our Site, and/or companies that otherwise collect such information. These third party companies may supply us with Personal Data. We may add this information to the information we have already collected from you via our Site in order to improve the Service we provide.
+Hired maintains (and requires its subcontractors and service providers to maintain) appropriate organizational and technical measures designed to protect the security and confidentiality of any information We process. However, no organizational or technical measures are 100% secure so You should take care when disclosing information online and act reasonably to protect Yourself online.
 
-## 6\. Use Of Your Personal Data
+## V. Privacy Rights
 
-### A. General Use
+You may modify the information You have provided to Hired at any time through Your Hired profile. You can also opt-out of receiving marketing communications, deactivate, or delete Your account at any time.
 
-In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We use your Personal Data in the following ways:
+## VI. Additional Rights for EEA users or similar international areas
 
-  * facilitate the creation of and completion of your profile on our Site;
-  * identify you as a user in our system;
-  * provide improved administration of our Site and Service;
-  * provide the Service;
-  * improve the quality of experience when you interact with our Site and Service;
-  * send you a welcome e-mail to verify ownership of the e-mail address provided when your Account was created;
-  * send you administrative e-mail notifications, such as information about pending job offers, security or support and maintenance advisories;
-  * respond to your inquiries related to employment opportunities or other requests;
-  * make telephone calls to you, from time to time, as a part of secondary fraud protection or to solicit your feedback;
-  * send you calendar invitations; and
-  * send newsletters, surveys, offers, and other promotional materials related to our Service and for other marketing purposes of Hired.
+If You live in the European Economic Area, or a similar international area, You may have additional privacy rights available to You under applicable laws. We will process Your requests in accordance with applicable data protection laws. If You would like to exercise any of the below rights, please contact support@hired.com so that We may consider Your request in accordance with applicable law:
 
+  * **Right not to provide or withdraw consent:** You have the right not to provide or withdraw Your consent at any time.
+  * **Right of access:** You may have the right to access the Personal Data that You provided Us.
+  * **Right of erasure:** You may have the right to the erasure of Personal Data that We hold about You.
+  * **Right to object to processing:** You may have the right to request that Hired stop processing Your Personal Data and/or to stop sending You marketing communications.
+  * **Right to rectification:** You may have the right to require Us to correct any of Your Personal Data.
 
 
-### B. User Testimonials And Feedback
 
-We often receive testimonials and comments from users who have had positive experiences with our Service. We occasionally publish such content. When we publish this content, we may identify our users by their first and last name and may also indicate their home city. We obtain the user’s consent prior to posting his or her name along with the testimonial. We may post user feedback on the Site from time to time. We will share your feedback with your first name and last initial only. If we choose to post your first and last name along with your feedback, we will obtain your consent prior to posting you name with your feedback. If you make any comments on a blog or forum associated with your Site, you should be aware that any Personal Data you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these blogs and forums.
+## VII. Additional Information
 
-### C. Creation Of Anonymous Data
+### How long We retain Your information
 
-We may create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you. We use this Anonymous Data to analyze request and usage patterns so that we may enhance the content of our Service and improve Site navigation. We reserve the right to use Anonymous Data for any purpose and disclose Anonymous Data to third parties in our sole discretion.
+We will retain personal information We collect from You for the period allowable by law and where We have a justifiable business need to do so, unless a longer period is required or permitted by law. You can request deletion of Your Personal Data at any time and We will consider Your request in accordance with applicable law.
 
-## 7\. Disclosure Of Your Personal Data
+### External Links
 
-We disclose your Personal Data as described below and as described elsewhere in this Privacy Policy.
+The Hired Site and Service may link to other websites or services. Other websites may also contain links to the Hired Site or Service. Hired does not control those websites or their privacy practices. The personal information You choose to give to such parties is not covered by this Privacy Notice or the Hired Privacy Policy.
 
-### A. Third Parties Designated By You
+### Changes to this Privacy Notice
 
-When you use the Service, the Personal Data you provide will be shared with the third parties that you designate to receive such information, including other websites, your friends, relatives and business associates. Depending on the type of access you grant to such third parties, they may also be permitted to edit the information you have provided to us and to designate others to access and edit such information. You may change your settings at any time as to who has access to your information by going to your account settings and changing your publishing options.
+Hired will review and update this Privacy Notice in response to changing legal, technical and business developments. Please review this Privacy Notice frequently to understand how Hired is protecting Your Personal Data.
 
-### B. Third Party Service Providers
+### Data Protection Officer
 
-We may share your Personal Data with third party service providers to: provide you with the Service that we offer you through our Site; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and/or to provide other services to Hired. These third party service providers are required not to use your Personal Data other than to provide the services requested by Hired.
+Hired has appointed a Data Protection Officer to ensure continued commitment to privacy and security practices. For further information please contact Us at: support@hired.com
 
-### C. Affiliates
+## Privacy Policy
 
-We may share some or all of your Personal Data with our parent company, subsidiaries, joint ventures, or other companies under a common control (“Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy.
+This Privacy Policy describes in further detail Hired’s collection, processing, and treatment of Your information, as well as the rights You have with respect to such information. This Privacy Policy will provide You with further technical information regarding the processing of Your Personal Data described in the Privacy Notice.
 
-### D. Corporate Restructuring
+If You have any questions or concerns or complaints about this Privacy Policy or Our data collection or processing practices, or if You want to report any security violations to us, please contact Us at: support@hired.com.
 
-We may share some or all of your Personal Data in connection with or during negotiation of any merger, financing, acquisition or dissolution transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, Personal Data may also be transferred as a business asset. If another company acquires our company, business, or assets, that company will possess the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy.
+## I. User Consent
 
-### E. Social Networking Sites
+By submitting Personal Data through Our Site or Service, You agree to the terms of this Privacy Policy, as well as Our Privacy Notice and the Terms of Service, and You expressly consent to the collection, use and disclosure of Your Personal Data in accordance with the Privacy Policy, Privacy Notice, and Terms of Service. If You do not agree, You should discontinue use of the Site and Service immediately.
 
-Our Service may enable you to post content to SNSs. If you choose to do this, we will provide information to such SNSs in accordance with your elections. You acknowledge and agree that you are solely responsible for your use of those websites and that it is your responsibility to review the terms of use and privacy policy of the third party provider of such SNSs. We will not be responsible or liable for: (i) the availability or accuracy of such SNSs; (ii) the content, products or services on or availability of such SNSs; or (iii) your use of any such SNSs.
+## II. A Note About Children
 
-### F. Public Profile
+We do not intentionally gather Personal Data from visitors who are under the age of 13. If a child under 13 submits Personal Data to Hired and We learn that the Personal Data is the information of a child under 13, We will attempt to delete the information as soon as possible. If You believe that We might have any Personal Data from a child under 13, please contact Us at support@hired.com.
 
-Certain portions of the information you provide to us may also be displayed in your Profile. As an essential element of the Service, most of the Personal Data you explicitly provide to us when you register or update your Profile is displayed on your Profile. In order for your Profile to be made public, you must go to your profile settings and then to profile visibility. By default, your Profile is not for public viewing. Your photos, posts, friends, and other content you post to the Site are also meant for public consumption. We may display this content on the Site and further distribute it to a wider audience through third party sites and services. Once displayed on publicly viewable web pages, that information can be collected and used by others. We cannot control who reads your postings or what other users may do with the information that you voluntarily post, so it is very important that you do not put Personal Data in your posts. Once you have posted information publicly, while you will still be able to edit and delete it on the Site, you will not be able to edit or delete such information cached, collected, and stored elsewhere by others (e.g., search engines).
+## III. A Note To Users Outside Of the United States
 
-### G. Other Disclosures
+If You are a non-U.S. user of the Site, by accessing the Site and providing us with Personal Data, You acknowledge and agree that Your Personal Data may be processed for the purposes identified in the Privacy Policy. In addition, Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in Your country. By providing your data, You consent to such transfer. For further information please consult Our Privacy Notice.
 
-Regardless of any choices you make regarding your Personal Data (as described below), Hired may disclose Personal Data if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on Hired; (c) to protect or defend the rights or property of Hired or users of the Site or Service; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or our Terms of Use.
+## IV. Types Of Data We Collect
 
-## 8\. Third Party Websites
+“Personal Data” means data that allows someone to identify or contact You, including, for example, Your name, address, telephone number, e-mail address, as well as any other non-public information about You that is associated with or linked to any of the foregoing data. “Anonymous Data” means data that is not associated with or linked to Your Personal Data; Anonymous Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
 
-Our Site may contain links to third party websites. When you click on a link to any other website or location, you will leave our Site and go to another site, and another entity may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of your Personal Data after you click on links to such outside websites. We encourage you to read the privacy policies of every website you visit. The links to third party websites or locations are for your convenience and do not signify our recommendation of such third parties or their products, content or websites.
+## V. Information You Provide To Us
 
-## 9\. Your Choices Regarding Information
+We may collect Personal Data from You, such as Your first and last name, location, phone number, gender, e-mail and mailing addresses, professional title, company name, employment history, education history, personal summary, and password when You create an account to log in to Our network (“Account”).
 
-You have several choices regarding the use of information on our Service:
+We retain information on Your behalf, such as files and messages that You store using Your Account.
 
-### A. Email Communications
+If You provide Us feedback or contact us via e-mail, We will collect Your name and e-mail address, as well as any other content included in the e-mail, in order to send You a reply.
 
-We will periodically send you free newsletters and e-mails that directly promote the use of our Site or Service. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below). Despite your indicated e-mail preferences, we may send you service related communications, including notices of any updates to our Terms of Use or Privacy Policy.
+When You post content (text, images, photographs, messages, comments or any other kind of content that is not Your e-mail address) on Our Site, the information contained in Your posting will be stored on Our servers and other users will be able to see it, along with Your profile photo and any other information that You choose to make public on Your public profile page (“Profile”). The information that You provide in Your Profile will be visible to others, including anonymous visitors who are not users of Our Service.
 
-### B. Cookies
+When You post messages on the message boards of Our Site, the information contained in Your posting will be stored on Our servers and other users will be able to see it.
 
-If you decide at any time that you no longer wish to accept Cookies from our Service for any of the purposes described above, then you can instruct your browser, by changing its settings, to stop accepting Cookies or to prompt you before accepting a Cookie from the websites you visit. Consult your browser’s technical information. If you do not accept Cookies, however, you may not be able to use all portions of the Service or all functionality of the Service. If you have any questions about how to disable or modify Cookies, please let us know at the contact information provided below.
+When You participate in one of Our surveys, We may collect additional profile information.
 
-### C. De-linking Sns
+We also collect other types of Personal Data that You provide to Us voluntarily, such as Your operating system and version, product registration number, and other requested information if You contact Us via e-mail regarding support for the Site or Service.
 
-If you decide at any time that you no longer wish to have your SNS account (e.g., Facebook) linked to your Account, then you may de-link the SNS account in the “preferences” section in your account settings. You may also manage the sharing of certain Personal Data with us when you connect with us through an SNS, such as through Facebook Connect. Please refer to the privacy settings of the SNS to determine how you may adjust our permissions and manage the interactivity between the Service and your social media account or mobile device.
+We may also collect Personal Data at other points on Our Site and Service that state that Personal Data is being collected.
 
-### D. Changing Or Deleting Your Personal Data
+## VI. Information You Provide From Facebook And Other Social Networking Sites
 
-You may change any of your Personal Data in your Account by editing your profile within your Account or by sending an e-mail to us at help@hired.com. You may request deletion of your Personal Data by us, and we will use commercially reasonable efforts to honor your request, but please note that we may be required to keep such information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may also retain your information for fraud or similar purposes.
+If You are not currently registered as a user the Service, and You click on “Sign In” using Facebook, Google, LinkedIn, GitHub, Angellist, or another SNS that We support, You will first be asked to enter Your SNS credentials and then be given the option to register for the Service. In this case, We may receive information from that SNS to make it easier for You to create an Account on the Site. Any information that We collect from Your SNS account may depend on the privacy settings You have with that SNS, so please consult the SNS privacy and data practices.
 
-## 10\. Security Of Your Personal Data
+### (a) Information Collected Via Technology
 
-Hired is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. We also require you to enter a password to access your Account information. Please do not disclose your Account password to unauthorized people. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Hired uses reasonable efforts to protect your Personal Data, Hired cannot guarantee its absolute security.
+**Information Collected by Our Servers.** To make Our Site and Service more useful to You, Our servers (which may be hosted by a third party service provider) collect information from You, including Your browser type, operating system, Internet Protocol (“IP”) address (a number that is automatically assigned to Your computer when You use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for Your visit.
 
-## 11\. Changes To This Privacy Policy
+**Log Files.** As is true of most websites, We gather certain information automatically and store it in log files. This information includes IP addresses, browser type, Internet service provider (“ISP”), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the Site, track users’ movements around the Site, gather demographic information about Our user base as a whole, and better tailor Our Site and Service to Our users’ needs. For example, some of the information may be collected so that when You visit the Site or use Our Service again, it will recognize You and the information could then be used to serve advertisements and other information appropriate to Your interests. Except as noted in this Privacy Policy, We do not link this automatically-collected data to Personal Data.
 
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here: https://hired.com/privacy and we will change the “Last Updated” date above. You should consult this Privacy Policy regularly for any changes. Continued use of our Site or Service, following posting of such changes, shall indicate your acknowledgement of such changes and agreement to be bound by the terms of such changes.
+**Cookies.** Like many online services, We use cookies to collect information. “Cookies” are small pieces of information that a website sends to Your computer’s hard drive while You are viewing the website. We may use both session Cookies (which expire once You close Your web browser) and persistent Cookies (which stay on Your computer until You delete them) to provide You with a more personal and interactive user experience. This type of information is collected to make Our Site and Service more useful to You and to tailor the experience with Us to meet Your special interests and needs.
+
+**Pixel Tags.** In addition, We use “Pixel Tags” (also referred to as clear Gifs, Web beacons, or Web bugs). Pixel Tags are tiny graphic images with a unique identifier, similar in function to cookies, that are used to track online movements of Web users. In contrast to Cookies, which are stored on a user’s computer hard drive, Pixel Tags are embedded invisibly in Web pages. Pixel Tags also allow Us to send e-mail messages in a format users can read, and they tell us whether e-mails have been opened to ensure that We are sending only messages that are of interest to Our users. We may use this information to reduce or eliminate messages sent to a User. We do not tie the information gathered by Pixel Tags to Our users’ Personal Data.
+
+**Flash LSOs.** When We post videos, third parties may use local shared objects, known as “Flash Cookies,” to store Your preferences for volume control or to personalize certain video features. Flash Cookies are different from browser Cookies because of the amount and type of data and how the data is stored. Cookie management tools provided by Your browser will not remove Flash Cookies. To learn how to manage privacy and storage settings for Flash Cookies, click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html.
+
+**Google Analytics.** We use Google Analytics to help analyze how users use the Site. Google Analytics uses Cookies to collect information such as how often users visit the Site and use Services, what pages they visit, and what other sites they used prior to coming to Our Site. We use the information We get from Google Analytics only to improve Our Site and Service. Google Analytics collects only the IP address assigned to You on the date You visit the Site, rather than Your name or other personally identifying information. We do not combine the information generated through the use of Google Analytics with Your Personal Data. Although Google Analytics plants a persistent Cookie on Your web browser to identify You as a unique user the next time You visit the Site and use Services, the Cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about Your visits to the Site and use of Services is restricted by the Google Analytics Terms of Use and the Google Privacy Policy.
+
+### (b) Information Collected From You About Others
+
+If You decide to invite a third party to create an Account, We will collect Your and the third party’s names and e-mail addresses in order to send an e-mail and follow up with the third party. We may maintain this information indefinitely in Our database and may also use this information to help us establish networks of contacts, document relationships, facilitate referrals, and improve Our Services. We may also use this information to show You and other users that You may know each other or have shared contacts. We rely upon You to obtain whatever consents from the third party that may be required by law to allow us to access and upload the third party’s names and e-mail addresses as required above. You or the third party may contact Us at support@hired.com to request the removal of this information from Our database. The e-mail that is sent to Your friends will come from Your e-mail address so that Your friends know that You want to invite to Our Site and Service.
+
+### (c) Information Collected From Address Book and Contact Importing
+
+You may use Our address book and contacts importer to upload Your contacts from other services into Hired. When You import Your contacts, We may indefinitely store the contact information in Our database, including Your contacts' names, e-mails, phone numbers, locations, and relationships to You, subject to applicable law. We do not store any passwords You provide as part of the contact import process.
+
+After We import Your contacts, We will use this information to help Us establish networks of contacts, document relationships, facilitate referrals, and improve Our Site and Service. We may also use this information to show You and other users that You may know each other or have shared contacts. We rely upon You to obtain whatever consents from the relevant third parties that may be required by law to allow Us to access and upload the third parties’ names, e-mail addresses, and other contact information. You or such a third party may contact Us at support@hired.com to request the removal of this information from Our database.
+
+### (d) Information Collected From Third Party Companies
+
+We may receive Personal and/or Anonymous Data about You from companies that provide Our Service by way of a co-branded or private-labeled website, companies that offer their products and/or services through Our Services, and/or companies that otherwise collect such information. These third party companies may supply Us with Personal Data. We may add this information to the information We have already collected from You via Services in order to improve Services We provide to You.
+
+## VII Use Of Your Personal Data
+
+### (a) General Use
+
+In general, Personal Data You submit to Us is used either to respond to requests that You make, or to aid Us in serving You better. We use Your Personal Data in the following ways:
+
+facilitate the creation of and completion of Your profile for use with the Site and Service;
+
+identify You as a User in Our system;
+
+provide improved administration of the Site and Service;
+
+provide the Site and Service;
+
+improve the quality of experience when You interact with the Site and Service;
+
+send You a welcome e-mail to verify ownership of the e-mail address provided when Your Account was created;
+
+send You administrative e-mail notifications, such as information about pending job offers, security or support and maintenance advisories;
+
+respond to Your inquiries related to employment opportunities or other requests;
+
+make telephone calls to You, from time to time, as a part of secondary fraud protection or to solicit Your feedback;
+
+send You calendar invitations; and
+
+send newsletters, surveys, offers, and other promotional materials related to the Site or Service and for other marketing purposes of Hired.
+
+### (b) User Testimonials And Feedback
+
+We often receive testimonials and comments from users who have had positive experiences with Our Service. We occasionally publish such Content. When We publish this Content, We may identify Our Users by their first and last name and may also indicate their home city. We obtain the User’s consent prior to posting his or her name along with the testimonial. We may post user feedback on the Site from time to time. We will share Your feedback with Your first name and last initial only. If We choose to post Your first and last name along with Your feedback, We will obtain Your consent prior to posting You name with Your feedback. If You make any comments on a blog or forum associated with Services Site, You should be aware that You have no reasonable expectation of privacy and that any Personal Data You submit there can be read, collected, or used by other users of these forums, and could be used to send You unsolicited messages. We are not responsible for the personally identifiable information You choose to submit in these blogs and forums.
+
+### (c) Creation Of Anonymous Data
+
+We may create Anonymous Data records from Personal Data by excluding information (such as Your name) that makes the data personally identifiable to You. We use this Anonymous Data to analyze request and usage patterns so that We may enhance the content of Service and improve Site navigation. We reserve the right to use Anonymous Data for any purpose and disclose Anonymous Data to third parties in Our sole discretion.
+
+## VIII Disclosure Of Your Personal Data
+
+We disclose Your Personal Data as described below and as described elsewhere in this Privacy Statement.
+
+### (a) Third Parties Designated By You
+
+When You use the Service, the Personal Data You provide will be shared with the third parties that You designate to receive such information, including other websites, Your friends, relatives and business associates. Depending on the type of access You grant to such third parties, they may also be permitted to edit the information You have provided to Us and to designate others to access and edit such information. You may change Your settings at any time as to who has access to Your information by going to Your account settings and changing Your publishing options.
+
+### (b) Third Party Service Providers
+
+We may share Your Personal Data with third party service providers to: provide You with the Service; to conduct quality assurance testing; to facilitate creation of Accounts; to provide technical support; and/or to provide other services to Hired. These third party service providers are required not to use Your Personal Data other than to provide the services requested by Hired.
+
+### (c) Affiliates
+
+We may share some or all of Your Personal Data with Our parent company, subsidiaries, joint ventures, or other companies under a common control (“Affiliates”), in which case We will require Our Affiliates to honor this Privacy Statement.
+
+### (d) Corporate Restructuring
+
+We may share some or all of Your Personal Data in connection with or during negotiation of any merger, financing, acquisition or dissolution transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of Our business or assets. In the event of an insolvency, bankruptcy, or receivership, Personal Data may also be transferred as a business asset. If another company acquires Our company, business, or assets, that company will possess the Personal Data collected by Us and will assume the rights and obligations regarding Your Personal Data as described in this Privacy Policy.
+
+### (e) Social Networking Sites (“SNS”)
+
+Our Service may enable You to post content to a SNS. If You choose to do this, We will provide information to such SNS in accordance with Your elections. You acknowledge and agree that You are solely responsible for Your use of those websites and that it is Your responsibility to review the terms of use and privacy policy of the third party provider of such SNS. We will not be responsible or liable for: (i) the availability or accuracy of such SNS; (ii) the content, products or services on or availability of such SNS; or (iii) Your use of any such SNS.
+
+### (f) Public Profile
+
+Certain portions of the information You provide to us may also be displayed in Your Profile. As an essential element of the Service, most of the Personal Data You explicitly provide to us when You register or update Your Profile is displayed on Your Profile. In order for Your Profile to be made public, You must go to Your profile settings and then to profile visibility. By default, Your Profile is not for public viewing. Your photos, posts, friends, and other content You post to the Site are also meant for public consumption. We may display this content on the Site and further distribute it to a wider audience through third party sites and services. Once displayed on publicly viewable web pages, that information can be collected and used by others. We cannot control who reads Your postings or what other users may do with the information that You voluntarily post, so it is very important that You do not put Personal Data in Your posts. Once You have posted information publicly, while You will still be able to edit and delete it on the Site, You will not be able to edit or delete such information cached, collected, and stored elsewhere by others (e.g., search engines).
+
+### (g) Other Disclosures
+
+Regardless of any choices You make regarding Your Personal Data (as described below), Hired may disclose Personal Data if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on Hired; (c) to protect or defend the rights or property of Hired or users of the Site or Service; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or Our Terms of Use.
+
+## IX Third Party Websites
+
+Our Site may contain links to third party websites. When You click on a link to any other website or location, You will leave Our Site and go to another site, and another entity may collect Personal Data or Anonymous Data from You. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of Your Personal Data after You click on links to such outside websites. We encourage You to read the privacy policies of every website You visit. The links to third party websites or locations are for Your convenience and do not signify Our recommendation of such third parties or their products, content or websites.
+
+## X Your Choices Regarding Information
+
+You have several choices regarding the use of information on Our Service:
+
+### (a) Email Communications
+
+We will periodically send You free newsletters and e-mails that directly promote the use of Our Site or Service. When You receive newsletters or promotional communications from us, You may indicate a preference to stop receiving further communications from us and You will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail You receive or by contacting us directly (please see contact information below). Despite Your indicated e-mail preferences, We may send You Service related communications, including notices of any updates to Our Terms of Use or Privacy Policy.
+
+### (b) Cookies
+
+If You decide at any time that You no longer wish to accept Cookies from Our Site or Service for any of the purposes described above, then You can instruct Your browser, by changing its settings, to stop accepting Cookies or to prompt You before accepting a Cookie from the websites You visit. Consult Your browser’s technical information. If You do not accept Cookies, however, You may not be able to use all portions of the Site or all functionality of the Service. If You have any questions about how to disable or modify Cookies, please let us know at the contact information provided below.
+
+### (c) De-linking SNS
+
+If You decide at any time that You no longer wish to have Your SNS account (e.g., Facebook) linked to Your Account, then You may de-link the SNS account in the “preferences” section in Your account settings. You may also manage the sharing of certain Personal Data with us when You connect with us through an SNS, such as through Facebook Connect. Please refer to the privacy settings of the SNS to determine how You may adjust Our permissions and manage the interactivity between the Service and Your social media account or mobile device.
+
+### (d) Changing Or Deleting Your Personal Data
+
+You may change any of Your Personal Data in Your Account by editing Your profile within Your Account. You may request deletion of Your Personal Data by us, and We will use commercially reasonable efforts to honor Your request, but please note that We may be required to keep such information and not delete it (or to keep this information for a certain time, in which case We will comply with Your deletion request only after We have fulfilled such requirements). When We delete any information, it will be deleted from the active database, but may remain in Our archives. We may also retain Your information for fraud or similar purposes.
+
+## XI Security Of Your Personal Data
+
+Hired is committed to protecting the security of Your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect Your Personal Data from unauthorized access, use, or disclosure. We also require You to enter a password to access Your Account information. Please do not disclose Your Account password to unauthorized people. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Hired uses reasonable efforts to Your Personal Data, Hired cannot guarantee its absolute security.
+
+## XII Changes To This Privacy Policy
+
+This Privacy Policy may be updated from time to time for any reason. We will notify You of any changes to Our Privacy Policy by posting the new Privacy Policy here: https://hired.com/privacy and We will change the “Last Revised” date above. You should consult this Privacy Policy regularly for any changes. Continued use of Our Site or Service, following posting of such changes, shall indicate Your acknowledgement of such changes and agreement to be bound by the terms of such changes. If You do not agree, You should immediately discontinue Your use of the Site or Service.
