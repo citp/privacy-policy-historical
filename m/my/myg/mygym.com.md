@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the mygym.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325014128id_/http%3A//www.mygym.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygym.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116023229id_/https%3A//www.mygym.com/privacy) for the most accurate reproduction.*
 
 # Privacy
-
-  
-
-
-* * *
 
 **1\. Introduction.**
 
@@ -89,8 +84,8 @@ Your California Privacy Rights
 
 California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits users who are California residents to request and obtain from us once a year, free of charge, information about the personally identifiable information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to: 
 
-Mae Perez   
-15300 Ventura Blvd., Suite 414   
+My Gym Engerprises   
+15300 Ventura Blvd., Suite 523   
 Sherman Oaks, CA 91403 
 
-Updated: August 15, 2013 
+Updated: March 15, 2018 
