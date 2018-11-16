@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the azchords.com privacy policy that was archived on 2016-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161005204155id_/http%3A//www.azchords.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azchords.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116111053id_/https%3A//www.azchords.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy. AZchords.com
 
 **AZChords.com** has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses the information gathering and dissemination practices for this web site: AZChords.com 
+
+**Legitimate Interest**
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more det ails including opt \- out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via privacy@exponential.com 
+
+**Consent**
+
+Subject to your consent, Exponential Interactive, Inc collect and profile personal data in the form of IP address and cookie ID from users on o ur website in order to provide targeted online advertising and ad measurement. You may change your consent decision at any time via. For more details including access requests a nd complaints, review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via privacy@exponential.com 
 
 **Information Automatically Logged**
 
@@ -37,5 +45,5 @@ This web site may contain copyrighted material whose use has not been specifical
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20161005204155id_/http%3A//www.azchords.com/contact.html).   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20181116111053id_/https%3A//www.azchords.com/contact.html).   
 
