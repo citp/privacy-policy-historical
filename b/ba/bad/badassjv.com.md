@@ -1,81 +1,179 @@
-> *The following text is extracted and transformed from the badassjv.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519185007id_/http%3A//www.thetaoofbadass.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badassjv.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116102713id_/http%3A//www.thetaoofbadass.com/privacy-policy) for the most accurate reproduction.*
 
 # thetaoofbadass.com
 
-THE TAO OF BADASS, the parent company of Thetaoofbadass.com, and it's affiliate sites, has created this Privacy Statement (Policy) in order to demonstrate our firm commitment to helping our users better understand what information we collect about them and what may happen to that information.
+**Privacy Policy**
 
-The following discloses our information gathering and dissemination practices for the Websites listed below.
+**Last Updated Tuesday, June 19, 2018**
 
-**Overview**
+We at The Tao of Badass are committed to protecting your personal information. 
 
-As part of the normal operation of our services we collect and, in some cases, may disclose information about you. This Privacy Policy describes the information we collect about you and what may happen to that information. By accepting this Privacy Policy and our Terms and Conditions, you expressly consent to our use and disclosure of your personal information in the manner prescribed in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the THE TAO OF BADASS Terms and Conditions.
+Each time you visit our websites or provide us with information, you are accepting the practices as described in the policy at that time. Please review this policy from time to time as we may update it periodically. If you have entered into a separate agreement with The Tao of Badass (a licensing agreement, nondisclosure agreement, etc.) that agreement may include additional relevant information.
 
-This Privacy Statement applies to all THE TAO OF BADASS sites. All other THE TAO OF BADASS worldwide sites operate under similar privacy practices as described in this Privacy Policy, and subject to the requirements of applicable local law, we strive to provide a consistent set of privacy practices throughout the THE TAO OF BADASS online personals sites.
+**California residents, please also see the "Note To California Residents" Section for additional rights that apply to you.**
 
-**1\. Minors (under 18) are not eligible to use our services**
+**Information We Collect From You**
 
-Children are not eligible to use our services, and we ask that minors (under the age of 18) do not submit any personal information to us.
+To provide you with products and services, we may collect personal information (i.e. name, user name, shipping address, phone number, email address), financial information (i.e. credit card numbers and billing addresses), and demographic information (i.e. zip code, age). We retain personal information no longer than is necessary for business purposes or legal requirements. If you do not provide certain account information, or withdraw consent for us to use it, we may not be able to provide some services to you.
 
-**2\. Information We Collect**
+Voluntary submissions of personal information can occur for various reasons, such as if you request to receive information about our services, or if you subscribe to one of our mailing lists.
 
-Our primary goal in collecting personal information is to provide you with a smooth, efficient, and customized experience. This allows us to provide services and features that most likely meet your needs and to customize our service to make your experience easier. You agree that in order to assist our members to meet each other we may feature members' profiles in our editorials and newsletters that we send out from time to time to our members. Your name, address and telephone number are confidential and will not be posted in your profile. Your profile is available for other members to view. Members' profiles include a description and photos, likes and dislikes, individual essays and other information helpful in determining matches. Your viewable profile does not include any identifying information about you, except the username you chose upon registering.
+If you subscribe to one of our mailing lists, we generally collect your name, email address, and optionally your telephone or other information if you provide it to us so we can customize your experience and better serve your needs.
 
-Please note that your personally identifiable information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may differ from the European laws but as we explain below, We will hold and transmit your information in a safe, confidential and secure environment.
+**Children Under the Age of 16**
 
-We automatically track certain information based upon your behavior on our Websites using cookies and other devices. We use this information for internal research on our members' demographics, interests, and behavior to better understand and serve you and our community. This information may include the URL that you just came from (whether this URL is on our site or not). Which URL you next go to (whether this URL is on our site or not), what browser you are using, and your IP address.
+Children under the age of 16 are required to provide consent from a holder of parental responsibility. This person may review the child's personal information, withdraw consent to use it, or have it deleted, by contacting [support@thetaoofbadass.com](mailto:support@socialtrainingcompany.com). 
 
-We use data collection devices such as "cookies" on certain pages of our Websites. "Cookies" are small files placed on your hard drive that assist us in providing customized services. We also offer certain features that are only available through the use of a "cookie". Cookies can also help us provide information which is targeted to your interests. Most cookies are "session cookies", meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits.
+**How We Use Your Personal Information**
 
-We use a third party advertising company, to serve ads on our behalf across the Internet. The third party may also collect anonymous information about your visits to our Web site. This is primarily accomplished through the use of a technology device, commonly referred to as a Web beacon or an action tag, which we place on various Web pages within our Web site or in an html e-mail that allows Atlas DMT to collect anonymous information. Atlas DMT may use information about your visits to this and other Web sites in order to provide ads about goods and services of interest to you.
+We use information you provide, like names, addresses, phone numbers, email addresses, and sometimes credit card information when such information is voluntarily submitted by our visitors as well as to deliver the services you have requested, to contact you when necessary in connection with those service requests, to send you information regarding your order or requested services, and to prevent fraud and spam. Most of your customer information is stored in a third-party Customer Relationship Manager (CRM) system called Pipedrive via a service called Clickfunnels, and not directly on our servers.
 
-**3\. Our Use of Your Information**
+Your credit card information is not stored by us, and is instead passed to a payment processor called Stripe via a service called Clickfunnels. 
 
-We use information in the files we maintain about you, and the other information we obtain from your current and past activities on the Websites to resolve disputes, troubleshoot problems and enforce our Terms and Conditions. At times, we may look across multiple members to identify problems or resolve disputes, and in particular we may examine your information to identify members multiple Member ID No. or aliases.
+We automatically collect and store certain information in server logs. This includes your IP address, your browser and operating system, and details of how you used our website.
 
-You agree that we may use personally identifiable information about you to improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customize our Site's content, layout, and services. These uses improve our site and better tailor it to meet your needs.
+Cookies are text files that are used by your computer's web browser to store your preferences, and enable us to enhance your user experience with our site. Third party retargeting networks may also use cookies to display our advertisements to you on other sites.� You can learn more about how to opt-out of a third-party vendor's use of cookies by visiting the [](http://optout.networkadvertising.org/?c=1#!/)[DG1] .
 
-You agree that we may use your information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use on the Websites. By accepting this Privacy Policy, you expressly agree to receive this information.
+Please note that you do have the option to configure most web browsers to NOT accept cookies.
 
-**4\. Our Disclosure of Your Information**
+However, be aware that disabling cookies may keep you from having access to some functions or services on our site or the web-hosted software that runs on our site. 
 
-Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting and foregoing), we may be forced to disclose information to the government, law enforcement agencies or third parties. Under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or members may abuse or misuse your information that they collect from our Websites. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private.
+Because there is not yet a common understanding of how to interpret web browser-based "Do Not Track" signals other than cookies, we do not currently respond to "Do Not Track" signals that are undefined.
 
-As a matter of policy, we do not sell or rent any personally identifiable information about you to any third party. However, the following describes some of the ways that your personally identifiable information may be disclosed.
+We are waiting for the online industry to develop a common protocol for how to treat DNT signals. In the meantime, you can use the range of other tools we provide to control data collection and use, including those described herein. 
 
-Financial Information. Under some circumstances we may require some additional information, such as, but not limited to credit card details. We use this financial information, including your name, address, and other information, as well as to bill you for use of our services. We use your financial information to check your qualifications, to bill you for services and/or products, to enable you to participate in discount, rebate and similar programs in which you may elect to participate. By making a purchase, or engaging in any other kind of activity or transaction that uses financial information on the Websites, you consent to our providing of your financial information to our service providers and to such third parties as we determine are necessary to support and process your activities and transactions, as well as to your credit card issuer for their purposes. These third parties may include the credit card companies and banking institutions used to process and support the transaction or activity. By purchasing, or registering or making reservations for products or services of third parties offered on the Websites, or by participating in programs offered on the Websites that are administered by third parties and that require you to submit financial information in order to use them, you also consent to our providing your financial information to those third parties. Any of these various third parties may be authorized to use your financial information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and you agree that we are not responsible or liable for any of their actions or omissions. Additionally, you agree that we may use and disclose all such information so submitted to such third parties in the same manner in which we are entitled to use and disclose any other information that you submit to us.
+If you opt in to emails about our products, offers, updates, and events, we may send you emails about these topics on behalf of ourselves and/or our affiliates. You can opt out of non-transactional emails by clicking the unsubscribe link at the bottom of any email communication, or by emailing [support@thetaoofbadass.com](mailto:support@socialtrainingcompany.com). You can customize your email and other preferences (such as the lists you are subscribed to) by following the instructions contained in the Section entitled "Access to and Control of Your Personal Information". We only send emails to people who have authorized us to contact them, either directly, or through a third party. We do not send unsolicited commercial emails, because we hate spam as much as you do.
 
-Advertisers. We aggregate (gather up data across all our members' accounts) personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally. Certain information, such as your name, email address, password, credit card number and bank account number, are never disclosed to marketing advertisers. We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.
+By submitting your email address, you also agree to allow us to use your email address for custom audience targeting on sites like Facebook, where we display custom advertising to specific people who have opted-in to receive communications from us.
 
-External Service Providers. There may be a number of services offered by external service providers that help you use our Websites. If you choose to use these optional services, and in the course of doing so, disclose information to the external service providers, and/or grant them permission to collect information about you, then their use of your information is governed by their private policy.
+If you visit this site with an open ID (such as Facebook), you may also be sharing and integrating data with third-party social media sites, and we may track aggregate data about the number of visits to this site with an open ID, the number of items "liked" on this site, or items on this site that you choose to share with a third-party social media site.
 
-Other Corporate Entities. We share much of our data, including personally identifiable information about you, with our parent and/or subsidiaries that are committed to serving your online needs and related services, throughout the world. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their other members. Our parent and/or subsidiaries will follow privacy practices no less protective of all members than our practices described in this document, to the extent allowed by applicable law. It is possible that We and/or its subsidiaries, or any combination of such, could merge with or be acquired by another business entity. Should such a combination occur, you should expect that we would share some or all of your information in order to continue to provide the service. You will receive notice of such event (to the extent it occurs) and we will require that the new combined entity follow the practices disclosed in this Privacy Policy.
+If you wish to stop seeing ads from us on Facebook, you can turn off the ad by using the following steps:
 
-Legal Requests. we cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights. We can (and you authorize us to) disclose any information about you to law enforcement and other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability.
+From within Facebook, go to the advertisement you want to turn off. ii. Click on the drop-down arrow in the top corner of the ad (that may be in the top right corner or top left corner). iii. Click on "Hide ad". 
 
-**5\. Your Use of other Members Information**
+You can also customize the ads you see in Facebook across all advertisers by using the following steps:
 
-Our services also include access to instant messaging and chat rooms. As a member you have access to the Member's ID No., and you might gain access to other contact information of the Member(s) through the regular use of the instant messaging and chat rooms. By accepting this Privacy Policy, you agree that, with respect to other Members' personally identifiable information that you obtain through instant messaging communication, the chat rooms and email, We hereby grants to you a license to use such information only for: (a) Your Company related communications that are not unsolicited commercial messages, and (b) any other purpose that such member expressly agrees to after adequate disclosure of the purpose(s). In all cases, you must give Members an opportunity to remove themselves from your database and a chance to review what information you have collected about them. In addition, under no circumstances, except as defined in this Section, can you disclose personally identifiable information about another member to any third party without our consent and the consent of such other member after adequate disclosure. THE TAO OF BADASS and our members do not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add a THE TAO OF BADASS member to your mail list (email or physical mail) without their express written consent after adequate disclosure. To report spam from other THE TAO OF BADASS, please Contact Us.
+Log in to your Facebook account and click "settings". ii. Click on "Ads". iii. On that page you will see a list of options you can choose to limit and/or block the information Facebook shows to advertisers. 
 
-**6\. Accessing, Reviewing and Changing Your Profile**
+If you wish to stop seeing ads from us in Google Ads, you can turn off the ad by using the following steps:
 
-Following registration, you can review and change the information you submitted during registration through the Member Service Menu including: Your password and e-mail address. If you change your password and email we keep track of your old password and email. You can also change your registration information such as: name, address, city, state, zip code, country, phone number, profile, likes and dislikes, desired date profile, essays and saves search criteria.
+Go to the advertisement you want to turn off. ii. Click on the x in the top left corner. iii. Click on "Stop seeing thisad". 
 
-Upon your written request, we will suspend your membership, contact information, and financial information from our active databases. Such information will be suspended as soon as reasonably possible in accordance with our suspension policy and applicable law. To remove your profile so that others cannot view it, visit the Remove Your Profile section of Member Services.
+Other ad platforms we may use in the future have similar ways you can turn off any ad from us to stop seeing it.
 
-We will retain in our files information you have requested to remove for certain circumstances, such as to resolve disputes, troubleshoot problems and enforce our terms and conditions. Further, such prior information is never completely removed from our databases due to technical and legal constraints, including stored 'back up' systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests.
+In addition, you agree that by submitting your telephone contact information on our site and/or registering to receive the product and/or service offered herein, such act constitutes a purchase, an inquiry, and/or an application for the purposes of the Amended Telemarketing Sales Rule (ATSR), 16 CFR �310 et seq. and any applicable state and local "do not call" regulations. We retain the right to contact you via telemarketing in accordance with the ATSR and the applicable state regulations.
 
-**7\. Control of Your Password**
+If you enter information into our websites outside of secure transactions, the content you provide may be visible to the public along with any associated username. Do not post sensitive personal information such as your address or credit card number outside of secure transactions on our sites. Users posting messages to our sites automatically grant The Tao of Badass the royalty-free, perpetual, irrevocable, nonexclusive right and license to use, reproduce, modify, adapt, publish, translate, sublicense, copy and distribute such messages throughout the world in any media.
 
-You are responsible for all actions taken with your login information and password, including fees. Therefore we do not recommend that you disclose your THE TAO OF BADASS password or login information to any third parties. If you choose to share this information with third parties to provide you additional services, you are responsible for all actions taken with your login information and password and therefore should review each third party's privacy policy. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your passwod
+Your information may be stored and processed in the United States or any other country in which The Tao of Badass or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country.
 
-**8\. Other Information Collectors**
+**How We Share Your Personal Information**
 
-Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are on our Websites or on other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy policies. Since THE TAO OF BADASS does not control the privacy policies of the third parties, you are subject to ask questions before you disclose your personal information to others.
+In some cases, it is necessary for us to provide information particular to you to a third party.
 
-**9\. Security**
+�         When you give us a billing address or credit card information, we provide it to a credit card processor to check your qualifications and to charge you for products and services you order from us. By making a purchase or engaging in another activity on our websites that uses financial information, you consent to our providing your financial information to third parties as necessary to process your transactions. If you do not provide this information, or withdraw consent to our sharing it for the above purpose, we cannot process your orders.
 
-THE TAO OF BADASS uses industry standard practices to safeguard the confidentiality of your personal identifiable information, including "firewalls" and Secure Socket Layers. THE TAO OF BADASS treats data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by members inside and outside the company. However, "perfect security" does not exist on the Internet.
+�         When you give us an address, we may provide it to shipping services in order to determine shipping rates and to ship your packages. If the address is within the United States, we provide it to an address verification service for standardization. If the address is within the state of Washington, we provide it to a geolocation service to determine your tax district so that we can correctly charge sales tax. If the address is outside of the United States, we may ask for a phone number; this is provided to the shipper per their requirement. If you do not provide this information, or withdraw consent to our sharing it for the above purpose, we cannot process your orders.
 
-**10\. Notice**
+This information will be used by the partner solely to provide access to and pricing information for that partner's products. If you do not provide this information, or withdraw consent to our sharing it for the above purpose, our partners' ability to provide access to and beneficial pricing information for these products may be limited.
 
-We may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. All changes to this policy are effective after we provide you with at least (30) days notice of changes by sending email to members. We provide you with (30) days notice to allow you the opportunity to notify THE TAO OF BADASS if you do not agree to such changes.
+We may disclose your personal information to other parties if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on us or our sites; (b) protect and defend the rights or property of The Tao of Badass and its web sites, or (c) act in urgent circumstances to protect the personal safety of users of The Tao of Badass, its web sites, or the public.
+
+Other parties such as advertising partners and analytics companies may also be collecting information about your online activity across various websites over time. The information collected by those third parties may include identifiers that allow those third parties to tailor the ads that they serve to your computer or other device.
+
+The Tao of Badass will not share your personal information with third parties without your permission, other than for the limited exceptions stated above.
+
+**Information Other Websites Collect From You**
+
+While many websites share information about your browsing activities with other services, The Tao of Badass does not. Some parts of our services are hosted by companies that may collect usage data for the purpose of providing and improving service.
+
+Please be aware that there are links from our site to other websites operated by other parties where our privacy policy does not apply. We encourage you to review their privacy policies, and remind you that we are not responsible for their actions.
+
+**Access to and Control of Your Personal Information**
+
+You have the means to ensure that your personal information is correct and current.
+
+You can also contact [support@thetaoofbadass.com](mailto:support@socialtrainingcompany.com) to:
+
+�         Ask for a copy of any personal information you have already given us. (See details below).
+
+�         Ask to have your personal information deleted (i.e. "forgotten") from our databases. (See details below) .
+
+�         Opt into or out of emails about The Tao of Badass products, official licensed products, special offers, updates, and events. (See details below).
+
+�         Opt into or out of emails containing marketing messages (See details below).
+
+If you wish to request that we export your data (such as for porting it to another vendor), please send an email to [support@thetaoofbadass.com](mailto:support@socialtrainingcompany.com) with the subject line "Export My Data", and explain in the body of the email that you are asking for a data export.� We have a standard data export format that we will provide and are not able to create custom exports.
+
+To protect user privacy, you must send such a request from the account information we have on file or the request will not be honored.� 
+
+If you wish to request that we forget you from our database, please send an email to [support@thetaoofbadass.com](mailto:support@socialtrainingcompany.com) with the subject line "Forget Me", and explain in the body of the email that you are asking to have your personal data deleted.� To protect user privacy, you must send such a request from the account information we have on file or the request will not be honored.
+
+We reserve the right to retain any data that we are required to maintain under applicable laws.� (Some data will be anonymized rather than deleted; this means that some of the data will be held in a form that cannot be connected to you personally.) Please be aware that once we delete your data, we will be unable to "undelete" it. (Among other things, this means you will be unable to redownload any previous purchases, as we will no longer be able to connect that purchase to you.) 
+
+If you are a subscriber to one of our mailing lists, you can customize your information and the mailing lists you have subscribed to at any time by simply clicking the link called "Manage Subscription"" at the bottom of any email you receive from us. That will take you to a preferences center where you can update your information and communication preferences.
+
+**Notice of Rights**
+
+Subjects in the European Union are advised of the following rights; The Tao of Badass gladly provides the same opportunities to subjects outside the European Union. (You may have other rights.)
+
+�         You may request access to and rectification or erasure of personal data concerning you.
+
+�         You may request restriction of data processing concerning you.
+
+�         You may request the personal data which you have provided us concerning you, and you may transmit those data to another controller without hindrance from us.
+
+�         You may object at any time to our processing of personal data concerning you and you may withdraw your consent for future processing.
+
+�         If you are a subject in the European Union, and you believe that The Tao of Badass's processing of personal data relating to you infringes the EU's General Data Protection Regulation, you may lodge a complaint with your Member State's designated supervisory authority.
+
+**IP Addresses**
+
+We may use your IP address to help prevent fraud, to help diagnose problems with our server, to gather broad demographic information, and to offer you products and services.
+
+**Commitment to Data Security**
+
+All information collected from you is stored in a technically and physically secure environment. Furthermore, employees, contractors, and vendors who have access to your personally identifiable information in connection with providing services for us are required to keep the information confidential.
+
+We use SSL encryption to protect sensitive information online, and we do everything we can to protect user information offline. Unfortunately, no transmission over the Internet can be guaranteed to be 100% secure. As a result, while we take reasonable measures to protect your information, we cannot ensure or warrant the security of the information that you transmit to us, and you do so at your own risk.
+
+**Changes to This Policy**
+
+The Tao of Badass will occasionally update this privacy policy. When we do, we will revise the "last updated" date at the top of the page. For material changes to this policy, The Tao of Badass will notify you by placing prominent notice on our web sites, and may contact you via email.
+
+**Contact**
+
+If you have questions or concerns about this privacy policy, or about your dealings with our websites, contact:
+
+The Tao of Badass
+
+8605 Santa Monica Blvd #21631
+
+Los Angeles, CA 90069 USA
+
+[support@thetaoofbadass.com](mailto:support@socialtrainingcompany.com)
+
+**Severability**
+
+If any part of this privacy policy is held invalid or unenforceable, that portion shall be construed in a manner consistent with applicable law to reflect, as nearly as possible, the original intentions of the parties, and the remaining portions shall remain in full force and effect.
+
+**Note to California Residents**
+
+If you live in the State of California, under the California Civil Code, you have the right to request that companies who conduct business in California provide you with a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes. 
+
+Alternatively, the law provides that if a company has a privacy policy that gives either an opt-out (often referred to as "unsubscribe") or opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, that the company may instead provide you with information on how to exercise your disclosure choice options. 
+
+This site qualifies for the alternative option; it has a comprehensive privacy policy and provides you with details on how you may either opt-out or opt-in to the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. 
+
+If you are a California resident and want to request information about how to exercise your third party disclosure choices, you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). Please send an email to the Privacy Administrator at [support@thetaoofbadass.com](mailto:support@socialtrainingcompany.com), or you may contact us via regular mail at: 
+
+The Tao of Badass
+
+8605 Santa Monica Blvd #21631
+
+Los Angeles, CA 90069 USA
+
+**All requests sent via regular mail must be labeled "Your California Privacy Rights" on the email subject line or envelope and clearly stated on the actual request**. For all requests, please include your name, street address, city, state, and zip code. Please include your zip code for our own recordkeeping. 
+
+**We do not accept requests via the telephone or by facsimile**. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
