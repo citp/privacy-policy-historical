@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-news-school.info privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618182750id_/http%3A//online-news-school.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-news-school.info privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116140155id_/http%3A//online-news-school.info/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy • Index of Online Schools
 
