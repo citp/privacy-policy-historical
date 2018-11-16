@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the telecomfile.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517105950id_/http%3A//www.telecomfile.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telecomfile.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116054856id_/http%3A//www.telecomfile.com/privacy-policy.html) for the most accurate reproduction.*
 
 # TelecomFile | Privacy-policy
 
-[](https://web.archive.org/web/20180517105950id_/http%3A//www.telecomfile.com/)
+[](https://web.archive.org/web/20181116054856id_/http%3A//www.telecomfile.com/)
 
 |    
 ---|---  
