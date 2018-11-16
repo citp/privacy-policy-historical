@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstcitygrouponline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124158id_/http%3A//firstcitygrouponline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcitygrouponline.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116052103id_/http%3A//www.firstcitygrouponline.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to First City Group Online
 
