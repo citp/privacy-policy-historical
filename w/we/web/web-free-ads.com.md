@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web-free-ads.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519065509id_/http%3A//web-free-ads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-free-ads.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116220958id_/http%3A//web-free-ads.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
