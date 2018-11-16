@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poptv.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712152324id_/https%3A//www.poptv.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poptv.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116132428id_/https%3A//www.poptv.com/privacy_policy) for the most accurate reproduction.*
 
 # Pop TV
 
@@ -114,4 +114,4 @@ By using this website in any way, you unconditionally consent and agree that: (1
 
 For any questions, suggestions, or concerns related to this Privacy Policy, please email  press@poptv.com. Alternatively, you may contact Company via postal mail at Privacy Policy Questions, c/o Pop Media Group, LLC, 5510 Lincoln Boulevard, Suite 400, Playa Vista, California, Attention: Business and Legal Affairs. 
 
-© 2017 Pop Media Group, LLC. All rights reserved. 
+© 2018 Pop Media Group, LLC. All rights reserved. 
