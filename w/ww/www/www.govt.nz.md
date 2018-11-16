@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the www.govt.nz privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180327id_/https%3A//www.govt.nz/about/using-this-website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.govt.nz privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116133509id_/https%3A//www.govt.nz/about/using-this-website/privacy) for the most accurate reproduction.*
 
 # Privacy | NZ Government
 
 ### No need to disclose personal information
 
-You can use the Site — including completing user research tasks — without disclosing any personal information.
+You can use the site — including completing user research tasks — without disclosing any personal information.
 
 ### Your disclosure of personal information
 
-You may choose to disclose personal information to us when you give feedback or in submission forms. This information can be viewed by site administrators, certain Department of Internal Affairs (DIA) staff and sometimes third-party contractors who administer or work on the Site, or who work on special projects with us.
+You may choose to disclose personal information to us when you give feedback or in submission forms. This information can be viewed by site administrators, certain Department of Internal Affairs (DIA) staff and sometimes third-party contractors who administer or work on the site, or who work on special projects with us.
 
 Don't send us sensitive personal information or include any sensitive personal information in submission forms.
 
