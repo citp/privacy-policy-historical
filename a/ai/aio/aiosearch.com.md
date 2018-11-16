@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiosearch.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517172324id_/http%3A//www.aiosearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiosearch.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116233841id_/http%3A//www.aiosearch.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AIO Search
 
