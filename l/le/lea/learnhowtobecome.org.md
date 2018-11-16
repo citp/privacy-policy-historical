@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the learnhowtobecome.org privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706202357id_/https%3A//www.learnhowtobecome.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnhowtobecome.org privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116152808id_/https%3A//www.learnhowtobecome.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LearnHowToBecome.org
+
+Privacy Policy 
 
 ## **Our Privacy Policy**
 
@@ -14,5 +16,5 @@ Our privacy policy extends online to our website. Our primary focus is providing
 
 If you would like to contact us, please email us at [contact@learnhowtobecome.org.](mailto:contact@learnhowtobecome.org) We may retain your email message, our reply and your email address as part of our ongoing customer service initiatives. We reserve the right to contact you after you have contacted us. We may send future email and/or surveys to you about LearnHowtoBecome.org. You always have the right to notify us via email if you wish to discontinue electronic communication, and we will promptly adhere to your request by removing you from our email contact list.
 
-You can find out more about theLearnHowtoBecome.org team here: <http://www.learnhowtobecome.org/about-us/>  
-Thank you for visiting [LearnHowtoBecome.org](http://www.learnhowtobecome.org/), we hope you visit again soon.
+You can find out more about theLearnHowtoBecome.org team here: [/about-us/](https://web.archive.org/about-us/)  
+Thank you for visiting [LearnHowtoBecome.org](https://www.learnhowtobecome.org/), we hope you visit again soon.
