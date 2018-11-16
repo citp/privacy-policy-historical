@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filetut.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517141525id_/http%3A//asmfile.com/ps.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filetut.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116073017id_/http%3A//asmfile.com/ps.html) for the most accurate reproduction.*
 
-# Filetut Storage - Бесплатный хостинг файлов
+# Filetut Storage - Manera facil de compartir sus archivos
 
   * ### The Filetut Privacy Policy was updated on September 01, 2014. 
 
@@ -91,7 +91,7 @@ All such communications are examined and replies issued where appropriate as soo
 
 Filetut may update its Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
 
-If you have any questions about this Policy, please contact us at support@asmfile.com
+If you have any questions about this Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 
 
